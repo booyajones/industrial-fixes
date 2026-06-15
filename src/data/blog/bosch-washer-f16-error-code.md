@@ -1,8 +1,8 @@
 ---
 title: "Bosch Washer F16 Error Code - Causes & Fix"
-description: "F16 or E16 means the door is not recognized as locked. Close the door fully, check for obstructions, and test the door lock assembly."
-pubDatetime: 2026-06-09T19:20:32Z
-modDatetime: 2026-06-09T19:20:32Z
+description: "F16 means the door is open or not locked. Most common fix: close the door fully, clear debris from the latch, or replace the door lock."
+pubDatetime: 2026-06-13T20:06:01Z
+modDatetime: 2026-06-13T20:06:01Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -11,73 +11,74 @@ tags:
   - washer
   - bosch
 money_part: "Bosch washer door lock assembly"
-free_checks:
-  - "Power-cycle washer (unplug 2 min) to clear transient fault and retry"
-  - "Inspect door strike alignment and clean gasket/latch contact points"
-  - "Check door lock harness connector for loose or corroded pins"
-no_buy_pct: "15%"
-part_price: "$40-90"
-most_likely_cause: "Faulty door interlock or door lock assembly"
-likelihood: "the most common cause when the door is already shut"
+most_likely_cause: "door not fully closed or debris in the latch area"
+likelihood: "the most common cause"
 diy_or_pro: "diy"
+free_checks:
+  - "Open and firmly close the door again, listening for a definite latch click"
+  - "Inspect the door gasket fold and latch strike area for trapped laundry, lint, or detergent buildup"
+  - "Check that the door is aligned on its hinges and the strike engages the lock body squarely"
+part_price: "$35-80"
+no_buy_pct: "40%"
 ---
 
 ## Bosch Washer F16 Error Code — What It Means
 
-Bosch identifies F16 or E16 as "Door is open." In practical service terms, this is a door-lock or door-interlock fault. The control system does not see a valid locked-door status, so the wash cycle will not start or continue.
+Bosch displays error code F16 (or E16) when the control board does not receive a valid door-closed and locked signal from the door interlock assembly. The official Bosch error list states that F16 means "Door is open." In practical terms, this fault occurs when the door latch has not engaged properly or when the door lock assembly cannot confirm to the control that the door is securely locked. The washer will not start or advance the cycle until the control sees a closed-door signal.
 
-The code appears when the door is not fully shut, when something is jammed between the door and housing, or when the door lock assembly, latch, wiring, or control board prevents the machine from confirming the door is locked and secure.
+This code does not point to a water-system or motor fault. It is strictly a door-latch recognition problem. The root cause may be as simple as a piece of laundry caught in the gasket or as definite as a failed door lock. Technicians approach F16 by verifying mechanical closure first, then testing the lock assembly and its wiring if the door appears physically shut.
 
 ## Before You Replace Anything
 
-Many owners replace the main control board first, but a simple visual inspection of the door lock assembly, its connector, and the latch mechanism will identify the real fault in most cases.
+Some owners replace the main control board when they see F16, assuming a software fault. The correct first step is to inspect the door gasket, latch area, and door lock assembly. A visual check and a continuity test of the lock connector will isolate the problem without buying a $200+ control.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Faulty door lock or interlock assembly (~50%)** The electrical door lock fails to signal the control board that the door is locked, even when the door is mechanically closed.
-- **Door not fully closed or obstructed (~25%)** Laundry, debris, or a displaced gasket prevents the door from latching completely, so the lock never engages.
-- **Damaged latch, strike, or catch (~15%)** Wear, breakage, or misalignment of the door latch or strike prevents proper engagement with the lock assembly.
-- **Wiring or connector fault (~7%)** Loose, damaged, burned, or broken conductors between the door lock and the control board prevent the locked signal from reaching the board.
-- **Control board or PCB fault (~3%)** The main control board fails to recognize a valid locked-door signal even when the lock and wiring are functioning correctly.
+- **Door not fully closed or load obstruction (~30%)** A garment wedged in the gasket or a fold in the rubber seal prevents the latch strike from engaging the lock body.
+- **Failed door lock or interlock assembly (~30%)** The electrical or mechanical interlock inside the lock housing no longer closes the circuit to signal the control board.
+- **Debris in the latch or strike area (~25%)** Lint, detergent residue, or small objects block the strike from seating cleanly in the lock assembly.
+- **Loose or damaged wiring to the door lock (~10%)** A corroded connector pin or broken wire in the harness to the lock prevents the closed-door signal from reaching the board.
+- **Door misalignment or worn hinges (~5%)** Sagging hinges or a bent door frame keep the strike from engaging the lock even when the door appears closed.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Does the door click firmly shut and feel latched when you close it?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The latch is engaging mechanically. Proceed to inspect the door lock assembly and its wiring.<br><strong>No:</strong> Check for laundry, debris, or gasket displacement blocking the door. Inspect the latch, strike, and hinges for damage or misalignment.</div>
+<details class="dtree"><summary>Does the door close with a firm click and stay latched when you tug it gently?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The mechanical latch is engaging. Move to electrical checks: unplug the washer, remove the door-seal retaining band, pull back the gasket, and inspect the door lock connector for corrosion or looseness.<br><strong>No:</strong> The latch is not engaging. Inspect the gasket fold, the strike on the door, and the lock body opening for debris, damage, or misalignment. Clean the area and check hinge tightness.</div>
 </details>
 
-<details class="dtree"><summary>After closing the door fully and power-cycling the washer, does the F16 or E16 code clear?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The fault was transient or caused by a temporary obstruction. Monitor the washer for recurrence.<br><strong>No:</strong> The door lock assembly, its wiring, or the control board is faulty. Inspect and test the lock and connector next.</div>
+<details class="dtree"><summary>With the door closed, can you see or feel any gap between the door and the cabinet front around the latch area?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The door is misaligned. Check the hinge screws and door-mounting hardware. Adjust or tighten as needed so the strike seats squarely into the lock.<br><strong>No:</strong> Alignment is good. The fault is likely electrical. Test the door lock assembly for continuity across its terminals with the door closed, or replace the lock if no continuity is present.</div>
 </details>
 
-<details class="dtree"><summary>Is the door lock connector clean, tight, and free of discoloration or damage?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The wiring is likely intact. Replace the door lock assembly and retest.<br><strong>No:</strong> Repair or replace the damaged wiring harness or connector, then clear the code and retest.</div>
+<details class="dtree"><summary>After clearing debris and closing the door firmly, does the F16 code clear and the washer start normally?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The obstruction was the only problem. No parts are needed. Wipe the gasket and latch area regularly to prevent buildup.<br><strong>No:</strong> The door lock assembly or its wiring has failed. Replace the door lock and retest.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Unplug the washer** from power and wait at least 30 seconds to reset the control board.
-2. **Open the door and inspect** for any laundry, foreign objects, or folds in the door gasket that would prevent the door from clicking shut completely.
-3. **Close the door firmly** and listen for a distinct click indicating the latch has engaged, then plug the washer back in and attempt to start a cycle.
-4. **If the F16 or E16 code returns**, unplug the washer and remove the outer retaining band from the door seal, then fold the boot back to expose the door lock assembly mounted on the front panel.
-5. **Inspect the door lock connector** for loose terminals, discoloration, melting, or broken wires, and repair or replace the harness if any damage is visible.
-6. **Remove the screws** securing the door lock assembly, disconnect the connector, and install a new door lock if the old one shows no continuity or does not click when the door is shut.
-7. **Reassemble the door seal and band**, plug the washer in, close the door, and run a test cycle to confirm the F16 or E16 code is resolved.
+1. **Unplug the washer** from the wall outlet to remove all power before inspecting any components.
+2. **Open the door fully** and inspect the rubber door gasket for folds, trapped laundry, lint, or detergent buildup in the area where the latch strike engages the lock body.
+3. **Wipe the gasket and latch area** clean with a damp cloth, then close the door firmly and listen for a definite click indicating the latch has engaged.
+4. **Restore power** and attempt to start a cycle. If the F16 code clears, the obstruction was the cause and no further repair is needed.
+5. **If the code persists**, unplug again and use a flat screwdriver or trim tool to pry the inner retaining band off the door gasket, starting at the twelve o'clock position and working around the ring.
+6. **Pull the gasket back** from the front of the cabinet to expose the door lock assembly and its wiring connector. Inspect the connector for corrosion, bent pins, or loose fit, and check the wires for breaks or chafing.
+7. **Test the door lock** by setting a multimeter to continuity or low-ohms mode and probing the lock terminals with the door closed. A working lock should show continuity across at least one pair of terminals when latched. If no continuity is present or the lock body is cracked or stiff, replace the lock assembly.
+8. **Install the new door lock** by disconnecting the old lock's wiring connector, removing the mounting screws that hold the lock to the front panel, and reversing the process with the new lock. make sure the strike on the door aligns with the lock opening.
+9. **Reinstall the door-seal retaining band**, plug in the washer, close the door, and run a short test cycle to confirm the control board recognizes the locked-door state and the F16 code does not return.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Bosch washer door lock assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-f16-error-code&k=Bosch+washer+door+lock+assembly&tag=errorcodefixes-20) \| Match your model number. Verify the connector type and mounting screw locations. |
-| Bosch washer door latch or strike | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-f16-error-code&k=Bosch+washer+door+latch+or+strike&tag=errorcodefixes-20) \| Required if the mechanical catch is broken, worn, or no longer engaging the lock. |
-| Bosch washer door seal or gasket | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-f16-error-code&k=Bosch+washer+door+seal+or+gasket&tag=errorcodefixes-20) \| Replace if deformed or obstructing door closure, preventing the latch from engaging. |
+| Bosch washer door lock assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-f16-error-code&k=Bosch+washer+door+lock+assembly&tag=errorcodefixes-20) \| Match your model number. The lock includes the interlock switch and latch mechanism in one housing. |
+| Door gasket retaining band | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-f16-error-code&k=Door+gasket+retaining+band&tag=errorcodefixes-20) \| Order only if the original band breaks during removal. Most can be reused if handled carefully. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if you have replaced the door lock assembly and repaired any visible wiring faults but the F16 or E16 code persists. At that point the main control board may be misreading the lock circuit, or a deeper wiring fault inside the cabinet requires tracing with a multimeter and wiring diagram. Also call a pro if you are uncomfortable working with electrical connectors or removing the door seal, or if your washer is still under warranty and self-repair would void coverage.
+Call a technician if you are uncomfortable working with the door seal or if the door lock replacement does not clear the F16 code after careful installation. A persistent fault after lock replacement may indicate a wiring problem in the main harness or a fault in the control board's door-lock circuit, both of which require tracing with a schematic and a multimeter. Also call a pro if the door frame itself is bent or the cabinet front is damaged, since structural repairs may be needed to restore proper latch alignment.
 
-**Rough cost:** DIY runs about $40–90 in parts, 30–60 min. A pro service call runs about $120–250.
+**Rough cost:** DIY runs about $35-80 in parts, 30-60 min. A pro service call runs about $150-250.

@@ -1,8 +1,8 @@
 ---
 title: "Bosch Washer E30 Error Code - Causes & Fix"
-description: "E30 means leak/overflow protection or heating fault depending on Bosch model. Most often: water leak in base or clogged inlet screen."
-pubDatetime: 2026-06-09T19:18:31Z
-modDatetime: 2026-06-09T19:18:31Z
+description: "E30 means a water-fill timeout on many Bosch washers. Check water supply is on, inlet screen is clean, and drain hose is not kinked."
+pubDatetime: 2026-06-13T20:05:05Z
+modDatetime: 2026-06-13T20:05:05Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,73 +10,74 @@ tags:
   - appliance
   - washer
   - bosch
-money_part: "Bosch washer inlet valve screen filter"
-free_checks:
-  - "Remove inlet hoses and clean inlet valve screen filters for sediment/debris"
-  - "Check water supply valves are fully open and hoses aren't kinked"
-  - "Verify home water pressure is 20-120 PSI"
-no_buy_pct: "80%"
-part_price: "$10-50"
-most_likely_cause: "water leak into the base pan or clogged inlet valve screen"
+money_part: "Bosch washer water inlet valve"
+most_likely_cause: "blocked inlet valve screen or low water supply pressure"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+free_checks:
+  - "Confirm the wall tap is fully open and supply pressure is adequate."
+  - "Remove the inlet hose and clean the inlet screen filter of any sediment or debris."
+  - "Check the drain hose is not kinked, blocked, or installed above 39 inches, and clean the drain pump filter."
+part_price: "$25-45"
+no_buy_pct: "65%"
 ---
 
 ## Bosch Washer E30 Error Code — What It Means
 
-E30 is not a single consistent code across all Bosch washers. On some models it signals a heating element or heating sensor problem. On others it means overflow or leak protection has triggered because the machine detected too much water, an unexpected water level, or leakage. The subcode E30-10 typically points to a water-supply fault such as low flow or low pressure. Before diagnosing, check your exact model number and the full code displayed. If you see water under the machine or the washer refuses to start, the fault is likely on the water or leak side. If the washer fills and agitates but will not heat, the fault is likely on the heating side.
+On Bosch and Siemens washers, the E30 code family (often displayed as E30-10 or E:30-10) indicates the machine was unable to fill with water within the allotted time. The control board triggered the fault because it expected a certain water level by a certain point in the cycle and did not see it. This is primarily a water-inlet or fill-system problem, not a heating or sensor fault.
+
+Bosch's own support documentation lists the underlying mechanical causes that produce fill timeouts: blocked or kinked inlet hoses, low supply pressure, a blocked drain pump or drain hose that prevents normal program progression, or an unsuitable hose extension. The code can also appear if the flood sensor in the base has been triggered by a leak. Because Bosch uses variant code formatting across model families, always confirm the exact code and consult your owner's manual or the wiring diagram on the cabinet to verify the specific meaning for your model.
 
 ## Before You Replace Anything
 
-Many owners replace the control board or heating element first. Instead, check under the washer for standing water and clean the inlet valve screens before ordering parts.
+Homeowners sometimes replace the inlet valve or even the control board when the real cause is a clogged inlet screen or a kinked drain hose. Before ordering parts, remove the inlet hose at the back of the machine and inspect the fine mesh filter screen inside the valve port for sediment, then check that the drain hose has no kinks and is installed no higher than 39 inches.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Water in the base pan (leak protection triggered) (~35%)** A slow leak from the door seal, hose connection, or pump collects in the overflow pan and triggers the sensor, shutting down the washer.
-- **Clogged inlet valve screen or kinked inlet hose (~30%)** Debris in the screen or a pinched hose restricts water flow, triggering E30 or E30-10 on models that monitor fill rate and pressure.
-- **Low household water pressure (below 40 PSI) (~15%)** Bosch washers require a minimum of 40 PSI, and low pressure can cause E30-10 or similar water-supply faults.
-- **Faulty heating element or heating sensor (~12%)** On models where E30 signals a heating fault, a broken element or sensor prevents the machine from reaching temperature and throws the code.
-- **Blocked drain filter or kinked drain hose (~8%)** Slow drainage can cause water to back up and trip overflow protection or interfere with the fill cycle on some models.
+- **Blocked inlet valve screen or filter (~35%)** Sediment from the house supply clogs the fine mesh screen at the machine inlet connection and restricts flow below the threshold needed to fill in time.
+- **Low water supply pressure or tap not fully open (~25%)** Inadequate incoming pressure or a partially closed tap means the machine cannot reach the target level within the timeout window.
+- **Kinked or blocked drain hose (~15%)** A bent or obstructed drain hose creates back-pressure that prevents the machine from progressing through the fill and rinse stages normally.
+- **Blocked drain pump or drain filter (~12%)** Lint, coins, or debris in the pump or filter can cause a drainage restriction that interferes with the fill cycle and triggers a timeout.
+- **Faulty water inlet valve (~8%)** The solenoid valve may fail to open fully or at all, even when the control board energizes it, resulting in no or very slow fill.
+- **Water in the base or flood sensor triggered (~5%)** A leak or previous overflow may have left water in the machine base pan, activating the flood safety switch and blocking normal operation.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Is there water on the floor under the washer or visible pooling in the door seal?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The leak protection system has likely tripped. Tilt the washer back slightly to check for water in the base pan, inspect hoses and seals, and dry the pan before restarting.<br><strong>No:</strong> The fault is more likely water-supply or heating related. Continue to the next check.</div>
+<details class="dtree"><summary>Is the water supply tap at the wall fully open and does water flow freely from the tap when you disconnect the hose?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Supply pressure is adequate. Move on to inspect the inlet screen and drain system.<br><strong>No:</strong> Open the tap fully or troubleshoot the house supply. Re-test the washer before proceeding.</div>
 </details>
 
-<details class="dtree"><summary>Does your display show E30-10 or does the washer fill very slowly?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The issue is water supply. Check household water pressure (should be at least 40 PSI), inspect inlet hoses for kinks, and clean the inlet valve screens.<br><strong>No:</strong> The fault may be heating-side or a sensor error. Check the drain filter and consider testing the heating element with a multimeter.</div>
+<details class="dtree"><summary>When you remove the inlet hose at the back of the machine, is the inlet screen clean and free of sediment?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The inlet path is clear. Check the drain hose for kinks and the drain filter for blockages.<br><strong>No:</strong> Clean or replace the inlet screen, reconnect the hose, and re-test the cycle.</div>
 </details>
 
-<details class="dtree"><summary>After cleaning filters and hoses and performing a power reset, does the code return immediately on the next cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> A component has failed. Test the heating element for continuity or replace the inlet valve if supply-side checks were clean.<br><strong>No:</strong> The problem was debris or a temporary condition. Monitor the next few loads to confirm the fix.</div>
+<details class="dtree"><summary>Is the drain hose free of kinks and installed at or below 39 inches, and is the drain pump filter clean?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Mechanical obstructions are ruled out. Test the inlet valve electrically or call a technician for control and wiring diagnostics.<br><strong>No:</strong> Straighten the hose, lower it if needed, and clean the drain filter. Run a rinse cycle to verify the fix.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Identify the exact model and subcode.** Check the data plate inside the door and note whether the display shows E30, E30-10, or another variant to determine whether the fault is heating, water-supply, or leak related.
-2. **Unplug the washer and check for leaks.** Tilt the machine back slightly and look for standing water in the base pan or on the floor, inspect the door seal for tears, and check all hose connections for drips.
-3. **Clean the inlet valve screens.** Turn off the household water supply, disconnect the inlet hoses from the back of the washer, and use needle-nose pliers to pull out the small mesh screens, rinse them under a tap, and reinstall.
-4. **Inspect and clear the drain filter.** Open the service panel at the lower front, unscrew the drain filter, remove lint and debris, and check the drain hose for kinks or blockage.
-5. **Verify household water pressure.** If you have E30-10 or slow fill, confirm your home water pressure is at least 40 PSI using a pressure gauge on an outdoor spigot or laundry faucet.
-6. **Test the heating element (if the code is heating-side E30).** Disconnect power, access the element from the rear panel, disconnect the wires, and use a multimeter set to ohms to check for continuity; an open circuit means the element is bad.
-7. **Perform a power reset and test cycle.** Leave the washer unplugged for three to five minutes, plug it back in, and run a short cycle to see if the code clears; if it returns, replace the failed component identified in earlier steps.
+1. **Power off and isolate** the washer by unplugging it or switching off the circuit breaker, then wait two minutes to allow the control board to reset.
+2. **Turn off the water supply tap** at the wall and disconnect the inlet hose from the back of the machine.
+3. **Inspect the inlet valve screen** inside the machine's inlet port using a flashlight, remove any sediment or debris with needle-nose pliers or a small brush, and rinse the screen under running water if it is removable.
+4. **Check water supply pressure** by holding the disconnected hose over a bucket and turning the tap back on briefly to confirm strong flow, then reconnect the hose securely.
+5. **Examine the drain hose** along its full length for kinks, sharp bends, or blockages, and verify it is installed no higher than 39 inches above the floor.
+6. **Clean the drain pump filter** by opening the service panel at the lower front of the machine, placing a shallow pan underneath, unscrewing the filter cap slowly to drain residual water, and removing lint or foreign objects.
+7. **Restore power and run a short rinse or spin cycle** to test whether the code clears; if E30 returns after these mechanical checks, test the inlet valve coil for proper resistance and operation, or call a technician for control board diagnostics.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Bosch washer inlet valve screen filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-e30-error-code&k=Bosch+washer+inlet+valve+screen+filter&tag=errorcodefixes-20) \| Small mesh inserts; confirm your model uses removable screens before ordering. |
-| Bosch washer heating element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-e30-error-code&k=Bosch+washer+heating+element&tag=errorcodefixes-20) \| Match the part number on your existing element; wattage and bolt pattern vary by model. |
-| Bosch washer water inlet valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-e30-error-code&k=Bosch+washer+water+inlet+valve&tag=errorcodefixes-20) \| Order the exact valve for your model if cleaning the screens does not restore flow. |
-| Bosch washer door boot seal | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-e30-error-code&k=Bosch+washer+door+boot+seal&tag=errorcodefixes-20) \| Choose the correct seal by model number if you find tears or persistent leaks around the door. |
+| Bosch washer water inlet valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-e30-error-code&k=Bosch+washer+water+inlet+valve&tag=errorcodefixes-20) \| Match your model number; valves have different port configurations and solenoid counts. |
+| Inlet hose screen filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-e30-error-code&k=Inlet+hose+screen+filter&tag=errorcodefixes-20) \| Available as a stand-alone part if the original screen is damaged or missing. |
 
 ## When to Call a Pro
 
-Call a technician if you find water in the base pan but cannot locate the source of the leak after inspecting hoses, seals, and the pump area. Also call if you are uncomfortable working with electrical testing on the heating element or if the code persists after you have cleaned all filters, verified water pressure, and replaced the obvious worn parts. A pro can pressure-test the tub, check the control board's sensor inputs, and diagnose intermittent faults that do not show up during a single test cycle.
+Call a professional if you have verified water supply, cleaned the inlet screen and drain system, and the E30 code returns immediately or intermittently. At that point the fault is likely electrical: a failing inlet valve solenoid, a wiring harness issue, or a control board that is not driving the valve correctly. A technician can measure coil resistance, test supply voltage at the valve connector, and interpret any additional sub-codes or diagnostic modes specific to your model. Also call if you discover water pooled in the base pan or if the machine shows signs of a leak, since that scenario requires disassembly to locate the source and may involve replacing a door boot, hose clamp, or tub seal.
 
-**Rough cost:** DIY runs about $10-50 in parts, 30-90 min. A pro service call runs about $150-300.
+**Rough cost:** DIY runs about $15-50 in parts, 30-60 min. A pro service call runs about $120-220.

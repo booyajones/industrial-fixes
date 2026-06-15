@@ -1,8 +1,8 @@
 ---
 title: "Bosch Washer E37 Error Code - Causes & Fix"
-description: "E37 means overfilling detected. Most often caused by a faulty pressure switch or stuck inlet valve. Power-cycle first, then check level sensor."
-pubDatetime: 2026-06-09T19:19:48Z
-modDatetime: 2026-06-09T19:19:48Z
+description: "E37 means overfilling detected. The most common cause is a stuck-open inlet valve or faulty pressure switch. Power-cycle first."
+pubDatetime: 2026-06-13T20:05:51Z
+modDatetime: 2026-06-13T20:05:51Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,74 +10,72 @@ tags:
   - appliance
   - washer
   - bosch
-money_part: "Water inlet valve assembly"
-free_checks:
-  - "Check inlet hose screens/filters at valve connections for debris/clogging"
-  - "Verify both hot and cold water supply valves are fully open and hoses aren't kinked"
-  - "Test inlet valve resistance with multimeter (500-1500 ohms per solenoid)"
-no_buy_pct: "40%"
-part_price: "$25-85"
-most_likely_cause: "pressure switch or pressure sensor fault"
-likelihood: "the most common cause"
+money_part: "Bosch washer inlet valve (water valve)"
+most_likely_cause: "inlet valve stuck open or faulty pressure switch"
+likelihood: "the most common causes"
 diy_or_pro: "diy"
+free_checks:
+  - "Power-cycle the washer: unplug for 30 seconds, then restart to see if the code clears."
+  - "Inspect the pressure hose between the tub and pressure switch for disconnection, kinks, or blockage."
+part_price: "$35–75"
 ---
 
 ## Bosch Washer E37 Error Code — What It Means
 
-E37 on a Bosch washer indicates overfilling detected. The control system believes the tub water level is higher than expected or rising when it should not be. This fault triggers when the pressure-sensing circuit reports an abnormal level or when water continues entering the drum outside normal fill windows.
+The E37 code on a Bosch washer signals an overfilling or abnormal water-level fault. The control system has detected that the tub contains more water than expected, or the pressure-sensing circuit cannot correctly read the water level. This code points to a problem with the pressure switch, the pressure-sensing path, or an inlet valve that is mechanically stuck open and continues to admit water when it should be closed.
 
-Bosch's official guidance instructs owners to power-cycle the machine and contact support if the error returns. The published fault descriptions point to pressure switch problems or inlet valves stuck open as the real-world causes.
+Because the error may be a one-time transient event, Bosch recommends a power reset before proceeding with diagnostics. If the code returns after a reset, the fault is persistent and involves either the inlet valve assembly or the pressure system (pressure switch, pressure hose, or pressure chamber).
 
 ## Before You Replace Anything
 
-Owners often replace the main control board when the real culprit is a blocked pressure hose or faulty inlet valve. Test fill behavior and inspect the pressure sensor tubing before swapping electronics.
+Many owners replace the control board when E37 appears, but the fault is almost always a failed inlet valve or pressure switch. Test the valve for mechanical closure and check the pressure hose for blockage or disconnection before touching the board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Pressure switch or sensor failure (~40%)** The level-sensing switch sends incorrect signals to the controller, causing it to believe the tub is overfilled even when water level is normal.
-- **Inlet valve stuck open (~30%)** A solenoid coil or diaphragm inside the fill valve jams in the open position, allowing water to continue entering the drum when the machine is idle or during drain cycles.
-- **Blocked or disconnected pressure hose (~15%)** The small air tube running from the tub air trap to the pressure switch becomes kinked, clogged with detergent residue, or disconnected, breaking the level-sensing feedback loop.
-- **Transient controller glitch (~10%)** A one-time fault in the control board logic triggers the code without a physical overfill, clearing after a 30-second power disconnect and restart.
-- **Wiring harness or connector fault (~5%)** Corrosion, loose pins, or damaged wires between the pressure sensor and control board deliver intermittent or incorrect level signals.
+- **Inlet valve stuck open (~45%)** The valve does not close mechanically after the fill cycle, allowing water to continue entering the tub and triggering the overfill sensor.
+- **Faulty pressure switch or sensor (~30%)** The switch fails to change state as water level rises, so the control never receives the signal to stop filling.
+- **Blocked or disconnected pressure hose (~15%)** A pinched, kinked, or clogged pressure tube prevents the switch from sensing the actual water level in the tub.
+- **Blocked pressure chamber (~8%)** Detergent residue or debris in the chamber blocks the air path, disrupting the pressure signal to the switch.
+- **Transient fault or power glitch (~2%)** A one-time control-board read error can set E37 without a real overfill condition, and a power reset clears it permanently.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Does water continue flowing into the drum when the washer is off or paused?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The inlet valve is stuck open or leaking. Unplug the machine, turn off water supply, and replace the fill valve.<br><strong>No:</strong> The fault is likely in the pressure-sensing circuit. Move to the next check.</div>
+<details class="dtree"><summary>Does the code clear and stay away after you unplug the washer for 30 seconds and restart it?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault was transient. Monitor the next few cycles and call for service only if E37 returns.<br><strong>No:</strong> The fault is persistent. Proceed with inlet-valve and pressure-system inspection.</div>
 </details>
 
-<details class="dtree"><summary>After unplugging for 30 seconds and restarting, does the code return immediately on the next cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> A persistent hardware fault exists. Inspect the pressure switch, pressure hose, and inlet valve for physical defects.<br><strong>No:</strong> The error was a transient glitch. Run a full test cycle to confirm the fault is cleared.</div>
+<details class="dtree"><summary>Can you see or hear water entering the tub when the machine is idle or stopped mid-cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The inlet valve is stuck open or leaking mechanically. Replace the inlet valve assembly.<br><strong>No:</strong> The problem is likely in the pressure-sensing circuit. Check the pressure hose and switch next.</div>
 </details>
 
-<details class="dtree"><summary>Can you hear the pressure switch click when you blow gently into its air-tube port?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The switch diaphragm is moving. Check the air trap for blockage and verify wiring from the switch to the control board.<br><strong>No:</strong> The pressure switch is likely failed internally. Replace the pressure switch assembly.</div>
+<details class="dtree"><summary>Is the pressure hose between the tub and the switch connected, clear, and free of kinks?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The hose is good. Test or replace the pressure switch, or inspect the pressure chamber for blockage.<br><strong>No:</strong> Reconnect, clear, or replace the pressure hose and retest before replacing any other part.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Power-cycle the washer** by pressing the power button off, then unplugging the machine at the wall outlet for at least 30 seconds before plugging back in and restarting a cycle to clear transient faults.
-2. **Verify the fault is persistent** by running a short rinse cycle and observing whether E37 returns, noting the exact timing and any unusual fill behavior.
-3. **Inspect the inlet valve** by turning off the household water supply, removing the fill hoses from the back of the washer, and checking each solenoid coil for debris or mechanical jamming that would hold it open.
-4. **Check the pressure-sensing circuit** by locating the small air tube running from the tub air trap to the pressure switch, disconnecting it at both ends, and blowing through to confirm it is clear and not kinked.
-5. **Test the pressure switch** by removing the wiring harness connector and checking for continuity changes when you apply gentle air pressure to the switch port, or replace the switch if it does not click or toggle states.
-6. **Replace the failed component** identified in your testing, whether inlet valve or pressure switch, and run a complete fill, wash, and drain cycle to confirm normal level control and error clearance.
-7. **Contact Bosch support** if the fault persists after replacing both the inlet valve and pressure switch, as the control board may require factory diagnostics or the model may have an updated service bulletin.
+1. **Power off and unplug** the washer for at least 30 seconds to reset the control board, then restart and check whether E37 returns.
+2. **Verify overfill behavior** by observing whether water enters the tub when the machine is idle or during a non-fill stage of the cycle.
+3. **Inspect the inlet valve** by disconnecting power, removing the top or rear panel, and checking the valve for mechanical sticking or debris that prevents full closure. Replace the valve if it does not seal.
+4. **Check the pressure hose** running from the tub to the pressure switch for disconnection, kinks, blockage, or splits. Clear or replace the hose if needed.
+5. **Inspect the pressure chamber** at the tub sump or air-trap area for detergent buildup or debris. Clean the chamber with warm water and a small brush if blocked.
+6. **Test the pressure switch** by gently blowing into the hose connection while monitoring continuity or watching for a click. Replace the switch if it does not change state.
+7. **Reassemble and run a test cycle** to confirm normal fill cutoff and verify that E37 does not recur.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Water inlet valve assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-e37-error-code&k=Water+inlet+valve+assembly&tag=errorcodefixes-20) \| Match the solenoid coil count (single, dual, or triple) to your washer's original valve configuration. |
-| Pressure switch or pressure sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-e37-error-code&k=Pressure+switch+or+pressure+sensor&tag=errorcodefixes-20) \| Verify the connector type and mounting bracket orientation before ordering. |
-| Pressure hose and air trap | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-e37-error-code&k=Pressure+hose+and+air+trap&tag=errorcodefixes-20) \| Replace if the tube is cracked, kinked, or clogged with detergent buildup that cannot be cleared by flushing. |
+| Bosch washer inlet valve (water valve) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-e37-error-code&k=Bosch+washer+inlet+valve+%28water+valve%29&tag=errorcodefixes-20) \| Match your model number; single, double, or triple-port valves exist. |
+| Bosch washer pressure switch (water-level sensor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-e37-error-code&k=Bosch+washer+pressure+switch+%28water-level+sensor%29&tag=errorcodefixes-20) \| Analog or digital; confirm the connector type and mounting style for your model. |
+| Pressure hose (air trap tube) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-e37-error-code&k=Pressure+hose+%28air+trap+tube%29&tag=errorcodefixes-20) \| Flexible rubber or silicone; measure length and inner diameter before ordering. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if you are uncomfortable working with electrical connectors or removing washer panels to access internal components. A professional should also handle the repair if you have replaced both the inlet valve and pressure switch but the E37 fault returns, as the control board or wiring harness may require advanced diagnostics and Bosch-specific tooling. If the washer is physically overfilled and you cannot safely drain the tub, stop immediately and contact service to prevent water damage or electrical hazards.
+Call a technician if you are not comfortable working inside a washer cabinet, if the pressure chamber or switch location is unclear for your model, or if the code persists after you have replaced both the inlet valve and the pressure switch. A pro will bring model-specific wiring diagrams, pressure specifications, and the diagnostic tools to test the control board if all mechanical parts check out. Also call immediately if you see water pooling under the washer or smell electrical burning, since those indicate a more serious fault that can damage flooring or pose a shock hazard.
 
-**Rough cost:** DIY runs about $25–85 in parts, 45–90 min. A pro service call runs about $150–280.
+**Rough cost:** DIY runs about $40–90 in parts, 30–60 min. A pro service call runs about $150–280.

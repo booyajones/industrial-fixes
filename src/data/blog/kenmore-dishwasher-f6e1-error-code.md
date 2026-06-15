@@ -1,8 +1,8 @@
 ---
 title: "Kenmore Dishwasher F6E1 Error - Causes & Fix"
-description: "F6E1 means a water inlet valve circuit fault. The valve coil is usually open. Replace the inlet valve after testing resistance."
-pubDatetime: 2026-06-09T22:31:24Z
-modDatetime: 2026-06-09T22:31:24Z
+description: "F6E1 on Kenmore 665-series dishwashers means a water inlet valve electrical fault. The control cannot energize the fill valve circuit."
+pubDatetime: 2026-06-13T20:11:27Z
+modDatetime: 2026-06-13T20:11:27Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -11,72 +11,72 @@ tags:
   - dishwasher
   - kenmore
 money_part: "Water inlet valve assembly"
-free_checks:
-  - "Check home water supply shut-off valve is fully open and verify inlet hose has no kinks or clogs"
-  - "Inspect inlet valve screen filter for sediment/debris and clean if clogged"
-  - "Power-cycle dishwasher (breaker off 2 min) to clear transient sensor fault"
-no_buy_pct: "40%"
-part_price: "$40-80"
 most_likely_cause: "failed water inlet valve coil"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+free_checks:
+  - "Turn off the breaker for 5 minutes, restore power, and retest the cycle to see if the code clears."
+  - "Inspect the overfill float inside the dishwasher tub to confirm it is not stuck in the up position or jammed by debris."
+  - "Check the inlet valve screen or filter at the water supply connection for clogging or debris."
+part_price: "$30-70"
+no_buy_pct: "25%"
 ---
 
 ## Kenmore Dishwasher F6E1 Error — What It Means
 
-On Kenmore 665-series dishwashers built on the Whirlpool platform, the F6E1 code indicates a water inlet valve circuit fault. The control board attempted to energize the fill valve and detected an electrical problem in that circuit. This is not a simple water-supply issue but rather an abnormal electrical condition in the valve circuit itself.
-
-The code means the dishwasher cannot properly power the water inlet valve. The control expects to close a relay and send voltage to the valve coil, but it detects that the circuit is open or the coil is not responding. The fill cycle cannot proceed until the electrical fault in the valve circuit is resolved.
+On Kenmore 665-series dishwashers (Whirlpool-built platform), F6E1 indicates an electrical fault in the water inlet valve circuit. The control board commands the inlet valve to open but does not see the expected electrical current response. This can point to an open coil in the valve, broken wiring, a bad connector, or a failed control board output. Whirlpool and KitchenAid documentation also describes F6E1 more generally as the product being unable to start or resume cycles, so verify your exact model prefix before finalizing the diagnosis. If a cycle was already running, it may finish, but a new cycle will not start.
 
 ## Before You Replace Anything
 
-Homeowners sometimes replace the main control board first. Before swapping the board, use a multimeter to check the inlet valve coil resistance (should read approximately 500–1500 ohms). If the coil reads infinite, the valve is open and the valve itself is the problem, not the board.
+Many owners replace the control board first, but testing the inlet valve coil resistance (should read roughly 500–1500 ohms) and inspecting wiring connections will identify the real cause in most cases.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed water inlet valve coil (~60%)** The solenoid coil inside the valve has burned out or developed an open circuit, preventing the control from energizing it.
-- **Broken or corroded wire harness (~20%)** A wire or connector between the control board and the inlet valve is broken, pinched, or corroded, interrupting the circuit.
-- **Failed control board relay output (~15%)** The main control board's relay or triac that sends power to the valve has failed and cannot deliver voltage during a fill command.
-- **Loose or damaged valve connector (~5%)** The plug at the water inlet valve has bent pins or corrosion that prevents a good electrical connection.
+- **Failed water inlet valve coil (~50%)** The valve coil reads open circuit or has an abnormal resistance, so it cannot energize when commanded by the control.
+- **Broken or corroded wiring (~20%)** Wiring between the control board and the inlet valve is pinched, broken, or corroded, interrupting the electrical path.
+- **Loose or damaged connector pins (~15%)** The connector at the valve or control board has loose, bent, or corroded pins that prevent proper contact.
+- **Failed control board relay or output (~10%)** The control board relay or output stage that powers the inlet valve has failed and no longer sends voltage to the valve.
+- **Stuck overfill float (~5%)** The float is stuck in the up position or jammed by debris, which blocks the fill cycle and prevents the valve from being commanded on.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>After a 5-minute power reset (breaker off), does the F6E1 code return immediately on the next cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The fault is persistent. Proceed to test the inlet valve coil resistance and inspect the wiring harness.<br><strong>No:</strong> The code may have been a transient glitch. Monitor for recurrence before replacing parts.</div>
+<details class="dtree"><summary>Does the overfill float move freely up and down inside the tub, with nothing jamming it?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The float system is working. Move on to electrical tests of the inlet valve and wiring.<br><strong>No:</strong> Free the float or remove any debris underneath it, then retest the cycle. If the code clears, the float was the cause.</div>
 </details>
 
-<details class="dtree"><summary>With power disconnected and the valve unplugged, does the valve coil measure approximately 500–1500 ohms on a multimeter?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The valve coil is electrically intact. Inspect the wiring harness and connectors for damage, then check whether the control board sends voltage during a fill attempt.<br><strong>No:</strong> An infinite (OL) reading means the coil is open. Replace the water inlet valve assembly.</div>
+<details class="dtree"><summary>With power and water off, do you measure roughly 500–1500 ohms across the inlet valve coil terminals?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The valve coil is good. Inspect wiring continuity and connectors between the valve and control board for breaks or corrosion.<br><strong>No:</strong> The valve coil is open or out of range. Replace the water inlet valve assembly.</div>
 </details>
 
-<details class="dtree"><summary>With the dishwasher running a fill cycle (power on, caution: live voltage), does the control send approximately 120 VAC to the valve connector?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Voltage is present but the valve does not open. Replace the water inlet valve even if the coil tested good earlier (it may fail under load).<br><strong>No:</strong> No voltage at the valve with intact wiring points to a failed control board relay output. Replace the main control board.</div>
+<details class="dtree"><summary>Are all wire connectors at the inlet valve and control board firmly seated, with no visible corrosion or damage?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Wiring and connectors look good. If the valve tested good, suspect the control board output or relay.<br><strong>No:</strong> Clean or reseat the connectors. If pins are corroded or bent, repair or replace the connector, then retest.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Turn off power** at the circuit breaker and wait at least 5 minutes to reset the control, then restore power and check whether the F6E1 code reappears.
-2. **Disconnect power again** and remove the lower kick plate to access the water inlet valve, which is typically mounted to the left or center of the tub base.
-3. **Unplug the valve connector** and use a multimeter set to resistance (ohms) to measure across the two terminals on the valve coil.
-4. **Check the reading** against the normal range of approximately 500–1500 ohms; if the meter shows OL or infinite resistance, the coil is open and the valve must be replaced.
-5. **Inspect the wiring harness** from the control board to the valve for broken, pinched, or corroded wires and check the connector terminals for bent pins or corrosion.
-6. **If the valve coil tests good and the wiring is intact**, reconnect the valve, restore power, and use a multimeter set to AC voltage to measure at the valve connector during a fill attempt (caution: live 120 VAC).
-7. **Replace the water inlet valve** if the control sends voltage but the valve does not open, or **replace the main control board** if no voltage is present and the wiring is confirmed good.
+1. **Turn off power at the breaker** for at least 5 minutes, restore power, and run a test cycle to see if the code clears.
+2. **Shut off water and power** before any electrical work inside the dishwasher.
+3. **Check the overfill float** inside the tub to confirm it moves freely up and down and is not stuck or jammed by debris.
+4. **Inspect the inlet valve screen** at the water supply connection for clogging or debris and clean if needed.
+5. **Disconnect the wire connector at the inlet valve** and measure the resistance across the valve coil terminals with a multimeter (expect roughly 500–1500 ohms). An open circuit or out-of-range reading indicates a failed valve.
+6. **Inspect wiring and connectors** between the inlet valve and the control board for broken, pinched, burned, or corroded wires. Test continuity of each wire if you suspect damage.
+7. **If the valve and wiring test good**, verify that the control board is sending approximately 120 VAC to the valve terminals during a fill command (only if you are comfortable working with live voltage). No voltage indicates a failed control board output or relay.
+8. **Replace the failed component** (inlet valve, wiring, or control board) and run a full test cycle to confirm the error does not return.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Water inlet valve assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-f6e1-error-code&k=Water+inlet+valve+assembly&tag=errorcodefixes-20) \| Verify the valve model number on your dishwasher's service label or the old valve body before ordering. |
-| Main electronic control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-f6e1-error-code&k=Main+electronic+control+board&tag=errorcodefixes-20) \| Only needed if voltage testing confirms the board relay output has failed and the valve and wiring are intact. |
-| Wire harness connector | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-f6e1-error-code&k=Wire+harness+connector&tag=errorcodefixes-20) \| If the valve connector terminals are badly corroded or damaged, a pigtail or new connector may be available separately. |
+| Water inlet valve assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-f6e1-error-code&k=Water+inlet+valve+assembly&tag=errorcodefixes-20) \| Match your Kenmore 665-series model number. Most are Whirlpool-built and interchange across the platform. |
+| Dishwasher wiring harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-f6e1-error-code&k=Dishwasher+wiring+harness&tag=errorcodefixes-20) \| Only if wiring is pinched or burned beyond repair. Order by exact model number. |
+| Main electronic control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-f6e1-error-code&k=Main+electronic+control+board&tag=errorcodefixes-20) \| Replace only if valve, wiring, and connectors test good and the board does not send voltage to the valve. |
 
 ## When to Call a Pro
 
-Call a professional if you are uncomfortable working with live 120 VAC when measuring voltage at the inlet valve during a fill cycle. A technician has the diagnostic tools and experience to safely isolate whether the fault is in the valve, the harness, or the control board. If you have already replaced the inlet valve and inspected all wiring but the F6E1 code persists, the control board output is likely faulty and a pro can confirm that diagnosis and handle board replacement efficiently.
+Call a professional if you are not comfortable using a multimeter to test voltage and resistance, or if the inlet valve and wiring test good but the code persists. A technician can safely verify live voltage at the valve during a fill command and diagnose a failed control board output or relay. Also call if you find burned or heavily corroded wiring inside the door or control area, which may indicate a deeper electrical fault that requires tracing the harness and checking ground connections.
 
-**Rough cost:** DIY runs about $40–$80 in parts, 30–60 min. A pro service call runs about $150–$250.
+**Rough cost:** DIY runs about $40-80 in parts, 30-60 min. A pro service call runs about $150-300.

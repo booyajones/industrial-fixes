@@ -1,8 +1,8 @@
 ---
 title: "Bosch Washer E16 Error Code - Causes & Fix"
-description: "E16 means the door is open or not locked. Close the door firmly and check for trapped laundry or debris blocking the latch."
-pubDatetime: 2026-06-09T12:32:54Z
-modDatetime: 2026-06-09T12:32:54Z
+description: "E16 or F16 means the door is open or not locked. Most often the door is obstructed or the lock assembly has failed. Check latch and seal."
+pubDatetime: 2026-06-13T20:03:25Z
+modDatetime: 2026-06-13T20:03:25Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,74 +10,73 @@ tags:
   - appliance
   - washer
   - bosch
-money_part: "Bosch washer door lock assembly (interlock)"
-free_checks:
-  - "Power-cycle washer (unplug 2 min) to clear transient door lock fault"
-  - "Inspect door strike alignment and clean latch contact points"
-  - "Check door lock wiring connector for corrosion or looseness"
-no_buy_pct: "15%"
-part_price: "$50-120"
-most_likely_cause: "door not fully closed or obstructed by laundry or debris"
+money_part: "Bosch washer door lock assembly"
+most_likely_cause: "Door not fully closed or obstructed by laundry or gasket"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+free_checks:
+  - "Open and firmly close the door again, making sure no laundry or gasket fold is caught in the strike area."
+  - "Inspect the rubber door gasket and the strike plate on the door frame for debris, damage, or misalignment that would prevent the latch from engaging."
+  - "Unplug the washer, remove the front panel or service access, and reseat the connector on the door lock assembly to rule out a loose plug."
+part_price: "$40-80"
+no_buy_pct: "35%"
 ---
 
 ## Bosch Washer E16 Error Code — What It Means
 
-The E16 or F16 error on a Bosch washing machine means the control system does not detect the door as securely closed and locked. The washer will not start or continue its cycle because the door status must be confirmed before operation. This is a safety function to prevent water spillage or injury.
+Bosch's E16 or F16 error code on a washer means the door is open or the control system is not detecting a valid door-closed and locked state. The machine will not start a cycle until it confirms the door is securely latched and locked. This code appears when laundry, a fold in the door gasket, or a misaligned strike prevents the latch from engaging, or when the door lock assembly, door switch, or their wiring has failed. The control board expects a closed-circuit signal from the lock. If it does not arrive, the code appears and the cycle stops.
 
-Bosch's own support guidance says to close the door and verify it is properly closed. If the code remains after firmly closing the door, contact Bosch support or a technician. The fault can stem from a mechanical obstruction, a faulty door lock assembly, wiring issues, or misalignment at the hinge or frame.
+Bosch Home's official U.S. laundry troubleshooting page lists "E16 or F16: Door is open," confirming this is a door-lock or door-switch related fault for washing machines. Do not confuse this with dishwasher E16 codes, which relate to water inlet or leak conditions on different Bosch appliances. For washers, E16 and F16 always point to the door latch system.
 
 ## Before You Replace Anything
 
-Homeowners often replace the door lock assembly without first checking for trapped clothing, lint, detergent buildup, or a misaligned door. Clear any obstruction and verify the door sits squarely before ordering parts.
+Many people replace the control board when the door lock assembly or a loose connector at the lock is the actual fault. Always test the lock electrically and inspect its harness plug before ordering a new board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Door not fully closed or obstructed (~45%)** Laundry, lint, detergent residue, or a deformed gasket prevents the latch from seating properly.
-- **Faulty door interlock or latch assembly (~30%)** The lock mechanism fails to actuate or the switch inside does not signal the control board.
-- **Loose or damaged wiring to the door lock (~15%)** Corroded connectors or broken wires interrupt the signal between the lock and the control system.
-- **Misaligned door or hinge (~10%)** The door sits unevenly and does not engage the catch squarely, preventing a secure lock.
+- **Failed door lock or latch assembly (~40%)** The integrated lock-and-switch module no longer closes its internal contacts or the solenoid does not bolt the door, so the control never sees a locked state.
+- **Door not fully closed or obstructed (~35%)** Laundry, a fold in the rubber gasket, or a misaligned door prevents the latch from engaging the strike plate and the lock from signaling the control board.
+- **Loose or corroded wiring connector at the lock (~15%)** The multi-pin plug at the door lock assembly has backed out, corroded, or has a bent terminal, interrupting the signal to the control board.
+- **Damaged door strike or hinge misalignment (~7%)** The plastic or metal catch on the door frame is cracked or the door hinges have sagged, preventing the latch tongue from seating deeply enough to trigger the lock.
+- **Control board fault (~3%)** If the lock assembly, wiring, and door alignment all test good, a failed relay or input circuit on the main control board may not recognize the lock-closed signal.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Does the door close with a firm click and feel mechanically latched?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The latch is engaging. Inspect the door lock assembly and wiring for electrical faults.<br><strong>No:</strong> Check for trapped clothing, debris in the gasket, or hinge misalignment blocking full closure.</div>
+<details class="dtree"><summary>Does the door close smoothly and latch with a firm click, with no laundry or gasket visible in the gap?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The mechanical closure is good. Move on to testing the lock assembly and its wiring connector.<br><strong>No:</strong> Clear any obstructing laundry, straighten the gasket, and inspect the strike plate and hinges for damage or looseness. Repair or realign before testing again.</div>
 </details>
 
-<details class="dtree"><summary>Is there visible laundry, lint, or detergent buildup around the door seal or latch area?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Clean the obstruction thoroughly and try closing the door again.<br><strong>No:</strong> The mechanical path is clear. Test the door lock assembly and connectors.</div>
+<details class="dtree"><summary>With the washer unplugged and the front panel off, is the connector on the back of the door lock assembly fully seated and free of corrosion?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The wiring connection is sound. The lock assembly itself is likely faulty and should be tested or replaced.<br><strong>No:</strong> Clean any corrosion with contact cleaner, reseat the plug firmly, and verify each terminal is not bent. Restore power and test the cycle.</div>
 </details>
 
-<details class="dtree"><summary>Does the door sit evenly in the frame when closed, with no visible gaps?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Alignment is good. Focus on the lock assembly and electrical connections.<br><strong>No:</strong> Adjust or replace the hinges so the door meets the frame squarely.</div>
+<details class="dtree"><summary>After replacing the door lock assembly, does the error clear and the cycle start normally?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The lock was the problem. The repair is complete.<br><strong>No:</strong> Trace the lock harness back to the control board for breaks or check for a board-side fault. A technician with a wiring diagram and meter is needed.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Disconnect power** at the wall or circuit breaker before inspecting any electrical components.
-2. **Open and close the door firmly**, listening and feeling for a solid mechanical latch engagement.
-3. **Inspect the door gasket and latch area** for trapped laundry, lint, detergent buildup, or foreign objects that block full closure.
-4. **Check door alignment** by closing the door slowly and watching whether it sits squarely in the frame without gaps or twisting.
-5. **Examine the door lock assembly** for physical damage, looseness, or inconsistent actuation when you press the latch by hand.
-6. **Inspect wiring and connectors** to the door lock for corrosion, looseness, or broken pins.
-7. **Run a diagnostic cycle** if your model offers a service mode, then observe whether the fault clears or additional codes appear.
-8. **Replace the door lock assembly** if the door closes correctly and wiring tests good but the control still does not recognize the locked state.
+1. **Unplug the washer** from the wall outlet to eliminate shock hazard while working on the door lock area.
+2. **Open the door** and inspect the strike plate, latch tongue, and rubber door gasket for debris, damage, or folds that would prevent full engagement.
+3. **Close the door firmly** and listen for a solid click. If the latch does not engage or pops back open, adjust or replace the strike plate or check hinge alignment.
+4. **Remove the front service panel** or top-front screws to access the door lock assembly, which is usually mounted behind the front frame near the door opening.
+5. **Inspect the lock connector** on the back of the lock module. Pull it off, check for corrosion or bent pins, clean with contact cleaner if needed, and push it back on until it clicks.
+6. **Test or replace the door lock assembly**. If you have a multimeter, consult your model's wiring diagram for the lock's switch-contact pins and verify continuity when the door is closed. If the lock does not switch or the solenoid does not engage, replace the entire lock module.
+7. **Reassemble the panel**, restore power, close the door, and run a short test cycle to confirm the E16 code clears and the machine starts normally.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Bosch washer door lock assembly (interlock) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-e16-error-code&k=Bosch+washer+door+lock+assembly+%28interlock%29&tag=errorcodefixes-20) \| Match your model's E-Nr from the rating plate. Typically includes the switch and latch mechanism. |
-| Door hinge kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-e16-error-code&k=Door+hinge+kit&tag=errorcodefixes-20) \| Required if the door is visibly sagging or does not align with the frame. |
-| Wiring harness repair connectors | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-e16-error-code&k=Wiring+harness+repair+connectors&tag=errorcodefixes-20) \| For replacing corroded or damaged connectors between the lock and control board. |
+| Bosch washer door lock assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-e16-error-code&k=Bosch+washer+door+lock+assembly&tag=errorcodefixes-20) \| Verify your model number to match the correct lock module with integrated switch and solenoid. |
+| Door strike plate or catch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-e16-error-code&k=Door+strike+plate+or+catch&tag=errorcodefixes-20) \| Only needed if the plastic strike is cracked or the metal catch is bent and the latch will not engage. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if the door closes correctly, you have cleaned all obstructions and checked wiring, yet the E16 code persists. The problem may involve the control board's input circuit or a subtle interlock fault that requires diagnostic tools and service mode access. Also call a pro if you are uncomfortable working with electrical connections or if your washer is still under warranty, since DIY repairs can void coverage.
+Call a professional if the door lock assembly and wiring both test good, the connector is clean and seated, and the fault persists. At that point the control board input circuit or a break in the harness between the lock and the board is the likely cause, and tracing that requires the factory wiring diagram and experience with control-board diagnostics. Also call a technician if the door frame or hinge mounting points are cracked or the tub has shifted, since structural alignment issues often require disassembly and may indicate shipping damage or a previous repair problem.
 
-**Rough cost:** DIY runs about $50-120 for door lock assembly, 30-60 min. A pro service call runs about $150-250 including diagnosis and labor.
+**Rough cost:** DIY runs about $40-80 in parts, 30-60 min. A pro service call runs about $150-250.

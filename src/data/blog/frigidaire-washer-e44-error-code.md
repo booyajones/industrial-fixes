@@ -1,80 +1,81 @@
 ---
 title: "Frigidaire E44 Error Code - Causes & Fix"
-description: "E44 means a controller/control board problem. Most often a failed electronic control board. Verify water supply, reset power, replace board."
-pubDatetime: 2026-06-09T05:10:28Z
-modDatetime: 2026-06-09T05:10:28Z
+description: "E44 on a Frigidaire washer signals a door lock detection or control board fault. Most often the door lock assembly has failed."
+pubDatetime: 2026-06-13T20:00:57Z
+modDatetime: 2026-06-13T20:00:57Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - frigidaire
-most_likely_cause: "failed electronic control board"
-free_checks:
-  - "Power-cycle washer (unplug 2 minutes) to clear transient latch fault"
-  - "Inspect door strike alignment and manually test latch mechanism for obstructions or warping"
-  - "Check door lock wiring harness connector for corrosion or loose pins"
-no_buy_pct: "15%"
+money_part: "Frigidaire washer door lock assembly"
+most_likely_cause: "Failed door lock assembly or latch switch"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-money_part: "Frigidaire washer door lock assembly"
-part_price: "$150-250"
+free_checks:
+  - "Unplug the washer, wait five minutes, then restore power and test whether the code clears."
+  - "Open and close the door firmly to verify the latch engages cleanly and listen for the lock solenoid click."
+  - "Inspect the door lock connector at the back of the lock assembly for corrosion or loose pins."
+part_price: "$40–70"
 ---
 
 ## Frigidaire E44 Error Code — What It Means
 
-The E44 error code on a Frigidaire washer indicates a problem with the controller or electronic control board. This is not an imbalance or water-fill issue (which would be a different code). The control board is the computer that manages all washer functions, and E44 signals that it has detected an internal fault or cannot complete its normal operation.
+The E44 code on a Frigidaire washer is most commonly documented as a door lock detection failure. Some sources also describe it as a control board or control-lock sensing fault. Because Frigidaire publishes error-code guidance by product line and the exact meaning varies by model family, the safest interpretation is that E44 indicates the control board is not receiving the correct signal from the door lock assembly. The fault may originate in the door lock itself, its wiring, or the main control board.
 
-Before concluding the board has failed, the manufacturer diagnostic flowchart directs you to verify normal incoming water flow and confirm at least 30 psi supply pressure. If those checks pass and the code persists after a power reset, the controller itself is faulty and requires replacement.
+This code typically appears when you attempt to start a wash cycle and the machine cannot confirm that the door is securely latched and locked. Without a verified lock signal, the washer will not fill or agitate. Check your model's tech sheet or service manual for the precise factory definition of E44 for your unit.
 
 ## Before You Replace Anything
 
-Do not confuse E44 with the single-digit E4 code, which indicates an unbalanced load on some Frigidaire washers. Always reset power and verify water supply first before ordering a new board.
+Homeowners often replace the main control board first when E44 appears. Before ordering a new board, unplug the washer for five minutes to clear any temporary glitch, then inspect the door lock assembly and its wiring for visible damage or loose connectors.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed electronic control board (~70%)** The controller has experienced an internal fault and cannot execute its program, triggering the E44 code.
-- **Low or interrupted water supply (~15%)** Incoming water pressure below 30 psi or closed supply valves can cause the controller to register a fault during fill cycles.
-- **Corroded or loose wiring harness connector (~10%)** A poor connection between the control board and the machine wiring can create intermittent faults that trigger E44.
-- **Power surge or electrical glitch (~5%)** A temporary electrical event can lock the controller in a fault state that clears with a full power reset.
+- **Failed door lock assembly or latch switch (~50%)** The door lock solenoid, strike, or internal switch contact has worn out or burned, so the control board cannot detect a locked door.
+- **Loose, damaged, or corroded wiring or connector (~25%)** The harness between the door lock and the main control board has a pinched wire, loose plug, or corroded terminal that interrupts the lock-status signal.
+- **Main control board failure (~15%)** The lock-sense input on the control board has failed, even though the door lock assembly itself is operating correctly.
+- **Temporary control glitch (~10%)** A transient power surge or static event caused the board to latch a false fault that clears after a full power reset.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Do both hot and cold water faucets behind the washer turn freely and stay fully open?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Water supply is available. Proceed to check pressure and reset the washer.<br><strong>No:</strong> Open both supply valves completely and verify hoses are not kinked. Retest the washer.</div>
+<details class="dtree"><summary>Does the door latch click when you close it and does the lock solenoid buzz or click a moment later?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The mechanical latch and solenoid are working. Check the wiring and connector at the lock assembly for damage or corrosion. If wiring looks good, the control board lock-sense circuit may have failed.<br><strong>No:</strong> The door lock assembly is likely broken. Inspect it for a cracked striker, loose mounting screws, or burnt terminals, then replace the lock if any damage is found.</div>
 </details>
 
-<details class="dtree"><summary>After unplugging the washer for 5 minutes and plugging it back in, does the E44 code reappear immediately or during the next cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The fault is persistent. Inspect connectors and plan to replace the control board.<br><strong>No:</strong> The fault was transient. Monitor the washer over the next few cycles to confirm it is resolved.</div>
+<details class="dtree"><summary>Did the E44 code disappear after unplugging the washer for five minutes and restoring power?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault was a temporary control glitch. Run a test cycle to confirm the washer operates normally. If the code returns, continue with wiring and lock-assembly checks.<br><strong>No:</strong> The fault is persistent. Proceed to inspect the door lock assembly, its wiring, and connectors for physical damage.</div>
 </details>
 
-<details class="dtree"><summary>Is your home water pressure at least 30 psi (typical city water is 40-80 psi)?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Water pressure is adequate. The fault lies in the controller or its wiring.<br><strong>No:</strong> Low pressure can trigger E44. Check your home's pressure regulator or contact a plumber.</div>
+<details class="dtree"><summary>Can you see any burnt, melted, or corroded terminals on the back of the door lock assembly or at the connector?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Replace the door lock assembly. Damaged terminals prevent the lock-status signal from reaching the control board.<br><strong>No:</strong> The lock and wiring may be intact. If the door lock tests good and wiring is secure, replace the main control board.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Unplug the washer** from the wall outlet and wait a full 5 minutes to allow the control board to reset completely.
-2. **Verify water supply** by confirming both hot and cold shut-off valves behind the washer are fully open and that supply hoses are not kinked or clogged.
-3. **Check incoming water pressure** is at least 30 psi (you can test with a hose-thread pressure gauge or confirm typical municipal supply is in the 40-80 psi range).
-4. **Plug the washer back in** and run a short cycle to see if E44 returns. If the code clears, monitor over the next few loads.
-5. **Inspect the control board and wiring harness** by removing the top or back panel (consult your model's service manual for access). Look for burned areas, corrosion, or loose connectors.
-6. **Disconnect and reconnect harness plugs** at the control board to make sure clean contact. Look for signs of moisture or pin damage.
-7. **Replace the electronic control board** if the E44 code persists after reset and all supply checks pass. Match the part number on your existing board or use your model number to order the correct replacement.
+1. **Unplug the washer** and wait five minutes to clear any temporary control fault, then restore power and attempt a test cycle to see if the code returns.
+2. **Open the door and inspect the latch mechanism** for broken plastic, a bent strike, or debris that prevents the latch from engaging fully.
+3. **Remove the door boot clamp** (front-load models) or the top panel (top-load models) to access the door lock assembly mounted on the cabinet or tub ring.
+4. **Disconnect the wiring harness** from the door lock assembly and inspect both the lock terminals and the connector for burnt contacts, corrosion, or loose pins.
+5. **Check the wiring harness** from the lock to the main control board for pinched insulation, cuts, or heat damage, and reseat any intermediate connectors.
+6. **If the lock assembly or wiring shows damage, replace the faulty component** and reconnect all harnesses securely.
+7. **If the lock assembly and wiring are intact, replace the main control board** because a failed lock-sense input on the board will also trigger E44.
+8. **Restore power, close the door, and run a short test cycle** to confirm the washer recognizes the locked state and the error code does not return.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Electronic control board (main PCB) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-washer-e44-error-code&k=Electronic+control+board+%28main+PCB%29&tag=errorcodefixes-20) \| Match the part number printed on your existing board or provide your washer model number when ordering. |
-| Wire harness connector repair kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-washer-e44-error-code&k=Wire+harness+connector+repair+kit&tag=errorcodefixes-20) \| Only needed if you find damaged or corroded pins during inspection. |
+| Frigidaire washer door lock assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-washer-e44-error-code&k=Frigidaire+washer+door+lock+assembly&tag=errorcodefixes-20) \| Match the part number on your original lock or use your full model number to find the correct replacement. Includes the solenoid, strike, and switch contacts. |
+| Frigidaire washer main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-washer-e44-error-code&k=Frigidaire+washer+main+control+board&tag=errorcodefixes-20) \| Replace only after confirming the door lock assembly and wiring are good. Verify the board part number against your model's service sheet. |
+| Washer wiring harness or connector kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-washer-e44-error-code&k=Washer+wiring+harness+or+connector+kit&tag=errorcodefixes-20) \| Use if the lock-to-board harness shows burned or corroded terminals that cannot be cleaned. |
 
 ## When to Call a Pro
 
-Call a professional if you are uncomfortable working with live 120 V connections or removing panels to access the control board. A technician can also measure incoming water pressure accurately, inspect all wiring for intermittent faults, and confirm the board diagnosis before replacement. If your washer is still under warranty or a service plan, contact Frigidaire or your retailer before attempting any repair to avoid voiding coverage.
+Call a qualified appliance technician if you are uncomfortable working behind live electrical panels, if the main control board replacement requires soldering or special programming, or if the E44 code persists after you have replaced both the door lock assembly and the wiring harness. A technician can perform circuit-level diagnostics with a multimeter and consult the factory service bulletin for your specific model to isolate whether the fault lies in a less common component such as a user-interface board or a separate lock-sense relay. Professional diagnosis is also the best choice if your washer is still under warranty, since DIY part replacement may void coverage.
 
-**Rough cost:** DIY runs about $150-$250 in parts, 45-90 min. A pro service call runs about $200-$400.
+**Rough cost:** DIY runs about $40–80 in parts, 30–60 min. A pro service call runs about $150–250.

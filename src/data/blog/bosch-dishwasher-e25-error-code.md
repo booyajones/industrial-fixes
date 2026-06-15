@@ -1,8 +1,8 @@
 ---
-title: "Bosch Dishwasher E25 Error Code - Causes & Fix"
-description: "E25 means drain pump blockage or loose/missing pump cover. Most often: debris in pump area. Clear foreign objects and reseat cover."
-pubDatetime: 2026-06-09T12:26:08Z
-modDatetime: 2026-06-09T12:26:08Z
+title: "Bosch Dishwasher E25 Error - Causes & Fix"
+description: "E25 means a drain pump blockage or flow problem. Most common fix: clean the filter, sump, and pump cover, then reseat the cover firmly."
+pubDatetime: 2026-06-13T20:02:01Z
+modDatetime: 2026-06-13T20:02:01Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -11,72 +11,73 @@ tags:
   - dishwasher
   - bosch
 money_part: "Bosch dishwasher drain pump assembly"
-free_checks:
-  - "Check and clear drain hose for kinks/clogs and clean filter basket under spray arm"
-  - "Inspect drain pump impeller for debris (remove cover, manually rotate impeller)"
-  - "Reset by powering off at breaker for 5 minutes, then test drain cycle"
-no_buy_pct: "60%"
-part_price: "$80-150"
-most_likely_cause: "foreign objects blocking the drain pump or impeller"
+most_likely_cause: "Clogged filter, sump, or pump chamber, or pump cover not fully seated"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+free_checks:
+  - "Remove the lower rack and filters, bail out standing water, then inspect and clean the sump and pump chamber for debris"
+  - "Check that the pump cover is installed and fully latched into place"
+  - "Spin the impeller by hand to confirm it rotates freely with no obstruction"
+part_price: "$50-90"
+no_buy_pct: "70%"
 ---
 
-## Bosch Dishwasher E25 Error Code — What It Means
+## Bosch Dishwasher E25 Error — What It Means
 
-The E25 code on a Bosch dishwasher signals that the drain pump is blocked by foreign objects or the drain pump cover is not attached correctly, loose, or missing. The machine cannot drain water normally because the pump area is obstructed or not sealed properly.
+E25 is a drainage fault on Bosch dishwashers. It signals that water cannot be pumped out normally, usually because the drain pump chamber, sump area, or impeller path is obstructed or the pump cover is not seated correctly. The code points to a mechanical blockage or flow restriction in the drain system rather than an electrical failure in most cases.
 
-Bosch's official guidance states this code specifically indicates either the pump is blocked with debris (glass fragments, food particles, small items) or the pump cover has come loose or is absent. Both conditions prevent the impeller from rotating freely and the pump from moving water out of the tub.
+The dishwasher will not complete its cycle and may leave standing water in the tub. The drain pump runs but cannot move water because debris (food particles, glass shards, plastic labels, or other foreign material) has jammed the impeller, clogged the filter or sump, or the pump cover has been left loose or missing after a previous cleaning. Less often, the drain hose is kinked or the home drain connection is blocked.
 
 ## Before You Replace Anything
 
-Many people replace the drain pump assembly when E25 appears, but most cases are simply debris (glass, toothpicks, labels) jamming the impeller or a pump cover that popped loose. Always remove the pump cover, clear all foreign objects, and verify the impeller spins freely by hand before ordering a new pump.
+Many people replace the drain pump without first checking the pump cover and impeller. Always remove the filter, clear the sump of debris, and confirm the pump cover is snapped in place and the impeller spins freely before ordering a new pump.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Foreign objects in pump area (~50%)** Glass fragments, bones, toothpicks, labels, or other debris lodge in the pump housing and jam the impeller so it cannot rotate.
-- **Loose or missing pump cover (~25%)** The drain pump cover snaps into place over the impeller and if it is not seated correctly, loose, or entirely missing the dishwasher throws E25.
-- **Pump impeller cannot rotate freely (~15%)** Even after debris is removed, the impeller may bind due to mineral buildup, a cracked vane, or a worn bearing inside the pump.
-- **Kinked or clogged drain hose (~10%)** A kink or partial blockage downstream of the pump can prevent water from leaving and trigger a drain fault, though this is not Bosch's primary E25 definition.
+- **Clogged filter or sump area (~40%)** Food particles, glass fragments, labels, or other debris pack the filter basket or sump chamber and block water flow to the drain pump.
+- **Pump cover loose, missing, or not fully snapped in (~30%)** The pump housing cover in the sump was left off or not latched correctly after a previous filter cleaning, breaking the seal and stopping the pump from building pressure.
+- **Impeller jammed or unable to spin (~15%)** A piece of glass, bone, toothpick, or other hard material is wedged in the impeller blades and prevents the pump motor from turning freely.
+- **Drain hose kinked, pinched, or clogged (~10%)** The flexible drain hose has a sharp bend, is compressed behind the machine, or has accumulated grease and food residue inside, restricting flow.
+- **Failed drain pump motor (~5%)** The pump motor itself has burned out or the windings are open, though this is less common when the mechanical path has been cleared and the error persists.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Can you see or feel debris (glass, plastic, food) when you remove the filters and pump cover?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Clear all foreign objects carefully (watch for sharp glass), verify the impeller spins freely by hand, then reinstall the cover and filters and test a short cycle.<br><strong>No:</strong> Check that the pump cover is present and locks into place firmly, then spin the impeller by hand to confirm it moves without resistance.</div>
+<details class="dtree"><summary>Is there standing water in the tub and can you see or feel debris in the filter or sump area?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Remove and clean the filter and sump thoroughly, check the pump cover is seated, then reset and test. This solves most E25 faults.<br><strong>No:</strong> The sump is clean, so check the drain hose for kinks or blockages and confirm the impeller spins freely by hand.</div>
 </details>
 
-<details class="dtree"><summary>Does the impeller rotate freely when you spin it by hand after clearing debris?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Reinstall the pump cover and filters correctly, restore power, and run a rinse cycle to confirm normal draining.<br><strong>No:</strong> The pump assembly itself is likely damaged (cracked impeller, seized bearing) and will need replacement.</div>
+<details class="dtree"><summary>Does the impeller turn freely when you spin it by hand with the filter and pump cover removed?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The impeller is clear. Inspect the drain hose end-to-end for a clog or kink, and verify the sink or disposal connection is open.<br><strong>No:</strong> Something is jamming the impeller. Remove any debris, reinstall the pump cover firmly, and test again.</div>
 </details>
 
-<details class="dtree"><summary>After cleaning the pump area and reseating the cover, does E25 still appear on the next cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Inspect the drain hose for kinks or clogs and verify the household drain is flowing freely, then consider replacing the drain pump assembly if the hose is clear.<br><strong>No:</strong> The repair is complete and the dishwasher should drain normally.</div>
+<details class="dtree"><summary>After cleaning and reassembly, does the error return immediately on the next cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The mechanical path is clear but the pump may be failing. Test the pump motor for continuity or replace the drain pump assembly.<br><strong>No:</strong> The blockage is cleared. Run a full cycle to confirm normal operation and clean the filter monthly to prevent repeat faults.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Turn off power** by rotating the program selector to OFF and unplugging the dishwasher from the wall outlet.
-2. **Remove the lower dish rack** and pull out both the cylindrical fine filter and the flat coarse filter from the sump area.
-3. **Remove the pump cover** by pressing or prying the tabs until it releases, then lift it straight out of the housing.
-4. **Clear all foreign objects** from the pump chamber, feeling carefully for glass fragments, bones, labels, or other debris that may be lodged around the impeller.
-5. **Check impeller rotation** by spinning the plastic vanes by hand in both directions to confirm they move freely without binding or grinding.
-6. **Reinstall the pump cover** by aligning the tabs and pressing down firmly until it locks into place, then replace both filters in the correct order.
-7. **Restore power** and run a short rinse or drain cycle to verify the dishwasher drains completely and the E25 code does not return.
+1. **Turn off power** at the circuit breaker or unplug the dishwasher to eliminate shock risk before working inside the tub.
+2. **Remove the lower dish rack** and pull out the cylindrical filter assembly by turning it counterclockwise and lifting it straight up.
+3. **Bail out standing water** with a cup or towels so you can see into the sump, then inspect the sump chamber and pump cover area for debris, glass, or foreign objects.
+4. **Remove the pump cover** (a round or rectangular plastic piece in the sump floor) by unsnapping or unscrewing it, then clean out any material and check that the impeller underneath spins freely by hand.
+5. **Reinstall the pump cover** by pressing or screwing it firmly into place until it clicks or seats completely, then replace the filter assembly and turn it clockwise to lock.
+6. **Inspect the drain hose** under the sink or at the back of the machine for kinks, pinch points, or a clogged connection at the garbage disposal or standpipe, and clear any blockage.
+7. **Restore power and run a rinse cycle** to confirm the pump drains normally and the E25 code does not return.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Bosch dishwasher drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e25-error-code&k=Bosch+dishwasher+drain+pump+assembly&tag=errorcodefixes-20) \| Needed only if the impeller is cracked, the housing is damaged, or the pump does not run after clearing debris. |
-| Bosch dishwasher pump cover | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e25-error-code&k=Bosch+dishwasher+pump+cover&tag=errorcodefixes-20) \| Required if the original cover is cracked, missing, or will not lock into place. |
-| Bosch dishwasher filter set (fine and coarse) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e25-error-code&k=Bosch+dishwasher+filter+set+%28fine+and+coarse%29&tag=errorcodefixes-20) \| Replace if filters are cracked or will not seat properly after repeated removal. |
+| Bosch dishwasher drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e25-error-code&k=Bosch+dishwasher+drain+pump+assembly&tag=errorcodefixes-20) \| Verify your model number before ordering. The pump includes motor, impeller, and housing in most kits. |
+| Dishwasher pump cover / housing cover | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e25-error-code&k=Dishwasher+pump+cover+%2F+housing+cover&tag=errorcodefixes-20) \| Order if the original cover is cracked, warped, or missing. Often sold separately or with the sump assembly. |
+| Dishwasher drain hose and clamps | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e25-error-code&k=Dishwasher+drain+hose+and+clamps&tag=errorcodefixes-20) \| Replace if the existing hose is split, collapsed, or cannot be cleared of a stubborn blockage. |
 
 ## When to Call a Pro
 
-Call a technician if you cannot access the pump area (built-in units with toe-kick panels or hard-wired power), if you find extensive glass breakage and worry about safety, or if E25 persists after you have cleared all debris, confirmed the impeller spins freely, and verified the drain hose is not kinked. A pro can test the drain pump electrically, inspect the pressure switch and associated hoses, and replace the pump assembly if the motor windings are open or the bearing has seized. Also call if water is pooling around the base of the dishwasher, which may indicate a separate leak or a failed sump gasket that requires disassembly beyond typical DIY scope.
+Call a professional if you have cleared the sump, confirmed the impeller spins freely, reseated the pump cover, checked the drain hose, and the E25 code still appears on every cycle. At that point the drain pump motor may have failed internally or there may be a wiring or control board issue that requires diagnostic tools and model-specific knowledge. Also call a pro if you are uncomfortable working with standing water inside the appliance, tilting the machine to access the pump from below, or disconnecting plumbing under the sink. A qualified appliance technician can test the pump motor for continuity, inspect the check valve if your model has one, and trace wiring faults in the pump circuit.
 
-**Rough cost:** DIY runs about $0-40 in parts (if cover is damaged), 20-40 min. A pro service call runs about $120-220 service call.
+**Rough cost:** DIY runs about $0-20 for cleaning supplies and clamps if needed, 20-45 min; $50-90 and 45-90 min if pump replacement is required. A pro service call runs about $120-220 for service call and cleaning; $180-320 if pump replacement is needed.

@@ -1,8 +1,8 @@
 ---
 title: "Maytag Oven Lock Error Code - Causes & Fix"
-description: "Lock error usually means a jammed door latch or control-lock feature is on. Most common fix: clear debris from the latch mechanism."
-pubDatetime: 2026-06-08T16:23:24Z
-modDatetime: 2026-06-08T16:23:24Z
+description: "LOC or Locked means Control Lock is active, not a fault. Hold START/ENTER for 5 seconds to unlock. If it doesn't clear, power reset."
+pubDatetime: 2026-06-13T19:58:34Z
+modDatetime: 2026-06-13T19:58:34Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,73 +10,71 @@ tags:
   - appliance
   - oven
   - maytag
-most_likely_cause: "Debris or obstruction in the door latch mechanism"
-free_checks:
-  - "Power cycle breaker for 5 minutes to reset control board lock state"
-  - "Check door latch striker alignment and ensure door closes flush without binding"
-  - "Inspect door lock wiring harness connector at control board for corrosion or looseness"
-no_buy_pct: "15%"
+money_part: "Maytag oven keypad or touchpad assembly"
+most_likely_cause: "Control Lock feature enabled intentionally or after a power event"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-money_part: "Door lock assembly"
-part_price: "$30-120"
+free_checks:
+  - "Press and hold START or ENTER for 5 seconds to unlock the control"
+  - "Verify the oven and timer are completely off before attempting to lock or unlock"
+  - "Turn off the circuit breaker(s) for 1 minute, restore power, and check if LOC returns"
+no_buy_pct: "95%"
 ---
 
 ## Maytag Oven Lock Error Code — What It Means
 
-A Maytag oven lock error can appear as **LOC/Locked**, **F9**, **F9 E0**, or subcodes like **F9-1** through **F9-6**. The meaning depends on your model. **LOC/Locked** means the control-lock feature is turned on (a user lockout, not a fault). **F9** or **F9 E0** on some Maytag ranges indicates a miswired electrical outlet or incorrect voltage detected during power-up, not a latch fault at all. The subcodes **F9-1** through **F9-6** map to specific door-latch lock and unlock position faults in the self-clean lock system (upper or lower latch, lock or unlock direction, or both).
+When your Maytag oven displays LOC, Lock, or Locked, it is not reporting a failure. The appliance is in Control Lock mode, a feature that disables the keypad and often the oven door to prevent accidental changes or access. Maytag's product documentation confirms that pressing any key while the control is locked will also display LOC. This message appears because someone held the START or ENTER button for five seconds, or the unit retained the lock state after a power interruption. If the oven is currently running a cook cycle or timer, the controls cannot be locked until those operations finish.
 
-When the error is truly latch-related, the range has detected that the self-clean door lock is jammed, misaligned, or not reporting the correct position. The lock motor may have failed to move the latch bolt, debris may be blocking travel, or the switch that confirms lock position may be stuck or broken. In other cases the wiring to the lock assembly is loose or burnt, or the control board itself has failed and cannot interpret latch signals correctly.
+In a minority of cases, homeowners confuse the self-clean door latch behavior or mechanical latch problems with the LOC message, but Maytag's published guidance on LOC refers only to the Control Lock feature. True door-latch or latch-switch failures typically produce different fault codes such as F9 or F9 E0, not LOC alone.
 
 ## Before You Replace Anything
 
-Homeowners often replace the electronic control board when the real fault is a jammed latch or loose connector. Before ordering a control, inspect the latch path for debris and check every connector at the lock assembly and control.
+People sometimes replace the control board or door-latch assembly thinking LOC is a hardware fault. First confirm the display says LOC (not F9 or another error) and try the unlock procedure and a power reset before ordering any parts.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Obstruction or debris in the latch mechanism (~35%)** Food spills, grease buildup, or small objects can jam the lock motor arm and prevent the latch from moving to the locked or unlocked position.
-- **Jammed or misaligned door latch strike (~25%)** A bent latch bolt, warped door, or misaligned strike plate stops the lock from engaging correctly and triggers a position fault.
-- **Loose, damaged, or burnt wiring to the lock assembly (~20%)** Connectors at the door lock can work loose over time, or wire insulation near the hinge can fray and short, breaking the signal to the control.
-- **Faulty door lock switch or latch motor (~15%)** The micro-switch that confirms latch position can fail closed or open, or the lock motor can burn out and stop driving the bolt.
-- **Failed electronic range control (ERC) board (~5%)** If the latch mechanism and wiring are good, the control board may no longer interpret lock-position signals or drive the lock motor correctly.
+- **Control Lock enabled by user or child (~70%)** Pressing and holding START or ENTER for five seconds activates Control Lock, displaying LOC until the same button is held again to unlock.
+- **Power interruption left unit in locked state (~20%)** A brief outage or breaker trip can leave the control board with the lock flag set, requiring a manual unlock or full power reset to clear.
+- **Stuck or failed keypad membrane (~5%)** A keypad with liquid damage or a stuck START button can send a continuous lock signal, though this is rare and usually accompanied by other keypresses registering.
+- **Control board software glitch (~5%)** Infrequent firmware states can latch the LOC display even after correct unlock attempts, resolved by a full power cycle or, in persistent cases, control-board replacement.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Does the display show LOC or Locked (not F9)?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The control-lock feature is on. Hold START/ENTER for 5 seconds to unlock it (consult your manual for the exact key).<br><strong>No:</strong> You have a latch fault or electrical supply issue. Continue diagnostics below.</div>
+<details class="dtree"><summary>Does pressing and holding START (or ENTER) for 5 seconds clear the LOC message?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Control Lock was simply active. The oven is now unlocked and ready to use. No repair needed.<br><strong>No:</strong> Proceed to the next check.</div>
 </details>
 
-<details class="dtree"><summary>Can you see or feel debris, grease, or a bent part around the oven door latch?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Clean and straighten the latch path. The obstruction is likely causing the lock motor to stall or the position switch to misread.<br><strong>No:</strong> The latch looks clear. Check wiring and connectors at the lock assembly next, or power-cycle the range to clear a transient voltage fault.</div>
+<details class="dtree"><summary>After turning off the circuit breaker for 1 minute and restoring power, does LOC still appear?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The control board may have a stuck input or firmware issue. Inspect the keypad for stuck buttons or moisture, or call a technician for board diagnosis.<br><strong>No:</strong> The lock state was latched by a power event. The oven is now reset and should operate normally.</div>
 </details>
 
-<details class="dtree"><summary>Does the error clear after you turn off the breaker for one minute and restore power?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The fault was a power-line glitch or a key pressed too soon during startup. Monitor for recurrence.<br><strong>No:</strong> The fault is persistent. Inspect wiring, test the lock switch and motor with a multimeter, or call a technician to evaluate the control board.</div>
+<details class="dtree"><summary>Is the oven currently running a cook cycle or timer countdown?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Maytag ovens cannot enter Control Lock while in use. Wait for the cycle to finish, then try the unlock procedure again.<br><strong>No:</strong> The oven is idle. Proceed with the unlock and reset steps.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Identify the exact code.** Write down whether the display shows LOC, F9, F9 E0, or a subcode like F9-3, and note your range model number so you can confirm the meaning in your service manual or wiring diagram.
-2. **Reset power at the breaker.** Turn off both breaker switches (or the single breaker if you have a gas range) for one full minute, then restore power and watch for the code to return.
-3. **Cancel control lock if LOC appears.** If the display says LOC or Locked, press and hold START/ENTER for 5 seconds (or the key sequence in your owner's manual) to unlock the control and clear the message.
-4. **Inspect the latch mechanism.** Open the oven door and look at the lock assembly on the doorframe. Remove any food debris, grease, or foreign objects from the latch slot and around the motor arm with a damp cloth and a soft brush.
-5. **Check door alignment and strike engagement.** Close the door slowly and verify it sits square in the frame and the latch bolt lines up with the strike. Adjust door hinges or straighten a bent strike if needed.
-6. **Examine wiring and connectors.** Unplug or turn off power, then trace the harness from the lock assembly to the control. Look for loose plugs, burnt terminals, cracked insulation, or broken wires and repair or replace any damaged sections.
-7. **Test the lock switch and motor.** Use a multimeter and your model's wiring diagram to check continuity of the latch position switches and resistance of the lock motor. Replace the lock assembly if the switch is open when it should be closed or if the motor shows infinite resistance.
+1. **Verify the display** shows exactly LOC, Lock, or Locked, not a fault code such as F9 or F9 E0.
+2. **Confirm the oven is off** by canceling any active cook cycle or timer countdown.
+3. **Press and hold the START or ENTER button** for five full seconds until the LOC message disappears from the display.
+4. **If LOC remains**, turn off all circuit breakers feeding the range for one minute to perform a complete power reset.
+5. **Restore power** and observe whether the display returns to normal or LOC reappears immediately.
+6. **Inspect the keypad** for sticky buttons, spilled liquid, or damage if LOC persists after unlock and reset.
+7. **Test the oven** by starting a cook cycle to confirm the control accepts commands and the door opens freely.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Oven door lock assembly (latch motor and switch) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-oven-lock-error-code&k=Oven+door+lock+assembly+%28latch+motor+and+switch%29&tag=errorcodefixes-20) \| Match your model number. Many Maytag ranges use an integrated lock with motor and micro-switches in one housing. |
-| Electronic range control (ERC) board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-oven-lock-error-code&k=Electronic+range+control+%28ERC%29+board&tag=errorcodefixes-20) \| Only replace after confirming the latch mechanism and wiring are good. The control is the least common cause. |
+| Maytag oven keypad or touchpad assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-oven-lock-error-code&k=Maytag+oven+keypad+or+touchpad+assembly&tag=errorcodefixes-20) \| Only required if a stuck button or membrane failure is diagnosed after unlock and power reset fail. |
+| Maytag electronic range control (ERC) board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-oven-lock-error-code&k=Maytag+electronic+range+control+%28ERC%29+board&tag=errorcodefixes-20) \| Replace only if the board latches LOC after every power cycle and keypad inspection rules out a stuck input. |
 
 ## When to Call a Pro
 
-Call a pro if you are uncomfortable working inside the control console or testing live circuits with a multimeter. A technician should also diagnose the fault if you have replaced the door lock assembly and checked all wiring but the code persists, because the control board will need to be evaluated or the power supply may need to be inspected at the breaker panel. If your model shows F9 or F9 E0 and Maytag documentation points to a miswired outlet or voltage issue, an electrician should verify that your range receptacle is correctly wired for 240 V and that both hot legs are delivering stable voltage.
+Call a technician if the LOC message will not clear after holding START or ENTER for five seconds and performing a full power reset by turning off the breakers for one minute. A pro will use a multimeter to check for a stuck keypad input or a shorted ribbon cable, and can test the control board for firmware corruption or failed input circuits. Also call if the display shows a different code such as F9 or F9 E0, since those indicate a door-latch or latch-switch problem that may require mechanical replacement of the latch assembly or latch switch. Because the LOC condition itself is almost always a feature state rather than a component failure, attempting to replace parts without proper diagnosis wastes money and time.
 
-**Rough cost:** DIY runs about $30-120 in parts (latch assembly or switch), 30-90 min. A pro service call runs about $150-300 service call and parts.
+**Rough cost:** DIY runs about $0 in most cases, 2-5 min. A pro service call runs about $80-150 for a service call if unlock and reset do not clear it.
