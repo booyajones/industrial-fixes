@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable removing panels, working with live electrical connections, or using a multimeter to test resistance and continuity. The heater and thermistor are located in the sump area beneath the tub, requiring partial disassembly and safe electrical isolation. A technician will also have access to your model's exact service manual specifications for heater resistance and thermistor values, ensuring accurate diagnosis. If the heater and thermistor both test good and you suspect the control board, a pro can confirm the diagnosis and handle the board replacement without risking damage to other components.
 
 **Rough cost:** A pro service call runs about $150–$300.
+
+## See Also
+
+- [LG Mini Split CH74 Error Code - Causes & Fix](/posts/lg-mini-split-ch74-error-code/)
+- [LG Refrigerator Running Constantly - Causes & Fix](/posts/lg-refrigerator-running-constantly/)
+- [LG Washer tE Error Code - Causes & Fix](/posts/lg-washer-te-error-code/)
+- [LG MVEL2033F Microwave Problems & Error Codes](/posts/lg-mvel2033f-microwave-problems/)

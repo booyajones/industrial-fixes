@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or industrial technician immediately. F039 requires high-voltage isolation, insulation resistance testing with a megger, and diagnosis of three-phase motor and drive circuits. The fault can indicate a failing motor, damaged cable insulation, or a defective drive output stage. Testing requires lockout/tagout procedures, appropriate PPE, and test equipment. If the motor or cable is grounded, replacement or repair involves sizing and terminating three-phase power conductors. If the drive itself has failed, replacement involves VFD parameter programming and commissioning. This is not a DIY repair.
 
 **Rough cost:** A pro service call runs about $200-800 depending on whether the motor cable needs replacement, the motor needs rewinding or replacement, or the drive power section has failed.
+
+## See Also
+
+- [Allen-Bradley PowerFlex 525 F080 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f080-fault-code/)
+- [Allen-Bradley PowerFlex 525 F042 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f042-fault-code/)
+- [Allen-Bradley PowerFlex 525 F101 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f101-fault-code/)
+- [Allen-Bradley PowerFlex F081 Fault — Communication Loss Fix](/posts/allen-bradley-powerflex-f081-fault/)

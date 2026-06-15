@@ -61,3 +61,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you cannot identify the fault code, if the pressure switch or inducer motor needs testing or replacement, or if the problem involves the gas valve, igniter, or flame sensor. Gas ignition and flame-proving work should be handled by a licensed pro. Also call if the furnace repeatedly locks out after resets, or if you see unusual noises, smells, or error codes you cannot match to a known cause. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [York Affinity Series Packaged Unit Error Codes: Complete Guide](/posts/york-affiniti-error-codes/)
+- [York Furnace Error Codes — Complete Guide](/posts/york-furnace-error-codes/)
+- [York Furnace Won't Turn On - Causes & Fix](/posts/york-furnace-wont-turn-on/)
+- [York Furnace Error Code E2: Pressure Switch Fault Causes and Fix](/posts/york-furnace-e2-pressure-switch/)

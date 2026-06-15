@@ -81,3 +81,10 @@ Answer these to narrow it down fast.
 Call a pro if you have checked the supply valve, cleaned the inlet screen, inspected the hose, and replaced the water inlet valve but the IE code persists. At that point the problem may involve wiring, the control board, or an internal pressure sensor that requires diagnostic tools and schematic knowledge. Also call for service if your household water pressure is consistently below 20 PSI and you need a plumber to install a booster pump or correct supply-line restrictions. If you are uncomfortable working under the sink, disconnecting water lines, or accessing the back of a built-in dishwasher, a technician can perform the entire diagnostic and repair sequence safely in a single visit.
 
 **Rough cost:** DIY runs about $30-80 in parts, 30-90 min. A pro service call runs about $120-250.
+
+## See Also
+
+- [LG Oven F11 Error Code - Causes & Fix](/posts/lg-oven-f11-error-code/)
+- [LG Refrigerator CO Error Code - Causes & Fix](/posts/lg-refrigerator-co-error-code/)
+- [LG Oven F9 Error Code - Causes & Fix](/posts/lg-oven-f9-error-code/)
+- [LG Range PE Error Code - Causes & Fix](/posts/lg-range-pe-error-code/)

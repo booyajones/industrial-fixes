@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or VFD technician if you are not trained in industrial electrical work, if you cannot safely lock out and verify de-energized high-voltage terminals, or if the motor and wiring test good but the fault remains. Diagnosing and replacing internal drive components such as output transistors or power boards requires specialized knowledge, proper ESD precautions, and access to service documentation. A professional can also perform insulation testing (megohm testing) on the motor and cable, interpret parameter settings, and confirm proper drive-to-motor sizing per NEC and manufacturer guidelines.
 
 **Rough cost:** A pro service call runs about $150-500.
+
+## See Also
+
+- [Yaskawa GA800 E23 Fault - Causes & Fix](/posts/yaskawa-ga800-e23-fault-code/)
+- [Yaskawa GA800 E01 Fault - Motor Data Error During Auto-Tune](/posts/yaskawa-ga800-e01-fault-code/)
+- [Yaskawa GA800 A.102 Alarm - Causes & Fix](/posts/yaskawa-ga800-vfd-a-102-fault-code/)
+- [Yaskawa A1000 VFD oL3 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol3-fault-code/)

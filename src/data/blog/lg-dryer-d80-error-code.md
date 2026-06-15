@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a professional if you cannot access or clean the full vent run yourself, if the vent path is built into walls or ceilings and requires tools or disassembly beyond your comfort level, or if D80 continues to appear after you have thoroughly cleaned and verified the entire exhaust system is open and unrestricted. A technician can test internal airflow and temperature sensors, verify blower operation, and diagnose any internal component failures that may mimic a vent blockage.
 
 **Rough cost:** DIY runs about $10-40 in parts (vent brush, replacement rigid duct if needed), 1-2 hours. A pro service call runs about $100-200 for vent cleaning and inspection.
+
+## See Also
+
+- [LG Oven F17 Error Code - Causes & Fix](/posts/lg-oven-f17-error-code/)
+- [LG Mini Split CH90 Error Code - Causes & Fix](/posts/lg-mini-split-ch90-error-code/)
+- [LG Oven Not Heating - Causes & Fix](/posts/lg-oven-not-heating/)
+- [LG Oven F1 Error Code - Causes & Fix](/posts/lg-oven-f1-error-code/)

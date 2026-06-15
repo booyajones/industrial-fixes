@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or VFD technician if you are not trained to work with industrial three-phase power, motor control wiring, or drive parameter programming. Incorrect wiring or parameter changes can damage the drive, motor, or driven equipment. A technician should handle all inspections of motor power wiring, verify proper motor and drive sizing, adjust acceleration and deceleration parameters, and perform load analysis. If the HCA warning persists after external checks and points to internal drive hardware issues, the drive may require repair or replacement by a factory-trained service provider. Do not attempt to open or service the drive's internal components without proper lockout/tagout procedures and high-voltage safety training.
 
 **Rough cost:** A pro service call runs about $200-500 for load analysis, parameter adjustment, and wiring inspection; higher if drive or motor replacement is required.
+
+## See Also
+
+- [Yaskawa GA800 A.137 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-137-fault-code/)
+- [Yaskawa GA800 E26 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e26-fault-code/)
+- [Yaskawa GA800 E48 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e48-fault-code/)
+- [Yaskawa GA800 E67 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e67-fault-code/)

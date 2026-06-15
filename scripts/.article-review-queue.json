@@ -484,5 +484,35 @@
     "score": 6,
     "reason": "Research explicitly states F108 is NOT documented in Rockwell's official PowerFlex 525 manual (only F008 is); publishing an article about a possibly non-existent code creates confusion even though the draft acknowledges the discrepancy.",
     "date": "2026-06-14"
+  },
+  "weil-mclain-boiler-a21-error-code": {
+    "topic": "Weil-McLain boiler A21 error code",
+    "score": 3,
+    "reason": "FAIL: Research explicitly states A21 cannot be verified as a Weil-McLain code and is confirmed only for Worcester Bosch; article proceeds anyway with unverified cross-brand speculation.",
+    "date": "2026-06-15"
+  },
+  "weil-mclain-boiler-a24-error-code": {
+    "topic": "Weil-McLain boiler A24 error code",
+    "score": 6,
+    "reason": "Code is not documented in manufacturer sources\u2014only a single forum post supports the A24 meaning for Weil-McLain; insufficient primary evidence to publish as definitive guidance.",
+    "date": "2026-06-15"
+  },
+  "weil-mclain-boiler-a27-error-code": {
+    "topic": "Weil-McLain boiler A27 error code",
+    "score": 3,
+    "reason": "The research explicitly states 'A27 is not a code I can verify from manufacturer documents' and only confirms E27; publishing unverified code content violates standard #1 for brand+appliance documentation.",
+    "date": "2026-06-15"
+  },
+  "weil-mclain-boiler-a34-error-code": {
+    "topic": "Weil-McLain boiler A34 error code",
+    "score": 3,
+    "reason": "Research explicitly states A34 is NOT a verified/documented Weil-McLain code from manufacturer materials, yet draft proceeds to publish generic troubleshooting as if it were real\u2014fails criterion #1.",
+    "date": "2026-06-15"
+  },
+  "weil-mclain-boiler-a39-error-code": {
+    "topic": "Weil-McLain boiler A39 error code",
+    "score": 3,
+    "reason": "FAIL: Research explicitly states A39 is NOT documented/verified for Weil-McLain boilers; the draft correctly refuses to invent a meaning but cannot confirm this is a real code for this brand, violating criterion #1.",
+    "date": "2026-06-15"
   }
 }

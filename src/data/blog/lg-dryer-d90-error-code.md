@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a professional if you have cleaned the lint filter, inspected the flex vent, and cleared the exterior hood but the D90 code persists. A technician can inspect hidden duct sections, evaluate the overall vent design for excessive length or too many bends, and perform internal blower-housing cleaning or duct replacement. Also call a pro if you are not comfortable working behind the dryer, disconnecting ductwork, or accessing the exterior vent from the roof or a high wall. LG recommends professional duct cleaning when the restriction is not obvious and the vent run is long or complex.
 
 **Rough cost:** DIY runs about $15-50 in parts (vent hood or flex duct), 30-90 min. A pro service call runs about $100-250 for duct cleaning or vent repair.
+
+## See Also
+
+- [LG Range E1 Error Code - Causes & Fix](/posts/lg-range-e1-error-code/)
+- [LG Washer Not Dispensing Detergent - Causes & Fix](/posts/lg-washer-not-dispensing-detergent/)
+- [LG Washer Drive Belt Replacement - Signs & How-To](/posts/lg-washer-drive-belt-replacement/)
+- [LG Microwave Won't Start - Causes & Fix](/posts/lg-microwave-wont-start/)

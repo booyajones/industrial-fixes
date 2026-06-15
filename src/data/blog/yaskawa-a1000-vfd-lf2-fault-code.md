@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or drive specialist if you are not trained in lockout/tagout, high-voltage DC bus safety, or VFD troubleshooting. The A1000 stores lethal voltage on internal capacitors even after AC power is removed. Professional diagnosis is required to safely measure motor winding resistance, perform insulation resistance tests on long cable runs, and determine whether the fault lies in the drive's internal output circuit or external wiring. If the drive or control board needs replacement, a certified Yaskawa service center can provide factory-calibrated parts and make sure the replacement is configured correctly for your motor and application. Do not attempt to open the drive or disconnect motor leads under power.
 
 **Rough cost:** A pro service call runs about $150-500 depending on whether the fault is wiring, motor cable, or internal drive damage.
+
+## See Also
+
+- [Yaskawa GA800 E07 Fault - Causes & Fix](/posts/yaskawa-ga800-e07-fault-code/)
+- [Yaskawa GA800 A.109 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-109-fault-code/)
+- [Yaskawa GA800 A.111 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-111-fault-code/)
+- [Yaskawa GA800 E76 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e76-fault-code/)

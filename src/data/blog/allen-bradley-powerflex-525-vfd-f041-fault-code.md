@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or controls technician for F041 troubleshooting and repair. This fault involves high-voltage AC output circuits and requires lock-out/tag-out, insulation testing with a megohmmeter, and the ability to safely work inside the drive and motor junction box. Incorrect diagnosis can lead to repeated drive failures or motor damage. A technician will isolate the motor circuit, perform resistance and insulation tests to the correct standards, verify proper wire sizing and termination torque, and determine whether the fault is in the cable, motor, or drive output stage. If the drive must be replaced, a professional will also verify that all parameters and network settings are correctly transferred to the new unit.
 
 **Rough cost:** A pro service call runs about $200-800 depending on whether the fix is new motor cable, motor rewind, or drive replacement.
+
+## See Also
+
+- [Allen-Bradley PowerFlex 525 F080 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f080-fault-code/)
+- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)
+- [Allen-Bradley PowerFlex 4M Fault Codes — F2, F4, F5, F7, F12 Fix Guide](/posts/allen-bradley-powerflex-4m-fault-codes/)
+- [Allen-Bradley PowerFlex 525 F125 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f125-fault-code/)

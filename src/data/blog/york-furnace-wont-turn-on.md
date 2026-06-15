@@ -62,3 +62,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a technician if you see no power at the furnace after checking breakers and switches, if the LED code points to a control board or gas valve fault, or if the ignition sequence fails after you have confirmed airflow and venting are clear. Any work involving the gas valve, burners, igniters, or flame proving should be handled by a qualified HVAC professional to prevent unsafe operation or carbon monoxide hazards. If limit or rollout switches trip repeatedly, a pro must diagnose and fix the root cause before the furnace is safe to run. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [York Furnace Error Code E2: Pressure Switch Fault Causes and Fix](/posts/york-furnace-e2-pressure-switch/)
+- [York Furnace Error Code E2 — Causes & Fix](/posts/york-furnace-e2-error-code/)
+- [York Mini Split Error Code E1 — Causes & Fix](/posts/york-mini-split-error-code-e1/)
+- [York 2-Blink Error Code — Pressure Switch Stuck Open Fix](/posts/york-error-code-2/)

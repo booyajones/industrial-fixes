@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if you are not familiar with variable frequency drive wiring, if the drive is part of a safety-rated machine installation, or if the Hbb fault persists after you have verified correct jumpers and wiring. High-voltage work on VFD power terminals and internal board-level diagnostics require specialized training and test equipment. Also call a pro if you need to integrate the Safe Disable circuit into a larger safety system with light curtains, E-stops, or safety PLCs, because improper wiring can create serious safety hazards.
 
 **Rough cost:** A pro service call runs about $150-400 depending on service call and whether jumpers or wiring repair is needed.
+
+## See Also
+
+- [Yaskawa A1000 CPF14 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf14-fault-code/)
+- [Yaskawa GA800 E21 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e21-fault-code/)
+- [Yaskawa VFD Fault LF — Causes & Fix](/posts/yaskawa-vfd-fault-lf/)
+- [Yaskawa GA800 E47 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e47-fault-code/)
