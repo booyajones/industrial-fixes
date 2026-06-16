@@ -50,3 +50,10 @@ In many cases the fault points to inadequate cooling rather than a true thermal 
 ## When to Call a Pro
 
 Call a qualified technician or industrial electrician if you are not comfortable working inside energized or recently de-energized high-voltage equipment, if the fault returns after cleaning and verifying the fan, or if r0037 remains invalid after inspecting the sensor and wiring. Replacing internal sensors or control boards requires knowledge of VFD disassembly, ESD precautions, and proper calibration. If the drive is still under warranty or is part of a critical process, contact Siemens or an authorized service center to avoid further damage or downtime.
+
+## See Also
+
+- [Siemens G120 F0004 - Causes & Fix](/posts/siemens-g120-vfd-f0004-fault-code/)
+- [Siemens Micromaster F0022 - Causes & Fix](/posts/siemens-micromaster-vfd-f0022-fault-code/)
+- [Siemens G120 A05002 Fault - Causes & Fix](/posts/siemens-g120-vfd-a05002-fault-code/)
+- [Siemens G120 F01205 - Causes & Fix](/posts/siemens-g120-f01205-fault-code/)

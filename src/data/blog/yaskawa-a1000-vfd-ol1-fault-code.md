@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or VFD technician for oL1 faults. Diagnosis requires understanding motor thermal models, programming drive parameters correctly, and testing motor windings with insulation resistance equipment. Mechanical load issues may need a millwright or machinery specialist. If you are not trained in variable-frequency drive programming and motor testing, professional help will save time and prevent damage to the motor or drive.
 
 **Rough cost:** A pro service call runs about $200-600 depending on whether the fix is programming, motor replacement, or mechanical correction.
+
+## See Also
+
+- [Yaskawa GA800 VFD A.131 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-131-fault-code/)
+- [Yaskawa GA800 E68 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e68-fault-code/)
+- [Yaskawa GA800 VFD A.126 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-126-fault-code/)
+- [Yaskawa GA800 E96 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e96-fault-code/)

@@ -514,5 +514,59 @@
     "score": 3,
     "reason": "FAIL: Research explicitly states A39 is NOT documented/verified for Weil-McLain boilers; the draft correctly refuses to invent a meaning but cannot confirm this is a real code for this brand, violating criterion #1.",
     "date": "2026-06-15"
+  },
+  "weil-mclain-boiler-a04-error-code": {
+    "topic": "Weil-McLain boiler A04 error code",
+    "score": 3,
+    "reason": "Research explicitly states A04 is NOT a verified/documented Weil-McLain code; draft attempts to publish content for a non-existent error code, violating criterion #1.",
+    "date": "2026-06-16"
+  },
+  "weil-mclain-boiler-a40-error-code": {
+    "topic": "Weil-McLain boiler A40 error code",
+    "score": 4,
+    "reason": "Research explicitly states A40 is NOT documented in Weil-McLain materials (only A01 for ignition failure is cited); draft treats unconfirmed code as real, violating brand+appliance verification requirement.",
+    "date": "2026-06-16"
+  },
+  "weil-mclain-boiler-a43-error-code": {
+    "topic": "Weil-McLain boiler A43 error code",
+    "score": 3,
+    "reason": "Code A43 is NOT documented as real for Weil-McLain boilers in the research; the draft itself admits 'exact meaning not confirmed' yet proceeds to publish speculative generic causes without brand-specific verification.",
+    "date": "2026-06-16"
+  },
+  "weil-mclain-boiler-a50-error-code": {
+    "topic": "Weil-McLain boiler A50 error code",
+    "score": 4,
+    "reason": "Research explicitly states 'the search results do not include the official Weil-McLain model-specific code table that explicitly maps A50 by model family' \u2013 code is not confirmed as real/documented for this brand, fails criterion #1",
+    "date": "2026-06-16"
+  },
+  "weil-mclain-boiler-a54-error-code": {
+    "topic": "Weil-McLain boiler A54 error code",
+    "score": 3,
+    "reason": "Research explicitly states A54 is not verified in provided manufacturer documentation and exact meaning cannot be responsibly claimed; draft proceeds anyway with speculative causes not tied to confirmed A54 definition.",
+    "date": "2026-06-16"
+  },
+  "weil-mclain-boiler-a55-error-code": {
+    "topic": "Weil-McLain boiler A55 error code",
+    "score": 3,
+    "reason": "Research explicitly states 'I could not verify an A55 error code in the Weil-McLain manufacturer materials' yet the draft presents it as a real code with specific causes and fixes\u2014fails authenticity requirement.",
+    "date": "2026-06-16"
+  },
+  "weil-mclain-boiler-a56-error-code": {
+    "topic": "Weil-McLain boiler A56 error code",
+    "score": 4,
+    "reason": "Research explicitly states A56 is NOT a verified Weil-McLain code from manufacturer documentation and cannot be responsibly mapped to a single meaning, yet the draft presents it as real with specific causes\u2014this violates criterion #1 (code must be documented for this exact brand+appliance).",
+    "date": "2026-06-16"
+  },
+  "weil-mclain-boiler-a58-error-code": {
+    "topic": "Weil-McLain boiler A58 error code",
+    "score": 2,
+    "reason": "A58 is explicitly NOT a real Weil-McLain error code per the research; publishing content for a non-existent code misleads users, regardless of how helpful the A01 guidance may be.",
+    "date": "2026-06-16"
+  },
+  "weil-mclain-boiler-a59-error-code": {
+    "topic": "Weil-McLain boiler A59 error code",
+    "score": 3,
+    "reason": "FAIL: A59 is not a documented Weil-McLain boiler error code; the draft correctly identifies this but then fabricates a repair guide for a non-existent code, which will confuse users searching for 'A59' when they should be directed to verify their actual code first.",
+    "date": "2026-06-16"
   }
 }

@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD service technician or a Yaskawa-authorized service center if the oH fault returns after you have verified proper airflow, cleaned the heatsink, and confirmed that the cooling fan is operating. Persistent overheat faults after environmental corrections often indicate an internal problem such as a failed thermal sensor, control board defect, or power section issue that requires component-level diagnostics and access to OEM service documentation. High-voltage work on the DC bus and power terminals must only be performed by trained personnel with appropriate test equipment and lockout procedures.
 
 **Rough cost:** A pro service call runs about $150-500 depending on whether a fan cleaning or component replacement is required.
+
+## See Also
+
+- [Yaskawa A1000 SC Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-sco-fault-code/)
+- [Yaskawa GA800 A.111 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-111-fault-code/)
+- [Yaskawa A1000 oL7 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol7-fault-code/)
+- [Yaskawa GA800 A.119 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-119-fault-code/)

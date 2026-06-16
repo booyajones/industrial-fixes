@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a professional if the duct run is longer than 15 feet, has multiple bends, or runs through walls or ceilings where you cannot safely access it for cleaning. A technician should also inspect the system if the D95 code returns after you have confirmed the lint filter is clean and the exterior vent has strong airflow. Long or complex vent installations may require professional duct cleaning equipment and expertise to fully clear restrictions. If the vent system design exceeds manufacturer installation guidelines for length and bends, a pro can evaluate whether rerouting or upgrading the ductwork is necessary to prevent future blockage codes.
 
 **Rough cost:** DIY runs about $15-50 in parts (vent hood, replacement ducting), 30-90 min. A pro service call runs about $150-300 for duct cleaning and repair.
+
+## See Also
+
+- [LG Refrigerator Too Warm - Causes & Fix](/posts/lg-refrigerator-too-warm/)
+- [LG Oven Broiler Not Working - Causes & Fix](/posts/lg-oven-broiler-not-working/)
+- [LG Microwave F-3 Error - Causes & Fix](/posts/lg-microwave-f-3-error-code/)
+- [LG Washer Drive Belt Replacement - Signs & How-To](/posts/lg-washer-drive-belt-replacement/)

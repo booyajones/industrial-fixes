@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drive technician immediately. F042 involves high-voltage AC output wiring and requires lockout/tagout, insulation resistance testing with a megohmmeter, and the ability to safely isolate and test the drive power section. Misdiagnosis can lead to expensive drive replacement when the real problem is a damaged cable or motor. A technician will disconnect the motor, perform megger tests on both the motor and cable, and determine whether the fault is in the wiring, the motor windings, or the drive output stage before ordering parts. If the drive output stage has failed, replacement requires matching the frame size, voltage rating, and parameter setup to your application.
 
 **Rough cost:** A pro service call runs about $200-800 depending on whether the fix is cable replacement, motor winding repair, or drive replacement.
+
+## See Also
+
+- [Allen-Bradley PowerFlex 525 F004 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f004-fault-code/)
+- [Allen-Bradley PowerFlex Fault F025 — Causes & Fix](/posts/allen-bradley-powerflex-fault-f025/)
+- [Allen-Bradley PowerFlex Fault F004 — Causes & Fix](/posts/allen-bradley-powerflex-fault-f004/)
+- [Allen-Bradley PowerFlex 525 F012 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f012-fault-code/)

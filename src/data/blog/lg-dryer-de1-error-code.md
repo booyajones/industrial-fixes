@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a technician if you have replaced the door latch, strike, and gasket, verified that the door closes and latches firmly, and the dE1 code still appears. At that stage the wiring harness or main control board is the likely culprit, and diagnosis requires a multimeter and familiarity with connector pinouts. Also call a pro if you are uncomfortable working around electrical connectors or if your washer is still under warranty, since self-repair may void coverage.
 
 **Rough cost:** DIY runs about $15–80 in parts (gasket, latch, or strike), 20–45 min. A pro service call runs about $120–220 service call plus parts.
+
+## See Also
+
+- [LG Range E0 Error Code - Causes & Fix](/posts/lg-range-e0-error-code/)
+- [LG Mini-Split CH03 Error - Causes & Fix](/posts/lg-mini-split-ch03-error-code/)
+- [LG Mini Split CH29 Error Code - Causes & Fix](/posts/lg-mini-split-ch29-error-code/)
+- [LG Dishwasher Not Drying - Causes & Fix](/posts/lg-dishwasher-not-drying/)

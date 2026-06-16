@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or controls technician if you are not trained to work with three-phase power, high-voltage DC bus circuits, or VFD programming. Overload faults often require load analysis, motor testing with a megohmmeter, and parameter tuning that demands familiarity with the A1000 keypad and manual. If the fault persists after verifying parameters and mechanical load, a technician should perform current measurement with a clamp meter during operation and evaluate whether the drive is undersized or the motor windings are shorted. Any work inside the VFD enclosure while energized is dangerous and should be left to professionals.
 
 **Rough cost:** A pro service call runs about $200-800 depending on whether the fix is parameter tuning, motor repair, or drive replacement.
+
+## See Also
+
+- [Yaskawa GA800 E27 Fault - Causes & Fix](/posts/yaskawa-ga800-e27-fault-code/)
+- [Yaskawa GA800 E95 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e95-fault-code/)
+- [Yaskawa GA800 A.111 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-111-fault-code/)
+- [Yaskawa GA800 E27 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e27-fault-code/)

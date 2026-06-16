@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician if you have replaced batteries, re-paired the thermostat, and tested range but the A21 returns immediately or intermittently. A pro can use diagnostic tools to test the receiver's power supply, check for control-board voltage issues, and verify that the RF module is functioning. Also call if you cannot locate model-specific documentation for your Weil-McLain boiler or if the displayed code does not match any documented fault for your control system. A technician will confirm the exact control type and replace the correct failed component rather than guessing. Finally, if your boiler uses a proprietary Weil-McLain control and truly shows A21 (which is not verified in manufacturer sources), a trained service provider can cross-reference the CP number and access the factory service bulletins to identify the correct meaning and repair procedure.
 
 **Rough cost:** DIY runs about $5-15 for batteries or $50-120 for a replacement thermostat or receiver, 15-45 min. A pro service call runs about $150-300 service call plus parts.
+
+## See Also
+
+- [Weil-McLain E02 Error Code — Causes & Fix](/posts/weil-mclain-e02-error-code/)
+- [Weil-McLain A27 Error - Causes & Fix](/posts/weil-mclain-boiler-a27-error-code/)
+- [Weil-McLain A46 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a46-error-code/)
+- [Weil-McLain A13 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a13-error-code/)

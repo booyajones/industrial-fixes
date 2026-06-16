@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drive technician if you are not trained to work on industrial three-phase motor circuits. High DC bus voltages (up to 800 V or more depending on drive size) remain inside the A1000 even after input power is removed, and improper handling can cause injury or death. A technician should perform all internal drive diagnostics, gate drive board replacement, or power unit service. If motor winding tests or insulation checks require specialized equipment like a megohmmeter or if you are unsure how to safely measure resistance on a three-phase motor, professional service is the safest choice.
 
 **Rough cost:** A pro service call runs about $150-600.
+
+## See Also
+
+- [Yaskawa V1000 OC Fault — Overcurrent](/posts/yaskawa-v1000-fault-oc/)
+- [Yaskawa GA800 E76 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e76-fault-code/)
+- [Yaskawa GA800 E97 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e97-fault-code/)
+- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)

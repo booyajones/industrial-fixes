@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a technician if you have completed the door checks and power reset but the dE code persists and you are not comfortable disassembling the front panel to access the door switch and wiring. A pro can quickly verify switch continuity, check for intermittent wiring faults, and replace the switch or control-board connector if needed. Also call for service if the door or cabinet shows structural damage that requires bracket or hinge replacement, or if the dryer is under warranty and you want LG to document the repair.
 
 **Rough cost:** DIY runs about $15–50 in parts, 20–45 min. A pro service call runs about $120–220.
+
+## See Also
+
+- [LG Oven Not Heating - Causes & Fix](/posts/lg-oven-not-heating/)
+- [LG Microwave Inverter Board Replacement - Signs & How-To](/posts/lg-microwave-inverter-board-inverter-models-replacement/)
+- [LG Microwave F4 Error - Causes & Fix](/posts/lg-microwave-f4-error-code/)
+- [LG Range E7 Error Code - Causes & Fix](/posts/lg-range-e7-error-code/)

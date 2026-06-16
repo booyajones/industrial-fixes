@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or industrial technician immediately. F043 involves high-voltage AC output circuits and requires safe lockout/tagout, proper insulation-resistance testing with a megohmmeter, and the ability to distinguish between motor, cable, and drive failures. Incorrect troubleshooting can damage the replacement drive or create an arc-flash hazard. If the drive must be replaced, a technician will verify that all parameters are correctly re-entered and that the replacement unit is properly sized and configured for your motor and application. Do not attempt this repair without appropriate training and test equipment.
 
 **Rough cost:** A pro service call runs about $150-800.
+
+## See Also
+
+- [Allen-Bradley PowerFlex 4M Fault Codes — F2, F4, F5, F7, F12 Fix Guide](/posts/allen-bradley-powerflex-4m-fault-codes/)
+- [Allen-Bradley PowerFlex 525 F105 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f105-fault-code/)
+- [Allen-Bradley PowerFlex 525 F110 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f110-fault-code/)
+- [Allen-Bradley PowerFlex 525 F048 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f048-fault-code/)

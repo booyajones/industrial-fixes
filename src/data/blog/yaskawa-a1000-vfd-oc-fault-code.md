@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a professional when the fault persists with the motor disconnected, indicating an internal drive failure that requires IGBT module or gate-driver repair. Also call a pro if you lack the tools to safely megger motor cables and windings, or if the mechanical load is part of a production line or safety-critical system. High-voltage DC bus capacitors and IGBT power stages carry lethal voltage even after input power is removed, so drive-internal repairs must be performed by trained technicians with proper lockout and discharge procedures.
 
 **Rough cost:** A pro service call runs about $200-800 for cable replacement or motor repair; $1,500-3,000+ for drive output-stage replacement.
+
+## See Also
+
+- [Yaskawa GA800 A.102 Alarm - Causes & Fix](/posts/yaskawa-ga800-vfd-a-102-fault-code/)
+- [Yaskawa GA800 VFD A.113 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-113-fault-code/)
+- [Yaskawa GA800 E29 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e29-fault-code/)
+- [Yaskawa GA800 E61 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e61-fault-code/)

@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a technician if the E00 code returns after you have completed a 60-second power reset, verified stable 240 V supply, and inspected and reseated the connectors between the display and main boards. Board-level diagnosis often requires a multimeter, wiring diagram, and experience isolating which PCB has failed. If you are uncomfortable working inside the control console or tracing low-voltage data lines, a qualified appliance technician can test each board, confirm the fault, and replace only the defective component. Professional service also ensures you do not replace both boards unnecessarily.
 
 **Rough cost:** DIY runs about $80–200 in parts (board), 30–60 min. A pro service call runs about $150–350.
+
+## See Also
+
+- [LG Washer SUD Error Code - Causes & Fix](/posts/lg-washer-sud-error-code/)
+- [LG LAN120HSV5 Ductless Mini Split Problems & Error Codes](/posts/lg-lan120hsv5-ductless-mini-split-air-conditioner-problems/)
+- [LG Mini-Split CH24 Error - Causes & Fix](/posts/lg-mini-split-ch24-error-code/)
+- [LG Mini-Split CH21 Error Code — Outdoor Unit High Pressure](/posts/lg-mini-split-ch21-error-code/)

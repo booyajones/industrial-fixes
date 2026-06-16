@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or automation technician if you are not familiar with VFD safety circuits, the PowerFlex 525 terminal wiring, or parameter configuration. This fault usually requires tracing field wiring, verifying safety-device operation, and editing drive parameters. If the safety circuit hardware is correct but the fault persists, the drive may have an internal safety-circuit failure that requires manufacturer service or replacement. Never bypass safety inputs to force the drive to run. Safety circuits are designed to protect personnel and equipment.
 
 **Rough cost:** A pro service call runs about $150-400 for diagnosis and wiring correction.
+
+## See Also
+
+- [Allen-Bradley PowerFlex 525 F107 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f107-fault-code/)
+- [Allen-Bradley PowerFlex 525 Fault F003 - What It Means and How to Fix It](/posts/allen-bradley-powerflex-525-fault-f003/)
+- [Allen-Bradley PowerFlex F005 Fault — Overvoltage Fix](/posts/allen-bradley-powerflex-f005-fault/)
+- [Allen-Bradley PowerFlex 525 F007 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f007-fault-code/)

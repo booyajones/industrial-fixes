@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician if the manual identifies A20 as a gas-valve, pressure-switch, or combustion fault, or if you are not comfortable working with 120 V control wiring and testing sensors with a multimeter. Professionals have model-specific diagnostic tools, access to OEM parts, and the training to handle natural gas or propane safely. Also call if you replace the named component and the code returns, since a recurring error often points to a control board fault, incorrect wiring, or a mechanical problem elsewhere in the system that requires pressure testing or combustion analysis.
 
 **Rough cost:** A pro service call runs about $150–400.
+
+## See Also
+
+- [Weil-McLain Boiler Error Code E02 — Ignition Failure Fix](/posts/weil-mclain-e02-ignition-failure/)
+- [Weil-McLain A60 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a60-error-code/)
+- [Weil-McLain A06 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a06-error-code/)
+- [Weil-McLain Boiler A23 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a23-error-code/)
