@@ -27,9 +27,9 @@ The Allen-Bradley MicroLogix 1400 (1766-L32AWA, 1766-L32BXB, etc.) is a compact 
 | RUN | Off | Processor stopped / faulted |
 | FLT | Red solid | Major fault — CPU halted |
 | FLT | Red blink | Minor fault — CPU running |
-| [BATT](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-micrologix-fault&k=BATT&tag=errorcodefixes-20) | Red | Replace battery immediately |
+| BATT | Red | Replace battery immediately |
 | [COMM1/COMM2](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-micrologix-fault&k=COMM1%2FCOMM2&tag=errorcodefixes-20) | Yellow blink | Serial/EtherNet activity |
-| [FORCE](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-micrologix-fault&k=FORCE&tag=errorcodefixes-20) | Yellow | I/O forces active |
+| FORCE | Yellow | I/O forces active |
 
 ## Major Fault Codes (0000–0FFF)
 
@@ -37,19 +37,19 @@ Major faults halt the CPU. The FLT LED goes solid red.
 
 | Code | Type | Description |
 |---|---|---|
-| [0004](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-micrologix-fault&k=0004&tag=errorcodefixes-20) | Configuration | I/O configuration file error |
-| [0006](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-micrologix-fault&k=0006&tag=errorcodefixes-20) | Configuration | EE read error during power cycle |
-| [0007](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-micrologix-fault&k=0007&tag=errorcodefixes-20) | Configuration | Watchdog timeout |
-| [0008](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-micrologix-fault&k=0008&tag=errorcodefixes-20) | Configuration | Internal processor fault |
-| [0020](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-micrologix-fault&k=0020&tag=errorcodefixes-20) | Instruction | Illegal instruction execution |
-| [0021](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-micrologix-fault&k=0021&tag=errorcodefixes-20) | Instruction | Division by zero |
-| [0022](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-micrologix-fault&k=0022&tag=errorcodefixes-20) | Instruction | Illegal slot or address |
-| [0030](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-micrologix-fault&k=0030&tag=errorcodefixes-20) | I/O | Local I/O communication fault |
-| [0031](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-micrologix-fault&k=0031&tag=errorcodefixes-20) | I/O | I/O module failure |
-| [0042](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-micrologix-fault&k=0042&tag=errorcodefixes-20) | Program | Control stack overflow (too many nested subroutines) |
-| [0043](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-micrologix-fault&k=0043&tag=errorcodefixes-20) | Program | Subroutine nesting fault |
-| [0060](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-micrologix-fault&k=0060&tag=errorcodefixes-20) | Memory | RAM fault |
-| [0080](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-micrologix-fault&k=0080&tag=errorcodefixes-20) | CPU | Math coprocessor fault |
+| 0004 | Configuration | I/O configuration file error |
+| 0006 | Configuration | EE read error during power cycle |
+| 0007 | Configuration | Watchdog timeout |
+| 0008 | Configuration | Internal processor fault |
+| 0020 | Instruction | Illegal instruction execution |
+| 0021 | Instruction | Division by zero |
+| 0022 | Instruction | Illegal slot or address |
+| 0030 | I/O | Local I/O communication fault |
+| 0031 | I/O | I/O module failure |
+| 0042 | Program | Control stack overflow (too many nested subroutines) |
+| 0043 | Program | Subroutine nesting fault |
+| 0060 | Memory | RAM fault |
+| 0080 | CPU | Math coprocessor fault |
 
 ## Minor Fault Codes
 
@@ -57,11 +57,11 @@ Minor faults are logged but the CPU keeps running (FLT LED blinks).
 
 | Code | Description |
 |---|---|
-| [0081](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-micrologix-fault&k=0081&tag=errorcodefixes-20) | Battery low |
-| [0082](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-micrologix-fault&k=0082&tag=errorcodefixes-20) | RTC (real time clock) error |
-| [0085](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-micrologix-fault&k=0085&tag=errorcodefixes-20) | I/O module not responding (still scanned) |
-| [0090](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-micrologix-fault&k=0090&tag=errorcodefixes-20) | User-defined fault (triggered by fault instruction in ladder) |
-| [00A0](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-micrologix-fault&k="00A0"&tag=errorcodefixes-20) | Communication timeout on serial port |
+| 0081 | Battery low |
+| 0082 | RTC (real time clock) error |
+| 0085 | I/O module not responding (still scanned) |
+| 0090 | User-defined fault (triggered by fault instruction in ladder) |
+| 00A0 | Communication timeout on serial port |
 
 ## Reading Faults via LCD Display
 

@@ -18,12 +18,12 @@ Lennox Healthy Climate is a family of air quality products including media air c
 
 | Code | Product | Meaning | Quick Fix |
 |------|---------|---------|-----------|
-| [2801](https://www.amazon.com/s?ascsubtag=ecf-lennox-healthy-climate-error-codes&k=2801&tag=errorcodefixes-20) | ERV/HRV | Defrost fault | Check defrost cycle settings; inspect core |
-| [2802](https://www.amazon.com/s?ascsubtag=ecf-lennox-healthy-climate-error-codes&k=2802&tag=errorcodefixes-20) | ERV/HRV | Bypass damper fault | Check bypass damper actuator |
-| [2803](https://www.amazon.com/s?ascsubtag=ecf-lennox-healthy-climate-error-codes&k=2803&tag=errorcodefixes-20) | ERV/HRV | Supply fan fault | Check supply fan motor |
-| [2804](https://www.amazon.com/s?ascsubtag=ecf-lennox-healthy-climate-error-codes&k=2804&tag=errorcodefixes-20) | ERV/HRV | Exhaust fan fault | Check exhaust fan motor |
-| [2805](https://www.amazon.com/s?ascsubtag=ecf-lennox-healthy-climate-error-codes&k=2805&tag=errorcodefixes-20) | ERV/HRV | Communication fault | Check iComfort bus wiring |
-| [2810](https://www.amazon.com/s?ascsubtag=ecf-lennox-healthy-climate-error-codes&k=2810&tag=errorcodefixes-20) | ERV/HRV | Core temperature sensor fault | Inspect core temp sensor |
+| 2801 | ERV/HRV | Defrost fault | Check defrost cycle settings; inspect core |
+| 2802 | ERV/HRV | Bypass damper fault | Check bypass damper actuator |
+| 2803 | ERV/HRV | Supply fan fault | Check supply fan motor |
+| 2804 | ERV/HRV | Exhaust fan fault | Check exhaust fan motor |
+| 2805 | ERV/HRV | Communication fault | Check iComfort bus wiring |
+| 2810 | ERV/HRV | Core temperature sensor fault | Inspect core temp sensor |
 | E1 | Electronic air cleaner | Power supply fault | Check 24VAC supply |
 | E2 | Electronic air cleaner | Cell fault | Clean or replace collector cell |
 | E3 | Electronic air cleaner | Ionizing wire fault | Clean ionizing wires |

@@ -28,7 +28,7 @@ Eaton PowerXL drives, including the **DG1**, **DC1**, and related series, use fa
 | OL | Motor overload | Check load and motor current settings |
 | GF | Ground fault | Megger motor and cable, check leakage |
 | PH | Input phase fault | Check 3-phase input and fuses |
-| [COMM](https://www.amazon.com/s?ascsubtag=ecf-eaton-vfd-fault-codes&k=COMM&tag=errorcodefixes-20) | Communication loss | Check fieldbus and control wiring |
+| COMM | Communication loss | Check fieldbus and control wiring |
 
 ## Most Common Real-World Causes
 

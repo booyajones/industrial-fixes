@@ -41,8 +41,8 @@ A low pressure safety opens when suction pressure falls too low. Common causes a
 
 | [Series](https://www.amazon.com/s?ascsubtag=ecf-johnson-controls-penn-fault&k=Series&tag=errorcodefixes-20) | Type | Common Use |
 |-------|------|------------|
-| [A421](https://www.amazon.com/s?ascsubtag=ecf-johnson-controls-penn-fault&k="A421"&tag=errorcodefixes-20) | Digital temperature control | Walk-ins, condensers, pump control |
-| [A350](https://www.amazon.com/s?ascsubtag=ecf-johnson-controls-penn-fault&k="A350"&tag=errorcodefixes-20) | Electronic temperature control | HVAC and refrigeration |
+| A421 | Digital temperature control | Walk-ins, condensers, pump control |
+| A350 | Electronic temperature control | HVAC and refrigeration |
 | P70 | Mechanical pressure control | Refrigeration safety |
 | P78 | High/low pressure control | Compressor protection |
 

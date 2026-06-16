@@ -20,10 +20,10 @@ The Lennox Harmony III zoning system uses the HCC3-8 zone control center (or HCC
 |------|---------|-----------|
 | E01 | Zone 1 thermostat communication fault | Check zone 1 thermostat wiring |
 | E02 | Zone 2 thermostat communication fault | Check zone 2 thermostat wiring |
-| [E03–E08](https://www.amazon.com/s?ascsubtag=ecf-lennox-harmony-iii-error-codes&k=E03%E2%80%93E08&tag=errorcodefixes-20) | Zone 3–8 thermostat faults | Check individual zone wiring |
+| E03–E08 | Zone 3–8 thermostat faults | Check individual zone wiring |
 | E10 | Zone control center power fault | Verify 40VA transformer; check wiring |
 | E20 | Damper actuator fault — zone 1 | Test damper motor; check 24VAC |
-| [E21–E28](https://www.amazon.com/s?ascsubtag=ecf-lennox-harmony-iii-error-codes&k=E21%E2%80%93E28&tag=errorcodefixes-20) | Damper actuator faults — zones 2–8 | Test individual damper actuators |
+| E21–E28 | Damper actuator faults — zones 2–8 | Test individual damper actuators |
 | E30 | Bypass damper fault | Check bypass damper actuator |
 | E40 | Equipment output fault | Verify furnace/AHU wiring at HCC3 |
 | E50 | Control board internal error | Power-cycle; replace HCC3 if persists |

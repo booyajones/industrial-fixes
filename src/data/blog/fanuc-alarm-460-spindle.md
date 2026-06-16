@@ -55,9 +55,9 @@ Verify the analog speed command (0–10V) from the CNC to the spindle drive is w
 
 | [Parameter](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-460-spindle&k=Parameter&tag=errorcodefixes-20) | Function | Notes |
 |-----------|---------|-------|
-| [4020](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-460-spindle&k=4020&tag=errorcodefixes-20) | Maximum spindle speed | Verify correct for machine |
-| [4022](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-460-spindle&k=4022&tag=errorcodefixes-20) | Speed error detection enable | Set to 1 to enable |
-| [4031](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-460-spindle&k=4031&tag=errorcodefixes-20) | Speed error tolerance | Amount of allowed deviation |
+| 4020 | Maximum spindle speed | Verify correct for machine |
+| 4022 | Speed error detection enable | Set to 1 to enable |
+| 4031 | Speed error tolerance | Amount of allowed deviation |
 
 ## Jump to Fix
 

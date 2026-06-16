@@ -78,8 +78,8 @@ MERV stands for **Minimum Efficiency Reporting Value**. It rates how well a filt
 |-------------|----------------|----------|
 | 1–4 | Large dust, pollen, carpet fibers | Basic equipment protection only |
 | 5–8 | Dust mites, mold spores, pet dander | Most homes — good balance of filtration and airflow |
-| [9–12](https://www.amazon.com/s?ascsubtag=ecf-furnace-filter-size-guide&k=9%E2%80%9312&tag=errorcodefixes-20) | Fine dust, smoke particles, auto exhaust | Allergy households, better air quality |
-| [13–16](https://www.amazon.com/s?ascsubtag=ecf-furnace-filter-size-guide&k=13%E2%80%9316&tag=errorcodefixes-20) | Bacteria, fine smoke, viruses | High-sensitivity health needs |
+| 9–12 | Fine dust, smoke particles, auto exhaust | Allergy households, better air quality |
+| 13–16 | Bacteria, fine smoke, viruses | High-sensitivity health needs |
 
 ### What MERV Rating Should You Use?
 

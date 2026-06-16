@@ -17,24 +17,24 @@ LG mini-splits use "CH" (Check) codes displayed on the indoor unit's LED display
 
 | Code | Meaning | Quick Fix |
 |------|---------|-----------|
-| [CH01](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-error-codes&k="CH01"&tag=errorcodefixes-20) | Indoor intake thermistor fault | Replace indoor air thermistor |
-| [CH02](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-error-codes&k="CH02"&tag=errorcodefixes-20) | Indoor pipe thermistor fault | Replace indoor pipe thermistor |
-| [CH05](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-error-codes&k="CH05"&tag=errorcodefixes-20) | Communication error | Check signal wiring between units |
-| [CH07](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-error-codes&k="CH07"&tag=errorcodefixes-20) | Indoor PCB fault | Replace indoor PCB |
-| [CH10](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-error-codes&k="CH10"&tag=errorcodefixes-20) | Outdoor pipe thermistor fault | Replace outdoor pipe thermistor |
-| [CH12](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-error-codes&k="CH12"&tag=errorcodefixes-20) | Outdoor discharge pipe thermistor | Replace discharge thermistor |
-| [CH21](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-error-codes&k="CH21"&tag=errorcodefixes-20) | Outdoor PCB fault | Inspect outdoor board and fuses |
-| [CH22](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-error-codes&k="CH22"&tag=errorcodefixes-20) | Outdoor EEPROM fault | Replace outdoor PCB |
-| [CH23](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-error-codes&k="CH23"&tag=errorcodefixes-20) | DC fan motor fault | Check outdoor fan motor |
-| [CH25](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-error-codes&k="CH25"&tag=errorcodefixes-20) | IPM (inverter power module) fault | Check outdoor board; IPM failure |
-| [CH32](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-error-codes&k="CH32"&tag=errorcodefixes-20) | Overcurrent protection | Check refrigerant; compressor load |
-| [CH33](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-error-codes&k="CH33"&tag=errorcodefixes-20) | High pressure protection | Clean outdoor coil; check charge |
-| [CH34](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-error-codes&k="CH34"&tag=errorcodefixes-20) | Low pressure protection | Check refrigerant charge |
-| [CH35](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-error-codes&k="CH35"&tag=errorcodefixes-20) | Discharge temperature protection | Low refrigerant or expansion valve |
-| [CH38](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-error-codes&k="CH38"&tag=errorcodefixes-20) | Outdoor fan speed not detected | Fan motor fault |
-| [CH44](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-error-codes&k="CH44"&tag=errorcodefixes-20) | Drain float switch activation | Clear drain line; check pump |
-| [CH67](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-error-codes&k="CH67"&tag=errorcodefixes-20) | Inverter compressor fault | Compressor or IPM failure |
-| [CH68](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-error-codes&k="CH68"&tag=errorcodefixes-20) | PFC protection | Input power quality issue |
+| CH01 | Indoor intake thermistor fault | Replace indoor air thermistor |
+| CH02 | Indoor pipe thermistor fault | Replace indoor pipe thermistor |
+| CH05 | Communication error | Check signal wiring between units |
+| CH07 | Indoor PCB fault | Replace indoor PCB |
+| CH10 | Outdoor pipe thermistor fault | Replace outdoor pipe thermistor |
+| CH12 | Outdoor discharge pipe thermistor | Replace discharge thermistor |
+| CH21 | Outdoor PCB fault | Inspect outdoor board and fuses |
+| CH22 | Outdoor EEPROM fault | Replace outdoor PCB |
+| CH23 | DC fan motor fault | Check outdoor fan motor |
+| CH25 | IPM (inverter power module) fault | Check outdoor board; IPM failure |
+| CH32 | Overcurrent protection | Check refrigerant; compressor load |
+| CH33 | High pressure protection | Clean outdoor coil; check charge |
+| CH34 | Low pressure protection | Check refrigerant charge |
+| CH35 | Discharge temperature protection | Low refrigerant or expansion valve |
+| CH38 | Outdoor fan speed not detected | Fan motor fault |
+| CH44 | Drain float switch activation | Clear drain line; check pump |
+| CH67 | Inverter compressor fault | Compressor or IPM failure |
+| CH68 | PFC protection | Input power quality issue |
 
 ## Most Common Codes
 

@@ -89,7 +89,7 @@ If you need to fully reset and re-pair the Sensi thermostat:
 
 | [Model](https://www.amazon.com/s?ascsubtag=ecf-sensi-thermostat-error-codes&k=Model&tag=errorcodefixes-20) | Notes |
 |---|---|
-| [ST55U](https://www.amazon.com/s?ascsubtag=ecf-sensi-thermostat-error-codes&k="ST55U"&tag=errorcodefixes-20) | Basic Wi-Fi, 7-day |
-| [ST75U](https://www.amazon.com/s?ascsubtag=ecf-sensi-thermostat-error-codes&k="ST75U"&tag=errorcodefixes-20) | Smart features, Alexa/Google |
+| ST55U | Basic Wi-Fi, 7-day |
+| ST75U | Smart features, Alexa/Google |
 | 1T | Touchscreen, humidity display |
-| [UP500W](https://www.amazon.com/s?ascsubtag=ecf-sensi-thermostat-error-codes&k="UP500W"&tag=errorcodefixes-20) | Universal, works with all HVAC types |
+| UP500W | Universal, works with all HVAC types |

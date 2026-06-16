@@ -22,7 +22,7 @@ This is the master lookup page for ErrorCodeFixes. If you landed here with a cod
 
 | [Category](https://www.amazon.com/s?ascsubtag=ecf-industrial-error-code-database&k=Category&tag=errorcodefixes-20) | Typical Equipment |
 |---|---|
-| [HVAC](https://www.amazon.com/s?ascsubtag=ecf-industrial-error-code-database&k=HVAC&tag=errorcodefixes-20) | Furnaces, rooftop units, mini splits, chillers, heat pumps |
+| HVAC | Furnaces, rooftop units, mini splits, chillers, heat pumps |
 | [Refrigeration](https://www.amazon.com/s?ascsubtag=ecf-industrial-error-code-database&k=Refrigeration&tag=errorcodefixes-20) | Reach-ins, walk-ins, ice machines, display cases |
 | [VFDs and drives](https://www.amazon.com/s?ascsubtag=ecf-industrial-error-code-database&k=VFDs+and+drives&tag=errorcodefixes-20) | Pumps, fans, conveyors, compressors, machine tools |
 | [CNC and motion](https://www.amazon.com/s?ascsubtag=ecf-industrial-error-code-database&k=CNC+and+motion&tag=errorcodefixes-20) | Fanuc, Haas, Siemens, Heidenhain, servo systems |
