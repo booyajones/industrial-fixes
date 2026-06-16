@@ -22,6 +22,7 @@ Usage:
   python scripts/ecf-metrics.py --json     # machine-readable + append snapshot
 """
 from __future__ import annotations
+import os
 import json
 import sys
 import datetime
@@ -34,7 +35,20 @@ ROOT = Path(__file__).resolve().parent.parent
 ENV_PATHS = [ROOT / ".env", Path("C:/Users/chris/OneDrive/Desktop/Claude/.env")]
 SNAPSHOT = ROOT / ".planning" / "metrics-history.jsonl"
 GA4_MEASUREMENT = "G-083FJXZNP7"
+GA4_PROPERTY = "534919316"
 SITE = "https://errorcodefixes.com/"
+
+# The SA with READ access to the errorcodefixes GA4 + GSC properties is
+# wyattbot-reader@wyattplayground (verified 2026-06-01). The local
+# GOOGLE_APPLICATION_CREDENTIALS is Finexio's finexio-automation-claude SA and
+# gets 403 here — do NOT use it for this site. Prefer an explicit ECF key
+# (env ECF_GSC_SA_JSON or GSC_SA_JSON), then the known path, and only fall back
+# to ADC as a last resort.
+ECF_SA_CANDIDATES = [
+    os.environ.get("ECF_GSC_SA_JSON", ""),
+    os.environ.get("GSC_SA_JSON", ""),
+    "C:/Users/chris/Downloads/_Sorted/Data/wyattplayground-0bf938d0518f.json",
+]
 
 
 def load_env() -> dict:
@@ -71,19 +85,28 @@ def _get(url, tok):
         return -1, str(e)[:200]
 
 
+def _resolve_sa_key(env):
+    """The errorcodefixes-specific SA key path, or None."""
+    for cand in ECF_SA_CANDIDATES + [env.get("GOOGLE_APPLICATION_CREDENTIALS", "")]:
+        if cand and Path(cand).exists():
+            return cand
+    return None
+
+
 def google_token(env, scopes):
     try:
         from google.oauth2 import service_account
         import google.auth.transport.requests as gtr
     except ImportError:
         return None, "google-auth not installed (pip install google-auth)"
-    gac = env.get("GOOGLE_APPLICATION_CREDENTIALS", "")
-    if not gac or not Path(gac).exists():
-        return None, "GOOGLE_APPLICATION_CREDENTIALS not set / file missing"
+    key = _resolve_sa_key(env)
+    if not key:
+        return None, ("no service-account key found — set ECF_GSC_SA_JSON to the "
+                      "wyattbot-reader key (has GA4+GSC read on errorcodefixes)")
     try:
-        creds = service_account.Credentials.from_service_account_file(gac, scopes=scopes)
+        creds = service_account.Credentials.from_service_account_file(key, scopes=scopes)
         creds.refresh(gtr.Request())
-        sa_email = json.load(open(gac)).get("client_email", "?")
+        sa_email = json.loads(Path(key).read_text(encoding="utf-8")).get("client_email", "?")
         return (creds.token, sa_email), None
     except Exception as e:
         return None, str(e)[:200]
@@ -91,10 +114,7 @@ def google_token(env, scopes):
 
 def ga4(env, days):
     out = {"ok": False}
-    prop = env.get("GA4_PROPERTY_ID", "").replace("properties/", "")
-    if not prop:
-        out["error"] = "GA4_PROPERTY_ID not set in .env"
-        return out
+    prop = (env.get("GA4_PROPERTY_ID", "") or GA4_PROPERTY).replace("properties/", "") or GA4_PROPERTY
     tokinfo, err = google_token(env, ["https://www.googleapis.com/auth/analytics.readonly"])
     if not tokinfo:
         out["error"] = err
@@ -113,7 +133,8 @@ def ga4(env, days):
         out["error"] = f"GA4 {sc}: {totals}"
         return out
     row = (totals.get("rows") or [{}])[0].get("metricValues", [])
-    vals = [m.get("value", "0") for m in row] or ["0"] * 6
+    vals = [m.get("value", "0") for m in row]
+    vals = (vals + ["0"] * 6)[:6]  # pad/truncate to exactly 6 so unpack never crashes
     sessions, users, engaged, engrate, dur, views = vals
     # affiliate_click event count
     _, ev = _post(base, tok, {"dateRanges": dr, "dimensions": [{"name": "eventName"}],
@@ -122,7 +143,10 @@ def ga4(env, days):
     aff = 0
     if isinstance(ev, dict):
         for r in ev.get("rows", []):
-            aff += int(r["metricValues"][0]["value"])
+            try:
+                aff += int(float(r["metricValues"][0]["value"]))
+            except (ValueError, KeyError, IndexError):
+                pass
     # top pages
     _, tp = _post(base, tok, {"dateRanges": dr, "dimensions": [{"name": "pagePath"}],
                               "metrics": [{"name": "sessions"}], "limit": 8,
@@ -155,7 +179,7 @@ def gsc(env, days):
         out["grant_email"] = sa
         return out
     end = datetime.date.today() - datetime.timedelta(days=2)  # GSC lags ~2d
-    start = end - datetime.timedelta(days=days)
+    start = end - datetime.timedelta(days=days - 1)  # inclusive window = exactly `days` days
     base = f"https://www.googleapis.com/webmasters/v3/sites/{urllib.parse.quote(target, safe='')}/searchAnalytics/query"
     sc, tot = _post(base, tok, {"startDate": start.isoformat(), "endDate": end.isoformat(), "dimensions": []})
     agg = (tot.get("rows", [{}])[0] if isinstance(tot, dict) and tot.get("rows") else {})
@@ -169,8 +193,8 @@ def gsc(env, days):
     if isinstance(sm, dict):
         for s in sm.get("sitemap", []):
             for c in s.get("contents", []):
-                submitted += int(c.get("submitted", 0))
-                indexed += int(c.get("indexed", 0))
+                submitted += int(c.get("submitted", 0) or 0)  # GSC returns these as strings, sometimes ""
+                indexed += int(c.get("indexed", 0) or 0)
     out.update(ok=True, site=target,
                clicks=int(agg.get("clicks", 0)), impressions=int(agg.get("impressions", 0)),
                ctr=round(agg.get("ctr", 0) * 100, 2), position=round(agg.get("position", 0), 1),
@@ -203,8 +227,10 @@ def cloudflare(env, days):
         if zones:
             reqs = sum(g["sum"]["requests"] for g in zones[0]["httpRequests1dGroups"])
             pv = sum(g["sum"]["pageViews"] for g in zones[0]["httpRequests1dGroups"])
+            # NOTE: daily unique-IPs summed across the window, NOT period-unique
+            # visitors (a visitor on N days counts N times) — an upper bound.
             uniq = sum(g["uniq"]["uniques"] for g in zones[0]["httpRequests1dGroups"])
-            out.update(ok=True, requests=reqs, pageviews=pv, uniques=uniq)
+            out.update(ok=True, requests=reqs, pageviews=pv, uniques_daily_sum=uniq)
             return out
     out["error"] = f"CF unexpected: {str(r)[:150]}"
     return out
@@ -220,7 +246,7 @@ def render(ga, gs, cf, days):
     else:
         L.append(f"  GA4: PENDING — {ga.get('error')}")
     if cf.get("ok"):
-        L.append(f"  Cloudflare edge: requests={cf['requests']}  pageViews={cf['pageviews']}  uniques={cf['uniques']}")
+        L.append(f"  Cloudflare edge: requests={cf['requests']}  pageViews={cf['pageviews']}  uniques(daily-sum)={cf['uniques_daily_sum']}")
     else:
         L.append(f"  Cloudflare: PENDING — {cf.get('error')}")
     L.append("\n[ SEARCH / INDEXATION  (the sandbox-lift gauge) ]")
@@ -260,8 +286,10 @@ def main():
         print(json.dumps(snap, indent=2))
         SNAPSHOT.parent.mkdir(exist_ok=True)
         with open(SNAPSHOT, "a", encoding="utf-8") as f:
-            f.write(json.dumps({"sessions": ga.get("sessions"), "indexed": gs.get("sitemap_indexed"),
-                                "impressions": gs.get("impressions"), "mC_1000": ga.get("mC_per_1000")}) + "\n")
+            f.write(json.dumps({"date": datetime.date.today().isoformat(), "days": days,
+                                "sessions": ga.get("sessions"), "indexed": gs.get("sitemap_indexed"),
+                                "impressions": gs.get("impressions"), "clicks": gs.get("clicks"),
+                                "affiliate_clicks": ga.get("affiliate_clicks"), "mC_1000": ga.get("mC_per_1000")}) + "\n")
     else:
         print(render(ga, gs, cf, days))
     return 0
