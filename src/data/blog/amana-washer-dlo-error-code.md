@@ -1,81 +1,81 @@
 ---
 title: "Amana dLO Error Code - Causes & Fix"
-description: "dLO means a long-drain fault: the washer can't pump water out fast enough. Check for a kinked or clogged drain hose first."
-pubDatetime: 2026-06-10T22:11:35Z
-modDatetime: 2026-06-10T22:11:35Z
+description: "dLO means the washer is draining too slowly. Most common fix: check for kinked or incorrectly installed drain hose before replacing the pump."
+pubDatetime: 2026-06-14T05:39:19Z
+modDatetime: 2026-06-14T05:39:19Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - amana
-money_part: "Drain pump assembly"
-free_checks:
-  - "Check drain hose for kinks, clogs, or excessive height (max 39 inches)"
-  - "Remove and clean drain pump filter/coin trap of debris and obstructions"
-  - "Run drain cycle and listen for pump hum to distinguish blockage from motor failure"
-no_buy_pct: "60%"
-part_price: "$15-50"
+money_part: "Amana washer drain hose"
 most_likely_cause: "kinked or clogged drain hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+free_checks:
+  - "Check the drain hose for kinks, collapse, or sharp bends along its entire length"
+  - "Verify the drain hose is not pushed too far into the standpipe and has a proper air gap"
+  - "Confirm the drain hose end is high enough and not sitting below the washer tub level"
+part_price: "$12-30 for drain hose; $60-110 for drain pump assembly"
+no_buy_pct: "65%"
 ---
 
 ## Amana dLO Error Code — What It Means
 
-On Amana washers, the dLO code (or the related Ld message on many top-load models) indicates a drain fault or long-drain condition. The washer detected that water is not draining out of the tub fast enough during the drain portion of the cycle. This is not a sudden blockage alarm but a timing problem: the control expected the tub to empty within a set window and the drain system could not keep up.
+The dLO code on Amana washers means the drain system is not clearing water fast enough within the control's expected drain window. In practical terms, the machine either cannot move water out quickly enough or the water level signal does not change as expected during the drain cycle.
 
-Technicians treat dLO as a drain-path problem first and a pump or control issue second. The code points to restrictions in the hose, incorrect standpipe installation, or a failing drain pump. It does not mean the pump has stopped entirely, only that the drain flow is too slow. The fix almost always involves the drain hose routing, a clog somewhere in the drain system, or replacing the drain pump if the plumbing checks out clean.
+This is a drain-related fault, sometimes listed alongside similar codes like Ld. The control flags the problem when water remains in the tub longer than allowed, triggering a long-drain or drain-system-problem alert. The fault typically points to a restriction in the drain path or a pump that is not performing properly.
 
 ## Before You Replace Anything
 
-Many people replace the drain pump when the real problem is a drain hose pushed too far into the standpipe or installed too low, causing siphoning. Always verify hose routing and height before ordering a pump.
+Many people replace the drain pump first, but most dLO faults are caused by incorrect hose installation or kinks. Always verify hose routing, height, and the air gap at the standpipe before buying a pump.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Kinked or clogged drain hose (~40%)** A pinched, crushed, or debris-blocked hose restricts water flow and triggers the long-drain fault.
-- **Drain hose inserted too far into standpipe (~25%)** Amana specifies no more than 4.5 inches of insertion; deeper placement can create a siphon lock or airflow restriction that slows drainage.
-- **Drain hose outlet too low (siphoning) (~15%)** The hose end must be above 36 inches from the floor to prevent reverse siphoning and drainage problems.
-- **Blocked pump inlet or impeller (~12%)** Lint, coins, fabric, or small objects restrict flow at the pump or in the tub-to-pump path.
-- **Failing drain pump (~8%)** The pump motor runs but flow is weak, or the impeller is damaged internally, so the washer cannot drain within the allowed time.
+- **Kinked or clogged drain hose (~40%)** A hose that is pinched, twisted, or has trapped debris inside restricts water flow and prevents the tub from draining within the allowed time.
+- **Drain hose installed incorrectly (~25%)** Hose pushed too far into the standpipe, end too low, or no air gap can cause siphoning or slow drain response that triggers the fault.
+- **Obstructed drain pump inlet or outlet (~20%)** Lint, coins, or small objects lodged in the pump housing or impeller block water flow even when the pump runs.
+- **Failed or failing drain pump (~12%)** A pump that receives correct command voltage but has a seized impeller, damaged motor, or electrical fault cannot evacuate water properly.
+- **Standpipe or house drain restriction (~3%)** A slow or partially clogged standpipe or laundry drain line can back-pressure the washer drain and slow evacuation enough to trigger the code.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Is the drain hose kinked, crushed, or visibly sagging behind the washer?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Straighten the hose and make sure it has a smooth path to the standpipe. Run a drain cycle and see if the code clears.<br><strong>No:</strong> Move to the standpipe and hose-height checks next.</div>
+<details class="dtree"><summary>Is the drain hose visibly kinked or bent sharply anywhere along its run?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Straighten the hose and reposition it to avoid the kink. Run a drain cycle and check if the code clears.<br><strong>No:</strong> Move to the next check: verify hose installation at the standpipe.</div>
 </details>
 
-<details class="dtree"><summary>Is the drain hose pushed more than 4.5 inches into the standpipe, or is the hose outlet less than 36 inches above the floor?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Pull the hose back to the correct depth and raise the outlet above 36 inches. Incorrect installation causes siphoning and slow drain.<br><strong>No:</strong> The installation is correct. Inspect the pump and internal drain path for blockages.</div>
+<details class="dtree"><summary>Is the drain hose pushed more than a few inches into the standpipe or secured with tape?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Pull the hose back so only the curved end enters the standpipe and leave an air gap. Do not tape or seal the connection. Retry the drain.<br><strong>No:</strong> Disconnect the hose at the washer end and check for internal clogs or obstructions by running water through it.</div>
 </details>
 
-<details class="dtree"><summary>When you disconnect the drain hose from the pump and manually drain the tub, does water flow freely?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The blockage is downstream in the hose or standpipe. Clear or replace the hose.<br><strong>No:</strong> The restriction is at the pump inlet, impeller, or internal tub path. Inspect and clean the pump or replace it if damaged.</div>
+<details class="dtree"><summary>Does water flow freely when you pour a bucket of water into the disconnected drain hose?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The hose is clear. Reconnect it and inspect the drain pump area for obstructions or test the pump directly.<br><strong>No:</strong> The hose is clogged or collapsed internally. Replace the drain hose and retest.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Unplug the washer** and pull it forward so you can see the full drain hose run from the pump to the standpipe.
-2. **Inspect the drain hose routing.** Look for kinks, crushed sections, or low loops. Straighten any bends and confirm the hose has a smooth upward path to the standpipe.
-3. **Verify standpipe installation.** Measure how far the hose extends into the standpipe (should be 4.5 inches or less) and confirm the outlet end is more than 36 inches above the floor. Adjust if needed.
-4. **Check for hose blockages.** Disconnect the drain hose from the pump and the standpipe. Run water through it or blow air to confirm it is clear. Replace the hose if you find debris or a collapsed section.
-5. **Inspect the pump inlet and impeller.** Remove the pump hose(s) at the pump end. Look inside the pump housing for coins, lint, or fabric. Spin the impeller by hand; it should turn freely without scraping.
-6. **Test pump operation.** Reconnect the hoses, plug in the washer, and start a drain or spin cycle. Listen for the pump motor. If it runs but flow is weak or absent, replace the drain pump assembly.
-7. **Check pump wiring.** If the pump does not run at all, inspect the harness connector at the pump for loose pins, corrosion, or melted plastic. Repair or replace the connector if damaged, then retest before replacing the pump.
+1. **Unplug the washer** and turn off the water supply valves.
+2. **Inspect the entire drain hose** from the washer outlet to the standpipe for kinks, sharp bends, or visible collapse.
+3. **Check the standpipe connection** to confirm the hose is not pushed too far in, is not taped or sealed, and has a proper air gap at the top.
+4. **Disconnect the drain hose** at the washer end and blow or flush water through it to verify it is not clogged internally.
+5. **Access the drain pump** by removing the lower front panel or rear access cover, depending on your model.
+6. **Clear any obstructions** from the pump inlet, outlet, and impeller by removing trapped lint, coins, or debris.
+7. **Run a manual drain test** (or start a drain cycle) to verify the pump runs and water evacuates quickly; if the pump does not run or runs but does not move water, replace the drain pump assembly.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-washer-dlo-error-code&k=Drain+pump+assembly&tag=errorcodefixes-20) \| Match your Amana model number; most top-load and front-load washers use a similar bolt-on or snap-in pump with two hose ports. |
-| Drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-washer-dlo-error-code&k=Drain+hose&tag=errorcodefixes-20) \| Standard corrugated or smooth-bore hose; measure the length and diameter of your existing hose before ordering. |
+| Amana washer drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-washer-dlo-error-code&k=Amana+washer+drain+hose&tag=errorcodefixes-20) \| Replace if kinked, collapsed, or internally clogged; confirm length and end fittings match your model. |
+| Amana washer drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-washer-dlo-error-code&k=Amana+washer+drain+pump+assembly&tag=errorcodefixes-20) \| Replace if the pump does not run, is seized, or runs but does not evacuate water after hose and installation checks are correct. |
 
 ## When to Call a Pro
 
-Call a technician if you have verified the drain hose routing, cleared all blockages, and the dLO code still returns after replacing the pump. At that point the fault may be in the pressure-sensor system, the control board's drain-timing logic, or a wiring fault that requires diagnostic equipment and a service manual. Also call a pro if you are uncomfortable working around the pump or if your washer is still under warranty, since opening the cabinet can void coverage.
+Call a technician if you have verified the drain hose is clear and correctly installed, cleared all obstructions from the pump area, and the fault still returns. A pro can command the pump through service diagnostics to isolate an electrical fault in the pump motor or a control-board issue. Also call if you are uncomfortable accessing the pump housing, working around standing water, or interpreting wiring diagrams for your specific model.
 
-**Rough cost:** DIY runs about $15–50 in parts (hose or pump), 30–90 min. A pro service call runs about $150–280 service call and pump replacement.
+**Rough cost:** DIY runs about $15-50 in parts if hose needs replacement, 20-45 min; $60-120 if pump needs replacement, 45-90 min. A pro service call runs about $150-280.

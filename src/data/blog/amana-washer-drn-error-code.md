@@ -1,8 +1,8 @@
 ---
-title: "Amana Washer DRN Error Code - Causes & Fix"
-description: "DRN means washer not draining properly. Most common fix: check for kinked drain hose or hose inserted too far into standpipe."
-pubDatetime: 2026-06-10T22:12:16Z
-modDatetime: 2026-06-10T22:12:16Z
+title: "Amana DRN Error Code - Causes & Fix"
+description: "DRN means the washer isn't draining properly. Check the drain hose installation first-often the hose is too far into the standpipe."
+pubDatetime: 2026-06-14T05:40:07Z
+modDatetime: 2026-06-14T05:40:07Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,74 +10,73 @@ tags:
   - appliance
   - washer
   - amana
-money_part: "Amana washer drain pump assembly"
-free_checks:
-  - "Check drain hose for kinks, clogs, or excessive height (max 96 inches); clear standpipe obstruction"
-  - "Inspect and clean pump filter and impeller for coins, debris, or foreign objects"
-  - "Verify drain hose isn't inserted too far into standpipe (causes air lock); test manual drain cycle"
-no_buy_pct: "60%"
-part_price: "$30-80"
-most_likely_cause: "kinked or clogged drain hose, or drain hose inserted too far into the standpipe"
+money_part: "Amana washer drain pump"
+most_likely_cause: "drain hose installed incorrectly or too far into the standpipe"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+free_checks:
+  - "Verify the drain hose is not pushed more than 4.5 inches into the standpipe and is secured above 36 inches from the floor"
+  - "Inspect the drain hose for kinks, pinches, or clogs along its entire length"
+  - "Clear the code by pressing START/PAUSE once, then again to restart, and see if the washer drains on the next cycle"
+part_price: "$20-50"
+no_buy_pct: "60%"
 ---
 
-## Amana Washer DRN Error Code — What It Means
+## Amana DRN Error Code — What It Means
 
-DRN on an Amana top-load HE washer means the washer is not draining properly. The machine detected that the tub did not drop the water level fast enough during the allotted drain period. Amana's official wording for this code is: washer is not draining properly.
+DRN on an Amana top-load HE washer means the machine is not draining properly. This code indicates a drain-system fault, which can be caused by a pump problem or, just as often, by incorrect installation of the drain hose. Amana explicitly notes that DRN can sometimes be an installation issue rather than a failed part.
 
-This is a drain-system fault. The code appears when water cannot exit the tub quickly enough, whether because of an installation problem, a blocked hose, or a failed drain pump. The washer will not complete the cycle until the drain path is cleared or the pump is repaired.
+The washer is taking too long to evacuate water, or water is staying in the tub at the end of the cycle. Before assuming the pump has failed, technicians first check the external plumbing and hose routing, because many DRN codes are resolved by fixing how the drain hose is installed or clearing a simple blockage.
 
 ## Before You Replace Anything
 
-Many people replace the drain pump first. Before ordering a pump, pull the drain hose out of the standpipe and verify it extends no more than 4.5 inches into the pipe, check for kinks along the entire length, and blow through the hose to confirm it is clear.
+Many people replace the drain pump first, but a large share of DRN codes are fixed by correcting the drain hose installation or clearing a kink or clog in the hose. Always inspect the external drain path and run a drain test before buying a pump.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Drain hose inserted too far into standpipe (~30%)** Amana specifies the hose should extend no more than 4.5 inches into the standpipe or flow will be restricted and the washer will not drain in time.
-- **Kinked or clogged drain hose (~25%)** A kinked hose or one packed with lint and debris blocks water flow and triggers the drain fault.
-- **Failed or obstructed drain pump (~25%)** If the hose and installation are correct, the drain pump itself may be clogged with a sock or small object, or the pump motor has failed.
-- **Drain hose too low (siphoning) (~15%)** Amana requires the hose end to be higher than 36 inches from the floor to prevent siphoning, which can confuse the water-level sensor.
-- **Debris in pump inlet or impeller (~5%)** Small articles such as coins, hairpins, or fabric can jam the pump impeller and stop water flow even if the pump motor runs.
+- **Drain hose installed too far into standpipe or too low (~35%)** The hose should not extend more than 4.5 inches into the standpipe and must be routed above 36 inches from the floor to prevent siphoning and allow proper drainage.
+- **Kinked or clogged drain hose (~25%)** A pinched, twisted, or debris-blocked hose will restrict water flow and trigger the code.
+- **Blocked household standpipe or drain line (~15%)** A partial clog in the home's drain plumbing can slow the washer's evacuation enough to set the DRN fault.
+- **Obstruction in pump inlet or internal drain path (~15%)** Lint, socks, or small garments trapped in the tub-to-pump hose or pump inlet will stop water from reaching the pump.
+- **Drain pump failure (~10%)** The pump may be mechanically seized, noisy, or unable to move water even when the plumbing and internal passages are clear.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Is the drain hose inserted more than 4.5 inches into the standpipe?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Pull the hose back so no more than 4.5 inches is inside the pipe, secure it with the hose form, and run a drain test.<br><strong>No:</strong> Check the next step: hose height and routing.</div>
+<details class="dtree"><summary>Is the drain hose pushed more than 4.5 inches into the standpipe or routed below 36 inches from the floor?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Pull the hose back so only 4.5 inches enter the standpipe and secure it above 36 inches. Clear the code and test a drain cycle.<br><strong>No:</strong> The hose installation meets spec. Move on to checking for kinks and clogs.</div>
 </details>
 
-<details class="dtree"><summary>Is the drain hose end higher than 36 inches from the floor?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Installation height is correct. Move to hose and pump inspection.<br><strong>No:</strong> Raise the standpipe or re-route the hose so the end is above 36 inches, then test again.</div>
+<details class="dtree"><summary>Is there a visible kink, pinch, or blockage anywhere in the drain hose?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Straighten the hose or clear the clog, then restart the drain cycle.<br><strong>No:</strong> The external hose is clear. Access the pump and internal hoses to check for obstructions or test the pump.</div>
 </details>
 
-<details class="dtree"><summary>Can you blow air freely through the drain hose after disconnecting it from the washer?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Hose is clear. The drain pump or pump inlet is likely blocked or the pump has failed.<br><strong>No:</strong> Hose is clogged or kinked. Replace or clear the hose and test.</div>
+<details class="dtree"><summary>When you run a drain test (diagnostic mode), does water pump out steadily and completely?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The pump works. Recheck the hose routing and household drain for slow-flow issues.<br><strong>No:</strong> The pump is not moving water. Inspect for a trapped object in the pump inlet or replace the pump.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Power off** the washer and unplug it from the wall.
-2. **Pull the washer forward** and inspect the drain hose routing from the back of the machine to the standpipe.
-3. **Measure hose insertion** into the standpipe and confirm it extends no more than 4.5 inches inside, then check that the hose end is higher than 36 inches from the floor.
-4. **Check for kinks** along the entire hose length and straighten any bends, or remove the hose and blow through it to confirm it is not clogged.
-5. **Remove the rear access panel** (if equipped) and inspect the drain pump inlet, outlet, and impeller area for socks, coins, or debris.
-6. **Test the drain pump** by running a drain or spin cycle and listening for the pump motor, or disconnect the pump and test it separately if you have a multimeter.
-7. **Reassemble** the machine, run a full drain/spin test, and confirm the DRN code does not return.
+1. **Press START/PAUSE once, then again** to clear the DRN code and attempt to restart the washer.
+2. **Inspect the drain hose installation** by checking that the hose does not extend more than 4.5 inches into the standpipe and is secured above 36 inches from the floor.
+3. **Check the entire drain hose** for kinks, pinches, or clogs by running your hand along the length and flexing any tight bends.
+4. **Verify the household standpipe or drain** is not clogged by pouring a bucket of water into it and confirming it flows freely.
+5. **Run a drain test or diagnostic cycle** (consult your model's service manual for the button sequence) to see whether the pump moves water under test conditions.
+6. **Access the pump and internal hoses** by tipping the washer back or removing the cabinet, then disconnect the tub-to-pump hose and pump outlet to inspect for trapped lint, socks, or small garments.
+7. **Replace the drain pump or damaged hose** if the pump is seized, noisy, or will not move water after you have cleared all obstructions, then reassemble and retest with water in the tub to confirm the code does not return.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Amana washer drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-washer-drn-error-code&k=Amana+washer+drain+pump+assembly&tag=errorcodefixes-20) \| Replace if the pump motor does not run or the impeller is damaged. |
-| Washer drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-washer-drn-error-code&k=Washer+drain+hose&tag=errorcodefixes-20) \| Replace if kinked, cracked, or permanently clogged. |
-| Drain hose form / support clip | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-washer-drn-error-code&k=Drain+hose+form+%2F+support+clip&tag=errorcodefixes-20) \| Use to secure the hose at the correct height and prevent kinking. |
+| Amana washer drain pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-washer-drn-error-code&k=Amana+washer+drain+pump&tag=errorcodefixes-20) \| Cross-reference your model number to find the correct pump motor and housing assembly. |
+| Washer drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-washer-drn-error-code&k=Washer+drain+hose&tag=errorcodefixes-20) \| Replace if kinked, cracked, or split; include the hose form or retention clip if the original routing hardware is damaged. |
 
 ## When to Call a Pro
 
-Call a technician if you have verified the drain hose installation (no more than 4.5 inches into the standpipe, hose end above 36 inches, no kinks), cleared any debris from the hose and pump inlet, and the DRN code still appears after a test cycle. A pro can test the drain pump electrically, inspect the pressure switch and associated air lines, and verify the control board is reading water level correctly. Also call if you are not comfortable tilting the washer, removing panels, or disconnecting hoses and pump fittings.
+Call a pro if you have corrected the drain hose installation, cleared all visible obstructions, and the washer still shows DRN after running a drain test. A technician can use Amana diagnostics to isolate whether the fault lies in the pump, a pressure-sensing circuit, or the control board. Also call for help if you are uncomfortable tipping the washer to access internal hoses or if the pump replacement requires disassembly beyond removing a few cabinet screws and hose clamps.
 
-**Rough cost:** DIY runs about $30-80 in parts (hose or pump), 45-90 min. A pro service call runs about $150-280.
+**Rough cost:** DIY runs about $15-80 in parts (hose or pump), 30-90 min. A pro service call runs about $120-250.

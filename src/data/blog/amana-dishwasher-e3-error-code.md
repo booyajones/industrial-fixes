@@ -1,8 +1,8 @@
 ---
 title: "Amana Dishwasher E3 Error Code - Causes & Fix"
-description: "E3 on Amana dishwashers typically signals a heating or circulation fault. The most common cause is a failed heating element or pump issue."
-pubDatetime: 2026-06-11T10:40:35Z
-modDatetime: 2026-06-11T10:40:35Z
+description: "E3 (or F4 E3) on Amana dishwashers signals a wash motor/circulation pump fault. Most common fix: replace the circulation pump assembly."
+pubDatetime: 2026-06-14T05:38:33Z
+modDatetime: 2026-06-14T05:38:33Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,76 +10,73 @@ tags:
   - appliance
   - dishwasher
   - amana
-money_part: "Dishwasher heating element"
-free_checks:
-  - "Reset dishwasher by flipping breaker off for 5 minutes, then back on to clear transient faults"
-  - "Inspect wire harness connectors at heating element for corrosion, looseness, or burn marks"
-  - "Test heating element continuity with multimeter (should read 15-30 ohms; infinite = failed element)"
-no_buy_pct: "10%"
-part_price: "$40-120"
-most_likely_cause: "Failed heating element or circulation pump"
+money_part: "Circulation pump / wash motor assembly"
+most_likely_cause: "failed circulation pump or wash motor assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+free_checks:
+  - "Inspect and clean the dishwasher filter and sump area for food debris or objects that could block the pump impeller."
+  - "Check that the spray arms spin freely by hand and are not clogged or jammed."
+  - "Power-cycle the dishwasher by unplugging it or switching off the circuit breaker for two minutes, then restart to see if the error clears."
+part_price: "$75-130"
 ---
 
 ## Amana Dishwasher E3 Error Code — What It Means
 
-An E3 code on your Amana dishwasher is not a single universal fault code. Amana dishwashers are model-dependent, and the exact meaning of E3 must be confirmed by your model number and service sheet. On many Midea-based Amana dishwasher platforms, E3 indicates a heating fault where water is not heating as expected. On some models, E3 can instead signal a wash-pump or circulation fault. In either case, the control has detected that the cycle is not reaching the expected heated-wash condition or proper wash action, so it aborts or flags the error.
+On Amana dishwashers, what appears as "E3" is typically the **F4 E3** error code, which indicates a **wash motor or circulation pump fault**. The control board detects that the circulation pump is not running as expected during the wash cycle. The dishwasher may fill with water normally, but the spray arms do not rotate and dishes remain unwashed because the pump is not circulating water through the system.
 
-Because the code definition varies by platform, always verify your exact model number and consult the model-specific tech sheet before troubleshooting. The control may be detecting an open or failed heater, a thermal safety device problem, weak pump operation, or damaged wiring in the heater or wash circuit.
+This code means the electronic control is either not receiving feedback that the wash motor is running, or it is not able to drive the motor at all. The fault can stem from a failed pump motor itself, damaged wiring between the control and the pump, or occasionally a failed control board that cannot send the correct signals to start the motor.
 
 ## Before You Replace Anything
 
-Many people replace the main control board first. Before doing that, test the heating element and circulation pump with a multimeter and check all wiring and connectors for damage or loose terminals.
+Many people replace the control board first when they see an error code, but the circulation pump itself fails far more often. Before swapping the board, use a multimeter to confirm whether 120 VAC is present at the pump connector during a wash cycle. If voltage is present and the pump does not run, the pump is the problem.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Open or failed heating element (~35%)** The heater has failed open or shorted and no longer brings water to the expected temperature during the wash cycle.
-- **Circulation pump failure or weak operation (~25%)** On models where E3 maps to a wash-action fault, the wash pump is not circulating water properly or has failed entirely.
-- **Thermal safety device or thermostat fault (~20%)** A thermal fuse, thermostat, or temperature safety device in the heater circuit has opened or failed, interrupting the heating path.
-- **Loose, burned, or damaged wiring and connectors (~12%)** Wiring or terminals in the heater or wash-pump circuit are corroded, overheated, or making poor contact.
-- **Control board fault (~8%)** The main control board has failed and is sending a false E3 code even when all field components test good.
+- **Failed circulation pump or wash motor (~65%)** The motor windings burn out, the impeller seizes, or internal bearing wear prevents the pump from spinning when commanded by the control board.
+- **Loose or corroded wiring connector at the pump (~15%)** Vibration or moisture can loosen the pump harness plug or corrode the terminals, breaking the electrical path to the motor.
+- **Blockage in the pump housing or impeller (~10%)** Food debris, broken glass, or a small object lodged in the pump chamber can jam the impeller and prevent rotation even if the motor receives power.
+- **Damaged wire harness between control and pump (~6%)** A cut, pinched, or chafed wire in the harness can interrupt voltage or feedback signals needed to run the motor.
+- **Failed control board or motor-driver circuit (~4%)** If the pump, wiring, and connectors all test good but the board does not send 120 VAC to the pump, the relay or triac on the control board has likely failed.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Does the dishwasher fill with water and run the wash cycle, but water is cold or dishes come out dirty?</summary>
-<div class="dtree-body"><strong>Yes:</strong> This points to a heating fault. Check the heating element and thermal safety devices first.<br><strong>No:</strong> This suggests a circulation or pump problem. Inspect the wash pump, filters, and spray arms for blockages or pump failure.</div>
+<details class="dtree"><summary>Does the dishwasher fill with water but the spray arms do not move or you hear no pump noise?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The symptom matches F4 E3. Move to the next check.<br><strong>No:</strong> The problem may be a different fault code or a fill issue. Consult your model's error-code table in the service manual.</div>
 </details>
 
-<details class="dtree"><summary>Can you hear the wash pump running during the cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The pump is likely working. Focus on the heater circuit, wiring, and thermal devices.<br><strong>No:</strong> The circulation pump may be jammed, weak, or failed. Check for blockages and test the pump electrically.</div>
+<details class="dtree"><summary>Can you hear the pump try to hum or buzz when the wash cycle starts, even if it does not spin?</summary>
+<div class="dtree-body"><strong>Yes:</strong> A hum with no spin suggests a jammed impeller or seized motor bearing. Inspect the pump for blockages and test the motor windings.<br><strong>No:</strong> Complete silence suggests no power is reaching the pump. Check the wiring connector at the pump and measure for 120 VAC during the wash call.</div>
 </details>
 
-<details class="dtree"><summary>Did a power-cycle (unplug for two minutes, plug back in) clear the E3 code?</summary>
-<div class="dtree-body"><strong>Yes:</strong> A transient control fault may have been the issue. Monitor the next few cycles to confirm the code does not return.<br><strong>No:</strong> A permanent fault exists in the heater, pump, wiring, or control board. Continue with diagnostic tests below.</div>
+<details class="dtree"><summary>Is 120 VAC present at the pump connector during the wash cycle (measured with a multimeter)?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The pump is receiving correct voltage but not running, so replace the circulation pump assembly.<br><strong>No:</strong> Trace the harness back to the control board for breaks or corrosion. If the harness is intact, the control board motor-driver circuit is likely faulty.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Power off and unplug** the dishwasher, or switch off the circuit breaker, and wait two minutes to clear any transient control faults.
-2. **Locate your model number** (usually on the door jamb or inner panel) and pull the service sheet or wiring diagram from the manufacturer website to confirm the exact meaning of E3 for your model.
-3. **Remove the lower access panel or kickplate** and inspect the heating element wiring and connectors for burns, corrosion, or loose terminals.
-4. **Test the heating element** with a multimeter set to ohms. Disconnect the heater leads and check for continuity. An open reading (infinite resistance) or a very low reading (short to ground) indicates a failed heater.
-5. **Check the circulation pump** for blockages and test it electrically. Remove the spray arm and filter, then verify the pump impeller spins freely and the pump motor is not jammed or seized.
-6. **Inspect thermal fuses and thermostats** in the heater circuit (if present on your model) with a multimeter for continuity. Replace any open safety device.
-7. **Reassemble, restore power, and run a test cycle**. If E3 persists after replacing the failed heater or pump and all wiring tests good, suspect the main control board and consider professional service.
-8. **If all field components test correctly**, consult a technician to evaluate the control board or to confirm the fault definition for your specific model platform.
+1. **Disconnect power** at the circuit breaker or unplug the dishwasher completely before starting any work.
+2. **Remove the lower dish rack and inspect the filter assembly** at the bottom of the tub. Pull out the cylindrical filter and the flat fine filter, rinse away all food debris, and check the sump opening for objects that could block the pump.
+3. **Access the circulation pump** by removing the lower spray arm, the filter cover, and any screws securing the pump housing or lower access panel (consult your model's service manual for exact fasteners).
+4. **Disconnect the wiring harness** from the pump motor and inspect the connector terminals for corrosion, moisture, or burn marks. Clean or repair any damaged pins.
+5. **Test for voltage at the pump connector** using a multimeter set to AC voltage. Start a wash cycle and measure across the pump terminals. You should see approximately 120 VAC when the control calls for the wash motor to run.
+6. **If voltage is present and the pump does not run**, remove the pump assembly (typically held by a twist-lock ring or mounting screws) and replace it with a new circulation pump. Part number W11612326 has been reported as a successful replacement for some Amana models, but verify the correct part number for your specific dishwasher.
+7. **If no voltage is present**, trace the wire harness back to the control board and check for continuity in each wire. If the harness is intact and all connectors are secure, the control board motor-driver circuit has likely failed and the board needs replacement.
+8. **Reassemble the dishwasher**, restore power, and run a test cycle to verify that the error code has cleared and the spray arms rotate normally.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Dishwasher heating element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dishwasher-e3-error-code&k=Dishwasher+heating+element&tag=errorcodefixes-20) \| Verify the part number for your exact Amana model before ordering. |
-| Circulation pump / wash pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dishwasher-e3-error-code&k=Circulation+pump+%2F+wash+pump+assembly&tag=errorcodefixes-20) \| Required on models where E3 indicates a wash-action fault. |
-| Thermal fuse or thermostat (heater circuit) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dishwasher-e3-error-code&k=Thermal+fuse+or+thermostat+%28heater+circuit%29&tag=errorcodefixes-20) \| Only needed if your model uses a discrete safety device in the heater path. |
-| Main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dishwasher-e3-error-code&k=Main+control+board&tag=errorcodefixes-20) \| Replace only after testing all field components and wiring; requires model-specific part number. |
+| Circulation pump / wash motor assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dishwasher-e3-error-code&k=Circulation+pump+%2F+wash+motor+assembly&tag=errorcodefixes-20) \| Verify your model number; W11612326 is one reported part number for Amana dishwashers but check your appliance's service sheet. |
+| Main control board (electronic control) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dishwasher-e3-error-code&k=Main+control+board+%28electronic+control%29&tag=errorcodefixes-20) \| Only replace if you have confirmed 120 VAC is missing at the pump and the harness is intact. |
 
 ## When to Call a Pro
 
-Call a professional if you are not comfortable working with electrical testing, if the wiring diagram for your model is unclear, or if you have replaced the heating element or circulation pump and the E3 code persists. A technician can pull the model-specific service sheet, perform advanced diagnostics on the control board, and confirm the exact fault definition for your Amana dishwasher platform. Also call a pro if you discover damaged wiring that requires harness repair or if the unit is still under warranty and professional service is required to preserve coverage.
+Call a professional if you are uncomfortable working with 120 VAC line voltage, if your multimeter test shows voltage present but you cannot safely remove or test the pump assembly, or if you have replaced the circulation pump and verified all wiring but the error persists. A technician can perform service-mode diagnostics to isolate control-board faults and has access to model-specific wiring diagrams. Also call a pro if the dishwasher is still under warranty, because self-repair may void coverage.
 
-**Rough cost:** DIY runs about $40–120 in parts, 1–2 hours. A pro service call runs about $150–300.
+**Rough cost:** DIY runs about $80-150 in parts, 45-90 min. A pro service call runs about $180-350.
