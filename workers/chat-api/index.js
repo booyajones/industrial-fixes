@@ -19,12 +19,21 @@ function pickOrigin(request) {
   // least Referer for a real page request; a bare scripted hit sends neither.
   const origin = request.headers.get('Origin') || '';
   if (ALLOWED_ORIGINS.includes(origin)) return origin;
+  // Exact-origin Referer match (startsWith would accept errorcodefixes.com.evil.com).
   const referer = request.headers.get('Referer') || '';
-  if (ALLOWED_ORIGINS.some(o => referer.startsWith(o))) {
-    // Reflect the canonical origin for CORS when only Referer matched.
-    return origin && ALLOWED_ORIGINS.includes(origin) ? origin : ALLOWED_ORIGINS[0];
-  }
+  let refOrigin = '';
+  try { refOrigin = referer ? new URL(referer).origin : ''; } catch (e) { /* malformed */ }
+  if (ALLOWED_ORIGINS.includes(refOrigin)) return ALLOWED_ORIGINS[0];
   return null; // not allowed
+}
+
+// Normalize the rate-limit key. For IPv6, key on the /64 prefix — a single host
+// owns a whole /64, so keying on the full /128 lets one attacker mint unlimited
+// distinct keys and defeat the per-IP limit entirely.
+function rlKey(ip) {
+  if (!ip) return 'unknown';
+  if (ip.includes(':')) return ip.split(':').slice(0, 4).join(':') + '::/64';
+  return ip;
 }
 
 function corsHeaders(allowedOrigin) {
@@ -55,18 +64,45 @@ export default {
       });
     }
 
-    // 2. Per-IP rate limit (native CF binding; falls open if not configured).
-    if (env.RATE_LIMITER && typeof env.RATE_LIMITER.limit === 'function') {
-      const ip = request.headers.get('CF-Connecting-IP') || 'unknown';
+    // 2a. GLOBAL throughput cap — bounds worst-case OpenAI spend regardless of
+    // how many IPs an attacker rotates through (the per-IP limit alone is
+    // defeated by IPv6 rotation / a botnet). Constant key = site-wide limit.
+    if (env.GLOBAL_LIMITER && typeof env.GLOBAL_LIMITER.limit === 'function') {
       try {
-        const { success } = await env.RATE_LIMITER.limit({ key: ip });
+        const { success } = await env.GLOBAL_LIMITER.limit({ key: 'global' });
+        if (!success) {
+          console.error('global_rate_cap_hit');
+          return new Response(JSON.stringify({
+            answer: 'The assistant is busy right now. Please open the full guide on this page for the fix.',
+            source: null,
+          }), { status: 200, headers: { 'Content-Type': 'application/json', ...corsHeaders(allowedOrigin) } });
+        }
+      } catch (e) { console.error('global_limiter_error', String(e).slice(0, 120)); }
+    }
+
+    // 2b. Per-IP rate limit (IPv6 keyed on /64). Falls open if the binding is
+    // absent — logged so a silent outage is visible.
+    if (env.RATE_LIMITER && typeof env.RATE_LIMITER.limit === 'function') {
+      const key = rlKey(request.headers.get('CF-Connecting-IP'));
+      try {
+        const { success } = await env.RATE_LIMITER.limit({ key });
         if (!success) {
           return new Response(JSON.stringify({ error: 'rate limited' }), {
             status: 429,
             headers: { 'Content-Type': 'application/json', 'Retry-After': '30', ...corsHeaders(allowedOrigin) },
           });
         }
-      } catch (e) { /* rate limiter unavailable — fail open, other guards remain */ }
+      } catch (e) { console.error('ip_limiter_error', String(e).slice(0, 120)); }
+    } else {
+      console.error('RATE_LIMITER binding missing — per-IP limit disabled');
+    }
+
+    // Reject oversized bodies before parsing (cheap Worker-DoS / junk vector).
+    const clen = parseInt(request.headers.get('Content-Length') || '0', 10);
+    if (clen > 4096) {
+      return new Response(JSON.stringify({ error: 'body too large' }), {
+        status: 413, headers: { 'Content-Type': 'application/json', ...corsHeaders(allowedOrigin) },
+      });
     }
 
     let body;
@@ -118,6 +154,12 @@ export default {
 
         if (bestArticle && bestScore >= 3) {
           const articleUrl = `${siteBase}${bestArticle.url}`;
+          // SSRF guard: the URL is built from the site's own search-index.json,
+          // but assert it stays on our origin so a future/compromised index can
+          // never steer the fetch off-host.
+          let safeUrl = false;
+          try { safeUrl = new URL(articleUrl).origin === siteBase; } catch (e) { /* bad url */ }
+          if (safeUrl) {
           const pageResp = await fetch(articleUrl, {
             headers: { 'User-Agent': 'errorcodefixes-chatbot/1.0' },
           });
@@ -133,6 +175,7 @@ export default {
             context = text;
             sourceArticle = articleUrl;
           }
+          } // end if (safeUrl)
         }
       }
     } catch (e) {
@@ -168,7 +211,8 @@ Always lead with the most likely cause, then provide clear fix steps.`;
     });
 
     if (!openAIResponse.ok) {
-      await openAIResponse.text();
+      // Log so a revoked key / quota / spend spike is visible, not silent.
+      console.error('openai_error', openAIResponse.status, (await openAIResponse.text()).slice(0, 200));
       return new Response(JSON.stringify({
         answer: 'Sorry, the AI service is temporarily unavailable. Please check the full article on our site.',
         source: sourceArticle,
