@@ -5,5 +5,13 @@ compatibility_date = "2024-01-01"
 [vars]
 SITE_URL = "https://errorcodefixes.com"
 
+# Per-IP rate limit: 20 requests / 60s. A real user won't exceed this; a bot
+# flood will be 429'd. Native CF binding (no KV/Durable Object needed).
+[[unsafe.bindings]]
+name = "RATE_LIMITER"
+type = "ratelimit"
+namespace_id = "1001"
+simple = { limit = 20, period = 60 }
+
 # Set the OpenAI API key as a secret (never commit the real key):
 #   npx wrangler secret put OPENAI_API_KEY --name errorcodefixes-chat
