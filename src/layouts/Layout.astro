@@ -264,28 +264,10 @@ const structuredData = pubDatetime
               gtag('event', 'page_view');
             }
           });
-          // Affiliate click tracking — the numerator of mC/1000. Delegated so it
-          // covers every monetized link (parts tables, specialist cards, sticky
-          // bar, tool links) on every page, present and future. dataLayer queues
-          // events fired before gtag.js finishes loading, so nothing is lost.
-          document.addEventListener('click', function (e) {
-            var a = e.target && e.target.closest && e.target.closest('a[href]');
-            if (!a) return;
-            var href = a.href || '';
-            var isAffiliate = a.hasAttribute('data-affiliate-kind') ||
-              href.indexOf('tag=errorcodefixes-20') !== -1 ||
-              /(?:^|[./])(repairclinic|partselect|supplyhouse|partstown|grainger)\.com/.test(href);
-            if (!isAffiliate) return;
-            var host = '';
-            try { host = new URL(href).hostname.replace('www.', ''); } catch (err) {}
-            gtag('event', 'affiliate_click', {
-              merchant: host,
-              placement: a.getAttribute('data-affiliate-placement') || 'in_article',
-              kind: a.getAttribute('data-affiliate-kind') || 'part_link',
-              brand: a.getAttribute('data-affiliate-brand') || '',
-              page_slug: location.pathname,
-            });
-          }, true);
+          // NOTE: affiliate_click is fired by the canonical, singleton-guarded
+          // tracker in src/scripts/analytics.ts (loaded below). A second listener
+          // used to live here and DOUBLE-COUNTED every monetized click, corrupting
+          // mC/1000 — removed 2026-06-16. Do not re-add affiliate_click here.
         </script>
       )
     }
