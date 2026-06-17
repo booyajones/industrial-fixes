@@ -164,6 +164,21 @@
   }
   .bot-message .md-bullet { color: #E6531D; margin-right: 0.25rem; }
 
+  .part-cta {
+    margin-top: 0.6rem;
+  }
+  .part-cta a {
+    display: inline-block;
+    background: #E6531D;
+    color: #fff;
+    font-weight: 700;
+    font-size: 0.8rem;
+    line-height: 1.2;
+    padding: 0.5rem 0.8rem;
+    border-radius: 8px;
+    text-decoration: none;
+  }
+  .part-cta a:hover { background: #c44418; }
   .source-link {
     margin-top: 0.5rem;
     font-size: 0.75rem;
@@ -304,13 +319,28 @@ function initChatWidget() {
       .replace(/\n/g, '<br>')
   }
 
-  function addMessage(text, type, sourceUrl) {
+  function addMessage(text, type, sourceUrl, part) {
     const div = document.createElement('div');
     div.className = 'chat-message ' + type;
     if (type === 'bot-message') {
       div.innerHTML = '<p>' + renderMarkdown(text) + '</p>';
     } else {
       div.textContent = text;
+    }
+    // REVENUE: surface the exact replacement part as a monetized CTA at the
+    // moment of decision. Uses the same affiliate link as the article page.
+    if (part && part.url && part.name) {
+      const partWrap = document.createElement('div');
+      partWrap.className = 'part-cta';
+      const pa = document.createElement('a');
+      pa.href = part.url;
+      pa.textContent = '\ud83d\udd27 Get the part: ' + part.name + ' \u2192';
+      pa.target = '_blank';
+      pa.rel = 'sponsored noopener noreferrer';
+      pa.setAttribute('data-affiliate-kind', 'chatbot');
+      pa.setAttribute('data-affiliate-placement', 'chat');
+      partWrap.appendChild(pa);
+      div.appendChild(partWrap);
     }
     if (sourceUrl) {
       const linkWrap = document.createElement('div');
@@ -369,7 +399,8 @@ function initChatWidget() {
         addMessage(
           data.answer || 'Sorry, I could not generate an answer.',
           'bot-message',
-          data.source || null
+          data.source || null,
+          data.part || null
         );
       }
     } catch (e) {

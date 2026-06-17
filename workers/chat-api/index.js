@@ -126,6 +126,7 @@ export default {
     const siteBase = 'https://errorcodefixes.com';
     let context = '';
     let sourceArticle = null;
+    let partRec = null; // { name, url } — the affiliate part CTA for the matched page (revenue)
 
     try {
       const indexResp = await fetch(`${siteBase}/search-index.json`, {
@@ -165,6 +166,20 @@ export default {
           });
           if (pageResp.ok) {
             const html = await pageResp.text();
+            // REVENUE: pull the page's affiliate part CTA so the chat can route
+            // the buyer at the moment of decision (turns the chat from a pure
+            // cost center into a conversion surface). Uses the SAME monetized
+            // link already on the page (RepairClinic via Skimlinks / Amazon tag).
+            try {
+              const nameM = html.match(/class="pc-part"[^>]*>([^<]{2,80})</);
+              const urlM = html.match(/class="pc-primary"[^>]*href="([^"]+)"/);
+              if (nameM && urlM) {
+                partRec = { name: nameM[1].trim(), url: urlM[1].replace(/&amp;/g, '&') };
+              } else {
+                const fb = html.match(/href="(https:\/\/www\.repairclinic\.com\/Shop-For-Parts[^"]+|https:\/\/www\.amazon\.com\/s\?[^"]*tag=errorcodefixes-20[^"]*)"/);
+                if (fb) partRec = { name: 'the replacement part', url: fb[1].replace(/&amp;/g, '&') };
+              }
+            } catch (e) { /* no part CTA available */ }
             const text = html
               .replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '')
               .replace(/<style[^>]*>[\s\S]*?<\/style>/gi, '')
@@ -187,7 +202,8 @@ You help diagnose and fix error codes for HVAC systems, CNC machines, VFDs, comm
 Be concise, practical, and direct. Use plain text — no markdown.
 If article context is provided, answer primarily from that content and cite the article link.
 If not, draw on your technical knowledge.
-Always lead with the most likely cause, then provide clear fix steps.`;
+Always lead with the most likely cause, then provide clear fix steps.
+End by telling the user whether this is usually a quick DIY fix or a part replacement, and if a part is likely, say "the exact part is linked below" (a part button is shown beneath your answer when available). Never invent a part link in your text.`;
 
     const userMessage = context
       ? `Question: ${question}\n\nRelevant article content:\n${context}`
@@ -226,7 +242,7 @@ Always lead with the most likely cause, then provide clear fix steps.`;
     const answer = openAIData.choices?.[0]?.message?.content
       || 'Sorry, I could not generate an answer.';
 
-    return new Response(JSON.stringify({ answer, source: sourceArticle }), {
+    return new Response(JSON.stringify({ answer, source: sourceArticle, part: partRec }), {
       headers: { 'Content-Type': 'application/json', ...corsHeaders(allowedOrigin) },
     });
   },
