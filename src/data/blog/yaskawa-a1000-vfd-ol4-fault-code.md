@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or VFD technician if you are not trained to work on high-voltage three-phase equipment or if the fault persists after you have verified the mechanical load is free and all parameters are correct. Diagnosing oL4 often requires torque monitoring, load testing under controlled conditions, and systematic parameter tuning that go beyond basic troubleshooting. If the driven equipment includes process machinery, pumps, or conveyors with complex mechanical systems, a millwright or mechanical technician may also be needed to inspect and repair transmission components safely. Always follow lockout/tagout procedures and your facility's electrical safety practices before working on VFD-connected equipment.
 
 **Rough cost:** A pro service call runs about $200-800 depending on mechanical repairs required.
+
+## See Also
+
+- [Yaskawa GA800 E28 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e28-fault-code/)
+- [Yaskawa GA800 E01 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e01-fault-code/)
+- [Yaskawa GA800 A.130 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-130-fault-code/)
+- [Yaskawa GA800 E73 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e73-fault-code/)

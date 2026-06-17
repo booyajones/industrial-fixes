@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified technician if you are not comfortable working with high-voltage industrial equipment or if you cannot safely lock out and isolate the drive. A pro should handle motor winding tests, drive parameter commissioning, and any repair that requires precise torque calculations or access to the drive's internal circuits. If the motor itself is damaged or the drive continues to trip after mechanical and parameter fixes, a professional with VFD diagnostic tools and motor test equipment is needed to avoid further damage or unsafe operation.
 
 **Rough cost:** A pro service call runs about $200-800 depending on whether it is parameter adjustment, motor bearing replacement, or mechanical repair.
+
+## See Also
+
+- [Yaskawa GA800 E52 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e52-fault-code/)
+- [Yaskawa GA800 A.139 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-139-fault-code/)
+- [Yaskawa VFD Fault PF — Causes & Fix](/posts/yaskawa-vfd-fault-pf/)
+- [Yaskawa A1000 UV Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-uv-fault-code/)

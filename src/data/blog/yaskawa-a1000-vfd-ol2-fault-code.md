@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician, automation technician, or drive service center if you are not trained to work with three-phase power and VFD programming. Diagnosing oL2 requires measuring three-phase voltage, interpreting drive parameter settings, isolating the motor under live conditions, and potentially replacing high-voltage power electronics. If the drive faults with the motor disconnected, internal repair or replacement of the inverter section is a factory or authorized service task. If the mechanical load or process is complex, involve a mechanical technician to rule out binding, misalignment, or process overload before changing electrical components.
 
 **Rough cost:** A pro service call runs about $200-1200.
+
+## See Also
+
+- [Yaskawa GA800 A.112 Alarm - Causes & Fix](/posts/yaskawa-ga800-vfd-a-112-fault-code/)
+- [Yaskawa A1000 CPF16 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf16-fault-code/)
+- [Yaskawa A1000 FbL Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-fbl-fault-code/)
+- [Yaskawa A1000 HCA Fault Code - Causes & Fix](/posts/yaskawa-a1000-vfd-hca-fault-code/)

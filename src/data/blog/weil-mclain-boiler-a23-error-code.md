@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician immediately if you cannot locate A23 in your boiler's manual, if the boiler will not fire, or if you are unsure of your model number. Gas-fired boilers require specialized diagnostic tools and knowledge of combustion safety. A technician can verify the exact fault using the service menu, check gas pressure and flame sensing, and order the correct OEM parts for your control platform. Do not attempt to bypass safeties or reset the boiler repeatedly, as this can cause unsafe operating conditions or damage the heat exchanger.
 
 **Rough cost:** A pro service call runs about $150-400 for diagnostic visit and minor repair.
+
+## See Also
+
+- [Weil-McLain Boiler A53 Error - Causes & Fix](/posts/weil-mclain-boiler-a53-error-code/)
+- [Weil-McLain A57 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a57-error-code/)
+- [Weil-McLain Boiler A24 Error - Causes & Fix](/posts/weil-mclain-boiler-a24-error-code/)
+- [Weil-McLain A54 Error - Causes & Fix](/posts/weil-mclain-boiler-a54-error-code/)

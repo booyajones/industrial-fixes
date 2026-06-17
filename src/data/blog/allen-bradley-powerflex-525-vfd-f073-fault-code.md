@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a controls technician or industrial electrician if you are not familiar with EtherNet/IP networks, PLC programming, or drive parameter configuration. The fault itself does not involve dangerous high voltage, but diagnosing network issues requires knowledge of IP addressing, switch configuration, and scanner setup in the controller. If you have already reseated cables, verified link LEDs, and confirmed the switch and controller are running but the fault still appears, a professional can check the EtherNet/IP connection programming, parameter C125, and determine whether the drive's embedded adapter has failed. Also call a pro if the drive is part of a larger automated system where incorrect troubleshooting could disrupt production or create a safety hazard.
 
 **Rough cost:** A pro service call runs about $100-250 for service call and cabling/network troubleshooting; higher if drive replacement is needed.
+
+## See Also
+
+- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
+- [Allen-Bradley PowerFlex 525 F106 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f106-fault-code/)
+- [Allen-Bradley PowerFlex 525 F070 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f070-fault-code/)
+- [Allen-Bradley PowerFlex 4M Fault Codes — F2, F4, F5, F7, F12 Fix Guide](/posts/allen-bradley-powerflex-4m-fault-codes/)

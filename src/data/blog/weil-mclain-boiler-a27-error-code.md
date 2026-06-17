@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician if you cannot locate the strainer, if the circulator pump shows power but does not run, or if cleaning the strainer and verifying flow does not clear the fault. Gas-fired boilers require a qualified pro for any work involving gas piping, pressure switches, or combustion diagnostics. A technician can also measure sensor resistance against factory specs, test the control board, and diagnose blockages deep in the heat exchanger that are not accessible to a homeowner. If the boiler is under warranty, professional service may be required to preserve coverage.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Weil-McLain A84 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a84-error-code/)
+- [Weil-McLain A65 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a65-error-code/)
+- [Weil-McLain A68 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a68-error-code/)
+- [Weil-McLain A82 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a82-error-code/)

@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a technician if the F0 code persists after you have cleaned the filter and housing, confirmed the filter is fully seated, and performed a power reset. The filter-detection sensor or its wiring may have failed. A pro can test the sensor circuit and replace the sensor or harness as needed. Also call for service if the filter housing itself is cracked or the filter will not insert fully despite being undamaged, since that may require disassembly or replacement of the housing assembly.
 
 **Rough cost:** DIY runs about $10-30 in parts (if filter or housing is damaged), 10-20 min. A pro service call runs about $100-200 service call (if sensor or harness replacement is needed).
+
+## See Also
+
+- [LG Oven Temperature Not Accurate - Causes & Fix](/posts/lg-oven-temperature-not-accurate/)
+- [LG Refrigerator Light Not Working - Causes & Fix](/posts/lg-refrigerator-light-not-working/)
+- [LG Washer Burning Smell - Causes & Fix](/posts/lg-washer-burning-smell/)
+- [LG Refrigerator EIU Error Code - Causes & Fix](/posts/lg-refrigerator-eiu-error-code/)

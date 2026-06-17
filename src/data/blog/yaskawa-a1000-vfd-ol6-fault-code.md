@@ -71,3 +71,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or VFD technician if you are not trained to work with high-voltage three-phase equipment, if the mechanical load inspection reveals complex gearbox or bearing damage requiring disassembly, or if correcting motor parameters and thermal settings does not resolve the fault. VFD programming and load analysis require specialized knowledge of motor control theory and measurement tools. If the fault persists after verifying all settings and the mechanical system is sound, the drive may have a failed current sensor or internal fault requiring factory repair or replacement.
 
 **Rough cost:** A pro service call runs about $200-800 depending on mechanical repairs or parameter tuning.
+
+## See Also
+
+- [Yaskawa VFD Fault OH — Causes & Fix](/posts/yaskawa-vfd-fault-oh/)
+- [Yaskawa GA800 E48 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e48-fault-code/)
+- [Yaskawa GA800 A.122 Alarm - Causes & Fix](/posts/yaskawa-ga800-vfd-a-122-fault-code/)
+- [Yaskawa A1000 oL1 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol1-fault-code/)

@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or automation technician if you are not trained to work with VFD parameters, motor circuits, or mechanical drive systems. Adjusting L6-08 incorrectly can disable important protection or cause repeated nuisance faults. Mechanical inspection of gearboxes, bearings, and couplings often requires lockout/tagout, alignment tools, and experience with rotating equipment. If the fault persists after basic mechanical checks and you lack the tools or training to measure torque, inspect internal drive components, or tune advanced motor-control parameters, professional diagnostics are the safest and most cost-effective path.
 
 **Rough cost:** A pro service call runs about $200-800.
+
+## See Also
+
+- [Yaskawa GA800 A.117 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-117-fault-code/)
+- [Yaskawa GA800 E82 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e82-fault-code/)
+- [Yaskawa GA800 E27 Fault - Causes & Fix](/posts/yaskawa-ga800-e27-fault-code/)
+- [Yaskawa GA800 E19 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e19-fault-code/)

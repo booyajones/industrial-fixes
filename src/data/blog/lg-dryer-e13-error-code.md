@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a professional if the E13 code returns after you have confirmed the drain hose is straight, unobstructed, the correct LG part, and not frozen. Persistent E13 after hose correction means the drain pump may be air-locked, the internal condensate routing is blocked, or a sensor or pump assembly has failed. LG states that if the code reappears after basic troubleshooting, the unit requires service. A technician will test the drain pump, check for internal blockages in the condensate circuit, and verify the sump and sensor are functioning correctly.
 
 **Rough cost:** DIY runs about $15-40 in parts (drain hose), 20-40 min. A pro service call runs about $120-220.
+
+## See Also
+
+- [LG Mini-Split CH07 Error Code - Causes & Fix](/posts/lg-mini-split-ch07-error-code/)
+- [LG Mini Split CH47 Error - Causes & Fix](/posts/lg-mini-split-ch47-error-code/)
+- [LG EID Error Code - Causes & Fix](/posts/lg-refrigerator-eid-error-code/)
+- [LG Dishwasher AE Error Code - Causes & Fix](/posts/lg-washer-ae-error-code/)

@@ -71,3 +71,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a tech if you've cleaned the entire vent system and the dryer still overheats or displays tE or HC codes. Thermistor replacement, heating element testing, and control board diagnosis require disassembly and live voltage checks. If you have a gas dryer and suspect burner or ignition problems, have a qualified technician handle all gas connections and burner service. A pro can also verify correct 240 V supply on electric models and measure airflow to confirm the vent system meets LG's installation requirements.
+
+## See Also
+
+- [LG Dryer Add Error Code - Causes & Fix](/posts/lg-dryer-add-error-code/)
+- [LG Dishwasher Won't Fill With Water - Causes & Fix](/posts/lg-dishwasher-wont-fill-with-water/)
+- [LG Range F5 Error Code - Causes & Fix](/posts/lg-range-f5-error-code/)
+- [LG Dryer Shuts Off Early - Causes & Fix](/posts/lg-dryer-shuts-off-early/)

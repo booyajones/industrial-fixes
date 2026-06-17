@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a heating professional if you are not comfortable reading live diagnostics on the boiler control, tracing hydronic piping to find flow reversals, or testing sensor resistance with a multimeter. The A24 code usually points to a piping, pump, or sensor wiring issue rather than a failed part, so a technician can diagnose the hydraulic arrangement and correct the flow pattern or sensor placement. A pro is also required if you need to relocate sensors, re-pipe zone valves, or adjust domestic hot-water priority logic on the control board.
 
 **Rough cost:** A pro service call runs about $150–350.
+
+## See Also
+
+- [Weil-McLain A60 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a60-error-code/)
+- [Weil-McLain Boiler A49 Error - Causes & Fix](/posts/weil-mclain-boiler-a49-error-code/)
+- [Weil-McLain A51 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a51-error-code/)
+- [Weil-McLain Boiler A87 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a87-error-code/)

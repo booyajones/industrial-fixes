@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified appliance technician if you have verified that the door closes firmly, the switch shows correct continuity, and the harness connector is clean yet the dE4 code persists. At that point the main control board is likely failing to read the door input and board-level diagnostics or replacement are required. Also call a pro if you are uncomfortable working with the multimeter, removing panels, or handling the 240 V supply cord. If your display truly shows E4 without the letter d and you own an LG Styler rather than a dryer, the heater in the steaming mechanism has failed and that repair requires specialized Styler service.
 
 **Rough cost:** DIY runs about $15–50 in parts, 20–45 min. A pro service call runs about $120–220.
+
+## See Also
+
+- [LG Refrigerator Water Dispenser Not Working - Causes & Fix](/posts/lg-refrigerator-water-dispenser-not-working/)
+- [LG Dryer tE1 Error Code - Causes & Fix](/posts/lg-dryer-te1-error-code/)
+- [LG LSU120HSV5 Ductless Mini Split Problems & Error Codes](/posts/lg-lsu120hsv5-ductless-mini-split-air-conditioner-problems/)
+- [LG LFXS28968S Refrigerator Problems & Error Codes](/posts/lg-lfxs28968s-refrigerator-problems/)

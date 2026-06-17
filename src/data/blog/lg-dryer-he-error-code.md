@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a professional if the HE code returns after a full power reset, if you are unsure whether your appliance is a dryer or a combo unit, or if you need to test the heater circuit and related sensors. Heater assembly replacement on washer-dryer combos involves disassembly of the drum and rear panels, disconnecting high-voltage wiring, and verifying continuity and resistance values that require a multimeter and the service manual. LG's own support documentation directs combo owners with repeating HE codes to schedule service rather than attempt component-level repairs. If your appliance is a standalone dryer and you see an unfamiliar code, a technician can enter diagnostic mode, retrieve stored fault history, and identify the correct root cause using the manufacturer's test sequences.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [LG Mini Split Making Noise - Causes & Fix](/posts/lg-mini-split-making-noise/)
+- [LG Range F9 Error Code - Causes & Fix](/posts/lg-range-f9-error-code/)
+- [LG Dishwasher bE Error Code - Causes & Fix](/posts/lg-dishwasher-be-error-code/)
+- [LG Dishwasher HE Error Code - Causes & Fix](/posts/lg-dishwasher-he-error-code/)

@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician immediately if you cannot locate your boiler's service manual or if A26 reappears after a power cycle. Boiler controls integrate gas-valve sequencing, combustion air proving, and high-limit protection, and incorrect diagnosis can create safety hazards or code violations. A qualified technician has access to Weil-McLain's technical support, the correct diagnostic tools (multimeter, manometer, combustion analyzer), and the training to interpret model-specific fault codes. Professional service is also required if the fault involves the gas valve, burner assembly, venting system, or sealed combustion components. Always verify that your technician is familiar with Weil-McLain boilers and has the exact service literature for your model before authorizing parts replacement.
 
 **Rough cost:** A pro service call runs about $180-400.
+
+## See Also
+
+- [Weil-McLain Boiler A72 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a72-error-code/)
+- [Weil-McLain A28 Error - Causes & Fix](/posts/weil-mclain-boiler-a28-error-code/)
+- [Weil-McLain A63 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a63-error-code/)
+- [Weil-McLain Boiler A50 Error - Causes & Fix](/posts/weil-mclain-boiler-a50-error-code/)
