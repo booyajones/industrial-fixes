@@ -49,3 +49,10 @@ F0041 on a Siemens Micromaster (particularly the 440 series) indicates a stator 
 ## When to Call a Pro
 
 Call a qualified electrician or drive technician if you have verified all motor connections, checked the cable for faults, confirmed the motor parameters are correct, and the fault still appears after re-running identification. Persistent F0041 after external checks can indicate a problem inside the drive's power section or measurement circuitry, or a motor with internal winding damage that requires testing with an insulation tester and motor analyzer. Also call a pro if you are not comfortable working with three-phase motor wiring or VFD commissioning procedures, as incorrect wiring or parameter entry can damage the drive or motor.
+
+## See Also
+
+- [Siemens G120 F01000 - Causes & Fix](/posts/siemens-g120-f01000-fault-code/)
+- [Siemens G120 A05001 Fault Code - Causes & Fix](/posts/siemens-g120-vfd-a05001-fault-code/)
+- [Siemens Micromaster F0023 - Causes & Fix](/posts/siemens-micromaster-vfd-f0023-fault-code/)
+- [Siemens G120 F0008 Fault - Causes & Fix](/posts/siemens-g120-vfd-f0008-fault-code/)

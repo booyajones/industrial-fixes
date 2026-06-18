@@ -70,3 +70,10 @@ Seeing a code on the display? These match this problem:
 ## When to Call a Pro
 
 Call a pro if you are not comfortable working with 240 V power, if you measure incorrect voltage at the terminal block and need a licensed electrician to inspect the home outlet and breaker panel, or if you have replaced the thermal fuse and heating element but the dryer still will not heat. A technician can also trace sensor and wiring faults that are harder to isolate without a schematic and proper test equipment.
+
+## See Also
+
+- [LG Refrigerator Running Constantly - Causes & Fix](/posts/lg-refrigerator-running-constantly/)
+- [LG Washer Not Draining Completely - Causes & Fix](/posts/lg-washer-not-draining-completely/)
+- [LG Refrigerator rS Error Code - Causes & Fix](/posts/lg-refrigerator-rs-error-code/)
+- [LG Oven Temperature Not Accurate - Causes & Fix](/posts/lg-oven-temperature-not-accurate/)

@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a professional if the HS code returns after you have cleaned the sensor bars and completed a full power reset. Persistent HS indicates a failed sensor assembly, damaged wiring, or a faulty control board. A technician will use a multimeter to test sensor continuity and resistance, inspect the harness connector for corrosion, and verify the control board input circuit. If you are uncomfortable removing panels, handling 240V connections, or interpreting wiring diagrams, schedule service rather than guessing at part replacement. LG states that dryers displaying HS after basic cleaning and reset steps require professional repair.
 
 **Rough cost:** DIY runs about $0-15 in cleaning supplies, 15-30 min. A pro service call runs about $100-200 service call if sensor assembly or wiring needs replacement.
+
+## See Also
+
+- [LG Mini-Split CH34 Error Code — Causes & Fix](/posts/lg-mini-split-ch34-error-code/)
+- [LG Washer Error Codes — Complete Fix Guide](/posts/lg-washer-error-codes/)
+- [LG Range E2 Error Code - Causes & Fix](/posts/lg-range-e2-error-code/)
+- [LG Microwave Runs but No Heat - Causes & Fix](/posts/lg-microwave-runs-but-no-heat/)

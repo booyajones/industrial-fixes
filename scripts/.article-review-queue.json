@@ -628,5 +628,59 @@
     "score": 3,
     "reason": "Research explicitly states A92 is NOT verified as a real Weil-McLain code from manufacturer documentation, yet draft treats it as real and builds entire repair guide around unconfirmed code.",
     "date": "2026-06-17"
+  },
+  "weil-mclain-boiler-a66-error-code": {
+    "topic": "Weil-McLain boiler A66 error code",
+    "score": 3,
+    "reason": "FAIL: A66 is not verified as a real Weil-McLain boiler code in the research; the draft correctly warns of this but should not be published as a definitive error-code guide for an unconfirmed code.",
+    "date": "2026-06-18"
+  },
+  "weil-mclain-boiler-a75-error-code": {
+    "topic": "Weil-McLain boiler A75 error code",
+    "score": 3,
+    "reason": "Research explicitly states A75 is NOT a verified standard Weil-McLain code; publishing unverified error code content violates the primary requirement that codes must be documented for the exact brand and appliance.",
+    "date": "2026-06-18"
+  },
+  "weil-mclain-boiler-a94-error-code": {
+    "topic": "Weil-McLain boiler A94 error code",
+    "score": 4,
+    "reason": "Research explicitly states 'search results do NOT include a manufacturer page that explicitly defines A94' and 'I cannot verify that A94 is exactly that ignition fault code with manufacturer certainty' \u2014 the code itself is not confirmed real for Weil-McLain; meaning is extrapolated from generic ignition faults, not documented A94 definition.",
+    "date": "2026-06-18"
+  },
+  "weil-mclain-boiler-a95-error-code": {
+    "topic": "Weil-McLain boiler A95 error code",
+    "score": 3,
+    "reason": "Research explicitly states A95 is NOT documented in Weil-McLain materials; publishing an article about an unverified code violates editorial standards for factual accuracy.",
+    "date": "2026-06-18"
+  },
+  "weil-mclain-boiler-a103-error-code": {
+    "topic": "Weil-McLain boiler A103 error code",
+    "score": 4,
+    "reason": "Code is NOT documented as real for Weil-McLain boilers specifically; research shows A103 is from a different product family and explicitly states Weil-McLain codes are model-dependent with no verified A103 definition for this brand.",
+    "date": "2026-06-18"
+  },
+  "weil-mclain-boiler-a107-error-code": {
+    "topic": "Weil-McLain boiler A107 error code",
+    "score": 4,
+    "reason": "Research explicitly states A107 is NOT verified in official Weil-McLain boiler documentation; code meaning is sourced only from non-manufacturer third parties and conflicts across product lines, failing criterion #1 for documented brand+appliance authenticity.",
+    "date": "2026-06-18"
+  },
+  "weil-mclain-boiler-a108-error-code": {
+    "topic": "Weil-McLain boiler A108 error code",
+    "score": 2,
+    "reason": "FAIL: A108 is definitively NOT a Weil-McLain boiler code; research confirms it belongs to Rheem water heaters only\u2014this draft incorrectly assigns a Rheem water heater code to a Weil-McLain boiler brand in the title and creates confusion despite attempting clarification in body text.",
+    "date": "2026-06-18"
+  },
+  "weil-mclain-boiler-a111-error-code": {
+    "topic": "Weil-McLain boiler A111 error code",
+    "score": 2,
+    "reason": "Research explicitly states A111 cannot be verified as a real Weil-McLain code from manufacturer materials; draft invents content for an unconfirmed code, violating fundamental accuracy requirement.",
+    "date": "2026-06-18"
+  },
+  "weil-mclain-boiler-a117-error-code": {
+    "topic": "Weil-McLain boiler A117 error code",
+    "score": 3,
+    "reason": "The research explicitly states A117 cannot be verified as a real Weil-McLain code in any available documentation; publishing unverified error codes violates technical accuracy standards regardless of how well the troubleshooting advice is hedged.",
+    "date": "2026-06-18"
   }
 }

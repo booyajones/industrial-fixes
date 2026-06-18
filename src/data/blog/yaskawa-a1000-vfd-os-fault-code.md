@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician immediately. The oS fault requires opening the drive enclosure and working with high-voltage DC bus capacitors that remain energized even after input power is removed. Control board and drive replacement demand proper lockout/tagout, discharge procedures, correct part matching, and firmware handling. Attempting this work without training risks shock, equipment damage, and warranty voidance. A technician will verify the fault history, perform safe power-down and discharge, inspect internal hardware, and replace the control board or drive following Yaskawa service protocols.
 
 **Rough cost:** A pro service call runs about $400–1,200 depending on whether the control board alone or the complete drive is replaced.
+
+## See Also
+
+- [Yaskawa A1000 Uv3 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-uv3-fault-code/)
+- [Yaskawa GA800 A.107 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-107-fault-code/)
+- [Yaskawa A1000 Complete Guide - Fault Codes, Parameters, and Commissioning](/posts/yaskawa-a1000-complete-guide/)
+- [Yaskawa GA800 E09 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e09-fault-code/)

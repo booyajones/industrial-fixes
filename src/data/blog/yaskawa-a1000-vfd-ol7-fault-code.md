@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified drives technician or systems integrator if you are not familiar with VFD parameter programming, if you do not have the A1000 technical manual with the braking resistor selection table for your frame size, or if the fault persists after lengthening deceleration times and verifying the braking resistor. High Slip Braking interacts with motor control algorithms and DC bus voltage limits, so incorrect parameter changes can damage the drive or create unsafe stopping behavior. A pro will use the drive's event recorder and real-time monitors to capture exactly when oL7 occurs, measure DC bus ripple during braking, and size the braking resistor or adjust n3-04 based on actual load inertia calculations.
 
 **Rough cost:** A pro service call runs about $200–500 for parameter tuning and braking resistor installation if needed.
+
+## See Also
+
+- [Yaskawa A1000 CPF14 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf14-fault-code/)
+- [Yaskawa GA800 E90 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e90-fault-code/)
+- [Yaskawa GA800 E46 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e46-fault-code/)
+- [Yaskawa VFD Fault PF — Causes & Fix](/posts/yaskawa-vfd-fault-pf/)

@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified drive technician or electrician if you are not comfortable working with high-voltage equipment or if basic parameter adjustments (deceleration time) do not resolve the fault. Internal repairs such as replacing DC bus capacitors, testing the chopper circuit, or diagnosing voltage detection faults require specialized tools, knowledge of VFD architecture, and adherence to electrical safety protocols. If the fault recurs after adjusting decel time and installing a line reactor, the drive may have component failure that only a trained professional should address.
 
 **Rough cost:** A pro service call runs about $150-500.
+
+## See Also
+
+- [Yaskawa GA800 E58 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e58-fault-code/)
+- [Yaskawa A1000 VFD oL3 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol3-fault-code/)
+- [Yaskawa GA800 A.123 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-123-fault-code/)
+- [Yaskawa GA800 VFD A.113 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-113-fault-code/)

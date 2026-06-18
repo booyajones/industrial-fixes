@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a technician if you own a heat-pump dryer, because compressor diagnosis and replacement involve a sealed refrigerant system that requires recovery equipment, vacuum pumps, and refrigerant-handling certification. Standard condensing dryers also require high-voltage testing at the motor and control board, so professional help is recommended unless you are comfortable working with 220–240 VAC circuits. A qualified service technician will use the model-specific wiring diagram to confirm whether the main PCB is delivering power, measure winding resistance on the compressor or motor, and replace only the component that has failed. If you see the LE2 code alongside unusual noises or a burning smell, disconnect power immediately and arrange a service call to prevent further damage.
 
 **Rough cost:** A pro service call runs about $300–600.
+
+## See Also
+
+- [LG Mini Split CH66 Error Code - Causes & Fix](/posts/lg-mini-split-ch66-error-code/)
+- [LG Refrigerator Compressor Start Relay & Overload Replacement](/posts/lg-refrigerator-compressor-start-relay-ptc-overload-replacement/)
+- [LG Microwave Won't Start - Causes & Fix](/posts/lg-microwave-wont-start/)
+- [LG Washer Cd Error Code - Causes & Fix](/posts/lg-washer-cd-error-code/)

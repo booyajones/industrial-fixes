@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified drive technician if the fault persists after you have reseated the operator, replaced the cable, and tried a new keypad. Diagnosing and replacing the control board or internal circuitry requires knowledge of high-voltage DC bus circuits, parameter backup, and drive initialization. A technician can also verify that the code you see is truly oP and not a similar-looking fault, and can cross-reference the exact alarm against your drive's firmware revision and fault history. If the underlying cause turns out to be a different fault code such as overcurrent or ground fault, the technician will inspect motor cables, run insulation tests, verify motor data, and perform Auto-Tuning as needed. Do not attempt to open the drive enclosure or work on the control board if you are not trained in VFD service, because dangerous voltages remain inside even after input power is removed.
 
 **Rough cost:** A pro service call runs about $150–400 depending on whether a cable, operator, or control board is needed.
+
+## See Also
+
+- [Yaskawa GA800 E62 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e62-fault-code/)
+- [Yaskawa GA800 E78 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e78-fault-code/)
+- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)
+- [Yaskawa GA800 E86 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e86-fault-code/)

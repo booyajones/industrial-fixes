@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or automation technician for all PowerFlex 525 module replacement work. The drive operates at high voltage and requires safe lockout/tagout procedures before removing or installing modules. A technician can verify the exact catalog numbers, firmware revisions, and module pairing compatibility from Rockwell's current product matrix. If the fault persists after replacing the control module and power module with a known-compatible pairing, the technician can work with Rockwell technical support to diagnose a deeper hardware or firmware recognition issue or arrange a warranty return if the drive is still covered.
 
 **Rough cost:** A pro service call runs about $200-500 for module replacement and labor.
+
+## See Also
+
+- [Allen-Bradley PowerFlex F063 Fault — Phase Short Fix](/posts/allen-bradley-powerflex-f063-fault/)
+- [Allen-Bradley PowerFlex F041 Fault - Motor Overload: What It Means and How to Fix It](/posts/allen-bradley-powerflex-f041-fault/)
+- [Allen-Bradley PowerFlex 525 F039 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f039-fault-code/)
+- [Allen-Bradley PowerFlex 525 F100 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f100-fault-code/)

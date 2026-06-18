@@ -70,3 +70,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a pro if you are not comfortable disassembling the cabinet and drum assembly, or if the banging persists after you have checked for load issues and foreign objects. Drum roller and idler pulley replacement requires removing the drum, which involves working with the belt routing and reassembly in the correct sequence. A technician has the tools and experience to diagnose the exact source of the noise, replace worn components as a set, and test the dryer to confirm smooth, quiet operation before returning it to service.
+
+## See Also
+
+- [LG Dryer Add Error Code - Causes & Fix](/posts/lg-dryer-add-error-code/)
+- [LG Microwave F4 Error - Causes & Fix](/posts/lg-microwave-f4-error-code/)
+- [LG Washer FE Error Code - Causes & Fix](/posts/lg-washer-fe-error-code/)
+- [LG Dishwasher Not Dispensing Detergent - Causes & Fix](/posts/lg-dishwasher-not-dispensing-detergent/)

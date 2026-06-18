@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa-authorized service provider if you have reseated the operator, inspected and replaced the cable, verified parameter settings, and the oPr fault still returns. Diagnosing and repairing drive-side connector damage or control-board faults requires specialized knowledge of the A1000 architecture, access to replacement boards, and firmware configuration tools. Any work inside the drive enclosure must be performed by personnel trained in high-voltage DC-bus safety and familiar with VFD grounding and isolation procedures.
 
 **Rough cost:** A pro service call runs about $150–400 depending on whether a cable, operator keypad, or drive connector repair is needed.
+
+## See Also
+
+- [Yaskawa GA800 E45 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e45-fault-code/)
+- [Yaskawa GA800 E43 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e43-fault-code/)
+- [Yaskawa GA800 E55 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e55-fault-code/)
+- [Yaskawa U1000 Fault Codes: Complete Guide](/posts/yaskawa-u1000-fault-codes/)
