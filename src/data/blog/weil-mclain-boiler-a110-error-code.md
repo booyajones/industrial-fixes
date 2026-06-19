@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed technician if you are unfamiliar with gas appliances, do not own a manometer to measure gas pressure, or cannot safely access the electrode and burner chamber. Any work on gas piping, gas valves, or combustion components carries risk of gas leak, carbon monoxide exposure, or fire. A technician will also verify proper venting, condensate drainage, and control settings that are not adjustable by the homeowner. If the boiler repeatedly locks out after your reset attempts or you smell gas at any point, shut off the manual gas valve and call for service immediately.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Weil-McLain A82 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a82-error-code/)
+- [Weil-McLain A105 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a105-error-code/)
+- [Weil-McLain Boiler A108 Error - Causes & Fix](/posts/weil-mclain-boiler-a108-error-code/)
+- [Weil-McLain A79 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a79-error-code/)

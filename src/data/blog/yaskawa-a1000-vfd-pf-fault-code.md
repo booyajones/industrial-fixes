@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or automation technician any time you need to work inside an energized panel or drive enclosure. High-voltage three-phase power is deadly. A technician will lock out the supply, safely measure phase voltages, check fuse continuity, inspect terminals for heat damage, and determine whether the fault is in the upstream wiring or inside the drive. If the drive's capacitor maintenance life is high or if balanced input power still produces a PF fault, the drive may need factory-level repair or replacement. Do not attempt to open the drive's main power section or replace internal capacitors yourself unless you are factory-trained and the drive is fully discharged and locked out.
 
 **Rough cost:** A pro service call runs about $150-500.
+
+## See Also
+
+- [Yaskawa GA800 E58 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e58-fault-code/)
+- [Yaskawa A1000 oL7 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol7-fault-code/)
+- [Yaskawa GA800 E15 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e15-fault-code/)
+- [Yaskawa A1000 GF Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-gf-fault-code/)

@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable working with 240 V wiring or if you cannot identify which wires belong on which terminal. An electrician or appliance technician can measure the outlet voltage with a multimeter, inspect the terminal block for correct wiring, and verify the home circuit breaker and branch wiring are sound. If the PS code persists after confirming correct wiring and supply voltage, LG states the dryer will need service, which may involve internal control or wiring faults that require part-level diagnosis and replacement by a qualified technician.
 
 **Rough cost:** A pro service call runs about $80–180 (service call to correct wiring or replace power cord).
+
+## See Also
+
+- [LG Microwave DOOR Error - Causes & Fix](/posts/lg-microwave-door-error-code/)
+- [LG Dryer Main Control Board Replacement - Signs & How-To](/posts/lg-dryer-main-control-board-pcb-replacement/)
+- [LG Range F8 Error Code - Causes & Fix](/posts/lg-range-f8-error-code/)
+- [LG Oven Burner Won't Light - Causes & Fix](/posts/lg-oven-burner-wont-light/)

@@ -68,3 +68,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a technician if the hard reset does not restore normal operation, if you see a dE code and the door and lint filter appear fine, or if cleaning the sensors and exhaust does not stop the early shutdown. A pro can meter the door switch, thermal fuse, and moisture sensor assembly for continuity and check control-board signals. LG specifies that the dryer must be connected to a properly grounded 240-volt outlet matching the rating plate, so if you suspect wiring or breaker issues at the panel, have an electrician verify voltage and connections before replacing dryer parts.
+
+## See Also
+
+- [LG Dryer D90 Error Code - Causes & Fix](/posts/lg-dryer-d90-error-code/)
+- [LG Oven F17 Error Code - Causes & Fix](/posts/lg-oven-f17-error-code/)
+- [LG Dryer tE Error Code - Causes & Fix](/posts/lg-dryer-te-error-code/)
+- [LG Dishwasher Smells Bad - Causes & Fix](/posts/lg-dishwasher-smells-bad/)

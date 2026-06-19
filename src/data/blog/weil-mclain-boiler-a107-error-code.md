@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician if you are not comfortable working with 120 V power, gas piping, or boiler controls. A pro should also diagnose the fault if you have already tested the sensor and wiring and both check out, since board-level troubleshooting often requires specialized meters and access to OEM service bulletins. If the A107 code appears alongside other faults, or if your boiler has a sealed combustion system or integrated heat-pump module, professional diagnosis is the safest path to avoid misdiagnosis and wasted parts.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Weil-McLain Boiler A24 Error - Causes & Fix](/posts/weil-mclain-boiler-a24-error-code/)
+- [Weil-McLain A45 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a45-error-code/)
+- [Weil-McLain A74 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a74-error-code/)
+- [Weil-McLain Boiler A87 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a87-error-code/)

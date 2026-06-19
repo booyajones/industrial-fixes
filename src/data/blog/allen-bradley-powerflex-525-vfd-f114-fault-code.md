@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified technician or automation specialist for F114. This fault requires power cycling, controlled testing under load, and potentially replacing the control module or the entire drive. A technician has the correct replacement part numbers for your specific drive catalog number and series, and can verify that cabinet grounding, EMI control, and wiring practices meet Rockwell's standards. If the fault is intermittent, a pro can also log drive diagnostics and compare with a known-good unit to isolate whether the failure is on the control module, the power board, or in the cabinet environment. Do not attempt to open the drive or replace internal components yourself, the drive contains high-voltage DC-bus capacitors that remain charged even after input power is removed.
 
 **Rough cost:** A pro service call runs about $300-800 for control module replacement and testing; full drive replacement if module swap does not resolve.
+
+## See Also
+
+- [Allen-Bradley PowerFlex 525 F127 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f127-fault-code/)
+- [Allen-Bradley PowerFlex F081 Fault — Communication Loss Fix](/posts/allen-bradley-powerflex-f081-fault/)
+- [Allen-Bradley PowerFlex 525 F042 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f042-fault-code/)
+- [Allen-Bradley PowerFlex 525 F071 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f071-fault-code/)

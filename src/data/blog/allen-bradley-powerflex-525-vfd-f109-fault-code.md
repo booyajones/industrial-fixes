@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or automation technician if you are not trained to work on variable frequency drives or if the fault persists after verifying module compatibility. VFDs carry lethal high voltage even after power-down due to capacitor charge, and incorrect module pairing can damage the drive or connected motor. A professional can safely verify part numbers, perform the power reset, restore parameters from backup, and test the drive under load. If repeated module replacements do not resolve F109 or if the drive has suffered internal damage, factory support or a complete drive replacement may be required.
 
 **Rough cost:** A pro service call runs about $200-600 for module replacement and parameter restore, depending on which module is incorrect.
+
+## See Also
+
+- [Allen-Bradley PowerFlex 525 F107 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f107-fault-code/)
+- [Allen-Bradley PowerFlex F063 Fault — Phase Short Fix](/posts/allen-bradley-powerflex-f063-fault/)
+- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
+- [Allen-Bradley PowerFlex 755 Fault Codes — Complete Troubleshooting Guide](/posts/allen-bradley-powerflex-755-fault-codes/)

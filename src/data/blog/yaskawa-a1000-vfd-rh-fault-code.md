@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa-authorized service provider if you are not trained in variable-frequency drive programming and high-voltage DC circuits. The braking circuit operates at DC bus voltage (often 400-800 VDC depending on input), which remains present even after AC input is removed and can be lethal. A technician should also be called if the fault persists after you have corrected decel time, verified wiring, and replaced the braking resistor, since the issue may involve the drive's internal braking transistor, control board, or a complex mismatch between drive capacity and mechanical load that requires inertia calculation and resistor duty-cycle analysis.
 
 **Rough cost:** A pro service call runs about $200-800 parts and service, depending on resistor size and labor.
+
+## See Also
+
+- [Yaskawa GA800 E14 Fault - Causes & Fix](/posts/yaskawa-ga800-e14-fault-code/)
+- [Yaskawa GA800 A.109 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-109-fault-code/)
+- [Yaskawa GA800 A.134 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-134-fault-code/)
+- [Yaskawa GA800 A.101 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-101-fault-code/)

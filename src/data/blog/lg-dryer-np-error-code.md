@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable working with 240 V circuits, if you cannot safely access or measure the wall outlet voltage, or if the nP code persists after you have confirmed proper supply voltage and inspected all cord and terminal connections. Internal faults involving the control board, heater relay, or dryer wiring require disassembly, diagnostic tools, and parts-level troubleshooting that are beyond typical DIY scope. If you see any burn marks, smell burning plastic, or notice heat damage at the outlet or cord, stop using the dryer immediately and call both an electrician to inspect the home circuit and an appliance technician to inspect the dryer. Mixing up 3-wire and 4-wire cords or miswiring the terminal block can create shock and fire hazards, so professional installation is recommended if you are upgrading or replacing the power cord for the first time.
 
 **Rough cost:** DIY runs about $15-50 in parts (power cord or outlet), 15-45 min. A pro service call runs about $100-250 service call plus parts if internal wiring or board involved.
+
+## See Also
+
+- [LG Washer CL Error Code - Causes & Fix](/posts/lg-washer-cl-error-code/)
+- [LG Mini Split Not Heating - Causes & Fix](/posts/lg-mini-split-not-heating/)
+- [LG Microwave F4 Error - Causes & Fix](/posts/lg-microwave-f4-error-code/)
+- [LG Dryer E00 Error Code - Causes & Fix](/posts/lg-dryer-e00-error-code/)

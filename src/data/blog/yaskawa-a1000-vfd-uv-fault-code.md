@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified drive technician or industrial electrician any time you lack the tools to safely measure three-phase power, if you are not comfortable working inside a VFD cabinet energized at line voltage, or if the UV fault persists after you have confirmed good incoming power and retorqued all terminals. Internal repairs involving the control board, power board, or capacitor bank require specialized knowledge, proper discharge procedures, and manufacturer service training to perform safely. A technician will use the drive's own diagnostic parameters, measure DC bus voltage directly, check the precharge contactor operation, and determine whether board-level repair or full drive replacement is the most economical path forward.
 
 **Rough cost:** A pro service call runs about $200-800.
+
+## See Also
+
+- [Yaskawa GA800 A.107 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-107-fault-code/)
+- [Yaskawa GA800 E10 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e10-fault-code/)
+- [Yaskawa GA800 E20 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e20-fault-code/)
+- [Yaskawa GA800 E19 Fault - Causes & Fix](/posts/yaskawa-ga800-e19-fault-code/)

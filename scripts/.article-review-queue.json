@@ -682,5 +682,83 @@
     "score": 3,
     "reason": "The research explicitly states A117 cannot be verified as a real Weil-McLain code in any available documentation; publishing unverified error codes violates technical accuracy standards regardless of how well the troubleshooting advice is hedged.",
     "date": "2026-06-18"
+  },
+  "weil-mclain-boiler-a97-error-code": {
+    "topic": "Weil-McLain boiler A97 error code",
+    "score": 2,
+    "reason": "FAIL: A97 is explicitly NOT a real Weil-McLain error code per the research; publishing content for a non-existent code misleads users and damages site credibility.",
+    "date": "2026-06-19"
+  },
+  "weil-mclain-boiler-a106-error-code": {
+    "topic": "Weil-McLain boiler A106 error code",
+    "score": 3,
+    "reason": "FAIL: A106 is not documented as a real Weil-McLain boiler code in the research; the draft honestly admits this repeatedly but then publishes speculative content anyway, which violates the requirement that codes must be confirmed real for this exact brand+appliance.",
+    "date": "2026-06-19"
+  },
+  "weil-mclain-boiler-a109-error-code": {
+    "topic": "Weil-McLain boiler A109 error code",
+    "score": 3,
+    "reason": "Research explicitly states A109 could not be verified as a real Weil-McLain code from manufacturer materials; draft presents unconfirmed code as real, violating requirement (1).",
+    "date": "2026-06-19"
+  },
+  "weil-mclain-boiler-a120-error-code": {
+    "topic": "Weil-McLain boiler A120 error code",
+    "score": 3,
+    "reason": "Research explicitly states A120 is NOT a universally documented error code for Weil-McLain and cannot verify its meaning from manufacturer sources; draft should not be published as a definitive error code guide when the code itself is unconfirmed.",
+    "date": "2026-06-19"
+  },
+  "weil-mclain-boiler-a121-error-code": {
+    "topic": "Weil-McLain boiler A121 error code",
+    "score": 3,
+    "reason": "Research explicitly states 'I could not verify a manufacturer-published Weil-McLain definition for A121 from the sources provided' yet the draft presents it as a real code with detailed causes/fixes; fails test #1 for documented code existence.",
+    "date": "2026-06-19"
+  },
+  "weil-mclain-boiler-a122-error-code": {
+    "topic": "Weil-McLain boiler A122 error code",
+    "score": 3,
+    "reason": "Code A122 is not documented or confirmed as real in Weil-McLain materials; research explicitly states meaning cannot be verified from manufacturer sources, failing requirement #1.",
+    "date": "2026-06-19"
+  },
+  "weil-mclain-boiler-a125-error-code": {
+    "topic": "Weil-McLain boiler A125 error code",
+    "score": 4,
+    "reason": "Research explicitly states 'Weil-McLain's own FAQ does not decode A125 specifically' and 'the exact code-to-fault mapping should be verified' - the code is NOT documented as real for Weil-McLain boilers in the research provided, only 'most commonly reported' from unverified sources.",
+    "date": "2026-06-19"
+  },
+  "weil-mclain-boiler-a130-error-code": {
+    "topic": "Weil-McLain boiler A130 error code",
+    "score": 3,
+    "reason": "Research explicitly states A130 is NOT verified for Weil-McLain from manufacturer sources; the draft invents causes/fixes without documentation for this specific code on this brand.",
+    "date": "2026-06-19"
+  },
+  "weil-mclain-boiler-a132-error-code": {
+    "topic": "Weil-McLain boiler A132 error code",
+    "score": 4,
+    "reason": "Code A132 is not documented as a real Weil-McLain error code in the research; the draft explicitly admits 'A132 is not explicitly defined' and builds content on speculation about 'A1xx pattern' without confirmation this specific code exists.",
+    "date": "2026-06-19"
+  },
+  "weil-mclain-boiler-a133-error-code": {
+    "topic": "Weil-McLain boiler A133 error code",
+    "score": 3,
+    "reason": "Research explicitly states A133 cannot be verified as a real Weil-McLain code from manufacturer documentation; draft presents unconfirmed code as real without adequate disclaimer that it may not exist.",
+    "date": "2026-06-19"
+  },
+  "weil-mclain-boiler-a137-error-code": {
+    "topic": "Weil-McLain boiler A137 error code",
+    "score": 0,
+    "reason": "FAIL: Research explicitly states A137 cannot be verified as a real Weil-McLain code from manufacturer materials; the draft correctly acknowledges this but should not be published as an error-code article for a non-existent code.",
+    "date": "2026-06-19"
+  },
+  "weil-mclain-boiler-a140-error-code": {
+    "topic": "Weil-McLain boiler A140 error code",
+    "score": 3,
+    "reason": "Research explicitly states A140 cannot be verified from manufacturer sources for Weil-McLain; draft invents possible meanings without confirmation, violating requirement (1) for documented real code.",
+    "date": "2026-06-19"
+  },
+  "weil-mclain-boiler-a142-error-code": {
+    "topic": "Weil-McLain boiler A142 error code",
+    "score": 3,
+    "reason": "Code A142 is NOT verified as a real Weil-McLain boiler code in the research; article correctly admits this but should not be published for an unconfirmed code.",
+    "date": "2026-06-19"
   }
 }

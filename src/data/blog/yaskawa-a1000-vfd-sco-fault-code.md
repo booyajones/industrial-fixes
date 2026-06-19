@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or industrial automation technician immediately. The SC fault indicates a short circuit in high-voltage power electronics or the motor circuit. Diagnosing this fault requires safely discharging the DC bus, measuring IGBT components, and working with three-phase power systems. Incorrect testing can damage the drive further or cause electric shock. If the power module has failed, replacement requires matching the exact drive model, programming drive parameters, and verifying motor compatibility. A technician will isolate whether the fault is in the drive, the motor, or the wiring, and perform the necessary repairs or replacements to restore safe operation.
 
 **Rough cost:** A pro service call runs about $800-2500.
+
+## See Also
+
+- [Yaskawa GA800 E58 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e58-fault-code/)
+- [Yaskawa GA800 E99 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e99-fault-code/)
+- [Yaskawa GA800 E20 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e20-fault-code/)
+- [Yaskawa A1000 PF Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-pf-fault-code/)

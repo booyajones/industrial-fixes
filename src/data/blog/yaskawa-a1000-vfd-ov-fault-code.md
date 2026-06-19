@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or drive technician if you are not trained to work with VFD high-voltage DC bus circuits. The DC bus can hold a lethal charge even after input power is disconnected. If increasing deceleration time and verifying the braking resistor do not clear the fault, or if you suspect failed DC bus capacitors or control board issues, professional diagnostics and repair are required. A technician will have the tools to safely measure DC bus voltage under load, evaluate capacitor ESR, test the braking transistor, and analyze supply power quality.
 
 **Rough cost:** A pro service call runs about $150-500.
+
+## See Also
+
+- [Yaskawa GA800 A.140 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-140-fault-code/)
+- [Yaskawa A1000 CPF03 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf03-fault-code/)
+- [Yaskawa GA800 VFD E60 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e60-fault-code/)
+- [Yaskawa GA800 E11 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e11-fault-code/)

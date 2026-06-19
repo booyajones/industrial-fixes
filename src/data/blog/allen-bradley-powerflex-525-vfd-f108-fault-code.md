@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or controls technician if you are not trained to work safely around three-phase power and VFD terminals. If cleaning the heatsink and verifying the fan does not clear the fault, or if the fault history shows a code other than F008, a technician will need to diagnose whether the control module, power module, or parameter settings are at fault. Any replacement of drive modules or reprogramming of motor parameters should be done by someone familiar with Rockwell VFD installation and commissioning to avoid damaging the drive or connected equipment.
 
 **Rough cost:** A pro service call runs about $150–500 depending on whether the fix is cleaning and a fan or a full drive replacement.
+
+## See Also
+
+- [Allen-Bradley PowerFlex 70 Fault Codes: Complete Guide](/posts/allen-bradley-powerflex-70-faults/)
+- [Allen-Bradley PowerFlex F081 Fault — Communication Loss Fix](/posts/allen-bradley-powerflex-f081-fault/)
+- [Allen-Bradley PowerFlex F007 Fault — Motor Overload Fix](/posts/allen-bradley-powerflex-f007-fault/)
+- [Allen-Bradley PowerFlex 525 F125 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f125-fault-code/)

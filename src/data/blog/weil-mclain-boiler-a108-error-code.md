@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a pro if you are uncomfortable removing the tank top cover, working with electrical connections, or diagnosing the control board. Also call if the condensate line is frozen inside a wall or if local codes require a licensed plumber to modify drain routing. A technician can quickly verify whether the sensor, board, or drain line is at fault and perform any needed replacements under warranty if applicable.
 
 **Rough cost:** DIY runs about $15-40 for sensor or drain cleaning supplies, 30-60 min. A pro service call runs about $150-250 for service call and cleaning.
+
+## See Also
+
+- [Weil-McLain A79 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a79-error-code/)
+- [Weil-McLain Boiler A24 Error - Causes & Fix](/posts/weil-mclain-boiler-a24-error-code/)
+- [Weil-McLain A125 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a125-error-code/)
+- [Weil-McLain A93 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a93-error-code/)
