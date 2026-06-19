@@ -225,12 +225,15 @@ const nextPost =
     // Extract the error code token if title looks like "Brand 12 — ..." or "Brand Error Code 12"
     const codeMatch = cleanTitle.match(/\b([A-Z]{1,3}\s?\d{1,4}|\d{1,4}|E\d+|F\d+|P\d+|H\d+|L\d+)\b/);
     const code = codeMatch?.[1];
+    // Answers grounded in THIS page's real data (cause/part/price/diy) — specific
+    // answers are far stronger AI-citation bait than templated boilerplate.
+    const _cause = most_likely_cause ? most_likely_cause.replace(/\.$/, "").toLowerCase() : "";
     const faqs = [
       { q: `What does ${cleanTitle} mean?`, a: description },
-      { q: `How do I fix ${cleanTitle}?`, a: `Work through the step-by-step fix below. Start with the quick reset and the most common cause, then check the specific part this guide points to. Most fixes need only basic hand tools and the right replacement part.` },
-      { q: `Can I keep using my ${brandName ? brandName + ' ' : ''}appliance with ${code ?? 'this error'} showing?`, a: `Usually not. ${brandName ? brandName + ' appliances' : 'These appliances'} show this error when a part or safety circuit is out of range, so running it can stop the cycle or make the problem worse. Diagnose and clear the error before normal use.` },
-      { q: `What part is most commonly replaced for ${cleanTitle}?`, a: `The parts that most often fix ${cleanTitle} are listed in the parts section of this guide. Match the part to your exact model and serial number before you buy.` },
-      { q: `Is ${cleanTitle} a DIY repair or do I need a technician?`, a: `Many fixes are DIY-friendly with basic tools, such as door switches, drain pumps, water inlet valves, thermostats, heating elements, and filters. Sealed-system, refrigerant, gas, or high-voltage work should go to a licensed technician for safety.` }
+      { q: `How do I fix ${cleanTitle}?`, a: `${_cause ? `Start with the most common cause: ${_cause}. ` : `Start with a power-cycle reset and the most common cause. `}Work through the step-by-step diagnosis in this guide${money_part ? `, and replace the ${money_part.toLowerCase()} only if the checks confirm it has failed.` : `, and confirm the faulty part before replacing anything.`} Most fixes need basic hand tools and the right part.` },
+      { q: `Can I keep running my ${brandName ? brandName + ' ' : ''}equipment with ${code ?? 'this error'} showing?`, a: `Usually not. This error means a part or safety circuit is out of range, so continuing to run it can make the fault worse. Diagnose and clear ${code ?? 'the error'} before returning to normal use.` },
+      { q: `What part is most commonly replaced for ${cleanTitle}?`, a: money_part ? `The ${money_part} is the part that most often resolves ${cleanTitle}${part_price ? ` (typically ${part_price})` : ""}. Match it to your exact model and serial number before ordering, and confirm with the diagnostic checks first.` : `Match the most likely part to your exact model and serial number before ordering; rule out the free checks in this guide first.` },
+      { q: `Is ${cleanTitle} a DIY repair or do I need a technician?`, a: diy_or_pro === "pro" ? `This one should go to a qualified technician — it typically involves sealed-system, refrigerant, high-voltage, or precision work that needs proper tools and training.` : diy_or_pro === "diy" ? `This is usually a DIY-friendly repair with basic hand tools and the right replacement part. Sealed-system, refrigerant, gas, or high-voltage work should still go to a licensed technician.` : `Many of these fixes are DIY-friendly with basic tools, but sealed-system, refrigerant, gas, or high-voltage work should go to a licensed technician for safety.` }
     ];
     return (
       <script type="application/ld+json" is:inline set:html={JSON.stringify({
