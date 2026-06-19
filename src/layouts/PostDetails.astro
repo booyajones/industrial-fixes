@@ -171,6 +171,18 @@ const _heroMatch = title.match(/\b([A-Za-z0-9]{1,6})\s+(?:error|fault)\s+code\b/
 const _heroTok = _heroMatch?.[1];
 const heroCode = _heroTok && (/\d/.test(_heroTok) || /^[A-Z]{1,3}$/.test(_heroTok)) ? _heroTok : null;
 
+// "Disconnect the motor" test: a real, standard VFD diagnostic that ONLY applies
+// to OUTPUT-side faults (overcurrent / short / ground / output phase / IGBT) — it
+// is wrong for input/control faults (undervoltage, comms, overtemp), so it is
+// gated tightly to drive pages whose fault is clearly output-side. This is the
+// exact long-tail competitors (Industrial Monitor Direct) rank for, and it is a
+// verifiable technique, not fabricated code data.
+const _isDrivePage = (tags ?? []).some(t =>
+  ["vfd", "drive", "inverter", "servo", "industrial-controls", "ac-drive"].includes(t.toLowerCase()));
+const _outputFault = /overcurrent|over current|short[\s-]?circuit|ground fault|earth fault|output phase|\bigbt\b|output stage/i
+  .test(`${title} ${most_likely_cause ?? ""}`);
+const showNoLoadTest = _isDrivePage && _outputFault;
+
 const layoutProps = {
   title: `${title} | errorcodefixes.com`,
   author: authorData?.name ?? "Error Code Fixes Editorial Team",
@@ -343,6 +355,23 @@ const nextPost =
         diyOrPro={diy_or_pro}
         code={heroCode ?? undefined}
       />
+    )}
+
+    <!-- "Disconnect the motor" test — only on drive pages with an output-side
+         fault. A real, standard field diagnostic that isolates drive vs motor in
+         2 minutes; the exact long-tail competitors rank for. -->
+    {showNoLoadTest && (
+      <aside class="noload-test" data-pagefind-ignore aria-label="Disconnect-the-motor test">
+        <p class="nlt-label">2-minute test before you order anything</p>
+        <p class="nlt-body">
+          Run the drive with the <strong>motor leads disconnected</strong>. If it still trips
+          {" "}{heroCode ?? "this fault"}, the problem is inside the drive — the output stage or an
+          IGBT module — and the drive needs repair or replacement. If the fault <strong>clears</strong>
+          {" "}with no motor connected, the fault is downstream: the motor windings, the motor cable,
+          or a short to ground. This one test tells you whether to fix the drive or the motor before
+          you spend a dollar.
+        </p>
+      </aside>
     )}
 
     <!-- Internal link to the brand hub for topical authority + more sessions
@@ -576,6 +605,31 @@ const nextPost =
     color: var(--danger);
     background: color-mix(in srgb, var(--danger) 16%, transparent);
   }
+
+  /* "Disconnect the motor" diagnostic — drive output-fault pages only. */
+  .noload-test {
+    margin: 0 0 1.5rem;
+    padding: 0.85rem 1.1rem 0.95rem;
+    background: color-mix(in srgb, var(--brand) 6%, var(--surface));
+    border: 1px solid color-mix(in srgb, var(--brand) 22%, var(--border));
+    border-left: 4px solid var(--brand);
+    border-radius: 12px;
+  }
+  .nlt-label {
+    margin: 0 0 0.35rem;
+    font-size: 0.66rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--brand);
+  }
+  .nlt-body {
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    color: var(--foreground);
+  }
+  .nlt-body strong { font-weight: 700; }
 
   /* Title + copy button */
   .title-copy-wrapper {
