@@ -21,9 +21,14 @@ export const MERCHANTS: Record<string, Merchant> = {
 interface Rule { match: string[]; merchant: Merchant; }
 
 // First matching tag wins (preserves tag order). Order matters: specific before broad.
+// Commissions verified 2026-06-17 (see .planning/affiliate-research-raw): Grainger
+// 5% / RS 5% / Zoro 4% / SupplyHouse ~2% — all payable via Skimlinks today (CJ/Awin),
+// zero signup. RepairClinic via Skimlinks for residential. Parts Town / Galco /
+// AutomationDirect / Mouser / DigiKey have NO affiliate program ($0) — never route
+// buy-intent there. So commercial-refrigeration -> Grainger (5%), not Parts Town ($0).
 const RULES: Rule[] = [
   { match: ["washer", "dryer", "dishwasher", "refrigerator", "oven", "range", "cooktop", "microwave", "freezer", "appliance"], merchant: MERCHANTS.repairclinic },
-  { match: ["commercial-refrigeration", "ice-machine", "ice-maker"], merchant: MERCHANTS.partstown },
+  { match: ["commercial-refrigeration", "ice-machine", "ice-maker"], merchant: MERCHANTS.grainger },
   { match: ["boiler", "water-heater", "tankless", "plumbing"], merchant: MERCHANTS.supplyhouse },
   { match: ["vfd", "cnc", "plc", "industrial-controls", "compressor", "drive", "inverter", "servo", "robot", "ups", "generator", "industrial"], merchant: MERCHANTS.grainger },
   { match: ["hvac", "furnace", "heat-pump", "mini-split", "refrigeration", "ac", "thermostat", "chiller"], merchant: MERCHANTS.supplyhouse },

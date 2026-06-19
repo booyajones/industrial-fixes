@@ -51,7 +51,10 @@ const structuredData = pubDatetime
       headline: `${title}`,
       image: `${socialImageURL}`,
       datePublished: pubDatetime.toISOString(),
-      ...(modDatetime && { dateModified: modDatetime.toISOString() }),
+      // Always emit dateModified (fallback to publish date). Freshness is a
+      // ranking + AI-citation tell in this niche — every top competitor dates
+      // their pages; a missing dateModified reads as stale.
+      dateModified: (modDatetime ?? pubDatetime).toISOString(),
       author: [
         {
           "@type": "Organization",
@@ -59,6 +62,18 @@ const structuredData = pubDatetime
           url: SITE.website,
         },
       ],
+      publisher: {
+        "@type": "Organization",
+        name: SITE.title,
+        url: SITE.website,
+        logo: { "@type": "ImageObject", url: `${SITE.website}/icon.png` },
+      },
+      // Speakable marks the one-sentence answer + title as the AI/voice-
+      // extractable content — tells answer engines THIS is the answer to lift.
+      speakable: {
+        "@type": "SpeakableSpecification",
+        cssSelector: [".quick-answer-text", "h1"],
+      },
     }
   : {
       "@context": "https://schema.org",
