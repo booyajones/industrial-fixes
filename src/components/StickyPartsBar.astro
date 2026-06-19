@@ -3,13 +3,17 @@
 // buying intent peaks. Appears only after they scroll past the diagnostic
 // (earned, not begged), mobile only, routes to the consumer parts leader
 // (RepairClinic) via Skimlinks (no noskim, so it is monetized). One clear CTA.
+import { pickMerchant } from "@/utils/partMerchant";
 interface Props {
   query: string;
   part?: string;
   brand?: string;
+  tags?: readonly string[];
 }
-const { query, part = "", brand = "" } = Astro.props;
-const rcUrl = `https://www.repairclinic.com/Shop-For-Parts?query=${encodeURIComponent(query)}`;
+const { query, part = "", brand = "", tags = [] } = Astro.props;
+// Route to the merchant that stocks this equipment class' parts (industrial ->
+// Grainger, consumer -> RepairClinic). All Skimlinks-monetized.
+const rcUrl = pickMerchant(tags).url(query);
 // Assert the actual part, not a vague "the part you need". Truncate long part
 // names so the bar stays one line on a phone.
 const partLabel = part && part.length > 38 ? part.slice(0, 36).trimEnd() + "…" : part;

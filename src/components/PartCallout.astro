@@ -5,15 +5,21 @@
 // every page that carries a money_part. Skimlinks monetizes the RepairClinic
 // link (no noskim); Amazon stays Associates (noskim). Both carry affiliate-*
 // attributes so the global affiliate_click listener counts them.
+import { pickMerchant } from "@/utils/partMerchant";
 interface Props {
   part: string;
   query: string;
   price?: string;
   brand?: string;
+  tags?: readonly string[];
   pro?: boolean;
 }
-const { part, query, price, brand = "", pro = false } = Astro.props;
-const rc = `https://www.repairclinic.com/Shop-For-Parts?query=${encodeURIComponent(query)}`;
+const { part, query, price, brand = "", tags = [], pro = false } = Astro.props;
+// Route to the merchant that actually stocks this equipment class' parts
+// (industrial -> Grainger, consumer -> RepairClinic, etc.). Skimlinks monetizes
+// all of them. The chatbot extracts THIS link, so fixing it fixes the chat too.
+const merchant = pickMerchant(tags);
+const rc = merchant.url(query);
 const az = `https://www.amazon.com/s?k=${encodeURIComponent(part)}&tag=errorcodefixes-20`;
 ---
 

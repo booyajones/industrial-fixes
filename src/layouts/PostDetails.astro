@@ -383,7 +383,7 @@ const nextPost =
          those out?" link jumps to. -->
     {money_part && (
       <div id="get-the-part">
-        <PartCallout part={money_part} query={partsQuery} price={part_price} brand={tags?.[0] ?? ""} pro={diy_or_pro === "pro"} />
+        <PartCallout part={money_part} query={partsQuery} price={part_price} brand={tags?.[0] ?? ""} tags={tags} pro={diy_or_pro === "pro"} />
       </div>
     )}
 
@@ -395,7 +395,7 @@ const nextPost =
 
     <!-- Sticky mobile "get the part" bar: appears after the reader scrolls into
          the fix, so the affiliate click is earned. Mobile only, self-contained. -->
-    <StickyPartsBar query={partsQuery} part={money_part} brand={tags?.[0] ?? ''} />
+    <StickyPartsBar query={partsQuery} part={money_part} brand={tags?.[0] ?? ''} tags={tags} />
 
     <hr class="my-8 border-dashed" />
 
