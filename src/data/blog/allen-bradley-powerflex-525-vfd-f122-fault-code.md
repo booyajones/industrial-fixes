@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drives technician if you are not familiar with VFD wiring, if the drive is part of a larger automation system where parameter backups and network configuration matter, or if you need to verify that line-voltage disturbances are not causing repeated control faults. A technician will record the fault history, safely power-cycle the drive under lockout procedures, and determine whether your specific frame and catalog number use a replaceable control module or require a full drive swap. High-voltage work and parameter restoration should be handled by someone trained on Allen-Bradley drives.
 
 **Rough cost:** A pro service call runs about $400-1200 depending on frame size and whether you swap the control module or replace the entire drive.
+
+## See Also
+
+- [Allen-Bradley PowerFlex 525 F100 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f100-fault-code/)
+- [Allen-Bradley PowerFlex 525 F125 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f125-fault-code/)
+- [Allen-Bradley PowerFlex 525 F073 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f073-fault-code/)
+- [Allen-Bradley PowerFlex F122 Fault — I/O Board Failure Fix](/posts/allen-bradley-powerflex-f122-fault/)

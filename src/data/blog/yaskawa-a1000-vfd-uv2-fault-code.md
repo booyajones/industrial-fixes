@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Diagnosing and repairing Uv2 on an A1000 involves working inside a live high-voltage cabinet, reading drive parameters, and interpreting three-phase voltage under load. If you are not trained in VFD service and do not have the tools to safely measure line voltage and diagnose control circuits, call a qualified electrician or automation technician. Also call a pro if the fault persists after you have verified incoming power and parameters, because at that point the control board or internal power supply needs replacement and the drive may need factory calibration afterward.
 
 **Rough cost:** A pro service call runs about $200-800 depending on whether it is wiring, a control board, or drive replacement.
+
+## See Also
+
+- [Yaskawa GA800 E25 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e25-fault-code/)
+- [Yaskawa GA800 E88 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e88-fault-code/)
+- [Yaskawa V1000 OC Fault — Overcurrent](/posts/yaskawa-v1000-fault-oc/)
+- [Yaskawa A1000 CPF03 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf03-fault-code/)

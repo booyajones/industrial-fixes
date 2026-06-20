@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician immediately if you cannot find A114 in your boiler's service manual, if the code returns after a single reset, or if you are uncomfortable working with gas appliances. Boiler diagnostics require model-specific knowledge, pressure gauges, multimeters, and sometimes a combustion analyzer. Incorrect troubleshooting can lead to carbon monoxide hazards, gas leaks, or damage to the control board and heat exchanger. A qualified technician will have access to manufacturer technical support, updated fault code databases, and the training to safely test gas valves, flame sensors, and ignition circuits. Do not attempt to bypass safety controls or repeatedly reset a lockout code without understanding the underlying fault.
 
 **Rough cost:** A pro service call runs about $200-450.
+
+## See Also
+
+- [Weil-McLain A44 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a44-error-code/)
+- [Weil-McLain A118 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a118-error-code/)
+- [Weil-McLain ECG Boiler Error Codes — Complete Fault Guide](/posts/weil-mclain-ecg-error-codes/)
+- [Weil-McLain Boiler A109 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a109-error-code/)

@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa-authorized service provider if you cannot confirm the exact meaning of A.107 from your manual, if the fault reappears after wiring corrections, or if you lack lockout-tagout training for industrial motor-drive systems. Communication troubleshooting often requires protocol analyzers, network configuration tools, and access to Yaskawa Drive Wizard software. A technician will verify option-card firmware, check parameter settings for baud rate and node address, and test signal integrity with proper instruments before replacing hardware.
 
 **Rough cost:** A pro service call runs about $150-400 for wiring repair or option card replacement.
+
+## See Also
+
+- [Yaskawa V1000 Complete Fault Code Guide — All Faults and Fixes](/posts/yaskawa-v1000-complete-guide/)
+- [Yaskawa A1000 FbL Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-fbl-fault-code/)
+- [Yaskawa GA800 VFD E54 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e54-fault-code/)
+- [Yaskawa GA800 A.120 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-120-fault-code/)

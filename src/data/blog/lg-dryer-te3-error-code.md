@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working inside the dryer cabinet, if you have tested the thermistor and wiring and both check good but the code persists (pointing to a control board fault), or if the dryer uses gas and you smell gas at any point. A qualified technician has the meter, wiring diagrams, and board-level diagnostic tools to isolate whether the problem is truly the sensor circuit or a fault in the control board's input stage. Professionals can also verify that airflow, gas valve operation (on gas models), and high-limit thermostats are all functioning correctly so you do not replace parts unnecessarily.
 
 **Rough cost:** DIY runs about $15-40 for thermistor, 30-60 min. A pro service call runs about $150-250 service call with thermistor replacement.
+
+## See Also
+
+- [LG Washer E21 Error Code - Causes & Fix](/posts/lg-washer-e21-error-code/)
+- [LG Dishwasher bE Error Code - Causes & Fix](/posts/lg-dishwasher-be-error-code/)
+- [LG Range E0 Error Code - Causes & Fix](/posts/lg-range-e0-error-code/)
+- [LG Microwave Runs but No Heat - Causes & Fix](/posts/lg-microwave-runs-but-no-heat/)

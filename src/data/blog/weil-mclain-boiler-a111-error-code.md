@@ -81,3 +81,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician whenever you see an A111 or similar fault code on a Weil-McLain boiler. The diagnostic path involves measuring gas pressure, testing flame-proving circuits, and working with 120 V control wiring, all of which require gas-appliance certification and proper combustion-analysis tools. Even if you are comfortable with basic electrical work, the consequences of misadjusting gas pressure, venting, or flame-sensor alignment include carbon-monoxide hazards, equipment damage, and voided warranties. A qualified tech will identify whether the fault stems from ignition, flame-sensing, or temperature-sensor feedback, perform the correct tests in sequence, and replace only the component that has actually failed.
 
 **Rough cost:** A pro service call runs about $150–300.
+
+## See Also
+
+- [Weil-McLain Boiler A55 Error - Causes & Fix](/posts/weil-mclain-boiler-a55-error-code/)
+- [Weil-McLain E06 Error Code — Ignition Lockout](/posts/weil-mclain-e06-error-code/)
+- [Weil-McLain A162 Error - Causes & Fix](/posts/weil-mclain-boiler-a162-error-code/)
+- [Weil-McLain A44 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a44-error-code/)

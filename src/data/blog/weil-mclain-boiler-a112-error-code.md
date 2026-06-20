@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed technician if you are uncomfortable working with gas appliances, if the flame sensor cleaning and vent inspection do not resolve the lockout, or if you lack a manometer to measure gas pressure. A professional should handle any gas valve replacement, control board diagnostics, or combustion analysis. Intermittent flame loss can also indicate heat exchanger cracks or blocked flue passages that require a thorough inspection and combustion testing to diagnose safely.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [Weil-McLain Boiler A149 Error - Causes & Fix](/posts/weil-mclain-boiler-a149-error-code/)
+- [Weil-McLain A74 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a74-error-code/)
+- [Weil-McLain Boiler A152 Error - Causes & Fix](/posts/weil-mclain-boiler-a152-error-code/)
+- [Weil-McLain A121 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a121-error-code/)

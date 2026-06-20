@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a licensed heating contractor immediately if the boiler will not ignite, if you smell gas, or if the system pressure exceeds 25 PSI. Even if the boiler runs, a professional should diagnose any persistent fault code because Weil-McLain boilers integrate gas controls, high-voltage ignition, and pressure-relief systems that require trained service. The technician can retrieve the full fault history from the control board, measure flame signal and gas pressure, and test sensor resistance and voltages against the factory specifications in the service manual. Attempting these checks without the correct tools and training risks personal injury, equipment damage, and voiding your warranty.
 
 **Rough cost:** A pro service call runs about $150-400 depending on the actual fault and required parts.
+
+## See Also
+
+- [Weil-McLain Boiler A20 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a20-error-code/)
+- [Weil-McLain Boiler A109 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a109-error-code/)
+- [Weil-McLain A161 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a161-error-code/)
+- [Weil-McLain Boiler A64 Error - Causes & Fix](/posts/weil-mclain-boiler-a64-error-code/)

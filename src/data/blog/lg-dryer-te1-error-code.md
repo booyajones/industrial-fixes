@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a technician if you are not comfortable working with a multimeter, accessing internal components, or interpreting resistance readings. Also call if the thermistor and all wiring test normal but the code returns after every reset, since that points to a main control board fault that requires part-number matching and proper installation. If the dryer shares a 240-volt circuit with other appliances and you are unsure how to safely disconnect power, a service call is the safer choice. Professional diagnosis typically includes a full vent inspection, sensor testing, and board-level troubleshooting in one visit.
 
 **Rough cost:** DIY runs about $15–40 for thermistor, 30–60 min. A pro service call runs about $120–250 including service call and sensor.
+
+## See Also
+
+- [LG Washer Won't Start - Causes & Fix](/posts/lg-washer-wont-start/)
+- [LG Washer tE Error Code - Causes & Fix](/posts/lg-washer-te-error-code/)
+- [LG Washer Shock Absorber / Suspension Rod Replacement](/posts/lg-washer-shock-absorber-suspension-rod-kit-replacement/)
+- [LG EID Error Code - Causes & Fix](/posts/lg-refrigerator-eid-error-code/)

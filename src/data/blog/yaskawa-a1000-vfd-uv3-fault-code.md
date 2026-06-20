@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician immediately. Uv3 is an internal power-stage fault that requires working inside a high-voltage variable-frequency drive. The DC bus can hold lethal voltage even after input power is removed. Incorrect handling can destroy the new power board, create an arc-flash hazard, or leave the drive in an unsafe state. A technician will safely discharge the bus, verify the relay-life monitor, inspect the power board under proper lockout, and install the correct replacement board or drive for your horsepower and voltage. If your facility does not have a qualified drive repair shop on staff, contact a Yaskawa authorized service center or an experienced motor-control integrator.
 
 **Rough cost:** A pro service call runs about $800-2500 for power board replacement or complete drive swap, 1-3 hours labor.
+
+## See Also
+
+- [Yaskawa GA800 E92 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e92-fault-code/)
+- [Yaskawa GA800 E32 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e32-fault-code/)
+- [Yaskawa GA800 VFD A.126 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-126-fault-code/)
+- [Yaskawa GA800 E26 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e26-fault-code/)

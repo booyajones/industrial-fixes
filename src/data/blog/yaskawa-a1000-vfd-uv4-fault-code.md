@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified technician or industrial electrician for all Uv4 diagnostics and repair. The work requires opening the drive enclosure, which exposes high-voltage DC bus capacitors and power circuits. Even after the drive is powered down, capacitors can hold a lethal charge for several minutes. A technician will follow lockout-tagout procedures, discharge capacitors safely, and use proper test equipment to isolate the failed board. Replacing the gate drive board or main power board also requires knowledge of the drive architecture and proper ESD handling. Incorrect installation can destroy the new board or cause a fault at startup. Only attempt this repair if you are trained on high-voltage VFD service.
 
 **Rough cost:** A pro service call runs about $400-900.
+
+## See Also
+
+- [Yaskawa GA800 A.121 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-121-fault-code/)
+- [Yaskawa GA800 E19 Fault - Causes & Fix](/posts/yaskawa-ga800-e19-fault-code/)
+- [Yaskawa GA800 E65 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e65-fault-code/)
+- [Yaskawa VFD Fault GF — Causes & Fix](/posts/yaskawa-vfd-fault-gf/)

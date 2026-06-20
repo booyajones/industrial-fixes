@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working with 240-volt electrical connections, cannot locate the thermistor on your model, or if the code persists after you have confirmed good airflow, tested the thermistor in-spec, and inspected all wiring. A qualified appliance technician can perform model-specific resistance checks, trace harness faults with advanced test equipment, and safely replace the control board if needed. Also call for help if the dryer is still under warranty or if you suspect a gas leak (on gas models).
 
 **Rough cost:** DIY runs about $15-50 for a thermistor, 30-60 min. A pro service call runs about $150-250 for diagnosis and repair.
+
+## See Also
+
+- [LG MVEL2033F Microwave Problems & Error Codes](/posts/lg-mvel2033f-microwave-problems/)
+- [LG Mini-Split CH27 Error Code - Causes & Fix](/posts/lg-mini-split-ch27-error-code/)
+- [LG Refrigerator FS Error Code - Causes & Fix](/posts/lg-refrigerator-fs-error-code/)
+- [LG Microwave Making Loud Noise - Causes & Fix](/posts/lg-microwave-making-loud-noise/)

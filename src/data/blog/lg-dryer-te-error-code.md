@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a technician if you are uncomfortable working with 240-volt appliances, if the thermistor and wiring both test good but the code persists (indicating a control-board fault that requires board-level diagnosis), or if you lack a multimeter and cannot verify sensor resistance. A pro can quickly test the thermistor in-circuit, check the control board's input voltage and signal continuity, and replace the correct part the first time. Professional service is also wise if the dryer has had repeated tE codes, water damage, or other intermittent faults that suggest a larger electrical issue.
 
 **Rough cost:** DIY runs about $15–40 in parts, 30–60 min. A pro service call runs about $150–250.
+
+## See Also
+
+- [LG Washer Shock Absorber / Suspension Rod Replacement](/posts/lg-washer-shock-absorber-suspension-rod-kit-replacement/)
+- [LG Range FE Error Code - Causes & Fix](/posts/lg-range-fe-error-code/)
+- [LG Microwave F4 Error - Causes & Fix](/posts/lg-microwave-f4-error-code/)
+- [LG Mini Split Making Noise - Causes & Fix](/posts/lg-mini-split-making-noise/)

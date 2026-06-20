@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician immediately if you smell gas, if the boiler vents into living space, or if you are unfamiliar with gas appliances. Gas-valve replacement, control-board diagnostics with advanced metering, and combustion testing require professional tools and certification. A technician can decode model-specific fault codes through the contractor menu, measure combustion efficiency, verify proper venting and condensate drainage, and test electrical components safely. If you have already performed the free checks and the fault persists, professional diagnosis will save time and prevent expensive misdiagnosis.
 
 **Rough cost:** A pro service call runs about $150–400.
+
+## See Also
+
+- [Weil-McLain A126 Error - Causes & Fix](/posts/weil-mclain-boiler-a126-error-code/)
+- [Weil-McLain A151 Error - Causes & Fix](/posts/weil-mclain-boiler-a151-error-code/)
+- [Weil-McLain A71 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a71-error-code/)
+- [Weil-McLain Boiler A149 Error - Causes & Fix](/posts/weil-mclain-boiler-a149-error-code/)

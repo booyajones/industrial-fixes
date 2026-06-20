@@ -48,3 +48,10 @@ F0085 on a Siemens Micromaster 420 or 440 VFD indicates an External Fault. The d
 ## When to Call a Pro
 
 Call a qualified electrician, controls technician, or Siemens-authorized service provider if you cannot identify which terminal is assigned to external fault, if the wiring diagram is missing, if the fault persists after verifying and correcting the external circuit, or if you are unfamiliar with VFD parameter programming and safe lockout procedures. External-fault circuits often tie into machine safety systems, so any work must comply with electrical codes and occupational safety requirements for your facility.
+
+## See Also
+
+- [Siemens Micromaster F0024 - Causes & Fix](/posts/siemens-micromaster-vfd-f0024-fault-code/)
+- [Siemens G120 F0005 Fault - Causes & Fix](/posts/siemens-g120-vfd-f0005-fault-code/)
+- [Siemens Micromaster F0060 - Causes & Fix](/posts/siemens-micromaster-f0060-fault-code/)
+- [Siemens G120 F01250 Fault Code - Causes & Fix](/posts/siemens-g120-f01250-fault-code/)
