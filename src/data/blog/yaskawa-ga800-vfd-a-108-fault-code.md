@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or Yaskawa-certified technician if the A.108 alarm persists after you have checked external wiring, verified safety-loop continuity, and confirmed parameter settings. High-voltage work inside the drive enclosure, control-board replacement, and firmware troubleshooting all require proper lockout, insulated tools, and factory training. If the alarm returns immediately after a reset or if you cannot locate A.108 in your manual, contact Yaskawa technical support for the authoritative definition and repair procedure. Do not attempt to bypass safety interlocks or modify internal circuits, because doing so will void the warranty and create shock and arc-flash hazards.
 
 **Rough cost:** A pro service call runs about $200–600.
+
+## See Also
+
+- [Yaskawa GA800 E95 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e95-fault-code/)
+- [Yaskawa GA800 E14 Fault - Causes & Fix](/posts/yaskawa-ga800-e14-fault-code/)
+- [Yaskawa GA800 E23 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e23-fault-code/)
+- [Yaskawa GA800 E13 Error - Causes & Fix](/posts/yaskawa-ga800-vfd-e13-fault-code/)

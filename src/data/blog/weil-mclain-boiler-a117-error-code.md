@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified heating technician immediately if you cannot find the A117 code in your model's manual, if the boiler is locked out and will not reset, or if you are not comfortable working with gas appliances. A technician can pull the fault history, test gas pressure, verify combustion air and venting, and safely diagnose ignition or control faults. Weil-McLain recommends that all service and warranty work be performed by a qualified installer or service technician, and any work involving gas supply, venting, or sealed combustion components requires professional training and tools to complete safely.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A181 Error - Causes & Fix](/posts/weil-mclain-boiler-a181-error-code/)
+- [Weil-McLain Boiler A119 Error - Causes & Fix](/posts/weil-mclain-boiler-a119-error-code/)
+- [Weil-McLain A172 Error - Causes & Fix](/posts/weil-mclain-boiler-a172-error-code/)
+- [Weil-McLain A94 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a94-error-code/)

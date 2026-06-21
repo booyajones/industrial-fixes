@@ -71,3 +71,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 If you are not comfortable removing panels, testing electrical continuity, or handling the motor and control board, call a qualified appliance technician. Drive belt replacement is straightforward for many DIYers, but diagnosing a failed microswitch, motor, or control board requires test equipment and experience with LG's wiring. If the dryer is still under warranty or you cannot identify the failed component after inspecting the belt and motor, professional service is the best path forward.
+
+## See Also
+
+- [LG Dishwasher Turbidity Sensor Replacement - Signs & How-To](/posts/lg-dishwasher-turbidity-wash-sensor-replacement/)
+- [LG Dishwasher Error IE — Water Inlet Fix](/posts/lg-dishwasher-error-ie/)
+- [LG Dishwasher HE Error Code - Causes & Fix](/posts/lg-dishwasher-he-error-code/)
+- [LG Oven Door Won't Lock - Causes & Fix](/posts/lg-oven-door-wont-lock/)

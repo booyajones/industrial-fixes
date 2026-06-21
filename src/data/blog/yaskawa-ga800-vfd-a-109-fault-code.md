@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or drive technician if you are not trained to work on three-phase VFDs or if the alarm persists after you have verified cable integrity and option-card seating. Communication faults can cascade into nuisance trips or unsafe run conditions if network commands are lost. A technician will use a network analyzer or protocol sniffer to capture data packets, verify signal integrity, and check for noise or ground-loop issues that a basic multimeter cannot detect. Professional support is also required if the option card or main control board needs replacement, since those components must be configured and tested on a live three-phase system. Always lock out and tag out before any hands-on work, and consult the GA800 manual or Yaskawa technical support for the exact definition of A.109 on your specific drive model and firmware revision.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Yaskawa VFD Fault UV1 — Causes & Fix](/posts/yaskawa-vfd-fault-uv1/)
+- [Yaskawa GA800 E12 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e12-fault-code/)
+- [Yaskawa GA800 E41 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e41-fault-code/)
+- [Yaskawa GA800 E37 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e37-fault-code/)

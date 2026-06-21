@@ -67,3 +67,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a technician if the reset procedure and door-switch checks do not resolve the problem, or if you are uncomfortable working with the 240 V power supply that feeds most LG dryers. Control-board diagnosis and replacement require safe disassembly of live circuits, and a misdiagnosis can lead to expensive unnecessary parts. Professional service is also recommended if you find evidence of arcing, melted connectors, or repeated board failures, since those symptoms often indicate a larger electrical fault in the home circuit or dryer wiring harness.
+
+## See Also
+
+- [LG Range E2 Error Code - Causes & Fix](/posts/lg-range-e2-error-code/)
+- [LG Refrigerator Light Not Working - Causes & Fix](/posts/lg-refrigerator-light-not-working/)
+- [LG WM3500CW Washer Problems & Error Codes](/posts/lg-wm3500cw-washer-problems/)
+- [LG Washer Drain Pump Replacement - Signs & How-To](/posts/lg-washer-drain-pump-replacement/)

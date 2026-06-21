@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or drive technician if you are not familiar with VFD parameter programming, control wiring, or the use of a multimeter to measure analog signals. The GA800 requires careful matching of parameters, terminal wiring, and control board settings, and incorrect configuration can prevent the motor from running or cause unsafe operation. A technician will verify the command and reference sources, check the wiring against the connection diagram, confirm the DIP switch settings, and test the analog input circuit with proper instrumentation. If the drive or control board is damaged, the technician can also coordinate replacement parts and programming with Yaskawa or an authorized distributor.
 
 **Rough cost:** A pro service call runs about $150–400.
+
+## See Also
+
+- [Yaskawa GA800 E42 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e42-fault-code/)
+- [Yaskawa GA800 E67 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e67-fault-code/)
+- [Yaskawa A1000 CPF12 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf12-fault-code/)
+- [Yaskawa GA800 E01 Fault - Motor Data Error During Auto-Tune](/posts/yaskawa-ga800-e01-fault-code/)

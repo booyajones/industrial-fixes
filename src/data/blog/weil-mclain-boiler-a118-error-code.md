@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician immediately if you cannot locate the service manual for your exact model, if the fault-history menu does not list A118, or if you are unsure which control platform is installed. Also call a pro if you have inspected wiring and sensors but the fault returns after reset, if you lack a multimeter and the skill to test sensor resistance safely, or if the boiler shows any other symptom such as lockout, flame failure, or unusual noises. Gas-fired boiler work requires proper combustion analysis and safety checks that are beyond DIY scope. Never repeatedly reset a recurring fault without diagnosing the root cause, because some faults protect against dangerous conditions like overheating or gas-valve failure.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A36 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a36-error-code/)
+- [Weil-McLain A146 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a146-error-code/)
+- [Weil-McLain A85 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a85-error-code/)
+- [Weil-McLain Boiler A149 Error - Causes & Fix](/posts/weil-mclain-boiler-a149-error-code/)

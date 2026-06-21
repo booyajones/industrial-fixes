@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician whenever you cannot identify your boiler model, cannot access the diagnostic menu, or retrieve a code you cannot cross-reference in your manual. Gas-fired boiler work requires combustion testing, gas-pressure measurement, and venting inspection that only a qualified technician should perform. If you replace a sensor or pump and the lockout recurs, the control board or a second fault may be involved, and further diagnosis with specialized tools is needed to avoid replacing parts by trial and error.
 
 **Rough cost:** A pro service call runs about $150–400.
+
+## See Also
+
+- [Weil-McLain A131 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a131-error-code/)
+- [Weil-McLain A36 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a36-error-code/)
+- [Weil-McLain Boiler A166 Error - Causes & Fix](/posts/weil-mclain-boiler-a166-error-code/)
+- [Weil-McLain Boiler A53 Error - Causes & Fix](/posts/weil-mclain-boiler-a53-error-code/)

@@ -808,5 +808,41 @@
     "score": 3,
     "reason": "Research explicitly states A170 is NOT documented as a real universal Weil-McLain code; draft invents content around an unverified code, violating requirement #1.",
     "date": "2026-06-20"
+  },
+  "weil-mclain-boiler-a167-error-code": {
+    "topic": "Weil-McLain boiler A167 error code",
+    "score": 3,
+    "reason": "The research explicitly states 'I cannot verify the exact A167 mapping from the manufacturer documents' and treats it as unconfirmed/model-dependent, yet the draft presents A167 as a documented real code with definitive meaning\u2014fails verification requirement.",
+    "date": "2026-06-21"
+  },
+  "weil-mclain-boiler-a173-error-code": {
+    "topic": "Weil-McLain boiler A173 error code",
+    "score": 3,
+    "reason": "Research explicitly states A173 is NOT a documented/verified standard Weil-McLain code; draft invents meaning and causes without manufacturer confirmation.",
+    "date": "2026-06-21"
+  },
+  "weil-mclain-boiler-a174-error-code": {
+    "topic": "Weil-McLain boiler A174 error code",
+    "score": 3,
+    "reason": "Research explicitly states A174 is NOT confirmed/documented as a real Weil-McLain code with universal meaning; draft treats unverified indexed entry as if it were a real error code.",
+    "date": "2026-06-21"
+  },
+  "weil-mclain-boiler-a175-error-code": {
+    "topic": "Weil-McLain boiler A175 error code",
+    "score": 3,
+    "reason": "Research explicitly states A175 cannot be verified as a real Weil-McLain code from manufacturer documentation; draft invents detailed troubleshooting for an unconfirmed code that may not exist.",
+    "date": "2026-06-21"
+  },
+  "weil-mclain-boiler-a181-error-code": {
+    "topic": "Weil-McLain boiler A181 error code",
+    "score": 3,
+    "reason": "The research explicitly states 'I could **not confirm** a manufacturer-published definition for **A181**'\u2014this code is unverified for Weil-McLain, so the draft fabricates content around a non-existent code.",
+    "date": "2026-06-21"
+  },
+  "weil-mclain-boiler-a182-error-code": {
+    "topic": "Weil-McLain boiler A182 error code",
+    "score": 3,
+    "reason": "Code A182 is not verified as a real Weil-McLain boiler code in the research; the draft correctly acknowledges this but should not be published without confirmed code existence for this brand/appliance.",
+    "date": "2026-06-21"
   }
 }

@@ -42,3 +42,10 @@ The LG LAN120HSV5 is a ductless mini split air conditioner that relies on invert
 ## When to Call a Pro
 
 Call a licensed HVAC technician for any CH error code that does not clear after a full power cycle, for any compressor or inverter diagnostics requiring measurement of phase-to-phase resistance or insulation resistance, and for refrigerant leak repair or system recharge. Inverter PCB and compressor replacement both require refrigerant recovery, vacuum, and proper brazing, and the outdoor unit must be electrically isolated and tested with a megohmmeter and multimeter to identify the root cause of overcurrent faults. Supply voltage issues at the breaker panel and any work inside the outdoor unit electrical compartment should be handled by a qualified technician.
+
+## See Also
+
+- [LG Range F9 Error Code - Causes & Fix](/posts/lg-range-e9-error-code/)
+- [LG Washer Won't Start - Causes & Fix](/posts/lg-washer-wont-start/)
+- [LG Washer LE Error Code - Causes & Fix](/posts/lg-washer-le-error-code/)
+- [LG Dishwasher Won't Latch - Causes & Fix](/posts/lg-dishwasher-wont-latch/)

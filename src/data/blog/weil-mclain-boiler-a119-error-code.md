@@ -70,3 +70,10 @@ Answer these to narrow it down fast.
 Call a licensed heating professional immediately if your Weil-McLain boiler displays A119 and you cannot find that code in your manual. Boilers involve gas, high-voltage ignition, and safety controls that require proper diagnostics and code compliance. A technician will use the correct service documentation for your model and control platform to decode the fault, test the affected circuit, and replace the failed component safely. Do not attempt to bypass safety limits or replace parts by guessing. Weil-McLain's warranty and parts-lookup systems depend on accurate model identification and failed-part documentation, so a qualified contractor is the fastest and safest route to a reliable repair.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Weil-McLain A18 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a18-error-code/)
+- [Weil-McLain A125 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a125-error-code/)
+- [Weil-McLain Boiler A55 Error - Causes & Fix](/posts/weil-mclain-boiler-a55-error-code/)
+- [Weil-McLain Boiler A78 Error - Causes & Fix](/posts/weil-mclain-boiler-a78-error-code/)

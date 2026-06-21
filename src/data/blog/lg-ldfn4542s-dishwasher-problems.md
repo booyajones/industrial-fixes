@@ -61,3 +61,10 @@ These codes apply to this model line:
 ## When to Call a Pro
 
 Call a tech if IE or OE codes persist after you have verified supply and drain paths are clear, if the unit trips AE/E1 repeatedly after drying and you cannot locate the leak source, or if you are not comfortable working with 120V wiring to test or replace the inlet valve, drain pump, or door latch assembly. Any internal leak that you cannot trace to the door gasket or a loose hose clamp inside the tub usually requires a technician to pull panels and pressure-test the sump and recirculation system. If the control board is not responding to input or the unit will not power on at all, that is also a service-level diagnosis.
+
+## See Also
+
+- [LG Range F5 Error Code - Causes & Fix](/posts/lg-range-f5-error-code/)
+- [LG Mini-Split CH27 Error Code - Causes & Fix](/posts/lg-mini-split-ch27-error-code/)
+- [LG Mini Split CH33 Error Code - Causes & Fix](/posts/lg-mini-split-ch33-error-code/)
+- [LG Refrigerator CO Error Code - Causes & Fix](/posts/lg-refrigerator-co-error-code/)

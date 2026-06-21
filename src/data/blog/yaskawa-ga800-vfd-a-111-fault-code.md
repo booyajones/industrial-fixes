@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or controls technician if you are not trained in high-voltage lockout/tagout, if you lack a megohmmeter or insulation tester, or if the fault persists after verifying all external wiring and motor integrity. Drive output-stage failures require factory-authorized service or replacement. Yaskawa's maintenance documentation notes that field repair beyond fan and control-board replacement is not covered in standard guides, so drive internal faults should be handled by technical support or an authorized service center. Always confirm the drive catalog code on the nameplate matches your application before troubleshooting, and inspect for shipping or installation damage if the system is new.
 
 **Rough cost:** A pro service call runs about $200-600.
+
+## See Also
+
+- [Yaskawa A1000 VFD oL Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol-fault-code/)
+- [Yaskawa GA800 E19 Fault - Causes & Fix](/posts/yaskawa-ga800-e19-fault-code/)
+- [Yaskawa GA800 E78 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e78-fault-code/)
+- [Yaskawa GA800 E81 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e81-fault-code/)
