@@ -24,16 +24,32 @@ const meaningful = (t: string[]) =>
   t.map(x => x.toLowerCase()).filter(x => !UBIQUITOUS.has(x));
 const myTags = new Set(meaningful(tags));
 
+// Same-drive/model siblings share a long leading slug prefix (e.g. both start
+// "abb-acs880-..." or "samsung-dishwasher-..."). Boost them so the cluster is
+// the tightest topical neighbors — sibling fault codes on the SAME model — not
+// just any same-brand page. Pure navigation/relevance, no content claims.
+const segs = (s: string) => s.toLowerCase().split("-");
+const mySegs = segs(currentSlug);
+const prefixScore = (id: string) => {
+  const o = segs(id);
+  let n = 0;
+  while (n < mySegs.length && n < o.length && mySegs[n] === o[n]) n++;
+  return n; // shared leading segments: brand=1, brand+model=2-3, ...
+};
+
 const related = allPosts
   .filter(post => post.id !== currentSlug && !post.data.draft)
   .map(post => {
     const overlap = meaningful(post.data.tags).filter(t => myTags.has(t)).length;
-    return { post, overlap };
+    const prefix = prefixScore(post.id);
+    return { post, overlap, prefix };
   })
-  .filter(r => r.overlap > 0)
+  // Keep a tag-overlap match OR a tight same-model sibling (>=2 shared segments).
+  .filter(r => r.overlap > 0 || r.prefix >= 2)
   .sort(
     (a, b) =>
-      b.overlap - a.overlap ||
+      (b.overlap + b.prefix) - (a.overlap + a.prefix) || // combined relevance
+      b.prefix - a.prefix ||                              // then tighter cluster
       new Date(b.post.data.pubDatetime).getTime() -
         new Date(a.post.data.pubDatetime).getTime()
   )
