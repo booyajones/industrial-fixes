@@ -18,14 +18,16 @@ WHAT YOU NEED FIRST (2 minutes in the Google Cloud Console, one time):
      Application type = "Desktop app" > Create. Copy the Client ID + Client secret.
 
 THEN RUN THIS:
-    python scripts/youtube-oauth-setup.py --id <CLIENT_ID> --secret <CLIENT_SECRET>
-  (or set YOUTUBE_CLIENT_ID / YOUTUBE_CLIENT_SECRET in the env and run with no args)
+    python scripts/youtube-oauth-setup.py --id <CLIENT_ID>
+  You'll be prompted for the client secret (hidden input) so it never lands in
+  your shell history or the process list. (Or set YOUTUBE_CLIENT_ID /
+  YOUTUBE_CLIENT_SECRET in the env and run with no args.)
 
 A browser opens, you click "Allow" on YOUR channel, and this prints +
 appends all three YOUTUBE_* values to the master .env. That's it — the
 uploader is then fully autonomous.
 
-This uses a loopback redirect (http://localhost:PORT) so there is NO code to
+This uses a loopback redirect (http://127.0.0.1:PORT) so there is NO code to
 copy/paste — the consent round-trips automatically.
 """
 
@@ -92,19 +94,28 @@ def _free_port() -> int:
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--id", default=os.environ.get("YOUTUBE_CLIENT_ID", ""))
-    ap.add_argument("--secret", default=os.environ.get("YOUTUBE_CLIENT_SECRET", ""))
+    ap.add_argument("--secret", default=os.environ.get("YOUTUBE_CLIENT_SECRET", ""),
+                    help="Client secret. Omit to be prompted (keeps it out of argv / shell history).")
     args = ap.parse_args()
 
-    if not args.id or not args.secret:
-        print("ERROR: need a Client ID and Client secret.\n"
+    if not args.id:
+        print("ERROR: need a Client ID.\n"
               "       Create a 'Desktop app' OAuth client (see the steps at the top\n"
               "       of this file), then run:\n"
-              "         python scripts/youtube-oauth-setup.py --id <ID> --secret <SECRET>",
+              "         python scripts/youtube-oauth-setup.py --id <ID>\n"
+              "       (you'll be prompted for the secret).",
               file=sys.stderr)
         return 2
 
+    if not args.secret:
+        import getpass
+        args.secret = getpass.getpass("Client secret (input hidden): ").strip()
+    if not args.secret:
+        print("ERROR: no client secret provided.", file=sys.stderr)
+        return 2
+
     port = _free_port()
-    redirect = f"http://localhost:{port}"
+    redirect = f"http://127.0.0.1:{port}"
     _Catch.state = secrets.token_urlsafe(16)
 
     httpd = http.server.HTTPServer(("127.0.0.1", port), _Catch)
