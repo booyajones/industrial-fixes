@@ -1,0 +1,22 @@
+---
+// Standalone embeddable fault-code lookup. Bare page (no site chrome) so other
+// sites can drop it in an <iframe>. Every result + the credit link back to
+// errorcodefixes.com — that's the earned backlink + referral this asset exists for.
+import FaultCodeLookup from "@/components/FaultCodeLookup.astro";
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Error / Fault Code Lookup — errorcodefixes.com</title>
+    <meta name="robots" content="noindex, follow" />
+    <style>
+      html, body { margin: 0; padding: 0; background: transparent; }
+      body { padding: 14px; }
+    </style>
+  </head>
+  <body>
+    <FaultCodeLookup embed={true} />
+  </body>
+</html>

@@ -1,0 +1,43 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import FaultCodeLookup from "@/components/FaultCodeLookup.astro";
+import { SITE } from "@/config";
+
+const embedSnippet = `<iframe src="https://errorcodefixes.com/embed/lookup" title="Error / fault code lookup" width="100%" height="420" style="border:1px solid #e4e2db;border-radius:12px;max-width:580px" loading="lazy"></iframe>`;
+---
+
+<Layout
+  title="Error & Fault Code Lookup Tool | errorcodefixes.com"
+  description="Free instant lookup for industrial, HVAC, and appliance error and fault codes. Type a brand and code (ABB 2310, Vacon F1, Hoshizaki E2) and jump straight to the fix guide. Free to embed on your own site."
+>
+  <Header />
+  <main id="main-content" class="app-layout pb-12">
+    <h1 class="text-2xl font-bold mt-6 mb-2 text-foreground sm:text-3xl">Error & Fault Code Lookup</h1>
+    <p class="text-gray-600 dark:text-gray-400 mb-6 max-w-app">
+      Type the brand and the code your equipment is showing. Jump straight to the fix guide
+      with the cause, the diagnostic steps, and the exact part. Covers industrial drives,
+      VFDs, CNC, UPS, chillers, commercial kitchen, HVAC, and appliances.
+    </p>
+
+    <div class="mb-12 rounded-xl border border-border bg-accent/5 p-5">
+      <FaultCodeLookup />
+    </div>
+
+    <section class="max-w-app">
+      <h2 class="text-xl font-bold mb-2 text-foreground">Add this free tool to your site</h2>
+      <p class="text-gray-600 dark:text-gray-400 mb-3 text-sm">
+        Run a repair shop, a maintenance blog, or a trade resource page? Drop this free
+        lookup on your site so your visitors can decode any fault code in one click. Copy
+        the snippet below.
+      </p>
+      <pre class="overflow-x-auto rounded-lg border border-border bg-muted p-3 text-xs"><code>{embedSnippet}</code></pre>
+      <p class="mt-2 text-xs text-gray-500">Live preview of the embed:</p>
+      <div class="mt-2">
+        <iframe src="/embed/lookup" title="Error / fault code lookup preview" width="100%" height="420" style="border:1px solid var(--border);border-radius:12px;max-width:580px" loading="lazy"></iframe>
+      </div>
+    </section>
+  </main>
+  <Footer />
+</Layout>

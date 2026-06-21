@@ -1,0 +1,133 @@
+---
+// Embeddable fault-code lookup widget — the durable B2B linkbait. A self-contained
+// client-side search over the site's own search-index.json. Used two ways:
+//   - on-site at /tools/fault-code-lookup (full chrome)
+//   - standalone at /embed/lookup (bare, iframe-able by other sites)
+// In the embed context it links back to errorcodefixes.com (the earned backlink +
+// referral). Absolute URLs so it works inside a cross-origin iframe.
+interface Props { embed?: boolean }
+const { embed = false } = Astro.props;
+---
+<div class="fcl">
+  <label class="fcl-label" for="fcl-input">Look up an error / fault code</label>
+  <input
+    id="fcl-input"
+    class="fcl-input"
+    type="search"
+    placeholder="e.g. ABB 2310, Vacon F1, Hoshizaki E2, Doosan alarm 1010"
+    autocomplete="off"
+    aria-label="Search error and fault codes"
+  />
+  <div id="fcl-results" class="fcl-results" role="listbox" aria-label="Matching fix guides"></div>
+  {embed && (
+    <a class="fcl-credit" href="https://errorcodefixes.com/?utm_source=embed&utm_medium=widget" target="_blank" rel="noopener">
+      Powered by errorcodefixes.com
+    </a>
+  )}
+</div>
+
+<style>
+  .fcl {
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    max-width: 560px;
+    margin: 0 auto;
+    color: #10182A;
+  }
+  .fcl-label {
+    display: block;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #15233F;
+    margin: 0 0 0.4rem;
+  }
+  .fcl-input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0.8rem 1rem;
+    font-size: 1rem;
+    border: 2px solid #15233F;
+    border-radius: 10px;
+    outline: none;
+  }
+  .fcl-input:focus { border-color: #C2410C; }
+  .fcl-results { margin-top: 0.5rem; display: flex; flex-direction: column; gap: 0.3rem; }
+  .fcl-hit {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.6rem;
+    padding: 0.6rem 0.8rem;
+    border: 1px solid #E4E2DB;
+    border-radius: 8px;
+    background: #fff;
+    text-decoration: none;
+    color: #10182A;
+    transition: border-color 0.12s, background 0.12s;
+  }
+  .fcl-hit:hover { border-color: #C2410C; background: #FAFAF8; }
+  .fcl-hit-title { font-size: 0.9rem; font-weight: 600; line-height: 1.25; }
+  .fcl-hit-go { font-size: 0.82rem; font-weight: 700; color: #C2410C; white-space: nowrap; }
+  .fcl-none { font-size: 0.88rem; color: #6b7280; padding: 0.5rem 0.2rem; margin: 0; }
+  .fcl-credit {
+    display: inline-block;
+    margin-top: 0.7rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: #15233F;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(21,35,63,0.35);
+  }
+  .fcl-credit:hover { border-bottom-color: #C2410C; }
+</style>
+
+<script is:inline>
+  (function () {
+    var SITE = "https://errorcodefixes.com";
+    var input = document.getElementById("fcl-input");
+    var out = document.getElementById("fcl-results");
+    if (!input || !out) return;
+    var idx = null, timer = null, loading = false;
+
+    function load() {
+      if (idx) return Promise.resolve(idx);
+      if (loading) return Promise.resolve(null);
+      loading = true;
+      return fetch(SITE + "/search-index.json")
+        .then(function (r) { return r.json(); })
+        .then(function (d) { idx = d; loading = false; return d; })
+        .catch(function () { loading = false; return null; });
+    }
+    function esc(s) { return String(s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
+    function score(a, toks) {
+      var title = (a.title || "").toLowerCase();
+      var hay = (title + " " + (a.slug || "") + " " + ((a.keywords || []).join(" "))).toLowerCase();
+      var s = 0;
+      for (var i = 0; i < toks.length; i++) {
+        if (hay.indexOf(toks[i]) !== -1) s += 1;
+        if (title.indexOf(toks[i]) !== -1) s += 2;
+      }
+      return s;
+    }
+    function run() {
+      var q = input.value.trim().toLowerCase();
+      if (q.length < 2) { out.innerHTML = ""; return; }
+      load().then(function (data) {
+        if (!data) { out.innerHTML = '<p class="fcl-none">Could not load the index. Try again.</p>'; return; }
+        var toks = q.split(/\s+/).filter(Boolean);
+        var hits = data.map(function (a) { return { a: a, s: score(a, toks) }; })
+          .filter(function (x) { return x.s > 0; })
+          .sort(function (x, y) { return y.s - x.s; })
+          .slice(0, 8);
+        if (!hits.length) { out.innerHTML = '<p class="fcl-none">No match yet. Try the brand plus the code, e.g. "Vacon F1".</p>'; return; }
+        out.innerHTML = hits.map(function (h) {
+          return '<a class="fcl-hit" href="' + SITE + h.a.url + '?utm_source=lookup-tool" target="_blank" rel="noopener">' +
+            '<span class="fcl-hit-title">' + esc(h.a.title) + '</span>' +
+            '<span class="fcl-hit-go">Fix &rarr;</span></a>';
+        }).join("");
+      });
+    }
+    input.addEventListener("input", function () { clearTimeout(timer); timer = setTimeout(run, 150); });
+  })();
+</script>
