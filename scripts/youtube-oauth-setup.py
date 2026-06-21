@@ -38,6 +38,7 @@ import os
 import secrets
 import sys
 import threading
+import urllib.error
 import urllib.parse
 import urllib.request
 import webbrowser
@@ -54,16 +55,24 @@ class _Catch(http.server.BaseHTTPRequestHandler):
     state = None
 
     def do_GET(self):  # noqa: N802
-        q = urllib.parse.urlparse(self.path).query
-        params = urllib.parse.parse_qs(q)
-        _Catch.code = (params.get("code") or [None])[0]
+        params = urllib.parse.parse_qs(urllib.parse.urlparse(self.path).query)
+        code = (params.get("code") or [None])[0]
         got_state = (params.get("state") or [None])[0]
+        # Ignore stray requests (favicon, etc.) that carry no code, and only
+        # accept a code whose state matches — assigning before the state check
+        # would let a forged localhost request inject a code.
+        if not code:
+            self.send_response(204)
+            self.end_headers()
+            return
+        if got_state == _Catch.state:
+            _Catch.code = code
+            msg = "Authorized. You can close this tab and return to the terminal."
+        else:
+            msg = "State mismatch. Re-run the helper."
         self.send_response(200)
         self.send_header("Content-Type", "text/html")
         self.end_headers()
-        ok = _Catch.code and got_state == _Catch.state
-        msg = ("Authorized. You can close this tab and return to the terminal."
-               if ok else "Authorization failed or state mismatch. Re-run the helper.")
         self.wfile.write(f"<html><body style='font-family:system-ui;padding:3rem'>"
                          f"<h2>{msg}</h2></body></html>".encode())
 
@@ -99,7 +108,14 @@ def main() -> int:
     _Catch.state = secrets.token_urlsafe(16)
 
     httpd = http.server.HTTPServer(("127.0.0.1", port), _Catch)
-    threading.Thread(target=httpd.handle_request, daemon=True).start()
+
+    def _serve():
+        # Handle requests one at a time until the real callback (code + matching
+        # state) lands — so a stray favicon request can't eat the single slot.
+        while _Catch.code is None:
+            httpd.handle_request()
+
+    threading.Thread(target=_serve, daemon=True).start()
 
     url = AUTH + "?" + urllib.parse.urlencode({
         "client_id": args.id,
@@ -135,8 +151,13 @@ def main() -> int:
         "grant_type": "authorization_code",
     }).encode()
     req = urllib.request.Request(TOKEN, data=data, method="POST")
-    with urllib.request.urlopen(req, timeout=30) as r:
-        tok = json.load(r)
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            tok = json.load(r)
+    except urllib.error.HTTPError as e:
+        body = e.read().decode(errors="replace")[:400]
+        print(f"Token exchange failed ({e.code}): {body}", file=sys.stderr)
+        return 1
     refresh = tok.get("refresh_token")
     if not refresh:
         print("No refresh_token returned. Re-run (the helper forces prompt=consent, "
@@ -155,7 +176,7 @@ def main() -> int:
         for k, v in (("YOUTUBE_CLIENT_ID", args.id),
                      ("YOUTUBE_CLIENT_SECRET", args.secret),
                      ("YOUTUBE_REFRESH_TOKEN", refresh)):
-            if k + "=" not in existing:
+            if not any(line.startswith(k + "=") for line in existing.splitlines()):
                 add.append(f"{k}={v}")
         if add:
             with MASTER_ENV.open("a", encoding="utf-8") as f:
