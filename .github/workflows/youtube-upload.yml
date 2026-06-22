@@ -1,0 +1,56 @@
+# Daily YouTube Shorts uploader — posts the rendered fix-videos to the
+# errorcodefixes channel, paced to stay under the YouTube Data API daily
+# quota (~6 uploads/day) and keep a healthy posting cadence for a young
+# channel. Each description links errorcodefixes.com. Commits posted.json
+# back so upload state persists across runs (no duplicate uploads). Once the
+# backlog is posted it no-ops, and it auto-picks up new videos that
+# video-batch.yml renders. Credentials are youtube.upload-scoped only.
+name: YouTube Upload (daily)
+
+on:
+  schedule:
+    - cron: "0 15 * * *"   # 15:00 UTC daily (~10-11am ET)
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "videos to upload this run"
+        default: "5"
+
+concurrency:
+  group: youtube-upload
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.CONTENT_PUSH_TOKEN }}
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Upload Shorts
+        env:
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+        run: python scripts/youtube-upload.py --count "${{ github.event.inputs.count || '5' }}"
+      - name: Commit posted.json (rebase-safe)
+        shell: bash
+        run: |
+          git config user.email "chris.a.wyatt@gmail.com"
+          git config user.name "ECF YouTube Bot"
+          git add growth-pipeline/shorts/posted.json 2>/dev/null || true
+          if git diff --cached --quiet; then echo "nothing posted this run"; exit 0; fi
+          git commit -m "YouTube upload state [cloud]"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            echo "push race, retry $i"; sleep $((RANDOM % 8 + 3))
+          done
+          echo "push failed"; exit 1
