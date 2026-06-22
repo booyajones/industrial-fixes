@@ -37,10 +37,14 @@ jobs:
           python-version: "3.12"
       - name: Upload Shorts
         env:
+          # Route the dispatch input through an env var so it reaches the shell
+          # as data, not template-expanded into the command line (avoids GHA
+          # script injection — the worker holds YOUTUBE_* + CONTENT_PUSH_TOKEN).
+          COUNT: ${{ github.event.inputs.count || '5' }}
           YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
           YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
           YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
-        run: python scripts/youtube-upload.py --count "${{ github.event.inputs.count || '5' }}"
+        run: python scripts/youtube-upload.py --count "$COUNT"
       - name: Commit posted.json (rebase-safe)
         shell: bash
         run: |
