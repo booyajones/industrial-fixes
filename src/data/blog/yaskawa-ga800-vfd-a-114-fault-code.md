@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if you are not trained to work safely around high-voltage motor drive equipment, if the fault persists after you have inspected and corrected visible wiring defects, or if you need to replace the control board or option card and are unfamiliar with drive enclosure procedures. Communication troubleshooting on industrial networks often requires protocol analyzers, network configuration tools, and familiarity with fieldbus standards that are beyond typical facility maintenance scope. A pro can also verify that device addresses, baud rates, and protocol parameters match across the entire communication link, which is essential when wiring inspection alone does not resolve the fault.
 
 **Rough cost:** A pro service call runs about $150-400 for diagnosis and cable or option card replacement.
+
+## See Also
+
+- [Yaskawa GA800 A.119 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-119-fault-code/)
+- [Yaskawa GA800 E12 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e12-fault-code/)
+- [Yaskawa GA800 A.142 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-142-fault-code/)
+- [Yaskawa VFD Fault OV — DC Bus Overvoltage Fix](/posts/yaskawa-vfd-fault-ov/)

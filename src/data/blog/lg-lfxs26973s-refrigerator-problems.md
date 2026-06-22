@@ -61,3 +61,10 @@ These codes apply to this model line:
 ## When to Call a Pro
 
 Call a technician if the IF, F1, IS, or 15 code returns after you have unplugged the unit for two minutes, manually defrosted the ice room, and confirmed the fan area is clear of ice and obstructions. Replacing the ice maker fan motor or sensor requires disassembly of the ice compartment, disconnecting the door wiring harness, and testing circuits with a multimeter. If you are not comfortable working with live 120V connections or removing interior panels, a qualified appliance tech can diagnose the fan motor, sensor, and wiring in one visit and install the correct replacement part. Recurring frost issues that involve door alignment or gasket replacement also benefit from professional adjustment to prevent future fan faults.
+
+## See Also
+
+- [LG Oven F3 Error Code - Causes & Fix](/posts/lg-oven-f3-error-code/)
+- [LG Dryer Idler Pulley Replacement - Signs & How-To](/posts/lg-dryer-idler-pulley-replacement/)
+- [LG Dishwasher Smells Bad - Causes & Fix](/posts/lg-dishwasher-smells-bad/)
+- [LG Refrigerator gF Error Code - Causes & Fix](/posts/lg-refrigerator-gf-error-code/)

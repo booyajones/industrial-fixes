@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or controls integrator if you are not familiar with variable frequency drive programming and parameter structures. A.117 requires understanding the GA800 parameter map, motor data entry, control wiring, and the interaction between application presets and control modes. If you have changed parameters and cannot restore a working configuration, a technician with the full GA800 manual and parameter backup tools can quickly diagnose the conflict and reprogram the drive. Also call a professional if the alarm persists after you have verified all motor data and wiring, because at that point you may need to check the control board seating, option card compatibility, or perform a firmware update. Do not replace hardware until programming is confirmed correct.
 
 **Rough cost:** A pro service call runs about $150–400 for a service call to reprogram and verify the drive, assuming no hardware is damaged.
+
+## See Also
+
+- [Yaskawa GA800 E84 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e84-fault-code/)
+- [Yaskawa GA800 A.111 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-111-fault-code/)
+- [Yaskawa GA800 E93 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e93-fault-code/)
+- [Yaskawa A1000 LF2 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-lf2-fault-code/)

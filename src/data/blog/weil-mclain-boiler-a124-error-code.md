@@ -71,3 +71,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician or Weil-McLain authorized service company if you do not have the model-specific manual, if the manual's diagnostic steps require gas-pressure or combustion testing, if the fault points to a control board or ignition module, or if the boiler uses a sealed combustion system or modulating gas valve. Weil-McLain expects service and warranty work to be performed by qualified professionals who follow the exact wiring diagrams and replacement-part numbers in the manual. Incorrect wiring or component substitution can cause dangerous operation, so do not guess at the meaning of A124 or swap parts without verifying the failure first.
 
 **Rough cost:** A pro service call runs about $200-450.
+
+## See Also
+
+- [Weil-McLain Boiler A120 Error - Causes & Fix](/posts/weil-mclain-boiler-a120-error-code/)
+- [Weil-McLain A183 Error - Causes & Fix](/posts/weil-mclain-boiler-a183-error-code/)
+- [Weil-McLain Boiler A25 Error - Causes & Fix](/posts/weil-mclain-boiler-a25-error-code/)
+- [Weil-McLain A90 Error - Causes & Fix](/posts/weil-mclain-boiler-a90-error-code/)

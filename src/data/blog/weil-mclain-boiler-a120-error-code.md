@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed heating professional if you cannot access the diagnostics menu, if the full fault name points to a gas, venting, or sealed-system problem, or if testing sensors and switches requires tools or expertise you do not have. Weil-McLain directs contractors to use the fault history and model-specific manuals to diagnose and repair faults, and warranty service requires documentation of the failed part description and part number. A qualified technician will decode A120 on your specific control, perform the necessary safety checks, replace only the component identified by testing, and make sure the boiler returns to safe operation without introducing new faults.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain Boiler A62 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a62-error-code/)
+- [Weil-McLain Boiler A123 Error - Causes & Fix](/posts/weil-mclain-boiler-a123-error-code/)
+- [Weil-McLain A02 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a02-error-code/)
+- [Weil-McLain E02 Error Code — Causes & Fix](/posts/weil-mclain-e02-error-code/)

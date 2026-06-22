@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed heating professional immediately if you are not comfortable working with gas, if the boiler continues to lock out after you have cleared blockages and checked pressure, or if diagnostic testing points to a failed sensor, gas valve, or control board. Gas-fired boiler work requires specialized tools, combustion analysis equipment, and knowledge of local codes. A technician will retrieve the exact fault history from the control, match the code to the correct manual, test all safety inputs and sensors, verify gas pressure and venting, and replace only the failed component. Weil-McLain strongly recommends that all service be performed by a qualified heating contractor, and warranty coverage often depends on proper professional service and part identification by model and CP number.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A112 Error - Causes & Fix](/posts/weil-mclain-boiler-a112-error-code/)
+- [Weil-McLain Boiler A53 Error - Causes & Fix](/posts/weil-mclain-boiler-a53-error-code/)
+- [Weil-McLain A154 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a154-error-code/)
+- [Weil-McLain Boiler A87 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a87-error-code/)

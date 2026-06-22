@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician immediately if you cannot locate the boiler model number, if the manual's fault table does not list the code you see, or if the troubleshooting steps require checking gas pressure, testing ignition components, or measuring sensor resistance. Weil-McLain boilers integrate gas controls, pressure switches, and flame-proving circuits that must be diagnosed with a multimeter and combustion analyzer. A technician will retrieve the fault history from the control, verify the active fault against the model-specific table, test the sensors and switches in the fault path, and replace only the components that fail specification. Attempting to replace parts without decoding the correct fault wastes money and can leave the root cause unresolved.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain Boiler A107 Error - Causes & Fix](/posts/weil-mclain-boiler-a107-error-code/)
+- [Weil-McLain A81 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a81-error-code/)
+- [Weil-McLain A35 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a35-error-code/)
+- [Weil-McLain Boiler A21 Error - Causes & Fix](/posts/weil-mclain-boiler-a21-error-code/)

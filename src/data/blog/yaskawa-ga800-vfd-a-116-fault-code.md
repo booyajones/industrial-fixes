@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or industrial controls technician if you are not trained to work with VFD control circuits, if the elementary diagram is unavailable, or if you cannot safely identify and trace the monitored input circuit. A technician will use the drive parameters, wiring diagram, and a meter to systematically isolate whether the issue is in the field wiring, an external device, or the drive itself. Also call a pro if the alarm involves a safety-rated interlock or E-stop circuit that must meet code requirements, or if the repair requires reprogramming the drive or replacing an option card.
 
 **Rough cost:** A pro service call runs about $150-400 depending on whether the fix is a tightened terminal or a replacement relay/switch.
+
+## See Also
+
+- [Yaskawa GA800 E04 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e04-fault-code/)
+- [Yaskawa GA800 E29 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e29-fault-code/)
+- [Yaskawa GA800 E91 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e91-fault-code/)
+- [Yaskawa GA800 E25 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e25-fault-code/)

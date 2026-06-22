@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a professional ice-machine technician if the curtain and switch appear mechanically sound but the fault persists, if you are not comfortable working with the control board or wiring diagnostics, or if your model requires refrigerant or sealed-system work in addition to the E12 repair. A qualified tech has the service manual, diagnostic software, and proper test equipment to confirm the exact fault and replace the correct component. Also call a pro if you need to verify whether your machine's E12 is a curtain switch or ice thickness sensor code, as mixing up the two can lead to ordering the wrong parts and wasting time.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Manitowoc E29 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e29-error-code/)
+- [Manitowoc Indigo NXT Ice Machine Complete Troubleshooting Guide](/posts/manitowoc-indigo-nxt-complete-guide/)
+- [Manitowoc Ice Machine Error Code 7 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-7/)
+- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)

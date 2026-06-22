@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa-authorized service provider if you cannot locate the exact alarm definition in the GA800 manual code table, if the fault recurs after wiring and parameter checks, or if you lack the training to safely work on industrial motor-drive systems. High-voltage DC bus capacitors, control logic troubleshooting, and firmware or parameter configuration require specialized knowledge and test equipment. Always contact Yaskawa technical support with the drive model, spec number, serial number, and complete fault history if the alarm cause is not obvious or if the drive shows physical damage or component failure.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Yaskawa GA800 E13 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e13-fault-code/)
+- [Yaskawa GA800 A.108 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-108-fault-code/)
+- [Yaskawa GA800 E85 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e85-fault-code/)
+- [Yaskawa A1000 VFD oL3 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol3-fault-code/)

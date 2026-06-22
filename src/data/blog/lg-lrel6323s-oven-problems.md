@@ -62,3 +62,10 @@ These codes apply to this model line:
 ## When to Call a Pro
 
 Call a qualified appliance technician for any fault that returns after a power reset, for thermistor or communication error codes that require board-level diagnosis, or when incoming voltage measurement is needed at the range terminal block. Also call a pro for control board replacement, since it involves live 240V connections and programming the new board to match your model. If you see arcing, smell burning plastic, or the range trips the breaker repeatedly, disconnect power at the breaker and call for service immediately. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [LG Washer dE1 Error Code - Causes & Fix](/posts/lg-dryer-de1-error-code/)
+- [LG Dryer Shuts Off Early - Causes & Fix](/posts/lg-dryer-shuts-off-early/)
+- [LG Microwave Door Won't Open - Causes & Fix](/posts/lg-microwave-door-wont-open/)
+- [LG Dryer F0 Error Code - Causes & Fix](/posts/lg-dryer-f0-error-code/)

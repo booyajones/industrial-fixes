@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a professional whenever the boiler locks out repeatedly, when you cannot retrieve the actual fault name from the control's diagnostics menu, or when the repair involves gas supply, ignition components, sealed combustion venting, or pressure-testing the hydronic system. A qualified technician has the tools to measure flame signal strength, test sensor circuits with precision, diagnose control-board faults, and safely restore gas and water flow. If you see low system pressure or suspect a leak, do not simply add water and reset. A pro will find the leak, repair it, refill the system to around 15 psi, purge air, and verify that the boiler runs without further alarms. Proper diagnostics prevent misdiagnosis and the cost of unnecessary parts.
 
 **Rough cost:** A pro service call runs about $150–400.
+
+## See Also
+
+- [Weil-McLain Boiler A21 Error - Causes & Fix](/posts/weil-mclain-boiler-a21-error-code/)
+- [Weil-McLain A170 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a170-error-code/)
+- [Weil-McLain Boiler A89 Error - Causes & Fix](/posts/weil-mclain-boiler-a89-error-code/)
+- [Weil-McLain E04 Error Code — Causes & Fix](/posts/weil-mclain-e04-error-code/)

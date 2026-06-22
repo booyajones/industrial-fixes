@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified refrigeration technician if you are not comfortable working with refrigeration controls, multimeter diagnostics, or electrical troubleshooting in a wet commercial environment. The T1 sensor sits on the evaporator inside the sealed refrigeration system, and while the sensor itself is accessible, any work that accidentally damages refrigerant lines or requires pressure testing demands an EPA-certified tech with recovery equipment. If you replace the sensor and wiring but the code persists, the control board input is likely failed and board replacement on a commercial ice machine is best left to a service professional who can verify correct operation of all safety and refrigeration circuits after the repair.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Manitowoc Indigo NXT Ice Machine Complete Troubleshooting Guide](/posts/manitowoc-indigo-nxt-complete-guide/)
+- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
+- [Manitowoc E03 Error Code — Probe / Thermistor Open Fix](/posts/manitowoc-e03-error-code/)
+- [Manitowoc Ice Machine Error Code 5 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-5/)

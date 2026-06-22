@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified drive technician or Yaskawa-authorized service provider if you cannot identify the display mode, if the drive has visible damage or missing components, if A.113 persists after you have checked wiring and option cards, or if you lack the GA800 manual and cannot navigate the keypad menus safely. Do not attempt to troubleshoot or reset the drive if you are unfamiliar with VFD lockout/tagout procedures or high-voltage safety. A professional will use the model, spec, and serial numbers to access the correct documentation, verify the meaning of A.113 for your specific drive revision, and perform systematic diagnostics without risking further damage. If the drive is under warranty, contact the supplier or Yaskawa support before opening the enclosure or replacing any parts, as unauthorized work may void coverage.
 
 **Rough cost:** A pro service call runs about $150–400 for diagnostic visit and wiring or configuration correction; hardware replacement if needed will add cost.
+
+## See Also
+
+- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)
+- [Yaskawa GA800 oC Fault — Overcurrent Fix](/posts/yaskawa-ga800-error-oc/)
+- [Yaskawa GA800 E61 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e61-fault-code/)
+- [Yaskawa GA800 E13 Error - Causes & Fix](/posts/yaskawa-ga800-vfd-e13-fault-code/)

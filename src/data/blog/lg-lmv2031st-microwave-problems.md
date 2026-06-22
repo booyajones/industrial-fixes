@@ -59,3 +59,10 @@ These codes apply to this model line:
 ## When to Call a Pro
 
 Call a technician if you see E10, F1, F11, F13, or F17 codes after a power reset and basic inspection. These faults require multimeter diagnostics, harness continuity checks, and board-level replacement that involve high-voltage capacitors and inverter circuits. Door-latch and simple sensor faults can often be handled by a confident DIYer with the service manual, but if the built-in test fails or you are uncomfortable working inside a microwave cabinet, get a qualified appliance tech to diagnose and replace the correct module.
+
+## See Also
+
+- [LG Washer Won't Spin - Causes & Fix](/posts/lg-washer-wont-spin/)
+- [LG LREL6323S Oven Problems & Error Codes](/posts/lg-lrel6323s-oven-problems/)
+- [LG Oven F17 Error Code - Causes & Fix](/posts/lg-oven-f17-error-code/)
+- [LG Mini Split Not Heating - Causes & Fix](/posts/lg-mini-split-not-heating/)

@@ -844,5 +844,41 @@
     "score": 3,
     "reason": "Code A182 is not verified as a real Weil-McLain boiler code in the research; the draft correctly acknowledges this but should not be published without confirmed code existence for this brand/appliance.",
     "date": "2026-06-21"
+  },
+  "carrier-heat-pump-e23-error-code": {
+    "topic": "Carrier heat pump E23 error code",
+    "score": 3,
+    "reason": "Research explicitly states E23 is NOT a documented Carrier heat-pump code; draft proceeds anyway to publish furnace information under a 'heat pump error code' title, creating category mismatch and user confusion.",
+    "date": "2026-06-22"
+  },
+  "state-tankless-water-heater-e71-error-code": {
+    "topic": "State tankless water heater E71 error code",
+    "score": 3,
+    "reason": "Code E71 is not documented or verified as a real State tankless code in the research; meaning and causes are borrowed from A.O. Smith/Rinnai platforms without manufacturer confirmation.",
+    "date": "2026-06-22"
+  },
+  "state-water-heater-e07-error-code": {
+    "topic": "State water heater E07 error code",
+    "score": 4,
+    "reason": "Research explicitly states 'State water heater E07 code is not uniquely documented' for State brand; draft invents universal meaning from other brands' codes without verified State-specific documentation.",
+    "date": "2026-06-22"
+  },
+  "state-water-heater-e22-error-code": {
+    "topic": "State water heater E22 error code",
+    "score": 3,
+    "reason": "Code E22 is NOT verified/documented for State Water Heaters in the research; meaning is inferred from other brands/appliances, violating criterion #1 and #2\u2014cannot publish unverified content.",
+    "date": "2026-06-22"
+  },
+  "state-water-heater-e56-error-code": {
+    "topic": "State water heater E56 error code",
+    "score": 3,
+    "reason": "E56 is NOT a State Water Heater code; it belongs to RADIANT SFK-56 units per the research\u2014publishing this under 'State' brand is factually incorrect and will mislead users searching for State error codes.",
+    "date": "2026-06-22"
+  },
+  "state-water-heater-e70-error-code": {
+    "topic": "State water heater E70 error code",
+    "score": 3,
+    "reason": "Research explicitly states E70 code for State brand could not be verified from manufacturer materials; draft proceeds with unconfirmed/speculative content rather than declining to publish.",
+    "date": "2026-06-22"
   }
 }
