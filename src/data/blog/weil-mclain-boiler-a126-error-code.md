@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician immediately if you cannot find A126 in your model's manual, if the boiler is locked out and will not reset, or if the manual's diagnostic steps require testing gas pressure, ignition components, or high-voltage control circuits. Weil-McLain boilers involve gas or oil combustion, pressurized water loops, and safety interlocks that must be diagnosed and repaired according to local codes and manufacturer procedures. A technician will verify the exact fault definition for your model, test the suspect component with calibrated instruments, and replace only the failed part. Do not attempt to bypass safety switches or reset the boiler repeatedly without identifying the root cause, as this can damage the equipment or create a safety hazard.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain Boiler A137 Error - Causes & Fix](/posts/weil-mclain-boiler-a137-error-code/)
+- [Weil-McLain A02 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a02-error-code/)
+- [Weil-McLain A65 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a65-error-code/)
+- [Weil-McLain Boiler A124 Error - Causes & Fix](/posts/weil-mclain-boiler-a124-error-code/)

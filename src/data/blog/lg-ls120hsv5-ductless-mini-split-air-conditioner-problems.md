@@ -44,3 +44,10 @@ Other common issues include blinking lamp codes (CH 00 requiring inspection per 
 ## When to Call a Pro
 
 Call a licensed HVAC technician for any CH21 or protection code, compressor electrical testing (phase resistance and insulation resistance), or inverter PCB diagnostics. Measuring DC link voltage at P–N terminals (310 V DC single-phase, 540 V DC three-phase per LG specs), checking diode behavior between phases, inspecting for carbonization on the IPM, and performing compressor insulation tests above 10 MΩ all require a meter and refrigeration knowledge. Compressor or inverter PCB replacement also means recovering refrigerant, brazing, evacuation, and recharge, which are EPA-certified tasks. If you see burn marks, smell electrical odor, or the unit trips your breaker repeatedly, shut off power at the disconnect and call a pro immediately.
+
+## See Also
+
+- [LG IS Error Code - Causes & Fix](/posts/lg-refrigerator-is-error-code/)
+- [LG Washer HE Error Code - Causes & Fix](/posts/lg-washer-he-error-code/)
+- [LG Range E1 Error Code - Causes & Fix](/posts/lg-range-e1-error-code/)
+- [LG Refrigerator IF Error Code - Causes & Fix](/posts/lg-refrigerator-if-error-code/)

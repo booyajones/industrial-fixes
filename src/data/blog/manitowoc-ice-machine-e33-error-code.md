@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified commercial refrigeration technician if you are not comfortable working inside energized control panels or if reseating the keypad connector does not clear the fault. Technicians carry spare keypads and control boards for on-site substitution testing, can verify connector pin continuity with a multimeter, and have access to manufacturer service bulletins and wiring diagrams specific to your model. Because this code points to a low-voltage communication fault rather than a sealed refrigeration system issue, labor is usually straightforward, but misdiagnosing and replacing the control board when only the keypad is bad wastes time and money. A pro can isolate the fault in one visit and carry the correct OEM part.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [Manitowoc E15 Error Code — High-Side Pressure Switch Open Fix](/posts/manitowoc-e15-error-code/)
+- [Manitowoc E01 Error Code — Long Freeze Cycle Fix](/posts/manitowoc-e01-error-code/)
+- [Manitowoc E09 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e09-error-code/)
+- [Manitowoc E03 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e03-error-code/)

@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or drive technician if you are not trained to work inside motor control panels or if the safety circuit includes a programmable safety controller or light curtain system. High-voltage AC drive terminals carry lethal voltage even when the drive is faulted, and incorrectly wiring the STO circuit can defeat the machine's entire safety architecture. A pro will have the elementary diagrams, know the local electrical and machine safety codes, and can verify that the STO function meets the required safety integrity level for your application. If the alarm persists after you have verified the STO wiring and jumper, the drive may need parameter changes or a control board inspection that requires Yaskawa factory training.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Yaskawa GA800 A.130 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-130-fault-code/)
+- [Yaskawa GA800 E53 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e53-fault-code/)
+- [Yaskawa GA800 E18 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e18-fault-code/)
+- [Yaskawa VFD Fault GF — Causes & Fix](/posts/yaskawa-vfd-fault-gf/)

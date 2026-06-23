@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a professional service technician if replacing the USB drive and reseating the connection do not clear the error. Diagnosing a failed control board or internal ribbon cable requires access to the machine's service panels, specialized knowledge of the Indigo control system, and tools to test board signals. If the error appears alongside low ice production, a technician can also check refrigerant charge, water flow, and other system parameters that may be contributing to the log event. Control board replacement is a moderately complex repair that should be done by someone trained in commercial refrigeration to avoid damaging the new board or missing concurrent faults.
 
 **Rough cost:** A pro service call runs about $150-400 depending on whether the drive, port, or control board is replaced.
+
+## See Also
+
+- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
+- [Manitowoc E33 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e33-error-code/)
+- [Manitowoc Ice Machine E04 Error: High Condenser Temperature Causes and Fix](/posts/manitowoc-e04-high-condenser-temp/)
+- [Manitowoc Ice Machine Error Code 9 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-9/)

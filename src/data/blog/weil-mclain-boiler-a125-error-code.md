@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 A125 is a gas-ignition fault that requires working with live gas piping, electrical ignition circuits, and combustion safety. If your free checks do not solve the problem, call a licensed boiler technician. The technician will test gas pressure at the valve inlet, measure ignitor resistance and voltage, verify flame-sensor microamp current, and check the control's call sequence with a multimeter. Repeatedly resetting the lockout without finding the root cause can lead to dangerous conditions, including gas buildup or cracked heat exchangers. Professional diagnosis is the safe and correct path for any persistent ignition lockout.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Weil-McLain Boiler A43 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a43-error-code/)
+- [Weil-McLain A37 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a37-error-code/)
+- [Weil-McLain Boiler A50 Error - Causes & Fix](/posts/weil-mclain-boiler-a50-error-code/)
+- [Weil-McLain Boiler A48 Error - Causes & Fix](/posts/weil-mclain-boiler-a48-error-code/)

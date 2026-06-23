@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified commercial refrigeration technician for E31 diagnosis and repair. The ITP sensor is part of the ice machine's refrigeration control circuit, and troubleshooting requires familiarity with Manitowoc Indigo diagnostics, sensor testing, and safe handling of electrical components in a wet environment. If the sensor replacement does not clear the code, the technician will need to test the control board's input circuit and verify refrigerant cycle operation. Attempting sensor or control board work without proper training risks damaging the controller, voiding your warranty, or creating unsafe electrical conditions around water and ice.
 
 **Rough cost:** A pro service call runs about $200-450.
+
+## See Also
+
+- [Manitowoc Ice Machine E04 Error: High Condenser Temperature Causes and Fix](/posts/manitowoc-e04-high-condenser-temp/)
+- [Manitowoc Ice Machine E01 Error Code — Causes & Fix](/posts/manitowoc-ice-machine-error-code-e01/)
+- [Manitowoc E15 Error - Causes & Fix](/posts/manitowoc-ice-machine-e15-error-code/)
+- [Manitowoc IYT-0450 Error Codes — Fault Code Diagnostic Guide](/posts/manitowoc-iyt-0450-error-codes/)

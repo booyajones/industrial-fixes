@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified automation or electrical technician if you are not trained to work safely around industrial line voltage and control wiring, if you cannot access the wiring diagram or protocol specification for your system, or if the alarm returns after you have verified and repaired the cable. Also call a professional if the A.120 fault persists even with the communications cable disconnected, because that pattern suggests hardware damage inside the drive or the remote controller that requires factory-trained diagnosis and possible board replacement. Yaskawa technical support can walk a qualified technician through advanced diagnostics and provide replacement part numbers for communication option cards or control boards when field wiring is confirmed correct.
 
 **Rough cost:** A pro service call runs about $150–400 depending on cable length and routing labor.
+
+## See Also
+
+- [Yaskawa GA800 E86 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e86-fault-code/)
+- [Yaskawa GA800 E39 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e39-fault-code/)
+- [Yaskawa GA800 E90 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e90-fault-code/)
+- [Yaskawa GA800 A.147 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-147-fault-code/)

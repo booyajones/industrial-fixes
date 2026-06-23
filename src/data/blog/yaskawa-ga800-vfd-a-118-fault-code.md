@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or system integrator if you are not familiar with industrial drive wiring, communication networks, or parameter programming. Variable-frequency drives operate at high DC bus voltages (up to 800 VDC on the GA800) and incorrect wiring or parameter changes can damage motors and machinery. A professional can consult the GA800 alarm table for your specific manual revision, perform continuity and insulation-resistance tests on signal cables, verify option-card firmware and configuration, and make sure drive and motor parameters match your application. If the alarm returns after reset and basic checks, document the drive nameplate data and contact Yaskawa technical support or an authorized service center for model-specific diagnostics.
 
 **Rough cost:** A pro service call runs about $150-400 for diagnostic visit and configuration check, more if an option card or board requires replacement.
+
+## See Also
+
+- [Yaskawa GA800 E95 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e95-fault-code/)
+- [Yaskawa A1000 FbL Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-fbl-fault-code/)
+- [Yaskawa VFD Fault Codes — Complete Reference (V1000, A1000, GA700)](/posts/yaskawa-vfd-fault-codes/)
+- [Yaskawa GA800 E04 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e04-fault-code/)

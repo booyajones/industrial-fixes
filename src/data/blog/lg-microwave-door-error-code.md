@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified appliance technician if the DOOR error persists after you have checked for obstructions, reset power, and confirmed the door closes smoothly. Microwave repair involves discharging a high-voltage capacitor that can store a lethal charge even when the unit is unplugged, and the door interlock system is a safety-critical assembly that must be tested and reassembled correctly. Technicians have the meters, part cross-references, and experience to diagnose whether the fault is a switch, latch, actuator, wiring, or structural misalignment, and they carry liability insurance for work on high-voltage appliances.
 
 **Rough cost:** A pro service call runs about $150-250.
+
+## See Also
+
+- [LG Washer CE Error Code - Causes & Fix](/posts/lg-washer-ce-error-code/)
+- [LG Mini Split Not Heating - Causes & Fix](/posts/lg-mini-split-not-heating/)
+- [LG Mini-Split CH67 Error Code — Causes & Fix](/posts/lg-mini-split-ch67-error-code/)
+- [LG Microwave Sparking - Causes & Fix](/posts/lg-microwave-sparking/)

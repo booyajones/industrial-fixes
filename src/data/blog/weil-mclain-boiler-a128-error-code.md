@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician immediately if you cannot find A128 in your model's manual, if the fault returns after you refill system pressure, or if you are not confident working with gas, electrical diagnostics, or control-board menus. Boiler faults often involve multiple interacting safeties, and misdiagnosis wastes money on parts that were never broken. A technician will pull the fault history from the control, test sensor resistance and voltage, inspect the flame path, and confirm the actual failed component before replacing anything. Do not keep resetting a boiler that locks out repeatedly. Repeated lockouts mean a safety device is doing its job, and bypassing or ignoring it can lead to dangerous conditions.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain Boiler A129 Error - Causes & Fix](/posts/weil-mclain-boiler-a129-error-code/)
+- [Weil-McLain Boiler A169 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a169-error-code/)
+- [Weil-McLain Boiler A64 Error - Causes & Fix](/posts/weil-mclain-boiler-a64-error-code/)
+- [Weil-McLain A46 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a46-error-code/)

@@ -42,3 +42,10 @@ The LG LSU120HSV5 is a ductless mini split air conditioner in the LS-HV/HSV sing
 ## When to Call a Pro
 
 Call a licensed HVAC technician for any CH 05 communication error after a simple power cycle does not clear the fault, since diagnosis requires multimeter checks of the communication signal voltage (0 to 65 Vdc on terminal N to 3 for split systems per LG guidance) and systematic isolation of the indoor or outdoor PCB. Refrigerant work, including leak detection, evacuation, and recharge, is also professional-only and requires EPA certification and recovery equipment. If you see sparking at terminals, smell burning plastic from a control board, or the outdoor disconnect trips repeatedly, shut off power at the breaker and call for service immediately to prevent further damage to the system.
+
+## See Also
+
+- [LG Washer Won't Turn On - Causes & Fix](/posts/lg-washer-wont-turn-on/)
+- [LG Mini Split CH01 Error Code — Causes & Fix](/posts/lg-mini-split-ch01-error-code/)
+- [LG Dishwasher CR Error Code - Causes & Fix](/posts/lg-dishwasher-cr-error-code/)
+- [LG Washer dE1 Error Code - Causes & Fix](/posts/lg-washer-de1-error-code/)

@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or VFD technician if you are not trained in industrial control wiring or if your facility requires certified personnel for work on drives above 600 V or inside locked electrical rooms. A.122 involves verifying wiring against the connection diagram, measuring low-voltage analog signals, and adjusting DIP switches, all of which require familiarity with control schematics and safe work on energized equipment. If wiring and settings are correct but the alarm persists, the control board's analog input circuit may have failed, and Yaskawa technical support should be contacted before ordering parts. Do not replace the control board without first documenting the wiring, DIP switch positions, and measured signal levels, because the same alarm will return if the root cause is a configuration mismatch rather than a hardware fault.
 
 **Rough cost:** A pro service call runs about $150–400 for service call and wiring correction, depending on labor and whether rewiring is required.
+
+## See Also
+
+- [Yaskawa A1000 PF Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-pf-fault-code/)
+- [Yaskawa A1000 CPF00 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf00-fault-code/)
+- [Yaskawa GA800 E73 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e73-fault-code/)
+- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)

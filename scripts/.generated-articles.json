@@ -4595,6 +4595,122 @@
     "state-water-heater-e70-error-code": {
       "topic": "State water heater E70 error code",
       "date": "2026-06-22"
+    },
+    "trane-heat-pump-e1-error-code": {
+      "topic": "Trane heat pump E1 error code",
+      "date": "2026-06-23"
+    },
+    "state-water-heater-e91-error-code": {
+      "topic": "State water heater E91 error code",
+      "date": "2026-06-23"
+    },
+    "state-water-heater-e96-error-code": {
+      "topic": "State water heater E96 error code",
+      "date": "2026-06-23"
+    },
+    "state-water-heater-e101-error-code": {
+      "topic": "State water heater E101 error code",
+      "date": "2026-06-23"
+    },
+    "state-water-heater-e104-error-code": {
+      "topic": "State water heater E104 error code",
+      "date": "2026-06-23"
+    },
+    "state-water-heater-e108-error-code": {
+      "topic": "State water heater E108 error code",
+      "date": "2026-06-23"
+    },
+    "state-water-heater-e112-error-code": {
+      "topic": "State water heater E112 error code",
+      "date": "2026-06-23"
+    },
+    "state-water-heater-e114-error-code": {
+      "topic": "State water heater E114 error code",
+      "date": "2026-06-23"
+    },
+    "state-water-heater-e121-error-code": {
+      "topic": "State water heater E121 error code",
+      "date": "2026-06-23"
+    },
+    "state-water-heater-e133-error-code": {
+      "topic": "State water heater E133 error code",
+      "date": "2026-06-23"
+    },
+    "state-water-heater-e136-error-code": {
+      "topic": "State water heater E136 error code",
+      "date": "2026-06-23"
+    },
+    "state-water-heater-e141-error-code": {
+      "topic": "State water heater E141 error code",
+      "date": "2026-06-23"
+    },
+    "state-water-heater-e149-error-code": {
+      "topic": "State water heater E149 error code",
+      "date": "2026-06-23"
+    },
+    "state-water-heater-e158-error-code": {
+      "topic": "State water heater E158 error code",
+      "date": "2026-06-23"
+    },
+    "state-water-heater-e163-error-code": {
+      "topic": "State water heater E163 error code",
+      "date": "2026-06-23"
+    },
+    "state-water-heater-e166-error-code": {
+      "topic": "State water heater E166 error code",
+      "date": "2026-06-23"
+    },
+    "state-water-heater-e173-error-code": {
+      "topic": "State water heater E173 error code",
+      "date": "2026-06-23"
+    },
+    "abb-acs580-vfd-a2a2-fault-code": {
+      "topic": "ABB ACS580 VFD A2A2 fault code",
+      "date": "2026-06-23"
+    },
+    "abb-acs580-vfd-a2a3-fault-code": {
+      "topic": "ABB ACS580 VFD A2A3 fault code",
+      "date": "2026-06-23"
+    },
+    "abb-acs580-vfd-a2a4-fault-code": {
+      "topic": "ABB ACS580 VFD A2A4 fault code",
+      "date": "2026-06-23"
+    },
+    "abb-acs580-vfd-a3a1-fault-code": {
+      "topic": "ABB ACS580 VFD A3A1 fault code",
+      "date": "2026-06-23"
+    },
+    "abb-acs580-vfd-a3a2-fault-code": {
+      "topic": "ABB ACS580 VFD A3A2 fault code",
+      "date": "2026-06-23"
+    },
+    "abb-acs580-vfd-a4a1-fault-code": {
+      "topic": "ABB ACS580 VFD A4A1 fault code",
+      "date": "2026-06-23"
+    },
+    "abb-acs580-vfd-a4a2-fault-code": {
+      "topic": "ABB ACS580 VFD A4A2 fault code",
+      "date": "2026-06-23"
+    },
+    "abb-acs580-vfd-a4a3-fault-code": {
+      "topic": "ABB ACS580 VFD A4A3 fault code",
+      "date": "2026-06-23"
+    },
+    "abb-acs580-vfd-a5a0-fault-code": {
+      "topic": "ABB ACS580 VFD A5A0 fault code",
+      "date": "2026-06-23"
+    },
+    "abb-acs580-vfd-a5a1-fault-code": {
+      "topic": "ABB ACS580 VFD A5A1 fault code",
+      "date": "2026-06-23"
+    },
+    "abb-acs580-vfd-a7a1-fault-code": {
+      "topic": "ABB ACS580 VFD A7A1 fault code",
+      "date": "2026-06-23"
+    },
+    "abb-acs580-vfd-a7a3-fault-code": {
+      "topic": "ABB ACS580 VFD A7A3 fault code",
+      "date": "2026-06-23"
     }
   }
 }

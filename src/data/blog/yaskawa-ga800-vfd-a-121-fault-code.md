@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or Yaskawa-trained technician immediately if you cannot verify the exact fault code, if wiring inspections reveal char marks or signs of arcing, or if motor insulation resistance is below acceptable limits. VFD troubleshooting involves high DC-bus voltages (up to 800 V or more on larger drives) that remain present even after AC input is removed. Do not open the drive enclosure or touch internal components without proper training, lockout/tagout, and waiting for capacitor discharge per the manual. A technician with Yaskawa certification can use diagnostic software to read internal fault logs, verify option-card communication, and confirm whether the displayed code is legitimate or the result of a hardware fault. Professional service typically costs two hundred to five hundred dollars for diagnosis and wiring repair, but drive or board replacement can exceed one thousand dollars, so accurate diagnosis before ordering parts saves both time and money.
 
 **Rough cost:** A pro service call runs about $200-500 for diagnosis and wiring repair; drive or board replacement can exceed $1,000.
+
+## See Also
+
+- [Yaskawa GA800 E65 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e65-fault-code/)
+- [Yaskawa GA800 A.105 Alarm - Causes & Fix](/posts/yaskawa-ga800-vfd-a-105-fault-code/)
+- [Yaskawa GA800 E84 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e84-fault-code/)
+- [Yaskawa A1000 oU Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ou-fault-code/)

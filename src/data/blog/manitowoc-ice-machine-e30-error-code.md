@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 E30 is a control and programming fault that requires diagnostic equipment, manufacturer-approved software files, and familiarity with Manitowoc's service download procedures. A qualified ice-machine technician has access to the correct firmware versions, USB service tools, and replacement control boards matched to your specific model. Attempting firmware updates without the right file or procedure can brick the controller or void your warranty. If the fault does not clear after a simple power-cycle and visual inspection of the USB port, call a certified Manitowoc service provider to diagnose the control board, re-flash the software, or replace failed components in the USB interface path.
 
 **Rough cost:** A pro service call runs about $300-600.
+
+## See Also
+
+- [Manitowoc E03 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e03-error-code/)
+- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
+- [Manitowoc E15 Error Code — High-Side Pressure Switch Open Fix](/posts/manitowoc-e15-error-code/)
+- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)

@@ -68,3 +68,10 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 Call a pro if you are uncomfortable working inside the door trim or if you find damage to the interlock switch wiring or the main door hinge assembly. If replacing the latch spring or hook does not solve the problem and the door still will not engage the interlocks correctly, the issue may be misalignment of the entire door or a fault in the control board's interlock circuit, which requires diagnostic tools and experience to trace. Also call a technician if you see arcing, burned connectors, or any sign of electrical damage around the latch housing, since that points to a more complex interlock or high-voltage fault.
+
+## See Also
+
+- [LG Microwave F-3 Error - Causes & Fix](/posts/lg-microwave-f-3-error-code/)
+- [LG Oven Won't Stop Beeping - Causes & Fix](/posts/lg-oven-wont-stop-beeping/)
+- [LG Dryer D90 Error Code - Causes & Fix](/posts/lg-dryer-d90-error-code/)
+- [LG Washer Cd Error Code - Causes & Fix](/posts/lg-washer-cd-error-code/)

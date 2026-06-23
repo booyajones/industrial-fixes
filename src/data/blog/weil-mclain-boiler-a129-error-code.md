@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician immediately if you cannot locate the model manual, if the code does not appear in any Weil-McLain documentation, or if the boiler is locked out and will not fire. Gas-fired and oil-fired boilers involve combustion safety interlocks, pressure switches, and ignition sequences that require proper diagnostics and testing equipment. A technician can access fault history in the control board memory, measure relay voltages, and cross-reference the code with the exact control platform installed on your unit. Do not bypass any safety lockout or attempt to force the boiler to run while an unidentified fault code is displayed.
 
 **Rough cost:** A pro service call runs about $200-450.
+
+## See Also
+
+- [Weil-McLain A134 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a134-error-code/)
+- [Weil-McLain A125 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a125-error-code/)
+- [Weil-McLain A32 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a32-error-code/)
+- [Weil-McLain Boiler A21 Error - Causes & Fix](/posts/weil-mclain-boiler-a21-error-code/)

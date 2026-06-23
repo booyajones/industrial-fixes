@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified commercial refrigeration technician for E32 faults. Diagnosing RS485 communication problems requires access to the service manual, knowledge of the machine's control architecture, and the ability to safely work inside energized electrical compartments. The technician will perform systematic component substitution and may need to verify board voltages or use specialized diagnostic tools. Attempting board-level troubleshooting without proper training risks creating additional faults or electrical hazards.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Manitowoc E03 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e03-error-code/)
+- [Manitowoc IYT-0450 Error Codes — Fault Code Diagnostic Guide](/posts/manitowoc-iyt-0450-error-codes/)
+- [Manitowoc Ice Machine E05 Error - Causes & Fix](/posts/manitowoc-ice-machine-e05-error-code/)
+- [Manitowoc E15 Error - Causes & Fix](/posts/manitowoc-ice-machine-e15-error-code/)

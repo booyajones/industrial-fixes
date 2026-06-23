@@ -70,3 +70,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 If the Child Lock and power reset steps do not restore your keypad and you are not comfortable removing the control panel or working with ribbon connectors, call a qualified appliance technician. LG's official guidance is that an unresponsive control panel after these basic steps requires service. If you have already replaced the touchpad and the problem persists, a technician can test the control board signal path and determine whether board replacement is needed.
+
+## See Also
+
+- [LG Mini-Split CH38 Error Code — Causes & Fix](/posts/lg-mini-split-ch38-error-code/)
+- [LG Range F4 Error Code - Causes & Fix](/posts/lg-range-f4-error-code/)
+- [LG MVEL2033F Microwave Problems & Error Codes](/posts/lg-mvel2033f-microwave-problems/)
+- [LG Dishwasher IE Error Code - Causes & Fix](/posts/lg-dishwasher-ie-error-code/)

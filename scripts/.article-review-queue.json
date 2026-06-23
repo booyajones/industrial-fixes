@@ -880,5 +880,47 @@
     "score": 3,
     "reason": "Research explicitly states E70 code for State brand could not be verified from manufacturer materials; draft proceeds with unconfirmed/speculative content rather than declining to publish.",
     "date": "2026-06-22"
+  },
+  "state-water-heater-e104-error-code": {
+    "topic": "State water heater E104 error code",
+    "score": 4,
+    "reason": "The research explicitly states E104 is NOT a documented fault code for State Water Heaters; the draft proceeds anyway, violating criterion #1 for code authenticity.",
+    "date": "2026-06-23"
+  },
+  "state-water-heater-e141-error-code": {
+    "topic": "State water heater E141 error code",
+    "score": 3,
+    "reason": "E141 is NOT a documented State Water Heater code per the research; the draft acknowledges this but then builds an entire guide around a different code (E14), which is misleading and fails the fundamental requirement that the content must address the exact code for the exact brand.",
+    "date": "2026-06-23"
+  },
+  "state-water-heater-e173-error-code": {
+    "topic": "State water heater E173 error code",
+    "score": 3,
+    "reason": "E173 is not documented as a real State Water Heater error code per the research; the draft correctly identifies this but should not be published as a code-specific guide for a non-existent code.",
+    "date": "2026-06-23"
+  },
+  "abb-acs580-vfd-a2a2-fault-code": {
+    "topic": "ABB ACS580 VFD A2A2 fault code",
+    "score": 0,
+    "reason": "review error: HTTP Error 429: Too Many Requests",
+    "date": "2026-06-23"
+  },
+  "abb-acs580-vfd-a2a3-fault-code": {
+    "topic": "ABB ACS580 VFD A2A3 fault code",
+    "score": 2,
+    "reason": "A2A3 is explicitly NOT a real ABB ACS580 fault code per the research; publishing content for a non-existent code creates misinformation even if A2B3/A3A2 alternatives are discussed.",
+    "date": "2026-06-23"
+  },
+  "abb-acs580-vfd-a4a2-fault-code": {
+    "topic": "ABB ACS580 VFD A4A2 fault code",
+    "score": 2,
+    "reason": "A4A2 is explicitly NOT a real/documented ABB ACS580 fault code per the research; publishing speculative content about non-existent codes violates editorial standards for a technical repair site.",
+    "date": "2026-06-23"
+  },
+  "abb-acs580-vfd-a7a1-fault-code": {
+    "topic": "ABB ACS580 VFD A7A1 fault code",
+    "score": 3,
+    "reason": "Research documents A7CE (EFB comm loss) but does NOT confirm A7A1 exists for ACS580; the draft conflates two different codes without verification that A7A1 is real for this drive.",
+    "date": "2026-06-23"
   }
 }
