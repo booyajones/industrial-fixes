@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed technician if you smell gas, hear hissing or banging, or if the boiler continues to lock out after cleaning the flame sensor and confirming gas supply. Gas appliance work requires safe handling of combustible fuel, proper combustion analysis, and often a permit for code compliance. A technician will use a multimeter to test ignitor resistance (typically 1-10 Ω), measure flame sensor microamp output, and perform a flue-gas analysis to confirm safe combustion. If the control board shows intermittent thermal failure or if wiring faults are suspected, a pro can isolate the fault without risking further damage or creating a safety hazard.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [Weil-McLain E06 Error Code — Ignition Lockout](/posts/weil-mclain-e06-error-code/)
+- [Weil-McLain A84 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a84-error-code/)
+- [Weil-McLain Boiler Error Code E08 — Causes & Fix](/posts/weil-mclain-e08-error-code/)
+- [Weil-McLain Boiler A137 Error - Causes & Fix](/posts/weil-mclain-boiler-a137-error-code/)

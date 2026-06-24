@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or controls technician if you are not familiar with VFD safety circuits, 24VDC measurements, or parameter programming. Safe Torque Off is a critical safety function, and incorrect troubleshooting can create hazards. A professional should handle any work that involves replacing internal power supply boards or control boards, diagnosing electrical noise issues, or integrating the drive with machine safety systems. If the fault returns intermittently or you cannot locate the open circuit, a technician with a scope and wiring diagrams can trace the signal path and identify the root cause.
 
 **Rough cost:** A pro service call runs about $150-400 depending on whether the fix is wiring or a board replacement.
+
+## See Also
+
+- [ABB ACS580 B1 Fault Code - Causes & Fix](/posts/abb-acs580-b1-fault-code/)
+- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
+- [ABB ACS580 A7AB Fault - Causes & Fix](/posts/abb-acs580-a7ab-fault-code/)
+- [ABB VFD Fault 2201 — Overcurrent Fix](/posts/abb-vfd-fault-2201-overcurrent/)

@@ -81,3 +81,10 @@ Answer these to narrow it down fast.
 Call a professional immediately. A134 involves the gas ignition and flame-proving system, which requires a trained technician to safely diagnose and repair. Repeated lockouts without finding the root cause can damage the control or create unsafe conditions. The technician will use combustion-analysis tools, a multimeter, and the model-specific service manual to test ignitor current draw, flame-sensor microamperage, gas valve operation, and control-board outputs. Work on gas-fired equipment must comply with local codes and should be performed by a licensed technician.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Weil-McLain A51 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a51-error-code/)
+- [Weil-McLain Boiler A143 Error - Causes & Fix](/posts/weil-mclain-boiler-a143-error-code/)
+- [Weil-McLain A13 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a13-error-code/)
+- [Weil-McLain A29 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a29-error-code/)

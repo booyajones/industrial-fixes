@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 LG explicitly designates F-11 as a service-required fault. Microwave inverter boards operate at high voltage even when unplugged due to stored capacitor charge, and incorrect handling can cause severe shock or further damage. If you are not trained in high-voltage appliance repair, do not attempt to diagnose or replace boards yourself. A qualified appliance technician has the tools to safely discharge capacitors, test communication signals, and replace the correct board. Call a pro immediately if you see any arcing, burning smell, or if the code returns after a simple reset.
 
 **Rough cost:** A pro service call runs about $150–350 depending on the board and labor.
+
+## See Also
+
+- [LG Dishwasher IE Error Code - Causes & Fix](/posts/lg-dishwasher-ie-error-code/)
+- [LG Washer Overflowing - Causes & Fix](/posts/lg-washer-overflowing/)
+- [LG Microwave F5 Error - Causes & Fix](/posts/lg-microwave-f5-error-code/)
+- [LG Mini Split CH29 Error Code - Causes & Fix](/posts/lg-mini-split-ch29-error-code/)

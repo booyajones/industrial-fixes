@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 E34 is an electrical diagnostic issue that requires opening the ice machine cabinet, working near live control boards, and verifying low-voltage signal paths. If you are not comfortable working with control boards, ribbon connectors, or do not have the service manual for your exact Manitowoc model, call a commercial refrigeration or ice machine technician. A pro can quickly test the control board input, verify the keypad membrane integrity, and source the correct replacement parts. If the machine is under warranty or you lack the tools to safely open and service the unit, professional service is the best choice.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Manitowoc E30 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e30-error-code/)
+- [Manitowoc Indigo NXT Ice Machine Complete Troubleshooting Guide](/posts/manitowoc-indigo-nxt-complete-guide/)
+- [Manitowoc IY-0454 Error Codes — Fix Guide](/posts/manitowoc-iy-0454-error-codes/)
+- [Manitowoc Ice Machine E01 Error Code — Causes & Fix](/posts/manitowoc-ice-machine-error-code-e01/)

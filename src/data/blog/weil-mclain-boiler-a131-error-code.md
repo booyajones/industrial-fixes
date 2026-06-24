@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician immediately if you smell gas, if the code appears alongside unusual burner behavior (delayed ignition, yellow flame, or soot), or if you are not comfortable working with gas-fired equipment. A professional should also handle all combustion-air and vent-pressure testing, gas-valve checks, and control-board diagnostics, because incorrect adjustments can create unsafe operating conditions or void your warranty. Weil-McLain requires warranty part claims to include the failed part description and boiler CP/serial number, so a qualified contractor will document findings properly and make sure any replacement meets manufacturer specifications.
 
 **Rough cost:** A pro service call runs about $150–350.
+
+## See Also
+
+- [Weil-McLain A02 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a02-error-code/)
+- [Weil-McLain A150 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a150-error-code/)
+- [Weil-McLain Code 1 — No Flame Sensed Fix](/posts/weil-mclain-error-code-1/)
+- [Weil-McLain Boiler A78 Error - Causes & Fix](/posts/weil-mclain-boiler-a78-error-code/)

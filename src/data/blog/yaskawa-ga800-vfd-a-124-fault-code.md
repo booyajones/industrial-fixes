@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or Yaskawa-certified technician if the alarm code cannot be identified in the manual, if the fault recurs after wiring and parameter corrections, or if you lack the tools to safely measure high-voltage DC bus, motor insulation, or encoder signals. Professional service is also required when the drive shows signs of internal board damage, such as burn marks, failed component startup, or alarms that persist across multiple power cycles with no external cause. Yaskawa technical support can provide remote diagnostics via DriveWizard Industrial and recommend whether board repair, drive replacement, or factory service is the most cost-effective solution for your specific GA800 model and application.
 
 **Rough cost:** A pro service call runs about $200-800 depending on actual fault.
+
+## See Also
+
+- [Yaskawa A1000 CPF07 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf07-fault-code/)
+- [Yaskawa GA800 E07 Fault - Causes & Fix](/posts/yaskawa-ga800-e07-fault-code/)
+- [Yaskawa GA800 E98 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e98-fault-code/)
+- [Yaskawa VFD Fault Codes — Complete Reference (V1000, A1000, GA700)](/posts/yaskawa-vfd-fault-codes/)

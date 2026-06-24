@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you have restored system pressure, bled all air, confirmed all valves are open, and the A130 fault returns after one reset. The technician will retrieve the full fault history from the control, measure sensor resistance and voltage against the model-specific table, verify ignition and flame sensing if applicable, and test the circulator and control board with proper test equipment. Do not attempt repeated resets or any work on gas piping, combustion components, or high-voltage wiring. If you smell gas or see water leaking from the boiler, shut off the gas valve and power switch and call immediately.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A04 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a04-error-code/)
+- [Weil-McLain A74 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a74-error-code/)
+- [Weil-McLain Boiler A69 Error - Causes & Fix](/posts/weil-mclain-boiler-a69-error-code/)
+- [Weil-McLain Boiler A24 Error - Causes & Fix](/posts/weil-mclain-boiler-a24-error-code/)

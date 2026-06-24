@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified appliance technician for any F-2 error. Microwave service requires working near high-voltage components, including the magnetron and capacitor, which can store a lethal charge even after the unit is unplugged. A technician has the tools and training to safely discharge the capacitor, measure the thermistor against factory specifications, and replace the sensor or control board without risking shock. If you see the F-2 code, unplug the microwave and schedule service rather than attempting cabinet removal yourself.
 
 **Rough cost:** A pro service call runs about $150–$300.
+
+## See Also
+
+- [LG Dishwasher Not Draining - Causes & Fix](/posts/lg-dishwasher-not-draining/)
+- [LG Dishwasher Not Dispensing Detergent - Causes & Fix](/posts/lg-dishwasher-not-dispensing-detergent/)
+- [LG Refrigerator IF Error Code - Causes & Fix](/posts/lg-refrigerator-if-error-code/)
+- [LG Refrigerator dH Error Code - Causes & Fix](/posts/lg-refrigerator-dh-error-code/)

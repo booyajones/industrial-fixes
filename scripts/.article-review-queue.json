@@ -922,5 +922,29 @@
     "score": 3,
     "reason": "Research documents A7CE (EFB comm loss) but does NOT confirm A7A1 exists for ACS580; the draft conflates two different codes without verification that A7A1 is real for this drive.",
     "date": "2026-06-23"
+  },
+  "abb-acs580-vfd-a7a4-fault-code": {
+    "topic": "ABB ACS580 VFD A7A4 fault code",
+    "score": 3,
+    "reason": "A7A4 is NOT a documented ABB ACS580 fault code; research confirms this is likely user misreading of 7122, making the entire article based on an unverified/non-existent code for this drive model.",
+    "date": "2026-06-24"
+  },
+  "abb-acs580-vfd-a7a5-fault-code": {
+    "topic": "ABB ACS580 VFD A7A5 fault code",
+    "score": 2,
+    "reason": "The research explicitly states A7A5 is NOT a real ABB ACS580 fault code; publishing content for a non-existent code violates technical accuracy requirements regardless of how the draft attempts to redirect users.",
+    "date": "2026-06-24"
+  },
+  "danfoss-fc302-vfd-al-19-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-19 fault code",
+    "score": 0,
+    "reason": "review error: HTTP Error 429: Too Many Requests",
+    "date": "2026-06-24"
+  },
+  "danfoss-fc302-vfd-al-74-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-74 fault code",
+    "score": 2,
+    "reason": "Research explicitly confirms Alarm 74 does NOT exist in Danfoss FC302 documentation; draft correctly identifies this but then publishes an article about a non-existent code, creating confusion rather than redirecting users to valid codes.",
+    "date": "2026-06-24"
   }
 }

@@ -71,3 +71,10 @@ Answer these to narrow it down fast.
 Call a qualified drives technician or Yaskawa-certified service partner whenever you cannot confirm the exact fault code from the manual, when the drive is part of a networked or safety-rated system, or when you lack the test equipment to measure DC bus voltage, gate signals, or encoder feedback. High-voltage work on VFD power modules and control boards requires specialized training and insulated tools. If the drive has been modified with custom programming or fieldbus integration, the original system integrator or machine builder should diagnose non-standard codes before you replace any hardware.
 
 **Rough cost:** A pro service call runs about $150–400.
+
+## See Also
+
+- [Yaskawa GA800 E63 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e63-fault-code/)
+- [Yaskawa A1000 Uv1 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-uv1-fault-code/)
+- [Yaskawa GA800 A.106 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-106-fault-code/)
+- [Yaskawa GA800 E16 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e16-fault-code/)

@@ -4711,6 +4711,106 @@
     "abb-acs580-vfd-a7a3-fault-code": {
       "topic": "ABB ACS580 VFD A7A3 fault code",
       "date": "2026-06-23"
+    },
+    "abb-acs580-vfd-a7a2-fault-code": {
+      "topic": "ABB ACS580 VFD A7A2 fault code",
+      "date": "2026-06-24"
+    },
+    "abb-acs580-vfd-a7a4-fault-code": {
+      "topic": "ABB ACS580 VFD A7A4 fault code",
+      "date": "2026-06-24"
+    },
+    "abb-acs580-vfd-a7a5-fault-code": {
+      "topic": "ABB ACS580 VFD A7A5 fault code",
+      "date": "2026-06-24"
+    },
+    "siemens-micromaster-vfd-f0221-fault-code": {
+      "topic": "Siemens Micromaster VFD F0221 fault code",
+      "date": "2026-06-24"
+    },
+    "siemens-micromaster-vfd-f0222-fault-code": {
+      "topic": "Siemens Micromaster VFD F0222 fault code",
+      "date": "2026-06-24"
+    },
+    "danfoss-fc302-vfd-al-19-fault-code": {
+      "topic": "Danfoss FC302 VFD AL-19 fault code",
+      "date": "2026-06-24"
+    },
+    "danfoss-fc302-vfd-al-60-fault-code": {
+      "topic": "Danfoss FC302 VFD AL-60 fault code",
+      "date": "2026-06-24"
+    },
+    "danfoss-fc302-vfd-al-62-fault-code": {
+      "topic": "Danfoss FC302 VFD AL-62 fault code",
+      "date": "2026-06-24"
+    },
+    "danfoss-fc302-vfd-al-63-fault-code": {
+      "topic": "Danfoss FC302 VFD AL-63 fault code",
+      "date": "2026-06-24"
+    },
+    "danfoss-fc302-vfd-al-64-fault-code": {
+      "topic": "Danfoss FC302 VFD AL-64 fault code",
+      "date": "2026-06-24"
+    },
+    "danfoss-fc302-vfd-al-65-fault-code": {
+      "topic": "Danfoss FC302 VFD AL-65 fault code",
+      "date": "2026-06-24"
+    },
+    "danfoss-fc302-vfd-al-66-fault-code": {
+      "topic": "Danfoss FC302 VFD AL-66 fault code",
+      "date": "2026-06-24"
+    },
+    "danfoss-fc302-vfd-al-67-fault-code": {
+      "topic": "Danfoss FC302 VFD AL-67 fault code",
+      "date": "2026-06-24"
+    },
+    "danfoss-fc302-vfd-al-68-fault-code": {
+      "topic": "Danfoss FC302 VFD AL-68 fault code",
+      "date": "2026-06-24"
+    },
+    "danfoss-fc302-vfd-al-69-fault-code": {
+      "topic": "Danfoss FC302 VFD AL-69 fault code",
+      "date": "2026-06-24"
+    },
+    "danfoss-fc302-vfd-al-70-fault-code": {
+      "topic": "Danfoss FC302 VFD AL-70 fault code",
+      "date": "2026-06-24"
+    },
+    "danfoss-fc302-vfd-al-71-fault-code": {
+      "topic": "Danfoss FC302 VFD AL-71 fault code",
+      "date": "2026-06-24"
+    },
+    "danfoss-fc302-vfd-al-72-fault-code": {
+      "topic": "Danfoss FC302 VFD AL-72 fault code",
+      "date": "2026-06-24"
+    },
+    "danfoss-fc302-vfd-al-73-fault-code": {
+      "topic": "Danfoss FC302 VFD AL-73 fault code",
+      "date": "2026-06-24"
+    },
+    "danfoss-fc302-vfd-al-74-fault-code": {
+      "topic": "Danfoss FC302 VFD AL-74 fault code",
+      "date": "2026-06-24"
+    },
+    "danfoss-fc302-vfd-al-76-fault-code": {
+      "topic": "Danfoss FC302 VFD AL-76 fault code",
+      "date": "2026-06-24"
+    },
+    "danfoss-fc302-vfd-al-77-fault-code": {
+      "topic": "Danfoss FC302 VFD AL-77 fault code",
+      "date": "2026-06-24"
+    },
+    "danfoss-fc302-vfd-al-78-fault-code": {
+      "topic": "Danfoss FC302 VFD AL-78 fault code",
+      "date": "2026-06-24"
+    },
+    "danfoss-fc302-vfd-al-79-fault-code": {
+      "topic": "Danfoss FC302 VFD AL-79 fault code",
+      "date": "2026-06-24"
+    },
+    "danfoss-fc302-vfd-al-81-fault-code": {
+      "topic": "Danfoss FC302 VFD AL-81 fault code",
+      "date": "2026-06-24"
     }
   }
 }

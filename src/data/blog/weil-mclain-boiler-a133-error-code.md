@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician for any A133 fault. Gas-fired boilers require specialized tools, combustion testing, and knowledge of local codes. Incorrect diagnosis or repair can result in carbon monoxide hazards, gas leaks, or property damage. A technician will retrieve the exact code definition from the control, test ignition and flame-proving circuits with a microamp meter, verify sensor readings against factory specifications, perform combustion analysis, and make sure safe operation after the repair. If the fault involves the control board, gas valve, or venting system, professional service is required.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Weil-McLain A170 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a170-error-code/)
+- [Weil-McLain Boiler A124 Error - Causes & Fix](/posts/weil-mclain-boiler-a124-error-code/)
+- [Weil-McLain A81 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a81-error-code/)
+- [Weil-McLain Boiler A141 Error - Causes & Fix](/posts/weil-mclain-boiler-a141-error-code/)

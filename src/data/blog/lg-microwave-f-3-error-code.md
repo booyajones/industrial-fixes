@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a professional if the F-3 code persists after cleaning the keypad, performing a power reset, and reseating the ribbon connector. A technician can perform service diagnostics on the control panel assembly, test for short circuits or communication faults, and replace the correct component. LG recommends professional service inspection when cleaning and a reset do not resolve the error, because the fault may involve the broader control electronics or require board-level troubleshooting beyond simple part replacement.
 
 **Rough cost:** DIY runs about $50-150 in parts, 30-60 min. A pro service call runs about $150-300.
+
+## See Also
+
+- [LG Range F4 Error Code - Causes & Fix](/posts/lg-range-f4-error-code/)
+- [LG Washer Shaking and Loud - Causes & Fix](/posts/lg-washer-shaking-and-loud/)
+- [LG Oven F3 Error Code - Causes & Fix](/posts/lg-oven-f3-error-code/)
+- [LG Refrigerator rF Error Code - Causes & Fix](/posts/lg-refrigerator-rf-error-code/)

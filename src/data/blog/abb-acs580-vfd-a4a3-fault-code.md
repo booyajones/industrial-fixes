@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or VFD technician if you are not trained in safe lock-out/tag-out procedures for high-voltage equipment. Even after power-down, the ACS580 retains dangerous DC bus voltages in its capacitors. A professional can safely diagnose whether the fault is a simple fan replacement, a control board failure, or a power unit issue requiring replacement of major components. If the fault persists after cleaning and fan replacement, or if you measure no 24V supply at the control board, the drive may need factory-level service or board replacement that requires programming and commissioning.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [ABB ACH580 HVAC VFD Fault Codes — Full Diagnostic Guide - What It Means and How to Fix It](/posts/abb-ach580-fault-codes/)
+- [ABB VFD Fault 3210 — Causes & Fix](/posts/abb-vfd-fault-3210/)
+- [ABB ACS580 A7A3 Fault - Causes & Fix](/posts/abb-acs580-vfd-a7a3-fault-code/)
+- [ABB ACS580 A2B4 Fault Code - Causes & Fix](/posts/abb-acs580-a2b4-fault-code/)

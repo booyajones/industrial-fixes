@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified drive technician or an authorized Yaskawa service center for any A.123 fault. The drive contains high-voltage DC bus capacitors that remain charged long after AC input is removed, and incorrect troubleshooting can destroy the control board or create an arc-flash hazard. Do not perform withstand-voltage or Megger insulation tests on the drive. If U4-06 is above 90 percent, only a factory-trained technician should replace the control board or drive, because parameter cloning, option-card transfer, and firmware matching are all critical to a successful swap. If your facility does not have in-house VFD repair capability, this is always a professional call.
 
 **Rough cost:** A pro service call runs about $500-2500.
+
+## See Also
+
+- [Yaskawa GA800 A.128 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-128-fault-code/)
+- [Yaskawa A1000 CPF12 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf12-fault-code/)
+- [Yaskawa V1000 OV Fault - What It Means and How to Fix It](/posts/yaskawa-v1000-fault-ov/)
+- [Yaskawa A1000 CPF03 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf03-fault-code/)

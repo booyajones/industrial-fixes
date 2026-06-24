@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a technician if you are uncomfortable working near the high-voltage capacitor and magnetron inside the microwave cabinet. Even when unplugged, the capacitor can hold a lethal charge until it is properly discharged with an insulated screwdriver across its terminals. A service tech will safely discharge the unit, diagnose whether the control board or keypad is at fault, and install the correct replacement part. Professional help is also wise if you lack a service manual with the exact board location and connector pinout for your model, or if you have already replaced the board and E10 continues to appear.
 
 **Rough cost:** DIY runs about $80–180 for the control board, 30–60 min. A pro service call runs about $150–300 including labor and board.
+
+## See Also
+
+- [LG Microwave F-5 Error Code - Causes & Fix](/posts/lg-microwave-f-5-error-code/)
+- [LG Range PE Error Code - Causes & Fix](/posts/lg-range-pe-error-code/)
+- [LG Range HE Error Code - Causes & Fix](/posts/lg-range-he-error-code/)
+- [LG Refrigerator gF Error Code - Causes & Fix](/posts/lg-refrigerator-gf-error-code/)

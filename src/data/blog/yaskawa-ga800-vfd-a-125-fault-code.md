@@ -71,3 +71,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa-authorized service provider immediately if you cannot find the A.125 code in your drive's manual. Variable-frequency drives operate at high DC bus voltages (up to 800 VDC for 480 VAC models) and contain large capacitors that remain charged after input power is removed. Attempting repairs without proper training, insulated tools, and manufacturer guidance can result in severe electric shock, equipment damage, or voided warranty. A technician will use Yaskawa's DriveWizard software or a direct support line to decode the alarm, retrieve fault history, and perform safe diagnostic tests on the control boards, power stage, and any installed option cards.
 
 **Rough cost:** A pro service call runs about $150–400 for diagnostic visit and code verification; repair cost depends on actual fault once identified.
+
+## See Also
+
+- [Yaskawa GA800 A.111 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-111-fault-code/)
+- [Yaskawa GA800 E23 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e23-fault-code/)
+- [Yaskawa GA800 E71 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e71-fault-code/)
+- [Yaskawa A1000 oL5 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol5-fault-code/)

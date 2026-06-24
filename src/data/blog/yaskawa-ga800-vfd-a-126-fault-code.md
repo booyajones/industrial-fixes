@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa-authorized service provider if the exact meaning of A.126 cannot be confirmed in your manual, if the fault persists after reseating option cards and checking wiring, or if you are not trained to work safely on high-voltage industrial equipment. High-voltage VFDs require proper lockout/tagout procedures, knowledge of DC bus discharge times, and diagnostic tools such as DriveWizard Industrial software. Attempting repairs without this training can result in electric shock, equipment damage, or incorrect diagnosis that leads to unnecessary part replacement. A qualified technician can retrieve detailed fault logs, verify parameter settings, and coordinate with Yaskawa support to identify non-standard codes or firmware-specific issues.
 
 **Rough cost:** A pro service call runs about $150-400 depending on diagnosis and travel.
+
+## See Also
+
+- [Yaskawa GA800 A.112 Alarm - Causes & Fix](/posts/yaskawa-ga800-vfd-a-112-fault-code/)
+- [Yaskawa GA800 E57 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e57-fault-code/)
+- [Yaskawa GA800 E87 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e87-fault-code/)
+- [Yaskawa GA800 A.107 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-107-fault-code/)
