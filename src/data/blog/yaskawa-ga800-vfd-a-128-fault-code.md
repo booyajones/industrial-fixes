@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified drive technician or automation integrator if you cannot verify the exact meaning of A.128 from your manual, if encoder or control wiring inspection does not reveal an obvious fault, or if the fault persists after reseating option cards and cycling power. VFD troubleshooting requires multimeter skills, knowledge of encoder signal types, and sometimes oscilloscope work to diagnose noise or communication faults. High DC bus voltage remains present inside the drive even after AC input is disconnected, so only personnel trained in high-voltage electrical work should open the drive enclosure or measure internal circuits. If your process cannot tolerate extended downtime, have Yaskawa or an authorized service center diagnose and repair the drive to avoid misdiagnosis and repeat failures.
 
 **Rough cost:** A pro service call runs about $150-400 depending on diagnosis and parts.
+
+## See Also
+
+- [Yaskawa V1000 OV Fault - What It Means and How to Fix It](/posts/yaskawa-v1000-fault-ov/)
+- [Yaskawa VFD Fault Codes — Complete Reference (V1000, A1000, GA700)](/posts/yaskawa-vfd-fault-codes/)
+- [Yaskawa GA800 E02 Fault - Causes & Fix](/posts/yaskawa-ga800-e02-fault-code/)
+- [Yaskawa A1000 HbbF Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-hbbf-fault-code/)

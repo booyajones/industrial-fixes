@@ -70,3 +70,10 @@ Answer these to narrow it down fast.
 Call a qualified appliance technician for the F11 code. Microwave ovens contain high-voltage capacitors that can hold a lethal charge even after the unit is unplugged, and working inside the cabinet requires discharge procedures and insulated tools. LG lists this code as a service-required fault. A technician will safely discharge the capacitor, trace the communication path between the control board and inverter, test each board, and replace the failed component. If you see burn marks, smell electrical odors, or hear arcing sounds, do not attempt to operate or open the microwave and call for service immediately.
 
 **Rough cost:** A pro service call runs about $150–350 depending on the part replaced.
+
+## See Also
+
+- [LG Washer Drain Pump Replacement - Signs & How-To](/posts/lg-washer-drain-pump-replacement/)
+- [LG Refrigerator rS Error Code - Causes & Fix](/posts/lg-refrigerator-rs-error-code/)
+- [LG Microwave F-3 Error - Causes & Fix](/posts/lg-microwave-f-3-error-code/)
+- [LG Refrigerator Error Codes — Complete Fix Guide](/posts/lg-refrigerator-error-codes/)

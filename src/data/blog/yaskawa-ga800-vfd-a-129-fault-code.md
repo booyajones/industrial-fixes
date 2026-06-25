@@ -70,3 +70,10 @@ Answer these to narrow it down fast.
 Call a qualified drives technician or Yaskawa-certified service provider if you cannot confirm the exact alarm code in your manual, if the drive is part of a critical production line, or if you need help with DriveWizard software and internal diagnostics. VFD troubleshooting involves high DC bus voltages (even after power-down), and opening the drive or replacing internal boards requires proper lockout/tagout procedures and knowledge of capacitor discharge times. A technician can verify the alarm history, check parameter settings, and determine whether the display is showing a valid fault, a configuration issue, or a hardware problem with the keypad or control card.
 
 **Rough cost:** A pro service call runs about $150-400 for service call and diagnosis, depending on actual fault.
+
+## See Also
+
+- [Yaskawa GA800 E37 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e37-fault-code/)
+- [Yaskawa GA800 E10 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e10-fault-code/)
+- [Yaskawa GA800 A.117 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-117-fault-code/)
+- [Yaskawa GA800 E93 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e93-fault-code/)

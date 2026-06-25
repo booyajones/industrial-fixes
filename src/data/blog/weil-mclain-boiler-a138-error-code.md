@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified heating technician if you cannot access the diagnostic menu, if the fault history shows multiple unrelated codes, if you do not have the service manual for your specific model, or if electrical testing and relay or sensor replacement are beyond your skill level. Gas-fired boiler work involves combustion safety, venting, and electrical controls that require proper training and test equipment. Incorrect diagnosis or part replacement can leave the system unsafe or cause repeated failures. A technician can retrieve the fault history, cross-reference the A138 code in the correct manual, test the suspected component, and replace only the failed part with the manufacturer-approved part number.
 
 **Rough cost:** A pro service call runs about $200-450.
+
+## See Also
+
+- [Weil-McLain A35 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a35-error-code/)
+- [Weil-McLain A164 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a164-error-code/)
+- [Weil-McLain A38 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a38-error-code/)
+- [Weil-McLain Boiler A25 Error - Causes & Fix](/posts/weil-mclain-boiler-a25-error-code/)

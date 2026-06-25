@@ -71,3 +71,10 @@ Answer these to narrow it down fast.
 Call a qualified drive technician or Yaskawa-authorized service center if you cannot locate the exact code in the GA800 manual, if the drive will not power up, or if the fault persists after reseating option cards and verifying wiring. VFD troubleshooting requires multimeter diagnostics, firmware tools, and knowledge of motor control to avoid damage to the drive or connected equipment. Always work with a technician familiar with Yaskawa drives when the fault code is uncertain or when high-voltage circuits are involved.
 
 **Rough cost:** A pro service call runs about $200-500 for service call and diagnostics, plus parts if option card or control board replacement is needed.
+
+## See Also
+
+- [Yaskawa GA800 E61 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e61-fault-code/)
+- [Yaskawa GA800 E82 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e82-fault-code/)
+- [Yaskawa VFD Fault OH — Causes & Fix](/posts/yaskawa-vfd-fault-oh/)
+- [Yaskawa GA800 E17 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e17-fault-code/)

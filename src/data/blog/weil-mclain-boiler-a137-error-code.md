@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician immediately if you smell gas, if the boiler repeatedly locks out after you reset it, or if you are unfamiliar with entering the diagnostics menu and interpreting fault codes. Because Weil-McLain fault codes are model-specific and the same display can mean different things on different controls, a technician with the correct service manual and diagnostic tools is essential for accurate troubleshooting. Gas-fired boiler work involves testing ignition circuits, combustion air proving, and venting—all of which require specialized training and a combustion analyzer to verify safe, efficient operation. If you have replaced a sensor or flame rod and the lockout persists, a professional must trace the wiring, test the control board outputs, and confirm that the root cause has been corrected rather than masked.
 
 **Rough cost:** A pro service call runs about $200–500.
+
+## See Also
+
+- [Weil-McLain A175 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a175-error-code/)
+- [Weil-McLain A94 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a94-error-code/)
+- [Weil-McLain A06 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a06-error-code/)
+- [Weil-McLain A28 Error - Causes & Fix](/posts/weil-mclain-boiler-a28-error-code/)

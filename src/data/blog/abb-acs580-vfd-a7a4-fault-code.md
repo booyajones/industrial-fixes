@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or automation electrician if you have verified motor parameters and mechanical load but the fault persists, if you lack the tools to safely measure insulation resistance or work inside the VFD enclosure, or if the event log shows erratic current readings that suggest internal board damage. Professional diagnosis with Drive Composer software and oscilloscope testing of the power section can pinpoint whether the issue is a faulty current sensor, damaged gate driver, or control board failure. Also call a pro if the application requires custom overload curves or if you need to configure advanced motor protection parameters for variable-torque or high-inertia loads.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [ABB ACS550 AI1 LOSS - Causes & Fix](/posts/abb-acs550-vfd-ai1-loss-fault-code/)
+- [ABB ACS880 Complete Fault Code Guide — All Faults and Fixes](/posts/abb-acs880-complete-guide/)
+- [ABB VFD Fault 9300 — Causes & Fix](/posts/abb-vfd-fault-9300/)
+- [ABB ACS580 FF63 - STO Diagnostics Failure Fix](/posts/abb-acs580-ff63-fault-code/)

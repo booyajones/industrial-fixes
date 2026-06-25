@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable working around high-voltage components or removing the microwave cabinet. Even after unplugging, the high-voltage capacitor in the magnetron circuit can hold a dangerous charge. LG recommends professional service for the F1 code because diagnosing board-level faults requires specialized test equipment and knowledge of the control architecture. A qualified technician can verify the board fault, confirm that the transformer and magnetron are not contributing to the problem, and install a genuine LG replacement board with the correct firmware. If your microwave is still under warranty, contact LG or an authorized service center before opening the unit, as self-repair may void coverage.
 
 **Rough cost:** A pro service call runs about $200–400.
+
+## See Also
+
+- [LG Washer Burning Smell - Causes & Fix](/posts/lg-washer-burning-smell/)
+- [LG Washer dE Error Code - Causes & Fix](/posts/lg-washer-de-error-code/)
+- [LG Oven Burner Won't Light - Causes & Fix](/posts/lg-oven-burner-wont-light/)
+- [LG Dryer tE2 Error Code - Causes & Fix](/posts/lg-dryer-te2-error-code/)

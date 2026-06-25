@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial-controls technician or Yaskawa-authorized service center whenever an undocumented fault code appears on a VFD. Variable-frequency drives operate at lethal voltages (up to 690 V AC and high DC bus voltages) and contain large capacitors that remain charged after power-off. Incorrect troubleshooting can destroy the drive, damage connected equipment, or cause serious injury. A professional will use the manufacturer's service software to read internal diagnostics, verify firmware integrity, and replace control boards under proper ESD precautions. If your process cannot tolerate downtime, keep a spare drive or critical option cards on hand and establish a support agreement with a local distributor.
 
 **Rough cost:** A pro service call runs about $150–400 depending on whether the fix is a card reseat, option-card replacement, or full drive swap.
+
+## See Also
+
+- [Yaskawa A1000 GF Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-gf-fault-code/)
+- [Yaskawa GA800 A.111 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-111-fault-code/)
+- [Yaskawa A1000 oU Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ou-fault-code/)
+- [Yaskawa GA800 A.146 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-146-fault-code/)

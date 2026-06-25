@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or an ABB-certified service partner if the fault persists after you have verified motor parameters, run the calibration routine at parameter 99.13, and inspected control board connections. Working inside a variable frequency drive involves high-voltage DC bus capacitors that can remain charged for minutes after power-down, and incorrectly replacing boards or sensors can damage the drive or void warranties. A technician has the tools to measure the internal 24V supply, safely test current sensor circuits, and access ABB diagnostic software. If your facility does not have personnel trained in VFD repair, a service call is the safer and faster route to restoring operation.
 
 **Rough cost:** A pro service call runs about $200-500 for service call and board replacement if needed.
+
+## See Also
+
+- [ABB ACS580 A3A2 Fault - Causes & Fix](/posts/abb-acs580-vfd-a3a2-fault-code/)
+- [ABB ACS580 A7A2 Fault - Causes & Fix](/posts/abb-acs580-vfd-a7a2-fault-code/)
+- [ABB Inverter Fault Code F0001 - Causes & Fix](/posts/abb-inverter-fault-code-f0001/)
+- [ABB ACS550 AI2 LOSS Fault - Causes & Fix](/posts/abb-acs550-ai2-loss-fault-code/)

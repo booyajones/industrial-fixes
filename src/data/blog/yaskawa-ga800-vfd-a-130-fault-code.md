@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or Yaskawa-certified technician if you cannot locate the A.130 code in your manual, if the fault persists after verifying wiring and parameters, or if you lack the tools and training to work safely with three-phase power and VFD internals. Professional diagnosis with DriveWizard software and oscilloscope tests can quickly identify whether the issue is external wiring, a parameter conflict, or internal drive failure. Replacing a VFD without proper diagnosis often wastes money and leaves the root cause unresolved.
 
 **Rough cost:** A pro service call runs about $150-400 depending on diagnosis time and whether repair or replacement is needed.
+
+## See Also
+
+- [Yaskawa GA800 E11 Error Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e11-fault-code/)
+- [Yaskawa A1000 oP Fault Code - Causes & Fix](/posts/yaskawa-a1000-vfd-op-fault-code/)
+- [Yaskawa GA800 E18 Error - Causes & Fix](/posts/yaskawa-ga800-e18-fault-code/)
+- [Yaskawa GA800 E03 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e03-fault-code/)

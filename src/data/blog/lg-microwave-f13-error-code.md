@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a professional technician for the F13 voltage error because diagnosis requires measuring line voltage under load, disassembling the microwave cabinet, and testing or replacing the main control board and power-supply circuitry. LG explicitly directs service for this code rather than a homeowner reset. The work involves high-voltage components (the microwave's internal supply runs at line voltage and feeds the magnetron circuit) and requires proper test equipment and knowledge of appliance power electronics. If you are uncomfortable working with 120 V AC, if you lack a multimeter and hand tools, or if the fault persists after you have verified good line voltage and clean connections, schedule a service call. A qualified appliance technician will isolate the fault, order the correct board or harness for your model, and complete the repair safely.
 
 **Rough cost:** A pro service call runs about $150–$350.
+
+## See Also
+
+- [LG Oven F7 Error Code - Causes & Fix](/posts/lg-oven-f7-error-code/)
+- [LG Range F1 Error Code - Causes & Fix](/posts/lg-range-f1-error-code/)
+- [LG Oven Self-Clean Not Working - Causes & Fix](/posts/lg-oven-self-clean-not-working/)
+- [LG Washer dE Error Code - Causes & Fix](/posts/lg-washer-de-error-code/)

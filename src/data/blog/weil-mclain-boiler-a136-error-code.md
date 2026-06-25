@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a professional immediately if the A136 code appears and you cannot find it listed in your boiler's service manual, if the fault returns after a single reset, or if you are uncomfortable working near gas piping and electrical controls. Because Weil-McLain uses different control platforms across its Ultra, Evergreen, GV90+, CGa, PEG, ECO Tec, and Aqua Balance lines, accurate diagnosis requires the correct service literature and a meter to test sensor resistance, voltage, and continuity. A qualified technician will pull the fault history from the control, measure all sensor readings against the model-specific table, and verify gas pressure, ignition sequence, and condensate drainage if applicable. Attempting repeated resets or replacing parts without a confirmed diagnosis wastes time and money and may void your warranty, since Weil-McLain requires the exact model/CP number and failed-part documentation for warranty claims.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Weil-McLain A110 Error - Causes & Fix](/posts/weil-mclain-boiler-a110-error-code/)
+- [Weil-McLain Boiler A120 Error - Causes & Fix](/posts/weil-mclain-boiler-a120-error-code/)
+- [Weil-McLain A181 Error - Causes & Fix](/posts/weil-mclain-boiler-a181-error-code/)
+- [Weil-McLain Boiler A109 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a109-error-code/)

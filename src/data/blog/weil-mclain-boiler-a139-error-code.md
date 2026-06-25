@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified HVAC technician whenever you cannot access the diagnostics menu, the fault code is not listed in your manual, or the boiler repeatedly locks out after you clear the error. Gas-fired boilers require a licensed professional to test gas pressure, verify combustion air and venting, inspect the heat exchanger, and handle any repairs involving the gas valve, burner assembly, or sealed combustion chamber. Technicians have the manufacturer-specific diagnostic tools and code libraries needed to decode model-specific faults, retrieve detailed lockout histories, and make sure safe operation. If you are unsure of your boiler's exact model or the fault involves high-voltage controls, combustion components, or pressure switches, professional service is the safest and most reliable path to a correct repair.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A76 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a76-error-code/)
+- [Weil-McLain Boiler A156 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a156-error-code/)
+- [Weil-McLain Boiler A180/E18 Error - Causes & Fix](/posts/weil-mclain-boiler-a180-error-code/)
+- [Weil-McLain Boiler A149 Error - Causes & Fix](/posts/weil-mclain-boiler-a149-error-code/)

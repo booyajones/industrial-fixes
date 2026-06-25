@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you cannot locate the service manual for your control module, if the fault history shows multiple codes you do not understand, or if testing the safety chain requires working with gas piping, flame-proving circuits, or high-voltage ignition components. Gas boiler diagnostics demand specific tools (manometer, combustion analyzer, multimeter) and knowledge of the control logic. A technician can pull the full fault log, cross-reference A135 against the manufacturer fault table, and test each input circuit safely. Misdiagnosing the fault and replacing the wrong part wastes money and leaves the underlying safety issue unresolved.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain Boiler A127 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a127-error-code/)
+- [Weil-McLain Boiler A169 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a169-error-code/)
+- [Weil-McLain Boiler A173 Error - Causes & Fix](/posts/weil-mclain-boiler-a173-error-code/)
+- [Weil-McLain A159 Error - Causes & Fix](/posts/weil-mclain-boiler-a159-error-code/)

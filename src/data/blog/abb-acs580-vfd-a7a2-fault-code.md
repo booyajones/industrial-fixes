@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified technician or contact ABB technical support if you are not trained in VFD diagnostics, if the fault persists after checking wiring and parameters, or if you suspect a control board fault. High-voltage DC bus capacitors and internal circuits remain energized even after lockout, so only personnel with proper training and PPE should open the drive enclosure. If the mechanical brake requires disassembly or adjustment, follow the manufacturer's procedure or have a motor and brake specialist perform the work to avoid mechanical safety hazards.
 
 **Rough cost:** A pro service call runs about $200-500 depending on parts and labor.
+
+## See Also
+
+- [ABB ACS550 EFB 1 Fault - Causes & Fix](/posts/abb-acs550-efb-1-fault-code/)
+- [ABB Inverter Fault Code F0001 - Causes & Fix](/posts/abb-inverter-fault-code-f0001/)
+- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
+- [ABB VFD Fault 7121 — Causes & Fix](/posts/abb-vfd-fault-7121/)

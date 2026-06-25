@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a professional appliance technician as soon as F16 appears and persists after a power reset. The inverter section operates at high voltage and requires proper discharge, test equipment, and safety procedures that go beyond typical homeowner tools. Technicians will verify whether the inverter module, cooling fan, or associated wiring has failed, replace the faulty component, and retest the microwave under load to confirm safe operation. Attempting inverter work without training risks electric shock and further damage to expensive control boards.
 
 **Rough cost:** A pro service call runs about $150–300.
+
+## See Also
+
+- [LG Washer Shock Absorber / Suspension Rod Replacement](/posts/lg-washer-shock-absorber-suspension-rod-kit-replacement/)
+- [LG Microwave Door Won't Open - Causes & Fix](/posts/lg-microwave-door-wont-open/)
+- [LG Mini-Split CH21 Error Code — Outdoor Unit High Pressure](/posts/lg-mini-split-ch21-error-code/)
+- [LG Refrigerator Evaporator Fan Motor Replacement - Signs & How-To](/posts/lg-refrigerator-evaporator-fan-motor-replacement/)

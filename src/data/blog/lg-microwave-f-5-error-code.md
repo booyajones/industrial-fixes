@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified appliance technician if the door closes correctly, you have removed all obstructions, and the F-5 code returns after a power reset. Accessing the damper switch and actuator requires removing the microwave cabinet and working near high-voltage components, including the magnetron and capacitor. Even with the unit unplugged, the high-voltage capacitor can hold a lethal charge and must be safely discharged before any internal work. Technicians have the service manuals, wiring diagrams, and test equipment to isolate whether the fault lies in the switch, actuator, harness, or control board, and they carry the correct replacement parts for your specific model.
 
 **Rough cost:** A pro service call runs about $150–$300.
+
+## See Also
+
+- [LG Range E2 Error Code - Causes & Fix](/posts/lg-range-e2-error-code/)
+- [LG Oven F12 Error Code - Causes & Fix](/posts/lg-oven-f12-error-code/)
+- [LG LMV2031ST Microwave Problems & Error Codes](/posts/lg-lmv2031st-microwave-problems/)
+- [LG LS120HSV5 Ductless Mini Split Problems & Error Codes](/posts/lg-ls120hsv5-ductless-mini-split-air-conditioner-problems/)

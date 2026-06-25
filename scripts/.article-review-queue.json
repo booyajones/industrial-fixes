@@ -946,5 +946,53 @@
     "score": 2,
     "reason": "Research explicitly confirms Alarm 74 does NOT exist in Danfoss FC302 documentation; draft correctly identifies this but then publishes an article about a non-existent code, creating confusion rather than redirecting users to valid codes.",
     "date": "2026-06-24"
+  },
+  "danfoss-fc302-vfd-al-83-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-83 fault code",
+    "score": 3,
+    "reason": "FAIL: Research explicitly states 'no specific fault code AL-83' exists for Danfoss FC302; the draft correctly identifies this but then creates extensive repair content for a non-existent code, which violates the requirement that codes must be REAL and documented for this exact brand and appliance.",
+    "date": "2026-06-25"
+  },
+  "danfoss-fc302-vfd-al-84-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-84 fault code",
+    "score": 3,
+    "reason": "Research cites only generic '[2][6][8]' without confirming AL-84/Error 84 exists specifically for Danfoss FC302; content appears synthesized from general VFD troubleshooting rather than FC302-specific documentation.",
+    "date": "2026-06-25"
+  },
+  "danfoss-fc302-vfd-al-85-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-85 fault code",
+    "score": 2,
+    "reason": "AL-85 is explicitly NOT a documented Danfoss FC302 code per the research; publishing speculative content about a non-existent code violates editorial standards for a technical repair site.",
+    "date": "2026-06-25"
+  },
+  "danfoss-fc302-vfd-al-90-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-90 fault code",
+    "score": 3,
+    "reason": "AL-90 is NOT a real Danfoss FC302 code per the research; the draft extensively documents a different code (Alarm 38) which misleads users searching for AL-90 specifically.",
+    "date": "2026-06-25"
+  },
+  "danfoss-fc302-vfd-al-97-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-97 fault code",
+    "score": 2,
+    "reason": "AL-97 is explicitly NOT a real Danfoss FC302 code per the research; the entire article is about a non-existent fault code and speculates about what the user 'likely meant' instead of documenting an actual code.",
+    "date": "2026-06-25"
+  },
+  "danfoss-fc302-vfd-al-101-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-101 fault code",
+    "score": 3,
+    "reason": "AL-101 is NOT a documented Danfoss FC302 code per the research; the draft correctly states this but then builds an entire repair guide around assumptions of what the user 'might have meant' rather than definitively addressing a verified fault code for this exact brand and model.",
+    "date": "2026-06-25"
+  },
+  "danfoss-fc302-vfd-al-102-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-102 fault code",
+    "score": 3,
+    "reason": "The research explicitly states 'AL-102' is NOT a real Danfoss code but likely a misinterpretation of FC-102 model series or typo; the draft treats ALARM 38 as if it were the requested AL-102 code, fundamentally mismatching the assignment.",
+    "date": "2026-06-25"
+  },
+  "danfoss-fc302-vfd-al-105-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-105 fault code",
+    "score": 3,
+    "reason": "Research explicitly states AL-105 is NOT an official Danfoss FC302 fault code; the draft acknowledges this but still publishes content for a non-existent code, creating confusion rather than redirecting users to valid ALARM 38 subcodes.",
+    "date": "2026-06-25"
   }
 }
