@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician if you cannot access the diagnostics menu, if the stored fault history is empty or displays non-standard characters, or if you lack a gas-pressure gauge and multimeter to test components safely. Gas-fired boiler work requires knowledge of combustion, venting, and electrical control circuits. A technician will retrieve the full fault log, measure gas inlet and manifold pressure, test flame rectification current, verify limit and sensor operation, and inspect the heat exchanger and vent system for blockages or damage. Professional diagnosis prevents misdiagnosis, avoids unnecessary part replacement, and ensures the boiler operates safely and within code.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Weil-McLain A160 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a160-error-code/)
+- [Weil-McLain A42 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a42-error-code/)
+- [Weil-McLain A167 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a167-error-code/)
+- [Weil-McLain Boiler A96 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a96-error-code/)

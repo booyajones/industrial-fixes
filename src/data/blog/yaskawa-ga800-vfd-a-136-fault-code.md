@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or drive technician if you are not trained to work safely around high-voltage VFD circuits, if you cannot safely access motor wiring or drive terminals, or if your testing shows the drive control board or motor internal components need replacement. Professional diagnosis is also recommended when the fault persists after you have verified wiring continuity and parameter settings, because isolating a faulty drive input versus a failed motor thermal device requires specialized test equipment and experience with Yaskawa drive troubleshooting. Many facilities require certified technicians to service VFD equipment under warranty or safety policy.
 
 **Rough cost:** A pro service call runs about $150-400 depending on whether repair involves rewiring, thermistor replacement, or motor/drive component swap.
+
+## See Also
+
+- [Yaskawa GA800 E07 Fault - Causes & Fix](/posts/yaskawa-ga800-e07-fault-code/)
+- [Yaskawa A1000 VFD oL3 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol3-fault-code/)
+- [Yaskawa GA800 E18 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e18-fault-code/)
+- [Yaskawa GA800 E71 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e71-fault-code/)

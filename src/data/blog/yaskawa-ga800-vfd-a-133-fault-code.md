@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa-certified service provider if you cannot locate A.133 in your manual, if the fault persists after inspecting all wiring and option cards, or if you suspect an internal control board or power module failure. VFD repair involves high-voltage DC bus capacitors that retain lethal charge even after input power is removed, and incorrect diagnosis can damage expensive components. A technician can use Yaskawa's DriveWizard software to read detailed fault logs, verify firmware versions, and perform safe board-level diagnostics that are not accessible from the keypad alone.
 
 **Rough cost:** A pro service call runs about $200-800 depending on repair type.
+
+## See Also
+
+- [Yaskawa GA800 E96 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e96-fault-code/)
+- [Yaskawa A1000 HbbF Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-hbbf-fault-code/)
+- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
+- [Yaskawa GA800 E10 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e10-fault-code/)

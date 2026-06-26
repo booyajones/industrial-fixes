@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician immediately if you are not comfortable working with gas appliances, do not have your model's service manual and diagnostic procedures, or cannot safely access the control board and sensor wiring. Gas boilers require precise ignition and venting adjustments that are unsafe to guess at. A technician will retrieve the exact fault definition from the diagnostics menu, test the failed circuit with calibrated meters, and replace only the confirmed component. If the fault recurs after you replace a part, or if you see multiple codes or unusual noises during ignition, professional diagnosis is the only safe path forward.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain Boiler Error Code E10 — Low Water Pressure Fix](/posts/weil-mclain-e10-low-pressure/)
+- [Weil-McLain A90 Error - Causes & Fix](/posts/weil-mclain-boiler-a90-error-code/)
+- [Weil-McLain A162 Error - Causes & Fix](/posts/weil-mclain-boiler-a162-error-code/)
+- [Weil-McLain Boiler A163 Error - Causes & Fix](/posts/weil-mclain-boiler-a163-error-code/)

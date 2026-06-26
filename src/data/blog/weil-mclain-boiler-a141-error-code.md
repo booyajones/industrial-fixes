@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a licensed heating contractor immediately if the boiler will not fire, if you smell gas, or if the fault involves a high-limit lockout (which can signal a venting or combustion-air problem). Also call a pro if you cannot find your model's manual, if the diagnostics menu shows a fault you do not understand, or if the recommended test requires measuring gas pressure, checking flame current, or working inside the sealed-combustion chamber. Boiler controls involve line voltage and natural gas or propane. Misdiagnosis can waste money on the wrong part and leave a real safety hazard in place.
 
 **Rough cost:** A pro service call runs about $200–500.
+
+## See Also
+
+- [Weil-McLain A46 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a46-error-code/)
+- [Weil-McLain Boiler A64 Error - Causes & Fix](/posts/weil-mclain-boiler-a64-error-code/)
+- [Weil-McLain Boiler Error Code E10 — Causes & Fix](/posts/weil-mclain-e10-error-code/)
+- [Weil-McLain A174 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a174-error-code/)

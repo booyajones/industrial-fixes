@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or an authorized Yaskawa service center whenever A.134 persists after reseating option cards and power cycling, when you lack the GA800 manual revision that documents the code, or when the drive must remain in service and you cannot afford extended downtime for trial-and-error troubleshooting. Professional support is also required if the fault is accompanied by smoke, burning odors, or visible component damage on the control board. High-voltage DC bus work and control-board replacement should always be performed by trained personnel with proper lockout/tagout procedures and insulated tools.
 
 **Rough cost:** A pro service call runs about $200–600.
+
+## See Also
+
+- [Yaskawa GA800 E30 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e30-fault-code/)
+- [Yaskawa GA800 E77 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e77-fault-code/)
+- [Yaskawa GA800 A.111 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-111-fault-code/)
+- [Yaskawa GA800 E19 Fault - Causes & Fix](/posts/yaskawa-ga800-e19-fault-code/)

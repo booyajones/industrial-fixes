@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician for any A140 lockout. Gas-fired boiler diagnostics require measuring flame rectification, testing pressure-switch proving circuits, checking gas pressure at the manifold, and verifying control-board signals with a multimeter. A technician will retrieve the fault history from the control, cross-reference the exact A140 definition in the model-specific manual, and test the associated safety or proving circuit before replacing any part. If the fault involves the gas valve, ignition module, or control board, those repairs must be performed by a professional to maintain warranty coverage and meet local code. Weil-McLain also directs contractors to contact factory support for warranty and service actions rather than relying on generic troubleshooting, so professional help ensures you get the correct part and repair sequence for your specific boiler model.
 
 **Rough cost:** A pro service call runs about $200–500.
+
+## See Also
+
+- [Weil-McLain A146 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a146-error-code/)
+- [Weil-McLain A102 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a102-error-code/)
+- [Weil-McLain A82 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a82-error-code/)
+- [Weil-McLain Boiler Error Code E10 — Causes & Fix](/posts/weil-mclain-e10-error-code/)

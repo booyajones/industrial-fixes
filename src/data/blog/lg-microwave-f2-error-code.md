@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a professional microwave technician if you are not comfortable discharging the high-voltage capacitor, removing the outer cabinet, or working near the magnetron and transformer. Microwaves store dangerous voltage even when unplugged, and improper handling can cause lethal shock or microwave-radiation exposure if the door interlock system is disturbed. A technician will also have the service manual with exact thermistor resistance tables and the diagnostic tools to pinpoint control board faults versus sensor faults quickly. If the thermistor and harness test good but the code persists, the control board itself may need replacement, a repair best left to someone with OEM training and anti-static handling procedures.
 
 **Rough cost:** A pro service call runs about $150–280.
+
+## See Also
+
+- [LG Washer Won't Turn On - Causes & Fix](/posts/lg-washer-wont-turn-on/)
+- [LG Mini Split CH61 Error Code - Causes & Fix](/posts/lg-mini-split-ch61-error-code/)
+- [LG CH45 Error Code - Causes & Fix](/posts/lg-mini-split-ch45-error-code/)
+- [LG Mini Split Leaking Water - Causes & Fix](/posts/lg-mini-split-leaking-water/)

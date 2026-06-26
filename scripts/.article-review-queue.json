@@ -994,5 +994,47 @@
     "score": 3,
     "reason": "Research explicitly states AL-105 is NOT an official Danfoss FC302 fault code; the draft acknowledges this but still publishes content for a non-existent code, creating confusion rather than redirecting users to valid ALARM 38 subcodes.",
     "date": "2026-06-25"
+  },
+  "danfoss-fc302-vfd-al-87-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-87 fault code",
+    "score": 2,
+    "reason": "AL-87 is NOT a documented fault code for the Danfoss FC302 VFD per the research; the draft correctly identifies this but then provides extensive troubleshooting for hypothetical misread codes, making it speculative content rather than documentation of a real code.",
+    "date": "2026-06-26"
+  },
+  "danfoss-fc302-vfd-al-108-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-108 fault code",
+    "score": 2,
+    "reason": "AL-108 is explicitly NOT a real Danfoss FC302 code per the research; publishing content for a non-existent code violates technical accuracy requirements regardless of the speculative Alarm 13 fallback content.",
+    "date": "2026-06-26"
+  },
+  "danfoss-fc302-vfd-al-109-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-109 fault code",
+    "score": 3,
+    "reason": "FAIL: AL-109 is explicitly NOT a real/documented code for Danfoss FC302 per the research; the draft hypothesizes it might be Alarm 13 but builds an entire repair guide around an unconfirmed, non-existent code rather than rejecting the premise.",
+    "date": "2026-06-26"
+  },
+  "danfoss-fc302-vfd-al-122-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-122 fault code",
+    "score": 3,
+    "reason": "The research describes AL-122 as a 'parameter setting' or 'sub-alarm' appearing during other faults (AL-38/AL-4), not a standalone alarm code 'AL-122'\u2014the draft misrepresents this as a primary fault code without evidence FC302 displays 'AL-122' independently.",
+    "date": "2026-06-26"
+  },
+  "danfoss-fc302-vfd-al-123-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-123 fault code",
+    "score": 3,
+    "reason": "AL-123 is NOT a real Danfoss FC302 code per the research; the draft correctly identifies this but builds an entire troubleshooting guide around a non-existent code, which violates the fundamental requirement that content must address real, documented codes for the specific brand and model.",
+    "date": "2026-06-26"
+  },
+  "danfoss-fc302-vfd-al-127-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-127 fault code",
+    "score": 2,
+    "reason": "The research explicitly states 'AL-127' is NOT a documented Danfoss FC302 code; publishing speculative content about a non-existent fault code violates technical accuracy requirements.",
+    "date": "2026-06-26"
+  },
+  "danfoss-fc302-vfd-al-129-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-129 fault code",
+    "score": 4,
+    "reason": "The research explicitly states 'AL-129 does NOT exist' in FC302 documentation, making this fundamentally a page about a non-existent code with speculation about what the user 'probably' meant\u2014fails authenticity requirement for publication.",
+    "date": "2026-06-26"
   }
 }

@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa-authorized service provider whenever you are uncomfortable working inside high-voltage enclosures, when the fault persists after reseating or replacing the option card, or when you lack the diagnostic tools to verify wiring continuity and signal integrity. Professional support is also necessary if the control board needs replacement, because proper calibration and parameter restoration require factory software and training. Do not attempt live troubleshooting or bypass any safety interlocks, and always follow lockout-tagout procedures before opening the drive.
 
 **Rough cost:** A pro service call runs about $200–600 depending on whether the fix is reseating, replacing the option card, or replacing the control board.
+
+## See Also
+
+- [Yaskawa GA800 E91 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e91-fault-code/)
+- [Yaskawa VFD Fault OH — Causes & Fix](/posts/yaskawa-vfd-fault-oh/)
+- [Yaskawa A1000 PF Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-pf-fault-code/)
+- [Yaskawa GA800 A.141 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-141-fault-code/)

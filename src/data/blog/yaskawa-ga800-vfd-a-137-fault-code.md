@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified drive technician or Yaskawa-certified integrator if the alarm persists after you have verified wiring, checked motor parameters, and attempted a reset. VFD diagnostics often require specialized tools such as an oscilloscope to check gate-driver signals, a megohmmeter to test motor insulation, or a laptop with Yaskawa DriveWizard Plus software to read extended alarm logs and internal fault registers. A technician can also contact Yaskawa support on your behalf with detailed drive information to decode non-standard alarm messages and determine whether the control board, power module, or external network interface needs replacement. Do not attempt to open the drive enclosure or probe high-voltage terminals without proper lockout/tagout and high-voltage safety training.
 
 **Rough cost:** A pro service call runs about $200–500 for service call, diagnostics, and parameter correction; higher if board replacement is required.
+
+## See Also
+
+- [Yaskawa GA800 VFD E60 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e60-fault-code/)
+- [Yaskawa A1000 CPF00 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf00-fault-code/)
+- [Yaskawa GA800 E31 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e31-fault-code/)
+- [Yaskawa A1000 Uv1 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-uv1-fault-code/)

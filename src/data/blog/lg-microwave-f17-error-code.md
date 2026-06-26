@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a professional appliance technician for the F17 code. Microwave repair involves high-voltage capacitors that can hold a lethal charge even when the unit is unplugged, and safely discharging and testing the inverter or sensor circuit requires specialized training and tools. A qualified technician will verify the exact model-specific meaning of F17, test the sensor resistance and wiring continuity, inspect the inverter assembly on applicable models, and replace only the failed component. LG's own support guidance recommends scheduling service for this code, and attempting DIY repair risks electric shock or further damage to the control board or inverter.
 
 **Rough cost:** A pro service call runs about $150–300.
+
+## See Also
+
+- [LG Range F9 Error Code - Causes & Fix](/posts/lg-range-f9-error-code/)
+- [LG Oven F10 Error Code - Causes & Fix](/posts/lg-oven-f10-error-code/)
+- [LG Microwave F16 Error - Causes & Fix](/posts/lg-microwave-f16-error-code/)
+- [LG Dishwasher Won't Start - Causes & Fix](/posts/lg-dishwasher-wont-start/)

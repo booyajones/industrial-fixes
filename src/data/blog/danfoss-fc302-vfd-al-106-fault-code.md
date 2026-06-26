@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or electrician if the alarm code is not documented in your manual, if the fault persists after disconnecting the motor and verifying input power, or if you are not comfortable working with high-voltage three-phase equipment. Replacing IGBT modules or power boards requires knowledge of DC link discharge procedures, proper torque specs for bus bar connections, and safe handling of capacitors that can retain a lethal charge. A technician can also download fault logs from the drive's memory and perform advanced diagnostics with Danfoss MCT software to identify intermittent faults or parameter conflicts that are not obvious from the display.
 
 **Rough cost:** A pro service call runs about $300-800.
+
+## See Also
+
+- [Danfoss FC-302 Alarm 13 — DC Link Overvoltage Fix](/posts/danfoss-fc302-alarm-13/)
+- [Danfoss FC302 Alarm 27 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-27-fault-code/)
+- [Danfoss FC302 ALARM 24 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-24-fault-code/)
+- [Danfoss FC302 AL-65 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-65-fault-code/)

@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if you are not trained to work with high-voltage DC bus capacitors (which can hold lethal voltage for minutes after power-off), if you cannot safely isolate and test the motor, or if you lack the tools to measure gate driver circuit parameters. Power board replacement requires knowledge of proper grounding, torque specifications for power terminals, and parameter backup and restore procedures. Component-level repair of the gate driver IC requires surface-mount soldering skills and oscilloscope diagnostics. Mishandling the power board or applying power with a shorted gate driver can destroy the entire VFD and create an arc flash hazard.
 
 **Rough cost:** A pro service call runs about $400-1200 for power board replacement including labor.
+
+## See Also
+
+- [Danfoss FC302 VFD AL-70 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-70-fault-code/)
+- [Danfoss FC302 AL-84 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-84-fault-code/)
+- [Danfoss FC302 VFD Alarm 41 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-41-fault-code/)
+- [Danfoss RX Controller Fault Codes — Troubleshooting Guide](/posts/danfoss-rx-controller-fault/)

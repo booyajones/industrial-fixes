@@ -48,3 +48,10 @@ The F3 error code on an LG microwave indicates a problem with the control panel 
 ## When to Call a Pro
 
 LG recommends professional service if the F3 error returns after you have cleaned the touch panel and performed a power reset. A technician can safely isolate whether the failure is in the touch panel, the main control board, or the interconnecting harness, and replace the faulty assembly. Because microwave repairs involve high-voltage capacitors that retain a dangerous charge even when unplugged, call a qualified appliance technician if you are not trained in microwave disassembly and discharge procedures.
+
+## See Also
+
+- [LG Refrigerator CO Error Code - Causes & Fix](/posts/lg-refrigerator-co-error-code/)
+- [LG Multi V VRF System Error Codes: Complete Guide](/posts/lg-multi-v-error-codes/)
+- [LG Refrigerator Thermistor Replacement - Signs & How-To](/posts/lg-refrigerator-thermistor-temperature-sensor-replacement/)
+- [LG Microwave F-2 Error Code - Causes & Fix](/posts/lg-microwave-f-2-error-code/)

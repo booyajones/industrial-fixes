@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified appliance technician if you are not comfortable working inside a microwave. Even when unplugged, the high-voltage capacitor can hold a lethal charge for days. Professionals have the discharge tools, service manuals, and test equipment to safely diagnose the damper circuit, measure switch continuity under load, and replace components without risking shock or further damage. LG officially states that the F5 error requires service, and most homeowners lack both the access and the instruments to complete the repair safely.
 
 **Rough cost:** A pro service call runs about $150–300.
+
+## See Also
+
+- [LG Dryer D80 Error Code - Causes & Fix](/posts/lg-dryer-d80-error-code/)
+- [LG Washer Tub Bearing Replacement - Signs & How-To](/posts/lg-washer-tub-drum-bearing-replacement/)
+- [LG Washer Error LE — Motor Lock / Stator Fix](/posts/lg-washer-error-le/)
+- [LG IS Error Code - Causes & Fix](/posts/lg-refrigerator-is-error-code/)

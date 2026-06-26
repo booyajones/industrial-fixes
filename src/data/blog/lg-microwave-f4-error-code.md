@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified appliance technician if you are not comfortable working inside a microwave. Even when unplugged, the high-voltage capacitor can deliver a lethal shock until properly discharged. Technicians have the tools to safely discharge capacitors, test sensor circuits, and identify whether the fault lies in the sensor, wiring, or control board. LG's official guidance for F4 is to contact service rather than attempt a DIY fix, and most repair shops can diagnose and replace the humidity sensor or board in a single visit.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [LG Refrigerator Compressor Replacement - Signs & How-To](/posts/lg-refrigerator-compressor-inverter-linear-replacement/)
+- [LG Washer Error Codes — Complete Fix Guide](/posts/lg-washer-error-codes/)
+- [LG CH 26 Error Code - Causes & Fix](/posts/lg-mini-split-ch-26-error-code/)
+- [LG Oven F1 Error Code - Causes & Fix](/posts/lg-oven-f1-error-code/)

@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician if you are not comfortable working with gas appliances, if you cannot locate or interpret your boiler's manual and fault history, or if the fault returns after cleaning the flame sensor and verifying gas supply. A pro will measure ignitor current draw, gas pressures at the valve, and flame-sensor microamp signal to pinpoint the failed component. Repeated resetting without diagnosis risks nuisance lockouts, incomplete combustion, or damage to the control board. If combustion air or venting is suspect, a technician will perform a combustion-analysis test to confirm safe operation before returning the boiler to service.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [Weil-McLain ECG Boiler Error Codes — Complete Fault Guide](/posts/weil-mclain-ecg-error-codes/)
+- [Weil-McLain Boiler Error Code E02 — Ignition Failure Fix](/posts/weil-mclain-e02-ignition-failure/)
+- [Weil-McLain A174 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a174-error-code/)
+- [Weil-McLain A97 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a97-error-code/)
