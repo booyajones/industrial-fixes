@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa-authorized service center if the A.139 code does not clear after a power cycle, if reinitialization via A1-03 fails to resolve the alarm, or if the drive is still under warranty. Internal control board diagnosis and replacement require familiarity with high-voltage DC bus circuits, ESD-sensitive electronics, and firmware version matching. If the drive is part of a production line or safety-rated system, do not attempt field repair without proper training and factory support. Yaskawa technical support can guide troubleshooting remotely and arrange for factory repair or field service when component replacement is confirmed.
 
 **Rough cost:** A pro service call runs about $400–1,200 for control board replacement and labor, depending on drive size and service availability.
+
+## See Also
+
+- [Yaskawa GA800 E22 Error Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e22-fault-code/)
+- [Yaskawa A1000 HCA Fault Code - Causes & Fix](/posts/yaskawa-a1000-vfd-hca-fault-code/)
+- [Yaskawa GA800 E07 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e07-fault-code/)
+- [Yaskawa GA800 E66 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e66-fault-code/)

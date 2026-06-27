@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or controls technician if you are not trained in lockout/tagout procedures, if you cannot locate the STO terminals or safety wiring on the drive, or if the fault persists after verifying external safety devices and jumpers. Because the STO function is a safety-rated circuit, incorrect wiring or bypassing the safety loop can create a serious hazard. If the drive continues to report A.141 after all field wiring and safety devices have been confirmed correct, contact Yaskawa technical support with the drive model, serial number, and application details before replacing any drive hardware.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Yaskawa GA800 E16 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e16-fault-code/)
+- [Yaskawa GA800 A.145 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-145-fault-code/)
+- [Yaskawa GA800 E85 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e85-fault-code/)
+- [Yaskawa GA800 E69 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e69-fault-code/)

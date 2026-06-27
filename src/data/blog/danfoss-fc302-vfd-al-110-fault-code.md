@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if you are not trained to work with high-voltage DC circuits. The DC link inside the drive can hold lethal voltage even after input power is removed. A technician will safely discharge capacitors, test rectifier components with proper instruments, and replace power boards or modules. Also call a pro if input voltage measurements and fuse checks do not reveal an obvious cause, or if the drive shows signs of internal damage such as burned traces or failed IGBTs.
 
 **Rough cost:** A pro service call runs about $150-600.
+
+## See Also
+
+- [Danfoss FC302 Alarm 26 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-26-fault-code/)
+- [Danfoss FC302 VFD AL-15 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-152-fault-code/)
+- [Danfoss FC302 AL-116 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-116-fault-code/)
+- [Danfoss FC302 VFD ALARM 38 - Causes & Fix](/posts/danfoss-fc302-vfd-al-102-fault-code/)

@@ -71,3 +71,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a professional if you are not comfortable working around high voltage or discharging the capacitor safely. The capacitor can hold a lethal charge even after the microwave is unplugged. A qualified appliance technician has the tools and training to test and replace the magnetron, diode, capacitor, door switches, and control board without risking shock or further damage to the unit.
+
+## See Also
+
+- [LG Dryer Burning Smell - Causes & Fix](/posts/lg-dryer-burning-smell/)
+- [LG Dishwasher Thermistor Replacement - Signs & How-To](/posts/lg-dishwasher-thermistor-temperature-sensor-replacement/)
+- [LG LSU120HSV5 Ductless Mini Split Problems & Error Codes](/posts/lg-lsu120hsv5-ductless-mini-split-air-conditioner-problems/)
+- [LG Range SE Error Code - Causes & Fix](/posts/lg-range-se-error-code/)

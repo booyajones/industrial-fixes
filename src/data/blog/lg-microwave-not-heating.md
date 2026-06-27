@@ -71,3 +71,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified appliance technician if you are uncomfortable working inside a microwave. The high-voltage capacitor can hold a lethal charge even after the unit is unplugged, and the magnetron must be tested and replaced with the correct procedure. If you have replaced the magnetron and diode but the microwave still will not heat, the control board or transformer may be involved, and further diagnosis requires service documentation and specialized safety training.
+
+## See Also
+
+- [LG Mini Split CH35 Error Code - Causes & Fix](/posts/lg-mini-split-ch35-error-code/)
+- [LG Microwave Making Loud Noise - Causes & Fix](/posts/lg-microwave-making-loud-noise/)
+- [LG Washer CL Error Code - Causes & Fix](/posts/lg-washer-cl-error-code/)
+- [LG Oven F2 Error Code - Causes & Fix](/posts/lg-oven-f2-error-code/)

@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed technician immediately if you are not comfortable working with gas appliances, if you do not have a multimeter and the manufacturer service data for your model, or if the boiler locks out again after you clear the fault. Gas-fired boiler repair involves combustion safety, proper venting, and flame-proving diagnostics that require training and specialized tools. A technician will pull the fault history from the control, test the ignition train with calibrated meters, measure gas pressure at the valve, and verify safe combustion before clearing the lockout. If you suspect a gas leak (smell of rotten eggs or hissing sound), shut off the gas immediately, leave the building, and call your gas utility or fire department before calling a repair service.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [Weil-McLain E03 Error Code — Causes & Fix](/posts/weil-mclain-e03-error-code/)
+- [Weil-McLain Boiler A55 Error - Causes & Fix](/posts/weil-mclain-boiler-a55-error-code/)
+- [Weil-McLain A90 Error - Causes & Fix](/posts/weil-mclain-boiler-a90-error-code/)
+- [Weil-McLain Boiler A62 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a62-error-code/)

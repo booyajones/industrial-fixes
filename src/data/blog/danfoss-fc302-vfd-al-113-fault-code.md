@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if the drive continues to fault after you correct motor parameters and verify cable connections. High-voltage DC bus work, IGBT module replacement, and inverter board diagnostics require specialized meters, safety training, and knowledge of power electronics. If the motor itself has a winding short, a motor shop will need to rewind or replace the stator. Attempting IGBT or capacitor replacement without proper lockout/tagout and DC bus discharge procedures can result in lethal electric shock or arc flash injury.
 
 **Rough cost:** A pro service call runs about $200-800 depending on whether it is a parameter correction, cable repair, or IGBT module replacement.
+
+## See Also
+
+- [Danfoss FC302 AL-91 - Causes & Fix](/posts/danfoss-fc302-vfd-al-91-fault-code/)
+- [Danfoss FC302 Alarm 40 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-40-fault-code/)
+- [Danfoss FC302 VFD Alarm 29 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-29-fault-code/)
+- [Danfoss FC302 ALARM 15 - Causes & Fix](/posts/danfoss-fc302-alarm-15-fault-code/)

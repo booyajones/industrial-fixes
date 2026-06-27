@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you cannot locate the service manual for your model, if the A149 code is not listed in your manual, or if basic checks (gas, power, pressure, venting) do not resolve the fault. Gas-fired boiler work involves combustion safety, gas piping, and control system diagnostics that require specialized tools, training, and local codes compliance. A technician will verify the exact meaning of A149 for your control board, measure sensor values against factory specifications, test ignition components safely, and make sure proper combustion and venting after any repair. Because Weil-McLain fault codes are model-specific, attempting a repair without the correct manual or equipment can lead to misdiagnosis, wasted parts, and unsafe operation.
 
 **Rough cost:** A pro service call runs about $200-450.
+
+## See Also
+
+- [Weil-McLain A86 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a86-error-code/)
+- [Weil-McLain A76 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a76-error-code/)
+- [Weil-McLain Boiler A49 Error - Causes & Fix](/posts/weil-mclain-boiler-a49-error-code/)
+- [Weil-McLain A179 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a179-error-code/)

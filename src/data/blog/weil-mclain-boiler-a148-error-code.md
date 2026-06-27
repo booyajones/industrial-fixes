@@ -71,3 +71,10 @@ Answer these to narrow it down fast.
 Call a licensed heating contractor immediately. Gas-fired boiler diagnostics require a combustion analyzer, manometer, and multimeter to measure flame current, gas pressure, and sensor resistance safely. Only a qualified technician should retrieve stored fault codes from the contractor menu, test ignition and flame-proving circuits, and replace gas valves, igniters, or control boards. Attempting boiler repairs without training risks carbon monoxide leaks, gas fires, and voiding your warranty. Weil-McLain directs all troubleshooting beyond thermostat checks to professional contractors and requires documentation of the exact fault code and failed part number for warranty claims.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A81 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a81-error-code/)
+- [Weil-McLain E05 Error Code — Sensor Fault](/posts/weil-mclain-e05-error-code/)
+- [Weil-McLain A04 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a04-error-code/)
+- [Weil-McLain Boiler A72 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a72-error-code/)

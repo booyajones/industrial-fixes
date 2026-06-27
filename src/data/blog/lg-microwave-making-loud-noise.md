@@ -70,3 +70,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified appliance technician if the noise continues after you have cleaned and reseated the turntable system, verified your cookware, and leveled the unit. LG states that if parts are damaged or broken you should order replacements, and if the noise persists after basic checks, service is required for proper diagnosis. Any repair involving the magnetron, high-voltage diode, capacitor, or transformer requires a trained professional with the tools and knowledge to safely discharge and test live electrical components.
+
+## See Also
+
+- [LG Dishwasher AE Error Code - Causes & Fix](/posts/lg-washer-ae-error-code/)
+- [LG Mini Split CH29 Error Code - Causes & Fix](/posts/lg-mini-split-ch29-error-code/)
+- [LG Dishwasher CR Error Code - Causes & Fix](/posts/lg-dishwasher-cr-error-code/)
+- [LG Oven F12 Error Code - Causes & Fix](/posts/lg-oven-f12-error-code/)

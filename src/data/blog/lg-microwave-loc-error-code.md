@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a professional if the LOC code will not clear using the STOP/CLEAR button and a power cycle, or if the code returns immediately after unlocking. A technician can diagnose whether the issue is a stuck keypad, a failing touch panel, or a faulty main control board. Also call for service if you are uncomfortable working with the control panel or if the microwave is still under warranty. For a simple lock activation, no service call is needed. The unlock procedure is a normal user operation and does not require any tools or technical skill.
 
 **Rough cost:** DIY runs about $0, 10 seconds. A pro service call runs about $0-150 if a stuck keypad requires service.
+
+## See Also
+
+- [LG Mini Split CH46 Error Code - Causes & Fix](/posts/lg-mini-split-ch46-error-code/)
+- [LG Washer Won't Drain - Causes & Fix](/posts/lg-washer-wont-drain/)
+- [LG Dishwasher E1 Error Code - Causes & Fix](/posts/lg-dishwasher-e1-error-code/)
+- [LG Dishwasher Won't Latch - Causes & Fix](/posts/lg-dishwasher-wont-latch/)

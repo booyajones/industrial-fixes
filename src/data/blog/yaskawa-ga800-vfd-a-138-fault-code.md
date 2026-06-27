@@ -70,3 +70,10 @@ Answer these to narrow it down fast.
 Call a qualified drives technician or contact Yaskawa technical support when the alarm code does not appear in your drive's manual, when wiring and option card inspection does not resolve the fault, or when the drive repeatedly faults after power cycling. High-voltage AC input and DC bus capacitors pose serious shock hazards, so any work inside the drive enclosure should be performed by someone trained in VFD service and lockout procedures. If the drive is under warranty or connected to critical machinery, professional diagnosis will document the fault correctly and preserve warranty coverage.
 
 **Rough cost:** A pro service call runs about $200–500 depending on whether the fault is wiring, an option card, or the drive control board.
+
+## See Also
+
+- [Yaskawa GA800 A.119 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-119-fault-code/)
+- [Yaskawa GA800 A.102 Alarm - Causes & Fix](/posts/yaskawa-ga800-vfd-a-102-fault-code/)
+- [Yaskawa A1000 HCA Fault Code - Causes & Fix](/posts/yaskawa-a1000-vfd-hca-fault-code/)
+- [Yaskawa GA800 A.136 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-136-fault-code/)

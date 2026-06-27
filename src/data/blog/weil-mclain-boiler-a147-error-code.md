@@ -67,3 +67,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician immediately if you cannot locate your boiler's service manual or if the manual identifies A147 as a gas valve fault, flame sensor issue, high-limit condition, or any other safety-related fault. Weil-McLain boilers involve natural gas or propane, high-voltage electrical controls, and pressurized hot water or steam, all of which require proper training and tools to service safely. Incorrect repairs can lead to gas leaks, electrical shock, scalding, or carbon monoxide hazards. A qualified technician will have access to Weil-McLain technical support, the correct replacement parts by part number, and the diagnostic equipment needed to verify safe operation after repair. If your boiler is under warranty, professional service may be required to maintain coverage.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A60 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a60-error-code/)
+- [Weil-McLain Boiler A152 Error - Causes & Fix](/posts/weil-mclain-boiler-a152-error-code/)
+- [Weil-McLain E02 Error Code — Causes & Fix](/posts/weil-mclain-e02-error-code/)
+- [Weil-McLain Boiler A143 Error - Causes & Fix](/posts/weil-mclain-boiler-a143-error-code/)

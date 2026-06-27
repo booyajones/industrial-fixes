@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified heating technician immediately if you cannot locate the A145 code in your boiler's manual, if the boiler is locked out and will not fire, or if you are unfamiliar with gas-appliance diagnostics. All Weil-McLain boilers require a licensed professional for work on gas valves, venting, pressure switches, and control boards. Warranty coverage depends on proper diagnosis and documentation of the failed part by a qualified installer, so attempting repairs without confirming the exact fault may void coverage and create unsafe operating conditions.
 
 **Rough cost:** A pro service call runs about $150–400 depending on diagnosis and part.
+
+## See Also
+
+- [Weil-McLain Boiler A113 Error - Causes & Fix](/posts/weil-mclain-boiler-a113-error-code/)
+- [Weil-McLain A99 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a99-error-code/)
+- [Weil-McLain Boiler Error Code E10 — Causes & Fix](/posts/weil-mclain-e10-error-code/)
+- [Weil-McLain A134 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a134-error-code/)

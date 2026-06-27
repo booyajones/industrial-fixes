@@ -1036,5 +1036,107 @@
     "score": 4,
     "reason": "The research explicitly states 'AL-129 does NOT exist' in FC302 documentation, making this fundamentally a page about a non-existent code with speculation about what the user 'probably' meant\u2014fails authenticity requirement for publication.",
     "date": "2026-06-26"
+  },
+  "danfoss-fc302-vfd-al-115-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-115 fault code",
+    "score": 3,
+    "reason": "The code AL-115 is NOT documented as real for the Danfoss FC302; the draft speculates it 'likely means' other codes without confirmation, failing the fundamental requirement that the code must be real and documented for this exact brand and appliance.",
+    "date": "2026-06-27"
+  },
+  "danfoss-fc302-vfd-al-116-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-116 fault code",
+    "score": 3,
+    "reason": "FAIL: Research explicitly states 'there is no official Danfoss FC302 fault code AL-116' \u2013 the draft attempts to repurpose Alarm 16, but AL-116 itself is not a real/documented code for this exact equipment.",
+    "date": "2026-06-27"
+  },
+  "danfoss-fc302-vfd-al-128-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-128 fault code",
+    "score": 2,
+    "reason": "The research explicitly states AL-128 does not exist as a Danfoss FC302 fault code; publishing content about a non-existent code creates confusion and misinformation regardless of how well the correction is explained.",
+    "date": "2026-06-27"
+  },
+  "danfoss-fc302-vfd-al-130-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-130 fault code",
+    "score": 3,
+    "reason": "Research documents AL-13 but draft uses AL-130 throughout title/slug/content\u2014this code number mismatch is not verified in research for FC302, making authenticity questionable.",
+    "date": "2026-06-27"
+  },
+  "danfoss-fc302-vfd-al-131-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-131 fault code",
+    "score": 3,
+    "reason": "The research itself admits 'AL 131' is likely a misread and Danfoss uses 'AL 13', making this NOT a documented code for FC302; the draft conflates two different codes without verification that AL-131 exists as stated.",
+    "date": "2026-06-27"
+  },
+  "danfoss-fc302-vfd-al-132-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-132 fault code",
+    "score": 3,
+    "reason": "Code mismatch: research discusses AL-13 but draft is for AL-132, which is not documented in the research for Danfoss FC302; cannot verify this is a real code for this exact drive model.",
+    "date": "2026-06-27"
+  },
+  "danfoss-fc302-vfd-al-133-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-133 fault code",
+    "score": 3,
+    "reason": "Code mismatch: research clearly states AL-13/Err 13, but draft title and JSON use 'AL-133' (a different code entirely); fundamental error makes content unreliable for the stated topic.",
+    "date": "2026-06-27"
+  },
+  "danfoss-fc302-vfd-al-135-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-135 fault code",
+    "score": 4,
+    "reason": "AL-135 is not a documented fault code for Danfoss FC302; the draft speculates it 'is likely a misreading of Alarm 13' without verification, failing authenticity requirements for this exact brand+model.",
+    "date": "2026-06-27"
+  },
+  "danfoss-fc302-vfd-al-137-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-137 fault code",
+    "score": 3,
+    "reason": "The research explicitly states 'Danfoss FC302 drives do not use an AL-137 fault code' and that the user is referencing Alarm 13, yet the draft perpetuates the non-existent AL-137 code in the title query, making this fundamentally inaccurate for the stated topic.",
+    "date": "2026-06-27"
+  },
+  "danfoss-fc302-vfd-al-142-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-142 fault code",
+    "score": 2,
+    "reason": "AL-142 is NOT a real Danfoss FC302 fault code per the research; the draft correctly identifies this but builds an entire repair guide around a non-existent code, which violates editorial standards for code documentation accuracy.",
+    "date": "2026-06-27"
+  },
+  "danfoss-fc302-vfd-al-143-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-143 fault code",
+    "score": 2,
+    "reason": "AL-143 is explicitly NOT a valid/documented fault code for the Danfoss FC302 per the research itself; the article speculates it might be Alarm 13 but cannot confirm the code exists, failing requirement #1.",
+    "date": "2026-06-27"
+  },
+  "danfoss-fc302-vfd-al-144-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-144 fault code",
+    "score": 3,
+    "reason": "FAIL: Research documents 'Alarm 14 \u2013 Earth Fault' but draft uses 'AL-144' in topic title which is not confirmed in research; code number mismatch makes this unpublishable despite otherwise good technical content.",
+    "date": "2026-06-27"
+  },
+  "danfoss-fc302-vfd-al-145-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-145 fault code",
+    "score": 3,
+    "reason": "FAIL: AL-145 is not a documented fault code for the Danfoss FC302; the research explicitly states this code does not exist in official documentation, making this speculative content that violates the primary requirement for verified, real codes.",
+    "date": "2026-06-27"
+  },
+  "danfoss-fc302-vfd-al-149-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-149 fault code",
+    "score": 0,
+    "reason": "FATAL ERROR: Research documents AL-14/Err 14, but draft is titled AL-149 which is never mentioned in research - wrong code number for this brand/model.",
+    "date": "2026-06-27"
+  },
+  "danfoss-fc302-vfd-al-150-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-150 fault code",
+    "score": 3,
+    "reason": "AL-150 is NOT a documented Danfoss FC302 fault code per the research; the draft correctly identifies this but then speculates it might be Alarm 13 without confirmation, violating the fundamental requirement that error codes must be real and documented for the exact brand/model.",
+    "date": "2026-06-27"
+  },
+  "danfoss-fc302-vfd-al-151-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-151 fault code",
+    "score": 3,
+    "reason": "The code 'AL-151' is not documented as a real Danfoss FC302 fault code; the draft admits it's likely a misreading of AL-15, making this speculative content about a non-existent code rather than documented technical information.",
+    "date": "2026-06-27"
+  },
+  "danfoss-fc302-vfd-al-152-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-152 fault code",
+    "score": 3,
+    "reason": "The research documents 'AL 15' but the draft title/JSON uses 'AL-15' and 'AL-152' in the prompt - code number mismatch is unresolved and creates confusion about whether this is the correct fault code for FC302.",
+    "date": "2026-06-27"
   }
 }

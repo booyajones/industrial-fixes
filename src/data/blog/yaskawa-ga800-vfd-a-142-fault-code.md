@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or VFD technician if you cannot find A.142 in the GA800 manual, if the drive will not clear the fault after inspecting wiring and motor connections, or if you need to perform high‑voltage insulation testing or internal drive diagnostics. VFD repair requires specialized knowledge of power electronics, parameter programming, and safe isolation procedures. Attempting board‑level repair or firmware updates without training can cause permanent damage or create an electrical hazard. A technician with Yaskawa factory training can decode ambiguous codes, pull detailed fault logs, and determine whether the issue is wiring, motor, or drive hardware.
 
 **Rough cost:** A pro service call runs about $200–600 depending on whether the issue is wiring, a control board, or drive replacement.
+
+## See Also
+
+- [Yaskawa A1000 CPF06 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf06-fault-code/)
+- [Yaskawa A1000 CPF16 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf16-fault-code/)
+- [Yaskawa VFD Fault GF — Causes & Fix](/posts/yaskawa-vfd-fault-gf/)
+- [Yaskawa GA800 E79 - Causes & Fix](/posts/yaskawa-ga800-vfd-e79-fault-code/)

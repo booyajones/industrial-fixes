@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified electrical technician or VFD specialist immediately if you cannot confirm the exact fault code, if the drive is connected to critical machinery, or if you lack experience working with high-voltage DC bus capacitors. The FC302 operates at mains voltage (up to 480 VAC three-phase) and stores lethal DC voltage in the bus capacitors even after power is removed. Any work beyond verifying the display or swapping an LCP keypad requires lockout/tagout procedures, proper PPE, and a digital multimeter to confirm the DC bus is below 50 volts before touching internal components. If the fault involves the power board, gate drivers, or control PCB, replacement requires torque specifications for bus bar connections and firmware parameter backup. A professional can also contact Danfoss technical support directly with your drive serial number to verify whether AL-111 is a custom fault added by your system integrator.
 
 **Rough cost:** A pro service call runs about $300-800.
+
+## See Also
+
+- [Danfoss FC302 ALARM 53 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-53-fault-code/)
+- [Danfoss VFD Fault OCL — Causes & Fix](/posts/danfoss-vfd-fault-ocl/)
+- [Danfoss FC302 Alarm 13 - Causes & Fix](/posts/danfoss-fc302-vfd-al-137-fault-code/)
+- [Danfoss FC302 Alarm 36 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-36-fault-code/)

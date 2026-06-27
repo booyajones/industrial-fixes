@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or VFD technician if you are not trained in lockout-tagout procedures, if you cannot safely access the motor or encoder, or if continuity and voltage tests do not reveal an obvious cable or connector fault. High DC bus voltage remains inside the drive even after input power is removed, and improper encoder wiring can damage both the drive and the encoder. A technician with an oscilloscope can verify encoder signal quality and pinpoint whether the fault is on the encoder side or the drive side, saving time and preventing unnecessary part swaps.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Yaskawa GA800 E95 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e95-fault-code/)
+- [Yaskawa GA800 VFD E60 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e60-fault-code/)
+- [Yaskawa GA800 E29 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e29-fault-code/)
+- [Yaskawa GA800 E74 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e74-fault-code/)
