@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician immediately if the boiler is locked out and you cannot find a simple cause like low water pressure or a blocked vent. Gas-fired boilers require a licensed gas fitter to work on combustion components, sensors, and control modules, and Weil-McLain warranty claims require professional diagnosis with the CP number, failed part number, and photos. Do not attempt to replace the thermistor, flame sensor, or control board yourself unless you have gas-fitting certification and the proper test equipment, because incorrect work can create carbon monoxide hazards and void your warranty.
 
 **Rough cost:** A pro service call runs about $200-400.
+
+## See Also
+
+- [Weil-McLain Boiler A120 Error - Causes & Fix](/posts/weil-mclain-boiler-a120-error-code/)
+- [Weil-McLain E05 Error Code — Sensor Fault](/posts/weil-mclain-e05-error-code/)
+- [Weil-McLain Boiler A98 Error - Causes & Fix](/posts/weil-mclain-boiler-a98-error-code/)
+- [Weil-McLain A104 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a104-error-code/)

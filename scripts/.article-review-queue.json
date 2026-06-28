@@ -1138,5 +1138,95 @@
     "score": 3,
     "reason": "The research documents 'AL 15' but the draft title/JSON uses 'AL-15' and 'AL-152' in the prompt - code number mismatch is unresolved and creates confusion about whether this is the correct fault code for FC302.",
     "date": "2026-06-27"
+  },
+  "danfoss-fc302-vfd-al-146-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-146 fault code",
+    "score": 3,
+    "reason": "The code AL-146 does not exist for the Danfoss FC302 per the research; the draft speculates it may be Alarm 14 but builds an entire repair guide around an unconfirmed/non-existent fault code, violating the fundamental requirement that codes must be real and documented for this exact brand and model.",
+    "date": "2026-06-28"
+  },
+  "danfoss-fc302-vfd-al-154-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-154 fault code",
+    "score": 4,
+    "reason": "AL-154 is not a documented Danfoss FC302 code; the draft addresses AL-15 instead, which is a different code than what the title/topic requests\u2014this is a fundamental mismatch between the assigned topic and the content delivered.",
+    "date": "2026-06-28"
+  },
+  "danfoss-fc302-vfd-al-155-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-155 fault code",
+    "score": 3,
+    "reason": "AL-155 is not a documented Danfoss FC302 code; the draft speculates it's a misread of AL-15 or AL-13 without confirmation, failing authenticity requirement for error-code documentation.",
+    "date": "2026-06-28"
+  },
+  "danfoss-fc302-vfd-al-156-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-156 fault code",
+    "score": 2,
+    "reason": "The code 'AL-156' does not exist for Danfoss FC302; the research explicitly states this and shows the draft substituted AL-15 instead, making this fundamentally inaccurate for the stated topic.",
+    "date": "2026-06-28"
+  },
+  "danfoss-fc302-vfd-al-159-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-159 fault code",
+    "score": 4,
+    "reason": "The code AL-159 is NOT documented as real for Danfoss FC302; the draft speculates it is a misreading of AL-15 without confirming AL-159 exists, violating criterion 1.",
+    "date": "2026-06-28"
+  },
+  "danfoss-fc302-vfd-al-165-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-165 fault code",
+    "score": 3,
+    "reason": "FAIL: Research explicitly states AL-165 is NOT a documented Danfoss code and likely a misread/custom code, yet draft proceeds as if it's real; this violates requirement #1 for confirmed code existence.",
+    "date": "2026-06-28"
+  },
+  "danfoss-fc302-vfd-al-166-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-166 fault code",
+    "score": 3,
+    "reason": "Research citations [3] and [5] are referenced extensively but the actual source documents are not provided; cannot verify this is a real, documented Danfoss FC302 code versus fabricated content with fake citations.",
+    "date": "2026-06-28"
+  },
+  "yaskawa-ga800-vfd-f001-fault-code": {
+    "topic": "Yaskawa GA800 VFD F001 fault code",
+    "score": 3,
+    "reason": "F001 is not documented as a real Yaskawa GA800 fault code in the research; the research only confirms 'Er-21' as the Z Pulse Correction Error, and the draft conflates two potentially different codes without verification.",
+    "date": "2026-06-28"
+  },
+  "yaskawa-ga800-vfd-f004-fault-code": {
+    "topic": "Yaskawa GA800 VFD F004 fault code",
+    "score": 3,
+    "reason": "FAIL: Research explicitly states the only Yaskawa GA800 document found 'does not contain information to support repairs' and that search results 'overwhelmingly describe this fault for Allen-Bradley PowerFlex' drives instead\u2014the F004 meaning for GA800 is not confirmed by the research provided.",
+    "date": "2026-06-28"
+  },
+  "yaskawa-ga800-vfd-f005-fault-code": {
+    "topic": "Yaskawa GA800 VFD F005 fault code",
+    "score": 0,
+    "reason": "The research explicitly states F005 is NOT a Yaskawa GA800 code but an Allen-Bradley PowerFlex code; the draft correctly pivots to Allen-Bradley, but the original topic assignment 'Yaskawa GA800 VFD F005' is factually wrong and cannot be published under that title.",
+    "date": "2026-06-28"
+  },
+  "yaskawa-ga800-vfd-f007-fault-code": {
+    "topic": "Yaskawa GA800 VFD F007 fault code",
+    "score": 3,
+    "reason": "The code F007 is not documented as real for the Yaskawa GA800; the draft admits this and substitutes PF fault, which constitutes writing about a different code than the assigned topic\u2014this is a fundamental failure of the brief.",
+    "date": "2026-06-28"
+  },
+  "yaskawa-ga800-vfd-f008-fault-code": {
+    "topic": "Yaskawa GA800 VFD F008 fault code",
+    "score": 3,
+    "reason": "F008 is explicitly NOT a documented fault code for the Yaskawa GA800 according to the research; publishing would misinform technicians searching for a non-existent code.",
+    "date": "2026-06-28"
+  },
+  "yaskawa-ga800-vfd-f009-fault-code": {
+    "topic": "Yaskawa GA800 VFD F009 fault code",
+    "score": 3,
+    "reason": "F009 is not a real/documented GA800 fault code per the research; the draft is built on speculation that it 'might be' UV2, which violates requirement #1 for confirmed code existence.",
+    "date": "2026-06-28"
+  },
+  "yaskawa-ga800-vfd-f011-fault-code": {
+    "topic": "Yaskawa GA800 VFD F011 fault code",
+    "score": 3,
+    "reason": "Research explicitly states F011 is NOT documented in available GA800 materials; draft admits code is unverified but still publishes speculative content as if it's a real fault code.",
+    "date": "2026-06-28"
+  },
+  "yaskawa-ga800-vfd-f012-fault-code": {
+    "topic": "Yaskawa GA800 VFD F012 fault code",
+    "score": 3,
+    "reason": "Research appears to be from a single forum thread about a specific installation issue, not official Yaskawa GA800 documentation; F012 code existence and meaning for GA800 not independently verified from manufacturer sources.",
+    "date": "2026-06-28"
   }
 }

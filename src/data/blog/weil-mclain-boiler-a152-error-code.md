@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a qualified heating technician if you cannot retrieve the fault history from the control menu, if you are unfamiliar with gas appliance service, or if you do not have the model-specific service manual and wiring diagrams. Weil-McLain boilers are gas-fired safety appliances that require specialized tools and training to diagnose sensor circuits, test gas valves, measure flame current, and replace control modules. Incorrect diagnosis or improper part replacement can create carbon-monoxide hazards, flood the combustion chamber with unburned gas, or damage the control. A technician will pull the full fault history, identify the exact component from the manufacturer's troubleshooting tables, and test it before ordering parts.
 
 **Rough cost:** A pro service call runs about $200-450.
+
+## See Also
+
+- [Weil-McLain Boiler A62 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a62-error-code/)
+- [Weil-McLain Boiler A25 Error - Causes & Fix](/posts/weil-mclain-boiler-a25-error-code/)
+- [Weil-McLain A165 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a165-error-code/)
+- [Weil-McLain A01 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a101-error-code/)

@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or drive service technician if you see Alarm 16. This fault involves high-voltage DC bus circuits (up to 650V or more) and requires specialized test equipment (megohmmeters, diode-mode multimeters, and oscilloscopes) to isolate the fault safely. Replacing IGBT modules demands correct torque on bus bar connections, thermal compound application, and verification of gate driver circuits. Mishandling can destroy a new power module instantly or create a fire hazard. A technician will also check for root causes such as overload conditions, incorrect parameter settings, or inadequate cooling that led to the original failure.
 
 **Rough cost:** A pro service call runs about $400-1200.
+
+## See Also
+
+- [Danfoss FC302 Alarm 38 - Causes & Fix](/posts/danfoss-fc302-alarm-38-fault-code/)
+- [Danfoss FC302 Alarm 32 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-32-fault-code/)
+- [Danfoss FC302 Alarm 74 - Causes & Fix](/posts/danfoss-fc302-vfd-al-74-fault-code/)
+- [Danfoss FC302 ALARM 28 - Causes & Fix](/posts/danfoss-fc302-alarm-28-fault-code/)

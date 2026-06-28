@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you cannot locate your model's fault-code definition, if the diagnostics menu is locked or unfamiliar, or if the fault points to gas supply, ignition timing, venting, or sealed combustion components. Also call a pro for any work involving gas piping, pressure-switch calibration, control-board programming, or if you have refilled the system and bled air but the code returns immediately. A technician has the model-specific manuals, meters, and combustion-analysis tools to decode A150 on your exact platform and to safely test igniters, flame sensors, thermistors, and gas valves under live conditions.
 
 **Rough cost:** A pro service call runs about $150–400.
+
+## See Also
+
+- [Weil-McLain A76 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a76-error-code/)
+- [Weil-McLain A17 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a17-error-code/)
+- [Weil-McLain A37 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a37-error-code/)
+- [Weil-McLain Boiler A180/E18 Error - Causes & Fix](/posts/weil-mclain-boiler-a180-error-code/)

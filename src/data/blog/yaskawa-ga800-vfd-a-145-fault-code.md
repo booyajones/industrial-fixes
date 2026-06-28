@@ -71,3 +71,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or contact Yaskawa Technical Support if the drive displays an unrecognized code, if you cannot match the code to the official manual, or if the drive fails to start after a power cycle. VFD troubleshooting involves high DC bus voltages (up to 800 VDC on larger frames) that remain present even after input power is removed. Parameter misconfigurations can cause motor damage or unsafe operation. A technician will verify the actual fault code, check option card seating and firmware version, and use diagnostic software to read internal fault logs that are not visible on the keypad.
 
 **Rough cost:** A pro service call runs about $150-400 for diagnostic visit and actual fault repair.
+
+## See Also
+
+- [Yaskawa GA800 A.107 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-107-fault-code/)
+- [Yaskawa A1000 CPF02 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf02-fault-code/)
+- [Yaskawa GA800 E09 Fault - Causes & Fix](/posts/yaskawa-ga800-e09-fault-code/)
+- [Yaskawa GA800 E95 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e95-fault-code/)

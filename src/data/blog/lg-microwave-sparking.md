@@ -70,3 +70,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 If you see damaged or burned interior surfaces, or if sparking persists after thorough cleaning and verifying correct usage, stop using the microwave and call a professional. LG says to discontinue use if the cavity is damaged. Internal component issues like a failing magnetron require a qualified technician to diagnose and replace safely.
+
+## See Also
+
+- [LG WM3500CW Washer Problems & Error Codes](/posts/lg-wm3500cw-washer-problems/)
+- [LG Dryer E00 Error Code - Causes & Fix](/posts/lg-dryer-e00-error-code/)
+- [LG Oven F5 Error Code - Causes & Fix](/posts/lg-oven-f5-error-code/)
+- [LG Dishwasher CE Error Code - Causes & Fix](/posts/lg-dishwasher-ce-error-code/)

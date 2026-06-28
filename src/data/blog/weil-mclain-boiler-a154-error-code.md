@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician immediately if you cannot locate the service manual, if the code is not documented in your manual, or if the boiler remains locked out after basic checks. Boiler diagnostics and repair involve natural gas or oil combustion, high-voltage ignition, and pressure-vessel safety, all of which require specialized training and tools. A technician can access advanced diagnostics, measure combustion parameters, and safely replace sensors, ignition components, or the control board. Attempting to bypass or reset persistent faults without understanding the root cause risks carbon-monoxide exposure, property damage, or personal injury.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Weil-McLain A104 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a104-error-code/)
+- [Weil-McLain A66 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a66-error-code/)
+- [Weil-McLain Boiler A177 Error - Causes & Fix](/posts/weil-mclain-boiler-a177-error-code/)
+- [Weil-McLain A58 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a58-error-code/)

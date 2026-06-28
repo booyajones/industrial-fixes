@@ -68,3 +68,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a professional if you are uncomfortable working inside a microwave, which retains high voltage even when unplugged. The magnetron capacitor can hold a lethal charge and must be safely discharged before any internal work. If you have performed a hard reset, confirmed the control lock is off, tested the door latch, and the unit still will not shut down, a technician with a multimeter and proper safety training should diagnose the control boards and door interlocks. If the main board has shorted relays or the touchpad is embedded in a sealed control assembly, professional replacement is the fastest and safest route.
+
+## See Also
+
+- [LG Dryer Add Error Code - Causes & Fix](/posts/lg-dryer-add-error-code/)
+- [LG Mini Split CH33 Error Code - Causes & Fix](/posts/lg-mini-split-ch33-error-code/)
+- [LG Dryer tE Error Code - Causes & Fix](/posts/lg-dryer-te-error-code/)
+- [LG Washer dE Error Code - Causes & Fix](/posts/lg-washer-de-error-code/)

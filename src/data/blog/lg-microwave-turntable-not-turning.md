@@ -71,3 +71,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 If you have cleaned, reinstalled all parts correctly, and replaced the coupler and roller guide but the tray still does not turn, the turntable motor or control board is likely at fault. Motor replacement requires accessing the bottom of the microwave and working around high-voltage components. If you are not comfortable with that work or if the motor tests good but still does not receive power, contact an LG-authorized service technician for diagnosis and board-level repair.
+
+## See Also
+
+- [LG Washer E21 Error Code - Causes & Fix](/posts/lg-washer-e21-error-code/)
+- [LG Oven Self-Clean Not Working - Causes & Fix](/posts/lg-oven-self-clean-not-working/)
+- [LG Mini-Split CH24 Error - Causes & Fix](/posts/lg-mini-split-ch24-error-code/)
+- [LG Washer dE2 Error Code - Causes & Fix](/posts/lg-washer-de2-error-code/)

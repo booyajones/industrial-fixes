@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified drives technician or an authorized Yaskawa service provider if you cannot locate A.147 in your drive's fault table, if the code persists after correcting wiring and parameter errors, or if you suspect internal hardware failure. Professional support is also required for encoder setup and tuning in vector control applications, for high-voltage installations above 480 V, and whenever the drive shows additional fault codes that involve DC bus faults or gate driver errors. A certified technician has access to Yaskawa service bulletins, firmware update tools, and replacement control boards that match your exact GA800 model and revision.
 
 **Rough cost:** A pro service call runs about $200–800 depending on cause.
+
+## See Also
+
+- [Yaskawa GA800 E19 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e19-fault-code/)
+- [Yaskawa GA800 E04 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e04-fault-code/)
+- [Yaskawa GA800 E61 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e61-fault-code/)
+- [Yaskawa GA800 E70 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e70-fault-code/)

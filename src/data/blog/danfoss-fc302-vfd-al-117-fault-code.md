@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable working with VFD control circuits or parameter programming. Replacing the control board requires de-energizing the drive, handling sensitive electronics, and re-entering or restoring all parameters (the drive will lose its configuration). If the fault persists after swapping the keypad and cable, or if the drive is part of a critical process line where downtime is costly, a certified VFD technician can diagnose the control board and minimize downtime. Also call a pro if you suspect electrical noise issues across multiple drives, as that may require a full wiring and grounding audit of the facility.
 
 **Rough cost:** A pro service call runs about $150-400 depending on whether the fix is a keypad, cable, or control board replacement.
+
+## See Also
+
+- [Danfoss FC-302 Alarm 13 — DC Link Overvoltage Fix](/posts/danfoss-fc302-alarm-13/)
+- [Danfoss FC302 AL-122 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-122-fault-code/)
+- [Danfoss FC302 AL-83 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-83-fault-code/)
+- [Danfoss FC302 VFD AL-153 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-153-fault-code/)

@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if the fault appears with the motor disconnected, if you are not trained in high-voltage DC bus safety, or if IGBT testing and inverter board replacement are beyond your skill level. Work on VFD power sections requires understanding of DC bus capacitor discharge time (at least 5 minutes), proper grounding, and board-level diagnostics. If parameter changes and motor checks do not clear the fault, professional diagnosis with oscilloscope and current-probe tools is the fastest path to identifying failed power components or control board issues.
 
 **Rough cost:** A pro service call runs about $300-800.
+
+## See Also
+
+- [Danfoss FC302 AL-121 - Causes & Fix](/posts/danfoss-fc302-vfd-al-121-fault-code/)
+- [Danfoss FC302 AL-75 - Causes & Fix](/posts/danfoss-fc302-vfd-al-75-fault-code/)
+- [Danfoss FC302 AL-103 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-103-fault-code/)
+- [Danfoss FC302 AL-124 - Causes & Fix](/posts/danfoss-fc302-vfd-al-124-fault-code/)

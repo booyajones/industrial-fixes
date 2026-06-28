@@ -81,3 +81,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you are not comfortable working with gas lines, if the lockout persists after cleaning the flame sensor and checking gas supply, or if you need to measure gas pressure or flame sensor current with specialized tools. Gas work requires proper permits and a combustion analyzer to verify safe operation. A pro can test the flame sensor voltage, adjust or replace the gas valve, diagnose control board faults, and check vent integrity. If the boiler shows repeated lockouts or you smell gas at any time, shut off the gas immediately and call a technician.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [Weil-McLain A174 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a174-error-code/)
+- [Weil-McLain Boiler A128 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a128-error-code/)
+- [Weil-McLain E04 Error Code — Causes & Fix](/posts/weil-mclain-e04-error-code/)
+- [Weil-McLain A04 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a04-error-code/)

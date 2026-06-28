@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified technician or contact Yaskawa technical support if you cannot verify the displayed code in your GA800 manual, if the fault history menu is inaccessible, or if the code reappears after wiring inspection and power cycling. VFD troubleshooting requires familiarity with motor control parameters, AC drive wiring standards, and manufacturer-specific alarm definitions. A technician with Yaskawa experience can pull diagnostic data, compare the code to the correct manual for your firmware revision, and replace the control board or drive only after confirming the fault through proper testing.
 
 **Rough cost:** A pro service call runs about $200-800.
+
+## See Also
+
+- [Yaskawa GA800 E09 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e09-fault-code/)
+- [Yaskawa GA800 E53 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e53-fault-code/)
+- [Yaskawa A1000 oP Fault Code - Causes & Fix](/posts/yaskawa-a1000-vfd-op-fault-code/)
+- [Yaskawa GA800 E67 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e67-fault-code/)

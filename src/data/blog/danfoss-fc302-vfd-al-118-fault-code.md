@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Danfoss-certified service center if the alarm code does not match any entry in the official FC302 manual, if the alarm persists after a power cycle and parameter check, or if parameter 15-32 shows an internal fault (Alarm 38 or sub-codes). VFD repairs involve high-voltage DC bus capacitors (up to 800 VDC on 480 VAC models) and require proper discharge procedures, insulated tools, and knowledge of gate driver circuits. Do not open the drive enclosure or attempt board-level repairs without training. If the drive displays a real alarm such as 13, 14, or 16, follow the official troubleshooting steps in the FC302 operating manual or contact Danfoss technical support for guidance.
 
 **Rough cost:** A pro service call runs about $150-400 depending on whether the fault is a real alarm or a control board replacement.
+
+## See Also
+
+- [Danfoss FC302 AL-149 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-149-fault-code/)
+- [Danfoss FC302 Alarm 47 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-47-fault-code/)
+- [Danfoss FC302 AL-100 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-100-fault-code/)
+- [Danfoss FC302 VFD AL-153 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-153-fault-code/)

@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified drive technician or Yaskawa-certified service provider if you cannot locate A.144 in your GA800 manual, if the fault persists after disconnecting all external wiring and option cards, or if you lack the tools to safely measure high voltage and motor insulation. Professional help is also necessary if the drive requires internal control-board replacement or firmware updates, or if the motor or encoder must be tested under load. A trained technician will have access to Yaskawa technical support, the correct fault-code database for your firmware revision, and the diagnostic equipment needed to isolate internal drive faults without risking further damage.
 
 **Rough cost:** A pro service call runs about $200–800 depending on whether the fault is wiring, an option card, the motor, or internal drive circuitry.
+
+## See Also
+
+- [Yaskawa A1000 oL2 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol2-fault-code/)
+- [Yaskawa VFD Fault BB — Causes & Fix](/posts/yaskawa-vfd-fault-bb/)
+- [Yaskawa GA800 E16 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e16-fault-code/)
+- [Yaskawa GA800 E31 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e31-fault-code/)

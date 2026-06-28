@@ -68,3 +68,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the unit displays code CH38, F4, or any communication fault (CH05, E0, CH53, CH66), or if cleaning the filter and coil does not restore cooling. Refrigerant leak detection, pressure testing, and refrigerant charging require EPA certification and specialized tools. A professional will also diagnose compressor, reversing valve, or electronic control board failures that can mimic warm-air symptoms without triggering a code.
+
+## See Also
+
+- [LG Washer Won't Spin - Causes & Fix](/posts/lg-washer-wont-spin/)
+- [LG Mini Split CH44 Error Code - Causes & Fix](/posts/lg-mini-split-ch44-error-code/)
+- [LG Oven F2 Error Code - Causes & Fix](/posts/lg-oven-f2-error-code/)
+- [LG Mini Split CH02 Error Code — Causes & Fix](/posts/lg-mini-split-ch02-error-code/)
