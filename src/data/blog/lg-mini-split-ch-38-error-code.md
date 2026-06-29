@@ -50,3 +50,10 @@ The CH38 code on an LG mini-split indicates that the system has detected a low r
 ## When to Call a Pro
 
 CH38 requires refrigerant system diagnosis, leak detection equipment, vacuum pump, recovery machine, and EPA Section 608 certification to handle refrigerant legally. Homeowners should not attempt to open the refrigerant circuit or add refrigerant without proper tools and licensing. Call a qualified HVAC technician if you see this code. The repair will include leak location, proper evacuation, and precise recharge, all of which require specialized gauges and skills. Attempting a DIY refrigerant fix risks personal injury, environmental harm, and permanent damage to the compressor.
+
+## See Also
+
+- [LG Dryer Main Control Board Replacement - Signs & How-To](/posts/lg-dryer-main-control-board-pcb-replacement/)
+- [LG Mini Split CH29 Error Code - Causes & Fix](/posts/lg-mini-split-ch29-error-code/)
+- [LG Range F5 Error Code - Causes & Fix](/posts/lg-range-f5-error-code/)
+- [LG Washer CL Error Code - Causes & Fix](/posts/lg-washer-cl-error-code/)

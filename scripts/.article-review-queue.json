@@ -1228,5 +1228,59 @@
     "score": 3,
     "reason": "Research appears to be from a single forum thread about a specific installation issue, not official Yaskawa GA800 documentation; F012 code existence and meaning for GA800 not independently verified from manufacturer sources.",
     "date": "2026-06-28"
+  },
+  "danfoss-fc302-vfd-al-139-fault-code": {
+    "topic": "Danfoss FC302 VFD AL-139 fault code",
+    "score": 3,
+    "reason": "Research explicitly states 'there is no specific fault code named AL-139' for the Danfoss FC302 VFD; the draft proceeds with unconfirmed speculation that it 'almost certainly' means AL-13, which violates requirement #1 for documented code verification.",
+    "date": "2026-06-29"
+  },
+  "yaskawa-ga800-vfd-f017-fault-code": {
+    "topic": "Yaskawa GA800 VFD F017 fault code",
+    "score": 3,
+    "reason": "The research explicitly states F017 is NOT documented for Yaskawa GA800 (only for Schneider drives), yet the draft proceeds as if it's real\u2014fails fundamental requirement #1.",
+    "date": "2026-06-29"
+  },
+  "yaskawa-ga800-vfd-f018-fault-code": {
+    "topic": "Yaskawa GA800 VFD F018 fault code",
+    "score": 6,
+    "reason": "Research does not explicitly confirm F018 is a documented Yaskawa GA800 code; research mentions F018 for Schneider ATV310 and 'generally across VFDs' but lacks direct GA800 manual citation.",
+    "date": "2026-06-29"
+  },
+  "yaskawa-ga800-vfd-f020-fault-code": {
+    "topic": "Yaskawa GA800 VFD F020 fault code",
+    "score": 3,
+    "reason": "Research explicitly states F020 is NOT a real GA800 fault code; publishing a page for a non-existent code violates editorial standards even if the bUS020 fallback content is accurate.",
+    "date": "2026-06-29"
+  },
+  "yaskawa-ga800-vfd-f025-fault-code": {
+    "topic": "Yaskawa GA800 VFD F025 fault code",
+    "score": 3,
+    "reason": "Research explicitly states F025 is NOT a documented Yaskawa GA800 code and may be misread/confusion with other codes; draft proceeds to publish detailed troubleshooting for an unconfirmed error code.",
+    "date": "2026-06-29"
+  },
+  "yaskawa-ga800-vfd-f027-fault-code": {
+    "topic": "Yaskawa GA800 VFD F027 fault code",
+    "score": 3,
+    "reason": "Research cites only [1] for all claims but provides no verifiable source confirming F027 exists for GA800 specifically or that it means 'overcurrent during PID control' - appears fabricated without manufacturer documentation.",
+    "date": "2026-06-29"
+  },
+  "yaskawa-ga800-vfd-f029-fault-code": {
+    "topic": "Yaskawa GA800 VFD F029 fault code",
+    "score": 2,
+    "reason": "F029 is explicitly not a real GA800 fault code per the research; publishing content about a non-existent code violates fundamental accuracy requirements regardless of the speculative A.021 alternative offered.",
+    "date": "2026-06-29"
+  },
+  "yaskawa-ga800-vfd-f034-fault-code": {
+    "topic": "Yaskawa GA800 VFD F034 fault code",
+    "score": 3,
+    "reason": "F034 is NOT documented as a real GA800 code in the research; the draft speculates it might be EF8 but builds an entire repair guide around an unconfirmed fault code for this specific drive model.",
+    "date": "2026-06-29"
+  },
+  "yaskawa-ga800-vfd-f038-fault-code": {
+    "topic": "Yaskawa GA800 VFD F038 fault code",
+    "score": 3,
+    "reason": "The research explicitly states F038 does NOT exist for GA800\u2014the actual code is 'oS' (Overspeed), but the draft treats F038 as real/interchangeable without clear correction, creating confusion and misrepresenting the documented fault code.",
+    "date": "2026-06-29"
   }
 }

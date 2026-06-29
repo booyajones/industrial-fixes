@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if you are not trained to work with high-voltage DC (the DC bus remains energized at 500-800V even after AC power is removed and requires a controlled discharge procedure). Professional help is also required if input voltage measurements show utility supply problems, if the rectifier or power board needs replacement (which involves desoldering bus bars and torquing high-current terminals to exact specifications), or if the alarm persists after verifying parameters and input power. Work on VFDs above 1 HP involves risk of arc flash and lethal shock and should only be performed by personnel with appropriate PPE and lockout/tagout training.
 
 **Rough cost:** A pro service call runs about $200-600.
+
+## See Also
+
+- [Danfoss VLT 2900 Fault Codes: Complete Guide](/posts/danfoss-vlt-2900-faults/)
+- [Danfoss VFD Fault W30 — Brake Resistor Overtemperature Fix](/posts/danfoss-vfd-fault-w30/)
+- [Danfoss FC302 Alarm 17 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-17-fault-code/)
+- [Danfoss FC302 VFD Alarm 38 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-38-fault-code/)

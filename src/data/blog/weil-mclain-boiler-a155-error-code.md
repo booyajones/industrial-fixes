@@ -81,3 +81,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician if you are uncomfortable working around gas, if the fault returns after cleaning the flame sensor, or if you cannot safely access the ignition components. Professional diagnosis is required for gas valve replacement, control board faults, or any situation where the boiler has locked out more than twice. Repeated resets without fixing the root cause can damage the control or create a carbon-monoxide hazard. Weil-McLain recommends using the model-specific fault tree and service literature rather than guessing, and warranty parts claims require a contractor to document the serial number and failed component.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [Weil-McLain Boiler A26 Error - Causes & Fix](/posts/weil-mclain-boiler-a26-error-code/)
+- [Weil-McLain A79 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a79-error-code/)
+- [Weil-McLain A100 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a100-error-code/)
+- [Weil-McLain Boiler A43 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a43-error-code/)

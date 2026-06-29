@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified drives technician or electrical contractor if the drive continues to fault with the motor disconnected, if you lack a megohmmeter or clamp-on ammeter for diagnostic testing, or if internal inspection reveals swollen capacitors or damaged IGBT modules. High-voltage work inside the drive (even with power off, DC bus capacitors can hold lethal charge) requires lockout/tagout procedures and proper discharge tools. Professional drive repair shops can test and replace individual power boards, rectifiers, and capacitors at lower cost than full drive replacement. If the motor tests faulty (winding short or insulation breakdown), a motor shop can rewind or you can source a replacement matched to the drive's output rating.
 
 **Rough cost:** A pro service call runs about $200-800 depending on whether repair involves parameter adjustment, motor replacement, or drive power board service.
+
+## See Also
+
+- [Danfoss VLT Alarm 14 - Earth Fault: What It Means and How to Fix It](/posts/danfoss-vlt-alarm-14/)
+- [Danfoss FC302 AL-89 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-89-fault-code/)
+- [Danfoss FC302 AL-116 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-116-fault-code/)
+- [Danfoss FC302 ALARM 28 - Causes & Fix](/posts/danfoss-fc302-alarm-28-fault-code/)

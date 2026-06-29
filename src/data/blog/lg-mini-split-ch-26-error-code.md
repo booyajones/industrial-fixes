@@ -50,3 +50,10 @@ This is a serious compressor-drive issue that typically requires professional di
 ## When to Call a Pro
 
 Call a licensed HVAC technician immediately for CH 26. This code involves high-voltage inverter electronics, refrigerant recovery, and compressor replacement that require EPA certification, specialized tools, and training. Attempting compressor or inverter board work without proper credentials is unsafe and illegal in most jurisdictions. A qualified tech will perform electrical testing, identify the failed component, and handle refrigerant properly during any compressor or sealed-system repair.
+
+## See Also
+
+- [LG Dryer Won't Start - Causes & Fix](/posts/lg-dryer-wont-start/)
+- [LG Microwave Door Won't Open - Causes & Fix](/posts/lg-microwave-door-wont-open/)
+- [LG Refrigerator Leaking Water - Causes & Fix](/posts/lg-refrigerator-leaking-water/)
+- [LG Dryer Not Heating - Causes & Fix](/posts/lg-dryer-not-heating/)

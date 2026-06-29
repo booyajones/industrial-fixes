@@ -50,3 +50,10 @@ The CH05 error code on an LG mini-split signals a communication failure between 
 ## When to Call a Pro
 
 If the outdoor breaker is on, the wiring looks intact, and a power reset does not clear CH05, the fault lies in the control boards or requires signal-level testing that demands specialized tools and training. Board replacement on inverter mini-splits also involves refrigerant-system work and high-voltage connections. Call a qualified HVAC technician to diagnose the communication circuit, measure signal integrity, and replace the defective PCB safely.
+
+## See Also
+
+- [LG Range E6 Error Code - Causes & Fix](/posts/lg-range-e6-error-code/)
+- [LG Refrigerator Water Inlet Valve Replacement - Signs & How-To](/posts/lg-refrigerator-water-inlet-valve-replacement/)
+- [LG Washer dE Error Code - Causes & Fix](/posts/lg-washer-de-error-code/)
+- [LG Dishwasher Leaking - Causes & Fix](/posts/lg-dishwasher-leaking/)

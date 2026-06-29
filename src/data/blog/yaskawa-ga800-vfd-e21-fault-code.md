@@ -51,3 +51,10 @@ If the actual code is oH3 or another motor-temperature alarm, the cause is typic
 ## When to Call a Pro
 
 Call a qualified drives technician or contact Yaskawa support if you cannot confirm the exact fault code from the technical manual, if the code persists after correcting external wiring, or if you are not trained to work safely on live industrial motor drives. The GA800 maintenance documentation limits deep field repair to fan and control board replacement, so internal component-level troubleshooting or board-level diagnostics require factory support or an authorized Yaskawa service center. Do not attempt repairs on energized high-voltage equipment without proper lockout and electrical safety training.
+
+## See Also
+
+- [Yaskawa GA800 E25 Fault - Causes & Fix](/posts/yaskawa-ga800-e25-fault-code/)
+- [Yaskawa GA800 F001 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f001-fault-code/)
+- [Yaskawa GA800 E88 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e88-fault-code/)
+- [Yaskawa GA800 E91 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e91-fault-code/)

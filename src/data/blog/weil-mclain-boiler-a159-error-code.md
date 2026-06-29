@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified boiler technician immediately if you cannot locate your model's fault table or diagnostic menu instructions, if system pressure will not hold after topping up, if you smell gas or see soot around the burner, or if A159 returns after a reset. Gas-fired boiler diagnostics require a combustion analyzer, multimeter, and knowledge of your specific control platform to safely identify failed sensors, ignition problems, or venting issues. Professional service typically costs $200-500 depending on the root cause and includes retrieval of detailed fault logs, electrical testing of sensors and flame circuits, combustion analysis, and replacement of the confirmed failed component with the correct OEM part for your model.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Weil-McLain A58 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a58-error-code/)
+- [Weil-McLain A95 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a95-error-code/)
+- [Weil-McLain A81 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a81-error-code/)
+- [Weil-McLain A164 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a164-error-code/)

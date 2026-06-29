@@ -49,3 +49,10 @@ The CH04 error code on your LG mini split indicates the indoor unit has detected
 ## When to Call a Pro
 
 Call a licensed HVAC technician if the CH04 code returns immediately after power reset and drain cleaning, if you cannot locate or access the drain pan or pump, or if the float switch and jumper configuration are unclear for your specific model. Persistent faults may indicate a failed float switch, broken pump motor, or internal wiring issue that requires refrigerant-system access and electrical diagnostics beyond homeowner tools. Technicians carry model-specific service manuals with jumper tables and can pressure-test the drain system to find hidden blockages.
+
+## See Also
+
+- [LG Mini Split Making Noise - Causes & Fix](/posts/lg-mini-split-making-noise/)
+- [LG Dishwasher Not Cleaning Dishes - Causes & Fix](/posts/lg-dishwasher-not-cleaning-dishes/)
+- [LG Refrigerator rS Error Code - Causes & Fix](/posts/lg-refrigerator-rs-error-code/)
+- [LG Microwave Won't Start - Causes & Fix](/posts/lg-microwave-wont-start/)

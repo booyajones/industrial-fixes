@@ -51,3 +51,10 @@ Before attempting any reset, remove input power and inspect the motor and driven
 ## When to Call a Pro
 
 Call a qualified electrician or VFD technician if you cannot locate the E20 fault definition in your GA800 manual, if the fault returns immediately after reset with no mechanical or load issues present, or if you are not trained to work safely on industrial three-phase motor drive equipment. Professional diagnostic tools and firmware access may be required to read internal fault logs, update drive firmware, or replace control boards. Do not attempt to open the drive enclosure or perform internal repairs unless you are trained and authorized to do so.
+
+## See Also
+
+- [Yaskawa GA800 E75 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e75-fault-code/)
+- [Yaskawa GA800 E30 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e30-fault-code/)
+- [Yaskawa GA800 A.105 Alarm - Causes & Fix](/posts/yaskawa-ga800-vfd-a-105-fault-code/)
+- [Yaskawa GA800 E42 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e42-fault-code/)

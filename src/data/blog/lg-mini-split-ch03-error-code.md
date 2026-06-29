@@ -52,3 +52,10 @@ This code is specific to systems that use a wired wall controller. If your unit 
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you are not comfortable working with low-voltage DC circuits, if you do not own a multimeter to check the 12 VDC supply, or if the fault persists after reseating connectors and power-cycling. Indoor PCB replacement requires safe electrical isolation, proper wire documentation, and sometimes a laptop with LG's service software to run auto-addressing on Multi V systems. A technician can also verify that the communication protocol and controller model are correct for your specific indoor unit, which is difficult to confirm from model-number stickers alone.
+
+## See Also
+
+- [LG CH 26 Error Code - Causes & Fix](/posts/lg-mini-split-ch-26-error-code/)
+- [LG Washer Door Won't Unlock - Causes & Fix](/posts/lg-washer-door-wont-unlock/)
+- [LG Washer Drain Hose Replacement - Signs & How-To](/posts/lg-washer-drain-hose-replacement/)
+- [LG Washer Drain Pump Replacement - Signs & How-To](/posts/lg-washer-drain-pump-replacement/)

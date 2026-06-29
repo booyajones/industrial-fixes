@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician immediately if you cannot find A157 in your boiler's manual, if you are uncomfortable working with gas or high-voltage controls, or if basic checks (pressure, power, thermostat) do not clear the code. Weil-McLain boilers require model-specific diagnostics, and the wrong repair can damage the control board or create a safety hazard. A qualified technician will identify your exact control type, pull the correct fault-code table, test sensors and ignition components with the right meters, and document the failed part number for any warranty claim. Do not guess at sensor or control replacements without verifying the code's meaning first.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A170 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a170-error-code/)
+- [Weil-McLain A126 Error - Causes & Fix](/posts/weil-mclain-boiler-a126-error-code/)
+- [Weil-McLain Boiler A163 Error - Causes & Fix](/posts/weil-mclain-boiler-a163-error-code/)
+- [Weil-McLain Boiler A120 Error - Causes & Fix](/posts/weil-mclain-boiler-a120-error-code/)

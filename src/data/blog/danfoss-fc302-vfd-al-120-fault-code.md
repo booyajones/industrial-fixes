@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drive technician immediately if you are unfamiliar with three-phase power systems or if the drive shows any alarm code. High-voltage DC bus capacitors can hold a lethal charge for minutes after power is removed. If incoming voltage is correct and terminal connections are tight but the alarm persists, internal components such as the rectifier, IGBT module, or power board have likely failed and require replacement by a technician with lockout/tagout training and the correct replacement parts for your drive frame size and voltage rating. Do not attempt to open the drive enclosure or disconnect the motor under load.
 
 **Rough cost:** A pro service call runs about $300-900.
+
+## See Also
+
+- [Danfoss FC302 Alarm 48 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-48-fault-code/)
+- [Danfoss FC302 ALARM 35 - Causes & Fix](/posts/danfoss-fc302-alarm-35-fault-code/)
+- [Danfoss FC302 AL-64 - Causes & Fix](/posts/danfoss-fc302-vfd-al-64-fault-code/)
+- [Danfoss FC302 Alarm 23 - Causes & Fix](/posts/danfoss-fc302-alarm-23-fault-code/)

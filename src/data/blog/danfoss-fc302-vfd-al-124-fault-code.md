@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician if the alarm number does not appear in the FC302 manual, if you lack a multimeter or safe lockout procedure, or if internal boards or the power module need replacement. High-voltage DC bus capacitors remain charged even after input power is removed, and a shock can be fatal. A technician can also download parameter backups, test the inverter module with specialized equipment, and verify motor winding integrity with a megger.
 
 **Rough cost:** A pro service call runs about $150–400 depending on which alarm is actually present and whether a resistor, board, or motor needs replacement.
+
+## See Also
+
+- [Danfoss FC302 Alarm 51 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-51-fault-code/)
+- [Danfoss FC302 Alarm AL 29 — Causes & Fix](/posts/danfoss-fc302-fault-al-29/)
+- [Danfoss FC302 ALARM 26 - Causes & Fix](/posts/danfoss-fc302-alarm-26-fault-code/)
+- [Danfoss FC302 VFD Alarm 28 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-28-fault-code/)

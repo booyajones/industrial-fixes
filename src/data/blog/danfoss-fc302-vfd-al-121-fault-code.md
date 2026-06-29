@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician for any Danfoss FC302 fault. These drives operate at high voltage (up to 690V AC) and high DC bus voltage, and internal repairs require specialized test equipment, firmware tools, and familiarity with gate-driver circuits and parameter programming. If the exact code cannot be identified from the LCP display or parameter list, a technician with Danfoss MCT software can read extended diagnostic logs and verify whether the code is a custom alarm or a misread standard fault. Professional service also ensures proper motor parameter setup, which prevents repeat overcurrent and overvoltage faults.
 
 **Rough cost:** A pro service call runs about $200-800.
+
+## See Also
+
+- [Danfoss FC302 VFD Alarm 28 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-28-fault-code/)
+- [Danfoss FC302 AL-111 - Causes & Fix](/posts/danfoss-fc302-vfd-al-111-fault-code/)
+- [Danfoss FC302 AL-122 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-122-fault-code/)
+- [Danfoss FC302 Alarm 52 - AMA Low Inom Causes & Fix](/posts/danfoss-fc302-vfd-alarm-52-fault-code/)

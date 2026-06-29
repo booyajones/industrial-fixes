@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician immediately if you smell gas, if the boiler repeatedly locks out after resets, or if you are not comfortable working with gas appliances. Any work on the gas valve, gas piping, combustion air system, or control board should be done by a professional. Technicians have the correct manuals, diagnostic tools, and gas-detection equipment to safely trace ignition faults and verify proper combustion. Because A158 is not a standard published Weil-McLain code, a pro can cross-reference your exact model and control to find the manufacturer-defined meaning and follow the correct test sequence.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Weil-McLain A67 Error - Causes & Fix](/posts/weil-mclain-boiler-a67-error-code/)
+- [Weil-McLain A76 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a76-error-code/)
+- [Weil-McLain A157 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a157-error-code/)
+- [Weil-McLain A51 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a51-error-code/)

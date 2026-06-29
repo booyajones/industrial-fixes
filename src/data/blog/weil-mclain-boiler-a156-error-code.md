@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician whenever you smell gas, cannot locate gas supply pressure test ports, or lack a manometer and combustion-analysis tools. Gas-fired boilers require precise combustion tuning, and incorrect electrode gaps or gas-valve adjustments create carbon monoxide risk. A technician will verify supply and manifold pressure, inspect the heat exchanger for fouling or cracks, download the control's fault history, test ignition transformer output voltage, and confirm proper condensate drainage and venting. Professional diagnosis is also necessary if you have replaced electrodes and verified gas supply but the code persists, since the fault may lie in the control module, a failed pressure switch, or blocked venting.
 
 **Rough cost:** A pro service call runs about $150–400.
+
+## See Also
+
+- [Weil-McLain A74 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a74-error-code/)
+- [Weil-McLain A88 Error - Causes & Fix](/posts/weil-mclain-boiler-a88-error-code/)
+- [Weil-McLain A183 Error - Causes & Fix](/posts/weil-mclain-boiler-a183-error-code/)
+- [Weil-McLain A125 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a125-error-code/)

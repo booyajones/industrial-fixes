@@ -71,3 +71,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or Yaskawa-certified technician if you are not trained in variable-frequency drive service, if the fault persists after wiring inspection and parameter review, or if you suspect the drive power section or control board has failed. High-voltage AC power and motor circuits require lockout/tagout and proper test equipment. Do not attempt to open the drive enclosure or measure internal DC bus voltage without appropriate training and safety gear. A technician will use the GA800 fault history, wiring diagrams, and test procedures to isolate the real fault and determine whether the drive can be repaired or must be replaced.
 
 **Rough cost:** A pro service call runs about $200-500 for diagnostics and wiring repair; $800-2,500 if drive replacement is needed.
+
+## See Also
+
+- [Yaskawa Sigma-7 SGD7S Servo Drive Alarm Codes — Diagnosis & Fix](/posts/yaskawa-sigma7-sgd7s-alarm-codes/)
+- [Yaskawa GA800 E04 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e04-fault-code/)
+- [Yaskawa GA800 F010 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f010-fault-code/)
+- [Yaskawa GA800 Fault 030 - Causes & Fix](/posts/yaskawa-ga800-vfd-f030-fault-code/)
