@@ -81,3 +81,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or contact your local Danfoss supplier if the fault persists after a full power cycle, control card reseating, and firmware update. Internal faults on the FC302 often require component-level diagnostics with specialized test equipment to isolate failures in the power board, IGBT modules, or gate driver circuits. Professional repair or factory service is necessary if you lack experience working inside variable frequency drives or if your facility does not allow in-house repair of high-voltage industrial electronics. Danfoss provides technical support and can arrange for authorized service centers to perform board-level repair or drive replacement under warranty.
 
 **Rough cost:** A pro service call runs about $300-800 for control card replacement and diagnostics.
+
+## See Also
+
+- [Danfoss FC302 AL-142 - Causes & Fix](/posts/danfoss-fc302-vfd-al-142-fault-code/)
+- [Danfoss FC302 AL-99 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-99-fault-code/)
+- [Danfoss VFD Fault Codes — FC301, FC302, FC102 Reference](/posts/danfoss-vfd-fault-codes/)
+- [Danfoss FC302 AL-165 - Causes & Fix](/posts/danfoss-fc302-vfd-al-165-fault-code/)

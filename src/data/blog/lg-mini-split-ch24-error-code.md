@@ -49,3 +49,10 @@ CH24 on LG mini-split systems is a pressure-switch error. On most residential sp
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not EPA-certified to handle refrigerant, if manifold-gauge readings show abnormal pressures that require recovery and recharge, or if you have cleaned the coil and verified the fan but CH24 returns immediately. Pressure-switch replacement and board-level diagnosis also require specialized tools and familiarity with live voltage on the outdoor PCB. A professional can perform a full refrigerant analysis, check for non-condensables, and confirm that the system is within specification before releasing it back to service.
+
+## See Also
+
+- [LG Oven F2 Error Code - Causes & Fix](/posts/lg-oven-f2-error-code/)
+- [LG Washer Not Draining Completely - Causes & Fix](/posts/lg-washer-not-draining-completely/)
+- [LG Refrigerator rF Error Code - Causes & Fix](/posts/lg-refrigerator-rf-error-code/)
+- [LG Microwave LOC Error Code - Causes & Fix](/posts/lg-microwave-loc-error-code/)

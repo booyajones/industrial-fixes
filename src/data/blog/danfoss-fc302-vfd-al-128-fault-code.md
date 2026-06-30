@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified technician if the alarm persists after correcting parameter 128 and inspecting motor cables. VFD repair requires high-voltage experience and specialized diagnostic tools to measure IGBT gate voltage, current shunt calibration, and thermal model calculations. If motor winding insulation tests below 1 megohm to ground, the motor needs professional rewind or replacement. Do not attempt to open the drive enclosure or test IGBTs without lockout/tagout and arc-flash PPE. Incorrect parameter programming or wiring can damage the drive permanently or cause motor fires.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Danfoss FC302 Complete Fault Code Guide — All Faults and Fixes](/posts/danfoss-fc302-complete-guide/)
+- [Danfoss FC302 AL-88 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-88-fault-code/)
+- [Danfoss FC302 VFD Alarm 46 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-46-fault-code/)
+- [Danfoss FC302 Alarm 14 - Causes & Fix](/posts/danfoss-fc302-alarm-14-fault-code/)

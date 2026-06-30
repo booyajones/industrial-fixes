@@ -71,3 +71,10 @@ Answer these to narrow it down fast.
 Call a licensed heating contractor immediately if the boiler is locked out, will not fire, or displays an unfamiliar code. Weil-McLain service manuals are written for qualified installer and service technicians, and troubleshooting gas-fired boilers requires knowledge of combustion, venting, gas piping, and high-voltage controls. For warranty claims, your contractor will need the CP number, model, size, install date, failure reason, failed part description and number, and photos. Do not attempt to replace control boards, sensors, or gas valves without professional guidance, because mismatched parts or incorrect wiring can create safety hazards and void the warranty.
 
 **Rough cost:** A pro service call runs about $150-350 for diagnostic and typical control or sensor repair.
+
+## See Also
+
+- [Weil-McLain Code 1 — No Flame Sensed Fix](/posts/weil-mclain-error-code-1/)
+- [Weil-McLain A104 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a104-error-code/)
+- [Weil-McLain A131 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a131-error-code/)
+- [Weil-McLain Boiler A55 Error - Causes & Fix](/posts/weil-mclain-boiler-a55-error-code/)

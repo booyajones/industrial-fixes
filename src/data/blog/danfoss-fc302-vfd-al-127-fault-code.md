@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or electrical contractor if you are not trained in high-voltage DC and AC power systems. The FC302 contains lethal DC-link voltages (up to 800 VDC) that persist after AC power is removed. Component-level diagnosis requires knowledge of IGBT gate drive circuits, current sensor verification, and firmware diagnostics. If the fault persists after motor-side checks or you lack the tools to safely discharge capacitors and measure high-voltage circuits, professional service is required. Drive repair specialists can also perform board-level component replacement and parameter recovery from backup, which is beyond typical in-house capabilities.
 
 **Rough cost:** A pro service call runs about $300-800 for gate driver board replacement or motor repair.
+
+## See Also
+
+- [Danfoss FC302 ALARM 36 - Causes & Fix](/posts/danfoss-fc302-alarm-36-fault-code/)
+- [Danfoss FC302 Alarm 32 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-32-fault-code/)
+- [Danfoss FC302 AL-157 - Causes & Fix](/posts/danfoss-fc302-vfd-al-157-fault-code/)
+- [Danfoss FC302 AL-104 - Causes & Fix](/posts/danfoss-fc302-vfd-al-104-fault-code/)

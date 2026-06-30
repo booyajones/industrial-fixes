@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician immediately if A164 persists after a reset and you cannot find it in your boiler manual. Gas-fired boilers require trained diagnostics to avoid safety risks, and undocumented fault codes may indicate a control board fault, a firmware mismatch, or a sensor issue that needs voltage testing and parts replacement. A qualified technician can access Weil-McLain technical support, interpret fault history logs, and perform DC voltage measurements at sensor terminals without risking a gas leak or electrical short. If the code turns out to be A44, the tech will inspect all sensor wiring for chafes and hidden crimps, swap sensors to isolate the fault, and replace only the confirmed bad component rather than guessing at parts.
 
 **Rough cost:** A pro service call runs about $150-350 for a service call to diagnose and repair sensor wiring or replace a confirmed sensor.
+
+## See Also
+
+- [Weil-McLain Boiler A156 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a156-error-code/)
+- [Weil-McLain A97 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a97-error-code/)
+- [Weil-McLain Boiler A149 Error - Causes & Fix](/posts/weil-mclain-boiler-a149-error-code/)
+- [Weil-McLain A90 Error - Causes & Fix](/posts/weil-mclain-boiler-a90-error-code/)

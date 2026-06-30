@@ -49,3 +49,10 @@ CH06 indicates the indoor unit outlet pipe temperature sensor is reporting an op
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you are uncomfortable working with line voltage, if you cannot locate the sensor or access the indoor PCB safely, or if the sensor tests correctly but the fault does not clear after reseating connections. Technicians have the model-specific resistance charts, refrigerant handling tools if further diagnosis is needed, and warranty-approved replacement parts. If your unit is under warranty, professional service may be required to preserve coverage.
+
+## See Also
+
+- [LG Refrigerator FF Error Code - Causes & Fix](/posts/lg-refrigerator-ff-error-code/)
+- [LG Dishwasher Buttons Not Working - Causes & Fix](/posts/lg-dishwasher-buttons-not-working/)
+- [LG Washer Drain Hose Replacement - Signs & How-To](/posts/lg-washer-drain-hose-replacement/)
+- [LG Refrigerator rT Error Code - Causes & Fix](/posts/lg-refrigerator-rt-error-code/)

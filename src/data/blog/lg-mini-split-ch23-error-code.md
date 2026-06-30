@@ -51,3 +51,10 @@ CH23 appears on LG mini split systems when the inverter DC link in the outdoor u
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with live line voltage or if your multimeter readings confirm normal input voltage but the DC link still reads below threshold. Diagnosing and replacing inverter boards, reactors, or bridge diodes requires understanding high-voltage DC circuits and proper discharge procedures. A pro will also have the factory service manual with your model's exact test-point locations, voltage tables, and component resistance specifications. If the unit is still under warranty, professional service may be required to preserve coverage.
+
+## See Also
+
+- [LG Oven Door Won't Lock - Causes & Fix](/posts/lg-oven-door-wont-lock/)
+- [LG Range FE Error Code - Causes & Fix](/posts/lg-range-fe-error-code/)
+- [LG Range E3 Error Code - Causes & Fix](/posts/lg-range-e3-error-code/)
+- [LG Refrigerator dH Error Code - Causes & Fix](/posts/lg-refrigerator-dh-error-code/)

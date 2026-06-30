@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if the outdoor sensor is installed and wired correctly but the code will not clear, if the display shows a code other than A16 that you cannot verify in your manual, or if you are uncomfortable working with low-voltage control wiring. Also call a pro if the boiler displays F-39 instead of A16, since that indicates a failed sensor rather than a missing one and may require additional diagnostics. Gas-supply and combustion issues are unrelated to A16 and require professional diagnosis and repair.
 
 **Rough cost:** DIY runs about $25-60 in parts, 20-40 min. A pro service call runs about $120-250.
+
+## See Also
+
+- [Weil-McLain A54 Error - Causes & Fix](/posts/weil-mclain-boiler-a54-error-code/)
+- [Weil-McLain A91 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a91-error-code/)
+- [Weil-McLain A179 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a179-error-code/)
+- [Weil-McLain A172 Error - Causes & Fix](/posts/weil-mclain-boiler-a172-error-code/)

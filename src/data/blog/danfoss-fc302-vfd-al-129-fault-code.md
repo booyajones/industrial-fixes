@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if you lack the tools to safely discharge high-voltage capacitors, if IGBT testing shows a short requiring board replacement, or if the alarm returns after cleaning and fan replacement. High-voltage DC-link circuits and IGBT modules require proper test equipment and lock-out procedures. A technician will also verify input power quality, check for phase imbalance, update drive firmware if needed, and recommend cabinet ventilation upgrades when ambient conditions exceed the drive's continuous rating.
 
 **Rough cost:** A pro service call runs about $150-400 for cleaning, fan replacement, and cabinet ventilation improvements.
+
+## See Also
+
+- [Danfoss FC302 VFD Alarm 46 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-46-fault-code/)
+- [Danfoss FC302 ALARM 20 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-20-fault-code/)
+- [Danfoss FC302 VFD Alarm 37 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-37-fault-code/)
+- [Danfoss FC302 VFD Alarm 44 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-44-fault-code/)

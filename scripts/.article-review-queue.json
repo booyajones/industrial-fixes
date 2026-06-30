@@ -1282,5 +1282,53 @@
     "score": 3,
     "reason": "The research explicitly states F038 does NOT exist for GA800\u2014the actual code is 'oS' (Overspeed), but the draft treats F038 as real/interchangeable without clear correction, creating confusion and misrepresenting the documented fault code.",
     "date": "2026-06-29"
+  },
+  "yaskawa-ga800-vfd-f043-fault-code": {
+    "topic": "Yaskawa GA800 VFD F043 fault code",
+    "score": 3,
+    "reason": "F043 is NOT a documented GA800 fault code; the draft conflates it with CPF39 without confirmation, creating confusion rather than helping technicians with an actual F043 error.",
+    "date": "2026-06-30"
+  },
+  "yaskawa-ga800-vfd-f044-fault-code": {
+    "topic": "Yaskawa GA800 VFD F044 fault code",
+    "score": 3,
+    "reason": "F044 is NOT a real/documented fault code for the Yaskawa GA800 VFD per the research; the entire article is based on speculation that it 'might be' EF3, which fails the fundamental requirement that the code must be confirmed real for this exact brand and model.",
+    "date": "2026-06-30"
+  },
+  "yaskawa-ga800-vfd-f046-fault-code": {
+    "topic": "Yaskawa GA800 VFD F046 fault code",
+    "score": 3,
+    "reason": "F046 is explicitly NOT a documented/valid Yaskawa GA800 fault code per the research; publishing content about a non-existent code creates confusion and damages site credibility, even though the PGoH redirect is accurate.",
+    "date": "2026-06-30"
+  },
+  "yaskawa-ga800-vfd-f050-fault-code": {
+    "topic": "Yaskawa GA800 VFD F050 fault code",
+    "score": 0,
+    "reason": "FAIL: Research explicitly states the fault code is 'LF' (Output Phase Loss), NOT 'F050' as in the topic assignment; draft discusses the wrong code entirely.",
+    "date": "2026-06-30"
+  },
+  "yaskawa-a1000-vfd-al-01-fault-code": {
+    "topic": "Yaskawa A1000 VFD AL-01 fault code",
+    "score": 3,
+    "reason": "AL-01 is NOT a documented Yaskawa A1000 fault code per the research; the draft correctly identifies this but then attempts to create repair content for a non-existent code, which violates the fundamental requirement that the code must be real and documented for this exact brand and model.",
+    "date": "2026-06-30"
+  },
+  "yaskawa-a1000-vfd-al-03-fault-code": {
+    "topic": "Yaskawa A1000 VFD AL-03 fault code",
+    "score": 3,
+    "reason": "The research explicitly states AL-03 does NOT exist in official Yaskawa documentation; the draft acknowledges this but still uses the non-existent code in the title, which will mislead users searching for a real fault code.",
+    "date": "2026-06-30"
+  },
+  "yaskawa-a1000-vfd-al-06-fault-code": {
+    "topic": "Yaskawa A1000 VFD AL-06 fault code",
+    "score": 2,
+    "reason": "AL-06 is explicitly NOT a real Yaskawa A1000 code per the research; the draft correctly identifies this but then builds an entire repair guide around a different code (oPE06), which is misleading and fails the fundamental requirement that the content must be for the actual code searched.",
+    "date": "2026-06-30"
+  },
+  "yaskawa-a1000-vfd-al-07-fault-code": {
+    "topic": "Yaskawa A1000 VFD AL-07 fault code",
+    "score": 3,
+    "reason": "The research explicitly states AL-07 is NOT a real Yaskawa A1000 code and does not exist in official documentation; publishing content about a non-existent code violates technical accuracy requirements regardless of how well the actual PGD fault is explained.",
+    "date": "2026-06-30"
   }
 }

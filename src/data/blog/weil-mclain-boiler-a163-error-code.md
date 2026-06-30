@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed heating contractor immediately if you cannot find A163 in your boiler's documentation, if you smell gas, if the boiler repeatedly locks out after reset, or if you are not comfortable working with gas appliances. Professional help is required for gas valve replacement, control board diagnostics, venting inspection, and any fault that involves testing or adjusting gas pressure. Weil-McLain recommends contacting a qualified heating contractor to identify the exact model, interpret control-specific fault codes, and obtain warranty parts. Do not attempt to bypass safety lockouts or modify control wiring.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Weil-McLain Boiler A62 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a62-error-code/)
+- [Weil-McLain A04 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a04-error-code/)
+- [Weil-McLain A60 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a60-error-code/)
+- [Weil-McLain A179 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a179-error-code/)

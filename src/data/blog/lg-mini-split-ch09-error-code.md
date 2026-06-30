@@ -52,3 +52,10 @@ Because the same code can mean two very different things depending on your syste
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with live AC voltage, if the fault persists after reseating connectors and verifying the fan spins freely, or if you need to replace a PCB and perform refrigerant-circuit commissioning or Auto Addressing. Multi V systems and memory-related faults require specialized diagnostic software and training. If your outdoor fan motor runs but CH09 still appears, or if you see the code on an indoor unit without clear guidance in your service manual, professional diagnosis will save time and prevent incorrect part replacement.
+
+## See Also
+
+- [LG Washer Error Codes — Complete Fix Guide](/posts/lg-washer-error-codes/)
+- [LG LMXS28626S Refrigerator Problems & Error Codes](/posts/lg-lmxs28626s-refrigerator-problems/)
+- [LG Dishwasher Stuck Mid Cycle - Causes & Fix](/posts/lg-dishwasher-stuck-mid-cycle/)
+- [LG Range E1 Error Code - Causes & Fix](/posts/lg-range-e1-error-code/)

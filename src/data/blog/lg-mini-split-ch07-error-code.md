@@ -52,3 +52,10 @@ This is a communication and configuration fault, not a mechanical failure. The s
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the CH07 code returns after you have verified all indoor units are set to the same mode and completed a full power reset. Persistent CH07 faults after proper mode alignment usually indicate a wiring problem, a communication failure between units, or a control board configuration issue that requires diagnostic tools and system-specific knowledge. A technician can test communication voltage, inspect interconnecting wiring for faults, and verify that DIP switches and system settings match your installation. If you have a newly installed multi-split system showing CH07 from the start, the issue is likely a configuration error during installation and should be covered under warranty.
+
+## See Also
+
+- [LG Mini Split Error Codes — All CH Codes Explained](/posts/lg-mini-split-error-codes/)
+- [LG DLEX4000W Dryer Problems & Error Codes](/posts/lg-dlex4000w-dryer-problems/)
+- [LG Refrigerator FF Error Code - Causes & Fix](/posts/lg-refrigerator-ff-error-code/)
+- [LG LMV2031ST Microwave Problems & Error Codes](/posts/lg-lmv2031st-microwave-problems/)

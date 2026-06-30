@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a VFD technician or industrial electrician if the drive continues to fault with the motor disconnected, which indicates an internal inverter or IGBT failure. Also call a pro if you lack the tools or training to safely work with three-phase power, perform insulation resistance testing on motor windings, or interpret drive parameters. VFD repair involves high DC bus voltages (over 500 VDC on the internal capacitors even after AC power is off) and requires proper discharge procedures and test equipment. If the motor or cable is at fault, a motor shop or electrician should verify winding integrity and replace damaged components to avoid destroying a repaired or new drive.
 
 **Rough cost:** A pro service call runs about $300-800.
+
+## See Also
+
+- [Danfoss FC302 AL-19 - Causes & Fix](/posts/danfoss-fc302-vfd-al-19-fault-code/)
+- [Danfoss VLT Alarm 14 - Earth Fault: What It Means and How to Fix It](/posts/danfoss-vlt-alarm-14/)
+- [Danfoss FC302 VFD Alarm 38 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-38-fault-code/)
+- [Danfoss FC302 AL-105 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-105-fault-code/)

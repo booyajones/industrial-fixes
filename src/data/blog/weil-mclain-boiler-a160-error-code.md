@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician if you are not comfortable working with boiler control wiring or if the sensor is already installed and the code will not clear after reset. Installing the outdoor sensor requires identifying the correct control terminals, running low-voltage wiring to an exterior wall location, and configuring the AquaBalance control for proper outdoor reset modulation. If the code persists after sensor installation, the technician will need to verify sensor resistance, check for short circuits in the wiring, and rule out a control board fault. Gas-fired boiler work also requires proper venting, combustion analysis, and knowledge of local codes, so professional installation and commissioning are recommended for any new sensor or control replacement.
 
 **Rough cost:** A pro service call runs about $150-$300.
+
+## See Also
+
+- [Weil-McLain Boiler A158 Error - Causes & Fix](/posts/weil-mclain-boiler-a158-error-code/)
+- [Weil-McLain A144 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a144-error-code/)
+- [Weil-McLain A159 Error - Causes & Fix](/posts/weil-mclain-boiler-a159-error-code/)
+- [Weil-McLain A74 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a74-error-code/)
