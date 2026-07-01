@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified boiler technician if you do not have your boiler model manual, cannot identify whether your system uses outdoor reset, or are uncomfortable working inside the boiler control panel. Gas-fired boilers require licensed service for any work involving gas connections, combustion settings, or control board replacement. A technician will verify the exact code meaning for your model, test or install the outdoor sensor correctly, adjust control parameters if needed, and confirm safe operation after clearing the fault. If the code persists after sensor installation or parameter changes, the control board itself may need diagnostic testing or replacement, which requires specialized tools and factory training.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [Weil-McLain A174 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a174-error-code/)
+- [Weil-McLain A57 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a57-error-code/)
+- [Weil-McLain A66 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a66-error-code/)
+- [Weil-McLain Boiler A21 Error - Causes & Fix](/posts/weil-mclain-boiler-a21-error-code/)

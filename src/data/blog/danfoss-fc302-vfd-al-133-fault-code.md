@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if the fault persists with the motor disconnected, indicating internal drive failure. High-voltage DC link capacitors (often 400–600 VDC or more) and IGBT modules pose serious shock and arc-flash hazards. Also call a pro if you are not trained to isolate and test motor windings, measure three-phase power, or interpret VFD parameters. Any work inside the drive enclosure requires lockout-tagout and knowledge of capacitor discharge procedures. If the motor is part of a critical process (pump, HVAC, conveyor), a technician can minimize downtime and verify the load is not damaging the new components.
 
 **Rough cost:** A pro service call runs about $300-1200.
+
+## See Also
+
+- [Danfoss FC302 AL-59 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-59-fault-code/)
+- [Danfoss FC302 AL-118 - Causes & Fix](/posts/danfoss-fc302-vfd-al-118-fault-code/)
+- [Danfoss FC302 AL-69 - Causes & Fix](/posts/danfoss-fc302-vfd-al-69-fault-code/)
+- [Danfoss FC302 VFD AL-87 - Causes & Fix](/posts/danfoss-fc302-vfd-al-87-fault-code/)

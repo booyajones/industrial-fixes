@@ -54,3 +54,10 @@ The fault is not a simple sensor problem. It points to real electrical or mechan
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you lack a multimeter, megohmmeter, or refrigerant gauges, or if you are uncomfortable working with line voltage and high DC bus voltages. Compressor and inverter diagnosis require precise measurements and safe lockout procedures. If your tests show compressor winding imbalance, low insulation resistance, or inverter board damage, replacement involves refrigerant recovery, brazing, vacuum, and recharge. Professional repair typically costs 400 to 1,200 dollars for inverter board replacement and 1,500 to 3,000 dollars for compressor replacement, depending on tonnage and refrigerant type.
+
+## See Also
+
+- [LG Washer Tub Bearing Replacement - Signs & How-To](/posts/lg-washer-tub-drum-bearing-replacement/)
+- [LG Washer Shaking and Loud - Causes & Fix](/posts/lg-washer-shaking-and-loud/)
+- [LG Dishwasher Error IE — Water Inlet Fix](/posts/lg-dishwasher-error-ie/)
+- [LG Dishwasher Won't Latch - Causes & Fix](/posts/lg-dishwasher-wont-latch/)

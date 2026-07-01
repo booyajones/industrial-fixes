@@ -5435,6 +5435,118 @@
     "yaskawa-a1000-vfd-al-18-fault-code": {
       "topic": "Yaskawa A1000 VFD AL-18 fault code",
       "date": "2026-06-30"
+    },
+    "yaskawa-ga800-vfd-f047-fault-code": {
+      "topic": "Yaskawa GA800 VFD F047 fault code",
+      "date": "2026-07-01"
+    },
+    "yaskawa-a1000-vfd-al-10-fault-code": {
+      "topic": "Yaskawa A1000 VFD AL-10 fault code",
+      "date": "2026-07-01"
+    },
+    "yaskawa-a1000-vfd-al-19-fault-code": {
+      "topic": "Yaskawa A1000 VFD AL-19 fault code",
+      "date": "2026-07-01"
+    },
+    "yaskawa-a1000-vfd-al-20-fault-code": {
+      "topic": "Yaskawa A1000 VFD AL-20 fault code",
+      "date": "2026-07-01"
+    },
+    "yaskawa-a1000-vfd-al-22-fault-code": {
+      "topic": "Yaskawa A1000 VFD AL-22 fault code",
+      "date": "2026-07-01"
+    },
+    "yaskawa-a1000-vfd-al-23-fault-code": {
+      "topic": "Yaskawa A1000 VFD AL-23 fault code",
+      "date": "2026-07-01"
+    },
+    "yaskawa-a1000-vfd-al-24-fault-code": {
+      "topic": "Yaskawa A1000 VFD AL-24 fault code",
+      "date": "2026-07-01"
+    },
+    "yaskawa-a1000-vfd-al-25-fault-code": {
+      "topic": "Yaskawa A1000 VFD AL-25 fault code",
+      "date": "2026-07-01"
+    },
+    "yaskawa-a1000-vfd-al-26-fault-code": {
+      "topic": "Yaskawa A1000 VFD AL-26 fault code",
+      "date": "2026-07-01"
+    },
+    "yaskawa-a1000-vfd-al-27-fault-code": {
+      "topic": "Yaskawa A1000 VFD AL-27 fault code",
+      "date": "2026-07-01"
+    },
+    "yaskawa-a1000-vfd-al-28-fault-code": {
+      "topic": "Yaskawa A1000 VFD AL-28 fault code",
+      "date": "2026-07-01"
+    },
+    "yaskawa-a1000-vfd-al-29-fault-code": {
+      "topic": "Yaskawa A1000 VFD AL-29 fault code",
+      "date": "2026-07-01"
+    },
+    "yaskawa-a1000-vfd-al-30-fault-code": {
+      "topic": "Yaskawa A1000 VFD AL-30 fault code",
+      "date": "2026-07-01"
+    },
+    "yaskawa-a1000-vfd-al-32-fault-code": {
+      "topic": "Yaskawa A1000 VFD AL-32 fault code",
+      "date": "2026-07-01"
+    },
+    "yaskawa-a1000-vfd-al-33-fault-code": {
+      "topic": "Yaskawa A1000 VFD AL-33 fault code",
+      "date": "2026-07-01"
+    },
+    "yaskawa-a1000-vfd-al-34-fault-code": {
+      "topic": "Yaskawa A1000 VFD AL-34 fault code",
+      "date": "2026-07-01"
+    },
+    "yaskawa-a1000-vfd-al-35-fault-code": {
+      "topic": "Yaskawa A1000 VFD AL-35 fault code",
+      "date": "2026-07-01"
+    },
+    "yaskawa-a1000-vfd-al-36-fault-code": {
+      "topic": "Yaskawa A1000 VFD AL-36 fault code",
+      "date": "2026-07-01"
+    },
+    "allen-bradley-powerflex-525-vfd-f009-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F009 fault code",
+      "date": "2026-07-01"
+    },
+    "trane-furnace-e04-error-code": {
+      "topic": "Trane furnace E04 error code",
+      "date": "2026-07-01"
+    },
+    "trane-furnace-e09-error-code": {
+      "topic": "Trane furnace E09 error code",
+      "date": "2026-07-01"
+    },
+    "trane-furnace-e10-error-code": {
+      "topic": "Trane furnace E10 error code",
+      "date": "2026-07-01"
+    },
+    "trane-furnace-e11-error-code": {
+      "topic": "Trane furnace E11 error code",
+      "date": "2026-07-01"
+    },
+    "trane-furnace-e12-error-code": {
+      "topic": "Trane furnace E12 error code",
+      "date": "2026-07-01"
+    },
+    "trane-furnace-e13-error-code": {
+      "topic": "Trane furnace E13 error code",
+      "date": "2026-07-01"
+    },
+    "trane-furnace-e14-error-code": {
+      "topic": "Trane furnace E14 error code",
+      "date": "2026-07-01"
+    },
+    "trane-furnace-e15-error-code": {
+      "topic": "Trane furnace E15 error code",
+      "date": "2026-07-01"
+    },
+    "trane-furnace-e16-error-code": {
+      "topic": "Trane furnace E16 error code",
+      "date": "2026-07-01"
     }
   }
 }

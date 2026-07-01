@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a qualified technician or controls integrator if you are not comfortable working with high-voltage VFD circuits, if you do not have the tools to test encoder signals (oscilloscope or pulse meter), or if you have verified the cable and connectors are good but the fault persists. Encoder alignment and parameter tuning for closed-loop vector control require specialized knowledge. If the drive continues to show PGD after cable and card replacement, the issue may be a failed control board or incorrect drive configuration that requires factory support or advanced diagnostics.
 
 **Rough cost:** A pro service call runs about $200-500 depending on cable replacement or encoder swap.
+
+## See Also
+
+- [Yaskawa GA800 E37 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e37-fault-code/)
+- [Yaskawa GA800 F006 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f006-fault-code/)
+- [Yaskawa GA800 A.128 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-128-fault-code/)
+- [Yaskawa GA800 F023 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f023-fault-code/)

@@ -81,3 +81,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician if you are uncomfortable working with gas appliances, if cleaning the flame sensor and verifying gas supply do not clear the A166 code, or if you lack the tools to measure gas pressure and flame current. Any repair that involves testing or replacing the gas valve, pressure regulator, or control board should be performed by a trained professional. Gas leaks, improper combustion, and incorrect venting can create carbon monoxide hazards. If you smell gas or suspect a leak, leave the building immediately, do not operate electrical switches, and call your gas utility or fire department from a safe location outside.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Weil-McLain A134 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a134-error-code/)
+- [Weil-McLain E03 Error Code — Causes & Fix](/posts/weil-mclain-e03-error-code/)
+- [Weil-McLain A32 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a32-error-code/)
+- [Weil-McLain Boiler A26 Error - Causes & Fix](/posts/weil-mclain-boiler-a26-error-code/)

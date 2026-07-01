@@ -49,3 +49,10 @@ The CH35 error on your LG mini split or Multi V system indicates that the low-pr
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not EPA-certified to handle refrigerant or if you do not own a manifold gauge set and leak detector. Diagnosing CH35 requires measuring live system pressures, testing sensor circuits with a multimeter, and potentially recovering and recharging refrigerant. If you find a leak, the repair often involves brazing or replacing piping, which requires specialized tools and skills. A pro can also access LG service data tables specific to your model and refrigerant type, compare readings accurately, and make sure the system is charged to the correct subcool or superheat target after repair.
+
+## See Also
+
+- [LG Washer Won't Turn On - Causes & Fix](/posts/lg-washer-wont-turn-on/)
+- [LG Dishwasher AE Error Code - Causes & Fix](/posts/lg-washer-ae-error-code/)
+- [LG Range FE Error Code - Causes & Fix](/posts/lg-range-fe-error-code/)
+- [LG Mini-Split CH22 Error Code — Indoor Fan Motor Fix](/posts/lg-mini-split-ch22-error-code/)

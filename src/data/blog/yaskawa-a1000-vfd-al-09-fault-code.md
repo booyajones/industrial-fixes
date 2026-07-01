@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified drive technician or electrical engineer when you cannot confirm the drive brand, the fault code does not match any entry in your manual, or you need to test high-voltage components like IGBT modules, rectifiers, or DC link capacitors. If the drive is part of a critical production line or life-safety system, do not attempt repair without proper training and lockout/tagout procedures. A technician can also verify encoder option card configuration, measure DC bus voltage under load, and diagnose intermittent faults that do not appear during static tests.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Yaskawa A1000 CPF04 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf04-fault-code/)
+- [Yaskawa GA800 F004 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f004-fault-code/)
+- [Yaskawa GA800 E03 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e03-fault-code/)
+- [Yaskawa GA800 oC Fault — Overcurrent Fix](/posts/yaskawa-ga800-error-oc/)

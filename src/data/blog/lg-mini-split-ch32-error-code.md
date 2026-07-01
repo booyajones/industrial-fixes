@@ -49,3 +49,10 @@ The CH32 code on an LG mini split or Multi V inverter outdoor unit means the dis
 ## When to Call a Pro
 
 CH32 faults require refrigerant system diagnostics, electronic sensor testing, and potentially brazing or vacuum work that are beyond typical homeowner tools and EPA certification. If you do not have LG diagnostic software, a manifold gauge set, a leak detector, and recovery equipment, call a licensed HVAC technician. Any repair involving refrigerant recovery, evacuation, or recharge must be performed by an EPA 608-certified technician. If the code persists after sensor and refrigerant checks, the outdoor PCB or compressor assembly may need replacement, which also requires professional evaluation and part sourcing from LG.
+
+## See Also
+
+- [LG Dishwasher HE Error Code - Causes & Fix](/posts/lg-dishwasher-he-error-code/)
+- [LG Dryer E13 Error Code - Causes & Fix](/posts/lg-dryer-e13-error-code/)
+- [LG Refrigerator Water Dispenser Not Working - Causes & Fix](/posts/lg-refrigerator-water-dispenser-not-working/)
+- [LG Range F8 Error Code - Causes & Fix](/posts/lg-range-f8-error-code/)

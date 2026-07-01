@@ -52,3 +52,10 @@ In real-world service calls, the most frequent causes are a failed inverter boar
 ## When to Call a Pro
 
 CH29 requires advanced electrical diagnostics including DC voltage measurement, insulation testing with a megohmmeter, and interpretation of inverter PCB signals. The repair involves working with high-voltage DC circuits (over 300 volts), refrigerant recovery, and potential compressor or inverter board replacement. Unless you are EPA-certified and experienced with inverter mini split systems, call a licensed HVAC technician. Misdiagnosis can lead to replacing expensive parts unnecessarily, and working on these boards without proper safety precautions can cause serious injury or further damage to the system.
+
+## See Also
+
+- [LG Mini Split CH47 Error - Causes & Fix](/posts/lg-mini-split-ch47-error-code/)
+- [LG Refrigerator Freezing Food - Causes & Fix](/posts/lg-refrigerator-freezing-food/)
+- [LG Dryer D90 Error Code - Causes & Fix](/posts/lg-dryer-d90-error-code/)
+- [LG Washer Won't Drain - Causes & Fix](/posts/lg-washer-wont-drain/)

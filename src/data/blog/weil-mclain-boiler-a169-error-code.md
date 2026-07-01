@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician for any work involving gas piping, gas valve replacement, or pressure testing. If you are not comfortable working with 120V wiring, combustion air components, or interpreting control-board diagnostics, a professional will identify the fault safely and confirm proper combustion and venting after repair. A technician should also perform an annual combustion analysis and inspect the heat exchanger, because misdiagnosed or deferred repairs on a boiler can lead to carbon monoxide hazards or expensive secondary damage.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A84 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a84-error-code/)
+- [Weil-McLain A159 Error - Causes & Fix](/posts/weil-mclain-boiler-a159-error-code/)
+- [Weil-McLain A18 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a18-error-code/)
+- [Weil-McLain Boiler A141 Error - Causes & Fix](/posts/weil-mclain-boiler-a141-error-code/)

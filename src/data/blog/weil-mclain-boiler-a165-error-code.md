@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a professional immediately if you cannot find A165 in your boiler's manual, if the code reappears after checking pressure and condensate, or if you are uncomfortable working with gas, electrical connections, or diagnostic menus. Technicians have model-specific fault-code charts, multimeters to test sensors and ignition components, and combustion analyzers to verify safe operation. Because Weil-McLain error meanings vary by control platform, guessing the cause and replacing parts without proper diagnostics wastes money and can leave the boiler unsafe. A qualified tech will decode the fault history, measure actual sensor values, and repair only what is broken.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A91 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a91-error-code/)
+- [Weil-McLain Boiler A128 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a128-error-code/)
+- [Weil-McLain A181 Error - Causes & Fix](/posts/weil-mclain-boiler-a181-error-code/)
+- [Weil-McLain A74 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a74-error-code/)

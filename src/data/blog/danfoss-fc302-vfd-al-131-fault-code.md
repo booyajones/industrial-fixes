@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or drive repair specialist if the AL-13 fault persists with the motor disconnected, which points to internal drive failure (IGBT modules, gate drivers, or control board). Also call a pro if you lack the tools or training to perform megohm testing, parameter configuration, or IGBT testing. High-voltage work on industrial drives requires lockout/tagout procedures and specialized test equipment. If the motor requires rewinding or the mechanical load needs diagnosis (bearing failure, coupling misalignment, or gearbox problems), involve a motor shop or mechanical technician.
 
 **Rough cost:** A pro service call runs about $300-800.
+
+## See Also
+
+- [Danfoss FC302 AL-164 - Causes & Fix](/posts/danfoss-fc302-vfd-al-164-fault-code/)
+- [Danfoss VFD Fault W30 — Brake Resistor Overtemperature Fix](/posts/danfoss-vfd-fault-w30/)
+- [Danfoss FC302 AL-86 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-86-fault-code/)
+- [Danfoss FC302 AL-143 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-143-fault-code/)

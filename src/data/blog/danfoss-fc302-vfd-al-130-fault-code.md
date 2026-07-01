@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician for this repair. The fault involves diagnosing and replacing components on the high-voltage DC bus and rectifier section, which can store lethal voltage even after the drive is de-energized. Testing rectifier diodes and IGBTs requires specialized knowledge of power electronics and proper discharge procedures for the DC link capacitors. If you lack experience with VFD internals, multimeter testing of power semiconductors, or lockout/tagout procedures, hire a professional to avoid electric shock, arc flash, or incorrect part replacement that can damage the drive further.
 
 **Rough cost:** A pro service call runs about $300-800.
+
+## See Also
+
+- [Danfoss FC302 VFD AL-85 - Causes & Fix](/posts/danfoss-fc302-vfd-al-85-fault-code/)
+- [Danfoss FC302 Alarm 24 - Causes & Fix](/posts/danfoss-fc302-alarm-24-fault-code/)
+- [Danfoss FC302 AL-63 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-63-fault-code/)
+- [Danfoss VFD Fault AL 14 — Causes & Fix](/posts/danfoss-vfd-fault-al-14/)

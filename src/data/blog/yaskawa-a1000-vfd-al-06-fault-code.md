@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified technician or controls integrator if you are uncertain whether your application truly requires encoder feedback, if you need help selecting and installing the correct PG option card, or if encoder wiring and terminations inside the motor connector box are damaged or melted. VFD parameter changes and encoder setup often involve high-voltage circuits and precise commissioning. A technician can verify parameter A1-02, inspect the PG card and encoder hardware, troubleshoot cable continuity, and make sure the drive operates safely in the correct control mode for your process.
 
 **Rough cost:** A pro service call runs about $150-400 for parameter adjustment or PG card installation and wiring.
+
+## See Also
+
+- [Yaskawa GA800 E30 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e30-fault-code/)
+- [Yaskawa GA800 CPF24 - Causes & Fix](/posts/yaskawa-ga800-vfd-f024-fault-code/)
+- [Yaskawa A1000 CPF03 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf03-fault-code/)
+- [Yaskawa A1000 AL-10 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-10-fault-code/)

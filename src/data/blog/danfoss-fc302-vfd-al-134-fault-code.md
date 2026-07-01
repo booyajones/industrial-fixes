@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if you cannot locate the alarm code in your manual, if the drive continues to show non-standard codes after a power cycle and keypad replacement, or if you need to measure IGBT modules, DC bus voltage, or gate driver signals inside the drive. Any work inside the VFD enclosure requires high-voltage lockout and specialized test equipment. Also call a pro if the motor fails the megohm test, as rewinding or replacing a three-phase motor is not a DIY task.
 
 **Rough cost:** A pro service call runs about $200-600 depending on whether the fault is in the motor, cable, or drive internals.
+
+## See Also
+
+- [Danfoss VFD Fault AL 14 — Causes & Fix](/posts/danfoss-vfd-fault-al-14/)
+- [Danfoss FC302 AL-122 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-122-fault-code/)
+- [Danfoss FC302 AL-78 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-78-fault-code/)
+- [Danfoss FC302 Alarm 50 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-50-fault-code/)

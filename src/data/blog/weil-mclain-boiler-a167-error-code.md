@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician for any Weil-McLain A167 ignition fault. Gas-fired appliances require precise diagnosis of ignition timing, flame proving, gas-valve operation, and safe venting. A technician will use a combustion analyzer to verify proper air-fuel mixture, test ignition components with manufacturer-specified voltage and continuity checks, inspect the heat exchanger and burner for cracks or carbon buildup, and confirm that all safety interlocks are functioning before clearing the fault. Attempting DIY repair on a gas boiler without proper training risks gas leaks, carbon-monoxide exposure, and damage to the boiler's control system. Professional service typically costs between $150 and $300 and includes a full safety inspection to protect your home and warranty coverage.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [Weil-McLain Boiler Error Code E02 — Ignition Failure Fix](/posts/weil-mclain-e02-ignition-failure/)
+- [Weil-McLain Boiler A158 Error - Causes & Fix](/posts/weil-mclain-boiler-a158-error-code/)
+- [Weil-McLain Boiler A122 Error - Causes & Fix](/posts/weil-mclain-boiler-a122-error-code/)
+- [Weil-McLain Boiler A143 Error - Causes & Fix](/posts/weil-mclain-boiler-a143-error-code/)

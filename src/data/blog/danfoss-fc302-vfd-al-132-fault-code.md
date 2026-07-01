@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified motor drive technician or electrician for this fault. Diagnosing AL-132 requires high-voltage electrical knowledge, insulation resistance testing equipment, and familiarity with VFD parameter programming. If the fault persists after motor disconnection, internal drive repair demands safe DC bus discharge procedures and component-level troubleshooting of IGBT modules and current sensors. Motor winding failures also require professional evaluation to determine whether drying, rewinding, or replacement is the most cost-effective solution. Input power issues may involve upstream electrical panels and require licensed electrical work.
 
 **Rough cost:** A pro service call runs about $200-600 depending on whether the fix is motor wiring, drive settings, or hardware replacement.
+
+## See Also
+
+- [Danfoss FC302 ALARM 36 - Causes & Fix](/posts/danfoss-fc302-alarm-36-fault-code/)
+- [Danfoss FC302 VFD AL-106 - Causes & Fix](/posts/danfoss-fc302-vfd-al-106-fault-code/)
+- [Danfoss FC302 ALARM 22 - Causes & Fix](/posts/danfoss-fc302-alarm-22-fault-code/)
+- [Danfoss FC302 Alarm 16 (DC Bus Low) - Causes & Fix](/posts/danfoss-fc302-vfd-al-163-fault-code/)

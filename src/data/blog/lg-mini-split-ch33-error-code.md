@@ -51,3 +51,10 @@ CH33 on an LG mini split indicates that the discharge temperature of compressor 
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not certified to handle refrigerant, because diagnosing CH33 requires pressure testing, leak detection, and potentially recovering and recharging refrigerant. If you have already verified that the discharge temperature sensor readings and supply voltage are normal but the error persists, a technician with LG service documentation and specialized tools will be needed to troubleshoot the outdoor PCB and EEV operation. Refrigerant work and electrical diagnostics on inverter-driven compressor systems carry safety risks and typically require EPA certification and manufacturer training.
+
+## See Also
+
+- [LG Refrigerator Ice Maker Not Working - Causes & Fix](/posts/lg-refrigerator-ice-maker-not-working/)
+- [LG Dryer Gets Too Hot - Causes & Fix](/posts/lg-dryer-gets-too-hot/)
+- [LG Microwave F1 Error Code - Causes & Fix](/posts/lg-microwave-f1-error-code/)
+- [LG Dryer PS Error Code - Causes & Fix](/posts/lg-dryer-ps-error-code/)

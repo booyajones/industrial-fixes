@@ -1330,5 +1330,77 @@
     "score": 3,
     "reason": "The research explicitly states AL-07 is NOT a real Yaskawa A1000 code and does not exist in official documentation; publishing content about a non-existent code violates technical accuracy requirements regardless of how well the actual PGD fault is explained.",
     "date": "2026-06-30"
+  },
+  "yaskawa-ga800-vfd-f047-fault-code": {
+    "topic": "Yaskawa GA800 VFD F047 fault code",
+    "score": 4,
+    "reason": "The research correctly identifies that 'F047' does not exist for GA800 and proposes 'LF' as the actual code, but this correction itself is not confirmed by any manufacturer documentation in the research\u2014the research only references generic [1] and [2] citations without verifiable GA800-specific sources, making the code's existence for this exact model unconfirmed.",
+    "date": "2026-07-01"
+  },
+  "yaskawa-a1000-vfd-al-19-fault-code": {
+    "topic": "Yaskawa A1000 VFD AL-19 fault code",
+    "score": 3,
+    "reason": "AL-19 is NOT a real Yaskawa A1000 fault code per the research itself, which explicitly states 'There is no official Yaskawa A1000 fault code listed as AL-19'; publishing repair advice for a non-existent code violates editorial standards for accuracy.",
+    "date": "2026-07-01"
+  },
+  "yaskawa-a1000-vfd-al-20-fault-code": {
+    "topic": "Yaskawa A1000 VFD AL-20 fault code",
+    "score": 3,
+    "reason": "The code AL-20 is NOT documented as a real Yaskawa A1000 fault code per the research; the draft itself admits this repeatedly, making it speculative content that fails criterion #1.",
+    "date": "2026-07-01"
+  },
+  "yaskawa-a1000-vfd-al-23-fault-code": {
+    "topic": "Yaskawa A1000 VFD AL-23 fault code",
+    "score": 4,
+    "reason": "The research explicitly states AL-23 does NOT exist in Yaskawa A1000 documentation; publishing content for a non-existent code violates fundamental accuracy requirements, despite good coverage of the likely CPF23 alternative.",
+    "date": "2026-07-01"
+  },
+  "yaskawa-a1000-vfd-al-24-fault-code": {
+    "topic": "Yaskawa A1000 VFD AL-24 fault code",
+    "score": 3,
+    "reason": "The research explicitly states there is NO fault code named 'AL-24' in Yaskawa A1000 documentation; the draft changes it to CPF24 without confirming CPF24 is real or that the research sources actually document it\u2014this appears to be unsupported extrapolation from incomplete research.",
+    "date": "2026-07-01"
+  },
+  "yaskawa-a1000-vfd-al-25-fault-code": {
+    "topic": "Yaskawa A1000 VFD AL-25 fault code",
+    "score": 0,
+    "reason": "review error: HTTP Error 429: Too Many Requests",
+    "date": "2026-07-01"
+  },
+  "yaskawa-a1000-vfd-al-26-fault-code": {
+    "topic": "Yaskawa A1000 VFD AL-26 fault code",
+    "score": 3,
+    "reason": "The research explicitly states 'There is **no Yaskawa A1000 fault code AL-26**' in official documentation, making this a non-existent code that fails criterion 1; the draft acknowledges this but still publishes repair guidance for a phantom code.",
+    "date": "2026-07-01"
+  },
+  "yaskawa-a1000-vfd-al-27-fault-code": {
+    "topic": "Yaskawa A1000 VFD AL-27 fault code",
+    "score": 3,
+    "reason": "The research explicitly states 'There is **no fault code AL-27** in the official Yaskawa A1000 documentation'\u2014this is not a real/documented code for this equipment, failing the primary criterion regardless of content quality.",
+    "date": "2026-07-01"
+  },
+  "yaskawa-a1000-vfd-al-28-fault-code": {
+    "topic": "Yaskawa A1000 VFD AL-28 fault code",
+    "score": 3,
+    "reason": "AL-28 is not a documented Yaskawa A1000 fault code; the draft correctly identifies this but should not be published as it cannot provide accurate troubleshooting for a non-existent code.",
+    "date": "2026-07-01"
+  },
+  "yaskawa-a1000-vfd-al-30-fault-code": {
+    "topic": "Yaskawa A1000 VFD AL-30 fault code",
+    "score": 2,
+    "reason": "Research explicitly confirms AL-30 is NOT a real Yaskawa A1000 fault code; the draft correctly identifies this but should not be published as a fault code repair guide for a non-existent code.",
+    "date": "2026-07-01"
+  },
+  "yaskawa-a1000-vfd-al-33-fault-code": {
+    "topic": "Yaskawa A1000 VFD AL-33 fault code",
+    "score": 4,
+    "reason": "Research confirms AL-33 exists for Yaskawa A1000, but research specifically says 'servomotor main circuit cable' yet draft applies this to standard motors with junction boxes ('peckerhead'), contradicting the servo-specific context; terminology mismatch suggests conflation with general motor drives rather than servo applications.",
+    "date": "2026-07-01"
+  },
+  "trane-furnace-e13-error-code": {
+    "topic": "Trane furnace E13 error code",
+    "score": 3,
+    "reason": "Research explicitly states 'There is **no official E13 error code** for Trane gas furnaces in standard manufacturer documentation' - this fails the fundamental requirement that the code must be real and documented for this exact brand and appliance.",
+    "date": "2026-07-01"
   }
 }
