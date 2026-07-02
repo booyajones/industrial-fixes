@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified HVAC technician immediately if you cannot verify the exact error code or if the furnace is not heating. Gas furnace diagnostics require specialized tools and knowledge of combustion, gas pressure, and venting. If the unit displays an unfamiliar code and you have confirmed the model is Trane, a technician can use diagnostic software and the wiring diagram to identify the actual fault (which may be an inducer motor, pressure switch, flame sensor, or control board issue). Do not attempt gas line work, control board replacement, or inducer motor repair without proper training and tools.
 
 **Rough cost:** A pro service call runs about $150-300 for diagnostic visit and repair of actual underlying fault.
+
+## See Also
+
+- [Trane Furnace Error Codes — Complete Flash Code Guide](/posts/trane-furnace-error-codes/)
+- [Trane Furnace Not Heating - Causes & Fix](/posts/trane-furnace-not-heating/)
+- [Trane E13 Error Code - Causes & Fix](/posts/trane-furnace-e13-error-code/)
+- [Trane ComfortR ER Error Code — Causes & Fix](/posts/trane-comfort-r-error-codes-er/)

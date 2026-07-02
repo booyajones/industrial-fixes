@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you cannot locate your model's manual or the code definition, if you are uncomfortable working with natural gas or propane, or if you lack a combustion analyzer and manometer to verify gas pressure and flue-gas composition. Professional diagnosis is also required when the fault persists after you have checked gas supply and cleaned sensors, because the problem may involve the gas valve, control-board logic, blocked venting, or heat-exchanger conditions that require pressure testing and flue analysis. Any work on gas piping, valve replacement, or venting modifications must be performed by a qualified technician and inspected to local codes.
 
 **Rough cost:** A pro service call runs about $150–400.
+
+## See Also
+
+- [Weil-McLain Boiler A139 Error - Causes & Fix](/posts/weil-mclain-boiler-a139-error-code/)
+- [Weil-McLain A01 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a101-error-code/)
+- [Weil-McLain A71 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a71-error-code/)
+- [Weil-McLain A02 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a02-error-code/)

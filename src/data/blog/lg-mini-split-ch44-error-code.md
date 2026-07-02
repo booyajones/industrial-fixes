@@ -47,3 +47,10 @@ The CH44 error code on LG mini splits indicates a fault with the outdoor air tem
 ## When to Call a Pro
 
 If you are not comfortable working with live electrical circuits, measuring resistance with a multimeter, or accessing the outdoor unit control board, call a licensed HVAC technician. The outdoor unit operates on line voltage (typically 208-240 VAC) and refrigerant lines, both of which require proper safety precautions. A technician can quickly verify the sensor, harness, and board, and will have the correct OEM replacement parts and resistance tables for your specific LG model.
+
+## See Also
+
+- [LG DLE7400WE Dryer Problems & Error Codes](/posts/lg-dle7400we-dryer-problems/)
+- [LG Dishwasher PE Error Code - Causes & Fix](/posts/lg-dishwasher-pe-error-code/)
+- [LG Microwave Turntable Not Turning - Causes & Fix](/posts/lg-microwave-turntable-not-turning/)
+- [LG Microwave Runs but No Heat - Causes & Fix](/posts/lg-microwave-runs-but-no-heat/)

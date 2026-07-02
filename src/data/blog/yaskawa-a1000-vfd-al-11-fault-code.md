@@ -82,3 +82,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or automation specialist if you are not trained to work with industrial drives and encoders. AL-11 troubleshooting requires understanding of VFD parameter programming, encoder wiring, and feedback loop diagnostics. High DC bus voltages (up to 800V on larger A1000 models) present serious shock hazards. If encoder replacement, option card work, or parameter tuning does not resolve the fault, the control board or IGBT module may be damaged, which requires factory-level diagnosis and parts that are not available through retail channels.
 
 **Rough cost:** A pro service call runs about $200-600 depending on whether the fix is parameter adjustment, encoder replacement, or option card replacement.
+
+## See Also
+
+- [Yaskawa GA800 A.122 Alarm - Causes & Fix](/posts/yaskawa-ga800-vfd-a-122-fault-code/)
+- [Yaskawa GA800 E92 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e92-fault-code/)
+- [Yaskawa GA800 A.112 Alarm - Causes & Fix](/posts/yaskawa-ga800-vfd-a-112-fault-code/)
+- [Yaskawa GA800 E13 Error - Causes & Fix](/posts/yaskawa-ga800-vfd-e13-fault-code/)

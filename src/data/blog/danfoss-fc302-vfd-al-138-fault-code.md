@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if you are not trained in high-voltage DC bus work or do not have the proper discharge tools and PPE. Capacitors in VFDs hold lethal voltage for minutes after power-off. Professional diagnosis is also recommended if you cannot interpret the sub-code or if multiple components appear damaged. Danfoss technical support can provide remote assistance and part number lookup if you provide your drive serial number and sub-code details.
 
 **Rough cost:** A pro service call runs about $300-800.
+
+## See Also
+
+- [Danfoss FC302 ALARM 24 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-24-fault-code/)
+- [Danfoss VFD Fault OCL — Causes & Fix](/posts/danfoss-vfd-fault-ocl/)
+- [Danfoss FC302 AL-147 - Causes & Fix](/posts/danfoss-fc302-vfd-al-147-fault-code/)
+- [Danfoss FC302 AL-160 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-160-fault-code/)

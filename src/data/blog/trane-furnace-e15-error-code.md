@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician whenever you cannot verify the exact brand and model of your furnace, when the code does not appear in the Trane diagnostic chart, or when you suspect a control board, gas valve, or inducer motor fault. Gas furnace work requires safe handling of natural gas or propane, proper venting inspection, and accurate electrical diagnostics. Technicians have manometers to measure gas pressure, multimeters to check transformer and inducer voltage (115 to 120V for inducers, 208 to 230V ±10 percent for transformers), and access to Trane technical support to confirm unlisted codes. If you have replaced a control board with an aftermarket unit or if wiring has been modified, professional diagnosis is the safest path to avoid misdiagnosis and wasted parts.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Trane Furnace Blowing Cold Air - Causes & Fix](/posts/trane-furnace-blowing-cold-air/)
+- [Trane XL20i Variable Speed Error Codes — Complete Guide](/posts/trane-xl20i-error-codes/)
+- [Trane / American Standard 4-Blink Error Code — Limit Circuit Trip Fix](/posts/trane-4-blink-error-code/)
+- [Trane XV80 Furnace Error Codes — Flash Code Diagnostic Guide](/posts/trane-xv80-error-codes/)

@@ -82,3 +82,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or VFD technician if you are uncomfortable working inside live or recently powered industrial equipment, if the fault persists after reseating the card and checking terminations, or if you lack a multimeter and experience to test cable continuity. Professionals have known-good spare cards for swap testing and can quickly isolate whether the problem is the card, the cable, or the drive control board. If the encoder is not required for your application, a technician can reconfigure the drive parameters to run open-loop as a temporary workaround while parts are ordered.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Yaskawa GA800 E62 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e62-fault-code/)
+- [Yaskawa GA800 E23 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e23-fault-code/)
+- [Yaskawa GA800 A.140 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-140-fault-code/)
+- [Yaskawa GA800 E02 Fault - Causes & Fix](/posts/yaskawa-ga800-e02-fault-code/)

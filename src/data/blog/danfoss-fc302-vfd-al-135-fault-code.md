@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified drive technician or motor shop if the drive trips Alarm 13 when run unloaded (motor disconnected), which points to internal IGBT or module failure. Also call for help if the motor megohm test reads below 2 megohms, indicating winding insulation failure that requires professional rewind or replacement. If you are unfamiliar with AC drive parameter programming or high-voltage three-phase wiring, bring in a technician to verify motor data settings (parameters 1-20 through 1-25) and inspect output connections safely. Drive and motor repairs involve lethal voltages and require lockout-tagout procedures and appropriate test equipment.
 
 **Rough cost:** A pro service call runs about $200-800 depending on whether the fault is motor-side or requires drive module replacement.
+
+## See Also
+
+- [Danfoss FC302 AL-165 - Causes & Fix](/posts/danfoss-fc302-vfd-al-165-fault-code/)
+- [Danfoss FC302 Alarm 34 - Causes & Fix](/posts/danfoss-fc302-alarm-34-fault-code/)
+- [Danfoss FC302 AL-95 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-95-fault-code/)
+- [Danfoss FC302 VFD AL-87 - Causes & Fix](/posts/danfoss-fc302-vfd-al-87-fault-code/)

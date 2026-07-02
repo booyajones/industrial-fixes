@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you cannot access the diagnostic menu, if the fault history shows a pressure-switch or limit-circuit fault you cannot identify, or if the boiler locks out repeatedly after you have verified system pressure, gas supply, and drain clearance. Work on gas-fired boilers requires proper combustion analysis, pressure-switch testing, and control-board diagnostics that are beyond typical homeowner tools. A qualified technician will pull the full fault log, measure gas pressure at the valve, test flame-sensor microamp signal, verify air-pressure-switch operation, and check all safety circuits before replacing any component. If your boiler is still under warranty, professional service is usually required to preserve coverage.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A85 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a85-error-code/)
+- [Weil-McLain Boiler A139 Error - Causes & Fix](/posts/weil-mclain-boiler-a139-error-code/)
+- [Weil-McLain Boiler A119 Error - Causes & Fix](/posts/weil-mclain-boiler-a119-error-code/)
+- [Weil-McLain Boiler A123 Error - Causes & Fix](/posts/weil-mclain-boiler-a123-error-code/)

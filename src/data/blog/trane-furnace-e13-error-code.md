@@ -81,3 +81,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician if the blower motor needs replacement, the control board shows signs of failure (scorch marks, bulging capacitors), or the error persists after replacing the filter and checking airflow. A pro should also handle any work involving gas connections, high-voltage wiring, or internal furnace components like the heat exchanger. If you are not comfortable using a multimeter to test the limit switch or motor voltage, a technician can perform these diagnostics safely and accurately. Repeated limit faults can indicate a cracked heat exchanger, which requires immediate professional inspection and may mean the furnace needs replacement.
 
 **Rough cost:** DIY runs about $15-80 in parts, 30-90 min. A pro service call runs about $150-400.
+
+## See Also
+
+- [Trane Furnace 2 Flashes - Causes & Fix](/posts/trane-furnace-2-flashes-error-code/)
+- [Trane Furnace Not Heating - Causes & Fix](/posts/trane-furnace-not-heating/)
+- [Trane Heat Pump E17 Error Code - Causes & Fix](/posts/trane-heat-pump-e17-error-code/)
+- [Trane XR95 Furnace Error Codes — Complete Guide](/posts/trane-xr95-error-codes/)

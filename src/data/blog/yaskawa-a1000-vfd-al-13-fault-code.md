@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified technician or industrial electrician if you are not trained to work on variable-frequency drives or high-voltage equipment. This fault involves live three-phase power, motor winding tests, and drive parameter programming. A technician will have the tools to measure winding inductance, verify cable integrity with a megohmmeter, and safely commission the drive after repairs. Always follow lockout/tagout procedures and consult the A1000 manual before servicing the drive.
 
 **Rough cost:** A pro service call runs about $150-400 for service call and parameter correction or wiring repair; motor or drive replacement costs extra if hardware is damaged.
+
+## See Also
+
+- [Yaskawa GA800 E42 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e42-fault-code/)
+- [Yaskawa GA800 A.128 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-128-fault-code/)
+- [Yaskawa A1000 VFD AL-20 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-20-fault-code/)
+- [Yaskawa GA800 F035 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f035-fault-code/)

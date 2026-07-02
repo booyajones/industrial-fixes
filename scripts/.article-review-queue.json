@@ -1402,5 +1402,17 @@
     "score": 3,
     "reason": "Research explicitly states 'There is **no official E13 error code** for Trane gas furnaces in standard manufacturer documentation' - this fails the fundamental requirement that the code must be real and documented for this exact brand and appliance.",
     "date": "2026-07-01"
+  },
+  "navien-tankless-e032-error-code": {
+    "topic": "Navien tankless E032 error code",
+    "score": 0,
+    "reason": "review error: HTTP Error 429: Too Many Requests",
+    "date": "2026-07-02"
+  },
+  "weil-mclain-boiler-a00-error-code": {
+    "topic": "Weil-McLain boiler A00 error code",
+    "score": 3,
+    "reason": "The research explicitly states A00 does not exist in Weil-McLain documentation; publishing a page for a non-existent error code fails criterion #1 regardless of how well the A01 fallback is documented.",
+    "date": "2026-07-02"
   }
 }

@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if the fault persists after disconnecting the motor, if you lack a megohmmeter to test insulation resistance, or if internal drive components (gate driver board, IGBTs, current sensors) are suspected. High DC bus voltages (typically around 580V DC for 400V AC line input) and complex power electronics make internal VFD repair dangerous without proper training and test equipment. A drive repair center can bench-test and replace gate driver boards or IGBT modules if the fault is internal. Always consult the correct manual for your confirmed drive brand and model before any repair work.
 
 **Rough cost:** A pro service call runs about $200-800.
+
+## See Also
+
+- [Yaskawa GA800 A.130 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-130-fault-code/)
+- [Yaskawa GA800 VFD A.131 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-131-fault-code/)
+- [Yaskawa A1000 AL-06 - Causes & Fix](/posts/yaskawa-a1000-vfd-al-06-fault-code/)
+- [Yaskawa GA800 E56 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e56-fault-code/)

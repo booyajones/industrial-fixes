@@ -82,3 +82,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if the alarm persists after you have verified parameter 1-24 and checked motor connections. Internal drive faults require high-voltage diagnostic tools, IGBT module testing, and current sensor calibration that are not safe for untrained personnel. Also call a pro if motor insulation testing shows readings below 2 megohms, as motor rewind or replacement requires specialized equipment. If the motor is mechanically jammed or you suspect bearing failure, a motor shop or mechanical technician should inspect the shaft and bearings before you restart the drive. Do not attempt to replace IGBT modules or control boards without proper training in handling high-voltage DC bus capacitors and electrostatic-sensitive components.
 
 **Rough cost:** A pro service call runs about $150-400 for parameter adjustment and diagnostics, $800-2,500 if IGBT module replacement is needed.
+
+## See Also
+
+- [Danfoss FC302 AL-76 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-76-fault-code/)
+- [Danfoss FC302 VFD AL-106 - Causes & Fix](/posts/danfoss-fc302-vfd-al-106-fault-code/)
+- [Danfoss FC302 W66 - Causes & Fix](/posts/danfoss-fc302-vfd-al-66-fault-code/)
+- [Danfoss FC302 Alarm 43 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-43-fault-code/)

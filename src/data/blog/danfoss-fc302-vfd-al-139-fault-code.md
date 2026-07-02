@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a qualified electrical technician or Danfoss-authorized service provider if the alarm persists after verifying parameters and checking external connections, if the drive trips even with the motor disconnected (indicating an internal fault), or if you lack the tools or training to perform high-voltage testing and component replacement. Drive repair involves working with DC bus voltages above 300 VDC and requires proper discharge procedures, insulation testing equipment, and replacement parts matched to the specific frame size and firmware version. Incorrect repairs can destroy the drive or create serious shock hazards.
 
 **Rough cost:** A pro service call runs about $200-800 depending on whether the fix is parameter adjustment, motor replacement, or drive power board replacement.
+
+## See Also
+
+- [Danfoss FC302 AL-124 - Causes & Fix](/posts/danfoss-fc302-vfd-al-124-fault-code/)
+- [Danfoss FC302 ALARM 18 - Causes & Fix](/posts/danfoss-fc302-alarm-18-fault-code/)
+- [Danfoss FC302 Alarm 42 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-42-fault-code/)
+- [Danfoss FC302 AL-65 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-65-fault-code/)

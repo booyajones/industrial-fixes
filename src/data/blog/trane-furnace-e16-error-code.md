@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician if you see E16, E11, or any code you cannot confirm in your manual. This fault involves testing line voltage, grounding continuity, and fan motor performance, all of which require a multimeter, megger, and working knowledge of electrical systems. If the code is E1 (ignition failure), a pro should also handle gas supply checks, gas valve tests, and igniter or flame sensor replacement. Attempting high-voltage diagnostics or gas work without training is dangerous and can damage the furnace or void your warranty.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Trane 6 Flashes Error Code — Causes & Fix](/posts/trane-6-flashes-error-code/)
+- [Trane XL16i Error Codes — Heat Pump Fault Code Diagnostic Guide](/posts/trane-xl16i-error-codes/)
+- [Trane E7 Error Code - Causes & Fix](/posts/trane-heat-pump-e7-error-code/)
+- [Trane Rooftop Unit Fault 77 — High Pressure Cutout](/posts/trane-rooftop-fault-77/)

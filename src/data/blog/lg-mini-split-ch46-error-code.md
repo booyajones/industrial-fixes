@@ -51,3 +51,10 @@ When the board detects a reading that falls outside normal parameters, it throws
 ## When to Call a Pro
 
 If you are not comfortable working inside the outdoor unit or measuring thermistor resistance, call a licensed HVAC technician. Refrigerant circuit work is not involved in a sensor replacement, but misdiagnosing the PCB and replacing it unnecessarily can cost several hundred dollars. A tech can also verify that the fault is truly CH46 and not a similar code, cross-check the sensor against the thermistor table for your exact model, and confirm that no other system faults are present before ordering parts.
+
+## See Also
+
+- [LG Washer Door Boot Seal Replacement - Signs & How-To](/posts/lg-washer-door-boot-seal-bellow-gasket-front-load-replacement/)
+- [LG Mini Split Leaking Water - Causes & Fix](/posts/lg-mini-split-leaking-water/)
+- [LG LSU120HSV5 Ductless Mini Split Problems & Error Codes](/posts/lg-lsu120hsv5-ductless-mini-split-air-conditioner-problems/)
+- [LG Dryer tE3 Error Code - Causes & Fix](/posts/lg-dryer-te3-error-code/)

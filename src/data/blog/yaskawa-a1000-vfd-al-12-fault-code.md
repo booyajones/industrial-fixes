@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or VFD technician if you are not comfortable working with high-voltage DC bus circuits (which can remain energized even after AC power is removed), if you do not own a multimeter or know how to measure phase resistance safely, or if wiring and motor checks pass but the fault persists. A pro can safely measure DC bus voltage and ripple, reseat internal connectors, and replace control boards or gate driver assemblies without damaging other components. If your facility has explosion-proof or hazardous-location equipment, only a certified technician should open the drive enclosure.
 
 **Rough cost:** A pro service call runs about $150-400 for wiring repair or control board replacement.
+
+## See Also
+
+- [Yaskawa V1000 Complete Fault Code Guide — All Faults and Fixes](/posts/yaskawa-v1000-complete-guide/)
+- [Yaskawa A1000 CPF08 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf08-fault-code/)
+- [Yaskawa GA800 E02 Fault - Causes & Fix](/posts/yaskawa-ga800-e02-fault-code/)
+- [Yaskawa GA800 E04 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e04-fault-code/)

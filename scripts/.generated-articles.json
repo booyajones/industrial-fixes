@@ -5547,6 +5547,118 @@
     "trane-furnace-e16-error-code": {
       "topic": "Trane furnace E16 error code",
       "date": "2026-07-01"
+    },
+    "yaskawa-a1000-vfd-al-21-fault-code": {
+      "topic": "Yaskawa A1000 VFD AL-21 fault code",
+      "date": "2026-07-02"
+    },
+    "yaskawa-a1000-vfd-al-31-fault-code": {
+      "topic": "Yaskawa A1000 VFD AL-31 fault code",
+      "date": "2026-07-02"
+    },
+    "daikin-mini-split-u0-error-code": {
+      "topic": "Daikin mini split U0 error code",
+      "date": "2026-07-02"
+    },
+    "daikin-mini-split-u2-error-code": {
+      "topic": "Daikin mini split U2 error code",
+      "date": "2026-07-02"
+    },
+    "daikin-mini-split-u4-error-code": {
+      "topic": "Daikin mini split U4 error code",
+      "date": "2026-07-02"
+    },
+    "daikin-mini-split-c9-error-code": {
+      "topic": "Daikin mini split C9 error code",
+      "date": "2026-07-02"
+    },
+    "daikin-mini-split-e1-error-code": {
+      "topic": "Daikin mini split E1 error code",
+      "date": "2026-07-02"
+    },
+    "daikin-mini-split-e5-error-code": {
+      "topic": "Daikin mini split E5 error code",
+      "date": "2026-07-02"
+    },
+    "daikin-mini-split-e6-error-code": {
+      "topic": "Daikin mini split E6 error code",
+      "date": "2026-07-02"
+    },
+    "daikin-mini-split-h0-error-code": {
+      "topic": "Daikin mini split H0 error code",
+      "date": "2026-07-02"
+    },
+    "daikin-mini-split-h6-error-code": {
+      "topic": "Daikin mini split H6 error code",
+      "date": "2026-07-02"
+    },
+    "daikin-mini-split-h8-error-code": {
+      "topic": "Daikin mini split H8 error code",
+      "date": "2026-07-02"
+    },
+    "daikin-mini-split-h9-error-code": {
+      "topic": "Daikin mini split H9 error code",
+      "date": "2026-07-02"
+    },
+    "daikin-mini-split-j3-error-code": {
+      "topic": "Daikin mini split J3 error code",
+      "date": "2026-07-02"
+    },
+    "daikin-mini-split-j6-error-code": {
+      "topic": "Daikin mini split J6 error code",
+      "date": "2026-07-02"
+    },
+    "daikin-mini-split-l5-error-code": {
+      "topic": "Daikin mini split L5 error code",
+      "date": "2026-07-02"
+    },
+    "lg-mini-split-ch48-error-code": {
+      "topic": "LG mini split CH48 error code",
+      "date": "2026-07-02"
+    },
+    "navien-tankless-e031-error-code": {
+      "topic": "Navien tankless E031 error code",
+      "date": "2026-07-02"
+    },
+    "navien-tankless-e032-error-code": {
+      "topic": "Navien tankless E032 error code",
+      "date": "2026-07-02"
+    },
+    "navien-tankless-e033-error-code": {
+      "topic": "Navien tankless E033 error code",
+      "date": "2026-07-02"
+    },
+    "navien-tankless-e037-error-code": {
+      "topic": "Navien tankless E037 error code",
+      "date": "2026-07-02"
+    },
+    "navien-tankless-e039-error-code": {
+      "topic": "Navien tankless E039 error code",
+      "date": "2026-07-02"
+    },
+    "navien-tankless-e040-error-code": {
+      "topic": "Navien tankless E040 error code",
+      "date": "2026-07-02"
+    },
+    "navien-tankless-e046-error-code": {
+      "topic": "Navien tankless E046 error code",
+      "date": "2026-07-02"
+    },
+    "navien-tankless-e047-error-code": {
+      "topic": "Navien tankless E047 error code",
+      "date": "2026-07-02"
+    },
+    "navien-tankless-e048-error-code": {
+      "topic": "Navien tankless E048 error code",
+      "date": "2026-07-02"
+    },
+    "weil-mclain-boiler-a00-error-code": {
+      "topic": "Weil-McLain boiler A00 error code",
+      "date": "2026-07-02"
+    },
+    "weil-mclain-boiler-a03-error-code": {
+      "topic": "Weil-McLain boiler A03 error code",
+      "date": "2026-07-02"
     }
   }
 }

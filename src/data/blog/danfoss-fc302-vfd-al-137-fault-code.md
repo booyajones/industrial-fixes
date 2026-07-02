@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or drive technician if the motor-disconnected test shows the fault is internal to the drive, if you lack a megohm tester or cannot safely perform insulation tests, or if the alarm persists after you have verified motor parameters and cleared mechanical obstructions. Replacing IGBT modules, DC bus capacitors, or rectifier boards requires knowledge of high-voltage DC circuits (up to 800 VDC on the bus), proper electrostatic discharge precautions, and the ability to interpret drive diagnostic data. Also call a professional if motor winding insulation tests fail, because motor rewind or replacement often requires crane lifts, alignment, and coupling work beyond typical maintenance scope.
 
 **Rough cost:** A pro service call runs about $200-800 depending on whether the fix is motor repair, cable replacement, or drive board replacement.
+
+## See Also
+
+- [Danfoss FC302 AL-97 - Causes & Fix](/posts/danfoss-fc302-vfd-al-97-fault-code/)
+- [Danfoss FC302 AL-165 - Causes & Fix](/posts/danfoss-fc302-vfd-al-165-fault-code/)
+- [Danfoss FC302 W66 - Causes & Fix](/posts/danfoss-fc302-vfd-al-66-fault-code/)
+- [Danfoss FC302 AL-61 - Causes & Fix](/posts/danfoss-fc302-vfd-al-61-fault-code/)

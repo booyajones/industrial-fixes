@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician if you cannot locate your boiler model manual, if the diagnostics menu shows a fault you do not understand, or if the problem involves the gas valve, control board, or any component inside the sealed combustion chamber. Gas work and control module replacement require proper combustion testing and code compliance. A pro will use a combustion analyzer to verify air-fuel ratio, check for carbon monoxide spillage, and test flame signal strength with a microamp meter. If you have already cleaned the flame sensor and confirmed gas supply but the fault persists, a technician can isolate whether the issue is the ignitor, the control, or a wiring fault without guessing.
 
 **Rough cost:** A pro service call runs about $150–350.
+
+## See Also
+
+- [Weil-McLain A36 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a36-error-code/)
+- [Weil-McLain A142 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a142-error-code/)
+- [Weil-McLain A83 Error - Causes & Fix](/posts/weil-mclain-boiler-a83-error-code/)
+- [Weil-McLain A104 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a104-error-code/)

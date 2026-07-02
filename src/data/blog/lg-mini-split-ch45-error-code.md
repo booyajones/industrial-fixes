@@ -50,3 +50,10 @@ The CH45 error on LG mini-split systems indicates a fault with the outdoor unit'
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working inside line-voltage equipment, if you lack a multimeter or do not know how to test thermistor resistance safely, or if the code returns after you have replaced the sensor and verified all wiring. A technician has access to the exact resistance specifications for your model, refrigerant gauges to rule out related system faults, and the tools to test or replace the outdoor control board if the sensor circuit has failed. Professional diagnosis is also recommended if you see multiple temperature sensor codes at once, since that may point to a broader PCB or power supply issue.
+
+## See Also
+
+- [LG Washer Stuck on One Cycle - Causes & Fix](/posts/lg-washer-stuck-on-one-cycle/)
+- [LG Dryer Burning Smell - Causes & Fix](/posts/lg-dryer-burning-smell/)
+- [LG DLEX4000W Dryer Problems & Error Codes](/posts/lg-dlex4000w-dryer-problems/)
+- [LG Refrigerator Compressor Start Relay & Overload Replacement](/posts/lg-refrigerator-compressor-start-relay-ptc-overload-replacement/)

@@ -49,3 +49,10 @@ The CH40 code on an LG mini split indicates an inverter AC current abnormal cond
 ## When to Call a Pro
 
 CH40 requires both electrical diagnostics and refrigerant-circuit work. If you are not EPA-certified and equipped with an insulation tester (megohmmeter), quality multimeter, and the ability to safely recover refrigerant and replace a sealed-system component, call a licensed HVAC technician. Compressor and inverter board replacement both involve high-voltage AC, refrigerant handling, brazing, evacuation, and recharge. Misdiagnosis can lead to expensive part swaps, and improper refrigerant work is illegal and unsafe. A qualified tech can quickly isolate whether the fault is in the compressor windings, the inverter drive circuit, or the wiring, and complete the repair correctly the first time.
+
+## See Also
+
+- [LG Dryer dE Error Code - Causes & Fix](/posts/lg-dryer-de-error-code/)
+- [LG EID Error Code - Causes & Fix](/posts/lg-refrigerator-eid-error-code/)
+- [LG Refrigerator dS Error Code - Causes & Fix](/posts/lg-refrigerator-ds-error-code/)
+- [LG Washer E21 Error Code - Causes & Fix](/posts/lg-washer-e21-error-code/)

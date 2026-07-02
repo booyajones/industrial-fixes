@@ -47,3 +47,10 @@ CH41 indicates a problem with the discharge temperature sensor circuit on your L
 ## When to Call a Pro
 
 CH41 diagnosis requires multimeter work, refrigerant-side access, and interpretation of thermistor curves. If you are not comfortable working inside energized HVAC equipment or do not have the tools to measure sensor resistance and continuity, call a qualified HVAC technician. PCB replacement also demands proper handling of static-sensitive electronics and confirming the correct board revision for your system. Pros carry the diagnostic tables, replacement sensors, and boards specific to your LG model, and they can verify that the repair clears the fault without introducing new issues.
+
+## See Also
+
+- [LG Washer Won't Turn On - Causes & Fix](/posts/lg-washer-wont-turn-on/)
+- [LG Microwave F-11 Error Code - Causes & Fix](/posts/lg-microwave-f-11-error-code/)
+- [LG Oven F9 Error Code - Causes & Fix](/posts/lg-oven-f9-error-code/)
+- [LG Refrigerator Water Leaking on Floor - Causes & Fix](/posts/lg-refrigerator-water-leaking-on-floor/)
