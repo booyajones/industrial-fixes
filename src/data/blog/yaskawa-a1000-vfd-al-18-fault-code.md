@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or contact Yaskawa support if you are unfamiliar with parameter programming, if the exact fault code does not match oPE18, or if the fault persists after you have corrected all parameter conflicts and power-cycled the drive. VFD parameter errors can indicate control board hardware damage if settings cannot be saved or if the drive displays CPU-related faults (such as CPF18). A technician will use Yaskawa's diagnostic software to verify control board health and determine whether board replacement or a complete drive swap is necessary. Do not attempt control board replacement yourself unless you are trained in high-voltage DC bus safety and ESD precautions.
 
 **Rough cost:** A pro service call runs about $150-400 for parameter review and correction; $800-2500 if control board truly failed.
+
+## See Also
+
+- [Yaskawa GA800 A.102 Alarm - Causes & Fix](/posts/yaskawa-ga800-vfd-a-102-fault-code/)
+- [Yaskawa GA800 oV Fault — DC Overvoltage Fix](/posts/yaskawa-ga800-error-ov/)
+- [Yaskawa GA800 E37 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e37-fault-code/)
+- [Yaskawa GA800 F036 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f036-fault-code/)

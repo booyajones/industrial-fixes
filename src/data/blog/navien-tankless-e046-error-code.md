@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a licensed technician if you cannot confirm the exact meaning of E046 for your model, if you are uncomfortable working with electrical components or testing sensors with a multimeter, or if the unit continues to display the error after clearing the drain line and checking wiring. A pro should also handle heat exchanger descaling if you have never performed the procedure, as improper flushing can damage internal components. If the unit shows signs of actual overheating such as steam or unusually hot water, shut off the unit immediately and call for service. Gas-fired appliances require professional diagnosis when safety sensors are involved.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien E030 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e030-error-code/)
+- [Navien E027 Error Code - Causes & Fix](/posts/navien-tankless-e027-error-code/)
+- [Navien E031 Error Code - Causes & Fix](/posts/navien-tankless-e031-error-code/)
+- [Navien Water Heater Water Too Hot - Causes & Fix](/posts/navien-water-heater-water-too-hot/)

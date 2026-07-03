@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drive technician if you are not trained to work inside VFD enclosures or if you cannot safely lock out high-voltage equipment. Encoder diagnostics require multimeter skills and familiarity with parameter programming. If continuity testing shows the cable is intact but the fault persists, the encoder or option card replacement must be done by someone who can calibrate closed-loop parameters and verify proper motor operation under load. Any work inside the drive enclosure exposes you to high DC bus voltage (up to 800 VDC on 480V models) that remains live even after AC input is disconnected, so professional service is the safe choice unless you hold the appropriate certifications.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Yaskawa GA800 VFD F012 - Causes & Fix](/posts/yaskawa-ga800-vfd-f012-fault-code/)
+- [Yaskawa A1000 LF3 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-lf3-fault-code/)
+- [Yaskawa A1000 AL-10 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-10-fault-code/)
+- [Yaskawa GA800 E87 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e87-fault-code/)

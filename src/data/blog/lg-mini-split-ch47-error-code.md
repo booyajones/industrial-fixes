@@ -49,3 +49,10 @@ The CH47 error code on LG mini splits indicates a compressor discharge temperatu
 ## When to Call a Pro
 
 This repair requires working inside a live outdoor unit, handling refrigerant lines, and interpreting sensor resistance values. If you are not trained in HVAC electrical troubleshooting or do not own a multimeter and the service manual for your model, call a licensed HVAC technician. Misdiagnosing the fault and replacing the wrong board or sensor wastes money and time. A professional can also check refrigerant charge and compressor health if the sensor and PCB both test good but the fault returns.
+
+## See Also
+
+- [LG Dishwasher Won't Latch - Causes & Fix](/posts/lg-dishwasher-wont-latch/)
+- [LG Dishwasher IE Error Code - Causes & Fix](/posts/lg-dishwasher-ie-error-code/)
+- [LG Mini Split CH33 Error Code - Causes & Fix](/posts/lg-mini-split-ch33-error-code/)
+- [LG Range E8 Error Code - Causes & Fix](/posts/lg-range-e8-error-code/)

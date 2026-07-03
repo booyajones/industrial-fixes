@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed technician if you are not comfortable working with gas appliances, measuring electrical resistance with a multimeter, or accessing the internal controller board. The outdoor sensor is part of the combustion and freeze-protection system, so correct diagnosis and installation are important for safe operation. If you replace the sensor and wiring but the E040 error returns immediately, the main PCB likely has a shorted input circuit and requires professional replacement. Gas and electrical work on tankless water heaters should be performed by qualified service personnel to meet code and warranty requirements.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [Navien NPE-A 016 — Overheat Lockout Fix](/posts/navien-water-heater-error-code-016/)
+- [Navien NPE-180S2 Problems & Error Codes](/posts/navien-npe-180s2-water-heater-problems/)
+- [Navien E009 Error Code — Causes & Fix](/posts/navien-error-code-e009/)
+- [Navien Tankless Water Heater Cold Water Inlet Valve Replacement](/posts/navien-water-heater-water-inlet-valve-cold-water-isolation-valve-kit-tankless-replacement/)

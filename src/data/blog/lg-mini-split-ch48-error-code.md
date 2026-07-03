@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician if you are not comfortable working with high-voltage electrical connections or refrigerant lines. The repair involves accessing the outdoor unit's control board, testing thermistor resistance with a multimeter, and potentially working near live circuits. A technician can also verify refrigerant pressures and subcooling/superheating values if the sensors are replaced, to confirm the system is operating correctly. If the PCB is faulty, a pro can source the correct replacement board and transfer any required settings or address codes.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [LG Dishwasher Standing Water in Bottom - Causes & Fix](/posts/lg-dishwasher-standing-water-in-bottom/)
+- [LG Washer Won't Drain - Causes & Fix](/posts/lg-washer-wont-drain/)
+- [LG Washer Burning Smell - Causes & Fix](/posts/lg-washer-burning-smell/)
+- [LG Mini Split CH06 Error Code - Causes & Fix](/posts/lg-mini-split-ch06-error-code/)

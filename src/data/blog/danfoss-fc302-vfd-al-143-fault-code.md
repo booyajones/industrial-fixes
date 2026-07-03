@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or VFD technician if you are not trained in high-voltage DC work. The DC bus inside the drive can hold lethal voltage (up to 800V DC) for several minutes after power is removed. Professionals have the meters and lockout procedures to safely discharge capacitors, test IGBT junctions, and replace power boards. Also call a pro if the motor insulation test fails, because rewinding or replacing a three-phase motor requires specialized equipment and knowledge of motor specifications. If your process cannot tolerate downtime, a technician can often diagnose the fault remotely via the drive's communication port and arrive with the correct spare parts.
 
 **Rough cost:** A pro service call runs about $300-800.
+
+## See Also
+
+- [Danfoss FC302 ALARM 24 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-24-fault-code/)
+- [Danfoss FC302 W66 - Causes & Fix](/posts/danfoss-fc302-vfd-al-66-fault-code/)
+- [Danfoss VFD Fault W30 — Brake Resistor Overtemperature Fix](/posts/danfoss-vfd-fault-w30/)
+- [Danfoss FC302 AL-112 - Causes & Fix](/posts/danfoss-fc302-vfd-al-112-fault-code/)

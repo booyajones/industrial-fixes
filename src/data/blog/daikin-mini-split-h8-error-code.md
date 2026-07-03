@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified HVAC technician for any H8 error code on a Daikin mini-split. This fault involves high-voltage inverter circuits, DC current sensing, and compressor control systems that require specialized tools (multimeter, clamp meter, DC voltage probes) and training to diagnose safely. Working inside the outdoor unit's electrical compartment carries risk of electric shock (300+ VDC on the bus) and can void warranties if you damage the inverter board or compressor. A tech will test the CT sensor output, measure reactor resistance and DC bus voltage, inspect power transistors for shorts, and replace the inverter PCB or damaged components. DIY replacement of the inverter board is possible if you are experienced with HVAC electrical work and can source the exact part, but incorrect installation or failure to address underlying issues (bad reactor or wiring) will cause the new board to fail immediately.
 
 **Rough cost:** A pro service call runs about $300-700 depending on model and board availability.
+
+## See Also
+
+- [Daikin Mini Split Not Cooling - Causes & Fix](/posts/daikin-mini-split-not-cooling/)
+- [Daikin C4 Error Code - Causes & Fix](/posts/daikin-mini-split-c4-error-code/)
+- [Daikin H6 Error Code - Causes & Fix](/posts/daikin-heat-pump-h6-error-code/)
+- [Daikin A3 Error Code - Causes & Fix](/posts/daikin-mini-split-a3-error-code/)

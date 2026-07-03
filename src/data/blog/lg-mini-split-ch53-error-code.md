@@ -51,3 +51,10 @@ Unlike refrigerant or sensor faults, CH53 points to the electrical and data conn
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with line voltage, if the fault persists after a power cycle and visual wiring inspection, or if you lack a multimeter and the skills to measure communication voltages and resistance safely. PCB diagnosis requires interpreting voltage readings and isolating interference, and improper handling of refrigerant lines or electrical connections can damage the system or create safety hazards. Professional diagnosis is especially important on multi-zone or VRF systems where auto-addressing and communication verification are required after board replacement.
+
+## See Also
+
+- [LG Dryer Idler Pulley Replacement - Signs & How-To](/posts/lg-dryer-idler-pulley-replacement/)
+- [LG Mini-Split CH26 Error Code — CT Sensor Fault](/posts/lg-mini-split-ch26-error-code/)
+- [LG Dryer HE Error Code - Causes & Fix](/posts/lg-dryer-he-error-code/)
+- [LG Range F5 Error Code - Causes & Fix](/posts/lg-range-f5-error-code/)

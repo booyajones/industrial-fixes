@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working with live electrical connections or if you lack a multimeter to test sensor resistance. A licensed HVAC technician can quickly measure the thermistor, verify wiring continuity, and replace the sensor or board as needed. Also call a pro if the H9 code returns after you have replaced the sensor and confirmed correct installation, since the outdoor PC board may require replacement or the system may have a refrigerant-side fault that needs refrigerant gauges and recovery equipment.
 
 **Rough cost:** DIY runs about $15-25 in parts, 30-60 min. A pro service call runs about $150-300.
+
+## See Also
+
+- [Daikin U0 Error Code - Causes & Fix](/posts/daikin-mini-split-u0-error-code/)
+- [Daikin Mini Split A8 Error Code - Causes & Fix](/posts/daikin-mini-split-a8-error-code/)
+- [Daikin E9 Error Code — Causes & Fix](/posts/daikin-e9-error-code/)
+- [Daikin F3 Error Code — Causes & Fix](/posts/daikin-f3-error-code/)

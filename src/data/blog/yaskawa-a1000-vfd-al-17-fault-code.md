@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified controls technician or application engineer if you cannot access the parameter menu due to password locks, if the mechanical system requires a detailed inertia calculation that exceeds your engineering knowledge, or if the drive is integrated into a complex PLC network where changing parameters or signals could affect other machinery. Also call a pro if you suspect the drive firmware or option card has a deeper configuration issue that parameter b1-04 alone does not resolve. For straightforward parameter changes and signal checks, most facility maintenance staff can handle Er-17 without outside help.
 
 **Rough cost:** DIY runs about $0, 5-15 min. A pro service call runs about $100-200 for parameter programming visit.
+
+## See Also
+
+- [Yaskawa GA800 E26 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e26-fault-code/)
+- [Yaskawa GA800 E37 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e37-fault-code/)
+- [Yaskawa GA800 LF Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f047-fault-code/)
+- [Yaskawa GA800 E20 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e20-fault-code/)

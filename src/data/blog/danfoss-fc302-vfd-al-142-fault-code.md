@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a VFD technician or motor specialist if the alarm persists with the motor disconnected, if you measure low DC bus voltage, or if megohm testing shows motor insulation below 2 megohms and you lack rewinding equipment. High-voltage DC bus capacitors inside the drive hold lethal charge for minutes after power-off, and IGBT testing requires specialized equipment and knowledge of gate-driver circuits. If the motor passes insulation tests but the cable is routed through underground conduit or inaccessible chases, a professional can pull new VFD-rated shielded cable and verify proper shield grounding at both ends to prevent ground-fault recurrence.
 
 **Rough cost:** A pro service call runs about $150-500.
+
+## See Also
+
+- [Danfoss VFD Fault OL — Causes & Fix](/posts/danfoss-vfd-fault-ol/)
+- [Danfoss FC302 AL-159 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-159-fault-code/)
+- [Danfoss FC302 ALARM 15 - Causes & Fix](/posts/danfoss-fc302-alarm-15-fault-code/)
+- [Danfoss FC-302 Alarm 12 — Overcurrent Fix](/posts/danfoss-fc302-alarm-12/)

@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician immediately for H6 errors. This code involves the sealed refrigerant system, high-voltage outdoor unit work, and specialized diagnostics. Testing the position sensor circuit requires a multimeter and knowledge of your model's service manual voltage specs. Compressor replacement demands refrigerant recovery, brazing, evacuation, and recharge under EPA regulations. Even wiring repairs at the outdoor PCB can expose you to 240V power and refrigerant lines. Do not attempt this repair unless you hold an EPA 608 certification and have HVAC training.
 
 **Rough cost:** A pro service call runs about $200-600 for wiring repair or PCB replacement, $800-1,800 for compressor replacement.
+
+## See Also
+
+- [Daikin UH Error Code - Causes & Fix](/posts/daikin-heat-pump-uh-error-code/)
+- [Daikin VRV / VRF U4 Error Code — Communication Fault Fix](/posts/daikin-vrv-vrf-u4-error-code/)
+- [Daikin F3 Error Code - Causes & Fix](/posts/daikin-mini-split-f3-error-code/)
+- [Daikin Mini Split Not Responding to Remote - Causes & Fix](/posts/daikin-mini-split-not-responding-to-remote/)

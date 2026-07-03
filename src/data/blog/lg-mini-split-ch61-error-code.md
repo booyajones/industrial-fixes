@@ -48,3 +48,10 @@ CH61 is a protection code that appears when LG detects an overtemperature condit
 ## When to Call a Pro
 
 Call a professional if CH61 returns after you have cleared all obstructions, cleaned both the outdoor coil and indoor filter, and restored proper ventilation around both units. Persistent overtemperature codes after airflow corrections suggest a failing temperature sensor, refrigerant issue, compressor problem, or control board fault that requires diagnostic tools and model-specific service data. LG recommends professional inspection whenever the code cannot be cleared by restoring airflow and cleaning, because the system is protecting itself from a condition that could cause fire or equipment damage.
+
+## See Also
+
+- [LG Oven Self-Clean Not Working - Causes & Fix](/posts/lg-oven-self-clean-not-working/)
+- [LG Multi V VRF System Error Codes: Complete Guide](/posts/lg-multi-v-error-codes/)
+- [LG Refrigerator Water Dispenser Not Working - Causes & Fix](/posts/lg-refrigerator-water-dispenser-not-working/)
+- [LG Range E3 Error Code - Causes & Fix](/posts/lg-range-e3-error-code/)

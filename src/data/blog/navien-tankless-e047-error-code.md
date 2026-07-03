@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician or gas fitter immediately for E047. This code involves internal electrical testing of the exhaust thermostat, working near the gas burner and heat exchanger, and potentially replacing sealed components. The tech will use an ohmmeter to test the sensor's resistance, inspect the heat exchanger for scale or leaks, and replace the faulty part. Navien requires professional service for this code because incorrect diagnosis can lead to dangerous overheating, gas leaks, or carbon monoxide hazards. Do not attempt sensor replacement or heat exchanger work yourself if you are not licensed and trained on tankless water heaters.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [Navien E046 Error Code - Causes & Fix](/posts/navien-tankless-e046-error-code/)
+- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
+- [Navien E037 Error Code - Causes & Fix](/posts/navien-tankless-e037-error-code/)
+- [Navien E004 Error Code - Causes & Fix](/posts/navien-tankless-e004-error-code/)

@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified technician or VFD specialist if you are not comfortable working around high-voltage industrial equipment or if you lack the tools to safely lock out power and perform continuity testing. If the fault persists after checking all wiring and connections, the encoder, option card, or main control board may need replacement, which requires knowledge of drive configuration and parameter setup. If the drive is part of a critical production process, a professional can minimize downtime and verify proper closed-loop tuning after repair.
 
 **Rough cost:** A pro service call runs about $200-600.
+
+## See Also
+
+- [Yaskawa GA800 F023 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f023-fault-code/)
+- [Yaskawa A1000 AL-22 - Causes & Fix](/posts/yaskawa-a1000-vfd-al-22-fault-code/)
+- [Yaskawa GA800 E42 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e42-fault-code/)
+- [Yaskawa GA800 E10 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e10-fault-code/)

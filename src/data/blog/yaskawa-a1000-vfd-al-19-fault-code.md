@@ -81,3 +81,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or drive technician if you are not trained in high-voltage isolation and safe work on variable frequency drives. The drive operates at line voltage (typically 230-480 VAC three-phase) and stores lethal DC bus voltage even after power is removed. Encoder diagnostics require multimeter skills, knowledge of encoder signal types (differential line driver, open collector, or voltage output), and familiarity with drive parameters. If your troubleshooting reveals a faulty encoder or option card, a technician can verify the diagnosis with an oscilloscope, update drive firmware if needed, and commission the replacement encoder to match your application's speed and torque requirements.
 
 **Rough cost:** A pro service call runs about $200-600 depending on cable, encoder, or option card replacement.
+
+## See Also
+
+- [Yaskawa GA800 F013 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f013-fault-code/)
+- [Yaskawa GA800 E43 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e43-fault-code/)
+- [Yaskawa GA800 F009 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f009-fault-code/)
+- [Yaskawa GA800 A.106 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-106-fault-code/)

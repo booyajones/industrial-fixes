@@ -49,3 +49,10 @@ The fault typically requires either reseating a removable EEPROM chip to restore
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are uncomfortable working with live electrical components or if the error returns after reseating the EEPROM. Replacing the outdoor PCB requires proper refrigerant handling, accurate wire mapping, and often board configuration or parameter transfer. A technician will also have access to model-specific LG service bulletins and the correct part numbers for your outdoor unit.
+
+## See Also
+
+- [LG Range PE Error Code - Causes & Fix](/posts/lg-range-pe-error-code/)
+- [LG Mini Split CH66 Error Code - Causes & Fix](/posts/lg-mini-split-ch66-error-code/)
+- [LG Refrigerator Light Not Working - Causes & Fix](/posts/lg-refrigerator-light-not-working/)
+- [LG Washer UE Error Code - Causes & Fix](/posts/lg-washer-ue-error-code/)

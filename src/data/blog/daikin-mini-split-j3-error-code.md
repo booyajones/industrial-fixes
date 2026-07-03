@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician for the J3 code. This repair involves working inside the outdoor unit with refrigerant lines, electrical connections, and control boards. A technician has the tools to measure sensor resistance accurately, compare readings to the manufacturer's spec table, and safely replace components without damaging the sealed refrigerant system. If the thermistor tests good, diagnosing a faulty PCB or wiring fault requires specialized knowledge and equipment.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [Daikin F9 Error Code — Heat Exchanger Temp Sensor Fault: Causes & Fix](/posts/daikin-f9-error-code/)
+- [Daikin E5 Error Code - Causes & Fix](/posts/daikin-e5-error-code/)
+- [Daikin FTXS09LVJU Problems & Error Codes](/posts/daikin-ftxs09lvju-ductless-mini-split-air-conditioner-problems/)
+- [Daikin EA Error Code - Causes & Fix](/posts/daikin-heat-pump-ea-error-code/)

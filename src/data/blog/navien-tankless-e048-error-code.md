@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed gas technician whenever you need to measure gas pressure, adjust a regulator, or replace gas supply components. Working with propane involves serious fire and explosion hazards, and most jurisdictions require a licensed professional for any work beyond checking the tank gauge and opening valves. If you have refilled the tank and confirmed all valves are open but the E048 code persists, a technician must use a manometer to diagnose whether the regulator, gas valve assembly, or supply line is at fault. They can also perform a full load test to verify the system maintains stable pressure at maximum firing rate.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [Navien E615 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e615-error-code/)
+- [Navien E004 Error Code - Causes & Fix](/posts/navien-tankless-e004-error-code/)
+- [Navien E008 Error Code - Causes & Fix](/posts/navien-tankless-e008-error-code/)
+- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)

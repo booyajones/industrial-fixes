@@ -1414,5 +1414,23 @@
     "score": 3,
     "reason": "The research explicitly states A00 does not exist in Weil-McLain documentation; publishing a page for a non-existent error code fails criterion #1 regardless of how well the A01 fallback is documented.",
     "date": "2026-07-02"
+  },
+  "weil-mclain-boiler-a07-error-code": {
+    "topic": "Weil-McLain boiler A07 error code",
+    "score": 3,
+    "reason": "The research clearly identifies this as E07 (or displayed as 07), NOT A07; the draft invents a non-existent error code designation for Weil-McLain boilers.",
+    "date": "2026-07-03"
+  },
+  "weil-mclain-boiler-a12-error-code": {
+    "topic": "Weil-McLain boiler A12 error code",
+    "score": 3,
+    "reason": "FAIL: Research explicitly states A12 is NOT documented in Weil-McLain materials and meaning is speculative ('likely indicates', 'most likely', 'may appear'); publishing unconfirmed error codes as factual violates technical accuracy standards.",
+    "date": "2026-07-03"
+  },
+  "bosch-tankless-a3-error-code": {
+    "topic": "Bosch tankless A3 error code",
+    "score": 3,
+    "reason": "Fatal error: Research states 'A3 line, not a tankless A3 model' and discusses A3 as product line, not error code\u2014the entire premise conflates product naming with error codes, making this undocumented/unverified as an actual Bosch tankless error code.",
+    "date": "2026-07-03"
   }
 }

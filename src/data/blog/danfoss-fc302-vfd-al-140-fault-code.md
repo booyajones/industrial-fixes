@@ -81,3 +81,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drive technician if you lack the tools or training to safely measure high-voltage AC input, work inside the VFD cabinet, or test DC bus components. Repairing a VFD involves lethal voltages (even when disconnected, DC link capacitors can hold a charge). A professional will have the proper PPE, isolation tools, and capacitor discharge equipment. If the fault persists after checking input power and you need to open the drive enclosure, hire a pro. Similarly, if motor insulation testing shows a fault below 2 megohms, a motor shop will need to rewind or replace the motor windings.
 
 **Rough cost:** A pro service call runs about $200-800 depending on component replacement.
+
+## See Also
+
+- [Danfoss FC302 AL-92 - Causes & Fix](/posts/danfoss-fc302-vfd-al-92-fault-code/)
+- [Danfoss FC302 Alarm 25 - Causes & Fix](/posts/danfoss-fc302-alarm-25-fault-code/)
+- [Danfoss VFD Fault W30 — Brake Resistor Overtemperature Fix](/posts/danfoss-vfd-fault-w30/)
+- [Danfoss FC302 AL-158 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-158-fault-code/)

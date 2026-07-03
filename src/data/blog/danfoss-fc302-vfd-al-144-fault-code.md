@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or VFD technician if you are not trained to work with high-voltage industrial equipment or do not have a 1000V megger tester. Internal drive repairs require knowledge of power electronics, access to Danfoss parts, and proper safety procedures. If the fault persists with the motor disconnected, the drive needs professional diagnosis and repair. Ground fault conditions present shock hazards, so only personnel trained in industrial electrical safety should troubleshoot this alarm. Professionals have the test equipment to isolate faults quickly and can coordinate motor rewinding or drive warranty service.
 
 **Rough cost:** A pro service call runs about $200-800 depending on whether motor cable, motor replacement, or drive repair is required.
+
+## See Also
+
+- [Danfoss FC302 AL-143 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-143-fault-code/)
+- [Danfoss FC302 VFD Alarm 23 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-23-fault-code/)
+- [Danfoss FC302 ALARM 35 - Causes & Fix](/posts/danfoss-fc302-alarm-35-fault-code/)
+- [Danfoss FC302 Alarm 34 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-34-fault-code/)
