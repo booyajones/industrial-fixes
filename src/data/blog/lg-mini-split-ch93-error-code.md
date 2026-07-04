@@ -51,3 +51,10 @@ This error often appears during test run or startup when the system attempts to 
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the CH93 code returns after a full power reset and you have confirmed that the outdoor unit breaker is on. Communication faults require systematic testing of low-voltage signals, terminal integrity, and board function that go beyond simple visual inspection. If you are not comfortable working inside energized electrical panels or tracing multi-conductor control wiring, professional service is the safer choice. LG recommends requesting service whenever the error persists after checking power and cable connections, because misdiagnosing a wiring issue as a board failure leads to unnecessary parts cost and downtime.
+
+## See Also
+
+- [LG Range F6 Error Code - Causes & Fix](/posts/lg-range-f6-error-code/)
+- [LG Dryer Shuts Off Early - Causes & Fix](/posts/lg-dryer-shuts-off-early/)
+- [LG Refrigerator rS Error Code - Causes & Fix](/posts/lg-refrigerator-rs-error-code/)
+- [LG Dishwasher AE Error Code - Causes & Fix](/posts/lg-dishwasher-ae-error-code/)

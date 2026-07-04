@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician for a U4 error. Diagnosis requires AC voltage measurements, resistance testing of control circuits, and safely working inside energized high-voltage panels on both the indoor and outdoor units. Replacing the outdoor control board involves disconnecting refrigerant sensors, compressor terminals, and fan connections that must be reassembled correctly. Technicians also have the tools to force pump down mode and verify proper refrigerant pressures after board replacement. Misdiagnosis or improper wiring can damage the new board or create a safety hazard.
 
 **Rough cost:** A pro service call runs about $250-500.
+
+## See Also
+
+- [Daikin E4 Error Code - Causes & Fix](/posts/daikin-e4-error-code/)
+- [Daikin E05 Error Code - Causes & Fix](/posts/daikin-mini-split-e05-error-code/)
+- [Daikin Mini Split Not Cooling - Causes & Fix](/posts/daikin-mini-split-not-cooling/)
+- [Daikin C4 Error Code - Causes & Fix](/posts/daikin-mini-split-c4-error-code/)

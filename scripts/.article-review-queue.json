@@ -1432,5 +1432,185 @@
     "score": 3,
     "reason": "Fatal error: Research states 'A3 line, not a tankless A3 model' and discusses A3 as product line, not error code\u2014the entire premise conflates product naming with error codes, making this undocumented/unverified as an actual Bosch tankless error code.",
     "date": "2026-07-03"
+  },
+  "weil-mclain-boiler-a08-error-code": {
+    "topic": "Weil-McLain boiler A08 error code",
+    "score": 0,
+    "reason": "No research provided to verify A08 is a real Weil-McLain code; publishing unverified error codes risks user safety and site credibility.",
+    "date": "2026-07-04"
+  },
+  "weil-mclain-boiler-a15-error-code": {
+    "topic": "Weil-McLain boiler A15 error code",
+    "score": 2,
+    "reason": "No research provided to verify A15 is a real Weil-McLain boiler code; content appears to be generic speculation without documented grounding for this specific brand and appliance.",
+    "date": "2026-07-04"
+  },
+  "manitowoc-ice-machine-e24-error-code": {
+    "topic": "Manitowoc ice machine E24 error code",
+    "score": 0,
+    "reason": "No research provided to verify E24 is a real Manitowoc code; cannot confirm accuracy or that this isn't invented/borrowed from another brand.",
+    "date": "2026-07-04"
+  },
+  "manitowoc-ice-machine-e25-error-code": {
+    "topic": "Manitowoc ice machine E25 error code",
+    "score": 0,
+    "reason": "No research provided to verify E25 is a real Manitowoc code; cannot confirm accuracy of meaning, causes, or procedures for this specific brand and appliance.",
+    "date": "2026-07-04"
+  },
+  "manitowoc-ice-machine-e26-error-code": {
+    "topic": "Manitowoc ice machine E26 error code",
+    "score": 0,
+    "reason": "No research provided to verify E26 is a real Manitowoc code; cannot confirm accuracy of meaning or causes without documentation.",
+    "date": "2026-07-04"
+  },
+  "manitowoc-ice-machine-e27-error-code": {
+    "topic": "Manitowoc ice machine E27 error code",
+    "score": 0,
+    "reason": "No research provided to verify E27 is a real Manitowoc code; cannot confirm accuracy of meaning, causes, or fixes for this specific brand and appliance.",
+    "date": "2026-07-04"
+  },
+  "manitowoc-ice-machine-e28-error-code": {
+    "topic": "Manitowoc ice machine E28 error code",
+    "score": 3,
+    "reason": "No research provided to verify E28 is a real Manitowoc code or that the evaporator sensor meaning is correct for this brand; cannot publish unverified technical repair information that could misguide technicians.",
+    "date": "2026-07-04"
+  },
+  "manitowoc-ice-machine-e36-error-code": {
+    "topic": "Manitowoc ice machine E36 error code",
+    "score": 0,
+    "reason": "No research provided to verify E36 is a real Manitowoc code; cannot confirm accuracy or that content isn't invented/borrowed from other brands.",
+    "date": "2026-07-04"
+  },
+  "manitowoc-ice-machine-e37-error-code": {
+    "topic": "Manitowoc ice machine E37 error code",
+    "score": 2,
+    "reason": "No research provided to verify E37 is a real Manitowoc error code; content appears speculative and generic without documented grounding for this specific brand/appliance combination.",
+    "date": "2026-07-04"
+  },
+  "manitowoc-ice-machine-e38-error-code": {
+    "topic": "Manitowoc ice machine E38 error code",
+    "score": 0,
+    "reason": "No research provided to verify E38 is a real Manitowoc code; cannot confirm accuracy of meaning, causes, or fixes for this specific brand and appliance.",
+    "date": "2026-07-04"
+  },
+  "samsung-washer-ud5-error-code": {
+    "topic": "Samsung washer UD5 error code",
+    "score": 3,
+    "reason": "No research provided to verify UD5 is a real Samsung washer code; cannot confirm accuracy of meaning, causes, or fixes without external grounding.",
+    "date": "2026-07-04"
+  },
+  "samsung-washer-ac6-error-code": {
+    "topic": "Samsung washer AC6 error code",
+    "score": 0,
+    "reason": "No research provided to verify AC6 is a real Samsung washer error code; cannot confirm accuracy of meaning or causes for this specific brand and appliance.",
+    "date": "2026-07-04"
+  },
+  "samsung-washer-c6-error-code": {
+    "topic": "Samsung washer C6 error code",
+    "score": 3,
+    "reason": "No research provided to verify C6 is a real Samsung washer code; cannot confirm accuracy of meaning, causes, or repair steps for this brand/appliance combination.",
+    "date": "2026-07-04"
+  },
+  "samsung-washer-c7-error-code": {
+    "topic": "Samsung washer C7 error code",
+    "score": 3,
+    "reason": "No research provided to verify C7 is a real Samsung washer code; cannot confirm accuracy of meaning, causes, or fixes for this specific brand and appliance.",
+    "date": "2026-07-04"
+  },
+  "samsung-washer-c8-error-code": {
+    "topic": "Samsung washer C8 error code",
+    "score": 2,
+    "reason": "No research provided to verify C8 is a real Samsung washer code; without grounding documentation, cannot confirm this code exists for this brand/appliance combination.",
+    "date": "2026-07-04"
+  },
+  "electrolux-washer-e01-error-code": {
+    "topic": "Electrolux washer E01 error code",
+    "score": 3,
+    "reason": "No research provided to verify E01 is a real Electrolux washer code or that the door-lock meaning is accurate for this brand; content may be invented or borrowed from other brands without verification.",
+    "date": "2026-07-04"
+  },
+  "electrolux-washer-e02-error-code": {
+    "topic": "Electrolux washer E02 error code",
+    "score": 3,
+    "reason": "No research provided to verify E02 is a real Electrolux washer code or that the drainage meaning is accurate for this brand; cannot publish unverified technical repair information.",
+    "date": "2026-07-04"
+  },
+  "electrolux-washer-e03-error-code": {
+    "topic": "Electrolux washer E03 error code",
+    "score": 3,
+    "reason": "No research provided to verify E03 is a real Electrolux washer code; cannot confirm accuracy for this brand/appliance combination, fails verification requirement.",
+    "date": "2026-07-04"
+  },
+  "electrolux-washer-e04-error-code": {
+    "topic": "Electrolux washer E04 error code",
+    "score": 3,
+    "reason": "No research provided to verify E04 is a real Electrolux washer code; cannot confirm accuracy for this brand+appliance combination, failing primary verification requirement.",
+    "date": "2026-07-04"
+  },
+  "electrolux-washer-e42-error-code": {
+    "topic": "Electrolux washer E42 error code",
+    "score": 3,
+    "reason": "No research provided to verify E42 is a real Electrolux washer code; cannot confirm accuracy or that this isn't borrowed/invented content from other brands.",
+    "date": "2026-07-04"
+  },
+  "bosch-washer-e01-error-code": {
+    "topic": "Bosch washer E01 error code",
+    "score": 3,
+    "reason": "No research provided to verify E01 is a real Bosch washer code; cannot confirm accuracy of meaning or causes for this specific brand and appliance.",
+    "date": "2026-07-04"
+  },
+  "bosch-washer-e02-error-code": {
+    "topic": "Bosch washer E02 error code",
+    "score": 3,
+    "reason": "No research provided to verify E02 is a real Bosch washer code; cannot confirm accuracy or that this isn't invented/borrowed from another brand.",
+    "date": "2026-07-04"
+  },
+  "bosch-washer-e03-error-code": {
+    "topic": "Bosch washer E03 error code",
+    "score": 3,
+    "reason": "No research provided to verify E03 is a real Bosch washer code; cannot confirm accuracy for this brand+appliance combination, making this potentially invented content.",
+    "date": "2026-07-04"
+  },
+  "bosch-washer-e04-error-code": {
+    "topic": "Bosch washer E04 error code",
+    "score": 3,
+    "reason": "No research provided to verify E04 is a real Bosch washer code or that the stated drain-issue meaning is accurate for this brand; cannot confirm authenticity or correctness without grounding data.",
+    "date": "2026-07-04"
+  },
+  "bosch-washer-e05-error-code": {
+    "topic": "Bosch washer E05 error code",
+    "score": 3,
+    "reason": "No research provided to verify E05 is a real Bosch washer code or that the NTC sensor diagnosis is correct for this brand; cannot publish ungrounded technical repair advice.",
+    "date": "2026-07-04"
+  },
+  "bosch-washer-e06-error-code": {
+    "topic": "Bosch washer E06 error code",
+    "score": 0,
+    "reason": "No research provided to verify E06 is a real Bosch washer code or that the door-lock meaning is correct for this brand; cannot publish ungrounded technical content that may misinform users attempting repairs.",
+    "date": "2026-07-04"
+  },
+  "bosch-washer-e07-error-code": {
+    "topic": "Bosch washer E07 error code",
+    "score": 3,
+    "reason": "No research provided to confirm E07 is a real Bosch washer code or verify the door-lock meaning; content may be invented or borrowed from other brands\u2014cannot validate accuracy.",
+    "date": "2026-07-04"
+  },
+  "bosch-washer-e13-error-code": {
+    "topic": "Bosch washer E13 error code",
+    "score": 3,
+    "reason": "No research provided to verify E13 is a real Bosch washer code; cannot confirm accuracy of meaning or causes without documentation\u2014potentially invented content.",
+    "date": "2026-07-04"
+  },
+  "bosch-washer-e14-error-code": {
+    "topic": "Bosch washer E14 error code",
+    "score": 0,
+    "reason": "FAIL: No research provided to verify E14 is a real, documented Bosch washer code; cannot confirm accuracy of meaning or causes for this specific brand/appliance combination.",
+    "date": "2026-07-04"
+  },
+  "whirlpool-dryer-l2-error-code": {
+    "topic": "Whirlpool dryer L2 error code",
+    "score": 3,
+    "reason": "No research provided to verify L2 is a real Whirlpool dryer code; without grounding documentation, this appears to be invented or borrowed from other brands/appliances and cannot be validated as accurate.",
+    "date": "2026-07-04"
   }
 }

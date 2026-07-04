@@ -51,3 +51,10 @@ In general, LG communication faults mean the indoor and outdoor units cannot exc
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with low-voltage wiring or if the code returns after you have checked all connections and power-cycled the system. Because CH74 does not appear in standard LG residential mini split documentation, a technician with access to LG's service portal or your model-specific manual can confirm the exact fault definition and perform board-level diagnostics. Professional help is also required if you need to replace a main PCB or local modem, because those repairs involve refrigerant-circuit access, addressing procedures, and warranty considerations that are best handled by a certified LG installer.
+
+## See Also
+
+- [LG Mini Split CH40 Error Code - Causes & Fix](/posts/lg-mini-split-ch40-error-code/)
+- [LG Refrigerator Ice Maker Not Working - Causes & Fix](/posts/lg-refrigerator-ice-maker-not-working/)
+- [LG Mini Split Leaking Water - Causes & Fix](/posts/lg-mini-split-leaking-water/)
+- [LG LREL6323S Oven Problems & Error Codes](/posts/lg-lrel6323s-oven-problems/)

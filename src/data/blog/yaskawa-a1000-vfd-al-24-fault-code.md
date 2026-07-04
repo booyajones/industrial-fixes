@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 CPF24 is an internal control board fault that requires opening the drive enclosure, working with DC power supplies, and handling static-sensitive electronics. Because this involves high-voltage capacitors that can remain charged for minutes after power-off and precise diagnostic measurements of internal power rails, this repair should be performed by a qualified VFD technician or industrial electrician. If you do not have experience with VFD internals, multimeter diagnostics, and ESD-safe handling of circuit boards, call a professional. Additionally, replacing the control board often requires parameter backup and restoration, which can be complex on industrial drives.
 
 **Rough cost:** A pro service call runs about $400-1200.
+
+## See Also
+
+- [Yaskawa A1000 AL-12 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-12-fault-code/)
+- [Yaskawa GA800 E35 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e35-fault-code/)
+- [Yaskawa GA800 E22 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e22-fault-code/)
+- [Yaskawa GA800 E14 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e14-fault-code/)

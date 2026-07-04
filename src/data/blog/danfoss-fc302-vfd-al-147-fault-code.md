@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial drive technician or electrician if the alarm history shows no valid code after multiple power cycles, if you lack an insulation tester to megohm-test the motor, or if the fault persists with the motor disconnected. High-voltage DC bus capacitors inside the drive can hold lethal voltage for several minutes after power-off, so only trained personnel should open the enclosure or replace internal boards. A technician will use bench test equipment to isolate whether the power board, logic card, or communication modules have failed, and will safely handle capacitor discharge and IGBT testing. If the motor itself has insulation failure, a motor shop can rewind or replace it.
 
 **Rough cost:** A pro service call runs about $200-800.
+
+## See Also
+
+- [Danfoss FC302 VFD Alarm 37 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-37-fault-code/)
+- [Danfoss FC302 ALARM 27 - Causes & Fix](/posts/danfoss-fc302-alarm-27-fault-code/)
+- [Danfoss FC302 AL-115 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-115-fault-code/)
+- [Danfoss FC302 Alarm 27 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-27-fault-code/)

@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or VFD technician if you are not trained in high-voltage electrical work or VFD troubleshooting. CPF21 requires opening the drive enclosure, working near lethal DC bus voltages (even after disconnect), and replacing internal boards. Improper handling can destroy the replacement board, damage the motor, or cause electrical shock. A technician will safely discharge the drive, measure control circuit voltages, source the correct control board for your A1000 model, and replace the board or entire drive. If your facility does not have in-house electrical staff, contact a Yaskawa-authorized service center for board repair or drive replacement.
 
 **Rough cost:** A pro service call runs about $300-800 for control board replacement, $1,000-3,000+ for full drive replacement depending on model and horsepower.
+
+## See Also
+
+- [Yaskawa GA800 E26 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e26-fault-code/)
+- [Yaskawa GA800 E23 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e23-fault-code/)
+- [Yaskawa GA800 E01 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e01-fault-code/)
+- [Yaskawa A1000 AL-26 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-26-fault-code/)

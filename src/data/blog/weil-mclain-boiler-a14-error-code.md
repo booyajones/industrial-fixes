@@ -69,3 +69,10 @@ Answer these to narrow it down fast.
 Call a licensed heating professional immediately if the boiler is locked out and you cannot confirm a recognized error code, if you smell gas or see water leaks, or if the display shows E01, E03, E04, or E09. Gas boilers operate under pressure and involve combustion, high-voltage ignition, and safety interlocks that require specialized training and test equipment. Weil-McLain explicitly requires that gas, sensor, and pressurized-side faults be diagnosed and repaired by a licensed gas fitter under applicable safety codes. Attempting DIY repairs on an unrecognized code risks voiding your warranty, carbon monoxide exposure, and equipment damage.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain Boiler A98 Error - Causes & Fix](/posts/weil-mclain-boiler-a98-error-code/)
+- [Weil-McLain Boiler A64 Error - Causes & Fix](/posts/weil-mclain-boiler-a64-error-code/)
+- [Weil-McLain A58 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a58-error-code/)
+- [Weil-McLain A93 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a93-error-code/)

@@ -81,3 +81,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician if the error persists after a reset, if you measure abnormal voltage at the disconnect, or if you are uncomfortable working inside the outdoor unit. A pro will open the outdoor unit, test fuses and the magnetic contactor, inspect the outdoor PCB for surge damage, and replace the board or contactor if needed. Because this fault involves high-voltage circuits and refrigerant lines nearby, leave the diagnosis and repair to a technician. If your building voltage is consistently low or fluctuating, also bring in an electrician to inspect the main panel, breaker sizing, and utility supply before replacing any mini split components.
 
 **Rough cost:** A pro service call runs about $200-500 for PCB replacement and labor.
+
+## See Also
+
+- [Daikin A7 Error Code - Causes & Fix](/posts/daikin-mini-split-a7-error-code/)
+- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)
+- [Daikin E4 Error Code - Causes & Fix](/posts/daikin-e4-error-code/)
+- [Daikin H6 Error Code — Indoor Fan Motor Lock Fault Fix](/posts/daikin-h6-error-code/)

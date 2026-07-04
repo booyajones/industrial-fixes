@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or industrial automation technician immediately. This fault involves high-voltage drive circuitry, internal control boards, and potentially live DC bus capacitors that retain lethal voltage even after power is disconnected. Opening the drive enclosure and working inside requires lockout-tagout procedures, proper ESD precautions, and familiarity with VFD architecture. A technician can safely diagnose ribbon cable faults, swap option cards, replace the control board, and validate drive parameters. Do not attempt this repair unless you are trained in industrial electrical work and have the manufacturer's service manual.
 
 **Rough cost:** A pro service call runs about $200-600 depending on whether the fix is a cable reseat, option card replacement, or full control board swap.
+
+## See Also
+
+- [Yaskawa GA800 E40 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e40-fault-code/)
+- [Yaskawa GA800 E62 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e62-fault-code/)
+- [Yaskawa A1000 AL-25 (CPF25) - Causes & Fix](/posts/yaskawa-a1000-vfd-al-25-fault-code/)
+- [Yaskawa A1000 AL-22 - Causes & Fix](/posts/yaskawa-a1000-vfd-al-22-fault-code/)

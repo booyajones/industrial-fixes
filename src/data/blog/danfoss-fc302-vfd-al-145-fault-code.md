@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if the fault persists after disconnecting the motor, because internal power board repair requires high-voltage DC bus capacitor discharge procedures and IGBT module replacement. Also call a pro if you are not trained to perform megohm testing on motor windings or if the drive is part of a critical production system where downtime must be minimized. If the motor insulation has failed and the motor is large or permanently mounted, professional rewinding or motor replacement is the safest option.
 
 **Rough cost:** A pro service call runs about $300-800.
+
+## See Also
+
+- [Danfoss FC302 Alarm 74 - Causes & Fix](/posts/danfoss-fc302-vfd-al-74-fault-code/)
+- [Danfoss FC302 AL-159 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-159-fault-code/)
+- [Danfoss FC302 Alarm 11 - DC Voltage Too Low Causes & Fix](/posts/danfoss-fc302-vfd-al-110-fault-code/)
+- [Danfoss FC302 VFD Alarm 44 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-44-fault-code/)

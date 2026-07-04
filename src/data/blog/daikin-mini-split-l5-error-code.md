@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician immediately for an L5 code. This fault involves high-voltage DC power, refrigerant-system components, and electrical diagnostics that require specialized test equipment and EPA certification. The technician will isolate whether the short is in the compressor or the inverter board by disconnecting the compressor and testing each component separately. Compressor replacement requires refrigerant recovery, brazing, vacuum, and recharge. Inverter board replacement involves working with live DC voltages above 300 V. Attempting this repair without proper training and tools risks electric shock, refrigerant release, and further damage to the system.
 
 **Rough cost:** A pro service call runs about $800-2500.
+
+## See Also
+
+- [Daikin Mini Split Blowing Warm Air - Causes & Fix](/posts/daikin-mini-split-blowing-warm-air/)
+- [Daikin L5 Error Code — Compressor Lock Fault](/posts/daikin-l5-error-code/)
+- [Daikin A1 Error Code - Causes & Fix](/posts/daikin-heat-pump-a1-error-code/)
+- [Daikin U2 Error Code — Causes & Fix](/posts/daikin-u2-error-code/)

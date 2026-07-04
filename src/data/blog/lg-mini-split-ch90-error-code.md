@@ -49,3 +49,10 @@ CH90 is reported as an outdoor fan problem or outdoor fan motor fault on LG mini
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are uncomfortable working with line voltage, cannot safely access the outdoor unit, or do not have a multimeter and service documentation for your specific model. Outdoor PCB diagnosis requires measuring AC drive signals and interpreting model-specific fault charts. If the fan motor is physically accessible and you confirm it is seized or the connector is loose, those are straightforward homeowner checks. If you replace the motor and the fault persists, the outdoor board or a feedback circuit is involved and professional tools are needed.
+
+## See Also
+
+- [LG LFXS28968S Refrigerator Problems & Error Codes](/posts/lg-lfxs28968s-refrigerator-problems/)
+- [LG Mini Split CH04 Error Code - Causes & Fix](/posts/lg-mini-split-ch04-error-code/)
+- [LG Oven Display Not Working - Causes & Fix](/posts/lg-oven-display-not-working/)
+- [LG Microwave F-5 Error Code - Causes & Fix](/posts/lg-microwave-f-5-error-code/)

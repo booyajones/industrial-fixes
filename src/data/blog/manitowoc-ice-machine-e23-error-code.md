@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified commercial refrigeration technician for E23 errors. Diagnosing the fault requires working inside the machine's electrical cabinet, measuring sensor resistance with a multimeter, and accessing the evaporator compartment where the T3 sensor is mounted. Replacing the sensor involves routing wiring through sealed or tight spaces and verifying the refrigerant system is not affected. If the control board is at fault, the technician will need to swap the board and reprogram machine settings. Commercial ice machines also require periodic cleaning and scale removal, which a tech can handle during the same visit to prevent future sensor errors.
 
 **Rough cost:** A pro service call runs about $200-400.
+
+## See Also
+
+- [Manitowoc E34 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e34-error-code/)
+- [Manitowoc Ice Machine E01 Error: Long Freeze Cycle Shutdown Causes and Fix](/posts/manitowoc-e01-long-freeze/)
+- [Manitowoc E08 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e08-error-code/)
+- [Manitowoc E16 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e16-error-code/)

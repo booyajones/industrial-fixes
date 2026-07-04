@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician for A12 faults if you are uncomfortable working with boiler wiring or electrical testing. Gas-fired boilers require a professional to diagnose and repair high-temperature conditions caused by failed circulators, zone valve problems, or control board faults. A technician has the tools to measure sensor resistance accurately, access the full fault history, and make sure the boiler operates safely after repairs. If swapping sensors or reseating connectors does not clear the fault, or if the boiler is genuinely overheating (outlet pipe too hot to touch), shut down the system and call for service immediately to prevent damage or safety hazards.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Weil-McLain A126 Error - Causes & Fix](/posts/weil-mclain-boiler-a126-error-code/)
+- [Weil-McLain Boiler A152 Error - Causes & Fix](/posts/weil-mclain-boiler-a152-error-code/)
+- [Weil-McLain Boiler A141 Error - Causes & Fix](/posts/weil-mclain-boiler-a141-error-code/)
+- [Weil-McLain A132 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a132-error-code/)

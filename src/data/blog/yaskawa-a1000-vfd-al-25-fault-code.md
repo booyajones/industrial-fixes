@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or VFD technician if you are not trained in lockout/tagout procedures or high-voltage work. Opening a VFD enclosure exposes you to dangerous DC bus voltages that can persist even after input power is removed. If re-seating the terminal board and power cycling do not clear the fault, the drive requires advanced diagnostics or component replacement that should be performed by a Yaskawa-certified technician. Do not attempt internal wiring repairs on a VFD without proper training and test equipment.
 
 **Rough cost:** A pro service call runs about $150-400 for service call and reconnection; $800-2500 if drive replacement is needed.
+
+## See Also
+
+- [Yaskawa A1000 CPF24 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-24-fault-code/)
+- [Yaskawa A1000 OV Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ov-fault-code/)
+- [Yaskawa GA800 E74 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e74-fault-code/)
+- [Yaskawa A1000 AL-14 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-14-fault-code/)

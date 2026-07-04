@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or VFD technician immediately if you are not trained in high-voltage systems or do not have the proper test equipment. This fault involves live AC and DC voltages that can cause fatal shock. A professional should perform the megohm insulation tests, interpret the results, and replace the drive power board if needed. If the motor isolation test shows an internal drive fault, the repair requires disassembly of the drive enclosure, testing of individual IGBT modules, and replacement of semiconductors that are not available to end users. Only attempt the free checks (tightening connections, manual initialization, and motor disconnection test) if you have lockout/tagout training and the proper PPE.
 
 **Rough cost:** A pro service call runs about $200-800 depending on whether motor or drive power board replacement is needed.
+
+## See Also
+
+- [Danfoss FC302 AL-63 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-63-fault-code/)
+- [Danfoss FC302 VFD ALARM 57 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-57-fault-code/)
+- [Danfoss FC302 AL-118 - Causes & Fix](/posts/danfoss-fc302-vfd-al-118-fault-code/)
+- [Danfoss FC302 AL-104 - Causes & Fix](/posts/danfoss-fc302-vfd-al-104-fault-code/)

@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a licensed gas fitter or HVAC technician immediately if you cannot restore gas flow, if the flame sensor is clean and the boiler still locks out, or if you see no spark during ignition. Any work on the gas valve, ignition transformer, control module, or pressure switch requires specialized tools and gas certification. Do not attempt to bypass safety interlocks or restart the boiler repeatedly, as unburned gas can accumulate and create an explosion hazard.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [Weil-McLain A46 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a46-error-code/)
+- [Weil-McLain A134 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a134-error-code/)
+- [Weil-McLain A159 Error - Causes & Fix](/posts/weil-mclain-boiler-a159-error-code/)
+- [Weil-McLain Boiler A80 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a80-error-code/)

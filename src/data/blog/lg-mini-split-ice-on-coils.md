@@ -71,3 +71,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if ice returns after cleaning the filter and defrosting the coil, if you see a CH12 or other sensor code and are not comfortable testing thermistors and wiring, or if you suspect low refrigerant. Refrigerant work requires EPA certification, proper gauges, and recovery equipment. A pro will also have access to the exact service manual for your LG model, including resistance tables, pressure specs, and board-level diagnostics that are not published in generic support articles.
+
+## See Also
+
+- [LG Washer Shaking and Loud - Causes & Fix](/posts/lg-washer-shaking-and-loud/)
+- [LG Dryer F0 Error Code - Causes & Fix](/posts/lg-dryer-f0-error-code/)
+- [LG Dishwasher Buttons Not Working - Causes & Fix](/posts/lg-dishwasher-buttons-not-working/)
+- [LG Dryer E4 Error Code - Causes & Fix](/posts/lg-dryer-e4-error-code/)

@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa-authorized service provider if you cannot identify the exact code on the display, if the drive shows multiple faults at once, or if you confirm an LT-2 alarm and need help selecting and installing a replacement drive. VFD work involves high DC bus voltages (600V or more) that remain present even after input power is disconnected, so only trained personnel should open the drive cabinet or measure internal voltages. If you see u22 and cannot navigate the menu to view the stored fault, a technician can retrieve the fault history using parameter programming software and diagnose the root cause. For LT-2, a pro can also evaluate whether your application and environment contributed to early capacitor aging and recommend ventilation or cooling improvements for the replacement drive.
 
 **Rough cost:** A pro service call runs about $1,500-4,000 for drive replacement (LT-2) or $150-500 for fault diagnosis and repair (other codes).
+
+## See Also
+
+- [Yaskawa GA800 E81 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e81-fault-code/)
+- [Yaskawa GA800 A.144 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-144-fault-code/)
+- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)
+- [Yaskawa GA800 E66 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e66-fault-code/)

@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified technician or Danfoss-certified service provider if you are not trained in high-voltage VFD work, if the drive continues to alarm with no motor connected, or if the megohm test confirms motor insulation failure requiring rewinding. Professional diagnosis is required to safely open the drive enclosure, test internal current sensors, or replace the power board. Working inside a VFD without proper discharge procedures and PPE can result in lethal shock even after power is removed. If the motor needs rewinding or replacement, an industrial motor shop should perform the work to match the original specifications and maintain UL or CE compliance.
 
 **Rough cost:** A pro service call runs about $200-500 for motor megohm testing, cable replacement, or drive repair.
+
+## See Also
+
+- [Danfoss FC302 AL-134 - Causes & Fix](/posts/danfoss-fc302-vfd-al-134-fault-code/)
+- [Danfoss FC302 AL-97 - Causes & Fix](/posts/danfoss-fc302-vfd-al-97-fault-code/)
+- [Danfoss FC302 AL-149 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-149-fault-code/)
+- [Danfoss FC302 AL-147 - Causes & Fix](/posts/danfoss-fc302-vfd-al-147-fault-code/)

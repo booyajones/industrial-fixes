@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if you are not trained to work inside high-voltage equipment. Even after disconnecting power, the DC link capacitors can hold a lethal charge for several minutes. A technician will safely measure DC bus voltage, test rectifier diodes and IGBTs, and replace the power board or capacitor bank if needed. Also call a pro if incoming power issues require work in the building's main distribution panel or if the drive is part of a critical process that cannot tolerate downtime during troubleshooting.
 
 **Rough cost:** A pro service call runs about $200-600.
+
+## See Also
+
+- [Danfoss FC-302 Alarm 12 — Overcurrent Fix](/posts/danfoss-fc302-alarm-12/)
+- [Danfoss FC302 ALARM 37 - Causes & Fix](/posts/danfoss-fc302-alarm-37-fault-code/)
+- [Danfoss FC302 Alarm 47 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-47-fault-code/)
+- [Danfoss VLT AL 4 Fault - Causes & Fix](/posts/danfoss-vlt-vfd-al-4-fault-code/)

@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician if you are not comfortable working with the outdoor unit, if you do not own a multimeter or have no experience testing electrical components, or if the thermistor tests good and the fault points to the outdoor PCB. Refrigerant-system work and control-board replacement require EPA certification and specialized tools. A technician will test the sensor, verify wiring continuity, and replace the correct component. If you replace the thermistor yourself and the error persists, professional diagnostics of the PCB are needed to avoid unnecessary parts swaps.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [Daikin VRV System Error Codes: Complete Guide](/posts/daikin-vrv-error-codes/)
+- [Daikin H9 Error Code - Causes & Fix](/posts/daikin-heat-pump-h9-error-code/)
+- [Daikin U0 Error Code - Causes & Fix](/posts/daikin-heat-pump-u0-error-code/)
+- [Daikin A7 Error Code - Causes & Fix](/posts/daikin-mini-split-a7-error-code/)

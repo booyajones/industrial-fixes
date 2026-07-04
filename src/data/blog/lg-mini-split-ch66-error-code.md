@@ -50,3 +50,10 @@ CH66 does not appear in LG's published fault code tables for standard mini split
 ## When to Call a Pro
 
 Call a certified LG technician immediately if CH66 appears and you cannot locate the code in your service manual. Inverter and DC power-stage diagnostics require specialized meters, knowledge of high-voltage DC circuits, and access to model-specific fault trees. Misdiagnosis can lead to expensive part swaps or safety hazards. A qualified tech can retrieve the exact code definition from LG's internal database, perform the correct voltage and resistance tests, and order the right board or compressor for your chassis.
+
+## See Also
+
+- [LG EID Error Code - Causes & Fix](/posts/lg-refrigerator-eid-error-code/)
+- [LG Oven F6 Error Code - Causes & Fix](/posts/lg-oven-f6-error-code/)
+- [LG Dryer Won't Stop - Causes & Fix](/posts/lg-dryer-wont-stop/)
+- [LG Washer Won't Fill with Water - Causes & Fix](/posts/lg-washer-wont-fill-with-water/)
