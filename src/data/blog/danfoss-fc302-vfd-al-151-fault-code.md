@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if reseating and verifying the option card does not clear the alarm, or if the drive continues to show Alarm 15 with no option card installed. Replacing the logic board or control PCB requires knowledge of high-voltage DC bus discharge procedures, proper grounding, and firmware configuration. A technician will also use diagnostic software to read detailed fault logs and verify that the drive's internal communication bus is functioning correctly. If the displayed code is actually Alarm 13 or 14 (Overcurrent or No Motor), call a pro immediately, as those faults involve motor winding tests, cable megohm testing, and potential IGBT or power board replacement that require specialized equipment and safety protocols.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Danfoss FC302 AL-107 Fault Code - Causes & Fix](/posts/danfoss-fc302-vfd-al-107-fault-code/)
+- [Danfoss FC302 Alarm 42 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-42-fault-code/)
+- [Danfoss FC302 VFD AL-127 - Causes & Fix](/posts/danfoss-fc302-vfd-al-127-fault-code/)
+- [Danfoss FC302 AL-157 - Causes & Fix](/posts/danfoss-fc302-vfd-al-157-fault-code/)

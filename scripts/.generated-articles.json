@@ -5891,6 +5891,126 @@
     "whirlpool-dryer-l2-error-code": {
       "topic": "Whirlpool dryer L2 error code",
       "date": "2026-07-04"
+    },
+    "whirlpool-dryer-f02-error-code": {
+      "topic": "Whirlpool dryer F02 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f20-error-code": {
+      "topic": "Whirlpool dryer F20 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f26-error-code": {
+      "topic": "Whirlpool dryer F26 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f28-error-code": {
+      "topic": "Whirlpool dryer F28 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f29-error-code": {
+      "topic": "Whirlpool dryer F29 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f30-error-code": {
+      "topic": "Whirlpool dryer F30 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f31-error-code": {
+      "topic": "Whirlpool dryer F31 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f50-error-code": {
+      "topic": "Whirlpool dryer F50 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f70-error-code": {
+      "topic": "Whirlpool dryer F70 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f71-error-code": {
+      "topic": "Whirlpool dryer F71 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f72-through-f78-error-code": {
+      "topic": "Whirlpool dryer F72 through F78 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f9-e2-error-code": {
+      "topic": "Whirlpool dryer F9 E2 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-fc-e1-error-code": {
+      "topic": "Whirlpool dryer FC E1 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f1-e1-error-code": {
+      "topic": "Whirlpool dryer F1 E1 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f1-e3-error-code": {
+      "topic": "Whirlpool dryer F1 E3 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f1-e4-error-code": {
+      "topic": "Whirlpool dryer F1 E4 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f1-e5-error-code": {
+      "topic": "Whirlpool dryer F1 E5 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f2-e1-error-code": {
+      "topic": "Whirlpool dryer F2 E1 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f2-e2-error-code": {
+      "topic": "Whirlpool dryer F2 E2 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f2-e4-error-code": {
+      "topic": "Whirlpool dryer F2 E4 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f2-e5-error-code": {
+      "topic": "Whirlpool dryer F2 E5 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f3-e1-error-code": {
+      "topic": "Whirlpool dryer F3 E1 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f3-e2-error-code": {
+      "topic": "Whirlpool dryer F3 E2 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f3-e3-error-code": {
+      "topic": "Whirlpool dryer F3 E3 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f3-e4-error-code": {
+      "topic": "Whirlpool dryer F3 E4 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f3-e5-error-code": {
+      "topic": "Whirlpool dryer F3 E5 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f4-e1-error-code": {
+      "topic": "Whirlpool dryer F4 E1 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f4-e3-error-code": {
+      "topic": "Whirlpool dryer F4 E3 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f4-e4-error-code": {
+      "topic": "Whirlpool dryer F4 E4 error code",
+      "date": "2026-07-05"
+    },
+    "whirlpool-dryer-f6-e1-error-code": {
+      "topic": "Whirlpool dryer F6 E1 error code",
+      "date": "2026-07-05"
     }
   }
 }

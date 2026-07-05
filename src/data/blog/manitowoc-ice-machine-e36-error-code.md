@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a certified refrigeration technician if you are not comfortable working with electrical components, if cleaning the condenser and reseating connectors does not clear the error, or if you lack a multimeter and service manual to test sensors. Refrigeration systems operate under pressure and require specialized tools and EPA-compliant handling of refrigerant. A technician can accurately diagnose sensor faults, control board failures, and refrigerant-side issues that a homeowner cannot safely address. Professional service is also recommended if the machine is under warranty or if you need to document repairs for health-department compliance.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Manitowoc Indigo NXT Error Code 8 - What It Means and How to Fix It](/posts/manitowoc-indigo-nxt-error-code-8/)
+- [Manitowoc E33 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e33-error-code/)
+- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
+- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)

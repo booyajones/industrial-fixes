@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Danfoss-authorized service provider if you are not trained in VFD safety procedures, if the fault persists after reseating and verifying the option card, or if you need to update firmware using MCT 10 software and lack the tools or training. High-voltage work inside the drive requires lockout/tagout and capacitor discharge procedures. A technician can verify option card compatibility, perform firmware updates, and replace the logic board if the hardware check is mis-flagging. Do not attempt to measure or modify the logic board slot pins without a schematic and proper test equipment.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Danfoss FC302 Alarm 11 - DC Voltage Too Low Causes & Fix](/posts/danfoss-fc302-vfd-al-110-fault-code/)
+- [Danfoss VFD Fault UL — Causes & Fix](/posts/danfoss-vfd-fault-ul/)
+- [Danfoss FC302 Alarm AL 29 — Causes & Fix](/posts/danfoss-fc302-fault-al-29/)
+- [Danfoss FC302 AL-101 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-101-fault-code/)

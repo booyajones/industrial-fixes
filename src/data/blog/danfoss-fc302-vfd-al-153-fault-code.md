@@ -81,3 +81,10 @@ Answer these to narrow it down fast.
 Call a qualified technician or Danfoss service partner if you are not trained to work on VFDs or if AL-15 persists after reseating the card and verifying compatibility. High-voltage DC bus capacitors inside the drive can hold lethal charge even after mains power is removed. Professionals have the tools to safely discharge the bus, verify firmware versions, and access Danfoss technical support for advanced diagnostics. If the logic board needs replacement, the new board may require parameter cloning or reconfiguration, which is best handled by someone familiar with FC302 programming and fieldbus setup.
 
 **Rough cost:** A pro service call runs about $150-400 for service call and card replacement or logic board swap.
+
+## See Also
+
+- [Danfoss VLT AL 4 Fault - Causes & Fix](/posts/danfoss-vlt-vfd-al-4-fault-code/)
+- [Danfoss FC302 VFD Alarm 33 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-33-fault-code/)
+- [Danfoss FC302 AL-130 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-130-fault-code/)
+- [Danfoss FC302 AL-108 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-108-fault-code/)

@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a certified ice-machine technician if you are unfamiliar with refrigeration equipment, lack a multimeter and service manual, or if the error persists after replacing the sensor and inspecting wiring. Refrigeration circuits operate under pressure and require specialized tools and EPA certification for refrigerant work. A technician can also diagnose control-board faults that are not apparent from simple resistance checks and can verify that the machine returns to safe, compliant operation.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Manitowoc E02 Error Code — Long Harvest Cycle Fix](/posts/manitowoc-e02-error-code/)
+- [Manitowoc Ice Machine Error Code 7 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-7/)
+- [Manitowoc ID-0322 Error Codes — Fix Guide](/posts/manitowoc-id-0322-error-codes/)
+- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)

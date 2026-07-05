@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician if you cannot retrieve the exact fault behind A173 from your control, if gas pressure measurement or adjustment is required, or if the ignition sequence fails after you have cleaned the ignitor and flame sensor. Gas appliance work demands proper combustion testing, pressure regulation, and venting knowledge to avoid carbon monoxide hazards and code violations. A qualified technician will use a manometer, combustion analyzer, and your model's service manual to diagnose the root cause, test each component in the manufacturer's recommended order, and verify safe operation after repair.
 
 **Rough cost:** A pro service call runs about $150–400.
+
+## See Also
+
+- [Weil-McLain Boiler Error Code E10 — Low Water Pressure Fix](/posts/weil-mclain-e10-low-pressure/)
+- [Weil-McLain Boiler A120 Error - Causes & Fix](/posts/weil-mclain-boiler-a120-error-code/)
+- [Weil-McLain A57 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a57-error-code/)
+- [Weil-McLain Boiler A107 Error - Causes & Fix](/posts/weil-mclain-boiler-a107-error-code/)

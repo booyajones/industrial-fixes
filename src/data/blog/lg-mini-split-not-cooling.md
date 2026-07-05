@@ -70,3 +70,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a professional if the evaporator coil remains frozen after thawing and correcting airflow issues, if the compressor will not start even with power confirmed, or if you suspect low refrigerant or a refrigerant leak. LG explicitly recommends technician service for refrigerant-related faults. Also call for help if the unit displays an error code, if electrical connections or capacitors need testing or replacement, or if diagnostic steps do not restore normal cooling. After any restart the unit may wait about three minutes before operating because of a built-in protection device.
+
+## See Also
+
+- [LG Mini Split CH06 Error Code - Causes & Fix](/posts/lg-mini-split-ch06-error-code/)
+- [LG Refrigerator Water Filter Replacement - Signs & How-To](/posts/lg-refrigerator-water-filter-replacement/)
+- [LG Microwave Buttons Not Working - Causes & Fix](/posts/lg-microwave-buttons-not-working/)
+- [LG CH48 Error Code - Causes & Fix](/posts/lg-mini-split-ch48-error-code/)

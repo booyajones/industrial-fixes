@@ -65,3 +65,10 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a licensed boiler technician if you do not have the service manual for your model, if the fault involves gas valve operation, flame sensing, or ignition components, or if the diagnostic steps require voltage or continuity measurements you are not comfortable performing. Weil-McLain boilers are pressurized hydronic systems that integrate gas controls, water flow, and electrical safety interlocks. Misdiagnosing a fault or replacing the wrong component can lead to unsafe operation, water damage, or carbon monoxide hazards. A qualified technician will have the correct manual, diagnostic tools, and access to genuine Weil-McLain parts with the proper warranty coverage. If the boiler is under warranty, using an authorized service provider is often required to preserve coverage.
+
+## See Also
+
+- [Weil-McLain A01 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a01-error-code/)
+- [Weil-McLain A164 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a164-error-code/)
+- [Weil-McLain Boiler A138 Error - Causes & Fix](/posts/weil-mclain-boiler-a138-error-code/)
+- [Weil-McLain A183 Error - Causes & Fix](/posts/weil-mclain-boiler-a183-error-code/)

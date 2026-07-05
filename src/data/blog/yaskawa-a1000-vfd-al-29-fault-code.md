@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if you cannot verify the exact fault code after power cycling and checking the fault history, if the drive is connected to complex PLC or SCADA systems that require custom programming knowledge, or if you confirm a CPF29 fault that requires control board replacement. Control board replacement involves working inside high-voltage equipment with stored energy in capacitors even after power is disconnected, and improper handling can cause electric shock or further damage to the drive. Additionally, if you lack a megohmmeter or experience with DC bus voltage testing, professional diagnosis is necessary to avoid misdiagnosing the fault and replacing expensive parts unnecessarily. If the drive is under warranty or service contract, contact Yaskawa or your authorized service provider before opening the enclosure to avoid voiding coverage.
 
 **Rough cost:** A pro service call runs about $300-800 for control board replacement or drive unit replacement.
+
+## See Also
+
+- [Yaskawa GA800 E08 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e08-fault-code/)
+- [Yaskawa GA800 E03 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e03-fault-code/)
+- [Yaskawa GA800 A.122 Alarm - Causes & Fix](/posts/yaskawa-ga800-vfd-a-122-fault-code/)
+- [Yaskawa GA800 F020 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f020-fault-code/)

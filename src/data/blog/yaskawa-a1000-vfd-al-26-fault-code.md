@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if the fault persists after reseating connections and cycling power, if you see physical damage to the control board or option card, or if the drive displays CPF26 (which indicates a control board hardware failure requiring replacement). High-voltage work inside a VFD enclosure and firmware diagnostics require specialized training and safety equipment. A technician can also use an oscilloscope to verify encoder signal integrity and determine whether the fault lies in the encoder, the cable, or the drive itself. If your facility uses a third-party HMI or SCADA system that is displaying AL-26, ask the technician to identify the actual Yaskawa fault code from the drive's keypad to avoid chasing a mislabeled alarm.
 
 **Rough cost:** A pro service call runs about $300-800 for encoder cable and labor, $1,200-3,000 for control board or drive replacement.
+
+## See Also
+
+- [Yaskawa GA800 F029 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f029-fault-code/)
+- [Yaskawa GA800 A.124 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-124-fault-code/)
+- [Yaskawa GA800 E98 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e98-fault-code/)
+- [Yaskawa A1000 AL-11 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-11-fault-code/)

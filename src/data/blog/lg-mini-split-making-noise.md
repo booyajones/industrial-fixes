@@ -70,3 +70,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the noise is a loud hitting or high-frequency sound, if you find fan-to-cabinet contact you cannot correct by leveling the unit, or if the blower motor shows rough rotation or binding. Also call for refrigerant line work, compressor noise, or any noise that persists after cleaning and securing loose parts. LG's service guidance treats abnormal contact and motor noise as conditions requiring professional inspection and component replacement.
+
+## See Also
+
+- [LG Refrigerator Not Making Ice - Causes & Fix](/posts/lg-refrigerator-not-making-ice/)
+- [LG Mini Split Not Responding to Remote - Causes & Fix](/posts/lg-mini-split-not-responding-to-remote/)
+- [LG Mini Split CH10 Error Code — Causes & Fix](/posts/lg-mini-split-ch10-error-code/)
+- [LG Microwave Door Latch/Spring Replacement - Signs & How-To](/posts/lg-microwave-door-latch-lever-latch-spring-replacement/)

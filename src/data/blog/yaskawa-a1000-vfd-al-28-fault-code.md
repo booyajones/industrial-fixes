@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable working with high-voltage three-phase power or if you lack the proper test equipment to safely diagnose the drive and motor. A qualified electrician or VFD technician should handle all work inside the drive enclosure, any replacement of the drive unit, and verification that the DC bus voltage and output waveforms are within specification after repair. If the motor or cable is damaged and you are unsure of proper sizing or installation, a professional can make sure the replacement matches your application's voltage, horsepower, and duty cycle requirements. Professional service is also recommended if the drive is part of a critical industrial process where downtime or incorrect repairs could cause safety hazards or production loss.
 
 **Rough cost:** A pro service call runs about $200-600 depending on whether motor or drive requires replacement.
+
+## See Also
+
+- [Yaskawa GA800 E12 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e12-fault-code/)
+- [Yaskawa GA800 E18 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e18-fault-code/)
+- [Yaskawa GA800 E30 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e30-fault-code/)
+- [Yaskawa GA800 CPF24 - Causes & Fix](/posts/yaskawa-ga800-vfd-f024-fault-code/)

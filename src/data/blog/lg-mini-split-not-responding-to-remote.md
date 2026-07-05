@@ -69,3 +69,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you have verified the remote works (LCD lights up, buttons click, and it operates another unit or you have tested a spare) but the indoor unit still does not respond. The tech will test the indoor unit's IR receiver, inspect the control board, and check for wiring or communication faults. If you are seeing a numeric error code on the indoor unit display along with the unresponsive remote, that points to a communication fault between indoor and outdoor units and requires professional diagnosis with the service manual and a multimeter.
+
+## See Also
+
+- [LG Range SE Error Code - Causes & Fix](/posts/lg-range-se-error-code/)
+- [LG Washer Cd Error Code - Causes & Fix](/posts/lg-washer-cd-error-code/)
+- [LG Mini Split Blowing Warm Air - Causes & Fix](/posts/lg-mini-split-blowing-warm-air/)
+- [LG Mini-Split CH38 Error Code - Causes & Fix](/posts/lg-mini-split-ch-38-error-code/)

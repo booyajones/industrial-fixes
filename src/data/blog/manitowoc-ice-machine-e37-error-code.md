@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a qualified commercial refrigeration technician if you are not comfortable working with electrical diagnostics or if the machine uses a refrigerant-circuit sensor that requires recovery and recharge. Professional service is also recommended when the fault persists after you have verified all connections and tested sensors, since control board replacement often requires firmware setup and may involve sealed-system work. Technicians have access to factory service bulletins, updated firmware, and specialized diagnostic tools that can pinpoint intermittent faults quickly.
 
 **Rough cost:** A pro service call runs about $180-400.
+
+## See Also
+
+- [Manitowoc Ice Machine E24 Error - Causes & Fix](/posts/manitowoc-ice-machine-e24-error-code/)
+- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
+- [Manitowoc E34 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e34-error-code/)
+- [Manitowoc E02 Error Code — Long Harvest Cycle Fix](/posts/manitowoc-e02-error-code/)

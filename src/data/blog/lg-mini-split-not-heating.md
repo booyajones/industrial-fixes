@@ -70,3 +70,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you suspect refrigerant loss, if an error code persists after wiring and sensor checks, or if the compressor or inverter board appears faulty. Refrigerant work requires EPA certification and specialized gauges. Communication faults, PCB replacement, and compressor diagnosis involve live voltage checks and precise component isolation that are safest left to a professional. If the outdoor unit hums but the compressor does not start, or if you measure incorrect line voltage or DC link voltage on the inverter board, professional diagnosis and repair are recommended.
+
+## See Also
+
+- [LG Washer Leaking Water - Causes & Fix](/posts/lg-washer-leaking-water/)
+- [LG Mini Split CH33 Error Code - Causes & Fix](/posts/lg-mini-split-ch33-error-code/)
+- [LG Range F5 Error Code - Causes & Fix](/posts/lg-range-f5-error-code/)
+- [LG Range F1 Error Code - Causes & Fix](/posts/lg-range-f1-error-code/)

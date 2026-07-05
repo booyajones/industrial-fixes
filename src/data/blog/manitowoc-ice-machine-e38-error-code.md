@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a certified Manitowoc technician if you are uncomfortable working with electrical connections, if the wiring diagram is not available, or if you have replaced sensors and cleaned all connections but the E38 code returns. Refrigeration equipment often requires specialized tools and knowledge of refrigerant systems, and an incorrect diagnosis can lead to expensive part replacements that do not solve the problem.
 
 **Rough cost:** DIY runs about $30-120 in parts, 30-90 min. A pro service call runs about $150-350.
+
+## See Also
+
+- [Manitowoc NEO Ice Machine Error Code Guide — Causes & Fixes](/posts/manitowoc-neo-error-codes/)
+- [Manitowoc E02 Error Code — Long Harvest Cycle Fix](/posts/manitowoc-e02-error-code/)
+- [Manitowoc Ice Machine E04 Error Code — Causes & Fix](/posts/manitowoc-ice-machine-error-code-e04/)
+- [Manitowoc Ice Machine Error Code 9 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-9/)

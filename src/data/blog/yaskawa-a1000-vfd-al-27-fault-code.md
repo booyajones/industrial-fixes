@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or VFD technician if you are not trained in high-voltage power systems or if you cannot safely isolate and lock out the drive. The work involves opening the VFD enclosure and motor peckerhead, both of which may expose you to lethal voltage even after shutdown if capacitors are not discharged. Professionals have the tools to perform safe continuity and signal testing, swap option cards without damaging the control board, and match the correct encoder specifications to your motor and application. If the encoder itself is bad, replacing it often requires motor disassembly and alignment, which is best left to a motor shop or experienced technician.
 
 **Rough cost:** A pro service call runs about $200-500 depending on whether the fix is rewiring, an option card, or encoder replacement.
+
+## See Also
+
+- [Yaskawa GA800 A.140 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-140-fault-code/)
+- [Yaskawa GA800 Uv1 Fault — DC Undervoltage Fix](/posts/yaskawa-ga800-error-uv1/)
+- [Yaskawa GA800 F004 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f004-fault-code/)
+- [Yaskawa GA800 F040 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f040-fault-code/)

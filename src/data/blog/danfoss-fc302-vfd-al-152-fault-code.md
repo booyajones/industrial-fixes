@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Danfoss service center if you are not comfortable working inside the drive enclosure, if the fault persists after reseating the card and updating firmware, or if you need to replace the logic board. High-voltage components remain energized inside the drive even after power-down until capacitors fully discharge. Technicians have the proper discharge tools, firmware update equipment, and replacement boards to diagnose logic board failures and make sure the option card is correctly configured for your application. If the drive is still under warranty, contact Danfoss support before opening the unit to avoid voiding coverage.
 
 **Rough cost:** A pro service call runs about $150-400 depending on card or logic board replacement.
+
+## See Also
+
+- [Danfoss FC302 VFD AL-119 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-119-fault-code/)
+- [Danfoss FC302 Alarm 81 - Causes & Fix](/posts/danfoss-fc302-vfd-al-81-fault-code/)
+- [Danfoss FC302 AL-101 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-101-fault-code/)
+- [Danfoss FC302 VFD ALARM 38 - Causes & Fix](/posts/danfoss-fc302-vfd-al-102-fault-code/)

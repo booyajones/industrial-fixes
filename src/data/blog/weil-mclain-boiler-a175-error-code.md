@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you cannot find A175 in your model manual, if the error history shows multiple simultaneous faults, or if the boiler locks out again immediately after you restore power and reset. Gas-fired boiler work requires proper combustion testing and code compliance. A technician has the manometer, flue-gas analyzer, and multimeter to trace intermittent wiring faults, test flame rectification current, verify gas pressure, and replace control boards or sensors safely. Warranty claims with Weil-McLain require the failed part description and part number, so professional documentation protects your coverage. If you smell gas, hear a continuous hissing, or see water pooling under the boiler, shut off gas and power at once and call for emergency service.
 
 **Rough cost:** A pro service call runs about $200-450.
+
+## See Also
+
+- [Weil-McLain E04 Error Code — Causes & Fix](/posts/weil-mclain-e04-error-code/)
+- [Weil-McLain A116 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a116-error-code/)
+- [Weil-McLain A174 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a174-error-code/)
+- [Weil-McLain A04 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a04-error-code/)

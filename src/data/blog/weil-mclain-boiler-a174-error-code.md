@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician for A174 diagnosis and repair. The code itself is a history index, not a definitive fault, so proper diagnosis requires navigating the control menu, interpreting model-specific fault tables, and testing gas-train components, flame-sensing circuits, and safety devices with calibrated tools. Gas valve, ignition, and combustion repairs involve working with natural gas or propane and must comply with local codes. Temperature sensors and thermistors require resistance testing and wiring checks that are easy to misinterpret without a manual and multimeter. If you lack experience with hydronic heating systems, gas appliances, or electronic controls, professional service will be faster, safer, and more reliable than trial-and-error part replacement.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A93 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a93-error-code/)
+- [Weil-McLain A67 Error - Causes & Fix](/posts/weil-mclain-boiler-a67-error-code/)
+- [Weil-McLain Boiler A59 Error - Causes & Fix](/posts/weil-mclain-boiler-a59-error-code/)
+- [Weil-McLain A11 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a11-error-code/)

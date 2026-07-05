@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if the exact fault code cannot be identified from the display or manual, if the drive shows SC (short circuit) and motor winding tests reveal no faults (indicating internal IGBT or power module failure), if the control board requires replacement (which involves reprogramming parameters and verifying high-voltage connections), or if you are not comfortable working around 480V three-phase power systems. Professional diagnosis is also recommended if multiple fault codes appear in the history log or if the drive trips repeatedly after clearing the fault, as this may indicate a failing power module or damaged output circuit that requires bench testing and specialized repair.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Yaskawa GA800 A.123 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-123-fault-code/)
+- [Yaskawa GA800 F044 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f044-fault-code/)
+- [Yaskawa GA800 E02 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e02-fault-code/)
+- [Yaskawa GA800 LF Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f047-fault-code/)

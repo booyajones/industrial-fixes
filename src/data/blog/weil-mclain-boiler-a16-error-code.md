@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified boiler technician if you are not comfortable working with low-voltage control wiring or entering the boiler's parameter menu. A technician can quickly verify sensor resistance, trace wiring faults, and configure the system to exempt the sensor if it is not required for your installation. If you have replaced the sensor and wiring and the A-16 code persists, the control module input may be damaged and requires professional diagnosis and replacement. Any work involving gas supply pressure (3.5-11 inches w.c.) or system water pressure (12-15 PSI) also requires a licensed professional.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [Weil-McLain Boiler A123 Error - Causes & Fix](/posts/weil-mclain-boiler-a123-error-code/)
+- [Weil-McLain Boiler A156 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a156-error-code/)
+- [Weil-McLain A30 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a30-error-code/)
+- [Weil-McLain Boiler A09 Error - Causes & Fix](/posts/weil-mclain-boiler-a09-error-code/)

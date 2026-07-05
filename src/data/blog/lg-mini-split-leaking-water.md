@@ -70,3 +70,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the coil freezes repeatedly after you have cleaned the filter and restored drainage, or if you suspect low refrigerant or a metering device problem. Refrigerant diagnostics require pressure and temperature measurements and EPA-certified handling. Also call a pro if the drain pan is damaged and requires removal of the indoor unit for replacement, or if you cannot safely access the drain line or electrical components.
+
+## See Also
+
+- [LG Dryer Won't Stop - Causes & Fix](/posts/lg-dryer-wont-stop/)
+- [LG Dryer tE2 Error Code - Causes & Fix](/posts/lg-dryer-te2-error-code/)
+- [LG Mini Split CH40 Error Code - Causes & Fix](/posts/lg-mini-split-ch40-error-code/)
+- [LG Refrigerator CF Error Code - Causes & Fix](/posts/lg-refrigerator-cf-error-code/)

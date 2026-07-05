@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a Danfoss-certified VFD technician if the alarm persists with the motor disconnected, which indicates internal drive failure. Professional help is also needed if you lack the metering equipment to safely measure motor winding resistance and DC bus voltage, or if internal component testing reveals failed IGBT modules or DC bus capacitors. High-voltage work inside the drive requires specialized training and safety procedures. If you are unfamiliar with VFD parameter programming or do not have access to the FC302 Operating Instructions for your specific drive model, a technician can verify motor settings and run diagnostics using Danfoss MCT software.
 
 **Rough cost:** A pro service call runs about $300-900.
+
+## See Also
+
+- [Danfoss FC302 VFD Alarm 46 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-46-fault-code/)
+- [Danfoss FC302 AL-64 - Causes & Fix](/posts/danfoss-fc302-vfd-al-64-fault-code/)
+- [Danfoss FC302 ALARM 45 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-45-fault-code/)
+- [Danfoss FC302 AL-111 - Causes & Fix](/posts/danfoss-fc302-vfd-al-111-fault-code/)
