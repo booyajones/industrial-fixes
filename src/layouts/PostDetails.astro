@@ -22,6 +22,7 @@ import NoBuyVerdict from "@/components/NoBuyVerdict.astro";
 import { getPath } from "@/utils/getPath";
 import { authors } from "../data/authors";
 import { equipmentCategories } from "@/data/equipmentCategories";
+import { NOINDEX_SLUGS } from "@/data/noindex-slugs";
 import { slugifyStr } from "@/utils/slugify";
 import IconChevronLeft from "@/assets/icons/IconChevronLeft.svg";
 import IconChevronRight from "@/assets/icons/IconChevronRight.svg";
@@ -192,6 +193,9 @@ const layoutProps = {
   canonicalURL,
   ogImage,
   scrollSmooth: true,
+  // Quality-consolidation: zero-demand programmatic pages are noindexed so
+  // Google/AdSense evaluate the ~1,185-page quality core, not a 5,680-page farm.
+  noindex: NOINDEX_SLUGS.has(post.id),
 };
 
 /* ========== Prev/Next Posts ========== */

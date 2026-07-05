@@ -3,7 +3,11 @@
   Referrer-Policy: strict-origin-when-cross-origin
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
   Permissions-Policy: camera=(), microphone=(), geolocation=(), interest-cohort=()
-  X-Robots-Tag: index, follow
+  # No blanket X-Robots-Tag here: index/noindex is decided PER PAGE by the
+  # <meta name="robots"> tag in Layout.astro. A site-wide "index, follow" HTTP
+  # header would OVERRIDE the per-page noindex on the ~4,495 low-demand posts
+  # (quality-consolidation, 2026-07-05) and keep them indexed — defeating it.
+  # Indexable is the default with no header, so kept pages are unaffected.
   X-Frame-Options: DENY
   # Report-only CSP: observes violations without blocking (the site uses inline
   # scripts + AdSense/GA4/Skimlinks/Awin). Promote to an enforcing

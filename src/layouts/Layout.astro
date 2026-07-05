@@ -194,7 +194,16 @@ const structuredData = pubDatetime
     />
 
     <meta name="theme-color" content="#d97706" />
-    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    {
+      /* Only emit the index directive when the page is NOT noindexed — otherwise
+         a noindexed page would carry conflicting robots meta (noindex + index). */
+      !noindex && (
+        <meta
+          name="robots"
+          content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+        />
+      )
+    }
 
     {
       // If PUBLIC_GOOGLE_SITE_VERIFICATION is set in the environment variable,

@@ -12,6 +12,7 @@ import {
 } from "@shikijs/transformers";
 import { transformerFileName } from "./src/utils/transformers/fileName";
 import { SITE } from "./src/config";
+import { NOINDEX_SLUGS } from "./src/data/noindex-slugs";
 
 // https://astro.build/config
 export default defineConfig({
@@ -25,6 +26,10 @@ export default defineConfig({
         if (!SITE.showArchives && page.endsWith("/archives")) return false;
         // Match https://errorcodefixes.com/posts/<digits>/ but keep /posts/<slug>/
         if (/\/posts\/\d+\/?$/.test(page)) return false;
+        // Quality-consolidation: keep noindexed zero-demand posts OUT of the
+        // sitemap so Google crawls the quality core, not the 5,680-page farm.
+        const m = page.match(/\/posts\/([^/]+)\/?$/);
+        if (m && NOINDEX_SLUGS.has(m[1])) return false;
         return true;
       },
     }),
