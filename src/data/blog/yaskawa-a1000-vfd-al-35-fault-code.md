@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified technician or an industrial controls specialist for CPF35. This fault requires working inside the drive enclosure with high-voltage DC bus capacitors present even after input power is removed. Replacing the control board demands careful handling of static-sensitive components, proper grounding, and verification that the power section is not also damaged. If you lack experience with VFD repair or do not have the tools to safely discharge and test high-voltage circuits, professional service is the safer and faster route. A technician can also review your facility's power quality and recommend surge protection if voltage spikes contributed to the failure.
 
 **Rough cost:** A pro service call runs about $400-1200 for control board replacement or drive swap.
+
+## See Also
+
+- [Yaskawa A1000 oFA34 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-34-fault-code/)
+- [Yaskawa A1000 AL-08 - Causes & Fix](/posts/yaskawa-a1000-vfd-al-08-fault-code/)
+- [Yaskawa A1000 oL1 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol1-fault-code/)
+- [Yaskawa GA800 E29 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e29-fault-code/)

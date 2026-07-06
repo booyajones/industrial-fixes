@@ -71,3 +71,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 If you are not comfortable working inside a 240-volt appliance, call a technician before opening any panels. If you have tested the broil element for continuity, inspected all visible wiring, and the problem persists, the control board or internal thermostat is the likely culprit and professional diagnosis with a schematic and voltage meter is the next step. LG recommends service if basic troubleshooting does not resolve heating performance issues. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [LG Range SE Error Code - Causes & Fix](/posts/lg-range-se-error-code/)
+- [LG Mini-Split CH21 Error Code — Outdoor Unit High Pressure](/posts/lg-mini-split-ch21-error-code/)
+- [LG Dryer HS Error Code - Causes & Fix](/posts/lg-dryer-hs-error-code/)
+- [LG Microwave F-11 Error Code - Causes & Fix](/posts/lg-microwave-f-11-error-code/)

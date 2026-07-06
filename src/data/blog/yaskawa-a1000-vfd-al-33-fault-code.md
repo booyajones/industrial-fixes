@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or VFD technician if you are not comfortable working around high-voltage industrial equipment. This fault requires safe lockout/tagout, testing with the DC bus charged down, and interpreting continuity measurements on motor power circuits. If the cable and terminations test good but the fault persists, the repair involves replacing internal drive boards or the entire VFD, which requires expertise in drive commissioning, parameter backup, and proper grounding practices. Incorrect wiring or board replacement can damage the drive or motor and create arc-flash hazards.
 
 **Rough cost:** A pro service call runs about $150-400 for cable replacement or terminal repair, $600-1,200 if control board replacement is needed.
+
+## See Also
+
+- [Yaskawa GA800 VFD F038/oS Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f038-fault-code/)
+- [Yaskawa GA800 E08 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e08-fault-code/)
+- [Yaskawa GA800 E51 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e51-fault-code/)
+- [Yaskawa GA800 E02 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e02-fault-code/)

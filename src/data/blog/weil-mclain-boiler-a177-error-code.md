@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician if you cannot find the A177 code in your model's service documentation, if the boiler has no gas supply and you are not trained to work on gas piping or meters, or if you have cleaned the sensor and verified the ignitor but the lockout persists. Gas-fired boiler work involves combustion safety, gas-leak risk, and carbon-monoxide hazards. A qualified tech has calibrated combustion analyzers, manometers for gas-pressure measurement, and the training to diagnose control-module logic and flame-proving circuits safely. If the fault involves the main control board, gas valve, or burner assembly, professional replacement and combustion testing are required to restore safe operation and maintain any remaining warranty coverage.
 
 **Rough cost:** A pro service call runs about $200-450.
+
+## See Also
+
+- [Weil-McLain A140 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a140-error-code/)
+- [Weil-McLain Boiler A25 Error - Causes & Fix](/posts/weil-mclain-boiler-a25-error-code/)
+- [Weil-McLain Boiler A143 Error - Causes & Fix](/posts/weil-mclain-boiler-a143-error-code/)
+- [Weil-McLain A63 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a63-error-code/)

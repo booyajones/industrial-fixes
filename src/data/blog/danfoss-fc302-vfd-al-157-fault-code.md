@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if the alarm persists after a power cycle and basic wiring checks. Internal faults on the FC302 typically require oscilloscope diagnostics, firmware tools, or replacement of the control board and gate driver circuits. High DC bus voltages (up to 800 VDC on 480V models) remain inside the drive even after AC power is removed, and contact with live bus bars can be fatal. Do not open the drive enclosure or attempt board-level repair unless you are trained in high-voltage industrial equipment and have proper PPE and lockout procedures. If the drive is under warranty or service contract, contact Danfoss or your distributor before performing any invasive diagnostics.
 
 **Rough cost:** A pro service call runs about $300-800.
+
+## See Also
+
+- [Danfoss FC302 Alarm 11 - DC Voltage Too Low Causes & Fix](/posts/danfoss-fc302-vfd-al-110-fault-code/)
+- [Danfoss FC302 AL-141 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-141-fault-code/)
+- [Danfoss RX Controller Fault Codes — Troubleshooting Guide](/posts/danfoss-rx-controller-fault/)
+- [Danfoss FC302 Alarm 31 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-31-fault-code/)

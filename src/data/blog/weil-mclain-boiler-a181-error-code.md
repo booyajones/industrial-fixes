@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician for any Weil-McLain fault code that you cannot match to a specific table in your manual, or whenever the repair involves gas piping, combustion tuning, sealed-system pressure testing, or control-board replacement. Weil-McLain directs all diagnostics beyond basic resets and visual checks to qualified professionals who can use calibrated meters, combustion analyzers, and the manufacturer's service bulletins. If you have added system pressure and the fault returns, or if the diagnostics menu shows multiple unrelated faults, a technician should inspect for wiring harness damage, control failure, hidden leaks, or air-binding in the system. Warranty service and part verification also require a professional to submit the CP number and service history to Weil-McLain.
 
 **Rough cost:** A pro service call runs about $200-400.
+
+## See Also
+
+- [Weil-McLain A04 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a04-error-code/)
+- [Weil-McLain A91 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a91-error-code/)
+- [Weil-McLain A157 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a157-error-code/)
+- [Weil-McLain A99 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a99-error-code/)

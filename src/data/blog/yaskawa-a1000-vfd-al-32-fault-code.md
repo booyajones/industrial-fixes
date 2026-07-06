@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician for this repair. The A1000 drive operates at high DC bus voltages (approximately 145% of line-to-line input voltage, around 650 Vdc for a 400 V line). Working inside the drive requires lockout-tagout procedures, verification that the DC bus is below 50 Vdc, and familiarity with communication option cards and control board replacement. Incorrect handling can result in electric shock or damage to the drive and connected equipment.
 
 **Rough cost:** A pro service call runs about $200-800 depending on whether the option card or control board needs replacement.
+
+## See Also
+
+- [Yaskawa GA800 A.109 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-109-fault-code/)
+- [Yaskawa GA800 E34 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e34-fault-code/)
+- [Yaskawa GA800 E95 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e95-fault-code/)
+- [Yaskawa GA800 E46 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e46-fault-code/)

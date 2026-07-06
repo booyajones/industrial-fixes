@@ -70,3 +70,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you are not comfortable working with line voltage, if you do not have a multimeter to measure supply and DC link voltages, or if the unit shows good power and communication but still will not start. Inverter board diagnostics, compressor insulation testing, and refrigerant-side work all require specialized tools and EPA certification. If CH12 persists after you have reseated the thermistor connector, a tech will need to measure sensor resistance and trace the circuit to the control board. Any work on the inverter PCB or compressor terminals should be performed by a licensed professional to avoid shock and equipment damage.
+
+## See Also
+
+- [LG Microwave Inverter Board Replacement - Signs & How-To](/posts/lg-microwave-inverter-board-inverter-models-replacement/)
+- [LG Microwave F16 Error - Causes & Fix](/posts/lg-microwave-f16-error-code/)
+- [LG Dryer E1 Error Code - Causes & Fix](/posts/lg-dryer-e1-error-code/)
+- [LG Microwave E10 Error Code - Causes & Fix](/posts/lg-microwave-e10-error-code/)

@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified technician immediately if you are not trained in high-voltage DC systems. The Yaskawa A1000 DC bus holds lethal voltage (300-800 VDC depending on input) even after input power is removed, and discharge can take several minutes. Any work inside the drive enclosure requires lockout/tagout, proper PPE, and a clear understanding of capacitor discharge procedures. If you lack a multimeter, oscilloscope, or experience with IGBT testing, do not attempt this repair. A technician will safely diagnose the fault, perform diode checks, and replace the correct module without risking electric shock or further damage to the drive.
 
 **Rough cost:** A pro service call runs about $300-800.
+
+## See Also
+
+- [Yaskawa GA800 E26 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e26-fault-code/)
+- [Yaskawa GA800 E08 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e08-fault-code/)
+- [Yaskawa GA800 Er-04 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f049-fault-code/)
+- [Yaskawa GA800 E04 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e04-fault-code/)

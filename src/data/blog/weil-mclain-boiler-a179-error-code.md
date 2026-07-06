@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician immediately if you cannot locate the A179 definition in your model's manual, if the fault persists after restoring system pressure and reseating connectors, or if you are uncomfortable working with gas supply, electrical control boards, or high-voltage wiring. Boiler diagnostics often require a multimeter to test sensor resistance and voltage, a combustion analyzer to verify ignition and flame quality, and specialized knowledge of the control platform. Incorrect troubleshooting can lead to unsafe operation, carbon monoxide risk, or damage to the heat exchanger. A qualified pro will retrieve the full fault history, test each sensor and switch against the manufacturer's specifications, and replace only the component that has actually failed.
 
 **Rough cost:** A pro service call runs about $150–400.
+
+## See Also
+
+- [Weil-McLain Boiler A64 Error - Causes & Fix](/posts/weil-mclain-boiler-a64-error-code/)
+- [Weil-McLain Boiler A139 Error - Causes & Fix](/posts/weil-mclain-boiler-a139-error-code/)
+- [Weil-McLain Boiler Error Code E01 — Lockout Fix](/posts/weil-mclain-e01-error-code/)
+- [Weil-McLain A118 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a118-error-code/)

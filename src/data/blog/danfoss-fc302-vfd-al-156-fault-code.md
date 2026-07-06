@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or controls technician if you are not comfortable working inside VFD enclosures, if high-voltage DC bus capacitors are involved, or if the drive's firmware update procedure is unfamiliar. A technician can safely discharge the capacitors, verify option card compatibility with test equipment, and access Danfoss service tools to read detailed fault logs. Also call a pro if you have replaced or reseated the card and updated firmware but AL-15 still appears, as the main logic board may need replacement or the drive may require factory-level diagnostics. Any work on three-phase power systems or VFD internal circuits should be performed by someone trained in industrial power electronics and familiar with arc-flash safety and lockout-tagout procedures.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Danfoss FC302 ALARM 53 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-53-fault-code/)
+- [Danfoss FC302 ALARM 30 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-30-fault-code/)
+- [Danfoss FC302 AL-94 - Causes & Fix](/posts/danfoss-fc302-vfd-al-94-fault-code/)
+- [Danfoss FC302 WARNING 77 - Causes & Fix](/posts/danfoss-fc302-vfd-al-77-fault-code/)

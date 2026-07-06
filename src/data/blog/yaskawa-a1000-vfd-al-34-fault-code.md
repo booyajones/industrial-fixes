@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified technician immediately. This fault involves high-voltage DC bus capacitors that remain energized for minutes after power-off and can deliver lethal shock. Diagnosing communication faults requires safe discharge procedures, multimeter testing of control board voltages, and familiarity with Yaskawa parameter menus. Incorrect wiring or option card installation can damage the drive permanently. If you lack VFD training or proper safety equipment, do not attempt this repair. A technician will safely discharge the bus, test each component in sequence, and replace only the failed part rather than guessing. Many cases turn out to be a simple loose connection that a trained eye spots in seconds, saving the cost of unnecessary parts.
 
 **Rough cost:** A pro service call runs about $200-600.
+
+## See Also
+
+- [Yaskawa GA800 A.120 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-120-fault-code/)
+- [Yaskawa GA800 A.128 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-128-fault-code/)
+- [Yaskawa A1000 FbL Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-fbl-fault-code/)
+- [Yaskawa GA800 E44 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e44-fault-code/)

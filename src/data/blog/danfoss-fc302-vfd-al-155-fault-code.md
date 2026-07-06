@@ -82,3 +82,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if you are not familiar with safely working inside motor drives. High-voltage DC bus capacitors can hold a lethal charge even after power is removed. A professional will use a discharge tool and multimeter to verify safe conditions before touching internal components. If you have reseated the card, updated firmware, and verified compatibility but the alarm persists, the technician will need to test the main control board and may require factory-level diagnostics or a replacement board programmed with your drive parameters. Also call a pro if you suspect the alarm is actually AL 13 and you need to measure three-phase input voltage, inspect rectifier diodes, or test DC bus capacitors, all of which involve high-voltage measurements and potential replacement of the power board.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Danfoss FC302 Alarm 52 - AMA Low Inom Causes & Fix](/posts/danfoss-fc302-vfd-alarm-52-fault-code/)
+- [Danfoss FC302 Alarm 81 - Causes & Fix](/posts/danfoss-fc302-vfd-al-81-fault-code/)
+- [Danfoss FC302 AL-158 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-158-fault-code/)
+- [Danfoss FC302 Alarm 74 - Causes & Fix](/posts/danfoss-fc302-vfd-al-74-fault-code/)

@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you are not comfortable working with line voltage, if the fault persists after re-seating connectors and verifying pump operation, or if you lack a multimeter to test sensor resistance. A technician can compare sensor readings against actual water temperature, perform control-board diagnostics, and check for combustion or limit-switch issues that may contribute to real overheating. Gas-fired boiler work often requires a licensed contractor in most jurisdictions, and attempting board-level repair without proper training can void warranties or create safety hazards.
 
 **Rough cost:** A pro service call runs about $200-400.
+
+## See Also
+
+- [Weil-McLain A181 Error - Causes & Fix](/posts/weil-mclain-boiler-a181-error-code/)
+- [Weil-McLain A112 Error - Causes & Fix](/posts/weil-mclain-boiler-a112-error-code/)
+- [Weil-McLain Boiler A156 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a156-error-code/)
+- [Weil-McLain Boiler A158 Error - Causes & Fix](/posts/weil-mclain-boiler-a158-error-code/)

@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or automation technician if you are not trained to work on VFDs. This repair requires safe lockout-tagout procedures, discharging high-voltage capacitors, and verifying firmware compatibility. If you are uncomfortable opening the drive enclosure, handling option cards, or updating firmware, contact a Danfoss service partner or an authorized distributor. A technician can also rule out logic board faults and provide warranty support if the drive is still covered.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Danfoss FC302 AL-103 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-103-fault-code/)
+- [Danfoss FC302 WARNING 77 - Causes & Fix](/posts/danfoss-fc302-vfd-al-77-fault-code/)
+- [Danfoss FC302 W66 - Causes & Fix](/posts/danfoss-fc302-vfd-al-66-fault-code/)
+- [Danfoss FC302 AL-97 - Causes & Fix](/posts/danfoss-fc302-vfd-al-97-fault-code/)

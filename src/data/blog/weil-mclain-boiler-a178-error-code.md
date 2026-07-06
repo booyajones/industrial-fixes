@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified heating technician if you cannot retrieve the fault code from the diagnostics menu, if the code meaning is not clear from your manual, or if the boiler is locked out and will not fire. A technician has the model-specific service documentation, diagnostic tools, and meters to identify the exact fault, test sensors and ignition components, verify gas pressures and flame-proving circuits, and repair or replace the failed part safely. Gas-fired boiler work involves combustion safety, venting, and gas piping that require professional training and local permitting, so do not attempt repairs beyond checking pressure, reseating connectors, and looking up codes in your manual.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A29 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a29-error-code/)
+- [Weil-McLain Code 1 — No Flame Sensed Fix](/posts/weil-mclain-error-code-1/)
+- [Weil-McLain Boiler A08 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a08-error-code/)
+- [Weil-McLain A126 Error - Causes & Fix](/posts/weil-mclain-boiler-a126-error-code/)

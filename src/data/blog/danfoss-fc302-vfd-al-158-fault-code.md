@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a VFD technician if the alarm persists with the motor disconnected (indicating internal drive failure), if you are not comfortable working with high-voltage DC and AC circuits, or if you lack the tools to perform megohm testing and DC bus diagnostics. Power board and IGBT replacement requires precise component matching, proper thermal compound application, and testing under load. Technicians can also perform parameter optimization and input power quality analysis to prevent future faults. If the motor has failed insulation, a motor shop can perform rewinding or you may need a replacement motor matched to the drive's power and voltage rating.
 
 **Rough cost:** A pro service call runs about $300-800.
+
+## See Also
+
+- [Danfoss FC302 AL-59 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-59-fault-code/)
+- [Danfoss FC302 Alarm 34 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-34-fault-code/)
+- [Danfoss VFD Fault E-Trip — Causes & Fix](/posts/danfoss-vfd-fault-e-trip/)
+- [Danfoss FC302 Alarm 38 - Causes & Fix](/posts/danfoss-fc302-alarm-38-fault-code/)
