@@ -27,7 +27,7 @@ Goodman furnaces signal faults through a flashing LED on the control board. Remo
 | 8 flashes | Low flame sensor signal | Clean flame sensor rod |
 | 9 flashes | Igniter circuit fault | Check igniter continuity; replace if open |
 | [Continuous](https://www.amazon.com/s?ascsubtag=ecf-goodman-furnace-error-codes&k=Continuous&tag=errorcodefixes-20) | Normal operation (no fault) | — |
-| [Slow flash](https://www.amazon.com/s?ascsubtag=ecf-goodman-furnace-error-codes&k=Slow+flash&tag=errorcodefixes-20) | Standby / waiting for call | Normal |
+| Slow flash | Standby / waiting for call | Normal |
 | E1 | Communication fault (some models) | Check thermostat wiring |
 | EE2 | EEPROM memory fault | Replace control board |
 

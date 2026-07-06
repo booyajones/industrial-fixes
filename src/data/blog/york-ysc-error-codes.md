@@ -19,7 +19,7 @@ The York YSC series is a light commercial packaged rooftop unit covering 2–12.
 
 ## York YSC Flash Code Table
 
-| [Flash Count](https://www.amazon.com/s?ascsubtag=ecf-york-ysc-error-codes&k=Flash+Count&tag=errorcodefixes-20) | Fault | Common Cause |
+| Flash Count | Fault | Common Cause |
 |---|---|---|
 | 1 flash | System lockout | Manual reset required |
 | 2 flashes | Low-pressure switch open | Low refrigerant, dirty filter |

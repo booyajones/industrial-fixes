@@ -40,7 +40,7 @@ Gas storage water heaters with the Hydrojet system use the pilot/status LED to i
 
 | Flash Pattern | Description | Action |
 |---|---|---|
-| [1 flash every 3 seconds](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-water-heater-error-codes&k=1+flash+every+3+seconds&tag=errorcodefixes-20) | Normal — pilot lit and operational | No action |
+| 1 flash every 3 seconds | Normal — pilot lit and operational | No action |
 | 2 flashes | Thermopile voltage below 350 mV | Clean thermocouple/thermopile, check draft |
 | 3 flashes | Pilot outage | Relight pilot, check gas supply |
 | 4 flashes | Ignition failure — pilot not detected | Check spark gap, gas supply, thermocouple |

@@ -20,7 +20,7 @@ Hydraulic alarms usually come from pressure, temperature, flow, contamination, o
 
 ## Common Hydraulic Fault Categories
 
-| [Fault Type](https://www.amazon.com/s?ascsubtag=ecf-hydraulic-system-fault-codes&k=Fault+Type&tag=errorcodefixes-20) | Typical Meaning |
+| Fault Type | Typical Meaning |
 |---|---|
 | [Low pressure](https://www.amazon.com/s?ascsubtag=ecf-hydraulic-system-fault-codes&k=Low+pressure&tag=errorcodefixes-20) | Pump issue, relief valve open, severe leak |
 | [High pressure](https://www.amazon.com/s?ascsubtag=ecf-hydraulic-system-fault-codes&k=High+pressure&tag=errorcodefixes-20) | Blocked line, stuck valve, jammed actuator |

@@ -1,6 +1,7 @@
 ---
 import { getCollection, type CollectionEntry } from "astro:content";
 import { getPath } from "@/utils/getPath";
+import { NOINDEX_SLUGS } from "@/data/noindex-slugs";
 
 interface Props {
   currentSlug: string;
@@ -38,7 +39,7 @@ const prefixScore = (id: string) => {
 };
 
 const related = allPosts
-  .filter(post => post.id !== currentSlug && !post.data.draft)
+  .filter(post => post.id !== currentSlug && !post.data.draft && !NOINDEX_SLUGS.has(post.id))
   .map(post => {
     const overlap = meaningful(post.data.tags).filter(t => myTags.has(t)).length;
     const prefix = prefixScore(post.id);

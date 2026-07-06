@@ -25,7 +25,7 @@ The Omron CP1H is a compact PLC that indicates faults through **front-panel LEDs
 | PWR | Power present |
 | RUN | Program executing normally |
 | [ERR/ALM solid](https://www.amazon.com/s?ascsubtag=ecf-omron-cp1h-error-codes&k=ERR%2FALM+solid&tag=errorcodefixes-20) | Fatal error, CPU stopped |
-| [ERR/ALM blinking](https://www.amazon.com/s?ascsubtag=ecf-omron-cp1h-error-codes&k=ERR%2FALM+blinking&tag=errorcodefixes-20) | Non-fatal error, CPU still running |
+| ERR/ALM blinking | Non-fatal error, CPU still running |
 | INH | Interrupts disabled |
 | BKUP | Battery low or memory backup issue |
 

@@ -22,7 +22,7 @@ Rheem gas tank water heaters (Performance, Classic, Classic Plus) have a **statu
 
 | Flash Pattern | Meaning | Fix |
 |---|---|---|
-| [1 flash (every 3 sec)](https://www.amazon.com/s?ascsubtag=ecf-rheem-water-heater-error-codes&k=1+flash+%28every+3+sec%29&tag=errorcodefixes-20) | Normal operation | None needed |
+| 1 flash (every 3 sec) | Normal operation | None needed |
 | 2 flashes | Thermopile voltage low | Clean thermocouple, check gas |
 | 3 flashes | Ignition failure | Relight pilot, clean thermocouple |
 | 4 flashes | Exceeded temperature limit | Check T&P, water temp setting |

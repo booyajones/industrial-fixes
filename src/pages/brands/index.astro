@@ -4,6 +4,7 @@ import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import { SITE } from "@/config";
+import { NOINDEX_SLUGS } from "@/data/noindex-slugs";
 
 // Consumer brands only. Industrial brand hubs stay generable but are de-linked
 // from this consumer page (P2 quarantine). Order = section order on the page.
@@ -36,7 +37,10 @@ const allPosts = await getCollection("blog");
 
 const brandData = BRAND_LIST.map(({ slug, name, category }) => {
   const count = allPosts.filter(
-    post => !post.data.draft && post.data.tags.some(t => t.toLowerCase() === slug)
+    post =>
+      !post.data.draft &&
+      !NOINDEX_SLUGS.has(post.id) &&
+      post.data.tags.some(t => t.toLowerCase() === slug)
   ).length;
   return { slug, name, category, count };
 });

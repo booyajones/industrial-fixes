@@ -64,7 +64,7 @@ Across 17 years of refrigeration work, I've chased leaks on everything from roof
 ### 3. Testo 316-3 — Best for techs running Testo combustion and refrigerant tools
 
 **Brand + model:** Testo 316-3 Refrigerant Leak Detector
-**Approximate price:** $470 ([Testo 316-3 on Amazon](https://www.amazon.com/s?k=316+3&tag=errorcodefixes-20), [Testo 316-3 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-refrigerant-leak-detector))
+**Approximate price:** $470 (Testo 316-3 on Amazon, [Testo 316-3 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-refrigerant-leak-detector))
 
 - Heated diode sensor
 - Sensitivity 0.14 oz/year on R-410A, R-454B, R-32

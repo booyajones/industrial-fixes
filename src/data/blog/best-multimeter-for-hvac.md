@@ -32,7 +32,7 @@ After 14 years on residential service I've broken three multimeters. All three w
 ### 1. Fluke 117 — Best for residential HVAC service techs
 
 **Brand + model:** Fluke 117 Electrician's True RMS Multimeter
-**Approximate price:** $215 ([Fluke 117 on Amazon](https://www.amazon.com/s?k=117&tag=errorcodefixes-20), [Fluke 117 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-multimeter-for-hvac))
+**Approximate price:** $215 (Fluke 117 on Amazon, [Fluke 117 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-multimeter-for-hvac))
 
 - True RMS on AC voltage and current
 - 0.001 µA resolution on DC current — reads flame sensor current cleanly

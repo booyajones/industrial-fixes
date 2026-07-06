@@ -38,7 +38,7 @@ The Schneider Electric Modicon M340 is a mid-range PLC platform using the Unity 
 
 ### CPU Faults
 
-| [Fault Code](https://www.amazon.com/s?ascsubtag=ecf-schneider-m340-error-codes&k=Fault+Code&tag=errorcodefixes-20) | Description | Action |
+| Fault Code | Description | Action |
 |---|---|---|
 | 1 | Internal CPU fault | Power cycle, check firmware version |
 | 2 | Memory fault | Check application download, replace SDRAM |

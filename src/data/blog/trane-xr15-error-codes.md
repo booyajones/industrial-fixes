@@ -16,7 +16,7 @@ tags:
 
 The Trane XR15 is a two-stage heat pump using the Climatuff compressor. Fault codes are displayed via LED flash sequences on the integrated control board inside the outdoor unit. Open the electrical panel access cover to view the LED. Codes are read as: slow blinks = tens digit, pause, fast blinks = ones digit.
 
-| [Flash Code](https://www.amazon.com/s?ascsubtag=ecf-trane-xr15-error-codes&k=Flash+Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| Flash Code | Meaning | Quick Fix |
 |------------|---------|-----------|
 | 1 flash | System normal | No fault |
 | 2-1 | Discharge line temperature sensor fault | Check discharge sensor wiring |

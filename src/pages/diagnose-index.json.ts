@@ -1,5 +1,6 @@
 import type { APIRoute } from "astro";
 import { getCollection } from "astro:content";
+import { NOINDEX_SLUGS } from "@/data/noindex-slugs";
 
 export const prerender = true;
 
@@ -20,6 +21,7 @@ export const GET: APIRoute = async () => {
   const items: Array<Record<string, string>> = [];
   for (const p of posts) {
     const slug = p.id.replace(/\.md$/, "");
+    if (NOINDEX_SLUGS.has(p.id) || NOINDEX_SLUGS.has(slug)) continue; // de-linked: quality core only
     if (!/^[a-z0-9-]+$/.test(slug)) continue; // clean slugs only (safe in hrefs)
     if (!slug.endsWith("-error-code")) continue;
     const tags = (p.data.tags || []).map(t => t.toLowerCase());

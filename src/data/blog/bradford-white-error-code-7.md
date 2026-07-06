@@ -23,7 +23,7 @@ Bradford White uses an LED status light on the gas control valve. Code 7 is **7 
 
 Bradford White status LED (on the gas valve body, visible through the front panel):
 
-| [Flashes](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-error-code-7&k=Flashes&tag=errorcodefixes-20) | Meaning |
+| Flashes | Meaning |
 |---|---|
 | 1 flash | Normal pilot operation |
 | 2 flashes | Low thermopile voltage |

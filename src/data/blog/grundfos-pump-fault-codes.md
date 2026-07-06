@@ -16,7 +16,7 @@ tags:
 
 Grundfos circulators and variable-speed pumps display fault codes through LED indicators or digital displays depending on the model. MAGNA, Alpha, and CM series pumps use LED color and flash patterns; MAGNA3 and larger pumps display numeric codes. The Grundfos GO app (Bluetooth) can also read faults on compatible models.
 
-| [Code / LED](https://www.amazon.com/s?ascsubtag=ecf-grundfos-pump-fault-codes&k=Code+%2F+LED&tag=errorcodefixes-20) | Model | Meaning | Quick Fix |
+| Code / LED | Model | Meaning | Quick Fix |
 |-----------|-------|---------|-----------|
 | [Red LED solid](https://www.amazon.com/s?ascsubtag=ecf-grundfos-pump-fault-codes&k=Red+LED+solid&tag=errorcodefixes-20) | Alpha, UPS | Pump fault — overload or locked rotor | Check for air lock; verify voltage |
 | [Red flashing](https://www.amazon.com/s?ascsubtag=ecf-grundfos-pump-fault-codes&k=Red+flashing&tag=errorcodefixes-20) | MAGNA | Protection mode active | Check system pressure; check liquid temp |

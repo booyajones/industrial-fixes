@@ -20,7 +20,7 @@ American Water Heaters is a subsidiary of A.O. Smith and shares manufacturing wi
 
 American Water Heater gas models (ProLine, Glasslined, Commercial series) use an **LED status indicator** on the gas valve body:
 
-| [Flash Code](https://www.amazon.com/s?ascsubtag=ecf-american-water-heater-error-codes&k=Flash+Code&tag=errorcodefixes-20) | Meaning | Fix |
+| Flash Code | Meaning | Fix |
 |---|---|---|
 | 1 flash | Normal operation | None — system OK |
 | 2 flashes | Low thermopile voltage | Clean thermocouple, check pilot flame |

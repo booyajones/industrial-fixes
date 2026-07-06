@@ -23,7 +23,7 @@ Sometimes you know what's wrong with the equipment but don't know the error code
 | [AC runs, no cold air](https://www.amazon.com/s?ascsubtag=ecf-troubleshooting-by-symptom&k=AC+runs%2C+no+cold+air&tag=errorcodefixes-20) | E3 (low pressure) | Low refrigerant — call tech |
 | [Furnace flashing red light](https://www.amazon.com/s?ascsubtag=ecf-troubleshooting-by-symptom&k=Furnace+flashing+red+light&tag=errorcodefixes-20) | Any flash code | Count flashes — see brand guide |
 | [Pilot won't stay lit](https://www.amazon.com/s?ascsubtag=ecf-troubleshooting-by-symptom&k=Pilot+won%27t+stay+lit&tag=errorcodefixes-20) | E002/E003 (ignition) | Clean flame sensor rod |
-| [Mini-split blinking](https://www.amazon.com/s?ascsubtag=ecf-troubleshooting-by-symptom&k=Mini-split+blinking&tag=errorcodefixes-20) | E or CH code | Check drain, filter, sensor |
+| Mini-split blinking | E or CH code | Check drain, filter, sensor |
 | [Heat pump not defrosting](https://www.amazon.com/s?ascsubtag=ecf-troubleshooting-by-symptom&k=Heat+pump+not+defrosting&tag=errorcodefixes-20) | E5 (defrost fault) | Check defrost thermostat |
 
 ## VFD / Motor Control Symptoms

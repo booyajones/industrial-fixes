@@ -16,7 +16,7 @@ tags:
 
 Honeywell TrueZONE zone control panels (HZ311, HZ322, HZ432) display fault codes on a built-in LCD or via LED flash sequences. The panel manages multiple HVAC zones by controlling dampers and communicating with zone thermostats. Faults typically appear when a zone damper fails, a thermostat loses communication, or equipment wiring is incorrect.
 
-| [Code / Display](https://www.amazon.com/s?ascsubtag=ecf-honeywell-truezone-error-codes&k=Code+%2F+Display&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| Code / Display | Meaning | Quick Fix |
 |----------------|---------|-----------|
 | [ZONE FAULT](https://www.amazon.com/s?ascsubtag=ecf-honeywell-truezone-error-codes&k=ZONE+FAULT&tag=errorcodefixes-20) | Zone thermostat communication lost | Check thermostat wiring; replace thermostat |
 | [DAMPER FAULT](https://www.amazon.com/s?ascsubtag=ecf-honeywell-truezone-error-codes&k=DAMPER+FAULT&tag=errorcodefixes-20) | Damper motor not responding | Check damper motor wiring; test motor manually |

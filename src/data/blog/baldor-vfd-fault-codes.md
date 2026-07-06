@@ -17,7 +17,7 @@ tags:
 
 Baldor Electric (now part of ABB) manufactures the VS1 series of variable frequency drives, which are based on ABB's drive platform. The VS1SP (simple panel) and VS1MD (micro drive) series share fault codes with the ABB ACS300/ACS310/ACS355 family. Faults appear on the drive's display panel.
 
-| [Fault Code](https://www.amazon.com/s?ascsubtag=ecf-baldor-vfd-fault-codes&k=Fault+Code&tag=errorcodefixes-20) | Meaning | Common Cause | Quick Fix |
+| Fault Code | Meaning | Common Cause | Quick Fix |
 |-----------|---------|-------------|-----------|
 | F0001 | Overcurrent | Load too high; short circuit | Check motor wiring; reduce acceleration |
 | F0002 | DC Bus Overvoltage | Regen energy; high input voltage | Check input voltage; add braking resistor |

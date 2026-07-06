@@ -4,11 +4,14 @@ import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import Breadcrumb from "@/components/Breadcrumb.astro";
+import { NOINDEX_SLUGS } from "@/data/noindex-slugs";
 import { SITE } from "@/config";
 
 // Pull every published article and group by month for a clean changelog feel.
 // Uses modDatetime when present (revisions) otherwise pubDatetime.
-const posts = await getCollection("blog", ({ data }) => !data.draft);
+const posts = (await getCollection("blog", ({ data }) => !data.draft)).filter(
+  p => !NOINDEX_SLUGS.has(p.id)
+);
 
 type PostEntry = {
   id: string;

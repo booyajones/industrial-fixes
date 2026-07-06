@@ -17,7 +17,7 @@ tags:
 
 Johnson Controls Penn controls show up in rooftop units, walk-ins, chillers, and process cooling equipment. Most Penn controls do not use long digital fault logs. They trip on pressure, temperature, or sensor input and the connected equipment locks out.
 
-| [Fault / Condition](https://www.amazon.com/s?ascsubtag=ecf-johnson-controls-penn-fault&k=Fault+%2F+Condition&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| Fault / Condition | Meaning | Quick Fix |
 |------------------|---------|-----------|
 | [Sensor Error](https://www.amazon.com/s?ascsubtag=ecf-johnson-controls-penn-fault&k=Sensor+Error&tag=errorcodefixes-20) | Temperature sensor open or shorted | Check sensor resistance and wiring |
 | [High Pressure Trip](https://www.amazon.com/s?ascsubtag=ecf-johnson-controls-penn-fault&k=High+Pressure+Trip&tag=errorcodefixes-20) | Pressure exceeded cutout | Check condenser airflow and charge |

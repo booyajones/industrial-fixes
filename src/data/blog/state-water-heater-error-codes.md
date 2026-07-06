@@ -20,9 +20,9 @@ State Water Heaters are manufactured by A.O. Smith and use nearly identical cont
 
 State gas water heaters with piezo ignition and thermocouple control use an **LED status indicator** on the gas valve:
 
-| [Flash Code](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=Flash+Code&tag=errorcodefixes-20) | Meaning | Action |
+| Flash Code | Meaning | Action |
 |---|---|---|
-| [1 flash (slow)](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=1+flash+%28slow%29&tag=errorcodefixes-20) | Normal — pilot lit | None |
+| 1 flash (slow) | Normal — pilot lit | None |
 | 2 flashes | Thermopile voltage low | Clean thermocouple, relight pilot |
 | 3 flashes | Pressure switch (power vent) | Check vent, inducer |
 | 4 flashes | Exceeded temperature limit | Lower setpoint, check safety |

@@ -44,7 +44,7 @@ The ABB ACS550 is a wall-mount general-purpose variable frequency drive rated fr
 
 ## ABB ACS550 Alarm Codes (Axxx)
 
-| [Alarm](https://www.amazon.com/s?ascsubtag=ecf-abb-acs550-complete-guide&k=Alarm&tag=errorcodefixes-20) | Meaning |
+| Alarm | Meaning |
 |-------|---------|
 | A2010 | Overcurrent warning |
 | A2011 | DC bus overvoltage warning |
@@ -80,11 +80,11 @@ The ABB ACS550 is a wall-mount general-purpose variable frequency drive rated fr
 
 | [Parameter](https://www.amazon.com/s?ascsubtag=ecf-abb-acs550-complete-guide&k=Parameter&tag=errorcodefixes-20) | Description |
 |-----------|-------------|
-| [22.01](https://www.amazon.com/s?ascsubtag=ecf-abb-acs550-complete-guide&k=22.01&tag=errorcodefixes-20) | Acceleration time 1 |
-| [23.01](https://www.amazon.com/s?ascsubtag=ecf-abb-acs550-complete-guide&k=23.01&tag=errorcodefixes-20) | Deceleration time 1 |
-| [30.04](https://www.amazon.com/s?ascsubtag=ecf-abb-acs550-complete-guide&k=30.04&tag=errorcodefixes-20) | Motor thermistor enable |
-| [30.10](https://www.amazon.com/s?ascsubtag=ecf-abb-acs550-complete-guide&k=30.10&tag=errorcodefixes-20) | Stall detection time |
-| [40.01](https://www.amazon.com/s?ascsubtag=ecf-abb-acs550-complete-guide&k=40.01&tag=errorcodefixes-20) | Fieldbus enable |
+| 22.01 | Acceleration time 1 |
+| 23.01 | Deceleration time 1 |
+| 30.04 | Motor thermistor enable |
+| 30.10 | Stall detection time |
+| 40.01 | Fieldbus enable |
 
 ## When to Call a Pro
 

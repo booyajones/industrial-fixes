@@ -60,7 +60,7 @@ See [best manometer for HVAC](/posts/best-manometer-for-hvac) for full breakdown
 ### 3. Thermometer: Fluke 561 IR + Contact Thermometer
 
 **Brand + model:** Fluke 561 HVACPro Infrared and Contact Thermometer
-**Approximate price:** $360 ([Fluke 561 on Amazon](https://www.amazon.com/s?k=561&tag=errorcodefixes-20), [Fluke 561 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-boiler-test-kit))
+**Approximate price:** $360 (Fluke 561 on Amazon, [Fluke 561 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-boiler-test-kit))
 
 - IR with laser sighting, -40°F to 1022°F
 - K-type thermocouple input with included contact probe

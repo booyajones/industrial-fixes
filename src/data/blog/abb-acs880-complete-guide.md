@@ -41,7 +41,7 @@ The ABB ACS880 is a high-performance industrial drive designed for demanding app
 
 ## ABB ACS880 Alarm Codes (Warnings)
 
-| [Alarm](https://www.amazon.com/s?ascsubtag=ecf-abb-acs880-complete-guide&k=Alarm&tag=errorcodefixes-20) | Meaning |
+| Alarm | Meaning |
 |-------|---------|
 | A2310 | Overcurrent warning |
 | A3130 | Input phase loss warning |

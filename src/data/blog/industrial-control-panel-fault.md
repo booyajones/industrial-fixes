@@ -20,7 +20,7 @@ Industrial control panels house PLCs, VFDs, relays, motor starters, and power di
 |-----------|---------|
 | [Power ON lamp off](https://www.amazon.com/s?ascsubtag=ecf-industrial-control-panel-fault&k=Power+ON+lamp+off&tag=errorcodefixes-20) | No input power to panel — check supply breaker |
 | [Run lamp off (should be on)](https://www.amazon.com/s?ascsubtag=ecf-industrial-control-panel-fault&k=Run+lamp+off+%28should+be+on%29&tag=errorcodefixes-20) | Motor or drive not running — check fault log |
-| [Fault lamp on](https://www.amazon.com/s?ascsubtag=ecf-industrial-control-panel-fault&k=Fault+lamp+on&tag=errorcodefixes-20) | Active fault — check fault display or PLC fault log |
+| Fault lamp on | Active fault — check fault display or PLC fault log |
 | [E-stop lamp on](https://www.amazon.com/s?ascsubtag=ecf-industrial-control-panel-fault&k=E-stop+lamp+on&tag=errorcodefixes-20) | Emergency stop activated — find and release |
 | [Overload lamp on](https://www.amazon.com/s?ascsubtag=ecf-industrial-control-panel-fault&k=Overload+lamp+on&tag=errorcodefixes-20) | Motor thermal overload tripped — check motor |
 | [Comm fault lamp on](https://www.amazon.com/s?ascsubtag=ecf-industrial-control-panel-fault&k=Comm+fault+lamp+on&tag=errorcodefixes-20) | Communication error — check fieldbus cables |

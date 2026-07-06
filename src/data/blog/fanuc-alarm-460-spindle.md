@@ -22,10 +22,10 @@ Alarm 460 indicates that the spindle speed feedback signal does not match the co
 
 ## Alarm 460 vs Alarm 460/461
 
-| [Alarm](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-460-spindle&k=Alarm&tag=errorcodefixes-20) | Meaning |
+| Alarm | Meaning |
 |-------|---------|
-| [Alarm 460](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-460-spindle&k=Alarm+460&tag=errorcodefixes-20) | Spindle speed error — speed deviation too large |
-| [Alarm 461](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-460-spindle&k=Alarm+461&tag=errorcodefixes-20) | Spindle speed fluctuation — excessive speed variation |
+| Alarm 460 | Spindle speed error — speed deviation too large |
+| Alarm 461 | Spindle speed fluctuation — excessive speed variation |
 
 Both alarms relate to spindle speed control but have different root causes.
 

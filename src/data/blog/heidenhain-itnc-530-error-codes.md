@@ -55,6 +55,6 @@ Check all E-stop buttons, safety mats, door interlocks, and axis limit switches.
 | Encoder read head | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-heidenhain-itnc-530-error-codes&k=Encoder+read+head&tag=errorcodefixes-20) \| HEIDENHAIN-specific — match scale graduation |
 | Encoder cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-heidenhain-itnc-530-error-codes&k=Encoder+cable&tag=errorcodefixes-20) \| Shielded — check at connectors first |
 | SERCOS fiber optic cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-heidenhain-itnc-530-error-codes&k=SERCOS+fiber+optic+cable&tag=errorcodefixes-20) \| Inspect connectors for contamination |
-| Compact Flash card | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-heidenhain-itnc-530-error-codes&k=Compact+Flash+card&tag=errorcodefixes-20) \| CF card stores iTNC software — backup before replacing |
+| Compact Flash card | Amazon \| CF card stores iTNC software — backup before replacing |
 | Safety relay | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-heidenhain-itnc-530-error-codes&k=Safety+relay&tag=errorcodefixes-20) \| Match HEIDENHAIN safety circuit module |
 > **Pro tip:** iTNC 530 stores error log in the system. Access via MOD ΓåÆ MACHINE SETTINGS ΓåÆ ERROR LOG. The log includes timestamp and NC block number where error occurred — critical for finding the root cause in complex 5-axis programs.

@@ -5,14 +5,17 @@ import Footer from "@/components/Footer.astro";
 import { consumerCategories } from "@/data/equipmentCategories";
 import { getCollection } from "astro:content";
 import { SITE } from "@/config";
+import { NOINDEX_SLUGS } from "@/data/noindex-slugs";
 
 const allPosts = await getCollection("blog", ({ data }) => !data.draft);
 
 // Count posts in each category for the index cards.
 const counts: Record<string, number> = {};
 for (const cat of consumerCategories) {
-  counts[cat.slug] = allPosts.filter(p =>
-    (p.data.tags ?? []).some(t => cat.tags.includes(t.toLowerCase()))
+  counts[cat.slug] = allPosts.filter(
+    p =>
+      !NOINDEX_SLUGS.has(p.id) &&
+      (p.data.tags ?? []).some(t => cat.tags.includes(t.toLowerCase()))
   ).length;
 }
 

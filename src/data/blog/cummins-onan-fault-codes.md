@@ -26,14 +26,14 @@ Cummins Onan generators cover the range from compact RV gensets (QG 2500, QD 320
 | 6 blinks | RV QG/QD | Governor fault | Governor calibration needed |
 | 7 blinks | RV QG/QD | Controller fault | Replace control board |
 | 8 blinks | RV QG/QD | Low voltage / high voltage | Load issue or AVR fault |
-| [Code 13](https://www.amazon.com/s?ascsubtag=ecf-cummins-onan-fault-codes&k=Code+13&tag=errorcodefixes-20) | Commercial | Low oil pressure warning | Check oil level |
-| [Code 14](https://www.amazon.com/s?ascsubtag=ecf-cummins-onan-fault-codes&k=Code+14&tag=errorcodefixes-20) | Commercial | Low oil pressure shutdown | Immediate shutdown — add oil |
-| [Code 22](https://www.amazon.com/s?ascsubtag=ecf-cummins-onan-fault-codes&k=Code+22&tag=errorcodefixes-20) | Commercial | High coolant temp warning | Check cooling system |
-| [Code 23](https://www.amazon.com/s?ascsubtag=ecf-cummins-onan-fault-codes&k=Code+23&tag=errorcodefixes-20) | Commercial | High coolant temp shutdown | Stop generator; check coolant |
-| [Code 35](https://www.amazon.com/s?ascsubtag=ecf-cummins-onan-fault-codes&k=Code+35&tag=errorcodefixes-20) | Commercial | Engine fail to start | Check fuel, battery, starter |
-| [Code 36](https://www.amazon.com/s?ascsubtag=ecf-cummins-onan-fault-codes&k=Code+36&tag=errorcodefixes-20) | Commercial | Engine overspeed | Governor problem |
-| [Code 45](https://www.amazon.com/s?ascsubtag=ecf-cummins-onan-fault-codes&k=Code+45&tag=errorcodefixes-20) | Commercial | Low fuel | Refuel |
-| [Code 54](https://www.amazon.com/s?ascsubtag=ecf-cummins-onan-fault-codes&k=Code+54&tag=errorcodefixes-20) | Commercial | Battery charger fault | Check charger AC supply |
+| Code 13 | Commercial | Low oil pressure warning | Check oil level |
+| Code 14 | Commercial | Low oil pressure shutdown | Immediate shutdown — add oil |
+| Code 22 | Commercial | High coolant temp warning | Check cooling system |
+| Code 23 | Commercial | High coolant temp shutdown | Stop generator; check coolant |
+| Code 35 | Commercial | Engine fail to start | Check fuel, battery, starter |
+| Code 36 | Commercial | Engine overspeed | Governor problem |
+| Code 45 | Commercial | Low fuel | Refuel |
+| Code 54 | Commercial | Battery charger fault | Check charger AC supply |
 
 ## Most Common Faults
 

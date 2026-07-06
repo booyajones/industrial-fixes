@@ -83,7 +83,7 @@ Check the A1000 fault log (U2-01 through U2-10 store recent faults with conditio
 | [L3-01](https://www.amazon.com/s?ascsubtag=ecf-yaskawa-a1000-fault-oc&k=L3-01&tag=errorcodefixes-20) | Stall Prevention — acceleration | 1 (enabled) for variable loads |
 | [L3-04](https://www.amazon.com/s?ascsubtag=ecf-yaskawa-a1000-fault-oc&k=L3-04&tag=errorcodefixes-20) | Stall Prevention — constant speed | 1 (enabled) |
 | [L3-06](https://www.amazon.com/s?ascsubtag=ecf-yaskawa-a1000-fault-oc&k=L3-06&tag=errorcodefixes-20) | Stall Prevention — deceleration | Adjust for high-inertia loads |
-| [E1-01](https://www.amazon.com/s?ascsubtag=ecf-yaskawa-a1000-fault-oc&k=E1-01&tag=errorcodefixes-20) | Input voltage setting | Must match actual supply |
+| E1-01 | Input voltage setting | Must match actual supply |
 | [T1-01](https://www.amazon.com/s?ascsubtag=ecf-yaskawa-a1000-fault-oc&k=T1-01&tag=errorcodefixes-20) | Auto-tune selection | Run after new motor or OC fault |
 
 ## A1000 vs V1000 OC Comparison

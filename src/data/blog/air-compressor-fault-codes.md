@@ -20,7 +20,7 @@ Air compressor fault codes vary by brand, but the root causes are usually famili
 
 ## Common Air Compressor Fault Categories
 
-| [Fault Type](https://www.amazon.com/s?ascsubtag=ecf-air-compressor-fault-codes&k=Fault+Type&tag=errorcodefixes-20) | Typical Meaning |
+| Fault Type | Typical Meaning |
 |---|---|
 | [High discharge temperature](https://www.amazon.com/s?ascsubtag=ecf-air-compressor-fault-codes&k=High+discharge+temperature&tag=errorcodefixes-20) | Cooling issue, low oil, dirty cooler |
 | [Low oil pressure](https://www.amazon.com/s?ascsubtag=ecf-air-compressor-fault-codes&k=Low+oil+pressure&tag=errorcodefixes-20) | Oil pump issue, low oil, pressure switch fault |

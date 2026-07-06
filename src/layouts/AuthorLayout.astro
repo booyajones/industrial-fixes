@@ -7,7 +7,7 @@ import Breadcrumb from "@/components/Breadcrumb.astro";
 import Card from "@/components/Card.astro";
 import Layout from "./Layout.astro";
 import { SITE } from "@/config";
-import getSortedPosts from "@/utils/getSortedPosts";
+import getListablePosts from "@/utils/getListablePosts";
 
 type AuthorFrontmatter = {
   title: string;
@@ -34,7 +34,7 @@ const {
 
 // Pull every published post by this author and sort newest-first.
 const allPosts = await getCollection("blog", ({ data }) => !data.draft);
-const authorPosts = getSortedPosts(
+const authorPosts = getListablePosts(
   allPosts.filter(p => p.data.author === authorKey)
 );
 

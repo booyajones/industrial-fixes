@@ -7,7 +7,7 @@ import Card from "@/components/Card.astro";
 import { equipmentCategories, equipmentBySlug } from "@/data/equipmentCategories";
 import { authors } from "@/data/authors";
 import { SITE } from "@/config";
-import getSortedPosts from "@/utils/getSortedPosts";
+import getListablePosts from "@/utils/getListablePosts";
 
 export async function getStaticPaths() {
   return equipmentCategories.map(cat => ({
@@ -27,7 +27,7 @@ const matched = allPosts.filter((p: CollectionEntry<"blog">) => {
   return postTags.some(t => category.tags.includes(t));
 });
 
-const sorted = getSortedPosts(matched);
+const sorted = getListablePosts(matched);
 const featured = sorted.filter(p => p.data.featured).slice(0, 3);
 const recent = sorted.filter(p => !p.data.featured).slice(0, 12);
 

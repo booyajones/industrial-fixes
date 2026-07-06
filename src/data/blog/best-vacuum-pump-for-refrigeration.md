@@ -48,7 +48,7 @@ After 17 years pulling vacuum on everything from 1.5-ton residential heat pumps 
 ### 2. Robinair 15500 — Best 5 CFM residential and light commercial pump
 
 **Brand + model:** Robinair 15500 5 CFM Two-Stage Vacuum Pump
-**Approximate price:** $400 ([Robinair 15500 on Amazon](https://www.amazon.com/s?k=15500&tag=errorcodefixes-20), [Robinair 15500 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-vacuum-pump-for-refrigeration))
+**Approximate price:** $400 (Robinair 15500 on Amazon, [Robinair 15500 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-vacuum-pump-for-refrigeration))
 
 - 5 CFM, two-stage
 - Pulls to 35 microns (advertised); typically reads 25–30 microns clean
@@ -64,7 +64,7 @@ After 17 years pulling vacuum on everything from 1.5-ton residential heat pumps 
 ### 3. Yellow Jacket 93600 SuperEvac Plus — Best with auto oil-back protection
 
 **Brand + model:** Yellow Jacket 93600 SuperEvac Plus 6 CFM Two-Stage Vacuum Pump
-**Approximate price:** $850 ([Yellow Jacket 93600 on Amazon](https://www.amazon.com/s?k=93600&tag=errorcodefixes-20), [Yellow Jacket 93600 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-vacuum-pump-for-refrigeration))
+**Approximate price:** $850 (Yellow Jacket 93600 on Amazon, [Yellow Jacket 93600 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-vacuum-pump-for-refrigeration))
 
 - 6 CFM, two-stage
 - Pulls to 15 microns

@@ -70,7 +70,7 @@ Answer these to narrow it down fast.
 
 | Part | Notes |
 |------|-------|
-| Compatible USB flash drive | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-ice-machine-e29-error-code&k=Compatible+USB+flash+drive&tag=errorcodefixes-20) \| Standard small-form USB drive, typically 2GB to 8GB capacity, factory-compatible type |
+| Compatible USB flash drive | Amazon \| Standard small-form USB drive, typically 2GB to 8GB capacity, factory-compatible type |
 | Manitowoc control board (display membrane interface board) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-ice-machine-e29-error-code&k=Manitowoc+control+board+%28display+membrane+interface+board%29&tag=errorcodefixes-20) \| Required if the USB port or board logic has failed |
 | Ribbon cable (USB port to control board) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-ice-machine-e29-error-code&k=Ribbon+cable+%28USB+port+to+control+board%29&tag=errorcodefixes-20) \| Needed if the internal cable shows an open circuit or damage |
 

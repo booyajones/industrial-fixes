@@ -4,6 +4,7 @@ import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import { getPath } from "@/utils/getPath";
+import { NOINDEX_SLUGS } from "@/data/noindex-slugs";
 import { SITE } from "@/config";
 
 const BRAND_DISPLAY: Record<string, string> = {
@@ -56,6 +57,7 @@ export async function getStaticPaths() {
   return brands.map(brand => {
     const brandPosts = allPosts
       .filter(post => !post.data.draft)
+      .filter(post => !NOINDEX_SLUGS.has(post.id))
       .filter(post => post.data.tags.some(t => t.toLowerCase() === brand))
       .sort((a, b) => a.data.title.localeCompare(b.data.title));
 

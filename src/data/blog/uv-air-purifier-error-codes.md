@@ -24,7 +24,7 @@ In-duct UV air purifiers use ultraviolet light to reduce microbial contaminants 
 | [Red flashing](https://www.amazon.com/s?ascsubtag=ecf-uv-air-purifier-error-codes&k=Red+flashing&tag=errorcodefixes-20) | Power fault or ballast fault | Check 24VAC supply; inspect wiring |
 | [Off (no LED)](https://www.amazon.com/s?ascsubtag=ecf-uv-air-purifier-error-codes&k=Off+%28no+LED%29&tag=errorcodefixes-20) | No power | Check power source; check fuse |
 | [Yellow flashing](https://www.amazon.com/s?ascsubtag=ecf-uv-air-purifier-error-codes&k=Yellow+flashing&tag=errorcodefixes-20) | Annual reminder (Honeywell UV) | Inspect lamp; reset timer |
-| [Alarm output active](https://www.amazon.com/s?ascsubtag=ecf-uv-air-purifier-error-codes&k=Alarm+output+active&tag=errorcodefixes-20) | Lamp failure relay triggered | Replace lamp; reset alarm |
+| Alarm output active | Lamp failure relay triggered | Replace lamp; reset alarm |
 
 ## Brand-Specific Fault Indicators
 

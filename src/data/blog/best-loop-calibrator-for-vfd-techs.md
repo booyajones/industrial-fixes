@@ -33,7 +33,7 @@ Across 11 years of VFD work, refinery instrumentation, and water/wastewater proc
 ### 1. Fluke 715 — Best general-purpose loop calibrator
 
 **Brand + model:** Fluke 715 Volt/mA Calibrator
-**Approximate price:** $1,050 ([Fluke 715 on Amazon](https://www.amazon.com/s?k=715&tag=errorcodefixes-20), [Fluke 715 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-loop-calibrator-for-vfd-techs))
+**Approximate price:** $1,050 (Fluke 715 on Amazon, [Fluke 715 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-loop-calibrator-for-vfd-techs))
 
 - 0–24 mA source, sink, measure
 - 0–100 mV and 0–20V voltage source/measure

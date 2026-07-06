@@ -18,7 +18,7 @@ tags:
 
 When the ABB ACS880 is integrated with a PLC via PROFIBUS, PROFINET, EtherNet/IP, or Modbus TCP, additional fault categories appear related to communication, fieldbus, and process data mapping.
 
-| [Fault Code](https://www.amazon.com/s?ascsubtag=ecf-abb-acs-drives-plc-fault&k=Fault+Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| Fault Code | Meaning | Quick Fix |
 |-----------|---------|-----------|
 | [7081 — Fieldbus Communication Loss](https://www.amazon.com/s?ascsubtag=ecf-abb-acs-drives-plc-fault&k=7081+%E2%80%94+Fieldbus+Communication+Loss&tag=errorcodefixes-20) | No communication from PLC master | Check network cable, IP, and master config |
 | [7082 — Fieldbus Timeout](https://www.amazon.com/s?ascsubtag=ecf-abb-acs-drives-plc-fault&k=7082+%E2%80%94+Fieldbus+Timeout&tag=errorcodefixes-20) | Communication timeout exceeded | Check PLC cycle time and network load |
@@ -48,10 +48,10 @@ If the motor runs but speed or torque commands behave unexpectedly, verify the d
 
 | [Parameter](https://www.amazon.com/s?ascsubtag=ecf-abb-acs-drives-plc-fault&k=Parameter&tag=errorcodefixes-20) | Function | Notes |
 |-----------|---------|-------|
-| [51.01](https://www.amazon.com/s?ascsubtag=ecf-abb-acs-drives-plc-fault&k=51.01&tag=errorcodefixes-20) | Fieldbus adapter type | Set to installed adapter |
-| [51.04](https://www.amazon.com/s?ascsubtag=ecf-abb-acs-drives-plc-fault&k=51.04&tag=errorcodefixes-20) | Communication timeout | Set to 3× PLC cycle time |
-| [58.01](https://www.amazon.com/s?ascsubtag=ecf-abb-acs-drives-plc-fault&k=58.01&tag=errorcodefixes-20) | Embedded fieldbus protocol | Modbus or EIP |
-| [20.01](https://www.amazon.com/s?ascsubtag=ecf-abb-acs-drives-plc-fault&k=20.01&tag=errorcodefixes-20) | Speed reference source | Set to fieldbus |
+| 51.01 | Fieldbus adapter type | Set to installed adapter |
+| 51.04 | Communication timeout | Set to 3× PLC cycle time |
+| 58.01 | Embedded fieldbus protocol | Modbus or EIP |
+| 20.01 | Speed reference source | Set to fieldbus |
 
 ## Jump to Fix
 

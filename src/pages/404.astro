@@ -5,6 +5,7 @@ import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import { SITE } from "@/config";
 import { equipmentCategories } from "@/data/equipmentCategories";
+import { NOINDEX_SLUGS } from "@/data/noindex-slugs";
 
 // Pull a stable handful of popular articles for the 404 page so visitors
 // who landed wrong have an immediate path forward. Uses top-this-week
@@ -15,7 +16,11 @@ try {
     articles: Array<{ slug: string; path: string }>;
   };
   const allPosts = await getCollection("blog", ({ data }) => !data.draft);
-  const bySlug = new Map(allPosts.map(p => [p.id.replace(/\.md$/, ""), p]));
+  const bySlug = new Map(
+    allPosts
+      .filter(p => !NOINDEX_SLUGS.has(p.id))
+      .map(p => [p.id.replace(/\.md$/, ""), p])
+  );
   popularArticles = topData.articles
     .map(a => {
       const post = bySlug.get(a.slug);
@@ -24,7 +29,10 @@ try {
     .filter((x): x is { path: string; title: string } => x !== null)
     .slice(0, 5);
 } catch {
-  const allPosts = await getCollection("blog", ({ data }) => !data.draft && data.featured);
+  const allPosts = await getCollection(
+    "blog",
+    ({ id, data }) => !data.draft && data.featured && !NOINDEX_SLUGS.has(id)
+  );
   popularArticles = allPosts.slice(0, 5).map(p => ({
     path: `/posts/${p.id.replace(/\.md$/, "")}/`,
     title: p.data.title,

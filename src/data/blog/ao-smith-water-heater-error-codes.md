@@ -37,9 +37,9 @@ A.O. Smith manufactures one of the widest lines of water heating equipment in No
 
 Standard ProLine and Craftmaster gas storage heaters use LED flash codes:
 
-| [Flash Count](https://www.amazon.com/s?ascsubtag=ecf-ao-smith-water-heater-error-codes&k=Flash+Count&tag=errorcodefixes-20) | Fault | Action |
+| Flash Count | Fault | Action |
 |---|---|---|
-| [1 flash / 3 sec](https://www.amazon.com/s?ascsubtag=ecf-ao-smith-water-heater-error-codes&k=1+flash+%2F+3+sec&tag=errorcodefixes-20) | Normal — pilot lit | No action needed |
+| 1 flash / 3 sec | Normal — pilot lit | No action needed |
 | 2 flashes | Thermopile voltage < 350 mV | Clean thermopile, check draft |
 | 3 flashes | Pilot out | Relight — check gas supply |
 | 4 flashes | Ignition failure | Check spark, gas, thermocouple |

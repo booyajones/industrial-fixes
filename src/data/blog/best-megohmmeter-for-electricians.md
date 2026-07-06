@@ -62,7 +62,7 @@ After 11 years troubleshooting variable-frequency drives, motor starters, and fe
 ### 3. AEMC 6505 — Best for medium-voltage testing (2500V class)
 
 **Brand + model:** AEMC 6505 Megohmmeter
-**Approximate price:** $1,400 ([AEMC 6505 on Amazon](https://www.amazon.com/s?k=6505&tag=errorcodefixes-20), [AEMC 6505 at Grainger](https://grainger.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-megohmmeter-for-electricians))
+**Approximate price:** $1,400 (AEMC 6505 on Amazon, [AEMC 6505 at Grainger](https://grainger.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-megohmmeter-for-electricians))
 
 - Test voltages: 500V, 1000V, 2500V
 - Insulation range to 5 TΩ

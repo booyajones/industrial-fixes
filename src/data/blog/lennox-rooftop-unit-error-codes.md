@@ -23,7 +23,7 @@ The STATUS LED on the furnace control flashes a two-digit code: the first group 
 
 ## Lennox RTU Flash Code Table
 
-| [Flash Code](https://www.amazon.com/s?ascsubtag=ecf-lennox-rooftop-unit-error-codes&k=Flash+Code&tag=errorcodefixes-20) | Fault | Common Cause |
+| Flash Code | Fault | Common Cause |
 |---|---|---|
 | 1-1 | System lockout | Manual reset required |
 | 1-2 | Blower fault | Blower motor or wiring issue |

@@ -16,7 +16,7 @@ tags:
 
 BACnet (Building Automation and Control Networks, ASHRAE Standard 135) defines specific error codes returned by devices in response to service requests. These appear in BACnet client software, commissioning tools, and network analyzers.
 
-| [Error Code](https://www.amazon.com/s?ascsubtag=ecf-bacnet-error-codes&k=Error+Code&tag=errorcodefixes-20) | Class | Meaning | Quick Fix |
+| Error Code | Class | Meaning | Quick Fix |
 |-----------|-------|---------|-----------|
 | [UNKNOWN-OBJECT](https://www.amazon.com/s?ascsubtag=ecf-bacnet-error-codes&k=UNKNOWN-OBJECT&tag=errorcodefixes-20) | Device | Object does not exist | Check object ID in database |
 | [UNKNOWN-PROPERTY](https://www.amazon.com/s?ascsubtag=ecf-bacnet-error-codes&k=UNKNOWN-PROPERTY&tag=errorcodefixes-20) | Device | Property not supported | Check device documentation |

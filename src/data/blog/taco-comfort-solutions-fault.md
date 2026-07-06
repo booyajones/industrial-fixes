@@ -21,12 +21,12 @@ Taco Comfort Solutions manufactures variable-speed ECM circulators including the
 | [Green solid](https://www.amazon.com/s?ascsubtag=ecf-taco-comfort-solutions-fault&k=Green+solid&tag=errorcodefixes-20) | 00-VR3, 007-VR | Normal operation | None |
 | [Green flashing](https://www.amazon.com/s?ascsubtag=ecf-taco-comfort-solutions-fault&k=Green+flashing&tag=errorcodefixes-20) | 00-VR3 | Auto-adapt / performance mode active | Normal |
 | [Red solid](https://www.amazon.com/s?ascsubtag=ecf-taco-comfort-solutions-fault&k=Red+solid&tag=errorcodefixes-20) | All VR series | Pump fault | Check power, blockage, temperature |
-| [Red 1 flash](https://www.amazon.com/s?ascsubtag=ecf-taco-comfort-solutions-fault&k=Red+1+flash&tag=errorcodefixes-20) | 00-VR3 | Rotor blocked / locked | Manual rotation; bleed air |
-| [Red 2 flashes](https://www.amazon.com/s?ascsubtag=ecf-taco-comfort-solutions-fault&k=Red+2+flashes&tag=errorcodefixes-20) | 00-VR3 | Overvoltage | Check supply voltage |
-| [Red 3 flashes](https://www.amazon.com/s?ascsubtag=ecf-taco-comfort-solutions-fault&k=Red+3+flashes&tag=errorcodefixes-20) | 00-VR3 | Undervoltage | Check supply voltage |
-| [Red 4 flashes](https://www.amazon.com/s?ascsubtag=ecf-taco-comfort-solutions-fault&k=Red+4+flashes&tag=errorcodefixes-20) | 00-VR3 | Overtemperature | Check system temperature; check load |
-| [Red 5 flashes](https://www.amazon.com/s?ascsubtag=ecf-taco-comfort-solutions-fault&k=Red+5+flashes&tag=errorcodefixes-20) | 00-VR3 | Dry running detected | Fill and prime system |
-| [Red 6 flashes](https://www.amazon.com/s?ascsubtag=ecf-taco-comfort-solutions-fault&k=Red+6+flashes&tag=errorcodefixes-20) | 00-VR3 | Internal module fault | Replace pump or head assembly |
+| Red 1 flash | 00-VR3 | Rotor blocked / locked | Manual rotation; bleed air |
+| Red 2 flashes | 00-VR3 | Overvoltage | Check supply voltage |
+| Red 3 flashes | 00-VR3 | Undervoltage | Check supply voltage |
+| Red 4 flashes | 00-VR3 | Overtemperature | Check system temperature; check load |
+| Red 5 flashes | 00-VR3 | Dry running detected | Fill and prime system |
+| Red 6 flashes | 00-VR3 | Internal module fault | Replace pump or head assembly |
 | [Amber solid](https://www.amazon.com/s?ascsubtag=ecf-taco-comfort-solutions-fault&k=Amber+solid&tag=errorcodefixes-20) | 00-VR3 | Reduced-mode operation | System constraint — check valves/flow |
 
 ## Most Common Faults

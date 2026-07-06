@@ -20,7 +20,7 @@ PLC faults usually fall into a few buckets: major fault, I/O bus fault, battery/
 
 ## Common PLC Fault Categories
 
-| [Fault Type](https://www.amazon.com/s?ascsubtag=ecf-plc-fault-codes-guide&k=Fault+Type&tag=errorcodefixes-20) | Typical Meaning |
+| Fault Type | Typical Meaning |
 |---|---|
 | [Major fault](https://www.amazon.com/s?ascsubtag=ecf-plc-fault-codes-guide&k=Major+fault&tag=errorcodefixes-20) | Controller halted due to program or hardware issue |
 | [I/O communication fault](https://www.amazon.com/s?ascsubtag=ecf-plc-fault-codes-guide&k=I%2FO+communication+fault&tag=errorcodefixes-20) | Remote I/O rack offline or bus interrupted |

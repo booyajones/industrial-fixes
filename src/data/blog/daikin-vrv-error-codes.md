@@ -114,7 +114,7 @@ Daikin VRV systems contain large refrigerant charges. U0 means the system has lo
 | [EEV (electronic expansion valve)](https://www.amazon.com/s?ascsubtag=ecf-daikin-vrv-error-codes&k=EEV+%28electronic+expansion+valve%29&tag=errorcodefixes-20) | Model-specific — match kv value |
 | [Outdoor unit PCB](https://www.amazon.com/s?ascsubtag=ecf-daikin-vrv-error-codes&k=Outdoor+unit+PCB&tag=errorcodefixes-20) | Match model and firmware version |
 | [Indoor unit PCB](https://www.amazon.com/s?ascsubtag=ecf-daikin-vrv-error-codes&k=Indoor+unit+PCB&tag=errorcodefixes-20) | Specific to indoor unit model |
-| [F1/F2 communication wire](https://www.amazon.com/s?ascsubtag=ecf-daikin-vrv-error-codes&k=F1%2FF2+communication+wire&tag=errorcodefixes-20) | 2-conductor unshielded, max 1000m |
+| F1/F2 communication wire | 2-conductor unshielded, max 1000m |
 | [DIII-NET adapter](https://www.amazon.com/s?ascsubtag=ecf-daikin-vrv-error-codes&k=DIII-NET+adapter&tag=errorcodefixes-20) | For BAS integration |
 
 > **Pro tip:** Daikin VRV systems support fault history via the ITC. Navigate to Function > Error History to view the last 20 fault records with timestamps — essential for intermittent faults.

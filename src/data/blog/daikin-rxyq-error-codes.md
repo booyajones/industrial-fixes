@@ -66,7 +66,7 @@ The Daikin RXYQ is a commercial VRV (Variable Refrigerant Volume) outdoor unit u
 | Part | Notes |
 |------|-------|
 | EEV coil | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-rxyq-error-codes&k=EEV+coil&tag=errorcodefixes-20) \| Removable without opening refrigerant circuit |
-| F1/F2 communication wire | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-rxyq-error-codes&k=F1%2FF2+communication+wire&tag=errorcodefixes-20) \| Twisted-pair shielded; replace if damaged |
+| F1/F2 communication wire | Amazon \| Twisted-pair shielded; replace if damaged |
 | Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-daikin-rxyq-error-codes&tag=errorcodefixes-20) \| Confirm EC or AC type for RXYQ vintage |
 | Outdoor PCB (control board) | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB+%28control+board%29&tag=errorcodefixes-20) \| For L9 or L5 after other causes ruled out |
 | Refrigerant (R-410A or R-32) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-rxyq-error-codes&k=Refrigerant+%28R-410A+or+R-32%29&tag=errorcodefixes-20) \| Confirm refrigerant type from unit nameplate |

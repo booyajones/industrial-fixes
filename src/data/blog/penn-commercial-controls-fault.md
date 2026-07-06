@@ -41,7 +41,7 @@ On electronic Penn controls, a blank or dead output often comes from loss of con
 
 | [Family](https://www.amazon.com/s?ascsubtag=ecf-penn-commercial-controls-fault&k=Family&tag=errorcodefixes-20) | Use |
 |-------|-----|
-| [P70 / P72](https://www.amazon.com/s?ascsubtag=ecf-penn-commercial-controls-fault&k=P70+%2F+P72&tag=errorcodefixes-20) | Refrigeration pressure controls |
+| P70 / P72 | Refrigeration pressure controls |
 | P78 | Manual reset high and low pressure safeties |
 | [A19 / A28](https://www.amazon.com/s?ascsubtag=ecf-penn-commercial-controls-fault&k=A19+%2F+A28&tag=errorcodefixes-20) | Temperature controls |
 | [A350 / A421](https://www.amazon.com/s?ascsubtag=ecf-penn-commercial-controls-fault&k=A350+%2F+A421&tag=errorcodefixes-20) | Electronic temperature controls |

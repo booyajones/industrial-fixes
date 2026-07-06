@@ -16,7 +16,7 @@ tags:
 
 Most VFD faults fall into a few repeat patterns: too much current, too much voltage, too little voltage, too much heat, or a bad signal from the motor or control system. Once you know the category, you can narrow the cause fast.
 
-| [Fault Family](https://www.amazon.com/s?ascsubtag=ecf-vfd-error-codes-guide&k=Fault+Family&tag=errorcodefixes-20) | Common Abbreviations | Typical Cause |
+| Fault Family | Common Abbreviations | Typical Cause |
 |-------------|----------------------|---------------|
 | [Overcurrent](https://www.amazon.com/s?ascsubtag=ecf-vfd-error-codes-guide&k=Overcurrent&tag=errorcodefixes-20) | OC, F001, Fault 7 | Mechanical jam, shorted motor, accel too fast |
 | [Overvoltage](https://www.amazon.com/s?ascsubtag=ecf-vfd-error-codes-guide&k=Overvoltage&tag=errorcodefixes-20) | OV, F003, 3210 | Decel too fast, regenerative load |

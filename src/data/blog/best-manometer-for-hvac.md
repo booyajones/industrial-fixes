@@ -62,7 +62,7 @@ After 14 years setting gas pressure, measuring static pressure across coils and 
 ### 3. Yellow Jacket 78060 — Best for techs already running Yellow Jacket gauges
 
 **Brand + model:** Yellow Jacket 78060 Manometer
-**Approximate price:** $235 ([Yellow Jacket 78060 on Amazon](https://www.amazon.com/s?k=78060&tag=errorcodefixes-20), [Yellow Jacket 78060 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-manometer-for-hvac))
+**Approximate price:** $235 (Yellow Jacket 78060 on Amazon, [Yellow Jacket 78060 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-manometer-for-hvac))
 
 - Dual port, ±60 inWC range, 0.01 inWC resolution
 - Reads in inWC, PSI, mBar

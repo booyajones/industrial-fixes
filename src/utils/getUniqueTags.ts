@@ -1,6 +1,7 @@
 import type { CollectionEntry } from "astro:content";
 import { slugifyStr } from "./slugify";
 import postFilter from "./postFilter";
+import { NOINDEX_SLUGS } from "@/data/noindex-slugs";
 
 interface Tag {
   tag: string;
@@ -10,6 +11,7 @@ interface Tag {
 const getUniqueTags = (posts: CollectionEntry<"blog">[]) => {
   const tags: Tag[] = posts
     .filter(postFilter)
+    .filter(post => !NOINDEX_SLUGS.has(post.id))
     .flatMap(post => post.data.tags)
     .map(tag => ({ tag: slugifyStr(tag), tagName: tag }))
     .filter(

@@ -47,7 +47,7 @@ I've spent 17 years in supermarket refrigeration and light commercial HVAC, and 
 ### 2. Yellow Jacket 49967 Brute II — Best analog manifold
 
 **Brand + model:** Yellow Jacket 49967 Brute II 4-Valve Test and Charging Manifold
-**Approximate price:** $290 ([Yellow Jacket 49967 on Amazon](https://www.amazon.com/s?k=49967&tag=errorcodefixes-20), [Yellow Jacket 49967 at Grainger](https://grainger.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-refrigerant-gauge-set))
+**Approximate price:** $290 (Yellow Jacket 49967 on Amazon, [Yellow Jacket 49967 at Grainger](https://grainger.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-refrigerant-gauge-set))
 
 - 4-valve manifold (separate liquid charging port)
 - Scales for R-22, R-134a, R-404A, R-410A

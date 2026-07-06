@@ -20,7 +20,7 @@ Servo alarms can be intimidating because the motor, encoder, amplifier, mechanic
 
 ## Common Servo Fault Categories
 
-| [Fault Type](https://www.amazon.com/s?ascsubtag=ecf-servo-motor-fault-codes&k=Fault+Type&tag=errorcodefixes-20) | Typical Meaning |
+| Fault Type | Typical Meaning |
 |---|---|
 | [Overcurrent](https://www.amazon.com/s?ascsubtag=ecf-servo-motor-fault-codes&k=Overcurrent&tag=errorcodefixes-20) | Axis jam, cable short, amplifier problem |
 | [Encoder feedback](https://www.amazon.com/s?ascsubtag=ecf-servo-motor-fault-codes&k=Encoder+feedback&tag=errorcodefixes-20) | Lost position, encoder cable fault, battery issue |

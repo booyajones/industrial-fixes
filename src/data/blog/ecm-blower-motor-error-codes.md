@@ -16,7 +16,7 @@ tags:
 
 ECM (Electronically Commutated Motor) blower motors are used in most modern variable-speed furnaces and air handlers. Manufacturers include Genteq (formerly GE Motors), Regal Beloit, and Nidec. ECM motors communicate fault information via LED flash codes on the motor's control module. To read the codes: locate the motor module (mounted on the motor body), count the LED blinks in a repeating pattern.
 
-| [Flash Code](https://www.amazon.com/s?ascsubtag=ecf-ecm-blower-motor-error-codes&k=Flash+Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| Flash Code | Meaning | Quick Fix |
 |------------|---------|-----------|
 | 1 flash | Normal operation / standby | No fault — motor waiting for call |
 | 2 flashes | Low airflow / high static pressure | Check filter; open registers; clean coils |
@@ -25,8 +25,8 @@ ECM (Electronically Commutated Motor) blower motors are used in most modern vari
 | 5 flashes | Over-temperature — motor or module | Check for blocked airflow; allow cool-down |
 | 6 flashes | DC bus voltage fault | Check input voltage; verify 120/240VAC supply |
 | 7 flashes | Internal module memory fault | Replace ECM module |
-| [Rapid flash](https://www.amazon.com/s?ascsubtag=ecf-ecm-blower-motor-error-codes&k=Rapid+flash&tag=errorcodefixes-20) | Active fault — see blink count | Count individual blinks carefully |
-| [No flash](https://www.amazon.com/s?ascsubtag=ecf-ecm-blower-motor-error-codes&k=No+flash&tag=errorcodefixes-20) | No power to module | Check power supply; check fuse/breaker |
+| Rapid flash | Active fault — see blink count | Count individual blinks carefully |
+| No flash | No power to module | Check power supply; check fuse/breaker |
 | [Continuous on](https://www.amazon.com/s?ascsubtag=ecf-ecm-blower-motor-error-codes&k=Continuous+on&tag=errorcodefixes-20) | Module locked in fault | Cycle power to reset |
 
 ## Most Common Faults
