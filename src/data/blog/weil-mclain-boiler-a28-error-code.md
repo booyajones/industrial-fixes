@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified heating technician if the fault returns after you clean the trap and drain line, if you cannot locate or access the condensate system, if the boiler shows other error codes in the history menu, or if you suspect a control-board or sensor failure. A pro can run full diagnostics, check vent and condensate routing against code, and order the correct model-specific parts from Weil-McLain. Gas appliances require proper venting and combustion-air setup, so any recurring lockout or installation issue should be handled by a licensed contractor.
 
 **Rough cost:** DIY runs about $10-30 in parts (new trap or tubing), 30-60 min. A pro service call runs about $150-250 for a service call and condensate system cleaning.
+
+## See Also
+
+- [Weil-McLain Boiler A163 Error - Causes & Fix](/posts/weil-mclain-boiler-a163-error-code/)
+- [Weil-McLain Boiler A53 Error - Causes & Fix](/posts/weil-mclain-boiler-a53-error-code/)
+- [Weil-McLain A142 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a142-error-code/)
+- [Weil-McLain A90 Error - Causes & Fix](/posts/weil-mclain-boiler-a90-error-code/)

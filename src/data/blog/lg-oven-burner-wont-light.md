@@ -71,3 +71,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Gas appliance ignition work requires shutting off gas supply, handling live 120 V igniter circuits, and confirming proper gas pressure and combustion. If you have verified gas supply, reseated and cleaned all burner parts, and the symptom persists, call a qualified appliance technician. Professional diagnosis and replacement of the oven igniter, spark electrode, spark wire, or spark module will restore safe, reliable ignition. Do not attempt to bypass safety interlocks or modify gas orifices. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [LG Dryer Add Error Code - Causes & Fix](/posts/lg-dryer-add-error-code/)
+- [LG Oven Door Won't Lock - Causes & Fix](/posts/lg-oven-door-wont-lock/)
+- [LG Washer Won't Fill with Water - Causes & Fix](/posts/lg-washer-wont-fill-with-water/)
+- [LG Washer Door Won't Unlock - Causes & Fix](/posts/lg-washer-door-wont-unlock/)

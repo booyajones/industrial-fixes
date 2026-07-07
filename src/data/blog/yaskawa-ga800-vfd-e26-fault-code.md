@@ -50,3 +50,10 @@ The fault typically points to a worn or damaged soft-charge bypass relay, a fail
 ## When to Call a Pro
 
 Call a qualified industrial electrician or drive technician if you are not trained in high-voltage DC bus work or VFD diagnostics. The GA800's internal DC bus holds lethal voltage even after power is removed, and improper handling can cause electric shock or equipment damage. If parameter U4-06 exceeds 90 percent or the fault returns after a power cycle, professional diagnosis and board or drive replacement is the documented repair path. A technician can safely discharge the bus, verify the soft-charge circuit, and perform board-level replacement or drive swap according to Yaskawa service procedures.
+
+## See Also
+
+- [Yaskawa A1000 GF Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-gf-fault-code/)
+- [Yaskawa A1000 AL-14 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-14-fault-code/)
+- [Yaskawa A1000 LF2 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-lf2-fault-code/)
+- [Yaskawa GA800 E28 Fault - Serial Watchdog Timeout Fix](/posts/yaskawa-ga800-e28-fault-code/)

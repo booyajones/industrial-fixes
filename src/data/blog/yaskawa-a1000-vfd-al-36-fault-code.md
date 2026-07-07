@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or controls technician if you are not trained to work on VFDs. This fault involves live high-voltage components and requires familiarity with drive internals, proper lockout/tagout procedures, and option card firmware. A technician can safely diagnose whether the fault is a loose card, a damaged connector, or a failed control board, and can verify firmware compatibility and network settings. If the drive slot is damaged or the fault persists with multiple cards, the control board or entire drive may need replacement, which requires factory programming and commissioning.
 
 **Rough cost:** A pro service call runs about $150-400 for option card replacement and testing.
+
+## See Also
+
+- [Yaskawa GA800 F015 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f015-fault-code/)
+- [Yaskawa CPF39 VFD - Causes & Fix](/posts/yaskawa-ga800-vfd-f039-fault-code/)
+- [Yaskawa GA800 Uv1 Fault — DC Undervoltage Fix](/posts/yaskawa-ga800-error-uv1/)
+- [Yaskawa GA800 E61 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e61-fault-code/)

@@ -67,3 +67,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician immediately if the A29 code persists after checking system pressure and recording the fault history. Gas-fired boiler diagnostics require combustion testing, flame-sensing checks, and control-board programming that are beyond DIY scope and unsafe without proper training. A technician will pull the full fault log, measure gas pressure, test ignition components, verify vent operation, and consult the model-specific fault table to identify the true cause. Weil-McLain technical support can also help decode the display if you provide the full model number and control type. Do not attempt to bypass safety switches or override lockouts, as doing so can create carbon-monoxide hazards or damage the heat exchanger.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Weil-McLain A159 Error - Causes & Fix](/posts/weil-mclain-boiler-a159-error-code/)
+- [Weil-McLain Boiler A115 Error - Causes & Fix](/posts/weil-mclain-boiler-a115-error-code/)
+- [Weil-McLain Boiler A87 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a87-error-code/)
+- [Weil-McLain Code 3 — Low Water Cutoff Fix](/posts/weil-mclain-error-code-3/)

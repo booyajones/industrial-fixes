@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician for A30 diagnostics and repair. Although checking that the circulator is running and purging air are tasks a confident homeowner can perform, diagnosing electrical faults in the pump circuit, measuring sensor resistance against manufacturer charts, inspecting complex primary-secondary piping, and safely working around a live gas-fired boiler all require professional training and test equipment. If the circulator has failed, a pro will also verify that the replacement pump is sized correctly for your system's head and flow requirements. Finally, if the boiler locks out repeatedly even after the obvious checks, a technician can use the control's advanced diagnostics to isolate intermittent sensor faults, control-board issues, or hidden restrictions that are not apparent during a simple visual inspection.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Weil-McLain Boiler A163 Error - Causes & Fix](/posts/weil-mclain-boiler-a163-error-code/)
+- [Weil-McLain Boiler A166 Error - Causes & Fix](/posts/weil-mclain-boiler-a166-error-code/)
+- [Weil-McLain Boiler A78 Error - Causes & Fix](/posts/weil-mclain-boiler-a78-error-code/)
+- [Weil-McLain Boiler A09 Error - Causes & Fix](/posts/weil-mclain-boiler-a09-error-code/)

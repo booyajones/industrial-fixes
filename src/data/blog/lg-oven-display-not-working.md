@@ -71,3 +71,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a technician if you are uncomfortable working with 240V household wiring or if the diagnostic steps above do not restore the display after reseating connectors and performing a power reset. Replacing control boards requires matching exact part numbers to your model suffix and verifying correct installation of multiple wire harnesses. If you see any signs of arcing, melted plastic, or burn damage inside the control panel, stop immediately and call a pro to prevent fire risk or further damage to the unit. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [LG Dishwasher Not Dispensing Detergent - Causes & Fix](/posts/lg-dishwasher-not-dispensing-detergent/)
+- [LG Refrigerator Water Filter Replacement - Signs & How-To](/posts/lg-refrigerator-water-filter-replacement/)
+- [LG Range F8 Error Code - Causes & Fix](/posts/lg-range-f8-error-code/)
+- [LG Washer Tub Bearing Replacement - Signs & How-To](/posts/lg-washer-tub-drum-bearing-replacement/)

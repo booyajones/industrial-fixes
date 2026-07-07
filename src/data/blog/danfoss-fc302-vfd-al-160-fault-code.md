@@ -71,3 +71,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or VFD technician for AL-16 faults. This code indicates a catastrophic short circuit that has likely destroyed sensitive power electronics inside the drive. Troubleshooting requires high-voltage DC measurements and the ability to safely handle charged capacitors. Power board replacement demands precise torque specs, thermal management, and firmware configuration. Do not attempt repeated resets, as each power-up with a shorted IGBT can cascade damage to other components. A technician will isolate whether the fault is internal or external, replace the power board if needed, and verify all protective functions before returning the drive to service.
 
 **Rough cost:** A pro service call runs about $800-2500.
+
+## See Also
+
+- [Danfoss VFD Fault OCL — Causes & Fix](/posts/danfoss-vfd-fault-ocl/)
+- [Danfoss VFD Fault W30 — Brake Resistor Overtemperature Fix](/posts/danfoss-vfd-fault-w30/)
+- [Danfoss FC302 Alarm 26 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-26-fault-code/)
+- [Danfoss FC302 ALARM 35 - Causes & Fix](/posts/danfoss-fc302-alarm-35-fault-code/)

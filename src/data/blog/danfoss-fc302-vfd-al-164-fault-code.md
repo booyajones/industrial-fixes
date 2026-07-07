@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Danfoss service partner immediately if the alarm persists with the motor disconnected, as this indicates an internal drive failure requiring specialized diagnostic equipment and replacement of high-voltage components like IGBT modules or power boards. Also call a pro if you lack the training or tools to perform a megohm test on the motor, measure three-phase input power, or safely discharge the drive's capacitors. Any work inside the drive enclosure involves dangerous DC bus voltages that remain present even after AC power is removed, so only trained personnel should open the unit or replace internal boards.
 
 **Rough cost:** A pro service call runs about $300-800 for motor insulation testing, cable repair, or IGBT module replacement.
+
+## See Also
+
+- [Danfoss FC302 ALARM 36 - Causes & Fix](/posts/danfoss-fc302-alarm-36-fault-code/)
+- [Danfoss FC302 AL-83 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-83-fault-code/)
+- [Danfoss FC302 Alarm 34 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-34-fault-code/)
+- [Danfoss FC302 VFD AL-15 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-156-fault-code/)

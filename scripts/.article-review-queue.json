@@ -1972,5 +1972,185 @@
     "score": 0,
     "reason": "FAIL: No research provided to verify E24 is a real Electrolux dryer code or that the stated meaning/causes are accurate for this brand\u2014content cannot be validated and may be invented or borrowed from other brands.",
     "date": "2026-07-06"
+  },
+  "electrolux-dryer-e-25-error-code": {
+    "topic": "Electrolux dryer E 25 error code",
+    "score": 3,
+    "reason": "No research provided to verify E25 is a real Electrolux dryer code or that the stated communication-fault meaning is accurate for this brand; cannot publish unverified technical repair information.",
+    "date": "2026-07-07"
+  },
+  "electrolux-dryer-e-26-error-code": {
+    "topic": "Electrolux dryer E 26 error code",
+    "score": 0,
+    "reason": "FAIL: No research provided to verify E26 is a real Electrolux dryer code or validate the stated meaning; cannot publish unverified technical repair information.",
+    "date": "2026-07-07"
+  },
+  "electrolux-dryer-e-27-error-code": {
+    "topic": "Electrolux dryer E 27 error code",
+    "score": 0,
+    "reason": "FAIL: No research provided to verify E27 is a real, documented Electrolux dryer code; cannot confirm accuracy or that content isn't invented/borrowed from other brands.",
+    "date": "2026-07-07"
+  },
+  "electrolux-dryer-e-28-error-code": {
+    "topic": "Electrolux dryer E 28 error code",
+    "score": 3,
+    "reason": "No research provided to verify E28 is a real Electrolux dryer code or validate the stated meaning; cannot confirm accuracy for this specific brand and appliance combination.",
+    "date": "2026-07-07"
+  },
+  "electrolux-dryer-e-29-error-code": {
+    "topic": "Electrolux dryer E 29 error code",
+    "score": 3,
+    "reason": "No research provided to verify E29 is a real Electrolux dryer code; cannot confirm accuracy of meaning or causes for this specific brand/appliance combination.",
+    "date": "2026-07-07"
+  },
+  "electrolux-dryer-e-30-error-code": {
+    "topic": "Electrolux dryer E 30 error code",
+    "score": 3,
+    "reason": "No research provided to verify E30 is a real Electrolux dryer code; cannot confirm accuracy of meaning, causes, or repair steps for this specific brand and appliance.",
+    "date": "2026-07-07"
+  },
+  "electrolux-dryer-e-32-error-code": {
+    "topic": "Electrolux dryer E 32 error code",
+    "score": 3,
+    "reason": "No research provided to verify E32 is a real Electrolux dryer code; content admits uncertainty about meaning and invents generic explanations without brand-specific grounding.",
+    "date": "2026-07-07"
+  },
+  "electrolux-dryer-e-33-error-code": {
+    "topic": "Electrolux dryer E 33 error code",
+    "score": 3,
+    "reason": "No research provided to verify E33 is a real Electrolux dryer code; cannot confirm accuracy of meaning or causes without grounding documentation.",
+    "date": "2026-07-07"
+  },
+  "electrolux-dryer-e-34-error-code": {
+    "topic": "Electrolux dryer E 34 error code",
+    "score": 2,
+    "reason": "No research provided to confirm E34 is a real Electrolux dryer code; draft explicitly admits code meaning is unknown and varies by model, making it unverifiable filler content that could misinform users.",
+    "date": "2026-07-07"
+  },
+  "electrolux-dryer-e-35-error-code": {
+    "topic": "Electrolux dryer E 35 error code",
+    "score": 3,
+    "reason": "No research provided to verify E35 is a real, documented Electrolux dryer code; content appears speculative and potentially fabricated without manufacturer confirmation.",
+    "date": "2026-07-07"
+  },
+  "electrolux-dryer-e-36-error-code": {
+    "topic": "Electrolux dryer E 36 error code",
+    "score": 0,
+    "reason": "No research provided to verify E36 is a real Electrolux dryer code; cannot confirm accuracy or that this isn't borrowed from another brand\u2014fails primary verification requirement.",
+    "date": "2026-07-07"
+  },
+  "electrolux-dryer-e-37-error-code": {
+    "topic": "Electrolux dryer E 37 error code",
+    "score": 3,
+    "reason": "No research provided to verify E37 is a real Electrolux dryer code; without documentation, this appears to be speculative content that could misinform users and cause unnecessary repairs.",
+    "date": "2026-07-07"
+  },
+  "electrolux-dryer-e-38-error-code": {
+    "topic": "Electrolux dryer E 38 error code",
+    "score": 3,
+    "reason": "No research provided to verify E38 is a real Electrolux dryer code; content appears speculative/generic without brand-specific grounding, violating requirement (1).",
+    "date": "2026-07-07"
+  },
+  "electrolux-dryer-e-39-error-code": {
+    "topic": "Electrolux dryer E 39 error code",
+    "score": 3,
+    "reason": "No research provided to confirm E39 is a real, documented Electrolux dryer code; cannot verify accuracy of meaning or causes, making this potentially invented content.",
+    "date": "2026-07-07"
+  },
+  "electrolux-dryer-e-40-error-code": {
+    "topic": "Electrolux dryer E 40 error code",
+    "score": 3,
+    "reason": "No research provided to verify E40 is a real Electrolux dryer code or that door-latch is the correct meaning; cannot publish unverified technical repair information that may mislead users or cause safety issues.",
+    "date": "2026-07-07"
+  },
+  "electrolux-dryer-e-41-error-code": {
+    "topic": "Electrolux dryer E 41 error code",
+    "score": 3,
+    "reason": "No research provided to verify E41 is a real Electrolux dryer code; cannot confirm accuracy of meaning, causes, or fixes for this specific brand and appliance combination.",
+    "date": "2026-07-07"
+  },
+  "electrolux-dryer-e-43-error-code": {
+    "topic": "Electrolux dryer E 43 error code",
+    "score": 3,
+    "reason": "No research provided to verify E43 is a real, documented Electrolux dryer code; draft explicitly admits uncertainty about code meaning, making it potentially misleading filler content.",
+    "date": "2026-07-07"
+  },
+  "electrolux-dryer-e-44-error-code": {
+    "topic": "Electrolux dryer E 44 error code",
+    "score": 2,
+    "reason": "No research provided to verify E44 is a real, documented code for Electrolux dryers; content admits exact meaning unknown and provides only generic troubleshooting that could apply to any communication error on any brand.",
+    "date": "2026-07-07"
+  },
+  "electrolux-dryer-e-45-error-code": {
+    "topic": "Electrolux dryer E 45 error code",
+    "score": 3,
+    "reason": "No research provided to verify E45 is a real Electrolux dryer code; without documentation, this appears to be speculative content that risks misinforming users and causing unnecessary part replacements.",
+    "date": "2026-07-07"
+  },
+  "electrolux-dryer-e-46-error-code": {
+    "topic": "Electrolux dryer E 46 error code",
+    "score": 2,
+    "reason": "No research provided to verify E46 is a real Electrolux dryer code; draft explicitly admits code meaning is unknown and varies by model, making all troubleshooting guidance speculative and potentially dangerous.",
+    "date": "2026-07-07"
+  },
+  "electrolux-dryer-e-47-error-code": {
+    "topic": "Electrolux dryer E 47 error code",
+    "score": 3,
+    "reason": "No research provided to verify E47 is a real, documented Electrolux dryer code; without grounding data, the specific meaning, causes, and fixes cannot be confirmed as accurate rather than invented or borrowed from other brands.",
+    "date": "2026-07-07"
+  },
+  "electrolux-dryer-e-48-error-code": {
+    "topic": "Electrolux dryer E 48 error code",
+    "score": 3,
+    "reason": "No research provided to verify E48 is a real, documented Electrolux dryer code; cannot confirm accuracy of meaning or causes\u2014fails primary verification requirement.",
+    "date": "2026-07-07"
+  },
+  "electrolux-dryer-e-49-error-code": {
+    "topic": "Electrolux dryer E 49 error code",
+    "score": 3,
+    "reason": "No research provided to verify E49 is a real Electrolux dryer code; content appears speculative and potentially invented without documented evidence for this specific brand and appliance.",
+    "date": "2026-07-07"
+  },
+  "electrolux-dryer-e-50-error-code": {
+    "topic": "Electrolux dryer E 50 error code",
+    "score": 3,
+    "reason": "No research provided to verify E50 is a real Electrolux dryer code or that the stated communication fault meaning is accurate for this brand\u2014content appears speculative without grounding evidence.",
+    "date": "2026-07-07"
+  },
+  "electrolux-dryer-e-52-error-code": {
+    "topic": "Electrolux dryer E 52 error code",
+    "score": 3,
+    "reason": "No research provided to verify E52 is a real Electrolux dryer code or that the stated meanings are accurate for this brand; cannot confirm authenticity or correctness without documentation.",
+    "date": "2026-07-07"
+  },
+  "bosch-dishwasher-e12-error-code": {
+    "topic": "Bosch dishwasher E12 error code",
+    "score": 3,
+    "reason": "No research provided to verify E12 is a real Bosch dishwasher code or that the stated heating-system meaning is correct for this brand; cannot confirm accuracy without grounding data.",
+    "date": "2026-07-07"
+  },
+  "bosch-dishwasher-e16-error-code": {
+    "topic": "Bosch dishwasher E16 error code",
+    "score": 0,
+    "reason": "FAIL: No research provided to verify E16 is a real Bosch dishwasher code or that the stated meaning (water fill issue) is accurate for this brand; cannot publish unverified technical repair information.",
+    "date": "2026-07-07"
+  },
+  "bosch-dishwasher-e19-error-code": {
+    "topic": "Bosch dishwasher E19 error code",
+    "score": 3,
+    "reason": "No research provided to verify E19 is a real Bosch dishwasher code; without external grounding, the meaning, causes, and fixes cannot be validated as accurate versus invented or borrowed from other brands.",
+    "date": "2026-07-07"
+  },
+  "bosch-dishwasher-e23-error-code": {
+    "topic": "Bosch dishwasher E23 error code",
+    "score": 3,
+    "reason": "No research provided to verify E23 is a real Bosch dishwasher code or that the drain-problem meaning is correct for Bosch; cannot confirm accuracy or distinguish from invented/cross-brand content.",
+    "date": "2026-07-07"
+  },
+  "kitchenaid-dishwasher-e1-error-code": {
+    "topic": "KitchenAid dishwasher E1 error code",
+    "score": 3,
+    "reason": "No research provided to verify E1 is a real KitchenAid dishwasher code; without grounding data, cannot confirm accuracy for this specific brand/appliance combination\u2014FAIL on criterion 1.",
+    "date": "2026-07-07"
   }
 }

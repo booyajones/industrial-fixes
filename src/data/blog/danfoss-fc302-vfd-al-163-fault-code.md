@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a professional drive technician or industrial electrician if you are not comfortable working with high-voltage three-phase power, if the incoming mains voltage is correct but the alarm persists, or if testing reveals a failed rectifier or power board that requires replacement. VFD repairs involve lethal voltages (even after power-down, DC bus capacitors can hold a dangerous charge for minutes) and precise torque specifications for terminal connections. A qualified tech will have the correct test equipment, replacement boards, and experience to diagnose control-supply failures or intermittent faults that do not show up on basic voltage checks. If the drive is under warranty or part of a critical production line, always involve the manufacturer's service partner to avoid voiding coverage or causing downtime.
 
 **Rough cost:** A pro service call runs about $200-600.
+
+## See Also
+
+- [Danfoss FC302 AL-83 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-83-fault-code/)
+- [Danfoss FC302 AL-146 - Causes & Fix](/posts/danfoss-fc302-vfd-al-146-fault-code/)
+- [Danfoss FC302 VFD ALARM 39 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-39-fault-code/)
+- [Danfoss FC302 AL-107 Fault Code - Causes & Fix](/posts/danfoss-fc302-vfd-al-107-fault-code/)

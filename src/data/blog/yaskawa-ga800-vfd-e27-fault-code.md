@@ -50,3 +50,10 @@ Soft-charge faults generally mean the drive detected that the precharge relay di
 ## When to Call a Pro
 
 Call a qualified electrician or drive technician if you are not trained to work inside energized industrial equipment or if the fault returns after re-energizing the drive. Replacing the control board requires handling static-sensitive components and verifying parameter backups. If U4-06 shows high wear or the fault does not clear, professional diagnosis can confirm whether the control board, an external contactor, or the entire drive needs replacement and make sure the repair meets electrical code and safety lockout requirements.
+
+## See Also
+
+- [Yaskawa GA800 A.125 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-125-fault-code/)
+- [Yaskawa A1000 oL2 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol2-fault-code/)
+- [Yaskawa GA800 E12 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e12-fault-code/)
+- [Yaskawa GA800 E14 Fault - Causes & Fix](/posts/yaskawa-ga800-e14-fault-code/)

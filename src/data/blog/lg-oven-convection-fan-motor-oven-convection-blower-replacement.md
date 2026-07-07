@@ -67,3 +67,10 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 If you are uncomfortable working with 120 V wiring or accessing the back of a heavy range, hire a technician. If you measure correct supply voltage at the motor connector during a convection cycle but replacing the motor does not restore operation, the control board or relay may be at fault and requires board-level diagnosis. When the fan blade is warped, the housing is cracked, or you find burnt wiring at the connector, a pro can evaluate whether additional oven-cavity components need replacement and perform a full electrical safety check. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [LG Washer Tub Bearing Replacement - Signs & How-To](/posts/lg-washer-tub-drum-bearing-replacement/)
+- [LG Washer CE Error Code - Causes & Fix](/posts/lg-washer-ce-error-code/)
+- [LG Microwave F-11 Error Code - Causes & Fix](/posts/lg-microwave-f-11-error-code/)
+- [LG Mini Split CH40 Error Code - Causes & Fix](/posts/lg-mini-split-ch40-error-code/)

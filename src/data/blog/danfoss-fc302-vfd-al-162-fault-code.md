@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or drive repair specialist for Alarm 16. This fault involves high-voltage DC bus components and sensitive IGBT modules that require specialized test equipment and experience to diagnose safely. Incorrect handling can destroy the drive or create a shock hazard. A professional can isolate the fault between the drive and motor, perform insulation resistance testing with a megger, and replace IGBT modules or power boards using factory-approved procedures. If you lack high-voltage training or the tools to safely discharge and test DC bus components, do not attempt this repair yourself.
 
 **Rough cost:** A pro service call runs about $300-900.
+
+## See Also
+
+- [Danfoss FC302 VFD AL-15 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-152-fault-code/)
+- [Danfoss FC302 AL-146 - Causes & Fix](/posts/danfoss-fc302-vfd-al-146-fault-code/)
+- [Danfoss FC302 Alarm 14 - Causes & Fix](/posts/danfoss-fc302-vfd-al-144-fault-code/)
+- [Danfoss FC302 AL-149 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-149-fault-code/)

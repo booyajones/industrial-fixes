@@ -69,3 +69,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a pro if you're not comfortable working inside the oven cabinet with the power off, or if you've replaced the door lock motor assembly and checked all mechanical parts but the door still won't lock. A technician can test the control board's lock motor circuit and verify switch feedback signals that require a meter and schematic. If your oven is still under warranty, contact LG or an authorized servicer before opening panels. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [LG Mini-Split CH24 Error - Causes & Fix](/posts/lg-mini-split-ch24-error-code/)
+- [LG Refrigerator Leaking Water - Causes & Fix](/posts/lg-refrigerator-leaking-water/)
+- [LG Mini Split CH66 Error Code - Causes & Fix](/posts/lg-mini-split-ch66-error-code/)
+- [LG Mini Split Not Responding to Remote - Causes & Fix](/posts/lg-mini-split-not-responding-to-remote/)

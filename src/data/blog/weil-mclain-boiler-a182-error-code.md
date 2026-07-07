@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician for any A182 code you cannot decode from your manual, for all gas-supply or combustion testing, and whenever a limit switch has opened. A technician has the model-specific fault tables, combustion analyzers, and multimeters to trace limit circuits, measure flame-sensor microamps, test gas-valve operation, and verify safe venting. If you have refilled the system multiple times or the fault returns after a reset, a professional must find the leak or intermittent sensor failure before the boiler can run safely. Do not bypass safety switches or repeatedly reset the controller without correcting the root cause.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A79 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a79-error-code/)
+- [Weil-McLain E03 Error Code — Causes & Fix](/posts/weil-mclain-e03-error-code/)
+- [Weil-McLain A46 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a46-error-code/)
+- [Weil-McLain Boiler A138 Error - Causes & Fix](/posts/weil-mclain-boiler-a138-error-code/)

@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you cannot locate a confirmed A183 definition in your model's manual, if the fault history shows multiple or intermittent codes, or if you are uncomfortable working with gas appliances. Any repair involving gas-line work, gas-valve replacement, pressure testing, or control-board diagnostics requires specialized tools and training. A qualified technician will use a manometer to measure gas pressure, a multimeter to test ignition and flame-sensor signals, and the manufacturer's fault-code database to decode uncommon or control-specific alarms. Professional service also ensures warranty coverage and compliance with local gas-appliance codes.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A159 Error - Causes & Fix](/posts/weil-mclain-boiler-a159-error-code/)
+- [Weil-McLain Boiler A98 Error - Causes & Fix](/posts/weil-mclain-boiler-a98-error-code/)
+- [Weil-McLain A06 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a06-error-code/)
+- [Weil-McLain Ultra Series Boiler Error Codes: Complete Guide](/posts/weil-mclain-ultra-series-codes/)
