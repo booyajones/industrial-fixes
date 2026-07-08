@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician immediately if the boiler is locked out, if you cannot find the correct manual for your model, or if the fault-history menu shows codes you cannot match to any published Weil-McLain table. Gas-fired boilers involve combustion safety, gas pressure, venting, and control logic that require proper test instruments and manufacturer training. A qualified technician will retrieve the full fault history, confirm which control is installed, consult the model-specific manual or factory support, and perform the manufacturer's prescribed corrective action. Attempting to bypass a lockout or replace parts based on an unverified code can create unsafe operating conditions and void your warranty.
 
 **Rough cost:** A pro service call runs about $150–350 for a diagnostic visit and typical sensor or control repair.
+
+## See Also
+
+- [Weil-McLain A40 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a40-error-code/)
+- [Weil-McLain Boiler A115 Error - Causes & Fix](/posts/weil-mclain-boiler-a115-error-code/)
+- [Weil-McLain Boiler A49 Error - Causes & Fix](/posts/weil-mclain-boiler-a49-error-code/)
+- [Weil-McLain A02 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a02-error-code/)

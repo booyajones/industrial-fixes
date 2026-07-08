@@ -48,3 +48,10 @@ E30 is not a documented standalone fault code in available Yaskawa GA800 materia
 ## When to Call a Pro
 
 Call a qualified industrial electrician or drive technician if you cannot confirm the exact fault code displayed, if the fault returns after reseating option cards and clearing the error, or if you are unfamiliar with VFD wiring and safe lockout procedures. Professional help is also recommended when the drive controls a process-critical motor, when the fault log shows multiple different codes, or when Yaskawa support requests on-site diagnostics or drive replacement under warranty. Always involve a technician if you need to replace internal power components or if the drive shows signs of arcing, burning, or physical damage.
+
+## See Also
+
+- [Yaskawa GA800 F032 - Causes & Fix](/posts/yaskawa-ga800-vfd-f032-fault-code/)
+- [Yaskawa GA800 Fault 030 - Causes & Fix](/posts/yaskawa-ga800-vfd-f030-fault-code/)
+- [Yaskawa GA800 E09 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e09-fault-code/)
+- [Yaskawa GA800 E81 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e81-fault-code/)

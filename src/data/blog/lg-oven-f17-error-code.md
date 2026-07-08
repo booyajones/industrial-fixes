@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working around 240-volt connections or if you cannot safely access the rear panel and control-board area. A technician can cross-reference your exact model number against LG's internal service bulletins to confirm whether F17 is a sensor fault or a convection fan fault, then test the sensor circuit under load and check board outputs with a scope. If the control board itself has failed, a pro can usually source and install the replacement board the same day and verify that all high-voltage interlocks and ground connections are correct. If you have already replaced the sensor and checked wiring but the code returns immediately, the control board is the next likely part and a pro will save you time diagnosing internal board faults.
 
 **Rough cost:** DIY runs about $20–80 in parts, 30–60 min. A pro service call runs about $150–300.
+
+## See Also
+
+- [LG Microwave DOOR Error - Causes & Fix](/posts/lg-microwave-door-error-code/)
+- [LG Washer HE Error Code - Causes & Fix](/posts/lg-washer-he-error-code/)
+- [LG Refrigerator rS Error Code - Causes & Fix](/posts/lg-refrigerator-rs-error-code/)
+- [LG Washer Not Dispensing Detergent - Causes & Fix](/posts/lg-washer-not-dispensing-detergent/)

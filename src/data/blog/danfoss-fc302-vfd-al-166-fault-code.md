@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician immediately when AL-166 appears. This fault involves high-voltage DC bus components and catastrophic internal failure that requires specialized diagnostic equipment and high-voltage safety training. Do not attempt repeated resets, as each power-on cycle risks cascading damage to the DC bus capacitors, gate driver boards, and other expensive components. A professional can test the IGBT module with proper tools, isolate whether the fault is internal or external, and replace the power section safely. Attempting DIY repair on a failed IGBT module without proper discharge procedures and high-voltage training poses serious risk of electric shock from the DC bus capacitors, which can hold lethal voltage for minutes after power-down.
 
 **Rough cost:** A pro service call runs about $800-2500.
+
+## See Also
+
+- [Danfoss FC302 Alarm 34 - Causes & Fix](/posts/danfoss-fc302-alarm-34-fault-code/)
+- [Danfoss FC302 AL-69 - Causes & Fix](/posts/danfoss-fc302-vfd-al-69-fault-code/)
+- [Danfoss FC302 AL-134 - Causes & Fix](/posts/danfoss-fc302-vfd-al-134-fault-code/)
+- [Danfoss FC302 AL-100 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-100-fault-code/)

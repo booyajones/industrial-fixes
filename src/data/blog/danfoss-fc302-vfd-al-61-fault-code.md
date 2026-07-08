@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if you lack experience with three-phase electrical systems, closed-loop motor control, or encoder troubleshooting. High-voltage work on the drive's DC bus and IGBT modules carries serious shock and arc-flash hazards. If the fault persists after checking wiring and adjusting parameters, internal drive diagnostics and component-level testing require specialized tools and training. Professional service is also necessary if motor winding insulation has degraded or if mechanical binding cannot be identified and corrected safely. A technician can perform precise signal integrity tests, load current analysis, and determine whether the encoder, motor, or drive itself needs replacement.
 
 **Rough cost:** A pro service call runs about $150-400 depending on whether wiring repair, encoder replacement, or motor testing is required.
+
+## See Also
+
+- [Danfoss FC302 VFD AL-87 - Causes & Fix](/posts/danfoss-fc302-vfd-al-87-fault-code/)
+- [Danfoss FC302 VFD Alarm 37 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-37-fault-code/)
+- [Danfoss FC302 AL-118 - Causes & Fix](/posts/danfoss-fc302-vfd-al-118-fault-code/)
+- [Danfoss FC302 AL-17 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-117-fault-code/)

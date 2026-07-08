@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified boiler technician immediately if you cannot find an A33 definition in your boiler's manual, if the boiler is in lockout and you are unfamiliar with combustion diagnostics, or if basic checks (gas on, pressure in range, vents clear) do not restore operation. Gas-fired boiler troubleshooting requires knowledge of combustion air, flame proving, gas pressure, and control sequences. A technician will use the correct manual for your model, test the actual fault condition with meters and gauges, and avoid the cost of replacing parts that are not failed. Do not attempt to override safety lockouts or bypass flame-proving circuits.
 
 **Rough cost:** A pro service call runs about $150-350 depending on diagnosis and root cause.
+
+## See Also
+
+- [Weil-McLain Boiler A24 Error - Causes & Fix](/posts/weil-mclain-boiler-a24-error-code/)
+- [Weil-McLain A35 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a35-error-code/)
+- [Weil-McLain A12 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a12-error-code/)
+- [Weil-McLain A172 Error - Causes & Fix](/posts/weil-mclain-boiler-a172-error-code/)

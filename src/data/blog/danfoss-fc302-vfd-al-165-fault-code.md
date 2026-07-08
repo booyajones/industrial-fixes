@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or controls integrator if the alarm persists after you have tightened all connections and verified motor parameters. Internal drive faults (IGBT modules, power cards, or output sensors) require specialized test equipment, factory training, and high-voltage safety protocols. Also contact a professional if AL-165 appears on an HMI or PLC screen rather than the drive LCP, as it may be a custom error code that requires system-level troubleshooting beyond the drive itself. Do not attempt to disassemble the drive or measure DC bus voltages without proper training and PPE.
 
 **Rough cost:** A pro service call runs about $200-800.
+
+## See Also
+
+- [Danfoss FC302 AL-92 - Causes & Fix](/posts/danfoss-fc302-vfd-al-92-fault-code/)
+- [Danfoss FC102 VLT HVAC Drive Fault Codes — Complete Diagnostic Reference](/posts/danfoss-fc102-fault-codes/)
+- [Danfoss FC302 Alarm 31 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-31-fault-code/)
+- [Danfoss FC302 AL-149 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-149-fault-code/)

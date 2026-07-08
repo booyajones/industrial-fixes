@@ -50,3 +50,10 @@ In practical terms, the drive will not run until the STO input condition is sati
 ## When to Call a Pro
 
 Call a qualified electrician or controls technician if you are not familiar with safety circuit wiring or cannot locate the STO terminals on your drive. If the fault persists after you have confirmed all external safety devices are closed and wiring is correct, the drive's internal safety input circuitry may require factory service or replacement. Any work on industrial VFD safety circuits should be performed by trained personnel familiar with machine safety standards and lockout procedures.
+
+## See Also
+
+- [Yaskawa GA800 E26 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e26-fault-code/)
+- [Yaskawa GA800 A.109 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-109-fault-code/)
+- [Yaskawa GA800 E71 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e71-fault-code/)
+- [Yaskawa VFD Fault ER — Causes & Fix](/posts/yaskawa-vfd-fault-er/)

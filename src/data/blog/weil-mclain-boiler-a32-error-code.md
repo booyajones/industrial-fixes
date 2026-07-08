@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician immediately if you cannot verify the exact code, if the circulator pump is running but the code persists, if you smell gas or see water leaks, or if you are not comfortable working with 120V or 24V boiler controls. Boiler work involves pressurized water, combustion safety, and electrical hazards. A technician can perform combustion analysis, pressure testing, and sensor diagnostics with calibrated instruments. If the code is truly A32 (not A3) and does not appear in your manual, the technician can contact Weil-McLain technical support with your model and serial number to identify the fault.
 
 **Rough cost:** A pro service call runs about $180-400.
+
+## See Also
+
+- [Weil-McLain Boiler Error Code E01 — Lockout Fix](/posts/weil-mclain-e01-error-code/)
+- [Weil-McLain Boiler A148 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a148-error-code/)
+- [Weil-McLain Boiler A113 Error - Causes & Fix](/posts/weil-mclain-boiler-a113-error-code/)
+- [Weil-McLain Boiler A166 Error - Causes & Fix](/posts/weil-mclain-boiler-a166-error-code/)

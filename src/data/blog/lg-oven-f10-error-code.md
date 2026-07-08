@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable working with 240-volt circuits or removing the control panel and door panels to access the lock assembly. A technician can safely test voltage at the lock motor terminals, verify position-switch feedback signals, and determine whether the fault is in the motor, wiring, or control board. Professional diagnosis is also recommended if the door remains locked after the error appears and you cannot open it manually, or if you have already replaced the lock assembly and the code persists.
 
 **Rough cost:** DIY runs about $50-120 in parts, 45-90 min. A pro service call runs about $150-300.
+
+## See Also
+
+- [LG Microwave F4 Error - Causes & Fix](/posts/lg-microwave-f4-error-code/)
+- [LG Washer Won't Drain - Causes & Fix](/posts/lg-washer-wont-drain/)
+- [LG Dishwasher CE Error Code - Causes & Fix](/posts/lg-dishwasher-ce-error-code/)
+- [LG OE Error Code - Causes & Fix](/posts/lg-range-oe-error-code/)

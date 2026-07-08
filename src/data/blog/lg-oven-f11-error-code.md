@@ -81,3 +81,10 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working with 240-volt electrical connections, if the fault persists after you have tested the sensor and inspected all wiring, or if diagnostic software or a service manual is required to pinpoint the failed board. A qualified appliance technician has the tools to measure communication signals between boards, verify supply voltage under load, and access manufacturer-specific diagnostic modes. If your oven is still under warranty or you lack a multimeter and basic hand tools, professional service is the safer and often more cost-effective choice.
 
 **Rough cost:** DIY runs about $30-120 in parts, 30-90 min. A pro service call runs about $150-300.
+
+## See Also
+
+- [LG Oven Broiler Not Working - Causes & Fix](/posts/lg-oven-broiler-not-working/)
+- [LG Refrigerator rF Error Code - Causes & Fix](/posts/lg-refrigerator-rf-error-code/)
+- [LG Oven H5 Error Code - Causes & Fix](/posts/lg-oven-h5-error-code/)
+- [LG Washer SE Error Code - Causes & Fix](/posts/lg-washer-se-error-code/)

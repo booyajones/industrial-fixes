@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working with 240-volt wiring behind the range, if you cannot identify the correct replacement control board for your specific LG model, or if replacing the main control board does not clear the F12 code and further diagnosis is needed. A technician can verify proper supply voltage, test communication signals between boards with a multimeter, and determine whether both the main control and user-interface boards need replacement. Also call a pro if the range shares a circuit with other appliances and you suspect a broader electrical issue, or if the fault followed a lightning strike or major power event and you want the home's surge protection evaluated.
 
 **Rough cost:** DIY runs about $150–$300 in parts, 45–90 min. A pro service call runs about $250–$450.
+
+## See Also
+
+- [LG Dryer E1 Error Code - Causes & Fix](/posts/lg-dryer-e1-error-code/)
+- [LG Mini-Split CH26 Error Code — CT Sensor Fault](/posts/lg-mini-split-ch26-error-code/)
+- [LG Oven F2 Error Code - Causes & Fix](/posts/lg-oven-f2-error-code/)
+- [LG Refrigerator Thermistor Replacement - Signs & How-To](/posts/lg-refrigerator-thermistor-temperature-sensor-replacement/)

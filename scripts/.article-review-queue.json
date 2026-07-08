@@ -2152,5 +2152,185 @@
     "score": 3,
     "reason": "No research provided to verify E1 is a real KitchenAid dishwasher code; without grounding data, cannot confirm accuracy for this specific brand/appliance combination\u2014FAIL on criterion 1.",
     "date": "2026-07-07"
+  },
+  "kitchenaid-dishwasher-e3-error-code": {
+    "topic": "KitchenAid dishwasher E3 error code",
+    "score": 3,
+    "reason": "No research provided to verify E3 is a real, documented KitchenAid dishwasher code; cannot confirm accuracy of meaning or causes for this specific brand/appliance combination.",
+    "date": "2026-07-08"
+  },
+  "kitchenaid-dishwasher-e4-error-code": {
+    "topic": "KitchenAid dishwasher E4 error code",
+    "score": 2,
+    "reason": "No research provided to verify E4 is a real KitchenAid dishwasher code; content appears speculative and potentially conflates codes from different brands or appliances.",
+    "date": "2026-07-08"
+  },
+  "kitchenaid-dishwasher-e6-error-code": {
+    "topic": "KitchenAid dishwasher E6 error code",
+    "score": 2,
+    "reason": "No research provided to verify E6 is a real KitchenAid dishwasher code or validate the stated meaning; cannot confirm accuracy for this brand+appliance combination.",
+    "date": "2026-07-08"
+  },
+  "kitchenaid-dishwasher-e7-error-code": {
+    "topic": "KitchenAid dishwasher E7 error code",
+    "score": 3,
+    "reason": "No research provided to verify E7 is a real KitchenAid dishwasher code; cannot confirm accuracy for this brand+appliance combination, fails primary verification requirement.",
+    "date": "2026-07-08"
+  },
+  "kitchenaid-dishwasher-e15-error-code": {
+    "topic": "KitchenAid dishwasher E15 error code",
+    "score": 3,
+    "reason": "No research provided to verify E15 is a real KitchenAid dishwasher code; cannot confirm accuracy for this specific brand+appliance combination, making publication irresponsible despite otherwise well-structured content.",
+    "date": "2026-07-08"
+  },
+  "kenmore-dishwasher-e1-error-code": {
+    "topic": "Kenmore dishwasher E1 error code",
+    "score": 3,
+    "reason": "FAIL: No research provided to verify E1 is a real, documented code for Kenmore dishwashers; cannot confirm accuracy of meaning or causes without grounding data.",
+    "date": "2026-07-08"
+  },
+  "kenmore-dishwasher-e2-error-code": {
+    "topic": "Kenmore dishwasher E2 error code",
+    "score": 3,
+    "reason": "No research provided to verify E2 is a real, documented Kenmore dishwasher code; cannot confirm accuracy of meaning, causes, or fixes for this specific brand and appliance.",
+    "date": "2026-07-08"
+  },
+  "kenmore-dishwasher-f1-error-code": {
+    "topic": "Kenmore dishwasher F1 error code",
+    "score": 3,
+    "reason": "No research provided to verify F1 is a real Kenmore dishwasher code; draft explicitly admits code meaning varies by model and manufacturer, making the advice potentially inaccurate or dangerous without model-specific verification.",
+    "date": "2026-07-08"
+  },
+  "kenmore-dishwasher-f2-error-code": {
+    "topic": "Kenmore dishwasher F2 error code",
+    "score": 2,
+    "reason": "No research provided to verify F2 is a real, documented Kenmore dishwasher code; cannot confirm accuracy of meaning or causes for this specific brand/appliance combination.",
+    "date": "2026-07-08"
+  },
+  "amana-refrigerator-f2-error-code": {
+    "topic": "Amana refrigerator F2 error code",
+    "score": 0,
+    "reason": "No research provided to verify F2 is a real Amana refrigerator code; content appears speculative and potentially invented without documentation.",
+    "date": "2026-07-08"
+  },
+  "amana-refrigerator-f3-error-code": {
+    "topic": "Amana refrigerator F3 error code",
+    "score": 2,
+    "reason": "No research provided to verify F3 is a real, documented Amana refrigerator code; article explicitly admits Amana lacks universal F3 definition, making this speculative content that cannot be validated.",
+    "date": "2026-07-08"
+  },
+  "amana-refrigerator-f4-error-code": {
+    "topic": "Amana refrigerator F4 error code",
+    "score": 3,
+    "reason": "No research provided to verify F4 is a real Amana refrigerator code; content appears fabricated without grounding evidence for this specific brand/appliance combination.",
+    "date": "2026-07-08"
+  },
+  "amana-refrigerator-f5-error-code": {
+    "topic": "Amana refrigerator F5 error code",
+    "score": 3,
+    "reason": "No research provided to verify F5 is a real, documented code for Amana refrigerators specifically; draft even admits the code 'is not consistently documented' and meaning 'can vary,' making this speculative content that fails verification requirements.",
+    "date": "2026-07-08"
+  },
+  "samsung-oven-c-30-error-code": {
+    "topic": "Samsung oven C-30 error code",
+    "score": 0,
+    "reason": "No research provided to verify C-30 is a real Samsung oven error code; cannot confirm accuracy for this specific brand and appliance combination.",
+    "date": "2026-07-08"
+  },
+  "samsung-oven-c-70-error-code": {
+    "topic": "Samsung oven C-70 error code",
+    "score": 3,
+    "reason": "No research provided to verify C-70 is a real Samsung oven code; cannot confirm accuracy of meaning, causes, or fixes for this specific brand and appliance.",
+    "date": "2026-07-08"
+  },
+  "samsung-oven-e-41-error-code": {
+    "topic": "Samsung oven E-41 error code",
+    "score": 3,
+    "reason": "No research provided to confirm E-41 is a real Samsung oven code; content appears speculative/invented without grounding documentation for this specific brand+appliance combination.",
+    "date": "2026-07-08"
+  },
+  "samsung-oven-e-51-error-code": {
+    "topic": "Samsung oven E-51 error code",
+    "score": 2,
+    "reason": "No research provided to confirm E-51 is a real Samsung oven code; cannot verify accuracy of meaning or causes\u2014content appears speculative without grounding.",
+    "date": "2026-07-08"
+  },
+  "samsung-oven-e-53-error-code": {
+    "topic": "Samsung oven E-53 error code",
+    "score": 3,
+    "reason": "No research provided to verify E-53 is a real Samsung oven error code; without documentation this appears to be speculative or potentially confused with other brands' codes\u2014cannot publish unverified technical repair guidance.",
+    "date": "2026-07-08"
+  },
+  "samsung-oven-e-55-error-code": {
+    "topic": "Samsung oven E-55 error code",
+    "score": 3,
+    "reason": "No research provided to verify E-55 is a real Samsung oven code; cannot confirm accuracy of meaning or causes for this specific brand and appliance combination.",
+    "date": "2026-07-08"
+  },
+  "samsung-oven-e-61-error-code": {
+    "topic": "Samsung oven E-61 error code",
+    "score": 3,
+    "reason": "No research provided to verify E-61 is a real Samsung oven code; cannot confirm accuracy of meaning, causes, or repair steps for this specific brand and appliance.",
+    "date": "2026-07-08"
+  },
+  "samsung-oven-e-62-error-code": {
+    "topic": "Samsung oven E-62 error code",
+    "score": 2,
+    "reason": "No research provided to verify E-62 is a real Samsung oven code; content admits uncertainty ('exact meaning can vary,' 'does not have a single universal cause'), which suggests the code and causes may be invented or borrowed from other brands.",
+    "date": "2026-07-08"
+  },
+  "samsung-oven-e-63-error-code": {
+    "topic": "Samsung oven E-63 error code",
+    "score": 3,
+    "reason": "No research provided to verify E-63 is a real Samsung oven code; without documentation this appears to be invented or conflated from other brands/appliances.",
+    "date": "2026-07-08"
+  },
+  "samsung-oven-e-x1-error-code": {
+    "topic": "Samsung oven E-X1 error code",
+    "score": 0,
+    "reason": "No research provided to verify E-X1 is a real Samsung oven code; cannot confirm accuracy for this brand and appliance combination, making publication irresponsible.",
+    "date": "2026-07-08"
+  },
+  "samsung-oven-e-x2-error-code": {
+    "topic": "Samsung oven E-X2 error code",
+    "score": 3,
+    "reason": "No research provided to confirm E-X2 is a real Samsung oven code; draft admits code is 'not universally documented' and meaning 'can vary,' making this speculative generic content that fails verification requirements.",
+    "date": "2026-07-08"
+  },
+  "lg-oven-h5-error-code": {
+    "topic": "LG oven H5 error code",
+    "score": 3,
+    "reason": "No research provided to verify H5 is a real, documented LG oven code; without grounding evidence, this appears to be speculative content that may misinform users about a non-existent or misattributed error code.",
+    "date": "2026-07-08"
+  },
+  "frigidaire-oven-f4-error-code": {
+    "topic": "Frigidaire oven F4 error code",
+    "score": 3,
+    "reason": "No research provided to verify F4 is a real Frigidaire oven code or that the stated meaning (temperature sensor short) is accurate for this brand; content may be invented or borrowed from other brands without verification.",
+    "date": "2026-07-08"
+  },
+  "frigidaire-oven-f5-error-code": {
+    "topic": "Frigidaire oven F5 error code",
+    "score": 3,
+    "reason": "No research provided to verify F5 is a real Frigidaire oven code or that the stated causes/fixes are accurate for this brand; cannot publish unverified technical repair guidance that may lead to incorrect part replacement.",
+    "date": "2026-07-08"
+  },
+  "frigidaire-oven-f6-error-code": {
+    "topic": "Frigidaire oven F6 error code",
+    "score": 3,
+    "reason": "No research provided to verify F6 is a real Frigidaire oven code; content admits meaning varies by model but provides specific repair steps anyway, creating unverifiable and potentially incorrect guidance.",
+    "date": "2026-07-08"
+  },
+  "frigidaire-oven-f7-error-code": {
+    "topic": "Frigidaire oven F7 error code",
+    "score": 3,
+    "reason": "No research provided to verify F7 is a real Frigidaire oven code or that the stated meaning is accurate; cannot confirm this isn't borrowed from another brand or invented entirely.",
+    "date": "2026-07-08"
+  },
+  "frigidaire-oven-f8-error-code": {
+    "topic": "Frigidaire oven F8 error code",
+    "score": 3,
+    "reason": "No research provided to verify F8 is a real Frigidaire oven code; content admits meaning is unknown/variable, making this speculative filler rather than documented technical guidance.",
+    "date": "2026-07-08"
   }
 }

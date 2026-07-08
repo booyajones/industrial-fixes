@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drive technician if you are not trained to work with three-phase power and VFD parameter programming. This code requires systematic troubleshooting with a clamp-on ammeter, megohm tester, and knowledge of motor data entry. If the warning persists after verifying parameters and you suspect a motor or mechanical fault, a technician with vibration analysis tools and insulation test equipment can pinpoint bearing failure, winding shorts, or cable damage. Do not attempt to increase parameter 4-18 beyond the motor's rated current without understanding the mechanical and thermal limits of your system.
 
 **Rough cost:** A pro service call runs about $150-400 depending on whether the fix is parameter adjustment, motor replacement, or mechanical repair.
+
+## See Also
+
+- [Danfoss FC302 Alarm 26 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-26-fault-code/)
+- [Danfoss FC302 VFD Alarm 28 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-28-fault-code/)
+- [Danfoss FC302 ALARM 28 - Causes & Fix](/posts/danfoss-fc302-alarm-28-fault-code/)
+- [Danfoss VFD Fault UL — Causes & Fix](/posts/danfoss-vfd-fault-ul/)

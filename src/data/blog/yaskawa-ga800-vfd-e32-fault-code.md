@@ -48,3 +48,10 @@ The E32 fault on a Yaskawa GA800 variable frequency drive indicates a soft-charg
 ## When to Call a Pro
 
 Call a qualified VFD service technician or contact Yaskawa technical support if you are not trained in high-voltage industrial drive repair, if the fault persists after inspecting wiring and connections, or if you do not have access to the drive's internal relay and control board assemblies. Precharge circuits operate at DC bus voltages and require proper lockout, discharge, and measurement procedures. If the drive is mission-critical or under warranty, professional diagnosis and factory-authorized parts will prevent further damage and make sure safe restoration of operation.
+
+## See Also
+
+- [Yaskawa GA800 VFD E54 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e54-fault-code/)
+- [Yaskawa GA800 E67 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e67-fault-code/)
+- [Yaskawa GA800 E14 Fault - Causes & Fix](/posts/yaskawa-ga800-e14-fault-code/)
+- [Yaskawa GA800 A.101 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-101-fault-code/)

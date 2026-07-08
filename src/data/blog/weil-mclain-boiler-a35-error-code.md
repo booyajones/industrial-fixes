@@ -81,3 +81,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician if you are not comfortable working with gas appliances, if you cannot safely access the flame sensor or ignitor, or if cleaning and basic gas checks do not clear the A35 lockout. Gas work and combustion diagnostics require calibrated manometers, multimeters, and knowledge of your boiler's specific control logic. A qualified tech will measure inlet and manifold gas pressure, test flame rectification current, inspect venting and combustion air paths, and isolate whether the fault is in the sensor, valve, wiring, or control board. Skipping proper diagnostics and throwing parts at the problem wastes money and can create unsafe operating conditions.
 
 **Rough cost:** A pro service call runs about $150-350 depending on parts and labor.
+
+## See Also
+
+- [Weil-McLain Boiler A98 Error - Causes & Fix](/posts/weil-mclain-boiler-a98-error-code/)
+- [Weil-McLain Boiler A72 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a72-error-code/)
+- [Weil-McLain Boiler A163 Error - Causes & Fix](/posts/weil-mclain-boiler-a163-error-code/)
+- [Weil-McLain Boiler A73 Error - Causes & Fix](/posts/weil-mclain-boiler-a73-error-code/)

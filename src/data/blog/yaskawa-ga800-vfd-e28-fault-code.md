@@ -46,3 +46,10 @@ E28 does not appear in verified Yaskawa GA800 documentation as a standard fault 
 ## When to Call a Pro
 
 Call a qualified drives technician or Yaskawa-certified service provider if you cannot locate the fault code in your manual, if the drive repeatedly displays unrecognized codes after power cycling, or if you lack the tools and training to safely work inside a VFD enclosure. Industrial drives operate at lethal voltages and require proper lockout/tagout, insulated tools, and familiarity with DC bus discharge procedures. A professional can access Yaskawa's internal service bulletins, use DriveWizard software to read detailed fault logs, and perform board-level diagnostics that are not documented in public manuals.
+
+## See Also
+
+- [Yaskawa A1000 HCA Fault Code - Causes & Fix](/posts/yaskawa-a1000-vfd-hca-fault-code/)
+- [Yaskawa GA800 F031 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f031-fault-code/)
+- [Yaskawa GA800 A.116 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-116-fault-code/)
+- [Yaskawa GA800 E07 Fault - Causes & Fix](/posts/yaskawa-ga800-e07-fault-code/)

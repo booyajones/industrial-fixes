@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a licensed technician if you cannot locate the fault history menu, if the stored fault description is unclear, or if the boiler repeatedly locks out after you reset it. Gas boiler work requires checking combustion, adjusting gas pressure, and testing flame-proving circuits with specialized meters. A technician will pull the full diagnostic log, measure sensor resistance and gas pressure, verify ignition timing, and replace any failed components while ensuring the boiler meets code and warranty requirements. Do not attempt to bypass safety interlocks or repeatedly reset a persistent fault without diagnosing the root cause.
 
 **Rough cost:** A pro service call runs about $150–400 depending on the failed component and labor.
+
+## See Also
+
+- [Weil-McLain Boiler A21 Error - Causes & Fix](/posts/weil-mclain-boiler-a21-error-code/)
+- [Weil-McLain A165 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a165-error-code/)
+- [Weil-McLain Boiler A00 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a00-error-code/)
+- [Weil-McLain Ultra Series Boiler Error Codes: Complete Guide](/posts/weil-mclain-ultra-series-codes/)

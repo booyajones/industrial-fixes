@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial controls technician if you are uncomfortable working inside the VFD enclosure, if the fault persists after replacing the cooling fan and cleaning all vents, or if you need to replace the control card and transfer parameter settings. A professional can safely test the control card thermal sensor, verify internal power supply voltages, and perform a controlled card swap while preserving your drive configuration. Also call a pro if the drive is part of a critical process system where downtime must be minimized or if the fault returns immediately after reset, suggesting a more complex internal failure that requires specialized diagnostic equipment.
 
 **Rough cost:** DIY runs about $15-50 in parts (fan or filters), 20-45 min. A pro service call runs about $120-280 service call.
+
+## See Also
+
+- [Danfoss FC302 Alarm 81 - Causes & Fix](/posts/danfoss-fc302-vfd-al-81-fault-code/)
+- [Danfoss FC302 AL-62 - Causes & Fix](/posts/danfoss-fc302-vfd-al-62-fault-code/)
+- [Danfoss FC302 Alarm 14 - Causes & Fix](/posts/danfoss-fc302-alarm-14-fault-code/)
+- [Danfoss FC302 VFD Alarm 16 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-16-fault-code/)
