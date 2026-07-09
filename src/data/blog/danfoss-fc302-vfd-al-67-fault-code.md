@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or VFD technician if you are not trained to work inside variable frequency drives or if you lack access to Danfoss MCT 10 configuration software. High-voltage AC mains and DC-link capacitors present shock and arc-flash hazards. A professional can safely diagnose whether the issue is a loose module, incorrect parameter settings, or a failed control board, and can reconfigure the drive or replace components as needed. If your facility does not have a maintenance contract, expect a service call fee plus parts and labor.
 
 **Rough cost:** A pro service call runs about $150-400 for service call and configuration reset, more if module replacement needed.
+
+## See Also
+
+- [Danfoss FC302 Alarm 54 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-54-fault-code/)
+- [Danfoss FC302 Alarm 50 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-50-fault-code/)
+- [Danfoss FC302 AL-136 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-136-fault-code/)
+- [Danfoss FC302 Alarm 13 - Causes & Fix](/posts/danfoss-fc302-vfd-al-137-fault-code/)

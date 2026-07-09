@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a professional immediately if you cannot find A36 in your boiler's manual, if the code persists after a power cycle, or if the boiler will not fire. Weil-McLain boilers use model-specific control platforms, and attempting repairs without the correct fault definition can void your warranty or create a safety hazard. A technician will retrieve the stored fault history from the contractor menu, cross-reference it with the manufacturer's service database, and perform any gas-side, combustion, or electrical diagnostics required. Because natural gas and propane systems are regulated for safety, all fault diagnosis and repair work should be done by a qualified heating contractor who can also pull permits and file warranty claims with the correct part numbers.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain Boiler A113 Error - Causes & Fix](/posts/weil-mclain-boiler-a113-error-code/)
+- [Weil-McLain A155 Error - Causes & Fix](/posts/weil-mclain-boiler-a155-error-code/)
+- [Weil-McLain A162 Error - Causes & Fix](/posts/weil-mclain-boiler-a162-error-code/)
+- [Weil-McLain Boiler A148 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a148-error-code/)

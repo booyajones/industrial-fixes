@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a technician if you are uncomfortable working with live AC connections or removing the range back panel. Also call if you have tested the sensor resistance and wiring harness and both check out normal, because control board diagnosis and replacement require careful handling of multiple connectors and some models need programming after board replacement. If the code appears on a dual-oven model and you are unsure which cavity's sensor is faulting, a service tech can isolate the circuit quickly. Gas range owners should call a pro if any gas line work is needed to move the appliance safely.
 
 **Rough cost:** DIY runs about $20–60 in parts, 30–60 min. A pro service call runs about $150–300.
+
+## See Also
+
+- [LG CH45 Error Code - Causes & Fix](/posts/lg-mini-split-ch45-error-code/)
+- [LG Mini-Split CH27 Error Code - Causes & Fix](/posts/lg-mini-split-ch27-error-code/)
+- [LG Mini Split CH93 Error Code - Causes & Fix](/posts/lg-mini-split-ch93-error-code/)
+- [LG DLEX4000W Dryer Problems & Error Codes](/posts/lg-dlex4000w-dryer-problems/)

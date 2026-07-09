@@ -50,3 +50,10 @@ This fault is designed to prevent motor damage from sustained overcurrent, therm
 ## When to Call a Pro
 
 Call a qualified industrial electrician or Yaskawa-certified technician if the fault returns after you have corrected external load and wiring issues, if you lack the tools or experience to safely measure motor insulation and phase balance, or if the drive requires control board or internal component replacement. Professional support is also recommended for multi-drive systems, applications with critical uptime requirements, or any situation where the exact fault definition and parameter tuning are unclear. Yaskawa's field repair documentation for the GA800 limits supported service to cooling fan and control board replacement, so internal power or inverter section faults typically require factory service or board-level exchange.
+
+## See Also
+
+- [Yaskawa GA800 E83 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e83-fault-code/)
+- [Yaskawa GA800 VFD E54 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e54-fault-code/)
+- [Yaskawa GA800 CPF24 - Causes & Fix](/posts/yaskawa-ga800-vfd-f024-fault-code/)
+- [Yaskawa GA800 E81 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e81-fault-code/)

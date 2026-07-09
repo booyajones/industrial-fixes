@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician for W66 repairs. This fault requires high-voltage lockout, DC bus discharge procedures, component-level testing of the Power Card and IGBT module, and careful reassembly with insulation verification. Mistakes can destroy expensive power electronics or create shock hazards. If you are not trained in VFD service or do not have the proper test equipment (multimeter, insulation tester), do not attempt this repair. A pro can also adjust preheat parameters correctly and test the drive under full load to confirm the fix.
 
 **Rough cost:** A pro service call runs about $300-800.
+
+## See Also
+
+- [Danfoss FC302 AL-82 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-82-fault-code/)
+- [Danfoss FC302 ALARM 35 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-35-fault-code/)
+- [Danfoss FC302 AL-17 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-117-fault-code/)
+- [Danfoss FC302 VFD AL-127 - Causes & Fix](/posts/danfoss-fc302-vfd-al-127-fault-code/)

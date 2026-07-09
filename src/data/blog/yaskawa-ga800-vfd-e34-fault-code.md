@@ -50,3 +50,10 @@ This fault is tied to the soft-charge bypass relay hardware and its control circ
 ## When to Call a Pro
 
 Call a qualified industrial electrician or VFD technician if you are not trained to work inside energized or recently de-energized VFD cabinets. The DC bus capacitors can hold lethal voltage even after AC power is removed. If you have checked U4-06 and power cycled the drive but the fault returns, or if you do not have access to the elementary diagram and service documentation for your exact GA800 model, professional diagnosis is the safest path. Also call a pro if the fault persists after control board replacement, since drive-level failures often require factory support or warranty claim handling.
+
+## See Also
+
+- [Yaskawa GA800 F040 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f040-fault-code/)
+- [Yaskawa GA800 F045 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f045-fault-code/)
+- [Yaskawa A1000 Er-02 - Causes & Fix](/posts/yaskawa-a1000-vfd-al-02-fault-code/)
+- [Yaskawa GA800 E76 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e76-fault-code/)

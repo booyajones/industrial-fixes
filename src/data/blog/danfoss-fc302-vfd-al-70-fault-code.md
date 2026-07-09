@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or VFD technician if you are not trained to work with industrial drives and motor controls. The repair requires interpreting digital inputs, testing thermistor circuits, and configuring drive parameters. If the motor itself is overheating due to mechanical or electrical faults (bearing failure, rotor issues, phase imbalance), a motor specialist should diagnose and repair the root cause. High-voltage work and drive parameter changes should only be performed by personnel familiar with Danfoss VFD operation and safety lockout procedures.
 
 **Rough cost:** A pro service call runs about $200-500 for diagnostics, thermistor replacement, or MCB 112 card swap.
+
+## See Also
+
+- [Danfoss FC302 ALARM 15 - Causes & Fix](/posts/danfoss-fc302-alarm-15-fault-code/)
+- [Danfoss FC302 ALARM 45 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-45-fault-code/)
+- [Danfoss FC302 Alarm 51 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-51-fault-code/)
+- [Danfoss FC302 VFD AL-109 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-109-fault-code/)

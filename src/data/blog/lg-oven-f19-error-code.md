@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working with gas connections or high-voltage wiring, if the error persists after replacing the sensor and heating component, or if you lack a multimeter and cannot safely test resistance and continuity. Technicians can perform a full diagnostic sequence, measure igniter current draw on gas models, check for intermittent wiring faults, and replace the control board if all other components test good. Gas work in particular requires proper tools to check gas pressure and confirm safe ignition, so a licensed appliance technician is the best choice when igniters and gas valves are involved.
 
 **Rough cost:** DIY runs about $25-80 in parts, 20-45 min. A pro service call runs about $150-280.
+
+## See Also
+
+- [LG Dishwasher Error IE — Water Inlet Fix](/posts/lg-dishwasher-error-ie/)
+- [LG Washer Won't Start - Causes & Fix](/posts/lg-washer-wont-start/)
+- [LG Washer Drain Hose Replacement - Signs & How-To](/posts/lg-washer-drain-hose-replacement/)
+- [LG Mini Split CH46 Error Code - Causes & Fix](/posts/lg-mini-split-ch46-error-code/)

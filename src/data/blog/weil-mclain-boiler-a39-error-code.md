@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a professional immediately if you cannot access the diagnostics menu, if the fault history names a gas-valve or ignition component, or if you are uncomfortable working with gas or electrical connections. Technicians have the tools to measure sensor resistance, verify flame current, test gas pressure, and safely diagnose control-board and safety-circuit faults. Because A39 does not have a single published meaning across all Weil-McLain models, a qualified heating contractor is essential to map the code to the correct fault, test the named component, and perform the repair without guessing or replacing parts unnecessarily.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A183 Error - Causes & Fix](/posts/weil-mclain-boiler-a183-error-code/)
+- [Weil-McLain A66 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a66-error-code/)
+- [Weil-McLain A161 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a161-error-code/)
+- [Weil-McLain Boiler A34 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a34-error-code/)

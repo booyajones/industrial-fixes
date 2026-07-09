@@ -50,3 +50,10 @@ Because the GA800 service documentation directs technicians to start with the el
 ## When to Call a Pro
 
 Call a qualified VFD technician or Yaskawa authorized service provider if you cannot locate the E33 fault definition in your drive manual, if the fault returns after a power cycle, or if you are unfamiliar with three-phase power systems and drive parameter programming. Yaskawa GA800 troubleshooting requires access to the elementary diagram, parameter tables, and sometimes oscilloscope or power-quality analysis tools. Incorrect wiring changes or parameter edits can damage the drive or connected motor. Professional support is also recommended if the drive is part of a critical process or if you need to verify warranty coverage before opening the enclosure or replacing boards.
+
+## See Also
+
+- [Yaskawa GA800 A.136 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-136-fault-code/)
+- [Yaskawa A1000 CPF00 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf00-fault-code/)
+- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)
+- [Yaskawa GA800 E73 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e73-fault-code/)

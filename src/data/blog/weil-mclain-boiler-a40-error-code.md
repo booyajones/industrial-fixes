@@ -82,3 +82,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician any time you are uncomfortable working around natural gas or propane, cannot safely access the burner chamber, or lack a multimeter and manometer to test voltage and gas pressure. Gas appliances require precise combustion adjustments and leak-free connections. If you have confirmed the gas valve is open and the electrodes are clean but the fault persists, a technician will test gas pressure, valve operation, flame current, and control-board signals in sequence to pinpoint the failure. Do not attempt repeated resets or bypass any safety lockouts. Ignition-failure codes exist to protect you from gas buildup and potential explosions.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Weil-McLain Boiler A109 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a109-error-code/)
+- [Weil-McLain Boiler A120 Error - Causes & Fix](/posts/weil-mclain-boiler-a120-error-code/)
+- [Weil-McLain Boiler A147 Error - Causes & Fix](/posts/weil-mclain-boiler-a147-error-code/)
+- [Weil-McLain A75 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a75-error-code/)

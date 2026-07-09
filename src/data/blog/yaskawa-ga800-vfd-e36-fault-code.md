@@ -51,3 +51,10 @@ In applications where the drive is configured to use an external safety chain (E
 ## When to Call a Pro
 
 Call a qualified industrial electrician or Yaskawa-certified technician if you are not trained in safety-circuit troubleshooting, if the STO wiring diagram is unclear or unavailable, or if the fault continues after verifying that the STO loop is intact and the safety devices are reset. Safety circuits are critical to machine and personnel protection, and incorrect changes can create serious hazards. Also call for support if the drive requires parameter changes you are not authorized to make or if the fault persists with a confirmed good external circuit, as internal drive diagnostics or replacement may be needed.
+
+## See Also
+
+- [Yaskawa GA800 E47 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e47-fault-code/)
+- [Yaskawa U1000 Fault Codes: Complete Guide](/posts/yaskawa-u1000-fault-codes/)
+- [Yaskawa A1000 HCA Fault Code - Causes & Fix](/posts/yaskawa-a1000-vfd-hca-fault-code/)
+- [Yaskawa GA800 F014 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f014-fault-code/)

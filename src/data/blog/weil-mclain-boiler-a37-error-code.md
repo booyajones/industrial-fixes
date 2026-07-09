@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a qualified HVAC or boiler technician if you cannot retrieve a confirmed fault code from your control, if the boiler repeatedly locks out after you have checked pressure and gas supply, if you smell gas or see evidence of a gas leak, or if you need to test or replace the gas valve, control board, pressure switches, or any wired safety device. Professional diagnosis is also required when the fault history points to a combustion or flame-proving problem that persists after cleaning the flame sensor and burner area, or when the boiler model and control type do not match any code definition you can find in your manual.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain Boiler A156 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a156-error-code/)
+- [Weil-McLain A155 Error - Causes & Fix](/posts/weil-mclain-boiler-a155-error-code/)
+- [Weil-McLain Boiler A138 Error - Causes & Fix](/posts/weil-mclain-boiler-a138-error-code/)
+- [Weil-McLain Boiler A148 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a148-error-code/)

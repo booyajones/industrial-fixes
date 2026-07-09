@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a technician if you are uncomfortable removing the control panel cover, working near line voltage inside the range console, or diagnosing which of the two boards (touch pad vs. main control) has failed. A pro will use a multimeter to check continuity across each key trace and can quickly isolate whether the keypad flex circuit is shorted or the control board scan circuit is at fault. Also seek service if the error persists after you have cleaned the panel, performed a full power reset, and verified all harness connections, because intermittent electronic faults can require waveform analysis or board-level repair that is beyond typical DIY scope.
 
 **Rough cost:** DIY runs about $40–120 in parts (touch pad or membrane keypad), 30–60 min. A pro service call runs about $150–300 including service call and part.
+
+## See Also
+
+- [LG Washer Leaking Water - Causes & Fix](/posts/lg-washer-leaking-water/)
+- [LG Oven Heats Too Hot - Causes & Fix](/posts/lg-oven-heats-too-hot/)
+- [LG Microwave F3 Error Code - Causes & Fix](/posts/lg-microwave-f3-error-code/)
+- [LG Range F9 Error Code - Causes & Fix](/posts/lg-range-f9-error-code/)

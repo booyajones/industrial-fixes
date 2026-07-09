@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD or HVAC technician if you are not comfortable working with control wiring, 24V DC circuits, or variable frequency drives. This fault involves the drive's safety system, which is designed to prevent injury and equipment damage. A technician should diagnose the issue if you cannot locate the open circuit, if the drive does not clear after verifying 24V at Terminal 37, or if you suspect a fault in the drive's internal Safe Torque Off circuit. Do not permanently bypass the safety loop by leaving a jumper installed, as this defeats critical safety protections.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Danfoss AL 13 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-113-fault-code/)
+- [Danfoss FC302 AL-63 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-63-fault-code/)
+- [Danfoss FC302 AL-78 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-78-fault-code/)
+- [Danfoss FC302 AL-111 - Causes & Fix](/posts/danfoss-fc302-vfd-al-111-fault-code/)

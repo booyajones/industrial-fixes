@@ -71,3 +71,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician immediately if you do not have the service manual for your exact model, if the diagnostics require measuring gas pressure or testing electrical components, or if the code persists after you have followed the manual's troubleshooting steps. Weil-McLain boilers involve natural gas or propane under pressure, high-voltage ignition systems, and sealed combustion chambers. Working on these systems without proper training and tools can cause gas leaks, carbon-monoxide hazards, or equipment damage. A qualified technician has access to model-specific fault-code databases, the correct test equipment, and genuine Weil-McLain parts to diagnose and repair A38 safely and correctly.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A28 Error - Causes & Fix](/posts/weil-mclain-boiler-a28-error-code/)
+- [Weil-McLain A131 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a131-error-code/)
+- [Weil-McLain A02 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a02-error-code/)
+- [Weil-McLain A100 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a100-error-code/)

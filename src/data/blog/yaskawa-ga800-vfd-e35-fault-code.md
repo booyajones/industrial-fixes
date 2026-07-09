@@ -47,3 +47,10 @@ The E35 fault on a Yaskawa GA800 variable frequency drive signals that the motor
 ## When to Call a Pro
 
 Call a qualified drive technician or controls integrator if you are not familiar with VFD parameter programming, if the overspeed fault persists after tuning and encoder checks, or if the motor or feedback device requires replacement or recalibration. Professional support is also recommended for permanent-magnet motor commissioning, as auto-tuning and high-frequency injection setup require specialized knowledge to avoid instability and protect the motor. If the fault appears alongside other alarms or the drive shows signs of hardware damage, a technician with Yaskawa-specific training and diagnostic tools should inspect the unit.
+
+## See Also
+
+- [Yaskawa GA800 E01 Fault - Motor Data Error During Auto-Tune](/posts/yaskawa-ga800-e01-fault-code/)
+- [Yaskawa GA800 E34 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e34-fault-code/)
+- [Yaskawa GA800 A.107 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-107-fault-code/)
+- [Yaskawa GA800 E32 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e32-fault-code/)

@@ -2332,5 +2332,185 @@
     "score": 3,
     "reason": "No research provided to verify F8 is a real Frigidaire oven code; content admits meaning is unknown/variable, making this speculative filler rather than documented technical guidance.",
     "date": "2026-07-08"
+  },
+  "frigidaire-oven-f9-error-code": {
+    "topic": "Frigidaire oven F9 error code",
+    "score": 3,
+    "reason": "No research provided to verify F9 is a real Frigidaire oven code or that the stated meaning (door lock problem) is accurate for this brand; content appears speculative without grounding evidence.",
+    "date": "2026-07-09"
+  },
+  "bosch-oven-e01-error-code": {
+    "topic": "Bosch oven E01 error code",
+    "score": 0,
+    "reason": "No research provided to verify E01 is a real, documented Bosch oven code; cannot confirm accuracy for this brand+appliance combination, making publication irresponsible.",
+    "date": "2026-07-09"
+  },
+  "bosch-oven-e02-error-code": {
+    "topic": "Bosch oven E02 error code",
+    "score": 3,
+    "reason": "No research provided to verify E02 is a real Bosch oven code; content appears speculative/generic without brand-specific grounding required for accuracy.",
+    "date": "2026-07-09"
+  },
+  "bosch-oven-e03-error-code": {
+    "topic": "Bosch oven E03 error code",
+    "score": 2,
+    "reason": "No research provided to verify E03 is a real Bosch oven code; meaning and causes are speculative without documentation, violating requirement that codes must be confirmed for this exact brand and appliance.",
+    "date": "2026-07-09"
+  },
+  "bosch-oven-e04-error-code": {
+    "topic": "Bosch oven E04 error code",
+    "score": 3,
+    "reason": "No research provided to verify E04 is a real, documented Bosch oven code; content appears plausible but completely ungrounded and potentially invented.",
+    "date": "2026-07-09"
+  },
+  "bosch-oven-e05-error-code": {
+    "topic": "Bosch oven E05 error code",
+    "score": 3,
+    "reason": "No research provided to verify E05 is a real Bosch oven code; cannot confirm accuracy of meaning, causes, or procedures for this specific brand and appliance.",
+    "date": "2026-07-09"
+  },
+  "bosch-oven-e06-error-code": {
+    "topic": "Bosch oven E06 error code",
+    "score": 3,
+    "reason": "No research provided to verify E06 is a real Bosch oven code or that the stated meaning is accurate for this brand; content may be invented or borrowed from other brands without verification.",
+    "date": "2026-07-09"
+  },
+  "bosch-oven-e07-error-code": {
+    "topic": "Bosch oven E07 error code",
+    "score": 3,
+    "reason": "No research provided to verify E07 is a real Bosch oven code or confirm the stated meaning; content appears plausible but unverified and potentially invented.",
+    "date": "2026-07-09"
+  },
+  "bosch-oven-e08-error-code": {
+    "topic": "Bosch oven E08 error code",
+    "score": 3,
+    "reason": "No research provided to verify E08 is a real Bosch oven code; content appears speculative/invented without documentation, failing primary verification requirement.",
+    "date": "2026-07-09"
+  },
+  "bosch-oven-e09-error-code": {
+    "topic": "Bosch oven E09 error code",
+    "score": 3,
+    "reason": "No research provided to verify E09 is a real Bosch oven code; content admits meaning varies/is uncertain, making this speculative filler that could misinform users.",
+    "date": "2026-07-09"
+  },
+  "bosch-oven-e10-error-code": {
+    "topic": "Bosch oven E10 error code",
+    "score": 2,
+    "reason": "No research provided to verify E10 is a real Bosch oven code; content admits exact meaning varies and advises checking manual, indicating author lacks verified information for this specific brand+appliance combination.",
+    "date": "2026-07-09"
+  },
+  "bosch-oven-e11-error-code": {
+    "topic": "Bosch oven E11 error code",
+    "score": 2,
+    "reason": "No research provided to verify E11 is a real Bosch oven error code; content appears speculative and potentially invented without documentation.",
+    "date": "2026-07-09"
+  },
+  "bosch-oven-e100-error-code": {
+    "topic": "Bosch oven E100 error code",
+    "score": 2,
+    "reason": "No research provided to confirm E100 is a real, documented Bosch oven code; content admits uncertainty about meaning ('can vary by model'), making this speculative filler that fails verification requirement.",
+    "date": "2026-07-09"
+  },
+  "bosch-oven-e101-error-code": {
+    "topic": "Bosch oven E101 error code",
+    "score": 3,
+    "reason": "No research provided to verify E101 is a real Bosch oven code; content appears plausible but completely ungrounded and potentially invented.",
+    "date": "2026-07-09"
+  },
+  "bosch-oven-e126-error-code": {
+    "topic": "Bosch oven E126 error code",
+    "score": 0,
+    "reason": "No research provided to verify E126 is a real Bosch oven error code; cannot confirm accuracy or that content isn't invented/borrowed from other brands.",
+    "date": "2026-07-09"
+  },
+  "bosch-oven-e310-error-code": {
+    "topic": "Bosch oven E310 error code",
+    "score": 3,
+    "reason": "No research provided to verify E310 is a real Bosch oven code; cannot confirm accuracy of meaning, causes, or procedures for this specific brand and appliance.",
+    "date": "2026-07-09"
+  },
+  "bosch-oven-er4-error-code": {
+    "topic": "Bosch oven Er4 error code",
+    "score": 2,
+    "reason": "No research provided to confirm Er4 is a real, documented Bosch oven code; content is speculative and potentially invented without grounding evidence.",
+    "date": "2026-07-09"
+  },
+  "bosch-oven-er7-error-code": {
+    "topic": "Bosch oven Er7 error code",
+    "score": 0,
+    "reason": "No research provided to verify Er7 is a real Bosch oven error code; cannot confirm accuracy, meaning, or that this code exists for this brand/appliance combination.",
+    "date": "2026-07-09"
+  },
+  "bosch-oven-f32-error-code": {
+    "topic": "Bosch oven F32 error code",
+    "score": 2,
+    "reason": "No research provided to verify F32 is a real Bosch oven code; without documentation this is potentially invented content that could mislead technicians and homeowners.",
+    "date": "2026-07-09"
+  },
+  "bosch-oven-f42-error-code": {
+    "topic": "Bosch oven F42 error code",
+    "score": 0,
+    "reason": "No research provided to verify F42 is a real Bosch oven code; cannot confirm accuracy for this brand+appliance combination, making publication irresponsible.",
+    "date": "2026-07-09"
+  },
+  "bosch-oven-f44-error-code": {
+    "topic": "Bosch oven F44 error code",
+    "score": 3,
+    "reason": "No research provided to confirm F44 is a real, documented Bosch oven code; content admits uncertainty ('exact meaning can vary,' 'without documentation'), making this speculative filler that could misinform users.",
+    "date": "2026-07-09"
+  },
+  "kenmore-oven-f01-error-code": {
+    "topic": "Kenmore oven F01 error code",
+    "score": 3,
+    "reason": "No research provided to verify F01 is a real Kenmore oven code or that the stated meaning/causes are accurate for this brand; cannot confirm authenticity without grounding data.",
+    "date": "2026-07-09"
+  },
+  "kenmore-oven-f02-error-code": {
+    "topic": "Kenmore oven F02 error code",
+    "score": 3,
+    "reason": "No research provided to verify F02 is a real, documented Kenmore oven code; content appears speculative and cannot be confirmed as accurate for this brand+appliance combination.",
+    "date": "2026-07-09"
+  },
+  "kenmore-oven-f03-error-code": {
+    "topic": "Kenmore oven F03 error code",
+    "score": 0,
+    "reason": "No research provided to verify F03 is a real Kenmore oven code or that the stated meaning/causes are accurate for this brand; cannot validate authenticity or correctness.",
+    "date": "2026-07-09"
+  },
+  "kenmore-oven-f04-error-code": {
+    "topic": "Kenmore oven F04 error code",
+    "score": 3,
+    "reason": "No research provided to verify F04 is a real Kenmore oven code or that the diagnosis is accurate for this brand; cannot confirm authenticity without documentation.",
+    "date": "2026-07-09"
+  },
+  "kenmore-oven-f05-error-code": {
+    "topic": "Kenmore oven F05 error code",
+    "score": 3,
+    "reason": "No research provided to verify F05 is a real Kenmore oven code or confirm the stated meaning; cannot validate accuracy for this brand+appliance combination, making publication irresponsible.",
+    "date": "2026-07-09"
+  },
+  "kenmore-oven-f010-error-code": {
+    "topic": "Kenmore oven F010 error code",
+    "score": 3,
+    "reason": "No research provided to verify F010 is a real Kenmore oven code; content appears speculative/invented without documentation, failing primary authenticity requirement.",
+    "date": "2026-07-09"
+  },
+  "kenmore-oven-f030-error-code": {
+    "topic": "Kenmore oven F030 error code",
+    "score": 3,
+    "reason": "No research provided to verify F030 is a real, documented Kenmore oven code; cannot confirm accuracy of meaning or causes without grounding data.",
+    "date": "2026-07-09"
+  },
+  "kenmore-oven-f031-error-code": {
+    "topic": "Kenmore oven F031 error code",
+    "score": 3,
+    "reason": "No research provided to verify F031 is a real Kenmore oven code; without documentation, cannot confirm accuracy of relay/control board diagnosis for this specific brand and appliance.",
+    "date": "2026-07-09"
+  },
+  "kenmore-oven-f033-error-code": {
+    "topic": "Kenmore oven F033 error code",
+    "score": 3,
+    "reason": "No research provided to verify F033 is a real Kenmore oven code; cannot confirm accuracy of meaning or causes for this specific brand and appliance.",
+    "date": "2026-07-09"
   }
 }
