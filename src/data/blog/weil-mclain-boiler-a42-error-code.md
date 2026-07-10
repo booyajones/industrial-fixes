@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a professional heating contractor immediately if you see A42 on your Weil-McLain boiler. Gas-fired boilers require licensed technicians for diagnostics and repair due to safety codes, combustion hazards, and warranty requirements. A qualified contractor will use your exact model and serial number to pull the correct fault definition, test the suspect components with calibrated meters, and replace only the parts confirmed by the manufacturer's service procedure. Attempting DIY repairs on gas appliances without proper training and permits can void your warranty, create carbon-monoxide or explosion risks, and violate local building codes.
 
 **Rough cost:** A pro service call runs about $200-450.
+
+## See Also
+
+- [Weil-McLain Boiler A103 Error - Causes & Fix](/posts/weil-mclain-boiler-a103-error-code/)
+- [Weil-McLain Boiler Error Code E10 — Low Water Pressure Fix](/posts/weil-mclain-e10-low-pressure/)
+- [Weil-McLain A90 Error - Causes & Fix](/posts/weil-mclain-boiler-a90-error-code/)
+- [Weil-McLain A95 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a95-error-code/)

@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician as soon as you see an unfamiliar fault code. Gas-fired boilers require combustion testing, proper venting, and code-compliant electrical work. A technician will have the correct manual, diagnostic tools, and meter to read sensor values, check gas pressure, and verify safe operation. Attempting to reset or bypass safety controls without understanding the fault can create carbon-monoxide hazards or damage the heat exchanger. If you cannot find your model's manual or the fault persists after a power cycle, professional diagnosis is the safest and fastest route to a reliable repair.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain Boiler A149 Error - Causes & Fix](/posts/weil-mclain-boiler-a149-error-code/)
+- [Weil-McLain Code 3 — Low Water Cutoff Fix](/posts/weil-mclain-error-code-3/)
+- [Weil-McLain A01 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a101-error-code/)
+- [Weil-McLain A179 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a179-error-code/)

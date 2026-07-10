@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working with 240-volt appliance wiring, if the error persists after replacing both the bake element and temperature sensor, or if you suspect the main control board or internal thermal fuse. A technician has the service manual, wiring diagrams, and board-level diagnostic tools to pinpoint control-board faults and safely replace high-voltage components. Also call if you see evidence of arcing, burnt wire insulation, or damage inside the control-panel area, as these issues require experience with appliance electronics and fire-safety protocols.
 
 **Rough cost:** DIY runs about $30-80 in parts, 30-60 min. A pro service call runs about $150-280.
+
+## See Also
+
+- [LG LFXS28968S Refrigerator Problems & Error Codes](/posts/lg-lfxs28968s-refrigerator-problems/)
+- [LG Mini Split CH09 Error Code - Causes & Fix](/posts/lg-mini-split-ch09-error-code/)
+- [LG Washer Overflowing - Causes & Fix](/posts/lg-washer-overflowing/)
+- [LG Washer Leaking Water - Causes & Fix](/posts/lg-washer-leaking-water/)

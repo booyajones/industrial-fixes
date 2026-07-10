@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable removing oven panels or working around line-voltage terminals, if the error persists after you have replaced the probe and inspected the jack, or if you need to verify wiring continuity and resistance values that require a multimeter and service documentation. A technician can quickly substitute parts, trace harness faults, and confirm whether the control board is at fault. If the oven is still under warranty or a service contract, contact LG or an authorized service center before attempting repairs yourself.
 
 **Rough cost:** DIY runs about $15-50 in parts, 15-30 min. A pro service call runs about $100-200.
+
+## See Also
+
+- [LG Mini-Split CH26 Error Code — CT Sensor Fault](/posts/lg-mini-split-ch26-error-code/)
+- [LG Range HE Error Code - Causes & Fix](/posts/lg-range-he-error-code/)
+- [LG Dryer Shuts Off Early - Causes & Fix](/posts/lg-dryer-shuts-off-early/)
+- [LG Oven F19 Error Code - Causes & Fix](/posts/lg-oven-f19-error-code/)

@@ -81,3 +81,10 @@ Answer these to narrow it down fast.
 Call a technician if you are uncomfortable working inside the range or around 240-volt wiring. On gas models, if you smell gas, hear hissing, or are unsure how to safely disconnect the gas supply, stop and call for service. Also call a pro if you have replaced the element or igniter, tested the sensor and relay board, and the code still appears, since the main control board or a hidden wiring fault will require advanced diagnostics and tools.
 
 **Rough cost:** DIY runs about $30–120 in parts, 30–90 min. A pro service call runs about $150–300.
+
+## See Also
+
+- [LG Oven Not Heating - Causes & Fix](/posts/lg-oven-not-heating/)
+- [LG Dryer Burning Smell - Causes & Fix](/posts/lg-dryer-burning-smell/)
+- [LG Multi V VRF System Error Codes: Complete Guide](/posts/lg-multi-v-error-codes/)
+- [LG Mini-Split CH67 Error Code — Causes & Fix](/posts/lg-mini-split-ch67-error-code/)

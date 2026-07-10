@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a factory-trained Danfoss service technician when the alarm persists after a power cycle, when you have confirmed Alarm 38 with a sub-code that requires decoding, or when you need to replace the control or power board. VFD internal faults involve high DC-link voltages (often 650 VDC or higher) and complex diagnostics that require specialized test equipment and knowledge of the drive's firmware architecture. Danfoss does not publish sub-code meanings for Alarm 38, so only authorized service providers can interpret the exact fault and determine whether the control board, power board, or another internal component has failed.
 
 **Rough cost:** A pro service call runs about $400-1200.
+
+## See Also
+
+- [Danfoss FC302 AL-99 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-99-fault-code/)
+- [Danfoss FC302 Alarm 17 - Causes & Fix](/posts/danfoss-fc302-alarm-17-fault-code/)
+- [Danfoss FC301 Fault AL 14 — Ground Fault Causes & Fix](/posts/danfoss-fc301-fault-al-14/)
+- [Danfoss FC302 VFD Alarm 23 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-23-fault-code/)

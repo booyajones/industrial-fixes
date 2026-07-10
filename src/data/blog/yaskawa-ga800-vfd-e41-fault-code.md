@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa support immediately if you see an unfamiliar fault code, if the drive will not clear the fault after a power cycle, or if you smell burning or see physical damage. VFD troubleshooting requires high-voltage safety training, knowledge of motor control wiring, and access to manufacturer diagnostics. The GA800 contains lethal DC bus voltage that persists after AC power is removed. Do not open the drive enclosure or attempt component-level repairs without proper lockout/tagout, discharge procedures, and manufacturer authorization. Yaskawa's technical support emphasizes using the drive's model, serial number, and exact fault code to guide diagnosis, and the manufacturer provides telephone support and field service for drives under warranty or service contract.
 
 **Rough cost:** A pro service call runs about $200-800 depending on diagnosis and parts.
+
+## See Also
+
+- [Yaskawa GA800 E01 Fault - Motor Data Error During Auto-Tune](/posts/yaskawa-ga800-e01-fault-code/)
+- [Yaskawa GA800 E84 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e84-fault-code/)
+- [Yaskawa A1000 AL16 - Causes & Fix](/posts/yaskawa-a1000-vfd-al-16-fault-code/)
+- [Yaskawa A1000 AL-31 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-31-fault-code/)

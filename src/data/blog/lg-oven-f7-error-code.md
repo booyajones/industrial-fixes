@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified appliance technician if you are uncomfortable working inside a 240-volt electric range, if the control board shows burnt relay terminals or capacitors, or if the code persists after replacing the sensor and heating elements. Technicians have factory diagnostics to force-cycle the relays and measure real-time sensor voltages. Also call a pro if your range uses gas burners in the oven cavity, since gas valve and igniter work requires certification. If your model error list indicates the F7 is a convection-fan fault rather than a heating fault, fan-motor replacement often requires removing the entire oven cavity, which is a two-person job with special brackets.
 
 **Rough cost:** DIY runs about $20–80 in parts, 30–60 minutes. A pro service call runs about $150–300.
+
+## See Also
+
+- [LG Range E8 Error Code - Causes & Fix](/posts/lg-range-e8-error-code/)
+- [LG Washer PE Error Code - Causes & Fix](/posts/lg-washer-pe-error-code/)
+- [LG Mini Split CH10 Error Code — Causes & Fix](/posts/lg-mini-split-ch10-error-code/)
+- [LG Washer Drain Hose Replacement - Signs & How-To](/posts/lg-washer-drain-hose-replacement/)

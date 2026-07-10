@@ -48,3 +48,10 @@ Yaskawa technical support requires the drive model and spec number, serial numbe
 ## When to Call a Pro
 
 Call a qualified industrial electrician or Yaskawa-certified technician if you cannot locate E38 in your drive's fault table, if the fault returns after reseating option cards and checking wiring, or if you are unfamiliar with VFD safety lockout and DC bus discharge procedures. High-voltage DC bus capacitors remain energized for several minutes after power-down and can cause fatal shock. Professional diagnostics with Yaskawa DriveWizard software and direct factory support are often required for faults not clearly documented in the manual.
+
+## See Also
+
+- [Yaskawa GA800 A.138 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-138-fault-code/)
+- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
+- [Yaskawa GA800 F018 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f018-fault-code/)
+- [Yaskawa A1000 oPr Fault Code - Causes & Fix](/posts/yaskawa-a1000-vfd-opr-fault-code/)

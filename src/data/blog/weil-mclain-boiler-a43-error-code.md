@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you cannot access the fault-history menu, do not have the service manual for your exact model, or are uncomfortable working with gas piping and 120 V control circuits. A qualified technician will use the model-specific fault table to identify the exact input or output that triggered A43, test each component with a multimeter, and replace only the verified failed part. Gas ignition, flame-proving, and control-board diagnostics require training and proper test equipment. Repeated resets without correcting the root cause can damage the control or create a safety hazard.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Weil-McLain A18 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a18-error-code/)
+- [Weil-McLain A97 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a97-error-code/)
+- [Weil-McLain Boiler A20 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a20-error-code/)
+- [Weil-McLain Boiler A53 Error - Causes & Fix](/posts/weil-mclain-boiler-a53-error-code/)

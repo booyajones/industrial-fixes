@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified Yaskawa technician or industrial controls specialist if you are not familiar with encoder feedback systems, if the alarm does not clear after re-seating the connector, or if you lack the tools to verify cable continuity and pinout. Encoder wiring errors can damage the drive's feedback input circuitry, and incorrect grounding or noise mitigation can cause intermittent faults that are hard to trace. A professional can use an oscilloscope to verify encoder signal integrity, confirm proper grounding, and substitute known-good modules to isolate the failed component without risking further damage.
 
 **Rough cost:** A pro service call runs about $200-600.
+
+## See Also
+
+- [Yaskawa GA800 F011 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f011-fault-code/)
+- [Yaskawa GA800 E49 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e49-fault-code/)
+- [Yaskawa GA800 F001 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f001-fault-code/)
+- [Yaskawa U1000 Fault Codes: Complete Guide](/posts/yaskawa-u1000-fault-codes/)

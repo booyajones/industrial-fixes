@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified technician or controls specialist if you are not comfortable working with 24V control circuits, interpreting VFD parameters, or tracing wiring in an industrial control panel. A professional should handle all troubleshooting if the drive is part of a safety-rated system (SIL-rated Safe Stop) where incorrect configuration could create a hazard. Also call a pro if the warning persists after you have verified the wiring and parameters are correct, as this may indicate a failing control board or a noise issue requiring shielded cable rerouting and grounding work.
 
 **Rough cost:** A pro service call runs about $100-250 depending on whether it is wiring repair or a faulty safety switch.
+
+## See Also
+
+- [Danfoss FC302 VFD Alarm 16 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-16-fault-code/)
+- [Danfoss FC302 AL-131 (Overcurrent) - Causes & Fix](/posts/danfoss-fc302-vfd-al-131-fault-code/)
+- [Danfoss FC302 AL-19 - Causes & Fix](/posts/danfoss-fc302-vfd-al-19-fault-code/)
+- [Danfoss FC302 Alarm 81 - Causes & Fix](/posts/danfoss-fc302-vfd-al-81-fault-code/)

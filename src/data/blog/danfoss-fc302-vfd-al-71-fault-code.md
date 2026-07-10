@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or VFD technician if you are not trained in variable frequency drive troubleshooting, motor thermal testing, or high-voltage DC bus work. This fault involves safety interlocks and Safe Torque Off circuits that are part of machinery safety systems. Incorrect diagnosis can lead to unsafe restarts or machinery damage. A pro has the proper test equipment (megohm testers, programming software like Danfoss MCT) and experience with parameter configuration in group 16-xx. If the control card needs replacement or motor insulation has failed, a technician should perform the repair and validate the drive operates safely under load.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Danfoss FC302 AL-111 - Causes & Fix](/posts/danfoss-fc302-vfd-al-111-fault-code/)
+- [Danfoss FC302 Alarm 38 - Causes & Fix](/posts/danfoss-fc302-alarm-38-fault-code/)
+- [Danfoss FC302 Alarm 39 - Causes & Fix](/posts/danfoss-fc302-alarm-39-fault-code/)
+- [Danfoss FC302 ALARM 20 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-20-fault-code/)

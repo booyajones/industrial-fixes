@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or controls specialist for AL-72 faults. This alarm indicates a severe overtemperature condition that may have already damaged internal semiconductors, and diagnosis requires high-voltage electrical testing, access to the power section, and specialized knowledge of IGBT and heatsink sensor circuits. If cleaning the heatsink and verifying fan operation does not clear the fault, internal component testing and potential power board replacement are required, and incorrect diagnosis can result in expensive parts replacement or further damage to the drive.
 
 **Rough cost:** A pro service call runs about $200-800.
+
+## See Also
+
+- [Danfoss FC302 AL-62 - Causes & Fix](/posts/danfoss-fc302-vfd-al-62-fault-code/)
+- [Danfoss FC302 Alarm 11 - DC Voltage Too Low Causes & Fix](/posts/danfoss-fc302-vfd-al-110-fault-code/)
+- [Danfoss FC302 Alarm 32 - Causes & Fix](/posts/danfoss-fc302-alarm-32-fault-code/)
+- [Danfoss FC302 AL-160 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-160-fault-code/)

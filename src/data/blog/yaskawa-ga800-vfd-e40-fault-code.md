@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified Yaskawa-authorized technician or contact Yaskawa technical support directly if E40 persists after you have verified all wiring, reseated option cards, and restored factory parameters. Non-standard fault codes often require access to proprietary diagnostic software, detailed knowledge of your system's elementary diagram, and the ability to safely measure high-voltage DC bus and control circuit voltages. Because the GA800 can be configured with many optional communication protocols and I/O expansions, troubleshooting an undocumented code without manufacturer guidance risks damaging the drive or connected equipment. Professional support is also necessary if you suspect the main control board has failed, as replacement requires careful handling of static-sensitive components and transfer of configuration data.
 
 **Rough cost:** A pro service call runs about $200–500 depending on whether the issue is wiring, an option card, or the control board.
+
+## See Also
+
+- [Yaskawa GA800 E31 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e31-fault-code/)
+- [Yaskawa A1000 CPF01 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf01-fault-code/)
+- [Yaskawa GA800 Fault 030 - Causes & Fix](/posts/yaskawa-ga800-vfd-f030-fault-code/)
+- [Yaskawa GA800 E02 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e02-fault-code/)

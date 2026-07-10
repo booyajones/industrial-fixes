@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified appliance technician if the F6 code returns after you have replaced the upper oven sensor and verified the wiring is intact, if you are uncomfortable working with 240 V electrical connections, or if your model requires disassembly beyond removing interior oven panels. A technician can perform precise resistance and voltage tests using the model-specific service manual, diagnose control board faults accurately, and replace the board safely. Also call if you suspect the wiring harness is damaged inside the chassis where routing is complex or if the oven is still under warranty.
 
 **Rough cost:** DIY runs about $30–80 in parts, 30–60 min. A pro service call runs about $150–300.
+
+## See Also
+
+- [LG Mini Split CH60 Error - Causes & Fix](/posts/lg-mini-split-ch60-error-code/)
+- [LG Microwave DOOR Error - Causes & Fix](/posts/lg-microwave-door-error-code/)
+- [LG Oven F5 Error Code - Causes & Fix](/posts/lg-oven-f5-error-code/)
+- [LG Mini-Split CH21 Error Code — Outdoor Unit High Pressure](/posts/lg-mini-split-ch21-error-code/)

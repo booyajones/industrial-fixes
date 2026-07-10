@@ -2512,5 +2512,179 @@
     "score": 3,
     "reason": "No research provided to verify F033 is a real Kenmore oven code; cannot confirm accuracy of meaning or causes for this specific brand and appliance.",
     "date": "2026-07-09"
+  },
+  "kenmore-oven-f050-error-code": {
+    "topic": "Kenmore oven F050 error code",
+    "score": 3,
+    "reason": "No research provided to verify F050 is a real Kenmore oven code; cannot confirm accuracy of meaning, causes, or repair steps without documentation.",
+    "date": "2026-07-10"
+  },
+  "amana-oven-f0-error-code": {
+    "topic": "Amana oven F0 error code",
+    "score": 3,
+    "reason": "No research provided to verify F0 is a real Amana oven code; cannot confirm authenticity, meaning, or causes for this specific brand/appliance combination.",
+    "date": "2026-07-10"
+  },
+  "amana-oven-f1-error-code": {
+    "topic": "Amana oven F1 error code",
+    "score": 3,
+    "reason": "No research provided to verify this F1 code is real and documented for Amana ovens specifically; cannot confirm accuracy of meaning, causes, or troubleshooting steps without grounding evidence.",
+    "date": "2026-07-10"
+  },
+  "amana-oven-f2-error-code": {
+    "topic": "Amana oven F2 error code",
+    "score": 3,
+    "reason": "No research provided to verify F2 is a real, documented code for Amana ovens specifically; cannot confirm accuracy of meaning or causes without grounding data.",
+    "date": "2026-07-10"
+  },
+  "amana-oven-f3-error-code": {
+    "topic": "Amana oven F3 error code",
+    "score": 3,
+    "reason": "No research provided to verify F3 is a real Amana oven code or confirm its meaning; cannot validate accuracy for this specific brand/appliance combination, making publication irresponsible.",
+    "date": "2026-07-10"
+  },
+  "amana-oven-f4-error-code": {
+    "topic": "Amana oven F4 error code",
+    "score": 0,
+    "reason": "FAIL: No research provided to verify F4 is a real Amana oven code or that the temperature sensor diagnosis is correct for this brand; cannot verify accuracy without grounding data.",
+    "date": "2026-07-10"
+  },
+  "amana-oven-f6-error-code": {
+    "topic": "Amana oven F6 error code",
+    "score": 3,
+    "reason": "No research provided to verify F6 is a real Amana oven code; meaning, causes, and fix steps are ungrounded speculation that could mislead users and waste money.",
+    "date": "2026-07-10"
+  },
+  "amana-oven-f7-error-code": {
+    "topic": "Amana oven F7 error code",
+    "score": 3,
+    "reason": "No research provided to verify F7 is a real, documented Amana oven code; cannot confirm accuracy of meaning or causes for this specific brand/appliance combination.",
+    "date": "2026-07-10"
+  },
+  "amana-oven-f8-error-code": {
+    "topic": "Amana oven F8 error code",
+    "score": 2,
+    "reason": "No research provided to verify F8 is a real Amana oven code; content appears speculative and potentially invented without documented grounding for this specific brand and appliance.",
+    "date": "2026-07-10"
+  },
+  "amana-oven-f9-error-code": {
+    "topic": "Amana oven F9 error code",
+    "score": 3,
+    "reason": "No research provided to verify F9 is a real Amana oven code or that it relates to door lock circuits; cannot confirm accuracy for this specific brand/appliance combination.",
+    "date": "2026-07-10"
+  },
+  "samsung-range-e-01-error-code": {
+    "topic": "Samsung range E-01 error code",
+    "score": 3,
+    "reason": "No research provided to verify E-01 is a real Samsung range error code; without grounding, the meaning, causes, and repair steps cannot be validated as accurate for this specific brand and appliance.",
+    "date": "2026-07-10"
+  },
+  "samsung-range-e-24-error-code": {
+    "topic": "Samsung range E-24 error code",
+    "score": 2,
+    "reason": "No research provided to confirm E-24 is a real Samsung range error code; content admits code meaning is unknown and varies by model, making this speculative filler rather than documented technical guidance.",
+    "date": "2026-07-10"
+  },
+  "samsung-range-e-51-error-code": {
+    "topic": "Samsung range E-51 error code",
+    "score": 3,
+    "reason": "No research provided to verify E-51 is a real Samsung range code; cannot confirm accuracy of meaning, causes, or fixes\u2014publishing unverified repair advice risks user safety and misinformation.",
+    "date": "2026-07-10"
+  },
+  "samsung-range-e-53-error-code": {
+    "topic": "Samsung range E-53 error code",
+    "score": 3,
+    "reason": "No research provided to verify E-53 is a real Samsung range code; cannot confirm accuracy of meaning, causes, or fixes for this specific brand and appliance combination.",
+    "date": "2026-07-10"
+  },
+  "samsung-range-e-54-error-code": {
+    "topic": "Samsung range E-54 error code",
+    "score": 0,
+    "reason": "FAIL: No research provided to confirm E-54 is a real Samsung range code; cannot verify accuracy for this brand+appliance combination, making publication irresponsible.",
+    "date": "2026-07-10"
+  },
+  "samsung-range-c-f0-error-code": {
+    "topic": "Samsung range C-F0 error code",
+    "score": 3,
+    "reason": "No research provided to verify C-F0 is a real Samsung range code; content appears plausible but ungrounded and cannot be validated as accurate for this specific brand+appliance combination.",
+    "date": "2026-07-10"
+  },
+  "samsung-range-c-f1-error-code": {
+    "topic": "Samsung range C-F1 error code",
+    "score": 0,
+    "reason": "No research provided to verify C-F1 is a real Samsung range code; cannot confirm accuracy of meaning, causes, or fixes without grounding documentation.",
+    "date": "2026-07-10"
+  },
+  "samsung-range-e08-error-code": {
+    "topic": "Samsung range E08 error code",
+    "score": 3,
+    "reason": "No research provided to verify E08 is a real Samsung range code; meaning and causes appear speculative/invented without documentation, failing verification requirement.",
+    "date": "2026-07-10"
+  },
+  "samsung-range-e27-error-code": {
+    "topic": "Samsung range E27 error code",
+    "score": 3,
+    "reason": "No research provided to verify E27 is a real Samsung range code; without documentation, this appears to be speculative content that could misinform users attempting repairs.",
+    "date": "2026-07-10"
+  },
+  "samsung-range-e28-error-code": {
+    "topic": "Samsung range E28 error code",
+    "score": 3,
+    "reason": "No research provided to confirm E28 is a real Samsung range code; draft explicitly admits uncertainty about code's existence and meaning, making this speculative content rather than documented technical guidance.",
+    "date": "2026-07-10"
+  },
+  "samsung-range-e54-error-code": {
+    "topic": "Samsung range E54 error code",
+    "score": 3,
+    "reason": "No research provided to verify E54 is a real Samsung range code; meaning, causes, and fixes cannot be validated and may be invented or borrowed from other codes/brands.",
+    "date": "2026-07-10"
+  },
+  "samsung-range-e-55-error-code": {
+    "topic": "Samsung range E-55 error code",
+    "score": 3,
+    "reason": "No research provided to confirm E-55 is a real Samsung range error code; cannot verify accuracy of meaning, causes, or fixes for this specific brand and appliance.",
+    "date": "2026-07-10"
+  },
+  "samsung-range-ce-56-error-code": {
+    "topic": "Samsung range cE-56 error code",
+    "score": 3,
+    "reason": "No research provided to verify CE-56 is a real Samsung range code; cannot confirm accuracy of meaning or causes without documentation, making this potentially fabricated content.",
+    "date": "2026-07-10"
+  },
+  "lg-range-h5-error-code": {
+    "topic": "LG range H5 error code",
+    "score": 3,
+    "reason": "No research provided to verify H5 is a real, documented LG range error code; content admits exact meaning varies and is speculative without grounding evidence.",
+    "date": "2026-07-10"
+  },
+  "frigidaire-range-f6-error-code": {
+    "topic": "Frigidaire range F6 error code",
+    "score": 3,
+    "reason": "No research provided to verify F6 is a real Frigidaire range code or that the stated causes are accurate for this brand; cannot confirm this isn't borrowed from another manufacturer or invented.",
+    "date": "2026-07-10"
+  },
+  "frigidaire-range-f7-error-code": {
+    "topic": "Frigidaire range F7 error code",
+    "score": 3,
+    "reason": "No research provided to verify F7 is a real Frigidaire range code; content appears speculative/generic without documented grounding for this specific brand and appliance combination.",
+    "date": "2026-07-10"
+  },
+  "frigidaire-range-f9-error-code": {
+    "topic": "Frigidaire range F9 error code",
+    "score": 3,
+    "reason": "No research provided to verify F9 is a real, documented Frigidaire range code; cannot confirm accuracy of meaning, causes, or fixes without grounding evidence.",
+    "date": "2026-07-10"
+  },
+  "kenmore-range-f0-error-code": {
+    "topic": "Kenmore range F0 error code",
+    "score": 2,
+    "reason": "No research provided to verify F0 is a real Kenmore range code; cannot confirm accuracy of meaning, causes, or fixes without documentation.",
+    "date": "2026-07-10"
+  },
+  "kenmore-range-f01-error-code": {
+    "topic": "Kenmore range F01 error code",
+    "score": 3,
+    "reason": "No research provided to verify F01 is a real Kenmore range code or confirm the stated causes; cannot validate accuracy for this brand+appliance combination.",
+    "date": "2026-07-10"
   }
 }

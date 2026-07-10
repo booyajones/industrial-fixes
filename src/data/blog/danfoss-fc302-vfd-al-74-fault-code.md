@@ -70,3 +70,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Danfoss-authorized service center immediately if you cannot locate Alarm 74 in your drive's manual, if the alarm recurs after a reset, or if you suspect the drive has suffered a power surge or parameter corruption. High-voltage DC bus capacitors remain charged for several minutes after shutdown, and incorrect troubleshooting can destroy IGBT modules or injure personnel. A technician will use insulation testers, IGBT gate-drive analyzers, and parameter comparison tools to isolate the fault safely. Because Alarm 74 is not a standard FC302 code, professional diagnosis is the only way to confirm whether the issue is a display error, custom alarm, or undocumented firmware behavior.
 
 **Rough cost:** A pro service call runs about $400-1200.
+
+## See Also
+
+- [Danfoss FC302 AL-63 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-63-fault-code/)
+- [Danfoss FC302 VFD AL-87 - Causes & Fix](/posts/danfoss-fc302-vfd-al-87-fault-code/)
+- [Danfoss FC302 AL-149 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-149-fault-code/)
+- [Danfoss FC302 AL-138 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-138-fault-code/)

@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician if the code persists after two reset attempts. Ignition failures involve gas appliances and flame detection, both of which require specific diagnostic tools (multimeters, microamp meters, gas pressure gauges) and training. Technicians can measure ignitor resistance, flame sensor signal, gas valve voltage, and inspect for warping or connection faults. Misdiagnosing an ignition issue can lead to unsafe operation or carbon monoxide risk. Always consult the specific Weil-McLain installation and service manual for your model for exact specifications and part numbers.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Weil-McLain A151 Error - Causes & Fix](/posts/weil-mclain-boiler-a151-error-code/)
+- [Weil-McLain Boiler A80 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a80-error-code/)
+- [Weil-McLain Boiler Error Code E08 — Causes & Fix](/posts/weil-mclain-e08-error-code/)
+- [Weil-McLain Boiler A62 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a62-error-code/)

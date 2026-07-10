@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician for an A44 fault. Gas-fired boilers require combustion-safety knowledge, proper diagnostic tools to measure sensor circuits accurately, and familiarity with Weil-McLain control logic. A pro will isolate whether the fault is in the sensor, wiring, or control board, test the circuit under operating conditions, and replace only the failed component. Misdiagnosing this code and replacing the wrong part wastes money and leaves the boiler unsafe. If you see the A44 code, do not attempt to bypass the sensor or force the unit to run. Document any recent service or part changes and share that history with your technician to speed diagnosis.
 
 **Rough cost:** A pro service call runs about $200-400.
+
+## See Also
+
+- [Weil-McLain A102 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a102-error-code/)
+- [Weil-McLain A30 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a30-error-code/)
+- [Weil-McLain Boiler A73 Error - Causes & Fix](/posts/weil-mclain-boiler-a73-error-code/)
+- [Weil-McLain A57 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a57-error-code/)
