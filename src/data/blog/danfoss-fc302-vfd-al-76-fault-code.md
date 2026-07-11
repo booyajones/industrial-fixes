@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or drive technician if you are not comfortable working with three-phase power or performing high-voltage insulation tests. Replacing the drive's internal rectifier or IGBT module requires knowledge of DC bus discharge procedures and proper torque specs for power terminals. If the motor tests show a winding fault, a motor shop can rewind or replace the motor. Any work on the VFD power section should be done by someone trained in variable-frequency drive service to avoid electric shock or further damage to the drive.
 
 **Rough cost:** A pro service call runs about $300-800 for motor cable replacement or power board repair; motor replacement $500-3,000 depending on size.
+
+## See Also
+
+- [Danfoss FC302 Alarm 26 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-26-fault-code/)
+- [Danfoss FC302 AL-158 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-158-fault-code/)
+- [Danfoss FC302 AL-65 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-65-fault-code/)
+- [Danfoss FC302 AL-62 - Causes & Fix](/posts/danfoss-fc302-vfd-al-62-fault-code/)

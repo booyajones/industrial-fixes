@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a qualified technician or Danfoss service partner if WARNING 77 persists after you have cleared vents, confirmed fan operation, and verified input voltage balance. High-voltage troubleshooting of the rectifier section and internal temperature sensors requires specialized test equipment and familiarity with VFD power modules. If swapping input phases shows the low-current phase stays in the same position (indicating a rectifier fault rather than a mains problem), the drive will need internal repair or module replacement. Similarly, if ambient conditions are within specification but the drive continues to enter reduced power mode, an internal heat sink sensor or control board fault is likely.
 
 **Rough cost:** A pro service call runs about $150-400 for cleaning, fan replacement, and voltage correction.
+
+## See Also
+
+- [Danfoss FC302 AL-123 Fault Code - Causes & Fix](/posts/danfoss-fc302-vfd-al-123-fault-code/)
+- [Danfoss FC302 AL-98 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-98-fault-code/)
+- [Danfoss VLT AL 4 Fault - Causes & Fix](/posts/danfoss-vlt-vfd-al-4-fault-code/)
+- [Danfoss FC302 Alarm 13 - Causes & Fix](/posts/danfoss-fc302-vfd-al-137-fault-code/)

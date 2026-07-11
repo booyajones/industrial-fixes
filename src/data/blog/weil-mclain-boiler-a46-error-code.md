@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician or boiler specialist immediately if you cannot find documentation for code A46, if the boiler is locked out and will not run, or if you are uncomfortable working with gas-fired equipment. Boiler diagnostics often require specialized tools to measure gas pressure, combustion efficiency, and electrical signals that are not available to most homeowners. Weil-McLain also recommends that warranty repairs and parts replacement be performed by qualified heating professionals who document the failed part description and part number, which protects your warranty coverage and ensures the correct part is installed. If your boiler is under warranty, contact an authorized Weil-McLain service provider to avoid voiding coverage.
 
 **Rough cost:** A pro service call runs about $150-400 depending on diagnosis and part.
+
+## See Also
+
+- [Weil-McLain Boiler A39 Error - Causes & Fix](/posts/weil-mclain-boiler-a39-error-code/)
+- [Weil-McLain A79 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a79-error-code/)
+- [Weil-McLain Boiler A22 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a22-error-code/)
+- [Weil-McLain Boiler A171 Error - Causes & Fix](/posts/weil-mclain-boiler-a171-error-code/)

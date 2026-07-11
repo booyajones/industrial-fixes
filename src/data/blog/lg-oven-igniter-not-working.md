@@ -68,3 +68,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Gas appliance ignition work involves working around open flame, testing live circuits under load, and verifying proper combustion. If you are not comfortable measuring igniter current, accessing the bake-burner compartment, or confirming that gas flow and flame pattern are correct after repair, call a qualified appliance technician. A pro can also diagnose relay and control-board faults quickly and will have the correct replacement igniter and harness connectors on the truck. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [LG Range F6 Error Code - Causes & Fix](/posts/lg-range-f6-error-code/)
+- [LG LFXS28968S Refrigerator Problems & Error Codes](/posts/lg-lfxs28968s-refrigerator-problems/)
+- [LG Microwave Buttons Not Working - Causes & Fix](/posts/lg-microwave-buttons-not-working/)
+- [LG Oven F8 Error Code - Causes & Fix](/posts/lg-oven-f8-error-code/)

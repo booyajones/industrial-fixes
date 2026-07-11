@@ -71,3 +71,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or Yaskawa-certified technician if you are unfamiliar with variable-frequency drives, if the fault does not clear after re-seating or replacing the option card, or if you need to verify proper network configuration and parameters. VFDs operate at high voltage and store energy in capacitors even after power is removed, so improper handling can cause serious injury or equipment damage. A technician can safely inspect the CN5-A connector, test with diagnostic equipment, and coordinate warranty or advanced support with Yaskawa if the drive itself is faulty.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Yaskawa GA800 E14 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e14-fault-code/)
+- [Yaskawa GA800 E19 Fault - Causes & Fix](/posts/yaskawa-ga800-e19-fault-code/)
+- [Yaskawa GA800 F022 - Causes & Fix](/posts/yaskawa-ga800-vfd-f022-fault-code/)
+- [Yaskawa GA800 E01 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e01-fault-code/)

@@ -68,3 +68,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a technician if you are not comfortable working inside a 240-volt electric range, if you cannot access the sensor or control board safely, or if the oven continues to overheat after you have replaced the sensor and verified all wiring. A pro can also perform live voltage checks at the heating element and board to isolate a stuck relay or board fault. For gas ranges, any work involving the gas valve, burner, or igniter system should be handled by a qualified service tech. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [LG Dishwasher LE Error Code - Causes & Fix](/posts/lg-dishwasher-le-error-code/)
+- [LG Microwave F-5 Error Code - Causes & Fix](/posts/lg-microwave-f-5-error-code/)
+- [LG Mini Split Making Noise - Causes & Fix](/posts/lg-mini-split-making-noise/)
+- [LG Oven F1 Error Code - Causes & Fix](/posts/lg-oven-f1-error-code/)

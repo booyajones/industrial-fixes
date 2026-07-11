@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a licensed heating contractor or boiler technician immediately if you cannot locate your boiler model number, if your control does not have a diagnostics menu, or if you have retrieved the fault history but A49 does not appear in your service manual's code table. A technician has access to Weil-McLain's technical support line, can cross-reference your control platform against the factory fault database, and can perform live voltage and resistance measurements safely. Also call a pro if A49 points to a gas-valve fault, a combustion-control issue, or a sealed hydronic-system component, since those repairs involve gas-line work, combustion tuning, or pressure testing that requires trade certification and insurance. Attempting to replace a control board or sensor without confirming the exact part number and fault definition wastes money and can introduce new faults if the replacement does not match your boiler's configuration.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain Boiler A123 Error - Causes & Fix](/posts/weil-mclain-boiler-a123-error-code/)
+- [Weil-McLain A04 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a04-error-code/)
+- [Weil-McLain A18 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a18-error-code/)
+- [Weil-McLain A57 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a57-error-code/)

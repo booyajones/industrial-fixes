@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician immediately if you smell gas, if you are not confident working with gas piping and electrical controls, or if the boiler continues to lock out after you have confirmed gas supply and cleaned the flame sensor. Gas ignition systems require precise electrode gaps, proper grounding, and control-board diagnostics that are beyond typical homeowner tools. Repeated failed ignition attempts can flood the combustion chamber with unburned gas, creating a dangerous condition. A qualified technician will use a combustion analyzer, multimeter, and the model-specific service manual to diagnose ignition timing, flame signal strength, and gas valve operation. Because Weil-McLain emphasizes that only qualified installers and service technicians should perform these checks, professional service is the safest and most reliable path to a correct repair.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A27 Error - Causes & Fix](/posts/weil-mclain-boiler-a27-error-code/)
+- [Weil-McLain A51 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a51-error-code/)
+- [Weil-McLain Boiler A22 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a22-error-code/)
+- [Weil-McLain Boiler A69 Error - Causes & Fix](/posts/weil-mclain-boiler-a69-error-code/)

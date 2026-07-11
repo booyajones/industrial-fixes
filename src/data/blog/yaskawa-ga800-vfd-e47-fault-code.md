@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified drive technician or contact Yaskawa Technical Support whenever a non-standard or undocumented fault code appears and you cannot identify the cause using the elementary diagram and control terminal checks. Professional diagnosis is required if the fault persists after all external control signals, option hardware, and wiring have been verified and disconnected. Do not attempt to replace the control board without authorization from Yaskawa, as the fault may be covered under warranty or require factory-level diagnostics. Yaskawa service material states that repair support is generally limited to fan and control board replacement, so field personnel should gather the model number, spec code, serial number, and failure details before calling for support.
 
 **Rough cost:** A pro service call runs about $200–500 for wiring diagnosis and control board replacement if needed.
+
+## See Also
+
+- [Yaskawa GA800 E14 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e14-fault-code/)
+- [Yaskawa GA800 E37 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e37-fault-code/)
+- [Yaskawa GA800 A.112 Alarm - Causes & Fix](/posts/yaskawa-ga800-vfd-a-112-fault-code/)
+- [Yaskawa GA800 E14 Fault - Causes & Fix](/posts/yaskawa-ga800-e14-fault-code/)

@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or Yaskawa-certified technician if the fault definition involves high-voltage power circuits, internal drive hardware, or if you are not trained in VFD troubleshooting. Variable frequency drives operate at dangerous voltages and require specialized test equipment and knowledge of motor control. Always call a professional if the fault persists after parameter checks and wiring inspections, if you lack the drive manual or training, or if the drive will not clear the fault. Yaskawa provides technical support to help diagnose faults and can recommend authorized service centers for repair or component replacement.
 
 **Rough cost:** A pro service call runs about $200-800 depending on diagnosis time and parts.
+
+## See Also
+
+- [Yaskawa GA800 E01 Fault - Motor Data Error During Auto-Tune](/posts/yaskawa-ga800-e01-fault-code/)
+- [Yaskawa GA800 E14 Fault - Causes & Fix](/posts/yaskawa-ga800-e14-fault-code/)
+- [Yaskawa GA800 E63 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e63-fault-code/)
+- [Yaskawa GA800 A.128 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-128-fault-code/)

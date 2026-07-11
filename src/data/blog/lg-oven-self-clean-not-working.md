@@ -68,3 +68,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a pro if you are not comfortable working with live 240V circuits or if multimeter testing is unfamiliar. Replacing the lock assembly requires disconnecting power and removing the oven door and interior panels. If the control board shows damage or the lock assembly tests fine but the symptom persists, a technician can trace the circuit and confirm the board or a hidden wiring fault. Professional diagnosis saves time and prevents unnecessary part swaps when the root cause is not obvious. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [LG Washer Burning Smell - Causes & Fix](/posts/lg-washer-burning-smell/)
+- [LG LMV2031ST Microwave Problems & Error Codes](/posts/lg-lmv2031st-microwave-problems/)
+- [LG Dryer D75 Error Code - Causes & Fix](/posts/lg-dryer-d75-error-code/)
+- [LG Mini-Split CH07 Error Code - Causes & Fix](/posts/lg-mini-split-ch07-error-code/)

@@ -70,3 +70,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a professional if you are not comfortable working with line voltage, if you own a gas range and suspect an igniter or gas valve fault, or if basic component tests (elements and sensor) all pass but the oven still does not heat. Control board diagnosis and replacement require experience with wiring harnesses and proper part matching. For gas appliances, any work involving the igniter, gas valve, or burner assembly should be handled by a qualified technician to prevent gas leaks or unsafe operation. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [LG Mini-Split CH67 Error Code — Causes & Fix](/posts/lg-mini-split-ch67-error-code/)
+- [LG Washer Won't Fill with Water - Causes & Fix](/posts/lg-washer-wont-fill-with-water/)
+- [LG Washer IE Error Code - Causes & Fix](/posts/lg-washer-ie-error-code/)
+- [LG Washer Leaking Water - Causes & Fix](/posts/lg-washer-leaking-water/)

@@ -6607,6 +6607,126 @@
     "kenmore-range-f01-error-code": {
       "topic": "Kenmore range F01 error code",
       "date": "2026-07-10"
+    },
+    "amana-oven-f5-error-code": {
+      "topic": "Amana oven F5 error code",
+      "date": "2026-07-11"
+    },
+    "kenmore-range-f07-error-code": {
+      "topic": "Kenmore range F07 error code",
+      "date": "2026-07-11"
+    },
+    "kenmore-range-f10-error-code": {
+      "topic": "Kenmore range F10 error code",
+      "date": "2026-07-11"
+    },
+    "panasonic-microwave-e04-error-code": {
+      "topic": "Panasonic microwave E04 error code",
+      "date": "2026-07-11"
+    },
+    "panasonic-microwave-e05-error-code": {
+      "topic": "Panasonic microwave E05 error code",
+      "date": "2026-07-11"
+    },
+    "panasonic-microwave-e06-error-code": {
+      "topic": "Panasonic microwave E06 error code",
+      "date": "2026-07-11"
+    },
+    "senville-mini-split-ec-56-error-code": {
+      "topic": "Senville mini split EC 56 error code",
+      "date": "2026-07-11"
+    },
+    "mrcool-mini-split-eh-04-error-code": {
+      "topic": "MRCOOL mini split EH 04 error code",
+      "date": "2026-07-11"
+    },
+    "mrcool-mini-split-eh-05-error-code": {
+      "topic": "MRCOOL mini split EH 05 error code",
+      "date": "2026-07-11"
+    },
+    "mrcool-mini-split-eh-08-error-code": {
+      "topic": "MRCOOL mini split EH 08 error code",
+      "date": "2026-07-11"
+    },
+    "mrcool-mini-split-eh-09-error-code": {
+      "topic": "MRCOOL mini split EH 09 error code",
+      "date": "2026-07-11"
+    },
+    "mrcool-mini-split-eh-10-error-code": {
+      "topic": "MRCOOL mini split EH 10 error code",
+      "date": "2026-07-11"
+    },
+    "mrcool-mini-split-eh-11-error-code": {
+      "topic": "MRCOOL mini split EH 11 error code",
+      "date": "2026-07-11"
+    },
+    "mrcool-mini-split-eh-12-error-code": {
+      "topic": "MRCOOL mini split EH 12 error code",
+      "date": "2026-07-11"
+    },
+    "mrcool-mini-split-eh-13-error-code": {
+      "topic": "MRCOOL mini split EH 13 error code",
+      "date": "2026-07-11"
+    },
+    "mrcool-mini-split-eh-14-error-code": {
+      "topic": "MRCOOL mini split EH 14 error code",
+      "date": "2026-07-11"
+    },
+    "daikin-heat-pump-a7-error-code": {
+      "topic": "Daikin heat pump A7 error code",
+      "date": "2026-07-11"
+    },
+    "daikin-heat-pump-a8-error-code": {
+      "topic": "Daikin heat pump A8 error code",
+      "date": "2026-07-11"
+    },
+    "daikin-heat-pump-a9-error-code": {
+      "topic": "Daikin heat pump A9 error code",
+      "date": "2026-07-11"
+    },
+    "daikin-heat-pump-c0-error-code": {
+      "topic": "Daikin heat pump C0 error code",
+      "date": "2026-07-11"
+    },
+    "daikin-heat-pump-e3-error-code": {
+      "topic": "Daikin heat pump E3 error code",
+      "date": "2026-07-11"
+    },
+    "daikin-heat-pump-e4-error-code": {
+      "topic": "Daikin heat pump E4 error code",
+      "date": "2026-07-11"
+    },
+    "daikin-heat-pump-e9-error-code": {
+      "topic": "Daikin heat pump E9 error code",
+      "date": "2026-07-11"
+    },
+    "daikin-heat-pump-h3-error-code": {
+      "topic": "Daikin heat pump H3 error code",
+      "date": "2026-07-11"
+    },
+    "daikin-heat-pump-h4-error-code": {
+      "topic": "Daikin heat pump H4 error code",
+      "date": "2026-07-11"
+    },
+    "daikin-heat-pump-l3-error-code": {
+      "topic": "Daikin heat pump L3 error code",
+      "date": "2026-07-11"
+    },
+    "daikin-heat-pump-l4-error-code": {
+      "topic": "Daikin heat pump L4 error code",
+      "date": "2026-07-11"
+    },
+    "daikin-heat-pump-l5-error-code": {
+      "topic": "Daikin heat pump L5 error code",
+      "date": "2026-07-11"
+    },
+    "daikin-heat-pump-p4-error-code": {
+      "topic": "Daikin heat pump P4 error code",
+      "date": "2026-07-11"
+    },
+    "trane-heat-pump-e01-error-code": {
+      "topic": "Trane heat pump E01 error code",
+      "date": "2026-07-11"
     }
   }
 }

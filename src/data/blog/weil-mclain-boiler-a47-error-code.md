@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician if you cannot access the diagnostics menu, if you are uncomfortable working with gas piping or high-voltage wiring, or if the boiler continues to lock out after cleaning the flame sensor and verifying gas supply. Gas appliances require proper combustion testing and leak checks after any valve or burner work. A technician will also measure gas pressure, flame-sense current, and control-board outputs to pinpoint failures that a visual inspection cannot detect. If your boiler is still under warranty, unauthorized repairs may void coverage, so contact the installer or Weil-McLain's service network first.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Weil-McLain A118 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a118-error-code/)
+- [Weil-McLain A30 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a30-error-code/)
+- [Weil-McLain A121 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a121-error-code/)
+- [Weil-McLain Boiler A80 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a80-error-code/)

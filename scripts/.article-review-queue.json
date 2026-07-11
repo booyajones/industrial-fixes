@@ -2686,5 +2686,185 @@
     "score": 3,
     "reason": "No research provided to verify F01 is a real Kenmore range code or confirm the stated causes; cannot validate accuracy for this brand+appliance combination.",
     "date": "2026-07-10"
+  },
+  "amana-oven-f5-error-code": {
+    "topic": "Amana oven F5 error code",
+    "score": 3,
+    "reason": "No research provided to verify this F5 code is real/documented for Amana ovens specifically; cannot confirm accuracy of meaning or causes without grounding data.",
+    "date": "2026-07-11"
+  },
+  "kenmore-range-f07-error-code": {
+    "topic": "Kenmore range F07 error code",
+    "score": 3,
+    "reason": "No research provided to verify F07 is a real Kenmore range code; content appears plausible but ungrounded and potentially borrowed from other brands, failing verification requirement.",
+    "date": "2026-07-11"
+  },
+  "kenmore-range-f10-error-code": {
+    "topic": "Kenmore range F10 error code",
+    "score": 3,
+    "reason": "No research provided to verify F10 is a documented Kenmore range code or that the stated meaning/causes are accurate for this brand\u2014cannot confirm authenticity or correctness without grounding data.",
+    "date": "2026-07-11"
+  },
+  "panasonic-microwave-e04-error-code": {
+    "topic": "Panasonic microwave E04 error code",
+    "score": 0,
+    "reason": "No research provided to verify E04 is a real Panasonic microwave code; cannot confirm accuracy or that this isn't borrowed from another brand/appliance.",
+    "date": "2026-07-11"
+  },
+  "panasonic-microwave-e05-error-code": {
+    "topic": "Panasonic microwave E05 error code",
+    "score": 2,
+    "reason": "No research provided to verify E05 is a real Panasonic microwave code; content appears speculative and potentially invented without documentation.",
+    "date": "2026-07-11"
+  },
+  "panasonic-microwave-e06-error-code": {
+    "topic": "Panasonic microwave E06 error code",
+    "score": 2,
+    "reason": "No research provided to verify E06 is a real Panasonic microwave code; content appears invented without grounding, fails verification requirement for this specific brand+appliance combination.",
+    "date": "2026-07-11"
+  },
+  "senville-mini-split-ec-56-error-code": {
+    "topic": "Senville mini split EC 56 error code",
+    "score": 2,
+    "reason": "No research provided to verify EC 56 is a real Senville error code; content appears to be generic communication error guidance without brand-specific grounding.",
+    "date": "2026-07-11"
+  },
+  "mrcool-mini-split-eh-04-error-code": {
+    "topic": "MRCOOL mini split EH 04 error code",
+    "score": 0,
+    "reason": "No research provided to verify EH 04 is a real MRCOOL code; cannot confirm this code exists for this brand and appliance, making all content speculative.",
+    "date": "2026-07-11"
+  },
+  "mrcool-mini-split-eh-05-error-code": {
+    "topic": "MRCOOL mini split EH 05 error code",
+    "score": 3,
+    "reason": "No research provided to verify EH 05 is a real MRCOOL code; content appears plausible but completely ungrounded and potentially invented.",
+    "date": "2026-07-11"
+  },
+  "mrcool-mini-split-eh-08-error-code": {
+    "topic": "MRCOOL mini split EH 08 error code",
+    "score": 3,
+    "reason": "No research provided to verify EH 08 is a real, documented MRCOOL code; content appears speculative without grounding evidence.",
+    "date": "2026-07-11"
+  },
+  "mrcool-mini-split-eh-09-error-code": {
+    "topic": "MRCOOL mini split EH 09 error code",
+    "score": 2,
+    "reason": "No research provided to verify EH 09 is a real MRCOOL code; content appears speculative and potentially invented without documented grounding.",
+    "date": "2026-07-11"
+  },
+  "mrcool-mini-split-eh-10-error-code": {
+    "topic": "MRCOOL mini split EH 10 error code",
+    "score": 0,
+    "reason": "No research provided to verify EH 10 is a real MRCOOL code; cannot confirm accuracy or that this isn't invented/borrowed from another brand.",
+    "date": "2026-07-11"
+  },
+  "mrcool-mini-split-eh-11-error-code": {
+    "topic": "MRCOOL mini split EH 11 error code",
+    "score": 2,
+    "reason": "No research provided to verify EH 11 is a real MRCOOL code; cannot confirm accuracy or that this isn't invented/borrowed from another brand.",
+    "date": "2026-07-11"
+  },
+  "mrcool-mini-split-eh-12-error-code": {
+    "topic": "MRCOOL mini split EH 12 error code",
+    "score": 3,
+    "reason": "No research provided to verify EH 12 is a real MRCOOL code; cannot confirm authenticity, meaning, or causes for this specific brand and model.",
+    "date": "2026-07-11"
+  },
+  "mrcool-mini-split-eh-13-error-code": {
+    "topic": "MRCOOL mini split EH 13 error code",
+    "score": 2,
+    "reason": "No research provided to verify EH 13 is a real MRCOOL code; content appears speculative/invented without manufacturer documentation.",
+    "date": "2026-07-11"
+  },
+  "mrcool-mini-split-eh-14-error-code": {
+    "topic": "MRCOOL mini split EH 14 error code",
+    "score": 0,
+    "reason": "No research provided to verify EH 14 is a real MRCOOL code; cannot confirm accuracy of meaning or causes without documentation.",
+    "date": "2026-07-11"
+  },
+  "daikin-heat-pump-a7-error-code": {
+    "topic": "Daikin heat pump A7 error code",
+    "score": 0,
+    "reason": "No research provided to verify A7 is a real Daikin heat pump code or validate any technical claims; cannot confirm accuracy or authenticity without source grounding.",
+    "date": "2026-07-11"
+  },
+  "daikin-heat-pump-a8-error-code": {
+    "topic": "Daikin heat pump A8 error code",
+    "score": 0,
+    "reason": "No research provided to verify A8 is a real Daikin heat pump code; cannot confirm accuracy for this brand and appliance combination.",
+    "date": "2026-07-11"
+  },
+  "daikin-heat-pump-a9-error-code": {
+    "topic": "Daikin heat pump A9 error code",
+    "score": 2,
+    "reason": "No research provided to verify A9 is a real Daikin heat pump code; without grounding documentation, cannot confirm accuracy for this specific brand/appliance combination.",
+    "date": "2026-07-11"
+  },
+  "daikin-heat-pump-c0-error-code": {
+    "topic": "Daikin heat pump C0 error code",
+    "score": 3,
+    "reason": "No research provided to confirm C0 is a real Daikin heat pump code; draft explicitly admits uncertainty about code's existence and meaning, making it speculative filler rather than documented technical guidance.",
+    "date": "2026-07-11"
+  },
+  "daikin-heat-pump-e3-error-code": {
+    "topic": "Daikin heat pump E3 error code",
+    "score": 3,
+    "reason": "No research provided to verify E3 is a real Daikin heat pump code or that it means high-pressure fault; cannot confirm accuracy for this specific brand+appliance combination.",
+    "date": "2026-07-11"
+  },
+  "daikin-heat-pump-e4-error-code": {
+    "topic": "Daikin heat pump E4 error code",
+    "score": 3,
+    "reason": "No research provided to verify E4 is a real Daikin heat pump code or that the stated meaning (refrigerant/high-pressure) is accurate for this brand; content may be invented or borrowed from other brands.",
+    "date": "2026-07-11"
+  },
+  "daikin-heat-pump-e9-error-code": {
+    "topic": "Daikin heat pump E9 error code",
+    "score": 3,
+    "reason": "No research provided to verify E9 is a real Daikin heat pump code; draft explicitly admits code meaning varies by model and cannot specify actual cause, making it too vague and potentially inaccurate to publish.",
+    "date": "2026-07-11"
+  },
+  "daikin-heat-pump-h3-error-code": {
+    "topic": "Daikin heat pump H3 error code",
+    "score": 3,
+    "reason": "No research provided to verify H3 is a real Daikin code or that the meaning (high-pressure switch) is accurate for this brand; cannot confirm accuracy without grounding documentation.",
+    "date": "2026-07-11"
+  },
+  "daikin-heat-pump-h4-error-code": {
+    "topic": "Daikin heat pump H4 error code",
+    "score": 0,
+    "reason": "Zero research provided to verify H4 is a real Daikin heat pump code or validate any technical claims; cannot publish unverified technical repair guidance.",
+    "date": "2026-07-11"
+  },
+  "daikin-heat-pump-l3-error-code": {
+    "topic": "Daikin heat pump L3 error code",
+    "score": 3,
+    "reason": "No research provided to verify L3 is a real Daikin heat pump code or that the stated meaning is accurate; cannot confirm this isn't invented or borrowed from another brand.",
+    "date": "2026-07-11"
+  },
+  "daikin-heat-pump-l4-error-code": {
+    "topic": "Daikin heat pump L4 error code",
+    "score": 3,
+    "reason": "No research provided to verify L4 is a real Daikin heat pump code; cannot confirm accuracy or that this isn't borrowed from another brand/appliance",
+    "date": "2026-07-11"
+  },
+  "daikin-heat-pump-l5-error-code": {
+    "topic": "Daikin heat pump L5 error code",
+    "score": 0,
+    "reason": "No research provided to verify L5 is a real Daikin heat pump code; cannot confirm accuracy of meaning, causes, or fixes for this specific brand and appliance.",
+    "date": "2026-07-11"
+  },
+  "daikin-heat-pump-p4-error-code": {
+    "topic": "Daikin heat pump P4 error code",
+    "score": 3,
+    "reason": "No research provided to verify P4 is a real Daikin heat pump code; content acknowledges uncertainty about code meaning, making it potentially misleading rather than authoritative.",
+    "date": "2026-07-11"
+  },
+  "trane-heat-pump-e01-error-code": {
+    "topic": "Trane heat pump E01 error code",
+    "score": 2,
+    "reason": "No research provided to verify E01 is a real Trane heat pump code; content is speculative and potentially fabricated without documentation.",
+    "date": "2026-07-11"
   }
 }

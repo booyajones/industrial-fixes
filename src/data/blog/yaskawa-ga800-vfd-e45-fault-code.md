@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or industrial controls technician immediately if you are not trained and authorized to work on three-phase power systems. High-voltage AC power is lethal. A professional should perform lockout/tagout, voltage measurements, terminal inspection, and fuse replacement. If the fault persists after all line-side issues are corrected and incoming power is verified as stable and balanced, contact Yaskawa technical support or an authorized drive repair center. The GA800 offers limited field repair beyond fan and control board replacement, so internal faults typically require factory service or module exchange.
 
 **Rough cost:** A pro service call runs about $150–400 depending on whether the fix is a fuse, breaker, or wiring repair.
+
+## See Also
+
+- [Yaskawa GA800 E31 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e31-fault-code/)
+- [Yaskawa GA800 F044 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f044-fault-code/)
+- [Yaskawa GA800 E27 Fault - Causes & Fix](/posts/yaskawa-ga800-e27-fault-code/)
+- [Yaskawa GA800 E26 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e26-fault-code/)
