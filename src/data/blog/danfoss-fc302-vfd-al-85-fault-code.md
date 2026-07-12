@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or authorized Danfoss service center if the alarm history does not clearly show a documented code, if the drive trips with no motor connected (indicating internal power section failure), or if you do not have a megohmmeter and multimeter to perform isolation tests. High-voltage DC bus capacitors inside the drive can hold a lethal charge even after mains power is removed. IGBT module replacement requires specialized tools, thermal compound application, and torque specifications. Attempting repair without proper training risks further damage to the drive and personal injury. If the motor tests bad, a motor rewind shop or replacement motor will also require professional coordination to match the drive's rated output.
 
 **Rough cost:** A pro service call runs about $300-1200.
+
+## See Also
+
+- [Danfoss FC302 VFD AL-109 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-109-fault-code/)
+- [Danfoss FC302 Alarm 42 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-42-fault-code/)
+- [Danfoss FC302 AL-159 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-159-fault-code/)
+- [Danfoss FC302 ALARM 35 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-35-fault-code/)

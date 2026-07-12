@@ -72,3 +72,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a pro if you have a gas oven and are not comfortable working around gas supply lines or verifying igniter glow and flame behavior. Also call a technician if the breaker trips repeatedly when you restore power, if you measure low voltage at the outlet (below 240 V on a double-pole circuit), or if all heating components and the sensor test good but the oven still won't start. Control board diagnosis and replacement require disassembly and live-voltage checks that are best handled by a qualified service technician. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [LG Oven Burner Won't Light - Causes & Fix](/posts/lg-oven-burner-wont-light/)
+- [LG Dryer Clothes Still Damp - Causes & Fix](/posts/lg-dryer-clothes-still-damp/)
+- [LG Dishwasher AE Error Code - Causes & Fix](/posts/lg-washer-ae-error-code/)
+- [LG Dryer Won't Start - Causes & Fix](/posts/lg-dryer-wont-start/)

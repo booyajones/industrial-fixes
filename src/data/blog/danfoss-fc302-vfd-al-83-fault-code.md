@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Danfoss service partner if the alarm persists after power cycling and parameter restore, if you see Alarm 38 with a sub-code you cannot interpret, or if you are not trained to work inside the drive cabinet. VFD control boards carry stored high-voltage DC for several minutes after power-off and require proper lockout and discharge procedures. A technician with Danfoss MCT 10 software can read detailed fault logs and sub-codes to pinpoint the failure. If the drive is under warranty or a service contract, contact your Danfoss supplier before opening the enclosure to avoid voiding coverage.
 
 **Rough cost:** A pro service call runs about $150-400 for control board replacement if internal fault persists.
+
+## See Also
+
+- [Danfoss FC302 VFD AL-154 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-154-fault-code/)
+- [Danfoss FC302 ALARM 25 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-25-fault-code/)
+- [Danfoss FC302 VFD Alarm 38 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-38-fault-code/)
+- [Danfoss FC302 VFD AL-127 - Causes & Fix](/posts/danfoss-fc302-vfd-al-127-fault-code/)

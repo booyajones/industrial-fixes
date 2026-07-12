@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or automation technician if you are not trained in VFD troubleshooting, lockout/tagout procedures, or high-voltage electrical work. Communication faults require knowledge of network protocols, drive parameter programming, and elementary diagram interpretation. If visual inspection and reseating do not resolve the E48 fault, or if you do not have access to the GA800 manual and fault-code table, escalate to Yaskawa technical support or an authorized service center with the drive model, serial number, exact fault code, and details of your communication topology. Professional diagnosis and repair typically cost between two hundred and six hundred dollars, depending on travel, labor, and whether hardware replacement is required.
 
 **Rough cost:** A pro service call runs about $200-600.
+
+## See Also
+
+- [Yaskawa GA800 E26 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e26-fault-code/)
+- [Yaskawa A1000 CPF06 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf06-fault-code/)
+- [Yaskawa GA800 A.104 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-104-fault-code/)
+- [Yaskawa A1000 CPF00 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf00-fault-code/)

@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician if you are uncomfortable working with electrical connections, if the wiring and terminals all appear sound but the code persists, or if you lack a multimeter and the knowledge to safely test voltage and continuity. Refrigerant system work is not typically required for an L3 code, but diagnosing control board faults often requires specialized test equipment and experience interpreting communication protocols. A pro can also verify that the outdoor unit is responding correctly and that no underlying compressor or inverter faults are triggering the error.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Daikin E6 Error Code - Causes & Fix](/posts/daikin-heat-pump-e6-error-code/)
+- [Daikin A6 Error Code - Causes & Fix](/posts/daikin-heat-pump-a6-error-code/)
+- [Daikin E5 Error Code - Causes & Fix](/posts/daikin-heat-pump-e5-error-code/)
+- [Daikin L5 Error Code — Compressor Lock Fix](/posts/daikin-error-code-l5/)

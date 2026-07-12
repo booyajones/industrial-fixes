@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or contact Yaskawa technical support if the E49 fault returns after reset, if you cannot locate a visible wiring or environmental cause, or if the drive's history includes repetitive faults. Troubleshooting internal drive hardware requires specialized test equipment, access to firmware diagnostics, and knowledge of high-voltage DC bus circuits. Yaskawa recommends gathering the drive's model and spec number, serial number, fault code and description, application type, and total service time before escalating. Attempting board-level repair without proper training can void warranties and create safety hazards.
 
 **Rough cost:** A pro service call runs about $200–500 for service call, diagnostics, and minor component replacement.
+
+## See Also
+
+- [Yaskawa GA800 E71 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e71-fault-code/)
+- [Yaskawa A1000 oC Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-oc-fault-code/)
+- [Yaskawa GA800 A.103 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-103-fault-code/)
+- [Yaskawa GA800 E07 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e07-fault-code/)

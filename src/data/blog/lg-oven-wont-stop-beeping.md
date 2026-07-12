@@ -72,3 +72,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a pro if the beeping returns after a full power reset, if you see a thermistor code and are not comfortable testing sensor circuits, or if the display shows a low-voltage condition. LG specifically requires a qualified electrician for low-voltage faults. Also call for service if you find no obvious moisture or stuck keys but the touch-pad error persists, or if the beeping is intermittent and you cannot locate a loose connection. Control board and interface work involves live voltage and precise connector handling, so factory-trained service is the safest route when basic resets don't solve the problem. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [LG Washer dHE Error Code - Causes & Fix](/posts/lg-washer-dhe-error-code/)
+- [LG Washer Smells Like Mildew - Causes & Fix](/posts/lg-washer-smells-like-mildew/)
+- [LG Washer Not Draining Completely - Causes & Fix](/posts/lg-washer-not-draining-completely/)
+- [LG Dryer D75 Error Code - Causes & Fix](/posts/lg-dryer-d75-error-code/)

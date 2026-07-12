@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician if the E9 code persists after a power reset and basic wiring checks. Diagnosis and repair of refrigerant-circuit faults, electronic expansion valves, and control-board communication issues require refrigerant handling certification, specialized diagnostic tools, and knowledge of Daikin's proprietary service procedures. Attempting to open the refrigerant system without proper recovery equipment is both illegal and unsafe. A qualified technician will use pressure gauges, temperature probes, and service software to pinpoint the fault and restore your heat pump to normal operation.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Daikin Heat Pump E3 Error Code - Causes & Fix](/posts/daikin-heat-pump-e3-error-code/)
+- [Daikin J3 Error Code — Discharge Pipe Temperature Sensor Fault Fix](/posts/daikin-j3-error-code/)
+- [Daikin E2 Error Code - Causes & Fix](/posts/daikin-e2-error-code/)
+- [Daikin H8 Error Code - Causes & Fix](/posts/daikin-heat-pump-h8-error-code/)

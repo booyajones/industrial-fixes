@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified heating technician for any A52 fault. Boiler ignition systems involve natural gas or LP fuel, high-voltage ignition components, and combustion diagnostics that require specialized tools and training. A technician will verify your exact model's fault meaning, perform gas pressure and flame rectification tests, inspect the burner and ignition hardware safely, and replace components with the correct Weil-McLain part numbers. Attempting gas or combustion work without proper training creates serious safety risks including gas leaks, carbon monoxide, or fire. If the boiler is under warranty, only a Weil-McLain authorized service provider should perform repairs to preserve coverage.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Weil-McLain Boiler A123 Error - Causes & Fix](/posts/weil-mclain-boiler-a123-error-code/)
+- [Weil-McLain A79 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a79-error-code/)
+- [Weil-McLain A30 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a30-error-code/)
+- [Weil-McLain Boiler A72 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a72-error-code/)

@@ -6727,6 +6727,126 @@
     "trane-heat-pump-e01-error-code": {
       "topic": "Trane heat pump E01 error code",
       "date": "2026-07-11"
+    },
+    "trane-heat-pump-e02-error-code": {
+      "topic": "Trane heat pump E02 error code",
+      "date": "2026-07-12"
+    },
+    "trane-heat-pump-e03-error-code": {
+      "topic": "Trane heat pump E03 error code",
+      "date": "2026-07-12"
+    },
+    "trane-heat-pump-e04-error-code": {
+      "topic": "Trane heat pump E04 error code",
+      "date": "2026-07-12"
+    },
+    "trane-heat-pump-e05-error-code": {
+      "topic": "Trane heat pump E05 error code",
+      "date": "2026-07-12"
+    },
+    "trane-heat-pump-e06-error-code": {
+      "topic": "Trane heat pump E06 error code",
+      "date": "2026-07-12"
+    },
+    "trane-heat-pump-e07-error-code": {
+      "topic": "Trane heat pump E07 error code",
+      "date": "2026-07-12"
+    },
+    "bosch-heat-pump-h2-error-code": {
+      "topic": "Bosch heat pump H2 error code",
+      "date": "2026-07-12"
+    },
+    "bosch-heat-pump-xl7-error-code": {
+      "topic": "Bosch heat pump xL7 error code",
+      "date": "2026-07-12"
+    },
+    "rheem-heat-pump-t009-error-code": {
+      "topic": "Rheem heat pump T009 error code",
+      "date": "2026-07-12"
+    },
+    "rheem-heat-pump-a108-error-code": {
+      "topic": "Rheem heat pump A108 error code",
+      "date": "2026-07-12"
+    },
+    "rheem-heat-pump-t300-error-code": {
+      "topic": "Rheem heat pump T300 error code",
+      "date": "2026-07-12"
+    },
+    "navien-tankless-water-heater-e017-error-code": {
+      "topic": "Navien tankless water heater E017 error code",
+      "date": "2026-07-12"
+    },
+    "navien-tankless-water-heater-e018-error-code": {
+      "topic": "Navien tankless water heater E018 error code",
+      "date": "2026-07-12"
+    },
+    "navien-tankless-water-heater-e019-error-code": {
+      "topic": "Navien tankless water heater E019 error code",
+      "date": "2026-07-12"
+    },
+    "navien-tankless-water-heater-e020-error-code": {
+      "topic": "Navien tankless water heater E020 error code",
+      "date": "2026-07-12"
+    },
+    "navien-tankless-water-heater-e022-error-code": {
+      "topic": "Navien tankless water heater E022 error code",
+      "date": "2026-07-12"
+    },
+    "navien-tankless-water-heater-e023-error-code": {
+      "topic": "Navien tankless water heater E023 error code",
+      "date": "2026-07-12"
+    },
+    "navien-tankless-water-heater-e024-error-code": {
+      "topic": "Navien tankless water heater E024 error code",
+      "date": "2026-07-12"
+    },
+    "navien-tankless-water-heater-e025-error-code": {
+      "topic": "Navien tankless water heater E025 error code",
+      "date": "2026-07-12"
+    },
+    "navien-tankless-water-heater-e028-error-code": {
+      "topic": "Navien tankless water heater E028 error code",
+      "date": "2026-07-12"
+    },
+    "navien-tankless-water-heater-e111-error-code": {
+      "topic": "Navien tankless water heater E111 error code",
+      "date": "2026-07-12"
+    },
+    "navien-tankless-water-heater-e132-error-code": {
+      "topic": "Navien tankless water heater E132 error code",
+      "date": "2026-07-12"
+    },
+    "navien-tankless-water-heater-e133-error-code": {
+      "topic": "Navien tankless water heater E133 error code",
+      "date": "2026-07-12"
+    },
+    "navien-tankless-water-heater-e134-error-code": {
+      "topic": "Navien tankless water heater E134 error code",
+      "date": "2026-07-12"
+    },
+    "navien-tankless-water-heater-e135-error-code": {
+      "topic": "Navien tankless water heater E135 error code",
+      "date": "2026-07-12"
+    },
+    "navien-tankless-water-heater-e136-error-code": {
+      "topic": "Navien tankless water heater E136 error code",
+      "date": "2026-07-12"
+    },
+    "navien-tankless-water-heater-e139-error-code": {
+      "topic": "Navien tankless water heater E139 error code",
+      "date": "2026-07-12"
+    },
+    "navien-tankless-water-heater-e140-error-code": {
+      "topic": "Navien tankless water heater E140 error code",
+      "date": "2026-07-12"
+    },
+    "navien-tankless-water-heater-e143-error-code": {
+      "topic": "Navien tankless water heater E143 error code",
+      "date": "2026-07-12"
+    },
+    "navien-tankless-water-heater-e146-error-code": {
+      "topic": "Navien tankless water heater E146 error code",
+      "date": "2026-07-12"
     }
   }
 }

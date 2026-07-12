@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a professional if the H4 code persists after power cycling and wiring inspection. Diagnosing the exact sensor or communication fault requires a service tool that reads live data from the heat pump's control network. Technicians can also check refrigerant charge and pressures, which affect sensor readings and are outside the scope of DIY work. Because the code definition varies across Daikin model families, expert knowledge of your specific series will save time and prevent unnecessary part swaps.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Daikin E1 Error Code - Causes & Fix](/posts/daikin-mini-split-e1-error-code/)
+- [Daikin F6 Error Code - Causes & Fix](/posts/daikin-heat-pump-f6-error-code/)
+- [Daikin U8 Error Code - Causes & Fix](/posts/daikin-u8-error-code/)
+- [Daikin H9 Error Code - Causes & Fix](/posts/daikin-mini-split-h9-error-code/)

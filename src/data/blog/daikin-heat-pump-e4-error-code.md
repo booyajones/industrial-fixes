@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a professional immediately if the outdoor unit hums but the compressor will not start, if you see ice on the refrigerant lines, or if the E4 code returns after a reset and coil cleaning. Refrigerant diagnosis requires EPA-certified recovery equipment, manifold gauges, and a thorough understanding of superheat and subcooling calculations. Attempting to add refrigerant without proper measurement can damage the compressor or void your warranty. A qualified technician will also check for leaks with electronic detectors, verify that all sensors are reading correctly, and rule out electrical faults before replacing expensive parts.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Daikin Mini Split Making Noise - Causes & Fix](/posts/daikin-mini-split-making-noise/)
+- [Daikin Heat Pump P4 Error - Causes & Fix](/posts/daikin-heat-pump-p4-error-code/)
+- [Daikin H6 Error Code - Causes & Fix](/posts/daikin-mini-split-h6-error-code/)
+- [Daikin Aurora Heat Pump Error Codes - Cold Climate Fault Guide](/posts/daikin-aurora-heat-pump-error-codes/)

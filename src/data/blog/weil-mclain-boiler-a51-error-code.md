@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a qualified heating technician for any A51 error. Diagnosis requires observing the ignition sequence, measuring flame-signal current or voltage, testing gas pressure at the valve, and inspecting venting and combustion air paths. All of these tasks involve live gas, line voltage, and sealed combustion systems that are unsafe for homeowners to troubleshoot. A technician will use the model-specific manual to identify the exact cause, clean or replace the failed component, and verify safe operation through multiple cycles. Do not attempt repeated manual resets or bypass any safety controls. If you smell gas or see repeated lockouts, turn off the gas supply and call for service immediately.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Weil-McLain A102 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a102-error-code/)
+- [Weil-McLain Boiler A124 Error - Causes & Fix](/posts/weil-mclain-boiler-a124-error-code/)
+- [Weil-McLain A154 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a154-error-code/)
+- [Weil-McLain A106 Error - Causes & Fix](/posts/weil-mclain-boiler-a106-error-code/)

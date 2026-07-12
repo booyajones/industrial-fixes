@@ -49,3 +49,10 @@ Without your exact model number, it is difficult to confirm whether E1 is a fact
 ## When to Call a Pro
 
 Call a qualified appliance technician if the error returns after you have replaced the oven sensor and verified all wiring, or if you are not comfortable working inside a live 240 V appliance. A pro can perform board-level diagnostics, confirm the exact code definition for your model, and access factory service bulletins. If your range is still under warranty, contact LG support before attempting any repair to avoid voiding coverage.
+
+## See Also
+
+- [LG Mini-Split CH05 Error - Causes & Fix](/posts/lg-mini-split-ch-05-error-code/)
+- [LG Washer HE Error Code - Causes & Fix](/posts/lg-washer-he-error-code/)
+- [LG Washer Overflowing - Causes & Fix](/posts/lg-washer-overflowing/)
+- [LG Washer dE Error Code - Causes & Fix](/posts/lg-washer-de-error-code/)

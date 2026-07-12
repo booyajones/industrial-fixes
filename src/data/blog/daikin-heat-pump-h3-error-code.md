@@ -81,3 +81,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician whenever the H3 code persists after you have cleaned the coil and cleared airflow obstructions. Diagnosing high-pressure faults requires manifold gauges to measure discharge and suction pressures, a thermometer to check superheat and subcooling, and refrigerant-handling certification to add or recover charge safely. A technician will also test the high-pressure switch for correct operation, verify the outdoor fan draws proper amperage, inspect the metering device for blockage, and rule out compressor valve damage. Because misdiagnosing refrigerant or electrical issues can lead to compressor failure or refrigerant loss, professional tools and training are worth the service call.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Daikin U2 Error Code — Causes & Fix](/posts/daikin-u2-error-code/)
+- [Daikin F3 Error Code - Causes & Fix](/posts/daikin-heat-pump-f3-error-code/)
+- [Daikin F9 Error Code — Heat Exchanger Temp Sensor Fault: Causes & Fix](/posts/daikin-f9-error-code/)
+- [Daikin Heat Pump E4 Error - Causes & Fix](/posts/daikin-heat-pump-e4-error-code/)

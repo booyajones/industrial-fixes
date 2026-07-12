@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or VFD technician if you are not trained to work with industrial three-phase power and variable frequency drives. Diagnosing AL-86 requires measuring motor parameters, reviewing and adjusting drive parameters (1-86, 14-26, 1-20 to 1-25, 129), and safely working inside the VFD enclosure. If mechanical inspection and basic wiring checks do not resolve the fault, a technician with Danfoss programming tools and motor testing equipment is needed to perform AMA tuning, verify torque output, and rule out drive internal faults or motor winding damage.
 
 **Rough cost:** A pro service call runs about $200-600 depending on root cause.
+
+## See Also
+
+- [Danfoss AL 13 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-113-fault-code/)
+- [Danfoss FC302 VFD Alarm 29 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-29-fault-code/)
+- [Danfoss FC302 VFD ALARM 56 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-56-fault-code/)
+- [Danfoss FC302 AL-125 - Causes & Fix](/posts/danfoss-fc302-vfd-al-125-fault-code/)

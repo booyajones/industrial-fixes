@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or VFD technician if you are not comfortable working with three-phase power, measuring line voltage under load, or diagnosing contactor and upstream wiring issues. If incoming power and the contactor are confirmed good but the fault persists, the problem may be internal to the drive and requires Yaskawa technical support or a certified service center with access to the GA800 maintenance manual and parts list. High-voltage troubleshooting and drive-level repair should always be performed by trained personnel with proper test equipment and safety procedures.
 
 **Rough cost:** A pro service call runs about $200–600 depending on whether repair is upstream wiring, contactor replacement, or drive-level service.
+
+## See Also
+
+- [Yaskawa GA800 E01 Fault - Motor Data Error During Auto-Tune](/posts/yaskawa-ga800-e01-fault-code/)
+- [Yaskawa GA800 E90 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e90-fault-code/)
+- [Yaskawa GA800 E91 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e91-fault-code/)
+- [Yaskawa GA800 E28 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e28-fault-code/)

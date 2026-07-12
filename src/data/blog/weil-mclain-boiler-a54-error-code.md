@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a qualified heating technician immediately if you cannot locate your model's fault code table, if the system pressure will not hold after refilling, if the circulator pump has no power or will not start, or if sensor readings do not match the manual's specifications. Gas-fired boilers require a licensed technician for any work involving the gas valve, burner, ignition system, or venting. Do not attempt to jumper sensors, bypass safeties, or replace the control board without proper diagnostics. Weil-McLain fault codes are model-specific and misdiagnosis can lead to expensive part swaps that do not solve the underlying mechanical or electrical problem.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A97 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a97-error-code/)
+- [Weil-McLain A132 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a132-error-code/)
+- [Weil-McLain A153 - Causes & Fix](/posts/weil-mclain-boiler-a153-error-code/)
+- [Weil-McLain A88 Error - Causes & Fix](/posts/weil-mclain-boiler-a88-error-code/)

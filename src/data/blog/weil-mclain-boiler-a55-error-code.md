@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician if you cannot identify the exact fault code from your boiler's diagnostics menu, if system pressure will not hold after refilling (indicating a hidden leak), if the circulator pump tests good but flow is still poor (suggesting a clogged heat exchanger or serious restriction), or if the fault returns after you have purged air and verified sensors. Gas boilers require proper combustion analysis and safe ignition sequencing. A technician will use the boiler's fault history, test sensors and pumps with proper meters, verify gas supply and venting on condensing models, and make sure the system meets manufacturer specifications before clearing the fault and returning the unit to service.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [Weil-McLain Code 3 — Low Water Cutoff Fix](/posts/weil-mclain-error-code-3/)
+- [Weil-McLain A51 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a51-error-code/)
+- [Weil-McLain Boiler A78 Error - Causes & Fix](/posts/weil-mclain-boiler-a78-error-code/)
+- [Weil-McLain Boiler A20 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a20-error-code/)

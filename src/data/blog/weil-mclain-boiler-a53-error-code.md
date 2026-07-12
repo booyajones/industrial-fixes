@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or gas technician if cleaning the flame rod and checking the gas supply do not clear the A53 code. Gas valve testing, pressure measurement, and replacement require specialized tools and training. Any work on gas lines or combustion components also requires a permit in most areas. If the boiler continues to lock out after two resets, do not keep cycling it. Repeated ignition attempts can flood the combustion chamber with unburned gas, creating a serious safety hazard. A technician will use a manometer to verify gas pressure, test the flame rod with a microammeter, and inspect the ignition control board for faults.
 
 **Rough cost:** A pro service call runs about $150-350 depending on the failed component.
+
+## See Also
+
+- [Weil-McLain A46 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a46-error-code/)
+- [Weil-McLain A38 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a38-error-code/)
+- [Weil-McLain Ultra Series Boiler Error Codes: Complete Guide](/posts/weil-mclain-ultra-series-codes/)
+- [Weil-McLain Boiler A148 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a148-error-code/)

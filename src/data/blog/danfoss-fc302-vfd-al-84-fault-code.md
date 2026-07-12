@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified drives technician or industrial electrician if reseating the LCP, checking cables, and verifying parameter settings do not clear AL-84. Replacing the drive's logic board or control PCB requires knowledge of VFD internal wiring, static discharge precautions, and firmware compatibility. A pro will have diagnostic tools to test the communication interface voltage levels and signal integrity, and can source the correct replacement board for your drive's firmware revision. If the drive is under warranty or mission-critical, always involve the manufacturer or an authorized service center to avoid voiding coverage or introducing new faults.
 
 **Rough cost:** DIY runs about $0-150 in parts (if LCP or cable needed), 15-45 min. A pro service call runs about $100-250 service call plus parts.
+
+## See Also
+
+- [Danfoss FC302 VFD ALARM 57 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-57-fault-code/)
+- [Danfoss FC302 VFD AL-154 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-154-fault-code/)
+- [Danfoss FC302 AL-93 - Causes & Fix](/posts/danfoss-fc302-vfd-al-93-fault-code/)
+- [Danfoss FC302 AL-72 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-72-fault-code/)

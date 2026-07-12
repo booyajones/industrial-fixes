@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable working with appliance wiring and multimeter testing, if you cannot access the sensor or control board safely, or if the sensor and harness both test good but the E2 code persists after replacement. A technician can compare readings to the exact service specification for your model and evaluate the control board's thermistor input circuit. Also call a pro if the range shares a high-voltage circuit with other appliances and you are unsure how to isolate power safely.
 
 **Rough cost:** DIY runs about $30-80 in parts, 30-60 min. A pro service call runs about $150-300.
+
+## See Also
+
+- [LG Washer Door Won't Unlock - Causes & Fix](/posts/lg-washer-door-wont-unlock/)
+- [LG Mini Split Ice on Coils - Causes & Fix](/posts/lg-mini-split-ice-on-coils/)
+- [LG Washer HE Error Code - Causes & Fix](/posts/lg-washer-he-error-code/)
+- [LG Dryer tE2 Error Code - Causes & Fix](/posts/lg-dryer-te2-error-code/)

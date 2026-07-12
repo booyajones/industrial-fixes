@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or controls technician immediately if you are not trained in industrial electrical troubleshooting, if the VFD is part of a machine with moving hazards or high-voltage circuits, or if you cannot safely access the field wiring and interlock devices. A professional should handle all work involving lockout/tagout, multi-point safety chains, PLC-controlled interlocks, and any situation where bypassing a safety device would create a hazard. If you have traced the external fault circuit and found no open devices or broken wires, the problem may involve parameter configuration or a control board input failure, both of which require a technician familiar with Yaskawa drives and the specific machine application.
 
 **Rough cost:** A pro service call runs about $150-400 depending on the external device requiring repair or replacement.
+
+## See Also
+
+- [Yaskawa GA800 F043 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-f043-fault-code/)
+- [Yaskawa GA800 A.146 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-146-fault-code/)
+- [Yaskawa GA800 A.139 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-139-fault-code/)
+- [Yaskawa GA800 E81 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e81-fault-code/)
