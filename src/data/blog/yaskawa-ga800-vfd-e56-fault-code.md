@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or controls technician if you are not trained to work on VFD safety circuits or if you cannot locate the open point in the STO wiring after following the steps above. Safety circuits like STO are designed to prevent injury, and improper jumper installation or bypassing safety devices can create serious hazards. Also call a professional if the fault persists with all wiring verified correct, as the issue may be in the drive's internal safety input interface and require factory support or board-level repair.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Yaskawa A1000 oL6 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol6-fault-code/)
+- [Yaskawa GA800 E78 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e78-fault-code/)
+- [Yaskawa GA800 E64 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e64-fault-code/)
+- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)

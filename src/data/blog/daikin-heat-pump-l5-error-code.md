@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a professional if the L5 code returns after power cycling and wiring inspection, or if you find no obvious loose connections. Diagnosing inverter boards and control boards requires specialized test equipment and knowledge of the refrigerant circuit. Inverter and compressor work also involves high-voltage DC circuits that pose serious shock risk. A licensed HVAC technician has the tools to measure inverter output, check communication signals, and safely replace boards or diagnose compressor faults without damaging the sealed refrigerant system.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Daikin FTXS09LVJU Problems & Error Codes](/posts/daikin-ftxs09lvju-ductless-mini-split-air-conditioner-problems/)
+- [Daikin F3 Error Code — Causes & Fix](/posts/daikin-f3-error-code/)
+- [Daikin E5 Error Code - Causes & Fix](/posts/daikin-mini-split-e5-error-code/)
+- [Daikin E9 Error Code — Causes & Fix](/posts/daikin-e9-error-code/)

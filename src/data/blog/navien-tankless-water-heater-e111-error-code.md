@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified plumber or gas technician if cleaning the flame sensor does not resolve the E111 code, if you smell gas or suspect a gas leak, or if you are uncomfortable working around gas appliances. A professional should also be consulted if gas pressure testing is required, if the wiring and grounding appear damaged, or if the error persists after sensor replacement. Any work involving gas lines, combustion testing, or internal gas valve adjustments should be left to licensed professionals to avoid safety hazards and maintain warranty coverage.
 
 **Rough cost:** DIY runs about $15-50 in parts if sensor replacement needed, 20-40 min. A pro service call runs about $150-300 for service call and cleaning or sensor replacement.
+
+## See Also
+
+- [Navien E003 Error - Ignition Failure Causes & Fix](/posts/navien-tankless-water-heater-e003-error-code/)
+- [Navien E109 Error - Causes & Fix](/posts/navien-tankless-water-heater-e109-error-code/)
+- [Navien E032 Error - Causes & Fix](/posts/navien-tankless-e032-error-code/)
+- [Navien E740 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e740-error-code/)

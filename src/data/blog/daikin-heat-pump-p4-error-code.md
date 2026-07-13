@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician whenever a Daikin heat pump displays a persistent error code after basic power cycling and wiring checks. Heat pumps involve refrigerant, high voltage, and proprietary control logic that require factory training and specialized diagnostic tools. A technician can read detailed fault histories stored in the system memory, test inverter boards under load, measure refrigerant pressures, and safely handle live circuits. Attempting to replace boards or sensors without model-specific guidance often leads to wasted money and can void warranties. If you lack access to your unit's service manual or do not have a multimeter and basic HVAC knowledge, professional service is the safest and most cost-effective path.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Daikin C9 Error Code - Causes & Fix](/posts/daikin-heat-pump-c9-error-code/)
+- [Daikin J3 Error Code — Discharge Pipe Temperature Sensor Fault Fix](/posts/daikin-j3-error-code/)
+- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)
+- [Daikin U7 Error Code - Causes & Fix](/posts/daikin-u7-error-code/)

@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed technician if the fault returns after you have cleaned the flame rod and verified gas supply, if you are not comfortable shutting off gas or working inside the burner assembly, or if the boiler uses a sealed-combustion or direct-vent configuration that requires special tools to access ignition components. Also call a pro if you see repeated fault codes in the control's history that point to gas-valve or pressure-switch issues, because those components require a combustion analyzer and pressure gauges to diagnose safely. Any work involving the gas valve, gas pressure adjustment, or control-board replacement should be handled by a qualified heating contractor to maintain warranty coverage and local code compliance.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [Weil-McLain Boiler A120 Error - Causes & Fix](/posts/weil-mclain-boiler-a120-error-code/)
+- [Weil-McLain A82 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a82-error-code/)
+- [Weil-McLain Boiler A129 Error - Causes & Fix](/posts/weil-mclain-boiler-a129-error-code/)
+- [Weil-McLain A77 Error - Causes & Fix](/posts/weil-mclain-boiler-a77-error-code/)

@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician if you are uncomfortable working with electrical wiring or interpreting diagnostic codes. Professionals have the tools to measure refrigerant pressures, check compressor windings, and flash firmware updates to control boards. Because E07 can mask underlying issues in the sealed refrigerant system or variable-speed inverter, a technician can perform a comprehensive checkout and prevent compressor damage. If you have already checked wiring and sensors without resolving the fault, professional diagnostics will save time and avoid the cost of replacing the wrong part.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Trane XR14 Heat Pump Error Codes — Fault Code Diagnostic Guide](/posts/trane-xr14-error-codes/)
+- [Trane Heat Pump E2 Error Code — Outdoor Coil Sensor Fault](/posts/trane-heat-pump-error-code-e2/)
+- [Trane E7 Error Code - Causes & Fix](/posts/trane-heat-pump-e7-error-code/)
+- [Trane Chiller Fault Codes — Complete Troubleshooting Guide](/posts/trane-chiller-fault-codes/)

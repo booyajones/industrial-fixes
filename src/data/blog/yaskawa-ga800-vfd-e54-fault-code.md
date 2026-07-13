@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or electrician if you cannot locate the STO terminals, if continuity tests do not match the wiring diagram, if the fault persists after a reset, or if you lack the elementary diagram for the machine. High-voltage work inside the drive, firmware reflashing, and safety-circuit certification require professional training and tools. Because E54 is not a standard Yaskawa GA800 code, professional diagnosis is strongly recommended to avoid misdiagnosis and make sure compliance with safety standards. Collect the drive model, spec code, serial number, and a photo of the fault display before calling support.
 
 **Rough cost:** A pro service call runs about $150–400 depending on whether the fix is a wiring correction or a relay replacement.
+
+## See Also
+
+- [Yaskawa CPF39 VFD - Causes & Fix](/posts/yaskawa-ga800-vfd-f039-fault-code/)
+- [Yaskawa A1000 AL-19 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-19-fault-code/)
+- [Yaskawa A1000 AL-10 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-10-fault-code/)
+- [Yaskawa GA800 E83 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e83-fault-code/)

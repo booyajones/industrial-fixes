@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a professional if the error persists after you have cleaned the filter and verified the vents are clear. Exhaust sensor testing requires a multimeter and knowledge of the correct resistance values for your model. If the sensor tests good, the issue may be scale buildup on the heat exchanger, which requires descaling with a pump and cleaning solution. Venting errors that stem from incorrect pipe size, excessive run length, or improper termination also require a licensed technician to measure, diagnose, and correct according to local code and manufacturer specifications.
 
 **Rough cost:** DIY runs about $0-40 in parts, 20-45 min. A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien Water Heater Pilot Won't Stay Lit - Causes & Fix](/posts/navien-water-heater-pilot-wont-stay-lit/)
+- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
+- [Navien E134 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e134-error-code/)
+- [Navien Flow Sensor Replacement - Signs & How-To](/posts/navien-water-heater-flow-sensor-flow-meter-tankless-replacement/)

@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a professional if the code persists after a power reset and you cannot locate model-specific documentation that defines E7. Because the code is not in LG's generic range list, diagnosis requires access to service literature and may involve high-voltage testing of the control board, relays, or wiring harness. A qualified technician will have the correct schematic, know which test points to measure, and can order the right part by referencing LG's internal service database. Do not replace the control board or any sensor without confirming the code's meaning for your exact model, as guessing can lead to unnecessary expense and may not resolve the fault.
 
 **Rough cost:** A pro service call runs about $150-350 depending on model and final diagnosis.
+
+## See Also
+
+- [LG Microwave F16 Error - Causes & Fix](/posts/lg-microwave-f16-error-code/)
+- [LG Range F6 Error Code - Causes & Fix](/posts/lg-range-f6-error-code/)
+- [LG Dryer Takes Too Long to Dry - Causes & Fix](/posts/lg-dryer-takes-too-long-to-dry/)
+- [LG Microwave F-2 Error Code - Causes & Fix](/posts/lg-microwave-f-2-error-code/)

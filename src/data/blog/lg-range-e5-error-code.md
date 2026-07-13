@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a technician if you are uncomfortable working behind the range, if your unit is gas and you lack experience safely disconnecting the supply line, or if the new sensor does not resolve E5 and you suspect the main control board. A pro can test the board's thermistor-input circuit with a decade box or known-good sensor, confirm the correct resistance curve for your model, and replace the board if necessary. Also call for service if the sensor wiring is routed inside the oven cavity insulation or welded sheet metal that requires disassembly beyond removing a simple rear panel.
 
 **Rough cost:** DIY runs about $20–60 for sensor, 20–40 min. A pro service call runs about $120–250 service call including part.
+
+## See Also
+
+- [LG Refrigerator Compressor Replacement - Signs & How-To](/posts/lg-refrigerator-compressor-inverter-linear-replacement/)
+- [LG Refrigerator Main Control Board Replacement - Signs & How-To](/posts/lg-refrigerator-main-control-board-pcb-replacement/)
+- [LG Washer Won't Drain - Causes & Fix](/posts/lg-washer-wont-drain/)
+- [LG Oven F12 Error Code - Causes & Fix](/posts/lg-oven-f12-error-code/)

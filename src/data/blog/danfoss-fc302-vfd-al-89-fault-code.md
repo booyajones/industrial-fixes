@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician for AL-89 faults. Working inside a variable-frequency drive requires understanding of high-voltage DC bus capacitors, which can hold lethal charge even after AC power is removed. The technician will use a voltmeter to verify safe discharge, test the fan supply, and replace the fan or control board as needed. If your facility does not have personnel trained on VFD servicing, hire a local automation or motor-control shop rather than attempting the repair yourself.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Danfoss FC302 ALARM 15 - Causes & Fix](/posts/danfoss-fc302-alarm-15-fault-code/)
+- [Danfoss FC302 AL-67 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-67-fault-code/)
+- [Danfoss FC302 AL-112 - Causes & Fix](/posts/danfoss-fc302-vfd-al-112-fault-code/)
+- [Danfoss FC302 ALARM 31 - Causes & Fix](/posts/danfoss-fc302-alarm-31-fault-code/)

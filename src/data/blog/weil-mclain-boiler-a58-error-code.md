@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a licensed technician immediately if you are not trained in gas appliance service. Gas work requires special tools (manometer, combustion analyzer), knowledge of safe purging and lighting procedures, and an understanding of flame detection circuits. A technician will verify the actual error code, measure gas pressure accurately, test the ignitor and flame sensor with proper grounding, and check for carbon monoxide or incomplete combustion. Do not attempt to bypass safety controls or force ignition. If you have already replaced parts without success, a professional diagnostic will save money and prevent unsafe operation.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Weil-McLain Boiler A64 Error - Causes & Fix](/posts/weil-mclain-boiler-a64-error-code/)
+- [Weil-McLain A125 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a125-error-code/)
+- [Weil-McLain A38 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a38-error-code/)
+- [Weil-McLain A176 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a176-error-code/)

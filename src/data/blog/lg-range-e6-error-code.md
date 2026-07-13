@@ -47,3 +47,10 @@ E6 does not appear in LG's published range error-code list, so if your appliance
 ## When to Call a Pro
 
 Call a technician if you have confirmed the appliance is a washer, removed all visible debris, completed the 4-minute power cycle, and the E6 code returns. The clutch assembly sits below the tub and requires partial disassembly to inspect and replace. If your appliance is an LG range and E6 persists after a breaker reset, a technician can cross-reference your specific model's service manual to determine whether the code maps to a non-standard fault or indicates a control-board issue.
+
+## See Also
+
+- [LG Refrigerator Thermistor Replacement - Signs & How-To](/posts/lg-refrigerator-thermistor-temperature-sensor-replacement/)
+- [LG Mini Split Blowing Warm Air - Causes & Fix](/posts/lg-mini-split-blowing-warm-air/)
+- [LG Dishwasher Not Cleaning Dishes - Causes & Fix](/posts/lg-dishwasher-not-cleaning-dishes/)
+- [LG Dishwasher Stuck Mid Cycle - Causes & Fix](/posts/lg-dishwasher-stuck-mid-cycle/)

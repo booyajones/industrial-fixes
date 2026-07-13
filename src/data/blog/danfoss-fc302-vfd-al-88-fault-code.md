@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or controls engineer if you are not familiar with Danfoss parameter programming or do not have access to the LCP. If changing parameter 14-89 and power cycling does not clear the alarm, or if you see physical damage to option cards or backplane connectors, professional diagnosis is required. Also call a pro if the drive is part of a networked system where changing option settings could affect upstream controllers or HMI configurations. High-voltage work around VFD terminals and bus bars should always be performed by trained personnel with proper lockout/tagout procedures.
 
 **Rough cost:** A pro service call runs about $150-400 depending on service call minimum and labor time.
+
+## See Also
+
+- [Danfoss FC302 ALARM 37 - Causes & Fix](/posts/danfoss-fc302-alarm-37-fault-code/)
+- [Danfoss FC302 AL-69 - Causes & Fix](/posts/danfoss-fc302-vfd-al-69-fault-code/)
+- [Danfoss VFD Fault W30 — Brake Resistor Overtemperature Fix](/posts/danfoss-vfd-fault-w30/)
+- [Danfoss FC302 ALARM 35 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-35-fault-code/)

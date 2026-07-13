@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a licensed technician if you are uncomfortable working with gas appliances, if the vent system appears improperly installed or exceeds recommended lengths, or if you have replaced the air pressure switch and sensing tubes but the error persists. A professional can perform combustion analysis, measure actual air pressure differentials, and inspect the heat exchanger for blockages that may restrict airflow. Also call a pro if the combustion blower motor needs replacement and you lack experience with electrical diagnostics and motor swap procedures.
 
 **Rough cost:** DIY runs about $80-180 in parts, 1-2 hours. A pro service call runs about $180-400.
+
+## See Also
+
+- [Navien Error Code E016 — Causes & Fix](/posts/navien-error-code-e016/)
+- [Navien Error Code E022 — Hot Water Outlet Thermistor Fault Fix](/posts/navien-error-code-e022/)
+- [Navien E031 Error Code - Causes & Fix](/posts/navien-tankless-e031-error-code/)
+- [Navien E187 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e187-error-code/)

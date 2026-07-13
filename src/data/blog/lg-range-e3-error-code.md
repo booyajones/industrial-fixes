@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a pro if you are uncomfortable working with the range power supply, if the sensor is difficult to access without disassembling sheet-metal panels, or if the fault persists after you have replaced the sensor and verified the wiring. A technician has the model-specific service manual, the correct resistance specifications, and the tools to test the control board input circuit safely. If the range uses gas, any work that involves moving the appliance or disconnecting gas lines should be done by a qualified technician to avoid a gas leak.
 
 **Rough cost:** DIY runs about $25–75 in parts, 30–60 min. A pro service call runs about $150–300.
+
+## See Also
+
+- [LG Washer Not Dispensing Detergent - Causes & Fix](/posts/lg-washer-not-dispensing-detergent/)
+- [LG Washer Won't Turn On - Causes & Fix](/posts/lg-washer-wont-turn-on/)
+- [LG Refrigerator IF Error Code - Causes & Fix](/posts/lg-refrigerator-if-error-code/)
+- [LG Dryer E4 Error Code - Causes & Fix](/posts/lg-dryer-e4-error-code/)

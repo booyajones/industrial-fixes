@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified drive technician or industrial electrician if you are not trained to work inside energized VFD enclosures or if you lack the tools to verify DC bus discharge and measure control voltages safely. Option-card troubleshooting also requires familiarity with industrial network protocols, parameter programming, and the specific option manual for your installed card. If the fault persists after reseating the card and verifying wiring, a technician with network diagnostic equipment and access to Yaskawa technical support can isolate whether the option card, the external device, or the drive control board is defective. Always follow lockout-tagout procedures and your facility electrical safety program before opening any VFD cabinet.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Yaskawa GA800 E82 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e82-fault-code/)
+- [Yaskawa A1000 Uv1 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-uv1-fault-code/)
+- [Yaskawa A1000 CPF01 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf01-fault-code/)
+- [Yaskawa GA800 E09 Fault - Causes & Fix](/posts/yaskawa-ga800-e09-fault-code/)

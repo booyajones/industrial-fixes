@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician if you cannot locate the exact error code in your manual, if the ignitor does not spark and you are uncomfortable working with gas or electrical wiring, or if the boiler continues to lock out after you have cleaned the flame sensor and verified gas supply. A technician has the tools to measure gas line pressure, test the gas valve solenoid, inspect the main controller for internal faults, and safely diagnose wiring issues. Gas appliances require precise adjustments and leak testing, so professional service is the safest route when free checks do not resolve the fault.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [Weil-McLain A102 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a102-error-code/)
+- [Weil-McLain A176 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a176-error-code/)
+- [Weil-McLain A181 Error - Causes & Fix](/posts/weil-mclain-boiler-a181-error-code/)
+- [Weil-McLain A104 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a104-error-code/)

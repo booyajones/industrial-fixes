@@ -71,3 +71,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician or gas fitter if you cannot locate the model documentation, if the fault code table requires electrical measurements (resistance, continuity, or voltage), or if the indicated repair involves gas piping, burner components, or sealed combustion parts. Boilers operate under pressure and involve natural gas or propane, so misdiagnosis or incorrect part replacement can create carbon-monoxide hazards or void your warranty. A qualified technician will have access to Weil-McLain's technical hotline, the correct service literature, and the test equipment needed to confirm the fault and replace only the failed component.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A54 Error - Causes & Fix](/posts/weil-mclain-boiler-a54-error-code/)
+- [Weil-McLain A117 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a117-error-code/)
+- [Weil-McLain A140 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a140-error-code/)
+- [Weil-McLain A11 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a11-error-code/)

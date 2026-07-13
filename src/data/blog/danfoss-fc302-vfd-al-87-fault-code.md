@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Danfoss service partner if you cannot identify the alarm code after checking the display and alarm history, if the drive continues to fault after verifying parameters and connections, or if internal hardware repair is needed. VFD troubleshooting requires knowledge of high-voltage DC bus circuits, parameter programming, and motor drive theory. Incorrect changes to parameters or wiring can damage the drive or motor. A technician can use Danfoss MCT software to read detailed fault logs, update firmware, and test the drive under controlled conditions.
 
 **Rough cost:** A pro service call runs about $200-600.
+
+## See Also
+
+- [Danfoss FC302 Alarm 40 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-40-fault-code/)
+- [Danfoss FC302 AL-16 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-162-fault-code/)
+- [Danfoss FC302 AL-17 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-117-fault-code/)
+- [Danfoss FC302 AL-131 (Overcurrent) - Causes & Fix](/posts/danfoss-fc302-vfd-al-131-fault-code/)

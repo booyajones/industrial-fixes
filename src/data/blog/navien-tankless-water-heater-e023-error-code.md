@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or Navien-certified technician if you lack a descaling pump, are uncomfortable working with gas appliances, or if the error persists after clearing obvious blockages. Professionals have combustion analyzers to measure flue gas temperatures and oxygen levels, tools essential for diagnosing burner efficiency and gas pressure issues. If the heat exchanger is severely scaled or corroded, replacement requires specialized knowledge and may be covered under warranty when performed by an authorized service provider.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien E039 Error Code - Causes & Fix](/posts/navien-tankless-e039-error-code/)
+- [Navien E162 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e162-error-code/)
+- [Navien Tankless Water Heater E177 Error - Causes & Fix](/posts/navien-tankless-water-heater-e177-error-code/)
+- [Navien E736 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e736-error-code/)

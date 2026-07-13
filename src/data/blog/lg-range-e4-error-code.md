@@ -49,3 +49,10 @@ On LG ranges, E4 typically indicates a thermistor or oven temperature sensor fau
 ## When to Call a Pro
 
 Call a technician if the error returns after a full breaker reset, if you are uncomfortable working inside an appliance with live 240-volt circuits, or if replacing the sensor does not clear the code. A qualified service provider has the correct wiring diagrams, model-specific resistance tables, and the tools to safely diagnose control-board faults. Professional help is also essential if you own an LG Styler and the E4 code persists after cleaning the water system, since heater replacement on that appliance requires disassembly and calibration.
+
+## See Also
+
+- [LG Oven F11 Error Code - Causes & Fix](/posts/lg-oven-f11-error-code/)
+- [LG Washer Door Lock Assembly Replacement - Signs & How-To](/posts/lg-washer-door-lock-latch-assembly-replacement/)
+- [LG Mini Split Ice on Coils - Causes & Fix](/posts/lg-mini-split-ice-on-coils/)
+- [LG Microwave F17 Error Code - Causes & Fix](/posts/lg-microwave-f17-error-code/)

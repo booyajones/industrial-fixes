@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or Navien-certified technician if you are uncomfortable working with plumbing connections, if the error returns immediately after cleaning the filter and verifying valve positions, or if you lack a multimeter to test the flow sensor. A professional can also flush the heat exchanger for scale buildup, update firmware if a software bug is suspected, and verify that incoming water pressure meets the heater's minimum requirement. If the control board itself is logging multiple error codes or the unit has a history of intermittent faults, a technician can perform a full system diagnostic and check for grounding or wiring issues that are not obvious to a homeowner.
 
 **Rough cost:** DIY runs about $30-80 in parts, 30-90 min. A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien E777 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e777-error-code/)
+- [Navien Tankless E013 Error Code - Causes & Fix](/posts/navien-tankless-e013-error-code/)
+- [Navien Water Heater Not Enough Hot Water - Causes & Fix](/posts/navien-water-heater-not-enough-hot-water/)
+- [Navien E302 Error Code — Causes & Fix](/posts/navien-error-code-e302/)

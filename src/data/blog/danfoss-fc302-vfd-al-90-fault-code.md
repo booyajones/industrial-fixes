@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drive technician for any work inside the VFD cabinet. The FC302 operates at high DC-link voltage (up to 800VDC) and capacitors can remain charged for several minutes after power is removed. Internal faults require safe discharge procedures, multimeter testing of power stage components, and correct part identification by frame size and firmware revision. Incorrect handling can cause electric shock, further damage to the drive, or voiding of warranty. A technician will also have access to Danfoss diagnostic software to read detailed fault logs and verify the repair.
 
 **Rough cost:** A pro service call runs about $300-800 depending on part (control card $200-400, inverter board $400-700) plus 1-2 hours labor.
+
+## See Also
+
+- [Danfoss FC302 AL-101 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-101-fault-code/)
+- [Danfoss FC302 ALARM 37 - Causes & Fix](/posts/danfoss-fc302-alarm-37-fault-code/)
+- [Danfoss FC302 AL-60 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-60-fault-code/)
+- [Danfoss VFD Fault Codes — FC301, FC302, FC102 Reference](/posts/danfoss-vfd-fault-codes/)

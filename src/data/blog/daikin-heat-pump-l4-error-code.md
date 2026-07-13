@@ -83,3 +83,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician if you are not comfortable working with line voltage, if wiring and connections appear sound but the code persists, or if diagnostics point to a failed control board or sensor that requires refrigerant system access. Heat pump systems involve both high-voltage circuits and sealed refrigerant loops, and improper repairs can damage expensive components or void warranties. A technician will have the service manuals, diagnostic tools, and replacement parts specific to your Daikin model, and can safely test communication signals, measure system pressures, and program replacement boards to match your system configuration.
 
 **Rough cost:** A pro service call runs about $180-450.
+
+## See Also
+
+- [Daikin Mini Split Not Cooling - Causes & Fix](/posts/daikin-mini-split-not-cooling/)
+- [Daikin U9 Error Code — Causes & Fix](/posts/daikin-u9-error-code/)
+- [Daikin VRV IV Fault Codes - Commercial System Diagnostic Guide](/posts/daikin-vrv-iv-fault-codes/)
+- [Daikin C4 Error Code — Indoor Heat Exchanger Thermistor Fix](/posts/daikin-error-code-c4/)

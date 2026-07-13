@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a professional immediately if power cycling and wiring checks do not clear the fault. AL-38 internal faults often require specialized diagnostic tools, access to Danfoss service software to read sub-codes, and replacement of high-voltage components such as control boards, gate drivers, or inverter modules. Technicians have the training and equipment to safely discharge DC bus capacitors, test IGBT modules, and load updated firmware. Attempting to disassemble or test internal power electronics without proper training risks electric shock and permanent drive damage.
 
 **Rough cost:** A pro service call runs about $300-800 depending on board replacement.
+
+## See Also
+
+- [Danfoss FC302 AL-84 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-84-fault-code/)
+- [Danfoss FC302 Alarm 17 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-17-fault-code/)
+- [Danfoss VFD Fault AL 14 — Causes & Fix](/posts/danfoss-vfd-fault-al-14/)
+- [Danfoss FC302 AL-69 - Causes & Fix](/posts/danfoss-fc302-vfd-al-69-fault-code/)

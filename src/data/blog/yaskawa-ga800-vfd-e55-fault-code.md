@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial controls technician or Yaskawa-certified service provider if you are not trained to work on VFD communication systems, if the fault persists after verifying and replacing the cable, or if you suspect the drive control board or option card has failed. The GA800 troubleshooting manual emphasizes limited field repair beyond specific replaceable components, and Yaskawa support should be consulted for board-level diagnostics or firmware-related communication issues. Do not attempt to modify communication parameters or replace internal boards unless you have the proper training and access to Yaskawa's elementary diagrams and service documentation.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Yaskawa GA800 E19 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e19-fault-code/)
+- [Yaskawa GA800 A.129 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-129-fault-code/)
+- [Yaskawa A1000 AL-14 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-14-fault-code/)
+- [Yaskawa GA800 E93 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e93-fault-code/)

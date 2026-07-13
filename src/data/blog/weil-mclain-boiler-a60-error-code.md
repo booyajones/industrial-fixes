@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician immediately if you cannot retrieve a stored fault code from the control's diagnostics menu, if the boiler is in lockout and you are unfamiliar with gas appliance troubleshooting, or if the fault recurs after a single reset. Gas-fired boiler repair requires proper combustion analysis, gas-pressure testing, and electrical diagnostics that are beyond typical DIY scope. A technician will use the control's fault history, measure gas pressure and flame current, inspect the burner and heat exchanger, and verify venting and airflow to identify the root cause. Do not repeatedly reset a lockout without identifying the fault, as ignition or flame-proving problems can create unsafe combustion conditions or carbon-monoxide risk.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A41 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a41-error-code/)
+- [Weil-McLain A106 Error - Causes & Fix](/posts/weil-mclain-boiler-a106-error-code/)
+- [Weil-McLain A03 Error - Causes & Fix](/posts/weil-mclain-boiler-a03-error-code/)
+- [Weil-McLain Boiler A49 Error - Causes & Fix](/posts/weil-mclain-boiler-a49-error-code/)
