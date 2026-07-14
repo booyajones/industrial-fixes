@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or VFD technician if you see E60 or UV3 on a GA800 and are not trained in high-voltage industrial equipment. The drive contains lethal DC bus voltages that persist after AC power is removed. Technicians must use proper lockout/tagout, wait for full discharge, and verify zero voltage with a meter before touching internal components. Control board replacement requires ESD handling, correct seating of multi-pin connectors, and parameter backup and restoration. If the drive is part of a critical process or if you lack the tools to check U4-06 and perform power cycling safely, professional service will prevent extended downtime and secondary damage to motors or connected machinery.
 
 **Rough cost:** A pro service call runs about $400-$1,200 for control board or drive replacement, 1-3 hours labor.
+
+## See Also
+
+- [Yaskawa GA800 E24 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e24-fault-code/)
+- [Yaskawa GA800 F023 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f023-fault-code/)
+- [Yaskawa GA800 E61 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e61-fault-code/)
+- [Yaskawa GA800 E39 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e39-fault-code/)

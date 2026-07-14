@@ -83,3 +83,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or Navien-certified technician if you are uncomfortable working with plumbing connections, if the error persists after cleaning and reseating the sensor, or if you suspect the control board or wiring harness is damaged. A professional can perform a full system flush, test sensor voltages with diagnostic software, and replace internal components that require specialized tools. If your unit is still under warranty, professional service may be required to preserve coverage.
 
 **Rough cost:** DIY runs about $50-150 in parts, 1-2 hours. A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien E009 Error Code - Causes & Fix](/posts/navien-tankless-e009-error-code/)
+- [Navien Tankless Water Heater E139 Error - Causes & Fix](/posts/navien-tankless-water-heater-e139-error-code/)
+- [Navien Error Code E022 — Hot Water Outlet Thermistor Fault Fix](/posts/navien-error-code-e022/)
+- [Navien E225 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e225-error-code/)

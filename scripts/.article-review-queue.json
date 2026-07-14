@@ -3226,5 +3226,185 @@
     "score": 0,
     "reason": "No research provided to verify E215 is a real Navien code; cannot confirm accuracy of meaning, causes, or fixes for this specific brand and appliance.",
     "date": "2026-07-13"
+  },
+  "navien-tankless-water-heater-e216-error-code": {
+    "topic": "Navien tankless water heater E216 error code",
+    "score": 3,
+    "reason": "No research provided to verify E216 is a real Navien code or that the combustion fan/airflow diagnosis is correct for this specific brand and code; cannot confirm accuracy without documentation.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e218-error-code": {
+    "topic": "Navien tankless water heater E218 error code",
+    "score": 0,
+    "reason": "No research provided to verify E218 is a real Navien code; cannot confirm accuracy of meaning, causes, or fixes for this specific brand and appliance.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e220-error-code": {
+    "topic": "Navien tankless water heater E220 error code",
+    "score": 3,
+    "reason": "No research provided to verify E220 is a real Navien code or that the stated meaning is correct; cannot confirm accuracy for this brand+appliance combination, which is the primary requirement.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e221-error-code": {
+    "topic": "Navien tankless water heater E221 error code",
+    "score": 0,
+    "reason": "No research/grounding provided to confirm E221 is a real Navien code; draft explicitly states '(none \u2014 no external grounding was available)' making verification impossible and content potentially invented.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e222-error-code": {
+    "topic": "Navien tankless water heater E222 error code",
+    "score": 0,
+    "reason": "No research provided to verify E222 is a real Navien code or validate any technical claims; cannot confirm accuracy for this brand and appliance.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e223-error-code": {
+    "topic": "Navien tankless water heater E223 error code",
+    "score": 0,
+    "reason": "No research provided to verify E223 is a real Navien code; cannot confirm accuracy of meaning or causes\u2014publishing unverified repair guidance creates safety and liability risks.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e224-error-code": {
+    "topic": "Navien tankless water heater E224 error code",
+    "score": 0,
+    "reason": "No research provided to verify E224 is a real Navien code; cannot confirm accuracy or that this isn't confusion with other brands' codes\u2014fails verification requirement.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e225-error-code": {
+    "topic": "Navien tankless water heater E225 error code",
+    "score": 0,
+    "reason": "FAIL: No research provided to verify E225 is a real Navien code; cannot confirm accuracy, code may be invented or borrowed from another brand.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e226-error-code": {
+    "topic": "Navien tankless water heater E226 error code",
+    "score": 0,
+    "reason": "No research provided to verify E226 is a real, documented Navien code; cannot confirm accuracy or that this isn't invented/borrowed from another brand.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e227-error-code": {
+    "topic": "Navien tankless water heater E227 error code",
+    "score": 0,
+    "reason": "No research provided to verify E227 is a real Navien code; cannot confirm accuracy or that this isn't invented/borrowed from another brand\u2014FAIL on requirement (1).",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e228-error-code": {
+    "topic": "Navien tankless water heater E228 error code",
+    "score": 0,
+    "reason": "No research provided to confirm E228 exists for Navien tankless water heaters; cannot verify this is a real, documented code for this brand and appliance type.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e229-error-code": {
+    "topic": "Navien tankless water heater E229 error code",
+    "score": 0,
+    "reason": "No research provided to verify E229 is a real Navien code; without documentation this is potentially fabricated content that could mislead technicians and homeowners.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e230-error-code": {
+    "topic": "Navien tankless water heater E230 error code",
+    "score": 3,
+    "reason": "No research provided to verify E230 is a real Navien code or that the stated meaning is correct; cannot publish technical repair guidance without documented grounding.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e231-error-code": {
+    "topic": "Navien tankless water heater E231 error code",
+    "score": 3,
+    "reason": "No research provided to verify E231 is a real Navien code or that the stated meaning is accurate; cannot confirm this isn't invented or borrowed from another brand.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e232-error-code": {
+    "topic": "Navien tankless water heater E232 error code",
+    "score": 0,
+    "reason": "FAIL: No research provided to verify E232 is a real Navien code or confirm its meaning; cannot validate accuracy for this brand/appliance combination.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e233-error-code": {
+    "topic": "Navien tankless water heater E233 error code",
+    "score": 0,
+    "reason": "No research provided to verify E233 is a real Navien code or that the stated meaning/causes are accurate for this brand\u2014cannot confirm authenticity or correctness, mandatory FAIL.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e234-error-code": {
+    "topic": "Navien tankless water heater E234 error code",
+    "score": 0,
+    "reason": "No research provided to verify E234 is a real Navien code; cannot confirm accuracy of code meaning, causes, or fixes for this specific brand and appliance.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e235-error-code": {
+    "topic": "Navien tankless water heater E235 error code",
+    "score": 0,
+    "reason": "No research provided to verify E235 is a real Navien code for tankless water heaters; cannot confirm accuracy or that this specific code exists for this brand and appliance type.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e236-error-code": {
+    "topic": "Navien tankless water heater E236 error code",
+    "score": 0,
+    "reason": "No research provided to verify E236 is a real Navien code; cannot confirm accuracy of meaning, causes, or fixes\u2014publication would risk misinforming users with potentially invented technical details.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e237-error-code": {
+    "topic": "Navien tankless water heater E237 error code",
+    "score": 0,
+    "reason": "No research provided to verify E237 is a real Navien code or that the stated meaning is accurate for this brand; cannot confirm authenticity or correctness without documentation.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e238-error-code": {
+    "topic": "Navien tankless water heater E238 error code",
+    "score": 3,
+    "reason": "No research provided to verify E238 is a real Navien code; content appears speculative/generic without documented grounding for this specific brand and error code.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e239-error-code": {
+    "topic": "Navien tankless water heater E239 error code",
+    "score": 0,
+    "reason": "No research provided to verify E239 is a real Navien code; cannot confirm accuracy, meaning, or causes for this specific brand/appliance combination.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e240-error-code": {
+    "topic": "Navien tankless water heater E240 error code",
+    "score": 0,
+    "reason": "No research provided to verify E240 is a real Navien code or that the stated meaning (exhaust overheating) is accurate for this brand; cannot publish ungrounded technical repair content.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e241-error-code": {
+    "topic": "Navien tankless water heater E241 error code",
+    "score": 0,
+    "reason": "FAIL: No research provided to verify E241 is a real Navien code; content admits code meaning varies by model and cannot be confirmed, making this speculative filler that could mislead technicians and homeowners.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e242-error-code": {
+    "topic": "Navien tankless water heater E242 error code",
+    "score": 0,
+    "reason": "FAIL: No research provided to verify E242 is a real, documented Navien code; cannot confirm accuracy of meaning, causes, or repair steps for this specific brand and appliance.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e243-error-code": {
+    "topic": "Navien tankless water heater E243 error code",
+    "score": 0,
+    "reason": "No research provided to verify E243 is a real Navien code or that the flow-sensor diagnosis is correct; cannot confirm accuracy for this brand and model.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e244-error-code": {
+    "topic": "Navien tankless water heater E244 error code",
+    "score": 0,
+    "reason": "No research provided to verify E244 is a real Navien code or that the stated meaning (communication error between main PCB and display) is accurate for this brand; cannot publish ungrounded technical repair content.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e245-error-code": {
+    "topic": "Navien tankless water heater E245 error code",
+    "score": 3,
+    "reason": "No research provided to verify E245 is a real Navien code or that the combustion air pressure meaning is accurate for this brand; cannot confirm this isn't invented or borrowed from another manufacturer.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e246-error-code": {
+    "topic": "Navien tankless water heater E246 error code",
+    "score": 0,
+    "reason": "No research provided to verify E246 is a real Navien code; cannot confirm accuracy of meaning, causes, or fixes for this specific brand and appliance.",
+    "date": "2026-07-14"
+  },
+  "navien-tankless-water-heater-e247-error-code": {
+    "topic": "Navien tankless water heater E247 error code",
+    "score": 3,
+    "reason": "No research provided to verify E247 is a real Navien code; cannot confirm accuracy of meaning, causes, or fixes without documentation.",
+    "date": "2026-07-14"
   }
 }

@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified technician or industrial electrician as soon as the E61 fault appears. This fault involves high-voltage DC bus circuits, internal relay diagnostics, and drive parameter monitoring that require specialized test equipment and training. Field repair of the soft-charge relay is not supported. The technician will read the precharge relay maintenance counter, verify the control board health, and replace the board or drive if the fault does not clear. Attempting to bypass or override the soft-charge circuit can destroy the drive's input rectifier and capacitors, resulting in a much more expensive failure.
 
 **Rough cost:** A pro service call runs about $500-2000 depending on whether a control board or complete drive replacement is needed.
+
+## See Also
+
+- [Yaskawa GA800 E27 Fault - Causes & Fix](/posts/yaskawa-ga800-e27-fault-code/)
+- [Yaskawa GA800 E12 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e12-fault-code/)
+- [Yaskawa A1000 oFA15 - Causes & Fix](/posts/yaskawa-a1000-vfd-al-15-fault-code/)
+- [Yaskawa GA800 E01 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e01-fault-code/)

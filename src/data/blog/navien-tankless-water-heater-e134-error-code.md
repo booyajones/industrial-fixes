@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or Navien-certified technician if you are uncomfortable working with electrical connections, if multimeter testing is beyond your skill level, or if the error persists after reseating connectors and replacing an obviously faulty sensor. A technician can perform advanced diagnostics with manufacturer software, verify proper grounding, and safely handle gas and high-voltage components. Professional service is also recommended if you find burn marks or melted insulation, which may indicate a deeper electrical fault.
 
 **Rough cost:** DIY runs about $30-120 in parts, 30-90 min. A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien E024 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e024-error-code/)
+- [Navien E016 Error Code - Causes & Fix](/posts/navien-tankless-e016-error-code/)
+- [Navien Tankless Water Heater E177 Error - Causes & Fix](/posts/navien-tankless-water-heater-e177-error-code/)
+- [Navien E615 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e615-error-code/)

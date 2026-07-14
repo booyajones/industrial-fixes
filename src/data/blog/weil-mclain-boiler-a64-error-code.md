@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you cannot locate the model-specific manual, if the A64 definition requires testing gas pressure or combustion settings, or if the code persists after you have verified wiring and sensor resistance. Gas-fired boiler diagnostics involve checking inlet gas pressure, burner flame signal, and venting, all of which require calibrated instruments and knowledge of local codes. A technician will also have access to Weil-McLain's service bulletins and can contact the factory on your behalf if the fault is unusual or the control needs a firmware update. Do not bypass any safety limit or operate the boiler with an active fault code.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain Boiler A24 Error - Causes & Fix](/posts/weil-mclain-boiler-a24-error-code/)
+- [Weil-McLain A140 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a140-error-code/)
+- [Weil-McLain A32 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a32-error-code/)
+- [Weil-McLain A35 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a35-error-code/)

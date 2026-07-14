@@ -53,3 +53,10 @@ This code appears on both electric and gas models. On electric ranges the proble
 ## When to Call a Pro
 
 Call a qualified appliance technician if you are uncomfortable working with 240-volt electric circuits or natural-gas connections. Gas work requires safe disconnection of the supply line, proper igniter current testing, and leak-checking after reassembly. Electric oven repairs involve high-voltage wiring behind the control panel and inside the oven cavity. A pro can also access the full wiring diagram and service calibration data for your specific LG model, which speeds diagnosis when multiple components test marginal or the fault is intermittent.
+
+## See Also
+
+- [LG Dryer No Power - Causes & Fix](/posts/lg-dryer-no-power/)
+- [LG Washer Stuck on One Cycle - Causes & Fix](/posts/lg-washer-stuck-on-one-cycle/)
+- [LG Microwave F5 Error - Causes & Fix](/posts/lg-microwave-f5-error-code/)
+- [LG Dryer Idler Pulley Replacement - Signs & How-To](/posts/lg-dryer-idler-pulley-replacement/)

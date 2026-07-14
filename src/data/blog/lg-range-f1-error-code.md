@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working with 240-volt wiring, if the control board is difficult to access, or if you lack a multimeter and experience testing electrical components. A technician can quickly isolate whether the fault is in the sensor, harness, or board and has the tools to measure resistance and continuity safely. If the range is still under warranty or you need the repair documented for insurance or a landlord, a licensed service visit is the best path. For gas ranges, any work near the gas supply or burner systems should be handled by a qualified technician to avoid safety hazards.
 
 **Rough cost:** DIY runs about $20-60 for sensor, 30-60 min; $100-250 for control board if needed. A pro service call runs about $150-300 depending on part and labor.
+
+## See Also
+
+- [LG Washer Not Dispensing Detergent - Causes & Fix](/posts/lg-washer-not-dispensing-detergent/)
+- [LG Microwave F2 Error Code - Causes & Fix](/posts/lg-microwave-f2-error-code/)
+- [LG Refrigerator CO Error Code - Causes & Fix](/posts/lg-refrigerator-co-error-code/)
+- [LG Dishwasher AE Error Code - Causes & Fix](/posts/lg-dishwasher-ae-error-code/)

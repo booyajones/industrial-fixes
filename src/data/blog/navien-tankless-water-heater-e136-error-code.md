@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed technician if you are uncomfortable working with low-voltage wiring or if you have restored all connections and the error persists. A pro can use diagnostic software to interrogate the control board, test component communication in real time, and determine whether the board or a peripheral module has failed. Also call a pro if you smell gas, see active water leaks, or if the unit repeatedly faults after you clear the error.
 
 **Rough cost:** DIY runs about $0-150 in parts, 30-90 min. A pro service call runs about $150-400.
+
+## See Also
+
+- [Navien Tankless Water Heater E237 Error - Causes & Fix](/posts/navien-tankless-water-heater-e237-error-code/)
+- [Navien Error Code E013 — Causes & Fix](/posts/navien-error-code-e013/)
+- [Navien Tankless Water Heater E224 Error - Causes & Fix](/posts/navien-tankless-water-heater-e224-error-code/)
+- [Navien Tankless Water Heater E139 Error - Causes & Fix](/posts/navien-tankless-water-heater-e139-error-code/)

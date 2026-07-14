@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified technician or Danfoss-certified service provider if the fault persists after power cycling and basic wiring inspection. Work inside the drive enclosure involves high DC-link voltage (up to 500 V AC supply and higher internal DC voltage) and requires proper lockout, discharge procedures, and test equipment. Replacing control cards, power cards, or IGBT modules requires knowledge of VFD architecture and firmware recovery. Danfoss recommends contacting their technical support for persistent AL-38 internal faults or any unrecognized alarm code.
 
 **Rough cost:** A pro service call runs about $300-800.
+
+## See Also
+
+- [Danfoss FC302 AL-166 - Causes & Fix](/posts/danfoss-fc302-vfd-al-166-fault-code/)
+- [Danfoss FC302 AL-155 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-155-fault-code/)
+- [Danfoss FC302 Alarm 54 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-54-fault-code/)
+- [Danfoss FC302 AL-115 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-115-fault-code/)

@@ -67,3 +67,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician immediately if you cannot find your boiler's manual or if the manual identifies A63 as a fault requiring gas, electrical, or control-board diagnostics. Boilers involve natural gas or propane combustion, high-voltage wiring, and sealed water systems, all of which require specialized tools and training. A technician will use the service manual, multimeter, and combustion analyzer to pinpoint whether the code points to ignition failure, a faulty flame sensor, a limit switch trip, a pressure problem, or a control-board issue. Attempting gas or electrical repairs without proper knowledge can result in equipment damage, carbon monoxide hazards, or voided warranties.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A79 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a79-error-code/)
+- [Weil-McLain A110 Error - Causes & Fix](/posts/weil-mclain-boiler-a110-error-code/)
+- [Weil-McLain A18 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a18-error-code/)
+- [Weil-McLain Code 1 — No Flame Sensed Fix](/posts/weil-mclain-error-code-1/)

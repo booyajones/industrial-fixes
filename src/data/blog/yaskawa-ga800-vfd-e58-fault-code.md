@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified technician or VFD specialist immediately. The E58 soft-charge answerback fault involves the drive's internal power section, high-voltage DC bus circuitry, and control board diagnostics that require specialized test equipment and knowledge of VFD precharge circuits. Attempting to open the drive or probe high-voltage circuits without proper training and lockout/tagout procedures can result in lethal electric shock, even after disconnecting input power, because the DC bus capacitors store dangerous voltages. A technician will safely verify the precharge relay operation, check the U4-06 maintenance counter, and determine whether control board replacement or full drive replacement is needed. If your facility does not have in-house VFD expertise, contact Yaskawa technical support or an authorized distributor to arrange service or return for repair.
 
 **Rough cost:** A pro service call runs about $500-2000 depending on whether control board replacement or full drive replacement is needed.
+
+## See Also
+
+- [Yaskawa A1000 rH Fault Code - Causes & Fix](/posts/yaskawa-a1000-vfd-rh-fault-code/)
+- [Yaskawa A1000 oPr Fault Code - Causes & Fix](/posts/yaskawa-a1000-vfd-opr-fault-code/)
+- [Yaskawa GA800 E72 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e72-fault-code/)
+- [Yaskawa GA800 VFD E60 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e60-fault-code/)

@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working inside the range cabinet, if the sensor resistance measurement does not match published specifications and you are unsure how to interpret the reading, or if both the touchpad and sensor test good but the code persists. A technician can verify the control board with specialized diagnostics and source the correct replacement parts by model number. Also call for service if the range uses 240-volt wiring and you are not confident isolating and reconnecting high-voltage circuits safely, or if the fault returns repeatedly after you have replaced the sensor or touchpad and you suspect a board-level failure.
 
 **Rough cost:** DIY runs about $40–120 in parts, 30–60 min. A pro service call runs about $150–300.
+
+## See Also
+
+- [LG Mini Split CH53 Error Code - Causes & Fix](/posts/lg-mini-split-ch53-error-code/)
+- [LG Refrigerator FF Error Code - Causes & Fix](/posts/lg-refrigerator-ff-error-code/)
+- [LG Dryer Idler Pulley Replacement - Signs & How-To](/posts/lg-dryer-idler-pulley-replacement/)
+- [LG Refrigerator Light Not Working - Causes & Fix](/posts/lg-refrigerator-light-not-working/)

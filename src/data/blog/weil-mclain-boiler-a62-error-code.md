@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician immediately if you are not familiar with gas appliance service, if you cannot safely access the control diagnostics menu, or if you lack a combustion analyzer and manometer to verify gas pressures and combustion performance. A professional should handle any work involving gas piping, gas valve replacement, control board replacement, or venting modifications. Also call a pro if the fault returns after you have cleaned the flame sensor and verified gas supply, or if the boiler displays multiple fault codes or exhibits unusual combustion behavior such as rollout, delayed ignition, or persistent sooting. Proper diagnosis of an undefined code like A62 requires the correct service manual and field experience with Weil-McLain control platforms.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Weil-McLain A14 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a14-error-code/)
+- [Weil-McLain Boiler A73 Error - Causes & Fix](/posts/weil-mclain-boiler-a73-error-code/)
+- [Weil-McLain A132 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a132-error-code/)
+- [Weil-McLain A16 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a16-error-code/)

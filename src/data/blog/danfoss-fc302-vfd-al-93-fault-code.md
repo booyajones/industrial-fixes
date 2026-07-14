@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician whenever the drive displays any alarm code. Diagnosis requires safe isolation of high-voltage DC bus capacitors (which can hold lethal charge for minutes after power-off), multimeter testing of IGBT gate signals, and parameter programming. If the alarm is truly AL-93 and not a misread, the drive may have third-party firmware or be a counterfeit unit, and a Danfoss-certified service partner should inspect it. Do not attempt to open the drive enclosure or measure internal voltages without proper training, insulated tools, and lockout/tagout procedures.
 
 **Rough cost:** A pro service call runs about $300-800 depending on whether the fault is motor-side or drive internal.
+
+## See Also
+
+- [Danfoss FC302 VFD Alarm 23 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-23-fault-code/)
+- [Danfoss FC302 AL-62 - Causes & Fix](/posts/danfoss-fc302-vfd-al-62-fault-code/)
+- [Danfoss FC302 VFD Alarm 80 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-80-fault-code/)
+- [Danfoss VFD Fault OL — Causes & Fix](/posts/danfoss-vfd-fault-ol/)

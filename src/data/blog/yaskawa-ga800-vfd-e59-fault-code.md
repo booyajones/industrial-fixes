@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or controls technician if you are not trained to work on industrial VFDs or safety circuits. The STO function is part of a machine safety system, and incorrect wiring or bypassing safety devices can create serious hazards. A professional will verify the safety relay configuration, trace the entire STO wiring chain, measure loop continuity, and make sure all parameters are set correctly. If the drive control board or terminal interface is damaged, a tech can order the correct Yaskawa service part and perform board-level replacement. Do not attempt to jumper out safety devices or modify the STO circuit without understanding the machine's safety design and local code requirements.
 
 **Rough cost:** A pro service call runs about $150–400 depending on whether the fix is a jumper restore, wiring repair, or safety relay replacement.
+
+## See Also
+
+- [Yaskawa GA800 E11 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e11-fault-code/)
+- [Yaskawa GA800 A.138 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-138-fault-code/)
+- [Yaskawa GA800 E17 Fault - Causes & Fix](/posts/yaskawa-ga800-e17-fault-code/)
+- [Yaskawa GA800 F032 - Causes & Fix](/posts/yaskawa-ga800-vfd-f032-fault-code/)

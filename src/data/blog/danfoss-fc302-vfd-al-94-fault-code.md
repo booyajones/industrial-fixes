@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or VFD technician immediately if you are not trained to work with high-voltage three-phase equipment. VFDs store lethal DC bus voltage even after AC power is removed, and incorrect testing can destroy the drive or cause electrocution. A pro will have a megohm tester, oscilloscope, and IGBT tester to diagnose the fault safely. If the drive power board or IGBT module has failed, repair typically requires factory parts and specialized soldering or board-level work. If the motor windings have failed, a motor shop can rewind or replace the stator, which is often more economical than buying a new motor for large frames.
 
 **Rough cost:** A pro service call runs about $300-800.
+
+## See Also
+
+- [Danfoss FC302 AL-92 - Causes & Fix](/posts/danfoss-fc302-vfd-al-92-fault-code/)
+- [Danfoss FC302 AL-124 - Causes & Fix](/posts/danfoss-fc302-vfd-al-124-fault-code/)
+- [Danfoss FC302 Alarm 47 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-47-fault-code/)
+- [Danfoss FC302 Alarm 55 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-55-fault-code/)

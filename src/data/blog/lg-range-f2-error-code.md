@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a professional appliance technician if you are not comfortable working with multimeters, accessing the back of the oven cavity, or identifying wire harnesses. Also call if you have replaced the sensor and verified the wiring but the F2 code still appears, because the main control board will need to be diagnosed and swapped. A technician can confirm the exact sensor specification for your model, isolate intermittent wiring faults, and flash or replace the control board safely. If your range is still under warranty, contact LG service before opening the unit so you do not void coverage.
 
 **Rough cost:** DIY runs about $15-40 for sensor, 20-40 min. A pro service call runs about $120-250 including service call and sensor.
+
+## See Also
+
+- [LG Oven F10 Error Code - Causes & Fix](/posts/lg-oven-f10-error-code/)
+- [LG Refrigerator Water Filter Replacement - Signs & How-To](/posts/lg-refrigerator-water-filter-replacement/)
+- [LG LREL6323S Oven Problems & Error Codes](/posts/lg-lrel6323s-oven-problems/)
+- [LG Mini-Split CH22 Error Code — Indoor Fan Motor Fix](/posts/lg-mini-split-ch22-error-code/)

@@ -52,3 +52,10 @@ Because E8 is not uniformly defined by LG, confirm your exact model number from 
 ## When to Call a Pro
 
 Call a qualified appliance technician if the power reset does not clear the code, if you are uncomfortable working inside a live 240-volt appliance, or if you lack a multimeter and the service documentation needed to test the thermistor and control signals safely. Also call for help if the thermistor and wiring both check good but the code returns, since that points to a control-board fault that requires board-level diagnosis and replacement. Licensed techs have access to LG's full service manuals, correct part numbers by serial-number range, and the test equipment to verify sensor accuracy and board output voltages without guessing.
+
+## See Also
+
+- [LG Oven F3 Error Code - Causes & Fix](/posts/lg-oven-f3-error-code/)
+- [LG LFXS28968S Refrigerator Problems & Error Codes](/posts/lg-lfxs28968s-refrigerator-problems/)
+- [LG Washer Error Codes — Complete Fix Guide](/posts/lg-washer-error-codes/)
+- [LG Dishwasher FE Error Code - Causes & Fix](/posts/lg-dishwasher-fe-error-code/)

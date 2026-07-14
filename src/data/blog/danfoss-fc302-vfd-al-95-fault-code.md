@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or VFD technician if you are not trained in variable frequency drive commissioning, parameter programming, or high-voltage three-phase systems. Alarm 95 diagnostics require understanding of motor thermal models, accurate parameter entry, and the ability to safely perform no-load testing and insulation testing on motors. If mechanical binding is found, call a millwright or mechanical technician to inspect bearings, couplings, and driven equipment. If the drive itself has failed (alarm trips with no motor connected), replacement and commissioning require a trained VFD specialist to transfer parameters and perform startup checks.
 
 **Rough cost:** A pro service call runs about $150-400 for parameter commissioning and motor testing; $800-2500 if drive replacement is genuinely needed.
+
+## See Also
+
+- [Danfoss FC302 ALARM 16 - Causes & Fix](/posts/danfoss-fc302-alarm-16-fault-code/)
+- [Danfoss FC302 Alarm 51 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-51-fault-code/)
+- [Danfoss FC302 AL-19 - Causes & Fix](/posts/danfoss-fc302-vfd-al-19-fault-code/)
+- [Danfoss FC302 WARNING 77 - Causes & Fix](/posts/danfoss-fc302-vfd-al-77-fault-code/)

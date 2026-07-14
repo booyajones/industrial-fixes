@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or gas technician if you are uncomfortable working with gas connections or high-voltage ignition systems. A professional should also measure inlet gas pressure with a manometer, inspect vent piping for code compliance, and use a multimeter to test flame-rod microamp current and igniter voltage. Any repair that involves the gas valve, burner orifice replacement, or control-board diagnosis requires training and calibrated tools to make sure safe operation and warranty compliance.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [Navien E012 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e012-error-code/)
+- [Navien E030 Error Code — Causes & Fix](/posts/navien-error-code-e030/)
+- [Navien Alarm 438 - Causes & Fix](/posts/navien-tankless-alarm-438-error-code/)
+- [Navien E594 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e594-error-code/)

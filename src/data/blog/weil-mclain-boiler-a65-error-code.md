@@ -67,3 +67,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you cannot locate your model manual, if the diagnostic menu does not clarify the fault, or if the troubleshooting steps require testing gas pressure, checking ignition timing, or replacing control boards. Gas-fired boiler work requires specialized training and licensing in most jurisdictions. A qualified technician will retrieve the fault history, identify the exact meaning of A65 for your model, perform the manufacturer's diagnostic procedure, and order the correct parts using your boiler's model and CP number. Do not bypass safety lockouts or reset the boiler repeatedly without addressing the underlying cause.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A61 Error - Causes & Fix](/posts/weil-mclain-boiler-a61-error-code/)
+- [Weil-McLain A16 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a16-error-code/)
+- [Weil-McLain A133 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a133-error-code/)
+- [Weil-McLain A118 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a118-error-code/)

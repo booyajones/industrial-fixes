@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or gas technician if you are uncomfortable working with gas appliances, if cleaning the flame rod and burner does not resolve the E135 code, or if you suspect low gas pressure or a failed gas valve. Professionals have the meters to measure inlet gas pressure, the tools to disassemble the burner chamber safely, and the training to test ignition circuits. They can also inspect the heat exchanger for scale buildup or corrosion that may interfere with combustion. Any work involving gas piping, pressure regulation, or internal control boards should be left to a qualified technician to avoid safety hazards and maintain your warranty.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien E740 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e740-error-code/)
+- [Navien Tankless Water Heater E243 Error - Causes & Fix](/posts/navien-tankless-water-heater-e243-error-code/)
+- [Navien E023 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e023-error-code/)
+- [Navien Tankless Water Heater Cold Water Inlet Valve Replacement](/posts/navien-water-heater-water-inlet-valve-cold-water-isolation-valve-kit-tankless-replacement/)
