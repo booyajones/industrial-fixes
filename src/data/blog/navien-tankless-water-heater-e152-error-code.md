@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or gas technician if you are uncomfortable working around gas appliances, if the flame rod and igniter appear clean but the error persists, or if you suspect low gas pressure or venting problems. Professionals have the tools to measure gas pressure, test flame current, and inspect the heat exchanger for cracks or blockages. Any work involving gas lines, combustion safety, or internal control boards should be handled by a qualified technician to avoid carbon monoxide hazards and make sure warranty coverage.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien E038 Error Code - Causes & Fix](/posts/navien-tankless-e038-error-code/)
+- [Navien E160 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e160-error-code/)
+- [Navien Tankless Water Heater E019 Error - Causes & Fix](/posts/navien-tankless-water-heater-e019-error-code/)
+- [Navien E196 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e196-error-code/)

@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working inside a 240-volt electric range, if you cannot safely access the sensor connector behind the oven cavity, or if the sensor and wiring both test normal but the F4 code will not clear. A technician can verify the control board input circuit with specialized tools and has access to model-specific resistance tables and service data that are not published in owner manuals. If your range is still under warranty, contact LG or an authorized service center before attempting any repair yourself.
 
 **Rough cost:** DIY runs about $25-$60 in parts, 30-60 min. A pro service call runs about $150-$300.
+
+## See Also
+
+- [LG Dishwasher FE Error Code - Causes & Fix](/posts/lg-dishwasher-fe-error-code/)
+- [LG Mini Split CH66 Error Code - Causes & Fix](/posts/lg-mini-split-ch66-error-code/)
+- [LG Microwave Making Loud Noise - Causes & Fix](/posts/lg-microwave-making-loud-noise/)
+- [LG Mini Split Making Noise - Causes & Fix](/posts/lg-mini-split-making-noise/)

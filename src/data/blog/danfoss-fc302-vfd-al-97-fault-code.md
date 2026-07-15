@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a VFD technician or industrial electrician if the drive faults with the motor disconnected, if you lack a megohmmeter or insulation tester, or if the alarm code is ALARM 38 or ALARM 72 (internal faults that require firmware diagnostics and component-level testing). Also call a pro if you find failed motor insulation but do not have the tools to safely replace or rewind the motor. High-voltage drive work (especially testing IGBT modules and DC bus capacitors) requires specialized training and equipment.
 
 **Rough cost:** A pro service call runs about $300-800 for motor testing, winding repair, or inverter board replacement.
+
+## See Also
+
+- [Danfoss FC302 AL-141 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-141-fault-code/)
+- [Danfoss FC302 Alarm 38 - Causes & Fix](/posts/danfoss-fc302-alarm-38-fault-code/)
+- [Danfoss FC302 AL-148 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-148-fault-code/)
+- [Danfoss FC302 AL-60 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-60-fault-code/)

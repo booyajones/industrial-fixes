@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or Yaskawa-trained technician if you are not familiar with industrial control wiring, safety relay logic, or VFD terminal assignments. E65 troubleshooting requires working with live control circuits and understanding the safety chain architecture. If the external safety circuit checks out but the fault persists, the control board or STO interface hardware is likely at fault and should be diagnosed and replaced by a professional. Do not bypass or jumper the STO circuit to force the drive to run, as this defeats the machine's safety system and violates safety standards.
 
 **Rough cost:** A pro service call runs about $150–400 depending on whether the fix is wiring repair, safety relay replacement, or control board.
+
+## See Also
+
+- [Yaskawa A1000 AL-01 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-01-fault-code/)
+- [Yaskawa GA800 F009 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f009-fault-code/)
+- [Yaskawa GA800 E09 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e09-fault-code/)
+- [Yaskawa GA800 EF3 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f003-fault-code/)

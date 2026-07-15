@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified appliance technician if the F8 code returns after you have replaced the meat probe and inspected the connector, or if you are not comfortable working with 240 V household power and testing control board inputs. Technicians have model-specific resistance tables and board-level diagnostic tools to isolate input-circuit failures without guessing. Also call a pro if your range uses dual fuel (gas cooktop, electric oven) and you see any signs of gas odor or burner control issues alongside the F8 fault, since combination appliances require coordinated safety checks.
 
 **Rough cost:** DIY runs about $15–50 in parts (probe or harness), 15–30 min. A pro service call runs about $120–220 service call plus parts.
+
+## See Also
+
+- [LG Washer Cd Error Code - Causes & Fix](/posts/lg-washer-cd-error-code/)
+- [LG Washer Door Won't Unlock - Causes & Fix](/posts/lg-washer-door-wont-unlock/)
+- [LG Washer CL Error Code - Causes & Fix](/posts/lg-washer-cl-error-code/)
+- [LG DLE7400WE Dryer Problems & Error Codes](/posts/lg-dle7400we-dryer-problems/)

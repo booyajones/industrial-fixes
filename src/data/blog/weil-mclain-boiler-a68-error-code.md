@@ -81,3 +81,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician immediately if you smell gas, if the boiler continues to lock out after two resets, or if you are uncomfortable working around gas appliances. Gas boiler repair requires specialized tools (manometers, multimeters, combustion analyzers) and knowledge of ignition timing, gas pressure specs, and combustion safety. A technician will measure ignitor resistance, test gas valve operation, verify flame sensor microamp readings, check circulation and high-limit settings, and access diagnostic menus to confirm the fault. Attempting DIY repair on gas systems can create carbon monoxide hazards or explosion risk if not done correctly. Most A68 faults are resolved in a single service call with sensor cleaning, ignitor replacement, or gas valve repair.
 
 **Rough cost:** A pro service call runs about $150-350 depending on part and labor.
+
+## See Also
+
+- [Weil-McLain Boiler A178 Error - Causes & Fix](/posts/weil-mclain-boiler-a178-error-code/)
+- [Weil-McLain Boiler A23 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a23-error-code/)
+- [Weil-McLain A18 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a18-error-code/)
+- [Weil-McLain Boiler Error Code E08 — Causes & Fix](/posts/weil-mclain-e08-error-code/)

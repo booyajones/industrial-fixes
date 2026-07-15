@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified drive technician or Yaskawa distributor immediately if you see E64. This fault indicates an internal control-circuit problem that requires diagnostic tools, safe high-voltage work practices, and access to OEM parts. Attempting to troubleshoot live circuits inside the drive without proper training risks electric shock, further component damage, and voided warranty. A professional will use oscilloscopes, insulation testers, and the manufacturer's service bulletins to isolate the failed section, determine whether the control board can be repaired or must be replaced, and verify that upstream power quality will not damage the new components. If the drive is under warranty or service contract, contact Yaskawa support before opening the enclosure to preserve coverage.
 
 **Rough cost:** A pro service call runs about $400–1,200 for control board replacement or drive swap, depending on model and labor.
+
+## See Also
+
+- [Yaskawa A1000 CPF11 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf11-fault-code/)
+- [Yaskawa GA800 E42 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e42-fault-code/)
+- [Yaskawa GA800 E94 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e94-fault-code/)
+- [Yaskawa A1000 CPF19 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf19-fault-code/)

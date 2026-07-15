@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified appliance technician if you are uncomfortable working inside the range cabinet, if the thermistor and wiring both test good but the code persists (pointing to a control board fault), or if you do not have a multimeter and the manufacturer's resistance specification table for your exact model. A technician can quickly verify the sensor circuit end-to-end and replace the correct component the first time. Also call service if your range is still under warranty, because DIY work may void coverage.
 
 **Rough cost:** DIY runs about $20–60 in parts, 30–60 min. A pro service call runs about $150–300.
+
+## See Also
+
+- [LG Oven F10 Error Code - Causes & Fix](/posts/lg-oven-f10-error-code/)
+- [LG Washer Drain Hose Replacement - Signs & How-To](/posts/lg-washer-drain-hose-replacement/)
+- [LG Mini-Split CH27 Error Code - Causes & Fix](/posts/lg-mini-split-ch27-error-code/)
+- [LG DLEX4000W Dryer Problems & Error Codes](/posts/lg-dlex4000w-dryer-problems/)

@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified Yaskawa service technician or distributor immediately if the drive displays E66 or any other unrecognized code. The GA800 maintenance guide explicitly limits field-serviceable repairs to fan and control board replacement, and all other diagnosis and component-level repair require factory training and support. A technician will verify the exact code definition, check the elementary diagram and parameter settings, inspect the power module and internal connections, and coordinate with Yaskawa if the fault is not documented in standard literature. Do not attempt to clear or reset unconfirmed faults without understanding their cause, as this can lead to equipment damage or unsafe operation.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Yaskawa GA800 E51 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e51-fault-code/)
+- [Yaskawa U1000 Fault Codes: Complete Guide](/posts/yaskawa-u1000-fault-codes/)
+- [Yaskawa GA800 E05 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e05-fault-code/)
+- [Yaskawa Sigma-7 SGD7S Servo Drive Alarm Codes — Diagnosis & Fix](/posts/yaskawa-sigma7-sgd7s-alarm-codes/)

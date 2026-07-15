@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a qualified technician if you are uncomfortable working with electrical connections or if you have checked all wiring and the error persists after replacing the flow sensor. A professional can perform voltage tests on the control board, verify gas and combustion settings, and replace the board safely if needed. Also call a pro if the heater is still under warranty, as DIY repairs may void coverage.
 
 **Rough cost:** DIY runs about $80-150 in parts, 1-2 hours. A pro service call runs about $180-350.
+
+## See Also
+
+- [Navien Tankless Water Heater E177 Error - Causes & Fix](/posts/navien-tankless-water-heater-e177-error-code/)
+- [Navien E181 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e181-error-code/)
+- [Navien E038 Error Code - Causes & Fix](/posts/navien-tankless-e038-error-code/)
+- [Navien Water Heater Leaking - Causes & Fix](/posts/navien-water-heater-leaking/)

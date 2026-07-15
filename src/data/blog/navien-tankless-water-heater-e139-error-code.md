@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed technician if you are uncomfortable working with gas appliances, if cleaning and realigning the flame rod does not resolve the error, or if you find a cracked ceramic insulator or corroded wiring that requires part replacement. Tankless water heaters involve both natural gas (or propane) and high-voltage components, so any work beyond basic inspection and cleaning is best left to a qualified service professional. A technician can also measure gas pressure, inspect the burner and heat exchanger for blockages, and verify proper combustion air supply to rule out upstream issues that mimic a flame-rod fault.
 
 **Rough cost:** A pro service call runs about $120-250.
+
+## See Also
+
+- [Navien Tankless Water Heater E247 Error - Causes & Fix](/posts/navien-tankless-water-heater-e247-error-code/)
+- [Navien E012 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e012-error-code/)
+- [Navien Tankless Water Heater E230 Error - Causes & Fix](/posts/navien-tankless-water-heater-e230-error-code/)
+- [Navien E302 Error Code — Causes & Fix](/posts/navien-error-code-e302/)

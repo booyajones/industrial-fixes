@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or Navien service technician if you are uncomfortable working around gas appliances, if you lack a multimeter and the skills to trace sensor circuits, or if the error persists after replacing the sensor and inspecting all wiring. Tankless water heaters involve gas combustion and require proper venting. An incorrectly diagnosed exhaust sensor issue can mask a real overheating or venting problem that poses a carbon monoxide risk.
 
 **Rough cost:** A pro service call runs about $200-$400.
+
+## See Also
+
+- [Navien E594 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e594-error-code/)
+- [Navien E024 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e024-error-code/)
+- [Navien Water Heater Rusty Water - Causes & Fix](/posts/navien-water-heater-rusty-water/)
+- [Navien E030 Error Code — Causes & Fix](/posts/navien-error-code-e030/)

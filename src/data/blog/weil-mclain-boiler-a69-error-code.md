@@ -82,3 +82,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician immediately if you are not comfortable working around natural gas or propane. Gas work requires proper tools, pressure gauges, and combustion analysis to verify safe operation. Also call a pro if you have cleaned the flame sensor and confirmed gas supply but the fault returns, if you smell gas at any time, or if the boiler has gone through more than two resets without resolving the issue. Repeated ignition attempts without fixing the root cause can damage the control and create unsafe combustion conditions. A qualified technician will perform inlet and manifold pressure checks, test ignition voltage and flame rectification current, and verify proper venting and combustion air before clearing the fault.
 
 **Rough cost:** A pro service call runs about $150–350 depending on parts and labor.
+
+## See Also
+
+- [Weil-McLain A74 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a74-error-code/)
+- [Weil-McLain Boiler A137 Error - Causes & Fix](/posts/weil-mclain-boiler-a137-error-code/)
+- [Weil-McLain A11 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a11-error-code/)
+- [Weil-McLain A174 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a174-error-code/)

@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed technician if you cannot safely reach the outdoor vent terminations, if the vent piping runs through walls or ceilings you cannot inspect, or if the error returns after you have cleared all visible blockages. Tankless water heaters involve combustion gases and require precise venting to operate safely. A technician can measure combustion efficiency, verify correct vent sizing and slope, descale the heat exchanger with a flushing pump, and test or replace the exhaust temperature sensor. Any work on gas connections, burner assembly, or internal sensors is best left to a professional to avoid carbon monoxide hazards and to preserve warranty coverage.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Navien E232 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e232-error-code/)
+- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
+- [Navien E777 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e777-error-code/)
+- [Navien Control Board Replacement - Signs & How-To](/posts/navien-water-heater-control-board-pcb-main-board-tankless-replacement/)

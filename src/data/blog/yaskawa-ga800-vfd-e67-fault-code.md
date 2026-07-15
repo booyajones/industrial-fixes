@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or system integrator if you are not familiar with industrial serial communication standards, do not have wiring diagrams for the drive and network, or if the fault persists after verifying cable continuity and option card seating. Communication troubleshooting often requires specialized test equipment, knowledge of network topology, and access to Yaskawa's support resources. If the drive is part of a larger automation system, involve the controls engineer or original installer to avoid disrupting other devices on the network.
 
 **Rough cost:** A pro service call runs about $150-400 depending on cable run and option card.
+
+## See Also
+
+- [Yaskawa GA800 E40 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e40-fault-code/)
+- [Yaskawa VFD Fault SC — Causes & Fix](/posts/yaskawa-vfd-fault-sc/)
+- [Yaskawa A1000 oL6 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol6-fault-code/)
+- [Yaskawa A1000 AL-31 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-31-fault-code/)

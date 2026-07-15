@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a professional appliance technician if you are uncomfortable working with 240-volt circuits, if the fault persists after resetting and basic inspection, or if you do not have a multimeter and the service manual needed to test sensor resistance and element continuity. A qualified technician can safely diagnose the convection fan motor, verify relay board switching, and trace intermittent wiring faults that are difficult to find without specialized test equipment. If low voltage is suspected (the oven heats weakly or cycles on and off), contact a licensed electrician to measure the supply voltage at the breaker and outlet before replacing any range components.
 
 **Rough cost:** DIY runs about $50-150 in parts, 1-2 hours. A pro service call runs about $150-350.
+
+## See Also
+
+- [LG Oven F12 Error Code - Causes & Fix](/posts/lg-oven-f12-error-code/)
+- [LG Microwave Not Heating - Causes & Fix](/posts/lg-microwave-not-heating/)
+- [LG Washer E03 (OE) Error Code - Causes & Fix](/posts/lg-washer-e03-error-code/)
+- [LG Mini Split CH01 Error Code — Causes & Fix](/posts/lg-mini-split-ch01-error-code/)

@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Danfoss-certified service partner if you cannot confirm the exact alarm number, if parameter 15-32 shows codes you do not understand, or if the drive continues to fault after a control-card replacement. Professional diagnostics include oscilloscope tests of gate-driver signals, firmware reflashing via MCT 10 software, and full power-stack load testing. If the drive is under warranty, contact Danfoss immediately rather than opening the enclosure. High-voltage DC bus capacitors remain charged for several minutes after power-off and pose a serious shock hazard.
 
 **Rough cost:** A pro service call runs about $300-800 depending on whether a control card or full power stack is needed.
+
+## See Also
+
+- [Danfoss FC302 VFD AL-119 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-119-fault-code/)
+- [Danfoss FC302 ALARM 28 - Causes & Fix](/posts/danfoss-fc302-alarm-28-fault-code/)
+- [Danfoss FC301 Fault AL 14 — Ground Fault Causes & Fix](/posts/danfoss-fc301-fault-al-14/)
+- [Danfoss FC302 VFD ALARM 18 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-18-fault-code/)

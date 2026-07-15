@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a qualified technician or control systems integrator if you are not comfortable working inside the VFD enclosure or handling control board diagnostics. This fault involves electronic troubleshooting and board-level repair, which requires familiarity with VFD internals, safe lockout and tagout procedures, and access to replacement control boards. If the drive is still under warranty or part of a critical industrial process, professional service is recommended to avoid downtime and make sure proper documentation of the repair.
 
 **Rough cost:** A pro service call runs about $300-800 depending on control board replacement and labor.
+
+## See Also
+
+- [Danfoss FC302 Alarm 34 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-34-fault-code/)
+- [Danfoss FC302 VFD ALARM 39 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-39-fault-code/)
+- [Danfoss FC302 VFD Alarm 33 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-33-fault-code/)
+- [Danfoss FC302 VFD Alarm 16 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-16-fault-code/)

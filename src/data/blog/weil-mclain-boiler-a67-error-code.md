@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician for A67 faults. Gas appliance troubleshooting requires measuring inlet pressure, testing gas-valve operation, and working safely around combustion. A qualified tech will verify venting, air-proving interlocks, and control signals with the proper instruments, then clear the lockout correctly after repair. Attempting DIY gas-system repairs risks explosion, carbon-monoxide hazards, and voiding your warranty.
 
 **Rough cost:** A pro service call runs about $150–350.
+
+## See Also
+
+- [Weil-McLain A60 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a60-error-code/)
+- [Weil-McLain Boiler A158 Error - Causes & Fix](/posts/weil-mclain-boiler-a158-error-code/)
+- [Weil-McLain Boiler A139 Error - Causes & Fix](/posts/weil-mclain-boiler-a139-error-code/)
+- [Weil-McLain 019 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a19-error-code/)

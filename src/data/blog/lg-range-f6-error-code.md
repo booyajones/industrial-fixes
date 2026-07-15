@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified appliance technician if you are uncomfortable working inside the range cabinet, if the fault returns after you have replaced the sensor and inspected all wiring, or if you need to diagnose the control board relay circuits with specialized test equipment. Technicians have the service manual, wiring diagrams, and component-level test procedures to isolate stuck relays, shorted heating elements, or control board failures that are not obvious from basic continuity checks. If your range is still under warranty or you lack a multimeter and the confidence to safely disconnect and test electrical components, professional service is the best path.
 
 **Rough cost:** DIY runs about $25-70 in parts, 30-60 min. A pro service call runs about $150-300.
+
+## See Also
+
+- [LG Oven F6 Error Code - Causes & Fix](/posts/lg-oven-f6-error-code/)
+- [LG Range E6 Error Code - Causes & Fix](/posts/lg-range-e6-error-code/)
+- [LG Refrigerator Not Cooling - Causes & Fix](/posts/lg-refrigerator-not-cooling/)
+- [LG Dryer LE2 Error Code - Causes & Fix](/posts/lg-dryer-le2-error-code/)

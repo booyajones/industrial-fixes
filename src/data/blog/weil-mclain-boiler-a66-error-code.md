@@ -82,3 +82,10 @@ Answer these to narrow it down fast.
 Call a licensed technician immediately if you smell gas, if you are not comfortable working around gas piping, or if the boiler has been modified or installed recently and may have air in the gas line. A professional should also handle gas-pressure testing, gas-valve replacement, control-board diagnostics, and any work inside the combustion chamber. Because the A66 code is not verified in manufacturer literature, a technician can pull the service manual for your exact model, retrieve the fault history from the control, and follow the manufacturer's diagnostic tree to pinpoint the root cause without guessing.
 
 **Rough cost:** A pro service call runs about $150–350.
+
+## See Also
+
+- [Weil-McLain Boiler A156 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a156-error-code/)
+- [Weil-McLain A41 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a41-error-code/)
+- [Weil-McLain A151 Error - Causes & Fix](/posts/weil-mclain-boiler-a151-error-code/)
+- [Weil-McLain Boiler A180/E18 Error - Causes & Fix](/posts/weil-mclain-boiler-a180-error-code/)
