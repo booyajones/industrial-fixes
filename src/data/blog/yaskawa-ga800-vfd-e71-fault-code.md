@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial controls technician or automation integrator if you are not familiar with the specific fieldbus protocol in use, if you cannot safely access the option card or wiring inside the drive enclosure, or if the fault persists after verifying cable continuity and parameter settings. Communication faults on VFDs often require specialized diagnostic tools (network scanners, protocol analyzers) and knowledge of PLC programming and network topology. If the drive is part of a larger automated system, involve the system integrator or original installer to avoid disrupting other devices on the network or causing production downtime.
 
 **Rough cost:** A pro service call runs about $150–500 depending on whether the fix is cable repair, option card replacement, or network reconfiguration.
+
+## See Also
+
+- [Yaskawa GA800 Uv1 Fault — DC Undervoltage Fix](/posts/yaskawa-ga800-error-uv1/)
+- [Yaskawa GA800 E76 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e76-fault-code/)
+- [Yaskawa GA800 A.123 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-123-fault-code/)
+- [Yaskawa A1000 CPF35 (AL-35) - Causes & Fix](/posts/yaskawa-a1000-vfd-al-35-fault-code/)

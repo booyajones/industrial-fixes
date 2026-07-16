@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD or controls technician if you are unfamiliar with industrial safety circuits, the machine uses a configurable safety controller that requires programming, or the fault persists after verifying all STO wiring and jumpers are correct. Drives with failed STO input circuitry require factory or authorized service-center repair. Any work on high-voltage drive terminals or integrated safety systems should be performed only by trained personnel with proper lockout/tagout procedures.
 
 **Rough cost:** A pro service call runs about $150–400 depending on whether it is a simple jumper install or safety-relay replacement and wiring repair.
+
+## See Also
+
+- [Yaskawa GA800 A.125 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-125-fault-code/)
+- [Yaskawa GA800 E09 Fault - Causes & Fix](/posts/yaskawa-ga800-e09-fault-code/)
+- [Yaskawa A1000 CPF35 (AL-35) - Causes & Fix](/posts/yaskawa-a1000-vfd-al-35-fault-code/)
+- [Yaskawa GA800 VFD F038/oS Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f038-fault-code/)

@@ -71,3 +71,10 @@ Answer these to narrow it down fast.
 Call a qualified appliance technician immediately if you cannot locate a service sheet or owner's manual that lists FE for your range model, if the code locks out all oven functions, or if you are uncomfortable working behind live control panels. Ranges operate on 240 V in North America, and misdiagnosing the fault can lead to expensive part swaps (control boards often cost $200–400) when the real issue is a loose connector or a non-existent code caused by a display glitch. A technician has access to LG's internal service database and can retrieve model-specific code tables, wiring diagrams, and any technical service bulletins that clarify ambiguous or undocumented codes.
 
 **Rough cost:** A pro service call runs about $150–350.
+
+## See Also
+
+- [LG Range E1 Error Code - Causes & Fix](/posts/lg-range-e1-error-code/)
+- [LG Dryer Takes Too Long to Dry - Causes & Fix](/posts/lg-dryer-takes-too-long-to-dry/)
+- [LG Refrigerator Running Constantly - Causes & Fix](/posts/lg-refrigerator-running-constantly/)
+- [LG Mini-Split CH24 Error - Causes & Fix](/posts/lg-mini-split-ch24-error-code/)

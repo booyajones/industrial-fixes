@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician for an A74 fault if you are not comfortable working with gas appliances, high-voltage wiring, or combustion systems. Gas boilers require precise diagnosis of ignition timing, flame proving circuits, and gas pressure, and mistakes can create safety hazards including gas leaks, carbon monoxide, or fire. A qualified technician will use the model-specific manual, measure flame signal in microamps if applicable, test gas valve operation and pressure, and verify venting and airflow per code. Professional diagnosis is also essential if you have already cleaned the flame sensor and inspected the ignitor but the fault returns, or if the boiler cycles repeatedly without establishing stable flame.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [Weil-McLain Boiler A148 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a148-error-code/)
+- [Weil-McLain A134 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a134-error-code/)
+- [Weil-McLain Boiler A31 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a31-error-code/)
+- [Weil-McLain 019 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a19-error-code/)

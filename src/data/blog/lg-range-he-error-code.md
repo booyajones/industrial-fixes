@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified appliance technician if you are not comfortable working around 240-volt circuits or removing the range back panel to access the thermistor. Also call for service if the thermistor and all wiring test correctly but the HE code persists, because the remaining fault is likely a control board input issue that requires board-level diagnosis or LG-authorized repair. If the error appears on a dual-fuel or gas range and you smell gas or suspect a gas-line issue, shut off the gas supply and call a professional immediately.
 
 **Rough cost:** DIY runs about $20-50 for thermistor, 30-60 min. A pro service call runs about $150-250 service call and thermistor replacement.
+
+## See Also
+
+- [LG Dryer E4 Error Code - Causes & Fix](/posts/lg-dryer-e4-error-code/)
+- [LG Dishwasher Error IE — Water Inlet Fix](/posts/lg-dishwasher-error-ie/)
+- [LG Microwave LOC Error Code - Causes & Fix](/posts/lg-microwave-loc-error-code/)
+- [LG Refrigerator Error Codes — Complete Fix Guide](/posts/lg-refrigerator-error-codes/)

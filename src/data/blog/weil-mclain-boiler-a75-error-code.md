@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician if you cannot find the model-specific meaning of A75 in your manual, if you are not comfortable working with gas supply or electrical testing, or if the boiler continues to lock out after you have verified basic operating conditions. Gas-fired boiler work involves combustion safety, proper venting, and electrical diagnostics that require training and test equipment. A qualified technician will retrieve fault history from the control, test each input and output circuit with a meter, and replace only the component that has actually failed. Do not attempt to bypass safety interlocks or replace the control board without first confirming that sensors, limits, and the gas train are operating correctly.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain Boiler A96 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a96-error-code/)
+- [Weil-McLain Boiler A00 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a00-error-code/)
+- [Weil-McLain E02 Error Code — Causes & Fix](/posts/weil-mclain-e02-error-code/)
+- [Weil-McLain Boiler A141 Error - Causes & Fix](/posts/weil-mclain-boiler-a141-error-code/)

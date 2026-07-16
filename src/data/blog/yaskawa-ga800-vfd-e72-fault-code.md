@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified variable-frequency drive technician or an authorized Yaskawa service center for an E72 fault. The repair requires working inside the drive enclosure with high DC bus voltage present even after AC power is removed. Diagnosing the soft-charge bypass relay circuit involves interpreting the drive's internal wiring, measuring coil and feedback signals, and replacing control boards or relays that are not stocked at most electrical distributors. The GA800 maintenance manual explicitly states that repairs beyond fan and control board replacement are outside the scope of field service, so persistent E72 faults after basic troubleshooting usually require factory-level diagnostics or a complete drive replacement. Do not attempt this repair unless you are trained in VFD service and have appropriate PPE and lockout/tagout procedures in place.
 
 **Rough cost:** A pro service call runs about $400–1,200 depending on whether a control board, relay assembly, or complete drive replacement is required.
+
+## See Also
+
+- [Yaskawa A1000 Er-02 - Causes & Fix](/posts/yaskawa-a1000-vfd-al-02-fault-code/)
+- [Yaskawa V1000 OV Fault - What It Means and How to Fix It](/posts/yaskawa-v1000-fault-ov/)
+- [Allen-Bradley PowerFlex F005 - Causes & Fix](/posts/yaskawa-ga800-vfd-f005-fault-code/)
+- [Yaskawa GA800 E69 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e69-fault-code/)

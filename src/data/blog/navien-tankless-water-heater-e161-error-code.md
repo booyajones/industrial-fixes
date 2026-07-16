@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a professional if the error returns after reseating all visible connectors and power cycling the unit, or if you lack experience working with line-voltage wiring and control boards. Navien tankless heaters integrate gas, water, and electronic controls, and misdiagnosis can lead to unsafe operation or expensive part replacements. A qualified technician will have diagnostic tools to measure board communication, test voltage stability, and isolate the exact point of failure. Always call a pro if you see burn marks, smell unusual odors, or if the unit has been exposed to water intrusion or power surges.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Navien Error Code E010 — Causes & Fix](/posts/navien-error-code-e010/)
+- [Navien E027 Error Code - Causes & Fix](/posts/navien-tankless-e027-error-code/)
+- [Navien Water Heater Leaking - Causes & Fix](/posts/navien-water-heater-leaking/)
+- [Navien E337 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e337-error-code/)

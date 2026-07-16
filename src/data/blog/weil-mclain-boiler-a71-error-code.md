@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician if you are uncomfortable working with gas appliances, if the fault history reveals multiple errors or an unfamiliar fault name, or if cleaning the flame sensor and checking gas pressure does not resolve the lockout. Gas combustion work requires specialized tools (manometer, combustion analyzer) and training. A technician can safely measure gas pressure, test flame signal with a microamp meter, inspect the ignition control board, and verify venting and airflow according to Weil-McLain's service procedures. Because the exact meaning of A71 depends on your specific model and control, professional diagnosis with the correct service manual is the surest path to a lasting repair.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Weil-McLain A12 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a12-error-code/)
+- [Weil-McLain Boiler A73 Error - Causes & Fix](/posts/weil-mclain-boiler-a73-error-code/)
+- [Weil-McLain A161 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a161-error-code/)
+- [Weil-McLain Boiler A70 Error - Causes & Fix](/posts/weil-mclain-boiler-a70-error-code/)

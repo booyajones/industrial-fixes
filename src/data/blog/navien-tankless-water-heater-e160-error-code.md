@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified technician if the error persists after cleaning the filter and clearing the vents, if you hear unusual noises from the combustion fan, or if you lack confidence working with gas appliances. A pro can test the fan motor speed, check the air pressure switch with a meter, inspect internal venting and the heat exchanger for blockages, and verify correct combustion readings with a flue gas analyzer. Because tankless heaters involve both gas and electrical components, professional diagnosis is often the safest and most efficient path when simple cleaning does not resolve the fault.
 
 **Rough cost:** DIY runs about $0-80 in parts, 30-90 min. A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien E001 Error Code - Causes & Fix](/posts/navien-tankless-e001-error-code/)
+- [Navien Tankless Water Heater E167 Error - Causes & Fix](/posts/navien-tankless-water-heater-e167-error-code/)
+- [Navien Tankless Water Heater E309 Error - Causes & Fix](/posts/navien-tankless-water-heater-e309-error-code/)
+- [Navien E322 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e322-error-code/)

@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working with 240-volt wiring, if the oven uses a direct hard-wire connection rather than a plug, or if you have replaced the sensor and elements but the H5 code persists. A technician has the service manual, relay test adapters, and board-level diagnostic tools to pinpoint control-board faults and can often repair the board rather than replace it. Also call a pro if you smell gas, see arcing or scorched wiring, or if the range shares a junction box with other high-current appliances.
 
 **Rough cost:** DIY runs about $25-90 in parts, 30-60 min. A pro service call runs about $150-280.
+
+## See Also
+
+- [LG Mini-Split CH38 Error Code - Causes & Fix](/posts/lg-mini-split-ch-38-error-code/)
+- [LG Refrigerator Water Leaking on Floor - Causes & Fix](/posts/lg-refrigerator-water-leaking-on-floor/)
+- [LG Range E8 Error Code - Causes & Fix](/posts/lg-range-e8-error-code/)
+- [LG Refrigerator CF Error Code - Causes & Fix](/posts/lg-refrigerator-cf-error-code/)

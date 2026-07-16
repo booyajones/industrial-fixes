@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician if you cannot access the error history, if the fault table in your manual does not list A73, or if you are uncomfortable working with 120V wiring and hydronic pumps. A pro can pull the complete diagnostic log, compare live sensor readings against known good values, and test the circulator under load. Because Weil-McLain codes are model-specific and the boiler may enter a manual reset lockout that requires clearing the underlying cause before it will restart, professional diagnosis prevents repeat lockouts and ensures the repair matches the actual fault rather than guessing based on internet descriptions.
 
 **Rough cost:** A pro service call runs about $200-450.
+
+## See Also
+
+- [Weil-McLain Boiler A177 Error - Causes & Fix](/posts/weil-mclain-boiler-a177-error-code/)
+- [Weil-McLain A135 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a135-error-code/)
+- [Weil-McLain 019 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a19-error-code/)
+- [Weil-McLain Boiler A49 Error - Causes & Fix](/posts/weil-mclain-boiler-a49-error-code/)

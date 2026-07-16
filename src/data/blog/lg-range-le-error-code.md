@@ -51,3 +51,10 @@ The LE code on LG washers stands for Locked Motor Error (or Motor Locker Error o
 ## When to Call a Pro
 
 Call a qualified appliance technician if the LE code returns after you have completed a power reset, reduced the load, and confirmed no visible obstructions or loose wiring. Diagnosing motor feedback sensors, stator windings, and control-board drive circuits requires live voltage testing and component-level troubleshooting that can be unsafe without proper training. LG recommends professional service when basic user steps do not clear the fault. A technician will use a multimeter and the service manual to isolate whether the motor, sensor, wiring, or control board is at fault and replace only the defective component.
+
+## See Also
+
+- [LG Washer Won't Spin - Causes & Fix](/posts/lg-washer-wont-spin/)
+- [LG LAN120HSV5 Ductless Mini Split Problems & Error Codes](/posts/lg-lan120hsv5-ductless-mini-split-air-conditioner-problems/)
+- [LG Refrigerator C1 Error Code - Causes & Fix](/posts/lg-refrigerator-c1-error-code/)
+- [LG Dryer E4 Error Code - Causes & Fix](/posts/lg-dryer-e4-error-code/)

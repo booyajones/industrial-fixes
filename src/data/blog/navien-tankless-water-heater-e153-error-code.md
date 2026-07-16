@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or Navien-certified technician if you are uncomfortable working with water and electrical connections, if the error persists after replacing the flow sensor and checking all wiring, or if you suspect the main PCB needs replacement. PCB diagnosis often requires specialized test equipment and familiarity with the unit's wiring diagram. A pro can also descale the heat exchanger and flush the entire system if hard water buildup is widespread, which may prevent future sensor problems.
 
 **Rough cost:** DIY runs about $80-150 in parts, 30-60 min. A pro service call runs about $200-400.
+
+## See Also
+
+- [Navien E326 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e326-error-code/)
+- [Navien E032 Error - Causes & Fix](/posts/navien-tankless-e032-error-code/)
+- [Navien E314 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e314-error-code/)
+- [Navien E023 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e023-error-code/)

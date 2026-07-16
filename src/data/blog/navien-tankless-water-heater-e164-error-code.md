@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or gas technician if you are not comfortable working with gas connections, if gas pressure testing is required, or if the error persists after cleaning the flame sensor and verifying venting. Tankless water heaters require specific gas-pressure and combustion-air measurements that need calibrated gauges and training. A technician will test inlet and manifold gas pressure, measure flame signal microamps, inspect the heat exchanger for scale or blockage, and verify all safety interlocks are functioning. Attempting repairs beyond basic sensor cleaning without proper tools and knowledge can lead to unsafe operation or carbon-monoxide hazards.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien Flow Sensor Replacement - Signs & How-To](/posts/navien-water-heater-flow-sensor-flow-meter-tankless-replacement/)
+- [Navien E195 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e195-error-code/)
+- [Navien E305 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e305-error-code/)
+- [Navien Error Code E016 — Causes & Fix](/posts/navien-error-code-e016/)

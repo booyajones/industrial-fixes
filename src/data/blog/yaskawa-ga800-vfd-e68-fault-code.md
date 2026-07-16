@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or Yaskawa-certified technician immediately if you cannot verify the exact fault code, if the drive will not power up, if you see smoke, burning smells, or physical damage to the control board or power components, or if your application is safety-critical. VFD troubleshooting requires an understanding of three-phase power systems, motor control theory, and the ability to safely measure high DC bus voltages (often 300-800 VDC depending on input voltage). Yaskawa troubleshooting documentation emphasizes having the elementary diagram, fault code definition, and application details ready before beginning diagnostics. If E68 is confirmed as a non-standard code and you do not have machine-builder documentation explaining it, only the OEM or a technician familiar with your specific machine will be able to resolve it.
 
 **Rough cost:** A pro service call runs about $150-400 depending on diagnostic time and whether a control board or fan replacement is needed.
+
+## See Also
+
+- [Yaskawa GA800 A.123 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-123-fault-code/)
+- [Yaskawa GA800 A.143 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-143-fault-code/)
+- [Yaskawa A1000 CPF01 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf01-fault-code/)
+- [Yaskawa GA800 E79 - Causes & Fix](/posts/yaskawa-ga800-vfd-e79-fault-code/)

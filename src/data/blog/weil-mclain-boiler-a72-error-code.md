@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed heating contractor if you are not comfortable working with natural gas or propane, if your local code requires a permit for boiler service, or if you have checked gas flow, cleaned the flame sensor, and verified ignition but the A72 fault persists. A technician will measure gas inlet and manifold pressure with a manometer, test flame-current micro-amps with a multimeter, and pull diagnostic data from the control that is not visible on the home display. Because boiler lockouts can also stem from blocked venting, incorrect combustion-air supply, or failed interlocks, a pro can isolate the root cause quickly and avoid the cost of wrong-part replacement. Warranty coverage on Weil-McLain equipment is handled through the original installer and distributor, so contact your installing contractor first if the boiler is still under warranty.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Weil-McLain A167 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a167-error-code/)
+- [Weil-McLain Boiler A43 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a43-error-code/)
+- [Weil-McLain A164 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a164-error-code/)
+- [Weil-McLain A76 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a76-error-code/)

@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working with gas appliances, if the error persists after cleaning the flame rod and clearing vents, or if you suspect low gas pressure or a control board fault. A technician can measure gas inlet pressure, test flame current with a microamp meter, and diagnose wiring or PCB issues safely. Also call a pro if the combustion chamber shows heavy soot buildup, which indicates a fuel-air ratio problem that requires adjustment or burner service.
 
 **Rough cost:** DIY runs about $0-80 in parts, 30-90 min. A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien E246 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e246-error-code/)
+- [Navien Tankless Igniter/Flame Rod Replacement - Signs & How-To](/posts/navien-water-heater-igniter-ignition-electrode-tankless-replacement/)
+- [Navien Flame Rod Replacement - Signs & How-To](/posts/navien-water-heater-flame-rod-flame-sensor-tankless-replacement/)
+- [Navien Tankless Water Heater E313 Error - Causes & Fix](/posts/navien-tankless-water-heater-e313-error-code/)

@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa service center if the fault persists after power cycling, if parameter U4-06 is over 90% and you are not trained to replace the control board or drive, or if you do not have the drive's elementary diagram and metering tools to safely diagnose the relay feedback circuit. The precharge circuit operates at high DC bus voltage and incorrect handling can damage the drive or cause electrical shock. If the fault does not clear after board replacement, internal drive circuitry has likely failed and the drive must be replaced or sent for factory repair.
 
 **Rough cost:** A pro service call runs about $300–900 for control board replacement or drive replacement, depending on model and labor.
+
+## See Also
+
+- [Yaskawa A1000 AL-07 (PGD) Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-07-fault-code/)
+- [Yaskawa A1000 HbbF Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-hbbf-fault-code/)
+- [Yaskawa GA800 E19 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e19-fault-code/)
+- [Yaskawa GA800 E95 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e95-fault-code/)

@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable working inside a 240-volt appliance or testing live circuits with a multimeter. Gas models require safe handling of the gas supply line and igniter circuit. If you have replaced the sensor and inspected all wiring but the code persists, a technician can perform live voltage tests on the relay board and control board to isolate the failed component. A pro visit typically costs $150–300 including diagnosis and a common part like a sensor or relay board.
 
 **Rough cost:** DIY runs about $20-120 in parts, 30-90 min. A pro service call runs about $150-300.
+
+## See Also
+
+- [LG Washer Burning Smell - Causes & Fix](/posts/lg-washer-burning-smell/)
+- [LG Dryer D75 Error Code - Causes & Fix](/posts/lg-dryer-d75-error-code/)
+- [LG Oven F2 Error Code - Causes & Fix](/posts/lg-oven-f2-error-code/)
+- [LG OE Error Code - Causes & Fix](/posts/lg-range-oe-error-code/)
