@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or Navien-certified technician whenever you are uncomfortable working around gas lines, high-voltage wiring, or internal control boards. Tankless water heaters integrate gas valves, flame rods, and microprocessor controls that require specialized diagnostic equipment to test safely. If free checks and connector reseating do not clear the E167 code, a professional can measure voltage and continuity at each sensor, verify board outputs, and replace the control board or harness under proper safety protocols. Attempting board-level repairs without training risks electric shock, gas leaks, and voiding your warranty.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Navien E337 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e337-error-code/)
+- [Navien Tankless Heat Exchanger Replacement - Signs & How-To](/posts/navien-water-heater-heat-exchanger-tankless-condensing-secondary-replacement/)
+- [Navien E021 Error Code - Causes & Fix](/posts/navien-tankless-e021-error-code/)
+- [Navien E109 Error - Causes & Fix](/posts/navien-tankless-water-heater-e109-error-code/)

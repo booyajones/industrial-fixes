@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a professional if you have verified the appliance is an LG range (not a washer) and PE appears on the display, because that code is not documented for ranges and may indicate a control board or wiring fault that requires specialized diagnostics. For washers, call a technician if you have replaced the pressure sensor and hose, confirmed clean wiring, and PE still returns. That scenario points to a faulty main control board, which involves complex disassembly and reprogramming. Also call a pro if you are uncomfortable working around 120 V household wiring or if your machine is still under warranty, since DIY repair can void coverage.
 
 **Rough cost:** DIY runs about $15–50 in parts, 30–60 min. A pro service call runs about $150–250.
+
+## See Also
+
+- [LG MVEL2033F Microwave Problems & Error Codes](/posts/lg-mvel2033f-microwave-problems/)
+- [LG Refrigerator Making Loud Noise - Causes & Fix](/posts/lg-refrigerator-making-loud-noise/)
+- [LG Dryer HS Error Code - Causes & Fix](/posts/lg-dryer-hs-error-code/)
+- [LG Mini-Split CH03 Error - Causes & Fix](/posts/lg-mini-split-ch03-error-code/)

@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified drives technician or Yaskawa authorized service center if you do not have experience working with high-voltage DC bus circuits, if the pre-charge relay maintenance indicator is above 90 percent and you are unsure which board or drive assembly to order, or if the fault persists after relay replacement. VFD troubleshooting requires proper lockout/tagout procedures, capacitor discharge verification, and familiarity with parameter navigation. Because the E74 code is not explicitly documented in standard GA800 materials, professional diagnosis ensures you receive the correct part and avoid unnecessary board replacements. If your facility does not have a qualified electrician or drives specialist on staff, contact Yaskawa technical support with your drive model number, serial number, and alarm history before ordering parts.
 
 **Rough cost:** A pro service call runs about $400-1200 depending on whether relay replacement or full board/drive replacement is required.
+
+## See Also
+
+- [Yaskawa GA800 A.125 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-125-fault-code/)
+- [Yaskawa GA800 E13 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e13-fault-code/)
+- [Yaskawa GA800 F031 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f031-fault-code/)
+- [Yaskawa A1000 AL-11 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-11-fault-code/)

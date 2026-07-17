@@ -51,3 +51,10 @@ LG's published guidance treats SE as a service-level fault rather than a user-re
 ## When to Call a Pro
 
 LG directs customers to professional service when the SE code persists after a power cycle. If you are not comfortable working inside a live 240‑volt appliance, measuring sensor circuits with a multimeter, or interpreting model-specific resistance tables, call a qualified appliance technician. A pro will use the service manual to identify which sensor has failed, test each circuit methodically, and replace only the defective part. Because range sensors are critical to safe temperature regulation, incorrect diagnosis or improper reassembly can create a fire or shock hazard.
+
+## See Also
+
+- [LG Washer Shaking and Loud - Causes & Fix](/posts/lg-washer-shaking-and-loud/)
+- [LG Dishwasher PE Error Code - Causes & Fix](/posts/lg-dishwasher-pe-error-code/)
+- [LG Washer CE Error Code - Causes & Fix](/posts/lg-washer-ce-error-code/)
+- [LG Mini-Split CH34 Error Code — Causes & Fix](/posts/lg-mini-split-ch34-error-code/)

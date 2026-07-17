@@ -81,3 +81,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician if you cannot find the service manual for your model, if you are unfamiliar with gas appliances, or if the fault persists after cleaning the flame sensor and confirming gas supply. Technicians have the tools to measure gas pressure, test flame signal with a microamp meter, and safely diagnose control board or valve failures. Always call a pro if you smell gas, see flame rollout, or hear unusual noises during ignition. Do not bypass safety switches or repeatedly reset the boiler without identifying the root cause.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [Weil-McLain Boiler A69 Error - Causes & Fix](/posts/weil-mclain-boiler-a69-error-code/)
+- [Weil-McLain Boiler A108 Error - Causes & Fix](/posts/weil-mclain-boiler-a108-error-code/)
+- [Weil-McLain A97 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a97-error-code/)
+- [Weil-McLain A42 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a42-error-code/)

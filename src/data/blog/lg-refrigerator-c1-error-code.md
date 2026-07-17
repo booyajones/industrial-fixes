@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable removing door panels, tracing wiring, or handling connectors on live circuit boards. A technician can use a known-good spare board to isolate the failed component quickly without buying multiple parts. Also call if you find broken wires inside the sealed hinge cavity, which may require cabinet disassembly or harness routing that is difficult without service training. If the refrigerator is still under warranty, contact LG or an authorized service center before attempting any repair, since opening panels or replacing boards yourself can void coverage.
 
 **Rough cost:** DIY runs about $0-150 in parts if a harness or connector is needed, 30-90 min. A pro service call runs about $150-350 depending on whether it is a connector fix or board replacement.
+
+## See Also
+
+- [LG Dryer CE1 Error Code - Causes & Fix](/posts/lg-dryer-ce1-error-code/)
+- [LG Mini Split Won't Turn On - Causes & Fix](/posts/lg-mini-split-wont-turn-on/)
+- [LG LMV2031ST Microwave Problems & Error Codes](/posts/lg-lmv2031st-microwave-problems/)
+- [LG Oven F9 Error Code - Causes & Fix](/posts/lg-oven-f9-error-code/)

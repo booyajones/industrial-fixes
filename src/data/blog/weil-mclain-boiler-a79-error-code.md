@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician if you are not familiar with gas appliance work, if you cannot locate the fault code in your boiler manual, or if you see A79 and cannot confirm its meaning from manufacturer documentation. Gas boiler repair requires measuring gas pressure with a manometer, testing ignition voltage with a multimeter, and working safely around live gas lines and high-voltage controls. A technician will verify the code against the correct manual for your control board, measure supply pressure, inspect the ignition system, and replace the gas valve or electrode only after confirming the diagnosis. If the code turns out to be a mis-read or a control board issue, a pro can identify the real fault and avoid unnecessary part replacement.
 
 **Rough cost:** A pro service call runs about $180-350.
+
+## See Also
+
+- [Weil-McLain A175 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a175-error-code/)
+- [Weil-McLain A125 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a125-error-code/)
+- [Weil-McLain A07 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a07-error-code/)
+- [Weil-McLain A66 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a66-error-code/)

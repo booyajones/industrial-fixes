@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed technician if you are uncomfortable working around gas appliances, if cleaning the flame rod and checking grounds does not resolve the error, or if you suspect low gas pressure or a faulty control board. Professionals have calibrated manometers to measure gas pressure, multimeters to test flame current, and the training to safely diagnose ignition and combustion issues. Any work involving gas line connections or internal burner components should be performed by someone with the proper certifications and insurance.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien E330 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e330-error-code/)
+- [Navien Error Code E024 — Overheat / High Temperature Cutoff](/posts/navien-error-code-e024/)
+- [Navien E250 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e250-error-code/)
+- [Navien Water Heater Not Enough Hot Water - Causes & Fix](/posts/navien-water-heater-not-enough-hot-water/)

@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or Navien-certified technician if you are uncomfortable working with gas appliances, if the error persists after cleaning the flow sensor and checking all wiring, or if you lack the tools to safely disassemble and reassemble water connections. Professionals can also test the sensor with a multimeter to confirm electrical continuity and resistance values, and can inspect the control board for related faults. If your water supply has high mineral content and scale buildup recurs frequently, a pro can recommend and install a whole-house water softener or inline descaler to protect the tankless heater long term.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien Tankless Water Heater E215 Error - Causes & Fix](/posts/navien-tankless-water-heater-e215-error-code/)
+- [Navien Water Heater Popping Noise - Causes & Fix](/posts/navien-water-heater-making-popping-noise/)
+- [Navien Tankless Water Heater E171 Error - Causes & Fix](/posts/navien-tankless-water-heater-e171-error-code/)
+- [Navien E251 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e251-error-code/)

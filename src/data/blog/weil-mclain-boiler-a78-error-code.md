@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a licensed heating professional immediately if your boiler is locked out and not providing heat, if you see multiple fault codes or blinking lights, or if you cannot locate A78 in your model's service manual. Boiler diagnostics involve live gas piping, high-voltage ignition circuits, and pressure-vessel safety interlocks that require proper training and licensing. A qualified technician will retrieve the full fault history from the control, verify gas pressure and flame-sensor readings, and follow the manufacturer's troubleshooting flowchart for your specific model. Do not bypass safety lockouts or replace parts without confirming the exact fault code, as Weil-McLain warranty claims require documentation of the failed part and the code that triggered the failure.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Weil-McLain A157 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a157-error-code/)
+- [Weil-McLain A161 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a161-error-code/)
+- [Weil-McLain A86 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a86-error-code/)
+- [Weil-McLain Boiler A23 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a23-error-code/)

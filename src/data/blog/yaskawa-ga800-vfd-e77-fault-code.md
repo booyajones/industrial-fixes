@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or automation technician if the fault code cannot be verified in the GA800 manual, if the drive does not clear the fault after re-energization, or if you lack the training to safely work inside high-voltage VFD enclosures. The GA800 maintenance guide limits field service to fan and control board replacement. Any work on the power stage, DC bus, soft-charge circuit, or internal contactors requires familiarity with high-voltage DC hazards and lockout/tagout procedures. For unresolved faults or codes that do not match the official list, escalate directly to Yaskawa support with your drive's model/spec number, serial number, and fault history rather than replacing parts by trial and error.
 
 **Rough cost:** A pro service call runs about $300–900 depending on whether the fix is a control board, relay, or full drive replacement.
+
+## See Also
+
+- [Yaskawa A1000 VFD AL-29 - Causes & Fix](/posts/yaskawa-a1000-vfd-al-29-fault-code/)
+- [Yaskawa A1000 Hbb Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-hbb-fault-code/)
+- [Yaskawa A1000 CPF03 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf03-fault-code/)
+- [Yaskawa GA800 E03 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e03-fault-code/)

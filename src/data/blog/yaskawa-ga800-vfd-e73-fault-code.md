@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 E73 is an internal drive fault that requires high-voltage work and familiarity with VFD architecture. A qualified electrician or drive technician should diagnose the fault, read the relay-life parameter, and replace the control board or the entire drive. Do not attempt to open the drive enclosure unless you are trained in high-voltage DC bus safety. Capacitors inside the drive can hold lethal voltage for several minutes after power is removed. If your facility does not have in-house drive techs, contact a Yaskawa authorized service center or an industrial controls integrator to perform the repair.
 
 **Rough cost:** A pro service call runs about $300–1,200 for control board replacement or full drive swap, depending on frame size.
+
+## See Also
+
+- [Yaskawa GA800 E91 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e91-fault-code/)
+- [Yaskawa GA800 A.148 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-148-fault-code/)
+- [Yaskawa A1000 AL-14 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-14-fault-code/)
+- [Yaskawa A1000 oL4 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol4-fault-code/)

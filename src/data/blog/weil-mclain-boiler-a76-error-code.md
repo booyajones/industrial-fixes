@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician immediately if you cannot find A76 in your boiler's service manual, if the boiler is in hard lockout and will not reset, or if you are not trained to work safely with natural gas or propane appliances. Boiler diagnostics require pressure gauges, combustion analyzers, and knowledge of gas-train sequencing. Technicians have access to factory support and can retrieve detailed fault histories from the control that are not visible on the main display. Any work on the gas valve, burner assembly, ignition system, or venting must be performed by a qualified professional to comply with local codes and maintain warranty coverage.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A168 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a168-error-code/)
+- [Weil-McLain Boiler A48 Error - Causes & Fix](/posts/weil-mclain-boiler-a48-error-code/)
+- [Weil-McLain A93 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a93-error-code/)
+- [Weil-McLain Boiler A122 Error - Causes & Fix](/posts/weil-mclain-boiler-a122-error-code/)

@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a professional if the E168 error persists after a power reset or if you find any burned wiring or damaged components. Control board diagnosis requires specialized testing equipment and knowledge of the unit's internal communication protocols. Technicians can also check incoming voltage, test individual board components, and correctly match replacement parts to your specific Navien model. Gas appliance work and electrical troubleshooting at this level carry safety risks and are best handled by trained service personnel. If your unit is under warranty, professional service may be required to preserve coverage.
 
 **Rough cost:** A pro service call runs about $300-600.
+
+## See Also
+
+- [Navien E046 Error Code - Causes & Fix](/posts/navien-tankless-e046-error-code/)
+- [Navien NPE-180S2 Problems & Error Codes](/posts/navien-npe-180s2-water-heater-problems/)
+- [Navien E594 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e594-error-code/)
+- [Navien E140 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e140-error-code/)

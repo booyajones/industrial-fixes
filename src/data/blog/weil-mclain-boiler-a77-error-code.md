@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if A77 does not appear in your Weil-McLain manual, if the fault persists after clearing the condensate system, or if you cannot safely access the stored fault history. Gas-fired boiler work requires proper combustion testing, venting checks, and pressure diagnostics that are beyond DIY scope. A technician will retrieve the full fault log, test sensor circuits with the correct meters, and replace model-specific components (recuperator, heat exchanger, or control board) if needed. Never bypass safeties or keep resetting a persistent fault. Repeated lockouts can indicate a serious venting, ignition, or pressure problem that will damage the boiler or create a safety hazard if ignored.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain Boiler A64 Error - Causes & Fix](/posts/weil-mclain-boiler-a64-error-code/)
+- [Weil-McLain Boiler A23 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a23-error-code/)
+- [Weil-McLain Ultra Series Boiler Error Codes: Complete Guide](/posts/weil-mclain-ultra-series-codes/)
+- [Weil-McLain Boiler A33 Error - Causes & Fix](/posts/weil-mclain-boiler-a33-error-code/)

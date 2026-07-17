@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a licensed electrician or Yaskawa-trained service technician for any E75 fault. This is a power-conversion hardware fault inside the drive, not a motor or wiring issue you can fix with a multimeter. The repair requires working on energized high-voltage DC bus circuits, interpreting internal relay feedback signals, and replacing surface-mount control boards or the entire drive. Yaskawa recommends contacting technical support with your model number, serial number, and fault code before attempting board-level repair. If your drive is under warranty or a service contract, do not open the enclosure or you may void coverage.
 
 **Rough cost:** A pro service call runs about $300-1200 for control board or drive replacement, 1-3 hours labor.
+
+## See Also
+
+- [Yaskawa GA800 A.141 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-141-fault-code/)
+- [Yaskawa GA800 E46 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e46-fault-code/)
+- [Yaskawa A1000 oL1 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol1-fault-code/)
+- [Yaskawa GA800 E49 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e49-fault-code/)

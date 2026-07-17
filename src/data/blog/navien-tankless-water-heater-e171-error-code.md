@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or Navien-certified technician if you have cleaned the filter, verified all wiring connections, and replaced the flow sensor but the E171 error persists. Control board diagnostics require specialized tools and knowledge of the unit's CAN-bus communication protocol. Also contact a professional if you are uncomfortable working with gas connections, electrical wiring, or water shut-off valves, or if the unit is under warranty and you want to preserve coverage.
 
 **Rough cost:** DIY runs about $50-150 in parts, 1-2 hours. A pro service call runs about $180-350.
+
+## See Also
+
+- [Navien E135 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e135-error-code/)
+- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
+- [Navien Tankless Igniter/Flame Rod Replacement - Signs & How-To](/posts/navien-water-heater-igniter-ignition-electrode-tankless-replacement/)
+- [Navien E235 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e235-error-code/)

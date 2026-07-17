@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or automation specialist if you are not trained to work on industrial drives, if the fault persists after cable and wiring checks, or if you need to troubleshoot option cards or internal control boards. Do not attempt to perform withstand-voltage or megger insulation tests on the drive, as these can damage the electronics. If the drive continues to fault after you have corrected all visible wiring issues, Yaskawa technical support or an authorized service center can diagnose board-level failures and provide replacement parts that are not field-serviceable.
 
 **Rough cost:** A pro service call runs about $150–400 for a service call and cable replacement, depending on accessibility and cable length.
+
+## See Also
+
+- [Yaskawa GA800 F025 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f025-fault-code/)
+- [Yaskawa GA800 A.121 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-121-fault-code/)
+- [Yaskawa A1000 CPF35 (AL-35) - Causes & Fix](/posts/yaskawa-a1000-vfd-al-35-fault-code/)
+- [Yaskawa A1000 AL-22 - Causes & Fix](/posts/yaskawa-a1000-vfd-al-22-fault-code/)
