@@ -1,6 +1,6 @@
 ---
-title: "BOGE Air Compressor Error Codes - Complete Guide"
-description: "BOGE rotary screw compressor error codes for BOGE Control and Select modules: faults, causes, and repair steps."
+title: "BOGE Compressor Fault Codes: FOCUS Controller List & Fixes"
+description: "Numeric BOGE FOCUS controller fault codes 1-38 explained: final compression temp, oil separator DP, transmitter faults, plus likely causes and repair steps."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
 author: "Dana Kowalski"
@@ -60,3 +60,59 @@ BOGE compressors require factory-specific oil types and torque specs on separato
 - [Chicago Pneumatic Compressor Fault Codes — Complete Guide](/posts/chicago-pneumatic-compressor-faults/)
 - [CompAir Air Compressor Fault Codes - Complete Guide](/posts/compair-compressor-fault-codes/)
 - [Copeland Compressor Error Code 1 — High Pressure Cutout Fix](/posts/copeland-compressor-error-code-1/)
+
+## More Boge Compressor fault codes
+
+Compiled from manufacturer service manuals and authorized documentation.
+
+| Code | What it means | Likely cause | How to fix |
+| --- | --- | --- | --- |
+| 2 | Motor temperature too high | Motor overload, poor cooling airflow around the motor, high ambient temperature, or a failing PTC/thermistor circuit in the motor windings. | Let the motor cool, check running amps against nameplate, clean motor cooling passages, and verify the PTC sensor and wiring. Investigate load and phase balance before restarting. |
+| 5 | Compressor system pressure too high | Internal (sump/separator) pressure exceeded the limit, often from a stuck minimum-pressure/check valve, a plugged separator, or an inlet-valve control fault. | Check the minimum pressure valve, separator differential, and inlet valve operation. Verify the internal pressure transmitter reads correctly. |
+| 6 | Suction filter differential pressure too high | Clogged intake/suction air filter element reducing airflow into the airend. | Replace the suction air filter element and reset. In dusty environments shorten the replacement interval. |
+| 7 | Oil filter differential pressure too high | Restricted oil filter, cold thick oil at startup, or degraded oil loading the filter. | Replace the oil filter element and change oil if past its interval. If it recurs only on cold starts, confirm correct oil grade for the ambient. |
+| 8 | Oil separator differential pressure too high | Plugged oil separator element, common near end of service life or accelerated by degraded oil or dusty intake air. | Replace the oil separator element and reset the service counter. Change oil and oil filter at the same time. |
+| 13 | Frequency converter signals fault (no release) | The VFD (on variable-speed models) has faulted or is not sending its ready/release signal to the FOCUS controller. | Read the fault on the drive display, clear it, and check the release wiring between the drive and controller. Address the underlying drive fault before restart. |
+| 16 | Net pressure transmitter faulty | The system/network pressure transmitter is out of range or reading implausibly, often a failed sensor or wiring/connector issue. | Check the transmitter wiring and connector, compare its reading to a known gauge, and replace the transmitter if it is out of tolerance. |
+| 22 | Inner hood temperature too high | Elevated temperature inside the enclosure from restricted ventilation, dirty coolers, a failing hood/ventilation fan, or high ambient temperature. | Clean coolers and enclosure air paths, verify the ventilation fan runs, and improve room ventilation. Let the unit cool before restart. |
+| 23 | Cylinder head temperature too high | On piston/reciprocating models, overheating of the cylinder head from poor cooling, low oil, or overload. | Check cooling airflow to the head, verify oil level, and allow the unit to cool. Investigate load and valve condition if it recurs. |
+| 24 | Oil level too low | Low oil charge from consumption, a leak, or high carry-over, detected by the oil level sensor. | Top up with the correct BOGE-specified oil, inspect for leaks, and check for excessive oil carry-over (separator condition) if the loss is repeated. |
+| 32 | Net pressure transmitter wire breakage | Open circuit in the network pressure transmitter signal wiring, a loose connector, or a failed sensor. | Inspect and reseat the transmitter connector, check for broken or chafed signal wires, and replace the transmitter if the wiring is intact. |
+| 38 | Excessive current compressor motor | Motor drawing over-current from mechanical binding in the airend, over-pressure operation, low voltage, or phase imbalance. | Measure running amps and supply voltage on all three phases, check for airend drag or over-pressure, and confirm the overload setting matches the nameplate. |
+
+
+## How to troubleshoot Boge Compressor
+
+Start every BOGE fault the same way: read the exact code or message on the FOCUS (or Base/RATIO) controller, note whether it is a warning or a shutdown, and let the machine cool and fully depressurize before opening any panel. Most BOGE shutdowns fall into three families, and the family tells you where to look first.
+
+Temperature faults (final compression temperature, motor temperature, inner hood temperature) are the most common and almost always trace to heat rejection, not the sensor. Check oil level and oil condition first, then clean the oil cooler and aftercooler fins from the inside out, then confirm the cooling and enclosure fans actually spin at full speed. A weak or failed single-phase fan capacitor is an easy-to-miss cause that produces repeat overheating shutdowns.
+
+Differential-pressure faults (suction filter, oil filter, oil separator) are maintenance items. They mean a consumable is plugged, so replace the named element rather than resetting and running on. The oil separator, oil filter, and oil should generally be changed together, and the separator plugs early in dusty air or when the oil is degraded.
+
+Electrical and sensor faults (wrong rotational direction, excessive motor current, transmitter faulty or wire breakage, frequency converter fault) call for a meter. Verify supply voltage and phase balance on all three phases, check overload settings against the motor nameplate, and inspect transmitter connectors and wiring before condemning a sensor. Wrong rotation after any electrical work is fixed by swapping two supply phases.
+
+Call a BOGE-authorized service provider when temperature shutdowns persist after cleaning and an oil/filter service, when the airend shows drag or unusual noise, when a VFD throws its own fault, or any time separator-housing reassembly and factory oil and torque specs are involved. Do not defeat a shutdown to keep a unit in production, since final-compression-temperature and over-current trips protect the airend and motor from expensive damage.
+
+
+## Frequently asked questions
+
+### What does BOGE FOCUS error code 1 mean?
+
+Code 1 is final compression temperature too high (above roughly 110°C). It is a protective shutdown. The usual causes are a dirty oil cooler, low or degraded oil, a weak cooling fan, or high ambient temperature. Check oil and clean the cooler before restarting, and never bypass this trip since it protects the airend.
+
+### My BOGE keeps flagging oil separator differential pressure. What do I do?
+
+That fault (code 8 on FOCUS) means the oil separator element is plugged. Resetting without changing it just wastes energy, since a restricted separator raises power draw well before it trips. Replace the separator element and change the oil and oil filter at the same time, then reset the service counter.
+
+### The compressor tripped on wrong rotational direction after electrical work. How is it fixed?
+
+Code 4, wrong rotational direction, means the three-phase supply is wired out of phase, usually right after an install or panel change. Swap any two of the three incoming supply phases, reverify rotation, and confirm before running. Running a screw airend backwards can damage it, so do not defeat the check.
+
+### What is the difference between a warning and a shutdown on a BOGE controller?
+
+Service-due and some differential-pressure messages are warnings that let the unit keep running so you can plan maintenance, while temperature, over-current, rotation, and low-oil faults are shutdowns that stop the machine to prevent damage. Address warnings promptly, because an ignored warning like a plugging filter often becomes a temperature shutdown.
+
+### Do BOGE compressors need a specific oil for repairs?
+
+Yes. BOGE specifies particular oil types, and separator housing reassembly has factory torque specs. Using the wrong oil accelerates separator plugging, oil-filter DP faults, and carry-over. For anything beyond routine top-up and element changes, use BOGE-specified oil or contact an authorized service provider.
+
