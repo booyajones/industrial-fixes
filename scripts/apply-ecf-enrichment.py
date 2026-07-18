@@ -10,15 +10,17 @@ is written; nothing is invented here (this script renders, it does not author).
 import json, re, os, sys
 
 BLOG = r"C:\Users\chris\industrial-fixes\src\data\blog"
-ENR = json.load(open("/tmp/ecf_enrich_clean.json", encoding="utf-8"))
+INPUT = next((a for a in sys.argv[1:] if a.endswith(".json")), "/tmp/ecf_enrich_clean.json")
+ENR = json.load(open(INPUT, encoding="utf-8"))
 
 CLUSTERS = {
+ "abb":["abb-vfd-fault-codes","abb-880-fault-codes","abb-acs580-fault-codes","abb-acs880-complete-guide","abb-ach580-fault-codes","abb-acs550-complete-guide","abb-acs150-fault-codes","abb-acs-drives-plc-fault"],
  "compressors":["sullivan-palatek-compressor-faults","kaeser-compressor-error-codes","elgi-compressor-fault-codes","copeland-scroll-compressor-fault-codes","sullair-compressor-fault-codes","compair-compressor-fault-codes","boge-compressor-error-codes","bitzer-compressor-fault-codes","air-compressor-fault-codes","ingersoll-rand-r-series-faults"],
  "vfd_drives":["sew-eurodrive-vfd-fault-codes","sew-eurodrive-fault-f07","delta-vfd-fault-codes","siemens-sinumerik-alarm-25000-drive-fault","abb-acs880-complete-guide"],
  "cnc":["hurco-cnc-fault-codes","makino-cnc-fault-codes","doosan-cnc-fault-codes-complete","fanuc-alarm-300","fanuc-0i-md-alarm-codes"],
  "chillers_hvac":["carrier-vrf-error-codes","carrier-aquasnap-fault-codes","florida-heat-pump-error-codes","daikin-f9-error-code","daikin-vrv-vrf-u4-error-code","daikin-e1-error-code","york-chiller-fault-codes"],
  "generators":["cummins-onan-fault-codes","generac-generator-error-codes"],
- "commercial_kitchen":["hobart-dishwasher-error-codes","frymaster-fryer-error-codes","manitowoc-indigo-nxt-complete-guide","rational-combi-oven-error-codes","icombi-classic-e01-error"],
+ "commercial_kitchen":["hobart-dishwasher-error-codes","frymaster-fryer-error-codes","manitowoc-indigo-nxt-complete-guide","rational-combi-oven-error-codes","icombi-classic-e01-error","meiko-dishwasher-fault-codes"],
  "ups_power":["apc-ups-error-codes"],
  "boilers_wh":["laars-boiler-fault-codes","burnham-alpine-error-codes","weil-mclain-e04-error-code"],
  "misc":["miller-welder-fault-code-h1","emerson-e2-controller-error-codes","dixell-xr60c-p1-error-code"],
