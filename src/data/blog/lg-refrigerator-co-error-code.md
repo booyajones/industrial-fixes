@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a professional if the CO code returns after a proper 5-minute power reset and you cannot locate or safely access the wire harnesses and control boards. A technician has the signal-tracing tools and board-level test equipment to isolate whether the main board, display board, or harness is at fault without guessing. Professional diagnosis is also the right choice if you are uncomfortable working around live PCBs or if your refrigerator is still under warranty, since DIY board replacement may void coverage. LG recommends technician inspection when the code is repeatable.
 
 **Rough cost:** DIY runs about $150–350 in parts (main board or display PCB), 30–60 min. A pro service call runs about $200–450 including diagnosis and board replacement.
+
+## See Also
+
+- [LG Refrigerator Fresh Food Warm but Freezer Cold - Causes & Fix](/posts/lg-refrigerator-fresh-food-warm-but-freezer-cold/)
+- [LG Washer Not Draining Completely - Causes & Fix](/posts/lg-washer-not-draining-completely/)
+- [LG Microwave F13 Error Code - Causes & Fix](/posts/lg-microwave-f13-error-code/)
+- [LG Washer Overflowing - Causes & Fix](/posts/lg-washer-overflowing/)

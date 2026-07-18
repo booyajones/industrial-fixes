@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or HVAC technician if you have cleared the trap and drain line but the error persists, if you lack confidence working with the internal plumbing connections, or if you suspect a wiring fault inside the control cabinet. Professionals can test switch continuity with a multimeter, trace drain line routing through walls or floors, and replace internal components under warranty. Also seek help if the heater shows signs of water leakage around the base or if other error codes appear alongside E178.
 
 **Rough cost:** DIY runs about $0-40 in parts if a trap or tubing needs replacement, 20-45 min. A pro service call runs about $120-220 for a service call and drain clearing.
+
+## See Also
+
+- [Navien E039 Error Code - Causes & Fix](/posts/navien-tankless-e039-error-code/)
+- [Navien E187 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e187-error-code/)
+- [Navien Tankless Water Heater E184 Error - Causes & Fix](/posts/navien-tankless-water-heater-e184-error-code/)
+- [Navien E135 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e135-error-code/)

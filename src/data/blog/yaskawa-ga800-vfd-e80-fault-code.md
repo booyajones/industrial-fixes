@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or automation technician for E80 faults. The diagnostic steps require safe access to the drive's DC bus, control terminals, and internal relay circuits under live conditions. Mishandling the precharge circuit or the DC bus capacitors can cause severe electric shock or damage to the drive. A technician will also have the correct metering equipment to verify answerback signals, check relay coil resistance, and safely measure DC bus voltage during the precharge sequence. If U4-06 is above 90%, Yaskawa's guidance points to board or drive replacement, and a pro can order the correct part by serial number and install it with the proper firmware checks.
 
 **Rough cost:** A pro service call runs about $300-1200 depending on whether the relay, control board, or complete drive needs replacement.
+
+## See Also
+
+- [Yaskawa GA800 Er-04 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f049-fault-code/)
+- [Yaskawa GA800 E85 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e85-fault-code/)
+- [Yaskawa GA800 CPF24 - Causes & Fix](/posts/yaskawa-ga800-vfd-f024-fault-code/)
+- [Yaskawa GA800 E62 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e62-fault-code/)

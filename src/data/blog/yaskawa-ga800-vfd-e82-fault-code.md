@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa-certified service provider immediately if you cannot locate the fault code in your manual or if the drive does not clear after basic wiring checks. VFD troubleshooting requires knowledge of high-voltage DC bus circuits, parameter programming, and safe isolation procedures. Incorrect diagnosis or parts replacement can damage the drive, the motor, or connected equipment. A professional can use Yaskawa's DriveWizard software to retrieve detailed fault logs, verify parameter integrity, and contact factory support for unlisted codes. They will also inspect the drive's internal components, measure DC bus voltage, and test the control board with proper test equipment before recommending parts replacement.
 
 **Rough cost:** A pro service call runs about $200–500 depending on required parts and service call.
+
+## See Also
+
+- [Yaskawa VFD Fault Codes — Complete Reference (V1000, A1000, GA700)](/posts/yaskawa-vfd-fault-codes/)
+- [Yaskawa A1000 VFD AL-29 - Causes & Fix](/posts/yaskawa-a1000-vfd-al-29-fault-code/)
+- [Yaskawa GA800 E84 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e84-fault-code/)
+- [Yaskawa GA800 E39 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e39-fault-code/)

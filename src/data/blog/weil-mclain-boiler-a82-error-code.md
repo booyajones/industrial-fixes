@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed heating professional immediately if you smell gas, if the boiler repeatedly locks out after one reset, if you are not comfortable working with gas piping or high-voltage ignition components, or if the fault history shows multiple different codes that suggest a control or wiring problem. Gas appliance diagnostics require proper test equipment, including a manometer for gas pressure, a multimeter for electrical checks, and a combustion analyzer to verify safe operation. A technician will also access the contractor-level diagnostics on the control, interpret model-specific fault definitions that are not published in the homeowner manual, and confirm that all safety interlocks and limit switches are functioning correctly before returning the boiler to service.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Weil-McLain Boiler A163 Error - Causes & Fix](/posts/weil-mclain-boiler-a163-error-code/)
+- [Weil-McLain A36 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a36-error-code/)
+- [Weil-McLain Boiler A08 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a08-error-code/)
+- [Weil-McLain E02 Error Code — Causes & Fix](/posts/weil-mclain-e02-error-code/)

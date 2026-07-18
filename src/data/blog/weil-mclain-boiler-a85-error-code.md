@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a pro immediately if you smell gas, if the boiler is in hard lockout and will not reset, or if the control's fault history points to gas-valve, ignition, or heat-exchanger issues. Weil-McLain boilers require model-specific diagnostics because controls vary by platform, and safe gas-appliance troubleshooting requires proper tools to measure gas pressure, verify ignition timing, and clear air from the heat exchanger. A qualified technician will retrieve the stored fault code, test gas supply pressure, inspect the heat exchanger and venting, and replace only the component that has actually failed.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Weil-McLain A153 - Causes & Fix](/posts/weil-mclain-boiler-a153-error-code/)
+- [Weil-McLain Boiler A178 Error - Causes & Fix](/posts/weil-mclain-boiler-a178-error-code/)
+- [Weil-McLain A16 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a16-error-code/)
+- [Weil-McLain A11 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a11-error-code/)

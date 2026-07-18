@@ -66,3 +66,10 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 If you replace a known-good start relay and overload assembly and the compressor still won't start, the compressor itself may have internal damage or the sealed refrigerant system may have a fault. Compressor replacement or sealed-system work requires refrigerant recovery, vacuum equipment, and an EPA Section 608 license, so call a refrigeration technician. Also call a pro if you're not comfortable working with live electrical terminals or if your model has a hard-to-reach compressor compartment that requires disassembly beyond a simple rear panel.
+
+## See Also
+
+- [LG Dishwasher AE Error Code - Causes & Fix](/posts/lg-washer-ae-error-code/)
+- [LG Oven Won't Turn On - Causes & Fix](/posts/lg-oven-wont-turn-on/)
+- [LG Refrigerator CF Error Code - Causes & Fix](/posts/lg-refrigerator-cf-error-code/)
+- [LG Dryer Gets Too Hot - Causes & Fix](/posts/lg-dryer-gets-too-hot/)

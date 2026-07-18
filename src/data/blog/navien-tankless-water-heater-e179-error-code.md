@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or Navien-certified technician if you are not comfortable working with gas appliances, if you lack a multimeter and the service manual, or if your tests do not isolate a single failed sensor. Tankless water heaters integrate gas control, high-voltage ignition, and water flow in a single unit, and misdiagnosis can lead to expensive part replacements or unsafe operation. A technician can run factory diagnostic routines, verify gas pressure and combustion, and order the correct part under warranty if your unit is still covered.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Navien Tankless Water Heater E171 Error - Causes & Fix](/posts/navien-tankless-water-heater-e171-error-code/)
+- [Navien Tankless Water Heater E233 Error - Causes & Fix](/posts/navien-tankless-water-heater-e233-error-code/)
+- [Navien E143 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e143-error-code/)
+- [Navien Tankless Water Heater E248 Error - Causes & Fix](/posts/navien-tankless-water-heater-e248-error-code/)

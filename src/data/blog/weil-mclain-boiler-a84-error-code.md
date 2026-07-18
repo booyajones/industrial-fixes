@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified heating technician immediately if you cannot locate A84 in your boiler's manual, if you are unfamiliar with gas appliance diagnostics, or if you do not own a manometer to measure gas supply pressure. Gas boiler work requires specialized training to handle combustion air, gas piping, pressure testing, and electrode adjustment safely. A technician will retrieve the fault from the control's history, verify the exact code meaning for your model, test gas pressure and valve operation, inspect and clean or replace electrodes, and confirm proper combustion and venting. Weil-McLain's documentation specifies that all diagnostics and service must be performed by a licensed installer or service agency.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Weil-McLain Boiler A05 Error - Causes & Fix](/posts/weil-mclain-boiler-a05-error-code/)
+- [Weil-McLain A135 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a135-error-code/)
+- [Weil-McLain A88 Error - Causes & Fix](/posts/weil-mclain-boiler-a88-error-code/)
+- [Weil-McLain A110 Error - Causes & Fix](/posts/weil-mclain-boiler-a110-error-code/)

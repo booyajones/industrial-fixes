@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed technician if you are uncomfortable working inside the heater cabinet, if the error persists after replacing the air pressure sensor, or if you suspect a control board fault. Control board replacement requires disconnecting multiple wiring harnesses and ensuring correct gas and venting configuration. A technician can also perform combustion analysis to rule out venting problems that might stress the sensor.
 
 **Rough cost:** DIY runs about $80-150 in parts, 30-60 min. A pro service call runs about $180-350.
+
+## See Also
+
+- [Navien E140 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e140-error-code/)
+- [Navien NPE/NCB Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003/)
+- [Navien E235 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e235-error-code/)
+- [Navien Tankless Water Heater Error Codes — Complete Guide](/posts/navien-error-codes/)

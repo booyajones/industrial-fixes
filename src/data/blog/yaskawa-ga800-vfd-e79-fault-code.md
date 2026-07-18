@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or automation technician if you are not familiar with VFD wiring, safety circuit design, or machine safety standards. The STO function is a safety-critical circuit, and incorrect wiring can create a hazard or violate safety regulations. If the drive was integrated into a machine safety system and you cannot identify which upstream device is causing the fault, a technician with access to the machine wiring diagrams and safety relay documentation is required. If the STO jumper is correctly installed or the safety relay outputs are verified closed and the fault still persists, the drive's internal STO input circuit may be damaged and will need manufacturer service or replacement.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Yaskawa GA800 CPF24 - Causes & Fix](/posts/yaskawa-ga800-vfd-f024-fault-code/)
+- [Yaskawa GA800 E04 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e04-fault-code/)
+- [Yaskawa GA800 E12 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e12-fault-code/)
+- [Yaskawa GA800 A.121 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-121-fault-code/)

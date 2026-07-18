@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa authorized service center if the fault code cannot be identified in your manual, if the fault persists after you have verified all external wiring and parameter settings, or if internal drive diagnostics are required. High-voltage work inside the drive enclosure and internal component replacement require proper lockout/tagout procedures, discharge of capacitors, and knowledge of drive electronics. Always provide the technician with your drive model and serial number, the exact fault code, fault history, and details of your motor and application so diagnosis can proceed efficiently.
 
 **Rough cost:** A pro service call runs about $200-500 depending on diagnosis time and component replacement.
+
+## See Also
+
+- [Yaskawa GA800 VFD F008 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f008-fault-code/)
+- [Yaskawa GA800 E10 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e10-fault-code/)
+- [Yaskawa GA800 VFD A.113 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-113-fault-code/)
+- [Yaskawa U1000 Fault Codes: Complete Guide](/posts/yaskawa-u1000-fault-codes/)

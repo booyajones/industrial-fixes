@@ -81,3 +81,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician if you are not comfortable working with gas appliances, if cleaning the flame rod and checking the gas shutoff does not clear the A83, or if you see a cracked ignitor or suspect a failed gas valve. Gas work and combustion diagnostics require proper tools (manometer, multimeter, and combustion analyzer) and training to make sure safe operation. A technician will measure gas pressure, test flame-sense current, verify venting and combustion air, and replace any failed components according to the manufacturer's procedures. Repeated resets without finding the root cause can damage the control or create a safety hazard.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Weil-McLain Boiler A26 Error - Causes & Fix](/posts/weil-mclain-boiler-a26-error-code/)
+- [Weil-McLain Boiler A149 Error - Causes & Fix](/posts/weil-mclain-boiler-a149-error-code/)
+- [Weil-McLain Boiler A124 Error - Causes & Fix](/posts/weil-mclain-boiler-a124-error-code/)
+- [Weil-McLain Boiler A147 Error - Causes & Fix](/posts/weil-mclain-boiler-a147-error-code/)

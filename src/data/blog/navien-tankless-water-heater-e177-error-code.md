@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed technician if you are uncomfortable working with gas appliances, if the error persists after reseating connectors and testing sensors, or if you lack a multimeter and service manual to perform resistance checks. Professional diagnostics can isolate the exact failing component and prevent unnecessary part replacement. Technicians also have access to proprietary service codes and software updates that may resolve intermittent faults.
 
 **Rough cost:** DIY runs about $30-120 in parts, 45-90 min. A pro service call runs about $180-350.
+
+## See Also
+
+- [Navien E305 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e305-error-code/)
+- [Navien NCB Combi Boiler Error Codes — Complete Fault Guide](/posts/navien-ncb-error-codes/)
+- [Navien E005 Error Code - Causes & Fix](/posts/navien-tankless-e005-error-code/)
+- [Navien E323 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e323-error-code/)

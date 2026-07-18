@@ -68,3 +68,10 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 Compressor replacement is sealed-system work that requires EPA 608 certification to legally recover and handle refrigerants, plus specialized tools for brazing, leak testing, evacuation, and charging. LG compressor replacements on many models also require a software update kit that must be installed and programmed into the control board after the mechanical swap. If you are not certified and equipped for refrigerant work, or if the repair cost approaches the price of a new refrigerator, call a licensed appliance technician or consider replacement of the unit.
+
+## See Also
+
+- [LG Mini Split CH41 Error Code - Causes & Fix](/posts/lg-mini-split-ch41-error-code/)
+- [LG Microwave F-5 Error Code - Causes & Fix](/posts/lg-microwave-f-5-error-code/)
+- [LG Mini-Split CH67 Error Code — Causes & Fix](/posts/lg-mini-split-ch67-error-code/)
+- [LG Mini Split Leaking Water - Causes & Fix](/posts/lg-mini-split-leaking-water/)

@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician immediately if you are not trained to work with gas appliances. Gas ignition faults require systematic diagnosis of gas pressure, electrical circuits, and flame-proving logic. A technician will use a combustion analyzer, multimeter, and manometer to pinpoint whether the fault is in the gas supply, ignitor, valve, sensor, or control board. Repeated resets without proper diagnosis can lead to dangerous conditions, including gas accumulation or carbon monoxide production. If you have replaced the ignitor and confirmed gas flow but the A81 code persists, the problem is likely in the gas valve actuation circuit or the control board, both of which require professional testing and calibration. Weil-McLain service manuals are written for qualified technicians and contain model-specific wiring diagrams, voltage tables, and timing sequences that are necessary for accurate repair.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Weil-McLain A11 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a11-error-code/)
+- [Weil-McLain Boiler A10 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a10-error-code/)
+- [Weil-McLain A126 Error - Causes & Fix](/posts/weil-mclain-boiler-a126-error-code/)
+- [Weil-McLain Boiler A107 Error - Causes & Fix](/posts/weil-mclain-boiler-a107-error-code/)

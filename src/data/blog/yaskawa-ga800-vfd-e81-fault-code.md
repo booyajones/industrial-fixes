@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or Yaskawa-certified technician if you cannot find E81 in your printed manual, if the fault persists after wiring checks and power-quality verification, or if you lack the test equipment to safely measure high-voltage DC bus and gate-driver signals. Yaskawa technical support requires the drive model number, specification code, serial number, and exact fault code to provide a diagnosis. Do not replace the control board or power module without confirming the fault definition, because input power issues, encoder wiring errors, and parameter mismatches often mimic internal hardware failures and will damage a new board if the root cause is not corrected first.
 
 **Rough cost:** A pro service call runs about $150–500 depending on whether the issue is wiring, a control board, or a power module.
+
+## See Also
+
+- [Yaskawa GA800 F048 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f048-fault-code/)
+- [Yaskawa VFD Fault BB — Causes & Fix](/posts/yaskawa-vfd-fault-bb/)
+- [Yaskawa GA800 F023 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f023-fault-code/)
+- [Yaskawa A1000 oL2 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol2-fault-code/)

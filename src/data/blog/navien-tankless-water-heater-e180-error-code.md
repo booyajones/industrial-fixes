@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a licensed technician for E180 errors that persist after power-cycling and connector checks. The main control board operates at line voltage and integrates with gas and ignition circuits, so diagnostics and replacement require specialized tools and knowledge. A qualified pro can test board voltages, inspect internal relays, and safely replace the PCB if needed. Attempting board-level repairs without training risks electric shock, gas leaks, and voiding your warranty.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Navien E246 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e246-error-code/)
+- [Navien E314 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e314-error-code/)
+- [Navien E323 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e323-error-code/)
+- [Navien Control Board Replacement - Signs & How-To](/posts/navien-water-heater-control-board-pcb-main-board-tankless-replacement/)

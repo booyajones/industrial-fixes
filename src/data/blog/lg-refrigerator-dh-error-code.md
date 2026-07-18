@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable working inside the freezer compartment, handling live AC voltage during diagnostic tests, or interpreting ohm-meter readings on heaters and sensors. A technician has the service manual, the correct resistance tables for your model, and the tools to safely enter diagnostic mode and measure board outputs. If the fault returns after manual defrost or if you see no obvious ice blockage, the repair requires electrical verification of the defrost circuit and possibly a control-board replacement, both of which are best left to a qualified appliance technician.
 
 **Rough cost:** A pro service call runs about $150–350 depending on the part (heater, sensor/fuse, or board) and labor.
+
+## See Also
+
+- [LG Mini-Split CH34 Error Code — Causes & Fix](/posts/lg-mini-split-ch34-error-code/)
+- [LG Washer tE Error Code - Causes & Fix](/posts/lg-washer-te-error-code/)
+- [LG Range SE Error Code - Causes & Fix](/posts/lg-range-se-error-code/)
+- [LG Microwave F16 Error - Causes & Fix](/posts/lg-microwave-f16-error-code/)
