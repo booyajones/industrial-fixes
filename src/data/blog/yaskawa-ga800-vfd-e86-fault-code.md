@@ -69,3 +69,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa support immediately if the E86 fault reappears after basic safety-circuit checks, if you do not have access to the drive's elementary diagram, or if the alarm text suggests an internal component failure. High-voltage AC drive troubleshooting requires lock-out/tag-out procedures, multimeter diagnostics on live circuits, and familiarity with Yaskawa parameter programming. Replacing the wrong board or ignoring the elementary diagram can cost hundreds of dollars and extend downtime. Yaskawa technical support can provide the official fault definition, remote diagnostics, and the correct part numbers for your specific drive revision.
 
 **Rough cost:** A pro service call runs about $200–500.
+
+## See Also
+
+- [Yaskawa GA800 LF Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f047-fault-code/)
+- [Yaskawa GA800 A.140 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-140-fault-code/)
+- [Yaskawa A1000 CPF05 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf05-fault-code/)
+- [Yaskawa A1000 oC Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-oc-fault-code/)

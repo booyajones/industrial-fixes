@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or industrial controls technician if you are not trained to work on three-phase VFDs, if the drive operates above 240 VAC, or if you cannot confidently de-energize and lock out the equipment. Professional service is also required if the fault persists after reseating the option card and you do not have the correct replacement part or the drive documentation to match the fault code. VFD repairs involve high DC bus voltages that remain present for several minutes after power-off, and internal capacitors can store lethal energy. If the CN5-A connector is damaged or the drive shows signs of overheating, arcing, or component failure, do not attempt field repair. Contact Yaskawa or an authorized service center with your drive's model number, serial number, and fault history for warranty evaluation or factory repair.
 
 **Rough cost:** A pro service call runs about $200-500 depending on option card replacement or service call.
+
+## See Also
+
+- [Yaskawa GA800 A.132 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-132-fault-code/)
+- [Yaskawa GA800 A.114 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-114-fault-code/)
+- [Yaskawa GA800 F009 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f009-fault-code/)
+- [Yaskawa A1000 OV Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ov-fault-code/)

@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or Navien service technician if cleaning the inlet screens and bleeding air does not clear the error, if you measure incoming water pressure below your model's specification and cannot remedy it yourself, or if you suspect the flow sensor or circuit board has failed. A technician can use a flow meter and multimeter to verify gallons-per-minute at the inlet and check sensor voltage in real time. Also call a pro if the heater is still under warranty, since DIY repairs on certain internal components may void coverage. Gas-fired components and venting are best left to certified professionals.
 
 **Rough cost:** DIY runs about $0-40 in parts (if cleaning screens does not solve it, a flow sensor typically costs $30-40), 30-60 min. A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien E777 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e777-error-code/)
+- [Navien E027 Error Code - Causes & Fix](/posts/navien-tankless-e027-error-code/)
+- [Navien E133 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e133-error-code/)
+- [Navien NPE-A 016 — Overheat Lockout Fix](/posts/navien-water-heater-error-code-016/)

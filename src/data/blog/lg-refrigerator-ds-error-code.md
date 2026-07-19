@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 LG explicitly states that dS, F dS, and r dS errors require service. Call a qualified appliance technician if you are not comfortable disassembling the evaporator compartment, testing electrical components with a multimeter, or interpreting resistance values from a service manual. A technician has the training and tools to safely access refrigerant-circuit areas, diagnose control board faults, and replace sensors or heaters without damaging sealed components. If the code returns after a simple reset or if you see repeated ice buildup, professional diagnosis is warranted to prevent compressor damage or food spoilage.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [LG Oven Not Heating - Causes & Fix](/posts/lg-oven-not-heating/)
+- [LG Range SE Error Code - Causes & Fix](/posts/lg-range-se-error-code/)
+- [LG CH45 Error Code - Causes & Fix](/posts/lg-mini-split-ch45-error-code/)
+- [LG Washer Error Code 31 — Pressure Sensor / Suspension Fault Fix](/posts/lg-washer-error-code-31/)

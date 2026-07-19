@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or controls technician if you are not trained in machine safety systems or do not have the GA800 manual and wiring diagrams. Safe Torque Off circuits are part of the machine's safety architecture and must comply with safety standards. If you are unsure which terminals are the STO inputs, cannot locate the factory jumper, or do not understand dual-channel safety relay wiring, professional service is required. Also call a pro if the drive continues to fault E84 after verifying the STO circuit is closed, as this may indicate a drive internal fault or parameter corruption that requires factory support or drive replacement.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Yaskawa GA800 F010 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f010-fault-code/)
+- [Yaskawa GA800 F021 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f021-fault-code/)
+- [Yaskawa A1000 CPF19 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf19-fault-code/)
+- [Yaskawa GA800 E92 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e92-fault-code/)

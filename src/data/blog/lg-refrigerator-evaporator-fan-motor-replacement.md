@@ -65,3 +65,10 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 If you are not comfortable working with a multimeter to verify control board voltage output, or if the new motor does not run after replacement and you have confirmed the harness and voltage are correct, call a refrigeration technician to diagnose the control board, door switch circuit, or wiring harness. Also call a pro if you encounter a sealed-system refrigerant leak, compressor noise, or other cooling issues unrelated to the fan motor.
+
+## See Also
+
+- [LG Oven Display Not Working - Causes & Fix](/posts/lg-oven-display-not-working/)
+- [LG Dryer Idler Pulley Replacement - Signs & How-To](/posts/lg-dryer-idler-pulley-replacement/)
+- [LG Mini Split Blowing Warm Air - Causes & Fix](/posts/lg-mini-split-blowing-warm-air/)
+- [LG Washer dE2 Error Code - Causes & Fix](/posts/lg-washer-de2-error-code/)

@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or Navien service technician if you are uncomfortable working with electrical components, if the error persists after reseating all connectors, or if diagnosis requires voltage testing and board-level troubleshooting. Communication faults can be complex to trace, especially in cascade systems or installations with multiple accessories, and misdiagnosis can lead to unnecessary parts replacement. A qualified technician has the tools and training to test signal paths, interpret diagnostic modes, and replace boards correctly. Because tankless water heaters involve both gas and electricity, professional service reduces the risk of unsafe repairs or voiding your warranty.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Navien E001 Error Code - Causes & Fix](/posts/navien-tankless-e001-error-code/)
+- [Navien E136 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e136-error-code/)
+- [Navien Water Heater No Ignition - Causes & Fix](/posts/navien-water-heater-no-ignition/)
+- [Navien 406 Error Code - Causes & Fix](/posts/navien-tankless-alarm-406-error-code/)

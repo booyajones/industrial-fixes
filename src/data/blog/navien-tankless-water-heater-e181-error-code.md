@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or Navien-certified technician if you are not comfortable working with electrical connections, if you cannot identify the flow sensor or its wiring, or if replacing the sensor does not clear the E181 code. A technician has diagnostic software and multimeter tests to pinpoint whether the control board input circuit has failed. Professional help is also wise if you see evidence of water intrusion inside the unit, which can damage multiple components at once.
 
 **Rough cost:** DIY runs about $80-180 in parts, 1-2 hours. A pro service call runs about $200-400.
+
+## See Also
+
+- [Navien Water Heater Rusty Water - Causes & Fix](/posts/navien-water-heater-rusty-water/)
+- [Navien Tankless Water Heater E237 Error - Causes & Fix](/posts/navien-tankless-water-heater-e237-error-code/)
+- [Navien NPE-A 016 — Overheat Lockout Fix](/posts/navien-water-heater-error-code-016/)
+- [Navien NPE Series Error Codes — Tankless Water Heater Fault Guide](/posts/navien-npe-error-codes/)

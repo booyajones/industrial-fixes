@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician immediately if you cannot locate the model number, if the manual for your model does not list the code you see, or if the boiler is locked out and will not fire. Gas-fired boiler diagnostics require combustion analysis, pressure testing, and electrical measurements that are not safe or practical for a homeowner. A pro will identify the control platform, pull the real fault history, test safeties and sensors with a multimeter, and verify proper combustion and venting. If the code turns out to be a control board or gas valve issue, the technician can source the correct part and complete any required startup and warranty registration. Do not bypass safeties or attempt to force the boiler to run without understanding the fault.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A104 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a104-error-code/)
+- [Weil-McLain Boiler A143 Error - Causes & Fix](/posts/weil-mclain-boiler-a143-error-code/)
+- [Weil-McLain Boiler A33 Error - Causes & Fix](/posts/weil-mclain-boiler-a33-error-code/)
+- [Weil-McLain A03 Error - Causes & Fix](/posts/weil-mclain-boiler-a03-error-code/)

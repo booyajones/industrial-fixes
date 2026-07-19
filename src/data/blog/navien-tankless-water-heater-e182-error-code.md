@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working inside the water heater cabinet, if you cannot locate the source of the communication fault after inspecting connectors and harnesses, or if diagnostic testing indicates a failed control board. A qualified technician has access to manufacturer diagnostic tools and software that can pinpoint which component is failing to communicate. Also call a pro if you find signs of moisture intrusion or electrical damage that may indicate a larger system fault or safety hazard.
 
 **Rough cost:** DIY runs about $0-150 in parts, 30-90 min. A pro service call runs about $150-400.
+
+## See Also
+
+- [Navien Tankless Water Heater E303 Error - Causes & Fix](/posts/navien-tankless-water-heater-e303-error-code/)
+- [Navien Tankless Water Heater E331 Error - Causes & Fix](/posts/navien-tankless-water-heater-e331-error-code/)
+- [Navien Tankless Water Heater Cold Water Inlet Valve Replacement](/posts/navien-water-heater-water-inlet-valve-cold-water-isolation-valve-kit-tankless-replacement/)
+- [Navien Tankless Water Heater E247 Error - Causes & Fix](/posts/navien-tankless-water-heater-e247-error-code/)

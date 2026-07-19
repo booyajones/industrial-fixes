@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a licensed heating professional immediately. Weil-McLain does not publish A89 in general consumer documentation, so the code is control-specific and requires access to the correct service manual and diagnostic tools. Gas-fired boiler troubleshooting involves live gas, high-voltage ignition, and pressurized water systems. A technician will use combustion analyzers, multimeters, and manometers to pinpoint whether A89 relates to flame proving, sensor faults, gas supply, or control communication. Attempting repairs without the exact fault definition risks expensive misdiagnosis, voided warranty, or unsafe operation. If your boiler is under warranty, Weil-McLain requires a professional to document the failed part and submit photos for coverage.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain Boiler A139 Error - Causes & Fix](/posts/weil-mclain-boiler-a139-error-code/)
+- [Weil-McLain A03 Error - Causes & Fix](/posts/weil-mclain-boiler-a03-error-code/)
+- [Weil-McLain A116 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a116-error-code/)
+- [Weil-McLain A104 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a104-error-code/)

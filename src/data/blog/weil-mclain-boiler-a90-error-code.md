@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed technician immediately if you are not trained to work on gas appliances, if you smell gas, or if you cannot safely access the rating plate and manual. Gas pressure measurement, burner adjustment, flame-sensor diagnosis, and control-board troubleshooting require proper tools and combustion-analyzer testing. Weil-McLain requires the model number and CP number for warranty and parts support, so have that information ready. If the boiler has locked out multiple times, do not keep resetting it. Repeated ignition attempts without a confirmed fix can damage the control or create unsafe conditions. A qualified pro will measure gas pressure, test ignition components, verify flame signal, inspect venting, and consult the correct manual for your specific control platform before replacing parts.
 
 **Rough cost:** A pro service call runs about $150–350.
+
+## See Also
+
+- [Weil-McLain Boiler A166 Error - Causes & Fix](/posts/weil-mclain-boiler-a166-error-code/)
+- [Weil-McLain A82 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a82-error-code/)
+- [Weil-McLain Boiler A08 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a08-error-code/)
+- [Weil-McLain Boiler A120 Error - Causes & Fix](/posts/weil-mclain-boiler-a120-error-code/)

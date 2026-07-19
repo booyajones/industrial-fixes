@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you do not have a combustion gas analyzer and manometer to measure inlet gas pressure and flue gas. Gas-fired appliance work requires permits and inspection in many jurisdictions, and incorrect diagnosis or repair can create carbon monoxide hazards or void your warranty. A technician will pull the full fault history, test flame rectification with a microamp meter, verify gas pressure and venting compliance, and replace the control module or gas valve if component-level testing confirms failure. If the boiler is under warranty, professional service is required to maintain coverage.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [Weil-McLain Boiler A08 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a08-error-code/)
+- [Weil-McLain Boiler A124 Error - Causes & Fix](/posts/weil-mclain-boiler-a124-error-code/)
+- [Weil-McLain A155 Error - Causes & Fix](/posts/weil-mclain-boiler-a155-error-code/)
+- [Weil-McLain A105 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a105-error-code/)

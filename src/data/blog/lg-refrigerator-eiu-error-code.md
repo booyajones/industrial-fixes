@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a professional if the EIU code returns after you have completed a full power reset, an 8-hour defrost with doors open, and verified adequate water pressure. LG treats EIU as an inspection code and does not publish detailed component-level diagnostics for homeowners. A qualified technician will have access to LG service manuals, can test the ice maker assembly with specialized tools, and can order the correct OEM replacement part for your specific model. Professional help is also recommended if you are uncomfortable working with electrical connectors inside the freezer compartment or if your refrigerator is still under warranty, since DIY repairs may void coverage.
 
 **Rough cost:** DIY runs about $80-180 for ice maker assembly if replacement needed, 45-90 min. A pro service call runs about $150-300 for service call and diagnosis.
+
+## See Also
+
+- [LG Mini Split CH47 Error - Causes & Fix](/posts/lg-mini-split-ch47-error-code/)
+- [LG Refrigerator FF Error Code - Causes & Fix](/posts/lg-refrigerator-ff-error-code/)
+- [LG Washer Won't Spin - Causes & Fix](/posts/lg-washer-wont-spin/)
+- [LG Dishwasher Not Dispensing Detergent - Causes & Fix](/posts/lg-dishwasher-not-dispensing-detergent/)

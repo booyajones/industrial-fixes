@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa support if the fault persists after you have checked wiring and reset the drive, if you do not have access to the model-specific fault list, or if diagnostics point to internal power stage or control board failure. Yaskawa's GA800 maintenance documentation states that repair beyond fan and control board replacement is not supported in the field, so drives requiring power section work must be sent to an authorized service center. Always provide the model/spec number, serial number, fault code with description, application details, and length of service when you call for support.
 
 **Rough cost:** A pro service call runs about $200-600 depending on diagnosis time and component replacement.
+
+## See Also
+
+- [Yaskawa A1000 AL-09 - Causes & Fix](/posts/yaskawa-a1000-vfd-al-09-fault-code/)
+- [Yaskawa A1000 VFD oL Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol-fault-code/)
+- [Yaskawa GA800 VFD E60 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e60-fault-code/)
+- [Yaskawa GA800 E14 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e14-fault-code/)

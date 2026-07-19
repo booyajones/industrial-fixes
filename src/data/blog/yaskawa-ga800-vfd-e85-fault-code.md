@@ -66,3 +66,10 @@ Answer these to narrow it down fast.
 Call a qualified Yaskawa service technician or distributor when the alarm code cannot be found in the user manual, when the drive will not restart after a fault reset, or when the alarm history shows multiple simultaneous faults. The GA800 maintenance and troubleshooting manual explicitly states that it does not cover repairs beyond fan and control board replacement, so any work involving the power section, DC bus, or internal wiring must be performed by trained personnel. Yaskawa technical support requires the drive's model number, specification code, serial number, and the exact alarm history text to provide accurate guidance, so have that information ready before calling.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Yaskawa GA800 VFD E60 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e60-fault-code/)
+- [Yaskawa GA800 F019 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f019-fault-code/)
+- [Yaskawa GA800 F033 - Causes & Fix](/posts/yaskawa-ga800-vfd-f033-fault-code/)
+- [Yaskawa GA800 E79 - Causes & Fix](/posts/yaskawa-ga800-vfd-e79-fault-code/)

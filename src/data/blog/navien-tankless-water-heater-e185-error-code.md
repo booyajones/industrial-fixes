@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed technician if you are uncomfortable working with 120V electrical connections, if the error persists after reseating connectors and replacing the flow sensor, or if you suspect the control board needs replacement. Gas and electrical work on tankless heaters must meet local codes, and warranty coverage often requires professional installation of control boards. A technician can also use diagnostic software to read detailed fault logs and test communication between boards.
 
 **Rough cost:** DIY runs about $50-150 in parts, 1-2 hours. A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien Error Code E016 — Causes & Fix](/posts/navien-error-code-e016/)
+- [Navien E615 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e615-error-code/)
+- [Navien E004 Error Code - Causes & Fix](/posts/navien-tankless-e004-error-code/)
+- [Navien E032 Error - Causes & Fix](/posts/navien-tankless-e032-error-code/)

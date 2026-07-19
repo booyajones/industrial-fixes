@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a professional immediately for the LG EID error code. LG's own support page states there are no troubleshooting steps for this code and that service is required. The repair involves model-specific electrical diagnosis of the ice maker sensor circuit, including continuity and resistance testing that requires a multimeter, wiring diagrams, and service documentation not available to homeowners. Attempting to remove the ice maker assembly or test connectors without proper training risks damaging the refrigerator's sealed compartments, control board, or wiring harness. A qualified technician will verify the code, inspect connectors and wiring for damage or corrosion, test the sensor against factory specifications, and replace only the confirmed failed component, ensuring the repair is covered under any applicable warranty and performed safely.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [LG Oven F2 Error Code - Causes & Fix](/posts/lg-oven-f2-error-code/)
+- [LG Washer Drive Motor/Stator-Rotor Replacement - Signs & How-To](/posts/lg-washer-drive-motor-stator-rotor-direct-drive-replacement/)
+- [LG Microwave F-11 Error Code - Causes & Fix](/posts/lg-microwave-f-11-error-code/)
+- [LG Mini Split CH46 Error Code - Causes & Fix](/posts/lg-mini-split-ch46-error-code/)
