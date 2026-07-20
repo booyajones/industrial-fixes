@@ -83,3 +83,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician for any work involving the gas train, gas valve replacement, or combustion testing. Professionals have the tools to measure flame current, verify gas pressure at the valve inlet and manifold, and safely diagnose control board faults. If you have cleaned the flame sensor and verified the gas supply is open but the A91 code persists, a technician can retrieve detailed fault logs from the control, test ignition voltage and continuity in the flame-sense circuit, and perform a full combustion analysis to rule out venting or air-supply problems that can prevent stable flame proving. Gas appliance work requires proper permitting and inspection in most jurisdictions, and incorrect repairs can create carbon monoxide hazards or fire risk.
 
 **Rough cost:** A pro service call runs about $150–350.
+
+## See Also
+
+- [Weil-McLain Boiler A119 Error - Causes & Fix](/posts/weil-mclain-boiler-a119-error-code/)
+- [Weil-McLain Boiler A96 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a96-error-code/)
+- [Weil-McLain A68 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a68-error-code/)
+- [Weil-McLain A36 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a36-error-code/)

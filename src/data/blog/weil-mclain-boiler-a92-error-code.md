@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a professional immediately if you smell gas, if the pressure gauge is above 25 psi, or if you are not comfortable working with gas appliances and 120V wiring. A licensed technician should diagnose any A92 code when the exact fault cannot be determined from the manual, when repeated resets do not clear the lockout, or when testing sensors and valves requires a multimeter and wiring diagrams. Gas-valve replacement, control-board work, and any repair inside the sealed combustion chamber or venting system must be handled by a qualified HVAC or boiler service company. If the boiler is under warranty, professional service may be required to preserve coverage.
 
 **Rough cost:** A pro service call runs about $150–350 depending on part and labor.
+
+## See Also
+
+- [Weil-McLain Boiler A124 Error - Causes & Fix](/posts/weil-mclain-boiler-a124-error-code/)
+- [Weil-McLain A06 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a06-error-code/)
+- [Weil-McLain A90 Error - Causes & Fix](/posts/weil-mclain-boiler-a90-error-code/)
+- [Weil-McLain Boiler Error Code E08 — Causes & Fix](/posts/weil-mclain-e08-error-code/)

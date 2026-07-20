@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed technician if you are uncomfortable working around circuit boards or if your free checks and connector reseating do not clear the code. A pro will use multi-meter tests and diagnostic software to pinpoint whether the main PCB, a secondary board, or a sensor interface has failed. Because gas and electrical safety interlocks are managed by these boards, incorrect repairs can create hazards. Technicians also have access to OEM replacement boards with the correct firmware and can update the unit if a known communication bug exists for your model.
 
 **Rough cost:** DIY runs about $0-150 in parts, 30-90 min. A pro service call runs about $150-400.
+
+## See Also
+
+- [Navien E185 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e185-error-code/)
+- [Navien Tankless Water Heater E242 Error - Causes & Fix](/posts/navien-tankless-water-heater-e242-error-code/)
+- [Navien E255 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e255-error-code/)
+- [Navien E302 Error Code — Causes & Fix](/posts/navien-error-code-e302/)

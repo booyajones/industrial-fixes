@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a professional if reseating connectors and cleaning contacts does not clear the error, if you are uncomfortable working inside the heater near electrical components, or if diagnostic testing with a multimeter is required to pinpoint which board has failed. Gas-fired tankless water heaters involve both electrical and gas systems, and misdiagnosis can lead to expensive unnecessary part replacements. A qualified technician can perform board-level voltage checks, verify communication signals, and safely replace the correct module without trial and error.
 
 **Rough cost:** DIY runs about $0-150 in parts if a connector or harness needs replacement, 30-60 min. A pro service call runs about $150-350 depending on whether the technician finds a wiring fault or needs to replace a board.
+
+## See Also
+
+- [Navien E317 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e317-error-code/)
+- [Navien Tankless Water Heater Air Pressure Switch Replacement](/posts/navien-water-heater-air-pressure-switch-vent-pressure-switch-gas-tankless-replacement/)
+- [Navien E007 Error Code - Causes & Fix](/posts/navien-tankless-e007-error-code/)
+- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)

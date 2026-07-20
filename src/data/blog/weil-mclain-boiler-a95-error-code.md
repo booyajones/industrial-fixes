@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician immediately if you smell gas, if the boiler repeatedly locks out after reset, or if you cannot locate the A95 definition in your model's documentation. Gas-system repairs, including measuring supply pressure, testing or replacing the gas valve, and diagnosing control-board outputs, require specialized tools and training. A technician will use the boiler's fault-history log, measure voltages at the ignitor and flame rod, and verify combustion settings to pinpoint the root cause. Because A95 is not a standardized code across all Weil-McLain models, professional diagnosis is the fastest path to a safe, accurate repair.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A145 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a145-error-code/)
+- [Weil-McLain A06 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a06-error-code/)
+- [Weil-McLain A182 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a182-error-code/)
+- [Weil-McLain A131 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a131-error-code/)

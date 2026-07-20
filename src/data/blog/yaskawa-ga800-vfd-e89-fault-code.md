@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician for all E89 diagnostics and repair. The fault involves high-voltage DC bus circuits, internal relay feedback paths, and control board replacement that require proper lockout/tagout, discharge procedures, and factory training. Accessing the interior of a VFD without proper safety procedures can result in lethal shock even after input power is removed. If your facility does not have trained personnel, contact a Yaskawa-authorized service center to inspect parameter U4-06, test the soft-charge bypass relay, replace the control board, or swap the drive. Never attempt to bypass or jumper the precharge circuit, as this can destroy the drive and create a fire or shock hazard.
 
 **Rough cost:** A pro service call runs about $400–1,200 depending on whether a control board or full drive is needed.
+
+## See Also
+
+- [Yaskawa GA800 E24 Fault - Causes & Fix](/posts/yaskawa-ga800-e24-fault-code/)
+- [Yaskawa GA800 E79 - Causes & Fix](/posts/yaskawa-ga800-vfd-e79-fault-code/)
+- [Yaskawa A1000 AL16 - Causes & Fix](/posts/yaskawa-a1000-vfd-al-16-fault-code/)
+- [Yaskawa A1000 AL-36 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-36-fault-code/)

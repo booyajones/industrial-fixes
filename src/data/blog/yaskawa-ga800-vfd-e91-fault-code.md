@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or controls technician if you are not trained in lockout/tagout procedures, if you are unfamiliar with safety relay circuits, or if the STO wiring and jumper check good but the fault remains. STO circuits are safety-critical and must comply with machinery safety standards. Incorrect wiring or bypassing the STO function can create serious hazards. If the fault persists after verifying all external wiring and the drive documentation does not resolve the issue, escalate to Yaskawa technical support with your drive serial number and a description of the tests you performed.
 
 **Rough cost:** A pro service call runs about $150–400 depending on whether the fix is a simple jumper replacement or rewiring a safety relay circuit.
+
+## See Also
+
+- [Yaskawa GA800 E12 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e12-fault-code/)
+- [Yaskawa A1000 oL7 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol7-fault-code/)
+- [Yaskawa GA800 A.133 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-133-fault-code/)
+- [Yaskawa A1000 oL6 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol6-fault-code/)

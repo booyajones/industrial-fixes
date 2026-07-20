@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed technician if you are uncomfortable working with 120V wiring, if the wiring diagram and connector locations are unclear, or if reseating connectors and checking for damaged wires does not clear the fault. A pro can use a multimeter and the factory service software to test communication signals between boards and pinpoint whether a board has failed. Also call for help if the error appeared after a lightning strike or power surge, since multiple components may need replacement. Because this is primarily an electrical diagnostic rather than a gas or sealed-system issue, a skilled DIYer can often resolve E196, but a technician will have the training and tools to confirm board health quickly.
 
 **Rough cost:** DIY runs about $0-50 in parts if a connector or wire needs replacement, 30-60 min. A pro service call runs about $120-250 for a service call to diagnose and repair wiring or replace a board.
+
+## See Also
+
+- [Navien Error Code E021 — Cold Water Inlet Thermistor Fault Fix](/posts/navien-error-code-e021/)
+- [Navien Water Heater Popping Noise - Causes & Fix](/posts/navien-water-heater-making-popping-noise/)
+- [Navien E011 Error Code - Causes & Fix](/posts/navien-tankless-e011-error-code/)
+- [Navien Tankless Water Heater E249 Error - Causes & Fix](/posts/navien-tankless-water-heater-e249-error-code/)

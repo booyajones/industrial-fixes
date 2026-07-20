@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician immediately if you are not comfortable working with gas appliances, if you cannot locate or safely access the flame sensor or ignitor, or if the fault returns after you have confirmed gas flow and cleaned the sensor. A pro will use a multimeter to measure flame current, test gas valve operation and inlet pressure, retrieve detailed fault codes from the control, and verify that the ignition sequence meets manufacturer timing specs. Because natural gas and propane are explosive, any work beyond confirming the manual shutoff is open and cleaning accessible sensors should be left to a qualified technician. If the control board itself is suspect, a pro will test all field wiring and components first to avoid replacing expensive electronics unnecessarily.
 
 **Rough cost:** A pro service call runs about $150–350 depending on the part and labor.
+
+## See Also
+
+- [Weil-McLain Boiler A20 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a20-error-code/)
+- [Weil-McLain A95 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a95-error-code/)
+- [Weil-McLain A29 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a29-error-code/)
+- [Weil-McLain Boiler A34 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a34-error-code/)

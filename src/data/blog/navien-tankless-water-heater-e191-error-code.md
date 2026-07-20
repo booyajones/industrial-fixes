@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or Navien service technician if you are uncomfortable working with water and electrical connections at the same time, if the error returns after replacing the flow sensor and checking all wiring, or if you need to isolate a fault in the gas valve or ignition system. A pro can run board-level diagnostics, verify sensor resistance values with a multimeter, and access factory service bulletins for your specific model. Most tankless water heater repairs require both plumbing and electrical skills, so professional service is often the safest route for persistent codes.
 
 **Rough cost:** DIY runs about $40-120 in parts, 1-2 hours. A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien E047 Error - Causes & Fix](/posts/navien-tankless-e047-error-code/)
+- [Navien E321 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e321-error-code/)
+- [Navien E244 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e244-error-code/)
+- [Navien Tankless Water Heater E223 Error - Causes & Fix](/posts/navien-tankless-water-heater-e223-error-code/)

@@ -70,3 +70,10 @@ Seeing a code on the display? These match this problem:
 ## When to Call a Pro
 
 If the freezer does not recover after you have cleared all vents, cleaned the condenser coils, verified the door seal, and completed a 30-second reset, the problem is likely a failed evaporator fan, defrost system fault, or sealed-system issue such as a weak compressor or refrigerant leak. These repairs require refrigerant handling, sealed-system work, or disassembly behind panels that are best handled by a qualified appliance technician. Call a pro if you hear no fan noise in the freezer, see repeated heavy frost buildup after defrosting, or if the compressor does not restart after the reset.
+
+## See Also
+
+- [LG Range F2 Error Code - Causes & Fix](/posts/lg-range-f2-error-code/)
+- [LG Dryer Won't Stop - Causes & Fix](/posts/lg-dryer-wont-stop/)
+- [LG Dryer tE1 Error Code - Causes & Fix](/posts/lg-dryer-te1-error-code/)
+- [LG Range SE Error Code - Causes & Fix](/posts/lg-range-se-error-code/)

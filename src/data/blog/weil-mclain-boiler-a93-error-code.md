@@ -71,3 +71,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you cannot find your model's manual, if the manual directs you to check gas pressure or flame current, or if the code persists after you have verified wiring and sensors. Gas-fired boiler diagnostics require combustion analysis and pressure testing that only qualified service personnel should perform. A technician will bring the correct manuals, a flame-rod tester, and a combustion analyzer to pinpoint the fault safely and make sure the boiler meets local codes after repair.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A13 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a13-error-code/)
+- [Weil-McLain Boiler A34 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a34-error-code/)
+- [Weil-McLain A65 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a65-error-code/)
+- [Weil-McLain A88 Error - Causes & Fix](/posts/weil-mclain-boiler-a88-error-code/)

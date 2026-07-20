@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a professional if you cannot locate the flow sensor or inlet valve, if the refrigerator continues to show the gF code after you have verified good supply pressure and replaced both the inlet valve and flow sensor, or if you are uncomfortable working with water connections and electrical terminals. A technician has the wiring diagram and test procedures to isolate whether the control board itself is misreading the sensor or whether another component in the water path is at fault. Also call a pro if your model requires disassembly of the door or sealed compartments to reach the flow sensor, as improper reassembly can cause air leaks and temperature problems.
 
 **Rough cost:** DIY runs about $40–120 in parts (inlet valve or flow sensor), 30–90 minutes. A pro service call runs about $150–300.
+
+## See Also
+
+- [LG Dryer Shuts Off Early - Causes & Fix](/posts/lg-dryer-shuts-off-early/)
+- [LG Dishwasher AE Error Code - Causes & Fix](/posts/lg-dishwasher-ae-error-code/)
+- [LG Refrigerator Error Codes — Complete Fix Guide](/posts/lg-refrigerator-error-codes/)
+- [LG Dishwasher Standing Water in Bottom - Causes & Fix](/posts/lg-dishwasher-standing-water-in-bottom/)

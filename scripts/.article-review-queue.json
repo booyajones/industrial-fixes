@@ -4306,5 +4306,185 @@
     "score": 3,
     "reason": "No research provided to verify E0002 is a real, documented fault code for the ABB ACS580 VFD; cannot confirm accuracy or that content isn't borrowed from generic VFD troubleshooting.",
     "date": "2026-07-19"
+  },
+  "abb-acs580-vfd-e0003-fault-code": {
+    "topic": "ABB ACS580 VFD E0003 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E0003 is a real ABB ACS580 code or that the stated meaning (overcurrent) is accurate for this specific drive model; cannot confirm authenticity or correctness without documentation.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0004-fault-code": {
+    "topic": "ABB ACS580 VFD E0004 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E0004 is a real ABB ACS580 fault code; content appears to be generic VFD overcurrent guidance that could apply to any brand, failing brand-specific accuracy requirement.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0005-fault-code": {
+    "topic": "ABB ACS580 VFD E0005 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E0005 is a real ABB ACS580 code or that the meaning/causes are accurate; cannot validate authenticity for this specific brand and model.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0006-fault-code": {
+    "topic": "ABB ACS580 VFD E0006 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E0006 is a real, documented code for ABB ACS580; content appears speculative without source verification, failing primary authenticity requirement.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0007-fault-code": {
+    "topic": "ABB ACS580 VFD E0007 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E0007 is a real, documented code for ABB ACS580; content may be invented or borrowed from generic VFD troubleshooting without brand-specific validation.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0008-fault-code": {
+    "topic": "ABB ACS580 VFD E0008 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E0008 is a real ABB ACS580 code; content appears speculative and potentially invented without documentation.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0009-fault-code": {
+    "topic": "ABB ACS580 VFD E0009 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E0009 is a real, documented fault code for ABB ACS580; content is entirely speculative generic VFD troubleshooting without brand-specific accuracy confirmation.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0010-fault-code": {
+    "topic": "ABB ACS580 VFD E0010 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E0010 is a real, documented fault code for the ABB ACS580 VFD; cannot confirm accuracy or that this isn't confused with another brand's codes.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0011-fault-code": {
+    "topic": "ABB ACS580 VFD E0011 fault code",
+    "score": 2,
+    "reason": "No research provided to verify E0011 is a real, documented fault code for the ABB ACS580; cannot confirm accuracy of meaning, causes, or fixes without source documentation.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0012-fault-code": {
+    "topic": "ABB ACS580 VFD E0012 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E0012 is a real, documented fault code for the ABB ACS580; cannot confirm accuracy of meaning, causes, or procedures without source validation.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0013-fault-code": {
+    "topic": "ABB ACS580 VFD E0013 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E0013 is a real, documented fault code for the ABB ACS580 VFD; cannot confirm accuracy or that content isn't invented/borrowed from other brands.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0014-fault-code": {
+    "topic": "ABB ACS580 VFD E0014 fault code",
+    "score": 0,
+    "reason": "review error: HTTP Error 429: Too Many Requests",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0015-fault-code": {
+    "topic": "ABB ACS580 VFD E0015 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E0015 is a real, documented fault code for ABB ACS580 VFD; content appears speculative without source validation.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0016-fault-code": {
+    "topic": "ABB ACS580 VFD E0016 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E0016 is a real, documented fault code for ABB ACS580; cannot confirm accuracy of meaning or causes without source documentation.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0017-fault-code": {
+    "topic": "ABB ACS580 VFD E0017 fault code",
+    "score": 2,
+    "reason": "No research provided to confirm E0017 is a real, documented fault code for ABB ACS580; content is speculative and generic without verification of code existence or meaning for this specific drive model.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0018-fault-code": {
+    "topic": "ABB ACS580 VFD E0018 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E0018 is a real, documented fault code for the ABB ACS580; content cannot be validated against manufacturer documentation and may be invented or borrowed from other systems.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0019-fault-code": {
+    "topic": "ABB ACS580 VFD E0019 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E0019 is a real, documented fault code for ABB ACS580 VFD; cannot confirm accuracy of meaning or causes without source documentation.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0020-fault-code": {
+    "topic": "ABB ACS580 VFD E0020 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E0020 is a real, documented fault code for the ABB ACS580 VFD; cannot confirm accuracy or that content isn't borrowed from other brands.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0021-fault-code": {
+    "topic": "ABB ACS580 VFD E0021 fault code",
+    "score": 2,
+    "reason": "No research provided to verify E0021 is a real, documented ABB ACS580 fault code; content appears fabricated without manufacturer documentation.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0022-fault-code": {
+    "topic": "ABB ACS580 VFD E0022 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E0022 is a real/documented code for ABB ACS580; cannot confirm accuracy of meaning or causes without source documentation.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0023-fault-code": {
+    "topic": "ABB ACS580 VFD E0023 fault code",
+    "score": 0,
+    "reason": "FAIL: No research provided to verify E0023 is a real, documented fault code for ABB ACS580 VFD; cannot confirm accuracy of meaning, causes, or fixes for this specific brand and model.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0024-fault-code": {
+    "topic": "ABB ACS580 VFD E0024 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E0024 is a real, documented fault code for the ABB ACS580; content appears speculative and potentially invented without source validation.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0025-fault-code": {
+    "topic": "ABB ACS580 VFD E0025 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E0025 is a real, documented fault code for the ABB ACS580 VFD; cannot confirm accuracy or that this isn't invented/borrowed from another model.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0026-fault-code": {
+    "topic": "ABB ACS580 VFD E0026 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E0026 is a real, documented fault code for ABB ACS580 VFD; cannot confirm accuracy of meaning or causes without source documentation.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0027-fault-code": {
+    "topic": "ABB ACS580 VFD E0027 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E0027 is a real ABB ACS580 code or that the overcurrent diagnosis is correct; cannot confirm accuracy for this specific brand and model.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0028-fault-code": {
+    "topic": "ABB ACS580 VFD E0028 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E0028 is a real, documented fault code for ABB ACS580; cannot confirm accuracy of meaning or causes - fails authenticity requirement.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0029-fault-code": {
+    "topic": "ABB ACS580 VFD E0029 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E0029 is a real, documented fault code for the ABB ACS580 VFD; cannot confirm accuracy or that meaning isn't borrowed from generic VFD faults.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0030-fault-code": {
+    "topic": "ABB ACS580 VFD E0030 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E0030 is a real, documented fault code for ABB ACS580; cannot confirm accuracy of meaning or causes without source documentation.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0031-fault-code": {
+    "topic": "ABB ACS580 VFD E0031 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E0031 is a real, documented fault code for ABB ACS580; content appears speculative and generic without confirmation of the code's actual meaning for this specific drive model.",
+    "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0032-fault-code": {
+    "topic": "ABB ACS580 VFD E0032 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E0032 is a real, documented ABB ACS580 fault code; content appears to be generic speculation without grounding in actual technical documentation.",
+    "date": "2026-07-20"
   }
 }

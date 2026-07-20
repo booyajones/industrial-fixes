@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or Navien-certified technician if you are uncomfortable working with electrical connections inside the heater, if the error persists after replacing the recirculation pump and verifying all wiring, or if you suspect a control board fault that requires diagnostic software. A professional can use a service tool to read extended fault logs and verify sensor voltages. Also call a pro if your unit is still under warranty, as unauthorized repairs may void coverage.
 
 **Rough cost:** DIY runs about $80-180 in parts, 30-90 min. A pro service call runs about $200-400.
+
+## See Also
+
+- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)
+- [Navien E134 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e134-error-code/)
+- [Navien E001 Error Code - Causes & Fix](/posts/navien-tankless-e001-error-code/)
+- [Navien E320 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e320-error-code/)

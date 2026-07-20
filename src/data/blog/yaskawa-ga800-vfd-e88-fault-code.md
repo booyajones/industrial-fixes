@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or controls technician if you are not familiar with safety relay circuits, industrial control wiring, or the specific safety architecture of your machine. The STO function is a safety-critical circuit and incorrect wiring can create a hazard. If the external safety chain is verified and the fault persists, contact Yaskawa technical support with the drive model, spec number, and serial number for diagnosis of the internal STO circuit or possible control board issues. Do not attempt drive disassembly or internal repairs without factory training.
 
 **Rough cost:** A pro service call runs about $150-400 depending on safety relay or field wiring repair.
+
+## See Also
+
+- [Yaskawa GA800 E97 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e97-fault-code/)
+- [Yaskawa A1000 AL-31 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-31-fault-code/)
+- [Yaskawa GA800 F042 - Causes & Fix](/posts/yaskawa-ga800-vfd-f042-fault-code/)
+- [Yaskawa GA800 A.148 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-148-fault-code/)

@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or automation technician if you are not trained in industrial control wiring, lockout/tagout procedures, or VFD safety circuits. Safe Torque Off troubleshooting requires working with the machine's safety diagram, understanding the external interlock chain, and verifying DC bus discharge before touching terminals. If the STO circuit appears intact but the fault persists, the drive's control or safety interface may be damaged and requires evaluation by Yaskawa technical support or a certified service center. Never bypass or jumper STO terminals to defeat the safety function.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Yaskawa VFD Fault UV1 — Causes & Fix](/posts/yaskawa-vfd-fault-uv1/)
+- [Yaskawa CPF39 VFD - Causes & Fix](/posts/yaskawa-ga800-vfd-f039-fault-code/)
+- [Yaskawa A1000 Er-17 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-17-fault-code/)
+- [Yaskawa GA800 E88 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e88-fault-code/)
