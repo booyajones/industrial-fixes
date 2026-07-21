@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a qualified drives technician or controls integrator when the E97 fault persists after you have verified correct wiring and replaced the communications cable. Diagnosing option-card failures, network-side faults, and controller issues requires specialized test equipment and knowledge of industrial communication protocols. Always have the drive model number, serial number, option card type, and a description of the network architecture ready when contacting Yaskawa support or a certified service provider. Do not attempt to replace internal option hardware or modify firmware without proper training.
 
 **Rough cost:** A pro service call runs about $150–400 depending on cable length and labor.
+
+## See Also
+
+- [Yaskawa GA800 E34 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e34-fault-code/)
+- [Yaskawa GA800 E25 Fault - Causes & Fix](/posts/yaskawa-ga800-e25-fault-code/)
+- [Yaskawa GA800 A.117 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-117-fault-code/)
+- [Yaskawa GA800 E15 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e15-fault-code/)

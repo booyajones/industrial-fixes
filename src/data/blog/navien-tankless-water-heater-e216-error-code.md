@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working with gas appliances, if the vent system requires modification or re-pitching, or if you have replaced both the fan and pressure switch and the code still appears. A technician can perform combustion analysis, measure airflow with a manometer, and diagnose intermittent electrical faults in the control board or wiring harness. Also call a pro if the vent run exceeds the maximum length specified in your installation manual, as code-compliant venting may require additional parts or design changes.
 
 **Rough cost:** DIY runs about $0-150 in parts if a fan or pressure switch is needed, 1-2 hours. A pro service call runs about $150-400 depending on diagnosis and part replacement.
+
+## See Also
+
+- [Navien E782 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e782-error-code/)
+- [Navien E040 Error Code - Causes & Fix](/posts/navien-tankless-e040-error-code/)
+- [Navien E326 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e326-error-code/)
+- [Navien Tankless E013 Error Code - Causes & Fix](/posts/navien-tankless-e013-error-code/)

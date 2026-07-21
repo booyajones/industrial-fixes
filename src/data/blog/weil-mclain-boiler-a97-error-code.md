@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician if you are uncomfortable working with gas appliances, if you cannot access or clean the flame sensor safely, or if the boiler continues to lock out after cleaning the sensor and clearing vents. A technician should also handle any work involving the gas valve, gas pressure testing, control board diagnostics, or vent system repairs. On WM97+ 155 models with a known gasket-melting issue, a pro can inspect grounding, replace the gasket correctly, and verify flame-signal integrity to prevent repeat lockouts.
 
 **Rough cost:** A pro service call runs about $150-300.
+
+## See Also
+
+- [Weil-McLain A54 Error - Causes & Fix](/posts/weil-mclain-boiler-a54-error-code/)
+- [Weil-McLain A16 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a16-error-code/)
+- [Weil-McLain 019 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a19-error-code/)
+- [Weil-McLain A74 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a74-error-code/)

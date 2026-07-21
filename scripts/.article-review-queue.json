@@ -4486,5 +4486,185 @@
     "score": 0,
     "reason": "No research provided to verify E0032 is a real, documented ABB ACS580 fault code; content appears to be generic speculation without grounding in actual technical documentation.",
     "date": "2026-07-20"
+  },
+  "abb-acs580-vfd-e0033-fault-code": {
+    "topic": "ABB ACS580 VFD E0033 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E0033 is a real, documented ABB ACS580 fault code; content appears speculative and cannot be validated against manufacturer documentation.",
+    "date": "2026-07-21"
+  },
+  "abb-acs580-vfd-e0034-fault-code": {
+    "topic": "ABB ACS580 VFD E0034 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E0034 is a real, documented fault code for the ABB ACS580 VFD; content appears invented without grounding in actual technical documentation.",
+    "date": "2026-07-21"
+  },
+  "abb-acs580-vfd-e0035-fault-code": {
+    "topic": "ABB ACS580 VFD E0035 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E0035 is a real, documented fault code for the ABB ACS580 VFD; cannot confirm accuracy or that content is not fabricated.",
+    "date": "2026-07-21"
+  },
+  "abb-acs580-vfd-e0036-fault-code": {
+    "topic": "ABB ACS580 VFD E0036 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E0036 is a real, documented ABB ACS580 fault code; meaning and causes cannot be validated against manufacturer documentation.",
+    "date": "2026-07-21"
+  },
+  "abb-acs580-vfd-e0037-fault-code": {
+    "topic": "ABB ACS580 VFD E0037 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E0037 is a real, documented fault code for the ABB ACS580; cannot confirm accuracy or that content isn't invented/borrowed from other systems.",
+    "date": "2026-07-21"
+  },
+  "abb-acs580-vfd-e0038-fault-code": {
+    "topic": "ABB ACS580 VFD E0038 fault code",
+    "score": 2,
+    "reason": "No research provided to verify E0038 is a real ABB ACS580 code; content is generic speculation without documented grounding, fails verification requirement.",
+    "date": "2026-07-21"
+  },
+  "abb-acs580-vfd-e0039-fault-code": {
+    "topic": "ABB ACS580 VFD E0039 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E0039 is a real, documented fault code for the ABB ACS580 VFD; content appears to be generic speculation without grounding in actual technical documentation.",
+    "date": "2026-07-21"
+  },
+  "abb-acs580-vfd-e0040-fault-code": {
+    "topic": "ABB ACS580 VFD E0040 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E0040 is a real, documented fault code for the ABB ACS580 VFD; cannot confirm accuracy of meaning, causes, or troubleshooting steps for this specific brand and model.",
+    "date": "2026-07-21"
+  },
+  "abb-acs550-vfd-ai2-loss-fault-code": {
+    "topic": "ABB ACS550 VFD AI2 LOSS fault code",
+    "score": 3,
+    "reason": "No research provided to verify this is a real, documented fault code for the ABB ACS550; content appears plausible but unverified and potentially invented without grounding sources.",
+    "date": "2026-07-21"
+  },
+  "abb-acs550-vfd-ext-fault-1-fault-code": {
+    "topic": "ABB ACS550 VFD EXT FAULT 1 fault code",
+    "score": 3,
+    "reason": "No research provided to verify this is a real, documented fault code for the ABB ACS550; cannot confirm accuracy of code existence, meaning, or causes without external grounding.",
+    "date": "2026-07-21"
+  },
+  "siemens-g120-vfd-f0001-fault-code": {
+    "topic": "Siemens G120 VFD F0001 fault code",
+    "score": 3,
+    "reason": "No research provided to verify F0001 is a real/documented Siemens G120 code; cannot confirm accuracy of meaning, causes, or parameters without source documentation.",
+    "date": "2026-07-21"
+  },
+  "siemens-g120-vfd-f0009-fault-code": {
+    "topic": "Siemens G120 VFD F0009 fault code",
+    "score": 2,
+    "reason": "No research provided to verify F0009 is a real, documented Siemens G120 code; draft explicitly admits code meaning 'can vary' and lacks specific technical grounding, making it potentially inaccurate generic filler.",
+    "date": "2026-07-21"
+  },
+  "siemens-g120-vfd-f0012-fault-code": {
+    "topic": "Siemens G120 VFD F0012 fault code",
+    "score": 0,
+    "reason": "No research provided to verify F0012 is a real, documented Siemens G120 fault code; cannot confirm accuracy or that content isn't invented/borrowed from other systems.",
+    "date": "2026-07-21"
+  },
+  "siemens-g120-vfd-f0013-fault-code": {
+    "topic": "Siemens G120 VFD F0013 fault code",
+    "score": 0,
+    "reason": "No research provided to verify F0013 is a real Siemens G120 code or that the stated meaning/causes are accurate for this specific brand and model; cannot confirm authenticity or correctness.",
+    "date": "2026-07-21"
+  },
+  "siemens-g120-vfd-f0014-fault-code": {
+    "topic": "Siemens G120 VFD F0014 fault code",
+    "score": 3,
+    "reason": "No research provided to verify F0014 is a real, documented Siemens G120 code; cannot confirm accuracy of meaning or causes without source documentation.",
+    "date": "2026-07-21"
+  },
+  "siemens-g120-vfd-f01512-fault-code": {
+    "topic": "Siemens G120 VFD F01512 fault code",
+    "score": 3,
+    "reason": "No research provided to verify F01512 is a real Siemens G120 code; cannot confirm accuracy or that this isn't invented/borrowed from another system.",
+    "date": "2026-07-21"
+  },
+  "siemens-g120-vfd-a01666-fault-code": {
+    "topic": "Siemens G120 VFD A01666 fault code",
+    "score": 0,
+    "reason": "FAIL: No research provided to verify A01666 is a real Siemens G120 fault code; cannot confirm code existence, meaning, or causes for this specific brand/model combination.",
+    "date": "2026-07-21"
+  },
+  "siemens-micromaster-vfd-a0501-fault-code": {
+    "topic": "Siemens Micromaster VFD A0501 fault code",
+    "score": 0,
+    "reason": "FAIL: No research provided to verify A0501 is a real Siemens Micromaster fault code or that the stated meaning/causes are accurate for this specific brand and model.",
+    "date": "2026-07-21"
+  },
+  "siemens-micromaster-vfd-a0502-fault-code": {
+    "topic": "Siemens Micromaster VFD A0502 fault code",
+    "score": 0,
+    "reason": "No research provided to verify A0502 is a real Siemens Micromaster fault code; cannot confirm accuracy or that this isn't invented/borrowed from another brand.",
+    "date": "2026-07-21"
+  },
+  "siemens-micromaster-vfd-a0503-fault-code": {
+    "topic": "Siemens Micromaster VFD A0503 fault code",
+    "score": 0,
+    "reason": "FAIL: No research provided to verify A0503 is a real Siemens Micromaster code or that the stated meaning is accurate; cannot validate against manufacturer documentation.",
+    "date": "2026-07-21"
+  },
+  "siemens-micromaster-vfd-a0504-fault-code": {
+    "topic": "Siemens Micromaster VFD A0504 fault code",
+    "score": 3,
+    "reason": "No research provided to verify A0504 is a real Siemens Micromaster fault code; without documentation, cannot confirm authenticity or accuracy of meaning/causes for this specific brand and equipment.",
+    "date": "2026-07-21"
+  },
+  "siemens-micromaster-vfd-a0505-fault-code": {
+    "topic": "Siemens Micromaster VFD A0505 fault code",
+    "score": 0,
+    "reason": "FAIL: No research provided to verify A0505 is a real Siemens Micromaster fault code; cannot confirm accuracy of code existence or meaning for this specific brand/model without documentation.",
+    "date": "2026-07-21"
+  },
+  "siemens-micromaster-vfd-a0506-fault-code": {
+    "topic": "Siemens Micromaster VFD A0506 fault code",
+    "score": 3,
+    "reason": "No research provided to verify A0506 is a real Siemens Micromaster code; content appears plausible but completely unverified and potentially invented.",
+    "date": "2026-07-21"
+  },
+  "siemens-micromaster-vfd-a0542-fault-code": {
+    "topic": "Siemens Micromaster VFD A0542 fault code",
+    "score": 0,
+    "reason": "No research provided to verify A0542 is a real Siemens Micromaster fault code; cannot confirm accuracy or that this specific code exists for this equipment.",
+    "date": "2026-07-21"
+  },
+  "siemens-micromaster-vfd-a0590-fault-code": {
+    "topic": "Siemens Micromaster VFD A0590 fault code",
+    "score": 0,
+    "reason": "No research provided to verify A0590 is a real Siemens Micromaster fault code; content appears entirely speculative and cannot be validated against manufacturer documentation.",
+    "date": "2026-07-21"
+  },
+  "siemens-micromaster-vfd-a0705-fault-code": {
+    "topic": "Siemens Micromaster VFD A0705 fault code",
+    "score": 2,
+    "reason": "No research provided to verify A0705 is a real Siemens Micromaster code; content admits code meaning varies and requires manual consultation, making all specific diagnostic claims unverifiable speculation.",
+    "date": "2026-07-21"
+  },
+  "siemens-micromaster-vfd-a0706-fault-code": {
+    "topic": "Siemens Micromaster VFD A0706 fault code",
+    "score": 0,
+    "reason": "FAIL: No research provided to verify A0706 is a real Siemens Micromaster fault code or that the stated meaning is accurate; cannot publish technical repair content with zero source verification.",
+    "date": "2026-07-21"
+  },
+  "siemens-micromaster-vfd-a0707-fault-code": {
+    "topic": "Siemens Micromaster VFD A0707 fault code",
+    "score": 2,
+    "reason": "No research provided to verify A0707 is a real Siemens Micromaster code; content is generic speculation without documented grounding, failing primary authenticity requirement.",
+    "date": "2026-07-21"
+  },
+  "siemens-micromaster-vfd-a0708-fault-code": {
+    "topic": "Siemens Micromaster VFD A0708 fault code",
+    "score": 0,
+    "reason": "No research provided to verify A0708 is a real Siemens Micromaster code; cannot confirm accuracy or that this code exists for this brand/product.",
+    "date": "2026-07-21"
+  },
+  "siemens-micromaster-vfd-a0709-fault-code": {
+    "topic": "Siemens Micromaster VFD A0709 fault code",
+    "score": 0,
+    "reason": "No research provided to verify A0709 is a real Siemens Micromaster fault code; cannot confirm accuracy or that this code exists for this brand/product.",
+    "date": "2026-07-21"
   }
 }

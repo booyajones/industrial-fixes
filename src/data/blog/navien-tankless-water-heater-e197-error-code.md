@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a licensed technician if you are uncomfortable working with 120V or 240V electrical connections, if the error persists after wiring and filter checks, or if you lack a multimeter and the experience to safely test sensor circuits. Tankless water heaters also involve gas lines and venting, so any repair that might disturb those systems requires a certified professional. A pro can quickly diagnose whether the fault lies in the flow sensor, PCB, or a less common issue such as a ground loop or EMI interference, and will have the factory service codes and tools to pinpoint the problem without trial-and-error part replacement.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Navien Tankless Water Heater E229 Error - Causes & Fix](/posts/navien-tankless-water-heater-e229-error-code/)
+- [Navien Tankless Water Heater E236 Error - Causes & Fix](/posts/navien-tankless-water-heater-e236-error-code/)
+- [Navien E615 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e615-error-code/)
+- [Navien E321 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e321-error-code/)

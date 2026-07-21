@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a professional whenever E198 does not clear after a power reset or when you find no obvious loose connectors. Diagnosing control-board faults requires a multimeter, wiring diagrams, and familiarity with Navien's proprietary communication protocol. Technicians can test sensor signals, check board voltage rails, and safely replace the control board or wiring harness. Because tankless water heaters also involve gas lines and venting, any repair beyond a simple reset or connector reseat should be handled by a licensed plumber or HVAC technician trained on Navien units.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Navien E325 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e325-error-code/)
+- [Navien E321 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e321-error-code/)
+- [Navien E020 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e020-error-code/)
+- [Navien Water Heater Leaking - Causes & Fix](/posts/navien-water-heater-leaking/)

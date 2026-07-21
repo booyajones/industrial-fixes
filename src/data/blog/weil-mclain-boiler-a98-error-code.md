@@ -71,3 +71,10 @@ Answer these to narrow it down fast.
 Call a licensed heating professional immediately if you cannot find your boiler's model number or service manual, if the fault returns after a single reset, or if you are unfamiliar with gas appliance troubleshooting. Gas boiler diagnostics require multimeters, manometers for gas pressure, and knowledge of safe lockout procedures. Attempting to bypass safeties or swap parts without verifying the fault can create carbon monoxide hazards or damage the control. The manufacturer's warranty process also requires the exact failed part description and part number, which only proper diagnostics will reveal. A qualified technician will read the control's fault history, follow the model-specific flowchart, and test each input to pinpoint whether A98 on your unit is ignition, flame-proving, gas supply, or a limit fault.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain A71 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a71-error-code/)
+- [Weil-McLain A165 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a165-error-code/)
+- [Weil-McLain Boiler A72 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a72-error-code/)
+- [Weil-McLain Boiler A138 Error - Causes & Fix](/posts/weil-mclain-boiler-a138-error-code/)

@@ -7807,6 +7807,126 @@
     "abb-acs580-vfd-e0032-fault-code": {
       "topic": "ABB ACS580 VFD E0032 fault code",
       "date": "2026-07-20"
+    },
+    "abb-acs580-vfd-e0033-fault-code": {
+      "topic": "ABB ACS580 VFD E0033 fault code",
+      "date": "2026-07-21"
+    },
+    "abb-acs580-vfd-e0034-fault-code": {
+      "topic": "ABB ACS580 VFD E0034 fault code",
+      "date": "2026-07-21"
+    },
+    "abb-acs580-vfd-e0035-fault-code": {
+      "topic": "ABB ACS580 VFD E0035 fault code",
+      "date": "2026-07-21"
+    },
+    "abb-acs580-vfd-e0036-fault-code": {
+      "topic": "ABB ACS580 VFD E0036 fault code",
+      "date": "2026-07-21"
+    },
+    "abb-acs580-vfd-e0037-fault-code": {
+      "topic": "ABB ACS580 VFD E0037 fault code",
+      "date": "2026-07-21"
+    },
+    "abb-acs580-vfd-e0038-fault-code": {
+      "topic": "ABB ACS580 VFD E0038 fault code",
+      "date": "2026-07-21"
+    },
+    "abb-acs580-vfd-e0039-fault-code": {
+      "topic": "ABB ACS580 VFD E0039 fault code",
+      "date": "2026-07-21"
+    },
+    "abb-acs580-vfd-e0040-fault-code": {
+      "topic": "ABB ACS580 VFD E0040 fault code",
+      "date": "2026-07-21"
+    },
+    "abb-acs550-vfd-ai2-loss-fault-code": {
+      "topic": "ABB ACS550 VFD AI2 LOSS fault code",
+      "date": "2026-07-21"
+    },
+    "abb-acs550-vfd-ext-fault-1-fault-code": {
+      "topic": "ABB ACS550 VFD EXT FAULT 1 fault code",
+      "date": "2026-07-21"
+    },
+    "siemens-g120-vfd-f0001-fault-code": {
+      "topic": "Siemens G120 VFD F0001 fault code",
+      "date": "2026-07-21"
+    },
+    "siemens-g120-vfd-f0009-fault-code": {
+      "topic": "Siemens G120 VFD F0009 fault code",
+      "date": "2026-07-21"
+    },
+    "siemens-g120-vfd-f0012-fault-code": {
+      "topic": "Siemens G120 VFD F0012 fault code",
+      "date": "2026-07-21"
+    },
+    "siemens-g120-vfd-f0013-fault-code": {
+      "topic": "Siemens G120 VFD F0013 fault code",
+      "date": "2026-07-21"
+    },
+    "siemens-g120-vfd-f0014-fault-code": {
+      "topic": "Siemens G120 VFD F0014 fault code",
+      "date": "2026-07-21"
+    },
+    "siemens-g120-vfd-f01512-fault-code": {
+      "topic": "Siemens G120 VFD F01512 fault code",
+      "date": "2026-07-21"
+    },
+    "siemens-g120-vfd-a01666-fault-code": {
+      "topic": "Siemens G120 VFD A01666 fault code",
+      "date": "2026-07-21"
+    },
+    "siemens-micromaster-vfd-a0501-fault-code": {
+      "topic": "Siemens Micromaster VFD A0501 fault code",
+      "date": "2026-07-21"
+    },
+    "siemens-micromaster-vfd-a0502-fault-code": {
+      "topic": "Siemens Micromaster VFD A0502 fault code",
+      "date": "2026-07-21"
+    },
+    "siemens-micromaster-vfd-a0503-fault-code": {
+      "topic": "Siemens Micromaster VFD A0503 fault code",
+      "date": "2026-07-21"
+    },
+    "siemens-micromaster-vfd-a0504-fault-code": {
+      "topic": "Siemens Micromaster VFD A0504 fault code",
+      "date": "2026-07-21"
+    },
+    "siemens-micromaster-vfd-a0505-fault-code": {
+      "topic": "Siemens Micromaster VFD A0505 fault code",
+      "date": "2026-07-21"
+    },
+    "siemens-micromaster-vfd-a0506-fault-code": {
+      "topic": "Siemens Micromaster VFD A0506 fault code",
+      "date": "2026-07-21"
+    },
+    "siemens-micromaster-vfd-a0542-fault-code": {
+      "topic": "Siemens Micromaster VFD A0542 fault code",
+      "date": "2026-07-21"
+    },
+    "siemens-micromaster-vfd-a0590-fault-code": {
+      "topic": "Siemens Micromaster VFD A0590 fault code",
+      "date": "2026-07-21"
+    },
+    "siemens-micromaster-vfd-a0705-fault-code": {
+      "topic": "Siemens Micromaster VFD A0705 fault code",
+      "date": "2026-07-21"
+    },
+    "siemens-micromaster-vfd-a0706-fault-code": {
+      "topic": "Siemens Micromaster VFD A0706 fault code",
+      "date": "2026-07-21"
+    },
+    "siemens-micromaster-vfd-a0707-fault-code": {
+      "topic": "Siemens Micromaster VFD A0707 fault code",
+      "date": "2026-07-21"
+    },
+    "siemens-micromaster-vfd-a0708-fault-code": {
+      "topic": "Siemens Micromaster VFD A0708 fault code",
+      "date": "2026-07-21"
+    },
+    "siemens-micromaster-vfd-a0709-fault-code": {
+      "topic": "Siemens Micromaster VFD A0709 fault code",
+      "date": "2026-07-21"
     }
   }
 }

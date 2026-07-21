@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you are not comfortable working with gas appliances, if you cannot locate or interpret your boiler's fault history, or if basic checks (pressure, ignition components, wiring) do not resolve the lockout. Gas valve diagnosis and replacement, control-board troubleshooting, and any work involving combustion safety or sealed-system components require specialized tools, a combustion analyzer, and trade knowledge. A qualified technician will read the fault log, perform voltage and continuity tests on sensors and valves, verify flame stability and combustion efficiency, and make sure all safety limits are functioning correctly before returning the boiler to service.
 
 **Rough cost:** A pro service call runs about $150–400.
+
+## See Also
+
+- [Weil-McLain A165 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a165-error-code/)
+- [Weil-McLain A65 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a65-error-code/)
+- [Weil-McLain Boiler Error Code E10 — Causes & Fix](/posts/weil-mclain-e10-error-code/)
+- [Weil-McLain A90 Error - Causes & Fix](/posts/weil-mclain-boiler-a90-error-code/)

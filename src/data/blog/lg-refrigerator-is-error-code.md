@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 LG's official video support states there are no owner troubleshooting steps that will resolve the IS or 1S code and that a repair service is required. The repair involves accessing the ice maker compartment, testing electrical connections and sensor values against service specifications, and potentially replacing the sensor or ice maker assembly. If you are not comfortable working with wiring harnesses in a freezer environment or do not have the model-specific service data to test the sensor, call a qualified appliance technician. A pro will also inspect the ice maker fan motor and main control board if the sensor and wiring check out, ensuring the fault is fully diagnosed and resolved.
 
 **Rough cost:** A pro service call runs about $150–$300.
+
+## See Also
+
+- [LG Oven Not Heating - Causes & Fix](/posts/lg-oven-not-heating/)
+- [LG Mini-Split CH07 Error Code - Causes & Fix](/posts/lg-mini-split-ch07-error-code/)
+- [LG Microwave Won't Turn Off - Causes & Fix](/posts/lg-microwave-wont-turn-off/)
+- [LG Mini-Split CH03 Error - Causes & Fix](/posts/lg-mini-split-ch03-error-code/)

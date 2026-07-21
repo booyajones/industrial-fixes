@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed technician if you are uncomfortable working with 120V wiring, if the error persists after reseating connectors and resetting the unit, or if you measure supply voltage outside the range printed on the rating plate. A pro can use Navien diagnostic software to read fault history and pinpoint which sensor or relay is sending bad data. Also call a pro if you see any signs of water intrusion on the board or if the unit has been exposed to flooding, since internal damage may require multiple parts and a safety inspection.
 
 **Rough cost:** DIY runs about $0-150 in parts if a connector or relay is replaced, 20-40 min. A pro service call runs about $150-350 including diagnostics and parts.
+
+## See Also
+
+- [Navien Tankless Water Heater E222 Error - Causes & Fix](/posts/navien-tankless-water-heater-e222-error-code/)
+- [Navien Error Code E010 — Causes & Fix](/posts/navien-error-code-e010/)
+- [Navien NPE-A 016 — Overheat Lockout Fix](/posts/navien-water-heater-error-code-016/)
+- [Navien E736 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e736-error-code/)

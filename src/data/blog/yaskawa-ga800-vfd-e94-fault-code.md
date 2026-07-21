@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified drives technician or an authorized Yaskawa service center if you cannot verify the exact fault code from your manual, if the relay and wiring appear intact but the fault persists, or if you are not trained to work safely inside energized or high-voltage industrial equipment. The repair requires lockout-tagout procedures, multimeter testing of relay circuits, and access to internal components near the DC bus, which can hold lethal voltage even after input power is removed. A technician will also gather detailed failure information, check the drive's maintenance counters, and determine whether the control board or the entire drive needs replacement if the relay is not the root cause.
 
 **Rough cost:** A pro service call runs about $200-600.
+
+## See Also
+
+- [Yaskawa GA800 F036 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f036-fault-code/)
+- [Yaskawa GA800 F043 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-f043-fault-code/)
+- [Yaskawa GA800 E42 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e42-fault-code/)
+- [Yaskawa GA800 A.130 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-130-fault-code/)

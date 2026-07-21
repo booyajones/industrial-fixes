@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or Yaskawa-authorized service center if you cannot identify the exact meaning of E96 in your drive manual, if the code returns after you have checked wiring and power, or if the drive requires internal component replacement beyond the fan or control board. Yaskawa's maintenance documentation directs deeper repairs to factory service. Also call a professional if you are not trained in lockout/tagout procedures or high-voltage troubleshooting, because the GA800 operates at lethal voltages and requires safe isolation before any work inside the enclosure.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Yaskawa A1000 CPF14 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf14-fault-code/)
+- [Yaskawa GA800 A.100 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-100-fault-code/)
+- [Yaskawa GA800 E01 Fault - Motor Data Error During Auto-Tune](/posts/yaskawa-ga800-e01-fault-code/)
+- [Yaskawa GA800 A.137 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-137-fault-code/)

@@ -81,3 +81,10 @@ Answer these to narrow it down fast.
 Call a qualified appliance technician if you are uncomfortable working inside the freezer compartment or handling electrical connections. Also call if the error code returns repeatedly after you have defrosted and replaced the fan motor, since that points to a more complex airflow or control board issue. If the refrigerator is still under warranty, contact LG directly before attempting any repair. Professional diagnosis is also recommended when the sensor wiring is difficult to access or when multiple error codes appear together, indicating a possible main control board fault.
 
 **Rough cost:** DIY runs about $30-80 in parts, 1-2 hours. A pro service call runs about $150-300.
+
+## See Also
+
+- [LG Oven Broiler Not Working - Causes & Fix](/posts/lg-oven-broiler-not-working/)
+- [LG Oven Display Not Working - Causes & Fix](/posts/lg-oven-display-not-working/)
+- [LG Range F7 Error Code - Causes & Fix](/posts/lg-range-f7-error-code/)
+- [LG Mini Split CH33 Error Code - Causes & Fix](/posts/lg-mini-split-ch33-error-code/)

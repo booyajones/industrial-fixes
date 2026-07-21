@@ -67,3 +67,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a technician if you've replaced the bulb and confirmed the door switch has continuity but the light still does not work. Testing for live voltage at the socket or diagnosing control board faults requires working with 120V AC power inside the cabinet, which presents shock risk. If wiring connectors are damaged or the control board needs replacement, a certified tech has the tools to isolate the exact failure point and install OEM parts safely.
+
+## See Also
+
+- [LG Dishwasher IE Error Code - Causes & Fix](/posts/lg-dishwasher-ie-error-code/)
+- [LG Dryer tE1 Error Code - Causes & Fix](/posts/lg-dryer-te1-error-code/)
+- [LG Mini Split CH61 Error Code - Causes & Fix](/posts/lg-mini-split-ch61-error-code/)
+- [LG Range H5 Error Code - Causes & Fix](/posts/lg-range-h5-error-code/)

@@ -71,3 +71,10 @@ Answer these to narrow it down fast.
 Call a licensed heating technician immediately if you cannot identify your boiler model, cannot access the diagnostic menu, or if the boiler is locked out and will not restart. Gas-fired boilers require proper combustion analysis and safety checks that only qualified professionals can perform. If A99 appears alongside other symptoms such as no heat, unusual noises, or gas odors, shut off the boiler and gas supply and call for service right away. Weil-McLain also recommends that any warranty or complex control work be handled by an authorized service provider who can document the CP number, failed part number, and proper replacement procedure.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Weil-McLain Boiler A39 Error - Causes & Fix](/posts/weil-mclain-boiler-a39-error-code/)
+- [Weil-McLain Boiler Error Code E10 — Low Water Pressure Fix](/posts/weil-mclain-e10-low-pressure/)
+- [Weil-McLain Boiler A56 Error - Causes & Fix](/posts/weil-mclain-boiler-a56-error-code/)
+- [Weil-McLain A85 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a85-error-code/)

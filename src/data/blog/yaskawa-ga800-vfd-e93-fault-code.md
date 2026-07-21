@@ -71,3 +71,10 @@ Answer these to narrow it down fast.
 Call a Yaskawa-certified technician or your distributor's service team if you cannot locate the E93 fault definition in your drive's technical manual, if the fault reappears after parameter correction and wiring checks, or if you lack the tools to safely measure control signals and power-stage voltages. The GA800 maintenance manual explicitly limits field repair to fan and control board replacement, so any fault requiring deeper diagnosis or power-stage work must be handled by trained personnel with access to Yaskawa's full service documentation and replacement procedures.
 
 **Rough cost:** A pro service call runs about $200–600 depending on diagnostic time and whether the fix is a fan, board, or external wiring.
+
+## See Also
+
+- [Yaskawa GA800 F028 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f028-fault-code/)
+- [Yaskawa GA800 E59 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e59-fault-code/)
+- [Yaskawa GA800 F004 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f004-fault-code/)
+- [Yaskawa A1000 oL7 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol7-fault-code/)

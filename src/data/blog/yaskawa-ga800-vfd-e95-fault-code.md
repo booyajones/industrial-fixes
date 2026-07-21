@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified drive technician or Yaskawa-certified service provider if you cannot locate the fault code in your manual, if the alarm history shows multiple or intermittent faults, or if the drive does not clear the fault after a power cycle. High-voltage work inside a VFD requires specialized training and test equipment. Do not open the drive or attempt board-level repairs unless you are trained in electrical safety and have confirmed the code meaning and corrective action with the manufacturer.
 
 **Rough cost:** A pro service call runs about $200–800 depending on the actual fault and whether a relay, board, or drive replacement is needed.
+
+## See Also
+
+- [Yaskawa A1000 AL-25 (CPF25) - Causes & Fix](/posts/yaskawa-a1000-vfd-al-25-fault-code/)
+- [Yaskawa A1000 oFA32 - Causes & Fix](/posts/yaskawa-a1000-vfd-al-32-fault-code/)
+- [Yaskawa GA800 E09 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e09-fault-code/)
+- [Yaskawa GA800 F044 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f044-fault-code/)

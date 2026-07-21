@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or Navien service technician if you are not comfortable working with gas-fired appliances, if the error persists after flushing and checking wiring, or if you suspect the recirculation pump or control board has failed. Tankless water heaters involve both gas and electrical systems, and incorrect repairs can create safety hazards or void your warranty. A qualified technician can perform flow tests, measure sensor output with diagnostic tools, and safely replace internal components. Professional service is also recommended if your unit is still under warranty, as DIY repairs may affect coverage.
 
 **Rough cost:** A pro service call runs about $200-450.
+
+## See Also
+
+- [Navien E193 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e193-error-code/)
+- [Navien E134 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e134-error-code/)
+- [Navien E009 Error Code — Causes & Fix](/posts/navien-error-code-e009/)
+- [Navien E300 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e300-error-code/)
