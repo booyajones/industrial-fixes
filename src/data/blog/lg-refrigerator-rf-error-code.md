@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a technician if you are not comfortable working inside the refrigerator cabinet or handling live voltage measurements. A pro should also be called if the rF code returns after you have defrosted the evaporator and confirmed the fan spins freely, since the fault may then involve the control board, defrost timer, or sealed-system issues that require diagnostic tools and refrigerant handling. If your unit is still under warranty, LG recommends contacting their service network rather than attempting DIY board or motor replacement.
 
 **Rough cost:** DIY runs about $40–80 in parts, 1–2 hours. A pro service call runs about $150–300.
+
+## See Also
+
+- [LG Refrigerator FS Error Code - Causes & Fix](/posts/lg-refrigerator-fs-error-code/)
+- [LG Washer Error LE — Motor Lock / Stator Fix](/posts/lg-washer-error-le/)
+- [LG Mini Split CH53 Error Code - Causes & Fix](/posts/lg-mini-split-ch53-error-code/)
+- [LG Washer Door Boot Seal Replacement - Signs & How-To](/posts/lg-washer-door-boot-seal-bellow-gasket-front-load-replacement/)

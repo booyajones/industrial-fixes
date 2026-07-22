@@ -70,3 +70,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or Yaskawa-certified service technician immediately if you cannot find the fault code in your drive's manual, if the display is corrupted or flickering, or if the drive has been exposed to electrical surges or environmental contamination. VFD troubleshooting requires interpreting wiring diagrams, measuring high-voltage DC bus levels, and working safely around lethal voltages that remain present even after input power is removed. A technician with DriveWizard Plus software can read detailed fault logs, compare parameter sets, and contact Yaskawa support with the correct diagnostic data. Attempting to swap boards or adjust parameters without confirmed fault information often leads to extended downtime and additional damage. If your drive is under warranty or covered by a service contract, contact Yaskawa or your distributor before opening the enclosure.
 
 **Rough cost:** A pro service call runs about $200–500 for service call and diagnosis, plus parts if needed.
+
+## See Also
+
+- [Yaskawa GA800 oC Fault — Overcurrent Fix](/posts/yaskawa-ga800-error-oc/)
+- [Yaskawa A1000 AL-11 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-11-fault-code/)
+- [Yaskawa GA800 VFD F0021 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f0021-fault-code/)
+- [Yaskawa A1000 oU Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ou-fault-code/)

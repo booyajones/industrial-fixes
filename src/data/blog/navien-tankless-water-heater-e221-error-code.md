@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or gas technician if you are uncomfortable working around gas connections, if the unit still faults after cleaning the flame rod and checking wiring, or if you suspect a failed gas valve, control board, or sealed combustion component. Tankless water heaters require precise gas-pressure settings and proper venting. A technician will use a combustion analyzer to verify air-fuel ratios and can safely test high-voltage ignition circuits and gas-valve operation. Any work on gas piping, venting, or the sealed combustion chamber should be left to a professional to maintain safety and warranty coverage.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien E239 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e239-error-code/)
+- [Navien Tankless Water Heater E167 Error - Causes & Fix](/posts/navien-tankless-water-heater-e167-error-code/)
+- [Navien E311 Error - Causes & Fix](/posts/navien-tankless-water-heater-e311-error-code/)
+- [Navien Error Code E013 — Causes & Fix](/posts/navien-error-code-e013/)

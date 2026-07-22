@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or gas technician if you are uncomfortable working around gas appliances, if the error returns after cleaning the flame rod and igniter, or if you lack the tools to measure gas pressure. Professionals can perform a combustion analysis, test the gas valve with a multimeter, verify manifold and inlet pressures with a manometer, and safely diagnose control board faults. Because tankless heaters involve both gas and electrical systems, incorrect repairs can create carbon monoxide hazards or void your warranty.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien Water Heater Not Enough Hot Water - Causes & Fix](/posts/navien-water-heater-not-enough-hot-water/)
+- [Navien E181 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e181-error-code/)
+- [Navien E777 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e777-error-code/)
+- [Navien E136 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e136-error-code/)

@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drive technician if you are not comfortable working with three-phase power, if you lack a megohmmeter to test motor insulation, or if the fault persists after you have verified parameters and checked mechanical freedom. Overcurrent faults can indicate internal drive failures that require specialized test equipment and knowledge of power electronics. A technician can perform waveform analysis, measure gate-drive signals, and safely bench-test the IGBT module to pinpoint the fault and prevent repeat failures.
 
 **Rough cost:** A pro service call runs about $200-800.
+
+## See Also
+
+- [Siemens G120 VFD F0014 - Causes & Fix](/posts/siemens-g120-vfd-f0014-fault-code/)
+- [Siemens G120 VFD F0012 Fault - Causes & Fix](/posts/siemens-g120-vfd-f0012-fault-code/)
+- [Siemens SENTRON 3WL/3VA Fault Codes — Troubleshooting Guide](/posts/siemens-sentron-fault-codes/)
+- [Siemens G120 F01122 - Causes & Fix](/posts/siemens-g120-f01122-fault-code/)

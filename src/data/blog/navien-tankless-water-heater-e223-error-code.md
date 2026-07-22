@@ -82,3 +82,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or Navien-certified technician if you are uncomfortable working with gas or electrical connections, if the error persists after replacing the flow sensor and inspecting all wiring, or if you discover leaks or corrosion elsewhere in the system. Professionals have factory scan tools that can read live sensor data and pinpoint intermittent faults the basic display cannot show. If your heater is still under warranty, unauthorized repairs may void coverage, so check your warranty terms before opening the unit.
 
 **Rough cost:** DIY runs about $60-120 in parts, 45-90 min. A pro service call runs about $180-350.
+
+## See Also
+
+- [Navien NPE-180S2 Problems & Error Codes](/posts/navien-npe-180s2-water-heater-problems/)
+- [Navien E320 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e320-error-code/)
+- [Navien Tankless Water Heater E222 Error - Causes & Fix](/posts/navien-tankless-water-heater-e222-error-code/)
+- [Navien NPE-240A2 Water Heater Problems & Error Codes](/posts/navien-npe-240a2-water-heater-problems/)

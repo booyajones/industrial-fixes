@@ -71,3 +71,10 @@ Seeing a code on the display? These match this problem:
 ## When to Call a Pro
 
 Call a professional if the compressor runs but the unit does not cool after verifying airflow and cleaning the coils, since this points to a sealed-system issue such as refrigerant loss or compressor failure. Also call for service if you hear unusual compressor noises, if frost buildup returns immediately after manual defrost, or if you are uncomfortable working with electrical components or refrigerant systems. Sealed-system repairs require specialized tools, recovery equipment, and EPA certification.
+
+## See Also
+
+- [LG Dishwasher FE Error Code - Causes & Fix](/posts/lg-dishwasher-fe-error-code/)
+- [LG Range FE Error Code - Causes & Fix](/posts/lg-range-fe-error-code/)
+- [LG Mini Split CH01 Error Code — Causes & Fix](/posts/lg-mini-split-ch01-error-code/)
+- [LG Mini Split Error Codes — All CH Codes Explained](/posts/lg-mini-split-error-codes/)

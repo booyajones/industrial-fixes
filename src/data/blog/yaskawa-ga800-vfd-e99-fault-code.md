@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa-authorized service provider if you are not trained to work safely around high-voltage DC bus capacitors, if the E99 code persists after checking all wiring and option cards, or if the keypad alarm text references an internal hardware condition that requires factory diagnostics. A professional will use proper lockout-tagout procedures, verify capacitor discharge with a meter, and have access to Yaskawa's technical support line with your drive's model, spec number, and serial number. Attempting to swap the control board or option cards without isolating the external cause first often results in repeat failures and added cost.
 
 **Rough cost:** A pro service call runs about $150–400 depending on wiring corrections and travel time.
+
+## See Also
+
+- [Yaskawa GA800 A.120 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-120-fault-code/)
+- [Yaskawa VFD Fault ER — Causes & Fix](/posts/yaskawa-vfd-fault-er/)
+- [Yaskawa VFD Fault OV — DC Bus Overvoltage Fix](/posts/yaskawa-vfd-fault-ov/)
+- [Yaskawa GA800 VFD F0017 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f0017-fault-code/)

@@ -7927,6 +7927,126 @@
     "siemens-micromaster-vfd-a0709-fault-code": {
       "topic": "Siemens Micromaster VFD A0709 fault code",
       "date": "2026-07-21"
+    },
+    "siemens-micromaster-vfd-a0711-fault-code": {
+      "topic": "Siemens Micromaster VFD A0711 fault code",
+      "date": "2026-07-22"
+    },
+    "siemens-micromaster-vfd-a0910-fault-code": {
+      "topic": "Siemens Micromaster VFD A0910 fault code",
+      "date": "2026-07-22"
+    },
+    "siemens-micromaster-vfd-a0911-fault-code": {
+      "topic": "Siemens Micromaster VFD A0911 fault code",
+      "date": "2026-07-22"
+    },
+    "danfoss-fc302-vfd-warning-5-fault-code": {
+      "topic": "Danfoss FC302 VFD WARNING 5 fault code",
+      "date": "2026-07-22"
+    },
+    "yaskawa-ga800-vfd-f0001-fault-code": {
+      "topic": "Yaskawa GA800 VFD F0001 fault code",
+      "date": "2026-07-22"
+    },
+    "yaskawa-ga800-vfd-f0002-fault-code": {
+      "topic": "Yaskawa GA800 VFD F0002 fault code",
+      "date": "2026-07-22"
+    },
+    "yaskawa-ga800-vfd-f0003-fault-code": {
+      "topic": "Yaskawa GA800 VFD F0003 fault code",
+      "date": "2026-07-22"
+    },
+    "yaskawa-ga800-vfd-f0004-fault-code": {
+      "topic": "Yaskawa GA800 VFD F0004 fault code",
+      "date": "2026-07-22"
+    },
+    "yaskawa-ga800-vfd-f0005-fault-code": {
+      "topic": "Yaskawa GA800 VFD F0005 fault code",
+      "date": "2026-07-22"
+    },
+    "yaskawa-ga800-vfd-f0006-fault-code": {
+      "topic": "Yaskawa GA800 VFD F0006 fault code",
+      "date": "2026-07-22"
+    },
+    "yaskawa-ga800-vfd-f0007-fault-code": {
+      "topic": "Yaskawa GA800 VFD F0007 fault code",
+      "date": "2026-07-22"
+    },
+    "yaskawa-ga800-vfd-f0008-fault-code": {
+      "topic": "Yaskawa GA800 VFD F0008 fault code",
+      "date": "2026-07-22"
+    },
+    "yaskawa-ga800-vfd-f0009-fault-code": {
+      "topic": "Yaskawa GA800 VFD F0009 fault code",
+      "date": "2026-07-22"
+    },
+    "yaskawa-ga800-vfd-f0010-fault-code": {
+      "topic": "Yaskawa GA800 VFD F0010 fault code",
+      "date": "2026-07-22"
+    },
+    "yaskawa-ga800-vfd-f0011-fault-code": {
+      "topic": "Yaskawa GA800 VFD F0011 fault code",
+      "date": "2026-07-22"
+    },
+    "yaskawa-ga800-vfd-f0012-fault-code": {
+      "topic": "Yaskawa GA800 VFD F0012 fault code",
+      "date": "2026-07-22"
+    },
+    "yaskawa-ga800-vfd-f0013-fault-code": {
+      "topic": "Yaskawa GA800 VFD F0013 fault code",
+      "date": "2026-07-22"
+    },
+    "yaskawa-ga800-vfd-f0014-fault-code": {
+      "topic": "Yaskawa GA800 VFD F0014 fault code",
+      "date": "2026-07-22"
+    },
+    "yaskawa-ga800-vfd-f0015-fault-code": {
+      "topic": "Yaskawa GA800 VFD F0015 fault code",
+      "date": "2026-07-22"
+    },
+    "yaskawa-ga800-vfd-f0016-fault-code": {
+      "topic": "Yaskawa GA800 VFD F0016 fault code",
+      "date": "2026-07-22"
+    },
+    "yaskawa-ga800-vfd-f0017-fault-code": {
+      "topic": "Yaskawa GA800 VFD F0017 fault code",
+      "date": "2026-07-22"
+    },
+    "yaskawa-ga800-vfd-f0018-fault-code": {
+      "topic": "Yaskawa GA800 VFD F0018 fault code",
+      "date": "2026-07-22"
+    },
+    "yaskawa-ga800-vfd-f0019-fault-code": {
+      "topic": "Yaskawa GA800 VFD F0019 fault code",
+      "date": "2026-07-22"
+    },
+    "yaskawa-ga800-vfd-f0020-fault-code": {
+      "topic": "Yaskawa GA800 VFD F0020 fault code",
+      "date": "2026-07-22"
+    },
+    "yaskawa-ga800-vfd-f0021-fault-code": {
+      "topic": "Yaskawa GA800 VFD F0021 fault code",
+      "date": "2026-07-22"
+    },
+    "yaskawa-ga800-vfd-f0022-fault-code": {
+      "topic": "Yaskawa GA800 VFD F0022 fault code",
+      "date": "2026-07-22"
+    },
+    "yaskawa-ga800-vfd-f0023-fault-code": {
+      "topic": "Yaskawa GA800 VFD F0023 fault code",
+      "date": "2026-07-22"
+    },
+    "yaskawa-ga800-vfd-f0024-fault-code": {
+      "topic": "Yaskawa GA800 VFD F0024 fault code",
+      "date": "2026-07-22"
+    },
+    "yaskawa-ga800-vfd-f0025-fault-code": {
+      "topic": "Yaskawa GA800 VFD F0025 fault code",
+      "date": "2026-07-22"
+    },
+    "yaskawa-ga800-vfd-f0026-fault-code": {
+      "topic": "Yaskawa GA800 VFD F0026 fault code",
+      "date": "2026-07-22"
     }
   }
 }

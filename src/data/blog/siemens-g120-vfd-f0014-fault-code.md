@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drive technician if you are not familiar with VFD programming and parameter setup, as incorrect settings can damage the motor or create unsafe conditions. Professional help is necessary if the fault persists after verifying mechanical load and parameters, if motor current measurements are required under load, or if you need to perform insulation resistance testing on the motor windings. High-voltage work on three-phase industrial equipment requires proper training, PPE, and lockout-tagout procedures.
 
 **Rough cost:** A pro service call runs about $200-600.
+
+## See Also
+
+- [Siemens G120 F01659 - Causes & Fix](/posts/siemens-g120-f01659-fault-code/)
+- [Siemens Sinumerik Alarm 300204 — Causes & Fix](/posts/siemens-sinumerik-alarm-300204/)
+- [Siemens Micromaster F0011 - Causes & Fix](/posts/siemens-micromaster-vfd-f0011-fault-code/)
+- [Siemens Micromaster F0070 - Causes & Fix](/posts/siemens-micromaster-f0070-fault-code/)

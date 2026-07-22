@@ -4666,5 +4666,185 @@
     "score": 0,
     "reason": "No research provided to verify A0709 is a real Siemens Micromaster fault code; cannot confirm accuracy or that this code exists for this brand/product.",
     "date": "2026-07-21"
+  },
+  "siemens-micromaster-vfd-a0711-fault-code": {
+    "topic": "Siemens Micromaster VFD A0711 fault code",
+    "score": 2,
+    "reason": "No research provided to verify A0711 is a real Siemens Micromaster code; content is entirely speculative and generic without confirmation of code existence or meaning for this specific brand/model.",
+    "date": "2026-07-22"
+  },
+  "siemens-micromaster-vfd-a0910-fault-code": {
+    "topic": "Siemens Micromaster VFD A0910 fault code",
+    "score": 0,
+    "reason": "No research provided to verify A0910 is a real Siemens Micromaster fault code; cannot confirm authenticity, meaning, or that this code even exists for this brand/product.",
+    "date": "2026-07-22"
+  },
+  "siemens-micromaster-vfd-a0911-fault-code": {
+    "topic": "Siemens Micromaster VFD A0911 fault code",
+    "score": 0,
+    "reason": "No research provided to verify A0911 is a real Siemens Micromaster code; cannot confirm accuracy or that this isn't invented/borrowed from another system.",
+    "date": "2026-07-22"
+  },
+  "danfoss-fc302-vfd-warning-5-fault-code": {
+    "topic": "Danfoss FC302 VFD WARNING 5 fault code",
+    "score": 2,
+    "reason": "No research provided to verify WARNING 5 is a real, documented code for Danfoss FC302; content appears to be generic speculation without grounding in actual product documentation.",
+    "date": "2026-07-22"
+  },
+  "yaskawa-ga800-vfd-f0001-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0001 fault code",
+    "score": 0,
+    "reason": "FAIL: No research provided to verify F0001 is a real, documented fault code for the Yaskawa GA800 VFD specifically\u2014cannot confirm authenticity, meaning, or that content isn't borrowed from generic VFD troubleshooting.",
+    "date": "2026-07-22"
+  },
+  "yaskawa-ga800-vfd-f0002-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0002 fault code",
+    "score": 2,
+    "reason": "No research provided to verify F0002 is a real, documented fault code for the Yaskawa GA800; content admits exact meaning is unknown and provides only generic VFD troubleshooting speculation.",
+    "date": "2026-07-22"
+  },
+  "yaskawa-ga800-vfd-f0003-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0003 fault code",
+    "score": 3,
+    "reason": "No research provided to verify F0003 is a real/documented code for Yaskawa GA800; cannot confirm accuracy of meaning, causes, or troubleshooting steps for this specific brand and model.",
+    "date": "2026-07-22"
+  },
+  "yaskawa-ga800-vfd-f0004-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0004 fault code",
+    "score": 3,
+    "reason": "No research provided to verify F0004 is a real Yaskawa GA800 code; cannot confirm accuracy of meaning, causes, or troubleshooting steps for this specific brand and model.",
+    "date": "2026-07-22"
+  },
+  "yaskawa-ga800-vfd-f0005-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0005 fault code",
+    "score": 0,
+    "reason": "FAIL: No research provided to verify F0005 is a real, documented fault code for the Yaskawa GA800 VFD specifically\u2014cannot confirm accuracy or that content isn't invented/borrowed from other brands.",
+    "date": "2026-07-22"
+  },
+  "yaskawa-ga800-vfd-f0006-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0006 fault code",
+    "score": 0,
+    "reason": "No research provided to verify F0006 is a real, documented fault code for Yaskawa GA800 VFD; cannot confirm accuracy of meaning or causes without source material.",
+    "date": "2026-07-22"
+  },
+  "yaskawa-ga800-vfd-f0007-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0007 fault code",
+    "score": 3,
+    "reason": "No research provided to verify F0007 is a real, documented fault code for the Yaskawa GA800 VFD; content may be invented or borrowed from generic VFD troubleshooting without brand-specific validation.",
+    "date": "2026-07-22"
+  },
+  "yaskawa-ga800-vfd-f0008-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0008 fault code",
+    "score": 3,
+    "reason": "No research provided to verify F0008 is a real, documented code for Yaskawa GA800; cannot confirm accuracy of meaning or causes for this specific brand/model combination.",
+    "date": "2026-07-22"
+  },
+  "yaskawa-ga800-vfd-f0009-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0009 fault code",
+    "score": 2,
+    "reason": "No research provided to verify F0009 is a real, documented code for Yaskawa GA800; content admits the code meaning is unknown and varies, making it speculative filler rather than actionable technical guidance.",
+    "date": "2026-07-22"
+  },
+  "yaskawa-ga800-vfd-f0010-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0010 fault code",
+    "score": 3,
+    "reason": "No research provided to verify F0010 is a real Yaskawa GA800 code or that the stated meaning is accurate; cannot confirm accuracy without documentation, making this potentially invented content.",
+    "date": "2026-07-22"
+  },
+  "yaskawa-ga800-vfd-f0011-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0011 fault code",
+    "score": 2,
+    "reason": "No research provided to verify F0011 is a real Yaskawa GA800 code; content appears to be generic speculation without documentation, violating requirement #1 for verified accuracy.",
+    "date": "2026-07-22"
+  },
+  "yaskawa-ga800-vfd-f0012-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0012 fault code",
+    "score": 0,
+    "reason": "FAIL: No research provided to verify F0012 is a real documented fault code for Yaskawa GA800 VFD; content appears fabricated without source validation.",
+    "date": "2026-07-22"
+  },
+  "yaskawa-ga800-vfd-f0013-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0013 fault code",
+    "score": 3,
+    "reason": "No research provided to verify F0013 is a real/documented code for Yaskawa GA800; cannot confirm accuracy of meaning or causes without source documentation.",
+    "date": "2026-07-22"
+  },
+  "yaskawa-ga800-vfd-f0014-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0014 fault code",
+    "score": 3,
+    "reason": "No research provided to verify F0014 is a real Yaskawa GA800 code; cannot confirm accuracy of meaning/causes for this specific brand and model combination.",
+    "date": "2026-07-22"
+  },
+  "yaskawa-ga800-vfd-f0015-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0015 fault code",
+    "score": 0,
+    "reason": "FAIL: No research provided to verify F0015 is a real documented code for Yaskawa GA800 VFD; cannot confirm accuracy or that meaning isn't borrowed from another brand/model.",
+    "date": "2026-07-22"
+  },
+  "yaskawa-ga800-vfd-f0016-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0016 fault code",
+    "score": 3,
+    "reason": "No research provided to verify F0016 is a real, documented fault code for the Yaskawa GA800 VFD; content appears speculative without source confirmation.",
+    "date": "2026-07-22"
+  },
+  "yaskawa-ga800-vfd-f0017-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0017 fault code",
+    "score": 2,
+    "reason": "No research provided to verify F0017 is a real Yaskawa GA800 fault code; article admits meaning is unknown and advises consulting manual, making it uninformative filler rather than useful reference content.",
+    "date": "2026-07-22"
+  },
+  "yaskawa-ga800-vfd-f0018-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0018 fault code",
+    "score": 3,
+    "reason": "No research provided to verify F0018 is a real Yaskawa GA800 code; draft explicitly admits the code meaning is unknown and varies, making this unverifiable generic content rather than documented technical guidance.",
+    "date": "2026-07-22"
+  },
+  "yaskawa-ga800-vfd-f0019-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0019 fault code",
+    "score": 3,
+    "reason": "No research provided to verify F0019 is a real Yaskawa GA800 code; content appears fabricated without documented grounding, failing criterion #1.",
+    "date": "2026-07-22"
+  },
+  "yaskawa-ga800-vfd-f0020-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0020 fault code",
+    "score": 3,
+    "reason": "No research provided to verify F0020 is a real Yaskawa GA800 code; cannot confirm accuracy of meaning, causes, or procedures without documentation.",
+    "date": "2026-07-22"
+  },
+  "yaskawa-ga800-vfd-f0021-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0021 fault code",
+    "score": 3,
+    "reason": "No research provided to confirm F0021 is a real, documented fault code for the Yaskawa GA800; content is speculative guesswork admitting the code meaning is unknown, violating requirement for verified brand+model-specific accuracy.",
+    "date": "2026-07-22"
+  },
+  "yaskawa-ga800-vfd-f0022-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0022 fault code",
+    "score": 0,
+    "reason": "No research provided to verify F0022 is a real, documented fault code for the Yaskawa GA800 VFD; cannot confirm accuracy or that content is not invented/borrowed from other systems.",
+    "date": "2026-07-22"
+  },
+  "yaskawa-ga800-vfd-f0023-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0023 fault code",
+    "score": 3,
+    "reason": "No research provided to verify F0023 is a real/documented fault code for Yaskawa GA800; draft explicitly admits guessing without documentation, making this potentially fabricated content that could mislead technicians.",
+    "date": "2026-07-22"
+  },
+  "yaskawa-ga800-vfd-f0024-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0024 fault code",
+    "score": 2,
+    "reason": "No research provided to verify F0024 is a real, documented fault code for Yaskawa GA800; content is speculative and potentially fabricated without source verification.",
+    "date": "2026-07-22"
+  },
+  "yaskawa-ga800-vfd-f0025-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0025 fault code",
+    "score": 3,
+    "reason": "No research provided to verify F0025 is a real Yaskawa GA800 code or that the stated meaning is accurate; cannot confirm this isn't invented or borrowed from another model/brand.",
+    "date": "2026-07-22"
+  },
+  "yaskawa-ga800-vfd-f0026-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0026 fault code",
+    "score": 3,
+    "reason": "No research provided to verify F0026 is a real, documented fault code for the Yaskawa GA800 VFD; cannot confirm accuracy of meaning or causes without source documentation.",
+    "date": "2026-07-22"
   }
 }

@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or Navien-certified technician if you have cleaned the filters and verified adequate inlet pressure but the E218 code returns. Flow-sensor replacement requires disassembly of internal plumbing and careful handling of electronic connectors. If the heat exchanger needs descaling or flushing with a pump and chemical solution, a professional has the equipment and experience to avoid damaging the stainless-steel coils. Also call a pro if you suspect gas-valve or combustion issues, or if the unit is still under warranty and you want to preserve coverage.
 
 **Rough cost:** DIY runs about $15-50 in parts, 45-90 min. A pro service call runs about $150-300.
+
+## See Also
+
+- [Navien Water Heater Water Too Hot - Causes & Fix](/posts/navien-water-heater-water-too-hot/)
+- [Navien E321 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e321-error-code/)
+- [Navien E002 Error Code - Causes & Fix](/posts/navien-tankless-e002-error-code/)
+- [Navien Tankless Water Heater E171 Error - Causes & Fix](/posts/navien-tankless-water-heater-e171-error-code/)

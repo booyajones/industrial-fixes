@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or Navien-certified technician if you cannot clear the error after cleaning the filter and purging air, if you are uncomfortable working with 120V wiring and water connections, or if the circulation pump needs replacement. Gas-fired tankless heaters involve combustion controls and venting that require professional diagnostics. A technician has the tools to measure flow-sensor output, test pump voltage, and inspect the heat exchanger for scale buildup that may not be visible from outside the unit.
 
 **Rough cost:** A pro service call runs about $200-450.
+
+## See Also
+
+- [Navien NPE-240A2 Water Heater Problems & Error Codes](/posts/navien-npe-240a2-water-heater-problems/)
+- [Navien Water Heater No Hot Water - Causes & Fix](/posts/navien-water-heater-no-hot-water/)
+- [Navien E146 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e146-error-code/)
+- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
