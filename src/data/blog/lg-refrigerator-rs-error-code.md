@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a professional if you cannot locate the refrigerator sensor behind interior panels, if you are uncomfortable working with a multimeter to test resistance, or if replacing the sensor does not clear the rS code. A technician can trace the harness for hidden breaks, verify control-board inputs with diagnostic software, and address any related defrost or airflow issues that may contribute to sensor failures. Also call a pro if the refrigerator compartment shows heavy frost buildup or airflow blockage that suggests a secondary defrost fault requiring evaporator removal.
 
 **Rough cost:** DIY runs about $15-40 in parts, 30-60 min. A pro service call runs about $150-250 including service call and sensor.
+
+## See Also
+
+- [LG Dishwasher Won't Latch - Causes & Fix](/posts/lg-dishwasher-wont-latch/)
+- [LG Washer Won't Agitate - Causes & Fix](/posts/lg-washer-wont-agitate/)
+- [LG DLEX4000W Dryer Problems & Error Codes](/posts/lg-dlex4000w-dryer-problems/)
+- [LG Refrigerator rT Error Code - Causes & Fix](/posts/lg-refrigerator-rt-error-code/)

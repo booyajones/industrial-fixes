@@ -81,3 +81,10 @@ Answer these to narrow it down fast.
 Call a licensed technician if you are uncomfortable working with gas appliances, if the error persists after clearing vents and cleaning the flame rod, or if you suspect a gas pressure or gas valve problem. Professionals have the tools to measure combustion efficiency, test gas pressure, and diagnose control board and sensor faults safely. Because tankless water heaters involve both gas and electrical systems, improper repairs can create carbon monoxide hazards or void your warranty. If you see soot, smell gas, or notice the unit cycling on and off repeatedly, shut it down and call for service immediately.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien E615 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e615-error-code/)
+- [Navien E327 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e327-error-code/)
+- [Navien Tankless Water Heater E237 Error - Causes & Fix](/posts/navien-tankless-water-heater-e237-error-code/)
+- [Navien Water Heater No Hot Water - Causes & Fix](/posts/navien-water-heater-no-hot-water/)

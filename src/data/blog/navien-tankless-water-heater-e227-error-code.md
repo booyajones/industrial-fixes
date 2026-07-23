@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified Navien technician if you have cleaned and reseated all connectors and the E227 persists. Diagnosing which specific sensor or module is offline often requires a service manual, wiring diagram, and multimeter continuity checks that trace low-voltage circuits throughout the cabinet. A technician can also verify that the main control board is functioning correctly and that gas valve or flow-sensor circuits are intact. If your unit is under warranty, professional service may be required to preserve coverage.
 
 **Rough cost:** DIY runs about $0-80 in parts, 30-90 min. A pro service call runs about $120-280.
+
+## See Also
+
+- [Navien E317 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e317-error-code/)
+- [Navien NPE-240S Tankless Water Heater Error Codes - Full Fault Guide](/posts/navien-npe-240s-error-codes/)
+- [Navien E181 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e181-error-code/)
+- [Navien E132 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e132-error-code/)

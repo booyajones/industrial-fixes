@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified drive technician or electrician if the A0504 fault persists after a factory reset and power cycle, if multiple fault codes appear simultaneously, or if you are not comfortable working with industrial control equipment and three-phase power. Drive repair often requires specialized diagnostic tools, firmware update equipment, and experience with VFD parameter structures. A technician can also verify that external wiring and motor connections are not contributing to the fault, and can perform component-level diagnostics on the control board if replacement is needed.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Siemens Sinumerik Alarm 25201 — Causes & Fix](/posts/siemens-sinumerik-alarm-25201/)
+- [Siemens SINAMICS G120 VFD Complete Setup and Fault Code Guide](/posts/siemens-sinamics-g120-complete-guide/)
+- [Siemens SINAMICS G120 F00001 Fault — Causes & Fix](/posts/siemens-sinamics-g120-fault-f00001/)
+- [Siemens Micromaster F0221 - Causes & Fix](/posts/siemens-micromaster-vfd-f0221-fault-code/)

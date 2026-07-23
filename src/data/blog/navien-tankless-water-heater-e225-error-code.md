@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or Navien-certified technician if you are uncomfortable working with gas connections, if flushing and filter cleaning do not resolve the E225 code, or if you suspect a faulty pump or control board. Professionals have the tools to test gas pressure, measure flow rates, verify sensor calibration, and safely open the combustion chamber. Also call if the unit is still under warranty, as DIY repairs may void coverage. Gas-fired appliances require proper combustion analysis and venting checks that are beyond typical homeowner capability.
 
 **Rough cost:** A pro service call runs about $180-400.
+
+## See Also
+
+- [Navien Tankless E318 Error - Causes & Fix](/posts/navien-tankless-water-heater-e318-error-code/)
+- [Navien Tankless Water Heater E028 Error - Causes & Fix](/posts/navien-tankless-water-heater-e028-error-code/)
+- [Navien E322 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e322-error-code/)
+- [Navien Tankless Water Heater E168 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e168-error-code/)

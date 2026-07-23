@@ -71,3 +71,10 @@ Seeing a code on the display? These match this problem:
 ## When to Call a Pro
 
 Call a professional if you are not comfortable working with live voltage, removing interior panels, or testing electrical components with a multimeter. Technicians have model-specific wiring diagrams, resistance specifications, and board-level diagnostic tools that speed up accurate fault isolation. If the problem returns after a manual defrost or if multiple components test faulty, a qualified service visit will save time and prevent misdiagnosis.
+
+## See Also
+
+- [LG Dishwasher HE Error Code - Causes & Fix](/posts/lg-dishwasher-he-error-code/)
+- [LG Refrigerator Door Gasket Replacement - Signs & How-To](/posts/lg-refrigerator-door-gasket-door-seal-replacement/)
+- [LG Dishwasher Smells Bad - Causes & Fix](/posts/lg-dishwasher-smells-bad/)
+- [LG Dryer Takes Too Long to Dry - Causes & Fix](/posts/lg-dryer-takes-too-long-to-dry/)

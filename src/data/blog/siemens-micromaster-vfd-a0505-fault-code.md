@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or motor technician whenever you encounter an A0505 fault on a Siemens Micromaster drive. Diagnosing overcurrent conditions requires safe lockout procedures, high-voltage test equipment such as a megohmmeter, and the ability to interpret drive parameters and motor nameplate data. If you lack training in VFD commissioning or motor testing, a professional can quickly isolate whether the fault stems from the drive settings, motor windings, or mechanical load. Attempting repairs without proper knowledge risks equipment damage, electric shock, or fire.
 
 **Rough cost:** A pro service call runs about $200-600.
+
+## See Also
+
+- [Siemens G120 A01028 - Causes & Fix](/posts/siemens-g120-a01028-fault-code/)
+- [Siemens G120 F01015 - Causes & Fix](/posts/siemens-g120-f01015-fault-code/)
+- [Siemens G120 A01590 Fault Code - Causes & Fix](/posts/siemens-g120-a01590-fault-code/)
+- [Siemens Micromaster F0071 - Causes & Fix](/posts/siemens-micromaster-f0071-fault-code/)

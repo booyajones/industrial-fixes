@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working with 120V wiring, if sensor resistance testing is beyond your skill level, or if all wiring and sensors check out but the error persists. A technician has factory diagnostic software and can read live sensor data to pinpoint intermittent faults. Also call a pro if the unit is still under warranty, since DIY repairs may void coverage. Gas-fired appliances require proper venting and combustion analysis after any repair, so professional verification is recommended whenever internal components are replaced.
 
 **Rough cost:** DIY runs about $50-150 in parts, 1-2 hours. A pro service call runs about $180-350.
+
+## See Also
+
+- [Navien Tankless Water Heater E152 Error - Causes & Fix](/posts/navien-tankless-water-heater-e152-error-code/)
+- [Navien E038 Error Code - Causes & Fix](/posts/navien-tankless-e038-error-code/)
+- [Navien E241 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e241-error-code/)
+- [Navien E225 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e225-error-code/)

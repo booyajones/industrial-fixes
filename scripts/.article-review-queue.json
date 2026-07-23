@@ -4846,5 +4846,185 @@
     "score": 3,
     "reason": "No research provided to verify F0026 is a real, documented fault code for the Yaskawa GA800 VFD; cannot confirm accuracy of meaning or causes without source documentation.",
     "date": "2026-07-22"
+  },
+  "yaskawa-ga800-vfd-f0027-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0027 fault code",
+    "score": 0,
+    "reason": "No research provided to verify F0027 is a real, documented fault code for the Yaskawa GA800 VFD; cannot confirm accuracy or that meaning isn't invented/borrowed from other brands.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-f0028-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0028 fault code",
+    "score": 0,
+    "reason": "FAIL: No research provided to verify F0028 is a real, documented fault code for the Yaskawa GA800 VFD; cannot confirm accuracy of meaning or causes for this specific brand and model.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-f0029-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0029 fault code",
+    "score": 2,
+    "reason": "No research provided to confirm F0029 is a real, documented fault code for the Yaskawa GA800; content appears to be speculative filler without verification of this specific code's existence or meaning.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-f0030-fault-code": {
+    "topic": "Yaskawa GA800 VFD F0030 fault code",
+    "score": 0,
+    "reason": "No research provided to verify F0030 is a real Yaskawa GA800 code or that the stated meaning (ground fault) is correct for this specific brand and model; cannot validate accuracy without documentation.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-al-01-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-01 fault code",
+    "score": 3,
+    "reason": "No research provided to verify AL-01 is a real Yaskawa GA800 code or that the overcurrent diagnosis is accurate for this specific drive model; content appears to be generic VFD troubleshooting without brand-specific grounding.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-al-02-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-02 fault code",
+    "score": 0,
+    "reason": "No research provided to verify AL-02 is a real, documented fault code for the Yaskawa GA800 VFD; cannot confirm accuracy or that content is not fabricated from other brands.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-al-03-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-03 fault code",
+    "score": 3,
+    "reason": "No research provided to verify AL-03 is a real documented code for Yaskawa GA800; cannot confirm accuracy of meaning or causes without source verification.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-al-04-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-04 fault code",
+    "score": 3,
+    "reason": "No research provided to verify AL-04 is a real Yaskawa GA800 code or that the stated meaning is accurate; cannot publish technical repair guidance without source validation.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-al-05-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-05 fault code",
+    "score": 3,
+    "reason": "No research provided to verify AL-05 is a real/documented code for Yaskawa GA800 specifically; cannot confirm accuracy of meaning or causes without source documentation.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-al-06-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-06 fault code",
+    "score": 3,
+    "reason": "No research provided to verify AL-06 is a real Yaskawa GA800 code or that the brake transistor fault meaning is accurate for this specific model; cannot confirm authenticity without documentation.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-al-07-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-07 fault code",
+    "score": 3,
+    "reason": "No research provided to verify AL-07 is a real Yaskawa GA800 code or that the stated meaning is accurate for this specific brand/model; cannot publish unverified technical repair information.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-al-08-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-08 fault code",
+    "score": 3,
+    "reason": "No research provided to verify AL-08 is a real Yaskawa GA800 code or that the stated meaning (accelerating overcurrent) is accurate for this specific brand and model; cannot confirm authenticity without documentation.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-al-09-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-09 fault code",
+    "score": 3,
+    "reason": "No research provided to verify AL-09 is a real Yaskawa GA800 code or that the stated meaning (undervoltage) is accurate for this specific brand and model; cannot confirm authenticity without documentation.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-al-10-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-10 fault code",
+    "score": 3,
+    "reason": "No research provided to verify AL-10 is a real, documented code for Yaskawa GA800; content admits uncertainty about code meaning and relies on generic VFD troubleshooting without brand-specific grounding.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-al-11-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-11 fault code",
+    "score": 3,
+    "reason": "No research provided to verify AL-11 is a real, documented code for Yaskawa GA800; cannot confirm accuracy of meaning or causes without source documentation.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-al-12-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-12 fault code",
+    "score": 3,
+    "reason": "No research provided to verify AL-12 is a real Yaskawa GA800 code or that the undervoltage meaning is accurate for this specific drive model; cannot publish unverified technical repair content that could misguide technicians working with high-voltage equipment.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-al-13-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-13 fault code",
+    "score": 3,
+    "reason": "No research provided to verify AL-13 is a real Yaskawa GA800 code or that the ground fault definition is accurate for this specific drive model; cannot publish unverified technical repair information",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-al-14-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-14 fault code",
+    "score": 3,
+    "reason": "No research provided to verify AL-14 is a real Yaskawa GA800 code; cannot confirm accuracy of meaning, causes, or technical details without documentation.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-al-15-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-15 fault code",
+    "score": 0,
+    "reason": "No research provided to verify AL-15 is a real, documented fault code for the Yaskawa GA800 VFD \u2014 cannot confirm accuracy or that this isn't invented content.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-al-16-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-16 fault code",
+    "score": 0,
+    "reason": "FAIL: No research provided to verify AL-16 is a real/documented Yaskawa GA800 code or that the stated meaning is accurate; cannot publish unverified industrial equipment repair guidance.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-al-17-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-17 fault code",
+    "score": 2,
+    "reason": "No research provided to verify AL-17 is a real Yaskawa GA800 code or that the ground-fault definition is accurate for this specific model; content appears plausible but unverified and potentially invented.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-al-18-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-18 fault code",
+    "score": 3,
+    "reason": "No research provided to verify AL-18 is a real, documented code for Yaskawa GA800; cannot confirm accuracy of meaning or causes without source documentation.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-al-19-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-19 fault code",
+    "score": 2,
+    "reason": "No research provided to verify AL-19 is a real Yaskawa GA800 code or that the stated meaning is accurate; content appears speculative/invented without documentation.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-al-20-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-20 fault code",
+    "score": 0,
+    "reason": "No research provided to verify AL-20 is a real Yaskawa GA800 code or that the stated meaning/causes are accurate for this specific brand and model - cannot validate authenticity or correctness.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-al-21-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-21 fault code",
+    "score": 2,
+    "reason": "No research provided to verify AL-21 is a real Yaskawa GA800 code; publishing technical repair guidance without documented grounding is unsafe and potentially fabricated.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-al-22-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-22 fault code",
+    "score": 0,
+    "reason": "No research provided to verify AL-22 is a real Yaskawa GA800 code or that the thermal/cooling-fan meaning is correct for this specific drive model; cannot confirm accuracy without documentation.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-al-23-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-23 fault code",
+    "score": 2,
+    "reason": "No research provided to verify AL-23 is a real, documented code for Yaskawa GA800; content is speculative generic VFD troubleshooting without confirmed accuracy for this specific brand/model/code combination.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-al-24-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-24 fault code",
+    "score": 0,
+    "reason": "FAIL: No research provided to verify AL-24 is a real Yaskawa GA800 code or that the stated meaning is accurate\u2014cannot publish unverified technical repair information.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-al-25-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-25 fault code",
+    "score": 3,
+    "reason": "No research provided to verify AL-25 is a real, documented code for Yaskawa GA800; content appears speculative without source verification required for technical accuracy.",
+    "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-al-26-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-26 fault code",
+    "score": 0,
+    "reason": "No research provided to verify AL-26 is a real Yaskawa GA800 code; content appears to be generic communication fault guidance without brand-specific validation.",
+    "date": "2026-07-23"
   }
 }

@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a qualified technician if the drive continues to fault after cleaning and fan replacement, or if you find signs of component damage such as discoloration on the circuit board or burnt odors. Professional diagnostics are also needed if you lack the tools to measure motor current and verify load conditions, or if the drive operates in a mission-critical application where downtime must be minimized. High-voltage experience is necessary when working inside the drive enclosure, especially near the DC bus and power terminals.
 
 **Rough cost:** DIY runs about $30-120 in parts, 45-90 min. A pro service call runs about $200-450.
+
+## See Also
+
+- [Siemens Micromaster VFD A0504 Fault - Causes & Fix](/posts/siemens-micromaster-vfd-a0504-fault-code/)
+- [Siemens SENTRON 3WL/3VA Fault Codes — Troubleshooting Guide](/posts/siemens-sentron-fault-codes/)
+- [Siemens G120 F30002 - Causes & Fix](/posts/siemens-g120-f30002-fault-code/)
+- [Siemens Micromaster F0070 - Causes & Fix](/posts/siemens-micromaster-vfd-f0070-fault-code/)

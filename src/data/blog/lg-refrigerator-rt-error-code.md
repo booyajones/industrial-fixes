@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a professional if you cannot safely access the sensor location (for example, behind a sealed evaporator cover that requires refrigerant recovery), if ohm-testing and wiring checks are unfamiliar, or if the code returns after you have replaced the sensor and verified all harness continuity. Technicians carry model-specific resistance tables, can perform board-level input testing, and will warranty both parts and labor. Refrigerant work is never DIY, but the rT sensor circuit itself does not involve the sealed system or high voltage and is otherwise a straightforward swap for a confident home repairer with a multimeter.
 
 **Rough cost:** DIY runs about $15-35 in parts, 20-40 min. A pro service call runs about $120-220 service call.
+
+## See Also
+
+- [LG Dishwasher Leaking - Causes & Fix](/posts/lg-dishwasher-leaking/)
+- [LG Oven F6 Error Code - Causes & Fix](/posts/lg-oven-f6-error-code/)
+- [LG LMXS28626S Refrigerator Problems & Error Codes](/posts/lg-lmxs28626s-refrigerator-problems/)
+- [LG Refrigerator CO Error Code - Causes & Fix](/posts/lg-refrigerator-co-error-code/)

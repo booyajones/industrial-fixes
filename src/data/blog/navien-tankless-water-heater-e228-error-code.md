@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed technician if the error returns after reseating connectors and a full power cycle, if you lack a multimeter to test sensor resistance, or if you discover burnt or melted wiring that requires tracing through the cabinet. Professionals have factory diagnostic software that reads real-time sensor values and can pinpoint whether the fault is in a sensor, harness, or the main board without trial-and-error part swaps. Also call a pro if you are uncomfortable working near gas lines or if your unit is still under warranty, since self-repair may void coverage.
 
 **Rough cost:** DIY runs about $0-80 in parts, 20-45 min. A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien E321 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e321-error-code/)
+- [Navien Water Heater Pilot Won't Stay Lit - Causes & Fix](/posts/navien-water-heater-pilot-wont-stay-lit/)
+- [Navien E239 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e239-error-code/)
+- [Navien NPE-240A2 Water Heater Problems & Error Codes](/posts/navien-npe-240a2-water-heater-problems/)

@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drive technician if cleaning and fan replacement do not resolve the fault, if you lack the tools or training to work safely inside the drive, or if the fault persists despite normal ambient conditions and proper ventilation. High-voltage DC bus capacitors inside the drive can remain charged and lethal even after input power is disconnected. A professional can perform thermal imaging, verify power module integrity, check internal sensor readings, and adjust advanced parameters to match the load profile. If the drive continues to overheat with no obvious external cause, the power stage or internal components may be damaged and require factory repair or replacement.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Siemens G120 F01040 - Causes & Fix](/posts/siemens-g120-f01040-fault-code/)
+- [Siemens G120 A01028 - Causes & Fix](/posts/siemens-g120-a01028-fault-code/)
+- [Siemens G120 F01044 - Causes & Fix](/posts/siemens-g120-vfd-f01044-fault-code/)
+- [Siemens Micromaster F0060 - Causes & Fix](/posts/siemens-micromaster-f0060-fault-code/)

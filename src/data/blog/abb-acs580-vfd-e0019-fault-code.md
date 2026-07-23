@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or ABB authorized service provider if you are uncomfortable working inside the drive enclosure or if the fault persists after basic resets and connector checks. High-voltage DC bus capacitors remain charged for several minutes after power-off and can deliver a lethal shock. A technician will have the proper discharge tools, diagnostic software, and access to OEM replacement boards. Professional service is also recommended when the drive is under warranty, as opening the enclosure may void coverage. If your facility relies on the VFD for critical production, have a technician diagnose and repair the fault to minimize downtime and prevent further damage.
 
 **Rough cost:** A pro service call runs about $300-800.
+
+## See Also
+
+- [ABB ACS580 A4A1 Fault - Causes & Fix](/posts/abb-acs580-vfd-a4a1-fault-code/)
+- [ABB ACS580 VFD E0035 Fault Code - Causes & Fix](/posts/abb-acs580-vfd-e0035-fault-code/)
+- [ABB ACS580 A7CE Fault Code - Causes & Fix](/posts/abb-acs580-a7ce-fault-code/)
+- [ABB ACS580 Fault 3220 — DC Undervoltage Fix](/posts/abb-acs580-fault-3220/)

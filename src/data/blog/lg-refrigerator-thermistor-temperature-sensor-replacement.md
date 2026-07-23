@@ -66,3 +66,10 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 If the new thermistor tests within specification but the temperature complaint or error code persists, the problem lies elsewhere in the cooling system: blocked airflow, failed evaporator fan, defrost system failure, or a faulty main control board. Diagnosing those requires checking defrost thermistors, thermal fuses, fan motors, and control board inputs. If you are not comfortable removing multiple panels, handling refrigerant-side components, or interpreting resistance charts, call a qualified appliance technician to complete the diagnosis and repair.
+
+## See Also
+
+- [LG Dryer D80 Error Code - Causes & Fix](/posts/lg-dryer-d80-error-code/)
+- [LG Oven F19 Error Code - Causes & Fix](/posts/lg-oven-f19-error-code/)
+- [LG Dishwasher AE Error Code - Causes & Fix](/posts/lg-washer-ae-error-code/)
+- [LG Oven F1 Error Code - Causes & Fix](/posts/lg-oven-f1-error-code/)

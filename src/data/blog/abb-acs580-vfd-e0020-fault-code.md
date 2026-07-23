@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drive technician if you lack experience with three-phase power, VFD programming, or motor testing equipment. High-voltage DC bus capacitors inside the drive remain charged and dangerous even after input power is removed. A technician can perform megohm testing, current signature analysis, and drive component-level diagnostics that require specialized tools and safety training. If the fault persists after correcting parameters and verifying mechanical freedom, the drive may need factory repair or replacement, which should be handled by an authorized service center to preserve warranty coverage.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [ABB ACS580 VFD E0038 Fault - Causes & Fix](/posts/abb-acs580-vfd-e0038-fault-code/)
+- [ABB ACS550 EFB3 Fault - Causes & Fix](/posts/abb-acs550-efb3-fault-code/)
+- [ABB VFD Fault 3130 — Input Phase Loss Fix](/posts/abb-vfd-fault-3130/)
+- [ABB ACS580 VFD E0039 Fault - Causes & Fix](/posts/abb-acs580-vfd-e0039-fault-code/)
