@@ -70,3 +70,10 @@ Seeing a code on the display? These match this problem:
 ## When to Call a Pro
 
 Call a professional if you've unlocked Control Lock, confirmed the door switches work, verified water supply and pressure, replaced the filter, and thawed any frozen lines but still get no water. Technician-level diagnosis includes checking for voltage at the inlet valve during a dispense call, testing coil continuity, and tracing the dispenser control circuit. If an error code is displayed on the panel, a pro can cross-reference it with LG service documentation for your exact model and avoid unnecessary part swaps.
+
+## See Also
+
+- [LG Dryer Moisture Sensor & Thermistor Replacement - Signs & How-To](/posts/lg-dryer-moisture-sensor-thermistor-replacement/)
+- [LG Mini-Split CH03 Error - Causes & Fix](/posts/lg-mini-split-ch03-error-code/)
+- [LG Microwave F-5 Error Code - Causes & Fix](/posts/lg-microwave-f-5-error-code/)
+- [LG Washer Tub Bearing Replacement - Signs & How-To](/posts/lg-washer-tub-drum-bearing-replacement/)

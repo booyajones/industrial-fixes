@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or gas technician if free checks and sensor cleaning do not resolve the E232 code. Adjusting gas pressure, verifying proper combustion air ratios, testing thermistor resistance with a multimeter, and performing a heat-exchanger descale all require specialized tools and knowledge of combustion appliance safety. Any work involving gas connections, sealed combustion chambers, or electronic control diagnostics should be left to a qualified service provider familiar with Navien tankless systems.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien NCB-700 Combination Boiler Error Codes - Full Fault Guide](/posts/navien-ncb-700-error-codes/)
+- [Navien E134 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e134-error-code/)
+- [Navien E253 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e253-error-code/)
+- [Navien Tankless Water Heater E191 Error - Causes & Fix](/posts/navien-tankless-water-heater-e191-error-code/)

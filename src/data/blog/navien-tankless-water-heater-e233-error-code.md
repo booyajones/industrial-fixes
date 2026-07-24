@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or HVAC technician if you are not comfortable working with gas appliances, if the venting system requires modification or repair, or if the error persists after clearing blockages and restarting. A professional can perform a combustion analysis, measure gas pressure, descale the heat exchanger, and safely test or replace the exhaust temperature sensor. Because this code involves combustion safety and potential carbon monoxide risks, professional diagnosis is the safest choice when the cause is not immediately obvious.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Navien Tankless Water Heater Cold Water Inlet Valve Replacement](/posts/navien-water-heater-water-inlet-valve-cold-water-isolation-valve-kit-tankless-replacement/)
+- [Navien E132 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e132-error-code/)
+- [Navien Tankless Water Heater E177 Error - Causes & Fix](/posts/navien-tankless-water-heater-e177-error-code/)
+- [Navien Water Heater No Hot Water - Causes & Fix](/posts/navien-water-heater-no-hot-water/)

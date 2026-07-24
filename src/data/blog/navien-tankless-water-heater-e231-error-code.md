@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed technician if you are uncomfortable working with gas appliances or if the error persists after cleaning the flame rod and verifying gas supply. Tankless water heaters require precise combustion tuning, and incorrect gas pressure or venting can create safety hazards. A pro will use a manometer to measure gas pressure, test flame current with a microamp meter, and inspect the heat exchanger and venting system for blockages. Any work involving the gas valve, pressure regulation, or sealed combustion components should be left to qualified service personnel.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien E040 Error Code - Causes & Fix](/posts/navien-tankless-e040-error-code/)
+- [Navien E109 Error - Causes & Fix](/posts/navien-tankless-water-heater-e109-error-code/)
+- [Navien Error Code E021 — Cold Water Inlet Thermistor Fault Fix](/posts/navien-error-code-e021/)
+- [Navien E302 Error Code — Causes & Fix](/posts/navien-error-code-e302/)

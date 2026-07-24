@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a technician if you have dried the base pan and confirmed the machine is level but the AE code returns immediately on every cycle, since a hidden tub crack or a failed sump seal requires disassembly and parts that are not stocked at most hardware stores. Also get professional help if you find water leaking from the circulation pump housing or the tub-to-pump boot, because those repairs involve removing the spray-arm assembly and lower pump cover. If the float switch itself is physically broken or the wiring harness to the switch is corroded, a pro can test continuity and replace the switch quickly without trial-and-error part swaps.
 
 **Rough cost:** DIY runs about $15-40 for a door gasket or hose clamp, 30-60 min. A pro service call runs about $120-220 for service call and gasket replacement.
+
+## See Also
+
+- [LG Mini-Split CH05 Error - Causes & Fix](/posts/lg-mini-split-ch-05-error-code/)
+- [LG Mini Split Not Responding to Remote - Causes & Fix](/posts/lg-mini-split-not-responding-to-remote/)
+- [LG Microwave F17 Error Code - Causes & Fix](/posts/lg-microwave-f17-error-code/)
+- [LG Washer LE Error Code - Causes & Fix](/posts/lg-range-le-error-code/)

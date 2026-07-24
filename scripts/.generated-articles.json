@@ -8167,6 +8167,126 @@
     "yaskawa-ga800-vfd-al-26-fault-code": {
       "topic": "Yaskawa GA800 VFD AL-26 fault code",
       "date": "2026-07-23"
+    },
+    "yaskawa-ga800-vfd-al-27-fault-code": {
+      "topic": "Yaskawa GA800 VFD AL-27 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-ga800-vfd-al-28-fault-code": {
+      "topic": "Yaskawa GA800 VFD AL-28 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-ga800-vfd-al-29-fault-code": {
+      "topic": "Yaskawa GA800 VFD AL-29 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-ga800-vfd-al-30-fault-code": {
+      "topic": "Yaskawa GA800 VFD AL-30 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-ga800-vfd-al-31-fault-code": {
+      "topic": "Yaskawa GA800 VFD AL-31 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-ga800-vfd-al-32-fault-code": {
+      "topic": "Yaskawa GA800 VFD AL-32 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-ga800-vfd-al-33-fault-code": {
+      "topic": "Yaskawa GA800 VFD AL-33 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-ga800-vfd-al-34-fault-code": {
+      "topic": "Yaskawa GA800 VFD AL-34 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-ga800-vfd-al-35-fault-code": {
+      "topic": "Yaskawa GA800 VFD AL-35 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-ga800-vfd-al-36-fault-code": {
+      "topic": "Yaskawa GA800 VFD AL-36 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-ga800-vfd-al-37-fault-code": {
+      "topic": "Yaskawa GA800 VFD AL-37 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-ga800-vfd-al-38-fault-code": {
+      "topic": "Yaskawa GA800 VFD AL-38 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-ga800-vfd-al-39-fault-code": {
+      "topic": "Yaskawa GA800 VFD AL-39 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-ga800-vfd-al-40-fault-code": {
+      "topic": "Yaskawa GA800 VFD AL-40 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-a1000-vfd-e01-fault-code": {
+      "topic": "Yaskawa A1000 VFD E01 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-a1000-vfd-e02-fault-code": {
+      "topic": "Yaskawa A1000 VFD E02 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-a1000-vfd-e03-fault-code": {
+      "topic": "Yaskawa A1000 VFD E03 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-a1000-vfd-e04-fault-code": {
+      "topic": "Yaskawa A1000 VFD E04 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-a1000-vfd-e05-fault-code": {
+      "topic": "Yaskawa A1000 VFD E05 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-a1000-vfd-e07-fault-code": {
+      "topic": "Yaskawa A1000 VFD E07 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-a1000-vfd-e08-fault-code": {
+      "topic": "Yaskawa A1000 VFD E08 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-a1000-vfd-e09-fault-code": {
+      "topic": "Yaskawa A1000 VFD E09 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-a1000-vfd-e10-fault-code": {
+      "topic": "Yaskawa A1000 VFD E10 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-a1000-vfd-e11-fault-code": {
+      "topic": "Yaskawa A1000 VFD E11 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-a1000-vfd-e12-fault-code": {
+      "topic": "Yaskawa A1000 VFD E12 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-a1000-vfd-e13-fault-code": {
+      "topic": "Yaskawa A1000 VFD E13 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-a1000-vfd-e14-fault-code": {
+      "topic": "Yaskawa A1000 VFD E14 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-a1000-vfd-e15-fault-code": {
+      "topic": "Yaskawa A1000 VFD E15 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-a1000-vfd-e16-fault-code": {
+      "topic": "Yaskawa A1000 VFD E16 fault code",
+      "date": "2026-07-24"
+    },
+    "yaskawa-a1000-vfd-e17-fault-code": {
+      "topic": "Yaskawa A1000 VFD E17 fault code",
+      "date": "2026-07-24"
     }
   }
 }

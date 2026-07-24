@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified drives technician or electrician if you cannot clear the fault after cleaning and verifying parameters, if the drive trips immediately at no load, or if you suspect internal power-stage damage. High-voltage DC bus capacitors inside the drive remain charged long after input power is removed and can deliver a lethal shock. A technician with insulated tools and proper test equipment can safely measure gate-driver signals, IGBT junction temperatures, and DC bus ripple to pinpoint failed semiconductors. Any work inside the drive enclosure or on three-phase wiring should be performed by someone trained in industrial electrical systems.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Siemens Micromaster F0002 - Causes & Fix](/posts/siemens-micromaster-f0002-fault-code/)
+- [Siemens G120 A01028 - Causes & Fix](/posts/siemens-g120-a01028-fault-code/)
+- [Siemens Micromaster VFD A0503 Fault - Causes & Fix](/posts/siemens-micromaster-vfd-a0503-fault-code/)
+- [Siemens Micromaster VFD A0711 Fault - Causes & Fix](/posts/siemens-micromaster-vfd-a0711-fault-code/)

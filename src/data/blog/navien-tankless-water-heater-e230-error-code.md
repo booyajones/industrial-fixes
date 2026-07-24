@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a professional if you cannot safely access the outdoor vent termination, if you are uncomfortable working with gas appliances, or if the error returns after you have cleared obvious blockages. Exhaust system faults involve combustion safety, so accurate diagnosis with a manometer and combustion analyzer is often required. A technician can measure actual exhaust pressure, test the fan motor under load, and verify that the venting is sized and installed correctly. Any work involving gas connections, control board replacement, or modifications to the venting system should be left to a licensed plumber or HVAC technician.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Navien NPE-180S2 Problems & Error Codes](/posts/navien-npe-180s2-water-heater-problems/)
+- [Navien E317 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e317-error-code/)
+- [Navien E336 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e336-error-code/)
+- [Navien E004 Error Code - Causes & Fix](/posts/navien-tankless-e004-error-code/)

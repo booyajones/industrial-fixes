@@ -5026,5 +5026,185 @@
     "score": 0,
     "reason": "No research provided to verify AL-26 is a real Yaskawa GA800 code; content appears to be generic communication fault guidance without brand-specific validation.",
     "date": "2026-07-23"
+  },
+  "yaskawa-ga800-vfd-al-27-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-27 fault code",
+    "score": 2,
+    "reason": "No research provided to verify AL-27 is a real, documented code for Yaskawa GA800; content appears speculative and potentially invented without source validation.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-ga800-vfd-al-28-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-28 fault code",
+    "score": 0,
+    "reason": "No research provided to verify AL-28 is a real Yaskawa GA800 code or that the stated meanings are accurate; cannot publish unverified technical repair information.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-ga800-vfd-al-29-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-29 fault code",
+    "score": 0,
+    "reason": "FAIL: No research provided to verify AL-29 is a real, documented code for the Yaskawa GA800 VFD; cannot confirm accuracy of meaning or causes without source documentation.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-ga800-vfd-al-30-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-30 fault code",
+    "score": 0,
+    "reason": "No research provided to verify AL-30 is a real Yaskawa GA800 fault code; content appears to be fabricated without documented source material.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-ga800-vfd-al-31-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-31 fault code",
+    "score": 0,
+    "reason": "No research provided to verify AL-31 is a real Yaskawa GA800 code or that the stated meaning is accurate; cannot confirm accuracy without documentation.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-ga800-vfd-al-32-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-32 fault code",
+    "score": 2,
+    "reason": "No research provided to verify AL-32 is a real, documented code for Yaskawa GA800; content is speculative generic VFD troubleshooting without brand-specific grounding.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-ga800-vfd-al-33-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-33 fault code",
+    "score": 3,
+    "reason": "No research provided to verify AL-33 is a real Yaskawa GA800 code or that the stated meaning is accurate; cannot confirm this isn't invented or borrowed from another brand/model.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-ga800-vfd-al-34-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-34 fault code",
+    "score": 0,
+    "reason": "No research provided to verify AL-34 is a real, documented fault code for the Yaskawa GA800; content appears speculative/invented without source confirmation.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-ga800-vfd-al-35-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-35 fault code",
+    "score": 3,
+    "reason": "No research provided to verify AL-35 is a real Yaskawa GA800 code; cannot confirm accuracy of meaning, causes, or troubleshooting steps for this specific brand and model.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-ga800-vfd-al-36-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-36 fault code",
+    "score": 0,
+    "reason": "No research provided to verify AL-36 is a real Yaskawa GA800 code; cannot confirm accuracy, meaning, or that this code even exists for this specific drive model.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-ga800-vfd-al-37-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-37 fault code",
+    "score": 2,
+    "reason": "No research provided to verify AL-37 is a real Yaskawa GA800 code; content admits exact meaning is unknown and varies, making this speculative filler rather than documented technical guidance.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-ga800-vfd-al-38-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-38 fault code",
+    "score": 3,
+    "reason": "No research provided to verify AL-38 is a real Yaskawa GA800 code or that the stated meaning is accurate; cannot confirm this isn't invented or borrowed from another brand.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-ga800-vfd-al-39-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-39 fault code",
+    "score": 3,
+    "reason": "No research provided to verify AL-39 is a real, documented fault code for Yaskawa GA800 VFD; cannot confirm accuracy of meaning or causes without source documentation.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-ga800-vfd-al-40-fault-code": {
+    "topic": "Yaskawa GA800 VFD AL-40 fault code",
+    "score": 0,
+    "reason": "FAIL: No research provided to verify AL-40 is a real Yaskawa GA800 code or that the stated meaning/causes are accurate for this specific brand and model; cannot publish unverified technical repair information.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-a1000-vfd-e01-fault-code": {
+    "topic": "Yaskawa A1000 VFD E01 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E01 is a real Yaskawa A1000 code or that the over-current meaning is accurate for this specific drive model; cannot validate without documentation.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-a1000-vfd-e02-fault-code": {
+    "topic": "Yaskawa A1000 VFD E02 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E02 is a real, documented fault code for the Yaskawa A1000 VFD; cannot confirm accuracy of meaning or causes without source documentation.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-a1000-vfd-e03-fault-code": {
+    "topic": "Yaskawa A1000 VFD E03 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E03 is a real, documented Yaskawa A1000 code; cannot confirm accuracy of meaning, causes, or troubleshooting steps for this specific brand/model combination.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-a1000-vfd-e04-fault-code": {
+    "topic": "Yaskawa A1000 VFD E04 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E04 is a real Yaskawa A1000 code with this specific meaning; content may be accurate but cannot be validated against zero sources.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-a1000-vfd-e05-fault-code": {
+    "topic": "Yaskawa A1000 VFD E05 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E05 is a real Yaskawa A1000 code or that the overcurrent meaning is accurate for this specific drive model; cannot confirm authenticity without documentation.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-a1000-vfd-e07-fault-code": {
+    "topic": "Yaskawa A1000 VFD E07 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E07 is a real Yaskawa A1000 fault code; content appears plausible but unverified and potentially invented without documentation.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-a1000-vfd-e08-fault-code": {
+    "topic": "Yaskawa A1000 VFD E08 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E08 is a real Yaskawa A1000 code or that the meaning/causes are accurate for this specific brand and model; cannot confirm authenticity or correctness without documentation.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-a1000-vfd-e09-fault-code": {
+    "topic": "Yaskawa A1000 VFD E09 fault code",
+    "score": 0,
+    "reason": "FAIL: Zero research provided to verify E09 is a real, documented fault code for the Yaskawa A1000 VFD; cannot confirm accuracy of meaning, causes, or fixes without manufacturer documentation.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-a1000-vfd-e10-fault-code": {
+    "topic": "Yaskawa A1000 VFD E10 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E10 is a real Yaskawa A1000 code or that the stated meaning is accurate for this specific brand/model; cannot confirm authenticity or correctness without documentation.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-a1000-vfd-e11-fault-code": {
+    "topic": "Yaskawa A1000 VFD E11 fault code",
+    "score": 2,
+    "reason": "No research provided to verify E11 is a real, documented code for Yaskawa A1000; content appears technically plausible but unverified and potentially fabricated.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-a1000-vfd-e12-fault-code": {
+    "topic": "Yaskawa A1000 VFD E12 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E12 is a real Yaskawa A1000 fault code or that the stated meaning (inverter overcurrent) is correct for this specific brand/model; cannot confirm accuracy without documentation.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-a1000-vfd-e13-fault-code": {
+    "topic": "Yaskawa A1000 VFD E13 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E13 is a real Yaskawa A1000 code or confirm the stated meaning; content appears plausible but unverified and potentially invented.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-a1000-vfd-e14-fault-code": {
+    "topic": "Yaskawa A1000 VFD E14 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E14 is a real/documented code for Yaskawa A1000 VFD; cannot confirm accuracy of meaning or causes without source documentation.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-a1000-vfd-e15-fault-code": {
+    "topic": "Yaskawa A1000 VFD E15 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E15 is a real, documented fault code for the Yaskawa A1000 VFD; cannot confirm accuracy of meaning or causes without source documentation.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-a1000-vfd-e16-fault-code": {
+    "topic": "Yaskawa A1000 VFD E16 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E16 is a real, documented fault code for Yaskawa A1000 VFD; cannot confirm accuracy or that content isn't invented/borrowed from other brands.",
+    "date": "2026-07-24"
+  },
+  "yaskawa-a1000-vfd-e17-fault-code": {
+    "topic": "Yaskawa A1000 VFD E17 fault code",
+    "score": 2,
+    "reason": "No research provided to verify E17 is a real Yaskawa A1000 fault code or that the stated meaning is accurate; cannot confirm authenticity or correctness without documentation.",
+    "date": "2026-07-24"
   }
 }

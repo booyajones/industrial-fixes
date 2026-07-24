@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or Navien-certified technician if you are uncomfortable working inside the unit, if the error returns after a sensor replacement, or if you suspect a control board fault. Gas-fired tankless heaters require precise diagnostics and safe handling of both gas and electrical systems. A technician can perform voltage tests, check ground continuity, and verify that the new sensor communicates correctly with the board. Professional service also preserves your warranty and complies with local codes.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien Tankless E308 Error - Causes & Fix](/posts/navien-tankless-water-heater-e308-error-code/)
+- [Navien E235 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e235-error-code/)
+- [Navien Tankless Water Heater E224 Error - Causes & Fix](/posts/navien-tankless-water-heater-e224-error-code/)
+- [Navien Tankless Water Heater E153 Error - Causes & Fix](/posts/navien-tankless-water-heater-e153-error-code/)
