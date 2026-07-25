@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or Navien-certified technician if you find no obvious vent blockages and the error persists. Diagnosing a faulty APS requires a multimeter to test pressure switch continuity and may involve inspecting the combustion chamber and gas valve. Because tankless water heaters involve gas and combustion safety, any work beyond clearing vents or reseating connectors should be handled by a professional. A technician can also verify that the venting was installed to code and that no exhaust gas spillage is occurring.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien Tankless Water Heater E243 Error - Causes & Fix](/posts/navien-tankless-water-heater-e243-error-code/)
+- [Navien Tankless Water Heater Error Codes — Complete Guide](/posts/navien-error-codes/)
+- [Navien E235 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e235-error-code/)
+- [Navien E227 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e227-error-code/)

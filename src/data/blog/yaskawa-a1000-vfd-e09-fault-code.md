@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or controls integrator if you are not familiar with serial communication protocols, if the drive is part of a safety-rated system, or if you cannot identify which parameters control the network settings. High-voltage DC bus capacitors inside the drive remain charged after power-off and pose a shock hazard. Professional troubleshooting also includes oscilloscope analysis of bus signals and firmware updates that require proprietary Yaskawa software. If the E09 fault persists after verifying all parameters and cables, the drive may need factory service or replacement of the main control board, work that should only be performed by trained personnel.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Yaskawa GA800 A.124 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-124-fault-code/)
+- [Yaskawa A1000 VFD E20 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-e20-fault-code/)
+- [Yaskawa GA800 VFD F0013 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f0013-fault-code/)
+- [Yaskawa A1000 oP Fault Code - Causes & Fix](/posts/yaskawa-a1000-vfd-op-fault-code/)

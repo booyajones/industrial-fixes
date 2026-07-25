@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drive technician if you lack a megohmmeter or are unfamiliar with high-voltage DC bus safety. VFDs store lethal voltage in capacitors even after input power is removed. A professional should handle all internal drive inspection, IGBT testing, and any work involving the DC bus or control boards. If you have confirmed the motor and cables are sound but the fault persists, the drive itself may need board-level repair or replacement, which requires factory training and specialized test equipment.
 
 **Rough cost:** A pro service call runs about $200-600.
+
+## See Also
+
+- [Yaskawa GA800 E83 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e83-fault-code/)
+- [Yaskawa GA800 Er-04 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f049-fault-code/)
+- [Yaskawa GA800 E87 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e87-fault-code/)
+- [Yaskawa GA800 E52 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e52-fault-code/)

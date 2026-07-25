@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a professional electrician or drives technician whenever you lack the training or tools to safely work on live or high-voltage equipment, or if insulation testing and parameter checks do not resolve the E07 fault. VFD troubleshooting requires a working knowledge of three-phase power, motor control theory, and safe high-voltage practices. If the fault reappears after correcting wiring and parameters, internal drive components may need repair or replacement, which should only be performed by qualified personnel with access to OEM parts and test equipment.
 
 **Rough cost:** A pro service call runs about $300-800.
+
+## See Also
+
+- [Yaskawa GA800 A.144 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-144-fault-code/)
+- [Yaskawa GA800 E80 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e80-fault-code/)
+- [Yaskawa GA800 F041 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f041-fault-code/)
+- [Yaskawa GA800 A.115 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-115-fault-code/)

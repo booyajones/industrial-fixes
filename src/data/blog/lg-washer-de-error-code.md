@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a professional if you have checked and cleared all obstructions, reset the washer, confirmed the door closes flush and the strike is aligned, yet the dE code returns immediately on every cycle. A technician can perform electrical tests on the door lock circuit and the main control board to isolate whether the lock assembly is sending the correct signals or whether the board itself has failed. Also call a pro if the door hinge is badly warped or the outer tub mounting has shifted, since realigning heavy front-load door hardware or repositioning the tub requires special tools and experience to avoid damage to the drum suspension or cabinet.
 
 **Rough cost:** DIY runs about $40-80 in parts, 30-60 min. A pro service call runs about $150-250.
+
+## See Also
+
+- [LG Dryer Not Heating - Causes & Fix](/posts/lg-dryer-not-heating/)
+- [LG Oven Door Won't Lock - Causes & Fix](/posts/lg-oven-door-wont-lock/)
+- [LG Oven Not Heating - Causes & Fix](/posts/lg-oven-not-heating/)
+- [LG Washer Door Won't Unlock - Causes & Fix](/posts/lg-washer-door-wont-unlock/)

@@ -68,3 +68,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 If the burning smell continues after you have cleaned the gasket, filter, and tub, run Tub Clean, and allowed 10 to 20 cycles for a new machine to break in, contact an LG service technician. LG says persistent odors can indicate an installation problem, wiring fault, or defective motor or heater that requires professional diagnosis and replacement.
+
+## See Also
+
+- [LG Range HE Error Code - Causes & Fix](/posts/lg-range-he-error-code/)
+- [LG Mini Split CH10 Error Code — Causes & Fix](/posts/lg-mini-split-ch10-error-code/)
+- [LG Refrigerator Freezing Food - Causes & Fix](/posts/lg-refrigerator-freezing-food/)
+- [LG Washer E03 (OE) Error Code - Causes & Fix](/posts/lg-washer-e03-error-code/)

@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed electrician or industrial controls technician whenever E0029 appears. Diagnosing phase-loss faults requires working with live high-voltage three-phase power, measuring voltages under load, and tracing circuits back through panels and contactors. If tightening terminals and resetting the drive does not clear the fault, a professional will use a power-quality analyzer to capture voltage waveforms, check for transient imbalances, and verify that your supply meets the drive's input specifications. Attempting to swap internal drive components without confirming the supply is sound will waste money and leave the root cause unresolved.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [ABB ACS550 EFB1 Fault Code - Causes & Fix](/posts/abb-acs550-vfd-efb1-fault-code/)
+- [ABB ACS580 A4A3 Fault Code - Causes & Fix](/posts/abb-acs580-vfd-a4a3-fault-code/)
+- [ABB ACS550 AF10 Fault — Causes & Fix](/posts/abb-acs550-af10-heatsink/)
+- [ABB ACS580 VFD E0015 Fault Code - Causes & Fix](/posts/abb-acs580-vfd-e0015-fault-code/)

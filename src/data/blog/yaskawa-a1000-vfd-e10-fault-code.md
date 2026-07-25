@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or motor technician if you lack the tools or experience to work safely with three-phase power, or if you cannot identify the source of the over-current after checking mechanical binding and wiring. High-voltage capacitors inside the drive retain charge even after power is removed and require proper discharge procedures. A professional can perform insulation testing, load analysis, and drive tuning with calibrated instruments. If the drive itself has failed current sensors or power modules, factory-trained service is necessary to replace internal components and recalibrate the unit.
 
 **Rough cost:** A pro service call runs about $200-800.
+
+## See Also
+
+- [Yaskawa GA800 A.144 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-144-fault-code/)
+- [Yaskawa GA800 A.148 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-148-fault-code/)
+- [Yaskawa GA800 E24 Fault - Causes & Fix](/posts/yaskawa-ga800-e24-fault-code/)
+- [Yaskawa GA800 VFD A.126 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-126-fault-code/)

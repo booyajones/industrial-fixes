@@ -5206,5 +5206,185 @@
     "score": 2,
     "reason": "No research provided to verify E17 is a real Yaskawa A1000 fault code or that the stated meaning is accurate; cannot confirm authenticity or correctness without documentation.",
     "date": "2026-07-24"
+  },
+  "yaskawa-a1000-vfd-e18-fault-code": {
+    "topic": "Yaskawa A1000 VFD E18 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E18 is a real/documented fault code for Yaskawa A1000 VFD; cannot confirm accuracy of meaning or causes without source documentation.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e19-fault-code": {
+    "topic": "Yaskawa A1000 VFD E19 fault code",
+    "score": 2,
+    "reason": "No research provided to verify E19 is a real, documented fault code for Yaskawa A1000 VFDs; content appears speculative and potentially invented without manufacturer documentation.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e20-fault-code": {
+    "topic": "Yaskawa A1000 VFD E20 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E20 is a real Yaskawa A1000 fault code or that the stated meaning is accurate for this specific brand/model combination.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e21-fault-code": {
+    "topic": "Yaskawa A1000 VFD E21 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E21 is a real, documented fault code for Yaskawa A1000 VFD; cannot confirm accuracy of meaning or causes without source documentation.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e22-fault-code": {
+    "topic": "Yaskawa A1000 VFD E22 fault code",
+    "score": 2,
+    "reason": "No research provided to verify E22 is a real Yaskawa A1000 code or confirm its meaning; content appears speculative/generic without documentation.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e23-fault-code": {
+    "topic": "Yaskawa A1000 VFD E23 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E23 is a real Yaskawa A1000 code or that the stated meaning is accurate; cannot publish technical repair content without documented verification of code definition.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e24-fault-code": {
+    "topic": "Yaskawa A1000 VFD E24 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E24 is a real/documented fault code for Yaskawa A1000 VFD; cannot confirm accuracy of meaning or causes without source documentation.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e25-fault-code": {
+    "topic": "Yaskawa A1000 VFD E25 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E25 is a real, documented fault code for Yaskawa A1000 VFDs; cannot confirm accuracy of meaning or causes without grounding documentation.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e26-fault-code": {
+    "topic": "Yaskawa A1000 VFD E26 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E26 is a real Yaskawa A1000 code or that the stated meaning (overcurrent) is correct for this specific brand and model; cannot confirm accuracy without documentation.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e27-fault-code": {
+    "topic": "Yaskawa A1000 VFD E27 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E27 is a real, documented code for Yaskawa A1000 VFD; cannot confirm accuracy or that content is not invented/borrowed from other brands.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e28-fault-code": {
+    "topic": "Yaskawa A1000 VFD E28 fault code",
+    "score": 0,
+    "reason": "FAIL: No research provided to verify E28 is a real, documented fault code for Yaskawa A1000 VFD; cannot confirm accuracy or that content isn't invented/borrowed from other brands.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e29-fault-code": {
+    "topic": "Yaskawa A1000 VFD E29 fault code",
+    "score": 2,
+    "reason": "No research provided to verify E29 is a real Yaskawa A1000 fault code or that the stated meaning is accurate; publishing unverified technical repair information could lead to misdiagnosis and equipment damage.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e30-fault-code": {
+    "topic": "Yaskawa A1000 VFD E30 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E30 is a real, documented fault code for Yaskawa A1000 VFD; content appears speculative without grounding in actual technical documentation.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e31-fault-code": {
+    "topic": "Yaskawa A1000 VFD E31 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E31 is a real/documented code for Yaskawa A1000 VFD; content appears plausible but unverified and potentially invented.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e32-fault-code": {
+    "topic": "Yaskawa A1000 VFD E32 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E32 is a real Yaskawa A1000 code or that the overcurrent meaning is accurate for this specific brand/model; cannot confirm authenticity without documentation.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e33-fault-code": {
+    "topic": "Yaskawa A1000 VFD E33 fault code",
+    "score": 2,
+    "reason": "No research provided to verify E33 is a real Yaskawa A1000 code; content is generic speculation that could apply to any VFD fault, failing authenticity requirement.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e34-fault-code": {
+    "topic": "Yaskawa A1000 VFD E34 fault code",
+    "score": 2,
+    "reason": "No research provided to verify E34 is a real Yaskawa A1000 code; content appears speculative/generic without documentation, violating requirement #1.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e35-fault-code": {
+    "topic": "Yaskawa A1000 VFD E35 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E35 is a real Yaskawa A1000 code or confirm its meaning; cannot validate accuracy for this specific brand and model.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e36-fault-code": {
+    "topic": "Yaskawa A1000 VFD E36 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E36 is a real Yaskawa A1000 code or that the stated meaning is accurate; cannot confirm this is not invented or borrowed from another brand.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e37-fault-code": {
+    "topic": "Yaskawa A1000 VFD E37 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E37 is a real Yaskawa A1000 code or that the overload definition is accurate; cannot confirm this isn't invented or borrowed from another system.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e38-fault-code": {
+    "topic": "Yaskawa A1000 VFD E38 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E38 is a real, documented code for Yaskawa A1000 VFD; cannot confirm accuracy of meaning or causes without source documentation.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e39-fault-code": {
+    "topic": "Yaskawa A1000 VFD E39 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E39 is a real Yaskawa A1000 code or that the stated meaning is accurate; cannot publish unverified technical repair information that could mislead technicians or cause safety issues.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e40-fault-code": {
+    "topic": "Yaskawa A1000 VFD E40 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E40 is a real, documented Yaskawa A1000 code; cannot confirm accuracy of meaning, causes, or fixes\u2014potentially invented content.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e41-fault-code": {
+    "topic": "Yaskawa A1000 VFD E41 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E41 is a real Yaskawa A1000 code or that the ground fault definition is accurate for this specific brand/model - cannot confirm authenticity or correctness.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e42-fault-code": {
+    "topic": "Yaskawa A1000 VFD E42 fault code",
+    "score": 0,
+    "reason": "FAIL: No research provided to verify E42 is a real, documented fault code for Yaskawa A1000 VFD; content is speculative and potentially fabricated without source verification.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e43-fault-code": {
+    "topic": "Yaskawa A1000 VFD E43 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E43 is a real Yaskawa A1000 code or that the described meaning is accurate; cannot publish unverified technical repair information.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e44-fault-code": {
+    "topic": "Yaskawa A1000 VFD E44 fault code",
+    "score": 2,
+    "reason": "No research provided to verify E44 is a real Yaskawa A1000 code; content is entirely speculative/generic and admits uncertainty about what the code means, violating fundamental requirement for documented accuracy.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e45-fault-code": {
+    "topic": "Yaskawa A1000 VFD E45 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E45 is a real Yaskawa A1000 code or confirm its meaning; cannot validate accuracy for this specific brand/model combination.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e46-fault-code": {
+    "topic": "Yaskawa A1000 VFD E46 fault code",
+    "score": 2,
+    "reason": "No research provided to verify E46 is a real documented code for Yaskawa A1000 VFD; content appears speculative without grounding in actual technical documentation.",
+    "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e47-fault-code": {
+    "topic": "Yaskawa A1000 VFD E47 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E47 is a real, documented code for Yaskawa A1000; content appears speculative and generic without grounding in actual technical documentation.",
+    "date": "2026-07-25"
   }
 }

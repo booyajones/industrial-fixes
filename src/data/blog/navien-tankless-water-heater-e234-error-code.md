@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working with gas appliances, if the vent configuration appears incorrect and you are unsure how to correct it, or if you have cleared all blockages and tested the sensors but the error code persists. A qualified technician can perform combustion analysis, verify proper draft, and diagnose intermittent control-board or wiring faults that are difficult to trace without specialized tools. Also call a pro if the heater requires vent reconfiguration or if local codes mandate licensed work on gas-fired equipment.
 
 **Rough cost:** DIY runs about $0-80 in parts if a sensor is faulty, 30-90 min. A pro service call runs about $150-350 depending on diagnosis and part.
+
+## See Also
+
+- [Navien E180 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e180-error-code/)
+- [Navien Tankless Water Heater E243 Error - Causes & Fix](/posts/navien-tankless-water-heater-e243-error-code/)
+- [Navien Tankless Water Heater E333 Error - Causes & Fix](/posts/navien-tankless-water-heater-e333-error-code/)
+- [Navien E024 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e024-error-code/)

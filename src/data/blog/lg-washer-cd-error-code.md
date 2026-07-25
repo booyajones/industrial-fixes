@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a professional if the Cd code remains on the display for more than 4 hours, the door does not unlock after pressing a button and waiting 2 minutes, or the washer-dryer combo will not exit cool-down mode even after a full power reset. LG states that if the unit behaves abnormally and does not clear the cool-down phase as expected, a trained service technician should inspect the appliance. In the vast majority of cases, Cd is normal behavior and requires no repair, so only escalate to service if the message does not clear within the expected cool-down window or if the door lock fails to release.
+
+## See Also
+
+- [LG Washer SUD Error Code - Causes & Fix](/posts/lg-washer-sud-error-code/)
+- [LG Refrigerator Compressor Replacement - Signs & How-To](/posts/lg-refrigerator-compressor-inverter-linear-replacement/)
+- [LG WM3500CW Washer Problems & Error Codes](/posts/lg-wm3500cw-washer-problems/)
+- [LG Microwave F5 Error - Causes & Fix](/posts/lg-microwave-f5-error-code/)

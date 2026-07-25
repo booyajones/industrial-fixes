@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or Navien service technician if you are uncomfortable working with gas connections, if descaling the heat exchanger does not clear the error, or if you lack the tools to test sensors and circuit boards. A professional can isolate faulty components quickly with diagnostic software and pressure-test the system after repairs. Persistent E236 codes after basic cleaning often point to sensor replacement or control board issues that require specialized knowledge and warranty considerations.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien E238 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e238-error-code/)
+- [Navien E216 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e216-error-code/)
+- [Navien E007 Error Code - Causes & Fix](/posts/navien-tankless-e007-error-code/)
+- [Navien E024 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e024-error-code/)

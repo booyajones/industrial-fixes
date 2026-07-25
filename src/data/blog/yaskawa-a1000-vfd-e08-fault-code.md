@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drive service technician if you are not trained in high-voltage DC and AC power systems. VFD troubleshooting involves working near live bus bars with voltages often exceeding 300 VDC even after AC power is removed. A professional can safely measure DC bus ripple, perform rectifier diode testing with specialized equipment, and interpret drive diagnostic logs to pinpoint internal faults. If the fault persists after verifying supply voltage and tightening connections, internal components such as the rectifier bridge or capacitor bank likely need replacement, which requires drive disassembly, proper discharge procedures, and knowledge of the internal layout.
 
 **Rough cost:** A pro service call runs about $200-600.
+
+## See Also
+
+- [Yaskawa A1000 AL-03 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-03-fault-code/)
+- [Yaskawa A1000 CPF19 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf19-fault-code/)
+- [Yaskawa GA800 F004 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f004-fault-code/)
+- [Yaskawa GA800 F041 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f041-fault-code/)

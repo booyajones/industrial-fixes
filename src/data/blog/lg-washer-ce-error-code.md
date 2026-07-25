@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a professional if the CE code returns after a power reset, or if you are not comfortable working with live AC circuits and the washer's internal wiring. Diagnosing CE requires tracing the motor electrical path, testing control board outputs, and sometimes checking motor winding resistance under load. If both the control board and motor appear intact but the code persists, a technician with a service manual and multimeter can isolate the fault faster and avoid replacing the wrong part. Any work involving the main control board or motor replacement also carries risk of further damage if connectors are mishandled or the wrong part is installed.
 
 **Rough cost:** DIY runs about $150-350 in parts, 1-2 hours. A pro service call runs about $200-450.
+
+## See Also
+
+- [LG Washer Error Codes — Complete Fix Guide](/posts/lg-washer-error-codes/)
+- [LG Washer PE Error Code - Causes & Fix](/posts/lg-washer-pe-error-code/)
+- [LG Washer Door Lock Assembly Replacement - Signs & How-To](/posts/lg-washer-door-lock-latch-assembly-replacement/)
+- [LG Dryer LE2 Error Code - Causes & Fix](/posts/lg-dryer-le2-error-code/)

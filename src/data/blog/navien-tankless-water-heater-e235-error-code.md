@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a licensed technician if you find no obvious blockages in the vent pipes but the error persists, if the venting configuration appears incorrect or overly complex, or if you are uncomfortable working with gas appliances. A professional can perform a combustion analysis, measure actual exhaust pressures, verify compliance with local codes, and safely diagnose sensor or blower failures. Any work that involves extending or reconfiguring the vent system should be done by a qualified installer to prevent carbon monoxide hazards and make sure warranty coverage.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Navien NCB-700 Combination Boiler Error Codes - Full Fault Guide](/posts/navien-ncb-700-error-codes/)
+- [Navien Flow Sensor Replacement - Signs & How-To](/posts/navien-water-heater-flow-sensor-flow-meter-tankless-replacement/)
+- [Navien E134 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e134-error-code/)
+- [Navien Tankless Water Heater E178 Error - Causes & Fix](/posts/navien-tankless-water-heater-e178-error-code/)

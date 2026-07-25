@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or Navien-certified technician if you are uncomfortable working with 120-volt wiring, if the error persists after replacing the flow sensor and checking all connections, or if you suspect the control board itself has failed. Gas-fired tankless heaters also require proper venting and combustion checks after any repair, and a pro can perform a full system diagnostic with specialized tools to pinpoint intermittent faults. If your unit is still under warranty, professional service may be required to preserve coverage.
 
 **Rough cost:** A pro service call runs about $200-450.
+
+## See Also
+
+- [Navien Tankless Water Heater E167 Error - Causes & Fix](/posts/navien-tankless-water-heater-e167-error-code/)
+- [Navien E340 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e340-error-code/)
+- [Navien E336 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e336-error-code/)
+- [Navien E240 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e240-error-code/)
