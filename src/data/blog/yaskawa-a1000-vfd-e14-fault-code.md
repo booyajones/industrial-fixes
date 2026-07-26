@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or motor technician if you are not trained in high-voltage electrical work or do not have access to a megohm insulation tester. Ground fault diagnosis requires specialized test equipment and an understanding of VFD output characteristics. If insulation tests show marginal readings, a professional can assess whether the motor can be dried out and restored or needs rewinding or replacement. Any work inside the VFD cabinet or on the output power section requires knowledge of DC bus capacitor hazards and proper discharge procedures. If the motor or VFD is part of a critical process or safety system, always use a certified technician to diagnose and repair the fault.
 
 **Rough cost:** A pro service call runs about $200-800 depending on whether the issue is a cable repair, motor rewinding, or motor replacement.
+
+## See Also
+
+- [Yaskawa GA800 F001 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f001-fault-code/)
+- [Yaskawa GA800 VFD AL-21 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-al-21-fault-code/)
+- [Yaskawa A1000 VFD AL-29 - Causes & Fix](/posts/yaskawa-a1000-vfd-al-29-fault-code/)
+- [Yaskawa GA800 E94 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e94-fault-code/)

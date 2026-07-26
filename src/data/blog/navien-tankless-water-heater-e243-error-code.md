@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a licensed technician if you are uncomfortable working with water connections under pressure, if multimeter testing is beyond your skill level, or if replacing the flow sensor and inspecting wiring does not clear the error. A professional can perform advanced diagnostics on the control board, check for intermittent faults under load, and safely handle any gas-line or venting issues that may complicate access to the sensor. If the unit is still under warranty, professional service ensures you do not void coverage by performing unauthorized repairs.
 
 **Rough cost:** DIY runs about $80-150 in parts, 45-90 min. A pro service call runs about $200-400.
+
+## See Also
+
+- [Navien Tankless Water Heater E152 Error - Causes & Fix](/posts/navien-tankless-water-heater-e152-error-code/)
+- [Navien E196 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e196-error-code/)
+- [Navien E782 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e782-error-code/)
+- [Navien E024 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e024-error-code/)

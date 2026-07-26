@@ -5386,5 +5386,185 @@
     "score": 3,
     "reason": "No research provided to verify E47 is a real, documented code for Yaskawa A1000; content appears speculative and generic without grounding in actual technical documentation.",
     "date": "2026-07-25"
+  },
+  "yaskawa-a1000-vfd-e48-fault-code": {
+    "topic": "Yaskawa A1000 VFD E48 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E48 is a real Yaskawa A1000 code; content appears fabricated without documentation, violating requirement #1.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e49-fault-code": {
+    "topic": "Yaskawa A1000 VFD E49 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E49 is a real, documented code for Yaskawa A1000; cannot confirm accuracy of meaning or causes without grounding data.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e50-fault-code": {
+    "topic": "Yaskawa A1000 VFD E50 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E50 is a real Yaskawa A1000 code or that the stated meaning is accurate; cannot confirm code authenticity or correctness without documentation.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e51-fault-code": {
+    "topic": "Yaskawa A1000 VFD E51 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E51 is a real, documented fault code for the Yaskawa A1000 VFD; cannot confirm accuracy of meaning or causes without source documentation.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e52-fault-code": {
+    "topic": "Yaskawa A1000 VFD E52 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E52 is a real Yaskawa A1000 code; content appears fabricated without documentation, failing primary authenticity requirement.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e53-fault-code": {
+    "topic": "Yaskawa A1000 VFD E53 fault code",
+    "score": 0,
+    "reason": "FAIL: No research provided to confirm E53 is a real, documented fault code for Yaskawa A1000 VFD; cannot verify accuracy of stated meaning or causes against manufacturer documentation.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e54-fault-code": {
+    "topic": "Yaskawa A1000 VFD E54 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E54 is a real Yaskawa A1000 code or that the meaning/causes are accurate for this specific brand and model; cannot confirm accuracy without documentation.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e55-fault-code": {
+    "topic": "Yaskawa A1000 VFD E55 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E55 is a real Yaskawa A1000 fault code or confirm its meaning; cannot validate accuracy for this specific brand and model combination.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e56-fault-code": {
+    "topic": "Yaskawa A1000 VFD E56 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E56 is a real/documented fault code for Yaskawa A1000 VFD; cannot confirm accuracy of meaning or causes without manufacturer documentation.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e57-fault-code": {
+    "topic": "Yaskawa A1000 VFD E57 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E57 is a real Yaskawa A1000 code or that the encoder communication meaning is correct for this specific drive model; cannot confirm accuracy without documentation.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e58-fault-code": {
+    "topic": "Yaskawa A1000 VFD E58 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E58 is a real, documented fault code for Yaskawa A1000 VFD; cannot confirm accuracy or that content isn't fabricated/borrowed from other systems.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e59-fault-code": {
+    "topic": "Yaskawa A1000 VFD E59 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E59 is a real Yaskawa A1000 fault code or that the stated communication-error meaning is accurate for this specific drive model; content appears speculative without documentation.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e60-fault-code": {
+    "topic": "Yaskawa A1000 VFD E60 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E60 is a real Yaskawa A1000 code or that the ground-fault meaning is accurate for this specific brand/model; cannot confirm authenticity despite otherwise well-structured content.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e61-fault-code": {
+    "topic": "Yaskawa A1000 VFD E61 fault code",
+    "score": 0,
+    "reason": "No research provided to verify this is a real Yaskawa A1000 code; cannot confirm E61 definition, meaning, or diagnostic steps are accurate for this specific VFD model.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e62-fault-code": {
+    "topic": "Yaskawa A1000 VFD E62 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E62 is a real, documented fault code for the Yaskawa A1000 VFD; cannot confirm accuracy of meaning, causes, or troubleshooting steps without source documentation.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e63-fault-code": {
+    "topic": "Yaskawa A1000 VFD E63 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E63 is a real, documented fault code for the Yaskawa A1000 VFD; cannot confirm accuracy or that this isn't invented content.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e64-fault-code": {
+    "topic": "Yaskawa A1000 VFD E64 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E64 is a real documented fault code for Yaskawa A1000; content appears plausible but unverified and potentially fabricated without source documentation.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e65-fault-code": {
+    "topic": "Yaskawa A1000 VFD E65 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E65 is a real Yaskawa A1000 code or that the stated meaning is accurate for this specific brand/model; content appears plausible but unverified and potentially invented.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e66-fault-code": {
+    "topic": "Yaskawa A1000 VFD E66 fault code",
+    "score": 2,
+    "reason": "No research provided to verify E66 is a real Yaskawa A1000 code; content appears speculative/generic without documented grounding for this specific brand and model.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e67-fault-code": {
+    "topic": "Yaskawa A1000 VFD E67 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E67 is a real Yaskawa A1000 code; content appears plausible but cannot be confirmed as accurate for this specific brand and model without documentation.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e68-fault-code": {
+    "topic": "Yaskawa A1000 VFD E68 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E68 is a real Yaskawa A1000 code or that the stated meaning (ground fault) is accurate for this specific drive model; cannot publish unverified technical repair information.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e69-fault-code": {
+    "topic": "Yaskawa A1000 VFD E69 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E69 is a real, documented fault code for the Yaskawa A1000 VFD specifically; cannot confirm accuracy or that content isn't invented/borrowed from other systems.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e70-fault-code": {
+    "topic": "Yaskawa A1000 VFD E70 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E70 is a real Yaskawa A1000 fault code or that the stated meaning is accurate; cannot publish unverified technical content that could misguide technicians.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e71-fault-code": {
+    "topic": "Yaskawa A1000 VFD E71 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E71 is a real Yaskawa A1000 code or that the ground-fault meaning is accurate for this specific VFD model; content appears plausible but unverified and potentially invented.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e72-fault-code": {
+    "topic": "Yaskawa A1000 VFD E72 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E72 is a real Yaskawa A1000 code; draft itself admits the code definition 'can vary' and is 'not universally standardized,' which contradicts the site's requirement for documented, brand-specific error codes.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e73-fault-code": {
+    "topic": "Yaskawa A1000 VFD E73 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E73 is a real, documented code for Yaskawa A1000 VFD; content may be invented or borrowed from generic communication fault patterns without brand-specific validation.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e74-fault-code": {
+    "topic": "Yaskawa A1000 VFD E74 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E74 is a real, documented Yaskawa A1000 code; cannot confirm accuracy of meaning or causes without source verification.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e75-fault-code": {
+    "topic": "Yaskawa A1000 VFD E75 fault code",
+    "score": 0,
+    "reason": "No research provided to verify E75 is a real, documented fault code for Yaskawa A1000 VFD; content appears speculative and potentially fabricated without source verification.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e76-fault-code": {
+    "topic": "Yaskawa A1000 VFD E76 fault code",
+    "score": 2,
+    "reason": "No research provided to verify E76 is a real, documented fault code for Yaskawa A1000 drives; content appears to be generic speculation without grounding in actual technical documentation.",
+    "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e77-fault-code": {
+    "topic": "Yaskawa A1000 VFD E77 fault code",
+    "score": 2,
+    "reason": "No research provided to verify E77 is a real Yaskawa A1000 code or that the stated meaning is accurate; content appears speculative without documentation.",
+    "date": "2026-07-26"
   }
 }

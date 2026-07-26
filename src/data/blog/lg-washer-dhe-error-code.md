@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a qualified appliance technician if you are not comfortable working with the washer unplugged and disassembled, or if you do not own a multimeter and cannot safely test the heater circuit. Washer-dryer combo units can have high-voltage heater circuits (up to 220 V AC in some models), and incorrect testing or reassembly can create shock or fire hazards. If you have replaced the heater element and tested all safety devices but the dHE code still appears, the main control board or heater relay likely needs professional diagnosis and replacement.
+
+## See Also
+
+- [LG Washer PF Error Code - Causes & Fix](/posts/lg-washer-pf-error-code/)
+- [LG Mini Split CH02 Error Code — Causes & Fix](/posts/lg-mini-split-ch02-error-code/)
+- [LG Refrigerator Water Dispenser Not Working - Causes & Fix](/posts/lg-refrigerator-water-dispenser-not-working/)
+- [LG Microwave Won't Start - Causes & Fix](/posts/lg-microwave-wont-start/)

@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a professional whenever the error persists after you have reset the unit, inspected connectors, and verified that inlet filters are clean. Diagnosing a circulation pump requires measuring electrical signals and water flow under operating conditions, and replacing the pump involves draining the heat exchanger, disconnecting gas and water lines, and verifying proper combustion after reassembly. Navien tankless heaters are gas appliances that demand careful attention to venting, combustion air, and pressure settings. A licensed technician has the training and test equipment to pinpoint sensor drift, board faults, and pump performance issues without guessing, and will warranty the repair.
 
 **Rough cost:** A pro service call runs about $200-450.
+
+## See Also
+
+- [Navien E135 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e135-error-code/)
+- [Navien E327 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e327-error-code/)
+- [Navien Error Code E022 — Hot Water Outlet Thermistor Fault Fix](/posts/navien-error-code-e022/)
+- [Navien E235 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e235-error-code/)

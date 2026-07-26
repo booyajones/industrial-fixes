@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or motor technician if you lack a megohmmeter or the training to perform high-voltage insulation testing safely. VFD troubleshooting involves live circuit analysis and parameter programming that can damage the drive or motor if done incorrectly. If the fault persists after verifying motor and cable integrity, the drive's inverter module may have failed and requires factory-authorized repair or board-level replacement. Do not attempt to open the drive enclosure or handle internal bus capacitors without proper discharge procedures and high-voltage safety training.
 
 **Rough cost:** A pro service call runs about $200-800.
+
+## See Also
+
+- [Yaskawa GA800 E18 Error - Causes & Fix](/posts/yaskawa-ga800-e18-fault-code/)
+- [Yaskawa A1000 CPF23 (AL-23) - Causes & Fix](/posts/yaskawa-a1000-vfd-al-23-fault-code/)
+- [Yaskawa GA800 F043 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-f043-fault-code/)
+- [Yaskawa GA800 VFD AL-29 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-al-29-fault-code/)

@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a licensed technician if you are not comfortable working with gas appliances, if the flame rod and venting are clean but the error continues, or if you lack a manometer to verify gas pressure. Combustion problems can involve gas valve calibration, control board diagnostics, and safety testing that require specialized tools and training. A pro can also perform a full combustion analysis to verify proper air-fuel ratios and check for heat exchanger damage or other internal faults that are not visible during a simple flame rod cleaning.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien Tankless Water Heater E339 Error - Causes & Fix](/posts/navien-tankless-water-heater-e339-error-code/)
+- [Navien E005 Error Code - Causes & Fix](/posts/navien-tankless-e005-error-code/)
+- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
+- [Navien E300 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e300-error-code/)

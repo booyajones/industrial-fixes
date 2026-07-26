@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a professional if you have cleared all visible vent obstructions and confirmed proper vent pitch but the E240 code persists. A technician can measure blower pressure, test the exhaust temperature sensor with a multimeter, and inspect the heat exchanger for internal scale or debris. Because tankless heaters rely on precise gas-to-air ratios and sealed combustion, incorrect repairs can create carbon monoxide hazards. If you smell gas, see soot around the unit, or notice yellow flames instead of blue, shut off the gas supply and call for service immediately.
 
 **Rough cost:** DIY runs about $0-50 in parts if you need a vent terminal or gasket, 30-90 min. A pro service call runs about $150-300.
+
+## See Also
+
+- [Navien NPE-240S Tankless Water Heater Error Codes - Full Fault Guide](/posts/navien-npe-240s-error-codes/)
+- [Navien Tankless Water Heater E304 Error - Causes & Fix](/posts/navien-tankless-water-heater-e304-error-code/)
+- [Navien E325 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e325-error-code/)
+- [Navien E736 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e736-error-code/)

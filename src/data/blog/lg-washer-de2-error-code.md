@@ -81,3 +81,10 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable removing the front panel or door-seal boot to reach the lock assembly, if you lack a multimeter and the experience to test continuity, or if you have already replaced the lock and latch yet the dE2 error persists. A technician can perform systematic circuit testing, check for control-board-side faults, and handle any model-specific disassembly safely. Also call if you find evidence of water damage or arcing at the connectors, since that can indicate a larger electrical problem that needs expert diagnosis.
 
 **Rough cost:** DIY runs about $50–$100 in parts, 30–60 min. A pro service call runs about $150–$250.
+
+## See Also
+
+- [LG Washer LE Error Code - Causes & Fix](/posts/lg-washer-le-error-code/)
+- [LG Mini-Split CH03 Error - Causes & Fix](/posts/lg-mini-split-ch03-error-code/)
+- [LG Dryer LE2 Error Code - Causes & Fix](/posts/lg-dryer-le2-error-code/)
+- [LG Mini Split CH10 Error Code — Causes & Fix](/posts/lg-mini-split-ch10-error-code/)

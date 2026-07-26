@@ -66,3 +66,10 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 Call a technician if you are not comfortable removing the front panel or handling the large spring clamps, or if the washer still leaks after you replace the boot and verify that both clamps are fully seated. Some models require additional disassembly or special clamp tools to access the tub-side attachment. If you find rust, cracks, or damage to the tub lip or front panel where the seal mounts, a pro can assess whether the washer cabinet needs repair before the new gasket will seal correctly.
+
+## See Also
+
+- [LG Mini-Split CH24 Error - Causes & Fix](/posts/lg-mini-split-ch24-error-code/)
+- [LG Oven Convection Fan Motor Replacement - Signs & How-To](/posts/lg-oven-convection-fan-motor-oven-convection-blower-replacement/)
+- [LG Oven F5 Error Code - Causes & Fix](/posts/lg-oven-f5-error-code/)
+- [LG Mini Split Making Noise - Causes & Fix](/posts/lg-mini-split-making-noise/)

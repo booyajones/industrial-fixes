@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or motor technician if you are not trained in high-voltage electrical work, if insulation testing reveals motor winding failure requiring rewind or replacement, or if the fault persists after verifying motor and cable integrity. VFD troubleshooting involves live high-voltage DC bus capacitors that remain charged even after input power is removed. Ground fault diagnosis also requires specialized test equipment and knowledge of NEC grounding practices. If the drive itself is suspected, contact Yaskawa technical support or an authorized service center for internal diagnostics and repair.
 
 **Rough cost:** A pro service call runs about $200-800.
+
+## See Also
+
+- [Yaskawa GA800 VFD AL-02 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-al-02-fault-code/)
+- [Yaskawa A1000 VFD E42 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-e42-fault-code/)
+- [Yaskawa A1000 VFD E22 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-e22-fault-code/)
+- [Yaskawa GA800 E02 Fault - Causes & Fix](/posts/yaskawa-ga800-e02-fault-code/)

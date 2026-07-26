@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed technician if cleaning the flame rod and checking connections do not clear the error, if you smell gas, or if the unit fails to ignite. Professionals have combustion analyzers to measure gas pressure, test flame rod microamp current, and inspect the heat exchanger and venting for blockages. Any work involving gas lines, burner removal, or control board replacement should be performed by a qualified service technician to maintain warranty coverage and make sure safe operation.
 
 **Rough cost:** A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien Tankless Water Heater E233 Error - Causes & Fix](/posts/navien-tankless-water-heater-e233-error-code/)
+- [Navien Tankless Water Heater Error Codes — Complete Guide](/posts/navien-error-codes/)
+- [Navien E320 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e320-error-code/)
+- [Navien Tankless Water Heater E309 Error - Causes & Fix](/posts/navien-tankless-water-heater-e309-error-code/)
