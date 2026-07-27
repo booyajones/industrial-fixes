@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or Navien-certified technician if the error persists after wiring checks and a power reset, if you are uncomfortable working with 120-volt or gas connections, or if diagnostic testing with a multimeter is required. Navien tankless heaters use both electrical controls and gas valves that demand proper training to service safely. A technician can perform voltage and resistance tests on the flow sensor and control board, interpret advanced fault logs, and order factory-supported parts under warranty if applicable.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Navien E009 Error Code - Causes & Fix](/posts/navien-tankless-e009-error-code/)
+- [Navien E302 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e302-error-code/)
+- [Navien Tankless Water Heater E247 Error - Causes & Fix](/posts/navien-tankless-water-heater-e247-error-code/)
+- [Navien Tankless Water Heater E019 Error - Causes & Fix](/posts/navien-tankless-water-heater-e019-error-code/)

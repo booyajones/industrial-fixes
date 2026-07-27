@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician when you cannot resolve the E19 fault through parameter review and wiring checks, or if you lack access to the drive's programming software and manual. VFD diagnostics require specialized knowledge of communication protocols, parameter mapping, and high-voltage safety. A professional can use diagnostic tools to read internal fault logs, test control circuits with proper test equipment, and safely replace or reprogram the drive's control board if hardware failure is confirmed. Because VFDs operate at high DC bus voltages even after main power is removed, only trained personnel should open the drive enclosure or work on internal components.
 
 **Rough cost:** A pro service call runs about $150-400.
+
+## See Also
+
+- [Yaskawa GA800 A.135 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-135-fault-code/)
+- [Yaskawa GA800 F042 - Causes & Fix](/posts/yaskawa-ga800-vfd-f042-fault-code/)
+- [Yaskawa GA800 E15 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e15-fault-code/)
+- [Yaskawa GA800 F028 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f028-fault-code/)

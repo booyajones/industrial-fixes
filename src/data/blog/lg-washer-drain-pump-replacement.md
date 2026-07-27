@@ -67,3 +67,10 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 If you have cleared the filter and drain hose, installed a new pump, and the OE code returns or the pump still will not run, the fault may be upstream in the wiring harness, pressure sensor system, or main control board output. A technician can measure the 120 VAC supply at the pump connector during a drain command and trace wiring or control faults that are harder to diagnose without a multimeter and schematic. Also call a pro if your washer uses a twist-lock pump design that requires special tools to remove or if you are not comfortable working with 120 VAC connections inside the machine.
+
+## See Also
+
+- [LG Dryer dE Error Code - Causes & Fix](/posts/lg-dryer-de-error-code/)
+- [LG Dryer D75 Error Code - Causes & Fix](/posts/lg-dryer-d75-error-code/)
+- [LG Oven Convection Fan Motor Replacement - Signs & How-To](/posts/lg-oven-convection-fan-motor-oven-convection-blower-replacement/)
+- [LG Oven F8 Error Code - Causes & Fix](/posts/lg-oven-f8-error-code/)

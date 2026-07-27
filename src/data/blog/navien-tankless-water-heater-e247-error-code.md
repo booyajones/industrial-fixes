@@ -80,3 +80,10 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable working inside the water heater cabinet or if you lack a multimeter to test continuity and voltage. A technician can quickly isolate whether the fault lies in the harness, the main board, or the panel by swapping known-good components. Also call a pro if the error persists after reseating connectors and you see no obvious damage, since firmware mismatches or internal board failures require specialized diagnostics and may be covered under warranty if the unit is still within the service period.
 
 **Rough cost:** DIY runs about $0-150 in parts, 30-90 min. A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien E314 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e314-error-code/)
+- [Navien Error Code E016 — Causes & Fix](/posts/navien-error-code-e016/)
+- [Navien E238 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e238-error-code/)
+- [Navien Tankless Water Heater E231 Error - Causes & Fix](/posts/navien-tankless-water-heater-e231-error-code/)

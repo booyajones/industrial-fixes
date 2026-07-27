@@ -64,3 +64,10 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 If the new belt slips off repeatedly, squeals after installation, or the drum still won't turn, the motor mount may be loose, the driven pulley may not be seated correctly, or another drive component like the clutch or rotor has failed. Call a tech if you find the motor mounting hardware loose and you're not comfortable torquing fasteners to spec, or if you're unsure whether your LG model uses a belt at all. Direct-drive models have no belt and require rotor or stator service instead.
+
+## See Also
+
+- [LG Microwave Turntable Not Turning - Causes & Fix](/posts/lg-microwave-turntable-not-turning/)
+- [LG Range E8 Error Code - Causes & Fix](/posts/lg-range-e8-error-code/)
+- [LG Range SE Error Code - Causes & Fix](/posts/lg-range-se-error-code/)
+- [LG Dryer D80 Error Code - Causes & Fix](/posts/lg-dryer-d80-error-code/)

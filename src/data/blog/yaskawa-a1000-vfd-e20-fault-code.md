@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drive technician if you are not trained in high-voltage DC and AC systems. VFDs store lethal voltage in their DC bus capacitors even after input power is removed. Ground fault diagnosis requires insulation testing equipment and knowledge of NEC grounding practices. Motor winding repairs need specialized motor-shop tools and materials. If the drive shows internal faults with the motor disconnected, a drive repair specialist can test and replace power modules, gate drivers, or control boards that are not user-serviceable.
 
 **Rough cost:** A pro service call runs about $200-600 depending on whether motor rewinding or cable replacement is needed.
+
+## See Also
+
+- [Yaskawa GA800 VFD F0011 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f0011-fault-code/)
+- [Yaskawa GA800 E16 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e16-fault-code/)
+- [Yaskawa GA800 VFD F0028 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f0028-fault-code/)
+- [Yaskawa GA800 VFD AL-11 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-al-11-fault-code/)

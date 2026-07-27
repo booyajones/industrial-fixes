@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or HVAC technician if you cannot locate any blockages but the error persists, if you are uncomfortable working with gas appliances, or if you suspect the vent system was installed incorrectly. A professional can perform a combustion analysis, measure actual air pressure readings, and verify vent pipe sizing and slope meet manufacturer specifications. Also call a pro if the error returns repeatedly after clearing blockages, as this may indicate a more complex issue with the combustion fan, heat exchanger, or control board that requires diagnostic tools and training to resolve safely.
 
 **Rough cost:** DIY runs about $0-150 in parts if sensor replacement needed, 30-90 min. A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien E161 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e161-error-code/)
+- [Navien E195 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e195-error-code/)
+- [Navien Tankless Water Heater E233 Error - Causes & Fix](/posts/navien-tankless-water-heater-e233-error-code/)
+- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)

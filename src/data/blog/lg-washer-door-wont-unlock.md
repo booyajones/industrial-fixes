@@ -68,3 +68,10 @@ Seeing a code on the display? These match this problem:
 ## When to Call a Pro
 
 Call a professional if you cannot safely access the door lock assembly, if the door remains locked after you have drained the tub and replaced the lock, or if you are uncomfortable working with the control board. Do not force the door open or pry the lock, as that can damage the latch striker and door boot. A qualified technician can verify control-board signals and replace the board if the lock circuit has failed.
+
+## See Also
+
+- [LG Microwave F4 Error - Causes & Fix](/posts/lg-microwave-f4-error-code/)
+- [LG Refrigerator Water Inlet Valve Replacement - Signs & How-To](/posts/lg-refrigerator-water-inlet-valve-replacement/)
+- [LG Mini Split CH35 Error Code - Causes & Fix](/posts/lg-mini-split-ch35-error-code/)
+- [LG Mini Split CH02 Error Code — Causes & Fix](/posts/lg-mini-split-ch02-error-code/)

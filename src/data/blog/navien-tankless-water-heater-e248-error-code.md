@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed plumber or Navien-certified technician if you are uncomfortable working with water supply plumbing, if the error persists after cleaning the filter and flow sensor, or if you suspect heavy scale buildup requiring a full descaling flush. A pro can also diagnose wiring issues between the flow sensor and control board, verify proper flow rates with calibrated instruments, and perform warranty-covered repairs if your unit is still under warranty.
 
 **Rough cost:** DIY runs about $0-80 in parts, 30-90 min. A pro service call runs about $120-250.
+
+## See Also
+
+- [Navien Water Heater Popping Noise - Causes & Fix](/posts/navien-water-heater-making-popping-noise/)
+- [Navien E255 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e255-error-code/)
+- [Navien Water Heater No Ignition - Causes & Fix](/posts/navien-water-heater-no-ignition/)
+- [Navien E325 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e325-error-code/)

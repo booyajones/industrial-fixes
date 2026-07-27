@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or motor technician if you are not trained to work with high-voltage three-phase equipment, do not own a megohmmeter or know how to interpret insulation resistance readings, or if initial free checks do not isolate the fault. Ground fault diagnosis requires systematic electrical testing and safe handling of motor circuits. If the motor winding insulation has failed, repair or replacement involves disassembly and may require a motor shop. If the drive itself has failed internally after confirming no external faults, only a technician familiar with VFD repair should handle board-level diagnostics and replacement.
 
 **Rough cost:** A pro service call runs about $200-800.
+
+## See Also
+
+- [Yaskawa GA800 VFD AL-15 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-al-15-fault-code/)
+- [Yaskawa A1000 VFD E46 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-e46-fault-code/)
+- [Yaskawa GA800 E96 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e96-fault-code/)
+- [Yaskawa A1000 VFD E36 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-e36-fault-code/)

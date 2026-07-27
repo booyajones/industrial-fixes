@@ -78,3 +78,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drive technician if the E0036 fault persists after a factory reset and reprogramming, or if you are unfamiliar with VFD parameter structures and safe high-voltage procedures. Drive configuration errors can cause motor overheating, mechanical damage, or nuisance shutdowns in critical processes. A professional can retrieve detailed fault logs, verify firmware integrity, and test the control board memory. If your application requires custom macros, PLC integration, or fieldbus communication, professional commissioning is the safest path to reliable operation.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [ABB ACS580 A2A1 - Causes & Fix](/posts/abb-acs580-a2a1-fault-code/)
+- [ABB ACS550 Complete Fault Code Guide — All Faults and Fixes](/posts/abb-acs550-complete-guide/)
+- [ABB ACS550 EFB3 Fault - Causes & Fix](/posts/abb-acs550-vfd-efb3-fault-code/)
+- [ABB ACS880 Fault Codes: List, Causes & Fixes](/posts/abb-880-fault-codes/)

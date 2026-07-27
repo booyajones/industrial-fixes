@@ -8527,6 +8527,126 @@
     "yaskawa-a1000-vfd-e77-fault-code": {
       "topic": "Yaskawa A1000 VFD E77 fault code",
       "date": "2026-07-26"
+    },
+    "yaskawa-a1000-vfd-e78-fault-code": {
+      "topic": "Yaskawa A1000 VFD E78 fault code",
+      "date": "2026-07-27"
+    },
+    "yaskawa-a1000-vfd-e79-fault-code": {
+      "topic": "Yaskawa A1000 VFD E79 fault code",
+      "date": "2026-07-27"
+    },
+    "yaskawa-a1000-vfd-e80-fault-code": {
+      "topic": "Yaskawa A1000 VFD E80 fault code",
+      "date": "2026-07-27"
+    },
+    "allen-bradley-powerflex-525-vfd-f000-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F000 fault code",
+      "date": "2026-07-27"
+    },
+    "allen-bradley-powerflex-525-vfd-f002-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F002 fault code",
+      "date": "2026-07-27"
+    },
+    "allen-bradley-powerflex-525-vfd-f006-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F006 fault code",
+      "date": "2026-07-27"
+    },
+    "allen-bradley-powerflex-525-vfd-f064-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F064 fault code",
+      "date": "2026-07-27"
+    },
+    "trane-furnace-e01-error-code": {
+      "topic": "Trane furnace E01 error code",
+      "date": "2026-07-27"
+    },
+    "trane-furnace-e02-error-code": {
+      "topic": "Trane furnace E02 error code",
+      "date": "2026-07-27"
+    },
+    "trane-furnace-e03-error-code": {
+      "topic": "Trane furnace E03 error code",
+      "date": "2026-07-27"
+    },
+    "trane-furnace-e05-error-code": {
+      "topic": "Trane furnace E05 error code",
+      "date": "2026-07-27"
+    },
+    "trane-furnace-e06-error-code": {
+      "topic": "Trane furnace E06 error code",
+      "date": "2026-07-27"
+    },
+    "trane-furnace-e07-error-code": {
+      "topic": "Trane furnace E07 error code",
+      "date": "2026-07-27"
+    },
+    "trane-furnace-e08-error-code": {
+      "topic": "Trane furnace E08 error code",
+      "date": "2026-07-27"
+    },
+    "lennox-furnace-e207-error-code": {
+      "topic": "Lennox furnace E207 error code",
+      "date": "2026-07-27"
+    },
+    "lennox-furnace-e229-error-code": {
+      "topic": "Lennox furnace E229 error code",
+      "date": "2026-07-27"
+    },
+    "daikin-mini-split-e3-error-code": {
+      "topic": "Daikin mini split E3 error code",
+      "date": "2026-07-27"
+    },
+    "daikin-mini-split-e4-error-code": {
+      "topic": "Daikin mini split E4 error code",
+      "date": "2026-07-27"
+    },
+    "daikin-mini-split-e8-error-code": {
+      "topic": "Daikin mini split E8 error code",
+      "date": "2026-07-27"
+    },
+    "daikin-mini-split-e9-error-code": {
+      "topic": "Daikin mini split E9 error code",
+      "date": "2026-07-27"
+    },
+    "daikin-mini-split-lc-01-error-code": {
+      "topic": "Daikin mini split LC-01 error code",
+      "date": "2026-07-27"
+    },
+    "daikin-mini-split-lc-02-error-code": {
+      "topic": "Daikin mini split LC-02 error code",
+      "date": "2026-07-27"
+    },
+    "daikin-mini-split-pj-01-error-code": {
+      "topic": "Daikin mini split PJ-01 error code",
+      "date": "2026-07-27"
+    },
+    "mitsubishi-mini-split-e8-error-code": {
+      "topic": "Mitsubishi mini split E8 error code",
+      "date": "2026-07-27"
+    },
+    "mitsubishi-mini-split-f1-error-code": {
+      "topic": "Mitsubishi mini split F1 error code",
+      "date": "2026-07-27"
+    },
+    "mitsubishi-mini-split-f2-error-code": {
+      "topic": "Mitsubishi mini split F2 error code",
+      "date": "2026-07-27"
+    },
+    "mitsubishi-mini-split-f3-error-code": {
+      "topic": "Mitsubishi mini split F3 error code",
+      "date": "2026-07-27"
+    },
+    "mitsubishi-mini-split-f4-error-code": {
+      "topic": "Mitsubishi mini split F4 error code",
+      "date": "2026-07-27"
+    },
+    "mitsubishi-mini-split-f5-error-code": {
+      "topic": "Mitsubishi mini split F5 error code",
+      "date": "2026-07-27"
+    },
+    "mitsubishi-mini-split-f6-error-code": {
+      "topic": "Mitsubishi mini split F6 error code",
+      "date": "2026-07-27"
     }
   }
 }

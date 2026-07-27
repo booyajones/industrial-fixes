@@ -5566,5 +5566,185 @@
     "score": 2,
     "reason": "No research provided to verify E77 is a real Yaskawa A1000 code or that the stated meaning is accurate; content appears speculative without documentation.",
     "date": "2026-07-26"
+  },
+  "yaskawa-a1000-vfd-e78-fault-code": {
+    "topic": "Yaskawa A1000 VFD E78 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E78 is a real Yaskawa A1000 fault code; content appears plausible but unverified and potentially invented without documentation.",
+    "date": "2026-07-27"
+  },
+  "yaskawa-a1000-vfd-e79-fault-code": {
+    "topic": "Yaskawa A1000 VFD E79 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E79 is a real, documented fault code for Yaskawa A1000 VFD; content appears speculative and potentially invented without source validation.",
+    "date": "2026-07-27"
+  },
+  "yaskawa-a1000-vfd-e80-fault-code": {
+    "topic": "Yaskawa A1000 VFD E80 fault code",
+    "score": 3,
+    "reason": "No research provided to verify E80 is a real Yaskawa A1000 code or that the stated meaning is accurate for this specific brand/model; cannot validate against source documentation.",
+    "date": "2026-07-27"
+  },
+  "allen-bradley-powerflex-525-vfd-f000-fault-code": {
+    "topic": "Allen-Bradley PowerFlex 525 VFD F000 fault code",
+    "score": 2,
+    "reason": "No research provided to verify F000 is a real, documented fault code for the PowerFlex 525; cannot confirm accuracy of meaning, causes, or fixes without source validation.",
+    "date": "2026-07-27"
+  },
+  "allen-bradley-powerflex-525-vfd-f002-fault-code": {
+    "topic": "Allen-Bradley PowerFlex 525 VFD F002 fault code",
+    "score": 3,
+    "reason": "No research provided to verify F002 is a real, documented fault code for PowerFlex 525; cannot confirm accuracy of meaning or causes without manufacturer documentation.",
+    "date": "2026-07-27"
+  },
+  "allen-bradley-powerflex-525-vfd-f006-fault-code": {
+    "topic": "Allen-Bradley PowerFlex 525 VFD F006 fault code",
+    "score": 3,
+    "reason": "No research provided to verify F006 is a real/documented fault code for PowerFlex 525; cannot confirm accuracy of meaning, causes, or troubleshooting steps for this specific drive model.",
+    "date": "2026-07-27"
+  },
+  "allen-bradley-powerflex-525-vfd-f064-fault-code": {
+    "topic": "Allen-Bradley PowerFlex 525 VFD F064 fault code",
+    "score": 0,
+    "reason": "No research provided to verify F064 is a real, documented fault code for the PowerFlex 525; cannot confirm accuracy of meaning or causes without source documentation.",
+    "date": "2026-07-27"
+  },
+  "trane-furnace-e01-error-code": {
+    "topic": "Trane furnace E01 error code",
+    "score": 0,
+    "reason": "No research provided to verify E01 is a real Trane furnace code; cannot confirm accuracy of meaning, causes, or fixes for this specific brand and appliance.",
+    "date": "2026-07-27"
+  },
+  "trane-furnace-e02-error-code": {
+    "topic": "Trane furnace E02 error code",
+    "score": 2,
+    "reason": "No research provided to verify E02 is a real Trane furnace code; meaning, causes, and fixes are ungrounded speculation that could mislead users and cause improper repairs.",
+    "date": "2026-07-27"
+  },
+  "trane-furnace-e03-error-code": {
+    "topic": "Trane furnace E03 error code",
+    "score": 3,
+    "reason": "No research provided to verify E03 is a real, documented Trane furnace code; cannot confirm accuracy of meaning or causes for this specific brand/appliance combination.",
+    "date": "2026-07-27"
+  },
+  "trane-furnace-e05-error-code": {
+    "topic": "Trane furnace E05 error code",
+    "score": 3,
+    "reason": "No research provided to verify E05 is a real Trane furnace code; cannot confirm accuracy of meaning or causes for this specific brand/appliance combination.",
+    "date": "2026-07-27"
+  },
+  "trane-furnace-e06-error-code": {
+    "topic": "Trane furnace E06 error code",
+    "score": 0,
+    "reason": "No research provided to verify E06 is a real Trane furnace code; cannot confirm accuracy for this specific brand and appliance, therefore must FAIL per criterion 1.",
+    "date": "2026-07-27"
+  },
+  "trane-furnace-e07-error-code": {
+    "topic": "Trane furnace E07 error code",
+    "score": 3,
+    "reason": "No research provided to verify E07 is a real Trane furnace code; cannot confirm accuracy for this brand/appliance combination, making publication irresponsible despite otherwise useful content structure.",
+    "date": "2026-07-27"
+  },
+  "trane-furnace-e08-error-code": {
+    "topic": "Trane furnace E08 error code",
+    "score": 2,
+    "reason": "No research provided to verify E08 is a real Trane furnace code; article explicitly admits the code meaning is unknown and model-specific, making all troubleshooting advice speculative and potentially dangerous for a gas appliance.",
+    "date": "2026-07-27"
+  },
+  "lennox-furnace-e207-error-code": {
+    "topic": "Lennox furnace E207 error code",
+    "score": 2,
+    "reason": "No research provided to verify E207 is a real Lennox furnace code; content admits definitions vary and provides only generic speculation without brand-specific grounding.",
+    "date": "2026-07-27"
+  },
+  "lennox-furnace-e229-error-code": {
+    "topic": "Lennox furnace E229 error code",
+    "score": 2,
+    "reason": "No research provided to verify E229 is a real, documented Lennox furnace code; content appears speculative and potentially invented without grounding evidence.",
+    "date": "2026-07-27"
+  },
+  "daikin-mini-split-e3-error-code": {
+    "topic": "Daikin mini split E3 error code",
+    "score": 3,
+    "reason": "No research provided to verify E3 is a real Daikin mini-split code or that it means high-pressure fault; content may be invented or borrowed from other brands.",
+    "date": "2026-07-27"
+  },
+  "daikin-mini-split-e4-error-code": {
+    "topic": "Daikin mini split E4 error code",
+    "score": 3,
+    "reason": "No research provided to verify this E4 code is real and documented for Daikin mini splits specifically; cannot confirm accuracy of meaning or causes without grounding data.",
+    "date": "2026-07-27"
+  },
+  "daikin-mini-split-e8-error-code": {
+    "topic": "Daikin mini split E8 error code",
+    "score": 3,
+    "reason": "No research provided to verify E8 is a real Daikin mini-split code or that the stated refrigerant-circuit meaning is correct for this brand; cannot confirm accuracy without documentation.",
+    "date": "2026-07-27"
+  },
+  "daikin-mini-split-e9-error-code": {
+    "topic": "Daikin mini split E9 error code",
+    "score": 2,
+    "reason": "No research provided to verify E9 is a real Daikin mini-split code; meaning appears speculative/invented without documentation, fails verification requirement.",
+    "date": "2026-07-27"
+  },
+  "daikin-mini-split-lc-01-error-code": {
+    "topic": "Daikin mini split LC-01 error code",
+    "score": 0,
+    "reason": "No research provided to verify LC-01 is a real Daikin mini split code; cannot confirm accuracy or that this isn't borrowed from another brand.",
+    "date": "2026-07-27"
+  },
+  "daikin-mini-split-lc-02-error-code": {
+    "topic": "Daikin mini split LC-02 error code",
+    "score": 3,
+    "reason": "No research provided to verify LC-02 is a real Daikin code; without documentation this appears to be invented content that could misinform users attempting repairs.",
+    "date": "2026-07-27"
+  },
+  "daikin-mini-split-pj-01-error-code": {
+    "topic": "Daikin mini split PJ-01 error code",
+    "score": 0,
+    "reason": "No research provided to verify PJ-01 is a real Daikin mini split code; cannot confirm accuracy for this brand+appliance combination, making publication irresponsible.",
+    "date": "2026-07-27"
+  },
+  "mitsubishi-mini-split-e8-error-code": {
+    "topic": "Mitsubishi mini split E8 error code",
+    "score": 3,
+    "reason": "No research provided to verify E8 is a real Mitsubishi mini-split code or validate the stated meaning; cannot confirm accuracy for this specific brand and appliance combination.",
+    "date": "2026-07-27"
+  },
+  "mitsubishi-mini-split-f1-error-code": {
+    "topic": "Mitsubishi mini split F1 error code",
+    "score": 0,
+    "reason": "No research provided to verify F1 is a real Mitsubishi mini-split code; cannot confirm accuracy of meaning or causes for this specific brand and appliance.",
+    "date": "2026-07-27"
+  },
+  "mitsubishi-mini-split-f2-error-code": {
+    "topic": "Mitsubishi mini split F2 error code",
+    "score": 3,
+    "reason": "No research provided to verify F2 is a real Mitsubishi code; meaning, causes, and fixes are ungrounded speculation that could mislead technicians and void warranties.",
+    "date": "2026-07-27"
+  },
+  "mitsubishi-mini-split-f3-error-code": {
+    "topic": "Mitsubishi mini split F3 error code",
+    "score": 2,
+    "reason": "No research provided to verify F3 is a real Mitsubishi mini-split code; content explicitly admits uncertainty ('exact meaning can vary by model') and lacks grounding, making it speculative filler that could mislead users.",
+    "date": "2026-07-27"
+  },
+  "mitsubishi-mini-split-f4-error-code": {
+    "topic": "Mitsubishi mini split F4 error code",
+    "score": 3,
+    "reason": "No research provided to verify F4 is a real Mitsubishi mini-split code; content appears speculative and generic without brand-specific grounding.",
+    "date": "2026-07-27"
+  },
+  "mitsubishi-mini-split-f5-error-code": {
+    "topic": "Mitsubishi mini split F5 error code",
+    "score": 3,
+    "reason": "No research provided to verify F5 is a real Mitsubishi mini split code; content may be invented or borrowed from other brands, failing verification requirement.",
+    "date": "2026-07-27"
+  },
+  "mitsubishi-mini-split-f6-error-code": {
+    "topic": "Mitsubishi mini split F6 error code",
+    "score": 3,
+    "reason": "No research provided to verify F6 is a real Mitsubishi mini-split code; content appears generic/speculative without documentation, failing verification requirement.",
+    "date": "2026-07-27"
   }
 }

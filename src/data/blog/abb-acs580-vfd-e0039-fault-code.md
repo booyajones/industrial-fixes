@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or VFD technician for any E0039 fault. Variable frequency drives store lethal high voltage on internal DC bus capacitors even after input power is removed, and improper handling can result in electric shock or arc flash. A trained technician has the tools to safely discharge capacitors, access internal diagnostics, and interpret parameter logs. If your facility does not have personnel trained on ABB drives, contact an ABB Authorized Service Provider who can remotely diagnose the fault or dispatch a technician with the correct replacement boards and firmware tools.
 
 **Rough cost:** A pro service call runs about $200-600.
+
+## See Also
+
+- [ABB ACS580 A3D0 Fault Code - Causes & Fix](/posts/abb-acs580-a3d0-fault-code/)
+- [ABB ACS580 A4A2 - Causes & Fix](/posts/abb-acs580-vfd-a4a2-fault-code/)
+- [ABB ACS880 Fault 3210 — DC Bus Undervoltage Causes & Fix](/posts/abb-acs880-fault-3210/)
+- [ABB ACS550 VFD EXT FAULT 1 - Causes & Fix](/posts/abb-acs550-vfd-ext-fault-1-fault-code/)

@@ -79,3 +79,10 @@ Answer these to narrow it down fast.
 Call a licensed technician if you are uncomfortable working with low-voltage electronics, if reseating connectors and replacing the cable does not resolve the error, or if you need to test circuit board voltages with a multimeter. A pro can quickly isolate whether the main PCB or display panel has failed and can verify that no other wiring faults exist elsewhere in the unit. Also call for service if the heater is under warranty, since DIY board replacement may void coverage.
 
 **Rough cost:** DIY runs about $50-150 in parts, 30-60 min. A pro service call runs about $150-350.
+
+## See Also
+
+- [Navien E323 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e323-error-code/)
+- [Navien E326 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e326-error-code/)
+- [Navien Tankless Water Heater E331 Error - Causes & Fix](/posts/navien-tankless-water-heater-e331-error-code/)
+- [Navien E140 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e140-error-code/)
