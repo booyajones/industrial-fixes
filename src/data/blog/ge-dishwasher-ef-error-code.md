@@ -17,8 +17,7 @@ money_part: "GE dishwasher detergent dispenser assembly"
 part_price: "$15-50"
 ---
 
-## GE Dishwasher EF Error Code — What It Means
-
+## What this code means
 The EF code indicates the detergent cup or dispenser did not open as expected during the cycle. The control detected that the dispenser door was either mechanically obstructed or failed to release properly. GE's guidance identifies this as a detergent cup blocked condition, meaning something physically prevented the door from swinging open to release detergent at the correct time.
 
 This fault is usually straightforward. An item inside the dishwasher, such as a tall pan, mixing bowl, or piece of silverware, has shifted during the fill or wash phase and now blocks the path of the dispenser door. Less often the latch mechanism itself may stick due to detergent buildup or a worn spring. The machine will not complete the cycle correctly because it cannot dispense detergent on schedule.
@@ -26,8 +25,6 @@ This fault is usually straightforward. An item inside the dishwasher, such as a 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the entire dispenser assembly or control board before simply checking for a physical obstruction. Open the door and look inside for any item touching or leaning against the detergent cup before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

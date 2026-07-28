@@ -13,11 +13,8 @@ money_part: "Drive belt (V-belt or synchronous)"
 most_likely_cause: "Broken or slipped drive belt"
 ---
 
-## Danfoss VFD Fault UL — What It Means
-
+## What this code means
 Fault UL (Underload) on a Danfoss FC series drive (FC102, FC202, FC302) indicates that the motor is drawing significantly less current than expected for the commanded speed and load. This is a process protection fault — the drive's underload curve detected that the mechanical load has dropped below the configured threshold, which typically signals a process problem: a broken belt on a fan or pump, pump cavitation, a conveyor chain that has snapped, or an empty hopper on a mixer.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Fault UL (Underload) on a Danfoss FC series drive (FC102, FC202, FC302) indicate
 ## When to Call a Pro
 
 If UL trips after belt replacement or pump priming and no mechanical fault is visible, have a process engineer review the system design. Recurring cavitation indicates undersized pump, incorrect speed setting, or system curve mismatch.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-
-## See Also
-
-- [Danfoss FC302 Alarm AL 29 — Causes & Fix](/posts/danfoss-fc302-fault-al-29/)
-- [Danfoss VFD Fault Codes — FC301, FC302, FC102 Reference](/posts/danfoss-vfd-fault-codes/)
-- [Danfoss VLT Alarm 14 - Earth Fault: What It Means and How to Fix It](/posts/danfoss-vlt-alarm-14/)
-- [Danfoss FC-302 Alarm 13 — DC Link Overvoltage Fix](/posts/danfoss-fc302-alarm-13/)

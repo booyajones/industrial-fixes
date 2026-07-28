@@ -21,15 +21,12 @@ part_price: "$50-150"
 no_buy_pct: "60%"
 ---
 
-## Yaskawa A1000 AL-08 — What It Means
-
+## What this code means
 AL-08 is an alarm (not a hard fault) that appears on Yaskawa A1000 drives operating in Closed Loop Vector or speed feedback mode. It indicates the drive has detected that encoder feedback signals are missing, unstable, or not properly received from the motor-mounted encoder. The drive may continue running but with degraded performance or loss of precise speed regulation. This alarm typically occurs when the encoder interface cannot establish or maintain communication with the position encoder, which the drive needs for accurate motor control in vector mode.
 
 ## Before You Replace Anything
 
 Technicians sometimes replace the encoder option card or the encoder itself before checking the cable. Test cable continuity and inspect terminations at both the drive and motor ends first, which costs nothing and finds most problems.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or controls electrician if you are not trained in variable frequency drive troubleshooting or if the drive operates in a critical process. Work on encoder systems requires understanding of signal integrity, proper cable shielding, and correct parameter configuration. If you lack a multimeter, spare option card, or experience with encoder wiring, professional diagnosis will save time and prevent damage to the drive or motor. High-voltage hazards remain present inside the drive even after power-down until the DC bus fully discharges, so always follow lockout-tagout procedures and consult the technical manual.
 
 **Rough cost:** A pro service call runs about $200-500.
-
-## See Also
-
-- [Yaskawa GA800 E20 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e20-fault-code/)
-- [Yaskawa A1000 oL5 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol5-fault-code/)
-- [Yaskawa GA800 E66 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e66-fault-code/)
-- [Yaskawa A1000 oL1 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol1-fault-code/)

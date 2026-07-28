@@ -13,11 +13,8 @@ money_part: "Siemens G120 cooling fan assembly"
 most_likely_cause: "Blocked or restricted airflow"
 ---
 
-## Siemens G120 F0004 — What It Means
-
+## What this code means
 F0004 on a Siemens G120 VFD signals an inverter or power module overtemperature fault. The drive has detected that the internal inverter temperature has exceeded its safe operating threshold and has shut down to protect the power stage from thermal damage. This fault is the drive's way of telling you that heat is not being removed fast enough from the power electronics, either because cooling has failed or because the drive is working too hard in a hot environment.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ F0004 on a Siemens G120 VFD signals an inverter or power module overtemperature 
 ## When to Call a Pro
 
 Call a qualified VFD technician or Siemens authorized service provider if the F0004 fault returns immediately after the drive has cooled and all visible cooling components (fans, filters, heatsinks) have been cleaned or replaced. Persistent overtemperature trips after environmental and airflow corrections usually indicate a failed power module, defective internal temperature sensor, or other circuit-level fault that requires diagnostic tools, replacement modules, and firmware-level troubleshooting beyond typical field maintenance.
-
-## See Also
-
-- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)
-- [Siemens Micromaster F0001 - Causes & Fix](/posts/siemens-micromaster-f0001-fault-code/)
-- [Siemens G120 A05002 - Causes & Fix](/posts/siemens-g120-a05002-fault-code/)
-- [Siemens G120 F0007 Fault Code - Causes & Fix](/posts/siemens-g120-vfd-f0007-fault-code/)

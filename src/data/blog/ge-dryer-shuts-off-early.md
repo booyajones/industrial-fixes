@@ -19,8 +19,6 @@ When your GE dryer shuts off early, it means the machine is stopping before the 
 
 This symptom is not a single fault code. It is a general complaint that can be caused by blocked airflow, failed safety switches, contaminated sensors, or motor and drive problems. GE service guidance lists blocked vents, the dryer motor, door latch, and moisture sensor as the main culprits.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Blocked vent or restricted airflow** Poor airflow from lint buildup, kinked ducts, or a stuck exterior flap causes overheating and triggers safety shutdown.

@@ -42,10 +42,3 @@ The Goodman GMSS96 is a residential 96% AFUE two-stage gas furnace that uses an 
 ## When to Call a Pro
 
 Call a licensed HVAC technician for any gas valve work, all gas piping or combustion diagnostics, rollout switch faults (6 flashes), suspected heat exchanger cracks, control board replacement, or any fault you cannot resolve after cleaning the flame sensor and checking the air filter. Professional combustion analysis and proper venting verification are required for safe operation, and most jurisdictions require a licensed contractor for all gas appliance repairs.
-
-## See Also
-
-- [Goodman Heat Pump B0 Error Code - Causes & Fix](/posts/goodman-heat-pump-b0-error-code/)
-- [Goodman Furnace Won't Turn On - Causes & Fix](/posts/goodman-furnace-wont-turn-on/)
-- [Goodman Furnace Blower Won't Shut Off - Causes & Fix](/posts/goodman-furnace-blower-wont-shut-off/)
-- [Goodman Furnace Igniter Not Working - Causes & Fix](/posts/goodman-furnace-igniter-not-working/)

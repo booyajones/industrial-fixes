@@ -16,15 +16,12 @@ diy_or_pro: "pro"
 money_part: "Oven temperature sensor / thermistor"
 ---
 
-## Samsung Oven C-21 Error Code — What It Means
-
+## What this code means
 The C-21 code indicates an over-temperature or overheating safety fault. Your oven's control board has detected that the cavity temperature climbed too high and has placed the unit into error mode to protect the appliance and your home. Field reports describe this code appearing when the oven continues heating past the set point and then trips on overheat. This is not simply a display error but a real overheating condition caused by a control, sensing, or heating problem.
 
 ## Before You Replace Anything
 
 Many people replace the control board first when the real fault is a bad temperature sensor or blocked vent. Test the sensor resistance with a meter and inspect airflow paths before ordering expensive electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

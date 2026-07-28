@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Electrolux Dryer E73 Error Code — What It Means
-
+## What this code means
 E73 on an Electrolux dryer signals that the control board is receiving an invalid temperature reading from the inlet thermistor. This sensor monitors the temperature of incoming air on the heater duct side. When the resistance or voltage from the thermistor falls outside the expected range, the control throws E73 and stops the dryer to prevent unsafe operation.
 
 The code does not mean the dryer is overheating. It means the control cannot trust the signal from the inlet sensor, either because the sensor itself has failed (open, shorted, or drifted out of spec), or because a wiring or connector problem is breaking the circuit between the sensor and the control board.
@@ -26,8 +25,6 @@ The code does not mean the dryer is overheating. It means the control cannot tru
 ## Before You Replace Anything
 
 Many people replace the control board first. Test the inlet thermistor with a multimeter and inspect all connectors before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

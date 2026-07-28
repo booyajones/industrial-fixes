@@ -19,8 +19,6 @@ When your Frigidaire dryer leaves clothes damp or stops too early, the automatic
 
 This symptom is often logged internally as an auto-dry sensor fault (AD code on some models), meaning the moisture sensor circuit is not providing trustworthy input to the control. The result is consistently damp laundry even after a full cycle.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty or coated moisture sensor bars** Lint, fabric softener residue, or oxidation on the sensor bars inside the drum blocks accurate moisture detection and causes false dry readings.
@@ -52,18 +50,18 @@ This symptom is often logged internally as an auto-dry sensor fault (AD code on 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Frigidaire Dryer Al 01 error code](/posts/frigidaire-dryer-al-01-error-code/)
+- Frigidaire Dryer Al 01 error code
 - [Frigidaire Dryer Al 02 error code](/posts/frigidaire-dryer-al-02-error-code/)
-- [Frigidaire Dryer Al 03 error code](/posts/frigidaire-dryer-al-03-error-code/)
+- Frigidaire Dryer Al 03 error code
 - [Frigidaire Dryer Al 04 error code](/posts/frigidaire-dryer-al-04-error-code/)
-- [Frigidaire Dryer Al 05 error code](/posts/frigidaire-dryer-al-05-error-code/)
-- [Frigidaire Dryer Al 06 error code](/posts/frigidaire-dryer-al-06-error-code/)
-- [Frigidaire Dryer Al 07 error code](/posts/frigidaire-dryer-al-07-error-code/)
-- [Frigidaire Dryer Al 08 error code](/posts/frigidaire-dryer-al-08-error-code/)
+- Frigidaire Dryer Al 05 error code
+- Frigidaire Dryer Al 06 error code
+- Frigidaire Dryer Al 07 error code
+- Frigidaire Dryer Al 08 error code
 - [Frigidaire Dryer Al 09 error code](/posts/frigidaire-dryer-al-09-error-code/)
-- [Frigidaire Dryer Al 10 error code](/posts/frigidaire-dryer-al-10-error-code/)
-- [Frigidaire Dryer Al 11 error code](/posts/frigidaire-dryer-al-11-error-code/)
-- [Frigidaire Dryer Al 12 error code](/posts/frigidaire-dryer-al-12-error-code/)
+- Frigidaire Dryer Al 10 error code
+- Frigidaire Dryer Al 11 error code
+- Frigidaire Dryer Al 12 error code
 
 ## When to Call a Pro
 

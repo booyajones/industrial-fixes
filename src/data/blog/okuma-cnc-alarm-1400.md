@@ -13,11 +13,8 @@ money_part: "Encoder backup battery"
 most_likely_cause: "Encoder battery low or dead"
 ---
 
-## Okuma CNC Alarm 1400 — What It Means
-
+## What this code means
 Alarm 1400 on an Okuma CNC machine indicates an encoder error on a servo axis. The Okuma OSP control detected a problem with the position feedback signal from the servo motor's built-in encoder (Okuma uses proprietary absolute encoders on most models). This alarm means the control cannot verify axis position and will not allow axis motion until the encoder fault is cleared. Alarm 1400 series (1400, 1401, 1402) covers different axes and encoder fault subtypes.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,18 +44,3 @@ Alarm 1400 on an Okuma CNC machine indicates an encoder error on a servo axis. T
 ## When to Call a Pro
 
 Okuma absolute encoder replacement and post-replacement calibration must be performed by an Okuma Factory Automation (OFA) certified technician. Incorrect calibration will result in positioning errors that can damage the machine or workpiece.
-
-## Related Articles
-
-- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
-- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
-- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-
-## See Also
-
-- [Okuma CNC Alarm 1013 — Servo Axis Fault Fix](/posts/okuma-cnc-alarm-1013-servo-axis-fault/)
-- [Okuma CNC Alarm 2030 Spindle Drive Fault — Causes & Fix](/posts/okuma-cnc-alarm-2030/)
-- [Okuma CNC Alarm 1600 — Communication Error Causes & Fix](/posts/okuma-cnc-alarm-1600/)
-- [Okuma CNC Alarm 1050 — Causes & Fix](/posts/okuma-cnc-alarm-1050/)

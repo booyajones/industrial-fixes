@@ -17,8 +17,7 @@ likelihood: "the most common repair-level cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Washer F5 E2 Error Code — What It Means
-
+## What this code means
 F5 E2 on Amana washers is a lid-lock or door-lock fault. The control is requesting a locked state but cannot confirm the lock has engaged. On Amana front-load machines, F5 E2 means the door is not locking properly. On Amana top-load machines, the same code indicates the lid lock cannot engage. In both cases, the washer will not start the wash cycle because it has not received the expected locked confirmation signal from the lock assembly.
 
 This code appears when the machine is attempting to secure the door or lid at the start of a cycle or during a spin phase. The control board is monitoring the lock circuit continuously. If the lock mechanism does not actuate, if the door or lid is not fully closed, or if the wiring between the lock and the control is faulty, the F5 E2 code will display and the cycle will halt.
@@ -26,8 +25,6 @@ This code appears when the machine is attempting to secure the door or lid at th
 ## Before You Replace Anything
 
 Homeowners often replace the main control board when they see a fault code, but F5 E2 almost always points to the lock assembly or its wiring. Test the lock and inspect the harness connector before buying a control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

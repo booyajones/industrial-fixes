@@ -17,8 +17,7 @@ free_checks:
   - "Verify that all wiring harness connectors to sensors and the control board are fully seated and not corroded."
 ---
 
-## Weil-McLain A179 Error Code — What It Means
-
+## What this code means
 A179 does not appear as a documented error code in the available Weil-McLain manufacturer materials for standard boiler control systems. Weil-McLain directs users to model-specific manuals and fault history menus to identify the exact meaning of any displayed code, because control platforms vary by model and year. Without confirmation from your boiler's manual, A179 cannot be assigned a verified cause or component.
 
 If you see A179 on your display, first write down the exact boiler model number (usually on the data plate inside the jacket or on the front panel) and consult the matching installation and service manual. The control board's diagnostic menu or fault history log may show additional information. General boiler faults often relate to ignition issues, low system pressure, sensor failures, venting or condensate blockages, or circulator problems, but the specific meaning of A179 will depend entirely on your model and control type.
@@ -26,8 +25,6 @@ If you see A179 on your display, first write down the exact boiler model number 
 ## Before You Replace Anything
 
 Because the code meaning is unconfirmed, technicians sometimes replace control boards or sensors before checking basic system conditions. Always verify that system pressure is in range, gas and power supply are good, and all wiring connectors are seated before ordering any part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician immediately if you cannot locate the A179 definition in your model's manual, if the fault persists after restoring system pressure and reseating connectors, or if you are uncomfortable working with gas supply, electrical control boards, or high-voltage wiring. Boiler diagnostics often require a multimeter to test sensor resistance and voltage, a combustion analyzer to verify ignition and flame quality, and specialized knowledge of the control platform. Incorrect troubleshooting can lead to unsafe operation, carbon monoxide risk, or damage to the heat exchanger. A qualified pro will retrieve the full fault history, test each sensor and switch against the manufacturer's specifications, and replace only the component that has actually failed.
 
 **Rough cost:** A pro service call runs about $150–400.
-
-## See Also
-
-- [Weil-McLain Boiler A64 Error - Causes & Fix](/posts/weil-mclain-boiler-a64-error-code/)
-- [Weil-McLain Boiler A139 Error - Causes & Fix](/posts/weil-mclain-boiler-a139-error-code/)
-- [Weil-McLain Boiler Error Code E01 — Lockout Fix](/posts/weil-mclain-e01-error-code/)
-- [Weil-McLain A118 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a118-error-code/)

@@ -17,8 +17,7 @@ money_part: "Samsung dryer thermistor / temperature sensor"
 part_price: "$15-50"
 ---
 
-## Samsung Dryer tO Error Code — What It Means
-
+## What this code means
 The tO (or t0) code on a Samsung dryer signals a temperature-sensing fault. Samsung groups this code with tS, t5, tC, tE, and similar errors under issues related to temperature sensors or abnormal temperature readings. The dryer's control board is detecting either a sensor reading outside normal range or a problem in the temperature-control circuit.
 
 This is not a communication error or a door-latch code. Samsung lists communication faults separately (codes like 3C, 1 AC7, HC2). The tO code specifically points to the dryer's ability to monitor or regulate its internal temperature, which can be disrupted by restricted airflow, a failing thermistor, power supply problems, or a control board issue.
@@ -27,8 +26,6 @@ This is not a communication error or a door-latch code. Samsung lists communicat
 
 Homeowners often replace the thermistor or control board first. Before ordering parts, clean the entire vent system and reset power for 60 seconds. Most tO codes clear once airflow is restored.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
 - **Restricted airflow** A clogged lint filter, blocked exhaust vent, or crushed duct traps heat inside the drum and drives the temperature sensor into fault range.
@@ -36,22 +33,6 @@ Homeowners often replace the thermistor or control board first. Before ordering 
 - **Sensor wiring or connector fault** Corrosion, a loose connector, or a damaged wire between the thermistor and the control board can interrupt the temperature signal.
 - **Abnormal supply voltage** Running the dryer on an extension cord, sharing a circuit, or receiving incorrect voltage for the model can cause erratic sensor behavior.
 - **Control board or firmware issue** If airflow and power are correct but the code persists after a reset, the main control board may have a failed sensor-input circuit or corrupted firmware.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Does the code clear after you power off the dryer for 60 seconds, clean the lint filter, and run a short test cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The problem was likely a temporary airflow restriction or heat buildup. Monitor the next few loads and keep the vent clean.<br><strong>No:</strong> The fault is persistent. Move to the next check.</div>
-</details>
-
-<details class="dtree"><summary>Is the exhaust vent hose crushed, kinked, or heavily clogged with lint?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Straighten or replace the duct and clear all lint from the vent termination outside. Retest after reassembly.<br><strong>No:</strong> Airflow is not the issue. Check power supply and sensor wiring next.</div>
-</details>
-
-<details class="dtree"><summary>Is the dryer plugged into its own dedicated circuit (not an extension cord or shared outlet)?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Power supply is correct. The thermistor, sensor wiring, or control board is likely at fault.<br><strong>No:</strong> Move the dryer to a proper dedicated circuit and retest. Voltage issues can mimic sensor faults.</div>
-</details>
 
 ## Step-by-Step Fix {#fix}
 
@@ -74,5 +55,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a technician if the tO code returns after you have cleaned the entire vent system, confirmed proper electrical supply, reset the dryer, and tested or replaced the thermistor. Persistent codes often indicate a control-board fault or a wiring harness issue that requires a multimeter, wiring diagram, and experience with Samsung's diagnostic modes. Also call for service if you are uncomfortable working with 240-volt connections or if your dryer is still under warranty, since DIY board swaps can void coverage.
-
-**Rough cost:** DIY runs about $15-50 in parts (thermistor or sensor), 30-60 min. A pro service call runs about $150-280 for service call and sensor replacement.

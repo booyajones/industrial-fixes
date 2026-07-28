@@ -13,11 +13,8 @@ money_part: "Siemens Micromaster I/O board"
 most_likely_cause: "Shorted IGBT or DC-link overcurrent"
 ---
 
-## Siemens Micromaster F0022 — What It Means
-
+## What this code means
 F0022 is a Powerstack fault code on Siemens Micromaster drives. It signals a hardware protection event inside the drive's power stage, not a simple overload. The drive has detected a serious condition such as DC-link overcurrent from a shorted IGBT, a braking chopper short circuit, an earth fault in the motor or cables, or a control board that is not fully seated. When this fault triggers, the drive shuts down to protect itself and the connected equipment.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ F0022 is a Powerstack fault code on Siemens Micromaster drives. It signals a har
 ## When to Call a Pro
 
 Call a qualified drives technician or authorized Siemens service partner if reseating the I/O board and inspecting cables does not clear the fault, or if the fault reappears with the motor disconnected. F0022 often points to an internal power stage or IGBT failure that requires specialized testing, safe handling of high-voltage DC bus capacitors, and factory-trained repair or replacement. Attempting to repair high-power inverter modules without proper training and equipment creates serious electrical hazards and can void your warranty.
-
-## See Also
-
-- [Siemens Micromaster F0052 - Causes & Fix](/posts/siemens-micromaster-vfd-f0052-fault-code/)
-- [Siemens G120 F0004 - Causes & Fix](/posts/siemens-g120-vfd-f0004-fault-code/)
-- [Siemens Micromaster F0051 - Causes & Fix](/posts/siemens-micromaster-f0051-fault-code/)
-- [Siemens Micromaster F0004 - Causes & Fix](/posts/siemens-micromaster-f0004-fault-code/)

@@ -74,13 +74,6 @@ If the cooling fan has been replaced, the heatsink is clean, clearances are corr
 
 ## Related Fault Codes
 
-- [Siemens SINAMICS V20 F1 Fault — Overcurrent](/posts/siemens-sinamics-v20-f1-fault/)
+- Siemens SINAMICS V20 F1 Fault — Overcurrent
 - [Siemens SINAMICS V20 Fault Codes Overview](/posts/siemens-sinamics-v20-f4-fault/)
-- [AB PowerFlex 40 F7 Fault — Motor Overtemperature](/posts/ab-powerflex-40-f7-fault/)
-
-## See Also
-
-- [Siemens Micromaster Fault F001 — Causes & Fix](/posts/siemens-micromaster-fault-f001/)
-- [Siemens Sinumerik Alarm 300204 — Causes & Fix](/posts/siemens-sinumerik-alarm-300204/)
-- [Siemens SINAMICS G120 F30001 Fault — Power Module Overcurrent Fix](/posts/siemens-sinamics-f30001-fault/)
-- [Siemens Sinumerik Alarm 380600 — Encoder Fault](/posts/siemens-sinumerik-alarm-380600/)
+- AB PowerFlex 40 F7 Fault — Motor Overtemperature

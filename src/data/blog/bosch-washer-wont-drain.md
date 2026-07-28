@@ -19,8 +19,6 @@ When a Bosch washer won't drain, the machine has failed to pump water out within
 
 Bosch groups this problem under blocked drain paths or pump maintenance issues. The machine's control board expects the drain pump to empty the tub within a set window. If water remains, the cycle halts to prevent flooding or damage. The fault is almost always mechanical (a clog, kink, or failed pump) rather than electronic.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged drain pump filter or coin trap** Lint, coins, buttons, hairpins, and other debris accumulate in the pump filter housing and block water flow, preventing the pump from evacuating the tub.
@@ -53,14 +51,14 @@ Bosch groups this problem under blocked drain paths or pump maintenance issues. 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Bosch Washer E15 error code](/posts/bosch-washer-e15-error-code/)
+- Bosch Washer E15 error code
 - [Bosch Washer E16 error code](/posts/bosch-washer-e16-error-code/)
 - [Bosch Washer E17 error code](/posts/bosch-washer-e17-error-code/)
 - [Bosch Washer E18 error code](/posts/bosch-washer-e18-error-code/)
 - [Bosch Washer E19 error code](/posts/bosch-washer-e19-error-code/)
 - [Bosch Washer E20 error code](/posts/bosch-washer-e20-error-code/)
-- [Bosch Washer E21 error code](/posts/bosch-washer-e21-error-code/)
-- [Bosch Washer E22 error code](/posts/bosch-washer-e22-error-code/)
+- Bosch Washer E21 error code
+- Bosch Washer E22 error code
 - [Bosch Washer E23 error code](/posts/bosch-washer-e23-error-code/)
 - [Bosch Washer E24 error code](/posts/bosch-washer-e24-error-code/)
 - [Bosch Washer E25 error code](/posts/bosch-washer-e25-error-code/)

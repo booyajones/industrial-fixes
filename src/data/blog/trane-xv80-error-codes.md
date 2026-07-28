@@ -17,8 +17,6 @@ money_part: "Flame sensor"
 
 The Trane XV80 is an 80% AFUE, variable-speed gas furnace using an ECM blower motor for precise airflow control. It communicates faults through a diagnostic LED on the integrated furnace control (IFC) board. Flash codes appear as a pattern of rapid blinks — the number of blinks before a pause identifies the fault condition.
 
-[Jump to Fix](#fix)
-
 ## Trane XV80 Flash Code Reference
 
 | Flash Code | Meaning |
@@ -68,18 +66,3 @@ The Trane XV80 is an 80% AFUE, variable-speed gas furnace using an ECM blower mo
 ## When to Call a Pro
 
 A cracked heat exchanger in the XV80 is a carbon monoxide hazard. If the rollout switch has tripped, do not operate the furnace until a licensed technician inspects the heat exchanger. ECM motor troubleshooting also benefits from Trane's proprietary diagnostic tools available to authorized dealers.
-
-## Related Articles
-
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-
-## See Also
-
-- [Trane 7 Flashes Error Code — Gas Valve Circuit Fault Fix](/posts/trane-7-flashes-error-code/)
-- [Trane ComfortLink II Error Codes — Common Faults and Fixes](/posts/trane-comfortlink-ii-error-codes/)
-- [Trane XL16i Error Codes — Heat Pump Fault Code Diagnostic Guide](/posts/trane-xl16i-error-codes/)
-- [Trane XR17 Heat Pump Error Codes - Fault Code and Flash Code Guide](/posts/trane-xr17-error-codes/)

@@ -17,8 +17,7 @@ money_part: "Relay Control Board"
 part_price: "$80-180"
 ---
 
-## Whirlpool Microwave F6 Error Code — What It Means
-
+## What this code means
 The F6 error code on a Whirlpool over-the-range microwave means the control system attempted to run a function and failed. Whirlpool identifies the relay control board or associated wiring as the likely fault path. This is a control-output fault, not just a button or display issue. The microwave cannot complete an operation it was commanded to perform.
 
 The code points to a hardware failure in the relay circuit or the wiring that carries power to the component being controlled. In some field reports, door-switch or interlock problems can trigger similar symptoms, so the actual fault may vary by model. A power glitch can occasionally cause a false F6 that clears after a reset, which is why Whirlpool recommends a power cycle before replacing parts.
@@ -26,8 +25,6 @@ The code points to a hardware failure in the relay circuit or the wiring that ca
 ## Before You Replace Anything
 
 Many people replace the main control board or keypad when the actual fault is a failed relay control board or a loose wiring connector. Always inspect the wiring harness and connectors for damage or loose pins before ordering a control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

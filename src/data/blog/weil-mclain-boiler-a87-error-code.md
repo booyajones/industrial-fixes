@@ -17,8 +17,7 @@ free_checks:
   - "Power-cycle the boiler (turn off the switch or breaker for 30 seconds) to see if the code clears or changes"
 ---
 
-## Weil-McLain Boiler A87 Error Code — What It Means
-
+## What this code means
 A87 does not appear as a documented fault code in Weil-McLain boiler service literature. Weil-McLain uses different control platforms across their models, and each control system has its own fault code definitions. What appears as A87 on your display may be a misread code, a fault history entry, or a code specific to a third-party control board installed during a retrofit. The exact meaning depends entirely on your boiler model number and the type of control display you have.
 
 Before attempting any repair, locate the model number and serial number on the boiler nameplate. Write down exactly what the control display shows, including any other letters, numbers, or flashing patterns. Access the fault history or lockout menu if your control supports it (button sequences vary by model). Only after you have the model and control type can you look up the real fault definition in the manufacturer's installation and service manual for that specific unit.
@@ -26,8 +25,6 @@ Before attempting any repair, locate the model number and serial number on the b
 ## Before You Replace Anything
 
 Do not order or replace any parts based on an unverified code number. Confirm the exact fault definition in your model's manual before diagnosing, or you may replace a working sensor or board unnecessarily.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician immediately if you cannot locate the model number, if the manual for your model does not list the code you see, or if the boiler is locked out and will not fire. Gas-fired boiler diagnostics require combustion analysis, pressure testing, and electrical measurements that are not safe or practical for a homeowner. A pro will identify the control platform, pull the real fault history, test safeties and sensors with a multimeter, and verify proper combustion and venting. If the code turns out to be a control board or gas valve issue, the technician can source the correct part and complete any required startup and warranty registration. Do not bypass safeties or attempt to force the boiler to run without understanding the fault.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain A104 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a104-error-code/)
-- [Weil-McLain Boiler A143 Error - Causes & Fix](/posts/weil-mclain-boiler-a143-error-code/)
-- [Weil-McLain Boiler A33 Error - Causes & Fix](/posts/weil-mclain-boiler-a33-error-code/)
-- [Weil-McLain A03 Error - Causes & Fix](/posts/weil-mclain-boiler-a03-error-code/)

@@ -107,10 +107,3 @@ IE = inlet error (not filling). OE = outlet error (not draining). Different faul
 
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Samsung vs LG French door refrigerators](/posts/samsung-vs-lg-french-door-refrigerators/)
-
-## See Also
-
-- [LG Mini-Split CH05 Error Code — Causes & Fix](/posts/lg-mini-split-ch05-error-code/)
-- [LG Multi V VRF System Error Codes: Complete Guide](/posts/lg-multi-v-error-codes/)
-- [LG Mini Split CH01 Error Code — Causes & Fix](/posts/lg-mini-split-ch01-error-code/)
-- [LG Washer Error Codes — Complete Fix Guide](/posts/lg-washer-error-codes/)

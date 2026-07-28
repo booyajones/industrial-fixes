@@ -13,11 +13,8 @@ money_part: "Ignition rod electrode assembly"
 most_likely_cause: "No or weak spark at the ignition rod"
 ---
 
-## Noritz Error Code 11 — What It Means
-
+## What this code means
 Noritz Error Code 11 indicates an ignition failure. The heater detects hot-water demand but cannot light the burner, or it lights briefly and then fails flame detection. The code tells you that either no spark is reaching the burner, insufficient gas is available, or the flame-detection circuit cannot prove that a flame is present. Ignition failures happen in two ways: the unit does not ignite at all, or it ignites for a moment but the flame rod does not confirm the flame and the board shuts down the call.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

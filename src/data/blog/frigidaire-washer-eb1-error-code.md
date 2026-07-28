@@ -21,15 +21,12 @@ free_checks:
 part_price: "$150-220"
 ---
 
-## Frigidaire Washer EB1 Error Code — What It Means
-
+## What this code means
 EB1 on a Frigidaire washer indicates the control board believes the incoming line frequency is outside its acceptable range. This is a power-supply fault, not a water-fill, drain, or door-lock issue. North American washers expect 60 Hz supply. The code appears when the washer detects frequency variation, unstable power, or when the board itself has become sensitive or failed and reports a false fault even when household power is normal.
 
 ## Before You Replace Anything
 
 Many replace the main control board first without checking household power. Measure the supply frequency and voltage at the receptacle with a meter before ordering any part, because EB1 is fundamentally a line-frequency detection fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

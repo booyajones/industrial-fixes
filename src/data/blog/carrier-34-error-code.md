@@ -57,18 +57,3 @@ description: "Carrier error code 34 means ignition proving failure — the furna
 If you've cleaned the flame sensor, confirmed igniter resistance, and verified gas pressure but the fault persists, you're likely dealing with a cracked heat exchanger or a failing control board. A cracked heat exchanger is a carbon monoxide safety hazard — do not run the furnace. Tell your tech: "I've already cleaned the flame sensor and checked gas pressure. I'm getting code 3-4 and the flame sensor reads under 0.5 microamps even on a clean rod. I want you to check the heat exchanger and the board."
 
 > **Pro tip:** Always check gas pressure *at the manifold* during operation, not just at the meter. A perfectly good gas supply can show low manifold pressure if the combination gas valve regulator is failing — and replacing the flame sensor won't fix that.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier Mini-Split F0 Error Code — Low Refrigerant / Leakage Detection Fix](/posts/carrier-mini-split-f0-error-code/)
-- [Carrier Mini-Split P4 Error Code — Inverter Module Overtemperature Fix](/posts/carrier-mini-split-p4-error-code/)
-- [Carrier 43 Error Code — Rollout Switch Open Fix](/posts/carrier-43-error-code/)
-- [Carrier 33 Error Code — Causes & Fix](/posts/carrier-33-error-code/)

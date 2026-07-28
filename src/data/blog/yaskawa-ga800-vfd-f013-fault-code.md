@@ -17,8 +17,7 @@ free_checks:
   - "Verify that all three input phases are present and stable at the incoming power supply"
 ---
 
-## Yaskawa GA800 F013 Fault — What It Means
-
+## What this code means
 The F013 fault code does not appear in the available Yaskawa GA800 documentation or manuals. Standard GA800 fault codes include PF (Phase Loss), OC (Overcurrent), OV (Overvoltage), and UV (Undervoltage). The code displayed may be a misread (such as confusing PF with F013), a typographical error, or a code not listed in publicly accessible service documents. You should carefully re-check the keypad display and consult the drive's technical manual or contact Yaskawa Technical Support directly at repair@yaskawa.com or 1.800.927.5292 for the specific definition.
 
 If the actual fault is PF (Phase Loss), it indicates Input Phase Loss caused by a dropped phase in the drive input power or loose wiring at the input terminals. If the fault is OC (Overcurrent), it points to rapidly oscillating torque reference, mechanical binding, or a ground fault in the motor. Without confirmation of the exact code, proceed by inspecting input power connections, checking for loose terminals, and monitoring output current for abnormal behavior.
@@ -26,8 +25,6 @@ If the actual fault is PF (Phase Loss), it indicates Input Phase Loss caused by 
 ## Before You Replace Anything
 
 Technicians sometimes replace the motor after an overcurrent fault without first checking for loose encoder couplings, mechanical binding, or poor grounding. Perform a megger test on the motor leads (not the drive itself) and inspect all mechanical connections before ordering a new motor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

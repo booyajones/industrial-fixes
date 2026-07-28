@@ -14,11 +14,8 @@ money_part: "Panasonic microwave water tank assembly"
 most_likely_cause: "Water tank is actually empty"
 ---
 
-## Panasonic Microwave U14 Error Code — What It Means
-
+## What this code means
 The U14 error code on a Panasonic microwave indicates that the water tank is empty on models equipped with steam-cooking or water-tank operation. This is a self-diagnostic fault that tells you the unit cannot detect water in the tank during a steam cooking cycle. Panasonic's official troubleshooting instructions state that U14 means the water tank is empty and requires a refill, proper reinstallation, and a reset to clear the code.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -17,8 +17,7 @@ free_checks:
   - "Check that the boiler's power switch and circuit breaker are both on and that the thermostat is calling for heat"
 ---
 
-## Weil-McLain A145 Error Code — What It Means
-
+## What this code means
 A145 does not appear in published Weil-McLain boiler documentation as a universal fault code. Weil-McLain controls typically display E-codes, lockout messages, or history-menu entries rather than A-series codes. The display may be showing a partial code, a code from a third-party control mounted on the boiler, or a model-specific sequence that requires the exact boiler model and control board type to interpret.
 
 Before troubleshooting, locate the boiler model number and control-board label on the unit itself. Consult that model's installation and service manual for the complete fault-code table. If the boiler is under warranty, Weil-McLain requires a qualified technician to identify the failed part and part number from the actual boiler before authorizing any claim.
@@ -26,8 +25,6 @@ Before troubleshooting, locate the boiler model number and control-board label o
 ## Before You Replace Anything
 
 Without the correct code definition, technicians sometimes replace ignition or flame-sensor components when the real fault is a venting, gas-valve, or pressure-switch issue. Always retrieve the active and historical fault codes from the control's diagnostics menu and test the associated input before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified heating technician immediately if you cannot locate the A145 code in your boiler's manual, if the boiler is locked out and will not fire, or if you are unfamiliar with gas-appliance diagnostics. All Weil-McLain boilers require a licensed professional for work on gas valves, venting, pressure switches, and control boards. Warranty coverage depends on proper diagnosis and documentation of the failed part by a qualified installer, so attempting repairs without confirming the exact fault may void coverage and create unsafe operating conditions.
 
 **Rough cost:** A pro service call runs about $150–400 depending on diagnosis and part.
-
-## See Also
-
-- [Weil-McLain Boiler A113 Error - Causes & Fix](/posts/weil-mclain-boiler-a113-error-code/)
-- [Weil-McLain A99 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a99-error-code/)
-- [Weil-McLain Boiler Error Code E10 — Causes & Fix](/posts/weil-mclain-e10-error-code/)
-- [Weil-McLain A134 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a134-error-code/)

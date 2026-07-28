@@ -19,8 +19,6 @@ A Samsung dryer that won't tumble means the unit has power and may light up or a
 
 If the display shows an error code or blinking lights, that code may be preventing the dryer from starting. If there is no code, Samsung advises turning off Child Lock and running a Time Dry cycle while holding Start until the timer counts down. If the drum still will not turn after those checks, the problem moves to the door circuit, drive components, or control board.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Child Lock enabled** Samsung states Child Lock stops the Start button from working, which can make it look like the drum will not start turning.
@@ -63,7 +61,7 @@ Seeing a code on the display? These match this problem:
 - [Samsung Dryer Be error code](/posts/samsung-dryer-be-error-code/)
 - [Samsung Dryer Be2 error code](/posts/samsung-dryer-be2-error-code/)
 - [Samsung Dryer C1 error code](/posts/samsung-dryer-c1-error-code/)
-- [Samsung Dryer C2 error code](/posts/samsung-dryer-c2-error-code/)
+- Samsung Dryer C2 error code
 - [Samsung Dryer C8 error code](/posts/samsung-dryer-c8-error-code/)
 - [Samsung Dryer C80 error code](/posts/samsung-dryer-c80-error-code/)
 

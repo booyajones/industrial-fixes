@@ -20,8 +20,6 @@ When a Frigidaire oven self-clean cycle will not start, will not latch, or will 
 
 If the cycle will not start, the oven is usually not detecting a closed and locked door, correct control input, or proper power. If it starts but the door stays locked, the issue is often the lock motor, a bad microswitch, or an interrupted cycle leaving the latch in an abnormal state. If the oven will not get hot enough during cleaning, the likely causes are heating-element, sensor, or control-board faults.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door lock motor or assembly failure** The lock motor windings fail or the latch mechanism jams, preventing the door from locking or unlocking.
@@ -56,18 +54,18 @@ If the cycle will not start, the oven is usually not detecting a closed and lock
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Frigidaire Oven F1 error code](/posts/frigidaire-oven-f1-error-code/)
-- [Frigidaire Oven F10 error code](/posts/frigidaire-oven-f10-error-code/)
-- [Frigidaire Oven F11 error code](/posts/frigidaire-oven-f11-error-code/)
-- [Frigidaire Oven F12 error code](/posts/frigidaire-oven-f12-error-code/)
-- [Frigidaire Oven F13 error code](/posts/frigidaire-oven-f13-error-code/)
-- [Frigidaire Oven F2 error code](/posts/frigidaire-oven-f2-error-code/)
-- [Frigidaire Oven F20 error code](/posts/frigidaire-oven-f20-error-code/)
+- Frigidaire Oven F1 error code
+- Frigidaire Oven F10 error code
+- Frigidaire Oven F11 error code
+- Frigidaire Oven F12 error code
+- Frigidaire Oven F13 error code
+- Frigidaire Oven F2 error code
+- Frigidaire Oven F20 error code
 - [Frigidaire Oven F26 error code](/posts/frigidaire-oven-f26-error-code/)
-- [Frigidaire Oven F3 error code](/posts/frigidaire-oven-f3-error-code/)
-- [Frigidaire Oven F30 error code](/posts/frigidaire-oven-f30-error-code/)
-- [Frigidaire Oven F31 error code](/posts/frigidaire-oven-f31-error-code/)
-- [Frigidaire Oven F40 error code](/posts/frigidaire-oven-f40-error-code/)
+- Frigidaire Oven F3 error code
+- Frigidaire Oven F30 error code
+- Frigidaire Oven F31 error code
+- Frigidaire Oven F40 error code
 
 ## When to Call a Pro
 

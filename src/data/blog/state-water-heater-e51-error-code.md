@@ -13,13 +13,10 @@ money_part: "Temperature sensor (thermistor)"
 most_likely_cause: "Failed thermistor"
 ---
 
-## State Water Heater E51 Error Code — What It Means
-
+## What this code means
 The E51 error code on State tankless water heaters signals a temperature sensor (thermistor) problem. The control board has detected that one of the thermistors is reading abnormal resistance or has lost communication with the sensor. This code appears in A. O. Smith and State-family tankless models and requires a diagnostic check of sensor resistance and wiring before any parts are replaced.
 
 The heater will not operate normally until the faulty sensor or control board is addressed. Because State does not publish a standalone E51 definition on its public support pages, this guidance is drawn from A. O. Smith tankless service manuals that share the same fault-code architecture.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

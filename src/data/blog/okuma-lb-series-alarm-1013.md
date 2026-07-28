@@ -13,11 +13,8 @@ money_part: "Servo encoder cable"
 most_likely_cause: "Encoder cable damage or disconnection"
 ---
 
-## Okuma LB-Series Alarm 1013 — What It Means
-
+## What this code means
 Okuma Alarm 1013 on LB-Series CNC lathes (LB-3000, LB-4000, LB-6000 and similar) indicates a servo axis fault — the servo system detected an abnormal condition on one of the lathe's controlled axes (X, Z, or turret). On lathes, this most commonly affects the X and Z axes that position the cutting tool. The alarm stops all motion and spindle operation.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Okuma Alarm 1013 on LB-Series CNC lathes (LB-3000, LB-4000, LB-6000 and similar)
 ## When to Call a Pro
 
 Okuma LB-Series servo system work requires factory-trained service for drive calibration and axis accuracy verification after any mechanical or electrical repair.
-
-## Related Articles
-
-- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
-- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
-- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-
-## See Also
-
-- [Okuma CNC Alarm 4000 - Causes & Fix](/posts/okuma-cnc-alarm-4000/)
-- [Okuma CNC Alarm 1800 — Causes & Fix](/posts/okuma-cnc-alarm-1800/)
-- [Okuma CNC Alarm 1013 — Servo Axis Fault Fix](/posts/okuma-cnc-alarm-1013-servo-axis-fault/)
-- [Okuma CNC Alarm 1400 — Encoder Error](/posts/okuma-cnc-alarm-1400/)

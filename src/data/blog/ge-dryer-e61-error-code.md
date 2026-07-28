@@ -20,8 +20,7 @@ free_checks:
 part_price: "$100-180"
 ---
 
-## GE Dryer E61 Error Code — What It Means
-
+## What this code means
 The E61 error code on a GE dryer (especially front-load models using the GE/Electrolux platform) indicates a heater relay fault on the main control board or a heating circuit problem that the control interprets as a relay failure. The control board detects that the heating relay is stuck, failed to open or close correctly, or that the heating element circuit has shorted to the dryer cabinet.
 
 This is not a door latch issue or a simple airflow blockage. The code points to an electrical fault in the heating system, either on the control board itself or in the heater element and its wiring. The dryer will typically stop heating or refuse to start a cycle until the fault is corrected.
@@ -29,8 +28,6 @@ This is not a door latch issue or a simple airflow blockage. The code points to 
 ## Before You Replace Anything
 
 Many people replace the heating element first, but a stuck relay on the control board is often the real problem. Test the heater for ground faults and check the relay on the board before ordering a new element.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

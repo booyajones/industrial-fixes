@@ -17,8 +17,7 @@ money_part: "LG dishwasher wash motor / circulation motor assembly"
 part_price: "$100-250"
 ---
 
-## LG Dishwasher CE Error Code — What It Means
-
+## What this code means
 LG states that the CE (or LE) display message is a motor error on dishwashers. It may indicate an issue with the motor itself or the wiring harness between the motor and the control board. The code is tied specifically to the wash motor or circulation motor circuit, not a general communication fault.
 
 When the control board loses proper signal from the motor or detects an abnormal load condition, it halts the cycle and displays CE. The fault can stem from a failed motor assembly, a loose or corroded connector, or damage along the motor harness.
@@ -26,8 +25,6 @@ When the control board loses proper signal from the motor or detects an abnormal
 ## Before You Replace Anything
 
 Many owners replace the main control board first, assuming an electronics fault. Inspect and test the motor wiring harness and motor assembly connector integrity before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working with electrical connections, if the dishwasher is built-in and difficult to access, or if the error persists after you have verified wiring integrity and replaced the motor assembly. A technician can perform resistance and voltage tests on the motor windings and control board outputs, confirm that household water pressure is above 20 PSI (which LG specifies for proper operation), and diagnose any interaction between the door latch sensor and motor circuit that might contribute to the fault.
 
 **Rough cost:** DIY runs about $100–250 in parts (motor assembly), 1–2 hours. A pro service call runs about $200–400 for diagnosis and motor replacement.
-
-## See Also
-
-- [LG Mini-Split CH27 Error Code - Causes & Fix](/posts/lg-mini-split-ch27-error-code/)
-- [LG LREL6323S Oven Problems & Error Codes](/posts/lg-lrel6323s-oven-problems/)
-- [LG Dryer tE2 Error Code - Causes & Fix](/posts/lg-dryer-te2-error-code/)
-- [LG Dryer HS Error Code - Causes & Fix](/posts/lg-dryer-hs-error-code/)

@@ -121,12 +121,5 @@ Code 23 = low-side cutout (suction). Code 25 = high-side cutout (discharge). Dif
 ## Related guides
 
 - [Trane Voyager RTU Error Code 31 — Fix](/posts/trane-voyager-rtu-error-code-31)
-- [Carrier 41 Error Code — Blower Motor Failure Fix](/posts/carrier-41-error-code)
+- Carrier 41 Error Code — Blower Motor Failure Fix
 - [Bryant Error Code 13 — Limit Lockout Fix](/posts/bryant-error-code-13)
-
-## See Also
-
-- [Carrier E25 Error Code - Causes & Fix](/posts/carrier-heat-pump-e25-error-code/)
-- [Carrier Infinity Touch Thermostat Error Codes - What It Means and How to Fix It](/posts/carrier-infinity-touch-thermostat-error-codes/)
-- [Carrier Error Code 19 - Causes & Fix](/posts/carrier-error-code-19/)
-- [Carrier Geothermal Heat Pump Error Codes Guide](/posts/carrier-geothermal-error-codes/)

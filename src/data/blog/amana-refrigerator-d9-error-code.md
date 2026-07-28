@@ -17,8 +17,7 @@ money_part: "Amana refrigerator user interface control board"
 part_price: "$80-200"
 ---
 
-## Amana Refrigerator D9 Error Code — What It Means
-
+## What this code means
 The D9 code does not appear in published Amana refrigerator fault-code tables or service documentation. Amana side-by-side models do have a diagnostic mode where the control steps through numbered test sequences and fault codes (for example, D7 indicates a main control board issue), but D9 is not defined in the available manufacturer materials. If your display shows D9, it may be a model-specific diagnostic indicator, a communication error between boards, or a code from a different appliance altogether.
 
 Because the exact meaning cannot be verified from Amana sources, treat D9 as a general control-system alert. The usual field causes for undefined or intermittent codes on Amana refrigerators are the user interface board, the main control board, loose or corroded wiring harness connectors, or a momentary power glitch. Always start by performing a hard power reset and checking that the full model number on your data tag matches Amana refrigerator documentation before ordering parts.
@@ -26,8 +25,6 @@ Because the exact meaning cannot be verified from Amana sources, treat D9 as a g
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first. Before ordering, enter diagnostic mode using your model's button sequence, document all codes, and inspect every harness connector for loose pins or corrosion.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

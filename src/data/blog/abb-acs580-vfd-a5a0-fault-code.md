@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## ABB ACS580 A5A0 Fault — What It Means
-
+## What this code means
 The A5A0 fault code on an ABB ACS580 variable frequency drive indicates that the Safe Torque Off (STO) function is active. This means the drive has detected that the external safety circuit signal connected to the STO connector (XSTO) has been lost or interrupted. The drive stops delivering torque to the motor as a safety precaution.
 
 The STO function is triggered by external safety devices such as emergency stop buttons, safety door interlocks, or machine safety relays. When any of these devices open the circuit, the drive enters a safe state and logs the A5A0 fault. This is a normal protective response, not necessarily a drive failure. The fault is linked to parameter 31.22 (STO diagnostics) in the drive's programming.
@@ -29,8 +28,6 @@ The STO function is triggered by external safety devices such as emergency stop 
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board when the real issue is simply a loose jumper pin inside the XSTO connector or an accidentally pressed emergency stop button. Always verify continuity across the entire safety loop with a multimeter before ordering any boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or controls technician if you are not familiar with VFD safety circuits, 24VDC measurements, or parameter programming. Safe Torque Off is a critical safety function, and incorrect troubleshooting can create hazards. A professional should handle any work that involves replacing internal power supply boards or control boards, diagnosing electrical noise issues, or integrating the drive with machine safety systems. If the fault returns intermittently or you cannot locate the open circuit, a technician with a scope and wiring diagrams can trace the signal path and identify the root cause.
 
 **Rough cost:** A pro service call runs about $150-400 depending on whether the fix is wiring or a board replacement.
-
-## See Also
-
-- [ABB ACS580 B1 Fault Code - Causes & Fix](/posts/abb-acs580-b1-fault-code/)
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS580 A7AB Fault - Causes & Fix](/posts/abb-acs580-a7ab-fault-code/)
-- [ABB VFD Fault 2201 — Overcurrent Fix](/posts/abb-vfd-fault-2201-overcurrent/)

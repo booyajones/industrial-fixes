@@ -44,10 +44,3 @@ Most code 12 calls come down to gas supply restrictions, blocked or improperly c
 ## When to Call a Pro
 
 Call a licensed gas technician for any work involving gas line modifications, gas pressure testing, manifold pressure adjustment, or internal combustion component replacement. Tankless water heaters require precise gas delivery and venting to operate safely, and improper repairs can create carbon monoxide hazards or fire risks. If you have cleared obvious venting blockages and confirmed the gas shutoff is open but the unit still throws code 12, a pro with a manometer and combustion analyzer can diagnose gas pressure, flame sensing, and control board issues accurately. Any situation involving gas odors, repeated lockouts, or uncertainty about the gas supply or vent configuration should be handled by a qualified service technician. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
-- [Rinnai V65iN Problems & Error Codes](/posts/rinnai-v65in-water-heater-problems/)
-- [Rinnai LC Error Code - Causes & Fix](/posts/rinnai-tankless-water-heater-lc-error-code/)
-- [Rinnai Water Heater Not Enough Hot Water - Causes & Fix](/posts/rinnai-water-heater-not-enough-hot-water/)

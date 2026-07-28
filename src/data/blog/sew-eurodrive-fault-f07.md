@@ -13,11 +13,8 @@ money_part: "Braking resistor (SEW-specified)"
 most_likely_cause: "Deceleration ramp too short"
 ---
 
-## SEW-Eurodrive Fault F07 — What It Means
-
+## What this code means
 SEW-Eurodrive fault F07 means overvoltage on the DC link — the DC bus voltage exceeded the maximum allowable threshold. On SEW MOVITRAC B, MOVIDRIVE B, and MOVIMOT series drives, F07 is triggered when the DC bus rises above approximately 800–850 VDC on a 480V-class drive, or 400–420 VDC on a 240V-class drive. DC bus overvoltage is typically caused by regenerative energy — kinetic energy from a decelerating load feeding voltage back into the bus faster than the bus can absorb it or dissipate it through a braking resistor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -64,7 +61,6 @@ Compiled from manufacturer service manuals and authorized documentation.
 | F94 | EEPROM checksum. Immediate switch-off with inhibit. | Defective EEPROM, or the parameter module was removed during a copy operation. | Load factory settings or restore a complete data set from a parameter module. If the fault returns, the unit needs service. |
 | F113 | Analog input open circuit. Rapid stop/warning. | AI1 analog input open circuit. | Check the analog reference wiring to AI1 for a break or loose terminal and confirm the source signal is present. Review the analog input startup/scaling settings. |
 
-
 ## How to troubleshoot Sew Eurodrive Fault F07
 
 On any SEW-Eurodrive drive (MOVITRAC B, MOVIDRIVE B, MOVIMOT), start by reading the exact fault code and the fault history from the keypad or MOVITOOLS/MotionStudio before touching anything. The code plus the stored fault memory tells you whether the trip happened during acceleration, at constant speed, during deceleration, or at power-up, which narrows the cause faster than any single measurement.
@@ -74,7 +70,6 @@ Work from the most common failure modes outward. Deceleration-time faults (F07 D
 Safety first: a VFD DC bus holds a lethal charge for several minutes after power-off. Always lock out and tag out, wait the full discharge time stated in the manual, and verify zero volts across the DC link terminals with a meter before opening the drive or disconnecting motor leads. Never reset a drive repeatedly into a hard fault; a persistent overcurrent or ground fault can escalate damage.
 
 Call a certified technician when the fault persists after the motor and cabling are proven good, when a code points to internal hardware (a system-software or watchdog fault, F94/F97/F98 memory faults, or a failed output stage), or when the drive shows physical damage or a burnt smell. Those are unit-level repairs, not field parameter changes.
-
 
 ## Frequently asked questions
 
@@ -98,11 +93,9 @@ The common fixes are field-serviceable: lengthening the deceleration ramp in the
 
 Use the keypad menu or connect with MOVITOOLS MotionStudio to view the stored fault memory. The history shows the sequence of recent faults and the operating state at the time of each trip, which helps confirm whether F07 occurred during deceleration versus at another point in the cycle.
 
-
 ## Related guides
 
 - [Sew Eurodrive Vfd Fault Codes](/posts/sew-eurodrive-vfd-fault-codes/)
 - [Delta Vfd Fault Codes](/posts/delta-vfd-fault-codes/)
 - [Siemens Sinumerik Alarm 25000 Drive Fault](/posts/siemens-sinumerik-alarm-25000-drive-fault/)
 - [Abb Acs880 Complete Guide](/posts/abb-acs880-complete-guide/)
-

@@ -22,8 +22,6 @@ The Lennox EL296V is a two-stage, variable-speed ECM blower, 96% AFUE gas furnac
 
 The EL296V uses the same Lennox diagnostic code system as the SLP98V and SL280UHV. This means each code has its own dedicated diagnostic path — and most codes have dedicated articles on this site.
 
-[Jump to Fix](#step-by-step-fix)
-
 ### EL296V Complete Error Code Reference
 
 | Code | Category | Fault Description |
@@ -114,20 +112,3 @@ The EL296V has a two-stage inducer and two-stage pressure switches. In first-sta
 - Any code 22 that persists after igniter replacement — may indicate gas valve failure or a combustion air/venting issue.
 
 > **EL296V owner tip:** The EL296V's iComfort thermostat displays error codes in plain English. If your thermostat shows "Code 31 — High Limit Fault," that's exactly what's in this article. Take a photo of the thermostat display — it captures the code, the date/time, and the number of occurrences, which is extremely useful information for your technician.
-
-## See Also
-
-- [Lennox Furnace Error Codes — Master Reference](/posts/lennox-furnace-error-codes/)
-- [Lennox SLP98V Error Codes — Variable-Capacity Furnace Guide](/posts/lennox-slp98v-error-codes/)
-- [Lennox SL280UHV Error Codes — Two-Stage Variable-Speed Guide](/posts/lennox-sl280uhv-error-codes/)
-- [Lennox Error Code 434 — Ignition Lockout Fix](/posts/lennox-error-code-434/)
-- [Lennox Error Code 411 — High Limit Diagnosis](/posts/lennox-error-code-411/)
-- [Lennox iComfort Error Codes — Communicating System Guide](/posts/lennox-icomfort-error-codes/)
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-- [Lennox Error Code 114 — Causes & Fix](/posts/lennox-error-code-114/)

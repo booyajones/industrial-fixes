@@ -13,13 +13,10 @@ money_part: "Danfoss brake resistor"
 most_likely_cause: "Brake resistor undersized for the application"
 ---
 
-## Danfoss FC302 ALARM 26 — What It Means
-
+## What this code means
 ALARM 26 on the Danfoss VLT AutomationDrive FC 302 (and FC 301) indicates brake resistor power limit or brake overload. The drive continuously calculates the braking power being dissipated in the brake resistor using a mean value over the last 120 seconds of run time, based on DC-link voltage and the brake resistor value you entered in parameter 2-16 AC Brake Max. Current. The alarm activates when dissipated braking power exceeds 90% of the configured brake resistor power limit. If parameter 2-13 Brake Power Monitoring is set to trip, the drive will shut down when braking power reaches 100% of the limit.
 
 This fault does not mean the brake resistor has failed electrically in most cases. It means the resistor is being asked to dissipate more thermal energy than it can handle safely over time. The drive is protecting the resistor (and itself) from thermal damage by warning you or tripping before the resistor overheats or burns out.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ This fault does not mean the brake resistor has failed electrically in most case
 ## When to Call a Pro
 
 Call a qualified technician or Danfoss service partner if the alarm persists after you have verified correct resistor sizing, wiring integrity, and parameter settings. If the brake resistor tests good and the application duty cycle is within normal limits but the drive continues to trip, the internal brake chopper circuit or brake monitoring path may be faulty and will require drive-level diagnostics or hardware replacement. Also call a professional if you are unsure how to safely measure DC-link components, interpret drive parameters, or size a replacement brake resistor for your specific load and deceleration profile.
-
-## See Also
-
-- [Danfoss FC302 Alarm 23 - Causes & Fix](/posts/danfoss-fc302-alarm-23-fault-code/)
-- [Danfoss VFD Fault OL — Causes & Fix](/posts/danfoss-vfd-fault-ol/)
-- [Danfoss FC302 Alarm 17 - Causes & Fix](/posts/danfoss-fc302-alarm-17-fault-code/)
-- [Danfoss VFD Fault Codes — FC301, FC302, FC102 Reference](/posts/danfoss-vfd-fault-codes/)

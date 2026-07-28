@@ -64,10 +64,3 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 Call a pro if the gasket appears normal but the door still won't seal, which may point to a bent or misaligned door hinge, a warped cabinet frame, or internal hardware failure. If you've reseated the gasket by pushing it fully into the groove and the magnetic contact is still weak or uneven, the door may need professional realignment or hinge replacement. Also call for help if your model requires disassembly of internal ductwork, control panels, or water lines to access the gasket, or if you're not comfortable working around the door hardware on a built-in or French-door unit.
-
-## See Also
-
-- [LG Dishwasher OE Error Code - Causes & Fix](/posts/lg-dishwasher-oe-error-code/)
-- [LG Mini Split CH46 Error Code - Causes & Fix](/posts/lg-mini-split-ch46-error-code/)
-- [LG Mini Split CH60 Error - Causes & Fix](/posts/lg-mini-split-ch60-error-code/)
-- [LG EID Error Code - Causes & Fix](/posts/lg-refrigerator-eid-error-code/)

@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "Yaskawa GA800 control board (PCB)"
 ---
 
-## Yaskawa GA800 E43 Fault — What It Means
-
+## What this code means
 The E43 fault on a Yaskawa GA800 VFD indicates a soft-charge or bypass relay answerback failure. During power-up, the drive expects the soft-charge bypass relay to change state and send back a feedback signal confirming the relay has switched correctly. When the drive does not see the expected relay response, it shuts down and reports E43. This points to a problem in the relay itself, the feedback wiring path, or the control board circuitry that commands and monitors the relay.
 
 The soft-charge circuit is part of the drive's DC bus pre-charge sequence, which limits inrush current when the drive first energizes. A failed relay, stuck contacts, burned connections, or a control board that can no longer drive or read the relay will all trigger this fault. The GA800 also tracks relay life in parameter U4-06 (PreChargeRelayMainte), and Yaskawa guidance states that when U4-06 exceeds 90%, the relay, board, or drive should be replaced.
@@ -24,8 +23,6 @@ The soft-charge circuit is part of the drive's DC bus pre-charge sequence, which
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive before checking relay life parameter U4-06 or inspecting the relay contacts and wiring for heat damage or loose connections.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or VFD service technician for any E43 fault. The soft-charge circuit operates at high DC bus voltage (typically 300-800 VDC depending on input line), and incorrect handling can cause arc flash, electric shock, or permanent drive damage. Technicians need a working knowledge of VFD startup sequences, access to Yaskawa service documentation, and calibrated test equipment to safely diagnose relay feedback paths and control board circuitry. If parameter U4-06 exceeds 90% or physical inspection reveals burned components, the repair requires board or relay assembly replacement that is beyond typical homeowner capability. Yaskawa GA800 service documentation explicitly limits user-serviceable components to fans and control boards, so any deeper troubleshooting should be handled by factory-trained service personnel or an authorized Yaskawa distributor.
 
 **Rough cost:** A pro service call runs about $300-800 for board or relay assembly replacement, depending on drive size and labor.
-
-## See Also
-
-- [Yaskawa GA800 E20 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e20-fault-code/)
-- [Yaskawa A1000 oU Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ou-fault-code/)
-- [Yaskawa A1000 oP Fault Code - Causes & Fix](/posts/yaskawa-a1000-vfd-op-fault-code/)
-- [Yaskawa GA800 E08 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e08-fault-code/)

@@ -17,8 +17,7 @@ likelihood: "the most common cause for F8 E0"
 diy_or_pro: "diy"
 ---
 
-## Maytag Oven F8 Error Code — What It Means
-
+## What this code means
 Maytag's F8 error is not one universal code across all models. The most common variant, F8 E0, indicates cooling fan speed too low and points to an airflow restriction, a failed oven cooling fan, or damaged wiring to the fan circuit. If your display shows plain F8 without a subcode, Maytag's range help says to verify the meat probe is securely inserted into the receptacle and then reset power to the unit.
 
 Because the exact meaning depends on the subcode displayed, check your oven's control panel carefully. F8 E0 is a cooling fan fault, while plain F8 is typically a meat probe or probe receptacle issue. Both conditions require a power reset and inspection before proceeding with repairs.
@@ -26,8 +25,6 @@ Because the exact meaning depends on the subcode displayed, check your oven's co
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board when the actual cause is a blocked vent path or loose fan connector. Inspect the cooling fan and clear any obstructions before ordering electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

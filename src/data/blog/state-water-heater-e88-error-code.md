@@ -13,13 +13,10 @@ money_part: "Flame sensor / flame rod"
 most_likely_cause: "Blocked air intake screens"
 ---
 
-## State Water Heater E88 Error Code — What It Means
-
+## What this code means
 E88 is an ignition failure or combustion lockout code on State tankless water heaters (part of the A. O. Smith family). It means the unit detected that ignition did not complete normally or that it could not prove flame during the light-off sequence, so it has shut down for safety. The heater will stay in lockout until the underlying combustion problem is corrected and the unit is reset.
 
 Because State does not publish a separate E88 definition in the available documentation, this code is interpreted using A. O. Smith tankless service guidance. The fault is almost always related to airflow, venting, gas supply, or flame-sensing components rather than a water-side issue.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

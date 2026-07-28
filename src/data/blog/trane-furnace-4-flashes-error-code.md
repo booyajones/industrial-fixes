@@ -14,13 +14,10 @@ money_part: "Furnace air filter"
 most_likely_cause: "Dirty or clogged air filter"
 ---
 
-## Trane Furnace 4 Flashes — What It Means
-
+## What this code means
 On Trane and American Standard furnaces, 4 flashes from the diagnostic LED indicate an open limit switch or high-limit circuit fault. This means the furnace detected an overheat condition and shut down the burners to protect the heat exchanger and cabinet. The limit switch is a safety device that opens when the temperature inside the furnace rises beyond a safe threshold, usually because not enough air is moving across the heat exchanger to carry heat away.
 
 This is not a flame sensor problem, despite some generic furnace articles claiming otherwise. Trane's own guidance tells homeowners to note the exact blink pattern and call for service rather than attempt repairs themselves. The root cause is almost always restricted airflow or blocked venting, not a failed switch.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -52,10 +49,3 @@ This is not a flame sensor problem, despite some generic furnace articles claimi
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the 4-flash code returns after you replace the filter and verify all vents are open, if you see any signs of rust or soot in the burner compartment, if you suspect a cracked heat exchanger, or if you are uncomfortable working with gas appliances and electrical diagnostics. Trane's own guidance advises homeowners to call for service when red blinking lights indicate a fault rather than attempt repairs themselves. Repeated limit trips with no obvious airflow restriction can indicate serious safety issues like rollout or exchanger failure that require immediate professional evaluation and combustion analysis.
-
-## See Also
-
-- [Trane XV20i/XV18 Variable Speed Heat Pump Error Codes](/posts/trane-variable-speed-heat-pump-codes/)
-- [Trane 7 Flashes Error Code — Gas Valve Circuit Fault Fix](/posts/trane-7-flashes-error-code/)
-- [Trane XV20i Error Code 79: Communicating Thermostat Fault Fix](/posts/trane-error-79-xv20i/)
-- [Trane XV20i Error Code 79 — Causes & Fix](/posts/trane-error-code-79/)

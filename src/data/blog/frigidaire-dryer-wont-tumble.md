@@ -19,8 +19,6 @@ A Frigidaire dryer that won't tumble is typically either a mechanical drive prob
 
 Most no-tumble calls trace back to a door that isn't fully latched, a failed door switch, or a snapped belt. Less often the control board itself loses the door circuit even when the switch is good. Overheating can also trip a thermal limiter on the motor and stop rotation until the part cools or is replaced.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door not fully latched or misaligned** The door must click closed and engage the switch completely or the dryer will refuse to start the drum.
@@ -55,18 +53,18 @@ Most no-tumble calls trace back to a door that isn't fully latched, a failed doo
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Frigidaire Dryer Al 01 error code](/posts/frigidaire-dryer-al-01-error-code/)
+- Frigidaire Dryer Al 01 error code
 - [Frigidaire Dryer Al 02 error code](/posts/frigidaire-dryer-al-02-error-code/)
-- [Frigidaire Dryer Al 03 error code](/posts/frigidaire-dryer-al-03-error-code/)
+- Frigidaire Dryer Al 03 error code
 - [Frigidaire Dryer Al 04 error code](/posts/frigidaire-dryer-al-04-error-code/)
-- [Frigidaire Dryer Al 05 error code](/posts/frigidaire-dryer-al-05-error-code/)
-- [Frigidaire Dryer Al 06 error code](/posts/frigidaire-dryer-al-06-error-code/)
-- [Frigidaire Dryer Al 07 error code](/posts/frigidaire-dryer-al-07-error-code/)
-- [Frigidaire Dryer Al 08 error code](/posts/frigidaire-dryer-al-08-error-code/)
+- Frigidaire Dryer Al 05 error code
+- Frigidaire Dryer Al 06 error code
+- Frigidaire Dryer Al 07 error code
+- Frigidaire Dryer Al 08 error code
 - [Frigidaire Dryer Al 09 error code](/posts/frigidaire-dryer-al-09-error-code/)
-- [Frigidaire Dryer Al 10 error code](/posts/frigidaire-dryer-al-10-error-code/)
-- [Frigidaire Dryer Al 11 error code](/posts/frigidaire-dryer-al-11-error-code/)
-- [Frigidaire Dryer Al 12 error code](/posts/frigidaire-dryer-al-12-error-code/)
+- Frigidaire Dryer Al 10 error code
+- Frigidaire Dryer Al 11 error code
+- Frigidaire Dryer Al 12 error code
 
 ## When to Call a Pro
 

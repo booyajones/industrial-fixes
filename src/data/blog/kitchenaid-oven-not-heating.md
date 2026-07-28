@@ -20,8 +20,6 @@ When a KitchenAid oven won't heat, you usually won't see a single error code tha
 
 The oven may appear completely dead, or the display and lights work but the cavity stays cold when you start a bake cycle. Common causes include lost household power, a failed bake element, a bad oven temperature sensor (RTD), miswired or loose terminal-block connections on newly installed units, control lock or demo mode preventing operation, a door not fully closed, or a failed relay or control board that no longer sends voltage to the element.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Tripped breaker or blown fuse** A household breaker trip or fuse failure cuts supply power to the oven and is the first item KitchenAid directs you to check.
@@ -55,8 +53,8 @@ The oven may appear completely dead, or the display and lights work but the cavi
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kitchenaid Oven A6 error code](/posts/kitchenaid-oven-a6-error-code/)
-- [Kitchenaid Oven Ab error code](/posts/kitchenaid-oven-ab-error-code/)
+- Kitchenaid Oven A6 error code
+- Kitchenaid Oven Ab error code
 - [Kitchenaid Oven Cal error code](/posts/kitchenaid-oven-cal-error-code/)
 - [Kitchenaid Oven F6 E0 error code](/posts/kitchenaid-oven-f6-e0-error-code/)
 - [Kitchenaid Oven F6 E1 error code](/posts/kitchenaid-oven-f6-e1-error-code/)

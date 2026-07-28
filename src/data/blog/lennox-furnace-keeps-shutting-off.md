@@ -20,8 +20,6 @@ A Lennox furnace that keeps shutting off is entering a safety shutdown or lockou
 
 The control board monitors flame sensing, pressure switches, rollout switches, polarity, and voltage to protect against unsafe operation. When one of these safeties trips or a circuit fails to prove, the furnace cuts power to the gas valve and stops the heating cycle. Identifying the LED pattern before any repair is the key to pinpointing the root cause.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty or misaligned flame sensor** The most common cause of repeated shutdowns is a flame sensor rod coated with combustion residue or positioned too far from the burner, resulting in weak flame rectification and low flame signal that drops the gas valve after ignition.
@@ -70,10 +68,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a licensed HVAC technician if the rollout switch has tripped (rollout events indicate unsafe combustion or venting), if you smell gas or suspect a gas-valve or ignition problem, if the inducer motor does not start, or if the fault code persists after cleaning the flame sensor and clearing blockages. Technicians have the tools to measure flame microamps, static pressure, gas pressure, and heat-exchanger integrity. Any work involving gas piping, burner adjustment, or heat-exchanger replacement requires professional certification and proper combustion analysis. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Lennox Mini Split Error Code E1 — Causes & Fix](/posts/lennox-mini-split-error-code-e1/)
-- [Lennox Furnace Won't Turn On - Causes & Fix](/posts/lennox-furnace-wont-turn-on/)
-- [Lennox E227 Error Code - Causes & Fix](/posts/lennox-furnace-e227-error-code/)
-- [Lennox Furnace E275 Error Code - Causes & Fix](/posts/lennox-furnace-e275-error-code/)

@@ -20,8 +20,7 @@ free_checks:
 part_price: "$25-60"
 ---
 
-## KitchenAid Dishwasher F7E1 Error — What It Means
-
+## What this code means
 F7E1 (also shown as 7-1) is a heating circuit or no-heat fault in KitchenAid dishwashers. The control board has detected that the heating function is not operating as expected during the wash or dry cycle. This prevents proper water heating and dish drying, and the machine may stop mid-cycle or fail to complete normally.
 
 The code focuses on the heater circuit itself, including the heating element, the wiring harness between the control and heater, and the control board's heater output relay. Unlike drain or fill faults, F7E1 tells you the dishwasher cannot energize or monitor the heater correctly.
@@ -29,8 +28,6 @@ The code focuses on the heater circuit itself, including the heating element, th
 ## Before You Replace Anything
 
 Many people replace the main control board first, assuming the board is bad. Instead, inspect the heater wiring harness and test the heating element with a multimeter before ordering any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

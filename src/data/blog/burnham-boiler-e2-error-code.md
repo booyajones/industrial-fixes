@@ -13,11 +13,8 @@ money_part: "Pressure switch"
 most_likely_cause: "Blocked condensate drain on condensing models"
 ---
 
-## Burnham Boiler E2 Error Code — What It Means
-
+## What this code means
 E2 on a Burnham boiler indicates a pressure switch fault — the control system detected that the pressure switch did not close when the inducer started, or opened unexpectedly during operation. Burnham's boiler control platform (used across the Series 2, ES2, and IN series) requires proof of negative draft pressure before allowing ignition. E2 is specifically the "pressure switch failed to close" or "pressure switch opened during operation" fault. The boiler locks out and must be manually reset.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,11 +43,3 @@ E2 on a Burnham boiler indicates a pressure switch fault — the control system 
 ## When to Call a Pro
 
 If the condensate drain system requires significant disassembly, or if the inducer motor needs replacement and you are not comfortable with gas appliance wiring, contact a licensed plumber or HVAC technician experienced with hydronic systems.
-
-## Related Articles
-
-- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
-- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
-- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)

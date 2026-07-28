@@ -53,18 +53,3 @@ Alarm fixes are the same as Classic Haas:
 ## When to Call a Pro
 
 Haas NGC service is handled by Haas Factory Outlet (HFO) dealers. Remote diagnostics are available via HaasCNC.com for connected machines.
-
-## Related Articles
-
-- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
-- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
-- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
-- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
-
-## See Also
-
-- [Haas Alarm 121 — ATC Arm Fault](/posts/haas-alarm-121/)
-- [Haas Alarm 110 — Causes & Fix](/posts/haas-alarm-110/)
-- [Haas Alarm 108 — Causes & Fix](/posts/haas-alarm-108/)
-- [Haas Alarm 113 — Spindle Encoder Fault Causes & Fix](/posts/haas-alarm-113/)

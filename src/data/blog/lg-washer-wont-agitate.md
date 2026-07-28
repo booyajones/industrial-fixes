@@ -19,8 +19,6 @@ When an LG washer won't agitate, it means the machine fills and locks but the wa
 
 Because LG does not assign a specific error code to "no agitation," diagnosis depends on the drive type and model. The washer may complete other cycle steps normally but simply fail to drive the tub when washing should begin. This symptom is mechanical or electrical, not a drain or fill issue.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Stripped wash plate hub or drive block** On top-load LG units, the plastic hub that couples the wash plate to the drive shaft can strip out, causing the plate to spin freely without moving clothes.
@@ -52,18 +50,18 @@ Because LG does not assign a specific error code to "no agitation," diagnosis de
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Lg Washer Ae error code](/posts/lg-washer-ae-error-code/)
-- [Lg Washer Cd error code](/posts/lg-washer-cd-error-code/)
-- [Lg Washer Ce error code](/posts/lg-washer-ce-error-code/)
-- [Lg Washer Cl error code](/posts/lg-washer-cl-error-code/)
-- [Lg Washer De error code](/posts/lg-washer-de-error-code/)
-- [Lg Washer De1 error code](/posts/lg-washer-de1-error-code/)
+- Lg Washer Ae error code
+- Lg Washer Cd error code
+- Lg Washer Ce error code
+- Lg Washer Cl error code
+- Lg Washer De error code
+- Lg Washer De1 error code
 - [Lg Washer De2 error code](/posts/lg-washer-de2-error-code/)
-- [Lg Washer Dhe error code](/posts/lg-washer-dhe-error-code/)
-- [Lg Washer E03 error code](/posts/lg-washer-e03-error-code/)
-- [Lg Washer E21 error code](/posts/lg-washer-e21-error-code/)
-- [Lg Washer Fe error code](/posts/lg-washer-fe-error-code/)
-- [Lg Washer He error code](/posts/lg-washer-he-error-code/)
+- Lg Washer Dhe error code
+- Lg Washer E03 error code
+- Lg Washer E21 error code
+- Lg Washer Fe error code
+- Lg Washer He error code
 
 ## When to Call a Pro
 

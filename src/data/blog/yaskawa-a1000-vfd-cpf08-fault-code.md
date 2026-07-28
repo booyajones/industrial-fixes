@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 CPF08 — What It Means
-
+## What this code means
 CPF08 on a Yaskawa A1000 drive is a terminal board connection error. The drive has detected a faulty connection between the terminal board (where your field wiring lands) and the internal control board. This is a communication or physical-contact fault inside the drive, not a problem with your motor wiring or external connections.
 
 The fault usually points to a loose, contaminated, or damaged internal connector. Yaskawa's corrective action is to turn off power, check and reconnect the terminal board connection, and replace the control board or the entire drive if the fault persists after reconnection.
@@ -24,8 +23,6 @@ The fault usually points to a loose, contaminated, or damaged internal connector
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive without first reseating the internal terminal board connector. Always de-energize, open the drive, inspect and reseat the connector, then test before ordering a new control board or drive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or VFD technician for CPF08. Opening a VFD exposes you to high-voltage DC bus capacitors that can remain charged and lethal even after AC power is disconnected. Proper lockout, discharge verification, and ESD-safe handling are required. If you are not trained in industrial motor-control repair, do not attempt this work. A technician will safely de-energize the drive, inspect and reseat the connector, test for continuity, and replace the control board or drive as needed. If your facility does not have in-house instrumentation staff, contact a Yaskawa-authorized service center or distributor for parts and support.
 
 **Rough cost:** A pro service call runs about $300-800.
-
-## See Also
-
-- [Yaskawa J1000 Fault Codes — VFD Troubleshooting Guide](/posts/yaskawa-j1000-fault-codes/)
-- [Yaskawa GA800 E85 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e85-fault-code/)
-- [Yaskawa GA800 E33 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e33-fault-code/)
-- [Yaskawa GA800 E81 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e81-fault-code/)

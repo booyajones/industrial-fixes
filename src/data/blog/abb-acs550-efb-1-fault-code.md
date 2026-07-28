@@ -13,13 +13,10 @@ money_part: "Fieldbus communication cable"
 most_likely_cause: "Master or controller offline"
 ---
 
-## ABB ACS550 EFB 1 Fault — What It Means
-
+## What this code means
 Fault code 31, displayed as EFB 1 on your ABB ACS550, is reserved for the embedded fieldbus protocol application and does not have one fixed meaning by itself. ABB describes this fault as protocol dependent, which means the actual error definition depends on which embedded fieldbus protocol is configured in your drive (such as Modbus, Profibus, CANopen, or DeviceNet) and how that protocol's application defines the fault. You cannot diagnose EFB 1 correctly until you identify the active fieldbus protocol and the communication fault context in your installation.
 
 This is not a hardware failure in the drive's power section. Instead, EFB 1 indicates a communication-layer problem between the drive and the network master or controller. The fault typically appears when the fieldbus network cannot maintain proper data exchange with the drive, either because of wiring issues, configuration errors, or the master device going offline. ABB's fault documentation points technicians toward communication path troubleshooting rather than component replacement inside the drive itself.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ This is not a hardware failure in the drive's power section. Instead, EFB 1 indi
 ## When to Call a Pro
 
 Call a qualified technician or contact ABB if you cannot identify the active embedded fieldbus protocol, if the fault persists after verifying all wiring and network master status, or if you are not trained in fieldbus network troubleshooting. ABB states the ACS550-01 and U1 series drives are not field repairable for internal faults, so do not attempt to open or repair the drive's internal boards. If the communication hardware inside the drive is suspected, contact ABB for replacement support rather than attempting internal component-level repair. A professional familiar with your specific fieldbus protocol (Modbus, Profibus, CANopen, or DeviceNet) can trace network traffic, verify master programming, and correct configuration mismatches that are not obvious from the drive alone.
-
-## See Also
-
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-- [ABB ACS580 FF63 - STO Diagnostics Failure Fix](/posts/abb-acs580-ff63-fault-code/)
-- [ABB ACS580 A7AB Fault - Causes & Fix](/posts/abb-acs580-a7ab-fault-code/)
-- [ABB ACS880 Fault 2310 Overcurrent — Causes & Fix](/posts/abb-acs880-fault-2310-overcurrent/)

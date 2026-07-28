@@ -22,8 +22,7 @@ part_price: "$50-80 for a door lock assembly"
 no_buy_pct: "70%"
 ---
 
-## Samsung Washer dE1 Error Code — What It Means
-
+## What this code means
 The dE1 error code on a Samsung washer indicates a door-lock or door-not-closed-properly fault. The control system is not receiving the expected locked feedback from the door lock assembly, door hook, or related wiring. Samsung groups dE1 together with dE, dC, DC, and DC1 under door issues, all pointing to problems with the door not being securely closed and latched.
 
 In practical terms, the washer will not start or will stop mid-cycle because it cannot confirm the door is safely locked. This can be a mechanical issue (something blocking the door or a misaligned latch) or an electrical problem (a faulty door lock assembly, door switch, or wiring connection). The code protects against leaks and unsafe operation by preventing the wash cycle when the door state is uncertain.
@@ -31,8 +30,6 @@ In practical terms, the washer will not start or will stop mid-cycle because it 
 ## Before You Replace Anything
 
 Many people replace the door lock assembly first, but the majority of dE1 codes are caused by laundry trapped in the door seal or a dirty latch area. Always inspect and clean the door gasket and strike before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

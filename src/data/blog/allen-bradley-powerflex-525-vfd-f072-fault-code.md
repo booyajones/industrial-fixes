@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Allen-Bradley PowerFlex 525 F072 — What It Means
-
+## What this code means
 F072 on an Allen-Bradley PowerFlex 525 means Option Net Loss. The drive has lost communication through the network option card's remote network. This is a communications interruption, not a power section failure. The drive expects a continuous link to a controller or network, and that link has dropped.
 
 The fault does not point to the drive's internal hardware. It means the option card cannot see the network anymore. The problem can be anywhere in the communications path: the cable itself, a network switch, the PLC or controller on the other end, the option card's physical connection to the drive, or the card's configuration settings. In rare cases the option card or the drive's control module may be faulty, but those are replacement candidates only after you prove the wiring and network are good.
@@ -29,8 +28,6 @@ The fault does not point to the drive's internal hardware. It means the option c
 ## Before You Replace Anything
 
 Technicians sometimes replace the network option card or even the entire drive before checking the cable and external network hardware. Always verify link lights on the switch, reseat the card, and test with a known-good cable before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a qualified controls technician or integrator if you are not familiar with industrial network protocols, if the drive is part of a production system where downtime is costly, or if you have verified the cable and external network hardware but the fault persists. A professional can use network diagnostic tools to isolate whether the problem is the option card, the drive control module, or the external network infrastructure. Do not replace the drive or option card until a technician has confirmed the network path is healthy and the card is properly configured.
 
 **Rough cost:** A pro service call runs about $150-400 depending on diagnosis time and whether a card or cable needs replacement.
-
-## See Also
-
-- [Allen Bradley PowerFlex 525 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-525-f7-fault/)
-- [Allen-Bradley PowerFlex 525 F101 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f101-fault-code/)
-- [Allen-Bradley PowerFlex Fault F002 — Causes & Fix](/posts/allen-bradley-powerflex-fault-f002/)
-- [Allen-Bradley PowerFlex 525 F033 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f033-fault-code/)

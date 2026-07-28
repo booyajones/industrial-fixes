@@ -18,8 +18,7 @@ free_checks:
   - "Perform a manual initialization on the drive to clear any current sensor offsets that may have developed"
 ---
 
-## Danfoss FC302 VFD AL-114 — What It Means
-
+## What this code means
 AL-114 (Alarm 14) on a Danfoss FC302 VFD indicates an earth fault. The drive's ground-fault detection circuit has sensed that the sum of the output currents (U, V, W) is not zero, meaning current is leaking from the motor circuit to ground instead of returning through the motor windings. This signals insulation breakdown somewhere in the motor or cable circuit.
 
 When this fault activates, the drive immediately trips and stops to prevent damage and make sure safety. The fault can originate in the motor windings, the cable running to the motor, or inside the drive itself. Moisture, aging insulation, physical cable damage, or failed internal components are the typical culprits.
@@ -27,8 +26,6 @@ When this fault activates, the drive immediately trips and stops to prevent dama
 ## Before You Replace Anything
 
 Many technicians replace the entire drive when the fault is actually in the motor or cable. Always disconnect the motor and test the drive with no load first, then megohm-test the motor and cable to ground before condemning the VFD.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or motor specialist if the fault persists after you have tightened connections and performed a manual initialization. If the drive still trips with the motor disconnected, internal drive components (output IGBTs, gate driver circuits, or current sensors) have likely failed and require factory parts and specialized knowledge to replace. Similarly, if megohm testing shows motor winding insulation below 2 megohms, a motor repair shop can assess whether rewinding is cost-effective or if replacement is needed. Working inside a VFD power section involves high-voltage DC bus capacitors that can remain charged even after power is removed, so leave internal drive repairs to trained professionals with the proper safety equipment.
 
 **Rough cost:** A pro service call runs about $150-500 depending on whether the issue is cable repair, motor replacement, or drive internal repair.
-
-## See Also
-
-- [Danfoss FC302 Alarm 40 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-40-fault-code/)
-- [Danfoss FC302 Alarm 55 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-55-fault-code/)
-- [Danfoss FC302 AL-79 - Causes & Fix](/posts/danfoss-fc302-vfd-al-79-fault-code/)
-- [Danfoss VFD Fault W30 — Brake Resistor Overtemperature Fix](/posts/danfoss-vfd-fault-w30/)

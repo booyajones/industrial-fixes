@@ -13,11 +13,8 @@ money_part: "State OEM Gas Control Valve Assembly"
 most_likely_cause: "Misread or transposed display code"
 ---
 
-## State Water Heater E74 Error Code — What It Means
-
+## What this code means
 An E74 error code is not officially documented for State brand water heaters in available manufacturer literature. State water heaters (manufactured by A. O. Smith) typically use a different fault code system, and E74 may be a misread display, a code from a different brand, or a code specific to a very new or specialized model not yet widely documented. Before proceeding, confirm the exact alpha-numeric sequence shown on your unit's display and locate your model and serial number on the rating plate, usually found on the front or side of the tank. Cross-reference the code with the troubleshooting chart printed inside the access panel or in your owner's manual.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

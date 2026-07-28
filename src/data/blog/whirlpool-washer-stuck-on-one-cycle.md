@@ -19,8 +19,6 @@ A Whirlpool washer stuck on one cycle means the machine keeps repeating or exten
 
 If the symptom is "stuck on sensing," the machine typically is not seeing the expected mechanical or hydraulic response to the fill or agitation sequence, so it stays in the sensing phase. If the symptom is "stuck on rinse" or "1 minute left," the cycle is often extending because the washer is repeatedly trying to rebalance, drain, or clear suds before the final spin.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Faulty shift actuator** A bad actuator is the most common cause of a Whirlpool washer stuck on sensing, because the control cannot verify the drive system is moving correctly.

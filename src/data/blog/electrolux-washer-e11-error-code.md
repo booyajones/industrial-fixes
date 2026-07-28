@@ -22,8 +22,7 @@ part_price: "$30-60"
 no_buy_pct: "60%"
 ---
 
-## Electrolux Washer E11 Error — What It Means
-
+## What this code means
 The E11 error code indicates a long fill time. Your washer did not fill with the required amount of water within the expected timeframe at the start of the cycle. In front-loading models, this fault may also cause the unit to lock for up to 6 minutes. Resetting the washer by unplugging and plugging it back in will clear the lock, but the underlying problem must still be fixed.
 
 The code triggers when the pressure sensor does not detect the correct water level after a set period. This can happen because water is not flowing into the tub quickly enough, water is not entering at all, or the sensor itself cannot read the water level properly.
@@ -31,8 +30,6 @@ The code triggers when the pressure sensor does not detect the correct water lev
 ## Before You Replace Anything
 
 Many people replace the water inlet valve without first checking the inlet screens (mesh filters) inside the valve ports. Clean the screens and verify water pressure before buying a valve.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

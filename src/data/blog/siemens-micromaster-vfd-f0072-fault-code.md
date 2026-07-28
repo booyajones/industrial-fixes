@@ -13,13 +13,10 @@ money_part: "RS-485 communication cable"
 most_likely_cause: "USS master not sending data"
 ---
 
-## Siemens Micromaster F0072 — What It Means
-
+## What this code means
 F0072 on a Siemens Micromaster is a USS communication setpoint fault. The drive is not receiving the expected setpoint data over the USS/COMM link before the telegram timeout expires. In practical terms, the drive has lost cyclic control data from the serial master (PLC, HMI, or other controller). The drive will stop and display the fault until communication is restored. This is not a motor or power-stage problem. It is a data-link failure between the master and the drive.
 
 The fault triggers when no setpoint values arrive from the USS master during the configured telegram off time. The drive expects regular data packets to continue running. When those packets stop or arrive too slowly, the drive protects itself by halting. The fix involves finding where the communication chain is broken: the master, the RS-485 wiring, the configuration settings, or the communication board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ The fault triggers when no setpoint values arrive from the USS master during the
 ## When to Call a Pro
 
 Call a qualified industrial controls technician or Siemens service partner if you have verified the master is transmitting, the wiring is sound, and the parameters match but F0072 still appears. Persistent communication faults after basic checks often point to failed communication hardware inside the drive or complex network timing issues that require diagnostic tools and experience with USS protocol. Also call a professional if you are unfamiliar with RS-485 networks, PLC programming, or VFD parameter setup, since incorrect changes can disable other drives on the same bus or create unsafe operating conditions.
-
-## See Also
-
-- [Siemens Micromaster F0002 - Causes & Fix](/posts/siemens-micromaster-vfd-f0002-fault-code/)
-- [Siemens G120 F01625 - Causes & Fix](/posts/siemens-g120-f01625-fault-code/)
-- [Siemens Micromaster F0001 - Causes & Fix](/posts/siemens-micromaster-vfd-f0001-fault-code/)
-- [Siemens Micromaster F0023 - Causes & Fix](/posts/siemens-micromaster-vfd-f0023-fault-code/)

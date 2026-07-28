@@ -150,10 +150,3 @@ The XL18i is rated for heating operation down to approximately 0°F (ComfortLink
 
 **How do I reset a ComfortLink II fault code?**
 Most ComfortLink II faults reset automatically once the underlying condition clears. For hard lockouts (multiple repeated faults in a short window), you need to cycle power at the outdoor disconnect for 30–60 seconds. The fault history remains in memory even after a power cycle, it's accessible through the thermostat diagnostics menu.
-
-## See Also
-
-- [Trane ComfortR ER Error Code — Causes & Fix](/posts/trane-comfort-r-error-codes-er/)
-- [Trane XR80 Blinking Yellow Light Codes: Full Flash-Code Fix Guide](/posts/trane-xr80-error-codes/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane Furnace Error Codes — Complete Flash Code Guide](/posts/trane-furnace-error-codes/)

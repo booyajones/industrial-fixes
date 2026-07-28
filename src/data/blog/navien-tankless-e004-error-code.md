@@ -13,13 +13,10 @@ money_part: "Flame rod / flame sensor assembly"
 most_likely_cause: "Exhaust or intake vent blockage"
 ---
 
-## Navien E004 Error Code — What It Means
-
+## What this code means
 E004 on a Navien tankless water heater signals false flame detection. The control board is seeing a flame-related fault condition that does not match normal, stable combustion, or the flame-sensing circuit is not interpreting the signal correctly. For safety, the unit locks out ignition and will not operate until the problem is resolved.
 
 This code does not mean the heater is running dry or has lost water flow. It is specifically a combustion-sensing fault. The controller either detects a flame signal when it should not, or it cannot validate the flame signal during firing. The most common field causes are venting blockage, contamination or misalignment of the flame rod, heat exchanger leaks contaminating the combustion area, and control board faults.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ This code does not mean the heater is running dry or has lost water flow. It is 
 ## When to Call a Pro
 
 Call a qualified technician if you are not comfortable working with gas appliances, venting systems, or electrical components. Heat exchanger leaks and control board diagnostics require specialized tools and experience. If you have cleared the vents and cleaned the flame rod but the E004 persists, the issue is likely internal to the combustion chamber or the control circuit, both of which require disassembly and proper gas-safe procedures. Navien tankless heaters also have model-specific wiring and sensor placements that are easy to damage without the service manual and proper training.
-
-## See Also
-
-- [Navien Alarm 401 Error Code - Causes & Fix](/posts/navien-tankless-alarm-401-error-code/)
-- [Navien E011 Error Code - Causes & Fix](/posts/navien-tankless-e011-error-code/)
-- [Navien Tankless E013 Error Code - Causes & Fix](/posts/navien-tankless-e013-error-code/)
-- [Navien NPE Series Error Codes — Tankless Water Heater Fault Guide](/posts/navien-npe-error-codes/)

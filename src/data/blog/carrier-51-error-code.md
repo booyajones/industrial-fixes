@@ -12,8 +12,7 @@ tags:
   - furnace
 ---
 
-## Carrier Error Code 51 — What It Means
-
+## What this code means
 Carrier furnace error code **51** indicates a secondary control fault. This code appears on Carrier Performance and Infinity series furnaces that use two-stage or modulating control boards. Code 51 specifically signals that the secondary (stage 2) control circuit has detected a fault condition — separate from the primary ignition or limit circuits.
 
 On Carrier furnaces, codes are displayed by counting LED blinks: the LED flashes a number, pauses, then repeats. Code 51 = five slow blinks followed by one fast blink.
@@ -53,18 +52,3 @@ If all external components test correctly, the Integrated Furnace Control (IFC) 
 
 ## When to Call a Pro
 Gas valve replacement and detailed pressure switch diagnostics require a licensed HVAC technician. If the furnace runs safely at first stage but faults at second stage, you can disable second-stage operation temporarily (by adjusting the stat's second-stage delay settings) while you arrange service.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier Error Code 58 — Causes & Fix](/posts/carrier-58-error-code/)
-- [Carrier Infinity Touch Thermostat Error Codes - What It Means and How to Fix It](/posts/carrier-infinity-touch-thermostat-error-codes/)
-- [Carrier 24ACC6 Heat Pump Error Codes: Complete Diagnostic Guide](/posts/carrier-24acc6-heat-pump-error-codes/)
-- [Carrier 23 Error Code — Draft Safeguard Switch Fault](/posts/carrier-23-error-code/)

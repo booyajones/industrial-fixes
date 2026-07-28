@@ -13,11 +13,8 @@ money_part: "Thermal fuse (case or combustion type)"
 most_likely_cause: "Blocked or restricted exhaust vent"
 ---
 
-## Rinnai Error Code 14 — What It Means
-
+## What this code means
 Rinnai error code 14 indicates the thermal fuse (or flue thermal fuse) has opened. The thermal fuse is a one-time, non-resettable safety device positioned in the flue gas path. It opens permanently if flue gas temperatures exceed its rating — typically 167°F (75°C) for the case thermal fuse or higher for the combustion chamber version. Once it opens, the unit will not fire until the thermal fuse is replaced. This fault almost always indicates that an abnormal heat condition existed in the flue path: restricted exhaust, very high firing rates, a blocked heat exchanger, or recirculating exhaust gases.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Rinnai error code 14 indicates the thermal fuse (or flue thermal fuse) has opene
 ## When to Call a Pro
 
 If the thermal fuse opens again within a short period after replacement, the combustion system or venting has a fundamental problem. Combustion analysis, heat exchanger inspection, and vent design review require a licensed plumber or HVAC technician.
-
-## Related Articles
-
-- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
-- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
-- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
-- [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
-- [Rinnai Error Code 16 — Causes & Fix](/posts/rinnai-error-code-16/)
-
-## See Also
-
-- [Rinnai Error Code 65 — Water Flow Rate Fault](/posts/rinnai-error-code-65/)
-- [Rinnai RUR Series Error Codes — Tankless Water Heater Fault Guide](/posts/rinnai-rur-error-codes/)
-- [Rinnai I120CN Tankless Water Heater Error Codes: Complete Guide](/posts/rinnai-i120cn-error-codes/)
-- [Rinnai Error Code 33 — Causes & Fix](/posts/rinnai-error-code-33/)

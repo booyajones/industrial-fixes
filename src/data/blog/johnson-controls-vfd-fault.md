@@ -17,8 +17,6 @@ most_likely_cause: "OC (Overcurrent)"
 
 Johnson Controls uses variable frequency drives from multiple OEM manufacturers (primarily York-branded drives and rebranded Hitachi and other OEM drives) in air handling units, cooling towers, and chiller plant auxiliaries. The fault codes displayed on these drives follow the conventions of the underlying OEM but are sometimes relabeled with Johnson Controls part numbers. The most common JCI HVAC VFDs are found in Built Environment (BE) air handling units and central plant equipment managed by Metasys BAS. The faults below cover the most frequently encountered issues on field-installed JCI VFDs.
 
-[Jump to Fix](#fix)
-
 ## Most Common JCI VFD Fault Codes
 
 | Code | Meaning |
@@ -61,11 +59,3 @@ Johnson Controls uses variable frequency drives from multiple OEM manufacturers 
 ## When to Call a Pro
 
 Ground fault diagnosis (GF code) requires a megger (insulation resistance tester) and comfort working with motor circuits. Drive output IGBT replacement requires VFD-specific training — most HVAC contractors replace the entire drive rather than attempting board-level repair. Johnson Controls has a building products service line and authorized contractors for Metasys-integrated equipment.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

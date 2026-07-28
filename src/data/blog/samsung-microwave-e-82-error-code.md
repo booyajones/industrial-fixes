@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Samsung microwave main control board (MICOM board)"
 ---
 
-## Samsung Microwave E-82 Error — What It Means
-
+## What this code means
 The E-82 error on a Samsung microwave signals a Communication Short Error. Samsung defines this as a short condition in the communication path between control electronics. It belongs to a family of communication faults (E-81 Open, E-82 Short, E-83 Communication Error) that point to a board-to-board or control-circuit problem rather than a simple sensor or heating element issue.
 
 This is not a user-adjustable setting. The microwave's control system has detected a shorted communication line or circuit. Samsung's public support guidance directs you to power-cycle the unit and, if the code persists, request service from a qualified technician.
@@ -25,8 +24,6 @@ This is not a user-adjustable setting. The microwave's control system has detect
 ## Before You Replace Anything
 
 Many people replace the touchpad or keypad first, but the fault is often on the main control board itself. A visual inspection for moisture, corrosion, or burned traces on the control board and harness connectors will usually reveal the true culprit before spending money on the wrong part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,11 +13,8 @@ money_part: "Flame sensor"
 most_likely_cause: "Flame sensor contaminated or shorted"
 ---
 
-## Navien Error Code E004 — What It Means
-
+## What this code means
 Navien error code E004 indicates false flame detection — the flame sensor detected a flame signal when the gas valve should be closed and no combustion should be occurring. This is a safety fault. The control board expects the flame sensor to read zero (no ionization signal) before opening the gas valve, as part of its pre-ignition check. If it sees ionization current at that moment, it interprets this as either a flame sensor failure, a gas valve leaking through, or electrical interference on the flame detection circuit. The unit locks out and will not attempt ignition until the fault is cleared.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Navien error code E004 indicates false flame detection — the flame sensor dete
 ## When to Call a Pro
 
 A gas valve that leaks through (allowing gas or flame when closed) is a serious safety hazard. Gas valve replacement must be performed by a licensed plumber or HVAC technician. Do not attempt to operate the unit if you suspect a leaking gas valve.
-
-## Related Articles
-
-- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
-- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)
-- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
-- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)
-- [Navien Error Code E007 — Causes & Fix](/posts/navien-error-code-e007/)
-
-## See Also
-
-- [Navien Error Code E016 — Causes & Fix](/posts/navien-error-code-e016/)
-- [Navien Error Code E013 — Causes & Fix](/posts/navien-error-code-e013/)
-- [Navien Tankless Water Heater Error Codes — Complete Guide](/posts/navien-error-codes/)
-- [Navien NPE/NCB Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003/)

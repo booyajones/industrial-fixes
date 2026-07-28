@@ -19,8 +19,6 @@ A GE washer that shakes and makes loud noise during spin is usually losing balan
 
 On top-load GE washers, shaking is handled as an out-of-balance or vibration diagnostic rather than a single error code. If the control has stored a flash code (for example, 1 flash for tub takes more than 25 seconds to stop), that points to a spin, brake, or coast problem rather than a simple load issue. Most shaking complaints trace back to load distribution, leveling, suspension wear, or loose basket hardware.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Unbalanced load or bulky items** Mixed heavy and light items throw the basket off center during spin, causing the machine to shake and abort the cycle.
@@ -54,7 +52,7 @@ On top-load GE washers, shaking is handled as an out-of-balance or vibration dia
 
 Seeing a code on the display? These match this problem:
 
-- [Ge Washer E23 error code](/posts/ge-washer-e23-error-code/)
+- Ge Washer E23 error code
 
 ## When to Call a Pro
 

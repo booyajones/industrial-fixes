@@ -14,13 +14,10 @@ money_part: "Lennox integrated furnace control board"
 most_likely_cause: "Damaged or shorted wiring harness"
 ---
 
-## Lennox E205 Error Code — What It Means
-
+## What this code means
 The E205 error code on a Lennox furnace means the control board has detected a gas valve control relay contact short. This is not a general gas valve failure code. Instead, the furnace's integrated control is reporting a fault in the relay output circuit that drives the gas valve. Lennox's technical documentation defines E205 specifically as a relay contact problem inside the control or in the wiring that connects the control to the gas valve.
 
 In practical terms, the fault sits in the electrical pathway between the board and the valve, not in gas pressure or ignition components. The control board opens and closes a relay contact to energize the gas valve coil. When that contact or its circuit shorts, the board sets E205 and locks out the furnace to prevent unsafe operation.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ In practical terms, the fault sits in the electrical pathway between the board a
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with 120 V furnace wiring or if you cannot identify obvious wiring damage. E205 involves both live control circuits and the gas valve circuit, so misdiagnosis or improper repair can create a safety hazard. A technician has the meters and Lennox service literature to trace relay outputs, confirm proper voltage at the gas valve, and install the correct OEM control board for your furnace model. If the fault persists after a control replacement, the technician can also check for rare issues such as a gas valve coil drawing excessive current or a grounding fault elsewhere in the unit.
-
-## See Also
-
-- [Lennox Error Code 434 — Outdoor Unit Communication Fault](/posts/lennox-error-code-434/)
-- [Lennox E241 Error Code - Causes & Fix](/posts/lennox-furnace-e241-error-code/)
-- [Lennox Error Code 414 Rollout — Causes & Fix](/posts/lennox-error-code-414-rollout/)
-- [Lennox XC21 Error Codes — Diagnostic Guide and Fixes](/posts/lennox-xc21-error-codes/)

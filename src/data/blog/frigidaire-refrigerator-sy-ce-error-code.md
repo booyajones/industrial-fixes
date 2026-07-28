@@ -16,8 +16,7 @@ money_part: "Main control board (Frigidaire motherboard)"
 part_price: "$80-250"
 ---
 
-## Frigidaire SY CE Error Code — What It Means
-
+## What this code means
 The SY CE code on a Frigidaire refrigerator indicates a severe communication error between the appliance's electronic controls. This is most commonly a failure of communication between the main control board (motherboard) and the user interface or display board. The code is not a temperature fault or sensor alarm. It means the two boards cannot exchange data reliably, usually due to a problem with the wiring harness, connectors, or one of the boards themselves.
 
 Because this is a control communications failure, the refrigerator may continue to run but the display will not function properly and you may lose the ability to change settings or see accurate temperature readings. The failure can be caused by loose or corroded connectors, damaged wires (especially in flex areas like the door hinge), moisture intrusion into the control panel area, or a failed control board or display board.
@@ -25,8 +24,6 @@ Because this is a control communications failure, the refrigerator may continue 
 ## Before You Replace Anything
 
 Many people replace the main control board first without checking the connectors and wiring harness. Always inspect and clean all connectors, check continuity of the communication wires (especially through the door hinge), and reseat ribbon cables before replacing any boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

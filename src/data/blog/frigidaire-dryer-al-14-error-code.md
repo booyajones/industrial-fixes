@@ -15,15 +15,12 @@ most_likely_cause: "Transient control glitch"
 diy_or_pro: "diy"
 ---
 
-## Frigidaire Dryer AL-14 Error Code — What It Means
-
+## What this code means
 AL-14 is not a verified manufacturer fault code in Frigidaire's published documentation. On some Frigidaire dryers, 'AL' or 'A' indicates an alarm condition, but the exact meaning of the '14' suffix varies by model and is not defined in available service materials. Frigidaire support recommends performing a hard reset first whenever any error or alarm appears on the display, and if the code returns after reset, service may be required. Because AL-14 is not manufacturer-verified, always consult your model's use-and-care guide or the wiring diagram inside the control panel to confirm the exact definition for your dryer.
 
 ## Before You Replace Anything
 
 Many owners replace the main control board first when any unfamiliar code appears. Before ordering a board, perform a hard power reset by unplugging the dryer for at least five minutes to clear transient glitches, which Frigidaire lists as the first step for all alarm displays.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

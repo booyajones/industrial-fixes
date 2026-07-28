@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Allen-Bradley PowerFlex 525 F111 — What It Means
-
+## What this code means
 The F111 fault on an Allen-Bradley PowerFlex 525 variable frequency drive indicates a safety hardware malfunction. The drive has detected that the safety input enable hardware is not valid or that one of the safety inputs is not enabled. In technical terms, the two safety channels (S1 and S2) did not open or close together within the allowed discrepancy time. For firmware version FRN 5.xxx and later, that discrepancy window is 1 second. For earlier firmware FRN 4.xxx and before, the window is just 10 milliseconds.
 
 This fault is designed to catch safety circuit problems before they create a hazard. If you are not using an external safety relay or emergency-stop circuit, the drive ships with a jumper wire connecting terminals S+, S1, and S2 together. If that jumper is missing, loose, or corroded, the drive sees a safety mismatch and throws F111. If you are using external safety devices, the fault means those devices are not switching both channels in sync or the wiring has an open connection.
@@ -29,8 +28,6 @@ This fault is designed to catch safety circuit problems before they create a haz
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive or control module before checking the safety jumper. Always inspect and tighten the factory jumper wire between S+, S1, and S2 first, which costs nothing and solves most F111 faults.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or controls technician if you are unfamiliar with low-voltage control wiring, if your facility requires a formal safety risk assessment before making changes, or if the fault persists after you have verified the safety jumper is tight and all wiring is intact. If an oscilloscope is needed to measure channel timing, or if Rockwell support recommends replacing the drive module, a professional with VFD experience should handle the work to maintain safety compliance and warranty coverage.
 
 **Rough cost:** A pro service call runs about $150-400 for diagnosis and repair; drive replacement $400-800 if internal hardware has failed.
-
-## See Also
-
-- [Allen Bradley PowerFlex 525 F005 Fault, Overvoltage Causes & Fix](/posts/allen-bradley-powerflex-525-fault-f005/)
-- [Allen-Bradley PowerFlex 755 Power Loss Fault Fix](/posts/allen-bradley-powerflex-755-power-loss-fault/)
-- [Allen-Bradley PowerFlex 525 F015 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f015-fault-code/)
-- [Allen-Bradley PowerFlex 525 F029 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f029-fault-code/)

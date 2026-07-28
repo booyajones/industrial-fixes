@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Washer F0 E4 Error Code — What It Means
-
+## What this code means
 F0 E4 is a water-temperature fault on Whirlpool-built Kenmore top-load washers. The control board has detected that incoming wash or rinse water is hotter than expected, so it limits operation and displays the code. Whirlpool defines F0 E4 as wash water temperature too hot, and the Kenmore fault guide specifies high water temperature in the rinse cycle. The code does not mean the washer is broken. It means the machine is seeing water it considers too warm, either because the plumbing delivers hot water when cold is called for or because the temperature sensor is reporting an out-of-range signal.
 
 In the field, the most common real cause is that hot and cold fill hoses are reversed at the washer inlet or at the wall valves. If the plumbing is correct, the fault shifts to the thermistor (temperature sensor), the wiring harness between the sensor and control board, or the control board itself misreading the temperature signal.
@@ -26,8 +25,6 @@ In the field, the most common real cause is that hot and cold fill hoses are rev
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board or thermistor first. Always verify that the hot hose connects to the home hot-water valve and the cold hose to cold before buying any part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

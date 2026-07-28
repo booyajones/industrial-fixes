@@ -13,13 +13,10 @@ money_part: "Carrier blower motor"
 most_likely_cause: "Failed blower motor"
 ---
 
-## Carrier Error Code 15 — What It Means
-
+## What this code means
 Carrier error code 15 indicates a blower motor lockout. The furnace control has detected that the blower motor did not start, failed to reach the required RPM, or lost communication with the furnace control board. This fault stops normal operation to protect the system.
 
 The control board monitors blower performance during startup and operation. When the blower does not respond as expected, the board logs code 15 and enters lockout. This code appears on Carrier furnace controls that use this status-code scheme, and you should always verify the exact code at your control board or user interface before proceeding with repairs.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ The control board monitors blower performance during startup and operation. When
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with line voltage (115 VAC) or low voltage (24 VAC) electrical systems, or if you lack the tools to safely diagnose blower motor communication and startup faults. A professional has the Carrier troubleshooting trees, proper test equipment, and training to follow the manufacturer's diagnostic sequence for code 15. Water intrusion issues often require identifying hidden moisture paths and correcting drainage or coil problems that are not obvious. If the fault returns after you replace the motor or module, a technician can trace control-board or system-level problems that require more advanced diagnostics.
-
-## See Also
-
-- [Carrier WeatherMaker Rooftop Unit Error Codes: Complete Guide](/posts/carrier-weatheramaker-error-codes/)
-- [Carrier 23 Error Code — Draft Safeguard Switch Fault](/posts/carrier-23-error-code/)
-- [Carrier 58UX Furnace Error Codes — Flash Code Diagnostic Guide](/posts/carrier-58ux-error-codes/)
-- [Carrier Error Code 17 - Causes & Fix](/posts/carrier-error-code-17/)

@@ -19,8 +19,6 @@ When your Frigidaire refrigerator runs warmer than it should, the control may di
 
 The underlying problem can range from something simple like a door left ajar or a worn gasket to a mechanical issue such as a failed evaporator fan, dirty condenser coils, or a defrost system that has let ice block airflow. Frigidaire notes that power outages, recent door openings, or loading warm food can also trigger a real but temporary temperature rise. In every case the goal is to confirm the actual temperature with a thermometer and then work through the most common causes in order of likelihood.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door left open or not fully closed** The most common reason for a warm cabinet is a door that was not latched or is being held open by a food package or shelf item.
@@ -55,13 +53,13 @@ The underlying problem can range from something simple like a door left ajar or 
 
 Seeing a code on the display? These match this problem:
 
-- [Frigidaire Refrigerator Al 29 error code](/posts/frigidaire-refrigerator-al-29-error-code/)
+- Frigidaire Refrigerator Al 29 error code
 - [Frigidaire Refrigerator Df error code](/posts/frigidaire-refrigerator-df-error-code/)
 - [Frigidaire Refrigerator E11 error code](/posts/frigidaire-refrigerator-e11-error-code/)
 - [Frigidaire Refrigerator E15 error code](/posts/frigidaire-refrigerator-e15-error-code/)
 - [Frigidaire Refrigerator Er Ce error code](/posts/frigidaire-refrigerator-er-ce-error-code/)
 - [Frigidaire Refrigerator Er error code](/posts/frigidaire-refrigerator-er-error-code/)
-- [Frigidaire Refrigerator F0001 error code](/posts/frigidaire-refrigerator-f0001-error-code/)
+- Frigidaire Refrigerator F0001 error code
 - [Frigidaire Refrigerator H1 error code](/posts/frigidaire-refrigerator-h1-error-code/)
 - [Frigidaire Refrigerator Hi error code](/posts/frigidaire-refrigerator-hi-error-code/)
 - [Frigidaire Refrigerator Op error code](/posts/frigidaire-refrigerator-op-error-code/)

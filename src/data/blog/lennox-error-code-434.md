@@ -13,11 +13,8 @@ money_part: "Outdoor unit control board"
 most_likely_cause: "Loose or damaged communication wiring at the outdoor unit"
 ---
 
-## Lennox Error Code 434 — What It Means
-
+## What this code means
 Lennox error code 434 appears on iComfort communicating systems when the indoor unit (air handler or furnace) loses its communication link to the outdoor unit (condenser or heat pump). The iComfort system uses a proprietary communicating bus across all components; when the outdoor unit stops responding to the bus master (the thermostat), code 434 is flagged and the system locks out to prevent operating with incomplete safety data. The outdoor unit is physically present but not talking — which is the core distinction from a wiring absence fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,18 +45,3 @@ Lennox error code 434 appears on iComfort communicating systems when the indoor 
 ## When to Call a Pro
 
 If you've confirmed communication wiring, fuse, and 24VAC but the outdoor unit still won't appear in the iComfort system map, the board replacement requires programming the new board to recognize the refrigerant charge and system configuration. Lennox dealers have the iComfort commissioning tool to complete that setup — without it, the system may not operate at rated efficiency.
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-
-## See Also
-
-- [Lennox Error Code 332 — Causes & Fix](/posts/lennox-error-code-332/)
-- [Lennox Furnace Error Codes — Complete Reference Guide](/posts/lennox-furnace-error-codes/)
-- [Lennox SLP98V Error Codes — Variable-Speed Furnace Fault Guide](/posts/lennox-slp98v-error-codes/)
-- [Lennox Error Code 412 — Limit Switch Fault Fix](/posts/lennox-error-code-412/)

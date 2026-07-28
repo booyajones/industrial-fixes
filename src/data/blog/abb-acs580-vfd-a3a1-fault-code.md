@@ -20,15 +20,12 @@ free_checks:
 no_buy_pct: "80%"
 ---
 
-## ABB ACS580 A3A1 Fault — What It Means
-
+## What this code means
 The A3A1 fault on an ABB ACS580 indicates DC link overvoltage in the intermediate circuit while the drive is stopped. The drive has detected that the DC bus voltage exceeds the maximum safe threshold when it is not running. This is different from overvoltage faults that occur during deceleration or under load. If the supply voltage parameter is set incorrectly, the motor may rush uncontrollably on startup, or the brake chopper and resistor may be overloaded. The fault protects the drive from damage but signals a mismatch between expected and actual conditions.
 
 ## Before You Replace Anything
 
 Technicians sometimes replace the brake chopper or capacitor bank first. Check parameter 95.01 and measure actual incoming line voltage with a multimeter before ordering any internal parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a professional if you have corrected parameter 95.01, confirmed the incoming line voltage is within spec, removed any external capacitors or surge absorbers, and the A3A1 fault still appears after a power cycle. A technician with ABB Drive Composer software and a multimeter can test the DC bus discharge circuit, measure the DC link voltage directly, and inspect the brake chopper and capacitor bank for internal faults. High-voltage DC bus work requires specialized training and safety equipment. Also call a pro if the incoming line voltage is persistently too high, as that requires coordination with your utility or an electrician to adjust the transformer tap or supply configuration.
 
 **Rough cost:** A pro service call runs about $150-400 depending on the root cause and required corrections.
-
-## See Also
-
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS580 A2B1 Fault Code - Causes & Fix](/posts/abb-acs580-a2b1-fault-code/)
-- [ABB ACS580 A5A0 Fault - Causes & Fix](/posts/abb-acs580-vfd-a5a0-fault-code/)
-- [ABB ACS580 FF63 Fault - STO Diagnostics Failure Fix](/posts/abb-acs580-vfd-ff63-fault-code/)

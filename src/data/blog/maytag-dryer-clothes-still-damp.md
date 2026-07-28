@@ -19,8 +19,6 @@ When your Maytag dryer runs through a cycle but clothes come out damp, the machi
 
 Manufacturer service guidance ties damp-load complaints to blocked vents, dirty moisture sensors, incorrect cycle selection, and open heating elements. If the control does display a code like F-28, F-29, F-22, or F-23, those point to specific sensor or thermistor faults, but the generic damp-clothes issue itself has no dedicated error number.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged lint screen, vent hose, or exterior hood** Lint buildup in the screen, duct, blower housing, or a stuck exterior vent flapper restricts hot air from escaping and is the leading cause of damp loads.
@@ -56,10 +54,10 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Maytag Dryer Err error code](/posts/maytag-dryer-err-error-code/)
 - [Maytag Dryer F01 error code](/posts/maytag-dryer-f01-error-code/)
-- [Maytag Dryer F02 error code](/posts/maytag-dryer-f02-error-code/)
+- Maytag Dryer F02 error code
 - [Maytag Dryer F1E1 error code](/posts/maytag-dryer-f1e1-error-code/)
 - [Maytag Dryer F1E3 error code](/posts/maytag-dryer-f1e3-error-code/)
-- [Maytag Dryer F1E4 error code](/posts/maytag-dryer-f1e4-error-code/)
+- Maytag Dryer F1E4 error code
 - [Maytag Dryer F1E5 error code](/posts/maytag-dryer-f1e5-error-code/)
 - [Maytag Dryer F20 error code](/posts/maytag-dryer-f20-error-code/)
 - [Maytag Dryer F22 error code](/posts/maytag-dryer-f22-error-code/)

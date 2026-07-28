@@ -55,36 +55,3 @@ For an encoder issue: inspect the encoder cable and connector first. If the cabl
 ## When to Call a Technician
 
 Haas servo system diagnosis — particularly encoder replacement and drive swap — should be handled by a Haas Factory Outlet (HFO) technician or experienced CNC service tech. Servo drive replacement on a live machine requires careful parameter matching to avoid axis runaway. Do not attempt drive replacement without a complete parameter backup.
-
-## Related Articles
-
-- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
-- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
-- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
-- [Haas Alarm 106 — Causes & Fix](/posts/haas-alarm-106/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Fanuc vs Mazak CNC controls compared](/posts/fanuc-vs-mazak-cnc-controls/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Best megohmmeter for electricians](/posts/best-megohmmeter-for-electricians/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Best CNC touch probe (2026)](/posts/best-cnc-touch-probe/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Fanuc alarm 401 servo ready off](/posts/fanuc-alarm-401/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Mazak alarm 218 spindle overheat](/posts/mazak-alarm-218/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Haas alarm 114 servo error too large](/posts/haas-alarm-114/)
-
-## See Also
-
-- [Haas Alarm 120-129 — Automatic Tool Changer (ATC) Fault Fix Guide](/posts/haas-alarm-120-atc-fault/)
-- [Haas Alarm 116 — Causes & Fix](/posts/haas-alarm-116/)
-- [Haas Alarm 115 Spindle Overload — Causes & Fix](/posts/haas-alarm-115-spindle-overload/)
-- [Haas Alarm 124 — Causes & Fix](/posts/haas-alarm-124/)

@@ -23,8 +23,6 @@ On the **PowerFlex 40**, one of the first things to check is the motor overload 
 
 Allen Bradley PowerFlex drives are one of the dominant VFD families in the United States, so F7 has heavy search volume for a reason.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
 - **Incorrect motor overload setting**. On the PowerFlex 40, this is one of the most common reasons for nuisance F7 trips. If the overload value does not match the motor nameplate, the drive can trip while the motor is actually fine.

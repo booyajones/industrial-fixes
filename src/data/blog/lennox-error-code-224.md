@@ -106,11 +106,4 @@ The iComfort displays the same error code 224 sent up from the integrated contro
 
 - [Lennox Error Code 240 — Ignitor Failed Fix](/posts/lennox-error-code-240)
 - [Lennox Error Code 270 — Flame Signal Lost Fix](/posts/lennox-error-code-270)
-- [Carrier 33 Error Code — Limit Circuit Fault Fix](/posts/carrier-33-error-code)
-
-## See Also
-
-- [Lennox Error Code 412 — Limit Switch Fault Fix](/posts/lennox-error-code-412/)
-- [Lennox XC16 Air Conditioner Error Codes — Fault Code Diagnostic Guide](/posts/lennox-xc16-error-codes/)
-- [Lennox Healthy Climate Error Codes — Complete Guide](/posts/lennox-healthy-climate-error-codes/)
-- [Lennox Error Code 414 — Gas Valve Circuit Fault Fix](/posts/lennox-error-code-414-gas-valve-circuit-fault/)
+- Carrier 33 Error Code — Limit Circuit Fault Fix

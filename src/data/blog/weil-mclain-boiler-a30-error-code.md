@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "30%"
 ---
 
-## Weil-McLain A30 Error Code — What It Means
-
+## What this code means
 The A30 code on Weil-McLain Ultra-series boilers indicates a high-temperature lockout. The boiler has shut down because the sensed water temperature is rising too quickly or has exceeded the control's limit logic. This is a protective shutdown to prevent overheating damage. The control detects that heat is building up faster than it should, which typically means the boiler is firing but water is not circulating through the system properly.
 
 The lockout is not an ignition fault. Instead, it signals that the boiler cannot move heat away from the combustion chamber fast enough. The most common real-world cause is a failed or weak circulator pump, but air trapped in the system, restricted flow from sludge or a clogged strainer, improper piping or bypass valve settings, and a faulty supply temperature sensor can all trigger the same code. Until the underlying flow or sensing problem is corrected, the boiler will continue to lock out on A30.
@@ -29,8 +28,6 @@ The lockout is not an ignition fault. Instead, it signals that the boiler cannot
 ## Before You Replace Anything
 
 Homeowners often replace the temperature sensor first, but the real culprit is usually poor system flow. Before ordering a sensor, verify that the circulator pump is running and that the system has been purged of air.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -80,10 +77,3 @@ Answer these to narrow it down fast.
 Call a licensed heating technician for A30 diagnostics and repair. Although checking that the circulator is running and purging air are tasks a confident homeowner can perform, diagnosing electrical faults in the pump circuit, measuring sensor resistance against manufacturer charts, inspecting complex primary-secondary piping, and safely working around a live gas-fired boiler all require professional training and test equipment. If the circulator has failed, a pro will also verify that the replacement pump is sized correctly for your system's head and flow requirements. Finally, if the boiler locks out repeatedly even after the obvious checks, a technician can use the control's advanced diagnostics to isolate intermittent sensor faults, control-board issues, or hidden restrictions that are not apparent during a simple visual inspection.
 
 **Rough cost:** A pro service call runs about $200-500.
-
-## See Also
-
-- [Weil-McLain Boiler A163 Error - Causes & Fix](/posts/weil-mclain-boiler-a163-error-code/)
-- [Weil-McLain Boiler A166 Error - Causes & Fix](/posts/weil-mclain-boiler-a166-error-code/)
-- [Weil-McLain Boiler A78 Error - Causes & Fix](/posts/weil-mclain-boiler-a78-error-code/)
-- [Weil-McLain Boiler A09 Error - Causes & Fix](/posts/weil-mclain-boiler-a09-error-code/)

@@ -14,11 +14,8 @@ money_part: "Speed Queen thermistor / temperature sensor"
 most_likely_cause: "Failed thermistor or temperature sensor"
 ---
 
-## Speed Queen Washer SH Error Code — What It Means
-
+## What this code means
 The SH code on a Speed Queen washer indicates a shorted thermistor or temperature sensor fault. The control board has detected that the temperature sensing circuit is reading out of range, which prevents the machine from heating water properly or completing cycles. This is a specific electrical fault where the sensor circuit is either sending a shorted signal or the sensor itself has failed internally. The machine will not run normally until the problem is corrected.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

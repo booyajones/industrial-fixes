@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Maytag F74 Error Code — What It Means
-
+## What this code means
 The F74 error code signals a UI EEPROM fault. The User Interface control panel has failed to read or write its internal memory (EEPROM) correctly, or the data stored in the memory chip has become corrupted. This prevents the washer from operating normally or communicating with the main control board. The fault is almost always related to the UI board itself or its wiring connection to the machine control unit.
 
 EEPROM stands for Electrically Erasable Programmable Read-Only Memory. It stores configuration data and cycle information for the control panel. When this memory fails, the washer cannot process user commands or maintain cycle settings, triggering the F74 code and stopping operation.
@@ -25,8 +24,6 @@ EEPROM stands for Electrically Erasable Programmable Read-Only Memory. It stores
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board (MCU) first when the real culprit is the User Interface board. A power reset and wiring inspection will isolate the UI board as the problem without spending money on the wrong part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 oL7 Fault — What It Means
-
+## What this code means
 The oL7 fault on a Yaskawa A1000 drive means High Slip Braking overload. Specifically, the output frequency stayed constant for longer than the time set in parameter n3-04 during High Slip Braking. In practical terms, the drive is reporting that the motor and load could not complete the braking event within the allowed time window.
 
 This fault occurs when the drive tries to stop the motor using High Slip Braking but the load has too much inertia, the deceleration ramp is too aggressive, or the braking capacity (resistor or drive capability) is not enough to hold the commanded slip condition long enough. The drive aborts the stop and throws oL7 to protect itself.
@@ -24,8 +23,6 @@ This fault occurs when the drive tries to stop the motor using High Slip Braking
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive when oL7 appears, but Yaskawa's documented corrective action is to lengthen deceleration parameters and verify braking resistor installation first. Check parameter n3-04 and the decel ramps before swapping the drive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified drives technician or systems integrator if you are not familiar with VFD parameter programming, if you do not have the A1000 technical manual with the braking resistor selection table for your frame size, or if the fault persists after lengthening deceleration times and verifying the braking resistor. High Slip Braking interacts with motor control algorithms and DC bus voltage limits, so incorrect parameter changes can damage the drive or create unsafe stopping behavior. A pro will use the drive's event recorder and real-time monitors to capture exactly when oL7 occurs, measure DC bus ripple during braking, and size the braking resistor or adjust n3-04 based on actual load inertia calculations.
 
 **Rough cost:** A pro service call runs about $200–500 for parameter tuning and braking resistor installation if needed.
-
-## See Also
-
-- [Yaskawa A1000 CPF14 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf14-fault-code/)
-- [Yaskawa GA800 E90 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e90-fault-code/)
-- [Yaskawa GA800 E46 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e46-fault-code/)
-- [Yaskawa VFD Fault PF — Causes & Fix](/posts/yaskawa-vfd-fault-pf/)

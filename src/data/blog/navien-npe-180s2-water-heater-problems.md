@@ -42,10 +42,3 @@ The Navien NPE-180S2 is a condensing tankless water heater in the NPE series. Th
 ## When to Call a Pro
 
 Call a licensed technician for any gas supply, gas pressure, or gas valve work on this unit. Thermistor replacement, igniter or flame rod service, venting inspection, and heat exchanger descaling or flushing should also be handled by a trained pro familiar with Navien NPE-series diagnostics and fault-code workflows. If you see repeating ignition or flame codes after clearing the fault, or if the unit locks out, a tech with a manometer and combustion analyzer is needed to verify gas pressure, airflow, and burner operation safely. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Navien E594 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e594-error-code/)
-- [Navien Flame Rod Replacement - Signs & How-To](/posts/navien-water-heater-flame-rod-flame-sensor-tankless-replacement/)
-- [Navien Alarm 401 Error Code - Causes & Fix](/posts/navien-tankless-alarm-401-error-code/)
-- [Navien Tankless Water Heater Error Codes — Complete Guide](/posts/navien-error-codes/)

@@ -14,13 +14,10 @@ money_part: "Water inlet valve assembly"
 most_likely_cause: "Leaking inlet valve"
 ---
 
-## Speed Queen Washer EL Error Code — What It Means
-
+## What this code means
 The EL error code on a Speed Queen washer means the machine has detected a leak in its water-leak sensing system. This is a real leak fault, not a drain or lid issue. Speed Queen's service guidance treats this as water present where it should not be, either from an actual plumbing leak or a fault in the leak-sensing circuit itself.
 
 The washer will stop the cycle to prevent electrical damage and flooding. You need to find and fix the source of water before the machine will run normally again. Most of the time, the leak is coming from a fill hose, inlet valve, drain hose, or internal connection that has failed or come loose.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

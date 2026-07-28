@@ -13,11 +13,8 @@ money_part: "FC302 cooling fan assembly"
 most_likely_cause: "Clogged cooling fan or heat sink fins"
 ---
 
-## Danfoss FC302 Alarm AL 29 — What It Means
-
+## What this code means
 Alarm AL 29 on the Danfoss FC302 (VLT AutomationDrive) indicates heat sink overtemperature — the drive's power module heat sink exceeded the maximum allowable temperature and the drive shut down to prevent IGBT damage. The FC302 monitors heat sink temperature continuously; when it reaches the trip threshold (typically 90–95°C), AL 29 triggers immediately.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -43,10 +40,3 @@ Alarm AL 29 on the Danfoss FC302 (VLT AutomationDrive) indicates heat sink overt
 ## When to Call a Pro
 
 If the drive trips AL 29 immediately after restart with clean fins and correct ambient, the thermal sensor or IGBT module may have failed. Danfoss authorized service handles internal component replacement.
-
-## See Also
-
-- [Danfoss VFD Fault OL — Causes & Fix](/posts/danfoss-vfd-fault-ol/)
-- [Danfoss VFD Fault W30 — Brake Resistor Overtemperature Fix](/posts/danfoss-vfd-fault-w30/)
-- [Danfoss VFD Fault OCL — Causes & Fix](/posts/danfoss-vfd-fault-ocl/)
-- [Danfoss FC302 Complete Fault Code Guide — All Faults and Fixes](/posts/danfoss-fc302-complete-guide/)

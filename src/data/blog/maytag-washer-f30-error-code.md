@@ -17,8 +17,7 @@ money_part: "Dispenser actuator motor"
 part_price: "$50-120"
 ---
 
-## Maytag Washer F30 Error Code — What It Means
-
+## What this code means
 The F30 code on a Maytag washer indicates a dispenser system error. The control board detects that the dispenser mechanism is not reaching or reporting the correct position. This is not a water-level or drain fault. The dispenser motor or actuator cannot drive the dispenser drawer to its commanded position, or something is blocking the mechanical travel.
 
 This code appears most often on MAH22 platform top-load models. The washer expects the dispenser to move smoothly through its cycle to release detergent, bleach, and fabric softener at the right times. When the motor stalls, the linkage binds, or the position sensor cannot confirm movement, the control throws F30 and stops the cycle.
@@ -26,8 +25,6 @@ This code appears most often on MAH22 platform top-load models. The washer expec
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board thinking it is a software fault. First remove and clean the dispenser drawer and check for physical obstructions in the linkage before ordering any electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

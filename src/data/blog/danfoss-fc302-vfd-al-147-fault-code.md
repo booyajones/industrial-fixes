@@ -17,15 +17,12 @@ free_checks:
   - "Inspect all control and motor cable connections for looseness or corrosion, and tighten ground terminals."
 ---
 
-## Danfoss FC302 AL-147 — What It Means
-
+## What this code means
 The code AL-147 does not exist in official Danfoss VLT AutomationDrive FC302 documentation. Danfoss alarm codes are strictly integer-only formats without hyphens (for example AL 4, AL 13, AL 14, AL 17, AL 38). You may be misreading the display, or the keypad is showing corrupted text. The most likely actual codes are AL 14 (Earth Fault, indicating a ground short on the drive output), AL 17 (Bus Timeout, indicating lost serial communication with a keypad or fieldbus module), or AL 38 (Internal Fault, a general diagnostic code with sub-codes). Consult your drive's alarm history screen or wiring diagram to confirm the real code, then look up the official meaning in the FC302 manual table.
 
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive power board when the actual fault is AL 14 (earth fault) caused by a failing motor or damaged motor cable. Always disconnect the motor and megohm-test the motor windings and cable to ground before condemning the drive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial drive technician or electrician if the alarm history shows no valid code after multiple power cycles, if you lack an insulation tester to megohm-test the motor, or if the fault persists with the motor disconnected. High-voltage DC bus capacitors inside the drive can hold lethal voltage for several minutes after power-off, so only trained personnel should open the enclosure or replace internal boards. A technician will use bench test equipment to isolate whether the power board, logic card, or communication modules have failed, and will safely handle capacitor discharge and IGBT testing. If the motor itself has insulation failure, a motor shop can rewind or replace it.
 
 **Rough cost:** A pro service call runs about $200-800.
-
-## See Also
-
-- [Danfoss FC302 VFD Alarm 37 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-37-fault-code/)
-- [Danfoss FC302 ALARM 27 - Causes & Fix](/posts/danfoss-fc302-alarm-27-fault-code/)
-- [Danfoss FC302 AL-115 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-115-fault-code/)
-- [Danfoss FC302 Alarm 27 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-27-fault-code/)

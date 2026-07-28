@@ -183,10 +183,3 @@ A: Yes — the NPE-240S supports comfort flow (recirculation through the cold wa
 
 **Q: What is the warranty on the NPE-240S?**
 A: Navien provides a 15-year heat exchanger warranty, 5-year parts warranty, and 1-year labor warranty when installed by a licensed contractor and registered within 30 days.
-
-## See Also
-
-- [Navien Error Code E016 — Causes & Fix](/posts/navien-error-code-e016/)
-- [Navien NPE Series Error Codes — Tankless Water Heater Fault Guide](/posts/navien-npe-error-codes/)
-- [Navien Error Code E010 — Causes & Fix](/posts/navien-error-code-e010/)
-- [Navien E009 Error Code — Causes & Fix](/posts/navien-error-code-e009/)

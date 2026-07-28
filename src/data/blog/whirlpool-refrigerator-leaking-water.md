@@ -19,8 +19,6 @@ When you see water pooling under or inside your Whirlpool refrigerator, you're d
 
 Whirlpool's own troubleshooting treats water on the floor as a leak investigation that requires you to isolate the source. Most leaks trace back to blockages in the defrost drain, ice buildup in the drain tube, or problems in the water supply and dispensing system.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged defrost drain** Whirlpool identifies blockages in the internal drain line as a likely cause, and debris or ice can prevent melt water from reaching the drain pan.

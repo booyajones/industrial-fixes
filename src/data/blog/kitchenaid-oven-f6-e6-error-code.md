@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## KitchenAid Oven F6 E6 Error Code — What It Means
-
+## What this code means
 F6 E6 on a KitchenAid wall oven indicates a communication fault involving the upper oven appliance manager control. The upper oven control is not communicating properly with the rest of the control system. KitchenAid's product help identifies the error as tied to the Upper Oven Appliance Manager Control and its associated wiring.
 
 This is not a temperature sensor code. It is a loss of communication in the upper oven control path. The fault can be caused by a temporary control glitch, a loose or damaged wiring connection, or a failed upper oven appliance manager control board.
@@ -26,8 +25,6 @@ This is not a temperature sensor code. It is a loss of communication in the uppe
 ## Before You Replace Anything
 
 Homeowners sometimes replace the upper oven control board without first resetting power at the breaker or inspecting the wiring harness and connectors for loose or damaged connections.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

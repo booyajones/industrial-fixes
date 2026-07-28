@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "40%"
 ---
 
-## Danfoss AL 13 Fault — What It Means
-
+## What this code means
 Alarm 13 on a Danfoss FC302 VFD signals overcurrent where the drive's output current has gradually built beyond its rated capacity (typically 150 to 160 percent of nominal current) for several seconds. This is distinct from an instantaneous short circuit fault. The drive detects the motor drawing too much current during normal operation or acceleration, usually because the motor shaft is mechanically overloaded, motor parameters (especially nominal motor current in parameter 1-24) are set incorrectly, or a motor winding has developed a partial short.
 
 Cable issues between the drive and motor can also trigger AL 13. Loose connections create resistance that causes current spikes. Inside the drive, aging IGBT modules or failing DC bus capacitors can lose current regulation ability. Short deceleration times on high-inertia loads or incoming line voltage running more than 10 percent above nominal can push the system into fault territory.
@@ -29,8 +28,6 @@ Cable issues between the drive and motor can also trigger AL 13. Loose connectio
 ## Before You Replace Anything
 
 Technicians often replace the IGBT inverter module before checking motor settings and connections. Always disconnect the motor and run the drive unloaded first; if AL 13 clears, the fault is motor-side and the drive electronics are fine.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if the drive continues to fault after you correct motor parameters and verify cable connections. High-voltage DC bus work, IGBT module replacement, and inverter board diagnostics require specialized meters, safety training, and knowledge of power electronics. If the motor itself has a winding short, a motor shop will need to rewind or replace the stator. Attempting IGBT or capacitor replacement without proper lockout/tagout and DC bus discharge procedures can result in lethal electric shock or arc flash injury.
 
 **Rough cost:** A pro service call runs about $200-800 depending on whether it is a parameter correction, cable repair, or IGBT module replacement.
-
-## See Also
-
-- [Danfoss FC302 AL-91 - Causes & Fix](/posts/danfoss-fc302-vfd-al-91-fault-code/)
-- [Danfoss FC302 Alarm 40 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-40-fault-code/)
-- [Danfoss FC302 VFD Alarm 29 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-29-fault-code/)
-- [Danfoss FC302 ALARM 15 - Causes & Fix](/posts/danfoss-fc302-alarm-15-fault-code/)

@@ -20,8 +20,6 @@ When your GE oven runs too hot, too cold, or displays F2, F3, or F4 codes, the c
 
 The oven temperature sensor is a probe inside the oven cavity that tells the control board when to cycle the heating element on and off. If the sensor drifts out of range, reads erratically, or the harness between sensor and board is damaged, the oven will undershoot or overshoot the set temperature. The control board itself can also fail and switch heat incorrectly even when the sensor is good.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed oven temperature sensor** The primary cause for F3, F4, and inaccurate temperature on GE ovens is a sensor that has drifted out of its resistance specification or failed completely.

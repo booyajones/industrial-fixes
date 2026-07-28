@@ -13,11 +13,8 @@ money_part: "Input fuses for Siemens Micromaster"
 most_likely_cause: "Incoming mains loss or brownout"
 ---
 
-## Siemens Micromaster F0003 — What It Means
-
+## What this code means
 F0003 on a Siemens Micromaster drive indicates undervoltage on the DC link or main supply side. The drive has detected that the incoming supply voltage has dropped below the allowed threshold and has tripped to protect itself. This is not a motor overload or overcurrent fault. It means the drive is not receiving enough voltage from the mains to operate safely.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ F0003 on a Siemens Micromaster drive indicates undervoltage on the DC link or ma
 ## When to Call a Pro
 
 Call a qualified electrician or drive technician if you cannot safely measure or verify the incoming supply, if the fault persists after checking all line-side connections and supply conditions, or if you suspect internal drive damage to the DC link or power stage. Also call for help if the plant supply shows chronic instability or if the drive documentation and parameter settings are unclear for your specific model and voltage class.
-
-## See Also
-
-- [Siemens G120 F01250 Fault Code - Causes & Fix](/posts/siemens-g120-f01250-fault-code/)
-- [Siemens G120 F01001 - Causes & Fix](/posts/siemens-g120-vfd-f01001-fault-code/)
-- [Siemens G120 F01625 - Causes & Fix](/posts/siemens-g120-vfd-f01625-fault-code/)
-- [Siemens G120 F01662 - Causes & Fix](/posts/siemens-g120-vfd-f01662-fault-code/)

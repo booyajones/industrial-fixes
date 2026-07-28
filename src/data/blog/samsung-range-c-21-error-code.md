@@ -16,8 +16,7 @@ money_part: "Samsung oven temperature sensor (NTC thermistor)"
 part_price: "$20-60"
 ---
 
-## Samsung C-21 Error Code — What It Means
-
+## What this code means
 The C-21 code is an overheating protection fault. The control board has detected that the oven cavity temperature has exceeded its safe operating limit and has shut down to protect both the appliance and the user. Field observations suggest this may trip when internal temperatures climb above roughly 500–600°F, though Samsung has not published an exact threshold in available documentation.
 
 This is not a door-lock or touch-panel error. The oven believes it is too hot and refuses to continue heating until the condition clears. The fault can appear during a bake cycle or self-clean if the temperature rises faster or higher than the control expects.
@@ -25,8 +24,6 @@ This is not a door-lock or touch-panel error. The oven believes it is too hot an
 ## Before You Replace Anything
 
 Many people replace the main control board first when the real culprit is the oven temperature sensor. Test the sensor with a multimeter at room temperature before ordering any boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

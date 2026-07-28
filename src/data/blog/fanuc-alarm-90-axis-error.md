@@ -13,11 +13,8 @@ money_part: "Reference deceleration limit switch"
 most_likely_cause: "Reference return deceleration dog missing or mispositioned"
 ---
 
-## Fanuc Alarm 90 — What It Means
-
+## What this code means
 Fanuc alarm 90 (SV0090: REFERENCE RETURN INCOMPLETE) indicates that an axis required to complete reference return (home position) failed to reach its reference point within the allowed stroke or within the expected signal sequence. Most Fanuc CNCs require a reference return (G28 or manual reference operation) after power-on before they will allow automatic cycle operation. Alarm 90 fires when the CNC commanded a reference return and either the deceleration dog signal was never seen, the reference position signal never appeared, or the axis hit a travel limit before the reference point was found.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Fanuc alarm 90 (SV0090: REFERENCE RETURN INCOMPLETE) indicates that an axis requ
 ## When to Call a Pro
 
 If the decel dog is properly positioned, the encoder cable is intact, and the CNC still fails to find the reference position, the servo encoder itself may need replacement or recalibration. This requires Fanuc parameter adjustment and machine geometry verification by a certified technician.
-
-## Related Articles
-
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
-- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
-- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
-
-## See Also
-
-- [Fanuc Alarm 400 — Causes & Fix](/posts/fanuc-alarm-400/)
-- [Fanuc Alarm 300 — APC Alarm Fix (Absolute Encoder)](/posts/fanuc-alarm-300/)
-- [Fanuc Alarm 6 Overtravel — Causes & Fix](/posts/fanuc-alarm-6-overtravel/)
-- [Fanuc vs Mazak CNC Controls — A Machinist's Honest Comparison (2026)](/posts/fanuc-vs-mazak-cnc-controls/)

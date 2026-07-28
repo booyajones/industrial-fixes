@@ -13,11 +13,8 @@ money_part: "Temperature sensor / thermistor"
 most_likely_cause: "Faulty temperature sensor or thermostat"
 ---
 
-## A.O. Smith E1 Error Code — What It Means
-
+## What this code means
 The E1 error code on an A.O. Smith tankless water heater signals a high-temperature safety fault. The unit has detected an over-temperature condition (typically around 170 to 180 °F) and shut down to protect the heater and prevent scalding. This is a protective measure triggered when internal temperatures exceed safe operating limits.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Manitowoc E15 Error — What It Means
-
+## What this code means
 E15 is a Fan Cycle Control Fault triggered by low liquid line temperature. The code appears when the refrigerant liquid line temperature drops below 60°F (about 15.6°C) continuously for more than 1 minute during the freeze cycle. The machine uses thermistor sensors to monitor line temperature, and this fault tells you the system is seeing abnormally cold refrigerant leaving the condenser.
 
 This code indicates either a problem with the condenser fan cycling on when it should not, low ambient air temperature around the condenser section, restricted airflow through the condenser coil, or a fault in the temperature sensing circuit itself. It can also point to refrigeration system issues such as abnormal refrigerant charge or a restriction that is causing the liquid line to overcool.
@@ -29,8 +28,6 @@ This code indicates either a problem with the condenser fan cycling on when it s
 ## Before You Replace Anything
 
 Technicians sometimes replace the liquid line thermistor when the real problem is dirty condenser coils or low ambient air. Always measure actual liquid line temperature with a reliable clamp probe and verify airflow before ordering sensor parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a qualified refrigeration technician immediately. E15 faults involve refrigerant line temperature monitoring, sealed-system diagnostics, and fan cycle control circuits that require refrigerant handling certification, pressure and temperature measurement tools, and an understanding of Manitowoc's Indigo control logic. If the cause is low ambient temperature or a dirty coil, a technician can correct it quickly. If the fault points to a refrigeration system problem such as charge, restriction, or a failed sensor, only a licensed tech with recovery equipment and manufacturer service documentation should open the sealed system or replace refrigerant-side components.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Manitowoc Ice Machine Error Code 8 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-8/)
-- [Manitowoc IYT-0450 Error Codes — Fault Code Diagnostic Guide](/posts/manitowoc-iyt-0450-error-codes/)
-- [Manitowoc E08 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e08-error-code/)
-- [Manitowoc E11 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e11-error-code/)

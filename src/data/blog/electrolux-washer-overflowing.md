@@ -19,8 +19,6 @@ When your Electrolux washer overflows, the control system has detected water lea
 
 This fault typically involves either the pressure system giving incorrect feedback to the control board, the inlet valve failing to close completely, or installation and drainage problems causing siphoning or abnormal water behavior. Blocked drain paths, kinked drain hoses, or excess foam from too much detergent can also confuse the level sensor and produce overflow symptoms.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged pressure chamber or air trap** Detergent residue or debris blocks the pressure hose connection at the tub, so the sensor never sees the true water level and the machine keeps filling.

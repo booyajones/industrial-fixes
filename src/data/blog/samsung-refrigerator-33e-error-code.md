@@ -16,8 +16,7 @@ money_part: "Samsung ice pipe heater / fill tube heater assembly"
 part_price: "$15-50"
 ---
 
-## Samsung 33E Error Code — What It Means
-
+## What this code means
 The 33E code on a Samsung refrigerator indicates a fault with the ice pipe heater (also called the fill tube heater). This small heating element wraps around the water supply line that feeds your ice maker, keeping it from freezing during normal operation. When the main control board detects that the heater has failed, lost electrical continuity, or is not responding properly, it displays 33E and may disable ice production to prevent damage from a frozen water line.
 
 The fault is typically a real hardware problem rather than a transient error. The heater element itself may have burned out, wiring and connectors between the heater and the control board may be loose or corroded, or the control board may be misreading the circuit. In some cases the fill tube is already frozen solid because the heater stopped working days earlier, so you may need to thaw the line before diagnosing the electrical fault.
@@ -25,8 +24,6 @@ The fault is typically a real hardware problem rather than a transient error. Th
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board first when the real problem is a $15 heater element or a loose connector at the ice maker. Always measure heater resistance with a multimeter and inspect the harness before ordering a control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -51,24 +51,17 @@ The drain hose carries wastewater from the washer to your household drain or sta
 
 If this part is failing you may also see one of these codes:
 
-- [Lg Washer Ae error code](/posts/lg-washer-ae-error-code/)
-- [Lg Washer Cd error code](/posts/lg-washer-cd-error-code/)
-- [Lg Washer Ce error code](/posts/lg-washer-ce-error-code/)
-- [Lg Washer Cl error code](/posts/lg-washer-cl-error-code/)
-- [Lg Washer De error code](/posts/lg-washer-de-error-code/)
-- [Lg Washer De1 error code](/posts/lg-washer-de1-error-code/)
+- Lg Washer Ae error code
+- Lg Washer Cd error code
+- Lg Washer Ce error code
+- Lg Washer Cl error code
+- Lg Washer De error code
+- Lg Washer De1 error code
 - [Lg Washer De2 error code](/posts/lg-washer-de2-error-code/)
-- [Lg Washer Dhe error code](/posts/lg-washer-dhe-error-code/)
-- [Lg Washer E03 error code](/posts/lg-washer-e03-error-code/)
-- [Lg Washer E21 error code](/posts/lg-washer-e21-error-code/)
+- Lg Washer Dhe error code
+- Lg Washer E03 error code
+- Lg Washer E21 error code
 
 ## When to Call a Pro
 
 If you have replaced the drain hose and cleaned the pump filter but the washer still will not drain or shows repeated OE errors, the drain pump itself may have failed and will need to be tested and replaced. Pump replacement requires removing the lower front or rear panel, disconnecting wiring harnesses, and sometimes tilting or laying the washer on its side. If you are not comfortable working with electrical connectors or handling the weight of the machine, call a qualified appliance technician to diagnose the pump and complete the repair safely.
-
-## See Also
-
-- [LG LS120HSV5 Ductless Mini Split Problems & Error Codes](/posts/lg-ls120hsv5-ductless-mini-split-air-conditioner-problems/)
-- [LG Dishwasher Main Control Board Replacement - Signs & How-To](/posts/lg-dishwasher-control-board-main-electronic-control-replacement/)
-- [LG Refrigerator CO Error Code - Causes & Fix](/posts/lg-refrigerator-co-error-code/)
-- [LG Dryer Squeaking - Causes & Fix](/posts/lg-dryer-squeaking/)

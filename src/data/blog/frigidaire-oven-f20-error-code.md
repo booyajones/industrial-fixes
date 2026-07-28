@@ -16,8 +16,7 @@ money_part: "Electronic Oven Control (EOC) board"
 part_price: "$100-250"
 ---
 
-## Frigidaire F20 Error Code — What It Means
-
+## What this code means
 The F20 code on Frigidaire ranges and electric cooktops signals a communication error between control components. Frigidaire groups F3, F20, and F26 together as communication faults, meaning the electronic oven control (main control board) and the user interface (display and touchpad) cannot exchange data correctly. This is not a heating or cooking problem. It is a control-electronics problem.
 
 The breakdown can be as simple as a temporary glitch from a power surge, or it can point to a failed control board, a failed user interface, or damaged wiring and connectors between them. Frigidaire's published guidance says to reset the range by disconnecting power for up to 30 seconds. If the code returns after the reset, service is needed.
@@ -25,8 +24,6 @@ The breakdown can be as simple as a temporary glitch from a power surge, or it c
 ## Before You Replace Anything
 
 Many people replace the user interface board first because it is visible and easy to access, but a loose or corroded wiring harness or ribbon cable between boards often causes the same symptom and costs far less to fix. Reseat and inspect all connectors before replacing any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

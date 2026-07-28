@@ -54,15 +54,8 @@ These components fail from heat cycling, contamination, cracks in the ceramic in
 If this part is failing you may also see one of these codes:
 
 - [Rheem Water Heater A01 error code](/posts/rheem-water-heater-a01-error-code/)
-- [Rheem Water Heater Alarm 401 error code](/posts/rheem-water-heater-alarm-401-error-code/)
+- Rheem Water Heater Alarm 401 error code
 
 ## When to Call a Pro
 
 Call a licensed plumber or gas technician if you are not comfortable working with gas appliances, if the error persists after replacing the igniter and flame rod, or if you find gas leaks, blocked venting, or signs of burner damage. Gas valve replacement, combustion air adjustment, and gas-pressure testing require specialized tools and certification. If wiring or the main control board is damaged, professional diagnosis will save time and prevent further component failure. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rheem Water Heater Error Codes — Complete Guide](/posts/rheem-water-heater-error-codes/)
-- [Rheem Furnace 3 Flashes - Causes & Fix](/posts/rheem-furnace-3-flashes-error-code/)
-- [Rheem Furnace 7 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-error-code-7-flashes/)
-- [Rheem A01 Error Code - Causes & Fix](/posts/rheem-heat-pump-a01-error-code/)

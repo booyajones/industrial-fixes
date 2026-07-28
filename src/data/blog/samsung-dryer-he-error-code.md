@@ -17,8 +17,7 @@ money_part: "Samsung dryer thermistor (temperature sensor)"
 part_price: "$10-50"
 ---
 
-## Samsung Dryer hE Error Code — What It Means
-
+## What this code means
 The hE (or HC) code on a Samsung dryer signals a heating-related fault. The control board is detecting either insufficient heating, overheating, or invalid temperature-sensor feedback from the heater circuit. In practical terms, the dryer is not reaching the expected temperature during a cycle, or it is exceeding safe temperature limits and triggering protection.
 
 The code appears on both electric and gas models. It does not mean the door is open or the load is unbalanced. The control is specifically monitoring the heater system and has flagged a problem with how heat is being generated, sensed, or controlled.
@@ -26,8 +25,6 @@ The code appears on both electric and gas models. It does not mean the door is o
 ## Before You Replace Anything
 
 Many people replace the control board or heating element first. Before buying parts, check airflow by disconnecting the vent and running a timed cycle empty. Most hE codes clear once airflow is restored.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

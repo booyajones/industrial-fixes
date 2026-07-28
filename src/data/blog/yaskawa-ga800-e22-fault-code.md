@@ -13,13 +13,10 @@ money_part: "GA800 control board"
 most_likely_cause: "Misread or transposed fault code"
 ---
 
-## Yaskawa GA800 E22 Fault Code — What It Means
-
+## What this code means
 E22 does not appear in Yaskawa's published GA800 fault code documentation. If your keypad displays E22, it may be a misread code, a custom alarm configured by the installer, or a code from a different Yaskawa drive family. The GA800 uses alphanumeric fault codes like E.xx or Fxx, and many involve option modules, communication boards, or encoder feedback issues. Before troubleshooting, confirm the exact code displayed on the keypad and check your model's full fault list in the manual.
 
 Because this code is not standard, you cannot safely assume its cause without verifying the display and consulting Yaskawa technical support. The drive may still require a reset after clearing the underlying condition, but identifying the true fault is the first step.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ Because this code is not standard, you cannot safely assume its cause without ve
 ## When to Call a Pro
 
 Call a qualified drive technician or contact Yaskawa technical support immediately if you cannot find E22 in your manual, if the code reappears after reset, or if the drive will not clear the fault. The GA800 maintenance documentation explicitly states that repairs beyond fan and control board replacement are outside the scope of field service. Do not attempt to modify parameters, swap boards, or bypass interlocks without manufacturer guidance, as this can damage the drive or create unsafe motor operation.
-
-## See Also
-
-- [Yaskawa V1000 Complete Fault Code Guide — All Faults and Fixes](/posts/yaskawa-v1000-complete-guide/)
-- [Yaskawa GA800 E16 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e16-fault-code/)
-- [Yaskawa GA800 E17 Fault - Causes & Fix](/posts/yaskawa-ga800-e17-fault-code/)
-- [Yaskawa GA800 E11 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e11-fault-code/)

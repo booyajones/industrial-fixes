@@ -13,11 +13,8 @@ money_part: "Flame sensor rod"
 most_likely_cause: "Dirty flame sensor"
 ---
 
-## Rheem Furnace 8 Flashes Error Code — What It Means
-
+## What this code means
 Eight flashes on a Rheem furnace status LED indicates an **ignition lockout** — the furnace attempted to light the burners the maximum number of times (typically 3 trials) without successfully proving flame, and the control board locked out to prevent gas accumulation. The board will remain in lockout until the condition is manually reset or the auto-reset timer (usually 1 hour) expires. This is one of the most common Rheem fault codes and in most cases is caused by a dirty flame sensor or weak ignitor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Eight flashes on a Rheem furnace status LED indicates an **ignition lockout** �
 ## When to Call a Pro
 
 If you've cleaned the sensor and replaced the ignitor but the furnace still locks out, have a technician check gas valve operation with a manometer and verify the control board is sending proper ignitor power voltage (typically 120V AC). Continued lockouts with a known-good sensor can indicate a cracked heat exchanger affecting combustion air — a CO risk.
-
-## Related Articles
-
-- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
-- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
-- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)
-- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
-- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)
-
-## See Also
-
-- [Rheem RGPS Furnace Error Codes — Flash Code Diagnostic Guide](/posts/rheem-rgps-error-codes/)
-- [Rheem RTEX Electric Tankless Water Heater Error Codes](/posts/rheem-rtex-electric-tankless-error-codes/)
-- [Rheem RA13 Air Conditioner Error Codes — Fault Code Diagnostic Guide](/posts/rheem-ra13-error-codes/)
-- [Rheem Furnace 5 Flashes Error Code — Flame Sensor Fault Fix](/posts/rheem-furnace-5-flashes-flame-sensor/)

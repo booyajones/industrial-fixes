@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 oH Fault Code — What It Means
-
+## What this code means
 The oH fault code on a Yaskawa A1000 variable frequency drive indicates a heatsink overheat condition. This is a thermal protection alarm that triggers when the drive's heatsink temperature exceeds the threshold set by parameter L8-02. The default overheat level depends on your drive model selection in parameter o2-04.
 
 This code is specific to the drive's internal heat-dissipation hardware, not the motor. It tells you that the power section of the VFD is running too hot and the drive has shut down to protect itself from thermal damage. The fault will not reset until the heatsink cools and the underlying cause is corrected.
@@ -24,8 +23,6 @@ This code is specific to the drive's internal heat-dissipation hardware, not the
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive or control board before confirming that the cooling fan is actually moving air and that the heatsink is free of dust. Check fan operation and clean all airflow paths before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD service technician or a Yaskawa-authorized service center if the oH fault returns after you have verified proper airflow, cleaned the heatsink, and confirmed that the cooling fan is operating. Persistent overheat faults after environmental corrections often indicate an internal problem such as a failed thermal sensor, control board defect, or power section issue that requires component-level diagnostics and access to OEM service documentation. High-voltage work on the DC bus and power terminals must only be performed by trained personnel with appropriate test equipment and lockout procedures.
 
 **Rough cost:** A pro service call runs about $150-500 depending on whether a fan cleaning or component replacement is required.
-
-## See Also
-
-- [Yaskawa A1000 SC Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-sco-fault-code/)
-- [Yaskawa GA800 A.111 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-111-fault-code/)
-- [Yaskawa A1000 oL7 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol7-fault-code/)
-- [Yaskawa GA800 A.119 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-119-fault-code/)

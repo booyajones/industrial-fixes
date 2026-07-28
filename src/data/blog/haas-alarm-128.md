@@ -56,18 +56,3 @@ Look for loose pockets, worn Geneva drive parts, broken dogs, or an overloaded p
 | Carousel motor / gearbox | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-128&k=Carousel+motor+%2F+gearbox&tag=errorcodefixes-20) \| Replace on indexing faults |
 ## When to Call a Pro
 If Alarm 128 returns after sensor cleaning and recovery, check tool changer timing and drawbar force with Haas procedures. A mistimed changer can crash the spindle or damage the arm.
-
-## Related Articles
-
-- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
-- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
-- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
-- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
-
-## See Also
-
-- [Haas Alarm 127 — Tool Unclamped Fault](/posts/haas-alarm-127/)
-- [Haas Alarm 115 Spindle Overload — Causes & Fix](/posts/haas-alarm-115-spindle-overload/)
-- [Haas VF-4 Common Alarms Guide — What They Mean and How to Fix Them](/posts/haas-vf4-common-alarms/)
-- [Haas Alarm 126 — ATC Door Fault](/posts/haas-alarm-126/)

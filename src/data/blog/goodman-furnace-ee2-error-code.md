@@ -13,11 +13,8 @@ money_part: "Communicating thermostat"
 most_likely_cause: "Loose or damaged communication wiring"
 ---
 
-## Goodman Furnace EE2 Error Code — What It Means
-
+## What this code means
 The Goodman **EE2 error code** appears on the communicating thermostat or control board display of newer Goodman furnaces using the ComfortNet or similar communicating control system. EE2 indicates a **communication error** — the furnace control board has lost communication with the system (typically the thermostat or the communicating system bus). Unlike the traditional blink codes, EE-series codes appear on digital displays and indicate a system-level control communication problem rather than a mechanical fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ The Goodman **EE2 error code** appears on the communicating thermostat or contro
 ## When to Call a Pro
 
 If EE2 persists after replacing the thermostat and all wiring tests good, the furnace control board's communication circuit has failed. Board replacement on newer communicating Goodman systems requires verifying firmware compatibility between the new board and the existing thermostat.
-
-## Related Articles
-
-- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
-- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
-- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
-- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
-- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)
-
-## See Also
-
-- [Goodman 9 Flash Error Code — Causes & Fix](/posts/goodman-9-flash-error-code/)
-- [Goodman EE2 Error Code: Control Board Communication Fault Fix](/posts/goodman-ee2-error-code/)
-- [Goodman Furnace EF Error Code — Invalid Flame Signal](/posts/goodman-furnace-ef-error-code/)
-- [Goodman Furnace E1 Error Code — Causes & Fix](/posts/goodman-furnace-e1-error-code/)

@@ -17,15 +17,12 @@ free_checks:
   - "Reseat all connectors on the control module and inspect wiring for corrosion"
 ---
 
-## Weil-McLain A172 Error — What It Means
-
+## What this code means
 A172 does not appear as a standard error code in Weil-McLain manufacturer documentation. Weil-McLain boilers use control-specific fault names and lockout codes that vary by model and control type. The code you see may be a display artifact, a shorthand notation, or a code specific to an aftermarket control. To find the actual fault, locate your boiler model number and consult the service manual or diagnostics menu on the control itself. Most Weil-McLain ignition-related lockouts involve gas flow problems, a dirty or failed flame sensor, a bad ignitor, or wiring issues at the control module.
 
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board when the real problem is a dirty flame sensor or loose connector. Clean the flame sensor and reseat all control module connectors before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a licensed heating technician if you cannot locate your boiler model manual, if the diagnostics menu shows a fault you do not understand, or if the problem involves the gas valve, control board, or any component inside the sealed combustion chamber. Gas work and control module replacement require proper combustion testing and code compliance. A pro will use a combustion analyzer to verify air-fuel ratio, check for carbon monoxide spillage, and test flame signal strength with a microamp meter. If you have already cleaned the flame sensor and confirmed gas supply but the fault persists, a technician can isolate whether the issue is the ignitor, the control, or a wiring fault without guessing.
 
 **Rough cost:** A pro service call runs about $150–350.
-
-## See Also
-
-- [Weil-McLain A36 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a36-error-code/)
-- [Weil-McLain A142 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a142-error-code/)
-- [Weil-McLain A83 Error - Causes & Fix](/posts/weil-mclain-boiler-a83-error-code/)
-- [Weil-McLain A104 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a104-error-code/)

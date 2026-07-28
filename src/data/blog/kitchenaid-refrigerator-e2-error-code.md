@@ -20,8 +20,7 @@ free_checks:
   - "Listen for the evaporator fan when the compressor runs; silence may mean the motor has stalled or the blade is jammed."
 ---
 
-## KitchenAid Refrigerator E2 Error — What It Means
-
+## What this code means
 The E2 error code on KitchenAid refrigerators does not have a single universal meaning across all models. KitchenAid publishes model-specific fault logic, so the exact definition of E2 depends on your unit's technical sheet. In some KitchenAid refrigerator-adjacent products like beverage centers, the manufacturer recommends a simple power reset for E2 without publishing a detailed component-level fault. For main refrigerator models, technician field reports commonly link E2 to evaporator fan motor problems or temperature sensor faults, though KitchenAid's published refrigerator diagnostics more often use F-codes and service-mode checks.
 
 Because the code meaning varies by model, the correct approach is to verify your exact model number, consult the unit's service sheet, and perform a power reset first. If the code returns after a reset, you will need to enter diagnostics or inspect the evaporator compartment for ice buildup, fan obstruction, damaged wiring, or sensor issues per your model's specific fault chart.
@@ -29,8 +28,6 @@ Because the code meaning varies by model, the correct approach is to verify your
 ## Before You Replace Anything
 
 Homeowners often replace the main control board when E2 appears, but the real fault is usually in the evaporator fan motor or temperature sensor. Meter-test the fan circuit and thermistor per the service sheet before buying a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

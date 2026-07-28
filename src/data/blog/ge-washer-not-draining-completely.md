@@ -19,8 +19,6 @@ A GE washer that stops with water still in the drum has not finished its drain c
 
 The control board commands the drain pump to run when it's time to remove water, and it uses the pressure sensor to confirm the tub is empty. If the pump doesn't run, the impeller is jammed, the hose is blocked, or the pressure system is reporting incorrect water level, the washer will stop mid-cycle or finish with water left behind.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Kinked or clogged drain hose** GE lists drain hose restrictions as the first cause to check when a washer won't drain, including kinks, internal clogs, or improper routing that blocks flow.
@@ -53,9 +51,9 @@ The control board commands the drain pump to run when it's time to remove water,
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Ge Washer C2 error code](/posts/ge-washer-c2-error-code/)
+- Ge Washer C2 error code
 - [Ge Washer C5 error code](/posts/ge-washer-c5-error-code/)
-- [Ge Washer E23 error code](/posts/ge-washer-e23-error-code/)
+- Ge Washer E23 error code
 
 ## When to Call a Pro
 

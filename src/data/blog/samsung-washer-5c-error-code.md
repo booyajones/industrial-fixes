@@ -22,8 +22,7 @@ part_price: "$20–45"
 no_buy_pct: "70%"
 ---
 
-## Samsung Washer 5C Error Code — What It Means
-
+## What this code means
 On Samsung washers, the 5C error code signals a drainage fault. The machine detects that water is not draining normally or not draining fast enough, so the control system flags a long-drain condition. In practice, this means water remains in the tub longer than expected, triggering the error.
 
 Samsung documentation also describes 5C as a control-board alert when the sensed water-level feedback is outside the expected range, which is consistent with the washer believing water still sits in the drum even after a drain cycle. The code stops the cycle to prevent overflow or damage.
@@ -31,8 +30,6 @@ Samsung documentation also describes 5C as a control-board alert when the sensed
 ## Before You Replace Anything
 
 Many people replace the drain pump assembly before checking the filter and hose. Clean the pump filter and inspect the drain hose for kinks first-those two steps clear most 5C codes without any new parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

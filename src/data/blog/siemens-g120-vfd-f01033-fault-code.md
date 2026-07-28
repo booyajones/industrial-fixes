@@ -13,11 +13,8 @@ money_part: "Siemens Startdrive commissioning software"
 most_likely_cause: "Reference parameter set to zero"
 ---
 
-## Siemens G120 F01033 — What It Means
-
+## What this code means
 F01033 on a Siemens SINAMICS G120 drive means "Unit switchover: Reference parameter value invalid." The drive has detected that a reference parameter used for unit conversion or scaling is invalid or improperly set. This is a configuration fault, not a hardware overcurrent or thermal fault. The most common trigger is that one of the required reference parameters is set to 0.0, which is not permitted for the conversion calculation. The fault typically appears after commissioning changes, parameter downloads, or when a unit changeover is made without updating all related reference values consistently.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ F01033 on a Siemens SINAMICS G120 drive means "Unit switchover: Reference parame
 ## When to Call a Pro
 
 Call a qualified Siemens drive technician or automation engineer if you do not have access to the original commissioning parameter file, if the fault persists after verifying and correcting all reference values, or if you are unfamiliar with navigating the G120 parameter structure. A professional with Startdrive experience can compare your current parameter set to a known-good baseline and identify hidden inconsistencies in the reference or unit-conversion configuration. Also seek expert help if the drive was part of a larger system integration and you do not have documentation for the scaling or engineering-unit setup.
-
-## See Also
-
-- [Siemens SINAMICS G120 F30002 Fault — DC Link Overvoltage Fix](/posts/siemens-sinamics-f30002-fault/)
-- [Siemens Micromaster F0222 - Causes & Fix](/posts/siemens-micromaster-f0222-fault-code/)
-- [Siemens F01018 - Causes & Fix](/posts/siemens-g120-vfd-f01018-fault-code/)
-- [Siemens G120 A05001 Current Limit - Causes & Fix](/posts/siemens-g120-a05001-fault-code/)

@@ -16,13 +16,10 @@ free_checks:
   - "Verify the boiler model and serial number from the barcode sticker on the jacket"
 ---
 
-## Weil-McLain A14 Error Code — What It Means
-
+## What this code means
 There is no official Weil-McLain boiler error code designated as A14 in the manufacturer's published fault lists. Weil-McLain boilers (Ultra, ECO, CGa, Aqua Balance, Evergreen) use documented codes such as E01 (ignition failure), E03 (high-limit or overheat), E04 (low water cutoff), and E09 (gas valve fault). The code you are seeing may be a misread, a model-specific diagnostic identifier not published as a standard error, or a display issue.
 
 Because A14 is not recognized, the specific cause, sensor values, and safe repair steps cannot be provided. Attempting to guess the fault meaning risks incorrect diagnosis and unsafe work on a gas-fired, pressurized system. You should confirm the exact fault message on the control module display, note your boiler model and serial number, and consult the official service manual or contact Weil-McLain warranty support at 1-800-654-2109, Option 4.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -69,10 +66,3 @@ Answer these to narrow it down fast.
 Call a licensed heating professional immediately if the boiler is locked out and you cannot confirm a recognized error code, if you smell gas or see water leaks, or if the display shows E01, E03, E04, or E09. Gas boilers operate under pressure and involve combustion, high-voltage ignition, and safety interlocks that require specialized training and test equipment. Weil-McLain explicitly requires that gas, sensor, and pressurized-side faults be diagnosed and repaired by a licensed gas fitter under applicable safety codes. Attempting DIY repairs on an unrecognized code risks voiding your warranty, carbon monoxide exposure, and equipment damage.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain Boiler A98 Error - Causes & Fix](/posts/weil-mclain-boiler-a98-error-code/)
-- [Weil-McLain Boiler A64 Error - Causes & Fix](/posts/weil-mclain-boiler-a64-error-code/)
-- [Weil-McLain A58 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a58-error-code/)
-- [Weil-McLain A93 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a93-error-code/)

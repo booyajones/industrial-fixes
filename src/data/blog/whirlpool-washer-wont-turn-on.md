@@ -17,8 +17,6 @@ tags:
 
 When a Whirlpool washer won't turn on, you either have no power reaching the machine at all or the control system is locked out or faulted. If the panel is completely dead, the problem is typically loss of incoming electricity or a failed control board. If the display lights up but the washer won't start a cycle, Whirlpool recommends a 5-minute power reset to clear unspecified fault codes, and you may also see codes like F8 E1 (no water detected) or other F# E# messages that prevent operation. A door or lid that won't lock can also stop the machine from starting even when power is present.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **No incoming power** A tripped circuit breaker, unplugged cord, failed wall outlet, or loose connection at the terminal block is the most common reason for a completely dead washer.

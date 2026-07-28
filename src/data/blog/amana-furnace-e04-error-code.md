@@ -14,13 +14,10 @@ money_part: "High-limit switch"
 most_likely_cause: "Dirty or clogged air filter"
 ---
 
-## Amana Furnace E04 Error Code — What It Means
-
+## What this code means
 On Amana, Goodman, and Daikin furnaces, the E04 error code signals an open limit, rollout, or reverse-airflow safety fault. The furnace has detected an unsafe overheating or airflow-protection condition and has shut down or blocked heating to prevent damage or hazardous operation. The control board is seeing an open safety circuit where it expects that circuit to be closed, which stops the burner from firing.
 
 This code is part of the manufacturer's airflow and overheat protection system. Practically, it means one or more safety switches (high limit, rollout, or reverse airflow) have opened because the furnace is too hot, airflow is too low, or combustion gases are spilling out. The exact code definition can vary slightly by model family, so always check your unit's service literature to confirm the code chart for your specific furnace.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,11 +13,8 @@ money_part: "DHW thermistor/sensor"
 most_likely_cause: "Failed DHW thermistor"
 ---
 
-## Weil-McLain Boiler Error Code E08 — What It Means
-
+## What this code means
 The Weil-McLain **E08 error code** indicates a **domestic hot water (DHW) sensor fault** — the boiler's DHW temperature sensor (thermistor) is reading outside the valid operating range. On Weil-McLain combi-boilers and systems with an indirect water heater, the DHW sensor monitors the storage tank or heat exchanger temperature. E08 fires when the sensor reads an implausibly high or low temperature, indicating the sensor has failed open (infinite resistance) or shorted (near-zero resistance). The DHW circuit is disabled while the heating (space heating) circuit may continue to function.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -43,18 +40,3 @@ The Weil-McLain **E08 error code** indicates a **domestic hot water (DHW) sensor
 ## When to Call a Pro
 
 If E08 persists after replacing the DHW sensor and confirming all connections are clean, the control board's sensor input circuit may have failed. Control board replacement on Weil-McLain boilers involves gas system verification — a licensed HVAC or boiler technician should perform this work.
-
-## Related Articles
-
-- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
-- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
-- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)
-
-## See Also
-
-- [Weil-McLain E04 Error Code — Causes & Fix](/posts/weil-mclain-e04-error-code/)
-- [Weil-McLain Boiler Error Code E02 — Ignition Failure Fix](/posts/weil-mclain-e02-ignition-failure/)
-- [Weil-McLain E06 Error Code — Ignition Lockout](/posts/weil-mclain-e06-error-code/)
-- [Weil-McLain E02 Error Code — Causes & Fix](/posts/weil-mclain-e02-error-code/)

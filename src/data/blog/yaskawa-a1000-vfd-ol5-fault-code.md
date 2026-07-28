@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 oL5 Fault — What It Means
-
+## What this code means
 The oL5 fault on a Yaskawa A1000 VFD is identified as Mechanical Weakening Detection 1. It trips when the drive detects an overtorque condition that matches the threshold and timing defined in parameter L6-08. In plain terms, the motor or load exceeded the configured torque-monitoring limit long enough to activate the protection logic.
 
 This fault is primarily a mechanical or process signal, not a drive component failure. The VFD is telling you that something in the driven machine increased torque demand beyond the normal operating envelope set in the drive's configuration.
@@ -24,8 +23,6 @@ This fault is primarily a mechanical or process signal, not a drive component fa
 ## Before You Replace Anything
 
 Technicians sometimes replace the VFD itself without inspecting the mechanical load. Always inspect the motor, coupling, gearbox, bearings, and driven machine for binding or damage before assuming a drive electronics problem.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or automation technician if you are not trained to work with VFD parameters, motor circuits, or mechanical drive systems. Adjusting L6-08 incorrectly can disable important protection or cause repeated nuisance faults. Mechanical inspection of gearboxes, bearings, and couplings often requires lockout/tagout, alignment tools, and experience with rotating equipment. If the fault persists after basic mechanical checks and you lack the tools or training to measure torque, inspect internal drive components, or tune advanced motor-control parameters, professional diagnostics are the safest and most cost-effective path.
 
 **Rough cost:** A pro service call runs about $200-800.
-
-## See Also
-
-- [Yaskawa GA800 A.117 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-117-fault-code/)
-- [Yaskawa GA800 E82 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e82-fault-code/)
-- [Yaskawa GA800 E27 Fault - Causes & Fix](/posts/yaskawa-ga800-e27-fault-code/)
-- [Yaskawa GA800 E19 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e19-fault-code/)

@@ -13,11 +13,8 @@ money_part: "Motor output cable"
 most_likely_cause: "Too-fast acceleration ramp"
 ---
 
-## Schneider Altivar 212 Fault OCF — What It Means
-
+## What this code means
 OCF (Overcurrent) on a Schneider Altivar 212 drive means the output current has exceeded the drive's instantaneous overcurrent trip threshold — typically 200–225% of the drive's rated current. The Altivar 212 is Schneider's HVAC-specific variable frequency drive, designed for fans, pumps, and air-handling units. OCF is a hard fault; the drive trips the output immediately to prevent damage to the IGBT power modules. Unlike a motor overload fault which integrates over time, OCF fires the instant current peaks above the limit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,11 +43,3 @@ OCF (Overcurrent) on a Schneider Altivar 212 drive means the output current has 
 ## When to Call a Pro
 
 If the Altivar 212 trips OCF with no motor connected, the drive's power electronics have failed. Drive-level repair requires component-level electronics expertise or a factory exchange unit. Call a Schneider Electric-authorized service center.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

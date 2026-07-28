@@ -16,8 +16,7 @@ most_likely_cause: "Misread fault code"
 part_price: "$15-50"
 ---
 
-## Maytag Dryer F9E2 Error Code — What It Means
-
+## What this code means
 The F9E2 code does not appear in Maytag's dryer fault code documentation. Maytag dryers use F3E2 for a moisture sensor issue, which appears after five consecutive loads dry without the sensor registering moisture. If you saw F9E2 on your dryer display, double-check the code on the screen. You may have misread F3E2, or your model uses a non-standard code path. On Maytag dishwashers, F9E2 indicates a drain fault, but that meaning does not transfer to dryers.
 
 If the code is actually F3E2, it means the moisture sensor bars inside the drum are not detecting wet laundry. Common triggers include very small loads or a single item that never touches the sensors, a dryer that is not level, or a failed sensor connection. Maytag recommends clearing the code by pressing Power, then turning the circuit breaker off for five minutes if the code persists, and running a Timed Dry cycle to check if the fault returns.
@@ -25,8 +24,6 @@ If the code is actually F3E2, it means the moisture sensor bars inside the drum 
 ## Before You Replace Anything
 
 Homeowners often replace the main control board when the fault is actually a loose or corroded connector at the moisture sensor bars inside the drum. Clean the sensor bars with a Scotch-Brite pad and check the connector first.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

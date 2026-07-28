@@ -13,13 +13,10 @@ money_part: "Input line fuses"
 most_likely_cause: "Missing or unbalanced input phase"
 ---
 
-## Yaskawa GA800 E25 Fault — What It Means
-
+## What this code means
 E25 on the Yaskawa GA800 is a main circuit or power supply establishment error. The drive does not recognize that the DC bus or main circuit power has come up correctly, so it trips to protect itself. This fault means the inverter detected an abnormality during power-up or the internal main circuit failed to establish the correct operating condition.
 
 The drive will not run until the root cause is found and corrected. This is not a nuisance trip. It points to either an input power problem or an internal failure in the power section of the drive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ The drive will not run until the root cause is found and corrected. This is not 
 ## When to Call a Pro
 
 Call Yaskawa technical support or an authorized drive service center if the fault persists after you have confirmed good input power, tight wiring, and no external disturbances. E25 that returns after basic checks indicates an internal main circuit component failure. Yaskawa's maintenance documentation limits field repair to fans and control boards. Power-section faults require factory-level diagnostics and component replacement. Do not guess at internal parts or attempt circuit-board work without manufacturer authorization.
-
-## See Also
-
-- [Yaskawa A1000 Complete Guide - Fault Codes, Parameters, and Commissioning](/posts/yaskawa-a1000-complete-guide/)
-- [Yaskawa VFD Fault CF — Causes & Fix](/posts/yaskawa-vfd-fault-cf/)
-- [Yaskawa GA800 E22 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e22-fault-code/)
-- [Yaskawa GA800 E28 Fault - Serial Watchdog Timeout Fix](/posts/yaskawa-ga800-e28-fault-code/)

@@ -17,8 +17,7 @@ money_part: "Samsung washer inlet hose set"
 part_price: "$10-40"
 ---
 
-## Samsung Washer LC Error Code — What It Means
-
+## What this code means
 The LC code on a Samsung washer signals that the machine has detected water or moisture in a leak-detection zone, typically the base pan or cabinet floor where sensors monitor for overflow or seepage. This is not a water-level sensor fault. The alarm means the washer believes water is present somewhere it should not be, and it will stop the cycle to prevent flooding or damage.
 
 The detection can be triggered by an actual leak from hoses, pump seals, the tub, or the door boot on front-load models. It can also be a false alarm caused by condensation, detergent residue, soap suds, lint, or high humidity around the machine. The code will persist until the moisture is gone and the underlying cause is fixed.
@@ -26,8 +25,6 @@ The detection can be triggered by an actual leak from hoses, pump seals, the tub
 ## Before You Replace Anything
 
 Many people replace the main control board when the LC code appears, but the real fix is almost always drying the base pan and finding the actual leak source or cleaning moisture off the leak sensor. Check for visible water and hose leaks first before ordering any electronic part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -19,8 +19,6 @@ LG frames this as a symptom, not a fault code. The refrigerator is not making ic
 
 You will not see a specific error code on the display. Instead, you notice an empty ice bin or no ice production over a day or two. The fix starts with basic checks and moves to testing the ice maker assembly and water delivery system.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Ice maker switched off** The local on/off button, physical switch, or control panel setting is in the off position.
@@ -54,26 +52,19 @@ You will not see a specific error code on the display. Instead, you notice an em
 
 Seeing a code on the display? These match this problem:
 
-- [Lg Refrigerator C1 error code](/posts/lg-refrigerator-c1-error-code/)
-- [Lg Refrigerator Cf error code](/posts/lg-refrigerator-cf-error-code/)
-- [Lg Refrigerator Co error code](/posts/lg-refrigerator-co-error-code/)
-- [Lg Refrigerator Dh error code](/posts/lg-refrigerator-dh-error-code/)
-- [Lg Refrigerator Ds error code](/posts/lg-refrigerator-ds-error-code/)
-- [Lg Refrigerator Eid error code](/posts/lg-refrigerator-eid-error-code/)
-- [Lg Refrigerator Eiu error code](/posts/lg-refrigerator-eiu-error-code/)
-- [Lg Refrigerator Ff error code](/posts/lg-refrigerator-ff-error-code/)
-- [Lg Refrigerator Fs error code](/posts/lg-refrigerator-fs-error-code/)
-- [Lg Refrigerator Gf error code](/posts/lg-refrigerator-gf-error-code/)
-- [Lg Refrigerator If error code](/posts/lg-refrigerator-if-error-code/)
-- [Lg Refrigerator Is error code](/posts/lg-refrigerator-is-error-code/)
+- Lg Refrigerator C1 error code
+- Lg Refrigerator Cf error code
+- Lg Refrigerator Co error code
+- Lg Refrigerator Dh error code
+- Lg Refrigerator Ds error code
+- Lg Refrigerator Eid error code
+- Lg Refrigerator Eiu error code
+- Lg Refrigerator Ff error code
+- Lg Refrigerator Fs error code
+- Lg Refrigerator Gf error code
+- Lg Refrigerator If error code
+- Lg Refrigerator Is error code
 
 ## When to Call a Pro
 
 Call a technician if the freezer temperature is correct, water flows to the dispenser, and the ice maker still does not run a test cycle. Also call if you are not comfortable testing the inlet valve electrically, disassembling the ice room, or diagnosing a broader sealed-system cooling problem. If the door switch or control board is suspect, a pro with a schematic and multimeter will save time.
-
-## See Also
-
-- [LG Range F4 Error Code - Causes & Fix](/posts/lg-range-f4-error-code/)
-- [LG Washer Error LE — Motor Lock / Stator Fix](/posts/lg-washer-error-le/)
-- [LG Washer Door Boot Seal Replacement - Signs & How-To](/posts/lg-washer-door-boot-seal-bellow-gasket-front-load-replacement/)
-- [LG Dryer Won't Tumble - Causes & Fix](/posts/lg-dryer-wont-tumble/)

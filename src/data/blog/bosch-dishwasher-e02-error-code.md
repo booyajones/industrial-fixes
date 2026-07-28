@@ -17,15 +17,12 @@ money_part: "Main control board / power module"
 part_price: "$50-150"
 ---
 
-## Bosch Dishwasher E02 Error — What It Means
-
+## What this code means
 The E02 error code on a Bosch dishwasher is not consistently defined the same way across all Bosch sources and repair references. Most often it signals a failure in the heating circuit, meaning the dishwasher is not heating water correctly or the heating circuit is not being driven properly. The root cause may be the heating element itself, the temperature sensor (thermistor), wiring or connectors in the heater circuit, or a failed relay on the main control board that feeds the heater. Because the exact definition varies by model, consult your dishwasher's technical sheet or service literature for precise diagnostic values and specifications.
 
 ## Before You Replace Anything
 
 Many people replace the main control board first, assuming it is the relay, when the real problem is a burned-out heating element or loose connector. Always test the heater and thermistor resistance and inspect all wiring before swapping the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

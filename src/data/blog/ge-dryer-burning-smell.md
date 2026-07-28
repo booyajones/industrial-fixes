@@ -19,8 +19,6 @@ A burning smell from your GE dryer is a symptom, not a fault code. The odor is y
 
 The smell itself tells you where to look. Lint or dust near the heater usually smells like burnt paper. A slipping or worn belt smells like hot rubber. Electrical failures smell acrid or like burning plastic. Always unplug the dryer immediately if you see smoke, scorch marks, or if the smell does not go away after the first few minutes of a cycle.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Lint or debris buildup near the heating element or blower housing** Lint accumulates over time around the heater, in the blower housing, or in the drum seals and ignites or smolders when the dryer runs, producing a burnt dust or paper smell.

@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "Input line fuses (Class J or T, matching drive rating)"
 ---
 
-## Yaskawa GA800 E45 Fault — What It Means
-
+## What this code means
 The E45 fault on a Yaskawa GA800 variable frequency drive indicates input phase loss or input power loss. The drive has detected a missing phase, severe voltage imbalance, or unstable incoming supply on the main AC power input. This is a protective trip that prevents the drive from operating on damaged or incomplete power, which would cause internal component failure or unsafe motor operation.
 
 The fault can also appear when input power voltage is changing too much, pointing to line-side instability or fluctuation. Before suspecting internal drive failure, verify that all three incoming phases are present, balanced, and stable at the drive input terminals.
@@ -24,8 +23,6 @@ The fault can also appear when input power voltage is changing too much, pointin
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire VFD when E45 appears, assuming internal failure. Always measure incoming voltage at the drive input terminals first. A missing phase or loose wire is far more common than a failed drive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or industrial controls technician immediately if you are not trained and authorized to work on three-phase power systems. High-voltage AC power is lethal. A professional should perform lockout/tagout, voltage measurements, terminal inspection, and fuse replacement. If the fault persists after all line-side issues are corrected and incoming power is verified as stable and balanced, contact Yaskawa technical support or an authorized drive repair center. The GA800 offers limited field repair beyond fan and control board replacement, so internal faults typically require factory service or module exchange.
 
 **Rough cost:** A pro service call runs about $150–400 depending on whether the fix is a fuse, breaker, or wiring repair.
-
-## See Also
-
-- [Yaskawa GA800 E31 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e31-fault-code/)
-- [Yaskawa GA800 F044 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f044-fault-code/)
-- [Yaskawa GA800 E27 Fault - Causes & Fix](/posts/yaskawa-ga800-e27-fault-code/)
-- [Yaskawa GA800 E26 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e26-fault-code/)

@@ -13,13 +13,10 @@ money_part: "Condensate neutralizer cartridge"
 most_likely_cause: "Blocked condensate drain line"
 ---
 
-## State Water Heater E29 Error Code — What It Means
-
+## What this code means
 The E29 error code on State condensing tankless water heaters indicates a problem draining condensate from the unit's neutralizer and drain system. This code appears only on high-efficiency condensing models, not across all State product lines. The heater has detected a restriction, improper drain configuration, or neutralizer-related issue that is preventing normal condensate flow and could cause backup inside the unit.
 
 The code is part of the fault family used on A. O. Smith and State-branded condensing tankless units. It specifically signals that condensate is not draining normally through the neutralizer and drain path. The unit will not operate properly until the drainage issue is resolved and condensate can flow freely to the termination point.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

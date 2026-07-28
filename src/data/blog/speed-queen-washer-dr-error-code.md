@@ -14,13 +14,10 @@ money_part: "Speed Queen drain pump"
 most_likely_cause: "Clogged drain filter or foreign-object trap"
 ---
 
-## Speed Queen Washer DR Error Code — What It Means
-
+## What this code means
 The DR code (sometimes shown as Er, dr on stacked units) signals a drain fault. Your Speed Queen washer has detected that water is still in the tub because the machine cannot complete draining within the expected time window. The control has stopped the cycle to prevent overflow or damage.
 
 This is a mechanical and plumbing issue, not a sensor glitch. Water physically remains in the drum, and the drain pump either cannot move it or the drain path is blocked somewhere between the pump outlet and your home's standpipe.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

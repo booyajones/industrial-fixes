@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## KitchenAid Oven F6 E2 — What It Means
-
+## What this code means
 The F6 E2 fault code on a KitchenAid wall oven indicates a problem with the Appliance Manager Control, the Converter Control, or the wiring and connectors that link them. This is a communication or electronics fault within the control system. KitchenAid's first recommended step is to reset power at the breaker for one minute and then monitor whether the code reappears.
 
 If the code returns after the reset, the fault is persistent and points to a failed control board or a wiring issue between the two boards. The repair typically involves inspecting all harness connections for damage or looseness, then replacing one or both of the control boards if the wiring is sound.
@@ -25,8 +24,6 @@ If the code returns after the reset, the fault is persistent and points to a fai
 ## Before You Replace Anything
 
 Homeowners sometimes replace both boards without first checking the wiring harness and connectors between them. Inspect and reseat all connectors before ordering parts, because a loose or corroded plug can produce the same code.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

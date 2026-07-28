@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Electrolux Dryer H4 / B4 Error Code — What It Means
-
+## What this code means
 The H4 or B4 error code on an Electrolux dryer indicates a power supply or wiring installation fault. This code is not related to heating or airflow problems. It means the control board has detected incorrect wiring at the terminal block, an out-of-range voltage condition at the outlet, or a fault in the internal wiring harness between the power input and the electronics. A closely related code, EH4, specifically flags voltage that is too low or too high as measured by the control board.
 
 The code typically appears after a new installation, after a power surge, or when household voltage drifts outside the dryer's accepted range. It can also surface if the power cord is miswired at the terminal block, if a conductor is loose or crossed, or if the main control board's power-sensing circuitry has failed. Always verify the supply voltage at the receptacle before suspecting internal components.
@@ -25,8 +24,6 @@ The code typically appears after a new installation, after a power surge, or whe
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first without verifying the supply voltage or inspecting the terminal block. Measure the outlet voltage with a multimeter and compare it to the dryer's rating plate before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

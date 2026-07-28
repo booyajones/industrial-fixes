@@ -17,8 +17,7 @@ money_part: "Oven control board"
 part_price: "$150-300"
 ---
 
-## KitchenAid Range F1 Error Code — What It Means
-
+## What this code means
 The F1 error code on a KitchenAid range indicates a control or communication fault. Depending on your specific model, the display may show F1, F1-E1, or F1-E2. KitchenAid documentation identifies F1 E2 as a possible problem with the oven control or associated wiring. The broader F1 family can also point to the oven temperature sensor, the control board itself, or the wiring connecting these components. The exact meaning varies by model, so check your owner's manual or wiring diagram for the precise definition on your range.
 
 This code typically appears after a transient communication failure, liquid intrusion near the control area, or a defective control board. Because the fault often involves internal control circuits rather than a field-replaceable sensor alone, KitchenAid recommends a power reset as the first diagnostic step. If the reset clears the fault and the oven operates normally, no further repair is needed. If the code returns immediately or during use, the control board or its wiring harness is the most likely culprit.
@@ -26,8 +25,6 @@ This code typically appears after a transient communication failure, liquid intr
 ## Before You Replace Anything
 
 Homeowners sometimes replace the oven temperature sensor first, but F1 is usually a control-board fault. Perform a full power reset and inspect all connectors at the control before ordering any part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

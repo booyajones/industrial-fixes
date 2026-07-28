@@ -13,11 +13,8 @@ money_part: "Danfoss FC302 ribbon cable (power card to gate-drive card)"
 most_likely_cause: "Bad or loose ribbon cable between power card and gate-drive card"
 ---
 
-## Danfoss FC302 VFD ALARM 39 — What It Means
-
+## What this code means
 ALARM 39 on a Danfoss VLT AutomationDrive FC 302 means "Heat sink sensor" and reports "No feedback from the heat sink temperature sensor." Specifically, the IGBT thermal sensor signal is not available on the power card. This is a hardware feedback fault, not a programming issue. Danfoss identifies the problem as originating in the power card, the gate-drive card, or the ribbon cable connecting the two. The drive cannot safely operate without valid IGBT temperature data, so it shuts down to protect the power semiconductors from thermal damage.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,10 +44,3 @@ ALARM 39 on a Danfoss VLT AutomationDrive FC 302 means "Heat sink sensor" and re
 ## When to Call a Pro
 
 Call a qualified VFD technician or industrial controls specialist if you are not trained to work inside live or recently live high-voltage equipment, if you cannot safely lock out the supply, or if you lack the tools and documentation to identify the power card and gate-drive card in your specific frame size. ALARM 39 is a hardware fault in the drive's internal electronics, and replacing the wrong module can be expensive. A professional can use Danfoss diagnostic software and a multimeter to isolate the failed section quickly and will have access to the exact replacement parts for your model and frame size.
-
-## See Also
-
-- [Danfoss FC302 VFD Alarm 16 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-16-fault-code/)
-- [Danfoss FC302 VFD ALARM 18 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-18-fault-code/)
-- [Danfoss VFD Fault OL — Causes & Fix](/posts/danfoss-vfd-fault-ol/)
-- [Danfoss FC302 Alarm AL 29 — Causes & Fix](/posts/danfoss-fc302-fault-al-29/)

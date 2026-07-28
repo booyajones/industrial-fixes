@@ -13,13 +13,10 @@ money_part: "Communicating adapter board / indoor interface PCB"
 most_likely_cause: "Loose or poorly seated wiring connections"
 ---
 
-## Carrier Error Code 16 — What It Means
-
+## What this code means
 Error code 16 on Carrier systems is a communication malfunction between the indoor adapter or user interface board and the outdoor main control board. The system cannot see valid data exchange across the control wiring or through one of the control boards, so the indoor unit cannot detect the outdoor unit properly.
 
 This fault appears on Carrier communicating platforms including Infinity and related Bryant and Payne models. It does not indicate a refrigerant or airflow problem. The breakdown is in the low-voltage control signaling path between the two boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ This fault appears on Carrier communicating platforms including Infinity and rel
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with low-voltage control wiring, if you do not own a multimeter or Carrier service tool to test communication signals, or if replacing the indoor adapter board does not resolve code 16. Communicating Carrier systems require correct board pairing and sometimes software configuration that only a trained technician with manufacturer access can perform. If your unit is under warranty, professional diagnosis and documentation are usually required to avoid voiding coverage on expensive control boards.
-
-## See Also
-
-- [Carrier 41 Error Code — Blower Motor Fault Fix](/posts/carrier-41-error-code/)
-- [Carrier 24ACC6 Heat Pump Error Codes: Complete Diagnostic Guide](/posts/carrier-24acc6-heat-pump-error-codes/)
-- [Carrier 30XA Commercial Chiller Fault Codes — Common Faults and Fixes](/posts/carrier-commercial-chiller-fault/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)

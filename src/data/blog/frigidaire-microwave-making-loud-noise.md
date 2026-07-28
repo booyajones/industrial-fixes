@@ -19,8 +19,6 @@ A loud noise in a Frigidaire microwave is a symptom of mechanical failure, compo
 
 The specific cause depends on the type of noise. Grinding typically points to worn bearings or obstructions in moving parts. Deep buzzing or humming indicates high-voltage component failure, often the magnetron. Squealing usually comes from a dirty or misaligned turntable system. Popping or cracking sounds suggest diode or capacitor failure.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Cooling fan motor with worn bearings or obstruction** The fan motor that cools the magnetron develops worn bearings or collects debris on the blades, causing grinding or rattling during operation.

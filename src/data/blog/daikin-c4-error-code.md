@@ -13,11 +13,8 @@ money_part: "Indoor coil thermistor"
 most_likely_cause: "Failed indoor coil thermistor"
 ---
 
-## Daikin C4 Error Code — What It Means
-
+## What this code means
 Daikin error code **C4** indicates an **indoor heat exchanger coil sensor fault**. The thermistor clipped to the indoor coil is reading out of range, open, or shorted. Daikin uses this sensor to monitor coil temperature for freeze protection, defrost termination logic, and capacity control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,24 +42,3 @@ Daikin error code **C4** indicates an **indoor heat exchanger coil sensor fault*
 | Indoor PCB | [Amazon](https://www.amazon.com/s?k=Indoor+PCB&tag=errorcodefixes-20) \| Only if thermistor and wiring test good |
 ## When to Call a Pro
 If the sensor tests correctly but C4 returns, the indoor control board likely has a bad thermistor input circuit. A technician can confirm before you order a PCB.
-
-## Related Articles
-
-- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
-- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
-- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
-- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)
-- [Daikin E3 Error Code — Causes & Fix](/posts/daikin-e3-error-code/)
-
-<!-- INTERNAL-LINK-AUTO -->
-**Related:** [Rheem EcoNet A101 error code fix](/posts/rheem-econet-a101-error-code/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Daikin U4 indoor-outdoor comm fault](/posts/daikin-error-code-u4/)
-
-## See Also
-
-- [Daikin L5 Error Code — Compressor Lock Fault](/posts/daikin-l5-error-code/)
-- [Daikin VRV E7 Error Code — Causes & Fix](/posts/daikin-vrv-e7-error-code/)
-- [Daikin U2 Error Code — Causes & Fix](/posts/daikin-u2-error-code/)
-- [Daikin Fit Error Codes — Inverter Heat Pump Diagnostic Guide](/posts/daikin-fit-error-codes/)

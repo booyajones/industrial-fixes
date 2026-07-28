@@ -13,13 +13,10 @@ money_part: "Shielded VFD-rated motor cable"
 most_likely_cause: "Damaged motor cable insulation"
 ---
 
-## Danfoss FC302 Alarm 14 — What It Means
-
+## What this code means
 Alarm 14 on the Danfoss VLT FC302 is an earth (ground) fault. The drive compares current leaving the inverter with current returning from the motor. If the difference is too large, it trips to protect the system. Danfoss service documentation describes this as a short to ground in the motor or motor wiring.
 
 The fault indicates current leakage from an output phase to ground, either in the motor cable insulation or in the motor windings themselves. This is an output-side electrical insulation problem, not a drive input or supply issue.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ The fault indicates current leakage from an output phase to ground, either in th
 ## When to Call a Pro
 
 Call a qualified technician if you are not trained in high-voltage isolation testing or VFD diagnostics. Megger testing requires skill to avoid further damage to the motor or drive. If the fault persists after disconnecting the motor and all output wiring, the drive has an internal problem that requires factory-trained service or component-level repair. If the motor winding insulation is defective, a motor shop should evaluate whether rewinding is cost-effective or if replacement is required.
-
-## See Also
-
-- [Danfoss RX Controller Fault Codes — Troubleshooting Guide](/posts/danfoss-rx-controller-fault/)
-- [Danfoss FC302 Alarm AL 29 — Causes & Fix](/posts/danfoss-fc302-fault-al-29/)
-- [Danfoss VFD Fault UL — Causes & Fix](/posts/danfoss-vfd-fault-ul/)
-- [Danfoss FC-302 Alarm 12 — Overcurrent Fix](/posts/danfoss-fc302-alarm-12/)

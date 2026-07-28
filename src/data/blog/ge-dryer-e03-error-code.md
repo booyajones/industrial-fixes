@@ -17,8 +17,7 @@ money_part: "GE dryer outlet thermistor"
 part_price: "$15-40"
 ---
 
-## GE Dryer E03 Error Code — What It Means
-
+## What this code means
 E03 is a thermistor-related temperature sensing fault on GE dryers. The control board is receiving an invalid temperature signal from the outlet thermistor, which monitors exhaust temperature. When the thermistor signal falls out of range or the circuit opens or shorts, the dryer cannot manage heat properly and throws E03. The code points to a problem in the thermistor itself, its wiring harness, or the control board input circuit.
 
 This is not a mechanical blockage or airflow code. (Bosch uses E03 for a blocked condensation drain hose, but that does not apply to GE dryers.) GE service diagnostics for E03 direct technicians to test the outlet thermistor in service mode and inspect the thermistor circuit for opens, shorts, and connector faults.
@@ -26,8 +25,6 @@ This is not a mechanical blockage or airflow code. (Bosch uses E03 for a blocked
 ## Before You Replace Anything
 
 Some owners replace the main control board first. Test the thermistor resistance and inspect connectors before spending money on a control, because a faulty thermistor or corroded connector is much cheaper and accounts for most E03 faults.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

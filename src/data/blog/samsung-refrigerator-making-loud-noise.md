@@ -19,8 +19,6 @@ Samsung refrigerators produce several normal sounds during operation, including 
 
 A loud noise becomes abnormal when it points to ice buildup around the evaporator fan, which causes rubbing or grinding, or when installation factors like an unlevel unit or loose hardware create vibration. Samsung distinguishes between normal operational noise and fan interference by tracking whether the sound changes when you open a door or occurs only during specific cooling phases.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Ice buildup around the evaporator fan** Frost accumulation on the fan blades or housing creates rubbing, grinding, or humming noises and requires manual defrost plus inspection of the defrost system if it returns.

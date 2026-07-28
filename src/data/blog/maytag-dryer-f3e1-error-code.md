@@ -17,8 +17,7 @@ money_part: "Exhaust thermistor"
 part_price: "$15-40"
 ---
 
-## Maytag Dryer F3E1 Error Code — What It Means
-
+## What this code means
 F3E1 on a Maytag dryer indicates an exhaust thermistor fault. The thermistor is a temperature sensor that monitors the exhaust air temperature during the drying cycle. When the control board detects a signal out of range or no signal at all from this sensor, it stops the cycle and displays F3E1. The dryer may stop heating, shut off mid-cycle, or refuse to start until the fault is cleared.
 
 Maytag's own product help recommends performing a power reset and retesting before replacing parts. If the code returns after the reset, the thermistor itself, its wiring, or the control board is usually at fault. Restricted venting can also create abnormal temperature behavior that triggers the code.
@@ -26,8 +25,6 @@ Maytag's own product help recommends performing a power reset and retesting befo
 ## Before You Replace Anything
 
 Many people replace the electronic control board first when the real problem is a $15 thermistor or a corroded wire connector. Always test the thermistor resistance with a multimeter and inspect the harness before ordering a control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

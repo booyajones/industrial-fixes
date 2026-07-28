@@ -21,8 +21,7 @@ free_checks:
 part_price: "$30-80"
 ---
 
-## Maytag Washer F26 Error Code — What It Means
-
+## What this code means
 On Maytag top-load washers, F26 is a door switch error or lid switch fault. The control board is not receiving the expected signal from the lid-switch circuit, so it cannot verify that the lid is properly closed and latched. The machine will not run a cycle until this fault is resolved.
 
 This code is specific to Maytag top-load platforms. It tells you the switch circuit is reporting an unexpected state, either because the lid is not mechanically latched, the switch itself has failed, or there is a wiring problem in that circuit.
@@ -30,8 +29,6 @@ This code is specific to Maytag top-load platforms. It tells you the switch circ
 ## Before You Replace Anything
 
 Some people replace the control board thinking it is reading the switch incorrectly. Test the lid switch for proper actuation and inspect the wiring harness first before assuming a board fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -22,8 +22,7 @@ part_price: "$80-150"
 no_buy_pct: "60%"
 ---
 
-## LG Refrigerator EIU Error Code — What It Means
-
+## What this code means
 The EIU code on an LG refrigerator indicates a freezer compartment ice maker assembly failure. LG classifies this as an inspection code rather than a simple user alarm. The code appears on the display when you press and hold ICE PLUS and FREEZER for 2 seconds. According to LG Support, the code signals that the ice maker assembly is not operating correctly, usually because of a hardware defect in the ice maker itself or because ice and frost buildup is interfering with its operation.
 
 LG does not publish a detailed field repair procedure for EIU. Instead, the manufacturer directs technicians to attempt a basic power reset and defrost cycle. If the code returns after these steps, LG recommends sending the unit to authorized service for inspection. The lack of published component-level diagnostics means most homeowners will need professional help if the reset and defrost do not clear the fault.
@@ -31,8 +30,6 @@ LG does not publish a detailed field repair procedure for EIU. Instead, the manu
 ## Before You Replace Anything
 
 Some technicians replace the entire ice maker assembly without first performing a full defrost cycle. LG explicitly recommends leaving the doors open for at least 8 hours to clear ice buildup before concluding the assembly has failed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -80,10 +77,3 @@ Answer these to narrow it down fast.
 Call a professional if the EIU code returns after you have completed a full power reset, an 8-hour defrost with doors open, and verified adequate water pressure. LG treats EIU as an inspection code and does not publish detailed component-level diagnostics for homeowners. A qualified technician will have access to LG service manuals, can test the ice maker assembly with specialized tools, and can order the correct OEM replacement part for your specific model. Professional help is also recommended if you are uncomfortable working with electrical connectors inside the freezer compartment or if your refrigerator is still under warranty, since DIY repairs may void coverage.
 
 **Rough cost:** DIY runs about $80-180 for ice maker assembly if replacement needed, 45-90 min. A pro service call runs about $150-300 for service call and diagnosis.
-
-## See Also
-
-- [LG Mini Split CH47 Error - Causes & Fix](/posts/lg-mini-split-ch47-error-code/)
-- [LG Refrigerator FF Error Code - Causes & Fix](/posts/lg-refrigerator-ff-error-code/)
-- [LG Washer Won't Spin - Causes & Fix](/posts/lg-washer-wont-spin/)
-- [LG Dishwasher Not Dispensing Detergent - Causes & Fix](/posts/lg-dishwasher-not-dispensing-detergent/)

@@ -13,11 +13,8 @@ money_part: "High-limit switch"
 most_likely_cause: "Restricted airflow from a dirty filter"
 ---
 
-## Tempstar Furnace E4 Error Code — What It Means
-
+## What this code means
 E4 on a Tempstar furnace signals an open limit circuit — the high-limit switch or rollout switch has tripped due to excessive heat. Tempstar is an ICP brand (same parent as Heil, Comfortmaker, and Carrier) and the control board logic is shared across these families. When the limit circuit opens, the board shuts off the gas valve immediately and flashes E4. The blower typically keeps running to cool the heat exchanger. Repeated E4 faults point to an airflow problem or a failing heat exchanger.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,11 +42,3 @@ E4 on a Tempstar furnace signals an open limit circuit — the high-limit switch
 ## When to Call a Pro
 
 If the rollout switch trips repeatedly after resetting, have a technician check for a cracked heat exchanger before using the furnace — cracked exchangers are a carbon monoxide hazard and require heat exchanger or furnace replacement.
-
-## Related Articles
-
-- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
-- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
-- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

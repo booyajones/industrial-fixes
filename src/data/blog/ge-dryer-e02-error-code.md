@@ -17,8 +17,7 @@ money_part: "GE dryer outlet thermistor"
 part_price: "$15-40"
 ---
 
-## GE Dryer E02 Error Code — What It Means
-
+## What this code means
 The E02 (or E2) error code on a GE dryer signals that the control board has detected a problem with the outlet thermistor temperature sensor. The thermistor monitors exhaust air temperature as it leaves the drum, and the code appears when the sensor reports an invalid reading or the control sees an open or short circuit in the sensor wiring.
 
 This code is specific to GE dryers. Do not confuse it with the E2 drain timeout code on GE washers, which is an entirely different system. The dryer outlet thermistor is a small temperature-sensing resistor mounted near the blower housing or exhaust duct, and when it fails or loses its electrical connection the dryer will display E02 and stop heating or running.
@@ -26,8 +25,6 @@ This code is specific to GE dryers. Do not confuse it with the E2 drain timeout 
 ## Before You Replace Anything
 
 Some owners replace the main control board first, assuming electronics have failed. Before ordering a board, disconnect power and inspect the thermistor connector and harness for loose pins, corrosion, or breaks, which are far more common than board failure.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

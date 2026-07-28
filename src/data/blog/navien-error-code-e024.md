@@ -85,21 +85,3 @@ Navien units shut down on E024 when the heat exchanger temperature exceeds the t
 | Inlet filter screen | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e024&k=Inlet+filter+screen&tag=errorcodefixes-20) \| Stainless mesh — clean every 6 months in hard water areas |
 | Descaling kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e024&k=Descaling+kit&tag=errorcodefixes-20) \| Pump + hoses + solution — available from Navien or plumbing supply |
 > **Warning:** E024 is a safety shutdown. Never bypass or disable the thermal fuse. If E024 occurs repeatedly after descaling, the heat exchanger may be permanently damaged and require replacement.
-
-## Related Articles
-
-- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
-- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)
-- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
-- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
-- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)
-
-<!-- INTERNAL-LINK-AUTO -->
-**Related:** [Rheem Performance Platinum PDN tankless error codes](/posts/rheem-performance-platinum-pdn-error-codes/)
-
-## See Also
-
-- [Navien NPE-240S Tankless Water Heater Error Codes - Full Fault Guide](/posts/navien-npe-240s-error-codes/)
-- [Navien Error Code E010 — Causes & Fix](/posts/navien-error-code-e010/)
-- [Navien E030 Error Code — Causes & Fix](/posts/navien-error-code-e030/)
-- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)

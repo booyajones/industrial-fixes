@@ -13,11 +13,8 @@ money_part: "Pre-charge resistor / relay"
 most_likely_cause: "Low incoming supply voltage"
 ---
 
-## ABB ACS880 Fault 3210 — What It Means
-
+## What this code means
 Fault 3210 (DC Undervoltage) on an ABB ACS880 drive means the DC bus voltage dropped below the drive's minimum operating threshold. The ACS880 rectifies incoming AC to a DC bus nominally at 1.35× the input line voltage; for a 400 V supply this is approximately 540 VDC. If the bus drops below the low-voltage trip threshold — typically around 300–330 VDC on 400 V models — the drive trips 3210 to prevent output current distortion and to protect the DC capacitors. This fault can occur during a supply sag, at startup, or if the supply voltage is simply too low for the configured application.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Fault 3210 (DC Undervoltage) on an ABB ACS880 drive means the DC bus voltage dro
 ## When to Call a Pro
 
 DC bus measurements and pre-charge circuit diagnosis require a qualified electrical engineer familiar with ACS880 hardware. DC bus voltages can exceed 1000 VDC on high-voltage models and retain charge after power-down for several minutes.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-
-## See Also
-
-- [ABB ACS880 Complete Fault Code Guide — All Faults and Fixes](/posts/abb-acs880-complete-guide/)
-- [ABB VFD Fault 4110 — Causes & Fix](/posts/abb-vfd-fault-4110/)
-- [ABB VFD Fault 3130 — Input Phase Loss Fix](/posts/abb-vfd-fault-3130/)
-- [ABB VFD Fault 9300 — Causes & Fix](/posts/abb-vfd-fault-9300/)

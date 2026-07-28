@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Bosch Dishwasher E03 Error Code — What It Means
-
+## What this code means
 The E03 code on Bosch dishwashers does not have a single universal meaning across all models. Most commonly it indicates a control board relay failure, either in the main power module or the auxiliary heater relay circuit. Some Bosch models instead use E03 to flag a water inlet or fill problem, such as a faulty inlet valve or restricted water supply. Because the code interpretation varies by model, always confirm your exact model number and consult the wiring diagram or service manual before replacing parts.
 
 When E03 appears, the dishwasher typically stops mid-cycle or refuses to start because the control board cannot energize the relay that powers the heater or other components. On models where E03 relates to water fill, the machine may fail to fill properly or show low water pressure symptoms. The safest diagnostic approach is to verify both the control circuit and the fill system before ordering parts.
@@ -26,8 +25,6 @@ When E03 appears, the dishwasher typically stops mid-cycle or refuses to start b
 ## Before You Replace Anything
 
 Many owners replace the heating element or inlet valve first without testing the control board relay. Always perform a power reset and check for visible relay damage or burn marks on the main board before ordering other parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

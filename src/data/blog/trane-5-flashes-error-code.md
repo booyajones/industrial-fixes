@@ -13,11 +13,8 @@ money_part: "Pressure switch"
 most_likely_cause: "Blocked or kinked pressure switch hose"
 ---
 
-## Trane 5 Flashes Error Code — What It Means
-
+## What this code means
 Five flashes on a Trane furnace LED means the pressure switch is stuck open. The pressure switch is a safety device that confirms the induced draft blower is moving enough air to safely exhaust combustion gases. When the switch stays open, the control board sees no airflow confirmation and won't allow ignition. This code appears immediately at startup, before the igniter even energizes. The switch itself is often fine — the more common culprits are blocked vents, a failing draft motor, or a condensate backup in the pressure switch tubing.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Five flashes on a Trane furnace LED means the pressure switch is stuck open. The
 ## When to Call a Pro
 
 If the draft motor is confirmed running at speed and the vent pipes are clear, but the switch still won't close, a tech should verify static pressure with a manometer before condemning the switch. An incorrectly rated replacement switch will fail in the same way.
-
-## Related Articles
-
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-
-## See Also
-
-- [Trane 3-Blink Error Code — Pressure Switch Fault Fix](/posts/trane-3-blink-error-code/)
-- [Trane Precedent Rooftop Unit Error Codes: Complete Guide](/posts/trane-precedent-error-codes/)
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Tracer BAS Fault Codes - Complete Guide](/posts/trane-tracer-fault-codes/)

@@ -19,8 +19,7 @@ free_checks:
 part_price: "$300-600 for control board assembly"
 ---
 
-## Yaskawa GA800 CPF24 — What It Means
-
+## What this code means
 The CPF24 fault code (Control Circuit Error) on a Yaskawa GA800 VFD signals a hardware problem inside the drive's control electronics. This is not a user-programmable fault or a parameter setting issue. The drive has detected an internal malfunction in its logic board, microprocessor, or associated control circuitry. Unlike faults triggered by external wiring or load conditions, CPF24 points to a physical failure within the VFD itself.
 
 Note: Yaskawa GA800 fault codes use the format CPFxx (Control Panel Fault), not F0xx. If your display shows F024, verify the exact code in the fault history menu. The GA800 troubleshooting manual explicitly states the drive does not support component-level repair beyond fan and control board replacement.
@@ -28,8 +27,6 @@ Note: Yaskawa GA800 fault codes use the format CPFxx (Control Panel Fault), not 
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire VFD when only the control board has failed. Before ordering a new drive, power-cycle the unit after a five-minute discharge wait and measure control circuit DC voltage to confirm the fault persists and is not a transient power glitch.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -22,15 +22,12 @@ part_price: "$25-45"
 no_buy_pct: "65%"
 ---
 
-## Bosch Dishwasher E17 Error — What It Means
-
+## What this code means
 Bosch defines E17 as an issue with water flowing into the dishwasher or the filling system. The error is triggered when the water level sensor detects that water is entering too slowly, too quickly, or at an incorrect level. In many models the code fires when water enters too fast and trips the internal flood-detection float, or when a blockage prevents normal fill. Either way, the control board sees the fill cycle is out of tolerance and stops the machine to protect against overflow or incomplete wash.
 
 ## Before You Replace Anything
 
 Many people replace the water inlet valve or even the control module (part 12008382, often discontinued) when the real problem is a kinked hose or clogged screen filter at the inlet connection. Always check the hose routing and clean the mesh screen before buying any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

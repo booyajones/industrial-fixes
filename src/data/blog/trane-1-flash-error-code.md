@@ -13,11 +13,8 @@ money_part: "Flame sensor"
 most_likely_cause: "Normal standby (most models)"
 ---
 
-## Trane 1 Flash Error Code — What It Means
-
+## What this code means
 On most Trane furnaces, a single LED flash (1 blink, pause, repeat) signals normal standby operation — the furnace is powered and waiting for a heat call. However, on select Trane and American Standard models, particularly those manufactured before 2010, a 1-flash pattern indicates a system lockout or watchguard fault. Always cross-reference your specific model's diagnostic chart (printed on the inside of the furnace door) to confirm which interpretation applies.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,18 +43,3 @@ On most Trane furnaces, a single LED flash (1 blink, pause, repeat) signals norm
 ## When to Call a Pro
 
 If the furnace locks out repeatedly after power cycling and you cannot identify a failed igniter, flame sensor, or gas supply problem, call a licensed HVAC technician. Persistent lockout may indicate a gas valve fault or combustion air issue that requires combustion analysis to diagnose safely.
-
-## See Also
-
-- [Trane Rooftop Unit Error Codes: Common Faults Guide](/posts/trane-rooftop-unit-error-codes/)
-- [Trane ComfortR ER Error Code — Causes & Fix](/posts/trane-comfort-r-error-codes-er/)
-- [Trane ComfortLink II Error Codes — Common Faults and Fixes](/posts/trane-comfortlink-ii-error-codes/)
-- [Trane 9 Flashes Error Code — Causes & Fix](/posts/trane-9-flashes-error-code/)
-
-## Related Articles
-
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-- [Trane 4 Flashes Error Code — Open High Limit Fix](/posts/trane-4-flashes-error-code/)

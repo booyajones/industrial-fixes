@@ -20,8 +20,6 @@ A Rheem furnace that is not heating is a symptom, not a single fault code. It ca
 
 Common codes tied to no heat include Code 10 (ignition lockout after multiple failed attempts), Code 11 (failed ignition), Code 12 (low flame sense signal), Code 13 (flame lost during the heating cycle), Code 22 (limit switch open from overheating), Code 33 (rollout switch open), Code 45 or 57 (pressure switch faults from vent or intake restriction), Code 61 (blower fault), and Code 93 (control board failure). Each of these codes points to a different root cause, so identifying the flash pattern is the first step in diagnosis.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty flame sensor** The flame sensor rod gets coated with soot or oxidation over time, weakening the flame signal and causing Code 12, Code 13, or ignition lockout.
@@ -56,17 +54,10 @@ Common codes tied to no heat include Code 10 (ignition lockout after multiple fa
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Rheem Furnace 2 Flashes error code](/posts/rheem-furnace-2-flashes-error-code/)
-- [Rheem Furnace 3 Flashes error code](/posts/rheem-furnace-3-flashes-error-code/)
-- [Rheem Furnace 4 Flashes error code](/posts/rheem-furnace-4-flashes-error-code/)
+- Rheem Furnace 2 Flashes error code
+- Rheem Furnace 3 Flashes error code
+- Rheem Furnace 4 Flashes error code
 
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you are not comfortable working around gas appliances, if the fault code returns after you have corrected the obvious causes, or if the diagnosis points to ignition components, the gas valve, the control board, or the inducer motor. A technician can verify gas manifold pressure, measure flame sense microamps, check for proper grounding and phasing on the power supply, and safely replace ignition or control components. Do not bypass safety switches or attempt repeated manual resets without identifying and correcting the underlying fault, as this can damage the control board or create an unsafe condition. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
-- [Rheem Tankless Water Heater Error 76 - Causes & Fix](/posts/rheem-tankless-water-heater-76-error-code/)
-- [Rheem Furnace 5 Flashes Error Code — Flame Sensor Fault Fix](/posts/rheem-furnace-5-flashes-flame-sensor/)
-- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)

@@ -17,8 +17,7 @@ money_part: "Maytag range power cord"
 part_price: "$15-40"
 ---
 
-## Maytag Range PF Error Code — What It Means
-
+## What this code means
 PF stands for Power Failure on Maytag ranges and ovens. The control board detected that power to the appliance was interrupted, lost, or seen as invalid during operation or power-up. This code can appear after an actual blackout, a brief voltage drop, or even during startup if the control senses abnormal supply behavior. Maytag also notes that unexpected line noise or incorrect voltage during a power event can trigger PF, so the code is not limited to a complete loss of power.
 
 The display may show PF after a household outage, a breaker trip, or if you pressed keys before the 10-second delay after power-up on some models. In the field, a recurring PF should also raise suspicion of supply-side issues such as loose connections at the terminal block, a faulty power cord, or unstable household voltage, although the manufacturer ties the code primarily to power interruption or incorrect voltage sensing at the control.
@@ -26,8 +25,6 @@ The display may show PF after a household outage, a breaker trip, or if you pres
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main electronic control board without first verifying the incoming supply voltage and terminal-block connections. Clear the code and reset the breaker for one minute before ordering a control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

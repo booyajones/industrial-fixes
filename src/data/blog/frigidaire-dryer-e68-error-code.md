@@ -17,8 +17,7 @@ money_part: "User interface control panel assembly"
 part_price: "$50-150"
 ---
 
-## Frigidaire Dryer E68 Error Code — What It Means
-
+## What this code means
 The E68 error code indicates the control believes one of the buttons on the panel is being held down continuously when it should not be. This can be a physically stuck or sticky button, moisture on the keypad, or a fault in the user interface assembly or main control board that causes a key input to read as closed even when the button is not pressed.
 
 On some models the fault is mechanical (a button that does not return fully), while on others the keypad membrane or the control board itself interprets the circuit incorrectly. Technicians commonly use the dryer's built-in key-test diagnostic mode to identify which button circuit is reporting a stuck signal.
@@ -26,8 +25,6 @@ On some models the fault is mechanical (a button that does not return fully), wh
 ## Before You Replace Anything
 
 Many people replace the main control board first when the actual problem is a stuck or dirty button on the keypad assembly. Clean and inspect every button for free play and run a diagnostic key test before ordering any boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

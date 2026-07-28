@@ -13,11 +13,8 @@ money_part: "Linear encoder read head"
 most_likely_cause: "Mechanical binding or overload on the axis"
 ---
 
-## Heidenhain Error Code 399 — What It Means
-
+## What this code means
 Error 399 on a Heidenhain TNC 640 (and related iTNC/TNC series) controls indicates a servo error — the control detected a following error (lag error) on a servo axis that exceeded the allowable tolerance. This means the actual axis position fell too far behind the commanded position during motion. The machine stops and this error is displayed to prevent incorrect machining or machine damage from an axis that is not tracking the commanded path.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

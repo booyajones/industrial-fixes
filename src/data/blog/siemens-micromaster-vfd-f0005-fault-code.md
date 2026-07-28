@@ -13,11 +13,8 @@ money_part: "IGBT inverter power module"
 most_likely_cause: "Motor load too high or mechanical binding"
 ---
 
-## Siemens Micromaster F0005 — What It Means
-
+## What this code means
 F0005 on a Siemens MICROMASTER variable frequency drive indicates inverter I²t overload. The drive has detected that the inverter's accumulated thermal stress from current over time has exceeded its safe limit, so it trips to protect the power section from overheating. This is not a random electronics failure. It usually points to a load or duty-cycle problem, a motor-to-drive sizing mismatch, or insufficient cooling. The drive's internal thermal model calculates heat buildup and shuts down before damage occurs.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ F0005 on a Siemens MICROMASTER variable frequency drive indicates inverter I²t 
 ## When to Call a Pro
 
 Call a qualified technician or drive specialist if you cannot identify a mechanical overload or parameter error, if motor insulation tests pass but the fault recurs, or if you lack the tools and safety training to work inside the drive cabinet. Inverter power section diagnosis and replacement require knowledge of high-voltage DC bus capacitors, proper discharge procedures, and access to manufacturer service documentation. A technician can also use Siemens diagnostic software to read detailed fault logs and verify that the drive is sized correctly for your application.
-
-## See Also
-
-- [Siemens G120 A01028 Fault - Causes & Fix](/posts/siemens-g120-vfd-a01028-fault-code/)
-- [Siemens Micromaster F0003 - Causes & Fix](/posts/siemens-micromaster-vfd-f0003-fault-code/)
-- [Siemens Micromaster F0072 - Causes & Fix](/posts/siemens-micromaster-f0072-fault-code/)
-- [Siemens Micromaster F0101 - Causes & Fix](/posts/siemens-micromaster-vfd-f0101-fault-code/)

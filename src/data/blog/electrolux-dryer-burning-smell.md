@@ -19,8 +19,6 @@ A burning smell from your Electrolux dryer is a symptom, not a fault code. It me
 
 This is a safety issue. The smell can come from lint that is close to ignition temperature, melting plastic or rubber, or electrical arcing. Stop using the dryer as soon as you notice the odor and do not restart it until you identify and fix the source.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Lint accumulation in trap, cabinet, blower, or vent system** The most common cause, lint restricts airflow and traps heat, creating fire risk and a burning odor.
@@ -57,8 +55,8 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Electrolux Dryer Ad error code](/posts/electrolux-dryer-ad-error-code/)
 - [Electrolux Dryer E 09 error code](/posts/electrolux-dryer-e-09-error-code/)
-- [Electrolux Dryer E 10 error code](/posts/electrolux-dryer-e-10-error-code/)
-- [Electrolux Dryer E 11 error code](/posts/electrolux-dryer-e-11-error-code/)
+- Electrolux Dryer E 10 error code
+- Electrolux Dryer E 11 error code
 - [Electrolux Dryer E 31 error code](/posts/electrolux-dryer-e-31-error-code/)
 - [Electrolux Dryer E 42 error code](/posts/electrolux-dryer-e-42-error-code/)
 - [Electrolux Dryer E 51 error code](/posts/electrolux-dryer-e-51-error-code/)

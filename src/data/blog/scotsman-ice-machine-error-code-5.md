@@ -13,11 +13,8 @@ money_part: "Water pump"
 most_likely_cause: "Dirty condenser coil"
 ---
 
-## Scotsman Ice Machine Error Code 5 — What It Means
-
+## What this code means
 Scotsman ice machine error code 5 usually means the machine timed out in freeze. The control board expected the evaporator plate or cube size logic to reach harvest conditions within the allowed time, but it did not happen. In the field, code 5 usually points to weak refrigeration capacity, low water flow across the plate, scale, or a sensor problem that prevents the control from recognizing a completed freeze cycle.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,18 +46,3 @@ Scotsman ice machine error code 5 usually means the machine timed out in freeze.
 ## When to Call a Pro
 
 Call a Scotsman tech if code 5 returns after cleaning the condenser, descaling the water circuit, and verifying pump flow. A freeze timeout that survives those steps often means a refrigerant problem or weak compressor that needs gauges and live pressure readings.
-
-## See Also
-
-- [Scotsman Ice Machine Error Code 1 — Causes & Fix](/posts/scotsman-ice-machine-error-code-1/)
-- [Scotsman Ice Machine Error Code 2 — Causes & Fix](/posts/scotsman-ice-machine-error-code-2/)
-- [Scotsman Ice Machine Error Code 3 — Causes & Fix](/posts/scotsman-ice-machine-error-code-3/)
-- [Scotsman Ice Machine Complete Guide — Common Faults & Fixes](/posts/scotsman-ice-machine-complete-guide/)
-
-## Related Articles
-
-- [Scotsman C0522 Error Codes — Fix Guide](/posts/scotsman-c0522-error-codes/)
-- [Scotsman HID312 Error Codes — Fault Code Diagnostic Guide](/posts/scotsman-hid312-error-codes/)
-- [Scotsman HID525 Error Codes — Complete Guide](/posts/scotsman-hid525-error-codes/)
-- [Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/scotsman-ice-machine-complete-guide/)
-- [Scotsman Ice Machine Error Code 1 — High Pressure Cutout Fix](/posts/scotsman-ice-machine-error-code-1/)

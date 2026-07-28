@@ -179,16 +179,3 @@ This guide covers the most common J1000 fault codes and step-by-step fixes.
 GF faults involving motor replacement, UV faults involving internal drive components, and any situation where you are unsure of safe isolation procedures should be handled by a qualified electrician. Always verify the DC bus has discharged to safe levels before opening the drive enclosure — the J1000 Technical Manual specifies a minimum wait time of 5 minutes after power removal.
 
 > **Pro tip:** The J1000 stores the last four faults in the fault history (U2-02 through U2-05). Each fault log records the current, voltage, and frequency at the time of the trip. Reviewing this history before working on the drive often reveals patterns — like OC faults that always occur at the same output frequency — that point directly to the root cause.
-
-## Related Articles
-
-- [Yaskawa V1000 Fault Codes — Complete Guide](/posts/yaskawa-v1000-complete-guide/)
-- [Yaskawa VFD OC Fault — Overcurrent Diagnosis](/posts/yaskawa-vfd-fault-oc-overcurrent/)
-- [Yaskawa VFD GF Fault — Ground Fault Fix](/posts/yaskawa-vfd-fault-gf/)
-
-## See Also
-
-- [Yaskawa VFD Fault UV1 — Causes & Fix](/posts/yaskawa-vfd-fault-uv1/)
-- [Yaskawa GA800 Uv1 Fault — DC Undervoltage Fix](/posts/yaskawa-ga800-error-uv1/)
-- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
-- [Yaskawa A1000 Complete Guide - Fault Codes, Parameters, and Commissioning](/posts/yaskawa-a1000-complete-guide/)

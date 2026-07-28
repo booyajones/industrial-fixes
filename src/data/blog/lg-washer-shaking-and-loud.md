@@ -19,8 +19,6 @@ LG does not assign a specific error code for shaking and loud noise. The symptom
 
 If those basics are correct and the vibration continues, the suspension system or basket support may be worn or damaged. Front-load washers depend on shock absorbers and a stable basket spider to control drum movement during high-speed spin.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Washer not level or rocking** All four feet must sit flat on the floor with the cabinet level front-to-back and side-to-side, or the drum will shift unevenly during spin.

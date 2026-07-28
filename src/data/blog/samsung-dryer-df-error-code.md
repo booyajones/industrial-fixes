@@ -22,8 +22,7 @@ part_price: "$12-35"
 no_buy_pct: "35%"
 ---
 
-## Samsung Dryer dF Error Code — What It Means
-
+## What this code means
 The dF error code on a Samsung dryer indicates a door-related fault. Samsung groups dF with codes like dC, dE, do, d0, 1 DC, and 1 dF, all of which point to problems with the door, its latch, or the sensors that confirm the door is secured correctly. In practical terms, the dryer believes the door is not secure or the door-switch circuit is not reporting the expected door status.
 
 When you see dF, the machine has detected that the door-switch circuit is not reading a proper closed and latched condition. This can be a mechanical problem (the door isn't actually latching), an electrical problem (the switch or wiring has failed), or a control-board issue (the board isn't reading the door input correctly). The dryer will not start or will stop mid-cycle until it sees a valid door-closed signal.
@@ -31,8 +30,6 @@ When you see dF, the machine has detected that the door-switch circuit is not re
 ## Before You Replace Anything
 
 Many people replace the main control board when the dF code appears, but the real cause is usually a failed door switch or broken latch. Test the door switch for continuity and inspect the latch mechanism before buying a control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

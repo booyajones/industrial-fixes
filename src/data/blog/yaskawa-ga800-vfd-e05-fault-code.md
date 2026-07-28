@@ -13,13 +13,10 @@ money_part: "Yaskawa GA800 option communication card"
 most_likely_cause: "Broken or loose network cable"
 ---
 
-## Yaskawa GA800 E05 Fault — What It Means
-
+## What this code means
 The E05 fault (sometimes labeled bUS or similar depending on option card and firmware) indicates the GA800 drive has lost valid cyclic communication with the controller over its installed industrial network interface. This is not a motor overcurrent or overvoltage problem. The drive is either not receiving network data within the configured watchdog time or the fieldbus option card has detected a communication exception. The error applies to drives equipped with optional network cards for protocols like EtherNet/IP, PROFINET, or MECHATROLINK.
 
 Unlike basic I/O or hardwired control faults, E05 means the drive and PLC or master controller are not exchanging data properly over the digital network. The drive will stop or refuse to run because it depends on continuous command and status traffic from the upstream controller.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ Unlike basic I/O or hardwired control faults, E05 means the drive and PLC or mas
 ## When to Call a Pro
 
 Call a controls technician or system integrator if you are not familiar with industrial network protocols, PLC programming, or drive parameter configuration. Communication faults require coordinated troubleshooting of both the drive and the upstream controller. A professional can use network diagnostic tools to capture traffic, verify cyclic data integrity, and update PLC logic or drive firmware if needed. Also call for help if swapping cables and reseating the card do not clear the fault, since the issue may lie in the PLC program, network topology, or a deeper drive electronics fault that requires factory support.
-
-## See Also
-
-- [Yaskawa GA800 E16 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e16-fault-code/)
-- [Yaskawa GA800 E30 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e30-fault-code/)
-- [Yaskawa GA800 E38 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e38-fault-code/)
-- [Yaskawa GA800 E24 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e24-fault-code/)

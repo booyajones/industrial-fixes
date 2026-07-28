@@ -19,8 +19,6 @@ When a GE washer won't agitate, the control board is typically sending the agita
 
 GE does not use a single dedicated fault code for "no agitate." Instead, stored codes on models with the 1–10 flash system usually point to motor faults, belt issues, or lid switch problems. The symptom can appear identical whether the cause is a worn belt, a failed motor inverter, a stuck mode shifter, or a faulty lid switch that blocks agitation commands.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Worn, glazed, or slipping drive belt** The belt may have stretched, become glazed with detergent residue, or slipped off the pulley, preventing the motor's torque from reaching the transmission.
@@ -53,9 +51,9 @@ GE does not use a single dedicated fault code for "no agitate." Instead, stored 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Ge Washer C2 error code](/posts/ge-washer-c2-error-code/)
-- [Ge Washer C5 error code](/posts/ge-washer-c5-error-code/)
-- [Ge Washer E23 error code](/posts/ge-washer-e23-error-code/)
+- Ge Washer C2 error code
+- Ge Washer C5 error code
+- Ge Washer E23 error code
 
 ## When to Call a Pro
 

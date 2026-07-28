@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Overfill float switch (dishwasher flood switch)"
 ---
 
-## Maytag Dishwasher F6E4 Error — What It Means
-
+## What this code means
 The F6E4 code on a Maytag dishwasher indicates an unlevel condition that has actuated the overfill or floater switch. Maytag's product-help documentation confirms that incorrect leveling is the primary cause of this fault. When the dishwasher is tilted too far forward, backward, or side-to-side, the float mechanism inside the base pan can shift and close the overfill switch, triggering the error even when no actual overfill has occurred.
 
 This is a mechanical installation issue, not a generic water-fill or drain fault. The dishwasher detects that the float switch has been tripped and assumes a flood risk, so it halts operation and displays F6E4. Correcting the installation angle and ensuring the unit sits properly in the cabinet opening will typically clear the code.
@@ -25,8 +24,6 @@ This is a mechanical installation issue, not a generic water-fill or drain fault
 ## Before You Replace Anything
 
 Many people replace the inlet valve or drain pump first, assuming F6E4 is a water-flow fault. Before ordering parts, use a spirit level to check the dishwasher's installation angle in all directions.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -17,8 +17,7 @@ money_part: "Maytag dryer inlet thermistor / temperature sensor"
 part_price: "$15-40"
 ---
 
-## Maytag Dryer F24 Error Code — What It Means
-
+## What this code means
 Maytag's official dryer help page lists F24 in its error-code index but does not publish the exact fault definition. The manufacturer-recommended recovery is a power reset: disconnect power for 5 minutes, restore power, then run a Timed Dry cycle and watch for recurrence. Because the code meaning is not disclosed in public Maytag dryer documentation, you must consult your model's tech sheet or service manual to confirm the specific circuit the code monitors.
 
 In the field, technicians report that F24 on certain Maytag and Whirlpool dryer models is associated with a temperature-sensor or inlet-thermistor circuit fault. If your model's tech sheet confirms that definition, the error typically means the control board cannot read a valid signal from the dryer's thermistor due to an open sensor, damaged wiring, or a corroded connector. Always verify the exact fault definition for your dryer model before ordering parts.
@@ -26,8 +25,6 @@ In the field, technicians report that F24 on certain Maytag and Whirlpool dryer 
 ## Before You Replace Anything
 
 Many people replace the control board when F24 appears, but a failed thermistor or a loose connector is far more common. Check the sensor's resistance at room temperature and inspect every connector in the circuit before condemning the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

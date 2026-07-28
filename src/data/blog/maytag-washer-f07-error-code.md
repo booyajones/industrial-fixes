@@ -16,8 +16,7 @@ money_part: "affresh® Washer Cleaner tablets"
 part_price: "$15-40"
 ---
 
-## Maytag F07 Error Code — What It Means
-
+## What this code means
 The F07 code appears on some Maytag dryers when the control board detects a problem with the drive motor or drum rotation system. The dryer may refuse to start, the drum may not turn even though the motor runs, or the drum may feel locked or very hard to rotate by hand. This code is not universal across all Maytag appliances. On washers, similar-looking codes like F7 E1 or F0E7 refer to entirely different faults and should not be confused with F07.
 
 Because manufacturer documentation for F07 is limited in public sources, always confirm the exact code and its meaning in your dryer's service manual or wiring diagram. The fault typically points to a mechanical failure in the belt, pulley, or motor assembly rather than an electronic sensor issue.
@@ -25,8 +24,6 @@ Because manufacturer documentation for F07 is limited in public sources, always 
 ## Before You Replace Anything
 
 Homeowners often replace the drive motor when the real culprit is a broken belt or seized idler pulley. Before ordering a motor, remove the front or rear panel and visually inspect the belt for breakage, slack, or glazing.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

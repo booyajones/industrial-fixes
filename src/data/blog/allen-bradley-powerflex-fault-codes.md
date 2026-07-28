@@ -71,18 +71,3 @@ The drive lost communication with the EtherNet/IP network or I/O scanner. Check:
 | Contactor / line reactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-allen-bradley-powerflex-fault-codes&tag=errorcodefixes-20) \| Add if experiencing nuisance undervoltage trips |
 ## When to Call a Pro
 F012 (hardware overcurrent) and any fault accompanied by a burning smell or visible damage to the drive's output stage require qualified drive service technicians. Replacing IGBTs and gate drivers inside a PowerFlex 700 or 755 requires specialized training and tools.
-
-## Related Articles
-
-- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
-- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
-- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
-- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)
-- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)
-
-## See Also
-
-- [Allen-Bradley PowerFlex Fault F004 — Causes & Fix](/posts/allen-bradley-powerflex-fault-f004/)
-- [Allen-Bradley PowerFlex 755 Fault 7 — Motor Overload Causes & Fix](/posts/allen-bradley-powerflex-755-fault-7/)
-- [Allen-Bradley PowerFlex F007 Fault — Motor Overload Fix](/posts/allen-bradley-powerflex-f007-fault/)
-- [Allen Bradley PowerFlex 753 F12 Fault — Causes & Fix](/posts/allen-bradley-powerflex-753-f12-fault/)

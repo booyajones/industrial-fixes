@@ -21,8 +21,7 @@ part_price: "$20-50"
 no_buy_pct: "60%"
 ---
 
-## Whirlpool E15 Error Code — What It Means
-
+## What this code means
 Whirlpool's E15 dishwasher error signals that the appliance has detected a small leak or water condition that has triggered its protection system. The code typically appears when water accumulates in the lower base pan and activates a leak-detection or float device. Whirlpool advises shutting off the water supply immediately and scheduling service.
 
 The code does not point to a single component but instead alerts you that water is escaping somewhere inside the machine. Common escape routes include internal hose connections, door seals, pump areas, or overflow from excessive suds. Because model-specific behavior varies, confirm the exact meaning of E15 for your dishwasher by consulting the owner's manual or the wiring diagram inside the door.
@@ -30,8 +29,6 @@ The code does not point to a single component but instead alerts you that water 
 ## Before You Replace Anything
 
 Many people replace the control board or inlet valve when E15 appears, but the real issue is almost always a physical leak or suds overflow. Dry the base pan, inspect all visible hoses and the door gasket, and run a short cycle while watching for drips before buying any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

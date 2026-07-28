@@ -13,11 +13,8 @@ money_part: "IGBT power module"
 most_likely_cause: "Mechanical jam or overload"
 ---
 
-## ABB VFD Fault 0001 Overcurrent — What It Means
-
+## What this code means
 ABB fault code 0001 (OVERCURR) means the drive detected output current exceeding the trip limit — typically 2–3× the drive's rated current. This is one of the most common ABB ACS355, ACS550, and ACS880 fault codes. The drive's IGBT output stages are current-limited to protect both the drive and motor; when output current exceeds the trip threshold, the drive shuts off gate signals to all six IGBTs immediately. Fault 0001 can be caused by a mechanical load problem, a motor winding fault, or incorrect drive parameters for the connected motor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ ABB fault code 0001 (OVERCURR) means the drive detected output current exceeding
 ## When to Call a Pro
 
 If the fault appears with no mechanical load, the cable and motor test clean, and parameters are correct, the drive's current sensing circuits or IGBTs may be damaged. ABB-certified drive service is required for internal component repair.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-
-## See Also
-
-- [ABB VFD Fault 7121 — Causes & Fix](/posts/abb-vfd-fault-7121/)
-- [ABB ACS580 Fault 3210 — DC Overvoltage Fix](/posts/abb-acs580-fault-3210/)
-- [ABB ACS550 Complete Fault Code Guide — All Faults and Fixes](/posts/abb-acs550-complete-guide/)
-- [ABB ACS550 AF10 Fault — Causes & Fix](/posts/abb-acs550-af10-heatsink/)

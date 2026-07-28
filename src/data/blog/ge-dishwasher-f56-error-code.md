@@ -17,8 +17,7 @@ money_part: "Drain hose"
 part_price: "$15-80"
 ---
 
-## GE Dishwasher F56 Error Code — What It Means
-
+## What this code means
 The F56 error code (sometimes labeled FTD or F56) signals that your GE dishwasher detected a drain failure. Water was not removed properly during the drain cycle, so the machine stopped and flagged the fault. The dishwasher may still have standing water in the tub, or it may drain slowly but time out before the control is satisfied.
 
 This is not a wash-performance fault. It means the drain system is blocked, restricted, or not functioning fast enough to meet the timer's expectations. The code directs you to inspect the drain hose, air gap, and disposer connection, then move inward to the pump and sensors if those external checks are clear.
@@ -27,32 +26,14 @@ This is not a wash-performance fault. It means the drain system is blocked, rest
 
 Many people replace the drain pump before checking external plumbing. First remove the drain hose at the sink or disposer and flush it with a garden hose to confirm it is clear, and verify the disposer knockout plug was removed if a disposer was recently installed.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Clogged or kinked drain hose (~35%)** A restriction anywhere along the drain hose prevents water from leaving the tub on time.
-- **Blocked air gap or sink drain (~25%)** Debris in the air gap cap or a clog in the sink drain line backs up water and prevents full drainage.
-- **Garbage disposer knockout plug not removed (~15%)** If a disposer was recently installed or replaced, the knockout plug inside the disposer inlet must be punched out or the dishwasher cannot drain.
-- **Debris in sump or filter area (~10%)** Food particles, glass, or other objects obstruct the sump screen or lower filter and restrict flow to the pump.
-- **Faulty drain pump or obstruction in pump (~10%)** The drain pump itself may be jammed by debris or have failed electrically so it cannot expel water.
-- **Dirty or blocked pressure sensor (~5%)** If the dishwasher drains normally but still flags F56, the water-level or pressure sensor and its sensing port may be clogged with scale or debris.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Is there still standing water in the dishwasher tub when you open the door?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The drain system is blocked or the pump is not running. Work through the external plumbing checks (hose, air gap, disposer) before removing panels to inspect the pump.<br><strong>No:</strong> The tub drains but the code appears anyway, so the control is not sensing the empty state. Check the pressure sensor and its sensing tube for blockage after confirming the drain hose is not restricted.</div>
-</details>
-
-<details class="dtree"><summary>Can you hear the drain pump motor hum or run during the drain cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The pump motor is energized. Check for a jammed impeller or obstruction inside the pump housing, or a blockage downstream in the hose or air gap.<br><strong>No:</strong> The pump is not receiving power or has failed. Confirm wiring connections at the pump and test the pump for continuity, then replace if defective.</div>
-</details>
-
-<details class="dtree"><summary>Was a garbage disposer installed or replaced recently?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Confirm the knockout plug inside the disposer inlet was removed. Shine a flashlight into the disposer drain inlet and look for a disc of plastic blocking the opening.<br><strong>No:</strong> The disposer connection is not the issue. Continue with drain hose and air gap inspection.</div>
-</details>
+- **Clogged or kinked drain hose** A restriction anywhere along the drain hose prevents water from leaving the tub on time.
+- **Blocked air gap or sink drain** Debris in the air gap cap or a clog in the sink drain line backs up water and prevents full drainage.
+- **Garbage disposer knockout plug not removed** If a disposer was recently installed or replaced, the knockout plug inside the disposer inlet must be punched out or the dishwasher cannot drain.
+- **Debris in sump or filter area** Food particles, glass, or other objects obstruct the sump screen or lower filter and restrict flow to the pump.
+- **Faulty drain pump or obstruction in pump** The drain pump itself may be jammed by debris or have failed electrically so it cannot expel water.
+- **Dirty or blocked pressure sensor** If the dishwasher drains normally but still flags F56, the water-level or pressure sensor and its sensing port may be clogged with scale or debris.
 
 ## Step-by-Step Fix {#fix}
 
@@ -76,5 +57,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a pro if you have confirmed the drain hose, air gap, and disposer knockout are all clear, you have cleaned the sump and filters, and the code persists. A technician has the wiring diagrams and multimeter skills to test the drain pump motor, the control board's pump-drive circuit, and the pressure sensor signaling. Also call if you are not comfortable working under the sink with plumbing connections or removing dishwasher panels. If the dishwasher is still under warranty, contact GE or an authorized service center before replacing any parts yourself.
-
-**Rough cost:** DIY runs about $15–80 in parts (drain hose, air gap, or pump if needed), 30–90 min. A pro service call runs about $150–280 service call (includes labor and diagnosis).

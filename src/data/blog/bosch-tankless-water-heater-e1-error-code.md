@@ -13,13 +13,10 @@ money_part: "Hot water outlet sensor"
 most_likely_cause: "Scale buildup in heat exchanger"
 ---
 
-## Bosch E1 Error Code — What It Means
-
+## What this code means
 The E1 code on a Bosch gas tankless water heater means the hot water sensor on the outlet pipe has detected an over-temperature condition above 185°F (85°C). This sensor sits on the hot water line leaving the heat exchanger and shuts the unit down when temperatures climb too high.
 
 Bosch warns that E1 does not automatically mean the sensor is bad. The code can be triggered by scale buildup restricting heat transfer in the heat exchanger, pre-heated incoming water from a recirculation loop or solar preheat system, incorrect controller settings for tank loading applications, or a defective sensor itself. Before replacing any parts, verify installation configuration and check for scale or upstream heating sources.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

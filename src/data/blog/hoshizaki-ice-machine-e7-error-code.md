@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Hoshizaki Ice Machine E7 Error — What It Means
-
+## What this code means
 The E7 error code on a Hoshizaki ice machine most commonly indicates that the high-side pressure switch has opened due to excessive refrigerant pressure in the system, typically above 450 to 500 psi depending on the switch rating. The compressor shuts down as a safety measure to prevent damage. However, on some Hoshizaki model series (particularly older KM-series or certain control board versions), E7 can instead mean a low water level fault detected by the float switch, or a clogged condenser filter alert. The specific definition depends on your machine's model and control board version.
 
 If the code refers to high refrigerant pressure, the machine is overheating because it cannot shed heat properly. If it refers to low water level, the machine cannot freeze ice because the water reservoir is not filling. Always consult your model's service manual to confirm which definition applies to your unit.
@@ -29,8 +28,6 @@ If the code refers to high refrigerant pressure, the machine is overheating beca
 ## Before You Replace Anything
 
 Technicians sometimes replace the high-pressure switch or compressor without first cleaning the condenser. Check and clean the condenser fins and verify fan operation before ordering refrigerant-side parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a licensed refrigeration technician if cleaning the condenser and verifying fan operation does not clear the E7 code. Diagnosing refrigerant pressure, testing the high-side pressure switch, recovering and recharging refrigerant, and checking for non-condensables all require EPA-certified equipment and training. Also call a pro if you are unsure whether E7 refers to high pressure or low water level on your specific model, if the float switch needs replacement, or if you see refrigerant oil leaks or hear compressor noise. Attempting sealed-system work without certification is illegal in most jurisdictions and dangerous.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Hoshizaki E3/EE Error - Causes & Fix](/posts/hoshizaki-ice-machine-ee-e3-error-code/)
-- [Hoshizaki E1 Error Code - Causes & Fix](/posts/hoshizaki-ice-machine-e1-error-code/)
-- [Hoshizaki KM Series E1 Error Code — Causes & Fix](/posts/hoshizaki-km-series-e1-error/)
-- [Hoshizaki KM-901 Error Codes - What They Mean and How to Fix Them](/posts/hoshizaki-km-901-error-codes/)

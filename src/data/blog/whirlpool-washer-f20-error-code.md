@@ -22,8 +22,7 @@ part_price: "$30-65"
 no_buy_pct: "65%"
 ---
 
-## Whirlpool Washer F20 Error Code — What It Means
-
+## What this code means
 F20 on a Whirlpool front-load washer means the control is detecting a water inlet problem. Specifically, the washer is not seeing adequate water entering the machine during the fill cycle. In practical terms, the machine timed out or did not sense enough fill through the inlet system.
 
 Whirlpool's official documentation confirms F20 indicates no water or insufficient water supply. The control board expects to see a certain level of water within a defined time window. When that does not happen, it throws F20 and halts the cycle to protect the pump and heater from running dry.
@@ -31,8 +30,6 @@ Whirlpool's official documentation confirms F20 indicates no water or insufficie
 ## Before You Replace Anything
 
 Many people replace the inlet valve or control board first. Before buying any part, verify both faucets are fully open, check for kinked hoses, and clean the inlet screens at the back of the washer.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

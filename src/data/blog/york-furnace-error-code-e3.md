@@ -13,11 +13,8 @@ money_part: "Draft pressure switch"
 most_likely_cause: "Pressure switch contacts welded closed"
 ---
 
-## York Furnace Error Code E3 — What It Means
-
+## What this code means
 York Furnace Error Code E3 indicates a pressure switch stuck closed fault — the draft inducer pressure switch is signaling closed (pressure detected) when it should be open at the start of the ignition sequence. York's control board checks the pressure switch at the beginning of every cycle; if it's already closed before the inducer starts, the board interprets this as a stuck switch or a wiring short and locks out for safety.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ York Furnace Error Code E3 indicates a pressure switch stuck closed fault — th
 ## When to Call a Pro
 
 If the switch, wiring, and tubing all check out and E3 persists, the control board may be misreading the switch input. Board diagnostics and replacement require a licensed HVAC technician.
-
-## Related Articles
-
-- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
-- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)
-- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
-- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
-- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
-
-## See Also
-
-- [York Furnace Error Code E2 — Causes & Fix](/posts/york-furnace-e2-error-code/)
-- [York Furnace Error Code E5 — High Limit Tripped](/posts/york-furnace-error-code-e5/)
-- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
-- [York Furnace Error Code E2: Pressure Switch Fault Causes and Fix](/posts/york-furnace-e2-pressure-switch/)

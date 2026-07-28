@@ -22,8 +22,7 @@ part_price: "$25-60"
 no_buy_pct: "60%"
 ---
 
-## Whirlpool Washer F9 E1 Error Code — What It Means
-
+## What this code means
 F9 E1 on a Whirlpool front-load washer signals a drain fault, specifically that the machine is unable to drain water within the allowed time window. The washer has detected that water is not leaving the tub fast enough, so the cycle stops and displays the code. This is not an overflow or water-level error but a drain-system performance problem.
 
 Whirlpool ties the fault to restrictions or blockages in the drain path, including the drain hose installation, the drain pump filter, the door seal bellow drain holes, or the drain pump itself. The washer will not resume operation until the drain problem is corrected and the code is cleared.
@@ -31,8 +30,6 @@ Whirlpool ties the fault to restrictions or blockages in the drain path, includi
 ## Before You Replace Anything
 
 Many owners replace the drain pump immediately without checking the hose and filter. Verify the drain hose is not kinked, inserted too far into the standpipe (max 4.5 inches), and has an air gap before buying a new pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

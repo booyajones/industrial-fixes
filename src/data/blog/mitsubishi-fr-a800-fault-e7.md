@@ -13,11 +13,8 @@ money_part: "Control PCB (FR-A800)"
 most_likely_cause: "Control power supply instability"
 ---
 
-## Mitsubishi FR-A800 Fault E7 — What It Means
-
+## What this code means
 Fault E7 on a Mitsubishi FR-A800 drive indicates a CPU fault — the main control processor has detected an internal error, a memory checksum failure, or a watchdog timer expiration. The FR-A800 is Mitsubishi's advanced industrial inverter series, featuring built-in PLC functionality, safety inputs, and fieldbus options. E7 is a critical fault that immediately stops the drive output and prevents restart. Unlike most VFD faults which point to external causes, E7 typically indicates a hardware failure within the drive itself — most often a result of a power supply disturbance, a firmware corruption event, or aging control board components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Fault E7 on a Mitsubishi FR-A800 drive indicates a CPU fault — the main contro
 ## When to Call a Pro
 
 E7 almost always requires a Mitsubishi-certified drive technician. Unauthorized firmware loading or improper control board replacement can permanently damage an FR-A800. Contact Mitsubishi Factory Automation technical support for E7 diagnosis.
-
-## Related Articles
-
-- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
-- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
-- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
-- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
-- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
-
-## See Also
-
-- [Mitsubishi U1 Error Code — Causes & Fix](/posts/mitsubishi-u1-error-code/)
-- [Mitsubishi Mini Split P6 Error Code Fix](/posts/mitsubishi-p6-error-code/)
-- [Mitsubishi FR-E800 Fault E6 — Causes & Fix](/posts/mitsubishi-fr-e800-fault-e6/)
-- [Mitsubishi Mini Split E9 Error Code — Outdoor Thermistor 2 Fault Fix](/posts/mitsubishi-mini-split-e9-error/)

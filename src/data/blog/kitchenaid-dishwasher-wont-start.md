@@ -19,8 +19,6 @@ A KitchenAid dishwasher that won't start is a symptom with several common causes
 
 If the dishwasher is displaying a specific fault code or flashing lights, that code must be identified separately because the repair path depends on the exact code shown. Certain faults, such as F8E4, can prevent machine operation entirely and trigger an alarm, but the "won't start" complaint itself is not one unique code.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Control lock enabled** KitchenAid says the control lock feature is the most common cause and can be turned off by pressing and holding the lock button for four seconds.
@@ -59,7 +57,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Kitchenaid Dishwasher F2E2 error code](/posts/kitchenaid-dishwasher-f2e2-error-code/)
 - [Kitchenaid Dishwasher F3E1 error code](/posts/kitchenaid-dishwasher-f3e1-error-code/)
 - [Kitchenaid Dishwasher F3E2 error code](/posts/kitchenaid-dishwasher-f3e2-error-code/)
-- [Kitchenaid Dishwasher F4E3 error code](/posts/kitchenaid-dishwasher-f4e3-error-code/)
+- Kitchenaid Dishwasher F4E3 error code
 - [Kitchenaid Dishwasher F5E1 error code](/posts/kitchenaid-dishwasher-f5e1-error-code/)
 - [Kitchenaid Dishwasher F6E1 error code](/posts/kitchenaid-dishwasher-f6e1-error-code/)
 - [Kitchenaid Dishwasher F6E2 error code](/posts/kitchenaid-dishwasher-f6e2-error-code/)

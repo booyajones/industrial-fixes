@@ -13,13 +13,10 @@ money_part: "Model-specific temperature sensor or thermistor"
 most_likely_cause: "Model-specific sensor failure"
 ---
 
-## State Water Heater E49 Error Code — What It Means
-
+## What this code means
 E49 is not a universal error code across all State water heaters. State does not use standardized fault codes across all product families, so E49 means different things depending on your exact model and control board type. The code indicates an electronic fault has been detected, but the specific sensor, switch, or component that triggered it can only be identified by cross-referencing your model number with the factory service documentation. Do not assume E49 means the same thing on two different State models.
 
 Your first step is to locate the rating plate on the side or front of the water heater, write down the full model number and serial number, and pull the correct technical manual or support document from State's resources. Only that document will tell you which part E49 refers to on your specific heater. Guessing or replacing parts without confirming the model-specific definition wastes time and money.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

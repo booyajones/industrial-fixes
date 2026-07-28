@@ -17,8 +17,7 @@ money_part: "Frigidaire oven temperature sensor (RTD sensor)"
 part_price: "$20-60"
 ---
 
-## Frigidaire Oven F3 Error — What It Means
-
+## What this code means
 The F3 error code on a Frigidaire oven indicates a temperature-sensing fault in the oven sensor circuit. Frigidaire groups F3 as a communication or sensor-related error on ranges. In practical terms, the electronic oven control is not receiving a valid signal from the oven temperature sensor (RTD). This can happen because the sensor itself has failed, because the wiring harness between the sensor and the control board is damaged or has a loose connection, or because the electronic oven control board has a failed input circuit.
 
 The fault may appear during normal baking, during self-clean, or at startup. The oven will usually stop heating and display F3 when the control detects an out-of-range resistance value or an open or shorted sensor circuit. The code points to a problem somewhere in the temperature-sensing loop, and isolating the failed component requires testing the sensor resistance, inspecting the harness connections, and checking continuity back to the control.
@@ -26,8 +25,6 @@ The fault may appear during normal baking, during self-clean, or at startup. The
 ## Before You Replace Anything
 
 Many people replace the electronic oven control board first without testing the sensor. Measure the oven temperature sensor resistance at room temperature (should be around 1100 Ω) and inspect the harness connections before buying a control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

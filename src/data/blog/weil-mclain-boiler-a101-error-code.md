@@ -21,8 +21,7 @@ part_price: "$25-60"
 no_buy_pct: "40%"
 ---
 
-## Weil-McLain A01 Error Code — What It Means
-
+## What this code means
 On Weil-McLain Aqua Balance boilers, code A01 (sometimes displayed as A1) means 'No burner ignition.' The control board called for heat and started the ignition sequence, but it did not prove flame within the allowed time window. The boiler then locked out to prevent unsafe operation.
 
 The code tells you the burner failed to light, not which component is at fault. Common triggers include no gas reaching the valve, low inlet pressure, a fouled or misaligned ignition electrode, a stuck gas valve, a blocked condensate trap, or a dirty heat exchanger that chokes combustion air. In new installations the gas line may not have been purged, leaving air in the pipe.
@@ -30,8 +29,6 @@ The code tells you the burner failed to light, not which component is at fault. 
 ## Before You Replace Anything
 
 Many people replace the control board first when they see A01. Before ordering electronics, verify that the ignitor sparks and that gas inlet pressure is within 3.5 to 11 in. w.c. A bad electrode or low gas pressure will mimic board failure but cost far less to fix.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -85,10 +82,3 @@ Answer these to narrow it down fast.
 Call a licensed gas technician for A01 on a Weil-McLain boiler. Diagnosing no-ignition faults requires measuring gas pressure with a manometer, testing ignition spark safely, and inspecting combustion components inside the boiler cabinet. Gas work is regulated in most jurisdictions and mistakes can create carbon monoxide hazards or gas leaks. A qualified technician will also verify venting is correct, purge air from the system, and make sure the heat exchanger is clean and safe to operate. If the boiler is under warranty, have the installing contractor or a factory-authorized service company perform the repair to preserve coverage.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Weil-McLain Boiler A103 Error - Causes & Fix](/posts/weil-mclain-boiler-a103-error-code/)
-- [Weil-McLain Boiler Error Code E10 — Low Water Pressure Fix](/posts/weil-mclain-e10-low-pressure/)
-- [Weil-McLain A45 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a45-error-code/)
-- [Weil-McLain A67 Error - Causes & Fix](/posts/weil-mclain-boiler-a67-error-code/)

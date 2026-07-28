@@ -17,15 +17,12 @@ money_part: "Bulk detergent dispenser assembly"
 part_price: "$30-80"
 ---
 
-## Whirlpool Dishwasher F8E2 Error Code — What It Means
-
+## What this code means
 The F8E2 code on Whirlpool dishwashers indicates a problem with the dispenser system, specifically the bulk detergent dispenser on models equipped with one. Whirlpool's published dishwasher help identifies this as a dispenser communication or mechanical fault. The control board cannot verify that the dispenser is operating correctly, either because the dispenser is clogged, not installed properly, missing detergent, or because of an electrical problem in the dispenser circuit. The exact meaning is specific to dishwashers. Whirlpool uses the same code family differently on laundry machines, so always refer to the dishwasher documentation for your model.
 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when the real problem is detergent residue jamming the dispenser. Always power reset, remove the dispenser, clean it thoroughly, and reseat it before ordering any electronic parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

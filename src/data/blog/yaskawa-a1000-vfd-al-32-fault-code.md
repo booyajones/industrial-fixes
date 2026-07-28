@@ -19,8 +19,7 @@ free_checks:
 part_price: "$150-500 for a communication option card (varies by card type)"
 ---
 
-## Yaskawa A1000 oFA32 — What It Means
-
+## What this code means
 The oFA32 fault on a Yaskawa A1000 VFD indicates a Communication Option Card Connection Error at the CN5-A port. The drive's control logic has detected that the option card installed in that slot (for example a DeviceNet, Ethernet, or Modbus communication adapter) is missing, damaged, or non-functional. It can also mean the control board port itself is defective.
 
 This is a digital handshake failure, not a simple loose wire. The drive expects to see a valid option card and cannot communicate with it. The fault will persist until the card or control board is repaired or replaced.
@@ -28,8 +27,6 @@ This is a digital handshake failure, not a simple loose wire. The drive expects 
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire control board when only the communication option card has failed. Always test with a known good option card of the same type before condemning the control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician for this repair. The A1000 drive operates at high DC bus voltages (approximately 145% of line-to-line input voltage, around 650 Vdc for a 400 V line). Working inside the drive requires lockout-tagout procedures, verification that the DC bus is below 50 Vdc, and familiarity with communication option cards and control board replacement. Incorrect handling can result in electric shock or damage to the drive and connected equipment.
 
 **Rough cost:** A pro service call runs about $200-800 depending on whether the option card or control board needs replacement.
-
-## See Also
-
-- [Yaskawa GA800 A.109 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-109-fault-code/)
-- [Yaskawa GA800 E34 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e34-fault-code/)
-- [Yaskawa GA800 E95 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e95-fault-code/)
-- [Yaskawa GA800 E46 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e46-fault-code/)

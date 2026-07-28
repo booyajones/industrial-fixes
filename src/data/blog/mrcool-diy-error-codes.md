@@ -17,8 +17,6 @@ money_part: "Indoor room sensor (F1)"
 
 The Mr. Cool DIY is a pre-charged ductless mini split designed for homeowner installation using the Quick-Connect refrigerant line set. It is available from 9,000 to 36,000 BTU and has become one of the most popular DIY mini splits sold in North America. Error codes appear on the indoor unit LED display and in the Mr. Cool Smart Controller app when connected via Wi-Fi.
 
-[Jump to Fix](#fix)
-
 ## Mr. Cool DIY Error Code Reference
 
 | Code | Meaning |

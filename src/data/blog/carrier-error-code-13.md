@@ -13,8 +13,7 @@ tags:
   - error-code
 ---
 
-## Carrier Error Code 13 — What It Means
-
+## What this code means
 Carrier error code 13 is a **limit circuit lockout** — the furnace's high limit switch has opened and tripped so many times during a single heating cycle that the control board has locked the furnace out entirely. On most Carrier control boards, code 13 displays as a **1-3 blink pattern** (1 flash, pause, 3 flashes).
 
 Here's the important detail most people don't know: **code 13 auto-resets after 3 hours**. The furnace will attempt to restart on its own. This is why so many people search for code 13 — they wake up cold, see the code, and then an hour or two later the furnace starts working again. It seems fixed, but the underlying problem is still there and will cause another lockout.
@@ -22,8 +21,6 @@ Here's the important detail most people don't know: **code 13 auto-resets after 
 Code 13 is not the root problem. It's the furnace telling you code 33 (limit fault) happened repeatedly and it's done trying until things cool down. Fix the cause of the repeated limit trips or you'll be back here again.
 
 In 80% of cases, a clogged air filter is the entire problem. Check that first.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -84,12 +81,5 @@ If you've replaced the air filter, confirmed all vents are open, replaced the li
 
 ## Related Error Codes
 
-- [Carrier Furnace Error Code 33 — Flame Rollout & High Limit Switch Fix](/posts/carrier-error-code-33/)
+- Carrier Furnace Error Code 33 — Flame Rollout & High Limit Switch Fix
 - [Carrier Furnace Error Code 31 — Pressure Switch Open Fix](/posts/carrier-error-code-31/)
-
-## See Also
-
-- [Carrier WeatherMaker RTU Error Code 23 — Fix](/posts/carrier-weathermaster-rtu-error-code-23/)
-- [Carrier 30XA Commercial Chiller Fault Codes — Common Faults and Fixes](/posts/carrier-commercial-chiller-fault/)
-- [Carrier 34 Error Code — Ignition Proving Failure Fix](/posts/carrier-34-error-code/)
-- [Carrier 33 Error Code — Causes & Fix](/posts/carrier-33-error-code/)

@@ -13,11 +13,8 @@ money_part: "Siemens G120 cooling fan assembly"
 most_likely_cause: "Blocked or restricted airflow"
 ---
 
-## Siemens G120 A05000 Alarm — What It Means
-
+## What this code means
 A05000 is an alarm, not a fault that trips the drive. It means the inverter heatsink temperature has reached the warning threshold and is approaching the point where the drive will shut down to protect itself. The drive continues running when this alarm appears, but you need to address the heat problem before it escalates to a full fault condition. The alarm response behavior is controlled by parameter p0290.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ A05000 is an alarm, not a fault that trips the drive. It means the inverter heat
 ## When to Call a Pro
 
 Call a qualified electrician or drive technician if the alarm persists after you have cleaned the heatsink, confirmed fan operation, and verified ambient temperature and load conditions are within spec. Also call for help if you are uncomfortable working inside energized electrical enclosures, if the drive shows other simultaneous alarms or faults, or if you need to adjust parameters and are unfamiliar with Siemens drive programming. A technician can perform deeper diagnostics, check the temperature sensor circuit, verify parameter settings, and determine if the drive itself has internal damage requiring repair or replacement.
-
-## See Also
-
-- [Siemens G120 F01018 - Causes & Fix](/posts/siemens-g120-f01018-fault-code/)
-- [Siemens G120 F01205 - Causes & Fix](/posts/siemens-g120-f01205-fault-code/)
-- [Siemens SINAMICS G120 F30002 Fault — DC Link Overvoltage Fix](/posts/siemens-sinamics-f30002-fault/)
-- [Siemens G120 F01662 - Causes & Fix](/posts/siemens-g120-vfd-f01662-fault-code/)

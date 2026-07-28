@@ -14,8 +14,7 @@ money_part: "Yaskawa GA800 control board"
 most_likely_cause: "Misread or transposed display"
 ---
 
-## Yaskawa GA800 E81 Fault Code — What It Means
-
+## What this code means
 The E81 fault code does not appear in the indexed Yaskawa GA800 maintenance and troubleshooting documentation. It may be a display misread (such as Er-21 or another similar-looking code), a variant specific to a custom firmware revision, or a code from a different Yaskawa drive series. Yaskawa documentation directs technicians to read the exact fault from the keypad event log, then cross-reference it in the official manual to identify the fault category (such as overcurrent, overvoltage, communication loss, or sensor error) and follow the corresponding diagnostic flowchart.
 
 Because the GA800 manual does not define E81, the safest approach is to confirm the code display, inspect the application context (input power quality, motor leads, control wiring, encoder or safety I/O if used), and contact Yaskawa technical support with the drive model number, specification code, serial number, and the exact fault code for an authoritative interpretation.
@@ -23,8 +22,6 @@ Because the GA800 manual does not define E81, the safest approach is to confirm 
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board or main power module before verifying the exact fault definition and checking input power, loose connections, or encoder wiring. Always confirm the code in the manual and perform voltage and wiring checks first.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or Yaskawa-certified technician if you cannot find E81 in your printed manual, if the fault persists after wiring checks and power-quality verification, or if you lack the test equipment to safely measure high-voltage DC bus and gate-driver signals. Yaskawa technical support requires the drive model number, specification code, serial number, and exact fault code to provide a diagnosis. Do not replace the control board or power module without confirming the fault definition, because input power issues, encoder wiring errors, and parameter mismatches often mimic internal hardware failures and will damage a new board if the root cause is not corrected first.
 
 **Rough cost:** A pro service call runs about $150–500 depending on whether the issue is wiring, a control board, or a power module.
-
-## See Also
-
-- [Yaskawa GA800 F048 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f048-fault-code/)
-- [Yaskawa VFD Fault BB — Causes & Fix](/posts/yaskawa-vfd-fault-bb/)
-- [Yaskawa GA800 F023 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f023-fault-code/)
-- [Yaskawa A1000 oL2 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol2-fault-code/)

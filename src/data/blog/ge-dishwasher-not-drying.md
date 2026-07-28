@@ -19,8 +19,6 @@ A GE dishwasher that leaves dishes wet at the end of a cycle is not tied to one 
 
 Common real-world causes range from simple user settings (no heated dry selected, empty rinse aid) to component failures in the heating circuit. The heating element, thermal cutoff, flood switch or thermistor assembly, and occasionally the main control can all prevent proper drying even when the wash performance is fine.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Heated dry option not selected or eco cycle active** Many GE cycles skip heated dry by default or use minimal heat to save energy, leaving dishes damp.
@@ -64,8 +62,8 @@ If your appliance also shows a code on the display, these match this problem:
 - [Ge Dishwasher C8 error code](/posts/ge-dishwasher-c8-error-code/)
 - [Ge Dishwasher Ef error code](/posts/ge-dishwasher-ef-error-code/)
 - [Ge Dishwasher F56 error code](/posts/ge-dishwasher-f56-error-code/)
-- [Ge Dishwasher F9 error code](/posts/ge-dishwasher-f9-error-code/)
-- [Ge Dishwasher Ff error code](/posts/ge-dishwasher-ff-error-code/)
+- Ge Dishwasher F9 error code
+- Ge Dishwasher Ff error code
 
 ## When to Call a Pro
 

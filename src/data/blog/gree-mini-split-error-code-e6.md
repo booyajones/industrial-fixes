@@ -13,11 +13,8 @@ money_part: "Communication wire (3-conductor, 18 AWG)"
 most_likely_cause: "Loose or miswired communication wire"
 ---
 
-## Gree Mini-Split E6 Error Code — What It Means
-
+## What this code means
 The Gree E6 error code indicates a **communication error between the indoor and outdoor units**. Gree mini-splits use a serial communication line (typically 3-wire: L1, L2/Neutral, and S/Signal) to pass operating data between the indoor and outdoor boards. When the indoor unit stops receiving valid data from the outdoor unit (or vice versa), E6 is stored and the system shuts down. This is one of the most common Gree fault codes and is frequently caused by wiring issues rather than board failures.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,11 +41,3 @@ The Gree E6 error code indicates a **communication error between the indoor and 
 ## When to Call a Pro
 
 If all wiring checks out and power is confirmed at both units but E6 persists after a power-cycle, one of the PCBs has a failed communication circuit. Board replacement requires matching the exact Gree model and refrigerant series — use a Gree-authorized service technician to avoid compatibility issues.
-
-## Related Articles
-
-- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
-- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
-- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
-- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
-- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)

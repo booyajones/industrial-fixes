@@ -57,18 +57,3 @@ The ECM blower motor on variable-speed Lennox furnaces has reported a fault. Thi
 
 ## When to Call a Pro
 Codes 225 (roll-out) and 411 (flame without call) require professional inspection before the furnace is restarted. A cracked heat exchanger or leaking gas valve are not DIY repairs.
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-
-## See Also
-
-- [Lennox Error Code 223 — Causes & Fix](/posts/lennox-error-code-223/)
-- [Lennox SL297NV Error Codes: iComfort Fault Code Diagnostic Guide](/posts/lennox-sl297nv-error-codes/)
-- [Lennox Error Code 114 — Causes & Fix](/posts/lennox-error-code-114/)
-- [Lennox SLP98V Error Codes — Variable-Speed Furnace Fault Guide](/posts/lennox-slp98v-error-codes/)

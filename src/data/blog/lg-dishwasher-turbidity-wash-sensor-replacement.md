@@ -67,10 +67,3 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 If you are uncomfortable working around electrical connectors in the wet sump area, or if the dishwasher continues to show sensor faults or abnormal cycle behavior after you have cleaned the sensor window and checked the harness connection, call a qualified appliance technician. Multiple sensors (turbidity, thermistor, water level) share the same sump space, and misidentifying the failed component or damaging the wiring harness during replacement can lead to new faults or water leaks that cost more to fix than the original problem.
-
-## See Also
-
-- [LG Refrigerator gF Error Code - Causes & Fix](/posts/lg-refrigerator-gf-error-code/)
-- [LG Microwave Runs but No Heat - Causes & Fix](/posts/lg-microwave-runs-but-no-heat/)
-- [LG EID Error Code - Causes & Fix](/posts/lg-refrigerator-eid-error-code/)
-- [LG Mini Split CH44 Error Code - Causes & Fix](/posts/lg-mini-split-ch44-error-code/)

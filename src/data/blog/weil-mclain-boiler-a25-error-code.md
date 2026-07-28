@@ -19,15 +19,12 @@ free_checks:
   - "Verify the closely spaced tees are no farther apart than about 12 inches per Weil-McLain specs"
 ---
 
-## Weil-McLain Boiler A25 Error — What It Means
-
+## What this code means
 A25 is not a universal code across all Weil-McLain models. On Ultra-series controls, the closely related code B-25 (which may be the same fault on your system) is a soft lockout that shuts down the burner for about 10 minutes because the boiler temperature rose too quickly or hit the high-limit safety threshold. This lockout is designed to protect the heat exchanger from thermal stress when normal heat removal is not happening. The boiler will attempt to restart automatically after the lockout period expires, but the fault will recur if the underlying flow or sensor problem is not corrected.
 
 ## Before You Replace Anything
 
 Homeowners often assume the control board is at fault and replace it first. Test the supply and return sensors with a multimeter and verify circulator operation before spending money on a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable working with 120V or 24V boiler controls, testing sensors with a multimeter, or diagnosing hydronic flow and piping layout. A technician will use a clamp-on ammeter to verify circulator current draw, resistance tables to test sensors accurately, and a digital manometer to check system pressure. Gas-fired boilers also require annual combustion testing and flue analysis, which only a licensed technician should perform. If the fault persists after sensor and pump checks, the control board or wiring may need diagnosis with specialized tools.
 
 **Rough cost:** A pro service call runs about $200-400.
-
-## See Also
-
-- [Weil-McLain Boiler A59 Error - Causes & Fix](/posts/weil-mclain-boiler-a59-error-code/)
-- [Weil-McLain Boiler A34 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a34-error-code/)
-- [Weil-McLain A82 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a82-error-code/)
-- [Weil-McLain Boiler Error Code E08 — Causes & Fix](/posts/weil-mclain-e08-error-code/)

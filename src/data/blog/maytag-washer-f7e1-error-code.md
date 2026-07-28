@@ -17,8 +17,7 @@ money_part: "Maytag washer shift actuator"
 part_price: "$40-150"
 ---
 
-## Maytag Washer F7E1 Error Code — What It Means
-
+## What this code means
 F7E1 is a motor speed sensing or drive system fault. On front-load Maytag washers it means the control has detected a motor speed sensing error and the motor cannot achieve the correct speed for the cycle. On top-load Maytag washers Maytag's product help treats F7E1 as a control fault that may clear with a power reset. In practical service terms the fault is usually a missing or incorrect tachometer or speed-feedback signal, or the machine is physically unable to reach the expected spin or agitate speed because of mechanical drag, overload, or a failed speed-sensing component.
 
 The code can appear when shipping bolts have been left installed on a new front-load machine, when the load is severely off-balance or overloaded, when wiring or connectors between the motor and control board are loose or corroded, or when the shift actuator or drive-train hardware has failed. A simple power reset clears the code about half the time if it was a transient glitch. If the code returns immediately the machine usually has a real hardware or mechanical problem that requires diagnosis and part replacement.
@@ -26,8 +25,6 @@ The code can appear when shipping bolts have been left installed on a new front-
 ## Before You Replace Anything
 
 Many people replace the main control board first. Instead, unplug the machine for five minutes to reset, verify shipping bolts are removed on front-load models, and inspect the shift actuator and wiring harness before replacing any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

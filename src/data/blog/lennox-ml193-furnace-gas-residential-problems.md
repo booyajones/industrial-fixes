@@ -44,10 +44,3 @@ Common reliability issues center on the flame-sensing circuit and venting system
 ## When to Call a Pro
 
 Call a licensed HVAC technician for all gas supply work, including valve testing, manifold pressure checks, and gas line repairs. Professional diagnosis is needed for persistent ignition faults after sensor cleaning, suspected heat exchanger cracks causing rollout, control board replacement, or when multiple error codes appear in the stored fault history. If you see 7-flash codes with clean filters and good airflow, the heat exchanger may be restricted or damaged and requires inspection. Pressure switch and inducer diagnostics require manometer testing and vent system evaluation best handled by a qualified tech. Always have a pro verify proper combustion air supply, venting integrity, and flame characteristics during annual maintenance.
-
-## See Also
-
-- [Lennox E204 Error Code - Causes & Fix](/posts/lennox-furnace-e204-error-code/)
-- [Lennox iComfort EFO Error Code — Excessive Flame Out and Common iComfort Faults](/posts/lennox-icomfort-error-codes/)
-- [Lennox SL297NV Error Codes: iComfort Fault Code Diagnostic Guide](/posts/lennox-sl297nv-error-codes/)
-- [Lennox EL296V Furnace Problems & Error Codes](/posts/lennox-el296v-furnace-gas-residential-problems/)

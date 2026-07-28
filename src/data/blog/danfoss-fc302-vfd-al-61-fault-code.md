@@ -19,8 +19,7 @@ free_checks:
   - "Reset the drive after checking wiring to see if the fault clears"
 ---
 
-## Danfoss FC302 AL-61 — What It Means
-
+## What this code means
 AL-61 is a Feedback Error alarm on the Danfoss FC302 VFD. It triggers when the drive's internal speed calculation (based on output voltage and frequency) does not match the actual motor speed reported by the external feedback device, such as an encoder or sensor. The discrepancy exceeds the tolerable error limit set in the drive parameters. This fault is a safety feature to prevent loss of closed-loop control and protect both the motor and the driven load.
 
 The drive continuously compares its calculated speed against the real-time feedback signal. If the two values diverge beyond the threshold defined in parameter 4-31 (Motor Feedback Speed Error) for longer than the timeout set in parameter 4-32 (Motor Feedback Loss Timeout), the drive trips AL-61. The fault can be configured to trigger a warning or a full trip through parameter 4-30 (Motor Feedback Loss Function).
@@ -28,8 +27,6 @@ The drive continuously compares its calculated speed against the real-time feedb
 ## Before You Replace Anything
 
 Technicians often replace the encoder or motor first. Check encoder wiring connections, parameter settings (4-30, 4-31, 4-32), and test the encoder signal integrity with a megohmmeter before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if you lack experience with three-phase electrical systems, closed-loop motor control, or encoder troubleshooting. High-voltage work on the drive's DC bus and IGBT modules carries serious shock and arc-flash hazards. If the fault persists after checking wiring and adjusting parameters, internal drive diagnostics and component-level testing require specialized tools and training. Professional service is also necessary if motor winding insulation has degraded or if mechanical binding cannot be identified and corrected safely. A technician can perform precise signal integrity tests, load current analysis, and determine whether the encoder, motor, or drive itself needs replacement.
 
 **Rough cost:** A pro service call runs about $150-400 depending on whether wiring repair, encoder replacement, or motor testing is required.
-
-## See Also
-
-- [Danfoss FC302 VFD AL-87 - Causes & Fix](/posts/danfoss-fc302-vfd-al-87-fault-code/)
-- [Danfoss FC302 VFD Alarm 37 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-37-fault-code/)
-- [Danfoss FC302 AL-118 - Causes & Fix](/posts/danfoss-fc302-vfd-al-118-fault-code/)
-- [Danfoss FC302 AL-17 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-117-fault-code/)

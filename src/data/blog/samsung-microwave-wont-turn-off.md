@@ -19,8 +19,6 @@ When a Samsung microwave won't turn off or displays an SE (Key Short Error) code
 
 This is almost always a touchpad, ribbon cable, or control board problem, not a door latch or heating component issue. Samsung's own support documentation identifies SE as a keypad short condition and recommends a power reset followed by service if the code persists.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty or oxidized ribbon cable connection** The flat ribbon cable between the touchpad and control board develops corrosion or debris on its copper contacts, creating a false short that the board reads as a stuck key.
@@ -53,7 +51,7 @@ This is almost always a touchpad, ribbon cable, or control board problem, not a 
 If your appliance also shows a code on the display, these match this problem:
 
 - [Samsung Microwave 5E error code](/posts/samsung-microwave-5e-error-code/)
-- [Samsung Microwave C 10 error code](/posts/samsung-microwave-c-10-error-code/)
+- Samsung Microwave C 10 error code
 - [Samsung Microwave C 11 error code](/posts/samsung-microwave-c-11-error-code/)
 - [Samsung Microwave C 12 error code](/posts/samsung-microwave-c-12-error-code/)
 - [Samsung Microwave C 20 error code](/posts/samsung-microwave-c-20-error-code/)

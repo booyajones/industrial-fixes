@@ -22,8 +22,7 @@ part_price: "$25-65"
 no_buy_pct: "40%"
 ---
 
-## Kenmore Oven F5 Error Code — What It Means
-
+## What this code means
 On Whirlpool-built Kenmore ovens and ranges, the F5 error code signals a problem with the door latch system. This includes the oven door latch assembly, the door latch switch (or switches), or the wiring connecting them. The control board has detected that the latch mechanism is not operating correctly, is stuck, or is not sending the right signal when the door closes or unlocks.
 
 The fault often appears after a self-clean cycle or a power outage, when the latch stays in the locked position or the switch fails to register the door position. The latch assembly may be bent, misaligned, or binding mechanically so it cannot reach or actuate the switch properly. Damaged wiring or loose connectors between the latch and the control board can also trigger the code.
@@ -31,8 +30,6 @@ The fault often appears after a self-clean cycle or a power outage, when the lat
 ## Before You Replace Anything
 
 Many people replace the electronic oven control board first, assuming the code means a board failure. Instead, inspect and test the door latch mechanism and switch before buying any expensive electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

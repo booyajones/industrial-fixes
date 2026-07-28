@@ -60,14 +60,6 @@ The Intellisys controller tracks service intervals by run hours. Level 1 is typi
 | Temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-ingersoll-rand-r-series-faults&tag=errorcodefixes-20) \| Match Intellisys controller input type |
 > **Pro tip:** Ingersoll-Rand Intellisys controllers on networked compressor rooms can be monitored remotely via the IR Connect app. Fault alerts can be sent to maintenance personnel by email or text, enabling faster response to high-temperature events before the compressor shuts down.
 
-## Related Articles
-
-- [Air Compressor Fault Codes: Complete Guide](/posts/air-compressor-fault-codes/)
-- [Atlas Copco Air Compressor Fault Codes — Complete Guide](/posts/atlas-copco-compressor-fault-codes/)
-- [BOGE Air Compressor Error Codes - Complete Guide](/posts/boge-compressor-error-codes/)
-- [Chicago Pneumatic Compressor Fault Codes — Complete Guide](/posts/chicago-pneumatic-compressor-faults/)
-- [CompAir Air Compressor Fault Codes - Complete Guide](/posts/compair-compressor-fault-codes/)
-
 ## More Ingersoll Rand R Series fault codes
 
 Compiled from manufacturer service manuals and authorized documentation.
@@ -87,7 +79,6 @@ Compiled from manufacturer service manuals and authorized documentation.
 | A:2816 | Power failure detected (warning). | The controller logged a loss or interruption of supply power. | Confirm stable incoming power and connections; investigate the plant electrical supply if the warning recurs. |
 | A:4804 | Service due - the service-interval hours counter has reached zero. | Scheduled maintenance interval has elapsed based on run hours. | Perform the due maintenance (filters, oil, separator as applicable) and reset the service timer in the controller menu. |
 
-
 ## How to troubleshoot Ingersoll Rand R Series
 
 Ingersoll Rand R-Series units ship with different controllers depending on age. Older machines use the Intellisys panel with plain-text messages, while current fixed-speed R-Series (roughly R7.5 through R160) use the Xe-M family (Xe-70M, Xe-90M, Xe-145M). The Xe controllers split faults into two classes you should read differently: an alarm/warning code prefixed with **A:** keeps the compressor running so you can act before it stops, and a shutdown/trip code prefixed with **E:** stops the machine immediately. Note the exact code before you reset anything, since the controller logs history with run hours and timestamps.
@@ -97,7 +88,6 @@ Start with the highest-frequency failure mode on rotary screw compressors: heat.
 For pressure faults, separate a real over-pressure event (E:0119 trip, A:2118 warning) from a sensor problem (E:0115, a 4-20 mA signal out of range). A genuine over-pressure points to plant demand, a closed downstream valve, or inlet/blowdown valve and regulation trouble; an out-of-range signal points to the transducer or its wiring. Rising separator delta-P (A:0060) and service-due (A:4804) are maintenance prompts, not breakdowns, and ignoring them raises energy cost and risks oil carryover.
 
 Safety and escalation: these are three-phase machines with stored air pressure and hot oil. Before opening panels or touching the airend, lock out and tag out power and fully depressurize the sump and receiver. Electrical faults (E:0010 emergency stop, E:0020 motor overload, E:0866 control power) and any repeat trip after one reset are the point to bring in an authorized Ingersoll Rand service technician rather than repeatedly clearing the code. Repeated resets on an unresolved high-temperature or overload trip can destroy the airend or motor.
-
 
 ## Frequently asked questions
 
@@ -120,4 +110,3 @@ No. A:4804 is a maintenance reminder, not a fault; it appears when the run-hour 
 ### The controller shows a motor overload trip (E:0020). What should I check first?
 
 Check the incoming three-phase voltage and balance first, since even a small voltage imbalance drives a large current imbalance. Then measure motor amps, verify the unit isn't starting under load, and inspect the airend and cooling fan for binding. Only reset the overload relay after you've found and cleared the cause.
-

@@ -19,8 +19,6 @@ When an Electrolux or Frigidaire front-load washer fills, agitates, and drains b
 
 Beyond the door lock itself, Electrolux documents that spin can also be blocked by an unbalanced load, a clogged drain filter or kinked drain hose, the Rinse Hold option being active, or a leaking or damaged door seal. The machine is designed to stop or skip spin if any of these conditions exist, so a methodical check of each area will locate the real fault.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Faulty door lock assembly or PTC wax motor** The door lock actuator or its internal PTC (wax motor) fails open, so the control board will not permit spin and may log code E47.

@@ -17,8 +17,7 @@ money_part: "GE range meat probe"
 part_price: "$15-40"
 ---
 
-## GE Range FD Error Code — What It Means
-
+## What this code means
 The FD error code on a GE range signals a shorted meat probe circuit. The control board detects an electrical short somewhere in the path between the probe jack and the control itself. In practice this fault appears when the range thinks the probe circuit is continuously closed or has near-zero resistance, even when no probe is plugged in or when the probe should be open-circuit.
 
 The issue is usually in the probe itself, the receptacle where the probe plugs in, or the wiring harness that connects the jack to the electronic control. A true control board fault is less common but possible if all other parts check out. The code will typically prevent you from using probe functions and may lock out other oven features until the fault is cleared.
@@ -26,8 +25,6 @@ The issue is usually in the probe itself, the receptacle where the probe plugs i
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board when the real fault is a $20 meat probe. Always remove the probe and verify whether the code clears before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

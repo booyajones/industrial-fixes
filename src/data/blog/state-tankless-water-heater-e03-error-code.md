@@ -13,13 +13,10 @@ money_part: "Inlet filter screen or sediment strainer"
 most_likely_cause: "Clogged inlet screen or filter"
 ---
 
-## State Tankless Water Heater E03 Error Code — What It Means
-
+## What this code means
 The E03 error code on State tankless water heaters is not universal across all models. On some State/A. O. Smith electric tankless platforms, E03 indicates "low water level in heater." On other gas tankless units, an E3 or E03 code may point to an overheat condition or thermal cutout trip. Because State has used multiple OEM platforms over the years, the exact meaning depends on your specific model. The common thread is that E03 typically flags a problem with water flow, temperature safety limits, or heat buildup inside the unit.
 
 Before attempting any repair, locate your model number (usually on the rating plate) and download the correct State service manual or contact State customer support to confirm what E03 means for your heater. Gas and electric models use different sensors and safety devices, so the diagnostic path varies. Most E03 faults trace back to restricted water flow, a clogged inlet filter, scale buildup in the heat exchanger, or a tripped thermal safety device.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

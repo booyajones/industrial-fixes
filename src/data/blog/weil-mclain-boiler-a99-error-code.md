@@ -17,13 +17,10 @@ free_checks:
   - "Compare the displayed code with the fault table in your model's service manual or wiring diagram"
 ---
 
-## Weil-McLain A99 Error Code — What It Means
-
+## What this code means
 A99 does not appear as an official fault code in published Weil-McLain documentation for their boiler control platforms. Weil-McLain uses model-specific fault codes that vary by boiler family and control type. What appears on your display may be a partial reading, a custom installer code, or a display error.
 
 Because Weil-McLain directs technicians to retrieve the stored fault history from the control and then diagnose according to the applicable service manual for that specific model, you need to first identify your exact boiler model number and control board version before any repair work begins. The correct workflow is to access the control's diagnostic menu, pull the lockout or error log, and cross-reference the actual fault number with your model's service documentation.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -71,10 +68,3 @@ Answer these to narrow it down fast.
 Call a licensed heating technician immediately if you cannot identify your boiler model, cannot access the diagnostic menu, or if the boiler is locked out and will not restart. Gas-fired boilers require proper combustion analysis and safety checks that only qualified professionals can perform. If A99 appears alongside other symptoms such as no heat, unusual noises, or gas odors, shut off the boiler and gas supply and call for service right away. Weil-McLain also recommends that any warranty or complex control work be handled by an authorized service provider who can document the CP number, failed part number, and proper replacement procedure.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain Boiler A39 Error - Causes & Fix](/posts/weil-mclain-boiler-a39-error-code/)
-- [Weil-McLain Boiler Error Code E10 — Low Water Pressure Fix](/posts/weil-mclain-e10-low-pressure/)
-- [Weil-McLain Boiler A56 Error - Causes & Fix](/posts/weil-mclain-boiler-a56-error-code/)
-- [Weil-McLain A85 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a85-error-code/)

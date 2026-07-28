@@ -13,11 +13,8 @@ money_part: "Refrigerant charge"
 most_likely_cause: "Refrigerant leak at flare or braze joint"
 ---
 
-## Daikin U4 Error Code — What It Means
-
+## What this code means
 For the Daikin systems targeted here, U4 points to a refrigerant leak or low-pressure condition. The outdoor unit sees suction pressure or derived refrigerant conditions outside the safe operating window and shuts the system down before the compressor runs damaged from low mass flow or oil return problems. In the field, U4 usually shows up after a slow leak at a flare joint, service valve, branch box connection, or indoor coil. A severely restricted metering path can create the same symptom.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,21 +41,3 @@ For the Daikin systems targeted here, U4 points to a refrigerant leak or low-pre
 ## When to Call a Pro
 
 Leak repair, evacuation, and charging require EPA 608 certification and the correct Daikin charge procedure. If U4 is real, running the unit low on charge can damage the compressor fast.
-
-## Related Articles
-
-- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
-- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
-- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
-- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
-- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)
-
-<!-- INTERNAL-LINK-AUTO -->
-**Related:** [Rheem EcoNet A101 error code fix](/posts/rheem-econet-a101-error-code/)
-
-## See Also
-
-- [Daikin U3 Error Code - Causes & Fix](/posts/daikin-u3-error-code/)
-- [Daikin R-32 System U4 Error Code — Communication Fault Fix](/posts/daikin-r32-error-code-u4/)
-- [Daikin E5 Error Code - Causes & Fix](/posts/daikin-e5-error-code/)
-- [Daikin E6 Error Code - Causes & Fix](/posts/daikin-e6-error-code/)

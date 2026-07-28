@@ -19,8 +19,6 @@ A Kenmore dishwasher not draining means standing water remains in the tub after 
 
 The symptom can be caused by a physical restriction in the drain path, a failed drain pump, or a control or wiring fault that prevents the pump from running. Some models also tie drain faults to float switch or diverter problems. The diagnostic sheet for your model will list the stored codes and component test procedures.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged filter or sump area** A dirty or restricted filter set is one of the most common causes of poor drain performance.
@@ -54,14 +52,14 @@ The symptom can be caused by a physical restriction in the drain path, a failed 
 If your appliance also shows a code on the display, these match this problem:
 
 - [Kenmore Dishwasher E04 error code](/posts/kenmore-dishwasher-e04-error-code/)
-- [Kenmore Dishwasher E05 error code](/posts/kenmore-dishwasher-e05-error-code/)
-- [Kenmore Dishwasher E06 error code](/posts/kenmore-dishwasher-e06-error-code/)
+- Kenmore Dishwasher E05 error code
+- Kenmore Dishwasher E06 error code
 - [Kenmore Dishwasher E07 error code](/posts/kenmore-dishwasher-e07-error-code/)
 - [Kenmore Dishwasher E08 error code](/posts/kenmore-dishwasher-e08-error-code/)
 - [Kenmore Dishwasher E09 error code](/posts/kenmore-dishwasher-e09-error-code/)
 - [Kenmore Dishwasher E10 error code](/posts/kenmore-dishwasher-e10-error-code/)
 - [Kenmore Dishwasher E11 error code](/posts/kenmore-dishwasher-e11-error-code/)
-- [Kenmore Dishwasher E12 error code](/posts/kenmore-dishwasher-e12-error-code/)
+- Kenmore Dishwasher E12 error code
 - [Kenmore Dishwasher E13 error code](/posts/kenmore-dishwasher-e13-error-code/)
 - [Kenmore Dishwasher E14 error code](/posts/kenmore-dishwasher-e14-error-code/)
 - [Kenmore Dishwasher F1E1 error code](/posts/kenmore-dishwasher-f1e1-error-code/)

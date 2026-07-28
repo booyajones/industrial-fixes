@@ -16,15 +16,12 @@ diy_or_pro: "pro"
 money_part: "Bosch refrigerator main control board"
 ---
 
-## Bosch Refrigerator E20 Error — What It Means
-
+## What this code means
 The E20 error code on Bosch refrigerators indicates a communication failure between the main control board and the display control module. The two electronic boards cannot exchange valid data, which prevents the appliance control system from operating correctly. This is typically an electronics or wiring problem rather than a cooling or temperature issue. Less consistent sources mention defrost, drainage, or temperature sensor faults under the same code, so always verify the exact meaning against your model's service manual or wiring diagram if available.
 
 ## Before You Replace Anything
 
 Homeowners often replace the main control board or display module without first inspecting the wiring harness and connectors. Reseat and inspect every plug and look for corrosion or pinched wires before ordering any boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Dishwasher heating element assembly"
 ---
 
-## Bosch Dishwasher E04 Error — What It Means
-
+## What this code means
 On most Bosch dishwasher models, E04 indicates a water flow or circulation problem detected by the machine's flow sensor or flow meter. The control board expects to see a certain volume of water moving through the spray system during the wash cycle. When the sensor does not confirm that flow, the dishwasher stops and displays E04. Some Bosch model lines and third-party sources list E04 as a heating fault or excess foam code, so you should always cross-check the exact meaning in your dishwasher's service documentation or on the rating plate.
 
 The error is most often triggered by blocked spray arms, clogged filters, or limescale buildup that restricts water movement. Less commonly, a dirty or faulty flow sensor, a wiring fault, or a control-board issue can prevent the machine from reading circulation correctly. Because the code definition is not universal across all Bosch dishwashers, confirm your model number and consult the official Bosch manual if cleaning does not clear the fault.
@@ -25,8 +24,6 @@ The error is most often triggered by blocked spray arms, clogged filters, or lim
 ## Before You Replace Anything
 
 Many people replace the control board or flow sensor before inspecting the spray arms and filters. Pull and clean the spray arms and filters first because debris and limescale are far more common than a failed sensor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

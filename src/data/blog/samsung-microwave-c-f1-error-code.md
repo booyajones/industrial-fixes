@@ -17,8 +17,7 @@ money_part: "Main control board PCB"
 part_price: "$100-250"
 ---
 
-## Samsung Microwave C-F1 Error — What It Means
-
+## What this code means
 Samsung labels C-F1 as an EEPROM Read/Write information code and groups it with C-F0 and C-F2 under Communication Error. This means the microwave's control electronics are failing to correctly exchange or store data during a memory operation. The code is not related to simple door switches or keypad faults but instead points to a problem in the control system's ability to read or write to its permanent memory chip.
 
 In practice, technician reports and repair guides commonly interpret C-F1 as a main control board or control PCB problem, especially when the code returns after a power reset. Samsung's published code descriptions do not identify a discrete sensor or relay for C-F1 the way they do for other codes, which supports the board-level diagnosis. The error can sometimes be triggered by a transient power glitch, moisture or contamination affecting the control area, or corrupted EEPROM data, but persistent C-F1 codes after reset and dry-out typically require control board replacement.
@@ -26,8 +25,6 @@ In practice, technician reports and repair guides commonly interpret C-F1 as a m
 ## Before You Replace Anything
 
 Some technicians may suspect the keypad or touch panel first, but C-F1 is an EEPROM communication fault internal to the control board. A simple power reset will clear transient glitches, so if the code returns immediately after reset the board itself is usually at fault rather than an external sensor or switch.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

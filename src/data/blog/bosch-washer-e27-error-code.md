@@ -21,8 +21,7 @@ free_checks:
 part_price: "$50-85"
 ---
 
-## Bosch Washer E27 Error Code — What It Means
-
+## What this code means
 The E27 error code on a Bosch washer indicates a door-lock or door-interlock fault. The control system cannot confirm that the door is locked or that the lock circuit is working correctly. The washer will not start a cycle until the door lock confirms a secure latch.
 
 This code is specific to the door-lock mechanism and its electrical circuit. It is not related to water inlet or drainage. One source online describes E27 as a water-intake problem, but that information conflicts with Bosch washer-specific repair documentation and should be disregarded for washers.
@@ -30,8 +29,6 @@ This code is specific to the door-lock mechanism and its electrical circuit. It 
 ## Before You Replace Anything
 
 Some owners replace the main control board thinking it is a logic fault. Test the door lock assembly first by inspecting for power at the lock connector and checking whether the latch physically engages when the door is shut.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

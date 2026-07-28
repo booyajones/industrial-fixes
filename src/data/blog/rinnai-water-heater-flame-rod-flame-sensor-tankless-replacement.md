@@ -52,10 +52,3 @@ Over time, combustion byproducts can deposit on the rod surface. Even a thin lay
 ## When to Call a Pro
 
 If cleaning or replacing the flame rod does not clear the ignition or flame-loss fault, the problem may be low gas pressure, incorrect fuel-type configuration, venting or airflow restrictions, burner contamination, or a faulty control board. Diagnosing gas supply issues, verifying line sizing, adjusting combustion settings, and working inside the gas-valve or burner assembly require a licensed technician with proper manometers and combustion-analysis tools. Call a Rinnai-qualified service tech if you see repeated codes after rod replacement, if you smell gas, or if you are not comfortable working with gas appliances. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rinnai Code 12 - Flame Failure & Lost Flame Fix](/posts/rinnai-tankless-water-heater-12-error-code/)
-- [Rinnai Error Code 16 — Causes & Fix](/posts/rinnai-error-code-16/)
-- [Rinnai Error Code 07 — Heat Exchanger High Temperature Fix](/posts/rinnai-error-code-07/)
-- [Rinnai Tankless Water Heater Control Board Replacement Guide](/posts/rinnai-water-heater-control-board-pcb-main-board-tankless-replacement/)

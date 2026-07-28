@@ -14,13 +14,10 @@ money_part: "Flame sensor rod"
 most_likely_cause: "Dirty or failed flame sensor"
 ---
 
-## Trane Furnace 2 Flashes — What It Means
-
+## What this code means
 On most Trane residential gas furnaces, 2 flashes indicates an ignition lockout condition. The furnace attempted to light, failed to prove flame, retried, and then locked out for safety. On Trane light-commercial RTRM units, 2 flashes explicitly means system lockout due to failure to sense flame.
 
 The code does not point to one single failed part. Depending on your model family, Trane groups 2-flash faults under ignition failure, flame-proving problems, pressure switch issues, gas valve faults, or control board errors. The exact meaning varies by model, so always verify your specific LED legend in the furnace door or installation manual.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ The code does not point to one single failed part. Depending on your model famil
 ## When to Call a Pro
 
 If cleaning the flame sensor does not resolve the lockout, or if you see no igniter glow, no gas flow, or intermittent pressure-switch behavior, call a licensed HVAC technician. Diagnosing gas-valve power, verifying pressure-switch tubing and setpoints, and testing control-board outputs requires a multimeter and knowledge of the ignition sequence. Any work on gas piping, venting, or the heat exchanger also requires professional tools and combustion analysis to maintain safety and efficiency.
-
-## See Also
-
-- [Trane 8 Flashes Error Code — Causes & Fix](/posts/trane-8-flashes-error-code/)
-- [Trane XL18i Heat Pump Error Codes: Flash Codes and ComfortLink II Faults](/posts/trane-xl18i-error-codes/)
-- [Trane ComfortLink II Communicating Thermostat Fault Codes - What They Mean and How to Fix Them](/posts/trane-communicating-thermostat-fault-codes/)
-- [Trane 4 Flashes Error Code — Open High Limit Fix](/posts/trane-4-flashes-error-code/)

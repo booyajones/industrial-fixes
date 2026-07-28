@@ -17,8 +17,7 @@ likelihood: "the primary cause"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Dryer F23 Error Code — What It Means
-
+## What this code means
 The F23 error code on Kenmore dryers (especially HE3 and Whirlpool-built platforms) indicates an outlet or exhaust thermistor fault. The thermistor is a temperature sensor in the blower or exhaust path that monitors the air leaving the drum. When the main control board sees an open, shorted, or out-of-range signal from this sensor, it throws F23 and stops the dryer to protect the machine. This is fundamentally an electrical sensor-circuit fault, not simply a clogged vent, though poor airflow can sometimes stress the thermistor.
 
 The code tells you the control cannot read valid temperature data from the outlet thermistor circuit. It does not mean the dryer is necessarily overheating right now, only that the sensor or its wiring is not communicating properly with the board.
@@ -26,8 +25,6 @@ The code tells you the control cannot read valid temperature data from the outle
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first when they see an F-code. Before buying a new board, use a multimeter to check the thermistor resistance (should read around 10,000 ohms at room temperature) and inspect the wire connectors; the sensor or a loose connection is usually the real problem.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

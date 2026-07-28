@@ -20,8 +20,7 @@ free_checks:
 part_price: "$25–60"
 ---
 
-## Samsung Range E-08 Error — What It Means
-
+## What this code means
 On Samsung ranges the E-08 (or EO8) fault indicates the control board has commanded the oven to heat but is not detecting the expected temperature rise. On electric models this points to a failure in the heating circuit. On gas models field technicians report the same code when the igniter fails to stay hot enough to open the gas valve reliably. The control is looking for confirmation that the oven is heating and when it does not see that response within the expected time window it throws the E-08 code and stops the heating cycle.
 
 Because Samsung uses this code across multiple model families the exact definition can vary slightly, but the common service interpretation is a no-heat condition. The control board, sensor, and heating components (elements or igniter) form a closed loop and a fault anywhere in that loop will trigger E-08.
@@ -29,8 +28,6 @@ Because Samsung uses this code across multiple model families the exact definiti
 ## Before You Replace Anything
 
 Many people replace the control board first, but a simple continuity test of the heating element or resistance check of the oven temperature sensor usually identifies the real fault and costs far less.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

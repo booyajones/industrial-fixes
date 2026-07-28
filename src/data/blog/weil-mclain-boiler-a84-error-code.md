@@ -17,8 +17,7 @@ free_checks:
   - "Inspect the ignition and flame-sensing electrodes for heavy soot, corrosion, or damage that would prevent proper flame detection."
 ---
 
-## Weil-McLain A84 Error Code — What It Means
-
+## What this code means
 A84 is not a verified standard fault code in Weil-McLain's published documentation for most current boiler models. Weil-McLain uses codes like A01 (no burner ignition), A16, and F07, but A84 does not appear in the AquaBalance or similar control manuals. The code may be specific to an older control board, may be part of the fault history display rather than a current lockout, or may be misread from the boiler's diagnostic screen.
 
 Because the exact meaning of A84 cannot be confirmed from manufacturer sources, the best practice is to verify your boiler's exact model and control board type, then retrieve the full fault history from the diagnostics menu and match it to your installation manual. Most Weil-McLain ignition-related faults trace back to gas supply issues, dirty or damaged ignition and flame-sensing electrodes, faulty gas valves, or sensor and wiring problems.
@@ -26,8 +25,6 @@ Because the exact meaning of A84 cannot be confirmed from manufacturer sources, 
 ## Before You Replace Anything
 
 Many technicians replace the gas valve or ignition board first, but dirty or misaligned electrodes and low gas supply pressure account for the majority of ignition faults. Clean and inspect the ignition and flame-sensing electrodes and verify gas supply pressure (3.5 to 11 in. w.c. on AquaBalance models) before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified heating technician immediately if you cannot locate A84 in your boiler's manual, if you are unfamiliar with gas appliance diagnostics, or if you do not own a manometer to measure gas supply pressure. Gas boiler work requires specialized training to handle combustion air, gas piping, pressure testing, and electrode adjustment safely. A technician will retrieve the fault from the control's history, verify the exact code meaning for your model, test gas pressure and valve operation, inspect and clean or replace electrodes, and confirm proper combustion and venting. Weil-McLain's documentation specifies that all diagnostics and service must be performed by a licensed installer or service agency.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Weil-McLain Boiler A05 Error - Causes & Fix](/posts/weil-mclain-boiler-a05-error-code/)
-- [Weil-McLain A135 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a135-error-code/)
-- [Weil-McLain A88 Error - Causes & Fix](/posts/weil-mclain-boiler-a88-error-code/)
-- [Weil-McLain A110 Error - Causes & Fix](/posts/weil-mclain-boiler-a110-error-code/)

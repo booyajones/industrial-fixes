@@ -17,8 +17,7 @@ likelihood: "the most common final diagnosis"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Dishwasher F1E1 Error — What It Means
-
+## What this code means
 F1E1 on a Kenmore dishwasher signals an internal control-board problem or a communication failure between the main control unit and the user interface. On Whirlpool-built Kenmore models the code appears after the drain sequence starts and then the dishwasher stops operation. Technician references describe F1E1 as a stuck relay on the electronic control unit or a loss of communication between the control board and the keypad panel.
 
 The fault can also point to damaged wiring or a failed component connected to the board, but in most service calls the main control board itself is the root cause. The code typically persists after a power reset when the board has failed.
@@ -26,8 +25,6 @@ The fault can also point to damaged wiring or a failed component connected to th
 ## Before You Replace Anything
 
 Homeowners sometimes replace the user interface or keypad first, but a simple power-cycle test and wiring inspection usually confirm that the main control board is the real problem.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

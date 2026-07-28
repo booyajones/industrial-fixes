@@ -22,8 +22,7 @@ part_price: "$12-35"
 no_buy_pct: "75%"
 ---
 
-## Maytag Dryer ERR Error Code — What It Means
-
+## What this code means
 The ERR code on a Maytag dryer indicates the door has not been completely closed and latched. The dryer will not run until the door switch and latch circuit is satisfied. On models with dual latches, both the upper and lower latch mechanisms must engage for the dryer to start. The control board monitors the door switch circuit and displays ERR when it does not detect a secure closure.
 
 This code is a door-latch condition first, not a control-board fault. The most common scenario is a door that was not pushed firmly enough to click both latches into place. Worn latch hardware or misalignment can also prevent full engagement even when the door appears closed.
@@ -31,8 +30,6 @@ This code is a door-latch condition first, not a control-board fault. The most c
 ## Before You Replace Anything
 
 Do not replace the control board or door switch before verifying that the door latch and strike are physically engaging. A simple power cycle and firm push on the door clears most ERR codes without any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

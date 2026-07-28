@@ -17,8 +17,7 @@ money_part: "Inlet thermistor (inlet temperature sensor)"
 part_price: "$20-50"
 ---
 
-## Maytag Dryer F3E3 Error Code — What It Means
-
+## What this code means
 F3E3 on a Maytag dryer signals an inlet thermistor fault. The control board is detecting an abnormal signal from the temperature sensor located at the air inlet or blower-side air path. This is not simply a no-heat code. It tells you the dryer cannot correctly measure inlet air temperature, which prevents proper heat regulation.
 
 The code will prevent the dryer from running a normal cycle until the sensor circuit is restored. The fault can be triggered by a failed sensor, damaged wiring, or poor connections in the thermistor circuit. In some cases, restricted airflow or heavy lint buildup can create temperature conditions that cause repeated faulting, even if the sensor itself is still functional.
@@ -26,8 +25,6 @@ The code will prevent the dryer from running a normal cycle until the sensor cir
 ## Before You Replace Anything
 
 Homeowners often replace the electronic control board first. Before ordering a board, measure the inlet thermistor resistance (should read around 50,000 ohms at room temperature) and inspect the wiring harness for loose or corroded terminals.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

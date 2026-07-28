@@ -13,13 +13,10 @@ money_part: "Hoist mechanical brake assembly"
 most_likely_cause: "Mechanical brake not releasing"
 ---
 
-## Danfoss FC302 Alarm 22 — What It Means
-
+## What this code means
 Alarm 22 on a Danfoss VLT AutomationDrive FC 302 signals a hoist mechanical brake fault. The alarm includes a subcode that tells you which brake condition failed. Subcode 0 means the drive did not reach the required torque reference before the timeout set in parameter 2-27 Torque Ramp Up Time. Subcode 1 means the expected brake feedback signal was not received before the timeout controlled by parameter 2-23 Activate Brake Delay and parameter 2-25 Brake Release Time.
 
 This fault points directly to the hoist brake system rather than the motor or power stage. The drive is monitoring both the mechanical release of the brake and the electrical feedback that confirms the brake has opened. When either condition times out, the drive trips to prevent unsafe hoist operation.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ This fault points directly to the hoist brake system rather than the motor or po
 ## When to Call a Pro
 
 Call a qualified hoist or VFD technician if you are not trained in hoist brake systems or if the alarm persists after you have verified wiring and adjusted parameters. Hoist brake faults involve load-holding safety and require precise mechanical and electrical integration. A technician with FC 302 and hoist experience can perform load tests, measure brake torque, verify feedback logic, and certify the system meets local lifting equipment codes before returning the hoist to service.
-
-## See Also
-
-- [Danfoss FC302 ALARM 27 - Causes & Fix](/posts/danfoss-fc302-alarm-27-fault-code/)
-- [Danfoss FC302 Alarm 40 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-40-fault-code/)
-- [Danfoss FC302 ALARM 16 - Causes & Fix](/posts/danfoss-fc302-alarm-16-fault-code/)
-- [Danfoss FC302 ALARM 25 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-25-fault-code/)

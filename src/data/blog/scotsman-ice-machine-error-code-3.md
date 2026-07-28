@@ -13,11 +13,8 @@ money_part: "Ice thickness sensor"
 most_likely_cause: "Low refrigerant charge"
 ---
 
-## Scotsman Ice Machine Error Code 3 — What It Means
-
+## What this code means
 Error Code 3 on a Scotsman ice machine indicates a long freeze cycle — the machine took too long to complete the freeze phase and timed out. The control board tracks freeze duration; if the evaporator doesn't reach the harvest trigger (typically the ice thickness sensor or a time limit) within spec, it faults to prevent compressor damage from extended run time.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Error Code 3 on a Scotsman ice machine indicates a long freeze cycle — the mac
 ## When to Call a Pro
 
 Refrigerant diagnosis and recharge requires EPA 608 certification. If condenser and sensor are clean and ambient is normal, have a certified tech check the refrigeration circuit.
-
-## Related Articles
-
-- [Scotsman C0522 Error Codes — Fix Guide](/posts/scotsman-c0522-error-codes/)
-- [Scotsman HID312 Error Codes — Fault Code Diagnostic Guide](/posts/scotsman-hid312-error-codes/)
-- [Scotsman HID525 Error Codes — Complete Guide](/posts/scotsman-hid525-error-codes/)
-- [Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/scotsman-ice-machine-complete-guide/)
-- [Scotsman Ice Machine Error Code 1 — High Pressure Cutout Fix](/posts/scotsman-ice-machine-error-code-1/)
-
-## See Also
-
-- [Scotsman Ice Machine Error Code 7 — Causes & Fix](/posts/scotsman-ice-machine-error-code-7/)
-- [Scotsman C0830 Ice Machine Error Codes - Full Fault Reference](/posts/scotsman-c0830-error-codes/)
-- [Scotsman Ice Machine Error Code 6 — Causes & Fix](/posts/scotsman-ice-machine-error-code-6/)
-- [Scotsman Ice Machine Error Code 4 — Causes & Fix](/posts/scotsman-ice-machine-error-code-4/)

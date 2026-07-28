@@ -13,13 +13,10 @@ money_part: "Fieldbus communication cable (shielded twisted pair)"
 most_likely_cause: "Loose or incorrect fieldbus wiring"
 ---
 
-## ABB ACS550 EFB3 Fault — What It Means
-
+## What this code means
 The EFB3 fault on an ABB ACS550 is a reserved embedded fieldbus code. ABB documentation states that fault codes 31 through 33 (EFB1, EFB2, and EFB3) are protocol dependent, meaning their exact meaning changes based on which communication protocol is active on the drive. This is not a motor phase fault or power-stage failure. Instead, it signals a problem with the network communication or protocol configuration between the drive and the bus master or controller.
 
 In practice, when you see EFB3 on an ACS550, the first assumption is a fieldbus or network issue, not a hardware defect inside the drive itself. The fault typically appears when the drive loses communication with the PLC or bus master, when network wiring is faulty, when station addresses conflict, or when protocol settings do not match the installed system.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ In practice, when you see EFB3 on an ACS550, the first assumption is a fieldbus 
 ## When to Call a Pro
 
 Call a qualified technician if you have verified all wiring, grounding, addressing, and timeout settings but the EFB3 fault persists, or if you are not familiar with the specific fieldbus protocol in use. A professional can use network diagnostic tools to trace protocol-level errors, confirm master-side configuration, and determine whether the drive's communication hardware has failed. Also call for help if the drive is part of a safety-rated or production-line system where incorrect troubleshooting could cause equipment damage or downtime.
-
-## See Also
-
-- [ABB ACS550 EFB1 Fault Code - Causes & Fix](/posts/abb-acs550-efb1-fault-code/)
-- [ABB VFD Fault 2310 — Causes & Fix](/posts/abb-vfd-fault-2310/)
-- [ABB ACS880 Complete Fault Code Guide — All Faults and Fixes](/posts/abb-acs880-complete-guide/)
-- [ABB ACS550 EFB2 Fault Code - Causes & Fix](/posts/abb-acs550-efb2-fault-code/)

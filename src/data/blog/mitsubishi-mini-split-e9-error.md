@@ -11,13 +11,10 @@ tags:
 description: "Mitsubishi mini split E9 error code means outdoor thermistor 2 (discharge pipe) fault. Learn the causes, how to test the thermistor, and fix it step by step."
 ---
 
-## Mitsubishi Mini Split E9 Error Code — What It Means
-
+## What this code means
 The **E9 error code** on a Mitsubishi mini split indicates a fault with the **outdoor unit's second thermistor** — specifically the outdoor discharge pipe thermistor, designated TH3 in Mitsubishi's service manuals (some models call it the outdoor liquid pipe thermistor). This is the temperature sensor that monitors the refrigerant leaving the outdoor coil during cooling, or entering the outdoor coil during heating. When the control board reads an implausible resistance from this sensor — either open circuit (infinite resistance) or short circuit (near-zero resistance) — it locks out the system and displays E9 on the indoor unit.
 
 E9 is the outdoor thermistor 2 fault. It is different from E1 (indoor room temperature thermistor) and functions as a companion fault in the outdoor sensor group. The system cannot safely manage refrigerant temperatures without accurate data from this sensor, so the lockout is designed to protect the compressor from operating under unknown conditions.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -53,18 +50,3 @@ E9 is the outdoor thermistor 2 fault. It is different from E1 (indoor room tempe
 ## When to Call a Technician
 
 If the thermistor and wiring both test good and E9 persists after connector cleaning, the outdoor PCB has failed. PCB replacement on Mitsubishi outdoor units involves disconnecting the refrigerant pressure switch and other safety interlocks, which should be performed by an HVAC technician familiar with Mitsubishi's system. Additionally, if you observe refrigerant oil staining near the discharge pipe where TH3 mounts, a refrigerant leak may have damaged the thermistor or wiring — refrigerant system work requires EPA 608 certification.
-
-## Related Articles
-
-- [Mitsubishi Mini Split E1 Error Code — Indoor Thermistor Fault Fix](/posts/mitsubishi-mini-split-e1-error/)
-- [Mitsubishi Mini Split E6 Error Code — Communication Fault Fix](/posts/mitsubishi-mini-split-e6-error/)
-- [Mitsubishi Mini Split P8 Error Code — Drain Pan / Float Switch Fix](/posts/mitsubishi-mini-split-p8-error/)
-- [Mitsubishi Mini Split U4 Error Code — Outdoor Communication Fault Fix](/posts/mitsubishi-mini-split-u4-error-code/)
-- [Mitsubishi Mini Split Error Codes — Complete Fault Code Guide](/posts/mitsubishi-mini-split-error-codes/)
-
-## See Also
-
-- [Mitsubishi vs Daikin Mini-Splits — A Service Tech's Honest Comparison (2026)](/posts/mitsubishi-vs-daikin-mini-splits/)
-- [Mitsubishi FR-A800 Fault E.OC1, Overcurrent During Acceleration Fix](/posts/mitsubishi-fr-a800-fault-eoc1/)
-- [Mitsubishi E3 Error Code — Indoor Fan Motor Fault Fix](/posts/mitsubishi-e3-error-code/)
-- [Mitsubishi P-Series H6 — Outdoor Fan Motor Fix](/posts/mitsubishi-heat-pump-error-code-h6/)

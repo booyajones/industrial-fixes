@@ -19,8 +19,6 @@ A Whirlpool microwave door that physically won't open points to a mechanical pro
 
 When the door truly won't open, the release mechanism is stuck, the latch hook is bent or damaged, the door spring has broken, or something is physically blocking the latch from disengaging. Packing material left inside, oversized cookware jamming the cavity, dirt buildup on contact surfaces, or a microwave sitting unlevel can all prevent the door from operating normally.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Stuck or broken latch mechanism** A bent door hook, damaged latch assembly, or broken door spring prevents the release button from disengaging the lock.
@@ -53,18 +51,18 @@ When the door truly won't open, the release mechanism is stuck, the latch hook i
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Whirlpool Microwave E03 error code](/posts/whirlpool-microwave-e03-error-code/)
-- [Whirlpool Microwave E11 error code](/posts/whirlpool-microwave-e11-error-code/)
-- [Whirlpool Microwave E12 error code](/posts/whirlpool-microwave-e12-error-code/)
-- [Whirlpool Microwave E13 error code](/posts/whirlpool-microwave-e13-error-code/)
-- [Whirlpool Microwave E21 error code](/posts/whirlpool-microwave-e21-error-code/)
-- [Whirlpool Microwave E22 error code](/posts/whirlpool-microwave-e22-error-code/)
-- [Whirlpool Microwave E23 error code](/posts/whirlpool-microwave-e23-error-code/)
-- [Whirlpool Microwave E24 error code](/posts/whirlpool-microwave-e24-error-code/)
-- [Whirlpool Microwave E61 error code](/posts/whirlpool-microwave-e61-error-code/)
-- [Whirlpool Microwave E62 error code](/posts/whirlpool-microwave-e62-error-code/)
-- [Whirlpool Microwave E63 error code](/posts/whirlpool-microwave-e63-error-code/)
-- [Whirlpool Microwave F01 error code](/posts/whirlpool-microwave-f01-error-code/)
+- Whirlpool Microwave E03 error code
+- Whirlpool Microwave E11 error code
+- Whirlpool Microwave E12 error code
+- Whirlpool Microwave E13 error code
+- Whirlpool Microwave E21 error code
+- Whirlpool Microwave E22 error code
+- Whirlpool Microwave E23 error code
+- Whirlpool Microwave E24 error code
+- Whirlpool Microwave E61 error code
+- Whirlpool Microwave E62 error code
+- Whirlpool Microwave E63 error code
+- Whirlpool Microwave F01 error code
 
 ## When to Call a Pro
 

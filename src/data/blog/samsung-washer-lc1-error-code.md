@@ -17,8 +17,7 @@ money_part: "Samsung leak sensor"
 part_price: "$15-50"
 ---
 
-## Samsung LC1 Error Code — What It Means
-
+## What this code means
 The LC1 code on Samsung washers, especially FlexWash models, means the machine has detected a water leak condition or the water level dropped below the sensor's reset point during the wash or rinse cycle. Samsung explicitly documents that 1LC1 is the FlexWash variant of the same leak indication, used for the upper washer on Flex models. When this fault is triggered, the drain pump runs continuously to protect against flooding.
 
 The code does not always mean an actual external leak is present. It can also be triggered by water or suds accumulating in the base pan or around the leak-detection sensors, making the machine interpret normal operation as a leak. Over-sudsing from too much detergent or fabric softener is a frequent cause, as foam can push water into the sensor zone and trip the fault even when the cabinet is dry.
@@ -26,8 +25,6 @@ The code does not always mean an actual external leak is present. It can also be
 ## Before You Replace Anything
 
 Homeowners often replace the leak sensor or wire harness first, but the real cause is usually excess detergent causing suds to enter the sensor area or a kinked drain hose allowing water to back up. Tilt the machine to dry the base pan and run a test cycle with no detergent before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

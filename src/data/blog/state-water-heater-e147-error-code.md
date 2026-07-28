@@ -13,13 +13,10 @@ money_part: "Flame sensor rod"
 most_likely_cause: "Model-specific code not verified"
 ---
 
-## State Water Heater E147 Error Code — What It Means
-
+## What this code means
 State Water Heaters does not publish a universal E147 error code across all product lines. The code definition depends entirely on your specific model and controller platform. State directs technicians to identify the exact product by scanning the QR code on the rating plate to retrieve the model number, serial number, and correct service manual. Without that information, any interpretation of E147 would be guesswork and could lead to incorrect diagnosis or unnecessary parts replacement.
 
 Because State's fault codes are model-specific rather than brand-wide, E147 may indicate a sensor fault, airflow issue, combustion problem, or control board diagnostic on one platform and something entirely different on another. Always match the code to the published fault table in your unit's installation and service manual before proceeding with any repair.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

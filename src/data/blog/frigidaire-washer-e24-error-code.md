@@ -17,8 +17,7 @@ money_part: "Frigidaire washer main control board"
 part_price: "$150-300"
 ---
 
-## Frigidaire Washer E24 Error Code — What It Means
-
+## What this code means
 E24 on a Frigidaire washer is a control-side drain fault. Unlike a simple clog or slow-drain error, E24 specifically indicates the control board has detected a problem in the circuit that powers or controls the drain pump. On many Frigidaire models, this code points to a failure in the drain pump relay or triac on the main control board, or in the related drain pump control circuit.
 
 Because the code is control-oriented, you may see it even when the tub is empty or when the drain hose is clear. The control is reporting that it cannot properly energize the pump, not that the pump is mechanically blocked. On front-load models with LED-only displays, E24 appears as two flashes followed by four flashes.
@@ -26,8 +25,6 @@ Because the code is control-oriented, you may see it even when the tub is empty 
 ## Before You Replace Anything
 
 Homeowners often replace the drain pump first when the actual fault is the relay or triac on the main control board. Before ordering a pump, test the pump winding for continuity and resistance, and confirm the pump connector is receiving voltage during the drain cycle.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

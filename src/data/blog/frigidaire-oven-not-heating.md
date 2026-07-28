@@ -20,8 +20,6 @@ When a Frigidaire oven will not heat, you are seeing a symptom rather than a sin
 
 Other causes include power supply problems, a defective temperature sensor, an open thermal fuse, a failed control board or relay, damaged wiring, or a control-lock or demo-mode setting that prevents normal heating. Frigidaire's published error-code lists cover faults like F1 for a shorted keypad and F10 for thermal runaway, but there is no universal code that directly flags all no-heat conditions across every model.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed bake element (electric ovens)** The element is dark, blistered, cracked, or shows no continuity when tested with a meter.

@@ -19,8 +19,6 @@ A burning smell on a Speed Queen washer is not a fault code. It is a symptom tha
 
 The smell can come from a belt slipping and glazing under load, a seized idler pulley or tensioner bearing, motor overload or bearing drag, pump drag or obstruction, clutch wear, tub or basket bearing binding, or a shorted main control board. Repair sources treat this as a component-level failure that requires inspection of the belt, pulley, motor, pump, clutch, bearings, and control board.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Drive belt slipping or glazing** The belt is worn, misaligned, or overloaded and is generating heat and a rubber smell under friction.
@@ -61,12 +59,12 @@ If your appliance also shows a code on the display, these match this problem:
 - [Speed Queen Washer Du error code](/posts/speed-queen-washer-du-error-code/)
 - [Speed Queen Washer E 05 error code](/posts/speed-queen-washer-e-05-error-code/)
 - [Speed Queen Washer E 07 error code](/posts/speed-queen-washer-e-07-error-code/)
-- [Speed Queen Washer E 08 error code](/posts/speed-queen-washer-e-08-error-code/)
+- Speed Queen Washer E 08 error code
 - [Speed Queen Washer E 0D error code](/posts/speed-queen-washer-e-0d-error-code/)
-- [Speed Queen Washer E1 error code](/posts/speed-queen-washer-e1-error-code/)
+- Speed Queen Washer E1 error code
 - [Speed Queen Washer E5 error code](/posts/speed-queen-washer-e5-error-code/)
 - [Speed Queen Washer E7 error code](/posts/speed-queen-washer-e7-error-code/)
-- [Speed Queen Washer Ec 09 error code](/posts/speed-queen-washer-ec-09-error-code/)
+- Speed Queen Washer Ec 09 error code
 
 ## When to Call a Pro
 

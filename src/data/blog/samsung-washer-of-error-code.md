@@ -21,8 +21,7 @@ free_checks:
 part_price: "$35–65"
 ---
 
-## Samsung Washer OF Error Code — What It Means
-
+## What this code means
 The OF or OE code on a Samsung washer signals an overflow or overfill condition. The control board has detected that the tub water level is rising beyond safe limits or that water continues entering when the fill cycle should have stopped. This is a water-control problem on the inlet side, not a drain issue.
 
 In practical terms, the machine believes it is receiving too much water. The fault usually lies in the fill-control hardware (inlet valve, water-level sensing, or control circuitry) rather than detergent or load size alone. Address the problem immediately to prevent flooding and water damage.
@@ -31,31 +30,13 @@ In practical terms, the machine believes it is receiving too much water. The fau
 
 Homeowners often replace the control board when the inlet valve is the real culprit. Before buying a board, disconnect power from the valve and verify water stops flowing; if it continues, the valve is mechanically stuck and must be replaced.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Stuck or leaking water inlet valve (~50%)** The valve continues to pass water after the fill command ends, either because sediment holds a solenoid open or a diaphragm has failed.
-- **Blocked or misrouted pressure hose (~25%)** The air-dome hose that connects the tub to the water-level sensor is kinked, cracked, disconnected, or filled with water, so the control board cannot see the true level and keeps filling.
-- **Faulty water-level sensor or pressure switch (~15%)** The sensor sends a false low-level signal or an open circuit, causing the board to think the tub is always empty.
-- **Control board or wiring fault (~8%)** A welded relay or driver fault on the main control board holds the inlet valve energized, or corroded harness pins disrupt the level-sensor signal.
-- **Excess suds interfering with level detection (~2%)** Overuse of high-efficiency detergent can generate foam that confuses the water-level sensing system, though this is rarely the sole root cause of an OF code.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>With the machine unplugged and water taps turned off, does water still drip or flow into the tub?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The inlet valve is mechanically stuck or leaking internally and must be replaced.<br><strong>No:</strong> The valve is likely good. Move on to check the pressure hose and water-level sensor circuit.</div>
-</details>
-
-<details class="dtree"><summary>Is the pressure hose (the small rubber or vinyl tube running from the tub to the sensor) clear, dry inside, and firmly connected at both ends?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The pressure path is intact. Test the water-level sensor and its wiring harness for opens, shorts, or corrosion.<br><strong>No:</strong> Clear any blockage, drain water from the hose, reconnect or replace the hose, then test the washer.</div>
-</details>
-
-<details class="dtree"><summary>After replacing a faulty inlet valve or pressure hose, does the washer still display OF during a test fill cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Suspect the water-level sensor or a control-board fault; measure sensor resistance and inspect the board for welded relay contacts.<br><strong>No:</strong> The repair is complete. Run a normal load to confirm proper fill shutoff.</div>
-</details>
+- **Stuck or leaking water inlet valve** The valve continues to pass water after the fill command ends, either because sediment holds a solenoid open or a diaphragm has failed.
+- **Blocked or misrouted pressure hose** The air-dome hose that connects the tub to the water-level sensor is kinked, cracked, disconnected, or filled with water, so the control board cannot see the true level and keeps filling.
+- **Faulty water-level sensor or pressure switch** The sensor sends a false low-level signal or an open circuit, causing the board to think the tub is always empty.
+- **Control board or wiring fault** A welded relay or driver fault on the main control board holds the inlet valve energized, or corroded harness pins disrupt the level-sensor signal.
+- **Excess suds interfering with level detection** Overuse of high-efficiency detergent can generate foam that confuses the water-level sensing system, though this is rarely the sole root cause of an OF code.
 
 ## Step-by-Step Fix {#fix}
 
@@ -79,5 +60,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a qualified appliance technician if you are uncomfortable working with water supply connections or electrical harnesses, if the pressure-hose routing is unclear for your model, or if you have replaced both the inlet valve and water-level sensor yet the OF code persists. A pro can isolate a control-board fault, trace wiring shorts, and verify proper fill calibration. Also call if the machine has flooded and you suspect hidden water damage to the control board or motor that requires teardown and inspection.
-
-**Rough cost:** DIY runs about $40–90 in parts, 45–90 min. A pro service call runs about $150–280.

@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Samsung microwave temperature sensor / thermistor assembly"
 ---
 
-## Samsung C-21 Microwave Error — What It Means
-
+## What this code means
 The C-21 code on Samsung microwaves indicates an error with the temperature sensor circuit. Samsung's internal code tables map C-20, C-21, and C-22 to temperature sensor faults. This is distinct from the E-24 code, which Samsung uses on some microwave platforms to signal an over-temperature condition when cavity temperature rises above the safe limit during operation. In practice, C-21 can appear either because the sensor itself has failed (open or shorted circuit) or because the control board is receiving a fault signal from contamination, damaged wiring, or a stuck relay that mimics an overheat event.
 
 Samsung's published service guidance instructs users to perform a power reset first. If the code returns after reset, the unit requires technician verification because the fault may be a true overheating condition, a failed sensor, or a control board issue. The manufacturer does not provide specific resistance or voltage specifications for field diagnosis in public documentation, so technicians must rely on continuity checks, visual inspection, and systematic component substitution.
@@ -25,8 +24,6 @@ Samsung's published service guidance instructs users to perform a power reset fi
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board first, assuming the code means a board failure. Always test the temperature sensor circuit for open or short conditions and inspect the sensor wiring and connectors for damage or corrosion before replacing the control PCB.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

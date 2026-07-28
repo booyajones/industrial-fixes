@@ -13,11 +13,8 @@ money_part: "Rollout limit switch"
 most_likely_cause: "Restricted flue or venting"
 ---
 
-## Lennox Error Code 111 — What It Means
-
+## What this code means
 Lennox fault code 111 (three flashes on the diagnostic LED, or displayed as "111" on SureLight boards) indicates the rollout switch has opened. The rollout switch is a thermal fuse-type safety device positioned near the burner orifices or heat exchanger opening. It trips when combustion gases or flame exit the heat exchanger in an uncontrolled direction — a condition called flame rollout. This is a hard safety event: the furnace shuts down completely and will not restart until the switch is manually reset and the root cause is addressed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Lennox fault code 111 (three flashes on the diagnostic LED, or displayed as "111
 ## When to Call a Pro
 
 Flame rollout combined with a cracked heat exchanger is a carbon monoxide hazard. If you cannot identify a clear venting or draft cause for the rollout trip, stop operating the furnace and have a technician perform a full combustion and heat exchanger inspection before restart.
-
-## See Also
-
-- [Lennox Error Code 114 — Causes & Fix](/posts/lennox-error-code-114/)
-- [Lennox Error Code 231 — Causes & Fix](/posts/lennox-error-code-231/)
-- [Lennox Error Code 223 — Causes & Fix](/posts/lennox-error-code-223/)
-- [Lennox G60UHV Furnace Error Codes — Flash Code Diagnostic Guide](/posts/lennox-g60uhv-error-codes/)
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 114 — Causes & Fix](/posts/lennox-error-code-114/)

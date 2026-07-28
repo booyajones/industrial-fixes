@@ -17,8 +17,6 @@ money_part: "Hydraulic pressure switch"
 
 The Haas SL-20 is a two-axis CNC lathe found in job shops and production turning environments everywhere. Its most common alarms involve turret index faults, spindle load issues, axis following errors, and setup mistakes after tool changes or crashes.
 
-[Jump to Fix](#fix)
-
 ## Common Haas SL-20 Alarm Groups
 
 | Code | Meaning |
@@ -62,18 +60,3 @@ The Haas SL-20 is a two-axis CNC lathe found in job shops and production turning
 ## When to Call a Pro
 
 If the SL-20 has had a turret crash, do not trust simple reset-and-run behavior. A slightly shifted turret or damaged sensor flag will keep making bad parts until the underlying alignment problem is corrected.
-
-## Related Articles
-
-- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
-- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
-- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
-- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
-
-## See Also
-
-- [Haas VF-2 Common Alarms Guide — What They Mean and How to Fix Them](/posts/haas-vf2-common-alarms/)
-- [Haas Alarm 108 — Causes & Fix](/posts/haas-alarm-108/)
-- [Haas Alarm 106 — Causes & Fix](/posts/haas-alarm-106/)
-- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)

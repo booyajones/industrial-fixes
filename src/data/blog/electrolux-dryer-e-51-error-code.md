@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Electrolux Dryer E51 Error Code — What It Means
-
+## What this code means
 E51 on Electrolux and Frigidaire-family dryers indicates a motor control fault. The control board detects that it cannot properly energize or monitor the drive motor circuit. In technical terms, this is described as a motor relay failure or motor power triac short-circuit or open circuit. The cycle is interrupted because the control cannot safely start or run the drum motor.
 
 The code appears when the main control board sees a failure in the circuit that powers the motor. This can be the relay or triac component on the board itself, damaged wiring between the board and motor, a fault in the motor, or an intermittent electrical connection that mimics a relay problem. Because the exact wording and behavior vary slightly across Electrolux platform models, always verify the code meaning in your specific model's service manual or wiring diagram.
@@ -26,8 +25,6 @@ The code appears when the main control board sees a failure in the circuit that 
 ## Before You Replace Anything
 
 Homeowners often replace the drive motor first, but a simple inspection of the motor wiring harness and connectors for loose pins, heat damage, or corrosion will catch most wiring faults without the cost of a new motor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

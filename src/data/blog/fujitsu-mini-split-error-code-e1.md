@@ -13,11 +13,8 @@ money_part: "Outdoor PCB"
 most_likely_cause: "Miswired or loose communication terminals"
 ---
 
-## Fujitsu Mini Split E1 Error Code — What It Means
-
+## What this code means
 Fujitsu error code E1 (displayed as "E:01" on the remote or flashed on the unit) indicates an outdoor unit communication fault — the indoor unit is not receiving valid communication signals from the outdoor unit. Fujitsu uses a two-wire serial communication bus between indoor and outdoor units. When the indoor PCB detects no valid signal from the outdoor board for a set time period, it triggers E1 and shuts the system down. This fault is common after power interruptions, during installation, and when control wiring has been compromised.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,11 +41,3 @@ Fujitsu error code E1 (displayed as "E:01" on the remote or flashed on the unit)
 ## When to Call a Pro
 
 If wiring is confirmed correct and both units have power, but E1 persists, a Fujitsu-authorized technician should diagnose the PCBs with manufacturer-specific test procedures. Replacing the wrong board is an expensive mistake.
-
-## Related Articles
-
-- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
-- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
-- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
-- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
-- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)

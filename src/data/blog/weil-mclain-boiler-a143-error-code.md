@@ -17,8 +17,7 @@ free_checks:
   - "Check that the thermostat or zone controller is calling for heat and that the circulator pump is running."
 ---
 
-## Weil-McLain Boiler A143 Error — What It Means
-
+## What this code means
 The code A143 does not appear in verified Weil-McLain manufacturer documentation as a standard fault or lockout identifier. Weil-McLain boilers store fault history in the contractor diagnostics menu, and the displayed event identifier may vary by control type and firmware. The string you see may be a timestamp, event number, or display artifact rather than the actual fault name.
 
 To diagnose correctly, enter the boiler's contractor or diagnostics menu, navigate to Errors, Past Errors, or Fault History, and record the full fault description. Match that fault to the troubleshooting chart in your boiler's installation and service manual. Common lockout causes on Weil-McLain boilers include ignition and flame-sensing problems, gas-pressure issues, sensor faults, circulator or flow problems, low-water cutoff trips, limit-circuit faults, and loose or corroded wiring connections.
@@ -26,8 +25,6 @@ To diagnose correctly, enter the boiler's contractor or diagnostics menu, naviga
 ## Before You Replace Anything
 
 Many technicians replace the boiler control board first when they see an unfamiliar code. Always retrieve the stored fault history from the diagnostics menu and test the specific circuit or sensor named in that fault before changing the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a licensed heating technician if you cannot access the diagnostics menu, if the stored fault history is empty or displays non-standard characters, or if you lack a gas-pressure gauge and multimeter to test components safely. Gas-fired boiler work requires knowledge of combustion, venting, and electrical control circuits. A technician will retrieve the full fault log, measure gas inlet and manifold pressure, test flame rectification current, verify limit and sensor operation, and inspect the heat exchanger and vent system for blockages or damage. Professional diagnosis prevents misdiagnosis, avoids unnecessary part replacement, and ensures the boiler operates safely and within code.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Weil-McLain A160 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a160-error-code/)
-- [Weil-McLain A42 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a42-error-code/)
-- [Weil-McLain A167 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a167-error-code/)
-- [Weil-McLain Boiler A96 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a96-error-code/)

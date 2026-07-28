@@ -19,8 +19,6 @@ When a GE microwave runs but does not heat, the unit powers on and the turntable
 
 GE explains that the cause can be one of many internal components. Because the high-voltage capacitor can retain a dangerous charge even after unplugging and special diagnostic equipment is required, GE recommends professional service rather than DIY repair for this symptom.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed magnetron** The magnetron is the component that generates the microwaves, and it is the most frequently replaced part when a GE microwave runs but does not heat.
@@ -57,7 +55,7 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Ge Microwave F1 error code](/posts/ge-microwave-f1-error-code/)
 - [Ge Microwave F10 error code](/posts/ge-microwave-f10-error-code/)
-- [Ge Microwave F2 error code](/posts/ge-microwave-f2-error-code/)
+- Ge Microwave F2 error code
 - [Ge Microwave F3 error code](/posts/ge-microwave-f3-error-code/)
 - [Ge Microwave F4 error code](/posts/ge-microwave-f4-error-code/)
 - [Ge Microwave F5 error code](/posts/ge-microwave-f5-error-code/)

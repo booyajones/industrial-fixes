@@ -19,8 +19,6 @@ When an Amana dryer won't stop, it means the machine keeps running after the cyc
 
 This is usually a problem with either the airflow system causing overheating and faulty cycle detection, or a control component that isn't advancing or terminating the run signal. It's not typically an error code on most Amana dryers, just abnormal behavior where the machine doesn't recognize when to stop.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Restricted airflow from clogged vent or lint buildup** This is the most common cause when an Amana dryer won't stop, because blocked vents prevent proper air circulation and interfere with temperature and moisture sensing that tells the dryer when to shut off.
@@ -58,9 +56,9 @@ If your appliance also shows a code on the display, these match this problem:
 - [Amana Dryer F02 error code](/posts/amana-dryer-f02-error-code/)
 - [Amana Dryer F1 E1 error code](/posts/amana-dryer-f1-e1-error-code/)
 - [Amana Dryer F1 E4 error code](/posts/amana-dryer-f1-e4-error-code/)
-- [Amana Dryer F1E3 error code](/posts/amana-dryer-f1e3-error-code/)
-- [Amana Dryer F1E5 error code](/posts/amana-dryer-f1e5-error-code/)
-- [Amana Dryer F20 error code](/posts/amana-dryer-f20-error-code/)
+- Amana Dryer F1E3 error code
+- Amana Dryer F1E5 error code
+- Amana Dryer F20 error code
 - [Amana Dryer F22 error code](/posts/amana-dryer-f22-error-code/)
 - [Amana Dryer F23 error code](/posts/amana-dryer-f23-error-code/)
 - [Amana Dryer F24 error code](/posts/amana-dryer-f24-error-code/)

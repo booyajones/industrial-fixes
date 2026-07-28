@@ -15,8 +15,7 @@ money_part: "Main control board (electronic control)"
 most_likely_cause: "Loose or corroded wiring harness connector"
 ---
 
-## Whirlpool Microwave E22 Error Code — What It Means
-
+## What this code means
 E22 is a documented Whirlpool error code that appears on over-the-range microwaves. Whirlpool publishes this code in its Product Help resources, but the exact internal fault definition is model-specific and not fully disclosed in public documentation. The code indicates the electronic control has detected an abnormal condition and may lock out operation until the fault is cleared or repaired.
 
 Because the precise meaning depends on your microwave's model number and control software version, you cannot assume E22 points to the same component or sensor across all Whirlpool units. The first step is to locate your full model number (usually inside the door frame or on the back panel) and consult that model's service manual or wiring diagram for the E22 fault table. A power cycle may clear transient faults, but if the code returns immediately, the control is detecting a real hardware problem that requires diagnosis.
@@ -24,8 +23,6 @@ Because the precise meaning depends on your microwave's model number and control
 ## Before You Replace Anything
 
 Do not replace the main control board without first checking wiring connections and connector pins. Many E22 faults are caused by loose harness plugs or corroded terminals that cost nothing to clean and reseat.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

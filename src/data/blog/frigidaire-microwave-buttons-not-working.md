@@ -19,8 +19,6 @@ When your Frigidaire microwave buttons stop responding, the appliance is showing
 
 A temporary control-board glitch from a power surge, a worn or contaminated touchpad membrane, a loose ribbon cable between the keypad and control board, or a faulty door interlock switch can all make the unit appear completely unresponsive. Identifying which buttons fail and whether the issue is total or partial will point you to the right repair.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed main control board** When all buttons across the panel are unresponsive, the control and display board has usually lost the ability to process inputs.

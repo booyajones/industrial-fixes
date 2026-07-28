@@ -19,8 +19,6 @@ On A.O. Smith electric storage water heaters, no hot water means the unit is not
 
 On A.O. Smith gas tankless models, a no-hot-water complaint often corresponds to a burner fault such as Error 111, which indicates flame failure during ignition. The burner did not light or lost flame after starting.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Tripped ECO reset button (electric)** The upper limit safety device opened because the tank overheated, cutting all power to the elements until manually reset.
@@ -56,7 +54,7 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [A O Smith Water Heater E2 error code](/posts/a-o-smith-water-heater-e2-error-code/)
 - [A O Smith Water Heater E4 error code](/posts/a-o-smith-water-heater-e4-error-code/)
-- [A O Smith Water Heater E6 error code](/posts/a-o-smith-water-heater-e6-error-code/)
+- A O Smith Water Heater E6 error code
 
 ## When to Call a Pro
 

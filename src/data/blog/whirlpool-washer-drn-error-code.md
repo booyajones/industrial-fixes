@@ -21,8 +21,7 @@ part_price: "$15-35"
 no_buy_pct: "65%"
 ---
 
-## Whirlpool drn Error Code — What It Means
-
+## What this code means
 The drn code on Whirlpool top-load HE washers indicates the machine is not draining properly or is taking too long to remove water. Whirlpool groups this code with the F9 E1 fault, which signals a drain pump system problem or long drain condition. The washer has detected that water remains in the tub beyond the expected time window, so it halts the cycle and displays the code.
 
 In many cases the code is triggered by an installation or drain-path issue rather than a failed component. Whirlpool calls out incorrect drain hose setup, kinked hoses, and siphoning as the leading causes. If the hose is installed correctly and the drain path is clear, then a blockage in the pump inlet or outlet, or rarely a faulty drain pump, may be responsible.
@@ -30,8 +29,6 @@ In many cases the code is triggered by an installation or drain-path issue rathe
 ## Before You Replace Anything
 
 Many homeowners replace the drain pump when the real problem is a kinked or incorrectly installed drain hose. Always verify hose height, insertion depth, and kinks before ordering a pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

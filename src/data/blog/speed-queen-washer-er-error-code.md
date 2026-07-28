@@ -14,13 +14,10 @@ money_part: "Water inlet valve"
 most_likely_cause: "Leaking inlet valve (Er,OF)"
 ---
 
-## Speed Queen Washer ER Error Code — What It Means
-
+## What this code means
 ER on a Speed Queen washer is not a single universal fault. The meaning depends on the exact model and on whether the display shows a second code such as OF, CO, dS, or another suffix. The two clearly documented combinations are Er,OF and Er,CO. Er,OF means the washer sensed an overflow condition or could not lower the water level within 5 minutes. Er,CO means a communication failure between control electronics, typically between the user interface or main control and the drive board or MCU, or in the wiring between them.
 
 For any technician, the first step is always to identify the exact suffix and the model family, because the diagnostic tree is different for OF versus CO. On some coin-operated or commercial variants, a related ER can involve the coin mechanism rather than the wash system, so model verification matters.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,11 +13,8 @@ money_part: "Ionization/ignition electrode"
 most_likely_cause: "No gas supply or low gas pressure"
 ---
 
-## Viessmann Boiler Fault F4 — What It Means
-
+## What this code means
 Fault F4 on a Viessmann boiler (Vitodens 050-W, 100-W, 200-W series) indicates an ignition failure lockout. The Vitotronic control unit attempted the ignition sequence and did not receive a flame signal within the trial-for-ignition window. F4 is a hard lockout — the boiler will not attempt another ignition until the fault is manually reset from the control panel. The Vitodens condensing boiler range uses a modulating gas-air premix burner; the most common causes of F4 are gas supply problems, a dirty ionization electrode, or a failed ignition module.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,11 +42,3 @@ Fault F4 on a Viessmann boiler (Vitodens 050-W, 100-W, 200-W series) indicates a
 ## When to Call a Pro
 
 Viessmann condensing boilers require a Gas Safe registered engineer (UK) or licensed HVAC-R technician (North America) for gas pressure adjustment and combustion analysis. F4 faults that recur after electrode cleaning almost always require either gas pressure correction or combustion air diagnosis — both require certified technicians.
-
-## Related Articles
-
-- [Boiler Lockout Error Codes: All Brands Guide](/posts/boiler-lockout-error-codes/)
-- [Buderus Boiler Fault Code A1 — Causes & Fix](/posts/buderus-boiler-fault-code-a1/)
-- [Burnham Alpine Boiler Error Code Guide — Causes & Fix](/posts/burnham-alpine-error-codes/)
-- [Burnham Boiler E1 Lockout Code Fix](/posts/burnham-boiler-e1-lockout-code/)
-- [Burnham Boiler E2 Error Code — Causes & Fix](/posts/burnham-boiler-e2-error-code/)

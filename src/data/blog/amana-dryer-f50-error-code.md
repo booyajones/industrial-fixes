@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Dryer F50 Error Code — What It Means
-
+## What this code means
 The F50 error code signals a communication failure between the Motor Control Unit (MCU) and the Main Control Board. The main board is trying to monitor the motor's operation through the Rotor Position Sensor (RPS), but it is not receiving the expected feedback signal. This means the system cannot confirm the motor is spinning correctly, or the sensor is not detecting the spin.
 
 The RPS sensor generates voltage pulses as the motor turns. When those pulses don't reach the main board, the F50 error appears and the dryer stops. This is different from airflow errors or simple power failures. It points directly to the motor-sensor-control loop.
@@ -26,8 +25,6 @@ The RPS sensor generates voltage pulses as the motor turns. When those pulses do
 ## Before You Replace Anything
 
 Many people replace the entire main control board first. Before ordering any board, test the RPS sensor resistance with an ohmmeter. If it reads outside the 150-250Ω range (often infinite or zero when failed), the sensor is the problem and costs far less than a control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

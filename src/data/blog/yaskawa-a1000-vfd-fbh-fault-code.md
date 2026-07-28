@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Yaskawa A1000 FbH Fault — What It Means
-
+## What this code means
 FbH on a Yaskawa A1000 drive indicates Excessive PID Feedback. The drive has detected that the PID feedback signal stayed above the threshold configured in parameter b5-36 for longer than the time delay set in parameter b5-37. This fault only appears when parameter b5-12 is set to 2 or 5 to enable PID fault detection.
 
 The fault points to a problem with the process control loop rather than the power stage. Either the feedback sensor is sending a signal that genuinely exceeds the expected range, the feedback wiring has an open or short, the sensor itself has failed, or the PID limit parameters are set incorrectly for the actual application. The drive is protecting the process by shutting down when it detects the feedback is out of the expected operating band.
@@ -29,8 +28,6 @@ The fault points to a problem with the process control loop rather than the powe
 ## Before You Replace Anything
 
 Technicians sometimes replace the drive itself when the real problem is a faulty feedback sensor or incorrect parameter b5-36/b5-37 settings. Always verify the feedback signal at the terminals and review the PID parameters before swapping the VFD.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial controls technician or VFD specialist if you are not familiar with PID loop tuning, drive parameter programming, or control wiring. The FbH fault requires verifying the feedback signal against the drive's configuration, and incorrect settings can cause process instability or damage to equipment. A technician can measure the feedback signal at the terminals, verify the sensor is working correctly, adjust b5-12, b5-36, and b5-37 to match your application, and use the drive's diagnostic and auto-tuning features to stabilize the control loop. If the drive itself has failed (rare with FbH), a specialist can also test the control board and arrange factory repair or replacement.
 
 **Rough cost:** A pro service call runs about $150-400 for service call, wiring repair, sensor replacement, and parameter adjustment.
-
-## See Also
-
-- [Yaskawa GA800 E81 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e81-fault-code/)
-- [Yaskawa GA800 E11 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e11-fault-code/)
-- [Yaskawa GA800 oV Fault — DC Overvoltage Fix](/posts/yaskawa-ga800-error-ov/)
-- [Yaskawa VFD Fault OH — Causes & Fix](/posts/yaskawa-vfd-fault-oh/)

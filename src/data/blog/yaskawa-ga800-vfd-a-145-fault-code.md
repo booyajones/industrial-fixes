@@ -15,15 +15,12 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa GA800 A.145 — What It Means
-
+## What this code means
 The Yaskawa GA800 VFD does not have a fault code labeled A.145. The alphanumeric format A.XXX refers to parameter numbers used for drive configuration, not fault codes. GA800 fault codes are strictly three-letter numeric combinations such as OC (over current), UV (under voltage), LF (line frequency deviation), or codes beginning with F. for option card errors. If you see A.145 on the display, the drive is likely in parameter setup mode showing parameter A.145, which typically controls a digital input terminal function. A misread display, a typo in documentation, or confusion between parameter view and fault view is the most common explanation. You cannot diagnose or clear A.145 as a fault because it does not exist in the official Yaskawa GA800 troubleshooting manual.
 
 ## Before You Replace Anything
 
 Technicians sometimes replace the keypad or control board thinking the display is faulty. First verify the drive mode (parameter vs. fault) and consult the manual's fault code table to confirm the actual code.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -71,10 +68,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or contact Yaskawa Technical Support if the drive displays an unrecognized code, if you cannot match the code to the official manual, or if the drive fails to start after a power cycle. VFD troubleshooting involves high DC bus voltages (up to 800 VDC on larger frames) that remain present even after input power is removed. Parameter misconfigurations can cause motor damage or unsafe operation. A technician will verify the actual fault code, check option card seating and firmware version, and use diagnostic software to read internal fault logs that are not visible on the keypad.
 
 **Rough cost:** A pro service call runs about $150-400 for diagnostic visit and actual fault repair.
-
-## See Also
-
-- [Yaskawa GA800 A.107 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-107-fault-code/)
-- [Yaskawa A1000 CPF02 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf02-fault-code/)
-- [Yaskawa GA800 E09 Fault - Causes & Fix](/posts/yaskawa-ga800-e09-fault-code/)
-- [Yaskawa GA800 E95 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e95-fault-code/)

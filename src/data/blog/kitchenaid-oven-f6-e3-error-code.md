@@ -19,8 +19,7 @@ free_checks:
   - "Inspect the wiring harness and connector pins between the Appliance Manager Control and Converter Control for corrosion, loose pins, or damage"
 ---
 
-## KitchenAid Oven F6 E3 Error — What It Means
-
+## What this code means
 The F6 E3 error code on a KitchenAid wall oven or range indicates a control communication or power-supply fault. According to KitchenAid documentation, there may be a problem with the Appliance Manager Control, the Converter Control, or the wiring that connects them. This is not an oven-temperature-sensor code on KitchenAid and Whirlpool ovens, even though some third-party sites describe F6E3 as an over-temperature fault on other models.
 
 The error means the two main control boards cannot talk to each other or one of them is not receiving stable power. The Appliance Manager Control is typically the user-interface board, while the Converter Control manages power distribution. When communication breaks down or power is interrupted, the oven shuts down and displays F6 E3 to protect the electronics.
@@ -28,8 +27,6 @@ The error means the two main control boards cannot talk to each other or one of 
 ## Before You Replace Anything
 
 Homeowners sometimes replace both control boards when only the wiring harness or a single loose connector is at fault. Inspect all wiring and connections between the two boards before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

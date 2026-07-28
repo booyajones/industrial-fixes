@@ -13,13 +13,10 @@ money_part: "Siemens G120 Control Unit (CU)"
 most_likely_cause: "Pulse frequency from encoder or probe exceeds configured limit"
 ---
 
-## Siemens G120 F01122 — What It Means
-
+## What this code means
 F01122 on a SINAMICS G120 indicates that the pulse frequency at the measuring probe input has exceeded acceptable limits. This fault relates to a technological function using a digital input for encoder or probe signals, not to the motor power stage itself. The drive detects that the incoming pulse train is too fast for the configured application, which triggers the fault to protect the control logic and prevent erroneous operation.
 
 Siemens identifies this as an application or technological function fault. The fault value in parameter r0949 tells you which input is involved: a value of 1 means DI 1 at terminal 6, and a value of 2 means DI 3 at terminal 8. The primary remedy is to reduce the frequency of the pulses arriving at that input.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ Siemens identifies this as an application or technological function fault. The f
 ## When to Call a Pro
 
 Call a qualified technician or automation specialist if you cannot identify which measuring device is connected to the faulted input, if you are unfamiliar with reading drive parameters such as r0949, or if the fault returns after you have verified correct wiring and signal frequency. Also seek professional help if you need to modify the technological function parameters or if you suspect the control unit input stage is damaged, since incorrect parameterization can cause machine malfunction or safety hazards.
-
-## See Also
-
-- [Siemens Micromaster F0085 - Causes & Fix](/posts/siemens-micromaster-f0085-fault-code/)
-- [Siemens G120 F01105 - Causes & Fix](/posts/siemens-g120-f01105-fault-code/)
-- [Siemens G120 F30002 - Causes & Fix](/posts/siemens-g120-f30002-fault-code/)
-- [Siemens Micromaster F0221 - Causes & Fix](/posts/siemens-micromaster-f0221-fault-code/)

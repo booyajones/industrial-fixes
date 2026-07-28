@@ -17,8 +17,7 @@ money_part: "Maytag dishwasher main control board (appliance control unit)"
 part_price: "$80-250"
 ---
 
-## Maytag Dishwasher E3 Error — What It Means
-
+## What this code means
 The E3 code on a Maytag dishwasher indicates a control or communication fault within the electronic control system. Maytag's own product support identifies this as an error that may clear by cycling power to the control, which tells us the code originates from the electronic control rather than a mechanical lockout or sensor reading. The exact component responsible is not defined in Maytag's published guidance, so the code serves as a general alert that the control system has detected an internal problem.
 
 Because Maytag uses the E3 designation differently across washers, dryers, and dishwashers, it is important not to apply troubleshooting steps from other appliance categories. For dishwashers specifically, the manufacturer-backed first step is always a power reset. If the code returns after that reset, the fault is typically persistent and points to the control board, user interface assembly, or wiring in the control path rather than a simple setting or transient glitch.
@@ -26,8 +25,6 @@ Because Maytag uses the E3 designation differently across washers, dryers, and d
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board immediately without first checking for loose or corroded harness connectors. Inspect every plug on the control board for corrosion, bent pins, or a loose fit before ordering electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

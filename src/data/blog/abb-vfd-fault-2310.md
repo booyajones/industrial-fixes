@@ -13,11 +13,8 @@ money_part: "Motor (rewind or replace)"
 most_likely_cause: "Motor winding insulation failure"
 ---
 
-## ABB VFD Fault 2310 — What It Means
-
+## What this code means
 ABB VFD fault 2310 is an earth fault (ground fault). The drive's earth fault detection circuit detected that current is flowing from one or more output phases to earth (ground) at a level above the detection threshold. This indicates that the insulation on the motor winding, output cable, or motor terminal box has broken down and is conducting current to ground. ABB drives detect this condition by monitoring the sum of all three output phase currents — in a healthy system with no ground fault, the vector sum is zero. A non-zero residual current indicates a fault to ground.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,27 +41,3 @@ ABB VFD fault 2310 is an earth fault (ground fault). The drive's earth fault det
 ## When to Call a Pro
 
 Megger testing at 500V or 1000V DC on motors connected to high-voltage systems requires proper PPE and lock-out/tag-out procedures. If the motor is part of a hazardous location installation, a licensed electrician must perform the insulation testing and repair.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [PowerFlex vs SINAMICS VFD compared](/posts/powerflex-vs-sinamics-vfd/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [PowerFlex F004 undervoltage fix](/posts/allen-bradley-powerflex-f004-fault/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [PowerFlex F012 hardware overcurrent](/posts/allen-bradley-powerflex-f012-fault/)
-
-## See Also
-
-- [ABB ACS580 Fault 2310 — Overcurrent Fix](/posts/abb-acs580-2310-fault/)
-- [ABB VFD Fault 3300 — Causes & Fix](/posts/abb-vfd-fault-3300/)
-- [ABB VFD Fault 5010 — Causes & Fix](/posts/abb-vfd-fault-5010/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

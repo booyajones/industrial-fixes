@@ -13,11 +13,8 @@ money_part: "Terminal block wire (18–22 AWG)"
 most_likely_cause: "External safety device open"
 ---
 
-## Allen-Bradley PowerFlex Fault F002 — What It Means
-
+## What this code means
 Allen-Bradley PowerFlex fault F002 means Auxiliary Input — a digital input configured as an external fault or auxiliary interlock has been activated (opened or closed, depending on configuration). The PowerFlex 4, 40, 70, and 700 series all use F002 for this purpose. The drive is not detecting a fault in its own electronics; it's responding to an external signal on a digital input terminal. Until the signal condition clears and the fault is reset, the drive won't run. This is a wiring and integration problem, not a drive component failure.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Allen-Bradley PowerFlex fault F002 means Auxiliary Input — a digital input con
 ## When to Call a Pro
 
 If F002 appears and no external device is wired to the auxiliary input terminal, a controls technician should review the drive parameters and program the unused input as "Not Used" to prevent false trips.
-
-## Related Articles
-
-- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
-- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
-- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
-- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)
-- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)
-
-## See Also
-
-- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
-- [Allen-Bradley PowerFlex 755 Fault 7 — Motor Overload Causes & Fix](/posts/allen-bradley-powerflex-755-fault-7/)
-- [Allen Bradley PowerFlex 523 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-523-fault-f7/)
-- [Allen Bradley PowerFlex Fault Codes — Complete Reference](/posts/allen-bradley-powerflex-fault-codes/)

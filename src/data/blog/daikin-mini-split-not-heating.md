@@ -19,8 +19,6 @@ When a Daikin mini split is not heating, the unit is either not entering heat mo
 
 Daikin's troubleshooting guidance starts with verifying mode and temperature settings, airflow, filters, outdoor blockage, breaker status, remote batteries, and timer settings before moving to service diagnostics. If an error code is displayed on the remote or indoor unit, that code will point to the specific malfunction category such as low refrigerant, communication faults, voltage issues, outdoor fan problems, or four-way valve faults.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Wrong mode or setpoint on remote** Remote is not set to HEAT mode or the temperature setpoint is lower than the room temperature.
@@ -54,25 +52,18 @@ Daikin's troubleshooting guidance starts with verifying mode and temperature set
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Daikin Mini Split A1 error code](/posts/daikin-mini-split-a1-error-code/)
-- [Daikin Mini Split A3 error code](/posts/daikin-mini-split-a3-error-code/)
-- [Daikin Mini Split A5 error code](/posts/daikin-mini-split-a5-error-code/)
-- [Daikin Mini Split A6 error code](/posts/daikin-mini-split-a6-error-code/)
-- [Daikin Mini Split A7 error code](/posts/daikin-mini-split-a7-error-code/)
-- [Daikin Mini Split A8 error code](/posts/daikin-mini-split-a8-error-code/)
-- [Daikin Mini Split A9 error code](/posts/daikin-mini-split-a9-error-code/)
-- [Daikin Mini Split C4 error code](/posts/daikin-mini-split-c4-error-code/)
-- [Daikin Mini Split E04 error code](/posts/daikin-mini-split-e04-error-code/)
-- [Daikin Mini Split E05 error code](/posts/daikin-mini-split-e05-error-code/)
-- [Daikin Mini Split E7 error code](/posts/daikin-mini-split-e7-error-code/)
+- Daikin Mini Split A1 error code
+- Daikin Mini Split A3 error code
+- Daikin Mini Split A5 error code
+- Daikin Mini Split A6 error code
+- Daikin Mini Split A7 error code
+- Daikin Mini Split A8 error code
+- Daikin Mini Split A9 error code
+- Daikin Mini Split C4 error code
+- Daikin Mini Split E04 error code
+- Daikin Mini Split E05 error code
+- Daikin Mini Split E7 error code
 
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you see an error code you cannot clear, if the outdoor unit does not run during a heating call, or if you suspect low refrigerant or a refrigerant leak. Refrigerant work, four-way valve replacement, electrical diagnostics, and communication-fault troubleshooting require specialized tools, recovery equipment, and access to Daikin's model-specific service manuals and error-code charts. If the unit repeatedly enters defrost or shows ice buildup in mild weather, a technician should check refrigerant charge, airflow, and defrost-control settings.
-
-## See Also
-
-- [Daikin Mini Split Ice on Coils - Causes & Fix](/posts/daikin-mini-split-ice-on-coils/)
-- [Daikin VRV IV Fault Codes - Commercial System Diagnostic Guide](/posts/daikin-vrv-iv-fault-codes/)
-- [Daikin Fit Error Codes — Inverter Heat Pump Diagnostic Guide](/posts/daikin-fit-error-codes/)
-- [Daikin C4 Error Code - Causes & Fix](/posts/daikin-mini-split-c4-error-code/)

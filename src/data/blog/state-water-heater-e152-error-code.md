@@ -13,13 +13,10 @@ money_part: "Flame rod or flame sensor"
 most_likely_cause: "Incorrect code reference"
 ---
 
-## State Water Heater E152 Error Code — What It Means
-
+## What this code means
 E152 does not appear in standard State Water Heater or A. O. Smith documentation as a recognized fault code. State directs users to scan the QR code on the rating plate or download the model-specific manual from their support page to access the correct error-code definitions and troubleshooting steps for your exact heater. Without the precise model number and manual, the code meaning and repair procedure cannot be confirmed.
 
 If your heater is displaying E152 and experiencing ignition or flame issues, the most common underlying causes across State and A. O. Smith platforms include blocked air intake, gas supply problems, dirty flame sensors, clogged inlet filters, or scale buildup. Do not attempt repairs until you have verified the code definition in your unit's official manual.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

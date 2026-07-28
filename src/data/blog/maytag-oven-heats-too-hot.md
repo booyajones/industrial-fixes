@@ -20,8 +20,6 @@ When your Maytag oven heats beyond the temperature you set, the control is detec
 
 This is not a normal calibration issue. The oven is climbing past the commanded temperature, and in most cases the control will shut down or display an error to prevent damage. The symptom points to a failed sensor, a stuck relay, a shorted heating element, or a blocked vent preventing proper cooling.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Faulty temperature sensor** Maytag lists the sensor as a primary cause of overheating, especially if it is not properly secured or has been damaged.
@@ -54,18 +52,18 @@ This is not a normal calibration issue. The oven is climbing past the commanded 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Maytag Oven A6 error code](/posts/maytag-oven-a6-error-code/)
-- [Maytag Oven Ab error code](/posts/maytag-oven-ab-error-code/)
-- [Maytag Oven Cal error code](/posts/maytag-oven-cal-error-code/)
-- [Maytag Oven F0 error code](/posts/maytag-oven-f0-error-code/)
+- Maytag Oven A6 error code
+- Maytag Oven Ab error code
+- Maytag Oven Cal error code
+- Maytag Oven F0 error code
 - [Maytag Oven F1 error code](/posts/maytag-oven-f1-error-code/)
-- [Maytag Oven F2 error code](/posts/maytag-oven-f2-error-code/)
-- [Maytag Oven F3 error code](/posts/maytag-oven-f3-error-code/)
-- [Maytag Oven F4 error code](/posts/maytag-oven-f4-error-code/)
-- [Maytag Oven F5 error code](/posts/maytag-oven-f5-error-code/)
-- [Maytag Oven F7 error code](/posts/maytag-oven-f7-error-code/)
-- [Maytag Oven F8 error code](/posts/maytag-oven-f8-error-code/)
-- [Maytag Oven F9 error code](/posts/maytag-oven-f9-error-code/)
+- Maytag Oven F2 error code
+- Maytag Oven F3 error code
+- Maytag Oven F4 error code
+- Maytag Oven F5 error code
+- Maytag Oven F7 error code
+- Maytag Oven F8 error code
+- Maytag Oven F9 error code
 
 ## When to Call a Pro
 

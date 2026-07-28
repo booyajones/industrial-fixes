@@ -21,8 +21,7 @@ part_price: "$25-50"
 no_buy_pct: "60%"
 ---
 
-## Weil-McLain A153 — What It Means
-
+## What this code means
 There is no officially documented A153 error code in Weil-McLain manuals. The sequence A-5-1-5-3 appears during normal boot-up and ignition cycles on Ultra and CGa models, not as a fault code. If your boiler is locked out, look for the actual fault code displayed after the boot sequence (such as E02, E01, or E10). E02 is the most common lockout code and means the burner lit initially but could not maintain the flame, so the control shut down after multiple attempts.
 
 If you see E02 or a similar lockout code, the issue is typically a dirty flame sensor, weak gas supply, or ignition electrode problem. The boiler's flame-sensing system could not confirm stable combustion, triggering a safety shutdown.
@@ -30,8 +29,6 @@ If you see E02 or a similar lockout code, the issue is typically a dirty flame s
 ## Before You Replace Anything
 
 Homeowners often replace the ignition module or gas valve when the real problem is a dirty flame sensor. Clean the flame sensor with fine steel wool and check the electrode gap before buying any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -81,10 +78,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you are not comfortable working with gas lines, if the lockout persists after cleaning the flame sensor and checking gas supply, or if you need to measure gas pressure or flame sensor current with specialized tools. Gas work requires proper permits and a combustion analyzer to verify safe operation. A pro can test the flame sensor voltage, adjust or replace the gas valve, diagnose control board faults, and check vent integrity. If the boiler shows repeated lockouts or you smell gas at any time, shut off the gas immediately and call a technician.
 
 **Rough cost:** A pro service call runs about $150-300.
-
-## See Also
-
-- [Weil-McLain A174 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a174-error-code/)
-- [Weil-McLain Boiler A128 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a128-error-code/)
-- [Weil-McLain E04 Error Code — Causes & Fix](/posts/weil-mclain-e04-error-code/)
-- [Weil-McLain A04 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a04-error-code/)

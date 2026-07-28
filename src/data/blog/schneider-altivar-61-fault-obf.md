@@ -13,11 +13,8 @@ money_part: "Motor (if windings damaged)"
 most_likely_cause: "Motor running at sustained overcurrent"
 ---
 
-## Schneider Altivar 61 OBF Fault — What It Means
-
+## What this code means
 The OBF fault on the Schneider Electric Altivar 61 variable speed drive indicates motor overload — the drive's thermal protection model has detected that the motor current has exceeded the programmed overload threshold for long enough to risk motor damage. The Altivar 61 is widely used in pump and fan HVAC applications; OBF is the motor thermal trip, distinct from OCF (overcurrent trip).
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -43,11 +40,3 @@ The OBF fault on the Schneider Electric Altivar 61 variable speed drive indicate
 ## When to Call a Pro
 
 If OBF trips with correct parameters and no mechanical overload, the motor may be undersized for the application. Consult an Schneider application engineer for drive/motor sizing review.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

@@ -57,18 +57,3 @@ Check ComfortLink II communication wiring for breaks, shorts, or reversed polari
 | Reversing valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-variable-speed-heat-pump-codes&k=Reversing+valve&tag=errorcodefixes-20) \| Match refrigerant type |
 | Electronic expansion valve (EXV) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-variable-speed-heat-pump-codes&k=Electronic+expansion+valve+%28EXV%29&tag=errorcodefixes-20) \| Variable speed units use EXV not TXV |
 > **Pro tip:** Trane XV20i diagnostic data can be viewed via the Nexia app or Trane Diagnostics Tool. Always check inverter board LED indicators before ordering parts — they often pinpoint the specific fault.
-
-## Related Articles
-
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-
-## See Also
-
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-- [Trane ComfortLink II Communicating Thermostat Fault Codes - What They Mean and How to Fix Them](/posts/trane-communicating-thermostat-fault-codes/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane / American Standard 2-Blink Error Code — External Lockout Fix](/posts/trane-2-blink-error-code/)

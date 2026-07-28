@@ -19,8 +19,6 @@ A Frigidaire washer that won't start is a symptom with several common causes rat
 
 If the washer displays a fault code alongside the no-start condition, code E41 means the control board does not detect that the door is locked or latched, and code E47 indicates the door PTC circuit is open during spin. Both codes point to the door lock assembly or its wiring as the likely culprit preventing operation.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Tripped breaker or blown fuse** A tripped circuit breaker or blown fuse in your home panel cuts all power to the washer and is one of the most frequent reasons it will not respond when you press Start.

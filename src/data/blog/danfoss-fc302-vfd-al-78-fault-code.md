@@ -19,8 +19,7 @@ free_checks:
   - "Review parameter 1-20 through 1-25 and confirm motor nameplate data matches drive settings"
 ---
 
-## Danfoss FC302 AL-78 Fault — What It Means
-
+## What this code means
 Alarm 78 on a Danfoss FC302 VFD indicates a Tracking Error. The drive has detected that the actual motor speed is deviating from the commanded setpoint by more than the allowable threshold set in parameter 4-106 (Tracking Error Trip Level). This is not an overcurrent or short circuit alarm. Instead, it signals that the drive is losing control authority and cannot make the motor follow the speed reference. The fault trips when the difference between desired and actual speed exceeds the programmed limit.
 
 This condition can arise from mechanical problems preventing the motor from reaching speed, incorrect drive configuration that misestimates torque requirements, power supply issues limiting output capability, or electrical faults in the motor or cabling. The drive is designed to protect itself and the motor by shutting down when it detects this loss of synchronization.
@@ -28,8 +27,6 @@ This condition can arise from mechanical problems preventing the motor from reac
 ## Before You Replace Anything
 
 Technicians often replace the VFD itself when the fault is actually in the motor or mechanical load. Always disconnect the motor and run the drive unloaded first to isolate whether the problem is in the drive or downstream.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or VFD technician if you are not trained to work with three-phase industrial power or variable frequency drives. Diagnosing AL-78 requires measuring line voltages, testing motor insulation with a megohmmeter, and editing drive parameters. Incorrect settings can damage the motor or drive. A professional will isolate whether the fault is in the drive configuration, the power supply, the motor, or the mechanical load, and will have the tools to perform insulation resistance testing and phase imbalance measurements. If a ground fault or motor winding failure is confirmed, the technician can safely replace cables or the motor and verify proper operation under load.
 
 **Rough cost:** A pro service call runs about $200-800 depending on root cause.
-
-## See Also
-
-- [Danfoss AKC Controller Fault Codes - Complete Guide](/posts/danfoss-akc-controller-fault/)
-- [Danfoss FC302 VFD ALARM 38 - Causes & Fix](/posts/danfoss-fc302-vfd-al-102-fault-code/)
-- [Danfoss FC302 VFD AL-126 - Causes & Fix](/posts/danfoss-fc302-vfd-al-126-fault-code/)
-- [Danfoss FC302 VFD Alarm 16 - Causes & Fix](/posts/danfoss-fc302-vfd-al-161-fault-code/)

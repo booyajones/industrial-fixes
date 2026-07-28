@@ -21,8 +21,7 @@ part_price: "$40–75"
 no_buy_pct: "50%"
 ---
 
-## Maytag F5 E2 Error Code — What It Means
-
+## What this code means
 The Maytag F5 E2 code indicates the washer has detected a lid or door lock problem. The machine is not seeing the door or lid lock in the expected locked state, so it will not proceed with operation. On Maytag front-load washers, F5 E2 means the door is not locking properly. On top-load models, the same code signals a lid lock or door switch failure condition.
 
 In practical terms, the control board is not receiving the correct lock-status feedback, so the washer aborts the cycle as a safety measure. The issue may be mechanical (door not latching), electrical (failed lock assembly or loose wiring), or a temporary control glitch.
@@ -30,8 +29,6 @@ In practical terms, the control board is not receiving the correct lock-status f
 ## Before You Replace Anything
 
 Many people replace the control board first, but the real culprit is usually the lock assembly itself or a loose connector. Run the diagnostic lid lock test and check all connectors before ordering any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -42,10 +42,3 @@ The Rinnai RUR199iN is a tankless gas water heater that displays diagnostic code
 ## When to Call a Pro
 
 Call a licensed plumber or gas technician for any work involving gas piping, gas pressure testing, or manifold pressure adjustment. All gas connections and pressure settings must meet local code and manufacturer specs, and incorrect adjustment can create fire or carbon monoxide hazards. Also call a pro if you see repeated fault codes after basic cleaning and checks, if you are not comfortable working with 120V wiring and control boards, or if the unit needs internal disassembly for heat exchanger descaling or burner service. Tankless water heaters require specific flow rates, venting configurations, and electrical grounding that must be verified with proper test equipment. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
-- [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
-- [Rinnai Tankless Water Heater Igniter / Electrode Replacement](/posts/rinnai-water-heater-igniter-ignition-electrode-tankless-replacement/)
-- [Rinnai Error Code 61 — Causes & Fix](/posts/rinnai-error-code-61/)

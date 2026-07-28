@@ -13,11 +13,8 @@ money_part: "Siemens SINAMICS G120 Control Unit (CU)"
 most_likely_cause: "Defective temperature sensor in the Control Unit"
 ---
 
-## Siemens G120 A03520 — What It Means
-
+## What this code means
 A03520 is an alarm (not a trip fault) on the Siemens SINAMICS G120 that indicates a temperature sensor error in the Control Unit (CU). The drive has detected a problem with the CU's internal temperature-sensing circuit, not a motor overload or power-module issue. The alarm is stored in the drive's diagnostic memory and appears as "CU: Temperature sensor fault" or "Temperature Sensor Error" in the fault text.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,10 +43,3 @@ A03520 is an alarm (not a trip fault) on the Siemens SINAMICS G120 that indicate
 ## When to Call a Pro
 
 Call a qualified Siemens service technician or automation specialist if the alarm persists after a full power cycle and you are not comfortable replacing the Control Unit yourself. If the alarm returns immediately after installing a new CU, or if you are unsure which CU variant matches your drive model, professional diagnosis is required. Escalate to the manufacturer if the fault is intermittent or accompanied by other drive errors, as it may indicate a deeper electronics or environmental issue.
-
-## See Also
-
-- [Siemens Micromaster F0011 - Causes & Fix](/posts/siemens-micromaster-f0011-fault-code/)
-- [Siemens Micromaster F0020 - Causes & Fix](/posts/siemens-micromaster-f0020-fault-code/)
-- [Siemens G120 A05004 - Causes & Fix](/posts/siemens-g120-a05004-fault-code/)
-- [Siemens Micromaster F0001 - Causes & Fix](/posts/siemens-micromaster-f0001-fault-code/)

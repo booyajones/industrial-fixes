@@ -16,8 +16,7 @@ money_part: "Water-level pressure sensor"
 part_price: "$20-50"
 ---
 
-## Samsung 1C Error Code — What It Means
-
+## What this code means
 The 1C error code (sometimes displayed as 1E or E7 on certain models) indicates a water-level sensor fault. The washer's control board is not receiving the expected signal from the pressure-sensing system. Samsung lists this code under water-level sensor problems, which include incorrect connections at the sensor terminal, a folded or kinked hose running to the sensor, or a hose clogged with foreign material.
 
 The water-level sensor uses air pressure inside a tube connected to the tub to determine how much water is inside. If that tube is blocked, pinched, or disconnected, or if the sensor's wiring is loose, the control board cannot measure the water level accurately and triggers the 1C fault. Leaks, excess suds, or a failed sensor itself can also produce the code.
@@ -25,8 +24,6 @@ The water-level sensor uses air pressure inside a tube connected to the tub to d
 ## Before You Replace Anything
 
 Many people replace the water-level sensor first. Instead, unplug the machine, pull it forward, and inspect the small air tube running from the tub to the sensor for kinks, blockages, or loose connections before buying any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

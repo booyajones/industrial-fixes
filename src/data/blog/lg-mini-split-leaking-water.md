@@ -19,8 +19,6 @@ When your LG mini split leaks water, the indoor unit is not draining condensate 
 
 Some water from the outdoor unit can be normal because cold refrigerant circulates through it. Indoor leaks, however, mean condensate is escaping or overflowing instead of draining through the correct path.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged condensate drain line** Dirt, dust, algae, fungus, or debris blocks the drain hose and stops water from flowing out, causing overflow from the indoor unit.
@@ -54,26 +52,19 @@ Some water from the outdoor unit can be normal because cold refrigerant circulat
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Lg Mini Split Ch 05 error code](/posts/lg-mini-split-ch-05-error-code/)
-- [Lg Mini Split Ch 26 error code](/posts/lg-mini-split-ch-26-error-code/)
-- [Lg Mini Split Ch 38 error code](/posts/lg-mini-split-ch-38-error-code/)
-- [Lg Mini Split Ch01 error code](/posts/lg-mini-split-ch01-error-code/)
-- [Lg Mini Split Ch02 error code](/posts/lg-mini-split-ch02-error-code/)
-- [Lg Mini Split Ch03 error code](/posts/lg-mini-split-ch03-error-code/)
-- [Lg Mini Split Ch04 error code](/posts/lg-mini-split-ch04-error-code/)
-- [Lg Mini Split Ch05 error code](/posts/lg-mini-split-ch05-error-code/)
-- [Lg Mini Split Ch06 error code](/posts/lg-mini-split-ch06-error-code/)
-- [Lg Mini Split Ch07 error code](/posts/lg-mini-split-ch07-error-code/)
-- [Lg Mini Split Ch09 error code](/posts/lg-mini-split-ch09-error-code/)
-- [Lg Mini Split Ch10 error code](/posts/lg-mini-split-ch10-error-code/)
+- Lg Mini Split Ch 05 error code
+- Lg Mini Split Ch 26 error code
+- Lg Mini Split Ch 38 error code
+- Lg Mini Split Ch01 error code
+- Lg Mini Split Ch02 error code
+- Lg Mini Split Ch03 error code
+- Lg Mini Split Ch04 error code
+- Lg Mini Split Ch05 error code
+- Lg Mini Split Ch06 error code
+- Lg Mini Split Ch07 error code
+- Lg Mini Split Ch09 error code
+- Lg Mini Split Ch10 error code
 
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the coil freezes repeatedly after you have cleaned the filter and restored drainage, or if you suspect low refrigerant or a metering device problem. Refrigerant diagnostics require pressure and temperature measurements and EPA-certified handling. Also call a pro if the drain pan is damaged and requires removal of the indoor unit for replacement, or if you cannot safely access the drain line or electrical components.
-
-## See Also
-
-- [LG Dryer Won't Stop - Causes & Fix](/posts/lg-dryer-wont-stop/)
-- [LG Dryer tE2 Error Code - Causes & Fix](/posts/lg-dryer-te2-error-code/)
-- [LG Mini Split CH40 Error Code - Causes & Fix](/posts/lg-mini-split-ch40-error-code/)
-- [LG Refrigerator CF Error Code - Causes & Fix](/posts/lg-refrigerator-cf-error-code/)

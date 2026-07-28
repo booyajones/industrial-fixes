@@ -22,8 +22,7 @@ part_price: "$20-50"
 no_buy_pct: "25%"
 ---
 
-## KitchenAid Refrigerator E3 Error Code — What It Means
-
+## What this code means
 The E3 error code on a KitchenAid refrigerator indicates an ice maker thermistor fault. The control board has detected that the resistance reading from the temperature sensor inside the ice maker assembly is outside the acceptable range. This may mean the sensor is reading too high, too low, shorted, or completely open (broken circuit). Unlike general thermistor faults that affect the main compartment, E3 is a sub-code tied specifically to the ice maker module diagnostics. The fault typically appears during an ice maker test cycle such as harvest or fill.
 
 The code tells you the control board cannot trust the temperature data from the ice maker sensor. The refrigerator may continue to cool normally, but ice production will stop or behave erratically until the fault is cleared. The sensor itself is a small thermistor embedded in or near the ice maker mold, and it allows the control to monitor the freeze cycle and trigger harvest at the correct temperature.
@@ -31,8 +30,6 @@ The code tells you the control board cannot trust the temperature data from the 
 ## Before You Replace Anything
 
 Many people replace the entire ice maker assembly or the main control board when only the thermistor or its connector is bad. Test the thermistor resistance with a multimeter and inspect the wiring harness before ordering expensive modules.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

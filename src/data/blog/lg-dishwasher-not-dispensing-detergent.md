@@ -19,8 +19,6 @@ When an LG dishwasher does not dispense detergent, the detergent cup still conta
 
 In practical terms, the dispenser door cannot open normally, spray water is not reaching the compartment, or the detergent itself has clumped or degraded. The symptom is not tied to a unique fault code. Instead, it reflects a mechanical or loading issue that prevents the timed release and dissolving of detergent.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dishes blocking the dispenser door** Large items in the lower rack or a top rack positioned too low physically prevent the door from swinging open when triggered.
@@ -70,10 +68,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a professional if the dispenser fails to open during an empty-cycle test after you have verified no blockage, cleaned the compartment, and confirmed the lid closes properly. LG states that a unit that does not open normally on that test will require a repair service. At that point, the likely fix involves inspecting or replacing the dispenser assembly, latch mechanism, or control board output to the dispenser, which requires disassembly of the door panel and access to internal components.
-
-## See Also
-
-- [LG Dryer E1 Error Code - Causes & Fix](/posts/lg-dryer-e1-error-code/)
-- [LG Washer LE Error Code - Causes & Fix](/posts/lg-range-le-error-code/)
-- [LG Range F4 Error Code - Causes & Fix](/posts/lg-range-f4-error-code/)
-- [LG Range E7 Error Code - Causes & Fix](/posts/lg-range-e7-error-code/)

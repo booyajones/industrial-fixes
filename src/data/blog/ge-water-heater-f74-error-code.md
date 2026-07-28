@@ -13,13 +13,10 @@ money_part: "GE GeoSpring air filter"
 most_likely_cause: "Dirty or clogged air filter"
 ---
 
-## GE Water Heater F74 Error Code — What It Means
-
+## What this code means
 The F74 fault code appears on GE GeoSpring hybrid heat pump water heaters when the air filter is clogged or dirty. This restricts airflow through the heat pump system and triggers the fault. GE's official support guidance identifies a dirty filter as the primary cause and directs owners to clean it according to the owner's manual.
 
 If the F74 code reappears after you clean the filter, GE states that a probable refrigerant leak in the refrigeration system is the next concern. At that point the unit requires professional service to diagnose and repair the sealed refrigeration circuit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

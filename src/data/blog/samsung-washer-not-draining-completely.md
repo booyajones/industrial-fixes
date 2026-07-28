@@ -19,8 +19,6 @@ When your Samsung washer does not drain completely, the drum stays full or parti
 
 The washer either cannot pump water out at all or pumps it too slowly to finish the cycle. Water may pool in the drum, overflow onto the floor, or prevent the spin cycle from running. This symptom can result from a blocked drain path, a mechanical failure in the pump, or an electrical issue preventing the pump from receiving power.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged pump filter or debris trap** Coins, lint, buttons, and small objects collect in the filter and block water flow on front-load models.

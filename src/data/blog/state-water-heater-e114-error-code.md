@@ -17,8 +17,7 @@ free_checks:
   - "Look for a separate digital display or LED fault code that might be the actual error"
 ---
 
-## State Water Heater E114 Error — What It Means
-
+## What this code means
 State Water Heaters does not use an E114 error code in any documented product line. State (owned by A. O. Smith) primarily manufactures residential tank water heaters (gas, electric, and heat pump models) that do not feature alphanumeric error displays like E1XX codes. Most State units use simple indicator lights, mechanical thermostats, or no digital interface at all.
 
 The E114 code format is typical of tankless water heaters from brands like Navien or Noritz, but even those manufacturers do not list E114 in their official error code tables. You may be looking at a model number stamped on the unit rather than an error code, or the appliance may be a different brand altogether. If you see a digital display showing E114, verify the brand and model on the rating plate and consult that manufacturer's manual for the correct meaning.
@@ -26,8 +25,6 @@ The E114 code format is typical of tankless water heaters from brands like Navie
 ## Before You Replace Anything
 
 Homeowners often assume any alphanumeric display is an error code and replace control boards or gas valves, when the displayed text may actually be a model number or the unit may be a different brand entirely. Always verify the brand and model on the rating plate before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

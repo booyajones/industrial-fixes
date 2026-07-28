@@ -17,8 +17,6 @@ money_part: "Dual run capacitor"
 
 The Trane XR13 is a 13 SEER single-stage central air conditioner in Trane's value-line residential series. It uses R-410A refrigerant and a single-speed scroll compressor. Like most entry-level condensing units, the XR13 relies on a diagnostic LED on the control board to report faults via flash sequences rather than communicating through a smart thermostat. The LED is visible through the access panel on the outdoor unit.
 
-[Jump to Fix](#fix)
-
 ## Trane XR13 LED Flash Code Reference
 
 | Flash Sequence | Fault |
@@ -62,18 +60,3 @@ The Trane XR13 is a 13 SEER single-stage central air conditioner in Trane's valu
 ## When to Call a Pro
 
 Any investigation of low-pressure or high-pressure faults that goes beyond visual inspection and switch testing requires refrigerant manifold gauges and EPA 608 certification. If the compressor hums but won't start, test the capacitor first — a failed run capacitor is the most common cause of compressor no-start on XR13 units.
-
-## Related Articles
-
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-
-## See Also
-
-- [Trane XV20i Error Code 79 — Causes & Fix](/posts/trane-error-code-79/)
-- [Trane XE80 Furnace Error Codes — Fault Code Guide](/posts/trane-xe80-error-codes/)
-- [Trane YSC Packaged Rooftop Error Codes — Fault Code Diagnostic Guide](/posts/trane-ysc-error-codes/)
-- [Trane Rooftop Unit Fault 77 — High Pressure Cutout](/posts/trane-rooftop-fault-77/)

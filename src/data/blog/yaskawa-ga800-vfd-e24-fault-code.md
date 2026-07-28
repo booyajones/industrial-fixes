@@ -13,13 +13,10 @@ money_part: "GA800 control board"
 most_likely_cause: "Misread or abbreviated fault code"
 ---
 
-## Yaskawa GA800 E24 Fault Code — What It Means
-
+## What this code means
 E24 does not appear as a standard fault code in the published Yaskawa GA800 documentation. The GA800 uses a defined set of fault and alarm codes, and E24 is not verified among them. This code may have been misread, abbreviated, or may belong to an option card or external device rather than the base drive. Yaskawa troubleshooting procedures require the exact fault or alarm code, drive model and spec number, serial number, and application history to diagnose the issue correctly.
 
 Before attempting any repair, confirm the exact code shown on the keypad display and compare it to the fault and alarm table in your GA800 manual. The code may be a multi-character sequence that includes E24 as part of a longer identifier, or it may be a non-drive fault from peripheral equipment.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ Before attempting any repair, confirm the exact code shown on the keypad display
 ## When to Call a Pro
 
 Call a qualified drives technician or Yaskawa-certified service provider if you cannot locate E24 in your GA800 manual, if the fault reappears after power-cycling, or if you are unfamiliar with VFD elementary diagrams and high-voltage DC bus safety. Professional help is especially important if the drive controls motor-driven equipment in a commercial or industrial process where incorrect troubleshooting can cause equipment damage or safety hazards. Yaskawa technical support can decode ambiguous fault displays and guide you to the correct repair path.
-
-## See Also
-
-- [Yaskawa GA800 E34 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e34-fault-code/)
-- [Yaskawa A1000 CPF06 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf06-fault-code/)
-- [Yaskawa A1000 OV Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ov-fault-code/)
-- [Yaskawa GA800 E21 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e21-fault-code/)

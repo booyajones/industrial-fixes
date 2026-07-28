@@ -19,8 +19,6 @@ When your LG mini split does not respond to the remote, you are dealing with a c
 
 The symptom can look like a complete loss of control or just one button not working. Some LG remotes include buttons for functions that are not supported on every model, which can make it appear the remote is broken when it is actually working normally. If you are seeing a numeric code on the indoor unit display, that may indicate a different communication fault between the indoor and outdoor units, but a simple unresponsive remote typically does not generate a fault code.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dead or weak batteries** Low battery voltage is the most frequent reason the remote stops working or the LCD goes blank.
@@ -53,26 +51,19 @@ The symptom can look like a complete loss of control or just one button not work
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Lg Mini Split Ch 05 error code](/posts/lg-mini-split-ch-05-error-code/)
-- [Lg Mini Split Ch 26 error code](/posts/lg-mini-split-ch-26-error-code/)
-- [Lg Mini Split Ch 38 error code](/posts/lg-mini-split-ch-38-error-code/)
-- [Lg Mini Split Ch01 error code](/posts/lg-mini-split-ch01-error-code/)
-- [Lg Mini Split Ch02 error code](/posts/lg-mini-split-ch02-error-code/)
-- [Lg Mini Split Ch03 error code](/posts/lg-mini-split-ch03-error-code/)
-- [Lg Mini Split Ch04 error code](/posts/lg-mini-split-ch04-error-code/)
-- [Lg Mini Split Ch05 error code](/posts/lg-mini-split-ch05-error-code/)
-- [Lg Mini Split Ch06 error code](/posts/lg-mini-split-ch06-error-code/)
-- [Lg Mini Split Ch07 error code](/posts/lg-mini-split-ch07-error-code/)
-- [Lg Mini Split Ch09 error code](/posts/lg-mini-split-ch09-error-code/)
-- [Lg Mini Split Ch10 error code](/posts/lg-mini-split-ch10-error-code/)
+- Lg Mini Split Ch 05 error code
+- Lg Mini Split Ch 26 error code
+- Lg Mini Split Ch 38 error code
+- Lg Mini Split Ch01 error code
+- Lg Mini Split Ch02 error code
+- Lg Mini Split Ch03 error code
+- Lg Mini Split Ch04 error code
+- Lg Mini Split Ch05 error code
+- Lg Mini Split Ch06 error code
+- Lg Mini Split Ch07 error code
+- Lg Mini Split Ch09 error code
+- Lg Mini Split Ch10 error code
 
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you have verified the remote works (LCD lights up, buttons click, and it operates another unit or you have tested a spare) but the indoor unit still does not respond. The tech will test the indoor unit's IR receiver, inspect the control board, and check for wiring or communication faults. If you are seeing a numeric error code on the indoor unit display along with the unresponsive remote, that points to a communication fault between indoor and outdoor units and requires professional diagnosis with the service manual and a multimeter.
-
-## See Also
-
-- [LG Range SE Error Code - Causes & Fix](/posts/lg-range-se-error-code/)
-- [LG Washer Cd Error Code - Causes & Fix](/posts/lg-washer-cd-error-code/)
-- [LG Mini Split Blowing Warm Air - Causes & Fix](/posts/lg-mini-split-blowing-warm-air/)
-- [LG Mini-Split CH38 Error Code - Causes & Fix](/posts/lg-mini-split-ch-38-error-code/)

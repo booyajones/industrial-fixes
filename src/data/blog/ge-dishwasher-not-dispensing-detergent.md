@@ -19,8 +19,6 @@ When a GE dishwasher is not dispensing detergent, the detergent cup door either 
 
 The complaint can also mean the cup opened on time but poor wash conditions left detergent sitting in the cup. This points to blocked spray arms, clogged filters, weak water flow, or low water temperature preventing the detergent from dissolving and washing away.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dishes or pot handles blocking the detergent cup** Tall items, overcrowded lower racks, or pot handles in front of the dispenser prevent the door from swinging open during the cycle.
@@ -64,8 +62,8 @@ If your appliance also shows a code on the display, these match this problem:
 - [Ge Dishwasher C8 error code](/posts/ge-dishwasher-c8-error-code/)
 - [Ge Dishwasher Ef error code](/posts/ge-dishwasher-ef-error-code/)
 - [Ge Dishwasher F56 error code](/posts/ge-dishwasher-f56-error-code/)
-- [Ge Dishwasher F9 error code](/posts/ge-dishwasher-f9-error-code/)
-- [Ge Dishwasher Ff error code](/posts/ge-dishwasher-ff-error-code/)
+- Ge Dishwasher F9 error code
+- Ge Dishwasher Ff error code
 
 ## When to Call a Pro
 

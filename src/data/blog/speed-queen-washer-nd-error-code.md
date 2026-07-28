@@ -14,11 +14,8 @@ money_part: "Drain pump"
 most_likely_cause: "Kinked or blocked drain hose"
 ---
 
-## Speed Queen Washer ND Error Code — What It Means
-
+## What this code means
 The ND error code on a Speed Queen washer indicates the machine has detected a drain-time problem. The washer cannot evacuate water within the expected cycle time. This is a drain restriction or drain pump fault condition, not a fill or door-lock issue. The code appears when water remains in the tub after the drain cycle completes, or the drain takes too long to finish.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

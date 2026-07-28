@@ -13,11 +13,8 @@ money_part: "Hot surface igniter"
 most_likely_cause: "Failed hot surface igniter"
 ---
 
-## Nordyne Furnace E4 Error Code — What It Means
-
+## What this code means
 E4 on a Nordyne furnace (and Nordyne-built brands including Frigidaire, Gibson, Westinghouse, and Maytag residential furnaces) indicates an ignition lockout. The control board attempted the ignition sequence — typically three tries — and never detected a stable flame signal. After exhausting retries, the board locks out and flashes E4. The furnace will not attempt another ignition until the lockout is manually cleared by cycling power. The most likely causes are a failed hot surface igniter, dirty flame sensor, or interrupted gas supply.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,11 +43,3 @@ E4 on a Nordyne furnace (and Nordyne-built brands including Frigidaire, Gibson, 
 ## When to Call a Pro
 
 If E4 returns within a few days of clearing, have a technician check the heat exchanger for cracks. A cracked heat exchanger causes erratic combustion that can trip the flame sensor even when the burner appears to be operating.
-
-## Related Articles
-
-- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
-- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
-- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

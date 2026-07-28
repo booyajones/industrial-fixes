@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Maytag washer shift actuator"
 ---
 
-## Maytag Washer F7E5 Error Code — What It Means
-
+## What this code means
 F7E5 on Maytag top-load washers indicates a shifter or drive engagement fault. The control board is not seeing the expected basket movement or shift feedback during wash-to-spin transitions. This is not a water-fill or drain issue. It is a mechanical or electrical problem in the drive system that prevents the machine from confirming the basket has shifted into the correct mode.
 
 Maytag's product help directs users to perform a 5-minute power reset as the first corrective action, which confirms the code is a control-detected drive-system problem rather than a simple user-serviceable fault. The code can result from a failed shift actuator, loose wiring, worn drive components, or a motor feedback issue.
@@ -25,8 +24,6 @@ Maytag's product help directs users to perform a 5-minute power reset as the fir
 ## Before You Replace Anything
 
 Many people replace the main control board first. Instead, inspect the shift actuator, harness connectors, and drive belt before spending money on electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

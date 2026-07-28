@@ -13,11 +13,8 @@ money_part: "Motor replacement"
 most_likely_cause: "Motor winding ground fault"
 ---
 
-## Allen Bradley PowerFlex 40 F2 Fault — What It Means
-
+## What this code means
 The Allen Bradley PowerFlex 40 **F2 fault** is a **Ground Fault** — the drive has detected that an abnormal amount of current is flowing from one or more output phases to the equipment ground. The PowerFlex 40's ground fault detection monitors the vector sum of U, V, and W output currents; any unbalanced return (current going to ground instead of completing the motor circuit) triggers F2. Ground faults are a wiring and motor insulation issue, not a drive parameter issue — F2 almost always points to a physical problem in the motor cable or motor winding.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ The Allen Bradley PowerFlex 40 **F2 fault** is a **Ground Fault** — the drive 
 ## When to Call a Pro
 
 If F2 fires with the motor disconnected (no load on the drive), the drive's IGBT module may have failed with an internal ground path. This requires internal drive inspection by an AB-authorized service center.
-
-## Related Articles
-
-- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
-- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
-- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)
-- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)
-- [Allen-Bradley PowerFlex 4M Fault Codes — F2, F4, F5, F7, F12 Fix Guide](/posts/allen-bradley-powerflex-4m-fault-codes/)
-
-## See Also
-
-- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
-- [Allen-Bradley PowerFlex F081 Fault — Communication Loss Fix](/posts/allen-bradley-powerflex-f081-fault/)
-- [Allen-Bradley PowerFlex 753/755 Control Sync Fault Fix](/posts/allen-bradley-powerflex-753-control-sync-fault/)
-- [Allen-Bradley PowerFlex Fault F025 — Causes & Fix](/posts/allen-bradley-powerflex-fault-f025/)

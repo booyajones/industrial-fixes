@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## KitchenAid F6 E5 Error Code — What It Means
-
+## What this code means
 The F6 E5 error on a KitchenAid wall oven or range indicates a control-panel or control-board communication fault. KitchenAid's official product help identifies this as a problem with the Control Panel Assembly or its associated wiring. In the broader KitchenAid oven error-code system, F6 codes relate to the oven control, electronic control, and related wiring.
 
 Because model-specific documentation varies, the safest interpretation is that the control system is not communicating correctly or is not configured or programmed correctly. This can be a physical wiring issue, a failed control panel, a failed control board, or a mismatch between a replacement board and the oven's configuration.
@@ -24,8 +23,6 @@ Because model-specific documentation varies, the safest interpretation is that t
 ## Before You Replace Anything
 
 Many people replace the control board first, but the real culprit is often a loose or damaged ribbon cable or wire harness between the panel and board. Always inspect and reseat all connectors before ordering a new control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

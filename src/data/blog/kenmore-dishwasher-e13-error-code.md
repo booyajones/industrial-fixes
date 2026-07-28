@@ -16,8 +16,7 @@ part_price: "$15-80"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Dishwasher E13 Error — What It Means
-
+## What this code means
 E13 is not a universal Kenmore dishwasher code. Kenmore dishwashers are manufactured by different OEMs depending on the model family, so E13 can mean different things across platforms. On some LG-manufactured Kenmore models, E13 indicates a drain problem such as a kinked, clogged, or frozen drain hose, a blocked sump, or a drain-path restriction. On other platforms, the same code may relate to a leak or pressure-switch fault, or may not be used at all.
 
 Because the exact meaning depends on your dishwasher's underlying platform and model number, always consult the owner's manual or the wiring diagram inside the door or on the tub wall. Look for the full model number on the door frame or tub label. Without that information, repair steps based on another brand's definition may lead to wasted time and wrong parts.
@@ -25,8 +24,6 @@ Because the exact meaning depends on your dishwasher's underlying platform and m
 ## Before You Replace Anything
 
 Many owners replace the drain pump when E13 appears, but a simple kinked or clogged drain hose is often the real cause. Inspect the entire drain path and hose routing before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

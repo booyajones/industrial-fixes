@@ -15,15 +15,12 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 VFD oL Fault — What It Means
-
+## What this code means
 The oL fault code on the Yaskawa A1000 VFD indicates an overload condition. The drive uses specific sub-codes: oL1 for motor overload (electronic thermal model calculates the motor has drawn too much current over time), oL2 for drive hardware overload (current exceeds the drive's rated capacity), oL3/oL4 for overtorque detection (current exceeds the torque limit set in parameters T6-01 or T6-02), and oL7 for high slip during braking. The A1000 does not use physical temperature sensors but instead simulates motor heating mathematically based on current squared times time. When accumulated heat exceeds the threshold defined by the motor's rated current in the drive parameters, the fault triggers. This is a protective shutdown to prevent damage to the motor windings or the drive's semiconductor components (IGBTs).
 
 ## Before You Replace Anything
 
 Technicians often replace the drive itself when the real issue is incorrect motor parameter settings (E5-xx series) or a mechanical binding problem. Before ordering a new drive, verify that the motor nameplate values match the programmed parameters and disconnect the load to test the motor unloaded.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or controls technician if you are not trained to work with three-phase power, high-voltage DC bus circuits, or VFD programming. Overload faults often require load analysis, motor testing with a megohmmeter, and parameter tuning that demands familiarity with the A1000 keypad and manual. If the fault persists after verifying parameters and mechanical load, a technician should perform current measurement with a clamp meter during operation and evaluate whether the drive is undersized or the motor windings are shorted. Any work inside the VFD enclosure while energized is dangerous and should be left to professionals.
 
 **Rough cost:** A pro service call runs about $200-800 depending on whether the fix is parameter tuning, motor repair, or drive replacement.
-
-## See Also
-
-- [Yaskawa GA800 E27 Fault - Causes & Fix](/posts/yaskawa-ga800-e27-fault-code/)
-- [Yaskawa GA800 E95 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e95-fault-code/)
-- [Yaskawa GA800 A.111 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-111-fault-code/)
-- [Yaskawa GA800 E27 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e27-fault-code/)

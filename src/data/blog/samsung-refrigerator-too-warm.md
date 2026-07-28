@@ -19,8 +19,6 @@ A Samsung refrigerator being too warm is not a single fault code but a symptom t
 
 If a temperature-related error code is showing, consult the refrigerator error-code guide and follow the code-specific troubleshooting. If no code is showing, Samsung treats the complaint as a cooling problem caused by settings, door sealing, installation and clearance, food loading, or an internal cooling or airflow fault. Samsung also notes that warm side walls can be normal on some models because heat is dissipated through the cabinet during refrigeration.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door not sealing fully or gasket gap** The door is left open, the gasket is torn or dirty, or the refrigerator is overloaded so the door cannot close completely.

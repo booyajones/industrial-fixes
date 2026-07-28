@@ -27,8 +27,6 @@ The Scotsman C0522 is a 522 lb/day cube ice machine (Prodigy series) found in re
 | E1 | Evaporator thermistor fault | Medium |
 | P1 | Power interruption (informational) | Low |
 
-[Jump to Fix](#fix)
-
 ## C0522 Common Fixes {#fix}
 
 **Codes 1, 3 (cycle too long):** The C0522 is a high-production unit that requires clean condenser to stay in spec. In kitchens with grease-laden air, condenser cleaning every 2-3 months is realistic. Clean fins thoroughly and verify condenser fan motor is running.
@@ -49,18 +47,3 @@ The Scotsman C0522 is a 522 lb/day cube ice machine (Prodigy series) found in re
 ## When to Call a Pro
 
 Refrigerant diagnosis and recharge for Code 3 (low charge) requires EPA 608 certification.
-
-## Related Articles
-
-- [Scotsman HID312 Error Codes — Fault Code Diagnostic Guide](/posts/scotsman-hid312-error-codes/)
-- [Scotsman HID525 Error Codes — Complete Guide](/posts/scotsman-hid525-error-codes/)
-- [Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/scotsman-ice-machine-complete-guide/)
-- [Scotsman Ice Machine Error Code 1 — High Pressure Cutout Fix](/posts/scotsman-ice-machine-error-code-1/)
-- [Scotsman Ice Machine Error Code 2 — Causes & Fix](/posts/scotsman-ice-machine-error-code-2/)
-
-## See Also
-
-- [Scotsman Ice Machine Error Code 2 — Causes & Fix](/posts/scotsman-ice-machine-error-code-2/)
-- [Scotsman Ice Machine Error Code 8 — Causes & Fix](/posts/scotsman-ice-machine-error-code-8/)
-- [Scotsman 3-Flash Code — Long Harvest Cycle Fix](/posts/scotsman-3-flash-code/)
-- [Scotsman Ice Machine Error Code 3 — Causes & Fix](/posts/scotsman-ice-machine-error-code-3/)

@@ -13,11 +13,8 @@ money_part: "Air filter (1' or 4' media)"
 most_likely_cause: "Dirty or clogged air filter"
 ---
 
-## Lennox Error Code 332 — What It Means
-
+## What this code means
 Lennox error code 332 indicates an open limit device. The high-limit switch is a thermal safety located on the heat exchanger or plenum. When the supply air temperature exceeds the switch's set point — typically 170–200°F — it opens and shuts off the gas valve to prevent overheating. Code 332 means the furnace tripped this limit, usually because heat could not be removed from the heat exchanger fast enough.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,18 +44,3 @@ Lennox error code 332 indicates an open limit device. The high-limit switch is a
 ## When to Call a Pro
 
 If the limit trips repeatedly after filter and airflow corrections, call an HVAC technician to perform a static pressure measurement and blower performance test. Persistent 332 faults can indicate duct design problems or a failing heat exchanger that restricts internal airflow.
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-
-## See Also
-
-- [Lennox Error Code 412 — Limit Switch Fault Fix](/posts/lennox-error-code-412/)
-- [Lennox Error Code 441 — Limit Device Fault](/posts/lennox-error-code-441/)
-- [Lennox Furnace Error Codes — Complete Reference Guide](/posts/lennox-furnace-error-codes/)
-- [Lennox Error Code 540 — Communicating System Fault (Detailed Guide)](/posts/lennox-error-code-540-communicating/)

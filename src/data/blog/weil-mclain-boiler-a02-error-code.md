@@ -19,8 +19,7 @@ free_checks:
 part_price: "$40-80"
 ---
 
-## Weil-McLain A02 Error Code — What It Means
-
+## What this code means
 The A02 code on a Weil-McLain Aqua Balance boiler indicates a false flame fault. The control is detecting flame when there should not be any flame present, typically during the pre-purge or standby phase before ignition is commanded. This is different from the A01 code, which signals a failure to ignite.
 
 The A02 fault points to a problem in the flame-sensing and ignition circuit. The control uses an electrode to sense flame current, and if that electrode is contaminated, misaligned, or its wiring is faulty, the control may see a false signal and lock out to prevent unsafe operation. The fault can also occur if the gas valve leaks slightly or if the ignition cable has developed a short or ground path.
@@ -28,8 +27,6 @@ The A02 fault points to a problem in the flame-sensing and ignition circuit. The
 ## Before You Replace Anything
 
 Technicians sometimes replace the gas valve or control board before inspecting the electrode assembly. A visual inspection of the electrode for contamination, proper gap, and secure connections will identify the real cause in most cases and costs nothing.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a licensed heating technician for any A02 fault on a gas boiler. Diagnosis requires safe access to live ignition components, the ability to verify gas supply pressure (3.5 to 11 in. w.c. at the valve inlet for ignition troubleshooting), and proper testing of the flame-sensing circuit. If cleaning or realigning the electrode does not clear the fault, the technician will test the gas valve for leakage, verify control-board operation, and replace defective components with the correct factory parts. Working on gas-fired equipment without proper training and tools is dangerous and may violate local codes or void your warranty.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Weil-McLain E02 Error Code — Causes & Fix](/posts/weil-mclain-e02-error-code/)
-- [Weil-McLain 019 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a19-error-code/)
-- [Weil-McLain A37 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a37-error-code/)
-- [Weil-McLain Boiler Error Code E02 — Ignition Failure Fix](/posts/weil-mclain-e02-ignition-failure/)

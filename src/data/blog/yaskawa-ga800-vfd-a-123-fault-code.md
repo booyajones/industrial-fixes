@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "GA800 control board (model-specific)"
 ---
 
-## Yaskawa GA800 A.123 Fault — What It Means
-
+## What this code means
 The A.123 code on a Yaskawa GA800 VFD is a soft-charge (precharge) relay maintenance indicator, not a motor-tripping fault in the usual sense. The drive is not receiving the expected relay contact confirmation in the soft-charge bypass circuit during startup. This code is tied to the drive's maintenance monitor U4-06 [PreChargeRelayMainte], which tracks the service life of the relay that manages the precharge sequence.
 
 When this value climbs above about 90 percent, Yaskawa directs technicians to replace the control board or the complete drive assembly. The soft-charge relay energizes during power-up to limit inrush current to the DC bus capacitors, then a bypass contactor takes over for normal operation. If the relay contacts are worn, the relay coil driver circuit has failed, or the feedback signal is lost, the drive flags A.123 and may refuse to run.
@@ -24,8 +23,6 @@ When this value climbs above about 90 percent, Yaskawa directs technicians to re
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive immediately without checking the U4-06 maintenance counter first. If the counter is below 90 percent and the fault clears on a power cycle, the relay may have years of life left and no parts are needed yet.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a qualified drive technician or an authorized Yaskawa service center for any A.123 fault. The drive contains high-voltage DC bus capacitors that remain charged long after AC input is removed, and incorrect troubleshooting can destroy the control board or create an arc-flash hazard. Do not perform withstand-voltage or Megger insulation tests on the drive. If U4-06 is above 90 percent, only a factory-trained technician should replace the control board or drive, because parameter cloning, option-card transfer, and firmware matching are all critical to a successful swap. If your facility does not have in-house VFD repair capability, this is always a professional call.
 
 **Rough cost:** A pro service call runs about $500-2500.
-
-## See Also
-
-- [Yaskawa GA800 A.128 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-128-fault-code/)
-- [Yaskawa A1000 CPF12 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf12-fault-code/)
-- [Yaskawa V1000 OV Fault - What It Means and How to Fix It](/posts/yaskawa-v1000-fault-ov/)
-- [Yaskawa A1000 CPF03 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf03-fault-code/)

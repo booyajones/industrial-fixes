@@ -14,8 +14,7 @@ money_part: "Yaskawa GA800 control board"
 most_likely_cause: "Incorrect parameter setting"
 ---
 
-## Yaskawa GA800 E46 Fault Code — What It Means
-
+## What this code means
 The E46 code on a Yaskawa GA800 variable frequency drive is a fault or alarm indicator. The specific meaning of E46 must be verified in your drive's official fault code table, as Yaskawa fault codes vary by model and firmware version. The GA800 manual provides a complete fault code reference that matches each numeric code to a specific electrical, communication, or parameter condition. Once you identify the exact definition from your manual, you can use the drive's troubleshooting information and elementary diagram to trace the problem logically.
 
 Yaskawa troubleshooting procedures emphasize collecting your drive's full model number, specification number, serial number, and failure information before deeper diagnosis. Review any modified parameters or recent parameter changes, as incorrect settings can trigger fault conditions. The drive display will show the fault code along with additional diagnostic data that helps narrow the cause.
@@ -23,8 +22,6 @@ Yaskawa troubleshooting procedures emphasize collecting your drive's full model 
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board or power module before checking parameter settings and wiring connections. Always verify the exact fault definition in the manual and inspect modified parameters first.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or Yaskawa-certified technician if the fault definition involves high-voltage power circuits, internal drive hardware, or if you are not trained in VFD troubleshooting. Variable frequency drives operate at dangerous voltages and require specialized test equipment and knowledge of motor control. Always call a professional if the fault persists after parameter checks and wiring inspections, if you lack the drive manual or training, or if the drive will not clear the fault. Yaskawa provides technical support to help diagnose faults and can recommend authorized service centers for repair or component replacement.
 
 **Rough cost:** A pro service call runs about $200-800 depending on diagnosis time and parts.
-
-## See Also
-
-- [Yaskawa GA800 E01 Fault - Motor Data Error During Auto-Tune](/posts/yaskawa-ga800-e01-fault-code/)
-- [Yaskawa GA800 E14 Fault - Causes & Fix](/posts/yaskawa-ga800-e14-fault-code/)
-- [Yaskawa GA800 E63 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e63-fault-code/)
-- [Yaskawa GA800 A.128 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-128-fault-code/)

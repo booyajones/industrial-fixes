@@ -17,8 +17,7 @@ money_part: "Meat probe (temperature probe)"
 part_price: "$20-50"
 ---
 
-## Maytag Range F8 Error Code — What It Means
-
+## What this code means
 F8 on a Maytag range signals a meat probe fault. The oven control has detected a problem with the meat probe circuit or the connection between the probe and its receptacle. Maytag's product help directs you to verify the probe is securely inserted in the receptacle, reset power, and recheck operation.
 
 If your display shows F8 E0 instead, that is a different fault. F8 E0 means the cooling fan speed is too low. Maytag states it can be caused by airflow restriction, a faulty oven cooling fan, or associated wiring. Always check the full code on your display because the meaning changes depending on whether you see F8 alone or F8 E0.
@@ -26,8 +25,6 @@ If your display shows F8 E0 instead, that is a different fault. F8 E0 means the 
 ## Before You Replace Anything
 
 Homeowners sometimes order a new control board when the problem is simply a dirty or loose meat probe receptacle. Always remove, inspect, and reseat the probe connection before replacing any electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

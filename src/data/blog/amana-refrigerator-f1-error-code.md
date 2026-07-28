@@ -15,8 +15,7 @@ money_part: "Refrigerator thermistor or defrost sensor"
 most_likely_cause: "Main control board communication fault"
 ---
 
-## Amana Refrigerator F1 Error Code — What It Means
-
+## What this code means
 Amana does not publish a standard F1 error code definition for refrigerators in available manufacturer documentation. The F1 code is documented by Amana for ranges and ovens, where it indicates sensor, control, or wiring faults, but this does not apply to refrigerators. If your Amana refrigerator display shows F1, the meaning depends on your specific model and control board generation. Consult the wiring diagram behind the unit or your owner's manual for the exact fault definition.
 
 Because the code is not standardized across Amana refrigerators, general troubleshooting focuses on the most common refrigerator control and sensor problems: main control board communication errors, temperature sensor faults, wiring shorts, or display board issues. Do not assume the range/oven F1 meaning applies to your refrigerator.
@@ -24,8 +23,6 @@ Because the code is not standardized across Amana refrigerators, general trouble
 ## Before You Replace Anything
 
 Many people replace the main control board first when the actual fault is a shorted thermistor or loose connector. Measure thermistor resistance at room temperature and inspect all harness connections before ordering a control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

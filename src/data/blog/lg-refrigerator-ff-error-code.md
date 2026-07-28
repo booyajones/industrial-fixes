@@ -22,8 +22,7 @@ part_price: "$30-80"
 no_buy_pct: "60%"
 ---
 
-## LG Refrigerator FF Error Code — What It Means
-
+## What this code means
 The FF error code (sometimes displayed as E-FF) indicates a Freezer Fan Motor Fault. The main control board has detected that the freezer evaporator fan motor is not operating normally. Specifically, the controller receives no feedback signal from the fan motor for more than 65 seconds, or the motor is physically locked and cannot spin.
 
 The freezer fan circulates cold air from the evaporator through the freezer and into the refrigerator compartment. When it fails, the unit cannot maintain even cooling. This leads to rapid temperature rise in the freezer and potential food spoilage.
@@ -31,8 +30,6 @@ The freezer fan circulates cold air from the evaporator through the freezer and 
 ## Before You Replace Anything
 
 Many people replace the fan motor immediately when the real issue is ice buildup or a failed defrost system. Always defrost the unit completely and check that the fan spins freely by hand before ordering a new motor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -80,10 +77,3 @@ Answer these to narrow it down fast.
 Call a qualified technician if you are uncomfortable working with live voltage, if the fan motor replacement does not clear the error, or if the defrost system needs diagnosis. A technician will use a multimeter to test voltage at the motor, verify control board output, and check the defrost heater and thermostat continuity. If the main control board has failed, professional replacement is recommended because programming and installation require experience. Also call a pro if frost returns repeatedly, which indicates a defrost cycle fault that may involve the timer, adaptive defrost control, or sealed-system issues.
 
 **Rough cost:** DIY runs about $30-80 in parts if motor replacement needed, 30-90 min. A pro service call runs about $150-300.
-
-## See Also
-
-- [LG Mini Split Won't Turn On - Causes & Fix](/posts/lg-mini-split-wont-turn-on/)
-- [LG Washer Won't Drain - Causes & Fix](/posts/lg-washer-wont-drain/)
-- [LG Oven Broiler Not Working - Causes & Fix](/posts/lg-oven-broiler-not-working/)
-- [LG Washer Drive Motor/Stator-Rotor Replacement - Signs & How-To](/posts/lg-washer-drive-motor-stator-rotor-direct-drive-replacement/)

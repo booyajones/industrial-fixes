@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "Safety relay (Pilz, Schmersal, or machine OEM)"
 ---
 
-## Yaskawa GA800 E88 Fault — What It Means
-
+## What this code means
 The E88 fault on a Yaskawa GA800 VFD indicates that the Safe Torque Off (STO) safety circuit is not satisfied. The drive is designed to prevent torque output unless the STO input terminals see a valid permissive signal from the external safety chain. When this circuit is open or the safety relay is not energized, the drive refuses to run and displays E88.
 
 This is not a motor overload or internal drive failure. The fault exists specifically to enforce the safety interlock. The drive will remain inhibited until the STO input path is correctly wired and closed, typically by energizing a safety relay or closing an E-stop loop that feeds the STO terminals.
@@ -24,8 +23,6 @@ This is not a motor overload or internal drive failure. The fault exists specifi
 ## Before You Replace Anything
 
 Technicians sometimes suspect the drive control board or internal STO circuit when the real cause is an unenergized or miswired external safety relay. Always verify the safety relay output state and field wiring at the STO terminals before ordering drive parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or controls technician if you are not familiar with safety relay circuits, industrial control wiring, or the specific safety architecture of your machine. The STO function is a safety-critical circuit and incorrect wiring can create a hazard. If the external safety chain is verified and the fault persists, contact Yaskawa technical support with the drive model, spec number, and serial number for diagnosis of the internal STO circuit or possible control board issues. Do not attempt drive disassembly or internal repairs without factory training.
 
 **Rough cost:** A pro service call runs about $150-400 depending on safety relay or field wiring repair.
-
-## See Also
-
-- [Yaskawa GA800 E97 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e97-fault-code/)
-- [Yaskawa A1000 AL-31 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-31-fault-code/)
-- [Yaskawa GA800 F042 - Causes & Fix](/posts/yaskawa-ga800-vfd-f042-fault-code/)
-- [Yaskawa GA800 A.148 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-148-fault-code/)

@@ -19,8 +19,6 @@ A burning smell on a Samsung washer is not an error code but a symptom Samsung t
 
 A true burning smell that persists can point to overheating electrical or mechanical components such as the motor, wiring, belt, or pump. Because continued operation with an electrical burning smell can worsen damage or create a fire risk, the washer should be unplugged immediately if the odor is strong or clearly electrical in nature.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Motor insulation odor during first cycles** The motor's insulating coating releases a temporary odor on the first one or two cycles of a new washer or newly replaced motor, and Samsung says this is normal and will go away.

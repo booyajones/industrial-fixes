@@ -13,13 +13,10 @@ money_part: "Motor output cable (shielded VFD-rated)"
 most_likely_cause: "Motor overload or excessive torque demand"
 ---
 
-## Siemens F1 Fault — What It Means
-
+## What this code means
 F1 on a Siemens SINAMICS V20 drive means overcurrent. The drive has detected motor current above its permissible limit and tripped to protect the power stage and motor from damage. This is a protective shutdown, not a generic system error.
 
 In practical terms, the current drawn by the motor exceeded the drive's internal threshold. The inverter shuts down immediately to prevent overheating or failure of the output transistors and to protect the motor windings from thermal damage.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

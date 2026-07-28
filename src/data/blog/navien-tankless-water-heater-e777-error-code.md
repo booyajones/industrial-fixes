@@ -13,11 +13,8 @@ money_part: "LWCO sensor assembly"
 most_likely_cause: "LWCO wiring disconnected or loose"
 ---
 
-## Navien E777 Error Code — What It Means
-
+## What this code means
 E777 is an abnormal operation code tied to the low-water cutoff (LWCO) circuit on Navien combi boiler units. The control is detecting either a problem with the LWCO wiring or a true low-water condition in the hydronic (heating) loop. This is not a domestic hot-water flow fault. The unit will lock out until the LWCO circuit reads correctly and the system water level is restored.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ E777 is an abnormal operation code tied to the low-water cutoff (LWCO) circuit o
 ## When to Call a Pro
 
 Call a licensed heating contractor or Navien Service Specialist if you are not comfortable working with hydronic system wiring, water-fill components, or control-board diagnostics. Navien recommends that the original installer or a qualified technician contact technical support with the serial number for deeper troubleshooting. If you have verified the LWCO wiring is seated and the system water level is correct but the fault remains, the issue may be in the LWCO device or the board input circuit, both of which require service-level tools and training.
-
-## See Also
-
-- [Navien E515 Error Code - Causes & Fix](/posts/navien-tankless-e515-error-code/)
-- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
-- [Navien Error Code E007 — Causes & Fix](/posts/navien-error-code-e007/)
-- [Navien E003 Error - Ignition Failure Causes & Fix](/posts/navien-tankless-water-heater-e003-error-code/)

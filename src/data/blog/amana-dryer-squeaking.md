@@ -19,8 +19,6 @@ Squeaking in an Amana dryer is a mechanical friction noise, not an error code. A
 
 The noise typically comes from wear parts that spin or slide against each other during drum rotation. Amana notes that as dryers age, the belt and pulleys can wear and produce squealing-type sounds, and that lint accumulation inside can cause the belt and pulleys to squeak. A service call may be needed to open the cabinet, inspect wear components, and clean out lint.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Worn idler pulley** The idler pulley maintains belt tension and its bearing wears out over time, causing a high-pitched squeak as it spins.
@@ -61,9 +59,9 @@ If your appliance also shows a code on the display, these match this problem:
 - [Amana Dryer F02 error code](/posts/amana-dryer-f02-error-code/)
 - [Amana Dryer F1 E1 error code](/posts/amana-dryer-f1-e1-error-code/)
 - [Amana Dryer F1 E4 error code](/posts/amana-dryer-f1-e4-error-code/)
-- [Amana Dryer F1E3 error code](/posts/amana-dryer-f1e3-error-code/)
-- [Amana Dryer F1E5 error code](/posts/amana-dryer-f1e5-error-code/)
-- [Amana Dryer F20 error code](/posts/amana-dryer-f20-error-code/)
+- Amana Dryer F1E3 error code
+- Amana Dryer F1E5 error code
+- Amana Dryer F20 error code
 - [Amana Dryer F22 error code](/posts/amana-dryer-f22-error-code/)
 - [Amana Dryer F23 error code](/posts/amana-dryer-f23-error-code/)
 - [Amana Dryer F24 error code](/posts/amana-dryer-f24-error-code/)

@@ -13,11 +13,8 @@ money_part: "Drain pump motor"
 most_likely_cause: "Drain pump motor failed"
 ---
 
-## Hoshizaki F1 Error Code — What It Means
-
+## What this code means
 The F1 error on Hoshizaki ice machines indicates abnormal drain pump operation — the drain pump either failed to start, ran longer than expected without draining the water trough, or the control board detected abnormal current in the drain pump circuit. Hoshizaki uses drain pumps on many KM and IM series models to remove water during harvest; F1 means that process failed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ The F1 error on Hoshizaki ice machines indicates abnormal drain pump operation �
 ## When to Call a Pro
 
 If drain pump, line, and valve are all clear and F1 persists, the control board may have a failed relay output. Board diagnostics and replacement require a certified refrigeration technician.
-
-## Related Articles
-
-- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
-- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)
-- [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
-- [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)
-
-## See Also
-
-- [Hoshizaki KM-330 Error Codes — Fix Guide](/posts/hoshizaki-km-330-error-codes/)
-- [Hoshizaki KM Series E1 Error Code — Causes & Fix](/posts/hoshizaki-km-series-e1-error/)
-- [Hoshizaki KM-2000SAJ Ice Machine Error Codes - Full Diagnostic Guide](/posts/hoshizaki-km-2000saj-error-codes/)
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)

@@ -22,8 +22,7 @@ part_price: "$30-65"
 no_buy_pct: "65%"
 ---
 
-## Frigidaire Washer E21 Error — What It Means
-
+## What this code means
 E21 on a Frigidaire washer is a slow-drain or drain fault. The control board detects that water is not leaving the tub fast enough during the drain portion of the cycle. In practical service terms, the washer stops mid-cycle because the tub is still retaining water when it should be emptying.
 
 This fault is usually caused by a restriction in the drain path or a weak or failed drain pump, rather than an electrical or sensor problem. User reports and repair forum guidance confirm that the washer is stopping because water evacuation is too slow or completely blocked.
@@ -31,8 +30,6 @@ This fault is usually caused by a restriction in the drain path or a weak or fai
 ## Before You Replace Anything
 
 Many people replace the drain pump before checking for clogs. Always inspect the entire drain path, hoses, and pump inlet for foreign objects (coins, paper clips, lint, small clothing items) before ordering a pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -14,13 +14,10 @@ money_part: "Door lock assembly"
 most_likely_cause: "Door not fully closed or misaligned"
 ---
 
-## Speed Queen Washer dL Error Code — What It Means
-
+## What this code means
 The dL (or E:dL) error code on a Speed Queen washer indicates a door lock failure. The machine either could not lock the door within 15 to 20 seconds after you started the cycle, or it could not unlock the door within about 3 minutes after the cycle finished. On some models, Er dL means the door unlocked unexpectedly during the wash cycle. The control board monitors the door lock circuit continuously and will halt operation when it does not see the correct lock signal within the expected window.
 
 This fault protects you from running a cycle with an unsecured door and also prevents you from opening the door while water or motion is present. Most dL errors trace to mechanical misalignment, a worn latch, or a failed lock solenoid rather than the control board itself.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

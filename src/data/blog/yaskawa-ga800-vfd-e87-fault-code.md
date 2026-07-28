@@ -14,8 +14,7 @@ money_part: "Yaskawa GA800 control board"
 most_likely_cause: "Incorrect fault code read"
 ---
 
-## Yaskawa GA800 E87 Fault — What It Means
-
+## What this code means
 The E87 fault code on a Yaskawa GA800 VFD is not clearly identified in the manufacturer documentation available, so its exact meaning depends on the specific model and firmware version of your drive. Yaskawa instructs technicians to read the fault or alarm description directly from the drive's keypad display or from the fault list in the model-specific manual, then remove the underlying cause before pressing the RESET button on the keypad.
 
 Because Yaskawa GA800 drives use a standardized fault code structure but individual codes can vary, you should confirm whether the display shows E87, EF87, or a similar code, since a single character misread is common in the field. Once you have confirmed the code and consulted the fault list for your exact model, you can identify the root cause and proceed with the manufacturer's recommended reset procedure.
@@ -23,8 +22,6 @@ Because Yaskawa GA800 drives use a standardized fault code structure but individ
 ## Before You Replace Anything
 
 Do not replace the control board or power section until you have verified the exact fault definition from your model's fault list and ruled out external wiring, parameter settings, or sensor issues that trigger the code.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa support if the fault persists after you have checked wiring and reset the drive, if you do not have access to the model-specific fault list, or if diagnostics point to internal power stage or control board failure. Yaskawa's GA800 maintenance documentation states that repair beyond fan and control board replacement is not supported in the field, so drives requiring power section work must be sent to an authorized service center. Always provide the model/spec number, serial number, fault code with description, application details, and length of service when you call for support.
 
 **Rough cost:** A pro service call runs about $200-600 depending on diagnosis time and component replacement.
-
-## See Also
-
-- [Yaskawa A1000 AL-09 - Causes & Fix](/posts/yaskawa-a1000-vfd-al-09-fault-code/)
-- [Yaskawa A1000 VFD oL Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol-fault-code/)
-- [Yaskawa GA800 VFD E60 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e60-fault-code/)
-- [Yaskawa GA800 E14 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e14-fault-code/)

@@ -18,8 +18,7 @@ free_checks:
   - "Check motor cable routing for pinch points, abrasion, or physical damage along the entire run"
 ---
 
-## Allen-Bradley PowerFlex 525 F038 — What It Means
-
+## What this code means
 F038 on an Allen-Bradley PowerFlex 525 indicates a phase-to-ground fault on the drive output, specifically Phase U to ground. The drive has detected an abnormal output condition consistent with a short to ground on that motor phase or an internal drive output fault that presents the same symptom. The drive trips to protect itself and the motor from damage. Rockwell's manual states that a phase to ground fault has been detected between the drive and motor in this phase, and directs you to check the wiring between the drive and motor, check the motor for a grounded phase, and replace the drive if the fault cannot be cleared.
 
 This is a protective fault that requires investigation before restart. The fault will remain until you correct the underlying cause and manually clear it or cycle power. Common sources include damaged motor winding insulation, damaged or pinched motor cable insulation, loose or contaminated terminal connections at the drive or motor (especially with moisture or conductive debris present), or internal drive output damage if external wiring and motor insulation test good.
@@ -27,8 +26,6 @@ This is a protective fault that requires investigation before restart. The fault
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive without first isolating and insulation-testing the motor and cable separately. Use a megohmmeter to test the motor windings and cable to ground before replacing the drive, as the fault is often in the external wiring or motor itself.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or industrial automation technician for F038 faults. This repair involves high-voltage AC output circuits, requires lockout/tagout procedures, and needs specialized test equipment including a megohmmeter to properly diagnose whether the fault is in the motor, cable, or drive output stage. Incorrect diagnosis can lead to unnecessary drive replacement when only a cable or motor needs repair. A technician will safely isolate and test each component, interpret insulation resistance readings correctly, and replace only the failed part. If the drive itself has failed, proper programming and parameter setup of the replacement unit is needed to match your application.
 
 **Rough cost:** A pro service call runs about $200-800 depending on whether cable, motor, or drive replacement is needed.
-
-## See Also
-
-- [Allen-Bradley PowerFlex 525 F021 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f021-fault-code/)
-- [Allen-Bradley PowerFlex 525 F015 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f015-fault-code/)
-- [Allen Bradley PowerFlex 523 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-523-fault-f7/)
-- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)

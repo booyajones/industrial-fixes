@@ -17,8 +17,7 @@ money_part: "LG oven sensor / thermistor"
 part_price: "$20-60"
 ---
 
-## LG Range E5 Error Code — What It Means
-
+## What this code means
 On LG ranges where E5 is documented, the code indicates a thermistor or temperature-sensing fault. LG's official support materials identify this as a problem with the oven sensor (thermistor) that monitors cavity temperature. The sensor may be shorted, open, or sending an invalid signal to the control board. Not every LG range model uses E5 for this function, so consult your specific model's service manual or wiring diagram to confirm the exact meaning before ordering parts.
 
 The error can appear during preheat, bake, or self-clean cycles when the control board expects a valid resistance reading from the sensor but receives an out-of-range or missing signal. In some cases the code will clear after a power cycle, but if the underlying sensor or wiring fault remains, E5 will return as soon as the oven attempts to heat.
@@ -26,8 +25,6 @@ The error can appear during preheat, bake, or self-clean cycles when the control
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first when the real culprit is the oven sensor. Before ordering a new board, visually inspect the sensor probe and its wiring harness for damage, and check connector pins for corrosion or looseness.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a technician if you are uncomfortable working behind the range, if your unit is gas and you lack experience safely disconnecting the supply line, or if the new sensor does not resolve E5 and you suspect the main control board. A pro can test the board's thermistor-input circuit with a decade box or known-good sensor, confirm the correct resistance curve for your model, and replace the board if necessary. Also call for service if the sensor wiring is routed inside the oven cavity insulation or welded sheet metal that requires disassembly beyond removing a simple rear panel.
 
 **Rough cost:** DIY runs about $20–60 for sensor, 20–40 min. A pro service call runs about $120–250 service call including part.
-
-## See Also
-
-- [LG Refrigerator Compressor Replacement - Signs & How-To](/posts/lg-refrigerator-compressor-inverter-linear-replacement/)
-- [LG Refrigerator Main Control Board Replacement - Signs & How-To](/posts/lg-refrigerator-main-control-board-pcb-replacement/)
-- [LG Washer Won't Drain - Causes & Fix](/posts/lg-washer-wont-drain/)
-- [LG Oven F12 Error Code - Causes & Fix](/posts/lg-oven-f12-error-code/)

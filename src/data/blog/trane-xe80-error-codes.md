@@ -12,11 +12,8 @@ tags:
 money_part: "Hot-surface igniter"
 ---
 
-## Trane XE80 Error Codes — What It Means
-
+## What this code means
 The Trane XE80 is an older 80% AFUE single-stage gas furnace that was widely installed throughout the 1990s and 2000s. Millions remain in service. It uses a Trane IFC control board with a diagnostic LED inside the lower access panel. Because the XE80 is an 80% furnace, it does **not** have a secondary heat exchanger or condensate drain — many pressure switch issues common on 90%+ furnaces don't apply here.
-
-[Jump to Fix](#fix)
 
 ## Flash Code Quick Reference
 
@@ -68,18 +65,3 @@ The XE80 uses a hot-surface igniter (silicon carbide on older units, silicon nit
 | Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-trane-xe80-error-codes&tag=errorcodefixes-20) \| 3/8" ID rubber vacuum hose |
 ## When to Call a Pro
 The Trane XE80 is aging — most units are 15–25+ years old. If you're facing repeated ignition failures, a cracked heat exchanger is possible. A CO detector test and heat exchanger inspection by a licensed tech is worth scheduling on any XE80 over 20 years old, especially before another heating season.
-
-## Related Articles
-
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-
-## See Also
-
-- [Trane VRF System Error Codes Guide](/posts/trane-vrf-error-codes/)
-- [Trane XV80 Furnace Error Codes — Flash Code Diagnostic Guide](/posts/trane-xv80-error-codes/)
-- [Trane XR15 Heat Pump Error Codes — Complete Guide](/posts/trane-xr15-error-codes/)
-- [Trane XR90 Furnace Error Codes — Fault Code Diagnostic Guide](/posts/trane-xr90-error-codes/)

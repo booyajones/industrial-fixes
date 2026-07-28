@@ -42,11 +42,3 @@ Parker AC30 drives often trip because the **safe torque off** circuit is open. T
 ## Bottom Line
 
 On Parker AC30s, separate the fault into one of four buckets fast: power, motor/load, safety chain, or feedback. That narrows the problem much faster than staring at the keypad.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

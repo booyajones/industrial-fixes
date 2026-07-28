@@ -20,8 +20,7 @@ free_checks:
 part_price: "$35–65"
 ---
 
-## Kenmore Dishwasher F7E1 Error Code — What It Means
-
+## What this code means
 On Kenmore dishwashers built on the Whirlpool platform, F7E1 signals a heating fault. The control board has detected that the wash-heater circuit is not raising water temperature as expected during the programmed cycle. When this happens, the machine disables the heater and flags the error to prevent unsafe operation.
 
 This code is specific to dishwashers. The control expects to see a temperature rise during wash or dry phases. If the expected heat response is missing, it sets F7E1 and stops the cycle. The fault may be a hard failure in the heater itself, damaged wiring, or a control-board relay that no longer energizes the heater circuit.
@@ -29,8 +28,6 @@ This code is specific to dishwashers. The control expects to see a temperature r
 ## Before You Replace Anything
 
 Many owners replace the control board first, assuming electronics are at fault. Always test the heating element for continuity and inspect connectors for heat damage or looseness before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

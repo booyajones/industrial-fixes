@@ -19,8 +19,7 @@ free_checks:
   - "Check PLC or SCADA system for custom alarm mappings that might display AL-29 for a different underlying fault"
 ---
 
-## Yaskawa A1000 VFD AL-29 — What It Means
-
+## What this code means
 The fault code AL-29 does not appear in any official Yaskawa A1000 VFD documentation or service manual. Yaskawa A1000 drives use specific alphanumeric codes like oH, SC, Uv, and CPF, but no code matching AL-29 is listed in the manufacturer's fault code tables. If your display shows AL-29, it is most likely a misread code (such as CPF29, which indicates control circuit hardware damage), a custom alarm label created by a third-party monitoring system like a PLC or SCADA, or possibly a display glitch or firmware bug.
 
 The closest valid Yaskawa code ending in 29 is CPF29, which means control circuit error and indicates damaged hardware on the control board. This fault requires a power cycle and typically replacement of the control board or the entire drive unit. Other possibilities include misreading an overheating fault (oH codes) or short-circuit faults (SC codes). Always verify the actual fault code by power cycling the drive and checking the fault history menu (parameter U2-02) to confirm the exact code before ordering parts or calling for service.
@@ -29,30 +28,12 @@ The closest valid Yaskawa code ending in 29 is CPF29, which means control circui
 
 Technicians sometimes replace the entire VFD when the issue is simply a misread code or a third-party system alarm. Always verify the actual fault code in the drive's fault history menu (U2-02) and check PLC/SCADA alarm mappings before ordering expensive replacement hardware.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Misread or incorrectly displayed code (~50%)** The most common reason for seeing AL-29 is misreading the actual fault code on the display, confusing CPF29 or another valid code, or viewing a custom alarm label from a third-party monitoring system rather than the drive's native fault.
-- **Third-party alarm system custom label (~30%)** Many PLC or SCADA systems create their own alarm numbering (such as AL-29) that maps to one or more underlying Yaskawa fault codes, so the drive itself may be showing a different code internally.
-- **Damaged control board hardware (actual CPF29) (~15%)** If the real fault is CPF29, the control board has sustained physical damage such as burned components, failed capacitors, or corrupted connections between the control board and drive unit.
-- **Display glitch or firmware bug (~5%)** Rarely, a corrupted display or firmware error can show a nonsensical code like AL-29 that does not exist in the official fault table.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Does the drive display change to a different code after a complete power cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The AL-29 was likely a transient display error or misread. Record the new code and diagnose that fault instead.<br><strong>No:</strong> The code persists. Check the fault history menu (U2-02) to see if the drive logs a different underlying fault.</div>
-</details>
-
-<details class="dtree"><summary>Is the drive connected to a PLC, SCADA, or HMI system that shows AL-29?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Check the PLC or SCADA alarm mapping table to see which native Yaskawa fault AL-29 corresponds to, then diagnose that code.<br><strong>No:</strong> The code is coming directly from the drive. Proceed to verify the exact characters on the drive's own display and consult the fault history.</div>
-</details>
-
-<details class="dtree"><summary>Does the fault history menu (U2-02) show CPF29 or another valid code?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Diagnose and repair the actual logged fault (CPF29 typically requires control board replacement).<br><strong>No:</strong> The drive may have a corrupted display or firmware. Contact Yaskawa technical support or a qualified VFD technician for further diagnosis.</div>
-</details>
+- **Misread or incorrectly displayed code** The most common reason for seeing AL-29 is misreading the actual fault code on the display, confusing CPF29 or another valid code, or viewing a custom alarm label from a third-party monitoring system rather than the drive's native fault.
+- **Third-party alarm system custom label** Many PLC or SCADA systems create their own alarm numbering (such as AL-29) that maps to one or more underlying Yaskawa fault codes, so the drive itself may be showing a different code internally.
+- **Damaged control board hardware (actual CPF29)** If the real fault is CPF29, the control board has sustained physical damage such as burned components, failed capacitors, or corrupted connections between the control board and drive unit.
+- **Display glitch or firmware bug** Rarely, a corrupted display or firmware error can show a nonsensical code like AL-29 that does not exist in the official fault table.
 
 ## Step-by-Step Fix {#fix}
 
@@ -74,12 +55,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a qualified VFD technician or industrial electrician if you cannot verify the exact fault code after power cycling and checking the fault history, if the drive is connected to complex PLC or SCADA systems that require custom programming knowledge, or if you confirm a CPF29 fault that requires control board replacement. Control board replacement involves working inside high-voltage equipment with stored energy in capacitors even after power is disconnected, and improper handling can cause electric shock or further damage to the drive. Additionally, if you lack a megohmmeter or experience with DC bus voltage testing, professional diagnosis is necessary to avoid misdiagnosing the fault and replacing expensive parts unnecessarily. If the drive is under warranty or service contract, contact Yaskawa or your authorized service provider before opening the enclosure to avoid voiding coverage.
-
-**Rough cost:** A pro service call runs about $300-800 for control board replacement or drive unit replacement.
-
-## See Also
-
-- [Yaskawa GA800 E08 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e08-fault-code/)
-- [Yaskawa GA800 E03 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e03-fault-code/)
-- [Yaskawa GA800 A.122 Alarm - Causes & Fix](/posts/yaskawa-ga800-vfd-a-122-fault-code/)
-- [Yaskawa GA800 F020 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f020-fault-code/)

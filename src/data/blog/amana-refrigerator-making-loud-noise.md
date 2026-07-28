@@ -19,8 +19,6 @@ An Amana refrigerator making loud noise is a symptom, not a fault code. The exac
 
 Other noises have different sources. A steady hum typically comes from the compressor running normally. Clicking can be the thermostat cycling on and off. Gurgling is refrigerant moving through the system. Rattling usually means the cabinet is vibrating against a wall or a part is loose. Knocking or banging often points to the ice maker dropping ice or cycling. Screeching or squealing suggests a blocked fan blade or a failing fan motor.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Restricted water filter or supply line causing inlet valve buzz** A clogged filter or pinched water line forces the inlet valve to work harder during fill cycles, producing a loud buzzing sound.
@@ -55,15 +53,15 @@ Other noises have different sources. A steady hum typically comes from the compr
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Amana Refrigerator Ci error code](/posts/amana-refrigerator-ci-error-code/)
-- [Amana Refrigerator D7 error code](/posts/amana-refrigerator-d7-error-code/)
-- [Amana Refrigerator D8 error code](/posts/amana-refrigerator-d8-error-code/)
-- [Amana Refrigerator D9 error code](/posts/amana-refrigerator-d9-error-code/)
-- [Amana Refrigerator Ec40 error code](/posts/amana-refrigerator-ec40-error-code/)
-- [Amana Refrigerator F1 error code](/posts/amana-refrigerator-f1-error-code/)
-- [Amana Refrigerator If error code](/posts/amana-refrigerator-if-error-code/)
-- [Amana Refrigerator It error code](/posts/amana-refrigerator-it-error-code/)
-- [Amana Refrigerator Po error code](/posts/amana-refrigerator-po-error-code/)
+- Amana Refrigerator Ci error code
+- Amana Refrigerator D7 error code
+- Amana Refrigerator D8 error code
+- Amana Refrigerator D9 error code
+- Amana Refrigerator Ec40 error code
+- Amana Refrigerator F1 error code
+- Amana Refrigerator If error code
+- Amana Refrigerator It error code
+- Amana Refrigerator Po error code
 
 ## When to Call a Pro
 

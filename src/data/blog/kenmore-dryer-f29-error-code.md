@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Dryer F29 Error Code — What It Means
-
+## What this code means
 On Kenmore dryers built on Whirlpool platforms, the F29 code indicates a moisture sensor circuit fault. This means the dryer's control board has detected a problem with the moisture-sensing bars or their wiring rather than a simple airflow or lint-screen issue. The moisture sensor uses metal bars (usually located near the lint screen or drum opening) to detect dampness in clothing and automatically end the cycle when dry.
 
 When the sensor circuit shorts, loses communication, or sends erratic readings due to contamination or damaged wiring, the control board throws F29 and may stop the cycle. This code is specifically tied to the sensor circuit itself, not a general drying-performance complaint, though a restricted vent can compound drying problems once the sensor issue is resolved.
@@ -26,8 +25,6 @@ When the sensor circuit shorts, loses communication, or sends erratic readings d
 ## Before You Replace Anything
 
 Many people replace the main control board first, but the real culprit is usually waxy residue on the sensor bars or a loose connector. Clean the bars with rubbing alcohol and check the harness plug before ordering expensive boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

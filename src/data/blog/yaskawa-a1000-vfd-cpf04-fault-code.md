@@ -15,8 +15,7 @@ likelihood: "the primary cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 CPF04 — What It Means
-
+## What this code means
 The CPF04 fault code on a Yaskawa A1000 variable frequency drive belongs to the CPF control-circuit fault family. This means the drive has detected an internal problem in its control electronics during self-diagnosis. Unlike motor overload or power-supply alarms, CPF errors point to issues inside the drive's control board or CPU circuitry.
 
 The manufacturer groups CPF04 with other control-circuit faults but does not publish a more detailed sub-description for this specific code. Field evidence shows that CPF-family errors usually stem from control board hardware failure or damage to the operator panel and its connector. The correct first response is to power-cycle the drive. If the fault persists or returns, the control board or entire drive will need replacement.
@@ -24,8 +23,6 @@ The manufacturer groups CPF04 with other control-circuit faults but does not pub
 ## Before You Replace Anything
 
 Technicians sometimes replace the operator panel first, assuming CPF errors are always operator-communication faults. Power-cycle the drive and reseat the operator connector before ordering parts. If the fault persists after those steps, the control board is the correct target.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -71,10 +68,3 @@ Answer these to narrow it down fast.
 CPF04 faults require control-board or drive replacement, work that demands familiarity with VFD parameter backup, high-voltage lockout, and proper ESD handling. Call a qualified industrial electrician or drive service technician if you are not trained in VFD repair. The technician will verify the fault, perform power-cycle and connector tests, and swap the control board or drive under proper isolation. If your process cannot tolerate downtime, keep a spare control board on hand and arrange for emergency service before the fault appears.
 
 **Rough cost:** A pro service call runs about $400–1200 for control board replacement, $1500–4000 for drive replacement, 1–3 hours labor.
-
-## See Also
-
-- [Yaskawa GA800 A.142 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-142-fault-code/)
-- [Yaskawa GA800 E05 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e05-fault-code/)
-- [Yaskawa GA800 E86 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e86-fault-code/)
-- [Yaskawa A1000 CPF11 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf11-fault-code/)

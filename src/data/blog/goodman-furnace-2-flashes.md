@@ -13,15 +13,12 @@ tags:
   - error-code
 ---
 
-## Goodman Furnace 2 Flashes — What It Means
-
+## What this code means
 **2 slow flashes** on a Goodman furnace control board means the **pressure switch is stuck closed (or closed when it shouldn't be)** — the control board sees the pressure switch in the closed position before the inducer motor has started, which shouldn't be possible under normal conditions. The furnace interprets this as a fault and refuses to proceed through the ignition sequence.
 
 This code also applies to **Amana furnaces** and some **Coleman furnaces** that share the same Goodman control board platform.
 
 Unlike 3-flash (switch open, no draft), 2-flash is the opposite condition — the switch appears closed when it should be open. It's less common but usually has a straightforward fix.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ If you've confirmed the pressure switch tests open at rest, the hose is clear of
 
 - [Goodman Furnace 3 Flashes — Pressure Switch Open](/posts/goodman-furnace-3-flashes/)
 - [Goodman Furnace 4 Flashes — Open High Limit Switch](/posts/goodman-furnace-4-flashes/)
-
-## See Also
-
-- [Goodman Furnace 4 Flashes — Open High Limit Switch Fix](/posts/goodman-furnace-4-flashes/)
-- [Goodman GMS96 Error Codes — Fault Code Guide](/posts/goodman-gms96-error-codes/)
-- [Goodman GSX13 Air Conditioner Error Codes — Fault Code Diagnostic Guide](/posts/goodman-gsx13-error-codes/)
-- [Goodman vs Bryant Furnaces — A Service Tech's Honest Comparison (2026)](/posts/goodman-vs-bryant-furnaces/)

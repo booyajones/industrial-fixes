@@ -16,8 +16,7 @@ money_part: "Whirlpool dispenser assembly"
 part_price: "$30-80"
 ---
 
-## Whirlpool F8E2 Error Code — What It Means
-
+## What this code means
 On Whirlpool dishwashers, F8E2 signals a bulk dispenser system fault. The dispenser may be clogged, incorrectly installed, or unable to operate. On Whirlpool washers, the same code indicates the dispenser motor or actuator cannot reach its commanded position. Because Whirlpool uses F8E2 differently across product lines, always verify your exact appliance type and model number before diagnosing. The code is not a drain-pump or water-level fault; it is strictly tied to the detergent or rinse-aid dispenser assembly.
 
 Whirlpool's product help instructs you to inspect the dispenser for clogs, confirm proper installation, and reset power to the control. If the fault persists after cleaning and resetting, the dispenser motor, wiring harness, or main control board may have failed. Diagnostic tests built into the appliance can confirm whether the dispenser actuates and whether the code returns, helping you narrow down the failed component.
@@ -25,8 +24,6 @@ Whirlpool's product help instructs you to inspect the dispenser for clogs, confi
 ## Before You Replace Anything
 
 Many people replace the main control board when the dispenser is simply clogged with detergent buildup. Clean the dispenser thoroughly and run the built-in diagnostic test before ordering any electronic parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

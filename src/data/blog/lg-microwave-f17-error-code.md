@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "LG microwave temperature sensor (thermistor)"
 ---
 
-## LG Microwave F17 Error Code — What It Means
-
+## What this code means
 The F17 error code on an LG microwave signals a fault in the temperature-sensing circuit. LG's official support documentation identifies F17 as a temperature sensor problem that requires service. On some LG NeoChef models, the code specifically points to the inverter temperature sensor, which monitors the inverter module's operating temperature.
 
 The microwave's control board has detected that the sensor is reading out of range, not responding, or sending erratic signals. This can stem from a failed sensor component itself, broken or loose wiring between the sensor and the control or inverter board, or in some cases a fault in the inverter assembly. Because the microwave cannot safely regulate cooking temperature without a working sensor, it will not operate until the fault is corrected.
@@ -25,8 +24,6 @@ The microwave's control board has detected that the sensor is reading out of ran
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board first, but the actual fault is usually the sensor or its wiring. Always inspect the sensor connector and wiring harness for damage or loose contact before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a professional appliance technician for the F17 code. Microwave repair involves high-voltage capacitors that can hold a lethal charge even when the unit is unplugged, and safely discharging and testing the inverter or sensor circuit requires specialized training and tools. A qualified technician will verify the exact model-specific meaning of F17, test the sensor resistance and wiring continuity, inspect the inverter assembly on applicable models, and replace only the failed component. LG's own support guidance recommends scheduling service for this code, and attempting DIY repair risks electric shock or further damage to the control board or inverter.
 
 **Rough cost:** A pro service call runs about $150–300.
-
-## See Also
-
-- [LG Range F9 Error Code - Causes & Fix](/posts/lg-range-f9-error-code/)
-- [LG Oven F10 Error Code - Causes & Fix](/posts/lg-oven-f10-error-code/)
-- [LG Microwave F16 Error - Causes & Fix](/posts/lg-microwave-f16-error-code/)
-- [LG Dishwasher Won't Start - Causes & Fix](/posts/lg-dishwasher-wont-start/)

@@ -13,13 +13,10 @@ money_part: "Analog input cable or wire"
 most_likely_cause: "Broken wire or open circuit in analog input wiring"
 ---
 
-## Siemens Micromaster F0080 — What It Means
-
+## What this code means
 F0080 on a Siemens Micromaster 4 series drive indicates ADC lost input signal, also called analogue input lost signal. The drive expects an analog control signal (typically from a potentiometer, PLC analog output, or other transmitter) and either the signal is missing entirely, the wiring is broken, or the signal falls outside the acceptable range configured for that input. When the drive detects this loss, it trips on OFF2 and halts operation to prevent uncontrolled behavior.
 
 This fault is not caused by a failed motor or power section. It points directly to the command input side of the system. The drive is looking for a valid setpoint and cannot find one, so your first job is to trace the analog signal from its source all the way to the drive terminals and confirm both the source and the path are working correctly.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ This fault is not caused by a failed motor or power section. It points directly 
 ## When to Call a Pro
 
 Call a qualified industrial electrician or controls technician if you are not familiar with measuring and troubleshooting low-voltage analog signals, if the fault persists after you have confirmed good wiring and a valid source signal, or if you need to modify drive parameters and are unsure of the correct control configuration. A technician with experience in Siemens Micromaster drives can quickly verify the parameter setup, test the analog input circuit with precision tools, and determine whether the issue is external wiring, a failed source device, or an internal drive problem that requires board-level repair or drive replacement.
-
-## See Also
-
-- [Siemens Micromaster F0015 - Causes & Fix](/posts/siemens-micromaster-f0015-fault-code/)
-- [Siemens Micromaster F0035 - Causes & Fix](/posts/siemens-micromaster-vfd-f0035-fault-code/)
-- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)
-- [Siemens G120 F30002 - DC Link Overvoltage Causes & Fix](/posts/siemens-g120-vfd-f30002-fault-code/)

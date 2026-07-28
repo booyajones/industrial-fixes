@@ -13,13 +13,10 @@ money_part: "Yaskawa GA800 operator keypad"
 most_likely_cause: "Incorrect motor nameplate entries"
 ---
 
-## Yaskawa GA800 E01 Fault — What It Means
-
+## What this code means
 The E01 (sometimes displayed as Er-01) fault on a Yaskawa GA800 drive indicates a motor data error detected during the Auto-Tuning process. This is not a hardware failure code. The drive has identified that the motor nameplate data you entered does not match internally or is inconsistent with the drive's expectations. Common mismatches include motor rated power not aligning with rated current, motor no-load current (parameter E2-03) not fitting the rated current, or base frequency and base speed values that do not correspond. The drive will not complete Auto-Tuning until the data is corrected.
 
 This fault appears when technicians are commissioning a new motor or reconfiguring an existing installation. It means the drive cannot build an accurate motor model for vector control because the input data is invalid or contradictory. You will need to verify every motor parameter entered against the actual motor nameplate and correct any errors before re-running the Auto-Tune routine.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ This fault appears when technicians are commissioning a new motor or reconfiguri
 ## When to Call a Pro
 
 Call a qualified drive technician or Yaskawa-authorized service provider if the E01 fault persists after you have verified and corrected all motor nameplate data and re-run Auto-Tuning. If you are uncertain about drive-motor compatibility, do not have access to the full GA800 parameter manual for your specific model and serial number, or if the drive was recently installed and you suspect a catalog selection error, professional assistance will prevent damage and make sure proper commissioning. Also reach out to Yaskawa technical support with your drive model number, serial number, and fault history if the root cause is not clear after following these steps.
-
-## See Also
-
-- [Yaskawa J1000 Fault Codes — VFD Troubleshooting Guide](/posts/yaskawa-j1000-fault-codes/)
-- [Yaskawa VFD Fault UV1 — Causes & Fix](/posts/yaskawa-vfd-fault-uv1/)
-- [Yaskawa VFD Fault ER — Causes & Fix](/posts/yaskawa-vfd-fault-er/)
-- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)

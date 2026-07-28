@@ -19,8 +19,6 @@ A Maytag dishwasher with standing water in the bottom is reporting a drain failu
 
 Maytag's guidance identifies the problem as a blockage in the drain path or a failed drain component. The dishwasher completes its wash but cannot pump water out, leaving a pool in the tub. This is different from a mid-cycle stop or fill problem.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged drain filter or debris in sump** Food particles, labels, glass, or plastic trapped in the filter or sump area block water from reaching the pump.
@@ -58,12 +56,12 @@ If your appliance also shows a code on the display, these match this problem:
 - [Maytag Dishwasher E15 error code](/posts/maytag-dishwasher-e15-error-code/)
 - [Maytag Dishwasher E3 error code](/posts/maytag-dishwasher-e3-error-code/)
 - [Maytag Dishwasher E4 error code](/posts/maytag-dishwasher-e4-error-code/)
-- [Maytag Dishwasher E6 error code](/posts/maytag-dishwasher-e6-error-code/)
-- [Maytag Dishwasher E7 error code](/posts/maytag-dishwasher-e7-error-code/)
+- Maytag Dishwasher E6 error code
+- Maytag Dishwasher E7 error code
 - [Maytag Dishwasher F10E5 error code](/posts/maytag-dishwasher-f10e5-error-code/)
 - [Maytag Dishwasher F1E1 error code](/posts/maytag-dishwasher-f1e1-error-code/)
 - [Maytag Dishwasher F2E2 error code](/posts/maytag-dishwasher-f2e2-error-code/)
-- [Maytag Dishwasher F3E2 error code](/posts/maytag-dishwasher-f3e2-error-code/)
+- Maytag Dishwasher F3E2 error code
 - [Maytag Dishwasher F4E3 error code](/posts/maytag-dishwasher-f4e3-error-code/)
 - [Maytag Dishwasher F6E1 error code](/posts/maytag-dishwasher-f6e1-error-code/)
 

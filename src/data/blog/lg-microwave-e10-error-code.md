@@ -17,8 +17,7 @@ money_part: "LG microwave main control board"
 part_price: "$80-180"
 ---
 
-## LG Microwave E10 Error Code — What It Means
-
+## What this code means
 LG defines the E10 error code as an internal short detected in the control board. This fault is electronic, not related to the magnetron or heating system. The control board monitors its own circuitry and throws E10 when it finds a short circuit in its internal components or connected keypad lines.
 
 If the error clears temporarily after you unplug the microwave and then returns, that pattern confirms a board-level fault rather than a random glitch. In some cases a stuck key or contaminated touch panel can contribute to the short, but the root issue remains in the control-board circuitry.
@@ -26,8 +25,6 @@ If the error clears temporarily after you unplug the microwave and then returns,
 ## Before You Replace Anything
 
 Some owners replace the entire door assembly or keypad membrane alone when only the main control board is at fault. A simple power reset and visual inspection of the board will show whether physical damage, burn marks, or stuck keys are present before spending on unnecessary parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a technician if you are uncomfortable working near the high-voltage capacitor and magnetron inside the microwave cabinet. Even when unplugged, the capacitor can hold a lethal charge until it is properly discharged with an insulated screwdriver across its terminals. A service tech will safely discharge the unit, diagnose whether the control board or keypad is at fault, and install the correct replacement part. Professional help is also wise if you lack a service manual with the exact board location and connector pinout for your model, or if you have already replaced the board and E10 continues to appear.
 
 **Rough cost:** DIY runs about $80–180 for the control board, 30–60 min. A pro service call runs about $150–300 including labor and board.
-
-## See Also
-
-- [LG Microwave F-5 Error Code - Causes & Fix](/posts/lg-microwave-f-5-error-code/)
-- [LG Range PE Error Code - Causes & Fix](/posts/lg-range-pe-error-code/)
-- [LG Range HE Error Code - Causes & Fix](/posts/lg-range-he-error-code/)
-- [LG Refrigerator gF Error Code - Causes & Fix](/posts/lg-refrigerator-gf-error-code/)

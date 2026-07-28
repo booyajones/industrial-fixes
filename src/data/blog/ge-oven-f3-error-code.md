@@ -17,8 +17,7 @@ money_part: "Oven temperature sensor (GE)"
 part_price: "$20-50"
 ---
 
-## GE Oven F3 Error Code — What It Means
-
+## What this code means
 The F3 error on most GE ovens and ranges signals that the oven temperature sensor circuit is reading out of range. The electronic control interprets the sensor's signal as unsafe or invalid. This fault can stem from the sensor probe itself, broken or corroded wiring and connectors between the sensor and the main control board, or a failed control board. The code appears when the control cannot verify safe oven temperature, so it halts heating and displays F3 to prevent damage or hazard.
 
 In the field, the temperature sensor is the part that fails most often. Loose or oxidized connections at the sensor plug are the next common culprit. If both the sensor and its wiring check out, the electronic range control board is usually at fault. Because the control relies on a precise resistance reading from the sensor, even a minor wiring defect or sensor drift will trigger F3.
@@ -26,8 +25,6 @@ In the field, the temperature sensor is the part that fails most often. Loose or
 ## Before You Replace Anything
 
 Many people replace the expensive main control board first. Always test the sensor's resistance (should read about 1,080 ohms at room temperature) and inspect the connector before condemning the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

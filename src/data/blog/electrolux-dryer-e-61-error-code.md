@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Electrolux Dryer E61 Error Code — What It Means
-
+## What this code means
 The E61 code on an Electrolux dryer signals a heater relay or heating-circuit fault. The machine has detected that the heating circuit is not being controlled normally, typically because the heater relay on the main control board is stuck or failed, or because the heater circuit is shorted or grounded in a way that mimics that failure. In practical terms, technicians treat E61 as a fault in the path that switches power to the heater, not as a moisture-sensor or airflow issue.
 
 This code points to a problem with the relay that turns the heating element on and off, or with wiring and the element itself. The relay is usually soldered to the main electronic control board, so when it fails the entire board is replaced. A grounded heating element can also trigger E61 by creating a short-to-frame condition that makes the control board think the relay is stuck closed.
@@ -26,8 +25,6 @@ This code points to a problem with the relay that turns the heating element on a
 ## Before You Replace Anything
 
 Many people replace the main control board when the real fault is a grounded heating element. Always test the element for continuity to the chassis before ordering the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

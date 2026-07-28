@@ -17,8 +17,7 @@ money_part: "Frigidaire oven RTD temperature sensor probe"
 part_price: "$30-80"
 ---
 
-## Frigidaire Oven F31 Error Code — What It Means
-
+## What this code means
 Frigidaire's F31 error code stands for "Shorted Probe." The electronic control board has detected a problem with the oven temperature sensing circuit. The sensor, called an RTD (resistance temperature detector) probe, monitors oven temperature and sends a resistance signal to the control. When the circuit is out of range, shorted to ground, or the probe itself has failed, the control throws F31 and disables heating to protect the appliance.
 
 Frigidaire recommends a power reset as the first step. If the fault returns after the reset, the problem is typically the sensor probe itself, damaged wiring between the sensor and control board, or in rare cases the electronic control board.
@@ -26,8 +25,6 @@ Frigidaire recommends a power reset as the first step. If the fault returns afte
 ## Before You Replace Anything
 
 Many owners replace the electronic control board first without testing the sensor or wiring. Always measure the sensor's resistance at room temperature and inspect the harness connectors for corrosion or loose pins before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

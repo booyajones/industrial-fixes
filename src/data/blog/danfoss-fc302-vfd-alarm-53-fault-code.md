@@ -13,13 +13,10 @@ money_part: "Replacement motor (correctly sized)"
 most_likely_cause: "Motor horsepower or kW rating too large"
 ---
 
-## Danfoss FC302 ALARM 53 — What It Means
-
+## What this code means
 ALARM 53 on the Danfoss VLT AutomationDrive FC 302 means the connected motor is too large for the Automatic Motor Adaptation (AMA) routine to run. This is a startup or commissioning fault, not a motor overload or thermistor alarm. The drive has determined the motor's electrical size is outside the range the AMA procedure can handle.
 
 This alarm appears when you attempt to run AMA and the drive calculates the motor exceeds the limits of the automatic tuning routine. It does not point to a failed component inside the drive. The issue is a sizing or parameter entry mismatch between the motor and the drive's AMA capability.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ This alarm appears when you attempt to run AMA and the drive calculates the moto
 ## When to Call a Pro
 
 Call a qualified technician or controls engineer if you are not familiar with VFD commissioning, motor parameter entry, or manual tuning procedures. ALARM 53 is a configuration issue, not a simple reset, and incorrect motor data or mismatched components can lead to repeated faults or motor damage. If the motor is genuinely oversized for the drive's AMA routine and you need help sizing a replacement drive or programming manual motor control, professional assistance will save time and prevent equipment harm.
-
-## See Also
-
-- [Danfoss FC302 ALARM 15 - Causes & Fix](/posts/danfoss-fc302-alarm-15-fault-code/)
-- [Danfoss VFD Fault UL — Causes & Fix](/posts/danfoss-vfd-fault-ul/)
-- [Danfoss FC302 Alarm 47 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-47-fault-code/)
-- [Danfoss FC302 ALARM 35 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-35-fault-code/)

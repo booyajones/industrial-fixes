@@ -19,8 +19,6 @@ An Amana refrigerator that is not cooling is a symptom, not a single fault code.
 
 If the interior lights and control panel work but the compartments stay warm, the problem is in the cooling or airflow system. Common culprits include dirty condenser coils that cannot shed heat, a failed condenser fan, a bad start relay or capacitor preventing the compressor from starting, or frost buildup blocking air from reaching the fresh-food section.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty condenser coils** Dust and debris on the coils prevent heat rejection and are identified repeatedly as a top cause of poor cooling.
@@ -53,15 +51,15 @@ If the interior lights and control panel work but the compartments stay warm, th
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Amana Refrigerator Ci error code](/posts/amana-refrigerator-ci-error-code/)
-- [Amana Refrigerator D7 error code](/posts/amana-refrigerator-d7-error-code/)
-- [Amana Refrigerator D8 error code](/posts/amana-refrigerator-d8-error-code/)
-- [Amana Refrigerator D9 error code](/posts/amana-refrigerator-d9-error-code/)
-- [Amana Refrigerator Ec40 error code](/posts/amana-refrigerator-ec40-error-code/)
-- [Amana Refrigerator F1 error code](/posts/amana-refrigerator-f1-error-code/)
-- [Amana Refrigerator If error code](/posts/amana-refrigerator-if-error-code/)
-- [Amana Refrigerator It error code](/posts/amana-refrigerator-it-error-code/)
-- [Amana Refrigerator Po error code](/posts/amana-refrigerator-po-error-code/)
+- Amana Refrigerator Ci error code
+- Amana Refrigerator D7 error code
+- Amana Refrigerator D8 error code
+- Amana Refrigerator D9 error code
+- Amana Refrigerator Ec40 error code
+- Amana Refrigerator F1 error code
+- Amana Refrigerator If error code
+- Amana Refrigerator It error code
+- Amana Refrigerator Po error code
 
 ## When to Call a Pro
 

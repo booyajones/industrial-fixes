@@ -43,8 +43,8 @@ I've installed and serviced mini-splits across the Southwest and have remote con
 2. Indoor unit blower motor bearings at year 8-12 — similar to outdoor.
 3. Refrigerant line connection leaks at year 5-10 — flare connection aging, especially on installs with marginal torque. Common cause of [Mitsubishi P5 — pressure error](/posts/mitsubishi-p5-error-code) or similar.
 4. Thermistor (temperature sensor) drift on indoor coil at year 6-10. See [Mitsubishi P1 — indoor coil sensor](/posts/mitsubishi-p1-error-code) and [P2 — pipe sensor](/posts/mitsubishi-p2-error-code).
-5. Outdoor coil thermistor failures at year 8-12. See [Mitsubishi P3](/posts/mitsubishi-p3-error-code) and [P4](/posts/mitsubishi-p4-error-code).
-6. Inverter board failures at year 12-18 — expensive when they happen ($380-$650) but rare. See [Mitsubishi P6 — coil frost protection](/posts/mitsubishi-p6-error-code) and [P7 — system trouble](/posts/mitsubishi-p7-error-code) and [P8 — pipe temp](/posts/mitsubishi-p8-error-code).
+5. Outdoor coil thermistor failures at year 8-12. See [Mitsubishi P3](/posts/mitsubishi-p3-error-code) and P4.
+6. Inverter board failures at year 12-18 — expensive when they happen ($380-$650) but rare. See [Mitsubishi P6 — coil frost protection](/posts/mitsubishi-p6-error-code) and [P7 — system trouble](/posts/mitsubishi-p7-error-code) and P8 — pipe temp.
 7. Compressor failures at year 15-20 — usually preceded by months of declining performance.
 
 For heat pump operation, see [Mitsubishi heat pump H6 code](/posts/mitsubishi-heat-pump-error-code-h6).
@@ -78,11 +78,11 @@ For cold-climate performance specifically, Mitsubishi's H2i Hyper-Heat platform 
 - [Mitsubishi P1 — indoor coil thermistor](/posts/mitsubishi-p1-error-code)
 - [Mitsubishi P2 — pipe thermistor](/posts/mitsubishi-p2-error-code)
 - [Mitsubishi P3 — outdoor coil thermistor](/posts/mitsubishi-p3-error-code)
-- [Mitsubishi P4 — drain sensor](/posts/mitsubishi-p4-error-code)
+- Mitsubishi P4 — drain sensor
 - [Mitsubishi P5 — drain pump / pressure error](/posts/mitsubishi-p5-error-code)
 - [Mitsubishi P6 — coil frost protection](/posts/mitsubishi-p6-error-code)
 - [Mitsubishi P7 — system error](/posts/mitsubishi-p7-error-code)
-- [Mitsubishi P8 — pipe temp protection](/posts/mitsubishi-p8-error-code)
+- Mitsubishi P8 — pipe temp protection
 - [Mitsubishi heat pump H6 code](/posts/mitsubishi-heat-pump-error-code-h6)
 
 **Daikin:** uses two-character alphanumeric codes (A0, A6, C4, L5, U4, UA, etc.) displayed on indoor unit wireless remote LCDs and wall controllers. Codes are organized similarly — A-codes for indoor unit, C-codes for cooling/heating system issues, L-codes for inverter and compressor protection, U-codes for communication. Critical Daikin codes:
@@ -187,10 +187,3 @@ Comparable in major U.S. metros. In smaller markets, Daikin's broader distributi
 - [Daikin U4 error code](/posts/daikin-error-code-u4)
 - [Best HVAC multimeter buyer's guide](/posts/best-hvac-multimeter)
 - [Best refrigerant leak detector](/posts/best-refrigerant-leak-detector)
-
-## See Also
-
-- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
-- [Mitsubishi FR-A800 Fault E7 — CPU Error Causes & Fix](/posts/mitsubishi-fr-a800-fault-e7/)
-- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
-- [Mitsubishi P5 Error Code — Drain Pump Fault: Causes & Fix](/posts/mitsubishi-p5-error-code/)

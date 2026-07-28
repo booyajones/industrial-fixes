@@ -13,11 +13,8 @@ money_part: "T-in thermistor"
 most_likely_cause: "Insufficient water flow or no flow through the heater"
 ---
 
-## A.O. Smith Tankless E06 Error — What It Means
-
+## What this code means
 The E06 code on an A.O. Smith electric tankless water heater indicates that the control has detected an overtemperature condition. The water inside the unit is hotter than the safe operating threshold, and the heater may shut down to protect itself. This fault can appear on power-up if the unit already senses excessive temperature, or it can trip during operation if conditions allow internal temperature to climb beyond normal limits.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

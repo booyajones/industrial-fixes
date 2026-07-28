@@ -17,8 +17,6 @@ money_part: "Stepper driver"
 
 Stepper systems are simpler than servo systems, but they still generate faults through the driver or controller. The most common issues are overcurrent, overheating, missed steps, feedback loss on closed-loop steppers, and supply voltage problems.
 
-[Jump to Fix](#fix)
-
 ## Common Stepper Fault Categories
 
 | Fault Type | Typical Meaning |

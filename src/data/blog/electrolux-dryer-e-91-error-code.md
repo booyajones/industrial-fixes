@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Electrolux Dryer E91 Error — What It Means
-
+## What this code means
 The E91 error code indicates a communication failure between the Main Electronic Control Board (the dryer's main computer) and the User Interface Board (the display panel and control buttons). These two boards need to exchange data constantly. When the handshake protocol times out or is interrupted, the dryer cannot operate and displays E91.
 
 This is not a mechanical problem like a broken heating element or drum belt. It is a digital logic failure where the two microcontrollers cannot talk to each other. The cause is usually a loose or corroded wire connection, a failed interface board, or a temporary software glitch that can be cleared with a power reset.
@@ -26,8 +25,6 @@ This is not a mechanical problem like a broken heating element or drum belt. It 
 ## Before You Replace Anything
 
 Homeowners often replace the User Interface Board first without checking the ribbon cable connection. Before buying any parts, unplug the dryer for 10 minutes and reseat the cable connectors. Many E91 errors are fixed by simply reseating the harness.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

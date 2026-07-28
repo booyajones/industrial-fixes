@@ -59,18 +59,3 @@ Check hydraulic pressure (minimum 900 PSI for standard chucks). Verify workpiece
 | Hydraulic pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-mazak-nexus-error-codes&tag=errorcodefixes-20) \| Chuck and tailstock circuits |
 | Coolant pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-nexus-error-codes&k=Coolant+pump&tag=errorcodefixes-20) \| Check impeller and motor amps |
 > **Pro tip:** Mazak Nexus stores alarm history with timestamps in the ALARM LOG menu. Access via MAINTENANCE ΓåÆ ALARM LOG. Historical data shows if an alarm is intermittent (temperature-related) or consistent (mechanical or electrical failure).
-
-## Related Articles
-
-- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
-- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
-- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-
-## See Also
-
-- [Mazak Alarm 900 Tool Magazine Index Fault - Causes & Fix](/posts/mazak-alarm-900-magazine/)
-- [Mazak Alarm 1 Servo Alarm — Causes & Fix](/posts/mazak-alarm-1-servo/)
-- [Mazak Alarm 50 Servo — Causes & Fix](/posts/mazak-alarm-50-servo/)
-- [Mazak Alarm 700 — MPC Alarm](/posts/mazak-alarm-700-mpc/)

@@ -13,11 +13,8 @@ money_part: "Shielded analog signal cable"
 most_likely_cause: "Open or broken wire in the analog input loop"
 ---
 
-## Siemens G120 F03505 — What It Means
-
+## What this code means
 F03505 on a Siemens SINAMICS G120 is a fault that means 'Analog input, wire break.' The drive's wire-break monitoring has detected that the analog input current has dropped below the configured threshold set in parameter p0761. This is not a warning but a fault that stops operation. The drive expects a continuous current loop signal from an external device (like a pressure or flow transmitter) and triggers F03505 when the current falls too low or disappears entirely. You can read the actual measured analog input current in parameter r0752[x] to compare it against your threshold.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ F03505 on a Siemens SINAMICS G120 is a fault that means 'Analog input, wire brea
 ## When to Call a Pro
 
 Call a qualified drive technician or controls integrator if you have verified continuity and correct current in the external loop but the fault persists, if you are unsure how to safely measure live current loops or modify drive parameters, or if you suspect the control unit's analog input hardware is damaged. Also get professional help if your system uses complex multi-channel analog configurations or safety-rated signals where incorrect parameterization could create a hazard. Working inside an energized VFD cabinet requires electrical training and appropriate PPE.
-
-## See Also
-
-- [Siemens G120 F01611 - Causes & Fix](/posts/siemens-g120-f01611-fault-code/)
-- [Siemens G120 F01015 Fault - Causes & Fix](/posts/siemens-g120-vfd-f01015-fault-code/)
-- [Siemens G120 F01662 - Causes & Fix](/posts/siemens-g120-f01662-fault-code/)
-- [Siemens Micromaster F0060 - Causes & Fix](/posts/siemens-micromaster-f0060-fault-code/)

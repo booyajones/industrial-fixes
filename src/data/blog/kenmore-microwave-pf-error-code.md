@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Microwave PF Error Code — What It Means
-
+## What this code means
 PF stands for power failure or power interruption. Your Kenmore microwave displays this code when electrical power to the appliance has been briefly lost or interrupted. The control board reboots and flags the event rather than indicating an internal component fault. Common triggers include a utility outage, a tripped circuit breaker, a loose plug, a weak wall outlet, or a momentary voltage drop on an overloaded circuit.
 
 In most cases the code is informational and clears when you press the Clear, Stop, or Off button on the control panel. If PF reappears without any external power loss, the microwave's power-input path or control board may have an intermittent fault that mimics a power interruption.
@@ -27,31 +26,13 @@ In most cases the code is informational and clears when you press the Clear, Sto
 
 Homeowners sometimes replace the control board first when PF keeps returning, but a loose outlet receptacle or a worn power cord is usually the real culprit. Test the wall outlet with a known-good load and inspect the plug and cord for damage before ordering board parts.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Utility power outage or momentary voltage drop (~40%)** A brief interruption from the grid or an overloaded circuit causes the control board to reboot and display PF.
-- **Tripped circuit breaker or blown fuse (~25%)** A breaker trips or a fuse blows, cutting power long enough for the microwave to reset and log the interruption.
-- **Loose plug or weak wall outlet (~20%)** A plug that wobbles in the receptacle or worn outlet contacts create intermittent contact that the control reads as a power failure.
-- **GFCI or AFCI device trip (~10%)** A ground-fault or arc-fault interrupter upstream trips and cuts power briefly before resetting automatically or manually.
-- **Failing control board or user-interface panel (~5%)** An internal fault on the control board causes random reboots that mimic external power loss and display PF even when mains power is stable.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Did you recently experience a storm, outage, or intentionally unplug the microwave?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The PF code is expected. Press Clear/Stop/Off to dismiss it and resume normal use.<br><strong>No:</strong> The code appeared without a known power event. Check your breaker panel and outlet next.</div>
-</details>
-
-<details class="dtree"><summary>Does the wall outlet feel loose when you wiggle the plug, or is the breaker for this circuit tripped?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Tighten or replace the outlet receptacle and reset the breaker. A poor connection is triggering the code.<br><strong>No:</strong> The outlet and breaker are sound. The microwave's power cord or control board may be at fault.</div>
-</details>
-
-<details class="dtree"><summary>Does the PF code reappear within a few hours after clearing it and confirming stable power at the outlet?</summary>
-<div class="dtree-body"><strong>Yes:</strong> An internal fault in the power cord, control board, or user-interface panel is causing repeated reboots. Call a technician to test the control and input circuits.<br><strong>No:</strong> The code was a one-time event from an external power interruption. No further repair is needed.</div>
-</details>
+- **Utility power outage or momentary voltage drop** A brief interruption from the grid or an overloaded circuit causes the control board to reboot and display PF.
+- **Tripped circuit breaker or blown fuse** A breaker trips or a fuse blows, cutting power long enough for the microwave to reset and log the interruption.
+- **Loose plug or weak wall outlet** A plug that wobbles in the receptacle or worn outlet contacts create intermittent contact that the control reads as a power failure.
+- **GFCI or AFCI device trip** A ground-fault or arc-fault interrupter upstream trips and cuts power briefly before resetting automatically or manually.
+- **Failing control board or user-interface panel** An internal fault on the control board causes random reboots that mimic external power loss and display PF even when mains power is stable.
 
 ## Step-by-Step Fix {#fix}
 
@@ -74,5 +55,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a professional if the PF code returns repeatedly after you have confirmed stable power at the outlet and reset the breaker, if you are uncomfortable working inside the microwave cabinet to test the control board, or if you lack a multimeter to measure voltage and continuity. A technician will verify the integrity of the power-input circuit, test the control and user-interface boards for intermittent reboots, and replace faulty components with OEM parts matched to your Kenmore model number.
-
-**Rough cost:** DIY runs about $10–50 in parts (cord or outlet), 15–45 min. A pro service call runs about $100–200.

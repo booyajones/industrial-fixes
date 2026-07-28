@@ -19,8 +19,6 @@ When your Kenmore washer won't drain completely, the machine is detecting that w
 
 This symptom means the control board expects a certain drain level by a certain point in the cycle, and it isn't happening. The machine may stop mid-cycle, leave standing water at the bottom of the drum, or refuse to spin because it can't pump out enough water first. Most of the time the root cause is a physical restriction somewhere in the drain path rather than an electrical or control problem.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged drain pump filter or trap** Lint, coins, hairpins, and small debris collect in the pump inlet filter housing and block water from reaching the impeller.
@@ -52,8 +50,8 @@ This symptom means the control board expects a certain drain level by a certain 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kenmore Washer E14 error code](/posts/kenmore-washer-e14-error-code/)
-- [Kenmore Washer E24 error code](/posts/kenmore-washer-e24-error-code/)
+- Kenmore Washer E14 error code
+- Kenmore Washer E24 error code
 - [Kenmore Washer F0 E2 error code](/posts/kenmore-washer-f0-e2-error-code/)
 - [Kenmore Washer F0 E4 error code](/posts/kenmore-washer-f0-e4-error-code/)
 - [Kenmore Washer F1 E1 error code](/posts/kenmore-washer-f1-e1-error-code/)

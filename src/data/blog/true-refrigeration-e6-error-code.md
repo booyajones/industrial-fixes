@@ -13,11 +13,8 @@ money_part: "Condenser fan motor"
 most_likely_cause: "Dirty condenser coil"
 ---
 
-## True Refrigeration E6 Error Code — What It Means
-
+## What this code means
 True Refrigeration error code E6 is commonly a high box temperature alarm. The controller has measured cabinet temperature above the allowed limit for too long, which means the unit is losing capacity, airflow, or temperature control. In a restaurant or convenience store, E6 usually shows up after a dirty condenser, weak evaporator airflow, a door left open, or a refrigeration system problem that prevents the cabinet from pulling down.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,18 +46,3 @@ True Refrigeration error code E6 is commonly a high box temperature alarm. The c
 ## When to Call a Pro
 
 Call a refrigeration tech if the cabinet still will not pull down after coil cleaning, fan checks, and gasket inspection. Warm box alarms that come back with a clean coil often point to low charge, a restricted metering device, or a weak compressor.
-
-## See Also
-
-- [True Refrigeration Error Codes — Complete Guide](/posts/true-refrigeration-error-codes/)
-- [True Refrigeration E3 Error Code — Causes & Fix](/posts/true-refrigeration-e3-error-code/)
-- [True Refrigeration E4 Error Code — Causes & Fix](/posts/true-refrigeration-e4-error-code/)
-- [True Refrigeration T-Series Error Codes — Complete Guide](/posts/true-refrigeration-t-series-error-codes/)
-
-## Related Articles
-
-- [True Refrigeration E1 Error Code — Causes & Fix](/posts/true-refrigeration-e1-error-code/)
-- [True Refrigeration E2 Error Code — Causes & Fix](/posts/true-refrigeration-e2-error-code/)
-- [True Refrigeration E3 Error Code — Causes & Fix](/posts/true-refrigeration-e3-error-code/)
-- [True Refrigeration E4 Error Code — Causes & Fix](/posts/true-refrigeration-e4-error-code/)
-- [True Refrigeration E5 Error Code — Defrost Sensor Causes & Fix](/posts/true-refrigeration-e5-error-code/)

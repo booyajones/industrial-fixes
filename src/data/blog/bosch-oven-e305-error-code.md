@@ -21,8 +21,7 @@ part_price: "$15-50 for ribbon cable or harness; $100-250 for TCM or control boa
 no_buy_pct: "60%"
 ---
 
-## Bosch E305 Error Code — What It Means
-
+## What this code means
 The E305 error on a Bosch oven or range indicates a communication fault between electronic modules. Repair sources identify this as a lost connection between the TCM (thermal control module) and the user interface or control module, often due to a problem at the baseplates or ribbon-cable interface. The display appears when the control system cannot maintain a stable data link between these components.
 
 This is not a sensor or heating element failure. It is strictly a wiring or board-level issue that prevents the control modules from talking to each other. The oven may not respond to button presses or may lock out all cooking functions until communication is restored.
@@ -30,8 +29,6 @@ This is not a sensor or heating element failure. It is strictly a wiring or boar
 ## Before You Replace Anything
 
 Many homeowners replace the TCM or control board when the real problem is a loose or damaged ribbon cable. Always inspect and reseat all harness connectors before ordering a new module.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

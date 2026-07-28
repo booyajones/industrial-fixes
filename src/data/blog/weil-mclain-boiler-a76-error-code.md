@@ -17,8 +17,7 @@ free_checks:
   - "Check that the condensate trap and drain line are clear and not backed up"
 ---
 
-## Weil-McLain A76 Error Code — What It Means
-
+## What this code means
 A76 does not appear in published Weil-McLain fault code tables for Aqua Balance, Ultra, or other common residential boiler models. Weil-McLain controls typically use A-xx or F-xx format codes, and the exact meaning of any fault code depends on your specific boiler model and control platform. The safest approach is to enter the diagnostics or error-history menu on your control panel, read the stored fault directly from the unit, and cross-reference it with the installation and service manual for your model.
 
 If you are seeing A76 on a secondary display, third-party controller, or have written it down incorrectly, verify the exact digits and formatting. Common combustion and ignition faults on Weil-McLain boilers stem from no gas supply, ignition or flame-detection electrode problems, faulty gas valves, low gas pressure (outside the 3.5 to 11 in. w.c. range), dirty heat exchangers, and venting or condensate drainage issues. Always confirm the boiler model number on the nameplate and consult the matching service guide before replacing any part.
@@ -26,8 +25,6 @@ If you are seeing A76 on a secondary display, third-party controller, or have wr
 ## Before You Replace Anything
 
 Technicians sometimes replace the gas valve or ignition electrode without first checking gas supply pressure, electrode gap (5/32 in. on many models), or viewing the control's stored fault history. Enter the diagnostics menu and read the exact code before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician immediately if you cannot find A76 in your boiler's service manual, if the boiler is in hard lockout and will not reset, or if you are not trained to work safely with natural gas or propane appliances. Boiler diagnostics require pressure gauges, combustion analyzers, and knowledge of gas-train sequencing. Technicians have access to factory support and can retrieve detailed fault histories from the control that are not visible on the main display. Any work on the gas valve, burner assembly, ignition system, or venting must be performed by a qualified professional to comply with local codes and maintain warranty coverage.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain A168 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a168-error-code/)
-- [Weil-McLain Boiler A48 Error - Causes & Fix](/posts/weil-mclain-boiler-a48-error-code/)
-- [Weil-McLain A93 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a93-error-code/)
-- [Weil-McLain Boiler A122 Error - Causes & Fix](/posts/weil-mclain-boiler-a122-error-code/)

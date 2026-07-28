@@ -19,8 +19,6 @@ When an Amana dryer won't start, it means the unit does not begin tumbling or he
 
 Common causes include no power at the outlet or breaker, control lock enabled, a door that is not fully closed or has a bad latch or switch, a blown thermal fuse, a faulty start switch, or a broken drive belt. Less often, the main control board has failed. The exact cause depends on your model, but the troubleshooting path is similar across the Amana lineup.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **No power or tripped breaker** The dryer is unplugged, the outlet is dead, or the circuit breaker or fuses have tripped or blown.
@@ -55,18 +53,18 @@ Common causes include no power at the outlet or breaker, control lock enabled, a
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Amana Dryer Af F4E3 error code](/posts/amana-dryer-af-f4e3-error-code/)
-- [Amana Dryer Err error code](/posts/amana-dryer-err-error-code/)
-- [Amana Dryer F01 error code](/posts/amana-dryer-f01-error-code/)
-- [Amana Dryer F02 error code](/posts/amana-dryer-f02-error-code/)
-- [Amana Dryer F1 E1 error code](/posts/amana-dryer-f1-e1-error-code/)
-- [Amana Dryer F1 E4 error code](/posts/amana-dryer-f1-e4-error-code/)
-- [Amana Dryer F1E3 error code](/posts/amana-dryer-f1e3-error-code/)
-- [Amana Dryer F1E5 error code](/posts/amana-dryer-f1e5-error-code/)
-- [Amana Dryer F20 error code](/posts/amana-dryer-f20-error-code/)
-- [Amana Dryer F22 error code](/posts/amana-dryer-f22-error-code/)
-- [Amana Dryer F23 error code](/posts/amana-dryer-f23-error-code/)
-- [Amana Dryer F24 error code](/posts/amana-dryer-f24-error-code/)
+- Amana Dryer Af F4E3 error code
+- Amana Dryer Err error code
+- Amana Dryer F01 error code
+- Amana Dryer F02 error code
+- Amana Dryer F1 E1 error code
+- Amana Dryer F1 E4 error code
+- Amana Dryer F1E3 error code
+- Amana Dryer F1E5 error code
+- Amana Dryer F20 error code
+- Amana Dryer F22 error code
+- Amana Dryer F23 error code
+- Amana Dryer F24 error code
 
 ## When to Call a Pro
 

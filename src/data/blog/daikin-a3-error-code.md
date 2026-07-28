@@ -13,11 +13,8 @@ money_part: "Condensate pump (mini)"
 most_likely_cause: "Clogged condensate drain line"
 ---
 
-## Daikin A3 Error Code — What It Means
-
+## What this code means
 Daikin error code A3 indicates a drain full or drain pump fault. The indoor unit's float switch, which sits in the condensate drain pan, has detected that the pan is full or that water level is rising faster than it can drain. The system shuts down cooling operation to prevent water overflow and ceiling or equipment damage. A3 is almost always caused by a clogged condensate drain line, a failed condensate pump, or a misaligned float switch. It's one of the easiest Daikin faults to clear — provided the actual drain is cleared before resetting.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,24 +41,3 @@ Daikin error code A3 indicates a drain full or drain pump fault. The indoor unit
 ## When to Call a Pro
 
 If the drain line runs through a ceiling or wall cavity and cannot be easily cleared from accessible ends, a technician with a wet-vac and drain cleaning tools can clear the full run without opening walls. Repeated A3 faults despite clearing the drain indicate the drain is undersized for the unit capacity or the slope is insufficient for gravity drainage.
-
-## Related Articles
-
-- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
-- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
-- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
-- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)
-- [Daikin E3 Error Code — Causes & Fix](/posts/daikin-e3-error-code/)
-
-<!-- INTERNAL-LINK-AUTO -->
-**Related:** [Rheem EcoNet A101 error code fix](/posts/rheem-econet-a101-error-code/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Daikin U4 indoor-outdoor comm fault](/posts/daikin-error-code-u4/)
-
-## See Also
-
-- [Daikin F3 Error Code — Causes & Fix](/posts/daikin-f3-error-code/)
-- [Daikin F9 Error Code — Heat Exchanger Temp Sensor Fault: Causes & Fix](/posts/daikin-f9-error-code/)
-- [Daikin VRV / VRF U4 Error Code — Communication Fault Fix](/posts/daikin-vrv-vrf-u4-error-code/)
-- [Daikin H6 Error Code — Indoor Fan Motor Lock Fault Fix](/posts/daikin-h6-error-code/)

@@ -18,8 +18,7 @@ free_checks:
   - "Cycle power to the drive and check whether F070 clears"
 ---
 
-## Allen-Bradley PowerFlex 525 F070 — What It Means
-
+## What this code means
 F070 on the PowerFlex 525 indicates a Power Unit Failure. Rockwell Automation states that this fault signals a failure detected in the drive power section, the internal hardware that converts incoming AC power into the variable-frequency output that controls your motor. This is not a wiring fault or a motor problem. The fault points to the inverter circuitry inside the drive itself.
 
 The drive has detected an internal hardware fault in its power stage. Rockwell's published recovery procedure is narrow: verify the drive is operating within its maximum ambient temperature rating, cycle power to see if the fault clears, and replace the drive if the fault persists after a power cycle.
@@ -27,8 +26,6 @@ The drive has detected an internal hardware fault in its power stage. Rockwell's
 ## Before You Replace Anything
 
 Technicians sometimes check motor wiring or communication cables first, but F070 is classified by Rockwell as a power-section fault inside the drive. Verify ambient temperature and cycle power before ordering a replacement drive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drives technician immediately. F070 is a power-section fault that requires you to work inside energized industrial control cabinets, disconnect three-phase power, and replace a VFD. The work involves lockout/tagout, high-voltage wiring, and correct parameter setup to match your motor and application. If you lack training in industrial motor-drive systems, attempting this repair yourself risks electric shock, equipment damage, and unsafe motor operation. A technician will also verify that the cabinet cooling, motor load, and application parameters are correct so the replacement drive does not fail for the same reason.
 
 **Rough cost:** A pro service call runs about $400-1200 for drive replacement plus labor.
-
-## See Also
-
-- [Allen Bradley PowerFlex 525 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-525-f7-fault/)
-- [Allen-Bradley F091 Encoder Loss - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f091-fault-code/)
-- [Allen-Bradley PowerFlex Fault F004 — Causes & Fix](/posts/allen-bradley-powerflex-fault-f004/)
-- [Allen-Bradley PowerFlex Fault F012 — Causes & Fix](/posts/allen-bradley-powerflex-fault-f012/)

@@ -19,8 +19,7 @@ free_checks:
   - "Inspect the discharge pipe thermistor connector for corrosion or looseness and reseat it firmly"
 ---
 
-## Daikin J3 Error Code — What It Means
-
+## What this code means
 The J3 error code on a Daikin mini split signals a malfunction of the outdoor compressor discharge pipe temperature sensor (thermistor). The outdoor unit's control board has detected that the resistance value from this sensor is outside the acceptable operating range. The sensor may be open, shorted, reading incorrectly, or have a poor connection.
 
 This thermistor monitors the temperature of the refrigerant gas leaving the compressor to protect against overheating or abnormal operating conditions. When the control board cannot get a valid reading, it throws the J3 code and typically shuts down the system to prevent damage.
@@ -28,8 +27,6 @@ This thermistor monitors the temperature of the refrigerant gas leaving the comp
 ## Before You Replace Anything
 
 Technicians sometimes replace the outdoor control board (PCB) when the sensor itself is the real problem. Always measure the thermistor's resistance with a multimeter and perform a dynamic heat test before swapping the PCB.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician for the J3 code. This repair involves working inside the outdoor unit with refrigerant lines, electrical connections, and control boards. A technician has the tools to measure sensor resistance accurately, compare readings to the manufacturer's spec table, and safely replace components without damaging the sealed refrigerant system. If the thermistor tests good, diagnosing a faulty PCB or wiring fault requires specialized knowledge and equipment.
 
 **Rough cost:** A pro service call runs about $150-300.
-
-## See Also
-
-- [Daikin F9 Error Code — Heat Exchanger Temp Sensor Fault: Causes & Fix](/posts/daikin-f9-error-code/)
-- [Daikin E5 Error Code - Causes & Fix](/posts/daikin-e5-error-code/)
-- [Daikin FTXS09LVJU Problems & Error Codes](/posts/daikin-ftxs09lvju-ductless-mini-split-air-conditioner-problems/)
-- [Daikin EA Error Code - Causes & Fix](/posts/daikin-heat-pump-ea-error-code/)

@@ -17,8 +17,7 @@ likelihood: "the most commonly reported cause"
 diy_or_pro: "diy"
 ---
 
-## Electrolux Dryer E97 Error Code — What It Means
-
+## What this code means
 E97 on an Electrolux dryer signals a program mismatch internal to the main electronic control. This is not a vent blockage, thermistor failure, or heating element fault. Instead, the code points to a fault in the control board's firmware or logic. The main control board has detected an inconsistency in its stored program or configuration state and cannot proceed.
 
 This error typically appears after a power event, a voltage surge, or as the control board begins to fail. The fault is internal to the electronics rather than a mechanical dryer component. Your first step is always a hard reset. If that does not clear the code, the main control board is the primary suspect and usually requires replacement.
@@ -26,8 +25,6 @@ This error typically appears after a power event, a voltage surge, or as the con
 ## Before You Replace Anything
 
 Homeowners sometimes replace thermistors, heating elements, or vent components thinking E97 is a heat or airflow fault. This code is a control-board program mismatch, so inspect and reseat all connectors at the control board before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

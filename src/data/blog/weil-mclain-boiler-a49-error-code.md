@@ -17,13 +17,10 @@ free_checks:
   - "Download the installation and service manual for your exact model from the Weil-McLain website and look up A49 in the fault-code table."
 ---
 
-## Weil-McLain Boiler A49 Error — What It Means
-
+## What this code means
 Weil-McLain does not publish A49 as a standard factory error code across all boiler models. The exact meaning of any fault code depends on your specific boiler model and the control platform installed on that unit. Some Weil-McLain boilers store fault history in a contractor or diagnostics menu rather than displaying a single universal code list. Without knowing your exact model (Ultra, CGa, Evergreen, ECO Tec, or another series) and seeing the display or fault-history entry, it is not possible to state what A49 means or which component has failed.
 
 To find the correct definition, locate the model number on the boiler rating plate, check the fault-history menu if your control has one, and consult the installation and service manual for that exact model. Weil-McLain directs contractors to retrieve stored errors from the diagnostics menu and then follow the manual-specific troubleshooting steps. The manufacturer also requires the failed part description and part number for warranty and service actions, which confirms that fault-level diagnosis must identify the exact component before any replacement.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a licensed heating contractor or boiler technician immediately if you cannot locate your boiler model number, if your control does not have a diagnostics menu, or if you have retrieved the fault history but A49 does not appear in your service manual's code table. A technician has access to Weil-McLain's technical support line, can cross-reference your control platform against the factory fault database, and can perform live voltage and resistance measurements safely. Also call a pro if A49 points to a gas-valve fault, a combustion-control issue, or a sealed hydronic-system component, since those repairs involve gas-line work, combustion tuning, or pressure testing that requires trade certification and insurance. Attempting to replace a control board or sensor without confirming the exact part number and fault definition wastes money and can introduce new faults if the replacement does not match your boiler's configuration.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain Boiler A123 Error - Causes & Fix](/posts/weil-mclain-boiler-a123-error-code/)
-- [Weil-McLain A04 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a04-error-code/)
-- [Weil-McLain A18 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a18-error-code/)
-- [Weil-McLain A57 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a57-error-code/)

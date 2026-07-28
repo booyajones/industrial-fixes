@@ -17,8 +17,7 @@ free_checks:
   - "Visually inspect motor output terminals U and W and the cable run for crushed insulation, pinched conductors, or scorching at connection points"
 ---
 
-## Allen-Bradley PowerFlex 525 F042 — What It Means
-
+## What this code means
 The Allen-Bradley PowerFlex 525 F042 fault code means Phase UW Short. The drive has detected excessive current flowing between output terminals U and W. This is a phase-to-phase short fault on the inverter output, not a general overload. Rockwell's fault table instructs technicians to check the motor and drive output terminal wiring for a shorted condition and to replace the drive if the fault cannot be cleared.
 
 In practice, this fault points to a short between the U and W motor leads, a short inside the motor winding itself, damaged output cable insulation where conductors touch, or a failed output stage inside the drive. The fault is specific to the U and W phases. It requires careful isolation testing to find whether the problem is in the cable, the motor, or the drive power section.
@@ -26,8 +25,6 @@ In practice, this fault points to a short between the U and W motor leads, a sho
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive before isolating the motor and testing the cable. Disconnect the motor leads at the drive and megger-test the motor and cable separately to confirm whether the short is downstream or in the drive output stage.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drive technician immediately. F042 involves high-voltage AC output wiring and requires lockout/tagout, insulation resistance testing with a megohmmeter, and the ability to safely isolate and test the drive power section. Misdiagnosis can lead to expensive drive replacement when the real problem is a damaged cable or motor. A technician will disconnect the motor, perform megger tests on both the motor and cable, and determine whether the fault is in the wiring, the motor windings, or the drive output stage before ordering parts. If the drive output stage has failed, replacement requires matching the frame size, voltage rating, and parameter setup to your application.
 
 **Rough cost:** A pro service call runs about $200-800 depending on whether the fix is cable replacement, motor winding repair, or drive replacement.
-
-## See Also
-
-- [Allen-Bradley PowerFlex 525 F004 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f004-fault-code/)
-- [Allen-Bradley PowerFlex Fault F025 — Causes & Fix](/posts/allen-bradley-powerflex-fault-f025/)
-- [Allen-Bradley PowerFlex Fault F004 — Causes & Fix](/posts/allen-bradley-powerflex-fault-f004/)
-- [Allen-Bradley PowerFlex 525 F012 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f012-fault-code/)

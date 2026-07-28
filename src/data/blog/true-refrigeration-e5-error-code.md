@@ -13,11 +13,8 @@ money_part: "Defrost / evaporator temperature probe"
 most_likely_cause: "Failed defrost sensor"
 ---
 
-## True Refrigeration E5 Error Code — What It Means
-
+## What this code means
 True Refrigeration error code E5 usually points to a defrost probe or evaporator sensor fault. On reach-in coolers and freezers that use Dixell, LAE, or True-branded electronic controls, the board expects a stable temperature signal from the evaporator area during defrost and recovery. When that signal goes open, shorted, or outside the controller's allowed range, the cabinet posts E5 and may extend defrost time, lock the compressor out, or run into a fail-safe cycle that protects the evaporator from icing up.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,18 +46,3 @@ True Refrigeration error code E5 usually points to a defrost probe or evaporator
 ## When to Call a Pro
 
 Call a commercial refrigeration tech if the coil keeps icing after probe replacement, or if you confirm the probe reads correctly and the board still throws E5. At that point you may have a controller fault or a defrost circuit problem that needs live electrical testing.
-
-## See Also
-
-- [True Refrigeration Error Codes — Complete Guide](/posts/true-refrigeration-error-codes/)
-- [True Refrigeration E1 Error Code — Causes & Fix](/posts/true-refrigeration-e1-error-code/)
-- [True Refrigeration E2 Error Code — Causes & Fix](/posts/true-refrigeration-e2-error-code/)
-- [True Refrigeration T-Series Error Codes — Complete Guide](/posts/true-refrigeration-t-series-error-codes/)
-
-## Related Articles
-
-- [True Refrigeration E1 Error Code — Causes & Fix](/posts/true-refrigeration-e1-error-code/)
-- [True Refrigeration E2 Error Code — Causes & Fix](/posts/true-refrigeration-e2-error-code/)
-- [True Refrigeration E3 Error Code — Causes & Fix](/posts/true-refrigeration-e3-error-code/)
-- [True Refrigeration E4 Error Code — Causes & Fix](/posts/true-refrigeration-e4-error-code/)
-- [True Refrigeration E6 Error Code — High Temperature Alarm Causes & Fix](/posts/true-refrigeration-e6-error-code/)

@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "75%"
 ---
 
-## Manitowoc E03 Error Code — What It Means
-
+## What this code means
 E03 on a Manitowoc Indigo or NXT series ice machine means Input Power Loss. The control board logs this code when it detects that incoming electrical power was interrupted and then confirms that loss when power returns. The fault is stored in the event log and displayed after the machine restarts.
 
 This is not a refrigeration or sensor failure. The code tells you the machine lost utility power at some point, either from an external interruption or a problem in the branch circuit feeding the ice machine or condensing unit. Once you restore stable power and clear the fault, the machine should resume normal operation.
@@ -29,8 +28,6 @@ This is not a refrigeration or sensor failure. The code tells you the machine lo
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board when the real problem is upstream in the electrical supply. Always verify incoming line voltage at the disconnect and check the fuse and breaker before replacing any control components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a professional service technician if the E03 code returns after you have verified stable incoming power and reset the breaker and fuse. Repeated power-loss events despite a good supply indicate an intermittent fault in the contactor, control power circuit, or the board itself. A technician will use a multimeter and event log to trace the interruption and test control-power continuity. Also call a pro if you are not comfortable working inside a live electrical panel or if the machine shares a multi-appliance circuit that requires load balancing or rewiring to prevent future trips.
 
 **Rough cost:** A pro service call runs about $100-250.
-
-## See Also
-
-- [Manitowoc Ice Machine Error Code 4 — Water Curtain Fault Fix](/posts/manitowoc-ice-machine-error-code-4-water-curtain/)
-- [Manitowoc E02 Error Code — Long Harvest Cycle Fix](/posts/manitowoc-e02-error-code/)
-- [Manitowoc E07 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e07-error-code/)
-- [Manitowoc Indigo Ice Machine Error Codes — Complete Guide](/posts/manitowoc-indigo-error-codes/)

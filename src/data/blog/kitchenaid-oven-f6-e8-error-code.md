@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## KitchenAid F6 E8 Error — What It Means
-
+## What this code means
 F6 E8 signals a communication fault between the user interface control and the Microwave Appliance Manager Control inside your KitchenAid microwave. The two boards talk to each other over a wiring harness, and when that link is broken or lost, the microwave throws F6 E8 and will not operate normally.
 
 KitchenAid product help confirms this code points to a problem with the Microwave Appliance Manager Control or the associated wiring. Field-service reports from Whirlpool and KitchenAid technicians describe it more specifically as lost communications with the Microwave Oven Appliance Manager. The fix almost always involves either reconnecting or replacing the appliance manager board, or repairing the harness between the two controls.
@@ -25,8 +24,6 @@ KitchenAid product help confirms this code points to a problem with the Microwav
 ## Before You Replace Anything
 
 Many people replace the user interface board first, but F6 E8 usually means the Microwave Appliance Manager Control has failed. Always inspect the wiring harness connectors and test continuity before ordering any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

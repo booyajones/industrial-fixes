@@ -19,8 +19,6 @@ An Amana refrigerator running constantly means the compressor and cooling system
 
 If the refrigerator cannot reject heat properly or if warm air is leaking into the cabinet, the compressor will run continuously trying to satisfy the thermostat. When fans and compressor are running but cooling is poor, the problem is typically airflow, defrost system issues, or a failed sensor telling the control board the compartment is too warm.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty condenser coils** Dust and debris on the coils reduce heat rejection and force the compressor to run longer to maintain temperature.
@@ -54,14 +52,14 @@ If the refrigerator cannot reject heat properly or if warm air is leaking into t
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Amana Refrigerator Ci error code](/posts/amana-refrigerator-ci-error-code/)
-- [Amana Refrigerator D7 error code](/posts/amana-refrigerator-d7-error-code/)
-- [Amana Refrigerator D8 error code](/posts/amana-refrigerator-d8-error-code/)
+- Amana Refrigerator Ci error code
+- Amana Refrigerator D7 error code
+- Amana Refrigerator D8 error code
 - [Amana Refrigerator D9 error code](/posts/amana-refrigerator-d9-error-code/)
-- [Amana Refrigerator Ec40 error code](/posts/amana-refrigerator-ec40-error-code/)
+- Amana Refrigerator Ec40 error code
 - [Amana Refrigerator F1 error code](/posts/amana-refrigerator-f1-error-code/)
 - [Amana Refrigerator If error code](/posts/amana-refrigerator-if-error-code/)
-- [Amana Refrigerator It error code](/posts/amana-refrigerator-it-error-code/)
+- Amana Refrigerator It error code
 - [Amana Refrigerator Po error code](/posts/amana-refrigerator-po-error-code/)
 
 ## When to Call a Pro

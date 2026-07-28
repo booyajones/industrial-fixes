@@ -19,8 +19,6 @@ Your Samsung microwave has power and the control panel lights up and responds, b
 
 If none of those settings or installation issues apply, the problem moves to the high-voltage components that generate microwave energy. These include the door interlock switches, the line fuse, the high-voltage capacitor, diode, transformer, and magnetron. One of these parts has failed and is preventing the microwave from entering a real heating cycle.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Demo mode enabled** The display and controls work but the magnetron never energizes, so the microwave runs through a cycle without heating.
@@ -55,7 +53,7 @@ If none of those settings or installation issues apply, the problem moves to the
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Samsung Microwave C 10 error code](/posts/samsung-microwave-c-10-error-code/)
+- Samsung Microwave C 10 error code
 - [Samsung Microwave C 11 error code](/posts/samsung-microwave-c-11-error-code/)
 - [Samsung Microwave C 12 error code](/posts/samsung-microwave-c-12-error-code/)
 - [Samsung Microwave C 20 error code](/posts/samsung-microwave-c-20-error-code/)
@@ -66,7 +64,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Samsung Microwave C 72 error code](/posts/samsung-microwave-c-72-error-code/)
 - [Samsung Microwave C A0 error code](/posts/samsung-microwave-c-a0-error-code/)
 - [Samsung Microwave C A1 error code](/posts/samsung-microwave-c-a1-error-code/)
-- [Samsung Microwave C A2 error code](/posts/samsung-microwave-c-a2-error-code/)
+- Samsung Microwave C A2 error code
 
 ## When to Call a Pro
 

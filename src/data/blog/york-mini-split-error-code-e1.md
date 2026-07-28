@@ -13,11 +13,8 @@ money_part: "Communication wire"
 most_likely_cause: "Loose or missing S-wire connection"
 ---
 
-## York Mini Split Error Code E1 — What It Means
-
+## What this code means
 E1 on a York mini split indicates a communication error between the indoor and outdoor units. York ductless systems (part of the Johnson Controls family, sharing engineering with Coleman and Luxaire ductless products) use a single signal wire to carry digital communication between the two control boards. When this signal is lost, the system shuts the compressor down and shows E1 on the indoor display. This fault can appear immediately after installation (wiring error) or develop gradually as connections corrode or wiring degrades.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ E1 on a York mini split indicates a communication error between the indoor and o
 ## When to Call a Pro
 
 York mini split service and warranty parts are distributed through Johnson Controls dealers. If the unit is under warranty, call a York-authorized HVAC contractor — DIY PCB replacement may void coverage.
-
-## Related Articles
-
-- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
-- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)
-- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
-- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
-- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
-
-## See Also
-
-- [York YSC Rooftop Unit Error Codes Guide](/posts/york-ysc-error-codes/)
-- [York Affinity Error Codes - What It Means and How to Fix It](/posts/york-affinity-error-codes/)
-- [York TG9 Furnace Error Codes — Fault Code Diagnostic Guide](/posts/york-tg9-furnace-error-codes/)
-- [York YZV Heat Pump Error Codes - Variable Speed Fault Diagnostics](/posts/york-yzv-heat-pump-error-codes/)

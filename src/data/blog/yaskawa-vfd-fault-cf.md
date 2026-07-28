@@ -13,11 +13,8 @@ money_part: "Yaskawa control PCB"
 most_likely_cause: "Parameter corruption"
 ---
 
-## Yaskawa VFD Fault CF — What It Means
-
+## What this code means
 Yaskawa fault CF means control fault — the drive's internal CPU detected a self-test failure, a parameter consistency error, or a control board malfunction. On Yaskawa A1000 and GA700 drives, CF can also indicate that an option card or communication card is communicating incorrectly or has failed. This is an internal drive fault, not a motor or load fault. CF does not point to external wiring or motor problems; it points to the drive's control electronics or firmware.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Yaskawa fault CF means control fault — the drive's internal CPU detected a sel
 ## When to Call a Pro
 
 A CF that persists after parameter reset and option card removal requires Yaskawa's diagnostics software (DriveWizard) to read internal fault logs and test control board functions. This is a service-level task.
-
-## Related Articles
-
-- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
-- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
-- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
-- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
-- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)
-
-## See Also
-
-- [Yaskawa VFD Fault PF — Causes & Fix](/posts/yaskawa-vfd-fault-pf/)
-- [Yaskawa VFD Fault Codes — Complete Reference (V1000, A1000, GA700)](/posts/yaskawa-vfd-fault-codes/)
-- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
-- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)

@@ -22,8 +22,6 @@ Short cycling wastes energy, puts stress on the furnace components, and keeps yo
 
 The diagnosis starts with the cheapest and easiest fix then moves toward more involved repairs. About half of short cycling problems are solved by changing a $5 air filter.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
 - **Dirty air filter.** The most common cause. A clogged filter restricts airflow, causing the heat exchanger to overheat. The high limit switch trips, shutting off the burner. Once the heat exchanger cools, the burner fires again, and the cycle repeats.

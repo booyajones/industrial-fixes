@@ -13,13 +13,10 @@ money_part: "Programmable Control Module (PCM)"
 most_likely_cause: "Failed or interrupted reprogramming event"
 ---
 
-## Carrier Error Code 27 — What It Means
-
+## What this code means
 Carrier error code 27 does not have one universal meaning across all equipment. On certain Carrier inverter heat pumps (such as 24VNA6 and 25VNA4 models), code 26-27 indicates a PCM Reprogramming Failure, meaning the programmable control module tried to update its programming and failed. On Carrier communicating systems using master fault codes, fault 27 means Fan Coil - Invalid AC/HP Size, which is a configuration mismatch between the indoor fan coil and the outdoor unit, not a mechanical breakdown.
 
 Before troubleshooting, confirm your exact model number and control type to determine which definition applies. Inverter platforms with code 26-27 have a control module issue. Communicating systems with fault 27 have a setup or pairing problem between indoor and outdoor equipment. These are two completely different faults with different fixes.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ Before troubleshooting, confirm your exact model number and control type to dete
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are unsure which platform or fault definition applies to your unit, if the fault returns after a power cycle, or if you lack the tools to verify control voltage and configuration settings. Replacing a PCM requires matching the exact part number to your model and sometimes involves warranty registration or programming steps that need factory support. Configuration faults on communicating systems often require access to installer menus and pairing procedures that are not in the homeowner manual. A qualified technician can confirm the fault type, check all communication wiring, and replace or reprogram the control module correctly.
-
-## See Also
-
-- [Carrier E3 Error Code — Causes & Fix](/posts/carrier-error-code-e3/)
-- [Carrier AquaSnap Chiller Fault Codes — 30RB/30RQ Guide](/posts/carrier-aquasnap-fault-codes/)
-- [Carrier Zone Controller Error Codes — Complete Guide](/posts/carrier-zone-controller-error-codes/)
-- [Carrier 46 Error Code — Check IFC: Board Self-Diagnosis Fault](/posts/carrier-46-error-code/)

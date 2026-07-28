@@ -13,13 +13,10 @@ money_part: "Noritz Quick Connect Communication Cord"
 most_likely_cause: "Loose or disconnected quick-connect cord"
 ---
 
-## Noritz F76 Error Code — What It Means
-
+## What this code means
 The F76 code indicates a multisystem communication error. Your Noritz heater has lost communication between units in a multi-unit or quick-connect setup, so the controller cannot properly coordinate operation between the paired heaters. In Noritz Pro Series documentation, the same fault appears as F76 in quick-connect configurations and as 76 in common-vent configurations.
 
 The manufacturer states the immediate issue is a problem with the connections between the units and cords. This code only appears when you have two or more Noritz units installed together, not on single standalone heaters.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

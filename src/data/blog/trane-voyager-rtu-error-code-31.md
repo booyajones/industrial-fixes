@@ -123,12 +123,5 @@ Same condition, different manufacturer's code numbering. Diagnostic path is iden
 ## Related guides
 
 - [Carrier WeatherMaker RTU Error Code 23 — Fix](/posts/carrier-weathermaster-rtu-error-code-23)
-- [Carrier 41 Error Code — Blower Motor Failure Fix](/posts/carrier-41-error-code)
+- Carrier 41 Error Code — Blower Motor Failure Fix
 - [Bryant Error Code 13 — Limit Lockout Fix](/posts/bryant-error-code-13)
-
-## See Also
-
-- [Trane Chiller Fault Codes — Complete Troubleshooting Guide](/posts/trane-chiller-fault-codes/)
-- [Trane VRF System Error Codes Guide](/posts/trane-vrf-error-codes/)
-- [Trane XR90 Furnace Error Codes — Fault Code Diagnostic Guide](/posts/trane-xr90-error-codes/)
-- [Trane XR14 Heat Pump Error Codes — Fault Code Diagnostic Guide](/posts/trane-xr14-error-codes/)

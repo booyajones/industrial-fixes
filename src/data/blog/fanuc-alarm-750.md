@@ -13,11 +13,8 @@ money_part: "JYA/JYB optical fiber cable"
 most_likely_cause: "Damaged or loose optical fiber communication cable"
 ---
 
-## Fanuc Alarm 750 — What It Means
-
+## What this code means
 Alarm 750 on a Fanuc CNC (FS0i, FS16i, FS18i, FS21i, FS30i) is a Spindle Serial Link Disconnect alarm. The CNC control cannot communicate with the spindle amplifier (SPM — Spindle Power Module) over the FSSB (Fanuc Serial Servo Bus) or JYA/JYB optical communication cable. When this serial link drops, the CNC loses all spindle control and feedback and immediately alarms.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,18 +44,3 @@ Alarm 750 on a Fanuc CNC (FS0i, FS16i, FS18i, FS21i, FS30i) is a Spindle Serial 
 ## When to Call a Pro
 
 Fanuc spindle amplifier replacement requires re-entering spindle motor parameters (SP parameters) from the backup or machine documentation. This work should be performed by a Fanuc-authorized service technician to avoid incorrect parameterization causing motor or amplifier damage.
-
-## Related Articles
-
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
-- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
-- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
-
-## See Also
-
-- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
-- [Fanuc Alarm 600 — Causes & Fix](/posts/fanuc-alarm-600/)
-- [Fanuc Alarm 414 — Servo Axis Following Error Fix](/posts/fanuc-alarm-414/)
-- [Fanuc Alarm 437 — Servo Following Error 4th Axis Causes & Fix](/posts/fanuc-alarm-437/)

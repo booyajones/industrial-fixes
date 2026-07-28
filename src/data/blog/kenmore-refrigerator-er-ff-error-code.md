@@ -21,8 +21,7 @@ part_price: "$40–$70"
 no_buy_pct: "50%"
 ---
 
-## Kenmore ER FF Error Code — What It Means
-
+## What this code means
 ER FF or Er FF is a freezer fan error on Kenmore refrigerators that use LG-style diagnostics. The code appears when the control board does not receive a valid feedback signal from the evaporator fan motor for more than 65 seconds during operation. In plain terms, the fan that moves cold air from the freezer into the fresh-food section is either not spinning, not spinning fast enough, or not sending the right electrical signal back to the control board.
 
 The fault can be caused by mechanical problems (ice or debris stopping the fan blade), electrical problems (a failed motor or bad control board), or a combination (a defrost issue that lets frost build up and bind the fan again and again). The control board expects to see the fan running and reporting its speed. When that feedback is missing or out of range, the refrigerator flags ER FF and may stop cooling properly until the fault is cleared.
@@ -30,8 +29,6 @@ The fault can be caused by mechanical problems (ice or debris stopping the fan b
 ## Before You Replace Anything
 
 Many people replace the control board first when the real problem is a frozen or failed fan motor. Check fan voltage and manually spin the fan blade by hand after thawing to confirm the motor is bad before buying a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

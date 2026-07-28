@@ -13,11 +13,8 @@ money_part: "IPM (Intelligent Power Module)"
 most_likely_cause: "Dirty outdoor condenser coil"
 ---
 
-## Mitsubishi P8 Error Code — What It Means
-
+## What this code means
 P8 on a Mitsubishi mini-split system indicates a compressor fault — specifically, the outdoor unit's inverter drive detected a problem with compressor operation. This can mean the compressor is drawing abnormal current, the inverter module (IPM — Intelligent Power Module) detected overcurrent or overtemperature, or the compressor itself has an internal failure. P8 is one of the more serious Mitsubishi error codes and typically requires component-level diagnosis.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,18 +43,3 @@ P8 on a Mitsubishi mini-split system indicates a compressor fault — specifical
 ## When to Call a Pro
 
 P8 involving a compressor or IPM failure requires a licensed HVAC technician with inverter drive diagnostic experience. Compressor replacement on a mini-split also requires refrigerant recovery and recharge — EPA 608 certification is required.
-
-## Related Articles
-
-- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
-- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
-- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
-- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
-- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
-
-## See Also
-
-- [Mitsubishi P5 Error Code — Drain Pump Fault: Causes & Fix](/posts/mitsubishi-p5-error-code/)
-- [Mitsubishi FR-A700 Fault Codes - What It Means and How to Fix It](/posts/mitsubishi-fr-a700-fault-codes/)
-- [Mitsubishi P-Series H6 — Outdoor Fan Motor Fix](/posts/mitsubishi-heat-pump-error-code-h6/)
-- [Mitsubishi Mini Split E1 Error Code — Indoor Thermistor Fault Fix](/posts/mitsubishi-mini-split-e1-error/)

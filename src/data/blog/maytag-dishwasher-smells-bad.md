@@ -19,8 +19,6 @@ A bad smell in a Maytag dishwasher is not a fault code. It is an odor complaint 
 
 The manufacturer directs you to inspect the filter, spray arms, interior surfaces, door seals, and drain or disposer connection. Standing water, food particles, soap scum, grease, mold, and mineral deposits can all hold odors and intensify bacterial smell over time.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Food debris in the filter or sump area** Maytag identifies the drain filter as the first place to check when odor is present.
@@ -56,12 +54,12 @@ If your appliance also shows a code on the display, these match this problem:
 - [Maytag Dishwasher E15 error code](/posts/maytag-dishwasher-e15-error-code/)
 - [Maytag Dishwasher E3 error code](/posts/maytag-dishwasher-e3-error-code/)
 - [Maytag Dishwasher E4 error code](/posts/maytag-dishwasher-e4-error-code/)
-- [Maytag Dishwasher E6 error code](/posts/maytag-dishwasher-e6-error-code/)
-- [Maytag Dishwasher E7 error code](/posts/maytag-dishwasher-e7-error-code/)
+- Maytag Dishwasher E6 error code
+- Maytag Dishwasher E7 error code
 - [Maytag Dishwasher F10E5 error code](/posts/maytag-dishwasher-f10e5-error-code/)
 - [Maytag Dishwasher F1E1 error code](/posts/maytag-dishwasher-f1e1-error-code/)
 - [Maytag Dishwasher F2E2 error code](/posts/maytag-dishwasher-f2e2-error-code/)
-- [Maytag Dishwasher F3E2 error code](/posts/maytag-dishwasher-f3e2-error-code/)
+- Maytag Dishwasher F3E2 error code
 - [Maytag Dishwasher F4E3 error code](/posts/maytag-dishwasher-f4e3-error-code/)
 - [Maytag Dishwasher F6E1 error code](/posts/maytag-dishwasher-f6e1-error-code/)
 

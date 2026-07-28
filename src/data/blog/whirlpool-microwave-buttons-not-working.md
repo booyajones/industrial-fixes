@@ -19,8 +19,6 @@ When the buttons on your Whirlpool microwave stop responding, the control panel 
 
 If neither of those fixes restores operation, the fault is usually in the touch keypad assembly, the ribbon connection between the keypad and the main control board, or the electronic control board itself. Door switch problems can also prevent the microwave from starting even when the buttons light up or beep.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Control Lock enabled** Whirlpool's Control Lock feature disables all control panel pads so the microwave cannot be started accidentally.
@@ -54,18 +52,18 @@ If neither of those fixes restores operation, the fault is usually in the touch 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Whirlpool Microwave E03 error code](/posts/whirlpool-microwave-e03-error-code/)
-- [Whirlpool Microwave E11 error code](/posts/whirlpool-microwave-e11-error-code/)
-- [Whirlpool Microwave E12 error code](/posts/whirlpool-microwave-e12-error-code/)
-- [Whirlpool Microwave E13 error code](/posts/whirlpool-microwave-e13-error-code/)
-- [Whirlpool Microwave E21 error code](/posts/whirlpool-microwave-e21-error-code/)
-- [Whirlpool Microwave E22 error code](/posts/whirlpool-microwave-e22-error-code/)
-- [Whirlpool Microwave E23 error code](/posts/whirlpool-microwave-e23-error-code/)
-- [Whirlpool Microwave E24 error code](/posts/whirlpool-microwave-e24-error-code/)
-- [Whirlpool Microwave E61 error code](/posts/whirlpool-microwave-e61-error-code/)
-- [Whirlpool Microwave E62 error code](/posts/whirlpool-microwave-e62-error-code/)
-- [Whirlpool Microwave E63 error code](/posts/whirlpool-microwave-e63-error-code/)
-- [Whirlpool Microwave F01 error code](/posts/whirlpool-microwave-f01-error-code/)
+- Whirlpool Microwave E03 error code
+- Whirlpool Microwave E11 error code
+- Whirlpool Microwave E12 error code
+- Whirlpool Microwave E13 error code
+- Whirlpool Microwave E21 error code
+- Whirlpool Microwave E22 error code
+- Whirlpool Microwave E23 error code
+- Whirlpool Microwave E24 error code
+- Whirlpool Microwave E61 error code
+- Whirlpool Microwave E62 error code
+- Whirlpool Microwave E63 error code
+- Whirlpool Microwave F01 error code
 
 ## When to Call a Pro
 

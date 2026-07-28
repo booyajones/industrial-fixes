@@ -22,8 +22,7 @@ part_price: "$50-120"
 no_buy_pct: "60%"
 ---
 
-## Samsung 22E Refrigerator Error — What It Means
-
+## What this code means
 The Samsung 22E code (sometimes shown as 22C or E22) indicates a fridge fan error. Samsung's official documentation identifies this as a problem with the refrigerator section evaporator fan not moving air properly. The error can be triggered when the refrigerator runs with the door left open too long, leading to excess frost and ice buildup that blocks the fan blades. It can also appear when the fan motor itself has failed or when wiring connections to the fan have come loose or disconnected.
 
 In practical repair terms, the evaporator fan is responsible for circulating cold air from the evaporator coil throughout the refrigerator compartment. When ice accumulates on the fan blades or housing, or when the motor bearings wear out and the motor no longer spins freely, the control board detects the fault and displays the 22E error. The code does not always mean the fan motor is dead. Often the fan is simply blocked by ice or frost, and a full defrost will clear the error and restore normal operation.
@@ -31,8 +30,6 @@ In practical repair terms, the evaporator fan is responsible for circulating col
 ## Before You Replace Anything
 
 Many people replace the evaporator fan motor immediately without defrosting first. A simple power-off defrost for a few hours clears ice blockages in most cases and costs nothing.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

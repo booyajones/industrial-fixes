@@ -19,8 +19,6 @@ When a Bosch washer does not dispense detergent, it means detergent remains in t
 
 This is not an error code. It is a functional failure of the dispensing system. Bosch support identifies low water pressure, clogged dispenser components, and defective water inlet valves as the most common culprits.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Low water pressure or poor water supply** Bosch states the dispenser system requires at least 20 psi water pressure and adequate flow (about 10 litres per minute at the tap) to flush detergent from the drawer.
@@ -53,14 +51,14 @@ This is not an error code. It is a functional failure of the dispensing system. 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Bosch Washer E15 error code](/posts/bosch-washer-e15-error-code/)
+- Bosch Washer E15 error code
 - [Bosch Washer E16 error code](/posts/bosch-washer-e16-error-code/)
 - [Bosch Washer E17 error code](/posts/bosch-washer-e17-error-code/)
 - [Bosch Washer E18 error code](/posts/bosch-washer-e18-error-code/)
 - [Bosch Washer E19 error code](/posts/bosch-washer-e19-error-code/)
 - [Bosch Washer E20 error code](/posts/bosch-washer-e20-error-code/)
-- [Bosch Washer E21 error code](/posts/bosch-washer-e21-error-code/)
-- [Bosch Washer E22 error code](/posts/bosch-washer-e22-error-code/)
+- Bosch Washer E21 error code
+- Bosch Washer E22 error code
 - [Bosch Washer E23 error code](/posts/bosch-washer-e23-error-code/)
 - [Bosch Washer E24 error code](/posts/bosch-washer-e24-error-code/)
 - [Bosch Washer E25 error code](/posts/bosch-washer-e25-error-code/)

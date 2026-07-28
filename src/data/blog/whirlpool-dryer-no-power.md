@@ -19,8 +19,6 @@ When a Whirlpool dryer has no power, it means the unit is receiving no electrica
 
 Whirlpool distinguishes between a fully dead unit (supply problem), a PF code (cycle interrupted by power loss), and an L2 code (insufficient voltage, often seen during installation). The troubleshooting path starts at the home electrical panel, then moves to the outlet, power cord, and terminal block connections before considering internal dryer components.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Tripped circuit breaker or blown fuse** Electric dryers use two household breakers or two fuses, and if either trips or blows the dryer will lose power or fail to heat.

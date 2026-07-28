@@ -20,8 +20,6 @@ Short cycling means your York furnace starts, runs for a short time, shuts off, 
 
 In most cases the furnace is overheating and the limit switch is opening to protect the equipment, or the thermostat is ending the call for heat too early. The result is poor comfort, higher energy bills, and accelerated wear on the blower motor and ignition components.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty or clogged air filter** The most common cause, a restricted filter blocks airflow over the heat exchanger and triggers the high-limit safety to shut the burner down.
@@ -62,10 +60,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a professional if the furnace continues to short cycle after replacing the filter and checking airflow, or if you are not comfortable working around gas, electrical controls, or combustion components. A technician should handle all work involving the limit switch, pressure switch, heat exchanger inspection, flame sensor replacement, duct static pressure measurement, and furnace sizing or duct design issues. If you see soot, smell gas, or notice flame rollout from the burner area, shut down the furnace immediately and call for service. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
-- [York Affinity Error Codes - What It Means and How to Fix It](/posts/york-affinity-error-codes/)
-- [York Mini Split Error Code E1 — Causes & Fix](/posts/york-mini-split-error-code-e1/)
-- [York Furnace Blower Won't Shut Off - Causes & Fix](/posts/york-furnace-blower-wont-shut-off/)

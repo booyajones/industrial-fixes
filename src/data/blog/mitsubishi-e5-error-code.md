@@ -13,11 +13,8 @@ money_part: "Condensate drain pump"
 most_likely_cause: "Blocked condensate drain line"
 ---
 
-## Mitsubishi E5 Error Code — What It Means
-
+## What this code means
 E5 on a Mitsubishi mini-split indoor unit indicates a drain pump fault or a drain float switch activation. On units equipped with a condensate lift pump (used when gravity drainage is not possible), the control board monitors the pump and the float switch in the drain pan. E5 triggers when the pump circuit faults or the float rises to the high-water mark, signaling that water is not being removed from the drain pan.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ E5 on a Mitsubishi mini-split indoor unit indicates a drain pump fault or a drai
 ## When to Call a Pro
 
 If drain water is leaking into the wall or ceiling cavity, a licensed HVAC technician should assess the drain line routing and ensure no structural damage has occurred. Persistent mold in the drain pan may require unit disassembly to clean.
-
-## Related Articles
-
-- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
-- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
-- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
-- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
-- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
-
-## See Also
-
-- [Mitsubishi FR Series VFD Fault E6 — Causes & Fix](/posts/mitsubishi-fr-series-fault-e6/)
-- [Mitsubishi Mr. Slim Error Code P6 - What It Means and How to Fix It](/posts/mitsubishi-mr-slim-error-code-p6/)
-- [Mitsubishi Mini Split E6 Error Code Fix](/posts/mitsubishi-e6-error-code/)
-- [Mitsubishi P3 Error Code — Outdoor Coil Thermistor Fix](/posts/mitsubishi-p3-error-code/)

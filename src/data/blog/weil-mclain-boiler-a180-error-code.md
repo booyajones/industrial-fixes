@@ -20,8 +20,7 @@ free_checks:
 part_price: "$25-60"
 ---
 
-## Weil-McLain Boiler A180/E18 Error — What It Means
-
+## What this code means
 The A180 code (also displayed as E18 on some Weil-McLain boilers) indicates that the outlet or supply water temperature has exceeded 210°F. The control board has detected an overtemperature condition on the water leaving the boiler and locks out to protect the appliance from damage.
 
 This fault does not mean the boiler has actually overheated in every case. A failed or drifting temperature sensor, loose wiring, or poor water circulation can all trigger the same high-limit alarm even when the water is at a safe temperature.
@@ -29,8 +28,6 @@ This fault does not mean the boiler has actually overheated in every case. A fai
 ## Before You Replace Anything
 
 Homeowners often replace the control board first. Before ordering any board, re-seat the sensor connectors and swap the supply and return sensors if they are identical; if the fault moves with the sensor, the sensor is bad and the board is fine.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -80,10 +77,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you are not comfortable working with line voltage, if the fault persists after re-seating connectors and verifying pump operation, or if you lack a multimeter to test sensor resistance. A technician can compare sensor readings against actual water temperature, perform control-board diagnostics, and check for combustion or limit-switch issues that may contribute to real overheating. Gas-fired boiler work often requires a licensed contractor in most jurisdictions, and attempting board-level repair without proper training can void warranties or create safety hazards.
 
 **Rough cost:** A pro service call runs about $200-400.
-
-## See Also
-
-- [Weil-McLain A181 Error - Causes & Fix](/posts/weil-mclain-boiler-a181-error-code/)
-- [Weil-McLain A112 Error - Causes & Fix](/posts/weil-mclain-boiler-a112-error-code/)
-- [Weil-McLain Boiler A156 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a156-error-code/)
-- [Weil-McLain Boiler A158 Error - Causes & Fix](/posts/weil-mclain-boiler-a158-error-code/)

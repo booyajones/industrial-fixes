@@ -13,11 +13,8 @@ money_part: "Spindle orientation sensor (Hall effect)"
 most_likely_cause: "Spindle encoder or orientation disk fault"
 ---
 
-## Haas Alarm 118 — What It Means
-
+## What this code means
 Alarm 118 (SPINDLE ORIENTATION FAULT) on a Haas CNC machining center means the spindle failed to reach and hold its indexed orientation position within the required time or accuracy window. Haas uses spindle orientation for tool changes, tapping cycles with rigid tap, and any operation that requires a known spindle angle. Alarm 118 fires when the spindle drive either cannot reach the target angle or detects that the spindle has slipped out of orientation after reaching it. The machine halts and requires a reset before tool change or rigid tap operations can resume.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,18 +44,3 @@ Alarm 118 (SPINDLE ORIENTATION FAULT) on a Haas CNC machining center means the s
 ## When to Call a Pro
 
 Spindle bearing replacement and spindle drive parameter tuning should be performed by a Haas Factory Outlet (HFO) technician. Incorrect bearing preload or drive parameters can damage the spindle in production.
-
-## Related Articles
-
-- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
-- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
-- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
-- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
-
-## See Also
-
-- [Haas Alarm 219 — X-Axis Servo Error Fix](/posts/haas-alarm-219/)
-- [Haas Alarm 116 — Causes & Fix](/posts/haas-alarm-116/)
-- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
-- [Haas Alarm 108 — Causes & Fix](/posts/haas-alarm-108/)

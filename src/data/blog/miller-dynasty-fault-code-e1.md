@@ -13,11 +13,8 @@ money_part: "Input power cable / plug"
 most_likely_cause: "Input voltage selector set incorrectly"
 ---
 
-## Miller Dynasty E1 Fault Code — What It Means
-
+## What this code means
 The E1 fault on Miller Dynasty TIG welders (Dynasty 200, 210, 280, 300, and 350 series) indicates an input voltage out-of-range fault — the incoming line voltage is either too low or too high for safe operation. The Dynasty's advanced inverter is particularly sensitive to input power quality because it operates across a wide input range (120–480V multi-voltage); E1 trips when the voltage detected at startup or during operation falls outside the acceptable window for the currently detected input configuration.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

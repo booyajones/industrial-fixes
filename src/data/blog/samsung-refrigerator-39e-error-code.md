@@ -21,8 +21,7 @@ part_price: "$80-150"
 no_buy_pct: "40%"
 ---
 
-## Samsung 39E Error Code — What It Means
-
+## What this code means
 The 39E error code on a Samsung refrigerator indicates a problem with the ice maker function. Samsung service sources describe it as an ice-making subsystem fault, not a compressor or sealed-system issue. The code typically appears when ice has jammed the mechanism, when water flow to the ice maker is restricted, when the ice maker arm or drive mechanism has failed, or when wiring to the ice maker is damaged. In some models the code also appears if the ice maker is missing, disabled, or not installed correctly.
 
 If the code returns after a reset, the ice maker assembly itself has usually failed and needs replacement. Technicians treat 39E as an ice maker problem until proven otherwise, with the most common endpoint being a failed or jammed ice maker assembly.
@@ -30,8 +29,6 @@ If the code returns after a reset, the ice maker assembly itself has usually fai
 ## Before You Replace Anything
 
 Many people replace the entire ice maker assembly without first checking for a simple ice jam or obstruction in the bucket. Remove the ice bucket and visually inspect the ice maker compartment for blockage, frozen cubes, or frost buildup before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

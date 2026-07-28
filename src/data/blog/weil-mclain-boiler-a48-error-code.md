@@ -19,15 +19,12 @@ free_checks:
 part_price: "$60–120"
 ---
 
-## Weil-McLain Boiler A48 Error — What It Means
-
+## What this code means
 The A48 error on a Weil-McLain boiler is an air-signal or air-proving fault. It appears when the boiler's air pressure transducer does not receive the expected minimum signal within 25 seconds during the startup sequence. The control board cannot confirm that combustion air and venting airflow are present, so it locks out to prevent unsafe operation. This fault is tied to diagnostic code F05 in the control logic and is formally described as 'Air signal protection activation.' The boiler will not fire until the air-proving circuit confirms proper airflow and the fault is cleared.
 
 ## Before You Replace Anything
 
 Technicians sometimes replace the air pressure transducer first, but incorrect wiring or a blocked vent can produce the same A48 code. Verify wiring against the diagram and inspect the flue before ordering a new transducer.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician for any A48 fault. This code involves the air-proving circuit, which is a safety interlock tied to combustion and venting. Incorrect diagnosis or wiring can lead to unsafe operation, carbon monoxide risk, or damage to the heat exchanger. A qualified technician has the tools to measure pressure differentials, verify transducer output, and confirm vent sizing against manufacturer tables. If the fault returns after a transducer replacement, the problem may be in the control board, blower motor, or vent design, all of which require professional troubleshooting.
 
 **Rough cost:** A pro service call runs about $150–350.
-
-## See Also
-
-- [Weil-McLain Boiler Error Code E02 — Ignition Failure Fix](/posts/weil-mclain-e02-ignition-failure/)
-- [Weil-McLain Boiler A173 Error - Causes & Fix](/posts/weil-mclain-boiler-a173-error-code/)
-- [Weil-McLain A84 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a84-error-code/)
-- [Weil-McLain Boiler A72 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a72-error-code/)

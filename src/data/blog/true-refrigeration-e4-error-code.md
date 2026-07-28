@@ -13,11 +13,8 @@ money_part: "Defrost heater"
 most_likely_cause: "Failed defrost heater element"
 ---
 
-## True Refrigeration E4 Error Code — What It Means
-
+## What this code means
 E4 on a True commercial refrigerator or freezer signals a defrost heater fault — the control board detected that the defrost cycle did not terminate within the expected time, or the defrost temperature sensor did not confirm that the evaporator coil reached the defrost termination temperature. True Manufacturing's electronic controls (used on GDM, T, and TFM series units) rely on the defrost heater to clear ice from the evaporator. If the heater is open-circuit or if the termination sensor fails, the defrost cycle runs indefinitely or fails to run at all, and the board logs E4.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ E4 on a True commercial refrigerator or freezer signals a defrost heater fault �
 ## When to Call a Pro
 
 If the control board itself is suspected (E4 with a good heater and thermostat), board replacement requires matching the True model and serial number. Commercial refrigeration equipment repair often requires EPA 608 certification if refrigerant work is also needed.
-
-## Related Articles
-
-- [True Refrigeration E1 Error Code — Causes & Fix](/posts/true-refrigeration-e1-error-code/)
-- [True Refrigeration E2 Error Code — Causes & Fix](/posts/true-refrigeration-e2-error-code/)
-- [True Refrigeration E3 Error Code — Causes & Fix](/posts/true-refrigeration-e3-error-code/)
-- [True Refrigeration E5 Error Code — Defrost Sensor Causes & Fix](/posts/true-refrigeration-e5-error-code/)
-- [True Refrigeration E6 Error Code — High Temperature Alarm Causes & Fix](/posts/true-refrigeration-e6-error-code/)
-
-## See Also
-
-- [True Refrigerator Error Code E1 / P1: Thermostat Probe Failure Causes and Fix](/posts/true-refrigeration-e1-p1-error/)
-- [True Refrigeration T-Series Error Codes — Complete Fix Guide](/posts/true-refrigeration-t-series-error-codes/)
-- [True Refrigerator Error Code E2 / P2: Evaporator Probe Failure Causes and Fix](/posts/true-refrigeration-e2-p2-error/)
-- [True TSSU Prep Table Error Codes, Causes, and Fixes](/posts/true-tssu-prep-table-error-codes/)

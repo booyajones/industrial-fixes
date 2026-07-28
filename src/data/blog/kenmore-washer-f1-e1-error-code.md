@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Washer F1 E1 Error Code — What It Means
-
+## What this code means
 F1 E1 on most Kenmore washers built on Whirlpool platforms signals a main control failure or fault in the electronic control board. The central control unit has detected an internal error or is receiving improper input from one of its circuits. Whirlpool service documentation defines F1E1 as a main control fault and recommends a power reset followed by board replacement if the error returns.
 
 Because Kenmore washers are built by multiple OEMs, the exact meaning can vary slightly by model. If your manual shows a different definition or if you see a different code such as F7 E1 (basket speed sensor), consult your model's wiring diagram. For the majority of top-load Kenmore washers showing F1 E1, the fault points to the main electronic control board or a false signal reaching that board from the pressure sensor, drain system, or wiring harness.
@@ -26,8 +25,6 @@ Because Kenmore washers are built by multiple OEMs, the exact meaning can vary s
 ## Before You Replace Anything
 
 Many owners replace the control board without first checking the air dome hose and drain pump. Inspect the pressure hose for kinks or clogs and clear any debris from the pump before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

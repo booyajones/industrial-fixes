@@ -19,8 +19,6 @@ When a KitchenAid refrigerator fails to cool, it means the cabinet temperature i
 
 The failure can affect both compartments, only the fresh-food section, or only the freezer, depending on which part of the sealed system or air-delivery path has failed. The majority of cases trace back to airflow blockage, dirty heat-exchange surfaces, or fan and sensor faults rather than compressor or refrigerant loss.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty condenser coils** Dust and lint on the coils reduce heat rejection and are the most common reason for poor cooling performance.
@@ -55,14 +53,14 @@ The failure can affect both compartments, only the fresh-food section, or only t
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kitchenaid Refrigerator E0 error code](/posts/kitchenaid-refrigerator-e0-error-code/)
-- [Kitchenaid Refrigerator E1 error code](/posts/kitchenaid-refrigerator-e1-error-code/)
-- [Kitchenaid Refrigerator E2 error code](/posts/kitchenaid-refrigerator-e2-error-code/)
-- [Kitchenaid Refrigerator E3 error code](/posts/kitchenaid-refrigerator-e3-error-code/)
-- [Kitchenaid Refrigerator E4 error code](/posts/kitchenaid-refrigerator-e4-error-code/)
-- [Kitchenaid Refrigerator E5 error code](/posts/kitchenaid-refrigerator-e5-error-code/)
-- [Kitchenaid Refrigerator E6 error code](/posts/kitchenaid-refrigerator-e6-error-code/)
-- [Kitchenaid Refrigerator Er error code](/posts/kitchenaid-refrigerator-er-error-code/)
+- Kitchenaid Refrigerator E0 error code
+- Kitchenaid Refrigerator E1 error code
+- Kitchenaid Refrigerator E2 error code
+- Kitchenaid Refrigerator E3 error code
+- Kitchenaid Refrigerator E4 error code
+- Kitchenaid Refrigerator E5 error code
+- Kitchenaid Refrigerator E6 error code
+- Kitchenaid Refrigerator Er error code
 
 ## When to Call a Pro
 

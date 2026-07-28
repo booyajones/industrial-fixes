@@ -55,18 +55,3 @@ ETU 45B and 76B include ground fault protection via a summation CT (3-phase). Tr
 | Motor drive for 3WL | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-circuit-breaker-fault-codes&k=Motor+drive+for+3WL&tag=errorcodefixes-20) \| Replace on spring charge failure |
 ## When to Call a Pro
 Siemens 3WL maintenance (lubrication, contact inspection, arc chute replacement) requires factory-trained personnel. 3VA trip unit verification should be done with Siemens Sentron software.
-
-## Related Articles
-
-- [Siemens Sinumerik 828D Alarm Codes Guide — Complete Diagnostic Reference](/posts/siemens-828d-alarm-codes/)
-- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
-- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
-- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)
-- [Siemens G120C VFD Fault Code Guide — Complete Diagnostic Reference](/posts/siemens-g120c-fault-codes/)
-
-## See Also
-
-- [Siemens Sinumerik Alarm 300204 — Causes & Fix](/posts/siemens-sinumerik-alarm-300204/)
-- [Siemens SINAMICS V20 F1 Fault — Causes & Fix](/posts/siemens-sinamics-v20-f1-fault/)
-- [Siemens VFD F1 Fault (SINAMICS V20 Overcurrent): Causes, Codes, Fix](/posts/siemens-sinamics-v20-f1-overcurrent/)
-- [Siemens Sinumerik Alarm 25201 — Causes & Fix](/posts/siemens-sinumerik-alarm-25201/)

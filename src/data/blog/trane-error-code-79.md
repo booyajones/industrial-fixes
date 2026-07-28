@@ -13,11 +13,8 @@ money_part: "ComfortLink II thermostat"
 most_likely_cause: "Damaged or loose communication wiring"
 ---
 
-## Trane XV20i Error Code 79 — What It Means
-
+## What this code means
 Trane **error code 79** on the XV20i variable-speed heat pump means a **communication fault** — the outdoor unit is not receiving valid communications from the ComfortLink II thermostat or the air handler/furnace control board. The XV20i uses a proprietary two-wire communicating system (Trane's ComfortLink II or Nexia system). Code 79 indicates the outdoor unit dropped off the communication bus, which typically prevents the system from operating in heating or cooling mode.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,21 +42,3 @@ Trane **error code 79** on the XV20i variable-speed heat pump means a **communic
 ## When to Call a Pro
 
 Trane ComfortLink II system diagnostics require the Trane proprietary service tool (TechView) to read detailed fault history and communication bus diagnostics. If component swapping doesn't resolve code 79, an authorized Trane dealer with TechView can isolate the exact failure point.
-
-## Related Articles
-
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-
-<!-- INTERNAL-LINK-AUTO -->
-**Related:** [Rheem EcoNet A101 error code fix](/posts/rheem-econet-a101-error-code/)
-
-## See Also
-
-- [Trane / American Standard 4-Blink Error Code — Limit Circuit Trip Fix](/posts/trane-4-blink-error-code/)
-- [Trane ComfortLink II Error Codes — Common Faults and Fixes](/posts/trane-comfortlink-ii-error-codes/)
-- [Trane Tracer BAS Fault Codes - Complete Guide](/posts/trane-tracer-fault-codes/)
-- [Trane Heat Pump 1 Flash Error Code — Causes & Fix](/posts/trane-heat-pump-1-flash/)

@@ -17,8 +17,7 @@ money_part: "Bosch dishwasher temperature sensor NTC"
 part_price: "$25-75"
 ---
 
-## Bosch Dishwasher E13 Error — What It Means
-
+## What this code means
 The E13 error code on a Bosch dishwasher signals a high-water-temperature or overheat fault. The machine has detected that the wash water in the tub has risen above the safe limit of approximately 75°C (167°F). This is not a drainage problem. Instead, it points to an issue in the temperature-sensing or heating control circuit.
 
 The fault is designed to protect the dishwasher from damage caused by excessively hot water. The control board monitors the thermistor and shuts down operation when the reading exceeds the threshold. Common triggers include a faulty temperature sensor sending a false high reading, a stuck heater relay that cannot turn off the element, or incoming water that is already too hot at the supply connection.
@@ -26,8 +25,6 @@ The fault is designed to protect the dishwasher from damage caused by excessivel
 ## Before You Replace Anything
 
 Homeowners often replace the control board first. Instead, test the temperature sensor with a multimeter and verify the incoming water supply temperature before spending on electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

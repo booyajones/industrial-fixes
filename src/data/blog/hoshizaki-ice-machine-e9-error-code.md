@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Hoshizaki E9 Error Code — What It Means
-
+## What this code means
 The Hoshizaki E9 error code has two definitions depending on your model. On most machines, it indicates a compressor overload condition: the control board detects the compressor is drawing excessive current or cannot run due to high system pressure, and shuts down to protect the motor. On certain models (some KM-series and older boards), E9 (labeled EE(E9)) instead means the condenser thermistor is open or shorted for 2 seconds, stopping the unit. Note that models like the IM-500SAA do not use a condenser thermistor, so on those machines E9 is strictly a compressor overload fault.
 
 Because the code has two meanings, check your service manual or wiring diagram to confirm which applies to your specific model. The repair steps differ: overload faults are usually caused by high head pressure from a dirty condenser or failed fan, while thermistor faults point to a wiring or sensor problem.
@@ -29,8 +28,6 @@ Because the code has two meanings, check your service manual or wiring diagram t
 ## Before You Replace Anything
 
 Technicians sometimes replace the compressor when the real cause is a dirty condenser or failed fan motor. Clean the condenser and verify the fan runs before condemning the compressor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a qualified refrigeration technician if you are not comfortable working with high-voltage components, refrigerant systems, or compressor diagnostics. Cleaning the condenser and verifying the fan are safe homeowner tasks, but testing refrigerant pressures, recovering refrigerant, and replacing the compressor require EPA certification and specialized equipment. If the error persists after cleaning and resetting, or if you measure abnormal voltage or compressor amps, professional diagnosis is needed to avoid replacing expensive parts by mistake.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Hoshizaki F2 Error Code — Ice Full Sensor Fault Causes & Fix](/posts/hoshizaki-f2-error-code/)
-- [Hoshizaki E3/EE Error - Causes & Fix](/posts/hoshizaki-ice-machine-ee-e3-error-code/)
-- [Hoshizaki KM-901 Error Codes - What They Mean and How to Fix Them](/posts/hoshizaki-km-901-error-codes/)
-- [Hoshizaki E2 Error Code - Causes & Fix](/posts/hoshizaki-ice-machine-e2-error-code/)

@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Danfoss FC302 AL-86 Fault — What It Means
-
+## What this code means
 The AL-86 (Trip Speed Low) fault on a Danfoss FC302 VFD means the drive detected the motor speed dropped below the programmed limit in parameter 1-86 for longer than the trip delay time (parameter 14-26). This is not a generic hardware fault. It is a speed-control logic alarm triggered when the actual RPM falls below the set threshold, indicating the motor either did not start, stalled under load, or lost speed during operation.
 
 The drive calculates speed from output frequency and current feedback. When this calculated speed stays too low for the configured delay period, the drive trips to protect the motor and load. Common scenarios include a mechanically overloaded motor (clogged pump, jammed conveyor, seized bearing), incorrect motor parameters causing false detection, or a trip speed setting that is too high for the actual application speed.
@@ -29,8 +28,6 @@ The drive calculates speed from output frequency and current feedback. When this
 ## Before You Replace Anything
 
 Technicians sometimes replace the VFD or motor without first checking mechanical load and parameter settings. Disconnect the motor from its load and run no-load to confirm whether the fault is mechanical or electrical before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or VFD technician if you are not trained to work with industrial three-phase power and variable frequency drives. Diagnosing AL-86 requires measuring motor parameters, reviewing and adjusting drive parameters (1-86, 14-26, 1-20 to 1-25, 129), and safely working inside the VFD enclosure. If mechanical inspection and basic wiring checks do not resolve the fault, a technician with Danfoss programming tools and motor testing equipment is needed to perform AMA tuning, verify torque output, and rule out drive internal faults or motor winding damage.
 
 **Rough cost:** A pro service call runs about $200-600 depending on root cause.
-
-## See Also
-
-- [Danfoss AL 13 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-113-fault-code/)
-- [Danfoss FC302 VFD Alarm 29 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-29-fault-code/)
-- [Danfoss FC302 VFD ALARM 56 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-56-fault-code/)
-- [Danfoss FC302 AL-125 - Causes & Fix](/posts/danfoss-fc302-vfd-al-125-fault-code/)

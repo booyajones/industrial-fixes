@@ -13,11 +13,8 @@ money_part: "Spindle motor cooling fan"
 most_likely_cause: "Excessive spindle load or duty cycle"
 ---
 
-## Fanuc Alarm 700 — What It Means
-
+## What this code means
 Alarm 700 on a Fanuc CNC (FS0i, FS16i, FS18i, FS21i, FS30i series) is a spindle overheat alarm. The spindle drive detected that the spindle motor temperature exceeded the threshold set in the spindle amplifier or the thermal sensor in the spindle motor reported an overtemperature condition. Fanuc 700-series alarms all relate to the spindle drive system; 700 specifically indicates motor overheat.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Alarm 700 on a Fanuc CNC (FS0i, FS16i, FS18i, FS21i, FS30i series) is a spindle 
 ## When to Call a Pro
 
 Spindle bearing replacement requires precision preload setting and alignment and should be performed by a qualified machine tool technician or Fanuc-authorized service engineer. Improper bearing installation causes rapid bearing failure and spindle damage.
-
-## Related Articles
-
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
-- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
-- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
-
-## See Also
-
-- [Fanuc Alarm 6 Overtravel — Causes & Fix](/posts/fanuc-alarm-6-overtravel/)
-- [Fanuc Alarm 3 — Overtravel Minus Hardware Causes & Fix](/posts/fanuc-alarm-3-overtravel/)
-- [Fanuc Alarm 700 Spindle Overheat — Detailed Fix Guide](/posts/fanuc-alarm-700-spindle/)
-- [Fanuc Alarm 5 — Stored Stroke Limit 2 Overtravel](/posts/fanuc-alarm-5-overtravel/)

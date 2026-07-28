@@ -16,15 +16,12 @@ money_part: "Whirlpool lid-lock assembly"
 part_price: "$50-100"
 ---
 
-## Whirlpool LdU Error Code — What It Means
-
+## What this code means
 LdU on Whirlpool top-load washers indicates the lid-lock system cannot unlock the lid. The washer has detected a fault preventing the lid from releasing at the end of the cycle. On Cabrio-style and related models, this code points to a problem with the lid-lock mechanism, not a drain or water-level issue. The machine will not proceed to the next cycle or allow you to open the lid until the fault is cleared.
 
 ## Before You Replace Anything
 
 Many homeowners replace the main control board first when the fault persists. Before ordering the board, inspect the lid-lock assembly and wiring harness carefully. A worn lock or loose connector is much cheaper and far more common.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

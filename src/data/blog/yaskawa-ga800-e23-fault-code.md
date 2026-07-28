@@ -13,13 +13,10 @@ money_part: "External regenerative braking resistor"
 most_likely_cause: "Open or loose resistor leads"
 ---
 
-## Yaskawa GA800 E23 Fault — What It Means
-
+## What this code means
 The E23 fault on a Yaskawa GA800 drive indicates a problem with the external regenerative braking resistor circuit. Yaskawa specifically defines this condition as the external regenerative resistor being incorrectly wired, removed, or disconnected. The fault does not point to motor windings, encoder issues, or main input power problems. It is strictly a dynamic braking circuit alarm that prevents the drive from operating until the resistor connection is restored and verified.
 
 This fault appears when the drive cannot detect continuity or proper connection through the external regen resistor terminals. The drive uses this resistor to dissipate energy during deceleration or regenerative braking. If the circuit is open or the resistor is missing, the drive has no safe path to shed that energy and will stop with E23 to protect itself and the application.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ This fault appears when the drive cannot detect continuity or proper connection 
 ## When to Call a Pro
 
 Call a qualified technician or contact Yaskawa support if you have confirmed the external regenerative resistor is correctly installed and wired but the E23 fault continues to appear. This indicates a possible drive-side hardware failure in the braking circuit that requires advanced diagnostics and access to service-level documentation. Also call a professional if you are not trained in high-voltage drive systems or do not have the tools to safely verify circuit continuity and proper grounding. Drive circuits store dangerous voltage even after power removal, and incorrect work on the braking resistor circuit can damage the drive or create a safety hazard.
-
-## See Also
-
-- [Yaskawa VFD Fault OV — DC Bus Overvoltage Fix](/posts/yaskawa-vfd-fault-ov/)
-- [Yaskawa GA800 E24 Fault - Causes & Fix](/posts/yaskawa-ga800-e24-fault-code/)
-- [Yaskawa VFD Fault CF — Causes & Fix](/posts/yaskawa-vfd-fault-cf/)
-- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)

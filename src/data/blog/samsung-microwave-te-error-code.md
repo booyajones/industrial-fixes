@@ -17,15 +17,12 @@ money_part: "Touch panel / keypad / user interface assembly"
 part_price: "$80-200"
 ---
 
-## Samsung Microwave TE Error — What It Means
-
+## What this code means
 On Samsung microwaves, TE stands for touch communication error. The touch panel or keypad interface is not communicating properly with the main control board. This is not a temperature sensor fault (that meaning applies to Samsung washers and dryers, not microwaves). Samsung's own support pages group TE with errors where the user interface cannot send signals to the control system.
 
 ## Before You Replace Anything
 
 Many people replace the main control board first. Before ordering any parts, complete a 60-second power reset and inspect the touch panel area for moisture, sticky residue, or visible damage.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

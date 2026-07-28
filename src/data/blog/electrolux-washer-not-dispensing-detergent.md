@@ -19,8 +19,6 @@ When your Electrolux washer is not dispensing detergent, it means detergent or s
 
 This is a symptom, not a specific fault code. Electrolux documentation connects it most often to buildup in the dispenser itself, incorrect detergent type or amount, low water pressure to the machine, or a failing water inlet valve that does not supply enough flow to the dispenser channels.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged dispenser drawer or recess** Detergent and softener residue builds up in the compartments, siphon tubes, and dispenser recess over time and blocks water flow.

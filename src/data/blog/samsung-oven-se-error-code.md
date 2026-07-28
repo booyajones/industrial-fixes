@@ -15,8 +15,7 @@ diy_or_pro: "diy"
 money_part: "Drain pump filter"
 ---
 
-## Samsung SE Error Code — What It Means
-
+## What this code means
 The SE error code on a Samsung washing machine signals a drainage fault. The washer has detected that water is not draining properly from the drum. Samsung groups SE together with the 5E code in the same drain-issue family, so both indicate the machine cannot empty water within the expected time during the rinse or spin cycle.
 
 This code does not point to a general electronic failure. It is specifically tied to the drain path: the pump filter, drain hose, or the pump itself. When the washer cannot evacuate water, it stops the cycle and displays SE to protect the motor and prevent flooding.
@@ -24,8 +23,6 @@ This code does not point to a general electronic failure. It is specifically tie
 ## Before You Replace Anything
 
 Many owners replace the drain pump assembly before checking the pump filter. Pull and clean the filter first (usually behind a lower access panel) because lint, coins, and small garments block the impeller and trigger SE without any pump failure.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

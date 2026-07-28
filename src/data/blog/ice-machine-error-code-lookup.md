@@ -17,8 +17,6 @@ money_part: "Water inlet valve"
 
 Ice machine codes usually point to freeze time, harvest time, water level, condenser problems, sensor faults, or bin controls. This page is the high-level lookup hub for the major commercial ice machine brands and the fault patterns technicians see most often.
 
-[Jump to Fix](#fix)
-
 ## Common Ice Machine Fault Patterns
 
 | Fault Type | What It Usually Means |
@@ -59,11 +57,3 @@ Ice machine codes usually point to freeze time, harvest time, water level, conde
 ## When to Call a Pro
 
 If the machine is in a foodservice or healthcare setting and codes continue after cleaning and basic checks, bring in a commercial refrigeration tech. Ice quality, sanitation, and production rate all matter, not just whether the machine turns on.
-
-## Related Articles
-
-- [Follett Ice Machine Error Code E1 — Causes & Fix](/posts/follett-ice-machine-error-code-e1/)
-- [Follett Ice Machine Error Code E2 — Causes & Fix](/posts/follett-ice-machine-error-code-e2/)
-- [Follett Ice Machine Error Code E3 — Causes & Fix](/posts/follett-ice-machine-error-code-e3/)
-- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)

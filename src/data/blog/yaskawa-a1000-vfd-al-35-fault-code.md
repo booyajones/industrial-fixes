@@ -20,15 +20,12 @@ free_checks:
 part_price: "$300-800"
 ---
 
-## Yaskawa A1000 CPF35 (AL-35) — What It Means
-
+## What this code means
 CPF35 is a Control Circuit Error indicating that the drive's internal hardware has failed. The microprocessor on the control board has detected an internal error it cannot resolve, such as memory corruption, ADC failure, or logic circuit damage. This fault is often mistyped or misheard as AL-35 or AL35, but the official Yaskawa code is CPF35. The fault means irreversible hardware damage has occurred, typically to the control board or power board. Unlike software faults that reset with a parameter change, CPF35 requires physical hardware replacement to restore function.
 
 ## Before You Replace Anything
 
 Some technicians replace the entire drive when only the control board has failed. Always check input voltage and connections first, then replace the control board alone if the power section tests good.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified technician or an industrial controls specialist for CPF35. This fault requires working inside the drive enclosure with high-voltage DC bus capacitors present even after input power is removed. Replacing the control board demands careful handling of static-sensitive components, proper grounding, and verification that the power section is not also damaged. If you lack experience with VFD repair or do not have the tools to safely discharge and test high-voltage circuits, professional service is the safer and faster route. A technician can also review your facility's power quality and recommend surge protection if voltage spikes contributed to the failure.
 
 **Rough cost:** A pro service call runs about $400-1200 for control board replacement or drive swap.
-
-## See Also
-
-- [Yaskawa A1000 oFA34 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-34-fault-code/)
-- [Yaskawa A1000 AL-08 - Causes & Fix](/posts/yaskawa-a1000-vfd-al-08-fault-code/)
-- [Yaskawa A1000 oL1 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol1-fault-code/)
-- [Yaskawa GA800 E29 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e29-fault-code/)

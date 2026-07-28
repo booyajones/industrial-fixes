@@ -19,8 +19,6 @@ A Maytag washer that won't fill with water is usually not a specific error code 
 
 On models with adaptive sensing, the control may interpret a pressure sensor input as already full, which can also prevent fill. The machine either stops mid-cycle or extends the fill time because it is not detecting a normal water level within the allowed window.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged inlet screens at the water valve ports** Sand, rust, or mineral scale block the small filter screens where the hoses connect to the washer, reducing flow to a trickle or stopping fill entirely.

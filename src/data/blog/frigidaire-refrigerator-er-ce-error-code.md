@@ -17,8 +17,7 @@ money_part: "Frigidaire refrigerator user interface board (display board)"
 part_price: "$80-250"
 ---
 
-## Frigidaire Er CE Error Code — What It Means
-
+## What this code means
 The Er CE (or SY CE) error code indicates a communication failure between the refrigerator's main control board and the user interface or display board. The two boards exchange data over a wiring harness, and on many models that harness runs through the door hinge area where repeated opening and closing can stress the wires. This code does not point to a temperature, defrost, or sealed-system problem. It signals an electronics, wiring, or connector issue in the control loop.
 
 Because the same communication path often feeds the ice maker and water dispenser controls, you may also lose those functions when Er CE appears. The code can be triggered by a physical problem like a loose plug or corroded pin, or by a failed board. On some models a temporary software lockup can set the code, and a full power reset will clear it if no hardware fault exists.
@@ -26,8 +25,6 @@ Because the same communication path often feeds the ice maker and water dispense
 ## Before You Replace Anything
 
 Many people replace the main control board first when they see a control error code. Before ordering a board, unplug the refrigerator and inspect every connector at both the display panel and the main board for corrosion, moisture, or loose pins, and flex the door harness gently while checking for intermittent breaks.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

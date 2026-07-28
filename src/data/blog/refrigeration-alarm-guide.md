@@ -16,8 +16,6 @@ tags:
 
 Commercial refrigeration alarms vary by controller and manufacturer, but most point back to temperature, defrost, airflow, sensors, door position, condenser performance, or refrigerant issues. This guide is built as a quick first-pass reference for technicians and facility teams.
 
-[Jump to Fix](#fix)
-
 ## Common Refrigeration Alarm Types
 
 | Symptom / Code | Common Meaning | Typical Brands |

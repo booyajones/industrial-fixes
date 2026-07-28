@@ -19,8 +19,6 @@ A KitchenAid microwave turntable not turning is not a fault code. It is an opera
 
 When the turntable should be on but is not rotating, the problem is usually simple: packaging left on the hub, incorrect installation, or the turntable feature disabled. If those are ruled out, the failure is typically the turntable motor, the drive coupling that connects the motor to the tray, or a damaged support roller assembly. A thumping or rumbling sound often means the tray is not seated correctly or the roller is bad.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Turntable function turned off** On models with a turntable on/off option, the feature may be disabled, which stops rotation during cooking.

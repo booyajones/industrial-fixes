@@ -19,8 +19,6 @@ When a Maytag front-load washer door stays locked after a cycle ends, the contro
 
 On many models Fresh Hold keeps the door locked until you press Cancel or Power, and TumbleFresh can keep the door locked while it tumbles the load every so often for up to six hours. If the cycle ended normally but the door still will not open, the control may need a reset or the drain system may have left water behind that prevents unlocking.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Water remains in the tub after the cycle** The door lock will not release until the washer finishes draining, so any standing water keeps it locked.
@@ -54,18 +52,18 @@ On many models Fresh Hold keeps the door locked until you press Cancel or Power,
 
 Seeing a code on the display? These match this problem:
 
-- [Maytag Washer D1 error code](/posts/maytag-washer-d1-error-code/)
-- [Maytag Washer D13 error code](/posts/maytag-washer-d13-error-code/)
-- [Maytag Washer D16 error code](/posts/maytag-washer-d16-error-code/)
-- [Maytag Washer D3 error code](/posts/maytag-washer-d3-error-code/)
-- [Maytag Washer D4 error code](/posts/maytag-washer-d4-error-code/)
-- [Maytag Washer D5 error code](/posts/maytag-washer-d5-error-code/)
-- [Maytag Washer D7 error code](/posts/maytag-washer-d7-error-code/)
-- [Maytag Washer D8 error code](/posts/maytag-washer-d8-error-code/)
+- Maytag Washer D1 error code
+- Maytag Washer D13 error code
+- Maytag Washer D16 error code
+- Maytag Washer D3 error code
+- Maytag Washer D4 error code
+- Maytag Washer D5 error code
+- Maytag Washer D7 error code
+- Maytag Washer D8 error code
 - [Maytag Washer D9 error code](/posts/maytag-washer-d9-error-code/)
-- [Maytag Washer Drn error code](/posts/maytag-washer-drn-error-code/)
-- [Maytag Washer F07 error code](/posts/maytag-washer-f07-error-code/)
-- [Maytag Washer F11 error code](/posts/maytag-washer-f11-error-code/)
+- Maytag Washer Drn error code
+- Maytag Washer F07 error code
+- Maytag Washer F11 error code
 
 ## When to Call a Pro
 

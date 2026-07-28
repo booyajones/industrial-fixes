@@ -21,8 +21,7 @@ part_price: "$600-1,800"
 no_buy_pct: "65%"
 ---
 
-## Danfoss FC302 AL-136 Fault — What It Means
-
+## What this code means
 No fault code AL-136 exists in Danfoss FC302 documentation. The drive uses numeric alarm identifiers like Alarm 13, Alarm 14, and Alarm 4. The most probable match is Alarm 13, which indicates output current exceeding safe operating thresholds during normal operation or acceleration. This fault triggers when current builds beyond the drive's rated capacity (typically 150–160% of nominal current sustained for several seconds), protecting the drive from thermal overload and IGBT damage. The fault is not an instantaneous short circuit but rather a gradual current buildup that exceeds safe limits.
 
 Alarm 13 protects the drive hardware by shutting down before heat damages the inverter module. The drive monitors current through internal sensors and compares it against parameter settings. When the threshold is crossed for too long, the alarm latches and stops the motor. The fault can originate from mechanical issues on the motor side, incorrect parameter configuration, or internal drive component failure.
@@ -30,8 +29,6 @@ Alarm 13 protects the drive hardware by shutting down before heat damages the in
 ## Before You Replace Anything
 
 Technicians often replace the entire inverter power module when Alarm 13 appears, but most cases stem from wrong parameter 1-24 settings or mechanical motor overload. Always disconnect the motor and run the drive unloaded first to isolate whether the fault is in the drive or the motor circuit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -82,10 +79,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if the alarm persists after you have verified parameter 1-24 and checked motor connections. Internal drive faults require high-voltage diagnostic tools, IGBT module testing, and current sensor calibration that are not safe for untrained personnel. Also call a pro if motor insulation testing shows readings below 2 megohms, as motor rewind or replacement requires specialized equipment. If the motor is mechanically jammed or you suspect bearing failure, a motor shop or mechanical technician should inspect the shaft and bearings before you restart the drive. Do not attempt to replace IGBT modules or control boards without proper training in handling high-voltage DC bus capacitors and electrostatic-sensitive components.
 
 **Rough cost:** A pro service call runs about $150-400 for parameter adjustment and diagnostics, $800-2,500 if IGBT module replacement is needed.
-
-## See Also
-
-- [Danfoss FC302 AL-76 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-76-fault-code/)
-- [Danfoss FC302 VFD AL-106 - Causes & Fix](/posts/danfoss-fc302-vfd-al-106-fault-code/)
-- [Danfoss FC302 W66 - Causes & Fix](/posts/danfoss-fc302-vfd-al-66-fault-code/)
-- [Danfoss FC302 Alarm 43 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-43-fault-code/)

@@ -20,8 +20,7 @@ free_checks:
 part_price: "$30–$60"
 ---
 
-## Samsung Dryer HC2 Error Code — What It Means
-
+## What this code means
 HC2 is a gas ignition error code on Samsung gas dryers. The dryer has detected a fault in the ignition system, meaning the burner is not lighting or the flame is not being sensed correctly. Samsung's official support documentation identifies HC2 specifically as a gas ignition fault, not a general heating or temperature problem. The code appears when the control board cannot confirm proper ignition after calling for heat.
 
 Do not confuse HC2 with HC or HE codes, which can indicate different issues. Samsung's public troubleshooting guidance for HC2 is straightforward: power the dryer off for 2 to 3 minutes, then turn it back on and retry the cycle. If the code returns after the reset, Samsung directs you to contact service support. The fault lies somewhere in the gas burner, ignition, or flame-sensing circuit.
@@ -29,8 +28,6 @@ Do not confuse HC2 with HC or HE codes, which can indicate different issues. Sam
 ## Before You Replace Anything
 
 Many owners replace the control board first, assuming the error is electronic. Test the igniter for continuity and inspect the gas valve coils before replacing any circuit board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

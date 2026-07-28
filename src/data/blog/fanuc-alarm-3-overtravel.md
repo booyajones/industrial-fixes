@@ -17,8 +17,6 @@ most_likely_cause: "Reference (home) cycle overrun"
 
 Fanuc Alarm 3 is an **Overtravel (Minus direction) hardware limit** — an axis has tripped the negative-direction hardware overtravel limit switch. It is the negative-direction counterpart to Alarm 2. The hardware OT switch in the minus direction is typically located at the back stroke of an axis (toward the machine's home position, depending on the axis convention). Tripping Alarm 3 often occurs during homing sequences or when a machine loses position reference and attempts to travel beyond the physical negative boundary.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
 - **Reference (home) cycle overrun** — If the machine loses its reference position (after a battery failure or parameter loss), the homing cycle can drive the axis past the negative hardware limit switch before slowing down.
@@ -44,18 +42,3 @@ Fanuc Alarm 3 is an **Overtravel (Minus direction) hardware limit** — an axis 
 ## When to Call a Pro
 
 Repeated Alarm 3 during homing may indicate the reference point parameters (Parameter 1240/1241 for grid shift) are incorrectly set, or the encoder battery has failed and the home position is lost. A Fanuc-certified technician should set up the homing parameters to prevent future overruns.
-
-## Related Articles
-
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
-- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
-- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
-
-## See Also
-
-- [Fanuc Alarm 424 — Causes & Fix](/posts/fanuc-alarm-424/)
-- [Fanuc Alarm 436 — Causes & Fix](/posts/fanuc-alarm-436/)
-- [Fanuc Alarm 435 — Causes & Fix](/posts/fanuc-alarm-435/)
-- [Fanuc Alarm 90 — Causes & Fix](/posts/fanuc-alarm-90-axis-error/)

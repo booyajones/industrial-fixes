@@ -20,8 +20,7 @@ free_checks:
 part_price: "$25-60"
 ---
 
-## Electrolux Dryer E64 Error Code — What It Means
-
+## What this code means
 The E64 error code on Electrolux and Frigidaire dryers signals a heating or heater-circuit problem. The control has detected that the dryer is not heating correctly or that something in the heating circuit is faulty. This code does not mean a general computer failure. Instead, it points to a specific issue in the parts responsible for generating heat.
 
 The most common culprits are a burned-out heating element, a heating element coil that is touching the metal housing and shorting, or a blown thermal fuse. Other possibilities include a faulty cycling thermostat, restricted airflow from a clogged lint filter or vent, damaged wiring, or in rare cases a control board fault. Because airflow restrictions can cause heaters and fuses to fail repeatedly, checking the vent path is an important first step even though it may not directly trigger the code.
@@ -29,8 +28,6 @@ The most common culprits are a burned-out heating element, a heating element coi
 ## Before You Replace Anything
 
 Many people replace the control board first, but E64 almost always points to the heating element or thermal fuse. Test both with a multimeter for continuity before spending money on electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -17,8 +17,7 @@ free_checks:
   - "Power the unit off for two minutes, then restore power to see if the fault clears after a cold reboot."
 ---
 
-## State Water Heater E48 Error — What It Means
-
+## What this code means
 The E48 error code on State water heaters is not documented in widely available service literature, and its exact meaning depends on your specific model number. Error codes in the E4x range on various water-heater platforms can indicate sensor faults, wiring problems, combustion issues, or control-board detection of a critical condition. Without the manufacturer code chart for your exact State unit, attempting a repair based on another brand's E48 definition risks replacing the wrong part.
 
 Before any repair, locate the rating plate on your water heater and note the full model number, then consult the owner's manual or the wiring diagram inside the access panel for the error-code table. If the manual is missing, contact State customer service or a qualified technician with the model number to confirm what E48 means for that specific appliance. General patterns across tankless and standard units suggest checking harness connections, testing temperature sensors for continuity, verifying gas supply and combustion components if applicable, and inspecting vent or inlet pathways for blockage.
@@ -26,8 +25,6 @@ Before any repair, locate the rating plate on your water heater and note the ful
 ## Before You Replace Anything
 
 Many homeowners replace the control board assuming any numeric error is a board fault. First verify all harness connectors are seated and check sensor resistance with a multimeter against the model's specification table.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

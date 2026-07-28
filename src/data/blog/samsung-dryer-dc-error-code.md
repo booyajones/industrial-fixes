@@ -22,8 +22,7 @@ part_price: "$12–35"
 no_buy_pct: "60%"
 ---
 
-## Samsung Dryer dC Error Code — What It Means
-
+## What this code means
 The dC code on a Samsung dryer tells you the control board is not detecting the door as properly closed or locked. Even if the door looks shut, the dryer thinks it is open or the latch circuit is not satisfied. The unit will refuse to start or will stop mid-cycle because the safety interlock requires a good door-closed signal before the motor and heater can run.
 
 In practice Samsung documents this as a door switch or door circuit problem. The fault can be mechanical (a latch not seating, a hinge out of alignment, or lint blocking the strike) or electrical (a failed door switch, broken wire, or corroded connector). Either way the dryer sees an open door condition and displays dC to protect against running with the drum accessible.
@@ -31,8 +30,6 @@ In practice Samsung documents this as a door switch or door circuit problem. The
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board thinking the error is a logic fault. In fact the door switch or latch hardware is almost always the real culprit. Test the door switch for continuity with a multimeter before ordering electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -17,8 +17,7 @@ money_part: "LG refrigerator main control board / main PCB"
 part_price: "$150-350"
 ---
 
-## LG Refrigerator CO Error Code — What It Means
-
+## What this code means
 The LG refrigerator CO (or E CO or ER(E) CO) error code signals a communication breakdown between the main control board and the display PCB (user interface board). LG describes this as an inspection code that appears when the two boards cannot exchange data. The fault can be triggered by an unstable power event, a failed main board, a failed display PCB, or a disconnected wire harness between the boards.
 
 This is not a refrigerant, compressor, fan, or defrost fault. It is purely an electronics communication problem. LG recommends a power reset as the first step, and if the code returns, the refrigerator should be inspected by a technician to identify which board or connection has failed.
@@ -26,8 +25,6 @@ This is not a refrigerant, compressor, fan, or defrost fault. It is purely an el
 ## Before You Replace Anything
 
 Many people replace the display board first because it shows the error. Check the wire harness connectors and perform a proper power reset before ordering any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a professional if the CO code returns after a proper 5-minute power reset and you cannot locate or safely access the wire harnesses and control boards. A technician has the signal-tracing tools and board-level test equipment to isolate whether the main board, display board, or harness is at fault without guessing. Professional diagnosis is also the right choice if you are uncomfortable working around live PCBs or if your refrigerator is still under warranty, since DIY board replacement may void coverage. LG recommends technician inspection when the code is repeatable.
 
 **Rough cost:** DIY runs about $150–350 in parts (main board or display PCB), 30–60 min. A pro service call runs about $200–450 including diagnosis and board replacement.
-
-## See Also
-
-- [LG Refrigerator Fresh Food Warm but Freezer Cold - Causes & Fix](/posts/lg-refrigerator-fresh-food-warm-but-freezer-cold/)
-- [LG Washer Not Draining Completely - Causes & Fix](/posts/lg-washer-not-draining-completely/)
-- [LG Microwave F13 Error Code - Causes & Fix](/posts/lg-microwave-f13-error-code/)
-- [LG Washer Overflowing - Causes & Fix](/posts/lg-washer-overflowing/)

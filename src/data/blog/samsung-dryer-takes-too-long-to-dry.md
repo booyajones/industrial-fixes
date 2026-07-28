@@ -19,8 +19,6 @@ A Samsung dryer that takes too long to dry is a performance symptom, not a dedic
 
 Prolonged drying on Samsung units is most commonly tied to blocked venting, a clogged lint filter, weak heat, Eco Dry mode, or an overfilled load. If an error code appears alongside the symptom, Samsung indicates codes such as HC (abnormal temperature), 9C1 (abnormal voltage), dc (door open), or C1/CL1 (laundry in drum during test) may be relevant depending on the model and condition.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Restricted exhaust vent** Samsung highlights blocked or kinked exhaust venting as the most common cause of weak heat and long dry times.
@@ -64,7 +62,7 @@ Seeing a code on the display? These match this problem:
 - [Samsung Dryer Be error code](/posts/samsung-dryer-be-error-code/)
 - [Samsung Dryer Be2 error code](/posts/samsung-dryer-be2-error-code/)
 - [Samsung Dryer C1 error code](/posts/samsung-dryer-c1-error-code/)
-- [Samsung Dryer C2 error code](/posts/samsung-dryer-c2-error-code/)
+- Samsung Dryer C2 error code
 - [Samsung Dryer C8 error code](/posts/samsung-dryer-c8-error-code/)
 - [Samsung Dryer C80 error code](/posts/samsung-dryer-c80-error-code/)
 

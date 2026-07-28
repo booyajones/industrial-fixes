@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Oven Temperature Sensor (RTD)"
 ---
 
-## Maytag Oven CAL Error Code — What It Means
-
+## What this code means
 The Maytag CAL code is not a fault code. Maytag identifies CAL as the oven calibration feature, which appears when the control is in calibration-adjustment mode or displaying the current temperature offset. This feature lets you shift the oven temperature up or down in 5°F or 10°F increments (depending on control style) within a ±30°F range to compensate for ovens that bake too hot or too cool.
 
 If you see CAL on the display, the oven is simply showing a settings screen. The code does not indicate a failed sensor or board. If the display was left in calibration mode accidentally, pressing Cancel will exit without saving changes. If the oven temperature is actually incorrect, you can use the calibration menu to apply an offset and then press Start to save it.
@@ -25,8 +24,6 @@ If you see CAL on the display, the oven is simply showing a settings screen. The
 ## Before You Replace Anything
 
 Homeowners sometimes replace the temperature sensor or control board thinking CAL is a fault code. CAL is only a calibration-mode indicator, so always exit calibration mode first and verify actual oven temperature with a known-good thermometer before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

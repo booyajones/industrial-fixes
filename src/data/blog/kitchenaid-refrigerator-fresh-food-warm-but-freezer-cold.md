@@ -19,8 +19,6 @@ In a typical KitchenAid side-by-side or French-door refrigerator, the freezer co
 
 This symptom pattern usually points to an airflow or defrost problem, not a complete cooling failure. The most common culprit is ice buildup on the evaporator coil that blocks the evaporator fan from moving cold air into the refrigerator section. Less often, the issue is a stuck damper, a failed evaporator fan, or dirty condenser coils.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Frosted evaporator coil blocking airflow** Ice buildup on the evaporator coil or fan area blocks the flow of cold air to the fresh-food section, even though the freezer remains cold.

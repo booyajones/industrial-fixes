@@ -19,8 +19,6 @@ Maytag does not list "leaking water" as a fault code. It is a general symptom wi
 
 For front-load machines, Maytag points to the door seal (bellow), dispenser, detergent use, loading issues, and leveling as common leak-related causes. For leaks from the bottom, Maytag identifies fill and drain hoses, the water pump, tub seal, drain pipe, and water level switch as possible causes.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Loose, kinked, blocked, or damaged fill or drain hoses** Hose connections can work loose over time, or the hose itself can crack, kink, or develop pinholes that leak during fill or drain cycles.

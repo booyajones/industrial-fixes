@@ -17,8 +17,7 @@ money_part: "Main electronic control board"
 part_price: "$100-250"
 ---
 
-## Whirlpool Dryer F1E1 Error Code — What It Means
-
+## What this code means
 F1E1 is Whirlpool's control error code. The dryer's electronic control detects an internal problem with its own circuitry or logic. Whirlpool's field instructions for this code are to reset power and see whether the fault returns. This code indicates a control-side failure rather than a sensor, door switch, or airflow issue.
 
 In technician practice, F1E1 is treated as a main control board fault. Common triggers include corrupted control power after a surge, a failed relay or solder joint on the board, or a loose ribbon cable connection. Unlike sensor codes that point to a specific thermistor or switch, F1E1 tells you the control itself needs attention.
@@ -26,8 +25,6 @@ In technician practice, F1E1 is treated as a main control board fault. Common tr
 ## Before You Replace Anything
 
 Homeowners sometimes order thermistors or door switches after reading generic online lists, but F1E1 is a control-board code. Always perform the 5-minute power reset and reseat the board connectors before buying any part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

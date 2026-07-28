@@ -19,8 +19,6 @@ When a Bosch dishwasher is not cleaning dishes properly, it usually means poor w
 
 Bosch also notes that heavily soiled dishes with burnt-on food may require a higher-temperature or more intensive program to achieve proper cleaning. The symptom often appears as food residue remaining on dishes, film or spotting, or inconsistent wash results across the load.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Detergent tablet not dissolving** The tablet remains in the dispenser or tray instead of releasing into the wash, leaving dishes without effective cleaning chemistry.

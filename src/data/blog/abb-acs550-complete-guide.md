@@ -16,8 +16,6 @@ tags:
 
 The ABB ACS550 is a wall-mount general-purpose variable frequency drive rated from 1 to 550 HP (0.75–355 kW). It displays fault and alarm codes on the built-in basic panel (or optional assistant control panel) as an "Fxxx" or "Axxx" code followed by a description. Faults require reset; alarms are warnings that do not stop the drive.
 
-[Jump to Fix](#fix)
-
 ## ABB ACS550 Fault Codes (Fxxx)
 
 | Fault | Meaning |
@@ -89,18 +87,3 @@ The ABB ACS550 is a wall-mount general-purpose variable frequency drive rated fr
 ## When to Call a Pro
 
 F0021 (IGBT fault) and F0130 (control board fault) typically require factory service or drive replacement. ABB's ACS550 can often be repaired by ABB service centers more cost-effectively than replacement for large HP ratings. For IGBT faults, always inspect the motor and cables first — replacing an IGBT into a shorted motor destroys the new IGBT immediately.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-
-## See Also
-
-- [ABB VFD Fault 9300 — Causes & Fix](/posts/abb-vfd-fault-9300/)
-- [ABB VFD Fault 4110 — Causes & Fix](/posts/abb-vfd-fault-4110/)
-- [ABB ACS580 Fault 3210 — DC Overvoltage Fix](/posts/abb-acs580-fault-3210/)
-- [ABB ACS880 Complete Fault Code Guide — All Faults and Fixes](/posts/abb-acs880-complete-guide/)

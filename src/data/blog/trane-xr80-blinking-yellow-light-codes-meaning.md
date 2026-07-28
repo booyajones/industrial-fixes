@@ -13,13 +13,10 @@ money_part: "Trane XR80 flame sensor rod"
 most_likely_cause: "Dirty or oxidized flame sensor"
 ---
 
-## Trane XR80 Blinking Yellow Light Codes — What It Means
-
+## What this code means
 On the Trane XR80 furnace, the yellow diagnostic LED does not signal a single universal fault. You must count the exact number of flashes to identify the problem. The most common XR80 yellow blink codes are 2 flashes for external lockout (repeated ignition failures), 7 flashes for a gas valve problem, and 8 flashes for low flame signal. The control board uses these patterns to tell you which part of the ignition sequence failed, whether it is flame sensing, gas delivery, or something upstream like a pressure switch or high limit. Always compare your blink count to the chart on your furnace door or in your XR80 service literature before you start replacing parts.
 
 Because the XR80 uses an IFC-style diagnostic system, the blink code alone is a starting point, not a final diagnosis. Real-world causes can overlap. A lockout code can mean a dirty flame sensor, intermittent gas supply, or a wiring issue. A gas valve code can point to a failed valve coil or a control board that is not commanding the valve open. A low flame signal almost always starts with a dirty or oxidized flame sensor rod, but can also mean poor grounding or weak combustion. Cross-check each code with the actual ignition sequence and airflow conditions before ordering new components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ Because the XR80 uses an IFC-style diagnostic system, the blink code alone is a 
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you have cleaned the flame sensor and verified wiring but the yellow blink code returns immediately, if you smell gas or hear the valve hissing without ignition, or if the furnace locks out every cycle with no obvious cause. Gas valve replacement, control board diagnosis, and pressure switch testing require multimeter skills and knowledge of the ignition sequence. If you are not comfortable working with 120V power, natural gas piping, or reading microamp flame current, professional service is the safer and faster choice. Repeated lockouts that clear temporarily after power cycling usually indicate an intermittent fault that needs proper diagnostics, not guesswork part swaps.
-
-## See Also
-
-- [Trane 8 Flashes Error Code — Causes & Fix](/posts/trane-8-flashes-error-code/)
-- [Trane ComfortR ER Error Code — Causes & Fix](/posts/trane-comfort-r-error-codes-er/)
-- [Trane Furnace Error Codes — Complete Flash Code Guide](/posts/trane-furnace-error-codes/)
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)

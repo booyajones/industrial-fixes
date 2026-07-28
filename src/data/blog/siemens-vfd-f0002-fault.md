@@ -136,18 +136,3 @@ No. The F0002 trip threshold is a hardware protection level set by Siemens — i
 **Q: My G120 shows F0002 even with a very slow decel ramp. What's wrong?**
 
 If F0002 occurs even with a 60-second or longer decel ramp, the incoming line voltage may be elevated. Measure L1-L2, L2-L3, and L1-L3 at the drive input. High line voltage means a high baseline DC bus voltage, leaving less headroom before F0002 trips. Also verify the Vdc max controller is enabled (P1240 = 1). If both are fine and F0002 persists, the drive's DC bus capacitors may be degraded — capacitors that have lost capacitance can't buffer voltage transients and the bus spikes more easily.
-
-## Related Articles
-
-- [Siemens Sinumerik 828D Alarm Codes Guide — Complete Diagnostic Reference](/posts/siemens-828d-alarm-codes/)
-- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
-- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)
-- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
-- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)
-
-## See Also
-
-- [Siemens VFD Fault Codes — SINAMICS G120, V20, S120 Guide](/posts/siemens-vfd-fault-codes/)
-- [Siemens SINAMICS G120 F30021 Fault — Ground Fault Fix](/posts/siemens-sinamics-f30021-fault/)
-- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
-- [Siemens SINAMICS G120 Fault F30021, Ground Fault Causes & Fix](/posts/siemens-sinamics-g120-fault-f30021/)

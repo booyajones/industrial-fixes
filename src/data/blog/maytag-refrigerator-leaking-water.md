@@ -19,8 +19,6 @@ A Maytag refrigerator leaking water is not an error code. It is a symptom descri
 
 The sources identify two main categories: plumbing leaks (supply lines, filter, fittings) and blocked defrost drainage. Field reports show that a clogged or frozen defrost drain in the freezer section is the most common root cause, because meltwater cannot reach the drain pan and instead overflows into the fresh food compartment or onto the floor.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged or frozen defrost drain** Meltwater from the defrost cycle cannot exit through the drain hole and instead overflows into the cabinet or onto the floor.
@@ -55,18 +53,18 @@ The sources identify two main categories: plumbing leaks (supply lines, filter, 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Maytag Refrigerator C1 error code](/posts/maytag-refrigerator-c1-error-code/)
-- [Maytag Refrigerator C2 error code](/posts/maytag-refrigerator-c2-error-code/)
-- [Maytag Refrigerator C3 error code](/posts/maytag-refrigerator-c3-error-code/)
-- [Maytag Refrigerator C4 error code](/posts/maytag-refrigerator-c4-error-code/)
+- Maytag Refrigerator C1 error code
+- Maytag Refrigerator C2 error code
+- Maytag Refrigerator C3 error code
+- Maytag Refrigerator C4 error code
 - [Maytag Refrigerator C5 error code](/posts/maytag-refrigerator-c5-error-code/)
-- [Maytag Refrigerator C6 error code](/posts/maytag-refrigerator-c6-error-code/)
-- [Maytag Refrigerator C7 error code](/posts/maytag-refrigerator-c7-error-code/)
-- [Maytag Refrigerator De error code](/posts/maytag-refrigerator-de-error-code/)
-- [Maytag Refrigerator Dr error code](/posts/maytag-refrigerator-dr-error-code/)
-- [Maytag Refrigerator Ff error code](/posts/maytag-refrigerator-ff-error-code/)
+- Maytag Refrigerator C6 error code
+- Maytag Refrigerator C7 error code
+- Maytag Refrigerator De error code
+- Maytag Refrigerator Dr error code
+- Maytag Refrigerator Ff error code
 - [Maytag Refrigerator Po error code](/posts/maytag-refrigerator-po-error-code/)
-- [Maytag Refrigerator Sa error code](/posts/maytag-refrigerator-sa-error-code/)
+- Maytag Refrigerator Sa error code
 
 ## When to Call a Pro
 

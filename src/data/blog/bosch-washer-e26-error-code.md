@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Bosch Washer E26 Error Code — What It Means
-
+## What this code means
 The E26 (or F26) error code on a Bosch washer indicates an analogue pressure sensor fault in the water-level sensing system. The pressure sensor measures how much water is in the tub and sends that signal to the control board so the machine knows when to fill, when to stop filling, and when the tub is empty. When this sensor fails or the control board cannot read its signal, the washer will not continue operation safely and will display E26.
 
 This is not a drain pump problem or a clog in the drain hose. It is specifically a problem with the pressure-sensing circuit that monitors water level inside the drum. Bosch directs owners to service when this code appears because reliable water-level feedback is required for safe wash cycles.
@@ -26,8 +25,6 @@ This is not a drain pump problem or a clog in the drain hose. It is specifically
 ## Before You Replace Anything
 
 Many people replace the control board first when the real problem is a cracked or disconnected pressure-sensor hose. Always inspect the hose and its connections before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

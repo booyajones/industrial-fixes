@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "Diverter gasket"
 ---
 
-## Whirlpool F10E5 Error Code — What It Means
-
+## What this code means
 F10E5 (also shown as FAE5) appears on Whirlpool dishwashers after the cycle ends and the machine drains. Whirlpool's product help identifies this as a diverter-related error. The diverter is the internal component that switches water flow between the lower and upper spray arms during the wash cycle.
 
 Field repair sources trace F10E5 to problems with the diverter gasket or the sump assembly where the diverter sits. Water leakage around the center underside of the dishwasher is the most common physical sign of this fault. The code does not point to an electrical or sensor problem in most cases.
@@ -24,8 +23,6 @@ Field repair sources trace F10E5 to problems with the diverter gasket or the sum
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board thinking any error code is electronic. Before buying parts, pull the dishwasher forward and check the floor and center underside for water. If you see dripping near the sump, the diverter gasket or sump assembly is the real culprit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

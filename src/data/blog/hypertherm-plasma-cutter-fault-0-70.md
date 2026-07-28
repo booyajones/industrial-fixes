@@ -13,11 +13,8 @@ money_part: "Input capacitor bank"
 most_likely_cause: "Low input voltage"
 ---
 
-## Hypertherm Plasma Cutter Fault 0-70 — What It Means
-
+## What this code means
 Fault 0-70 on Hypertherm Powermax plasma cutters indicates a DC bus undervoltage — the internal DC bus voltage dropped below the minimum threshold required for safe operation. The inverter cannot fire the pilot arc without adequate DC bus voltage, so the machine shuts down to protect the power electronics. This fault can appear on startup or mid-cut.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

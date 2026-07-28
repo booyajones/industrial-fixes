@@ -13,11 +13,8 @@ money_part: "Siemens G120 cooling fan assembly"
 most_likely_cause: "High ambient temperature"
 ---
 
-## Siemens G120 A05002 — What It Means
-
+## What this code means
 A05002 is an alarm, not a fault, indicating that the air intake temperature of your Siemens SINAMICS G120 power unit has reached its threshold. For air-cooled power units, this alarm typically triggers at 42 °C with a 2 K hysteresis. If the intake temperature continues to rise by an additional 13 K without correction, the drive will escalate to fault F30035 and shut down. The alarm warns you to address cooling or airflow problems before the drive trips completely.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ A05002 is an alarm, not a fault, indicating that the air intake temperature of y
 ## When to Call a Pro
 
 Call a qualified technician if you are uncomfortable working inside the drive enclosure or if the alarm persists after cleaning filters and verifying fan operation. A technician can measure airflow, check thermal sensors, review cabinet cooling design, and determine whether the power unit or fan assembly needs replacement. Professional help is also recommended if the drive escalates to fault F30035 or if you need to verify load-cycle calculations and drive sizing for your application.
-
-## See Also
-
-- [Siemens Sinumerik Alarm 380600 — Encoder Fault](/posts/siemens-sinumerik-alarm-380600/)
-- [Siemens Micromaster F0002 - Causes & Fix](/posts/siemens-micromaster-f0002-fault-code/)
-- [Siemens SINAMICS G120 F30002 Fault — DC Link Overvoltage Fix](/posts/siemens-sinamics-f30002-fault/)
-- [Siemens Micromaster F0012 - Causes & Fix](/posts/siemens-micromaster-f0012-fault-code/)

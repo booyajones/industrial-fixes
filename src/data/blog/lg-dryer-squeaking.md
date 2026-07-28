@@ -19,8 +19,6 @@ Squeaking is not an error code on LG dryers. It is a noise symptom that typicall
 
 Other normal noises can come from zippers, buttons, coins, and keys hitting the drum during the cycle. LG does list error codes like tE1, tE3, d75, d80, d90, d95, nP, and PS in its dryer code table, but squeaking is not among them. The sound is a mechanical wear issue in the drum support path, not a fault that triggers a control-board code.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Worn drum support rollers** The rollers that support the drum from below wear out over time, causing a squeak or chirp as the drum rotates and the worn roller bearings drag or seize.
@@ -69,10 +67,3 @@ Seeing a code on the display? These match this problem:
 ## When to Call a Pro
 
 If you are not comfortable disassembling the dryer cabinet and drum path, or if the squeak persists after replacing visible wear components, call a qualified appliance technician. Drum support and roller work requires removing multiple panels and the drum itself on many LG models, and incorrect reassembly can cause belt tracking problems or motor damage. A pro can also verify that the drum support shaft or bearing mounts are correctly seated and that no hidden damage exists in the blower or motor area.
-
-## See Also
-
-- [LG Range E0 Error Code - Causes & Fix](/posts/lg-range-e0-error-code/)
-- [LG MVEL2125F Microwave Problems & Error Codes](/posts/lg-mvel2125f-microwave-problems/)
-- [LG Mini-Split CH24 Error - Causes & Fix](/posts/lg-mini-split-ch24-error-code/)
-- [LG Washer E21 Error Code - Causes & Fix](/posts/lg-washer-e21-error-code/)

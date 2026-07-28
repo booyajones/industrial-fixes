@@ -19,8 +19,6 @@ A Mitsubishi mini split making noise is not a fault code. The noise usually poin
 
 Common sounds include loud flushing or whooshing during heating (typically normal defrost-cycle refrigerant flow), grinding or squealing (usually a dirty or worn blower wheel or motor), rattling or clicking (loose panels or debris), hissing or whistling (possible refrigerant leak), and buzzing or humming (electrical issue or loose connection). Most noise complaints trace back to the indoor blower assembly or normal heat-pump defrost operation in cold weather.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty blower wheel or fan imbalance** Dust buildup on the squirrel-cage blower wheel causes clicking, squealing, vibration, or irregular mechanical noise in the indoor unit.
@@ -54,26 +52,19 @@ Common sounds include loud flushing or whooshing during heating (typically norma
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Mitsubishi Mini Split E0 error code](/posts/mitsubishi-mini-split-e0-error-code/)
-- [Mitsubishi Mini Split E2 error code](/posts/mitsubishi-mini-split-e2-error-code/)
-- [Mitsubishi Mini Split E3 error code](/posts/mitsubishi-mini-split-e3-error-code/)
-- [Mitsubishi Mini Split E4 error code](/posts/mitsubishi-mini-split-e4-error-code/)
-- [Mitsubishi Mini Split E5 error code](/posts/mitsubishi-mini-split-e5-error-code/)
-- [Mitsubishi Mini Split E7 error code](/posts/mitsubishi-mini-split-e7-error-code/)
-- [Mitsubishi Mini Split E9 error code](/posts/mitsubishi-mini-split-e9-error-code/)
-- [Mitsubishi Mini Split Ee error code](/posts/mitsubishi-mini-split-ee-error-code/)
-- [Mitsubishi Mini Split Fb error code](/posts/mitsubishi-mini-split-fb-error-code/)
-- [Mitsubishi Mini Split P1 error code](/posts/mitsubishi-mini-split-p1-error-code/)
-- [Mitsubishi Mini Split P2 error code](/posts/mitsubishi-mini-split-p2-error-code/)
-- [Mitsubishi Mini Split P4 error code](/posts/mitsubishi-mini-split-p4-error-code/)
+- Mitsubishi Mini Split E0 error code
+- Mitsubishi Mini Split E2 error code
+- Mitsubishi Mini Split E3 error code
+- Mitsubishi Mini Split E4 error code
+- Mitsubishi Mini Split E5 error code
+- Mitsubishi Mini Split E7 error code
+- Mitsubishi Mini Split E9 error code
+- Mitsubishi Mini Split Ee error code
+- Mitsubishi Mini Split Fb error code
+- Mitsubishi Mini Split P1 error code
+- Mitsubishi Mini Split P2 error code
+- Mitsubishi Mini Split P4 error code
 
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the noise is hissing or whistling (possible refrigerant leak), if the indoor fan motor or blower wheel needs replacement, or if defrost cycles are excessive or accompanied by unusual sounds. Refrigerant work, leak detection, and pressure verification require professional equipment and licensing. If abnormal defrost behavior persists after cleaning and inspection, escalate to Mitsubishi technical support or an authorized distributor for control-board or firmware guidance.
-
-## See Also
-
-- [Mitsubishi Mini Split Blowing Warm Air - Causes & Fix](/posts/mitsubishi-mini-split-blowing-warm-air/)
-- [Mitsubishi Mini Split E4 Error - Causes & Fix](/posts/mitsubishi-mini-split-e4-error-code/)
-- [Mitsubishi E4 Error Code — Causes & Fix](/posts/mitsubishi-e4-error-code/)
-- [Mitsubishi P4 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-p4-error-code/)

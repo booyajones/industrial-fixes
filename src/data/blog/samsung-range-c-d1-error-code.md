@@ -22,8 +22,7 @@ part_price: "$35-75"
 no_buy_pct: "50%"
 ---
 
-## Samsung Range C-D1 Error — What It Means
-
+## What this code means
 C-D1 (or CD1) on a Samsung range or oven is a door lock or latch fault. The control board sees that the lock mechanism did not move to the commanded position, did not return correctly, or is not electrically responding as expected. This code appears when the oven cannot confirm the door lock assembly is working properly, either because the latch is stuck, the motor is weak or jammed, or the position switch is not changing state.
 
 The exact definition can vary slightly by model family, so always verify your specific model number. On most Samsung ranges the code points to a problem with the physical lock motor, the position switch that tells the control the door is locked or unlocked, or debris and misalignment that prevents the mechanism from moving freely.
@@ -31,8 +30,6 @@ The exact definition can vary slightly by model family, so always verify your sp
 ## Before You Replace Anything
 
 Many people replace the main control board when the real culprit is the door lock motor or a stuck latch. Always clean the latch area, inspect the wiring, and test the lock motor and switch with a meter before replacing the control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,11 +13,8 @@ money_part: "Hot surface igniter"
 most_likely_cause: "Failed hot surface igniter"
 ---
 
-## Carrier 44 Error Code — What It Means
-
+## What this code means
 Carrier error code 44 indicates an open igniter circuit. The furnace control board detected that the igniter is not drawing the expected current when energized, which means the igniter is either broken, disconnected, or the circuit supplying it has failed. The furnace will lock out on this fault to prevent unlit gas from accumulating.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,18 +43,3 @@ Carrier error code 44 indicates an open igniter circuit. The furnace control boa
 ## When to Call a Pro
 
 If voltage is confirmed at the igniter connector but the board still throws a 44 fault, or if you suspect a gas valve issue is masking the fault, call a licensed HVAC technician. Gas train diagnostics require proper combustion testing equipment.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-- [Carrier Mini-Split P4 Error Code — Inverter Module Overtemperature Fix](/posts/carrier-mini-split-p4-error-code/)
-- [Carrier Error Code 51 — Control Fault (Secondary)](/posts/carrier-51-error-code/)
-- [Carrier Mini-Split F0 Error Code — Low Refrigerant / Leakage Detection Fix](/posts/carrier-mini-split-f0-error-code/)

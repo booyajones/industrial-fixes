@@ -13,11 +13,8 @@ money_part: "Hot surface igniter"
 most_likely_cause: "Failed hot surface igniter"
 ---
 
-## Lochinvar Boiler Error Code E01 — What It Means
-
+## What this code means
 Lochinvar boiler error code E01 indicates an ignition lockout — the control module attempted ignition and failed to establish or prove a flame within the required trial-for-ignition period. On Lochinvar's Knight, WHN, and Crest boiler lines, this is a hard lockout that requires a manual reset at the display panel. The board typically makes two to four ignition attempts before logging E01 and locking out. This fault is almost always caused by an ignition system failure (igniter, flame sensor, or gas supply), though inducer and pressure switch faults can also prevent the ignition sequence from completing.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,11 +41,3 @@ Lochinvar boiler error code E01 indicates an ignition lockout — the control mo
 ## When to Call a Pro
 
 Lochinvar boilers serving radiant heat, domestic hot water, or commercial HVAC systems are critical equipment. If E01 persists after checking igniter, flame sensor, and gas supply, a licensed boiler technician should diagnose before the system is offline for an extended period in cold weather.
-
-## Related Articles
-
-- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
-- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
-- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)

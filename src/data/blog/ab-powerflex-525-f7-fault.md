@@ -23,8 +23,6 @@ The PowerFlex 525 is one of Allen Bradley's most widely installed mid-range VFDs
 
 Field technicians consistently report that F7 is a nuisance trip more often than an actual overload. The first and fastest fix is always comparing P046 to the motor nameplate before touching anything else.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
 - **P046 Motor OL Current set incorrectly.** If this parameter is set to the drive's rated current instead of the specific motor's FLA, the thermal model trips well below the actual motor limit. This is the single most common cause of nuisance F7 on new installations.

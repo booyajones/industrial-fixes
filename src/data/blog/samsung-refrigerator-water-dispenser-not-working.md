@@ -19,8 +19,6 @@ When a Samsung refrigerator water dispenser stops working, you are dealing with 
 
 Most service calls for this complaint resolve without replacing parts. The dispenser itself is trying to work but cannot deliver water because of a lock setting, a restriction in the filter or supply line, air in the system after installation, or a door that is open or missing its water coupling. Component-level failure (inlet valve, dispenser switch, or frozen door tube) is less common but becomes the focus after you rule out the simpler causes.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Control Lock enabled** The control panel lock disables the dispenser completely and is the most frequent cause of 'not working' complaints on Samsung models.
@@ -54,17 +52,17 @@ Most service calls for this complaint resolve without replacing parts. The dispe
 
 Seeing a code on the display? These match this problem:
 
-- [Samsung Refrigerator 1E error code](/posts/samsung-refrigerator-1e-error-code/)
-- [Samsung Refrigerator 21E error code](/posts/samsung-refrigerator-21e-error-code/)
-- [Samsung Refrigerator 22E error code](/posts/samsung-refrigerator-22e-error-code/)
+- Samsung Refrigerator 1E error code
+- Samsung Refrigerator 21E error code
+- Samsung Refrigerator 22E error code
 - [Samsung Refrigerator 25E error code](/posts/samsung-refrigerator-25e-error-code/)
-- [Samsung Refrigerator 2E error code](/posts/samsung-refrigerator-2e-error-code/)
-- [Samsung Refrigerator 33E error code](/posts/samsung-refrigerator-33e-error-code/)
-- [Samsung Refrigerator 39E error code](/posts/samsung-refrigerator-39e-error-code/)
-- [Samsung Refrigerator 4E error code](/posts/samsung-refrigerator-4e-error-code/)
-- [Samsung Refrigerator 5E error code](/posts/samsung-refrigerator-5e-error-code/)
-- [Samsung Refrigerator 88 error code](/posts/samsung-refrigerator-88-error-code/)
-- [Samsung Refrigerator Ap error code](/posts/samsung-refrigerator-ap-error-code/)
+- Samsung Refrigerator 2E error code
+- Samsung Refrigerator 33E error code
+- Samsung Refrigerator 39E error code
+- Samsung Refrigerator 4E error code
+- Samsung Refrigerator 5E error code
+- Samsung Refrigerator 88 error code
+- Samsung Refrigerator Ap error code
 
 ## When to Call a Pro
 

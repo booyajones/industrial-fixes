@@ -71,18 +71,3 @@ This data is valuable for diagnosing intermittent faults.
 | LCP remote panel | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-danfoss-vfd-fault-codes&k=LCP+remote+panel&tag=errorcodefixes-20) \| LCP-102 graphical or LCP-11 numeric |
 ## When to Call a Pro
 AL-14 (ground fault) that persists after motor/cable testing, and any alarm related to a hardware trip (drive output damage, burnt smell), requires authorized Danfoss service. Field-level IGBT replacement is possible on larger FC302 frames but requires ESD training and proper procedures.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-
-## See Also
-
-- [Danfoss VFD Fault W30 — Brake Resistor Overtemperature Fix](/posts/danfoss-vfd-fault-w30/)
-- [Danfoss VFD Fault AL 14 — Causes & Fix](/posts/danfoss-vfd-fault-al-14/)
-- [Danfoss FC301 Fault AL 14 — Ground Fault Causes & Fix](/posts/danfoss-fc301-fault-al-14/)
-- [Danfoss VFD Fault E-Trip — Causes & Fix](/posts/danfoss-vfd-fault-e-trip/)

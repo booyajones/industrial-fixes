@@ -17,8 +17,6 @@ tags:
 
 When your Samsung dishwasher buttons stop responding, you are seeing a symptom rather than a specific fault code. The touchpad is not registering your presses, or the dishwasher is being held in a locked or safety state that blocks the start sequence. This can happen because control lock is turned on, the door is not fully latched, the touchpad assembly itself has failed, or the main control board is not sending power to the user interface. RepairClinic's troubleshooting guide identifies the touchpad and control panel as the most common failure point, followed by main control board issues that prevent voltage from reaching the touchpad.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Control lock or child lock is active** On most Samsung models, holding the Heated Dry or Sanitize button for about 3 seconds will unlock the panel and restore button function.
@@ -52,18 +50,18 @@ When your Samsung dishwasher buttons stop responding, you are seeing a symptom r
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Samsung Dishwasher 3C error code](/posts/samsung-dishwasher-3c-error-code/)
-- [Samsung Dishwasher 3E error code](/posts/samsung-dishwasher-3e-error-code/)
-- [Samsung Dishwasher 4C error code](/posts/samsung-dishwasher-4c-error-code/)
-- [Samsung Dishwasher 5C error code](/posts/samsung-dishwasher-5c-error-code/)
-- [Samsung Dishwasher 9E error code](/posts/samsung-dishwasher-9e-error-code/)
-- [Samsung Dishwasher Ap error code](/posts/samsung-dishwasher-ap-error-code/)
-- [Samsung Dishwasher Be error code](/posts/samsung-dishwasher-be-error-code/)
-- [Samsung Dishwasher Ce error code](/posts/samsung-dishwasher-ce-error-code/)
-- [Samsung Dishwasher Hc error code](/posts/samsung-dishwasher-hc-error-code/)
-- [Samsung Dishwasher He error code](/posts/samsung-dishwasher-he-error-code/)
-- [Samsung Dishwasher Lc error code](/posts/samsung-dishwasher-lc-error-code/)
-- [Samsung Dishwasher Le error code](/posts/samsung-dishwasher-le-error-code/)
+- Samsung Dishwasher 3C error code
+- Samsung Dishwasher 3E error code
+- Samsung Dishwasher 4C error code
+- Samsung Dishwasher 5C error code
+- Samsung Dishwasher 9E error code
+- Samsung Dishwasher Ap error code
+- Samsung Dishwasher Be error code
+- Samsung Dishwasher Ce error code
+- Samsung Dishwasher Hc error code
+- Samsung Dishwasher He error code
+- Samsung Dishwasher Lc error code
+- Samsung Dishwasher Le error code
 
 ## When to Call a Pro
 

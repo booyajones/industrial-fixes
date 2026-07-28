@@ -63,13 +63,6 @@ E8 almost always requires a certified commercial refrigeration technician. The o
 
 ## Related Error Codes
 
-- [Hoshizaki E7 Error Code — High-Side Pressure Switch Fault](/posts/hoshizaki-e7-pressure-switch/)
-- [Hoshizaki E9 Error Code — Compressor Overload Fault](/posts/hoshizaki-e9-error-compressor/)
-- [Hoshizaki E2 Error Code — Freeze Cycle Overtime](/posts/hoshizaki-e2-error-code/)
-
-## See Also
-
-- [Hoshizaki KM-901 Error Codes - What They Mean and How to Fix Them](/posts/hoshizaki-km-901-error-codes/)
-- [Hoshizaki KM-330 Error Codes — Fix Guide](/posts/hoshizaki-km-330-error-codes/)
-- [Hoshizaki KM-1301SAH Error Codes — Commercial Ice Machine Fault Guide](/posts/hoshizaki-km-1301sah-error-codes/)
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
+- Hoshizaki E7 Error Code — High-Side Pressure Switch Fault
+- Hoshizaki E9 Error Code — Compressor Overload Fault
+- Hoshizaki E2 Error Code — Freeze Cycle Overtime

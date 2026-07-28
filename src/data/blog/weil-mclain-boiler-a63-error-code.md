@@ -17,13 +17,10 @@ free_checks:
   - "Press the reset button once to clear a transient lockout and see if the boiler restarts normally"
 ---
 
-## Weil-McLain A63 Error Code — What It Means
-
+## What this code means
 A63 is not a standard fault code documented across all Weil-McLain boiler models. The exact meaning depends on your specific boiler series (Ultra, AquaBalance, CGa, or another) and the control platform installed. Weil-McLain manuals state that error codes are model-specific and must be interpreted using the fault list in that boiler's manual. Without knowing your exact model number, the code cannot be definitively decoded.
 
 Common lockout codes on Weil-McLain boilers typically relate to ignition failure, flame sensing problems, low water pressure, high limit trips, or circulator faults. If you see A63 on your display, locate the full model number on the boiler nameplate and consult the manual's fault code table. If the manual is unavailable, note the exact display text and contact Weil-McLain or a qualified technician to identify the fault and the appropriate repair procedure.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -67,10 +64,3 @@ Answer these to narrow it down fast.
 Call a licensed heating technician immediately if you cannot find your boiler's manual or if the manual identifies A63 as a fault requiring gas, electrical, or control-board diagnostics. Boilers involve natural gas or propane combustion, high-voltage wiring, and sealed water systems, all of which require specialized tools and training. A technician will use the service manual, multimeter, and combustion analyzer to pinpoint whether the code points to ignition failure, a faulty flame sensor, a limit switch trip, a pressure problem, or a control-board issue. Attempting gas or electrical repairs without proper knowledge can result in equipment damage, carbon monoxide hazards, or voided warranties.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain A79 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a79-error-code/)
-- [Weil-McLain A110 Error - Causes & Fix](/posts/weil-mclain-boiler-a110-error-code/)
-- [Weil-McLain A18 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a18-error-code/)
-- [Weil-McLain Code 1 — No Flame Sensed Fix](/posts/weil-mclain-error-code-1/)

@@ -13,13 +13,10 @@ money_part: "Inlet or outlet thermistor sensor"
 most_likely_cause: "Failed thermistor sensor"
 ---
 
-## EcoSmart ECO 26 Error Codes — What It Means
-
+## What this code means
 EcoSmart ECO 26 electric tankless water heaters display alphanumeric fault codes when the control board detects a problem. The most common codes are E1 (inlet thermistor fault), E2 (outlet thermistor fault), E3 (both thermistors faulted), and E5 (excessive flow or insufficient temperature rise). E1, E2, and E3 indicate the control board cannot read temperature correctly from one or both sensor probes, which prevents safe operation. E5 means water is flowing through the heater faster than the heating elements can raise the temperature to your setpoint, triggering a temperature-rise limit condition.
 
 These codes protect the heater from unsafe operation and component damage. Thermistor codes usually point to a failed sensor, corroded connector, or bad control board. The E5 flow fault typically means you are asking the heater to deliver more hot water than it can produce given the incoming cold-water temperature and available electrical power. Identifying the exact code on your display is the first step to accurate diagnosis and repair.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

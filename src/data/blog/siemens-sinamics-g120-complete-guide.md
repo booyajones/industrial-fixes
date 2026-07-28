@@ -219,10 +219,3 @@ The fastest field method is using the BOP-2 memory card upload/download (P0802/P
 
 **What causes F0002 overvoltage on a G120 with a pump application?**  
 Pumps with significant static head can act as generators when decelerating — the motor receives energy from the fluid column rather than absorbing drive energy. The DC bus charges up faster than the drive's internal snubber can handle. The fix is usually extending the deceleration ramp (P1121) to allow the motor to decelerate slowly enough that regenerated energy stays within the DC bus absorption capacity. If the process requires faster stopping, a braking chopper and braking resistor are required.
-
-## See Also
-
-- [Siemens SINAMICS V20 F4 Fault — Causes & Fix](/posts/siemens-sinamics-v20-f4-fault/)
-- [Siemens SINAMICS G120 F30011 Fault — Phase Loss Fix](/posts/siemens-sinamics-f30011-fault/)
-- [Siemens VFD F0002 Fault - Overvoltage: What It Means and How to Fix It](/posts/siemens-vfd-f0002-fault/)
-- [Siemens SINAMICS S120 Fault F07900 — Motor Overtemperature Fix](/posts/siemens-sinamics-s120-fault-f07900/)

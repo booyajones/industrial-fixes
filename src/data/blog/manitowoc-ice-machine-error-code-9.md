@@ -13,11 +13,8 @@ money_part: "Condenser fan motor"
 most_likely_cause: "Dirty or blocked condenser coil"
 ---
 
-## Manitowoc Ice Machine Error Code 9 — What It Means
-
+## What this code means
 Error Code 9 on a Manitowoc ice machine indicates a refrigerant system fault — specifically a high-side pressure problem or a refrigerant circuit issue that caused the high pressure cutout to trip. The control board receives a signal from the high pressure cutout switch; when head pressure exceeds safe limits, the switch opens, the machine shuts down, and Code 9 is logged.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Error Code 9 on a Manitowoc ice machine indicates a refrigerant system fault —
 ## When to Call a Pro
 
 Refrigerant overcharge correction and high pressure cutout replacement on the sealed system requires EPA 608 certification. If cleaning and fan repair don't resolve Code 9, a certified tech should check refrigerant charge.
-
-## Related Articles
-
-- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
-- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
-- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
-- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
-- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)
-
-## See Also
-
-- [Manitowoc HPCO Error Code — High Pressure Cut Out Fix](/posts/manitowoc-hpco-error-code/)
-- [Manitowoc IYT-0450 Error Codes — Fault Code Diagnostic Guide](/posts/manitowoc-iyt-0450-error-codes/)
-- [Manitowoc Indigo Ice Machine Error Codes — Complete Guide](/posts/manitowoc-indigo-error-codes/)
-- [Manitowoc Ice Machine Error Code 5 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-5/)

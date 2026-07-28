@@ -52,7 +52,7 @@ These codes apply to this model line:
 - [Samsung Dryer Be error code](/posts/samsung-dryer-be-error-code/)
 - [Samsung Dryer Be2 error code](/posts/samsung-dryer-be2-error-code/)
 - [Samsung Dryer C1 error code](/posts/samsung-dryer-c1-error-code/)
-- [Samsung Dryer C2 error code](/posts/samsung-dryer-c2-error-code/)
+- Samsung Dryer C2 error code
 - [Samsung Dryer C8 error code](/posts/samsung-dryer-c8-error-code/)
 - [Samsung Dryer C80 error code](/posts/samsung-dryer-c80-error-code/)
 

@@ -17,8 +17,7 @@ money_part: "Moisture sensor bar assembly"
 part_price: "$50-120"
 ---
 
-## Maytag Dryer F29 Error Code — What It Means
-
+## What this code means
 The F29 code on a Maytag dryer signals a door-unlock fault. The control has detected that the door latch mechanism is not releasing after a cycle completes. This code appears on supported Maytag and Whirlpool front-load dryer platforms and prevents the door from opening normally. It is not related to airflow, thermistors, or motor issues.
 
 Maytag's own product help directs users to perform a complete power reset and retest before replacing parts. The fault may be a temporary electronic glitch in the control board, a mechanical problem with the door lock assembly itself, or a wiring issue between the lock and the control. If the door remains locked after you restore power, you will need to follow the manual door-release procedure in your owner's manual and then diagnose the lock hardware.
@@ -26,8 +25,6 @@ Maytag's own product help directs users to perform a complete power reset and re
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board when the real fault is a worn or misaligned door lock assembly. Check the lock mechanism for binding and test continuity at the lock connector before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

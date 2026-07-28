@@ -21,8 +21,7 @@ part_price: "$40-120"
 no_buy_pct: "30%"
 ---
 
-## Danfoss FC302 AL-104 — What It Means
-
+## What this code means
 The AL-104 fault code on a Danfoss FC302 VFD indicates a Mixing Fan Fault. The drive's fan monitor circuit has detected that the internal cooling fan is not spinning at power-up or when commanded to turn on. This is a protective trip to prevent the drive from overheating due to inadequate cooling.
 
 The drive will not operate until the fan fault is cleared. The fault can be caused by a dead fan motor, mechanical blockage from dust or debris, a failed fan drive circuit on the control board, or ambient temperatures exceeding the drive's operating range.
@@ -30,8 +29,6 @@ The drive will not operate until the fan fault is cleared. The fault can be caus
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board or power board before testing the fan itself. Measure voltage at the fan terminals with a voltmeter while the drive is powered to confirm whether the fan motor is dead or the board circuit has failed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a qualified technician for any VFD repair. The FC302 operates at high voltage and current, and opening the drive enclosure exposes you to lethal electrical hazards even after power is removed due to charged capacitors. A technician has the tools to safely discharge the DC bus, measure fan circuits under power, and replace internal components without damaging the drive or risking electrocution. If you lack electrical training or do not have lockout/tagout procedures in place, do not attempt this repair yourself.
 
 **Rough cost:** A pro service call runs about $200-500.
-
-## See Also
-
-- [Danfoss FC302 AL-97 - Causes & Fix](/posts/danfoss-fc302-vfd-al-97-fault-code/)
-- [Danfoss FC302 AL-94 - Causes & Fix](/posts/danfoss-fc302-vfd-al-94-fault-code/)
-- [Danfoss FC302 Alarm 22 - Hoist Brake Fault Fix](/posts/danfoss-fc302-vfd-alarm-22-fault-code/)
-- [Danfoss AKC Controller Fault Codes - Complete Guide](/posts/danfoss-akc-controller-fault/)

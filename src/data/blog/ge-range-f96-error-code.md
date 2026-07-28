@@ -17,8 +17,7 @@ money_part: "GE upper oven cooling fan / blower motor assembly"
 part_price: "$80-180"
 ---
 
-## GE Range F96 Error Code — What It Means
-
+## What this code means
 F96 on a GE range or double oven is a fan speed feedback fault. The control board is not receiving the expected signal from the upper oven cooling fan assembly. The fan uses hall sensors or a small sensor board to report motor speed back to the control, and when that feedback is missing or wrong the board throws F96. The fault can be caused by a failed blower motor, a bad sensor, a loose connector, or rarely a control board issue. The code typically appears on double-oven models where the upper cavity has its own dedicated cooling blower.
 
 Because the exact definition can vary across GE's many product lines, always verify the code meaning in your model's service manual or wiring diagram. The repair behavior described here matches the workflows shown in GE service documentation and parts diagrams for the majority of double-oven ranges reporting F96.
@@ -26,8 +25,6 @@ Because the exact definition can vary across GE's many product lines, always ver
 ## Before You Replace Anything
 
 Some owners replace the control board first when the real problem is a seized or intermittent cooling fan motor. Before ordering a board, pull the back panel and listen to the fan during a test cycle or spin the blower by hand to check for binding or noise.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

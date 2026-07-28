@@ -17,8 +17,7 @@ money_part: "Pressure sensor air hose"
 part_price: "$10-50"
 ---
 
-## Frigidaire Washer E13 Error — What It Means
-
+## What this code means
 Frigidaire washer E13 typically indicates the washer has detected a water leak condition. Some service sources describe it as a water leak in the tub or an air leak in the water-level pressure sensor hose. The exact interpretation can vary slightly by model family, but the practical meaning is the same: the machine believes water is leaking where it should not be.
 
 The code may trigger from an actual water leak (drips on the floor or inside the cabinet) or from a false leak signal caused by a faulty or disconnected pressure-sensor air hose. Until you locate and fix the source, do not continue cycling the washer.
@@ -26,8 +25,6 @@ The code may trigger from an actual water leak (drips on the floor or inside the
 ## Before You Replace Anything
 
 Many homeowners replace the pressure sensor or even the control board when the real cause is a loose hose clamp or a detached pressure-sensor air hose. Inspect all water connections and the small air tube to the pressure switch before ordering any electronic parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

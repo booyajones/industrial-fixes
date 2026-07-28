@@ -13,13 +13,10 @@ money_part: "Input line fuses for Danfoss FC302"
 most_likely_cause: "Blown input fuses"
 ---
 
-## Danfoss FC302 Alarm 36 — What It Means
-
+## What this code means
 Alarm 36 on the Danfoss FC302 variable frequency drive displays as "WARNING/ALARM 36, Mains failure." This alarm tells you the drive has lost its incoming supply voltage or the power has dropped out of the range it needs to operate. The alarm is only active when parameter 14-10 Mains Failure is not set to "No Function," so if that parameter is disabled the drive will not report this condition.
 
 In plain terms, the FC302 is saying it cannot see stable mains power on its line-side terminals. Something upstream has interrupted the feed, whether a tripped breaker, a blown fuse, a loose wire, or an actual utility outage. The drive cannot run without proper incoming voltage, so it shuts down and throws Alarm 36 until you restore the supply and reset the fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ In plain terms, the FC302 is saying it cannot see stable mains power on its line
 ## When to Call a Pro
 
 Call a qualified electrician or automation technician if you are not comfortable working with three-phase mains voltage, if the alarm persists after replacing fuses and verifying all connections, or if you measure unstable or missing phases at the upstream panel. A licensed professional can safely trace the supply circuit, measure phase balance under load, and verify grounding and bonding meet code. If the drive continues to report Alarm 36 with confirmed good incoming power and correct parameter settings, the internal power-supply stage may have failed and the unit will need factory repair or replacement by someone trained on Danfoss VFDs.
-
-## See Also
-
-- [Danfoss FC302 Alarm 32 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-32-fault-code/)
-- [Danfoss FC302 Alarm 52 - AMA Low Inom Causes & Fix](/posts/danfoss-fc302-vfd-alarm-52-fault-code/)
-- [Danfoss FC302 Alarm 54 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-54-fault-code/)
-- [Danfoss FC302 Alarm 34 - Causes & Fix](/posts/danfoss-fc302-alarm-34-fault-code/)

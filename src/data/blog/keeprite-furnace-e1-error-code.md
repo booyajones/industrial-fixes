@@ -13,11 +13,8 @@ money_part: "Pressure switch"
 most_likely_cause: "Flue or intake blockage"
 ---
 
-## Keeprite Furnace E1 Error Code — What It Means
-
+## What this code means
 Keeprite is a Canadian HVAC brand that uses the same ICP (International Comfort Products) platform as Heil, Tempstar, and Comfortmaker. E1 on a Keeprite furnace indicates a pressure switch fault — the induced draft motor ran but the pressure switch failed to close within the startup window, locking out the ignition sequence. The code clears when the root cause is corrected and the furnace is power-cycled.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,11 +42,3 @@ Keeprite is a Canadian HVAC brand that uses the same ICP (International Comfort 
 ## When to Call a Pro
 
 In regions with extreme cold, repeated E1 codes from icing require a licensed HVAC technician to evaluate vent routing and possibly install an approved vent cap with freeze protection. Do not operate the furnace with a partially blocked flue.
-
-## Related Articles
-
-- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
-- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
-- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

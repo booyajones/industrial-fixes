@@ -15,8 +15,7 @@ likelihood: "the primary cause Rockwell lists"
 diy_or_pro: "pro"
 ---
 
-## Allen-Bradley PowerFlex 525 F004 — What It Means
-
+## What this code means
 F004 on a Rockwell/Allen-Bradley PowerFlex 525 means UnderVoltage. The drive has detected that its internal DC bus voltage fell below the minimum allowable threshold. This fault protects the drive from operating with insufficient supply power, which can damage components or cause erratic motor behavior.
 
 Rockwell's fault documentation points technicians first to incoming AC line problems such as low voltage or a line interruption. The fault can also appear if an analog input is configured to fault on signal loss and that signal is lost, though the primary F004 condition is always a DC bus voltage drop. The drive will not run until the supply issue is corrected and the fault is cleared.
@@ -24,8 +23,6 @@ Rockwell's fault documentation points technicians first to incoming AC line prob
 ## Before You Replace Anything
 
 Technicians sometimes replace the drive power module or control board without first verifying incoming AC voltage at the input terminals and checking all line-side fuses, disconnects, and wiring terminations. A simple multimeter check of supply voltage under load and a visual inspection of input fuses and connections usually reveals the true cause.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or controls technician if you are not trained to work with industrial three-phase power, if you cannot safely access the drive's input terminals, or if you lack the test equipment to measure line voltage under load. A professional should handle all inspection and repair of upstream disconnects, breakers, and facility supply. If the fault persists after verifying good incoming power and replacing fuses and terminals, a technician with drive-repair experience should test or replace the drive's power module or control board, since internal DC-bus faults require specialized diagnostics and may involve high stored voltages even after power is removed.
 
 **Rough cost:** A pro service call runs about $150-500.
-
-## See Also
-
-- [Allen-Bradley PowerFlex 525 Fault F003 - What It Means and How to Fix It](/posts/allen-bradley-powerflex-525-fault-f003/)
-- [Allen-Bradley PowerFlex Fault F004 — Causes & Fix](/posts/allen-bradley-powerflex-fault-f004/)
-- [Allen-Bradley PowerFlex Fault F063 — Causes & Fix](/posts/allen-bradley-powerflex-fault-f063/)
-- [Allen Bradley PowerFlex 525 F005 Fault, Overvoltage Causes & Fix](/posts/allen-bradley-powerflex-525-fault-f005/)

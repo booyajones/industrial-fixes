@@ -19,8 +19,6 @@ When your Whirlpool microwave won't turn off, you're seeing a stuck control outp
 
 Whirlpool's own guidance points first to checking door closure, power supply, and control settings like Demo mode or Stop/Unlock status. When those basics are fine, the problem is almost always a failed triac, stuck relay, or control board issue that holds an output active. The most concrete documented failure is a bad triac on the control board controlling the lamp circuit.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed triac or relay on the control board** A bad triac or output relay keeps the hood lamp, cavity light, fan, or heating circuit stuck on and is the most common hard failure for this symptom.
@@ -55,15 +53,15 @@ Whirlpool's own guidance points first to checking door closure, power supply, an
 If your appliance also shows a code on the display, these match this problem:
 
 - [Whirlpool Microwave E03 error code](/posts/whirlpool-microwave-e03-error-code/)
-- [Whirlpool Microwave E11 error code](/posts/whirlpool-microwave-e11-error-code/)
-- [Whirlpool Microwave E12 error code](/posts/whirlpool-microwave-e12-error-code/)
+- Whirlpool Microwave E11 error code
+- Whirlpool Microwave E12 error code
 - [Whirlpool Microwave E13 error code](/posts/whirlpool-microwave-e13-error-code/)
 - [Whirlpool Microwave E21 error code](/posts/whirlpool-microwave-e21-error-code/)
 - [Whirlpool Microwave E22 error code](/posts/whirlpool-microwave-e22-error-code/)
 - [Whirlpool Microwave E23 error code](/posts/whirlpool-microwave-e23-error-code/)
 - [Whirlpool Microwave E24 error code](/posts/whirlpool-microwave-e24-error-code/)
-- [Whirlpool Microwave E61 error code](/posts/whirlpool-microwave-e61-error-code/)
-- [Whirlpool Microwave E62 error code](/posts/whirlpool-microwave-e62-error-code/)
+- Whirlpool Microwave E61 error code
+- Whirlpool Microwave E62 error code
 - [Whirlpool Microwave E63 error code](/posts/whirlpool-microwave-e63-error-code/)
 - [Whirlpool Microwave F01 error code](/posts/whirlpool-microwave-f01-error-code/)
 

@@ -19,8 +19,7 @@ free_checks:
   - "Inspect the ice maker sensor connector for visible looseness, corrosion, or pin damage"
 ---
 
-## LG IS Error Code — What It Means
-
+## What this code means
 The IS or 1S error code on an LG refrigerator indicates a problem with the ice maker sensor. LG's official documentation states this code appears when the ice maker sensor has failed or become disconnected. Some LG error-code lists also mention the ice maker fan motor as a related component, but the primary focus is on sensor failure or a wiring disconnection at the sensor harness. Because of display character limitations on certain models, you may see IS, 1S, or 15 on your panel, but all refer to the same fault family.
 
 LG's published guidance makes clear there are no owner-level troubleshooting steps that will resolve the issue. The code requires inspection of the ice maker sensor wiring, electrical testing of the sensor itself, and replacement of the failed component. A simple power cycle may clear the display temporarily, but the code will return if the underlying sensor fault remains.
@@ -28,8 +27,6 @@ LG's published guidance makes clear there are no owner-level troubleshooting ste
 ## Before You Replace Anything
 
 Homeowners sometimes replace the entire ice maker assembly when only the sensor or its connector has failed. Inspect the sensor wiring and connectors for looseness or damage before ordering the full assembly.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 LG's official video support states there are no owner troubleshooting steps that will resolve the IS or 1S code and that a repair service is required. The repair involves accessing the ice maker compartment, testing electrical connections and sensor values against service specifications, and potentially replacing the sensor or ice maker assembly. If you are not comfortable working with wiring harnesses in a freezer environment or do not have the model-specific service data to test the sensor, call a qualified appliance technician. A pro will also inspect the ice maker fan motor and main control board if the sensor and wiring check out, ensuring the fault is fully diagnosed and resolved.
 
 **Rough cost:** A pro service call runs about $150–$300.
-
-## See Also
-
-- [LG Oven Not Heating - Causes & Fix](/posts/lg-oven-not-heating/)
-- [LG Mini-Split CH07 Error Code - Causes & Fix](/posts/lg-mini-split-ch07-error-code/)
-- [LG Microwave Won't Turn Off - Causes & Fix](/posts/lg-microwave-wont-turn-off/)
-- [LG Mini-Split CH03 Error - Causes & Fix](/posts/lg-mini-split-ch03-error-code/)

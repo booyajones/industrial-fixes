@@ -23,8 +23,6 @@ On a **PowerFlex 753**, the most common cause is simple: **the heatsink cooling 
 
 The PowerFlex 753 is a widely used mid range industrial drive. This fault also affects **PowerFlex 755 drives in some configurations**, so the same airflow checks often apply there too.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
 - **Dirty heatsink and cooling fan**. This is the first thing to check and the most common cause of F35.
@@ -76,6 +74,6 @@ Call a technician if F35 returns after cleaning the drive, replacing a weak fan,
 
 ## Related Error Codes
 
-- [Allen Bradley PowerFlex 40 F7 Fault: Motor Overload](/posts/ab-powerflex-40-f7-fault/)
+- Allen Bradley PowerFlex 40 F7 Fault: Motor Overload
 - [Allen Bradley PowerFlex 753 F12 Fault: DC Bus Overvoltage](/posts/ab-powerflex-753-f12-dc-overvolt/)
-- [Allen Bradley PowerFlex 753 F35 Fault](/posts/allen-bradley-powerflex-753-f35-fault/)
+- Allen Bradley PowerFlex 753 F35 Fault

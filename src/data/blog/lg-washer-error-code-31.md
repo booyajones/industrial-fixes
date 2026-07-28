@@ -14,8 +14,7 @@ tags:
 ---
 <!-- VOICE-GUARD-OFF -->
 
-## LG Washer Error Code 31 — What It Means
-
+## What this code means
 LG washer **error code 31** indicates the high-water-level pressure sensor or the suspension-assembly position sensor is reporting an out-of-range value during the spin or rinse cycle. The code is most often seen on:
 
 - **LG Signature washers** (LSWD100E washer/dryer combo)
@@ -23,8 +22,6 @@ LG washer **error code 31** indicates the high-water-level pressure sensor or th
 - **2020+ front-load WM-series** with the upgraded pressure-sensing tub assembly
 
 When the controller starts a spin and the pressure sensor reading doesn't drop as expected (because water didn't actually drain), or the suspension-rod position signal indicates the tub is sitting off-axis, error 31 fires and the cycle aborts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -89,10 +86,3 @@ If code 31 returns within 24 hours of working through this guide, the most likel
 
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Samsung vs LG French door refrigerators](/posts/samsung-vs-lg-french-door-refrigerators/)
-
-## See Also
-
-- [LG Mini-Split CH34 Error Code — Causes & Fix](/posts/lg-mini-split-ch34-error-code/)
-- [LG Washer Error Codes — Complete Fix Guide](/posts/lg-washer-error-codes/)
-- [LG Mini-Split CH67 Error Code — Causes & Fix](/posts/lg-mini-split-ch67-error-code/)
-- [LG Multi V VRF System Error Codes: Complete Guide](/posts/lg-multi-v-error-codes/)

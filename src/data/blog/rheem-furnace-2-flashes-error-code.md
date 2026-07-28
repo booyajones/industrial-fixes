@@ -14,13 +14,10 @@ money_part: "Pressure switch"
 most_likely_cause: "Failed pressure switch"
 ---
 
-## Rheem Furnace 2 Flashes — What It Means
-
+## What this code means
 On most Rheem furnaces, 2 flashes indicate the pressure switch is stuck closed or closed at a time it should be open. The control board sees the pressure-switch circuit in the wrong state before the inducer sequence begins, treating it as a pressure-switch fault. Always confirm the exact code definition on your furnace's door-data label or installation manual, because Rheem control families vary by model.
 
 This fault tells you the pressure switch is not behaving as the sequence expects. The switch should open when there is no call for heat and close only after the inducer creates proper draft. When it stays closed or fails to open, the furnace locks out to prevent unsafe operation.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -53,10 +50,3 @@ This fault tells you the pressure switch is not behaving as the sequence expects
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with gas appliances, 120V wiring, or draft-proving circuits. A technician has the meters and manometers to measure switch behavior, draft pressure, and circuit continuity accurately. If you have replaced the pressure switch and tubing but the fault persists, the problem may involve the inducer, venting design, control board, or an intermittent wiring issue that requires diagnostic tools and experience to isolate safely.
-
-## See Also
-
-- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)
-- [Rheem RGPS Furnace Error Codes — Flash Code Diagnostic Guide](/posts/rheem-rgps-error-codes/)
-- [Rheem Tankless Water Heater Error 76 - Causes & Fix](/posts/rheem-tankless-water-heater-76-error-code/)
-- [Rheem RA16 Heat Pump Error Codes — Flash Code Diagnostic Guide](/posts/rheem-ra16-heat-pump-error-codes/)

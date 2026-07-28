@@ -17,8 +17,7 @@ free_checks:
   - "Inspect the display wiring harness for loose or corroded connectors"
 ---
 
-## Weil-McLain Boiler A23 Error Code — What It Means
-
+## What this code means
 An A23 error code does not appear in published Weil-McLain technical documentation or manufacturer fault-code tables. Weil-McLain boilers use different control platforms across product lines, and the meaning of any displayed code depends on your exact model and CP number. What you see may be two separate indicators (A2 and 3), a custom control message, or a code from an aftermarket control. Before attempting repairs, locate your boiler's model and CP number (on the rating plate) and consult the installation and service manual for that specific unit.
 
 If you cannot find A23 in your manual, contact Weil-McLain technical support or a licensed technician with your model number and a photo of the display. Attempting repairs based on generic advice for an undefined code can damage the boiler or void the warranty.
@@ -26,8 +25,6 @@ If you cannot find A23 in your manual, contact Weil-McLain technical support or 
 ## Before You Replace Anything
 
 Do not replace the control board or flame sensor without confirming the exact code definition for your model. A misread display or loose wiring connector can look like a fault when the boiler is actually working correctly.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a licensed heating technician immediately if you cannot locate A23 in your boiler's manual, if the boiler will not fire, or if you are unsure of your model number. Gas-fired boilers require specialized diagnostic tools and knowledge of combustion safety. A technician can verify the exact fault using the service menu, check gas pressure and flame sensing, and order the correct OEM parts for your control platform. Do not attempt to bypass safeties or reset the boiler repeatedly, as this can cause unsafe operating conditions or damage the heat exchanger.
 
 **Rough cost:** A pro service call runs about $150-400 for diagnostic visit and minor repair.
-
-## See Also
-
-- [Weil-McLain Boiler A53 Error - Causes & Fix](/posts/weil-mclain-boiler-a53-error-code/)
-- [Weil-McLain A57 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a57-error-code/)
-- [Weil-McLain Boiler A24 Error - Causes & Fix](/posts/weil-mclain-boiler-a24-error-code/)
-- [Weil-McLain A54 Error - Causes & Fix](/posts/weil-mclain-boiler-a54-error-code/)

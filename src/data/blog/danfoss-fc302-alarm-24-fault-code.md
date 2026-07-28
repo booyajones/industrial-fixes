@@ -13,13 +13,10 @@ money_part: "Safety relay"
 most_likely_cause: "External E-stop or safety device is active"
 ---
 
-## Danfoss FC302 Alarm 24 — What It Means
-
+## What this code means
 Alarm 24 on the Danfoss VLT AutomationDrive FC 302 indicates that the Safe Stop function is active. This safety feature disables the drive's torque output whenever the safe-stop circuit is open or not satisfied. The drive is not reporting a motor, overload, or power section failure. Instead, it has detected that a required safety condition is not met, so it prevents operation to protect personnel and equipment.
 
 In most cases, this alarm points to an external safety device or interlock in the safe-stop chain rather than an internal drive fault. The drive is doing its job by monitoring the safety inputs and halting operation when the circuit is interrupted. Your task is to verify the external safety chain, restore the closed loop, and reset the alarm once the safety condition is satisfied.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ In most cases, this alarm points to an external safety device or interlock in th
 ## When to Call a Pro
 
 Call a qualified electrician or controls technician if you are not trained in industrial safety systems, cannot locate the open safety device after inspection, or if the alarm returns with the external safety circuit confirmed closed and powered. Do not bypass or jumper safety interlocks. If the drive's safety input configuration or internal control board is suspect after all external checks pass, a factory-trained service provider should verify parameters and inspect the drive's safety interface hardware to avoid compromising machine safety certification.
-
-## See Also
-
-- [Danfoss VFD Fault UL — Causes & Fix](/posts/danfoss-vfd-fault-ul/)
-- [Danfoss FC302 ALARM 16 - Causes & Fix](/posts/danfoss-fc302-alarm-16-fault-code/)
-- [Danfoss FC302 Alarm 39 - Causes & Fix](/posts/danfoss-fc302-alarm-39-fault-code/)
-- [Danfoss FC302 Complete Fault Code Guide — All Faults and Fixes](/posts/danfoss-fc302-complete-guide/)

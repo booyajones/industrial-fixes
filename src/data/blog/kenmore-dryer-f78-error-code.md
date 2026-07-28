@@ -22,8 +22,7 @@ part_price: "$15-35"
 no_buy_pct: "60%"
 ---
 
-## Kenmore Dryer F78 Error Code — What It Means
-
+## What this code means
 The F78 code on your Kenmore dryer indicates a restricted communication fault between the main electronic control unit and the keypad or panel control unit. The two boards talk to each other through a wire harness, and this code appears when that conversation is interrupted or degraded.
 
 In most cases the problem is not a failed board but a loose, damaged, or corroded connector in the harness that links the two assemblies. Whirlpool service documentation (Kenmore dryers are often Whirlpool-built) groups F72 through F78 as communication faults and directs technicians to start with a power reset, then check the harness and connectors before replacing any control assembly.
@@ -31,8 +30,6 @@ In most cases the problem is not a failed board but a loose, damaged, or corrode
 ## Before You Replace Anything
 
 Many people replace the main control board first, spending $150 or more, when the real culprit is a $0 fix: reseating the harness plugs at both ends or replacing a $20 damaged harness.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

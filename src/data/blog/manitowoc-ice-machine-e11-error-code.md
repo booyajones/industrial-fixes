@@ -18,8 +18,7 @@ free_checks:
   - "Inspect the splash curtain assembly for visible damage, missing tabs, or binding without disassembling electrical components."
 ---
 
-## Manitowoc E11 Error Code — What It Means
-
+## What this code means
 On most Manitowoc ice machines, E11 is a curtain fault code. The control board cannot detect that the water splash curtain is in the correct position. The splash curtain directs water over the evaporator during the freeze cycle, and a small position switch monitors whether it is properly seated. When the curtain tab does not actuate the switch or the switch itself fails, the machine throws E11 and stops making ice.
 
 Some model families label E11 as a communication error instead, so always verify the exact meaning in your machine's service manual using the model and serial number. The curtain-fault interpretation is the most common for this code across Manitowoc's product line.
@@ -27,8 +26,6 @@ Some model families label E11 as a communication error instead, so always verify
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board when E11 appears. Inspect the curtain switch and its wiring harness first, because a loose connector or damaged tab is far cheaper to fix than a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a commercial refrigeration technician if you are not comfortable working inside the evaporator compartment, if the machine uses a refrigerant-cooled evaporator that may have been damaged, or if you lack a multimeter and the factory wiring diagram. Pros can cross-reference the exact model service bulletin to confirm the E11 meaning, test the control board inputs directly, and order OEM curtain assemblies and switches that match your machine's production year. If the curtain and switch both test good but E11 persists, the control board itself may have failed, and a technician can verify that with a known-good spare before you commit to the cost of a new board.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Manitowoc E10 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e10-error-code/)
-- [Manitowoc Ice Machine Error Code 8 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-8/)
-- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
-- [Manitowoc Ice Machine E05 HPC Fault: High Pressure Cutout Causes and Fix](/posts/manitowoc-e05-hpc-fault/)

@@ -18,15 +18,12 @@ free_checks:
   - "Verify no external control wiring is shorted to the drive terminals"
 ---
 
-## Yaskawa CPF39 VFD — What It Means
-
+## What this code means
 CPF39 (not F039) indicates a Control Circuit Error caused by an internal drive hardware problem in the Yaskawa GA800 VFD. This fault points to a failure in the control electronics, the board responsible for processing logic, user interface, and monitoring functions. It is distinct from power circuit faults like overcurrent or ground faults and isolates the problem to the drive's internal logic board or memory corruption. The fault typically requires replacement of the control board or, in some cases, the entire drive unit.
 
 ## Before You Replace Anything
 
 Users sometimes confuse this fault with mechanical issues like ground faults or encoder problems because those symptoms can coexist. CPF39 specifically isolates the control electronics, not motor or wiring problems, so replacing external components will not resolve it.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

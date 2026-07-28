@@ -19,8 +19,6 @@ When a Frigidaire refrigerator ice maker stops working, it means the unit cannot
 
 On newly installed units, air trapped in the plumbing can cause two to three empty cycles before ice production begins. Frigidaire notes that after any repair or installation, the system may need up to 24 hours to produce ice normally. Ice production requires the freezer to be at about 0°F and will often stop completely if the temperature rises above 10°F.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Ice maker switch or arm turned off** The ice maker toggle on the display or the mechanical bail arm may be in the off position or obstructed by ice in the bin.
@@ -54,17 +52,17 @@ On newly installed units, air trapped in the plumbing can cause two to three emp
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Frigidaire Refrigerator Al 29 error code](/posts/frigidaire-refrigerator-al-29-error-code/)
+- Frigidaire Refrigerator Al 29 error code
 - [Frigidaire Refrigerator Df error code](/posts/frigidaire-refrigerator-df-error-code/)
-- [Frigidaire Refrigerator E11 error code](/posts/frigidaire-refrigerator-e11-error-code/)
+- Frigidaire Refrigerator E11 error code
 - [Frigidaire Refrigerator E15 error code](/posts/frigidaire-refrigerator-e15-error-code/)
-- [Frigidaire Refrigerator Er Ce error code](/posts/frigidaire-refrigerator-er-ce-error-code/)
-- [Frigidaire Refrigerator Er error code](/posts/frigidaire-refrigerator-er-error-code/)
-- [Frigidaire Refrigerator F0001 error code](/posts/frigidaire-refrigerator-f0001-error-code/)
-- [Frigidaire Refrigerator H1 error code](/posts/frigidaire-refrigerator-h1-error-code/)
-- [Frigidaire Refrigerator Hi error code](/posts/frigidaire-refrigerator-hi-error-code/)
-- [Frigidaire Refrigerator Op error code](/posts/frigidaire-refrigerator-op-error-code/)
-- [Frigidaire Refrigerator Pf error code](/posts/frigidaire-refrigerator-pf-error-code/)
+- Frigidaire Refrigerator Er Ce error code
+- Frigidaire Refrigerator Er error code
+- Frigidaire Refrigerator F0001 error code
+- Frigidaire Refrigerator H1 error code
+- Frigidaire Refrigerator Hi error code
+- Frigidaire Refrigerator Op error code
+- Frigidaire Refrigerator Pf error code
 - [Frigidaire Refrigerator Sb error code](/posts/frigidaire-refrigerator-sb-error-code/)
 
 ## When to Call a Pro

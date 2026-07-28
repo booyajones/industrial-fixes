@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Danfoss FC302 AL-141 Fault — What It Means
-
+## What this code means
 The Danfoss VLT AutomationDrive FC 302 does not display a fault code labeled AL-141 in standard documentation. The most likely intended code is Alarm 14 (Earth Fault), which indicates the drive has detected current leaking from the motor or cable to ground instead of returning through the motor phases. This triggers a protective shutdown to prevent equipment damage or electrical hazards. The drive monitors output current balance and trips when it senses an imbalance that suggests a ground leak.
 
 If your display shows a different format or numbering, consult your specific model's manual or wiring diagram, as fault code conventions can vary by firmware version or regional configuration.
@@ -29,8 +28,6 @@ If your display shows a different format or numbering, consult your specific mod
 ## Before You Replace Anything
 
 Technicians often replace the drive itself when the real fault is a damaged motor cable or loose connection. Always disconnect the motor and run the drive unloaded first. If the alarm clears with no motor attached, the drive is fine and the problem is downstream.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drive technician if you are not comfortable working with high-voltage industrial equipment, if the drive trips Alarm 14 with the motor disconnected (indicating an internal drive fault), or if insulation testing and parameter checks do not resolve the issue. Internal drive repairs require knowledge of power electronics, access to service manuals, and proper ESD precautions. A technician will have megohm testers, oscilloscopes, and replacement parts to diagnose and repair the drive or motor safely. If the drive is under warranty, contact Danfoss or your distributor before opening the enclosure, as unauthorized service may void coverage.
 
 **Rough cost:** A pro service call runs about $200-600.
-
-## See Also
-
-- [Danfoss FC302 AL-94 - Causes & Fix](/posts/danfoss-fc302-vfd-al-94-fault-code/)
-- [Danfoss FC302 Alarm 23 - Causes & Fix](/posts/danfoss-fc302-alarm-23-fault-code/)
-- [Danfoss FC302 AL-76 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-76-fault-code/)
-- [Danfoss FC302 VFD AL-119 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-119-fault-code/)

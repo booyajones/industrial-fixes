@@ -19,8 +19,6 @@ A GE dryer that stops mid-cycle is not usually throwing a fault code. GE's facto
 
 A restricted vent can cause overheating and safety shutdowns. Appliance repair guidance also ties mid-cycle stoppage to clogged venting, thermal overload, motor issues, moisture-sensor or control problems, and door-latch problems. The dryer is stopping to protect itself or because a component has failed or lost signal.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Blocked or restricted venting** Lint buildup, crushed flex duct, blocked exterior hood, or restricted airflow can overheat the dryer and make it stop.

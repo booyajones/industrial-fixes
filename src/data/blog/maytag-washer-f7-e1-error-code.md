@@ -20,8 +20,7 @@ free_checks:
 part_price: "$40–80"
 ---
 
-## Maytag F7 E1 Error Code — What It Means
-
+## What this code means
 F7 E1 on a Maytag top-load washer is a basket speed sensor fault. The main control did not receive the expected speed feedback from the motor or tachometer during the spin or agitate cycle. Maytag's official product-help page recommends cycling power to the control for 5 minutes as the first step. In technician terms, this is a tachometer or speed-sensing communication problem between the motor system and the main control board.
 
 The code does not always mean the motor itself has failed. More often it points to a problem in the circuit that tells the control how fast the basket is turning. A loose connector, a failed shift actuator, a bad run capacitor, or a mechanically bound drive system can all prevent the control from seeing the speed signal it expects.
@@ -29,8 +28,6 @@ The code does not always mean the motor itself has failed. More often it points 
 ## Before You Replace Anything
 
 Many people replace the main control board first, but loose or corroded connectors at the motor, actuator, or capacitor cause most F7 E1 faults. Inspect and reseat every plug in the motor circuit before ordering a control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

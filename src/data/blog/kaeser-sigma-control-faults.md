@@ -60,11 +60,3 @@ SIGMA CONTROL 2 supports Modbus, PROFIBUS, PROFINET, and Ethernet. A communicati
 | Condensate drain solenoid | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kaeser-sigma-control-faults&k=Condensate+drain+solenoid&tag=errorcodefixes-20) \| Match voltage and orifice size |
 | Fan motor contactor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-kaeser-sigma-control-faults&tag=errorcodefixes-20) \| Check contact condition |
 > **Pro tip:** Kaeser SIGMA CONTROL 2 can be connected to SIGMA NETWORK for remote monitoring. Kaeser service centers can remotely access fault logs and performance data. Register the compressor on SIGMA NETWORK to enable predictive maintenance alerts.
-
-## Related Articles
-
-- [Air Compressor Fault Codes: Complete Guide](/posts/air-compressor-fault-codes/)
-- [Atlas Copco Air Compressor Fault Codes — Complete Guide](/posts/atlas-copco-compressor-fault-codes/)
-- [BOGE Air Compressor Error Codes - Complete Guide](/posts/boge-compressor-error-codes/)
-- [Chicago Pneumatic Compressor Fault Codes — Complete Guide](/posts/chicago-pneumatic-compressor-faults/)
-- [CompAir Air Compressor Fault Codes - Complete Guide](/posts/compair-compressor-fault-codes/)

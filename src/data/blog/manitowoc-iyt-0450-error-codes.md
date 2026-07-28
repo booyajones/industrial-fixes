@@ -17,8 +17,6 @@ money_part: "Hot gas valve"
 
 The Manitowoc IYT-0450 is a top-air-discharge (T-series) cube ice machine producing approximately 450 pounds of dice-style cube ice per day. It is part of Manitowoc's Indigo NXT intelligent ice machine platform, which features an on-board diagnostic system that displays numeric fault codes on the LED panel and connects to the Manitowoc Remote Monitoring system for cloud-based diagnostics.
 
-[Jump to Fix](#fix)
-
 ## Manitowoc IYT-0450 Error Code Reference
 
 | Code | Fault |
@@ -66,18 +64,3 @@ The Manitowoc IYT-0450 is a top-air-discharge (T-series) cube ice machine produc
 ## When to Call a Pro
 
 The Manitowoc Indigo NXT platform has cloud diagnostics available through Manitowoc's Remote Monitoring system — a certified Manitowoc service agent can view fault history remotely before arriving on site. Refrigerant service and hot gas valve replacement require EPA 608 certification.
-
-## Related Articles
-
-- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
-- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
-- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
-- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
-- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)
-
-## See Also
-
-- [Manitowoc Ice Machine E01 Error Code — Causes & Fix](/posts/manitowoc-ice-machine-error-code-e01/)
-- [Manitowoc Indigo NXT Ice Machine Complete Troubleshooting Guide](/posts/manitowoc-indigo-nxt-complete-guide/)
-- [Manitowoc E02 Error Code — Long Harvest Cycle Fix](/posts/manitowoc-e02-error-code/)
-- [Manitowoc Ice Machine Error Code 7 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-7/)

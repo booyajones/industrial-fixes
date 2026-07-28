@@ -17,8 +17,6 @@ tags:
 
 A Frigidaire refrigerator water dispenser that stops working is a symptom, not a single error code. Frigidaire treats this as a flow failure caused by supply setup issues or a component fault. If the refrigerator was just installed, the first checks are whether the water supply is connected, the house shutoff valve is open, the system has been primed to remove air, and no dispenser lock or shutoff condition is active.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged or incorrectly installed water filter** A restricted or improperly seated filter is a common cause of weak or no water flow, and Frigidaire service guidance recommends inspecting the filter and replacing it if damaged or if it is not the OEM part specified in your manual.
@@ -52,17 +50,17 @@ A Frigidaire refrigerator water dispenser that stops working is a symptom, not a
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Frigidaire Refrigerator Al 29 error code](/posts/frigidaire-refrigerator-al-29-error-code/)
+- Frigidaire Refrigerator Al 29 error code
 - [Frigidaire Refrigerator Df error code](/posts/frigidaire-refrigerator-df-error-code/)
-- [Frigidaire Refrigerator E11 error code](/posts/frigidaire-refrigerator-e11-error-code/)
+- Frigidaire Refrigerator E11 error code
 - [Frigidaire Refrigerator E15 error code](/posts/frigidaire-refrigerator-e15-error-code/)
-- [Frigidaire Refrigerator Er Ce error code](/posts/frigidaire-refrigerator-er-ce-error-code/)
-- [Frigidaire Refrigerator Er error code](/posts/frigidaire-refrigerator-er-error-code/)
-- [Frigidaire Refrigerator F0001 error code](/posts/frigidaire-refrigerator-f0001-error-code/)
-- [Frigidaire Refrigerator H1 error code](/posts/frigidaire-refrigerator-h1-error-code/)
-- [Frigidaire Refrigerator Hi error code](/posts/frigidaire-refrigerator-hi-error-code/)
-- [Frigidaire Refrigerator Op error code](/posts/frigidaire-refrigerator-op-error-code/)
-- [Frigidaire Refrigerator Pf error code](/posts/frigidaire-refrigerator-pf-error-code/)
+- Frigidaire Refrigerator Er Ce error code
+- Frigidaire Refrigerator Er error code
+- Frigidaire Refrigerator F0001 error code
+- Frigidaire Refrigerator H1 error code
+- Frigidaire Refrigerator Hi error code
+- Frigidaire Refrigerator Op error code
+- Frigidaire Refrigerator Pf error code
 - [Frigidaire Refrigerator Sb error code](/posts/frigidaire-refrigerator-sb-error-code/)
 
 ## When to Call a Pro

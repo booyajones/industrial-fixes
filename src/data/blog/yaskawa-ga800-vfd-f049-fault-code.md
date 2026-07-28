@@ -19,8 +19,7 @@ free_checks:
   - "Verify encoder coupling is tight and free of mechanical obstruction or slippage"
 ---
 
-## Yaskawa GA800 Er-04 Fault — What It Means
-
+## What this code means
 The Er-04 (Line-to-Line Resistance Error) fault on a Yaskawa GA800 drive means the auto-tuning process calculated a line-to-line motor resistance value that falls outside the acceptable parameter range defined by the drive firmware. This indicates the drive cannot reliably determine the motor's electrical characteristics for proper torque and speed control.
 
 Note: The GA800 does not use an F049 fault code. F049 is associated with Siemens drives, not Yaskawa. The Er-04 code is the correct Yaskawa GA800 fault for resistance issues during auto-tuning.
@@ -28,8 +27,6 @@ Note: The GA800 does not use an F049 fault code. F049 is associated with Siemens
 ## Before You Replace Anything
 
 Technicians sometimes replace the motor when the real problem is loose or corroded connections at the motor terminals. Always perform a megger test on motor windings and check all wiring continuity before condemning the motor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

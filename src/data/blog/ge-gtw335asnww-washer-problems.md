@@ -43,7 +43,7 @@ The GE GTW335ASNWW is a top-load washer with basic electronic controls and onboa
 
 These codes apply to this model line:
 
-- [Ge Washer E23 error code](/posts/ge-washer-e23-error-code/)
+- Ge Washer E23 error code
 
 ## When to Call a Pro
 

@@ -21,8 +21,7 @@ part_price: "$30-60 per shock absorber"
 no_buy_pct: "70%"
 ---
 
-## Electrolux EF5 Error Code — What It Means
-
+## What this code means
 The EF5 code on an Electrolux washer indicates an unbalanced load or spin imbalance fault. The control board has detected that the drum load is too uneven for safe high-speed spinning, so it stops or skips the final spin phase to protect the machine from damage. In practical terms, the laundry mass is concentrated to one side of the drum, or the machine itself is not stable enough to ramp up to full spin speed.
 
 This fault is the washer's self-protection against excessive vibration and mechanical stress. When the load is too lopsided or the unit is not level, the tub can bounce violently during spin-up. The control stops the cycle and displays EF5 rather than risking broken suspension parts or a walking machine.
@@ -30,8 +29,6 @@ This fault is the washer's self-protection against excessive vibration and mecha
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board or motor thinking EF5 is an electrical fault. Always redistribute the load, level the machine, and inspect the shock absorbers and suspension springs first. Most EF5 errors clear after balancing the laundry or adjusting the feet.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

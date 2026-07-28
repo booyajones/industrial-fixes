@@ -13,11 +13,8 @@ money_part: "Yaskawa GA800 keypad/display module"
 most_likely_cause: "Misread or partial code display"
 ---
 
-## Yaskawa GA800 E06 Fault Code — What It Means
-
+## What this code means
 The E06 fault code does not appear in available Yaskawa GA800 technical documentation or fault tables. Yaskawa uses alphanumeric fault codes that vary by firmware version and configuration, so the exact meaning of E06 on your drive must be verified in your specific unit's manual or by reading the full fault description from the keypad display. The GA800 logs faults with timestamps and descriptions accessible through the parameter menu. Before troubleshooting, record your drive's complete model number, specification code, serial number, and the full text shown on the display when the fault occurs, as this information is required for accurate diagnosis and support.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,10 +44,3 @@ The E06 fault code does not appear in available Yaskawa GA800 technical document
 ## When to Call a Pro
 
 Call a qualified Yaskawa technician or authorized distributor if you cannot locate the E06 code in your drive's manual, if the fault reappears immediately after clearing, or if you are unfamiliar with VFD parameter programming and electrical diagnostics. Variable frequency drives operate at high voltage and require proper training for safe troubleshooting. Professional support is especially important when the fault code is undocumented, as it may indicate a firmware issue, internal board failure, or application-specific configuration problem that requires factory tools or replacement components matched to your exact drive revision.
-
-## See Also
-
-- [Yaskawa GA800 E31 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e31-fault-code/)
-- [Yaskawa GA800 E17 Fault - Causes & Fix](/posts/yaskawa-ga800-e17-fault-code/)
-- [Yaskawa J1000 Fault Codes — VFD Troubleshooting Guide](/posts/yaskawa-j1000-fault-codes/)
-- [Yaskawa VFD Fault GF — Causes & Fix](/posts/yaskawa-vfd-fault-gf/)

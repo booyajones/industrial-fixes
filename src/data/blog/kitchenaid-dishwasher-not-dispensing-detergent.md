@@ -19,8 +19,6 @@ When a KitchenAid dishwasher is not dispensing detergent, it means the dispenser
 
 The problem can stem from improper loading that blocks the door or spray pattern, old or clumped detergent that will not dissolve, a dirty dispenser area with food debris preventing free movement, low water temperature, an incomplete cycle, blocked spray arms, or a failed dispenser assembly. In most cases the door is physically obstructed or the detergent cannot wash out due to loading or cleaning issues.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Improper loading blocking the dispenser door** Large dishes, tall pans, or shifted utensils can physically block the dispenser door from opening or prevent water spray from reaching the detergent cup.
@@ -58,7 +56,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Kitchenaid Dishwasher F2E2 error code](/posts/kitchenaid-dishwasher-f2e2-error-code/)
 - [Kitchenaid Dishwasher F3E1 error code](/posts/kitchenaid-dishwasher-f3e1-error-code/)
 - [Kitchenaid Dishwasher F3E2 error code](/posts/kitchenaid-dishwasher-f3e2-error-code/)
-- [Kitchenaid Dishwasher F4E3 error code](/posts/kitchenaid-dishwasher-f4e3-error-code/)
+- Kitchenaid Dishwasher F4E3 error code
 - [Kitchenaid Dishwasher F5E1 error code](/posts/kitchenaid-dishwasher-f5e1-error-code/)
 - [Kitchenaid Dishwasher F6E1 error code](/posts/kitchenaid-dishwasher-f6e1-error-code/)
 - [Kitchenaid Dishwasher F6E2 error code](/posts/kitchenaid-dishwasher-f6e2-error-code/)

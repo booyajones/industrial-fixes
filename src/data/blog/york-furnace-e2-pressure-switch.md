@@ -23,8 +23,6 @@ York is owned by Bosch and holds roughly 16% of the US residential HVAC market. 
 
 The pressure switch is a safety device that verifies the inducer motor is creating enough negative pressure to pull flue gases out of the heat exchanger. If the switch stays open, the furnace will not light the burner. This is the same underlying fault as **Carrier error code 31** and **Goodman 3 flash** — the brand differs but the root cause list is nearly identical.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
 - **Blocked condensate drain or drain line.** On 90%+ efficiency condensing furnaces, water from the drain can back up into the pressure switch hose and block the port, holding the switch open.
@@ -79,10 +77,3 @@ Call a licensed HVAC technician if you cleared the drain and replaced the pressu
 - [Carrier Error Code 31: Pressure Switch Stuck Open](/posts/carrier-error-code-31/)
 - [Goodman Furnace 3 Flashes: Pressure Switch Fault](/posts/goodman-furnace-3-flashes/)
 - [York Furnace Complete Error Code Guide](/posts/york-furnace-error-codes/)
-
-## See Also
-
-- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)
-- [York Chiller Fault Codes — Complete Troubleshooting Guide](/posts/york-chiller-fault-codes/)
-- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
-- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)

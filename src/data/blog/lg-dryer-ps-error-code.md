@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "LG dryer power cord (3-prong or 4-prong)"
 ---
 
-## LG Dryer PS Error Code — What It Means
-
+## What this code means
 The PS code on an LG dryer signals improper voltage at the power cord and terminal block connection. LG documentation states this code appears when the dryer detects incorrect electrical supply conditions, most commonly caused by reversed white and red wire connections on the dryer's terminal block. This is a power-supply and installation fault, not a drum, sensor, or heating element problem.
 
 Because the dryer requires 240 V to operate correctly, the PS code will trigger if the supply voltage is wrong, the cord is incorrectly wired, or the connection is loose. LG specifically instructs users to verify the outlet matches the dryer's 240 V rating, reset the breaker, and check for reversed conductors at the terminal block.
@@ -25,8 +24,6 @@ Because the dryer requires 240 V to operate correctly, the PS code will trigger 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board thinking it is faulty. Before ordering any parts, inspect the terminal block wiring and measure the outlet voltage with a multimeter.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable working with 240 V wiring or if you cannot identify which wires belong on which terminal. An electrician or appliance technician can measure the outlet voltage with a multimeter, inspect the terminal block for correct wiring, and verify the home circuit breaker and branch wiring are sound. If the PS code persists after confirming correct wiring and supply voltage, LG states the dryer will need service, which may involve internal control or wiring faults that require part-level diagnosis and replacement by a qualified technician.
 
 **Rough cost:** A pro service call runs about $80–180 (service call to correct wiring or replace power cord).
-
-## See Also
-
-- [LG Microwave DOOR Error - Causes & Fix](/posts/lg-microwave-door-error-code/)
-- [LG Dryer Main Control Board Replacement - Signs & How-To](/posts/lg-dryer-main-control-board-pcb-replacement/)
-- [LG Range F8 Error Code - Causes & Fix](/posts/lg-range-f8-error-code/)
-- [LG Oven Burner Won't Light - Causes & Fix](/posts/lg-oven-burner-wont-light/)

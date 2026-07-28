@@ -17,8 +17,7 @@ money_part: "Electronic oven control board (EOC)"
 part_price: "$100-250"
 ---
 
-## GE Oven FF Error Code — What It Means
-
+## What this code means
 The FF error code on a GE oven indicates a fault in the electronic control system, most often a communication breakdown between the main electronic oven control board and the touchpad or user interface. The exact definition of FF varies by GE model family, so your owner's manual or the wiring diagram inside the control panel will give the most accurate interpretation for your specific unit.
 
 Unlike temperature sensor codes (such as F3), the FF code points to the control electronics rather than heating elements or thermistors. In most cases the main control board has failed, though a damaged ribbon cable or faulty touchpad can also trigger the code.
@@ -26,8 +25,6 @@ Unlike temperature sensor codes (such as F3), the FF code points to the control 
 ## Before You Replace Anything
 
 Many people replace the touchpad first because it is easier to reach, but a loose or corroded ribbon-cable connector often mimics a bad touchpad. Inspect and reseat all connectors before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

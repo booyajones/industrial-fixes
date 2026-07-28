@@ -13,13 +13,10 @@ money_part: "VFD inverter module"
 most_likely_cause: "High incoming line voltage"
 ---
 
-## Carrier Error Code 17 — What It Means
-
+## What this code means
 Carrier error code 17 is not universal across all Carrier equipment. On many inverter and variable-speed models, particularly the 24VNA6 and 25VNA4 families, code 17 appears as fault 82-17: VFD System Fault - High Line Voltage. The variable frequency drive monitors incoming line voltage and trips this fault when it detects voltage above the acceptable range. The exact meaning of code 17 depends on your model family and control platform, so always confirm the fault definition in your specific service manual before starting repairs.
 
 On inverter-equipped units, this fault protects the VFD power electronics from damage due to overvoltage conditions. The drive shuts down the compressor and logs the fault. In the field, the root cause is usually a supply voltage problem or a wiring issue, though failed inverter components can also trigger the fault even when line voltage is normal.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ On inverter-equipped units, this fault protects the VFD power electronics from d
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with line voltage, if you lack a multimeter and the service manual for your exact model, or if the fault returns after you have verified correct supply voltage and repaired all wiring issues. VFD and inverter diagnostics require specialized knowledge and tools. Misdiagnosis can lead to expensive part replacements that do not solve the problem, and live electrical work carries serious shock and arc-flash hazards.
-
-## See Also
-
-- [Carrier 32 Error Code — Causes & Fix](/posts/carrier-32-error-code/)
-- [Carrier 33 Error Code — Causes & Fix](/posts/carrier-33-error-code/)
-- [Carrier Zone Controller Error Codes — Complete Guide](/posts/carrier-zone-controller-error-codes/)
-- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)

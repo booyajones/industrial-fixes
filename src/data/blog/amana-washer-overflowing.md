@@ -19,8 +19,6 @@ When your Amana washer overflows, the machine is filling with water past the cor
 
 Most overflow complaints trace back to either a mechanical valve fault or a break in the pressure-sensing path. The inlet valve may have debris preventing it from closing fully, or internal solenoids may fail in the energized position. The pressure hose can develop cracks, kinks, or clogs that prevent the sensor from seeing the true water level, so the control never knows to stop filling. Less often, the control board itself sends the wrong command or misreads the sensor signal.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Stuck-open or debris-fouled water inlet valve** The inlet valve fails to close completely when de-energized, allowing water to trickle or flow into the tub even after the fill command stops.
@@ -60,7 +58,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Amana Washer F8 E1 error code](/posts/amana-washer-f8-e1-error-code/)
 - [Amana Washer F8 E2 error code](/posts/amana-washer-f8-e2-error-code/)
 - [Amana Washer F9 E1 error code](/posts/amana-washer-f9-e1-error-code/)
-- [Amana Washer Fd error code](/posts/amana-washer-fd-error-code/)
+- Amana Washer Fd error code
 - [Amana Washer Hc error code](/posts/amana-washer-hc-error-code/)
 - [Amana Washer Ldl error code](/posts/amana-washer-ldl-error-code/)
 - [Amana Washer Ldu error code](/posts/amana-washer-ldu-error-code/)

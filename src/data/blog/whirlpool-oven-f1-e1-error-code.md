@@ -17,8 +17,7 @@ money_part: "Whirlpool oven control board (Oven Appliance Manager Control / cloc
 part_price: "$150-300"
 ---
 
-## Whirlpool Oven F1 E1 Error — What It Means
-
+## What this code means
 The F1 E1 code on a Whirlpool oven signals an EEPROM checksum error in the Oven Appliance Manager Control. This is an internal control-board fault, not a sensor problem. The control's memory or logic has failed its self-check. Whirlpool's fault-code documentation describes this as a control-board error that may involve the board itself or its associated wiring.
 
 Because the code points to the control's internal electronics, the fix usually involves either reconnecting loose wiring or replacing the board. A simple power cycle clears temporary glitches, but if the fault reappears the control board typically needs replacement.
@@ -26,8 +25,6 @@ Because the code points to the control's internal electronics, the fix usually i
 ## Before You Replace Anything
 
 Homeowners sometimes replace the oven temperature sensor for F1 E1, but this code is a control-board EEPROM error, not a sensor fault. Always power-cycle first and inspect the control wiring before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

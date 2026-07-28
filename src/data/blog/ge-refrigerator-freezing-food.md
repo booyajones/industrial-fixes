@@ -19,8 +19,6 @@ A GE refrigerator that freezes food in the fresh-food compartment is a temperatu
 
 When food freezes, the refrigerator compartment is running colder than the target setpoint due to control settings, blocked airflow, faulty temperature sensing, or a poor door seal that forces the system to overcool trying to recover. Diagnosing the complaint means walking through settings, airflow, and sensor operation before jumping to part replacement.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Temperature setting too low or TurboCool mode active** The most common cause is a fresh-food setpoint below 37°F or a rapid-cool mode left running, both of which tell the control board to overcool the cabinet.

@@ -17,8 +17,7 @@ money_part: "Lint screen / lint filter"
 part_price: "$10-50"
 ---
 
-## Frigidaire Dryer AL-04 Error Code — What It Means
-
+## What this code means
 AL-04 does not appear in documented Frigidaire dryer fault code lists. The closest verified Frigidaire code is E4 or E4A, which indicates long dry time (the normal dry cycle has been exceeded). Frigidaire troubleshooting materials associate E4/E04 errors with restricted airflow, clogged vents, or heating system failures. Before proceeding, confirm the exact code displayed on your dryer and check your model's service manual, because code definitions vary across Frigidaire platforms.
 
 If your display shows E4, E04, or E4A, the dryer is running too long because it cannot maintain proper heat or exhaust. The most common physical causes are lint buildup in the vent system, a crushed or kinked vent hose, or a failed heating element on electric models (or gas burner issues on gas dryers). A hard reset and thorough vent inspection solve the majority of these cases.
@@ -26,8 +25,6 @@ If your display shows E4, E04, or E4A, the dryer is running too long because it 
 ## Before You Replace Anything
 
 Many people replace the moisture sensor or control board first. Test airflow by disconnecting the vent hose and running a short cycle; if drying improves, the problem is in the vent system, not inside the dryer.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

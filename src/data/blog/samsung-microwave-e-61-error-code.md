@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Samsung microwave humidity sensor assembly"
 ---
 
-## Samsung Microwave E-61 Error — What It Means
-
+## What this code means
 The E-61 code on a Samsung microwave indicates an open humidity sensor error. This means the control board is not detecting the humidity sensor circuit in its expected electrical state. The board has registered an open (broken or disconnected) condition in the sensor circuit, as opposed to a short or other fault.
 
 The humidity sensor monitors steam levels inside the cavity during cooking cycles. When the control board cannot read the sensor at all, it throws E-61 and typically halts operation to prevent running cycles blind. Samsung distinguishes E-61 (open sensor) from E-62 (shorted sensor), so the fault is specifically a missing or interrupted signal rather than a sensor reading out of range.
@@ -25,8 +24,6 @@ The humidity sensor monitors steam levels inside the cavity during cooking cycle
 ## Before You Replace Anything
 
 Many users replace the main control board first when E-61 appears, but the fault is usually at the humidity sensor itself or its connector. Always check sensor continuity and inspect the harness plug for corrosion before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -19,8 +19,6 @@ A Samsung washer that stops mid-cycle is a symptom, not a single error code. It 
 
 Samsung documents specific error codes that can appear when the washer stops, such as Ur for an unbalanced load retry, PF for a power failure, and other drain or door-related codes. The washer may stop during fill, wash, drain, or spin, depending on which system triggered the protective stop. The machine may also stop temporarily without showing a code, waiting for suds to dissipate or for the load to rebalance before resuming.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged drain filter or blocked drain hose** A restricted drain filter, kinked hose, or blockage in the drain path prevents water from leaving the tub and stops the cycle.

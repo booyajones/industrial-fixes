@@ -42,10 +42,3 @@ The Goodman GMVC96 is a residential 96% AFUE two-stage condensing gas furnace th
 ## When to Call a Pro
 
 Call a licensed HVAC tech for any work involving the gas valve, gas piping, combustion analysis, or heat-exchanger integrity. Pressure-switch diagnostics require a manometer to measure actual draft, and misdiagnosing a cracked heat exchanger as a simple sensor fault can create a carbon-monoxide hazard. If you see soot around the burners, smell gas, or have repeated high-limit trips even after filter replacement, shut the furnace off at the service switch and call for service immediately. Control-board replacement on the GMVC96 often requires matching firmware revisions and setting dip switches for the correct blower motor and gas-valve type, which is best left to a technician with the factory setup sheet and a field diagnostic tool.
-
-## See Also
-
-- [Goodman GMS96 Error Codes — Fault Code Guide](/posts/goodman-gms96-error-codes/)
-- [Goodman GPH Series Packaged Unit Error Codes: Complete Guide](/posts/goodman-gph-error-codes/)
-- [Goodman 7 Flash Error Code — Ignition Lockout Fix](/posts/goodman-7-flash-error-code/)
-- [Goodman D1 Error Code - Causes & Fix](/posts/goodman-heat-pump-d1-error-code/)

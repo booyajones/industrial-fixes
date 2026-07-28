@@ -19,8 +19,7 @@ free_checks:
 part_price: "$50-200"
 ---
 
-## Yaskawa A1000 OV Fault — What It Means
-
+## What this code means
 The OV fault on a Yaskawa A1000 drive means the internal DC bus voltage has exceeded the overvoltage detection level. For 200/230 V class drives this trip point is typically around 410 VDC, and for 400/460 V class drives it is around 820 VDC (or 740 VDC when parameter E1-01 is set below 400). This is a regeneration or power-supply problem, not a motor overload issue.
 
 When the motor is driven faster than the commanded speed by the load, or when the drive tries to stop too quickly, energy flows backward into the DC bus capacitors. If the drive cannot dissipate that energy fast enough through a braking resistor or the incoming line, the bus voltage climbs until the OV trip level is reached and the drive faults out to protect itself.
@@ -28,8 +27,6 @@ When the motor is driven faster than the commanded speed by the load, or when th
 ## Before You Replace Anything
 
 Technicians often replace the drive itself when the real problem is a failed or undersized braking resistor or an open resistor connection. Always measure resistor continuity and verify braking circuit wiring before replacing the VFD.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or drive technician if you are not trained to work with VFD high-voltage DC bus circuits. The DC bus can hold a lethal charge even after input power is disconnected. If increasing deceleration time and verifying the braking resistor do not clear the fault, or if you suspect failed DC bus capacitors or control board issues, professional diagnostics and repair are required. A technician will have the tools to safely measure DC bus voltage under load, evaluate capacitor ESR, test the braking transistor, and analyze supply power quality.
 
 **Rough cost:** A pro service call runs about $150-500.
-
-## See Also
-
-- [Yaskawa GA800 A.140 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-140-fault-code/)
-- [Yaskawa A1000 CPF03 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf03-fault-code/)
-- [Yaskawa GA800 VFD E60 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e60-fault-code/)
-- [Yaskawa GA800 E11 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e11-fault-code/)

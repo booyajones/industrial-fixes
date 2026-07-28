@@ -21,8 +21,7 @@ money_part: "Drain pump assembly"
 most_likely_cause: "Misread or non-standard code"
 ---
 
-## GE Dishwasher FFF Error Code — What It Means
-
+## What this code means
 The FFF code does not appear in GE's published dishwasher fault code documentation. GE's own support materials confirm that fault codes are model-dependent and used for technician diagnosis, but FFF is not listed among standard GE dishwasher codes such as PF, C1, C3, C4, C6, C8, H2O, or leak-related faults. This suggests FFF is either a misread display, a user-reported error, or a code specific to a very limited model subset not covered in mainstream GE service literature.
 
 If you are seeing FFF on your GE dishwasher display, first verify the exact characters shown and compare them against the fault code list in your model's service manual or wiring diagram. The closest documented fault pattern in GE-style repair literature is FTD, which indicates a failure to drain involving the drain pump, hose, filter, or pressure sensor. If your display actually reads FTD or another documented code, follow the troubleshooting steps for that specific fault. Otherwise, contact GE support or a qualified technician to confirm the code's meaning for your exact model.
@@ -30,8 +29,6 @@ If you are seeing FFF on your GE dishwasher display, first verify the exact char
 ## Before You Replace Anything
 
 Many homeowners replace the drain pump or control board without first clearing the sump filter and drain hose. Start by removing standing water, cleaning the filter assembly, and checking for kinks or clogs in the drain path before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

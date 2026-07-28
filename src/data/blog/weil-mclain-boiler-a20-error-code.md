@@ -17,8 +17,7 @@ free_checks:
   - "Look up A20 in the manual's error code table to identify the specific fault and component."
 ---
 
-## Weil-McLain Boiler A20 Error Code — What It Means
-
+## What this code means
 Weil-McLain boilers display error codes on the temperature display, but A20 is not a universal code across all models. The exact meaning of A20 depends on your specific control platform (Aqua Balance, Ultra, or other) and must be looked up in your model's installation and service manual. Weil-McLain assigns error numbers to specific faults in the manual's error section, so the same code can mean different things on different boiler families.
 
 Because the manufacturer does not publish a single master code list, you cannot safely diagnose A20 without the manual for your exact model. The control may also store a lockout or error history in the contractor menu, which can show whether A20 is current or past and what conditions were present when it first appeared. Always identify your boiler's full model number and consult the factory manual's error table before replacing any component.
@@ -26,8 +25,6 @@ Because the manufacturer does not publish a single master code list, you cannot 
 ## Before You Replace Anything
 
 Many homeowners replace control boards or igniters when they see an error code, but Weil-McLain codes point to specific sensors, switches, or wiring faults. Always check the manual's error table and test the exact component named before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician if the manual identifies A20 as a gas-valve, pressure-switch, or combustion fault, or if you are not comfortable working with 120 V control wiring and testing sensors with a multimeter. Professionals have model-specific diagnostic tools, access to OEM parts, and the training to handle natural gas or propane safely. Also call if you replace the named component and the code returns, since a recurring error often points to a control board fault, incorrect wiring, or a mechanical problem elsewhere in the system that requires pressure testing or combustion analysis.
 
 **Rough cost:** A pro service call runs about $150–400.
-
-## See Also
-
-- [Weil-McLain Boiler Error Code E02 — Ignition Failure Fix](/posts/weil-mclain-e02-ignition-failure/)
-- [Weil-McLain A60 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a60-error-code/)
-- [Weil-McLain A06 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a06-error-code/)
-- [Weil-McLain Boiler A23 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a23-error-code/)

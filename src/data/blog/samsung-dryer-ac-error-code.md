@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Samsung dryer main control board"
 ---
 
-## Samsung Dryer AC Error Code — What It Means
-
+## What this code means
 The AC error code on a Samsung dryer signals a communication fault between the main control board and the inverter or compressor-related control circuitry. Samsung groups AC together with codes 1 AC, E3, AE3, AE4, and AE5 as internal parts failing to communicate. This is not a simple airflow, vent blockage, or door-switch problem. The dryer has detected that its electronic control modules cannot talk to each other properly.
 
 On models that use Samsung's heat-pump or electronically controlled drying system, the main control board continuously exchanges data with the inverter module that drives the compressor or other power electronics. When that data link fails, the dryer halts and displays AC. The root cause is usually a loose or damaged wiring harness, a failed main control board, a failed inverter module, or a temporary power glitch that leaves the electronics unable to sync.
@@ -25,8 +24,6 @@ On models that use Samsung's heat-pump or electronically controlled drying syste
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first without checking connectors. Unplug the dryer, remove the cabinet panels, and inspect every wiring harness and connector at the main control and inverter module for loose pins, corrosion, or heat damage before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -16,8 +16,7 @@ free_checks:
   - "Inspect all sensor wiring and connectors for corrosion, loose pins, or visible damage before ordering parts."
 ---
 
-## Weil-McLain A105 Error Code — What It Means
-
+## What this code means
 A105 does not appear in Weil-McLain manufacturer documentation as a boiler fault code. The code A105 is documented for Rheem/Ruud hybrid water heaters, where it signals an evaporator temperature sensor failure. If you see A105 on a Weil-McLain boiler display, verify the exact model and control platform, then consult the owner's manual or wiring diagram for that unit. The fault code families Weil-McLain documents include temperature sensor or thermistor faults, low-water conditions, circulator or pump problems, and control-related issues, but the precise code depends on the specific boiler series.
 
 Without manufacturer confirmation that A105 applies to your Weil-McLain model, treat it as a generic sensor or wiring fault. Common underlying problems are failed temperature sensors, loose or corroded sensor connectors, open or shorted sensor circuits, or control-board sensing errors. Always confirm the appliance brand and model before ordering parts, because the same code can mean different things on different equipment.
@@ -25,8 +24,6 @@ Without manufacturer confirmation that A105 applies to your Weil-McLain model, t
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board when the real fault is a failed sensor or corroded connector. Inspect wiring and measure sensor resistance against the manufacturer's chart before ordering any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician if the owner's manual does not list A105, if you cannot safely access the sensor or control board, or if the fault persists after replacing the sensor and verifying all wiring. Gas-fired and high-voltage boiler work requires proper training, combustion testing, and code compliance. A technician will use specialized diagnostic tools to measure sensor output, check control-board inputs, and confirm safe operation of the boiler and its safety interlocks before returning the system to service.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Weil-McLain Boiler A98 Error - Causes & Fix](/posts/weil-mclain-boiler-a98-error-code/)
-- [Weil-McLain Boiler A53 Error - Causes & Fix](/posts/weil-mclain-boiler-a53-error-code/)
-- [Weil-McLain A83 Error - Causes & Fix](/posts/weil-mclain-boiler-a83-error-code/)
-- [Weil-McLain Boiler A103 Error - Causes & Fix](/posts/weil-mclain-boiler-a103-error-code/)

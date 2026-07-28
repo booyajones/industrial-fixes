@@ -13,11 +13,8 @@ money_part: "Water inlet valve"
 most_likely_cause: "Restricted water inlet valve"
 ---
 
-## Scotsman Ice Machine Error Code 8 — What It Means
-
+## What this code means
 Scotsman error code 8 indicates a water inlet valve fault. The control board commanded a fill, but the water circuit did not respond the way the machine expected. On most Scotsman Prodigy units, that means the sump didn't fill in time, overfilled, or the inlet valve stayed energized too long because the board never saw a correct water-level response. In practice, code 8 usually traces to a clogged inlet valve, weak water pressure, or a float probe problem that makes a good valve look bad.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Scotsman error code 8 indicates a water inlet valve fault. The control board com
 ## When to Call a Pro
 
 If the valve and level sensor both test good but code 8 returns, the control board output may be unstable. Board diagnosis around line-voltage water valves should stay with a trained refrigeration tech.
-
-## Related Articles
-
-- [Scotsman C0522 Error Codes — Fix Guide](/posts/scotsman-c0522-error-codes/)
-- [Scotsman HID312 Error Codes — Fault Code Diagnostic Guide](/posts/scotsman-hid312-error-codes/)
-- [Scotsman HID525 Error Codes — Complete Guide](/posts/scotsman-hid525-error-codes/)
-- [Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/scotsman-ice-machine-complete-guide/)
-- [Scotsman Ice Machine Error Code 1 — High Pressure Cutout Fix](/posts/scotsman-ice-machine-error-code-1/)
-
-## See Also
-
-- [Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/scotsman-ice-machine-complete-guide/)
-- [Scotsman Prodigy Plus Error Code Guide — Causes & Fixes](/posts/scotsman-prodigy-error-codes/)
-- [Scotsman 4-Flash Code — High Discharge Temperature Fix](/posts/scotsman-4-flash-code/)
-- [Scotsman C0830 Ice Machine Error Codes - Full Fault Reference](/posts/scotsman-c0830-error-codes/)

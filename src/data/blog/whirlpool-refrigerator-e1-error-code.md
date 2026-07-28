@@ -22,8 +22,7 @@ part_price: "$50-90"
 no_buy_pct: "40%"
 ---
 
-## Whirlpool Refrigerator E1 Error Code — What It Means
-
+## What this code means
 The E1 error code is not universal across all Whirlpool refrigerators. On some side-by-side and diagnostic platforms, E1 indicates that the ice maker compartment did not cool as expected during a diagnostic test, meaning the ice maker area is too warm. On other Whirlpool models, E1 is used for an ice maker motor fault, a temperature sensor problem, or other sensor-related issues. Whirlpool's product-help pages for certain models do not define E1 as a single fault and instead recommend a power reset first, then service if the code returns.
 
 Because the exact meaning depends on your model and service platform, always verify the code definition against your refrigerator's tech sheet or owner's manual. In practice, technicians look for ice buildup blocking airflow to the ice maker, a failed ice maker assembly or motor, a faulty temperature sensor or thermistor, loose or corroded wiring at the ice maker harness, or a control-system glitch that clears after a reset.
@@ -31,8 +30,6 @@ Because the exact meaning depends on your model and service platform, always ver
 ## Before You Replace Anything
 
 Homeowners often replace the entire ice maker assembly when the real problem is a corroded connector or a sensor covered in frost. Inspect the wiring harness and defrost any ice around the ice maker before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,13 +13,10 @@ money_part: "Differential pressure sensor"
 most_likely_cause: "Unit too hot during calibration"
 ---
 
-## Rational iCombi Classic E01 — What It Means
-
+## What this code means
 E01 on the Rational iCombi Classic is not a single fixed fault. It appears in the calibration error family, where the number identifies the calibration step that failed rather than pointing to one broken part. The exact meaning depends on which self-test or manual calibration step the unit reached when the fault occurred.
 
 Common underlying problems include the unit being too hot during calibration (sensors above 40°C), a faulty or loose differential pressure sensor, fan motor rpm detection faults, and steam heating failures. Because the number is tied to a specific step, you need to verify the unit state and work through the relevant circuits in order.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,7 +71,6 @@ Compiled from manufacturer service manuals and authorized documentation.
 | Service (E) 110 | CleanJet failed | An error occurred during the automatic clean, commonly traced to the SC pump or level electrode. | Complete/abort the clean program. Have a technician check the pump and level electrode for scale or failure. |
 | Service (E) 120 | CleanJet failed | An error occurred during the automatic clean, commonly traced to the care/level pump or level electrode. | Complete/abort the clean program. Have a technician inspect and descale or replace the level electrode and check the pump. |
 
-
 ## How to troubleshoot Icombi Classic E01 Error
 
 On a commercial combi oven like the Rational iCombi Classic, work the fault in a fixed order: read the exact code, note the unit state, then check the simple external causes before opening the unit. Confirm the water supply shut-off valve is open and pressure is adequate, the drain is clear, and the gas line (on gas models) is on. Many "faults" are really a starved water inlet, a blocked drain, or a hot cabinet, not a failed part.
@@ -84,7 +80,6 @@ Temperature-related codes are the most common false alarm. If a self-test or cal
 The next tier is water-side wear. Scale build-up drives a large share of steam generator, level-electrode, CDS flow, and CleanJet codes on hard-water sites. Descaling, checking the level electrode, and verifying flow through the SC/waste-water pump resolve many of these before any board or sensor is replaced. Sensor codes (the 20.x family) point to a specific thermocouple by suffix, so test the identified probe rather than swapping parts blindly.
 
 Know when to stop. Rational's own guidance is that all error messages should go to a certified RATIONAL Service Partner, and the steam, gas, ignition, and rpm-detection circuits need model-specific test equipment and knowledge of the control architecture. Anything involving gas supply, ignition, or high-voltage steam heating is a licensed-technician job. Have the unit serial number ready before you call.
-
 
 ## Frequently asked questions
 
@@ -108,11 +103,9 @@ You can safely handle the basics: verify water and gas supply, clear the drain, 
 
 Have the exact Service (E) code and on-screen wording, the unit serial number and software version (available in the unit data menu), and whether the fault appeared during cooking, a self-test/calibration, or a CleanJet cycle. That lets the technician arrive with the right probe, pump, valve, or board and avoids unnecessary part swaps.
 
-
 ## Related guides
 
 - [Hobart Dishwasher Error Codes](/posts/hobart-dishwasher-error-codes/)
 - [Frymaster Fryer Error Codes](/posts/frymaster-fryer-error-codes/)
 - [Manitowoc Indigo Nxt Complete Guide](/posts/manitowoc-indigo-nxt-complete-guide/)
 - [Rational Combi Oven Error Codes](/posts/rational-combi-oven-error-codes/)
-

@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Touchpad / Keypad Assembly"
 ---
 
-## Maytag Range Lock Error Code — What It Means
-
+## What this code means
 When your Maytag range displays LOC, Lock, or Locked, the control panel has entered Control Lock mode. This is not a fault code. The lock feature disables the user interface so accidental button presses during cleaning or around children do not change settings. The display will show LOC when you try to press buttons, and the oven will ignore your commands until you unlock it.
 
 Maytag provides a specific unlock procedure for each model. Most ranges unlock by pressing and holding the START or ENTER button for five seconds. Some models require you to press Cancel instead. If the lock display appears unexpectedly or will not clear using the normal unlock sequence, a stuck keypad button, a control board glitch, or a recent power interruption may be holding the control in lock mode.
@@ -25,8 +24,6 @@ Maytag provides a specific unlock procedure for each model. Most ranges unlock b
 ## Before You Replace Anything
 
 Homeowners sometimes replace the electronic control board when the range is simply in Control Lock mode. Always try the unlock button sequence and a one-minute power reset at the breaker before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

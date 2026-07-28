@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Yaskawa GA800 F037 Fault — What It Means
-
+## What this code means
 The F037 fault code does not appear in Yaskawa's GA800 VFD technical manual or official fault code listings. The GA800 uses fault prefixes like OC (Overcurrent), OV (Overvoltage), LP (Low Pressure), CrST (Cannot Reset), and bUS (Option Communication), but numeric codes in the F001-F999 format are not part of the standard GA800 fault register.
 
 If you see F037 on your display, it may be a misread of a different code (such as OC037 or F370), a firmware-specific error from a different Yaskawa drive model (GA500, E7, or a servo system), or a custom application error. The most common faults that technicians mistake for F037 are CrST (Cannot Reset, which occurs when a run command is still active during reset) and OC faults (Overcurrent due to ground faults, PID feedback oscillation, or mechanical coupling issues). Always verify the exact code using the Modified Parameter or Fault Log menu on the GA800 display before proceeding with diagnostics.
@@ -29,8 +28,6 @@ If you see F037 on your display, it may be a misread of a different code (such a
 ## Before You Replace Anything
 
 Technicians often replace motors or encoders assuming an overcurrent fault without first checking for loose mechanical couplings or ground faults. A megger test on motor leads (should read above 1 megohm) and a visual inspection of encoder and motor-to-load couplings can identify the real cause before spending on hardware.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

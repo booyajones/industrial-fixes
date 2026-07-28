@@ -16,8 +16,7 @@ money_part: "Main control board (electronic control)"
 part_price: "$80-250"
 ---
 
-## Frigidaire E95 Error Code — What It Means
-
+## What this code means
 The E95 error code on Frigidaire front-load washers indicates a communication failure between the central control board (CCU, also called the display board) and the motor control board (MCU). These two boards exchange signals continuously during a wash cycle. When the communication link breaks down due to a wiring fault or board failure, the washer halts and displays E95.
 
 This is not a sensor or temperature fault. It points to the electronic control system itself. The machine cannot run safely when its brain cannot talk to its motor controller, so it locks out until the communication path is restored.
@@ -25,8 +24,6 @@ This is not a sensor or temperature fault. It points to the electronic control s
 ## Before You Replace Anything
 
 Many people replace the main control board first without checking the wire harnesses. Inspect and reseat every connector between the top control panel and the lower motor area before buying any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

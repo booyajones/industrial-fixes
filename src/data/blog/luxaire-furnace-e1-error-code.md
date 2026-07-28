@@ -13,11 +13,8 @@ money_part: "Hot surface ignitor"
 most_likely_cause: "Ignition failure chain"
 ---
 
-## Luxaire Furnace E1 Error Code — What It Means
-
+## What this code means
 Luxaire is a York-branded product line (both are owned by Johnson Controls/Bosch), and Luxaire furnaces share the same control systems and fault codes as York. On Luxaire furnaces with LED display panels, E1 indicates a system lockout — the control board has exhausted its retry attempts after repeated ignition failures and has locked the unit out to prevent unburned gas accumulation. The furnace will not attempt to restart until the lockout is cleared manually. E1 is the control board's final state after multiple consecutive faults, not a first-attempt failure.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,11 +46,3 @@ Luxaire is a York-branded product line (both are owned by Johnson Controls/Bosch
 ## When to Call a Pro
 
 If E1 returns within one or two heat cycles after clearing, the root fault isn't fully resolved or there's a more complex issue (cracked heat exchanger, intermittent gas valve). A licensed HVAC technician can attach a service analyzer to the control board to read real-time fault data during the heating sequence, identifying the exact failure point without guessing.
-
-## Related Articles
-
-- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
-- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
-- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

@@ -19,8 +19,7 @@ free_checks:
   - "Measure input voltage phase balance across all three input phases (must be within 3 percent)"
 ---
 
-## Danfoss FC302 VFD AL-119 Fault — What It Means
-
+## What this code means
 The fault code AL-119 does not appear in official Danfoss FC302 VLT AutomationDrive documentation. Danfoss FC 301/302 alarms range from AL 1 to AL 43. This code is likely a misreading of AL 13 (output current exceeds limit), AL 38 (internal fault), or a transcription error from a different source. AL 13 is the most common overcurrent fault, triggered when drive output current exceeds the peak current limit (typically 200 to 250 percent of rated motor current) during normal operation or acceleration.
 
 If the intended fault is AL 38, it indicates a control board failure, memory error, or firmware corruption. Check parameter 15-32 for extended diagnostic sub-codes (ranging from 5376 to 65535) that provide additional detail. The steps below assume AL 13 as the most probable intended code.
@@ -28,8 +27,6 @@ If the intended fault is AL 38, it indicates a control board failure, memory err
 ## Before You Replace Anything
 
 Technicians often replace the entire inverter board when AL 13 appears, but the fault is frequently caused by incorrect parameter 1-24 (motor nominal current) settings or a mechanical overload on the motor shaft. Always verify motor nameplate current matches parameter 1-24 and disconnect the motor to test the drive unloaded before replacing power components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if the fault appears with the motor disconnected, if you are not trained in high-voltage DC bus safety, or if IGBT testing and inverter board replacement are beyond your skill level. Work on VFD power sections requires understanding of DC bus capacitor discharge time (at least 5 minutes), proper grounding, and board-level diagnostics. If parameter changes and motor checks do not clear the fault, professional diagnosis with oscilloscope and current-probe tools is the fastest path to identifying failed power components or control board issues.
 
 **Rough cost:** A pro service call runs about $300-800.
-
-## See Also
-
-- [Danfoss FC302 AL-121 - Causes & Fix](/posts/danfoss-fc302-vfd-al-121-fault-code/)
-- [Danfoss FC302 AL-75 - Causes & Fix](/posts/danfoss-fc302-vfd-al-75-fault-code/)
-- [Danfoss FC302 AL-103 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-103-fault-code/)
-- [Danfoss FC302 AL-124 - Causes & Fix](/posts/danfoss-fc302-vfd-al-124-fault-code/)

@@ -19,8 +19,6 @@ When your Amana washer shakes or makes loud noise during the spin cycle, the mac
 
 The symptom can come from something simple like overloaded or unevenly distributed laundry, or from mechanical issues like worn suspension parts, a loose inner tub, or damaged bearings. If the spin light is flashing, Amana also recommends checking the drain hose for kinks, blockages, or incorrect installation depth in the standpipe.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Unbalanced or overloaded laundry** An uneven load or too many clothes in the basket is one of the most common causes of shaking during spin.
@@ -63,7 +61,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Amana Washer F8 E1 error code](/posts/amana-washer-f8-e1-error-code/)
 - [Amana Washer F8 E2 error code](/posts/amana-washer-f8-e2-error-code/)
 - [Amana Washer F9 E1 error code](/posts/amana-washer-f9-e1-error-code/)
-- [Amana Washer Fd error code](/posts/amana-washer-fd-error-code/)
+- Amana Washer Fd error code
 - [Amana Washer Hc error code](/posts/amana-washer-hc-error-code/)
 - [Amana Washer Ldl error code](/posts/amana-washer-ldl-error-code/)
 - [Amana Washer Ldu error code](/posts/amana-washer-ldu-error-code/)

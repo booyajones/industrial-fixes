@@ -17,8 +17,7 @@ money_part: "Samsung dryer lint screen / lint filter"
 part_price: "$15-80"
 ---
 
-## Samsung Dryer HC Error Code — What It Means
-
+## What this code means
 The HC error code on a Samsung dryer indicates a high-temperature or overheating safety condition. Samsung groups HC, hE, HC4, and 1 HC together as heating errors that signal the dryer has detected it is running too hot and needs immediate attention or time to cool down. This is not a generic compressor fault. It is a heating error triggered when internal temperature sensors detect conditions outside safe operating range.
 
 The code will appear on the display panel and the dryer may stop mid-cycle to prevent damage. Samsung's support guidance emphasizes that restricted airflow from lint buildup or vent blockage is the primary trigger, and on electric dryers low voltage supply can also contribute to abnormal heating behavior. The dryer will need service or correction of the underlying cause before normal operation resumes.
@@ -27,31 +26,13 @@ The code will appear on the display panel and the dryer may stop mid-cycle to pr
 
 Many people replace the heating element or control board first, but a shorted heating element to chassis can be confirmed with a simple multimeter test. Any measurable resistance (such as 4 or 9 ohms) between the element terminals and the metal chassis indicates a failed element. Check airflow and test the element before ordering expensive boards.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Clogged lint screen or blocked vent (~50%)** Lint buildup in the screen, trap housing, or exhaust duct restricts airflow and causes heat to accumulate inside the drum, triggering the overheating sensor.
-- **Faulty thermistor or temperature sensor (~20%)** The sensor that monitors drum temperature may drift out of specification or fail intermittently, sending false high-temperature signals to the control board.
-- **Shorted heating element (~15%)** The heating element can develop a short to the chassis, causing uncontrolled heat output and tripping the overheating protection.
-- **Low voltage supply on electric dryers (~10%)** Inadequate or fluctuating power from improper circuit sizing, extension cords, or poor outlet connections can lead to erratic heating behavior and overheating conditions.
-- **Overloaded drum or poor load distribution (~5%)** Overfilling the drum or bunching heavy wet items together restricts airflow inside the dryer and allows localized hot spots to form.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Is the lint screen clean and the exhaust vent hose free of kinks or blockage?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Airflow is likely adequate. Move on to testing the thermistor and heating element for electrical faults.<br><strong>No:</strong> Clean the lint screen thoroughly, inspect and clear the entire vent path, then run a short test cycle to see if the code clears.</div>
-</details>
-
-<details class="dtree"><summary>Does the code appear immediately on startup, even with no heat cycle yet?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The thermistor or control board may be reporting a fault before heating begins. Test the thermistor resistance against your model's service data.<br><strong>No:</strong> The overheating is likely happening during the heating cycle. Check the heating element for a short to chassis and verify the drum load is not too full.</div>
-</details>
-
-<details class="dtree"><summary>When you test the heating element terminals to the dryer chassis with a multimeter set to ohms, do you read infinity (no continuity)?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The element is not shorted to ground. Check the thermistor, wiring connections, and control board next.<br><strong>No:</strong> Any measurable resistance to chassis (such as 4 or 9 ohms) means the element is shorted and must be replaced.</div>
-</details>
+- **Clogged lint screen or blocked vent** Lint buildup in the screen, trap housing, or exhaust duct restricts airflow and causes heat to accumulate inside the drum, triggering the overheating sensor.
+- **Faulty thermistor or temperature sensor** The sensor that monitors drum temperature may drift out of specification or fail intermittently, sending false high-temperature signals to the control board.
+- **Shorted heating element** The heating element can develop a short to the chassis, causing uncontrolled heat output and tripping the overheating protection.
+- **Low voltage supply on electric dryers** Inadequate or fluctuating power from improper circuit sizing, extension cords, or poor outlet connections can lead to erratic heating behavior and overheating conditions.
+- **Overloaded drum or poor load distribution** Overfilling the drum or bunching heavy wet items together restricts airflow inside the dryer and allows localized hot spots to form.
 
 ## Step-by-Step Fix {#fix}
 
@@ -77,5 +58,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a qualified appliance technician if the HC code persists after you have thoroughly cleaned the lint screen and vent system, confirmed proper supply voltage, and tested the thermistor and heating element. If you are uncomfortable working with 240-volt electric dryer circuits, measuring component resistance with a multimeter, or opening cabinet panels to access internal wiring and sensors, professional diagnosis is the safer choice. Technicians have model-specific service manuals, wiring diagrams, and the tools to isolate faults in the control board, heat relay, and sensor networks that are difficult to test without experience. Samsung also directs customers to its authorized service centers when basic airflow and power checks do not resolve the error.
-
-**Rough cost:** DIY runs about $15–80 in parts (thermistor or element), 30–90 min. A pro service call runs about $120–280 for service call and part replacement.

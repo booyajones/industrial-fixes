@@ -135,13 +135,3 @@ This guide covers the four most common Greentherm fault codes and what to do whe
 Any fault that persists after cleaning the flame sensor and verifying gas supply should be evaluated by a licensed plumber or HVAC technician. Gas valve replacement, heat exchanger inspection, and combustion analysis require specialized tools and training. Bosch maintains a network of authorized service agents — use the Bosch Home Comfort service locator at bosch-home.com to find one near you.
 
 > **Pro tip:** Greentherm units installed in garages or near exterior walls in cold climates frequently develop A0 or BB faults in winter due to vent freezing. If your error codes appear only in cold weather, inspect the vent termination for ice formation and consider adding a vent termination cap rated for low-temperature operation.
-
-## Related Articles
-
-- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
-- [Rinnai Error Code 11 — Ignition Failure Fix](/posts/rinnai-error-code-11/)
-- [Rinnai Error Code 12 — Flame Loss Fix](/posts/rinnai-error-code-12/)
-
-<!-- INTERNAL-LINK-AUTO -->
-**Related:** [Bosch dishwasher error codes](/posts/bosch-dishwasher-error-codes/)
-

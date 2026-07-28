@@ -13,11 +13,8 @@ money_part: "Encoder feedback cable"
 most_likely_cause: "Damaged encoder cable"
 ---
 
-## Siemens Sinumerik Alarm 380600 — What It Means
-
+## What this code means
 Siemens Sinumerik alarm 380600 indicates an encoder fault on a servo axis. The format is typically displayed as "380600 [Axis] Encoder 1 fault: signal level too low." This means the SINAMICS drive detected that the encoder signal amplitude has fallen below the minimum required level, which can occur due to encoder hardware failure, cable damage, contamination of the encoder read head, or loss of power to the encoder.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,18 +45,3 @@ Siemens Sinumerik alarm 380600 indicates an encoder fault on a servo axis. The f
 ## When to Call a Pro
 
 Encoder replacement on servo motors and linear scale alignment require precision work. A Siemens-authorized service technician should perform encoder replacement and recalibrate the drive parameters (encoder resolution, direction, offset) to avoid positioning errors.
-
-## Related Articles
-
-- [Siemens Sinumerik 828D Alarm Codes Guide — Complete Diagnostic Reference](/posts/siemens-828d-alarm-codes/)
-- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
-- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)
-- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
-- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)
-
-## See Also
-
-- [Siemens SINAMICS V20 F4 Fault — Inverter Overtemperature Fix](/posts/siemens-sinamics-v20-f4-overtemp/)
-- [Siemens Sinumerik 840D Alarm 25000 — Causes & Fix](/posts/siemens-sinumerik-840d-alarm-25000/)
-- [Siemens S7-300/400 CPU Fault Code Guide](/posts/siemens-s7-cpu-fault-codes/)
-- [Siemens SENTRON 3WL/3VA Fault Codes — Troubleshooting Guide](/posts/siemens-sentron-fault-codes/)

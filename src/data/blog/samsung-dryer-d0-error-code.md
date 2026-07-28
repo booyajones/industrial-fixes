@@ -17,8 +17,7 @@ money_part: "Samsung dryer door switch"
 part_price: "$15-50"
 ---
 
-## Samsung Dryer d0 Error Code — What It Means
-
+## What this code means
 The d0 error code on a Samsung dryer indicates a door problem. The dryer's control board is not receiving a valid "door closed" signal from the door switch or latch circuit. This means the door is open, not fully latched, or the door status is not being sensed correctly by the machine.
 
 The fault is not related to airflow or venting. Samsung groups d0 with door, latch, and sensor-related faults. The dryer will not start or will stop mid-cycle until the control confirms the door is securely closed and the switch circuit is complete.
@@ -26,8 +25,6 @@ The fault is not related to airflow or venting. Samsung groups d0 with door, lat
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when the real problem is a worn or misaligned door latch or a failed door switch. Test continuity through the door-switch circuit with a multimeter first before replacing any electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

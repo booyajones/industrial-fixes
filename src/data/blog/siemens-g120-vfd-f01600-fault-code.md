@@ -13,11 +13,8 @@ money_part: "STO safety relay or contactor"
 most_likely_cause: "STO input wiring fault"
 ---
 
-## Siemens G120 F01600 — What It Means
-
+## What this code means
 F01600 on a Siemens SINAMICS G120 variable frequency drive means 'STOP A initiated' by the drive's Safety Integrated function. This is a safety stop triggered by the internal safety processor, not a motor overload or power stage fault. The drive has detected a condition in the safety monitoring chain that requires it to halt operation immediately. The fault can appear after a failed forced-checking procedure of the safety shutdown path, a monitoring channel defect, or a state mismatch where pulses are suppressed even though Safe Torque Off (STO) is not selected. In some cases, F01600 follows or accompanies fault F01611, which points to a safety channel error.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,10 +44,3 @@ F01600 on a Siemens SINAMICS G120 variable frequency drive means 'STOP A initiat
 ## When to Call a Pro
 
 Call a qualified drives technician or Siemens-certified service provider if you cannot locate the fault trigger using r0949, if F01611 appears alongside F01600, or if the fault returns immediately after you have verified all STO wiring and cycled power. Safety Integrated faults involve redundant processor logic and internal forced-checking routines that require specialized diagnostic tools and knowledge of functional-safety standards. If your process is safety-critical or the drive is part of a certified SIL installation, any repair or troubleshooting must be performed by personnel trained in functional safety to maintain compliance.
-
-## See Also
-
-- [Siemens G120 F01040 - Causes & Fix](/posts/siemens-g120-f01040-fault-code/)
-- [Siemens G120 F01018 - Causes & Fix](/posts/siemens-g120-f01018-fault-code/)
-- [Siemens G120 F01650 - Causes & Fix](/posts/siemens-g120-vfd-f01650-fault-code/)
-- [Siemens G120 F01600 - Causes & Fix](/posts/siemens-g120-f01600-fault-code/)

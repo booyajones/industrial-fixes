@@ -19,8 +19,6 @@ When a Frigidaire washer won't fill with water, the machine is being commanded t
 
 On some Frigidaire top-load and Laundry Center models, a sensor-based fill is normal, so water may not appear immediately and the tub may fill only after the sensing portion of the cycle completes. The symptom can result from external supply problems, mechanical failures in the inlet valve, or internal control and sensing faults that prevent the fill command from executing.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Hot or cold supply faucets closed or partially closed** If either faucet is not fully open, the washer cannot draw enough water to fill properly.

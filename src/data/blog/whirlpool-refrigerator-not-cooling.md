@@ -19,8 +19,6 @@ When a Whirlpool refrigerator stops cooling, the compressor may still be running
 
 Before assuming an internal component has failed, check the basics. Whirlpool's own troubleshooting guidance emphasizes that most no-cool complaints trace back to dirty condenser coils, blocked air vents, poor cabinet clearance, door seal leaks, or incorrect temperature settings. Internal faults in the compressor, evaporator fan, condenser fan, or defrost circuit are real possibilities but come after you rule out airflow and installation problems.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty condenser coils** Dust and lint on the coils at the rear or bottom of the cabinet prevent heat rejection and are the single most common cause of poor cooling.
@@ -55,18 +53,18 @@ Before assuming an internal component has failed, check the basics. Whirlpool's 
 
 Seeing a code on the display? These match this problem:
 
-- [Whirlpool Refrigerator Df error code](/posts/whirlpool-refrigerator-df-error-code/)
-- [Whirlpool Refrigerator E0 error code](/posts/whirlpool-refrigerator-e0-error-code/)
-- [Whirlpool Refrigerator E1 error code](/posts/whirlpool-refrigerator-e1-error-code/)
-- [Whirlpool Refrigerator E2 error code](/posts/whirlpool-refrigerator-e2-error-code/)
-- [Whirlpool Refrigerator E3 error code](/posts/whirlpool-refrigerator-e3-error-code/)
-- [Whirlpool Refrigerator E4 error code](/posts/whirlpool-refrigerator-e4-error-code/)
-- [Whirlpool Refrigerator E5 error code](/posts/whirlpool-refrigerator-e5-error-code/)
-- [Whirlpool Refrigerator E6 error code](/posts/whirlpool-refrigerator-e6-error-code/)
-- [Whirlpool Refrigerator E9 error code](/posts/whirlpool-refrigerator-e9-error-code/)
-- [Whirlpool Refrigerator Po error code](/posts/whirlpool-refrigerator-po-error-code/)
-- [Whirlpool Refrigerator Sy Ce error code](/posts/whirlpool-refrigerator-sy-ce-error-code/)
-- [Whirlpool Refrigerator Sy Ef error code](/posts/whirlpool-refrigerator-sy-ef-error-code/)
+- Whirlpool Refrigerator Df error code
+- Whirlpool Refrigerator E0 error code
+- Whirlpool Refrigerator E1 error code
+- Whirlpool Refrigerator E2 error code
+- Whirlpool Refrigerator E3 error code
+- Whirlpool Refrigerator E4 error code
+- Whirlpool Refrigerator E5 error code
+- Whirlpool Refrigerator E6 error code
+- Whirlpool Refrigerator E9 error code
+- Whirlpool Refrigerator Po error code
+- Whirlpool Refrigerator Sy Ce error code
+- Whirlpool Refrigerator Sy Ef error code
 
 ## When to Call a Pro
 

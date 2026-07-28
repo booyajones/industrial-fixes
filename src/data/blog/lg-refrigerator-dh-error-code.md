@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "LG refrigerator defrost heater"
 ---
 
-## LG Refrigerator dH Error Code — What It Means
-
+## What this code means
 The LG dH / FdH / rdH / Er dH code means the refrigerator detected a defrost failure. The evaporator area did not reach the expected defrost temperature within the allowed time, so the unit flagged a frost-removal problem rather than a general cooling fault. LG says this code appears when ice accumulation, a blocked drain hole, a disconnected temperature fuse, a disconnected heater, or a main PCB failure prevents the evaporator from warming up during the defrost cycle.
 
 This is not a compressor or cooling-system fault. It means the automatic defrost sequence could not melt frost off the evaporator coil. If the code is ignored, ice will continue to build, blocking airflow and eventually preventing the refrigerator and freezer from cooling properly.
@@ -25,8 +24,6 @@ This is not a compressor or cooling-system fault. It means the automatic defrost
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first. Instead, manually defrost the unit fully and inspect the defrost heater and sensor/fuse for continuity before replacing any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable working inside the freezer compartment, handling live AC voltage during diagnostic tests, or interpreting ohm-meter readings on heaters and sensors. A technician has the service manual, the correct resistance tables for your model, and the tools to safely enter diagnostic mode and measure board outputs. If the fault returns after manual defrost or if you see no obvious ice blockage, the repair requires electrical verification of the defrost circuit and possibly a control-board replacement, both of which are best left to a qualified appliance technician.
 
 **Rough cost:** A pro service call runs about $150–350 depending on the part (heater, sensor/fuse, or board) and labor.
-
-## See Also
-
-- [LG Mini-Split CH34 Error Code — Causes & Fix](/posts/lg-mini-split-ch34-error-code/)
-- [LG Washer tE Error Code - Causes & Fix](/posts/lg-washer-te-error-code/)
-- [LG Range SE Error Code - Causes & Fix](/posts/lg-range-se-error-code/)
-- [LG Microwave F16 Error - Causes & Fix](/posts/lg-microwave-f16-error-code/)

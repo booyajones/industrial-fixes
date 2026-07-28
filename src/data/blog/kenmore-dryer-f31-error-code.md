@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Kenmore Dryer F31 Error Code — What It Means
-
+## What this code means
 The F31 error code on Whirlpool-built Kenmore electric dryers indicates a power-supply fault, specifically a low or missing L2 leg of the incoming 240-volt supply. The control has detected that the heater is not receiving proper voltage from one of the two hot legs feeding the dryer. This is not a venting, airflow, or temperature-sensor code. It is strictly an electrical supply issue.
 
 Electric dryers require a full 240-volt supply from two separate hot legs (L1 and L2) on a dedicated 30-amp circuit. When the L2 leg is absent, too low, or not reaching the heater circuit properly, the control posts F31. The dryer may still tumble (since the motor can run on 120 volts from L1 alone), but it will not heat. Common triggers include one tripped breaker in a two-pole circuit, a loose or miswired power-cord connection at the terminal block, a damaged cord or outlet, or an upstream wiring fault in the home.
@@ -26,8 +25,6 @@ Electric dryers require a full 240-volt supply from two separate hot legs (L1 an
 ## Before You Replace Anything
 
 Homeowners sometimes replace the heating element or thermal fuse when the dryer won't heat, but F31 explicitly points to a power-supply problem. Before buying any parts, verify full 240-volt supply at the outlet and the dryer terminal block with a multimeter.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

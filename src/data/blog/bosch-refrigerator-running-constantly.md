@@ -19,8 +19,6 @@ A Bosch refrigerator running constantly means the compressor and fans never shut
 
 You may not see an error code at all. Some models display E06 for cooling errors or E01/E02 for sensor faults, but the core problem is the same. The unit is trying to reach the set temperature and failing, or it thinks it has not reached that point even when it has.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Worn door seal (gasket)** The rubber gasket around the door is cracked or loose, letting warm air leak in constantly and preventing the fridge from reaching the set temperature.
@@ -55,12 +53,12 @@ You may not see an error code at all. Some models display E06 for cooling errors
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Bosch Refrigerator E01 error code](/posts/bosch-refrigerator-e01-error-code/)
+- Bosch Refrigerator E01 error code
 - [Bosch Refrigerator E02 error code](/posts/bosch-refrigerator-e02-error-code/)
-- [Bosch Refrigerator E03 error code](/posts/bosch-refrigerator-e03-error-code/)
-- [Bosch Refrigerator E10 error code](/posts/bosch-refrigerator-e10-error-code/)
-- [Bosch Refrigerator E11 error code](/posts/bosch-refrigerator-e11-error-code/)
-- [Bosch Refrigerator E15 error code](/posts/bosch-refrigerator-e15-error-code/)
+- Bosch Refrigerator E03 error code
+- Bosch Refrigerator E10 error code
+- Bosch Refrigerator E11 error code
+- Bosch Refrigerator E15 error code
 - [Bosch Refrigerator E20 error code](/posts/bosch-refrigerator-e20-error-code/)
 - [Bosch Refrigerator E21 error code](/posts/bosch-refrigerator-e21-error-code/)
 

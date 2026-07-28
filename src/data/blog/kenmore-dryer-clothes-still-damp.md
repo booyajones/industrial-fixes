@@ -19,8 +19,6 @@ When your Kenmore dryer runs but clothes stay damp, the machine is not removing 
 
 Because Kenmore dryers were built by different manufacturers over the years, the exact fault depends on your model platform. Common related error codes include F28 for moisture sensor faults, F30 or AF for restricted airflow, and F22 for thermistor or temperature-sensing issues. If you see no code at all, the problem is usually mechanical: blocked venting, a dirty sensor strip, or a failed heating component.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged or coated lint screen** A lint screen plugged with lint or fabric-softener residue restricts exhaust flow and prevents proper drying.

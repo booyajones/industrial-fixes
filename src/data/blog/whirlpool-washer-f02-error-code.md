@@ -22,8 +22,7 @@ part_price: "$45-80"
 no_buy_pct: "70%"
 ---
 
-## Whirlpool Washer F02 Error Code — What It Means
-
+## What this code means
 On Whirlpool front-load washers, F02 is a long-drain fault. The control board energizes the drain pump and watches the pressure sensor to confirm the tub empties below the threshold. If the water level does not drop within about 8 minutes, the cycle stops and F02 appears. This is a drainage restriction or pump failure issue, not a random electronics glitch.
 
 Whirlpool groups F02 with F21 as an indication that drain times are longer than expected. The code points to a physical blockage in the drain path, a failed pump, or in rare cases a pressure-sensing problem that prevents the control from seeing that the tub has emptied.
@@ -31,8 +30,6 @@ Whirlpool groups F02 with F21 as an indication that drain times are longer than 
 ## Before You Replace Anything
 
 Many people replace the drain pump when the real cause is a clogged coin trap or kinked hose. Always clean the filter, inspect the hose, and check pump power before ordering a new pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -19,8 +19,6 @@ When your LG washer smells like mildew, it is typically an odor and buildup cond
 
 The smell is not caused by a failed part in most cases. Instead, it signals that laundry habits, ventilation, or drainage are allowing water and soap to sit inside the machine. LG notes that too much detergent, fabric softener buildup, a clogged drain pump filter, or a drain hose inserted too far into the drainpipe can all trap odor-causing residue and prevent the washer from drying properly between loads.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door and detergent drawer kept closed after use** LG states that leaving the door and drawer closed traps moisture inside the drum and dispenser, preventing ventilation and allowing mold to grow.

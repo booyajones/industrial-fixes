@@ -13,13 +13,10 @@ money_part: "Motor cable (if damaged during separate troubleshooting)"
 most_likely_cause: "Requested ID run or calibration"
 ---
 
-## ABB ACS580 A2A1 — What It Means
-
+## What this code means
 A2A1 (auxiliary code 2281) on an ABB ACS580 is not a trip fault. It is an informative warning that tells you current offset and gain measurement calibration will occur at the next drive start. ABB classifies this as a normal calibration message, not evidence of a failed power stage, motor, or wiring problem.
 
 The drive has been commanded or configured to perform a current measurement calibration, typically as part of commissioning, an ID run sequence, or after certain parameter changes. You will see this message appear before the drive completes its calibration at the next startup. It does not indicate overcurrent, earth fault, or motor damage on its own.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ The drive has been commanded or configured to perform a current measurement cali
 ## When to Call a Pro
 
 Call a qualified technician or ABB service if the A2A1 warning does not clear after a normal startup cycle, if calibration fails repeatedly, or if new fault codes appear alongside A2A1. Also call if you are unfamiliar with drive commissioning parameters or if you need to perform an insulation resistance test on the motor and cable. A persistent A2A1 that returns after every power cycle may indicate a parameter configuration issue or a rare current measurement circuit problem that requires factory support or a control board replacement.
-
-## See Also
-
-- [ABB Inverter Fault Code F0001 - Causes & Fix](/posts/abb-inverter-fault-code-f0001/)
-- [ABB ACS580 Fault 3210 — DC Overvoltage Fix](/posts/abb-acs580-fault-3210/)
-- [ABB VFD Fault 5010 — Causes & Fix](/posts/abb-vfd-fault-5010/)
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)

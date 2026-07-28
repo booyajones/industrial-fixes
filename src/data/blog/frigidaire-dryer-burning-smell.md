@@ -19,8 +19,6 @@ A burning smell from your Frigidaire dryer is a symptom, not an error code. Frig
 
 A sharp acrid odor can also mean worn wiring, a failing heating element, or a damaged motor connection. Restricted airflow from a clogged vent or duct causes the dryer to overheat and produce burning odors. Lint near the heater is the most serious cause because it can ignite.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Lint buildup in the cabinet, lint screen, or venting** This is the most common and most serious cause because lint can ignite near the heater or heating element.
@@ -53,18 +51,18 @@ A sharp acrid odor can also mean worn wiring, a failing heating element, or a da
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Frigidaire Dryer Al 01 error code](/posts/frigidaire-dryer-al-01-error-code/)
+- Frigidaire Dryer Al 01 error code
 - [Frigidaire Dryer Al 02 error code](/posts/frigidaire-dryer-al-02-error-code/)
-- [Frigidaire Dryer Al 03 error code](/posts/frigidaire-dryer-al-03-error-code/)
+- Frigidaire Dryer Al 03 error code
 - [Frigidaire Dryer Al 04 error code](/posts/frigidaire-dryer-al-04-error-code/)
-- [Frigidaire Dryer Al 05 error code](/posts/frigidaire-dryer-al-05-error-code/)
-- [Frigidaire Dryer Al 06 error code](/posts/frigidaire-dryer-al-06-error-code/)
-- [Frigidaire Dryer Al 07 error code](/posts/frigidaire-dryer-al-07-error-code/)
-- [Frigidaire Dryer Al 08 error code](/posts/frigidaire-dryer-al-08-error-code/)
+- Frigidaire Dryer Al 05 error code
+- Frigidaire Dryer Al 06 error code
+- Frigidaire Dryer Al 07 error code
+- Frigidaire Dryer Al 08 error code
 - [Frigidaire Dryer Al 09 error code](/posts/frigidaire-dryer-al-09-error-code/)
-- [Frigidaire Dryer Al 10 error code](/posts/frigidaire-dryer-al-10-error-code/)
-- [Frigidaire Dryer Al 11 error code](/posts/frigidaire-dryer-al-11-error-code/)
-- [Frigidaire Dryer Al 12 error code](/posts/frigidaire-dryer-al-12-error-code/)
+- Frigidaire Dryer Al 10 error code
+- Frigidaire Dryer Al 11 error code
+- Frigidaire Dryer Al 12 error code
 
 ## When to Call a Pro
 

@@ -17,8 +17,7 @@ money_part: "GE Range Upper Cooling Fan / Blower Motor Assembly"
 part_price: "$25-80"
 ---
 
-## GE Range F350 Error Code — What It Means
-
+## What this code means
 The F350 code on a GE range signals that the control has detected a problem with the upper cooling fan circuit. Either the fan motor is not receiving power correctly, the blower wheel is obstructed and cannot spin at the expected speed, or the motor itself has failed. This fan cools the electronics inside the range, so the control will flag the fault to prevent overheating damage.
 
 The code typically appears when the control tries to run the fan and either detects no current flow or sees that the wheel is turning too slowly. Common triggers include debris blocking the fan path, loose wiring connections at the motor, or a defective blower motor assembly.
@@ -26,8 +25,6 @@ The code typically appears when the control tries to run the fan and either dete
 ## Before You Replace Anything
 
 Technicians sometimes replace the main control board when the real problem is a $30 blower motor or a piece of insulation wedged in the fan wheel. Always inspect the fan area for obstructions and test the motor leads before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

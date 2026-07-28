@@ -11,15 +11,12 @@ tags:
 description: "Fanuc P/S alarms mean a program or syntax error in the part program. Learn what the P/S number means, how to find the faulted block, and how to fix common syntax errors."
 ---
 
-## Fanuc P/S Alarm — What It Means
-
+## What this code means
 **Fanuc P/S alarms** (Program/Syntax alarms) are the most common alarm type encountered by CNC operators and programmers. A P/S alarm means the Fanuc CNC control has detected something in the part program that it cannot execute — a G or M code it doesn't recognize, a missing required word, a value outside the machine's operating range, or a format the control doesn't support. The machine stops motion immediately at the faulted block.
 
 P/S alarms always include a three-digit number after them (e.g., **P/S ALARM 010**, **P/S ALARM 050**, **P/S ALARM 085**). That number is critical — it identifies the specific type of syntax error and tells you exactly where to look in the program. The alarm display on the MDI panel shows the alarm number, and the cursor in the program editor typically positions itself near the offending block.
 
 P/S alarms appear on all Fanuc control series: 0i, 16i/18i, 21i, 30i/31i/32i, and the newer 0i-F and 30i-B platforms. The alarm numbers and descriptions are consistent across series but a few codes are series-specific — always verify against the alarm list in your control's Operator's Manual.
-
-[Jump to Fix](#fix)
 
 ## Common P/S Alarm Numbers and What They Mean
 
@@ -78,18 +75,3 @@ P/S alarms appear on all Fanuc control series: 0i, 16i/18i, 21i, 30i/31i/32i, an
 ## When to Call a Technician
 
 P/S alarms are programming and format issues, not hardware faults — a qualified CNC programmer or applications engineer should audit the program if the alarm persists after correcting apparent syntax errors. If P/S alarms appear in previously working programs without any edits, check for a failing SRAM battery (the battery that maintains program memory when power is off) or a failing compact flash card. A Fanuc service technician can perform a memory diagnostic and battery replacement.
-
-## Related Articles
-
-- [Fanuc Alarm 414 — Servo Alarm Causes & Fix](/posts/fanuc-alarm-414/)
-- [Fanuc Alarm 401 — Servo Ready Off Fix](/posts/fanuc-alarm-401/)
-- [Fanuc Alarm 300 — APC Battery Alarm Fix](/posts/fanuc-alarm-300/)
-- [Fanuc 0i-MD Alarm Code Guide — Complete Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc Alarm Codes — Complete Diagnostic Guide](/posts/fanuc-alarm-codes/)
-
-## See Also
-
-- [Fanuc M-Series Control Alarm Codes: Complete Guide](/posts/fanuc-m-series-alarm-codes/)
-- [Fanuc Alarm 401 — Servo Axis Overload Fix](/posts/fanuc-alarm-401/)
-- [Fanuc Alarm 460 — Spindle Overload](/posts/fanuc-alarm-460/)
-- [Fanuc Alarm 437 — Servo Following Error 4th Axis Causes & Fix](/posts/fanuc-alarm-437/)

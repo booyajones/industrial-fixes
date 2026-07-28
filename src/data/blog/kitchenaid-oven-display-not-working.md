@@ -20,8 +20,6 @@ A blank KitchenAid oven display is not a fault code by itself. It usually means 
 
 If the unit shows an actual error code like F9 or F9 E0, that points to a miswired electrical outlet or incorrect voltage at the appliance connection. A completely dead display with no codes and no response to button presses after a reset suggests the display board is not receiving power or the main control board has failed.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Hidden clock or display setting active** Some KitchenAid models let you hide the time-of-day display, and the screen stays blank until you restore it by holding Clock Set/Start for about five seconds.
@@ -54,18 +52,18 @@ If the unit shows an actual error code like F9 or F9 E0, that points to a miswir
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kitchenaid Oven A6 error code](/posts/kitchenaid-oven-a6-error-code/)
-- [Kitchenaid Oven Ab error code](/posts/kitchenaid-oven-ab-error-code/)
-- [Kitchenaid Oven Cal error code](/posts/kitchenaid-oven-cal-error-code/)
-- [Kitchenaid Oven F6 E0 error code](/posts/kitchenaid-oven-f6-e0-error-code/)
-- [Kitchenaid Oven F6 E1 error code](/posts/kitchenaid-oven-f6-e1-error-code/)
-- [Kitchenaid Oven F6 E2 error code](/posts/kitchenaid-oven-f6-e2-error-code/)
-- [Kitchenaid Oven F6 E3 error code](/posts/kitchenaid-oven-f6-e3-error-code/)
-- [Kitchenaid Oven F6 E4 error code](/posts/kitchenaid-oven-f6-e4-error-code/)
-- [Kitchenaid Oven F6 E5 error code](/posts/kitchenaid-oven-f6-e5-error-code/)
-- [Kitchenaid Oven F6 E6 error code](/posts/kitchenaid-oven-f6-e6-error-code/)
-- [Kitchenaid Oven F6 E7 error code](/posts/kitchenaid-oven-f6-e7-error-code/)
-- [Kitchenaid Oven F6 E8 error code](/posts/kitchenaid-oven-f6-e8-error-code/)
+- Kitchenaid Oven A6 error code
+- Kitchenaid Oven Ab error code
+- Kitchenaid Oven Cal error code
+- Kitchenaid Oven F6 E0 error code
+- Kitchenaid Oven F6 E1 error code
+- Kitchenaid Oven F6 E2 error code
+- Kitchenaid Oven F6 E3 error code
+- Kitchenaid Oven F6 E4 error code
+- Kitchenaid Oven F6 E5 error code
+- Kitchenaid Oven F6 E6 error code
+- Kitchenaid Oven F6 E7 error code
+- Kitchenaid Oven F6 E8 error code
 
 ## When to Call a Pro
 

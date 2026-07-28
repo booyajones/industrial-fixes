@@ -19,8 +19,6 @@ A Whirlpool dryer that won't stop usually means the drum keeps tumbling past the
 
 Sometimes the dryer appears to run forever because it cannot sense that clothes are dry. In that case the underlying issue is often restricted airflow, which Whirlpool flags with code AF or F4E3. Other times the timer or control board relay sticks closed and the drum simply will not stop on command. Whirlpool's published code list does not include a dedicated "won't stop" code, so diagnosis focuses on the control board, timer contacts, airflow restrictions, and electrical supply.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Restricted airflow or clogged vent** Whirlpool states that AF or F4E3 means the lint screen or exhaust duct is clogged, crushed, kinked, or has too many turns, and the dryer will keep running while the error is present.

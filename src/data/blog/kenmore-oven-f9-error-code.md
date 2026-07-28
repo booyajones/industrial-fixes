@@ -20,8 +20,7 @@ free_checks:
 part_price: "$50–110"
 ---
 
-## Kenmore Oven F9 Error Code — What It Means
-
+## What this code means
 The F9 error on a Kenmore oven is a door-lock or door-latch monitoring fault. The electronic oven control has detected that the lock motor and position switches did not complete the expected sequence during a lock or unlock cycle, or it has found a short or open circuit in the lock feedback wiring. This code is most common on Frigidaire-built Kenmore ranges and appears when the oven tries to engage the self-clean door lock.
 
 The control expects to receive confirmation signals from switches inside the door latch assembly as the motor drives the latch bolt into the locked position. If those signals are out of order, missing, or the circuit is damaged, the control throws F9 and usually halts the self-clean cycle. In some cases a transient control upset after a power interruption can trigger the code even when the hardware is fine.
@@ -30,31 +29,13 @@ The control expects to receive confirmation signals from switches inside the doo
 
 Many people replace the electronic oven control board first. Inspect and test the door latch assembly and its wiring harness before replacing the board, since the lock hardware fails far more often.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Failed or sticking door latch or lock assembly (~50%)** The motor inside the latch housing seizes, the latch bolt binds on its track, or the position feedback switches fail so the control never sees confirmation that the lock completed its travel.
-- **Defective lock motor or position switches (~25%)** The motor windings open or the micro-switches inside the latch housing that report latch position to the control fail or drift out of alignment.
-- **Damaged or loose wiring harness (~15%)** The connector between the door lock assembly and the electronic oven control works loose, or wires break or short from heat or flexing over time.
-- **Electronic oven control board failure (~8%)** After the lock hardware and wiring test good, the control board itself can fail to process the feedback signals correctly or develop internal faults in the lock-monitoring circuit.
-- **Transient control upset (~2%)** A brief power interruption or voltage spike can scramble the control's memory so it reports a lock fault even though no hardware has failed, and a power reset clears the code.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Does the code clear and stay away after you disconnect power at the breaker for five minutes and restore it?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The fault was a transient control upset. Monitor the oven through the next self-clean cycle to confirm the lock operates normally.<br><strong>No:</strong> A hardware fault is present. Move to the next check.</div>
-</details>
-
-<details class="dtree"><summary>Can you hear or see the door latch motor trying to move when you start a self-clean cycle, or does the latch bolt visibly bind or stick?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The latch assembly is likely failing. Replace the door latch assembly and retest.<br><strong>No:</strong> The motor may be dead or the wiring from the control to the latch is open. Check the harness connector and wiring continuity before replacing the latch or control.</div>
-</details>
-
-<details class="dtree"><summary>After replacing the door latch assembly, does the F9 code still appear during a lock or unlock attempt?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The electronic oven control board is faulty. Replace the EOC.<br><strong>No:</strong> The latch assembly was the cause. The repair is complete.</div>
-</details>
+- **Failed or sticking door latch or lock assembly** The motor inside the latch housing seizes, the latch bolt binds on its track, or the position feedback switches fail so the control never sees confirmation that the lock completed its travel.
+- **Defective lock motor or position switches** The motor windings open or the micro-switches inside the latch housing that report latch position to the control fail or drift out of alignment.
+- **Damaged or loose wiring harness** The connector between the door lock assembly and the electronic oven control works loose, or wires break or short from heat or flexing over time.
+- **Electronic oven control board failure** After the lock hardware and wiring test good, the control board itself can fail to process the feedback signals correctly or develop internal faults in the lock-monitoring circuit.
+- **Transient control upset** A brief power interruption or voltage spike can scramble the control's memory so it reports a lock fault even though no hardware has failed, and a power reset clears the code.
 
 ## Step-by-Step Fix {#fix}
 
@@ -77,5 +58,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a pro if you are uncomfortable working with 240-volt wiring at the range terminal block, if the diagnosis requires tracing circuits inside the control board, or if you have replaced the door latch assembly and harness and the F9 code persists. A technician can perform detailed voltage and continuity tests on the lock feedback circuit and safely replace the electronic oven control if needed. Also call a pro if the oven exhibits other error codes at the same time, since multiple faults can point to a broader control or power-supply problem that needs expert diagnosis.
-
-**Rough cost:** DIY runs about $50–120 in parts, 45–90 min. A pro service call runs about $150–300.

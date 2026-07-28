@@ -19,15 +19,12 @@ free_checks:
   - "Check that all manual reset switches or lockout buttons on the control have been reset"
 ---
 
-## Weil-McLain A90 Error — What It Means
-
+## What this code means
 A90 on Weil-McLain boilers is not universal across every model, but on systems that use alphanumeric alarm codes it commonly signals a flame-proving or ignition failure. The control board attempted to light the burner but did not confirm a stable flame, or the flame was lost during the run cycle and the boiler locked out. The exact definition depends on your specific model and control platform, so you must consult your unit's manual and identify the model number and CP number from the rating plate to confirm the meaning. On models using this code, A90 indicates the ignition sequence did not reach or maintain proven flame, resulting in a lockout or fault condition.
 
 ## Before You Replace Anything
 
 Many technicians replace the igniter or flame sensor first without measuring gas pressure. Low inlet pressure or a closed service valve is often the real culprit and costs nothing to check.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a licensed technician immediately if you are not trained to work on gas appliances, if you smell gas, or if you cannot safely access the rating plate and manual. Gas pressure measurement, burner adjustment, flame-sensor diagnosis, and control-board troubleshooting require proper tools and combustion-analyzer testing. Weil-McLain requires the model number and CP number for warranty and parts support, so have that information ready. If the boiler has locked out multiple times, do not keep resetting it. Repeated ignition attempts without a confirmed fix can damage the control or create unsafe conditions. A qualified pro will measure gas pressure, test ignition components, verify flame signal, inspect venting, and consult the correct manual for your specific control platform before replacing parts.
 
 **Rough cost:** A pro service call runs about $150–350.
-
-## See Also
-
-- [Weil-McLain Boiler A166 Error - Causes & Fix](/posts/weil-mclain-boiler-a166-error-code/)
-- [Weil-McLain A82 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a82-error-code/)
-- [Weil-McLain Boiler A08 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a08-error-code/)
-- [Weil-McLain Boiler A120 Error - Causes & Fix](/posts/weil-mclain-boiler-a120-error-code/)

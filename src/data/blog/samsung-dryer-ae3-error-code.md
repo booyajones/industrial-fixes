@@ -17,8 +17,7 @@ money_part: "Main control board / main PCB"
 part_price: "$80-180"
 ---
 
-## Samsung Dryer AE3 Error Code — What It Means
-
+## What this code means
 Samsung lists AE3 together with AE5, E3, AC, Et, and 1 AC as codes that signal internal component communication failure. This means the main control board is not seeing normal communication with the user interface board or another internal module. It is not a venting, temperature, or lint code. The dryer may refuse to start or stop mid-cycle when this fault appears.
 
 The error can be triggered by a transient software glitch after a power interruption, a loose or corroded connector between electronic boards, or a failed control or display board. Because Samsung groups several code variants under the same diagnosis, the exact display may vary by model, but the underlying fault is the same communication breakdown.
@@ -26,8 +25,6 @@ The error can be triggered by a transient software glitch after a power interrup
 ## Before You Replace Anything
 
 Many people replace the main control board first. Check and reseat every connector on the main PCB and UI board before ordering parts, because a loose or corroded pin often mimics a dead board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

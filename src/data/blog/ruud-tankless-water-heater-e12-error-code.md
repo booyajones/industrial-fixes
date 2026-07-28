@@ -13,13 +13,10 @@ money_part: "Flame rod or flame sensor"
 most_likely_cause: "Insufficient gas supply"
 ---
 
-## Ruud Tankless E12 Error Code — What It Means
-
+## What this code means
 The E12 or Code 12 fault on Ruud tankless water heaters means the control board attempted to light the burner but did not detect a stable flame during the ignition sequence. As a safety response, the unit locks out heating to prevent gas flow without combustion. In field terms, this is an ignition prove failure or flame loss at start-up condition.
 
 The heater requires a minimum flow rate of 0.66 GPM to trigger the ignition cycle. If flow is adequate but ignition still fails, the fault typically points to gas supply problems, dirty flame-sensing components, burner contamination, airflow or venting restrictions, or defective ignition parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

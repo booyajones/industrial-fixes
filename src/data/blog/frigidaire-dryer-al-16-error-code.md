@@ -19,8 +19,7 @@ free_checks:
 part_price: "$25-60"
 ---
 
-## Frigidaire Dryer AL-16 Error Code — What It Means
-
+## What this code means
 AL-16 does not appear as a documented fault code in Frigidaire dryer service materials. The most common Frigidaire heat-related codes are E61 (heater relay or control board fault), E63 (heating circuit fault), and E64 (open circuit in the heating system). If your display shows AL-16, verify you are reading it correctly or check your owner's manual for that specific model. The code may be a variation or abbreviation not widely published.
 
 If the actual code is E61, E63, or E64, these point to problems in the heating circuit. E61 typically means a failed relay on the main control board that powers the heater. E63 and E64 usually indicate an open heating element, broken wire, or short to ground in the heater assembly. A hard reset (unplug for a few minutes) is always the first step before diagnosing further.
@@ -28,8 +27,6 @@ If the actual code is E61, E63, or E64, these point to problems in the heating c
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first when seeing heat-related codes. Test the heating element for continuity and check for shorts to ground before replacing any boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,13 +13,10 @@ money_part: "Danfoss FC302 parameter backup module"
 most_likely_cause: "Speed limits set too narrow"
 ---
 
-## Danfoss FC302 Alarm 49 — What It Means
-
+## What this code means
 Alarm 49 on the Danfoss FC302 is a speed-limit warning, not a hardware fault. The drive reports this code when the commanded or actual motor speed falls below the low limit set in parameter 4-11 (Motor Speed Low Limit) or rises above the high limit set in parameter 4-13 (Motor Speed High Limit). It is a configuration issue rather than an overtemperature, overcurrent, or power-stage failure.
 
 The drive continues to protect the application by flagging any speed reference that exceeds the programmed operating window. In most cases the limits were set too narrowly during commissioning, or an external control signal (PID loop, process controller, or manual reference) is pushing the setpoint outside the allowed range. Correcting the speed-limit parameters or reviewing the reference source will clear the warning.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ The drive continues to protect the application by flagging any speed reference t
 ## When to Call a Pro
 
 Call a qualified drives technician or controls engineer if you cannot identify which reference source is commanding the speed outside limits, if the warning persists after widening parameters 4-11 and 4-13, or if you suspect a feedback-device fault rather than a simple configuration issue. A professional can decode the control architecture, verify analog and digital I/O scaling, and check encoder or tachometer wiring when closed-loop speed control is involved. Because Alarm 49 is a process and parameter condition rather than a component failure, most fixes require expertise in VFD programming and industrial control rather than circuit-board repair.
-
-## See Also
-
-- [Danfoss FC302 ALARM 27 - Causes & Fix](/posts/danfoss-fc302-alarm-27-fault-code/)
-- [Danfoss FC302 ALARM 16 - Causes & Fix](/posts/danfoss-fc302-alarm-16-fault-code/)
-- [Danfoss VFD Fault E-Trip — Causes & Fix](/posts/danfoss-vfd-fault-e-trip/)
-- [Danfoss FC302 VFD Alarm 23 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-23-fault-code/)

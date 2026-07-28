@@ -17,8 +17,7 @@ free_checks:
   - "Download the Danfoss FC 302 Programming Guide (Doc ID M0013101) and cross-check the alarm list"
 ---
 
-## Danfoss FC302 AL-111 — What It Means
-
+## What this code means
 The code AL-111 does not exist in the official Danfoss FC302 alarm list. Danfoss FC302 drives use fault codes numbered AL 1 through AL 55. If you see what looks like AL-111 on the display, you are likely misreading a different code, seeing a display artifact, or encountering a custom application message from a third-party device. The most common FC302 alarms that might be confused with AL-111 are AL 13 (Overcurrent), AL 38 (Internal Fault), and AL 47 (STD Bus Timeout).
 
 Before attempting any repair, re-read the display carefully and confirm the exact code. Check if the number is actually AL 13, AL 14, AL 38, or AL 47. If the display is unclear, power-cycle the drive and watch the fault appear again. Consult the official Danfoss VLT AutomationDrive FC 302 Operating Instructions (document ID AQ361181055259) to confirm the exact alarm list for your model.
@@ -26,8 +25,6 @@ Before attempting any repair, re-read the display carefully and confirm the exac
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire power board when they see an overcurrent fault (AL 13), but disconnecting the motor and running the drive unloaded will confirm whether the fault is in the drive or the motor circuit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified electrical technician or VFD specialist immediately if you cannot confirm the exact fault code, if the drive is connected to critical machinery, or if you lack experience working with high-voltage DC bus capacitors. The FC302 operates at mains voltage (up to 480 VAC three-phase) and stores lethal DC voltage in the bus capacitors even after power is removed. Any work beyond verifying the display or swapping an LCP keypad requires lockout/tagout procedures, proper PPE, and a digital multimeter to confirm the DC bus is below 50 volts before touching internal components. If the fault involves the power board, gate drivers, or control PCB, replacement requires torque specifications for bus bar connections and firmware parameter backup. A professional can also contact Danfoss technical support directly with your drive serial number to verify whether AL-111 is a custom fault added by your system integrator.
 
 **Rough cost:** A pro service call runs about $300-800.
-
-## See Also
-
-- [Danfoss FC302 ALARM 53 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-53-fault-code/)
-- [Danfoss VFD Fault OCL — Causes & Fix](/posts/danfoss-vfd-fault-ocl/)
-- [Danfoss FC302 Alarm 13 - Causes & Fix](/posts/danfoss-fc302-vfd-al-137-fault-code/)
-- [Danfoss FC302 Alarm 36 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-36-fault-code/)

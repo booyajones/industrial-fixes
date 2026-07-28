@@ -20,8 +20,7 @@ free_checks:
 part_price: "$50-100"
 ---
 
-## Frigidaire F90 Error Code — What It Means
-
+## What this code means
 The F90 code on a Frigidaire range or oven indicates a door lock issue. The electronic oven control (EOC) sent a command to lock or unlock the door, but the lock assembly did not complete the cycle within the allowed time. Frigidaire groups F90 through F94 as door lock faults in its official error-code guide.
 
 This fault typically appears during or after a self-clean cycle, when the oven tries to lock or unlock the door automatically. The code means the lock motor, latch, switch, or wiring between the control board and the lock assembly has failed or is obstructed. It is a mechanical and electrical problem in the lock circuit, not a general control-board error.
@@ -30,31 +29,13 @@ This fault typically appears during or after a self-clean cycle, when the oven t
 
 Many people replace the electronic oven control board first, assuming it is a board fault. Before replacing the EOC, inspect the lock assembly for binding, test the lock motor windings (around 2,000 ohms across the motor is typical), and check the wiring harness for loose or corroded connectors.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Failed door lock motor or assembly (~50%)** The lock motor winding is open or the motor cannot move the latch rod due to internal wear or a stripped cam.
-- **Binding or obstruction in the latch mechanism (~25%)** Grease buildup, a bent latch rod, broken cam, or misaligned door prevents the lock from completing its travel and signaling the EOC.
-- **Damaged or loose wiring between EOC and lock (~15%)** Corroded or disconnected connectors, frayed wires, or an open circuit in the harness interrupt the lock motor power or position feedback.
-- **Defective door lock switch or feedback circuit (~7%)** The position switch that tells the EOC the door is locked or unlocked has failed or is out of adjustment.
-- **Defective electronic oven control board (EOC) (~3%)** The control board itself has failed and cannot drive or read the lock circuit, but only after all mechanical and wiring checks pass.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>After a 30-second power reset, does the F90 code clear and the oven operate normally?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The fault was a transient glitch. Monitor the oven over the next few cycles. If the code returns, proceed with mechanical and wiring checks.<br><strong>No:</strong> The fault is persistent. Move to the next check.</div>
-</details>
-
-<details class="dtree"><summary>With the power off, can you move the door lock latch rod smoothly by hand without binding or resistance?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The latch mechanism is mechanically sound. Check the wiring and test the lock motor windings and switch.<br><strong>No:</strong> The latch, cam, or rod is binding or broken. Clean, lubricate, or replace the lock assembly.</div>
-</details>
-
-<details class="dtree"><summary>Are all wiring connectors at the lock assembly and the EOC fully seated, clean, and free of corrosion?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Wiring is good. Test the lock motor and switch. If both test good, suspect the EOC.<br><strong>No:</strong> Clean or repair the connectors and retest. Damaged wiring may need replacement.</div>
-</details>
+- **Failed door lock motor or assembly** The lock motor winding is open or the motor cannot move the latch rod due to internal wear or a stripped cam.
+- **Binding or obstruction in the latch mechanism** Grease buildup, a bent latch rod, broken cam, or misaligned door prevents the lock from completing its travel and signaling the EOC.
+- **Damaged or loose wiring between EOC and lock** Corroded or disconnected connectors, frayed wires, or an open circuit in the harness interrupt the lock motor power or position feedback.
+- **Defective door lock switch or feedback circuit** The position switch that tells the EOC the door is locked or unlocked has failed or is out of adjustment.
+- **Defective electronic oven control board (EOC)** The control board itself has failed and cannot drive or read the lock circuit, but only after all mechanical and wiring checks pass.
 
 ## Step-by-Step Fix {#fix}
 
@@ -78,5 +59,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a professional if you are uncomfortable working inside the range with power disconnected, if the lock assembly is difficult to access or requires disassembly of the door or inner panels, or if you have tested the lock motor and wiring and suspect the EOC needs replacement. A qualified appliance technician has the wiring diagrams, meter skills, and experience to diagnose feedback-switch faults and to confirm the EOC is at fault before replacing it. If the range is still under warranty or if you lack a multimeter and basic hand tools, professional service is the safer choice.
-
-**Rough cost:** DIY runs about $50-120 in parts, 45-90 min. A pro service call runs about $150-300.

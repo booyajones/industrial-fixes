@@ -13,11 +13,8 @@ money_part: "Navien main PCB / control board"
 most_likely_cause: "Failed main PCB"
 ---
 
-## Navien E515 Error Code — What It Means
-
+## What this code means
 Error code E515 (or 515-09) on your Navien tankless water heater means the control board has detected a fault in its own operation or communication path. The unit may lock out to protect itself. Some models display subcodes that point to specific circuits like the ignitor, fan motor, monitoring device, or dual venturi assembly. Because this is an internal control fault, the heater typically stops heating until the problem is cleared or the defective component is replaced.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ Error code E515 (or 515-09) on your Navien tankless water heater means the contr
 ## When to Call a Pro
 
 Call a licensed plumber or Navien-certified technician if you are uncomfortable working with 120V or 240V electrical components, if the error returns after reseating connectors and power-cycling, or if you lack the tools to safely remove and replace the control board. PCB replacement requires matching the exact board revision to your model and may involve firmware considerations. If your unit is under warranty, contact Navien or your installer before attempting any repair to avoid voiding coverage.
-
-## See Also
-
-- [Navien Error Code E013 — Causes & Fix](/posts/navien-error-code-e013/)
-- [Navien E594 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e594-error-code/)
-- [Navien NCB Combi Boiler Error Codes — Complete Fault Guide](/posts/navien-ncb-error-codes/)
-- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)

@@ -19,8 +19,6 @@ A Bradford White water heater leaking is a physical symptom, not an error code. 
 
 The exact meaning depends on where the water is coming from. If the T&P valve is discharging, the heater may be running too hot or building excessive pressure. If the tank seam or base is wet, the steel tank has corroded through and the heater must be replaced. Drain valve and fitting leaks are component problems that can be fixed in the field.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **T&P relief valve discharging or leaking** The temperature and pressure relief valve opens when it reaches its rated setpoint, or it may leak early from a bad seal or debris on the seat.

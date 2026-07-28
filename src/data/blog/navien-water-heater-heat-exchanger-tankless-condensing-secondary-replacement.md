@@ -52,10 +52,3 @@ When scale builds up or the exchanger fails, the unit detects abnormal temperatu
 ## When to Call a Pro
 
 If you are not comfortable working with natural gas or propane connections, call a licensed plumber or gas technician. Any work that involves disconnecting gas piping, adjusting burner settings, or verifying combustion and venting after reassembly is best left to a professional who can perform a combustion analysis and leak test. Also call a pro if your unit is still under warranty, because self-service may void coverage, or if you encounter corroded fittings, damaged vent terminals, or control board faults that appear alongside the heat exchanger problem. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Navien E030 Error Code — Causes & Fix](/posts/navien-error-code-e030/)
-- [Navien E110 Error Code - Causes & Fix](/posts/navien-tankless-e110-error-code/)
-- [Navien Error Code E021 — Cold Water Inlet Thermistor Fault Fix](/posts/navien-error-code-e021/)
-- [Navien E005 Error Code - Causes & Fix](/posts/navien-tankless-e005-error-code/)

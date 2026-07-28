@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Manitowoc Ice Machine E05 Error — What It Means
-
+## What this code means
 E05 on Manitowoc ice machines signals a high-pressure or high-discharge-temperature fault in the refrigeration system. The exact label varies by model family. Some units display E05 as High Pressure Control, while others call it High Discharge Temperature, but both indicate the compressor or condenser side is running too hot or cannot reject heat properly. The machine locks out to protect the compressor from damage.
 
 The fault is most often triggered by restricted airflow around the condenser, a failed condenser fan, or on water-cooled units by loss of condenser water flow. Less commonly, low refrigerant charge or a defective high-pressure switch can cause the code. Because E05 behavior varies across Manitowoc model families, consult your specific service manual to confirm the exact definition and recommended trip points for your machine.
@@ -29,8 +28,6 @@ The fault is most often triggered by restricted airflow around the condenser, a 
 ## Before You Replace Anything
 
 Technicians sometimes replace the high-pressure switch or add refrigerant first. Clean the condenser coil, verify the fan runs, and check water flow (on water-cooled models) before replacing any refrigeration component.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -80,10 +77,3 @@ Answer these to narrow it down fast.
 Call a refrigeration technician for E05 faults. The repair involves working with the sealed refrigeration system, testing refrigerant charge, recovering and recharging refrigerant if needed, and diagnosing high-pressure or high-temperature controls. Even cleaning the condenser on a commercial ice machine often requires disassembly of panels and access to electrical circuits that are energized during testing. Water-cooled units add the complexity of water regulator valves and building plumbing that must be tested under operating pressure. A qualified technician has the gauges, refrigerant recovery equipment, and model-specific service manuals to diagnose the fault accurately and restore the machine safely. Attempting refrigerant work or high-voltage diagnostics without training and proper tools risks personal injury, equipment damage, and EPA violations.
 
 **Rough cost:** A pro service call runs about $150–400.
-
-## See Also
-
-- [Manitowoc IY-0454 Error Codes — Fix Guide](/posts/manitowoc-iy-0454-error-codes/)
-- [Manitowoc ID-0322 Error Codes — Fix Guide](/posts/manitowoc-id-0322-error-codes/)
-- [Manitowoc Ice Machine E01 Error Code — Causes & Fix](/posts/manitowoc-ice-machine-error-code-e01/)
-- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)

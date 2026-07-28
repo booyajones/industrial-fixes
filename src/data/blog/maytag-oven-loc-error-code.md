@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "User interface control panel (Maytag oven)"
 ---
 
-## Maytag Oven LOC Error Code — What It Means
-
+## What this code means
 LOC on a Maytag oven is not a failure code. It means the Control Lock feature is enabled. When you see LOC, the oven's control pads are disabled and the oven door is locked to prevent unintended use. The display shows LOC any time you press a button while the control is locked, even though nothing is broken.
 
 If the oven is already cooking, Maytag says the controls and door cannot be locked. This is a safety feature, not a component fault, and under normal conditions it requires no parts or repair.
@@ -25,8 +24,6 @@ If the oven is already cooking, Maytag says the controls and door cannot be lock
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board or user interface thinking LOC is a fault code. Always try the unlock sequence (hold START for 5 seconds) and a power reset before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

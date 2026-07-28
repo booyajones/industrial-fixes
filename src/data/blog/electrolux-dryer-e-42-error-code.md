@@ -17,15 +17,12 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Electrolux Dryer E42 Error Code — What It Means
-
+## What this code means
 The E42 error code indicates a door sensing circuit or door lock device failure. The control board cannot receive a valid signal confirming that the door is completely closed and latched. The system behaves as if the door is open, preventing the dryer from starting the heating cycle or tumbling to protect against unsafe operation. The board does not detect the closed state from the door switch, which is the component responsible for signaling the door latch position.
 
 ## Before You Replace Anything
 
 People often replace the control board first. Test the door switch with a multimeter for continuity when latched. If the switch shows zero ohms when pressed, it is working and the problem is elsewhere.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

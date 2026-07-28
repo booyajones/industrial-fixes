@@ -19,8 +19,6 @@ A Frigidaire dishwasher stuck mid-cycle means the control has stopped advancing 
 
 Frigidaire's own guidance for cycle interruption points first to door closure, Start/Cancel reset behavior, delay start or child lock settings, water supply, and power issues. If the unit stopped after you opened the door, you may simply need to close it and press Start/Cancel again to resume. If it's completely unresponsive or won't progress past a certain point, a hardware failure is blocking the cycle.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door latch or door switch not proving closed** This is the most common cause of mid-cycle stoppage because the control won't advance if the door isn't securely latched and the switch doesn't signal closure.

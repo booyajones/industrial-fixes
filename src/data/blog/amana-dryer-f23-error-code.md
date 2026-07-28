@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Dryer F23 Error Code — What It Means
-
+## What this code means
 The F23 error code signals a failure of the exhaust thermistor, the sensor that monitors air temperature leaving the dryer. The control board has detected an electrically open circuit or a resistance reading outside the valid range. When this happens, the board typically shuts down the heating element to prevent unsafe operation, which means your dryer will run but produce no heat or stop mid-cycle.
 
 The thermistor itself may have failed, but in many cases the root cause is external. Heavy lint buildup in the blower housing or a kinked exhaust hose can trap heat and either damage the sensor or cause it to read incorrectly. Wiring faults at the connector or control board can also trigger this code even when the sensor is healthy.
@@ -26,8 +25,6 @@ The thermistor itself may have failed, but in many cases the root cause is exter
 ## Before You Replace Anything
 
 Many people replace the control board first, but measuring the thermistor resistance with a multimeter (should be around 10,000 Ω at room temperature) and checking for lint buildup isolates the real fault in minutes.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

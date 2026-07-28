@@ -51,10 +51,3 @@ The switch itself can fail by sticking, developing internal damage, or becoming 
 ## When to Call a Pro
 
 If you are not comfortable working with gas appliances, low-voltage control wiring, or combustion venting systems, call a licensed technician. Before replacing the switch, a qualified tech will verify the entire airflow path by inspecting intake and exhaust vents for blockage, testing inducer fan speed and amperage, checking all sensing tubes and harness connections, and performing continuity tests on the switch under operating conditions. Replacing the switch without confirming proper draft and venting will often result in the same fault returning immediately. Professional diagnosis saves time and prevents unnecessary part changes. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Navien E010 Error Code - Causes & Fix](/posts/navien-tankless-e010-error-code/)
-- [Navien E008 Error Code - Causes & Fix](/posts/navien-tankless-e008-error-code/)
-- [Navien E005 Error Code - Causes & Fix](/posts/navien-tankless-e005-error-code/)
-- [Navien NPE-180S2 Problems & Error Codes](/posts/navien-npe-180s2-water-heater-problems/)

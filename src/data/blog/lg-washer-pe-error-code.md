@@ -17,8 +17,7 @@ money_part: "LG washer pressure sensor (water level sensor)"
 part_price: "$10-40"
 ---
 
-## LG Washer PE Error Code — What It Means
-
+## What this code means
 The PE code on an LG washer indicates a water level or pressure sensor detection fault. The control system cannot correctly read the water level in the tub from the pressure-sensing circuit. LG's own support documentation states that the water level sensor is unable to correctly detect the water level.
 
 This fault prevents the machine from knowing how much water is present, so the washer stops mid-cycle to protect against overfilling or underfilling. The pressure sensor reads air pressure in a small tube connected to the tub. When that sensing path is blocked, disconnected, or the sensor itself fails, the PE code appears. Excess moisture or humid installation conditions can also trigger PE on some LG front-load models.
@@ -26,8 +25,6 @@ This fault prevents the machine from knowing how much water is present, so the w
 ## Before You Replace Anything
 
 Many people replace the pressure sensor or control board first. Instead, inspect the pressure hose and connections carefully. Most PE faults are fixed by clearing a kink or reconnecting a loose hose, not by replacing electronic parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

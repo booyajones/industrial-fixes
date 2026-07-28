@@ -17,8 +17,6 @@ tags:
 
 When your Amana dryer shows no power, it means the unit is not receiving usable electrical power or cannot complete a start condition. This is a symptom, not a fault code. If the display shows PF, Amana says that means a power failure interrupted the drying cycle. If it shows L2, that means low or no line voltage from your home supply, often preventing the heater from turning on. If the dryer is completely dead with no display at all, Amana's troubleshooting guidance treats that as a power-supply or startup problem at the source, not an internal control fault.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Tripped breaker or blown fuse** Amana states electric dryers use two household fuses or breakers, and both must be intact for proper operation.
@@ -56,9 +54,9 @@ If your appliance also shows a code on the display, these match this problem:
 - [Amana Dryer F02 error code](/posts/amana-dryer-f02-error-code/)
 - [Amana Dryer F1 E1 error code](/posts/amana-dryer-f1-e1-error-code/)
 - [Amana Dryer F1 E4 error code](/posts/amana-dryer-f1-e4-error-code/)
-- [Amana Dryer F1E3 error code](/posts/amana-dryer-f1e3-error-code/)
-- [Amana Dryer F1E5 error code](/posts/amana-dryer-f1e5-error-code/)
-- [Amana Dryer F20 error code](/posts/amana-dryer-f20-error-code/)
+- Amana Dryer F1E3 error code
+- Amana Dryer F1E5 error code
+- Amana Dryer F20 error code
 - [Amana Dryer F22 error code](/posts/amana-dryer-f22-error-code/)
 - [Amana Dryer F23 error code](/posts/amana-dryer-f23-error-code/)
 - [Amana Dryer F24 error code](/posts/amana-dryer-f24-error-code/)

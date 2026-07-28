@@ -15,8 +15,7 @@ money_part: "Electronic Control Board (ERC or Clock/Timer Board)"
 most_likely_cause: "Misread or partial display"
 ---
 
-## Whirlpool Range AB Error Code — What It Means
-
+## What this code means
 Whirlpool does not publish an "AB" error code in its standard cooking-appliance fault-code charts. The display you see may be a misread of another code (such as "A8" or "F9"), a model-specific code not listed in general documentation, or a partial display caused by a failing control board or keypad. Because the meaning is not confirmed in manufacturer sources, the safest first step is to power-cycle the range at the breaker and confirm the exact characters and model number.
 
 If the code reappears, check your owner's manual or the wiring diagram inside the range's control panel for a model-specific code list. Some Whirlpool ranges do use letter-number combinations to flag electrical supply issues, sensor faults, or control-board communication errors, but without a verified definition for "AB" you should not replace parts until you have confirmed the exact fault.
@@ -24,8 +23,6 @@ If the code reappears, check your owner's manual or the wiring diagram inside th
 ## Before You Replace Anything
 
 Homeowners often replace the electronic control board when an unfamiliar code appears. Before ordering a board, power-cycle the unit for one minute and photograph the exact display. Many codes clear on reset or point to a loose connector rather than a failed board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "GE microwave humidity sensor"
 ---
 
-## GE Microwave F5 Error Code — What It Means
-
+## What this code means
 The F5 error code on GE microwaves indicates that the control board has detected a shorted humidity sensor circuit. According to GE's own fault-code table, this code is programmed into the microwave control to signal a specific electrical condition where the humidity sensor is detected as shorted continuously for more than 5 seconds. This is distinct from oven temperature-sensor faults and specifically maps to the microwave's humidity sensor in GE's error table.
 
 The code triggers when the control sees an electrical short in the humidity-sensor circuit. That short can come from the sensor itself, damaged wiring or connectors leading to the sensor, or in rare cases a fault in the control board's detection circuit. GE recommends this fault be diagnosed by a trained service technician because it requires accessing internal components and testing electrical continuity.
@@ -25,8 +24,6 @@ The code triggers when the control sees an electrical short in the humidity-sens
 ## Before You Replace Anything
 
 Many people replace the control board first when the actual problem is a shorted humidity sensor or damaged wiring. Always ohm-test the sensor and inspect the harness for pinched wires or corroded terminals before ordering a new control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

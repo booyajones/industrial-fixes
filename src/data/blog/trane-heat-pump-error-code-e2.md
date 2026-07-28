@@ -13,11 +13,8 @@ money_part: "Outdoor coil thermistor"
 most_likely_cause: "Failed outdoor coil thermistor"
 ---
 
-## Trane Heat Pump E2 Error Code — What It Means
-
+## What this code means
 Trane heat pump error code **E2** typically indicates an **outdoor coil temperature sensor (thermistor) fault** — the sensor that monitors the outdoor heat exchanger temperature for defrost control has failed or is reading out of range. On Trane communicating systems (ComfortLink II), E2 may also represent a communication fault depending on the specific model and control configuration.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -43,18 +40,3 @@ Trane heat pump error code **E2** typically indicates an **outdoor coil temperat
 | Wire repair kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-heat-pump-error-code-e2&k=Wire+repair+kit&tag=errorcodefixes-20) \| Solder and heat shrink, or weatherproof butt connectors |
 ## When to Call a Pro
 If E2 persists after thermistor and connector work, have a technician verify the outdoor PCB's sensor input. On Trane ComfortLink II communicating systems, E2 as a communication fault requires checking the communication bus and may indicate a failing outdoor unit board.
-
-## Related Articles
-
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-
-## See Also
-
-- [Trane Furnace Error Codes — Complete Flash Code Guide](/posts/trane-furnace-error-codes/)
-- [Trane XV20i Error Code 79 — Causes & Fix](/posts/trane-error-code-79/)
-- [Trane 9 Flashes Error Code — Causes & Fix](/posts/trane-9-flashes-error-code/)
-- [Trane 4 Flashes Error Code — Open High Limit Fix](/posts/trane-4-flashes-error-code/)

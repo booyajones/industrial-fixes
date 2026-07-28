@@ -23,8 +23,6 @@ In a foodservice setting, E01 is urgent because it usually means the machine is 
 
 This article targets the **Manitowoc Indigo series** and also applies to **Manitowoc Q Series and S Series models with Indigo control boards**.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
 - **Dirty condenser coil**. Poor heat rejection slows the refrigeration cycle and stretches freeze time.
@@ -79,10 +77,3 @@ Call a technician if you cleaned the condenser, confirmed water flow, and the fr
 - [Manitowoc Ice Machine E04 Error: High Condenser Temperature](/posts/manitowoc-e04-high-condenser-temp/)
 - [Manitowoc Ice Machine E05 HPC Fault: High Pressure Cutout](/posts/manitowoc-e05-hpc-fault/)
 - [Manitowoc Indigo Error Codes: Complete Guide](/posts/manitowoc-indigo-error-codes/)
-
-## See Also
-
-- [Manitowoc Ice Machine Error Code 8 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-8/)
-- [Manitowoc Ice Machine Error Code 9 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-9/)
-- [Manitowoc IY-0454 Error Codes — Fix Guide](/posts/manitowoc-iy-0454-error-codes/)
-- [Manitowoc Ice Machine E04 Error: High Condenser Temperature Causes and Fix](/posts/manitowoc-e04-high-condenser-temp/)

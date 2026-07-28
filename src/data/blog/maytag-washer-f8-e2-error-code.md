@@ -15,8 +15,7 @@ diy_or_pro: "diy"
 money_part: "Dispenser assembly"
 ---
 
-## Maytag F8 E2 Error Code — What It Means
-
+## What this code means
 The F8 E2 code on Maytag front-load washers signals a dispenser system problem. The washer has detected that the detergent drawer or detergent cartridge is clogged or obstructed, preventing proper detergent dispensing during the cycle.
 
 Maytag defines this code as a fault in the dispenser assembly, typically caused by detergent residue buildup in the drawer, cartridge, or cover. The control board flags the code when the dispenser cannot operate as designed. If you see F8 E2 on a dishwasher or top-load washer, consult your owner's manual, since code meanings vary by appliance type and platform.
@@ -24,8 +23,6 @@ Maytag defines this code as a fault in the dispenser assembly, typically caused 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the entire dispenser assembly or control board before simply removing and cleaning the detergent drawer. Pull the drawer out, rinse it under warm soapy water, and dry it completely before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

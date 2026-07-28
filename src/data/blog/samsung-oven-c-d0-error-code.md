@@ -17,8 +17,7 @@ money_part: "Touch control panel or keypad assembly"
 part_price: "$80-180"
 ---
 
-## Samsung Oven C-d0 Error Code — What It Means
-
+## What this code means
 Samsung C-d0 appears when a button on the oven control panel is pressed and held for a period of time. Samsung's official support pages describe this as a button or touch-key problem, not a temperature sensor or communication fault. The code indicates that one of the touch keys is stuck, continuously pressed, or contaminated with moisture or residue that is causing a false continuous signal.
 
 The code can be triggered by a finger resting on the panel too long, water or condensation on the control surface, grease or food residue between the touch keys, or an actual fault in the touchpad assembly or user interface board. Samsung advises cleaning the buttons, checking for water around them, and turning the oven off and back on.
@@ -26,8 +25,6 @@ The code can be triggered by a finger resting on the panel too long, water or co
 ## Before You Replace Anything
 
 Many people replace the main control board first when the real problem is simply a dirty or damp touchpad. Clean and dry the control panel thoroughly and power-cycle the oven before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

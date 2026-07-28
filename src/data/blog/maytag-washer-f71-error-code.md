@@ -17,8 +17,7 @@ money_part: "Motor control unit (motor control board)"
 part_price: "$80-250"
 ---
 
-## Maytag Washer F71 Error Code — What It Means
-
+## What this code means
 F71 is a model-dependent fault code that indicates a problem in the drive or motor control system. On some Maytag and Whirlpool-family platforms, F71 is described as a heartbeat failure, meaning the main control board is not receiving expected communication or input from the user interface board. On other models, F71 points to a motor control unit (MCU) or drive-system fault where the washer cannot properly regulate or confirm motor and basket operation. Because the exact meaning varies by platform, always verify against your model-specific tech sheet or service manual.
 
 Common triggers include loose or damaged wiring between control boards, a defective user interface board, a failed main control board, or a faulty motor control unit. In at least one documented repair, F71 appeared when the basket would not engage in spin due to worn drive-hub splines, preventing the mechanical drive train from transmitting motion correctly. A transient software glitch can also cause F71, though a simple power reset will clear that scenario.
@@ -26,8 +25,6 @@ Common triggers include loose or damaged wiring between control boards, a defect
 ## Before You Replace Anything
 
 Homeowners often replace the main control board or user interface board first. Check and reseat every harness connector between the control, user interface, and motor control sections before ordering any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

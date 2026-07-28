@@ -19,8 +19,6 @@ A Samsung dryer that tumbles but does not heat is usually a symptom rather than 
 
 When no code is present, the dryer may still run and tumble because the motor circuit is separate from the heating circuit. On electric models, loss of one leg of 240 V power will allow the drum to spin but the heating element will not energize. Gas models can tumble without igniting if the burner assembly or igniter has failed. In all cases, start by confirming airflow and power supply before testing internal components.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged lint screen or vent system** Samsung explicitly associates restricted airflow with heating and overheating problems, and this is the most common field cause of no-heat complaints.
@@ -64,7 +62,7 @@ Seeing a code on the display? These match this problem:
 - [Samsung Dryer Be error code](/posts/samsung-dryer-be-error-code/)
 - [Samsung Dryer Be2 error code](/posts/samsung-dryer-be2-error-code/)
 - [Samsung Dryer C1 error code](/posts/samsung-dryer-c1-error-code/)
-- [Samsung Dryer C2 error code](/posts/samsung-dryer-c2-error-code/)
+- Samsung Dryer C2 error code
 - [Samsung Dryer C8 error code](/posts/samsung-dryer-c8-error-code/)
 - [Samsung Dryer C80 error code](/posts/samsung-dryer-c80-error-code/)
 

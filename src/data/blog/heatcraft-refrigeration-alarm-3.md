@@ -13,11 +13,8 @@ money_part: "Filter drier"
 most_likely_cause: "Low refrigerant charge (leak)"
 ---
 
-## Heatcraft Refrigeration Alarm 3 — What It Means
-
+## What this code means
 On Heatcraft condensing units and remote condensers (Larkin, Bohn, Climate Control, and Chandler brands under the Heatcraft umbrella), Alarm 3 indicates the discharge temperature sensor has detected compressor discharge gas temperature above the safe limit — typically 240–260°F (115–127°C) depending on the unit and refrigerant type. High discharge temperatures cause oil breakdown, valve carbonization, and accelerated compressor wear. The unit shuts down on Alarm 3 to prevent compressor damage. It will not restart until the temperature drops below the reset threshold.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

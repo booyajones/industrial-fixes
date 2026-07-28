@@ -20,8 +20,6 @@ A Goodman furnace that won't turn on is a symptom, not a single fault code. The 
 
 The furnace runs through a startup sequence: thermostat calls for heat, inducer motor starts to prove draft, pressure switch closes, igniter glows, gas valve opens, flame is proven by the sensor, and then the blower starts. If any step fails, the board stops the sequence and flashes a code. Your job is to read the code from the LED on the board, match it to the chart on the furnace door, and follow the path that code describes.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Pressure switch stuck open (3 flashes)** Blocked vent pipe, kinked or disconnected pressure switch hose, or a weak pressure switch prevents the furnace from proving draft before ignition.
@@ -60,17 +58,10 @@ If your appliance also shows a code on the display, these match this problem:
 - [Goodman Furnace 5 Flash error code](/posts/goodman-furnace-5-flash-error-code/)
 - [Goodman Furnace E1 error code](/posts/goodman-furnace-e1-error-code/)
 - [Goodman Furnace E2 error code](/posts/goodman-furnace-e2-error-code/)
-- [Goodman Furnace E3 error code](/posts/goodman-furnace-e3-error-code/)
+- Goodman Furnace E3 error code
 - [Goodman Furnace Ee2 error code](/posts/goodman-furnace-ee2-error-code/)
 - [Goodman Furnace Ef error code](/posts/goodman-furnace-ef-error-code/)
 
 ## When to Call a Pro
 
 Call a licensed HVAC technician for any work that involves testing or replacing the gas valve, adjusting manifold pressure, diagnosing control-board failures, or working inside the burner box or heat exchanger. If you are not comfortable reading wiring diagrams, using a multimeter, or handling 120V circuits, stop and get help. Gas ignition and combustion diagnostics require training and calibrated tools, and a misdiagnosis can create a safety hazard or expensive secondary damage. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Goodman Heat Pump B0 Error Code - Causes & Fix](/posts/goodman-heat-pump-b0-error-code/)
-- [Goodman Furnace Short Cycling - Causes & Fix](/posts/goodman-furnace-short-cycling/)
-- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)
-- [Goodman Furnace 2 Flashes — Pressure Switch Stuck Closed Fix](/posts/goodman-furnace-2-flashes/)

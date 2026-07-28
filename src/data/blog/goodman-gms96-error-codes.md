@@ -12,11 +12,8 @@ tags:
 money_part: "Hot-surface igniter"
 ---
 
-## Goodman GMS96 Error Codes — What It Means
-
+## What this code means
 The Goodman GMS96 is a single-stage, 96% AFUE gas furnace and one of the most widely installed value-segment furnaces in North America. It uses a standard Goodman/Amana IFC control board with a diagnostic LED visible through the lower access panel. Like all 96% AFUE models, the GMS96 uses a secondary heat exchanger and condensate drain — making drain-related pressure switch faults the most common service issue.
-
-[Jump to Fix](#fix)
 
 ## Flash Code Quick Reference
 
@@ -72,18 +69,3 @@ The GMS96 uses a silicon nitride hot-surface igniter (Goodman B1401015S or B1401
 | Blower run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-goodman-gms96-error-codes&tag=errorcodefixes-20) \| 7.5 or 10 µF / 370V |
 ## When to Call a Pro
 If you're seeing 7-flash or 5-flash codes (gas valve faults), or if the furnace has rolled out, stop using the furnace and contact a licensed HVAC technician before restarting.
-
-## Related Articles
-
-- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
-- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
-- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
-- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
-- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)
-
-## See Also
-
-- [Goodman Furnace EE2 Error Code — Causes & Fix](/posts/goodman-furnace-ee2-error-code/)
-- [Goodman Furnace 2 Flashes — Pressure Switch Stuck Closed Fix](/posts/goodman-furnace-2-flashes/)
-- [Goodman Furnace E1 Error Code — Causes & Fix](/posts/goodman-furnace-e1-error-code/)
-- [Goodman EE2 Error Code: Control Board Communication Fault Fix](/posts/goodman-ee2-error-code/)

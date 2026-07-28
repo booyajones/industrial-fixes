@@ -17,8 +17,7 @@ money_part: "Maytag dishwasher circulation pump assembly"
 part_price: "$120-250"
 ---
 
-## Maytag Dishwasher F7E2 Error Code — What It Means
-
+## What this code means
 The F7E2 error code on a Maytag dishwasher signals a wash motor or circulation pump fault. The control board has detected that the wash motor is not operating correctly. This code points to the circulation system that sprays water during the wash cycle, rather than a drain-only problem. Maytag's first instruction is to cycle power to reset the control, and if the code returns, the fault is usually tied to the motor or pump assembly itself.
 
 The control monitors the wash motor and throws F7E2 when it sees no feedback, incorrect speed, or physical obstruction preventing normal operation. The fault can be mechanical (debris jamming the impeller), electrical (corroded connectors or a failed motor winding), or electronic (a control board or feedback sensor issue). Because the same code letter combinations appear on other Whirlpool-family appliances for different faults, always confirm you are working on a dishwasher and not a washer or dryer.
@@ -26,8 +25,6 @@ The control monitors the wash motor and throws F7E2 when it sees no feedback, in
 ## Before You Replace Anything
 
 Many people replace the main control board first, but a wash motor with a seized bearing or corroded connector is far more common. Always inspect the sump for debris and test the motor wiring before buying a new control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

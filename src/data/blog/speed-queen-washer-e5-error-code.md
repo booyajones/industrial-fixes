@@ -14,13 +14,10 @@ money_part: "Speed Queen micro-wand programming tool"
 most_likely_cause: "Improper micro-wand alignment"
 ---
 
-## Speed Queen Washer E5 Error Code — What It Means
-
+## What this code means
 The E5 (or E:05) error on a Speed Queen washer indicates an invalid value communication fault. This code appears when the electronic control receives an incorrect or corrupted code during a micro-wand programming download, not during normal wash operation. It is a programming and communication error rather than a mechanical or sensor fault in the washer itself.
 
 The fault occurs at the point of contact between the micro-wand programming tool and the washer's electronic control board. When the control cannot interpret the download signal correctly, it rejects the value and displays E5. This is most often seen by service technicians during initial setup, configuration changes, or board replacement rather than by homeowners during routine laundry cycles.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

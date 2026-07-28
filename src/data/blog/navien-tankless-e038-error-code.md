@@ -13,13 +13,10 @@ money_part: "Navien flow sensor (water flow sensor)"
 most_likely_cause: "Debris or scale blocking the flow sensor rotor"
 ---
 
-## Navien E038 Error Code — What It Means
-
+## What this code means
 The E038 (or 038E) error on Navien tankless water heaters indicates the flow sensor inside the unit is not spinning properly. This sensor detects water movement and signals the heater to fire. When debris blocks the rotor or the sensor itself has failed, the unit won't produce hot water and displays this fault.
 
 Navien's official guidance points to a stuck or obstructed flow sensor as the root cause. The code typically appears when you turn on a hot tap but the heater does not ignite or deliver heated water.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ Navien's official guidance points to a stuck or obstructed flow sensor as the ro
 ## When to Call a Pro
 
 If opening the pressure relief valve and inspecting the sensor wiring do not clear the E038 code, contact the original installer or a Navien-authorized service provider. Removing and replacing the flow sensor involves shutting off water and power, draining parts of the system, and ensuring proper reassembly to avoid leaks. A qualified technician has the correct Navien replacement sensor, tools to verify flow mechanically, and experience re-sealing the housing without damaging gaskets or O-rings.
-
-## See Also
-
-- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)
-- [Navien E615 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e615-error-code/)
-- [Navien NPE-240S Tankless Water Heater Error Codes - Full Fault Guide](/posts/navien-npe-240s-error-codes/)
-- [Navien Water Heater Leaking - Causes & Fix](/posts/navien-water-heater-leaking/)

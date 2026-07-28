@@ -17,8 +17,7 @@ money_part: "Whirlpool range user interface / control panel assembly"
 part_price: "$80-180"
 ---
 
-## Whirlpool Range F2 E0 Error Code — What It Means
-
+## What this code means
 F2 E0 on a Whirlpool range or oven indicates the electronic control has detected a shorted or stuck key in the user interface or keypad. Whirlpool's own product help identifies the user interface, keypad, control board, and associated wiring as the likely fault areas. This code typically appears when a button is physically stuck, when moisture or food residue has penetrated the keypad membrane, or when the ribbon cable connecting the keypad to the control board has failed.
 
 In the field, technicians most often find a stuck or shorted keypad membrane caused by a physically jammed button, moisture intrusion, sticky residue, or internal keypad failure. Less commonly, the ribbon cable or connector between the keypad and control board may be cracked, contaminated, or poorly seated. If both the keypad assembly and wiring check out, the electronic control board itself can be defective.
@@ -26,8 +25,6 @@ In the field, technicians most often find a stuck or shorted keypad membrane cau
 ## Before You Replace Anything
 
 Many people replace the electronic control board first without inspecting the keypad or ribbon cable. Always disconnect, inspect, and reseat the ribbon connector and test a new user interface before replacing the control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

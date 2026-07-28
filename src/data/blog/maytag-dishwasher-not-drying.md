@@ -19,8 +19,6 @@ A Maytag dishwasher not drying is a performance complaint, not a fault code. May
 
 For models with heated-dry systems, Maytag says to check whether Heat Dry, Pro Dry, or Extended Dry was selected and whether the dishwasher reached the expected heating condition during the cycle. If the Sanitize indicator is blinking after a cycle, Maytag says there may be a problem with the heating element.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Rinse aid not used or set too low** Rinse aid is needed for water to sheet off dishes, and an empty dispenser or low setting is one of the most common reasons for poor drying.
@@ -60,12 +58,12 @@ If your appliance also shows a code on the display, these match this problem:
 - [Maytag Dishwasher E15 error code](/posts/maytag-dishwasher-e15-error-code/)
 - [Maytag Dishwasher E3 error code](/posts/maytag-dishwasher-e3-error-code/)
 - [Maytag Dishwasher E4 error code](/posts/maytag-dishwasher-e4-error-code/)
-- [Maytag Dishwasher E6 error code](/posts/maytag-dishwasher-e6-error-code/)
-- [Maytag Dishwasher E7 error code](/posts/maytag-dishwasher-e7-error-code/)
+- Maytag Dishwasher E6 error code
+- Maytag Dishwasher E7 error code
 - [Maytag Dishwasher F10E5 error code](/posts/maytag-dishwasher-f10e5-error-code/)
 - [Maytag Dishwasher F1E1 error code](/posts/maytag-dishwasher-f1e1-error-code/)
 - [Maytag Dishwasher F2E2 error code](/posts/maytag-dishwasher-f2e2-error-code/)
-- [Maytag Dishwasher F3E2 error code](/posts/maytag-dishwasher-f3e2-error-code/)
+- Maytag Dishwasher F3E2 error code
 - [Maytag Dishwasher F4E3 error code](/posts/maytag-dishwasher-f4e3-error-code/)
 - [Maytag Dishwasher F6E1 error code](/posts/maytag-dishwasher-f6e1-error-code/)
 

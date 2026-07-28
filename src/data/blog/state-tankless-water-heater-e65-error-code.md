@@ -13,13 +13,10 @@ money_part: "Air intake screen"
 most_likely_cause: "Incorrect model or brand family"
 ---
 
-## State Tankless E65 Error — What It Means
-
+## What this code means
 E65 does not appear in any verified State or A.O. Smith tankless water heater fault code documentation. State tankless units use error codes like E1, E2, E3, E4, E5, E6, E7, E9, E10, E11, E12, E29, E31, E61, E71, E99, and E110, but E65 is not among them. If your display shows E65, first verify the exact model number and control platform on the rating plate. The code may belong to a different brand, a tank-style unit, or a misread display.
 
 Once you confirm the correct code from your model's manual, the most common underlying problems on State tankless units are ignition failure, flame loss, blocked air intake or venting, low gas supply, low water flow, and scale or mineral buildup on the heat exchanger or sensors. Treat this as a model verification step before attempting repairs.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

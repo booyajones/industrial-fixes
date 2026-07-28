@@ -22,8 +22,7 @@ part_price: "$40–90"
 no_buy_pct: "65%"
 ---
 
-## Maytag Refrigerator PO Error Code — What It Means
-
+## What this code means
 PO is a power outage indicator that appears when your Maytag refrigerator loses power and the freezer temperature rises to 18°F (-8°C) or higher. The display shows PO, an alert tone sounds three times, and Confirm blinks on the panel. This is an event notification, not proof of a component failure. The code tells you the unit experienced an interruption and temperatures rose enough that food safety may be a concern.
 
 To acknowledge the alarm, press MEASURED FILL under Confirm on supported side-by-side models. Once you clear the code, the refrigerator should resume normal cooling if the power supply is stable. If PO keeps coming back or cooling does not recover properly, the underlying cause may be a damaged power cord, loose outlet connection, control board issue, or airflow problem such as a frozen evaporator preventing the freezer fan from running.
@@ -31,8 +30,6 @@ To acknowledge the alarm, press MEASURED FILL under Confirm on supported side-by
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when PO appears repeatedly, but the real cause is often a loose wall outlet, damaged power cord, or heavy ice buildup on the evaporator blocking the freezer fan. Check the plug, breaker, and evaporator before ordering electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

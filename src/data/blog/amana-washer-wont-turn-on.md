@@ -19,8 +19,6 @@ When your Amana washer won't turn on, the control panel isn't receiving usable p
 
 The machine may be completely dead, or it may light up but refuse to start a cycle when you press Start. Either way, the root cause is usually something simple like a tripped circuit breaker, the Control Lock feature enabled, or the lid not fully latched. Less often, internal components like the control board or lid switch have failed.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **No power to the washer** Unplugged cord, tripped breaker, blown fuse, or a dead GFCI outlet means the control receives no voltage at all.
@@ -54,18 +52,18 @@ The machine may be completely dead, or it may light up but refuse to start a cyc
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Amana Washer Dlo error code](/posts/amana-washer-dlo-error-code/)
-- [Amana Washer Drn error code](/posts/amana-washer-drn-error-code/)
-- [Amana Washer Du error code](/posts/amana-washer-du-error-code/)
-- [Amana Washer F5 E2 error code](/posts/amana-washer-f5-e2-error-code/)
-- [Amana Washer F7 E1 error code](/posts/amana-washer-f7-e1-error-code/)
-- [Amana Washer F8 E1 error code](/posts/amana-washer-f8-e1-error-code/)
-- [Amana Washer F8 E2 error code](/posts/amana-washer-f8-e2-error-code/)
-- [Amana Washer F9 E1 error code](/posts/amana-washer-f9-e1-error-code/)
-- [Amana Washer Fd error code](/posts/amana-washer-fd-error-code/)
-- [Amana Washer Hc error code](/posts/amana-washer-hc-error-code/)
-- [Amana Washer Ldl error code](/posts/amana-washer-ldl-error-code/)
-- [Amana Washer Ldu error code](/posts/amana-washer-ldu-error-code/)
+- Amana Washer Dlo error code
+- Amana Washer Drn error code
+- Amana Washer Du error code
+- Amana Washer F5 E2 error code
+- Amana Washer F7 E1 error code
+- Amana Washer F8 E1 error code
+- Amana Washer F8 E2 error code
+- Amana Washer F9 E1 error code
+- Amana Washer Fd error code
+- Amana Washer Hc error code
+- Amana Washer Ldl error code
+- Amana Washer Ldu error code
 
 ## When to Call a Pro
 

@@ -21,8 +21,7 @@ free_checks:
 part_price: "$50-120"
 ---
 
-## Maytag Washer F25 Error Code — What It Means
-
+## What this code means
 F25 on a Maytag washer is a drive motor tachometer (tach) feedback error. The control board is not detecting the expected motor-speed signal from the tachometer sensor built into or attached to the drive motor, so it stops the cycle to prevent damage. This is a motor-speed sensing fault, not a drain, lid, or door-lock issue.
 
 Technicians most often find a problem in the motor and tach feedback path rather than a failed control board. Common root causes include a damaged tachometer, loose or damaged wiring connectors in the motor circuit, mechanical drag or debris preventing normal rotation, or a failed drive motor assembly. Proper diagnosis starts with the motor and harness before escalating to the control board.
@@ -30,8 +29,6 @@ Technicians most often find a problem in the motor and tach feedback path rather
 ## Before You Replace Anything
 
 Many people replace the control board first, but F25 is usually a motor tachometer or wiring problem. Check motor resistance, connectors, and physical obstructions before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

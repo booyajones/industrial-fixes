@@ -13,11 +13,8 @@ money_part: "Drive cooling fan"
 most_likely_cause: "Failed drive cooling fan"
 ---
 
-## Yaskawa VFD Fault OH — What It Means
-
+## What this code means
 Yaskawa VFD fault OH (Drive Overheat) indicates that the drive's internal heatsink temperature sensor exceeded the maximum allowable temperature, typically 90–95°C depending on the model. The drive measures heatsink temperature with a thermistor mounted on the output IGBT heatsink and shuts down when the temperature limit is reached to prevent permanent IGBT damage. OH is one of the most common Yaskawa faults in the field and is almost always caused by inadequate cooling — either the drive's cooling fan has failed, the ambient temperature is too high, or the drive is operating above its rated current for extended periods.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Yaskawa VFD fault OH (Drive Overheat) indicates that the drive's internal heatsi
 ## When to Call a Pro
 
 If the drive trips OH at normal loads with confirmed good fan operation and acceptable ambient, the IGBT heatsink thermal paste may be degraded, or the thermistor reading may be inaccurate. These repairs require full drive disassembly and are best handled by a certified repair center.
-
-## Related Articles
-
-- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
-- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
-- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
-- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
-- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)
-
-## See Also
-
-- [Yaskawa VFD Fault Codes — Complete Reference (V1000, A1000, GA700)](/posts/yaskawa-vfd-fault-codes/)
-- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
-- [Yaskawa VFD Fault SC — Causes & Fix](/posts/yaskawa-vfd-fault-sc/)
-- [Yaskawa A1000 Complete Guide - Fault Codes, Parameters, and Commissioning](/posts/yaskawa-a1000-complete-guide/)

@@ -19,8 +19,6 @@ A Samsung refrigerator freezer that is not freezing means the freezer compartmen
 
 Samsung's troubleshooting guidance treats this as a cooling issue and points first to settings, airflow, door sealing, and reset or service checks. The underlying problem is usually airflow restriction, defrost failure with ice buildup, door seal leakage, or a sealed-system or compressor problem if both compartments are warm.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Cooling Off Mode active or incorrect temperature settings** Samsung refrigerators have a Cooling Off mode that disables cooling, and incorrect freezer temperature settings prevent the compartment from reaching the target.

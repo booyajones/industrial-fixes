@@ -119,6 +119,6 @@ Same parent company at the manufacturing level, similar designs, but the part nu
 
 ## Related guides
 
-- [Rinnai Code 11 — No Ignition Fix](/posts/rinnai-error-code-11)
-- [Noritz Code 11 — No Ignition Fix](/posts/noritz-error-code-11)
+- Rinnai Code 11 — No Ignition Fix
+- Noritz Code 11 — No Ignition Fix
 - [Navien NPE-A 016 — Overheat Lockout Fix](/posts/navien-water-heater-error-code-016)

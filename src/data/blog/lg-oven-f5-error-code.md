@@ -17,8 +17,7 @@ money_part: "LG lower oven thermistor / temperature sensor"
 part_price: "$15-40"
 ---
 
-## LG Oven F5 Error Code — What It Means
-
+## What this code means
 LG identifies the F5 code as a Lower Oven Thermistor Error. The control board has detected an abnormal signal from the temperature sensor circuit in the lower oven. This is not a door fault or a generic heating problem. The thermistor (a resistive temperature sensor) may be open, shorted, drifting out of specification, or the wiring and connectors between the sensor and the control board may be damaged or loose.
 
 LG directs you to press CLEAR/OFF or Power ON/OFF and retry. If the code returns, turn the circuit breaker off for 30 seconds, restore power, and check again. A persistent F5 usually points to a failed lower oven thermistor, damaged wiring, or less commonly a control board input fault.
@@ -26,8 +25,6 @@ LG directs you to press CLEAR/OFF or Power ON/OFF and retry. If the code returns
 ## Before You Replace Anything
 
 Homeowners often replace the control board first when the real fault is a $20 thermistor or a loose connector. Always measure the thermistor resistance and inspect the plug before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a technician if you are uncomfortable working inside a 240-volt electric range, if the thermistor and wiring test good but the code returns, or if you do not have a multimeter and service data to verify resistance specifications. A qualified appliance repair tech can measure the sensor signal at the control board, confirm board input voltages, and replace the control board if the thermistor circuit on the board has failed. Professional diagnosis is also worthwhile if the oven is still under warranty or if you have already replaced the thermistor without success.
 
 **Rough cost:** DIY runs about $15-40 in parts, 30-60 min. A pro service call runs about $150-250.
-
-## See Also
-
-- [LG Washer Drive Belt Replacement - Signs & How-To](/posts/lg-washer-drive-belt-replacement/)
-- [LG Microwave Door Won't Open - Causes & Fix](/posts/lg-microwave-door-wont-open/)
-- [LG Refrigerator IF Error Code - Causes & Fix](/posts/lg-refrigerator-if-error-code/)
-- [LG Dryer E13 Error Code - Causes & Fix](/posts/lg-dryer-e13-error-code/)

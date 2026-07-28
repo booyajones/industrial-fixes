@@ -13,13 +13,10 @@ money_part: "G120 Control Unit"
 most_likely_cause: "Missing or incorrect Safety Integrated password"
 ---
 
-## Siemens G120 F01659 — What It Means
-
+## What this code means
 F01659 on a Siemens SINAMICS G120 means the drive rejected a request to write one or more safety-related parameters in the Safety Integrated area. This is not a motor overload or power stage trip. Instead, the drive is blocking your change because a safety condition, password, configuration state, or hardware requirement was not met. The fault does not indicate a safety stop response itself, but rather that the system will not allow the parameter modification you attempted.
 
 Siemens ties the exact cause to the fault value stored in parameter r0949. Common reasons include a missing or incorrect Safety Integrated password, an active safety function like STO preventing the write, a reset attempt while Safety Integrated is parameterized, simulation mode active on a digital input, or hardware that does not support the safety feature you are trying to configure. Related safety faults such as F01655 or F30655 may also be present and need resolution first.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ Siemens ties the exact cause to the fault value stored in parameter r0949. Commo
 ## When to Call a Pro
 
 Call a qualified technician or Siemens support if you cannot resolve the fault after verifying the password, resetting the safety state, and confirming hardware compatibility. Safety Integrated configuration requires knowledge of both the drive's safety architecture and the machine's safety logic, and incorrect changes can compromise personnel protection. If the fault persists after a power cycle and firmware update, or if you see repeated rejections with no clear cause in r0949, professional diagnostic support is needed to interpret the fault value and check for internal Control Unit issues that require replacement.
-
-## See Also
-
-- [Siemens Micromaster F0023 - Causes & Fix](/posts/siemens-micromaster-f0023-fault-code/)
-- [Siemens G120 VFD F01040 - Causes & Fix](/posts/siemens-g120-vfd-f01040-fault-code/)
-- [Siemens Micromaster F0020 - Causes & Fix](/posts/siemens-micromaster-f0020-fault-code/)
-- [Siemens G120 A03520 - Causes & Fix](/posts/siemens-g120-a03520-fault-code/)

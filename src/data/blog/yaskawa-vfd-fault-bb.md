@@ -13,13 +13,10 @@ money_part: "No parts typically needed"
 most_likely_cause: "Baseblock input signal stuck active"
 ---
 
-## Yaskawa VFD Fault BB — What It Means
-
+## What this code means
 Yaskawa BB stands for **Baseblock** — this is **not a hard fault**. Baseblock is a controlled safe state where the drive's output transistors are disabled (gate signals are blocked), stopping current flow to the motor without an actual hardware failure. The drive enters BB when it receives an external baseblock command via a digital input configured for that function (typically terminal S5 or H1-xx = 8). The motor coasts to a stop; the drive remains powered and ready. BB displays as an alarm, not a fault, and clears automatically when the baseblock signal is removed.
 
 **Key distinction:** A hard fault (like OC, OV, or GF) requires a manual reset. BB clears on its own when the baseblock input goes inactive. If you're seeing BB and the drive won't run, the issue is almost always the external control signal — not the drive itself.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,18 +43,3 @@ Yaskawa BB stands for **Baseblock** — this is **not a hard fault**. Baseblock 
 ## When to Call a Pro
 
 If BB is being commanded by a safety system or E-stop circuit and you don't know why the safety device is activating, do not bypass it. Have a controls engineer investigate the safety circuit logic before overriding the baseblock command.
-
-## Related Articles
-
-- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
-- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
-- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
-- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
-- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)
-
-## See Also
-
-- [Yaskawa VFD Fault GF — Causes & Fix](/posts/yaskawa-vfd-fault-gf/)
-- [Yaskawa VFD Fault LF — Causes & Fix](/posts/yaskawa-vfd-fault-lf/)
-- [Yaskawa GA800 oC Fault — Overcurrent Fix](/posts/yaskawa-ga800-error-oc/)
-- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)

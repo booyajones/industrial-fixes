@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "GA800 Control Board"
 ---
 
-## Yaskawa GA800 E47 Fault — What It Means
-
+## What this code means
 E47 does not appear in Yaskawa's published GA800 fault code documentation. It may be a display error, an option card or communication alarm, or a non-standard message tied to external control or safety circuits. Yaskawa's troubleshooting process for any unconfirmed code is to record the exact display on the operator keypad, identify whether it is a fault or alarm, then follow the elementary diagram to check control terminals, wiring, and option hardware. Without a verified manufacturer definition for E47, technicians should treat it as an uncleared external condition or option-related issue rather than a core drive failure.
 
 Yaskawa's reset procedure requires removing the cause of the fault or alarm first, then pressing RESET on the keypad while the code is displayed. If the code persists after all external causes are cleared and option hardware is disconnected, contact Yaskawa Technical Support with the model number, spec code, serial number, and failure details.
@@ -24,8 +23,6 @@ Yaskawa's reset procedure requires removing the cause of the fault or alarm firs
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board when the fault is actually caused by wiring in the external control circuit or an active safety input. Check the elementary diagram and verify all terminal connections before ordering boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a qualified drive technician or contact Yaskawa Technical Support whenever a non-standard or undocumented fault code appears and you cannot identify the cause using the elementary diagram and control terminal checks. Professional diagnosis is required if the fault persists after all external control signals, option hardware, and wiring have been verified and disconnected. Do not attempt to replace the control board without authorization from Yaskawa, as the fault may be covered under warranty or require factory-level diagnostics. Yaskawa service material states that repair support is generally limited to fan and control board replacement, so field personnel should gather the model number, spec code, serial number, and failure details before calling for support.
 
 **Rough cost:** A pro service call runs about $200–500 for wiring diagnosis and control board replacement if needed.
-
-## See Also
-
-- [Yaskawa GA800 E14 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e14-fault-code/)
-- [Yaskawa GA800 E37 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e37-fault-code/)
-- [Yaskawa GA800 A.112 Alarm - Causes & Fix](/posts/yaskawa-ga800-vfd-a-112-fault-code/)
-- [Yaskawa GA800 E14 Fault - Causes & Fix](/posts/yaskawa-ga800-e14-fault-code/)

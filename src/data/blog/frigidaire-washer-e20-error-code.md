@@ -22,15 +22,12 @@ part_price: "$30-65"
 no_buy_pct: "70%"
 ---
 
-## Frigidaire Washer E20 Error Code — What It Means
-
+## What this code means
 The E20 code on a Frigidaire washer means water did not drain from the tub within the allowed drain period. The machine is reporting a drain-system fault. In the field, technicians treat it as a not-draining or slow-draining problem rather than a single failed component. The fault can be caused by a blockage anywhere in the path from the tub to the drain pump, a restriction in the drain hose, or less commonly an electrical issue with the pump motor or control board.
 
 ## Before You Replace Anything
 
 Homeowners often replace the drain pump when the real problem is a sock or coin stuck in the pump inlet or trap. Before ordering a pump, remove the trap cover and hose and check for debris by hand.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

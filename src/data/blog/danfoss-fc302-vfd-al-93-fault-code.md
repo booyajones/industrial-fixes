@@ -19,8 +19,7 @@ free_checks:
   - "Cycle power to the drive and observe whether the alarm reappears immediately or only under load"
 ---
 
-## Danfoss FC302 AL-93 — What It Means
-
+## What this code means
 No fault code named AL-93 exists in Danfoss FC302 VFD documentation. The FC302 series has over 90 documented alarms, but AL-93 is not among them. This code is either misread from the display, a typo in logging, or belongs to a different drive manufacturer (Yaskawa, Mitsubishi, or others use different numbering). The most common Danfoss FC302 faults that may be confused include AL-13 (overcurrent, triggered when output current exceeds 150-160% of rated current), AL-14 (earth fault), AL-29 (overtemperature), and AL-38 (internal fault with extended code in parameter 15-32).
 
 If you see AL-13, it typically means mechanical overload, incorrect motor parameters, motor winding shorts, or failed IGBT modules. If you see AL-38, the drive has detected an internal hardware or sensor fault and will display a sub-code in parameter 15-32. Always verify the exact code on the drive display and consult the FC302 operating manual alarm table before ordering parts or attempting repairs.
@@ -28,8 +27,6 @@ If you see AL-13, it typically means mechanical overload, incorrect motor parame
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire power board when AL-13 appears, but a simple megohm test of motor windings (should read above 2 MΩ to ground) or disconnecting the motor can reveal whether the fault is in the drive or the load.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician whenever the drive displays any alarm code. Diagnosis requires safe isolation of high-voltage DC bus capacitors (which can hold lethal charge for minutes after power-off), multimeter testing of IGBT gate signals, and parameter programming. If the alarm is truly AL-93 and not a misread, the drive may have third-party firmware or be a counterfeit unit, and a Danfoss-certified service partner should inspect it. Do not attempt to open the drive enclosure or measure internal voltages without proper training, insulated tools, and lockout/tagout procedures.
 
 **Rough cost:** A pro service call runs about $300-800 depending on whether the fault is motor-side or drive internal.
-
-## See Also
-
-- [Danfoss FC302 VFD Alarm 23 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-23-fault-code/)
-- [Danfoss FC302 AL-62 - Causes & Fix](/posts/danfoss-fc302-vfd-al-62-fault-code/)
-- [Danfoss FC302 VFD Alarm 80 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-80-fault-code/)
-- [Danfoss VFD Fault OL — Causes & Fix](/posts/danfoss-vfd-fault-ol/)

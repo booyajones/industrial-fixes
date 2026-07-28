@@ -13,11 +13,8 @@ money_part: "Auger bearing kit"
 most_likely_cause: "Auger motor overload or jam"
 ---
 
-## Follett Ice Machine Error Code E1 — What It Means
-
+## What this code means
 Follett error code E1 means ice-making fault — the control board has detected that the ice-making process failed to complete normally within the expected parameters. On Follett Horizon Elite and 7/15/25/50 Series nugget and cube ice machines, E1 is a general fault that indicates the refrigeration or ice-forming system is not operating correctly. The machine will shut down and display E1. Unlike some manufacturer codes that precisely identify a single component, Follett E1 requires checking the refrigeration system, the auger/evaporator, and the water supply to isolate the specific failure.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,11 +42,3 @@ Follett error code E1 means ice-making fault — the control board has detected 
 ## When to Call a Pro
 
 Auger removal and bearing replacement inside the evaporator cylinder requires proper tools and refrigeration system recovery if refrigerant needs to be removed. An EPA 608-certified Follett service technician should handle any work inside the refrigerated section.
-
-## Related Articles
-
-- [Follett Ice Machine Error Code E2 — Causes & Fix](/posts/follett-ice-machine-error-code-e2/)
-- [Follett Ice Machine Error Code E3 — Causes & Fix](/posts/follett-ice-machine-error-code-e3/)
-- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
-- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)

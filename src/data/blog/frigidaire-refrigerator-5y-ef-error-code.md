@@ -22,8 +22,7 @@ part_price: "$40–70"
 no_buy_pct: "60%"
 ---
 
-## Frigidaire 5Y EF Error Code — What It Means
-
+## What this code means
 The 5Y EF (or SY EF) code on Frigidaire refrigerators indicates a problem in the evaporator fan circuit. The refrigerator has detected that the evaporator fan is not running, is obstructed, or is not being monitored correctly by the control system. When the evaporator fan fails, airflow through the fresh food and freezer sections is lost or reduced, causing poor cooling.
 
 In most cases the code appears either because ice or frost has physically blocked the fan blade, or because the evaporator fan motor itself has failed. Less commonly the fault is in the wiring harness to the fan or in the control board's output circuit. The correct repair sequence is to defrost the evaporator compartment, inspect the fan and wiring, and then run an electrical test before replacing any parts.
@@ -31,8 +30,6 @@ In most cases the code appears either because ice or frost has physically blocke
 ## Before You Replace Anything
 
 Many people replace the evaporator fan motor without first checking for ice buildup. Defrost the compartment fully and spin the fan blade by hand before buying a new motor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

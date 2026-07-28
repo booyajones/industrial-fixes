@@ -13,11 +13,8 @@ money_part: "Input fuses"
 most_likely_cause: "Blown input fuse"
 ---
 
-## ABB ACS580 Fault 3130 — What It Means
-
+## What this code means
 The ABB ACS580 is a general-purpose all-compatible drive designed for industrial pump, fan, and compressor applications. It is the successor to the ACS550 in the ABB product line. Fault 3130 (INPUT PHASE LOSS) indicates the drive has detected a missing or severely unbalanced phase on its three-phase input supply. Like other ABB drives, the ACS580 detects phase loss by monitoring DC bus ripple — a lost input phase creates a characteristic 2× ripple frequency on the DC bus. When ripple exceeds the threshold, the drive trips on 3130 to protect the rectifier and DC bus capacitors from unbalanced stress.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,18 +44,3 @@ The ABB ACS580 is a general-purpose all-compatible drive designed for industrial
 ## When to Call a Pro
 
 If all three supply voltages are confirmed balanced and correct at the drive input terminals but fault 3130 persists, the rectifier input section may have been damaged by a prior phase loss event. ABB has an authorized drive repair center network for board-level diagnosis and repair. The ACS580 hardware warranty covers manufacturing defects; a phase-loss-induced rectifier failure may or may not be covered depending on the cause.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-
-## See Also
-
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB VFD Fault 3210 — Causes & Fix](/posts/abb-vfd-fault-3210/)
-- [ABB VFD Fault 3300 — Causes & Fix](/posts/abb-vfd-fault-3300/)
-- [ABB VFD Fault 2310 — Causes & Fix](/posts/abb-vfd-fault-2310/)

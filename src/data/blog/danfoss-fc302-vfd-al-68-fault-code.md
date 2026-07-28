@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "80%"
 ---
 
-## Danfoss FC302 AL-68 Fault — What It Means
-
+## What this code means
 The AL-68 (or A68) fault on a Danfoss FC302 VFD does not indicate a component failure. It means Safe Stop Activated because the drive's Safe Torque Off (STO) circuit has been triggered. The drive intentionally disabled output power to the motor to enforce a safe stop condition. This happens when the drive does not detect the required 24V DC signal at Terminal 37, which is the Safe Stop input. When this signal is missing, the output transistors (IGBTs) turn off and the motor stops immediately.
 
 In most installations, especially HVAC systems like Danfoss TR200 chillers, the 24V safety signal at Terminal 37 is routed through a safety circuit. This circuit often includes a High Pressure Control (HPC) switch or a relay (such as 1K14). If the high pressure exceeds the set limit, the relay de-energizes, or the circuit opens during a power loss, the 24V signal is removed and the drive logs AL-68. The drive can stay powered for about 40 seconds on its internal DC capacitors after losing mains power, so if the 24V signal disappears during that window, the fault will appear.
@@ -29,8 +28,6 @@ In most installations, especially HVAC systems like Danfoss TR200 chillers, the 
 ## Before You Replace Anything
 
 Technicians sometimes replace the VFD control board thinking it has failed, when the actual problem is a faulty relay or safety switch in the 24V loop. Always measure voltage at Terminal 37 with a DC voltmeter before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD or HVAC technician if you are not comfortable working with control wiring, 24V DC circuits, or variable frequency drives. This fault involves the drive's safety system, which is designed to prevent injury and equipment damage. A technician should diagnose the issue if you cannot locate the open circuit, if the drive does not clear after verifying 24V at Terminal 37, or if you suspect a fault in the drive's internal Safe Torque Off circuit. Do not permanently bypass the safety loop by leaving a jumper installed, as this defeats critical safety protections.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Danfoss AL 13 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-113-fault-code/)
-- [Danfoss FC302 AL-63 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-63-fault-code/)
-- [Danfoss FC302 AL-78 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-78-fault-code/)
-- [Danfoss FC302 AL-111 - Causes & Fix](/posts/danfoss-fc302-vfd-al-111-fault-code/)

@@ -19,8 +19,6 @@ When your Samsung dryer gets too hot, it means the internal temperature protecti
 
 In most cases the root cause is restricted airflow from lint buildup or vent blockage, though failed heating elements, thermistors, or wiring problems can also force the dryer to overheat. Heat-pump models may see compressor overheating if airflow or breaker issues are present. The dryer itself is working as designed by detecting the problem and stopping before components burn out.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged lint filter or vent system** Lint buildup in the filter, vent hose, wall duct, or outside termination restricts airflow and traps heat inside the drum.
@@ -63,7 +61,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Samsung Dryer Be error code](/posts/samsung-dryer-be-error-code/)
 - [Samsung Dryer Be2 error code](/posts/samsung-dryer-be2-error-code/)
 - [Samsung Dryer C1 error code](/posts/samsung-dryer-c1-error-code/)
-- [Samsung Dryer C2 error code](/posts/samsung-dryer-c2-error-code/)
+- Samsung Dryer C2 error code
 - [Samsung Dryer C8 error code](/posts/samsung-dryer-c8-error-code/)
 - [Samsung Dryer C80 error code](/posts/samsung-dryer-c80-error-code/)
 

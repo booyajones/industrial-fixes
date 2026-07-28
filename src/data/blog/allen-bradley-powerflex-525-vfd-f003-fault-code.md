@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Allen-Bradley PowerFlex 525 F003 — What It Means
-
+## What this code means
 F003 on a PowerFlex 525 indicates Power Loss. The drive has detected single-phase operation while the motor is under load, typically caused by the loss of one incoming AC line phase, a low-voltage sag, or an interruption on the input power side. Rockwell Automation's fault table describes the cause as single phase operation detected with excessive load and directs you to check the incoming AC line, input fuses, and load.
 
 In the field this usually means a blown input fuse on one phase, a loose or burned incoming power connection, a utility brownout or brief line interruption while the motor is demanding torque, or a supply problem that leaves the drive effectively single-phased. Less commonly it can point to a load heavy enough that a marginal supply condition trips the drive. The fault is a power-input condition, not a drive internal failure, so the first step is always to inspect the line side.
@@ -25,31 +24,13 @@ In the field this usually means a blown input fuse on one phase, a loose or burn
 
 Technicians sometimes replace the drive itself when F003 appears repeatedly, but the fault is almost always an external supply or termination issue. Measure all three incoming line voltages at the drive terminals under load before ordering drive hardware.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Blown input fuse on one phase (~45%)** A single open fuse leaves the drive running on two phases, which immediately triggers the power-loss detection when load is applied.
-- **Loose, burned, or intermittently open incoming power connection (~30%)** A termination that opens under vibration or heat drops one phase and causes the fault to appear during start or acceleration.
-- **Utility sag, brownout, or brief line interruption under load (~15%)** A voltage dip from the feeder or transformer that coincides with motor torque demand will trip the drive as a single-phase condition.
-- **Upstream contactor or disconnect dropping one phase intermittently (~7%)** A failing contactor contact or disconnect blade can create a high-resistance path that appears as a missing phase when current rises.
-- **Excessive mechanical load combined with marginal supply voltage (~3%)** A motor load that is too high for the feeder capacity can push the drive into the fault zone even if all three phases are technically present.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Does the fault appear immediately on start, or only after the motor has been running under load for a while?</summary>
-<div class="dtree-body"><strong>Yes:</strong> An immediate trip points to a missing phase or open fuse. Check input fuses and measure all three line voltages at the drive before power-on.<br><strong>No:</strong> A delayed trip suggests a voltage sag or intermittent connection that opens under current. Inspect all line-side terminations for heat damage and loose hardware.</div>
-</details>
-
-<details class="dtree"><summary>When you measure line-to-line voltage at the drive input terminals while attempting to start, are all three phase pairs within a few volts of each other?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The incoming supply is balanced, so the fault may be a heavy load or an internal drive issue. Reduce mechanical load and retry, or call for drive diagnostics.<br><strong>No:</strong> One phase is low or missing. Trace that phase back through the fuse holder, disconnect, and feeder to find the open or high-resistance point.</div>
-</details>
-
-<details class="dtree"><summary>Can you clear the fault and restart the drive without load (motor uncoupled), and does it run normally?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The drive and supply are healthy. The problem is mechanical overload or a binding driven machine. Inspect the load for excessive torque demand.<br><strong>No:</strong> The fault persists even without load, which confirms a supply issue. Work backward from the drive terminals to locate the missing or weak phase.</div>
-</details>
+- **Blown input fuse on one phase** A single open fuse leaves the drive running on two phases, which immediately triggers the power-loss detection when load is applied.
+- **Loose, burned, or intermittently open incoming power connection** A termination that opens under vibration or heat drops one phase and causes the fault to appear during start or acceleration.
+- **Utility sag, brownout, or brief line interruption under load** A voltage dip from the feeder or transformer that coincides with motor torque demand will trip the drive as a single-phase condition.
+- **Upstream contactor or disconnect dropping one phase intermittently** A failing contactor contact or disconnect blade can create a high-resistance path that appears as a missing phase when current rises.
+- **Excessive mechanical load combined with marginal supply voltage** A motor load that is too high for the feeder capacity can push the drive into the fault zone even if all three phases are technically present.
 
 ## Step-by-Step Fix {#fix}
 
@@ -71,12 +52,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a qualified electrician or drive technician for F003 work. Diagnosing the fault requires live measurement of three-phase line voltage, inspection of energized terminations, and tracing the supply back through fuses, disconnects, and feeders. The work is high-voltage and must follow lockout-tagout and arc-flash safety rules. A technician will measure all three phases under load, identify the missing or weak phase, and repair the upstream fuse, termination, or feeder component. If the supply is confirmed good and the fault still appears, the technician will verify the mechanical load is not excessive and check for a rare drive internal issue. Do not attempt to clear and restart the drive repeatedly without finding the root cause, because single-phasing under load can overheat the motor windings or damage the drive power stage.
-
-**Rough cost:** A pro service call runs about $150–400 depending on whether the fix is a fuse, a feeder repair, or upstream utility work.
-
-## See Also
-
-- [Allen-Bradley PowerFlex 525 F021 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f021-fault-code/)
-- [Allen-Bradley PowerFlex F005 Fault — Overvoltage Fix](/posts/allen-bradley-powerflex-f005-fault/)
-- [Allen-Bradley PowerFlex F012 Fault — HW Overcurrent Fix](/posts/allen-bradley-powerflex-f012-fault/)
-- [Allen-Bradley PowerFlex 525 F007 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f007-fault-code/)

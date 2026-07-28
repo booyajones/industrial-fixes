@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Bosch E32 Error Code — What It Means
-
+## What this code means
 On Bosch washing machines, E32 is not a fault code in the usual sense. It indicates the unbalanced load detection system has interrupted the spin cycle because the laundry is unevenly distributed in the drum. The machine detected an imbalance during spin, so it stopped or limited spinning to protect the appliance and the load.
 
 This is a built-in safety feature. The code does not point to a failed component. Instead, it signals that the wash needs to be rearranged before spinning can continue safely.
@@ -24,8 +23,6 @@ This is a built-in safety feature. The code does not point to a failed component
 ## Before You Replace Anything
 
 Homeowners sometimes suspect bearings or suspension when E32 repeats. Before replacing anything, confirm the machine is level on the floor and that you are mixing small and large items evenly. Most E32 codes clear after proper load balancing.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

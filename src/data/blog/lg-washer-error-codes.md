@@ -99,7 +99,7 @@ The drive motor is drawing current but the rotor isn't moving. Causes:
 If you've worked through the diagnostic above and the fault returns within 24 hours, the issue is upstream — usually a failed pressure sensor or a wiring harness break — and the next step is a real service call rather than another swap.
 
 <!-- INTERNAL-LINK-AUTO -->
-**Related:** [LG washer error code 31 (pressure / suspension fault)](/posts/lg-washer-error-code-31/)
+**Related:** LG washer error code 31 (pressure / suspension fault)
 
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [LG refrigerator error codes (complete guide)](/posts/lg-refrigerator-error-codes/)
@@ -118,10 +118,3 @@ If you've worked through the diagnostic above and the fault returns within 24 ho
 
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Samsung vs LG French door refrigerators](/posts/samsung-vs-lg-french-door-refrigerators/)
-
-## See Also
-
-- [LG Refrigerator Error Codes — Complete Fix Guide](/posts/lg-refrigerator-error-codes/)
-- [LG Refrigerator Error ER RF — Evap Fan Motor Fix](/posts/lg-refrigerator-error-er-rf/)
-- [LG Mini Split CH01 Error Code — Causes & Fix](/posts/lg-mini-split-ch01-error-code/)
-- [LG Washer Error Code 31 — Pressure Sensor / Suspension Fault Fix](/posts/lg-washer-error-code-31/)

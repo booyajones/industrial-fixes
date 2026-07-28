@@ -18,8 +18,6 @@ money_part: "LCP panel"
 
 The Danfoss VLT HVAC Drive FC102 is a variable frequency drive purpose-built for HVAC applications — air handling units, cooling towers, pumps, and compressors. It is part of Danfoss's VLT product line and is one of the most widely installed HVAC drives in commercial buildings worldwide. The FC102 displays faults using the prefix "AL" (alarm) and "WA" (warning) on the LCP (Local Control Panel). Alarms stop the drive; warnings allow continued operation with a logged event.
 
-[Jump to Fix](#fix)
-
 ## Danfoss FC102 Alarm Code Reference
 
 | Alarm Code | Description |
@@ -74,10 +72,3 @@ The Danfoss VLT HVAC Drive FC102 is a variable frequency drive purpose-built for
 ## When to Call a Pro
 
 The Danfoss FC102 supports remote monitoring via the Danfoss iFJørd and Building Connect platforms. A Danfoss-authorized service center can access the full diagnostic log and configure parameters remotely. Insulation testing and motor replacement require electrical work licenses in most jurisdictions — do not attempt insulation testing without proper lockout/tagout.
-
-## See Also
-
-- [Danfoss RX Controller Fault Codes — Troubleshooting Guide](/posts/danfoss-rx-controller-fault/)
-- [Danfoss VLT Alarm 14 - Earth Fault: What It Means and How to Fix It](/posts/danfoss-vlt-alarm-14/)
-- [Danfoss VFD Fault Codes — FC301, FC302, FC102 Reference](/posts/danfoss-vfd-fault-codes/)
-- [Danfoss AKC Controller Fault Codes - Complete Guide](/posts/danfoss-akc-controller-fault/)

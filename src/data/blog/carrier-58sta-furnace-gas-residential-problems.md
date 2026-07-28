@@ -42,10 +42,3 @@ The Carrier 58STA is a residential gas furnace that uses LED status codes on the
 ## When to Call a Pro
 
 Call a licensed HVAC technician for any gas valve work, pressure switch or vent system diagnosis, control board replacement, or if you see repeated limit or lockout codes after filter and airflow checks. Gas appliance work requires proper combustion analysis, leak testing, and code compliance. If you're not trained on gas systems or don't have a manometer and multimeter, leave ignition, flame-proving, and pressure-switch troubleshooting to a pro. Any time you smell gas or suspect a gas leak, shut off the manual gas valve, leave the area, and call your utility or a qualified technician immediately.
-
-## See Also
-
-- [Carrier E7 Error Code - Causes & Fix](/posts/carrier-heat-pump-e7-error-code/)
-- [Carrier VRF System Error Codes Guide](/posts/carrier-vrf-error-codes/)
-- [Carrier Infinity System Communication Error Codes — Complete Guide](/posts/carrier-infinity-system-error-codes/)
-- [Carrier Furnace Won't Turn On - Causes & Fix](/posts/carrier-furnace-wont-turn-on/)

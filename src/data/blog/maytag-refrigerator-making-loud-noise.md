@@ -19,8 +19,6 @@ A Maytag refrigerator making loud noise is a symptom, not a fault code. Maytag c
 
 Many loud noises are mistaken for defects when they are actually normal operating sounds, including refrigerant gurgling, defrost hissing, and cabinet popping from expansion and contraction. Real problems technicians find most often include a loose or mispositioned drain pan causing vibration, fan blades hitting shrouds or obstructed by ice, a water inlet valve buzzing from restricted flow or trying to fill without a water line, and the unit not being level or touching cabinets.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Loose or mispositioned drain pan** The drain pan under the refrigerator can vibrate loudly if it is not seated correctly or has come loose during normal operation.
@@ -54,18 +52,18 @@ Many loud noises are mistaken for defects when they are actually normal operatin
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Maytag Refrigerator C1 error code](/posts/maytag-refrigerator-c1-error-code/)
-- [Maytag Refrigerator C2 error code](/posts/maytag-refrigerator-c2-error-code/)
-- [Maytag Refrigerator C3 error code](/posts/maytag-refrigerator-c3-error-code/)
-- [Maytag Refrigerator C4 error code](/posts/maytag-refrigerator-c4-error-code/)
+- Maytag Refrigerator C1 error code
+- Maytag Refrigerator C2 error code
+- Maytag Refrigerator C3 error code
+- Maytag Refrigerator C4 error code
 - [Maytag Refrigerator C5 error code](/posts/maytag-refrigerator-c5-error-code/)
-- [Maytag Refrigerator C6 error code](/posts/maytag-refrigerator-c6-error-code/)
-- [Maytag Refrigerator C7 error code](/posts/maytag-refrigerator-c7-error-code/)
-- [Maytag Refrigerator De error code](/posts/maytag-refrigerator-de-error-code/)
-- [Maytag Refrigerator Dr error code](/posts/maytag-refrigerator-dr-error-code/)
-- [Maytag Refrigerator Ff error code](/posts/maytag-refrigerator-ff-error-code/)
+- Maytag Refrigerator C6 error code
+- Maytag Refrigerator C7 error code
+- Maytag Refrigerator De error code
+- Maytag Refrigerator Dr error code
+- Maytag Refrigerator Ff error code
 - [Maytag Refrigerator Po error code](/posts/maytag-refrigerator-po-error-code/)
-- [Maytag Refrigerator Sa error code](/posts/maytag-refrigerator-sa-error-code/)
+- Maytag Refrigerator Sa error code
 
 ## When to Call a Pro
 

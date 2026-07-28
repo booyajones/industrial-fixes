@@ -13,11 +13,8 @@ money_part: "Defrost heater"
 most_likely_cause: "Failed defrost termination thermostat"
 ---
 
-## True Refrigeration E3 Error Code — What It Means
-
+## What this code means
 True Refrigeration E3 indicates a **defrost termination fault** — the defrost cycle did not terminate normally. True refrigeration units (reach-in coolers, prep tables, display cases) use a defrost heater to melt frost off the evaporator coil periodically. The defrost cycle is supposed to end when either the defrost termination thermostat (or temperature sensor) reaches the setpoint temperature, or the backup timer expires. E3 means the defrost thermostat didn't terminate the cycle as expected — either the thermostat failed to respond or the heater couldn't bring the coil temperature up to the termination point within the time limit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ True Refrigeration E3 indicates a **defrost termination fault** — the defrost 
 ## When to Call a Pro
 
 If E3 returns after replacing the heater and thermostat, the defrost timer or electronic controller may have a fault in the defrost timing circuit. True Refrigeration's authorized service network can diagnose the controller board and timer assembly.
-
-## Related Articles
-
-- [True Refrigeration E1 Error Code — Causes & Fix](/posts/true-refrigeration-e1-error-code/)
-- [True Refrigeration E2 Error Code — Causes & Fix](/posts/true-refrigeration-e2-error-code/)
-- [True Refrigeration E4 Error Code — Causes & Fix](/posts/true-refrigeration-e4-error-code/)
-- [True Refrigeration E5 Error Code — Defrost Sensor Causes & Fix](/posts/true-refrigeration-e5-error-code/)
-- [True Refrigeration E6 Error Code — High Temperature Alarm Causes & Fix](/posts/true-refrigeration-e6-error-code/)
-
-## See Also
-
-- [True Refrigeration E6 Error Code — High Temperature Alarm Causes & Fix](/posts/true-refrigeration-e6-error-code/)
-- [True T-72 Refrigerator Error Codes - Full Fault Guide](/posts/true-t-72-error-codes/)
-- [True Refrigeration T-Series Error Codes — Complete Fix Guide](/posts/true-refrigeration-t-series-error-codes/)
-- [True TSSU Prep Table Error Codes, Causes, and Fixes](/posts/true-tssu-prep-table-error-codes/)

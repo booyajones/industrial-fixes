@@ -13,11 +13,8 @@ money_part: "NTC temperature sensor"
 most_likely_cause: "Failed NTC sensor"
 ---
 
-## Turbo Air Refrigerator Error Code E1 — What It Means
-
+## What this code means
 The E1 error on Turbo Air commercial refrigerators indicates a temperature sensor fault — the cabinet air sensor (also called the room sensor or evaporator inlet sensor) is reading out of range or has failed. Turbo Air's controllers use NTC thermistors to monitor cabinet temperature; if the sensor reads open circuit or shorted, the controller flags E1 and may default to a continuous-run mode or alarm.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,11 +41,3 @@ The E1 error on Turbo Air commercial refrigerators indicates a temperature senso
 ## When to Call a Pro
 
 If sensor and wiring both test good and E1 persists, the controller board needs bench testing or replacement — a refrigeration tech can confirm and replace.
-
-## Related Articles
-
-- [Beverage-Air Error Code E4, Causes, and Fixes](/posts/beverage-air-e4-error-code/)
-- [Beverage-Air MT27 Error Codes - What They Mean and How to Fix Them](/posts/beverage-air-mt27-error-codes/)
-- [Beverage-Air Refrigerator Error Code E1 — Causes & Fix](/posts/beverage-air-refrigerator-error-code-e1/)
-- [Beverage-Air Refrigerator Error Code E2 — Evaporator Sensor Causes & Fix](/posts/beverage-air-refrigerator-error-code-e2/)
-- [Bohn Refrigeration Error Code Guide — Causes & Fixes](/posts/bohn-refrigeration-error-codes/)

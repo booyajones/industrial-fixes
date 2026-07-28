@@ -17,8 +17,6 @@ tags:
 
 A Whirlpool dryer that is not heating means the drum tumbles and the dryer runs normally, but the heat circuit is not producing heat. This is a symptom rather than a single fault code, and it has different causes depending on whether your dryer is electric or gas. The most common issues are power-supply problems on electric models, airflow restrictions, or failed heating components like the element or thermal fuse.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **No proper 240V supply on electric dryers** Electric Whirlpool dryers require 240-volt power from two household breakers, and a tripped breaker or blown fuse on one leg will stop the heater while the drum still turns.

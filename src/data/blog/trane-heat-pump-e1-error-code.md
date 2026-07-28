@@ -20,8 +20,7 @@ free_checks:
 part_price: "$20-45"
 ---
 
-## Trane Heat Pump E1 Error — What It Means
-
+## What this code means
 The E1 error code on a Trane heat pump (specifically the mini-split and TVR-Pro series) signals an indoor room temperature sensor failure. The thermistor that measures room temperature is either open (infinite resistance), shorted (zero resistance), or producing unstable readings that the indoor PCB cannot interpret. This sensor is critical for the unit to regulate heating and cooling cycles based on actual room conditions.
 
 While older models or user forums sometimes refer to E1 as a generic communication error, Trane's official mini-split service manual explicitly defines E1 as an indoor room temperature sensor fault. The unit cannot operate properly without a valid room temperature reading, so it will shut down or fail to start until the sensor circuit is repaired.
@@ -29,8 +28,6 @@ While older models or user forums sometimes refer to E1 as a generic communicati
 ## Before You Replace Anything
 
 Some technicians replace the indoor PCB first when the sensor itself is the actual problem. Always measure sensor resistance and compare it to the model chart before replacing the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working with low-voltage electrical circuits or if you lack a multimeter and the skill to measure resistance and interpret a model chart. A technician can quickly isolate whether the fault is in the sensor, harness, or PCB and has access to OEM replacement sensors and boards. Also call a pro if the error persists after you have replaced the sensor and verified the harness, since the PCB replacement requires proper board configuration and refrigerant-side checks to rule out other faults.
 
 **Rough cost:** DIY runs about $25-50 in parts, 30-60 min. A pro service call runs about $120-250.
-
-## See Also
-
-- [Trane Furnace 4 Flashes - Causes & Fix](/posts/trane-furnace-4-flashes-error-code/)
-- [Trane XV15i Heat Pump Error Codes: Complete Variable-Speed Fault Guide](/posts/trane-xv15i-error-codes/)
-- [Trane Furnace Keeps Shutting Off - Causes & Fix](/posts/trane-furnace-keeps-shutting-off/)
-- [Trane Heat Pump E5 Error Code - Causes & Fix](/posts/trane-heat-pump-e5-error-code/)

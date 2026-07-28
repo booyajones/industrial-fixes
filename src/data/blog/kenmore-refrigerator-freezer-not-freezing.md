@@ -19,8 +19,6 @@ A Kenmore freezer that is not freezing is a cooling performance symptom, not a s
 
 This symptom points to a problem somewhere in the cooling or airflow system. Technicians approach it as a step-by-step diagnosis rather than a one-part fix. The exact cause depends on whether the compressor is running, whether the evaporator fan is moving air, and whether frost is choking the coils.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Evaporator fan failure** If the evaporator fan motor has quit or its blades are jammed, cold air will not circulate through the freezer cabinet.

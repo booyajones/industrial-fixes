@@ -17,8 +17,7 @@ money_part: "Samsung microwave main control board"
 part_price: "$80-200"
 ---
 
-## Samsung Microwave E-83 Error Code — What It Means
-
+## What this code means
 Samsung documents the E-83 (also shown as C-F0 or E83) as a communication fault between the main control board and the sub or display board inside the microwave. This is not a door-switch code according to the manufacturer's public error-code page, though some third-party repair sources have reported door-switch or control-board failures under this code on certain models. The display usually shows the code and the microwave will not respond to buttons or start a cook cycle.
 
 The fault can be triggered by a power interruption, moisture on the control panel or electronics, a loose or corroded ribbon cable between boards, or an actual failure of the main or display control board. Samsung's own troubleshooting video recommends a power reset and checking for moisture or contamination on the keypad and electronics as the first two steps.
@@ -26,8 +25,6 @@ The fault can be triggered by a power interruption, moisture on the control pane
 ## Before You Replace Anything
 
 Some technicians replace door switches when they see E-83, but Samsung's published meaning for this code is a board-to-board communication fault, not a door interlock fault. Always power-cycle the unit and check ribbon cables and connectors before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

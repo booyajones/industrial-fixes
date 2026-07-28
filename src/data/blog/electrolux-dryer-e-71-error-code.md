@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Electrolux Dryer E71 Error Code — What It Means
-
+## What this code means
 E71 on an Electrolux dryer indicates an outlet thermistor fault. The dryer's control board is receiving an invalid signal from the outlet or control thermistor circuit, which monitors the exhaust air temperature. When this sensor circuit fails, the dryer cannot safely regulate drying temperature and posts the E71 code.
 
 The fault is most commonly caused by a defective outlet thermistor itself, damaged or corroded wiring between the sensor and the control board, or loose connectors. Less often, the electronic control board itself is at fault if it can no longer read a valid sensor signal even when the thermistor and wiring test good.
@@ -26,8 +25,6 @@ The fault is most commonly caused by a defective outlet thermistor itself, damag
 ## Before You Replace Anything
 
 Many people replace the electronic control board first. Always test the outlet thermistor resistance with a multimeter (should read about 5,000 ohms at room temperature) and inspect the harness for loose pins or corrosion before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -21,8 +21,7 @@ part_price: "$30-60"
 no_buy_pct: "60%"
 ---
 
-## KitchenAid F8E5 Error Code — What It Means
-
+## What this code means
 The F8E5 code on a KitchenAid dishwasher is an overfill or leak-protection fault. When this code appears, the unit enters a drain sequence and prevents normal operation. The dishwasher has detected a water-level problem, typically an overfill condition or water in the base pan from a leak.
 
 KitchenAid's official guidance states that F8E5 triggers a drain sequence and stops the machine. In practice, this means the dishwasher's protection logic has sensed too much water inside the cabinet or base area, either from the machine filling past its normal level or from a leak that has allowed water to collect in the lower chassis where it trips the leak-detection system.
@@ -30,8 +29,6 @@ KitchenAid's official guidance states that F8E5 triggers a drain sequence and st
 ## Before You Replace Anything
 
 Homeowners often replace the control board first, but F8E5 is usually a leak or valve problem. Inspect the base pan for water and test the inlet valve before ordering electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

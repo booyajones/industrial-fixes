@@ -17,8 +17,7 @@ money_part: "Maytag Range Touchpad / Keypad Assembly"
 part_price: "$40-120"
 ---
 
-## Maytag Range F7 Error Code — What It Means
-
+## What this code means
 On most Maytag ranges and ovens, a plain F7 error code signals a control or keypad fault. The underlying problem is typically a stuck function key, a shorted touchpad membrane, or a mismatch between the keypad and the electronic range control (ERC) board. The control detects that a key is being held down continuously or that the keypad circuit is sending bad data.
 
 If your display shows F7 E1 instead of plain F7, the meaning is different. F7 E1 on Maytag wall ovens specifically points to a water boiler temperature sensor or its wiring. Always confirm the exact code on your display before ordering parts, because F7 and F7 E1 require different repairs.
@@ -27,30 +26,12 @@ If your display shows F7 E1 instead of plain F7, the meaning is different. F7 E1
 
 Many people replace the ERC control board first, spending $150–300, when a $40–80 touchpad assembly would have fixed it. Always inspect the keypad for stuck buttons, moisture, or visible damage before swapping the board.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Stuck or shorted key on the touchpad (~45%)** A button is physically jammed, or moisture and grime have bridged the membrane contacts so the control sees a continuous key press.
-- **Failed touchpad or membrane assembly (~30%)** Heat, age, or repeated use cracks the printed circuit or degrades the conductive pads, causing random or persistent key signals.
-- **Loose or corroded wiring connector between keypad and ERC (~15%)** Vibration or heat cycles loosen the harness plug, or corrosion on the pins creates intermittent contact that the control interprets as a fault.
-- **Defective ERC or main control board (~10%)** The board's keypad input circuit fails and can no longer correctly read the touchpad matrix, throwing an F7 even when the keypad is good.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Does the F7 code clear after you turn off the breaker for one minute and then restore power?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The fault is intermittent. Inspect the keypad for stuck buttons or moisture, and check all wiring connectors for looseness or corrosion.<br><strong>No:</strong> The fault is continuous. The touchpad is likely shorted or the ERC has a permanent failure. Replace the touchpad assembly first.</div>
-</details>
-
-<details class="dtree"><summary>Can you see or feel a stuck button on the control panel, or is there visible moisture or grime around the keys?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Clean the keypad with a damp cloth and isopropyl alcohol, let it dry fully, then test. If the code returns, replace the touchpad assembly.<br><strong>No:</strong> The short is internal to the membrane or the control board. Proceed to wiring inspection and then touchpad replacement.</div>
-</details>
-
-<details class="dtree"><summary>Does your display show F7 E1 instead of plain F7?</summary>
-<div class="dtree-body"><strong>Yes:</strong> F7 E1 means a water boiler temperature sensor fault on wall ovens. Inspect the sensor and its wiring, not the keypad.<br><strong>No:</strong> You have a plain F7 keypad fault. Follow the touchpad and control-board troubleshooting steps below.</div>
-</details>
+- **Stuck or shorted key on the touchpad** A button is physically jammed, or moisture and grime have bridged the membrane contacts so the control sees a continuous key press.
+- **Failed touchpad or membrane assembly** Heat, age, or repeated use cracks the printed circuit or degrades the conductive pads, causing random or persistent key signals.
+- **Loose or corroded wiring connector between keypad and ERC** Vibration or heat cycles loosen the harness plug, or corrosion on the pins creates intermittent contact that the control interprets as a fault.
+- **Defective ERC or main control board** The board's keypad input circuit fails and can no longer correctly read the touchpad matrix, throwing an F7 even when the keypad is good.
 
 ## Step-by-Step Fix {#fix}
 
@@ -73,5 +54,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a professional if you are not comfortable working with 240-volt wiring or if you need to remove the range backguard to access the ERC board. A technician can quickly isolate whether the fault is in the touchpad, the harness, or the control board by using a multimeter on the keypad matrix and checking continuity at each connector. If you have already replaced the touchpad and the F7 still appears, a pro can test the ERC inputs and determine whether the board itself has failed, saving you from buying the wrong part a second time.
-
-**Rough cost:** DIY runs about $40–120 in parts (touchpad or control), 30–60 min. A pro service call runs about $150–300 service call including parts and labor.

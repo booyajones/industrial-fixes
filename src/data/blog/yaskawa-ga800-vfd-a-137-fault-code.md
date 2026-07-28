@@ -14,8 +14,7 @@ most_likely_cause: "Misread or non-standard display code"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa GA800 A.137 Fault — What It Means
-
+## What this code means
 A.137 does not appear in the published Yaskawa GA800 fault code lists, which typically use short alphanumeric codes like oC (overcurrent), Uv (undervoltage), or CPF (control power failure). The code may be misread from the keypad display, may belong to a host machine (elevator controller, CNC, HVAC system) that sends custom faults to the drive, or may be an internal diagnostic message not documented in the standard operator manual. If you see A.137 on a GA800 keypad, first confirm the exact characters displayed, then check whether the drive is part of a larger system that generates its own alarm codes.
 
 Without a verified meaning from Yaskawa documentation, the safest approach is to treat A.137 as a generic parameter or communication fault. Record the operating condition when the alarm appeared, inspect all wiring and control terminals for loose connections or damage, verify that motor parameters match the motor nameplate, and attempt a fault reset by cycling power or pressing the keypad reset. If the alarm persists after wiring checks and a reset, consult the GA800 technical manual for your exact firmware revision or contact Yaskawa support with the drive serial number and the complete alarm history to obtain the specific meaning for your installation.
@@ -24,31 +23,13 @@ Without a verified meaning from Yaskawa documentation, the safest approach is to
 
 Technicians sometimes replace the control board or main power module when the real issue is a loose control terminal, incorrect parameter setting, or a fault code forwarded from the host PLC. Always verify wiring, check parameter C1-01 through C1-06 for motor nameplate match, and review the alarm history log before ordering boards.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Misread or non-standard display code (~30%)** The characters may be similar to a documented code (such as A.137 being A1.37 or A-137 in a different format) or the display may be partially obscured by dust or a failing LCD segment.
-- **Host machine or PLC-generated alarm (~25%)** Many industrial systems send custom fault codes to the VFD keypad over a fieldbus or analog input, and A.137 may originate from the elevator controller, CNC, or HVAC system rather than the drive itself.
-- **Parameter configuration mismatch (~20%)** Incorrect motor parameters (especially motor rated current, voltage, or frequency in C1-01 through C1-06) or tuning settings can trigger undefined or undocumented alarms during autotuning or under load.
-- **Loose or damaged control wiring (~15%)** A poor connection at terminals S1 through S7, or a break in the control cable between the drive and external keypad or network module, can produce spurious codes.
-- **Firmware or keypad incompatibility (~10%)** An aftermarket or replacement keypad running different firmware may display codes in a non-standard format, or an older GA800 firmware revision may use internal diagnostics not listed in later manuals.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Does the keypad display the exact sequence A.137, or could it be A1-37, A-137, or another similar code?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Write down the exact characters and spacing, then consult the GA800 technical manual appendix or contact Yaskawa support with your drive serial number to confirm the meaning.<br><strong>No:</strong> Proceed to check wiring and parameters, as the code may be a standard fault displayed in an unfamiliar format.</div>
-</details>
-
-<details class="dtree"><summary>Is the GA800 connected to a PLC, HMI, elevator controller, or other host system via a communication network or analog inputs?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Check the host machine's fault log; the alarm may originate there and be forwarded to the VFD display, so you will need to clear the fault on the host side.<br><strong>No:</strong> The fault is likely internal to the drive; proceed with wiring inspection and parameter verification.</div>
-</details>
-
-<details class="dtree"><summary>Does the alarm clear when you cycle power or press the reset button on the keypad?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The fault was transient; monitor the drive during normal operation and check for intermittent loose connections or external interference on control wiring.<br><strong>No:</strong> The fault condition is still present; inspect control terminals, verify motor parameters, and review the alarm history in the drive menu before replacing any hardware.</div>
-</details>
+- **Misread or non-standard display code** The characters may be similar to a documented code (such as A.137 being A1.37 or A-137 in a different format) or the display may be partially obscured by dust or a failing LCD segment.
+- **Host machine or PLC-generated alarm** Many industrial systems send custom fault codes to the VFD keypad over a fieldbus or analog input, and A.137 may originate from the elevator controller, CNC, or HVAC system rather than the drive itself.
+- **Parameter configuration mismatch** Incorrect motor parameters (especially motor rated current, voltage, or frequency in C1-01 through C1-06) or tuning settings can trigger undefined or undocumented alarms during autotuning or under load.
+- **Loose or damaged control wiring** A poor connection at terminals S1 through S7, or a break in the control cable between the drive and external keypad or network module, can produce spurious codes.
+- **Firmware or keypad incompatibility** An aftermarket or replacement keypad running different firmware may display codes in a non-standard format, or an older GA800 firmware revision may use internal diagnostics not listed in later manuals.
 
 ## Step-by-Step Fix {#fix}
 
@@ -70,12 +51,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a qualified drive technician or Yaskawa-certified integrator if the alarm persists after you have verified wiring, checked motor parameters, and attempted a reset. VFD diagnostics often require specialized tools such as an oscilloscope to check gate-driver signals, a megohmmeter to test motor insulation, or a laptop with Yaskawa DriveWizard Plus software to read extended alarm logs and internal fault registers. A technician can also contact Yaskawa support on your behalf with detailed drive information to decode non-standard alarm messages and determine whether the control board, power module, or external network interface needs replacement. Do not attempt to open the drive enclosure or probe high-voltage terminals without proper lockout/tagout and high-voltage safety training.
-
-**Rough cost:** A pro service call runs about $200–500 for service call, diagnostics, and parameter correction; higher if board replacement is required.
-
-## See Also
-
-- [Yaskawa GA800 VFD E60 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e60-fault-code/)
-- [Yaskawa A1000 CPF00 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf00-fault-code/)
-- [Yaskawa GA800 E31 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e31-fault-code/)
-- [Yaskawa A1000 Uv1 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-uv1-fault-code/)

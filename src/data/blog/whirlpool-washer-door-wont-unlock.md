@@ -19,8 +19,6 @@ When your Whirlpool front-load washer door stays locked, the machine is protecti
 
 You may see a code like LoC or LC on the display, which means Control Lock is enabled and the panel is intentionally disabled. If you see F8 E1 or LO FL, the door is locked and the control may be unresponsive because the washer is running a drain routine. If no code appears but the door won't open, the machine is likely still completing its cycle or waiting for safe conditions to release the latch.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Control Lock is enabled** The LoC or LC display means the control panel has been locked on purpose and will not respond until you deactivate it by holding the Control Lock button for 3 seconds.

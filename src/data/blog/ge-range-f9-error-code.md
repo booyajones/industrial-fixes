@@ -22,15 +22,12 @@ part_price: "$50-110"
 no_buy_pct: "35%"
 ---
 
-## GE Range F9 Error Code — What It Means
-
+## What this code means
 The F9 error code on a GE range indicates the main control board has detected the door lock mechanism in an incorrect state for the current operating mode. During a self-clean cycle, the board expects the door to be locked, and F9 triggers if the sensor reports the door is unlocked while the oven temperature exceeds approximately 915°F. During normal cooking, the board expects the door to be unlocked, and F9 triggers if the sensor reports the door is locked. This typically points to a mechanical latch that is binding or failing to engage properly, or to micro-switches inside the lock assembly that are sending the wrong signal to the control board.
 
 ## Before You Replace Anything
 
 Many people replace the control board first, but the door lock assembly and its wiring are almost always the real culprit. Test continuity on the lock switches and inspect the latch mechanism before buying a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "LG microwave main control board"
 ---
 
-## LG Microwave F1 Error Code — What It Means
-
+## What this code means
 The F1 error code on an LG microwave indicates a problem with the mainboard, according to LG's official support documentation. This is the main control circuit board that runs the microwave's display, touch panel, and relay logic. When the board detects an internal fault or fails to communicate properly with other components, it displays F1 and typically stops all cooking functions.
 
 LG does not publish detailed field diagnostics for this code and directs users to request professional service. The fault is usually in the control PCB itself, its power supply circuit, or the wiring harnesses and connectors that feed it. Because the mainboard is both the diagnostic computer and the component being diagnosed, the code cannot narrow the fault further without board-level testing.
@@ -25,8 +24,6 @@ LG does not publish detailed field diagnostics for this code and directs users t
 ## Before You Replace Anything
 
 Some owners replace the touchpad or membrane switch assembly when they see F1, but the error points specifically to the mainboard. Inspect the board and its connectors for visible damage or burn marks before ordering any part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable working around high-voltage components or removing the microwave cabinet. Even after unplugging, the high-voltage capacitor in the magnetron circuit can hold a dangerous charge. LG recommends professional service for the F1 code because diagnosing board-level faults requires specialized test equipment and knowledge of the control architecture. A qualified technician can verify the board fault, confirm that the transformer and magnetron are not contributing to the problem, and install a genuine LG replacement board with the correct firmware. If your microwave is still under warranty, contact LG or an authorized service center before opening the unit, as self-repair may void coverage.
 
 **Rough cost:** A pro service call runs about $200–400.
-
-## See Also
-
-- [LG Washer Burning Smell - Causes & Fix](/posts/lg-washer-burning-smell/)
-- [LG Washer dE Error Code - Causes & Fix](/posts/lg-washer-de-error-code/)
-- [LG Oven Burner Won't Light - Causes & Fix](/posts/lg-oven-burner-wont-light/)
-- [LG Dryer tE2 Error Code - Causes & Fix](/posts/lg-dryer-te2-error-code/)

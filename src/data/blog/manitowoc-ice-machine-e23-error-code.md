@@ -19,8 +19,7 @@ free_checks:
 part_price: "$50-90"
 ---
 
-## Manitowoc E23 Error Code — What It Means
-
+## What this code means
 The E23 error code on a Manitowoc ice machine indicates a T3 Temperature Sensor fault. The control board is not receiving a valid temperature reading from the sensor mounted inside the evaporator plate (the flat surface where ice forms). The sensor circuit is either open, shorted, or providing a resistance value outside the expected range, so the machine halts production because it cannot monitor the freezing process accurately.
 
 The T3 sensor is physically located inside the evaporator, not on the discharge line or condenser. When the machine throws E23, it means the control board sees no valid signal or an out-of-spec resistance reading from that probe. Fixing the error requires diagnosing whether the sensor itself has failed, the wiring is damaged, or the control board's input circuit is faulty.
@@ -28,8 +27,6 @@ The T3 sensor is physically located inside the evaporator, not on the discharge 
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board when the problem is just a corroded connector or broken wire at the KE4 harness. Always measure sensor resistance (should be approximately 10kΩ at room temperature) and inspect the wiring before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified commercial refrigeration technician for E23 errors. Diagnosing the fault requires working inside the machine's electrical cabinet, measuring sensor resistance with a multimeter, and accessing the evaporator compartment where the T3 sensor is mounted. Replacing the sensor involves routing wiring through sealed or tight spaces and verifying the refrigerant system is not affected. If the control board is at fault, the technician will need to swap the board and reprogram machine settings. Commercial ice machines also require periodic cleaning and scale removal, which a tech can handle during the same visit to prevent future sensor errors.
 
 **Rough cost:** A pro service call runs about $200-400.
-
-## See Also
-
-- [Manitowoc E34 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e34-error-code/)
-- [Manitowoc Ice Machine E01 Error: Long Freeze Cycle Shutdown Causes and Fix](/posts/manitowoc-e01-long-freeze/)
-- [Manitowoc E08 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e08-error-code/)
-- [Manitowoc E16 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e16-error-code/)

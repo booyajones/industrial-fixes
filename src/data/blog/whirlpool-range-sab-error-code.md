@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Owner's manual (Whirlpool range)"
 ---
 
-## Whirlpool Range SAB Error Code — What It Means
-
+## What this code means
 The SAB code (and its variants Sab, 5AB, and 5A6) indicates that Sabbath Mode is currently active on your Whirlpool range. This is not a fault or failure code. Sabbath Mode is a feature that restricts oven operation to bake-only cycles, disables tones and chimes, and limits display feedback to comply with religious observance requirements. When Sabbath Mode is enabled, all cooking and cleaning cycles except bake are disabled, and the mode can remain active for up to 72 hours on some models or until manually turned off.
 
 Because SAB is a mode indicator rather than a hardware fault, Whirlpool does not link this code to any component failure or replacement part. The display appears when someone has intentionally enabled Sabbath Mode through the range's control panel or key sequence. To clear the code, you must exit Sabbath Mode using the procedure specific to your model, which is found in the owner's manual.
@@ -25,8 +24,6 @@ Because SAB is a mode indicator rather than a hardware fault, Whirlpool does not
 ## Before You Replace Anything
 
 Homeowners sometimes assume SAB is a control-board fault and replace the control panel. Before ordering parts, verify the code meaning in your owner's manual and try the Sabbath Mode exit sequence, which costs nothing.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -22,8 +22,7 @@ part_price: "$40–75"
 no_buy_pct: "60%"
 ---
 
-## Amana Dishwasher F9E1 Error Code — What It Means
-
+## What this code means
 The F9E1 code on an Amana dishwasher means the control has detected that the unit is not draining within the expected time or power cycle. In plain terms, the dishwasher filled with water but could not empty it quickly enough, so it stopped and threw the error to protect itself from overflow or pump damage.
 
 This is a drain-failure code specific to Amana dishwashers. It does not apply to Amana washing machines, which use the same code letters for a completely different fault. When you see F9E1 on the display, the machine is telling you that water is still sitting in the tub or that the drain cycle timed out before the pump could finish its job.
@@ -31,8 +30,6 @@ This is a drain-failure code specific to Amana dishwashers. It does not apply to
 ## Before You Replace Anything
 
 Many people replace the drain pump first without checking the disposal knockout plug or drain hose. Always verify the drain path is open and the hose is not kinked before spending money on a new pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

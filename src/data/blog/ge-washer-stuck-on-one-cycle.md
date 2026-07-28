@@ -19,8 +19,6 @@ A GE washer stuck on one cycle typically means the electronic controls have lock
 
 In many cases the washer is not mechanically broken. The controls simply need to be reset and the cycle reselected. If the problem returns after reset, you are likely dealing with an unbalanced load, a leveling issue, or a mechanical fault in the suspension, drain pump, or motor assembly.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Electronic control lockup after interruption** Power failure, user stop/pause, or cycle interruption can cause the controls to freeze and leave the washer stuck in final spin or another phase.
@@ -53,9 +51,9 @@ In many cases the washer is not mechanically broken. The controls simply need to
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Ge Washer C2 error code](/posts/ge-washer-c2-error-code/)
+- Ge Washer C2 error code
 - [Ge Washer C5 error code](/posts/ge-washer-c5-error-code/)
-- [Ge Washer E23 error code](/posts/ge-washer-e23-error-code/)
+- Ge Washer E23 error code
 
 ## When to Call a Pro
 

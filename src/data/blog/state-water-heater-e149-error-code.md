@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## State Water Heater E149 Error — What It Means
-
+## What this code means
 There is no verified E149 error code documented for State brand water heaters. The E149 code specifically belongs to Truma water heaters (commonly installed in recreational vehicles), where it indicates a water temperature switch over-temperature fault. This means the heater's safety switch detected water temperature exceeded the safe limit and shut the system down to prevent damage.
 
 If you are seeing E149 on a State residential water heater, consult your owner's manual or the wiring diagram on the unit to verify the exact meaning for your model. State water heaters typically use different fault codes than Truma RV units. The troubleshooting steps below apply to Truma systems showing E149. For an actual State unit, contact State customer support or a qualified technician to confirm the code meaning before attempting repairs.
@@ -29,8 +28,6 @@ If you are seeing E149 on a State residential water heater, consult your owner's
 ## Before You Replace Anything
 
 Homeowners sometimes replace the gas control valve or thermocouple first. Check all electrical connections (especially fuses on the vertical panel), verify the gas solenoid is open, and confirm the tank is full before replacing any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

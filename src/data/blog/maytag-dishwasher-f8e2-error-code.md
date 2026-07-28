@@ -17,8 +17,7 @@ money_part: "Detergent Dispenser Assembly"
 part_price: "$40-120"
 ---
 
-## Maytag Dishwasher F8E2 Error — What It Means
-
+## What this code means
 The F8E2 error code on Maytag dishwashers indicates a dispenser system fault. Maytag's own product help identifies this as a problem with the detergent dispenser, typically caused by a clogged or obstructed dispenser assembly. The dispenser motor may be unable to find its pre-wash position, or a position-sensing circuit may have failed.
 
 This code points to the mechanical or electrical components of the detergent dispenser rather than the drain system. The fault can stem from detergent buildup, a failed actuator motor, damaged wiring in the dispenser circuit, or a control board issue. Maytag's published guidance directs you to clean the dispenser and perform a power reset as the first remedy.
@@ -26,8 +25,6 @@ This code points to the mechanical or electrical components of the detergent dis
 ## Before You Replace Anything
 
 Some technicians replace the main control board first. Always clean the dispenser thoroughly, inspect the dispenser motor and wiring harness for damage, and test actuator operation before condemning the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

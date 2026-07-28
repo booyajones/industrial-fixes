@@ -19,8 +19,6 @@ A Samsung washer that shakes and makes loud noise during the spin cycle is usual
 
 The root cause is that something is preventing the drum from spinning smoothly and staying centered. Samsung's own troubleshooting points to three installation issues first: shipping bolts left in place, the washer not sitting level, or an uneven load. If those are ruled out, the problem is usually worn suspension parts like shock absorbers or suspension rods that can no longer dampen drum movement during high-speed spin.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Shipping bolts not removed** Front-load Samsung washers ship with transit bolts that lock the drum rigid, and if not removed before first use the drum cannot move on its springs and will shake violently and make loud banging noises.
@@ -54,18 +52,18 @@ The root cause is that something is preventing the drum from spinning smoothly a
 
 Seeing a code on the display? These match this problem:
 
-- [Samsung Washer 1C error code](/posts/samsung-washer-1c-error-code/)
-- [Samsung Washer 4C error code](/posts/samsung-washer-4c-error-code/)
-- [Samsung Washer 5E error code](/posts/samsung-washer-5e-error-code/)
+- Samsung Washer 1C error code
+- Samsung Washer 4C error code
+- Samsung Washer 5E error code
 - [Samsung Washer Ae error code](/posts/samsung-washer-ae-error-code/)
-- [Samsung Washer Bc error code](/posts/samsung-washer-bc-error-code/)
+- Samsung Washer Bc error code
 - [Samsung Washer Bc1 error code](/posts/samsung-washer-bc1-error-code/)
-- [Samsung Washer Be error code](/posts/samsung-washer-be-error-code/)
-- [Samsung Washer Be0 error code](/posts/samsung-washer-be0-error-code/)
+- Samsung Washer Be error code
+- Samsung Washer Be0 error code
 - [Samsung Washer Be1 error code](/posts/samsung-washer-be1-error-code/)
-- [Samsung Washer Be2 error code](/posts/samsung-washer-be2-error-code/)
+- Samsung Washer Be2 error code
 - [Samsung Washer Be3 error code](/posts/samsung-washer-be3-error-code/)
-- [Samsung Washer Be4 error code](/posts/samsung-washer-be4-error-code/)
+- Samsung Washer Be4 error code
 
 ## When to Call a Pro
 

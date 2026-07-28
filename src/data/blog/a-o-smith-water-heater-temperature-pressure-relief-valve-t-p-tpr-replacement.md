@@ -57,7 +57,7 @@ If this part is failing you may also see one of these codes:
 
 - [A O Smith Water Heater E2 error code](/posts/a-o-smith-water-heater-e2-error-code/)
 - [A O Smith Water Heater E4 error code](/posts/a-o-smith-water-heater-e4-error-code/)
-- [A O Smith Water Heater E6 error code](/posts/a-o-smith-water-heater-e6-error-code/)
+- A O Smith Water Heater E6 error code
 
 ## When to Call a Pro
 

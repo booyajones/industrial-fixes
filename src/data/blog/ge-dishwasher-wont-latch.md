@@ -17,8 +17,6 @@ tags:
 
 When your GE dishwasher won't latch, the door is not being mechanically captured by the latch or the latch switch is not changing state when the door closes. The control does not detect a closed door, so the machine will not start, will not run, or will not enter diagnostics mode. This is a mechanical or electrical door-latch failure rather than a fault code.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed door latch switch or assembly** Worn internal contacts, broken actuator, or open circuit in the latch body prevent the switch from changing state when the door closes.
@@ -61,8 +59,8 @@ If your appliance also shows a code on the display, these match this problem:
 - [Ge Dishwasher C8 error code](/posts/ge-dishwasher-c8-error-code/)
 - [Ge Dishwasher Ef error code](/posts/ge-dishwasher-ef-error-code/)
 - [Ge Dishwasher F56 error code](/posts/ge-dishwasher-f56-error-code/)
-- [Ge Dishwasher F9 error code](/posts/ge-dishwasher-f9-error-code/)
-- [Ge Dishwasher Ff error code](/posts/ge-dishwasher-ff-error-code/)
+- Ge Dishwasher F9 error code
+- Ge Dishwasher Ff error code
 
 ## When to Call a Pro
 

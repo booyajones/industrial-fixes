@@ -20,8 +20,6 @@ A Carrier furnace blowing cold air is not a fault code by itself. Carrier's own 
 
 If you see a blinking LED code on the control board, the exact meaning depends on the furnace model's code chart on the cabinet door or control board, and you will need that code number to identify the problem precisely.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Thermostat set to cool or fan on** The thermostat is in cool mode instead of heat, or the fan is set to on so the blower circulates unheated air between cycles.
@@ -64,10 +62,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the furnace still blows cold air after you have confirmed the thermostat settings, replaced the filter, and cleared any obvious vent obstructions. Gas ignition, flame-sensor, and pressure-switch diagnostics require test equipment and safe handling of gas components. A tech will measure electrical inputs, inspect the venting and condensate system on condensing furnaces, and replace failed ignition or sensing parts without bypassing safeties. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Carrier WeatherMaker Rooftop Unit Error Codes: Complete Guide](/posts/carrier-weatheramaker-error-codes/)
-- [Carrier Error Code 26 - Causes & Fix](/posts/carrier-error-code-26/)
-- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
-- [Carrier E19 Error Code - Causes & Fix](/posts/carrier-heat-pump-e19-error-code/)

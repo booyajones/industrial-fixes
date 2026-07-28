@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Danfoss FC302 AL-75 — What It Means
-
+## What this code means
 The alarm code AL-75 does not appear in Danfoss's official VLT AutomationDrive FC 302 documentation. Danfoss lists over 90 alarms but Alarm 75 is not among them. If your display shows AL-75, you may be reading another code incorrectly (such as AL-17 or AL-70), or you have Alarm 38 with sub-code 75, which indicates an internal fault in the drive's control logic, memory, or power section.
 
 Alarm 38 sub-codes are not publicly documented by Danfoss and require factory service interpretation. The sub-code typically points to a specific internal failure in the logic board, power board, or firmware that only Danfoss technicians can decode. Before assuming a hardware fault, verify the exact alarm number on your display and consult your drive's alarm log.
@@ -29,8 +28,6 @@ Alarm 38 sub-codes are not publicly documented by Danfoss and require factory se
 ## Before You Replace Anything
 
 Technicians sometimes replace the power board before checking that the displayed code is actually valid. Verify the exact alarm number in the drive's alarm history log and power-cycle the drive before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a factory-trained Danfoss service technician when the alarm persists after a power cycle, when you have confirmed Alarm 38 with a sub-code that requires decoding, or when you need to replace the control or power board. VFD internal faults involve high DC-link voltages (often 650 VDC or higher) and complex diagnostics that require specialized test equipment and knowledge of the drive's firmware architecture. Danfoss does not publish sub-code meanings for Alarm 38, so only authorized service providers can interpret the exact fault and determine whether the control board, power board, or another internal component has failed.
 
 **Rough cost:** A pro service call runs about $400-1200.
-
-## See Also
-
-- [Danfoss FC302 AL-99 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-99-fault-code/)
-- [Danfoss FC302 Alarm 17 - Causes & Fix](/posts/danfoss-fc302-alarm-17-fault-code/)
-- [Danfoss FC301 Fault AL 14 — Ground Fault Causes & Fix](/posts/danfoss-fc301-fault-al-14/)
-- [Danfoss FC302 VFD Alarm 23 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-23-fault-code/)

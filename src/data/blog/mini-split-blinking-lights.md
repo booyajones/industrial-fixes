@@ -16,8 +16,6 @@ tags:
 
 Blinking lights on a mini split are the system's way of saying it has stored or detected a fault. Some brands show a real alphanumeric code on the display. Others blink timer, operation, or defrost lights in a pattern. The good news is that the root causes are pretty consistent across brands.
 
-[Jump to Fix](#fix)
-
 ## Common Mini Split Blinking Light Meanings
 
 | Symptom / Code | Common Meaning | Typical Brands |
@@ -63,11 +61,3 @@ The same blink pattern does not mean the same thing on every brand. Always pair 
 ## When to Call a Pro
 
 If the blinking lights trace back to an inverter protection fault, compressor fault, or suspected refrigerant issue, stop resetting it and call a mini split tech. Repeatedly forcing a faulted inverter system to restart is how cheap problems become expensive ones.
-
-## Related Articles
-
-- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
-- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
-- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
-- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
-- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)

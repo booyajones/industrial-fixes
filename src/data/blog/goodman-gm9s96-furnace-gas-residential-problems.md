@@ -42,10 +42,3 @@ The Goodman GM9S96 is a 96% AFUE modulating gas furnace used in residential heat
 ## When to Call a Pro
 
 Call a licensed HVAC technician for all gas valve work, gas pressure testing, heat exchanger inspection, refrigerant or electrical diagnostics, and any situation where you smell gas or see flame rollout. If you have replaced the igniter and flame sensor, checked all hoses and filters, and the furnace still locks out or flashes a code, a tech with a multimeter and manometer can test gas pressure, flame current, inducer draft, and board outputs to isolate the fault. Any cracked heat exchanger or suspected gas leak requires immediate professional service and a furnace shutdown.
-
-## See Also
-
-- [Goodman Heat Pump E1 Error Code — Pressure Switch Fault](/posts/goodman-heat-pump-error-code-e1/)
-- [Goodman GMVC96 Furnace Problems & Error Codes](/posts/goodman-gmvc96-furnace-gas-residential-problems/)
-- [Goodman Furnace Won't Turn On - Causes & Fix](/posts/goodman-furnace-wont-turn-on/)
-- [Goodman Furnace 2 Flashes — Pressure Switch Stuck Closed Fix](/posts/goodman-furnace-2-flashes/)

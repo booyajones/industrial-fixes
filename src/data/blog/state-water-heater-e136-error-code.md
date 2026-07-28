@@ -17,8 +17,7 @@ free_checks:
   - "Power cycle the unit by unplugging it for 60 seconds, then reconnecting"
 ---
 
-## State Water Heater E136 Error — What It Means
-
+## What this code means
 E136 does not appear in any official State Water Heaters technical manual or support database. State (a subsidiary of A.O. Smith) publishes error codes such as E001, E003, E012, E030, and E110 for tankless units, but E136 is not among them. You may have misread a similar code (E110 for low water flow, E012 for flame loss, E130 for exhaust overheat) or your unit may have a non-OEM control board that uses proprietary codes not found in manufacturer documentation.
 
 Before attempting any repair, locate the rating plate on your unit, scan the QR code to access official support resources, and confirm the exact error code displayed. If the display truly shows E136 and your manual does not list it, contact State Water Heaters technical support or a certified contractor. Do not proceed with parts replacement based on an unverified code.
@@ -26,8 +25,6 @@ Before attempting any repair, locate the rating plate on your unit, scan the QR 
 ## Before You Replace Anything
 
 Technicians sometimes replace the gas valve or control board when the real issue is a plugged vent, dirty flame sensor, or low gas pressure. Verify the exact error code in your manual and perform free physical checks first.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

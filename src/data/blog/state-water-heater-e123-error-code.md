@@ -13,11 +13,8 @@ money_part: "Control board (model-specific)"
 most_likely_cause: "Misidentified brand or equipment type"
 ---
 
-## State Water Heater E123 Error Code — What It Means
-
+## What this code means
 E123 does not appear in State water heater documentation as a standard error code. State routes all troubleshooting through model-specific manuals and support resources rather than publishing a universal fault code list. The code you are seeing may be from a different brand, a misread display, or a model-specific code that requires the exact unit manual to interpret. Always start by locating the rating plate or QR code on your water heater and pulling the correct literature for your model from State's support portal.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

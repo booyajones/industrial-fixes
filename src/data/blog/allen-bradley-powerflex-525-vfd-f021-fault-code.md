@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Allen-Bradley PowerFlex 525 F021 — What It Means
-
+## What this code means
 F021 on an Allen-Bradley PowerFlex 525 means Output Phase Loss. The drive has detected loss of one output phase to the motor. This fault only appears when output phase-loss protection is enabled in parameter A557 (Output Phas Loss En). The drive is telling you it cannot see all three phases at the motor terminals, which points to a break or open circuit somewhere between the drive output and the motor windings.
 
 The fault protects the motor from running unbalanced, which would overheat and damage the windings. When F021 trips, the drive shuts down to prevent harm. The problem lies in the physical connection path or the motor itself, not in the drive logic or programming.
@@ -24,8 +23,6 @@ The fault protects the motor from running unbalanced, which would overheat and d
 ## Before You Replace Anything
 
 Technicians sometimes replace the PowerFlex 525 drive before checking all motor wiring terminations and testing motor winding continuity with a meter. A simple resistance check across all three motor leads usually finds the open phase and saves the cost of a new drive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or industrial technician for F021. The repair requires working on three-phase VFD output wiring, which carries high voltage and high-frequency switching transients that can cause shock or arc flash. The technician will need a multimeter to verify continuity and balance across motor windings, knowledge of VFD parameter settings to check A557, and the ability to safely lock out and test under load. If the motor or drive must be replaced, a professional ensures proper grounding, cable routing, and parameter re-entry so the new equipment runs reliably without nuisance faults.
 
 **Rough cost:** A pro service call runs about $150-500.
-
-## See Also
-
-- [Allen-Bradley PowerFlex 525 F070 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f070-fault-code/)
-- [Allen-Bradley PowerFlex 525 F072 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f072-fault-code/)
-- [Allen-Bradley PowerFlex 755 Power Loss Fault Fix](/posts/allen-bradley-powerflex-755-power-loss-fault/)
-- [Allen-Bradley PowerFlex F041 Fault - Motor Overload: What It Means and How to Fix It](/posts/allen-bradley-powerflex-f041-fault/)

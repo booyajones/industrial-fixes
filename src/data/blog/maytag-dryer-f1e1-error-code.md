@@ -17,8 +17,7 @@ money_part: "Electronic control board (main control)"
 part_price: "$80-200"
 ---
 
-## Maytag Dryer F1E1 Error Code — What It Means
-
+## What this code means
 The F1E1 code on a Maytag dryer indicates the control system has detected an internal electronic fault or a communication problem between control components. It is not an airflow or temperature sensor code. Maytag's official guidance instructs you to power the unit down completely for five minutes, restore power, run a Time Dry cycle for one minute, and watch whether the code reappears.
 
 If F1E1 returns after the reset, the fault is persistent and points to a problem in the control electronics, wiring harnesses, or connections between the user interface and the main control board. Third-party sources sometimes suggest other meanings, but manufacturer documentation for Maytag dryers treats F1E1 as a control-related issue requiring either a power reset or board-level repair.
@@ -26,8 +25,6 @@ If F1E1 returns after the reset, the fault is persistent and points to a problem
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board immediately without inspecting connectors and harnesses. Check every plug and wire for looseness, corrosion, or damage before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

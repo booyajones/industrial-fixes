@@ -17,8 +17,7 @@ money_part: "GE oven meat probe"
 part_price: "$15-50"
 ---
 
-## GE Oven FD Error Code — What It Means
-
+## What this code means
 FD on a GE oven or range signals a probe circuit fault. GE support documents state that this code typically indicates the meat probe or the probe receptacle needs to be replaced. Independent repair sources describe FD more specifically as a shorted meat probe or a fault somewhere in the probe and receptacle path.
 
 The code appears when the control board detects an abnormal reading from the meat-probe circuit. This can be caused by a defective probe with an internal short, a damaged or contaminated receptacle at the oven wall, or pinched and corroded wiring between the receptacle and the control. In less common cases the control board itself may be at fault, but GE's published meaning for FD centers on the probe and receptacle side of the circuit.
@@ -26,8 +25,6 @@ The code appears when the control board detects an abnormal reading from the mea
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board when the real problem is a shorted probe or corroded receptacle. Always unplug the probe and inspect both the probe cord and the receptacle terminals before ordering any control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

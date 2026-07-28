@@ -17,8 +17,7 @@ money_part: "Oven temperature sensor"
 part_price: "$20-80"
 ---
 
-## KitchenAid Range F2 Error Code — What It Means
-
+## What this code means
 On a KitchenAid range, the F2 error code indicates a problem with the oven temperature sensor, the electronic control board, or the wiring between them. If the display shows F2 E0, KitchenAid defines that as a fault involving the user interface or keypad, the control, or the associated wiring. The exact meaning can vary slightly by model platform, so checking your owner's manual or wiring diagram is the safest approach.
 
 In the field, technicians most often find that F2 is triggered by a failed or drifting oven temperature sensor, an open or short in the sensor harness, or a logic problem on the control board. A power reset clears the code in many cases, but if it returns the fault is real and a component or connection needs repair.
@@ -26,8 +25,6 @@ In the field, technicians most often find that F2 is triggered by a failed or dr
 ## Before You Replace Anything
 
 Many people replace the expensive electronic control board first. Always measure the oven temperature sensor resistance and inspect the wiring harness before ordering a control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -52,10 +52,3 @@ In hard-water areas or homes with older galvanized pipe the filter plugs faster.
 ## When to Call a Pro
 
 If error E001 persists after you replace the inlet valve, clean the filter, and confirm supply pressure is 40 to 80 psi, the fault may lie in the flow sensor, internal water passages, or a scaled heat exchanger that requires chemical flushing. A licensed plumber or Navien technician can test the flow-sensor signal, descale the exchanger with a pump and commercial descaler, and verify that no downstream restrictions or component failures are present. Gas-fired tankless units also require combustion-air and venting checks during service, so professional diagnosis saves repeated part swaps and protects your warranty. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Navien E007 Error Code - Causes & Fix](/posts/navien-tankless-e007-error-code/)
-- [Navien Tankless E013 Error Code - Causes & Fix](/posts/navien-tankless-e013-error-code/)
-- [Navien NCB-700 Combination Boiler Error Codes - Full Fault Guide](/posts/navien-ncb-700-error-codes/)
-- [Navien E030 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e030-error-code/)

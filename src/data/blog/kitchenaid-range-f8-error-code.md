@@ -16,8 +16,7 @@ money_part: "Float switch (KitchenAid dishwasher overfill sensor)"
 part_price: "$15-50"
 ---
 
-## KitchenAid F8 Error Code — What It Means
-
+## What this code means
 The F8E4 code appears on KitchenAid dishwashers when the machine detects a water-level fault related to overfill or leak detection. The dishwasher will not run normally until the condition is corrected and the code is cleared. This fault is triggered by the float switch, which sits in a drip tray beneath the tub and rises when water accumulates there, or by issues with the water supply connection or excessive suds.
 
 KitchenAid troubleshooting guidance identifies F8E4 as an overfill condition and directs you to check for water in the drip tray, verify the water supply connection is properly seated, and confirm the float switch connector is fully locked in. The code prevents operation to protect against flooding and must be addressed before the dishwasher will resume normal cycles.
@@ -25,8 +24,6 @@ KitchenAid troubleshooting guidance identifies F8E4 as an overfill condition and
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board or inlet valve first. Before ordering parts, remove and inspect the drip tray for water and verify the supply line connection is properly tightened and not cross-threaded.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

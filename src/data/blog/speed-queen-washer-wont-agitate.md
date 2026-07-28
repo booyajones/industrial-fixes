@@ -17,8 +17,6 @@ tags:
 
 A Speed Queen washer that won't agitate means the machine fills and enters the wash cycle, but the agitator or basket does not move as expected. Other functions like fill and drain may still work normally. This is a symptom rather than a specific fault code, and it points to a mechanical drive failure somewhere between the motor and the agitator assembly. In technician terms, it is a no-agitate condition that requires step-by-step isolation of the drive train and safety interlocks.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Worn or stripped agitator repair kit components** Internal agitator parts wear out over time and stop gripping the drive shaft, so the agitator spins freely or does not move at all even though the transmission shaft turns.
@@ -59,12 +57,12 @@ If your appliance also shows a code on the display, these match this problem:
 - [Speed Queen Washer Du error code](/posts/speed-queen-washer-du-error-code/)
 - [Speed Queen Washer E 05 error code](/posts/speed-queen-washer-e-05-error-code/)
 - [Speed Queen Washer E 07 error code](/posts/speed-queen-washer-e-07-error-code/)
-- [Speed Queen Washer E 08 error code](/posts/speed-queen-washer-e-08-error-code/)
+- Speed Queen Washer E 08 error code
 - [Speed Queen Washer E 0D error code](/posts/speed-queen-washer-e-0d-error-code/)
-- [Speed Queen Washer E1 error code](/posts/speed-queen-washer-e1-error-code/)
+- Speed Queen Washer E1 error code
 - [Speed Queen Washer E5 error code](/posts/speed-queen-washer-e5-error-code/)
 - [Speed Queen Washer E7 error code](/posts/speed-queen-washer-e7-error-code/)
-- [Speed Queen Washer Ec 09 error code](/posts/speed-queen-washer-ec-09-error-code/)
+- Speed Queen Washer Ec 09 error code
 
 ## When to Call a Pro
 

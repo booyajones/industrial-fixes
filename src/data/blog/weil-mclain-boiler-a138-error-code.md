@@ -17,8 +17,7 @@ free_checks:
   - "Enter the contractor diagnostic menu and record the full fault history and any other active codes."
 ---
 
-## Weil-McLain Boiler A138 Error — What It Means
-
+## What this code means
 The A138 code is not a manufacturer-universal fault code documented in standard Weil-McLain service manuals. It is likely a model-specific or control-platform-specific service code or history entry. Weil-McLain boilers use different control systems across their product lines, and each controller can display unique diagnostic codes. The exact meaning of A138 must be confirmed from your specific boiler's installation and service manual or from the control manufacturer's documentation before you attempt any repair.
 
 Because the code is not universally defined, the root cause could involve a temperature sensor, flame detection issue, stuck relay, circulation problem, or condensate drainage fault. These are common fault categories on Weil-McLain boilers, but you should not replace parts based on guesswork. Retrieve the fault history from the diagnostic menu, record the operating conditions when the fault occurred, and cross-reference the code in your model's manual to identify the failed component.
@@ -26,8 +25,6 @@ Because the code is not universally defined, the root cause could involve a temp
 ## Before You Replace Anything
 
 Many technicians replace the control board or flame sensor first when they see an unfamiliar code. Pull the fault history from the diagnostic menu and test the suspected sensor or relay electrically with a meter before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified heating technician if you cannot access the diagnostic menu, if the fault history shows multiple unrelated codes, if you do not have the service manual for your specific model, or if electrical testing and relay or sensor replacement are beyond your skill level. Gas-fired boiler work involves combustion safety, venting, and electrical controls that require proper training and test equipment. Incorrect diagnosis or part replacement can leave the system unsafe or cause repeated failures. A technician can retrieve the fault history, cross-reference the A138 code in the correct manual, test the suspected component, and replace only the failed part with the manufacturer-approved part number.
 
 **Rough cost:** A pro service call runs about $200-450.
-
-## See Also
-
-- [Weil-McLain A35 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a35-error-code/)
-- [Weil-McLain A164 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a164-error-code/)
-- [Weil-McLain A38 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a38-error-code/)
-- [Weil-McLain Boiler A25 Error - Causes & Fix](/posts/weil-mclain-boiler-a25-error-code/)

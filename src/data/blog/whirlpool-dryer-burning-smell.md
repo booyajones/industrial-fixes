@@ -19,8 +19,6 @@ A burning smell from your Whirlpool dryer is not a fault code. It is a symptom t
 
 Whirlpool repair guidance treats a persistent burning smell as a sign to stop the dryer and inspect the lint system, belt, blower, heating element, motor, and control board. The smell means heat or friction is building up somewhere it should not, and continued use without inspection can damage components or create a fire hazard.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Lint buildup near heater, trap, drum, or vent** Lint overheats when it collects around the heating element, inside the lint chute, in the blower housing, or along the exhaust path.

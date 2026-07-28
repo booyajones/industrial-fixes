@@ -13,11 +13,8 @@ money_part: "Main control board (PCB)"
 most_likely_cause: "Loose, corroded, or damaged wiring and connectors"
 ---
 
-## State Water Heater E76 Error Code — What It Means
-
+## What this code means
 The E76 (sometimes shown as F76) error code on a State water heater indicates a general internal communication error between the control board and other electronic components inside the unit. The control system has lost or cannot establish reliable communication with one or more internal modules. This is not a single sensor reading or a fixed mechanical fault. Instead, it tells you the electronics cannot talk to each other properly, and the heater will not operate normally until the communication path is restored.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

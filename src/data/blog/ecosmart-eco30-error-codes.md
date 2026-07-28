@@ -13,13 +13,10 @@ money_part: "EcoSmart inlet thermistor (temperature sensor)"
 most_likely_cause: "Failed inlet or outlet thermistor"
 ---
 
-## EcoSmart ECO 30 Error Codes — What It Means
-
+## What this code means
 The EcoSmart ECO 30 displays error codes when the control board detects a fault in temperature sensing, flow conditions, or electrical supply. The most common codes are E1 (inlet thermistor fault), E2 (outlet thermistor fault), E3 (both thermistor sensors affected), E4 (high-temperature condition), E5 (excessive flow rate), and S103 (low voltage). These codes protect the unit from operating under unsafe or improper conditions.
 
 Each code points to a specific subsystem. Temperature sensor codes (E1, E2, E3) indicate a failed or out-of-range thermistor. E4 signals overheating or a sensor reading beyond safe limits. E5 means the flow rate exceeds the heater's design capacity. S103 indicates the unit is not receiving sufficient voltage to operate safely. Repair starts with confirming the displayed code, then testing the associated circuit or condition.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

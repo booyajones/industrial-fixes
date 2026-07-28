@@ -13,13 +13,10 @@ money_part: "Siemens BOP-2 Basic Operator Panel"
 most_likely_cause: "Misread or partial fault code"
 ---
 
-## Siemens G120 A01590 Fault Code — What It Means
-
+## What this code means
 A01590 does not appear in published Siemens SINAMICS G120 fault and alarm code lists. Siemens uses five-digit codes like F01001 or A01251, and the A01590 identifier may be a transcription error, a code from another drive family, or an internal diagnostic value not listed in standard manuals. The G120 stores fault and alarm history in diagnostic buffers accessible through parameters r0945, r0947, and r0949. Reading these parameters directly from the drive will show the actual fault number and detailed cause.
 
 If you see A01590 on your display or operator panel, verify the exact text and check whether the drive is a G120, G120C, G120D, or another SINAMICS model. Some codes are device-specific or firmware-version-specific. Siemens documentation instructs technicians to consult the diagnostic buffer and cross-reference the code in the drive's list manual rather than relying on partial or misread numbers.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ If you see A01590 on your display or operator panel, verify the exact text and c
 ## When to Call a Pro
 
 Call a qualified technician or Siemens-certified service partner if you cannot locate the fault code in your drive's list manual after reading the diagnostic buffer, if the drive continues to trip after a POWER ON reset and all wiring checks are complete, or if Siemens support confirms the code requires internal diagnostics or hardware replacement. Professional help is also necessary if you lack STARTER software access, cannot update firmware safely, or if the drive is part of a networked system where incorrect troubleshooting may affect other machines.
-
-## See Also
-
-- [Siemens SINAMICS G120X Fault Codes: Complete Guide](/posts/siemens-g120x-fault-codes/)
-- [Siemens VFD F0002 Fault - Overvoltage: What It Means and How to Fix It](/posts/siemens-vfd-f0002-fault/)
-- [Siemens G120 F01040 - Causes & Fix](/posts/siemens-g120-f01040-fault-code/)
-- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)

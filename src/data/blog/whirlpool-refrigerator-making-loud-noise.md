@@ -17,8 +17,6 @@ tags:
 
 A Whirlpool refrigerator making a loud noise is not a fault code. It is a symptom that can come from normal operation or from a mechanical issue, so you need to identify the specific sound and its source first. Whirlpool describes many sounds as normal, including buzzing from the compressor or fans during performance changes, hissing from refrigerant flow, gurgling or dripping during defrost water movement, and creaking or cracking from ice maker ejection. A loud buzz or persistent grinding, however, can indicate a problem and may require service.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Evaporator fan motor failure or ice interference** This is often the top suspect for grinding, squeaking, or humming, especially if ice buildup or a failing bearing causes the fan blade to strike or the motor to run loud.

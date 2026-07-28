@@ -20,8 +20,6 @@ A Frigidaire oven that won't stop beeping is usually not a specific fault code. 
 
 If the display shows F10 along with the beeping, Frigidaire says the oven is detecting higher-than-normal temperatures. That's a safety alert. The unit should be turned off and allowed to cool before you attempt any reuse or further diagnosis.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Timer or alarm setting left on** An active cook timer, alarm, or preheat chime that was accidentally triggered or never canceled will cause continuous beeping.

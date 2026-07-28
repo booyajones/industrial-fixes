@@ -13,13 +13,10 @@ money_part: "Motor cable (shielded VFD-rated)"
 most_likely_cause: "Motor cable insulation breakdown or leakage current"
 ---
 
-## Danfoss FC302 ALARM 45 — What It Means
-
+## What this code means
 ALARM 45 on a Danfoss VLT AutomationDrive FC302 is labeled "Earth fault 2" or "Ground fault" in the drive's documentation. The drive has detected leakage current to ground using its internal ground-fault monitoring circuitry. This is a trip condition, meaning the drive stops the motor immediately to protect the equipment from damage. It is not an overcurrent, overvoltage, or overheating fault. The detection system identifies imbalance or leakage in the motor circuit grounding path.
 
 The fault points to a problem in the motor, motor cables, grounding connections, or less commonly the drive's internal hardware. Danfoss directs troubleshooting toward the motor circuit first, then toward control or option cards if the fault persists after the motor and cables are ruled out.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -52,10 +49,3 @@ The fault points to a problem in the motor, motor cables, grounding connections,
 ## When to Call a Pro
 
 Call a qualified electrician or drive technician if you are not trained in high-voltage VFD work, if insulation testing and motor-circuit inspection do not isolate the fault, or if you suspect internal drive component failure. Ground-fault troubleshooting requires safe isolation procedures, megger testing, and familiarity with three-phase motor circuits. If the fault returns after cable and motor replacement, the drive's control or option card may need factory-level diagnosis or replacement, which requires knowledge of the FC302 hardware architecture and proper handling of static-sensitive electronics.
-
-## See Also
-
-- [Danfoss FC302 ALARM 24 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-24-fault-code/)
-- [Danfoss FC302 ALARM 25 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-25-fault-code/)
-- [Danfoss FC302 Alarm 40 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-40-fault-code/)
-- [Danfoss FC302 Complete Fault Code Guide — All Faults and Fixes](/posts/danfoss-fc302-complete-guide/)

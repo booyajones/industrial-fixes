@@ -18,8 +18,7 @@ free_checks:
   - "Power off and disconnect, then reconnect the terminal board to the control board and inspect pins for corrosion or looseness"
 ---
 
-## Yaskawa A1000 CPF21 (often misread as AL-21) — What It Means
-
+## What this code means
 The Yaskawa A1000 does not have an 'AL-21' fault code. The error you are seeing is almost certainly CPF21, which is often misread as AL-21 due to display formatting. CPF21 indicates a Control Circuit Error, meaning the drive's internal control hardware is damaged or the control circuitry responsible for managing drive operation is faulty. This is not a motor feedback, encoder, or parameter problem. It is a failure of the drive's own control board or associated circuitry.
 
 The fault means the microcontroller, A/D converter, or other components on the control board have failed, or the connections between the control board and terminal board have become loose or corroded. Yaskawa documentation confirms CPF21 as a hardware damage fault and recommends power cycling, reseating connections, replacing the control board, or replacing the entire drive. Do not attempt component-level repair by soldering chips or other internal parts.
@@ -27,8 +26,6 @@ The fault means the microcontroller, A/D converter, or other components on the c
 ## Before You Replace Anything
 
 Technicians sometimes replace the digital operator or check motor connections first, but CPF21 is a control board fault, not a motor or display problem. Power cycle and reseat the terminal board before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or VFD technician if you are not trained in high-voltage electrical work or VFD troubleshooting. CPF21 requires opening the drive enclosure, working near lethal DC bus voltages (even after disconnect), and replacing internal boards. Improper handling can destroy the replacement board, damage the motor, or cause electrical shock. A technician will safely discharge the drive, measure control circuit voltages, source the correct control board for your A1000 model, and replace the board or entire drive. If your facility does not have in-house electrical staff, contact a Yaskawa-authorized service center for board repair or drive replacement.
 
 **Rough cost:** A pro service call runs about $300-800 for control board replacement, $1,000-3,000+ for full drive replacement depending on model and horsepower.
-
-## See Also
-
-- [Yaskawa GA800 E26 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e26-fault-code/)
-- [Yaskawa GA800 E23 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e23-fault-code/)
-- [Yaskawa GA800 E01 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e01-fault-code/)
-- [Yaskawa A1000 AL-26 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-26-fault-code/)

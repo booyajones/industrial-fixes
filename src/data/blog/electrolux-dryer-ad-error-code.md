@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Electrolux Dryer AD Code — What It Means
-
+## What this code means
 The AD code on an Electrolux or Frigidaire dryer is not a fault code. It stands for Auto Dry Setting and appears when you have selected an automatic cycle that uses the moisture sensor to estimate dryness and adjust the drying time. The dryer is operating as designed when AD shows on the display.
 
 If the dryer seems to stop too soon, run too long, or otherwise behave abnormally on Auto Dry cycles, the problem is usually not the code itself but dirty moisture sensor bars in the drum or a failed humidity sensor circuit. A separate error code (such as E4 on many Electrolux models) would typically appear if the sensor circuit has actually failed.
@@ -25,8 +24,6 @@ If the dryer seems to stop too soon, run too long, or otherwise behave abnormall
 ## Before You Replace Anything
 
 Many people replace the electronic control board when Auto Dry cycles behave poorly, but the real cause is almost always dirty moisture sensor bars or damaged sensor wiring. Clean the bars with rubbing alcohol and check continuity on the sensor wires before ordering any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,11 +13,8 @@ money_part: "Condenser fan run capacitor"
 most_likely_cause: "Blocked outdoor condenser coil"
 ---
 
-## Midea Mini Split E1 Error Code — What It Means
-
+## What this code means
 E1 on a Midea mini split indicates a high pressure fault. The high-pressure switch in the outdoor unit opened because refrigerant pressure on the discharge side exceeded the safety cutout point. Midea units using R-410A typically trip at around 600–650 PSI. The compressor shuts down immediately to protect against damage. The system will not restart until the pressure drops and the fault is cleared.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,11 +44,3 @@ E1 on a Midea mini split indicates a high pressure fault. The high-pressure swit
 ## When to Call a Pro
 
 High-pressure faults that persist after coil cleaning and fan motor checks require refrigerant system diagnosis. Call an EPA-certified HVAC technician to check system pressures, verify charge, and test the high-pressure switch under operating conditions.
-
-## Related Articles
-
-- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
-- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
-- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
-- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
-- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)

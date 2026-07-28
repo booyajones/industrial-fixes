@@ -19,8 +19,6 @@ A Maytag washer that won't turn on is not a single fault code. It's a symptom th
 
 If the washer appears completely dead with no lights, the technician treats it as a power supply, line voltage, cord, outlet, door latch, or control issue before replacing parts. On some Maytag platforms, stored diagnostic codes are read through the console by a specific button or dial sequence rather than by a standalone display code, so 'won't turn on' is often a symptom you need to diagnose, not the code itself.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **No incoming power** A tripped circuit breaker, unplugged power cord, failed outlet, or damaged cord will leave the washer completely dead.

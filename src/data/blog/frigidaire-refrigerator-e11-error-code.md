@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Refrigerator Main Control Board (model-specific)"
 ---
 
-## Frigidaire Refrigerator E11 Error — What It Means
-
+## What this code means
 E11 does not appear in Frigidaire's published refrigerator error-code documentation. The code E11 is used on Frigidaire washers (where it means slow fill) and in some third-party reports on microwaves (magnetron faults), but no manufacturer source confirms an E11 meaning for Frigidaire refrigerators. If your refrigerator is displaying E11, treat it as a model-specific control or communication fault until you check the exact model number and service literature. Frigidaire's own refrigerator guidance focuses on high-temperature alarms (H or HI) and generic reset procedures, not E11.
 
 The most likely explanation is a temporary control-board glitch, a wiring or sensor communication error, or a temperature-related alarm that your model maps to E11. Because the meaning is not verified, start with the manufacturer's recommended troubleshooting: use the Clear Alerts button if your model has one, then perform a hard reset by unplugging the unit for 30 seconds to 2–3 minutes. If the code returns, check for an open door, poor door seal, or incorrect temperature settings, since those are the documented triggers for refrigerator alarms in Frigidaire's support articles.
@@ -25,8 +24,6 @@ The most likely explanation is a temporary control-board glitch, a wiring or sen
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board immediately, but many E-series codes clear with a simple power reset or by fixing a loose connector. Always perform a full power cycle and inspect wiring and door seals before ordering a control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

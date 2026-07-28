@@ -21,8 +21,7 @@ part_price: "$35–75"
 no_buy_pct: "60%"
 ---
 
-## A.O. Smith E3 Error Code — What It Means
-
+## What this code means
 On A.O. Smith electric tankless water heaters, the E03 or E3 error code signals a thermistor-related fault in the inlet temperature circuit. The control board has detected an open or failed temperature sensor (T-In thermistor) condition. This prevents the unit from measuring incoming water temperature accurately, so the heater shuts down to protect itself.
 
 The manufacturer troubleshooting manual directs technicians to inspect the thermistor wiring and replace the thermistor if the error persists after reconnecting. In addition, incoming water colder than 40°F can trigger this fault until the system and supply warm above that threshold. This is not a problem with the upper thermostat or high-limit switch; those components belong to tank-style heaters and do not apply to tankless models.
@@ -30,8 +29,6 @@ The manufacturer troubleshooting manual directs technicians to inspect the therm
 ## Before You Replace Anything
 
 Many online posts incorrectly describe E3 as an upper thermostat problem, which applies only to tank heaters. On A.O. Smith tankless models, E3 always points to the thermistor circuit, so check and reseat the T-In connector before ordering any part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

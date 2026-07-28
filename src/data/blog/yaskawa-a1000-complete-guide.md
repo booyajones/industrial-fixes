@@ -213,10 +213,3 @@ A: UV1 that clears after a few seconds is often normal — the DC bus charging t
 **Q: How long is the Yaskawa A1000 warranty?**
 
 A: Standard Yaskawa A1000 warranty is 2 years from date of manufacture (not date of installation). Extended warranty options are available through Yaskawa distributors. Register your drive at Yaskawa's website to activate and track warranty coverage.
-
-## See Also
-
-- [Yaskawa VFD Fault ER — Causes & Fix](/posts/yaskawa-vfd-fault-er/)
-- [Yaskawa VFD Fault PF — Causes & Fix](/posts/yaskawa-vfd-fault-pf/)
-- [Yaskawa VFD Fault BB — Causes & Fix](/posts/yaskawa-vfd-fault-bb/)
-- [Yaskawa V1000 OC Fault — Overcurrent](/posts/yaskawa-v1000-fault-oc/)

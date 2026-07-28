@@ -17,8 +17,7 @@ free_checks:
   - "Check the contractor menu (refer to your manual for button sequence) to view stored fault history and verify the code number."
 ---
 
-## Weil-McLain A36 Error Code — What It Means
-
+## What this code means
 An **A36** fault code does not appear in published Weil-McLain documentation for their Ultra, CGa, CGi, EG, EGH, or AquaBalance boiler families. Weil-McLain boilers store fault history in the contractor menu, and code meanings are model-specific. The display you see may be part of a longer alphanumeric sequence, a misread character, or a code unique to a control module not covered in general service literature.
 
 Because Weil-McLain directs that troubleshooting be done by a qualified heating professional using the correct model manual, and because warranty claims require exact part numbers and fault descriptions from that manual, you should confirm the **exact boiler model** (Ultra series number, CGa/CGi version, etc.) and the **full display text** before attempting any repair. Proceeding without the correct fault definition risks replacing the wrong part or missing a safety interlock issue.
@@ -26,8 +25,6 @@ Because Weil-McLain directs that troubleshooting be done by a qualified heating 
 ## Before You Replace Anything
 
 Homeowners sometimes replace ignition boards or flame sensors when the actual fault is a simple wiring error or a different code than displayed. Always retrieve the full fault history from the contractor menu and consult the model-specific manual before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a professional immediately if you cannot find A36 in your boiler's manual, if the code persists after a power cycle, or if the boiler will not fire. Weil-McLain boilers use model-specific control platforms, and attempting repairs without the correct fault definition can void your warranty or create a safety hazard. A technician will retrieve the stored fault history from the contractor menu, cross-reference it with the manufacturer's service database, and perform any gas-side, combustion, or electrical diagnostics required. Because natural gas and propane systems are regulated for safety, all fault diagnosis and repair work should be done by a qualified heating contractor who can also pull permits and file warranty claims with the correct part numbers.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain Boiler A113 Error - Causes & Fix](/posts/weil-mclain-boiler-a113-error-code/)
-- [Weil-McLain A155 Error - Causes & Fix](/posts/weil-mclain-boiler-a155-error-code/)
-- [Weil-McLain A162 Error - Causes & Fix](/posts/weil-mclain-boiler-a162-error-code/)
-- [Weil-McLain Boiler A148 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a148-error-code/)

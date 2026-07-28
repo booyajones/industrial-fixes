@@ -17,8 +17,7 @@ money_part: "User interface control panel assembly"
 part_price: "$80-200"
 ---
 
-## Frigidaire Range F12 Error Code — What It Means
-
+## What this code means
 Frigidaire defines F12 as Micro Identification on electric ranges and cooktops. In service language this means the oven control has detected an invalid key identity, a stuck keypad button, or a communication mismatch between the user interface panel and the electronic oven control board. The control cannot correctly identify which input is being sent or detects an incorrect keypad signature.
 
 The fault can be a temporary glitch in the control logic or a hardware failure in the user interface assembly, the control board itself, or the wiring harness connecting them. On models with physical knobs and potentiometers, F12 can also flag a potentiometer input mismatch or incorrect OFF position.
@@ -26,8 +25,6 @@ The fault can be a temporary glitch in the control logic or a hardware failure i
 ## Before You Replace Anything
 
 Many owners replace the electronic oven control board first. Start with a 30-second power reset and inspect all connectors between the user interface and control board before replacing any part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

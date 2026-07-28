@@ -19,8 +19,6 @@ On Whirlpool refrigerators with electronic controls, a "too warm" alarm or indic
 
 In some cases the display may instead show a thermistor-related code, which points to a failed refrigerator temperature sensor. Whether you see a plain alarm or a sensor code, the underlying issue is that the cabinet is not cooling properly or the control cannot correctly measure temperature.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door left open or door seal failure** Warm air enters continuously when the door is ajar or the gasket is torn, triggering the over-temp alarm.

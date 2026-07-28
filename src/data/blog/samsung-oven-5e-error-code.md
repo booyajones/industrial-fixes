@@ -17,15 +17,12 @@ money_part: "Samsung range membrane switch / control panel overlay"
 part_price: "$50-150"
 ---
 
-## Samsung Oven SE/5E Error Code — What It Means
-
+## What this code means
 The SE or 5E error on a Samsung oven or range indicates the control board is detecting an invalid button input or a keypad circuit problem. This is not a heating or temperature fault. The control panel sees a button signal that is stuck, shorted, or otherwise abnormal. The fault involves the membrane switch (touch panel) or the wiring and control board that reads those button signals. Note that Samsung's 5E code on washing machines means a drain issue, but on ovens and ranges this same display indicates a control-input fault.
 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board first. Before ordering that expensive part, inspect the keypad ribbon connector for looseness or contamination and check whether any button is physically stuck or the panel is damaged.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

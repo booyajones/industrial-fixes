@@ -13,13 +13,10 @@ money_part: "Fieldbus communication option card"
 most_likely_cause: "No active network connection"
 ---
 
-## Danfoss FC302 Alarm 34 — What It Means
-
+## What this code means
 Alarm 34 on a Danfoss VLT FC302 indicates a fieldbus communication fault. The drive has detected that the installed fieldbus or communication option card is not communicating properly with the network. This is not a motor overload, mains voltage problem, or internal power stage failure. It is a communication error between the drive's fieldbus interface and the controller or network it is supposed to connect to.
 
 The fault typically appears when the drive has a communication option card installed (Profibus, BACnet, or similar) but the network master is offline, wiring is incorrect, or parameters do not match the network configuration. The drive can continue to run if control is switched away from the fieldbus source, confirming that the issue is isolated to the communication path and not the motor control hardware.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ The fault typically appears when the drive has a communication option card insta
 ## When to Call a Pro
 
 Call a qualified technician if you are unfamiliar with fieldbus networks, do not have access to the network master or configuration software, or cannot identify the installed communication option card. Also call for help if the alarm returns after verifying all wiring and parameters, or if your process cannot tolerate downtime for trial-and-error diagnostics. Industrial communication networks often require specialized tools and training to troubleshoot correctly.
-
-## See Also
-
-- [Danfoss FC302 Alarm 25 - Causes & Fix](/posts/danfoss-fc302-alarm-25-fault-code/)
-- [Danfoss FC302 ALARM 15 - Causes & Fix](/posts/danfoss-fc302-alarm-15-fault-code/)
-- [Danfoss FC302 Alarm 32 - Causes & Fix](/posts/danfoss-fc302-alarm-32-fault-code/)
-- [Danfoss VFD Fault UL — Causes & Fix](/posts/danfoss-vfd-fault-ul/)

@@ -14,13 +14,10 @@ money_part: "Pressure switch"
 most_likely_cause: "Blocked venting or intake"
 ---
 
-## Carrier Error Code 31 — What It Means
-
+## What this code means
 Error code 31 on a Carrier furnace indicates a pressure switch fault. The furnace's low-pressure or high-pressure switch either did not close when the control board expected it to during startup, or it opened unexpectedly while the burners were running. The pressure switch is a safety device that monitors the draft created by the inducer motor. If the switch does not sense adequate draft (usually caused by blocked venting, a weak inducer, or a plugged condensate drain), it will not allow the burners to light or will shut them down.
 
 This code protects against incomplete combustion and carbon monoxide risk. The most common real-world causes are blocked intake or exhaust vents, water or debris in the pressure switch tubing, a clogged condensate trap, or a failing inducer motor. Less often, the pressure switch itself has failed or there is a wiring problem. A cracked heat exchanger can also disrupt draft pressure, though this is much less common.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -52,10 +49,3 @@ This code protects against incomplete combustion and carbon monoxide risk. The m
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you have cleared all vents and drains, tested the pressure switch tubing, and the code persists. Diagnosing weak draft, measuring actual switch actuation pressure with a manometer, and testing for a cracked heat exchanger require professional tools and training. Also call a pro if you are uncomfortable working with gas appliances, electrical components, or disassembling the inducer and vent system. If the furnace is under warranty, professional documentation of the fault will be required for any covered parts.
-
-## See Also
-
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 42 Error Code — Causes & Fix](/posts/carrier-42-error-code/)
-- [Carrier Infinity 24VNA6 Heat Pump Error Codes - Greenspeed Fault Reference](/posts/carrier-24vna6-error-codes/)
-- [Carrier Error Code 58 — Causes & Fix](/posts/carrier-58-error-code/)

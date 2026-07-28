@@ -19,8 +19,6 @@ A Samsung washer overflow fault means the machine has detected more water than e
 
 The machine may actually be overfilled with water, it may be failing to drain properly and holding too much water from the previous cycle, or the level sensor may be misreading the water volume even though fill and drain are working correctly. Samsung's overflow detection relies on a level sensor that monitors water in the tub and activates the pump to drain when it detects too much.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed water inlet valve** The most common cause when the washer fills while off or continues filling when it should stop is a stuck solenoid or failed inlet valve that won't close.

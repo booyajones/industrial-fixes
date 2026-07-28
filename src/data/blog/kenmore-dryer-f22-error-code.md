@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Dryer F22 Error Code — What It Means
-
+## What this code means
 The F22 code on a Kenmore dryer indicates the control board has detected a fault in the outlet thermistor circuit. The outlet thermistor (also called the outlet thermal sensor) monitors exhaust temperature near the dryer's outlet. When the circuit is open, shorted, or reading out of range, the dryer may start briefly and then shut down with F22 displayed.
 
 This code points specifically to the outlet thermistor, not the inlet sensor or cycling thermostat. The control expects to see roughly 10,000 ohms of resistance from the sensor at room temperature. Loose connectors, damaged wiring, or a failed thermistor will all trigger F22.
@@ -26,8 +25,6 @@ This code points specifically to the outlet thermistor, not the inlet sensor or 
 ## Before You Replace Anything
 
 Some owners replace the main control board first. Measure the outlet thermistor resistance with a multimeter (it should read about 10 kΩ at room temperature) and inspect the two red sensor wires for shorts to ground before replacing any boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

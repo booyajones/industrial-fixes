@@ -19,8 +19,6 @@ When your Amana dryer finishes a cycle but the load is still wet or damp, the ma
 
 Amana's product help pages treat this as a drying performance complaint rather than a fault code. Most often the problem comes down to restricted airflow caused by a dirty lint screen or clogged exhaust vent. Cycle selection, load size, and heating issues can also leave clothes damp even when the drum turns normally.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Lint screen clogged or dirty** A lint screen that hasn't been cleaned after every load blocks airflow and prevents moisture from escaping, leaving clothes damp at the end of the cycle.
@@ -61,9 +59,9 @@ If your appliance also shows a code on the display, these match this problem:
 - [Amana Dryer F02 error code](/posts/amana-dryer-f02-error-code/)
 - [Amana Dryer F1 E1 error code](/posts/amana-dryer-f1-e1-error-code/)
 - [Amana Dryer F1 E4 error code](/posts/amana-dryer-f1-e4-error-code/)
-- [Amana Dryer F1E3 error code](/posts/amana-dryer-f1e3-error-code/)
-- [Amana Dryer F1E5 error code](/posts/amana-dryer-f1e5-error-code/)
-- [Amana Dryer F20 error code](/posts/amana-dryer-f20-error-code/)
+- Amana Dryer F1E3 error code
+- Amana Dryer F1E5 error code
+- Amana Dryer F20 error code
 - [Amana Dryer F22 error code](/posts/amana-dryer-f22-error-code/)
 - [Amana Dryer F23 error code](/posts/amana-dryer-f23-error-code/)
 - [Amana Dryer F24 error code](/posts/amana-dryer-f24-error-code/)

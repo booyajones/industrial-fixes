@@ -17,8 +17,6 @@ money_part: "3-way valve motor"
 
 The Navien NCB (NCB-180, NCB-210, NCB-240) is a condensing combination boiler that provides both space heating and domestic hot water from a single unit. It displays error codes on the front panel display. The NCB has two heat exchangers — primary for heating and secondary for DHW — making fault diagnosis more nuanced than a standard tankless water heater.
 
-[Jump to Fix](#fix)
-
 ## Navien NCB Error Code Reference
 
 | Code | Meaning |
@@ -75,18 +73,3 @@ The Navien NCB (NCB-180, NCB-210, NCB-240) is a condensing combination boiler th
 ## When to Call a Pro
 
 The NCB's dual-function design (heating + DHW) requires diagnosis of both the heating circuit and the domestic water circuit. Low system pressure diagnosis (E021) should include a leak search throughout the heating piping. Gas valve replacement requires a licensed plumber or gas technician in most jurisdictions.
-
-## Related Articles
-
-- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
-- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)
-- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
-- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
-- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)
-
-## See Also
-
-- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)
-- [Navien Error Code E012 — Flame Loss During Operation Fix](/posts/navien-error-code-e012/)
-- [Navien Error Code E010 — Causes & Fix](/posts/navien-error-code-e010/)
-- [Navien NPE Series Error Codes — Tankless Water Heater Fault Guide](/posts/navien-npe-error-codes/)

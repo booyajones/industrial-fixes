@@ -14,13 +14,10 @@ money_part: "Panasonic Control Board (PCB Assembly)"
 most_likely_cause: "Invalid button sequence during programming"
 ---
 
-## Panasonic E01 Error Code — What It Means
-
+## What this code means
 Panasonic's E01 error is a self-diagnostic fault code that appears in two contexts. If E01 shows up during programming or setting functions, it typically indicates an incorrect button press or invalid operation sequence. If E01 appears during actual cooking operation, Panasonic classifies it as a problem with the microwave that requires service. Panasonic does not publish a detailed component-level definition for E01 in consumer support materials, so the exact internal fault varies by model.
 
 Panasonic's official guidance is to stop use, unplug the unit, and contact an Authorized Panasonic Servicenter whenever E01 appears as a fault during cooking. There is no user-level corrective repair recommended for this code when it indicates an appliance malfunction.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

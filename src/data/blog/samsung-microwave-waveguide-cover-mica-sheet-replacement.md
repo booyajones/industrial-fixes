@@ -52,16 +52,16 @@ The cover fails when food debris carbonizes on the surface, creating hot spots t
 
 If this part is failing you may also see one of these codes:
 
-- [Samsung Microwave 5E error code](/posts/samsung-microwave-5e-error-code/)
-- [Samsung Microwave C 10 error code](/posts/samsung-microwave-c-10-error-code/)
-- [Samsung Microwave C 11 error code](/posts/samsung-microwave-c-11-error-code/)
-- [Samsung Microwave C 12 error code](/posts/samsung-microwave-c-12-error-code/)
-- [Samsung Microwave C 20 error code](/posts/samsung-microwave-c-20-error-code/)
-- [Samsung Microwave C 21 error code](/posts/samsung-microwave-c-21-error-code/)
-- [Samsung Microwave C 22 error code](/posts/samsung-microwave-c-22-error-code/)
-- [Samsung Microwave C 70 error code](/posts/samsung-microwave-c-70-error-code/)
-- [Samsung Microwave C 71 error code](/posts/samsung-microwave-c-71-error-code/)
-- [Samsung Microwave C 72 error code](/posts/samsung-microwave-c-72-error-code/)
+- Samsung Microwave 5E error code
+- Samsung Microwave C 10 error code
+- Samsung Microwave C 11 error code
+- Samsung Microwave C 12 error code
+- Samsung Microwave C 20 error code
+- Samsung Microwave C 21 error code
+- Samsung Microwave C 22 error code
+- Samsung Microwave C 70 error code
+- Samsung Microwave C 71 error code
+- Samsung Microwave C 72 error code
 
 ## When to Call a Pro
 

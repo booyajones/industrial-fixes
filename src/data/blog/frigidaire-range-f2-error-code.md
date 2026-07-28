@@ -17,8 +17,7 @@ money_part: "Frigidaire oven temperature sensor"
 part_price: "$20-60"
 ---
 
-## Frigidaire Range F2 Error Code — What It Means
-
+## What this code means
 The F2 code on most Frigidaire ranges signals an oven over-temperature fault. The electronic control has detected that the cavity temperature is too high or is being driven outside the safe operating range. This can happen when the sensor reports incorrect readings, when a relay on the control board sticks closed and allows uncontrolled heating, or after an actual overheat event such as a self-clean cycle that trapped heat in the cavity.
 
 On some Frigidaire model families the F2 code can also indicate a touchpad or control board issue rather than a temperature problem. Because Frigidaire has used many different control platforms over the years, always check your model's tech sheet or wiring diagram to confirm the exact meaning for your unit. The diagnostic steps below address the most common over-temperature scenario documented across the majority of Frigidaire ranges.
@@ -26,8 +25,6 @@ On some Frigidaire model families the F2 code can also indicate a touchpad or co
 ## Before You Replace Anything
 
 Many people replace the electronic control board first, but a failed oven temperature sensor is usually the culprit. Test the sensor resistance with a multimeter at room temperature before ordering any boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

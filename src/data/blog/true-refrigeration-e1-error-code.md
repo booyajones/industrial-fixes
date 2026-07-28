@@ -13,11 +13,8 @@ money_part: "Cabinet temperature probe (NTC)"
 most_likely_cause: "Failed cabinet temperature probe"
 ---
 
-## True Refrigeration E1 Error Code — What It Means
-
+## What this code means
 True Refrigeration error code E1 indicates a temperature sensor fault. On True reach-in coolers and freezers using Dixell, LAE, or True-branded electronic controls, E1 usually points to the cabinet temperature probe reading open, shorted, or outside the controller's valid range. Once the controller loses that probe input, it cannot regulate box temperature correctly, so it falls back to a timed safety strategy or shuts the compressor circuit down depending on controller family. In the field, E1 is usually a failed NTC probe or damaged probe wiring in the evaporator compartment.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ True Refrigeration error code E1 indicates a temperature sensor fault. On True r
 ## When to Call a Pro
 
 If the probe checks good and the controller still posts E1, you may have a board-level input fault or moisture damage inside the control housing. A commercial refrigeration tech can confirm the controller and reprogram the replacement if needed.
-
-## Related Articles
-
-- [True Refrigeration E2 Error Code — Causes & Fix](/posts/true-refrigeration-e2-error-code/)
-- [True Refrigeration E3 Error Code — Causes & Fix](/posts/true-refrigeration-e3-error-code/)
-- [True Refrigeration E4 Error Code — Causes & Fix](/posts/true-refrigeration-e4-error-code/)
-- [True Refrigeration E5 Error Code — Defrost Sensor Causes & Fix](/posts/true-refrigeration-e5-error-code/)
-- [True Refrigeration E6 Error Code — High Temperature Alarm Causes & Fix](/posts/true-refrigeration-e6-error-code/)
-
-## See Also
-
-- [True Refrigeration E3 Error Code — Causes & Fix](/posts/true-refrigeration-e3-error-code/)
-- [True Refrigeration T-Series Error Codes — Complete Fix Guide](/posts/true-refrigeration-t-series-error-codes/)
-- [True GDM-49 Glass Door Merchandiser Error Codes - Full Fault Guide](/posts/true-gdm-49-error-codes/)
-- [True Refrigerator Error Code E2 / P2: Evaporator Probe Failure Causes and Fix](/posts/true-refrigeration-e2-p2-error/)

@@ -17,8 +17,7 @@ free_checks:
   - "Inspect wire connectors at the control board and sensors for corrosion or looseness"
 ---
 
-## Weil-McLain Boiler A171 Error — What It Means
-
+## What this code means
 Weil-McLain fault codes are model-specific and depend on the control platform installed in your boiler. The code A171 does not appear in the standard Weil-McLain documentation available for most residential and commercial models. Different control boards (Honeywell, Beckett, or proprietary Weil-McLain modules) use different numbering schemes, so the same alphanumeric code can mean different things or may not exist at all on another model. To identify what A171 means on your system, locate the installation and service manual for your exact boiler model number and control board type, or retrieve the fault history from the control display itself.
 
 Because the code definition is not confirmed, the troubleshooting path must begin with verifying your model and controller. Once you have the correct manual, compare A171 to the fault table. Common boiler faults across many platforms include ignition lockout, flame sensing failure, low gas pressure, blocked venting, thermistor or pressure-switch faults, and wiring problems. Do not replace components until you confirm the code meaning and follow the diagnostic sequence in your manual, as misdiagnosis wastes money and may leave the real problem unresolved.
@@ -26,8 +25,6 @@ Because the code definition is not confirmed, the troubleshooting path must begi
 ## Before You Replace Anything
 
 Many technicians replace the ignitor or flame sensor first without verifying gas pressure or checking the wiring harness. Always confirm gas supply, measure inlet pressure, and inspect connectors before ordering ignition parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you cannot locate your model's manual or the code definition, if you are uncomfortable working with natural gas or propane, or if you lack a combustion analyzer and manometer to verify gas pressure and flue-gas composition. Professional diagnosis is also required when the fault persists after you have checked gas supply and cleaned sensors, because the problem may involve the gas valve, control-board logic, blocked venting, or heat-exchanger conditions that require pressure testing and flue analysis. Any work on gas piping, valve replacement, or venting modifications must be performed by a qualified technician and inspected to local codes.
 
 **Rough cost:** A pro service call runs about $150–400.
-
-## See Also
-
-- [Weil-McLain Boiler A139 Error - Causes & Fix](/posts/weil-mclain-boiler-a139-error-code/)
-- [Weil-McLain A01 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a101-error-code/)
-- [Weil-McLain A71 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a71-error-code/)
-- [Weil-McLain A02 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a02-error-code/)

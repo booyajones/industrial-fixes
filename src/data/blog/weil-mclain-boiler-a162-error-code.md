@@ -17,13 +17,10 @@ free_checks:
   - "Check the boiler manual (usually mounted inside the jacket or available online) for a fault-code table specific to your model"
 ---
 
-## Weil-McLain A162 Error — What It Means
-
+## What this code means
 The A162 code does not appear in current Weil-McLain AquaBalance or Ultra service manuals. It may be a model-specific display code, a transcription error, or an internal history code shown through a diagnostic menu rather than a standard active lockout. Weil-McLain error codes are not universal across their product lineup and vary by control family (AquaBalance, Ultra, CGa, EG, Evergreen, or other series).
 
 To identify the exact meaning, causes, and repair steps, you need your boiler's full model name and control display photo. Weil-McLain manuals are written for qualified heating installer and service technicians. If the boiler is in lockout or displaying an unfamiliar code, consult your model-specific manual or contact a licensed contractor with the control panel (CP) number, model, size, install date, and a photo of the display.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -71,10 +68,3 @@ Answer these to narrow it down fast.
 Call a licensed heating contractor immediately if the boiler is locked out, will not fire, or displays an unfamiliar code. Weil-McLain service manuals are written for qualified installer and service technicians, and troubleshooting gas-fired boilers requires knowledge of combustion, venting, gas piping, and high-voltage controls. For warranty claims, your contractor will need the CP number, model, size, install date, failure reason, failed part description and number, and photos. Do not attempt to replace control boards, sensors, or gas valves without professional guidance, because mismatched parts or incorrect wiring can create safety hazards and void the warranty.
 
 **Rough cost:** A pro service call runs about $150-350 for diagnostic and typical control or sensor repair.
-
-## See Also
-
-- [Weil-McLain Code 1 — No Flame Sensed Fix](/posts/weil-mclain-error-code-1/)
-- [Weil-McLain A104 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a104-error-code/)
-- [Weil-McLain A131 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a131-error-code/)
-- [Weil-McLain Boiler A55 Error - Causes & Fix](/posts/weil-mclain-boiler-a55-error-code/)

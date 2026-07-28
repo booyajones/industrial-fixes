@@ -13,13 +13,10 @@ money_part: "SINAMICS G120 Control Unit (CU)"
 most_likely_cause: "Internal firmware or CPU overload"
 ---
 
-## Siemens G120 F01205 — What It Means
-
+## What this code means
 F01205 on a Siemens SINAMICS G120 means "CU: Time slice overflow." This fault indicates the Control Unit (CU) did not finish its required processing tasks within the allotted time slice, so the drive trips on an internal execution-time fault. The drive reacts with an OFF2 shutdown and requires a full POWER ON reset to acknowledge the fault. This is an internal firmware or CPU load issue, not a motor or power-stage problem. The plain-language cause is insufficient computation time inside the control unit.
 
 The fault value is stored in the drive diagnostics memory for internal Siemens analysis but is not useful for field measurement or troubleshooting. In most cases, the fault either clears after a power cycle or indicates a control-unit hardware or software failure that requires CU replacement.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ The fault value is stored in the drive diagnostics memory for internal Siemens a
 ## When to Call a Pro
 
 Call a qualified technician or Siemens-authorized service partner if the fault persists after a power cycle and you do not have experience with VFD parameterization or control-unit replacement. Replacing the CU requires transferring or recreating all drive parameters, and incorrect configuration can damage the motor or machine. Also call a professional if the drive is integrated into a PLC or network control system, because troubleshooting may require analysis of communication load or application software. If your facility does not have Siemens STARTER software or a backup of the drive parameters, professional support is strongly recommended to avoid extended downtime.
-
-## See Also
-
-- [Siemens G120 F0011 Fault Code - Causes & Fix](/posts/siemens-g120-vfd-f0011-fault-code/)
-- [Siemens G120 F0003 - Causes & Fix](/posts/siemens-g120-vfd-f0003-fault-code/)
-- [Siemens Micromaster F0222 - Causes & Fix](/posts/siemens-micromaster-f0222-fault-code/)
-- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)

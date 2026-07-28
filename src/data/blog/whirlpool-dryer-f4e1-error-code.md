@@ -20,8 +20,7 @@ free_checks:
 part_price: "$150-220"
 ---
 
-## Whirlpool Dryer F4E1 Error — What It Means
-
+## What this code means
 The F4 E1 code on a Whirlpool dryer indicates the control has detected a heater relay failure. This means the main electronic control board has sensed an abnormal condition in the heater circuit, such as a stuck relay or a shorted heating element. The fault can be on the control board itself (where the heater relay lives) or downstream in the wiring and heater assembly.
 
 Unlike the washer version of F4 E1, which is a different diagnostic, the dryer code points specifically to the heater relay and heater circuit. The dryer will not run or will stop heating until the fault is cleared.
@@ -29,8 +28,6 @@ Unlike the washer version of F4 E1, which is a different diagnostic, the dryer c
 ## Before You Replace Anything
 
 Many people replace the heating element first, but a stuck or shorted relay on the control board is often the real culprit. Check the heater for shorts to the chassis and inspect the control board relay before ordering a new element.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

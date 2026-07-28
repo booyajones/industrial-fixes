@@ -21,8 +21,7 @@ free_checks:
 part_price: "$40–70"
 ---
 
-## Electrolux Washer E45 Error Code — What It Means
-
+## What this code means
 E45 is part of the E40–E45 family of door-lock and door-interlock faults on Electrolux washers. The machine is not seeing the door as properly locked, or it cannot confirm that the lock-state changes during the cycle. On some models, E45 specifically indicates a communication or control-circuit problem between the main control board and the door lock assembly, meaning the lock signal path may be bad even if the latch looks mechanically fine.
 
 Because Electrolux publishes codes by product family, the exact sub-fault can vary by model, but practical service diagnosis always centers on the door lock system. The washer will not start a cycle or will stop mid-cycle when it cannot verify the door is securely locked.
@@ -30,8 +29,6 @@ Because Electrolux publishes codes by product family, the exact sub-fault can va
 ## Before You Replace Anything
 
 Many people replace the main control board first when E45 persists, but a simple continuity and fit check of the door-lock wiring harness and connectors often reveals the real problem and costs nothing.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

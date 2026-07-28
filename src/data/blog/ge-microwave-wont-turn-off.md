@@ -19,8 +19,6 @@ When a GE microwave won't turn off, the unit is receiving a continuous run signa
 
 GE does not publish a specific fault code for this symptom. The most common underlying failures are a stuck relay on the control board, a faulty door interlock switch, or a stuck keypad command that keeps the oven energized. In practical service terms, the control board relay welded closed is the prime suspect, followed by door switch and touchpad faults.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Stuck relay on the electronic control board** A relay stuck in the on position is the most common cause when the oven keeps running, sending continuous power to the magnetron even when the control should stop it.
@@ -51,10 +49,10 @@ GE does not publish a specific fault code for this symptom. The most common unde
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Ge Microwave F0 error code](/posts/ge-microwave-f0-error-code/)
+- Ge Microwave F0 error code
 - [Ge Microwave F1 error code](/posts/ge-microwave-f1-error-code/)
 - [Ge Microwave F10 error code](/posts/ge-microwave-f10-error-code/)
-- [Ge Microwave F2 error code](/posts/ge-microwave-f2-error-code/)
+- Ge Microwave F2 error code
 - [Ge Microwave F3 error code](/posts/ge-microwave-f3-error-code/)
 - [Ge Microwave F4 error code](/posts/ge-microwave-f4-error-code/)
 - [Ge Microwave F5 error code](/posts/ge-microwave-f5-error-code/)

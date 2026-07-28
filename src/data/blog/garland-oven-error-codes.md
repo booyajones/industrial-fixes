@@ -24,8 +24,6 @@ Garland (a Welbilt brand) manufactures commercial ranges, convection ovens, and 
 | E4 | Blower / fan motor fault |
 | Er | General control error |
 
-[Jump to Fix](#fix)
-
 ## Most Common Garland Oven Codes and Fixes {#fix}
 
 ### E1 — Temperature Sensor

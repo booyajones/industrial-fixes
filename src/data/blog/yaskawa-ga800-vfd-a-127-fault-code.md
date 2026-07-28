@@ -14,8 +14,7 @@ most_likely_cause: "Misread or transposed display"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa GA800 A.127 Fault — What It Means
-
+## What this code means
 The A.127 code does not match documented Yaskawa GA800 fault formats. GA800 drives typically display faults as short alphanumeric codes such as oC (overcurrent), Uv (undervoltage), or CPF (control fault), not decimal codes like A.127. This suggests the display may be misread, the code may refer to a parameter alarm or monitor item rather than a fault, or the drive may actually be a different Yaskawa model family where numbering conventions differ.
 
 Before attempting repairs, confirm the exact text shown on the keypad including any letters, numbers, or symbols. Access the fault history menu on the drive keypad or use Yaskawa DriveWizard software to retrieve the last recorded alarm and operating conditions at the time of the fault. Verify the drive nameplate to confirm the model is indeed a GA800 and not a GA700, A1000, or other series. Once you have the correct fault code, cross-reference it with the fault table in your drive's manual to identify the specific cause and the manufacturer's recommended corrective action.
@@ -23,8 +22,6 @@ Before attempting repairs, confirm the exact text shown on the keypad including 
 ## Before You Replace Anything
 
 Technicians sometimes replace the main control board or power module when the fault is actually a wiring error, incorrect parameter setting, or mechanical load binding. Always verify the exact fault code from the history menu and inspect motor wiring, parameter configuration, and mechanical coupling before ordering boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -71,10 +68,3 @@ Answer these to narrow it down fast.
 Call a qualified drives technician or Yaskawa-certified service partner whenever you cannot confirm the exact fault code from the manual, when the drive is part of a networked or safety-rated system, or when you lack the test equipment to measure DC bus voltage, gate signals, or encoder feedback. High-voltage work on VFD power modules and control boards requires specialized training and insulated tools. If the drive has been modified with custom programming or fieldbus integration, the original system integrator or machine builder should diagnose non-standard codes before you replace any hardware.
 
 **Rough cost:** A pro service call runs about $150–400.
-
-## See Also
-
-- [Yaskawa GA800 E63 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e63-fault-code/)
-- [Yaskawa A1000 Uv1 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-uv1-fault-code/)
-- [Yaskawa GA800 A.106 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-106-fault-code/)
-- [Yaskawa GA800 E16 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e16-fault-code/)

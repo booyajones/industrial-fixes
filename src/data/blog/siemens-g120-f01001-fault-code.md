@@ -13,13 +13,10 @@ money_part: "Siemens G120 Control Unit (CU240 series or equivalent)"
 most_likely_cause: "Firmware or software corruption"
 ---
 
-## Siemens G120 F01001 — What It Means
-
+## What this code means
 F01001 on a Siemens SINAMICS G120 signals a FloatingPoint exception. This is an internal software error in the drive's control unit or application logic, not a motor overload or power-stage fault. The fault occurs when the drive encounters an exception during a floating-point mathematical operation, such as division by zero, overflow, underflow, or an invalid operation. Siemens fault lists map F01001 to this specific condition, and the typical fault reaction is OFF2 (coast stop) with acknowledgment requiring a complete POWER ON cycle.
 
 Because this is a software or data-processing fault, it does not involve the motor windings, DC bus, or external wiring. Instead, the problem lies in the control unit's firmware, the drive's parameter configuration, or application blocks like FBLOCKS or DCC charts. If the fault clears after a power cycle, you likely have a transient glitch or configuration issue. If it returns immediately at every startup, the control unit hardware may be defective and require replacement.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ Because this is a software or data-processing fault, it does not involve the mot
 ## When to Call a Pro
 
 Call a certified Siemens technician or contact the Siemens hotline if the fault returns immediately after every power cycle, if you lack access to Starter or SINAMICS commissioning tools, or if you are unfamiliar with firmware updates and application-block configuration. Because F01001 is an internal software exception, successful repair often requires familiarity with Siemens drive programming, fault-buffer interpretation, and control-unit replacement procedures. If your facility does not have the tools or training to update firmware, review FBLOCKS logic, or safely swap the control unit, professional support will save downtime and prevent further configuration errors.
-
-## See Also
-
-- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
-- [Siemens G120 F01205 - Causes & Fix](/posts/siemens-g120-f01205-fault-code/)
-- [Siemens Micromaster 440 Fault F002 — Overcurrent](/posts/siemens-micromaster-440-fault-f002/)
-- [Siemens SENTRON 3WL/3VA Fault Codes — Troubleshooting Guide](/posts/siemens-sentron-fault-codes/)

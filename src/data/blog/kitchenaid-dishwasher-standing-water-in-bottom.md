@@ -19,8 +19,6 @@ A small amount of standing water in the filter area at the bottom of your Kitche
 
 The most common culprits are a clogged filter, debris in the sump, a blocked drain hose, or a jammed garbage disposal inlet. If your dishwasher is not filling and shows code 8-1, that is an inlet or water-supply fault, not a drain symptom. This guide addresses standing water after the cycle has finished, which means something is preventing the dishwasher from draining properly.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged filter or soil trap** Food debris and grease build up in the upper and lower filters, blocking water from reaching the drain pump.
@@ -58,7 +56,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Kitchenaid Dishwasher F2E2 error code](/posts/kitchenaid-dishwasher-f2e2-error-code/)
 - [Kitchenaid Dishwasher F3E1 error code](/posts/kitchenaid-dishwasher-f3e1-error-code/)
 - [Kitchenaid Dishwasher F3E2 error code](/posts/kitchenaid-dishwasher-f3e2-error-code/)
-- [Kitchenaid Dishwasher F4E3 error code](/posts/kitchenaid-dishwasher-f4e3-error-code/)
+- Kitchenaid Dishwasher F4E3 error code
 - [Kitchenaid Dishwasher F5E1 error code](/posts/kitchenaid-dishwasher-f5e1-error-code/)
 - [Kitchenaid Dishwasher F6E1 error code](/posts/kitchenaid-dishwasher-f6e1-error-code/)
 - [Kitchenaid Dishwasher F6E2 error code](/posts/kitchenaid-dishwasher-f6e2-error-code/)

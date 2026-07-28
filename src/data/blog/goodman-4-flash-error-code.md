@@ -13,11 +13,8 @@ money_part: "High-limit switch"
 most_likely_cause: "Clogged air filter"
 ---
 
-## Goodman 4 Flash Error Code — What It Means
-
+## What this code means
 Four flashes on a Goodman furnace LED means the high limit device is open. The high-limit switch is a bimetal thermal safety that trips when the heat exchanger or plenum temperature exceeds the set point (typically 150–180°F depending on model). When it trips, it breaks the circuit to the gas valve and the board logs code 4. This code almost always signals an airflow problem — the furnace is running but heat isn't moving fast enough, so temperatures climb until the safety trips. The limit switch is usually fine; fix the airflow first.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Four flashes on a Goodman furnace LED means the high limit device is open. The h
 ## When to Call a Pro
 
 A high-limit that trips repeatedly after airflow is corrected is a strong indicator of a cracked heat exchanger — a CO hazard. Don't operate the furnace until a tech has inspected the heat exchanger.
-
-## See Also
-
-- [Goodman GSZC18 Heat Pump Error Codes — Fault Code Diagnostic Guide](/posts/goodman-gszc18-error-codes/)
-- [Goodman Furnace Error Codes — All Flash Codes Explained](/posts/goodman-furnace-error-codes/)
-- [Goodman Furnace EE2 Error Code — Causes & Fix](/posts/goodman-furnace-ee2-error-code/)
-- [Goodman GMS80 Furnace Error Codes — Fault Code Diagnostic Guide](/posts/goodman-gms80-error-codes/)
-
-## Related Articles
-
-- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
-- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
-- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
-- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)
-- [Goodman 6 Flash Error Code — Rollout Switch Open Fix](/posts/goodman-6-flash-error-code/)

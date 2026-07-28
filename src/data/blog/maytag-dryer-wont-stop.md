@@ -19,8 +19,6 @@ When a Maytag dryer won't stop running, the drum keeps tumbling or the cycle dis
 
 Unlike thermal or airflow codes such as AF/F4E3, a "won't stop" complaint points to the control inputs or board logic rather than sensors or venting. Depending on the model, the drum may keep spinning, the heater may stay on, or just the display may be stuck in cycle mode while the drum has stopped. The root cause is almost always electrical: a stuck physical button, a failed user interface board, a main control board relay fault, or less commonly a door-switch circuit problem that prevents the control from recognizing the cycle should end.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Stuck start or cancel button** A physically jammed or sticky button on the console sends a constant signal to the control, preventing the cycle from ending or restarting the dryer immediately after stop.
@@ -55,10 +53,10 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Maytag Dryer Err error code](/posts/maytag-dryer-err-error-code/)
 - [Maytag Dryer F01 error code](/posts/maytag-dryer-f01-error-code/)
-- [Maytag Dryer F02 error code](/posts/maytag-dryer-f02-error-code/)
+- Maytag Dryer F02 error code
 - [Maytag Dryer F1E1 error code](/posts/maytag-dryer-f1e1-error-code/)
 - [Maytag Dryer F1E3 error code](/posts/maytag-dryer-f1e3-error-code/)
-- [Maytag Dryer F1E4 error code](/posts/maytag-dryer-f1e4-error-code/)
+- Maytag Dryer F1E4 error code
 - [Maytag Dryer F1E5 error code](/posts/maytag-dryer-f1e5-error-code/)
 - [Maytag Dryer F20 error code](/posts/maytag-dryer-f20-error-code/)
 - [Maytag Dryer F22 error code](/posts/maytag-dryer-f22-error-code/)

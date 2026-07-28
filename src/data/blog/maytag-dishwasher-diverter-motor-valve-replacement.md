@@ -58,12 +58,12 @@ If this part is failing you may also see one of these codes:
 - [Maytag Dishwasher E15 error code](/posts/maytag-dishwasher-e15-error-code/)
 - [Maytag Dishwasher E3 error code](/posts/maytag-dishwasher-e3-error-code/)
 - [Maytag Dishwasher E4 error code](/posts/maytag-dishwasher-e4-error-code/)
-- [Maytag Dishwasher E6 error code](/posts/maytag-dishwasher-e6-error-code/)
-- [Maytag Dishwasher E7 error code](/posts/maytag-dishwasher-e7-error-code/)
+- Maytag Dishwasher E6 error code
+- Maytag Dishwasher E7 error code
 - [Maytag Dishwasher F10E5 error code](/posts/maytag-dishwasher-f10e5-error-code/)
 - [Maytag Dishwasher F1E1 error code](/posts/maytag-dishwasher-f1e1-error-code/)
 - [Maytag Dishwasher F2E2 error code](/posts/maytag-dishwasher-f2e2-error-code/)
-- [Maytag Dishwasher F3E2 error code](/posts/maytag-dishwasher-f3e2-error-code/)
+- Maytag Dishwasher F3E2 error code
 
 ## When to Call a Pro
 

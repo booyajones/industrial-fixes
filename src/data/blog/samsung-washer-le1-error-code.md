@@ -17,8 +17,7 @@ money_part: "Water level sensor (pressure sensor) for Samsung front-load washer"
 part_price: "$15-80"
 ---
 
-## Samsung Washer LE1 Error Code — What It Means
-
+## What this code means
 Samsung defines the LE1 code as a water level sensor malfunction or a wiring issue at the sensor or PCB terminal. When this code appears, the washer automatically runs the drain pump continuously to evacuate water and prevent flooding. Field technicians often find that LE1 is triggered by the leak-protection system when water accumulates in the base pan at the bottom of the machine, rather than by a direct sensor component failure.
 
 The code is tied to the water level sensor circuit. Samsung documentation states the fault occurs when the sensor is malfunctioning or when wire connections at the sensor terminal or the main control board (PCB) terminal are compromised. Real-world repair experience shows the code can be caused by actual internal leaks, loose or corroded sensor wiring, a failed pressure sensor, or even drain hose setup problems that create abnormal water behavior.
@@ -26,8 +25,6 @@ The code is tied to the water level sensor circuit. Samsung documentation states
 ## Before You Replace Anything
 
 Many people replace the main control board first. Instead, dry the base pan completely and inspect all hose clamps and sensor wiring connections before replacing any circuit board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

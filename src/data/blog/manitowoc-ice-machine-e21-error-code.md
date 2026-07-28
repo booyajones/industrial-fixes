@@ -19,8 +19,7 @@ free_checks:
 part_price: "$40-80"
 ---
 
-## Manitowoc E21 Error Code — What It Means
-
+## What this code means
 The E21 code on Manitowoc Indigo and related ice machines indicates a T1 temperature sensor issue. The control board is seeing an abnormal or failed reading from the evaporator temperature sensing circuit. This is a sensor fault code, not a general cleaning or refrigeration problem. The machine has detected that the T1 sensor signal is out of range, missing, or electrically incorrect.
 
 Because the code points to the sensor circuit itself, the problem is usually a failed sensor, loose or corroded connector, damaged wiring between the sensor and the control board, or a failed input on the board. Ice machines operate in wet, cold environments that can cause connectors to corrode and wiring insulation to crack over time. The code will not clear until the sensor circuit reads correctly again.
@@ -28,8 +27,6 @@ Because the code points to the sensor circuit itself, the problem is usually a f
 ## Before You Replace Anything
 
 Techs sometimes replace the control board first when the real problem is a corroded or loose sensor connector. Always ohm-check the sensor and inspect the harness connector for damage or poor pin contact before condemning the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a qualified refrigeration technician if you are not comfortable working with refrigeration controls, multimeter diagnostics, or electrical troubleshooting in a wet commercial environment. The T1 sensor sits on the evaporator inside the sealed refrigeration system, and while the sensor itself is accessible, any work that accidentally damages refrigerant lines or requires pressure testing demands an EPA-certified tech with recovery equipment. If you replace the sensor and wiring but the code persists, the control board input is likely failed and board replacement on a commercial ice machine is best left to a service professional who can verify correct operation of all safety and refrigeration circuits after the repair.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Manitowoc Indigo NXT Ice Machine Complete Troubleshooting Guide](/posts/manitowoc-indigo-nxt-complete-guide/)
-- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
-- [Manitowoc E03 Error Code — Probe / Thermistor Open Fix](/posts/manitowoc-e03-error-code/)
-- [Manitowoc Ice Machine Error Code 5 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-5/)

@@ -17,8 +17,7 @@ money_part: "GE refrigerator humidity sensor"
 part_price: "$30-80"
 ---
 
-## GE Refrigerator HS Error Code — What It Means
-
+## What this code means
 The HS code on a GE refrigerator indicates a humidity sensor error in the fresh-food or crisper area. The control board has detected that the humidity sensor is not reading correctly or is sending an out-of-range signal. This is different from the HRS code, which signals a high-temperature refrigerator condition. Because GE code meanings can vary by model family, always verify the exact code against your unit's service literature or owner's manual before replacing any parts. If your display actually shows HRS rather than HS, the troubleshooting path is different and involves door seals, condenser coils, and compressor operation instead of the humidity sensor.
 
 The humidity sensor monitors moisture levels in the crisper drawers to help keep produce fresh. When the sensor or its wiring fails, the control board cannot regulate humidity properly and displays the HS fault. In many cases the code can be cleared by a simple power reset, and no component replacement is needed if the code does not return.
@@ -26,8 +25,6 @@ The humidity sensor monitors moisture levels in the crisper drawers to help keep
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when the real fault is a dirty or loose humidity sensor connector. Always inspect and clean the sensor area and check wiring connections before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

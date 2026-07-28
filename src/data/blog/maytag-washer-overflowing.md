@@ -19,8 +19,6 @@ When a Maytag top-load washer overflows, it means the machine is detecting that 
 
 This is different from water backing up at the drain or standpipe, which is a household plumbing issue. A true overfill means the washer is adding too much water during the fill cycle, either because the fill valve won't close or because the control can't accurately sense the water level.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Water inlet valve stuck open or leaking internally** If the washer keeps filling even after you unplug it or turn off power, the inlet valve is not sealing and must be replaced.

@@ -19,8 +19,7 @@ free_checks:
   - "Inspect and tighten all input and output terminal connections"
 ---
 
-## Danfoss FC302 AL-120 Fault — What It Means
-
+## What this code means
 The code AL-120 does not appear in the Danfoss FC302 alarm and warning list. The FC302 series uses numeric codes such as Alarm 12, Alarm 16, and Alarm 20. The query likely contains a typo or misread display. Alarm 12 indicates DC bus voltage too low (typically below 100V for 400V drives), caused by weak incoming power or failed rectifier components. Alarm 16 signals an instantaneous short circuit in the motor cable, motor windings, or drive IGBT module. Alarm 20 means motor thermal overload from excessive mechanical load or incorrect motor parameter settings.
 
 Before proceeding, verify the exact code displayed on the drive keypad or control panel. Consult the FC302 operating manual alarm table to confirm the correct code and its specific meaning for your drive model and firmware version.
@@ -28,8 +27,6 @@ Before proceeding, verify the exact code displayed on the drive keypad or contro
 ## Before You Replace Anything
 
 Technicians often replace the entire power board before checking input voltage balance and tightening input terminals. A simple voltage measurement at the input terminals and a visual inspection of connections can identify low-voltage or loose-wire faults that cost nothing to fix.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drive technician immediately if you are unfamiliar with three-phase power systems or if the drive shows any alarm code. High-voltage DC bus capacitors can hold a lethal charge for minutes after power is removed. If incoming voltage is correct and terminal connections are tight but the alarm persists, internal components such as the rectifier, IGBT module, or power board have likely failed and require replacement by a technician with lockout/tagout training and the correct replacement parts for your drive frame size and voltage rating. Do not attempt to open the drive enclosure or disconnect the motor under load.
 
 **Rough cost:** A pro service call runs about $300-900.
-
-## See Also
-
-- [Danfoss FC302 Alarm 48 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-48-fault-code/)
-- [Danfoss FC302 ALARM 35 - Causes & Fix](/posts/danfoss-fc302-alarm-35-fault-code/)
-- [Danfoss FC302 AL-64 - Causes & Fix](/posts/danfoss-fc302-vfd-al-64-fault-code/)
-- [Danfoss FC302 Alarm 23 - Causes & Fix](/posts/danfoss-fc302-alarm-23-fault-code/)

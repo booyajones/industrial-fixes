@@ -19,8 +19,6 @@ A Samsung refrigerator running constantly means the compressor is staying on far
 
 Samsung's own troubleshooting notes that a blinking display with beeping indicates the refrigerator temperature is too high and a cooling problem must be fixed. If the evaporator coils ice over or airflow is blocked, cooling efficiency drops and the compressor runs continuously trying to compensate. The unit may also run constantly if it is stuck in a forced diagnostic mode, though that is less common in normal use.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Defrost failure and evaporator frost buildup** A failed defrost thermostat or defrost heater lets the evaporator pack with ice, blocking airflow and forcing the compressor to run nonstop trying to cool.

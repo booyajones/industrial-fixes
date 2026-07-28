@@ -12,8 +12,7 @@ tags:
 money_part: "Hot-surface igniter"
 ---
 
-## Trane XR95 Error Codes — What It Means
-
+## What this code means
 The Trane XR95 (model S9X1) is a single-stage, 95% AFUE condensing gas furnace. It uses a standard Trane/American Standard IFC control board with a diagnostic LED that flashes fault codes through the lower access panel. The XR95's high efficiency means it uses a secondary heat exchanger to extract more heat from combustion gases — and that secondary exchanger is a common source of codes not seen on older 80% furnaces.
 
 ## Flash Code Quick Reference
@@ -63,18 +62,3 @@ The XR95 uses a silicon nitride hot-surface igniter. Typical life is 5–10 year
 | IFC control board | [Amazon](https://www.amazon.com/s?k=IFC+control+board&tag=errorcodefixes-20) \| CNT05369 or match board label |
 ## When to Call a Pro
 If 3-flash (high limit) or 2-flash codes repeat after cleaning the condensate trap and replacing the filter, a technician should inspect the secondary heat exchanger for scale buildup or damage. Chemical descaling of a plugged secondary coil is a service-level repair.
-
-## Related Articles
-
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-
-## See Also
-
-- [Trane ComfortR ER Error Code — Causes & Fix](/posts/trane-comfort-r-error-codes-er/)
-- [Trane AC E2 Error Code — Sensor and Communication Fault Fix](/posts/trane-e2-ac-sensor-fault/)
-- [Trane Chiller Fault Codes — Complete Troubleshooting Guide](/posts/trane-chiller-fault-codes/)
-- [Trane Rooftop Unit Error Codes: Common Faults Guide](/posts/trane-rooftop-unit-error-codes/)

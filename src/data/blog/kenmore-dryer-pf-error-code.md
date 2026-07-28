@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Dryer PF Error Code — What It Means
-
+## What this code means
 A PF code on a Kenmore dryer stands for Power Failure. The dryer detected that electrical power was interrupted during the cycle or at power-up, and the control stored that event in the display. On Whirlpool-built Kenmore dryers, the usual immediate action is to touch and hold START to resume the cycle or press POWER to clear the display.
 
 PF is not, by itself, a specific sensor fault. It is usually a control response to lost power, line noise, or an interrupted start-up sequence rather than a single failed laundry component. The code can appear after a recent outage, breaker trip, loose plug, damaged power cord, or even if keys were pressed too early after power-up on some models. If the code recurs after stable power is verified, a failing electronic control or control-board power-supply section becomes a stronger suspect.
@@ -26,8 +25,6 @@ PF is not, by itself, a specific sensor fault. It is usually a control response 
 ## Before You Replace Anything
 
 Many people replace the main control board when PF appears, but most cases are resolved by checking the house breaker, outlet, and dryer power cord for loose connections or heat damage first.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

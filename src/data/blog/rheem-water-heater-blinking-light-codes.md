@@ -15,8 +15,6 @@ tags:
 
 Rheem gas water heaters use a blinking status light on the gas valve to tell you what's wrong. Instead of a digital display, the pilot light window has a small LED that blinks in a pattern. Count the blinks, pause, then count again — that number is your fault code.
 
-[Jump to Fix](#how-to-fix-rheem-blinking-light-codes)
-
 ## What Does the Rheem Blinking Light Mean?
 
 The status light on a Rheem water heater is built into the gas control valve (the box with the temperature dial on the front). It blinks repeatedly in a pattern — pause — pattern — pause. That repeating count is your code.
@@ -149,18 +147,3 @@ Typically 8–12 years, but can fail sooner in areas with dusty or humid environ
 
 **Is a Rheem blinking light code dangerous?**
 Most codes just mean the heater shut itself off as a safety measure. The exception is 9 blinks (venting fault) — this can indicate a carbon monoxide risk. If you get a 9-blink code, don't restart the unit until you've inspected the full exhaust path.
-
-## Related Articles
-
-- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
-- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
-- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)
-- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
-- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)
-
-## See Also
-
-- [Rheem Performance Platinum PDN Tankless Error Codes — Complete Fix Guide](/posts/rheem-performance-platinum-pdn-error-codes/)
-- [Rheem Furnace 8 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-8-flashes/)
-- [Rheem Prestige RP20 Heat Pump Error Codes - Full Fault Code Reference](/posts/rheem-rp20-heat-pump-error-codes/)
-- [Rheem EcoNet A101 Error Code — Causes & Fix](/posts/rheem-econet-a101-error-code/)

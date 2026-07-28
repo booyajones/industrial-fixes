@@ -19,8 +19,6 @@ When your Kenmore refrigerator has a warm fresh-food section but the freezer sta
 
 This is not a special error code. It is a symptom pattern that points to an airflow or defrost failure in most models, and sometimes to a damper, fan, or control problem. A technician first verifies the evaporator section, then checks airflow, fan operation, damper movement, and defrost components before replacing parts.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Frosted evaporator from defrost failure** A failed defrost timer, defrost thermostat, defrost heater, or defrost sensor lets the evaporator ice over and block airflow to the refrigerator compartment.

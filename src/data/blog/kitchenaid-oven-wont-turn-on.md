@@ -20,8 +20,6 @@ When a KitchenAid oven won't turn on, the symptom splits into two different prob
 
 The manufacturer troubleshooting distinguishes between no power to the appliance controls versus controls that work but heating does not begin. The first is usually a supply or control issue. The second is often a heating or ignition issue depending on whether the oven is electric or gas.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Tripped breaker or blown fuse** The house circuit breaker has tripped or the fuse has blown, cutting power to the oven entirely.
@@ -53,8 +51,8 @@ The manufacturer troubleshooting distinguishes between no power to the appliance
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kitchenaid Oven A6 error code](/posts/kitchenaid-oven-a6-error-code/)
-- [Kitchenaid Oven Ab error code](/posts/kitchenaid-oven-ab-error-code/)
+- Kitchenaid Oven A6 error code
+- Kitchenaid Oven Ab error code
 - [Kitchenaid Oven Cal error code](/posts/kitchenaid-oven-cal-error-code/)
 - [Kitchenaid Oven F6 E0 error code](/posts/kitchenaid-oven-f6-e0-error-code/)
 - [Kitchenaid Oven F6 E1 error code](/posts/kitchenaid-oven-f6-e1-error-code/)

@@ -22,8 +22,7 @@ part_price: "$25-60"
 no_buy_pct: "40%"
 ---
 
-## Kenmore Dishwasher E08 Error Code — What It Means
-
+## What this code means
 The E08 error code (also displayed as 8:1) on a Kenmore Elite dishwasher specifically indicates an Inlet Water fault defined as Low Water/Air in Pump. The control board detected that the water level inside the tub was too low during the fill cycle, or that air was trapped in the pump preventing proper circulation. This code is different from the E08 code on Bosch dishwashers, which refers to a heating element issue. On Kenmore models, the dishwasher did not fill with enough water to complete the cycle safely.
 
 This fault triggers when the pressure sensor cannot detect the expected water level rise within a set time window. The machine stops the cycle to prevent damage to the pump or other components that require water for cooling and lubrication.
@@ -31,8 +30,6 @@ This fault triggers when the pressure sensor cannot detect the expected water le
 ## Before You Replace Anything
 
 Some people replace the control board or pressure switch first. Always clean the inlet valve screen and verify water supply pressure before replacing any electrical component.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

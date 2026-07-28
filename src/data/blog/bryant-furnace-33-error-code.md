@@ -13,11 +13,8 @@ money_part: "Air filter"
 most_likely_cause: "Restricted airflow - dirty filter"
 ---
 
-## Bryant Furnace 33 Error Code — What It Means
-
+## What this code means
 On Bryant furnaces, error code 33 indicates a limit device fault — the high-limit switch, rollout switch, or auxiliary limit has opened during operation. These are thermal safety devices. The primary high-limit switch is mounted on the heat exchanger plenum and opens when the plenum temperature exceeds a safe threshold (typically 180–200°F). When any limit device opens while the burners are firing, the control board immediately shuts the gas valve, logs fault 33, and blinks the status LED 33 times. Repeated limit trips eventually cause a hard lockout that requires manual reset.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,11 +47,3 @@ On Bryant furnaces, error code 33 indicates a limit device fault — the high-li
 ## When to Call a Pro
 
 A tripped rollout switch is never a nuisance fault — it means flame exited the burner box, which only happens with a blocked flue or a cracked heat exchanger. Both are serious safety issues. Have a licensed HVAC technician perform a combustion analysis and heat exchanger inspection before restarting the furnace after a rollout event.
-
-## Related Articles
-
-- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
-- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
-- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

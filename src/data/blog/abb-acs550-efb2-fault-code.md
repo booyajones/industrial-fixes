@@ -13,13 +13,10 @@ money_part: "ABB embedded fieldbus communication module"
 most_likely_cause: "Fieldbus communication timeout or loss"
 ---
 
-## ABB ACS550 EFB2 Fault Code — What It Means
-
+## What this code means
 Fault code 32 EFB2 on the ABB ACS550 drive means the embedded fieldbus (EFB) has raised its second protocol-specific fault. ABB states the exact meaning is protocol dependent, not a single fixed hardware failure. This is a communication or configuration fault tied to the active fieldbus protocol and your control network, not a motor or power stage problem.
 
 Because the code is protocol dependent, you must diagnose EFB2 in the context of your drive's communication settings and the network master (PLC, controller, or fieldbus scanner). ABB reserves fault codes 31, 32, and 33 for embedded fieldbus protocol applications, and the manufacturer documentation confirms these codes are not used as universal electrical faults. Instead, EFB2 typically signals a timeout, loss of communication, or incorrect protocol configuration between the ACS550 and your control system.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ Because the code is protocol dependent, you must diagnose EFB2 in the context of
 ## When to Call a Pro
 
 Call a qualified technician if you are not familiar with fieldbus protocols, drive parameter programming, or network diagnostics. Because EFB2 is protocol dependent, troubleshooting requires knowledge of your specific control system, PLC configuration, and ABB parameter groups. If you have corrected wiring and settings but the fault still appears, or if the drive will not communicate at all after reseating modules and checking parameters, a technician with a known-good spare module and protocol analyzer can isolate the fault faster and avoid damaging the drive or controller with incorrect settings.
-
-## See Also
-
-- [ABB ACS580 FA81 Fault - Safe Torque Off 1 Active](/posts/abb-acs580-fa81-fault-code/)
-- [ABB ACS580 B1 Fault Code - Causes & Fix](/posts/abb-acs580-b1-fault-code/)
-- [ABB ACS550 AI2 LOSS Fault - Causes & Fix](/posts/abb-acs550-ai2-loss-fault-code/)
-- [ABB ACS880 Fault 3130 — Input Phase Loss Causes & Fix](/posts/abb-acs880-fault-3130/)

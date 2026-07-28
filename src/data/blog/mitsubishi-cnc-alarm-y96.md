@@ -13,11 +13,8 @@ money_part: "SSCNET III/H fiber cable"
 most_likely_cause: "Servo drive overcurrent"
 ---
 
-## Mitsubishi CNC Alarm Y96 — What It Means
-
+## What this code means
 Alarm Y96 on Mitsubishi CNC systems (M800/M830 series) indicates a servo axis fault — the servo system has detected an abnormal condition on one of the controlled axes. Y96 is a drive-level servo alarm that propagates to the CNC control, usually accompanied by a more specific axis designation and sub-code that identifies which axis and what type of servo fault occurred.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Alarm Y96 on Mitsubishi CNC systems (M800/M830 series) indicates a servo axis fa
 ## When to Call a Pro
 
 Mitsubishi CNC servo drive replacement requires parameter matching and SSCNET III/H network reconfiguration. Mitsubishi authorized service handles drive replacement and axis calibration.
-
-## Related Articles
-
-- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
-- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
-- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
-- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
-- [Mitsubishi E3 Error Code — Indoor Fan Motor Fault Fix](/posts/mitsubishi-e3-error-code/)
-
-## See Also
-
-- [Mitsubishi U7 Error Code — Refrigerant System Fault](/posts/mitsubishi-u7-error-code/)
-- [Mitsubishi FR-A800 Fault E7 — CPU Error Causes & Fix](/posts/mitsubishi-fr-a800-fault-e7/)
-- [Mitsubishi Mini Split E1 Error Code — Indoor Thermistor Fault Fix](/posts/mitsubishi-mini-split-e1-error/)
-- [Mitsubishi U6 Error Code — Causes & Fix](/posts/mitsubishi-u6-error-code/)

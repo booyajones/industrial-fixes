@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana F6E3 Error Code — What It Means
-
+## What this code means
 On Amana washers, the F6E3 code indicates a problem in the control electronics path. Specifically, Amana documents it as an issue with the appliance control unit, the user interface, or the wiring between them. It can also reflect a voltage-sensing or power-supply problem inside the control circuit, rather than a mechanical or water-system fault.
 
 On Amana dryers, F6E3 is treated as a stored service alert. Amana instructs a breaker-power reset followed by a timed dry cycle to see whether the code returns. The code is handled differently across appliance types, so confirm your owner's manual if you have a dryer.
@@ -25,8 +24,6 @@ On Amana dryers, F6E3 is treated as a stored service alert. Amana instructs a br
 ## Before You Replace Anything
 
 Homeowners often replace the user-interface console board first because it is easier to reach. Before ordering a new UI, unplug the machine for five minutes, inspect all connectors between the UI and the main control for corrosion or looseness, and verify the main control board is not showing burn marks or blown components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

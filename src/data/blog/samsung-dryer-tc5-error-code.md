@@ -17,8 +17,7 @@ money_part: "Samsung dryer exhaust thermistor / temperature sensor"
 part_price: "$15-50"
 ---
 
-## Samsung Dryer tC5 Error Code — What It Means
-
+## What this code means
 The tC5 code on a Samsung dryer indicates a temperature-sensing or thermal fault in the exhaust or heater circuit. The dryer has detected either abnormal heat, failed temperature feedback from the thermistor, or a protection device opening in the sensing and safety path. Samsung service guidance groups tC5 with other codes (tC, tS, t5, 1tCS) under hotter-than-usual dryer temperature or malfunctioning temperature sensors.
 
 In practical terms, the control board is reporting that it cannot get reliable temperature readings or that the dryer is running too hot. This can be a real overheating event (often caused by poor airflow) or a sensor that is reading out of range or open-circuit. The dryer will shut down to prevent damage or fire.
@@ -26,8 +25,6 @@ In practical terms, the control board is reporting that it cannot get reliable t
 ## Before You Replace Anything
 
 Homeowners often replace the control board first. Before ordering a board, clean the entire vent path and test the exhaust thermistor with a meter. A thermistor reading far from 10 kΩ at room temperature (or open/shorted) points to a sensor, not a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

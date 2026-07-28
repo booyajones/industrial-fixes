@@ -13,11 +13,8 @@ money_part: "Servo amplifier (axis drive)"
 most_likely_cause: "Axis servo drive overtemperature"
 ---
 
-## Haas Alarm 110 — What It Means
-
+## What this code means
 Alarm 110 on a Haas CNC indicates an Axis Drive Fault — one of the servo axis drives (X, Y, Z, A, or B) reported a fault to the Haas control. Like alarm 108 (spindle), alarm 110 is reported with an axis identifier (e.g., "110 X-AXIS DRIVE FAULT") to indicate which axis is affected. The drive's internal sub-code (readable from the servo amplifier display) identifies the specific fault type — overcurrent, overtemperature, encoder error, etc.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Alarm 110 on a Haas CNC indicates an Axis Drive Fault — one of the servo axis 
 ## When to Call a Pro
 
 After a crash event causing alarm 110, always have a qualified technician verify axis alignment and ball screw integrity before returning the machine to production. Proceeding with an unverified axis after a crash can cause inaccurate parts and further machine damage.
-
-## Related Articles
-
-- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
-- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
-- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
-- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
-
-## See Also
-
-- [Haas Alarm 112 — Motor Overtemp](/posts/haas-alarm-112/)
-- [Haas Alarm 113 — Spindle Encoder Fault Causes & Fix](/posts/haas-alarm-113/)
-- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
-- [Haas Alarm 114 — Spindle Over Speed Causes & Fix](/posts/haas-alarm-114/)

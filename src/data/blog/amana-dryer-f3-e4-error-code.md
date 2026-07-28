@@ -16,15 +16,12 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Dryer F3 E4 Error Code — What It Means
-
+## What this code means
 The F3 E4 code on Amana dryers signals an intermittent airflow or vent restriction fault. Amana's own documentation links this code to restricted airflow conditions and recommends power-cycling the unit as the first corrective action. The related code AF or F4E3 explicitly describes restricted airflow caused by a clogged lint screen, blocked exhaust vent, or vent routing problems such as crushing, kinking, or too many turns. The dryer may continue to run while the code is displayed, but drying performance will suffer until the airflow problem is resolved. If the code persists after airflow checks and power reset, the control may have detected a broader system problem that requires professional service.
 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board or thermal sensors when the real problem is simply a blocked vent or lint screen. Always clean the entire exhaust path and power-cycle the dryer before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

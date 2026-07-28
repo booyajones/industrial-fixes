@@ -19,8 +19,6 @@ When your Samsung refrigerator stops producing ice, you are dealing with a sympt
 
 Samsung states that the freezer needs to be at 0°C (32°F) for the ice maker to function. If the unit is too warm, the water supply is restricted, or the ice maker is switched off or frozen over, you will get no ice. This condition can stem from something as simple as a settings menu toggle or as involved as a failed ice maker assembly.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Ice maker turned off or disabled** The most common cause is the ice maker being switched off through the control panel, smart screen, or a physical lever on the unit.
@@ -54,17 +52,17 @@ Samsung states that the freezer needs to be at 0°C (32°F) for the ice maker to
 
 Seeing a code on the display? These match this problem:
 
-- [Samsung Refrigerator 1E error code](/posts/samsung-refrigerator-1e-error-code/)
-- [Samsung Refrigerator 21E error code](/posts/samsung-refrigerator-21e-error-code/)
-- [Samsung Refrigerator 22E error code](/posts/samsung-refrigerator-22e-error-code/)
+- Samsung Refrigerator 1E error code
+- Samsung Refrigerator 21E error code
+- Samsung Refrigerator 22E error code
 - [Samsung Refrigerator 25E error code](/posts/samsung-refrigerator-25e-error-code/)
-- [Samsung Refrigerator 2E error code](/posts/samsung-refrigerator-2e-error-code/)
-- [Samsung Refrigerator 33E error code](/posts/samsung-refrigerator-33e-error-code/)
-- [Samsung Refrigerator 39E error code](/posts/samsung-refrigerator-39e-error-code/)
-- [Samsung Refrigerator 4E error code](/posts/samsung-refrigerator-4e-error-code/)
-- [Samsung Refrigerator 5E error code](/posts/samsung-refrigerator-5e-error-code/)
-- [Samsung Refrigerator 88 error code](/posts/samsung-refrigerator-88-error-code/)
-- [Samsung Refrigerator Ap error code](/posts/samsung-refrigerator-ap-error-code/)
+- Samsung Refrigerator 2E error code
+- Samsung Refrigerator 33E error code
+- Samsung Refrigerator 39E error code
+- Samsung Refrigerator 4E error code
+- Samsung Refrigerator 5E error code
+- Samsung Refrigerator 88 error code
+- Samsung Refrigerator Ap error code
 
 ## When to Call a Pro
 

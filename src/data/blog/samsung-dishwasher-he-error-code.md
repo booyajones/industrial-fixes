@@ -19,8 +19,7 @@ free_checks:
   - "Inspect the heater terminals and wire harness for visible corrosion, burnt terminals, or loose connectors and reseat any loose plugs."
 ---
 
-## Samsung Dishwasher HE Error Code — What It Means
-
+## What this code means
 Samsung dishwasher HE, HE1, HE2, and HE3 codes all signal a heater error. The dishwasher has detected abnormal temperature in the heating circuit, either too hot or not heating correctly. Samsung's support documentation describes it as incorrect temperature detection, meaning the control board sees a temperature reading that falls outside normal operating limits.
 
 The error can stem from the heating element itself, the temperature sensor (thermistor or thermostat), damaged wiring or connectors in the heater circuit, or occasionally a failed relay or output circuit on the main control board. In some cases, the code appears simply because very hot inlet water or residual heat from a recent cycle causes a false over-temperature trip.
@@ -28,8 +27,6 @@ The error can stem from the heating element itself, the temperature sensor (ther
 ## Before You Replace Anything
 
 Many owners replace the main control board first, but a simple resistance test of the heating element (should read about 13.5 Ω) and a visual check of the heater wiring and connectors will identify the real fault in most cases.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

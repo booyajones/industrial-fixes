@@ -17,8 +17,7 @@ money_part: "Membrane keypad or touchpad assembly"
 part_price: "$50-150"
 ---
 
-## GE Oven F7 Error Code — What It Means
-
+## What this code means
 The F7 error on a GE oven signals a keypad or touchpad circuit fault. The control board is detecting a stuck, shorted, or otherwise invalid key input from the membrane or glass touch panel, or a failure in the connection between the keypad and the control board. This can happen when a button appears pressed even when you are not touching it, when multiple keys register at once, or when the keypad signal is corrupted by damage, moisture, or a bad connector.
 
 The error is especially common on older GE units and after a self-clean cycle, which can damage the keypad membrane or related connections through heat. The real-world fix typically involves the keypad assembly, the ribbon cable or connector, or the electronic control board.
@@ -26,8 +25,6 @@ The error is especially common on older GE units and after a self-clean cycle, w
 ## Before You Replace Anything
 
 Many people replace the electronic control board first. Instead, disconnect the keypad ribbon cable and power on. If the error clears, the keypad or cable is the culprit, not the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -27,8 +27,6 @@ Winterhalter is a premium German commercial dishwasher brand used in high-end re
 | F7 | Conductivity fault (water quality) | Low |
 | F8 | Heating element fault | Medium |
 
-[Jump to Fix](#fix)
-
 ## Most Common Winterhalter Fixes {#fix}
 
 **F1 (water inlet):** Check water supply pressure (Winterhalter requires 1.5-6 bar / 22-87 PSI). Clean inlet valve filter screen. Test solenoid coil resistance.
@@ -49,4 +47,3 @@ Winterhalter is a premium German commercial dishwasher brand used in high-end re
 ## When to Call a Pro
 
 Winterhalter authorized service is recommended for F5 (wash pump) and F4 persistent temperature faults — Winterhalter's precision construction requires factory-trained technicians for component replacement.
-

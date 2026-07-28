@@ -17,8 +17,7 @@ money_part: "GE dishwasher pressure switch / water level sensor"
 part_price: "$15-50"
 ---
 
-## GE Dishwasher H2O Error Code — What It Means
-
+## What this code means
 The H2O code on a GE dishwasher indicates the machine is not receiving enough water to fill properly, or the fill rate and pressure are too low for the control to accept. The dishwasher expects water to reach a certain level within a set time, and when it cannot detect adequate fill, it stops and displays the fault.
 
 This is not typically an electronic problem. The underlying cause is almost always a real water-supply issue, a restriction in the fill path, or a contaminated pressure sensor that cannot accurately detect the water level inside the tub. The code will persist until the machine can complete a normal fill cycle.
@@ -26,8 +25,6 @@ This is not typically an electronic problem. The underlying cause is almost alwa
 ## Before You Replace Anything
 
 Many people replace the control board first. Before ordering any electronics, verify house water pressure at another fixture and inspect the pressure sensor for grease or debris buildup, which clears the code in most cases.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

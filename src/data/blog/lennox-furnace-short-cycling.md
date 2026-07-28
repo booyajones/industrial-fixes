@@ -20,8 +20,6 @@ Short cycling means your Lennox furnace turns on, runs briefly, and shuts off be
 
 This symptom can be caused by airflow restriction, a safety switch opening due to overheating, thermostat problems, or venting issues. The furnace is trying to run but something is forcing it to shut down early, either for safety or because the control logic thinks the cycle is complete when it isn't.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty or clogged air filter** A restricted filter blocks airflow over the heat exchanger, causing the furnace to overheat and trip the limit switch.
@@ -70,10 +68,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a technician if you are not comfortable working with gas connections, burner components, or electrical controls. Any situation where the furnace repeatedly trips the high-limit switch, shows signs of a cracked heat exchanger, or locks out on ignition faults requires professional diagnosis. If you have replaced the filter, checked airflow and venting, and confirmed thermostat operation but the furnace still short cycles, a pro can test safeties, measure blower performance, and inspect combustion components safely. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Lennox ResolvePlus Rooftop Unit Error Codes: Complete Guide](/posts/lennox-resolve-plus-error-codes/)
-- [Lennox 204 Error Code — Causes & Fix](/posts/lennox-error-code-204/)
-- [Lennox SL280UHV Error Codes — Complete Fault Code Diagnostic Guide](/posts/lennox-sl280uhv-error-codes/)
-- [Lennox E290 Error Code - Causes & Fix](/posts/lennox-furnace-e290-error-code/)

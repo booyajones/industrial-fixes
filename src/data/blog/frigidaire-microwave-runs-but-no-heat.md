@@ -19,8 +19,6 @@ A Frigidaire microwave that runs but does not heat means the control side is ope
 
 This is a functional failure, not a displayed error code. The most common culprits are door interlock or safety switch faults, a blown fuse or thermoprotector, or a failed high-voltage component such as the diode, capacitor, transformer, or magnetron. If the door does not close fully or the interlock switches do not prove a closed condition, the control will allow some functions but inhibit heating.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door interlock or switch failure** The door may not close fully or one of the interlock switches has failed, preventing the control from energizing the magnetron even though the fan and turntable run.

@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "80%"
 ---
 
-## Yaskawa GA800 F028 Fault — What It Means
-
+## What this code means
 The fault code F028 does not appear in Yaskawa's official GA800 VFD documentation. Yaskawa fault codes for the GA800 follow the format F001 through F999, but F028 is not among the recognized codes in the Maintenance & Troubleshooting Manual. This discrepancy typically arises from one of three issues: a misread code on the display (for example F020, F029, or F038), confusion with a different Yaskawa drive model (such as the GA700 or GA500 series where fault formats vary), or a third-party keypad or controller that uses a custom fault code set.
 
 The best first step is to verify the exact code displayed on the GA800 LED operator or keypad. If the display truly shows F028, cross-check it against the official GA800 Fault Code List in the drive manual and contact Yaskawa Technical Support directly with the drive's model number, serial number, and a description of the fault condition. Common similar codes include F020 for encoder errors, F029 for PID feedback errors, and F038 for DC bus overvoltage issues in certain contexts.
@@ -29,8 +28,6 @@ The best first step is to verify the exact code displayed on the GA800 LED opera
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board or encoder before verifying the actual fault code. Always confirm the exact code on the keypad and consult the official manual or Yaskawa support before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

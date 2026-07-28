@@ -57,15 +57,8 @@ Flow sensors fail from mineral buildup coating the turbine or Hall-effect transd
 If this part is failing you may also see one of these codes:
 
 - [Rheem Water Heater A01 error code](/posts/rheem-water-heater-a01-error-code/)
-- [Rheem Water Heater Alarm 401 error code](/posts/rheem-water-heater-alarm-401-error-code/)
+- Rheem Water Heater Alarm 401 error code
 
 ## When to Call a Pro
 
 If you are not comfortable working with gas piping, call a licensed plumber or gas technician to handle the gas shutoff, sensor replacement, and leak-check on restart. Similarly, if you replace the flow sensor and still see error code 24 or no ignition, the fault may lie in the wiring harness, control board, or a restriction elsewhere in the water path (clogged heat exchanger or inlet filter), all of which require systematic electrical testing and descaling that most homeowners prefer to leave to a professional. Any work that involves opening gas connections or testing gas-valve voltage should be performed by a qualified technician to meet local codes and warranty requirements. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rheem RA16 Heat Pump Error Codes — Flash Code Diagnostic Guide](/posts/rheem-ra16-heat-pump-error-codes/)
-- [Rheem XE40M06ST45U1 Water Heater Problems & Error Codes](/posts/rheem-xe40m06st45u1-water-heater-problems/)
-- [Rheem A01 Error Code - Causes & Fix](/posts/rheem-heat-pump-a01-error-code/)
-- [Rheem Furnace Blower Won't Shut Off - Causes & Fix](/posts/rheem-furnace-blower-wont-shut-off/)

@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Bosch E24 Error Code — What It Means
-
+## What this code means
 The E24 code on a Bosch dishwasher signals a drainage fault. The machine has detected that water is not evacuating properly, almost always because something is blocking the drain path. Bosch points to the filter and pump area first, then the drain hose, siphon connection, pump cover, or garbage-disposal connection as the typical culprits.
 
 You will usually see water left standing in the tub after a cycle, the cycle pausing or stopping mid-program, and sometimes a gurgling or humming sound when the dishwasher tries to drain. The code appears because flow through the drain system is restricted or completely blocked.
@@ -25,8 +24,6 @@ You will usually see water left standing in the tub after a cycle, the cycle pau
 ## Before You Replace Anything
 
 Homeowners often replace the drain pump when the real problem is debris blocking the filter or impeller. Pull and clean the filter first, then check the pump cover and impeller for blockage before buying a new pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

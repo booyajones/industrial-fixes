@@ -13,11 +13,8 @@ money_part: "Igniter/electrode assembly"
 most_likely_cause: "Gas supply issue"
 ---
 
-## Navien E002 Error Code — What It Means
-
+## What this code means
 Navien error code E002 means ignition failure — the unit attempted to ignite the burner but could not establish a stable flame within the trial period. Navien tankless water heaters and boilers try to ignite 3 times before locking out with E002. Each ignition attempt involves spark, gas valve opening, and flame confirmation via ionization. If any part of this chain fails — no spark, no gas, or no ionization signal — the attempt fails and the board counts it. After 3 failures, E002 locks the unit until manually reset.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Navien error code E002 means ignition failure — the unit attempted to ignite t
 ## When to Call a Pro
 
 Gas valve diagnosis and adjustment requires a licensed gas tech. If the igniter is clean and gas is confirmed available but E002 persists, a tech should check gas manifold pressure and valve operation.
-
-## Related Articles
-
-- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
-- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
-- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
-- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)
-- [Navien Error Code E007 — Causes & Fix](/posts/navien-error-code-e007/)
-
-## See Also
-
-- [Navien E302 Error Code — Causes & Fix](/posts/navien-error-code-e302/)
-- [Navien Error Code E021 — Cold Water Inlet Thermistor Fault Fix](/posts/navien-error-code-e021/)
-- [Navien NFC Combi Boiler Error Codes: Complete Guide](/posts/navien-nfc-error-codes/)
-- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)

@@ -14,13 +14,10 @@ money_part: "Power cord"
 most_likely_cause: "Utility power outage during delayed start"
 ---
 
-## Speed Queen Washer PF Error Code — What It Means
-
+## What this code means
 PF on a Speed Queen washer stands for **power failure during delayed start**. The control detected that the machine lost electrical power while it was counting down in Delayed Start mode, so it canceled the delayed cycle and stored the PF code on the display. This is a history code, not a component failure. It simply means the washer's delayed-start timer was interrupted by a loss of power before the cycle began.
 
 Once power is restored, the washer will not resume the delayed cycle automatically. You must clear the PF code and set a new cycle. In most cases, pressing the Power/Cancel button will reset the display and allow you to start a fresh wash. The code does not indicate a problem inside the washer itself, only that the power was lost at some point during the countdown.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

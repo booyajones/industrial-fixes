@@ -19,8 +19,6 @@ A GE microwave making loud noise is not a fault code. It is a symptom of a mecha
 
 GE's published fault-code list covers electronic display codes like F1, F2, F3, F4, F5, F6, F10, Probe, 888/PF, and 18 power watch. None of those codes directly indicate a loud-noise complaint. If your microwave also shows a display code, that code needs separate diagnosis, but the noise itself points to a component breakdown rather than an electronic fault.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Defective high-voltage diode** A bad diode can make the magnetron run loudly or cause a loud hum, and repair sources recommend checking this component first before replacing the magnetron.
@@ -52,10 +50,10 @@ GE's published fault-code list covers electronic display codes like F1, F2, F3, 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Ge Microwave F0 error code](/posts/ge-microwave-f0-error-code/)
+- Ge Microwave F0 error code
 - [Ge Microwave F1 error code](/posts/ge-microwave-f1-error-code/)
 - [Ge Microwave F10 error code](/posts/ge-microwave-f10-error-code/)
-- [Ge Microwave F2 error code](/posts/ge-microwave-f2-error-code/)
+- Ge Microwave F2 error code
 - [Ge Microwave F3 error code](/posts/ge-microwave-f3-error-code/)
 - [Ge Microwave F4 error code](/posts/ge-microwave-f4-error-code/)
 - [Ge Microwave F5 error code](/posts/ge-microwave-f5-error-code/)

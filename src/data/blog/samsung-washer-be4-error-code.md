@@ -20,8 +20,7 @@ free_checks:
 part_price: "$150-250"
 ---
 
-## Samsung Washer bE4 Error Code — What It Means
-
+## What this code means
 The bE4 error code indicates a brushless motor communication failure. The main control board (PCB) is not receiving correct Hall Effect sensor signals from the motor control unit (MCU) attached to the motor. These sensors tell the board where the motor rotor is positioned and how fast it is spinning. Without this feedback, the washer cannot safely run the motor and halts the cycle to prevent the motor from running out of sync, which could cause mechanical damage or create a fire hazard.
 
 The numeric suffix '4' in Samsung's motor error hierarchy specifically points to a communication timeout or complete loss of the Hall sensor signal during motor start-up or the run phase. This is distinct from other bE codes that indicate different types of motor faults. The system detects that the expected pulse signals from the motor are missing or corrupted.
@@ -29,8 +28,6 @@ The numeric suffix '4' in Samsung's motor error hierarchy specifically points to
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first, thinking it is the communication problem. Always check the motor harness connections and test the motor windings and Hall sensor signals before replacing the PCB, since the motor itself fails far more often.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

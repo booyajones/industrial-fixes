@@ -13,11 +13,8 @@ money_part: "MDS servo amplifier"
 most_likely_cause: "Axis overcurrent"
 ---
 
-## Mazak Alarm 50 Servo — What It Means
-
+## What this code means
 Alarm 50 on a Mazak CNC (Mazatrol T32, M32, Fusion 640, Matrix, Smooth controls) indicates a servo drive fault. Mazak machines use Mitsubishi MDS series servo amplifiers on older models and Mazak/Mitsubishi integrated amplifiers on newer Smooth-series machines. Alarm 50 is generated when the servo amplifier for one or more axes reports an internal fault — the specific axis and sub-fault code are displayed in the alarm detail page or on the servo amplifier's LED display.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Alarm 50 on a Mazak CNC (Mazatrol T32, M32, Fusion 640, Matrix, Smooth controls)
 ## When to Call a Pro
 
 Mazak servo system repair — especially on Smooth-series machines — requires Mazak-authorized service. Incorrect amplifier parameters or encoder setup after component replacement causes axis runaway or positioning errors that scrap parts and can damage the machine.
-
-## Related Articles
-
-- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
-- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
-- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-
-## See Also
-
-- [Mazak Alarm 1 Servo Alarm — Causes & Fix](/posts/mazak-alarm-1-servo/)
-- [Mazak Matrix Alarm 1041 — Battery Voltage Drop / Encoder Battery Fix](/posts/mazak-alarm-1041/)
-- [Mazak Alarm 800 — Tool Magazine Fault](/posts/mazak-alarm-800-atc/)
-- [Mazak CNC Alarm Codes — Common Faults and Fixes](/posts/mazak-alarm-codes/)

@@ -19,8 +19,6 @@ Standing water in the bottom of a Samsung dishwasher is a drainage fault. The ma
 
 The problem is usually mechanical, not electronic. Something is physically blocking the flow of water out of the tub, or a component in the drain path has failed. The dishwasher pumps water out through a filter, into a drain pump, past a check valve, and then through a hose to your household drain. Any restriction in that chain leaves water sitting in the sump at the end of a cycle.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged filter or sump debris** Food particles, broken glass, or other debris in the bottom filter assembly or sump pit block water from reaching the drain pump, and this is the most common cause reported by Samsung support and field technicians.

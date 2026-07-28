@@ -17,8 +17,6 @@ money_part: "Refrigerant charge (R-410A)"
 
 The Lennox XP21 is a variable-capacity heat pump in the Elite series. It uses Lennox's Quantum Coil and a variable-speed scroll compressor for efficiency ratings up to 21 SEER. The XP21 communicates through the iComfort or Harmony III thermostat system, which displays fault codes and descriptions directly on the thermostat screen. Faults can also be read from the diagnostic LED on the outdoor control board.
 
-[Jump to Fix](#fix)
-
 ## Lennox XP21 Common Fault Codes
 
 | Code | Description |
@@ -65,18 +63,3 @@ The Lennox XP21 is a variable-capacity heat pump in the Elite series. It uses Le
 ## When to Call a Pro
 
 The XP21's variable-speed inverter drive and communicating system require Lennox-specific diagnostic software to fully diagnose. Code 328 (drive fault) and repeated Code 411 (low charge) should not be serviced without certified refrigerant handling and inverter knowledge. Contact a Lennox Premier Dealer for advanced diagnostics.
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-
-## See Also
-
-- [Lennox 204 Error Code — Causes & Fix](/posts/lennox-error-code-204/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Healthy Climate Error Codes — Complete Guide](/posts/lennox-healthy-climate-error-codes/)

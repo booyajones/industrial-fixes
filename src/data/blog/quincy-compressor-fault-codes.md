@@ -49,11 +49,3 @@ A dead or drifting pressure transducer makes the controller do strange things, i
 | Fan motor / contactor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-quincy-compressor-fault-codes&tag=errorcodefixes-20) \| Check on temperature faults |
 ## When to Call a Pro
 If the compressor is tripping on high temp after cooler cleaning and PM service, the oil thermostatic valve or airend may be wearing out. That is specialist work.
-
-## Related Articles
-
-- [Air Compressor Fault Codes: Complete Guide](/posts/air-compressor-fault-codes/)
-- [Atlas Copco Air Compressor Fault Codes — Complete Guide](/posts/atlas-copco-compressor-fault-codes/)
-- [BOGE Air Compressor Error Codes - Complete Guide](/posts/boge-compressor-error-codes/)
-- [Chicago Pneumatic Compressor Fault Codes — Complete Guide](/posts/chicago-pneumatic-compressor-faults/)
-- [CompAir Air Compressor Fault Codes - Complete Guide](/posts/compair-compressor-fault-codes/)

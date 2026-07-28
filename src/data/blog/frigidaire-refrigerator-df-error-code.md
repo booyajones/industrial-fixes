@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Frigidaire defrost control board"
 ---
 
-## Frigidaire Refrigerator dF Error Code — What It Means
-
+## What this code means
 The dF error code on a Frigidaire refrigerator indicates a defrost-circuit fault. The refrigerator is detecting a problem in the defrost system or defrost control circuit, meaning the unit cannot verify that the defrost cycle is operating correctly. This is not a generic temperature alarm. When the defrost system fails, frost can build up on the evaporator coils, blocking airflow and eventually causing poor cooling in both the refrigerator and freezer compartments.
 
 Because Frigidaire uses different platforms and control systems across its model lines, the exact fault path can vary. On most models, the code points to a communication or hardware problem between the defrost control board, the main control board, and related sensors or wiring. If the code appears on your display, the refrigerator is warning you that frost management has failed and manual troubleshooting or a service call is needed to prevent long-term cooling loss.
@@ -26,30 +25,12 @@ Because Frigidaire uses different platforms and control systems across its model
 
 Many homeowners replace the main control board first, assuming any error code means a bad board. Check the wiring harness connectors and test the temperature sensor with a multimeter before replacing any boards.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Defrost control board failure (~40%)** The defrost control board manages the defrost cycle timing and heater operation, and when it fails the refrigerator cannot complete or verify defrost.
-- **Wiring harness or connector problem (~30%)** Loose, corroded, or damaged connectors between the defrost control, main control board, and sensors interrupt the defrost-circuit signal and trigger the dF code.
-- **Failed temperature sensor or thermistor (~20%)** If the model uses sensor feedback as part of the defrost decision path, a failed refrigerator or freezer thermistor will prevent the control from confirming defrost operation.
-- **Main control board fault (~10%)** The main control board may fail to communicate with or power the defrost circuit, especially if the board has suffered a voltage spike or moisture intrusion.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Did the code appear after a power outage or during very hot weather?</summary>
-<div class="dtree-body"><strong>Yes:</strong> A transient fault may have triggered the code. Perform a hard reset by unplugging the refrigerator for at least one minute, then plug it back in and see if the code clears.<br><strong>No:</strong> The fault is likely a persistent hardware problem in the defrost circuit, so proceed with wiring and sensor checks.</div>
-</details>
-
-<details class="dtree"><summary>Can you see heavy frost or ice buildup on the back wall inside the freezer?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The defrost system has been failing for some time. The defrost heater, control board, or related wiring is not cycling properly, and you need to check the defrost circuit components.<br><strong>No:</strong> The code may have appeared early before visible frost. Check wiring and sensors now to prevent future frost buildup and cooling loss.</div>
-</details>
-
-<details class="dtree"><summary>Do you hear the evaporator fan running when the compressor is on?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Airflow is present, so the fault is isolated to the defrost-control circuit rather than a fan or airflow problem. Focus on the defrost board, wiring, and thermistor.<br><strong>No:</strong> A failed evaporator fan or fan-circuit fault can appear alongside defrost-system errors on some models. Inspect the fan motor and harness before replacing defrost components.</div>
-</details>
+- **Defrost control board failure** The defrost control board manages the defrost cycle timing and heater operation, and when it fails the refrigerator cannot complete or verify defrost.
+- **Wiring harness or connector problem** Loose, corroded, or damaged connectors between the defrost control, main control board, and sensors interrupt the defrost-circuit signal and trigger the dF code.
+- **Failed temperature sensor or thermistor** If the model uses sensor feedback as part of the defrost decision path, a failed refrigerator or freezer thermistor will prevent the control from confirming defrost operation.
+- **Main control board fault** The main control board may fail to communicate with or power the defrost circuit, especially if the board has suffered a voltage spike or moisture intrusion.
 
 ## Step-by-Step Fix {#fix}
 
@@ -73,5 +54,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a professional appliance technician if you are not comfortable working inside the refrigerator cabinet, testing components with a multimeter, or handling control boards. Defrost-circuit diagnostics require access to wiring diagrams and service test modes that vary by model. A technician can quickly pinpoint whether the fault is in the defrost control board, main control board, sensor, or wiring, saving you the cost of replacing the wrong part. Also call a pro if the code returns after you have replaced a component, if you see any burned wiring or smell electrical odors, or if the refrigerator is still under warranty and you want to preserve coverage.
-
-**Rough cost:** A pro service call runs about $150–350 depending on the board or sensor replaced.

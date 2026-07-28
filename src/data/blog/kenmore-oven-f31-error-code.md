@@ -17,8 +17,7 @@ likelihood: "the most common real-world fix"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Oven F31 Error Code — What It Means
-
+## What this code means
 On most Kenmore electric ranges and ovens built on Frigidaire or Electrolux controls, F31 indicates the oven temperature sensor circuit is shorted or being read as shorted by the control. The control sees a sensor signal outside the normal range, so it flags a fault and may block baking or heating.
 
 The sensor, also called an RTD probe, monitors oven temperature and sends resistance readings to the electronic control. When the control detects an abnormally low resistance, it assumes the circuit is shorted and throws F31.
@@ -26,8 +25,6 @@ The sensor, also called an RTD probe, monitors oven temperature and sends resist
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first. Always test the oven sensor resistance at room temperature (should read about 1,080–1,091 ohms at 75°F) and inspect the harness for damage before buying a new control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

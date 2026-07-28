@@ -13,11 +13,8 @@ money_part: "IPM / Inverter control board"
 most_likely_cause: "Dirty condenser coil"
 ---
 
-## Carrier E3 Error Code — What It Means
-
+## What this code means
 The Carrier E3 error code indicates an **IPM (Intelligent Power Module) fault** on the outdoor unit's inverter board. The IPM is the power electronics module that controls the variable-speed compressor. E3 trips when the IPM detects an internal protection event — typically overcurrent, overtemperature, or a short-circuit condition inside the module. You'll see E3 displayed on the indoor unit's diagnostic LED or the system control board. Until the fault is cleared, the compressor locks out and the system won't cool or heat.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ The Carrier E3 error code indicates an **IPM (Intelligent Power Module) fault** 
 ## When to Call a Pro
 
 If the condenser coil is clean, the fan runs correctly, and E3 still returns within minutes of reset, the IPM board has failed internally. IPM replacement requires handling high-voltage DC bus capacitors — a licensed HVAC-R technician or electrician should perform this repair.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier Error Code 26 - Causes & Fix](/posts/carrier-error-code-26/)
-- [Carrier WeatherMaker Rooftop Unit Error Codes: Complete Guide](/posts/carrier-weatheramaker-error-codes/)
-- [Carrier Mini-Split F0 Error Code — Low Refrigerant / Leakage Detection Fix](/posts/carrier-mini-split-f0-error-code/)
-- [Carrier Heat Pump E2 Error Code - Causes & Fix](/posts/carrier-heat-pump-e2-error-code/)

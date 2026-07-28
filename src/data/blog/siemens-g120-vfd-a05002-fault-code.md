@@ -13,11 +13,8 @@ money_part: "Siemens G120 cooling fan"
 most_likely_cause: "Ambient temperature too high"
 ---
 
-## Siemens G120 A05002 Fault — What It Means
-
+## What this code means
 A05002 on a Siemens SINAMICS G120 is an alarm, not a fault trip, indicating power module overtemperature. The drive has detected that the power section temperature has exceeded safe operating limits. For air-cooled power units, Siemens documentation cites a threshold of 42 °C air intake temperature with 2 K hysteresis. Because this is an alarm rather than a fault, the drive may continue to run but will likely trip if the condition worsens. The alarm warns you that the power module is too hot and needs cooling or load reduction before damage occurs.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ A05002 on a Siemens SINAMICS G120 is an alarm, not a fault trip, indicating powe
 ## When to Call a Pro
 
 Call a qualified electrician or drive technician if the alarm returns after you have cleared obstructions and verified fan operation, if you cannot safely measure temperatures or access the enclosure, or if the load and power settings are beyond your familiarity with VFD commissioning. A professional can perform thermal imaging, verify parameter configuration, check for power module damage, and confirm that the drive is sized correctly for the application.
-
-## See Also
-
-- [Siemens Micromaster F0071 - Causes & Fix](/posts/siemens-micromaster-vfd-f0071-fault-code/)
-- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)
-- [Siemens SIPROTEC Protective Relay Faults: Complete Guide](/posts/siemens-siprotec-relay-faults/)
-- [Siemens SINAMICS G120 F00001 Fault — Causes & Fix](/posts/siemens-sinamics-g120-fault-f00001/)

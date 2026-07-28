@@ -17,8 +17,7 @@ money_part: "Maytag Appliance Manager / Main Control Board"
 part_price: "$100-250"
 ---
 
-## Maytag Range F6E3 Error Code — What It Means
-
+## What this code means
 The F6E3 error code on a Maytag range or oven signals a problem with the Appliance Manager (main control board) or the wiring between control components. Maytag describes this as a communication-related fault with multiple possible causes, not a sensor or heating element issue.
 
 This code indicates the main control is either not receiving signals correctly or has an internal fault. The manufacturer notes there are a variety of different reasons this may happen, ranging from a simple loose connector to a failing control board.
@@ -26,8 +25,6 @@ This code indicates the main control is either not receiving signals correctly o
 ## Before You Replace Anything
 
 Many owners replace the Appliance Manager control board first without inspecting the wiring harness and connectors. Always check for loose, corroded, or damaged plugs and reseat all connections before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

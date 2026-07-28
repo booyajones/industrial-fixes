@@ -42,10 +42,3 @@ The Mitsubishi MSZ-GL12NA is a ductless mini-split indoor unit in the GL series,
 ## When to Call a Pro
 
 Call a licensed HVAC technician for any refrigerant work, including leak detection, pressure testing, and recharging. Also call for electrical diagnostics on control boards, compressor circuits, or outdoor unit faults. If you retrieve an error code using the remote and the fault persists after power cycling, a technician should inspect the related circuit and components. Communication faults, sensor replacement, and drain pump work are straightforward for experienced DIYers only if they can safely access the indoor unit and retrieve the exact fault code. Any work involving the outdoor unit, high-voltage wiring, or sealed refrigerant system requires a professional.
-
-## See Also
-
-- [Mitsubishi P8 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-p8-error-code/)
-- [Mitsubishi P7 Error Code — System Mode Mismatch Fix](/posts/mitsubishi-p7-error-code/)
-- [Mitsubishi Mini Split EE Error Code - Causes & Fix](/posts/mitsubishi-mini-split-ee-error-code/)
-- [Mitsubishi E7 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-e7-error-code/)

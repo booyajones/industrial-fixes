@@ -17,8 +17,7 @@ money_part: "Drain hose"
 part_price: "$15-80"
 ---
 
-## Maytag Washer DRN Error Code — What It Means
-
+## What this code means
 DRN on a Maytag washer is a long-drain or drainage fault. The machine is taking too long to remove water or cannot drain normally during the cycle. On supported top-load models Maytag ties DRN to the F9 E1 fault, which means a drain pump system problem with long drain times.
 
 The code does not always mean the pump itself has failed. Maytag emphasizes that incorrect drain hose installation, including inserting the hose too far into the standpipe or routing the end too low, will trigger the same long-drain condition. A kinked or clogged hose, debris in the drain path, or a failing pump can also cause the code.
@@ -26,8 +25,6 @@ The code does not always mean the pump itself has failed. Maytag emphasizes that
 ## Before You Replace Anything
 
 Many people replace the drain pump first without checking the hose. Always verify hose routing, insertion depth, and height before ordering a pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

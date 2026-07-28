@@ -19,8 +19,6 @@ When an LG refrigerator runs constantly, the compressor is staying on because th
 
 Once the set temperature is reached, the compressor should normally cycle on and off. Continuous running means the system is still working to recover temperature or is losing cooling capacity faster than it can replace it.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door not closing properly or weakened magnetic gasket** Warm air infiltrates through a weak, dirty, warped, or damaged door seal, preventing the cabinet from reaching setpoint.
@@ -70,10 +68,3 @@ Seeing a code on the display? These match this problem:
 ## When to Call a Pro
 
 Call a pro if the refrigerator continues running constantly after you have cleaned the door seal, confirmed proper closure, adjusted the temperature setting, and waited 24 to 48 hours for recovery. A technician will use a meter to check inverter board output, test the compressor and sealed system, and diagnose refrigerant or control failures that require EPA-certified refrigerant handling and board-level diagnostics.
-
-## See Also
-
-- [LG Washer Drive Belt Replacement - Signs & How-To](/posts/lg-washer-drive-belt-replacement/)
-- [LG Oven Burner Won't Light - Causes & Fix](/posts/lg-oven-burner-wont-light/)
-- [LG Oven F9 Error Code - Causes & Fix](/posts/lg-oven-f9-error-code/)
-- [LG Range E2 Error Code - Causes & Fix](/posts/lg-range-e2-error-code/)

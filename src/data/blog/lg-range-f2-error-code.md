@@ -17,8 +17,7 @@ money_part: "LG oven temperature sensor / thermistor"
 part_price: "$15-40"
 ---
 
-## LG Range F2 Error Code — What It Means
-
+## What this code means
 On an LG range or oven, the F2 error code indicates a thermistor error. The control system is detecting an out-of-range or invalid signal from the oven temperature sensor, so it cannot trust the cavity temperature feedback. The range will typically shut down the oven function to prevent overheating or unsafe operation.
 
 The code points to a problem in the temperature-sensing circuit: the sensor itself, the wiring harness or connector between the sensor and the main control board, or a fault in the control board's sensor-input circuitry. A simple power reset clears the code temporarily if it was a transient glitch, but if F2 returns immediately or during the next bake cycle, a component has failed.
@@ -26,8 +25,6 @@ The code points to a problem in the temperature-sensing circuit: the sensor itse
 ## Before You Replace Anything
 
 Many people replace the main control board first because the display shows the error, but a loose connector or a failed $20 sensor causes F2 far more often. Always test the sensor resistance and inspect the harness before ordering a control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a professional appliance technician if you are not comfortable working with multimeters, accessing the back of the oven cavity, or identifying wire harnesses. Also call if you have replaced the sensor and verified the wiring but the F2 code still appears, because the main control board will need to be diagnosed and swapped. A technician can confirm the exact sensor specification for your model, isolate intermittent wiring faults, and flash or replace the control board safely. If your range is still under warranty, contact LG service before opening the unit so you do not void coverage.
 
 **Rough cost:** DIY runs about $15-40 for sensor, 20-40 min. A pro service call runs about $120-250 including service call and sensor.
-
-## See Also
-
-- [LG Oven F10 Error Code - Causes & Fix](/posts/lg-oven-f10-error-code/)
-- [LG Refrigerator Water Filter Replacement - Signs & How-To](/posts/lg-refrigerator-water-filter-replacement/)
-- [LG LREL6323S Oven Problems & Error Codes](/posts/lg-lrel6323s-oven-problems/)
-- [LG Mini-Split CH22 Error Code — Indoor Fan Motor Fix](/posts/lg-mini-split-ch22-error-code/)

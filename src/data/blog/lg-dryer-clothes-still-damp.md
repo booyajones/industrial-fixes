@@ -19,8 +19,6 @@ When an LG dryer finishes a cycle but laundry remains wet or only partially dry,
 
 Airflow and sensor problems stop the dryer from removing moisture efficiently, even if the heating element itself is working. Restricted exhaust makes the drum overheat and cycle off before clothes are dry, while dirty humidity sensors can cause the machine to terminate early or misread dryness. On electric models, if one leg of the 240 V supply is missing, the drum will tumble but the heater will not turn on at all.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Restricted exhaust airflow from lint buildup, crushed hose, or blocked exterior vent** LG says clogged ducts, kinked hoses, disconnected vent pipe, or blocked exterior flaps prevent hot moist air from escaping and trigger d75/d80/d90/d95 codes or long dry times.
@@ -56,7 +54,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Lg Dryer D90 error code](/posts/lg-dryer-d90-error-code/)
 - [Lg Dryer D95 error code](/posts/lg-dryer-d95-error-code/)
 - [Lg Dryer De error code](/posts/lg-dryer-de-error-code/)
-- [Lg Dryer De1 error code](/posts/lg-dryer-de1-error-code/)
+- Lg Dryer De1 error code
 - [Lg Dryer E00 error code](/posts/lg-dryer-e00-error-code/)
 - [Lg Dryer E1 error code](/posts/lg-dryer-e1-error-code/)
 - [Lg Dryer E13 error code](/posts/lg-dryer-e13-error-code/)
@@ -66,10 +64,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a technician if cleaning the vent path, lint filter, and humidity sensors and verifying 240 V power do not restore normal drying. Persistent d80/d90/d95 codes after thorough vent cleaning may indicate internal blower-housing lint buildup or a failing blower motor. An nP code that remains after confirming home wiring is correct points to heater-circuit faults that require component testing. Temperature-sensor codes (tE1 through tE4) require thermistor and control-board diagnostics best handled by a qualified service provider.
-
-## See Also
-
-- [LG Mini Split CH02 Error Code — Causes & Fix](/posts/lg-mini-split-ch02-error-code/)
-- [LG Range E6 Error Code - Causes & Fix](/posts/lg-range-e6-error-code/)
-- [LG Dishwasher Leaking - Causes & Fix](/posts/lg-dishwasher-leaking/)
-- [LG Microwave Inverter Board Replacement - Signs & How-To](/posts/lg-microwave-inverter-board-inverter-models-replacement/)

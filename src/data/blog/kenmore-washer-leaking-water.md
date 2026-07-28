@@ -19,8 +19,6 @@ A Kenmore washer leaking water is a symptom, not a single fault code. The leak c
 
 Leaks that show up during fill or when the machine is idle typically come from the water inlet valve or the supply and dispenser path rather than the drain system. There is no universal Kenmore leak code because this is a physical fault condition that requires you to trace the water back to its source before replacing the failed component.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Cracked or worn drain pump** The pump housing can crack or the bearing can wear out, letting water seep from the bottom of the cabinet during drain or spin cycles.
@@ -55,8 +53,8 @@ Leaks that show up during fill or when the machine is idle typically come from t
 
 Seeing a code on the display? These match this problem:
 
-- [Kenmore Washer E14 error code](/posts/kenmore-washer-e14-error-code/)
-- [Kenmore Washer E24 error code](/posts/kenmore-washer-e24-error-code/)
+- Kenmore Washer E14 error code
+- Kenmore Washer E24 error code
 - [Kenmore Washer F0 E2 error code](/posts/kenmore-washer-f0-e2-error-code/)
 - [Kenmore Washer F0 E4 error code](/posts/kenmore-washer-f0-e4-error-code/)
 - [Kenmore Washer F1 E1 error code](/posts/kenmore-washer-f1-e1-error-code/)

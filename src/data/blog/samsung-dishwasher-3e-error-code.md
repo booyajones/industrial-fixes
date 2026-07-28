@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Samsung dishwasher thermistor / temperature sensor"
 ---
 
-## Samsung Dishwasher 3E Error Code — What It Means
-
+## What this code means
 The 3E error code on Samsung dishwashers signals a high temperature water supply error. The dishwasher has detected that the incoming hot water is hotter than the allowed threshold. Samsung specifies that the hot water supply must be below 176°F (80°C). If the water entering the dishwasher exceeds this temperature, the machine throws the 3E code and stops the cycle to protect internal components and dishes from damage.
 
 This code is specific to Samsung dishwashers. Some third-party repair sites confuse it with motor-related codes on Samsung washing machines or other appliances, so always confirm your model number and refer to Samsung dishwasher documentation. The fix usually involves adjusting your household water heater or mixing valve. If the error persists after confirming the supply water is within spec, Samsung directs you to contact service for possible sensor or control issues.
@@ -25,8 +24,6 @@ This code is specific to Samsung dishwashers. Some third-party repair sites conf
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board or temperature sensor without first checking the actual inlet water temperature. Measure the hot water at the dishwasher supply line with a thermometer before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

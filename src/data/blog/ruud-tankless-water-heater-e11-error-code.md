@@ -13,13 +13,10 @@ money_part: "Flame rod"
 most_likely_cause: "Dirty or fouled flame rod or igniter"
 ---
 
-## Ruud E11 Error Code — What It Means
-
+## What this code means
 The E11 error code on a Ruud tankless water heater signals an ignition failure or flame-not-proven fault. The unit senses demand for hot water and calls for heat, but either the burner does not ignite at all or it lights briefly without being confirmed by the flame-sensing circuit. This is a combustion-start problem, not a water-flow issue.
 
 In practical terms, E11 means one of three things is happening: no spark is being generated at the igniter, insufficient gas is reaching the burner to support ignition, or the burner lights but the flame rod cannot detect the flame and prove combustion to the control board. The heater locks out for safety until the underlying cause is corrected.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

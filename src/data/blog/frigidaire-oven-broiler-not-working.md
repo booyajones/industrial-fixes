@@ -20,8 +20,6 @@ A non-working broiler means your Frigidaire oven is not delivering heat through 
 
 This is a functional failure rather than a displayed error code. The appliance may work fine for baking but simply will not heat when you command Broil. The root cause is almost always in the heating component itself, the wiring feeding it, or the control relay that energizes the circuit.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed broil element (electric models)** The element has an open circuit, visible break, blistering, or warping and will not conduct current.
@@ -55,18 +53,18 @@ This is a functional failure rather than a displayed error code. The appliance m
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Frigidaire Oven F1 error code](/posts/frigidaire-oven-f1-error-code/)
-- [Frigidaire Oven F10 error code](/posts/frigidaire-oven-f10-error-code/)
-- [Frigidaire Oven F11 error code](/posts/frigidaire-oven-f11-error-code/)
-- [Frigidaire Oven F12 error code](/posts/frigidaire-oven-f12-error-code/)
-- [Frigidaire Oven F13 error code](/posts/frigidaire-oven-f13-error-code/)
-- [Frigidaire Oven F2 error code](/posts/frigidaire-oven-f2-error-code/)
-- [Frigidaire Oven F20 error code](/posts/frigidaire-oven-f20-error-code/)
+- Frigidaire Oven F1 error code
+- Frigidaire Oven F10 error code
+- Frigidaire Oven F11 error code
+- Frigidaire Oven F12 error code
+- Frigidaire Oven F13 error code
+- Frigidaire Oven F2 error code
+- Frigidaire Oven F20 error code
 - [Frigidaire Oven F26 error code](/posts/frigidaire-oven-f26-error-code/)
-- [Frigidaire Oven F3 error code](/posts/frigidaire-oven-f3-error-code/)
-- [Frigidaire Oven F30 error code](/posts/frigidaire-oven-f30-error-code/)
-- [Frigidaire Oven F31 error code](/posts/frigidaire-oven-f31-error-code/)
-- [Frigidaire Oven F40 error code](/posts/frigidaire-oven-f40-error-code/)
+- Frigidaire Oven F3 error code
+- Frigidaire Oven F30 error code
+- Frigidaire Oven F31 error code
+- Frigidaire Oven F40 error code
 
 ## When to Call a Pro
 

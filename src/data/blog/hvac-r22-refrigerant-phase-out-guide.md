@@ -180,9 +180,3 @@ You should call a licensed HVAC contractor in these situations:
 **Do not attempt DIY refrigerant work.** Refrigerant handling requires EPA Section 608 certification. Fines for illegal venting start at $37,500 per day.
 
 ---
-
-## Related Articles
-
-- [Best HVAC Capacitor Replacement Guide](/posts/best-hvac-capacitor-replacement/)
-- [Furnace Repair or Replace?](/posts/furnace-repair-or-replace/)
-- [Air Conditioner 4 Flash Error Code — What It Means and How to Fix It](/posts/air-conditioner-4-flash-error-code/)

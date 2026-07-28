@@ -19,8 +19,6 @@ Rusty or discolored water from your hot taps is a symptom, not a fault code. It 
 
 Rinnai's troubleshooting documents show that heat exchanger leaks and scale-related damage are the main internal causes. A leaking heat exchanger must be replaced along with any components damaged by the leak. Scale buildup creates hot spots on the exchanger fins, which leads to overheating and corrosion if the unit has not been flushed regularly. Moisture intrusion from condensate running back into the heater can also contribute to internal corrosion.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Heat exchanger scale buildup causing hot spots and corrosion** Rinnai documents show that hot spots on the heat exchanger indicate blockage from scale, which damages the exchanger and shortens service life if not flushed.
@@ -51,10 +49,3 @@ Rinnai's troubleshooting documents show that heat exchanger leaks and scale-rela
 ## When to Call a Pro
 
 Call a licensed plumber or gas technician if you find an active heat exchanger leak, if the exchanger shows heavy corrosion or damage, or if you are not comfortable performing a vinegar flush and inspecting gas-side components. Heat exchanger replacement and any work involving the burner assembly, gas connections, or venting requires a qualified professional. If isolating the heater does not clear up the rusty water, you may also need a plumber to inspect and replace corroded building piping. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rinnai Tankless Water Heater Flow Sensor Replacement Guide](/posts/rinnai-water-heater-flow-sensor-flow-meter-tankless-replacement/)
-- [Rinnai Tankless Water Heater Igniter / Electrode Replacement](/posts/rinnai-water-heater-igniter-ignition-electrode-tankless-replacement/)
-- [Rinnai Tankless Water Heater Error Codes — Complete Guide](/posts/rinnai-error-codes/)
-- [Rinnai Water Heater No Ignition - Causes & Fix](/posts/rinnai-water-heater-no-ignition/)

@@ -19,8 +19,6 @@ A Kenmore washer that smells like mildew is not showing a fault code. The odor d
 
 The smell comes from biofilm, mold, or mildew that has formed in these hidden or low-lying spots. The most common locations are the folds of the door gasket, the detergent dispenser cavity, and the drain pump filter or trap where lint and standing water sit between cycles.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door gasket folds trapping moisture and residue** The rubber boot around the door collects water, detergent, and lint in its folds, especially at the bottom, and mildew grows if the door is kept closed after use.
@@ -53,8 +51,8 @@ The smell comes from biofilm, mold, or mildew that has formed in these hidden or
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kenmore Washer E14 error code](/posts/kenmore-washer-e14-error-code/)
-- [Kenmore Washer E24 error code](/posts/kenmore-washer-e24-error-code/)
+- Kenmore Washer E14 error code
+- Kenmore Washer E24 error code
 - [Kenmore Washer F0 E2 error code](/posts/kenmore-washer-f0-e2-error-code/)
 - [Kenmore Washer F0 E4 error code](/posts/kenmore-washer-f0-e4-error-code/)
 - [Kenmore Washer F1 E1 error code](/posts/kenmore-washer-f1-e1-error-code/)

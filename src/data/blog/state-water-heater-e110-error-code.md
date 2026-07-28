@@ -13,11 +13,8 @@ money_part: "Navien air intake filter"
 most_likely_cause: "Blocked outdoor vent or intake termination"
 ---
 
-## Navien E110 Error Code — What It Means
-
+## What this code means
 E110 is an abnormal air pressure or airflow fault on Navien tankless water heaters. The unit is not proving the expected combustion air and exhaust pressure condition, so it locks out to protect safe operation. In practical terms, the heater is not getting or moving air the way its pressure-sensing logic expects, and it stops heating until the problem is corrected.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

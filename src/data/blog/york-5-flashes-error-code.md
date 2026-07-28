@@ -13,11 +13,8 @@ money_part: "Flame sensor"
 most_likely_cause: "Oxidized flame sensor rod"
 ---
 
-## York 5 Flashes Error Code — What It Means
-
+## What this code means
 Five flashes on a York furnace LED means a flame sense fault — the furnace ignited (or attempted to ignite) but the control board lost flame signal before the heating cycle should have ended, or never detected adequate flame current despite ignition. The board requires a microamp current through the flame sensor rod to confirm combustion. When this signal drops below threshold, the board closes the gas valve and counts an attempt. After multiple failed attempts, it locks out. This code is a direct indicator to inspect the flame sensor and verify gas pressure.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Five flashes on a York furnace LED means a flame sense fault — the furnace ign
 ## When to Call a Pro
 
 If the sensor is clean and correctly positioned but the fault persists, gas valve or combustion diagnosis requires a licensed tech. Adjusting gas pressure requires a manometer and gas certification.
-
-## Related Articles
-
-- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
-- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)
-- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
-- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
-- [York 7 Flashes Error Code — Ignition Lockout Fix](/posts/york-7-flashes-error-code/)
-
-## See Also
-
-- [York Furnace Error Codes — Complete Guide](/posts/york-furnace-error-codes/)
-- [York YXV Heat Pump Error Codes - Fault Code Reference](/posts/york-yxv-heat-pump-error-codes/)
-- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
-- [York YG2C Furnace Error Codes — Flash Code Diagnostic Guide](/posts/york-yg2c-error-codes/)

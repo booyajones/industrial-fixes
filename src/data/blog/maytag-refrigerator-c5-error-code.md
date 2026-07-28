@@ -16,8 +16,7 @@ most_likely_cause: "Power surge or brownout"
 part_price: "$80-250"
 ---
 
-## Maytag Refrigerator C5 Error Code — What It Means
-
+## What this code means
 Maytag does not publish a universal C5 error code definition across all refrigerator platforms, and the meaning can vary depending on your model family. Some Maytag refrigerators use alphanumeric codes for communication faults, sensor issues, or control board errors, but without your specific model number and service manual the exact fault cannot be confirmed. Maytag's general guidance is to reset the unit by unplugging or switching off the circuit breaker for 5 to 10 minutes, then restore power and check whether the code clears.
 
 If the C5 code reappears after the reset, it often points to a persistent problem with the main control board, a wiring harness connection, or a sensor that the board cannot read. Because code definitions differ across Maytag's French-door, side-by-side, and top-freezer lines, you should locate your model number on the interior data tag and consult the owner's manual or the wiring diagram inside the machine compartment for the exact C5 definition and the part it references.
@@ -25,8 +24,6 @@ If the C5 code reappears after the reset, it often points to a persistent proble
 ## Before You Replace Anything
 
 Many people replace the main control board first without checking connector pins and wire harness plugs for corrosion or looseness. Use a flashlight and gently wiggle each connector at the board and sensor ends before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

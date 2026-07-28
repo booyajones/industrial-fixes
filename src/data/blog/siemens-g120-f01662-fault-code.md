@@ -13,13 +13,10 @@ money_part: "Siemens G120 Control Unit (CU)"
 most_likely_cause: "Faulty control card or control unit"
 ---
 
-## Siemens G120 F01662 — What It Means
-
+## What this code means
 F01662 on a Siemens SINAMICS G120 means an internal communications error inside the drive. This fault indicates a breakdown in module-internal communication, typically between the control unit and other drive components. Unlike field wiring or parameter faults, F01662 points to an internal electronics or firmware problem within the drive itself.
 
 The fault is classified as a module-internal communication error in Siemens documentation. It usually requires a power cycle first, and if the fault persists after reset, it points to a hardware or firmware issue rather than a configuration or external wiring problem. Service guidance treats this as an internal drive fault that may need control unit replacement or firmware update.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ The fault is classified as a module-internal communication error in Siemens docu
 ## When to Call a Pro
 
 Call a qualified drive technician or Siemens service partner if the fault returns immediately after a power cycle, if you are not trained to open and inspect drive internals safely, or if firmware update and control unit replacement do not resolve the issue. Internal drive faults that persist after standard troubleshooting often require factory-level diagnostics, specialized test equipment, or warranty service. If your facility lacks proper ESD protection or drive servicing tools, professional service is the safer and faster route to restore operation.
-
-## See Also
-
-- [Siemens VFD F0002 Fault - Overvoltage: What It Means and How to Fix It](/posts/siemens-vfd-f0002-fault/)
-- [Siemens Sinumerik 840D Alarm 25000 — Causes & Fix](/posts/siemens-sinumerik-840d-alarm-25000/)
-- [Siemens Micromaster F0011 - Causes & Fix](/posts/siemens-micromaster-f0011-fault-code/)
-- [Siemens Micromaster F0021 - Causes & Fix](/posts/siemens-micromaster-f0021-fault-code/)

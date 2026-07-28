@@ -20,8 +20,6 @@ When a Kenmore oven stops heating, you're looking at a symptom with multiple pos
 
 For electric ovens the most common failure is a burnt-out bake element. For gas ovens it's usually a weak or failed igniter that glows but can't draw enough current to open the safety valve and light the gas. Other causes include a failed temperature sensor sending bad feedback to the control, a stuck relay or failed control board, or damaged wiring and connectors that prevent voltage from reaching the heating components.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Burnt-out bake element (electric)** The lower bake element develops an open circuit from normal wear and stops conducting current.
@@ -56,18 +54,18 @@ For electric ovens the most common failure is a burnt-out bake element. For gas 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kenmore Oven F0 error code](/posts/kenmore-oven-f0-error-code/)
-- [Kenmore Oven F1 error code](/posts/kenmore-oven-f1-error-code/)
-- [Kenmore Oven F10 error code](/posts/kenmore-oven-f10-error-code/)
+- Kenmore Oven F0 error code
+- Kenmore Oven F1 error code
+- Kenmore Oven F10 error code
 - [Kenmore Oven F2 error code](/posts/kenmore-oven-f2-error-code/)
-- [Kenmore Oven F3 error code](/posts/kenmore-oven-f3-error-code/)
-- [Kenmore Oven F30 error code](/posts/kenmore-oven-f30-error-code/)
-- [Kenmore Oven F31 error code](/posts/kenmore-oven-f31-error-code/)
-- [Kenmore Oven F33 error code](/posts/kenmore-oven-f33-error-code/)
-- [Kenmore Oven F4 error code](/posts/kenmore-oven-f4-error-code/)
-- [Kenmore Oven F5 error code](/posts/kenmore-oven-f5-error-code/)
-- [Kenmore Oven F50 error code](/posts/kenmore-oven-f50-error-code/)
-- [Kenmore Oven F7 error code](/posts/kenmore-oven-f7-error-code/)
+- Kenmore Oven F3 error code
+- Kenmore Oven F30 error code
+- Kenmore Oven F31 error code
+- Kenmore Oven F33 error code
+- Kenmore Oven F4 error code
+- Kenmore Oven F5 error code
+- Kenmore Oven F50 error code
+- Kenmore Oven F7 error code
 
 ## When to Call a Pro
 

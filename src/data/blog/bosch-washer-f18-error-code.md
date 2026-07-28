@@ -22,8 +22,7 @@ part_price: "$35–70"
 no_buy_pct: "70%"
 ---
 
-## Bosch Washer F18 Error Code — What It Means
-
+## What this code means
 Bosch's F18 or E18 fault code indicates the washer is not draining water properly or is taking too long to drain. You may notice water still sitting in the drum or tub after a cycle. Bosch states that F18, E18, and d02 are identical faults on some models, all pointing to the same underlying drainage problem.
 
 The machine has detected that water remains in the tub beyond the expected drain time. This can happen when the pump cannot move water out, when the drain path is blocked, or when debris prevents the impeller from spinning freely. The washer will usually stop mid-cycle and display the code rather than risk overfilling or damaging the pump.
@@ -31,8 +30,6 @@ The machine has detected that water remains in the tub beyond the expected drain
 ## Before You Replace Anything
 
 Many people replace the drain pump when the real culprit is simply a clogged filter or a sock wedged in the pump housing. Always remove and inspect the filter and check that the impeller spins freely by hand before ordering a new pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

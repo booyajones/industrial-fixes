@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "LG refrigerator dispenser control board"
 ---
 
-## LG Refrigerator C1 Error Code — What It Means
-
+## What this code means
 The C1 code on an LG refrigerator indicates a communication error between the LCD display and the dispenser assembly. This means the main control board or display board cannot exchange data with the dispenser control board, typically because of a broken wire, loose connector, or failed circuit board. LG does not publish detailed troubleshooting steps for this code in their consumer support materials, which usually signals a wiring or board-level fault rather than a simple user-reset condition.
 
 Because the dispenser and display are mounted in the refrigerator door and the main control is in the cabinet, the communication path runs through a flexible door harness that flexes thousands of times over the life of the appliance. Any break, corrosion, or intermittent connection in that path will trigger C1. The error may appear constantly or only when the door is moved, depending on whether the fault is total or intermittent.
@@ -25,8 +24,6 @@ Because the dispenser and display are mounted in the refrigerator door and the m
 ## Before You Replace Anything
 
 Many people replace the dispenser or display board before checking connectors. Unplug the fridge, pull the door harness connectors, inspect for bent pins or corrosion, reseat firmly, and test before ordering boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable removing door panels, tracing wiring, or handling connectors on live circuit boards. A technician can use a known-good spare board to isolate the failed component quickly without buying multiple parts. Also call if you find broken wires inside the sealed hinge cavity, which may require cabinet disassembly or harness routing that is difficult without service training. If the refrigerator is still under warranty, contact LG or an authorized service center before attempting any repair, since opening panels or replacing boards yourself can void coverage.
 
 **Rough cost:** DIY runs about $0-150 in parts if a harness or connector is needed, 30-90 min. A pro service call runs about $150-350 depending on whether it is a connector fix or board replacement.
-
-## See Also
-
-- [LG Dryer CE1 Error Code - Causes & Fix](/posts/lg-dryer-ce1-error-code/)
-- [LG Mini Split Won't Turn On - Causes & Fix](/posts/lg-mini-split-wont-turn-on/)
-- [LG LMV2031ST Microwave Problems & Error Codes](/posts/lg-lmv2031st-microwave-problems/)
-- [LG Oven F9 Error Code - Causes & Fix](/posts/lg-oven-f9-error-code/)

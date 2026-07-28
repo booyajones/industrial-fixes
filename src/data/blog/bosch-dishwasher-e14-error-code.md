@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Bosch Dishwasher E14 Error Code — What It Means
-
+## What this code means
 Bosch identifies E14 as a flow meter failure or an issue with water flowing into the dishwasher filling system. The dishwasher detects that water is not entering at the expected rate or that the flow sensor in the inlet path is not signaling correctly. This code halts the wash cycle to prevent damage from insufficient water.
 
 The flow meter, also called a reed sensor or flow switch, sits in the inlet hose or inlet pipe assembly and monitors the stream of incoming water. When it fails or becomes obstructed, the control board cannot confirm that water is flowing and throws E14. A kinked inlet hose, closed supply valve, or faulty water inlet valve can also trigger the code by restricting flow.
@@ -26,8 +25,6 @@ The flow meter, also called a reed sensor or flow switch, sits in the inlet hose
 ## Before You Replace Anything
 
 Homeowners often replace the water inlet valve first, assuming poor fill means a bad valve. Test water supply pressure and inspect the flow meter and its wiring before swapping the valve, since a dirty or loose sensor is cheaper and more commonly at fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

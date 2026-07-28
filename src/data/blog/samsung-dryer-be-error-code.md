@@ -17,8 +17,7 @@ money_part: "Samsung dryer control panel / user-interface assembly"
 part_price: "$40-120"
 ---
 
-## Samsung Dryer bE Error Code — What It Means
-
+## What this code means
 The bE error code on a Samsung dryer tells you the control board is reading a button on the control panel as stuck, jammed, or continuously pressed. Samsung groups bE together with bE2, bC2, 6E, 6E2, and 6C2 as button-input faults. The dryer thinks you are holding a key down even when you are not touching it.
 
 If the code stays after you reset power and check the buttons, the problem is usually a damaged button switch, moisture or residue on the keypad, or a failed user-interface board. In rare cases the main control board is misreading the input from the console even when the buttons themselves work correctly.
@@ -26,8 +25,6 @@ If the code stays after you reset power and check the buttons, the problem is us
 ## Before You Replace Anything
 
 Many people replace the main control board when only the user-interface panel or a single tact switch is bad. Press every button individually and inspect for moisture or residue before ordering any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

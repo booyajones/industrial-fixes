@@ -15,8 +15,7 @@ diy_or_pro: "diy"
 money_part: "Lid lock assembly"
 ---
 
-## Maytag LdU Error Code — What It Means
-
+## What this code means
 LdU on a Maytag top-load washer stands for Lid cannot unlock. The control has detected that something on or around the lid is preventing the latch from releasing normally. This is a lid-area obstruction fault, not a water-level, drain, or motor problem.
 
 Maytag's own product help identifies the most common cause as an object sitting on top of the lid, such as a laundry basket or other stored items. The washer senses that the lid cannot release or unlock because the lid area is physically obstructed.
@@ -24,8 +23,6 @@ Maytag's own product help identifies the most common cause as an object sitting 
 ## Before You Replace Anything
 
 Many people assume LdU requires a new lid lock assembly and replace it without first clearing the lid area. Always remove all objects from the lid and hinge area and test again before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

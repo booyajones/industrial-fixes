@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "Shielded twisted-pair communications cable"
 ---
 
-## Yaskawa GA800 A.120 Fault — What It Means
-
+## What this code means
 The A.120 fault on a Yaskawa GA800 variable frequency drive indicates a serial communication transmission error in the drive's communication link. This alarm tells you that the drive cannot maintain a reliable data connection with an external controller, network, or operator interface because of a problem in the physical cabling or wiring between the drive and the other device.
 
 The fault does not point to internal drive electronics failing. Instead it flags an issue in the pathway that carries serial commands and feedback data to and from the drive. Common fieldbus protocols (Modbus RTU, DeviceNet, or others depending on your option card) all rely on correctly wired twisted-pair or shielded cable. Any break, short, or mis-termination in that cable will trigger A.120 and halt communication-dependent operations.
@@ -24,8 +23,6 @@ The fault does not point to internal drive electronics failing. Instead it flags
 ## Before You Replace Anything
 
 Technicians sometimes replace the communication option card or even the entire control board when the real problem is a damaged or incorrectly wired field cable. Always inspect and verify the cable wiring and continuity with a multimeter before swapping boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a qualified automation or electrical technician if you are not trained to work safely around industrial line voltage and control wiring, if you cannot access the wiring diagram or protocol specification for your system, or if the alarm returns after you have verified and repaired the cable. Also call a professional if the A.120 fault persists even with the communications cable disconnected, because that pattern suggests hardware damage inside the drive or the remote controller that requires factory-trained diagnosis and possible board replacement. Yaskawa technical support can walk a qualified technician through advanced diagnostics and provide replacement part numbers for communication option cards or control boards when field wiring is confirmed correct.
 
 **Rough cost:** A pro service call runs about $150–400 depending on cable length and routing labor.
-
-## See Also
-
-- [Yaskawa GA800 E86 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e86-fault-code/)
-- [Yaskawa GA800 E39 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e39-fault-code/)
-- [Yaskawa GA800 E90 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e90-fault-code/)
-- [Yaskawa GA800 A.147 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-147-fault-code/)

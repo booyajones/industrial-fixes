@@ -13,13 +13,10 @@ money_part: "Danfoss brake resistor"
 most_likely_cause: "Failed brake resistor with internal short"
 ---
 
-## Danfoss FC302 ALARM 25 — What It Means
-
+## What this code means
 ALARM 25 (also called WARNING 25) on the Danfoss FC302 variable frequency drive indicates a brake resistor short-circuit fault. The drive continuously monitors the brake resistor and brake IGBT chopper circuit for short-circuit conditions during operation. When this fault occurs, the drive disables the dynamic braking function but may continue to run the motor. The warning protects the drive and signals that the brake resistor circuit has failed.
 
 The drive also performs a brake resistor disconnection test at power-up, so related brake circuit faults can appear at startup or during heavy deceleration when the brake would normally engage. Loss of the brake function means the drive cannot safely dissipate regenerative energy during rapid stops, which can lead to overvoltage trips or longer deceleration times.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ The drive also performs a brake resistor disconnection test at power-up, so rela
 ## When to Call a Pro
 
 Call a qualified VFD technician or industrial electrician if you are not trained to work on live DC bus circuits or high-power brake resistors. If the alarm persists after you have replaced the brake resistor and verified all wiring, the internal brake chopper has likely failed and requires component-level drive repair or a new power section. A technician can perform safe DC bus discharge, measure brake IGBT gate signals, and access manufacturer service parts. Also call a pro if your application involves regenerative loads like cranes or centrifuges where loss of braking creates a safety hazard or if your facility requires arc-flash PPE and lockout procedures beyond your training.
-
-## See Also
-
-- [Danfoss FC302 Alarm 34 - Causes & Fix](/posts/danfoss-fc302-alarm-34-fault-code/)
-- [Danfoss FC302 Alarm 42 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-42-fault-code/)
-- [Danfoss FC302 Alarm 43 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-43-fault-code/)
-- [Danfoss VFD Fault UL — Causes & Fix](/posts/danfoss-vfd-fault-ul/)

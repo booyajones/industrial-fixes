@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "Bosch Zeolite CrystalDry fan motor assembly"
 ---
 
-## Bosch E07 Error Code — What It Means
-
+## What this code means
 Bosch E07 indicates a problem in the dryer fan, ventilation, or Zeolite/CrystalDry drying system. The control board has detected that the drying fan assembly or vent path is not operating correctly. This is not a drain fault. The error appears when the fan motor fails to run, when airflow is blocked by debris or moisture, when wiring connections are loose or damaged, or when water has intruded into the drying chamber from a cracked or melted component.
 
 The code will appear on the display panel during or after a cycle when the dishwasher attempts to activate the drying system. Some models use a Zeolite mineral chamber with a fan to recirculate heated air. Others use a vent door and fan assembly. In either case, the control expects to see the fan running and air moving. When that feedback signal is absent or incorrect, E07is triggered and the cycle may stop or complete without proper drying.
@@ -24,8 +23,6 @@ The code will appear on the display panel during or after a cycle when the dishw
 ## Before You Replace Anything
 
 Homeowners often replace the control board first, thinking E07 is an electronic fault. Inspect the fan area for blockages, check the wiring harness for looseness or corrosion, and test the fan motor electrically before ordering any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

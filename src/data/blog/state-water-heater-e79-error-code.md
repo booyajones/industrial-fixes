@@ -13,11 +13,8 @@ money_part: "Gas valve and control board assembly"
 most_likely_cause: "Misread display"
 ---
 
-## State Water Heater E79 Error — What It Means
-
+## What this code means
 E79 does not appear in verified State water heater service documentation or manufacturer fault code lists. This code may be misread from the display, specific to a non-State component (such as a connected thermostat), or present on a rebranded unit that uses a different manufacturer's control board. State water heaters typically use fault codes in different formats, so confirming the exact model number and re-checking the display is the first step. If your unit shows E79 consistently, the control board may be displaying a code from another brand's lookup table, or the display itself may be faulty.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

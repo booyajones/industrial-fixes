@@ -17,8 +17,7 @@ money_part: "Oven Temperature Sensor (Sensor Probe / RTD)"
 part_price: "$25-60"
 ---
 
-## Maytag Range F3E0 Error Code — What It Means
-
+## What this code means
 The F3E0 code on a Maytag range indicates the oven control is detecting an abnormal signal from the oven temperature sensor circuit. The sensor (also called a sensor probe or RTD) may be open, shorted, or not being read correctly by the control board.
 
 Whirlpool's published service guidance for F3 E0 identifies three potential problem areas: the oven temperature sensor itself, the electronic control board, or the wiring and connectors that link them. The fault can appear if the sensor fails, if wiring becomes damaged or corroded, or if the control board develops a poor solder joint or circuit failure in the sensor input path.
@@ -26,8 +25,6 @@ Whirlpool's published service guidance for F3 E0 identifies three potential prob
 ## Before You Replace Anything
 
 Many people replace the electronic control board first, which costs $150–350, when a simple multimeter check of the sensor resistance (should be about 1080 ohms at room temperature) or inspection of the connector terminals would identify a failed sensor or loose wire for under $50.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -17,8 +17,6 @@ money_part: "Cooling fan"
 
 The Mitsubishi FR-D700 is a compact inverter drive used on conveyors, small pumps, and packaging equipment. It displays fault codes directly on the built-in keypad in short alphanumeric form. The FR-D700 is reliable, but it is often installed in tight cabinets where heat, poor wiring, and abrupt parameter changes create nuisance trips.
 
-[Jump to Fix](#fix)
-
 ## Mitsubishi FR-D700 Common Fault Code Reference
 
 | Code | Meaning |
@@ -63,18 +61,3 @@ The Mitsubishi FR-D700 is a compact inverter drive used on conveyors, small pump
 ## When to Call a Pro
 
 Persistent CPU faults or repeated GF trips with the motor disconnected usually mean internal inverter damage. Mitsubishi drive service or a qualified controls technician should evaluate before the drive is put back into production.
-
-## Related Articles
-
-- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
-- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
-- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
-- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
-- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
-
-## See Also
-
-- [Mitsubishi Mini Split P6 Error Code Fix](/posts/mitsubishi-p6-error-code/)
-- [Mitsubishi FR-A800 Fault E.OC1, Overcurrent During Acceleration Fix](/posts/mitsubishi-fr-a800-fault-eoc1/)
-- [Mitsubishi P5 Error Code — Drain Pump Fault: Causes & Fix](/posts/mitsubishi-p5-error-code/)
-- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)

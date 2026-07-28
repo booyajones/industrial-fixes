@@ -19,8 +19,6 @@ A GE washer that won't spin is not a single fault code. It usually means the con
 
 Fault code meanings are model-specific on GE washers, especially units built after 2010. The tech sheet inside the cabinet or console lists your exact model's code definitions and the button or dial sequence to enter diagnostics. Until you retrieve and interpret the stored codes, any repair is just a guess.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Lid switch or lid-lock fault** The control board will not allow spin unless it sees a valid lid-closed or lid-locked signal, and a broken switch, failed lock, or loose connector is one of the most common spin inhibits on GE top-load and front-load models.
@@ -52,7 +50,7 @@ Fault code meanings are model-specific on GE washers, especially units built aft
 
 Seeing a code on the display? These match this problem:
 
-- [Ge Washer E23 error code](/posts/ge-washer-e23-error-code/)
+- Ge Washer E23 error code
 
 ## When to Call a Pro
 

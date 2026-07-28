@@ -17,8 +17,7 @@ money_part: "GE oven keypanel (touchpad overlay)"
 part_price: "$50-150"
 ---
 
-## GE Oven F1 Error Code — What It Means
-
+## What this code means
 GE lists the F1 error code as a keypanel problem on range and wall oven models. The code indicates a fault in the user interface circuit, usually within the keypanel assembly itself or the connection between the touchpad overlay and the electronic control board.
 
 In field practice, F1 is most often caused by a failed or intermittently shorted keypanel or touchpad overlay. The error may appear once and clear after a power cycle, or it may return persistently if the underlying component has failed. GE recommends that a trained service technician diagnose and correct the issue, especially when the code reappears after a reset.
@@ -26,8 +25,6 @@ In field practice, F1 is most often caused by a failed or intermittently shorted
 ## Before You Replace Anything
 
 Many people replace the electronic control board first, assuming the main board is at fault. Instead, inspect the keypanel connections and test for shorts in the overlay before replacing the control, since the keypanel is the more common culprit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

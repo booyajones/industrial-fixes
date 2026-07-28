@@ -19,8 +19,6 @@ A Bosch refrigerator that is freezing food means the fresh-food compartment is g
 
 Bosch UK recommends setting the refrigerator compartment to +4 °C because perishable food should not be stored above that temperature. When the setpoint is correct but items block the vents, cold air cannot circulate properly and the temperature sensor cannot measure accurately, leading to runaway cooling in parts of the cabinet.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Temperature set too low** The refrigerator compartment setpoint is below Bosch's recommended +4 °C, causing the compressor to run longer and drop the cabinet temperature into the freezing zone.
@@ -55,12 +53,12 @@ Bosch UK recommends setting the refrigerator compartment to +4 °C because peris
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Bosch Refrigerator E01 error code](/posts/bosch-refrigerator-e01-error-code/)
+- Bosch Refrigerator E01 error code
 - [Bosch Refrigerator E02 error code](/posts/bosch-refrigerator-e02-error-code/)
-- [Bosch Refrigerator E03 error code](/posts/bosch-refrigerator-e03-error-code/)
-- [Bosch Refrigerator E10 error code](/posts/bosch-refrigerator-e10-error-code/)
-- [Bosch Refrigerator E11 error code](/posts/bosch-refrigerator-e11-error-code/)
-- [Bosch Refrigerator E15 error code](/posts/bosch-refrigerator-e15-error-code/)
+- Bosch Refrigerator E03 error code
+- Bosch Refrigerator E10 error code
+- Bosch Refrigerator E11 error code
+- Bosch Refrigerator E15 error code
 - [Bosch Refrigerator E20 error code](/posts/bosch-refrigerator-e20-error-code/)
 - [Bosch Refrigerator E21 error code](/posts/bosch-refrigerator-e21-error-code/)
 

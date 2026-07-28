@@ -17,8 +17,7 @@ money_part: "Samsung Microwave Control Panel / Touch Keypad Assembly"
 part_price: "$50-200"
 ---
 
-## Samsung Microwave E-02 Error — What It Means
-
+## What this code means
 The E-02 code on a Samsung microwave is a "Cooking Time Setting Over Error (Microwave)" according to Samsung's official code tables. This means the microwave controller detected a cooking-time entry or internal control state that fell outside the allowed range for microwave mode. It does not point to a single mechanical failure but rather indicates that the user interface or control logic encountered an invalid time setting or got into an abnormal state.
 
 In most cases the code is triggered by a temporary control glitch, moisture on the control panel from steam or spills, or an incorrect mode or time entry. Samsung's published guidance states that persistent information codes require verification by a technician or Samsung service center.
@@ -26,8 +25,6 @@ In most cases the code is triggered by a temporary control glitch, moisture on t
 ## Before You Replace Anything
 
 Many people replace the main control board immediately, but most E-02 codes clear after a simple power reset and drying period if moisture is present. Always try a 60-second power cycle first.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

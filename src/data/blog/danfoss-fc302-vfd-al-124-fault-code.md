@@ -17,8 +17,7 @@ free_checks:
   - "Disconnect the motor and reset the drive to see if the alarm clears"
 ---
 
-## Danfoss FC302 AL-124 — What It Means
-
+## What this code means
 AL-124 does not exist in the Danfoss FC302 fault code library. Danfoss FC302 drives use alarm numbers 1 through 100+ (for example, Alarm 4 is Mains Phase Loss, Alarm 8 is DC Under Voltage, Alarm 12 is DC Bus Overvoltage). The string "AL-124" may be a misread display, a code from a different Danfoss series (such as FC301), or a custom accessory alarm. Double-check the display and record the exact alarm number shown.
 
 If you are seeing Alarm 12 (DC Bus Overvoltage), the drive's internal DC link voltage has exceeded safe limits (around 410V for 230V models, around 720V for 480V models). Common causes include a jammed motor, incorrect motor current parameter, brake resistor failure, or input voltage problems. If you are seeing Alarm 17 (STD Bus Timeout), communication with the keypad or accessory has been lost, usually due to a faulty cable or dead LCP display.
@@ -26,8 +25,6 @@ If you are seeing Alarm 12 (DC Bus Overvoltage), the drive's internal DC link vo
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire logic board or inverter module when the real issue is a shorted brake resistor or loose input connection. Measure the brake resistor resistance (typically 10–100Ω) and check all three input phase voltages before ordering expensive boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician if the alarm number does not appear in the FC302 manual, if you lack a multimeter or safe lockout procedure, or if internal boards or the power module need replacement. High-voltage DC bus capacitors remain charged even after input power is removed, and a shock can be fatal. A technician can also download parameter backups, test the inverter module with specialized equipment, and verify motor winding integrity with a megger.
 
 **Rough cost:** A pro service call runs about $150–400 depending on which alarm is actually present and whether a resistor, board, or motor needs replacement.
-
-## See Also
-
-- [Danfoss FC302 Alarm 51 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-51-fault-code/)
-- [Danfoss FC302 Alarm AL 29 — Causes & Fix](/posts/danfoss-fc302-fault-al-29/)
-- [Danfoss FC302 ALARM 26 - Causes & Fix](/posts/danfoss-fc302-alarm-26-fault-code/)
-- [Danfoss FC302 VFD Alarm 28 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-28-fault-code/)

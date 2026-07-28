@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "Yaskawa GA800 control board"
 ---
 
-## Yaskawa GA800 E61 Fault — What It Means
-
+## What this code means
 The E61 fault on a Yaskawa GA800 drive signals a soft-charge answerback fault. This means the drive detected a problem with the precharge or soft-charge bypass relay circuit during startup. The drive expects to see the relay close and confirm its state during the power-up sequence. If that confirmation does not arrive, the drive throws E61 and will not proceed to normal operation.
 
 The soft-charge circuit protects the drive by limiting inrush current during power-up. When the relay fails to operate correctly or the control board cannot read the relay's status, the drive cannot safely complete its startup and flags this fault.
@@ -24,8 +23,6 @@ The soft-charge circuit protects the drive by limiting inrush current during pow
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire control board before checking the precharge relay maintenance counter (U4-06). If U4-06 shows above 90%, the relay itself is worn out and either the board or drive must be replaced.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a qualified technician or industrial electrician as soon as the E61 fault appears. This fault involves high-voltage DC bus circuits, internal relay diagnostics, and drive parameter monitoring that require specialized test equipment and training. Field repair of the soft-charge relay is not supported. The technician will read the precharge relay maintenance counter, verify the control board health, and replace the board or drive if the fault does not clear. Attempting to bypass or override the soft-charge circuit can destroy the drive's input rectifier and capacitors, resulting in a much more expensive failure.
 
 **Rough cost:** A pro service call runs about $500-2000 depending on whether a control board or complete drive replacement is needed.
-
-## See Also
-
-- [Yaskawa GA800 E27 Fault - Causes & Fix](/posts/yaskawa-ga800-e27-fault-code/)
-- [Yaskawa GA800 E12 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e12-fault-code/)
-- [Yaskawa A1000 oFA15 - Causes & Fix](/posts/yaskawa-a1000-vfd-al-15-fault-code/)
-- [Yaskawa GA800 E01 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e01-fault-code/)

@@ -13,13 +13,10 @@ money_part: "STO terminal jumper wire"
 most_likely_cause: "Missing or removed STO jumper"
 ---
 
-## Yaskawa GA800 E31 Fault — What It Means
-
+## What this code means
 The E31 fault on a Yaskawa GA800 variable frequency drive indicates a Safe Torque Off (STO) or safety circuit-related fault. The drive is not seeing a valid STO enable signal on its safety input terminals. This is not a motor overload or inverter problem. The STO function is a built-in safety feature that prevents the drive from producing torque unless the safety circuit is complete and valid.
 
 In practical terms, the drive will not run until the STO input condition is satisfied. If your installation does not use an external safety relay or E-stop chain, the STO terminals must have the factory jumper installed. If you are using external safety devices (such as E-stops, gate switches, or light curtains), those devices must all be closed and feeding a continuous signal to the STO input terminals. The drive will hold the E31 fault and inhibit operation until the safety loop is restored.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ In practical terms, the drive will not run until the STO input condition is sati
 ## When to Call a Pro
 
 Call a qualified electrician or controls technician if you are not familiar with safety circuit wiring or cannot locate the STO terminals on your drive. If the fault persists after you have confirmed all external safety devices are closed and wiring is correct, the drive's internal safety input circuitry may require factory service or replacement. Any work on industrial VFD safety circuits should be performed by trained personnel familiar with machine safety standards and lockout procedures.
-
-## See Also
-
-- [Yaskawa GA800 E26 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e26-fault-code/)
-- [Yaskawa GA800 A.109 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-109-fault-code/)
-- [Yaskawa GA800 E71 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e71-fault-code/)
-- [Yaskawa VFD Fault ER — Causes & Fix](/posts/yaskawa-vfd-fault-er/)

@@ -24,8 +24,6 @@ Miller Deltaweld MIG welders (302, 402, 452, 652) are heavy-duty production weld
 | E1 | Input voltage fault |
 | F1 | Wire feed motor fault |
 
-[Jump to Fix](#fix)
-
 ## Most Common Deltaweld Fault Codes and Fixes {#fix}
 
 ### H1 — Thermal Overload

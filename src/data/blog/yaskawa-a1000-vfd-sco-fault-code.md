@@ -18,8 +18,7 @@ free_checks:
   - "Check motor terminal box for loose connections or burnt terminals"
 ---
 
-## Yaskawa A1000 SC Fault — What It Means
-
+## What this code means
 The SC fault on a Yaskawa A1000 VFD indicates a short circuit in the drive's output stage. The drive has detected a short between the output terminals (U, V, W) or within the internal power module (IGBTs). This is a critical hardware failure where the IGBTs are conducting improperly or have physically shorted, creating a direct current path. The drive immediately stops output and trips the alarm to protect itself and downstream equipment.
 
 This fault represents a failure in the drive's ability to safely control current flow to the motor. The protection circuit cannot interrupt the short, so the drive shuts down completely. The fault can originate inside the drive or in the external wiring and motor.
@@ -27,8 +26,6 @@ This fault represents a failure in the drive's ability to safely control current
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive without first disconnecting the motor and cables to test them. A simple resistance check of the motor windings and output cables can reveal that the short is external, saving the cost of a new drive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or industrial automation technician immediately. The SC fault indicates a short circuit in high-voltage power electronics or the motor circuit. Diagnosing this fault requires safely discharging the DC bus, measuring IGBT components, and working with three-phase power systems. Incorrect testing can damage the drive further or cause electric shock. If the power module has failed, replacement requires matching the exact drive model, programming drive parameters, and verifying motor compatibility. A technician will isolate whether the fault is in the drive, the motor, or the wiring, and perform the necessary repairs or replacements to restore safe operation.
 
 **Rough cost:** A pro service call runs about $800-2500.
-
-## See Also
-
-- [Yaskawa GA800 E58 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e58-fault-code/)
-- [Yaskawa GA800 E99 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e99-fault-code/)
-- [Yaskawa GA800 E20 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e20-fault-code/)
-- [Yaskawa A1000 PF Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-pf-fault-code/)

@@ -100,11 +100,3 @@ State water heaters come with a magnesium anode rod. If your water smells like s
 | [Heater 8–12 years, E4 (board fault)](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=Heater+8%E2%80%9312+years%2C+E4+%28board+fault%29&tag=errorcodefixes-20) | Consider replacement — parts cost approaches heater value |
 | [Heater over 12 years, any fault](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=Heater+over+12+years%2C+any+fault&tag=errorcodefixes-20) | Replace entire unit |
 | [Heater leaking from tank body](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=Heater+leaking+from+tank+body&tag=errorcodefixes-20) | Replace immediately — tanks do not repair |
-
-## Related Articles
-
-- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
-- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
-- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)

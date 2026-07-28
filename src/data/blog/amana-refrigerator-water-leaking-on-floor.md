@@ -19,8 +19,6 @@ Water leaking onto the floor from an Amana refrigerator is a physical symptom, n
 
 The leak is often traced to the water supply circuit or to drainage paths inside the cabinet. Identifying where the water is actually pooling or dripping is the first step in pinpointing the source.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Cracked or damaged water supply line** The household supply tube running to the refrigerator can crack, kink, or split and leak water onto the floor behind or under the unit.
@@ -54,14 +52,14 @@ The leak is often traced to the water supply circuit or to drainage paths inside
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Amana Refrigerator Ci error code](/posts/amana-refrigerator-ci-error-code/)
-- [Amana Refrigerator D7 error code](/posts/amana-refrigerator-d7-error-code/)
-- [Amana Refrigerator D8 error code](/posts/amana-refrigerator-d8-error-code/)
+- Amana Refrigerator Ci error code
+- Amana Refrigerator D7 error code
+- Amana Refrigerator D8 error code
 - [Amana Refrigerator D9 error code](/posts/amana-refrigerator-d9-error-code/)
-- [Amana Refrigerator Ec40 error code](/posts/amana-refrigerator-ec40-error-code/)
+- Amana Refrigerator Ec40 error code
 - [Amana Refrigerator F1 error code](/posts/amana-refrigerator-f1-error-code/)
 - [Amana Refrigerator If error code](/posts/amana-refrigerator-if-error-code/)
-- [Amana Refrigerator It error code](/posts/amana-refrigerator-it-error-code/)
+- Amana Refrigerator It error code
 - [Amana Refrigerator Po error code](/posts/amana-refrigerator-po-error-code/)
 
 ## When to Call a Pro

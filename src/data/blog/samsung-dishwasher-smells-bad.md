@@ -19,8 +19,6 @@ Samsung describes this as the dishwasher "stinks or has a musty smell" and treat
 
 Samsung also points to dirty dishes left sitting in the tub before a wash cycle, poor hot water supply, and residue buildup on removable parts as common contributors. If the smell is like rotten eggs or sulfur, the cause is often trapped food in the drain path or sink connections like the garbage disposal or air gap.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Food particles and grease in the filter or drain area** Trapped debris in the filter housing, sump, or bottom of the tub is the most common source of bad odors in Samsung dishwashers.
@@ -54,18 +52,18 @@ Samsung also points to dirty dishes left sitting in the tub before a wash cycle,
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Samsung Dishwasher 3C error code](/posts/samsung-dishwasher-3c-error-code/)
-- [Samsung Dishwasher 3E error code](/posts/samsung-dishwasher-3e-error-code/)
-- [Samsung Dishwasher 4C error code](/posts/samsung-dishwasher-4c-error-code/)
-- [Samsung Dishwasher 5C error code](/posts/samsung-dishwasher-5c-error-code/)
-- [Samsung Dishwasher 9E error code](/posts/samsung-dishwasher-9e-error-code/)
-- [Samsung Dishwasher Ap error code](/posts/samsung-dishwasher-ap-error-code/)
-- [Samsung Dishwasher Be error code](/posts/samsung-dishwasher-be-error-code/)
-- [Samsung Dishwasher Ce error code](/posts/samsung-dishwasher-ce-error-code/)
-- [Samsung Dishwasher Hc error code](/posts/samsung-dishwasher-hc-error-code/)
-- [Samsung Dishwasher He error code](/posts/samsung-dishwasher-he-error-code/)
-- [Samsung Dishwasher Lc error code](/posts/samsung-dishwasher-lc-error-code/)
-- [Samsung Dishwasher Le error code](/posts/samsung-dishwasher-le-error-code/)
+- Samsung Dishwasher 3C error code
+- Samsung Dishwasher 3E error code
+- Samsung Dishwasher 4C error code
+- Samsung Dishwasher 5C error code
+- Samsung Dishwasher 9E error code
+- Samsung Dishwasher Ap error code
+- Samsung Dishwasher Be error code
+- Samsung Dishwasher Ce error code
+- Samsung Dishwasher Hc error code
+- Samsung Dishwasher He error code
+- Samsung Dishwasher Lc error code
+- Samsung Dishwasher Le error code
 
 ## When to Call a Pro
 

@@ -20,8 +20,7 @@ part_price: "$150-250 for a replacement LCP keypad"
 no_buy_pct: "40%"
 ---
 
-## Danfoss FC302 AL-17 Fault — What It Means
-
+## What this code means
 AL-17 (STD Bus Timeout) on a Danfoss FC302 VFD indicates that serial communication with an accessory—typically the LCP keypad—has been lost. The drive's control logic has stopped receiving valid data packets from the Smart Device Bus (STD Bus) device connected to it. When the communication silence exceeds the configured timeout (often set in parameter 8-04, with a default around 2.0 seconds), the alarm triggers.
 
 The drive may remain in a stop state or fail to accept commands from the keypad, though it might still run if pre-programmed or controlled by a functioning fieldbus card. This is a communication fault, not a motor or power problem, so the drive itself may be healthy while the control link is broken.
@@ -29,8 +28,6 @@ The drive may remain in a stop state or fail to accept commands from the keypad,
 ## Before You Replace Anything
 
 Many technicians replace the entire control board when a simple keypad swap or cable re-seat would fix the issue. Always test with a known-good LCP keypad before ordering an expensive logic card.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable working with VFD control circuits or parameter programming. Replacing the control board requires de-energizing the drive, handling sensitive electronics, and re-entering or restoring all parameters (the drive will lose its configuration). If the fault persists after swapping the keypad and cable, or if the drive is part of a critical process line where downtime is costly, a certified VFD technician can diagnose the control board and minimize downtime. Also call a pro if you suspect electrical noise issues across multiple drives, as that may require a full wiring and grounding audit of the facility.
 
 **Rough cost:** A pro service call runs about $150-400 depending on whether the fix is a keypad, cable, or control board replacement.
-
-## See Also
-
-- [Danfoss FC-302 Alarm 13 — DC Link Overvoltage Fix](/posts/danfoss-fc302-alarm-13/)
-- [Danfoss FC302 AL-122 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-122-fault-code/)
-- [Danfoss FC302 AL-83 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-83-fault-code/)
-- [Danfoss FC302 VFD AL-153 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-153-fault-code/)

@@ -17,8 +17,7 @@ money_part: "LG dishwasher water level sensor"
 part_price: "$30-80"
 ---
 
-## LG Dishwasher PE Error Code — What It Means
-
+## What this code means
 The PE error code on an LG dishwasher indicates a problem with the water level sensor or the water-level detection circuit. This is different from some washer codes with the same letters. LG's dishwasher error-code guide identifies PE specifically as a water level sensor fault, not a power-loss or pressure-sensor issue. The sensor monitors the fill level inside the tub and sends a signal to the control board. When that signal is missing, erratic, or out of range, the dishwasher stops and displays PE.
 
 The code does not always mean the sensor itself has failed. It can also point to a loose connector, corroded pins, a break in the wiring harness, or a fault in the control board's input circuit. The dishwasher will not run until the sensor circuit is restored to normal operation. Proper diagnosis requires checking the sensor and its wiring path before replacing any parts.
@@ -26,8 +25,6 @@ The code does not always mean the sensor itself has failed. It can also point to
 ## Before You Replace Anything
 
 Many people replace the main control board first when they see PE, but the code is a sensor fault. Always inspect the water level sensor and its harness for loose connectors or corrosion before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working with electrical connections or if the PE code persists after you have replaced the water level sensor and verified all wiring is intact. A technician can use a multimeter to test the sensor signal path and the control board's input circuit. Also call a pro if the dishwasher requires disassembly beyond the lower panels, or if you discover water inside the control-board compartment, which may indicate a leak that must be traced and sealed before any electrical repair is safe.
 
 **Rough cost:** DIY runs about $30–80 in parts, 45–90 min. A pro service call runs about $150–280.
-
-## See Also
-
-- [LG Washer Drive Motor/Stator-Rotor Replacement - Signs & How-To](/posts/lg-washer-drive-motor-stator-rotor-direct-drive-replacement/)
-- [LG Refrigerator Error Codes — Complete Fix Guide](/posts/lg-refrigerator-error-codes/)
-- [LG Dryer HE Error Code - Causes & Fix](/posts/lg-dryer-he-error-code/)
-- [LG Washer Not Dispensing Detergent - Causes & Fix](/posts/lg-washer-not-dispensing-detergent/)

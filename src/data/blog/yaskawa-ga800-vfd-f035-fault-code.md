@@ -17,11 +17,8 @@ free_checks:
   - "Inspect motor and encoder wiring for loose connections or grounding issues"
 ---
 
-## Yaskawa GA800 F035 Fault — What It Means
-
+## What this code means
 The F035 fault code does not appear in the published Yaskawa GA800 VFD Maintenance and Troubleshooting Manual or standard fault code tables. Yaskawa GA800 fault codes typically use two-digit numbers or alphanumeric prefixes (such as OC for overcurrent or UV for undervoltage), and F035 is not among the standardly documented faults. This code may be specific to a custom software version, a PID control configuration, or it may be displayed differently in your drive's fault log. Without an official definition from Yaskawa, it is not possible to determine the exact cause or required repair steps. The safest approach is to review the drive's internal fault log using the Modified Parameters / Fault Log menu on the keypad, then consult the official GA800 manual or contact Yaskawa Technical Support directly. Do not attempt part replacement or voltage testing based on guesswork, as the true meaning of F035 must be confirmed by the manufacturer before proceeding with any repair.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Kenmore Dryer F71 Error Code — What It Means
-
+## What this code means
 F71 is a control-system communication fault. The dryer's main electronic control board (ECB) is not communicating correctly with another control board, typically the user interface control board (UICB) or, on some platforms, the motor control unit. This is an electronic fault, not a venting or airflow issue. The exact board architecture depends on your model family, since Kenmore is a rebadged brand using Whirlpool or Maytag platforms.
 
 When F71 appears, the manufacturer recommends powering the dryer down at the breaker, waiting five minutes, then restoring power and running a Time Dry cycle. If the code returns immediately, the fault is in the control system rather than a transient power glitch.
@@ -26,8 +25,6 @@ When F71 appears, the manufacturer recommends powering the dryer down at the bre
 ## Before You Replace Anything
 
 Many owners replace the main control board or user interface board first. Instead, de-energize the dryer and carefully inspect and reseat every harness connector between the boards and motor control unit for looseness, corrosion, or pin damage before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

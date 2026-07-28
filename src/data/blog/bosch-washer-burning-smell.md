@@ -19,8 +19,6 @@ A burning smell from your Bosch washer is a symptom, not an error code. Bosch do
 
 Because Bosch washers use different platform designs (direct-drive, belt-driven, or electronically controlled), the exact failed part depends on your model. The most common suspects are the stator, motor control board or inverter, main control board, drive belt, wire harness, and motor coupling or clutch. A technician diagnoses by subsystem rather than by code.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Overheated or shorted stator** Wet coils or damaged coil insulation on the stator can generate a burning odor when the motor runs.
@@ -55,14 +53,14 @@ Because Bosch washers use different platform designs (direct-drive, belt-driven,
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Bosch Washer E15 error code](/posts/bosch-washer-e15-error-code/)
+- Bosch Washer E15 error code
 - [Bosch Washer E16 error code](/posts/bosch-washer-e16-error-code/)
 - [Bosch Washer E17 error code](/posts/bosch-washer-e17-error-code/)
 - [Bosch Washer E18 error code](/posts/bosch-washer-e18-error-code/)
 - [Bosch Washer E19 error code](/posts/bosch-washer-e19-error-code/)
 - [Bosch Washer E20 error code](/posts/bosch-washer-e20-error-code/)
-- [Bosch Washer E21 error code](/posts/bosch-washer-e21-error-code/)
-- [Bosch Washer E22 error code](/posts/bosch-washer-e22-error-code/)
+- Bosch Washer E21 error code
+- Bosch Washer E22 error code
 - [Bosch Washer E23 error code](/posts/bosch-washer-e23-error-code/)
 - [Bosch Washer E24 error code](/posts/bosch-washer-e24-error-code/)
 - [Bosch Washer E25 error code](/posts/bosch-washer-e25-error-code/)

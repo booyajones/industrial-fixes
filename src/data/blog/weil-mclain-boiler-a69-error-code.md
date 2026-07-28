@@ -21,8 +21,7 @@ part_price: "$25–60 for a flame sensor rod"
 no_buy_pct: "60%"
 ---
 
-## Weil-McLain Boiler A69 Error — What It Means
-
+## What this code means
 The A69 code on a Weil-McLain boiler indicates an ignition or flame-proving fault. The control tried to light the burner but either did not detect a valid flame signal or the flame was lost during the proving cycle. In field terms, this is a failed ignition lockout rather than a single-component failure.
 
 The boiler may go through its prepurge sequence and spark or glow, but if the control does not sense stable flame within the proving window, it locks out and displays A69. The exact label and behavior can vary by model family and control board, so always verify against your specific boiler's service manual and error-code chart before troubleshooting.
@@ -30,8 +29,6 @@ The boiler may go through its prepurge sequence and spark or glow, but if the co
 ## Before You Replace Anything
 
 Many people replace the gas valve or control board first. Instead, pull and clean the flame sensor rod with fine emery cloth and check that the gas service valve is fully open. These two checks solve most A69 faults without buying parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -82,10 +79,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician immediately if you are not comfortable working around natural gas or propane. Gas work requires proper tools, pressure gauges, and combustion analysis to verify safe operation. Also call a pro if you have cleaned the flame sensor and confirmed gas supply but the fault returns, if you smell gas at any time, or if the boiler has gone through more than two resets without resolving the issue. Repeated ignition attempts without fixing the root cause can damage the control and create unsafe combustion conditions. A qualified technician will perform inlet and manifold pressure checks, test ignition voltage and flame rectification current, and verify proper venting and combustion air before clearing the fault.
 
 **Rough cost:** A pro service call runs about $150–350 depending on parts and labor.
-
-## See Also
-
-- [Weil-McLain A74 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a74-error-code/)
-- [Weil-McLain Boiler A137 Error - Causes & Fix](/posts/weil-mclain-boiler-a137-error-code/)
-- [Weil-McLain A11 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a11-error-code/)
-- [Weil-McLain A174 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a174-error-code/)

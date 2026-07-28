@@ -61,18 +61,3 @@ This is one of the most common Mitsubishi mini split faults — and one of the m
 If you've cleared the drain line, confirmed the slope is correct, cleaned the float switch, and the unit still throws P6 within a day or two — the coil may have biological growth deep in the fins that requires professional coil cleaning with pressurized equipment. Also call a tech if the drain pan itself is cracked or the float switch wiring is damaged. Tell them: "P6 float switch fault, drain line is clear and sloped correctly, float moves freely, but it keeps backing up. I need a coil cleaning and a second set of eyes on the installation."
 
 > **Pro tip:** On Mitsubishi units, the P6 code can linger on the display for up to 3 minutes after the float drops back to normal, even after the blockage is cleared. Don't assume the repair failed because P6 is still showing — give it a few minutes before cycling power.
-
-## Related Articles
-
-- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
-- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
-- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
-- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
-- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
-
-## See Also
-
-- [Mitsubishi E7 Error Code — Refrigerant Cycle Fault](/posts/mitsubishi-e7-error-code/)
-- [Mitsubishi U2 Error Code — Causes & Fix](/posts/mitsubishi-u2-error-code/)
-- [Mitsubishi E3 Error Code — Indoor Fan Motor Fault Fix](/posts/mitsubishi-e3-error-code/)
-- [Mitsubishi E5 Error Code — Causes & Fix](/posts/mitsubishi-e5-error-code/)

@@ -16,8 +16,7 @@ money_part: "Mini dispenser assembly"
 part_price: "$40-120"
 ---
 
-## Maytag F3E5 Error Code — What It Means
-
+## What this code means
 The F3E5 error code on supported Maytag top-load washers indicates a Mini Dispenser fault. Maytag's product help identifies this code as "F3E5 - Mini Dispenser," meaning the washer has detected a problem with its mini detergent dispenser function rather than a drain, motor, or other system. The code signals that the dispenser cannot complete its automatic dosing cycle.
 
 Maytag instructs users to add detergent manually for the next load and cycle power by unplugging the machine for 5 minutes to reset the control. If the code returns after the reset, the issue is likely a physical blockage in the dispenser, a damaged dispenser assembly, or a control circuit fault requiring service. Because Maytag error codes can vary by platform, confirm your model uses the F3E5 mini-dispenser mapping by checking your owner's manual or the tech sheet behind the control panel.
@@ -25,8 +24,6 @@ Maytag instructs users to add detergent manually for the next load and cycle pow
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board thinking F3E5 is a board failure. First cycle power for 5 minutes and inspect the mini dispenser for clogs or residue, since the code often clears with a reset and cleaning.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

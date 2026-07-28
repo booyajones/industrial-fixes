@@ -21,8 +21,7 @@ part_price: "$40-75"
 no_buy_pct: "60%"
 ---
 
-## LG Washer dE Error Code — What It Means
-
+## What this code means
 The dE error code on an LG washer means the machine detected that the door could not lock. This is a door-locking failure, not a drain or motor problem. On some front-load models, LG distinguishes dE1 (door not closed properly) and dE2 (door closed but not locked). The washer will not start a cycle until it confirms the door is sealed and locked for safe operation.
 
 The code appears when the door is not fully seated, something is trapped between the door and the rubber gasket, the latch or strike is misaligned or broken, or the door lock assembly has failed. On top-load models the same code can indicate a lid-lock problem.
@@ -30,8 +29,6 @@ The code appears when the door is not fully seated, something is trapped between
 ## Before You Replace Anything
 
 Many people replace the door lock assembly first, but the real culprit is often just clothing trapped in the seal or a loose strike plate that can be tightened or realigned with a screwdriver.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -80,10 +77,3 @@ Answer these to narrow it down fast.
 Call a professional if you have checked and cleared all obstructions, reset the washer, confirmed the door closes flush and the strike is aligned, yet the dE code returns immediately on every cycle. A technician can perform electrical tests on the door lock circuit and the main control board to isolate whether the lock assembly is sending the correct signals or whether the board itself has failed. Also call a pro if the door hinge is badly warped or the outer tub mounting has shifted, since realigning heavy front-load door hardware or repositioning the tub requires special tools and experience to avoid damage to the drum suspension or cabinet.
 
 **Rough cost:** DIY runs about $40-80 in parts, 30-60 min. A pro service call runs about $150-250.
-
-## See Also
-
-- [LG Dryer Not Heating - Causes & Fix](/posts/lg-dryer-not-heating/)
-- [LG Oven Door Won't Lock - Causes & Fix](/posts/lg-oven-door-wont-lock/)
-- [LG Oven Not Heating - Causes & Fix](/posts/lg-oven-not-heating/)
-- [LG Washer Door Won't Unlock - Causes & Fix](/posts/lg-washer-door-wont-unlock/)

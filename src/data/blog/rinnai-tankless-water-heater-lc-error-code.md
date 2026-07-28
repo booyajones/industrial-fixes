@@ -13,11 +13,8 @@ money_part: "Descaling solution (Rinnai-compatible)"
 most_likely_cause: "Hard water mineral scale"
 ---
 
-## Rinnai LC Error Code — What It Means
-
+## What this code means
 The LC code (including LC0 through LC9) on your Rinnai tankless water heater signals a lime or scale condition inside the heat exchanger. Unlike many fault codes, LC is a maintenance warning that allows the unit to keep running. The display will alternate between the LC code and your temperature setting while the controller beeps. This code is an early alert telling you that mineral deposits have accumulated and the heat exchanger needs descaling before performance drops or damage occurs.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,10 +43,3 @@ The LC code (including LC0 through LC9) on your Rinnai tankless water heater sig
 ## When to Call a Pro
 
 Call a licensed technician if you are not comfortable isolating gas and water lines, if the LC code returns immediately after a thorough flush, or if you lack a circulation pump and descaling kit. Persistent LC codes after proper descaling may indicate that the heat exchanger is beyond cleaning and needs replacement. A pro can also test water hardness, recommend filtration or softening equipment, and set up a preventive maintenance schedule to avoid future scale buildup.
-
-## See Also
-
-- [Rinnai Error Code 29 — System Communication Fault Fix](/posts/rinnai-error-code-29/)
-- [Rinnai Water Heater Leaking - Causes & Fix](/posts/rinnai-water-heater-leaking/)
-- [Rinnai Tankless Water Heater Igniter / Electrode Replacement](/posts/rinnai-water-heater-igniter-ignition-electrode-tankless-replacement/)
-- [Rinnai Error Code 65 — Water Flow Rate Fault](/posts/rinnai-error-code-65/)

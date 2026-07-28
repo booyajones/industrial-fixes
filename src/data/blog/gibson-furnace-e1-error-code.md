@@ -13,11 +13,8 @@ money_part: "Pressure switch hose"
 most_likely_cause: "Kinked or blocked pressure switch hose"
 ---
 
-## Gibson Furnace E1 Error Code — What It Means
-
+## What this code means
 E1 on a Gibson furnace means the pressure switch did not close within the allowed startup window, preventing ignition. Gibson residential heating products are manufactured by Electrolux/Nortek and use a control system shared with several other Nortek brands. The E1 fault locks out the burner and leaves the inducer motor running (or stopped, depending on model) while flashing the diagnostic code. In most cases the root cause is in the pressure hose, condensate system, or inducer motor — not the switch itself.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,11 +43,3 @@ E1 on a Gibson furnace means the pressure switch did not close within the allowe
 ## When to Call a Pro
 
 If the inducer motor requires replacement and the furnace is over 10 years old, evaluate whether repair or replacement is more economical before spending on major components.
-
-## Related Articles
-
-- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
-- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
-- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

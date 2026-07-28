@@ -53,16 +53,16 @@ When the igniter fails, the burner never lights and the dryer tumbles with no he
 
 If this part is failing you may also see one of these codes:
 
-- [Maytag Dryer Err error code](/posts/maytag-dryer-err-error-code/)
-- [Maytag Dryer F01 error code](/posts/maytag-dryer-f01-error-code/)
-- [Maytag Dryer F02 error code](/posts/maytag-dryer-f02-error-code/)
-- [Maytag Dryer F1E1 error code](/posts/maytag-dryer-f1e1-error-code/)
-- [Maytag Dryer F1E3 error code](/posts/maytag-dryer-f1e3-error-code/)
-- [Maytag Dryer F1E4 error code](/posts/maytag-dryer-f1e4-error-code/)
-- [Maytag Dryer F1E5 error code](/posts/maytag-dryer-f1e5-error-code/)
-- [Maytag Dryer F20 error code](/posts/maytag-dryer-f20-error-code/)
-- [Maytag Dryer F22 error code](/posts/maytag-dryer-f22-error-code/)
-- [Maytag Dryer F23 error code](/posts/maytag-dryer-f23-error-code/)
+- Maytag Dryer Err error code
+- Maytag Dryer F01 error code
+- Maytag Dryer F02 error code
+- Maytag Dryer F1E1 error code
+- Maytag Dryer F1E3 error code
+- Maytag Dryer F1E4 error code
+- Maytag Dryer F1E5 error code
+- Maytag Dryer F20 error code
+- Maytag Dryer F22 error code
+- Maytag Dryer F23 error code
 
 ## When to Call a Pro
 

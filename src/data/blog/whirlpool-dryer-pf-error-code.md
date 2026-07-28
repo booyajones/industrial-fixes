@@ -17,8 +17,7 @@ money_part: "Whirlpool dryer main control board"
 part_price: "$15-80"
 ---
 
-## Whirlpool Dryer PF Error Code — What It Means
-
+## What this code means
 The PF code on a Whirlpool dryer stands for power failure. The dryer detected that power to the machine was interrupted or fell outside acceptable limits while a cycle was running. This code does not point to a mechanical problem inside the drum, heater, or airflow system. Instead, it signals that the control board lost line voltage or saw an unstable supply during operation.
 
 In practice, PF can appear after a momentary outage, brownout, or utility surge. If the power interruption was brief, the code may clear with a simple reset and the cycle can restart. When PF repeats, the root cause is almost always in the power-supply path: the house circuit, receptacle, power cord, or the dryer's own control-board power section.
@@ -26,8 +25,6 @@ In practice, PF can appear after a momentary outage, brownout, or utility surge.
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when PF persists, but low or fluctuating voltage at the outlet is often the real cause. Use a multimeter to measure receptacle voltage under load before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

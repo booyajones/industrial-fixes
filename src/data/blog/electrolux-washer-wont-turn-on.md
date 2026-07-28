@@ -19,8 +19,6 @@ When an Electrolux washer won't turn on, the manufacturer separates the symptom 
 
 This is not a single fault code in Electrolux service literature. Instead, it is treated as a no-response or no-start condition that requires separate checks of the power supply, door latch, control lock status, and any error codes on the display.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **No mains power or outlet problem** The wall outlet has no voltage due to a tripped breaker, failed GFCI, or wiring fault.

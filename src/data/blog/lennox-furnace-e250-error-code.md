@@ -14,11 +14,8 @@ money_part: "High-limit switch"
 most_likely_cause: "Restricted airflow causing overheating"
 ---
 
-## Lennox E250 Error Code — What It Means
-
+## What this code means
 E250 on a Lennox furnace means the limit switch circuit is open. The furnace control is not seeing the high-limit safety switch closed during a heating cycle. This is a safety condition tied to overheat protection or a circuit fault in the limit chain. When the limit does not close within three minutes, the control enters a one-hour soft lockout. Normal operation resumes after the fault clears.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ E250 on a Lennox furnace means the limit switch circuit is open. The furnace con
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you have checked the filter and airflow and the code persists, if you are not comfortable working with line voltage (120 VAC) or gas systems, or if you need to test the limit switch or blower circuit with a multimeter. A technician can verify proper firing rate, diagnose control board or blower module faults, and safely replace wiring or components in the limit safety circuit.
-
-## See Also
-
-- [Lennox E205 Error Code - Causes & Fix](/posts/lennox-furnace-e205-error-code/)
-- [Lennox iComfort Error Code 225 — Communication Fault Fix Guide](/posts/lennox-icomfort-error-code-225/)
-- [Lennox Error Code 540 — Communicating System Fault (Detailed Guide)](/posts/lennox-error-code-540-communicating/)
-- [Lennox Error Code 270 — Flame Signal Lost Fix](/posts/lennox-error-code-270/)

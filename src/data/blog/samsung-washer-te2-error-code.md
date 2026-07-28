@@ -17,8 +17,7 @@ money_part: "Temperature sensor / thermistor"
 part_price: "$15-50"
 ---
 
-## Samsung Washer tE2 Error — What It Means
-
+## What this code means
 The tE2 code on a Samsung washer signals a temperature-sensing fault in the thermistor or temperature sensor circuit. Samsung groups tE, tE1, tE2, tE3, tC1, tC2, and tC3 as temperature sensor errors. The control board has detected a problem with the feedback from the sensor that monitors water or tub temperature, so it cannot trust the reading and stops the cycle to prevent incorrect heating or other issues.
 
 This code points to a failure in the sensor itself, its wiring and connectors, the heater assembly on models that heat wash water, or the control board's input circuit. It is not a drain fault, water-level issue, or (as some online videos mistakenly claim) a fan duct sensor problem. The fix centers on electrical diagnostics of the thermistor, harness, and heater path.
@@ -26,8 +25,6 @@ This code points to a failure in the sensor itself, its wiring and connectors, t
 ## Before You Replace Anything
 
 Many people replace the main control board first. Test the thermistor's resistance with a multimeter and inspect all connectors and wiring before spending money on a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Dryer F30 Error Code — What It Means
-
+## What this code means
 On Whirlpool-built Kenmore dryers, F30 indicates restricted airflow. The dryer senses that exhaust air is not moving freely through the lint screen, vent hose, or house ductwork. The code can appear while the dryer continues to run, and it can be cleared by touching any key. The most frequent culprits are a clogged lint screen, packed lint in the lint-screen housing, or a crushed, kinked, or blocked exhaust hose between the dryer and the wall.
 
 Because some Kenmore appliances are built by different manufacturers, the exact meaning of F30 depends on the dryer's OEM platform and model family. Electrolux-built Kenmore appliances use F30 for a temperature-sensor fault, so always confirm your dryer's model prefix before diagnosing. For Whirlpool-platform dryers, F30 is an airflow restriction warning, not a failure of heating or electrical parts.
@@ -26,8 +25,6 @@ Because some Kenmore appliances are built by different manufacturers, the exact 
 ## Before You Replace Anything
 
 Homeowners often replace the heating element or thermostats when F30 appears, thinking the dryer will not heat. F30 is an airflow code, not a heating fault. Inspect and clean the entire vent path before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

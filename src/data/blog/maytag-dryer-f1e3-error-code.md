@@ -17,8 +17,7 @@ money_part: "User interface control board"
 part_price: "$100-200"
 ---
 
-## Maytag Dryer F1E3 Error Code — What It Means
-
+## What this code means
 The F1E3 code on a Maytag dryer indicates that the main electronic control board installed in the machine does not match the model or configuration the dryer expects. This is a configuration or part-mismatch fault, not a sensor or thermistor failure. The dryer's control system has detected that the installed board is the wrong part number for this particular variant or that a replacement board was incorrectly selected during a previous repair.
 
 This code typically appears after a control board has been replaced with an incorrect part, or occasionally after a factory assembly error. The dryer will not operate normally until the correct board is installed. The fix requires identifying your exact model number, verifying the installed board part number against the factory parts list, and replacing the board with the model-specific control.
@@ -26,8 +25,6 @@ This code typically appears after a control board has been replaced with an inco
 ## Before You Replace Anything
 
 Homeowners sometimes replace thermistors, door switches, or wiring harnesses thinking F1E3 is a sensor fault. Always verify the control board part number against your model's parts diagram before replacing anything else.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

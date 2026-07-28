@@ -13,11 +13,8 @@ money_part: "Flame sensor rod"
 most_likely_cause: "Dirty flame sensor rod"
 ---
 
-## Utica Boiler Error Code E1 — What It Means
-
+## What this code means
 E1 on a Utica boiler (UB, UBCH, or Combi series) indicates an ignition failure lockout. Utica Boilers (a brand of ECR International, which also makes Dunkirk and Pennco equipment) uses a Honeywell or Fenwall ignition control module. The E1 code fires when the module does not confirm a flame within the trial-for-ignition period. The burner is locked out for safety. The most common causes are gas supply problems, a contaminated flame sensor, or a failed igniter.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,11 +43,3 @@ E1 on a Utica boiler (UB, UBCH, or Combi series) indicates an ignition failure l
 ## When to Call a Pro
 
 If E1 persists after cleaning the flame sensor and verifying gas supply, a technician should measure gas inlet and manifold pressure and inspect the heat exchanger for cracks. Heat exchanger failures cause combustion instability that mimics a flame sensor fault.
-
-## Related Articles
-
-- [Boiler Lockout Error Codes: All Brands Guide](/posts/boiler-lockout-error-codes/)
-- [Buderus Boiler Fault Code A1 — Causes & Fix](/posts/buderus-boiler-fault-code-a1/)
-- [Burnham Alpine Boiler Error Code Guide — Causes & Fix](/posts/burnham-alpine-error-codes/)
-- [Burnham Boiler E1 Lockout Code Fix](/posts/burnham-boiler-e1-lockout-code/)
-- [Burnham Boiler E2 Error Code — Causes & Fix](/posts/burnham-boiler-e2-error-code/)

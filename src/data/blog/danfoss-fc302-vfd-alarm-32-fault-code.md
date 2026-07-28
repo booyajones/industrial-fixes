@@ -13,13 +13,10 @@ money_part: "Motor output cable (3-phase power cable)"
 most_likely_cause: "Loose or broken motor lead on phase W"
 ---
 
-## Danfoss FC302 Alarm 32 — What It Means
-
+## What this code means
 Alarm 32 on the Danfoss FC302 variable frequency drive indicates that motor phase W is missing. The drive is not detecting current flow on the W output phase between the VFD and the motor. This fault does not appear at startup and is grouped with alarms 30 and 31, which flag missing phases U and V respectively. The issue is on the drive output side, not the incoming mains supply.
 
 The most common cause is a loose, broken, or open motor lead on phase W. Bad terminal connections, damaged cable insulation, or corrosion in one output leg can also trigger this alarm. If wiring and motor checks pass, the problem may be a failed inverter output stage or IGBT in that phase.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ The most common cause is a loose, broken, or open motor lead on phase W. Bad ter
 ## When to Call a Pro
 
 Call a qualified industrial electrician or VFD technician if you are not trained in high-voltage DC bus safety, if you cannot locate an open circuit in the motor wiring, or if the alarm returns after tightening connections and testing the motor. Inverter output stage repairs require specialized tools, replacement parts matched to your drive frame size, and knowledge of power electronics. If the drive has suffered secondary damage to fuses or the power section, a professional can diagnose the full scope of repairs and prevent further equipment damage.
-
-## See Also
-
-- [Danfoss VLT 2900 Fault Codes: Complete Guide](/posts/danfoss-vlt-2900-faults/)
-- [Danfoss RX Controller Fault Codes — Troubleshooting Guide](/posts/danfoss-rx-controller-fault/)
-- [Danfoss FC302 Alarm 20 - Causes & Fix](/posts/danfoss-fc302-alarm-20-fault-code/)
-- [Danfoss FC302 Alarm 40 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-40-fault-code/)

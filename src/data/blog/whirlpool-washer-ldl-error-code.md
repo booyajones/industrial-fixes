@@ -17,8 +17,7 @@ money_part: "Whirlpool lid-lock assembly"
 part_price: "$40-90"
 ---
 
-## Whirlpool LdL Error Code — What It Means
-
+## What this code means
 LdL on a Whirlpool washer means the washer has detected a lid-lock failure. The lid is not locking when the control expects it to, so the cycle cannot safely run. Whirlpool uses similar codes (Ld, LdL, LdU) across different model families for lid-lock or drain-related faults, so the exact display wording and your model number matter. On the models where LdL appears, it specifically indicates the lid fails to lock.
 
 Because the lid lock is a safety interlock, the washer will not start the spin cycle or continue running until the lock engages. This code can result from a physical obstruction, buildup around the lock, a worn lock assembly, or wiring and connector issues between the lock and the control board.
@@ -26,8 +25,6 @@ Because the lid lock is a safety interlock, the washer will not start the spin c
 ## Before You Replace Anything
 
 Many people replace the lid-lock assembly first. Before ordering parts, unplug the washer for 60 seconds to reset the control, then inspect and clean the lock and strike area thoroughly. A simple reset or cleaning resolves the code in many cases.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

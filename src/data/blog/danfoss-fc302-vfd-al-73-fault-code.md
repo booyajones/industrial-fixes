@@ -21,8 +21,7 @@ part_price: "$40-80 for a replacement safety door switch or interlock sensor"
 no_buy_pct: "65%"
 ---
 
-## Danfoss FC302 WARNING 73 — What It Means
-
+## What this code means
 WARNING 73 on the Danfoss FC302 means the drive has detected activation of the Safe Stop (STO) function, typically through terminal 37 or terminal 27. Because parameter 5-10 is configured for 'Auto restart,' the drive does not trip or fault. Instead it waits in a ready state. Once the Safe Stop signal clears (the interlock opens or the terminal is disconnected), the motor will automatically resume running at its previous speed without needing a manual reset.
 
 This is different from an alarm code. The drive remains powered and operational, simply waiting for the Safe Stop condition to be removed. The warning will persist as long as the Safe Stop input sees an active signal, which could be from a physical safety device, a wiring fault, or an incorrect parameter setting.
@@ -30,8 +29,6 @@ This is different from an alarm code. The drive remains powered and operational,
 ## Before You Replace Anything
 
 Technicians sometimes replace the control card thinking the input is latched, but a simple voltage measurement at terminal 37 will show whether a physical interlock or wiring short is holding the signal active.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a qualified technician or controls specialist if you are not comfortable working with 24V control circuits, interpreting VFD parameters, or tracing wiring in an industrial control panel. A professional should handle all troubleshooting if the drive is part of a safety-rated system (SIL-rated Safe Stop) where incorrect configuration could create a hazard. Also call a pro if the warning persists after you have verified the wiring and parameters are correct, as this may indicate a failing control board or a noise issue requiring shielded cable rerouting and grounding work.
 
 **Rough cost:** A pro service call runs about $100-250 depending on whether it is wiring repair or a faulty safety switch.
-
-## See Also
-
-- [Danfoss FC302 VFD Alarm 16 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-16-fault-code/)
-- [Danfoss FC302 AL-131 (Overcurrent) - Causes & Fix](/posts/danfoss-fc302-vfd-al-131-fault-code/)
-- [Danfoss FC302 AL-19 - Causes & Fix](/posts/danfoss-fc302-vfd-al-19-fault-code/)
-- [Danfoss FC302 Alarm 81 - Causes & Fix](/posts/danfoss-fc302-vfd-al-81-fault-code/)

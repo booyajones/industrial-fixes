@@ -13,11 +13,8 @@ money_part: "Internal cooling fan"
 most_likely_cause: "Failed cooling fan"
 ---
 
-## ABB VFD Fault 9300 — What It Means
-
+## What this code means
 ABB fault 9300 is a **cooling fan fault** — the drive's internal cooling fan (which prevents the power electronics from overheating) has failed, is running too slowly, or its feedback signal is absent. ABB ACS drives in the ACS580, ACS880, and ACS850 series monitor the internal fan with a tachometer or current feedback; when the fan doesn't reach operating speed or the current signature is abnormal, fault 9300 is triggered. The drive may continue running briefly but will eventually thermal-trip if the cooling fan is not restored.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ ABB fault 9300 is a **cooling fan fault** — the drive's internal cooling fan (
 ## When to Call a Pro
 
 If the fan is clean, supply voltage is present, and the fault persists, the control board's fan feedback input may be damaged. ABB drives can often be diagnosed remotely via the ABB DriveWindow or DDCS communication; contact ABB service or a certified integrator for advanced diagnostics.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-
-## See Also
-
-- [ABB VFD Fault 3210 — Causes & Fix](/posts/abb-vfd-fault-3210/)
-- [ABB ACS580 Fault 3210 — DC Overvoltage Fix](/posts/abb-acs580-fault-3210/)
-- [ABB Tmax/Emax Circuit Breaker Fault Codes - Complete Guide](/posts/abb-circuit-breaker-fault-codes/)
-- [ABB VFD Fault 3130 — Input Phase Loss Fix](/posts/abb-vfd-fault-3130/)

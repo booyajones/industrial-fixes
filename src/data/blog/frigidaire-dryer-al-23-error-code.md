@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Frigidaire Dryer Electronic Control Board"
 ---
 
-## Frigidaire Dryer AL-23 Error Code — What It Means
-
+## What this code means
 AL-23 does not appear in Frigidaire's published dryer fault code lists. The closest documented code is AD, which indicates an auto-dry or moisture-sensing fault. AD appears when the dryer cannot properly detect moisture levels in the load, often because lint or residue has built up on the sensor bars inside the drum or because airflow is restricted by a clogged vent. A control board glitch can also trigger AD after a power surge or if the wiring to the moisture sensor is damaged.
 
 If your display shows something that looks like AL-23, double-check the readout under good light. Some LED segments can be misread when partially lit. Consult your model's wiring diagram or service sheet to confirm the exact code. The repair steps below address the AD fault, which is the most common auto-dry error on Frigidaire dryers and covers the same root causes you would troubleshoot for any moisture-sensing or airflow issue.
@@ -25,8 +24,6 @@ If your display shows something that looks like AL-23, double-check the readout 
 ## Before You Replace Anything
 
 Many people replace the main control board first, spending $150–250, when the real problem is lint on the sensor bars or a clogged vent. Clean the sensors and inspect the entire vent path before ordering any electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

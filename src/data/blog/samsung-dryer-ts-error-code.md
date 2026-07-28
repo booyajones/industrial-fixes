@@ -17,8 +17,7 @@ money_part: "Samsung exhaust thermistor DC32-00007A"
 part_price: "$15-40"
 ---
 
-## Samsung Dryer tS Error Code — What It Means
-
+## What this code means
 The tS code signals a thermistor or temperature-sensing fault. The control board is not seeing the expected resistance from the exhaust temperature sensor circuit during operation. This typically means the thermistor itself has failed or is reading out of range, or the dryer is overheating because airflow is restricted. Less commonly, a wiring problem or control board issue prevents the sensor from communicating properly.
 
 The code usually appears during a cycle when the control cannot verify safe operating temperature. It may stop the dryer mid-cycle or prevent a new cycle from starting until the fault clears. If the code returns after a power reset, a hardware problem exists in the sensor circuit or the venting system.
@@ -26,8 +25,6 @@ The code usually appears during a cycle when the control cannot verify safe oper
 ## Before You Replace Anything
 
 Many people replace the control board first when the real problem is a $15 thermistor or a clogged vent. Always check airflow and test thermistor resistance before ordering expensive electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -16,8 +16,7 @@ most_likely_cause: "Misread or transient display fault"
 part_price: "$40-150"
 ---
 
-## Whirlpool Oven A6 Error Code — What It Means
-
+## What this code means
 A6 does not appear in Whirlpool's published error-code documentation for ovens. It may be a misread display character, a model-specific diagnostic message, or a transient control fault. Whirlpool cooking products typically show alphanumeric codes starting with F (for example F6 E6 or F9 E0), so A6 should be verified directly on the unit and cross-checked against your exact model's wiring diagram or service manual.
 
 When an unrecognized or intermittent code appears, the first step is always a power reset. Turn off the circuit breaker that feeds the oven, wait one full minute, then restore power. If the code clears and does not return, it was likely a temporary communication or control glitch. If A6 reappears, the fault is persistent and points to a wiring, keypad, or main-control issue that requires diagnosis with your model's specific code table.
@@ -25,8 +24,6 @@ When an unrecognized or intermittent code appears, the first step is always a po
 ## Before You Replace Anything
 
 Homeowners often replace the main control board when the real problem is a loose ribbon cable or corroded keypad connector. Before ordering a board, reseat every connector at the user interface and the control and inspect for heat damage or corrosion.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -17,8 +17,7 @@ money_part: "GE range membrane keypad or touchpad"
 part_price: "$50-150"
 ---
 
-## GE Range F0 Error Code — What It Means
-
+## What this code means
 The F0 error code on a GE range indicates that the electronic range control (ERC) is detecting a key or button circuit as pressed when it should not be, or it has detected a keypad input failure. This fault is usually caused by a stuck key on the touch control panel, a defective membrane keypad, or a failed main control board. The code can appear alone or alongside F1 or F7 on models with similar control architectures.
 
 The control board continuously monitors the keypad for input. When a key circuit shows abnormal resistance or remains closed when it should be open, the board logs the F0 fault and may lock out oven functions until the fault is cleared. In most cases the problem is physical damage, contamination from spills, or wear in the membrane keypad itself.
@@ -26,8 +25,6 @@ The control board continuously monitors the keypad for input. When a key circuit
 ## Before You Replace Anything
 
 Many owners replace the expensive electronic control board first. Always disconnect the keypad ribbon and retest first. If the code clears with the keypad unplugged, the keypad is the failed part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

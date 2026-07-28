@@ -19,8 +19,6 @@ When your KitchenAid dishwasher buttons stop responding, the control panel is no
 
 Repair Clinic identifies the likely chain as a bad door latch, a failed user interface or touchpad assembly, or a main control board that is not sending voltage to the touchpad. Moisture on the panel, accidental entry into a diagnostic mode, or simply having Control Lock enabled can also block all button input.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Control Lock is enabled** The lock feature disables all buttons to prevent unintended changes during a cycle, and many users activate it by accident.
@@ -54,18 +52,18 @@ Repair Clinic identifies the likely chain as a bad door latch, a failed user int
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kitchenaid Dishwasher F1E1 error code](/posts/kitchenaid-dishwasher-f1e1-error-code/)
-- [Kitchenaid Dishwasher F1E2 error code](/posts/kitchenaid-dishwasher-f1e2-error-code/)
-- [Kitchenaid Dishwasher F2E2 error code](/posts/kitchenaid-dishwasher-f2e2-error-code/)
-- [Kitchenaid Dishwasher F3E1 error code](/posts/kitchenaid-dishwasher-f3e1-error-code/)
-- [Kitchenaid Dishwasher F3E2 error code](/posts/kitchenaid-dishwasher-f3e2-error-code/)
-- [Kitchenaid Dishwasher F4E3 error code](/posts/kitchenaid-dishwasher-f4e3-error-code/)
-- [Kitchenaid Dishwasher F5E1 error code](/posts/kitchenaid-dishwasher-f5e1-error-code/)
-- [Kitchenaid Dishwasher F6E1 error code](/posts/kitchenaid-dishwasher-f6e1-error-code/)
-- [Kitchenaid Dishwasher F6E2 error code](/posts/kitchenaid-dishwasher-f6e2-error-code/)
-- [Kitchenaid Dishwasher F6E3 error code](/posts/kitchenaid-dishwasher-f6e3-error-code/)
-- [Kitchenaid Dishwasher F6E4 error code](/posts/kitchenaid-dishwasher-f6e4-error-code/)
-- [Kitchenaid Dishwasher F7E1 error code](/posts/kitchenaid-dishwasher-f7e1-error-code/)
+- Kitchenaid Dishwasher F1E1 error code
+- Kitchenaid Dishwasher F1E2 error code
+- Kitchenaid Dishwasher F2E2 error code
+- Kitchenaid Dishwasher F3E1 error code
+- Kitchenaid Dishwasher F3E2 error code
+- Kitchenaid Dishwasher F4E3 error code
+- Kitchenaid Dishwasher F5E1 error code
+- Kitchenaid Dishwasher F6E1 error code
+- Kitchenaid Dishwasher F6E2 error code
+- Kitchenaid Dishwasher F6E3 error code
+- Kitchenaid Dishwasher F6E4 error code
+- Kitchenaid Dishwasher F7E1 error code
 
 ## When to Call a Pro
 

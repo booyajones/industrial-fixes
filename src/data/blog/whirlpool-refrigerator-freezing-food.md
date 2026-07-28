@@ -17,8 +17,6 @@ tags:
 
 A Whirlpool refrigerator freezing food in the fresh-food compartment means cold air from the freezer is being delivered too aggressively or the control system is calling for cooling longer than it should. This is not a fault code, but a symptom of an overcooling condition. On side-by-side models especially, a freezer set too cold can make the refrigerator section too cold because air flows between the compartments. The control board, sensors, and airflow path all work together to maintain the right temperature, and a fault in any part of that system can push the fresh-food section below safe storage range.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Temperature set too cold** The refrigerator or freezer dial is set lower than factory recommendation, causing excessive cooling in the fresh-food section.

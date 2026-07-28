@@ -20,8 +20,7 @@ free_checks:
 part_price: "$40–80"
 ---
 
-## Weil-McLain A67 Error — What It Means
-
+## What this code means
 The A67 code on a Weil-McLain boiler signals an ignition lockout. The control entered its ignition sequence—sparked or energized the gas valve—but did not detect a stable flame, so it stopped the cycle and locked out to prevent unburned gas from accumulating. In practical terms, something prevented the burner from lighting or the flame sensor from proving that a flame existed.
 
 Because Weil-McLain builds several boiler families (CGa, Ultra, and others) with different controls, the exact fault memory and reset procedure vary by model. Always consult your specific model's service manual before troubleshooting. The code itself is not a generic failure but a concrete ignition-failure report.
@@ -29,8 +28,6 @@ Because Weil-McLain builds several boiler families (CGa, Ultra, and others) with
 ## Before You Replace Anything
 
 Homeowners often replace the control board first. Instead, verify gas supply (manual shutoff, inlet pressure, LP tank level) and check the ignitor for cracks or weak spark before swapping electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -80,10 +77,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician for A67 faults. Gas appliance troubleshooting requires measuring inlet pressure, testing gas-valve operation, and working safely around combustion. A qualified tech will verify venting, air-proving interlocks, and control signals with the proper instruments, then clear the lockout correctly after repair. Attempting DIY gas-system repairs risks explosion, carbon-monoxide hazards, and voiding your warranty.
 
 **Rough cost:** A pro service call runs about $150–350.
-
-## See Also
-
-- [Weil-McLain A60 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a60-error-code/)
-- [Weil-McLain Boiler A158 Error - Causes & Fix](/posts/weil-mclain-boiler-a158-error-code/)
-- [Weil-McLain Boiler A139 Error - Causes & Fix](/posts/weil-mclain-boiler-a139-error-code/)
-- [Weil-McLain 019 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a19-error-code/)

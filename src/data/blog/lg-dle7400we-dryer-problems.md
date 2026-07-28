@@ -59,10 +59,3 @@ These codes apply to this model line:
 ## When to Call a Pro
 
 Call a tech when you see nP or PS codes and are not comfortable working inside the dryer's electrical compartment or verifying house circuit wiring. Steam-related codes (E1, E4) require disassembly to access the steam generator and water supply. If you replace the thermal fuse and it blows again immediately, there is a deeper airflow or component fault that needs diagnosis. For gas variants (DLG7400WE), all work on the burner assembly, gas valve, or igniter should be handled by a qualified technician due to the risk of gas leak or carbon monoxide hazard.
-
-## See Also
-
-- [LG Washer Drain Hose Replacement - Signs & How-To](/posts/lg-washer-drain-hose-replacement/)
-- [LG Oven F17 Error Code - Causes & Fix](/posts/lg-oven-f17-error-code/)
-- [LG Washer Door Lock Assembly Replacement - Signs & How-To](/posts/lg-washer-door-lock-latch-assembly-replacement/)
-- [LG Oven F2 Error Code - Causes & Fix](/posts/lg-oven-f2-error-code/)

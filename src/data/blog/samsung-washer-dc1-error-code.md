@@ -22,8 +22,7 @@ part_price: "$35-75"
 no_buy_pct: "60%"
 ---
 
-## Samsung Washer dC1 Error Code — What It Means
-
+## What this code means
 The dC1 (or DC1) code on a Samsung washer signals a door-latch or door-lock fault. The machine has detected that the door is not properly closed, latched, or electrically confirmed locked before a cycle can begin. The control board is not receiving the expected lock confirmation from the door lock mechanism.
 
 This code appears on both front-load and top-load Samsung models. On front-loaders it typically points to the door lock assembly and strike alignment. On top-loaders it indicates the lid lock mechanism is not engaging or signaling properly. Until the fault is resolved, the washer will not start or advance the cycle.
@@ -31,8 +30,6 @@ This code appears on both front-load and top-load Samsung models. On front-loade
 ## Before You Replace Anything
 
 Many users replace the door lock assembly before checking for simple obstructions. Always inspect the door seal, latch area, and strike alignment for lint, buildup, or clothing fragments before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -20,8 +20,7 @@ part_price: "$80-250"
 no_buy_pct: "60%"
 ---
 
-## Danfoss FC302 AL-107 Fault Code — What It Means
-
+## What this code means
 The code AL-107 does not exist in Danfoss FC302 documentation. The FC302 series uses numeric alarms (Alarm 13, Alarm 38) or alphanumeric codes like AL 15 or AL 17, but no alarm 107 or AL-107 appears in official fault lists. If you saw this code on the display, it is likely a misread or a typo.
 
 The closest valid alarm is AL 15 (Hardware Mismatch), which indicates the drive has detected a non-compatible or improperly installed option card such as a brake control card, serial communication module, or encoder interface. The drive does not recognize the card, or the card is seated incorrectly, damaged, or not certified for the FC302 model. This is a logic compatibility fault, not a power or sensor issue.
@@ -29,8 +28,6 @@ The closest valid alarm is AL 15 (Hardware Mismatch), which indicates the drive 
 ## Before You Replace Anything
 
 Technicians sometimes replace the logic board when the actual problem is a dirty or bent connector on the option card. Always inspect, clean, and reseat the card before ordering a new control PCB.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician if you have updated firmware, reseated or replaced the option card, and the AL 15 alarm still appears. The issue may be a failed logic board, damaged internal communication bus, or a non-standard drive configuration requiring factory service. High-voltage components inside the drive remain energized for several minutes after shutdown, so only trained personnel should open the enclosure or test internal circuits.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Danfoss VFD Fault E-Trip — Causes & Fix](/posts/danfoss-vfd-fault-e-trip/)
-- [Danfoss FC302 Alarm 27 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-27-fault-code/)
-- [Danfoss FC302 VFD Alarm 80 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-80-fault-code/)
-- [Danfoss FC302 Alarm 11 - DC Voltage Too Low Causes & Fix](/posts/danfoss-fc302-vfd-al-110-fault-code/)

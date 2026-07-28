@@ -13,13 +13,10 @@ money_part: "Yaskawa GA800 control board"
 most_likely_cause: "Worn or damaged soft-charge bypass relay or contactor"
 ---
 
-## Yaskawa GA800 E26 Fault — What It Means
-
+## What this code means
 The E26 fault on a Yaskawa GA800 VFD is a soft-charge answerback fault. During startup, the drive charges its DC bus through a soft-charge circuit and expects confirmation that the bypass relay or contactor has closed correctly. When that answerback signal is missing, the drive reports E26 and shuts down. This is a hardware-level fault in the precharge and bypass path, not a programming or configuration issue.
 
 The fault typically points to a worn or damaged soft-charge bypass relay, a failed control board, or a combination of both. Yaskawa field service documentation for the GA800 platform treats this as a board-level or drive-level replacement issue rather than a component-level repair.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ The fault typically points to a worn or damaged soft-charge bypass relay, a fail
 ## When to Call a Pro
 
 Call a qualified industrial electrician or drive technician if you are not trained in high-voltage DC bus work or VFD diagnostics. The GA800's internal DC bus holds lethal voltage even after power is removed, and improper handling can cause electric shock or equipment damage. If parameter U4-06 exceeds 90 percent or the fault returns after a power cycle, professional diagnosis and board or drive replacement is the documented repair path. A technician can safely discharge the bus, verify the soft-charge circuit, and perform board-level replacement or drive swap according to Yaskawa service procedures.
-
-## See Also
-
-- [Yaskawa A1000 GF Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-gf-fault-code/)
-- [Yaskawa A1000 AL-14 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-14-fault-code/)
-- [Yaskawa A1000 LF2 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-lf2-fault-code/)
-- [Yaskawa GA800 E28 Fault - Serial Watchdog Timeout Fix](/posts/yaskawa-ga800-e28-fault-code/)

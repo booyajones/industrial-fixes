@@ -19,8 +19,6 @@ Sparking or arcing in a KitchenAid microwave means microwave energy is dischargi
 
 This is a symptom, not a fault code. The sparks you see are electrical discharge caused by metal, improper accessories, heavy soil buildup, or a damaged waveguide cover allowing energy to arc where it should not.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Metal cookware, utensils, foil, or items with metallic trim** Metal objects, aluminum foil, twist ties, staples, skewers, or dishes with gold or silver trim create a conductive path that causes immediate arcing.

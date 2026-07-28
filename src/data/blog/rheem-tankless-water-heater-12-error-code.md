@@ -13,11 +13,8 @@ money_part: "Rheem tankless flame sensor"
 most_likely_cause: "Gas supply shut off or interrupted"
 ---
 
-## Rheem Tankless Error Code 12 — What It Means
-
+## What this code means
 Error code 12 on a Rheem tankless water heater means the control board called for heat and attempted ignition but did not detect a stable flame. The unit expects the burner to light when gas is called, and when the flame sensor cannot prove combustion the system shuts down and locks out to prevent unsafe operation. This stops all hot water production until the fault is cleared.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ Error code 12 on a Rheem tankless water heater means the control board called fo
 ## When to Call a Pro
 
 Call a licensed plumber or gas technician if you are not trained to work on gas appliances, if you smell gas at any point, or if you lack a manometer to measure supply pressure safely. A pro should also handle the repair when cleaning the flame sensor and igniter does not resolve code 12, when you see rust or water damage inside the combustion chamber, or when the unit repeatedly locks out after clearing the fault. Gas work requires proper licensing in most jurisdictions and mistakes can create carbon-monoxide hazards or explosions.
-
-## See Also
-
-- [Rheem Furnace 9 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-9-flashes/)
-- [Rheem Split System Heat Pump Error Codes — RA14, RA15, RP15 Fault Guide](/posts/rheem-heat-pump-error-codes/)
-- [Rheem Furnace 6 Flashes — Rollout Switch Open Fix](/posts/rheem-furnace-6-flashes/)
-- [Rheem Furnace Error Code 57 — Causes & Fix](/posts/rheem-furnace-error-code-57/)

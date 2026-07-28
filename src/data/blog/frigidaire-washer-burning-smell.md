@@ -19,8 +19,6 @@ A burning smell during washer operation is not an error code. It is a symptom th
 
 Common sources include wet or shorted stator coils, a shorted main control board, or too much friction between moving parts. The smell often appears during spin or drain cycles, depending on which component is failing.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Drive belt wear, glazing, or slippage** A worn or glazed belt slips on pulleys, generating heat and a burnt rubber smell during spin.

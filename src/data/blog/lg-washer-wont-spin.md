@@ -19,8 +19,6 @@ When an LG washer won't spin, the machine has stopped or reduced the spin cycle 
 
 The washer will not proceed normally into spin until the underlying issue is resolved. Common real-world causes include load imbalance, clogged drain systems, failed door or lid locks, and motor or sensor problems in direct-drive models. The exact repair path depends on the code displayed and the machine type.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Unbalanced load** Single heavy items, very small loads, or laundry bunched to one side can stop or limit spin, triggering a UE or uE code on the display.

@@ -12,11 +12,8 @@ tags:
 money_part: "ECM motor module"
 ---
 
-## Lennox SLP98V Error Codes — What It Means
-
+## What this code means
 The Lennox SLP98V is a two-stage, variable-speed, 98% AFUE gas furnace — one of the most efficient residential furnaces available. It uses the iComfort thermostat communication system and displays detailed fault codes on the thermostat screen rather than simple flash codes. It can also be diagnosed via the control board's LED for technicians without the thermostat.
-
-[Jump to Fix](#fix)
 
 ## iComfort Fault Code Quick Reference
 
@@ -75,18 +72,3 @@ The rollout switch has tripped and the board has exceeded the maximum reset atte
 | Rollout switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-lennox-slp98v-error-codes&tag=errorcodefixes-20) \| Lennox 19J6801 |
 ## When to Call a Pro
 The SLP98V's variable-speed ECM motor and iComfort communication system require installer-level diagnostics for anything beyond cleaning and filter replacement. Code 103 (rollout lockout) and code 411 (flame without call) require licensed technician attention before restart.
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-
-## See Also
-
-- [Lennox Harmony III Zoning System Error Codes — Complete Guide](/posts/lennox-harmony-iii-error-codes/)
-- [Lennox Error Code 414 Rollout — Causes & Fix](/posts/lennox-error-code-414-rollout/)
-- [Lennox Error Code 114 — Causes & Fix](/posts/lennox-error-code-114/)
-- [Lennox Error Code 270 — Flame Signal Lost Fix](/posts/lennox-error-code-270/)

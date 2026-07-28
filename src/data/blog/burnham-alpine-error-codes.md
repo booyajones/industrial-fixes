@@ -16,8 +16,6 @@ money_part: "Flame sensor rod"
 
 The Burnham Alpine is a high-efficiency modulating condensing boiler using the IBC Controls platform (Burnham uses the IBC HC Series controls on the ALP series). The boiler displays fault codes on a backlit LCD control panel. Codes use an alphanumeric format: "E" codes are hard lockouts requiring manual reset; "W" codes are warnings that may self-clear. The Alpine is available in 80–300 MBH input sizes and fires on natural gas or propane.
 
-[Jump to Fix](#fix)
-
 ## Common Error Codes and Causes
 
 - **E01 — Ignition Failure** — The burner failed to light after the maximum number of tries. Most common causes: failed igniter, dirty or failed flame sensor, gas supply issue, or incorrect gas pressure. Clean the flame sensor rod and test the igniter before replacing components.
@@ -49,14 +47,6 @@ The Burnham Alpine is a high-efficiency modulating condensing boiler using the I
 
 Alpine boilers operate at high efficiency by modulating gas input, and incorrect setup of gas pressure, combustion analysis (CO/CO2), or control parameters can cause safety hazards. For persistent E01/E02 faults or any combustion analysis work, call a licensed technician with Alpine experience.
 
-## Related Articles
-
-- [Boiler Lockout Error Codes: All Brands Guide](/posts/boiler-lockout-error-codes/)
-- [Buderus Boiler Fault Code A1 — Causes & Fix](/posts/buderus-boiler-fault-code-a1/)
-- [Burnham Boiler E1 Lockout Code Fix](/posts/burnham-boiler-e1-lockout-code/)
-- [Burnham Boiler E2 Error Code — Causes & Fix](/posts/burnham-boiler-e2-error-code/)
-- [Burnham Boiler E3 Error Code — Causes & Fix](/posts/burnham-boiler-e3-error-code/)
-
 ## More Burnham Alpine fault codes
 
 Compiled from manufacturer service manuals and authorized documentation.
@@ -82,7 +72,6 @@ Compiled from manufacturer service manuals and authorized documentation.
 | Hard Lockout E23 | 24VAC voltage low/high: control power is above or below acceptable levels. | Transformer, wiring, or supply voltage problem feeding the Sage2.1 control. | Check the transformer output and 24VAC wiring; correct the supply issue and reset. |
 | Hard Lockout E24 | Fuel valve error: power detected at the fuel (gas) valve when it should be off. | A wiring fault or failed gas valve/relay leaving the valve energized when it should be de-energized. | Safety lockout. Have a technician check the gas valve wiring and the valve/relay; do not bypass. |
 
-
 ## How to troubleshoot Burnham Alpine
 
 The Burnham Alpine (ALP series) runs on the Honeywell/Resideo Sage2.1 control, and its codes are numeric, not the "E01/W06" style some guides show. Read the display carefully first: a soft lockout alternates the digit "9" with the letter "b" followed by a two-digit code and clears on its own once the cause is corrected, while a hard lockout shows "E" plus a two-digit code and requires pressing the RESET button after the fault is fixed. Always record the exact number before resetting, because the boiler overwrites it.
@@ -92,7 +81,6 @@ Start with the cheap, common culprits before condemning parts. The most frequent
 Overheat and flow faults (soft lockout 14 high delta-T, soft lockout 16 fast temperature rise, hard lockout E04 supply high limit) almost always trace back to loss of water flow rather than a bad control. Purge air from the loop, confirm the circulator actually spins on a call for heat, and verify every isolation and zone valve is open. Sensor codes (soft lockout 7, 8, 10) are usually a failed thermistor or a loose connector; test resistance against the chart in the manual before replacing. Blower codes (E18/E19) point to an obstructed or failing fan or a lost fan-speed signal.
 
 Call a licensed technician for anything touching combustion or gas integrity: hard lockout E12 (flame out of sequence) and E24 (fuel valve error) are gas-valve safety lockouts and must never be bypassed. Setting manifold pressure, running a combustion analysis (CO/CO2), and adjusting the throttle/offset on a modulating boiler like the Alpine require a manometer and analyzer and are not DIY tasks. When in doubt on a repeated hard lockout, stop resetting and get a pro.
-
 
 ## Frequently asked questions
 
@@ -115,4 +103,3 @@ Cleaning the flame rod, clearing the condensate trap, purging air, and checking 
 ### How do I clear a hard lockout on the Alpine?
 
 Fix the underlying cause first, then press and hold the RESET button on the display. The boiler will run its normal purge and ignition sequence. If it locks out again immediately, stop resetting and diagnose the root cause rather than repeatedly clearing it.
-

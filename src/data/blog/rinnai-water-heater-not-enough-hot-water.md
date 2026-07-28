@@ -19,8 +19,6 @@ When a Rinnai tankless water heater produces not enough hot water, it means the 
 
 In most cases the unit cannot maintain the required firing rate or water flow through the heat exchanger. Technicians see this as insufficient hot water, intermittent hot water, or weak heating. The heater may be running but simply cannot keep up, or it may be cycling or modulating down because of a restriction, sensor problem, or fuel delivery issue.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Too much simultaneous demand** Multiple fixtures running at once or a high-flow showerhead can exceed the unit's gallon-per-minute capacity, so outlet temperature drops below setpoint even though the heater is firing.
@@ -53,10 +51,3 @@ In most cases the unit cannot maintain the required firing rate or water flow th
 ## When to Call a Pro
 
 Call a licensed plumber or gas technician if you are not comfortable working with gas connections, if gas supply pressure needs to be tested under load, or if the unit requires descaling, heat exchanger inspection, or flow sensor replacement. Any work involving gas piping, burner assembly, venting modification, or internal water controls should be handled by a qualified professional to maintain safety and warranty coverage. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rinnai Water Heater No Hot Water - Causes & Fix](/posts/rinnai-water-heater-no-hot-water/)
-- [Rinnai Tankless Water Heater Igniter / Electrode Replacement](/posts/rinnai-water-heater-igniter-ignition-electrode-tankless-replacement/)
-- [Rinnai Water Heater Leaking - Causes & Fix](/posts/rinnai-water-heater-leaking/)
-- [Rinnai Tankless Water Heater Control Board Replacement Guide](/posts/rinnai-water-heater-control-board-pcb-main-board-tankless-replacement/)

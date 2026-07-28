@@ -13,11 +13,8 @@ money_part: "Hot surface igniter"
 most_likely_cause: "Failed hot surface igniter"
 ---
 
-## York 8 Flashes Error Code — What It Means
-
+## What this code means
 Eight LED flashes on a York furnace indicates ignition lockout. The control board made multiple attempts to light the burners — typically three tries — and failed to establish or prove a flame on any attempt. After the final failed ignition attempt, the board locks out to prevent unburned gas from accumulating. The furnace will not attempt ignition again until manually reset by cycling the power.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,18 +44,3 @@ Eight LED flashes on a York furnace indicates ignition lockout. The control boar
 ## When to Call a Pro
 
 If the furnace continues to lock out after replacing the igniter and cleaning the flame sensor, call a licensed HVAC technician. Gas valve testing and combustion analysis require specialized equipment and should not be performed by unqualified personnel.
-
-## Related Articles
-
-- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
-- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)
-- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
-- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
-- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
-
-## See Also
-
-- [York YCD Packaged Unit Error Codes — Fault Code Diagnostic Guide](/posts/york-ycd-error-codes/)
-- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
-- [York Furnace Error Codes — Complete Guide](/posts/york-furnace-error-codes/)
-- [York YG2C Furnace Error Codes — Flash Code Diagnostic Guide](/posts/york-yg2c-error-codes/)

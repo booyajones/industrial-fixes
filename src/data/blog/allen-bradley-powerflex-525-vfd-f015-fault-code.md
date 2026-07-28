@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Allen-Bradley PowerFlex 525 F015 — What It Means
-
+## What this code means
 F015 on an Allen-Bradley PowerFlex 525 is a Load Loss fault. Rockwell defines it as the output torque current falling below the value programmed in parameter A490 (Load Loss Level) for longer than the time programmed in A491 (Load Loss Time). This is not an electrical overcurrent or ground fault. Instead, it means the drive is running and energizing the motor, but the motor is not seeing enough mechanical load to prove it is actually coupled to the driven equipment. In practical terms, the motor is spinning but the process load is missing, slipping, or disconnected.
 
 The fault exists to protect machinery from running uncoupled, which can cause overspeed damage or unsafe conditions. When F015 appears, the drive has detected that the torque current signature does not match a properly loaded motor. The usual culprits are mechanical disconnects like broken couplings, slipped belts, or a driven load that has seized or been removed. Less often, the fault is triggered because A490 and A491 are set too aggressively for a light or variable-load application.
@@ -24,8 +23,6 @@ The fault exists to protect machinery from running uncoupled, which can cause ov
 ## Before You Replace Anything
 
 Technicians sometimes replace the VFD control board or motor, when in fact the real problem is a purely mechanical disconnect downstream of the motor shaft. Always inspect the coupling, belt, and driven equipment physically before ordering drive electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a qualified technician or controls integrator if you cannot locate an obvious mechanical disconnect, if the coupling and drivetrain appear intact but the fault persists, or if you are unfamiliar with VFD parameter programming. Adjusting A490 and A491 incorrectly can mask real mechanical failures and lead to equipment damage or safety hazards. A pro can also measure actual torque current under load, compare it to the programmed thresholds, and determine whether the fault is mechanical, a programming mismatch, or (rarely) a drive feedback issue. Do not bypass the load-loss function without understanding why the current signature is low.
 
 **Rough cost:** A pro service call runs about $150–500 depending on mechanical repair.
-
-## See Also
-
-- [Allen-Bradley PowerFlex 525 F029 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f029-fault-code/)
-- [Allen-Bradley PowerFlex 525 F073 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f073-fault-code/)
-- [Allen-Bradley PowerFlex 525 F041 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f041-fault-code/)
-- [Allen-Bradley PowerFlex 525 F114 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f114-fault-code/)

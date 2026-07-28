@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "LG microwave inverter board"
 ---
 
-## LG Microwave F11 Error Code — What It Means
-
+## What this code means
 LG defines the F11 code on microwaves as an inverter communication error. This fault indicates that the main control board cannot communicate properly with the inverter assembly, which is the high-voltage component that powers the magnetron. LG states that this code requires service to resolve and does not list it as a user-resettable fault.
 
 The inverter is responsible for converting household AC power into the high-voltage DC current the magnetron needs to generate microwaves. When the control board loses its signal path to the inverter, the microwave will not heat and will display F11. The fault can originate from the inverter board itself, the wiring harness between the two boards, or the main control board's communication circuit.
@@ -25,8 +24,6 @@ The inverter is responsible for converting household AC power into the high-volt
 ## Before You Replace Anything
 
 Many homeowners replace the main control board first because it is easier to access. Before ordering any board, disconnect power for two minutes and check all wiring connectors between the control and inverter for corrosion, heat damage, or loose pins.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -70,10 +67,3 @@ Answer these to narrow it down fast.
 Call a qualified appliance technician for the F11 code. Microwave ovens contain high-voltage capacitors that can hold a lethal charge even after the unit is unplugged, and working inside the cabinet requires discharge procedures and insulated tools. LG lists this code as a service-required fault. A technician will safely discharge the capacitor, trace the communication path between the control board and inverter, test each board, and replace the failed component. If you see burn marks, smell electrical odors, or hear arcing sounds, do not attempt to operate or open the microwave and call for service immediately.
 
 **Rough cost:** A pro service call runs about $150–350 depending on the part replaced.
-
-## See Also
-
-- [LG Washer Drain Pump Replacement - Signs & How-To](/posts/lg-washer-drain-pump-replacement/)
-- [LG Refrigerator rS Error Code - Causes & Fix](/posts/lg-refrigerator-rs-error-code/)
-- [LG Microwave F-3 Error - Causes & Fix](/posts/lg-microwave-f-3-error-code/)
-- [LG Refrigerator Error Codes — Complete Fix Guide](/posts/lg-refrigerator-error-codes/)

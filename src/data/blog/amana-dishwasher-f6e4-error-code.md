@@ -17,15 +17,12 @@ likelihood: "the most common causes"
 diy_or_pro: "diy"
 ---
 
-## Amana Dishwasher F6E4 Error — What It Means
-
+## What this code means
 The F6E4 code on Amana dishwashers (which share Whirlpool-family platform logic) indicates the control has detected an overfill or float-switch condition. The machine thinks there is a water-level problem, either because the overfill float switch in the base has been triggered or because the control sees an abnormal condition in the water management circuitry. This can happen when water actually accumulates in the base pan, when the float assembly is stuck or obstructed, or when the appliance is not sitting level and the float behaves as though the tub is overfilled.
 
 ## Before You Replace Anything
 
 Many people replace the control board first, but the float switch and level of the machine are far more likely culprits. Always inspect the float assembly for free movement and verify the dishwasher is level side-to-side and front-to-back before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

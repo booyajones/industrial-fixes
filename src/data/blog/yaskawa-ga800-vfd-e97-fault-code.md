@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "Communications cable (shielded twisted-pair or network-specific)"
 ---
 
-## Yaskawa GA800 E97 Fault Code — What It Means
-
+## What this code means
 The E97 fault code on a Yaskawa GA800 variable frequency drive indicates a serial communication transmission error. The drive is not receiving valid data on its communications line, pointing to a problem in the cable, wiring, or connection path rather than a motor or power-stage issue.
 
 This fault is triggered by incorrect comms wiring, a short circuit in the communications cable, or a disconnected or improperly connected cable. It does not indicate a motor overload, inverter problem, or internal drive failure. The fault directs attention to the physical communication link between the drive and the master controller or network device.
@@ -24,8 +23,6 @@ This fault is triggered by incorrect comms wiring, a short circuit in the commun
 ## Before You Replace Anything
 
 Technicians sometimes replace the communications option card or the drive itself before verifying the cable. Always test the communications cable for opens, shorts, and correct wiring first, since cable faults cause the majority of E97 errors.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified drives technician or controls integrator when the E97 fault persists after you have verified correct wiring and replaced the communications cable. Diagnosing option-card failures, network-side faults, and controller issues requires specialized test equipment and knowledge of industrial communication protocols. Always have the drive model number, serial number, option card type, and a description of the network architecture ready when contacting Yaskawa support or a certified service provider. Do not attempt to replace internal option hardware or modify firmware without proper training.
 
 **Rough cost:** A pro service call runs about $150–400 depending on cable length and labor.
-
-## See Also
-
-- [Yaskawa GA800 E34 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e34-fault-code/)
-- [Yaskawa GA800 E25 Fault - Causes & Fix](/posts/yaskawa-ga800-e25-fault-code/)
-- [Yaskawa GA800 A.117 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-117-fault-code/)
-- [Yaskawa GA800 E15 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e15-fault-code/)

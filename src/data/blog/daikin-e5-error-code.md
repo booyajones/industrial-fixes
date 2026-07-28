@@ -13,13 +13,10 @@ money_part: "Daikin outdoor inverter PCB"
 most_likely_cause: "Compressor mechanical lock or seizure"
 ---
 
-## Daikin E5 Error Code — What It Means
-
+## What this code means
 The E5 code indicates that your Daikin system has detected a compressor overload or protection condition and has stopped or limited operation to protect the compressor. Daikin's official error-code documentation lists E5 as 'OL started' (overload protection started) or 'inverter compressor motor / overheat.' This is a protective shutdown, not a sensor reading fault.
 
 The fault family points to conditions that force the compressor to work beyond safe limits or prevent it from running correctly. It does not refer to a simple temperature-sensor issue. The system is safeguarding expensive compressor and inverter components from damage.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ The fault family points to conditions that force the compressor to work beyond s
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not trained to work on inverter-driven compressors or PCBs. Diagnosing E5 requires verifying three-phase compressor wiring, testing high-voltage inverter boards, and interpreting system pressures under load. Misdiagnosis can lead to replacing expensive parts unnecessarily. If the compressor is mechanically locked or the inverter board has failed, the repair cost is high and the work must meet manufacturer warranty and safety standards. Do not attempt compressor or refrigerant work without proper tools, recovery equipment, and certification.
-
-## See Also
-
-- [Daikin RXYQ VRV System Error Codes — Complete Fault Code Guide](/posts/daikin-rxyq-error-codes/)
-- [Daikin U9 Error Code — Causes & Fix](/posts/daikin-u9-error-code/)
-- [Daikin VRV E7 Error Code — Causes & Fix](/posts/daikin-vrv-e7-error-code/)
-- [Daikin U2 Error Code — Causes & Fix](/posts/daikin-u2-error-code/)

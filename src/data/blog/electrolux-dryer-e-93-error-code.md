@@ -19,8 +19,7 @@ free_checks:
   - "Check that all wiring harness connectors between the control board and user interface are fully seated and not damaged"
 ---
 
-## Electrolux Dryer E93 Error — What It Means
-
+## What this code means
 E93 on an Electrolux dryer signals a configuration or communication problem with the electronic control system. The dryer's main control board and user interface are either not matched correctly, not communicating, or have incorrect configuration data. This is not a venting, heating, or mechanical fault. It is grouped with E90, E91, E92, and E94 as electronic control-side errors.
 
 The code typically appears after a board replacement when the wrong part was installed, or when wiring between the control and interface has become loose or damaged. In rare cases it can appear spontaneously if a connector works loose or a board loses its configuration data.
@@ -28,8 +27,6 @@ The code typically appears after a board replacement when the wrong part was ins
 ## Before You Replace Anything
 
 Homeowners often replace the main control board when the real issue is simply a loose wiring harness or a user interface that does not match the model revision. Always verify part numbers and reseat all connectors before ordering boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

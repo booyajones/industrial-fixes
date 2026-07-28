@@ -20,8 +20,6 @@ When a Carrier furnace keeps shutting off, the control is usually detecting a sa
 
 If your furnace runs for a while and then shuts off, that pattern almost always points to a limit opening rather than a simple thermostat or ignition problem. Carrier's homeowner guidance also lists airflow restriction, ignition faults, flame sensor issues, and gas supply interruptions as common reasons a furnace stops running.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Restricted airflow from dirty filter or closed registers** A clogged filter, closed supply or return vents, or blocked ductwork reduces airflow over the heat exchanger and causes the high-limit to trip.
@@ -63,10 +61,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you have verified the filter and registers are clear but the furnace still shuts off, if you see any signs of flame rollout or smell gas, or if the problem involves checking gas pressure, combustion air, venting, or internal wiring. Limit and rollout switch testing and all burner or gas-supply work should be handled by a trained technician to avoid safety risks and warranty issues. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Carrier 52 Error Code — Causes & Fix](/posts/carrier-52-error-code/)
-- [Carrier 58STA Furnace Problems & Error Codes](/posts/carrier-58sta-furnace-gas-residential-problems/)
-- [Carrier Furnace Error Code 31 — Pressure Switch Open Fix](/posts/carrier-error-code-31/)
-- [Carrier E11 Error Code - Causes & Fix](/posts/carrier-heat-pump-e11-error-code/)

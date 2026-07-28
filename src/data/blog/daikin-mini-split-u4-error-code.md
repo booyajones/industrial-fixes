@@ -19,8 +19,7 @@ free_checks:
   - "Inspect all wire connections at both indoor and outdoor terminals for loose or corroded contacts"
 ---
 
-## Daikin U4 Error Code — What It Means
-
+## What this code means
 The U4 error code on a Daikin mini split signals a transmission failure between the indoor and outdoor units. The two halves of your system cannot exchange data, which prevents normal operation. You may notice the outdoor unit has no indicator lights at all.
 
 This code is different from other Daikin faults like UA (unit combination error) or U0 (refrigerant shortage). U4 is strictly a communication breakdown, usually caused by wiring problems or a dead outdoor control board.
@@ -28,8 +27,6 @@ This code is different from other Daikin faults like UA (unit combination error)
 ## Before You Replace Anything
 
 Homeowners often replace the indoor board when the outdoor control board (PCB) is actually dead. Check if the outdoor unit lights come on at all. If the outdoor board shows no lights and wiring is correct, replace the outdoor PCB and noise filter board together.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician for a U4 error. Diagnosis requires AC voltage measurements, resistance testing of control circuits, and safely working inside energized high-voltage panels on both the indoor and outdoor units. Replacing the outdoor control board involves disconnecting refrigerant sensors, compressor terminals, and fan connections that must be reassembled correctly. Technicians also have the tools to force pump down mode and verify proper refrigerant pressures after board replacement. Misdiagnosis or improper wiring can damage the new board or create a safety hazard.
 
 **Rough cost:** A pro service call runs about $250-500.
-
-## See Also
-
-- [Daikin E4 Error Code - Causes & Fix](/posts/daikin-e4-error-code/)
-- [Daikin E05 Error Code - Causes & Fix](/posts/daikin-mini-split-e05-error-code/)
-- [Daikin Mini Split Not Cooling - Causes & Fix](/posts/daikin-mini-split-not-cooling/)
-- [Daikin C4 Error Code - Causes & Fix](/posts/daikin-mini-split-c4-error-code/)

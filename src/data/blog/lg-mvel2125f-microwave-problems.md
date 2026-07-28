@@ -61,10 +61,3 @@ These codes apply to this model line:
 ## When to Call a Pro
 
 Call a tech for any F-series error code that returns after a 60-second power reset, because these codes require live voltage checks, board-level diagnosis, and part replacement under the microwave's high-voltage cavity. If you see arcing, smoke, or repeated E10 codes, unplug the unit and get a service call. Control lock (LOC) is the only display message you can clear yourself by holding STOP/CLEAR. All other persistent codes mean a failed sensor, board, or inverter component that needs replacement by someone with the correct service manual and high-voltage safety training.
-
-## See Also
-
-- [LG OE Error Code - Causes & Fix](/posts/lg-range-oe-error-code/)
-- [LG Mini Split CH06 Error Code - Causes & Fix](/posts/lg-mini-split-ch06-error-code/)
-- [LG Microwave F13 Error Code - Causes & Fix](/posts/lg-microwave-f13-error-code/)
-- [LG Dishwasher Turbidity Sensor Replacement - Signs & How-To](/posts/lg-dishwasher-turbidity-wash-sensor-replacement/)

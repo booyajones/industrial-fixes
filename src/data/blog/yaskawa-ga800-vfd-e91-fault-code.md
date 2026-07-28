@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "Yaskawa GA800 STO jumper kit"
 ---
 
-## Yaskawa GA800 E91 Fault — What It Means
-
+## What this code means
 E91 on the Yaskawa GA800 indicates a Safe Torque Off (STO) fault. The drive has detected that its STO safety inputs are not in the enabled state, so it refuses to produce torque. STO is a hardware safety function that cuts output when external safety devices (emergency stops, guards, or safety relays) demand it or when required jumpers are missing.
 
 The drive will not run until the STO circuit is satisfied. This is not a motor or output-stage problem. It is a safety-chain issue at the STO input terminals. The fault appears immediately on power-up or when a safety device upstream opens the STO loop.
@@ -24,8 +23,6 @@ The drive will not run until the STO circuit is satisfied. This is not a motor o
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board or output transistors when E91 appears, assuming an internal drive fault. Always verify STO terminal wiring and jumper presence first, a zero-cost visual check that solves most E91 faults.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or controls technician if you are not trained in lockout/tagout procedures, if you are unfamiliar with safety relay circuits, or if the STO wiring and jumper check good but the fault remains. STO circuits are safety-critical and must comply with machinery safety standards. Incorrect wiring or bypassing the STO function can create serious hazards. If the fault persists after verifying all external wiring and the drive documentation does not resolve the issue, escalate to Yaskawa technical support with your drive serial number and a description of the tests you performed.
 
 **Rough cost:** A pro service call runs about $150–400 depending on whether the fix is a simple jumper replacement or rewiring a safety relay circuit.
-
-## See Also
-
-- [Yaskawa GA800 E12 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e12-fault-code/)
-- [Yaskawa A1000 oL7 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol7-fault-code/)
-- [Yaskawa GA800 A.133 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-133-fault-code/)
-- [Yaskawa A1000 oL6 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol6-fault-code/)

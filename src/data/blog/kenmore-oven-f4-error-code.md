@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Oven F4 Error Code — What It Means
-
+## What this code means
 The F4 error code on a Kenmore oven indicates a temperature sensor circuit fault. The control board is seeing the oven sensor as open, shorted, or otherwise out of the acceptable range, or it is losing the signal through the wiring or control connection. This fault can stem from a failed sensor probe itself, a broken or shorted wiring harness, loose or corroded connectors, or a failing electronic range control board.
 
 The control cannot safely regulate oven temperature without a valid sensor reading, so it throws F4 and typically shuts down heating. While the exact wording of the code may vary slightly across Kenmore model families, the underlying issue is always an abnormal reading in the sensor circuit. A technician will isolate the sensor, test its resistance, inspect the harness, and verify the signal at the control board before condemning any component.
@@ -26,8 +25,6 @@ The control cannot safely regulate oven temperature without a valid sensor readi
 ## Before You Replace Anything
 
 Homeowners often replace the electronic control board first when the real culprit is the sensor or a corroded connector. Measure the sensor resistance at room temperature (should read around 1100 Ω) and inspect the plug at the control before spending money on a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

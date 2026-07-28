@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Touchpad / control panel"
 ---
 
-## Maytag Oven AB Error Code — What It Means
-
+## What this code means
 The AB display on a Maytag oven is not a standard manufacturer error code. Maytag's official error-code documentation does not list AB as a fault. The most likely explanation is that the display is showing Sab or 5ab, which indicates Sabbath mode is active. Sabbath mode is a special operating feature that changes normal oven behavior, keeping the display minimal and disabling certain controls. It is not a failure or fault.
 
 If the display is truly showing a different code that looks like AB, consult your model's wiring diagram or service sheet for the exact meaning. Maytag does document other fault codes such as F9 and F9 E0, but AB itself does not appear in their published fault tables.
@@ -25,8 +24,6 @@ If the display is truly showing a different code that looks like AB, consult you
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board thinking AB is a failure code. Before ordering parts, confirm whether the display is Sabbath mode (Sab) and try canceling it from the settings or power-cycling the unit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

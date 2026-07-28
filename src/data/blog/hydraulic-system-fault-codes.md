@@ -16,8 +16,6 @@ tags:
 
 Hydraulic alarms usually come from pressure, temperature, flow, contamination, or position feedback. Whether the system is a press, molding machine, mobile machine, or power unit, the diagnostic pattern is similar: the controller expects hydraulic pressure or motion and isn't seeing it within the expected window.
 
-[Jump to Fix](#fix)
-
 ## Common Hydraulic Fault Categories
 
 | Fault Type | Typical Meaning |

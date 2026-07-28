@@ -13,13 +13,10 @@ money_part: "Navien flow sensor assembly"
 most_likely_cause: "Debris or scale blocking the flow sensor"
 ---
 
-## Navien E005 Error Code — What It Means
-
+## What this code means
 The E005 code on a Navien tankless water heater indicates a flow sensor or flow-proving fault. The control board is not detecting valid water flow when it expects it, so the unit locks out to protect the heat exchanger and burner system. Navien states that the issue is most likely the flow sensor inside the unit is not spinning properly.
 
 In practical terms, the flow sensor assembly may be obstructed by debris or scale, or the sensor itself has failed. The unit will not fire until the flow signal is restored and the code is cleared.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ In practical terms, the flow sensor assembly may be obstructed by debris or scal
 ## When to Call a Pro
 
 Navien recommends service by the original installer, a licensed plumbing or heating contractor, or an authorized NSS technician if the fault persists after simple debris-clearing steps. If you are not comfortable removing the unit cover, working with water connections under pressure, or handling electrical components on a gas or electric water heater, call a professional. The flow sensor replacement requires disassembly of internal waterway components and verification of proper operation afterward, so professional diagnosis is the safest route if you have any doubt about the root cause.
-
-## See Also
-
-- [Navien E110 Error Code - Causes & Fix](/posts/navien-tankless-e110-error-code/)
-- [Navien E016 Error Code - Causes & Fix](/posts/navien-tankless-e016-error-code/)
-- [Navien Error Code E016 — Causes & Fix](/posts/navien-error-code-e016/)
-- [Navien E009 Error Code — Causes & Fix](/posts/navien-error-code-e009/)

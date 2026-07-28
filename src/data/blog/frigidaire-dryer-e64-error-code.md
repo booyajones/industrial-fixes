@@ -20,8 +20,7 @@ free_checks:
 part_price: "$30-70"
 ---
 
-## Frigidaire Dryer E64 Error Code — What It Means
-
+## What this code means
 On Frigidaire and Frigidaire Affinity electric dryers, E64 signals a fault in the heater or heating element circuit. The control board has detected an open circuit in the heating system, which prevents the dryer from producing heat. This is not a performance or airflow issue. It is an electrical fault that typically points to a broken heating coil, damaged wiring to the heater assembly, or a failed safety device in the heating circuit.
 
 The code appears when continuity is lost somewhere between the control board and the heating element. The dryer may still tumble and run cycles, but it will not heat. Repair involves identifying which component in the heating circuit has failed and restoring electrical continuity.
@@ -29,8 +28,6 @@ The code appears when continuity is lost somewhere between the control board and
 ## Before You Replace Anything
 
 Some people replace the control board first when E64 appears. Test the heating element and its wiring harness for continuity before ordering any electronic control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

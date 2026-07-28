@@ -19,8 +19,6 @@ When a KitchenAid dishwasher leaks, you may see water pooling on the floor near 
 
 If no fault code appears, the leak is a mechanical problem originating from a door seal issue, a faulty water supply connection, a drain line problem, or excessive suds from the wrong detergent. KitchenAid's product guidance treats leaking as a physical inspection task starting with the door gasket, water supply fittings, drain hose, and leveling, then moving to internal components like the pump seal and hoses.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Damaged or dirty door gasket** Tears, flattening, food buildup, or misalignment of the door gasket let water escape at the door during fill and wash.
@@ -59,7 +57,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Kitchenaid Dishwasher F2E2 error code](/posts/kitchenaid-dishwasher-f2e2-error-code/)
 - [Kitchenaid Dishwasher F3E1 error code](/posts/kitchenaid-dishwasher-f3e1-error-code/)
 - [Kitchenaid Dishwasher F3E2 error code](/posts/kitchenaid-dishwasher-f3e2-error-code/)
-- [Kitchenaid Dishwasher F4E3 error code](/posts/kitchenaid-dishwasher-f4e3-error-code/)
+- Kitchenaid Dishwasher F4E3 error code
 - [Kitchenaid Dishwasher F5E1 error code](/posts/kitchenaid-dishwasher-f5e1-error-code/)
 - [Kitchenaid Dishwasher F6E1 error code](/posts/kitchenaid-dishwasher-f6e1-error-code/)
 - [Kitchenaid Dishwasher F6E2 error code](/posts/kitchenaid-dishwasher-f6e2-error-code/)

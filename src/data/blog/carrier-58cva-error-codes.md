@@ -17,8 +17,6 @@ money_part: "Hot surface igniter"
 
 The Carrier 58CVA is a two-stage variable-speed gas furnace delivering 80% AFUE efficiency. It uses an ECM blower motor for variable airflow and a two-stage gas valve for improved comfort and dehumidification. The 58CVA communicates faults through a two-digit LED display on the control board — a more informative system than single-LED flash codes. Each code is a two-digit number that identifies both the fault category and specific condition.
 
-[Jump to Fix](#fix)
-
 ## Carrier 58CVA Error Code Reference
 
 | Code | Fault |
@@ -74,18 +72,3 @@ The Carrier 58CVA is a two-stage variable-speed gas furnace delivering 80% AFUE 
 ## When to Call a Pro
 
 The 58CVA's two-stage gas valve and ECM motor require familiarity with Carrier's variable-speed control logic to diagnose correctly. If Code 45 (control board fault) appears, contact a Carrier authorized dealer — board replacement on a variable-speed furnace requires configuration matching the ECM motor and gas valve parameters.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier Infinity 24VNA6 Heat Pump Error Codes - Greenspeed Fault Reference](/posts/carrier-24vna6-error-codes/)
-- [Carrier WeatherMaker RTU Error Code 23 — Fix](/posts/carrier-weathermaster-rtu-error-code-23/)
-- [Carrier Rooftop Unit Error Codes: Common Faults Guide](/posts/carrier-rooftop-unit-error-codes/)
-- [Carrier 48 Error Code — Induced Draft Motor Lockout](/posts/carrier-48-error-code/)

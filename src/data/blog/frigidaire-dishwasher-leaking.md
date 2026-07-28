@@ -19,8 +19,6 @@ When a Frigidaire dishwasher shows a leak symptom, it usually corresponds to the
 
 The i30 fault is specific to water in the base pan. It is not the same as i20, which is a drain or complete-drain fault. Many techs see customers report "leaking" when the real issue is either an actual component leak, oversudsing from too much detergent, or a door that isn't sealing properly.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Oversudsing from detergent** Too much detergent or the wrong type creates foam that spills into the leak pan and triggers the i30 fault.

@@ -19,8 +19,6 @@ A Mitsubishi mini split that won't turn on is a symptom, not a single fault code
 
 Without a displayed code, the technician must determine whether the failure is in the power supply, control circuit, indoor-outdoor communication wiring, or a sensor or airflow protection device that has stopped the system. The same symptom can map to different root causes depending on the code shown on the indoor controller or the LED blink count, so code retrieval is the first step after confirming incoming power.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **No incoming power** A tripped circuit breaker, open disconnect, or loss of line voltage will prevent the unit from energizing at all.
@@ -53,26 +51,19 @@ Without a displayed code, the technician must determine whether the failure is i
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Mitsubishi Mini Split E0 error code](/posts/mitsubishi-mini-split-e0-error-code/)
-- [Mitsubishi Mini Split E2 error code](/posts/mitsubishi-mini-split-e2-error-code/)
-- [Mitsubishi Mini Split E3 error code](/posts/mitsubishi-mini-split-e3-error-code/)
-- [Mitsubishi Mini Split E4 error code](/posts/mitsubishi-mini-split-e4-error-code/)
-- [Mitsubishi Mini Split E5 error code](/posts/mitsubishi-mini-split-e5-error-code/)
-- [Mitsubishi Mini Split E7 error code](/posts/mitsubishi-mini-split-e7-error-code/)
-- [Mitsubishi Mini Split E9 error code](/posts/mitsubishi-mini-split-e9-error-code/)
-- [Mitsubishi Mini Split Ee error code](/posts/mitsubishi-mini-split-ee-error-code/)
-- [Mitsubishi Mini Split Fb error code](/posts/mitsubishi-mini-split-fb-error-code/)
-- [Mitsubishi Mini Split P1 error code](/posts/mitsubishi-mini-split-p1-error-code/)
-- [Mitsubishi Mini Split P2 error code](/posts/mitsubishi-mini-split-p2-error-code/)
-- [Mitsubishi Mini Split P4 error code](/posts/mitsubishi-mini-split-p4-error-code/)
+- Mitsubishi Mini Split E0 error code
+- Mitsubishi Mini Split E2 error code
+- Mitsubishi Mini Split E3 error code
+- Mitsubishi Mini Split E4 error code
+- Mitsubishi Mini Split E5 error code
+- Mitsubishi Mini Split E7 error code
+- Mitsubishi Mini Split E9 error code
+- Mitsubishi Mini Split Ee error code
+- Mitsubishi Mini Split Fb error code
+- Mitsubishi Mini Split P1 error code
+- Mitsubishi Mini Split P2 error code
+- Mitsubishi Mini Split P4 error code
 
 ## When to Call a Pro
 
 If you have verified incoming power and fresh remote batteries but the indoor indicator lamp does not light at all, or if the CHECK function retrieves a persistent fault code after you have cleared simple issues like filters and wiring connections, contact a technician. Mitsubishi recommends that any error code other than 00 be inspected and repaired by qualified service, and that the breaker be turned off while service is arranged. Working inside the control-board enclosures or troubleshooting refrigerant-circuit protections requires proper licensing, refrigerant certification, and familiarity with Mitsubishi's model-specific fault-code tables.
-
-## See Also
-
-- [Mitsubishi Mini Split U4 Error Code — Causes & Fix](/posts/mitsubishi-mini-split-u4-error-code/)
-- [Mitsubishi Mini Split P1 Error Code Fix](/posts/mitsubishi-p1-error-code/)
-- [Mitsubishi U6 Error Code — Causes & Fix](/posts/mitsubishi-u6-error-code/)
-- [Mitsubishi P-Series H6 — Outdoor Fan Motor Fix](/posts/mitsubishi-heat-pump-error-code-h6/)

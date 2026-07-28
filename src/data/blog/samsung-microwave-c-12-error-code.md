@@ -17,8 +17,7 @@ money_part: "Gas/Easy/PH Sensor"
 part_price: "$30-80"
 ---
 
-## Samsung Microwave C-12 Error Code — What It Means
-
+## What this code means
 Samsung groups error codes C-10, C-11, and C-12 together as faults in the gas/easy/PH sensor circuit. When your microwave displays C-12, the control board has detected a problem with the sensor signal—either the sensor is reading out of range, the circuit is open or shorted, or moisture has temporarily disrupted the connection. Samsung does not publish a separate public definition for C-12 beyond this sensor-family classification.
 
 This code is not related to the door switch, steam sensor, or temperature probe according to Samsung's own code tables. The fault may be a one-time event caused by moisture exposure, a loose connector, or a genuine component failure in the sensor or its wiring harness. A power reset clears temporary glitches in many cases. If the code returns immediately after reset, a hardware repair is needed.
@@ -26,8 +25,6 @@ This code is not related to the door switch, steam sensor, or temperature probe 
 ## Before You Replace Anything
 
 Many homeowners replace the main control board first, but the actual fault is usually the gas/easy/PH sensor or its connector. Always power-reset and inspect the sensor harness for loose pins or corrosion before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

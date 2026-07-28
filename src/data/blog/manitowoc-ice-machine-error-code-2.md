@@ -13,11 +13,8 @@ money_part: "Harvest valve (hot gas solenoid)"
 most_likely_cause: "Dirty condenser"
 ---
 
-## Manitowoc Ice Machine Error Code 2 — What It Means
-
+## What this code means
 Manitowoc error code 2 (or "Code 2" on older models, "2" on the LED display) means harvest timeout — the machine's harvest cycle exceeded the maximum allowed time. On Manitowoc Q-series, S-series, and Indigo cubers and flakers, the control times the harvest sequence. If ice doesn't release from the evaporator within the programmed maximum (typically 3.5–4 minutes), the board shuts down with code 2 to prevent water damage and protect the refrigeration system. Code 2 is almost always refrigeration-related: either not enough heat available for harvest or a refrigerant problem preventing proper hot gas delivery.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Manitowoc error code 2 (or "Code 2" on older models, "2" on the LED display) mea
 ## When to Call a Pro
 
 Refrigerant diagnosis and harvest valve replacement in the refrigeration circuit require an EPA 608-certified refrigeration technician. Don't attempt to add refrigerant without first finding and fixing the leak.
-
-## Related Articles
-
-- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
-- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
-- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
-- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)
-- [Manitowoc Ice Machine Error Code 4 — Water Curtain Fault Fix](/posts/manitowoc-ice-machine-error-code-4-water-curtain/)
-
-## See Also
-
-- [Manitowoc vs Scotsman Ice Machines — A Commercial Tech's Honest Comparison (2026)](/posts/manitowoc-vs-scotsman-ice-machines/)
-- [Manitowoc HPCO Error Code — High Pressure Cut Out Fix](/posts/manitowoc-hpco-error-code/)
-- [Manitowoc Indigo NXT Ice Machine Complete Troubleshooting Guide](/posts/manitowoc-indigo-nxt-complete-guide/)
-- [Manitowoc E01 Error Code — Long Freeze Cycle Fix](/posts/manitowoc-e01-error-code/)

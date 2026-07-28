@@ -17,8 +17,6 @@ tags:
 
 When your GE dryer gets too hot, it means the cabinet or drum temperature is rising beyond normal operating range. This is a symptom, not a code displayed on the panel. The dryer may be producing heat continuously when it should cycle off, or it cannot shed heat because airflow is blocked. GE service guidance treats overheating as a condition where either the heating element stays energized incorrectly or trapped air prevents normal cooling.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Shorted heating element** A partially shorted element continues heating even when the control cuts power, causing the cabinet to overheat and the drum to reach excessive temperatures.

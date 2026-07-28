@@ -13,11 +13,8 @@ money_part: "High pressure cutout switch"
 most_likely_cause: "High pressure cutout tripped"
 ---
 
-## Manitowoc Ice Machine Error Code 5 — What It Means
-
+## What this code means
 Error Code 5 on a Manitowoc ice machine indicates a safety switch fault — one of the machine's protective switches (high pressure cutout, bin thermostat, or water safety) has tripped and interrupted normal operation. The control board logs Code 5 when it sees an open safety switch input outside of a normal cycle state.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Error Code 5 on a Manitowoc ice machine indicates a safety switch fault — one 
 ## When to Call a Pro
 
 If the high pressure cutout continues to trip after condenser cleaning and normal ambient conditions are confirmed, a refrigerant overcharge or sealed system problem needs a certified tech.
-
-## Related Articles
-
-- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
-- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
-- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
-- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
-- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)
-
-## See Also
-
-- [Manitowoc Ice Machine Error Code 8 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-8/)
-- [Manitowoc vs Scotsman Ice Machines — A Commercial Tech's Honest Comparison (2026)](/posts/manitowoc-vs-scotsman-ice-machines/)
-- [Manitowoc NEO Ice Machine Error Codes - What It Means and How to Fix It](/posts/manitowoc-neo-ice-machine-error-codes/)
-- [Manitowoc Ice Machine Error Code 4 — Water Curtain Fault Fix](/posts/manitowoc-ice-machine-error-code-4-water-curtain/)

@@ -20,8 +20,6 @@ When a York furnace igniter is not working, the control board is typically calli
 
 The furnace may be trying to light but never catches, or the igniter may not be glowing at all. Even if the igniter glows, the system can still lock out if the flame sensor does not detect flame or if gas flow is interrupted. Common underlying issues include a failed or cracked igniter, a dirty or misaligned flame sensor, gas supply problems, or airflow and venting restrictions that prevent the ignition sequence from completing.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed or cracked hot surface igniter** The igniter element cracks or burns out over time and either will not glow or cannot ignite the gas even when powered.
@@ -55,16 +53,9 @@ The furnace may be trying to light but never catches, or the igniter may not be 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [York Furnace 7 Flashes error code](/posts/york-furnace-7-flashes-error-code/)
-- [York Furnace E2 error code](/posts/york-furnace-e2-error-code/)
+- York Furnace 7 Flashes error code
+- York Furnace E2 error code
 
 ## When to Call a Pro
 
 Gas furnace ignition and burner work should be handled by a licensed HVAC technician. If you are not trained in gas appliance repair, do not attempt to replace the igniter, adjust the gas valve, or troubleshoot flame-proving circuits. A technician has the tools to safely measure igniter voltage, verify gas pressure, test flame sensor microamp current, and clear lockout codes according to manufacturer procedures. Any work involving gas supply, burner operation, or control board diagnostics is best left to a professional to prevent unsafe conditions and make sure code compliance. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [York 1-Blink Error Code — Pressure Switch Stuck Closed Fix](/posts/york-error-code-1/)
-- [York Rooftop Unit Error Codes: Technician Guide](/posts/york-rooftop-unit-error-codes/)
-- [York YG2C Furnace Error Codes — Flash Code Diagnostic Guide](/posts/york-yg2c-error-codes/)
-- [York YSC Rooftop Unit Error Codes Guide](/posts/york-ysc-error-codes/)

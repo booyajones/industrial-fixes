@@ -19,8 +19,6 @@ When your Frigidaire dishwasher is not dispensing detergent, it means the deterg
 
 Frigidaire designs the detergent cup with a covered lid that opens automatically to release detergent. Failure can be mechanical (broken latch, hinge, or spring), electrical (wax motor or bi-metal release not receiving power or failing), or related to wash conditions (water too cold, dishes blocking the spray, or detergent caked and unable to dissolve).
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Broken dispenser mechanism** A damaged spring, hinge pin, latch, door, or cracked dispenser housing prevents the cup from opening at all.

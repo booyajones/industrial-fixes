@@ -19,8 +19,6 @@ A GE refrigerator that runs constantly is usually not showing a fault code. It m
 
 If you do see a code on the display, the most relevant ones are CC and dE. CC means the temperature controls are reporting an incorrect temperature setting or condition. dE indicates the defrost system has not operated properly in the last 24 hours, which can cause frost buildup, blocked airflow, and longer compressor runtime.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty condenser coils** Dust and debris on the coils reduce heat rejection and force the compressor to run longer to cool the cabinet.

@@ -19,8 +19,6 @@ An Electrolux dryer that won't start means the machine does not begin tumbling o
 
 The two main branches are no power at all versus power present but the cycle will not initiate. Common culprits include a blown thermal fuse, a door that isn't latching correctly, a tripped breaker, a failed start switch, a broken drive belt, or user settings like Child Lock or Delayed Start blocking operation.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Thermal fuse blown** The thermal fuse opens when the dryer overheats and will not reset, cutting all power to the motor circuit until you replace it.
@@ -57,8 +55,8 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Electrolux Dryer Ad error code](/posts/electrolux-dryer-ad-error-code/)
 - [Electrolux Dryer E 09 error code](/posts/electrolux-dryer-e-09-error-code/)
-- [Electrolux Dryer E 10 error code](/posts/electrolux-dryer-e-10-error-code/)
-- [Electrolux Dryer E 11 error code](/posts/electrolux-dryer-e-11-error-code/)
+- Electrolux Dryer E 10 error code
+- Electrolux Dryer E 11 error code
 - [Electrolux Dryer E 31 error code](/posts/electrolux-dryer-e-31-error-code/)
 - [Electrolux Dryer E 42 error code](/posts/electrolux-dryer-e-42-error-code/)
 - [Electrolux Dryer E 51 error code](/posts/electrolux-dryer-e-51-error-code/)

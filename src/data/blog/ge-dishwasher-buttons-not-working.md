@@ -19,8 +19,6 @@ When your GE dishwasher buttons stop responding but the display lights are still
 
 The most common cause is a worn-out touchpad where the conductive coating or membrane has failed. Physical obstructions like grease or debris can also prevent buttons from making proper contact. Less often, the wire harness connecting the touchpad to the control board has loose or corroded connections.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed touchpad or user interface** The conductive coating on the touchpad has worn out or the membrane circuit has failed, preventing button presses from registering even though the display lights work.
@@ -51,18 +49,18 @@ The most common cause is a worn-out touchpad where the conductive coating or mem
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Ge Dishwasher C1 error code](/posts/ge-dishwasher-c1-error-code/)
-- [Ge Dishwasher C2 error code](/posts/ge-dishwasher-c2-error-code/)
-- [Ge Dishwasher C3 error code](/posts/ge-dishwasher-c3-error-code/)
-- [Ge Dishwasher C4 error code](/posts/ge-dishwasher-c4-error-code/)
-- [Ge Dishwasher C5 error code](/posts/ge-dishwasher-c5-error-code/)
-- [Ge Dishwasher C6 error code](/posts/ge-dishwasher-c6-error-code/)
-- [Ge Dishwasher C7 error code](/posts/ge-dishwasher-c7-error-code/)
-- [Ge Dishwasher C8 error code](/posts/ge-dishwasher-c8-error-code/)
-- [Ge Dishwasher Ef error code](/posts/ge-dishwasher-ef-error-code/)
+- Ge Dishwasher C1 error code
+- Ge Dishwasher C2 error code
+- Ge Dishwasher C3 error code
+- Ge Dishwasher C4 error code
+- Ge Dishwasher C5 error code
+- Ge Dishwasher C6 error code
+- Ge Dishwasher C7 error code
+- Ge Dishwasher C8 error code
+- Ge Dishwasher Ef error code
 - [Ge Dishwasher F56 error code](/posts/ge-dishwasher-f56-error-code/)
-- [Ge Dishwasher F9 error code](/posts/ge-dishwasher-f9-error-code/)
-- [Ge Dishwasher Ff error code](/posts/ge-dishwasher-ff-error-code/)
+- Ge Dishwasher F9 error code
+- Ge Dishwasher Ff error code
 
 ## When to Call a Pro
 

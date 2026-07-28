@@ -20,8 +20,6 @@ When your Maytag oven door won't lock, the range is either unable to engage the 
 
 It's important to distinguish this from the normal "Loc" or "Lock" indicator, which is the control lock feature that disables the keypad and locks the door as a safety measure. Maytag states that controls and the door cannot be locked while the oven is actively running. If you see "Loc" on the display, that's typically a control lock state, not a hardware fault.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Faulty lock motor or door lock assembly** The motor that drives the latch can fail and is the most common electrical cause when the door won't physically engage or disengage.

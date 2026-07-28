@@ -13,11 +13,8 @@ money_part: "Cooling fan assembly"
 most_likely_cause: "Duty cycle exceeded"
 ---
 
-## Miller Welder H1 Fault Code — What It Means
-
+## What this code means
 The H1 fault on Miller welders (Dynasty TIG, Maxstar, Multimatic, and Millermatic series) indicates a thermal overload — the machine's internal temperature exceeded the protection threshold. Miller's thermal management system uses thermistors to monitor the heat sink and power module temps; when they reach the cutoff point, the H1 code appears and all welding output stops until the unit cools.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -58,11 +55,9 @@ Compiled from manufacturer service manuals and authorized documentation.
 | Help 8 | Torch trigger is depressed. Release trigger to continue. | The torch or gun trigger was held, or is stuck, when the code appeared. | Release the torch trigger. If the code stays with the trigger released, inspect the trigger switch and remote lead for a stuck contact or short. |
 | H25 | Duty Cycle Limit Exceeded. | Welding at higher amperage, voltage, or wire feed speed, or longer, than the rated duty cycle. This, not H1, is Miller's actual duty-cycle code on this H-code equipment. | Wait about 15 minutes for the unit to cool, then reduce amperage, voltage, wire feed speed, or duty cycle before restarting. |
 
-
 ## How to troubleshoot Miller Welder Fault Code H1
 
 H1 / Help 1 is a power-electronics fault, not a thermal or duty-cycle trip. On Maxstar and Dynasty inverters it is a primary IGBT overcurrent in the primary power circuit; on Miller feeders and newer digital panels the literal H1 display is an input current sensor malfunction. In both cases: power cycle once, and if it returns, stop and contact a Miller Factory Authorized Service Agent. Internal bus capacitors hold a lethal charge, so do not open the unit. Genuine overheating and duty-cycle limits appear as different codes: Help 3 (bottom heat sink) and Help 5 (top heat sink) over-temperature on inverters, and H25 (Duty Cycle Limit Exceeded) on feeders. Always confirm any code against the manual for your exact model.
-
 
 ## Frequently asked questions
 
@@ -86,9 +81,7 @@ Generally no. Because H1 / Help 1 points to the primary IGBT power circuit or an
 
 Older Maxstar and Dynasty models spell the code out as 'Help 1' on the voltmeter/ammeter display, while feeders and some newer digital panels abbreviate faults to an H-number such as H1. The two families also number faults differently (for example Help 8 is a torch-trigger message on a Dynasty, while H1 on a feeder is an input current sensor fault), so always confirm the meaning against your specific model's manual.
 
-
 ## Related guides
 
 - [Emerson E2 Controller Error Codes](/posts/emerson-e2-controller-error-codes/)
 - [Dixell Xr60C P1 Error Code](/posts/dixell-xr60c-p1-error-code/)
-

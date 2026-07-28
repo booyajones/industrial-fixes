@@ -13,11 +13,8 @@ money_part: "Danfoss FC 302 control card"
 most_likely_cause: "Incorrect motor nameplate data entered in the drive"
 ---
 
-## Danfoss FC302 VFD ALARM 57 — What It Means
-
+## What this code means
 ALARM 57 on a Danfoss VLT FC 302 is labeled "AMA internal fault." This means the drive's Automatic Motor Adaptation (AMA) procedure has encountered an internal error and could not complete. The AMA routine measures motor characteristics to optimize drive performance, and this fault indicates the process failed. Danfoss instructs technicians to restart the AMA and continue retrying until the procedure completes successfully. If the alarm persists after multiple attempts with correct motor data and wiring, the fault likely points to an internal drive hardware problem requiring manufacturer service.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,10 +44,3 @@ ALARM 57 on a Danfoss VLT FC 302 is labeled "AMA internal fault." This means the
 ## When to Call a Pro
 
 Call a qualified VFD technician or Danfoss-authorized service provider if ALARM 57 persists after you have verified correct motor nameplate data entry, inspected and confirmed proper motor wiring, and retried the AMA procedure at least twice. Repeated AMA internal faults after correct setup indicate a hardware issue inside the drive that requires factory-level diagnostics and potentially control card or power section replacement. Do not attempt to disassemble or repair internal drive components yourself, as this work requires specialized training and will void warranty coverage.
-
-## See Also
-
-- [Danfoss FC302 Alarm 34 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-34-fault-code/)
-- [Danfoss FC302 VFD Alarm 46 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-46-fault-code/)
-- [Danfoss FC302 Alarm AL 29 — Causes & Fix](/posts/danfoss-fc302-fault-al-29/)
-- [Danfoss FC302 Alarm 36 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-36-fault-code/)

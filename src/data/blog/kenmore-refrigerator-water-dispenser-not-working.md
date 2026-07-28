@@ -19,8 +19,6 @@ When a Kenmore refrigerator water dispenser stops working, the unit is not deliv
 
 The dispenser may be silent when you press the lever, or you may hear the valve attempt to open but get no water flow. Common causes include a restricted water filter, frozen internal lines or reservoir, a closed or kinked house supply line, a failed inlet valve, a broken dispenser switch or lever, or the dispenser lock being engaged.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged or old water filter** A filter past its service life or blocked with sediment restricts flow and is one of the most common causes of no dispenser water.
@@ -54,9 +52,9 @@ The dispenser may be silent when you press the lever, or you may hear the valve 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kenmore Refrigerator Er 1F error code](/posts/kenmore-refrigerator-er-1f-error-code/)
-- [Kenmore Refrigerator Er Dh error code](/posts/kenmore-refrigerator-er-dh-error-code/)
-- [Kenmore Refrigerator Er Ff error code](/posts/kenmore-refrigerator-er-ff-error-code/)
+- Kenmore Refrigerator Er 1F error code
+- Kenmore Refrigerator Er Dh error code
+- Kenmore Refrigerator Er Ff error code
 
 ## When to Call a Pro
 

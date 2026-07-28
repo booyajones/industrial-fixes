@@ -21,8 +21,7 @@ part_price: "$80-200 for option board, $150-300 for main control board"
 no_buy_pct: "60%"
 ---
 
-## Yaskawa GA800 F022 — What It Means
-
+## What this code means
 The F022 fault on a Yaskawa GA800 VFD indicates an External Fault or Option Board External Fault. This means the drive has received a fault logic signal from an installed option board (such as a communication module, PID controller card, or analog input module) or from a dedicated external fault input terminal. When this signal is active, the drive halts operation immediately to protect the system.
 
 The fault does not originate inside the drive itself. Instead, it comes from external control logic like a PLC, safety relay, encoder feedback instability, or a missing jumper on safety terminals. The drive is simply reporting that something connected to it has commanded a shutdown. You need to identify which external device or terminal is sending the fault signal before the drive will run again.
@@ -30,8 +29,6 @@ The fault does not originate inside the drive itself. Instead, it comes from ext
 ## Before You Replace Anything
 
 Technicians often replace the main control board or option board first. Check the fault log and PLC/safety relay states before swapping any boards, most F022 faults trace to wiring, jumpers, or upstream control logic.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

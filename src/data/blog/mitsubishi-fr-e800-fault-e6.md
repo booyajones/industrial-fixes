@@ -13,11 +13,8 @@ money_part: "Braking resistor"
 most_likely_cause: "Failed braking transistor"
 ---
 
-## Mitsubishi FR-E800 Fault E6 — What It Means
-
+## What this code means
 Fault E6 on the Mitsubishi FR-E800 inverter indicates a brake transistor fault — the internal braking transistor (used to dissipate regenerative energy during deceleration) has failed or is operating outside normal parameters. The FR-E800 monitors the braking transistor duty cycle and temperature; if the transistor shorts or the braking resistor circuit is open, E6 trips to prevent a DC bus overvoltage condition.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -43,18 +40,3 @@ Fault E6 on the Mitsubishi FR-E800 inverter indicates a brake transistor fault �
 ## When to Call a Pro
 
 Internal braking transistor replacement requires drive disassembly and component-level repair. Mitsubishi authorized service handles transistor-level repairs for FR-E800 units.
-
-## Related Articles
-
-- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
-- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
-- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
-- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
-- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
-
-## See Also
-
-- [Mitsubishi MR-J4 Servo Amplifier Alarm Codes — AL.10, AL.16, AL.30, AL.50 Fix](/posts/mitsubishi-mr-j4-servo-alarm-codes/)
-- [Mitsubishi P4 Error Code — Drain System Fault: Causes & Fix](/posts/mitsubishi-p4-error-code/)
-- [Mitsubishi FR-A700 Fault Codes - What It Means and How to Fix It](/posts/mitsubishi-fr-a700-fault-codes/)
-- [Mitsubishi P-Series H6 — Outdoor Fan Motor Fix](/posts/mitsubishi-heat-pump-error-code-h6/)

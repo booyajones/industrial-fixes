@@ -53,7 +53,7 @@ The valve fails when sediment clogs the inlet screens, the solenoid coils burn o
 
 If this part is failing you may also see one of these codes:
 
-- [Ge Washer E23 error code](/posts/ge-washer-e23-error-code/)
+- Ge Washer E23 error code
 
 ## When to Call a Pro
 

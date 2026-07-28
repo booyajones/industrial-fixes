@@ -19,8 +19,6 @@ When your Bosch refrigerator stops making ice, the ice maker assembly is either 
 
 The ice maker needs water pressure above 20 psi, a freezer temperature at or below 10°F, and clear pathways for water to reach the mold. If any of these conditions are not met, the ice maker stops cycling or fails to freeze water into cubes.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Ice maker switched off** The manual switch behind the ice bucket or the dispenser button is in the Off position, which is the most common oversight.
@@ -54,14 +52,14 @@ The ice maker needs water pressure above 20 psi, a freezer temperature at or bel
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Bosch Refrigerator E01 error code](/posts/bosch-refrigerator-e01-error-code/)
+- Bosch Refrigerator E01 error code
 - [Bosch Refrigerator E02 error code](/posts/bosch-refrigerator-e02-error-code/)
-- [Bosch Refrigerator E03 error code](/posts/bosch-refrigerator-e03-error-code/)
-- [Bosch Refrigerator E10 error code](/posts/bosch-refrigerator-e10-error-code/)
-- [Bosch Refrigerator E11 error code](/posts/bosch-refrigerator-e11-error-code/)
-- [Bosch Refrigerator E15 error code](/posts/bosch-refrigerator-e15-error-code/)
-- [Bosch Refrigerator E20 error code](/posts/bosch-refrigerator-e20-error-code/)
-- [Bosch Refrigerator E21 error code](/posts/bosch-refrigerator-e21-error-code/)
+- Bosch Refrigerator E03 error code
+- Bosch Refrigerator E10 error code
+- Bosch Refrigerator E11 error code
+- Bosch Refrigerator E15 error code
+- Bosch Refrigerator E20 error code
+- Bosch Refrigerator E21 error code
 
 ## When to Call a Pro
 

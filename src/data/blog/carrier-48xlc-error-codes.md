@@ -18,8 +18,6 @@ money_part: "Run capacitor"
 
 The Carrier 48XLC is a light commercial single-package gas/electric rooftop unit in the 3–12.5 ton range. It is designed for small commercial applications — retail, schools, light industrial — and is installed on rooftops or pads. The 48XLC features Carrier's WeatherMaker control board, which uses an LED status indicator for standalone diagnostics and supports connection to Carrier's i-Vu or 33ZC zone controllers for BACnet/IP integration.
 
-[Jump to Fix](#fix)
-
 ## Carrier 48XLC LED Fault Code Reference
 
 | LED Flash | Fault |
@@ -65,18 +63,3 @@ The Carrier 48XLC is a light commercial single-package gas/electric rooftop unit
 ## When to Call a Pro
 
 Commercial packaged units require licensed HVAC-R technicians for refrigerant work and, in many jurisdictions, a commercial HVAC contractor license for service. BACnet/IP integration troubleshooting requires network access and familiarity with the building automation system. Compressor replacement on a 48XLC is a 4–8 hour job requiring cranes or rigging for heavy-tonnage units.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier Error Code 17 - Causes & Fix](/posts/carrier-error-code-17/)
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier Error Code 58 — Causes & Fix](/posts/carrier-58-error-code/)
-- [Carrier Furnace Error Codes — Complete Guide](/posts/carrier-furnace-error-codes/)

@@ -21,8 +21,7 @@ free_checks:
 part_price: "$40-70"
 ---
 
-## GE Range FC Error Code — What It Means
-
+## What this code means
 The FC code on a GE range indicates a door-lock circuit fault. The control board is receiving conflicting or invalid door-lock signals, typically one switch reporting the door is locked while another reports it is unlocked at the same time. This error most often appears after a self-clean cycle or when the door lock mechanism has jammed or failed.
 
 The fault usually points to a problem in the oven door lock assembly, the latch position switches inside that assembly, or the wiring harness connecting them to the control board. Less commonly, the control board itself can send the fault code if the circuit logic fails. GE technicians typically diagnose FC by inspecting the mechanical latch for binding, testing the lock switches for continuity, and checking connector pins and wiring for damage.
@@ -30,8 +29,6 @@ The fault usually points to a problem in the oven door lock assembly, the latch 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board first when the real problem is a stuck or damaged door latch assembly. Always inspect the latch mechanism for binding and test the latch switches with a multimeter before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

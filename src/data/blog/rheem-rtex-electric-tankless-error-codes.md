@@ -148,10 +148,3 @@ A: In areas with hard water (above 7 grains per gallon), descale annually. In so
 
 **Q: What's the lifespan of Rheem RTEX heating elements?**
 A: Typically 5–10 years depending on water hardness and usage. Hard water accelerates scale buildup and shortens element life. Regular descaling is the single best thing you can do to extend element lifespan.
-
-## See Also
-
-- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)
-- [Rheem RTGH-95DVLN Condensing Tankless Water Heater Error Codes](/posts/rheem-rtgh-95dvln-error-codes/)
-- [Rheem Furnace 7 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-7-flashes/)
-- [Rheem Furnace 7 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-error-code-7-flashes/)

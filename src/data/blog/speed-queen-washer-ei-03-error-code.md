@@ -14,13 +14,10 @@ money_part: "Speed Queen main control board"
 most_likely_cause: "Wrong machine profile loaded into the control"
 ---
 
-## Speed Queen EI:03 Error Code — What It Means
-
+## What this code means
 The EI:03 code on a Speed Queen washer is a communication or data mismatch error. It means the control board has received or is trying to use data that is not correct for your specific machine type. Unlike codes that point to a faulty sensor or blocked drain, EI:03 is a software or configuration problem. The control thinks it is running a different model or platform than the one it is actually installed in.
 
 This code usually appears after a control board replacement, a service programming session, or a firmware update where the wrong machine profile was loaded. It is not caused by mechanical parts like valves, pumps, or lid locks. The fix almost always involves verifying the correct model data and reprogramming or replacing the control board with the correct configuration.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

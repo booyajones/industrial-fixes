@@ -21,8 +21,7 @@ part_price: "$30-60"
 no_buy_pct: "60%"
 ---
 
-## Bosch Tankless Water Heater E2 Error — What It Means
-
+## What this code means
 On Bosch tankless water heaters, E2 signals a cold-water inlet temperature sensor error. The sensor on the inlet pipe is either reading outside normal range, has a faulty connection, or has failed altogether. This sensor tells the control board the incoming water temperature so the unit can calculate how much heat to add. When the signal is missing or out of bounds, the heater shuts down and displays E2.
 
 The sensor is a clip-on thermistor mounted to the 1/2" copper cold-water inlet pipe on the lower right side of the unit. It connects with two blue wires. Corrosion, dirt on the contact surface, loose spade terminals, or incorrect placement on an elbow instead of a straight section will all trigger the code. If the sensor and wiring check out, the control board is the next suspect.
@@ -30,8 +29,6 @@ The sensor is a clip-on thermistor mounted to the 1/2" copper cold-water inlet p
 ## Before You Replace Anything
 
 Many technicians replace the control board first. Before ordering a new board, clean the sensor contact surface, verify it is clipped to the straight diagonal section of pipe (not an elbow), and test by swapping the inlet and outlet sensors, which are identical.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

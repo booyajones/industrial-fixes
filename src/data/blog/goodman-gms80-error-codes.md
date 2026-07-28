@@ -17,8 +17,6 @@ money_part: "Hot surface igniter"
 
 The Goodman GMS80 is an 80% AFUE single-stage gas furnace with a PSC blower motor. It is a straightforward, high-reliability unit widely used in residential applications and is one of the most common furnaces in service across North America. The GMS80 uses a single-LED diagnostic system on the Goodman control board — the same flash code system used across the Goodman/Amana/Daikin residential furnace lineup. The LED is visible on the board through the lower access panel window.
 
-[Jump to Fix](#fix)
-
 ## Goodman GMS80 LED Flash Code Reference
 
 | Flash Count | Fault |
@@ -63,18 +61,3 @@ The Goodman GMS80 is an 80% AFUE single-stage gas furnace with a PSC blower moto
 ## When to Call a Pro
 
 A Goodman GMS80 that trips the rollout switch (Code 9) requires professional inspection before return to service. A cracked heat exchanger allows combustion gases to mix with circulated air — a carbon monoxide risk. Do not bypass the rollout switch. If the furnace repeatedly trips the limit (Code 4) after filter replacement, a cracked heat exchanger or ECM motor issue may be the root cause requiring professional diagnosis.
-
-## Related Articles
-
-- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
-- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
-- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
-- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
-- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)
-
-## See Also
-
-- [Goodman 7 Flash Error Code — Ignition Lockout Fix](/posts/goodman-7-flash-error-code/)
-- [Goodman GSZC18 Heat Pump Error Codes — Fault Code Diagnostic Guide](/posts/goodman-gszc18-error-codes/)
-- [Goodman GVZC18 Heat Pump Error Codes: iQ Drive Fault Diagnostics](/posts/goodman-gvzc18-heat-pump-error-codes/)
-- [Goodman Furnace E2 Error Code — Flame Sense Fault (Digital Display Models)](/posts/goodman-furnace-e2-error-code/)

@@ -14,8 +14,7 @@ most_likely_cause: "Undefined or option-specific alarm code"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa GA800 A.146 Fault — What It Means
-
+## What this code means
 The GA800 fault code A.146 does not appear in publicly available Yaskawa alarm tables or technical documentation at this time. Yaskawa GA-series drives use alphanumeric fault and alarm codes that are model-specific and sometimes depend on installed option cards such as encoder feedback or communication modules. Because the exact meaning of A.146 is not verified, you must consult the alarm code table in your GA800 instruction manual or contact Yaskawa technical support with your drive's nameplate model number and serial number. The drive will log the fault in its fault history menu, which will show the exact code and any accompanying data that can help narrow the circuit or subsystem involved.
 
 In general, Yaskawa VFD troubleshooting starts with reading the digital operator display, pulling the fault history, inspecting all field wiring for loose connections or damage, checking the motor and load for mechanical binding or insulation faults, and clearing the fault only after the underlying issue is corrected. If the fault returns immediately after a power cycle, the cause is still present in the wiring, motor, load, or a control or option board inside the drive. Do not replace the entire drive or any board until you have verified the fault definition and followed the diagnostic steps in the manual.
@@ -23,8 +22,6 @@ In general, Yaskawa VFD troubleshooting starts with reading the digital operator
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire VFD or the control board without first checking field wiring, motor insulation, and encoder or option-card connections. Always pull the fault history, verify all terminations, and consult the manual's alarm table before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa-authorized service partner when the A.146 fault persists after you have checked all field wiring and the code is not defined in your manual. VFD diagnostics often require specialized test equipment to measure control voltages, encoder signals, and board-level circuits. A technician can decode option-specific or firmware-specific alarms, verify whether the control board or an option card has failed, and order the correct replacement part using your drive's full model and serial number. Do not attempt to open the drive or replace internal boards if you are not trained in high-voltage DC bus safety, because lethal voltage can remain stored in the bus capacitors even after input power is removed.
 
 **Rough cost:** A pro service call runs about $200–600 depending on whether the fix is wiring, an option card, the control board, or the drive itself.
-
-## See Also
-
-- [Yaskawa GA800 E52 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e52-fault-code/)
-- [Yaskawa GA800 E69 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e69-fault-code/)
-- [Yaskawa GA800 E79 - Causes & Fix](/posts/yaskawa-ga800-vfd-e79-fault-code/)
-- [Yaskawa GA800 E65 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e65-fault-code/)

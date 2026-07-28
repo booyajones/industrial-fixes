@@ -19,8 +19,6 @@ When your Amana washer is leaking water, you're seeing water escape from the fil
 
 Amana identifies different common leak sources depending on washer type. For front-load models, the manufacturer points to the door seal, debris in the seal, detergent or dispenser issues, machine not level, and excess suds from non-HE or too much detergent. For top-load units, Amana lists hot and cold inlet hoses, hose washers, faucet valve position, kinks or clogs in hoses, and drain hose installation or siphoning issues as the most frequent culprits.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Worn or damaged door seal (front-load)** The door bellow can tear, distort, or trap debris that breaks the seal and allows water to leak out during fill or wash.
@@ -55,18 +53,18 @@ Amana identifies different common leak sources depending on washer type. For fro
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Amana Washer Dlo error code](/posts/amana-washer-dlo-error-code/)
-- [Amana Washer Drn error code](/posts/amana-washer-drn-error-code/)
-- [Amana Washer Du error code](/posts/amana-washer-du-error-code/)
-- [Amana Washer F5 E2 error code](/posts/amana-washer-f5-e2-error-code/)
-- [Amana Washer F7 E1 error code](/posts/amana-washer-f7-e1-error-code/)
-- [Amana Washer F8 E1 error code](/posts/amana-washer-f8-e1-error-code/)
-- [Amana Washer F8 E2 error code](/posts/amana-washer-f8-e2-error-code/)
-- [Amana Washer F9 E1 error code](/posts/amana-washer-f9-e1-error-code/)
-- [Amana Washer Fd error code](/posts/amana-washer-fd-error-code/)
-- [Amana Washer Hc error code](/posts/amana-washer-hc-error-code/)
-- [Amana Washer Ldl error code](/posts/amana-washer-ldl-error-code/)
-- [Amana Washer Ldu error code](/posts/amana-washer-ldu-error-code/)
+- Amana Washer Dlo error code
+- Amana Washer Drn error code
+- Amana Washer Du error code
+- Amana Washer F5 E2 error code
+- Amana Washer F7 E1 error code
+- Amana Washer F8 E1 error code
+- Amana Washer F8 E2 error code
+- Amana Washer F9 E1 error code
+- Amana Washer Fd error code
+- Amana Washer Hc error code
+- Amana Washer Ldl error code
+- Amana Washer Ldu error code
 
 ## When to Call a Pro
 

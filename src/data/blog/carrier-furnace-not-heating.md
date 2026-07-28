@@ -20,8 +20,6 @@ A Carrier furnace that is not heating is a symptom, not a single fault code. It 
 
 If your furnace displays a status code, the meaning depends on that code. For example, Carrier's published code tables show Code 33 as a limit circuit fault or open limit or rollout safety, Code 13 or 33 as an open flame rollout switch, Code 23 as a pressure switch stuck closed condition, and Code 24 as a 24-V fuse problem. Carrier's consumer troubleshooting page treats general "not heating" first as a thermostat not set to heat, no power to the thermostat, incorrect setpoint, dirty filter, or blocked vents.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Thermostat not calling for heat** Wrong mode, low batteries, setpoint below room temperature, or no thermostat power prevents the furnace from starting.
@@ -62,10 +60,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a technician for any gas-train work (ignitor, flame sensor, burners, gas valve, or supply checks), repeated lockout conditions, pressure-switch or venting diagnostics, control-board replacement, or if you are not comfortable working with line voltage or reading status codes. Professional diagnosis maps the LED code to the correct fault family before replacing parts, which saves time and avoids unnecessary expenses. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Carrier 45 Error Code — Causes & Fix](/posts/carrier-45-error-code/)
-- [Carrier 24ACC Air Conditioner Error Codes — Fault Code Diagnostic Guide](/posts/carrier-24acc-error-codes/)
-- [Carrier Geothermal Heat Pump Error Codes Guide](/posts/carrier-geothermal-error-codes/)
-- [Carrier Error Code 66 — Pressure Switch Fault](/posts/carrier-66-error-code/)

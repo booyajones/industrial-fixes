@@ -19,8 +19,6 @@ A KitchenAid microwave that won't start is usually not tied to one specific erro
 
 If you see a display or any error code, check your owner's manual for the model-specific meaning rather than assuming one universal explanation. If the unit is totally unresponsive or the Start button does nothing, the documented checks point first to Control Lock, power supply, Delay Start, and door interlock operation before internal components.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Control Lock is active** KitchenAid states the control panel pads are disabled and the microwave will not start when Control Lock is on.

@@ -17,8 +17,7 @@ money_part: "User interface board (console control board)"
 part_price: "$50-200"
 ---
 
-## Maytag Dryer F70 Error Code — What It Means
-
+## What this code means
 The F70 error on a Maytag dryer indicates a communication fault between the user interface (control console) and the main control board. The two boards are not exchanging data reliably, so the dryer cannot operate normally. Maytag's official guidance describes this as a control communication problem and directs you to power down the unit, restore power, and run a timed dry cycle to see if the code returns.
 
 In practical terms, the electronics inside your dryer have stopped talking to each other. This is not a mechanical problem with the drum, belt, or heating system. It is an electrical fault in the control wiring or one of the two main circuit boards. A simple reset clears the code about half the time. When it does not, you are looking at inspecting connectors, testing the wiring harness, or replacing one of the control boards.
@@ -26,8 +25,6 @@ In practical terms, the electronics inside your dryer have stopped talking to ea
 ## Before You Replace Anything
 
 Many people replace the main control board immediately, but the fault is often just a loose or corroded connector at one of the harnesses. Pull and reseat every connector between the control console and the main board before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

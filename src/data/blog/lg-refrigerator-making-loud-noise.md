@@ -19,8 +19,6 @@ LG refrigerator making loud noise is not a fault code. It is a symptom category 
 
 If the sound is buzzing or clicking and the icemaker is on but the water supply is disconnected, that is a common cause and turning the icemaker off stops the noise. If the sound is rattling, whirring, or squealing, it can be caused by a fan rubbing an obstruction, a frozen or interrupted fan, or an abnormal compressor sound. If the noise returns after the doors close, it is typically due to frost buildup around the fan housing.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Frost buildup around the evaporator fan housing** Frost accumulating on or near the fan in the freezer section causes rattling or whirring noise after the doors close, often tied to poor leveling, door misalignment, or overly low temperature settings.
@@ -69,10 +67,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a pro if you cannot safely access the evaporator or condenser fan compartments, if the noise is isolated to the compressor and you are not comfortable inspecting sealed-system components, or if frost buildup returns repeatedly after leveling and temperature corrections. Also call for help if the icemaker issue persists after turning it off or if you are not confident working with electrical connections or refrigerant lines.
-
-## See Also
-
-- [LG Range E0 Error Code - Causes & Fix](/posts/lg-range-e0-error-code/)
-- [LG Dryer Moisture Sensor & Thermistor Replacement - Signs & How-To](/posts/lg-dryer-moisture-sensor-thermistor-replacement/)
-- [LG Dryer HE Error Code - Causes & Fix](/posts/lg-dryer-he-error-code/)
-- [LG Oven Igniter Not Working - Causes & Fix](/posts/lg-oven-igniter-not-working/)

@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "LG microwave main control board"
 ---
 
-## LG Microwave F13 Error Code — What It Means
-
+## What this code means
 LG identifies the F13 error code as a voltage error in microwave models. The code indicates a problem with either the incoming electrical supply to the microwave or the internal power and control circuitry that senses and regulates voltage. LG does not provide a deeper component-level description for F13 in its public support documentation, so the exact failed subassembly is not named.
 
 Because the code is tied to voltage sensing and regulation, LG directs owners to contact service rather than attempt a user reset. The fault may originate on the supply side (receptacle, cord, connections) or within the appliance itself (main control board, power-supply section, or wiring harnesses). Without model-specific service documentation, technicians follow a supply-to-appliance diagnostic path to isolate the fault.
@@ -25,8 +24,6 @@ Because the code is tied to voltage sensing and regulation, LG directs owners to
 ## Before You Replace Anything
 
 Homeowners often replace the main control board without first verifying line voltage and inspecting the power cord and terminal connections. A loose or heat-damaged connection in the supply path can trigger a voltage fault and is much cheaper to fix than a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a professional technician for the F13 voltage error because diagnosis requires measuring line voltage under load, disassembling the microwave cabinet, and testing or replacing the main control board and power-supply circuitry. LG explicitly directs service for this code rather than a homeowner reset. The work involves high-voltage components (the microwave's internal supply runs at line voltage and feeds the magnetron circuit) and requires proper test equipment and knowledge of appliance power electronics. If you are uncomfortable working with 120 V AC, if you lack a multimeter and hand tools, or if the fault persists after you have verified good line voltage and clean connections, schedule a service call. A qualified appliance technician will isolate the fault, order the correct board or harness for your model, and complete the repair safely.
 
 **Rough cost:** A pro service call runs about $150–$350.
-
-## See Also
-
-- [LG Oven F7 Error Code - Causes & Fix](/posts/lg-oven-f7-error-code/)
-- [LG Range F1 Error Code - Causes & Fix](/posts/lg-range-f1-error-code/)
-- [LG Oven Self-Clean Not Working - Causes & Fix](/posts/lg-oven-self-clean-not-working/)
-- [LG Washer dE Error Code - Causes & Fix](/posts/lg-washer-de-error-code/)

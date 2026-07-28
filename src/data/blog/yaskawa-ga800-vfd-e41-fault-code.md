@@ -14,8 +14,7 @@ money_part: "GA800 Control Board"
 most_likely_cause: "Transcription or display error"
 ---
 
-## Yaskawa GA800 E41 Fault — What It Means
-
+## What this code means
 The E41 fault code is not verified in available Yaskawa GA800 troubleshooting documentation. Yaskawa VFD fault codes are model-specific and can vary between drive families. The GA800 uses fault and alarm codes displayed on the keypad and indicated by the LED status ring, but E41 does not appear in the manufacturer-facing materials for this model. It may be a transcription error for another code (such as EF1, oC, or Uv), an option-card related fault, or a code specific to a firmware version not covered in public documentation.
 
 Because VFD fault codes have precise meanings tied to internal diagnostics, protection circuits, and application wiring, attempting to troubleshoot without the correct definition can lead to misdiagnosis and unsafe conditions. The GA800 platform includes built-in diagnostics and status indication, so the drive itself will guide you to the fault source once you confirm the exact code and consult the correct manual or Yaskawa technical support.
@@ -23,8 +22,6 @@ Because VFD fault codes have precise meanings tied to internal diagnostics, prot
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board or power module after seeing an unfamiliar code, when the real cause is external wiring, a parameter setting, or an option card. Always verify the exact fault code in the drive's manual and check the application wiring and elementary diagram before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa support immediately if you see an unfamiliar fault code, if the drive will not clear the fault after a power cycle, or if you smell burning or see physical damage. VFD troubleshooting requires high-voltage safety training, knowledge of motor control wiring, and access to manufacturer diagnostics. The GA800 contains lethal DC bus voltage that persists after AC power is removed. Do not open the drive enclosure or attempt component-level repairs without proper lockout/tagout, discharge procedures, and manufacturer authorization. Yaskawa's technical support emphasizes using the drive's model, serial number, and exact fault code to guide diagnosis, and the manufacturer provides telephone support and field service for drives under warranty or service contract.
 
 **Rough cost:** A pro service call runs about $200-800 depending on diagnosis and parts.
-
-## See Also
-
-- [Yaskawa GA800 E01 Fault - Motor Data Error During Auto-Tune](/posts/yaskawa-ga800-e01-fault-code/)
-- [Yaskawa GA800 E84 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e84-fault-code/)
-- [Yaskawa A1000 AL16 - Causes & Fix](/posts/yaskawa-a1000-vfd-al-16-fault-code/)
-- [Yaskawa A1000 AL-31 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-31-fault-code/)

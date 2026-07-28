@@ -13,13 +13,10 @@ money_part: "Motor PTC thermistor / temperature sensor"
 most_likely_cause: "Motor overload or mechanical jam"
 ---
 
-## Siemens Micromaster F0011 — What It Means
-
+## What this code means
 Fault F0011 on a Siemens Micromaster VFD indicates motor overtemperature or motor over-temperature I²t protection has tripped. The drive has calculated (using its internal thermal model) or measured (via PTC thermistor) that the motor has exceeded safe operating temperature. On Micromaster 440, if PTC terminal resistance exceeds approximately 1500 Ω with parameter P0601 enabled, the drive issues warning A0511 and then fault F0011.
 
 This fault is almost never caused by a failed drive board. The real culprits are typically motor overload, incorrect motor parameter settings, extended operation at low speed (which reduces shaft-mounted cooling while motor heating continues), or an open or shorted temperature sensor circuit. The drive is protecting the motor from thermal damage.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ This fault is almost never caused by a failed drive board. The real culprits are
 ## When to Call a Pro
 
 Call a qualified electrician or VFD technician if you are not comfortable working with three-phase motor circuits, if the fault persists after verifying the motor and load are sound, or if you suspect incorrect drive programming or mismatched motor parameters. A professional can perform load testing, measure actual motor temperature and current draw under operating conditions, verify the PTC sensor circuit with calibrated instruments, and optimize drive parameters (V/f curve, thermal time constant, boost settings) for your specific motor and application. If the motor itself is thermally damaged or the drive requires internal diagnostics beyond user-level parameters, professional service is the safest and most cost-effective path.
-
-## See Also
-
-- [Siemens Micromaster F0021 - Causes & Fix](/posts/siemens-micromaster-f0021-fault-code/)
-- [Siemens SINAMICS V20 F1 Fault — Causes & Fix](/posts/siemens-sinamics-v20-f1-fault/)
-- [Siemens G120 A05001 Fault Code - Causes & Fix](/posts/siemens-g120-vfd-a05001-fault-code/)
-- [Siemens Micromaster F0001 - Causes & Fix](/posts/siemens-micromaster-vfd-f0001-fault-code/)

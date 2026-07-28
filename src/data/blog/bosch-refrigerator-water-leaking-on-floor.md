@@ -19,8 +19,6 @@ A Bosch refrigerator leaking water onto the floor is not an error code. It is a 
 
 Bosch does not display a fault code for this symptom. The leak can appear from the front bottom, from inside the refrigerator compartment, near the water filter housing, or from rear water connections. Timing and location help pinpoint whether the issue is the drain path, a supply-line problem, or a door-seal/leveling fault.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Blocked defrost drain hole** Debris clogs the drain hole at the back of the fresh-food compartment, causing water to back up and leak from the appliance.
@@ -54,12 +52,12 @@ Bosch does not display a fault code for this symptom. The leak can appear from t
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Bosch Refrigerator E01 error code](/posts/bosch-refrigerator-e01-error-code/)
+- Bosch Refrigerator E01 error code
 - [Bosch Refrigerator E02 error code](/posts/bosch-refrigerator-e02-error-code/)
-- [Bosch Refrigerator E03 error code](/posts/bosch-refrigerator-e03-error-code/)
-- [Bosch Refrigerator E10 error code](/posts/bosch-refrigerator-e10-error-code/)
-- [Bosch Refrigerator E11 error code](/posts/bosch-refrigerator-e11-error-code/)
-- [Bosch Refrigerator E15 error code](/posts/bosch-refrigerator-e15-error-code/)
+- Bosch Refrigerator E03 error code
+- Bosch Refrigerator E10 error code
+- Bosch Refrigerator E11 error code
+- Bosch Refrigerator E15 error code
 - [Bosch Refrigerator E20 error code](/posts/bosch-refrigerator-e20-error-code/)
 - [Bosch Refrigerator E21 error code](/posts/bosch-refrigerator-e21-error-code/)
 

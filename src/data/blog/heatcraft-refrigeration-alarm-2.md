@@ -13,11 +13,8 @@ money_part: "Box temperature sensor (NTC thermistor)"
 most_likely_cause: "Low temperature setpoint configured too high for the application"
 ---
 
-## Heatcraft Refrigeration Alarm 2 — What It Means
-
+## What this code means
 Heatcraft Alarm 2 is a **low temperature alarm** — the refrigerated space temperature dropped below the configured low temperature setpoint. Heatcraft (a Lennox company) evaporator controllers used on walk-in coolers, freezers, and refrigerated warehouses monitor box temperature continuously; when it falls below the low limit for a sustained period, Alarm 2 is triggered. This protects product from freeze damage in cooler applications and alerts operators to potential equipment malfunction in freezer applications (where over-cooling can indicate a defrost failure or control fault).
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

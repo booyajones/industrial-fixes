@@ -17,8 +17,7 @@ money_part: "Samsung dryer thermistor / temperature sensor"
 part_price: "$15-50"
 ---
 
-## Samsung Dryer tCS Error Code — What It Means
-
+## What this code means
 The tCS code on a Samsung dryer indicates a temperature-sensing or over-temperature fault. Samsung groups tCS together with related codes like tC, t5, tO, t0, tE, and others under hotter-than-usual dryer temperature or malfunctioning temperature sensors. In practice the dryer has either sensed abnormal heating or cannot correctly read the thermistor (temperature sensor) feedback, and it shuts down as a safety measure. The code can mean the dryer is actually overheating due to blocked airflow, or that the sensor circuit is giving faulty readings.
 
 Technicians treat tCS complaints primarily as a thermistor or airflow problem until testing proves otherwise. The dryer's control relies on accurate temperature feedback to cycle the heater safely. When the thermistor reads out of range, has a loose connection, or when restricted exhaust air causes the cabinet to overheat, the control throws the tCS fault and stops the cycle.
@@ -26,8 +25,6 @@ Technicians treat tCS complaints primarily as a thermistor or airflow problem un
 ## Before You Replace Anything
 
 Many people replace the control board first, but the tCS fault is almost always caused by a clogged vent or a failed thermistor. Check airflow and ohm-test the thermistor before buying any control electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

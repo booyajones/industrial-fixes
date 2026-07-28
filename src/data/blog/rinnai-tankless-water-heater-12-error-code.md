@@ -13,11 +13,8 @@ money_part: "Flame rod assembly"
 most_likely_cause: "Low or interrupted gas supply"
 ---
 
-## Rinnai Code 12 — What It Means
-
+## What this code means
 Rinnai error code 12 indicates a flame failure or lost flame fault. The heater detected that ignition occurred or should have occurred, but the flame signal was not present or disappeared during operation. This code is tied to the flame rod and flame detection circuit. Rinnai's diagnostic guidance points to issues such as a bad connection at the flame rod, a damaged or contaminated flame rod, low inlet gas pressure, a defective gas valve, a faulty PC board, improper venting, or electrical grounding and polarity problems. The heater shuts down to protect itself when it cannot confirm stable combustion.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ Rinnai error code 12 indicates a flame failure or lost flame fault. The heater d
 ## When to Call a Pro
 
 Call a licensed technician if you are not comfortable working with gas appliances, measuring gas pressure, or diagnosing electrical and grounding issues. If you have confirmed the gas supply is good, cleaned the flame rod, verified venting, and the code persists, a professional with a combustion analyzer and electrical test equipment can isolate gas valve or control board faults and perform safe replacements. Any work involving gas connections, pressure testing, or control board replacement should be done by a qualified service technician to maintain warranty coverage and make sure safe operation.
-
-## See Also
-
-- [Rinnai Error Code 31 — Causes & Fix](/posts/rinnai-error-code-31/)
-- [Rinnai Error Code 52 — Outlet Water Temperature Sensor Fault](/posts/rinnai-error-code-52/)
-- [Rinnai RUR Series Error Codes — Tankless Water Heater Fault Guide](/posts/rinnai-rur-error-codes/)
-- [Rinnai Error Code 25 — Causes & Fix](/posts/rinnai-error-code-25/)

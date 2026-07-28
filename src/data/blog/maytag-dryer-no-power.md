@@ -19,8 +19,6 @@ A Maytag dryer with no power means the unit has no electrical supply or cannot e
 
 The dryer may have lost one or both legs of its 240-volt household supply, or an internal safety device has opened and interrupted the control circuit. Electric dryers require 240 volts across two hot legs (L1 and L2) and 120 volts from each leg to neutral. If one breaker trips or one fuse blows, the dryer can lose power entirely even though the outlet may still show some voltage.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Tripped breaker or blown fuse** Electric dryers use two household fuses or breakers, and losing one leg cuts power to the unit even if the other leg is live.
@@ -55,10 +53,10 @@ Seeing a code on the display? These match this problem:
 
 - [Maytag Dryer Err error code](/posts/maytag-dryer-err-error-code/)
 - [Maytag Dryer F01 error code](/posts/maytag-dryer-f01-error-code/)
-- [Maytag Dryer F02 error code](/posts/maytag-dryer-f02-error-code/)
+- Maytag Dryer F02 error code
 - [Maytag Dryer F1E1 error code](/posts/maytag-dryer-f1e1-error-code/)
 - [Maytag Dryer F1E3 error code](/posts/maytag-dryer-f1e3-error-code/)
-- [Maytag Dryer F1E4 error code](/posts/maytag-dryer-f1e4-error-code/)
+- Maytag Dryer F1E4 error code
 - [Maytag Dryer F1E5 error code](/posts/maytag-dryer-f1e5-error-code/)
 - [Maytag Dryer F20 error code](/posts/maytag-dryer-f20-error-code/)
 - [Maytag Dryer F22 error code](/posts/maytag-dryer-f22-error-code/)

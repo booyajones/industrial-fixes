@@ -148,16 +148,3 @@ This guide covers the five most common PowerFlex 755 fault codes and what to do 
 F25 ground faults involving motor winding failure and F111 faults requiring internal supply board replacement should be handled by a licensed electrician or Rockwell Automation-certified technician. DC bus and IGBT work inside the drive is potentially lethal — the bus capacitors hold lethal charge for several minutes after power-down. Always verify bus voltage has discharged to below 50 VDC before opening the drive enclosure.
 
 > **Pro tip:** The PowerFlex 755 stores a fault queue (accessible at Parameter 250–254) with timestamps and operating conditions at the time of each fault. Always pull this data before clearing faults — it reveals patterns like faults that consistently occur at high ambient temperatures or at specific load points, which point directly to the root cause.
-
-## Related Articles
-
-- [AB PowerFlex 753 F35 Heatsink Overtemperature Fix](/posts/ab-powerflex-753-f35-heatsink/)
-- [AB PowerFlex 753 F12 DC Bus Overvoltage Fix](/posts/ab-powerflex-753-f12-dc-overvolt/)
-- [AB PowerFlex 525 F7 Motor Overload Fault](/posts/ab-powerflex-525-f7-fault/)
-
-## See Also
-
-- [Allen-Bradley PowerFlex F004 Fault — Undervoltage Fix](/posts/allen-bradley-powerflex-f004-fault/)
-- [Allen-Bradley PowerFlex F029 Fault — Analog Loss Fix](/posts/allen-bradley-powerflex-f029-fault/)
-- [Allen-Bradley PowerFlex Fault F012 — Causes & Fix](/posts/allen-bradley-powerflex-fault-f012/)
-- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)

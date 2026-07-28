@@ -20,8 +20,6 @@ When your Goodman furnace igniter is not working, the unit has typically complet
 
 This symptom is not a fault code on its own. It means either the igniter element itself has failed (cracked, worn out, or electrically open) or the control board is not sending voltage to the igniter because a safety interlock upstream has not been satisfied. Goodman furnaces follow a strict ignition sequence: thermostat calls for heat, inducer starts, pressure switch closes to prove draft, control board energizes the igniter, then the gas valve opens. A breakdown at any of these stages can prevent the igniter from working.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed hot surface igniter element** The igniter receives line voltage but does not glow because the ceramic or silicon carbide element is cracked, worn, or electrically open, which is the single most common direct failure in this symptom.
@@ -54,23 +52,16 @@ This symptom is not a fault code on its own. It means either the igniter element
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Goodman Furnace 1 Flash error code](/posts/goodman-furnace-1-flash-error-code/)
-- [Goodman Furnace 2 Flashes error code](/posts/goodman-furnace-2-flashes-error-code/)
-- [Goodman Furnace 4 Flashes error code](/posts/goodman-furnace-4-flashes-error-code/)
-- [Goodman Furnace 5 Flash error code](/posts/goodman-furnace-5-flash-error-code/)
-- [Goodman Furnace E1 error code](/posts/goodman-furnace-e1-error-code/)
-- [Goodman Furnace E2 error code](/posts/goodman-furnace-e2-error-code/)
-- [Goodman Furnace E3 error code](/posts/goodman-furnace-e3-error-code/)
-- [Goodman Furnace Ee2 error code](/posts/goodman-furnace-ee2-error-code/)
-- [Goodman Furnace Ef error code](/posts/goodman-furnace-ef-error-code/)
+- Goodman Furnace 1 Flash error code
+- Goodman Furnace 2 Flashes error code
+- Goodman Furnace 4 Flashes error code
+- Goodman Furnace 5 Flash error code
+- Goodman Furnace E1 error code
+- Goodman Furnace E2 error code
+- Goodman Furnace E3 error code
+- Goodman Furnace Ee2 error code
+- Goodman Furnace Ef error code
 
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you are not comfortable working with line voltage, natural gas, or propane, or if you cannot safely access the furnace control compartment and igniter. Professionals should handle all gas valve testing, gas pressure measurement with a manometer, control board replacement, and any work requiring soldering or rewiring of safety circuits. If the furnace shows an unfamiliar fault code, cycles on and off repeatedly, or you smell gas at any point, shut off the gas supply and call for service immediately. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Goodman EE2 Error Code: Control Board Communication Fault Fix](/posts/goodman-ee2-error-code/)
-- [Goodman 7 Flash Error Code — Ignition Lockout Fix](/posts/goodman-7-flash-error-code/)
-- [Goodman E0 Error Code - Causes & Fix](/posts/goodman-heat-pump-e0-error-code/)
-- [Goodman Heat Pump E1 Error Code — Pressure Switch Fault](/posts/goodman-heat-pump-error-code-e1/)

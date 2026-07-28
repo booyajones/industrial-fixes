@@ -14,13 +14,10 @@ money_part: "Carrier flame sensor"
 most_likely_cause: "Dirty or failed flame sensor"
 ---
 
-## Carrier Error Code 34 — What It Means
-
+## What this code means
 Carrier error code 34 is an ignition proving failure. Your furnace attempted to light the burners, but the control board did not receive a valid flame signal within the allowed time window. The furnace then shut down the gas valve and either retried the ignition sequence or locked out completely after repeated failures.
 
 This code points to a breakdown in the flame-sensing circuit, the ignition components, gas delivery, or the control board itself. The furnace may have actually ignited briefly, or it may have failed to light at all. Either way, the board did not confirm stable combustion and stopped the cycle for safety.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -53,10 +50,3 @@ This code points to a breakdown in the flame-sensing circuit, the ignition compo
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are uncomfortable working with gas, if the flame sensor and ignitor both look clean and intact but the code persists, or if you lack a multimeter and manometer to measure control voltage and gas pressure. A pro should also handle any situation where you smell gas, where the burners light but the flame pattern is yellow or lifting off the ports, or where the control board shows signs of moisture or burned traces. Flame-proving circuits involve low-microampere DC signals and precise grounding, so intermittent faults can be difficult to trace without experience and the correct diagnostic tools.
-
-## See Also
-
-- [Carrier Geothermal Heat Pump Error Codes Guide](/posts/carrier-geothermal-error-codes/)
-- [Carrier E16 Error Code - Causes & Fix](/posts/carrier-heat-pump-e16-error-code/)
-- [Carrier 52 Error Code — Causes & Fix](/posts/carrier-52-error-code/)
-- [Carrier 42 Error Code — Causes & Fix](/posts/carrier-42-error-code/)

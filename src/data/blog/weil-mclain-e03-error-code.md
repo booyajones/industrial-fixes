@@ -13,11 +13,8 @@ money_part: "Flame sensor"
 most_likely_cause: "Dirty or failed flame sensor"
 ---
 
-## Weil-McLain E03 Error Code — What It Means
-
+## What this code means
 E03 on a Weil-McLain boiler indicates ignition failure — specifically, the boiler control made three consecutive ignition attempts and did not detect a stable flame on any of them. After the third failed attempt, the control locks out and displays E03. This lockout prevents gas from continuing to purge into the combustion chamber without ignition. The boiler will not restart without a manual reset.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,18 +44,3 @@ E03 on a Weil-McLain boiler indicates ignition failure — specifically, the boi
 ## When to Call a Pro
 
 Gas supply issues, gas valve replacement, and combustion analysis require a licensed technician. Do not continue resetting a boiler that locks out repeatedly without identifying the root cause — accumulated gas is a serious hazard.
-
-## Related Articles
-
-- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
-- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
-- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)
-
-## See Also
-
-- [Weil-McLain E06 Error Code — Ignition Lockout](/posts/weil-mclain-e06-error-code/)
-- [Weil-McLain E05 Error Code — Sensor Fault](/posts/weil-mclain-e05-error-code/)
-- [Weil-McLain Code 1 — No Flame Sensed Fix](/posts/weil-mclain-error-code-1/)
-- [Weil-McLain E04 Error Code — Causes & Fix](/posts/weil-mclain-e04-error-code/)

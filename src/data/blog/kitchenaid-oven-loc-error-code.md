@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## KitchenAid Oven LOC Error Code — What It Means
-
+## What this code means
 LOC on a KitchenAid oven display means the Control Lock feature has been activated. This is not a failure code. When LOC appears, the control pads are locked and the oven door is locked to prevent unintended use. Pressing any control while the lock is active will display LOC as a reminder.
 
 KitchenAid designed this feature to shut down the control pads and secure the oven door, often to prevent children or accidental touches from changing settings. The lock can be engaged or disengaged by the user through a key sequence specific to the model.
@@ -25,8 +24,6 @@ KitchenAid designed this feature to shut down the control pads and secure the ov
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board or door latch motor thinking LOC is a fault code. LOC is a feature state. Try the unlock key sequence and a power reset before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

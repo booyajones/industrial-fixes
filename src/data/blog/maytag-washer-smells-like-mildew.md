@@ -19,8 +19,6 @@ A mildew smell in a Maytag washer is not a fault code. Maytag treats it as an od
 
 Maytag's odor guidance says a washer can smell like mildew when wet clothing is left inside too long, the door is closed before the interior dries, or the machine is repeatedly run in cool water without periodic cleaning. The odor comes from bacteria and mold growing on damp surfaces inside the drum, gasket, dispenser, or drain system.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Wet load left in basket after cycle** Leaving damp laundry inside the washer after the cycle finishes traps moisture and creates mildew growth conditions.
@@ -56,18 +54,18 @@ Maytag's odor guidance says a washer can smell like mildew when wet clothing is 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Maytag Washer D1 error code](/posts/maytag-washer-d1-error-code/)
-- [Maytag Washer D13 error code](/posts/maytag-washer-d13-error-code/)
-- [Maytag Washer D16 error code](/posts/maytag-washer-d16-error-code/)
-- [Maytag Washer D3 error code](/posts/maytag-washer-d3-error-code/)
-- [Maytag Washer D4 error code](/posts/maytag-washer-d4-error-code/)
-- [Maytag Washer D5 error code](/posts/maytag-washer-d5-error-code/)
-- [Maytag Washer D7 error code](/posts/maytag-washer-d7-error-code/)
-- [Maytag Washer D8 error code](/posts/maytag-washer-d8-error-code/)
+- Maytag Washer D1 error code
+- Maytag Washer D13 error code
+- Maytag Washer D16 error code
+- Maytag Washer D3 error code
+- Maytag Washer D4 error code
+- Maytag Washer D5 error code
+- Maytag Washer D7 error code
+- Maytag Washer D8 error code
 - [Maytag Washer D9 error code](/posts/maytag-washer-d9-error-code/)
-- [Maytag Washer Drn error code](/posts/maytag-washer-drn-error-code/)
-- [Maytag Washer F07 error code](/posts/maytag-washer-f07-error-code/)
-- [Maytag Washer F11 error code](/posts/maytag-washer-f11-error-code/)
+- Maytag Washer Drn error code
+- Maytag Washer F07 error code
+- Maytag Washer F11 error code
 
 ## When to Call a Pro
 

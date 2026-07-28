@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "80%"
 ---
 
-## Allen-Bradley PowerFlex 525 F059 — What It Means
-
+## What this code means
 F059 on the PowerFlex 525 means Safety Open. The drive is not seeing both safety inputs enabled, so the safety circuit is open and the drive inhibits operation. Both safety inputs must be enabled for the drive to run. If either input is open, the drive faults immediately.
 
 This fault is usually traced to one of three things: the safety inputs are not properly energized, the safety wiring or jumpers are missing or miswired, or the safety function is intentionally configured but not being satisfied through the drive's safety circuit settings. The drive receives its safety enable signal at terminals S1, S2, and S+. When the safety circuit is open at those terminals, the drive will not permit motor operation.
@@ -29,8 +28,6 @@ This fault is usually traced to one of three things: the safety inputs are not p
 ## Before You Replace Anything
 
 Many technicians replace the drive itself when the actual problem is miswired or missing safety jumpers at the S1, S2, and S+ terminals. Always verify the safety circuit wiring and jumper configuration before ordering a replacement drive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or automation technician if you are not familiar with VFD safety circuits, the PowerFlex 525 terminal wiring, or parameter configuration. This fault usually requires tracing field wiring, verifying safety-device operation, and editing drive parameters. If the safety circuit hardware is correct but the fault persists, the drive may have an internal safety-circuit failure that requires manufacturer service or replacement. Never bypass safety inputs to force the drive to run. Safety circuits are designed to protect personnel and equipment.
 
 **Rough cost:** A pro service call runs about $150-400 for diagnosis and wiring correction.
-
-## See Also
-
-- [Allen-Bradley PowerFlex 525 F107 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f107-fault-code/)
-- [Allen-Bradley PowerFlex 525 Fault F003 - What It Means and How to Fix It](/posts/allen-bradley-powerflex-525-fault-f003/)
-- [Allen-Bradley PowerFlex F005 Fault — Overvoltage Fix](/posts/allen-bradley-powerflex-f005-fault/)
-- [Allen-Bradley PowerFlex 525 F007 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f007-fault-code/)

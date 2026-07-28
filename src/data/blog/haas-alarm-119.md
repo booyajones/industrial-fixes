@@ -13,11 +13,8 @@ money_part: "Spindle belt"
 most_likely_cause: "Spindle motor overload or overcurrent"
 ---
 
-## Haas Alarm 119 — What It Means
-
+## What this code means
 Alarm 119 (SPINDLE NOT AT SPEED) on a Haas CNC means the spindle failed to reach the commanded RPM within the allowable time window after an S command was issued. Haas's spindle drive monitors actual spindle speed via encoder feedback and compares it to the commanded speed; if the actual speed does not come within the "at-speed" tolerance band (typically ±2–5% of setpoint) within several seconds, alarm 119 fires. The machine halts to prevent a tool engagement at the wrong speed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,18 +44,3 @@ Alarm 119 (SPINDLE NOT AT SPEED) on a Haas CNC means the spindle failed to reach
 ## When to Call a Pro
 
 If alarm 119 is caused by a spindle drive fault or a motor winding issue, contact the Haas Factory Outlet (HFO). Spindle motor replacement and drive parameter re-commissioning are beyond routine maintenance scope.
-
-## Related Articles
-
-- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
-- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
-- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
-- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
-
-## See Also
-
-- [Haas Alarm 106 — Causes & Fix](/posts/haas-alarm-106/)
-- [Haas Alarm 113 — Spindle Encoder Fault Causes & Fix](/posts/haas-alarm-113/)
-- [Haas Alarm 108 — Causes & Fix](/posts/haas-alarm-108/)
-- [Haas Alarm 107 — Causes & Fix](/posts/haas-alarm-107/)

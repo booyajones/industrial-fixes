@@ -17,8 +17,7 @@ money_part: "Samsung dryer thermistor (temperature sensor)"
 part_price: "$15-80"
 ---
 
-## Samsung Dryer tC Error Code — What It Means
-
+## What this code means
 The tC error on a Samsung dryer signals a temperature control problem in the sensor or overheat circuit. The control board is either not receiving valid temperature feedback from the thermistor or detecting a heat condition that is too high. Codes in the tC, tE, and 1tC family are all temperature-related faults, and the exact wording can vary by model and display type.
 
 In practical terms, the dryer is either overheating due to restricted airflow or the thermistor circuit is giving an out-of-range or missing signal. The machine may shut off early, fail to heat correctly, or fault only under load. Because the fault can point to airflow, sensors, or safety devices, the diagnostic approach starts with the most common culprit and works inward.
@@ -26,8 +25,6 @@ In practical terms, the dryer is either overheating due to restricted airflow or
 ## Before You Replace Anything
 
 Homeowners often replace the control board first, but a blocked vent or failed thermistor is far more common. Always verify strong airflow at the outside hood and test the thermistor with a meter before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

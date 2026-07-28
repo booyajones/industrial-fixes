@@ -17,8 +17,6 @@ tags:
 
 A GE refrigerator water dispenser that stops working is not usually tied to a single error code. In most cases it points to a water supply problem, frozen line, clogged filter, failed valve, bad switch, or control issue rather than a built-in fault display. If the entire ice and water system is completely dead, the dispenser control board or power path becomes more likely than a single mechanical part.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged water filter restricting flow** A filter past its service life blocks water before it reaches the dispenser, and replacing it or installing the filter bypass plug (if your model has one) restores flow immediately.
@@ -52,18 +50,18 @@ A GE refrigerator water dispenser that stops working is not usually tied to a si
 
 Seeing a code on the display? These match this problem:
 
-- [Ge Refrigerator Cc error code](/posts/ge-refrigerator-cc-error-code/)
-- [Ge Refrigerator Cf error code](/posts/ge-refrigerator-cf-error-code/)
-- [Ge Refrigerator Ci error code](/posts/ge-refrigerator-ci-error-code/)
-- [Ge Refrigerator De error code](/posts/ge-refrigerator-de-error-code/)
-- [Ge Refrigerator Df error code](/posts/ge-refrigerator-df-error-code/)
-- [Ge Refrigerator Ds error code](/posts/ge-refrigerator-ds-error-code/)
-- [Ge Refrigerator Ff error code](/posts/ge-refrigerator-ff-error-code/)
-- [Ge Refrigerator H2O error code](/posts/ge-refrigerator-h2o-error-code/)
-- [Ge Refrigerator Hs error code](/posts/ge-refrigerator-hs-error-code/)
-- [Ge Refrigerator Pf error code](/posts/ge-refrigerator-pf-error-code/)
-- [Ge Refrigerator Tc error code](/posts/ge-refrigerator-tc-error-code/)
-- [Ge Refrigerator Tf error code](/posts/ge-refrigerator-tf-error-code/)
+- Ge Refrigerator Cc error code
+- Ge Refrigerator Cf error code
+- Ge Refrigerator Ci error code
+- Ge Refrigerator De error code
+- Ge Refrigerator Df error code
+- Ge Refrigerator Ds error code
+- Ge Refrigerator Ff error code
+- Ge Refrigerator H2O error code
+- Ge Refrigerator Hs error code
+- Ge Refrigerator Pf error code
+- Ge Refrigerator Tc error code
+- Ge Refrigerator Tf error code
 
 ## When to Call a Pro
 

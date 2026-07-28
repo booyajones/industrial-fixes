@@ -21,8 +21,7 @@ free_checks:
 part_price: "$40–70"
 ---
 
-## Whirlpool Range F5 Error Code — What It Means
-
+## What this code means
 On a Whirlpool range, the F5 or F5 E1 error code points to a problem with the main oven door latch assembly, the door switch, or the wiring that connects them to the control board. This is not a heating or temperature fault. The control has detected that the door latch is not reporting the correct position, either because the latch mechanism is stuck or broken, the door switch has failed, or the wiring has come loose or shorted.
 
 Whirlpool's product help identifies this code specifically as a main oven door latch system fault and its feedback circuit. The code will often appear during the self-clean cycle (when the door must lock) or after a cycle if the latch does not fully release. In the field, technicians find the door latch assembly itself is the most frequent culprit, followed by the door switch and then wiring issues.
@@ -30,8 +29,6 @@ Whirlpool's product help identifies this code specifically as a main oven door l
 ## Before You Replace Anything
 
 Many people replace the control board first when they see an error code, but the F5 fault almost always lives in the latch assembly, door switch, or wiring. Test those mechanical parts and connections before spending money on electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

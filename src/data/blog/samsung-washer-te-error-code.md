@@ -17,8 +17,7 @@ money_part: "Samsung washer thermistor / temperature sensor"
 part_price: "$15-50"
 ---
 
-## Samsung Washer tE Error Code — What It Means
-
+## What this code means
 The tE code on a Samsung washer signals a temperature-sensing fault. The control board is not receiving a valid temperature signal from the thermistor (temperature sensor) that monitors water temperature during the wash cycle. The reading is either out of the expected range, missing entirely, or electrically abnormal, so the washer halts the cycle for safety.
 
 This is specifically a thermistor circuit problem, not a drain or door issue. The control cannot trust the water temperature data, which affects cycle timing and heating decisions.
@@ -26,8 +25,6 @@ This is specifically a thermistor circuit problem, not a drain or door issue. Th
 ## Before You Replace Anything
 
 Many people replace the main control board first when the actual fault is a $15 thermistor or a loose connector at the sensor. Always test the sensor resistance and inspect the harness plug before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

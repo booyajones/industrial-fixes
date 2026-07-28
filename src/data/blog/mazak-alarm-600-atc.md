@@ -13,11 +13,8 @@ money_part: "ATC proximity switch"
 most_likely_cause: "ATC arm did not complete a phase within timeout"
 ---
 
-## Mazak Alarm 600 ATC — What It Means
-
+## What this code means
 Alarm 600 (ATC Alarm) on a Mazak CNC machining center (Nexus, Variaxis, Integrex series) indicates a fault in the Automatic Tool Changer system. The ATC is responsible for swapping tools between the magazine/drum and the spindle; a position, timing, or interlock fault during any phase of the tool change cycle triggers alarm 600. The CNC immediately halts all motion and requires the operator to investigate and clear the ATC fault before machining can resume. Because the ATC is a complex mechanical-pneumatic system, alarm 600 can have many sub-causes depending on which phase of the tool change failed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,18 +44,3 @@ Alarm 600 (ATC Alarm) on a Mazak CNC machining center (Nexus, Variaxis, Integrex
 ## When to Call a Pro
 
 Mazak ATC recovery after a mid-cycle jam — especially on swing-arm or double-arm changers — requires the machine's maintenance manual and often a Mazak service technician. An improper manual recovery can damage the spindle, the arm, or the magazine.
-
-## Related Articles
-
-- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
-- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
-- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-
-## See Also
-
-- [Mazak Alarm 400 Servo Error — Causes & Fix](/posts/mazak-alarm-400-servo/)
-- [Mazak CNC Alarm 200 Parameter Fault — Causes & Fix](/posts/mazak-cnc-alarm-200-parameter/)
-- [Mazak Alarm 500 PC Alarm — Causes & Fix](/posts/mazak-alarm-500-pc/)
-- [Mazak CNC Alarm 30 — Servo Alarm Fix](/posts/mazak-cnc-alarm-30-servo-alarm/)

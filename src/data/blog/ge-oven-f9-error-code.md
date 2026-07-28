@@ -22,8 +22,7 @@ part_price: "$50-90"
 no_buy_pct: "40%"
 ---
 
-## GE Oven F9 Error Code — What It Means
-
+## What this code means
 On most GE ovens and ranges, F9 is a door latch or door lock fault. The appliance believes the door-lock system is in the wrong state, most commonly because the lock-sensing switch is reporting unlocked when it should be locked during self-clean or high-temperature operation, or locked when it should not be during normal cooking. The control expects the latch to move between locked and unlocked positions correctly and the switches to confirm that position.
 
 Some GE Monogram and other specific models use different F9 logic tied to the cooling fan, reed switch, or fan-speed sensing instead of the door lock. Always verify the exact meaning against your model's technical sheet or wiring diagram before ordering parts, because F9 is not universal across every GE platform.
@@ -31,8 +30,6 @@ Some GE Monogram and other specific models use different F9 logic tied to the co
 ## Before You Replace Anything
 
 Many people replace the electronic control board first. Test the latch motor windings (should be about 3 kΩ) and check switch continuity in both locked and unlocked positions before replacing any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

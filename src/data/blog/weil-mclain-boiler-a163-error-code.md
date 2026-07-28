@@ -17,8 +17,7 @@ free_checks:
   - "Inspect the front panel wiring diagram and owner's manual to confirm whether A163 is listed for your model and what it means."
 ---
 
-## Weil-McLain Boiler A163 Error — What It Means
-
+## What this code means
 A163 does not appear in verified Weil-McLain fault code documentation. The exact meaning depends on your boiler model and control platform. Weil-McLain uses numbered error codes on platforms like the AquaBalance control, but A163 is not confirmed as a standard fault identifier. Your display may be showing a control-specific diagnostic number, a lockout condition, or a sensor reading rather than a universal error code.
 
 Because the code is not documented, verify the exact model and CP number from the boiler jacket label and consult your owner's manual or the wiring diagram inside the front panel. Common fault categories on Weil-McLain boilers include ignition failure, flame sensing faults, temperature sensor errors, low water or pressure conditions, and circulation problems. Until you confirm the code meaning for your specific control, treat this as a general lockout or fault and follow the manufacturer's troubleshooting workflow.
@@ -27,32 +26,14 @@ Because the code is not documented, verify the exact model and CP number from th
 
 Many technicians replace the main control board when the real problem is a dirty or misaligned flame rod. Clean and inspect the flame sensor and test continuity before ordering a new control.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Ignition or flame sensing fault (~30%)** A dirty, warped, or misaligned igniter or flame rod prevents the control from proving flame and causes a lockout.
-- **Temperature sensor fault (~20%)** A failed thermistor or temperature probe sends false readings to the control and triggers a fault condition.
-- **Low system pressure or water level (~20%)** Pressure below minimum or air in the system prevents circulation and the control locks out to protect the boiler.
-- **Gas supply issue (~15%)** Weak gas pressure, a closed manual shutoff, or a faulty gas valve prevents ignition and triggers a lockout.
-- **Control board or wiring fault (~10%)** Internal control failure or a loose harness connection causes the board to report an error or fail to complete the ignition sequence.
-- **Circulator or pump fault (~5%)** A stuck or failed circulator prevents flow and the control shuts down on a flow or temperature limit.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Does your boiler display show a lockout condition or fault history menu?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Read the displayed fault code and consult your model's manual to confirm the exact meaning before proceeding.<br><strong>No:</strong> Check the system pressure gauge. If pressure is low, refill the system and reset the boiler to see if the code clears.</div>
-</details>
-
-<details class="dtree"><summary>Can you hear the igniter click and see flame through the inspection window when the boiler calls for heat?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The ignition system is working. Check for temperature sensor faults, circulation problems, or a control wiring issue.<br><strong>No:</strong> Inspect the igniter and flame rod for dirt or damage, verify gas supply is on, and test the gas valve for voltage.</div>
-</details>
-
-<details class="dtree"><summary>Is the system pressure gauge reading above 12 psi and stable?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Pressure is adequate. Focus on ignition components, sensors, and the control board.<br><strong>No:</strong> Refill the system to about 15 psi at the fill loop, bleed air from the high points, and reset the boiler.</div>
-</details>
+- **Ignition or flame sensing fault** A dirty, warped, or misaligned igniter or flame rod prevents the control from proving flame and causes a lockout.
+- **Temperature sensor fault** A failed thermistor or temperature probe sends false readings to the control and triggers a fault condition.
+- **Low system pressure or water level** Pressure below minimum or air in the system prevents circulation and the control locks out to protect the boiler.
+- **Gas supply issue** Weak gas pressure, a closed manual shutoff, or a faulty gas valve prevents ignition and triggers a lockout.
+- **Control board or wiring fault** Internal control failure or a loose harness connection causes the board to report an error or fail to complete the ignition sequence.
+- **Circulator or pump fault** A stuck or failed circulator prevents flow and the control shuts down on a flow or temperature limit.
 
 ## Step-by-Step Fix {#fix}
 
@@ -76,12 +57,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a licensed heating contractor immediately if you cannot find A163 in your boiler's documentation, if you smell gas, if the boiler repeatedly locks out after reset, or if you are not comfortable working with gas appliances. Professional help is required for gas valve replacement, control board diagnostics, venting inspection, and any fault that involves testing or adjusting gas pressure. Weil-McLain recommends contacting a qualified heating contractor to identify the exact model, interpret control-specific fault codes, and obtain warranty parts. Do not attempt to bypass safety lockouts or modify control wiring.
-
-**Rough cost:** A pro service call runs about $200-500.
-
-## See Also
-
-- [Weil-McLain Boiler A62 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a62-error-code/)
-- [Weil-McLain A04 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a04-error-code/)
-- [Weil-McLain A60 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a60-error-code/)
-- [Weil-McLain A179 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a179-error-code/)

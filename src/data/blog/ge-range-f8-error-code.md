@@ -17,8 +17,7 @@ money_part: "GE Range Main Control Board (ERC/EOC)"
 part_price: "$150-300"
 ---
 
-## GE Range F8 Error Code — What It Means
-
+## What this code means
 On most GE electric and dual-fuel ranges, an F8 or F8-family error (such as F8 10) points to a problem with the Electronic Range Control or Electronic Oven Control board, or a communication breakdown between the user interface and the main control. The exact meaning depends on your model and production date, so verify the full code and consult your model's service literature. Some older models may tie F8 to a door latch position fault, but the dominant pattern across GE ranges is a control-board or interface failure.
 
 F8 codes often appear after power outages, voltage surges, or when internal board components age out. If your range won't heat, displays F8 persistently, or cycles through beeps and errors, the control board or its wiring is the usual culprit.
@@ -26,8 +25,6 @@ F8 codes often appear after power outages, voltage surges, or when internal boar
 ## Before You Replace Anything
 
 Many people replace the user interface or keypad first, assuming the display is the problem. Before buying any parts, cycle power at the breaker for five minutes and inspect the ribbon cable and connectors between the UI and main board for burn marks or looseness. A loose connector often mimics a full board failure.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

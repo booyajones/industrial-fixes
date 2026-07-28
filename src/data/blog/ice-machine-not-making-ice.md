@@ -22,8 +22,6 @@ The good news is that ice machine failures follow a pattern. Most issues come do
 
 This guide covers the universal checks that work regardless of brand. Start with the easiest fix first and work your way through the diagnostic tree.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
 - **Water supply issue.** The most common cause of no ice production. A shutoff valve, kinked supply line, or clogged inlet screen stops water from reaching the machine.

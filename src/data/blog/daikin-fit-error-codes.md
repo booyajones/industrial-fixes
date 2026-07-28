@@ -23,8 +23,6 @@ Fault codes appear on the **wired remote controller** (BRC7EB518W) or **thermost
 
 When using a conventional (non-communicating) thermostat, fault codes are displayed on the indoor unit's **diagnostic LED** using blink patterns. The outdoor unit also has a diagnostic LED visible through the inspection port on the bottom of the unit.
 
-[Jump to Fix](#step-by-step-fix)
-
 ### Daikin Fit Error Code Reference (RZB / SQ Series)
 
 | Code | Description | System Response |
@@ -117,20 +115,3 @@ The system has detected low refrigerant based on discharge superheat readings. U
 - Any fault that returns within 24 hours after your repair — the root cause was not resolved and professional diagnosis is needed.
 
 > **Daikin Fit installer note:** The E7 communication fault accounts for roughly 40% of all Daikin Fit service calls in the first year. It is almost always a wiring error made during installation. Before calling for service on a new Fit system, triple-check the communication wiring color sequence and verify there is no ground fault on any of the 3 communication wires (each should read >1 MΩ to ground).
-
-## See Also
-
-- [Daikin Mini-Split Error Codes — All Models Reference](/posts/daikin-mini-split-error-codes/)
-- [Daikin E3 Error Code — High Pressure Fault Fix](/posts/daikin-e3-error-code/)
-- [Daikin E7 Error Code — Communication Fault Diagnosis](/posts/daikin-e7-error-code/)
-- [Daikin U4 Error Code — Transmission Fault Guide](/posts/daikin-u4-error-code/)
-- [Daikin VRV Error Codes — Commercial System Reference](/posts/daikin-vrv-error-codes/)
-- [Heat Pump Error Code Guide — All Brands](/posts/heat-pump-error-code-guide/)
-
-## Related Articles
-
-- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
-- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
-- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
-- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
-- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)

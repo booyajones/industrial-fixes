@@ -24,8 +24,6 @@ The Hypertherm Powermax 45 (and 45 XP) is one of the most widely used plasma cut
 | 0-10 | Overcurrent |
 | 0-20 | Input phase loss (three-phase units) |
 
-[Jump to Fix](#fix)
-
 ## Most Common Powermax 45 Fault Codes and Fixes {#fix}
 
 ### 0-30 — Consumable / Shield Fault

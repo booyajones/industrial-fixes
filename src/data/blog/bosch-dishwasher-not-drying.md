@@ -19,8 +19,6 @@ A Bosch dishwasher that does not dry is usually a performance complaint rather t
 
 If your Bosch is leaving dishes wet, the machine is either not retaining enough heat for condensation or moisture is not draining off properly. You may see no error at all, or you might encounter E09 (heating circuit problem) or E24 (drainage restriction) if a component has actually failed. Most wet-dish complaints trace to rinse aid, cycle choice, or how the load was arranged.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Low or empty rinse aid** Rinse aid helps water sheet off dishes during the final rinse so condensation drying works, and an empty dispenser is the most common cause of wet dishes on Bosch machines.

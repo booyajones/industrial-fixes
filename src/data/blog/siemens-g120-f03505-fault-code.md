@@ -13,13 +13,10 @@ money_part: "Analog input field cable"
 most_likely_cause: "Open circuit or loose terminal"
 ---
 
-## Siemens G120 F03505 — What It Means
-
+## What this code means
 F03505 on a Siemens SINAMICS G120 indicates that the drive's wire-break monitoring has detected a loss of signal on an analog input. The drive continuously monitors the current at analog inputs referenced in p0756 and p0756[1], and when the measured current falls below the threshold set in parameter p0761[0…3], the fault triggers. This typically happens when the drive expects a 4–20 mA loop current but sees too little or no current at all.
 
 The fault does not mean the drive itself is broken. It means the drive cannot see a valid signal from the upstream transmitter or sensor. The wire-break detection is a safety and diagnostic feature to alert you that the analog input circuit is open, disconnected, or delivering insufficient current to the control unit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ The fault does not mean the drive itself is broken. It means the drive cannot se
 ## When to Call a Pro
 
 Call a qualified drive technician or instrumentation specialist if you have verified the wiring and transmitter are intact but the fault persists, or if you are not familiar with analog loop troubleshooting and safe work on live industrial control circuits. Also call for help if the analog input stage on the control unit is suspected to be defective after all external checks, or if you need assistance configuring parameters p0756, p0761, and the analog scaling for your specific process application.
-
-## See Also
-
-- [Siemens Micromaster F0023 - Causes & Fix](/posts/siemens-micromaster-f0023-fault-code/)
-- [Siemens Micromaster F0001 - Causes & Fix](/posts/siemens-micromaster-f0001-fault-code/)
-- [Siemens G120 A05000 - Causes & Fix](/posts/siemens-g120-a05000-fault-code/)
-- [Siemens SINAMICS G120 F30011 Fault — Phase Loss Fix](/posts/siemens-sinamics-f30011-fault/)

@@ -25,8 +25,6 @@ Fanuc's absolute encoders remember the motor's position even when the machine is
 
 The moment Alarm 300 appears, treat it as urgent. The battery costs $5–$15. Losing home position can cost hours of downtime.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
 - **Battery natural end of life.** Fanuc recommends replacing the APC battery every 2–3 years. Most shops do not have a preventive maintenance schedule for it, so the first sign of a problem is alarm 300.
@@ -82,10 +80,3 @@ Call a Fanuc-certified technician if position data was lost and you are not conf
 - [Fanuc Alarm 414: Servo Alarm Axis Detect Error](/posts/fanuc-alarm-414/)
 - [Fanuc Alarm 401: Servo Alarm V-Ready Off](/posts/fanuc-alarm-401/)
 - [Fanuc Complete CNC Alarm Code Reference](/posts/fanuc-alarm-codes/)
-
-## See Also
-
-- [Fanuc Alarm 6 Overtravel — Causes & Fix](/posts/fanuc-alarm-6-overtravel/)
-- [Fanuc Alarm 800: APC Alarm — Causes and Fix](/posts/fanuc-alarm-800/)
-- [Fanuc Alarm 424 — Causes & Fix](/posts/fanuc-alarm-424/)
-- [Fanuc Alarm 360 — APC Alarm Battery Low Causes & Fix](/posts/fanuc-alarm-360/)

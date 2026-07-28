@@ -17,15 +17,12 @@ money_part: "Water inlet valve assembly"
 part_price: "$40-120"
 ---
 
-## LG Refrigerator gF Error Code — What It Means
-
+## What this code means
 The gF code on an LG refrigerator indicates a flow sensor error or low water pressure in the water supply path to the ice maker or water dispenser. The refrigerator's control board expects to see water flow when dispensing or making ice, but the flow sensor is either not detecting any flow or reporting insufficient pressure. LG also notes that if the ice maker is overfilling, the flow sensor itself may be malfunctioning and sending incorrect readings to the control.
 
 ## Before You Replace Anything
 
 Homeowners often replace the water inlet valve or flow sensor before checking the supply side. First verify that the household shutoff is fully open and the supply line is not kinked, crushed, or frozen, which fixes the problem in many cases at no cost.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a professional if you cannot locate the flow sensor or inlet valve, if the refrigerator continues to show the gF code after you have verified good supply pressure and replaced both the inlet valve and flow sensor, or if you are uncomfortable working with water connections and electrical terminals. A technician has the wiring diagram and test procedures to isolate whether the control board itself is misreading the sensor or whether another component in the water path is at fault. Also call a pro if your model requires disassembly of the door or sealed compartments to reach the flow sensor, as improper reassembly can cause air leaks and temperature problems.
 
 **Rough cost:** DIY runs about $40–120 in parts (inlet valve or flow sensor), 30–90 minutes. A pro service call runs about $150–300.
-
-## See Also
-
-- [LG Dryer Shuts Off Early - Causes & Fix](/posts/lg-dryer-shuts-off-early/)
-- [LG Dishwasher AE Error Code - Causes & Fix](/posts/lg-dishwasher-ae-error-code/)
-- [LG Refrigerator Error Codes — Complete Fix Guide](/posts/lg-refrigerator-error-codes/)
-- [LG Dishwasher Standing Water in Bottom - Causes & Fix](/posts/lg-dishwasher-standing-water-in-bottom/)

@@ -19,8 +19,6 @@ A leak from your A.O. Smith water heater means water is escaping from some part 
 
 A.O. Smith's published maintenance information makes clear that most leaks are caused by poor or loose connections rather than a cracked tank. That means many leaks can be stopped with simple tightening or valve replacement. If the tank body itself is corroded or cracked, replacement of the entire water heater is typically required.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Loose or poor water connections** The manufacturer states that most leaks are caused by poor connections rather than tank failure, and pipe fittings may only need tightening if the leak is external to the tank body.
@@ -55,7 +53,7 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [A O Smith Water Heater E2 error code](/posts/a-o-smith-water-heater-e2-error-code/)
 - [A O Smith Water Heater E4 error code](/posts/a-o-smith-water-heater-e4-error-code/)
-- [A O Smith Water Heater E6 error code](/posts/a-o-smith-water-heater-e6-error-code/)
+- A O Smith Water Heater E6 error code
 
 ## When to Call a Pro
 

@@ -23,8 +23,6 @@ The Trane XL16i (model numbers 4TWR4, 4TWR6, 4TWR8) is a 16–17 SEER single-sta
 
 To read the LED: open the electrical compartment panel on the side of the outdoor unit (2–4 screws). Count slow blinks (tens digit), then fast blinks (ones digit). A 3-1 code = three slow blinks, pause, one fast blink.
 
-[Jump to Fix](#step-by-step-fix)
-
 ### XL16i LED Flash Code Reference
 
 | Flash Code | Fault Description | Priority |
@@ -116,20 +114,3 @@ When connected to a ComfortLink II thermostat, the XL16i reports faults with num
 - Reversing valve stuck — requires brazing to replace (refrigerant recovery first).
 
 Tell the tech: *"Trane XL16i, ComfortLink II system, fault code [X], here's what I've tested..."* — having the code and your diagnosis narrows the service call significantly.
-
-## See Also
-
-- [Trane XR15 Heat Pump Error Codes — Complete Guide](/posts/trane-xr15-error-codes/)
-- [Trane XR14 Error Codes — Diagnostic Guide](/posts/trane-xr14-error-codes/)
-- [Trane XR13 Error Codes — Diagnostic Guide](/posts/trane-xr13-error-codes/)
-- [Trane ComfortLink II Error Codes — Communicating System Faults](/posts/trane-comfortlink-ii-error-codes/)
-- [Trane XV20i Variable-Speed Heat Pump Error Codes](/posts/trane-xv20i-heat-pump-error-codes/)
-- [Heat Pump Error Code Guide — All Brands](/posts/heat-pump-error-code-guide/)
-
-## Related Articles
-
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)

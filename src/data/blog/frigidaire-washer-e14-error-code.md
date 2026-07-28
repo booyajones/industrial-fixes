@@ -21,8 +21,7 @@ part_price: "$25-40 for dispenser drawer assembly"
 no_buy_pct: "75%"
 ---
 
-## Frigidaire E14 Error Code — What It Means
-
+## What this code means
 The E14 error code appears on Frigidaire washing machines when the main control board detects that the dispenser drawer (detergent and softener tray) is not fully closed or that the drawer position sensor has malfunctioned. The machine performs a safety check before filling to make sure the drawer is secured and prevent water leaks or the drawer being pulled out during operation. If the micro-switch or sensor does not confirm the drawer is in the closed position, the system halts and displays E14.
 
 This code is almost always mechanical or debris-related rather than an electronic control board failure. The drawer may appear closed to the eye but not be fully latched, or hardened detergent residue in the tracks can prevent the drawer from seating completely and triggering the sensor.
@@ -30,8 +29,6 @@ This code is almost always mechanical or debris-related rather than an electroni
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board assuming an electrical fault, when the real problem is hardened detergent blocking the drawer tracks or a loose insert preventing full closure. Clean the drawer cavity and check mechanical alignment before ordering any electronic parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

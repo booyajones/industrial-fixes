@@ -17,8 +17,7 @@ money_part: "Exterior vent hood (4-inch dryer vent cap)"
 part_price: "$15-50"
 ---
 
-## LG Dryer D90 Error Code — What It Means
-
+## What this code means
 LG's D90 code is a Flow Sense or duct-blockage warning. LG states it means the dryer has detected about a 90% blockage in the ductwork and needs immediate attention. In practical field terms, it is almost always an exhaust-airflow restriction problem, not a bad board problem.
 
 LG pairs this with D95 as a 95% blockage warning, which reinforces that D90 is an airflow-restriction threshold rather than a generic fault code. The dryer is warning that exhaust airflow is severely restricted from the lint screen to the outside termination.
@@ -26,8 +25,6 @@ LG pairs this with D95 as a 95% blockage warning, which reinforces that D90 is a
 ## Before You Replace Anything
 
 Homeowners often replace the control board or moisture sensors, but LG's own guidance emphasizes vent restriction first. Check airflow at the outside termination while the dryer runs before replacing any electronic parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a professional if you have cleaned the lint filter, inspected the flex vent, and cleared the exterior hood but the D90 code persists. A technician can inspect hidden duct sections, evaluate the overall vent design for excessive length or too many bends, and perform internal blower-housing cleaning or duct replacement. Also call a pro if you are not comfortable working behind the dryer, disconnecting ductwork, or accessing the exterior vent from the roof or a high wall. LG recommends professional duct cleaning when the restriction is not obvious and the vent run is long or complex.
 
 **Rough cost:** DIY runs about $15-50 in parts (vent hood or flex duct), 30-90 min. A pro service call runs about $100-250 for duct cleaning or vent repair.
-
-## See Also
-
-- [LG Range E1 Error Code - Causes & Fix](/posts/lg-range-e1-error-code/)
-- [LG Washer Not Dispensing Detergent - Causes & Fix](/posts/lg-washer-not-dispensing-detergent/)
-- [LG Washer Drive Belt Replacement - Signs & How-To](/posts/lg-washer-drive-belt-replacement/)
-- [LG Microwave Won't Start - Causes & Fix](/posts/lg-microwave-wont-start/)

@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Dishwasher E09 Error Code — What It Means
-
+## What this code means
 On Kenmore dishwashers built on a Bosch platform, the E09 code indicates a heating fault. The unit is reporting that it cannot heat water to the required temperature during the wash or dry cycle. The dishwasher will usually stop mid-cycle or fail to dry dishes because the water never reaches operating temperature.
 
 Because Kenmore sold multiple dishwasher lines, the exact part layout depends on your specific model number. On Bosch-derived units the heating element is typically integrated into the circulation pump assembly rather than being a separate exposed heater, so the repair often involves replacing the entire pump and heater unit together.
@@ -26,8 +25,6 @@ Because Kenmore sold multiple dishwasher lines, the exact part layout depends on
 ## Before You Replace Anything
 
 Many people replace the control board first when the real problem is a burnt or corroded terminal on the heater assembly. Always test the heater resistance with a multimeter and inspect the wiring connectors before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

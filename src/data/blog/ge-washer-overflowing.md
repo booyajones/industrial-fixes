@@ -19,8 +19,6 @@ When your GE washer overflows, the machine is filling past its intended water le
 
 This is usually not caused by high supply pressure alone. In practice, technicians find either a stuck or open water inlet valve, a pressure-sensing problem in the hose or switch, or a control issue that keeps the fill circuit energized. If the unit keeps filling with power removed, the inlet valve is mechanically leaking and needs replacement. If fill stops when power is removed, the problem is more likely in the pressure sensing or control circuit.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed water inlet valve** The inlet valve does not close fully and allows water to continue entering even when de-energized, which is the most common cause of overflow.
@@ -51,9 +49,9 @@ This is usually not caused by high supply pressure alone. In practice, technicia
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Ge Washer C2 error code](/posts/ge-washer-c2-error-code/)
-- [Ge Washer C5 error code](/posts/ge-washer-c5-error-code/)
-- [Ge Washer E23 error code](/posts/ge-washer-e23-error-code/)
+- Ge Washer C2 error code
+- Ge Washer C5 error code
+- Ge Washer E23 error code
 
 ## When to Call a Pro
 

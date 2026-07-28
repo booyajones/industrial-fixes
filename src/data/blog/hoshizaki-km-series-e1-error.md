@@ -13,11 +13,8 @@ money_part: "Hoshizaki Scale Away cleaner"
 most_likely_cause: "Dirty condenser coil"
 ---
 
-## Hoshizaki KM Series E1 Error Code — What It Means
-
+## What this code means
 The E1 error on Hoshizaki KM Series modular ice machines (KM-320, KM-515, KM-1301 and similar) indicates an ice making cycle fault — the machine was unable to complete a freeze or harvest cycle within the allowed time window. Hoshizaki's control board monitors cycle duration; if the ice bridge doesn't form or the harvest cycle doesn't complete within spec, E1 is logged and the machine stops.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ The E1 error on Hoshizaki KM Series modular ice machines (KM-320, KM-515, KM-130
 ## When to Call a Pro
 
 Refrigerant work on Hoshizaki KM units requires EPA 608 certification and recovery equipment. If condenser and water system are clean and E1 persists, a certified refrigeration tech should check the sealed system.
-
-## Related Articles
-
-- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
-- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)
-- [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
-- [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)
-
-## See Also
-
-- [Hoshizaki KM-2000SAJ Ice Machine Error Codes - Full Diagnostic Guide](/posts/hoshizaki-km-2000saj-error-codes/)
-- [Hoshizaki F2 Error Code — Ice Full Sensor Fault Causes & Fix](/posts/hoshizaki-f2-error-code/)
-- [Hoshizaki F1 Error Code — Causes & Fix](/posts/hoshizaki-f1-error-code/)
-- [Hoshizaki F-450 Flaker Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-f450-error-codes/)

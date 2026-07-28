@@ -13,11 +13,8 @@ money_part: "Air filter"
 most_likely_cause: "Clogged air filter"
 ---
 
-## Payne Furnace 13 Error Code — What It Means
-
+## What this code means
 Payne is a Carrier-family brand and shares the same control board diagnostic codes. Error code 13 on a Payne furnace means the limit device has opened multiple times in a single call for heat — a repeated limit trip lockout. The control board counted three or more limit openings during one heating cycle and locked out the furnace to prevent heat exchanger overheating and potential cracking.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,11 +42,3 @@ Payne is a Carrier-family brand and shares the same control board diagnostic cod
 ## When to Call a Pro
 
 Repeated limit trips after filter and airflow corrections point to a possible cracked heat exchanger. This is a carbon monoxide safety hazard — have a licensed HVAC technician perform a heat exchanger inspection before restoring the furnace to service.
-
-## Related Articles
-
-- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
-- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
-- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

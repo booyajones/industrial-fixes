@@ -13,11 +13,8 @@ money_part: "Carrier integrated furnace control board"
 most_likely_cause: "Failed control board"
 ---
 
-## Carrier 45 Error Code — What It Means
-
+## What this code means
 Carrier fault code 45 indicates a control board fault — specifically, the integrated furnace control (IFC) has detected an internal error or a watchdog timeout. The board flashes 4 long, 5 short. Unlike most Carrier fault codes that point to a field component, code 45 usually means the control board itself has failed, a power supply issue is corrupting its logic, or a wiring problem is feeding it bad signals. It can also appear after a voltage spike or lightning strike that partially damages the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Carrier fault code 45 indicates a control board fault — specifically, the inte
 ## When to Call a Pro
 
 Board replacement on a Carrier furnace is straightforward for an experienced technician but requires proper static precautions and wiring documentation. If you're not confident transferring wiring from old board to new, bring in a tech to avoid creating a new fault.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier Greenspeed Heat Pump Error Codes: Complete Guide](/posts/carrier-greenspeed-heat-pump-codes/)
-- [Carrier Error Code 66 — Pressure Switch Fault](/posts/carrier-66-error-code/)
-- [Carrier 46 Error Code — Check IFC: Board Self-Diagnosis Fault](/posts/carrier-46-error-code/)
-- [Carrier Chiller Fault Codes — Complete Troubleshooting Guide](/posts/carrier-chiller-fault-codes/)

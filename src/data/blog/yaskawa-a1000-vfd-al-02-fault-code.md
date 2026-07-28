@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "80%"
 ---
 
-## Yaskawa A1000 Er-02 — What It Means
-
+## What this code means
 The Yaskawa A1000 VFD does not have an AL-02 fault code. The code you are seeing is Er-02, a minor fault that indicates the auto-tuning process failed. This happens when the motor parameters you entered (voltage, current, frequency, speed, poles) do not match the actual motor nameplate data, or when the drive detected a problem during tuning such as faulty wiring, a shorted phase, or excessive mechanical load preventing the motor from accelerating smoothly.
 
 The drive uses auto-tuning to measure the motor's electrical characteristics (resistance and inductance) so it can control the motor precisely. If the data you entered in parameters T1-02 through T1-07 is wrong, or if the motor cable has a poor connection or short, or if the load is too heavy or jammed, the tuning algorithm cannot complete and throws Er-02. The drive will not run until you correct the problem and clear the fault.
@@ -29,8 +28,6 @@ The drive uses auto-tuning to measure the motor's electrical characteristics (re
 ## Before You Replace Anything
 
 Technicians sometimes replace the drive or motor when Er-02 appears, but the real problem is usually a data-entry error or a loose wire. Check all motor parameters against the nameplate and inspect U/V/W connections with a multimeter before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -80,10 +77,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or VFD technician if you are not trained to work with three-phase power and motor drives. Auto-tuning requires verifying and entering motor nameplate data, inspecting high-voltage wiring, and using a multimeter to check for shorts and opens. If you correct all parameters and wiring but Er-02 persists, a technician with an oscilloscope or motor analyzer can test the motor windings for internal faults or verify the drive's tuning algorithm is functioning correctly. Any work on the drive input or output terminals carries shock and arc-flash hazards and should be done with proper PPE and lockout procedures.
 
 **Rough cost:** A pro service call runs about $150-400 for service call and tuning.
-
-## See Also
-
-- [Yaskawa GA800 A.102 Alarm - Causes & Fix](/posts/yaskawa-ga800-vfd-a-102-fault-code/)
-- [Yaskawa VFD Fault GF — Causes & Fix](/posts/yaskawa-vfd-fault-gf/)
-- [Yaskawa GA800 A.139 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-139-fault-code/)
-- [Yaskawa GA800 A.141 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-141-fault-code/)

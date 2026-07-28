@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Dryer F22 Error Code — What It Means
-
+## What this code means
 The F22 code on an Amana dryer signals that the machine control board has detected a fault in the outlet thermistor (exhaust temperature sensor) circuit. The control is not receiving a valid temperature reading, either because the sensor itself has failed, the circuit is open or shorted, or a wiring connection has broken down. In practice the dryer will usually run briefly and then shut down the heat or stop completely when this fault is logged.
 
 Amana's own product help documentation lists F22 as a thermistor or outlet temperature sensor fault and recommends a five-minute power reset as the first corrective step. Because Amana dryers share the Whirlpool platform and control systems, service sources consistently tie this code to the exhaust or outlet thermistor circuit rather than door lock, airflow, or power supply issues. The fault means the board cannot trust the temperature reading it is receiving, so it stops the cycle to prevent overheating or unsafe operation.
@@ -26,8 +25,6 @@ Amana's own product help documentation lists F22 as a thermistor or outlet tempe
 ## Before You Replace Anything
 
 Some people replace the control board first when the actual problem is a loose connector at the thermistor or a broken wire. Always check the thermistor resistance with a multimeter and inspect the harness connections before swapping the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,13 +13,10 @@ money_part: "Control board or user interface"
 most_likely_cause: "Misread code or wrong manual"
 ---
 
-## State Water Heater E42 Error Code — What It Means
-
+## What this code means
 Error code E42 does not appear in available State Water Heaters service documentation or diagnostic charts. State heat pump models use built-in diagnostics that require a multimeter and the model-specific fault code table to interpret properly. Without the exact model number and control platform, it is impossible to determine what E42 indicates or which component has failed. If your display shows E42, the first step is to locate your model and serial number on the rating plate and cross-reference the code in the installation and service manual for that specific unit.
 
 Some water heaters from other manufacturers use error 42 to indicate exhaust or air pressure switch faults, but State's fault code assignments vary by model and fuel type. Do not assume E42 means the same thing across brands. If you recently installed a Honeywell smart thermostat or Wi-Fi module on your water heater system, E42 on that device means the router did not assign an IP address and is unrelated to water heater operation.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

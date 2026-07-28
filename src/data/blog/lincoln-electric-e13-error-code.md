@@ -13,11 +13,8 @@ money_part: "Output contactor"
 most_likely_cause: "Worn or pitted output contactor contacts"
 ---
 
-## Lincoln Electric E13 Error Code — What It Means
-
+## What this code means
 The E13 fault on Lincoln Electric welders (Power MIG and Power Wave series) indicates an output contactor fault — the contactor that connects the welding output to the torch/electrode circuit either failed to close on an arc-start command or opened unexpectedly during a weld. This contactor is what physically enables welding output; if it won't close, no arc can be struck regardless of other settings.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

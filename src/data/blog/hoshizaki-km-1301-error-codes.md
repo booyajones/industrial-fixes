@@ -13,11 +13,8 @@ money_part: "Thermistor"
 most_likely_cause: "Long freeze cycle"
 ---
 
-## Hoshizaki KM-1301 Error Codes — What It Means
-
+## What this code means
 The Hoshizaki KM-1301 is a large-capacity crescent cuber used in hotels, restaurants, and institutional kitchens. It uses the Hoshizaki control board with diagnostic LEDs and fault memory rather than a text-heavy display. Most service techs interpret KM-series faults by the alarm pattern, board LEDs, and cycle timing behavior.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ The Hoshizaki KM-1301 is a large-capacity crescent cuber used in hotels, restaur
 | Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?ascsubtag=ecf-hoshizaki-km-1301-error-codes&tag=errorcodefixes-20) \| If leaking or slow-filling |
 ## When to Call a Pro
 If the KM-1301 is running long cycles with a clean condenser and good water flow, the issue may be refrigerant charge, a restricted TXV, or a hot gas valve problem. Those are refrigeration service jobs.
-
-## Related Articles
-
-- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
-- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)
-- [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
-- [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)
-
-## See Also
-
-- [Hoshizaki KM-515 Error Codes — Fix Guide](/posts/hoshizaki-km-515-error-codes/)
-- [Hoshizaki vs Manitowoc Ice Machines — A Commercial Tech's Honest Comparison (2026)](/posts/hoshizaki-vs-manitowoc-ice-machines/)
-- [Hoshizaki KM Series E1 Error Code — Causes & Fix](/posts/hoshizaki-km-series-e1-error/)
-- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)

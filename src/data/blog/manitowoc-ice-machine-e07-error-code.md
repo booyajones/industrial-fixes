@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Manitowoc E07 Error Code — What It Means
-
+## What this code means
 E07 on Manitowoc Indigo-style ice machines signals a starving TXV or low refrigerant charge condition detected during the freeze cycle. The control board logs this fault after ten consecutive occurrences where the evaporator inlet temperature (T3) and outlet temperature (T4) differ by more than 12°F during the last minute of freeze. This abnormal pattern means the evaporator is not receiving enough refrigerant to complete a normal freeze, either because the system is low on charge or because something is restricting flow into the metering valve.
 
 The fault points directly to the refrigeration circuit rather than water supply or harvest issues. If the sealed system was opened recently for service, a restricted liquid line drier or plugged TXV inlet screen is the most likely culprit. If the system has never been opened, a refrigerant leak or a defective TXV itself is typically responsible.
@@ -24,8 +23,6 @@ The fault points directly to the refrigeration circuit rather than water supply 
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board or temperature sensors when they see E07, but this code is specifically a refrigerant-side fault. Check superheat, subcooling, and TXV screen restriction before ordering any electrical parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a licensed refrigeration technician immediately for E07. This fault requires recovering refrigerant, opening the sealed system, measuring superheat and subcooling, and potentially replacing the TXV or drier. Refrigerant work is regulated by EPA Section 608 certification rules, and mishandling can damage the compressor or void your warranty. A qualified ice-machine technician will have the gauges, vacuum pump, leak detector, and refrigerant to diagnose the exact restriction or leak point and restore the machine to proper freeze performance. Do not attempt to add refrigerant or replace valves without proper training and equipment.
 
 **Rough cost:** A pro service call runs about $250-500.
-
-## See Also
-
-- [Manitowoc Ice Machine Error Code 5 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-5/)
-- [Manitowoc Ice Machine Error Code 9 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-9/)
-- [Manitowoc Ice Machine E04 Error: High Condenser Temperature Causes and Fix](/posts/manitowoc-e04-high-condenser-temp/)
-- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)

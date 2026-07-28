@@ -249,10 +249,3 @@ A: Daikin recommends annual preventive maintenance by a qualified technician. On
 
 **Q: What's the refrigerant charge capacity of a typical VRV IV system?**
 A: A standard VRV IV outdoor unit (REYQ series) charges approximately 20–40 lbs of R-410A depending on the tonnage and piping length. Additional charge is required for extended pipe runs (piping field charge). Total system charge on a large VRV installation can exceed 100 lbs.
-
-## See Also
-
-- [Daikin U4 Error Code — Causes & Fix](/posts/daikin-u4-error-code/)
-- [Daikin U9 Error Code — Causes & Fix](/posts/daikin-u9-error-code/)
-- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
-- [Daikin U4 Error Code — Indoor-Outdoor Communication Fix](/posts/daikin-error-code-u4/)

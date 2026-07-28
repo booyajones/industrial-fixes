@@ -20,8 +20,6 @@ A Samsung oven display that is not working means the control panel is dead, blan
 
 In most cases, technicians trace this symptom to either the main control board, the user interface board, or a power-supply issue feeding those boards. Less often, the problem is as simple as Child Lock being enabled, debris stuck under buttons, or moisture on a touch panel.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed main control board or power supply board** The main board supplies low-voltage DC (typically 8 VDC, 12 VDC, 5 VDC, and 3.3 VDC depending on model) to the display, and when this board fails the screen goes completely dead.
@@ -55,18 +53,18 @@ In most cases, technicians trace this symptom to either the main control board, 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Samsung Oven 5E error code](/posts/samsung-oven-5e-error-code/)
-- [Samsung Oven C 20 error code](/posts/samsung-oven-c-20-error-code/)
-- [Samsung Oven C 21 error code](/posts/samsung-oven-c-21-error-code/)
-- [Samsung Oven C 22 error code](/posts/samsung-oven-c-22-error-code/)
-- [Samsung Oven C 23 error code](/posts/samsung-oven-c-23-error-code/)
-- [Samsung Oven C 24 error code](/posts/samsung-oven-c-24-error-code/)
-- [Samsung Oven C D0 error code](/posts/samsung-oven-c-d0-error-code/)
-- [Samsung Oven C D1 error code](/posts/samsung-oven-c-d1-error-code/)
-- [Samsung Oven C F0 error code](/posts/samsung-oven-c-f0-error-code/)
+- Samsung Oven 5E error code
+- Samsung Oven C 20 error code
+- Samsung Oven C 21 error code
+- Samsung Oven C 22 error code
+- Samsung Oven C 23 error code
+- Samsung Oven C 24 error code
+- Samsung Oven C D0 error code
+- Samsung Oven C D1 error code
+- Samsung Oven C F0 error code
 - [Samsung Oven E 08 error code](/posts/samsung-oven-e-08-error-code/)
 - [Samsung Oven E 27 error code](/posts/samsung-oven-e-27-error-code/)
-- [Samsung Oven E 28 error code](/posts/samsung-oven-e-28-error-code/)
+- Samsung Oven E 28 error code
 
 ## When to Call a Pro
 

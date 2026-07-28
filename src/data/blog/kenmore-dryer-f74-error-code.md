@@ -16,8 +16,7 @@ part_price: "$50-250"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Dryer F74 Error Code — What It Means
-
+## What this code means
 The F74 error code is not a widely documented standard Kenmore dryer fault code across all models. Kenmore dryers use many different platforms and manufacturers, so the exact meaning of F74 depends entirely on your specific model number. The code does not appear in common Kenmore dryer service literature with a single verified definition. Some Kenmore codes share similarities with Whirlpool, Maytag, or LG platforms, but without your exact model number and tech sheet, assuming a borrowed definition can lead to misdiagnosis and wasted parts.
 
 The safest approach is to locate the tech sheet inside your dryer cabinet (often taped to the blower housing or inside the control console) and cross-reference F74 in the fault code table printed there. If no tech sheet is present, contact Kenmore support with your full model number from the door opening or rear data plate. In the absence of model-specific documentation, treat F74 as a general electronic communication or component fault and inspect wiring harnesses, connectors at the main control board and user interface, and any temperature sensors before replacing expensive boards.
@@ -25,8 +24,6 @@ The safest approach is to locate the tech sheet inside your dryer cabinet (often
 ## Before You Replace Anything
 
 Many homeowners replace the main electronic control board without first checking for loose or corroded harness connectors. Inspect and reseat every connector at the board, user interface, and sensors before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

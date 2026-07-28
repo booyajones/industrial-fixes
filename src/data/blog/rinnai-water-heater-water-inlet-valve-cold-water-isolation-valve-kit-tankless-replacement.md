@@ -52,10 +52,3 @@ The valve kit fails when the ball valve body cracks, the handle mechanism strips
 ## When to Call a Pro
 
 Call a licensed plumber or Rinnai service technician if you are not comfortable working with gas connections or water supply plumbing under pressure, if the heater inlet threads on the unit itself are damaged and require heat-exchanger access, or if you continue to see Code 31 or inlet pressure faults after replacing the valve kit and confirming normal supply pressure. Professional help is also recommended if your installation uses soldered copper, compression, or proprietary fittings that require special tools, or if local code requires permitted plumbing work and inspection for water heater service valve replacement. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rinnai Error Code 07 — Heat Exchanger High Temperature Fix](/posts/rinnai-error-code-07/)
-- [Rinnai Error Code 32 — Causes & Fix](/posts/rinnai-error-code-32/)
-- [Rinnai Error Code 61 — Causes & Fix](/posts/rinnai-error-code-61/)
-- [Rinnai Water Heater Water Too Hot - Causes & Fix](/posts/rinnai-water-heater-water-too-hot/)

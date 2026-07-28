@@ -17,8 +17,7 @@ money_part: "Whirlpool dishwasher circulation pump or wash motor assembly"
 part_price: "$80-250"
 ---
 
-## Whirlpool Dishwasher F7E2 Error — What It Means
-
+## What this code means
 F7E2 on a Whirlpool dishwasher is a wash motor or circulation pump fault code. Whirlpool's product-help page instructs users to cycle power to reset the control before further diagnosis, which indicates the code is handled as a dishwasher motor-related control fault. The code can be triggered by motor failure, motor speed sensing issues, motor overheat conditions, or problems in the motor circuit. Some sources incorrectly describe F7E2 as a water-inlet or thermistor problem, but those explanations conflict with Whirlpool's official reset-first dishwasher help page and consistent technician reports.
 
 The code does not always mean the motor itself is bad. It can appear when debris blocks the impeller and stalls the pump, when connectors corrode or loosen between the control and motor, when a speed sensor or Hall sensor fails on models that use feedback sensing, or when the main control board's motor drive output develops a fault. A power reset clears many transient faults, so the first step is always to cycle power and retest before replacing any parts.
@@ -26,8 +25,6 @@ The code does not always mean the motor itself is bad. It can appear when debris
 ## Before You Replace Anything
 
 Many people replace the control board first, but the real cause is often a seized or dirty circulation pump or a bad connector at the motor. Always inspect the sump, test the motor electrically, and check the harness before ordering a control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

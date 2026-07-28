@@ -17,8 +17,7 @@ money_part: "Keypad / touchpad assembly"
 part_price: "$40-120"
 ---
 
-## Whirlpool Microwave F02 Error — What It Means
-
+## What this code means
 The F02 error code on Whirlpool built-in microwaves signals an abnormal condition in the touchpad or keypad circuit, or in the wiring that connects the user interface to the main control board. The control detects a fault in the keypad assembly or its harness, so the oven may stop responding to button presses or lock you out entirely.
 
 This is not a cooking-performance issue. It is an electrical control fault. In most cases the keypad itself or the ribbon cable connecting it to the control board is loose, corroded, or damaged. Occasionally moisture intrusion into the keypad area can trigger a false fault. If wiring and keypad checks do not clear the code, the control board may be involved.
@@ -26,8 +25,6 @@ This is not a cooking-performance issue. It is an electrical control fault. In m
 ## Before You Replace Anything
 
 Many people replace the main control board first, only to find the code returns. Always reseat and inspect the ribbon cable connector and test the touchpad assembly before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

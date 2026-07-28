@@ -20,8 +20,7 @@ free_checks:
 part_price: "$40-75"
 ---
 
-## Frigidaire E47 Error Code — What It Means
-
+## What this code means
 E47 on Frigidaire front-load washers indicates a door-lock circuit fault. The control board is detecting an open or failed PTC (positive temperature coefficient) or wax-motor door lock circuit during the spin and lock sequence, so the washer will not proceed into spin mode. The control essentially believes the door lock mechanism cannot complete the locking cycle, either because the internal actuator has failed, the wiring is broken, or the door is not engaging the latch properly.
 
 The code is commonly described as the control board detecting that the PTC circuit inside the lock assembly is open or out of specification. Because the lock must secure the door before high-speed spin, the machine halts and displays E47 rather than risk an unlocked door during operation.
@@ -29,8 +28,6 @@ The code is commonly described as the control board detecting that the PTC circu
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first, but the door lock assembly and its wiring are almost always the real culprit. Ohm-test the lock's PTC motor (expect around 1,500 Ω) and inspect connectors before spending money on a control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

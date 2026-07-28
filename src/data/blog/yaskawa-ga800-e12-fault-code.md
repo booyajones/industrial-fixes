@@ -13,13 +13,10 @@ money_part: "Motor output cable / leads"
 most_likely_cause: "Open phase or missing motor lead"
 ---
 
-## Yaskawa GA800 E12 Fault Code — What It Means
-
+## What this code means
 The Er-12 fault on a Yaskawa GA800 variable frequency drive means the drive is not seeing a valid output current feedback signal, or the sensed current is outside the expected range for the operating condition. The drive's current measurement circuit has detected a problem, which typically points to a fault in the motor wiring or an internal drive issue.
 
 In practical terms, the drive either cannot measure the current flowing to the motor or the current pattern does not match what the drive expects during normal operation. This fault is linked to current detection signal problems and can occur during startup, auto-tuning, or under load.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ In practical terms, the drive either cannot measure the current flowing to the m
 ## When to Call a Pro
 
 Call a qualified technician or contact Yaskawa technical support if you have verified all motor wiring, tested the motor, and checked any contactors but the Er-12 fault continues to appear. Persistent faults after external wiring checks usually indicate an internal drive failure in the current detection circuit, which requires drive-level repair or replacement. Also call a pro if you are not comfortable working with live high-voltage VFD circuits or if your facility does not allow field troubleshooting of drive internals.
-
-## See Also
-
-- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
-- [Yaskawa GA800 oC Fault — Overcurrent Fix](/posts/yaskawa-ga800-error-oc/)
-- [Yaskawa A1000 Complete Guide - Fault Codes, Parameters, and Commissioning](/posts/yaskawa-a1000-complete-guide/)
-- [Yaskawa GA800 E03 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e03-fault-code/)

@@ -53,16 +53,16 @@ Common GE platforms use the WR55X10025 evaporator sensor, but the exact part num
 
 If this part is failing you may also see one of these codes:
 
-- [Ge Refrigerator Cc error code](/posts/ge-refrigerator-cc-error-code/)
-- [Ge Refrigerator Cf error code](/posts/ge-refrigerator-cf-error-code/)
-- [Ge Refrigerator Ci error code](/posts/ge-refrigerator-ci-error-code/)
-- [Ge Refrigerator De error code](/posts/ge-refrigerator-de-error-code/)
-- [Ge Refrigerator Df error code](/posts/ge-refrigerator-df-error-code/)
-- [Ge Refrigerator Ds error code](/posts/ge-refrigerator-ds-error-code/)
-- [Ge Refrigerator Ff error code](/posts/ge-refrigerator-ff-error-code/)
-- [Ge Refrigerator H2O error code](/posts/ge-refrigerator-h2o-error-code/)
-- [Ge Refrigerator Hs error code](/posts/ge-refrigerator-hs-error-code/)
-- [Ge Refrigerator Pf error code](/posts/ge-refrigerator-pf-error-code/)
+- Ge Refrigerator Cc error code
+- Ge Refrigerator Cf error code
+- Ge Refrigerator Ci error code
+- Ge Refrigerator De error code
+- Ge Refrigerator Df error code
+- Ge Refrigerator Ds error code
+- Ge Refrigerator Ff error code
+- Ge Refrigerator H2O error code
+- Ge Refrigerator Hs error code
+- Ge Refrigerator Pf error code
 
 ## When to Call a Pro
 

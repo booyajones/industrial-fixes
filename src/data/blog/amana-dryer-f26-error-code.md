@@ -15,8 +15,7 @@ most_likely_cause: "Main control board glitch or memory corruption"
 diy_or_pro: "pro"
 ---
 
-## Amana Dryer F26 Error Code — What It Means
-
+## What this code means
 The F26 code on an Amana dryer is a manufacturer service code that signals the control board has detected a problem requiring diagnosis. Amana and Whirlpool public help pages confirm F26 as a dryer error code but do not publish the exact component or circuit that triggers it. The manufacturer-recommended first step is to power down the unit at the circuit breaker for five minutes, restore power, and run a Timed Dry cycle to verify whether the code returns.
 
 Because Amana does not publicly define the underlying fault for F26, the exact meaning and failed component vary by model. F-codes on Amana dryers generally indicate control-detected faults that require service. To identify the specific component and diagnostic values, you need the model-specific service manual or tech sheet pasted inside the dryer cabinet or console.
@@ -24,8 +23,6 @@ Because Amana does not publicly define the underlying fault for F26, the exact m
 ## Before You Replace Anything
 
 Because Amana does not publish which component F26 monitors, replacing the main control board without diagnostic testing wastes money. Always pull the model's tech sheet and measure the suspect circuit before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

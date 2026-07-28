@@ -22,8 +22,7 @@ part_price: "$40-80"
 no_buy_pct: "25%"
 ---
 
-## Maytag Dishwasher F8E5 Error — What It Means
-
+## What this code means
 F8E5 is an overfill or water-level fault. Your Maytag dishwasher has detected that the wash tub has too much water and has entered a protective state. The machine begins a drain sequence and stops the normal cycle until the condition is cleared. This is not a generic drain error. The key issue is unexpected water in the tub or a failure of the fill control or level-sensing path to stop filling.
 
 The dishwasher believes the water level is dangerously high and will not resume operation until you address the root cause, which is usually either an inlet valve that will not close or a float and sensor problem that is misreading the water level.
@@ -31,8 +30,6 @@ The dishwasher believes the water level is dangerously high and will not resume 
 ## Before You Replace Anything
 
 Many people replace the control board first, thinking it is an electronic fault. Check the inlet valve for unintended water flow and inspect the float for free movement before replacing any electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -19,8 +19,6 @@ When a Kenmore dryer won't start, the symptom means the motor is not receiving a
 
 If the motor hums when you press Start but the drum does not turn, that points toward a failed motor, a seized drum or blower, or a mechanical bind rather than an open electrical safety. If nothing happens at all when Start is pressed, you are looking at no power, an open thermal fuse, a bad door switch, or a failed start switch or control board.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Blown thermal fuse** The thermal fuse opens when exhaust airflow is blocked or the dryer overheats, cutting power to the motor and controls, and it is the most common cause of a no-start condition on Kenmore dryers.

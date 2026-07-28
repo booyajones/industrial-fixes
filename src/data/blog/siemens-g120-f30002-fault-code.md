@@ -13,13 +13,10 @@ money_part: "Braking resistor for Siemens G120"
 most_likely_cause: "Too-rapid deceleration or aggressive ramp settings"
 ---
 
-## Siemens G120 F30002 — What It Means
-
+## What this code means
 F30002 on a Siemens SINAMICS G120 means DC-link overvoltage. The power unit has detected that the intermediate circuit voltage has exceeded its permitted limit and trips to protect itself. This is a drive hardware protection fault, not a motor overload condition.
 
 The fault is most often associated with regenerative energy returning from the motor back into the DC link, especially during deceleration or braking. When energy flows back faster than the drive can absorb or dissipate it, the DC bus voltage rises above the safe threshold and triggers the fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ The fault is most often associated with regenerative energy returning from the m
 ## When to Call a Pro
 
 Call a qualified drives technician or Siemens service partner if you have checked the braking resistor and ramp settings but the fault persists, or if you are unfamiliar with drive parameter configuration and DC-link diagnostics. Also call a professional if the fault occurs with no apparent regenerative condition (such as during constant speed) or if the drive's diagnostic buffer shows unusual voltage levels that suggest internal power unit damage. Applications with complex braking requirements or safety-rated motion control should always be serviced by trained personnel.
-
-## See Also
-
-- [Siemens VFD F1 Fault - Causes & Fix](/posts/siemens-vfd-f1-fault/)
-- [Siemens G120 F01018 - Causes & Fix](/posts/siemens-g120-f01018-fault-code/)
-- [Siemens G120 F01600 - Causes & Fix](/posts/siemens-g120-f01600-fault-code/)
-- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)

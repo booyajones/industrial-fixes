@@ -17,8 +17,7 @@ money_part: "Float switch assembly"
 part_price: "$15-50"
 ---
 
-## GE Dishwasher C4 Error Code — What It Means
-
+## What this code means
 On GE dishwashers, the C4 code indicates an overfill condition or that the machine has detected too much water. The control may display this if the float assembly signals high water level or if the unit filled twice after a power interruption. The code does not point to a drain or cooling fault.
 
 The dishwasher uses a float switch assembly, typically an upside-down cup-like part in the tub floor, to monitor water level. When the float rises too high or the switch fails to reset, the control throws C4 and stops the cycle to prevent flooding.
@@ -26,8 +25,6 @@ The dishwasher uses a float switch assembly, typically an upside-down cup-like p
 ## Before You Replace Anything
 
 Many homeowners replace the main control board when C4 appears, but a stuck or soap-clogged float in the tub floor is the usual culprit. Always inspect and free the float assembly before ordering electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

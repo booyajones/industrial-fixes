@@ -13,11 +13,8 @@ money_part: "Discharge temperature sensor (thermistor)"
 most_likely_cause: "Failed discharge thermistor"
 ---
 
-## Daikin F3 Error Code — What It Means
-
+## What this code means
 The Daikin F3 error code indicates a **discharge temperature sensor (thermistor) fault** on the outdoor unit. The discharge sensor monitors compressor outlet temperature to protect the compressor from overheating. When the sensor reads out of its valid range — either an open circuit (disconnected/failed) or a short circuit (shorted thermistor) — the outdoor unit board logs F3 and stops compressor operation. The system will not resume heating or cooling until the sensor or its wiring is restored to normal range.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,21 +41,3 @@ The Daikin F3 error code indicates a **discharge temperature sensor (thermistor)
 ## When to Call a Pro
 
 If the sensor and wiring test good but F3 persists, the outdoor unit PCB may have a failed thermistor input circuit. PCB replacement on Daikin outdoor units requires refrigerant system awareness and should be done by a certified HVAC technician.
-
-## Related Articles
-
-- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
-- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
-- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
-- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
-- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Mitsubishi mini split P5 drain fault](/posts/mitsubishi-p5-error-code/)
-
-## See Also
-
-- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
-- [Daikin RXYQ VRV System Error Codes — Complete Fault Code Guide](/posts/daikin-rxyq-error-codes/)
-- [Daikin RXQ VRV System Error Codes (Outdoor Unit): Complete Guide](/posts/daikin-vrv-rxq-error-codes/)
-- [Daikin L5 Error Code — Compressor Lock Fix](/posts/daikin-error-code-l5/)

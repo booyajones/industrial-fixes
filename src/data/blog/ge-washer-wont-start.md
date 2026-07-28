@@ -19,8 +19,6 @@ When a GE washer won't start, you're seeing a symptom with several possible caus
 
 If your model has a digital display, it may store and show diagnostic or error codes that point to the specific subsystem blocking the start. Without a code on the screen, GE troubleshooting guidance starts with checking for lockouts, power issues, and door/lid closure. A stored fault in control memory can also mislead diagnosis if you don't clear it and recheck after a repair, so reading and clearing codes is an important part of the diagnostic process.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Control Lock enabled** The keypad is disabled until you turn off the lock, so the washer ignores all button presses.
@@ -53,7 +51,7 @@ If your model has a digital display, it may store and show diagnostic or error c
 
 Seeing a code on the display? These match this problem:
 
-- [Ge Washer E23 error code](/posts/ge-washer-e23-error-code/)
+- Ge Washer E23 error code
 
 ## When to Call a Pro
 

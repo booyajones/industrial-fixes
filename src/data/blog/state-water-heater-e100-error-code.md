@@ -13,11 +13,8 @@ money_part: "Inlet water filter screen"
 most_likely_cause: "Blocked air intake screens"
 ---
 
-## State Water Heater E100 Error Code — What It Means
-
+## What this code means
 The E100 code on a State tankless water heater signals an ignition failure or no-ignition lockout. The unit attempted to start its burner but could not prove flame during the ignition sequence. This fault is most commonly tied to blocked air intake screens, restricted gas supply, or low water flow through a clogged inlet filter. The heater enters a safety lockout to prevent unburned gas from accumulating.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

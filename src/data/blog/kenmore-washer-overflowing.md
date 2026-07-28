@@ -19,8 +19,6 @@ A Kenmore washer overflowing means the machine is overfilling or not stopping th
 
 If the tub keeps filling even when the washer is unplugged, the inlet valve is leaking past its seat. If the machine fills too high before stopping, the pressure switch or the air hose connecting the tub to the switch has failed or become blocked.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Water inlet valve stuck open** The solenoid or valve seat has failed, allowing water to continue entering the tub even when power is removed.
@@ -54,8 +52,8 @@ If the tub keeps filling even when the washer is unplugged, the inlet valve is l
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kenmore Washer E14 error code](/posts/kenmore-washer-e14-error-code/)
-- [Kenmore Washer E24 error code](/posts/kenmore-washer-e24-error-code/)
+- Kenmore Washer E14 error code
+- Kenmore Washer E24 error code
 - [Kenmore Washer F0 E2 error code](/posts/kenmore-washer-f0-e2-error-code/)
 - [Kenmore Washer F0 E4 error code](/posts/kenmore-washer-f0-e4-error-code/)
 - [Kenmore Washer F1 E1 error code](/posts/kenmore-washer-f1-e1-error-code/)

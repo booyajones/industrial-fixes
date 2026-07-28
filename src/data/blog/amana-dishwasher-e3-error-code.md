@@ -21,8 +21,7 @@ free_checks:
 part_price: "$75-130"
 ---
 
-## Amana Dishwasher E3 Error Code — What It Means
-
+## What this code means
 On Amana dishwashers, what appears as "E3" is typically the **F4 E3** error code, which indicates a **wash motor or circulation pump fault**. The control board detects that the circulation pump is not running as expected during the wash cycle. The dishwasher may fill with water normally, but the spray arms do not rotate and dishes remain unwashed because the pump is not circulating water through the system.
 
 This code means the electronic control is either not receiving feedback that the wash motor is running, or it is not able to drive the motor at all. The fault can stem from a failed pump motor itself, damaged wiring between the control and the pump, or occasionally a failed control board that cannot send the correct signals to start the motor.
@@ -30,8 +29,6 @@ This code means the electronic control is either not receiving feedback that the
 ## Before You Replace Anything
 
 Many people replace the control board first when they see an error code, but the circulation pump itself fails far more often. Before swapping the board, use a multimeter to confirm whether 120 VAC is present at the pump connector during a wash cycle. If voltage is present and the pump does not run, the pump is the problem.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

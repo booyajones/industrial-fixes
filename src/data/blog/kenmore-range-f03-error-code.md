@@ -17,8 +17,7 @@ money_part: "Oven temperature sensor probe"
 part_price: "$15-40"
 ---
 
-## Kenmore Range F03 Error Code — What It Means
-
+## What this code means
 The F03 (or F3) error code on a Kenmore range indicates an oven temperature sensor circuit fault. The electronic control board has detected that the oven temperature probe, its wiring, or the control board itself is reading out of range, open, or shorted. This is not a heating element failure but a sensor circuit problem that prevents the control from accurately monitoring oven temperature.
 
 The fault path typically involves one of three components: the oven temperature sensor (probe), the wiring harness and connectors between the sensor and control board, or the electronic control board. The control will not allow the oven to operate normally until the sensor circuit is restored to the proper range.
@@ -26,8 +25,6 @@ The fault path typically involves one of three components: the oven temperature 
 ## Before You Replace Anything
 
 Many homeowners replace the electronic control board first when the actual problem is a $20 sensor or a loose connector. Always test the sensor resistance with a multimeter and inspect the wiring before ordering a control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

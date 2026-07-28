@@ -13,11 +13,8 @@ money_part: "Control board (model-specific)"
 most_likely_cause: "Misread or transposed code"
 ---
 
-## State Water Heater E57 Error Code — What It Means
-
+## What this code means
 An E57 error code does not appear in the published State Water Heaters technical documentation available at this time. State uses a variety of control platforms across its product line, and error codes vary by model family and manufacture date. Before attempting any repair, confirm the exact code displayed on your unit's control board or LED indicator and locate the model number on the data plate (typically on the front or side of the tank). Some codes that look similar (such as E5, E7, or others in the E-series) relate to sensor faults, ignition problems, or flow issues on tankless models, but without manufacturer confirmation you cannot safely assume E57 has the same meaning.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

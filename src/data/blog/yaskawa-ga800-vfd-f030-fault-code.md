@@ -21,15 +21,12 @@ part_price: "$80-250 for brake resistor"
 no_buy_pct: "60%"
 ---
 
-## Yaskawa GA800 Fault 030 — What It Means
-
+## What this code means
 Fault 030 (OV) indicates the DC bus voltage inside the GA800 drive has exceeded the overvoltage detection threshold, typically above 800 VDC for 400V-class drives or above 750 VDC for 200V-class drives depending on the model. The drive shuts down output to protect IGBTs and capacitors from damage. Note that F030 is a parameter name (Acceleration Time 1), not a fault code. The actual fault code is 030, which corresponds to overvoltage.
 
 ## Before You Replace Anything
 
 Technicians often replace the drive power board when the real cause is simply deceleration time set too short. Check and increase parameter F010 (Deceleration Time 1) and verify brake resistor sizing before replacing any electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -19,8 +19,6 @@ When a Frigidaire dishwasher won't latch, the control is not seeing a valid door
 
 The control board expects a signal from the door latch or switch confirming the door is secured. If that signal never arrives because of mechanical interference, a worn latch, a misaligned strike, or a faulty switch, the dishwasher refuses to run.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Rack or dish interference** A tall dish, pot handle, or utensil prevents the door from closing flush against the gasket and engaging the latch.

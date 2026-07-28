@@ -17,8 +17,7 @@ free_checks:
   - "Verify the gas valve is open and the water pressure gauge reads within the normal range for your model"
 ---
 
-## Weil-McLain Boiler A139 Error — What It Means
-
+## What this code means
 A139 does not appear as a standard fault code across Weil-McLain boiler product lines. Weil-McLain uses model-specific control platforms, and each boiler stores fault codes in its diagnostics or error history menu. The exact meaning of any alphanumeric display depends on your boiler model, control board family, and the firmware version. To identify the actual fault, enter the contractor or diagnostics menu on your control panel, navigate to the errors or lockout history screen, and read the full fault description. The manual for your specific model will then provide the corrective action for that fault.
 
 If you saw A139 on a label, part number, or installation document rather than the live display, it may refer to a component code or board revision rather than an active fault. Always cross-reference the exact model and serial number on your boiler with the manufacturer's manual or contact a qualified technician to retrieve the fault history and diagnose the root cause.
@@ -26,8 +25,6 @@ If you saw A139 on a label, part number, or installation document rather than th
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board or flame sensor without first checking the diagnostics menu for the actual fault code and verifying gas pressure, venting, and water flow, which are the usual lockout triggers.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a qualified HVAC technician whenever you cannot access the diagnostics menu, the fault code is not listed in your manual, or the boiler repeatedly locks out after you clear the error. Gas-fired boilers require a licensed professional to test gas pressure, verify combustion air and venting, inspect the heat exchanger, and handle any repairs involving the gas valve, burner assembly, or sealed combustion chamber. Technicians have the manufacturer-specific diagnostic tools and code libraries needed to decode model-specific faults, retrieve detailed lockout histories, and make sure safe operation. If you are unsure of your boiler's exact model or the fault involves high-voltage controls, combustion components, or pressure switches, professional service is the safest and most reliable path to a correct repair.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain A76 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a76-error-code/)
-- [Weil-McLain Boiler A156 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a156-error-code/)
-- [Weil-McLain Boiler A180/E18 Error - Causes & Fix](/posts/weil-mclain-boiler-a180-error-code/)
-- [Weil-McLain Boiler A149 Error - Causes & Fix](/posts/weil-mclain-boiler-a149-error-code/)

@@ -20,8 +20,6 @@ A Frigidaire oven that is not temperature accurate means the actual cavity tempe
 
 When no code appears, the most common culprits are a miscalibrated control offset, a failing oven temperature sensor, or a weak bake element. Door heat loss and cookware choices can also create apparent temperature errors, but those are usage factors rather than component faults.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Miscalibration or wrong temperature offset** The oven cycles heat correctly but the control's offset is wrong, so the displayed setpoint does not match the cavity temperature.

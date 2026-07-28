@@ -13,11 +13,8 @@ money_part: "Inlet temperature sensor (thermistor)"
 most_likely_cause: "Preheated inlet water"
 ---
 
-## GE Water Heater F62 Error Code — What It Means
-
+## What this code means
 The F62 error code on GE GeoSpring heat pump water heaters indicates that the unit is detecting incoming water that is too hot at the cold inlet. This is a protective fault specific to GE Appliances heat pump models, not standard tank heaters. The water heater expects cold inlet water and flags F62 when that supply temperature exceeds its acceptable range. GE's published corrective action is to reduce any preheating of the inlet water or contact service if the problem persists. Because fault codes can vary by model family, always confirm F62 against your specific unit's Owner's Manual.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

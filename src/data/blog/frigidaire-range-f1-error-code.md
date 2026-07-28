@@ -17,8 +17,7 @@ money_part: "Frigidaire range keypad or console assembly"
 part_price: "$60-180"
 ---
 
-## Frigidaire Range F1 Error Code — What It Means
-
+## What this code means
 Frigidaire's published error-code guide defines F1 as a shorted keypad fault. The electronic oven control sees a keypad line stuck active, shorted, or otherwise invalid, so it cannot trust user input from the control panel. On some models and failure states, F1 can also signal a control-board or oven-control fault triggered by the keypad circuit or by an overheating or false-temperature condition during heating.
 
 Electrically, the control detects a keypad signal that is continuously active or out of range. This can be caused by a physically stuck button, moisture or food residue on the touch panel, a damaged membrane or control console, a loose or corroded ribbon-cable connector between the console and the main board, or a failure in the user interface board or electronic oven control itself. If the fault appears during a bake or cleaning cycle and the oven is actually running too hot, the oven temperature sensor probe or control relay circuit may be the underlying problem.
@@ -26,8 +25,6 @@ Electrically, the control detects a keypad signal that is continuously active or
 ## Before You Replace Anything
 
 Many people replace the main electronic oven control board first. Before ordering that expensive part, disconnect power for five minutes and check every button for physical sticking, inspect the console for moisture or residue, and reseat the ribbon cable between the console and control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

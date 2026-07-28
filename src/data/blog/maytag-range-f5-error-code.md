@@ -20,15 +20,12 @@ free_checks:
 part_price: "$50-100"
 ---
 
-## Maytag Range F5 Error — What It Means
-
+## What this code means
 The F5 fault on a Maytag range is a door-latch or door-lock detection problem. The control board is not seeing the expected door-lock state from the latch and switch circuit. In plain terms, the oven cannot confirm that the door is properly locked or unlocked when it expects to. This is not a heating code. The fault points to the oven door latch assembly, door latch switches, or the wiring connecting them to the control.
 
 ## Before You Replace Anything
 
 Many people replace the control board first. Check the latch assembly and switches for binding, misalignment, or electrical failure before ordering the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,11 +13,8 @@ money_part: "Input fuses (semiconductor type)"
 most_likely_cause: "Open fuse or circuit breaker on one phase"
 ---
 
-## ABB ACS880 Fault 3130 — What It Means
-
+## What this code means
 Fault 3130 (Input Phase Loss) on an ABB ACS880 drive means the drive's input phase monitor has detected that one phase of the incoming three-phase supply is missing or severely unbalanced. The ACS880 monitors all three input phases continuously; a missing phase forces the drive to rectify on two legs, producing abnormal DC bus ripple and causing overheating of the input rectifier. The drive trips immediately to protect the power electronics. This fault is identical in meaning to 3130 on the ACS550 and ACS580, though the ACS880's higher power rating means the consequences of ignoring it are more severe.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Fault 3130 (Input Phase Loss) on an ABB ACS880 drive means the drive's input pha
 ## When to Call a Pro
 
 Fault 3130 diagnosis involves live three-phase voltages up to 690 VAC. All measurements must be made by a qualified electrical technician wearing appropriate PPE. Never probe input terminals on a live drive without arc-flash assessment.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-
-## See Also
-
-- [ABB ACS580 Fault 3210 — DC Overvoltage Fix](/posts/abb-acs580-fault-3210/)
-- [ABB Tmax/Emax Circuit Breaker Fault Codes - Complete Guide](/posts/abb-circuit-breaker-fault-codes/)
-- [ABB ACH580 HVAC VFD Fault Codes — Full Diagnostic Guide - What It Means and How to Fix It](/posts/abb-ach580-fault-codes/)
-- [ABB ACS550 Complete Fault Code Guide — All Faults and Fixes](/posts/abb-acs550-complete-guide/)

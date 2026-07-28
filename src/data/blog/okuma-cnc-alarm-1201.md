@@ -13,11 +13,8 @@ money_part: "Spindle amplifier cooling fan"
 most_likely_cause: "Aggressive cutting parameters"
 ---
 
-## Okuma CNC Alarm 1201 — What It Means
-
+## What this code means
 Okuma CNC alarm 1201 indicates a spindle overload — the spindle drive (OKUMA OSP spindle amplifier or third-party inverter) detected that the spindle motor was drawing current exceeding its continuous or peak rating. On Okuma OSP-P200/P300 series controls, alarm 1201 appears when the spindle amplifier's thermal or overcurrent protection trips due to sustained heavy cutting, stall, or mechanical binding at the spindle. The spindle shuts down immediately and the machine goes to feed hold. The spindle motor must cool before the alarm can be cleared.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Okuma CNC alarm 1201 indicates a spindle overload — the spindle drive (OKUMA O
 ## When to Call a Pro
 
 If alarm 1201 returns at cutting parameters well within the tool manufacturer's recommendations and with confirmed good tooling, the spindle motor may have insulation degradation that reduces effective winding capacity. An Okuma service technician can measure motor efficiency and spindle bearing preload.
-
-## Related Articles
-
-- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
-- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
-- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-
-## See Also
-
-- [Okuma CNC Alarm 1800 — Causes & Fix](/posts/okuma-cnc-alarm-1800/)
-- [Okuma OSP Alarm 2202 — Spindle Fix](/posts/okuma-alarm-2202/)
-- [Okuma CNC Alarm 1013 — Servo Axis Fault Fix](/posts/okuma-cnc-alarm-1013-servo-axis-fault/)
-- [Okuma CNC Alarm 1400 — Encoder Error](/posts/okuma-cnc-alarm-1400/)

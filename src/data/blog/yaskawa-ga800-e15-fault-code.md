@@ -13,13 +13,10 @@ money_part: "Yaskawa GA800 communication option card"
 most_likely_cause: "Loss of communication between drive and option board or controller."
 ---
 
-## Yaskawa GA800 E15 Fault — What It Means
-
+## What this code means
 E15 on a Yaskawa GA800 is a communication-related fault tied to a specific option board or control link installed in the drive. The most common interpretation is a communications error detected on the SI-F/G interface or another parameterized communication path used to send run commands or frequency references. The exact fault text depends on which communication option is fitted in your drive, so identifying the installed option card or control interface is the first step in diagnosis.
 
 This fault is not a general drive failure. It means the drive has lost contact with the option module, received corrupted data on the communication link, or detected a parameter mismatch between the drive and the control source. The fault will persist until you remove the cause and reset the drive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ This fault is not a general drive failure. It means the drive has lost contact w
 ## When to Call a Pro
 
 Call a qualified drive technician or Yaskawa service representative if the fault returns after you have verified all parameters, replaced the communication cable and option card, and confirmed correct wiring and grounding. Persistent communication faults that survive hardware replacement usually indicate a failure on the drive's main control board or a system-level configuration error that requires specialized diagnostic tools. Also call for help if you are not trained to safely work inside energized industrial equipment or if your process cannot tolerate extended downtime for trial-and-error troubleshooting.
-
-## See Also
-
-- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
-- [Yaskawa Sigma-7 SGD7S Servo Drive Alarm Codes — Diagnosis & Fix](/posts/yaskawa-sigma7-sgd7s-alarm-codes/)
-- [Yaskawa GA800 E10 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e10-fault-code/)
-- [Yaskawa GA800 Uv1 Fault — DC Undervoltage Fix](/posts/yaskawa-ga800-error-uv1/)

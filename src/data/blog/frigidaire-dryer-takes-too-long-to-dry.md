@@ -19,8 +19,6 @@ When your Frigidaire dryer takes too long to dry, it means the machine is not dr
 
 Frigidaire points out that certain settings like Air Fluff tumble without heat, so clothes will not dry at all on that cycle. The company also notes that running on 208 V instead of the required 240 V can increase drying time, and that high humidity in the room can extend cycles as well.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Lint screen clogged or coated with residue** Frigidaire says the lint filter should be cleaned after every load and washed periodically in warm soapy water to remove fabric softener or detergent film that blocks airflow.
@@ -55,18 +53,18 @@ Frigidaire points out that certain settings like Air Fluff tumble without heat, 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Frigidaire Dryer Al 01 error code](/posts/frigidaire-dryer-al-01-error-code/)
+- Frigidaire Dryer Al 01 error code
 - [Frigidaire Dryer Al 02 error code](/posts/frigidaire-dryer-al-02-error-code/)
-- [Frigidaire Dryer Al 03 error code](/posts/frigidaire-dryer-al-03-error-code/)
+- Frigidaire Dryer Al 03 error code
 - [Frigidaire Dryer Al 04 error code](/posts/frigidaire-dryer-al-04-error-code/)
-- [Frigidaire Dryer Al 05 error code](/posts/frigidaire-dryer-al-05-error-code/)
-- [Frigidaire Dryer Al 06 error code](/posts/frigidaire-dryer-al-06-error-code/)
-- [Frigidaire Dryer Al 07 error code](/posts/frigidaire-dryer-al-07-error-code/)
-- [Frigidaire Dryer Al 08 error code](/posts/frigidaire-dryer-al-08-error-code/)
+- Frigidaire Dryer Al 05 error code
+- Frigidaire Dryer Al 06 error code
+- Frigidaire Dryer Al 07 error code
+- Frigidaire Dryer Al 08 error code
 - [Frigidaire Dryer Al 09 error code](/posts/frigidaire-dryer-al-09-error-code/)
-- [Frigidaire Dryer Al 10 error code](/posts/frigidaire-dryer-al-10-error-code/)
-- [Frigidaire Dryer Al 11 error code](/posts/frigidaire-dryer-al-11-error-code/)
-- [Frigidaire Dryer Al 12 error code](/posts/frigidaire-dryer-al-12-error-code/)
+- Frigidaire Dryer Al 10 error code
+- Frigidaire Dryer Al 11 error code
+- Frigidaire Dryer Al 12 error code
 
 ## When to Call a Pro
 

@@ -13,11 +13,8 @@ money_part: "ABB ACS580 control panel (keypad assembly)"
 most_likely_cause: "Loose or unplugged control panel cable"
 ---
 
-## ABB ACS580 A7EE Fault — What It Means
-
+## What this code means
 The A7EE fault code on an ABB ACS580 drive indicates panel loss. This means the drive has detected that the control panel or PC tool selected as the active control location has stopped communicating with the drive. This is not a motor or power problem. It is a communication interruption between the drive and the local HMI or computer interface.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ The A7EE fault code on an ABB ACS580 drive indicates panel loss. This means the 
 ## When to Call a Pro
 
 Call a qualified drive technician or ABB service if the A7EE fault persists after reseating all connections and cycling power. If the panel drops out immediately after clearing the fault, the control board, panel hardware, or internal communication path likely has a defect that requires factory diagnostics. Also contact a professional if you are not familiar with parameter navigation or PC tool setup, or if your drive is still under warranty and you need to preserve support coverage.
-
-## See Also
-
-- [ABB ACS550 EFB 1 Fault - Causes & Fix](/posts/abb-acs550-efb-1-fault-code/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS550 EFB2 Fault Code - Causes & Fix](/posts/abb-acs550-efb2-fault-code/)
-- [ABB ACS580 A2B4 Fault Code - Causes & Fix](/posts/abb-acs580-a2b4-fault-code/)

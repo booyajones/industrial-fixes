@@ -19,8 +19,6 @@ When a Kenmore refrigerator ice maker stops working, it means the unit is not re
 
 In practical terms, you will either see no ice production at all, partial cubes, or the ice maker will not cycle through its harvest routine. The root cause is almost always in the water delivery path or the freezer environment, though internal module failures do occur on older units.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged water filter or restriction in filter housing** A restricted filter or check valve inside the housing blocks flow to the ice maker, preventing the fill cycle even when the valve and supply line are good.
@@ -54,9 +52,9 @@ In practical terms, you will either see no ice production at all, partial cubes,
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kenmore Refrigerator Er 1F error code](/posts/kenmore-refrigerator-er-1f-error-code/)
-- [Kenmore Refrigerator Er Dh error code](/posts/kenmore-refrigerator-er-dh-error-code/)
-- [Kenmore Refrigerator Er Ff error code](/posts/kenmore-refrigerator-er-ff-error-code/)
+- Kenmore Refrigerator Er 1F error code
+- Kenmore Refrigerator Er Dh error code
+- Kenmore Refrigerator Er Ff error code
 
 ## When to Call a Pro
 

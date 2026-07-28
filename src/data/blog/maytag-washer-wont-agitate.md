@@ -19,8 +19,6 @@ When your Maytag washer won't agitate, the tub fills and drains but clothes just
 
 On Maytag top-load HE models the most common culprit is the shift actuator or splutch assembly that physically shifts the transmission between agitate and spin. When this component fails or gets stuck, the control can't command agitation even though the motor may still run for spin. Other platforms may use a belt-and-pulley or direct-drive design, so the exact fault path depends on your washer model. The control board may log an F7-type shifter fault if it detects the actuator isn't responding, but many no-agitate failures won't show any code at all until you run diagnostics.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Shift actuator or splutch failure** The actuator that moves the drive between agitate and spin modes is stuck, broken, or not receiving the correct signal from the control, leaving the washer unable to engage agitation.

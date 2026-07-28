@@ -13,11 +13,8 @@ money_part: "Air filter"
 most_likely_cause: "Restricted airflow"
 ---
 
-## Carrier 22 Error Code — What It Means
-
+## What this code means
 Carrier fault code 22 indicates a limit device lockout on a single-stage furnace — sometimes described in older Carrier documentation as an LSOM (Limit Switch Open Multiple times) stall. The control board has detected that the high-limit switch opened three or more times during a single heating cycle. After repeated limit trips, the board locks out and displays code 22 to signal that the system cannot safely continue heating until the root cause is resolved.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Carrier fault code 22 indicates a limit device lockout on a single-stage furnace
 ## When to Call a Pro
 
 If the limit switch resets but opens again within one heating cycle and airflow is verified good, a cracked heat exchanger may be allowing combustion gases to recirculate. This is a carbon monoxide hazard — do not operate the furnace until a licensed technician inspects the heat exchanger.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier VRF System Error Codes Guide](/posts/carrier-vrf-error-codes/)
-- [Carrier 21 Error Code — Gas Heating Lockout Fix](/posts/carrier-21-error-code/)
-- [Carrier 58CVA Furnace Error Codes — Fault Code Diagnostic Guide](/posts/carrier-58cva-error-codes/)
-- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)

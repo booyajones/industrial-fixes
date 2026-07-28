@@ -19,8 +19,6 @@ When a Maytag dryer takes too long to dry, it is not throwing a fault code. It i
 
 This symptom points first to airflow restriction, installation issues, loading issues, or inadequate heat rather than a single named component failure. Maytag's own troubleshooting starts with the lint screen, vent hose, and full vent system, and also calls out overloading and power-supply problems as common causes.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged lint screen or residue buildup** Even a screen that looks clean by hand can have softener-film residue that restricts airflow and slows drying.
@@ -56,10 +54,10 @@ Seeing a code on the display? These match this problem:
 
 - [Maytag Dryer Err error code](/posts/maytag-dryer-err-error-code/)
 - [Maytag Dryer F01 error code](/posts/maytag-dryer-f01-error-code/)
-- [Maytag Dryer F02 error code](/posts/maytag-dryer-f02-error-code/)
+- Maytag Dryer F02 error code
 - [Maytag Dryer F1E1 error code](/posts/maytag-dryer-f1e1-error-code/)
 - [Maytag Dryer F1E3 error code](/posts/maytag-dryer-f1e3-error-code/)
-- [Maytag Dryer F1E4 error code](/posts/maytag-dryer-f1e4-error-code/)
+- Maytag Dryer F1E4 error code
 - [Maytag Dryer F1E5 error code](/posts/maytag-dryer-f1e5-error-code/)
 - [Maytag Dryer F20 error code](/posts/maytag-dryer-f20-error-code/)
 - [Maytag Dryer F22 error code](/posts/maytag-dryer-f22-error-code/)

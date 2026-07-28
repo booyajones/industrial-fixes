@@ -170,20 +170,3 @@ Any refrigerant-related fault — persistent E3 after condenser cleaning and des
 > **Pro tip:** Hoshizaki C-series machines have a fault history accessible by holding the SERVICE button (if equipped) or checking the LED blink pattern sequence. The machine stores the last few fault events. On machines with the newer SafeGuard II control board, you can access diagnostic mode by pressing CLEAN → CLEAN → WASH in sequence while the machine is powered off — this displays the fault log. Use this before ordering any parts.
 
 ---
-
-## See Also
-
-- [Hoshizaki E1 Error Code — Water Supply Fault](/posts/hoshizaki-e1-error-code/)
-- [Hoshizaki E3 Error Code — Freeze Cycle Fault](/posts/hoshizaki-e3-error-code/)
-- [Hoshizaki E4 Error Code — Harvest Fault](/posts/hoshizaki-e4-error-code/)
-- [Hoshizaki KM-515 Error Codes](/posts/hoshizaki-km-515-error-codes/)
-- [Hoshizaki KM-330 Error Codes](/posts/hoshizaki-km-330-error-codes/)
-- [Ice Machine Error Code Lookup](/posts/ice-machine-error-code-lookup/)
-
-## Related Articles
-
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
-- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)
-- [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
-- [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)
-- [Hoshizaki E4 Error Code — Causes & Fix](/posts/hoshizaki-e4-error-code/)

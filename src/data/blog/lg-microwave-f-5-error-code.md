@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Damper switch assembly"
 ---
 
-## LG Microwave F-5 Error Code — What It Means
-
+## What this code means
 The F-5 code on an LG microwave indicates a damper switch error. The control board has detected a fault in the damper switch circuit, which monitors the position or operation of an internal air damper used in convection or combination cooking modes. LG identifies this as a service-required fault.
 
 Before assuming a part has failed, LG recommends checking for anything that prevents the door from closing fully. Packing material left inside the cavity, a mispositioned cooking rack, or foreign objects wedged in the door latch area can all trigger the code by preventing the door from latching correctly. If the door closes firmly and the code remains, the damper switch assembly, its actuator mechanism, associated wiring, or the control board's interpretation of that circuit is at fault.
@@ -25,8 +24,6 @@ Before assuming a part has failed, LG recommends checking for anything that prev
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when the actual fault is a stuck damper actuator or a loose wire at the switch. Visually inspect the damper mechanism and connectors before ordering expensive boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a qualified appliance technician if the door closes correctly, you have removed all obstructions, and the F-5 code returns after a power reset. Accessing the damper switch and actuator requires removing the microwave cabinet and working near high-voltage components, including the magnetron and capacitor. Even with the unit unplugged, the high-voltage capacitor can hold a lethal charge and must be safely discharged before any internal work. Technicians have the service manuals, wiring diagrams, and test equipment to isolate whether the fault lies in the switch, actuator, harness, or control board, and they carry the correct replacement parts for your specific model.
 
 **Rough cost:** A pro service call runs about $150–$300.
-
-## See Also
-
-- [LG Range E2 Error Code - Causes & Fix](/posts/lg-range-e2-error-code/)
-- [LG Oven F12 Error Code - Causes & Fix](/posts/lg-oven-f12-error-code/)
-- [LG LMV2031ST Microwave Problems & Error Codes](/posts/lg-lmv2031st-microwave-problems/)
-- [LG LS120HSV5 Ductless Mini Split Problems & Error Codes](/posts/lg-ls120hsv5-ductless-mini-split-air-conditioner-problems/)

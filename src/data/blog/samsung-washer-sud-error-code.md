@@ -21,15 +21,12 @@ part_price: "$15-35 for a replacement drain pump filter if damaged"
 no_buy_pct: "85%"
 ---
 
-## Samsung SUD Error Code — What It Means
-
+## What this code means
 The SUD error code (sometimes displayed as SUDS) means the washing machine's internal sensors have detected an excessive amount of foam or suds in the drum. This is a safety safeguard mechanism. When the over-sudsing condition is detected, the machine automatically stops the current cycle (usually pausing for a short period) to allow the suds to dissipate naturally. If the suds do not clear, the machine will not proceed to the rinse or spin phases, potentially leaving detergent on the clothes and causing mechanical strain due to the viscosity of the foam.
 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the pressure sensor or control board thinking the error is a sensor fault, when the real problem is simply detergent buildup or a clogged drain pump filter. Always clean the filter and run a flush cycle with no detergent before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

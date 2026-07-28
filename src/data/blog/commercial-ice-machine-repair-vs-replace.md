@@ -197,9 +197,3 @@ You should call a commercial refrigeration technician in these situations:
 - Check and reset the ice thickness probe
 
 ---
-
-## Related Articles
-
-- [True GDM Refrigerator Error Codes and Fixes](/posts/true-gdm-refrigerator-error-codes/)
-- [Commercial Refrigeration Compressor Troubleshooting](/posts/commercial-refrigeration-compressor-troubleshooting/)
-- [Furnace Repair or Replace?](/posts/furnace-repair-or-replace/)

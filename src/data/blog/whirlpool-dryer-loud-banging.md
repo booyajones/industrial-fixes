@@ -19,8 +19,6 @@ A loud banging or thumping noise in a Whirlpool dryer is not an error code. It i
 
 If the noise sounds like a knock or rattle, loose items in clothing or the cabinet are a common cause. If it is a thump or pounding that repeats as the drum turns, drum support components like rollers or glides are more likely worn or failing.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Worn drum support rollers** Drum rollers develop flat spots, rough surfaces, or worn axles over time, creating a thumping or banging as the drum rotates.

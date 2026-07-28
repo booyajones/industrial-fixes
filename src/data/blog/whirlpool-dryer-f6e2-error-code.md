@@ -16,8 +16,7 @@ money_part: "Whirlpool washer user interface board (UI / HMI)"
 part_price: "$80-180"
 ---
 
-## Whirlpool F6E2 Error Code — What It Means
-
+## What this code means
 F6E2 on a Whirlpool washer signals a communication or electronics fault between the appliance control unit (ACU), the user interface (UI/HMI), or the wiring between them. The interface panel cannot reliably exchange data with the main control board. This is an electronic control fault, not a problem with detergent, load balance, or water fill. Whirlpool's Product Help identifies the alert as an issue with the appliance control unit, user interface, or associated wiring.
 
 In practical terms, the user interface board can't hear the main control or the control system has lost its data path. The fault does not mean your motor, pump, or drain is broken. It points to the brain of the machine losing contact with the button panel.
@@ -25,8 +24,6 @@ In practical terms, the user interface board can't hear the main control or the 
 ## Before You Replace Anything
 
 Many people replace the main control board when only the user interface panel or a corroded connector is at fault. Disconnect power for 5 minutes and inspect all UI-to-ACU connectors for corrosion or moisture before ordering any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

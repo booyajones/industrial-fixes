@@ -21,8 +21,7 @@ part_price: "$40-80"
 no_buy_pct: "60%"
 ---
 
-## Hoshizaki E3/EE Error — What It Means
-
+## What this code means
 The E3 error code (often displayed as EE on the control panel until you check the error log to reveal the specific number) indicates a Long Freeze Cycle on Hoshizaki ice machines. The system monitors water level via float switches. When water fills the evaporator, the floats rise. As the water freezes into ice, the water level drops and the floats should descend. The E3 error triggers when the floats remain in the up position for too long, typically exceeding a safety limit of 80 to 100 seconds. This indicates the machine is not freezing the water as expected.
 
 On some models like the FM-300, a similar E3 code can sometimes indicate a defrost sensor fault, but for standard commercial Hoshizaki ice makers, the primary definition is Long Freeze Cycle. The fault means the machine is simulating a condition where water never freezes or the level never drops, which prevents the harvest cycle from starting.
@@ -30,8 +29,6 @@ On some models like the FM-300, a similar E3 code can sometimes indicate a defro
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board or refrigerant system first. Clean and test the float switch assembly for free before replacing any expensive components, as debris or scale in the float mechanism is the most common cause.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -81,10 +78,3 @@ Answer these to narrow it down fast.
 Call a professional refrigeration technician if cleaning the float switch and checking the water inlet valve do not resolve the E3 error. Low refrigerant, hot gas valve faults, and sealed-system issues require specialized tools, EPA certification for refrigerant handling, and diagnostic equipment to measure pressures and temperatures accurately. Attempting refrigerant work without proper training can damage the machine and void warranties. A technician will also check for electrical harness faults, control board issues, and calibrate the system after repairs.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Hoshizaki vs Manitowoc Ice Machines — A Commercial Tech's Honest Comparison (2026)](/posts/hoshizaki-vs-manitowoc-ice-machines/)
-- [Hoshizaki Ice Machine E8 Error Code — Low-Side Pressure Switch Fault Fix](/posts/hoshizaki-e8-low-side-pressure/)
-- [Hoshizaki E6 Error Code — Causes & Fix](/posts/hoshizaki-e6-error-code/)
-- [Hoshizaki Ice Machine E7 Error Code — High-Side Pressure Switch Fault Fix](/posts/hoshizaki-e7-pressure-switch/)

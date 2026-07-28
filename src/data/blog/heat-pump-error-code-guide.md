@@ -16,8 +16,6 @@ tags:
 
 Heat pumps fail in a few predictable ways no matter whose badge is on the cabinet: high pressure, low pressure, defrost problems, sensor faults, communication failures, and compressor protection. Brand-specific codes change, but the physics do not.
 
-[Jump to Fix](#fix)
-
 ## Common Heat Pump Error Codes Across Brands
 
 | Symptom / Code | Common Meaning | Typical Brands |
@@ -63,11 +61,3 @@ Variable-speed heat pumps will often throw discharge temp, sensor, or drive prot
 ## When to Call a Pro
 
 Heat pump codes that point to low refrigerant, compressor protection, or repeated defrost failure deserve a qualified tech. Heat pumps are harder to diagnose casually because the same circuit has to work correctly in two opposite modes.
-
-## Related Articles
-
-- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
-- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
-- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
-- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
-- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)

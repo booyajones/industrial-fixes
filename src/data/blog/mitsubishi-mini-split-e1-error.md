@@ -63,14 +63,7 @@ If the thermistor tests open or out-of-spec and replacement does not clear E1, t
 
 ## Related Error Codes
 
-- [Mitsubishi Mini Split E9 Error Code — Pipe Thermistor Fault](/posts/mitsubishi-mini-split-e9-error-code/)
+- Mitsubishi Mini Split E9 Error Code — Pipe Thermistor Fault
 - [Mitsubishi Mini Split E6 Error Code — Communication Error Fix](/posts/mitsubishi-mini-split-e6-error/)
 - [Mitsubishi Mini Split P8 Error Code — Outdoor Heat Exchanger Overtemp](/posts/mitsubishi-mini-split-p8-error/)
-- [Mitsubishi Mini Split U4 Error Code — Outdoor Thermistor Fault](/posts/mitsubishi-mini-split-u4-error-code/)
-
-## See Also
-
-- [Mitsubishi FR-A800 Fault E7 — CPU Error Causes & Fix](/posts/mitsubishi-fr-a800-fault-e7/)
-- [Mitsubishi U1 Error Code — Causes & Fix](/posts/mitsubishi-u1-error-code/)
-- [Mitsubishi Mini Split P1 Error Code Fix](/posts/mitsubishi-p1-error-code/)
-- [Mitsubishi Mini Split P2 Error Code — Indoor Pipe Thermistor Fix](/posts/mitsubishi-p2-error-code/)
+- Mitsubishi Mini Split U4 Error Code — Outdoor Thermistor Fault

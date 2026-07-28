@@ -19,8 +19,6 @@ When an Electrolux washer won't fill with water, you may see no error code at al
 
 Electrolux's own troubleshooting paths point to supply verification, inlet valve contamination or failure, dispenser blockage, and pressure system diagnosis as the main repair routes rather than a single universal part swap. The inlet valve is the most common culprit, but you need to confirm the machine is actually calling for water and that supply pressure is adequate before replacing any components.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed water inlet valve** If a solenoid coil inside the valve burns out or the valve body is obstructed, the tub will not fill even when the control board sends a signal.

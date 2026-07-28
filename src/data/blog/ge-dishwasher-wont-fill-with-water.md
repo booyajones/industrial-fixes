@@ -19,8 +19,6 @@ A GE dishwasher that won't fill with water is showing a symptom, not a fault cod
 
 The control may not be calling for fill yet, the flood float may be tripped or stuck, or the machine may be unable to accept water because of a drain or fill restriction. On most 2015 and newer GE dishwasher models, the flood float can be checked and sometimes replaced by the owner. Other models require service if the float is suspected.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Stuck or obstructed flood float** The float under the tub is stuck in the raised position or blocked by debris, detergent buildup, or a mispositioned part, telling the control to stop filling.
@@ -64,8 +62,8 @@ If your appliance also shows a code on the display, these match this problem:
 - [Ge Dishwasher C8 error code](/posts/ge-dishwasher-c8-error-code/)
 - [Ge Dishwasher Ef error code](/posts/ge-dishwasher-ef-error-code/)
 - [Ge Dishwasher F56 error code](/posts/ge-dishwasher-f56-error-code/)
-- [Ge Dishwasher F9 error code](/posts/ge-dishwasher-f9-error-code/)
-- [Ge Dishwasher Ff error code](/posts/ge-dishwasher-ff-error-code/)
+- Ge Dishwasher F9 error code
+- Ge Dishwasher Ff error code
 
 ## When to Call a Pro
 

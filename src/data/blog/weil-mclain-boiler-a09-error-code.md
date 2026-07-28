@@ -19,8 +19,7 @@ free_checks:
 part_price: "$120-250"
 ---
 
-## Weil-McLain Boiler A09 Error — What It Means
-
+## What this code means
 The A09 error code on a Weil-McLain boiler indicates a gas valve fault. The control module detected an incorrect operation, voltage, or response from the gas valve during the ignition sequence or run cycle. This means the control board cannot confirm the gas valve is opening or closing properly, or it detected an electrical anomaly such as a short circuit, open circuit, or implausible voltage on the gas valve circuit.
 
 This is a critical safety lockout. Weil-McLain explicitly states technicians must not attempt to reset this code manually until the fault is diagnosed and repaired, as it prevents un-metered gas flow. The boiler will remain locked out until a qualified technician identifies and corrects the underlying problem.
@@ -28,8 +27,6 @@ This is a critical safety lockout. Weil-McLain explicitly states technicians mus
 ## Before You Replace Anything
 
 Some technicians replace the control board first, but the gas valve itself is far more often the culprit. Test the valve coil resistance (should be 20-100 Ω typical, not 0 or infinite) and verify 24V AC is reaching the valve terminals before replacing the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician immediately. The A09 code is a critical safety lockout involving the gas valve, and attempting to reset it without proper diagnosis can create a gas leak or fire hazard. The repair requires working with gas lines, testing live 24V AC circuits, and interpreting electrical measurements that are beyond typical homeowner tools and training. Weil-McLain explicitly requires professional diagnosis before clearing this fault. A qualified technician will test the gas valve coil resistance, verify control board output voltage, inspect wiring for shorts or opens, and replace the failed component safely. Do not attempt to bypass the lockout or replace parts based on guesswork.
 
 **Rough cost:** A pro service call runs about $250-500.
-
-## See Also
-
-- [Weil-McLain A121 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a121-error-code/)
-- [Weil-McLain A82 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a82-error-code/)
-- [Weil-McLain A155 Error - Causes & Fix](/posts/weil-mclain-boiler-a155-error-code/)
-- [Weil-McLain A117 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a117-error-code/)

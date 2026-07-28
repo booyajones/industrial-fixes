@@ -19,8 +19,6 @@ An LG microwave door that won't open is almost always a mechanical door-release 
 
 LG's own support notes that a microwave may not start or open because the control lock is active, the door is not closed properly, or the control panel has an issue. If the door is damaged or an error code appears, service is required. If the symptom is simply that the door will not release, the issue is typically inside the latch assembly or release hardware.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Broken release mechanism or fractured spring-loaded pawl** The internal release assembly has a plastic lever or spring-loaded pawl that can fracture and fail to disengage the door hooks.
@@ -70,10 +68,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a pro if you cannot safely open the door after trying the control lock and mechanical lock steps, or if disassembly is required to access the release mechanism. Microwaves have a high-voltage capacitor that can retain charge even after unplugging, so internal repairs should be handled by an experienced technician. If the latch assembly or release hardware is broken and you are not comfortable working inside the unit, professional service is recommended.
-
-## See Also
-
-- [LG Range E4 Error Code - Causes & Fix](/posts/lg-range-e4-error-code/)
-- [LG Oven F4 Error Code - Causes & Fix](/posts/lg-oven-f4-error-code/)
-- [LG Microwave Turntable Not Turning - Causes & Fix](/posts/lg-microwave-turntable-not-turning/)
-- [LG Washer Tub Bearing Replacement - Signs & How-To](/posts/lg-washer-tub-drum-bearing-replacement/)

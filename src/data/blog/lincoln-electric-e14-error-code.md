@@ -13,11 +13,8 @@ money_part: "Input voltage selector switch"
 most_likely_cause: "Low line voltage (brown-out)"
 ---
 
-## Lincoln Electric E14 Error Code — What It Means
-
+## What this code means
 The E14 fault on Lincoln Electric welders indicates an input voltage fault — the incoming power supply is outside the machine's acceptable operating range. Lincoln's power electronics monitor incoming line voltage continuously; if it drops too low, spikes too high, or loses a phase (on three-phase machines), E14 trips and disables output to protect the internal components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

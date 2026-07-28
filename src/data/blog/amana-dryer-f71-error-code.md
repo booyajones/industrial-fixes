@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Dryer F71 Error Code — What It Means
-
+## What this code means
 F71 on an Amana dryer is a control communication fault. The code indicates a problem in the internal communication between the main control board and the user interface board, not a venting or airflow issue. The control system cannot exchange data properly, which prevents the dryer from running normally.
 
 Amana's manufacturer guidance for F71 is to power the unit down at the breaker for 5 minutes, restore power, and run a Time Dry cycle to see whether the error returns. If the fault clears, the dryer can return to service. If F71 comes back immediately, the next step is to inspect the control system wiring and boards rather than checking ducts or sensors.
@@ -26,8 +25,6 @@ Amana's manufacturer guidance for F71 is to power the unit down at the breaker f
 ## Before You Replace Anything
 
 Many owners replace the user interface board first, assuming the display is at fault. Before ordering any board, pull the power for 5 minutes and inspect every wire connector at both the main control and the user interface for loose pins or corrosion, since a bad connection is more common than a failed board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

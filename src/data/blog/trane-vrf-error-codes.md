@@ -101,18 +101,3 @@ Trane VRF (Variable Refrigerant Flow) systems display fault codes on the wired r
 | [Communication wire](https://www.amazon.com/s?ascsubtag=ecf-trane-vrf-error-codes&k=Communication+wire&tag=errorcodefixes-20) | 18-gauge unshielded 2-conductor |
 
 > **Note:** Trane VRF systems are manufactured in partnership with Daikin. Some service procedures and parts cross-reference to Daikin VRV documentation.
-
-## Related Articles
-
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-
-## See Also
-
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane ComfortR ER Error Code — Causes & Fix](/posts/trane-comfort-r-error-codes-er/)
-- [Trane 6 Flashes Error Code — Causes & Fix](/posts/trane-6-flashes-error-code/)
-- [Trane XV20i Heat Pump Error Codes — Common Faults & Fixes](/posts/trane-xv20i-heat-pump-error-codes/)

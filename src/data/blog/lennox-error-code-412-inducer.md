@@ -12,8 +12,7 @@ tags:
   - furnace
 ---
 
-## Lennox Error Code 412 — What It Means
-
+## What this code means
 Lennox error code **412** specifically identifies an **inducer motor fault** — meaning the furnace control board detected that the inducer motor (draft inducer / combustion air blower) failed to start, stalled during operation, or the RPM feedback signal was lost. Code 412 appears on Lennox iComfort-equipped and SureLight control board furnaces including the SLP98V, EL296V, ML296V, and XC21 platform furnaces.
 
 On Lennox furnaces, error codes are read from the iComfort thermostat diagnostic screen or from the control board's LED blink sequence: code 412 = 4 blinks, pause, 1 blink, pause, 2 blinks.
@@ -63,18 +62,3 @@ With power off, remove the inducer inlet screen or housing cover and visually in
 
 ## When to Call a Pro
 RPM feedback circuit issues and control board diagnosis require an HVAC technician with Lennox service training. If the motor tests good but the board continues to report 412, a Lennox-certified tech can use iComfort diagnostic tools to read raw motor RPM data.
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-
-## See Also
-
-- [Lennox Furnace Error Codes — Complete Reference Guide](/posts/lennox-furnace-error-codes/)
-- [Lennox Error Code 327 — Causes & Fix](/posts/lennox-error-code-327/)
-- [Lennox Error Code 414 — Gas Valve Circuit Fault Fix](/posts/lennox-error-code-414-gas-valve-circuit-fault/)
-- [Lennox iComfort Error Code 225 — Communication Fault Fix Guide](/posts/lennox-icomfort-error-code-225/)

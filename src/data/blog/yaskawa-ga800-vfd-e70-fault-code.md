@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "Yaskawa GA800 control board"
 ---
 
-## Yaskawa GA800 E70 Fault — What It Means
-
+## What this code means
 E70 on a Yaskawa GA800 is a soft-charge answerback fault. The drive did not receive the expected feedback that the precharge (soft-charge) bypass relay changed state correctly during startup. This points to a problem in the relay circuit, the control board, or the drive itself. The precharge relay is used to limit inrush current when the drive powers up, and the drive monitors a feedback signal to confirm the relay has closed or opened as commanded. When that signal does not match what the drive expects, it throws E70 and shuts down to protect itself.
 
 The fault usually means the relay has failed, the control board has lost the ability to drive or read the relay feedback, or internal drive circuitry has failed. Yaskawa GA800 maintenance documentation tracks the relay's operational life in parameter U4-06 (PreChargeRelayMainte), and if that counter exceeds 90%, the board or drive should be replaced. Because the precharge circuit is internal to the drive and tied to high-voltage DC bus components, field repair beyond board replacement is not recommended.
@@ -24,8 +23,6 @@ The fault usually means the relay has failed, the control board has lost the abi
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive when only the control board has failed. Check parameter U4-06 first to see if the relay maintenance counter is over 90%, which confirms relay wear and points to board or drive replacement rather than guessing at other causes.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa service center if the fault persists after power cycling, if parameter U4-06 is over 90% and you are not trained to replace the control board or drive, or if you do not have the drive's elementary diagram and metering tools to safely diagnose the relay feedback circuit. The precharge circuit operates at high DC bus voltage and incorrect handling can damage the drive or cause electrical shock. If the fault does not clear after board replacement, internal drive circuitry has likely failed and the drive must be replaced or sent for factory repair.
 
 **Rough cost:** A pro service call runs about $300–900 for control board replacement or drive replacement, depending on model and labor.
-
-## See Also
-
-- [Yaskawa A1000 AL-07 (PGD) Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-07-fault-code/)
-- [Yaskawa A1000 HbbF Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-hbbf-fault-code/)
-- [Yaskawa GA800 E19 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e19-fault-code/)
-- [Yaskawa GA800 E95 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e95-fault-code/)

@@ -17,8 +17,7 @@ free_checks:
   - "Confirm gas supply is on and the manual gas shutoff valve upstream of the boiler is fully open."
 ---
 
-## Weil-McLain A37 Error Code — What It Means
-
+## What this code means
 An A37 error code cannot be verified as a Weil-McLain factory-defined fault code from manufacturer documentation. Weil-McLain boilers use model-specific control boards and diagnostic systems, and the same alphanumeric code can mean entirely different things depending on your exact boiler model and control platform. Before interpreting any fault, identify your boiler model number and control board type, then use the diagnostic or fault-history menu on the control to retrieve the stored lockout code.
 
 If your display is showing A37 or a similar code, consult the service manual for your specific model to decode the fault. Common Weil-McLain lockouts involve ignition failure, flame-proving issues, pressure or sensor faults, or combustion-air problems, but without confirmation that A37 is a real code for your unit, follow the fault-history retrieval procedure in your manual rather than guessing at the cause.
@@ -26,8 +25,6 @@ If your display is showing A37 or a similar code, consult the service manual for
 ## Before You Replace Anything
 
 Homeowners sometimes replace the igniter or flame sensor when the real problem is low gas pressure or a blocked condensate trap. Always check gas supply, system pressure, and condensate drainage before buying parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a qualified HVAC or boiler technician if you cannot retrieve a confirmed fault code from your control, if the boiler repeatedly locks out after you have checked pressure and gas supply, if you smell gas or see evidence of a gas leak, or if you need to test or replace the gas valve, control board, pressure switches, or any wired safety device. Professional diagnosis is also required when the fault history points to a combustion or flame-proving problem that persists after cleaning the flame sensor and burner area, or when the boiler model and control type do not match any code definition you can find in your manual.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain Boiler A156 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a156-error-code/)
-- [Weil-McLain A155 Error - Causes & Fix](/posts/weil-mclain-boiler-a155-error-code/)
-- [Weil-McLain Boiler A138 Error - Causes & Fix](/posts/weil-mclain-boiler-a138-error-code/)
-- [Weil-McLain Boiler A148 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a148-error-code/)

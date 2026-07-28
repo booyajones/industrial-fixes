@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Dishwasher E11 Error — What It Means
-
+## What this code means
 On Kenmore dishwashers, the E11 error code (also displayed as 1-1 or F1E1 on some models) signals a stuck relay on the main electronic control unit. A relay is a small electromechanical switch inside the control board that routes power to components like the heating element or motor. When a relay sticks closed or welds shut, the control cannot turn that circuit off and it logs the fault.
 
 This code is specific to the dishwasher's control logic and should not be confused with E11 codes on other Kenmore appliances, which can mean entirely different faults such as water-inlet problems on washers or humidity-sensor issues on microwaves. Always verify the meaning against your dishwasher's tech sheet or wiring diagram, because code definitions vary by model and appliance type.
@@ -26,8 +25,6 @@ This code is specific to the dishwasher's control logic and should not be confus
 ## Before You Replace Anything
 
 Homeowners sometimes replace wiring harnesses or heating elements first. Before ordering parts, disconnect power for five minutes and restore it to see if the code clears. If it returns immediately, the control board relay is usually at fault, not the downstream load.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

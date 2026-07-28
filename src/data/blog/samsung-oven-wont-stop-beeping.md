@@ -20,8 +20,6 @@ A Samsung oven that beeps continuously is usually responding to a setting in the
 
 If the beeping persists after you confirm sound is off, the control panel may have a stuck key, moisture under the overlay, or a failing interface board. These are general service checks for electronic ranges, because the supplied Samsung documentation only confirms the sound-setting procedure.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Sound setting turned on** Option 5 in the Settings menu is set to sound on (1), so the range beeps with every keypad press and certain alarms.

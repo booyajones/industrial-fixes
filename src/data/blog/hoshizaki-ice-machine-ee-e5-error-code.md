@@ -18,8 +18,7 @@ free_checks:
   - "Measure incoming voltage at the machine's supply terminals with a multimeter while the compressor is running."
 ---
 
-## Hoshizaki EE(E5) Error Code — What It Means
-
+## What this code means
 On Hoshizaki ice machines, **EE** is a generic error display. The actual fault code is stored in the controller's error log. When your service manual or error history shows **E5**, that specific code means **high voltage** — the voltage supplied to the machine is too high. Many Hoshizaki models display only EE on the live screen when errors other than E1 or E2 occur, so a technician must read the log to confirm the E5 event.
 
 For machines on the 115 V platform, high-voltage alarms typically trip when incoming voltage exceeds roughly 147 volts (± 5%). Once correct voltage is restored, the alarm resets automatically. The error can be caused by utility overvoltage, incorrect wiring on a high-leg or split-phase supply, or less commonly a control-board sensing issue.
@@ -27,8 +26,6 @@ For machines on the 115 V platform, high-voltage alarms typically trip when inco
 ## Before You Replace Anything
 
 Technicians sometimes replace the main control board before measuring supply voltage. Always measure incoming voltage at the machine under load and verify correct phase-to-neutral wiring first.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified commercial refrigeration technician for any Hoshizaki EE(E5) error. Diagnosing high-voltage faults requires measuring live AC voltage under load, tracing panel and transformer wiring, and verifying correct phase connections on split-phase or three-phase supplies. Misdiagnosis can result in repeated nuisance trips or damage to the control board and compressor. If the cause is incorrect utility wiring or a transformer problem, you may also need an electrician to correct the upstream supply before the ice machine can run safely.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Hoshizaki E1 Error Code - Causes & Fix](/posts/hoshizaki-ice-machine-e1-error-code/)
-- [Hoshizaki E5 Error Code — Causes & Fix](/posts/hoshizaki-e5-error-code/)
-- [Hoshizaki Ice Machine E9 Error Code — Compressor Overload Fault Fix](/posts/hoshizaki-e9-error-compressor/)
-- [Hoshizaki F1 Error Code — Causes & Fix](/posts/hoshizaki-f1-error-code/)

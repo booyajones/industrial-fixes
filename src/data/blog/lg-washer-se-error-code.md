@@ -21,8 +21,7 @@ money_part: "LG direct-drive motor / stator assembly"
 most_likely_cause: "Loose or corroded motor harness connector"
 ---
 
-## LG Washer SE Error Code — What It Means
-
+## What this code means
 LG defines SE as a sensor error. The code does not point to one specific component across all models. LG's official guidance is to perform a hard reset by unplugging the washer for about ten seconds, then restoring power and restarting the cycle. If the code clears, the fault was transient. If SE returns, LG directs you to professional service because the exact failed sensor or circuit depends on your model.
 
 Some repair sources describe SE as a motor-related fault involving the hall sensor, stator, or main control board, but those interpretations are model-specific and not stated on LG's own support pages. Without your exact model number and wiring diagram, guessing which component failed can lead to unnecessary parts replacement. The safest path is the power reset, then professional diagnosis if the error persists.
@@ -30,8 +29,6 @@ Some repair sources describe SE as a motor-related fault involving the hall sens
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board first, but a loose motor harness connector or a failed hall sensor on the motor assembly can also trigger SE. Inspect all motor wiring and connectors before ordering expensive boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

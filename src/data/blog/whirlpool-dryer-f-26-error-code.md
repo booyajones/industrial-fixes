@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Whirlpool dryer control board (user interface or main)"
 ---
 
-## Whirlpool F26 Dryer Error — What It Means
-
+## What this code means
 F26 is a reset or power-cycle diagnostic fault on Whirlpool dryer platforms. It indicates an electronic fault condition detected by the control board. The code does not point to a single failed component like a thermistor, heater, or door switch. Instead, Whirlpool's published guidance treats F26 as a temporary control or communication glitch that may clear after a full power interruption.
 
 Whirlpool directs technicians to turn off the circuit breaker for five minutes, restore power, run a time dry cycle, and watch whether the code returns within one minute. If the fault reappears immediately after the reset, the manufacturer recommends contacting a qualified service technician. The exact cause requires model-specific diagnostics when the code persists.
@@ -25,8 +24,6 @@ Whirlpool directs technicians to turn off the circuit breaker for five minutes, 
 ## Before You Replace Anything
 
 Many people replace the control board or motor first. Before ordering parts, perform the full five-minute breaker reset and verify the code returns immediately after restart, because most F26 faults clear on their own.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

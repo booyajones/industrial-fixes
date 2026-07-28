@@ -19,8 +19,6 @@ Rusty or brown water from a Navien tankless heater is a symptom, not a fault cod
 
 Because Navien tankless units heat water on demand and lack a storage tank, discolored water often originates from either the heat exchanger itself or the building's supply plumbing. If you see a fault code such as E003 (ignition failure) alongside rusty water, the two problems may be unrelated or caused by separate issues that need individual attention.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Corroded or leaking heat exchanger** Internal corrosion or a crack in the heat exchanger allows metal oxide to enter the hot water stream and is the most common source of rusty water directly from the unit.
@@ -53,10 +51,3 @@ Because Navien tankless units heat water on demand and lack a storage tank, disc
 ## When to Call a Pro
 
 Call a licensed plumber or Navien-qualified technician if flushing the system and cleaning the inlet filter do not clear the rusty water within one or two cycles, if you discover visible leaks or cracks in the heat exchanger, or if the unit displays an ignition fault code like E003 that requires gas-system diagnostics. Heat-exchanger replacement and any work involving gas supply, burner components, or venting should be handled by a professional to maintain warranty coverage and meet local code requirements. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Navien 406 Error Code - Causes & Fix](/posts/navien-tankless-alarm-406-error-code/)
-- [Navien E016 Error Code - Causes & Fix](/posts/navien-tankless-e016-error-code/)
-- [Navien NPE-240S Tankless Water Heater Error Codes - Full Fault Guide](/posts/navien-npe-240s-error-codes/)
-- [Navien E777 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e777-error-code/)

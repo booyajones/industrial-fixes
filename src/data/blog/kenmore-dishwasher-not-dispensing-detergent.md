@@ -19,8 +19,6 @@ The detergent cup door on your Kenmore dishwasher is supposed to open during the
 
 This symptom is not tied to a specific error code. It points to either a mechanical problem with the dispenser door itself (broken latch, sticking hinge, or failed actuator) or a wash system issue (poor water circulation, clogged spray arms, or low water temperature) that prevents the detergent from dissolving and washing away even if the door does open.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dish or utensil blocking the dispenser door** A plate, pan, or utensil in the lower rack can physically prevent the dispenser lid from swinging open during the cycle.
@@ -54,14 +52,14 @@ This symptom is not tied to a specific error code. It points to either a mechani
 If your appliance also shows a code on the display, these match this problem:
 
 - [Kenmore Dishwasher E04 error code](/posts/kenmore-dishwasher-e04-error-code/)
-- [Kenmore Dishwasher E05 error code](/posts/kenmore-dishwasher-e05-error-code/)
-- [Kenmore Dishwasher E06 error code](/posts/kenmore-dishwasher-e06-error-code/)
+- Kenmore Dishwasher E05 error code
+- Kenmore Dishwasher E06 error code
 - [Kenmore Dishwasher E07 error code](/posts/kenmore-dishwasher-e07-error-code/)
 - [Kenmore Dishwasher E08 error code](/posts/kenmore-dishwasher-e08-error-code/)
 - [Kenmore Dishwasher E09 error code](/posts/kenmore-dishwasher-e09-error-code/)
 - [Kenmore Dishwasher E10 error code](/posts/kenmore-dishwasher-e10-error-code/)
 - [Kenmore Dishwasher E11 error code](/posts/kenmore-dishwasher-e11-error-code/)
-- [Kenmore Dishwasher E12 error code](/posts/kenmore-dishwasher-e12-error-code/)
+- Kenmore Dishwasher E12 error code
 - [Kenmore Dishwasher E13 error code](/posts/kenmore-dishwasher-e13-error-code/)
 - [Kenmore Dishwasher E14 error code](/posts/kenmore-dishwasher-e14-error-code/)
 - [Kenmore Dishwasher F1E1 error code](/posts/kenmore-dishwasher-f1e1-error-code/)

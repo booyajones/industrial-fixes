@@ -13,13 +13,10 @@ money_part: "Heating Supply Outlet Thermistor"
 most_likely_cause: "Failed outlet thermistor"
 ---
 
-## Navien E006 Error Code — What It Means
-
+## What this code means
 The E006 error indicates a heating supply outlet thermistor short fault. The control board is detecting a short circuit condition at the outlet temperature sensor input, so it cannot trust the supply outlet temperature signal and shuts down to protect the system. This thermistor monitors the hot water leaving the heat exchanger, and a shorted sensor circuit prevents the unit from regulating temperature safely.
 
 The error appears on the display panel when the sensor circuit reads as shorted, either from a failed thermistor, damaged wiring, or moisture intrusion at the connections. The unit will not fire or produce hot water until the fault is resolved and the board can read valid temperature data from the outlet sensor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ The error appears on the display panel when the sensor circuit reads as shorted,
 ## When to Call a Pro
 
 Call a licensed technician if you are not comfortable working with live gas appliances, if the thermistor and wiring both test good but the error persists (indicating a control board fault), or if the error returns immediately after replacing the sensor. A qualified service tech can perform board-level diagnostics, verify proper thermistor resistance values against your model's specification table, and safely handle any gas or venting issues discovered during the repair. If your unit is still under warranty, professional service may be required to preserve coverage.
-
-## See Also
-
-- [Navien E038 Error Code - Causes & Fix](/posts/navien-tankless-e038-error-code/)
-- [Navien E007 Error Code - Causes & Fix](/posts/navien-tankless-e007-error-code/)
-- [Navien E001 Error Code - Causes & Fix](/posts/navien-tankless-e001-error-code/)
-- [Navien Tankless Water Heater Error Codes — Complete Guide](/posts/navien-error-codes/)

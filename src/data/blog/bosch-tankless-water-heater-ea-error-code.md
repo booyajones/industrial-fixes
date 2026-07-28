@@ -13,13 +13,10 @@ money_part: "Ignition electrode and flame sensor assembly"
 most_likely_cause: "Insufficient gas supply pressure or closed shutoff valve"
 ---
 
-## Bosch EA Error Code — What It Means
-
+## What this code means
 The EA code means your Bosch tankless water heater is not detecting flame ionization during a heat demand. In simpler terms, the unit tries to ignite when you call for hot water but either fails to light the burner or cannot confirm that a flame is present. Water may flow through the heater but it stays cold because combustion never starts or the control doesn't sense it.
 
 This fault usually points to something interrupting the ignition or flame-sensing circuit. It can be as simple as a closed gas valve or air trapped in the line after recent service, or as involved as a corroded electrode, insufficient gas pressure, blocked venting, or moisture intrusion into the burner chamber. The heater will lock out and display EA until you identify and fix the root cause.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

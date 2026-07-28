@@ -24,8 +24,6 @@ The problem with refrigerant leaks is that they are progressive. A tiny pinhole 
 
 This guide covers the symptoms, how technicians find leaks, what repairs cost, and the special situation with R22 systems that are being phased out.
 
-[Jump to Fix](#fix)
-
 ## Common Symptoms
 
 - **Warm air blowing from vents.** The most obvious sign. Low refrigerant cannot absorb enough heat from indoor air to produce cold supply air.

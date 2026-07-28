@@ -17,8 +17,6 @@ tags:
 
 A Kenmore refrigerator that is not cooling points to an airflow problem, a defrost failure, a fan failure, a start-device or compressor-start problem, or a sealed-system or compressor problem. If the freezer is cold but the fresh-food section is warm, the problem is often blocked airflow between compartments, usually from frost buildup, a failed evaporator fan, or a clogged vent. If neither compartment is cooling, common suspects shift toward the start relay or start device, the compressor, condenser-side cooling, or a broader refrigeration-system issue.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty condenser coils** Dirt and debris on the condenser coils reduce heat rejection and cause the entire system to lose cooling capacity.
@@ -53,9 +51,9 @@ A Kenmore refrigerator that is not cooling points to an airflow problem, a defro
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kenmore Refrigerator Er 1F error code](/posts/kenmore-refrigerator-er-1f-error-code/)
-- [Kenmore Refrigerator Er Dh error code](/posts/kenmore-refrigerator-er-dh-error-code/)
-- [Kenmore Refrigerator Er Ff error code](/posts/kenmore-refrigerator-er-ff-error-code/)
+- Kenmore Refrigerator Er 1F error code
+- Kenmore Refrigerator Er Dh error code
+- Kenmore Refrigerator Er Ff error code
 
 ## When to Call a Pro
 

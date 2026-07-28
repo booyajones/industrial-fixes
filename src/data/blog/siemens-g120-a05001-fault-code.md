@@ -13,13 +13,10 @@ money_part: "Shielded motor cable"
 most_likely_cause: "Motor power does not match inverter power"
 ---
 
-## Siemens G120 A05001 Current Limit — What It Means
-
+## What this code means
 The A05001 code on a Siemens SINAMICS G120 drive is an alarm, not a fault trip. It indicates the drive has reached its current limit while attempting to accelerate, hold torque, or run under load. The drive continues to operate but is signaling that it is working at maximum current capacity. No acknowledgment is required, but the alarm warns you that the system is under stress and may not deliver full performance or could transition to a fault if the condition worsens.
 
 This alarm typically appears when the motor is demanding more current than the inverter can safely supply. Common scenarios include starting a heavy load, a motor that is too large for the drive, excessively long motor cables causing voltage drop, or a ground fault in the motor circuit. If the alarm is displayed permanently, the drive input voltage and motor circuit should be checked immediately.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ This alarm typically appears when the motor is demanding more current than the i
 ## When to Call a Pro
 
 Call a qualified electrician or drive technician if the alarm persists after verifying motor and cable match, correcting input voltage, and eliminating mechanical faults. If insulation testing reveals a ground fault you cannot trace, or if adjusting parameters does not resolve the alarm, professional diagnostic tools and experience are needed. Also contact Siemens support or a certified service center if you suspect the drive itself is mis-rated for your application or if internal current sensing hardware may be damaged.
-
-## See Also
-
-- [Siemens G120 A01028 - Causes & Fix](/posts/siemens-g120-a01028-fault-code/)
-- [Siemens G120 F01611 - Causes & Fix](/posts/siemens-g120-f01611-fault-code/)
-- [Siemens Sinumerik Alarm 380600 — Encoder Fault](/posts/siemens-sinumerik-alarm-380600/)
-- [Siemens G120 F30002 - Causes & Fix](/posts/siemens-g120-f30002-fault-code/)

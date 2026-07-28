@@ -17,8 +17,6 @@ tags:
 
 Clothes still damp is not an error code. It is a drying-performance complaint that means the dryer is finishing the cycle without fully removing moisture. The most common reason is restricted airflow caused by a clogged lint screen, blocked exhaust vent, or kinked ductwork. Other causes include insufficient heat from a failed heating element or thermal fuse, and contaminated moisture sensors that cause false dry readings on automatic cycles.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged lint screen or exhaust vent** A blocked lint filter or restricted exhaust duct traps moist air inside the drum and extends drying time or leaves clothes damp at cycle end.

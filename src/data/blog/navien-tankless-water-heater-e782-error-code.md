@@ -13,11 +13,8 @@ money_part: "Navien main control board (PCB)"
 most_likely_cause: "Failed main control board (PCB)"
 ---
 
-## Navien E782 Error Code — What It Means
-
+## What this code means
 The E782 error code on a Navien tankless water heater indicates an abnormal operation fault with main panel communication. This means the display panel and the main control board (PCB) are not exchanging data properly. The fault is internal to the unit's control system and is not caused by water flow, gas supply, or combustion problems. The error will prevent normal operation until the communication link is restored.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,10 +44,3 @@ The E782 error code on a Navien tankless water heater indicates an abnormal oper
 ## When to Call a Pro
 
 Call a qualified Navien technician if you are not comfortable working with live electrical components or if the error persists after reseating connectors and cycling power. PCB replacement requires proper handling of control boards, matching your exact unit model, and verifying calibration settings after installation. A technician can also perform voltage and continuity tests on the communication circuit to isolate intermittent faults that are not obvious during visual inspection.
-
-## See Also
-
-- [Navien E008 Error Code - Causes & Fix](/posts/navien-tankless-e008-error-code/)
-- [Navien Error Code E013 — Causes & Fix](/posts/navien-error-code-e013/)
-- [Navien E009 Error Code — Causes & Fix](/posts/navien-error-code-e009/)
-- [Navien E302 Error Code — Causes & Fix](/posts/navien-error-code-e302/)

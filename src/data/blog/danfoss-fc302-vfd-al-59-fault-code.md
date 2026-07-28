@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Danfoss FC302 AL-59 Fault — What It Means
-
+## What this code means
 Alarm 59 on a Danfoss FC302 is a Current Limit warning. It means the motor output current has exceeded the threshold set in parameter 4-18 (Current Limit). Unlike a hard trip, this is typically a warning that allows the drive to continue running, though it can be configured to trip if the condition persists. The drive detects that the actual output current is higher than your configured limit, which is often set to protect the motor or process from excessive current during acceleration, overload, or specific operating conditions.
 
 This warning does not always indicate a fault in the drive itself. It can be triggered by incorrect parameter settings, mechanical overload, motor problems, or power supply issues. The drive is functioning correctly by alerting you that the current draw is beyond what you told it to allow.
@@ -29,8 +28,6 @@ This warning does not always indicate a fault in the drive itself. It can be tri
 ## Before You Replace Anything
 
 Technicians often replace the drive or motor without first checking that parameter 4-18 is set correctly for the application and that motor nameplate data in parameters 1-20 to 1-25 matches the actual motor. A simple parameter review and clamp-on ammeter measurement can identify the real problem.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drive technician if you are not trained to work with three-phase power and VFD parameter programming. This code requires systematic troubleshooting with a clamp-on ammeter, megohm tester, and knowledge of motor data entry. If the warning persists after verifying parameters and you suspect a motor or mechanical fault, a technician with vibration analysis tools and insulation test equipment can pinpoint bearing failure, winding shorts, or cable damage. Do not attempt to increase parameter 4-18 beyond the motor's rated current without understanding the mechanical and thermal limits of your system.
 
 **Rough cost:** A pro service call runs about $150-400 depending on whether the fix is parameter adjustment, motor replacement, or mechanical repair.
-
-## See Also
-
-- [Danfoss FC302 Alarm 26 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-26-fault-code/)
-- [Danfoss FC302 VFD Alarm 28 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-28-fault-code/)
-- [Danfoss FC302 ALARM 28 - Causes & Fix](/posts/danfoss-fc302-alarm-28-fault-code/)
-- [Danfoss VFD Fault UL — Causes & Fix](/posts/danfoss-vfd-fault-ul/)

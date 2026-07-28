@@ -20,8 +20,7 @@ free_checks:
 part_price: "$40-80"
 ---
 
-## Bosch Washer E19 Error Code — What It Means
-
+## What this code means
 Error code E19 (also shown as F19) on a Bosch washing machine means the appliance has exceeded the expected heating time. In other words, the washer is not heating the water fast enough during the wash cycle. The control board monitors how long it takes to reach the target temperature, and when that time window is exceeded the machine stops and displays E19.
 
 This is a heating-system fault, not a pressure or drain issue. The washer detects that it cannot bring the water up to temperature within the normal time frame, so it stops the cycle to protect the machine and alert you to the problem.
@@ -29,8 +28,6 @@ This is a heating-system fault, not a pressure or drain issue. The washer detect
 ## Before You Replace Anything
 
 Many people replace the control board first when they see E19. Test the heating element and temperature sensor with a multimeter before ordering any electronics, because a burned-out heater or faulty thermistor is the usual culprit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

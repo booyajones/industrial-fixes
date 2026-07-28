@@ -17,8 +17,7 @@ free_checks:
   - "Inspect all wiring connectors at the control board for loose or corroded pins"
 ---
 
-## Weil-McLain A93 Error Code — What It Means
-
+## What this code means
 Weil-McLain does not publish a universal A93 error code that applies across all boiler models. Error codes are control-specific and vary between the Ultra, Aqua Balance, CGa, and other series. Your boiler's manual or the control quick-start guide will list the exact meaning of A93 for your unit. In general, Weil-McLain codes beginning with A often relate to sensor faults, flame-proving issues, or water-level problems, but the exact definition depends on the control board installed on your particular model.
 
 Before assuming a part has failed, consult the boiler data plate for the model number and locate the corresponding manual. Some faults reset from the control after the underlying condition is corrected, so the first step is always to note when the code appeared and whether the boiler was running, heating, or in standby. Do not bypass safety interlocks or attempt a repair without knowing the exact fault definition for your control.
@@ -26,8 +25,6 @@ Before assuming a part has failed, consult the boiler data plate for the model n
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board when the real problem is a dirty or mispositioned flame sensor or a simple wiring connector that has backed out. Always verify sensor continuity and clean flame-rod ceramic insulators before ordering a new control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -71,10 +68,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you cannot find your model's manual, if the manual directs you to check gas pressure or flame current, or if the code persists after you have verified wiring and sensors. Gas-fired boiler diagnostics require combustion analysis and pressure testing that only qualified service personnel should perform. A technician will bring the correct manuals, a flame-rod tester, and a combustion analyzer to pinpoint the fault safely and make sure the boiler meets local codes after repair.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain A13 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a13-error-code/)
-- [Weil-McLain Boiler A34 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a34-error-code/)
-- [Weil-McLain A65 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a65-error-code/)
-- [Weil-McLain A88 Error - Causes & Fix](/posts/weil-mclain-boiler-a88-error-code/)

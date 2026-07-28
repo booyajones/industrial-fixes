@@ -17,8 +17,7 @@ money_part: "Maytag dryer main control board"
 part_price: "$50-250"
 ---
 
-## Maytag Dryer F6E3 Error Code — What It Means
-
+## What this code means
 F6E3 on a Maytag dryer indicates a control-system fault. Maytag directs you to power down the unit for 5 minutes, restore power, and run a timed dry cycle to see if the code returns. The fault can be intermittent or control-related. In Maytag and Whirlpool platform service practice, F6E3 is commonly treated as a communication error between the user interface console and the main control board.
 
 The code does not point to a mechanical problem such as airflow, heating, or drum motion. It reflects an internal communication or electrical issue within the control system. If the code clears after a reset and does not come back, the fault was likely a temporary software glitch. If it returns under load, the problem is usually a loose or corroded connector, a failed user interface, or a failed main control board.
@@ -26,8 +25,6 @@ The code does not point to a mechanical problem such as airflow, heating, or dru
 ## Before You Replace Anything
 
 Homeowners often replace the main control board when the real problem is a loose or corroded connector in the harness between the user interface and the control. Always inspect and reseat connectors before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

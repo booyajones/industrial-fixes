@@ -13,11 +13,8 @@ money_part: "Combustion fan motor assembly"
 most_likely_cause: "Failed fan motor"
 ---
 
-## Rinnai Error Code 16 — What It Means
-
+## What this code means
 Error code 16 on a Rinnai tankless water heater indicates the combustion fan (also called the exhaust blower or induced draft fan) is not operating within the expected speed range. The control board monitors fan RPM via a Hall effect sensor on the fan motor. If the fan runs too slow, too fast, or not at all, code 16 is displayed and the unit shuts down — without confirmed fan operation, the board will not open the gas valve.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Error code 16 on a Rinnai tankless water heater indicates the combustion fan (al
 ## When to Call a Pro
 
 Gas appliance fan replacement involves working inside the combustion enclosure. If you are not confident in safely accessing the combustion section and verifying electrical circuits, have a Rinnai-authorized technician service the unit.
-
-## Related Articles
-
-- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
-- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
-- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
-- [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
-- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)
-
-## See Also
-
-- [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
-- [Rinnai Tankless Water Heater Error Codes — Complete Guide](/posts/rinnai-error-codes/)
-- [Rinnai Error Code 33 — Causes & Fix](/posts/rinnai-error-code-33/)
-- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)

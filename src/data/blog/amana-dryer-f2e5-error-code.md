@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana F2E5 Error Code — What It Means
-
+## What this code means
 The F2E5 code is documented by Amana for top-load washers, not dryers. Amana states that F2E5 indicates an issue with the user interface or associated wiring. If you see this code on a dryer, the appliance may be reporting a fault in a different format than standard Amana dryer codes, or the display may have been misread. For Amana dryers, the closest published code is F3E5, which signals a moisture sensor problem. Always verify the code against your model's owner's manual or the appliance's wiring diagram to confirm the exact meaning for your machine.
 
 When F2E5 appears on an Amana washer, the control board has detected a communication or electrical fault in the user interface circuit. This can stem from a loose connector, damaged wiring harness, or a failed user interface control panel. Amana's published troubleshooting begins with a power cycle to clear temporary electronic glitches before inspecting hardware.
@@ -26,8 +25,6 @@ When F2E5 appears on an Amana washer, the control board has detected a communica
 ## Before You Replace Anything
 
 Many people replace the main control board when F2E5 appears, but the fault is usually in the user interface assembly or its wiring harness. Always power cycle and inspect connectors before ordering expensive boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

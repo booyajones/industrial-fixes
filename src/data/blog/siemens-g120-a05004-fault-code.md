@@ -13,13 +13,10 @@ money_part: "Siemens G120 cooling fan"
 most_likely_cause: "Excessive ambient temperature"
 ---
 
-## Siemens G120 A05004 — What It Means
-
+## What this code means
 A05004 on a Siemens SINAMICS G120 is an alarm for rectifier overtemperature. The drive has detected that the input rectifier section has reached the alarm threshold for excessive temperature. If the temperature climbs another 5 K, the alarm escalates to fault F30037 and the drive will trip.
 
 This alarm means the power conversion components at the input of the drive are running too hot. It can be caused by conditions outside the drive or by an internal problem in the rectifier itself. The drive is warning you before it shuts down completely.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ This alarm means the power conversion components at the input of the drive are r
 ## When to Call a Pro
 
 Call a qualified drive technician if the alarm persists after you have verified ambient temperature, confirmed cooling fan operation, cleaned all air paths, and checked the incoming power supply. Internal rectifier failures require specialized testing and often replacement of the entire power module. If you are not trained to work safely on live industrial power equipment or do not have the tools to measure phase balance and inspect high-voltage connections, stop and call for service. Repeated overtemperature alarms can damage other components in the drive if the root cause is not corrected.
-
-## See Also
-
-- [Siemens G120 F01625 - Causes & Fix](/posts/siemens-g120-f01625-fault-code/)
-- [Siemens Micromaster F0051 - Causes & Fix](/posts/siemens-micromaster-f0051-fault-code/)
-- [Siemens G120 F01034 - Causes & Fix](/posts/siemens-g120-f01034-fault-code/)
-- [Siemens G120 A05001 Current Limit - Causes & Fix](/posts/siemens-g120-a05001-fault-code/)

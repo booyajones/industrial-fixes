@@ -13,13 +13,10 @@ money_part: "Siemens SINAMICS G120 Control Unit (CU)"
 most_likely_cause: "Too many drives or bus devices on the control unit"
 ---
 
-## Siemens G120 F01205 — What It Means
-
+## What this code means
 F01205 on a Siemens SINAMICS G120 is labeled 'CU: Time slice overflow.' It means the control unit did not finish its required processing within the allotted time slice, so the drive trips with an OFF2 reaction. The fault must be acknowledged by a POWER ON cycle. The root cause is insufficient computation time in the control unit for the existing topology or task load it's handling.
 
 This is a control-unit performance fault, not a motor or power-stage issue. It appears when the CU is overloaded by too many drives on the bus, complex parameterization, heavy communication tasks, or occasionally a firmware or CU hardware problem.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ This is a control-unit performance fault, not a motor or power-stage issue. It a
 ## When to Call a Pro
 
 Call a qualified Siemens technician or your local Siemens service hotline if the fault remains after a POWER ON cycle, topology simplification, and firmware update. Because F01205 involves internal control-unit processing and time-slice management, it may indicate a CU hardware defect or a configuration issue that requires advanced diagnostics in TIA Portal. If you are not experienced with drive commissioning, multi-drive networks, or Siemens parameter structures, get professional help before replacing the control unit or making changes to your communication topology.
-
-## See Also
-
-- [Siemens SINAMICS G120 F30011 Fault — Phase Loss Fix](/posts/siemens-sinamics-f30011-fault/)
-- [Siemens Micromaster 440 Fault F002 — Overcurrent](/posts/siemens-micromaster-440-fault-f002/)
-- [Siemens G120 F01650 - Causes & Fix](/posts/siemens-g120-f01650-fault-code/)
-- [Siemens S7-300/400 CPU Fault Code Guide](/posts/siemens-s7-cpu-fault-codes/)

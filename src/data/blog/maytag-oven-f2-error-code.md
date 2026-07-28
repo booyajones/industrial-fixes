@@ -17,8 +17,7 @@ money_part: "Oven temperature sensor (temperature probe)"
 part_price: "$20-60"
 ---
 
-## Maytag Oven F2 Error Code — What It Means
-
+## What this code means
 On a Maytag oven or range, F2 is the high-temperature or oven overtemperature fault. The control has detected that the oven temperature has exceeded its safe limit, or it is being told that by a bad temperature-sensing circuit. On some Maytag models the display may show F2 E1 or F2 E0, which Maytag's product help ties to the user interface or keypad, control, or wiring rather than a simple bad sensor only.
 
 Plain F2 typically means oven too hot or runaway temperature condition. F2 E1 on certain ranges points toward an issue with the user interface, keypad, control, or associated wiring. Technician-facing descriptions commonly group F2 with temperature runaway, shorted relay, or faulty temperature sensor or probe.
@@ -26,8 +25,6 @@ Plain F2 typically means oven too hot or runaway temperature condition. F2 E1 on
 ## Before You Replace Anything
 
 Many people replace the main control board first when the real problem is a faulty oven temperature sensor. Always test the sensor resistance and inspect its wiring before ordering a new control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -19,8 +19,6 @@ A Kenmore dryer that stops mid-cycle is not reporting a unique error code. Inste
 
 If the dryer stops and then immediately restarts after you cycle the timer or close the door again, that pattern is consistent with an intermittent control, door switch, or wiring issue rather than a hard mechanical breakdown. If the unit is cutting out because it thinks it is too hot, the protective system is likely opening due to a true overheat condition or a false overheat signal from a temperature-sensing component.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Restricted airflow or clogged venting** Poor airflow from a clogged lint screen, crushed duct, or blocked exterior hood overheats the dryer and triggers the thermal safety system to shut down mid-cycle.

@@ -52,16 +52,16 @@ Because door bins are model-specific, you must match the replacement to your ref
 
 If this part is failing you may also see one of these codes:
 
-- [Whirlpool Refrigerator Df error code](/posts/whirlpool-refrigerator-df-error-code/)
-- [Whirlpool Refrigerator E0 error code](/posts/whirlpool-refrigerator-e0-error-code/)
-- [Whirlpool Refrigerator E1 error code](/posts/whirlpool-refrigerator-e1-error-code/)
-- [Whirlpool Refrigerator E2 error code](/posts/whirlpool-refrigerator-e2-error-code/)
-- [Whirlpool Refrigerator E3 error code](/posts/whirlpool-refrigerator-e3-error-code/)
-- [Whirlpool Refrigerator E4 error code](/posts/whirlpool-refrigerator-e4-error-code/)
-- [Whirlpool Refrigerator E5 error code](/posts/whirlpool-refrigerator-e5-error-code/)
-- [Whirlpool Refrigerator E6 error code](/posts/whirlpool-refrigerator-e6-error-code/)
-- [Whirlpool Refrigerator E9 error code](/posts/whirlpool-refrigerator-e9-error-code/)
-- [Whirlpool Refrigerator Po error code](/posts/whirlpool-refrigerator-po-error-code/)
+- Whirlpool Refrigerator Df error code
+- Whirlpool Refrigerator E0 error code
+- Whirlpool Refrigerator E1 error code
+- Whirlpool Refrigerator E2 error code
+- Whirlpool Refrigerator E3 error code
+- Whirlpool Refrigerator E4 error code
+- Whirlpool Refrigerator E5 error code
+- Whirlpool Refrigerator E6 error code
+- Whirlpool Refrigerator E9 error code
+- Whirlpool Refrigerator Po error code
 
 ## When to Call a Pro
 

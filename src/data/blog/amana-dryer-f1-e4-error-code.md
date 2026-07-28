@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Dryer F1 E4 Error Code — What It Means
-
+## What this code means
 Amana does not document an F1 E4 code in its dryer service literature. The code Amana dryers display for power-supply problems is F4 E4, which means low or no line voltage reaching the dryer. If your display shows F1 E4, verify the exact code in your owner's manual or on the wiring diagram inside the dryer cabinet, because code definitions vary by model and year.
 
 If the code is actually F4 E4, it signals that the dryer's control board is not seeing the full 240-volt supply required to energize the heating element. The most common reason is that one of the two circuit breakers or fuses feeding the dryer has tripped or blown. Because electric dryers run on a split 240-volt circuit with two hot legs, one breaker powers the motor (allowing the drum to turn) while the other powers the heater. When only one trips, the drum still spins but the dryer produces no heat and the control logs a low-voltage fault.
@@ -25,8 +24,6 @@ If the code is actually F4 E4, it signals that the dryer's control board is not 
 ## Before You Replace Anything
 
 Homeowners often order a new control board or heating element when they see a fault code, but F4 E4 is almost always a house-circuit or power-cord issue outside the dryer itself. Check both breakers and measure outlet voltage before buying any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

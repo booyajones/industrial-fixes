@@ -17,8 +17,6 @@ money_part: "Air system components"
 
 The Haas VF-4 shares much of its alarm logic with the VF-2, but the larger travels, heavier table loads, and longer axis strokes change how faults show up in the real world. VF-4 machines are especially prone to chip-packing and way-cover related axis issues when housekeeping slips.
 
-[Jump to Fix](#fix)
-
 ## Common Haas VF-4 Alarm Groups
 
 | Code | Meaning |
@@ -62,18 +60,3 @@ The Haas VF-4 shares much of its alarm logic with the VF-2, but the larger trave
 ## When to Call a Pro
 
 If the VF-4 is faulting after a crash or has rising axis load over time, stop and inspect mechanically. Bigger Haas machines hide binding for a while, then suddenly turn it into a much more expensive repair.
-
-## Related Articles
-
-- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
-- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
-- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
-- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
-
-## See Also
-
-- [Haas Alarm 127 — Tool Unclamped Fault](/posts/haas-alarm-127/)
-- [Haas Alarm 108 — Causes & Fix](/posts/haas-alarm-108/)
-- [Haas Alarm 126 — ATC Door Fault](/posts/haas-alarm-126/)
-- [Haas SL-20 Lathe Common Alarms — What They Mean and How to Fix Them](/posts/haas-sl-20-lathe-alarms/)

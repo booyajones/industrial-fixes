@@ -19,8 +19,6 @@ No ignition means the control called for heat but the burner or pilot did not li
 
 On pilot-equipped units, the control attempts to spark the pilot. If there is no spark, the problem is in the igniter circuit (igniter, wiring, or control). If there is spark but no light, the issue is usually gas supply or flow. On electronic-ignition and commercial units, ignition failure can also involve the gas valve, flame-sensing circuit, or venting and airflow problems.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed or weak igniter** The spark igniter or hot-surface igniter has burned out or cracked, so no spark is produced when the control calls for ignition.
@@ -56,7 +54,7 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [A O Smith Water Heater E2 error code](/posts/a-o-smith-water-heater-e2-error-code/)
 - [A O Smith Water Heater E4 error code](/posts/a-o-smith-water-heater-e4-error-code/)
-- [A O Smith Water Heater E6 error code](/posts/a-o-smith-water-heater-e6-error-code/)
+- A O Smith Water Heater E6 error code
 
 ## When to Call a Pro
 

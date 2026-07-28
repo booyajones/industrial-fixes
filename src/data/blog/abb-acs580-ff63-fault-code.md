@@ -13,13 +13,10 @@ money_part: "ACS580 control board assembly"
 most_likely_cause: "Internal software fault in STO diagnostics"
 ---
 
-## ABB ACS580 FF63 — What It Means
-
+## What this code means
 FF63 on an ABB ACS580 is logged as STO diagnostics failure with the additional description SW internal malfunction. STO stands for Safe Torque Off, which is the drive's built-in safety function that disables motor torque when commanded. This fault indicates that the drive's internal software has detected a problem in the diagnostics logic for that safety circuit, rather than a normal motor overload or wiring issue.
 
 Because ABB labels this as an internal software malfunction, the fault originates inside the drive's control board or firmware, not from field wiring or external devices in most cases. The drive has flagged an inconsistency in how it is monitoring its own STO function, so the control unit needs to be reset or examined by a technician.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ Because ABB labels this as an internal software malfunction, the fault originate
 ## When to Call a Pro
 
 Call a qualified drive technician or ABB service if FF63 returns immediately after a control-unit reboot and power cycle, because ABB's own troubleshooting text escalates persistent cases to professional support rather than further field troubleshooting. The fault is an internal software malfunction in the drive's safety diagnostics, so repair typically requires control-board replacement, firmware reload, or factory-level diagnostic tools that are not accessible through the standard keypad. Do not continue resetting the drive repeatedly if the fault keeps coming back, since a failing control board can cause unsafe or unpredictable behavior in the STO safety circuit.
-
-## See Also
-
-- [ABB ACS580 Fault Codes — Complete Diagnosis & Fix Guide](/posts/abb-acs580-fault-codes/)
-- [ABB ACS880 Complete Fault Code Guide — All Faults and Fixes](/posts/abb-acs880-complete-guide/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-- [ABB VFD Fault 7121 — Causes & Fix](/posts/abb-vfd-fault-7121/)

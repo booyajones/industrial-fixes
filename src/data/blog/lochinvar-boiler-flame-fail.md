@@ -11,15 +11,12 @@ tags:
 description: "Lochinvar boiler F08 (Flame Failure) error code explained — causes, step-by-step diagnosis including flame sensor, igniter, and gas pressure checks, and fix guide."
 ---
 
-## Lochinvar Boiler Flame Failure (F08) — What It Means
-
+## What this code means
 The **F08 error code** on a Lochinvar boiler (Knight, CREST, WHN series, and commercial models) means **flame failure** — the boiler's control board tried to ignite the burner but did not detect a stable flame signal within the trial-for-ignition period. Lochinvar boilers make two or three ignition attempts. If no flame is confirmed after each attempt, the boiler enters a hard lockout and displays F08 (some models show "Flame Fail" as text rather than the F08 code).
 
 F08 is a safety lockout — the boiler cannot be restarted automatically. A manual reset is required after identifying and correcting the root cause. Pressing RESET without fixing the underlying problem will result in immediate re-lockout on the next ignition attempt.
 
 The F08 fault is functionally identical to flame failure codes on other high-efficiency condensing boilers: Navien E003, Rinnai LC13, and Weil-McLain all use the same ionization-current detection principle to confirm flame presence. Troubleshooting steps for F08 transfer well from experience with those platforms.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -60,11 +57,3 @@ The F08 fault is functionally identical to flame failure codes on other high-eff
 ## When to Call a Technician
 
 Gas pressure testing requires a manometer and familiarity with the gas train. Any work that involves disconnecting the gas supply line — including gas valve replacement — must be performed by a licensed plumber, HVAC technician, or gas fitter. After any combustion-related repair, the boiler should have combustion performance verified with a calibrated analyzer (CO, CO2, O2, and stack temperature) to confirm safe operation. If F08 persists after cleaning the flame rod and inspecting the electrode, call a Lochinvar-authorized service technician.
-
-## Related Articles
-
-- [Lochinvar Boiler Error Code E01 — Causes & Fix](/posts/lochinvar-boiler-error-code-e01/)
-- [Lochinvar Boiler Error Code E02 — Ignition Failure Fix](/posts/lochinvar-boiler-error-code-e02-ignition-failure/)
-- [Lochinvar Boiler Error Code E03 — Causes & Fix](/posts/lochinvar-boiler-error-code-e03/)
-- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
-- [Rinnai Error Code LC13 — Causes & Fix](/posts/rinnai-lc13-error-code/)

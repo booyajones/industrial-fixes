@@ -16,8 +16,7 @@ part_price: "$15-80"
 diy_or_pro: "diy"
 ---
 
-## Electrolux Dryer ERD Error Code — What It Means
-
+## What this code means
 ERD is not a documented Electrolux dryer fault code in manufacturer service literature. The code you are seeing may be a misread display, a variant specific to your platform, or a transient error. Electrolux's published error-code guide lists E4 for humidity sensor failure, EF1 for ventilation blockage, and E42 for door-open faults, but does not define a standalone ERD code.
 
 Because the exact meaning of ERD is not confirmed, verify the code against your model's technical sheet or service manual before replacing any parts. If the display actually reads E4, the dryer has detected a failed moisture sensor. If it reads EF1, airflow is restricted. If it reads E42, the door switch circuit is open. Treating ERD as one of these documented codes without verification risks unnecessary parts replacement.
@@ -25,8 +24,6 @@ Because the exact meaning of ERD is not confirmed, verify the code against your 
 ## Before You Replace Anything
 
 Homeowners often replace the main control board when the real problem is dirty moisture-sensor bars or a plugged lint filter. Clean the sensor strips inside the drum and clear the exhaust duct before ordering electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

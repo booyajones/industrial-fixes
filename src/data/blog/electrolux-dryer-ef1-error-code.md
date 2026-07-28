@@ -21,8 +21,7 @@ free_checks:
 no_buy_pct: "70%"
 ---
 
-## Electrolux Dryer EF1 Error Code — What It Means
-
+## What this code means
 EF1 on Electrolux and Frigidaire dryers is a vent-airflow restriction fault. The dryer believes exhaust airflow is blocked or inadequate. This is not a moisture-sensor code. The control board monitors airflow using thermistors (temperature sensors) near the blower and exhaust path, and when it detects abnormal heat buildup or poor air movement, it triggers EF1 to protect the machine from overheating.
 
 The code will appear during or after a cycle and may prevent the dryer from running until the fault is cleared. In most cases the cause is physical lint buildup somewhere in the vent system. Less often, a thermistor or wiring fault can trigger EF1 even when airflow is actually clear.
@@ -30,8 +29,6 @@ The code will appear during or after a cycle and may prevent the dryer from runn
 ## Before You Replace Anything
 
 Many people replace the control board or thermistors before inspecting the entire vent run. Always disconnect and inspect the full duct path and exterior vent cap first, since a hidden blockage will cause EF1 even with new sensors.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

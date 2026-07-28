@@ -19,8 +19,6 @@ When a KitchenAid dishwasher does not drain, standing water remains in the tub a
 
 The most common causes are physical blockages in the filter, sump, drain hose, air gap, or garbage disposal inlet. If those paths are clear and the pump is still not running, the drain pump itself may have failed electrically or mechanically, or the control board may not be sending power to the pump.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged filter or sump screen** Food debris and sediment restrict water flow through the drain path.
@@ -58,7 +56,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Kitchenaid Dishwasher F2E2 error code](/posts/kitchenaid-dishwasher-f2e2-error-code/)
 - [Kitchenaid Dishwasher F3E1 error code](/posts/kitchenaid-dishwasher-f3e1-error-code/)
 - [Kitchenaid Dishwasher F3E2 error code](/posts/kitchenaid-dishwasher-f3e2-error-code/)
-- [Kitchenaid Dishwasher F4E3 error code](/posts/kitchenaid-dishwasher-f4e3-error-code/)
+- Kitchenaid Dishwasher F4E3 error code
 - [Kitchenaid Dishwasher F5E1 error code](/posts/kitchenaid-dishwasher-f5e1-error-code/)
 - [Kitchenaid Dishwasher F6E1 error code](/posts/kitchenaid-dishwasher-f6e1-error-code/)
 - [Kitchenaid Dishwasher F6E2 error code](/posts/kitchenaid-dishwasher-f6e2-error-code/)

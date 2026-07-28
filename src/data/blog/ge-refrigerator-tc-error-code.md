@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "GE refrigerator user interface control board"
 ---
 
-## GE Refrigerator tC Error Code — What It Means
-
+## What this code means
 The tC code on a GE refrigerator is not an error or fault code. It indicates that TurboCool mode is currently active on the fresh-food compartment. TurboCool is a rapid-cooling function designed to pull the refrigerator temperature down faster after heavy door use, loading warm groceries, or adding a large amount of food. The display shows tC while the mode is running, the fans may run harder, and the compartment targets a lower temperature for a limited time before shutting off automatically.
 
 TurboCool can be activated intentionally by the user or accidentally by pressing and holding the refrigerator temperature control. The mode will auto-cancel after a set period (sources report between 2 and 8 hours depending on the model, so consult your specific manual). The code will clear when TurboCool is turned off manually or times out on its own. If tC remains on the display, the issue is usually a stuck control pad or a control-board glitch, not a sensor or sealed-system problem.
@@ -25,8 +24,6 @@ TurboCool can be activated intentionally by the user or accidentally by pressing
 ## Before You Replace Anything
 
 Do not replace thermistors, the main control board, or sealed-system components based on tC alone. This is a mode indicator, not a refrigeration fault. Cancel TurboCool first and verify the display clears before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

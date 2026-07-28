@@ -14,11 +14,8 @@ money_part: "Flame sensor / flame rod"
 most_likely_cause: "Contaminated or grounded flame sensor"
 ---
 
-## Trane Furnace 5 Flashes — What It Means
-
+## What this code means
 On Trane residential furnaces, 5 flashes indicate a flame-sensing fault. The control board believes it is detecting a flame signal even though the gas valve has not been commanded on. This is called a false flame signal and points to a problem in the flame-sensing circuit, wiring, or control board rather than a simple ignition failure. In Trane's published code charts, this fault is labeled "flame sensed when gas valve off." The board thinks combustion is happening when it should not be, so it locks out to protect the system. This fault is different from ignition or pressure-switch problems and requires checking the flame sensor, gas valve, and board circuitry.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ On Trane residential furnaces, 5 flashes indicate a flame-sensing fault. The con
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with gas appliances or high-voltage wiring. A false-flame fault can lock out the furnace repeatedly and may involve combustion-air, venting, or pressure-switch issues that affect flame stability. Technicians have combustion analyzers and multimeters to test flame-sense microamps, gas-valve operation, and board circuitry. If you have already cleaned the sensor and checked wiring but the code returns, professional diagnosis of the gas valve and control board will save time and prevent unsafe operation.
-
-## See Also
-
-- [Trane 3-Blink Error Code — Pressure Switch Fault Fix](/posts/trane-3-blink-error-code/)
-- [Trane Furnace 4 Flashes - Causes & Fix](/posts/trane-furnace-4-flashes-error-code/)
-- [Trane XL18i Heat Pump Error Codes: Flash Codes and ComfortLink II Faults](/posts/trane-xl18i-error-codes/)
-- [Trane S8X1 Furnace Error Codes — Flash Code Diagnostic Guide](/posts/trane-s8x1-error-codes/)

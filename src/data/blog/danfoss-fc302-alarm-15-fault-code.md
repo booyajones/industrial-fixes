@@ -13,13 +13,10 @@ money_part: "Danfoss FC 302 option card or communication module"
 most_likely_cause: "Wrong option type for drive model"
 ---
 
-## Danfoss FC302 ALARM 15 — What It Means
-
+## What this code means
 ALARM 15 on a Danfoss VLT AutomationDrive FC 302 indicates a hardware mismatch. The drive has detected that a fitted option card or accessory is not compatible with the present control card hardware or software. Danfoss describes this as a non-compatible option installed.
 
 This is not a power fault or motor problem. It means an option module (communication card, brake option, I/O accessory, or other add-on) does not match the exact FC 302 hardware configuration, control board version, or firmware. The drive will not operate normally until the mismatch is resolved.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ This is not a power fault or motor problem. It means an option module (communica
 ## When to Call a Pro
 
 Call a qualified Danfoss service technician or drive specialist if the alarm does not clear after reseating or removing the option, if you cannot identify which option is installed, or if you do not have access to the drive's software version data. ALARM 15 requires exact hardware and firmware compatibility data that Danfoss support may need to interpret. A professional can verify option part numbers against the control platform, update firmware if needed, and source the correct replacement module for your specific FC 302 configuration.
-
-## See Also
-
-- [Danfoss FC302 ALARM 35 - Causes & Fix](/posts/danfoss-fc302-alarm-35-fault-code/)
-- [Danfoss FC-302 Alarm 12 — Overcurrent Fix](/posts/danfoss-fc302-alarm-12/)
-- [Danfoss FC302 ALARM 33 - Causes & Fix](/posts/danfoss-fc302-alarm-33-fault-code/)
-- [Danfoss FC302 ALARM 31 - Causes & Fix](/posts/danfoss-fc302-alarm-31-fault-code/)

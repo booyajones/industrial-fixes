@@ -14,8 +14,7 @@ money_part: "Yaskawa GA800 cooling fan"
 most_likely_cause: "Misread or ambiguous display"
 ---
 
-## Yaskawa GA800 E62 Fault — What It Means
-
+## What this code means
 The E62 code does not appear in verified Yaskawa GA800 fault code tables. Yaskawa drives typically display faults with an 'o' prefix (overcurrent, overvoltage) or 'U' prefix (undervoltage), so E62 may be a misread display, a communication alarm, or a code variant specific to your operator type. The GA800 troubleshooting process requires reading the exact code shown on the keypad or LED operator, identifying the root cause, and then pressing the RESET button to clear the fault after the problem is corrected.
 
 Because the exact meaning of E62 cannot be confirmed from manufacturer documentation, start by verifying what the display actually shows. Check your drive's model and catalog code on the nameplate, inspect for shipping damage or loose wiring, and consult the fault code table in your specific GA800 manual. If the drive continues to fault after reset, collect the model number, spec number, serial number, and failure information and contact Yaskawa support for interpretation.
@@ -23,8 +22,6 @@ Because the exact meaning of E62 cannot be confirmed from manufacturer documenta
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board when the fault is actually caused by a loose cable or incorrect parameter setting. Always verify wiring, check the exact fault code in the manual, and test input power before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -71,10 +68,3 @@ Answer these to narrow it down fast.
 Call a qualified drives technician or Yaskawa-authorized service provider if you cannot find E62 in your manual, if the fault returns immediately after reset, or if you are uncomfortable working with three-phase input power. The GA800 troubleshooting documentation states that only fan and control board components are supported for field replacement, so other internal repairs require factory service. A technician will verify the exact fault code, check for parameter mismatches, measure input and output voltages, and determine whether the drive needs a control board replacement or a complete unit exchange. Do not attempt to open the drive enclosure or measure high-voltage DC bus points without proper training and PPE.
 
 **Rough cost:** A pro service call runs about $200–500 for service call and diagnostics.
-
-## See Also
-
-- [Yaskawa GA800 F021 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f021-fault-code/)
-- [Yaskawa GA800 A.146 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-146-fault-code/)
-- [Yaskawa GA800 E82 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e82-fault-code/)
-- [Yaskawa GA800 VFD E54 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e54-fault-code/)

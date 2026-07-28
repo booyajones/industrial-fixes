@@ -15,8 +15,7 @@ diy_or_pro: "diy"
 money_part: "Main control board (electronic control)"
 ---
 
-## KitchenAid ER Error Code — What It Means
-
+## What this code means
 The KitchenAid ER code is not a single universal fault across all KitchenAid products. KitchenAid does not define ER as a standalone code in its published cooking-appliance error-code documentation. For refrigerators and ice makers, ER appears in diagnostic-code menus but the meaning is model-dependent and must be read from the service sheet for your exact unit. In practice, technicians treat ER as a generic error indication that requires retrieving stored sub-codes or checking the affected subsystem in diagnostics rather than a uniquely identifiable failure by itself.
 
 The code typically signals a control glitch, power supply issue, or subsystem fault. KitchenAid notes that some error codes can clear after a power reset. For cooking appliances, related codes like F9/E0 indicate electrical supply miswire or incorrect voltage detection. For refrigerators, ER in diagnostics often points to sensor failures, defrost-system problems, ice-maker faults, or control-board-related issues, though the exact cause depends on the product family and must be verified through model-specific diagnostics.
@@ -24,8 +23,6 @@ The code typically signals a control glitch, power supply issue, or subsystem fa
 ## Before You Replace Anything
 
 Homeowners often replace the main control board when ER appears, but the code is usually a transient fault. Always power-cycle the appliance for 1 minute and check for stored sub-codes in diagnostics before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

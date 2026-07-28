@@ -17,8 +17,6 @@ money_part: "Lube pump parts"
 
 DMG Mori DMF series machines are high-end 5-axis or multi-axis machining centers where alarms often come from motion, spindle cooling, lubrication, hydraulic systems, or the Siemens/Heidenhain control layer. Exact alarm numbers vary by control package, but the field patterns are consistent.
 
-[Jump to Fix](#fix)
-
 ## Common DMF Alarm Groups
 
 | Code | Meaning |

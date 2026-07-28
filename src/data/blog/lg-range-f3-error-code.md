@@ -17,8 +17,7 @@ money_part: "LG range touch panel or keypad assembly"
 part_price: "$40-120"
 ---
 
-## LG Range F3 Error Code — What It Means
-
+## What this code means
 LG uses the F3 error code for two different faults depending on the model family. On LG's official range error-code list, F3 indicates a touch-pad sensor key error, meaning the control has detected a stuck or shorted key input on the touch panel. On LG's parts and service documentation for other range models, F3 means the oven temperature sensor (thermistor) is shorted for more than one minute during cooking. LG's own support video describes F3 as an open oven sensor condition that should clear after a power reset, and if it returns the unit requires repair.
 
 Because LG assigns the same code to both keypad faults and oven sensor faults across different model families, the first step is to confirm your exact model number and check whether the fault occurred during touch-panel interaction or during oven operation. If the code appeared while using the touch controls, suspect the keypad or control membrane. If it appeared during cooking or heating, suspect the oven sensor circuit. Both paths share a common troubleshooting start: power-cycle the range and inspect the affected area for obvious signs of contamination or damage.
@@ -27,31 +26,13 @@ Because LG assigns the same code to both keypad faults and oven sensor faults ac
 
 Many owners replace the main control board when F3 appears, but the fault is often a dirty or shorted touch panel or a failed oven sensor. Clean the panel and test the sensor resistance before ordering the board.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Moisture, grease, or foreign material on the touch panel (~35%)** Spills, steam, or food residue can bridge contacts on the touch membrane and hold a key input active long enough to trigger a key-error fault.
-- **Failed oven temperature sensor or thermistor (~30%)** A shorted or open thermistor sends an abnormal signal to the control, and the board logs F3 if the condition persists for more than one minute during cooking.
-- **Stuck or shorted keypad membrane (~20%)** Age, heat, and repeated use can degrade the touch-panel membrane so that one or more keys remain electrically closed even when not pressed.
-- **Wiring harness or connector fault (~10%)** Loose, corroded, or damaged connectors between the touch panel, oven sensor, and main control board can mimic a sensor short or key fault.
-- **Defective main control board (~5%)** If the touchpad and sensor circuits both check good, the control board itself may be misreading the inputs or failing to clear the fault after reset.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Does the code clear after you unplug the range for two minutes and restore power?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The fault was transient or caused by a temporary short. Monitor the range during the next few cooking cycles. If F3 does not return, no further repair is needed.<br><strong>No:</strong> The fault is persistent. Proceed to inspect the touch panel for contamination and the oven sensor circuit for shorts or open connections.</div>
-</details>
-
-<details class="dtree"><summary>Did the code appear while you were pressing buttons on the control panel?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Suspect a touch-panel fault. Clean the panel thoroughly with a damp cloth, dry it, and power-cycle. If the code returns immediately, the touchpad membrane or control board is the likely cause.<br><strong>No:</strong> Suspect an oven sensor fault. Inspect the sensor connector and wiring at the back of the oven cavity, then measure the sensor resistance if you have a multimeter and your model's service data.</div>
-</details>
-
-<details class="dtree"><summary>Can you see moisture, food residue, or a sticky area on the touch panel?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Clean the panel with a soft damp cloth and dry it completely. Power-cycle the range. If the code clears and does not return, the contamination was the cause.<br><strong>No:</strong> The fault is likely internal to the touchpad membrane, oven sensor, or control board. Proceed to sensor and connector testing or call a technician.</div>
-</details>
+- **Moisture, grease, or foreign material on the touch panel** Spills, steam, or food residue can bridge contacts on the touch membrane and hold a key input active long enough to trigger a key-error fault.
+- **Failed oven temperature sensor or thermistor** A shorted or open thermistor sends an abnormal signal to the control, and the board logs F3 if the condition persists for more than one minute during cooking.
+- **Stuck or shorted keypad membrane** Age, heat, and repeated use can degrade the touch-panel membrane so that one or more keys remain electrically closed even when not pressed.
+- **Wiring harness or connector fault** Loose, corroded, or damaged connectors between the touch panel, oven sensor, and main control board can mimic a sensor short or key fault.
+- **Defective main control board** If the touchpad and sensor circuits both check good, the control board itself may be misreading the inputs or failing to clear the fault after reset.
 
 ## Step-by-Step Fix {#fix}
 
@@ -74,12 +55,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a professional if you are uncomfortable working inside the range cabinet, if the sensor resistance measurement does not match published specifications and you are unsure how to interpret the reading, or if both the touchpad and sensor test good but the code persists. A technician can verify the control board with specialized diagnostics and source the correct replacement parts by model number. Also call for service if the range uses 240-volt wiring and you are not confident isolating and reconnecting high-voltage circuits safely, or if the fault returns repeatedly after you have replaced the sensor or touchpad and you suspect a board-level failure.
-
-**Rough cost:** DIY runs about $40–120 in parts, 30–60 min. A pro service call runs about $150–300.
-
-## See Also
-
-- [LG Mini Split CH53 Error Code - Causes & Fix](/posts/lg-mini-split-ch53-error-code/)
-- [LG Refrigerator FF Error Code - Causes & Fix](/posts/lg-refrigerator-ff-error-code/)
-- [LG Dryer Idler Pulley Replacement - Signs & How-To](/posts/lg-dryer-idler-pulley-replacement/)
-- [LG Refrigerator Light Not Working - Causes & Fix](/posts/lg-refrigerator-light-not-working/)

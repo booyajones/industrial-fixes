@@ -22,8 +22,7 @@ part_price: "$15-40"
 no_buy_pct: "65%"
 ---
 
-## KitchenAid Dishwasher F6E4 Error — What It Means
-
+## What this code means
 F6E4 on a KitchenAid dishwasher signals an overfill or float-switch condition. The control has detected that the overfill float has been actuated, either because the tub has too much water or because the float mechanism is reporting a fault. KitchenAid documentation specifically notes that incorrect leveling can move the overfill float enough to trigger the switch and display the code, even when no true overfill is present.
 
 The float assembly sits in the base pan and lifts when water accumulates. When the float rises or the switch reports continuity, the control assumes a leak or overfill and halts the cycle. In practice technicians treat F6E4 as a float-system fault first, checking level, float movement, inlet valve operation, and wiring in that order.
@@ -31,8 +30,6 @@ The float assembly sits in the base pan and lifts when water accumulates. When t
 ## Before You Replace Anything
 
 Homeowners sometimes replace the float switch or control board before checking level or mechanical binding. Always verify the machine is level front-to-back and side-to-side and confirm the float moves freely before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

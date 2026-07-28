@@ -13,11 +13,8 @@ money_part: "Navien inlet water filter / screen"
 most_likely_cause: "Closed or partially closed isolation valve"
 ---
 
-## Navien E002 Error Code — What It Means
-
+## What this code means
 The E002 error code on a Navien tankless water heater indicates low inlet water pressure or insufficient water supply. The unit has detected that it does not have enough water available to operate safely, so it shuts down to protect itself. This is an automatic-reset fault, meaning the error will clear on its own once normal water pressure and flow are restored to the heater.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,10 +44,3 @@ The E002 error code on a Navien tankless water heater indicates low inlet water 
 ## When to Call a Pro
 
 Call a licensed plumber or Navien service technician if the E002 error continues after you have confirmed the inlet valve is open, the filter is clean, and building water pressure is adequate. A pro can test the pressure sensor with proper diagnostic tools, inspect for hidden supply restrictions, and replace the sensor if needed. Also call for help if you are uncomfortable working with water or electrical connections on your heater or if your building's water pressure is consistently too low and requires a booster pump or supply-line upgrade.
-
-## See Also
-
-- [Navien E004 Error Code - Causes & Fix](/posts/navien-tankless-e004-error-code/)
-- [Navien E016 Error Code - Causes & Fix](/posts/navien-tankless-e016-error-code/)
-- [Navien Error Code E016 — Causes & Fix](/posts/navien-error-code-e016/)
-- [Navien Error Code E022 — Hot Water Outlet Thermistor Fault Fix](/posts/navien-error-code-e022/)

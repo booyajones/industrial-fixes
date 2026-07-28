@@ -17,15 +17,12 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Bosch Oven E115 Error Code — What It Means
-
+## What this code means
 The E115 error code on a Bosch oven indicates the control system has detected an excessively high cavity temperature and entered a protective shutdown. The oven stops heating and typically locks the door until the temperature drops back into a safe range. This is a temperature-regulation safety fault designed to prevent damage or fire. The code clears automatically once the oven cools, but the underlying cause must be corrected or the error will return on the next cook cycle.
 
 ## Before You Replace Anything
 
 Many people replace the control board first when the actual fault is a failed temperature sensor or bad wiring connector. Test sensor resistance and inspect connectors before ordering expensive electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

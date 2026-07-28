@@ -19,8 +19,6 @@ A Kenmore washer that won't spin is not one single fault. On many LG-made Kenmor
 
 The LE condition can be triggered by a physical obstruction, a control-board glitch that clears with a reset, or a failed rotor position sensor (RPS). Drain-related complaints (OE or similar) point to a clogged hose, debris in the pump, or a failed drain-pump relay on the control board. Without a code, the issue may still be mechanical binding, a bad sensor, or an electronic fault that has not yet set a visible error.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Control glitch or temporary fault latch** A brief power surge or interrupted cycle can latch a false LE or spin fault that clears when you reset the control board.
@@ -54,8 +52,8 @@ The LE condition can be triggered by a physical obstruction, a control-board gli
 
 Seeing a code on the display? These match this problem:
 
-- [Kenmore Washer E14 error code](/posts/kenmore-washer-e14-error-code/)
-- [Kenmore Washer E24 error code](/posts/kenmore-washer-e24-error-code/)
+- Kenmore Washer E14 error code
+- Kenmore Washer E24 error code
 - [Kenmore Washer F0 E2 error code](/posts/kenmore-washer-f0-e2-error-code/)
 - [Kenmore Washer F0 E4 error code](/posts/kenmore-washer-f0-e4-error-code/)
 - [Kenmore Washer F1 E1 error code](/posts/kenmore-washer-f1-e1-error-code/)

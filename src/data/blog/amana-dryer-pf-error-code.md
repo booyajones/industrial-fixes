@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Dryer PF Error Code — What It Means
-
+## What this code means
 PF stands for Power Failure. Your Amana dryer detected that the drying cycle was interrupted by a loss or interruption of incoming electrical power. The code can also appear after unstable power or electrical noise during a utility outage. It is not a parts-failure code. It is a status message telling you the dryer lost power mid-cycle.
 
 The control board saves the code in memory so you know why the cycle stopped. You clear it by pressing POWER to dismiss the display or by holding START to pick up the cycle where it left off. If PF keeps coming back without any obvious outage, the dryer may be experiencing poor electrical supply or a control-board issue.
@@ -25,8 +24,6 @@ The control board saves the code in memory so you know why the cycle stopped. Yo
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when PF appears repeatedly, but the real culprit is often a loose plug or receptacle connection. Check the cord, outlet, and breaker first before ordering any control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

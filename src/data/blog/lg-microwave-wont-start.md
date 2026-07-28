@@ -19,8 +19,6 @@ When an LG microwave won't start, the control system is blocked or cannot comple
 
 If the unit appears completely dead with no lights or response, the problem is usually external power (tripped breaker or bad outlet) or an internal line fuse failure. If the display is lit but pressing Start does nothing, the door interlock switches or main control board may be preventing the cycle from beginning.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Control Lock is enabled** LG microwaves lock the keypad to prevent accidental operation, and this is the single most common reason the Start button does nothing.
@@ -69,10 +67,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a technician if you are uncomfortable working inside the cabinet or do not own a multimeter to test fuses and switches. The high-voltage capacitor can store thousands of volts even after unplugging, so any work beyond the door latch and external reset requires proper discharge procedures. If you have already replaced the line fuse and door switches but the microwave still will not start, a professional can trace control-board signals and confirm the board itself has failed rather than an upstream wiring fault.
-
-## See Also
-
-- [LG Dishwasher Not Dispensing Detergent - Causes & Fix](/posts/lg-dishwasher-not-dispensing-detergent/)
-- [LG Mini Split Ice on Coils - Causes & Fix](/posts/lg-mini-split-ice-on-coils/)
-- [LG Microwave Making Loud Noise - Causes & Fix](/posts/lg-microwave-making-loud-noise/)
-- [LG Washer Cd Error Code - Causes & Fix](/posts/lg-washer-cd-error-code/)

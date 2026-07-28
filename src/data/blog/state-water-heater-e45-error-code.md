@@ -19,8 +19,7 @@ free_checks:
 no_buy_pct: "30%"
 ---
 
-## State Water Heater E45 Error — What It Means
-
+## What this code means
 E45 on a State tankless water heater is an internal leak or water detection fault. The unit has found water where it should not be, typically at the leak sensor in the base of the cabinet, and has shut down as a safety measure. This is not an ignition or flame problem. It is a leak-protection shutdown.
 
 In the field, technicians see this code after servicing (when residual water triggers the sensor), from a slow seep at the mixing valve area, or from a small leak at internal plumbing connections that allows water to collect in the bottom pan. Even a minor amount of water near the sensor will trip E45 and lock out the heater until the leak is repaired and the unit is thoroughly dried.
@@ -28,8 +27,6 @@ In the field, technicians see this code after servicing (when residual water tri
 ## Before You Replace Anything
 
 Homeowners sometimes replace the leak sensor itself, but the sensor is only reporting water that is actually present. Always inspect for the true leak source (mixing valve, fittings, or leftover service water) before replacing any sensor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -17,8 +17,6 @@ tags:
 
 A burning smell from your Kenmore dryer is not an error code. It is a symptom that something inside the dryer or vent path is getting hot enough to produce an odor from lint, rubber, plastic, or electrical insulation. A smoky or dusty smell usually points to lint or trapped debris overheating. A sharp acrid smell like melting insulation suggests an electrical problem such as worn wiring, a failing heating element, or a damaged motor connection. A hot rubber or melting plastic smell often means the drive belt is rubbing or overheating on other parts.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Lint buildup in screen, blower, ducts, or vent system** This is the most common cause and can overheat enough to produce a smoky or dusty burning smell.

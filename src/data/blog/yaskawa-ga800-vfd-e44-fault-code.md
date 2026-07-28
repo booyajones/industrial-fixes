@@ -15,15 +15,12 @@ diy_or_pro: "pro"
 money_part: "Yaskawa GA800 Communication Option Card"
 ---
 
-## Yaskawa GA800 E44 Fault — What It Means
-
+## What this code means
 E44 does not appear in verified Yaskawa GA800 documentation. The GA800 uses fault codes in the oFA and bUS families for option-card and communications errors, not E44. The most common option-card fault on the GA800 is a Communication Option Card Connection Error at the CN5-A connector, which means the drive cannot communicate with an installed option card. If your display shows E44, double-check the exact text on the keypad or consult your model's manual, because this code may belong to a different Yaskawa series or be a misread of another fault. The GA800 troubleshooting flow for option-card faults focuses on connector seating, physical damage to the card, and card replacement.
 
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive when the option card or connector is the real culprit. Always inspect and re-seat the card, and check for bent pins or physical damage before ordering a new drive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -71,10 +68,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or Yaskawa-certified technician if you are unfamiliar with variable-frequency drives, if the fault does not clear after re-seating or replacing the option card, or if you need to verify proper network configuration and parameters. VFDs operate at high voltage and store energy in capacitors even after power is removed, so improper handling can cause serious injury or equipment damage. A technician can safely inspect the CN5-A connector, test with diagnostic equipment, and coordinate warranty or advanced support with Yaskawa if the drive itself is faulty.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Yaskawa GA800 E14 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e14-fault-code/)
-- [Yaskawa GA800 E19 Fault - Causes & Fix](/posts/yaskawa-ga800-e19-fault-code/)
-- [Yaskawa GA800 F022 - Causes & Fix](/posts/yaskawa-ga800-vfd-f022-fault-code/)
-- [Yaskawa GA800 E01 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e01-fault-code/)

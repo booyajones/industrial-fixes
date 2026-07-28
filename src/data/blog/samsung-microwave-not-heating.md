@@ -17,8 +17,6 @@ tags:
 
 When your Samsung microwave runs but does not heat, the turntable spins, the light comes on, and the fan runs, but no microwave energy is produced in the cavity. This is a symptom, not a displayed error code. The high-voltage heating circuit is failing to deliver power to the magnetron, or a safety interlock is preventing the unit from cooking.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Demo Mode enabled** The microwave appears to run normally but is intentionally disabled from heating, a factory setting for showroom display.
@@ -53,7 +51,7 @@ When your Samsung microwave runs but does not heat, the turntable spins, the lig
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Samsung Microwave C 10 error code](/posts/samsung-microwave-c-10-error-code/)
+- Samsung Microwave C 10 error code
 - [Samsung Microwave C 11 error code](/posts/samsung-microwave-c-11-error-code/)
 - [Samsung Microwave C 12 error code](/posts/samsung-microwave-c-12-error-code/)
 - [Samsung Microwave C 20 error code](/posts/samsung-microwave-c-20-error-code/)
@@ -64,7 +62,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Samsung Microwave C 72 error code](/posts/samsung-microwave-c-72-error-code/)
 - [Samsung Microwave C A0 error code](/posts/samsung-microwave-c-a0-error-code/)
 - [Samsung Microwave C A1 error code](/posts/samsung-microwave-c-a1-error-code/)
-- [Samsung Microwave C A2 error code](/posts/samsung-microwave-c-a2-error-code/)
+- Samsung Microwave C A2 error code
 
 ## When to Call a Pro
 

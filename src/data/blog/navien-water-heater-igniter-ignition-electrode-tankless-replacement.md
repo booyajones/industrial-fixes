@@ -51,10 +51,3 @@ This assembly fails when the surfaces get coated with carbon deposits, dust, or 
 ## When to Call a Pro
 
 Gas appliance ignition work requires verifying gas pressure, proper combustion, and safe venting after reassembly. If you are not experienced with gas-fired equipment or do not have a way to test gas pressure and confirm proper burner operation, call a licensed technician to diagnose and replace the igniter assembly. Also call a pro if the new igniter does not fix the problem, since ignition failures can be caused by upstream gas supply issues, blocked venting, faulty gas valves, or control board problems that require diagnostic tools and training to resolve safely. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Navien E038 Error Code - Causes & Fix](/posts/navien-tankless-e038-error-code/)
-- [Navien Water Heater Not Enough Hot Water - Causes & Fix](/posts/navien-water-heater-not-enough-hot-water/)
-- [Navien Tankless Heat Exchanger Replacement - Signs & How-To](/posts/navien-water-heater-heat-exchanger-tankless-condensing-secondary-replacement/)
-- [Navien Error Code E007 — Causes & Fix](/posts/navien-error-code-e007/)

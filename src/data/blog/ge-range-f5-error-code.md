@@ -20,8 +20,7 @@ free_checks:
 part_price: "$30-70"
 ---
 
-## GE Range F5 Error Code — What It Means
-
+## What this code means
 On GE ranges and ovens, F5 typically indicates a problem with the oven door latch assembly, door latch switches, or the wiring between them and the control. The electronic oven control detects that the latch system is not changing state correctly during a self-clean cycle or other latch operation. Some GE models use F5 to flag a broader supervisory-circuit failure in the electronic range control itself. The exact meaning depends on your model family, so check your wiring diagram or service sheet if the common latch-related causes do not apply.
 
 This code is unrelated to the F5 fault on GE microwaves, which points to a humidity-sensor short. Always confirm you are working on a range or wall oven before following the diagnostic steps below.
@@ -29,8 +28,6 @@ This code is unrelated to the F5 fault on GE microwaves, which points to a humid
 ## Before You Replace Anything
 
 Many people replace the electronic oven control first. Inspect the latch assembly, test each latch switch for proper actuation, and check the wiring harness for damage or loose connectors before buying a new control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

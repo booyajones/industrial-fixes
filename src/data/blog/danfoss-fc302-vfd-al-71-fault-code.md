@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "65%"
 ---
 
-## Danfoss FC302 AL-71 Fault — What It Means
-
+## What this code means
 Alarm 71 (PTC 1 safe stop) on a Danfoss FC302 VFD indicates that the drive has received a Safe Torque Off (STO) signal from an external PTC (Positive Temperature Coefficient) temperature sensor or a safety circuit connected to the drive's STO input. The drive immediately stops and locks out motor output to prevent unsafe operation. This is a protection logic stop, not a thermal overload or damage fault. The drive will not restart until the STO condition is cleared and power is reset or the input is re-enabled.
 
 The STO input is typically connected to terminals 19 and 20 or configured in parameter group 16-xx for safety interlocks. The fault is distinct from overtemperature alarms and is designed to enforce a safe, non-restartable stop when the PTC sensor detects motor winding overheating or when an external safety circuit (emergency stop, selector switch, or interlock) opens the STO loop.
@@ -29,8 +28,6 @@ The STO input is typically connected to terminals 19 and 20 or configured in par
 ## Before You Replace Anything
 
 Technicians sometimes replace the control card first, but most AL-71 faults are caused by loose wiring, tripped PTC sensors, or open safety interlocks. Check all external wiring and interlocks before ordering a new I/O PCB.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or VFD technician if you are not trained in variable frequency drive troubleshooting, motor thermal testing, or high-voltage DC bus work. This fault involves safety interlocks and Safe Torque Off circuits that are part of machinery safety systems. Incorrect diagnosis can lead to unsafe restarts or machinery damage. A pro has the proper test equipment (megohm testers, programming software like Danfoss MCT) and experience with parameter configuration in group 16-xx. If the control card needs replacement or motor insulation has failed, a technician should perform the repair and validate the drive operates safely under load.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Danfoss FC302 AL-111 - Causes & Fix](/posts/danfoss-fc302-vfd-al-111-fault-code/)
-- [Danfoss FC302 Alarm 38 - Causes & Fix](/posts/danfoss-fc302-alarm-38-fault-code/)
-- [Danfoss FC302 Alarm 39 - Causes & Fix](/posts/danfoss-fc302-alarm-39-fault-code/)
-- [Danfoss FC302 ALARM 20 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-20-fault-code/)

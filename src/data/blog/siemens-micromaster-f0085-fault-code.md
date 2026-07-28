@@ -13,11 +13,8 @@ money_part: "E-stop switch or safety interlock switch"
 most_likely_cause: "Open or tripped external interlock chain"
 ---
 
-## Siemens Micromaster F0085 — What It Means
-
+## What this code means
 F0085 on a Siemens Micromaster 420 or 440 drive means the inverter has received a fault signal from an external source, not an internal power stage failure. The drive is responding to a digital input or interlock circuit that has commanded a trip. This fault indicates the problem is usually outside the drive itself, in the wiring, safety devices, or control logic feeding the configured external fault terminal. The inverter is working correctly by stopping the motor when it sees the external permissive chain open or a safety device activate.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ F0085 on a Siemens Micromaster 420 or 440 drive means the inverter has received 
 ## When to Call a Pro
 
 Call a qualified electrician or controls technician if you are not trained to work safely with industrial control wiring, if the interlock chain is complex or involves PLC logic you cannot access, or if isolating the external fault circuit does not clear the code and you suspect drive control board damage. Also call for help if the safety devices are part of a certified machine guarding system that requires documented repair and re-commissioning, or if the fault persists after all external devices and wiring have been verified and the drive may need factory service or replacement of its digital input circuitry.
-
-## See Also
-
-- [Siemens G120 F01625 - Causes & Fix](/posts/siemens-g120-vfd-f01625-fault-code/)
-- [Siemens Sinumerik Alarm 380500 — Causes & Fix](/posts/siemens-sinumerik-alarm-380500/)
-- [Siemens G120 F01018 - Causes & Fix](/posts/siemens-g120-f01018-fault-code/)
-- [Siemens G120 F30002 - Causes & Fix](/posts/siemens-g120-f30002-fault-code/)

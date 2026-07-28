@@ -19,8 +19,7 @@ free_checks:
 part_price: "$80-200"
 ---
 
-## KitchenAid F6 EA Error Code — What It Means
-
+## What this code means
 The F6 EA error code on a KitchenAid wall oven or range signals a User Interface Over-Temperature Condition. The touch panel and display board has detected an internal over-temperature state or sensed an over-temperature condition through its associated wiring and sensors. When this code appears the appliance typically enters a lockout state and the oven will not operate to protect the control electronics and prevent potential damage.
 
 The code is often a soft fault that can be cleared by a power reset, but it will return if the underlying thermal issue persists. Despite the name, the root cause is rarely the oven cavity being too hot. Instead the fault usually originates from a failed sensor on the display board itself, degraded electronics reporting a false over-heat condition, or wiring problems between the user interface and the main oven control.
@@ -28,8 +27,6 @@ The code is often a soft fault that can be cleared by a power reset, but it will
 ## Before You Replace Anything
 
 Many people replace the main oven control board first, but F6 EA is specifically tied to the user interface. A simple power reset and wiring inspection will usually confirm the interface board is the real problem.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

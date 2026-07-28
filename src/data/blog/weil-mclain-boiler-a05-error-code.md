@@ -20,8 +20,7 @@ free_checks:
 part_price: "$15–30 for ignition electrode (if A01 confirmed)"
 ---
 
-## Weil-McLain Boiler A05 Error — What It Means
-
+## What this code means
 The A05 error code does not appear in official Weil-McLain service manuals for CGa, ECO, or AquaBalance series boilers. Weil-McLain documents codes like A01 (no burner ignition), E01 through E10, and F07 (high temperature), but A05 is not listed. This usually means one of three things: the display is being misread and the actual code is A01, the boiler has a third-party or retrofitted control module with proprietary codes, or the code was written down incorrectly.
 
 If the code is actually A01 (the most common documented code that could be confused with A05), it means the boiler attempted to light the burner but failed to detect flame after multiple tries and locked out. The most frequent cause of A01 is no gas supply to the burner (line not opened, gas not purged on new installs) or a faulty ignition electrode that cannot spark or sense flame. Check the display again in good lighting, then refer to your boiler's control panel or owner's manual to confirm the exact code before troubleshooting.
@@ -29,8 +28,6 @@ If the code is actually A01 (the most common documented code that could be confu
 ## Before You Replace Anything
 
 Homeowners often replace the gas valve or control board when A01 appears, but the real culprit is usually a corroded or misaligned ignition electrode (a $15–30 part). Test the electrode with a multimeter and inspect it visually before ordering expensive components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician immediately if you smell gas, if the boiler repeatedly locks out after reset, or if you cannot identify the exact fault code on the display. All work on gas supply lines, gas valves, and combustion components requires specialized tools (manometer, multimeter, combustion analyzer) and training. A technician will verify gas pressure (specification 3.5 to 11 water column), test the ignition electrode with a multimeter, inspect the heat exchanger for soot or dirt, and check venting for proper length and sweep. Do not attempt to bypass safety lockouts or adjust gas pressure without training, as this can create carbon monoxide hazards or explosion risk.
 
 **Rough cost:** A pro service call runs about $150–300 for A01 diagnosis and repair, depending on part.
-
-## See Also
-
-- [Weil-McLain A125 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a125-error-code/)
-- [Weil-McLain E05 Error Code — Sensor Fault](/posts/weil-mclain-e05-error-code/)
-- [Weil-McLain Boiler A107 Error - Causes & Fix](/posts/weil-mclain-boiler-a107-error-code/)
-- [Weil-McLain Boiler A98 Error - Causes & Fix](/posts/weil-mclain-boiler-a98-error-code/)

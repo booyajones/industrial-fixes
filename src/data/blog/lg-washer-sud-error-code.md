@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "HE laundry detergent"
 ---
 
-## LG Washer SUD Error Code — What It Means
-
+## What this code means
 The SUD code on your LG washer means the machine has detected excessive suds or foam inside the drum. To protect itself, the washer automatically runs a suds-reduction routine that can add about 2 hours to your cycle time. If the foam level is still too high during the spin phase, the washer may stop spinning completely to help prevent leaking.
 
 This code is not a mechanical failure. It is a protective response to too much detergent, the wrong type of detergent, or conditions like soft water that cause detergent to over-foam. Repeated oversudsing can leave residue buildup in the drum that makes the problem come back even when you think you have corrected the dose.
@@ -25,8 +24,6 @@ This code is not a mechanical failure. It is a protective response to too much d
 ## Before You Replace Anything
 
 Homeowners sometimes replace the drain pump thinking SUD is a drainage fault. Before buying any parts, simply reduce your detergent to the manufacturer's recommended amount and run a cleaning cycle to remove residue buildup.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

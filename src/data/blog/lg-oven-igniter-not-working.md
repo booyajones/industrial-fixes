@@ -20,8 +20,6 @@ When your LG gas oven igniter is not working, the range calls for bake heat but 
 
 The igniter is a ceramic heating element that must pull enough electrical current to both heat itself and energize a coil inside the gas valve. If the igniter is weak, it will glow but fail to draw the threshold current needed to open the valve. Wiring problems, relay failures on the main control board, or a closed gas supply can produce the same symptom.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Weak or failed bake igniter** The igniter has aged and no longer draws the minimum 3.5 amps required to open the gas valve, so it glows for more than 90 seconds without igniting the burner.
@@ -52,26 +50,19 @@ The igniter is a ceramic heating element that must pull enough electrical curren
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Lg Oven F1 error code](/posts/lg-oven-f1-error-code/)
-- [Lg Oven F10 error code](/posts/lg-oven-f10-error-code/)
-- [Lg Oven F11 error code](/posts/lg-oven-f11-error-code/)
-- [Lg Oven F12 error code](/posts/lg-oven-f12-error-code/)
-- [Lg Oven F17 error code](/posts/lg-oven-f17-error-code/)
-- [Lg Oven F19 error code](/posts/lg-oven-f19-error-code/)
-- [Lg Oven F2 error code](/posts/lg-oven-f2-error-code/)
-- [Lg Oven F3 error code](/posts/lg-oven-f3-error-code/)
-- [Lg Oven F4 error code](/posts/lg-oven-f4-error-code/)
-- [Lg Oven F5 error code](/posts/lg-oven-f5-error-code/)
-- [Lg Oven F6 error code](/posts/lg-oven-f6-error-code/)
-- [Lg Oven F7 error code](/posts/lg-oven-f7-error-code/)
+- Lg Oven F1 error code
+- Lg Oven F10 error code
+- Lg Oven F11 error code
+- Lg Oven F12 error code
+- Lg Oven F17 error code
+- Lg Oven F19 error code
+- Lg Oven F2 error code
+- Lg Oven F3 error code
+- Lg Oven F4 error code
+- Lg Oven F5 error code
+- Lg Oven F6 error code
+- Lg Oven F7 error code
 
 ## When to Call a Pro
 
 Gas appliance ignition work involves working around open flame, testing live circuits under load, and verifying proper combustion. If you are not comfortable measuring igniter current, accessing the bake-burner compartment, or confirming that gas flow and flame pattern are correct after repair, call a qualified appliance technician. A pro can also diagnose relay and control-board faults quickly and will have the correct replacement igniter and harness connectors on the truck. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [LG Range F6 Error Code - Causes & Fix](/posts/lg-range-f6-error-code/)
-- [LG LFXS28968S Refrigerator Problems & Error Codes](/posts/lg-lfxs28968s-refrigerator-problems/)
-- [LG Microwave Buttons Not Working - Causes & Fix](/posts/lg-microwave-buttons-not-working/)
-- [LG Oven F8 Error Code - Causes & Fix](/posts/lg-oven-f8-error-code/)

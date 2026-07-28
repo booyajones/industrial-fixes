@@ -18,8 +18,6 @@ tags:
 
 When a Carrier furnace igniter is not working, the furnace calls for heat but the ignition sequence does not complete because the igniter does not heat up, glow, or create ignition when commanded. The furnace cannot prove flame and will lock out or stop the ignition sequence. This is a symptom, not a standalone fault code. The exact LED fault code depends on the furnace model and control board, so the code must be read from the unit's diagnostic legend rather than assumed.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Worn or failed igniter** Carrier states that ignitors wear out over time, and cracks, deformation, or visible damage can prevent operation.
@@ -52,18 +50,11 @@ When a Carrier furnace igniter is not working, the furnace calls for heat but th
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Carrier Furnace 13 error code](/posts/carrier-furnace-13-error-code/)
-- [Carrier Furnace 14 error code](/posts/carrier-furnace-14-error-code/)
-- [Carrier Furnace 31 error code](/posts/carrier-furnace-31-error-code/)
-- [Carrier Furnace 34 error code](/posts/carrier-furnace-34-error-code/)
+- Carrier Furnace 13 error code
+- Carrier Furnace 14 error code
+- Carrier Furnace 31 error code
+- Carrier Furnace 34 error code
 
 ## When to Call a Pro
 
 If you are not comfortable working with gas appliances, call a technician to inspect and replace the igniter. Gas supply, burner, and igniter work should be performed by a qualified professional. If the igniter has been replaced and the furnace still does not ignite, or if fault codes point to control board, gas valve, or inducer issues, a technician with metering equipment and model-specific training is required to diagnose and repair the system safely. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Carrier E18 Error Code - Causes & Fix](/posts/carrier-heat-pump-e18-error-code/)
-- [Carrier 45 Error Code — Causes & Fix](/posts/carrier-45-error-code/)
-- [Carrier Zone Controller Error Codes — Complete Guide](/posts/carrier-zone-controller-error-codes/)
-- [Carrier Greenspeed Heat Pump Error Codes: Complete Guide](/posts/carrier-greenspeed-heat-pump-codes/)

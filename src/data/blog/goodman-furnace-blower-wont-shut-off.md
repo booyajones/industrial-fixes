@@ -20,8 +20,6 @@ A Goodman furnace blower that won't shut off is not usually a fault code by itse
 
 If your unit is actually displaying an 8-flash fault code, Goodman's published service material says that means an igniter relay fault or a shorted hot surface igniter. Goodman also notes that open or insufficient grounding is the most common field cause when that 8-flash fault appears, especially at the blower motor ground and the low-voltage common ground.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Thermostat fan set to ON** The thermostat fan switch is set to ON instead of AUTO, or the thermostat circuit is calling for continuous fan operation.
@@ -61,17 +59,10 @@ If your appliance also shows a code on the display, these match this problem:
 - [Goodman Furnace 5 Flash error code](/posts/goodman-furnace-5-flash-error-code/)
 - [Goodman Furnace E1 error code](/posts/goodman-furnace-e1-error-code/)
 - [Goodman Furnace E2 error code](/posts/goodman-furnace-e2-error-code/)
-- [Goodman Furnace E3 error code](/posts/goodman-furnace-e3-error-code/)
+- Goodman Furnace E3 error code
 - [Goodman Furnace Ee2 error code](/posts/goodman-furnace-ee2-error-code/)
 - [Goodman Furnace Ef error code](/posts/goodman-furnace-ef-error-code/)
 
 ## When to Call a Pro
 
 Call a professional if you are not comfortable working with low-voltage wiring or if the problem persists after checking the thermostat and visible wiring. Control board diagnosis, ECM blower module replacement, and any work involving the hot surface igniter or gas burner system should be handled by a qualified HVAC technician. If the furnace is displaying an 8-flash fault code or if safety switches are involved, professional diagnosis is recommended to prevent further damage and maintain safe operation. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Goodman GMS96 Error Codes — Fault Code Guide](/posts/goodman-gms96-error-codes/)
-- [Goodman EE2 Error Code: Control Board Communication Fault Fix](/posts/goodman-ee2-error-code/)
-- [Goodman Furnace 2 Flashes - Causes & Fix](/posts/goodman-furnace-2-flashes-error-code/)
-- [Goodman Heat Pump E2 Error Code - Causes & Fix](/posts/goodman-heat-pump-e2-error-code/)

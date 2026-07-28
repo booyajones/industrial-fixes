@@ -19,8 +19,6 @@ A GE dryer that won't tumble is a symptom, not a fault code. It means the contro
 
 GE troubleshooting materials point to door-latch problems, power issues, and control faults as the most common inhibitors. When the drum doesn't rotate but everything else seems normal, the usual suspects are a broken belt, a seized idler pulley, an open thermal fuse or high-limit safety, a failed start switch, or a bad motor.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Broken or slipped drive belt** The drum belt connects the motor pulley to the drum, and a break or slip leaves the motor running but the drum stationary.

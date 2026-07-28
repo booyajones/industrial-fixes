@@ -23,8 +23,6 @@ EE2 shows up on Goodman communicating systems where the outdoor unit, indoor uni
 
 The error code has been trending on r/hvacadvice as more Goodman communicating systems age into their first major service cycle. Most threads resolve with one of three repairs: re-seating communication wiring, clearing a fault after a power surge, or replacing the control board. Homeowners who replace the board without confirming the wiring is correct often find the new board throws EE2 as well.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
 - **Power surge or lightning.** A nearby surge can scramble the control board's processor state or damage the communication drivers on the board. The board may appear to run but cannot complete a valid communication handshake.
@@ -77,12 +75,5 @@ Call a licensed HVAC technician if the system reset and wiring inspection did no
 ## Related Error Codes
 
 - [Goodman Furnace 4 Flashes: Open High Limit Device](/posts/goodman-furnace-4-flashes/)
-- [Goodman Furnace 3 Flashes: Pressure Switch Fault](/posts/goodman-furnace-3-flashes/)
+- Goodman Furnace 3 Flashes: Pressure Switch Fault
 - [Goodman Complete HVAC Error Code Guide](/posts/goodman-furnace-error-codes/)
-
-## See Also
-
-- [Goodman 9 Flash Error Code — Causes & Fix](/posts/goodman-9-flash-error-code/)
-- [Goodman Furnace E2 Error Code — Flame Sense Fault (Digital Display Models)](/posts/goodman-furnace-e2-error-code/)
-- [Goodman 8 Flash Error Code — Causes & Fix](/posts/goodman-8-flash-error-code/)
-- [Goodman Furnace E1 Error Code — Causes & Fix](/posts/goodman-furnace-e1-error-code/)

@@ -15,8 +15,7 @@ money_part: "Moisture sensor strips"
 most_likely_cause: "Stored electronic fault or noise event"
 ---
 
-## Maytag Dryer F28 Error Code — What It Means
-
+## What this code means
 The F28 error code on a Maytag dryer appears in the official error-code list but Maytag's published dryer help page does not define the exact circuit or component that failed. The page provides only a reset procedure, which suggests F28 is most likely a stored electronic fault or a communication glitch between control components rather than a sensor or airflow problem. Maytag directs you to power-cycle the dryer at the breaker, then start a Timed Dry cycle and watch for one minute to confirm the code does not return.
 
 Because the official dryer documentation does not spell out the underlying cause, the exact meaning can vary by model family. If the code returns after the reset, the next step is to pull the service tech sheet (usually taped inside the console or drum) and consult the wiring diagram and fault table for your specific model number. Do not assume F28 has the same definition as washer codes or other brands' dryer codes.
@@ -24,8 +23,6 @@ Because the official dryer documentation does not spell out the underlying cause
 ## Before You Replace Anything
 
 Some technicians replace the main control board or user-interface board without testing. Always perform the breaker reset and Timed Dry test first, then check connectors and harness continuity with a meter before ordering any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

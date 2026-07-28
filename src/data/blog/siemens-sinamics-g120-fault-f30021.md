@@ -20,8 +20,6 @@ Siemens SINAMICS G120 **Fault F30021** means the **power unit detected a ground 
 
 In the field, F30021 usually traces back to a motor winding fault, wet or damaged cable, contaminated terminal box, or brake wiring issue rather than a bad parameter.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
 - **Motor winding short to ground**. This is especially common on older motors running on long VFD leads.
@@ -55,18 +53,3 @@ In the field, F30021 usually traces back to a motor winding fault, wet or damage
 ## When to Call a Professional
 
 Call Siemens support or a qualified drive shop if F30021 remains with the motor and downstream components disconnected. That usually points to an internal power module or sensing issue, and continued field resets can turn a repairable problem into a full drive replacement.
-
-## See Also
-
-- [Siemens SINAMICS G120 Fault F00001, Overcurrent Guide](/posts/siemens-sinamics-g120-fault-f00001/)
-- [Siemens G120C Fault Codes, Common Trip Guide](/posts/siemens-g120c-fault-codes/)
-- [Siemens VFD Fault Codes, What They Mean](/posts/siemens-vfd-fault-codes/)
-- [Siemens Micromaster Fault F001, Overcurrent Causes and Fix](/posts/siemens-micromaster-fault-f001/)
-
-## Related Articles
-
-- [Siemens Sinumerik 828D Alarm Codes Guide — Complete Diagnostic Reference](/posts/siemens-828d-alarm-codes/)
-- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
-- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)
-- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
-- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)

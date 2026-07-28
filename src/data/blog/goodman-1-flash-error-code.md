@@ -12,11 +12,8 @@ tags:
 money_part: "Control board fuse (3A or 5A)"
 ---
 
-## Goodman 1 Flash Error Code — What It Means
-
+## What this code means
 On Goodman furnaces, **1 flash on the status LED indicates normal operation with no call for heat**. This is not a fault code — it's a standby indicator. The furnace is powered, the control board is healthy, and the system is simply waiting for a thermostat demand. If you're seeing 1 flash and the furnace is not heating when it should be, the issue is upstream of the board: thermostat, wiring, or the call for heat signal itself.
-
-[Jump to Fix](#fix)
 
 ## Why the Furnace Isn't Heating Despite 1 Flash
 
@@ -44,18 +41,3 @@ On Goodman furnaces, **1 flash on the status LED indicates normal operation with
 ## When to Call a Pro
 
 A 1-flash condition means the board itself is healthy — if you've confirmed the thermostat is calling for heat, all wiring is secure, and the door switch closes properly, but the furnace still won't initiate a heating cycle, there may be a soft lockout condition from a prior fault. Have a technician read the full fault history from the board to identify what tripped it.
-
-## See Also
-
-- [Amana / Goodman Furnace 3 Flash Error Code — Causes & Fix](/posts/goodman-amana-furnace-3-flash/)
-- [Goodman Furnace EE2 Error Code — Causes & Fix](/posts/goodman-furnace-ee2-error-code/)
-- [Goodman Furnace 5 Flash Error Code — Causes & Fix](/posts/goodman-furnace-5-flash-error-code/)
-- [Goodman GMS96 Error Codes — Fault Code Guide](/posts/goodman-gms96-error-codes/)
-
-## Related Articles
-
-- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
-- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
-- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
-- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)
-- [Goodman 6 Flash Error Code — Rollout Switch Open Fix](/posts/goodman-6-flash-error-code/)

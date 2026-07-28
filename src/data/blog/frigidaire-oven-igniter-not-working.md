@@ -20,8 +20,6 @@ In a Frigidaire gas oven, the igniter not working usually means the igniter is n
 
 The bake igniter must heat up and draw enough current to allow the gas valve to open. If it does not, gas will not be released to the burner. A weak igniter may glow but still fail to open the valve, which shows up as the igniter glowing without a flame. If the igniter does nothing at all, the problem can be upstream in the control board, wiring, thermal fuse, or power supply rather than the igniter itself.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed or weak hot surface igniter** The igniter no longer draws sufficient current to open the gas safety valve, so gas is not released even if the igniter glows.
@@ -52,18 +50,18 @@ The bake igniter must heat up and draw enough current to allow the gas valve to 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Frigidaire Oven F1 error code](/posts/frigidaire-oven-f1-error-code/)
-- [Frigidaire Oven F10 error code](/posts/frigidaire-oven-f10-error-code/)
-- [Frigidaire Oven F11 error code](/posts/frigidaire-oven-f11-error-code/)
-- [Frigidaire Oven F12 error code](/posts/frigidaire-oven-f12-error-code/)
-- [Frigidaire Oven F13 error code](/posts/frigidaire-oven-f13-error-code/)
-- [Frigidaire Oven F2 error code](/posts/frigidaire-oven-f2-error-code/)
-- [Frigidaire Oven F20 error code](/posts/frigidaire-oven-f20-error-code/)
+- Frigidaire Oven F1 error code
+- Frigidaire Oven F10 error code
+- Frigidaire Oven F11 error code
+- Frigidaire Oven F12 error code
+- Frigidaire Oven F13 error code
+- Frigidaire Oven F2 error code
+- Frigidaire Oven F20 error code
 - [Frigidaire Oven F26 error code](/posts/frigidaire-oven-f26-error-code/)
-- [Frigidaire Oven F3 error code](/posts/frigidaire-oven-f3-error-code/)
-- [Frigidaire Oven F30 error code](/posts/frigidaire-oven-f30-error-code/)
-- [Frigidaire Oven F31 error code](/posts/frigidaire-oven-f31-error-code/)
-- [Frigidaire Oven F40 error code](/posts/frigidaire-oven-f40-error-code/)
+- Frigidaire Oven F3 error code
+- Frigidaire Oven F30 error code
+- Frigidaire Oven F31 error code
+- Frigidaire Oven F40 error code
 
 ## When to Call a Pro
 

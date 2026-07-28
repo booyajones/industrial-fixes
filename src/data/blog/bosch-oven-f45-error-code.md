@@ -21,8 +21,7 @@ free_checks:
 part_price: "$50-120"
 ---
 
-## Bosch Oven F45 Error Code — What It Means
-
+## What this code means
 The F45 error code on a Bosch oven signals a fault with the motorized door latch switch. The control board detects the latch is simultaneously in a locked and unlocked state, or that the latch does not stabilize in one state for the required 1-minute duration. This means the internal switch in the latch mechanism is sending conflicting signals to the board.
 
 The control expects the latch to be fully locked or fully unlocked and remain that way for at least 60 seconds. When it sees flickering or mixed signals, it throws F45 and may prevent the oven from starting a cycle or completing a self-clean.
@@ -30,8 +29,6 @@ The control expects the latch to be fully locked or fully unlocked and remain th
 ## Before You Replace Anything
 
 Many people replace the main control board first, but a simple power reset and visual inspection of the latch wiring and mechanism usually reveal the true culprit is the door lock assembly itself.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

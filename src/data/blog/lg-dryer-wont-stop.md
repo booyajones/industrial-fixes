@@ -19,8 +19,6 @@ When an LG dryer won't stop running, the control board is either not sensing a v
 
 If the dryer continues to tumble or heat even after the timer expires or you press Stop, the issue often lies with a control-board relay that has welded shut or an input circuit that never registers the stop command. LG's published troubleshooting procedures recommend a power reset for many control faults, and persistent problems after that reset typically point to wiring damage or a failed main control board.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Faulty door switch or door-switch wiring** The door switch fails to report a valid open or closed state, so the control board cannot interpret cycle commands correctly and keeps the dryer running.
@@ -57,7 +55,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Lg Dryer D90 error code](/posts/lg-dryer-d90-error-code/)
 - [Lg Dryer D95 error code](/posts/lg-dryer-d95-error-code/)
 - [Lg Dryer De error code](/posts/lg-dryer-de-error-code/)
-- [Lg Dryer De1 error code](/posts/lg-dryer-de1-error-code/)
+- Lg Dryer De1 error code
 - [Lg Dryer E00 error code](/posts/lg-dryer-e00-error-code/)
 - [Lg Dryer E1 error code](/posts/lg-dryer-e1-error-code/)
 - [Lg Dryer E13 error code](/posts/lg-dryer-e13-error-code/)
@@ -67,10 +65,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a technician if the reset procedure and door-switch checks do not resolve the problem, or if you are uncomfortable working with the 240 V power supply that feeds most LG dryers. Control-board diagnosis and replacement require safe disassembly of live circuits, and a misdiagnosis can lead to expensive unnecessary parts. Professional service is also recommended if you find evidence of arcing, melted connectors, or repeated board failures, since those symptoms often indicate a larger electrical fault in the home circuit or dryer wiring harness.
-
-## See Also
-
-- [LG Range E2 Error Code - Causes & Fix](/posts/lg-range-e2-error-code/)
-- [LG Refrigerator Light Not Working - Causes & Fix](/posts/lg-refrigerator-light-not-working/)
-- [LG WM3500CW Washer Problems & Error Codes](/posts/lg-wm3500cw-washer-problems/)
-- [LG Washer Drain Pump Replacement - Signs & How-To](/posts/lg-washer-drain-pump-replacement/)

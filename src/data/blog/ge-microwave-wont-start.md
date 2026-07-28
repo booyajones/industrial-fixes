@@ -19,8 +19,6 @@ A GE microwave that won't start is not a single fault code. The display may show
 
 When the microwave is completely dead with no display, that is generally a power-delivery or interlock issue rather than an on-board error code. GE says the PF code can clear by cycling power at the breaker or fuse supplying the microwave for 30 seconds.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Blown line fuse inside the microwave** If the internal fuse opens, the microwave won't start and the display stays dark.
@@ -56,7 +54,7 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Ge Microwave F1 error code](/posts/ge-microwave-f1-error-code/)
 - [Ge Microwave F10 error code](/posts/ge-microwave-f10-error-code/)
-- [Ge Microwave F2 error code](/posts/ge-microwave-f2-error-code/)
+- Ge Microwave F2 error code
 - [Ge Microwave F3 error code](/posts/ge-microwave-f3-error-code/)
 - [Ge Microwave F4 error code](/posts/ge-microwave-f4-error-code/)
 - [Ge Microwave F5 error code](/posts/ge-microwave-f5-error-code/)

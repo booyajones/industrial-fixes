@@ -14,11 +14,8 @@ money_part: "Cooling fan motor (model-specific)"
 most_likely_cause: "Excessive back-to-back operation"
 ---
 
-## Panasonic Microwave U50 Error Code — What It Means
-
+## What this code means
 U50 on a Panasonic microwave means the oven cavity is overheated. Panasonic defines this code as appearing when internal temperatures exceed safe operating limits. The code should clear automatically once the unit cools down. If the display continues to show U50 after the appliance has been unplugged and allowed to cool for at least 30 minutes, the underlying temperature sensing or cooling system may have a fault requiring authorized service.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

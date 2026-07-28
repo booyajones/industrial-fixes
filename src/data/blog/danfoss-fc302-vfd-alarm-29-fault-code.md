@@ -13,11 +13,8 @@ money_part: "Danfoss VLT FC 302 cooling fan assembly"
 most_likely_cause: "Blocked or failed cooling fans"
 ---
 
-## Danfoss FC302 VFD Alarm 29 — What It Means
-
+## What this code means
 Alarm 29 on a Danfoss VLT FC 302 means the drive has detected heatsink over-temperature. The heatsink temperature exceeded its safe operating limit, so the VFD trips to protect the power section, especially the IGBTs. Danfoss documents this as "Heat Sink temp" and describes the condition as "The maximum temperature of the heat sink is exceeded." The exact threshold temperature is model-dependent and not published for every frame size, but it is typically in the range of 90 to 95 degrees Celsius. The alarm will cause the drive to shut down and must be cleared after the root cause is corrected.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ Alarm 29 on a Danfoss VLT FC 302 means the drive has detected heatsink over-temp
 ## When to Call a Pro
 
 Call a qualified VFD technician or contact Danfoss technical support if the alarm persists after cleaning the heatsink, verifying fan operation, and confirming proper ventilation. Internal faults such as a failed power card, rectifier issues, or damage to the IGBT module require specialized diagnostics and replacement. If you are unable to measure fan voltage, interpret parameter settings, or safely work inside the drive enclosure while observing electrical safety lockout procedures, professional service is necessary. Do not attempt to bypass thermal protection or operate the drive with recurring over-temperature alarms, as this can cause permanent damage to the power section.
-
-## See Also
-
-- [Danfoss FC302 Alarm 55 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-55-fault-code/)
-- [Danfoss FC302 Alarm AL 29 — Causes & Fix](/posts/danfoss-fc302-fault-al-29/)
-- [Danfoss FC302 Alarm 25 - Causes & Fix](/posts/danfoss-fc302-alarm-25-fault-code/)
-- [Danfoss FC302 Alarm 34 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-34-fault-code/)

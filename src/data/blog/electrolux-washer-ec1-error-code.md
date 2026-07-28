@@ -21,8 +21,7 @@ free_checks:
 part_price: "$25-60"
 ---
 
-## Electrolux Washer EC1 Error Code — What It Means
-
+## What this code means
 EC1 on an Electrolux washer indicates the main control board is receiving an abnormal or incorrect signal from the flow meter while water is entering the machine. The flow meter monitors the rate and volume of water coming into the tub, and when its signal falls outside expected parameters, the PCB throws EC1 and may halt the cycle.
 
 In practical terms, the fault can live anywhere in the water-inlet path: the flow meter itself, the inlet valve assembly, the wiring and connectors between those components and the main board, or even the control board's input circuitry. The code does not always mean zero water flow. Sometimes the washer fills normally but the flow-meter signal is still wrong, so the board flags the error.
@@ -30,8 +29,6 @@ In practical terms, the fault can live anywhere in the water-inlet path: the flo
 ## Before You Replace Anything
 
 Many people replace the main PCB first, assuming a control-board failure. Before swapping the board, inspect the flow meter for contamination or damage and check its wiring and connector for corrosion or looseness. A bad flow meter or poor connection is far more common than a failed PCB.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

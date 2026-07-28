@@ -65,18 +65,3 @@ This is specific to Carrier Infinity and Bryant Evolution communicating systems 
 The Carrier Infinity system's communicating architecture is significantly more complex than conventional HVAC wiring. Correctly diagnosing error 168 requires understanding the SAB topology, being able to interpret the Infinity diagnostic menus, and having a multimeter comfortable measuring low-voltage data bus signals. If you're not familiar with these systems, the risk of replacing expensive boards unnecessarily is high. A Carrier-certified technician can run the Infinity system's built-in network diagnostic routine, which identifies exactly which device is failing to communicate — saving hours of trial-and-error.
 
 > **Pro tip:** Before replacing any boards for error 168, check whether all Infinity components are on the same electrical phase. On two-story homes where the outdoor unit is on a 240V circuit and the furnace is on a different leg, phase alignment issues can disrupt the SAB bus. The four SAB wires must span only one electrical phase to communicate correctly.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier 22 Error Code — Causes & Fix](/posts/carrier-22-error-code/)
-- [Carrier Infinity 24VNA6 Heat Pump Error Codes - Greenspeed Fault Reference](/posts/carrier-24vna6-error-codes/)
-- [Carrier 44 Error Code — Causes & Fix](/posts/carrier-44-error-code/)
-- [Carrier AquaSnap Chiller Fault Codes — 30RB/30RQ Guide](/posts/carrier-aquasnap-fault-codes/)

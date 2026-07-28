@@ -21,8 +21,7 @@ part_price: "$20–45"
 no_buy_pct: "65%"
 ---
 
-## KitchenAid H2O Error Code — What It Means
-
+## What this code means
 The H2O error code on a KitchenAid dishwasher indicates that the cycle has paused because the machine is not receiving enough water, or no water at all. This is a low-fill or no-fill fault. The dishwasher will not continue until the water supply issue is resolved. It is not a drain code or a temperature code.
 
 KitchenAid's published instructions are simple: confirm the water supply shutoff valve is fully open, check the inlet hose for kinks or restrictions, then press Start so the unit can attempt to fill and resume the cycle. If the code persists after verifying the water supply, the manufacturer recommends a service call.
@@ -30,8 +29,6 @@ KitchenAid's published instructions are simple: confirm the water supply shutoff
 ## Before You Replace Anything
 
 Some users replace the water inlet valve when the real problem is simply a kinked supply hose or a valve under the sink that is only three-quarters open. Check those two items first before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

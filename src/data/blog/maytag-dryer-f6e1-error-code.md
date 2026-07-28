@@ -17,15 +17,12 @@ money_part: "Main control board"
 part_price: "$80-250"
 ---
 
-## Maytag Dryer F6E1 Error Code — What It Means
-
+## What this code means
 F6E1 on a Maytag dryer signals a communication fault between the main control board and the user interface (touchpad). The dryer's brain cannot successfully exchange signals with the control panel, so the machine may refuse to start, stop mid-cycle, or repeatedly flash the code until the communication path is restored. Maytag defines this code as a problem with the main control board, the user interface touchpad, or the wiring and connectors that link the two components.
 
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first when a simple connector reseat or harness inspection would solve the problem. Always inspect and reseat every plug between the control and touchpad before ordering expensive boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

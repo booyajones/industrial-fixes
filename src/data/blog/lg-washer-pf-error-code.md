@@ -16,15 +16,12 @@ diy_or_pro: "diy"
 money_part: "15 or 20 A GFCI outlet"
 ---
 
-## LG Washer PF Error Code — What It Means
-
+## What this code means
 The LG washer PF error code stands for power failure. It appears when the machine has experienced an interruption in electrical supply, such as a utility outage, unplugged cord, or tripped breaker during a wash cycle. PF is not a defect. It is part of the washer's power-failure recovery system and tells the machine to remember and resume the job it was doing before the power loss.
 
 ## Before You Replace Anything
 
 Homeowners sometimes assume PF indicates a failed main control board. Before ordering a board, verify the outlet and breaker supply steady power and perform the reset sequence LG publishes, since PF is a power-event code and not a component-fault code.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

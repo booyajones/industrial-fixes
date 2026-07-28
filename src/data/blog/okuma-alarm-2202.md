@@ -128,10 +128,3 @@ Smaller installed base, lower part volumes, less refurb supply. A Fanuc spindle 
 
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Best multimeter for HVAC techs (2026)](/posts/best-multimeter-for-hvac/)
-
-## See Also
-
-- [Okuma CNC Alarm 1400 — Encoder Error](/posts/okuma-cnc-alarm-1400/)
-- [Okuma LB-Series Alarm 1013 — Causes & Fix](/posts/okuma-lb-series-alarm-1013/)
-- [Okuma MC-V4020 Machining Center Alarm Codes: Complete Guide](/posts/okuma-mc-v4020-error-codes/)
-- [Okuma CNC Alarm 1201 — Causes & Fix](/posts/okuma-cnc-alarm-1201/)

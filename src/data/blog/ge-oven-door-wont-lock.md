@@ -20,8 +20,6 @@ A GE oven door that won't lock means the range's door-lock system is not being d
 
 If the door won't lock, the control is typically either not sending power to the lock motor, not seeing the door switch state it expects, or the latch and motor assembly is mechanically jammed or failed. The system uses a motorized latch arrangement that should move only during self-clean, and when it does not respond, the same lock mechanism that causes stuck-unlocked symptoms is at fault.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed door lock motor or latch assembly** This is the most common cause, and troubleshooting guides repeatedly point to the motorized lock mechanism as a primary failure point when the latch does not move.

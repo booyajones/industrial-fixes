@@ -22,40 +22,21 @@ part_price: "$40-70"
 no_buy_pct: "60%"
 ---
 
-## Whirlpool Dishwasher E6 Error Code — What It Means
-
+## What this code means
 The E6 (or F6/E6) error code on Whirlpool dishwashers indicates a water fill or incoming water supply problem. The control board is not detecting the expected water entering the machine, which it interprets as a water tap closed or insufficient supply condition. On some models the same code can also signal incoming water that is too cold, so always verify the exact definition on your unit's service tech sheet or diagnostic display before ordering parts. The common interpretation across Whirlpool dishwasher documentation is a water supply fault that prevents normal fill.
 
 ## Before You Replace Anything
 
 Many people replace the water inlet valve first. Before buying the valve, verify the house shutoff is fully open, check for kinks or blockage in the inlet hose, and clean the inlet screen to confirm water can actually reach the valve.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **House water shutoff not fully open (~35%)** The supply valve under the sink is turned off or only partially open, preventing water from reaching the dishwasher inlet.
-- **Kinked or pinched inlet hose (~25%)** The hose between the wall shutoff and dishwasher is bent, crushed, or blocked, restricting water flow.
-- **Clogged inlet screen or filter (~15%)** Sediment, mineral deposits, or debris have accumulated in the screen at the valve connection, blocking water entry.
-- **Faulty water inlet valve (~15%)** The valve coil is open, shorted, or the valve itself sticks closed and does not open when energized.
-- **Low household water pressure (~5%)** Restricted or low-pressure supply in the home plumbing prevents the dishwasher from filling at the required rate.
-- **Faulty flow meter or water-level sensor (~5%)** On models equipped with a flow meter, the sensor cannot confirm proper flow even when water is entering.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Is the house water shutoff valve under the sink turned fully open?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The valve is open. Move on to inspect the inlet hose for kinks or blockage.<br><strong>No:</strong> Turn the valve fully counterclockwise, then run a wash cycle to see if the error clears.</div>
-</details>
-
-<details class="dtree"><summary>Does water flow freely when you disconnect the inlet hose at the dishwasher and turn on the shutoff?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Supply and hose are good. Check the inlet screen at the valve for debris, then test or replace the inlet valve.<br><strong>No:</strong> The hose is kinked, blocked, or the house supply is restricted. Straighten or replace the hose and verify house pressure.</div>
-</details>
-
-<details class="dtree"><summary>After cleaning the inlet screen and verifying supply, does the error return immediately when you start a cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The inlet valve itself is likely faulty or the flow meter (if equipped) is not reading correctly. Replace the valve and retest.<br><strong>No:</strong> The error was caused by a supply or blockage issue. Monitor the next few cycles to confirm it stays cleared.</div>
-</details>
+- **House water shutoff not fully open** The supply valve under the sink is turned off or only partially open, preventing water from reaching the dishwasher inlet.
+- **Kinked or pinched inlet hose** The hose between the wall shutoff and dishwasher is bent, crushed, or blocked, restricting water flow.
+- **Clogged inlet screen or filter** Sediment, mineral deposits, or debris have accumulated in the screen at the valve connection, blocking water entry.
+- **Faulty water inlet valve** The valve coil is open, shorted, or the valve itself sticks closed and does not open when energized.
+- **Low household water pressure** Restricted or low-pressure supply in the home plumbing prevents the dishwasher from filling at the required rate.
+- **Faulty flow meter or water-level sensor** On models equipped with a flow meter, the sensor cannot confirm proper flow even when water is entering.
 
 ## Step-by-Step Fix {#fix}
 
@@ -78,5 +59,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a pro if you have verified the house shutoff is open, the inlet hose is clear, and the inlet screen is clean but the error persists after replacing the water inlet valve. A technician can test the flow meter, water-level sensing circuit, and control board to isolate faults that require detailed diagnostics or specialized tools. Also call a pro if your dishwasher is still under warranty, if you are uncomfortable working with household plumbing connections, or if you suspect a broader low-pressure issue in your home's water supply that requires a plumber to resolve.
-
-**Rough cost:** DIY runs about $40-80 in parts, 30-60 min. A pro service call runs about $150-250.

@@ -16,15 +16,12 @@ diy_or_pro: "diy"
 money_part: "Shock absorber / damper kit"
 ---
 
-## Samsung Washer UE Error Code — What It Means
-
+## What this code means
 The UE code on a Samsung washer means the machine has detected an unbalanced load during the wash or spin cycle and has stopped or limited spinning for safety. Samsung groups this as UE / UB in its support documentation, treating both as the same balance-related condition. On top-load models the same imbalance may appear as UB. This is not a failed-part fault in most cases. The washer senses unstable drum rotation and stops to protect itself from damage.
 
 ## Before You Replace Anything
 
 People often replace the control board or balance sensors, but the code almost always clears by redistributing the load and confirming the washer sits level on all four feet.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

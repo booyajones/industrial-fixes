@@ -20,8 +20,7 @@ free_checks:
 part_price: "$25–60"
 ---
 
-## Electrolux Dryer E64 Error Code — What It Means
-
+## What this code means
 E64 on an Electrolux dryer signals a heating-circuit or heater-system fault. The control has detected a problem with heat generation or heater feedback. This is not a generic electronics failure. The code appears when the dryer is not heating properly or when the control board believes it is not. Technicians treat E64 as a heat-production or heat-safety fault within the drying system.
 
 The code can be triggered by a failed heating element, restricted airflow causing overheating, a blown thermal fuse, a faulty thermostat or thermistor, damaged wiring in the heater circuit, or in rare cases a control board misread. The heater assembly itself is the most frequently documented culprit, followed closely by airflow restrictions and thermal-safety components that trip when the system overheats.
@@ -29,8 +28,6 @@ The code can be triggered by a failed heating element, restricted airflow causin
 ## Before You Replace Anything
 
 Many people replace the control board first, but a simple multimeter test of the heating element and thermal fuse usually reveals the real cause.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

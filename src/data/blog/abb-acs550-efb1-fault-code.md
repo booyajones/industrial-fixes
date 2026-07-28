@@ -13,13 +13,10 @@ money_part: "Fieldbus communication cable"
 most_likely_cause: "Master device not polling the drive"
 ---
 
-## ABB ACS550 EFB1 Fault Code — What It Means
-
+## What this code means
 The ACS550 EFB1 fault (fault code 31) is a reserved fault code for the Embedded Fieldbus (EFB) protocol application. ABB documents this as a communication-related fault, not a power stage hardware problem. The exact meaning depends on which fieldbus protocol your drive is using and how the control system is configured.
 
 In most installations, this fault appears when the master controller (PLC, HMI, or network head) stops polling the drive within the configured timeout window, or when there is a mismatch between the drive's fieldbus settings and the actual network configuration. You must identify the active protocol and treat this as a network or communication fault until proven otherwise.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ In most installations, this fault appears when the master controller (PLC, HMI, 
 ## When to Call a Pro
 
 Call a qualified technician or ABB service if the fault persists after you have confirmed the master is polling correctly, the wiring is intact, and the timeout is appropriate. ABB documents the ACS550 as non-field-repairable for internal faults, so unresolved EFB1 codes that are not caused by network issues will require factory support or drive replacement through your ABB representative. Also call for help if you are unfamiliar with fieldbus networks, protocol configuration, or drive parameter adjustment.
-
-## See Also
-
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-- [ABB ACS550 AI1 LOSS - Causes & Fix](/posts/abb-acs550-ai1-loss-fault-code/)
-- [ABB ACS580 A2B3 Fault Code - Causes & Fix](/posts/abb-acs580-a2b3-fault-code/)
-- [ABB ACS580 Fault 3220 — DC Undervoltage Fix](/posts/abb-acs580-fault-3220/)

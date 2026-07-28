@@ -19,8 +19,6 @@ A GE washer that is not dispensing detergent is a dispensing performance problem
 
 This symptom is most common on GE front-load models and typically results from the dispenser drawer accumulating detergent or softener residue over time. The machine runs normally but detergent remains in the drawer after the cycle, meaning clothes are washed without soap.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty or clogged dispenser drawer** Detergent residue builds up inside the drawer and blocks the water flow that would normally flush soap into the tub.
@@ -54,9 +52,9 @@ This symptom is most common on GE front-load models and typically results from t
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Ge Washer C2 error code](/posts/ge-washer-c2-error-code/)
+- Ge Washer C2 error code
 - [Ge Washer C5 error code](/posts/ge-washer-c5-error-code/)
-- [Ge Washer E23 error code](/posts/ge-washer-e23-error-code/)
+- Ge Washer E23 error code
 
 ## When to Call a Pro
 

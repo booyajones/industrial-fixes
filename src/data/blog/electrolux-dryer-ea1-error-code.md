@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Electrolux Dryer EA1 Error Code — What It Means
-
+## What this code means
 The EA1 code on an Electrolux dryer indicates a power supply issue. The dryer's control board is detecting that the frequency of incoming power is outside the expected range, which should be 60 Hz on North American models. This is not a component failure inside the drum or vent system. It is a signal that the dryer cannot safely operate because the electricity it is receiving does not match specification.
 
 The code can be triggered by problems with your home's utility power, incorrect installation or wiring at the terminal block, poor connections, or a faulty control board that is incorrectly reading good power. Because the fault points to the supply side first, always verify the power source and wiring before replacing internal electronics.
@@ -25,8 +24,6 @@ The code can be triggered by problems with your home's utility power, incorrect 
 ## Before You Replace Anything
 
 Many people replace the main control board immediately, but the code usually points to incoming power quality or terminal-block wiring. Verify supply frequency and connections with a meter before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -19,8 +19,7 @@ free_checks:
   - "Inspect the motor shaft by hand (power off) to confirm it turns freely without binding or unusual noise."
 ---
 
-## Danfoss FC302 AL-103 Fault — What It Means
-
+## What this code means
 The alarm code AL-103 is not documented in the official Danfoss VLT AutomationDrive FC 302 fault list. FC 302 alarms range from AL 1 to AL 49. If your display shows '103' or similar, you are likely seeing AL 13 (overcurrent, where output current exceeds 150–160% of rated motor current), AL 38 (internal fault with a sub-code visible in parameter 15-32), a parameter number such as 1-03, or a display error. Some installers confuse this drive with other brands (Siemens, Schneider) that do use three-digit codes.
 
 If the code is actually AL 13, the drive has detected excessive current to the motor, usually from a mechanical jam, shorted motor winding, or failed IGBT module inside the drive. If it is AL 38, an internal control board, gate driver, or heatsink sensor has failed and you must check parameter 15-32 for the specific sub-code. Before ordering parts, confirm the exact alarm by pressing the Status button and reading both the main display and parameter 15-32.
@@ -28,8 +27,6 @@ If the code is actually AL 13, the drive has detected excessive current to the m
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire power board when only the motor or cable is faulty. Always disconnect the motor and run the drive unloaded first to isolate whether the fault is in the drive or downstream.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or motor repair shop if the drive continues to trip with the motor disconnected, if parameter 15-32 shows an internal sub-code you cannot resolve by reseating the control board, or if you lack a multimeter and the training to safely work inside the drive enclosure. High-voltage DC bus capacitors remain charged for minutes after power-off and can cause lethal shock. Professional repair typically involves oscilloscope testing of gate drive signals, thermal imaging of IGBT modules, and access to Danfoss service software for firmware updates or board-level diagnostics. If the motor is the culprit, a motor shop can rewind or replace it and verify insulation resistance before reconnection.
 
 **Rough cost:** A pro service call runs about $200-800 depending on whether repair is a parameter change, cable fix, motor replacement, or drive board swap.
-
-## See Also
-
-- [Danfoss VLT AL 4 Fault - Causes & Fix](/posts/danfoss-vlt-vfd-al-4-fault-code/)
-- [Danfoss FC302 VFD Alarm 38 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-38-fault-code/)
-- [Danfoss FC302 AL-69 - Causes & Fix](/posts/danfoss-fc302-vfd-al-69-fault-code/)
-- [Danfoss FC302 Complete Fault Code Guide — All Faults and Fixes](/posts/danfoss-fc302-complete-guide/)

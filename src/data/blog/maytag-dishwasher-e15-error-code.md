@@ -17,8 +17,7 @@ money_part: "Door gasket or tub seal"
 part_price: "$15-80"
 ---
 
-## Maytag Dishwasher E15 Error Code — What It Means
-
+## What this code means
 The E15 error code on a Maytag dishwasher signals that the anti-flood or leak detection system has been triggered. Water has been detected where it should not be, typically in the base pan or leak-sensing area at the bottom of the unit. When this happens, the control board stops the cycle immediately and often sounds an alarm to prevent flooding and further damage.
 
 This code is almost always tied to an actual water leak rather than a simple drainage problem. Water can reach the base from failing hose connections, worn pump seals, a damaged door gasket, or other plumbing points. Once water accumulates in the protected area, the machine will not resume normal operation until the leak is found, repaired, and the base is dried out.
@@ -26,8 +25,6 @@ This code is almost always tied to an actual water leak rather than a simple dra
 ## Before You Replace Anything
 
 Many homeowners replace the control board thinking it is a sensor error, but E15 almost always means real water is in the base. Pull the unit forward, inspect for wet areas and standing water, and trace the leak source before ordering any electronic parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

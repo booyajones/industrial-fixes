@@ -19,8 +19,6 @@ A Samsung dishwasher stuck mid-cycle is not a single fault code. It is a symptom
 
 Samsung's own support materials mention several behaviors that can interrupt operation, including a stuck button, water not making it through the filter, and other cycle interruptions that require checking the machine's condition and then resetting or servicing it if the issue returns. The same mid-cycle symptom can come from different codes or no code at all.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door latch or door switch problem** The control will stop if it no longer sees a secure closed-door state, making door latch and switch problems one of the most common causes of mid-cycle stoppage.

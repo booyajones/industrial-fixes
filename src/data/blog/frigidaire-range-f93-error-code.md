@@ -20,8 +20,7 @@ free_checks:
 part_price: "$30-70"
 ---
 
-## Frigidaire F93 Error Code — What It Means
-
+## What this code means
 Frigidaire treats F93 as part of the F90–F94 door lock issue family. The code appears when the electronic oven control sends the lock command (typically during self-clean) but the door does not lock within the allowed time. The control expects confirmation from the lock switch that the door latched, and F93 indicates that signal never arrived.
 
 Frigidaire's official support guidance recommends resetting power first by unplugging the range or switching the breaker off and on for 30 seconds. If the code persists after the reset, the manufacturer directs users to contact service because the problem lies in the lock motor, switch, wiring, or control board.
@@ -29,8 +28,6 @@ Frigidaire's official support guidance recommends resetting power first by unplu
 ## Before You Replace Anything
 
 Homeowners often replace the control board first. Before buying electronics, inspect the lock mechanism for debris or binding and test the lock motor and switch, since mechanical failure is far more common.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

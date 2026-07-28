@@ -17,8 +17,6 @@ tags:
 
 A Mitsubishi mini split blowing warm air is a symptom, not an error code. It means the system is not cooling properly. The actual fault is shown as a 2-digit error code on the indoor unit indicator lamp or by using the remote's CHECK function. Mitsubishi says if the code is anything other than "00," the unit needs inspection and repair. Without reading that code, the most common reasons are the unit being in the wrong mode, poor airflow from dirty filters, the outdoor unit losing power, or a refrigerant or compressor problem.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Wrong mode or setpoint** The remote or controller may be set to Heat mode, or the cooling setpoint is too high to call for cooling.
@@ -51,26 +49,19 @@ A Mitsubishi mini split blowing warm air is a symptom, not an error code. It mea
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Mitsubishi Mini Split E0 error code](/posts/mitsubishi-mini-split-e0-error-code/)
-- [Mitsubishi Mini Split E2 error code](/posts/mitsubishi-mini-split-e2-error-code/)
-- [Mitsubishi Mini Split E3 error code](/posts/mitsubishi-mini-split-e3-error-code/)
-- [Mitsubishi Mini Split E4 error code](/posts/mitsubishi-mini-split-e4-error-code/)
-- [Mitsubishi Mini Split E5 error code](/posts/mitsubishi-mini-split-e5-error-code/)
-- [Mitsubishi Mini Split E7 error code](/posts/mitsubishi-mini-split-e7-error-code/)
-- [Mitsubishi Mini Split E9 error code](/posts/mitsubishi-mini-split-e9-error-code/)
-- [Mitsubishi Mini Split Ee error code](/posts/mitsubishi-mini-split-ee-error-code/)
-- [Mitsubishi Mini Split Fb error code](/posts/mitsubishi-mini-split-fb-error-code/)
-- [Mitsubishi Mini Split P1 error code](/posts/mitsubishi-mini-split-p1-error-code/)
-- [Mitsubishi Mini Split P2 error code](/posts/mitsubishi-mini-split-p2-error-code/)
-- [Mitsubishi Mini Split P4 error code](/posts/mitsubishi-mini-split-p4-error-code/)
+- Mitsubishi Mini Split E0 error code
+- Mitsubishi Mini Split E2 error code
+- Mitsubishi Mini Split E3 error code
+- Mitsubishi Mini Split E4 error code
+- Mitsubishi Mini Split E5 error code
+- Mitsubishi Mini Split E7 error code
+- Mitsubishi Mini Split E9 error code
+- Mitsubishi Mini Split Ee error code
+- Mitsubishi Mini Split Fb error code
+- Mitsubishi Mini Split P1 error code
+- Mitsubishi Mini Split P2 error code
+- Mitsubishi Mini Split P4 error code
 
 ## When to Call a Pro
 
 Call a technician if the error code is anything other than "00," if you cannot restore outdoor unit power after checking breakers and fuses, or if cleaning filters and verifying settings does not restore cooling. Refrigerant leaks, compressor faults, and control board or communication problems require professional diagnosis and repair. Mitsubishi's guidance is that any displayed fault code other than "00" requires inspection rather than continued operation.
-
-## See Also
-
-- [Mitsubishi U4 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-u4-error-code/)
-- [Mitsubishi U1 Error Code — Causes & Fix](/posts/mitsubishi-u1-error-code/)
-- [Mitsubishi Mini-Split U0 Error Code — Refrigerant Shortage Fix](/posts/mitsubishi-mini-split-u0-error-code/)
-- [Mitsubishi MSZ-FH12NA Problems & Error Codes](/posts/mitsubishi-msz-fh12na-ductless-mini-split-air-conditioner-problems/)

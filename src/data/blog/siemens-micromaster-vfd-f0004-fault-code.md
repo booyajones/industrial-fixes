@@ -13,13 +13,10 @@ money_part: "KTY84 temperature sensor"
 most_likely_cause: "Blocked or restricted airflow"
 ---
 
-## Siemens Micromaster F0004 — What It Means
-
+## What this code means
 F0004 on a Siemens Micromaster VFD signals an inverter overtemperature shutdown. The heat sink inside the drive has exceeded its safe operating threshold. The drive monitors this temperature using an internal KTY84 sensor on the power module. On some Micromaster 430 and 440 models, parameter P949 breaks down the fault further: P949=1 indicates rectifier overtemperature, P949=2 indicates high ambient temperature, and P949=3 indicates EBOX overtemperature.
 
 In many cases the fault points to inadequate cooling rather than a true thermal runaway. A common diagnostic clue is parameter r0037 showing -36, which signals an invalid temperature reading from the sensor circuit rather than an actual overheat event. This invalid reading usually means the KTY84 sensor or its signal path has failed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ In many cases the fault points to inadequate cooling rather than a true thermal 
 ## When to Call a Pro
 
 Call a qualified technician or industrial electrician if you are not comfortable working inside energized or recently de-energized high-voltage equipment, if the fault returns after cleaning and verifying the fan, or if r0037 remains invalid after inspecting the sensor and wiring. Replacing internal sensors or control boards requires knowledge of VFD disassembly, ESD precautions, and proper calibration. If the drive is still under warranty or is part of a critical process, contact Siemens or an authorized service center to avoid further damage or downtime.
-
-## See Also
-
-- [Siemens G120 F0004 - Causes & Fix](/posts/siemens-g120-vfd-f0004-fault-code/)
-- [Siemens Micromaster F0022 - Causes & Fix](/posts/siemens-micromaster-vfd-f0022-fault-code/)
-- [Siemens G120 A05002 Fault - Causes & Fix](/posts/siemens-g120-vfd-a05002-fault-code/)
-- [Siemens G120 F01205 - Causes & Fix](/posts/siemens-g120-f01205-fault-code/)

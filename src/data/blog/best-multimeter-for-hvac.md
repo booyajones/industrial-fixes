@@ -117,7 +117,7 @@ For a complete electrical diagnostic kit, pair the meter with:
 Yes. Any house built after 2010 likely has an ECM blower motor and possibly an inverter-driven heat pump. Both push non-sinusoidal current. Average-responding meters lie to you on these loads — often by 20–30%. The diagnostic mistake of replacing a healthy ECM because the amp reading "looked low" is expensive.
 
 **Why is microamp DC such a big deal?**
-Flame rectification — the safety circuit that proves the burner is actually lit — measures the DC microamp current flowing from the flame sensor rod through the flame to ground. Healthy flame current on a Carrier or Trane furnace is 2.5–6.0 µA. A meter with only milliamp resolution reads 0.00 mA on a healthy flame, telling you nothing. See the [Carrier 33 error code guide](/posts/carrier-33-error-code) for how this plays out diagnostically.
+Flame rectification — the safety circuit that proves the burner is actually lit — measures the DC microamp current flowing from the flame sensor rod through the flame to ground. Healthy flame current on a Carrier or Trane furnace is 2.5–6.0 µA. A meter with only milliamp resolution reads 0.00 mA on a healthy flame, telling you nothing. See the Carrier 33 error code guide for how this plays out diagnostically.
 
 **Can I use the meter's NCV (non-contact voltage) as my only safety check?**
 No. NCV is a quick first check, not a confirmation. Always confirm dead with a contact measurement on L-N and L-G before opening up. NCV gives false negatives in shielded conduit and false positives near energized adjacent wires.
@@ -130,6 +130,6 @@ Once a year if you're billing customers or signing off on commercial work. Cal l
 
 ## Related guides
 
-- [Carrier 33 Error Code — Limit Circuit Fault Fix](/posts/carrier-33-error-code) — uses the multimeter's continuity and microamp DC functions
+- Carrier 33 Error Code — Limit Circuit Fault Fix — uses the multimeter's continuity and microamp DC functions
 - [Carrier 31 Error Code — Pressure Switch Did Not Open Fix](/posts/carrier-31-error-code) — uses the multimeter's resistance function on the pressure switch
 - [Allen-Bradley PowerFlex F004 Fault](/posts/allen-bradley-powerflex-f004-fault) — VFD diagnostic where the low-pass filter on the 87V matters

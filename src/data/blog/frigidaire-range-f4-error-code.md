@@ -17,8 +17,7 @@ money_part: "Frigidaire oven temperature sensor / RTD probe"
 part_price: "$15-40"
 ---
 
-## Frigidaire Range F4 Error Code — What It Means
-
+## What this code means
 On most Frigidaire electric ranges and built-in ovens, the F4 error code indicates a problem with the oven temperature sensor circuit. The control board is seeing an open circuit, a short, or a reading that falls outside the expected range for normal oven temperature. This prevents the oven from regulating heat properly. Because Frigidaire uses model-specific fault codes, F4 may point to related control-board or door-lock issues on certain platforms, so always verify your exact model number against the technical sheet or wiring diagram before ordering parts.
 
 The code typically appears when the sensor probe itself has deteriorated, when connector pins have corroded or backed out, or when harness wiring has been pinched or burnt. In a smaller number of cases the control board misreads a good sensor and needs replacement. If the fault appeared after a self-clean cycle or involves door-lock behavior, consult your model's service manual to confirm whether F4 maps to the sensor circuit or to a different subsystem on your unit.
@@ -26,8 +25,6 @@ The code typically appears when the sensor probe itself has deteriorated, when c
 ## Before You Replace Anything
 
 Many people replace the electronic control board first when the real problem is a $20 sensor or a loose connector. Always measure sensor resistance and inspect the harness plug before buying a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

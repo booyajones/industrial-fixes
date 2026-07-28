@@ -16,8 +16,7 @@ money_part: "Oven temperature sensor (probe)"
 part_price: "$20-80"
 ---
 
-## Kenmore F10 Error Code — What It Means
-
+## What this code means
 The F10 code on a Kenmore range or oven signals a runaway temperature or over-temperature fault. The electronic oven control (EOC) has detected that the oven temperature has climbed past the setpoint or is heating uncontrollably. This fault can appear during normal baking or during the self-clean cycle.
 
 The control board shuts down heating to protect the appliance and displays F10. A simple power reset may clear a transient fault, but if the code returns the same day or the next time you use the oven, a component has usually failed and needs replacement.
@@ -25,8 +24,6 @@ The control board shuts down heating to protect the appliance and displays F10. 
 ## Before You Replace Anything
 
 Many people replace the electronic oven control board first. Before buying a new board, test the oven temperature sensor with a multimeter in ohms mode. A sensor out of the 1,000–1,300 ohm range at room temperature is the actual problem in the majority of F10 calls.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

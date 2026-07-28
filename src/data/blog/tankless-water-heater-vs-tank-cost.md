@@ -173,9 +173,3 @@ Tank is the right choice when:
 - Your household is 5+ people with high simultaneous demand
 - Your gas line or electrical panel cannot be upgraded easily
 - You want the simplest installation and maintenance
-
-## Related Articles
-
-- [Heat Pump Water Heater vs. Tankless: 2025 Cost and Efficiency Comparison](/posts/heat-pump-water-heater-vs-tankless/)
-- [Tankless Water Heater Error Code List](/posts/tankless-water-heater-error-code-list/)
-- [Water Heater Thermocouple Replacement Guide](/posts/water-heater-thermocouple-replacement/)

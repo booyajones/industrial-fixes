@@ -13,15 +13,12 @@ tags:
   - error-code
 ---
 
-## Goodman Furnace 4 Flashes — What It Means
-
+## What this code means
 **4 slow flashes** on a Goodman furnace control board means the **high limit switch is open** — the furnace detected dangerously high temperatures in the heat exchanger and shut the burners off to prevent damage or fire. The LED on the control board blinks 4 times, pauses, then repeats.
 
 This code also applies to **Amana furnaces** and some **Coleman furnaces** that share the same Goodman control board platform.
 
 The high limit switch is a safety device. When it opens, it's telling you the heat exchanger got too hot — which almost always means the furnace wasn't getting enough airflow. In 80% of cases, a clogged air filter is the entire problem.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,12 +73,5 @@ Also call a pro if you see any soot, burn marks, or discoloration inside the bur
 
 ## Related Flash Codes
 
-- [Goodman Furnace 3 Flashes — Pressure Switch Open](/posts/goodman-furnace-3-flashes/)
-- [Goodman Furnace 2 Flashes — Pressure Switch Stuck Closed](/posts/goodman-furnace-2-flashes/)
-
-## See Also
-
-- [Goodman Furnace 2 Flashes — Pressure Switch Stuck Closed Fix](/posts/goodman-furnace-2-flashes/)
-- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
-- [Goodman ComfortNet Communicating System Error Codes — Complete Guide](/posts/goodman-communicating-error-codes/)
-- [Goodman 8 Flash Error Code — Causes & Fix](/posts/goodman-8-flash-error-code/)
+- Goodman Furnace 3 Flashes — Pressure Switch Open
+- Goodman Furnace 2 Flashes — Pressure Switch Stuck Closed

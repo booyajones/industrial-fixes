@@ -13,13 +13,10 @@ money_part: "Brake resistor"
 most_likely_cause: "Shorted or damaged brake resistor"
 ---
 
-## Danfoss FC302 Alarm 27 — What It Means
-
+## What this code means
 Alarm 27 on the Danfoss VLT AutomationDrive FC 302 indicates a brake chopper or brake IGBT fault. The drive continuously monitors the brake IGBT circuit during operation and raises this alarm when that circuit fails or when the brake resistor circuit is shorted or overloaded. The brake chopper is the transistorized circuit that dumps DC-bus energy into the brake resistor during deceleration, so damage to either component will trigger this fault.
 
 This is not a terminal 27 wiring issue. Warning 40 covers overload of digital output terminal 27, which is a separate code. Alarm 27 is specifically tied to the internal braking hardware and the external brake resistor circuit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -52,10 +49,3 @@ This is not a terminal 27 wiring issue. Warning 40 covers overload of digital ou
 ## When to Call a Pro
 
 Call a qualified industrial electrician or VFD technician if the brake resistor tests good and the fault persists, since internal brake IGBT or chopper circuit failure requires specialized tools and training to diagnose and repair. Also call a professional if you are not familiar with high-voltage DC-bus capacitor discharge procedures or if the drive requires replacement of internal power components like the brake chopper assembly or soft-charge fuses. Any work inside the drive enclosure involves lethal voltages and should only be performed by personnel trained in VFD service.
-
-## See Also
-
-- [Danfoss FC302 Alarm 23 - Causes & Fix](/posts/danfoss-fc302-alarm-23-fault-code/)
-- [Danfoss FC302 Alarm 43 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-43-fault-code/)
-- [Danfoss FC302 Alarm 22 - Hoist Brake Fault Fix](/posts/danfoss-fc302-vfd-alarm-22-fault-code/)
-- [Danfoss FC302 Alarm 25 - Causes & Fix](/posts/danfoss-fc302-alarm-25-fault-code/)

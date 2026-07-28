@@ -22,15 +22,12 @@ part_price: "$12-25 for a replacement drain filter"
 no_buy_pct: "75%"
 ---
 
-## Electrolux Washer EF1 Error Code — What It Means
-
+## What this code means
 The EF1 error code on an Electrolux washing machine signals a drain system blockage. The machine detects that water is not exiting the tub, usually because the drain filter, drain pump, or drain hose is clogged, kinked, or blocked by debris. This is a drain-specific fault, distinct from the EF1 code on Electrolux dryers (which relates to vent or moisture sensor issues). The washer will pause mid-cycle and refuse to spin or complete the drain phase until the obstruction is cleared.
 
 ## Before You Replace Anything
 
 Many people replace the drain pump when the real problem is a clogged filter or kinked hose. Always pull and clean the filter and straighten the drain hose before buying a pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

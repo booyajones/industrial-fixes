@@ -17,8 +17,6 @@ most_likely_cause: "Codes 1-5 (harvest/cycle faults)"
 
 Scotsman Prodigy Plus ice machines (HC, HID, and Brilliance series) are the most widely installed modern Scotsman commercial ice machines. They use a SmartBoard controller that displays error codes when faults are detected. This guide covers the most common Prodigy Plus error codes.
 
-[Jump to Fix](#fix)
-
 ## Prodigy Plus Error Code Summary
 
 | Code | Meaning | Urgency |
@@ -58,18 +56,3 @@ Scotsman Prodigy Plus ice machines (HC, HID, and Brilliance series) are the most
 ## When to Call a Pro
 
 Refrigerant work (recharge for low-charge cycle faults) requires EPA 608 certification. Codes that persist after cleaning and sensor/valve replacement need a certified tech for refrigeration diagnosis.
-
-## Related Articles
-
-- [Scotsman C0522 Error Codes — Fix Guide](/posts/scotsman-c0522-error-codes/)
-- [Scotsman HID312 Error Codes — Fault Code Diagnostic Guide](/posts/scotsman-hid312-error-codes/)
-- [Scotsman HID525 Error Codes — Complete Guide](/posts/scotsman-hid525-error-codes/)
-- [Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/scotsman-ice-machine-complete-guide/)
-- [Scotsman Ice Machine Error Code 1 — High Pressure Cutout Fix](/posts/scotsman-ice-machine-error-code-1/)
-
-## See Also
-
-- [Scotsman Ice Machine Error Code 3 — Causes & Fix](/posts/scotsman-ice-machine-error-code-3/)
-- [Scotsman Ice Machine Error Code 1 — High Pressure Cutout Fix](/posts/scotsman-ice-machine-error-code-1/)
-- [Scotsman C0830 Ice Machine Error Codes - Full Fault Reference](/posts/scotsman-c0830-error-codes/)
-- [Scotsman 6-Flash Code — Refrigerant Pressure Out of Range Fix](/posts/scotsman-6-flash-code/)

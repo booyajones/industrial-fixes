@@ -17,8 +17,7 @@ money_part: "Samsung dryer thermistor / temperature sensor"
 part_price: "$20-50"
 ---
 
-## Samsung Dryer E1 Error Code — What It Means
-
+## What this code means
 The E1 error code on a Samsung dryer indicates that the thermistor resistance is too low or the thermistor is shorted. The thermistor is a temperature sensor that monitors heat inside the drum, and the dryer expects to see a resistance around 50 kΩ at 20°C (68°F). When the control board reads a much lower resistance or sees a short circuit condition, it throws the E1 code and stops the cycle to prevent unsafe operation.
 
 Samsung also states that a restricted vent system or a clogged lint filter can trigger this code. Poor airflow can cause unusual temperature patterns that affect the thermistor circuit. In practice, the fault points to either an airflow problem or a defective thermistor, damaged wiring, or a corroded connector in the sensor circuit.
@@ -26,8 +25,6 @@ Samsung also states that a restricted vent system or a clogged lint filter can t
 ## Before You Replace Anything
 
 Some people replace the main control board first. Always measure thermistor resistance at room temperature (should be 50 kΩ at 20°C) and inspect the wiring harness for shorts before ordering electronic parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

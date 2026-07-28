@@ -46,14 +46,14 @@ The most frequent service calls involve H-series error codes, particularly H97, 
 These codes apply to this model line:
 
 - [Panasonic Microwave E01 error code](/posts/panasonic-microwave-e01-error-code/)
-- [Panasonic Microwave E02 error code](/posts/panasonic-microwave-e02-error-code/)
-- [Panasonic Microwave H97 error code](/posts/panasonic-microwave-h97-error-code/)
+- Panasonic Microwave E02 error code
+- Panasonic Microwave H97 error code
 - [Panasonic Microwave H98 error code](/posts/panasonic-microwave-h98-error-code/)
 - [Panasonic Microwave H99 error code](/posts/panasonic-microwave-h99-error-code/)
-- [Panasonic Microwave U12 error code](/posts/panasonic-microwave-u12-error-code/)
-- [Panasonic Microwave U13 error code](/posts/panasonic-microwave-u13-error-code/)
+- Panasonic Microwave U12 error code
+- Panasonic Microwave U13 error code
 - [Panasonic Microwave U14 error code](/posts/panasonic-microwave-u14-error-code/)
-- [Panasonic Microwave U15 error code](/posts/panasonic-microwave-u15-error-code/)
+- Panasonic Microwave U15 error code
 - [Panasonic Microwave U17 error code](/posts/panasonic-microwave-u17-error-code/)
 - [Panasonic Microwave U30 error code](/posts/panasonic-microwave-u30-error-code/)
 - [Panasonic Microwave U50 error code](/posts/panasonic-microwave-u50-error-code/)

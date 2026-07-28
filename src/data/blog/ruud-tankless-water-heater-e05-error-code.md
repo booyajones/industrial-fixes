@@ -13,13 +13,10 @@ money_part: "Inlet filter screen"
 most_likely_cause: "Clogged inlet filter screen"
 ---
 
-## Ruud E05 Error Code — What It Means
-
+## What this code means
 The E05 error code on Ruud tankless water heaters indicates a water flow fault. This code appears when the unit detects insufficient flow, excessive flow, or an abnormal flow condition that prevents safe operation. The heater's internal flow sensor monitors water movement through the heat exchanger, and when the signal falls outside expected parameters, the unit halts and displays E05.
 
 Because Ruud tankless units share engineering with Rheem models, E05 is treated as a flow-related error across the product family. The code can result from restrictions in the water path, dirty filters, scale buildup inside the heat exchanger, high incoming pressure, or a failing flow sensor. Always confirm the exact model number and consult your specific service manual, since code definitions can vary between generations and platforms.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

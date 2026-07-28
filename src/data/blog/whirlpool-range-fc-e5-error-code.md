@@ -17,8 +17,7 @@ money_part: "Whirlpool Wi-Fi antenna module"
 part_price: "$15-50"
 ---
 
-## Whirlpool Range FC E5 Error — What It Means
-
+## What this code means
 The FC E5 code on Whirlpool ranges indicates a problem with the Wi-Fi antenna or its associated wiring. This is a communications fault, not a temperature sensor or door issue. The control board cannot communicate with the Wi-Fi module, either because the antenna has failed, a connector has come loose, or the wiring harness is damaged.
 
 This code does not affect basic cooking functions on most models, but it will prevent remote monitoring and control through the app. Whirlpool's official guidance focuses on power cycling, inspecting connections, and replacing the antenna assembly if wiring checks do not resolve the fault.
@@ -26,8 +25,6 @@ This code does not affect basic cooking functions on most models, but it will pr
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when the real fault is a $15 antenna connector that simply worked loose during shipping or cleaning. Always inspect the antenna harness and connectors before ordering a control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

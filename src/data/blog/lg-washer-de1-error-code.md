@@ -22,8 +22,7 @@ part_price: "$40-75"
 no_buy_pct: "60%"
 ---
 
-## LG Washer dE1 Error Code — What It Means
-
+## What this code means
 The dE1 error code on an LG front-load washer means the control board cannot confirm the door is securely closed and locked. The machine will not start the wash cycle, the drum will not spin, and the lock icon will not appear on the display. This code triggers when the board does not receive the locked signal from the door lock assembly within the expected timeframe, even if the door appears physically closed.
 
 The door lock assembly contains a mechanical solenoid that engages when the door closes and an electrical switch that signals the control board. LG states this error often occurs when laundry is caught between the door and the rubber gasket, preventing a complete seal. Until the door locks properly, the washer will not operate.
@@ -31,8 +30,6 @@ The door lock assembly contains a mechanical solenoid that engages when the door
 ## Before You Replace Anything
 
 Many people replace the control board when the real fault is a failed door lock assembly. Test the lock assembly click and continuity with a multimeter before replacing any electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -80,10 +77,3 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working with electrical connectors, if the wiring harness behind the door lock shows corrosion or damage that requires tracing back to the control board, or if you have replaced both the door lock assembly and the door strike and the error persists. A technician can test the control board and wiring with diagnostic tools to isolate intermittent faults or logic errors. Also call a pro if the washer is still under warranty, as DIY repairs may void coverage.
 
 **Rough cost:** DIY runs about $40-80 in parts, 30-60 min. A pro service call runs about $150-280.
-
-## See Also
-
-- [LG Washer FE Error Code - Causes & Fix](/posts/lg-washer-fe-error-code/)
-- [LG Mini-Split CH38 Error Code - Causes & Fix](/posts/lg-mini-split-ch-38-error-code/)
-- [LG Range F8 Error Code - Causes & Fix](/posts/lg-range-f8-error-code/)
-- [LG EID Error Code - Causes & Fix](/posts/lg-refrigerator-eid-error-code/)

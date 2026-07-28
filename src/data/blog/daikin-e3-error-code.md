@@ -13,11 +13,8 @@ money_part: "Indoor fan motor (BLDC)"
 most_likely_cause: "Obstructed or dirty indoor coil and fan"
 ---
 
-## Daikin E3 Error Code — What It Means
-
+## What this code means
 Daikin error code E3 indicates a fan motor fault — specifically, the indoor unit fan motor has stopped or is running at a speed the control board can't verify. Daikin uses Hall-effect feedback on the fan motor to continuously monitor RPM. When actual speed deviates from commanded speed beyond the allowed tolerance, or when no feedback signal arrives at the PCB, the board triggers E3 and shuts the unit down. This protects the motor from running against a blocked condition and protects the refrigerant circuit from operating with poor airflow.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,21 +41,3 @@ Daikin error code E3 indicates a fan motor fault — specifically, the indoor un
 ## When to Call a Pro
 
 BLDC motor diagnosis requires measuring drive voltage output from the PCB with an oscilloscope or specialized Daikin service tool. If the motor tests mechanically sound but E3 persists, a tech with Daikin equipment can isolate board vs. motor faults quickly.
-
-## Related Articles
-
-- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
-- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
-- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
-- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
-- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Mitsubishi mini split P5 drain fault](/posts/mitsubishi-p5-error-code/)
-
-## See Also
-
-- [Daikin UA Error Code — Mismatched Indoor/Outdoor Unit Fix](/posts/daikin-error-code-uA/)
-- [Daikin E9 Error Code — Causes & Fix](/posts/daikin-e9-error-code/)
-- [Daikin RXYQ VRV System Error Codes — Complete Fault Code Guide](/posts/daikin-rxyq-error-codes/)
-- [Daikin RXQ VRV System Error Codes (Outdoor Unit): Complete Guide](/posts/daikin-vrv-rxq-error-codes/)

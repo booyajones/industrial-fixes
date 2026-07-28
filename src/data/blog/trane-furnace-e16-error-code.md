@@ -19,8 +19,7 @@ free_checks:
   - "Verify the gas valve is fully open and reset the system if the code is E1 (ignition failure)"
 ---
 
-## Trane Furnace E16 Error Code — What It Means
-
+## What this code means
 There is no documented E16 error code in Trane furnace service literature. The code you are seeing is most likely E11 (control board voltage or ground fault) or E1 (ignition failure). E11 means the furnace control board has detected an unreliable electrical supply, specifically voltage variations, grounding deficiencies, or improper power polarity. The board flags this fault to prevent damage from unstable power. E1 indicates the furnace failed to ignite after several attempts, typically due to a dirty igniter, gas supply problem, malfunctioning flame sensor, or low gas pressure.
 
 Because Trane does not recognize E16 as a valid code, you should consult your owner's manual or the wiring diagram on the furnace door to confirm the exact code and its meaning for your specific model. The steps below address E11, the most probable match for a code starting with E and followed by a digit.
@@ -28,8 +27,6 @@ Because Trane does not recognize E16 as a valid code, you should consult your ow
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board immediately, but the real cause is often faulty external wiring, poor grounding, or a shorted fan motor. Test incoming voltage, grounding continuity, and fan motor current draw before swapping the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician if you see E16, E11, or any code you cannot confirm in your manual. This fault involves testing line voltage, grounding continuity, and fan motor performance, all of which require a multimeter, megger, and working knowledge of electrical systems. If the code is E1 (ignition failure), a pro should also handle gas supply checks, gas valve tests, and igniter or flame sensor replacement. Attempting high-voltage diagnostics or gas work without training is dangerous and can damage the furnace or void your warranty.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Trane 6 Flashes Error Code — Causes & Fix](/posts/trane-6-flashes-error-code/)
-- [Trane XL16i Error Codes — Heat Pump Fault Code Diagnostic Guide](/posts/trane-xl16i-error-codes/)
-- [Trane E7 Error Code - Causes & Fix](/posts/trane-heat-pump-e7-error-code/)
-- [Trane Rooftop Unit Fault 77 — High Pressure Cutout](/posts/trane-rooftop-fault-77/)

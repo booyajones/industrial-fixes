@@ -15,8 +15,7 @@ money_part: "Main control board"
 most_likely_cause: "Misread or misreported code"
 ---
 
-## Maytag Dryer F75 Error Code — What It Means
-
+## What this code means
 The F75 code does not appear in Maytag's published dryer error-code guide. Official Maytag documentation lists codes such as L2 (low or no line voltage), AF/F4E3 (restricted airflow), and PF (power failure), but F75 is not among them. This means F75 is either a stored diagnostic code specific to certain control platforms, a misread display, or a code that requires your model's service manual to interpret correctly.
 
 Because the code is not verified by Maytag's official materials, the safest approach is to confirm the exact model number from the rating plate and retrieve the tech sheet or service manual for that platform. Maytag's documented electrical faults such as L2 point to power-supply issues like blown fuses, tripped breakers, or low line voltage. Airflow codes like AF point to clogged lint screens or kinked vents. Without a confirmed definition for F75, start by checking household power, resetting the machine, and inspecting airflow before ordering parts.
@@ -24,8 +23,6 @@ Because the code is not verified by Maytag's official materials, the safest appr
 ## Before You Replace Anything
 
 Homeowners often replace the main control board when the actual problem is a tripped breaker, blown fuse, or poor power-cord connection. Reset power at the breaker and verify voltage at the terminal block before ordering a control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -17,8 +17,7 @@ money_part: "Dispenser user interface assembly (UI board)"
 part_price: "$80-180"
 ---
 
-## KitchenAid Refrigerator E6 Error — What It Means
-
+## What this code means
 The E6 code on a KitchenAid refrigerator's ice-maker or diagnostics display means Dispenser UI EEPROM Faulty according to the manufacturer tech sheet. The code points to a problem with the dispenser user interface board's nonvolatile memory (EEPROM) or the communication path between the dispenser UI and the main control. This is not a generic refrigerator fault code. It is specific to the dispenser control system.
 
 The code appears in the active error-code menu during service diagnostics, which you reach by pressing SW1 and SW2 together for 3 seconds until you hear a chime. The manufacturer service sheet lists E6 separately from other codes such as Er (Communication Failure), so the fault is localized to the dispenser UI board itself rather than a broader system communication issue.
@@ -26,8 +25,6 @@ The code appears in the active error-code menu during service diagnostics, which
 ## Before You Replace Anything
 
 Some technicians replace the main control board first. Always inspect the dispenser UI board and its wiring harness first, because the E6 code explicitly points to the dispenser UI EEPROM, not the main control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

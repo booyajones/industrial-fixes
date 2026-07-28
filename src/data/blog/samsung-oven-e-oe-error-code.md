@@ -22,8 +22,7 @@ part_price: "$30-70"
 no_buy_pct: "60%"
 ---
 
-## Samsung Oven E-OE Error Code — What It Means
-
+## What this code means
 E-OE (or E-0E) on a Samsung oven indicates a door-lock system fault. The oven is not detecting the door lock in the expected state, so it may refuse to start normal baking or self-clean cycles. This code is tied to the door latch mechanism, lock switch, or the wiring that connects them to the control board.
 
 Samsung's official published code tables do not explicitly define E-OE by name, but technician-facing sources consistently identify it as a door-lock problem rather than a temperature or heating issue. The oven expects the lock to engage or release at specific times, and when it does not see the correct signal it throws E-OE and stops operation.
@@ -31,8 +30,6 @@ Samsung's official published code tables do not explicitly define E-OE by name, 
 ## Before You Replace Anything
 
 Some people replace the entire control board thinking the code is electrical, when in fact grease or food debris jamming the door latch is far more common. Inspect and clean the latch area first before buying any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

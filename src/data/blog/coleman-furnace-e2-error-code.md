@@ -13,11 +13,8 @@ money_part: "Pressure switch"
 most_likely_cause: "Blocked flue or intake pipe"
 ---
 
-## Coleman Furnace E2 Error Code — What It Means
-
+## What this code means
 E2 on a Coleman furnace (manufactured by York/Johnson Controls under the Coleman brand) indicates a pressure switch fault. The induced draft motor ran but the pressure switch did not close within the timed window, so the board blocked the ignition sequence. This is a safety interlock: without confirmed draft, the board will not open the gas valve.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,11 +42,3 @@ E2 on a Coleman furnace (manufactured by York/Johnson Controls under the Coleman
 ## When to Call a Pro
 
 If the flue is clear and the inducer runs at speed but the pressure switch still won't close, have a licensed HVAC technician verify that the heat exchanger is not cracked (a crack can alter pressure differential in the flue) and that the pressure switch rating matches the furnace model requirements.
-
-## Related Articles
-
-- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
-- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
-- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

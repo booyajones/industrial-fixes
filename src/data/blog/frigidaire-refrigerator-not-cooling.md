@@ -19,8 +19,6 @@ When a Frigidaire refrigerator is not cooling, the refrigerator compartment is n
 
 Frigidaire treats this primarily as a fresh-food cooling complaint, not a single fault code. The manufacturer's support guidance directs users to check power, vents, door sealing, and temperature settings first. If the freezer is cold but the refrigerator is warm, the problem is usually related to airflow between compartments.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door left open or not sealing properly** Frigidaire identifies a non-sealing or open door as the most common trigger for high-temperature alarms and poor cooling.
@@ -55,17 +53,17 @@ Frigidaire treats this primarily as a fresh-food cooling complaint, not a single
 
 Seeing a code on the display? These match this problem:
 
-- [Frigidaire Refrigerator Al 29 error code](/posts/frigidaire-refrigerator-al-29-error-code/)
+- Frigidaire Refrigerator Al 29 error code
 - [Frigidaire Refrigerator Df error code](/posts/frigidaire-refrigerator-df-error-code/)
-- [Frigidaire Refrigerator E11 error code](/posts/frigidaire-refrigerator-e11-error-code/)
+- Frigidaire Refrigerator E11 error code
 - [Frigidaire Refrigerator E15 error code](/posts/frigidaire-refrigerator-e15-error-code/)
-- [Frigidaire Refrigerator Er Ce error code](/posts/frigidaire-refrigerator-er-ce-error-code/)
-- [Frigidaire Refrigerator Er error code](/posts/frigidaire-refrigerator-er-error-code/)
-- [Frigidaire Refrigerator F0001 error code](/posts/frigidaire-refrigerator-f0001-error-code/)
-- [Frigidaire Refrigerator H1 error code](/posts/frigidaire-refrigerator-h1-error-code/)
-- [Frigidaire Refrigerator Hi error code](/posts/frigidaire-refrigerator-hi-error-code/)
-- [Frigidaire Refrigerator Op error code](/posts/frigidaire-refrigerator-op-error-code/)
-- [Frigidaire Refrigerator Pf error code](/posts/frigidaire-refrigerator-pf-error-code/)
+- Frigidaire Refrigerator Er Ce error code
+- Frigidaire Refrigerator Er error code
+- Frigidaire Refrigerator F0001 error code
+- Frigidaire Refrigerator H1 error code
+- Frigidaire Refrigerator Hi error code
+- Frigidaire Refrigerator Op error code
+- Frigidaire Refrigerator Pf error code
 - [Frigidaire Refrigerator Sb error code](/posts/frigidaire-refrigerator-sb-error-code/)
 
 ## When to Call a Pro

@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Kenmore Microwave E11 Error — What It Means
-
+## What this code means
 On Kenmore microwaves, E11 indicates a humidity sensor error. The control board is not receiving a normal signal from the humidity-sensing circuit. This sensor is used during some automatic cooking cycles to measure steam levels inside the cavity. When the sensor circuit is open, shorted, or producing an abnormal reading, the control throws E11 and may prevent certain automatic functions from running.
 
 Because Kenmore-branded microwaves were built by different manufacturers over the years, the exact sensor design and location can vary by model. Always confirm your exact model number before ordering parts. The fault chart for Kenmore ties E11 specifically to the humidity sensor circuit, not the magnetron or high-voltage components.
@@ -25,8 +24,6 @@ Because Kenmore-branded microwaves were built by different manufacturers over th
 ## Before You Replace Anything
 
 Many people replace the control board first. Check the humidity sensor connector and wiring for continuity and corrosion before ordering any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

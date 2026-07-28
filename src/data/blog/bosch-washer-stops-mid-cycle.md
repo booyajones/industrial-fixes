@@ -19,8 +19,6 @@ Bosch front-load washers use sensor-based cycle control to monitor water level, 
 
 Bosch's own support guidance ties mid-cycle stoppage to specific messages such as drain problems, inlet or water supply problems, and general faults that require reset or service. The control board stops the cycle when it detects a problem, so identifying the displayed code or the stage where the cycle fails is the first step in diagnosis.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Drain restriction or pump issue** A clogged pump filter, blocked drain hose, or jammed pump impeller prevents the washer from draining within the programmed time and triggers a mid-cycle stop.
@@ -55,14 +53,14 @@ Bosch's own support guidance ties mid-cycle stoppage to specific messages such a
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Bosch Washer E15 error code](/posts/bosch-washer-e15-error-code/)
+- Bosch Washer E15 error code
 - [Bosch Washer E16 error code](/posts/bosch-washer-e16-error-code/)
 - [Bosch Washer E17 error code](/posts/bosch-washer-e17-error-code/)
 - [Bosch Washer E18 error code](/posts/bosch-washer-e18-error-code/)
 - [Bosch Washer E19 error code](/posts/bosch-washer-e19-error-code/)
 - [Bosch Washer E20 error code](/posts/bosch-washer-e20-error-code/)
-- [Bosch Washer E21 error code](/posts/bosch-washer-e21-error-code/)
-- [Bosch Washer E22 error code](/posts/bosch-washer-e22-error-code/)
+- Bosch Washer E21 error code
+- Bosch Washer E22 error code
 - [Bosch Washer E23 error code](/posts/bosch-washer-e23-error-code/)
 - [Bosch Washer E24 error code](/posts/bosch-washer-e24-error-code/)
 - [Bosch Washer E25 error code](/posts/bosch-washer-e25-error-code/)

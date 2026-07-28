@@ -16,8 +16,7 @@ money_part: "Temperature sensor (thermistor)"
 part_price: "$15-50"
 ---
 
-## Samsung tE1 Error Code — What It Means
-
+## What this code means
 The tE1 code on Samsung washing machines signals a temperature-sensor fault. The machine has detected either a heater error, a problem with the temperature sensor itself, or an incorrectly connected or disconnected sensor connector. In some cases the code appears when the washer reads an abnormally high temperature (roughly 100 to 150 °C) and shuts off input power to protect the tub and components from damage. This is an overtemperature protection event, often triggered when the heater runs without enough water in the tub or when the sensor gives a false reading.
 
 Samsung support identifies three primary fault points for tE1: a bad heater or heater-related fault in the tub assembly, a loose or misconnected temperature-sensor connector or wiring, and an overtemperature condition that causes the control to cut power. The code is washer-specific in Samsung's own documentation and should not be confused with dryer fault codes that use similar letters.
@@ -25,8 +24,6 @@ Samsung support identifies three primary fault points for tE1: a bad heater or h
 ## Before You Replace Anything
 
 Many people replace the main control board when they see tE1, but the real culprit is usually the temperature sensor or its connector. Test sensor resistance with a multimeter and inspect the harness before ordering any control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

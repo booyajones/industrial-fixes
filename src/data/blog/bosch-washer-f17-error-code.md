@@ -22,15 +22,12 @@ part_price: "$25-50"
 no_buy_pct: "70%"
 ---
 
-## Bosch Washer F17 Error Code — What It Means
-
+## What this code means
 The F17 code (sometimes displayed as E17) means the washer control did not detect sufficient incoming water flow within the allowed fill time. The machine expected to reach the required fill level faster than it did, so it stopped and flagged a water supply problem. You may also see a tap warning icon on the display when this code appears, indicating that the issue is with water getting into the machine rather than water draining out or a heating fault.
 
 ## Before You Replace Anything
 
 Some people replace the inlet valve first, but most F17 codes are caused by a closed tap, kinked hose, or clogged inlet screen. Check water supply and clean the filter before buying any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

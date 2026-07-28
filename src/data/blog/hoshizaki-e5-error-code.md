@@ -13,11 +13,8 @@ money_part: "Condenser fan motor"
 most_likely_cause: "High ambient temperature"
 ---
 
-## Hoshizaki E5 Error Code — What It Means
-
+## What this code means
 Hoshizaki error code E5 means high-temperature shutdown — the control board detected that ice machine temperatures rose above the safe operating limit during the freeze cycle and triggered a protective shutdown. On Hoshizaki KM and KML series cubers, the control monitors both evaporator and ambient temperatures. E5 typically indicates that the refrigeration system couldn't maintain freeze cycle conditions within the expected time, or that the machine room ambient temperature exceeded the unit's operating range. The machine will not make ice while E5 is active.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Hoshizaki error code E5 means high-temperature shutdown — the control board de
 ## When to Call a Pro
 
 If the condenser is clean, fan is running, and ambient temperature is acceptable, but E5 persists, the refrigerant system needs pressure testing. A certified refrigeration technician can diagnose high-side pressure and compressor condition.
-
-## Related Articles
-
-- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
-- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)
-- [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
-- [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)
-
-## See Also
-
-- [Hoshizaki KM-1301 Error Codes — Complete Guide](/posts/hoshizaki-km-1301-error-codes/)
-- [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)
-- [Hoshizaki KM-515 Error Codes — Fix Guide](/posts/hoshizaki-km-515-error-codes/)
-- [Hoshizaki Ice Machine E8 Error Code — Causes & Fix](/posts/hoshizaki-e8-error-code/)

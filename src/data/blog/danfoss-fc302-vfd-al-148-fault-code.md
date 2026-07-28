@@ -18,8 +18,7 @@ free_checks:
   - "Disconnect motor leads from the drive, power back on, and attempt to reset the alarm; if it clears, the fault is external to the drive"
 ---
 
-## Danfoss FC302 AL-148 Fault — What It Means
-
+## What this code means
 No official Danfoss FC302 documentation lists an 'AL-148' fault code. The closest valid alarm matching this pattern is Alarm 14, which indicates an earth fault (ground fault) on the drive output. Alarm 14 means the FC302 has detected current leaking from one or more output phases (U, V, or W) to ground instead of returning through the motor windings, exceeding the internal trip threshold. This is a protective fault that shuts down the drive to prevent motor damage or electrical shock risk.
 
 If you are reading 'AL-148' from a display, verify the actual number carefully. Alarm 14 is the most common earth-fault code on the FC302 and typically points to motor insulation breakdown, damaged motor cable, or loose output connections. If your display truly shows a different number, consult your drive's manual or contact Danfoss technical support to confirm the exact fault definition for your firmware version.
@@ -27,8 +26,6 @@ If you are reading 'AL-148' from a display, verify the actual number carefully. 
 ## Before You Replace Anything
 
 Many technicians replace the drive power board first, assuming an internal sensor fault. Always disconnect the motor leads and test for alarm persistence with no load attached. If the alarm clears, the fault is in the motor or cable, not the drive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified technician or Danfoss-certified service provider if you are not trained in high-voltage VFD work, if the drive continues to alarm with no motor connected, or if the megohm test confirms motor insulation failure requiring rewinding. Professional diagnosis is required to safely open the drive enclosure, test internal current sensors, or replace the power board. Working inside a VFD without proper discharge procedures and PPE can result in lethal shock even after power is removed. If the motor needs rewinding or replacement, an industrial motor shop should perform the work to match the original specifications and maintain UL or CE compliance.
 
 **Rough cost:** A pro service call runs about $200-500 for motor megohm testing, cable replacement, or drive repair.
-
-## See Also
-
-- [Danfoss FC302 AL-134 - Causes & Fix](/posts/danfoss-fc302-vfd-al-134-fault-code/)
-- [Danfoss FC302 AL-97 - Causes & Fix](/posts/danfoss-fc302-vfd-al-97-fault-code/)
-- [Danfoss FC302 AL-149 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-149-fault-code/)
-- [Danfoss FC302 AL-147 - Causes & Fix](/posts/danfoss-fc302-vfd-al-147-fault-code/)

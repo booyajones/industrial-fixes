@@ -17,8 +17,7 @@ money_part: "Overfill float switch assembly"
 part_price: "$15-75"
 ---
 
-## Whirlpool Dishwasher F6E4 Error — What It Means
-
+## What this code means
 The F6E4 code on Whirlpool dishwashers is a float or overfill safety fault. The control is detecting that the overfill float switch is open or activated, meaning the machine believes water has reached a protected overfill condition. Whirlpool product help states that incorrect leveling of the dishwasher can cause this error because it can actuate the overfill or floater switch. In technician terms, the control sees the float switch circuit open or a condition that makes it think the machine is overfilling.
 
 This code protects against flooding by shutting down the wash cycle when the float mechanism in the base pan lifts. The float can be triggered by actual water in the base from a leak, by an unlevel installation that tilts the float assembly, or by a stuck or failing float switch. Less commonly, wiring issues between the float and control or a failed control itself can trigger the fault even when no overfill condition exists.
@@ -26,8 +25,6 @@ This code protects against flooding by shutting down the wash cycle when the flo
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first. Check that the dishwasher is level front-to-back and side-to-side, and pull the unit forward to inspect the base pan for standing water before buying any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

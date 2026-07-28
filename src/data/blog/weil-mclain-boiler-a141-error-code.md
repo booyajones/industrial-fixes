@@ -17,8 +17,7 @@ free_checks:
   - "Power-cycle the boiler (turn off the power switch for 30 seconds) to see if the fault clears or returns immediately."
 ---
 
-## Weil-McLain Boiler A141 Error — What It Means
-
+## What this code means
 The A141 code does not appear in widely available Weil-McLain fault-code tables or manufacturer FAQs. Weil-McLain publishes different fault codes for different product lines (Ultra, EcoNet, GV90+, etc.), and many codes are model-specific. Without your exact model number and manual, it is impossible to say whether A141 refers to a sensor fault, a limit lockout, a communication error, or something else entirely.
 
 The correct first step is to enter your boiler's diagnostics or fault-history menu (the procedure is in your model's installation and service manual) and read the stored lockout or alarm text. That screen often gives a plain-English description or a longer fault number that points you to the right section of the manual. Do not buy parts based on the display code alone, because the same three- or four-character code can mean different things on different models.
@@ -26,8 +25,6 @@ The correct first step is to enter your boiler's diagnostics or fault-history me
 ## Before You Replace Anything
 
 Homeowners sometimes replace a control board or sensor after reading a code online for a different Weil-McLain model. Always match the fault code to your exact model's manual and check the fault-history log before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a licensed heating contractor immediately if the boiler will not fire, if you smell gas, or if the fault involves a high-limit lockout (which can signal a venting or combustion-air problem). Also call a pro if you cannot find your model's manual, if the diagnostics menu shows a fault you do not understand, or if the recommended test requires measuring gas pressure, checking flame current, or working inside the sealed-combustion chamber. Boiler controls involve line voltage and natural gas or propane. Misdiagnosis can waste money on the wrong part and leave a real safety hazard in place.
 
 **Rough cost:** A pro service call runs about $200–500.
-
-## See Also
-
-- [Weil-McLain A46 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a46-error-code/)
-- [Weil-McLain Boiler A64 Error - Causes & Fix](/posts/weil-mclain-boiler-a64-error-code/)
-- [Weil-McLain Boiler Error Code E10 — Causes & Fix](/posts/weil-mclain-e10-error-code/)
-- [Weil-McLain A174 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a174-error-code/)

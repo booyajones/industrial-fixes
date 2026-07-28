@@ -19,8 +19,7 @@ free_checks:
   - "Power cycle the drive and record the exact alphanumeric code that appears"
 ---
 
-## Yaskawa GA800 F042 — What It Means
-
+## What this code means
 There is no F042 fault code in the Yaskawa GA800 VFD fault table. The F042 code belongs exclusively to the Allen Bradley PowerFlex 525 drive, where it indicates a Phase UW Short (excessive current detected between output terminals U and W). If you are seeing F042 on what you believe is a Yaskawa GA800, you are either reading a different drive's display or misidentifying the equipment. The Yaskawa GA800 manual does not list F042 in its fault code table and explicitly states that repair information beyond fan and control board replacement is not provided.
 
 If you have a fault on your Yaskawa GA800, you must refer to the Yaskawa-specific fault codes (such as bUS for bus errors, OV for overvoltage, SC for short circuit, or bA for brake anomalies) in the GA800 Maintenance & Troubleshooting Manual. The hardware, firmware, and fault logic are entirely different between Yaskawa and Allen Bradley products. Contact Yaskawa Technical Support at repair@yaskawa.com or 1.800.927.5292 for the correct fault code interpretation and diagnostics for your specific GA800 unit.
@@ -28,8 +27,6 @@ If you have a fault on your Yaskawa GA800, you must refer to the Yaskawa-specifi
 ## Before You Replace Anything
 
 Technicians sometimes attempt to apply Allen Bradley diagnostics to Yaskawa drives when they see an unfamiliar code. Always verify the drive manufacturer nameplate and consult the correct manual before ordering parts or performing tests.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

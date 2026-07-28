@@ -17,8 +17,7 @@ money_part: "User interface / control panel assembly"
 part_price: "$80-180"
 ---
 
-## Samsung Washer bE2 Error Code — What It Means
-
+## What this code means
 The bE2 code on a Samsung washer most commonly signals that the control has detected a button on the front panel that is stuck, jammed, or being continuously pressed. Samsung documents that the error can appear if any button is held for more than 75 seconds or if the control panel circuitry is seeing a constant input signal from one of the keys. On some Samsung washer models the code is labeled BE2 (8E2) and refers instead to a MEMS sensor error, so the exact meaning is model-dependent and you should verify your specific model number against your owner's manual or service sheet.
 
 In the field, by far the most frequent cause is a physical button that will not return to its rest position due to moisture, detergent residue, or mechanical binding in the keypad membrane. Less often the problem is in the user interface PCB itself or a short in the display board's key circuit. Because the code name is reused across different Samsung platforms with different meanings, always confirm whether your washer uses bE2 for a button fault or a sensor fault before ordering parts.
@@ -26,8 +25,6 @@ In the field, by far the most frequent cause is a physical button that will not 
 ## Before You Replace Anything
 
 Many people replace the main control board when the real problem is a sticky button or contaminated keypad membrane. Unplug the machine, clean around each button with a barely damp cloth, and test each key by pressing and watching for full return before spending money on electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,11 +13,8 @@ money_part: "Replacement Honeywell thermostat"
 most_likely_cause: "Internal thermostat fault"
 ---
 
-## Honeywell Thermostat E1 Error Code — What It Means
-
+## What this code means
 E1 error code has different meanings across Honeywell thermostat families. For the TH1100DH, TH1110DH, and TH1210DH series, Honeywell states that E1 means you must replace the thermostat. On other Honeywell models, third-party field guides describe E1 or E01 as an internal temperature sensor failure, a lost sensor connection, or on Wi-Fi models, a communication or setup problem with the router or power supply. The exact interpretation depends entirely on which thermostat model you own, so identify your model number before troubleshooting.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

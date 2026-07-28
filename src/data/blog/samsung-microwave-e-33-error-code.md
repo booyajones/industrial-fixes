@@ -15,8 +15,7 @@ money_part: "Weight or humidity sensor"
 most_likely_cause: "Transient control glitch"
 ---
 
-## Samsung Microwave E-33 Error — What It Means
-
+## What this code means
 Samsung lists E-33 as an Under Weight Error in its microwave error-code tables. On models that use weight-sensing or cook logic, the control board believes the sensed load is below the valid range for the programmed operation. Samsung does not publish detailed root-cause information for E-33 beyond that label, so the exact sensor or circuit involved depends on your microwave model and should be confirmed with the service manual.
 
 Samsung's published guidance is to unplug the microwave or turn it off at the circuit breaker for 60 seconds, then restart. If E-33 returns after the power reset, contact Samsung service rather than continuing user-level troubleshooting. Some models may also throw E-33 if the control electronics were exposed to steam or spills and need time to dry.
@@ -24,8 +23,6 @@ Samsung's published guidance is to unplug the microwave or turn it off at the ci
 ## Before You Replace Anything
 
 Because Samsung does not publish which component triggers E-33, avoid ordering a weight sensor, humidity sensor, or control board until you perform a power reset and confirm the code persists. Many E-33 codes clear with a simple 60-second power cycle.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

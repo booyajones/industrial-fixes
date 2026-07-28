@@ -21,8 +21,7 @@ part_price: "$80-140"
 no_buy_pct: "60%"
 ---
 
-## Amana Dishwasher F2E2 Error Code — What It Means
-
+## What this code means
 The F2E2 error code on an Amana dishwasher indicates a communication fault between the user interface control panel and the main electronic control board. The dishwasher has detected that signals are not passing correctly between these two modules.
 
 This code appears when the control panel cannot send commands to the main board or receive status information back. The fault can be transient (temporary) or caused by a physical wiring problem or failed component. Amana's product help instructs owners to perform a 30-second power reset first, which clears many transient communication faults.
@@ -30,8 +29,6 @@ This code appears when the control panel cannot send commands to the main board 
 ## Before You Replace Anything
 
 Many people replace the user interface or main control board without first inspecting the wiring harness and connectors between them. Reseating and cleaning corroded or loose connectors often restores communication at no parts cost.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

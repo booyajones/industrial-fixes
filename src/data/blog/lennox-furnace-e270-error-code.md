@@ -14,11 +14,8 @@ money_part: "Lennox hot surface igniter"
 most_likely_cause: "Failed or weak igniter"
 ---
 
-## Lennox E270 Error Code — What It Means
-
+## What this code means
 E270 on a Lennox furnace is a Watchguard failure code that signals the control board has shut off the gas valve and locked out after multiple failed ignition attempts. The system could not establish flame after the allowed number of retries, so it stopped trying for safety. The unit information sheet maps E270 directly to 'gas valve off' due to this flame-failure lockout condition. In practical terms, the furnace tried to light several times, did not prove flame, and now will not attempt another cycle until the underlying problem is fixed and the system is reset.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ E270 on a Lennox furnace is a Watchguard failure code that signals the control b
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working around gas appliances, if the igniter and flame sensor both look good but the code persists, or if you suspect a control board or gas valve fault. E270 is a safety lockout that indicates repeated ignition failures, and incorrect diagnosis can leave a dangerous condition in place or damage expensive components. A qualified tech has the meters and experience to measure flame signal, verify gas pressure, and safely test the ignition sequence under live conditions.
-
-## See Also
-
-- [Lennox iComfort Error Code 225 — Communication Fault Fix Guide](/posts/lennox-icomfort-error-code-225/)
-- [Lennox G60UHV Furnace Error Codes — Flash Code Diagnostic Guide](/posts/lennox-g60uhv-error-codes/)
-- [Lennox Furnace E275 Error Code - Causes & Fix](/posts/lennox-furnace-e275-error-code/)
-- [Lennox XC21 Error Codes — Diagnostic Guide and Fixes](/posts/lennox-xc21-error-codes/)

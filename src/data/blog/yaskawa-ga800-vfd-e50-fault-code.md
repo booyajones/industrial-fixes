@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "Replacement interlock relay or safety contact"
 ---
 
-## Yaskawa GA800 E50 Fault Code — What It Means
-
+## What this code means
 The E50 fault code on the Yaskawa GA800 variable frequency drive indicates that an external device has asserted a fault signal into one of the drive's multi-function digital input terminals. This is not an internal drive failure. Instead, the code means that a safety chain, interlock, overload relay, E-stop, or process switch wired into the drive has opened or dropped out, telling the drive to trip and stop operation.
 
 Because the GA800 is configured by the user or integrator, the exact external device causing the fault depends on your application wiring and parameter setup. The drive will hold the E50 fault until the external circuit is restored and the fault is manually cleared. The fault is a deliberate protective mechanism, so the root cause is always found in the field wiring and external equipment, not in the VFD power stage or control electronics.
@@ -24,8 +23,6 @@ Because the GA800 is configured by the user or integrator, the exact external de
 ## Before You Replace Anything
 
 Technicians sometimes replace the VFD control board or the entire drive when E50 appears, but the fault is triggered by an external device. Always trace the wired interlock circuit and verify the state of every switch, relay contact, and field device before ordering drive parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -35,22 +32,6 @@ Technicians sometimes replace the VFD control board or the entire drive when E50
 - **Loose or damaged control input wiring** A wire termination at the drive terminal or at the field device has come loose, corroded, or broken, causing the fault circuit to open intermittently or continuously.
 - **Miswired or misconfigured fault input** The drive's multi-function input parameter is mapped to external fault, but the field device is wired in the wrong polarity or logic, or the parameter setup does not match the actual circuit.
 - **Faulted external device** A relay, PLC output, or auxiliary contact that is supposed to hold the fault input closed has itself failed or lost power, causing the drive to see a fault condition.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Is an E-stop button, guard door, or safety interlock switch visibly open or tripped?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Reset or close the safety device, then clear the E50 fault at the drive keypad and attempt a restart. If the fault does not return, the interlock was the cause.<br><strong>No:</strong> Proceed to check the overload relay and other process switches wired into the external fault input circuit.</div>
-</details>
-
-<details class="dtree"><summary>Does the overload relay or motor protection contact show a tripped indicator or open state?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Allow the overload to cool and reset, verify motor current is within nameplate rating, then clear the drive fault and restart. If it trips again immediately, investigate motor loading or wiring.<br><strong>No:</strong> Move to the next device in the external fault circuit, checking each switch, relay, and PLC output in turn for continuity and proper state.</div>
-</details>
-
-<details class="dtree"><summary>With power off and the external fault circuit isolated, does the wiring between the field device and the drive terminal show continuity when the device is closed?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The field wiring is intact. The fault is likely caused by the external device itself opening due to a real process or safety condition, or by a parameter mismatch in the drive.<br><strong>No:</strong> Repair or replace the damaged wire, loose termination, or corroded contact in the fault input circuit, then retest.</div>
-</details>
 
 ## Step-by-Step Fix {#fix}
 
@@ -73,12 +54,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a qualified electrician or controls technician immediately if you are not trained in industrial electrical troubleshooting, if the VFD is part of a machine with moving hazards or high-voltage circuits, or if you cannot safely access the field wiring and interlock devices. A professional should handle all work involving lockout/tagout, multi-point safety chains, PLC-controlled interlocks, and any situation where bypassing a safety device would create a hazard. If you have traced the external fault circuit and found no open devices or broken wires, the problem may involve parameter configuration or a control board input failure, both of which require a technician familiar with Yaskawa drives and the specific machine application.
-
-**Rough cost:** A pro service call runs about $150-400 depending on the external device requiring repair or replacement.
-
-## See Also
-
-- [Yaskawa GA800 F043 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-f043-fault-code/)
-- [Yaskawa GA800 A.146 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-146-fault-code/)
-- [Yaskawa GA800 A.139 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-139-fault-code/)
-- [Yaskawa GA800 E81 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e81-fault-code/)

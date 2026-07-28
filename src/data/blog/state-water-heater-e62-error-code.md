@@ -13,13 +13,10 @@ money_part: "Flame sensor / flame rod"
 most_likely_cause: "Blocked air intake or exhaust vent"
 ---
 
-## State Water Heater E62 Error Code — What It Means
-
+## What this code means
 E62 is not documented in the available State Water Heaters technical literature as a standard fault code. State is an A. O. Smith brand, and many of their tankless and power-vent models use model-specific codes that vary by product family. Because E62 does not appear in generic State troubleshooting guides, you need to locate your exact model number and serial number from the rating plate on the unit and consult the matching manual or State's QR code support system to confirm what E62 means for your appliance.
 
 Most combustion-related shutdowns on State tankless and power-vent heaters share common root causes: blocked air intake or exhaust, insufficient gas supply, low water flow, dirty flame sensors, or control board and wiring faults. Until you verify the exact definition of E62 for your model, treat this as a persistent fault that requires methodical inspection of air, gas, water, and electrical systems rather than random part replacement.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

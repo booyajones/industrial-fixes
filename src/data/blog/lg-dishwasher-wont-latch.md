@@ -19,8 +19,6 @@ An LG dishwasher that won't latch means the door is not mechanically closing or 
 
 The dishwasher requires the door to close fully and engage both the mechanical latch and the internal door switch circuit before it will begin a cycle. When the latch does not engage, the control board does not receive the signal that the door is secure, and the machine stays off or displays a door error.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Upper or lower rack interference** Dish racks pushed too far forward or loaded items blocking the door from closing fully.
@@ -69,10 +67,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a technician if you are not comfortable disassembling the inner door panel to access the latch assembly, if continuity testing is unfamiliar, or if the strike plate requires precision adjustment or tub disassembly. A pro can also diagnose hinge or door alignment issues that require frame or mounting corrections beyond simple latch replacement.
-
-## See Also
-
-- [LG Refrigerator CO Error Code - Causes & Fix](/posts/lg-refrigerator-co-error-code/)
-- [LG Dryer tE3 Error Code - Causes & Fix](/posts/lg-dryer-te3-error-code/)
-- [LG Microwave Won't Turn Off - Causes & Fix](/posts/lg-microwave-wont-turn-off/)
-- [LG Oven F10 Error Code - Causes & Fix](/posts/lg-oven-f10-error-code/)

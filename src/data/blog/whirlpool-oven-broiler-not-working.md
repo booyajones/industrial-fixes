@@ -20,8 +20,6 @@ When your Whirlpool oven broiler will not heat, you are dealing with a symptom r
 
 If the oven is set correctly and the door is fully closed but the broiler still does not heat, the problem is in the broil heat circuit. On electric models this usually means a failed broil element. On gas models the igniter is the most common culprit. Other possibilities include the oven temperature sensor, thermal fuse, control board, and wiring connections.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed broil element (electric models)** The element shows visible cracking, blistering, or does not glow evenly, and an ohms test will show no continuity.
@@ -56,18 +54,18 @@ If the oven is set correctly and the door is fully closed but the broiler still 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Whirlpool Oven A6 error code](/posts/whirlpool-oven-a6-error-code/)
-- [Whirlpool Oven Ab error code](/posts/whirlpool-oven-ab-error-code/)
-- [Whirlpool Oven Cal error code](/posts/whirlpool-oven-cal-error-code/)
-- [Whirlpool Oven F1 E0 error code](/posts/whirlpool-oven-f1-e0-error-code/)
-- [Whirlpool Oven F1 E1 error code](/posts/whirlpool-oven-f1-e1-error-code/)
-- [Whirlpool Oven F2 E0 error code](/posts/whirlpool-oven-f2-e0-error-code/)
-- [Whirlpool Oven F2 E1 error code](/posts/whirlpool-oven-f2-e1-error-code/)
-- [Whirlpool Oven F3 E0 error code](/posts/whirlpool-oven-f3-e0-error-code/)
-- [Whirlpool Oven F3 E1 error code](/posts/whirlpool-oven-f3-e1-error-code/)
-- [Whirlpool Oven F5 E0 error code](/posts/whirlpool-oven-f5-e0-error-code/)
-- [Whirlpool Oven F5 E1 error code](/posts/whirlpool-oven-f5-e1-error-code/)
-- [Whirlpool Oven F7 error code](/posts/whirlpool-oven-f7-error-code/)
+- Whirlpool Oven A6 error code
+- Whirlpool Oven Ab error code
+- Whirlpool Oven Cal error code
+- Whirlpool Oven F1 E0 error code
+- Whirlpool Oven F1 E1 error code
+- Whirlpool Oven F2 E0 error code
+- Whirlpool Oven F2 E1 error code
+- Whirlpool Oven F3 E0 error code
+- Whirlpool Oven F3 E1 error code
+- Whirlpool Oven F5 E0 error code
+- Whirlpool Oven F5 E1 error code
+- Whirlpool Oven F7 error code
 
 ## When to Call a Pro
 

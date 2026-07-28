@@ -13,11 +13,8 @@ money_part: "Temperature probe / thermistor"
 most_likely_cause: "Failed temperature probe"
 ---
 
-## Delfield Refrigerator Error Code E1 — What It Means
-
+## What this code means
 E1 on a Delfield refrigerator usually indicates a temperature sensor fault. Delfield prep tables, reach-ins, and undercounter units use electronic temperature controls that read a thermistor in the cabinet or evaporator air stream. When the control sees a reading that is open, shorted, or far outside the normal resistance curve, it logs E1 and may switch to a backup duty cycle to protect product temperature. This code often shows up after a washdown, sensor wire damage, or simple probe failure.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,11 +41,3 @@ E1 on a Delfield refrigerator usually indicates a temperature sensor fault. Delf
 ## When to Call a Pro
 
 If the new probe reads correctly but E1 stays on the display, call a refrigeration technician. The control board input may have failed, and that requires controller-level diagnosis and setup.
-
-## Related Articles
-
-- [Beverage-Air Error Code E4, Causes, and Fixes](/posts/beverage-air-e4-error-code/)
-- [Beverage-Air MT27 Error Codes - What They Mean and How to Fix Them](/posts/beverage-air-mt27-error-codes/)
-- [Beverage-Air Refrigerator Error Code E1 — Causes & Fix](/posts/beverage-air-refrigerator-error-code-e1/)
-- [Beverage-Air Refrigerator Error Code E2 — Evaporator Sensor Causes & Fix](/posts/beverage-air-refrigerator-error-code-e2/)
-- [Bohn Refrigeration Error Code Guide — Causes & Fixes](/posts/bohn-refrigeration-error-codes/)

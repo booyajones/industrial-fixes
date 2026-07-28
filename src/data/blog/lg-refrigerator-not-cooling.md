@@ -19,8 +19,6 @@ When an LG refrigerator stops cooling, it means the appliance is not maintaining
 
 The manufacturer recommends verifying that the unit has power, that temperature settings are correct (37°F refrigerator, 0°F freezer), that air vents are not blocked, and that the unit can recover normal operation within 24 hours after a reset. If the refrigerator does not resume cooling after these checks, a component failure or sealed-system problem may require service.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Blocked air vents or poor airflow** Food or packaging blocking internal vents stops cold air from circulating and prevents proper cooling.
@@ -55,26 +53,19 @@ The manufacturer recommends verifying that the unit has power, that temperature 
 
 Seeing a code on the display? These match this problem:
 
-- [Lg Refrigerator C1 error code](/posts/lg-refrigerator-c1-error-code/)
-- [Lg Refrigerator Cf error code](/posts/lg-refrigerator-cf-error-code/)
-- [Lg Refrigerator Co error code](/posts/lg-refrigerator-co-error-code/)
-- [Lg Refrigerator Dh error code](/posts/lg-refrigerator-dh-error-code/)
-- [Lg Refrigerator Ds error code](/posts/lg-refrigerator-ds-error-code/)
-- [Lg Refrigerator Eid error code](/posts/lg-refrigerator-eid-error-code/)
-- [Lg Refrigerator Eiu error code](/posts/lg-refrigerator-eiu-error-code/)
-- [Lg Refrigerator Ff error code](/posts/lg-refrigerator-ff-error-code/)
-- [Lg Refrigerator Fs error code](/posts/lg-refrigerator-fs-error-code/)
-- [Lg Refrigerator Gf error code](/posts/lg-refrigerator-gf-error-code/)
-- [Lg Refrigerator If error code](/posts/lg-refrigerator-if-error-code/)
-- [Lg Refrigerator Is error code](/posts/lg-refrigerator-is-error-code/)
+- Lg Refrigerator C1 error code
+- Lg Refrigerator Cf error code
+- Lg Refrigerator Co error code
+- Lg Refrigerator Dh error code
+- Lg Refrigerator Ds error code
+- Lg Refrigerator Eid error code
+- Lg Refrigerator Eiu error code
+- Lg Refrigerator Ff error code
+- Lg Refrigerator Fs error code
+- Lg Refrigerator Gf error code
+- Lg Refrigerator If error code
+- Lg Refrigerator Is error code
 
 ## When to Call a Pro
 
 Call a professional if the compressor runs but the unit does not cool after verifying airflow and cleaning the coils, since this points to a sealed-system issue such as refrigerant loss or compressor failure. Also call for service if you hear unusual compressor noises, if frost buildup returns immediately after manual defrost, or if you are uncomfortable working with electrical components or refrigerant systems. Sealed-system repairs require specialized tools, recovery equipment, and EPA certification.
-
-## See Also
-
-- [LG Dishwasher FE Error Code - Causes & Fix](/posts/lg-dishwasher-fe-error-code/)
-- [LG Range FE Error Code - Causes & Fix](/posts/lg-range-fe-error-code/)
-- [LG Mini Split CH01 Error Code — Causes & Fix](/posts/lg-mini-split-ch01-error-code/)
-- [LG Mini Split Error Codes — All CH Codes Explained](/posts/lg-mini-split-error-codes/)

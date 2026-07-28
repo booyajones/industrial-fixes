@@ -19,8 +19,6 @@ A Whirlpool dryer that stops mid-cycle is not always a fault. Whirlpool automati
 
 The machine may stop and then restart after cooling, or it may refuse to run at all until the problem is corrected. Understanding whether the dryer stops only on automatic cycles or also on timed dry helps narrow the cause.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Restricted airflow or blocked venting** Lint buildup in the screen housing, a crushed or blocked vent hose, or a blocked exterior termination restricts exhaust and causes overheating, triggering safety shutdown.

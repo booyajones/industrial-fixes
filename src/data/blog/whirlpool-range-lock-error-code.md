@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Whirlpool Range User Interface / Touchpad Assembly"
 ---
 
-## Whirlpool Range LOC Error Code — What It Means
-
+## What this code means
 On Whirlpool ranges, LOC is not a fault code. It means the Control Lock feature is active and the keypad is intentionally disabled to prevent unintended use. The display shows LOC when you press any button while the controls are locked. This is a normal user-activated state, not a component failure. The oven door also will not lock if the oven is already in use.
 
 The control lock is usually activated accidentally by holding the correct key combination too long or pressing the lock button during cleaning or setup. In most cases, it is a simple user setting that can be cleared with the proper unlock sequence, not a repair issue.
@@ -25,8 +24,6 @@ The control lock is usually activated accidentally by holding the correct key co
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board or keypad thinking LOC is a fault, when it is simply a locked panel. Always try the unlock sequence and a power reset before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

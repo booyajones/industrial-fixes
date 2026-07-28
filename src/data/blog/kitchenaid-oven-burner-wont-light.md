@@ -20,8 +20,6 @@ A KitchenAid oven burner that won't light is an ignition symptom, not a single f
 
 Because this involves gas ignition, most repairs beyond basic cleaning and resetting fall into professional territory. Surface-burner versions of this symptom often trace to moisture, clogged ports, or burner misalignment, but oven burners depend on a hot-surface igniter or electrode that must reach a specific temperature to signal the gas valve.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed oven igniter** The igniter glows weakly or not at all, or glows orange instead of white-hot, so the gas valve never opens.
@@ -55,8 +53,8 @@ Because this involves gas ignition, most repairs beyond basic cleaning and reset
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kitchenaid Oven A6 error code](/posts/kitchenaid-oven-a6-error-code/)
-- [Kitchenaid Oven Ab error code](/posts/kitchenaid-oven-ab-error-code/)
+- Kitchenaid Oven A6 error code
+- Kitchenaid Oven Ab error code
 - [Kitchenaid Oven Cal error code](/posts/kitchenaid-oven-cal-error-code/)
 - [Kitchenaid Oven F6 E0 error code](/posts/kitchenaid-oven-f6-e0-error-code/)
 - [Kitchenaid Oven F6 E1 error code](/posts/kitchenaid-oven-f6-e1-error-code/)

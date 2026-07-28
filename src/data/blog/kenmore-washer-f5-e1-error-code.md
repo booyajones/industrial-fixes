@@ -21,8 +21,7 @@ part_price: "$30-70"
 no_buy_pct: "25%"
 ---
 
-## Kenmore F5 E1 Error Code — What It Means
-
+## What this code means
 On Whirlpool-built Kenmore top-load washers, F5 E1 indicates a lid lock or lid switch fault. The control board is not seeing the lid lock status it expects, or the washer was started with the lid open. The machine cannot confirm the lid is closed and locked properly, so it stops the cycle to prevent operating with an unlocked lid.
 
 This is a lid-lock detection problem, not a wash-system fault. The error is triggered when the lock cannot transition correctly or when the control cannot read the closed or locked state from the lid switch assembly.
@@ -30,8 +29,6 @@ This is a lid-lock detection problem, not a wash-system fault. The error is trig
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when the lid lock assembly itself has simply failed or its connector is loose. Test or swap the lock assembly first before suspecting the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

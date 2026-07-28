@@ -26,8 +26,6 @@ Lincoln Electric Power MIG welders (210 MP, 256, 260, 350MP) are widely used MIG
 | E20 | Wire feeder communication fault |
 | E31 | Output overcurrent |
 
-[Jump to Fix](#fix)
-
 ## Most Common Power MIG Error Codes and Fixes {#fix}
 
 ### E10 / E11 — Thermal Overload

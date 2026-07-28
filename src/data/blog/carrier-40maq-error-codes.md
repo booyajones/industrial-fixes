@@ -16,8 +16,6 @@ money_part: "Indoor ambient thermistor (T1)"
 
 The Carrier 40MAQ and 40MVC are single-zone mini-split indoor units paired with Carrier 38MAQ/38MVC outdoor units. These units use a 7-segment or LED display to flash diagnostic codes when a fault occurs. The control platform is Carrier's commercial-grade mini-split architecture, and many codes align with Carrier's broader ductless line (which shares hardware with Midea at the OEM level). Codes lock out operation until the fault is cleared.
 
-[Jump to Fix](#fix)
-
 ## Common Error Codes and Causes
 
 - **E1 — Indoor/Outdoor Communication Error** — The S-wire connecting the indoor and outdoor units has lost continuity or developed a short. Check terminal connections at both units; test wire continuity.
@@ -49,18 +47,3 @@ The Carrier 40MAQ and 40MVC are single-zone mini-split indoor units paired with 
 ## When to Call a Pro
 
 P1/P2 refrigerant pressure codes require EPA 608 certification to access refrigerant and add/recover charge. Always call a licensed HVAC technician for refrigerant work on Carrier mini splits.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier Error Code 58 — Causes & Fix](/posts/carrier-58-error-code/)
-- [Carrier 34 Error Code — Ignition Proving Failure Fix](/posts/carrier-34-error-code/)
-- [Carrier Infinity XC21 Error Codes — Most Common Faults and Fixes](/posts/carrier-xc21-error-codes/)
-- [Carrier 46 Error Code — Check IFC: Board Self-Diagnosis Fault](/posts/carrier-46-error-code/)

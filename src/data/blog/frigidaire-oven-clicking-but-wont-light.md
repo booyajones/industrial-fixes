@@ -20,8 +20,6 @@ On a Frigidaire gas oven, clicking is the normal sound of the spark ignition sys
 
 Frigidaire gas ranges use either a hot-surface igniter or a spark igniter to light the oven burner. The clicking you hear confirms the electrical ignition system is trying to fire, but something is preventing flame from establishing. The fault is not a displayed error code, it is a physical ignition or gas-flow problem.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Weak or faulty oven igniter** The igniter may glow but not draw enough current to open the gas valve, so the oven never lights.

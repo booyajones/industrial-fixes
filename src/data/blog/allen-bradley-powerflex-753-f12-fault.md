@@ -13,11 +13,8 @@ money_part: "Dynamic braking resistor (DB resistor)"
 most_likely_cause: "Decel ramp too fast"
 ---
 
-## Allen Bradley PowerFlex 753 F12 Fault — What It Means
-
+## What this code means
 The Allen Bradley PowerFlex 753 **F12 fault** is a **DC Bus Overvoltage** trip. During deceleration, the motor acts as a generator, pumping energy back into the drive's DC bus. If the bus voltage rises above approximately 820V DC (for a 480V AC input drive), F12 fires to protect the drive's capacitors and IGBTs from overvoltage damage. F12 is extremely common in applications with large inertia loads — fans, pumps, and centrifuges that coast for a long time. The fix is almost always a parameter change, not a hardware replacement.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -43,18 +40,3 @@ The Allen Bradley PowerFlex 753 **F12 fault** is a **DC Bus Overvoltage** trip. 
 ## When to Call a Pro
 
 If F12 fires during acceleration (not deceleration), or if the drive trips immediately at power-up, the issue is not a ramp parameter — it may be a failed DC bus capacitor or a power quality problem requiring a power analyzer to diagnose.
-
-## Related Articles
-
-- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
-- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
-- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
-- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)
-- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)
-
-## See Also
-
-- [Allen-Bradley PowerFlex Fault F025 — Causes & Fix](/posts/allen-bradley-powerflex-fault-f025/)
-- [Allen Bradley PowerFlex Fault Codes — Complete Reference](/posts/allen-bradley-powerflex-fault-codes/)
-- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
-- [Allen Bradley PowerFlex 700 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-700-fault-7/)

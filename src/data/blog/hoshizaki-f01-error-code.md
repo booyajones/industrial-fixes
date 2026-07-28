@@ -13,11 +13,8 @@ money_part: "Hoshizaki scale remover (nickel-safe)"
 most_likely_cause: "High ambient or water temperature"
 ---
 
-## Hoshizaki F01 Error Code — What It Means
-
+## What this code means
 Hoshizaki F01 indicates **abnormal ice making operation** — the machine started a freeze cycle but didn't complete it within the maximum allowed time. Hoshizaki ice machines use a timed freeze cycle; if the freeze cycle time exceeds the programmed maximum (often 60–90 minutes depending on model), F01 trips and the machine enters a lockout. This fault protects the refrigeration system from running in a prolonged, inefficient state and alerts the operator that the machine can no longer make ice at its rated capacity.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Hoshizaki F01 indicates **abnormal ice making operation** — the machine starte
 ## When to Call a Pro
 
 If F01 persists after cleaning the condenser and water system, the refrigerant charge must be checked by a licensed refrigeration technician. Low refrigerant may indicate a leak that also needs to be repaired before recharging.
-
-## Related Articles
-
-- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
-- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)
-- [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
-- [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)
-
-## See Also
-
-- [Hoshizaki KM-330 Error Codes — Fix Guide](/posts/hoshizaki-km-330-error-codes/)
-- [Hoshizaki KM-2000SAJ Ice Machine Error Codes - Full Diagnostic Guide](/posts/hoshizaki-km-2000saj-error-codes/)
-- [Hoshizaki E5 Error Code — Causes & Fix](/posts/hoshizaki-e5-error-code/)
-- [Hoshizaki F2 Error Code — Ice Full Sensor Fault Causes & Fix](/posts/hoshizaki-f2-error-code/)

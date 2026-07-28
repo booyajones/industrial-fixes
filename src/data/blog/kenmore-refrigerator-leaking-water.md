@@ -19,8 +19,6 @@ Water leaking from your Kenmore refrigerator is not an error code. It is a sympt
 
 The most common culprit is a clogged or frozen defrost drain. During the automatic defrost cycle, ice melts off the evaporator coils and is supposed to flow down a drain tube into a pan underneath the fridge. When that drain freezes or gets blocked by food debris, the water backs up and drips onto your floor or pools inside the refrigerator compartment. Other causes include cracked water tanks, loose or failing water inlet valves, damaged water lines, improper filter installation, or a cracked drain pan.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged or frozen defrost drain** Ice or debris blocks the drain tube so defrost water overflows onto the floor or inside the fridge instead of flowing to the drain pan below.

@@ -13,11 +13,8 @@ money_part: "Fieldbus communication cable"
 most_likely_cause: "Wrong control source or protocol setting"
 ---
 
-## ABB ACS550 EFB 2 Fault — What It Means
-
+## What this code means
 The ACS550 EFB 2 fault (code 32) is a reserved embedded fieldbus fault code that ABB's documentation states is not actually used for the drive's standard embedded fieldbus diagnostics. It is protocol dependent and does not indicate a motor, DC bus, or inverter hardware failure. When this code appears, it usually points to a control or communication setup problem rather than a power stage fault. The drive is trying to report an issue with fieldbus communication or control source configuration, but because the code is reserved and protocol dependent, it does not have one universal meaning the way hardware faults do.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ The ACS550 EFB 2 fault (code 32) is a reserved embedded fieldbus fault code that
 ## When to Call a Pro
 
 Call a qualified technician or ABB service partner if you have verified all wiring, confirmed the control source and communication parameters match your installation, and the EFB 2 fault still persists after power cycling. Because this is a reserved code with protocol-dependent meaning, a technician with access to ABB diagnostic tools and fieldbus protocol analyzers can isolate whether the issue is in the drive's control board, the fieldbus master, or a subtle configuration mismatch that is not obvious from the panel. Also call a pro if you are not familiar with fieldbus protocols or if the drive is part of a larger networked system where changes could affect other equipment.
-
-## See Also
-
-- [ABB ACS580 A2A1 Fault - Causes & Fix](/posts/abb-acs580-vfd-a2a1-fault-code/)
-- [ABB ACS580 A5A0 Fault - Causes & Fix](/posts/abb-acs580-a5a0-fault-code/)
-- [ABB ACS550 F0001 Fault — Causes & Fix](/posts/abb-acs550-f0001-overcurrent/)
-- [ABB VFD Fault Codes — ACS550, ACS880, ACS310 Reference](/posts/abb-vfd-fault-codes/)

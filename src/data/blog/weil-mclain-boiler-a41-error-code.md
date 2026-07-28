@@ -20,8 +20,7 @@ free_checks:
 part_price: "$40-80"
 ---
 
-## Weil-McLain A41 Error Code — What It Means
-
+## What this code means
 The A-41 code indicates an ignition failure. The boiler entered its startup cycle (fan started, ignitor fired, gas valve opened), but the flame sensor did not confirm a flame within the allotted time. The system then shut down and entered lockout to prevent unsafe operation.
 
 Weil-McLain recommends no more than two reset attempts in a row. If the code persists after two resets, a professional diagnosis is required to identify and correct the underlying cause.
@@ -29,8 +28,6 @@ Weil-McLain recommends no more than two reset attempts in a row. If the code per
 ## Before You Replace Anything
 
 Many homeowners replace the control board first, but a warped ignitor or dirty flame sensor causes most A41 lockouts. Measure the ignitor-to-burner gap and check the flame sensor signal before replacing the controller.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a licensed heating technician if the code persists after two reset attempts. Ignition failures involve gas appliances and flame detection, both of which require specific diagnostic tools (multimeters, microamp meters, gas pressure gauges) and training. Technicians can measure ignitor resistance, flame sensor signal, gas valve voltage, and inspect for warping or connection faults. Misdiagnosing an ignition issue can lead to unsafe operation or carbon monoxide risk. Always consult the specific Weil-McLain installation and service manual for your model for exact specifications and part numbers.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Weil-McLain A151 Error - Causes & Fix](/posts/weil-mclain-boiler-a151-error-code/)
-- [Weil-McLain Boiler A80 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a80-error-code/)
-- [Weil-McLain Boiler Error Code E08 — Causes & Fix](/posts/weil-mclain-e08-error-code/)
-- [Weil-McLain Boiler A62 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a62-error-code/)

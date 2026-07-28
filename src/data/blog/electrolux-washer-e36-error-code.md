@@ -22,8 +22,7 @@ part_price: "$25-50"
 no_buy_pct: "65%"
 ---
 
-## Electrolux Washer E36 Error Code — What It Means
-
+## What this code means
 E36 does not appear in Electrolux's published fault code lists for washing machines. The code you see is most likely misread or your appliance may not be an Electrolux model. Electrolux washers use E35 to indicate a pressure sensor overfill condition and 66E for blocked drain pump, filter, or drain path issues. If your display shows E36, verify the exact code from the user interface and check your model number on the rating plate.
 
 The symptoms that prompt an "E36" report usually point to drainage or water-level sensing problems. Electrolux troubleshooting guidance addresses blocked drain hoses, clogged pump filters, defective drain pumps, restricted sink traps or standpipes, and pressure sensor faults after installation or movement. Start by confirming the code, then follow the drain-path and filter checks below.
@@ -31,8 +30,6 @@ The symptoms that prompt an "E36" report usually point to drainage or water-leve
 ## Before You Replace Anything
 
 Many people replace the drain pump when the real problem is a clogged filter or kinked drain hose. Clean the pump filter and inspect the drain hose routing before buying a pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

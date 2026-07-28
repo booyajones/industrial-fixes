@@ -19,8 +19,6 @@ A pilot that lights but will not stay lit means the safety circuit is opening af
 
 This symptom is not a fault code. It tells you that something is preventing the flame-proving device from holding the gas valve open long enough to keep pilot gas flowing. The problem can be at the flame sensor itself, the pilot orifice, the gas supply, the ventilation path, or inside the gas control valve.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Defective or dirty thermocouple or thermopile** The flame sensor is covered in soot, misaligned, corroded at the connection, or has failed internally so it cannot generate enough signal to hold the valve open.
@@ -55,15 +53,8 @@ This symptom is not a fault code. It tells you that something is preventing the 
 If your appliance also shows a code on the display, these match this problem:
 
 - [Rheem Water Heater A01 error code](/posts/rheem-water-heater-a01-error-code/)
-- [Rheem Water Heater Alarm 401 error code](/posts/rheem-water-heater-alarm-401-error-code/)
+- Rheem Water Heater Alarm 401 error code
 
 ## When to Call a Pro
 
 Call a licensed plumber or gas technician if you are not comfortable working around gas appliances, if cleaning and connection checks do not solve the problem, or if you suspect the gas control valve has failed. Gas control valve replacement, thermopile testing with a multimeter, and any work on the gas supply line or vent system should be handled by a qualified professional. If you smell gas at any point, leave the area immediately and call your gas utility or emergency services. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rheem Water Heater Dip Tube Replacement - Signs & How-To](/posts/rheem-water-heater-dip-tube-cold-water-inlet-replacement/)
-- [Rheem RPH Series Packaged Unit Error Codes: Complete Guide](/posts/rheem-rph-error-codes/)
-- [Rheem Water Heater No Hot Water - Causes & Fix](/posts/rheem-water-heater-no-hot-water/)
-- [Rheem A008 Error Code - Causes & Fix](/posts/rheem-heat-pump-a008-error-code/)

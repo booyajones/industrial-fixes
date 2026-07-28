@@ -17,8 +17,7 @@ money_part: "GE refrigerator defrost heater"
 part_price: "$30-80"
 ---
 
-## GE Refrigerator dE Error Code — What It Means
-
+## What this code means
 The dE code on a GE refrigerator signals a defrost system fault. The control board has detected that the automatic defrost cycle did not operate properly within the last 24 hours. In practical terms, the evaporator coil is not being defrosted as expected, which allows frost and ice to build up on the coil and restrict airflow. You may notice warmer-than-normal temperatures in the fresh-food or freezer compartments, ice on the back wall, or reduced air circulation. The code is specific to the defrost circuit rather than a general cooling problem.
 
 GE distinguishes dE from a similar code, DF. The dE code indicates a recent malfunction (within 24 hours), while DF points to a longer-standing defrost failure. Either way, the underlying issue is that the control board is not seeing current flow or proper operation in the defrost heater circuit, and the evaporator is not warming enough to melt accumulated frost during the defrost cycle.
@@ -26,8 +25,6 @@ GE distinguishes dE from a similar code, DF. The dE code indicates a recent malf
 ## Before You Replace Anything
 
 Many people replace the main control board first, assuming it is faulty because the code appears on the display. Test the defrost heater and defrost thermostat for continuity with a multimeter before ordering any electronic control parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

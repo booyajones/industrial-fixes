@@ -17,15 +17,12 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Bosch Oven F33 Error Code — What It Means
-
+## What this code means
 The F33 error code on Bosch ranges and ovens is reported in multiple repair guides as a warming drawer temperature sensor failure or circuit fault. This code appears on models equipped with a warming drawer and indicates that the control board cannot read or interpret the signal from the drawer's temperature sensor. The error is considered non-critical because it does not affect the main oven cavity or cooktop operation. If you do not use the warming drawer frequently, many technicians note the code can be ignored without harm to the rest of the appliance. However, if the warming drawer function is important to you or the beeping becomes disruptive, repair involves inspecting wiring connections and typically replacing the warming drawer sensor.
 
 ## Before You Replace Anything
 
 Many people replace the main electronic control board first, assuming any error code means a bad board. Check and replace the warming drawer temperature sensor and its wiring harness connector before spending hundreds on a control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

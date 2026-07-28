@@ -22,8 +22,7 @@ part_price: "$25–45"
 no_buy_pct: "65%"
 ---
 
-## Electrolux Washer E12 Error Code — What It Means
-
+## What this code means
 E12 is a water inlet or fill fault. The control board expects the machine to fill with water during the wash or rinse cycle, but it detects no flow or insufficient flow. Electrolux groups E10, E11, and E12 together as fill-related faults. The washer will not continue the cycle until the fill problem is corrected.
 
 In some cases the machine may lock for several minutes after the fault appears. The code does not always mean a failed part. Supply issues, kinked hoses, and clogged inlet strainers account for the majority of E12 cases in the field.
@@ -31,8 +30,6 @@ In some cases the machine may lock for several minutes after the fault appears. 
 ## Before You Replace Anything
 
 Many people replace the inlet valve first without checking the tiny mesh screens inside the hose fittings. Pull both hoses and inspect the screens for sediment before ordering a valve.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -20,8 +20,7 @@ free_checks:
   - "Inspect all wiring connections at the outdoor unit terminal block for loose or corroded terminals."
 ---
 
-## Daikin U2 Error Code — What It Means
-
+## What this code means
 The U2 error code indicates a malfunction of the power supply or an instantaneous power failure. Specifically, Daikin defines it as drop voltage or main circuit overvoltage. Your mini split detected abnormal voltage (either too low during a brownout or too high during a surge) or a brief power interruption. The unit has a built-in supply voltage monitor that locks out the system when voltage dips or spikes, even if power is not completely lost.
 
 This is an electrical fault rather than a refrigeration problem. The code tells you the system sensed unstable power and shut down to protect internal components. Most cases trace back to building wiring issues, brief utility brownouts, or damage to the outdoor unit's circuit board from a power surge.
@@ -29,8 +28,6 @@ This is an electrical fault rather than a refrigeration problem. The code tells 
 ## Before You Replace Anything
 
 Homeowners often assume the indoor unit or refrigerant is at fault. Before replacing any boards, check incoming voltage at the disconnect and test all four fuses on the outdoor PCB for continuity.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -81,10 +78,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician if the error persists after a reset, if you measure abnormal voltage at the disconnect, or if you are uncomfortable working inside the outdoor unit. A pro will open the outdoor unit, test fuses and the magnetic contactor, inspect the outdoor PCB for surge damage, and replace the board or contactor if needed. Because this fault involves high-voltage circuits and refrigerant lines nearby, leave the diagnosis and repair to a technician. If your building voltage is consistently low or fluctuating, also bring in an electrician to inspect the main panel, breaker sizing, and utility supply before replacing any mini split components.
 
 **Rough cost:** A pro service call runs about $200-500 for PCB replacement and labor.
-
-## See Also
-
-- [Daikin A7 Error Code - Causes & Fix](/posts/daikin-mini-split-a7-error-code/)
-- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)
-- [Daikin E4 Error Code - Causes & Fix](/posts/daikin-e4-error-code/)
-- [Daikin H6 Error Code — Indoor Fan Motor Lock Fault Fix](/posts/daikin-h6-error-code/)

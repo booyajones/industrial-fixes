@@ -20,8 +20,6 @@ When your Kenmore oven heats hotter than the set temperature, the control board 
 
 The oven may actually overheat and burn food, or the control may simply think it is overheating due to a bad sensor reading. Either way, the root cause is usually in the temperature sensing circuit or the control board relay that switches bake power on and off.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed oven temperature sensor** The sensor probe sends resistance values to the control board, and when it drifts out of spec the board thinks the oven is cooler or hotter than reality, causing overheating or fault codes.
@@ -60,10 +58,10 @@ If your appliance also shows a code on the display, these match this problem:
 - [Kenmore Oven F3 error code](/posts/kenmore-oven-f3-error-code/)
 - [Kenmore Oven F30 error code](/posts/kenmore-oven-f30-error-code/)
 - [Kenmore Oven F31 error code](/posts/kenmore-oven-f31-error-code/)
-- [Kenmore Oven F33 error code](/posts/kenmore-oven-f33-error-code/)
+- Kenmore Oven F33 error code
 - [Kenmore Oven F4 error code](/posts/kenmore-oven-f4-error-code/)
 - [Kenmore Oven F5 error code](/posts/kenmore-oven-f5-error-code/)
-- [Kenmore Oven F50 error code](/posts/kenmore-oven-f50-error-code/)
+- Kenmore Oven F50 error code
 - [Kenmore Oven F7 error code](/posts/kenmore-oven-f7-error-code/)
 
 ## When to Call a Pro

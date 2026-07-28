@@ -38,10 +38,10 @@ I service commercial ice machines across about 80 restaurant accounts in the Pac
 
 **Hoshizaki failure modes, ranked:**
 
-1. Water pump (recirculation) at year 5-7. The pump impeller wears from mineral scale; symptom is reduced harvest cycles and eventually [Hoshizaki E2 error code](/posts/hoshizaki-e2-error-code).
-2. Float switch sticking due to scale buildup at year 4-6 on hard-water installations. Causes [Hoshizaki E5](/posts/hoshizaki-e5-error-code) on water fill issues.
-3. Condenser coil scaling on air-cooled units in dusty environments at year 6-8. Reduced capacity, eventually compressor protection trips with [Hoshizaki E6](/posts/hoshizaki-e6-error-code).
-4. Thermistor/sensor drift at year 8-10 — water temp sensor or evaporator temp sensor. See [Hoshizaki E3](/posts/hoshizaki-e3-error-code) and [E4](/posts/hoshizaki-e4-error-code).
+1. Water pump (recirculation) at year 5-7. The pump impeller wears from mineral scale; symptom is reduced harvest cycles and eventually Hoshizaki E2 error code.
+2. Float switch sticking due to scale buildup at year 4-6 on hard-water installations. Causes Hoshizaki E5 on water fill issues.
+3. Condenser coil scaling on air-cooled units in dusty environments at year 6-8. Reduced capacity, eventually compressor protection trips with Hoshizaki E6.
+4. Thermistor/sensor drift at year 8-10 — water temp sensor or evaporator temp sensor. See Hoshizaki E3 and E4.
 5. Hot gas valve and water valve aging at year 8-12 — solenoid coils fail more than the valve bodies.
 6. Compressor failures at year 12-15 — usually preceded by months of declining production, not sudden death.
 
@@ -68,11 +68,11 @@ I service commercial ice machines across about 80 restaurant accounts in the Pac
 
 **Hoshizaki:** uses a 2-digit alphanumeric LED code displayed on the control board, visible through a service panel cutout. Codes are well-documented and the cleanest in commercial ice. Critical Hoshizaki codes:
 
-- [Hoshizaki E2 — water pump failure](/posts/hoshizaki-e2-error-code)
-- [Hoshizaki E3 — water temperature sensor](/posts/hoshizaki-e3-error-code)
-- [Hoshizaki E4 — evaporator temperature sensor](/posts/hoshizaki-e4-error-code)
-- [Hoshizaki E5 — water supply issue](/posts/hoshizaki-e5-error-code)
-- [Hoshizaki E6 — high pressure / discharge temp](/posts/hoshizaki-e6-error-code)
+- Hoshizaki E2 — water pump failure
+- Hoshizaki E3 — water temperature sensor
+- Hoshizaki E4 — evaporator temperature sensor
+- Hoshizaki E5 — water supply issue
+- Hoshizaki E6 — high pressure / discharge temp
 
 **Manitowoc:** uses alphanumeric codes on the Indigo and Indigo NXT touchscreen displays plus a backup LED on the control board. The touchscreen displays plain-English fault descriptions on newer Indigo NXT — "Water level low at start of harvest" rather than a code number. Older Indigo units use letter-number codes that are well-documented but require the service manual.
 
@@ -160,16 +160,9 @@ For air-cooled units in tight kitchens or high-ambient locations, yes. Remote co
 
 ## Related guides
 
-- [Hoshizaki E2 error code](/posts/hoshizaki-e2-error-code)
-- [Hoshizaki E3 error code](/posts/hoshizaki-e3-error-code)
-- [Hoshizaki E5 error code](/posts/hoshizaki-e5-error-code)
+- Hoshizaki E2 error code
+- Hoshizaki E3 error code
+- Hoshizaki E5 error code
 - [Best commercial ice machine cleaner buyer's guide](/posts/best-commercial-ice-machine-cleaner)
 - [Best refrigeration multimeter buyer's guide](/posts/best-refrigeration-multimeter)
 - [Best water filtration for commercial ice machines](/posts/best-water-filtration-ice-machines)
-
-## See Also
-
-- [Hoshizaki Ice Machine E7 Error Code — High-Side Pressure Switch Fault Fix](/posts/hoshizaki-e7-pressure-switch/)
-- [Hoshizaki E9 Error Code — Causes & Fix](/posts/hoshizaki-e9-error-code/)
-- [Hoshizaki F1 Error Code — Causes & Fix](/posts/hoshizaki-f1-error-code/)
-- [Hoshizaki Ice Machine E9 Error Code — Compressor Overload Fault Fix](/posts/hoshizaki-e9-error-compressor/)

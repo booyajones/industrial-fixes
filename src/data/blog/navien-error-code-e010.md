@@ -13,11 +13,8 @@ money_part: "Air pressure sensor (APS)"
 most_likely_cause: "Blocked combustion air intake or exhaust vent"
 ---
 
-## Navien Error Code E010 — What It Means
-
+## What this code means
 Navien error code E010 indicates an air pressure sensor (APS) fault. The APS is a differential pressure sensor that monitors the draft produced by the combustion blower to verify adequate airflow before and during combustion. If the measured pressure differential is outside the expected range — either too low (insufficient draft) or reading zero when the fan is running — the unit faults on E010 and shuts down. This fault prevents the unit from firing without proper combustion air, protecting against combustion gas spillage. E010 is common in winter when intake or exhaust vent terminations become blocked.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Navien error code E010 indicates an air pressure sensor (APS) fault. The APS is 
 ## When to Call a Pro
 
 If the vent terminations are clear, the APS hoses are intact, and the blower is running at full speed but E010 persists, the APS calibration or the blower's actual pressure output requires measurement. This requires a manometer and familiarity with Navien's pressure specifications.
-
-## Related Articles
-
-- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
-- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)
-- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
-- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
-- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)
-
-## See Also
-
-- [Navien NCB Combi Boiler Error Codes — Complete Fault Guide](/posts/navien-ncb-error-codes/)
-- [Navien E009 Error Code — Causes & Fix](/posts/navien-error-code-e009/)
-- [Navien NPE-A 016 — Overheat Lockout Fix](/posts/navien-water-heater-error-code-016/)
-- [Navien Error Code E016 — Causes & Fix](/posts/navien-error-code-e016/)

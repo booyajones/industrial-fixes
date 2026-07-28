@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Bosch Dishwasher E18 Error Code — What It Means
-
+## What this code means
 The E18 error code on a Bosch dishwasher indicates a water supply or water inlet flow problem. The machine has detected that too little water is flowing in, or the water level is too low during the fill cycle. This prevents the dishwasher from starting or completing a wash cycle properly.
 
 Bosch's support documentation describes E18 as a water flow issue where the incoming supply is restricted or insufficient. The dishwasher expects approximately 10 liters per minute of flow at the tap when fully open. When flow falls below this threshold due to supply-side restrictions, the control board registers the fault and displays E18.
@@ -25,8 +24,6 @@ Bosch's support documentation describes E18 as a water flow issue where the inco
 ## Before You Replace Anything
 
 Many people replace the water inlet valve inside the dishwasher first. Before spending money on a valve, disconnect the inlet hose at the dishwasher and open the tap into a bucket to verify you get strong flow (about 10 liters per minute). Most E18 faults are upstream of the valve.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

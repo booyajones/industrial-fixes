@@ -54,16 +54,16 @@ Safety valves fail when their solenoid coil weakens or breaks, or when debris bl
 
 If this part is failing you may also see one of these codes:
 
-- [Kitchenaid Oven A6 error code](/posts/kitchenaid-oven-a6-error-code/)
-- [Kitchenaid Oven Ab error code](/posts/kitchenaid-oven-ab-error-code/)
-- [Kitchenaid Oven Cal error code](/posts/kitchenaid-oven-cal-error-code/)
-- [Kitchenaid Oven F6 E0 error code](/posts/kitchenaid-oven-f6-e0-error-code/)
-- [Kitchenaid Oven F6 E1 error code](/posts/kitchenaid-oven-f6-e1-error-code/)
-- [Kitchenaid Oven F6 E2 error code](/posts/kitchenaid-oven-f6-e2-error-code/)
-- [Kitchenaid Oven F6 E3 error code](/posts/kitchenaid-oven-f6-e3-error-code/)
-- [Kitchenaid Oven F6 E4 error code](/posts/kitchenaid-oven-f6-e4-error-code/)
-- [Kitchenaid Oven F6 E5 error code](/posts/kitchenaid-oven-f6-e5-error-code/)
-- [Kitchenaid Oven F6 E6 error code](/posts/kitchenaid-oven-f6-e6-error-code/)
+- Kitchenaid Oven A6 error code
+- Kitchenaid Oven Ab error code
+- Kitchenaid Oven Cal error code
+- Kitchenaid Oven F6 E0 error code
+- Kitchenaid Oven F6 E1 error code
+- Kitchenaid Oven F6 E2 error code
+- Kitchenaid Oven F6 E3 error code
+- Kitchenaid Oven F6 E4 error code
+- Kitchenaid Oven F6 E5 error code
+- Kitchenaid Oven F6 E6 error code
 
 ## When to Call a Pro
 

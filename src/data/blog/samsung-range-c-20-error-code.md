@@ -17,8 +17,7 @@ money_part: "Oven temperature sensor (temperature probe)"
 part_price: "$20-60"
 ---
 
-## Samsung Range C-20 Error Code — What It Means
-
+## What this code means
 The C-20 error code on a Samsung range indicates an oven temperature sensor fault. The control board has detected that the oven sensor is either open (broken circuit) or shorted (resistance too low). Samsung groups C-20, C-21, and C-22 as sensor malfunctions and recommends turning the oven off and restarting, or removing power for 30 seconds or more if the code returns.
 
 In practical terms, the control expects the oven sensor to read between roughly 950 and 2950 ohms. When the sensor drifts outside this range (shorted under 950 ohms or open over 2950 ohms), the C-20 code appears. A working sensor typically measures around 1080 ohms at room temperature. The fault can be the sensor itself, damaged wiring in the sensor harness, or a loose connector.
@@ -26,8 +25,6 @@ In practical terms, the control expects the oven sensor to read between roughly 
 ## Before You Replace Anything
 
 Many people replace the main control board when they see a persistent sensor code. Always measure the sensor resistance and inspect the wiring harness for damage or rodent chewing before replacing any control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

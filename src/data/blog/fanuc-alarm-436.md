@@ -13,11 +13,8 @@ money_part: "Counterbalance cylinder / seals"
 most_likely_cause: "axis counterbalance or weight issue"
 ---
 
-## Fanuc Alarm 436 — What It Means
-
+## What this code means
 Fanuc Alarm 436 indicates a servo following error on the Z-axis — the actual Z-axis position lagged behind the commanded position by more than the allowable error tolerance. The Z-axis carries the spindle on most vertical machining centers, making this alarm particularly impactful: any Z-axis fault stops all cutting. Alarm 436 is the Z-axis equivalent of 414 (X) and 435 (Y).
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Fanuc Alarm 436 indicates a servo following error on the Z-axis — the actual Z
 ## When to Call a Pro
 
 Z-axis mechanical work on VMCs (ballscrew, guideway, counterbalance) requires precision re-leveling and accuracy verification. Fanuc-trained field service is recommended for any Z-axis mechanical repair.
-
-## Related Articles
-
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
-- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
-- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
-
-## See Also
-
-- [Fanuc Alarm 506 — Servo Following Error Fix](/posts/fanuc-alarm-506/)
-- [Fanuc Alarm 360 — APC Alarm Battery Low Causes & Fix](/posts/fanuc-alarm-360/)
-- [Fanuc OT Alarm — Software Overtravel (All Series)](/posts/fanuc-ot-alarm-soft/)
-- [Fanuc Alarm 300: APC Battery Low — Absolute Encoder Battery Fix](/posts/fanuc-alarm-300-apc-battery/)

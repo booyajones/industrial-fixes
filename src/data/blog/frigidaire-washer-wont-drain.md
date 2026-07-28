@@ -19,8 +19,6 @@ When your Frigidaire washer won't drain, the machine often displays an E23 code,
 
 Either way, you'll see standing water in the drum at the end of a cycle. The washer may not advance to spin, or it may try to drain but nothing happens. On some models the pump stays silent, on others you hear a hum but no water movement. Both point to either an electrical fault in the drain pump control or a mechanical blockage in the pump or hose.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Main control board relay failure** The relay on the control board that switches power to the drain pump can fail, preventing the pump from running at all and triggering an E23 code.

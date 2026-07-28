@@ -14,13 +14,10 @@ money_part: "Bradford White gas control valve / ICON or Honeywell-style gas valv
 most_likely_cause: "Pilot valve stuck open"
 ---
 
-## Bradford White 5 Flashes Error Code — What It Means
-
+## What this code means
 When your Bradford White gas water heater displays five flashes followed by a three-second pause on the gas control LED, the control has detected flame when there should not be one. This code is officially listed in Bradford White service manuals as "False pilot flame present." The control is sensing a pilot flame at a time when no burner should be firing, which indicates a malfunction inside the gas valve itself.
 
 The manufacturer identifies the likely cause as a pilot valve stuck in the open position inside the gas control assembly. Because the pilot valve is an internal component of the sealed gas control unit, the official correction for a persistent 5-flash code is to replace the entire gas control. If you look through the combustion chamber sight glass and see a pilot flame burning when the heater is not calling for heat, that confirms the false-flame condition the control is reporting.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

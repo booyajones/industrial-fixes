@@ -19,8 +19,6 @@ When a Frigidaire washer won't turn on, there is no single fault code behind it.
 
 Front-load models may display E41 if the control does not detect the door as locked, or E42 if the washer believes the door is still locked after a cycle should be complete. Top-load units typically have no display at all when power or lock circuits fail. In both cases the washer is either not receiving power or is being held in a safety interlock that prevents the control from waking up.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **No power at the outlet or tripped breaker** The most common cause is loss of incoming power from a tripped circuit breaker, blown fuse, or faulty wall outlet.

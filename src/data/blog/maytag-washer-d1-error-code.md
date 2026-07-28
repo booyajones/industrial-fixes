@@ -17,8 +17,7 @@ money_part: "Main control board"
 part_price: "$15-50"
 ---
 
-## Maytag Washer D1 Error Code — What It Means
-
+## What this code means
 D1 is not a universal Maytag error code you will see on every model. In Maytag and Whirlpool commercial washers, the code F03/d1 specifically indicates a pressure or water-level system fault. The control board is not receiving a valid signal from the pressure-sensing circuit that monitors how much water is in the tub. This fault prevents the washer from filling correctly or advancing through the cycle because the control cannot confirm water level.
 
 The pressure system uses a small air hose connected from the tub to a pressure sensor or switch on the control board. When water fills the tub, air pressure in the hose changes and the sensor reports the level. If the hose is pinched, cracked, blocked with soap scum, or disconnected, or if the sensor itself has failed, the control sees no signal and logs the D1 fault. Wiring problems between the sensor and board, or a failed control board, can also cause this code but are less common.
@@ -26,8 +25,6 @@ The pressure system uses a small air hose connected from the tub to a pressure s
 ## Before You Replace Anything
 
 Many people replace the pressure sensor or control board first. Always inspect and clean the pressure hose and air-trap path before buying any parts, since a clogged or loose hose causes most D1 faults and costs nothing to fix.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

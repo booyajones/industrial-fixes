@@ -17,8 +17,7 @@ free_checks:
   - "Verify all ground wires at the boiler and control are tight and free of corrosion"
 ---
 
-## Weil-McLain Boiler A127 Error Code — What It Means
-
+## What this code means
 A127 does not appear as a standardized fault code across all Weil-McLain boilers. Weil-McLain uses model-specific diagnostics, and the same code number can mean different things depending on your boiler's control type and generation. The manufacturer emphasizes consulting your exact model's manual and fault-history table rather than guessing.
 
 If your display shows A127 during an ignition or lockout event, the practical causes are the same as other ignition-path faults on Weil-McLain units: no gas flow, dirty or failed flame sensor, failed igniter, air-switch problems, poor grounding, or a faulty integrated control board. Record the stored fault code from the diagnostics menu and cross-reference it in your boiler's installation and operation manual to confirm what A127 means for your specific model.
@@ -26,8 +25,6 @@ If your display shows A127 during an ignition or lockout event, the practical ca
 ## Before You Replace Anything
 
 Many people replace the control board first when the real cause is a dirty flame sensor or loose ground connection. Clean the flame sensor with fine steel wool and verify all ground wires are tight before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician if you are not comfortable working with gas appliances, if you cannot locate your model's manual and fault-code table, or if the boiler continues to lock out after you have cleaned the flame sensor and verified gas supply. A technician has the tools to measure flame-signal microamps, test gas-valve voltage and continuity, check air-switch proving pressure, and safely replace the control board when upstream components pass inspection. Gas work and combustion diagnostics carry safety and code-compliance risks that require training and licensing in most jurisdictions.
 
 **Rough cost:** A pro service call runs about $150-400 depending on the failed part and service call.
-
-## See Also
-
-- [Weil-McLain A136 Error - Causes & Fix](/posts/weil-mclain-boiler-a136-error-code/)
-- [Weil-McLain A125 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a125-error-code/)
-- [Weil-McLain A165 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a165-error-code/)
-- [Weil-McLain Boiler Error Code E01 — Lockout Fix](/posts/weil-mclain-e01-error-code/)

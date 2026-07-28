@@ -17,8 +17,7 @@ money_part: "Samsung Dishwasher User-Interface Panel (UI Assembly)"
 part_price: "$50-150"
 ---
 
-## Samsung Dishwasher bE Error Code — What It Means
-
+## What this code means
 The bE error code (sometimes shown as 6E) is a button error. It signals that the control board has detected a stuck button or believes one of the keypad or touch-panel buttons is being pressed continuously. The dishwasher's user-interface logic sees an input that should not be present, usually from the control panel buttons or the user-interface assembly.
 
 Samsung's official support page lists bE and 6E under "Button error" with the issue "Stuck button detected." The dishwasher will typically not start or complete a cycle until the fault is cleared.
@@ -26,8 +25,6 @@ Samsung's official support page lists bE and 6E under "Button error" with the is
 ## Before You Replace Anything
 
 Many people replace the main control board when only the user-interface panel or keypad membrane is at fault. Before ordering expensive electronics, clean the panel thoroughly and test each button for travel and responsiveness.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

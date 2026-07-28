@@ -13,13 +13,10 @@ money_part: "Carrier indoor coil tube sensor (thermistor)"
 most_likely_cause: "Failed tube sensor or thermistor"
 ---
 
-## Carrier Error Code 18 — What It Means
-
+## What this code means
 Error code 18 on Carrier ductless and mini-split systems most commonly indicates a temperature sensor fault. The exact definition depends on your model family, so always verify the fault table in your indoor unit's service manual. In field cases, code 18 has been traced to the tube sensor reading out of range, typically due to a failed thermistor, damaged wiring, or poor sensor contact on the coil pipe.
 
 Carrier uses different fault code sets across product lines, so a code number alone is not universal. The fault usually involves a sensor circuit problem rather than a compressor or refrigerant issue. The control board detects an abnormal resistance or voltage from the sensor and shuts down or limits operation to protect the system.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ Carrier uses different fault code sets across product lines, so a code number al
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you cannot locate the service manual or fault table for your model, if you are uncomfortable working with live electrical components, or if the sensor tests within specification but the fault persists. A pro has factory thermistor tables, the correct OEM sensor part numbers, and the tools to diagnose board-level input failures. If the system has refrigerant piping nearby or the repair requires opening sealed connections, professional service is required to handle refrigerant safely and legally.
-
-## See Also
-
-- [Carrier 44 Error Code — Causes & Fix](/posts/carrier-44-error-code/)
-- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
-- [Carrier 58CVA Furnace Error Codes — Fault Code Diagnostic Guide](/posts/carrier-58cva-error-codes/)
-- [Carrier Error Code 17 - Causes & Fix](/posts/carrier-error-code-17/)

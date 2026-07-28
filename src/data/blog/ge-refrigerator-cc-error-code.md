@@ -16,15 +16,12 @@ diy_or_pro: "diy"
 money_part: "GE refrigerator condenser coil brush"
 ---
 
-## GE Refrigerator CC Error Code — What It Means
-
+## What this code means
 The CC code on a GE refrigerator most commonly signals a "Check Controls" warning, meaning the control system has detected that one or both compartments have stayed above target temperature long enough to indicate a cooling problem. On some GE model families, CC instead indicates a "Compressor Control Problem," where the main board cannot properly operate the compressor. Because the exact definition varies by platform, always confirm your model number and consult the wiring diagram or owner's manual. Regardless of the specific label, CC is a cooling-performance fault that requires diagnosis of the control system, compressor circuit, or airflow path rather than a simple sensor glitch.
 
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first. Before ordering any board, verify that the condenser coils are clean, all fans run when they should, and the door gaskets seal completely. Many CC codes clear once airflow or door problems are fixed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

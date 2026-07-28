@@ -19,8 +19,6 @@ A Kenmore refrigerator making loud noise is not a fault code. It is a symptom th
 
 If the noise stops when you open the freezer door, the evaporator fan or ice buildup around the fan blade is the usual suspect. If the noise comes from the back or bottom near the compressor, check the condenser fan, compressor grommets, or fan debris. Grinding during door movement points to door cams or hinges. Buzzing during ice or water fill points to the water inlet valve.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Evaporator fan motor worn bearings** Worn bearings in the evaporator fan motor cause squeaking, grinding, or buzzing that often stops when the freezer door opens.

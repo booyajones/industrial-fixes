@@ -13,13 +13,10 @@ money_part: "Replacement wiring harness or terminal block connector"
 most_likely_cause: "Excessive current draw from connected load"
 ---
 
-## Danfoss FC302 VFD Alarm 41 — What It Means
-
+## What this code means
 Alarm 41 on the Danfoss VLT FC 302 indicates an overload of digital output terminal 29. This fault means the terminal is drawing too much current, either from an excessive load, a short circuit in the connected wiring, or incorrect configuration settings. Terminal 29 is a programmable digital output, and the drive's protection circuitry has detected current beyond its safe operating range.
 
 The alarm is specifically tied to terminal 29 and does not indicate a motor or main power issue. Most occurrences trace to external wiring problems or devices connected to that terminal that exceed its capacity. Once the overload condition is removed and the alarm is reset, normal operation typically resumes if no internal drive damage has occurred.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ The alarm is specifically tied to terminal 29 and does not indicate a motor or m
 ## When to Call a Pro
 
 Call a qualified technician or Danfoss service provider if the alarm continues after you have disconnected the load, verified wiring integrity, and confirmed correct parameter settings. Persistent Alarm 41 with no external cause points to internal damage on the drive's control board, which requires specialized diagnostic tools, board-level repair skill, and access to OEM replacement parts. If your application is critical or you are unfamiliar with VFD parameter programming, professional support is recommended from the start to avoid extended downtime or further equipment damage.
-
-## See Also
-
-- [Danfoss FC302 Alarm 51 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-51-fault-code/)
-- [Danfoss FC302 Alarm 32 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-32-fault-code/)
-- [Danfoss FC102 VLT HVAC Drive Fault Codes — Complete Diagnostic Reference](/posts/danfoss-fc102-fault-codes/)
-- [Danfoss FC302 Alarm 21 - Causes & Fix](/posts/danfoss-fc302-alarm-21-fault-code/)

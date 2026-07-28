@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "KitchenAid Range Main Control Board (Electronic Oven Control)"
 ---
 
-## KitchenAid Range F9 Error Code — What It Means
-
+## What this code means
 KitchenAid defines F9 or F9 E0 on electric ranges and wall ovens as a detected incoming power supply problem. The control has sensed either miswired home electrical supply at the hard-wire connection or an incorrect voltage or line noise condition, often during or after a power interruption. KitchenAid specifically warns that the electrical outlet or terminal block may be miswired, with L2 and N swapped on the connection.
 
 This is not a temperature sensor fault. The code points to the supply side: branch circuit wiring, the terminal block at the back of the range, or transient voltage events from the utility. If the range was recently installed, KitchenAid advises calling a qualified electrician to verify the electrical supply before any appliance repair.
@@ -25,8 +24,6 @@ This is not a temperature sensor fault. The code points to the supply side: bran
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when F9 appears, but KitchenAid's own guidance says to verify supply wiring and the terminal block connection first. An electrician can confirm correct L2 and N landing in minutes and avoid a needless $200+ board swap.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

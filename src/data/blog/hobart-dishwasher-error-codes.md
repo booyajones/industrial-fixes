@@ -27,8 +27,6 @@ Hobart commercial dishwashers (AM15, CLeN, UW50, and FOSS series undercounters, 
 | E7 | Door switch fault | Medium |
 | E8 | Detergent dispensing fault | Low |
 
-[Jump to Fix](#fix)
-
 ## Most Common Hobart Dishwasher Codes and Fixes {#fix}
 
 ### E1 / E2 — Temperature Faults
@@ -72,7 +70,6 @@ Compiled from manufacturer service manuals and authorized documentation.
 | Clear Conveyor Jam | On CL and CLe conveyor/flight-type machines, indicates the conveyor is jammed or something is blocking its movement. (Confirmed against reputable foodservice sources; not located in an OEM manual.) | A rack or utensil is obstructing the conveyor's travel. | Open the doors, remove the jammed rack or utensil, then restart or resume conveyor operation. |
 | Probe Err - TANK / Probe Error - FnlRns | On CL/CLe machines: 'Probe Err - TANK' means a wash-tank sensor is not reading correctly; 'Probe Error - FnlRns' indicates a water-supply issue detected during the final rinse. (Confirmed against reputable foodservice sources; not located in an OEM manual.) | TANK: a fouled or failed tank level sensor, or insufficient tank water. FnlRns: low water to the booster/final rinse or a closed incoming water valve. | For TANK, check and clean the tank level sensor and confirm adequate water. For FnlRns, confirm the incoming water valve to the booster is open. If the error persists, contact authorized Hobart service. |
 
-
 ## How to troubleshoot Hobart Dishwasher
 
 Hobart's fault behavior differs by product family, so identify your series first: LXi/LXiG and AM Select undercounters show short codes (E0/E2/E3/E4 fill, E5 drain, E6 service-required drain/fill fault, CL/Pr overfill-leak or water-level-probe fault, P1-P3 temperature probe). LXe undercounters show plain-text alerts (FILL ERROR, DRAIN ERROR, WASH ARM ALERT, LOW RINSE TEMP). CL/CLe conveyor and flight machines show text prompts (Clear Conveyor Jam, Probe Err - TANK). Newer LXn/LXGn and Ecomax units use numeric codes. A code that means "fill" on one family can be an unrelated number on another, so never map a code across series.
@@ -82,7 +79,6 @@ Start with the cheap, common causes before assuming a board or sensor failure. T
 For temperature and sanitizing problems (low final-rinse temp, P-codes, LOW RINSE TEMP), verify the incoming hot water temperature and that the booster heater and its thermostat are working. Critical safety point: if final rinse never reaches the sanitizing setpoint, dishes are not sanitized. Pull them and re-sanitize rather than trusting a warm-looking cycle, and treat a persistent low-rinse-temp alert as a food-safety issue, not a nuisance. A P1/P2/P3 fault shuts off the affected heater while the machine keeps washing, so the load can run cold - verify sanitizing temperatures until it is repaired.
 
 A soft reset clears many transient faults: put the machine in standby, wait about 60 seconds, then power it back up. Call an authorized Hobart service agent when a code returns immediately after a reset, when the fault involves the control board or temperature sensors that need replacement (E6 and P-codes are routed to service), or for any high-voltage booster/heater element work. Element and sealed-electrical repairs are pro-only.
-
 
 ## Frequently asked questions
 
@@ -106,11 +102,9 @@ Place the machine in standby, wait about 60 seconds, then turn it back on. This 
 
 In hard-water areas, limescale on the water-level probes and heaters is the leading cause of repeat fill, overfill, and sensor faults. Delime on the schedule your manual specifies (the machine may prompt you when a delime is due). Regular deliming and probe cleaning prevents most recurring E-series and probe errors.
 
-
 ## Related guides
 
 - [Frymaster Fryer Error Codes](/posts/frymaster-fryer-error-codes/)
 - [Manitowoc Indigo Nxt Complete Guide](/posts/manitowoc-indigo-nxt-complete-guide/)
 - [Rational Combi Oven Error Codes](/posts/rational-combi-oven-error-codes/)
-- [Icombi Classic E01 Error](/posts/icombi-classic-e01-error/)
-
+- Icombi Classic E01 Error

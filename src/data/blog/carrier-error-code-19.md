@@ -13,13 +13,10 @@ money_part: "Carrier slave thermostat"
 most_likely_cause: "Incorrect device addressing"
 ---
 
-## Carrier Error Code 19 — What It Means
-
+## What this code means
 Carrier error code 19 is not a universal fault across all Carrier equipment. In Carrier communicating control systems, code 19 is listed as "Does Not Apply to Slave Thermostat," meaning it signals a communication or configuration problem specific to certain thermostat and control architectures. The exact meaning depends on your model and control platform, because Carrier uses different fault numbering schemes across furnace, AC, and communicating system product lines.
 
 For systems that do display code 19, the fault typically points to incorrect device configuration, faulty wiring on the communication bus, or a defective component in the slave thermostat wiring path. Carrier's own troubleshooting documentation ties this code to communication-related issues rather than mechanical or refrigerant failures.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -52,10 +49,3 @@ For systems that do display code 19, the fault typically points to incorrect dev
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you are not familiar with communication bus architecture, device addressing, or multi-device troubleshooting. Communication faults in Carrier systems often require specialized diagnostic tools, knowledge of proprietary protocols, and access to model-specific configuration tables that are not published in homeowner manuals. A licensed tech can also verify that your system actually uses code 19 in the first place, because many Carrier platforms do not, and misinterpreting the fault can lead to unnecessary part replacements or unsafe wiring changes.
-
-## See Also
-
-- [Carrier Error Code 27 - Causes & Fix](/posts/carrier-error-code-27/)
-- [Carrier Error Code 56 — IFC Fault (Induced Draft Motor)](/posts/carrier-56-error-code/)
-- [Carrier 52 Error Code — Causes & Fix](/posts/carrier-52-error-code/)
-- [Carrier Furnace Error Codes — Complete Guide](/posts/carrier-furnace-error-codes/)

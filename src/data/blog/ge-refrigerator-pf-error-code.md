@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "GE refrigerator power cord"
 ---
 
-## GE Refrigerator PF Error Code — What It Means
-
+## What this code means
 PF on a GE refrigerator stands for power failure or power interruption. The control board detected that the appliance lost its power supply or experienced a voltage disturbance. This code is typically a stored alert rather than a fault in the cooling system itself. It usually appears after a utility outage, a tripped breaker, a loose plug, or another brief electrical disruption. The refrigerator may still be cooling normally once power is restored.
 
 Unlike component faults, PF does not point to a failed compressor, fan, or sealed-system part. Instead, it tells you the unit saw an interruption in its supply voltage. If PF appears once after a known outage and clears without returning, no repair is needed. If the code returns repeatedly, the problem may be an unstable household circuit, a damaged power cord, or an internal control board issue rather than a temporary power loss.
@@ -25,8 +24,6 @@ Unlike component faults, PF does not point to a failed compressor, fan, or seale
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board thinking PF means a board failure, when the real cause is often a loose plug or tripped breaker that costs nothing to fix.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

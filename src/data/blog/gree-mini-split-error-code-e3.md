@@ -13,11 +13,8 @@ money_part: "Indoor air filter"
 most_likely_cause: "Refrigerant leak"
 ---
 
-## Gree Mini Split E3 Error Code — What It Means
-
+## What this code means
 E3 on a Gree mini split indicates low pressure protection. The system detected that suction-side refrigerant pressure dropped below the safety threshold, causing the low-pressure switch to open and shut down the compressor. Low pressure typically means there is not enough refrigerant in the system, airflow across the evaporator is severely restricted, or the expansion valve is malfunctioning. The unit will not restart until pressure is restored and the fault is cleared.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,11 +44,3 @@ E3 on a Gree mini split indicates low pressure protection. The system detected t
 ## When to Call a Pro
 
 Refrigerant leak detection, recharging, and EEV replacement require EPA Section 608 certification and specialized equipment. Call a licensed HVAC technician for any diagnosis that goes beyond cleaning filters and clearing ice.
-
-## Related Articles
-
-- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
-- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
-- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
-- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
-- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)

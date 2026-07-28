@@ -20,8 +20,7 @@ free_checks:
 part_price: "$20-50"
 ---
 
-## Daikin J6 Error Code — What It Means
-
+## What this code means
 The J6 error code on a Daikin mini split signals a malfunction of the outdoor heat exchanger thermistor (temperature sensor) or a problem in its connection circuit. The outdoor unit control board detects an incorrect resistance value from the sensor (often labeled R4T in service manuals), which monitors the outdoor coil temperature. When this sensor fails or disconnects, the system cannot accurately control refrigerant temperature or detect freeze-up conditions, so it stops operation to prevent damage.
 
 This fault points specifically to the outdoor coil sensor, not the indoor unit or other thermistors. The control board expects a resistance value in a specific range (typically around 10 kΩ at 25°C for many Daikin models, but consult your model's service manual). If it reads zero ohms (shorted), infinite resistance (open), or an out-of-range value, the J6 code appears.
@@ -29,8 +28,6 @@ This fault points specifically to the outdoor coil sensor, not the indoor unit o
 ## Before You Replace Anything
 
 Some technicians replace the outdoor PCB first when the thermistor itself is the problem. Always test the thermistor resistance with a multimeter and warm it with your hand to confirm it changes value before ordering a new control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician if you are not comfortable working with the outdoor unit, if you do not own a multimeter or have no experience testing electrical components, or if the thermistor tests good and the fault points to the outdoor PCB. Refrigerant-system work and control-board replacement require EPA certification and specialized tools. A technician will test the sensor, verify wiring continuity, and replace the correct component. If you replace the thermistor yourself and the error persists, professional diagnostics of the PCB are needed to avoid unnecessary parts swaps.
 
 **Rough cost:** A pro service call runs about $150-300.
-
-## See Also
-
-- [Daikin VRV System Error Codes: Complete Guide](/posts/daikin-vrv-error-codes/)
-- [Daikin H9 Error Code - Causes & Fix](/posts/daikin-heat-pump-h9-error-code/)
-- [Daikin U0 Error Code - Causes & Fix](/posts/daikin-heat-pump-u0-error-code/)
-- [Daikin A7 Error Code - Causes & Fix](/posts/daikin-mini-split-a7-error-code/)

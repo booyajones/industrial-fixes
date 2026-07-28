@@ -53,7 +53,7 @@ The switch can fail electrically due to normal wear, corrosion, or a broken inte
 
 If this part is failing you may also see one of these codes:
 
-- [Ge Washer E23 error code](/posts/ge-washer-e23-error-code/)
+- Ge Washer E23 error code
 
 ## When to Call a Pro
 

@@ -20,8 +20,6 @@ When a Trane furnace igniter is not working, the control system has called for h
 
 On Trane and American Standard fault codes, an igniter problem points to either a bad igniter or gas valve. A separate fault category, ignition proving failure or failed to sense flame, means the furnace tried to light but did not detect flame. If the unit uses a hot-surface igniter, the problem is usually an open, cracked, contaminated, or unpowered igniter element. If the unit has a standing pilot, the pilot and gas supply must be checked instead.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed hot-surface igniter** The silicon carbide or silicon nitride element cracks, opens, or fails with age and is the most common single cause.
@@ -55,18 +53,11 @@ On Trane and American Standard fault codes, an igniter problem points to either 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Trane Furnace 2 Flashes error code](/posts/trane-furnace-2-flashes-error-code/)
-- [Trane Furnace 3 Flashes error code](/posts/trane-furnace-3-flashes-error-code/)
-- [Trane Furnace 4 Flashes error code](/posts/trane-furnace-4-flashes-error-code/)
-- [Trane Furnace 5 Flashes error code](/posts/trane-furnace-5-flashes-error-code/)
+- Trane Furnace 2 Flashes error code
+- Trane Furnace 3 Flashes error code
+- Trane Furnace 4 Flashes error code
+- Trane Furnace 5 Flashes error code
 
 ## When to Call a Pro
 
 Call a qualified HVAC technician for any work involving the igniter circuit, gas valve, or burner assembly. Gas furnace ignition and combustion diagnostics require specific voltage, continuity, and gas pressure measurements that must match your exact furnace model's specifications. A technician will also verify proper venting, pressure switch operation, and flame sensing to prevent unsafe conditions or repeat failures. If you are not trained in gas appliance repair, do not attempt to replace the igniter, gas valve, or control board yourself. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Trane YSC Packaged Rooftop Error Codes — Fault Code Diagnostic Guide](/posts/trane-ysc-error-codes/)
-- [Trane 5 Flashes Error Code — Causes & Fix](/posts/trane-5-flashes-error-code/)
-- [Trane XR80 Blinking Yellow Light Codes - Causes & Fix](/posts/trane-xr80-blinking-yellow-light-codes-meaning/)
-- [Trane 9 Flashes Error Code — Causes & Fix](/posts/trane-9-flashes-error-code/)

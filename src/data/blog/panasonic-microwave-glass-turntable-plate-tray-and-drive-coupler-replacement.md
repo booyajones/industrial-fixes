@@ -55,14 +55,14 @@ The coupler is plastic and wears down over time. The teeth can round off, crack,
 If this part is failing you may also see one of these codes:
 
 - [Panasonic Microwave E01 error code](/posts/panasonic-microwave-e01-error-code/)
-- [Panasonic Microwave E02 error code](/posts/panasonic-microwave-e02-error-code/)
-- [Panasonic Microwave H97 error code](/posts/panasonic-microwave-h97-error-code/)
+- Panasonic Microwave E02 error code
+- Panasonic Microwave H97 error code
 - [Panasonic Microwave H98 error code](/posts/panasonic-microwave-h98-error-code/)
 - [Panasonic Microwave H99 error code](/posts/panasonic-microwave-h99-error-code/)
-- [Panasonic Microwave U12 error code](/posts/panasonic-microwave-u12-error-code/)
-- [Panasonic Microwave U13 error code](/posts/panasonic-microwave-u13-error-code/)
+- Panasonic Microwave U12 error code
+- Panasonic Microwave U13 error code
 - [Panasonic Microwave U14 error code](/posts/panasonic-microwave-u14-error-code/)
-- [Panasonic Microwave U15 error code](/posts/panasonic-microwave-u15-error-code/)
+- Panasonic Microwave U15 error code
 - [Panasonic Microwave U17 error code](/posts/panasonic-microwave-u17-error-code/)
 
 ## When to Call a Pro

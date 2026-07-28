@@ -17,8 +17,7 @@ money_part: "LG refrigerator temperature sensor / thermistor (fresh-food / R1)"
 part_price: "$15-40"
 ---
 
-## LG Refrigerator rS Error Code — What It Means
-
+## What this code means
 The rS code on an LG refrigerator indicates a fault in the refrigerator-side temperature detection system. LG identifies this as a problem with the fresh-food compartment sensor (the R1 thermistor in the upper refrigerator section). The fault means the main control board has detected either a short circuit or an open circuit in the sensor wiring or the sensor itself. When the control board loses valid temperature feedback from the refrigerator compartment, it cannot regulate cooling properly and appliance performance drops.
 
 This code points specifically to the sensor circuit rather than the compressor, fan, or defrost system. The sensor may be physically intact but disconnected, or the thermistor element inside may have failed and reads out of range. Less commonly, the circuit fault can be at the control-board connector or in a damaged wire along the harness.
@@ -26,8 +25,6 @@ This code points specifically to the sensor circuit rather than the compressor, 
 ## Before You Replace Anything
 
 Many people replace the main control board when the real fault is a $15 sensor or a loose connector pin. Always test the sensor harness for continuity and inspect both ends of the connector before ordering a control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a professional if you cannot locate the refrigerator sensor behind interior panels, if you are uncomfortable working with a multimeter to test resistance, or if replacing the sensor does not clear the rS code. A technician can trace the harness for hidden breaks, verify control-board inputs with diagnostic software, and address any related defrost or airflow issues that may contribute to sensor failures. Also call a pro if the refrigerator compartment shows heavy frost buildup or airflow blockage that suggests a secondary defrost fault requiring evaporator removal.
 
 **Rough cost:** DIY runs about $15-40 in parts, 30-60 min. A pro service call runs about $150-250 including service call and sensor.
-
-## See Also
-
-- [LG Dishwasher Won't Latch - Causes & Fix](/posts/lg-dishwasher-wont-latch/)
-- [LG Washer Won't Agitate - Causes & Fix](/posts/lg-washer-wont-agitate/)
-- [LG DLEX4000W Dryer Problems & Error Codes](/posts/lg-dlex4000w-dryer-problems/)
-- [LG Refrigerator rT Error Code - Causes & Fix](/posts/lg-refrigerator-rt-error-code/)

@@ -16,15 +16,12 @@ money_part: "User interface assembly or touch panel"
 part_price: "$60-150"
 ---
 
-## Frigidaire ER Error Code — What It Means
-
+## What this code means
 The ER code on a Frigidaire dishwasher signals a membrane switch failure or stuck-key fault. The control board detects that one or more buttons on the user interface appear stuck, continuously closed, or not responding correctly. In practice, this code points to a problem in the control panel itself, the user interface assembly, or the electronic control board that reads the keypad signals. The fault can be a physical issue like a button jammed down by residue or moisture, a failing membrane switch, or an internal fault in the touch panel or main board. It is not a drain, fill, or sensor code. The root cause usually lies in the user interface-to-control-board path.
 
 ## Before You Replace Anything
 
 Many homeowners replace the main control board first when ER appears. Before ordering a board, hard-reset the machine and press each button individually to check for stuck keys or physical damage on the touch panel, since a failed keypad is more common and less expensive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,11 +13,8 @@ money_part: "Indoor DC fan motor"
 most_likely_cause: "Failed indoor fan motor (DC brushless)"
 ---
 
-## Fujitsu Mini Split E3 Error Code — What It Means
-
+## What this code means
 Fujitsu mini split error code E3 indicates a fan motor fault on the indoor unit. The indoor unit's fan motor has either failed to start, stalled, or the control board detected an abnormal fan speed signal from the Hall effect sensor integrated into the motor. Fujitsu uses DC brushless fan motors on most current models, and these motors report speed feedback directly to the PCB. When the reported speed is zero or outside the expected range, the system shuts down to prevent operating without indoor airflow — which would cause the evaporator coil to ice over.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,11 +41,3 @@ Fujitsu mini split error code E3 indicates a fan motor fault on the indoor unit.
 ## When to Call a Pro
 
 On multi-zone systems with combined indoor/outdoor PCBs, E3 diagnosis may require Fujitsu service software to isolate the specific zone. If the fan motor replacement doesn't clear the fault, a Fujitsu-authorized technician with diagnostic tools can read live sensor data to confirm the PCB is the cause.
-
-## Related Articles
-
-- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
-- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
-- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
-- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
-- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)

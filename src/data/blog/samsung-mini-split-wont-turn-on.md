@@ -19,8 +19,6 @@ When a Samsung mini split won't turn on, you're dealing with a symptom, not a sp
 
 Without a displayed error code on the indoor unit, this is a no-power or no-response condition. The indoor unit may be completely dark and unresponsive, or the indoor head might power up but the outdoor compressor never starts. Both scenarios fall under the same broad symptom and require a methodical check of the power path and control chain.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Tripped breaker or blown fuse** The dedicated circuit breaker has tripped or a fuse in the disconnect has blown, cutting all power to the mini split.
@@ -54,10 +52,10 @@ Without a displayed error code on the indoor unit, this is a no-power or no-resp
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Samsung Mini Split E1 01 error code](/posts/samsung-mini-split-e1-01-error-code/)
-- [Samsung Mini Split E3 01 error code](/posts/samsung-mini-split-e3-01-error-code/)
-- [Samsung Mini Split E4 01 error code](/posts/samsung-mini-split-e4-01-error-code/)
-- [Samsung Mini Split E5 01 error code](/posts/samsung-mini-split-e5-01-error-code/)
+- Samsung Mini Split E1 01 error code
+- Samsung Mini Split E3 01 error code
+- Samsung Mini Split E4 01 error code
+- Samsung Mini Split E5 01 error code
 
 ## When to Call a Pro
 

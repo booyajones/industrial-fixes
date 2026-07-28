@@ -20,8 +20,7 @@ free_checks:
 part_price: "$40-80"
 ---
 
-## Weil-McLain A18 Error Code — What It Means
-
+## What this code means
 The A18 or E18 fault on a Weil-McLain boiler is a high outlet water temperature lockout. The boiler has detected that the supply water temperature exceeded the manual's limit of 210°F and has shut down to protect itself from damage. This is an overheating event, not a sign the boiler itself is defective. In practice, the cause is usually a failed or misreading temperature sensor, poor water circulation through the heat exchanger, or a control issue that allows heat to build up faster than it can be carried away. The boiler will remain locked out until the root cause is corrected and the fault is cleared.
 
 This fault is distinct from normal operating temperature swings. It indicates the control board received a signal (or lost a proper signal) that suggested dangerously high outlet water. The most common culprits are the supply temperature sensor itself, loose or corroded wiring at the sensor or control board, and a circulator pump that is not moving water properly during a call for heat.
@@ -29,8 +28,6 @@ This fault is distinct from normal operating temperature swings. It indicates th
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board when the real problem is a bad supply sensor or a stuck circulator pump. Swap the supply and return sensors (if your model allows) or check pump operation before replacing any expensive electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a qualified boiler technician whenever the A18 fault returns after checking wiring and resetting the boiler. Proper diagnosis requires comparing sensor resistance values to the manufacturer's table, verifying control board inputs with a multimeter, and testing circulator pump performance under load. Gas-fired boilers also carry combustion and venting risks, so sensor replacement and control board work should be performed by a licensed technician. If you are not comfortable working around 120V wiring, high-temperature water, or gas piping, schedule a service call rather than attempting the repair yourself.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain A02 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a02-error-code/)
-- [Weil-McLain Code 3 — Low Water Cutoff Fix](/posts/weil-mclain-error-code-3/)
-- [Weil-McLain Boiler A62 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a62-error-code/)
-- [Weil-McLain A29 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a29-error-code/)

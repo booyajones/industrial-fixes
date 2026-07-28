@@ -16,15 +16,12 @@ money_part: "Samsung washer control panel assembly"
 part_price: "$50-150"
 ---
 
-## Samsung bE Error Code — What It Means
-
+## What this code means
 The bE error code on a Samsung washing machine is a button error. The control panel detects that one of the buttons is stuck, held down, or otherwise malfunctioning. The washer sees an input as continuously pressed or invalid at the user-interface level. On some Samsung models, the related bE2 or 8E2 code can indicate either a Mems vibration sensor fault or a jammed button, depending on the specific model, so always check your owner's manual to confirm which system is triggering the code on your unit.
 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the entire control board assembly when only a single stuck button or debris around the button edges is at fault. Before ordering parts, press and release every button on the panel and clean around the bezels to see if the code clears.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

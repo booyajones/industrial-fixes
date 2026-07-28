@@ -13,13 +13,10 @@ money_part: "ABB ACS580 Control Keypad (ACS-AP)"
 most_likely_cause: "Incomplete fault code reading"
 ---
 
-## ABB ACS580 B1 Fault Code — What It Means
-
+## What this code means
 The code 'B1' does not appear in ABB's official ACS580 fault documentation. ABB ACS580 drives display faults using numeric codes or full text alarm names, not single letter-number combinations like B1. This code may be a partial display reading, a shorthand notation from equipment logs, or a misread segment of a longer fault message. Without the complete fault text or numeric code from the drive's control panel, it is impossible to determine the actual fault condition or recommend specific repairs.
 
 To proceed with diagnosis, you must access the ACS580 keypad or control interface and note the full fault message exactly as displayed. Common ACS580 faults include overcurrent, earth fault, DC link undervoltage, input phase loss, motor overtemperature, and communication errors. Each has a distinct troubleshooting path. Attempting repairs based on an unverified code can waste time and damage components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ To proceed with diagnosis, you must access the ACS580 keypad or control interfac
 ## When to Call a Pro
 
 Call a qualified ABB service technician or authorized distributor if you cannot locate the full fault code on the drive display, if the drive does not power on or respond to keypad input, or if the actual fault involves DC bus components, power module replacement, or internal control board diagnostics. Professional support is also recommended if you are unfamiliar with variable frequency drive lockout and high-voltage safety procedures, or if the drive is still under warranty and unauthorized repairs would void coverage.
-
-## See Also
-
-- [ABB ACS550 EFB3 Fault - Causes & Fix](/posts/abb-acs550-efb3-fault-code/)
-- [ABB ACS880 Complete Fault Code Guide — All Faults and Fixes](/posts/abb-acs880-complete-guide/)
-- [ABB ACS580 A2A1 - Causes & Fix](/posts/abb-acs580-a2a1-fault-code/)
-- [ABB ACS880 Fault 2310 - Overcurrent Diagnosis and Fix](/posts/abb-acs880-fault-2310/)

@@ -22,8 +22,7 @@ part_price: "$40-75"
 no_buy_pct: "65%"
 ---
 
-## Bosch E36 Error Code — What It Means
-
+## What this code means
 The Bosch E36 or E36-10 error code signals a drainage fault. The washer is not emptying water within the expected time frame. Bosch owner support identifies this as a blocked drain pipe or water outlet hose preventing normal water evacuation.
 
 Technician guidance treats E36-10 as a failure to drain or empty water, not a spin cycle or door lock issue. The fault typically points to a blockage in the hydraulic path (filter, hose, or external drain) or a failure in the drain pump circuit that is supposed to move water out of the machine.
@@ -31,8 +30,6 @@ Technician guidance treats E36-10 as a failure to drain or empty water, not a sp
 ## Before You Replace Anything
 
 Many people replace the drain pump without checking the hydraulic path first. Clean the pump filter, inspect the sump hose for debris, and verify the external drain outlet is clear before buying any pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

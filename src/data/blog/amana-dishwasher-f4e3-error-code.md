@@ -17,8 +17,7 @@ likelihood: "the most commonly cited direct cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Dishwasher F4E3 Error — What It Means
-
+## What this code means
 The F4E3 code on your Amana dishwasher signals a communication problem between the electronic control board and the circulation pump or wash motor. In practical terms, the control is not detecting that the wash motor is operating as expected. You will usually see this fault when the dishwasher fills with water but then fails to begin the wash cycle, or when the fault appears immediately at the moment the wash motor should start. Amana's official first service step is to disconnect power for 30 seconds to reset the control and see if the fault clears.
 
 This code is specific to Whirlpool-family dishwashers (Amana is part of that platform). It does not mean the drain system is blocked. Instead, it points to a failure in the motor itself, a broken or corroded wire between the control and the pump, or a control board that can no longer drive or read the pump circuit correctly.
@@ -26,8 +25,6 @@ This code is specific to Whirlpool-family dishwashers (Amana is part of that pla
 ## Before You Replace Anything
 
 Many owners replace the electronic control board first. Check all wiring connectors between the control and the pump for corrosion or loose pins, and listen for pump noise during a test cycle, before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

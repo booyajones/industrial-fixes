@@ -19,8 +19,6 @@ A Samsung dryer that won't stop describes a runaway cycle where the drum keeps t
 
 If no code appears on the display, the symptom is investigated as a possible stuck start input, door switch fault, or wiring short to the cabinet. Samsung troubleshooting starts with control reset, door latch inspection, and harness checks before replacing any components.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Stuck or shorted start control input** A shorted button on the user interface or a stuck relay on the control board can hold the dryer in run mode continuously.
@@ -62,7 +60,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Samsung Dryer Be error code](/posts/samsung-dryer-be-error-code/)
 - [Samsung Dryer Be2 error code](/posts/samsung-dryer-be2-error-code/)
 - [Samsung Dryer C1 error code](/posts/samsung-dryer-c1-error-code/)
-- [Samsung Dryer C2 error code](/posts/samsung-dryer-c2-error-code/)
+- Samsung Dryer C2 error code
 - [Samsung Dryer C8 error code](/posts/samsung-dryer-c8-error-code/)
 - [Samsung Dryer C80 error code](/posts/samsung-dryer-c80-error-code/)
 

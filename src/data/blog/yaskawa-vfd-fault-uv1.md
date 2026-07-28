@@ -13,11 +13,8 @@ money_part: "Input fuses (semiconductor type)"
 most_likely_cause: "Momentary power interruption"
 ---
 
-## Yaskawa VFD Fault UV1 — What It Means
-
+## What this code means
 Yaskawa fault UV1 means main circuit undervoltage — the DC bus voltage dropped below the low-voltage detection level during operation. On Yaskawa V1000, A1000, and GA700 drives, UV1 is a protective shutdown that occurs when input voltage is lost or drops significantly during operation. Unlike UV2 (control power undervoltage) or UV3 (soft-charge circuit fault), UV1 specifically indicates the main power circuit lost its voltage source. The drive can't maintain motor control with insufficient DC bus voltage, so it trips cleanly rather than allow uncontrolled deceleration.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Yaskawa fault UV1 means main circuit undervoltage — the DC bus voltage dropped
 ## When to Call a Pro
 
 Aged capacitor diagnosis requires a capacitance meter and knowledge of proper capacitor reformation procedures. For drives over 5 years old with frequent UV1, a Yaskawa service tech can evaluate bus capacitor health.
-
-## Related Articles
-
-- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
-- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
-- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
-- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
-- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)
-
-## See Also
-
-- [Yaskawa VFD Fault OV — DC Bus Overvoltage Fix](/posts/yaskawa-vfd-fault-ov/)
-- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)
-- [Yaskawa A1000 Complete Guide - Fault Codes, Parameters, and Commissioning](/posts/yaskawa-a1000-complete-guide/)
-- [Yaskawa VFD Fault CF — Causes & Fix](/posts/yaskawa-vfd-fault-cf/)

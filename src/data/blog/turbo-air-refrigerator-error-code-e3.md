@@ -13,11 +13,8 @@ money_part: "Defrost / evaporator sensor"
 most_likely_cause: "Failed evaporator / defrost probe"
 ---
 
-## Turbo Air Refrigerator Error Code E3 — What It Means
-
+## What this code means
 Turbo Air error code E3 usually indicates a defrost sensor problem. On many Turbo Air reach-in refrigerators and freezers, E3 means the evaporator or defrost probe is reading open, shorted, or outside the controller's expected range. When that happens, the controller cannot manage defrost termination correctly, so the unit may over-ice, short-cycle defrost, or lock the compressor out to protect the evaporator section.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,18 +46,3 @@ Turbo Air error code E3 usually indicates a defrost sensor problem. On many Turb
 ## When to Call a Pro
 
 Call a commercial refrigeration tech if E3 returns with a new sensor, or if you find a dead heater, damaged board, or recurring coil ice after the cabinet restarts. At that point you need live electrical checks and a full defrost diagnosis.
-
-## See Also
-
-- [Turbo Air Refrigerator Error Code E1 — Causes & Fix](/posts/turbo-air-refrigerator-error-code-e1/)
-- [Turbo Air Freezer Error Code E2 — Causes & Fix](/posts/turbo-air-freezer-error-code-e2/)
-- [True Refrigeration Error Codes — Complete Guide](/posts/true-refrigeration-error-codes/)
-- [Traulsen RLT Error Codes — Complete Guide](/posts/traulsen-rlt-error-codes/)
-
-## Related Articles
-
-- [Beverage-Air Error Code E4, Causes, and Fixes](/posts/beverage-air-e4-error-code/)
-- [Beverage-Air MT27 Error Codes - What They Mean and How to Fix Them](/posts/beverage-air-mt27-error-codes/)
-- [Beverage-Air Refrigerator Error Code E1 — Causes & Fix](/posts/beverage-air-refrigerator-error-code-e1/)
-- [Beverage-Air Refrigerator Error Code E2 — Evaporator Sensor Causes & Fix](/posts/beverage-air-refrigerator-error-code-e2/)
-- [Bohn Refrigeration Error Code Guide — Causes & Fixes](/posts/bohn-refrigeration-error-codes/)

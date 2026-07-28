@@ -13,13 +13,10 @@ money_part: "Motor thermistor (PTC sensor)"
 most_likely_cause: "Motor actually overheated"
 ---
 
-## Yaskawa GA800 E03 Fault — What It Means
-
+## What this code means
 The E03 fault on a Yaskawa GA800 VFD indicates a motor overheat or thermistor circuit fault. The drive has detected that the motor temperature protection input is signaling an overtemperature condition or that the thermistor circuit itself is open, shorted, or otherwise abnormal. This is not a drive power stage failure. The fault is responding to the motor temperature protective circuit, which can trip either because the motor has genuinely overheated or because the thermistor wiring or sensor has failed.
 
 Yaskawa's GA800 documentation directs technicians to remove the fault cause before resetting. The drive will not restart until the condition is corrected and the fault is cleared. This fault protects the motor from thermal damage, so you must verify whether the motor is truly hot or whether the problem is in the thermistor circuit or drive configuration.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ Yaskawa's GA800 documentation directs technicians to remove the fault cause befo
 ## When to Call a Pro
 
 Call a qualified electrician or motor technician if you cannot locate the thermistor wiring, if the motor continues to overheat after correcting obvious mechanical or cooling problems, or if you are unfamiliar with VFD parameter setup and motor protection configuration. An E03 fault that recurs immediately after reset often indicates internal motor damage or a persistent circuit fault that requires diagnostic equipment and motor testing. If the motor must be rewound or the thermistor replaced inside the motor housing, professional motor shop service is required.
-
-## See Also
-
-- [Yaskawa VFD Fault CF — Causes & Fix](/posts/yaskawa-vfd-fault-cf/)
-- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)
-- [Yaskawa GA800 E11 Error Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e11-fault-code/)
-- [Yaskawa V1000 OV Fault - What It Means and How to Fix It](/posts/yaskawa-v1000-fault-ov/)

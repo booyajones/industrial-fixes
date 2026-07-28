@@ -17,8 +17,7 @@ money_part: "Door gasket"
 part_price: "$10-80"
 ---
 
-## Frigidaire Refrigerator H1 Error Code — What It Means
-
+## What this code means
 The H1 or HI code on a Frigidaire refrigerator is a high-temperature alert. The control has detected that one section of the unit is warmer than expected. When the alert triggers, the high-temp indicator lights up, an alarm sounds every 60 seconds, and the display shows the highest temperature reached. Frigidaire states the most common triggers are a door left open or not fully closed, incorrect temperature settings, or a poor door seal allowing warm air in.
 
 Third-party service references commonly cite thresholds around 55°F in the refrigerator compartment or 26°F in the freezer compartment on some models, though Frigidaire does not publish a universal threshold and the exact temperature that trips the alarm is model-dependent. The code itself does not mean a specific part has failed. It means the cabinet is too warm and you need to find out why.
@@ -26,8 +25,6 @@ Third-party service references commonly cite thresholds around 55°F in the refr
 ## Before You Replace Anything
 
 Many people replace the control board or thermistor first. Instead, verify door closure, inspect the gasket for tears or gaps, and clear any blocked vents or frost buildup before replacing sensors or electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

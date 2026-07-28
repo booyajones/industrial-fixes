@@ -56,18 +56,3 @@ If pipe temperature is too high or too low, the unit shuts down to protect the r
 | Fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-mitsubishi-city-multi-pex-error&tag=errorcodefixes-20) \| Match speed, HP, and frame |
 | Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?ascsubtag=ecf-mitsubishi-city-multi-pex-error&tag=errorcodefixes-20) \| Universal float switch fits most pans |
 > **Pro tip:** Mitsubishi City Multi systems allow all indoor unit faults to be read from the G-50A or AE-200 centralized controller. Use the controller's "Monitor" screen to see all unit statuses simultaneously without checking each indoor unit individually.
-
-## Related Articles
-
-- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
-- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
-- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
-- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
-- [Mitsubishi E3 Error Code — Indoor Fan Motor Fault Fix](/posts/mitsubishi-e3-error-code/)
-
-## See Also
-
-- [Mitsubishi P3 Error Code — Outdoor Coil Thermistor Fix](/posts/mitsubishi-p3-error-code/)
-- [Mitsubishi U7 Error Code — Refrigerant System Fault](/posts/mitsubishi-u7-error-code/)
-- [Mitsubishi MR-J4 Servo Amplifier Alarm Codes — AL.10, AL.16, AL.30, AL.50 Fix](/posts/mitsubishi-mr-j4-servo-alarm-codes/)
-- [Mitsubishi E4 Error Code — Causes & Fix](/posts/mitsubishi-e4-error-code/)

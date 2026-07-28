@@ -17,15 +17,12 @@ money_part: "LG upper oven thermistor / temperature sensor"
 part_price: "$20-60"
 ---
 
-## LG Oven F2 Error Code — What It Means
-
+## What this code means
 LG defines F2 as an upper oven thermistor error. The thermistor is a temperature sensor that tells the control board the current oven temperature. When the control sees a signal outside the expected range (open circuit, short, or out-of-spec resistance), it throws F2 and stops the upper oven from heating. LG recommends pressing CLEAR/OFF or power cycling the range. If the code returns, turn off the circuit breaker for 30 seconds and restore power. If F2 persists after these resets, the issue is real hardware and you need to diagnose the sensor circuit or schedule service.
 
 ## Before You Replace Anything
 
 Many owners replace the control board first because F2 sounds like an electronic fault. Before spending on a board, disconnect the sensor and measure its resistance. A bad sensor costs far less than a control and is much easier to swap.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a technician if you are not comfortable working inside a 240 V appliance, if the sensor and wiring both test normal but F2 keeps coming back (pointing to a control board fault), or if your range is still under warranty. LG recommends scheduling service when the code persists after the power-cycle steps. A qualified tech can verify signal voltages at the control board, confirm the thermistor curve against factory specs, and replace the main control if the sensor input circuit has failed. Also call for help if you find evidence of arcing, melted insulation, or other damage that suggests a bigger electrical problem.
 
 **Rough cost:** DIY runs about $20-60 for the thermistor, 30-60 min. A pro service call runs about $150-300 for diagnosis and sensor replacement.
-
-## See Also
-
-- [LG Refrigerator Not Making Ice - Causes & Fix](/posts/lg-refrigerator-not-making-ice/)
-- [LG Mini Split CH33 Error Code - Causes & Fix](/posts/lg-mini-split-ch33-error-code/)
-- [LG Mini Split CH44 Error Code - Causes & Fix](/posts/lg-mini-split-ch44-error-code/)
-- [LG Washer UE Error Code - Causes & Fix](/posts/lg-washer-ue-error-code/)

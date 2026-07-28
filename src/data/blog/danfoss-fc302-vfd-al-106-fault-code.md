@@ -17,8 +17,7 @@ free_checks:
   - "Inspect motor cables for loose connections, corrosion, or physical damage at both drive and motor ends"
 ---
 
-## Danfoss FC302 VFD AL-106 — What It Means
-
+## What this code means
 The code AL-106 does not exist in the official Danfoss VLT AutomationDrive FC 302 documentation. The FC 302 series uses alarm numbers from Alarm 1 to Alarm 64, such as Alarm 13 for overcurrent or Alarm 38 for internal fault. AL-106 may be a misread display, a typo (perhaps AL-10 or Alarm 6), confusion with a parameter code (like parameter 1-06), or a code from a different VFD brand. Verify the exact alarm number shown on the drive's control panel display and cross-reference it with the FC 302 alarm list in your manual.
 
 If you are seeing a common fault like Alarm 13 (overcurrent), the drive has detected output current exceeding its peak limit during acceleration, deceleration, or normal operation. This typically points to a motor winding short, mechanical overload, incorrect motor parameter settings, loose or corroded motor cables, aging or damaged IGBT modules on the inverter board, high incoming line voltage above nominal by more than 10%, or a failed rectifier or power board.
@@ -26,8 +25,6 @@ If you are seeing a common fault like Alarm 13 (overcurrent), the drive has dete
 ## Before You Replace Anything
 
 Many technicians replace the entire inverter board without first disconnecting the motor and running the drive unloaded. If the fault clears with the motor disconnected, the problem is in the motor or wiring, not the drive electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or electrician if the alarm code is not documented in your manual, if the fault persists after disconnecting the motor and verifying input power, or if you are not comfortable working with high-voltage three-phase equipment. Replacing IGBT modules or power boards requires knowledge of DC link discharge procedures, proper torque specs for bus bar connections, and safe handling of capacitors that can retain a lethal charge. A technician can also download fault logs from the drive's memory and perform advanced diagnostics with Danfoss MCT software to identify intermittent faults or parameter conflicts that are not obvious from the display.
 
 **Rough cost:** A pro service call runs about $300-800.
-
-## See Also
-
-- [Danfoss FC-302 Alarm 13 — DC Link Overvoltage Fix](/posts/danfoss-fc302-alarm-13/)
-- [Danfoss FC302 Alarm 27 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-27-fault-code/)
-- [Danfoss FC302 ALARM 24 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-24-fault-code/)
-- [Danfoss FC302 AL-65 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-65-fault-code/)

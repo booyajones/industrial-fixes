@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Dryer F31 Error Code — What It Means
-
+## What this code means
 F31 on an Amana dryer is a power-supply fault. Whirlpool (Amana's parent manufacturer) defines F31 as L2 Low or No Line Voltage, meaning the control is not seeing proper power on the second leg of the 240 V supply and the heater cannot energize correctly. This is not the same as F30, which Amana defines as restricted airflow from a lint screen or vent blockage.
 
 The code appears when one leg of the 240 V household supply is missing or weak. Electric dryers use two breakers or fuses, and if one trips or opens the dryer will power on but cannot heat. The control detects the missing L2 voltage and displays F31.
@@ -25,8 +24,6 @@ The code appears when one leg of the 240 V household supply is missing or weak. 
 ## Before You Replace Anything
 
 Homeowners often replace the control board or heating element when F31 appears, but the real cause is almost always a household electrical supply problem. Check both breakers and measure voltage at the outlet before ordering any dryer parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,11 +13,8 @@ money_part: "Hot surface ignitor"
 most_likely_cause: "Failed hot surface ignitor"
 ---
 
-## Armstrong Furnace E4 Error Code — What It Means
-
+## What this code means
 E4 on an Armstrong Air furnace (part of the Allied Air Enterprises family, which also includes Ducane and ADP) typically indicates an ignition failure lockout. The control board attempted the ignition sequence the maximum number of times (usually three tries) and could not confirm a stable flame from the flame sensor. The furnace locks out and displays E4 until the fault is manually cleared.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,11 +42,3 @@ E4 on an Armstrong Air furnace (part of the Allied Air Enterprises family, which
 ## When to Call a Pro
 
 Gas valve replacement and gas pressure testing require a licensed HVAC or gas technician. Do not attempt to bypass the gas valve or ignition safety controls under any circumstances.
-
-## Related Articles
-
-- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
-- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
-- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

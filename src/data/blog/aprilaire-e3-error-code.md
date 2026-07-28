@@ -13,13 +13,10 @@ money_part: "Aprilaire outdoor temperature sensor"
 most_likely_cause: "Wrong control configuration (dehumidifier)"
 ---
 
-## Aprilaire E3 Error Code — What It Means
-
+## What this code means
 E3 is not a single universal Aprilaire fault code. On whole-house dehumidifiers, E3 means the unit is configured to look for a wall-mounted control but cannot communicate with it. On humidifiers and digital humidistats, E3 indicates a problem with the outdoor temperature sensor or the manual-mode resistor circuit that substitutes for that sensor.
 
 The code appears when the control cannot find or verify the expected sensor or communication device. On dehumidifiers, this is a configuration or wiring issue between the appliance and a Model 76 or similar wall control. On humidifiers, it points to a broken, disconnected, or electrically faulty outdoor sensor or resistor assembly.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

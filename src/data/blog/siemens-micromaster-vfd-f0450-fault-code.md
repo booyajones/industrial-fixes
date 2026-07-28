@@ -18,8 +18,7 @@ free_checks:
   - "Read parameter r0949 in service mode to identify which subsystem failed"
 ---
 
-## Siemens Micromaster F0450 — What It Means
-
+## What this code means
 F0450 is a Built-In Self-Test (BIST) fault on Siemens Micromaster 420 and 440 drives. The drive detected a hardware or firmware failure during its internal power-on diagnostics before normal operation could start. The specific error value stored in parameter r0949 or P0949 tells which subsystem failed: 1 means power section tests failed, 2 means control board tests failed, 4 means functional tests (parameter handling) failed, 8 means IO module tests failed, and 16 means internal RAM check failed on power-up.
 
 The drive may still start and run after this fault appears, but certain actions or functions will not work correctly. Control signals, feedback loops, or specific parameter functions can be unreliable or completely disabled. This is a service-mode-only fault that points to internal component failure, not external wiring or application issues.
@@ -27,8 +26,6 @@ The drive may still start and run after this fault appears, but certain actions 
 ## Before You Replace Anything
 
 Technicians sometimes chase motor cable issues or parameter settings when F0450 appears, but this fault almost always means internal drive failure. Unless motor cables are visibly damaged or shorted, focus on the inverter itself rather than external wiring.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a professional immediately for F0450 faults. This is an internal hardware failure that requires diagnosis of high-voltage DC bus circuits, power modules, and control boards. Attempting to open or test the inverter without proper training and discharge procedures risks fatal electric shock from the DC link capacitors, which can hold lethal voltage for minutes after power is removed. Qualified VFD technicians have the tools to safely discharge capacitors, read service-mode parameters, and determine whether board-level repair or full replacement is the most cost-effective solution. If the drive is under warranty, contact Siemens support directly to avoid voiding coverage by unauthorized repairs.
 
 **Rough cost:** A pro service call runs about $800-2500 for inverter replacement depending on model and labor.
-
-## See Also
-
-- [Siemens Sinumerik Alarm 380600 — Encoder Fault](/posts/siemens-sinumerik-alarm-380600/)
-- [Siemens Micromaster F0023 - Causes & Fix](/posts/siemens-micromaster-f0023-fault-code/)
-- [Siemens Micromaster F0003 - Causes & Fix](/posts/siemens-micromaster-vfd-f0003-fault-code/)
-- [Siemens Micromaster F0004 - Causes & Fix](/posts/siemens-micromaster-vfd-f0004-fault-code/)

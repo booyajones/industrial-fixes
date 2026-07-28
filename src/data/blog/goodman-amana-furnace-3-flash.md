@@ -13,11 +13,8 @@ money_part: "Pressure switch"
 most_likely_cause: "Blocked or kinked pressure switch hose"
 ---
 
-## Amana / Goodman Furnace 3 Flash Error Code — What It Means
-
+## What this code means
 Both **Amana** and **Goodman** furnaces (Amana is a Goodman brand and uses the same control board platform) flash **3 blinks** on the LED status indicator when the **draft pressure switch circuit has faulted**. The 3-flash code means the inducer pressure switch did not confirm adequate draft pressure before or during the heat cycle. Amana and Goodman users searching for either brand's 3-flash code will find the same root cause and the same repair process — the control boards, pressure switches, and diagnostic logic are identical across both brands.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Both **Amana** and **Goodman** furnaces (Amana is a Goodman brand and uses the s
 ## When to Call a Pro
 
 If all mechanical components check out and 3 flashes persist, the heat exchanger may have a crack that disrupts the pressure dynamics in the flue system. Heat exchanger inspection requires a licensed HVAC technician — do not continue operating the furnace if a cracked heat exchanger is suspected.
-
-## Related Articles
-
-- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
-- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
-- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
-- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
-- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)
-
-## See Also
-
-- [Goodman Heat Pump Error Codes - What It Means and How to Fix It](/posts/goodman-heat-pump-error-codes/)
-- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
-- [Goodman Furnace Error Codes — All Flash Codes Explained](/posts/goodman-furnace-error-codes/)
-- [Goodman GVZC18 Heat Pump Error Codes: iQ Drive Fault Diagnostics](/posts/goodman-gvzc18-heat-pump-error-codes/)

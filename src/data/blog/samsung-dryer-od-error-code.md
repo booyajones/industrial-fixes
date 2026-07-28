@@ -17,8 +17,7 @@ money_part: "Moisture sensor bar assembly"
 part_price: "$10-50"
 ---
 
-## Samsung Dryer oD Error Code — What It Means
-
+## What this code means
 The oD (also displayed as 0d or Od) error is Samsung's Dry Time Error. It appears when the dryer thinks a cycle is taking too long to finish, typically when drying time exceeds 240 minutes. Samsung attributes this code to either defective moisture sensor bars or a faulty PCB (main control board). The dryer is unable to complete the cycle within the expected time window, so it throws the fault and stops.
 
 In practice, the code can also appear when poor airflow or an overloaded drum forces the unit to run far longer than normal. Samsung groups oD under sensor and component faults, but restricted exhaust flow is the most common real-world trigger because it directly lengthens dry time.
@@ -26,8 +25,6 @@ In practice, the code can also appear when poor airflow or an overloaded drum fo
 ## Before You Replace Anything
 
 Many people replace the main control board when the real culprit is a blocked vent or dirty moisture sensor bars. Clean the entire exhaust path and inspect the sensor bars before ordering a new PCB.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

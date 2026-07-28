@@ -17,8 +17,7 @@ free_checks:
   - "Verify that the gas supply valve is fully open and that no other appliances on the same line are starving the boiler"
 ---
 
-## Weil-McLain A38 Error Code — What It Means
-
+## What this code means
 A38 is an alarm or lockout code that appears on certain Weil-McLain boiler models. The exact meaning of A38 is not documented in widely available manufacturer materials and varies by boiler series and control module. Weil-McLain fault codes are model-specific, so the same code number can indicate different faults on different units.
 
 Because A38 is not defined in general Weil-McLain troubleshooting guides, you must consult the installation and service manual for your exact boiler model and control type. The manual will list A38 in its fault-code table along with the prescribed diagnostic steps. Many Weil-McLain lockout codes relate to ignition problems, gas supply issues, venting or condensate blockages, or sensor faults, but without the model-specific definition you cannot assume A38 means any of these.
@@ -26,8 +25,6 @@ Because A38 is not defined in general Weil-McLain troubleshooting guides, you mu
 ## Before You Replace Anything
 
 Do not replace the control board or gas valve before checking the diagnostics menu error history and following the model-specific troubleshooting flow in your service manual. Many lockouts are caused by gas-supply issues, dirty heat exchangers, or blocked condensate traps that clear once corrected.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -71,10 +68,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician immediately if you do not have the service manual for your exact model, if the diagnostics require measuring gas pressure or testing electrical components, or if the code persists after you have followed the manual's troubleshooting steps. Weil-McLain boilers involve natural gas or propane under pressure, high-voltage ignition systems, and sealed combustion chambers. Working on these systems without proper training and tools can cause gas leaks, carbon-monoxide hazards, or equipment damage. A qualified technician has access to model-specific fault-code databases, the correct test equipment, and genuine Weil-McLain parts to diagnose and repair A38 safely and correctly.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain A28 Error - Causes & Fix](/posts/weil-mclain-boiler-a28-error-code/)
-- [Weil-McLain A131 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a131-error-code/)
-- [Weil-McLain A02 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a02-error-code/)
-- [Weil-McLain A100 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a100-error-code/)

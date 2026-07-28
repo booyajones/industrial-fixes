@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "70%"
 ---
 
-## Maytag Range F9 Error Code — What It Means
-
+## What this code means
 On a Maytag range or oven, F9 (or F9 E0) tells you the control has detected an electrical supply or wiring problem at the home hard-wire connection, not necessarily a failed internal part. Maytag specifically calls out swapped L2 and N conductors at the terminal block as a common trigger. The code can also appear after a power outage if the control sees line noise or an incorrect voltage amount during startup.
 
 Some Maytag ranges also display F9-2, which points to a different problem in the oven door latch, door lock switch, or associated wiring. Always check which version of the code you see before starting diagnosis.
@@ -29,8 +28,6 @@ Some Maytag ranges also display F9-2, which points to a different problem in the
 ## Before You Replace Anything
 
 Many owners replace the main control board when F9 appears. Before spending on the board, verify correct wiring at the terminal block and reset power for one minute; most F9 faults trace to the home supply hookup, not the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

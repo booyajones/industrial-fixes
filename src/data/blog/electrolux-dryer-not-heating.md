@@ -19,8 +19,6 @@ When an Electrolux dryer tumbles but produces no heat, the fault usually lies in
 
 If the dryer runs without any code displayed, the problem is typically a failed heating element, an open thermal fuse after an overheating event, a faulty temperature sensor or thermostat, or an incoming power issue on electric models. Restricted airflow from a clogged vent or filter can also trigger safety shutoffs that stop the heater, so clearing the exhaust path is the first step in nearly every no-heat diagnosis.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Blocked lint filter or exhaust vent** Restricted airflow is the most common preventable cause because it triggers overheat safety cutouts that shut down the heater entirely.
@@ -57,8 +55,8 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Electrolux Dryer Ad error code](/posts/electrolux-dryer-ad-error-code/)
 - [Electrolux Dryer E 09 error code](/posts/electrolux-dryer-e-09-error-code/)
-- [Electrolux Dryer E 10 error code](/posts/electrolux-dryer-e-10-error-code/)
-- [Electrolux Dryer E 11 error code](/posts/electrolux-dryer-e-11-error-code/)
+- Electrolux Dryer E 10 error code
+- Electrolux Dryer E 11 error code
 - [Electrolux Dryer E 31 error code](/posts/electrolux-dryer-e-31-error-code/)
 - [Electrolux Dryer E 42 error code](/posts/electrolux-dryer-e-42-error-code/)
 - [Electrolux Dryer E 51 error code](/posts/electrolux-dryer-e-51-error-code/)

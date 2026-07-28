@@ -22,8 +22,7 @@ part_price: "$35-80"
 no_buy_pct: "40%"
 ---
 
-## Bosch Washer F16 Error Code — What It Means
-
+## What this code means
 Bosch displays error code F16 (or E16) when the control board does not receive a valid door-closed and locked signal from the door interlock assembly. The official Bosch error list states that F16 means "Door is open." In practical terms, this fault occurs when the door latch has not engaged properly or when the door lock assembly cannot confirm to the control that the door is securely locked. The washer will not start or advance the cycle until the control sees a closed-door signal.
 
 This code does not point to a water-system or motor fault. It is strictly a door-latch recognition problem. The root cause may be as simple as a piece of laundry caught in the gasket or as definite as a failed door lock. Technicians approach F16 by verifying mechanical closure first, then testing the lock assembly and its wiring if the door appears physically shut.
@@ -31,8 +30,6 @@ This code does not point to a water-system or motor fault. It is strictly a door
 ## Before You Replace Anything
 
 Some owners replace the main control board when they see F16, assuming a software fault. The correct first step is to inspect the door gasket, latch area, and door lock assembly. A visual check and a continuity test of the lock connector will isolate the problem without buying a $200+ control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

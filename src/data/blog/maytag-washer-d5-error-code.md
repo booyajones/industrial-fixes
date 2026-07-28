@@ -22,8 +22,7 @@ part_price: "$30-50"
 no_buy_pct: "70%"
 ---
 
-## Maytag Washer D5 Error Code — What It Means
-
+## What this code means
 On most Maytag household top-load and front-load washers, the code displayed as Sd, 5d, or Sud indicates excessive suds detected by the control. The washer will attempt a suds reduction routine to foam down the load before continuing the cycle. If your machine is a coin-operated or commercial Maytag and the display truly reads D5, that code points to a coin sensor or user-interface input fault rather than a suds problem. Because model families differ, verify your exact model number and tech sheet before diagnosing.
 
 Maytag's own product help distinguishes Sd/5d (excess suds) from F9E1 (drain time fault), so the code alone does not mean the drain pump has failed. The control is monitoring basket movement and motor behavior during the cycle. If suds lock the load or if drainage is restricted, the control will throw the code and pause. Technicians should not replace the pump until confirming that the drain path is truly obstructed and the suds issue has been ruled out.
@@ -31,8 +30,6 @@ Maytag's own product help distinguishes Sd/5d (excess suds) from F9E1 (drain tim
 ## Before You Replace Anything
 
 Many owners replace the drain pump when they see D5/Sd/5d, but the code is usually triggered by too much detergent or a kinked drain hose. Check for suds and clear the drain path before ordering a pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

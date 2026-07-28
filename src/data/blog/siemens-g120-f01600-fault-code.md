@@ -13,13 +13,10 @@ money_part: "Safety relay or STO interface module"
 most_likely_cause: "Forced checking procedure of the safety shutdown path unsuccessful"
 ---
 
-## Siemens G120 F01600 — What It Means
-
+## What this code means
 F01600 on a Siemens SINAMICS G120 means the drive's Safety Integrated function has initiated STOP A. This is a safety-related stop event triggered by the safety processor, not a generic power-stage or motor fault. The drive detects a condition in the safety chain and commands a safe stop to protect personnel and equipment.
 
 This fault is part of the Safety Integrated architecture and points to a problem in the safe-stop logic, monitoring channels, or safety input wiring. It is not caused by typical motor overload, encoder failure, or power module issues. The fault value stored in parameter r0949 tells you which specific safety condition triggered the stop.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ This fault is part of the Safety Integrated architecture and points to a problem
 ## When to Call a Pro
 
 Call a qualified technician or Siemens service if you cannot identify the fault value in r0949, if F01611 reappears after clearing, or if you are unfamiliar with Safety Integrated commissioning and diagnostics. Safety-related faults require knowledge of functional safety standards and the specific safety configuration of your system. Do not bypass or disable safety functions to clear this fault. If the safety chain is complex or involves a safety PLC or third-party safety controller, bring in a controls specialist to trace the stop signal and verify compliance with your safety design.
-
-## See Also
-
-- [Siemens VFD Fault Codes — SINAMICS G120, V20, S120 Guide](/posts/siemens-vfd-fault-codes/)
-- [Siemens G120 F01650 - Causes & Fix](/posts/siemens-g120-f01650-fault-code/)
-- [Siemens G120 F01033 - Causes & Fix](/posts/siemens-g120-f01033-fault-code/)
-- [Siemens SINAMICS G120 F30011 Fault — Phase Loss Fix](/posts/siemens-sinamics-f30011-fault/)

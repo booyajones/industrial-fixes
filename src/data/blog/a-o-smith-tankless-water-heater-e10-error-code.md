@@ -13,13 +13,10 @@ money_part: "Inlet temperature sensor (thermistor)"
 most_likely_cause: "Loose or disconnected thermistor connector"
 ---
 
-## A.O. Smith E10 Error Code — What It Means
-
+## What this code means
 The E10 error code on an A.O. Smith tankless water heater means the inlet temperature sensor (thermistor) circuit is open. In manufacturer terms, the inlet temperature sensor is not sending a proper signal to the control board. This happens when the sensor's electrical connection is broken, either by a loose or corroded connector, damaged wiring, or a failed thermistor itself. The control board expects continuous resistance readings from the sensor and throws E10 when that circuit is interrupted.
 
 In most cases, the problem is a loose connector at the inlet thermistor or a faulty sensor. Less commonly, the control board itself can fail to read a good sensor. A.O. Smith's service documentation points technicians first to the thermistor connection, then to sensor replacement, and finally to the circuit board if the fault persists after those checks.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

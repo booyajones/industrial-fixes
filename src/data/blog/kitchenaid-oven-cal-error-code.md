@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## KitchenAid CAL Error Code — What It Means
-
+## What this code means
 CAL on a KitchenAid oven or range is not a fault code. It is the oven calibration feature or status display. KitchenAid identifies CAL as the oven calibration function, which allows you to adjust the temperature offset so the oven heats to the temperature you set. When CAL appears, the oven has entered calibration mode, either because you or someone else accessed the settings menu or because a button sequence was pressed accidentally.
 
 Because CAL is a feature rather than a hardware failure signal, no component is inherently broken when you see this display. If your oven is baking poorly at the same time, the root issue is usually inaccurate temperature sensing or an incorrect offset value, not the CAL display itself. KitchenAid directs users to the owner's manual for model-specific calibration instructions rather than treating CAL as an error condition that requires repair.
@@ -24,8 +23,6 @@ Because CAL is a feature rather than a hardware failure signal, no component is 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the oven temperature sensor or control board thinking CAL signals a failure. Before ordering parts, confirm the oven is simply in calibration mode and exit the menu or verify actual oven temperature with an independent thermometer to see whether calibration adjustment is all that is needed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

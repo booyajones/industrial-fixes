@@ -13,11 +13,8 @@ money_part: "Incoming line fuses or fuse holders"
 most_likely_cause: "Main supply voltage loss or sag"
 ---
 
-## Siemens G120 F0003 — What It Means
-
+## What this code means
 F0003 on a Siemens G120 drive means undervoltage. The drive has detected that its supply or DC-link voltage fell below the acceptable threshold and tripped to protect itself. Siemens lists the fault reaction as OFF 2, triggered when the main supply fails or a shock load pulls voltage outside specified limits. The fault code is stored in parameter r0947 as code 3, and the associated error value appears in r0949. The drive will not run until you correct the supply problem and clear the fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ F0003 on a Siemens G120 drive means undervoltage. The drive has detected that it
 ## When to Call a Pro
 
 Call a qualified electrician or drives technician if you cannot locate the source of the undervoltage after checking the incoming supply and upstream components, if the fault recurs even with correct line voltage, or if you suspect internal damage to the drive's rectifier or power section. A professional can perform detailed DC-link measurements, review parameter settings, and test the drive's internal hardware to confirm whether the power module or control board needs replacement.
-
-## See Also
-
-- [Siemens G120 F01040 - Causes & Fix](/posts/siemens-g120-f01040-fault-code/)
-- [Siemens Micromaster F0015 - Causes & Fix](/posts/siemens-micromaster-vfd-f0015-fault-code/)
-- [Siemens Sinumerik Alarm 300204 — Causes & Fix](/posts/siemens-sinumerik-alarm-300204/)
-- [Siemens G120 F0011 Fault Code - Causes & Fix](/posts/siemens-g120-vfd-f0011-fault-code/)

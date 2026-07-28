@@ -13,11 +13,8 @@ money_part: "Motor (replacement)"
 most_likely_cause: "Output short circuit"
 ---
 
-## Siemens SINAMICS V20 F1 Fault — What It Means
-
+## What this code means
 The Siemens SINAMICS V20 **F1 fault** is an **Overcurrent** fault. The drive's current monitoring has detected that output current exceeded the instantaneous overcurrent threshold — typically 200% of the drive's rated current. F1 is a hard-trip protection event; the drive shuts output down immediately to protect its IGBTs. Unlike the thermal overload alarm (A501), F1 is fast-acting and points to a current surge, short circuit, or extreme load event rather than gradual overheating.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ The Siemens SINAMICS V20 **F1 fault** is an **Overcurrent** fault. The drive's c
 ## When to Call a Pro
 
 If F1 persists after clearing mechanical binding, correcting the ramp parameter, and confirming motor insulation is good, the V20's current sensor or IGBT gate driver may have been damaged by a prior event. Siemens-certified drive service technicians handle internal drive diagnostics.
-
-## Related Articles
-
-- [Siemens Sinumerik 828D Alarm Codes Guide — Complete Diagnostic Reference](/posts/siemens-828d-alarm-codes/)
-- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
-- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)
-- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
-- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)
-
-## See Also
-
-- [Siemens SINAMICS G120 F00001 Fault — Causes & Fix](/posts/siemens-sinamics-g120-fault-f00001/)
-- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
-- [Siemens VFD F1 Fault - Causes & Fix](/posts/siemens-vfd-f1-fault/)
-- [Siemens Micromaster 440 Fault F002 — Overcurrent](/posts/siemens-micromaster-440-fault-f002/)

@@ -13,11 +13,8 @@ money_part: "Door gasket"
 most_likely_cause: "Door not sealing or left ajar"
 ---
 
-## Turbo Air Freezer Error Code E2 — What It Means
-
+## What this code means
 The E2 error on Turbo Air commercial freezers (reach-ins, undercounters, and prep table freezers) indicates a high temperature alarm — the cabinet temperature has risen above the high-temperature alert threshold. On freezer models, E2 is more urgent than on refrigerators because product freeze integrity is at risk and food safety timelines are shorter.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,11 +42,3 @@ The E2 error on Turbo Air commercial freezers (reach-ins, undercounters, and pre
 ## When to Call a Pro
 
 Sealed system issues (low charge, failed compressor) require an EPA 608-certified tech. Don't delay on a freezer — product loss accelerates quickly.
-
-## Related Articles
-
-- [Beverage-Air Error Code E4, Causes, and Fixes](/posts/beverage-air-e4-error-code/)
-- [Beverage-Air MT27 Error Codes - What They Mean and How to Fix Them](/posts/beverage-air-mt27-error-codes/)
-- [Beverage-Air Refrigerator Error Code E1 — Causes & Fix](/posts/beverage-air-refrigerator-error-code-e1/)
-- [Beverage-Air Refrigerator Error Code E2 — Evaporator Sensor Causes & Fix](/posts/beverage-air-refrigerator-error-code-e2/)
-- [Bohn Refrigeration Error Code Guide — Causes & Fixes](/posts/bohn-refrigeration-error-codes/)

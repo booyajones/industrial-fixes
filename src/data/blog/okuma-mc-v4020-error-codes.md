@@ -61,18 +61,3 @@ Access PLC diagnostic via OSP ΓåÆ DIAGNOSIS ΓåÆ PLC. View the bit that is 
 | Servo motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-okuma-mc-v4020-error-codes&k=Servo+motor&tag=errorcodefixes-20) \| Match alpha-i or beta-i specification |
 | PLC I/O card | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-okuma-mc-v4020-error-codes&k=PLC+I%2FO+card&tag=errorcodefixes-20) \| Match OSP control version |
 > **Pro tip:** Okuma OSP controls store comprehensive alarm history and maintenance logs. Access via MAINTENANCE ΓåÆ ALARM HISTORY. For intermittent faults, Okuma's THINC API allows remote monitoring of machine data in real time.
-
-## Related Articles
-
-- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
-- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
-- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-
-## See Also
-
-- [Okuma Alarm 3000 — Main CPU Error](/posts/okuma-cnc-alarm-3000/)
-- [Okuma CNC Alarm 1013 — Servo Axis Fault Fix](/posts/okuma-cnc-alarm-1013-servo-axis-fault/)
-- [Okuma CNC Alarm 1800 — Causes & Fix](/posts/okuma-cnc-alarm-1800/)
-- [Okuma OSP Alarm 2202 — Spindle Fix](/posts/okuma-alarm-2202/)

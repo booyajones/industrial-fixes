@@ -17,8 +17,7 @@ money_part: "Whirlpool microwave humidity thermistor"
 part_price: "$30-90"
 ---
 
-## Whirlpool Microwave F03 Error Code — What It Means
-
+## What this code means
 Whirlpool's F03 (or F3) error code does not have a single universal meaning across all microwave models. On Whirlpool's own help pages for built-in microwaves, F03 indicates a microwave feature is not available or a fault was detected during sensor cooking. For over-the-range models, Whirlpool lists F3H as a problem with the humidity thermistor or its wiring. The exact cause depends on your model family, so always verify your full model number before replacing parts.
 
 Common field interpretations also include keypad or user-interface faults, but these are not the same as Whirlpool's official F03 or F3H definitions. If the code clears after a power reset and does not return, the issue may be transient or related to control wiring rather than a hard component failure. Always consult your model's wiring diagram and help page to apply the correct diagnostic path.
@@ -26,8 +25,6 @@ Common field interpretations also include keypad or user-interface faults, but t
 ## Before You Replace Anything
 
 Many people replace the main control board first, but the real fault is often a bad humidity thermistor, a loose connector, or a stuck keypad. Test the thermistor and inspect all wiring connections before swapping the control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

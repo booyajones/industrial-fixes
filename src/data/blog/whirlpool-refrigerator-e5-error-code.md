@@ -17,8 +17,7 @@ money_part: "Ice room thermistor (ice box temperature sensor)"
 part_price: "$30-80"
 ---
 
-## Whirlpool Refrigerator E5 Error — What It Means
-
+## What this code means
 E5 is not a universal code across all Whirlpool refrigerator models. On Whirlpool and KitchenAid French-door platforms with dedicated ice-maker compartments, E5 indicates a temperature discrepancy between the ice maker thermistor (inside the ice maker module) and the ice box or ice room thermistor. The control is seeing one sensor read cold while the other does not match, or one sensor is reporting an out-of-spec value. The exact meaning depends on your model's tech sheet, so confirm the code definition for your platform before replacing parts.
 
 This is not a simple "thermistor is bad" code. It reflects a mismatch or sensing fault in the ice-making system, which can be caused by a failed sensor, wiring issue, or an actual airflow or frost problem that makes the two temperatures disagree. Always check your model documentation to verify the code applies to the ice system.
@@ -26,8 +25,6 @@ This is not a simple "thermistor is bad" code. It reflects a mismatch or sensing
 ## Before You Replace Anything
 
 Many people replace the entire ice maker assembly or the control board first. Check wiring continuity and measure actual compartment temperature with an external thermometer before replacing expensive components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

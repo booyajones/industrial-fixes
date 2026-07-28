@@ -20,8 +20,6 @@ Short cycling means your Rheem furnace turns on, runs for 2 to 5 minutes, then s
 
 The furnace is not showing a single error code in most cases. Instead, the control board may flash intermittent codes like "Limit Open" or "Pressure Switch" between cycles. The root problem is almost always restricted airflow or a failing component that prevents heat from moving out of the cabinet.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged air filter** A dirty filter is the number one cause, blocking intake air so the heat exchanger overheats and trips the high limit switch.
@@ -62,10 +60,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a licensed HVAC technician if the furnace still short cycles after you replace the filter, clean the blower, and check the thermostat. Testing the high limit switch, pressure switch, and flame sensor requires a multimeter and knowledge of safe gas appliance procedures. Any work involving the gas valve, burner assembly, or heat exchanger inspection should be handled by a professional due to carbon monoxide and fire risks. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rheem Furnace Error Codes — All Flash Codes Explained](/posts/rheem-furnace-error-codes/)
-- [Rheem Furnace 2 Flashes - Causes & Fix](/posts/rheem-furnace-2-flashes-error-code/)
-- [Rheem A004 Error Code - Causes & Fix](/posts/rheem-heat-pump-a004-error-code/)
-- [Rheem Water Heater Thermocouple Replacement - Signs & How-To](/posts/rheem-water-heater-thermocouple-gas-pilot-sensor-replacement/)

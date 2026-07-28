@@ -19,8 +19,6 @@ When your GE refrigerator runs warm, the unit may display fault code FF (warning
 
 GE's own fault definitions point directly to airflow, defrost, and control problems. Technician case histories confirm that evaporator fan failure, condenser fan failure, and sealed-system faults round out the most common root causes when the cabinet cannot hold temperature.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Evaporator fan motor failure or blockage** If the evaporator fan does not run or is blocked by frost, cold air cannot circulate from the freezer to the fresh-food compartment.

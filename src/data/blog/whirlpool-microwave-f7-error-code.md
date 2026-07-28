@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Whirlpool microwave main control board"
 ---
 
-## Whirlpool Microwave F7 Error — What It Means
-
+## What this code means
 On Whirlpool over-the-range microwaves, F7 indicates the oven could not execute the requested function because of a control-board or related wiring problem. Whirlpool also lists specific F7 subcodes for some models. F7 E9, for example, points to an overheat or ventilation issue where the upper vent door cannot open and close freely, often blocked by trim or cabinetry. On some inverter-driven Whirlpool models, repair technicians also report F7 as an inverter-board or magnetron power fault, but Whirlpool's current product-help documentation focuses on the control board and wiring as the generic cause.
 
 Because the exact meaning varies by model family, always confirm the subcode on your display and consult your unit's tech sheet or service manual before replacing parts. A simple power reset often clears transient faults. If the code returns immediately, the underlying hardware failure needs diagnosis.
@@ -25,8 +24,6 @@ Because the exact meaning varies by model family, always confirm the subcode on 
 ## Before You Replace Anything
 
 Many owners replace the main control board first without checking the inverter board, magnetron, or vent-door obstruction. Use diagnostic mode from the tech sheet and inspect wiring connectors and the vent path before ordering a new control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

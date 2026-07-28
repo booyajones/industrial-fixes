@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## KitchenAid F6 E0 Error Code — What It Means
-
+## What this code means
 The F6 E0 code on KitchenAid wall ovens and over-the-range microwaves indicates the appliance could not execute the function because of a communication fault. KitchenAid identifies the Appliance Control Board or associated wiring as the likely problem area. In technician terms, this is a lost-communication condition between the main control board and the user interface panel.
 
 The fault is not about cooking performance or sensor drift. It means the boards cannot talk to each other, usually because of a power glitch, loose connector, or failed control module. KitchenAid's published first step is always a full power reset, which clears transient faults in many cases.
@@ -25,8 +24,6 @@ The fault is not about cooking performance or sensor drift. It means the boards 
 ## Before You Replace Anything
 
 Many people replace the main control board first without checking the wiring harness. Always inspect every connector for backed-out pins, corrosion, and secure seating before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

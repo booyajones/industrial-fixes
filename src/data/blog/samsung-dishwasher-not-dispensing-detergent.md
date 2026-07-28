@@ -19,8 +19,6 @@ When your Samsung dishwasher is not dispensing detergent, it means the detergent
 
 In practical terms, you will find either that the door never opens at all, or it opens but detergent remains in the cup because of loading issues, residue buildup, or poor water circulation. The dispenser is designed to open by pressing the catch to the right, and any pod or tablet you load must fit properly so the door can close completely.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Tall dishes or items blocking the dispenser door** Plates, utensils, or rack items loaded too close to the dispenser prevent the door from swinging open during the cycle.

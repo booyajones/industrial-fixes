@@ -17,15 +17,12 @@ money_part: "User Interface / Keypad Assembly"
 part_price: "$50-120"
 ---
 
-## Whirlpool Microwave F2E0 Error Code — What It Means
-
+## What this code means
 Whirlpool states that the F2E0 code points to a problem with the user interface or keypad, the electronic control, or the wiring between them. The code does not identify a single failed part on its own. In repair practice, F2E0 most often appears when a key is stuck, the membrane keypad has shorted internally, or the ribbon cable connecting the keypad to the control board is loose or contaminated. Moisture, residue, or physical damage on the touchpad can also trigger the fault.
 
 ## Before You Replace Anything
 
 Many people replace the control board first. Before swapping the board, inspect the keypad for stuck keys and check the ribbon cable connector for looseness or contamination, both of which are faster and cheaper to fix.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

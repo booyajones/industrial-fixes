@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Oven F1 Error Code — What It Means
-
+## What this code means
 On Kenmore ovens that use the Frigidaire/Electrolux control platform, F1 indicates a malfunction in the electronic oven control board (ERC/EOC) or, on some models, a fault in the front keypad/touchpad assembly. The display is reporting that the control board has detected an internal failure in its own circuitry or has received abnormal input from a stuck or damaged keypad. The exact meaning is model-specific, so you should verify the fault definition on your oven's technical service sheet if you have access to it.
 
 F1 is not a simple temperature sensor problem or gas-pressure fault. It is a controller failure code. The control board is the appliance's main computer and manages all oven functions. When it fails, the oven typically becomes inoperable or displays erratic behavior. Self-clean cycles often trigger or accelerate board failures on these platforms because of the sustained high heat and relay stress involved.
@@ -26,8 +25,6 @@ F1 is not a simple temperature sensor problem or gas-pressure fault. It is a con
 ## Before You Replace Anything
 
 Many people immediately replace the oven temperature sensor when they see an error code, but F1 is almost never sensor-related. Disconnect the keypad ribbon cable and power the unit back on. If F1 persists, the control board is the problem, not the sensor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

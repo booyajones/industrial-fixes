@@ -14,13 +14,10 @@ money_part: "Panasonic factory-specified SD memory card"
 most_likely_cause: "Wrong SD card installed"
 ---
 
-## Panasonic Microwave U17 Error Code — What It Means
-
+## What this code means
 The U17 error code on Panasonic commercial microwaves and high-speed ovens indicates that an unsupported memory card has been inserted into the SD card slot. These units rely on a specific SD memory card shipped from the factory to store programming and operational data. When the microwave detects a card that does not match the expected specification, or when the correct card is damaged or locked, it displays U17 and will not operate normally.
 
 This is not a heating, door safety, or inverter fault. It is strictly a memory card compatibility issue. Panasonic's support documentation confirms that U17 appears when the wrong SD card type is installed or when the factory card itself has become corrupted or physically damaged.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

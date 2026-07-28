@@ -49,10 +49,3 @@ The flame rod (also called the flame sensor) proves to the control board that th
 ## When to Call a Pro
 
 If you're not comfortable working around gas appliances or if the unit still shows Code 003 after cleaning or replacing the flame rod assembly, call a licensed technician. Flame-proving circuits involve both gas ignition and electrical diagnostics, and improper handling can create safety hazards or damage the control board. A pro can also test gas pressure, verify proper combustion, and rule out other causes like a bad gas valve or blocked venting. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Navien E016 Error Code - Causes & Fix](/posts/navien-tankless-e016-error-code/)
-- [Navien E110 Error Code - Causes & Fix](/posts/navien-tankless-e110-error-code/)
-- [Navien NPE-A 016 — Overheat Lockout Fix](/posts/navien-water-heater-error-code-016/)
-- [Navien Tankless Water Heater Error Codes — Complete Guide](/posts/navien-error-codes/)

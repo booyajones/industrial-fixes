@@ -22,8 +22,7 @@ part_price: "$25-60"
 no_buy_pct: "65%"
 ---
 
-## GE Dishwasher C3 Error Code — What It Means
-
+## What this code means
 C3 on a GE dishwasher signals a drain failure. The control board has detected that water is not leaving the tub as expected, so the dishwasher cannot complete its drain sequence. In practical terms, you will see standing water in the bottom of the tub after a cycle.
 
 GE's own fault-code guide lists C3 as a no-drain condition and recommends a power reset first. If the code returns after reset, basic drain-path checks are the next step. If those checks do not clear the fault, service is recommended.
@@ -31,8 +30,6 @@ GE's own fault-code guide lists C3 as a no-drain condition and recommends a powe
 ## Before You Replace Anything
 
 Many people replace the drain pump when the real problem is a kinked hose or a forgotten knockout plug in the garbage disposal. Always inspect the entire drain path and clear debris from the filter and sump before ordering a pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

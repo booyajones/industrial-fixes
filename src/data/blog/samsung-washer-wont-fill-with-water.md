@@ -17,8 +17,6 @@ tags:
 
 A Samsung washer that won't fill with water is experiencing a water fill fault. The machine is not detecting or achieving proper water entry into the tub. Samsung troubleshooting points first to blocked or kinked supply hoses, closed supply valves, and clogged hose filters or screens as the most common reasons for this behavior. Depending on your model, the washer may display an error code or simply fail to start the cycle.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged inlet mesh screens or hose filters** Debris in the small mesh filters at the hose-to-washer connection restricts water flow and is the most common no-fill cause.
@@ -51,18 +49,18 @@ A Samsung washer that won't fill with water is experiencing a water fill fault. 
 
 Seeing a code on the display? These match this problem:
 
-- [Samsung Washer 1C error code](/posts/samsung-washer-1c-error-code/)
-- [Samsung Washer 4C error code](/posts/samsung-washer-4c-error-code/)
-- [Samsung Washer 5E error code](/posts/samsung-washer-5e-error-code/)
+- Samsung Washer 1C error code
+- Samsung Washer 4C error code
+- Samsung Washer 5E error code
 - [Samsung Washer Ae error code](/posts/samsung-washer-ae-error-code/)
-- [Samsung Washer Bc error code](/posts/samsung-washer-bc-error-code/)
+- Samsung Washer Bc error code
 - [Samsung Washer Bc1 error code](/posts/samsung-washer-bc1-error-code/)
-- [Samsung Washer Be error code](/posts/samsung-washer-be-error-code/)
-- [Samsung Washer Be0 error code](/posts/samsung-washer-be0-error-code/)
+- Samsung Washer Be error code
+- Samsung Washer Be0 error code
 - [Samsung Washer Be1 error code](/posts/samsung-washer-be1-error-code/)
-- [Samsung Washer Be2 error code](/posts/samsung-washer-be2-error-code/)
+- Samsung Washer Be2 error code
 - [Samsung Washer Be3 error code](/posts/samsung-washer-be3-error-code/)
-- [Samsung Washer Be4 error code](/posts/samsung-washer-be4-error-code/)
+- Samsung Washer Be4 error code
 
 ## When to Call a Pro
 

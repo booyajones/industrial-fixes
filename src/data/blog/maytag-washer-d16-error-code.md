@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Maytag debit card reader assembly"
 ---
 
-## Maytag Washer D16 Error Code — What It Means
-
+## What this code means
 D16 is not a standard code on Maytag residential washers. According to Maytag's published documentation, D16 appears on commercial top-load washers with coin or card payment systems and means the control board is not receiving communication from the debit card reader. If you see this code on a home washer or the machine does not have a card reader, the code may be misread or the display may be reporting a different fault. Always verify your exact model number and check whether your machine is a commercial card-operated unit before proceeding.
 
 On confirmed commercial models, the code typically points to a broken connection, a failed card reader, or a control board that cannot see the reader signal. The fault stops payment processing and may prevent the wash cycle from starting.
@@ -25,8 +24,6 @@ On confirmed commercial models, the code typically points to a broken connection
 ## Before You Replace Anything
 
 Many people replace the control board when the real problem is a loose harness plug or a damaged wire between the reader and the board. Inspect all connectors and wiring continuity before ordering expensive electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

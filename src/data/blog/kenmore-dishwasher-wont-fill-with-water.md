@@ -19,8 +19,6 @@ When your Kenmore dishwasher won't fill with water, it means the machine is not 
 
 The problem almost always traces back to the fill path itself rather than the wash pump. The fill circuit includes the water inlet valve, the float and float switch, the door latch and switch, the supply line and shutoff valve, and the control board or timer that sends power to the valve.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged or failed water inlet valve** Debris in the valve screen or a burned-out solenoid coil prevents the valve from opening to let water in.
@@ -53,14 +51,14 @@ The problem almost always traces back to the fill path itself rather than the wa
 If your appliance also shows a code on the display, these match this problem:
 
 - [Kenmore Dishwasher E04 error code](/posts/kenmore-dishwasher-e04-error-code/)
-- [Kenmore Dishwasher E05 error code](/posts/kenmore-dishwasher-e05-error-code/)
-- [Kenmore Dishwasher E06 error code](/posts/kenmore-dishwasher-e06-error-code/)
+- Kenmore Dishwasher E05 error code
+- Kenmore Dishwasher E06 error code
 - [Kenmore Dishwasher E07 error code](/posts/kenmore-dishwasher-e07-error-code/)
 - [Kenmore Dishwasher E08 error code](/posts/kenmore-dishwasher-e08-error-code/)
 - [Kenmore Dishwasher E09 error code](/posts/kenmore-dishwasher-e09-error-code/)
 - [Kenmore Dishwasher E10 error code](/posts/kenmore-dishwasher-e10-error-code/)
 - [Kenmore Dishwasher E11 error code](/posts/kenmore-dishwasher-e11-error-code/)
-- [Kenmore Dishwasher E12 error code](/posts/kenmore-dishwasher-e12-error-code/)
+- Kenmore Dishwasher E12 error code
 - [Kenmore Dishwasher E13 error code](/posts/kenmore-dishwasher-e13-error-code/)
 - [Kenmore Dishwasher E14 error code](/posts/kenmore-dishwasher-e14-error-code/)
 - [Kenmore Dishwasher F1E1 error code](/posts/kenmore-dishwasher-f1e1-error-code/)

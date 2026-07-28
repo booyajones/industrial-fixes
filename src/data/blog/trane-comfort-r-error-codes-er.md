@@ -13,11 +13,8 @@ money_part: "Communication wire (18 AWG, 4-conductor)"
 most_likely_cause: "Loose or damaged communication wire"
 ---
 
-## Trane ComfortR ER Error Code — What It Means
-
+## What this code means
 The ER code on a Trane ComfortR communicating system indicates a communication error between system components — typically between the air handler or furnace control board, the outdoor unit, and the ComfortLink II thermostat. In a communicating HVAC system, all components send digital data over a two-wire bus. When one component fails to respond or sends corrupted data, the system flags ER and may suspend operation until communication is restored.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,18 +44,3 @@ The ER code on a Trane ComfortR communicating system indicates a communication e
 ## When to Call a Pro
 
 Trane communicating system diagnostics require familiarity with the ComfortLink II architecture and access to Trane's service tool or diagnostic port. If you cannot isolate the faulty component after power cycling and wiring inspection, call a Trane-certified technician who has the diagnostic software.
-
-## Related Articles
-
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-
-## See Also
-
-- [Trane ComfortLink II Error Codes — Common Faults and Fixes](/posts/trane-comfortlink-ii-error-codes/)
-- [Trane 5 Flashes Error Code — Causes & Fix](/posts/trane-5-flashes-error-code/)
-- [Trane Tracer BAS Fault Codes - Complete Guide](/posts/trane-tracer-fault-codes/)
-- [Trane / American Standard 4-Blink Error Code — Limit Circuit Trip Fix](/posts/trane-4-blink-error-code/)

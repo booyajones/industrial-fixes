@@ -20,8 +20,6 @@ When your Samsung oven broiler is not working, the oven is receiving the broil c
 
 The symptom is not a unique fault code. Instead, it is a heating failure that points to one of three areas: the broil element has burned out and become open-circuit, the supply wiring or terminals feeding the element are damaged or disconnected, or the control board is not sending 240 VAC to the element when broil is selected.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed broil element** The element burns out or becomes open-circuit internally, preventing it from glowing red hot even when voltage is applied.
@@ -53,18 +51,18 @@ The symptom is not a unique fault code. Instead, it is a heating failure that po
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Samsung Oven C 20 error code](/posts/samsung-oven-c-20-error-code/)
-- [Samsung Oven C 21 error code](/posts/samsung-oven-c-21-error-code/)
-- [Samsung Oven C 22 error code](/posts/samsung-oven-c-22-error-code/)
-- [Samsung Oven C 23 error code](/posts/samsung-oven-c-23-error-code/)
-- [Samsung Oven C 24 error code](/posts/samsung-oven-c-24-error-code/)
-- [Samsung Oven C D0 error code](/posts/samsung-oven-c-d0-error-code/)
-- [Samsung Oven C D1 error code](/posts/samsung-oven-c-d1-error-code/)
-- [Samsung Oven C F0 error code](/posts/samsung-oven-c-f0-error-code/)
+- Samsung Oven C 20 error code
+- Samsung Oven C 21 error code
+- Samsung Oven C 22 error code
+- Samsung Oven C 23 error code
+- Samsung Oven C 24 error code
+- Samsung Oven C D0 error code
+- Samsung Oven C D1 error code
+- Samsung Oven C F0 error code
 - [Samsung Oven E 08 error code](/posts/samsung-oven-e-08-error-code/)
 - [Samsung Oven E 27 error code](/posts/samsung-oven-e-27-error-code/)
-- [Samsung Oven E 28 error code](/posts/samsung-oven-e-28-error-code/)
-- [Samsung Oven E 54 error code](/posts/samsung-oven-e-54-error-code/)
+- Samsung Oven E 28 error code
+- Samsung Oven E 54 error code
 
 ## When to Call a Pro
 

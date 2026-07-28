@@ -59,18 +59,3 @@ Code 414 is stored in the furnace's fault history and displayed on the diagnosti
 Gas valve replacement is not a DIY repair in most states. Disconnecting a gas line requires a licensed contractor in jurisdictions that enforce local mechanical codes, and the work must be leak-tested before the system is returned to service. If your 414 code points to a gas valve failure, call a licensed HVAC contractor — the gas valve itself is inexpensive, but the labor and leak test are required steps, not optional ones. Control board replacement is generally within the skill set of a competent DIYer with electrical troubleshooting experience, but don't replace the board before confirming the gas valve and wiring are healthy — you'll spend $250 and still have a 414 code.
 
 > **Pro tip:** Lennox 414 codes that appear only on the first heat call of the day (and clear after a manual reset) often indicate a gas valve that's sticking closed due to debris in the valve seat — not a relay fault at all. Ask your tech to check inlet gas pressure and run the valve through several cycles before condemning either the board or the valve.
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-
-## See Also
-
-- [Lennox XC16 Air Conditioner Error Codes — Fault Code Diagnostic Guide](/posts/lennox-xc16-error-codes/)
-- [Lennox Error Code 225 — Causes & Fix](/posts/lennox-error-code-225/)
-- [Lennox SLP98V Error Codes — Variable-Speed Furnace Fault Guide](/posts/lennox-slp98v-error-codes/)
-- [Lennox iHarmony Zoning System Error Codes — Troubleshooting Guide](/posts/lennox-iharmony-zoning-error/)

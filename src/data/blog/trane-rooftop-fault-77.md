@@ -85,18 +85,3 @@ Trane RTUs require a manual reset for Fault 77 in most configurations:
 | High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-rooftop-fault-77&tag=errorcodefixes-20) \| Trane part BRD05072 or equivalent — match trip pressure |
 | TXV valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-rooftop-fault-77&k=TXV+valve&tag=errorcodefixes-20) \| Model-specific — match refrigerant type |
 > **Pro tip:** On hot summer days, high head pressure is often entirely caused by a dirty condenser coil or a stopped condenser fan. Clean the coil and replace the capacitor before assuming refrigerant issues.
-
-## Related Articles
-
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-
-## See Also
-
-- [Trane Chiller Fault Codes — Complete Troubleshooting Guide](/posts/trane-chiller-fault-codes/)
-- [Trane XV80 Furnace Error Codes — Flash Code Diagnostic Guide](/posts/trane-xv80-error-codes/)
-- [Trane Tracer BAS Fault Codes - Complete Guide](/posts/trane-tracer-fault-codes/)
-- [Trane TAM Air Handler Error Codes — Complete Guide](/posts/trane-tam-error-codes/)

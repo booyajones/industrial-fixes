@@ -13,11 +13,8 @@ money_part: "Navien hot water outlet thermistor"
 most_likely_cause: "Failed outlet thermistor"
 ---
 
-## Navien E007 Error Code — What It Means
-
+## What this code means
 The E007 error on your Navien tankless water heater means the hot water outlet thermistor circuit is open. In simple terms, the control board cannot see a valid electrical signal from the temperature sensor on the outgoing hot-water line. This sensor tells the unit how hot the water leaving the heater is, so when the circuit is open the heater locks out to protect itself. An open circuit usually points to a failed thermistor, broken wiring, or a loose connector rather than a minor calibration issue.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ The E007 error on your Navien tankless water heater means the hot water outlet t
 ## When to Call a Pro
 
 Call a licensed plumber or Navien service technician if you are not comfortable working with 120-volt power, do not own a multimeter, or cannot locate the outlet thermistor on your unit. Also call if you replace the sensor and repair all wiring but E007 returns, since that points to a control-board issue that requires factory training and genuine parts. Navien recommends having your serial number ready when you contact support so the technician can pull the correct service data for your specific model.
-
-## See Also
-
-- [Navien E009 Error Code — Causes & Fix](/posts/navien-error-code-e009/)
-- [Navien Error Code E007 — Causes & Fix](/posts/navien-error-code-e007/)
-- [Navien E006 Error Code - Causes & Fix](/posts/navien-tankless-e006-error-code/)
-- [Navien NPE-A 016 — Overheat Lockout Fix](/posts/navien-water-heater-error-code-016/)

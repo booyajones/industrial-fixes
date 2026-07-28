@@ -19,8 +19,7 @@ free_checks:
   - "Disconnect the motor leads from the drive and run the drive unloaded to see if the alarm clears."
 ---
 
-## Danfoss FC302 AL-164 — What It Means
-
+## What this code means
 The code AL-164 does not exist in the Danfoss FC302 alarm list. Valid FC302 alarms typically range from Alarm 1 through Alarm 39 for standard faults, or Alarm 5376–65535 for internal faults with specific sub-codes displayed in parameter 15-32. You may be misreading the display or confusing the alarm number with a sub-code inside an internal fault parameter. Common alarms that technicians mistake for AL-164 include Alarm 13 (Overcurrent), which triggers when the drive output current exceeds the peak limit due to a motor short or load spike, and Alarm 16 (DC Undervoltage), which appears when the DC bus voltage drops below the minimum threshold (around 200V). If your display shows a three-digit number preceded by "AL," double-check the exact digits and consult the alarm list in your FC302 manual.
 
 If you are actually seeing Alarm 13, the drive has detected excessive output current to the motor. This is the most common severe fault on the FC302 and usually points to a shorted motor winding, a sudden mechanical overload, loose cable connections, or a failed IGBT module inside the drive. If the alarm is Alarm 16, the drive's DC link voltage fell too low, often caused by a blown input fuse, failed rectifier, or unstable incoming AC supply. Before attempting any repair, verify the exact alarm number and record any sub-code displayed in parameter 15-32, as that will guide your troubleshooting.
@@ -28,8 +27,6 @@ If you are actually seeing Alarm 13, the drive has detected excessive output cur
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive when the fault is actually a shorted motor or loose cable. Always disconnect the motor and run the drive unloaded to isolate whether the problem is internal or external.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Danfoss service partner immediately if the alarm persists with the motor disconnected, as this indicates an internal drive failure requiring specialized diagnostic equipment and replacement of high-voltage components like IGBT modules or power boards. Also call a pro if you lack the training or tools to perform a megohm test on the motor, measure three-phase input power, or safely discharge the drive's capacitors. Any work inside the drive enclosure involves dangerous DC bus voltages that remain present even after AC power is removed, so only trained personnel should open the unit or replace internal boards.
 
 **Rough cost:** A pro service call runs about $300-800 for motor insulation testing, cable repair, or IGBT module replacement.
-
-## See Also
-
-- [Danfoss FC302 ALARM 36 - Causes & Fix](/posts/danfoss-fc302-alarm-36-fault-code/)
-- [Danfoss FC302 AL-83 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-83-fault-code/)
-- [Danfoss FC302 Alarm 34 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-34-fault-code/)
-- [Danfoss FC302 VFD AL-15 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-156-fault-code/)

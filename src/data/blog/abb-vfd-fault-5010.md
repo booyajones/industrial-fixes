@@ -13,11 +13,8 @@ money_part: "Safety relay (24VDC)"
 most_likely_cause: "Safety relay or safety PLC opened the STO circuit"
 ---
 
-## ABB VFD Fault 5010 — What It Means
-
+## What this code means
 Fault 5010 on ABB ACS drives (ACS580, ACS880, ACH580) indicates that the Safe Torque Off (STO) function has been activated. STO is a safety function per IEC 61800-5-2 that removes the gate drive signals from the output IGBTs, preventing the drive from producing torque — without removing main power from the drive. Fault 5010 means the STO circuit has interrupted motor output, either intentionally (safety system request) or due to a wiring or component problem.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,27 +42,3 @@ Fault 5010 on ABB ACS drives (ACS580, ACS880, ACH580) indicates that the Safe To
 ## When to Call a Pro
 
 Modifying or bypassing STO safety circuits is a machinery safety violation and must never be done to get a machine running. Fault 5010 without an obvious safety trigger requires a certified safety engineer and/or ABB service technician to diagnose the STO circuit.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [PowerFlex vs SINAMICS VFD compared](/posts/powerflex-vs-sinamics-vfd/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [PowerFlex F004 undervoltage fix](/posts/allen-bradley-powerflex-f004-fault/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [PowerFlex F012 hardware overcurrent](/posts/allen-bradley-powerflex-f012-fault/)
-
-## See Also
-
-- [ABB VFD Fault 3210 — Causes & Fix](/posts/abb-vfd-fault-3210/)
-- [ABB ACS580 Fault 2330 Earth Leakage, Causes & Fix](/posts/abb-acs580-fault-2330/)
-- [ABB VFD Fault 2310 — Causes & Fix](/posts/abb-vfd-fault-2310/)
-- [ABB ACS580 Fault Codes — Complete Diagnosis & Fix Guide](/posts/abb-acs580-fault-codes/)

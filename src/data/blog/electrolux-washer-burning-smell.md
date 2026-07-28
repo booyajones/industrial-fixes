@@ -19,8 +19,6 @@ A burning smell from an Electrolux washer is a symptom of overheating or rubbing
 
 Most often the odor comes from mechanical drag in the drive system (worn belt, seized pulley, blocked pump) or from electrical overheating (motor windings, control board shorts). The smell means friction or current is generating heat where it shouldn't, and continued operation can damage expensive parts or create a fire hazard.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Drive belt slipping or burning** A worn or misaligned belt can slip on the pulleys and overheat, creating a rubber burning smell as it rubs under load.

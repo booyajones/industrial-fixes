@@ -22,8 +22,7 @@ part_price: "$30-70"
 no_buy_pct: "65%"
 ---
 
-## Maytag Washer F27 Error Code — What It Means
-
+## What this code means
 The F27 code on a Maytag washer signals an overflow condition. The control board sees the pressure switch overflow contact closed for more than 60 seconds and treats this as the tub overfilling. When F27 appears, the machine typically locks the door and runs the drain pump continuously to remove excess water.
 
 In practice, this code rarely means the washer actually filled with too much water. It usually points to a problem in the pressure switch circuit, a blocked drain path, or wiring and control issues that make the switch think the tub is overflowing when it is not.
@@ -31,8 +30,6 @@ In practice, this code rarely means the washer actually filled with too much wat
 ## Before You Replace Anything
 
 Many people replace the pressure switch or control board first. Before buying parts, inspect the drain hose for kinks and clean the pump filter and drain pump inlet for debris.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

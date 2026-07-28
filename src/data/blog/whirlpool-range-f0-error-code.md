@@ -17,8 +17,7 @@ money_part: "Electronic oven control board (EOC)"
 part_price: "$100-250"
 ---
 
-## Whirlpool Range F0 Error Code — What It Means
-
+## What this code means
 The F0 (or F0 E0) code on a Whirlpool range or wall oven indicates the electronic oven control (EOC) has detected an abnormal condition but cannot classify it into a more specific fault code. Whirlpool describes this as a problem in the oven control system, the electronic control, or associated wiring. It is a generic control-system fault rather than a single-component diagnosis.
 
 The control board is signaling that something is wrong but lacks enough information to pinpoint the exact issue. Common triggers include electronic control failure inside the EOC, a stuck key or failed keypad, loose or corroded wiring connections between the keypad and control, or moisture and contamination around the control panel or ribbon cable area.
@@ -26,8 +25,6 @@ The control board is signaling that something is wrong but lacks enough informat
 ## Before You Replace Anything
 
 Many people replace the keypad or touchpad first. Before buying parts, disconnect power for 1 minute and verify wiring harness connections are clean and fully seated, which often clears transient faults at no cost.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

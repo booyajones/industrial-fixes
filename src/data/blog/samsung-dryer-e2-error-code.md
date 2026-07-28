@@ -17,8 +17,7 @@ money_part: "User interface or keypad assembly"
 part_price: "$40-120"
 ---
 
-## Samsung Dryer E2 Error Code — What It Means
-
+## What this code means
 The E2 or 6E2 error on a Samsung dryer indicates a keypad or button-input fault. The control board is detecting that one of the console buttons is stuck, jammed, or continuously pressed rather than releasing normally. This is not a heating or airflow problem. The dryer thinks a button is being held down when it should be free.
 
 Samsung groups these codes with stuck-button and control-panel input issues. The fault can come from a physically stuck button, moisture or residue in the control area, a faulty user interface or keypad assembly, or a main control board misreading the input signal.
@@ -26,8 +25,6 @@ Samsung groups these codes with stuck-button and control-panel input issues. The
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first when the real culprit is a stuck or contaminated button on the user interface. Press and release each button carefully to check for binding, and inspect for moisture or detergent residue before ordering expensive boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -17,8 +17,7 @@ money_part: "LG oven temperature sensor (thermistor)"
 part_price: "$20-60"
 ---
 
-## LG Oven F4 Error Code — What It Means
-
+## What this code means
 On LG ovens and ranges, the F4 error code indicates a temperature sensor fault. LG describes it as a shorted oven sensor or lower oven thermistor error. The control board detects a sensor circuit reading outside the normal range and will typically prevent the oven from operating until you clear or repair the fault.
 
 This code is specific to LG ovens and ranges. On other LG appliances like microwaves, F4 can mean something different, so confirm your appliance type. The error usually appears during a bake or self-clean cycle when the control board cannot read valid temperature data from the sensor.
@@ -26,8 +25,6 @@ This code is specific to LG ovens and ranges. On other LG appliances like microw
 ## Before You Replace Anything
 
 Many people replace the control board first without testing the sensor resistance. Measure the sensor at room temperature (should read about 1,100 Ω) and check the wiring harness for damage before spending money on a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a technician if you are uncomfortable working with live AC connections or removing the range back panel. Also call if you have tested the sensor resistance and wiring harness and both check out normal, because control board diagnosis and replacement require careful handling of multiple connectors and some models need programming after board replacement. If the code appears on a dual-oven model and you are unsure which cavity's sensor is faulting, a service tech can isolate the circuit quickly. Gas range owners should call a pro if any gas line work is needed to move the appliance safely.
 
 **Rough cost:** DIY runs about $20–60 in parts, 30–60 min. A pro service call runs about $150–300.
-
-## See Also
-
-- [LG CH45 Error Code - Causes & Fix](/posts/lg-mini-split-ch45-error-code/)
-- [LG Mini-Split CH27 Error Code - Causes & Fix](/posts/lg-mini-split-ch27-error-code/)
-- [LG Mini Split CH93 Error Code - Causes & Fix](/posts/lg-mini-split-ch93-error-code/)
-- [LG DLEX4000W Dryer Problems & Error Codes](/posts/lg-dlex4000w-dryer-problems/)

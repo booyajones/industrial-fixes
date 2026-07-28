@@ -17,13 +17,10 @@ free_checks:
   - "Download or find the installation and service manual for your exact model from the Weil-McLain website"
 ---
 
-## Weil-McLain A65 Error Code — What It Means
-
+## What this code means
 A65 is not a universally defined error code across the Weil-McLain product line. The same code can mean different things depending on your boiler family and control board. Weil-McLain manuals direct technicians to retrieve the stored fault history from the diagnostic menu and consult the model-specific manual for the exact meaning and troubleshooting steps.
 
 Without knowing your exact boiler model and control type, the fault cannot be reliably diagnosed. The manufacturer's workflow requires identifying the boiler model, reviewing the lockout history in the contractor menu, and following the troubleshooting table for that specific fault in your manual.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -67,10 +64,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you cannot locate your model manual, if the diagnostic menu does not clarify the fault, or if the troubleshooting steps require testing gas pressure, checking ignition timing, or replacing control boards. Gas-fired boiler work requires specialized training and licensing in most jurisdictions. A qualified technician will retrieve the fault history, identify the exact meaning of A65 for your model, perform the manufacturer's diagnostic procedure, and order the correct parts using your boiler's model and CP number. Do not bypass safety lockouts or reset the boiler repeatedly without addressing the underlying cause.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain A61 Error - Causes & Fix](/posts/weil-mclain-boiler-a61-error-code/)
-- [Weil-McLain A16 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a16-error-code/)
-- [Weil-McLain A133 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a133-error-code/)
-- [Weil-McLain A118 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a118-error-code/)

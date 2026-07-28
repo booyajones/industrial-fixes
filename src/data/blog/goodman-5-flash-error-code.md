@@ -13,11 +13,8 @@ money_part: "Flame sensor rod"
 most_likely_cause: "Leaking or sticking gas valve"
 ---
 
-## Goodman 5 Flash Error Code — What It Means
-
+## What this code means
 Five flashes on a Goodman furnace diagnostic LED indicates "Flame Sensed When No Flame Should Be Present" — the flame sensor is detecting a signal during a period when the gas valve is closed and no burner should be lit. This is a safety lockout. The control board interprets a voltage signal from the flame sensor without a corresponding call for heat as a dangerous condition (potential gas leak igniting outside the normal sequence) and shuts the furnace down.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Five flashes on a Goodman furnace diagnostic LED indicates "Flame Sensed When No
 ## When to Call a Pro
 
 Any suspected gas valve leak requires a licensed gas technician. Do not operate the furnace if you smell gas or a combustible gas detector reads positive near the burner — evacuate and call your gas utility.
-
-## See Also
-
-- [Goodman Furnace E1 Error Code — Causes & Fix](/posts/goodman-furnace-e1-error-code/)
-- [Goodman 7 Flash Error Code — Ignition Lockout Fix](/posts/goodman-7-flash-error-code/)
-- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
-- [Goodman 9 Flash Error Code — Causes & Fix](/posts/goodman-9-flash-error-code/)
-
-## Related Articles
-
-- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
-- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
-- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
-- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
-- [Goodman 6 Flash Error Code — Rollout Switch Open Fix](/posts/goodman-6-flash-error-code/)

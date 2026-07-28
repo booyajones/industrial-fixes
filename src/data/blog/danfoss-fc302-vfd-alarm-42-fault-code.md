@@ -13,13 +13,10 @@ money_part: "Relay coil or contactor coil"
 most_likely_cause: "Excessive current draw from connected load"
 ---
 
-## Danfoss FC302 Alarm 42 — What It Means
-
+## What this code means
 Alarm 42 on the Danfoss VLT AutomationDrive FC 302 indicates an overload condition on digital output terminal X30/6 or X30/7. The drive has detected that one of these output terminals is drawing excessive current, either from an overloaded external device or a short circuit in the wiring. This is not a motor overload or input power fault. It is specifically related to the control outputs on those two terminals.
 
 The drive will trigger this alarm to protect the output stage from damage. The problem lies either in the external load connected to the terminal (such as a relay coil, contactor, or solenoid drawing too much current), a wiring fault creating a short circuit, or in rare cases a defective control card if the alarm persists with all external loads disconnected.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ The drive will trigger this alarm to protect the output stage from damage. The p
 ## When to Call a Pro
 
 Call a qualified electrician or drive technician if you are not comfortable working with VFD wiring and control circuits, or if the alarm persists after disconnecting all external loads and verifying wiring integrity. Replacing the control card or I/O board requires familiarity with the drive's internal components and proper handling of static-sensitive electronics. Professional diagnostics can isolate whether the fault is in the field wiring, the external load, or the drive's internal output stage, and make sure safe repair of industrial control equipment.
-
-## See Also
-
-- [Danfoss FC302 VFD Alarm 44 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-44-fault-code/)
-- [Danfoss VFD Fault W30 — Brake Resistor Overtemperature Fix](/posts/danfoss-vfd-fault-w30/)
-- [Danfoss FC302 Alarm 52 - AMA Low Inom Causes & Fix](/posts/danfoss-fc302-vfd-alarm-52-fault-code/)
-- [Danfoss FC302 VFD Alarm 33 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-33-fault-code/)

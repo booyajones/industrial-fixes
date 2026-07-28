@@ -17,8 +17,7 @@ money_part: "User Interface / Touchpad Assembly"
 part_price: "$50-150"
 ---
 
-## Frigidaire Oven F41 Error Code — What It Means
-
+## What this code means
 The F41 code on a Frigidaire range signals a cooktop lockout fault. The control board believes the cooktop or oven lock feature is active or not clearing properly. Frigidaire groups F40 and F41 together under the same cooktop lockout issue, so the exact behavior depends on your model. When this code appears, the cooktop keys are usually unresponsive and the lock indicator may be lit on the display.
 
 This code does not point to an electrical component failure in most cases. Instead, the lock function was enabled and failed to turn off normally, or the control is misreading input from the user interface. A simple power reset or manual unlock procedure clears the fault in the majority of cases.
@@ -26,8 +25,6 @@ This code does not point to an electrical component failure in most cases. Inste
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first, but a stuck or dirty lock button or loose ribbon cable between the keypad and control causes most F41 faults. Always try the manufacturer reset and inspect the console connections before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

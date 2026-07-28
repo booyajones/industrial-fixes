@@ -17,8 +17,6 @@ money_part: "EEV coil"
 
 The Mitsubishi PUY (Power Unit, Y-series) is a ducted air handler designed to work with Mitsubishi's City Multi VRF system. It is a commercial-grade indoor unit that connects to the outdoor VRF or heat pump system via refrigerant piping. Error codes appear on the wired remote controller, the main unit LED, or the ME remote maintenance controller.
 
-[Jump to Fix](#fix)
-
 ## Mitsubishi PUY Common Error Codes
 
 | Code | Meaning |
@@ -70,18 +68,3 @@ The Mitsubishi PUY (Power Unit, Y-series) is a ducted air handler designed to wo
 ## When to Call a Pro
 
 Mitsubishi VRF systems require City Multi-certified technicians for refrigerant work, system commissioning, and address configuration. Any U6 fault should be investigated at the outdoor VRF unit as well — the indoor PUY is reporting a system-level issue, not just an indoor unit issue.
-
-## Related Articles
-
-- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
-- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
-- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
-- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
-- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
-
-## See Also
-
-- [Mitsubishi E5 Error Code — Causes & Fix](/posts/mitsubishi-e5-error-code/)
-- [Mitsubishi Mini Split Error Codes — Complete Guide](/posts/mitsubishi-mini-split-error-codes/)
-- [Mitsubishi FR-E800 Fault E6 — Causes & Fix](/posts/mitsubishi-fr-e800-fault-e6/)
-- [Mitsubishi Mr. Slim Error Codes: Complete Guide](/posts/mitsubishi-mr-slim-error-codes/)

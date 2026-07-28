@@ -13,11 +13,8 @@ money_part: "Outlet water temperature thermistor"
 most_likely_cause: "Very low water flow rate"
 ---
 
-## Navien Error Code E007 — What It Means
-
+## What this code means
 Navien E007 indicates **abnormally high temperature at the hot water outlet** — the outgoing domestic hot water (DHW) sensor read a temperature above the safe limit during operation. Navien tankless water heaters monitor the outlet temperature continuously; if it exceeds ~185°F (85°C) or rises faster than the unit's safety algorithm allows, E007 trips the unit to prevent scalding or damage to the heat exchanger. This fault is more common during low-flow conditions where water moves slowly through the heat exchanger and absorbs too much heat.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Navien E007 indicates **abnormally high temperature at the hot water outlet** �
 ## When to Call a Pro
 
 Persistent E007 after descaling and confirming good flow may indicate a partially failed gas valve that's not modulating properly, causing overcombustion. Gas valve service requires a licensed plumber or HVAC technician with Navien training.
-
-## Related Articles
-
-- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
-- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)
-- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
-- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
-- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)
-
-## See Also
-
-- [Navien NFC Combi Boiler Error Codes: Complete Guide](/posts/navien-nfc-error-codes/)
-- [Navien NCB-700 Combination Boiler Error Codes - Full Fault Guide](/posts/navien-ncb-700-error-codes/)
-- [Navien NPE-240S Tankless Water Heater Error Codes - Full Fault Guide](/posts/navien-npe-240s-error-codes/)
-- [Navien E009 Error Code — Causes & Fix](/posts/navien-error-code-e009/)

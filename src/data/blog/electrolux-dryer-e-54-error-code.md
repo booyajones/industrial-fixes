@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Electrolux Dryer E54 Error Code — What It Means
-
+## What this code means
 E54 on an Electrolux dryer signals a drive motor relay circuit failure. The control board is detecting a problem energizing or sensing the motor drive circuit. This is a motor and power-related fault, not a ventilation or heating issue. The relay circuit that starts and controls the drum motor is either not closing properly, not receiving adequate power, or detecting an overload condition that prevents normal operation.
 
 The code appears when the control tries to start the motor but does not receive the expected feedback that the circuit is working. This can stem from electrical supply problems, a mechanical load preventing motor start, a failed capacitor on models that use capacitor-assisted start, or a fault in the control board relay itself. Unlike ventilation codes such as EF1, E54 points directly to the motor drive system rather than airflow restrictions.
@@ -25,8 +24,6 @@ The code appears when the control tries to start the motor but does not receive 
 ## Before You Replace Anything
 
 Many people replace the main control board first. Always verify incoming line voltage at the terminal block under load, test the start capacitor if equipped, and hand-turn the drum to check for mechanical drag before replacing the control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

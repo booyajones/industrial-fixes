@@ -13,11 +13,8 @@ money_part: "Motor cable (VFD-rated, screened)"
 most_likely_cause: "Motor short circuit"
 ---
 
-## Schneider Altivar Fault OCF — What It Means
-
+## What this code means
 OCF (Overcurrent Fault) on a Schneider Altivar drive (ATV12, ATV320, ATV630, ATV930) indicates that the output current exceeded the instantaneous overcurrent trip threshold — typically 200–300% of the drive's rated current depending on the model. OCF is a fast hardware-level protection; it trips in microseconds (unlike OLF which is thermal and time-delayed) to prevent IGBT destruction from a hard short or sudden mechanical overload.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,11 +41,3 @@ OCF (Overcurrent Fault) on a Schneider Altivar drive (ATV12, ATV320, ATV630, ATV
 ## When to Call a Pro
 
 If the drive itself trips OCF with no output connected, the internal IGBT or driver card has failed. Drive internal repair requires Schneider-authorized service or drive replacement. Always follow lockout/tagout procedures before testing output circuits.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

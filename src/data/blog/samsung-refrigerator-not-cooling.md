@@ -19,8 +19,6 @@ Samsung refrigerators showing no cooling or poor cooling are experiencing a symp
 
 The exact cause varies by model and operating conditions. Samsung's published troubleshooting starts with power verification, checking for Cooling Off Mode, door sealing, vent clearance, and food stocking before requesting service if cooling does not return after a power cycle.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Cooling Off Mode or demo mode enabled** This mode disables cooling entirely and is the first item Samsung checks during troubleshooting.
@@ -54,17 +52,17 @@ The exact cause varies by model and operating conditions. Samsung's published tr
 
 Seeing a code on the display? These match this problem:
 
-- [Samsung Refrigerator 1E error code](/posts/samsung-refrigerator-1e-error-code/)
-- [Samsung Refrigerator 21E error code](/posts/samsung-refrigerator-21e-error-code/)
-- [Samsung Refrigerator 22E error code](/posts/samsung-refrigerator-22e-error-code/)
+- Samsung Refrigerator 1E error code
+- Samsung Refrigerator 21E error code
+- Samsung Refrigerator 22E error code
 - [Samsung Refrigerator 25E error code](/posts/samsung-refrigerator-25e-error-code/)
-- [Samsung Refrigerator 2E error code](/posts/samsung-refrigerator-2e-error-code/)
-- [Samsung Refrigerator 33E error code](/posts/samsung-refrigerator-33e-error-code/)
-- [Samsung Refrigerator 39E error code](/posts/samsung-refrigerator-39e-error-code/)
-- [Samsung Refrigerator 4E error code](/posts/samsung-refrigerator-4e-error-code/)
-- [Samsung Refrigerator 5E error code](/posts/samsung-refrigerator-5e-error-code/)
-- [Samsung Refrigerator 88 error code](/posts/samsung-refrigerator-88-error-code/)
-- [Samsung Refrigerator Ap error code](/posts/samsung-refrigerator-ap-error-code/)
+- Samsung Refrigerator 2E error code
+- Samsung Refrigerator 33E error code
+- Samsung Refrigerator 39E error code
+- Samsung Refrigerator 4E error code
+- Samsung Refrigerator 5E error code
+- Samsung Refrigerator 88 error code
+- Samsung Refrigerator Ap error code
 
 ## When to Call a Pro
 

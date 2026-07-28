@@ -17,8 +17,7 @@ free_checks:
   - "Inspect all wiring plugs and connectors to the control, sensors, and ignition components for looseness or corrosion."
 ---
 
-## Weil-McLain Boiler A96 Error Code — What It Means
-
+## What this code means
 Weil-McLain does not publish a universal A96 fault code definition across all boiler models. The exact meaning depends on your specific boiler family and the control board installed. Modern Weil-McLain controls store diagnostic and fault history, and the manufacturer's manuals emphasize reading that fault log and matching the code to your model-specific table rather than relying on generic code lists.
 
 Because A96 is not confirmed in available Weil-McLain documentation, the first step is to identify your exact boiler model from the nameplate, locate the correct manual, and access the control's diagnostics menu to read both active and past errors. Common fault categories on Weil-McLain systems include ignition or flame-proving problems, low system pressure or water level, limit or sensor issues, gas valve faults, and circulation or flow problems. Until you match A96 to your model's official fault table, treat it as an unverified code and follow your manual's diagnostic procedure.
@@ -26,8 +25,6 @@ Because A96 is not confirmed in available Weil-McLain documentation, the first s
 ## Before You Replace Anything
 
 Do not replace the control board or gas valve before reading the fault history and checking system pressure, ignition components, and wiring connections. Many lockouts are caused by low water pressure, dirty flame sensors, or loose connectors that cost nothing to fix.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you are not comfortable working with gas appliances, if you cannot locate or interpret your boiler's fault history, or if basic checks (pressure, ignition components, wiring) do not resolve the lockout. Gas valve diagnosis and replacement, control-board troubleshooting, and any work involving combustion safety or sealed-system components require specialized tools, a combustion analyzer, and trade knowledge. A qualified technician will read the fault log, perform voltage and continuity tests on sensors and valves, verify flame stability and combustion efficiency, and make sure all safety limits are functioning correctly before returning the boiler to service.
 
 **Rough cost:** A pro service call runs about $150–400.
-
-## See Also
-
-- [Weil-McLain A165 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a165-error-code/)
-- [Weil-McLain A65 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a65-error-code/)
-- [Weil-McLain Boiler Error Code E10 — Causes & Fix](/posts/weil-mclain-e10-error-code/)
-- [Weil-McLain A90 Error - Causes & Fix](/posts/weil-mclain-boiler-a90-error-code/)

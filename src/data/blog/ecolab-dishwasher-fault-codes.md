@@ -27,8 +27,6 @@ Ecolab provides chemical programs and equipment for commercial dishwashers acros
 | AL 07 | Communication fault (machine interface) |
 | AL 08 | Probe fault (conductivity sensor) |
 
-[Jump to Fix](#fix)
-
 ## Common Fixes {#fix}
 
 **AL 01/AL 02 (empty):** Check product containers and prime the dispensing lines. Ecolab dispensers are volume-based — verify dosing pump operates when called.

@@ -19,8 +19,7 @@ free_checks:
 part_price: "$25-60"
 ---
 
-## Hoshizaki E8 Error Code — What It Means
-
+## What this code means
 The E8 error code on a Hoshizaki ice machine signals a bin-thermistor fault. The bin-full sensor (thermistor) is reading out of range, is open-circuited, or is shorted, so the control board cannot correctly detect whether the ice bin is full. The error triggers when the resistance value from the sensor falls outside the manufacturer's expected window, indicating an electrical failure in the sensor itself or its wiring.
 
 This is distinct from pressure switch faults or defrost thermistor problems, which generate different codes. The machine will not operate normally until the thermistor and its circuit are restored to the correct resistance range.
@@ -28,8 +27,6 @@ This is distinct from pressure switch faults or defrost thermistor problems, whi
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board first. Always measure the thermistor resistance and test the wiring harness continuity before condemning the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a commercial refrigeration technician if you are not comfortable working with electrical components or if the thermistor and wiring both test good yet the error persists, indicating a control board fault. Technicians have model-specific resistance charts and can quickly isolate board-level failures. Also call a pro if the machine has refrigerant leaks, compressor issues, or other simultaneous faults that require licensed service.
 
 **Rough cost:** DIY runs about $30-80 in parts, 30-60 min. A pro service call runs about $150-300.
-
-## See Also
-
-- [Hoshizaki Ice Machine E7 Error Code — High-Side Pressure Switch Fault Fix](/posts/hoshizaki-e7-pressure-switch/)
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
-- [Hoshizaki KM-2000SAJ Ice Machine Error Codes - Full Diagnostic Guide](/posts/hoshizaki-km-2000saj-error-codes/)
-- [Hoshizaki F2 Error Code — Ice Full Sensor Fault Causes & Fix](/posts/hoshizaki-f2-error-code/)

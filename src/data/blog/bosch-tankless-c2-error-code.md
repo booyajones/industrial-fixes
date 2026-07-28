@@ -20,15 +20,12 @@ free_checks:
 no_buy_pct: "70%"
 ---
 
-## Bosch C2 Error Code — What It Means
-
+## What this code means
 The C2 error code on a Bosch tankless water heater means the unit has detected excessive flue blockage during startup, preventing sufficient combustion air from reaching the burner. The appliance shuts down automatically to stop dangerous flue gases from accumulating inside the cabinet. This is a safety lockout triggered by the internal sensor when the air intake or exhaust path is obstructed, or when the fan cannot move enough air through the system.
 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the gas valve or fan motor when the real problem is a simple blockage in the vent pipe. Always inspect and clean the intake and exhaust terminals before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

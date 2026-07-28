@@ -16,8 +16,7 @@ money_part: "Maytag washer user interface control board"
 part_price: "$100-200"
 ---
 
-## Maytag F73 Error Code — What It Means
-
+## What this code means
 The F73 code on Maytag front-load washers signals an interface communication error. The main control board cannot talk to the front interface control panel board. This breaks the link between the buttons you press and the main logic that runs wash cycles.
 
 The fault typically appears mid-cycle or at startup and locks out normal operation until the communication path is restored. The problem lies somewhere in the chain connecting the two boards: the connectors, the wiring harness between them, or one of the boards themselves.
@@ -25,8 +24,6 @@ The fault typically appears mid-cycle or at startup and locks out normal operati
 ## Before You Replace Anything
 
 Many people replace the main control board first when F73 appears, but the front interface control board and loose connectors are far more often at fault. Always reseat all harness plugs and inspect for damaged pins before ordering any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

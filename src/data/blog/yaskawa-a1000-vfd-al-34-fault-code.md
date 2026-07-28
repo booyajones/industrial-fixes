@@ -19,8 +19,7 @@ free_checks:
   - "Verify the option card is fully seated in its slot and not visibly damaged"
 ---
 
-## Yaskawa A1000 oFA34 Fault — What It Means
-
+## What this code means
 The oFA34 fault (often misread as AL-34 on the display) indicates the Yaskawa A1000 VFD cannot detect a valid communication option card connected to the CN5-A port. This port typically hosts encoder feedback cards, analog input cards, or network interface modules. The fault triggers when the drive's control board loses communication with the option card, either because the card is unplugged, damaged, improperly seated, or the wiring is compromised.
 
 This is not an encoder feedback fault per se, though encoder interface cards plugged into CN5-A are a common source. The fault can also appear if the control board itself is damaged or if parameters have disabled the CN5-A port. Always verify the exact code displayed, the oFA34 code uses a lowercase 'o' and uppercase 'F' and 'A', which can look like different characters depending on the seven-segment display.
@@ -28,8 +27,6 @@ This is not an encoder feedback fault per se, though encoder interface cards plu
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire option card when the real problem is a loose or corroded connection behind the card plug. One field report found melted phase wires and a loose plug connection that was initially missed. Always inspect and reseat all CN5-A connections before ordering a new card.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a qualified technician immediately. This fault involves high-voltage DC bus capacitors that remain energized for minutes after power-off and can deliver lethal shock. Diagnosing communication faults requires safe discharge procedures, multimeter testing of control board voltages, and familiarity with Yaskawa parameter menus. Incorrect wiring or option card installation can damage the drive permanently. If you lack VFD training or proper safety equipment, do not attempt this repair. A technician will safely discharge the bus, test each component in sequence, and replace only the failed part rather than guessing. Many cases turn out to be a simple loose connection that a trained eye spots in seconds, saving the cost of unnecessary parts.
 
 **Rough cost:** A pro service call runs about $200-600.
-
-## See Also
-
-- [Yaskawa GA800 A.120 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-120-fault-code/)
-- [Yaskawa GA800 A.128 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-128-fault-code/)
-- [Yaskawa A1000 FbL Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-fbl-fault-code/)
-- [Yaskawa GA800 E44 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e44-fault-code/)

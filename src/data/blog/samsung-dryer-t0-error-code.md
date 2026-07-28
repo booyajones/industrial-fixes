@@ -17,8 +17,7 @@ money_part: "Samsung dryer thermistor (temperature sensor)"
 part_price: "$15-50"
 ---
 
-## Samsung Dryer t0 Error Code — What It Means
-
+## What this code means
 The t0 (or TO or tO) code on Samsung dryers falls into the temperature-sensing fault family, grouped with codes like tS, t5, tC, and tE. Samsung identifies these as temperature or sensor issues. However, the t0 code specifically can also appear when a firmware download is in progress, so the code is not exclusively a thermistor failure. The code typically points to a problem with the dryer's ability to monitor or regulate internal temperature, but it may clear on its own if the dryer is updating its software.
 
 Samsung states that the most common cause of temperature-error codes is restricted airflow from a clogged lint screen or exhaust vent, which traps heat inside the cabinet and triggers the fault. The manufacturer also advises checking for abnormal voltage supply on electric dryers, verifying the dryer is on its own circuit, confirming the power cord is installed correctly, and ensuring no extension cord is in use. The diagnostic path begins with airflow cleanup and a power cycle rather than immediate part replacement.
@@ -26,8 +25,6 @@ Samsung states that the most common cause of temperature-error codes is restrict
 ## Before You Replace Anything
 
 Many people replace the thermistor or control board first. Clean the lint screen and exhaust vent completely, verify the dryer is on a dedicated circuit, and power-cycle the unit for 60 seconds before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Amana E15 Error Code — What It Means
-
+## What this code means
 The E15 code on Amana HVAC equipment indicates a low-pressure fault in the refrigeration system. This fault is stored by the control after the system sees repeated low-pressure operation. According to Amana service documentation, the control stores the E15 fault after three consecutive times the low-pressure condition occurs. This is not a single transient event but a pattern that points to an underlying refrigeration or airflow issue.
 
 The code signals that system pressure in the evaporator is running below normal operating range. Common causes include refrigerant loss, restricted airflow over the indoor coil, dirty filters, or mechanical problems in the refrigeration circuit. The fault is designed to protect the compressor and prevent damage from prolonged low-pressure operation. Note that E15 on Amana dishwashers means something entirely different (a leak code), so verify you are working with an HVAC unit before following this guide.
@@ -24,8 +23,6 @@ The code signals that system pressure in the evaporator is running below normal 
 ## Before You Replace Anything
 
 Homeowners often assume the control board is bad and replace it first. Before ordering any board, check airflow (filter, indoor coil cleanliness) and have a technician verify refrigerant pressures with gauges. Most E15 faults trace to refrigerant or airflow, not electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

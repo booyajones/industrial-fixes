@@ -19,8 +19,6 @@ When your LG dishwasher stops partway through a wash, it's not a generic failure
 
 The dishwasher stops mid-cycle to protect itself from damage. If water can't fill the tub in time, the wash pump would run dry and burn out. If water can't drain, the tub could overflow. If foam builds up, it can leak past seals and damage sensors. The machine is doing what it's designed to do, but you need to find out which condition triggered the stop.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged inlet filter screen** The mesh screen inside the water valve connection traps sediment and hard water buildup, blocking flow and triggering an IE error within 4 minutes of fill.
@@ -70,10 +68,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 If the inlet screen is clean, the hose is straight, and water pressure at the valve is strong but you still get an IE code, the inlet valve solenoid itself has likely failed and needs replacement. If you clear all drain obstructions and the pump still won't evacuate water (or you hear a hum but no water movement), the drain pump motor is burned out. Control board diagnostics for a 2H error or a no-code freeze require a multimeter and familiarity with testing door switch continuity and board relay outputs, so most homeowners should call a tech at that point. Any situation where you smell burning plastic or see water pooling under the unit during a cycle means you should stop immediately and get a professional out to prevent further damage.
-
-## See Also
-
-- [LG Mini-Split CH38 Error Code - Causes & Fix](/posts/lg-mini-split-ch-38-error-code/)
-- [LG Washer Won't Agitate - Causes & Fix](/posts/lg-washer-wont-agitate/)
-- [LG Microwave F-5 Error Code - Causes & Fix](/posts/lg-microwave-f-5-error-code/)
-- [LG Refrigerator Water Inlet Valve Replacement - Signs & How-To](/posts/lg-refrigerator-water-inlet-valve-replacement/)

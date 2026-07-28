@@ -17,8 +17,7 @@ money_part: "4-inch flexible aluminum dryer vent hose"
 part_price: "$10-50"
 ---
 
-## Samsung Dryer C80 Error Code — What It Means
-
+## What this code means
 The C80 (or C8) error code on a Samsung dryer indicates that approximately 80% of the vent system is clogged. The dryer has detected severely restricted airflow and cannot exhaust properly. Samsung groups this code with vent blockage faults, not heater or motor failures.
 
 The dryer's internal vent blockage test measures airflow resistance and reports the percentage of obstruction. When the code appears, the exhaust duct system or lint filter is blocking hot, moist air from leaving the dryer. The problem is almost always in the venting path, not the appliance itself.
@@ -26,8 +25,6 @@ The dryer's internal vent blockage test measures airflow resistance and reports 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the moisture sensor or heating element when they see airflow codes, but C80 is a vent restriction fault. Run the vent blockage test with the exhaust hose disconnected to prove the dryer itself is working before ordering any internal parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -22,15 +22,12 @@ part_price: "$50-90"
 no_buy_pct: "70%"
 ---
 
-## Bosch E25 Error Code — What It Means
-
+## What this code means
 The E25 error code on a Bosch dishwasher signals a drainage problem at the drain pump and sump area. The machine has detected that water cannot be evacuated properly, typically because the pump is blocked, the impeller is jammed by debris, or the pump cover is not seated correctly. This code is specific to Bosch dishwashers and is not used on Bosch washing machines. The fault triggers when the pump cannot move water out due to physical obstruction or a mechanical issue in the drain path.
 
 ## Before You Replace Anything
 
 Many people replace the drain pump when the actual problem is debris blocking the impeller or a mis-seated pump cover. Always clean the sump, spin the impeller by hand, and confirm the cover is locked before ordering a new pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -17,8 +17,7 @@ free_checks:
   - "Access the contractor diagnostic menu and write down all stored fault codes and active alarms."
 ---
 
-## Weil-McLain A159 Error — What It Means
-
+## What this code means
 A159 is not a universally documented fault code across all Weil-McLain boiler models in available manufacturer materials. Weil-McLain controls do use "A" alarm codes to signal lockout conditions, but the exact meaning of A159 depends on your specific boiler model and control platform. The correct first step is to access the stored fault history in your boiler's contractor or diagnostic menu and consult your model-specific service manual for the fault table that decodes A159 for your unit.
 
 Because the exact meaning cannot be verified without your model number, the repair path follows the general Weil-McLain lockout diagnostic workflow. Most "A" codes point to a sensor input failure, ignition or flame-proving problem, low-water condition, or system circulation issue that prevented safe operation. Treat A159 as a signal to retrieve the full diagnostic history from the control and work through the sensor, ignition, and system checks appropriate to your model rather than guessing at a generic fix.
@@ -26,8 +25,6 @@ Because the exact meaning cannot be verified without your model number, the repa
 ## Before You Replace Anything
 
 Do not replace the control board or gas valve before retrieving the fault history from the diagnostic menu and testing the suspect sensor or flame circuit. A failed temperature probe, low-water cutoff sensor, or poor flame grounding causes most lockouts and costs far less than a control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified boiler technician immediately if you cannot locate your model's fault table or diagnostic menu instructions, if system pressure will not hold after topping up, if you smell gas or see soot around the burner, or if A159 returns after a reset. Gas-fired boiler diagnostics require a combustion analyzer, multimeter, and knowledge of your specific control platform to safely identify failed sensors, ignition problems, or venting issues. Professional service typically costs $200-500 depending on the root cause and includes retrieval of detailed fault logs, electrical testing of sensors and flame circuits, combustion analysis, and replacement of the confirmed failed component with the correct OEM part for your model.
 
 **Rough cost:** A pro service call runs about $200-500.
-
-## See Also
-
-- [Weil-McLain A58 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a58-error-code/)
-- [Weil-McLain A95 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a95-error-code/)
-- [Weil-McLain A81 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a81-error-code/)
-- [Weil-McLain A164 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a164-error-code/)

@@ -19,8 +19,6 @@ A Kenmore refrigerator light not working means the interior lamp circuit is open
 
 The most common causes are a failed bulb or LED module, a stuck or defective door switch, a loose or corroded socket connection, or damaged wiring between the switch and lamp. Less often, the control board fails if your model uses a board-driven LED circuit.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Burned-out bulb or LED module** The light source itself has failed and needs replacement.
@@ -54,9 +52,9 @@ The most common causes are a failed bulb or LED module, a stuck or defective doo
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kenmore Refrigerator Er 1F error code](/posts/kenmore-refrigerator-er-1f-error-code/)
-- [Kenmore Refrigerator Er Dh error code](/posts/kenmore-refrigerator-er-dh-error-code/)
-- [Kenmore Refrigerator Er Ff error code](/posts/kenmore-refrigerator-er-ff-error-code/)
+- Kenmore Refrigerator Er 1F error code
+- Kenmore Refrigerator Er Dh error code
+- Kenmore Refrigerator Er Ff error code
 
 ## When to Call a Pro
 

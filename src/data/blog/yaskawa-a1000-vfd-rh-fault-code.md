@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 rH Fault Code — What It Means
-
+## What this code means
 The rH fault on a Yaskawa A1000 VFD stands for braking resistor overheat. Yaskawa documentation identifies this as "Braking resistor protection was triggered," and the fault is enabled when parameter L8-01 is set to 1. In practical terms, the drive is seeing too much regenerative energy during deceleration, so the braking circuit is being overworked and shutting down to prevent damage.
 
 This fault typically appears when a motor is slowing down a high-inertia load too quickly, sending energy back into the drive faster than the braking resistor can safely dissipate it. The drive trips to protect both the braking resistor and the internal braking transistor from thermal failure.
@@ -24,8 +23,6 @@ This fault typically appears when a motor is slowing down a high-inertia load to
 ## Before You Replace Anything
 
 Technicians often replace the braking resistor first without checking the drive parameters. Before swapping hardware, verify deceleration time settings and measure actual load inertia against the resistor duty cycle rating.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa-authorized service provider if you are not trained in variable-frequency drive programming and high-voltage DC circuits. The braking circuit operates at DC bus voltage (often 400-800 VDC depending on input), which remains present even after AC input is removed and can be lethal. A technician should also be called if the fault persists after you have corrected decel time, verified wiring, and replaced the braking resistor, since the issue may involve the drive's internal braking transistor, control board, or a complex mismatch between drive capacity and mechanical load that requires inertia calculation and resistor duty-cycle analysis.
 
 **Rough cost:** A pro service call runs about $200-800 parts and service, depending on resistor size and labor.
-
-## See Also
-
-- [Yaskawa GA800 E14 Fault - Causes & Fix](/posts/yaskawa-ga800-e14-fault-code/)
-- [Yaskawa GA800 A.109 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-109-fault-code/)
-- [Yaskawa GA800 A.134 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-134-fault-code/)
-- [Yaskawa GA800 A.101 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-101-fault-code/)

@@ -19,8 +19,7 @@ free_checks:
   - "Check that your hot-water supply temperature is around 120 °F at the faucet nearest the dishwasher."
 ---
 
-## LG Dishwasher HE Error Code — What It Means
-
+## What this code means
 The HE error code on an LG dishwasher indicates a heater-related condition. The control has detected a problem with water heating, typically described as a failure to recognize an expected temperature change during the wash cycle. In practical terms, the dishwasher is not seeing the heating response it expects within about 10 minutes, pointing to a fault in the heater circuit, the thermistor (temperature sensor), or related control logic.
 
 LG frames HE as a temporary heater error in some cases, so a brief power interruption or control glitch can occasionally clear it. However, when the code repeats after a reset, service is required to address a genuine hardware or wiring fault in the heating system.
@@ -28,8 +27,6 @@ LG frames HE as a temporary heater error in some cases, so a brief power interru
 ## Before You Replace Anything
 
 Many homeowners replace the control board first, but the heater element and thermistor are far more common causes. Test both components with a multimeter for continuity and resistance before buying any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -80,10 +77,3 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable removing panels, working with live electrical connections, or using a multimeter to test resistance and continuity. The heater and thermistor are located in the sump area beneath the tub, requiring partial disassembly and safe electrical isolation. A technician will also have access to your model's exact service manual specifications for heater resistance and thermistor values, ensuring accurate diagnosis. If the heater and thermistor both test good and you suspect the control board, a pro can confirm the diagnosis and handle the board replacement without risking damage to other components.
 
 **Rough cost:** A pro service call runs about $150–$300.
-
-## See Also
-
-- [LG Mini Split CH74 Error Code - Causes & Fix](/posts/lg-mini-split-ch74-error-code/)
-- [LG Refrigerator Running Constantly - Causes & Fix](/posts/lg-refrigerator-running-constantly/)
-- [LG Washer tE Error Code - Causes & Fix](/posts/lg-washer-te-error-code/)
-- [LG MVEL2033F Microwave Problems & Error Codes](/posts/lg-mvel2033f-microwave-problems/)

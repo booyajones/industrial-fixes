@@ -17,8 +17,6 @@ money_part: "Indoor room temp sensor"
 
 The Senville SENA series covers a range of ductless mini split units from 9,000 to 36,000 BTU, including standard single-zone, multi-zone (MULTI series), and LETO/AURA model variants. All SENA units display error codes on the indoor unit LED display. The code flashes or appears as a static display when a fault is active.
 
-[Jump to Fix](#fix)
-
 ## Senville SENA Error Code Reference
 
 | Code | Meaning |

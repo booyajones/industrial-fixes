@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Siemens Micromaster F0090 — What It Means
-
+## What this code means
 The F0090 fault indicates the drive cannot receive the expected speed or position signal from the encoder connected to the motor. The specific reason is detailed in monitor parameter r0949. When r0949 shows 0, the encoder signal is physically lost. When r0949 shows 5, the encoder is not configured in parameter P0400 even though the drive is set for sensored control (P1300 = 21 or 23). When r0949 shows 6, the encoder module hardware is not found by the drive, even though it is configured in P0400.
 
 This fault only appears on systems using an encoder for closed-loop speed or position control. The drive expects continuous pulse feedback from the encoder and will trip F0090 when that signal drops below the threshold set in parameter P0492 or when the hardware chain is incomplete.
@@ -29,8 +28,6 @@ This fault only appears on systems using an encoder for closed-loop speed or pos
 ## Before You Replace Anything
 
 Technicians often replace the encoder module or entire drive when the fault is actually a misconfigured P0400 parameter or a loose terminal. Always check r0949 first and verify P0400 matches your encoder type before swapping hardware.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drive technician if you are not trained in VFD parameter programming or encoder wiring. Incorrect encoder configuration can cause runaway motor conditions or damage to the drive and motor. If you have verified wiring and configuration but the fault persists, a technician with a scope can test encoder pulse quality and diagnose internal drive failures. Work on VFDs involves high DC bus voltage even when AC input is off, so always follow lockout-tagout and wait for the DC bus capacitors to discharge before opening the unit.
 
 **Rough cost:** A pro service call runs about $150-400 depending on whether the fix is wiring repair or encoder replacement.
-
-## See Also
-
-- [Siemens Micromaster F0015 - Causes & Fix](/posts/siemens-micromaster-vfd-f0015-fault-code/)
-- [Siemens S7-300/400 CPU Fault Code Guide](/posts/siemens-s7-cpu-fault-codes/)
-- [Siemens G120 F0010 Fault Code - Causes & Fix](/posts/siemens-g120-vfd-f0010-fault-code/)
-- [Siemens G120 F0007 Fault Code - Causes & Fix](/posts/siemens-g120-vfd-f0007-fault-code/)

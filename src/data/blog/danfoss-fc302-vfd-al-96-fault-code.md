@@ -19,8 +19,7 @@ free_checks:
   - "Verify all cooling fans are running and vents are clean and unblocked."
 ---
 
-## Danfoss FC302 AL-96 — What It Means
-
+## What this code means
 AL-96 does not exist in official Danfoss FC302 documentation. The FC302 series uses alarm codes numbered 1 through 72, and no manufacturer spec sheet or alarm list includes an AL-96 code. This is likely a misread display, a typo, or confusion with a different VFD brand or model. The closest valid internal fault on the FC302 is Alarm 38, which signals an internal hardware or software problem. Alarm 38 often includes a sub-code (such as 38-5376 or higher) that specifies the exact component or circuit at fault.
 
 If your display shows something that looks like AL-96, write down the exact alphanumeric string and compare it to the alarm list in your FC302 operating manual. Check parameter 15-32 to see the extended alarm detail and sub-code. If the display truly shows a code not listed in Danfoss documentation, the control board may be corrupted or the display itself may be damaged.
@@ -28,8 +27,6 @@ If your display shows something that looks like AL-96, write down the exact alph
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive when a loose control wire or noise interference is the real problem. Power-cycle the VFD and check all control wiring and grounding connections before ordering any boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or authorized Danfoss service partner if the alarm persists after a power cycle, if the exact code does not appear in the FC302 alarm list, or if parameter 15-32 points to a hardware fault such as a failed control board, IGBT module, or DC-link capacitor. Professional diagnostics require high-voltage safety equipment, firmware tools, and component-level testing. Do not open the drive enclosure while power is connected, and do not attempt to replace power boards or IGBTs without proper lockout, discharge procedures, and ESD protection. If the drive is under warranty or part of a critical process, contact Danfoss support directly to avoid voiding coverage or damaging the unit.
 
 **Rough cost:** A pro service call runs about $200-600.
-
-## See Also
-
-- [Danfoss FC302 AL-17 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-117-fault-code/)
-- [Danfoss FC302 AL-69 - Causes & Fix](/posts/danfoss-fc302-vfd-al-69-fault-code/)
-- [Danfoss FC302 AL-118 - Causes & Fix](/posts/danfoss-fc302-vfd-al-118-fault-code/)
-- [Danfoss FC-302 Alarm 12 — Overcurrent Fix](/posts/danfoss-fc302-alarm-12/)

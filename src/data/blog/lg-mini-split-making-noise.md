@@ -19,8 +19,6 @@ LG does not use "making noise" as a fault code. It is a symptom category. LG's p
 
 Abnormal noise requiring service includes loud hitting sounds when the indoor fan contacts the indoor unit body or front panel, high-frequency noise from a defective compressor or motor, and rattling from loose parts or debris. LG's service guidance treats repeated loud hitting or contact noise as a mechanical interference or installation defect, not a user-resettable code.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Indoor fan contacting the cabinet or front panel** LG identifies this as the most common abnormal noise, occurring when the unit has been impacted or installed unlevel, allowing the blower to scrape or hit the housing.
@@ -54,26 +52,19 @@ Abnormal noise requiring service includes loud hitting sounds when the indoor fa
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Lg Mini Split Ch 05 error code](/posts/lg-mini-split-ch-05-error-code/)
-- [Lg Mini Split Ch 26 error code](/posts/lg-mini-split-ch-26-error-code/)
-- [Lg Mini Split Ch 38 error code](/posts/lg-mini-split-ch-38-error-code/)
-- [Lg Mini Split Ch01 error code](/posts/lg-mini-split-ch01-error-code/)
-- [Lg Mini Split Ch02 error code](/posts/lg-mini-split-ch02-error-code/)
-- [Lg Mini Split Ch03 error code](/posts/lg-mini-split-ch03-error-code/)
-- [Lg Mini Split Ch04 error code](/posts/lg-mini-split-ch04-error-code/)
-- [Lg Mini Split Ch05 error code](/posts/lg-mini-split-ch05-error-code/)
-- [Lg Mini Split Ch06 error code](/posts/lg-mini-split-ch06-error-code/)
-- [Lg Mini Split Ch07 error code](/posts/lg-mini-split-ch07-error-code/)
-- [Lg Mini Split Ch09 error code](/posts/lg-mini-split-ch09-error-code/)
-- [Lg Mini Split Ch10 error code](/posts/lg-mini-split-ch10-error-code/)
+- Lg Mini Split Ch 05 error code
+- Lg Mini Split Ch 26 error code
+- Lg Mini Split Ch 38 error code
+- Lg Mini Split Ch01 error code
+- Lg Mini Split Ch02 error code
+- Lg Mini Split Ch03 error code
+- Lg Mini Split Ch04 error code
+- Lg Mini Split Ch05 error code
+- Lg Mini Split Ch06 error code
+- Lg Mini Split Ch07 error code
+- Lg Mini Split Ch09 error code
+- Lg Mini Split Ch10 error code
 
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the noise is a loud hitting or high-frequency sound, if you find fan-to-cabinet contact you cannot correct by leveling the unit, or if the blower motor shows rough rotation or binding. Also call for refrigerant line work, compressor noise, or any noise that persists after cleaning and securing loose parts. LG's service guidance treats abnormal contact and motor noise as conditions requiring professional inspection and component replacement.
-
-## See Also
-
-- [LG Refrigerator Not Making Ice - Causes & Fix](/posts/lg-refrigerator-not-making-ice/)
-- [LG Mini Split Not Responding to Remote - Causes & Fix](/posts/lg-mini-split-not-responding-to-remote/)
-- [LG Mini Split CH10 Error Code — Causes & Fix](/posts/lg-mini-split-ch10-error-code/)
-- [LG Microwave Door Latch/Spring Replacement - Signs & How-To](/posts/lg-microwave-door-latch-lever-latch-spring-replacement/)

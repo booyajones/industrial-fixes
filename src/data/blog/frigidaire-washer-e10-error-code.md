@@ -22,8 +22,7 @@ part_price: "$30-60 for a replacement inlet valve assembly"
 no_buy_pct: "70%"
 ---
 
-## Frigidaire Washer E10 Error Code — What It Means
-
+## What this code means
 E10 is a water fill time or no-water-inlet fault. The washer control expected water to enter the tub within a set time window, but it did not detect adequate flow or level. In Frigidaire and Electrolux front-load machines, E10 is grouped with E11 and E12 as a no-water or insufficient-water-flow code.
 
 This is not a drain problem. The control is flagging that water supply into the machine is restricted, absent, or that the pressure sensor cannot confirm the tub filled correctly. The code appears when the fill cycle times out before the washer sees the expected water level.
@@ -31,8 +30,6 @@ This is not a drain problem. The control is flagging that water supply into the 
 ## Before You Replace Anything
 
 Homeowners often replace the inlet valve or control board when clogged inlet screens or closed supply taps are actually blocking water. Check and clean the inlet screens at the valve body and verify both hot and cold supply valves are fully open before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

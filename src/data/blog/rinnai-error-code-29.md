@@ -113,19 +113,3 @@ Main PCB diagnosis and replacement involves working with the unit's internal wir
 Additionally, if Code 29 appeared after a lightning strike or power surge, have the unit fully evaluated — surges can damage multiple components simultaneously, and replacing only the PCB may leave hidden damage in place.
 
 > **Pro tip:** Rinnai Code 29 faults that appear only when hot water demand is continuous for more than 10–15 minutes (but clear if you let the unit rest) often indicate an overheat sensor that is triggering from a marginal heat exchanger. Scale buildup inside the heat exchanger causes localized hot spots that trigger the overheat sensor, which the PCB interprets as a Code 29. Annual descaling with a tankless water heater flush kit can resolve or prevent this pattern.
-
-## Related Articles
-
-- [Rinnai Error Code 11 — Ignition Failure Fix](/posts/rinnai-error-code-11/)
-- [Rinnai Error Code 12 — Flame Loss Fix](/posts/rinnai-error-code-12/)
-- [Rinnai Error Code 25 — Combustion Air Fault](/posts/rinnai-error-code-25/)
-
-<!-- INTERNAL-LINK-AUTO -->
-**Related:** [Rheem Performance Platinum PDN tankless error codes](/posts/rheem-performance-platinum-pdn-error-codes/)
-
-## See Also
-
-- [Rinnai Error Code 65 — Water Flow Rate Fault](/posts/rinnai-error-code-65/)
-- [Rinnai RUR Series Error Codes — Tankless Water Heater Fault Guide](/posts/rinnai-rur-error-codes/)
-- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)
-- [Rinnai RU130iN Tankless Water Heater Error Codes - Full Fault Guide](/posts/rinnai-ru130in-error-codes/)

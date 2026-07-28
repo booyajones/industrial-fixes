@@ -20,8 +20,6 @@ A Trane furnace blower that won't shut off is not an error code by itself. It's 
 
 If thermostat checks fail, Trane points to dirty or clogged filters restricting airflow and then furnace-side faults that require service. On some furnaces an open safety switch or limit-related fault can also keep the blower running as part of a protective sequence, but the exact logic depends on the model and control board.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Thermostat fan set to ON instead of AUTO** The most common cause is simply that the thermostat fan switch is set to ON, which commands the blower to run continuously by design.
@@ -62,10 +60,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the thermostat and filter checks do not resolve the problem. Trane explicitly directs owners to service when the issue is not thermostat or filter related. Diagnosing and replacing a control board, blower relay, or ECM motor module requires voltage testing, interpreting fault codes, and working inside the furnace cabinet. A technician will also verify that the blower is not running as part of a safety sequence due to a limit switch or other protective fault. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Trane XV20i Error Code 79 — Causes & Fix](/posts/trane-error-code-79/)
-- [Trane XR14 Heat Pump Error Codes — Fault Code Diagnostic Guide](/posts/trane-xr14-error-codes/)
-- [Trane CenTraVac Chiller Fault Codes — Common Faults Guide](/posts/trane-centravac-fault-codes/)
-- [Trane Rooftop Unit Fault 77 — High Pressure Cutout](/posts/trane-rooftop-fault-77/)

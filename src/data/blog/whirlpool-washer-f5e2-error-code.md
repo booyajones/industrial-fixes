@@ -22,8 +22,7 @@ part_price: "$40-85"
 no_buy_pct: "60%"
 ---
 
-## Whirlpool Washer F5E2 Error Code — What It Means
-
+## What this code means
 The F5E2 code on Whirlpool washers signals a door or lid lock problem. On front-load models, it means the door is not locking properly. On top-load models, the lid lock cannot engage. Whirlpool describes this as a lock or closure fault, not a drain or water-level issue.
 
 The washer will not start or continue a cycle until the lock confirms the door or lid is secure. The fault can be mechanical (something blocking the latch, door not fully shut) or electrical (failed lock assembly, wiring problem, or transient control glitch).
@@ -31,8 +30,6 @@ The washer will not start or continue a cycle until the lock confirms the door o
 ## Before You Replace Anything
 
 Many people replace the lock assembly without first checking for clothing or debris blocking the latch or verifying the door is fully closed. Remove obstructions and confirm firm closure before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

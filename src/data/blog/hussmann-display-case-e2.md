@@ -13,11 +13,8 @@ money_part: "Defrost heater assembly"
 most_likely_cause: "Failed defrost heater element"
 ---
 
-## Hussmann Display Case E2 Error Code — What It Means
-
+## What this code means
 On Hussmann supermarket display cases (reach-in and open-air merchandisers), E2 indicates a defrost circuit fault — the case controller initiated a defrost cycle, but the defrost heater did not raise the evaporator coil temperature to the defrost termination setpoint within the allowed time. The controller terminates the defrost on time rather than on temperature and logs E2. Repeated E2 faults cause ice buildup on the evaporator coil, eventually reducing refrigeration capacity and product temperature control. E2 is a warning about the defrost system, not an immediate refrigeration lockout.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

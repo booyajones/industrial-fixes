@@ -15,8 +15,7 @@ money_part: "Microwave cavity temperature sensor"
 most_likely_cause: "Model-specific sensor or thermistor fault"
 ---
 
-## Whirlpool Microwave E23 Error Code — What It Means
-
+## What this code means
 Whirlpool confirms E23 as a recognized error code for over-the-range microwave models, but the exact meaning is model-dependent. Unlike simple user-reset codes, E23 indicates a component-level or circuit fault that requires model-specific diagnosis. Whirlpool's public support pages list E23 among fault categories but do not provide a single universal plain-English definition across all models.
 
 Because the code appears on the display and persists after power cycling, it typically points to a hardware failure rather than a temporary glitch. Your owner's manual or the wiring diagram inside the cabinet will contain the model-specific fault table. Without the exact model number, technicians cannot verify whether E23 refers to a sensor, relay, inverter, or control-board circuit on your particular unit.
@@ -24,8 +23,6 @@ Because the code appears on the display and persists after power cycling, it typ
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first because E23 appears on the display. Before ordering any board, locate your model number and consult the service sheet or wiring diagram inside the microwave cabinet to confirm which specific component E23 identifies for that model.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

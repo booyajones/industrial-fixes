@@ -13,11 +13,8 @@ money_part: "Motor cable (shielded three-conductor)"
 most_likely_cause: "Loose motor cable conductor"
 ---
 
-## Siemens Micromaster F0023 — What It Means
-
+## What this code means
 F0023 on a Siemens Micromaster drive signals an output fault. The drive has detected that one of the three output phases to the motor is open or disconnected. This fault means the electrical path from the VFD output terminals to the motor is broken on at least one phase, preventing the drive from delivering balanced three-phase power to the motor. The drive shuts down to protect itself and the motor from damage caused by single-phasing.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ F0023 on a Siemens Micromaster drive signals an output fault. The drive has dete
 ## When to Call a Pro
 
 Call a qualified electrician or VFD technician if you cannot locate the open phase in the field wiring, if continuity tests show all three phases are intact but the fault persists, or if you suspect internal drive damage. Replacing the drive output stage requires knowledge of high-voltage DC bus circuits and proper handling of static-sensitive power modules. If the motor or cable is in a hazardous area or the drive is part of a critical process, bring in a professional to avoid extended downtime or safety risks.
-
-## See Also
-
-- [Siemens G120 F01122 - Causes & Fix](/posts/siemens-g120-vfd-f01122-fault-code/)
-- [Siemens G120 F01033 - Causes & Fix](/posts/siemens-g120-vfd-f01033-fault-code/)
-- [Siemens Sinumerik Alarm 25201 — Causes & Fix](/posts/siemens-sinumerik-alarm-25201/)
-- [Siemens G120 F01000 - Causes & Fix](/posts/siemens-g120-vfd-f01000-fault-code/)

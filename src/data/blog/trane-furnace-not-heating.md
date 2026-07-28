@@ -20,8 +20,6 @@ When a Trane furnace won't heat, you're seeing a symptom with multiple possible 
 
 Because Trane uses different code sets across model lines, the exact meaning of the symptom depends on your furnace family and the LED pattern at the time. A slow green blink often means no heat call is being received. Faster or colored patterns point to ignition lockout, flame sensor trouble, pressure switch faults, or open safety limits from restricted airflow.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty air filter or blocked airflow** A clogged filter or obstructed return and supply registers starve the heat exchanger of air, trip the high-limit switch, and shut down the burner.
@@ -63,10 +61,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a professional for any work on the gas valve, igniter, flame sensor, pressure switch, or burner assembly. Trane recommends recording the blink code and contacting service when the furnace locks out on ignition or heat failure, because the code points to the exact fault and safe repair requires gas-combustion training and proper testing. If you've replaced the filter and confirmed power and thermostat settings but the furnace still won't heat, a technician will diagnose the ignition sequence, venting, and safety circuits to find and fix the root cause without repeated unsafe resets. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-- [Trane XR90 Furnace Problems & Error Codes](/posts/trane-xr90-furnace-gas-residential-problems/)
-- [Trane E18 Error Code - Causes & Fix](/posts/trane-heat-pump-e18-error-code/)
-- [Trane XV80 Furnace Error Codes — Flash Code Diagnostic Guide](/posts/trane-xv80-error-codes/)

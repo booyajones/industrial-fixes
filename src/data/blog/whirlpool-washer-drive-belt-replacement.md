@@ -50,16 +50,16 @@ The drive belt on Whirlpool top-load washers connects the motor pulley to the ge
 
 If this part is failing you may also see one of these codes:
 
-- [Whirlpool Washer Drn error code](/posts/whirlpool-washer-drn-error-code/)
-- [Whirlpool Washer F02 error code](/posts/whirlpool-washer-f02-error-code/)
-- [Whirlpool Washer F0E1 error code](/posts/whirlpool-washer-f0e1-error-code/)
+- Whirlpool Washer Drn error code
+- Whirlpool Washer F02 error code
+- Whirlpool Washer F0E1 error code
 - [Whirlpool Washer F1E1 error code](/posts/whirlpool-washer-f1e1-error-code/)
-- [Whirlpool Washer F1E2 error code](/posts/whirlpool-washer-f1e2-error-code/)
-- [Whirlpool Washer F20 error code](/posts/whirlpool-washer-f20-error-code/)
-- [Whirlpool Washer F21 error code](/posts/whirlpool-washer-f21-error-code/)
-- [Whirlpool Washer F2E1 error code](/posts/whirlpool-washer-f2e1-error-code/)
-- [Whirlpool Washer F3E1 error code](/posts/whirlpool-washer-f3e1-error-code/)
-- [Whirlpool Washer F3E2 error code](/posts/whirlpool-washer-f3e2-error-code/)
+- Whirlpool Washer F1E2 error code
+- Whirlpool Washer F20 error code
+- Whirlpool Washer F21 error code
+- Whirlpool Washer F2E1 error code
+- Whirlpool Washer F3E1 error code
+- Whirlpool Washer F3E2 error code
 
 ## When to Call a Pro
 

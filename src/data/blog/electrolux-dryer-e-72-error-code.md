@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Electrolux Dryer E72 Error Code — What It Means
-
+## What this code means
 E72 on an Electrolux dryer is an outlet thermistor (NTC sensor) out-of-range fault. Electrolux IQ-Touch error references group E71 and E72 together as "outlet thermistor is out of range." The control board is reading a temperature signal from the drying-air outlet sensor that is either too high, too low, or missing entirely.
 
 This code points to a problem in the outlet temperature sensing circuit. Either the thermistor probe itself has failed, the wiring harness between the sensor and the control is damaged or disconnected, or a connector has backed out or corroded. The sensor is an NTC (negative temperature coefficient) resistor that changes resistance with temperature. When the control sees a resistance value that does not match any plausible temperature, it throws E72 and stops the cycle.
@@ -26,8 +25,6 @@ This code points to a problem in the outlet temperature sensing circuit. Either 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board first, assuming an electronics fault. Always test the outlet thermistor resistance with a multimeter at room temperature (should read about 5,000 ohms at 70°F) and inspect the harness for breaks or loose connectors before spending money on a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

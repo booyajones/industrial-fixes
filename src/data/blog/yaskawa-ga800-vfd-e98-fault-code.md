@@ -14,15 +14,12 @@ money_part: "Yaskawa GA800 control board (model-specific)"
 most_likely_cause: "Misread or corrupted display"
 ---
 
-## Yaskawa GA800 E98 Fault Code — What It Means
-
+## What this code means
 Yaskawa's GA800 documentation does not list an E98 fault code in its standard alarm and fault tables. Fault codes on the GA800 are model-specific and displayed on the keypad or HMI as text or numeric codes that correspond to entries in the maintenance and troubleshooting manual. Because E98 does not appear in verified Yaskawa reference material for the GA800 series, it is possible the code is being misread, the display is corrupted, or the drive is from a different series or manufacturer. The GA800 troubleshooting process always begins with reading the exact fault text or number from the display, checking the elementary wiring diagram for that model, and referencing the code in the official manual before attempting any repair. If your drive shows a code that looks like E98, verify the characters on the display, note the full model and spec number from the nameplate, and contact Yaskawa technical support with that information. Attempting repairs without confirming the actual fault can lead to unnecessary parts replacement and extended downtime.
 
 ## Before You Replace Anything
 
 Technicians sometimes replace the main control board when the drive will not run, but many GA800 faults are caused by open safety circuits (Safe Torque Off jumper missing or safety chain open) or parameter settings. Always verify the exact fault code in the manual and check the STO terminals before ordering boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -70,10 +67,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or Yaskawa-certified service technician immediately if you cannot find the fault code in your drive's manual, if the display is corrupted or flickering, or if the drive has been exposed to electrical surges or environmental contamination. VFD troubleshooting requires interpreting wiring diagrams, measuring high-voltage DC bus levels, and working safely around lethal voltages that remain present even after input power is removed. A technician with DriveWizard Plus software can read detailed fault logs, compare parameter sets, and contact Yaskawa support with the correct diagnostic data. Attempting to swap boards or adjust parameters without confirmed fault information often leads to extended downtime and additional damage. If your drive is under warranty or covered by a service contract, contact Yaskawa or your distributor before opening the enclosure.
 
 **Rough cost:** A pro service call runs about $200–500 for service call and diagnosis, plus parts if needed.
-
-## See Also
-
-- [Yaskawa GA800 oC Fault — Overcurrent Fix](/posts/yaskawa-ga800-error-oc/)
-- [Yaskawa A1000 AL-11 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-11-fault-code/)
-- [Yaskawa GA800 VFD F0021 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f0021-fault-code/)
-- [Yaskawa A1000 oU Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ou-fault-code/)

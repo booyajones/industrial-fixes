@@ -19,8 +19,6 @@ A bad smell from your KitchenAid dishwasher is not an error code or electronic f
 
 The smell usually means food particles are trapped in the filter, spray arms, or tub bottom, or that stagnant water is sitting in the drain path or sump. Debris in the garbage disposer or drain hose, dirty door seals, and overloading can all leave residue behind and create odor over time.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Trapped food particles in the drain filter** The most common cause is food debris clogging the filter screens and seating area at the bottom of the tub.
@@ -60,7 +58,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Kitchenaid Dishwasher F2E2 error code](/posts/kitchenaid-dishwasher-f2e2-error-code/)
 - [Kitchenaid Dishwasher F3E1 error code](/posts/kitchenaid-dishwasher-f3e1-error-code/)
 - [Kitchenaid Dishwasher F3E2 error code](/posts/kitchenaid-dishwasher-f3e2-error-code/)
-- [Kitchenaid Dishwasher F4E3 error code](/posts/kitchenaid-dishwasher-f4e3-error-code/)
+- Kitchenaid Dishwasher F4E3 error code
 - [Kitchenaid Dishwasher F5E1 error code](/posts/kitchenaid-dishwasher-f5e1-error-code/)
 - [Kitchenaid Dishwasher F6E1 error code](/posts/kitchenaid-dishwasher-f6e1-error-code/)
 - [Kitchenaid Dishwasher F6E2 error code](/posts/kitchenaid-dishwasher-f6e2-error-code/)

@@ -19,8 +19,6 @@ An Electrolux dryer squeaking or squealing is a mechanical noise symptom, not an
 
 Because the noise happens during drum rotation or motor operation, the most common sources are the drive belt, idler pulley, drum rollers or bearings, front glides, blower wheel, or a foreign object contacting moving parts. Community repair guides and service documentation consistently list these mechanical wear points as the top causes of squeal and squeak complaints.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Worn or glazed drive belt** A belt that is frayed, cracked, or glazed from age creates friction against the drum or pulleys and produces a high-pitched squeal during rotation.
@@ -59,8 +57,8 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Electrolux Dryer Ad error code](/posts/electrolux-dryer-ad-error-code/)
 - [Electrolux Dryer E 09 error code](/posts/electrolux-dryer-e-09-error-code/)
-- [Electrolux Dryer E 10 error code](/posts/electrolux-dryer-e-10-error-code/)
-- [Electrolux Dryer E 11 error code](/posts/electrolux-dryer-e-11-error-code/)
+- Electrolux Dryer E 10 error code
+- Electrolux Dryer E 11 error code
 - [Electrolux Dryer E 31 error code](/posts/electrolux-dryer-e-31-error-code/)
 - [Electrolux Dryer E 42 error code](/posts/electrolux-dryer-e-42-error-code/)
 - [Electrolux Dryer E 51 error code](/posts/electrolux-dryer-e-51-error-code/)

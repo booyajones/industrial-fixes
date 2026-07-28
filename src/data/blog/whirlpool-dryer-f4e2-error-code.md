@@ -19,8 +19,7 @@ free_checks:
   - "Check that the unit is not overloaded and that the dry cycle settings are correct"
 ---
 
-## Whirlpool Dryer F4E2 Error — What It Means
-
+## What this code means
 On Whirlpool all-in-one washer-dryer combo units, the F4E2 code indicates a fault in the dryer heater circuit. The typical symptom is that the wash function still works normally, but the dry cycle either fails to start, stops partway through, or runs without producing heat. The machine has detected a problem in the electrical circuit that powers the dryer heater element.
 
 This code does not appear on standalone Whirlpool dryers or washing machines. It is specific to combo models that combine both wash and dry functions in a single unit. The control board has flagged an issue on the dryer side while the wash side may continue to operate.
@@ -28,8 +27,6 @@ This code does not appear on standalone Whirlpool dryers or washing machines. It
 ## Before You Replace Anything
 
 Do not replace the main control board first. The fault is usually in the heater circuit wiring, connections, or the heater element itself. A technician should test the heater circuit continuity and wiring before replacing any control components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

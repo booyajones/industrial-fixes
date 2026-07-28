@@ -13,13 +13,10 @@ money_part: "Siemens Micromaster cooling fan"
 most_likely_cause: "Cooling fan not running or weak"
 ---
 
-## Siemens Micromaster F0004 — What It Means
-
+## What this code means
 F0004 on Siemens Micromaster 420 and 440 drives indicates inverter overtemperature. The drive has detected that the inverter power section or heatsink has exceeded its thermal limit and has shut down to protect itself from damage. This fault is a thermal trip specifically tied to the power module and its cooling system, not the motor or external wiring.
 
 The drive monitors temperature using a sensor integrated into the inverter heatsink or power module. When that sensor reads above the allowable threshold, the drive cuts power and logs F0004. The fault clears only after the drive cools and you address the root cause of the heat buildup.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ The drive monitors temperature using a sensor integrated into the inverter heats
 ## When to Call a Pro
 
 Call a qualified drive technician or electrician if cleaning the heatsink and confirming fan operation do not clear the fault, if you measure unusual resistance on the temperature sensor and are not experienced with low-voltage sensor circuits, or if you suspect the power module itself is damaged. Replacing the power module or diagnosing internal control board faults requires familiarity with VFD construction, DC bus safety, and proper part matching. Also call a professional if the drive is under warranty or if you are not comfortable working inside live or recently live electrical equipment.
-
-## See Also
-
-- [Siemens Micromaster F0023 - Causes & Fix](/posts/siemens-micromaster-f0023-fault-code/)
-- [Siemens G120 F0006 Fault - Causes & Fix](/posts/siemens-g120-vfd-f0006-fault-code/)
-- [Siemens G120 F01122 - Causes & Fix](/posts/siemens-g120-f01122-fault-code/)
-- [Siemens SINAMICS V20 F4 Fault — Inverter Overtemperature Fix](/posts/siemens-sinamics-v20-f4-overtemp/)

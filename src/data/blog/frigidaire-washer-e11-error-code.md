@@ -21,8 +21,7 @@ part_price: "$25-50"
 no_buy_pct: "60%"
 ---
 
-## Frigidaire E11 Error Code — What It Means
-
+## What this code means
 E11 on a Frigidaire washer means the machine is taking too long to fill with water, a long fill fault. The control board expects the washer to reach the required water level within a set time window. When that does not happen, it stops the cycle and displays E11. This code points to a problem in the water inlet or level detection circuit. It is not primarily a drain fault, although improper drain setup can allow siphoning that prevents the tub from filling.
 
 The code appears on Frigidaire and Electrolux front-load platforms. It tells you to check the water supply path, the inlet valve, the inlet hoses and screens, and the pressure sensing system. Occasionally wiring or control board faults can trigger E11, but those are less common than physical restrictions in the fill circuit.
@@ -30,8 +29,6 @@ The code appears on Frigidaire and Electrolux front-load platforms. It tells you
 ## Before You Replace Anything
 
 Homeowners often replace the control board first, thinking the code means an electronics failure. In reality, most E11 faults trace to clogged inlet screens, kinked hoses, or a weak water inlet valve. Always clean the inlet screens and verify house water pressure before buying any part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -20,8 +20,6 @@ When your KitchenAid oven temperature is not accurate, it means the set temperat
 
 The control board measures sensor circuit resistance to determine cavity temperature, so any problem in the sensor, wiring, or relay output can make the oven read incorrectly. KitchenAid recommends evaluating temperature accuracy with a baking test rather than relying on a thermometer alone for the basic calibration check.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Calibration drift** The oven is functioning but needs a temperature offset adjustment, which KitchenAid allows in 5°F or 10°F increments through the control menu.
@@ -56,8 +54,8 @@ The control board measures sensor circuit resistance to determine cavity tempera
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kitchenaid Oven A6 error code](/posts/kitchenaid-oven-a6-error-code/)
-- [Kitchenaid Oven Ab error code](/posts/kitchenaid-oven-ab-error-code/)
+- Kitchenaid Oven A6 error code
+- Kitchenaid Oven Ab error code
 - [Kitchenaid Oven Cal error code](/posts/kitchenaid-oven-cal-error-code/)
 - [Kitchenaid Oven F6 E0 error code](/posts/kitchenaid-oven-f6-e0-error-code/)
 - [Kitchenaid Oven F6 E1 error code](/posts/kitchenaid-oven-f6-e1-error-code/)

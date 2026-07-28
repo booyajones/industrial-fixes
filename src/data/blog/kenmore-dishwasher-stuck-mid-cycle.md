@@ -19,8 +19,6 @@ A Kenmore dishwasher stuck mid-cycle is a symptom, not a specific error code. It
 
 When the dishwasher stops during fill or never fills correctly, the water inlet valve or low supply pressure is usually responsible. If it stops after the wash motor tries to start, the circulation pump or motor may be stalled or weak. Control board or timer failures can also corrupt the cycle state, but mechanical causes are more common.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door latch, door switch, or door lock assembly failure** The most common cause when the dishwasher stops or restarts if the door is touched or moved, because the control sees an open-door signal and halts the cycle.
@@ -54,18 +52,18 @@ When the dishwasher stops during fill or never fills correctly, the water inlet 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kenmore Dishwasher E04 error code](/posts/kenmore-dishwasher-e04-error-code/)
-- [Kenmore Dishwasher E05 error code](/posts/kenmore-dishwasher-e05-error-code/)
-- [Kenmore Dishwasher E06 error code](/posts/kenmore-dishwasher-e06-error-code/)
-- [Kenmore Dishwasher E07 error code](/posts/kenmore-dishwasher-e07-error-code/)
-- [Kenmore Dishwasher E08 error code](/posts/kenmore-dishwasher-e08-error-code/)
-- [Kenmore Dishwasher E09 error code](/posts/kenmore-dishwasher-e09-error-code/)
-- [Kenmore Dishwasher E10 error code](/posts/kenmore-dishwasher-e10-error-code/)
-- [Kenmore Dishwasher E11 error code](/posts/kenmore-dishwasher-e11-error-code/)
-- [Kenmore Dishwasher E12 error code](/posts/kenmore-dishwasher-e12-error-code/)
-- [Kenmore Dishwasher E13 error code](/posts/kenmore-dishwasher-e13-error-code/)
-- [Kenmore Dishwasher E14 error code](/posts/kenmore-dishwasher-e14-error-code/)
-- [Kenmore Dishwasher F1E1 error code](/posts/kenmore-dishwasher-f1e1-error-code/)
+- Kenmore Dishwasher E04 error code
+- Kenmore Dishwasher E05 error code
+- Kenmore Dishwasher E06 error code
+- Kenmore Dishwasher E07 error code
+- Kenmore Dishwasher E08 error code
+- Kenmore Dishwasher E09 error code
+- Kenmore Dishwasher E10 error code
+- Kenmore Dishwasher E11 error code
+- Kenmore Dishwasher E12 error code
+- Kenmore Dishwasher E13 error code
+- Kenmore Dishwasher E14 error code
+- Kenmore Dishwasher F1E1 error code
 
 ## When to Call a Pro
 

@@ -14,8 +14,7 @@ most_likely_cause: "Misread or misidentified fault code"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa GA800 A.133 Fault — What It Means
-
+## What this code means
 The A.133 fault code format does not appear in published Yaskawa GA800 documentation. Yaskawa GA800 drives typically use alphanumeric fault identifiers such as oC (overcurrent), ov (overvoltage), or CPF06 (control circuit fault), not a dotted A.xxx format. This code may be a misread display, a parameter number rather than a fault, or a label from a different drive family or manufacturer.
 
 Before attempting repair, confirm the exact code displayed on the keypad and review the fault history menu. Many Yaskawa faults point to wiring errors, disconnected control circuits, option-card problems, or mechanical load issues. If the code persists after verifying connections and power-cycling, consult your GA800 manual fault table or contact Yaskawa technical support to identify the true fault and recommended repair.
@@ -23,8 +22,6 @@ Before attempting repair, confirm the exact code displayed on the keypad and rev
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive when the real problem is a loose option-card connection or a damaged encoder cable. Always inspect all wiring, option cards, and control connections before ordering a replacement drive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa-certified service provider if you cannot locate A.133 in your manual, if the fault persists after inspecting all wiring and option cards, or if you suspect an internal control board or power module failure. VFD repair involves high-voltage DC bus capacitors that retain lethal charge even after input power is removed, and incorrect diagnosis can damage expensive components. A technician can use Yaskawa's DriveWizard software to read detailed fault logs, verify firmware versions, and perform safe board-level diagnostics that are not accessible from the keypad alone.
 
 **Rough cost:** A pro service call runs about $200-800 depending on repair type.
-
-## See Also
-
-- [Yaskawa GA800 E96 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e96-fault-code/)
-- [Yaskawa A1000 HbbF Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-hbbf-fault-code/)
-- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
-- [Yaskawa GA800 E10 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e10-fault-code/)

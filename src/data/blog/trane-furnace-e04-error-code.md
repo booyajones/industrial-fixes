@@ -21,8 +21,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Trane E04 Error Code — What It Means
-
+## What this code means
 The Trane E04 error code indicates an open limit circuit, specifically triggered by a reverse airflow switch (also called a roll-out or reverse flow switch) that has opened due to abnormal temperature or airflow conditions in the combustion chamber. This switch is a safety device designed to detect if the blower motor is running backwards or if hot gases are rolling out instead of venting properly. It opens at 120°F and resets (closes) only when the temperature drops below 100°F.
 
 On Trane S9X1, S8X1, and S9V series furnaces, this reverse airflow switch is located on the back side of the blower housing, not the main high-limit switch or the flame sensor. When the control board detects that the limit circuit is open (no continuity), it displays the E04 code and shuts down the furnace to prevent burner gases from entering the living space or to stop overheating caused by a blockage in the venting system.
@@ -30,8 +29,6 @@ On Trane S9X1, S8X1, and S9V series furnaces, this reverse airflow switch is loc
 ## Before You Replace Anything
 
 Homeowners sometimes replace the reverse airflow switch itself when the real problem is a vent blockage or clogged filter. Test for continuity across the switch when the furnace is cold (below 100°F). If the switch shows continuity, the problem is upstream in the venting or airflow system, not the switch.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -80,10 +77,3 @@ Answer these to narrow it down fast.
 Call a professional for any Trane E04 error. The diagnosis requires testing gas furnace components, inspecting sealed combustion and venting systems, and working with 120V circuits and gas lines. A technician will test the reverse airflow switch for continuity, inspect the entire vent run for blockages or trapped condensate, verify inducer motor operation, and perform a temperature rise test. Attempting DIY repairs on gas furnaces carries risks of carbon monoxide exposure, improper venting, and voiding manufacturer warranties. A qualified HVAC technician has the tools and training to safely diagnose and repair the root cause, whether it is a vent blockage, a failing inducer, or a defective safety switch.
 
 **Rough cost:** A pro service call runs about $150-300.
-
-## See Also
-
-- [Trane Furnace 2 Flashes - Causes & Fix](/posts/trane-furnace-2-flashes-error-code/)
-- [Trane XR80 Furnace Problems & Error Codes](/posts/trane-xr80-furnace-gas-residential-problems/)
-- [Trane 6 Flashes Error Code — Causes & Fix](/posts/trane-6-flashes-error-code/)
-- [Trane Furnace Not Heating - Causes & Fix](/posts/trane-furnace-not-heating/)

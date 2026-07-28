@@ -22,8 +22,7 @@ part_price: "$50-120"
 no_buy_pct: "70%"
 ---
 
-## Whirlpool Oven F7 Error Code — What It Means
-
+## What this code means
 F7 is not one single fault across all Whirlpool cooking products. On range/oven models, the full code F7 E0 points to a problem with the oven door latch assembly or its wiring. On over-the-range microwave models, plain F7 indicates the appliance could not execute a function and there may be a problem with the appliance control board or associated wiring. Because the exact meaning depends on your appliance type and the full code displayed, always verify whether you see F7 E0 or plain F7 and whether the unit is a range, wall oven, or microwave.
 
 Whirlpool's own help pages make clear that the first step for both codes is a hard power reset for one minute. If the code returns, the most common real-world culprits are power glitches that scramble the control board, intermittent connector problems, damaged wiring harnesses, and moisture or contamination around the control circuits. Whirlpool explicitly calls out 'associated wiring' on both code pages, so electrical faults are a major part of the diagnosis.
@@ -31,8 +30,6 @@ Whirlpool's own help pages make clear that the first step for both codes is a ha
 ## Before You Replace Anything
 
 Many people replace the door latch assembly or control board before checking connectors and wiring. Always perform a hard power reset and inspect all connectors and harnesses for looseness, corrosion, or moisture before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Danfoss FC302 Alarm 11 — What It Means
-
+## What this code means
 Alarm 11 on the Danfoss FC302 VFD means the internal DC link (bus) voltage has fallen below the minimum operational threshold. For 400 VAC models this is typically below 300 V, and for 230 VAC models below 150 V. When the drive detects this condition it immediately trips and stops motor operation to protect internal components from damage.
 
 The DC link is the intermediate high-voltage DC stage inside the drive that feeds the inverter. When this voltage collapses, the drive cannot maintain proper motor control. The fault usually points to input power problems, failed rectifier components, or excessive mechanical load drawing more current than the DC bus can sustain.
@@ -29,8 +28,6 @@ The DC link is the intermediate high-voltage DC stage inside the drive that feed
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire power module or IGBT board first. Measure incoming AC voltage and check for blown input fuses or loose input terminals before ordering expensive boards, since most Alarm 11 faults trace to external power or simple rectifier diode failure.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if you are not trained to work with high-voltage DC circuits. The DC link inside the drive can hold lethal voltage even after input power is removed. A technician will safely discharge capacitors, test rectifier components with proper instruments, and replace power boards or modules. Also call a pro if input voltage measurements and fuse checks do not reveal an obvious cause, or if the drive shows signs of internal damage such as burned traces or failed IGBTs.
 
 **Rough cost:** A pro service call runs about $150-600.
-
-## See Also
-
-- [Danfoss FC302 Alarm 26 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-26-fault-code/)
-- [Danfoss FC302 VFD AL-15 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-152-fault-code/)
-- [Danfoss FC302 AL-116 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-116-fault-code/)
-- [Danfoss FC302 VFD ALARM 38 - Causes & Fix](/posts/danfoss-fc302-vfd-al-102-fault-code/)

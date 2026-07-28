@@ -21,15 +21,12 @@ part_price: "$25-60 for a flame rod sensor"
 no_buy_pct: "60%"
 ---
 
-## Weil-McLain Boiler A53 Error — What It Means
-
+## What this code means
 The A53 error code on a Weil-McLain boiler signals an ignition lockout. The control board attempted to start the burner but did not detect a flame within the allowed time window, so it shut down the gas flow to prevent unsafe buildup of unburned gas. This is a critical safety fault. The boiler will not restart until you reset it and fix the underlying problem.
 
 ## Before You Replace Anything
 
 Homeowners often replace the gas valve first when the real culprit is a flame sensor coated with carbon or oxidation. Clean the flame rod with emery paper before buying any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or gas technician if cleaning the flame rod and checking the gas supply do not clear the A53 code. Gas valve testing, pressure measurement, and replacement require specialized tools and training. Any work on gas lines or combustion components also requires a permit in most areas. If the boiler continues to lock out after two resets, do not keep cycling it. Repeated ignition attempts can flood the combustion chamber with unburned gas, creating a serious safety hazard. A technician will use a manometer to verify gas pressure, test the flame rod with a microammeter, and inspect the ignition control board for faults.
 
 **Rough cost:** A pro service call runs about $150-350 depending on the failed component.
-
-## See Also
-
-- [Weil-McLain A46 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a46-error-code/)
-- [Weil-McLain A38 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a38-error-code/)
-- [Weil-McLain Ultra Series Boiler Error Codes: Complete Guide](/posts/weil-mclain-ultra-series-codes/)
-- [Weil-McLain Boiler A148 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a148-error-code/)

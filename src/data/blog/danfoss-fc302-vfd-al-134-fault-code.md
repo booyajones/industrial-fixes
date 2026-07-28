@@ -17,15 +17,12 @@ free_checks:
   - "Check for visible mechanical overload on the driven equipment (jammed pump impeller, seized conveyor, stuck damper)"
 ---
 
-## Danfoss FC302 AL-134 — What It Means
-
+## What this code means
 No fault code AL-134 exists in Danfoss FC 302 VFD documentation. Danfoss alarm codes range from 1 to 99, with the most common internal faults numbered AL-38 and below. The number 134 is outside the valid range and likely represents a misread display or a confusion with parameter numbers (such as 1-34) rather than an actual alarm. Double-check your control panel display and your drive's alarm history log. If you see AL-13, that indicates output current exceeded the safe threshold during operation. If you see AL-14, that points to a ground fault or earth leakage in the motor or cable. If you see a three-digit number displayed alongside an alarm, it may be a parameter reference or a subcode, not the alarm itself.
 
 ## Before You Replace Anything
 
 Technicians sometimes replace IGBT modules or the entire inverter board when the real problem is a shorted motor winding or a corroded cable termination. Always disconnect the motor and run the drive unloaded to isolate whether the fault is internal to the drive or downstream in the motor circuit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if you cannot locate the alarm code in your manual, if the drive continues to show non-standard codes after a power cycle and keypad replacement, or if you need to measure IGBT modules, DC bus voltage, or gate driver signals inside the drive. Any work inside the VFD enclosure requires high-voltage lockout and specialized test equipment. Also call a pro if the motor fails the megohm test, as rewinding or replacing a three-phase motor is not a DIY task.
 
 **Rough cost:** A pro service call runs about $200-600 depending on whether the fault is in the motor, cable, or drive internals.
-
-## See Also
-
-- [Danfoss VFD Fault AL 14 — Causes & Fix](/posts/danfoss-vfd-fault-al-14/)
-- [Danfoss FC302 AL-122 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-122-fault-code/)
-- [Danfoss FC302 AL-78 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-78-fault-code/)
-- [Danfoss FC302 Alarm 50 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-50-fault-code/)

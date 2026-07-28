@@ -17,8 +17,7 @@ money_part: "Electronic oven control (EOC) board"
 part_price: "$150-300"
 ---
 
-## Frigidaire Range F5 Error Code — What It Means
-
+## What this code means
 On many Frigidaire electric ranges and wall ovens, F5 is an electronic control failure code. It most commonly points to a fault in the electronic oven control (EOC), also called the clock or control board, rather than the oven temperature sensor. Some Frigidaire model families use F5 to indicate a watchdog or control-board logic fault, and on certain platforms the code can also flag a door latch assembly or latch-switch problem. The exact meaning depends on your model family, so always consult your unit's service literature or wiring diagram to confirm.
 
 Because F5 is tied to the control electronics rather than a field sensor, the repair usually involves replacing the EOC board itself or addressing a wiring fault in the harness that feeds it. A power reset sometimes clears a transient glitch, but if the code returns immediately the control board or associated connectors are the leading suspects.
@@ -26,8 +25,6 @@ Because F5 is tied to the control electronics rather than a field sensor, the re
 ## Before You Replace Anything
 
 Many homeowners assume F5 means a bad oven temperature sensor and replace it first. The sensor is tied to F2, F3, or F4 codes on Frigidaire ranges, not F5. Always power-cycle the range and inspect the control board and harness before buying parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

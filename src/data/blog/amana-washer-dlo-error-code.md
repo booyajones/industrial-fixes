@@ -21,8 +21,7 @@ part_price: "$12-30 for drain hose; $60-110 for drain pump assembly"
 no_buy_pct: "65%"
 ---
 
-## Amana dLO Error Code — What It Means
-
+## What this code means
 The dLO code on Amana washers means the drain system is not clearing water fast enough within the control's expected drain window. In practical terms, the machine either cannot move water out quickly enough or the water level signal does not change as expected during the drain cycle.
 
 This is a drain-related fault, sometimes listed alongside similar codes like Ld. The control flags the problem when water remains in the tub longer than allowed, triggering a long-drain or drain-system-problem alert. The fault typically points to a restriction in the drain path or a pump that is not performing properly.
@@ -30,8 +29,6 @@ This is a drain-related fault, sometimes listed alongside similar codes like Ld.
 ## Before You Replace Anything
 
 Many people replace the drain pump first, but most dLO faults are caused by incorrect hose installation or kinks. Always verify hose routing, height, and the air gap at the standpipe before buying a pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

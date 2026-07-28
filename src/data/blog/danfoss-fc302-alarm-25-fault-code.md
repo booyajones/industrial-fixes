@@ -13,11 +13,8 @@ money_part: "Brake resistor (Danfoss compatible, match your drive's rating)"
 most_likely_cause: "Failed brake resistor with internal short"
 ---
 
-## Danfoss FC302 Alarm 25 — What It Means
-
+## What this code means
 Alarm 25 on a Danfoss VLT AutomationDrive FC 302 indicates that the drive has detected a short circuit in the brake resistor circuit during operation. When this fault occurs, the drive disables the brake function to protect itself but continues to run. The brake function remains disabled until you clear the alarm and fix the underlying short circuit condition.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,10 +44,3 @@ Alarm 25 on a Danfoss VLT AutomationDrive FC 302 indicates that the drive has de
 ## When to Call a Pro
 
 Call a qualified VFD technician or Danfoss-certified service provider if the alarm persists after you have replaced the brake resistor and verified all wiring is intact and correctly installed. Internal drive faults in the brake chopper circuit require specialized diagnostic tools and knowledge of the FC 302 hardware. Also call a pro if you are not trained in lockout/tagout procedures or if your facility requires certified personnel for all VFD work.
-
-## See Also
-
-- [Danfoss FC-302 Alarm 12 — Overcurrent Fix](/posts/danfoss-fc302-alarm-12/)
-- [Danfoss AKC Controller Fault Codes - Complete Guide](/posts/danfoss-akc-controller-fault/)
-- [Danfoss VLT 2900 Fault Codes: Complete Guide](/posts/danfoss-vlt-2900-faults/)
-- [Danfoss FC302 ALARM 30 - Causes & Fix](/posts/danfoss-fc302-alarm-30-fault-code/)

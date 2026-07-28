@@ -133,7 +133,7 @@ If a code returns within 24 hours of clearing, the failure is real — stop rese
 **Related:** [LG washer error codes (complete guide)](/posts/lg-washer-error-codes/)
 
 <!-- INTERNAL-LINK-AUTO -->
-**Related:** [LG washer error code 31 (pressure / suspension fault)](/posts/lg-washer-error-code-31/)
+**Related:** LG washer error code 31 (pressure / suspension fault)
 
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [LG refrigerator error codes (complete guide)](/posts/lg-refrigerator-error-codes/)
@@ -146,4 +146,3 @@ If a code returns within 24 hours of clearing, the failure is real — stop rese
 
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [Samsung refrigerator error codes](/posts/samsung-refrigerator-error-codes/)
-

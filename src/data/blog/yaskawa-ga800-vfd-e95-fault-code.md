@@ -14,8 +14,7 @@ money_part: "Yaskawa GA800 control board"
 most_likely_cause: "Misread or transposed code"
 ---
 
-## Yaskawa GA800 E95 Fault — What It Means
-
+## What this code means
 An E95 fault code on the Yaskawa GA800 drive does not appear in the manufacturer troubleshooting documentation provided. Yaskawa assigns specific alphanumeric codes to each fault condition, but E95 is not confirmed for the GA800 series in available technical literature. You may be seeing a different code (such as UV3, which indicates a soft-charge answerback fault), a misread display, or a code specific to a custom parameter set or firmware revision. Before attempting any repair, verify the exact characters on the keypad, confirm your drive model number and firmware version, and consult the GA800 maintenance manual or wiring diagram for your unit.
 
 Yaskawa training materials emphasize reading the elementary diagram first, then identifying what the fault code indicates before troubleshooting. If you cannot locate E95 in your manual, contact Yaskawa technical support with your drive serial number and the alarm history log to confirm the meaning and recommended corrective action.
@@ -23,8 +22,6 @@ Yaskawa training materials emphasize reading the elementary diagram first, then 
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board or entire drive without verifying the fault code in the manual or checking simple wiring issues first. Always confirm the code meaning and inspect all connections and relay circuits before ordering expensive parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified drive technician or Yaskawa-certified service provider if you cannot locate the fault code in your manual, if the alarm history shows multiple or intermittent faults, or if the drive does not clear the fault after a power cycle. High-voltage work inside a VFD requires specialized training and test equipment. Do not open the drive or attempt board-level repairs unless you are trained in electrical safety and have confirmed the code meaning and corrective action with the manufacturer.
 
 **Rough cost:** A pro service call runs about $200–800 depending on the actual fault and whether a relay, board, or drive replacement is needed.
-
-## See Also
-
-- [Yaskawa A1000 AL-25 (CPF25) - Causes & Fix](/posts/yaskawa-a1000-vfd-al-25-fault-code/)
-- [Yaskawa A1000 oFA32 - Causes & Fix](/posts/yaskawa-a1000-vfd-al-32-fault-code/)
-- [Yaskawa GA800 E09 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e09-fault-code/)
-- [Yaskawa GA800 F044 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f044-fault-code/)

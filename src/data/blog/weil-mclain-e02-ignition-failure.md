@@ -68,11 +68,4 @@ Gas supply diagnostics — measuring line pressure with a manometer, checking dy
 
 - [Weil-McLain Boiler Error Code E10 — Low Water Pressure Fix](/posts/weil-mclain-e10-low-pressure/)
 - [Weil-McLain E01 Error Code — Causes & Fix](/posts/weil-mclain-e01-error-code/)
-- [Weil-McLain E03 Error Code — Causes & Fix](/posts/weil-mclain-e03-error-code/)
-
-## See Also
-
-- [Weil-McLain Code 1 — No Flame Sensed Fix](/posts/weil-mclain-error-code-1/)
-- [Weil-McLain E04 Error Code — Causes & Fix](/posts/weil-mclain-e04-error-code/)
-- [Weil-McLain E06 Error Code — Ignition Lockout](/posts/weil-mclain-e06-error-code/)
-- [Weil-McLain Boiler Error Code E01 — Lockout Fix](/posts/weil-mclain-e01-error-code/)
+- Weil-McLain E03 Error Code — Causes & Fix

@@ -16,15 +16,12 @@ diy_or_pro: "diy"
 money_part: "Control Panel / User Interface Assembly"
 ---
 
-## Maytag Washer LC Error Code — What It Means
-
+## What this code means
 The LC or LOC code on a Maytag washer indicates that the Control Lock feature has been activated. This is not a hardware fault or error. The washer is simply preventing accidental changes to settings during operation. The control panel will not respond to button presses until you unlock it using the correct procedure for your model. This is a normal user-enabled function that can be toggled on or off at any time.
 
 ## Before You Replace Anything
 
 Homeowners sometimes think the control board or user interface has failed and order expensive replacement parts when the panel is simply locked. Always verify you are using the correct unlock button and procedure from your owner's manual before replacing any electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

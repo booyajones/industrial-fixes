@@ -13,11 +13,8 @@ money_part: "Siemens SINAMICS G120 Control Unit (CU240 / CU250)"
 most_likely_cause: "Misread or transposed fault number"
 ---
 
-## Siemens G120 F01250 Fault — What It Means
-
+## What this code means
 F01250 does not appear in published Siemens SINAMICS G120 fault code tables. This means the code may be misread, mistyped, or specific to a custom configuration or third-party integration. The G120 displays standard fault codes in the format F##### or A#### with defined meanings in the manufacturer's fault list. Without confirmation from the drive's own display or diagnostic buffer, it is not possible to identify the root cause or recommend specific repairs. Always verify the exact fault code shown on the Basic Operator Panel (BOP), Intelligent Operator Panel (IOP), or commissioning software before proceeding with troubleshooting.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,10 +43,3 @@ F01250 does not appear in published Siemens SINAMICS G120 fault code tables. Thi
 ## When to Call a Pro
 
 Call a qualified drives technician or Siemens-certified service partner immediately if you cannot read the fault code from the drive's own display, if the drive will not power on at all, or if you lack access to the SINAMICS operating instructions and fault list for your specific Control Unit model. Professional diagnostics are also essential when the drive is integrated into a safety-rated system or when your facility requires documented commissioning records for compliance. Do not guess at repairs or swap components without confirming the exact fault code, as incorrect parts replacement can void warranty coverage and create new faults.
-
-## See Also
-
-- [Siemens Micromaster F0051 - Causes & Fix](/posts/siemens-micromaster-f0051-fault-code/)
-- [Siemens G120 A03520 - Causes & Fix](/posts/siemens-g120-a03520-fault-code/)
-- [Siemens Micromaster F0070 - Causes & Fix](/posts/siemens-micromaster-vfd-f0070-fault-code/)
-- [Siemens G120 F30002 - DC Link Overvoltage Causes & Fix](/posts/siemens-g120-vfd-f30002-fault-code/)

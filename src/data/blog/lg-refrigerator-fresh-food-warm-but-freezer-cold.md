@@ -19,8 +19,6 @@ When your LG refrigerator's fresh food section is warm but the freezer is still 
 
 The restriction is typically caused by frost buildup on the evaporator coil, a failed evaporator fan that cannot move air, or a stuck air damper that controls airflow between the freezer and fresh food sections. LG guidance starts with door sealing, blocked vents, incorrect settings, and demo mode before moving to component-level service issues.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Frosted evaporator coil from defrost system failure** Failed defrost heater, defrost sensor, or control issue allows ice to accumulate on the evaporator until airflow is completely blocked.
@@ -70,10 +68,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a professional if you see heavy frost on the evaporator coil and are not comfortable testing electrical components with a multimeter, if the evaporator fan or damper does not respond after a reset, or if defrost heater and sensor tests require interpreting resistance values from the service manual. A qualified appliance technician has the tools and wiring diagrams to diagnose control board signals, replace sealed components in the freezer compartment, and verify proper defrost cycle operation without risking further damage to the refrigeration system.
-
-## See Also
-
-- [LG Mini Split Error Codes — All CH Codes Explained](/posts/lg-mini-split-error-codes/)
-- [LG Microwave Inverter Board Replacement - Signs & How-To](/posts/lg-microwave-inverter-board-inverter-models-replacement/)
-- [LG Microwave F1 Error Code - Causes & Fix](/posts/lg-microwave-f1-error-code/)
-- [LG Washer Error LE — Motor Lock / Stator Fix](/posts/lg-washer-error-le/)

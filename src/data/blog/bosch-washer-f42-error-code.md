@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Bosch Washer F42 Error Code — What It Means
-
+## What this code means
 The F42 code on a Bosch washer indicates that the control system has detected the motor spinning faster than expected during a cycle or self-test. This is an excessive drum speed fault. The control board monitors motor speed through a tachometer (tacho) feedback sensor mounted on the motor. When the feedback signal suggests the motor is running too fast, the washer stops and displays F42.
 
 Bosch groups F42 with motor-related faults in service documentation. The code does not always mean the motor itself is bad. Instead, it often points to a problem in the speed-sensing circuit (tacho sensor, wiring, or connectors), worn carbon brushes on brushed motors, or faulty motor control electronics. Bosch advises power-cycling the machine once. If the code returns, qualified service is recommended.
@@ -26,31 +25,13 @@ Bosch groups F42 with motor-related faults in service documentation. The code do
 
 Homeowners often replace the control board first when F42 appears. Check motor wiring, tacho connections, and carbon brushes before spending on a new board, since loose connectors or worn brushes cause the same symptom at a fraction of the cost.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Faulty tachometer (tacho) sensor or circuit (~40%)** The tacho feedback sensor on the motor sends speed information to the control board, and a failing sensor or poor connection makes the board read incorrect speed and throw F42.
-- **Worn or damaged carbon brushes (~25%)** Brushed motors rely on carbon brushes to deliver current to the armature, and worn brushes cause erratic running, arcing, and speed-control problems that trigger overspeed faults.
-- **Loose or damaged motor wiring and connectors (~15%)** The harness between the motor, tacho, and control board can develop loose pins, corroded terminals, or burned contacts that interrupt feedback signals and create false overspeed readings.
-- **Failed drive motor (~10%)** Internal electrical or mechanical faults in the motor itself can cause uncontrolled speed or intermittent faults that the control system reads as overspeed.
-- **Defective control board or motor control electronics (~10%)** The control board's motor-drive circuitry can fail and either command excessive speed or misinterpret correct feedback, triggering F42 even when the motor and tacho are good.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Does the drum spin freely by hand when the washer is unplugged and empty?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Mechanical binding is not your issue. Move on to electrical checks of the motor, tacho, and wiring.<br><strong>No:</strong> A seized bearing or foreign object may be loading the motor and causing erratic speed. Clear any obstruction and check drum bearings before chasing electrical faults.</div>
-</details>
-
-<details class="dtree"><summary>If you access the motor, are the carbon brushes (on brushed motors) longer than about 1 cm and not cracked or chipped?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Brushes are OK. Focus on the tacho sensor, its wiring, and the motor connector block for poor contact or damage.<br><strong>No:</strong> Replace the carbon brushes. Short or damaged brushes cause arcing and erratic speed that often triggers F42.</div>
-</details>
-
-<details class="dtree"><summary>Are all connectors at the motor and on the control board firmly seated with no signs of burning or corrosion?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Wiring is likely sound. The tacho sensor, motor, or control board is the next suspect. Professional testing is needed.<br><strong>No:</strong> Clean or replace the damaged connector or harness section. Poor connections are a frequent cause of false speed readings.</div>
-</details>
+- **Faulty tachometer (tacho) sensor or circuit** The tacho feedback sensor on the motor sends speed information to the control board, and a failing sensor or poor connection makes the board read incorrect speed and throw F42.
+- **Worn or damaged carbon brushes** Brushed motors rely on carbon brushes to deliver current to the armature, and worn brushes cause erratic running, arcing, and speed-control problems that trigger overspeed faults.
+- **Loose or damaged motor wiring and connectors** The harness between the motor, tacho, and control board can develop loose pins, corroded terminals, or burned contacts that interrupt feedback signals and create false overspeed readings.
+- **Failed drive motor** Internal electrical or mechanical faults in the motor itself can cause uncontrolled speed or intermittent faults that the control system reads as overspeed.
+- **Defective control board or motor control electronics** The control board's motor-drive circuitry can fail and either command excessive speed or misinterpret correct feedback, triggering F42 even when the motor and tacho are good.
 
 ## Step-by-Step Fix {#fix}
 
@@ -74,5 +55,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a qualified appliance technician if you are not comfortable working with electrical connections or if initial checks of connectors and brushes do not resolve F42. Diagnosing a tacho sensor or motor fault requires a multimeter and knowledge of the correct test points and values for your specific Bosch model. If the motor or control board needs replacement, the repair involves removing heavy components and working with live mains voltage during testing. Bosch recommends contacting their customer support at 1-800-944-2904 (U.S.) if the error persists after a power cycle. A professional service call typically costs between $150 and $350 depending on the part replaced and local labor rates.
-
-**Rough cost:** A pro service call runs about $150–350 depending on part needed.

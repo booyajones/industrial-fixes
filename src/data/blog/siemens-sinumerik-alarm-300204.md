@@ -13,11 +13,8 @@ money_part: "Sinamics S120 motor module"
 most_likely_cause: "Mechanical binding or jam"
 ---
 
-## Siemens Sinumerik Alarm 300204 — What It Means
-
+## What this code means
 Siemens Sinumerik alarm 300204 means axis overcurrent — the drive detected motor current exceeding the maximum permissible threshold on the specified axis. On Sinumerik 840D, 840Di sl, and 828D controls with Sinamics S120 or 611 drives, alarm 300204 is a drive-level fault reported to the CNC. The alarm text typically reads "Axis [axis name] drive fault 300204" and the associated Sinamics fault code is F30004 (overcurrent). This is a hard trip that powers down the axis immediately to protect the IGBT modules and motor winding.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Siemens Sinumerik alarm 300204 means axis overcurrent — the drive detected mot
 ## When to Call a Pro
 
 Sinamics S120 drive module repair and parameter verification requires Siemens-trained technicians with TIA Portal access. Incorrect parameter restoration after a module swap will generate additional alarms.
-
-## Related Articles
-
-- [Siemens Sinumerik 828D Alarm Codes Guide — Complete Diagnostic Reference](/posts/siemens-828d-alarm-codes/)
-- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
-- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)
-- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
-- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)
-
-## See Also
-
-- [Siemens SINAMICS S120 Fault F07900 — Motor Overtemperature Fix](/posts/siemens-sinamics-s120-fault-f07900/)
-- [Siemens Micromaster 440 Fault F002 — Overcurrent](/posts/siemens-micromaster-440-fault-f002/)
-- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)
-- [Siemens SINAMICS G120 VFD Complete Setup and Fault Code Guide](/posts/siemens-sinamics-g120-complete-guide/)

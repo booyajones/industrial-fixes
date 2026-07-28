@@ -60,18 +60,3 @@ Use megohmmeter at 1000 VDC on all motor windings and cables. Also check PE (gro
 | Cooling fan | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-danfoss-vlt-2900-faults&k=Cooling+fan&tag=errorcodefixes-20) \| Specific to VLT 2900 frame size |
 | Fuses | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-danfoss-vlt-2900-faults&k=Fuses&tag=errorcodefixes-20) \| Note: VLT 2900 uses specific semiconductor fuse types |
 > **Pro tip:** Danfoss VLT 2900 drives are discontinued. When parts are no longer available, the FC301/FC302 is the recommended migration path. Danfoss provides a parameter migration guide for converting VLT 2900 parameters to FC302 equivalents.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-
-## See Also
-
-- [Danfoss VFD Fault Codes — FC301, FC302, FC102 Reference](/posts/danfoss-vfd-fault-codes/)
-- [Danfoss FC102 VLT HVAC Drive Fault Codes — Complete Diagnostic Reference](/posts/danfoss-fc102-fault-codes/)
-- [Danfoss VFD Fault AL 14 — Causes & Fix](/posts/danfoss-vfd-fault-al-14/)
-- [Danfoss AKC Controller Fault Codes - Complete Guide](/posts/danfoss-akc-controller-fault/)

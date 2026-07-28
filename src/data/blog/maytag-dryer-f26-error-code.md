@@ -17,8 +17,7 @@ money_part: "Maytag dryer main control board"
 part_price: "$100-250"
 ---
 
-## Maytag Dryer F26 Error Code — What It Means
-
+## What this code means
 F26 on a Maytag dryer is a dryer motor control circuit error according to Maytag's published fault-code list. The code signals a problem in the motor control path rather than a simple user condition. The fault typically involves the motor control circuit on the electronic control board, wiring between the control and motor, the motor sensor or tach feedback circuit, or the control board that drives and monitors the motor.
 
 Maytag's help documentation recommends a power reset and retest as a first step, which suggests the code can be transient. If the code returns after a reset, the problem is in the motor control circuit hardware and requires inspection of wiring, the motor sensor path, and the control board itself.
@@ -26,8 +25,6 @@ Maytag's help documentation recommends a power reset and retest as a first step,
 ## Before You Replace Anything
 
 Some homeowners replace the motor first when the real fault is a loose wiring harness plug or a failed control board. Always inspect all connectors and run a power-cycle reset before ordering a motor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

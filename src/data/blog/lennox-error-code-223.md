@@ -13,11 +13,8 @@ money_part: "Induced draft motor"
 most_likely_cause: "Inducer motor failure"
 ---
 
-## Lennox Error Code 223 — What It Means
-
+## What this code means
 Lennox fault code 223 indicates a draft inducer fault — the control board commanded the inducer to run but did not receive confirmation that it started or reached operating speed within the expected time window. On variable-speed inducer systems, this can also mean the inducer ran but could not achieve the RPM target needed to satisfy the pressure switch. The furnace will not proceed to ignition until the inducer is confirmed running, making this fault a hard lockout of the entire ignition sequence.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Lennox fault code 223 indicates a draft inducer fault — the control board comm
 ## When to Call a Pro
 
 If the inducer motor is confirmed running and the pressure switch still won't close, the furnace may have a blocked or undersized venting system. Flue system evaluation and correction require proper tools and training to avoid creating a carbon monoxide hazard.
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-
-## See Also
-
-- [Lennox Error Code 225 — Causes & Fix](/posts/lennox-error-code-225/)
-- [Lennox Furnace Error Codes — Complete Reference Guide](/posts/lennox-furnace-error-codes/)
-- [Lennox XP20 Heat Pump Error Codes - Full iComfort Fault Reference](/posts/lennox-xp20-heat-pump-error-codes/)
-- [Lennox Error Code 114 — Causes & Fix](/posts/lennox-error-code-114/)

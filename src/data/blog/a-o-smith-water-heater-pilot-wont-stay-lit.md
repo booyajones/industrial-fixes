@@ -19,8 +19,6 @@ When your pilot lights but goes out as soon as you release the pilot knob, the g
 
 After the pilot is lit and stable, the status light on your A.O. Smith control should flash once per second. If the pilot will not hold or the status light does not behave this way, the flame-sense circuit or another component is not working correctly.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed thermocouple or thermopile** A.O. Smith specifically notes that a broken thermocouple will not send power to the pilot safety valve, so the pilot will not stay lit once the knob is released.
@@ -56,7 +54,7 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [A O Smith Water Heater E2 error code](/posts/a-o-smith-water-heater-e2-error-code/)
 - [A O Smith Water Heater E4 error code](/posts/a-o-smith-water-heater-e4-error-code/)
-- [A O Smith Water Heater E6 error code](/posts/a-o-smith-water-heater-e6-error-code/)
+- A O Smith Water Heater E6 error code
 
 ## When to Call a Pro
 

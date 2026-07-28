@@ -17,8 +17,7 @@ money_part: "User Interface / Touchpad Assembly"
 part_price: "$80-180"
 ---
 
-## Maytag Range F2E0 Error Code — What It Means
-
+## What this code means
 F2 E0 on a Maytag range signals that the oven control thinks a key on the user interface or keypad is stuck, continuously pressed, or electrically shorted. The fault can also indicate a wiring problem or a communication failure between the touchpad and the electronic control board. The code appears when the control detects a key-press signal that never releases, even when no one is touching the panel.
 
 Maytag product help lists the likely causes as the user interface or keypad, the electronic control, or the associated wiring harness and connectors. The fault is usually electronic, not mechanical, meaning you often will not see a button physically jammed down. Instead, a shorted trace on the touchpad membrane or a failed chip on the interface board sends a continuous press signal.
@@ -26,8 +25,6 @@ Maytag product help lists the likely causes as the user interface or keypad, the
 ## Before You Replace Anything
 
 Many people replace the main electronic control board first when the real culprit is the touchpad. Before buying a new control, power-cycle the range at the breaker and inspect the keypad connector for corrosion or looseness.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

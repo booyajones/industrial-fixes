@@ -19,8 +19,6 @@ When a Mitsubishi mini split doesn't respond to the remote, the problem is almos
 
 This symptom is separate from a mechanical or refrigerant fault. The indoor unit may be running fine but simply not receiving or acknowledging the remote's infrared commands. Mitsubishi troubleshooting materials treat remote communication failures as a distinct category from stored fault codes, which are retrieved using the Failure Mode Recall procedure.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dead or weak batteries in the remote** This is the leading cause and Mitsubishi recommends replacing them with two new AAA batteries and confirming correct polarity.
@@ -53,26 +51,19 @@ This symptom is separate from a mechanical or refrigerant fault. The indoor unit
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Mitsubishi Mini Split E0 error code](/posts/mitsubishi-mini-split-e0-error-code/)
-- [Mitsubishi Mini Split E2 error code](/posts/mitsubishi-mini-split-e2-error-code/)
-- [Mitsubishi Mini Split E3 error code](/posts/mitsubishi-mini-split-e3-error-code/)
-- [Mitsubishi Mini Split E4 error code](/posts/mitsubishi-mini-split-e4-error-code/)
-- [Mitsubishi Mini Split E5 error code](/posts/mitsubishi-mini-split-e5-error-code/)
-- [Mitsubishi Mini Split E7 error code](/posts/mitsubishi-mini-split-e7-error-code/)
-- [Mitsubishi Mini Split E9 error code](/posts/mitsubishi-mini-split-e9-error-code/)
-- [Mitsubishi Mini Split Ee error code](/posts/mitsubishi-mini-split-ee-error-code/)
-- [Mitsubishi Mini Split Fb error code](/posts/mitsubishi-mini-split-fb-error-code/)
-- [Mitsubishi Mini Split P1 error code](/posts/mitsubishi-mini-split-p1-error-code/)
-- [Mitsubishi Mini Split P2 error code](/posts/mitsubishi-mini-split-p2-error-code/)
-- [Mitsubishi Mini Split P4 error code](/posts/mitsubishi-mini-split-p4-error-code/)
+- Mitsubishi Mini Split E0 error code
+- Mitsubishi Mini Split E2 error code
+- Mitsubishi Mini Split E3 error code
+- Mitsubishi Mini Split E4 error code
+- Mitsubishi Mini Split E5 error code
+- Mitsubishi Mini Split E7 error code
+- Mitsubishi Mini Split E9 error code
+- Mitsubishi Mini Split Ee error code
+- Mitsubishi Mini Split Fb error code
+- Mitsubishi Mini Split P1 error code
+- Mitsubishi Mini Split P2 error code
+- Mitsubishi Mini Split P4 error code
 
 ## When to Call a Pro
 
 If fresh batteries, clear line of sight, and a remote reset do not restore operation, or if the indoor unit's operation lamp is flashing in a pattern, call a qualified HVAC technician. Retrieving stored fault codes using Mitsubishi's Failure Mode Recall procedure requires familiarity with the model-specific service manual, and replacing the indoor receiver board or control PCB involves working with live electrical components and refrigerant-bearing equipment that should be handled by a licensed professional.
-
-## See Also
-
-- [Mitsubishi E4 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-e4-error-code/)
-- [Mitsubishi E7 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-e7-error-code/)
-- [Mitsubishi Mini Split E9 Error Code — Causes & Fix](/posts/mitsubishi-mini-split-e9-error-code/)
-- [Mitsubishi EE Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-ee-error-code/)

@@ -13,11 +13,8 @@ money_part: "Siemens G120 parameter backup file or commissioning dataset"
 most_likely_cause: "Reference parameter left at 0.0 during commissioning"
 ---
 
-## Siemens G120 F01033 — What It Means
-
+## What this code means
 F01033 on a Siemens SINAMICS G120 means the drive detected an invalid value during a unit switchover or scaling conversion. Specifically, one of the required reference parameters for speed or unit display is set to 0.0 when it must contain a valid nonzero value. This fault appears during commissioning, parameter uploads, or after a parameter reset when the drive tries to convert or display units but finds a missing or zeroed reference value. It is a configuration problem, not a hardware failure in the power stage or control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,10 +44,3 @@ F01033 on a Siemens SINAMICS G120 means the drive detected an invalid value duri
 ## When to Call a Pro
 
 Call a Siemens-trained drives technician or automation integrator if you do not have access to the original commissioning parameters, if the fault reappears after setting valid reference values, or if you are unfamiliar with G120 parameter structure and unit scaling. This fault does not indicate a failed component, but incorrect parameterization can prevent proper operation or cause nuisance trips. A qualified technician can compare your current parameter set against the application requirements, verify unit conversion logic, and restore a complete commissioning dataset if needed.
-
-## See Also
-
-- [Siemens G120 F01018 - Causes & Fix](/posts/siemens-g120-f01018-fault-code/)
-- [Siemens Micromaster F0052 - Causes & Fix](/posts/siemens-micromaster-f0052-fault-code/)
-- [Siemens SINAMICS G120X Fault Codes: Complete Guide](/posts/siemens-g120x-fault-codes/)
-- [Siemens G120 F01044 - Causes & Fix](/posts/siemens-g120-f01044-fault-code/)

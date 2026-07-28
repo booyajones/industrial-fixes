@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Appliance Manager Control board"
 ---
 
-## Maytag Range F6E1 Error Code — What It Means
-
+## What this code means
 F6E1 on a Maytag range or wall oven signals a communication failure between the oven's control modules and their wiring harness. The Appliance Manager Control and Converter Control must exchange data continuously, and this code appears when that link is broken or corrupted. This is not a temperature sensor or runaway-heat code (that meaning applies to other brands). For Maytag, the documented cause is a control-system or wiring problem.
 
 The fault can be triggered by loose or corroded connectors, a damaged harness between the boards, a failed Appliance Manager Control, a failed Converter Control, or a temporary software glitch after a power surge. Because the error points to the control-communication path rather than a sensor, technicians isolate the boards and harness rather than replacing temperature components.
@@ -25,8 +24,6 @@ The fault can be triggered by loose or corroded connectors, a damaged harness be
 ## Before You Replace Anything
 
 Homeowners sometimes order and swap temperature sensors because generic internet videos link F6 codes to sensors on other brands. For Maytag ranges, F6E1 is a control-communication fault, so inspect and reseat harness connectors before buying any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

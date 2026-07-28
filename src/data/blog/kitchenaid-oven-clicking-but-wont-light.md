@@ -20,8 +20,6 @@ A KitchenAid oven that is clicking but won't light means the igniter or spark sy
 
 For a cooktop burner, the clicking usually comes from the spark electrode firing continuously without a flame. For a gas oven, the clicking or glowing igniter appears but the main burner does not light. Common reasons include a gas supply issue, moisture or debris in the burner area, a misaligned burner or igniter, a weak igniter, or a failed valve or control component.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Gas supply off or interrupted** The appliance shutoff valve is closed, the main gas line is off, or gas service is disrupted.
@@ -55,8 +53,8 @@ For a cooktop burner, the clicking usually comes from the spark electrode firing
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kitchenaid Oven A6 error code](/posts/kitchenaid-oven-a6-error-code/)
-- [Kitchenaid Oven Ab error code](/posts/kitchenaid-oven-ab-error-code/)
+- Kitchenaid Oven A6 error code
+- Kitchenaid Oven Ab error code
 - [Kitchenaid Oven Cal error code](/posts/kitchenaid-oven-cal-error-code/)
 - [Kitchenaid Oven F6 E0 error code](/posts/kitchenaid-oven-f6-e0-error-code/)
 - [Kitchenaid Oven F6 E1 error code](/posts/kitchenaid-oven-f6-e1-error-code/)

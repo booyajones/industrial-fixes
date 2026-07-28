@@ -13,13 +13,10 @@ money_part: "Low Pressure Switch (LPS)"
 most_likely_cause: "Refrigerant leak or low charge"
 ---
 
-## Daikin E4 Error Code — What It Means
-
+## What this code means
 The E4 error code on Daikin systems indicates actuation of the low pressure switch (LPS). This means the system detected abnormally low refrigerant pressure and shut down the compressor to prevent damage. The low pressure switch is a protective device that monitors suction pressure. When pressure drops too far below normal operating range, the switch opens and the unit stops.
 
 This fault points to a refrigerant-side problem rather than an electrical or sensor glitch in most cases. The system is telling you that something is preventing adequate refrigerant pressure from building in the low side of the circuit. It could be low charge, a blockage, or occasionally a faulty sensor itself.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ This fault points to a refrigerant-side problem rather than an electrical or sen
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not certified to handle refrigerants or lack a manifold gauge set and vacuum pump. Refrigerant work requires EPA certification and specialized tools. Also call if you find a leak but cannot access the joint for repair, if the system needs brazing, or if the fault returns after you have recharged and verified pressures. Outdoor PCB diagnosis and expansion valve replacement on VRV or complex systems often need factory training and software tools.
-
-## See Also
-
-- [Daikin H6 Error Code — Indoor Fan Motor Lock Fault Fix](/posts/daikin-h6-error-code/)
-- [Daikin UA Error Code — Mismatched Indoor/Outdoor Unit Fix](/posts/daikin-error-code-uA/)
-- [Daikin E2 Error Code - Causes & Fix](/posts/daikin-e2-error-code/)
-- [Daikin E9 Error Code — Causes & Fix](/posts/daikin-e9-error-code/)

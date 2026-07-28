@@ -19,8 +19,7 @@ free_checks:
   - "Inspect all wiring between the TXV sensors, evaporator probe, and control board for loose or damaged cables."
 ---
 
-## Manitowoc E10 Error Code — What It Means
-
+## What this code means
 The E10 error code on Manitowoc ice machines with dual TXV (thermostatic expansion valve) or dual refrigeration circuits indicates a flooding evaporator fault. The control board detects that the compressor discharge temperature did not rise by at least 1°F relative to the evaporator temperature during the freeze cycle. This tells the system that liquid refrigerant is over-feeding into the evaporator, flooding it instead of being properly metered.
 
 In some older or non-Indigo models the E10 label has been confused with a bin switch error, but on modern Indigo and Indigo NXT dual-circuit units the correct definition is evaporator flooding caused by improper refrigerant flow. The fault is triggered when the system cannot achieve the expected temperature differential, signaling an imbalance in one or both refrigeration circuits.
@@ -28,8 +27,6 @@ In some older or non-Indigo models the E10 label has been confused with a bin sw
 ## Before You Replace Anything
 
 Many technicians replace the control board first, but a stuck TXV or dirty ice thickness probe is far more often the real problem. Test the TXV operation and clean the evaporator probe before swapping the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a refrigeration technician as soon as you confirm the E10 code persists after cleaning the ice thickness probe and checking wiring. Diagnosing and repairing dual TXV systems requires EPA-certified refrigerant handling, manifold gauges, a vacuum pump, and specialized TXV test tools. Attempting to adjust TXVs or recharge refrigerant without proper training can damage the compressor, contaminate the circuits, or violate environmental regulations. A qualified pro will test both circuits for proper superheat and subcool, verify TXV operation, and replace any stuck valves while maintaining the correct refrigerant charge for each circuit.
 
 **Rough cost:** A pro service call runs about $250-500.
-
-## See Also
-
-- [Manitowoc Ice Machine Error Code 6 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-6/)
-- [Manitowoc E54 Error Code — Water Curtain Switch Open Fix](/posts/manitowoc-e54-error-code/)
-- [Manitowoc E09 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e09-error-code/)
-- [Manitowoc Ice Machine E12 Error - Causes & Fix](/posts/manitowoc-ice-machine-e12-error-code/)

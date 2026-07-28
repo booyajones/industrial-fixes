@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Yaskawa A1000 AL16 — What It Means
-
+## What this code means
 The AL16 fault (displayed without a hyphen) indicates that the Yaskawa A1000 VFD has lost the encoder feedback signal from the motor or the signal is outside the acceptable range. The drive relies on this feedback for closed-loop vector control or servo applications to verify the motor's speed and position. Without a valid encoder signal, the drive cannot safely operate in closed-loop mode and trips to protect the system.
 
 This fault is almost always a wiring or hardware issue rather than a motor problem. The encoder signal must travel from the motor through a cable to an option card (such as a PGD2 or PGX2) mounted in the drive. Any break, loose connection, or damage along that path will trigger AL16. In some cases incorrect parameter settings can also cause the fault if the drive is expecting a different encoder type or resolution than what is actually installed.
@@ -29,8 +28,6 @@ This fault is almost always a wiring or hardware issue rather than a motor probl
 ## Before You Replace Anything
 
 Technicians often replace the encoder option card or the encoder itself before inspecting the wiring. Check continuity and resistance of the encoder cable and inspect connections inside the motor terminal box (peckerhead) first, as loose or folded wires there are a frequent hidden cause.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a qualified technician or VFD specialist if you are not comfortable working around high-voltage industrial equipment or if you lack the tools to safely lock out power and perform continuity testing. If the fault persists after checking all wiring and connections, the encoder, option card, or main control board may need replacement, which requires knowledge of drive configuration and parameter setup. If the drive is part of a critical production process, a professional can minimize downtime and verify proper closed-loop tuning after repair.
 
 **Rough cost:** A pro service call runs about $200-600.
-
-## See Also
-
-- [Yaskawa GA800 F023 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f023-fault-code/)
-- [Yaskawa A1000 AL-22 - Causes & Fix](/posts/yaskawa-a1000-vfd-al-22-fault-code/)
-- [Yaskawa GA800 E42 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e42-fault-code/)
-- [Yaskawa GA800 E10 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e10-fault-code/)

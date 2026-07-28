@@ -17,8 +17,6 @@ description: "Haas Alarm 103 overheating fault explained — causes including lo
 
 Overheating on a Haas CNC is almost always a maintenance issue, not a parts failure — though repeated thermal events will eventually cause real component damage. Catching the root cause early saves thousands of dollars in drive and motor replacements.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
 - **Low or contaminated coolant (through-spindle / flood)** — Low coolant level means less heat absorption capacity for the spindle and cutting zone. Contaminated coolant (tramp oil, fine swarf in suspension) reduces the cooling effect and can gum up the heat exchanger. Coolant that is too concentrated also has reduced heat capacity.
@@ -54,18 +52,3 @@ Overheating on a Haas CNC is almost always a maintenance issue, not a parts fail
 ## When to Call a Technician
 
 If Alarm 103 persists after cleaning the cabinet filter, topping off coolant, and reducing cutting load, have a Haas Factory Outlet (HFO) technician perform a full thermal assessment. Drive thermal parameter review, spindle bearing inspection, and heat exchanger cleaning that requires disconnecting coolant lines should all be performed by a qualified CNC service tech. Repeated thermal faults that are ignored will eventually cause servo drive failure, which typically costs $2,000–$5,000 per axis to remedy.
-
-## Related Articles
-
-- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
-- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
-- [Haas Alarm 120 ATC Fault — Causes & Fix](/posts/haas-alarm-120-atc-fault/)
-- [Haas Alarm 134 — Spindle Drive Fault Fix](/posts/haas-alarm-134-spindle-drive/)
-- [Haas CNC Alarm Codes — Complete Reference Guide](/posts/haas-alarm-codes/)
-
-## See Also
-
-- [Haas Alarm 123 — Causes & Fix](/posts/haas-alarm-123/)
-- [Haas Alarm 124 — Causes & Fix](/posts/haas-alarm-124/)
-- [Haas Alarm 122 — ATC Chain Fault](/posts/haas-alarm-122/)
-- [Haas Alarm 118 — Spindle Orientation Fault Causes & Fix](/posts/haas-alarm-118/)

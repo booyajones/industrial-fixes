@@ -19,8 +19,6 @@ A loud banging noise in an Electrolux dryer is not an error code. It is a mechan
 
 In practical repair terms, banging means a physical impact or movement problem inside the dryer cabinet. It can be as simple as coins hitting the drum or as serious as worn drum support components creating impact noise during rotation. The sound comes from metal-on-metal contact or components moving out of position.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Loose or foreign objects in the drum** Coins, belt buckles, or other hard items in clothing pockets create clanking and rattling noises as they tumble against the drum.
@@ -57,8 +55,8 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Electrolux Dryer Ad error code](/posts/electrolux-dryer-ad-error-code/)
 - [Electrolux Dryer E 09 error code](/posts/electrolux-dryer-e-09-error-code/)
-- [Electrolux Dryer E 10 error code](/posts/electrolux-dryer-e-10-error-code/)
-- [Electrolux Dryer E 11 error code](/posts/electrolux-dryer-e-11-error-code/)
+- Electrolux Dryer E 10 error code
+- Electrolux Dryer E 11 error code
 - [Electrolux Dryer E 31 error code](/posts/electrolux-dryer-e-31-error-code/)
 - [Electrolux Dryer E 42 error code](/posts/electrolux-dryer-e-42-error-code/)
 - [Electrolux Dryer E 51 error code](/posts/electrolux-dryer-e-51-error-code/)

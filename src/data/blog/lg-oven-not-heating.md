@@ -20,8 +20,6 @@ When your LG oven does not heat, the control board has detected that the oven te
 
 The control board monitors temperature rise through the oven sensor and commands heating elements or gas burners accordingly. When the expected temperature rise does not happen, the board may display F9 (upper oven not heating properly) or F7 depending on your model family. The fault points to a break somewhere in the heating circuit, the temperature sensing circuit, or the control logic itself.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed heating element** A burned-out bake or broil element is the primary cause of no-heat faults in electric LG ovens and is listed first in LG's own troubleshooting guidance.
@@ -70,10 +68,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a professional if you are not comfortable working with line voltage, if you own a gas range and suspect an igniter or gas valve fault, or if basic component tests (elements and sensor) all pass but the oven still does not heat. Control board diagnosis and replacement require experience with wiring harnesses and proper part matching. For gas appliances, any work involving the igniter, gas valve, or burner assembly should be handled by a qualified technician to prevent gas leaks or unsafe operation. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [LG Mini-Split CH67 Error Code — Causes & Fix](/posts/lg-mini-split-ch67-error-code/)
-- [LG Washer Won't Fill with Water - Causes & Fix](/posts/lg-washer-wont-fill-with-water/)
-- [LG Washer IE Error Code - Causes & Fix](/posts/lg-washer-ie-error-code/)
-- [LG Washer Leaking Water - Causes & Fix](/posts/lg-washer-leaking-water/)

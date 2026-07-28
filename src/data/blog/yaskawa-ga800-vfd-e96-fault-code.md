@@ -14,8 +14,7 @@ money_part: "GA800 control board"
 most_likely_cause: "Wiring or terminal issues"
 ---
 
-## Yaskawa GA800 E96 Fault — What It Means
-
+## What this code means
 E96 is not a standard documented fault code in Yaskawa GA800 manufacturer materials. Yaskawa distinguishes faults, alarms, and errors on the GA800, and troubleshooting begins by recording the exact code and any additional text shown on the operator display. The exact meaning of E96 depends on the specific GA800 model variant, firmware version, and the complete message displayed on the keypad.
 
 Because the E96 definition is not confirmed in Yaskawa's published GA800 fault lists, treat it as an uncertain code until you verify it against your exact drive manual or contact Yaskawa technical support with the model number, serial number, and full display message. For any GA800 error state, Yaskawa's procedure is to remove the cause of the condition and then press RESET on the keypad while the code is displayed.
@@ -23,8 +22,6 @@ Because the E96 definition is not confirmed in Yaskawa's published GA800 fault l
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board or option cards without first checking basic wiring, power supply quality, and mechanical binding on the motor shaft. Always inspect all control and power connections, verify stable input voltage, and confirm the motor turns freely before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or Yaskawa-authorized service center if you cannot identify the exact meaning of E96 in your drive manual, if the code returns after you have checked wiring and power, or if the drive requires internal component replacement beyond the fan or control board. Yaskawa's maintenance documentation directs deeper repairs to factory service. Also call a professional if you are not trained in lockout/tagout procedures or high-voltage troubleshooting, because the GA800 operates at lethal voltages and requires safe isolation before any work inside the enclosure.
 
 **Rough cost:** A pro service call runs about $200-500.
-
-## See Also
-
-- [Yaskawa A1000 CPF14 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf14-fault-code/)
-- [Yaskawa GA800 A.100 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-100-fault-code/)
-- [Yaskawa GA800 E01 Fault - Motor Data Error During Auto-Tune](/posts/yaskawa-ga800-e01-fault-code/)
-- [Yaskawa GA800 A.137 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-137-fault-code/)

@@ -54,15 +54,8 @@ Rheem troubleshooting guides point to inlet-side restrictions (code 31 on some m
 If this part is failing you may also see one of these codes:
 
 - [Rheem Water Heater A01 error code](/posts/rheem-water-heater-a01-error-code/)
-- [Rheem Water Heater Alarm 401 error code](/posts/rheem-water-heater-alarm-401-error-code/)
+- Rheem Water Heater Alarm 401 error code
 
 ## When to Call a Pro
 
 If you're not comfortable shutting off water and power or working with threaded gas-piping nearby, hire a licensed plumber or HVAC tech. Any work that requires moving or disconnecting gas lines, burner service, or diagnosing multiple fault codes (ignition, flame-sense, or venting issues) should be left to a professional. Also call a pro if you've replaced the inlet valve and screen but still see low-flow or inlet-restriction faults, since upstream plumbing problems or crossed hot-cold connections need diagnostic tools and code-chart experience to trace. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
-- [Rheem Furnace 8 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-8-flashes/)
-- [Rheem Water Heater Heating Element Replacement - Signs & How-To](/posts/rheem-water-heater-heating-element-electric-screw-in-flange-replacement/)
-- [Rheem RTGH-95DVLN Condensing Tankless Water Heater Error Codes](/posts/rheem-rtgh-95dvln-error-codes/)

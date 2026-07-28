@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Yaskawa GA800 EF3 Fault — What It Means
-
+## What this code means
 The GA800 displays EF3 (not F003) when the external fault input assigned to terminal S3 has been triggered. This fault appears when parameter H1-01 is configured to values 2C through 2F (External Fault) and the terminal detects a fault condition from a connected external device or wiring issue. Terminal S3 is a multi-function digital input (MFDI) that can be wired to safety relays, emergency stop circuits, or overload switches.
 
 The fault tells you that either the external device connected to S3 is in a fault state, or the wiring to S3 does not match the parameter configuration (for example, a short-circuit fault when the drive expects an open-circuit fault). If terminal S3 is not being used for any external device, the fault usually indicates a wiring mistake or a false activation from electrical noise.
@@ -29,8 +28,6 @@ The fault tells you that either the external device connected to S3 is in a faul
 ## Before You Replace Anything
 
 Technicians sometimes replace the VFD main board when the real problem is a tripped safety relay or a loose wire at terminal S3. Always trace the external device wired to S3 and check its status before swapping control boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

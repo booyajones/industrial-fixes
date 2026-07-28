@@ -19,8 +19,6 @@ A Maytag dishwasher that won't fill with water is experiencing an interrupted fi
 
 Common inhibit points include the water inlet valve, the overfill protection float, the door switch or latch, the household water supply, and the main control board. The machine may start its cycle but never progress past the fill stage, or it may not start at all if the door isn't latched properly.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Closed or restricted water supply** The household shutoff valve under the sink is closed, partially closed, or the fill hose is kinked.
@@ -54,18 +52,18 @@ Common inhibit points include the water inlet valve, the overfill protection flo
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Maytag Dishwasher E1 error code](/posts/maytag-dishwasher-e1-error-code/)
-- [Maytag Dishwasher E15 error code](/posts/maytag-dishwasher-e15-error-code/)
-- [Maytag Dishwasher E3 error code](/posts/maytag-dishwasher-e3-error-code/)
-- [Maytag Dishwasher E4 error code](/posts/maytag-dishwasher-e4-error-code/)
-- [Maytag Dishwasher E6 error code](/posts/maytag-dishwasher-e6-error-code/)
-- [Maytag Dishwasher E7 error code](/posts/maytag-dishwasher-e7-error-code/)
-- [Maytag Dishwasher F10E5 error code](/posts/maytag-dishwasher-f10e5-error-code/)
-- [Maytag Dishwasher F1E1 error code](/posts/maytag-dishwasher-f1e1-error-code/)
-- [Maytag Dishwasher F2E2 error code](/posts/maytag-dishwasher-f2e2-error-code/)
-- [Maytag Dishwasher F3E2 error code](/posts/maytag-dishwasher-f3e2-error-code/)
-- [Maytag Dishwasher F4E3 error code](/posts/maytag-dishwasher-f4e3-error-code/)
-- [Maytag Dishwasher F6E1 error code](/posts/maytag-dishwasher-f6e1-error-code/)
+- Maytag Dishwasher E1 error code
+- Maytag Dishwasher E15 error code
+- Maytag Dishwasher E3 error code
+- Maytag Dishwasher E4 error code
+- Maytag Dishwasher E6 error code
+- Maytag Dishwasher E7 error code
+- Maytag Dishwasher F10E5 error code
+- Maytag Dishwasher F1E1 error code
+- Maytag Dishwasher F2E2 error code
+- Maytag Dishwasher F3E2 error code
+- Maytag Dishwasher F4E3 error code
+- Maytag Dishwasher F6E1 error code
 
 ## When to Call a Pro
 

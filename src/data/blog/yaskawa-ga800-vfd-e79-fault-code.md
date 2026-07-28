@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "Yaskawa GA800 STO jumper"
 ---
 
-## Yaskawa GA800 E79 — What It Means
-
+## What this code means
 The E79 fault on the Yaskawa GA800 VFD is a Safe Torque Off (STO) safety input related alarm. It means the drive has detected that the STO safety circuit is open, not satisfied, or inconsistent with the expected state. The STO function is a built-in safety feature that prevents torque production to the motor even while main input power remains applied. When the STO inputs or their required jumper or safety relay path are not in the correct state, the drive will not allow operation and will report this safety condition.
 
 This is not a motor overload or overcurrent fault. Instead, the drive is telling you that the safety interlock circuit is incomplete or interrupted, so torque production is inhibited as a protective measure. The fault will persist until the STO circuit is properly closed or restored to the configuration the drive expects.
@@ -24,8 +23,6 @@ This is not a motor overload or overcurrent fault. Instead, the drive is telling
 ## Before You Replace Anything
 
 Technicians sometimes suspect the drive control board is faulty and replace the entire VFD. Before doing that, carefully inspect the STO terminal jumper and verify the safety relay outputs are actually closing, which costs nothing and resolves the majority of E79 faults.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or automation technician if you are not familiar with VFD wiring, safety circuit design, or machine safety standards. The STO function is a safety-critical circuit, and incorrect wiring can create a hazard or violate safety regulations. If the drive was integrated into a machine safety system and you cannot identify which upstream device is causing the fault, a technician with access to the machine wiring diagrams and safety relay documentation is required. If the STO jumper is correctly installed or the safety relay outputs are verified closed and the fault still persists, the drive's internal STO input circuit may be damaged and will need manufacturer service or replacement.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Yaskawa GA800 CPF24 - Causes & Fix](/posts/yaskawa-ga800-vfd-f024-fault-code/)
-- [Yaskawa GA800 E04 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e04-fault-code/)
-- [Yaskawa GA800 E12 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e12-fault-code/)
-- [Yaskawa GA800 A.121 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-121-fault-code/)

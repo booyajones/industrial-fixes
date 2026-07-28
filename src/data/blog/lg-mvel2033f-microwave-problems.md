@@ -59,10 +59,3 @@ These codes apply to this model line:
 ## When to Call a Pro
 
 Call a professional for any high-voltage work involving the magnetron, inverter, capacitor, or internal heating circuits. Control-board replacement, interlock-switch testing with a meter, and thermistor circuit diagnosis are also best handled by a tech familiar with LG microwave service procedures. If a power reset and connector check do not clear E10, F1, F11, or F16, the repair typically requires board-level diagnosis and replacement that goes beyond DIY troubleshooting.
-
-## See Also
-
-- [LG Washer LE Error Code - Causes & Fix](/posts/lg-washer-le-error-code/)
-- [LG EID Error Code - Causes & Fix](/posts/lg-refrigerator-eid-error-code/)
-- [LG Mini Split CH44 Error Code - Causes & Fix](/posts/lg-mini-split-ch44-error-code/)
-- [LG Range F7 Error Code - Causes & Fix](/posts/lg-range-f7-error-code/)

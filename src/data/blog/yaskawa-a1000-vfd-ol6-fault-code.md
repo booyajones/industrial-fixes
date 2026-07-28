@@ -15,15 +15,12 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 oL6 Fault — What It Means
-
+## What this code means
 The oL6 fault on a Yaskawa A1000 VFD indicates Motor Overload (2), a software-based protection triggered when the drive calculates the motor has operated at an overload level beyond the preset time limit. This is tied to the thermal overload model and protects against prolonged, low-level overloads that cause excessive heating over time. The drive accumulates a thermal capacity value based on output current, and when this exceeds 100 percent for the duration defined in parameter L6-03, the fault trips. It differs from oL1 by focusing on cumulative thermal stress rather than sudden current spikes.
 
 ## Before You Replace Anything
 
 Technicians often replace motors or drives when the real cause is incorrect motor parameter settings (E2-01 through E2-05). Always verify nameplate data matches drive parameters before swapping hardware.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -71,10 +68,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or VFD technician if you are not trained to work with high-voltage three-phase equipment, if the mechanical load inspection reveals complex gearbox or bearing damage requiring disassembly, or if correcting motor parameters and thermal settings does not resolve the fault. VFD programming and load analysis require specialized knowledge of motor control theory and measurement tools. If the fault persists after verifying all settings and the mechanical system is sound, the drive may have a failed current sensor or internal fault requiring factory repair or replacement.
 
 **Rough cost:** A pro service call runs about $200-800 depending on mechanical repairs or parameter tuning.
-
-## See Also
-
-- [Yaskawa VFD Fault OH — Causes & Fix](/posts/yaskawa-vfd-fault-oh/)
-- [Yaskawa GA800 E48 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e48-fault-code/)
-- [Yaskawa GA800 A.122 Alarm - Causes & Fix](/posts/yaskawa-ga800-vfd-a-122-fault-code/)
-- [Yaskawa A1000 oL1 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol1-fault-code/)

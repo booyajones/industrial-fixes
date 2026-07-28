@@ -59,10 +59,3 @@ These codes apply to this model line:
 ## When to Call a Pro
 
 Call a tech if you see any error code and are not comfortable with multimeter diagnostics or soldering connectors. Compressor relay codes (22/33) and main board communication faults (C1) need a technician with the service manual resistance tables and board-level troubleshooting skills. Refrigerant system work, compressor replacement, and any sealed-system repair must be done by an EPA-certified technician. If frost keeps returning after manual defrost, the defrost heater, timer, or control board may need professional diagnosis and replacement.
-
-## See Also
-
-- [LG Dishwasher Standing Water in Bottom - Causes & Fix](/posts/lg-dishwasher-standing-water-in-bottom/)
-- [LG Refrigerator Door Gasket Replacement - Signs & How-To](/posts/lg-refrigerator-door-gasket-door-seal-replacement/)
-- [LG LDFN4542S Dishwasher Problems & Error Codes](/posts/lg-ldfn4542s-dishwasher-problems/)
-- [LG Dryer Main Control Board Replacement - Signs & How-To](/posts/lg-dryer-main-control-board-pcb-replacement/)

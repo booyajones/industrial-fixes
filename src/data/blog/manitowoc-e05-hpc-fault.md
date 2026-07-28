@@ -23,8 +23,6 @@ If this happened during a lunch rush or dinner service, treat it like an airflow
 
 This article targets the **Manitowoc Indigo series**, which is the most widely installed commercial Manitowoc platform. It also applies to **Manitowoc Q Series and S Series models with Indigo control boards**.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
 - **Failed fan cycle control switch**. This is the most common single part failure behind E05 on many air cooled Manitowoc machines. When it stops cycling the condenser fan correctly, head pressure climbs fast.
@@ -82,10 +80,3 @@ Call a commercial refrigeration technician if you cleaned the condenser, confirm
 
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Scotsman 1-flash bin full fix](/posts/scotsman-1-flash-code/)
-
-## See Also
-
-- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
-- [Manitowoc Ice Machine Error Code 6 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-6/)
-- [Manitowoc Indigo NXT Error Code 8 - What It Means and How to Fix It](/posts/manitowoc-indigo-nxt-error-code-8/)
-- [Manitowoc Ice Machine Error Code 9 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-9/)

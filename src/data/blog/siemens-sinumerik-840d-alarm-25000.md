@@ -13,11 +13,8 @@ money_part: "DRIVE-CLiQ cable"
 most_likely_cause: "Drive module overcurrent or overtemperature"
 ---
 
-## Siemens Sinumerik 840D Alarm 25000 — What It Means
-
+## What this code means
 Alarm 25000 on the Siemens Sinumerik 840D CNC indicates a drive fault — the SINAMICS S120 drive module connected to the 840D has reported a fault condition that prevents axis motion. The 840D communicates with its drives via DRIVE-CLiQ; Alarm 25000 is the CNC-side alarm indicating the drive subsystem has faulted, with the specific drive fault code appearing separately on the drive or in the diagnostic display.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Alarm 25000 on the Siemens Sinumerik 840D CNC indicates a drive fault — the SI
 ## When to Call a Pro
 
 S120 drive replacement on a Sinumerik 840D requires parameter backup, commissioning, and safety function verification. Siemens-trained service engineers handle 840D drive replacements.
-
-## Related Articles
-
-- [Siemens Sinumerik 828D Alarm Codes Guide — Complete Diagnostic Reference](/posts/siemens-828d-alarm-codes/)
-- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
-- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)
-- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
-- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)
-
-## See Also
-
-- [Siemens SINAMICS G120 F30011 Fault — Phase Loss Fix](/posts/siemens-sinamics-f30011-fault/)
-- [Siemens SINAMICS V20 F4 Fault — Inverter Overtemperature Fix](/posts/siemens-sinamics-v20-f4-overtemp/)
-- [Siemens Sinumerik Alarm 25201 — Causes & Fix](/posts/siemens-sinumerik-alarm-25201/)
-- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)

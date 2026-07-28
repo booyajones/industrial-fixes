@@ -13,11 +13,8 @@ money_part: "Haas servo drive board"
 most_likely_cause: "Mechanical jam or obstruction on the axis"
 ---
 
-## Haas Alarm 106 — What It Means
-
+## What this code means
 Haas alarm 106 is a servo fault indicating the servo drive board detected an error in the axis servo drive hardware. Haas uses an integrated servo drive/amplifier design where the drive board is shared across multiple axes, and alarm 106 indicates the hardware protection on one of the axis drive channels tripped. This can be an overcurrent condition, a drive bus fault, or a hardware fault in the drive IGBT section. The alarm is often accompanied by the specific axis identifier (e.g., "106 X SERVO ERROR") in the current alarms screen to isolate which drive channel failed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,36 +41,3 @@ Haas alarm 106 is a servo fault indicating the servo drive board detected an err
 ## When to Call a Pro
 
 If the mechanical axis is clear, the motor cable is intact, and the drive board has no visible damage but alarm 106 persists or returns immediately, contact Haas Factory Outlet (HFO) tech support. They can walk through servo diagnostics over the phone or dispatch a service engineer.
-
-## Related Articles
-
-- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
-- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
-- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
-- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Fanuc vs Mazak CNC controls compared](/posts/fanuc-vs-mazak-cnc-controls/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Best megohmmeter for electricians](/posts/best-megohmmeter-for-electricians/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Best CNC touch probe (2026)](/posts/best-cnc-touch-probe/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Fanuc alarm 401 servo ready off](/posts/fanuc-alarm-401/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Mazak alarm 218 spindle overheat](/posts/mazak-alarm-218/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Haas alarm 114 servo error too large](/posts/haas-alarm-114/)
-
-## See Also
-
-- [Haas Alarm 116 — Causes & Fix](/posts/haas-alarm-116/)
-- [Haas Alarm 130: Spindle Speed Error — Causes and Fix](/posts/haas-alarm-130/)
-- [Haas Alarm 113 — Spindle Encoder Fault Causes & Fix](/posts/haas-alarm-113/)
-- [Haas Next Generation Control Alarm Codes Guide](/posts/haas-next-generation-alarm-codes/)

@@ -16,15 +16,12 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Dryer L2 Error Code — What It Means
-
+## What this code means
 L2 on an Amana dryer indicates low or no line voltage on the supply side. The dryer drum may still run, but the heater will not turn on because one leg of the 240-volt supply is missing. Amana states this code appears only during initial installation and can be cleared by touching any pad on the control. The code points to a problem with the home power supply rather than an internal dryer fault.
 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the heating element or thermal fuse when the dryer runs without heat, but if L2 appears the issue is upstream at the breaker panel or power cord. Check both circuit breakers feeding the dryer before ordering any internal parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

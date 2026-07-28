@@ -18,8 +18,7 @@ free_checks:
   - "Inspect cabinet grounding, wire routing, and shielding for signs of electrical noise or EMI that could stress the control board."
 ---
 
-## Allen-Bradley PowerFlex 525 F114 — What It Means
-
+## What this code means
 F114 on an Allen-Bradley PowerFlex 525 means uC Failure or microprocessor failure. This is an internal control-board fault detected by the drive's processor, not a problem with your motor or wiring. The drive has flagged a fatal error in its own control electronics and has shut down to protect itself.
 
 Because this fault originates inside the drive, you won't find loose wires or a bad motor causing it. The issue is either a damaged microcontroller chip, corrupted internal logic, or electrical noise that has disrupted the control board's operation.
@@ -27,8 +26,6 @@ Because this fault originates inside the drive, you won't find loose wires or a 
 ## Before You Replace Anything
 
 Technicians sometimes suspect input-power problems or motor faults when they see F114, but this code is strictly an internal drive fault. Always power-cycle the drive first before ordering a replacement control module.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified technician or automation specialist for F114. This fault requires power cycling, controlled testing under load, and potentially replacing the control module or the entire drive. A technician has the correct replacement part numbers for your specific drive catalog number and series, and can verify that cabinet grounding, EMI control, and wiring practices meet Rockwell's standards. If the fault is intermittent, a pro can also log drive diagnostics and compare with a known-good unit to isolate whether the failure is on the control module, the power board, or in the cabinet environment. Do not attempt to open the drive or replace internal components yourself, the drive contains high-voltage DC-bus capacitors that remain charged even after input power is removed.
 
 **Rough cost:** A pro service call runs about $300-800 for control module replacement and testing; full drive replacement if module swap does not resolve.
-
-## See Also
-
-- [Allen-Bradley PowerFlex 525 F127 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f127-fault-code/)
-- [Allen-Bradley PowerFlex F081 Fault — Communication Loss Fix](/posts/allen-bradley-powerflex-f081-fault/)
-- [Allen-Bradley PowerFlex 525 F042 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f042-fault-code/)
-- [Allen-Bradley PowerFlex 525 F071 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f071-fault-code/)

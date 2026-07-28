@@ -19,8 +19,6 @@ A Frigidaire dishwasher that is not cleaning dishes properly is a performance sy
 
 Because soil buildup in the filter and sump directly restricts water circulation and soil removal, Frigidaire identifies this as the primary cause of cleaning complaints and the i40 code. Blocked spray-arm ports, low incoming water temperature, restricted water inlet components, circulation pump issues, and incomplete drainage can all reduce wash performance and leave dishes dirty.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged filter, sump, or glass trap** Food soils collect in the filter assembly and sump area, restricting circulation and triggering the i40 code or reducing cleaning performance.

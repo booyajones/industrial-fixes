@@ -13,11 +13,8 @@ money_part: "Heidenhain encoder cable"
 most_likely_cause: "Mechanical binding or excessive load"
 ---
 
-## Heidenhain TNC Error 399 — What It Means
-
+## What this code means
 Error 399 on Heidenhain TNC controls (TNC 640, TNC 530, TNC 620) indicates an axis error — the control detected a position or velocity discrepancy on one of the controlled axes beyond the allowable tolerance. Heidenhain's digital drive system monitors position feedback continuously; Error 399 fires when the following error (difference between commanded and actual position) exceeds the threshold set in the machine parameters.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

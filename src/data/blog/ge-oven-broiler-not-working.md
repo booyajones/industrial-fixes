@@ -20,8 +20,6 @@ A GE oven broiler not working means the broil heat source is not energizing. Thi
 
 In electric ovens, the broil element at the top of the cavity has usually burned out and no longer heats. In gas ovens, the broil burner is not lighting because the igniter, spark electrode, safety valve, thermostat, or control board has failed. Both scenarios prevent the oven from producing broil heat.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Burned-out broil element (electric ovens)** The element at the top of the cavity has failed internally, often with visible blistering, breaks, or no continuity when tested.
@@ -56,18 +54,18 @@ In electric ovens, the broil element at the top of the cavity has usually burned
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Ge Oven F0 error code](/posts/ge-oven-f0-error-code/)
-- [Ge Oven F1 error code](/posts/ge-oven-f1-error-code/)
+- Ge Oven F0 error code
+- Ge Oven F1 error code
 - [Ge Oven F2 error code](/posts/ge-oven-f2-error-code/)
-- [Ge Oven F20 error code](/posts/ge-oven-f20-error-code/)
-- [Ge Oven F3 error code](/posts/ge-oven-f3-error-code/)
-- [Ge Oven F350 error code](/posts/ge-oven-f350-error-code/)
-- [Ge Oven F4 error code](/posts/ge-oven-f4-error-code/)
-- [Ge Oven F5 error code](/posts/ge-oven-f5-error-code/)
-- [Ge Oven F6 error code](/posts/ge-oven-f6-error-code/)
-- [Ge Oven F7 error code](/posts/ge-oven-f7-error-code/)
-- [Ge Oven F7X error code](/posts/ge-oven-f7x-error-code/)
-- [Ge Oven F8 error code](/posts/ge-oven-f8-error-code/)
+- Ge Oven F20 error code
+- Ge Oven F3 error code
+- Ge Oven F350 error code
+- Ge Oven F4 error code
+- Ge Oven F5 error code
+- Ge Oven F6 error code
+- Ge Oven F7 error code
+- Ge Oven F7X error code
+- Ge Oven F8 error code
 
 ## When to Call a Pro
 

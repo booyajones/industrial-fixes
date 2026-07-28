@@ -19,8 +19,6 @@ When an Electrolux washer won't start, it means the machine is being blocked by 
 
 Electrolux explains that the most common reasons include an unclosed door or lid, child lock being active, delayed start accidentally selected, a normal pause stage (between wash and spin or during soak), no water supply, or loss of power from a tripped breaker or loose plug. If you see an E-code on the display, that points to a specific problem like E10 for no water supply.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door or lid not fully closed** The door or lid may be blocked by excess laundry or not latched completely, which prevents the cycle from starting.

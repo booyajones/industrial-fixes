@@ -20,8 +20,7 @@ free_checks:
 part_price: "$120-220"
 ---
 
-## Electrolux Washer E61 Error Code — What It Means
-
+## What this code means
 Electrolux groups the E61 code with the E60 and E62 family of heating faults. It generally refers to a heating problem in the washer's circuit. The exact sub-fault can vary by model, but the code signals that the control board has detected an unsafe or abnormal condition in the heating system. This may involve the heater relay, the heating element itself, wiring between components, or the temperature sensor feedback loop.
 
 In dryer-focused Electrolux and Zanussi service material, E61 specifically points to a fault in the heating circuit, most often a failed or stuck heater relay on the main control board or a shorted heating element that creates an electrical fault the board can detect. For washer-dryer combo models, the same logic applies: the code is a heater or heating-circuit control fault, not a water-level or drain issue.
@@ -29,8 +28,6 @@ In dryer-focused Electrolux and Zanussi service material, E61 specifically point
 ## Before You Replace Anything
 
 Many people replace the heating element first without testing. Always check the element for a ground fault with a multimeter and inspect the control board relay for stuck contacts before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

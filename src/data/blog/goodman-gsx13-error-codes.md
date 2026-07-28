@@ -17,8 +17,6 @@ money_part: "Dual run capacitor"
 
 The Goodman GSX13 is a 13 SEER single-stage residential central air conditioner using R-410A refrigerant. It is one of Goodman's most widely installed entry-level units and uses a standard contactor-based control system. Fault codes are reported by a diagnostic LED on the outdoor control board — the same LED-based flash code system used across Goodman's Comfort and Performance series. The GSX13 does not have a communicating control system.
 
-[Jump to Fix](#fix)
-
 ## Goodman GSX13 LED Flash Code Reference
 
 | Flash Sequence | Fault |
@@ -62,18 +60,3 @@ The Goodman GSX13 is a 13 SEER single-stage residential central air conditioner 
 ## When to Call a Pro
 
 Refrigerant work requires EPA 608 certification. If the GSX13 compressor is buzzing but not starting after capacitor replacement, the compressor may need a hard-start kit (potential relay + start capacitor) or may be mechanically seized. A technician with manifold gauges and a clamp meter is needed to distinguish between a slugged compressor and a failed one.
-
-## Related Articles
-
-- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
-- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
-- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
-- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
-- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)
-
-## See Also
-
-- [Goodman ComfortNet Communicating System Error Codes — Complete Guide](/posts/goodman-communicating-error-codes/)
-- [Goodman Heat Pump Error Codes - What It Means and How to Fix It](/posts/goodman-heat-pump-error-codes/)
-- [Goodman Furnace 5 Flash Error Code — Causes & Fix](/posts/goodman-furnace-5-flash-error-code/)
-- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)

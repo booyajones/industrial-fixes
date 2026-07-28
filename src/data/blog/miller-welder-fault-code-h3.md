@@ -13,11 +13,8 @@ money_part: "Input voltage selector switch"
 most_likely_cause: "Voltage sag from undersized wiring or long runs"
 ---
 
-## Miller Welder H3 Fault Code — What It Means
-
+## What this code means
 The H3 fault on Miller welders (Millermatic, Dynasty, Maxstar, and Multimatic series) indicates an input voltage out-of-range condition — the incoming line voltage is either too high or too low for safe operation. Miller's control circuitry monitors input voltage continuously; if it falls outside the acceptable range (typically ±15% of rated input), H3 trips and welding output is disabled to protect the power electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

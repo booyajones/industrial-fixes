@@ -18,8 +18,6 @@ tags:
 
 On Samsung gas ovens, a burner that won't light usually means the hot-surface igniter is weak. The igniter may glow visibly, but it does not draw enough current to open the safety gas valve, so the burner never receives gas to ignite. On Samsung gas cooktops, the same symptom typically points to a burner ignition problem rather than a fault code. Common checks include spark delivery, gas supply, burner head and cap positioning, and blocked orifices.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Weak oven igniter** The igniter glows but does not draw enough amperage to open the gas valve, so the burner never lights.

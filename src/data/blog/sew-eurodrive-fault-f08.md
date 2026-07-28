@@ -13,11 +13,8 @@ money_part: "Braking resistor (correctly sized)"
 most_likely_cause: "Motor decelerating too quickly (regeneration)"
 ---
 
-## SEW-Eurodrive Fault F08 — What It Means
-
+## What this code means
 SEW-Eurodrive fault F08 is a DC link overvoltage fault (also documented as "DC bus overvoltage" in SEW's MOVITRAC and MOVIDRIVE manuals). The drive's DC bus voltage exceeded the maximum permissible level — typically around 820–840V DC on 480V class drives. Overvoltage on the DC bus is almost always caused by regenerative energy from the motor being pumped back into the drive's bus capacitors faster than the dynamic braking resistor (if installed) can dissipate it, or by a utility supply voltage that is consistently above the drive's maximum rated input.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

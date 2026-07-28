@@ -19,8 +19,6 @@ When your Amana washer is not dispensing detergent, it means detergent is either
 
 If your model does have a detergent dispenser and detergent is being left behind, Amana states that detergent residue, a dirty dispenser, an unlevel washer, or an incorrectly selected cycle option can prevent proper dispensing. For fabric softener issues specifically, Amana says the Fabric Softener option must be selected before starting the cycle, and if Extra Rinse is selected it will dispense softener into the last rinse instead.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Residue or buildup blocking the dispenser drawer or housing** Caked detergent or fabric softener in the drawer, openings, or spray paths physically prevents flow and is the most common cause on models with dispensers.
@@ -61,7 +59,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Amana Washer F8 E1 error code](/posts/amana-washer-f8-e1-error-code/)
 - [Amana Washer F8 E2 error code](/posts/amana-washer-f8-e2-error-code/)
 - [Amana Washer F9 E1 error code](/posts/amana-washer-f9-e1-error-code/)
-- [Amana Washer Fd error code](/posts/amana-washer-fd-error-code/)
+- Amana Washer Fd error code
 - [Amana Washer Hc error code](/posts/amana-washer-hc-error-code/)
 - [Amana Washer Ldl error code](/posts/amana-washer-ldl-error-code/)
 - [Amana Washer Ldu error code](/posts/amana-washer-ldu-error-code/)

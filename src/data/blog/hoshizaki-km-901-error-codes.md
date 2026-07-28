@@ -160,18 +160,3 @@ MAH = air-cooled head, MRH = remote condenser (condensing unit is installed remo
 **Q: Can I use generic ice machine cleaner instead of Hoshizaki Scale Away?**
 
 Yes, as long as it's nickel-safe. Hoshizaki's evaporators are nickel-plated, and some aggressive cleaners can damage the plating and void the warranty. Check that any cleaner you use is labeled safe for nickel-plated evaporators. Hoshizaki's own 946-2101-04 is the safest choice.
-
-## Related Articles
-
-- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
-- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)
-- [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
-- [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)
-
-## See Also
-
-- [Hoshizaki Ice Machine E9 Error Code — Compressor Overload Fault Fix](/posts/hoshizaki-e9-error-compressor/)
-- [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
-- [Hoshizaki KM Series E1 Error Code — Causes & Fix](/posts/hoshizaki-km-series-e1-error/)
-- [Hoshizaki Ice Machine E7 Error Code — High-Side Pressure Switch Fault Fix](/posts/hoshizaki-e7-pressure-switch/)

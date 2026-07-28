@@ -13,11 +13,8 @@ money_part: "Fieldbus communication cable"
 most_likely_cause: "Master not polling or network timeout"
 ---
 
-## ABB ACS550 EFB1 Fault Code — What It Means
-
+## What this code means
 On the ABB ACS550, fault F0031 or EFB1 is a reserved embedded fieldbus protocol fault. ABB states that faults 31 through 33 (EFB1 to EFB3) are protocol-dependent, meaning the exact cause depends on which fieldbus protocol (PROFIBUS, Modbus, DeviceNet, etc.) is configured on your drive. In most field installations, EFB1 appears when the PLC or master controller stops polling the drive within the configured timeout, or when the communication link between the drive and the network master fails. Unlike hardware faults with fixed meanings, EFB1 is a software and network layer fault that requires you to diagnose the fieldbus network, wiring, and master device rather than a single component inside the drive itself.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ On the ABB ACS550, fault F0031 or EFB1 is a reserved embedded fieldbus protocol 
 ## When to Call a Pro
 
 Call a qualified electrician, controls technician, or ABB service partner if you are not trained in fieldbus network troubleshooting, if you cannot safely access the PLC or master controller, or if the fault persists after you have verified wiring, settings, and the master device. Fieldbus diagnostics often require network analyzers, protocol-specific software, and detailed knowledge of industrial communication standards. If the drive control board itself is suspect, a professional can perform isolation tests and coordinate factory replacement to avoid incorrect part swaps.
-
-## See Also
-
-- [ABB VFD Fault Codes — ACS550, ACS880, ACS310 Reference](/posts/abb-vfd-fault-codes/)
-- [ABB VFD Fault 3130 — Input Phase Loss Fix](/posts/abb-vfd-fault-3130/)
-- [ABB ACS580 Fault 2310 — Overcurrent Fix](/posts/abb-acs580-2310-fault/)
-- [ABB ACS880 Fault 2310 Overcurrent — Causes & Fix](/posts/abb-acs880-fault-2310-overcurrent/)

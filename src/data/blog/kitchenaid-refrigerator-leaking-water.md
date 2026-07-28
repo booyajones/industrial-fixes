@@ -19,8 +19,6 @@ A KitchenAid refrigerator leaking water is a symptom, not a code. The leak locat
 
 Water dripping from the dispenser may be normal residual dripping after use, a full drip tray, or air trapped in the system after a filter change. KitchenAid product help breaks leaks into these categories because each location has its own set of causes and fixes.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged defrost drain** Ice or debris blocks the drain tube, so water overflows and pools at the base or inside the freezer compartment.

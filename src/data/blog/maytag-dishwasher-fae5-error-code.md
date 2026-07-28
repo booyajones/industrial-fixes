@@ -21,8 +21,7 @@ money_part: "Water inlet valve"
 most_likely_cause: "Flood switch or base pan float triggered"
 ---
 
-## Maytag Dishwasher FAE5 Error Code — What It Means
-
+## What this code means
 The FAE5 (or F10E5) error code on Maytag dishwashers indicates that the cycle ended early, the machine drained itself, and the control board logged a fault. Maytag's official documentation does not provide a deeper explanation of the exact component or sensor that triggered the code. The manufacturer's only published instruction is to press Cancel twice and then attempt to start a new cycle.
 
 If the error returns after clearing it, the dishwasher has detected a persistent problem. The exact cause is model-specific and requires the service diagnostic mode and technical sheet for your model number. Because Maytag and Whirlpool share platforms, this code family appears on both brands with identical behavior, but the fault path varies by model and year.
@@ -30,8 +29,6 @@ If the error returns after clearing it, the dishwasher has detected a persistent
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board or user interface first, assuming an electronic glitch. Before ordering any parts, enter the machine's diagnostic mode (model-specific key sequence) to read the stored fault history and identify the actual failed input or sensor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

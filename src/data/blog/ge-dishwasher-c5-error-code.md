@@ -17,8 +17,7 @@ money_part: "GE dishwasher float switch assembly"
 part_price: "$15-50"
 ---
 
-## GE Dishwasher C5 Error Code — What It Means
-
+## What this code means
 The C5 code on GE electronic-control dishwashers means the pump-out time is too short. The control expects the drain solenoid to energize and the pump to remove water within a certain window, but it does not see the expected drain condition in time. This tells you the machine either cannot drain properly or the float assembly is reporting a premature empty condition.
 
 The fault can be triggered by a stuck float that signals the tub is already empty, a blockage that slows the drain and confuses the timing, or a water-supply or fill issue that leaves too little water in the tub to drain normally. GE support documents point to the float cover in the front-left of the tub floor and the drain path (hose, air gap, disposer connection) as the most common causes.
@@ -26,8 +25,6 @@ The fault can be triggered by a stuck float that signals the tub is already empt
 ## Before You Replace Anything
 
 Homeowners often replace the control board or drain pump first. Before ordering parts, tap the float cover in the front-left tub corner and inspect the drain hose and air gap for clogs, since most C5 codes clear with those simple checks.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

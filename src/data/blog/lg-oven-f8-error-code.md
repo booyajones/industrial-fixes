@@ -17,8 +17,7 @@ money_part: "LG oven meat probe / temperature probe"
 part_price: "$15-50"
 ---
 
-## LG Oven F8 Error Code — What It Means
-
+## What this code means
 The F8 error code on an LG oven or range indicates an oven meat probe error. LG's official U.S. support documentation lists it specifically as "F8 Error Code… Oven Meat Probe Error," and LG Parts confirms that F8 or F18 signals an issue with the oven meat probe circuit. This fault means the control board has detected a problem in the temperature probe circuit, which could be the probe itself, the connector jack, the wiring harness, or the control board input that reads the probe signal.
 
 In real-world service, the most common cause is a faulty or shorted probe, a poor connection at the probe jack, or damaged wiring in the probe harness. LG's official guidance is to press CLEAR/OFF and retry the function. If the error returns, the probe assembly or its circuit is the likely culprit and should be inspected and tested.
@@ -26,8 +25,6 @@ In real-world service, the most common cause is a faulty or shorted probe, a poo
 ## Before You Replace Anything
 
 Many people replace the main control board first when the real problem is the inexpensive meat probe or its connector. Always test or substitute the probe and inspect the jack before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable removing oven panels or working around line-voltage terminals, if the error persists after you have replaced the probe and inspected the jack, or if you need to verify wiring continuity and resistance values that require a multimeter and service documentation. A technician can quickly substitute parts, trace harness faults, and confirm whether the control board is at fault. If the oven is still under warranty or a service contract, contact LG or an authorized service center before attempting repairs yourself.
 
 **Rough cost:** DIY runs about $15-50 in parts, 15-30 min. A pro service call runs about $100-200.
-
-## See Also
-
-- [LG Mini-Split CH26 Error Code — CT Sensor Fault](/posts/lg-mini-split-ch26-error-code/)
-- [LG Range HE Error Code - Causes & Fix](/posts/lg-range-he-error-code/)
-- [LG Dryer Shuts Off Early - Causes & Fix](/posts/lg-dryer-shuts-off-early/)
-- [LG Oven F19 Error Code - Causes & Fix](/posts/lg-oven-f19-error-code/)

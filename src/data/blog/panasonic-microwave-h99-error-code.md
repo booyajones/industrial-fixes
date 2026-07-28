@@ -14,13 +14,10 @@ money_part: "Inverter board / inverter power supply"
 most_likely_cause: "Defective magnetron"
 ---
 
-## Panasonic H99 Error Code — What It Means
-
+## What this code means
 The H99 error code on a Panasonic microwave is a self-diagnostic fault indicating a problem in the magnetron or inverter high-voltage circuit area. This is not a user-resettable door or control panel issue. When H99 appears during cooking, the oven detects a malfunction in the components that generate microwave energy and stops operation. Panasonic groups H97, H98, and H99 as failure codes for magnetron and inverter circuit problems.
 
 This fault typically points to hardware failure in the high-voltage system rather than a software glitch or sensor error. The oven's internal diagnostics have flagged a component that cannot safely produce or regulate microwave power. Attempting to clear the code without repair will not restore function, and Panasonic guidance directs users to stop the oven and contact an authorized servicer when this code appears.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

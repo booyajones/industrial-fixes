@@ -19,8 +19,6 @@ A Samsung dryer that leaves clothes damp is not a fault code by itself. It is a 
 
 Because Samsung model families differ, you should note the exact model number and any displayed code before starting repairs. In most cases the dryer will complete its cycle but clothing comes out still damp or only partially dry.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty moisture sensors** Samsung specifically lists dirty moisture sensors as a common cause when clothes do not dry properly, and residue on the sensor bars can cause the dryer to stop the cycle early.
@@ -64,7 +62,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Samsung Dryer Be error code](/posts/samsung-dryer-be-error-code/)
 - [Samsung Dryer Be2 error code](/posts/samsung-dryer-be2-error-code/)
 - [Samsung Dryer C1 error code](/posts/samsung-dryer-c1-error-code/)
-- [Samsung Dryer C2 error code](/posts/samsung-dryer-c2-error-code/)
+- Samsung Dryer C2 error code
 - [Samsung Dryer C8 error code](/posts/samsung-dryer-c8-error-code/)
 - [Samsung Dryer C80 error code](/posts/samsung-dryer-c80-error-code/)
 

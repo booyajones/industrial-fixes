@@ -17,8 +17,7 @@ money_part: "Whirlpool exhaust thermistor"
 part_price: "$15-50"
 ---
 
-## Whirlpool Dryer F-22 Error Code — What It Means
-
+## What this code means
 The F-22 error code on a Whirlpool dryer indicates an open or shorted exhaust thermistor circuit. The exhaust thermistor is a temperature sensor that monitors air temperature at the dryer outlet. When the control board detects either no signal (open circuit) or a constant signal (short circuit) from this sensor, it throws the F-22 code and stops the dryer to prevent unsafe operation.
 
 The code appears on the display when you start a cycle and typically will not clear until the underlying problem is fixed. Whirlpool's own troubleshooting procedure recommends a power reset and a test cycle to confirm whether the fault persists. If the code returns within about a minute of starting a timed dry cycle, the thermistor, its wiring, or the control board has a genuine fault that needs repair.
@@ -26,8 +25,6 @@ The code appears on the display when you start a cycle and typically will not cl
 ## Before You Replace Anything
 
 Many people replace the main control board first when the real problem is a failed thermistor or damaged wire. Always ohm-test the thermistor and check the harness connector for corrosion or loose pins before buying a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

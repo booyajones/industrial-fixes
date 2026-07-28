@@ -17,8 +17,7 @@ money_part: "LG dryer drain hose (OEM)"
 part_price: "$15-40"
 ---
 
-## LG Dryer E13 Error Code — What It Means
-
+## What this code means
 E13 is a drain-system fault that only appears on LG hybrid condensing dryers. The code means the dryer is detecting that condensate water cannot leave the machine normally. LG states it is triggered when the drain hose is kinked, crushed, clogged, or when water in the sump has frozen.
 
 Newer LG support content also ties E13 to the condensate water container being full or the drain pump being filled with air. The common thread is that condensate cannot flow out of the dryer through the normal drain path.
@@ -26,8 +25,6 @@ Newer LG support content also ties E13 to the condensate water container being f
 ## Before You Replace Anything
 
 Homeowners sometimes replace the drain pump when the real problem is a simple kink or twist in the drain hose. Always inspect the entire drain hose run for bends, sags, or blockages before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a professional if the E13 code returns after you have confirmed the drain hose is straight, unobstructed, the correct LG part, and not frozen. Persistent E13 after hose correction means the drain pump may be air-locked, the internal condensate routing is blocked, or a sensor or pump assembly has failed. LG states that if the code reappears after basic troubleshooting, the unit requires service. A technician will test the drain pump, check for internal blockages in the condensate circuit, and verify the sump and sensor are functioning correctly.
 
 **Rough cost:** DIY runs about $15-40 in parts (drain hose), 20-40 min. A pro service call runs about $120-220.
-
-## See Also
-
-- [LG Mini-Split CH07 Error Code - Causes & Fix](/posts/lg-mini-split-ch07-error-code/)
-- [LG Mini Split CH47 Error - Causes & Fix](/posts/lg-mini-split-ch47-error-code/)
-- [LG EID Error Code - Causes & Fix](/posts/lg-refrigerator-eid-error-code/)
-- [LG Dishwasher AE Error Code - Causes & Fix](/posts/lg-washer-ae-error-code/)

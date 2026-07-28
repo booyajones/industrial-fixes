@@ -17,8 +17,6 @@ money_part: "Signal cable (3-conductor)"
 
 The Pioneer WYS series is a popular DIY-friendly ductless mini split line sold through online retailers. Like most mini splits, the WYS displays error codes on the indoor unit's LED display when a fault occurs. These codes also appear on the remote controller display in some configurations. The WYS uses R-410A refrigerant and is available from 9,000 to 36,000 BTU.
 
-[Jump to Fix](#fix)
-
 ## Pioneer WYS Series Error Code Reference
 
 | Code | Meaning |

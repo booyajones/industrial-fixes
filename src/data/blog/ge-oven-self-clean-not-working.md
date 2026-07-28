@@ -20,8 +20,6 @@ When your GE oven refuses to start the self-clean cycle, you're dealing with a c
 
 This is not about a cryptic error message. The oven simply won't enter the high-temperature cleaning mode that takes it to around 900°F or more. Most of the time this is a setup or temperature issue, but occasionally a failed door lock assembly, thermal fuse, or control board is blocking the start sequence.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Oven still too hot after cooking** GE ovens refuse to start self-clean if the cavity temperature is elevated, so you must let the oven cool completely before attempting the cycle.
@@ -55,18 +53,18 @@ This is not about a cryptic error message. The oven simply won't enter the high-
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Ge Oven F0 error code](/posts/ge-oven-f0-error-code/)
-- [Ge Oven F1 error code](/posts/ge-oven-f1-error-code/)
+- Ge Oven F0 error code
+- Ge Oven F1 error code
 - [Ge Oven F2 error code](/posts/ge-oven-f2-error-code/)
-- [Ge Oven F20 error code](/posts/ge-oven-f20-error-code/)
-- [Ge Oven F3 error code](/posts/ge-oven-f3-error-code/)
-- [Ge Oven F350 error code](/posts/ge-oven-f350-error-code/)
-- [Ge Oven F4 error code](/posts/ge-oven-f4-error-code/)
-- [Ge Oven F5 error code](/posts/ge-oven-f5-error-code/)
-- [Ge Oven F6 error code](/posts/ge-oven-f6-error-code/)
-- [Ge Oven F7 error code](/posts/ge-oven-f7-error-code/)
-- [Ge Oven F7X error code](/posts/ge-oven-f7x-error-code/)
-- [Ge Oven F8 error code](/posts/ge-oven-f8-error-code/)
+- Ge Oven F20 error code
+- Ge Oven F3 error code
+- Ge Oven F350 error code
+- Ge Oven F4 error code
+- Ge Oven F5 error code
+- Ge Oven F6 error code
+- Ge Oven F7 error code
+- Ge Oven F7X error code
+- Ge Oven F8 error code
 
 ## When to Call a Pro
 

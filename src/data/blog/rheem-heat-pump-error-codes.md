@@ -145,16 +145,3 @@ This guide covers the four most common Rheem heat pump error codes and what to d
 E4 and E5 faults that persist after checking airflow and coil cleanliness require refrigerant pressure testing — which requires EPA 608 certification and a certified gauge set. Any refrigerant leak repair, refrigerant recovery, and recharge must be performed by a licensed HVAC technician. Attempting to charge your own system without certification is illegal and dangerous.
 
 > **Pro tip:** Keep a log of when E4 and E5 faults occur. E4 that only happens on the hottest summer days (>100°F) often indicates a system operating at its design limits with marginal airflow — cleaning the coil and improving clearances usually resolves it without refrigerant work. E5 that happens randomly regardless of temperature almost always means a refrigerant leak.
-
-## Related Articles
-
-- [Rheem RA14 Heat Pump Error Codes](/posts/rheem-ra14-heat-pump-error-codes/)
-- [Rheem Furnace Error Code 57](/posts/rheem-furnace-error-code-57/)
-- [Rheem Furnace Error Codes — Complete Guide](/posts/rheem-furnace-error-codes/)
-
-## See Also
-
-- [Rheem RA16 Heat Pump Error Codes — Flash Code Diagnostic Guide](/posts/rheem-ra16-heat-pump-error-codes/)
-- [Rheem RTGH-95DVLN Condensing Tankless Water Heater Error Codes](/posts/rheem-rtgh-95dvln-error-codes/)
-- [Rheem RA14 Heat Pump Error Codes - What It Means and How to Fix It](/posts/rheem-ra14-heat-pump-error-codes/)
-- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)

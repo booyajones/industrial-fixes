@@ -13,13 +13,10 @@ money_part: "Exhaust pressure switch"
 most_likely_cause: "Loose or damaged wiring to the gas valve"
 ---
 
-## State Water Heater E28 Error Code — What It Means
-
+## What this code means
 The E28 error code on State tankless and combi water heaters (using HTP-style controls) means the control board is not detecting proper 120 VAC power supply to the gas valve. Without that power, the unit cannot safely open the valve to supply gas to the burner, so it locks out and displays E28. This is a safety feature designed to prevent unsafe operation when the gas-valve circuit is incomplete.
 
 The code does not always mean the gas valve itself has failed. Instead, it signals that somewhere in the circuit leading to the gas valve, power is being interrupted. This can be due to loose wiring, a failed safety switch (such as a pressure switch or ECO switch), or less commonly a faulty gas valve that cannot accept power correctly.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

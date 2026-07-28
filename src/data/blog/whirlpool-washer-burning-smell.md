@@ -19,8 +19,6 @@ A burning smell from a Whirlpool washer is a symptom that points to friction, ov
 
 In technician terms, the odor usually comes from slipping friction in the belt, pulley, clutch, or splutch assembly, or from overheated insulation and electronics in the motor windings, stator, or main control board. The smell source can be strongest at the motor area, belt area, pump area, or control area, and that location helps narrow the diagnosis.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Drive belt slipping or glazed** A slipping belt generates a hot rubber smell and often shows glazing, cracking, melting, or rubber dust on the pulley surfaces.

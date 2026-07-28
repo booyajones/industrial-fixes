@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "Yaskawa GA800 control board (model-specific)"
 ---
 
-## Yaskawa GA800 E73 Fault — What It Means
-
+## What this code means
 The E73 code on a Yaskawa GA800 is a Soft Charge Answerback Fault. During startup, the drive precharges its internal capacitors through a soft-charge circuit, then expects a feedback signal from the bypass relay or contactor to confirm the circuit switched over. When that answerback signal does not arrive, the drive shuts down with E73. This is an internal drive hardware problem, not a motor or wiring issue.
 
 The fault points to one of three areas inside the drive: the soft-charge bypass relay or contactor has failed, the control board cannot command or read the answerback circuit, or the power section has reached end of life. Yaskawa groups E73 with drive-side hardware faults and notes that repairs beyond fan and control board replacement are not covered in field service guides, which means many E73 cases require either a board swap or a complete drive replacement.
@@ -24,8 +23,6 @@ The fault points to one of three areas inside the drive: the soft-charge bypass 
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive immediately without checking the control board first. Always read parameter U4-06 (PreChargeRelayMainte) to see relay life percentage before ordering a new drive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 E73 is an internal drive fault that requires high-voltage work and familiarity with VFD architecture. A qualified electrician or drive technician should diagnose the fault, read the relay-life parameter, and replace the control board or the entire drive. Do not attempt to open the drive enclosure unless you are trained in high-voltage DC bus safety. Capacitors inside the drive can hold lethal voltage for several minutes after power is removed. If your facility does not have in-house drive techs, contact a Yaskawa authorized service center or an industrial controls integrator to perform the repair.
 
 **Rough cost:** A pro service call runs about $300–1,200 for control board replacement or full drive swap, depending on frame size.
-
-## See Also
-
-- [Yaskawa GA800 E91 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e91-fault-code/)
-- [Yaskawa GA800 A.148 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-148-fault-code/)
-- [Yaskawa A1000 AL-14 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-14-fault-code/)
-- [Yaskawa A1000 oL4 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol4-fault-code/)

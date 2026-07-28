@@ -17,8 +17,7 @@ money_part: "LG oven temperature sensor / thermistor"
 part_price: "$20-50"
 ---
 
-## LG Oven F1 Error Code — What It Means
-
+## What this code means
 The F1 error code on an LG oven indicates an upper oven thermistor (temperature sensor) error. The control board has detected that the sensor circuit is open, shorted, or otherwise invalid and can no longer trust the oven temperature reading. On LG dual-oven ranges, this code specifically points to the upper oven thermistor rather than the lower cavity.
 
 When the control sees an out-of-range signal from the sensor, it throws F1 and typically disables oven operation to prevent unsafe temperatures. The fault can stem from the sensor itself, the wiring harness that connects it to the control board, or less often the control board's input circuit.
@@ -26,8 +25,6 @@ When the control sees an out-of-range signal from the sensor, it throws F1 and t
 ## Before You Replace Anything
 
 Many people replace the main control board first, only to find the code returns. Always measure the sensor resistance at room temperature (should be about 1080–1100 ohms on most LG ovens) and inspect the harness for damage before buying any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a technician if you are uncomfortable working inside a 240-volt appliance, if you cannot safely access the sensor in the oven cavity, or if the sensor and wiring both test good but the error persists and you prefer not to replace the control board yourself. A qualified appliance technician will carry a multimeter and the correct replacement parts, can verify proper sensor resistance and harness continuity at the board, and will make sure the new part is installed safely. Professional service also makes sense if your range is still under warranty or if you need the repair completed quickly without trial and error.
 
 **Rough cost:** DIY runs about $20–50 for sensor, 30–60 min. A pro service call runs about $150–250 including service call and sensor.
-
-## See Also
-
-- [LG Dryer D90 Error Code - Causes & Fix](/posts/lg-dryer-d90-error-code/)
-- [LG Multi V VRF System Error Codes: Complete Guide](/posts/lg-multi-v-error-codes/)
-- [LG Refrigerator Error ER RF — Evap Fan Motor Fix](/posts/lg-refrigerator-error-er-rf/)
-- [LG Mini-Split CH26 Error Code — CT Sensor Fault](/posts/lg-mini-split-ch26-error-code/)

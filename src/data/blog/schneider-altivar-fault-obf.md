@@ -13,11 +13,8 @@ money_part: "Replacement motor"
 most_likely_cause: "Mechanical overload on the driven equipment"
 ---
 
-## Schneider Altivar Fault OBF — What It Means
-
+## What this code means
 OBF (Motor Overload Fault) on a Schneider Altivar drive (ATV12, ATV320, ATV630) is a thermal protection fault. The drive's electronic motor thermal model calculated that the motor has been running above its rated current long enough to accumulate dangerous heat in the windings. OBF is a time-integrated calculation — a small overload over a long period trips OBF just as surely as a larger overload over a shorter time. The drive shuts down to prevent motor winding insulation failure.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -43,11 +40,3 @@ OBF (Motor Overload Fault) on a Schneider Altivar drive (ATV12, ATV320, ATV630) 
 ## When to Call a Pro
 
 If OBF trips persist with the motor drawing current at or below nameplate FLA, the Altivar thermal model parameters need to be reviewed and configured by a Schneider-authorized technician to match the motor's thermal class and duty cycle.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

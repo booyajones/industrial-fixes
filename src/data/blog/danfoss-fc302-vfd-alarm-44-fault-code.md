@@ -13,11 +13,8 @@ money_part: "Three-phase AC motor"
 most_likely_cause: "Motor winding insulation breakdown"
 ---
 
-## Danfoss FC302 VFD Alarm 44 — What It Means
-
+## What this code means
 Alarm 44 on the Danfoss VLT FC 302 indicates an earth (ground) fault. The drive has detected leakage current flowing from one or more motor output phases to ground and trips to protect the drive, motor, and personnel. This is not a generic overload or phase-loss alarm. It is a specific ground-fault or insulation-leakage condition on the motor circuit. The drive's internal circuitry continuously monitors output current balance and will shut down when it senses current escaping to ground through damaged insulation, moisture, or contamination.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,10 +44,3 @@ Alarm 44 on the Danfoss VLT FC 302 indicates an earth (ground) fault. The drive 
 ## When to Call a Pro
 
 Call a qualified electrician or drive technician if you are not trained in high-voltage DC bus safety, megohm insulation testing, or VFD output circuits. If the alarm clears when the motor is disconnected but you cannot locate visible damage in the cable or motor junction box, a technician with a megohmmeter and experience interpreting insulation-resistance trends is essential. Internal drive faults in the power section or IGBT module require factory-trained service or an authorized Danfoss repair center, since these repairs involve replacing potted power assemblies and verifying gate-driver circuitry.
-
-## See Also
-
-- [Danfoss VFD Fault OL — Causes & Fix](/posts/danfoss-vfd-fault-ol/)
-- [Danfoss FC302 Alarm 32 - Causes & Fix](/posts/danfoss-fc302-alarm-32-fault-code/)
-- [Danfoss VFD Fault Codes — FC301, FC302, FC102 Reference](/posts/danfoss-vfd-fault-codes/)
-- [Danfoss FC302 Alarm 39 - Causes & Fix](/posts/danfoss-fc302-alarm-39-fault-code/)

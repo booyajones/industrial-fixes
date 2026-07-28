@@ -13,11 +13,8 @@ money_part: "Weld lead set"
 most_likely_cause: "Shorted weld leads or work clamp"
 ---
 
-## Miller Welder Fault Code B1 — What It Means
-
+## What this code means
 Miller fault code B1 indicates an **output voltage fault**. The machine's control board detected output voltage outside the acceptable operating window during weld or idle monitoring. On Miller inverter welders, that usually points to a short on the output side, a failing output module, or unstable input power that keeps the machine from regulating arc voltage correctly. The machine shuts down to protect the IGBT section and output rectifier.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

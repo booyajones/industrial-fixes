@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 CPF01 — What It Means
-
+## What this code means
 CPF01 is a control circuit error fault on the Yaskawa A1000 VFD. The drive has detected a self-diagnostic failure in its internal control circuit or logic section, not a motor overload or power-line problem. This fault points to an issue with the drive's own electronics, typically the operator (keypad) connector or the control board itself.
 
 Unlike faults that trace to external wiring, motor load, or line voltage, CPF01 is an internal drive electronics fault. The published troubleshooting guidance ties it directly to a self-diagnostic error in the control circuit or a damaged operator connector. Treat it as an internal control-board issue until proven otherwise.
@@ -24,8 +23,6 @@ Unlike faults that trace to external wiring, motor load, or line voltage, CPF01 
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive when the fault is only a loose or corroded operator connector. Always inspect and reseat the keypad connector and check for bent pins before ordering a replacement drive or control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or controls electrician if you are not trained in high-voltage work or if you lack the proper lockout/tagout procedures and test equipment. CPF01 requires careful inspection of internal drive electronics, and incorrect handling can damage the drive or create a shock hazard. A technician will have the tools to safely diagnose the control board, verify the operator connector, and replace components without risking further damage. If the drive is mission-critical or under warranty, always involve the manufacturer or an authorized service center before opening the enclosure or replacing boards.
 
 **Rough cost:** A pro service call runs about $200-800 depending on whether the operator, control board, or entire drive requires replacement.
-
-## See Also
-
-- [Yaskawa GA800 E28 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e28-fault-code/)
-- [Yaskawa GA800 E51 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e51-fault-code/)
-- [Yaskawa GA800 A.130 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-130-fault-code/)
-- [Yaskawa GA800 E14 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e14-fault-code/)

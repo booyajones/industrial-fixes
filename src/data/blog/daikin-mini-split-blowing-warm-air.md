@@ -19,8 +19,6 @@ A Daikin mini split blowing warm air is not tied to a single fault code. It most
 
 If the operation lamp is flashing, Daikin uses that as an error indication and the specific code must be retrieved from the remote or indoor unit diagnostics. The closest fault tied directly to poor cooling is U0, which means refrigerant shortage in Daikin's malfunction-code guide. Other codes like E5 (compressor overload), F3 (discharge pipe temperature control), A6 (indoor fan motor), E7 (outdoor fan motor), or U4 (communication error) can also accompany warm air complaints.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Wrong operating mode or setpoint on remote** The unit is in HEAT, FAN, AUTO, or DRY mode, or the set temperature is too high and the compressor is not calling for cooling.
@@ -53,25 +51,18 @@ If the operation lamp is flashing, Daikin uses that as an error indication and t
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Daikin Mini Split A1 error code](/posts/daikin-mini-split-a1-error-code/)
-- [Daikin Mini Split A3 error code](/posts/daikin-mini-split-a3-error-code/)
-- [Daikin Mini Split A5 error code](/posts/daikin-mini-split-a5-error-code/)
-- [Daikin Mini Split A6 error code](/posts/daikin-mini-split-a6-error-code/)
-- [Daikin Mini Split A7 error code](/posts/daikin-mini-split-a7-error-code/)
-- [Daikin Mini Split A8 error code](/posts/daikin-mini-split-a8-error-code/)
-- [Daikin Mini Split A9 error code](/posts/daikin-mini-split-a9-error-code/)
-- [Daikin Mini Split C4 error code](/posts/daikin-mini-split-c4-error-code/)
-- [Daikin Mini Split E04 error code](/posts/daikin-mini-split-e04-error-code/)
-- [Daikin Mini Split E05 error code](/posts/daikin-mini-split-e05-error-code/)
-- [Daikin Mini Split E7 error code](/posts/daikin-mini-split-e7-error-code/)
+- Daikin Mini Split A1 error code
+- Daikin Mini Split A3 error code
+- Daikin Mini Split A5 error code
+- Daikin Mini Split A6 error code
+- Daikin Mini Split A7 error code
+- Daikin Mini Split A8 error code
+- Daikin Mini Split A9 error code
+- Daikin Mini Split C4 error code
+- Daikin Mini Split E04 error code
+- Daikin Mini Split E05 error code
+- Daikin Mini Split E7 error code
 
 ## When to Call a Pro
 
 Call a licensed HVAC technician if the unit shows a flashing operation lamp with a fault code, if you have confirmed the mode and filters are correct but the air is still warm, or if you suspect low refrigerant. Refrigerant work requires EPA certification, recovery equipment, and proper charging by superheat or subcooling. A pro will retrieve any stored fault codes, measure system pressures and temperatures, check for leaks with electronic detectors, inspect the compressor and reversing valve, verify indoor and outdoor fan operation, and test control boards and communication between the indoor and outdoor units. Do not attempt to add refrigerant yourself or bypass any safety controls.
-
-## See Also
-
-- [Daikin Mini Split Error Codes — Complete Reference](/posts/daikin-mini-split-error-codes/)
-- [Daikin U4 Error Code — Indoor-Outdoor Communication Fix](/posts/daikin-error-code-u4/)
-- [Daikin U3 Error Code - Causes & Fix](/posts/daikin-u3-error-code/)
-- [Daikin F6 Error Code - Causes & Fix](/posts/daikin-heat-pump-f6-error-code/)

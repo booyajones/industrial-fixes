@@ -19,8 +19,6 @@ When your Frigidaire microwave door won't open, the release mechanism is not dis
 
 Frigidaire troubleshooting literature covers door-not-closing problems and power reset issues but does not assign a specific error code to this door-stuck-closed condition. The problem is almost always in the physical latch assembly or the parts that move it.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Broken or weak spring in the release mechanism** The spring that returns the latch to the open position has broken or lost tension, so the latch stays engaged even when you press the button.

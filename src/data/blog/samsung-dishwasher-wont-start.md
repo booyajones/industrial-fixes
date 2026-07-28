@@ -17,8 +17,6 @@ tags:
 
 When a Samsung dishwasher won't start, it's a symptom rather than a single fault. If you see no error code on the display, Samsung directs you to check the door latch, Child Lock status, Delay Start setting, and power supply first. If the unit does show a code or blinking lights, the machine has detected a specific condition (water fill, drainage, or leak) that must be addressed before a cycle can begin.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Child Lock is enabled** The control panel is locked and won't respond to Start until you hold the designated lock button for about 3 seconds.

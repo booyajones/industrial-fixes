@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Samsung washer heating element"
 ---
 
-## Samsung Washer HE Error Code — What It Means
-
+## What this code means
 On Samsung washers, HE is generally a heating error. The washer is not detecting the expected water-heating behavior or there is a fault in the temperature-sensing circuit. The exact meaning varies by model, and Samsung notes that some codes are model-specific, so you should check your owner's manual or service guide for your exact model. Related codes like HC and CE can also point to temperature-related faults, and on some models the code can trigger when water temperature exceeds 50°C during draining.
 
 The error can involve the heating element itself, the thermistor (temperature sensor), wiring and connectors, or in rare cases the control board. On models that rely on hot water supply rather than internal heating, incorrect water supply conditions (hoses reversed, closed valves, clogged screens) can also produce the code. A temporary control glitch may sometimes trigger HE and clear after a power reset.
@@ -25,8 +24,6 @@ The error can involve the heating element itself, the thermistor (temperature se
 ## Before You Replace Anything
 
 Many homeowners replace the control board when the real fault is a failed thermistor or heating element. Always test the thermistor resistance and heater continuity with a multimeter before ordering a control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

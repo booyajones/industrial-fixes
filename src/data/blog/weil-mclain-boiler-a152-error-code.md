@@ -17,8 +17,7 @@ free_checks:
   - "Retrieve the full fault history from the control display menu and note the fault name, not just the code number"
 ---
 
-## Weil-McLain Boiler A152 Error — What It Means
-
+## What this code means
 A152 does not appear in verified Weil-McLain service manuals or control documentation. Weil-McLain fault codes are specific to the boiler model and control platform installed. The code you see may be a lockout or fault history entry, but without your exact model number and control type, the manufacturer-verified meaning cannot be confirmed.
 
 To find what A152 actually means on your boiler, retrieve the full fault name (not just the number) from the control's diagnostic menu and compare it to your model-specific installation and service manual. The fault could relate to a temperature sensor, low-water cutoff, ignition fault, flame sensor, gas valve issue, or circulator problem, but guessing without the manual risks replacing the wrong part.
@@ -26,8 +25,6 @@ To find what A152 actually means on your boiler, retrieve the full fault name (n
 ## Before You Replace Anything
 
 Homeowners often replace thermistors, flame sensors, or igniters based on unfamiliar codes without first checking the control fault history and basic system conditions. Pull the stored fault history from the control menu and verify boiler pressure, power, gas supply, and thermostat call before buying any part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a qualified heating technician if you cannot retrieve the fault history from the control menu, if you are unfamiliar with gas appliance service, or if you do not have the model-specific service manual and wiring diagrams. Weil-McLain boilers are gas-fired safety appliances that require specialized tools and training to diagnose sensor circuits, test gas valves, measure flame current, and replace control modules. Incorrect diagnosis or improper part replacement can create carbon-monoxide hazards, flood the combustion chamber with unburned gas, or damage the control. A technician will pull the full fault history, identify the exact component from the manufacturer's troubleshooting tables, and test it before ordering parts.
 
 **Rough cost:** A pro service call runs about $200-450.
-
-## See Also
-
-- [Weil-McLain Boiler A62 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a62-error-code/)
-- [Weil-McLain Boiler A25 Error - Causes & Fix](/posts/weil-mclain-boiler-a25-error-code/)
-- [Weil-McLain A165 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a165-error-code/)
-- [Weil-McLain A01 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a101-error-code/)

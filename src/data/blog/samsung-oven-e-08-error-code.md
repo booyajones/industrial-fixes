@@ -20,8 +20,7 @@ free_checks:
 part_price: "$25–60"
 ---
 
-## Samsung Oven E-08 Error Code — What It Means
-
+## What this code means
 The E-08 (or EO8) error code on Samsung ovens indicates the oven is not heating or the control board is detecting a heating-system failure. The exact meaning can be model-specific, so you should verify against your model's service literature or observe the symptom (oven won't reach temperature, no heat at all). In field reports, E08 consistently appears when the oven fails to heat or the control does not sense a temperature rise.
 
 On electric models, the code points to a problem in the bake or broil element circuit, the temperature sensor, or wiring between them and the control. On gas models, a related E08 symptom is reported when the igniter does not stay hot enough to keep the gas valve open, leading to a no-heat condition. Treat E08 as a no-heat diagnostic rather than a single universal fault code.
@@ -30,31 +29,13 @@ On electric models, the code points to a problem in the bake or broil element ci
 
 Many people replace the control board first. Before ordering a board, visually inspect the bake element for cracks or breaks and test the temperature sensor resistance (should read around 1080 ohms at room temperature). Most E08 codes trace to a burned-out element or a sensor that has drifted out of spec.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Failed bake or broil element (electric) (~40%)** The heating element develops an open circuit or internal break, preventing current flow and heat generation.
-- **Faulty oven temperature sensor (~25%)** The sensor reads incorrect resistance (field reports suggest normal is about 1080 ohms, abnormal if deviation exceeds 200 ohms) or has an open circuit, so the control cannot verify heat rise.
-- **Weak or failing igniter (gas models) (~20%)** The igniter does not draw enough current to open and hold the gas valve, so the oven will not ignite or stay lit.
-- **Damaged or loose wiring and connectors (~10%)** Heat damage, vibration, or corrosion interrupts continuity between the element or sensor and the control board.
-- **Main control board or relay failure (~5%)** The control's relay output does not switch voltage to the heating element or igniter circuit, even when all other parts test good.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Is the bake element visibly cracked, blistered, or broken?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The element has failed. Replace it and test.<br><strong>No:</strong> Move on to test the temperature sensor and wiring.</div>
-</details>
-
-<details class="dtree"><summary>Does the temperature sensor measure around 1080 ohms at room temperature?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Sensor is likely good. Inspect wiring and connectors, then suspect the control board.<br><strong>No:</strong> Sensor is out of spec or open. Replace it and retest.</div>
-</details>
-
-<details class="dtree"><summary>On a gas oven, does the igniter glow bright orange and stay glowing?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Igniter may still be weak or the gas valve may be faulty. Measure igniter current draw if possible.<br><strong>No:</strong> Igniter is failing. Replace it and verify operation.</div>
-</details>
+- **Failed bake or broil element (electric)** The heating element develops an open circuit or internal break, preventing current flow and heat generation.
+- **Faulty oven temperature sensor** The sensor reads incorrect resistance (field reports suggest normal is about 1080 ohms, abnormal if deviation exceeds 200 ohms) or has an open circuit, so the control cannot verify heat rise.
+- **Weak or failing igniter (gas models)** The igniter does not draw enough current to open and hold the gas valve, so the oven will not ignite or stay lit.
+- **Damaged or loose wiring and connectors** Heat damage, vibration, or corrosion interrupts continuity between the element or sensor and the control board.
+- **Main control board or relay failure** The control's relay output does not switch voltage to the heating element or igniter circuit, even when all other parts test good.
 
 ## Step-by-Step Fix {#fix}
 
@@ -79,5 +60,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a professional if you are uncomfortable working inside the oven cabinet, if your oven is gas and you are not familiar with gas-appliance safety, or if you have replaced the element and sensor but the E-08 code persists. A technician can measure igniter current draw on gas models, verify relay outputs on the control board with live voltage testing, and trace intermittent wiring faults that are difficult to spot visually. Pro service is also the safer choice if you see arcing, scorched connectors, or burnt insulation anywhere in the oven wiring harness.
-
-**Rough cost:** DIY runs about $25–80 in parts, 30–60 min. A pro service call runs about $150–300.

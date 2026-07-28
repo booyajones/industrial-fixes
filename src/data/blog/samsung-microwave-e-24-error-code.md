@@ -17,8 +17,7 @@ money_part: "Samsung microwave thermal sensor (temperature sensor)"
 part_price: "$15-80"
 ---
 
-## Samsung Microwave E-24 Error — What It Means
-
+## What this code means
 Samsung defines E-24 as an over-temperature error. The control board has detected that the microwave's internal temperature exceeded the safe limit during operation. Samsung's UK support also associates this code with a fire-sense or overheat condition. The microwave will shut down to protect its electronics and cavity from heat damage.
 
 The code typically appears when heavy use, poor airflow, or a blocked vent allows heat to build up beyond the threshold the temperature sensor monitors. In some cases moisture contamination or a failed sensor can also trigger the fault even when the cavity is not actually overheated.
@@ -26,8 +25,6 @@ The code typically appears when heavy use, poor airflow, or a blocked vent allow
 ## Before You Replace Anything
 
 Homeowners often replace the control board first, but a blocked vent or failed thermal sensor are far more common. Always power-reset, clear vents, and verify the sensor resistance (if you have the service manual spec) before swapping the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

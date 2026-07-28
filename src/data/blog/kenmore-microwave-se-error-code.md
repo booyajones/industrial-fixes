@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Microwave SE Error Code — What It Means
-
+## What this code means
 The SE code on a Kenmore microwave signals a keypad or user-interface short error. The control board is detecting an abnormal signal from the touchpad, usually because one or more keys are stuck, the membrane keypad is shorted, or moisture and residue are bridging contacts. In Kenmore microwaves that share Samsung-origin electronics, this is treated as a key-short or control-panel fault rather than a cooking-system problem.
 
 The fault can be transient (a one-time glitch from a spill or stuck key) or persistent (indicating a failed membrane keypad, damaged ribbon cable, or control-board issue reading the interface incorrectly). Disconnecting power and inspecting the touchpad surface are always the first steps before deciding on a component replacement.
@@ -26,8 +25,6 @@ The fault can be transient (a one-time glitch from a spill or stuck key) or pers
 ## Before You Replace Anything
 
 Many owners replace the main control board when the real fault is a shorted or moisture-damaged membrane keypad. Always inspect and clean the touchpad and test the ribbon-cable seating before ordering a control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "Yaskawa GA800 control board (PCB)"
 ---
 
-## Yaskawa GA800 E89 Fault — What It Means
-
+## What this code means
 E89 is a soft-charge answerback fault on the Yaskawa GA800 VFD. The drive's precharge circuit uses a bypass relay or contactor to safely energize the DC bus capacitors. When the relay closes, it is supposed to send a feedback signal back to the control board confirming the circuit completed correctly. This fault appears when the drive does not receive that expected answerback, meaning either the relay failed, the feedback path is broken, or the control board cannot read the signal.
 
 The fault protects the drive from operating with a defective precharge sequence, which could lead to inrush current damage or unsafe conditions. The drive will not run until the bypass relay circuit and its feedback loop are verified and restored.
@@ -24,8 +23,6 @@ The fault protects the drive from operating with a defective precharge sequence,
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive when the control board alone is at fault. Always check parameter U4-06 (PreChargeRelayMainte) first to see if relay life has expired, which points to a board or relay issue rather than the entire drive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician for all E89 diagnostics and repair. The fault involves high-voltage DC bus circuits, internal relay feedback paths, and control board replacement that require proper lockout/tagout, discharge procedures, and factory training. Accessing the interior of a VFD without proper safety procedures can result in lethal shock even after input power is removed. If your facility does not have trained personnel, contact a Yaskawa-authorized service center to inspect parameter U4-06, test the soft-charge bypass relay, replace the control board, or swap the drive. Never attempt to bypass or jumper the precharge circuit, as this can destroy the drive and create a fire or shock hazard.
 
 **Rough cost:** A pro service call runs about $400–1,200 depending on whether a control board or full drive is needed.
-
-## See Also
-
-- [Yaskawa GA800 E24 Fault - Causes & Fix](/posts/yaskawa-ga800-e24-fault-code/)
-- [Yaskawa GA800 E79 - Causes & Fix](/posts/yaskawa-ga800-vfd-e79-fault-code/)
-- [Yaskawa A1000 AL16 - Causes & Fix](/posts/yaskawa-a1000-vfd-al-16-fault-code/)
-- [Yaskawa A1000 AL-36 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-36-fault-code/)

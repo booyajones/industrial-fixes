@@ -13,13 +13,10 @@ money_part: "Temperature sensor (thermistor or PTC)"
 most_likely_cause: "Temperature sensor not wired or disconnected"
 ---
 
-## Danfoss FC302 ALARM 20 — What It Means
-
+## What this code means
 ALARM 20 on a Danfoss FC302 VFD indicates a temperature input error. The drive has detected that it cannot read a valid signal from the temperature sensor circuit. This is not an overtemperature condition, but rather a problem with the sensor input itself. The drive expects a temperature sensor to be connected to a specific input terminal, and it is either missing, disconnected, wired incorrectly, or the input circuit is faulty.
 
 Danfoss documentation describes this alarm as 'Temp. input error. The temperature sensor is not connected.' The fault is raised when the drive cannot see the expected sensor connection or signal state on the configured temperature input. Until the input reads correctly, the drive will not clear the alarm.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ Danfoss documentation describes this alarm as 'Temp. input error. The temperatur
 ## When to Call a Pro
 
 Call a qualified technician or VFD specialist if you are not comfortable working with low-voltage control wiring or interpreting drive parameters. If the alarm remains after you have verified and reconnected the sensor wiring, the fault is likely inside the drive and requires control-card diagnosis or replacement. Industrial VFD repairs often involve both electrical troubleshooting and parameter programming, and incorrect changes can affect motor protection or process safety. Professional service is recommended any time the control card is suspect or when the drive serves a critical or high-value application.
-
-## See Also
-
-- [Danfoss FC302 VFD ALARM 39 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-39-fault-code/)
-- [Danfoss AKC Controller Fault Codes - Complete Guide](/posts/danfoss-akc-controller-fault/)
-- [Danfoss FC302 ALARM 31 - Causes & Fix](/posts/danfoss-fc302-alarm-31-fault-code/)
-- [Danfoss FC302 VFD ALARM 15 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-15-fault-code/)

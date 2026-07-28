@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Whirlpool refrigerator defrost heater"
 ---
 
-## Whirlpool Refrigerator dF Error Code — What It Means
-
+## What this code means
 The dF code on a Whirlpool refrigerator signals a defrost failure. The appliance is not completing its automatic defrost cycle normally, which allows frost and ice to build up on the evaporator coil. When ice accumulates, it blocks airflow and reduces cooling performance. You may notice warmer temperatures in both compartments, longer run times, or visible frost inside the freezer section.
 
 This code points to a problem somewhere in the defrost circuit. The system relies on a defrost heater to melt frost off the coils, a defrost thermostat or sensor to monitor temperature and prevent overheating, and a timer or control board to start and stop the cycle. If any of these components fails, the refrigerator cannot defrost and throws the dF code.
@@ -25,8 +24,6 @@ This code points to a problem somewhere in the defrost circuit. The system relie
 ## Before You Replace Anything
 
 Homeowners often replace the main control board thinking it is the brain of the system, when the real fault is a failed defrost heater or thermostat. Test each defrost component for continuity with a multimeter before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

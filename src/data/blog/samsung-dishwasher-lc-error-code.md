@@ -17,8 +17,7 @@ money_part: "Samsung dishwasher water supply hose"
 part_price: "$15-50"
 ---
 
-## Samsung Dishwasher LC Error Code — What It Means
-
+## What this code means
 The LC code (sometimes shown as LE) tells you that your Samsung dishwasher has detected moisture in the leak-detection area under the tub. This does not always mean you will see a puddle on the floor. The sensor can trip from condensation, a slow drip into the base pan, or water splashed into the wrong area during a cycle. Samsung instructs you to turn off the dishwasher at the circuit breaker as soon as the code appears to prevent further water damage or electrical hazards.
 
 The code does not point to one single failed part. Instead it signals that water has gone somewhere it should not be. Common sources include supply-hose connections, the door gasket, poor leveling that allows spray to escape, or clogged nozzles that misdirect water. Your job is to trace the moisture back to its origin.
@@ -26,8 +25,6 @@ The code does not point to one single failed part. Instead it signals that water
 ## Before You Replace Anything
 
 Many people replace the control board or leak sensor when the real problem is simply a worn door gasket or a loose threaded fitting on the supply hose. Always inspect hoses, gasket, and leveling before ordering electronic parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -21,8 +21,7 @@ part_price: "$15-35"
 no_buy_pct: "25%"
 ---
 
-## Amana Dryer F25 Error Code — What It Means
-
+## What this code means
 F25 on an Amana dryer indicates the control board has detected a fault in the inlet thermistor circuit, typically interpreted as a shorted thermistor. Amana's official product-help documentation lists F25 and recommends a power-cycle reset as the first troubleshooting step. Because Amana shares control architecture with Whirlpool-family dryers, the code is understood to mean the inlet thermistor is shorted or the control circuit has failed, though the exact Amana wording is not publicly detailed in available documentation.
 
 The inlet thermistor monitors incoming air temperature and helps the control board regulate heating cycles. When the thermistor shorts or its wiring fails, the control board throws F25 and halts the dryer. Lint buildup and restricted airflow can overheat the dryer and contribute to thermistor or thermal cutoff failures, so airflow inspection is a core part of the diagnostic process.
@@ -30,8 +29,6 @@ The inlet thermistor monitors incoming air temperature and helps the control boa
 ## Before You Replace Anything
 
 Many people replace the control board first without testing the thermistor. Measure the inlet thermistor resistance with a multimeter (expect around 50,000 ohms at room temperature in typical installations) before ordering expensive electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

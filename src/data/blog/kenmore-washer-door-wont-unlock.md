@@ -19,8 +19,6 @@ When your Kenmore washer door won't unlock, the machine still thinks it needs to
 
 On many Kenmore front-load models built by Whirlpool, a stuck door often appears alongside error codes such as DE, Fdl, or Fdu. These codes point to a door latch or lock assembly problem rather than a random glitch. The lock assembly uses a 120 V AC solenoid and a thermal fuse to control latching. When this component fails or the control board loses communication with it, the door will not unlock on command.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Incomplete drain or drain pump fault** The door remains locked until the machine confirms the tub is empty, so a clogged filter, kinked hose, or failed pump will prevent unlocking.
@@ -53,8 +51,8 @@ On many Kenmore front-load models built by Whirlpool, a stuck door often appears
 
 Seeing a code on the display? These match this problem:
 
-- [Kenmore Washer E14 error code](/posts/kenmore-washer-e14-error-code/)
-- [Kenmore Washer E24 error code](/posts/kenmore-washer-e24-error-code/)
+- Kenmore Washer E14 error code
+- Kenmore Washer E24 error code
 - [Kenmore Washer F0 E2 error code](/posts/kenmore-washer-f0-e2-error-code/)
 - [Kenmore Washer F0 E4 error code](/posts/kenmore-washer-f0-e4-error-code/)
 - [Kenmore Washer F1 E1 error code](/posts/kenmore-washer-f1-e1-error-code/)

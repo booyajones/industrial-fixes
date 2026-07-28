@@ -17,8 +17,7 @@ money_part: "GE oven temperature sensor / RTD probe"
 part_price: "$20-50"
 ---
 
-## GE Range F2 Error Code — What It Means
-
+## What this code means
 On GE ranges and wall ovens, the F2 or F20 error code indicates that the oven control has detected an over-temperature condition. GE's support page describes this as the oven temperature exceeding a preset threshold for an unknown reason. Repair sources call this a runaway heat condition, where the control sees the oven climbing beyond safe operating limits during normal bake or self-clean cycles.
 
 When F2 appears, the range typically shuts down the oven until the fault is cleared. The code can be triggered by an actual overheating event, a faulty temperature sensor sending incorrect readings, damaged wiring, or a defective control board misinterpreting sensor data. In some cases it is a simple control glitch that clears after a power reset.
@@ -26,8 +25,6 @@ When F2 appears, the range typically shuts down the oven until the fault is clea
 ## Before You Replace Anything
 
 Many people replace the electronic range control board first, but the oven temperature sensor fails far more often. Always measure the sensor resistance at room temperature with a multimeter before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,11 +13,8 @@ money_part: "Pressure switch (single or dual)"
 most_likely_cause: "Blocked or kinked pressure switch hose"
 ---
 
-## Payne Furnace 31 Error Code — What It Means
-
+## What this code means
 A Payne furnace flashing code 31 signals a pressure switch fault — the inducer motor ran but the pressure switch never closed (or opened when it should stay closed). Because Payne furnaces are manufactured by Carrier, the diagnostic system is identical: the control board counts flashes on the LED and locks out ignition until the pressure circuit proves safe. This is a safety function, not a nuisance fault; combustion gases could back-draft into the home if inducer airflow is compromised.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,11 +43,3 @@ A Payne furnace flashing code 31 signals a pressure switch fault — the inducer
 ## When to Call a Pro
 
 If the flue or intake piping is blocked and requires cutting into the wall or roof termination, or if the inducer draft motor tests confirm failure and you are unfamiliar with high-voltage furnace wiring, contact a licensed HVAC technician to complete the repair safely.
-
-## Related Articles
-
-- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
-- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
-- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

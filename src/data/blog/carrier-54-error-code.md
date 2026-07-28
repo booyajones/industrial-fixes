@@ -13,11 +13,8 @@ money_part: "Condensate trap"
 most_likely_cause: "Blocked condensate drain trap"
 ---
 
-## Carrier 54 Error Code — What It Means
-
+## What this code means
 Carrier fault code 54 is a **soft lockout triggered by the low-pressure switch staying open**. It appears on Carrier Performance and Comfort series furnaces (typically 2-stage 96% AFUE models like the 59TP6 and 59SC5). The control board saw the low-pressure switch remain open during the trial for ignition — so it stopped the heating sequence and set code 54.
-
-[Jump to Fix](#fix)
 
 A "soft lockout" means the board will retry after a wait period (usually 1 hour) rather than requiring a manual power cycle. However, the root cause must be addressed or the fault will keep recurring.
 
@@ -47,18 +44,3 @@ A "soft lockout" means the board will retry after a wait period (usually 1 hour)
 | Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-carrier-54-error-code&tag=errorcodefixes-20) \| LH680016 or similar — match by model number |
 ## When to Call a Pro
 If the trap is clear, hose is intact, and the pressure switch tests good but code 54 still appears, you likely have a failing inducer motor or a secondary heat exchanger that's partially plugged. Both require tools and expertise beyond basic DIY — contact an HVAC technician.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier Greenspeed Heat Pump Error Codes: Complete Guide](/posts/carrier-greenspeed-heat-pump-codes/)
-- [Carrier 44 Error Code — Causes & Fix](/posts/carrier-44-error-code/)
-- [Carrier Rooftop Unit Error Codes: Common Faults Guide](/posts/carrier-rooftop-unit-error-codes/)
-- [Carrier Infinity Touch Thermostat Error Codes - What It Means and How to Fix It](/posts/carrier-infinity-touch-thermostat-error-codes/)

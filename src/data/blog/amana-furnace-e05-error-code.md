@@ -14,13 +14,10 @@ money_part: "Furnace control board fuse"
 most_likely_cause: "Blown control board fuse"
 ---
 
-## Amana Furnace E05 Error Code — What It Means
-
+## What this code means
 The E05 error code on Amana furnaces indicates an open fuse condition detected by the control board. This means the furnace has identified that a fuse in the control circuit or secondary 24V system has blown or that there is an open circuit in the protected wiring. The fault is designed to protect the board and downstream components from electrical damage. In some cases the code can also point to a wiring fault or short that caused the fuse to open, not just the fuse itself.
 
 Before troubleshooting the E05 code, verify the exact meaning for your specific model by checking the code chart on the furnace data plate or in the installation manual. While E05 typically relates to an open fuse, control board designs vary across Amana and Goodman models, and the same code number can have different meanings depending on the board revision.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

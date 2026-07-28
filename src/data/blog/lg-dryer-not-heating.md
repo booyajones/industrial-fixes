@@ -19,8 +19,6 @@ When your LG dryer runs but produces no heat, LG points first to restricted airf
 
 LG also uses d75, d80, d90, and d95 codes to flag exhaust duct blockage, with higher numbers indicating greater restriction. When there is no code at all and the drum spins but the air stays cold, the exhaust vent is still the first place to look, followed by common component failures like the thermal fuse or heating element.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged or restricted exhaust vent** Lint buildup in the duct, a kinked or crushed exhaust hose, or a blocked exterior vent flap prevents airflow and is the most common cause LG highlights for no-heat complaints.
@@ -70,10 +68,3 @@ Seeing a code on the display? These match this problem:
 ## When to Call a Pro
 
 Call a pro if you are not comfortable working with 240 V power, if you measure incorrect voltage at the terminal block and need a licensed electrician to inspect the home outlet and breaker panel, or if you have replaced the thermal fuse and heating element but the dryer still will not heat. A technician can also trace sensor and wiring faults that are harder to isolate without a schematic and proper test equipment.
-
-## See Also
-
-- [LG Refrigerator Running Constantly - Causes & Fix](/posts/lg-refrigerator-running-constantly/)
-- [LG Washer Not Draining Completely - Causes & Fix](/posts/lg-washer-not-draining-completely/)
-- [LG Refrigerator rS Error Code - Causes & Fix](/posts/lg-refrigerator-rs-error-code/)
-- [LG Oven Temperature Not Accurate - Causes & Fix](/posts/lg-oven-temperature-not-accurate/)

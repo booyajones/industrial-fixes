@@ -52,10 +52,3 @@ Rinnai's service manual ties Error Code 63 specifically to a control board or wi
 ## When to Call a Pro
 
 If error codes persist after board replacement, or if you're not comfortable working around gas connections and electrical components, call a licensed plumber or gas technician. Rinnai's diagnostic path requires checking voltage at the board and inspecting ignition components and wiring harnesses for shorts or open circuits before concluding the board is bad. If you see any signs of arcing, burnt wiring, or corrosion on connectors, a pro should trace the root cause to prevent damaging the new board. Gas appliance work, including any troubleshooting that involves the burner, igniter, or gas valve circuits, is best left to a qualified technician with the proper tools and training. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rinnai Error Code 11 - Causes & Fix](/posts/rinnai-tankless-water-heater-11-error-code/)
-- [Rinnai Error Code 10 — Condensate / Exhaust Blockage / Fan Motor Fault Fix](/posts/rinnai-error-code-10/)
-- [Rinnai RU199iN Water Heater Problems & Error Codes](/posts/rinnai-ru199in-water-heater-problems/)
-- [Rinnai Error Code 31 — Causes & Fix](/posts/rinnai-error-code-31/)

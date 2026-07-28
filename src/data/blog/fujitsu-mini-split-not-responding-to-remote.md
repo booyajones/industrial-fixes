@@ -19,8 +19,6 @@ When a Fujitsu mini split does not respond to the remote, the unit is not receiv
 
 On wired-controller systems, Fujitsu service guidance identifies a 3A fault code as an indoor unit communication circuit error. This fault directs technicians to check terminal connections between the remote controller and indoor unit for open or shorted wiring, then verify remote supply voltage. If 12 VDC is present at the controller PCB connector CNC01, the remote controller is suspect. If 0 VDC is present, the indoor controller PCB is faulty.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dead or incorrectly installed batteries** Weak, dead, or backwards batteries in the handheld remote prevent signal transmission and are the first check in Fujitsu consumer guidance.
@@ -53,18 +51,18 @@ On wired-controller systems, Fujitsu service guidance identifies a 3A fault code
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Fujitsu Mini Split E 01 error code](/posts/fujitsu-mini-split-e-01-error-code/)
-- [Fujitsu Mini Split E 02 error code](/posts/fujitsu-mini-split-e-02-error-code/)
-- [Fujitsu Mini Split E 03 error code](/posts/fujitsu-mini-split-e-03-error-code/)
-- [Fujitsu Mini Split E 04 error code](/posts/fujitsu-mini-split-e-04-error-code/)
-- [Fujitsu Mini Split E 05 error code](/posts/fujitsu-mini-split-e-05-error-code/)
-- [Fujitsu Mini Split E 06 error code](/posts/fujitsu-mini-split-e-06-error-code/)
-- [Fujitsu Mini Split E 07 error code](/posts/fujitsu-mini-split-e-07-error-code/)
-- [Fujitsu Mini Split E 08 error code](/posts/fujitsu-mini-split-e-08-error-code/)
-- [Fujitsu Mini Split E 09 error code](/posts/fujitsu-mini-split-e-09-error-code/)
-- [Fujitsu Mini Split E 10 error code](/posts/fujitsu-mini-split-e-10-error-code/)
-- [Fujitsu Mini Split E 11 error code](/posts/fujitsu-mini-split-e-11-error-code/)
-- [Fujitsu Mini Split E 12 error code](/posts/fujitsu-mini-split-e-12-error-code/)
+- Fujitsu Mini Split E 01 error code
+- Fujitsu Mini Split E 02 error code
+- Fujitsu Mini Split E 03 error code
+- Fujitsu Mini Split E 04 error code
+- Fujitsu Mini Split E 05 error code
+- Fujitsu Mini Split E 06 error code
+- Fujitsu Mini Split E 07 error code
+- Fujitsu Mini Split E 08 error code
+- Fujitsu Mini Split E 09 error code
+- Fujitsu Mini Split E 10 error code
+- Fujitsu Mini Split E 11 error code
+- Fujitsu Mini Split E 12 error code
 
 ## When to Call a Pro
 

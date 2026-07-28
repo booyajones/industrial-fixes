@@ -163,9 +163,3 @@ If your AC is over 10 years old, replace the whole system. The efficiency gains 
 If your AC runs on R-22, replace regardless of age. The refrigerant cost alone makes repair uneconomical.
 
 Get two quotes before deciding. A compressor replacement quote and a full system replacement quote from the same contractor. Compare the 10-year cost including estimated electricity, not just the upfront number.
-
-## Related Articles
-
-- [Mini-Split vs. Central AC: Complete Comparison and Buying Guide](/posts/mini-split-vs-central-ac-guide/)
-- [Heat Pump vs. Gas Furnace: Total Cost Comparison and Decision Guide](/posts/heat-pump-vs-gas-furnace-cost/)
-- [Best AC Capacitor Replacement Guide](/posts/best-ac-capacitor-replacement-guide/)

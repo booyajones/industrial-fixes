@@ -17,8 +17,7 @@ free_checks:
   - "Check system pressure on the gauge (should be in the green zone, typically 12-15 psi cold) and add water if low."
 ---
 
-## Weil-McLain A136 Error — What It Means
-
+## What this code means
 The A136 error code is not documented in widely available Weil-McLain manufacturer materials, so its exact meaning depends on your boiler model and control type. Weil-McLain boilers display error numbers on the temperature screen when a fault condition stops normal operation. Because error codes vary across different series (Ultra, Evergreen, GV90+, CGa, PEG, ECO Tec, Aqua Balance), you need your exact model and CP/serial number to look up the precise definition in your service manual or fault-history menu.
 
 Without model-specific documentation, do not guess at the root cause or replace parts blindly. Record the code, note your boiler series, and consult the manufacturer service literature or a qualified technician. Weil-McLain directs contractors to use the exact model/CP number and failed-part description when ordering replacement parts or initiating warranty claims, which underscores the importance of correct diagnosis before buying anything.
@@ -27,31 +26,13 @@ Without model-specific documentation, do not guess at the root cause or replace 
 
 Homeowners sometimes replace the main control board or an igniter when the real fault is a wiring connector that has backed out or a sensor reading out of range. Pull the fault history from the control display and measure sensor resistance before ordering a board.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Temperature or pressure sensor fault (~35%)** A failed or out-of-range sensor (supply, return, or pressure transducer) can trigger an alarm that stops the boiler and displays a numeric code.
-- **Wiring connector loose or corroded (~25%)** A connector that has backed out at the sensor, circulator, or control board interrupts the signal and the control logs a fault.
-- **Control-board software or memory issue (~20%)** A control may store a phantom fault or require a full reset if power was interrupted or firmware experienced a glitch.
-- **Low system pressure or air lock (~15%)** Inadequate water pressure or trapped air can cause a safety lockout and an error display, even if the pressure switch or sensor itself is working.
-- **Ignition or flame-sensing fault (~5%)** If the code relates to combustion, a dirty flame sensor, faulty igniter, or gas-supply problem will prevent ignition and log an error.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Does your boiler's fault-history menu show A136 as a stored (past) fault, or is the code displayed right now?</summary>
-<div class="dtree-body"><strong>Yes:</strong> If it is stored history, the fault may have self-cleared. Note the date/time and monitor for recurrence before replacing parts.<br><strong>No:</strong> If the code is active and the boiler is locked out, proceed to verify system pressure and check all wiring connectors before calling for service.</div>
-</details>
-
-<details class="dtree"><summary>Is the system-pressure gauge in the green zone (typically 12-15 psi when cold)?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Pressure is acceptable. Move on to checking sensor connectors and pulling the fault log from the control display.<br><strong>No:</strong> Low pressure can cause a lockout. Add water via the fill valve until the gauge reads in the green, purge air from the system, then reset and observe.</div>
-</details>
-
-<details class="dtree"><summary>After one power-cycle reset, does the same A136 code return immediately or within a few minutes?</summary>
-<div class="dtree-body"><strong>Yes:</strong> A repeating fault points to a hardware issue (sensor, wiring, or board). Do not reset repeatedly. Call a technician to diagnose with a meter and the service manual.<br><strong>No:</strong> If the code does not return, monitor the boiler over the next few heating cycles. Document any recurrence pattern (time of day, outdoor temperature) to help the tech.</div>
-</details>
+- **Temperature or pressure sensor fault** A failed or out-of-range sensor (supply, return, or pressure transducer) can trigger an alarm that stops the boiler and displays a numeric code.
+- **Wiring connector loose or corroded** A connector that has backed out at the sensor, circulator, or control board interrupts the signal and the control logs a fault.
+- **Control-board software or memory issue** A control may store a phantom fault or require a full reset if power was interrupted or firmware experienced a glitch.
+- **Low system pressure or air lock** Inadequate water pressure or trapped air can cause a safety lockout and an error display, even if the pressure switch or sensor itself is working.
+- **Ignition or flame-sensing fault** If the code relates to combustion, a dirty flame sensor, faulty igniter, or gas-supply problem will prevent ignition and log an error.
 
 ## Step-by-Step Fix {#fix}
 
@@ -73,12 +54,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a professional immediately if the A136 code appears and you cannot find it listed in your boiler's service manual, if the fault returns after a single reset, or if you are uncomfortable working near gas piping and electrical controls. Because Weil-McLain uses different control platforms across its Ultra, Evergreen, GV90+, CGa, PEG, ECO Tec, and Aqua Balance lines, accurate diagnosis requires the correct service literature and a meter to test sensor resistance, voltage, and continuity. A qualified technician will pull the fault history from the control, measure all sensor readings against the model-specific table, and verify gas pressure, ignition sequence, and condensate drainage if applicable. Attempting repeated resets or replacing parts without a confirmed diagnosis wastes time and money and may void your warranty, since Weil-McLain requires the exact model/CP number and failed-part documentation for warranty claims.
-
-**Rough cost:** A pro service call runs about $200-500.
-
-## See Also
-
-- [Weil-McLain A110 Error - Causes & Fix](/posts/weil-mclain-boiler-a110-error-code/)
-- [Weil-McLain Boiler A120 Error - Causes & Fix](/posts/weil-mclain-boiler-a120-error-code/)
-- [Weil-McLain A181 Error - Causes & Fix](/posts/weil-mclain-boiler-a181-error-code/)
-- [Weil-McLain Boiler A109 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a109-error-code/)

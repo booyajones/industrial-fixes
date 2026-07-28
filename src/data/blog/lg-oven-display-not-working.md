@@ -20,8 +20,6 @@ When the display on your LG oven is completely blank or frozen, you lose all abi
 
 The problem is almost never the glass touchpad or LCD screen itself. Instead, it's the electronics behind the display or the connection between the main control board and the display assembly that has failed. High heat from the oven causes expansion and contraction of connectors over time, leading to intermittent or total loss of signal.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Loose or corroded wiring harness between control boards** The ribbon cable or plug connecting the main control board to the display board works loose or develops corrosion from heat cycles, breaking communication.
@@ -55,26 +53,19 @@ The problem is almost never the glass touchpad or LCD screen itself. Instead, it
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Lg Oven F1 error code](/posts/lg-oven-f1-error-code/)
-- [Lg Oven F10 error code](/posts/lg-oven-f10-error-code/)
-- [Lg Oven F11 error code](/posts/lg-oven-f11-error-code/)
-- [Lg Oven F12 error code](/posts/lg-oven-f12-error-code/)
-- [Lg Oven F17 error code](/posts/lg-oven-f17-error-code/)
-- [Lg Oven F19 error code](/posts/lg-oven-f19-error-code/)
-- [Lg Oven F2 error code](/posts/lg-oven-f2-error-code/)
-- [Lg Oven F3 error code](/posts/lg-oven-f3-error-code/)
-- [Lg Oven F4 error code](/posts/lg-oven-f4-error-code/)
-- [Lg Oven F5 error code](/posts/lg-oven-f5-error-code/)
-- [Lg Oven F6 error code](/posts/lg-oven-f6-error-code/)
-- [Lg Oven F7 error code](/posts/lg-oven-f7-error-code/)
+- Lg Oven F1 error code
+- Lg Oven F10 error code
+- Lg Oven F11 error code
+- Lg Oven F12 error code
+- Lg Oven F17 error code
+- Lg Oven F19 error code
+- Lg Oven F2 error code
+- Lg Oven F3 error code
+- Lg Oven F4 error code
+- Lg Oven F5 error code
+- Lg Oven F6 error code
+- Lg Oven F7 error code
 
 ## When to Call a Pro
 
 Call a technician if you are uncomfortable working with 240V household wiring or if the diagnostic steps above do not restore the display after reseating connectors and performing a power reset. Replacing control boards requires matching exact part numbers to your model suffix and verifying correct installation of multiple wire harnesses. If you see any signs of arcing, melted plastic, or burn damage inside the control panel, stop immediately and call a pro to prevent fire risk or further damage to the unit. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [LG Dishwasher Not Dispensing Detergent - Causes & Fix](/posts/lg-dishwasher-not-dispensing-detergent/)
-- [LG Refrigerator Water Filter Replacement - Signs & How-To](/posts/lg-refrigerator-water-filter-replacement/)
-- [LG Range F8 Error Code - Causes & Fix](/posts/lg-range-f8-error-code/)
-- [LG Washer Tub Bearing Replacement - Signs & How-To](/posts/lg-washer-tub-drum-bearing-replacement/)

@@ -15,11 +15,8 @@ money_part: "Proximity switch"
 most_likely_cause: "ATC arm is out of alignment"
 ---
 
-## Haas Alarm 121 — What It Means
-
+## What this code means
 **Alarm 121** on a Haas mill means the **automatic tool changer arm did not reach the expected position** during a tool change. The arm may be blocked, mis-timed, or failing to actuate completely.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,18 +46,3 @@ most_likely_cause: "ATC arm is out of alignment"
 ## When to Call a Pro
 
 If the arm is visibly out of time or the changer jammed during a crash, the safest path is a proper Haas recovery and alignment procedure. Forcing the changer can bend the arm or damage the carousel.
-
-## Related Articles
-
-- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
-- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
-- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
-- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
-
-## See Also
-
-- [Haas SL-20 Lathe Common Alarms — What They Mean and How to Fix Them](/posts/haas-sl-20-lathe-alarms/)
-- [Haas Alarm 115 Spindle Overload — Causes & Fix](/posts/haas-alarm-115-spindle-overload/)
-- [Haas Alarm 113 — Spindle Encoder Fault Causes & Fix](/posts/haas-alarm-113/)
-- [Haas CNC Alarm Codes — Complete Guide (100-Series and Up)](/posts/haas-alarm-codes/)

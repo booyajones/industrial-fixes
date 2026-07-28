@@ -21,8 +21,7 @@ free_checks:
 part_price: "$50-110"
 ---
 
-## LG Oven F10 Error Code — What It Means
-
+## What this code means
 On LG range and oven models, F10 indicates a Door Locking System Failure in the upper oven. The control board is detecting that the upper-oven locking mechanism did not reach or report the expected state during a lock-related operation. The latch may be stuck, the lock motor may have failed, or the position feedback circuit may not be confirming lock or unlock status to the control.
 
 Some third-party appliance articles use F10 to mean a runaway temperature fault, but that definition reflects other brands or model families. Always verify your exact LG model number and consult model-specific service literature before assuming a temperature-related problem. LG's published code list defines F10 as a lock-system failure, not a thermal issue.
@@ -30,8 +29,6 @@ Some third-party appliance articles use F10 to mean a runaway temperature fault,
 ## Before You Replace Anything
 
 Many owners replace the main control board first, but a failed door lock motor or damaged wiring is more common. Check continuity from the lock motor switch to the control board and verify the latch moves freely before replacing the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable working with 240-volt circuits or removing the control panel and door panels to access the lock assembly. A technician can safely test voltage at the lock motor terminals, verify position-switch feedback signals, and determine whether the fault is in the motor, wiring, or control board. Professional diagnosis is also recommended if the door remains locked after the error appears and you cannot open it manually, or if you have already replaced the lock assembly and the code persists.
 
 **Rough cost:** DIY runs about $50-120 in parts, 45-90 min. A pro service call runs about $150-300.
-
-## See Also
-
-- [LG Microwave F4 Error - Causes & Fix](/posts/lg-microwave-f4-error-code/)
-- [LG Washer Won't Drain - Causes & Fix](/posts/lg-washer-wont-drain/)
-- [LG Dishwasher CE Error Code - Causes & Fix](/posts/lg-dishwasher-ce-error-code/)
-- [LG OE Error Code - Causes & Fix](/posts/lg-range-oe-error-code/)

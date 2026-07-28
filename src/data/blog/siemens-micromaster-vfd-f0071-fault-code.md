@@ -13,13 +13,10 @@ money_part: "Siemens USS master or BOP-link master"
 most_likely_cause: "Master device not sending telegrams"
 ---
 
-## Siemens Micromaster F0071 — What It Means
-
+## What this code means
 F0071 on a Siemens Micromaster is a USS (BOP-link) setpoint fault. The drive did not receive valid setpoint data from the USS master during the telegram off time, so it tripped on OFF2. This is a communication or setpoint-loss fault on the USS link, not a motor overload or power-stage problem. The drive was expecting cyclic USS communication and stopped getting it in time, so the setpoint source was effectively lost.
 
 Siemens documents this fault as 'No setpoint values from USS during telegram off time' and lists the remedy as 'Check USS master.' The fault occurs when the drive is configured to receive its control setpoint over the USS communication link (often from a PLC, HMI, or BOP-link master) and that data stream stops arriving.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ Siemens documents this fault as 'No setpoint values from USS during telegram off
 ## When to Call a Pro
 
 Call a qualified technician or automation specialist if you are not familiar with industrial communication protocols or if the fault persists after verifying wiring, master status, and communications board condition. F0071 is a communication fault, so troubleshooting requires understanding the USS protocol, the master device configuration, and the drive's control source settings. If the master is part of a larger PLC or SCADA system, involve the system integrator or controls engineer to diagnose the master side of the link.
-
-## See Also
-
-- [Siemens Micromaster F0021 Fault - Causes & Fix](/posts/siemens-micromaster-vfd-f0021-fault-code/)
-- [Siemens Micromaster F0011 - Causes & Fix](/posts/siemens-micromaster-f0011-fault-code/)
-- [Siemens Micromaster F0003 - Causes & Fix](/posts/siemens-micromaster-vfd-f0003-fault-code/)
-- [Siemens G120 A05001 Fault Code - Causes & Fix](/posts/siemens-g120-vfd-a05001-fault-code/)

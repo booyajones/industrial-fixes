@@ -13,11 +13,8 @@ money_part: "Flame sensor"
 most_likely_cause: "Grounded flame sensor rod"
 ---
 
-## Carrier 25 Error Code — What It Means
-
+## What this code means
 Carrier fault code 25 indicates a flame sense fault — the control board detected a flame signal when no flame should be present, or it detected a false flame signal before the igniter fired. This is distinct from code 11 (no ignition) because the board is seeing a signal it doesn't expect rather than seeing no signal at all. The primary suspects are a shorted or grounded flame sensor rod, stray electrical interference, or a gas valve that isn't closing completely between cycles.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Carrier fault code 25 indicates a flame sense fault — the control board detect
 ## When to Call a Pro
 
 A leaking gas valve requires replacement by a licensed technician — this involves breaking into the gas line. If you're not certified to handle gas work, stop at the diagnosis step and call a pro.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier 41 Error Code — Blower Motor Fault Fix](/posts/carrier-41-error-code/)
-- [Carrier Mini-Split P4 Error Code — Inverter Module Overtemperature Fix](/posts/carrier-mini-split-p4-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier Comfort 24ACC4 AC Error Codes - Full Flash Code Guide](/posts/carrier-comfort-24acc4-error-codes/)

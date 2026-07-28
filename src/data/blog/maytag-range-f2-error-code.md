@@ -17,8 +17,7 @@ money_part: "User interface / keypad assembly"
 part_price: "$80-200"
 ---
 
-## Maytag Range F2 E1 — What It Means
-
+## What this code means
 The F2 E1 code on a Maytag range signals a problem with the user interface or keypad, the main control, or the wiring between them. The control board is seeing an invalid signal from the touchpad, which can mean a stuck button, a shorted contact, a disconnected connector, or moisture in the panel. Maytag's official guidance also directs you to check whether the cooktop grates are installed correctly and level, because a wobbling grate can trigger this error on some range models.
 
 In practice, the fault is usually electrical rather than mechanical. A shorted or stuck key on the control panel sends a constant signal that the control interprets as a fault. Steam or liquid spills around the touchpad are common triggers. Less often, the problem lies in a loose harness plug or a failing main control board that cannot properly read the keypad signals.
@@ -26,8 +25,6 @@ In practice, the fault is usually electrical rather than mechanical. A shorted o
 ## Before You Replace Anything
 
 Many people replace the main control board first, only to find the fault returns because the real problem is a shorted touchpad or a loose connector. Always inspect the keypad assembly and connectors before replacing the control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

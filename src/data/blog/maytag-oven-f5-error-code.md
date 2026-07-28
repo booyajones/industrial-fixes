@@ -21,8 +21,7 @@ free_checks:
 part_price: "$50-100"
 ---
 
-## Maytag Oven F5 Error Code — What It Means
-
+## What this code means
 F5 on a Maytag oven is a door-latch or door-lock feedback fault. The control board cannot verify that the oven door latch is in the expected locked or unlocked position during a latch-related operation, such as self-clean. The error points to a problem in the door latch assembly, the position switches that report latch state, or the wiring between the latch and the control.
 
 This code does not indicate a heating or temperature problem. It is strictly a mechanical and electrical issue with the door lock circuit. The oven will typically refuse to start a self-clean cycle or may abort mid-cycle when it detects the mismatch.
@@ -30,8 +29,6 @@ This code does not indicate a heating or temperature problem. It is strictly a m
 ## Before You Replace Anything
 
 Many owners replace the control board first, but the latch assembly and its switches fail far more often. Always inspect the latch mechanism and test the switches and wiring before replacing the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

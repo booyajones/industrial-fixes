@@ -124,11 +124,4 @@ You can, but the flame loss events are real. Whatever's causing the flame to dro
 
 - [Lennox Error Code 224 — HSI Relay Failure Fix](/posts/lennox-error-code-224)
 - [Lennox Error Code 240 — Ignitor Failed Fix](/posts/lennox-error-code-240)
-- [Goodman 8-Flash Error Code — Low Flame Signal Fix](/posts/goodman-8-flash-error-code)
-
-## See Also
-
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Error Code 223 — Causes & Fix](/posts/lennox-error-code-223/)
-- [Lennox iComfort Error Code 225 — Communication Fault Fix Guide](/posts/lennox-icomfort-error-code-225/)
-- [Lennox Error Code 231 — Causes & Fix](/posts/lennox-error-code-231/)
+- Goodman 8-Flash Error Code — Low Flame Signal Fix

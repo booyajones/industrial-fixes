@@ -19,8 +19,6 @@ A Rheem water heater leaking is a physical symptom, not an error code. On storag
 
 Rheem troubleshooting materials treat leakage separately from electronic codes. Some water discharge from the T&P valve is normal during heating, but it should be about 1/50 of the hot water used. More than a bucket in 24 hours points to a problem with pressure, expansion, or the valve itself.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **T&P relief valve discharge from excess pressure or thermal expansion** High system pressure or lack of expansion control forces water out through the relief valve, which is the most common leak source on storage heaters.
@@ -55,15 +53,8 @@ Rheem troubleshooting materials treat leakage separately from electronic codes. 
 If your appliance also shows a code on the display, these match this problem:
 
 - [Rheem Water Heater A01 error code](/posts/rheem-water-heater-a01-error-code/)
-- [Rheem Water Heater Alarm 401 error code](/posts/rheem-water-heater-alarm-401-error-code/)
+- Rheem Water Heater Alarm 401 error code
 
 ## When to Call a Pro
 
 Call a licensed plumber if you see water seeping from the tank body or seams, since that means tank failure and full replacement. Also call for help if the leak is from the T&P valve and you are not comfortable testing system pressure, checking expansion control, or replacing the valve. For tankless or hybrid units with internal leaks or condensate issues, a pro can diagnose drainage blockages and component seals safely. Any work involving gas lines, burner removal, or internal access on gas-fired units should be handled by a qualified technician. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rheem Tankless Error Code 12 - Causes & Fix](/posts/rheem-tankless-water-heater-12-error-code/)
-- [Rheem Tankless Water Heater Error 76 - Causes & Fix](/posts/rheem-tankless-water-heater-76-error-code/)
-- [Rheem Water Heater Dip Tube Replacement - Signs & How-To](/posts/rheem-water-heater-dip-tube-cold-water-inlet-replacement/)
-- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)

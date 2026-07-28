@@ -14,8 +14,7 @@ money_part: "Yaskawa GA800 keypad / display module"
 most_likely_cause: "Misread or misinterpreted display"
 ---
 
-## Yaskawa GA800 A.103 — What It Means
-
+## What this code means
 The code A.103 does not appear in Yaskawa GA800 manufacturer documentation as a recognized fault or alarm code. The GA800 uses a specific fault code format, and A1-03 is a setup parameter used for initialization and reset procedures, not a fault condition. If your drive is displaying something that looks like A.103, you may be reading a parameter reference, a misread display, or a code from a different drive series. Yaskawa emphasizes confirming the exact code shown on the keypad display and matching it to the fault table in your drive's manual before beginning troubleshooting.
 
 Before attempting any reset or repair, identify the full exact code string from the drive display. Yaskawa's reset procedure requires removing the root cause of any fault or alarm first, then pressing the RESET button on the keypad while the code is still displayed. Do not perform withstand voltage tests or megger tests on the drive itself, as this can damage internal components. If the drive has tripped a GFCI or blown a fuse, do not immediately re-energize until the underlying fault condition is identified and corrected.
@@ -23,8 +22,6 @@ Before attempting any reset or repair, identify the full exact code string from 
 ## Before You Replace Anything
 
 Technicians sometimes replace control boards or power sections without confirming the exact fault code first. Always verify the displayed code against the GA800 fault table and inspect wiring and peripheral connections before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -71,10 +68,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa-authorized service provider if you cannot identify the exact fault code from the display, if the drive has tripped a GFCI or blown fuses repeatedly, or if you suspect damage to power devices or the control board. VFD troubleshooting requires understanding of high-voltage DC bus circuits, parameter programming, and proper use of isolation and lockout procedures. Do not attempt repairs that involve opening the drive enclosure, testing internal components, or performing insulation resistance tests unless you are trained and equipped for high-voltage work. A technician will confirm the actual fault code, use the correct Yaskawa diagnostic procedures, and replace only the components that have failed, avoiding unnecessary parts replacement.
 
 **Rough cost:** A pro service call runs about $200-600.
-
-## See Also
-
-- [Yaskawa GA800 E07 Fault - Causes & Fix](/posts/yaskawa-ga800-e07-fault-code/)
-- [Yaskawa GA800 E69 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e69-fault-code/)
-- [Yaskawa GA800 E12 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e12-fault-code/)
-- [Yaskawa GA800 E28 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e28-fault-code/)

@@ -13,11 +13,8 @@ money_part: "Defrost heater"
 most_likely_cause: "Open defrost heater"
 ---
 
-## Hussmann Display Case Error Code E1 — What It Means
-
+## What this code means
 Hussmann display case error code E1 usually indicates a defrost heater fault or a defrost circuit failure on cases using electronic case controllers. The controller commanded a defrost cycle but did not see the expected temperature response at the evaporator sensor, or it detected an open heater circuit. On medium-temp and low-temp supermarket cases, that leaves frost building on the evaporator until airflow falls off and product temperature starts rising. In service, E1 often comes down to an open heater, a failed defrost termination sensor, or a relay problem in the case controller.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

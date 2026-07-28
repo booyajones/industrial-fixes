@@ -17,8 +17,7 @@ money_part: "Electronic control board (ERC/oven control/clock)"
 part_price: "$150-300"
 ---
 
-## Whirlpool Range F1 Error Code — What It Means
-
+## What this code means
 The F1 error code on a Whirlpool range signals a control or system fault. According to Whirlpool product support, the code can involve the oven temperature sensor, the electronic control board, or the wiring between them. In the field, technicians most commonly see F1 as an internal electronic control failure, especially when the code reappears immediately after a power reset.
 
 Because Whirlpool uses different control platforms across its range models, the exact meaning of F1 can vary. Some models tie the code specifically to the temperature sensor circuit, while others use it as a general control board failure flag. Always consult your model's tech sheet or wiring diagram for the precise definition and diagnostic steps.
@@ -26,8 +25,6 @@ Because Whirlpool uses different control platforms across its range models, the 
 ## Before You Replace Anything
 
 Many people replace the oven temperature sensor first, but the control board is the more common culprit. Always power-cycle the range for at least one minute and check all wiring connections before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

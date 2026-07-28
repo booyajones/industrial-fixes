@@ -17,8 +17,7 @@ free_checks:
   - "Inspect all low-voltage wiring connectors at the control board for corrosion or looseness and reseat them."
 ---
 
-## Weil-McLain Boiler A129 Error — What It Means
-
+## What this code means
 An A129 error code does not appear in available Weil-McLain boiler manuals or fault code tables. Weil-McLain systems use model-specific control platforms, and the same code can mean different things across different boards or may not exist at all on certain models. The only documented A129 code in the research is from Rheem hybrid water heaters, where it indicates an upper element relay failure to close, but that reference does not apply to Weil-McLain boilers.
 
 To interpret the fault correctly, locate your boiler's model number and control board type. Check the wiring diagram and fault history inside the manual for your exact unit. If the display shows A129 and the boiler is not heating or cycling properly, the underlying issue may involve a relay, control board, or wiring fault, but the specific meaning depends entirely on your model. Treating this as a generic relay fault without confirming the manufacturer definition can lead to unnecessary part replacement.
@@ -26,8 +25,6 @@ To interpret the fault correctly, locate your boiler's model number and control 
 ## Before You Replace Anything
 
 Without the correct fault table, technicians may replace the main control board when the problem is simply a loose wiring connection or a stuck relay. Always consult the model-specific manual and verify wiring continuity before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician immediately if you cannot locate the model manual, if the code does not appear in any Weil-McLain documentation, or if the boiler is locked out and will not fire. Gas-fired and oil-fired boilers involve combustion safety interlocks, pressure switches, and ignition sequences that require proper diagnostics and testing equipment. A technician can access fault history in the control board memory, measure relay voltages, and cross-reference the code with the exact control platform installed on your unit. Do not bypass any safety lockout or attempt to force the boiler to run while an unidentified fault code is displayed.
 
 **Rough cost:** A pro service call runs about $200-450.
-
-## See Also
-
-- [Weil-McLain A134 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a134-error-code/)
-- [Weil-McLain A125 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a125-error-code/)
-- [Weil-McLain A32 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a32-error-code/)
-- [Weil-McLain Boiler A21 Error - Causes & Fix](/posts/weil-mclain-boiler-a21-error-code/)

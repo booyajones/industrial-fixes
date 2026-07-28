@@ -13,11 +13,8 @@ money_part: "Control board or gas valve assembly"
 most_likely_cause: "Incorrect brand or model identification"
 ---
 
-## State Water Heater E169 Error Code — What It Means
-
+## What this code means
 E169 does not appear in published State Water Heaters fault code lists for gas or electric models. State uses different control systems across product lines, each with its own code set. If your display shows E169, verify the exact model number and control board type on the data plate. The code may belong to a third-party controller, a different brand, or a misread display. Without matching the code to your specific control family, any diagnosis would be guesswork.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

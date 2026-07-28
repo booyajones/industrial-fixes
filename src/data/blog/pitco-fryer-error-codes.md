@@ -25,8 +25,6 @@ Pitco (a Welbilt brand) manufactures commercial deep fryers widely used in QSR c
 | E05 | Temperature not reached within time | Medium |
 | E06 | Control board fault | High |
 
-[Jump to Fix](#fix)
-
 ## Most Common Pitco Fault Fixes {#fix}
 
 ### E01 / E04 — High Temperature / High Limit
@@ -51,4 +49,3 @@ Oil isn't reaching setpoint within the allowed time. Check burner operation, gas
 ## When to Call a Pro
 
 E01/E04 high temperature faults require root cause investigation before returning to service. Gas valve and burner work requires a certified commercial kitchen equipment technician.
-

@@ -15,15 +15,12 @@ money_part: "Front Interface Control Board (Washer)"
 most_likely_cause: "Wrong appliance code reference"
 ---
 
-## Maytag Dryer F73 Error Code — What It Means
-
+## What this code means
 The F73 code is not listed in Maytag's published dryer error code guide. In the manufacturer's documentation, Maytag dryers display codes like AF or F4E3 for airflow faults, L2 for low line voltage, and generic F# E# service codes, but F73 does not appear. The F73 fault is documented for Maytag washers, where it signals a communication breakdown between the front interface control board and the main control board. If you see F73 on a Maytag dryer display, consult your specific model's wiring diagram or technical sheet to confirm the exact meaning, because the code definition varies by appliance type and the research shows no standardized dryer interpretation for this fault.
 
 ## Before You Replace Anything
 
 Because F73 is not a standard Maytag dryer code, some owners replace the main control board assuming a generic fault. Always check your model's official fault table and inspect wiring connections first to avoid unnecessary board replacement.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

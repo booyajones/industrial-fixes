@@ -19,8 +19,6 @@ Samsung refrigerators do not use an error code for a light that stays off. This 
 
 If the doors were removed and reinstalled, an improperly connected or misaligned harness can make the refrigerator think the door is never fully closed, which also keeps the light off. On older units with an incandescent bulb, the bulb itself can fail. On many newer Samsung units, field reports and parts-replacement guidance point to the LED light module or board and its wiring rather than a replaceable bulb.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Sabbath mode enabled** The light is intentionally disabled while Sabbath mode is active on models that support it.
@@ -55,17 +53,17 @@ If the doors were removed and reinstalled, an improperly connected or misaligned
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Samsung Refrigerator 1E error code](/posts/samsung-refrigerator-1e-error-code/)
-- [Samsung Refrigerator 21E error code](/posts/samsung-refrigerator-21e-error-code/)
-- [Samsung Refrigerator 22E error code](/posts/samsung-refrigerator-22e-error-code/)
+- Samsung Refrigerator 1E error code
+- Samsung Refrigerator 21E error code
+- Samsung Refrigerator 22E error code
 - [Samsung Refrigerator 25E error code](/posts/samsung-refrigerator-25e-error-code/)
-- [Samsung Refrigerator 2E error code](/posts/samsung-refrigerator-2e-error-code/)
-- [Samsung Refrigerator 33E error code](/posts/samsung-refrigerator-33e-error-code/)
-- [Samsung Refrigerator 39E error code](/posts/samsung-refrigerator-39e-error-code/)
-- [Samsung Refrigerator 4E error code](/posts/samsung-refrigerator-4e-error-code/)
-- [Samsung Refrigerator 5E error code](/posts/samsung-refrigerator-5e-error-code/)
-- [Samsung Refrigerator 88 error code](/posts/samsung-refrigerator-88-error-code/)
-- [Samsung Refrigerator Ap error code](/posts/samsung-refrigerator-ap-error-code/)
+- Samsung Refrigerator 2E error code
+- Samsung Refrigerator 33E error code
+- Samsung Refrigerator 39E error code
+- Samsung Refrigerator 4E error code
+- Samsung Refrigerator 5E error code
+- Samsung Refrigerator 88 error code
+- Samsung Refrigerator Ap error code
 
 ## When to Call a Pro
 

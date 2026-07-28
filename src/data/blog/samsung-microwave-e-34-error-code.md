@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Samsung microwave main control board (MICOM)"
 ---
 
-## Samsung Microwave E-34 Error — What It Means
-
+## What this code means
 Samsung defines E-34 as an Over Weight Error on microwaves equipped with weight-sensing or automatic cooking logic. The code appears when the oven detects a food load it considers too heavy for the selected weight-based program (such as auto-defrost or sensor reheat), or when a related sensing condition prevents a valid weight calculation. Samsung groups E-34 with other weight-sensing fault codes (E-33 and E-35) and expects the load to fall within the model's allowed range for each cycle.
 
 The error does not indicate a magnetron, high-voltage, or component failure. Instead, it signals that the selected automatic program cannot proceed because the entered or sensed weight is outside the permitted limits. Transient control glitches or moisture exposure can also trigger the code. Samsung's corrective guidance starts with a power reset and verification that the load size matches the program's specifications before escalating to service-center support.
@@ -25,8 +24,6 @@ The error does not indicate a magnetron, high-voltage, or component failure. Ins
 ## Before You Replace Anything
 
 Users sometimes suspect the magnetron or main control board when they see any error code. E-34 is a weight-logic fault, so verify that the load size is correct and perform a power reset before replacing any electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

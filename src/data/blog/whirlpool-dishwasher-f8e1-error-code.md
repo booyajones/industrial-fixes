@@ -21,8 +21,7 @@ money_part: "Water inlet valve (dishwasher)"
 most_likely_cause: "Code display error or model-specific variant"
 ---
 
-## Whirlpool Dishwasher F8E1 Error Code — What It Means
-
+## What this code means
 F8E1 does not appear in published Whirlpool documentation as a standard dishwasher fault code. Whirlpool's official materials describe F8E1 as a washer code that signals the machine is not detecting the correct amount of incoming water. If your Whirlpool dishwasher displays F8E1, the code may be specific to your model or the display may show a different format (such as E1 F8 or F8 E1). Check your owner's manual or the wiring diagram inside the door for the exact meaning on your appliance.
 
 Because dishwashers and washers use different plumbing and control systems, do not assume the washer definition applies to your dishwasher. Some dishwasher faults involve drainage, fill valve problems, or sensor errors, but without manufacturer confirmation for F8E1 on dishwashers, troubleshooting should start with verifying the code display and consulting model-specific documentation.
@@ -30,8 +29,6 @@ Because dishwashers and washers use different plumbing and control systems, do n
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board when an alphanumeric code appears, but many fault codes point to a sensor, valve, or wiring issue. Always verify the exact code format and check basic supply and drain connections before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

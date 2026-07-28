@@ -15,11 +15,8 @@ money_part: "VFD-rated motor cable"
 most_likely_cause: "Motor winding insulation failure"
 ---
 
-## Omron 3G3MX2 E04 Fault — What It Means
-
+## What this code means
 **E04** on an Omron MX2 (3G3MX2) drive means the inverter detected a **ground fault** on the motor output. Current is leaking from one or more output phases to ground, and the drive trips instantly to protect itself.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,11 +45,3 @@ most_likely_cause: "Motor winding insulation failure"
 ## When to Call a Pro
 
 If ground resistance looks borderline or the application has a very long motor run, a technician with a megger and leakage-current experience can separate true ground faults from nuisance trips.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

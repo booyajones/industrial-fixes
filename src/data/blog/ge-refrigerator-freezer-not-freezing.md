@@ -19,8 +19,6 @@ When a GE refrigerator freezer stops freezing, you may see code FF on the displa
 
 The root issue is almost always that cold air is not reaching the freezer space or the appliance is not generating cold air in the first place. Most often, ice has built up on the evaporator coil because the defrost cycle failed, blocking airflow through the fins. Less commonly, a failed evaporator fan, dirty condenser coils, a bad door seal, or control and sensor faults prevent proper cooling.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Defrost system failure causing ice buildup on evaporator** The defrost heater, defrost thermostat, or control board defrost output has failed, allowing frost to accumulate on the evaporator coil and block airflow through the freezer.

@@ -19,8 +19,6 @@ When your LG front-load washer won't drain, it means the machine cannot remove w
 
 The washer may stop mid-cycle with standing water in the drum, or it may complete the wash but leave clothes soaking wet because the spin cycle cannot run while water is present. LG ties this symptom directly to blockages or failures in the drainage system, not to fill valve or door-lock problems.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged drain pump filter or coin trap** Lint, coins, small clothing items, and debris accumulate in the filter housing and block water flow to the pump.
@@ -54,18 +52,18 @@ The washer may stop mid-cycle with standing water in the drum, or it may complet
 
 Seeing a code on the display? These match this problem:
 
-- [Lg Washer Ae error code](/posts/lg-washer-ae-error-code/)
-- [Lg Washer Cd error code](/posts/lg-washer-cd-error-code/)
-- [Lg Washer Ce error code](/posts/lg-washer-ce-error-code/)
-- [Lg Washer Cl error code](/posts/lg-washer-cl-error-code/)
-- [Lg Washer De error code](/posts/lg-washer-de-error-code/)
-- [Lg Washer De1 error code](/posts/lg-washer-de1-error-code/)
+- Lg Washer Ae error code
+- Lg Washer Cd error code
+- Lg Washer Ce error code
+- Lg Washer Cl error code
+- Lg Washer De error code
+- Lg Washer De1 error code
 - [Lg Washer De2 error code](/posts/lg-washer-de2-error-code/)
-- [Lg Washer Dhe error code](/posts/lg-washer-dhe-error-code/)
-- [Lg Washer E03 error code](/posts/lg-washer-e03-error-code/)
-- [Lg Washer E21 error code](/posts/lg-washer-e21-error-code/)
-- [Lg Washer Fe error code](/posts/lg-washer-fe-error-code/)
-- [Lg Washer He error code](/posts/lg-washer-he-error-code/)
+- Lg Washer Dhe error code
+- Lg Washer E03 error code
+- Lg Washer E21 error code
+- Lg Washer Fe error code
+- Lg Washer He error code
 
 ## When to Call a Pro
 

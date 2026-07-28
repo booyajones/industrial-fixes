@@ -19,8 +19,6 @@ A Kenmore dryer that runs but produces no heat is a symptom, not a single fault 
 
 On electric Kenmore dryers, the most common culprits are a blown thermal fuse (often from clogged vents) or missing 240V at the wall outlet. On gas models, a weak or failed igniter or bad gas valve solenoids prevent the burner from lighting. Some Kenmore models display codes like F28 or F29 for moisture sensor or thermistor faults, but a simple no-heat symptom usually means you need to test the heat circuit components one by one with a multimeter.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Blown thermal fuse** The thermal fuse sits on the blower housing or heater assembly and opens permanently when the dryer overheats, usually because lint blocks the exhaust vent or internal ductwork.

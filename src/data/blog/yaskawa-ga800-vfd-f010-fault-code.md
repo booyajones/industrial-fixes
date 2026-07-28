@@ -17,8 +17,7 @@ free_checks:
   - "Consult the GA800 Technical Manual (SIEPC* series) for the fault code table specific to your drive version."
 ---
 
-## Yaskawa GA800 F010 Fault — What It Means
-
+## What this code means
 The F010 fault code does not appear in available Yaskawa GA800 documentation. The GA800 maintenance manual does not list F010 as a valid error code for this drive series. In other manufacturer's equipment (specifically Siemens Masterdrive systems), F010 indicates DC link overvoltage, but this definition cannot be applied to the Yaskawa GA800 without confirmation. If you are seeing F010 on your GA800 display, the code may be misread, the drive may be a different model, or it could be a non-standard alarm specific to your system configuration.
 
 Because no verified meaning exists for F010 on the GA800, troubleshooting must begin with confirming the exact fault code displayed. Check your drive's operator panel carefully and record the complete alarm or fault number. The Yaskawa GA800 Technical Manual (document series SIEPC*) contains the authoritative fault code table for your drive, and Yaskawa Technical Support can confirm whether F010 is valid for your specific firmware version and configuration. Do not attempt repairs based on fault codes from other manufacturers or drive families.
@@ -26,8 +25,6 @@ Because no verified meaning exists for F010 on the GA800, troubleshooting must b
 ## Before You Replace Anything
 
 Do not replace control boards or power modules based on an unverified fault code. Contact Yaskawa Technical Support with your drive's model number, serial number, and exact displayed fault to confirm the code is valid before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

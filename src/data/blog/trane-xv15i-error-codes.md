@@ -163,10 +163,3 @@ Code 204 (current limit) is a soft fault that clears automatically when load dro
 
 **Does the XV15i have a test mode I can use to check operation before calling a technician?**
 Yes, from the ComfortLink II thermostat, go to Menu → System → Test Mode. This allows you to run the compressor, indoor fan, and outdoor fan independently to isolate faults. This is extremely useful before a service call because you can confirm whether each component responds to a command.
-
-## See Also
-
-- [Trane 5 Flashes Error Code — Causes & Fix](/posts/trane-5-flashes-error-code/)
-- [Trane XE80 Furnace Error Codes — Fault Code Guide](/posts/trane-xe80-error-codes/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)

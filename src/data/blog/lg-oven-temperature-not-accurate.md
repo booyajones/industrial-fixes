@@ -20,8 +20,6 @@ When your LG oven temperature is not accurate, the appliance heats but doesn't m
 
 The oven may underheat, overheat, cycle poorly, or cook food unevenly. LG directs technicians to verify heating behavior, check sensor readings, inspect wiring, review calibration, and perform a power reset before replacing components. If a sensor-related error code is present, that's a different fault and requires its own diagnostic path.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Oven temperature sensor out of range, open, or shorted** The thermistor that monitors cavity temperature drifts, breaks, or shorts internally and sends incorrect resistance readings to the control board.
@@ -70,10 +68,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified appliance technician if you are not comfortable working with 240-volt power, if sensor resistance readings fall outside the acceptable range and you need confirmation before ordering parts, or if the sensor and wiring check good but the oven still will not regulate temperature correctly. A tech can verify control board inputs, perform live voltage checks at the sensor circuit, and access service-mode diagnostics that are not available through the user interface. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [LG Refrigerator FS Error Code - Causes & Fix](/posts/lg-refrigerator-fs-error-code/)
-- [LG Microwave F-3 Error - Causes & Fix](/posts/lg-microwave-f-3-error-code/)
-- [LG Oven Clicking but Won't Light - Causes & Fix](/posts/lg-oven-clicking-but-wont-light/)
-- [LG Refrigerator dS Error Code - Causes & Fix](/posts/lg-refrigerator-ds-error-code/)

@@ -22,8 +22,7 @@ part_price: "$40–80"
 no_buy_pct: "60%"
 ---
 
-## LG Refrigerator rF Error Code — What It Means
-
+## What this code means
 The rF error code on an LG refrigerator signals an abnormality in the refrigerator compartment fan motor (also called the fresh-food evaporator fan). LG's support pages state that the fault appears when the fan motor does not operate normally. Frost or ice buildup around the fan or evaporator is the most common trigger, physically blocking the fan blade or freezing the motor shaft. Depending on your model and display type, LG may show slightly different variations of the same fault (such as E rF or ER(E) rF), and some platforms also have a separate freezer-fan version of the code, so always verify which compartment fan is affected on your specific unit.
 
 Because the refrigerator fan circulates cold air from the evaporator coil into the fresh-food section, any failure stops that airflow and can lead to warm temperatures, uneven cooling, or frost accumulation. The error does not necessarily mean the motor itself is dead. Often the fan is simply locked by ice, and a full manual defrost will clear the fault. If the code returns after defrost and reset, the fan motor assembly or the control board sending power to it is the likely culprit.
@@ -31,8 +30,6 @@ Because the refrigerator fan circulates cold air from the evaporator coil into t
 ## Before You Replace Anything
 
 Many people replace the control board first when the rF code appears, but the real problem is usually ice locking the fan or a failed fan motor. Defrost the evaporator area and spin the fan blade by hand before swapping the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a technician if you are not comfortable working inside the refrigerator cabinet or handling live voltage measurements. A pro should also be called if the rF code returns after you have defrosted the evaporator and confirmed the fan spins freely, since the fault may then involve the control board, defrost timer, or sealed-system issues that require diagnostic tools and refrigerant handling. If your unit is still under warranty, LG recommends contacting their service network rather than attempting DIY board or motor replacement.
 
 **Rough cost:** DIY runs about $40–80 in parts, 1–2 hours. A pro service call runs about $150–300.
-
-## See Also
-
-- [LG Refrigerator FS Error Code - Causes & Fix](/posts/lg-refrigerator-fs-error-code/)
-- [LG Washer Error LE — Motor Lock / Stator Fix](/posts/lg-washer-error-le/)
-- [LG Mini Split CH53 Error Code - Causes & Fix](/posts/lg-mini-split-ch53-error-code/)
-- [LG Washer Door Boot Seal Replacement - Signs & How-To](/posts/lg-washer-door-boot-seal-bellow-gasket-front-load-replacement/)

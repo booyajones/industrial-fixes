@@ -13,11 +13,8 @@ money_part: "Navien combustion fan motor"
 most_likely_cause: "Clogged air inlet filter or blocked intake path"
 ---
 
-## Navien E109 Error — What It Means
-
+## What this code means
 The E109 code indicates a motor fan problem or combustion air system fault. Your Navien has detected that the fan cannot spin normally, the air path is blocked, or the fan feedback signal is not reaching the control board. The unit shuts down to protect itself from unsafe combustion conditions. This is not a water temperature issue. It is an airflow or fan-rotation fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,10 +44,3 @@ The E109 code indicates a motor fan problem or combustion air system fault. Your
 ## When to Call a Pro
 
 If you are not comfortable working around gas appliances, call a licensed plumber or HVAC technician. Water intrusion cases often require investigation of the venting system, condensate trap, or building envelope, which may need professional assessment. If you have replaced the fan and harness and the E109 persists, the control board may need diagnosis with manufacturer-specific tools and firmware.
-
-## See Also
-
-- [Navien E002 Error Code - Causes & Fix](/posts/navien-tankless-e002-error-code/)
-- [Navien E615 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e615-error-code/)
-- [Navien Tankless Igniter/Flame Rod Replacement - Signs & How-To](/posts/navien-water-heater-igniter-ignition-electrode-tankless-replacement/)
-- [Navien NCB Combi Boiler Error Codes — Complete Fault Guide](/posts/navien-ncb-error-codes/)

@@ -17,8 +17,7 @@ money_part: "Dryer power cord"
 part_price: "$15-50"
 ---
 
-## Maytag Dryer L2 Error Code — What It Means
-
+## What this code means
 L2 on a Maytag dryer indicates low or no line voltage in the heating supply path. The dryer's control is detecting that the heater is not receiving full supply voltage. The dryer will continue to tumble and run, but it will not heat your clothes.
 
 In practical terms, the machine is missing one leg of the 240 V electrical supply or seeing voltage low enough that the heating element cannot turn on. This is almost always a problem with the home power supply or the connections between the outlet and the dryer terminal block, not a failed internal component.
@@ -26,8 +25,6 @@ In practical terms, the machine is missing one leg of the 240 V electrical suppl
 ## Before You Replace Anything
 
 Homeowners often replace the heating element or control board when the real fault is a tripped breaker or loose power cord. Before ordering any parts, use a multimeter to measure 240 V at the wall outlet and confirm both breaker poles are reset.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

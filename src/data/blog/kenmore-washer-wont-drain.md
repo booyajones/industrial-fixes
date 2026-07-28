@@ -19,8 +19,6 @@ When a Kenmore washer won't drain, it means water stays in the tub after the was
 
 On front-load Kenmore washers, the most common culprits are a clogged pump filter (coin trap) or a kinked drain hose. On top-load models, especially Whirlpool-built Kenmores, a faulty lid switch can stop the washer from entering drain and spin mode even if the pump and hoses are clear. The exact cause depends on your model and load type, but the drain system is always the first place to check.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged pump filter or coin trap** Lint, coins, socks, and small debris accumulate in the pump filter and block water flow, especially common on front-load models.
@@ -53,8 +51,8 @@ On front-load Kenmore washers, the most common culprits are a clogged pump filte
 
 Seeing a code on the display? These match this problem:
 
-- [Kenmore Washer E14 error code](/posts/kenmore-washer-e14-error-code/)
-- [Kenmore Washer E24 error code](/posts/kenmore-washer-e24-error-code/)
+- Kenmore Washer E14 error code
+- Kenmore Washer E24 error code
 - [Kenmore Washer F0 E2 error code](/posts/kenmore-washer-f0-e2-error-code/)
 - [Kenmore Washer F0 E4 error code](/posts/kenmore-washer-f0-e4-error-code/)
 - [Kenmore Washer F1 E1 error code](/posts/kenmore-washer-f1-e1-error-code/)

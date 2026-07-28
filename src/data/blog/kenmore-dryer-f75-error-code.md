@@ -19,8 +19,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Kenmore Dryer F75 Error Code — What It Means
-
+## What this code means
 F75 is not a documented fault code in Kenmore dryer service literature. The most common Kenmore dryer error codes that resemble F75 are AF (airflow restriction) and F70/F71 (communication failure between the main electronic control board and the user interface control board). AF indicates poor airflow through the vent system, typically from a clogged lint screen, crushed exhaust hose, or blocked outside vent hood. F70 or F71 points to a wiring or board fault between the two control boards.
 
 Before assuming you have an F75 code, confirm the exact alphanumeric display on your dryer's panel and consult your model's wiring diagram or owner's manual. If you saw AF, the fix is usually cleaning the vent path and lint screen housing. If you saw F70 or F71, the repair involves checking harness connections and replacing a control board. Because F75 itself is not a verified Kenmore code, the diagnostic steps below cover the most common lookalike faults to help you narrow down the real problem.
@@ -28,8 +27,6 @@ Before assuming you have an F75 code, confirm the exact alphanumeric display on 
 ## Before You Replace Anything
 
 Homeowners often replace the main electronic control board when they see an F70 or F71 code, but loose or corroded harness connectors between the control board and user interface are the actual cause in many cases. Inspect and reseat all board-to-board connectors before buying a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

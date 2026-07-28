@@ -13,13 +13,10 @@ money_part: "Siemens Micromaster 440 heatsink temperature sensor"
 most_likely_cause: "Broken or open sensor wire"
 ---
 
-## Siemens Micromaster F0012 — What It Means
-
+## What this code means
 F0012 on a Siemens Micromaster 440 VFD indicates that the inverter temperature signal has been lost. This is not an overtemperature fault. The drive can no longer read the heatsink temperature because the sensor circuit has an open circuit or wire breakage. Siemens classifies this as a sensor wiring or signal problem, and the drive reacts with an OFF2 shutdown to protect itself when it cannot monitor heatsink temperature.
 
 The fault points to a problem in the temperature sensing circuit on the inverter heatsink, not a load issue or power supply problem. The sensor or its wiring has failed, preventing the control board from receiving valid temperature data.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ The fault points to a problem in the temperature sensing circuit on the inverter
 ## When to Call a Pro
 
 Call a qualified VFD technician or contact Siemens support if you cannot locate visible wiring damage, if the fault returns immediately after reset, or if continuity testing shows the sensor circuit is intact but the drive still reports F0012. Sensor circuit faults that are not wiring-related typically require control board diagnostics or sensor replacement by trained personnel with access to OEM parts and schematics. Do not attempt to bypass or jumper the temperature sensor, as this will leave the drive without thermal protection and create a safety hazard.
-
-## See Also
-
-- [Siemens G120C VFD Fault Code Guide — Complete Diagnostic Reference](/posts/siemens-g120c-fault-codes/)
-- [Siemens G120 A05002 - Causes & Fix](/posts/siemens-g120-a05002-fault-code/)
-- [Siemens Micromaster F0080 - Causes & Fix](/posts/siemens-micromaster-f0080-fault-code/)
-- [Siemens Micromaster F0221 - Causes & Fix](/posts/siemens-micromaster-f0221-fault-code/)

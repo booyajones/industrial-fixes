@@ -17,8 +17,7 @@ free_checks:
   - "Inspect air intake screens and vent pipes for visible lint, debris, or ice blockage"
 ---
 
-## State Water Heater E166 Error — What It Means
-
+## What this code means
 State Water Heaters (a brand of A.O. Smith) does not list E166 as an official error code in any public manual, support database, or authorized reference. State units typically display codes like 11, 12, 14, 24, 65, E001, E003, E012, E030, and E110, but E166 does not appear in known catalogs. This suggests the code may be misread (for example E110 seen as E166), may be a custom diagnostic on a specific unreleased model, or could indicate a control-board glitch that requires manufacturer clarification.
 
 Because no public documentation exists for E166, attempting repairs based on guesswork can waste money and create safety risks. The safest course is to verify the exact code on the display, attempt a power reset, and contact State Water Heaters technical support using the QR code on the rating plate or by providing your model and serial number. If the code persists after a reset, the issue may involve internal components such as the main control board, vent blockage sensors, or ignition circuitry that require professional diagnosis.
@@ -26,8 +25,6 @@ Because no public documentation exists for E166, attempting repairs based on gue
 ## Before You Replace Anything
 
 Without a confirmed meaning for E166, technicians may replace the main control board or flame sensor unnecessarily. Always verify the exact code and consult State support before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

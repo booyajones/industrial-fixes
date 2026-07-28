@@ -19,8 +19,7 @@ free_checks:
   - "Check encoder coupling (if equipped) for looseness or slip at idle"
 ---
 
-## Yaskawa GA800 F041 Fault — What It Means
-
+## What this code means
 There is no documented F041 fault code for the Yaskawa GA800 VFD. F041 (Phase UV Short / Overcurrent) is specific to Allen-Bradley PowerFlex 525 drives, not Yaskawa. The GA800 uses a different naming convention with codes like OCU (Overcurrent at Acceleration), OCV (Overcurrent at Deceleration), OCL (Overcurrent at Constant Speed), or SC (Short Circuit).
 
 If you are seeing what you believe is an overcurrent fault on your GA800, the drive is indicating that output current exceeded the hardware limit during operation. This typically points to shorted motor windings, damaged cables, mechanical binding in the load, or incorrect drive parameter settings. Check your display carefully for the actual fault code and consult your GA800 manual for the exact meaning.
@@ -28,8 +27,6 @@ If you are seeing what you believe is an overcurrent fault on your GA800, the dr
 ## Before You Replace Anything
 
 Technicians often replace the drive itself when the real problem is a shorted motor or damaged cable. A megger test of the motor and leads will identify insulation faults and shorts before you buy a new VFD.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

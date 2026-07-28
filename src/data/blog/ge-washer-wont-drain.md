@@ -19,8 +19,6 @@ When your GE washer won't drain, water stays in the tub at the end of the cycle 
 
 The washer's control board expects the tub to empty within a set time. If the water level does not drop, the cycle halts. GE washers use a drain pump to push water out through a hose into your standpipe or laundry sink. When that pump can't run, or when debris blocks the path, the drain fails and the cycle stops.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged pump filter or debris in the pump** GE documents that a blocked pump filter is the primary cause of code 18 on Combo washers, and lint, coins, or small objects can jam the impeller on any model.
@@ -54,7 +52,7 @@ The washer's control board expects the tub to empty within a set time. If the wa
 
 Seeing a code on the display? These match this problem:
 
-- [Ge Washer E23 error code](/posts/ge-washer-e23-error-code/)
+- Ge Washer E23 error code
 
 ## When to Call a Pro
 

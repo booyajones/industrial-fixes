@@ -21,8 +21,7 @@ most_likely_cause: "Blocked airflow"
 part_price: "$20-80"
 ---
 
-## Frigidaire Dryer AL-27 Error Code — What It Means
-
+## What this code means
 AL-27 does not appear in manufacturer-standard Frigidaire dryer error code documentation. Standard Frigidaire dryer codes include E10, E12, E24, E25, E64, E4A, E5B, E8C, and EAF. The code you are seeing may be model-specific, a misread display, or an aftermarket control variant. Without a verified definition for AL-27, the safest approach is to perform a hard reset, consult your exact model number's service manual or wiring diagram, and address the most common dryer fault patterns: blocked airflow, heating-system failures, thermistor problems, and control-board errors.
 
 Because the exact meaning of AL-27 varies by model and cannot be confirmed from Frigidaire's own support materials, treat the symptom rather than the code name. If the dryer is not heating, taking too long to dry, or stopping mid-cycle, inspect the areas technicians check for all Frigidaire dryer faults: lint restriction, exhaust duct blockage, thermistor resistance (about 50,000 ohms at room temperature), moisture sensor cleanliness, and control-board integrity.
@@ -30,8 +29,6 @@ Because the exact meaning of AL-27 varies by model and cannot be confirmed from 
 ## Before You Replace Anything
 
 Many homeowners replace the control board first when an unfamiliar code appears. Before ordering a board, clean the lint screen and exhaust duct thoroughly, test the thermistor with a multimeter for about 50,000 ohms, and verify the moisture sensor bars are free of residue.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

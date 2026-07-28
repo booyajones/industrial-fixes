@@ -21,8 +21,7 @@ part_price: "$15-40"
 no_buy_pct: "60%"
 ---
 
-## Manitowoc E20 Error Code — What It Means
-
+## What this code means
 The E20 error code is a Water System Fault. It means the control board detected an abnormal water level or an out-of-range measurement from either the high or low water probe. The machine failed to sense water reaching the high-level probe within the required timeframe during the fill and circulation cycle, or the board detected that the high or low water sensors remained active (or inactive) incorrectly at the end of a harvest cycle.
 
 In some scenarios, E20 appears if the system senses water high but never senses water low, or if the evaporator outlet temperature (T4) drops below 10°F too early in the freeze cycle (6 to 7.5 minutes), indicating a lack of water load on the evaporator. This often results from insufficient water flow due to a clogged filter, failed pump, or valve issue.
@@ -30,8 +29,6 @@ In some scenarios, E20 appears if the system senses water high but never senses 
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board when the real problem is mineral buildup or a corroded connection at the probe terminals. Always clean the probes and check the connections before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -82,10 +79,3 @@ Answer these to narrow it down fast.
 Call a commercial refrigeration technician if you are not comfortable working on ice machines or if the steps above do not clear the fault. Ice machines operate under food-safety regulations and require proper cleaning and descaling procedures. If the evaporator is damaged or not being cleaned regularly, the technician may recommend replacing the evaporator. A pro will also have the tools to measure probe resistance accurately and compare it to the factory chart, and can diagnose control board or wiring issues that are beyond typical DIY scope.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Manitowoc Ice Machine Error Code 4 — Water Curtain Fault Fix](/posts/manitowoc-ice-machine-error-code-4-water-curtain/)
-- [Manitowoc NEO Ice Machine Error Codes - What It Means and How to Fix It](/posts/manitowoc-neo-ice-machine-error-codes/)
-- [Manitowoc Ice Machine E05 HPC Fault: High Pressure Cutout Causes and Fix](/posts/manitowoc-e05-hpc-fault/)
-- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)

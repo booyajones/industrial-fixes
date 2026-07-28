@@ -20,8 +20,6 @@ On a Mitsubishi FR-A800, **Fault E.OC1** means **overcurrent during acceleration
 
 This is one of the most common high-pressure production faults because it happens right at machine start. If a conveyor, pump, spindle, or extruder will not get through the ramp, the whole line stays down.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
 - **Acceleration time is too short** for the motor and load inertia.
@@ -55,18 +53,3 @@ This is one of the most common high-pressure production faults because it happen
 ## When to Call a Professional
 
 Call a Mitsubishi drive specialist if E.OC1 remains after a longer ramp, a verified free-turning load, and a clean motor insulation test. If the fault happens with the motor disconnected, or if current spikes instantly on enable, the inverter power section may be damaged.
-
-## See Also
-
-- [Mitsubishi FR-A800 Fault E7, Overload Causes and Fix](/posts/mitsubishi-fr-a800-fault-e7/)
-- [Mitsubishi FR-D700 Fault Codes, Common Trips and Fixes](/posts/mitsubishi-fr-d700-fault-codes/)
-- [Mitsubishi FR Series Fault E6, Ground Fault Guide](/posts/mitsubishi-fr-series-fault-e6/)
-- [VFD Fault Codes OC, OV, UV, OL, What They Mean](/posts/vfd-fault-codes-oc-ov-uv-ol/)
-
-## Related Articles
-
-- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
-- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
-- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
-- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
-- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)

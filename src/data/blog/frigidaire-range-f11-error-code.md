@@ -17,8 +17,7 @@ money_part: "Oven control board / clock control board (ERC)"
 part_price: "$150-300"
 ---
 
-## Frigidaire Range F11 Error Code — What It Means
-
+## What this code means
 The F11 error code on Frigidaire electric ranges signals a keypad or touchpad fault. The control board is detecting a stuck key, a shorted key, or a failed connection in the membrane keypad interface. In many cases the keypad membrane is integrated into the clock/oven control board assembly and cannot be purchased separately, so the entire control board must be replaced to resolve the fault.
 
 The code can also appear when moisture, food residue, or cleaning product has seeped behind the touch panel and created a false key input, or when the ribbon cable connecting the membrane to the control board has corroded or broken. Occasionally a power-cycle reset will clear the code if it was triggered by a transient fault, but persistent F11 codes typically require physical inspection and replacement of the control assembly.
@@ -26,8 +25,6 @@ The code can also appear when moisture, food residue, or cleaning product has se
 ## Before You Replace Anything
 
 Homeowners sometimes replace the entire control board assembly before checking for moisture or debris behind the keypad. First open the console, inspect and clean the membrane contacts, and let everything dry completely before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

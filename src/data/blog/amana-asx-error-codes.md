@@ -17,8 +17,6 @@ money_part: "Dual run capacitor"
 
 The Amana ASX series (ASX13, ASX14, ASX16) are residential central air conditioners manufactured by Daikin (which owns both Amana and Goodman brands). The ASX uses the same outdoor control board, compressor platform, and flash-code diagnostic system as equivalent Goodman GSX units. If you have an ASX, the flash codes below apply directly — Amana and Goodman share service parts and diagnostic logic across the entire lineup.
 
-[Jump to Fix](#fix)
-
 ## Amana ASX LED Flash Code Reference
 
 | Flash Sequence | Fault |

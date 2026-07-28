@@ -221,9 +221,3 @@ You should call an HVAC contractor or mechanical engineer in these situations:
 - Keep vegetation at least 2 feet away from outdoor units
 
 ---
-
-## Related Articles
-
-- [Furnace Age Guide: When to Repair and When to Replace](/posts/furnace-age-and-efficiency-replacement-guide/)
-- [Boiler vs. Furnace Replacement Guide](/posts/boiler-vs-furnace-replacement-guide/)
-- [R22 Refrigerant Phase-Out Guide](/posts/hvac-r22-refrigerant-phase-out-guide/)

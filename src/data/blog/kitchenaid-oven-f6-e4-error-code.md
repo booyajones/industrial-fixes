@@ -15,8 +15,7 @@ part_price: "$15-80"
 diy_or_pro: "diy"
 ---
 
-## KitchenAid F6 E4 Error Code — What It Means
-
+## What this code means
 The F6 E4 code has different meanings depending on your KitchenAid appliance. On dishwashers, F6 E4 indicates an overfill or float switch open condition, usually triggered when the dishwasher is not level or the overfill float circuit is stuck or open. KitchenAid's dishwasher help documentation confirms that incorrect leveling can actuate the overfill or floater switch and trigger this code.
 
 On KitchenAid ranges and wall ovens, F6 E4 points to a different problem entirely: a possible fault in the Oven Appliance Manager, Appliance Manager Control, or Oven Control, or the associated wiring between these components. KitchenAid recommends starting with a power reset for oven and range models showing this code.
@@ -24,8 +23,6 @@ On KitchenAid ranges and wall ovens, F6 E4 points to a different problem entirel
 ## Before You Replace Anything
 
 On dishwashers, many people replace the main control board when the actual problem is simply an unlevel installation or a stuck float. Always verify the unit is level and check the float mechanism before ordering any control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

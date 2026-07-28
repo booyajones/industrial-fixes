@@ -18,8 +18,7 @@ free_checks:
   - "Inspect the ITP sensor harness and connectors for visible damage, corrosion, or loose plugs and reseat them"
 ---
 
-## Manitowoc E31 Error Code — What It Means
-
+## What this code means
 E31 on a Manitowoc Indigo ice machine indicates the controller has entered Safe Mode because it detected an ITP sensor failure. Instead of shutting down completely, the machine continues to operate in a limited capacity to keep producing ice temporarily while flagging the fault. Safe Mode is designed to allow production until a technician can service the unit.
 
 The ITP sensor monitors ice thickness or production parameters, and when its signal is lost or invalid, the controller cannot regulate ice making properly. The E31 code tells you the machine is compensating for that missing input by using fallback logic, but efficiency and ice quality may suffer until the sensor circuit is repaired.
@@ -27,8 +26,6 @@ The ITP sensor monitors ice thickness or production parameters, and when its sig
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board first when E31 appears intermittently, but the code explicitly points to the ITP sensor. Inspect and test the sensor and its wiring harness before swapping the controller.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified commercial refrigeration technician for E31 diagnosis and repair. The ITP sensor is part of the ice machine's refrigeration control circuit, and troubleshooting requires familiarity with Manitowoc Indigo diagnostics, sensor testing, and safe handling of electrical components in a wet environment. If the sensor replacement does not clear the code, the technician will need to test the control board's input circuit and verify refrigerant cycle operation. Attempting sensor or control board work without proper training risks damaging the controller, voiding your warranty, or creating unsafe electrical conditions around water and ice.
 
 **Rough cost:** A pro service call runs about $200-450.
-
-## See Also
-
-- [Manitowoc Ice Machine E04 Error: High Condenser Temperature Causes and Fix](/posts/manitowoc-e04-high-condenser-temp/)
-- [Manitowoc Ice Machine E01 Error Code — Causes & Fix](/posts/manitowoc-ice-machine-error-code-e01/)
-- [Manitowoc E15 Error - Causes & Fix](/posts/manitowoc-ice-machine-e15-error-code/)
-- [Manitowoc IYT-0450 Error Codes — Fault Code Diagnostic Guide](/posts/manitowoc-iyt-0450-error-codes/)

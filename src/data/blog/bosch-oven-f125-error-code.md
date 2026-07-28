@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Bosch Oven F125 Error Code — What It Means
-
+## What this code means
 The F125 error code on a Bosch oven or range indicates that the control believes the CANCEL button is being pressed continuously or is electrically stuck. This is a keypad or control panel fault. The oven's electronic control is receiving a constant signal from the cancel key input, either because the membrane switch is physically stuck, contaminated with moisture or residue, or because the wiring between the keypad and control board has failed. Bosch does not publish a model-specific definition for F125 in their general error-code documentation, but technician field reports consistently identify this code as a stuck cancel key or membrane keypad fault.
 
 Because the control interprets the cancel button as always pressed, the oven may refuse to start a cook cycle, cancel programs immediately, or lock out other functions. The fault usually lies in the touch panel assembly itself rather than the main control board, though wiring and connector issues between the two can also trigger the code.
@@ -26,8 +25,6 @@ Because the control interprets the cancel button as always pressed, the oven may
 ## Before You Replace Anything
 
 Many people replace the main control board first, but F125 is almost always a keypad or wiring fault. Inspect and clean the control panel and check all ribbon connectors before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

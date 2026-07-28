@@ -12,8 +12,7 @@ tags:
   - furnace
 ---
 
-## York Furnace Error Code E5 — What It Means
-
+## What this code means
 York furnace error code **E5** indicates a **high-limit switch trip** — the furnace's primary safety control detected that the heat exchanger temperature exceeded the safe operating limit and opened the circuit to shut down the gas valve. On York furnaces, the high-limit switch is a normally-closed temperature-sensitive switch mounted on or near the heat exchanger. When it reaches its trip temperature (typically 150–190°F depending on the model), it opens and the furnace shuts off.
 
 E5 appears on York TM9V, TG9S, YP9C, YG9S, and compatible Johnson Controls OEM furnaces (Luxaire, Heil, Tempstar share the same codes).
@@ -53,18 +52,3 @@ After fixing the root cause, the high-limit switch typically auto-resets once th
 
 ## When to Call a Pro
 Any suspicion of a cracked heat exchanger requires immediate professional inspection. Carbon monoxide can enter the conditioned airspace through a cracked heat exchanger — install a CO detector near the furnace if you don't already have one.
-
-## Related Articles
-
-- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
-- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)
-- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
-- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
-- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
-
-## See Also
-
-- [York Furnace Error Code E2: Pressure Switch Fault Causes and Fix](/posts/york-furnace-e2-pressure-switch/)
-- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
-- [York YZV Heat Pump Error Codes - Variable Speed Fault Diagnostics](/posts/york-yzv-heat-pump-error-codes/)
-- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)

@@ -13,11 +13,8 @@ money_part: "Fieldbus communication cable"
 most_likely_cause: "Loss of communication from the master controller"
 ---
 
-## Danfoss FC302 Alarm 17 — What It Means
-
+## What this code means
 Alarm 17 on the Danfoss VLT AutomationDrive FC302 indicates a standard bus timeout or control word timeout. This means the drive has stopped receiving the expected control word or communication signal from the master controller over the serial fieldbus or control interface within the configured timeout period. The alarm triggers when communication is lost, and depending on how parameter 8-04 is set, the drive may ramp down and trip or just display a warning. This fault only appears when the drive is configured to monitor the communication link and the timeout function is active.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ Alarm 17 on the Danfoss VLT AutomationDrive FC302 indicates a standard bus timeo
 ## When to Call a Pro
 
 Call a qualified technician or automation integrator if you are not familiar with fieldbus wiring, PLC programming, or drive parameter configuration. If you have verified all cable connections and master controller outputs are correct but the alarm persists, the drive may require internal board replacement or advanced diagnostics that need manufacturer support. Also consult a professional if you work in a facility where communication network changes must be coordinated with other equipment or safety interlocks, or if the drive is part of a larger SCADA or DCS system.
-
-## See Also
-
-- [Danfoss FC302 Complete Fault Code Guide — All Faults and Fixes](/posts/danfoss-fc302-complete-guide/)
-- [Danfoss FC102 VLT HVAC Drive Fault Codes — Complete Diagnostic Reference](/posts/danfoss-fc102-fault-codes/)
-- [Danfoss VFD Fault UL — Causes & Fix](/posts/danfoss-vfd-fault-ul/)
-- [Danfoss VFD Fault Codes — FC301, FC302, FC102 Reference](/posts/danfoss-vfd-fault-codes/)

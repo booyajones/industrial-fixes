@@ -53,15 +53,15 @@ Common failure points are tight bends where the hose exits the cabinet, loose or
 
 If this part is failing you may also see one of these codes:
 
-- [Ge Dishwasher C1 error code](/posts/ge-dishwasher-c1-error-code/)
-- [Ge Dishwasher C2 error code](/posts/ge-dishwasher-c2-error-code/)
-- [Ge Dishwasher C3 error code](/posts/ge-dishwasher-c3-error-code/)
-- [Ge Dishwasher C4 error code](/posts/ge-dishwasher-c4-error-code/)
-- [Ge Dishwasher C5 error code](/posts/ge-dishwasher-c5-error-code/)
-- [Ge Dishwasher C6 error code](/posts/ge-dishwasher-c6-error-code/)
-- [Ge Dishwasher C7 error code](/posts/ge-dishwasher-c7-error-code/)
-- [Ge Dishwasher C8 error code](/posts/ge-dishwasher-c8-error-code/)
-- [Ge Dishwasher Ef error code](/posts/ge-dishwasher-ef-error-code/)
+- Ge Dishwasher C1 error code
+- Ge Dishwasher C2 error code
+- Ge Dishwasher C3 error code
+- Ge Dishwasher C4 error code
+- Ge Dishwasher C5 error code
+- Ge Dishwasher C6 error code
+- Ge Dishwasher C7 error code
+- Ge Dishwasher C8 error code
+- Ge Dishwasher Ef error code
 - [Ge Dishwasher F56 error code](/posts/ge-dishwasher-f56-error-code/)
 
 ## When to Call a Pro

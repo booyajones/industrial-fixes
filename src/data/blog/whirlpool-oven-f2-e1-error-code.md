@@ -17,8 +17,7 @@ money_part: "Whirlpool User Interface / Touchpad Assembly"
 part_price: "$50-150"
 ---
 
-## Whirlpool Oven F2 E1 Error — What It Means
-
+## What this code means
 F2 E1 on a Whirlpool range or oven indicates a problem with the user interface (keypad or touchpad), the main control board, or the wiring between them. This is a communication-type fault, not a heating or sensor issue. It means the control cannot read the keypad correctly or detects a stuck, nonresponsive, or contaminated key.
 
 Whirlpool's published guidance treats F2 E1 as a keypad/control signal problem. Common triggers include food or water residue on the touchpad, a loose or corroded ribbon cable connector, a failed membrane keypad, or a bad control board that can no longer interpret keypad input.
@@ -26,8 +25,6 @@ Whirlpool's published guidance treats F2 E1 as a keypad/control signal problem. 
 ## Before You Replace Anything
 
 Many people replace the control board first when the real culprit is a dirty or stuck keypad or a loose ribbon connector. Clean the keypad and reseat the ribbon cable before spending on electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

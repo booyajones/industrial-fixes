@@ -17,8 +17,7 @@ money_part: "GE range keypad assembly (membrane or glass touch panel)"
 part_price: "$50-150"
 ---
 
-## GE Range F7 Error Code — What It Means
-
+## What this code means
 The F7 error code on a GE range or oven indicates a keypad or membrane switch fault. The electronic control is detecting a stuck button, multiple keys being pressed at the same time, or a short circuit in the touch panel or ribbon cable interface. This fault prevents normal operation of the oven controls.
 
 The code typically points to either a failed keypad assembly or, less commonly, a faulty main control board. Technicians isolate the two by disconnecting the keypad ribbon cable from the control board and checking whether the fault clears. If F7 disappears with the keypad unplugged, the keypad itself is the problem. If F7 remains even with the keypad disconnected, the control board has failed.
@@ -26,8 +25,6 @@ The code typically points to either a failed keypad assembly or, less commonly, 
 ## Before You Replace Anything
 
 Homeowners often replace the control board first when the real culprit is a dirty or failed keypad. Disconnect the keypad ribbon and power on the range. If the error clears, you've saved the cost of an unnecessary board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

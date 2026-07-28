@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Electrolux Washer E24 Error Code — What It Means
-
+## What this code means
 The E24 error code indicates a fault in the sensing circuit of the drain pump triac on the main control board. The triac is the electronic switch that powers the drain pump, and the board uses an internal sensor to monitor whether the triac is working correctly. When the board detects a mismatch between the triac status and the triac sensing signal, it throws E24. This is an electronic control fault, not a mechanical drain problem. The board cannot reliably command the drain pump or verify its operation even if the pump itself is physically intact.
 
 While the code points to internal board circuitry, the fault can originate from a failed triac component on the board, damaged wiring between the board and pump, or rarely from a pump that is mechanically jammed and drawing abnormal current. E24 is distinct from E21, which signals a long pump-out time due to blockage. E24 is almost always an electrical issue requiring board or wiring repair.
@@ -26,8 +25,6 @@ While the code points to internal board circuitry, the fault can originate from 
 ## Before You Replace Anything
 
 Many people replace the drain pump first because the code mentions the pump. Test wiring continuity and check for mechanical blockage before buying a new pump. If the pump spins freely and the wiring is intact, the board is the real problem.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

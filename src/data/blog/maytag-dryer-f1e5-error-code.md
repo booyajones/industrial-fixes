@@ -17,8 +17,7 @@ money_part: "Main control board"
 part_price: "$50-200"
 ---
 
-## Maytag Dryer F1E5 Error Code — What It Means
-
+## What this code means
 The F1E5 error code on a Maytag dryer indicates a component communication fault between the user interface control panel and the main electronic control board. This is not a heating system problem, thermal fuse issue, or vent blockage. The code means the two control boards cannot exchange signals properly, either because of a wiring problem, a connector issue, or a failure in one of the boards themselves.
 
 Because Maytag and Whirlpool use model-specific error codes, always verify the code definition in your owner's manual or on the wiring diagram for your exact model number. Many online sources incorrectly describe F1E5 as a heating or inverter fault, but Maytag's own documentation confirms this code points to control communication only.
@@ -26,8 +25,6 @@ Because Maytag and Whirlpool use model-specific error codes, always verify the c
 ## Before You Replace Anything
 
 Many people replace the main control board or user interface first without checking the wiring. Inspect and reseat all connectors between the boards before buying any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

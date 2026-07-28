@@ -19,8 +19,6 @@ When your GE microwave buttons stop responding, the control panel is not registe
 
 If the display is completely dead, the problem is usually a tripped breaker or blown house fuse rather than a failed internal component. If the display is lit but buttons do not work, the fault is in the keypad membrane, its ribbon cable connection, or the main control board.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Incomplete program sequence or delay-start enabled** The microwave may be waiting for a delayed cook time or a program that was entered but never started, leaving the panel unresponsive to new input.
@@ -54,14 +52,14 @@ If the display is completely dead, the problem is usually a tripped breaker or b
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Ge Microwave F1 error code](/posts/ge-microwave-f1-error-code/)
-- [Ge Microwave F10 error code](/posts/ge-microwave-f10-error-code/)
-- [Ge Microwave F2 error code](/posts/ge-microwave-f2-error-code/)
-- [Ge Microwave F3 error code](/posts/ge-microwave-f3-error-code/)
-- [Ge Microwave F4 error code](/posts/ge-microwave-f4-error-code/)
-- [Ge Microwave F5 error code](/posts/ge-microwave-f5-error-code/)
-- [Ge Microwave F6 error code](/posts/ge-microwave-f6-error-code/)
-- [Ge Microwave Pf error code](/posts/ge-microwave-pf-error-code/)
+- Ge Microwave F1 error code
+- Ge Microwave F10 error code
+- Ge Microwave F2 error code
+- Ge Microwave F3 error code
+- Ge Microwave F4 error code
+- Ge Microwave F5 error code
+- Ge Microwave F6 error code
+- Ge Microwave Pf error code
 
 ## When to Call a Pro
 

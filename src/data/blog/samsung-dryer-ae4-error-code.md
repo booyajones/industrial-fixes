@@ -17,8 +17,7 @@ money_part: "Samsung dryer main control board"
 part_price: "$80-180"
 ---
 
-## Samsung Dryer AE4 Error Code — What It Means
-
+## What this code means
 The AE4 code on a Samsung dryer signals a communication problem between internal control components. This is not a temperature, airflow, or door latch fault. The main control board, user interface, or associated wiring is failing to exchange data correctly. Samsung support identifies AE4 as an internal parts communication error, often grouped with similar codes like AE, AE3, AE5, EEE, Et, and AC that all point to electronic components unable to talk to each other.
 
 The fault may appear at power-up, when starting a cycle, or mid-cycle. Timing helps narrow down whether the issue is a temporary glitch, a loose connector, or a failed board. Because communication errors can stem from either bad electronics or poor connections, both wiring integrity and control board health must be checked before replacing parts.
@@ -26,8 +25,6 @@ The fault may appear at power-up, when starting a cycle, or mid-cycle. Timing he
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first without checking connectors. Reseat every harness plug in the control compartment and run a test cycle before ordering a board, since loose or oxidized pins cause many AE4 codes.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

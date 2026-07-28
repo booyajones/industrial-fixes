@@ -19,8 +19,7 @@ free_checks:
   - "Verify the sensor clip is firmly seated on the middle of the horizontal copper inlet pipe"
 ---
 
-## Bosch Tankless A4 Error — What It Means
-
+## What this code means
 The A4 error code on a Bosch tankless water heater indicates a backflow temperature sensor defect. This sensor monitors the temperature of incoming water at the inlet pipe. The error trips when the sensor is disconnected, has a short circuit, or is electrically faulty (open circuit).
 
 The backflow sensor is typically located on the lower-left corner of the unit, clipped to the horizontal copper inlet pipe. Two red wires connect it to the control board. When the sensor cannot send a valid signal, the unit shuts down to protect itself and displays A4.
@@ -28,8 +27,6 @@ The backflow sensor is typically located on the lower-left corner of the unit, c
 ## Before You Replace Anything
 
 Homeowners sometimes replace the sensor itself when the real problem is a loose wire connector or poor contact between the sensor clip and the copper pipe. Always check connections and sensor seating before ordering a new sensor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

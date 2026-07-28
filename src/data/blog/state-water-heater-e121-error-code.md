@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## State Water Heater E121 Error — What It Means
-
+## What this code means
 Code E121 on a State tankless water heater (which uses A.O. Smith technology) indicates an ignition failure. The control system attempted to ignite the burner three times but detected no flame within the preset ignition window. The unit then enters a safety lockout to prevent unsafe conditions.
 
 This lockout is a protective measure. The heater will not fire again until you resolve the underlying issue and manually reset the system by turning off the gas and water supply, waiting five seconds, and turning both back on.
@@ -29,8 +28,6 @@ This lockout is a protective measure. The heater will not fire again until you r
 ## Before You Replace Anything
 
 Homeowners often assume the gas control valve has failed and replace it first. Before ordering that expensive part, check the air intake screens for lint or spider nests and verify the gas line size is at least ¾ inch to the unit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

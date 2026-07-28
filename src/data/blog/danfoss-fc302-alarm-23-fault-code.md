@@ -13,11 +13,8 @@ money_part: "Danfoss FC 302 internal cooling fan assembly"
 most_likely_cause: "Fan not spinning or mechanically failed"
 ---
 
-## Danfoss FC302 Alarm 23 — What It Means
-
+## What this code means
 Alarm 23 on the Danfoss FC 302 drive signals an internal fan fault or warning. The drive monitors whether the internal cooling fan is running and mounted correctly. On units with DC fans, the drive expects a feedback sensor signal from the fan. If the fan is commanded to run but no feedback is received, the alarm appears. On units with AC fans, the drive monitors the fan supply voltage instead of a feedback sensor. The alarm can also appear if the fan is not properly mounted or connected, even if the fan itself is functional.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ Alarm 23 on the Danfoss FC 302 drive signals an internal fan fault or warning. T
 ## When to Call a Pro
 
 Call a qualified technician or Danfoss service partner if you are not comfortable working inside the drive enclosure, if the fan and sensor both test good but the alarm persists, or if you suspect a control card fault. Drives operate at dangerous voltages and improper work can damage the unit or void warranties. A technician can trace the fan feedback circuit, verify control card operation, and safely replace internal components. If your drive is under warranty or part of a larger automated system, professional service is the safer choice to avoid unintended downtime or integration issues.
-
-## See Also
-
-- [Danfoss FC302 ALARM 26 - Causes & Fix](/posts/danfoss-fc302-alarm-26-fault-code/)
-- [Danfoss VFD Fault E-Trip — Causes & Fix](/posts/danfoss-vfd-fault-e-trip/)
-- [Danfoss FC-302 Alarm 13 — DC Link Overvoltage Fix](/posts/danfoss-fc302-alarm-13/)
-- [Danfoss FC302 Alarm 21 - Causes & Fix](/posts/danfoss-fc302-alarm-21-fault-code/)

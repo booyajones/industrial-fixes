@@ -19,8 +19,6 @@ When your Bosch washer won't spin, the machine is usually stopping the spin phas
 
 The most common fault codes associated with this symptom are E43 (imbalance detected by the control system), E13 or E18 (drain filter or drainage-related faults that prevent spin from starting), and F21 or E32 (motor faults that typically require professional repair). In many cases, no error code will display and the washer simply refuses to enter or complete the spin cycle.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Unbalanced load** The most common cause of spin failure is laundry bunched to one side or a single heavy item (like a rug or comforter) that the control system cannot balance.
@@ -53,14 +51,14 @@ The most common fault codes associated with this symptom are E43 (imbalance dete
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Bosch Washer E15 error code](/posts/bosch-washer-e15-error-code/)
+- Bosch Washer E15 error code
 - [Bosch Washer E16 error code](/posts/bosch-washer-e16-error-code/)
 - [Bosch Washer E17 error code](/posts/bosch-washer-e17-error-code/)
 - [Bosch Washer E18 error code](/posts/bosch-washer-e18-error-code/)
 - [Bosch Washer E19 error code](/posts/bosch-washer-e19-error-code/)
 - [Bosch Washer E20 error code](/posts/bosch-washer-e20-error-code/)
-- [Bosch Washer E21 error code](/posts/bosch-washer-e21-error-code/)
-- [Bosch Washer E22 error code](/posts/bosch-washer-e22-error-code/)
+- Bosch Washer E21 error code
+- Bosch Washer E22 error code
 - [Bosch Washer E23 error code](/posts/bosch-washer-e23-error-code/)
 - [Bosch Washer E24 error code](/posts/bosch-washer-e24-error-code/)
 - [Bosch Washer E25 error code](/posts/bosch-washer-e25-error-code/)

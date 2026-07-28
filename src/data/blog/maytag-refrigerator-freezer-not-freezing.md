@@ -19,8 +19,6 @@ A Maytag freezer that won't freeze means the compartment isn't reaching or holdi
 
 The refrigerator section may also run warm if cold air can't circulate from the freezer. In other cases the compressor may be running but the system can't reject heat because the condenser coils are clogged or the condenser fan has stopped. Heavy frost on the evaporator coil can block airflow and prevent freezing even when the compressor cycles normally.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Blocked air vents or overpacked shelves** Food stacked against the vents or overpacked freezer prevents cold air from circulating, which Maytag lists as a top cause.
@@ -55,18 +53,18 @@ The refrigerator section may also run warm if cold air can't circulate from the 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Maytag Refrigerator C1 error code](/posts/maytag-refrigerator-c1-error-code/)
-- [Maytag Refrigerator C2 error code](/posts/maytag-refrigerator-c2-error-code/)
-- [Maytag Refrigerator C3 error code](/posts/maytag-refrigerator-c3-error-code/)
-- [Maytag Refrigerator C4 error code](/posts/maytag-refrigerator-c4-error-code/)
+- Maytag Refrigerator C1 error code
+- Maytag Refrigerator C2 error code
+- Maytag Refrigerator C3 error code
+- Maytag Refrigerator C4 error code
 - [Maytag Refrigerator C5 error code](/posts/maytag-refrigerator-c5-error-code/)
-- [Maytag Refrigerator C6 error code](/posts/maytag-refrigerator-c6-error-code/)
-- [Maytag Refrigerator C7 error code](/posts/maytag-refrigerator-c7-error-code/)
-- [Maytag Refrigerator De error code](/posts/maytag-refrigerator-de-error-code/)
-- [Maytag Refrigerator Dr error code](/posts/maytag-refrigerator-dr-error-code/)
-- [Maytag Refrigerator Ff error code](/posts/maytag-refrigerator-ff-error-code/)
+- Maytag Refrigerator C6 error code
+- Maytag Refrigerator C7 error code
+- Maytag Refrigerator De error code
+- Maytag Refrigerator Dr error code
+- Maytag Refrigerator Ff error code
 - [Maytag Refrigerator Po error code](/posts/maytag-refrigerator-po-error-code/)
-- [Maytag Refrigerator Sa error code](/posts/maytag-refrigerator-sa-error-code/)
+- Maytag Refrigerator Sa error code
 
 ## When to Call a Pro
 

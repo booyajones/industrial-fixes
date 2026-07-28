@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Samsung microwave temperature sensor / thermistor"
 ---
 
-## Samsung Microwave E-25 Error — What It Means
-
+## What this code means
 Samsung microwave error code E-25 stands for Micro Cook Abnormal Temperature Error. This code appears when the control board detects an unusual temperature reading during cooking operation. The fault may come from the temperature sensor circuit itself, from blocked ventilation that lets the cavity overheat, or from a control board that misreads sensor input.
 
 Samsung's published guidance for E-25 is to perform a power reset and contact service if the code returns. The company does not publish a detailed list of root causes in consumer documentation, so the specific component responsible must be determined by testing the sensor circuit, airflow path, and control board in that order.
@@ -25,8 +24,6 @@ Samsung's published guidance for E-25 is to perform a power reset and contact se
 ## Before You Replace Anything
 
 Many people replace the main control board first. Test the temperature sensor for open or short circuits and check all connectors before ordering expensive boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

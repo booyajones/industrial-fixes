@@ -20,8 +20,6 @@ When your Samsung oven's self-clean cycle won't start or stops partway through, 
 
 If the oven won't start at all, the control sees an invalid condition from the lock system, a sensor, or the board itself. If the cycle starts and then aborts, you're typically looking at a lock system fault, a temperature-sensing problem, or a control-board fault that shuts down the self-clean logic for safety.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed door lock motor assembly or latch mechanism** The motor that drives the latch can fail electrically or bind mechanically, preventing the door from locking and the cycle from starting.
@@ -55,18 +53,18 @@ If the oven won't start at all, the control sees an invalid condition from the l
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Samsung Oven 5E error code](/posts/samsung-oven-5e-error-code/)
-- [Samsung Oven C 20 error code](/posts/samsung-oven-c-20-error-code/)
-- [Samsung Oven C 21 error code](/posts/samsung-oven-c-21-error-code/)
-- [Samsung Oven C 22 error code](/posts/samsung-oven-c-22-error-code/)
-- [Samsung Oven C 23 error code](/posts/samsung-oven-c-23-error-code/)
-- [Samsung Oven C 24 error code](/posts/samsung-oven-c-24-error-code/)
-- [Samsung Oven C D0 error code](/posts/samsung-oven-c-d0-error-code/)
-- [Samsung Oven C D1 error code](/posts/samsung-oven-c-d1-error-code/)
-- [Samsung Oven C F0 error code](/posts/samsung-oven-c-f0-error-code/)
+- Samsung Oven 5E error code
+- Samsung Oven C 20 error code
+- Samsung Oven C 21 error code
+- Samsung Oven C 22 error code
+- Samsung Oven C 23 error code
+- Samsung Oven C 24 error code
+- Samsung Oven C D0 error code
+- Samsung Oven C D1 error code
+- Samsung Oven C F0 error code
 - [Samsung Oven E 08 error code](/posts/samsung-oven-e-08-error-code/)
 - [Samsung Oven E 27 error code](/posts/samsung-oven-e-27-error-code/)
-- [Samsung Oven E 28 error code](/posts/samsung-oven-e-28-error-code/)
+- Samsung Oven E 28 error code
 
 ## When to Call a Pro
 

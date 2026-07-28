@@ -17,8 +17,7 @@ money_part: "LG dryer lint filter assembly"
 part_price: "$10-30"
 ---
 
-## LG Dryer F0 Error Code — What It Means
-
+## What this code means
 The F0 (or FO) error code on an LG dryer indicates that the lint filter is out, not fully inserted, or not detected in the filter housing. LG's current support documentation confirms this code appears when the dryer's sensor cannot confirm the filter is in place. The dryer will not start or will stop mid-cycle until the filter is correctly installed and detected.
 
 This is almost always a mechanical issue rather than an electronic fault. The filter may be missing, inserted backwards, not pushed all the way in, or blocked by lint buildup in the cavity. Occasionally the sensor itself is dirty or has failed, but cleaning and reseating the filter resolves the vast majority of F0 codes.
@@ -26,8 +25,6 @@ This is almost always a mechanical issue rather than an electronic fault. The fi
 ## Before You Replace Anything
 
 Homeowners sometimes suspect a failed control board and order expensive electronics. Before replacing any part, remove the filter, wipe out the cavity with a damp cloth, let it dry, and firmly reseat the filter. This clears most F0 codes at zero cost.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a technician if the F0 code persists after you have cleaned the filter and housing, confirmed the filter is fully seated, and performed a power reset. The filter-detection sensor or its wiring may have failed. A pro can test the sensor circuit and replace the sensor or harness as needed. Also call for service if the filter housing itself is cracked or the filter will not insert fully despite being undamaged, since that may require disassembly or replacement of the housing assembly.
 
 **Rough cost:** DIY runs about $10-30 in parts (if filter or housing is damaged), 10-20 min. A pro service call runs about $100-200 service call (if sensor or harness replacement is needed).
-
-## See Also
-
-- [LG Oven Temperature Not Accurate - Causes & Fix](/posts/lg-oven-temperature-not-accurate/)
-- [LG Refrigerator Light Not Working - Causes & Fix](/posts/lg-refrigerator-light-not-working/)
-- [LG Washer Burning Smell - Causes & Fix](/posts/lg-washer-burning-smell/)
-- [LG Refrigerator EIU Error Code - Causes & Fix](/posts/lg-refrigerator-eiu-error-code/)

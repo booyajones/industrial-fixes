@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "Communications cable (serial or network)"
 ---
 
-## Yaskawa GA800 E55 Fault — What It Means
-
+## What this code means
 The E55 fault on a Yaskawa GA800 variable frequency drive indicates a serial communication transmission error. The drive has detected a problem with the communication path and cannot see valid serial data. This is not a motor overload or input power issue. Instead, the fault points to a physical wiring or connection integrity problem on the serial communication cable itself.
 
 Yaskawa's documentation identifies three primary triggers for this code: incorrect wiring of the communications cable, a short circuit somewhere in that cable, or a disconnected or open cable. In practice, this means you are looking for a bad connection, a damaged wire, or terminals that have been swapped or miswired during installation or maintenance.
@@ -24,8 +23,6 @@ Yaskawa's documentation identifies three primary triggers for this code: incorre
 ## Before You Replace Anything
 
 Technicians sometimes replace the communication option card or control board first. Always inspect and verify the physical communications cable wiring, terminations, and continuity before swapping boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial controls technician or Yaskawa-certified service provider if you are not trained to work on VFD communication systems, if the fault persists after verifying and replacing the cable, or if you suspect the drive control board or option card has failed. The GA800 troubleshooting manual emphasizes limited field repair beyond specific replaceable components, and Yaskawa support should be consulted for board-level diagnostics or firmware-related communication issues. Do not attempt to modify communication parameters or replace internal boards unless you have the proper training and access to Yaskawa's elementary diagrams and service documentation.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Yaskawa GA800 E19 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e19-fault-code/)
-- [Yaskawa GA800 A.129 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-129-fault-code/)
-- [Yaskawa A1000 AL-14 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-14-fault-code/)
-- [Yaskawa GA800 E93 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e93-fault-code/)

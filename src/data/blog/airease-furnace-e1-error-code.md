@@ -13,11 +13,8 @@ money_part: "Hot surface igniter"
 most_likely_cause: "Failed or cracked hot surface igniter"
 ---
 
-## AirEase Furnace E1 Error Code — What It Means
-
+## What this code means
 E1 on an AirEase furnace indicates a system lockout — the furnace attempted the ignition and startup sequence multiple times and failed, ultimately locking out for safety. AirEase is a Lennox-manufactured brand (sold through independent dealers) and uses the same control board logic as Lennox, Armstrong, and Ducane furnaces. The E1 lockout code is a catch-all that covers failed ignition, flame sensor problems, and pressure switch faults depending on the specific model and how many retries were attempted.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,11 +43,3 @@ E1 on an AirEase furnace indicates a system lockout — the furnace attempted th
 ## When to Call a Pro
 
 If the furnace re-locks within a day or two of clearing, or if gas pressure measurement or valve replacement is needed, contact a licensed technician. Persistent lockouts often indicate a failing heat exchanger or control board.
-
-## Related Articles
-
-- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
-- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
-- [Armstrong Furnace E4 Error Code — Causes & Fix](/posts/armstrong-furnace-e4-error-code/)

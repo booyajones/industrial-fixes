@@ -17,8 +17,7 @@ money_part: "Drain hose"
 part_price: "$10-40"
 ---
 
-## GE Dishwasher C2 Error Code — What It Means
-
+## What this code means
 The C2 error code on a GE dishwasher indicates that the total pump-out cycle exceeded 7 minutes. This is a drain-time fault. The dishwasher attempted to evacuate water at the end of the cycle but could not complete the task within the allowed window. GE's guidance is to press RESET to stop the beeping. If the code returns on the next cycle, a service diagnosis is needed to identify the restriction in the drain path.
 
 The fault does not mean the drain pump has failed outright. Instead, it signals that something is slowing or blocking water evacuation. Common causes include a clogged drain hose, a blocked air gap, a partially obstructed garbage-disposer connection (often a knockout plug left in place during installation), debris in the sump or filter area, or a drain pump that is weak or obstructed. The technician's job is to work through the drain path systematically until the restriction is found.
@@ -26,8 +25,6 @@ The fault does not mean the drain pump has failed outright. Instead, it signals 
 ## Before You Replace Anything
 
 Homeowners often replace the drain pump assembly without first checking the air gap, hose, and disposer inlet. Clear the external drain path before ordering any pump parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

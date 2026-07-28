@@ -22,15 +22,12 @@ part_price: "$30-70"
 no_buy_pct: "25%"
 ---
 
-## Kenmore Dishwasher F6E1 Error — What It Means
-
+## What this code means
 On Kenmore 665-series dishwashers (Whirlpool-built platform), F6E1 indicates an electrical fault in the water inlet valve circuit. The control board commands the inlet valve to open but does not see the expected electrical current response. This can point to an open coil in the valve, broken wiring, a bad connector, or a failed control board output. Whirlpool and KitchenAid documentation also describes F6E1 more generally as the product being unable to start or resume cycles, so verify your exact model prefix before finalizing the diagnosis. If a cycle was already running, it may finish, but a new cycle will not start.
 
 ## Before You Replace Anything
 
 Many owners replace the control board first, but testing the inlet valve coil resistance (should read roughly 500–1500 ohms) and inspecting wiring connections will identify the real cause in most cases.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -56,18 +56,3 @@ PXC hardware faults indicate a failed processor module, power supply, or flash m
 | Temperature sensor (QAP) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-siemens-desigo-fault-codes&tag=errorcodefixes-20) \| Replace on sensor fault |
 ## When to Call a Pro
 Desigo CC database configuration, PXC programming with XWORKSplus, and network integration require Siemens-trained personnel. Incorrect configuration changes can affect entire building zones simultaneously.
-
-## Related Articles
-
-- [Siemens Sinumerik 828D Alarm Codes Guide — Complete Diagnostic Reference](/posts/siemens-828d-alarm-codes/)
-- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
-- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)
-- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)
-- [Siemens G120C VFD Fault Code Guide — Complete Diagnostic Reference](/posts/siemens-g120c-fault-codes/)
-
-## See Also
-
-- [Siemens Sinumerik Alarm 380500 — Causes & Fix](/posts/siemens-sinumerik-alarm-380500/)
-- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
-- [Siemens SINAMICS G120 F30002 Fault — DC Link Overvoltage Fix](/posts/siemens-sinamics-f30002-fault/)
-- [Siemens Micromaster 440 Fault F002 — Overcurrent](/posts/siemens-micromaster-440-fault-f002/)

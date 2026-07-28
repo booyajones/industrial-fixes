@@ -17,8 +17,7 @@ free_checks:
   - "Check that the room thermostat is calling for heat and that no manual reset limits have tripped."
 ---
 
-## Weil-McLain A135 Error Code — What It Means
-
+## What this code means
 The A135 code is not documented in available Weil-McLain manufacturer materials and appears to be a model-specific fault designation. Different Weil-McLain boiler series and control boards use different fault-code tables, so A135 may indicate a unique safety or limit circuit issue depending on your exact model and control module. Weil-McLain controls generally monitor the room thermostat call, air pressure switch, boiler limit circuit, and ignition safety chain. A fault in any of those inputs can trigger a lockout code, but the specific meaning of A135 cannot be confirmed without the service manual for your boiler's control.
 
 Because the code definition is model-dependent, the safest diagnostic path is to record the exact boiler model number and control display, pull the fault history from the control panel, and verify each safety circuit in sequence. Attempting to clear the code or replace parts without identifying the active fault circuit can waste time and money. If you lack the service manual, contact a licensed technician who can cross-reference the code against the manufacturer's fault table for your control.
@@ -26,8 +25,6 @@ Because the code definition is model-dependent, the safest diagnostic path is to
 ## Before You Replace Anything
 
 Some homeowners replace the control board when A135 appears, but the code often points to a failed safety switch, wiring fault, or mechanical issue. Pull the fault history and test the safety chain before swapping the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you cannot locate the service manual for your control module, if the fault history shows multiple codes you do not understand, or if testing the safety chain requires working with gas piping, flame-proving circuits, or high-voltage ignition components. Gas boiler diagnostics demand specific tools (manometer, combustion analyzer, multimeter) and knowledge of the control logic. A technician can pull the full fault log, cross-reference A135 against the manufacturer fault table, and test each input circuit safely. Misdiagnosing the fault and replacing the wrong part wastes money and leaves the underlying safety issue unresolved.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain Boiler A127 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a127-error-code/)
-- [Weil-McLain Boiler A169 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a169-error-code/)
-- [Weil-McLain Boiler A173 Error - Causes & Fix](/posts/weil-mclain-boiler-a173-error-code/)
-- [Weil-McLain A159 Error - Causes & Fix](/posts/weil-mclain-boiler-a159-error-code/)

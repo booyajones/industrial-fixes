@@ -22,8 +22,7 @@ part_price: "$30-70"
 no_buy_pct: "65%"
 ---
 
-## Kenmore Dishwasher F8E1 Error Code — What It Means
-
+## What this code means
 On Kenmore dishwashers, F8E1 (also displayed as 8-1) is a drain fault. The control board is detecting slow drainage or no drainage during the drain portion of the cycle. This is not a fill or inlet-water issue. The code typically appears when water remains in the tub longer than expected during the drain phase.
 
 The control expects the pump to empty the tub within a set window. When the drain takes too long or water is still present after the drain cycle, the code is triggered and the cycle stops. Focus your diagnostic work on the drain path, drain pump, pump wiring, and anything that restricts water leaving the machine.
@@ -31,8 +30,6 @@ The control expects the pump to empty the tub within a set window. When the drai
 ## Before You Replace Anything
 
 Many people replace the main control board first, thinking it is a sensor or logic fault. Check and clear the drain hose and pump assembly before replacing any electronic parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

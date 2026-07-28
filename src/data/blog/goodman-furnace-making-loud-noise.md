@@ -20,8 +20,6 @@ A Goodman furnace making loud noise is not a specific fault code. It is a sympto
 
 If your furnace is flashing 8 times, Goodman identifies this as an igniter relay fault or shorted hot surface igniter, often caused by open or insufficient grounding. If it is flashing 3 times, that indicates a pressure switch problem, commonly from blocked venting, condensate drain issues, or inducer motor trouble. Without observing the blink pattern, you are chasing a symptom rather than the root fault.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged air filter** A dirty filter causes whistling, low humming, and reduced airflow, forcing the blower to work harder and make abnormal noise.
@@ -61,17 +59,10 @@ If your appliance also shows a code on the display, these match this problem:
 - [Goodman Furnace 5 Flash error code](/posts/goodman-furnace-5-flash-error-code/)
 - [Goodman Furnace E1 error code](/posts/goodman-furnace-e1-error-code/)
 - [Goodman Furnace E2 error code](/posts/goodman-furnace-e2-error-code/)
-- [Goodman Furnace E3 error code](/posts/goodman-furnace-e3-error-code/)
+- Goodman Furnace E3 error code
 - [Goodman Furnace Ee2 error code](/posts/goodman-furnace-ee2-error-code/)
 - [Goodman Furnace Ef error code](/posts/goodman-furnace-ef-error-code/)
 
 ## When to Call a Pro
 
 Call a technician for any work involving the burner assembly, gas valve, igniter replacement, or inducer motor repair. If the furnace is flashing a fault code and the noise is paired with no heat or repeated shutdowns, a pro should diagnose the exact cause with a manometer and CO meter. If you have checked the filter, vents, and intake/exhaust piping and the noise continues, a technician can safely inspect the blower wheel, inducer assembly, pressure-switch operation, and all ground connections to prevent further damage or unsafe operation. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Goodman Furnace 4 Flashes - Causes & Fix](/posts/goodman-furnace-4-flashes-error-code/)
-- [Goodman 6 Flash Error Code — Rollout Switch Open Fix](/posts/goodman-6-flash-error-code/)
-- [Goodman d0 Error Code - Causes & Fix](/posts/goodman-heat-pump-d0-error-code/)
-- [Goodman Furnace 2 Flashes - Causes & Fix](/posts/goodman-furnace-2-flashes-error-code/)

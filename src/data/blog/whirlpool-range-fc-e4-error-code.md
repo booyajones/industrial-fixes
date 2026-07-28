@@ -16,8 +16,7 @@ money_part: "Whirlpool wall oven Wi-Fi antenna module"
 part_price: "$30-80"
 ---
 
-## Whirlpool FC E4 Error Code — What It Means
-
+## What this code means
 FC E4 is a fault code specific to Whirlpool wall ovens. According to the manufacturer, it indicates a problem with the Wi-Fi antenna or its associated wiring. This code does not appear in broad Whirlpool documentation for other appliances, so if you see FC E4 on a dishwasher, washer, or dryer, consult your owner's manual to confirm the exact meaning for your model. The code does not affect cooking functions directly, but it means the oven's wireless connectivity system has detected a communication failure with the antenna hardware.
 
 In most cases the fault is triggered by a loose connector, damaged wiring harness, or a temporary glitch in the Wi-Fi module. Whirlpool's first recommended action is a full power reset, which clears transient faults. If the code persists after the reset, physical inspection of the antenna and its wiring is required.
@@ -25,8 +24,6 @@ In most cases the fault is triggered by a loose connector, damaged wiring harnes
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main electronic control board thinking it is the source of any error code. Before ordering a new board, verify that the Wi-Fi antenna connector is seated and the wiring harness shows no cuts or pinch damage, which accounts for the majority of FC E4 faults.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

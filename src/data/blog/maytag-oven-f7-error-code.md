@@ -17,8 +17,7 @@ money_part: "Touchpad / Keypad / Control Panel Assembly"
 part_price: "$50-150"
 ---
 
-## Maytag Oven F7 Error Code — What It Means
-
+## What this code means
 The F7 error code on a Maytag oven or range signals a keypad or touchpad fault. The electronic control detects a function key that is stuck, shorted, or sending a continuous signal. This can result from a physically stuck button, moisture or residue under the membrane, a damaged touchpad assembly, or a failure in the electronic range control (ERC) board that misreads the keypad circuit.
 
 Because Maytag uses different control platforms across models, the exact interpretation of F7 can vary. Some wall ovens use F7 E1 and other F7 variants with distinct meanings. Always check your model's tech sheet or owner's manual for the precise definition. The most common technician interpretation of a standalone F7 code is a stuck or shorted function key or a touchpad/electronic control malfunction.
@@ -26,8 +25,6 @@ Because Maytag uses different control platforms across models, the exact interpr
 ## Before You Replace Anything
 
 Homeowners often replace the expensive electronic control board first. Before ordering a board, disconnect power for one minute, then inspect the touchpad for stuck keys and check all wiring connections between the keypad and control. Many F7 faults resolve with a simple power reset or touchpad replacement.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

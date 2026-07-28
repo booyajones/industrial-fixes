@@ -16,8 +16,7 @@ likelihood: "the most common cause in dryers that display E09"
 diy_or_pro: "pro"
 ---
 
-## Electrolux Dryer E09 Error Code — What It Means
-
+## What this code means
 The E09 error code is not uniformly defined across all Electrolux dryer models, and Electrolux does not publish a single official meaning for E09 in widely available service documentation. In the broader dryer industry, E09 commonly points to a fault in the control electronics, relay circuit, or sensor feedback loop. Some sources associate similar codes with heater relay issues or control-board communication failures, but the exact definition depends on your specific Electrolux model and series. Always confirm the meaning in your dryer's service manual or wiring diagram before replacing parts.
 
 Because Electrolux uses model-specific fault codes, E09 may indicate different problems on different platforms (for example, IQ-Touch versus older mechanical-timer models). The most prudent first step is to power-cycle the dryer and verify the fault persists, then consult your model number's documentation to confirm whether E09 refers to a relay, control board, wiring harness, or sensor circuit.
@@ -25,8 +24,6 @@ Because Electrolux uses model-specific fault codes, E09 may indicate different p
 ## Before You Replace Anything
 
 Many homeowners replace the main control board immediately without testing the wiring harness and relay circuits first. Use a multimeter to verify continuity and voltage at the relay outputs and sensor connections before ordering an expensive board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

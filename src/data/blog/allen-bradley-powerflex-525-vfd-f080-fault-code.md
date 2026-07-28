@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "85%"
 ---
 
-## Allen-Bradley PowerFlex 525 F080 — What It Means
-
+## What this code means
 F080 on an Allen-Bradley PowerFlex 525 means the autotune process failed or was cancelled. The drive was unable to complete the motor autotune routine successfully. Rockwell Automation's prescribed action is to restart the procedure.
 
 This fault appears when the drive cannot learn the motor's electrical characteristics. It does not point to a specific failed component. Instead, it signals that the autotune was interrupted by the operator, the motor wiring or parameters were incorrect, or a load was present during a no-load autotune. The drive needs correct setup and a successful autotune run before it can control the motor properly.
@@ -29,8 +28,6 @@ This fault appears when the drive cannot learn the motor's electrical characteri
 ## Before You Replace Anything
 
 Technicians sometimes replace the drive itself when F080 appears repeatedly, but the fault is almost always a wiring or setup problem. Verify motor nameplate data, check every output terminal for tightness and correct phase landing, and remove the load before replacing any hardware.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or automation technician if you are not familiar with VFD wiring, motor nameplate interpretation, or the autotune menu on the PowerFlex 525. The fault requires verification of three-phase output wiring and correct parameter entry, tasks that need multimeter skills and knowledge of motor electrical characteristics. A technician will check terminal tightness, measure winding resistance, verify phase balance, and run the autotune under controlled conditions. If the fault persists after correct wiring and parameters, the technician can perform deeper drive diagnostics or contact Rockwell support to rule out a drive hardware issue.
 
 **Rough cost:** A pro service call runs about $150-400 depending on wiring corrections needed.
-
-## See Also
-
-- [Allen-Bradley PowerFlex 525 F013 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f013-fault-code/)
-- [Allen-Bradley PowerFlex 525 F041 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f041-fault-code/)
-- [Allen-Bradley PowerFlex 525 F070 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f070-fault-code/)
-- [Allen-Bradley PowerFlex 525 F005 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f005-fault-code/)

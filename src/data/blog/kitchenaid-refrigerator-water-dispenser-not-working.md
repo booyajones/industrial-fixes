@@ -19,8 +19,6 @@ When your KitchenAid refrigerator water dispenser stops working or only dribbles
 
 This is almost always a mechanical or supply issue rather than a control board problem. The most common culprits are the water filter, the supply line routing, or inadequate household water pressure. KitchenAid's own troubleshooting starts with the filter and supply checks before moving to valve or switch diagnosis.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged or improperly installed water filter** A dirty, expired, or incorrectly seated filter is the single most common reason the dispenser stops flowing or slows to a trickle.
@@ -54,14 +52,14 @@ This is almost always a mechanical or supply issue rather than a control board p
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kitchenaid Refrigerator E0 error code](/posts/kitchenaid-refrigerator-e0-error-code/)
-- [Kitchenaid Refrigerator E1 error code](/posts/kitchenaid-refrigerator-e1-error-code/)
-- [Kitchenaid Refrigerator E2 error code](/posts/kitchenaid-refrigerator-e2-error-code/)
-- [Kitchenaid Refrigerator E3 error code](/posts/kitchenaid-refrigerator-e3-error-code/)
-- [Kitchenaid Refrigerator E4 error code](/posts/kitchenaid-refrigerator-e4-error-code/)
-- [Kitchenaid Refrigerator E5 error code](/posts/kitchenaid-refrigerator-e5-error-code/)
-- [Kitchenaid Refrigerator E6 error code](/posts/kitchenaid-refrigerator-e6-error-code/)
-- [Kitchenaid Refrigerator Er error code](/posts/kitchenaid-refrigerator-er-error-code/)
+- Kitchenaid Refrigerator E0 error code
+- Kitchenaid Refrigerator E1 error code
+- Kitchenaid Refrigerator E2 error code
+- Kitchenaid Refrigerator E3 error code
+- Kitchenaid Refrigerator E4 error code
+- Kitchenaid Refrigerator E5 error code
+- Kitchenaid Refrigerator E6 error code
+- Kitchenaid Refrigerator Er error code
 
 ## When to Call a Pro
 

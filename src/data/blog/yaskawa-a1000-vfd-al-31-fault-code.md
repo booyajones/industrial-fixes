@@ -18,8 +18,7 @@ free_checks:
   - "Check the motor terminal box for loose connections or visible winding damage"
 ---
 
-## Yaskawa A1000 AL-31 Fault — What It Means
-
+## What this code means
 The fault code AL-31 does not exist in the Yaskawa A1000 VFD fault library. It is a specific fault code for Danfoss drives (FC-A series), where it indicates a missing phase on the motor output. If your Yaskawa A1000 is displaying a fault, you likely have a different code such as oFD (Output Phase Detection), oV (Overvoltage), or voF (Output Voltage Detection), which are the actual Yaskawa equivalents for output phase or voltage issues.
 
 If you are seeing an output-related fault on your A1000, the drive has detected an imbalance in the output voltage or current, or an open circuit in one of the motor output phases (U, V, W). This typically indicates a hardware failure in the inverter section, loose wiring, or a damaged motor winding.
@@ -27,8 +26,6 @@ If you are seeing an output-related fault on your A1000, the drive has detected 
 ## Before You Replace Anything
 
 Many technicians replace the entire control board first, but a simple multimeter diode check of the IGBT module (between DC bus and U, V, W terminals) will pinpoint a failed inverter section and save hundreds in unnecessary parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a qualified technician immediately if you are not trained in high-voltage DC systems. The Yaskawa A1000 DC bus holds lethal voltage (300-800 VDC depending on input) even after input power is removed, and discharge can take several minutes. Any work inside the drive enclosure requires lockout/tagout, proper PPE, and a clear understanding of capacitor discharge procedures. If you lack a multimeter, oscilloscope, or experience with IGBT testing, do not attempt this repair. A technician will safely diagnose the fault, perform diode checks, and replace the correct module without risking electric shock or further damage to the drive.
 
 **Rough cost:** A pro service call runs about $300-800.
-
-## See Also
-
-- [Yaskawa GA800 E26 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e26-fault-code/)
-- [Yaskawa GA800 E08 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e08-fault-code/)
-- [Yaskawa GA800 Er-04 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f049-fault-code/)
-- [Yaskawa GA800 E04 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e04-fault-code/)

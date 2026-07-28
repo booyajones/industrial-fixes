@@ -16,38 +16,19 @@ money_part: "Lid lock assembly"
 part_price: "$50-120"
 ---
 
-## Maytag LdL Error Code — What It Means
-
+## What this code means
 LdL on a Maytag top-load HE washer means the lid is not locking or the lid lock has failed to lock. Maytag explicitly describes it as lid lock will not lock or lid lock failure. In practice, the washer is seeing a lid-lock fault, so the machine inhibits operation. The lid-lock system is not confirming a locked lid state, preventing the cycle from starting or continuing.
 
 ## Before You Replace Anything
 
 Many owners replace the lid lock assembly immediately when the real cause is a small object, clothing tag, or soap residue physically blocking the lock strike. Always inspect and clean the lid contact area and top of the basket before ordering parts.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Items directly under the lid (~40%)** Clothing, tags, or foreign objects sit at the top of the basket or near the lid latch point, preventing full closure and lock engagement.
-- **Detergent buildup around the lid lock (~30%)** Soap residue or debris accumulates on the lid-lock strike or mechanism, blocking the lock from seating properly.
-- **Failed lid lock assembly (~20%)** The lid lock mechanism itself has failed internally and no longer confirms a locked state even when the lid closes cleanly.
-- **Objects on top of the washer (~10%)** Items placed on the lid or top panel physically prevent the lid from closing flat and level.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Does the lid close flat with no visible gap, and is the top of the washer clear of objects?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The lid is closing properly. Move on to inspect for clothing or buildup inside the lid contact area.<br><strong>No:</strong> Remove any items from the top of the washer and check the lid hinges. Test again after ensuring the lid seats fully.</div>
-</details>
-
-<details class="dtree"><summary>Can you see or feel clothing, tags, or debris at the top of the basket or around the lid lock strike?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Remove the obstruction, wipe down the lid-lock area, and retest the cycle. The code should clear if this was the only issue.<br><strong>No:</strong> The lock area is clean. The fault likely points to a failed lid lock assembly that needs replacement.</div>
-</details>
-
-<details class="dtree"><summary>After cleaning and removing obstructions, does the LdL code return when you start a new cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The lid lock assembly has likely failed internally. Schedule service or replace the lid lock mechanism.<br><strong>No:</strong> The fault was caused by an obstruction or buildup. The washer should operate normally now.</div>
-</details>
+- **Items directly under the lid** Clothing, tags, or foreign objects sit at the top of the basket or near the lid latch point, preventing full closure and lock engagement.
+- **Detergent buildup around the lid lock** Soap residue or debris accumulates on the lid-lock strike or mechanism, blocking the lock from seating properly.
+- **Failed lid lock assembly** The lid lock mechanism itself has failed internally and no longer confirms a locked state even when the lid closes cleanly.
+- **Objects on top of the washer** Items placed on the lid or top panel physically prevent the lid from closing flat and level.
 
 ## Step-by-Step Fix {#fix}
 
@@ -69,5 +50,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a professional if the LdL code persists after you have removed all obstructions and cleaned the lid-lock area thoroughly. A failed lid lock assembly requires disassembly of the top panel and disconnection of wiring harnesses, which can be difficult without service documentation. Maytag directs users to schedule service when the fault returns after basic cleaning. A technician will test the lock electrically, confirm the diagnosis, and install the correct replacement assembly for your model.
-
-**Rough cost:** DIY runs about $50–120 for a lid lock assembly if needed, 20–40 min. A pro service call runs about $150–250 for service call and lid lock replacement.

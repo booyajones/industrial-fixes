@@ -13,13 +13,10 @@ money_part: "Inlet thermistor / inlet temperature sensor"
 most_likely_cause: "Failed inlet thermistor"
 ---
 
-## A.O. Smith Tankless E20 Error — What It Means
-
+## What this code means
 The E20 code on an A.O. Smith electric tankless water heater signals that the inlet thermistor (temperature sensor) has shorted. The manufacturer's service documentation ties this fault directly to the inlet sensor and directs technicians to replace it rather than attempt a simple reset.
 
 This is not a general overheat or flow issue. It is a specific electrical fault inside the sensor or its wiring. The heater will not operate normally until the shorted component is identified and replaced.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

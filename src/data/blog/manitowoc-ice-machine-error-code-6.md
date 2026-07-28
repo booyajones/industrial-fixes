@@ -13,11 +13,8 @@ money_part: "Water inlet valve"
 most_likely_cause: "Clogged water inlet valve"
 ---
 
-## Manitowoc Ice Machine Error Code 6 — What It Means
-
+## What this code means
 Error Code 6 on a Manitowoc ice machine indicates a water fill timeout — the machine attempted to fill the water trough but didn't reach the required level within the allotted time. The control board times the fill cycle; if the float switch or probe doesn't confirm a full trough, it faults out and shuts down ice production.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Error Code 6 on a Manitowoc ice machine indicates a water fill timeout — the m
 ## When to Call a Pro
 
 If water pressure is good and the valve and probe check out, the issue may be a failed control board — board replacement requires a trained technician to program and verify the unit properly.
-
-## Related Articles
-
-- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
-- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
-- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
-- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
-- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)
-
-## See Also
-
-- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
-- [Manitowoc E02 Error Code — Long Harvest Cycle Fix](/posts/manitowoc-e02-error-code/)
-- [Manitowoc Indigo NXT Ice Machine Complete Troubleshooting Guide](/posts/manitowoc-indigo-nxt-complete-guide/)
-- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)

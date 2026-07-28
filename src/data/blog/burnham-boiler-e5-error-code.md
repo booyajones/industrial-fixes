@@ -13,11 +13,8 @@ money_part: "Supply water temperature sensor (NTC)"
 most_likely_cause: "Failed NTC thermistor"
 ---
 
-## Burnham Boiler E5 Error Code — What It Means
-
+## What this code means
 E5 on a Burnham boiler indicates a sensor fault. Depending on the specific Burnham model and control type, E5 typically points to a problem with the water temperature sensor (supply, return, or outdoor reset sensor) or the flue temperature sensor. The boiler control cannot read a valid temperature and shuts down to prevent operating without accurate feedback — which could allow the boiler to overheat or fail to meet setpoints safely.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,11 +44,3 @@ E5 on a Burnham boiler indicates a sensor fault. Depending on the specific Burnh
 ## When to Call a Pro
 
 If the replacement sensor does not clear E5 and the wiring is confirmed intact, the control board likely has a failed input. A Burnham-authorized service technician can perform a full board-level diagnostic and confirm correct replacement parts.
-
-## Related Articles
-
-- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
-- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
-- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)

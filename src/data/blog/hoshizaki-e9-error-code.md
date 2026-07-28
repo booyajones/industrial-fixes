@@ -13,11 +13,8 @@ money_part: "Evaporator thermistor (E9 sensor)"
 most_likely_cause: "Failed thermistor"
 ---
 
-## Hoshizaki E9 Error Code — What It Means
-
+## What this code means
 E9 on a Hoshizaki ice machine indicates a fault with the evaporator temperature sensor (also called the freezing plate thermistor or evaporator thermistor). The control board monitors this sensor to regulate the freeze cycle duration and determine when the ice sheet has reached proper thickness. When the control board detects that the sensor is reading out of range, open, or shorted, it displays E9 and halts ice production to prevent damage from an uncontrolled freeze cycle.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,18 +43,3 @@ E9 on a Hoshizaki ice machine indicates a fault with the evaporator temperature 
 ## When to Call a Pro
 
 If the replacement thermistor does not clear E9, the control board input circuit has likely failed. Contact a Hoshizaki-authorized service agent for control board diagnosis and replacement.
-
-## Related Articles
-
-- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
-- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)
-- [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
-- [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)
-
-## See Also
-
-- [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
-- [Hoshizaki E6 Error Code — Causes & Fix](/posts/hoshizaki-e6-error-code/)
-- [Hoshizaki KM-1301SAH Error Codes — Commercial Ice Machine Fault Guide](/posts/hoshizaki-km-1301sah-error-codes/)
-- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)

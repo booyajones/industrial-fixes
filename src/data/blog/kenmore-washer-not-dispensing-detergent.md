@@ -19,8 +19,6 @@ When your Kenmore washer does not dispense detergent, the detergent you loaded i
 
 If that water flow is blocked, too weak, or the dispenser hardware is stuck or clogged, the detergent will not move. The same system handles bleach and fabric softener, so you may notice similar problems in those compartments. In some models, an electrically controlled solenoid or actuator opens a valve to release water into the dispenser, and a failure there will also stop the flush.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Detergent buildup or residue inside the drawer and housing** Over time, liquid or powdered detergent hardens in the cup, siphon insert, and water-entry holes, blocking the flush path and preventing detergent from being carried into the tub.
@@ -54,8 +52,8 @@ If that water flow is blocked, too weak, or the dispenser hardware is stuck or c
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kenmore Washer E14 error code](/posts/kenmore-washer-e14-error-code/)
-- [Kenmore Washer E24 error code](/posts/kenmore-washer-e24-error-code/)
+- Kenmore Washer E14 error code
+- Kenmore Washer E24 error code
 - [Kenmore Washer F0 E2 error code](/posts/kenmore-washer-f0-e2-error-code/)
 - [Kenmore Washer F0 E4 error code](/posts/kenmore-washer-f0-e4-error-code/)
 - [Kenmore Washer F1 E1 error code](/posts/kenmore-washer-f1-e1-error-code/)

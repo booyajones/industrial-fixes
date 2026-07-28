@@ -20,8 +20,6 @@ When a GE oven is not heating, it means the appliance is not producing heat duri
 
 If your oven displays a fault code (usually starting with F), that code points to a specific subsystem. Sensor-related codes typically mean the oven temperature sensor is out of range or has failed. If no code appears but the oven still won't heat, the problem is usually in the power supply, sensor, control board, wiring harness, or heating element itself.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed oven temperature sensor** The sensor sends resistance values to the control board, and when it drifts out of range the board cuts power to the elements or throws a fault code.

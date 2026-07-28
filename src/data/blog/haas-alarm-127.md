@@ -13,11 +13,8 @@ tags:
 money_part: "Unclamp switch"
 ---
 
-## Haas Alarm 127 — What It Means
-
+## What this code means
 Haas alarm **127** means the control expected the spindle tool clamp to release, but the **tool unclamped signal did not occur correctly**. This fault is tied to the drawbar, spindle unclamp piston, and the air/oil system that releases the toolholder.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,18 +43,3 @@ Haas alarm **127** means the control expected the spindle tool clamp to release,
 | Drawbar rebuild kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-127&k=Drawbar+rebuild+kit&tag=errorcodefixes-20) \| Includes Belleville washers and seals |
 ## When to Call a Pro
 Drawbar rebuilds and spindle unclamp piston service should be handled by a machine tool tech. Improper reassembly can create dangerous tool retention problems.
-
-## Related Articles
-
-- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
-- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
-- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
-- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
-
-## See Also
-
-- [Haas Alarm 121 — ATC Arm Fault](/posts/haas-alarm-121/)
-- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
-- [Haas Alarm 119 — Spindle Not At Speed Causes & Fix](/posts/haas-alarm-119/)
-- [Haas Alarm 108 — Causes & Fix](/posts/haas-alarm-108/)

@@ -50,16 +50,16 @@ The water filter cartridge removes impurities and particles from the refrigerato
 
 If this part is failing you may also see one of these codes:
 
-- [Samsung Refrigerator 1E error code](/posts/samsung-refrigerator-1e-error-code/)
-- [Samsung Refrigerator 21E error code](/posts/samsung-refrigerator-21e-error-code/)
-- [Samsung Refrigerator 22E error code](/posts/samsung-refrigerator-22e-error-code/)
+- Samsung Refrigerator 1E error code
+- Samsung Refrigerator 21E error code
+- Samsung Refrigerator 22E error code
 - [Samsung Refrigerator 25E error code](/posts/samsung-refrigerator-25e-error-code/)
-- [Samsung Refrigerator 2E error code](/posts/samsung-refrigerator-2e-error-code/)
-- [Samsung Refrigerator 33E error code](/posts/samsung-refrigerator-33e-error-code/)
-- [Samsung Refrigerator 39E error code](/posts/samsung-refrigerator-39e-error-code/)
-- [Samsung Refrigerator 4E error code](/posts/samsung-refrigerator-4e-error-code/)
-- [Samsung Refrigerator 5E error code](/posts/samsung-refrigerator-5e-error-code/)
-- [Samsung Refrigerator 88 error code](/posts/samsung-refrigerator-88-error-code/)
+- Samsung Refrigerator 2E error code
+- Samsung Refrigerator 33E error code
+- Samsung Refrigerator 39E error code
+- Samsung Refrigerator 4E error code
+- Samsung Refrigerator 5E error code
+- Samsung Refrigerator 88 error code
 
 ## When to Call a Pro
 

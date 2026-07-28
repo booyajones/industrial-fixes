@@ -20,8 +20,7 @@ free_checks:
 part_price: "$40-80"
 ---
 
-## Weil-McLain A81 Error Code — What It Means
-
+## What this code means
 The A81 code on a Weil-McLain boiler signals an ignition failure or failed light-off fault. The boiler attempted to start and go through its ignition sequence, but the control board did not detect a stable flame. When this happens, the system locks out to prevent unburned gas from accumulating. In practical terms, the burner did not establish combustion when commanded to fire.
 
 The exact ignition sequence and lockout behavior vary by model family, and Weil-McLain service manuals state that diagnosis is intended for qualified service technicians. The fault can occur at different stages: prepurge, spark/ignition, gas valve actuation, or flame proving. Each model may use a slightly different combination of ignitor type, flame sensor design, and control logic, so always consult the nameplate and pull the model-specific service manual before testing components.
@@ -29,8 +28,6 @@ The exact ignition sequence and lockout behavior vary by model family, and Weil-
 ## Before You Replace Anything
 
 Homeowners often replace the control board first, assuming the electronics failed. Before ordering any board, verify gas supply at the valve inlet and inspect the ignitor for cracks or misalignment. A worn ignitor or closed gas shutoff accounts for most A81 faults.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -80,10 +77,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician immediately if you are not trained to work with gas appliances. Gas ignition faults require systematic diagnosis of gas pressure, electrical circuits, and flame-proving logic. A technician will use a combustion analyzer, multimeter, and manometer to pinpoint whether the fault is in the gas supply, ignitor, valve, sensor, or control board. Repeated resets without proper diagnosis can lead to dangerous conditions, including gas accumulation or carbon monoxide production. If you have replaced the ignitor and confirmed gas flow but the A81 code persists, the problem is likely in the gas valve actuation circuit or the control board, both of which require professional testing and calibration. Weil-McLain service manuals are written for qualified technicians and contain model-specific wiring diagrams, voltage tables, and timing sequences that are necessary for accurate repair.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Weil-McLain A11 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a11-error-code/)
-- [Weil-McLain Boiler A10 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a10-error-code/)
-- [Weil-McLain A126 Error - Causes & Fix](/posts/weil-mclain-boiler-a126-error-code/)
-- [Weil-McLain Boiler A107 Error - Causes & Fix](/posts/weil-mclain-boiler-a107-error-code/)

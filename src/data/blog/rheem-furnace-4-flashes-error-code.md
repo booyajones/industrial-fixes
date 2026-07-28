@@ -14,13 +14,10 @@ money_part: "Air filter"
 most_likely_cause: "Dirty or clogged air filter"
 ---
 
-## Rheem Furnace 4 Flashes — What It Means
-
+## What this code means
 A 4-flash code on older LED-style Rheem and WeatherKing furnaces indicates the high-limit circuit is open. This means your furnace overheated and the limit switch tripped to protect the heat exchanger and cabinet from damage. The control has stopped burner operation until the problem is corrected.
 
 The limit switch is a normally closed safety device that opens when cabinet temperature rises above safe levels. When it opens, the circuit is broken and the furnace cannot fire. The overwhelming majority of 4-flash limit trips are caused by restricted airflow that keeps heat from being carried away from the heat exchanger.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -53,10 +50,3 @@ The limit switch is a normally closed safety device that opens when cabinet temp
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the 4-flash code returns after you have replaced the filter and confirmed all registers are open, if the blower does not start or runs weakly, or if you are not comfortable working with electrical components and gas-fired equipment. Also call for help if you find evidence of repeated overheating such as discolored metal, burnt wiring, or heat stress around the heat exchanger. A technician has the tools to measure temperature rise, check combustion, test the limit switch accurately, and diagnose blower or control board faults that are beyond typical homeowner troubleshooting.
-
-## See Also
-
-- [Rheem Furnace Error Code 57 — Causes & Fix](/posts/rheem-furnace-error-code-57/)
-- [Rheem RA13 Air Conditioner Error Codes — Fault Code Diagnostic Guide](/posts/rheem-ra13-error-codes/)
-- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)
-- [Rheem Furnace 7 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-7-flashes/)

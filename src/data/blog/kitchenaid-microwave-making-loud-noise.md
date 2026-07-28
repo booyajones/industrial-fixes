@@ -19,8 +19,6 @@ A KitchenAid microwave making loud noise is a symptom, not a fault code. Kitchen
 
 The noise can be mechanical, such as a failing cooling fan motor, a turntable support roller that needs replacement, or a worn stirrer motor. It can also come from the high-voltage section, where a bad diode or a failing magnetron produces a loud hum or buzz. Diagnosing the source requires safely identifying whether the sound is coming from moving parts in the cavity or from electrical components behind the cabinet.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Worn or obstructed cooling fan motor** Bearings wear out over time, or debris and mounting hardware can obstruct the blades, causing rumbling, squealing, or loud running noise.

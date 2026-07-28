@@ -13,13 +13,10 @@ money_part: "Motor power cable (3-phase shielded)"
 most_likely_cause: "Incorrect motor nameplate data entered during Auto-Tuning"
 ---
 
-## Yaskawa GA800 E02 Fault — What It Means
-
+## What this code means
 The E02 (also displayed as Er-02) fault on a Yaskawa GA800 drive is a minor fault triggered when incorrect motor data has been entered during the Auto-Tuning process. Auto-Tuning is the drive's procedure for learning the electrical characteristics of the connected motor, and if the nameplate parameters you input do not match the actual motor, the drive cannot complete tuning successfully and throws this code.
 
 This fault is typically recoverable by correcting the motor parameter entries and rerunning the Auto-Tuning sequence. It does not usually indicate a hardware failure in the drive itself, though wiring problems or mechanical overload can also prevent successful tuning and produce the same code.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ This fault is typically recoverable by correcting the motor parameter entries an
 ## When to Call a Pro
 
 Call a qualified drives technician or Yaskawa-certified service provider if the E02 fault returns after you have verified and corrected all motor nameplate data, repaired wiring, confirmed free mechanical movement, and successfully completed Auto-Tuning. Persistent faults may indicate internal drive circuit issues, advanced parameter conflicts, or application mismatches that require diagnostic software and factory-level support. Always involve a professional if you are unsure how to perform Auto-Tuning safely or if your application includes complex multi-motor configurations or specialized control modes.
-
-## See Also
-
-- [Yaskawa GA800 E08 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e08-fault-code/)
-- [Yaskawa GA800 E19 Fault - Causes & Fix](/posts/yaskawa-ga800-e19-fault-code/)
-- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
-- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)

@@ -42,10 +42,3 @@ The Lennox EL296V is a residential gas furnace in the EL296 two-stage series tha
 ## When to Call a Pro
 
 Call a licensed HVAC tech for all gas valve work, combustion diagnostics, flame rollout conditions, and control board replacement. If you see repeated pressure switch or flame faults after cleaning the flame sensor and checking the filter, the problem is in the draft system or gas supply and requires professional test equipment and gas-certified repair. Low-voltage or polarity faults also need a tech with a meter to trace wiring and verify safe voltage before the board is replaced.
-
-## See Also
-
-- [Lennox XP20 Heat Pump Error Codes - Full iComfort Fault Reference](/posts/lennox-xp20-heat-pump-error-codes/)
-- [Lennox Error Code 414 Rollout — Causes & Fix](/posts/lennox-error-code-414-rollout/)
-- [Lennox ResolvePlus Rooftop Unit Error Codes: Complete Guide](/posts/lennox-resolve-plus-error-codes/)
-- [Lennox Error Code 540 — Causes & Fix](/posts/lennox-error-code-540/)

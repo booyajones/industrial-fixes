@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "Encoder connector and mating cable assembly"
 ---
 
-## Yaskawa GA800 E42 Fault — What It Means
-
+## What this code means
 E42 does not appear in published GA800 VFD fault code lists. In Yaskawa's documentation family, E42 is a servo alarm code that means a feedback or encoder communications problem on the encoder-side wiring or connector. If you see E42 on a GA800 display, the fault is most likely coming from a connected encoder feedback device, option card, or servo axis rather than the drive itself. The alarm points to a contact fault at the encoder connector or incorrect encoder wiring, not a power-stage failure.
 
 Because this code is tied to encoder feedback circuitry, the first step is to confirm whether your GA800 system uses an encoder option or feedback module. If it does, the fault means the drive cannot communicate reliably with that encoder. If your GA800 does not have encoder feedback, verify the exact alarm code in your installation manual, because the number may be misread or the device may be a different Yaskawa product family.
@@ -24,8 +23,6 @@ Because this code is tied to encoder feedback circuitry, the first step is to co
 ## Before You Replace Anything
 
 Technicians sometimes replace the encoder or the drive itself before checking the connector. Re-seat the encoder connector and inspect the cable for damage first, which costs nothing and clears most E42 alarms.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified Yaskawa technician or industrial controls specialist if you are not familiar with encoder feedback systems, if the alarm does not clear after re-seating the connector, or if you lack the tools to verify cable continuity and pinout. Encoder wiring errors can damage the drive's feedback input circuitry, and incorrect grounding or noise mitigation can cause intermittent faults that are hard to trace. A professional can use an oscilloscope to verify encoder signal integrity, confirm proper grounding, and substitute known-good modules to isolate the failed component without risking further damage.
 
 **Rough cost:** A pro service call runs about $200-600.
-
-## See Also
-
-- [Yaskawa GA800 F011 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f011-fault-code/)
-- [Yaskawa GA800 E49 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e49-fault-code/)
-- [Yaskawa GA800 F001 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f001-fault-code/)
-- [Yaskawa U1000 Fault Codes: Complete Guide](/posts/yaskawa-u1000-fault-codes/)

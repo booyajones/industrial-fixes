@@ -13,11 +13,8 @@ money_part: "Shielded VFD-rated motor cable"
 most_likely_cause: "Damaged motor cable insulation"
 ---
 
-## ABB ACS580 A2B4 Fault Code — What It Means
-
+## What this code means
 Fault code A2B4 (auxiliary code 2340) on the ABB ACS580 variable frequency drive indicates the drive has detected a short circuit in the motor or motor cable. This fault triggers when the drive senses abnormal current flow caused by phase-to-phase contact, phase-to-ground contact, or internal motor winding failure. The drive shuts down immediately to protect its output stage and prevent further damage to the motor circuit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ Fault code A2B4 (auxiliary code 2340) on the ABB ACS580 variable frequency drive
 ## When to Call a Pro
 
 Call a qualified industrial electrician or drive technician if you are not trained in high-voltage lockout/tagout procedures, if insulation testing equipment is unavailable, or if the A2B4 fault returns after verifying the motor and cable are in good condition. Repeated short-circuit faults can damage the drive's output stage (IGBT module), and further troubleshooting may require ABB service support or drive power module replacement. If the motor or cable fault is intermittent or the drive trips immediately on power-up even with the motor disconnected, professional diagnostics are necessary to avoid risking personnel safety or additional equipment damage.
-
-## See Also
-
-- [ABB ACS580 A3D0 Fault Code - Causes & Fix](/posts/abb-acs580-a3d0-fault-code/)
-- [ABB VFD Fault 7121 — Causes & Fix](/posts/abb-vfd-fault-7121/)
-- [ABB ACS550 AI1 LOSS - Causes & Fix](/posts/abb-acs550-ai1-loss-fault-code/)
-- [ABB ACS550 EFB1 Fault Code - Causes & Fix](/posts/abb-acs550-vfd-efb1-fault-code/)

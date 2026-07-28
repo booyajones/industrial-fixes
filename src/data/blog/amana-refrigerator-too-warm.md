@@ -19,8 +19,6 @@ When your Amana refrigerator is too warm, the fresh-food compartment is running 
 
 The complaint usually shows up as milk or produce feeling warmer than expected, or ice cream in the freezer being softer than normal. Amana recommends first lowering the refrigerator setting by one increment and waiting 24 hours before diagnosing further. If that does not solve it, the problem is mechanical and requires inspection of airflow, defrost components, door seals, and controls before considering sealed-system issues.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty condenser coil or failed condenser fan** Dust buildup on the condenser or a stopped condenser fan prevents heat rejection and causes the entire cabinet to run warm, which is the most common real-world cause in field service.
@@ -54,14 +52,14 @@ The complaint usually shows up as milk or produce feeling warmer than expected, 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Amana Refrigerator Ci error code](/posts/amana-refrigerator-ci-error-code/)
-- [Amana Refrigerator D7 error code](/posts/amana-refrigerator-d7-error-code/)
-- [Amana Refrigerator D8 error code](/posts/amana-refrigerator-d8-error-code/)
+- Amana Refrigerator Ci error code
+- Amana Refrigerator D7 error code
+- Amana Refrigerator D8 error code
 - [Amana Refrigerator D9 error code](/posts/amana-refrigerator-d9-error-code/)
-- [Amana Refrigerator Ec40 error code](/posts/amana-refrigerator-ec40-error-code/)
+- Amana Refrigerator Ec40 error code
 - [Amana Refrigerator F1 error code](/posts/amana-refrigerator-f1-error-code/)
 - [Amana Refrigerator If error code](/posts/amana-refrigerator-if-error-code/)
-- [Amana Refrigerator It error code](/posts/amana-refrigerator-it-error-code/)
+- Amana Refrigerator It error code
 - [Amana Refrigerator Po error code](/posts/amana-refrigerator-po-error-code/)
 
 ## When to Call a Pro

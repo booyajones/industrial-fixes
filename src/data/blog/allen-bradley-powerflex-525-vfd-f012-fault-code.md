@@ -15,15 +15,12 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Allen-Bradley PowerFlex 525 F012 — What It Means
-
+## What this code means
 F012 on the PowerFlex 525 is a hardware overcurrent fault. The drive detected instantaneous output current high enough to trip its internal protection circuit. This is not a simple overload warning but a hard shutdown because the current exceeded the drive's hardware limit. The fault protects the drive's power section and motor from damage caused by excessive current flow through the output stage.
 
 ## Before You Replace Anything
 
 Technicians sometimes replace the drive immediately without checking the load or motor wiring. First verify the driven machine spins freely by hand and inspect motor leads for shorts or loose connections before swapping the VFD.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or automation technician for F012 troubleshooting. This fault involves high-voltage drive output, motor current analysis, and parameter programming that require measurement equipment and familiarity with VFD systems. If mechanical binding is obvious you can clear it yourself, but diagnosing wiring faults, verifying drive parameters like A530 Boost Select, and safely testing under load require professional tools and training. Any work inside the drive enclosure or on live circuits must be done by trained personnel following lockout-tagout and arc-flash safety procedures.
 
 **Rough cost:** A pro service call runs about $200-800.
-
-## See Also
-
-- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
-- [Allen-Bradley PowerFlex F070 Fault — Power Unit Fault Fix](/posts/allen-bradley-powerflex-f070-fault/)
-- [Allen-Bradley PowerFlex 525 F106 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f106-fault-code/)
-- [Allen-Bradley PowerFlex 525 F038 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f038-fault-code/)

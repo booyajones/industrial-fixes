@@ -20,8 +20,7 @@ free_checks:
   - "Inspect the ice-maker assembly for physical blockage, jammed mechanism, or ice buildup"
 ---
 
-## Whirlpool Refrigerator E0 Error Code — What It Means
-
+## What this code means
 On many Whirlpool refrigerator ice-maker diagnostic systems, E0 means there is no active ice-maker fault in that test step. It is a normal diagnostic result, not a failure code. E0 typically appears only during service or diagnostic mode and is not a consumer-facing error on all models. Whirlpool model behavior is not universal, and some third-party guides incorrectly describe E0 as an ice-maker problem.
 
 The model-specific tech sheet is the deciding document. If you see E0 during normal operation (outside diagnostic mode) or if your ice maker is not producing ice despite E0, the problem lies elsewhere in the system. Real ice-making issues may involve freezer temperature, water supply, or mechanical blockage even when the diagnostic step shows E0. Always pull the exact tech sheet for your model number before interpreting this code.
@@ -29,8 +28,6 @@ The model-specific tech sheet is the deciding document. If you see E0 during nor
 ## Before You Replace Anything
 
 Technicians sometimes replace the ice maker assembly when E0 appears alongside a production problem, but E0 itself usually indicates no fault. Always verify freezer temperature, water supply, and mechanical obstructions before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

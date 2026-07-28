@@ -21,8 +21,7 @@ free_checks:
 no_buy_pct: "95%"
 ---
 
-## LG Washer Cd Error Code — What It Means
-
+## What this code means
 The LG washer Cd code is not a fault code. It stands for cool down and appears on LG washer-dryer combo models after the drying cycle finishes. The machine enters a cool-down phase and may continue intermittent tumbling (25 seconds every 5 minutes) to reduce wrinkles for up to 4 hours unless you press a button or remove the laundry. Some LCD models will also display end-of-cycle prompts such as PRESS ANY BUTTON TO UNLOAD THE ITEMS or UNLOAD alongside the Cd code.
 
 LG states clearly that Cd is not a product failure or error. It indicates the combo unit is in cool-down mode after drying. The display remains active until the load is removed or a button is pressed, which is why many users mistake it for an error. In normal cases, no repair is required because Cd is expected behavior. If the display remains unusually long or the unit does not exit cool-down correctly, LG recommends having a professional technician inspect the appliance.
@@ -30,8 +29,6 @@ LG states clearly that Cd is not a product failure or error. It indicates the co
 ## Before You Replace Anything
 
 People sometimes call for service thinking Cd is a failure code. Simply press any non-cycle button and wait about 2 minutes for the door to unlock before assuming a malfunction.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a professional if the Cd code remains on the display for more than 4 hours, the door does not unlock after pressing a button and waiting 2 minutes, or the washer-dryer combo will not exit cool-down mode even after a full power reset. LG states that if the unit behaves abnormally and does not clear the cool-down phase as expected, a trained service technician should inspect the appliance. In the vast majority of cases, Cd is normal behavior and requires no repair, so only escalate to service if the message does not clear within the expected cool-down window or if the door lock fails to release.
-
-## See Also
-
-- [LG Washer SUD Error Code - Causes & Fix](/posts/lg-washer-sud-error-code/)
-- [LG Refrigerator Compressor Replacement - Signs & How-To](/posts/lg-refrigerator-compressor-inverter-linear-replacement/)
-- [LG WM3500CW Washer Problems & Error Codes](/posts/lg-wm3500cw-washer-problems/)
-- [LG Microwave F5 Error - Causes & Fix](/posts/lg-microwave-f5-error-code/)

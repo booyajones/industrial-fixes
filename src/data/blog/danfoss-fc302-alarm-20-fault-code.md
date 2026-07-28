@@ -13,13 +13,10 @@ money_part: "Motor thermistor or PTC temperature sensor"
 most_likely_cause: "Open or loose thermistor wiring"
 ---
 
-## Danfoss FC302 Alarm 20 — What It Means
-
+## What this code means
 Alarm 20 on the Danfoss FC302 is a "Temp. input error." The drive has detected that the configured temperature sensor input is missing, open, or otherwise invalid. Danfoss states that this fault typically means the temperature sensor is not connected or not communicating properly with the drive.
 
 The FC302 monitors motor or external temperature sensors to protect equipment from overheating. When the drive cannot see a valid signal on the configured temperature input (usually terminal 53 or 54), it raises Alarm 20 and may shut down or limit operation to prevent damage. The fault does not mean the motor is hot, it means the drive cannot verify temperature at all.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ The FC302 monitors motor or external temperature sensors to protect equipment fr
 ## When to Call a Pro
 
 Call a qualified technician or Danfoss service if you are not familiar with VFD parameter programming, if you cannot safely lock out power and verify zero voltage, or if the alarm returns after you have confirmed good sensor resistance and correct wiring. Also call for help if the drive is part of a coordinated system (building HVAC, process line, or fire-pump setup) where incorrect parameter changes could create safety or production issues. If you have replaced the sensor and verified all wiring but Alarm 20 persists, the drive's internal temperature input circuit may be faulty and will require factory-trained diagnostics or control card replacement.
-
-## See Also
-
-- [Danfoss FC102 VLT HVAC Drive Fault Codes — Complete Diagnostic Reference](/posts/danfoss-fc102-fault-codes/)
-- [Danfoss VLT 2900 Fault Codes: Complete Guide](/posts/danfoss-vlt-2900-faults/)
-- [Danfoss VFD Fault Codes — FC301, FC302, FC102 Reference](/posts/danfoss-vfd-fault-codes/)
-- [Danfoss FC-302 Alarm 12 — Overcurrent Fix](/posts/danfoss-fc302-alarm-12/)

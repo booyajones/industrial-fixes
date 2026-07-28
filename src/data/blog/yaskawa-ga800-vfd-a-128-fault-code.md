@@ -14,8 +14,7 @@ most_likely_cause: "Misread or non-standard code"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa GA800 A.128 Fault — What It Means
-
+## What this code means
 The code A.128 does not appear in verified Yaskawa GA800 documentation. GA800 drives typically display faults in formats like oC, ov, or CPF06, not decimal-style A.128 codes. Before proceeding, confirm the exact text shown on the keypad or operator display. The code may be misread, may belong to a different device in your system, or may be specific to a custom firmware revision not covered in standard manuals.
 
 If you have verified A.128 is truly displayed by your GA800, the general troubleshooting approach for unverified or uncommon GA-family codes starts with inspection of control wiring, encoder connections, and option cards. Many GA800 faults stem from wiring issues, encoder path problems, or option-board communication errors. Double-check your drive's manual addendum or contact Yaskawa technical support with your exact model and serial number to decode this specific alarm.
@@ -23,8 +22,6 @@ If you have verified A.128 is truly displayed by your GA800, the general trouble
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive or control board without first checking encoder wiring, option-card seating, and shield grounding. Inspect all wiring and reseat option cards before ordering expensive assemblies.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified drive technician or automation integrator if you cannot verify the exact meaning of A.128 from your manual, if encoder or control wiring inspection does not reveal an obvious fault, or if the fault persists after reseating option cards and cycling power. VFD troubleshooting requires multimeter skills, knowledge of encoder signal types, and sometimes oscilloscope work to diagnose noise or communication faults. High DC bus voltage remains present inside the drive even after AC input is disconnected, so only personnel trained in high-voltage electrical work should open the drive enclosure or measure internal circuits. If your process cannot tolerate extended downtime, have Yaskawa or an authorized service center diagnose and repair the drive to avoid misdiagnosis and repeat failures.
 
 **Rough cost:** A pro service call runs about $150-400 depending on diagnosis and parts.
-
-## See Also
-
-- [Yaskawa V1000 OV Fault - What It Means and How to Fix It](/posts/yaskawa-v1000-fault-ov/)
-- [Yaskawa VFD Fault Codes — Complete Reference (V1000, A1000, GA700)](/posts/yaskawa-vfd-fault-codes/)
-- [Yaskawa GA800 E02 Fault - Causes & Fix](/posts/yaskawa-ga800-e02-fault-code/)
-- [Yaskawa A1000 HbbF Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-hbbf-fault-code/)

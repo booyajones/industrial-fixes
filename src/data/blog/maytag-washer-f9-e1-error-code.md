@@ -21,15 +21,12 @@ part_price: "$35-70"
 no_buy_pct: "75%"
 ---
 
-## Maytag F9 E1 Error Code — What It Means
-
+## What this code means
 The F9 E1 code signals a 'Long Drain' fault. The control board has detected that water in the drum did not drain completely within the allowed time, typically 8 minutes. The pressure sensor monitors the water level and if it does not register 'empty' by the time limit, the machine halts the cycle and displays the error. The lid may lock and the spin cycle will not start until the condition is cleared.
 
 ## Before You Replace Anything
 
 Homeowners often replace the drain pump or control board when the real problem is a kinked hose or improper standpipe installation. Check the hose for obstructions and verify the hose is not inserted too deeply into the standpipe before buying any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

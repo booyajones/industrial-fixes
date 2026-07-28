@@ -18,8 +18,7 @@ free_checks:
   - "Power off the unit, open the control-panel cover, and inspect every connector and wire for loose plugs, corrosion, or visible damage"
 ---
 
-## A.O. Smith Water Heater E5 Error — What It Means
-
+## What this code means
 On many A.O. Smith water heater models, the E5 error indicates a communication failure between the main control board and the thermostat or other control components. The system cannot exchange data over the internal wiring harness, so it locks out and displays E5 to protect the unit.
 
 Because A.O. Smith builds many different control platforms, the exact meaning of E5 can vary by model family. Always check the rating plate for your model and serial number, then consult the matching manual or scan the QR code on the label to confirm the fault definition for your specific unit. On the documented control platform, E5 is a communication error caused by damaged wiring, loose connectors, a failed thermostat, or a failed control board.
@@ -27,8 +26,6 @@ Because A.O. Smith builds many different control platforms, the exact meaning of
 ## Before You Replace Anything
 
 Many technicians replace the control board first when the real problem is a pinched, burnt, or corroded wire or connector. Inspect all harnesses, reseat every plug, and test continuity before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -38,7 +38,7 @@ The pressure switch monitoring the draft inducer motor is stuck open or stuck cl
 
 ### Alert 168 — Loss of Communication with Indoor Unit
 
-The thermostat lost its data link to the indoor air handler or furnace. This is one of the most common Carrier Infinity alerts. See our dedicated [Carrier Infinity Error 168 article](/posts/carrier-infinity-error-168) for the full fix guide. Short version: check the 4-wire comm bus connections at both ends, check for a blown fuse on the indoor control board, and verify 24V power at the indoor unit.
+The thermostat lost its data link to the indoor air handler or furnace. This is one of the most common Carrier Infinity alerts. See our dedicated Carrier Infinity Error 168 article for the full fix guide. Short version: check the 4-wire comm bus connections at both ends, check for a blown fuse on the indoor control board, and verify 24V power at the indoor unit.
 
 ### Alert 178 — Loss of Communication with Outdoor Unit
 
@@ -119,18 +119,3 @@ A: Not recommended. The Infinity system uses proprietary communication protocol.
 **Q: The Infinity Touch is 10 years old. Should I replace the thermostat or the whole system?**
 
 A: The thermostat itself is rarely the reason to replace a system. If the HVAC equipment is working but the thermostat screen has failed or it won't communicate, replacing the thermostat alone (around $200–$400 installed) is almost always the right call. Only consider a full system replacement if the equipment itself has major mechanical issues.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier Heat Pump E24 Error Code - Causes & Fix](/posts/carrier-heat-pump-e24-error-code/)
-- [Carrier Error Code 31 - Causes & Fix](/posts/carrier-furnace-31-error-code/)
-- [Carrier 43 Error Code — Rollout Switch Open Fix](/posts/carrier-43-error-code/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

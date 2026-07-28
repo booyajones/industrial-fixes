@@ -13,13 +13,10 @@ money_part: "Siemens G120 input rectifier module"
 most_likely_cause: "Incoming AC supply undervoltage or line dip"
 ---
 
-## Siemens G120 F0008 Fault — What It Means
-
+## What this code means
 F0008 is a DC link undervoltage fault on the Siemens SINAMICS G120 variable frequency drive. The drive has detected that the internal DC bus voltage has dropped below the minimum threshold required for safe operation and has tripped to protect the power stage. This fault stops the drive immediately because the rectifier cannot maintain the voltage needed to synthesize clean AC output to the motor.
 
 The DC link is the capacitor bank between the input rectifier and the output inverter. When the incoming three-phase AC is converted to DC, that voltage must stay within a defined window. If it falls too low due to supply problems or internal component failure, the drive shuts down and logs F0008. The fault can occur at startup, during acceleration, or randomly during a run if the supply sags or a component fails.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ The DC link is the capacitor bank between the input rectifier and the output inv
 ## When to Call a Pro
 
 Call a qualified drives technician or Siemens-certified service partner if you measure correct incoming voltage and tight connections but the DC link still trips low, if you are uncomfortable working inside energized industrial control cabinets, or if your drive has no external fault-reset capability and requires laptop-based diagnostics. Replacing the input rectifier or power module requires matching the exact frame size and firmware revision, and many G120 configurations need parameter backup and commissioning software to restore full operation after a hardware swap.
-
-## See Also
-
-- [Siemens G120 F01600 - Causes & Fix](/posts/siemens-g120-f01600-fault-code/)
-- [Siemens VFD Fault Codes — SINAMICS G120, V20, S120 Guide](/posts/siemens-vfd-fault-codes/)
-- [Siemens G120 F01034 - Causes & Fix](/posts/siemens-g120-f01034-fault-code/)
-- [Siemens Micromaster F0030 - Causes & Fix](/posts/siemens-micromaster-vfd-f0030-fault-code/)

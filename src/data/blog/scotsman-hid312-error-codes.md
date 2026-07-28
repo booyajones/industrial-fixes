@@ -17,8 +17,6 @@ money_part: "Water curtain switch"
 
 The Scotsman HID312 is a self-contained cube ice machine and dispenser producing approximately 312 pounds of standard dice-style cube ice per day, with an integrated storage and dispensing unit. It is part of Scotsman's Prodigy Elite series, which features Scotsman's SmartBoard control system. The SmartBoard displays error codes on an LCD panel and tracks service data including cycle counts, clean cycles performed, and fault history.
 
-[Jump to Fix](#fix)
-
 ## Scotsman HID312 Error Code Reference
 
 | Code | Fault |
@@ -66,18 +64,3 @@ The Scotsman HID312 is a self-contained cube ice machine and dispenser producing
 ## When to Call a Pro
 
 Scotsman's SmartBoard can be interfaced with the Scotsman Remote Monitoring system (SRM) for cloud-connected diagnostics. A certified Scotsman service agent has access to the full fault log and can remotely adjust configuration parameters. Refrigerant service requires EPA 608 certification.
-
-## Related Articles
-
-- [Scotsman C0522 Error Codes — Fix Guide](/posts/scotsman-c0522-error-codes/)
-- [Scotsman HID525 Error Codes — Complete Guide](/posts/scotsman-hid525-error-codes/)
-- [Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/scotsman-ice-machine-complete-guide/)
-- [Scotsman Ice Machine Error Code 1 — High Pressure Cutout Fix](/posts/scotsman-ice-machine-error-code-1/)
-- [Scotsman Ice Machine Error Code 2 — Causes & Fix](/posts/scotsman-ice-machine-error-code-2/)
-
-## See Also
-
-- [Scotsman C0522 Error Codes — Fix Guide](/posts/scotsman-c0522-error-codes/)
-- [Scotsman 2-Flash Code — Long Freeze Cycle Fix](/posts/scotsman-2-flash-code/)
-- [Scotsman Ice Machine Error Code 2 — Causes & Fix](/posts/scotsman-ice-machine-error-code-2/)
-- [Scotsman Ice Machine Error Code 8 — Causes & Fix](/posts/scotsman-ice-machine-error-code-8/)

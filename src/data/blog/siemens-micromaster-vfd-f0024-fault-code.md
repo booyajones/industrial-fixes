@@ -13,13 +13,10 @@ money_part: "Siemens Micromaster cooling fan"
 most_likely_cause: "Cooling fan failure"
 ---
 
-## Siemens Micromaster F0024 — What It Means
-
+## What this code means
 F0024 on a Siemens Micromaster 430 or 440 indicates rectifier overtemperature. The drive's input rectifier or power section has exceeded its safe thermal limit and tripped protection. This is not a motor fault or output short. The code points to a cooling problem inside the drive itself, specifically at the rectifier heat sink.
 
 The fault occurs when ventilation is inadequate, the cooling fan has failed, or the ambient temperature around the drive is too high for the installation. Anything that reduces airflow across the power section can trigger the trip. The drive will not restart until you correct the thermal issue and reset the fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ The fault occurs when ventilation is inadequate, the cooling fan has failed, or 
 ## When to Call a Pro
 
 Call a qualified electrician or drive technician if the fault persists after you have confirmed the fan runs, ventilation is clear, and ambient temperature is within spec. A recurring F0024 after correcting cooling issues may indicate a failing rectifier assembly, a faulty thermal sensor, or internal damage to the power section. Repair or replacement of the power section requires specialized training and test equipment. Also call a pro if you are not comfortable working inside energized electrical panels or measuring line voltage.
-
-## See Also
-
-- [Siemens Micromaster F0070 - Causes & Fix](/posts/siemens-micromaster-f0070-fault-code/)
-- [Siemens G120 F30002 - Causes & Fix](/posts/siemens-g120-f30002-fault-code/)
-- [Siemens G120 VFD F01040 - Causes & Fix](/posts/siemens-g120-vfd-f01040-fault-code/)
-- [Siemens Micromaster F0001 - Causes & Fix](/posts/siemens-micromaster-vfd-f0001-fault-code/)

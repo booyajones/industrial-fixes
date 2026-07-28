@@ -19,8 +19,6 @@ When a Bosch front-load washer gets stuck on one cycle, the control system is wa
 
 This symptom is not a single fault code. It is the result of the controller sitting in one phase because a subsystem has not signaled success. The most common real causes are drain restrictions, door-lock signal problems, water-fill issues, heating or temperature-sensor faults, pressure-sensor faults, motor or spin faults, and imbalance or suspension issues.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Drain restriction (filter, pump, or hose)** A clogged drain filter, blocked pump impeller, or kinked drain hose prevents water from leaving, so the washer will not advance past the drain transition.
@@ -55,14 +53,14 @@ This symptom is not a single fault code. It is the result of the controller sitt
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Bosch Washer E15 error code](/posts/bosch-washer-e15-error-code/)
+- Bosch Washer E15 error code
 - [Bosch Washer E16 error code](/posts/bosch-washer-e16-error-code/)
 - [Bosch Washer E17 error code](/posts/bosch-washer-e17-error-code/)
 - [Bosch Washer E18 error code](/posts/bosch-washer-e18-error-code/)
 - [Bosch Washer E19 error code](/posts/bosch-washer-e19-error-code/)
 - [Bosch Washer E20 error code](/posts/bosch-washer-e20-error-code/)
-- [Bosch Washer E21 error code](/posts/bosch-washer-e21-error-code/)
-- [Bosch Washer E22 error code](/posts/bosch-washer-e22-error-code/)
+- Bosch Washer E21 error code
+- Bosch Washer E22 error code
 - [Bosch Washer E23 error code](/posts/bosch-washer-e23-error-code/)
 - [Bosch Washer E24 error code](/posts/bosch-washer-e24-error-code/)
 - [Bosch Washer E25 error code](/posts/bosch-washer-e25-error-code/)

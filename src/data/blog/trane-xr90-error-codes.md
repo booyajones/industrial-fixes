@@ -17,8 +17,6 @@ money_part: "Hot surface igniter"
 
 The Trane XR90 is a single-stage 90% AFUE gas furnace with a PSC (permanent split capacitor) blower motor. It is one of Trane's long-running mid-efficiency residential furnaces designed for reliability and straightforward service. The XR90 uses a control board with a status LED that reports fault codes via flash sequences. The board also includes a fault history LED window on some revisions that displays the last five fault codes as sticky memory.
 
-[Jump to Fix](#fix)
-
 ## Trane XR90 LED Flash Code Reference
 
 | Flash Sequence | Fault |
@@ -65,18 +63,3 @@ The Trane XR90 is a single-stage 90% AFUE gas furnace with a PSC (permanent spli
 ## When to Call a Pro
 
 The XR90 heat exchanger is a clamshell design that can crack at the secondary (condensate-side) section. If you smell combustion gases in the conditioned air, suspect a cracked heat exchanger — this is a safety issue requiring professional inspection and likely furnace replacement. Do not operate a furnace with a suspected cracked heat exchanger.
-
-## Related Articles
-
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-
-## See Also
-
-- [Trane XR80 Blinking Yellow Light Codes: Full Flash-Code Fix Guide](/posts/trane-xr80-error-codes/)
-- [Trane ComfortLink II Communicating Thermostat Fault Codes - What They Mean and How to Fix Them](/posts/trane-communicating-thermostat-fault-codes/)
-- [Trane XR17 Heat Pump Error Codes - Fault Code and Flash Code Guide](/posts/trane-xr17-error-codes/)
-- [Trane 8 Flashes Error Code — Causes & Fix](/posts/trane-8-flashes-error-code/)

@@ -111,10 +111,3 @@ A: High ambient temperature in the installation space itself is often overlooked
 
 **Q: Can I use generic ice machine cleaner instead of Scotsman-branded cleaner?**
 A: Scotsman does not require their branded cleaner for warranty compliance, but the cleaner must meet NSF Standard 51 requirements for food zone equipment. Most commercial ice machine cleaners (Manitowoc, Nu-Calgon, Hoshizaki branded) are compatible and meet this standard.
-
-## See Also
-
-- [Scotsman HID312 Error Codes — Fault Code Diagnostic Guide](/posts/scotsman-hid312-error-codes/)
-- [Scotsman Ice Machine Error Code 3 — Causes & Fix](/posts/scotsman-ice-machine-error-code-3/)
-- [Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/scotsman-ice-machine-complete-guide/)
-- [Scotsman 3-Flash Code — Long Harvest Cycle Fix](/posts/scotsman-3-flash-code/)

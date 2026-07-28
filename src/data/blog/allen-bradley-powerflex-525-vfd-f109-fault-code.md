@@ -18,8 +18,7 @@ free_checks:
   - "Attempt P053 = 3 Power Reset as documented in the manual before ordering replacement modules"
 ---
 
-## Allen-Bradley PowerFlex 525 F109 — What It Means
-
+## What this code means
 The F109 fault on the PowerFlex 525 displays as 'Mismatch C-P' and means the control module is mounted on a power module that belongs to a different drive type or frame. The drive detects that the two modules are not a compatible pair and throws the fault to prevent operation.
 
 This mismatch usually happens after someone swaps modules during service or installs an incorrect replacement part. The drive will not run until the modules are matched or the fault is cleared by a proper power reset. If the modules are truly incompatible, the reset will not stick and you must replace one of the modules with the correct PowerFlex 525 part for that drive frame.
@@ -27,8 +26,6 @@ This mismatch usually happens after someone swaps modules during service or inst
 ## Before You Replace Anything
 
 Technicians sometimes replace both modules when only one is mismatched. Before ordering parts, verify the actual part numbers on each module nameplate and compare them to the drive model documentation to identify which single module is incorrect.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or automation technician if you are not trained to work on variable frequency drives or if the fault persists after verifying module compatibility. VFDs carry lethal high voltage even after power-down due to capacitor charge, and incorrect module pairing can damage the drive or connected motor. A professional can safely verify part numbers, perform the power reset, restore parameters from backup, and test the drive under load. If repeated module replacements do not resolve F109 or if the drive has suffered internal damage, factory support or a complete drive replacement may be required.
 
 **Rough cost:** A pro service call runs about $200-600 for module replacement and parameter restore, depending on which module is incorrect.
-
-## See Also
-
-- [Allen-Bradley PowerFlex 525 F107 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f107-fault-code/)
-- [Allen-Bradley PowerFlex F063 Fault — Phase Short Fix](/posts/allen-bradley-powerflex-f063-fault/)
-- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
-- [Allen-Bradley PowerFlex 755 Fault Codes — Complete Troubleshooting Guide](/posts/allen-bradley-powerflex-755-fault-codes/)

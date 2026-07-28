@@ -19,8 +19,6 @@ When an Electrolux washer stops mid-cycle without displaying an error code, it m
 
 In field repair terms, the control board has detected that something is wrong with load balance, water level sensing, drain completion, door lock status, or heating (on warm cycles). The cycle will not advance until that condition is met or the fault is cleared. This symptom is not a single fault code but a pause behavior that points to several common mechanical or electrical failures.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Imbalanced or overloaded load** The drum cannot distribute the laundry evenly during spin, so the control stops the cycle to prevent damage or excess vibration.

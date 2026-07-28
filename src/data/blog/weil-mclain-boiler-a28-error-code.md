@@ -21,8 +21,7 @@ part_price: "$10-25"
 no_buy_pct: "70%"
 ---
 
-## Weil-McLain A28 Error — What It Means
-
+## What this code means
 Weil-McLain boiler manuals do not list an A28 error code. The display may actually show E28, which indicates a condensate drainage problem. The boiler has detected that condensate water is not leaving the unit properly, usually because the trap or drain line is blocked, frozen, or improperly routed.
 
 If your display truly reads A28 and not E28, consult your specific model manual or the control module documentation, because fault codes vary by series (Ultra, AquaBalance, CGa, etc.). For the verified E28 condensate fault, the boiler will lock out until the drainage path is cleared and the water can flow freely again.
@@ -30,8 +29,6 @@ If your display truly reads A28 and not E28, consult your specific model manual 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board or call for a full heat-exchanger flush when the real problem is a $5 condensate trap full of sludge. Inspect and clean the trap and drain line first.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a qualified heating technician if the fault returns after you clean the trap and drain line, if you cannot locate or access the condensate system, if the boiler shows other error codes in the history menu, or if you suspect a control-board or sensor failure. A pro can run full diagnostics, check vent and condensate routing against code, and order the correct model-specific parts from Weil-McLain. Gas appliances require proper venting and combustion-air setup, so any recurring lockout or installation issue should be handled by a licensed contractor.
 
 **Rough cost:** DIY runs about $10-30 in parts (new trap or tubing), 30-60 min. A pro service call runs about $150-250 for a service call and condensate system cleaning.
-
-## See Also
-
-- [Weil-McLain Boiler A163 Error - Causes & Fix](/posts/weil-mclain-boiler-a163-error-code/)
-- [Weil-McLain Boiler A53 Error - Causes & Fix](/posts/weil-mclain-boiler-a53-error-code/)
-- [Weil-McLain A142 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a142-error-code/)
-- [Weil-McLain A90 Error - Causes & Fix](/posts/weil-mclain-boiler-a90-error-code/)

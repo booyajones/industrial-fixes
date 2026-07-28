@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "GE dishwasher detergent dispenser assembly"
 ---
 
-## GE Dishwasher C8 Error Code — What It Means
-
+## What this code means
 GE's fault-code guidance states that C8 indicates the detergent cup or dispenser door is blocked from opening fully during the wash cycle. The dishwasher expects the dispenser to swing open at a specific point in the cycle, and when it cannot, the machine logs the C8 fault. This code is a mechanical obstruction or dispenser hardware issue, not a drain, fill, or pump problem. Some non-GE sources incorrectly link C8 to rinse-pump faults, but GE's published documentation confirms the code refers only to the detergent dispenser.
 
 The fault is almost always caused by something physical: a utensil, tall pan, or dish rack interfering with the dispenser door's path, or less often, a damaged dispenser assembly that will not latch or open correctly. Because the code points to a mechanical blockage rather than an electrical failure, diagnosis focuses on visual inspection of the dispenser area and testing the door's travel.
@@ -25,8 +24,6 @@ The fault is almost always caused by something physical: a utensil, tall pan, or
 ## Before You Replace Anything
 
 Some homeowners replace the control board or pump assembly after seeing online videos that mislabel C8 as a drain or rinse issue. GE's documentation confirms C8 is a dispenser obstruction, so inspect the cup area and remove any blockage before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

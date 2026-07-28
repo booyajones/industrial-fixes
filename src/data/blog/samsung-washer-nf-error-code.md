@@ -21,8 +21,7 @@ part_price: "$30-70"
 no_buy_pct: "70%"
 ---
 
-## Samsung nF Error Code — What It Means
-
+## What this code means
 The Samsung nF error code indicates the washer has detected no fill or insufficient water fill during a wash or rinse cycle. The machine cannot fill with enough water to run the cycle. Samsung groups nF and nF1 with the 4C and 4E codes, all of which point to water-supply fill errors.
 
 The code appears when the control board does not detect the expected water level within the expected time. This can happen because water is not entering the tub at all, entering too slowly, or draining back out during the fill attempt.
@@ -30,8 +29,6 @@ The code appears when the control board does not detect the expected water level
 ## Before You Replace Anything
 
 Many people replace the inlet valve assembly first when the actual problem is clogged mesh inlet screens or a kinked hose. Check water supply, clean the screens, and inspect the drain hose installation before buying the valve.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

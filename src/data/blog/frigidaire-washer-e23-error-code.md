@@ -17,8 +17,7 @@ money_part: "Main electronic control board"
 part_price: "$80-180"
 ---
 
-## Frigidaire Washer E23 Error Code — What It Means
-
+## What this code means
 E23 on many Frigidaire washers indicates a failure in the drain pump relay or drain pump control circuit on the main control board. The board detects a problem in the circuit that powers the drain pump, so the washer may fail to drain or stop mid-cycle with water still in the tub.
 
 Because the fault lies in the control circuit rather than always in the pump itself, technicians verify the pump, harness, and pressure switch before replacing the board. The code is commonly reported as a drain pump relay failure on the main control, though manufacturer service documentation for this specific code is limited in public sources.
@@ -26,8 +25,6 @@ Because the fault lies in the control circuit rather than always in the pump its
 ## Before You Replace Anything
 
 Many people replace the main control board first, but a shorted or seized drain pump will trigger the same code. Always meter the pump for continuity and check for mechanical binding before buying a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

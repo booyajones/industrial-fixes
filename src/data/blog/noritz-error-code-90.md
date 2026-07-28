@@ -13,11 +13,8 @@ money_part: "Combustion fan motor"
 most_likely_cause: "Blocked intake or exhaust vent"
 ---
 
-## Noritz Error Code 90 — What It Means
-
+## What this code means
 Noritz **error code 90** indicates a **combustion abnormality**, usually tied to the combustion fan, air intake, exhaust restriction, or poor burner combustion conditions. On many Noritz tankless units, code 90 shows up when the fan cannot maintain the expected air-to-gas ratio or the unit detects incomplete combustion risk. The heater shuts down to prevent unsafe operation. In practice, this code often points to venting issues, dirty combustion components, or a failing fan motor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,15 +41,3 @@ Noritz **error code 90** indicates a **combustion abnormality**, usually tied to
 ## When to Call a Pro
 
 Code 90 involves combustion safety. If venting is clear and the unit still trips, have a licensed tankless water heater technician check gas pressure and run a combustion analysis before further operation.
-
-## Related Articles
-
-- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
-- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
-- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)
-
-<!-- INTERNAL-LINK-AUTO -->
-**Related:** [Rheem EcoNet A101 error code fix](/posts/rheem-econet-a101-error-code/)
-

@@ -44,10 +44,3 @@ Common real-world issues include dirty filters driving limit-switch lockouts, pr
 ## When to Call a Pro
 
 Call a licensed HVAC technician for any gas-valve diagnosis or replacement, control-board replacement, pressure-switch testing that requires combustion-analyzer verification, or if you observe repeated limit or rollout lockouts that do not resolve after clearing airflow obstructions. Any work involving gas piping, valve replacement, or combustion tuning requires a professional with proper licensing and test equipment. If the diagnostic LED shows a code you cannot identify or if the furnace locks out immediately after reset, a technician with access to the Carrier fault table and service manual is needed to trace wiring, test safety circuits, and verify proper operation of the inducer, igniter, and flame-proving system.
-
-## See Also
-
-- [Carrier AC E3 Error Code: IPM Module Fault Diagnosis and Fix](/posts/carrier-e3-error-code/)
-- [Carrier E10 Error Code - Causes & Fix](/posts/carrier-heat-pump-e10-error-code/)
-- [Carrier Geothermal Heat Pump Error Codes Guide](/posts/carrier-geothermal-error-codes/)
-- [Carrier 24ACC Air Conditioner Error Codes — Fault Code Diagnostic Guide](/posts/carrier-24acc-error-codes/)

@@ -148,10 +148,3 @@ A: The XR17 uses a two-speed compressor and generates more specific faults relat
 
 **Q: My XR17 runs fine in cooling but won't heat. Code 182 shows on the thermostat. Can I confirm the reversing valve is the problem before calling a tech?**
 A: Yes. Go to the outdoor unit while it's in heating mode. Find the reversing valve (a copper cylinder with four refrigerant lines soldered to it, located near the compressor). Touch the top of the valve, you should feel a vibration if the valve body is moving. Also locate the solenoid coil mounted on the valve and feel whether it's warm (energized) or cold (de-energized). If the solenoid is warm but the valve body isn't shifting, the valve body is stuck. If the solenoid is cold when it should be energized, the electrical circuit to the solenoid has failed.
-
-## See Also
-
-- [Trane AC E2 Error Code — Sensor and Communication Fault Fix](/posts/trane-e2-ac-sensor-fault/)
-- [Trane Voyager RTU Error Code 31 — Fix](/posts/trane-voyager-rtu-error-code-31/)
-- [Trane 8 Flashes Error Code — Causes & Fix](/posts/trane-8-flashes-error-code/)
-- [Trane Precedent Rooftop Unit Error Codes: Complete Guide](/posts/trane-precedent-error-codes/)

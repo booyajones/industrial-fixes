@@ -21,8 +21,6 @@ most_likely_cause: "Encoder cable damage"
 
 The Yaskawa Sigma-7 (model series SGD7S, SGD7W) is a high-performance AC servo amplifier used in CNC machine tools, industrial robots, semiconductor equipment, packaging machinery, and precision automation. When the amplifier detects a fault condition, it displays a two-character alarm code (e.g., **AL.10**, **AL.16**) on the front panel LED and halts the servo axis. Understanding what each code means is critical — replacing the servo amplifier unnecessarily costs $1,500–$8,000+, while most alarm conditions are caused by external wiring faults, encoder cable issues, or parameter misconfiguration.
 
-[Jump to Fix](#step-by-step-fix)
-
 ## Sigma-7 Alarm Code Quick Reference
 
 | Alarm | Name | Most Likely Cause |
@@ -96,19 +94,3 @@ The Yaskawa Sigma-7 (model series SGD7S, SGD7W) is a high-performance AC servo a
 If AL.10 (overcurrent) or AL.32 (IGBT failure) persists after confirming the motor and cable are fault-free, the fault is internal to the amplifier — power stage replacement is required. Yaskawa SGD7S amplifiers contain high-voltage DC bus capacitors that remain charged after power-off; do not open the amplifier unless you are a qualified technician with appropriate PPE and discharge procedures. For machine tool applications where the servo axis is part of an integrated CNC system (Fanuc, Mitsubishi, Mazak, Okuma), Yaskawa recommends their authorized service engineers for parameter backup and restoration.
 
 > **Pro tip:** Before any Sigma-7 service work, always back up the amplifier parameters using **SigmaWin+** (File → Parameter → Save to File). If the amplifier is replaced, you can restore parameters directly — this saves 1–2 hours of re-commissioning time and avoids the risk of manual parameter entry errors on the 300+ parameter set.
-
-## See Also
-
-- [Yaskawa VFD Fault OC — Overcurrent Diagnosis](/posts/yaskawa-vfd-fault-oc-overcurrent/)
-- [Yaskawa GA700 Fault UV1](/posts/yaskawa-ga700-fault-uv1/)
-- [Mitsubishi MR-J4 Servo Amplifier Alarm Codes](/posts/mitsubishi-mr-j4-servo-alarm-codes/)
-- [Fanuc Servo Alarm 400 — Servo Axis Not Ready](/posts/fanuc-alarm-400/)
-- [Servo Motor Fault Codes Guide](/posts/servo-motor-fault-codes/)
-
-## Related Articles
-
-- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
-- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
-- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
-- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
-- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)

@@ -13,13 +13,10 @@ money_part: "Communications cable for Yaskawa GA800 option module"
 most_likely_cause: "Disconnected or loose communications cable"
 ---
 
-## Yaskawa GA800 E07 Fault — What It Means
-
+## What this code means
 The E07 fault on a Yaskawa GA800 variable frequency drive indicates a serial communication transmission error. The drive is not receiving valid communication on the option or serial link. This typically occurs when the communications cable is disconnected, wired incorrectly, shorted, or when an expected option module is missing or not being detected properly.
 
 This fault does not point to motor problems, overload conditions, or power stage failures. It is strictly a communications path issue between the drive and its serial or network option hardware. The drive expects to exchange data over a cable or module and is not seeing the expected signal.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ This fault does not point to motor problems, overload conditions, or power stage
 ## When to Call a Pro
 
 Call a qualified industrial electrician or automation technician if you are not trained in lockout/tagout or VFD service, if the fault persists after you have verified and replaced the cable and option module, or if you do not have access to the correct wiring diagrams for your installed option hardware. Yaskawa technical support or an authorized distributor can provide advanced diagnostics and factory-level troubleshooting when communication faults do not resolve with field-replaceable parts.
-
-## See Also
-
-- [Yaskawa GA800 E24 Fault - Causes & Fix](/posts/yaskawa-ga800-e24-fault-code/)
-- [Yaskawa VFD Fault GF — Causes & Fix](/posts/yaskawa-vfd-fault-gf/)
-- [Yaskawa GA800 E11 Error Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e11-fault-code/)
-- [Yaskawa GA800 E29 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e29-fault-code/)

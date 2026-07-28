@@ -13,11 +13,8 @@ money_part: "Refrigerant charge (R-404A or R-448A per model)"
 most_likely_cause: "Low refrigerant charge"
 ---
 
-## Manitowoc Ice Machine E01 Error Code — What It Means
-
+## What this code means
 The Manitowoc Indigo series displays **E01** when the ice-making (freeze) cycle has lasted longer than 60 minutes on six consecutive attempts — each cycle took too long to complete, indicating a refrigeration system problem. Manitowoc uses a 60-minute freeze cycle limit as a safety threshold; a normal freeze cycle runs 15–30 minutes depending on ambient and water conditions. E01 means the machine has tried six full-length cycles, detected a problem each time, and finally shut down. This is a refrigeration system fault, not a minor issue — production stops entirely.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ The Manitowoc Indigo series displays **E01** when the ice-making (freeze) cycle 
 ## When to Call a Pro
 
 E01 almost always requires refrigerant system diagnosis with manifold gauges. Refrigerant work requires EPA Section 608 certification. Don't attempt to add refrigerant without finding and fixing the leak first.
-
-## Related Articles
-
-- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
-- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
-- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
-- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
-- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)
-
-## See Also
-
-- [Manitowoc Ice Machine Error Code 6 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-6/)
-- [Manitowoc E01 Error Code — Long Freeze Cycle Fix](/posts/manitowoc-e01-error-code/)
-- [Manitowoc ID-0502 Error Codes — Fault Code Diagnostic Guide](/posts/manitowoc-id-0502-error-codes/)
-- [Manitowoc ID-0322 Error Codes — Fix Guide](/posts/manitowoc-id-0322-error-codes/)

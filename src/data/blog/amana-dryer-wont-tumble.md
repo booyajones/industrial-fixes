@@ -17,8 +17,6 @@ tags:
 
 When your Amana dryer won't tumble, the drum does not rotate during a cycle even though the dryer may still power on and heat. This symptom is not a fault code. It is a mechanical or electrical failure that prevents the drum from turning, so clothes cannot be agitated through the air stream. The dryer may hum, remain silent, or run normally except for the drum staying still.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Broken drive belt** The drive belt wraps around the drum and motor pulley, and when it breaks or slips off the drum spins very freely by hand with almost no resistance.
@@ -53,18 +51,18 @@ When your Amana dryer won't tumble, the drum does not rotate during a cycle even
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Amana Dryer Af F4E3 error code](/posts/amana-dryer-af-f4e3-error-code/)
-- [Amana Dryer Err error code](/posts/amana-dryer-err-error-code/)
-- [Amana Dryer F01 error code](/posts/amana-dryer-f01-error-code/)
-- [Amana Dryer F02 error code](/posts/amana-dryer-f02-error-code/)
-- [Amana Dryer F1 E1 error code](/posts/amana-dryer-f1-e1-error-code/)
-- [Amana Dryer F1 E4 error code](/posts/amana-dryer-f1-e4-error-code/)
-- [Amana Dryer F1E3 error code](/posts/amana-dryer-f1e3-error-code/)
-- [Amana Dryer F1E5 error code](/posts/amana-dryer-f1e5-error-code/)
-- [Amana Dryer F20 error code](/posts/amana-dryer-f20-error-code/)
-- [Amana Dryer F22 error code](/posts/amana-dryer-f22-error-code/)
-- [Amana Dryer F23 error code](/posts/amana-dryer-f23-error-code/)
-- [Amana Dryer F24 error code](/posts/amana-dryer-f24-error-code/)
+- Amana Dryer Af F4E3 error code
+- Amana Dryer Err error code
+- Amana Dryer F01 error code
+- Amana Dryer F02 error code
+- Amana Dryer F1 E1 error code
+- Amana Dryer F1 E4 error code
+- Amana Dryer F1E3 error code
+- Amana Dryer F1E5 error code
+- Amana Dryer F20 error code
+- Amana Dryer F22 error code
+- Amana Dryer F23 error code
+- Amana Dryer F24 error code
 
 ## When to Call a Pro
 

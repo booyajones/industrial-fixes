@@ -17,8 +17,7 @@ money_part: "Samsung washer thermistor / water temperature sensor"
 part_price: "$15-50"
 ---
 
-## Samsung Washer tC Error Code — What It Means
-
+## What this code means
 The tC code on your Samsung washer indicates a thermistor or temperature-sensor fault. The washer is detecting an abnormal temperature-sensor reading, so it cannot trust the water temperature measurement. In Samsung's code tables, tC is tied to the machine's temperature-sensing system rather than a mechanical wash fault. The control board is not getting a valid temperature reading from the thermistor circuit, which may be missing, implausible, or outside the expected range.
 
 This error will typically stop the wash cycle because the machine cannot verify safe water temperature for the selected program. The thermistor is a small sensor mounted in the tub or heater assembly that changes resistance with temperature, and the control board reads that resistance to monitor water heat. When the signal is lost, shorted, or inconsistent, the tC code appears.
@@ -26,8 +25,6 @@ This error will typically stop the wash cycle because the machine cannot verify 
 ## Before You Replace Anything
 
 Many people replace the main control board first when the thermistor or its wiring is the real problem. Measure the thermistor resistance at room temperature and inspect the harness for damage before replacing any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

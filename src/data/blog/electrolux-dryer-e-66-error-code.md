@@ -22,8 +22,7 @@ part_price: "$12-35"
 no_buy_pct: "60%"
 ---
 
-## Electrolux Dryer E66 Error Code — What It Means
-
+## What this code means
 The E66 error on an Electrolux dryer indicates the heat safety circuit has opened or tripped. The dryer has detected an overheat condition or an open thermal protection device in the heater circuit. This is a safety response to either restricted airflow causing overheating or a failed thermal cutoff, thermal fuse, or high-limit thermostat in the heater safety chain.
 
 The code does not mean the heater element itself has failed. Instead, it signals that one of the protective devices designed to prevent fire or damage has either blown due to excessive heat or is reading an unsafe temperature. The dryer will not heat until the root cause is corrected and any failed safety components are replaced.
@@ -31,8 +30,6 @@ The code does not mean the heater element itself has failed. Instead, it signals
 ## Before You Replace Anything
 
 Homeowners often replace the heating element first, but E66 points to the thermal safety devices and airflow path. Always check for vent blockages and test the thermal cutoff and high-limit thermostat for continuity before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

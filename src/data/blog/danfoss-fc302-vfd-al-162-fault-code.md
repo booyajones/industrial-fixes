@@ -18,8 +18,7 @@ free_checks:
   - "Inspect motor cable and terminal box for visible signs of burning, arcing, or loose connections"
 ---
 
-## Danfoss FC302 AL-16 Fault — What It Means
-
+## What this code means
 Alarm 16 on the Danfoss FC302 VFD indicates an instantaneous short circuit condition on the drive's output. The drive detects a catastrophic overcurrent event, typically from a direct short across the DC bus or output phases, and shuts down within microseconds to protect itself. This is the most severe overcurrent fault the drive can throw.
 
 The fault is usually caused by a breakdown inside the drive's IGBT (power semiconductor) modules, creating a hard short between DC+ and DC– rails. Less often it is triggered by a short circuit in the motor windings, motor cable, or incorrect parameter settings that confuse the drive's protection logic.
@@ -27,8 +26,6 @@ The fault is usually caused by a breakdown inside the drive's IGBT (power semico
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive when only the IGBT inverter module or power board has failed. Always disconnect the motor and run the drive unloaded first to isolate whether the fault is in the drive itself or in the motor circuit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or drive repair specialist for Alarm 16. This fault involves high-voltage DC bus components and sensitive IGBT modules that require specialized test equipment and experience to diagnose safely. Incorrect handling can destroy the drive or create a shock hazard. A professional can isolate the fault between the drive and motor, perform insulation resistance testing with a megger, and replace IGBT modules or power boards using factory-approved procedures. If you lack high-voltage training or the tools to safely discharge and test DC bus components, do not attempt this repair yourself.
 
 **Rough cost:** A pro service call runs about $300-900.
-
-## See Also
-
-- [Danfoss FC302 VFD AL-15 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-152-fault-code/)
-- [Danfoss FC302 AL-146 - Causes & Fix](/posts/danfoss-fc302-vfd-al-146-fault-code/)
-- [Danfoss FC302 Alarm 14 - Causes & Fix](/posts/danfoss-fc302-vfd-al-144-fault-code/)
-- [Danfoss FC302 AL-149 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-149-fault-code/)

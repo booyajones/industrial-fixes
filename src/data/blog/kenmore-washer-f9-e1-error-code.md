@@ -22,8 +22,7 @@ part_price: "$40-80"
 no_buy_pct: "60%"
 ---
 
-## Kenmore Washer F9 E1 Error Code — What It Means
-
+## What this code means
 The F9 E1 error code on a Kenmore washer indicates a long drain fault. The machine detected that water did not leave the tub within the expected drain time. On Whirlpool-platform Kenmore washers, this code is treated as a drain system fault rather than a generic electronic failure. The code is triggered when the washer does not see the water level drop as expected during the drain cycle.
 
 This fault points to a blocked or restricted drain path, a failed drain pump, or an installation problem with the drain hose. Less commonly, oversudsing from non-HE detergent or too much detergent can slow draining on these Whirlpool-family washers.
@@ -31,8 +30,6 @@ This fault points to a blocked or restricted drain path, a failed drain pump, or
 ## Before You Replace Anything
 
 Many people replace the drain pump first when the real culprit is a kinked hose or a hose installed too far down into the standpipe. Always inspect the hose for kinks, blockage, and proper installation depth before ordering a new pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

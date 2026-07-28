@@ -19,8 +19,6 @@ No ignition means the burner did not light during a call for heat, or the contro
 
 Because Bradford White uses different gas-control platforms across models, the exact meaning depends on whether you have a standing-pilot, spark-to-pilot, or fully electronic control. The control called for ignition, attempted to light the burner, and either never lit or did not receive flame-proving feedback within the allowed sequence.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Pilot out or igniter button tripped (standing-pilot models)** The pilot flame is extinguished or the resettable igniter safety button has popped out, preventing the main burner from lighting.

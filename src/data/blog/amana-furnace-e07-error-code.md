@@ -14,13 +14,10 @@ money_part: "Gas valve assembly"
 most_likely_cause: "Failed gas valve coil or assembly"
 ---
 
-## Amana Furnace E07 Error Code — What It Means
-
+## What this code means
 The E07 error code (or 7 flashes on the LED) indicates a gas valve circuit fault. Your furnace control board has detected that the electrical circuit to the gas valve is not behaving as expected. This can be an open circuit, a short, or an intermittent connection. The board cannot safely energize the gas valve, so it locks out the heating cycle and displays the fault.
 
 This is a different problem than simple ignition failure. While a furnace that repeatedly fails to light may eventually lock out, the E07 code specifically points to an electrical problem in the gas valve circuit itself, not just a failure to ignite. Some Amana and Goodman models use different numbering schemes, so always verify your exact model's code chart on the rating plate or service literature before proceeding.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -17,8 +17,7 @@ money_part: "Frigidaire oven keypad touch panel overlay"
 part_price: "$50-150"
 ---
 
-## Frigidaire Oven F11 Error Code — What It Means
-
+## What this code means
 The F11 code on a Frigidaire oven or range signals a keypad or touchpad short circuit error. The electronic control has detected that a button appears to be continuously pressed or that the keypad membrane circuit is shorted internally. In practical terms, the oven believes a key is stuck down even when you are not touching the panel.
 
 This fault can be a genuine stuck button, moisture or debris under the membrane, a failed keypad assembly, or occasionally a problem with the wiring connector between the keypad and the main control board. The oven will typically be locked out and unable to start a bake or broil cycle until the short is cleared.
@@ -26,8 +25,6 @@ This fault can be a genuine stuck button, moisture or debris under the membrane,
 ## Before You Replace Anything
 
 Many people replace the electronic oven control board first when F11 appears. Before buying a new board, unplug the oven and inspect the keypad for stuck buttons, moisture, and check the ribbon connector for corrosion or looseness.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

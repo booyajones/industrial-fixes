@@ -16,8 +16,7 @@ likelihood: "the most common real-world cause"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Dryer F70 Error Code — What It Means
-
+## What this code means
 The F70 code on Kenmore HE-style dryers indicates a communication fault between the user interface console and the main electronic control board. The two boards are not able to exchange signals, which stops the dryer from running. This code is sometimes confused with an overheating condition in online forums, but manufacturer-level documentation consistently describes it as a loss of communication between the control electronics.
 
 Because Kenmore dryers often use Whirlpool-built control platforms, the exact wording may vary slightly by model, but the underlying issue is the same: the user interface board and the main control board cannot talk to each other. This can be caused by a poor connection in the wiring harness, corrosion at a connector, or a failed board.
@@ -25,8 +24,6 @@ Because Kenmore dryers often use Whirlpool-built control platforms, the exact wo
 ## Before You Replace Anything
 
 Many people replace the main control board or user interface board first. Before buying either board, disconnect power and carefully inspect, clean, and reseat every connector between the two boards-corrosion or a partially backed-out terminal is often the only problem.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

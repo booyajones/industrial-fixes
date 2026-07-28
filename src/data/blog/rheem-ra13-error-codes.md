@@ -17,8 +17,6 @@ money_part: "Dual run capacitor"
 
 The Rheem RA13 (and its Ruud counterpart, the RA13) is a 13–14 SEER single-stage central air conditioner using R-410A refrigerant. It is designed for replacement and new construction applications where budget is the primary constraint. The RA13 uses a conventional control board with a status LED to communicate faults via flash codes. These units do not have a communicating bus — they operate in a standard thermostat-controlled on/off mode.
 
-[Jump to Fix](#fix)
-
 ## Rheem RA13 LED Flash Code Reference
 
 | Flash Sequence | Fault |
@@ -61,18 +59,3 @@ The Rheem RA13 (and its Ruud counterpart, the RA13) is a 13–14 SEER single-sta
 ## When to Call a Pro
 
 Refrigerant handling on the RA13 requires EPA 608 certification. If the compressor draws high amperage (above nameplate FLA) but produces no cooling, the compressor may be mechanically failed — a technician with a clamp-on ammeter and manifold gauges can confirm this before an expensive replacement decision is made.
-
-## Related Articles
-
-- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
-- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
-- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)
-- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
-- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)
-
-## See Also
-
-- [Rheem Furnace 9 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-9-flashes/)
-- [Rheem EcoNet A101 Error Code — Causes & Fix](/posts/rheem-econet-a101-error-code/)
-- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)
-- [Rheem RPH Series Packaged Unit Error Codes: Complete Guide](/posts/rheem-rph-error-codes/)

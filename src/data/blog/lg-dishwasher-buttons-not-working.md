@@ -19,8 +19,6 @@ When buttons on your LG dishwasher stop responding, it means the control panel i
 
 If the panel lights up but buttons still do nothing, and no lock indicator or cycle is running, the problem is usually in the user interface assembly, the main control board, or the power supply. LG guidance treats unresponsive buttons as a troubleshooting condition that requires checking lock status, cycle state, and power before moving to component-level diagnosis.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Control Lock enabled** LG documents this as the top cause when buttons are blocked and the display shows CL.
@@ -54,26 +52,19 @@ If the panel lights up but buttons still do nothing, and no lock indicator or cy
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Lg Dishwasher Ae error code](/posts/lg-dishwasher-ae-error-code/)
-- [Lg Dishwasher Be error code](/posts/lg-dishwasher-be-error-code/)
-- [Lg Dishwasher Ce error code](/posts/lg-dishwasher-ce-error-code/)
-- [Lg Dishwasher Cr error code](/posts/lg-dishwasher-cr-error-code/)
+- Lg Dishwasher Ae error code
+- Lg Dishwasher Be error code
+- Lg Dishwasher Ce error code
+- Lg Dishwasher Cr error code
 - [Lg Dishwasher E1 error code](/posts/lg-dishwasher-e1-error-code/)
-- [Lg Dishwasher Fe error code](/posts/lg-dishwasher-fe-error-code/)
-- [Lg Dishwasher He error code](/posts/lg-dishwasher-he-error-code/)
-- [Lg Dishwasher Ie error code](/posts/lg-dishwasher-ie-error-code/)
-- [Lg Dishwasher Le error code](/posts/lg-dishwasher-le-error-code/)
-- [Lg Dishwasher Ne error code](/posts/lg-dishwasher-ne-error-code/)
-- [Lg Dishwasher Oe error code](/posts/lg-dishwasher-oe-error-code/)
-- [Lg Dishwasher Pe error code](/posts/lg-dishwasher-pe-error-code/)
+- Lg Dishwasher Fe error code
+- Lg Dishwasher He error code
+- Lg Dishwasher Ie error code
+- Lg Dishwasher Le error code
+- Lg Dishwasher Ne error code
+- Lg Dishwasher Oe error code
+- Lg Dishwasher Pe error code
 
 ## When to Call a Pro
 
 Call a technician if you have confirmed power, cleared Control Lock, and reseated all connectors but buttons still do not respond. Diagnosing whether the console or the main board has failed requires multimeter testing and familiarity with your model's wiring diagram. If you are not comfortable removing the door panel, tracing harness connections, or handling live voltage during testing, professional service will save time and avoid misdiagnosis. LG-adjacent repair sources warn that control boards are frequently replaced unnecessarily, so an experienced tech can pinpoint the actual failed component and avoid wasting money on the wrong part.
-
-## See Also
-
-- [LG Mini Split CH60 Error - Causes & Fix](/posts/lg-mini-split-ch60-error-code/)
-- [LG Refrigerator Water Dispenser Not Working - Causes & Fix](/posts/lg-refrigerator-water-dispenser-not-working/)
-- [LG Mini-Split CH07 Error Code - Causes & Fix](/posts/lg-mini-split-ch07-error-code/)
-- [LG Oven Igniter Not Working - Causes & Fix](/posts/lg-oven-igniter-not-working/)

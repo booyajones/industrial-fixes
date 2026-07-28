@@ -22,8 +22,7 @@ part_price: "$40–80"
 no_buy_pct: "60%"
 ---
 
-## Samsung Washer dE2 Error Code — What It Means
-
+## What this code means
 Samsung's dE2 error code is a door-related fault. On Samsung's UK support table, dE2 is labeled as an "On / Off switch error." In practical terms, the code indicates the washer cannot confirm the door is properly secured, either because the door is not fully closed, the latch is not engaging, or the door-switch circuit has a fault. Samsung's U.S. troubleshooting pages group dE and dE2 together as door-latch conditions that prevent the wash cycle from starting or continuing.
 
 Because Samsung's regional support pages do not fully explain the internal logic of every model, a technician should treat dE2 as a control-side fault tied to the door-switch, door-latch circuit, or door-security detection. The code can appear as a temporary control glitch or as a persistent fault when the latch hardware, switch, wiring, or door alignment is damaged. Samsung's first-line troubleshooting step is a power reset: disconnect the washer from mains power for 5 minutes, then retry.
@@ -31,8 +30,6 @@ Because Samsung's regional support pages do not fully explain the internal logic
 ## Before You Replace Anything
 
 Homeowners often replace the door-lock assembly immediately, but many dE2 codes clear with a 5-minute power reset or by removing laundry caught in the door gasket and reseating the latch.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

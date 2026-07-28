@@ -19,8 +19,6 @@ When your Whirlpool dishwasher buttons stop responding, it means the control sys
 
 If the unit appears completely dead at the buttons, the door may not be fully latched, Control Lock may be enabled, Delay Start may be active, or the electronic controls are not energizing or responding properly. Repair Clinic notes that a failed door latch can prevent a wash cycle from starting and that a bad main control board may fail to send voltage to the touchpad.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Control Lock enabled** The control lock or sleep mode is active and blocking all button commands until you disable it according to your model's user interface instructions.
@@ -55,18 +53,18 @@ If the unit appears completely dead at the buttons, the door may not be fully la
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Whirlpool Dishwasher E1 error code](/posts/whirlpool-dishwasher-e1-error-code/)
-- [Whirlpool Dishwasher E15 error code](/posts/whirlpool-dishwasher-e15-error-code/)
-- [Whirlpool Dishwasher E3 error code](/posts/whirlpool-dishwasher-e3-error-code/)
+- Whirlpool Dishwasher E1 error code
+- Whirlpool Dishwasher E15 error code
+- Whirlpool Dishwasher E3 error code
 - [Whirlpool Dishwasher E4 error code](/posts/whirlpool-dishwasher-e4-error-code/)
 - [Whirlpool Dishwasher E6 error code](/posts/whirlpool-dishwasher-e6-error-code/)
-- [Whirlpool Dishwasher E7 error code](/posts/whirlpool-dishwasher-e7-error-code/)
-- [Whirlpool Dishwasher F10E5 error code](/posts/whirlpool-dishwasher-f10e5-error-code/)
-- [Whirlpool Dishwasher F1E1 error code](/posts/whirlpool-dishwasher-f1e1-error-code/)
-- [Whirlpool Dishwasher F2E2 error code](/posts/whirlpool-dishwasher-f2e2-error-code/)
-- [Whirlpool Dishwasher F3E1 error code](/posts/whirlpool-dishwasher-f3e1-error-code/)
-- [Whirlpool Dishwasher F3E2 error code](/posts/whirlpool-dishwasher-f3e2-error-code/)
-- [Whirlpool Dishwasher F4E3 error code](/posts/whirlpool-dishwasher-f4e3-error-code/)
+- Whirlpool Dishwasher E7 error code
+- Whirlpool Dishwasher F10E5 error code
+- Whirlpool Dishwasher F1E1 error code
+- Whirlpool Dishwasher F2E2 error code
+- Whirlpool Dishwasher F3E1 error code
+- Whirlpool Dishwasher F3E2 error code
+- Whirlpool Dishwasher F4E3 error code
 
 ## When to Call a Pro
 

@@ -17,8 +17,7 @@ money_part: "LG upper oven temperature sensor (thermistor)"
 part_price: "$25-70"
 ---
 
-## LG Range F6 Error Code — What It Means
-
+## What this code means
 F6 is an Upper Oven Heating Error according to LG USA Support. The control has detected an abnormal heating condition in the upper oven cavity and has stopped normal operation to protect the appliance. One third-party source notes that F6 (sometimes displayed as F6F16 or F16) can indicate temperature exceeding 650°F during cooking, though LG's official description is broader and simply refers to a heating error. The fault does not appear during self-cleaning mode.
 
 LG instructs users to press CLEAR/OFF or Power ON/OFF to clear the code, then power-cycle the range at the breaker for 30 seconds if the fault returns. If the code persists after a full reset, the upper oven heating circuit or its sensing and control components need diagnosis and repair.
@@ -26,8 +25,6 @@ LG instructs users to press CLEAR/OFF or Power ON/OFF to clear the code, then po
 ## Before You Replace Anything
 
 Many people replace the main control board first. Test the upper oven temperature sensor for continuity and resistance at room temperature before ordering any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a qualified appliance technician if you are uncomfortable working inside the range cabinet, if the fault returns after you have replaced the sensor and inspected all wiring, or if you need to diagnose the control board relay circuits with specialized test equipment. Technicians have the service manual, wiring diagrams, and component-level test procedures to isolate stuck relays, shorted heating elements, or control board failures that are not obvious from basic continuity checks. If your range is still under warranty or you lack a multimeter and the confidence to safely disconnect and test electrical components, professional service is the best path.
 
 **Rough cost:** DIY runs about $25-70 in parts, 30-60 min. A pro service call runs about $150-300.
-
-## See Also
-
-- [LG Oven F6 Error Code - Causes & Fix](/posts/lg-oven-f6-error-code/)
-- [LG Range E6 Error Code - Causes & Fix](/posts/lg-range-e6-error-code/)
-- [LG Refrigerator Not Cooling - Causes & Fix](/posts/lg-refrigerator-not-cooling/)
-- [LG Dryer LE2 Error Code - Causes & Fix](/posts/lg-dryer-le2-error-code/)

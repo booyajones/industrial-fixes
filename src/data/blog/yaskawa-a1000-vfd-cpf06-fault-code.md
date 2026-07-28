@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 CPF06 — What It Means
-
+## What this code means
 CPF06 is the Yaskawa A1000's fault code for an EEPROM Memory Data Error. The VFD has detected corrupted or unreadable data in the EEPROM chip on the control board, which stores calibration settings and user parameters. This is a control board failure indicator that prevents the drive from operating safely because the logic unit cannot verify its internal configuration data.
 
 The fault typically appears after a power interruption during parameter changes, physical degradation of the EEPROM chip, or a poor connection between the control board and the main power board. The drive will not run until the memory error is resolved, either through reinitialization or hardware replacement.
@@ -24,8 +23,6 @@ The fault typically appears after a power interruption during parameter changes,
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire VFD unit without first reseating the control board connections and attempting parameter reinitialization, which can resolve the fault in cases where the EEPROM chip itself is not damaged.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician for CPF06 faults. This repair involves working inside a high-voltage inverter enclosure with exposed DC bus capacitors that can remain charged at lethal voltages even after the main power is off. Proper lockout procedures, discharge verification with calibrated meters, and knowledge of control board diagnostics are required. Technicians will also verify that the replacement board is correctly configured for your motor and application parameters to avoid immediate failure or runaway conditions on restart.
 
 **Rough cost:** A pro service call runs about $400-900 for control board replacement including labor.
-
-## See Also
-
-- [Yaskawa A1000 CPF08 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf08-fault-code/)
-- [Yaskawa GA800 E25 Fault - Causes & Fix](/posts/yaskawa-ga800-e25-fault-code/)
-- [Yaskawa GA800 VFD E54 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e54-fault-code/)
-- [Yaskawa GA800 A.146 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-146-fault-code/)

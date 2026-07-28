@@ -13,11 +13,8 @@ money_part: "Condenser fan motor"
 most_likely_cause: "Low refrigerant charge"
 ---
 
-## Manitowoc Ice Machine Error Code 3 — What It Means
-
+## What this code means
 Manitowoc ice machine error code 3 indicates that the freeze cycle took too long to complete. On Manitowoc Indigo and QuietQube series machines, the control board monitors freeze cycle time and shuts down with error code 3 if the evaporator hasn't reached the harvest temperature setpoint within a maximum allowable time (typically 60–90 minutes depending on model). This is a safety feature to prevent the machine from running indefinitely if it can't make ice, which would waste energy and allow the water system to stagnate. The root cause is almost always a refrigeration system problem or a water/ambient condition issue.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Manitowoc ice machine error code 3 indicates that the freeze cycle took too long
 ## When to Call a Pro
 
 Refrigerant system diagnosis and recharge require EPA 608 certification. If cleaning the condenser and confirming fan operation doesn't resolve code 3, a licensed refrigeration technician needs to check system pressures and inspect for refrigerant leaks.
-
-## Related Articles
-
-- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
-- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
-- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
-- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
-- [Manitowoc Ice Machine Error Code 4 — Water Curtain Fault Fix](/posts/manitowoc-ice-machine-error-code-4-water-curtain/)
-
-## See Also
-
-- [Manitowoc E01 Error Code — Long Freeze Cycle Fix](/posts/manitowoc-e01-error-code/)
-- [Manitowoc E02 Error Code — Long Harvest Cycle Fix](/posts/manitowoc-e02-error-code/)
-- [Manitowoc Indigo NXT Ice Machine Complete Troubleshooting Guide](/posts/manitowoc-indigo-nxt-complete-guide/)
-- [Manitowoc Ice Machine Error Code 5 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-5/)

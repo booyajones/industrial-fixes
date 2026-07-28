@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Owner's Manual (model-specific)"
 ---
 
-## Frigidaire SB Error Code — What It Means
-
+## What this code means
 SB on a Frigidaire refrigerator display means Sabbath Mode is active. This is not a failure code. Sabbath Mode is a feature that disables portions of the refrigerator and its controls for observance of the Sabbath and religious holidays. While the mode is on, the display shows "Sb" and lights, the dispenser, and most of the control panel will not operate.
 
 The refrigerator continues cooling normally in Sabbath Mode, and the high-temperature alarm remains active for food safety even though other functions are disabled. Customers commonly mistake the inactive lights, dispenser, and display for a malfunction, but the code indicates an intentional mode state. The unit can remain in Sabbath Mode after a power failure until you manually deactivate it from the control panel.
@@ -26,29 +25,11 @@ The refrigerator continues cooling normally in Sabbath Mode, and the high-temper
 
 Homeowners often call for service thinking the control board or dispenser has failed. Before replacing anything, simply verify the display shows 'SB' and try the button sequence to deactivate Sabbath Mode.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Accidental button press (~70%)** The model-specific key sequence for Sabbath Mode was entered unintentionally, often by children or when cleaning the panel.
-- **Power failure recovery (~20%)** The refrigerator can remain in Sabbath Mode after power is restored until you manually deactivate it.
-- **Intentional activation forgotten (~10%)** A household member activated Sabbath Mode for a religious observance and the mode was not deactivated afterward.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Does the display show 'SB' or 'Sb' and the interior lights do not turn on when you open the door?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Sabbath Mode is active. Proceed to deactivate it using the button sequence for your model.<br><strong>No:</strong> The problem is not Sabbath Mode. Check for a different error code or a power issue.</div>
-</details>
-
-<details class="dtree"><summary>Can you hear the compressor running and feel cold air inside?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Cooling is working normally. The SB code only disables lights and controls, so deactivate the mode and operation will fully restore.<br><strong>No:</strong> You may have a separate cooling fault in addition to Sabbath Mode. Deactivate SB first, then troubleshoot the cooling system.</div>
-</details>
-
-<details class="dtree"><summary>After holding the button combination for 5 to 7 seconds, does the SB disappear and do lights come back on?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Sabbath Mode is now off and the refrigerator is back to normal operation. No further action needed.<br><strong>No:</strong> Consult your owner's manual for the exact button sequence for your model number, or contact Frigidaire support for model-specific instructions.</div>
-</details>
+- **Accidental button press** The model-specific key sequence for Sabbath Mode was entered unintentionally, often by children or when cleaning the panel.
+- **Power failure recovery** The refrigerator can remain in Sabbath Mode after power is restored until you manually deactivate it.
+- **Intentional activation forgotten** A household member activated Sabbath Mode for a religious observance and the mode was not deactivated afterward.
 
 ## Step-by-Step Fix {#fix}
 
@@ -69,5 +50,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 No professional repair is needed for the SB code. Sabbath Mode is a normal feature, not a failure. If the code does not clear after you follow the correct model-specific deactivation steps from your owner's manual, contact Frigidaire customer support or a technician to verify the control interface and obtain the exact button sequence for your model. Do not replace the control board, thermistors, or any sealed-system components based on the SB indication alone. If the refrigerator does not cool properly after you deactivate Sabbath Mode, then call a technician to diagnose the separate cooling fault.
-
-**Rough cost:** DIY runs about No cost, 1 minute. A pro service call runs about $0 (no repair needed, just mode deactivation).

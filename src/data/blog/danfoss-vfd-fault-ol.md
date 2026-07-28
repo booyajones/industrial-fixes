@@ -13,11 +13,8 @@ money_part: "Larger frame motor"
 most_likely_cause: "Mechanical overload on the driven equipment"
 ---
 
-## Danfoss VFD Fault OL — What It Means
-
+## What this code means
 Danfoss VFD fault OL (Motor Overload) indicates that the drive's electronic thermal overload protection tripped. The drive monitors the product of output current and time using an inverse-time thermal model (the motor's I²t curve), and when the calculated motor temperature exceeds 100% of the motor thermal rating, it trips OL. This protection is programmed to match the motor's thermal class (parameter 1-90 on VLT FC series drives) and protects the motor from overheating when the motor doesn't have internal thermistors connected. OL is distinct from drive overcurrent faults — it's a sustained moderate overload, not an instantaneous spike.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Danfoss VFD fault OL (Motor Overload) indicates that the drive's electronic ther
 ## When to Call a Pro
 
 If the motor current is within nameplate rating, parameters are correct, and OL trips anyway, the motor may have developing insulation problems that reduce effective winding cross-section and increase running temperature. A motor insulation test and current analysis by an electrical contractor will confirm this.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-
-## See Also
-
-- [Danfoss VLT Alarm 14 - Earth Fault: What It Means and How to Fix It](/posts/danfoss-vlt-alarm-14/)
-- [Danfoss VFD Fault OCL — Causes & Fix](/posts/danfoss-vfd-fault-ocl/)
-- [Danfoss VFD Fault Codes — FC301, FC302, FC102 Reference](/posts/danfoss-vfd-fault-codes/)
-- [Danfoss VFD Fault E-Trip — Causes & Fix](/posts/danfoss-vfd-fault-e-trip/)

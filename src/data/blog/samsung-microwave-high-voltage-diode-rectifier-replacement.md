@@ -52,7 +52,7 @@ Diode failure usually comes from electrical stress in the high-voltage circuit. 
 
 If this part is failing you may also see one of these codes:
 
-- [Samsung Microwave C 10 error code](/posts/samsung-microwave-c-10-error-code/)
+- Samsung Microwave C 10 error code
 - [Samsung Microwave C 11 error code](/posts/samsung-microwave-c-11-error-code/)
 - [Samsung Microwave C 12 error code](/posts/samsung-microwave-c-12-error-code/)
 - [Samsung Microwave C 20 error code](/posts/samsung-microwave-c-20-error-code/)

@@ -42,10 +42,3 @@ The Daikin FTXV18AVJU9 is a wall-mounted ductless mini split indoor unit in the 
 ## When to Call a Pro
 
 Call a licensed HVAC technician for any work involving refrigerant (recovering, evacuating, charging), for all electrical diagnosis beyond checking terminal tightness, and whenever an error code reappears after a power reset. Refrigerant work requires EPA certification and specialized gauges. PCB-level repair, compressor replacement, and reversing valve service also require factory training and model-specific tooling. If you see an error code, write it down before the unit is powered off, then contact a Daikin-trained service provider with that code for accurate diagnosis.
-
-## See Also
-
-- [Daikin U8 Error Code - Causes & Fix](/posts/daikin-u8-error-code/)
-- [Daikin Chiller Fault Codes — Complete Troubleshooting Guide](/posts/daikin-chiller-fault-codes/)
-- [Daikin E8 Error Code - Causes & Fix](/posts/daikin-heat-pump-e8-error-code/)
-- [Daikin U7 Error Code - Causes & Fix](/posts/daikin-u7-error-code/)

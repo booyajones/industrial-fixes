@@ -221,10 +221,3 @@ A: If you can see sparking during ignition but the burner doesn't stay lit, the 
 **Q: Can I use the RU130iN with a recirculation system?**
 
 A: Yes — the RU130iN is compatible with dedicated return-line recirculation using the Rinnai RECiRC pump or an external pump. The Circ-Logic feature can be programmed for scheduled or demand-triggered recirculation. Using recirculation increases scale accumulation rate — consider bi-annual descaling if the unit runs recirculation frequently.
-
-## See Also
-
-- [Rinnai Error Code 33 — Causes & Fix](/posts/rinnai-error-code-33/)
-- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
-- [Rinnai Error Code 25 — Causes & Fix](/posts/rinnai-error-code-25/)
-- [Rinnai I120CN Tankless Water Heater Error Codes: Complete Guide](/posts/rinnai-i120cn-error-codes/)

@@ -21,8 +21,7 @@ part_price: "$15-50"
 no_buy_pct: "60%"
 ---
 
-## Frigidaire i30 Error Code — What It Means
-
+## What this code means
 The i30 code on Frigidaire dishwashers signals that water has been detected in the leak pan (overflow pan) beneath the tub. A float or leak sensor in that base pan has lifted or tripped, putting the machine into a protective state. You will often hear the drain pump running continuously when this code is active. This is a leak-detection event, not a drain fault by itself. The machine is telling you that water escaped from somewhere in the system and collected under the tub.
 
 The code can come from an actual mechanical leak (a loose hose, worn seal, or cracked pump housing), from oversudsing that pushes water out of the tub, from a door gasket that no longer seals, or even from a one-time spill that filled the pan without an ongoing problem. If i30 appears together with i20, a clogged drain or standing water in the tub may be contributing to overflow. The key diagnostic step is to pull the machine out, inspect the base pan for water, dry it completely so the float drops, then trace the source of the leak before running another cycle.
@@ -30,8 +29,6 @@ The code can come from an actual mechanical leak (a loose hose, worn seal, or cr
 ## Before You Replace Anything
 
 Many people replace the main control board or drain pump thinking i30 is an electronics or drainage fault. The real cause is almost always water in the base pan. Pull the machine out, inspect the pan and connections, and dry it before replacing any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

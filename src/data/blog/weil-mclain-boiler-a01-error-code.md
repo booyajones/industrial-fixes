@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Weil-McLain A01 Error Code — What It Means
-
+## What this code means
 The A01 error code is a lockout condition that appears when the boiler control module fails to detect a flame during the ignition sequence. The boiler attempts to light (typically after flashing a d3 code to show an ignition attempt is underway), but the flame sensor never confirms successful ignition. The system shuts down and locks out to prevent unburned gas from accumulating.
 
 This code always follows a failed ignition cycle. It does not mean the control board is broken or that major components are damaged. It simply means the conditions for combustion were not met, and the boiler needs troubleshooting before it can restart.
@@ -29,8 +28,6 @@ This code always follows a failed ignition cycle. It does not mean the control b
 ## Before You Replace Anything
 
 Homeowners often replace the gas valve or control board when the real problem is a dirty or misaligned ignition electrode. Inspect and clean the ignitor and flame sensor first.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -80,10 +77,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician if you are not comfortable working with natural gas or propane systems. Gas work requires specialized tools (manometer, multimeter, combustion analyzer) and knowledge of local codes. A technician should handle all tasks involving gas pressure measurement, valve replacement, control board diagnostics, or heat exchanger inspection. If the boiler has locked out multiple times or you smell gas, shut off the gas supply immediately and call for service. Do not attempt to bypass safety controls or force the boiler to restart without identifying the root cause.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Weil-McLain Boiler A33 Error - Causes & Fix](/posts/weil-mclain-boiler-a33-error-code/)
-- [Weil-McLain A51 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a51-error-code/)
-- [Weil-McLain Boiler A177 Error - Causes & Fix](/posts/weil-mclain-boiler-a177-error-code/)
-- [Weil-McLain A54 Error - Causes & Fix](/posts/weil-mclain-boiler-a54-error-code/)

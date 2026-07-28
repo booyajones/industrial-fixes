@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 CPF00 — What It Means
-
+## What this code means
 CPF00 on a Yaskawa A1000 variable frequency drive is a control circuit error. This fault indicates a hardware problem in the drive's control circuit or a self-diagnostic failure. The drive has detected an internal issue with its own electronics, not a problem with the motor or incoming power. The fault may be transient (caused by electrical noise or a momentary glitch) or persistent (indicating actual component failure). Yaskawa groups CPF-series faults as control circuit hardware errors that require inspection of the control board, operator keypad connections, and internal wiring.
 
 Unlike motor or input-power faults, CPF00 points to the drive itself. The fault can result from a failed control board, damaged or loose connections between the operator and control board, or a faulty operator connector. Because this is an internal hardware fault, user repairs are limited to power cycling, connection inspection, and component replacement. If the fault survives a power cycle and connection check, the control board or entire drive typically needs replacement.
@@ -24,8 +23,6 @@ Unlike motor or input-power faults, CPF00 points to the drive itself. The fault 
 ## Before You Replace Anything
 
 Technicians sometimes replace the operator keypad first when CPF00 appears, but a simple power cycle and visual inspection of the operator connector usually rules out keypad issues. If the fault returns immediately after power cycling with no visible connector damage, the control board is the real culprit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drive technician for CPF00 faults. This repair involves working inside a high-voltage enclosure, handling sensitive control electronics, and verifying proper operation under load. Even after disconnecting input power, capacitors inside the drive can hold lethal voltage for several minutes. A technician will safely discharge capacitors, diagnose whether the operator, control board, or entire drive needs replacement, and make sure all connections meet manufacturer specifications. If your process cannot tolerate downtime, a technician can also help you source and install a replacement drive quickly.
 
 **Rough cost:** A pro service call runs about $400-1,200 for control board replacement labor and part, $1,500-4,000 for drive replacement depending on horsepower and model.
-
-## See Also
-
-- [Yaskawa GA800 E95 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e95-fault-code/)
-- [Yaskawa Sigma-7 SGD7S Servo Drive Alarm Codes — Diagnosis & Fix](/posts/yaskawa-sigma7-sgd7s-alarm-codes/)
-- [Yaskawa GA800 VFD E54 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e54-fault-code/)
-- [Yaskawa GA800 E28 Fault - Serial Watchdog Timeout Fix](/posts/yaskawa-ga800-e28-fault-code/)

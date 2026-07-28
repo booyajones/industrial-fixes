@@ -19,8 +19,6 @@ A Daikin mini split that won't turn on is usually a power supply problem, a remo
 
 If the operation lamp on the indoor unit is flashing, the system may be locked out by a protective fault. If the lamp is completely dark, you likely have no line power reaching the unit or a dead remote. If the panel is loose or its back protrusion is damaged, the safety switch will prevent the unit from starting even when power is present.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Tripped breaker or blown fuse** No incoming power is the number-one reason a Daikin mini split appears completely dead.
@@ -54,25 +52,18 @@ If the operation lamp on the indoor unit is flashing, the system may be locked o
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Daikin Mini Split A1 error code](/posts/daikin-mini-split-a1-error-code/)
-- [Daikin Mini Split A3 error code](/posts/daikin-mini-split-a3-error-code/)
-- [Daikin Mini Split A5 error code](/posts/daikin-mini-split-a5-error-code/)
-- [Daikin Mini Split A6 error code](/posts/daikin-mini-split-a6-error-code/)
-- [Daikin Mini Split A7 error code](/posts/daikin-mini-split-a7-error-code/)
-- [Daikin Mini Split A8 error code](/posts/daikin-mini-split-a8-error-code/)
-- [Daikin Mini Split A9 error code](/posts/daikin-mini-split-a9-error-code/)
-- [Daikin Mini Split C4 error code](/posts/daikin-mini-split-c4-error-code/)
-- [Daikin Mini Split E04 error code](/posts/daikin-mini-split-e04-error-code/)
-- [Daikin Mini Split E05 error code](/posts/daikin-mini-split-e05-error-code/)
-- [Daikin Mini Split E7 error code](/posts/daikin-mini-split-e7-error-code/)
+- Daikin Mini Split A1 error code
+- Daikin Mini Split A3 error code
+- Daikin Mini Split A5 error code
+- Daikin Mini Split A6 error code
+- Daikin Mini Split A7 error code
+- Daikin Mini Split A8 error code
+- Daikin Mini Split A9 error code
+- Daikin Mini Split C4 error code
+- Daikin Mini Split E04 error code
+- Daikin Mini Split E05 error code
+- Daikin Mini Split E7 error code
 
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the breaker trips repeatedly, if a flashing operation lamp persists after a 20-minute power reset, or if you retrieve an error code you cannot clear with basic checks. Daikin instructs that persistent faults require component-level diagnosis, and working inside a mini split involves live line voltage, refrigerant circuits, and sealed control boards that need proper tools and training.
-
-## See Also
-
-- [Daikin E5 Error Code - Causes & Fix](/posts/daikin-heat-pump-e5-error-code/)
-- [Daikin U2 Error Code - Causes & Fix](/posts/daikin-heat-pump-u2-error-code/)
-- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)
-- [Daikin U9 Error Code — Causes & Fix](/posts/daikin-u9-error-code/)

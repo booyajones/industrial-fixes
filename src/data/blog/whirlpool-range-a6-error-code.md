@@ -17,8 +17,7 @@ money_part: "Whirlpool range cooling fan motor assembly"
 part_price: "$30-90"
 ---
 
-## Whirlpool Range A6 Error Code — What It Means
-
+## What this code means
 A6 does not appear in Whirlpool's published range error-code list. If your display shows A6, double-check the exact format. The closest Whirlpool-documented code for ranges is F7 E6, which the manufacturer defines as a cooling fan or associated wiring problem. The cooling fan runs during and after oven operation to prevent overheating of the control electronics and other components.
 
 If your display actually reads F7 E6 or if your model documentation confirms A6 maps to a fan issue, the control has detected that the cooling fan is not operating correctly. This can mean the fan motor has failed, a connector or wire in the fan circuit is loose or damaged, or the control board is not properly driving or sensing the fan circuit. Always consult your specific model's wiring diagram and owner's manual to confirm the meaning of any code before replacing parts.
@@ -26,8 +25,6 @@ If your display actually reads F7 E6 or if your model documentation confirms A6 
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first when the real fault is a bad fan motor or a single loose connector at the fan. Always test the fan motor for continuity and verify wiring connections before ordering a new control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

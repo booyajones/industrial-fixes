@@ -13,13 +13,10 @@ money_part: "Siemens Micromaster brake resistor"
 most_likely_cause: "Incoming supply voltage too high"
 ---
 
-## Siemens Micromaster F0002 — What It Means
-
+## What this code means
 F0002 is a DC-link overvoltage fault on Siemens Micromaster drives (420/440 families). The drive has detected that the intermediate-circuit voltage has risen above its permitted limit and has tripped to protect the inverter stage. This happens when the DC bus capacitors absorb more voltage than the drive can safely handle.
 
 The fault usually appears during deceleration or braking because the motor acts as a generator and pushes energy back into the drive's DC link. It can also occur if your incoming supply voltage is too high or if braking hardware (brake resistor or chopper) has failed or is improperly configured. The drive shuts down immediately to prevent damage to the power electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ The fault usually appears during deceleration or braking because the motor acts 
 ## When to Call a Pro
 
 Call a qualified electrician or drive technician if you measure abnormal incoming supply voltage and cannot correct it yourself, if the brake resistor or chopper hardware is physically damaged or you are not comfortable working with high-voltage DC circuits, or if the fault persists after you have lengthened deceleration ramps and verified all braking components. Also call a professional if you see burnt components inside the drive, if the drive trips immediately on power-up before any motor movement, or if you are working with a high-power drive (above 5 HP) in a production environment where incorrect troubleshooting could cause expensive downtime or safety hazards. Regenerative applications and custom braking configurations often require load calculation and parameter tuning beyond basic field repair.
-
-## See Also
-
-- [Siemens G120 F01001 - Causes & Fix](/posts/siemens-g120-vfd-f01001-fault-code/)
-- [Siemens Micromaster F0023 - Causes & Fix](/posts/siemens-micromaster-f0023-fault-code/)
-- [Siemens Micromaster F0085 - Causes & Fix](/posts/siemens-micromaster-vfd-f0085-fault-code/)
-- [Siemens Micromaster F0070 - Causes & Fix](/posts/siemens-micromaster-f0070-fault-code/)

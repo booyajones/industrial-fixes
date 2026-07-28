@@ -17,8 +17,7 @@ money_part: "Membrane switch / keypad assembly"
 part_price: "$80-180"
 ---
 
-## Samsung Range 5E/SE Error Code — What It Means
-
+## What this code means
 On Samsung ranges and ovens, the 5E or SE code indicates a button input problem on the control panel. The control board is detecting a key as continuously pressed or the membrane switch signal is incorrect. This is not a heating or temperature sensor fault. Samsung's official guidance describes this family of codes as a stuck or held key condition, often caused by moisture, residue, or a physical defect in the keypad membrane. The code can appear as SE or 5E depending on the display orientation.
 
 The error prevents normal operation because the control board cannot accept new commands while it believes a button is already pressed. In most cases, cleaning the panel and performing a power reset clears the fault. If the code returns after drying and resetting, the membrane switch assembly or the main control board requires replacement.
@@ -26,8 +25,6 @@ The error prevents normal operation because the control board cannot accept new 
 ## Before You Replace Anything
 
 Many people replace the main control board first when the real culprit is the cheaper membrane switch or keypad assembly. Always clean the panel, inspect for stuck keys, and verify the ribbon connector is seated before swapping the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

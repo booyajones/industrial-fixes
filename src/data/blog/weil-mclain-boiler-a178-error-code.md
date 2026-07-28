@@ -17,8 +17,7 @@ free_checks:
   - "Verify system pressure is in the normal range (typically 12-15 psi for residential hydronic systems, consult your manual for the exact value)."
 ---
 
-## Weil-McLain Boiler A178 Error — What It Means
-
+## What this code means
 The A178 code does not appear in available Weil-McLain manufacturer documentation as a universal boiler fault code. Weil-McLain boilers use model-specific and control-platform-specific fault codes, so A178 may be a lockout or history code on certain control families but the exact meaning depends on your boiler model and control board. To identify the actual fault, you need to check the diagnostics or fault-history menu on your specific control or consult the installation and service manual for your exact model number.
 
 Because the code definition cannot be verified from manufacturer materials, the diagnostic path is to retrieve the active or past fault from the control's diagnostics menu, identify the boiler model and control family, and cross-reference the code in that model's service documentation. Common boiler fault categories on Weil-McLain units include sensor faults, ignition or flame-proving problems, circulation issues, pressure problems, condensate or vent restrictions, and wiring or connector faults, but none of these can be tied specifically to A178 without the model information.
@@ -26,8 +25,6 @@ Because the code definition cannot be verified from manufacturer materials, the 
 ## Before You Replace Anything
 
 Homeowners and techs sometimes replace sensors or control boards before checking wiring and connectors. Reseat all sensor and control-board connectors and test suspected sensors electrically with a meter before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a qualified heating technician if you cannot retrieve the fault code from the diagnostics menu, if the code meaning is not clear from your manual, or if the boiler is locked out and will not fire. A technician has the model-specific service documentation, diagnostic tools, and meters to identify the exact fault, test sensors and ignition components, verify gas pressures and flame-proving circuits, and repair or replace the failed part safely. Gas-fired boiler work involves combustion safety, venting, and gas piping that require professional training and local permitting, so do not attempt repairs beyond checking pressure, reseating connectors, and looking up codes in your manual.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain A29 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a29-error-code/)
-- [Weil-McLain Code 1 — No Flame Sensed Fix](/posts/weil-mclain-error-code-1/)
-- [Weil-McLain Boiler A08 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a08-error-code/)
-- [Weil-McLain A126 Error - Causes & Fix](/posts/weil-mclain-boiler-a126-error-code/)

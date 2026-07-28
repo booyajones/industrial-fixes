@@ -13,11 +13,8 @@ money_part: "Motor output cable"
 most_likely_cause: "Short circuit in motor wiring"
 ---
 
-## Omron VFD Fault E07 — What It Means
-
+## What this code means
 On Omron 3G3MX2 series drives (which are Omron's rebranded Yaskawa-OEM variable frequency drives), fault **E07** indicates **overcurrent** — the drive detected output current that exceeded 200% of the rated output current (instantaneous overcurrent threshold). The drive trips immediately to protect the IGBTs and output circuitry. E07 is a hardware-level trip that responds to instantaneous current spikes, unlike the overload (E05/OL1) which responds to sustained over-current over time.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,11 +41,3 @@ On Omron 3G3MX2 series drives (which are Omron's rebranded Yaskawa-OEM variable 
 ## When to Call a Pro
 
 If E07 persists with the motor disconnected (fault on no-load), the drive's IGBT output stage has failed and the drive requires component-level repair or replacement. Contact Omron service or a certified VFD repair shop.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

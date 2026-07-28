@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Bosch Oven F121 Error Code — What It Means
-
+## What this code means
 The F121 error code on Bosch ovens indicates a stuck key in the membrane switch layer or keypad assembly. The oven's control board detects that one or more buttons on the control panel are continuously pressed or sending a closed-circuit signal, even when no one is touching the panel. This fault prevents normal operation because the control system interprets the stuck input as an ongoing command.
 
 The code typically appears immediately after power-up or during use when a button becomes physically stuck, the membrane keypad degrades, or moisture and debris interfere with the contact layer. In rare cases the fault originates from a loose ribbon cable between the keypad and the oven control board, or from a failure in the control board itself.
@@ -26,8 +25,6 @@ The code typically appears immediately after power-up or during use when a butto
 ## Before You Replace Anything
 
 Homeowners sometimes replace the oven control board first when the real problem is a $40 membrane keypad. Before buying a control board, disconnect power, inspect every button for physical sticking, and flex the keypad overlay gently to see if a button is jammed by the bezel or dried residue.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

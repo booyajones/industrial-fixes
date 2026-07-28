@@ -22,8 +22,7 @@ part_price: "$80–140"
 no_buy_pct: "40%"
 ---
 
-## Whirlpool Refrigerator E2 Error Code — What It Means
-
+## What this code means
 E2 is not a universal fault code across all Whirlpool refrigerators. The meaning depends on your specific model family. On Whirlpool undercounter refrigerators, E2 signals a general unit error that often clears with a power reset. On models with ice maker diagnostics, E2 typically indicates an ice maker motor position fault, meaning the ice maker did not complete or report its expected movement sequence during a cycle. A third group of models may use E2 for sensor or temperature-related logic faults. Always confirm the exact definition by checking your model's tech sheet or owner's manual, because Whirlpool uses different diagnostic trees across platforms.
 
 Because E2 can mean different things, the code may appear during normal operation (as a persistent fault) or only during service diagnostic tests. In practice, technicians see E2 most often tied to ice maker cycle problems, followed by sensor issues and cabinet temperature faults caused by door-ajar conditions or heavy warm loads.
@@ -31,8 +30,6 @@ Because E2 can mean different things, the code may appear during normal operatio
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board first. Instead, power-cycle the unit for one minute and inspect the ice maker for frost or blockage before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

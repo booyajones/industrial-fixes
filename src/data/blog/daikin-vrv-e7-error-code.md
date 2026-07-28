@@ -13,11 +13,8 @@ money_part: "Outdoor fan motor"
 most_likely_cause: "Obstructed outdoor fan"
 ---
 
-## Daikin VRV E7 Error Code — What It Means
-
+## What this code means
 The Daikin VRV/VRF **E7 error code** indicates a **fan motor fault** — the outdoor unit's fan motor protection has triggered. On Daikin VRV III, VRV IV, and VRV-S systems, E7 means the inverter-driven outdoor fan motor has detected an overcurrent, locked-rotor, or feedback signal error. The outdoor unit shuts down to prevent motor and inverter damage. E7 can affect one or more of the outdoor unit's fan circuits on multi-fan configurations.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ The Daikin VRV/VRF **E7 error code** indicates a **fan motor fault** — the out
 ## When to Call a Pro
 
 Daikin VRV systems operate at refrigerant pressures and electrical configurations that require certified Daikin technicians for safe service. Fan motor and PCB replacement on VRV outdoor units requires refrigerant system isolation and high-voltage capacitor discharge procedures.
-
-## Related Articles
-
-- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
-- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
-- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
-- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
-- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)
-
-## See Also
-
-- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)
-- [Daikin Mini Split Error Codes — Complete Reference](/posts/daikin-mini-split-error-codes/)
-- [Daikin U4 Error Code — Indoor-Outdoor Communication Fix](/posts/daikin-error-code-u4/)
-- [Daikin VRV System Error Codes: Complete Guide](/posts/daikin-vrv-error-codes/)

@@ -22,8 +22,7 @@ part_price: "$40–90"
 no_buy_pct: "30%"
 ---
 
-## KitchenAid Oven Lock Error Code — What It Means
-
+## What this code means
 A lock error on a KitchenAid oven usually appears as code F9 (oven door lock failure) or a similar latch-related fault. This tells you the control board detects a problem with the door lock system: the latch cannot move freely, the door switch and latch switch do not agree, or the wiring between the lock assembly and control is damaged. It is different from the LOC display, which simply means Control Lock is turned on and the keypad is disabled until you unlock it from the control panel.
 
 The fault appears most often during or after a self-clean cycle, when the latch mechanism jams and cannot return to its home position. The control times out waiting for the correct switch state and logs the error. Power interruptions, debris in the latch track, or a failed switch are other common triggers.
@@ -31,8 +30,6 @@ The fault appears most often during or after a self-clean cycle, when the latch 
 ## Before You Replace Anything
 
 Many people replace the control board first. Check the latch mechanism for binding and test the door switch and latch switch continuity before ordering any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

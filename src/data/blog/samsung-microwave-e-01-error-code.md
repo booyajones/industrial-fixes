@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Door interlock switch assembly"
 ---
 
-## Samsung Microwave E-01 Error — What It Means
-
+## What this code means
 The E-01 code on Samsung microwaves is labeled as an Open Error on Samsung's official support pages. Samsung does not publicly define the exact subcomponent behind that generic label, so the code should be treated as an open-circuit or open-sensor or open-switch type fault rather than a confirmed single-part failure. In practical terms, the control board is detecting an incomplete electrical path somewhere in the safety or sensor circuits. That open circuit could be in the door interlock chain, a thermal safety device, a wiring harness, or even an input on the main control board itself.
 
 Because Samsung's public definition is generic and not broken down by model, the exact cause depends on which component in the open circuit path has failed. The microwave will not operate until the control sees a complete circuit again. Samsung's consumer guidance is to power reset the unit by unplugging it or turning off the breaker for about 60 seconds. If the code returns after the reset, the problem is real hardware and requires service.
@@ -26,8 +25,6 @@ Because Samsung's public definition is generic and not broken down by model, the
 
 Many owners replace the main control board first without testing the door switches, thermal fuses, and wiring. Use a multimeter to check continuity on each interlock switch, thermal cutout, and harness connector before ordering a board.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
 - **Open door interlock switch circuit** A primary or secondary door switch has failed open, the latch is not actuating the switch fully, or the door is misaligned and not closing the interlock contacts.
@@ -35,22 +32,6 @@ Many owners replace the main control board first without testing the door switch
 - **Open wiring harness or connector** A wire has broken, a terminal has corroded, or a push-on connector has backed out between a sensor or switch and the main control board.
 - **Failed sensor or input component** A temperature sensor, humidity sensor, or other input device has failed internally and is read by the control as an open circuit.
 - **Main control board input failure** If all external switches, safeties, and wiring test good, the control board's input circuit itself may be defective and unable to close the loop.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Does the code clear after you unplug the microwave for 60 seconds and plug it back in?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The fault may have been a transient glitch. Monitor the microwave over the next few uses. If E-01 returns, proceed to hardware diagnosis.<br><strong>No:</strong> The open circuit is persistent. Move to door and safety device testing.</div>
-</details>
-
-<details class="dtree"><summary>Does the door close smoothly and latch firmly with no play or misalignment?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The door hardware is likely fine. Focus testing on the interlock switches themselves, thermal devices, and wiring continuity.<br><strong>No:</strong> Inspect the door hinges, latch hook, and striker plate for damage or wear. Adjust or replace door hardware and retest before moving to electrical components.</div>
-</details>
-
-<details class="dtree"><summary>Do you have a multimeter and feel comfortable testing continuity on small switches and wires with power off?</summary>
-<div class="dtree-body"><strong>Yes:</strong> You can isolate the open component by testing each interlock switch, thermal fuse, and harness connector for continuity. Replace the failed part if you find it.<br><strong>No:</strong> Call a qualified appliance technician. Microwave repair involves high-voltage capacitors that remain charged even when unplugged, and safe diagnosis requires proper discharge tools and training.</div>
-</details>
 
 ## Step-by-Step Fix {#fix}
 
@@ -74,5 +55,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a qualified appliance technician for any Samsung microwave E-01 repair. Microwaves contain a high-voltage capacitor that holds a lethal charge even after the unit is unplugged, and safe diagnosis requires proper discharge procedures and insulated tools. The door interlock system is a critical safety feature, and incorrect repair or adjustment can allow the magnetron to run with the door open, exposing anyone nearby to microwave radiation. Professional techs have the training, the service manuals with model-specific test points, and the right parts to diagnose an open circuit accurately and restore all safety interlocks to factory specification. If you are not confident working inside a microwave cabinet or do not own a high-voltage discharge tool, do not open the unit.
-
-**Rough cost:** A pro service call runs about $150-300.

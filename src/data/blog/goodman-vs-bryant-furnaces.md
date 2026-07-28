@@ -74,10 +74,10 @@ For tools, both brands need the same basic kit: a [Fluke 117 or 87V multimeter](
 **Goodman:** uses flash codes on a board-mounted LED, viewed through the lower service panel. Single-digit flash codes (1-9 flashes) with a 4-second pause between repetitions. Cleanly documented on the sticker glued to the inside of the door. Key Goodman codes:
 
 - [Goodman 3-flash error code — pressure switch open](/posts/goodman-3-flash-error-code)
-- [Goodman 4-flash error code — limit circuit](/posts/goodman-4-flash-error-code)
-- [Goodman 5-flash error code — flame sensed without call](/posts/goodman-5-flash-error-code)
-- [Goodman 7-flash error code — gas valve fault](/posts/goodman-7-flash-error-code)
-- [Goodman 8-flash error code — low flame current](/posts/goodman-8-flash-error-code)
+- Goodman 4-flash error code — limit circuit
+- Goodman 5-flash error code — flame sensed without call
+- Goodman 7-flash error code — gas valve fault
+- Goodman 8-flash error code — low flame current
 - [Goodman heat pump error code 2](/posts/goodman-heat-pump-error-code-2)
 
 **Bryant:** uses Carrier's two-digit flash code system — slow flashes for tens digit, fast flashes for ones digit. So code 13 = 1 slow + 3 fast. Same architecture as Carrier; see [Bryant code 13](/posts/bryant-error-code-13) and [Bryant heat pump 21](/posts/bryant-heat-pump-error-code-21).
@@ -160,15 +160,8 @@ For matching model years, essentially yes — same board, same pressure switch, 
 ## Related guides
 
 - [Goodman 3-flash error code — pressure switch](/posts/goodman-3-flash-error-code)
-- [Goodman 5-flash error code — flame sense](/posts/goodman-5-flash-error-code)
+- Goodman 5-flash error code — flame sense
 - [Bryant code 13 — pressure switch](/posts/bryant-error-code-13)
 - [Bryant heat pump code 21](/posts/bryant-heat-pump-error-code-21)
 - [Carrier code 31 — pressure switch](/posts/carrier-31-error-code)
 - [Best HVAC multimeter buyer's guide](/posts/best-hvac-multimeter)
-
-## See Also
-
-- [Goodman Heat Pump Error Codes - What It Means and How to Fix It](/posts/goodman-heat-pump-error-codes/)
-- [Goodman GMS96 Error Codes — Fault Code Guide](/posts/goodman-gms96-error-codes/)
-- [Goodman GPH Series Packaged Unit Error Codes: Complete Guide](/posts/goodman-gph-error-codes/)
-- [Goodman Furnace E2 Error Code — Flame Sense Fault (Digital Display Models)](/posts/goodman-furnace-e2-error-code/)

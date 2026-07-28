@@ -19,8 +19,7 @@ free_checks:
 part_price: "$30-60"
 ---
 
-## Navien E040 Error Code — What It Means
-
+## What this code means
 The E040 error code on a Navien tankless water heater means the outdoor air temperature sensor (thermistor) has detected a short circuit. The controller is reading a resistance value near 0 Ω from the sensor, which is far below the normal 10,000 to 50,000 Ω range at standard temperatures. This tells the unit the sensor wiring or internal element has shorted, and the system cannot accurately determine ambient temperature for combustion or freeze protection.
 
 When this fault occurs the unit shuts down immediately to prevent unsafe operation. The outdoor thermistor monitors the air temperature around the unit so the controller can adjust combustion and protect against freezing. A short in the sensor circuit gives false readings and the unit fails safe until the problem is corrected.
@@ -28,8 +27,6 @@ When this fault occurs the unit shuts down immediately to prevent unsafe operati
 ## Before You Replace Anything
 
 Some technicians replace the main PCB before testing the outdoor thermistor. Always measure the sensor resistance with a multimeter first (should be 10kΩ to 50kΩ at room temperature). A reading near 0 Ω confirms the sensor or its wiring is shorted, not the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a licensed technician if you are not comfortable working with gas appliances, measuring electrical resistance with a multimeter, or accessing the internal controller board. The outdoor sensor is part of the combustion and freeze-protection system, so correct diagnosis and installation are important for safe operation. If you replace the sensor and wiring but the E040 error returns immediately, the main PCB likely has a shorted input circuit and requires professional replacement. Gas and electrical work on tankless water heaters should be performed by qualified service personnel to meet code and warranty requirements.
 
 **Rough cost:** A pro service call runs about $150-300.
-
-## See Also
-
-- [Navien NPE-A 016 — Overheat Lockout Fix](/posts/navien-water-heater-error-code-016/)
-- [Navien NPE-180S2 Problems & Error Codes](/posts/navien-npe-180s2-water-heater-problems/)
-- [Navien E009 Error Code — Causes & Fix](/posts/navien-error-code-e009/)
-- [Navien Tankless Water Heater Cold Water Inlet Valve Replacement](/posts/navien-water-heater-water-inlet-valve-cold-water-isolation-valve-kit-tankless-replacement/)

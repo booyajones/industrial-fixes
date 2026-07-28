@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Temperature sensor / thermistor (model-specific)"
 ---
 
-## Samsung E-23 Microwave Error — What It Means
-
+## What this code means
 Samsung defines error code E-23 as T1 Max Time Error on microwave models that use this code set. It signals an internal fault in the microwave's temperature-sensing or control logic. Samsung's published consumer guidance does not break the code down further or point to a single component. The company groups E-23 with other sensor and control-related faults and directs customers to perform a power reset, then contact service if the code persists.
 
 Because Samsung does not publish detailed root-cause data for E-23 in consumer support pages, the exact failure mode varies by model. The code may indicate a temporary glitch, moisture intrusion into electronics, or a fault in the temperature-sensing circuit. If the code clears after a reset and does not return, no repair is needed. If it comes back immediately or appears alongside heating or temperature problems, the issue is likely in the sensor circuit or main control board path.
@@ -25,8 +24,6 @@ Because Samsung does not publish detailed root-cause data for E-23 in consumer s
 ## Before You Replace Anything
 
 Many people replace the magnetron or main control board first. Always perform a full power reset and check for moisture or steam near the control panel before ordering parts. E-23 is a sensor-related code, not a magnetron fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

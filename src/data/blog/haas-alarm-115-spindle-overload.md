@@ -13,11 +13,8 @@ money_part: "Cutting inserts or endmill"
 most_likely_cause: "Aggressive feeds and speeds"
 ---
 
-## Haas Alarm 115 Spindle Overload — What It Means
-
+## What this code means
 Haas **Alarm 115** is a **Spindle Overload** — the spindle drive has detected that spindle motor current has exceeded the allowable continuous rating, and the control has shut down spindle output to prevent motor damage. Unlike Alarm 134 (Spindle Drive Fault, which is a hard instantaneous trip), Alarm 115 is a thermal-model overload that accumulates over time when the spindle runs at current above its rated level. Alarm 115 stops the program and requires a manual reset after the root cause is addressed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Haas **Alarm 115** is a **Spindle Overload** — the spindle drive has detected 
 ## When to Call a Pro
 
 Spindle bearing replacement and spindle motor service require Haas Factory Outlet (HFO) trained technicians to perform thermal fit bearing installation and spindle runout verification. Incorrect bearing installation voids the spindle warranty and will cause premature failure.
-
-## Related Articles
-
-- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
-- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
-- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
-- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
-
-## See Also
-
-- [Haas Alarm 106 — Causes & Fix](/posts/haas-alarm-106/)
-- [Haas VF-4 Common Alarms Guide — What They Mean and How to Fix Them](/posts/haas-vf4-common-alarms/)
-- [Haas Alarm 134 Spindle Drive Fault — Causes & Fix](/posts/haas-alarm-134-spindle-drive/)
-- [Haas Alarm 127 — Tool Unclamped Fault](/posts/haas-alarm-127/)

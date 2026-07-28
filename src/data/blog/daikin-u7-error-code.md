@@ -13,13 +13,10 @@ money_part: "Inverter PCB"
 most_likely_cause: "Inverter or control PCB mismatch (Room Air units)"
 ---
 
-## Daikin U7 Error Code — What It Means
-
+## What this code means
 U7 on Daikin is not one single fault across all products. On Room Air split systems, U7 indicates an improper combination between the inverter and fan drive PCBs, meaning the inverter PCB, control PCB, or inverter fan PCB has a mismatch or defect. On VRV, packaged, and applied systems, U7 means a malfunction of transmission between outdoor units in multi-module installations.
 
 Because Daikin assigns the same code to completely different faults depending on the product family, the correct diagnosis depends entirely on whether you have a single-zone room air conditioner or a multi-outdoor VRV or applied system. Treating a VRV U7 as a PCB problem, or a room air U7 as a wiring problem, will waste time and money.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ Because Daikin assigns the same code to completely different faults depending on
 ## When to Call a Pro
 
 Call a professional if you are uncertain whether your system is Room Air or VRV, if you do not have access to the installation manual with wiring diagrams and switch-setting tables, or if the fault persists after verifying power, wiring, and settings. VRV systems require specialized tools and training to diagnose communication faults and address conflicts safely. PCB replacement on Room Air units also demands proper part identification and refrigerant-circuit safety procedures that most DIY users lack.
-
-## See Also
-
-- [Daikin U3 Error Code - Causes & Fix](/posts/daikin-u3-error-code/)
-- [Daikin E5 Error Code - Causes & Fix](/posts/daikin-e5-error-code/)
-- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
-- [Daikin UA Error Code — Mismatched Indoor/Outdoor Unit Fix](/posts/daikin-error-code-uA/)

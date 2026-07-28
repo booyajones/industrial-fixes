@@ -19,8 +19,6 @@ LG washers inject detergent into the tub along with water at the start of the wa
 
 The usual explanation is low incoming water pressure, hardened or clogged detergent residue in the drawer, or dispenser parts that are not seated properly. If the detergent tray or inserts are installed incorrectly, they can restrict water flow and leave product behind.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged or dirty detergent dispenser drawer** Residue from old detergent, fabric softener, or bleach hardens in the compartments and blocks water flow into the tray.

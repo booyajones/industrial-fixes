@@ -13,11 +13,8 @@ money_part: "3A mini blade fuse (AGC-3 or ATC-3)"
 most_likely_cause: "Short circuit in the thermostat wiring"
 ---
 
-## Carrier 24 Error Code — What It Means
-
+## What this code means
 Carrier fault code 24 means the secondary voltage fuse is open. The control board flashes 2 long, 4 short. The furnace control operates on 24VAC (step-down from the 120V line through a transformer). A 3-amp fuse on the board protects this secondary circuit. When the fuse blows, the board loses its control voltage and shuts everything down. Code 24 tells you the fuse blew — not why it blew. Finding the root cause before replacing the fuse is the entire job.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Carrier fault code 24 means the secondary voltage fuse is open. The control boar
 ## When to Call a Pro
 
 If you've disconnected everything and the fuse still blows immediately on power-up, the transformer or control board has an internal fault. At that point the diagnostics get component-level and a tech with the right meter is faster than trial-and-error.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier Infinity 24VNA6 Heat Pump Error Codes - Greenspeed Fault Reference](/posts/carrier-24vna6-error-codes/)
-- [Carrier Infinity Zoning System Error Codes — Complete Guide](/posts/carrier-infinity-zoning-error/)
-- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)
-- [Carrier 23 Error Code — Draft Safeguard Switch Fault](/posts/carrier-23-error-code/)

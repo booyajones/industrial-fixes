@@ -16,8 +16,7 @@ money_part: "Electronic oven control board (control clock assembly)"
 part_price: "$150-300"
 ---
 
-## KitchenAid F0 Error Code — What It Means
-
+## What this code means
 KitchenAid's F0 code is not universal across all appliances. On KitchenAid ranges and wall ovens, the code appears as F0 E0 and means the electronic oven control cannot recognize what type of problem has occurred. KitchenAid states this points to a possible issue with the electronic control itself or the associated wiring. On KitchenAid electric or induction cooktops, F0 or F00 means an object, liquid, or debris is pressing on the control panel and falsely activating it.
 
 For ovens and ranges, F0 E0 is a catch-all fault. The control system detects something wrong but cannot classify the specific component or sensor that failed. This typically narrows down to either a failing electronic oven control board or a loose, damaged, or intermittent wire or connector in the control harness. For cooktops, the cause is almost always contamination on the touch surface.
@@ -25,8 +24,6 @@ For ovens and ranges, F0 E0 is a catch-all fault. The control system detects som
 ## Before You Replace Anything
 
 Many people replace the electronic control board without first inspecting the wiring harness and connectors for damage, corrosion, or loose pins. Always check and reseat all connectors to the control board before ordering a replacement.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

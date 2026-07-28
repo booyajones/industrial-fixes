@@ -13,11 +13,8 @@ money_part: "Flame sensor"
 most_likely_cause: "Ignition failure"
 ---
 
-## Peerless Boiler Code 1 — What It Means
-
+## What this code means
 Code 1 on a Peerless boiler (displayed on the Peerless IQ control or equivalent digital control) indicates a lockout condition. Depending on the Peerless model and control generation, Code 1 typically means the boiler has locked out due to a failed ignition sequence — the burner did not light within the trial-for-ignition period, or the control could not confirm a stable flame. Some older Peerless models display Code 1 as a general safety lockout requiring investigation and manual reset.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,11 +44,3 @@ Code 1 on a Peerless boiler (displayed on the Peerless IQ control or equivalent 
 ## When to Call a Pro
 
 If Code 1 returns after resetting and cleaning the flame sensor, call a licensed HVAC/boiler technician. Gas valve diagnosis, combustion analysis, and draft pressure measurement require specialized equipment and should not be performed by unqualified personnel.
-
-## Related Articles
-
-- [Boiler Lockout Error Codes: All Brands Guide](/posts/boiler-lockout-error-codes/)
-- [Buderus Boiler Fault Code A1 — Causes & Fix](/posts/buderus-boiler-fault-code-a1/)
-- [Burnham Alpine Boiler Error Code Guide — Causes & Fix](/posts/burnham-alpine-error-codes/)
-- [Burnham Boiler E1 Lockout Code Fix](/posts/burnham-boiler-e1-lockout-code/)
-- [Burnham Boiler E2 Error Code — Causes & Fix](/posts/burnham-boiler-e2-error-code/)

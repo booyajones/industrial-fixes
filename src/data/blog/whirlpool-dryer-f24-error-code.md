@@ -15,8 +15,7 @@ money_part: "Dryer thermistor or temperature sensor"
 most_likely_cause: "Transient electronic glitch"
 ---
 
-## Whirlpool Dryer F24 Error Code — What It Means
-
+## What this code means
 The F24 code on a Whirlpool dryer is not a universal fault code that appears across all Whirlpool dryer models. Whirlpool's own dryer support material provides only a generic reset procedure and does not define a specific component failure for F24. Unlike codes such as F01 or F22, which have well-documented meanings, F24 appears to be platform-specific or model-specific, and its exact meaning depends on your dryer's control board and wiring diagram.
 
 Because Whirlpool does not publish a single definition for F24 on residential dryers, the safest first step is to treat the code as a potential transient fault and follow the manufacturer reset procedure. If the code returns after reset, you will need the model number and tech sheet to identify which sensor, relay, or board circuit F24 represents on your specific machine.
@@ -24,8 +23,6 @@ Because Whirlpool does not publish a single definition for F24 on residential dr
 ## Before You Replace Anything
 
 Because Whirlpool does not define F24 in public documentation, technicians sometimes replace the main control board or thermistor based on guesses from other brands. Always pull the tech sheet from inside the cabinet or download it by model number before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

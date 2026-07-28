@@ -19,8 +19,6 @@ When your Samsung dishwasher leaks, water escapes from the machine during or aft
 
 The leak happens because water is escaping from a component that should be sealed or contained. Common sources include the rubber door gasket, hose connections, spray arms directing water where it shouldn't go, or cracks in internal seals and the tub itself. Over-sudsing from the wrong detergent or too much detergent can also push water out past the door seal.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Worn or dirty door gasket** The rubber seal around the door develops cracks, tears, or gets coated with detergent residue and food particles that prevent a watertight seal, allowing water to seep out during the wash cycle.

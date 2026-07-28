@@ -13,11 +13,8 @@ money_part: "IFC control board"
 most_likely_cause: "Short circuit in low-voltage (24V) wiring"
 ---
 
-## Carrier 46 Error Code — What It Means
-
+## What this code means
 Carrier code 46 means the **Integrated Furnace Control (IFC) board has detected an internal fault during its self-diagnostic routine**. The board is telling you to "check IFC" — it found something wrong with its own operation. This code appears on Carrier 96% AFUE furnaces (59TP6, 59SC5, 59MN7, and similar) as well as some Performance series models.
-
-[Jump to Fix](#fix)
 
 Code 46 is distinct from most other Carrier fault codes because it originates from the board's own self-test, not from an external sensor or switch. That said, not every code 46 means the board is dead — external wiring issues frequently cause the board to flag an internal fault.
 
@@ -46,18 +43,3 @@ Code 46 is distinct from most other Carrier fault codes because it originates fr
 | Low-voltage wire | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-46-error-code&k=Low-voltage+wire&tag=errorcodefixes-20) \| 18/5 or 18/8 thermostat cable if wiring needs replacement |
 ## When to Call a Pro
 If code 46 appears along with signs of burning smell, visible scorch marks on the board, or damaged wiring, stop operating the furnace and call an HVAC technician. Damaged control boards can be a fire risk in rare cases.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier Error Code 51 — Control Fault (Secondary)](/posts/carrier-51-error-code/)
-- [Carrier Infinity Touch Thermostat Error Codes - What It Means and How to Fix It](/posts/carrier-infinity-touch-thermostat-error-codes/)
-- [Carrier VRF System Error Codes Guide](/posts/carrier-vrf-error-codes/)
-- [Carrier 24ACC6 Heat Pump Error Codes: Complete Diagnostic Guide](/posts/carrier-24acc6-heat-pump-error-codes/)

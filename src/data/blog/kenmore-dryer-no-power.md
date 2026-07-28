@@ -17,8 +17,6 @@ tags:
 
 When your Kenmore dryer has no power, it means the machine is not receiving or not passing electrical current to operate. This is a symptom, not a fault code. If the dryer is completely dead with no lights or display, power is not reaching the unit at all. If the dryer lights up or the display works but it will not start or run, power is present but a safety device or interlock has opened the start circuit.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Tripped breaker or bad outlet** Electric dryers need 240V AC from a dedicated breaker, and a tripped breaker or failed receptacle will leave the dryer completely dead or running on one leg only.

@@ -17,8 +17,7 @@ money_part: "Samsung dryer thermistor / temperature sensor"
 part_price: "$15-50"
 ---
 
-## Samsung Dryer tE1 Error Code — What It Means
-
+## What this code means
 The tE or tE1 code on a Samsung dryer is a temperature sensor error. The control board is not receiving a valid temperature signal from the thermistor circuit. This can happen because the sensor itself has failed, a connector is loose or corroded, or the dryer is overheating and triggering a protection logic response.
 
 In practice, the code points to a problem in the thermistor or its wiring rather than a simple heating failure. The dryer may not start, may stop mid-cycle, or may display the code at power-on. Airflow restriction from lint buildup or a crushed vent can also cause abnormal temperature behavior that trips the sensor circuit.
@@ -26,8 +25,6 @@ In practice, the code points to a problem in the thermistor or its wiring rather
 ## Before You Replace Anything
 
 Many people replace the main control board when the real fault is a bad thermistor or a corroded connector. Test the thermistor resistance with a multimeter and inspect the connector pins before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

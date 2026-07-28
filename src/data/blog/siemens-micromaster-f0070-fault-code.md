@@ -13,13 +13,10 @@ money_part: "Siemens Micromaster communications board (CB module)"
 most_likely_cause: "Communications board not communicating"
 ---
 
-## Siemens Micromaster F0070 — What It Means
-
+## What this code means
 F0070 is a communications-board setpoint fault on Siemens Micromaster 420 and 440 drives. The drive did not receive a valid setpoint from the communications board within the telegram timeout period. This is not a motor, power-stage, or inverter hardware fault. It means the control data from the network or master controller is missing, incorrect, or not arriving in time.
 
 The fault typically appears when the drive is configured for bus control but the communications link is broken, the master device is offline, or the telegram configuration does not match the drive's expectations. It can also show up if the wrong command source is selected in the drive parameters.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ The fault typically appears when the drive is configured for bus control but the
 ## When to Call a Pro
 
 Call a qualified technician or integrator if you are not familiar with fieldbus networks, parameter configuration, or PLC programming. F0070 often requires coordinated troubleshooting of both the drive and the master controller, and incorrect parameter changes can disable the drive or create safety hazards. If the fault appears intermittently or returns after replacing the communications board, you may have a deeper network timing, grounding, or EMI issue that needs systematic diagnosis with network-analysis tools.
-
-## See Also
-
-- [Siemens SINAMICS G120 F30003 Fault — DC Link Undervoltage Fix](/posts/siemens-sinamics-f30003-fault/)
-- [Siemens G120C VFD Fault Code Guide — Complete Diagnostic Reference](/posts/siemens-g120c-fault-codes/)
-- [Siemens S7-300/400 CPU Fault Code Guide](/posts/siemens-s7-cpu-fault-codes/)
-- [Siemens G120 F01650 - Causes & Fix](/posts/siemens-g120-vfd-f01650-fault-code/)

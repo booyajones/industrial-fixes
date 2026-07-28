@@ -22,8 +22,7 @@ part_price: "$25-60"
 no_buy_pct: "40%"
 ---
 
-## Kenmore Dishwasher E14 Error Code — What It Means
-
+## What this code means
 E14 is not a native Kenmore fault code in manufacturer literature. In practice, Kenmore dishwashers that display E14 are usually Bosch-built platforms. On these machines, E14 means the control has detected a problem confirming inlet water flow, typically tied to the flow meter (also called a reed sensor) or the water-fill path. The dishwasher cannot verify proper fill volume, so it flags E14 and stops the cycle.
 
 Because Kenmore sources many models from Bosch, you should treat E14 as a flow-meter or water-inlet fault. The exact meaning can vary by model, so always cross-check your owner's manual or wiring diagram if available.
@@ -31,8 +30,6 @@ Because Kenmore sources many models from Bosch, you should treat E14 as a flow-m
 ## Before You Replace Anything
 
 Many people replace the control board first, but E14 usually points to the flow sensor or inlet valve. Always inspect the water supply, float, and flow-meter connector before ordering expensive control parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

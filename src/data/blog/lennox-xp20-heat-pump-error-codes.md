@@ -17,8 +17,6 @@ The Lennox XP20 (model series XP20-024 through XP20-060) is a variable-capacity 
 
 Fault and lockout codes override normal status codes. If the 7-segment display shows an "E" followed by a number, the system has detected a problem. The table below covers every documented alert code from the XP20 installation and service manual (Corp. 1408-L10).
 
-[Jump to Fix](#fix)
-
 ## Complete XP20 Alert Code Table
 
 ### Communication Faults
@@ -146,18 +144,3 @@ No. The XP20 requires an iComfort Wi-Fi or iComfort S30 thermostat. The variable
 ### Why does my XP20 keep showing E 410 or E 411?
 
 E 410 (single low-pressure event) and E 411 (five events in one hour, lockout) point to low refrigerant charge in most cases. The R-410A system has a factory charge sized for 15 feet of line set. Longer runs, a slow leak at a flare fitting, or a pinhole in the coil drop the charge below the low-pressure switch setpoint. A technician needs to leak-test the system, repair the leak, evacuate, and recharge to the nameplate specification.
-
-## Related Articles
-
-- [Lennox Furnace Error Codes](/posts/lennox-furnace-error-codes/)
-- [Lennox Mini Split Error Codes](/posts/lennox-mini-split-error-codes/)
-- [Carrier Heat Pump Error Codes](/posts/carrier-heat-pump-error-codes/)
-- [Trane Heat Pump Error Codes](/posts/trane-heat-pump-error-codes/)
-- [Goodman Heat Pump Error Codes](/posts/goodman-heat-pump-error-codes/)
-
-## See Also
-
-- [Lennox iHarmony Zoning System Error Codes — Troubleshooting Guide](/posts/lennox-iharmony-zoning-error/)
-- [Lennox Error Code 414 — Gas Valve Circuit Fault Fix](/posts/lennox-error-code-414-gas-valve-circuit-fault/)
-- [Lennox Error Code 411 — Ignition Proving Fault Fix](/posts/lennox-error-code-411/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)

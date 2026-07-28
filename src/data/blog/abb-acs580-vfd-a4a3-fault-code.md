@@ -21,8 +21,7 @@ part_price: "$80-150"
 no_buy_pct: "60%"
 ---
 
-## ABB ACS580 A4A3 Fault Code — What It Means
-
+## What this code means
 The fault code A4A3 does not appear in official ABB ACS580 documentation. The code you are seeing is most likely A4A0 (Control Board Temperature) or a PU communication error such as 5681. A4A0 means the internal temperature of the control board has exceeded the safe operating limit, triggering a thermal shutdown to prevent permanent damage to the electronics. If your display strictly reads A4A3 and not A4A0, it is possible the drive is reporting a Power Unit communication failure (often code 5681), which shares similar symptoms of the control unit being unable to function due to power or signal issues.
 
 For A4A0, the drive is protecting itself from heat damage caused by inadequate cooling. For PU communication faults, the 24V supply to the control board or the connection between the control unit and power unit has failed. Either fault will prevent normal operation until the underlying issue is resolved.
@@ -30,8 +29,6 @@ For A4A0, the drive is protecting itself from heat damage caused by inadequate c
 ## Before You Replace Anything
 
 Technicians often replace the entire control board when the real problem is a failed cooling fan or a clogged vent. Check the fan operation and clean all vents before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or VFD technician if you are not trained in safe lock-out/tag-out procedures for high-voltage equipment. Even after power-down, the ACS580 retains dangerous DC bus voltages in its capacitors. A professional can safely diagnose whether the fault is a simple fan replacement, a control board failure, or a power unit issue requiring replacement of major components. If the fault persists after cleaning and fan replacement, or if you measure no 24V supply at the control board, the drive may need factory-level service or board replacement that requires programming and commissioning.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [ABB ACH580 HVAC VFD Fault Codes — Full Diagnostic Guide - What It Means and How to Fix It](/posts/abb-ach580-fault-codes/)
-- [ABB VFD Fault 3210 — Causes & Fix](/posts/abb-vfd-fault-3210/)
-- [ABB ACS580 A7A3 Fault - Causes & Fix](/posts/abb-acs580-vfd-a7a3-fault-code/)
-- [ABB ACS580 A2B4 Fault Code - Causes & Fix](/posts/abb-acs580-a2b4-fault-code/)

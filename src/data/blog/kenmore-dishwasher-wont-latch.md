@@ -19,8 +19,6 @@ A Kenmore dishwasher that won't latch means the door is not closing far enough f
 
 On most Kenmore units the symptom shows up as no start at all. The console may light up but nothing happens when you press Start. Less commonly the door may close but then pop back open, or the latch may catch once but not hold. If your model has a control lock feature, the panel may also be intentionally blocking operation until you unlock it.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door strike and latch not aligned** The strike plate or latch hook is loose, worn, or out of position so the door cannot seat fully and engage the switch.
@@ -54,14 +52,14 @@ On most Kenmore units the symptom shows up as no start at all. The console may l
 If your appliance also shows a code on the display, these match this problem:
 
 - [Kenmore Dishwasher E04 error code](/posts/kenmore-dishwasher-e04-error-code/)
-- [Kenmore Dishwasher E05 error code](/posts/kenmore-dishwasher-e05-error-code/)
-- [Kenmore Dishwasher E06 error code](/posts/kenmore-dishwasher-e06-error-code/)
+- Kenmore Dishwasher E05 error code
+- Kenmore Dishwasher E06 error code
 - [Kenmore Dishwasher E07 error code](/posts/kenmore-dishwasher-e07-error-code/)
 - [Kenmore Dishwasher E08 error code](/posts/kenmore-dishwasher-e08-error-code/)
 - [Kenmore Dishwasher E09 error code](/posts/kenmore-dishwasher-e09-error-code/)
 - [Kenmore Dishwasher E10 error code](/posts/kenmore-dishwasher-e10-error-code/)
 - [Kenmore Dishwasher E11 error code](/posts/kenmore-dishwasher-e11-error-code/)
-- [Kenmore Dishwasher E12 error code](/posts/kenmore-dishwasher-e12-error-code/)
+- Kenmore Dishwasher E12 error code
 - [Kenmore Dishwasher E13 error code](/posts/kenmore-dishwasher-e13-error-code/)
 - [Kenmore Dishwasher E14 error code](/posts/kenmore-dishwasher-e14-error-code/)
 - [Kenmore Dishwasher F1E1 error code](/posts/kenmore-dishwasher-f1e1-error-code/)

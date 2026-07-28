@@ -17,8 +17,6 @@ most_likely_cause: "Alerts 434/411 - Communication faults"
 
 The Lennox XC21 is a variable-capacity inverter heat pump that communicates with the iComfort S30 or E30 thermostat over the proprietary iComfort communication bus. Fault codes appear on the thermostat under Menu > Alerts or can be viewed through the Lennox dealer diagnostic app. Unlike older Lennox flash-code units, the XC21 generates text-based alert codes that describe the fault type and which component detected it. The outdoor unit, indoor unit, and thermostat each report independently.
 
-[Jump to Fix](#fix)
-
 ## Most Common XC21 Alert Codes
 
 | Alert Code | Meaning |
@@ -61,18 +59,3 @@ The Lennox XC21 is a variable-capacity inverter heat pump that communicates with
 ## When to Call a Pro
 
 The XC21's inverter-driven compressor requires specialized diagnostic tools — the iComfort communicating system gives real-time compressor speed, operating pressures, and temperature data that a Lennox dealer can read remotely via the iComfort Connect portal. All refrigerant work requires EPA 608 certification. If the inverter drive board inside the outdoor unit is suspect, replacement involves high-voltage components and should only be handled by a trained technician.
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-
-## See Also
-
-- [Lennox Error Code 114 — Causes & Fix](/posts/lennox-error-code-114/)
-- [Lennox ResolvePlus Rooftop Unit Error Codes: Complete Guide](/posts/lennox-resolve-plus-error-codes/)
-- [Lennox Error Code 125 — Causes & Fix](/posts/lennox-error-code-125/)
-- [Lennox Harmony III Zoning System Error Codes — Complete Guide](/posts/lennox-harmony-iii-error-codes/)

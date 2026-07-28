@@ -19,8 +19,6 @@ Water leaking from your Amana refrigerator is a symptom, not a fault code. Amana
 
 If the leak appears at the front or inside the freezer compartment, the defrost drain is often frozen or clogged. Water that should run down the drain trough during the defrost cycle backs up, overflows, and drips onto the floor or pools in the cabinet. If water shows up near the dispenser or on the exterior, check the drip tray, ice chute, filter O-rings, and all tubing connections from the household supply to the dispenser inlet.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Frozen or clogged defrost drain** Ice buildup in the drain trough or tube blocks meltwater flow, causing overflow into the freezer or onto the floor.
@@ -53,14 +51,14 @@ If the leak appears at the front or inside the freezer compartment, the defrost 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Amana Refrigerator Ci error code](/posts/amana-refrigerator-ci-error-code/)
-- [Amana Refrigerator D7 error code](/posts/amana-refrigerator-d7-error-code/)
-- [Amana Refrigerator D8 error code](/posts/amana-refrigerator-d8-error-code/)
+- Amana Refrigerator Ci error code
+- Amana Refrigerator D7 error code
+- Amana Refrigerator D8 error code
 - [Amana Refrigerator D9 error code](/posts/amana-refrigerator-d9-error-code/)
-- [Amana Refrigerator Ec40 error code](/posts/amana-refrigerator-ec40-error-code/)
+- Amana Refrigerator Ec40 error code
 - [Amana Refrigerator F1 error code](/posts/amana-refrigerator-f1-error-code/)
 - [Amana Refrigerator If error code](/posts/amana-refrigerator-if-error-code/)
-- [Amana Refrigerator It error code](/posts/amana-refrigerator-it-error-code/)
+- Amana Refrigerator It error code
 - [Amana Refrigerator Po error code](/posts/amana-refrigerator-po-error-code/)
 
 ## When to Call a Pro

@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "50%"
 ---
 
-## Weil-McLain A61 Error — What It Means
-
+## What this code means
 The A61 fault on a Weil-McLain Ultra boiler is a low-flow lockout. The boiler control has detected that the temperature rise across the heat exchanger exceeded 58°F during firing, meaning the supply temperature is more than 58 degrees hotter than the return temperature. This excessive differential tells the control that not enough water is flowing through the boiler to carry away the heat being produced.
 
 The unit will lock out and remain in lockout until the temperature differential drops back within limits for 30 seconds. After 20 automatic resets, the boiler requires a manual reset at the control. The fault is not related to gas or ignition problems. It is a hydronic circulation fault that points to restricted flow, a failed pump, air in the system, or faulty temperature sensors feeding incorrect readings to the control.
@@ -29,8 +28,6 @@ The unit will lock out and remain in lockout until the temperature differential 
 ## Before You Replace Anything
 
 Homeowners sometimes replace temperature sensors or the control board first. Before swapping parts, verify actual flow by checking that all manual shut-off valves are fully open, the circulator is running, and the system is purged of air.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -81,10 +78,3 @@ Answer these to narrow it down fast.
 Call a licensed heating technician if you cannot locate or open all manual valves, if the circulator does not run or you are unsure how to test it, or if bleeding air does not resolve the fault. A technician has the tools to measure actual flow rates, test sensor accuracy with a multimeter, force the boiler into high-fire test mode safely, and interpret live temperature differentials on the control display. If the fault persists after restoring flow and purging air, the problem may involve incorrect piping, a failing control board, or a sensor that requires calibration or replacement. Do not attempt to bypass or defeat any safety lockout.
 
 **Rough cost:** A pro service call runs about $200-500.
-
-## See Also
-
-- [Weil-McLain A45 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a45-error-code/)
-- [Weil-McLain A155 Error - Causes & Fix](/posts/weil-mclain-boiler-a155-error-code/)
-- [Weil-McLain A88 Error - Causes & Fix](/posts/weil-mclain-boiler-a88-error-code/)
-- [Weil-McLain A51 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a51-error-code/)

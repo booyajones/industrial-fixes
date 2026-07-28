@@ -13,11 +13,8 @@ money_part: "Circulator pump"
 most_likely_cause: "Low or no water flow through the boiler"
 ---
 
-## Lochinvar Boiler Error Code E04 — What It Means
-
+## What this code means
 E04 on a Lochinvar boiler indicates that the high-limit safety has tripped. The boiler water temperature exceeded the high-limit setpoint — typically 210°F on most Lochinvar models — and the control cut the burner to prevent a dangerous pressure or temperature condition. E04 is a hard lockout: the boiler will not restart until the underlying cause of overheating is identified and the fault is manually reset.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,11 +44,3 @@ E04 on a Lochinvar boiler indicates that the high-limit safety has tripped. The 
 ## When to Call a Pro
 
 If E04 persists after verifying flow and resetting, a Lochinvar-authorized technician should perform combustion and flow analysis. Scale buildup and heat exchanger damage must be evaluated by a professional with proper flushing equipment.
-
-## Related Articles
-
-- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
-- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
-- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)

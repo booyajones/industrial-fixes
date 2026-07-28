@@ -20,8 +20,6 @@ A York furnace blower that won't shut off is a symptom, not a specific fault cod
 
 If the blower continues after a heat call ends, some furnaces run the blower during a timed off-delay or during a limit or safety event. If it never stops, that points to a fault rather than a normal purge cycle. York's own troubleshooting guide points to thermostat settings, airflow, power, and filter checks as the first steps for this condition.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Thermostat fan setting on ON instead of AUTO** The thermostat fan switch is set to ON, which commands continuous blower operation regardless of heating or cooling calls.
@@ -62,10 +60,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a professional if you are not comfortable working with 24 V control wiring or 120 V blower circuits, or if the blower continues to run after you have verified thermostat settings and wiring. A technician can safely diagnose relay and control board faults, test safety and limit switches, and correct any underlying overheating or airflow issues. If the furnace has tripped a safety limit or if you suspect a gas burner or ignition problem contributing to overheating, have a qualified HVAC technician inspect and repair the system. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [York Furnace Keeps Shutting Off - Causes & Fix](/posts/york-furnace-keeps-shutting-off/)
-- [York TG9 Furnace Error Codes — Fault Code Diagnostic Guide](/posts/york-tg9-furnace-error-codes/)
-- [York TG9S Furnace Problems & Error Codes](/posts/york-tg9s-furnace-gas-residential-problems/)
-- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)

@@ -22,8 +22,7 @@ part_price: "$30-80"
 no_buy_pct: "30%"
 ---
 
-## Maytag Washer F5 E3 Error Code — What It Means
-
+## What this code means
 F5 E3 is a lid lock or door lock fault. On Maytag top-load washers it signals a lid lock or door switch wiring error. On front-load models it indicates a door lock or latch problem. The exact presentation depends on your platform, so verify your model number before ordering parts.
 
 The code appears when the control board cannot confirm the lid or door has locked properly, or when the lock mechanism fails to respond. The washer will not run or will stop mid-cycle because it cannot safely spin with an unlocked lid or door.
@@ -31,8 +30,6 @@ The code appears when the control board cannot confirm the lid or door has locke
 ## Before You Replace Anything
 
 Many people replace the control board when the actual fault is in the lid lock assembly or its wiring harness. Run the built-in door or lid lock test in diagnostic mode and inspect the lock connector and wiring before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

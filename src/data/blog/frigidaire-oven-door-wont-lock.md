@@ -20,8 +20,6 @@ When your Frigidaire oven door won't lock, the control has detected a problem wi
 
 Frigidaire's instructions confirm the lock is normally activated or canceled by holding the OFF button for 6 seconds, and the door lock motor should begin moving and complete the cycle in about 15 seconds. If the door stays unlocked, won't release after self-clean, or triggers a fault code, the issue is typically mechanical wear in the lock assembly, a wiring problem between the lock and control board, or a temporary software glitch that a power reset can clear.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Stuck or worn door lock assembly** The lock motor, latch, or linkage can fail mechanically from repeated use or heat exposure, preventing the latch from moving into the locked position.

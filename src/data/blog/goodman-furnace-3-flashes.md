@@ -13,15 +13,12 @@ tags:
   - error-code
 ---
 
-## Goodman Furnace 3 Flashes — What It Means
-
+## What this code means
 **3 slow flashes** on a Goodman furnace control board means the **pressure switch is open** — the furnace's draft inducer motor is running but the control board isn't getting confirmation that proper combustion air pressure has been established. Without that confirmation, the furnace won't allow ignition, so you get 3 flashes and no heat.
 
 This code also applies to **Amana furnaces** and some **Coleman furnaces** that share the same Goodman control board platform.
 
 The pressure switch is a small, inexpensive component — but the cause of 3 flashes is often not the switch itself. Blocked condensate drains, cracked pressure hoses, and failed inducer motors are the real culprits in most cases.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ If you've checked the condensate drain, inspected the hose, cleared the vent pip
 
 - [Goodman Furnace 4 Flashes — Open High Limit Switch](/posts/goodman-furnace-4-flashes/)
 - [Goodman Furnace 2 Flashes — Pressure Switch Stuck Closed](/posts/goodman-furnace-2-flashes/)
-
-## See Also
-
-- [Goodman Heat Pump Error Codes - What It Means and How to Fix It](/posts/goodman-heat-pump-error-codes/)
-- [Goodman Furnace 2 Flashes — Pressure Switch Stuck Closed Fix](/posts/goodman-furnace-2-flashes/)
-- [Goodman Heat Pump E1 Error Code — Pressure Switch Fault](/posts/goodman-heat-pump-error-code-e1/)
-- [Goodman Furnace E2 Error Code — Flame Sense Fault (Digital Display Models)](/posts/goodman-furnace-e2-error-code/)

@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## KitchenAid Oven F6 E1 Error Code — What It Means
-
+## What this code means
 The F6 E1 error code indicates a communication failure between the Appliance Manager Control (the main user interface board) and the Converter Control (the high-voltage power board) or the Main Control Board. The system cannot verify the status of heating elements or temperature sensors because the data link between the logic boards is broken. The oven may fail to heat, display an error message, or behave erratically (for example, heating above the selected temperature if a broil relay sticks on).
 
 According to KitchenAid Product Help, this code specifically points to a problem with the Appliance Manager Control, the Converter Control, or the associated wiring harness connecting these boards. While the code is a communication error, the root causes are typically physical rather than software-based.
@@ -26,8 +25,6 @@ According to KitchenAid Product Help, this code specifically points to a problem
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first. Before ordering expensive boards, check and reseat all wire harness connections between the boards and test the temperature sensor resistance (should read 1000-1200 ohms at room temperature).
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

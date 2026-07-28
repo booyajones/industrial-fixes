@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana HC Error Code — What It Means
-
+## What this code means
 HC stands for Hot/Cold reversed on Amana top-load HE washers. The code appears at the end of the wash cycle when the washer detects that the cold supply hose is connected to the hot inlet valve and the hot supply hose is connected to the cold inlet valve. This is an installation or service issue, not a failure of the motor, drain system, or door lock.
 
 Amana describes HC as a hose-connection problem. The washer's temperature sensors recognize that water temperatures do not match the expected inlet during the cycle. The prescribed fix is to turn off the water supply, reverse the hoses to the correct ports, and run another cycle to verify the correction.
@@ -25,8 +24,6 @@ Amana describes HC as a hose-connection problem. The washer's temperature sensor
 ## Before You Replace Anything
 
 Homeowners sometimes suspect a failed control board or inlet valve when they see an error code. Before replacing any internal parts, simply check the rear hose connections and swap them if they are reversed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

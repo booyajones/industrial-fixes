@@ -17,8 +17,7 @@ money_part: "Samsung freezer temperature sensor / thermistor"
 part_price: "$15-50"
 ---
 
-## Samsung Refrigerator 1E Error Code — What It Means
-
+## What this code means
 Samsung's 1E error code is not consistently defined across all refrigerator models. On many Samsung units, manufacturer documentation identifies 1E as a freezer temperature sensor fault, specifically an open sensor circuit (readings below -50°C trigger the code, while a short-circuit sensor fault appears as 1C). The sensor monitors freezer temperature to regulate cooling. However, some repair sources describe 1E or IE as a display alert that appears after a power outage, brownout, or voltage spike and can be cleared by a simple reset.
 
 Because the same code has two different meanings depending on the model, always verify your specific refrigerator's service manual or wiring diagram before ordering parts. If your unit recently experienced a power interruption, the code may be only a temporary alert. If the code persists after a power cycle, treat it as a freezer sensor circuit problem and inspect the thermistor, harness, and control board connections.
@@ -26,8 +25,6 @@ Because the same code has two different meanings depending on the model, always 
 ## Before You Replace Anything
 
 Many owners replace the main control board first when the real problem is a bad sensor or loose connector. Always test the freezer thermistor resistance and inspect the harness connections before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

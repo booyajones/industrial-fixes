@@ -19,8 +19,6 @@ When your LG refrigerator water dispenser stops working, the problem is usually 
 
 LG says to first check the display for any visible error code, then work through the interlock and supply checks in order. If the dispenser hums when you press the lever, the problem is downstream in the water path. If there's no hum at all, you're looking at a door switch, control lock, or electrical fault.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Control Lock or Child Lock engaged** LG says look for the locked padlock icon on the display and hold the lock key for 3 seconds to unlock.
@@ -54,26 +52,19 @@ LG says to first check the display for any visible error code, then work through
 
 Seeing a code on the display? These match this problem:
 
-- [Lg Refrigerator C1 error code](/posts/lg-refrigerator-c1-error-code/)
-- [Lg Refrigerator Cf error code](/posts/lg-refrigerator-cf-error-code/)
-- [Lg Refrigerator Co error code](/posts/lg-refrigerator-co-error-code/)
-- [Lg Refrigerator Dh error code](/posts/lg-refrigerator-dh-error-code/)
-- [Lg Refrigerator Ds error code](/posts/lg-refrigerator-ds-error-code/)
-- [Lg Refrigerator Eid error code](/posts/lg-refrigerator-eid-error-code/)
-- [Lg Refrigerator Eiu error code](/posts/lg-refrigerator-eiu-error-code/)
-- [Lg Refrigerator Ff error code](/posts/lg-refrigerator-ff-error-code/)
-- [Lg Refrigerator Fs error code](/posts/lg-refrigerator-fs-error-code/)
-- [Lg Refrigerator Gf error code](/posts/lg-refrigerator-gf-error-code/)
-- [Lg Refrigerator If error code](/posts/lg-refrigerator-if-error-code/)
-- [Lg Refrigerator Is error code](/posts/lg-refrigerator-is-error-code/)
+- Lg Refrigerator C1 error code
+- Lg Refrigerator Cf error code
+- Lg Refrigerator Co error code
+- Lg Refrigerator Dh error code
+- Lg Refrigerator Ds error code
+- Lg Refrigerator Eid error code
+- Lg Refrigerator Eiu error code
+- Lg Refrigerator Ff error code
+- Lg Refrigerator Fs error code
+- Lg Refrigerator Gf error code
+- Lg Refrigerator If error code
+- Lg Refrigerator Is error code
 
 ## When to Call a Pro
 
 Call a professional if you've unlocked Control Lock, confirmed the door switches work, verified water supply and pressure, replaced the filter, and thawed any frozen lines but still get no water. Technician-level diagnosis includes checking for voltage at the inlet valve during a dispense call, testing coil continuity, and tracing the dispenser control circuit. If an error code is displayed on the panel, a pro can cross-reference it with LG service documentation for your exact model and avoid unnecessary part swaps.
-
-## See Also
-
-- [LG Dryer Moisture Sensor & Thermistor Replacement - Signs & How-To](/posts/lg-dryer-moisture-sensor-thermistor-replacement/)
-- [LG Mini-Split CH03 Error - Causes & Fix](/posts/lg-mini-split-ch03-error-code/)
-- [LG Microwave F-5 Error Code - Causes & Fix](/posts/lg-microwave-f-5-error-code/)
-- [LG Washer Tub Bearing Replacement - Signs & How-To](/posts/lg-washer-tub-drum-bearing-replacement/)

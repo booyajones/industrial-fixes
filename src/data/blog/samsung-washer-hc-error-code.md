@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Samsung washer heater element assembly"
 ---
 
-## Samsung Washer HC Error Code — What It Means
-
+## What this code means
 Samsung groups HC, HE, HE1, Hr, and 1 HC together as heater errors on its washer support page. The code signals that the machine has detected an abnormal heating condition in the wash system. This can be a heating element circuit fault, a temperature sensor problem, or control logic seeing an invalid reading during the heating process. Because Samsung's public documentation does not define HC separately for every washer model, always verify your exact model number and consult your owner's manual or wiring diagram for model-specific interpretation.
 
 In most washer-service contexts, HC indicates a water heating or sensor fault, meaning the heating element, thermistor, wiring, or control board is reporting a condition outside normal parameters. The machine stops the cycle to prevent damage or unsafe operation.
@@ -25,8 +24,6 @@ In most washer-service contexts, HC indicates a water heating or sensor fault, m
 ## Before You Replace Anything
 
 Homeowners often replace the control board first. Test the heater element for continuity and the thermistor for correct resistance before ordering any control electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

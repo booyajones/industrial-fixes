@@ -13,11 +13,8 @@ money_part: "Motor output cable"
 most_likely_cause: "Short circuit in output wiring or motor"
 ---
 
-## Siemens Micromaster Fault F001 — What It Means
-
+## What this code means
 Siemens Micromaster fault **F001** is an **overcurrent** fault — the drive detected output current exceeding 4× the rated motor current (the drive's instantaneous overcurrent hardware trip level). F001 applies to Micromaster 410, 420, 430, 440, and Vector series drives. It is the most severe current protection, responding in microseconds to protect the IGBTs from destructive currents. F001 typically results from a short circuit in the output wiring or a locked-rotor condition where the motor cannot turn.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Siemens Micromaster fault **F001** is an **overcurrent** fault — the drive det
 ## When to Call a Pro
 
 If F001 occurs at no load with the motor disconnected, the IGBT output stage in the Micromaster has failed. Board replacement on Micromaster 440 and Vector units requires specialized disassembly and should be handled by a Siemens repair center or certified integrator.
-
-## Related Articles
-
-- [Siemens Sinumerik 828D Alarm Codes Guide — Complete Diagnostic Reference](/posts/siemens-828d-alarm-codes/)
-- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
-- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)
-- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
-- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)
-
-## See Also
-
-- [Siemens SINAMICS G120 F30011 Fault — Phase Loss Fix](/posts/siemens-sinamics-f30011-fault/)
-- [Siemens SENTRON 3WL/3VA Fault Codes — Troubleshooting Guide](/posts/siemens-sentron-fault-codes/)
-- [Siemens Sinumerik Alarm 25201 — Causes & Fix](/posts/siemens-sinumerik-alarm-25201/)
-- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)

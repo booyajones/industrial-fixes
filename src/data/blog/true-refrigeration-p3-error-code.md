@@ -19,8 +19,7 @@ free_checks:
 part_price: "$40–80"
 ---
 
-## True Refrigeration P3 Error Code — What It Means
-
+## What this code means
 P3 on True refrigeration units with Dixell electronic controls signals an auxiliary probe failure. The auxiliary probe monitors a secondary temperature zone or display sensor, and when the control detects an open circuit, short, or out-of-range reading from that probe, it throws P3 and may sound an alarm. On some True models with LAE controls the same condition appears as E3 instead of P3, so always confirm which control family is installed on your cabinet before ordering parts.
 
 The code does not mean the compressor or refrigeration system has failed. It means the control has lost valid temperature data from the auxiliary sensor. The cabinet may continue to cool on the primary evaporator probe, but temperature accuracy and defrost cycles can be affected until the auxiliary probe is repaired or replaced.
@@ -28,8 +27,6 @@ The code does not mean the compressor or refrigeration system has failed. It mea
 ## Before You Replace Anything
 
 Technicians sometimes replace the electronic control when P3 persists, but a damaged or pinched probe harness or a corroded connector is often the real culprit. Always meter the probe resistance against True's temperature chart and inspect the wiring path before ordering a new control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified commercial refrigeration technician if you are not comfortable working inside energized control panels, if the probe resistance tests good but the P3 code persists, or if you suspect the electronic control board itself has failed. Refrigeration controls operate at line voltage and misdiagnosis can lead to expensive parts replacement. A trained tech will have the exact temperature-to-resistance charts for your True model, the tools to trace intermittent wiring faults, and access to genuine OEM probes and controls that match your cabinet's specifications.
 
 **Rough cost:** A pro service call runs about $150–300.
-
-## See Also
-
-- [True Refrigerator Error Code E2 / P2: Evaporator Probe Failure Causes and Fix](/posts/true-refrigeration-e2-p2-error/)
-- [True T-49 Refrigerator Error Codes — Complete Guide](/posts/true-refrigeration-t49-error-codes/)
-- [True Refrigeration E5 Error Code — Defrost Sensor Causes & Fix](/posts/true-refrigeration-e5-error-code/)
-- [True GDM-23 Error Codes - What It Means and How to Fix It](/posts/true-gdm-23-error-codes/)

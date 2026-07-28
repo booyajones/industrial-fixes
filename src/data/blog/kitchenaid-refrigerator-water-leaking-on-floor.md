@@ -19,8 +19,6 @@ When you find water pooling on the floor under or around your KitchenAid refrige
 
 The leak may appear at the front near the doors, at the back of the cabinet, or migrate from inside the fresh-food or freezer compartments. Water on the floor is most often caused by a blockage or freeze in the defrost drain line, by an improperly installed or damaged water filter, or by a cracked supply line or loose fitting. Each of these can allow defrost water, supply water, or condensation to escape the intended drain path and reach your floor.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged or frozen defrost drain line** This is the most common cause because defrost water cannot reach the drain pan and instead overflows or freezes until it melts onto the floor.
@@ -54,14 +52,14 @@ The leak may appear at the front near the doors, at the back of the cabinet, or 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kitchenaid Refrigerator E0 error code](/posts/kitchenaid-refrigerator-e0-error-code/)
-- [Kitchenaid Refrigerator E1 error code](/posts/kitchenaid-refrigerator-e1-error-code/)
-- [Kitchenaid Refrigerator E2 error code](/posts/kitchenaid-refrigerator-e2-error-code/)
-- [Kitchenaid Refrigerator E3 error code](/posts/kitchenaid-refrigerator-e3-error-code/)
-- [Kitchenaid Refrigerator E4 error code](/posts/kitchenaid-refrigerator-e4-error-code/)
-- [Kitchenaid Refrigerator E5 error code](/posts/kitchenaid-refrigerator-e5-error-code/)
-- [Kitchenaid Refrigerator E6 error code](/posts/kitchenaid-refrigerator-e6-error-code/)
-- [Kitchenaid Refrigerator Er error code](/posts/kitchenaid-refrigerator-er-error-code/)
+- Kitchenaid Refrigerator E0 error code
+- Kitchenaid Refrigerator E1 error code
+- Kitchenaid Refrigerator E2 error code
+- Kitchenaid Refrigerator E3 error code
+- Kitchenaid Refrigerator E4 error code
+- Kitchenaid Refrigerator E5 error code
+- Kitchenaid Refrigerator E6 error code
+- Kitchenaid Refrigerator Er error code
 
 ## When to Call a Pro
 

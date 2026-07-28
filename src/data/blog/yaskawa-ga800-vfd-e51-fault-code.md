@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "Input fuses (sized per GA800 installation manual)"
 ---
 
-## Yaskawa GA800 E51 Fault — What It Means
-
+## What this code means
 The E51 fault on a Yaskawa GA800 variable frequency drive signals an input power abnormality or phase-loss condition on the incoming supply side. The drive has detected that one or more of the three-phase input lines (L1, L2, or L3) has disappeared or dropped below acceptable levels. This is not a motor-side overload or output problem. The fault protects the drive from operating with unbalanced or incomplete incoming power, which would damage the input rectifier section.
 
 Yaskawa's troubleshooting approach for this code focuses on the power path from the utility supply to the drive terminals. The drive's input monitoring circuit has flagged a condition where the incoming voltage pattern no longer matches normal three-phase operation, either because a phase is completely missing or the imbalance is severe enough to trigger the protection logic.
@@ -24,8 +23,6 @@ Yaskawa's troubleshooting approach for this code focuses on the power path from 
 ## Before You Replace Anything
 
 Technicians sometimes replace the drive's control board or rectifier section when the real problem is a blown input fuse, loose line terminal, or upstream contactor dropping one phase. Always verify all three incoming line voltages at the drive input terminals before replacing any drive components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a licensed electrician or drive technician if you are not trained and authorized to work on three-phase industrial power systems. Diagnosing E51 requires measuring live line voltages and working inside electrical enclosures under lockout/tagout. If the upstream supply and all terminals test good but the fault persists, contact Yaskawa support or an authorized service center. The drive's input rectifier or power conversion section may be damaged, and replacing internal assemblies requires manufacturer training and proper part identification. Do not attempt to repair or replace drive internal components without consulting Yaskawa's maintenance documentation and verifying the correct part numbers for your frame size and voltage rating.
 
 **Rough cost:** A pro service call runs about $150-500.
-
-## See Also
-
-- [Yaskawa VFD Fault CF — Causes & Fix](/posts/yaskawa-vfd-fault-cf/)
-- [Yaskawa VFD Fault SC — Causes & Fix](/posts/yaskawa-vfd-fault-sc/)
-- [Yaskawa GA800 E13 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e13-fault-code/)
-- [Yaskawa GA800 VFD F012 - Causes & Fix](/posts/yaskawa-ga800-vfd-f012-fault-code/)

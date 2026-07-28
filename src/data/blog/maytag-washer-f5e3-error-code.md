@@ -22,8 +22,7 @@ part_price: "$40-80"
 no_buy_pct: "30%"
 ---
 
-## Maytag Washer F5E3 Error Code — What It Means
-
+## What this code means
 F5E3 on a Maytag washer means the control has detected that the door lock assembly is not releasing or unlocking as expected. The washer completes the wash cycle but the door or lid remains locked because the lock mechanism failed to disengage. Maytag groups F5E3 with F5E2 as door lock and latch errors on front-load and top-load models, and the code text is specifically tied to an unlock failure.
 
 The lock assembly is designed to click open when the control sends the unlock signal. When F5E3 appears, the control tried to unlock the door but did not receive confirmation that the lock opened. The problem can be mechanical (a stuck latch, debris, or heavy load pressure), electrical (corroded wiring or loose connector at the lock), or a transient control glitch that clears after a power reset.
@@ -31,8 +30,6 @@ The lock assembly is designed to click open when the control sends the unlock si
 ## Before You Replace Anything
 
 Homeowners often replace the control board first when the real problem is a sticky lock mechanism or corroded connector. Run the diagnostic lid-lock test and inspect the lock assembly and wiring harness before ordering any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

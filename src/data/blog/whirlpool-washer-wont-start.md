@@ -17,8 +17,6 @@ tags:
 
 When a Whirlpool washer won't start, there is no single fault code behind it. It is a symptom that can come from a failed start request, an open safety interlock, a loss of power, or a control-system fault. Whirlpool identifies door lock, fill, drain, and control-related error conditions separately, and if the washer will not enter diagnostics at all that strongly points to a control, user-interface, or power problem rather than a simple load or plumbing issue.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **No power or interrupted power** An unplugged cord, tripped breaker, bad outlet, or use of an extension cord will prevent the washer from starting.

@@ -209,10 +209,3 @@ A: The usual causes are scale on the evaporator, an ice thickness probe set too 
 **Q: Can a bad curtain switch stop ice production completely?**
 
 A: Yes. If the control board thinks the curtain is open or the bin is full, it will stop the cycle even if the refrigeration system is perfect. This is why bin and curtain checks come early in any Indigo NXT service call.
-
-## See Also
-
-- [Manitowoc Indigo NXT Error Code 8 - What It Means and How to Fix It](/posts/manitowoc-indigo-nxt-error-code-8/)
-- [Manitowoc NEO Ice Machine Error Codes - What It Means and How to Fix It](/posts/manitowoc-neo-ice-machine-error-codes/)
-- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)
-- [Manitowoc Ice Machine E04 Error Code — Causes & Fix](/posts/manitowoc-ice-machine-error-code-e04/)

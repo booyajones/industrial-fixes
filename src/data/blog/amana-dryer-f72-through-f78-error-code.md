@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Amana Dryer F72–F78 Error Code — What It Means
-
+## What this code means
 The F72–F78 code family on an Amana dryer signals a failure in the user interface or control panel assembly, or in its communication with the main electronic control board. Amana groups these codes together and treats them as a service-level electronic fault rather than an airflow, heating, or sensor problem.
 
 Amana's official guidance is straightforward: turn off the dryer at the circuit breaker for five minutes, restore power, and see if the code clears. If the code returns after the power cycle, the unit requires professional service to diagnose and replace the faulty control assembly or repair wiring connections.
@@ -25,8 +24,6 @@ Amana's official guidance is straightforward: turn off the dryer at the circuit 
 ## Before You Replace Anything
 
 Some owners replace the main electronic control board first, assuming the problem is in the central computer. Instead, power-cycle the dryer at the breaker for five minutes and inspect the harness connections between the user interface and the main control for loose, damaged, or corroded pins before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

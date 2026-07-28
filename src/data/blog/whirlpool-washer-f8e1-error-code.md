@@ -22,8 +22,7 @@ part_price: "$20–45"
 no_buy_pct: "65%"
 ---
 
-## Whirlpool Washer F8E1 Error Code — What It Means
-
+## What this code means
 F8E1 on a Whirlpool washer means the machine is not detecting the correct amount of incoming water. Whirlpool describes this as a no or insufficient fill condition. The washer expected water to enter within a normal fill window, but the sensed fill was too low or absent. On some models the door may remain locked while the unit is in this fault state.
 
 This code can appear on traditional top-load and front-load washers as well as some all-in-one washer/dryer combination models, where Whirlpool's product help describes it as no water flow detected. The machine has timed out waiting for fill but the water level sensor or pressure switch did not register enough water entering the tub.
@@ -31,8 +30,6 @@ This code can appear on traditional top-load and front-load washers as well as s
 ## Before You Replace Anything
 
 Many people replace the water inlet valve assembly first. Before buying any part, check that both wall valves are fully open, inspect and clean the inlet screens on the washer, and test actual water flow through each hose into a bucket.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

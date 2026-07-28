@@ -17,8 +17,6 @@ tags:
 
 When your Samsung dishwasher doesn't clean well, the cycle completes but dishes come out dirty, greasy, or covered in food particles. This is a performance symptom with multiple possible causes, not a single fault code. Samsung ties poor cleaning to water delivery problems, clogged filters or spray arms, detergent dispenser issues, improper loading, and water quality. In some cases, dirty water can recirculate if the drain hose lacks a proper high loop to prevent backflow from the drainpipe.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged filter assembly** Food debris trapped in the filter recirculates onto dishes during the wash cycle instead of draining away.

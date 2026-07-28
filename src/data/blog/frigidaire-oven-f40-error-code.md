@@ -17,8 +17,7 @@ money_part: "Cooktop Lockout Control Board"
 part_price: "$50-200"
 ---
 
-## Frigidaire Oven F40 Error Code — What It Means
-
+## What this code means
 Frigidaire labels F40 (and F41) as Cooktop Lock Out on electric ranges and cooktops. The code tells you that the cooktop is locked and normal burner operation is disabled. This is a lock-state or lockout communication fault, not a temperature or burner-performance problem.
 
 Frigidaire's owner support instructs you to cancel the oven lock feature by holding the OFF button for 6 seconds on applicable models. If the code persists after that, Frigidaire recommends a power reset. When the fault continues after reset, the problem is usually a stuck key, a wiring issue between the console and control board, or a failed electronic component in the lockout path.
@@ -26,8 +25,6 @@ Frigidaire's owner support instructs you to cancel the oven lock feature by hold
 ## Before You Replace Anything
 
 Many owners replace the main control board first, but a stuck or contaminated touchpad key often causes a false lock signal. Clean the console surface and inspect for stuck buttons before ordering any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

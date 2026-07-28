@@ -13,11 +13,8 @@ money_part: "Fieldbus communication cable (shielded twisted-pair)"
 most_likely_cause: "Incorrect or mismatched protocol setup"
 ---
 
-## ABB ACS550 EFB3 Fault — What It Means
-
+## What this code means
 On the ABB ACS550 variable frequency drive, EFB3 is a reserved embedded fieldbus fault code. ABB states the meaning is protocol dependent, and the code is not used for the embedded fieldbus application itself. In practice, when you see EFB3 on an ACS550, treat it as a fieldbus or communications-related indication rather than a fixed hardware failure. The drive is alerting you to a communication problem between the VFD and the network master or controller, but the exact cause depends on which protocol and network you are running.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ On the ABB ACS550 variable frequency drive, EFB3 is a reserved embedded fieldbus
 ## When to Call a Pro
 
 Call a qualified technician or controls integrator if you are not familiar with fieldbus protocols, network addressing, or drive parameter configuration. Because EFB3 is protocol dependent and has no single fixed meaning, diagnosis requires knowledge of the specific communication standard in use (such as DeviceNet, Profibus, or Modbus), the network master programming, and proper shielding practices. A professional can use network diagnostic tools to monitor traffic, verify timing, and isolate whether the fault is in the drive, the cable, or the controller. If you have verified wiring and grounding but the fault persists, or if the drive is part of a coordinated industrial control system, professional support will save time and prevent damage to the process.
-
-## See Also
-
-- [ABB ACS580 A2B3 Fault Code - Causes & Fix](/posts/abb-acs580-a2b3-fault-code/)
-- [ABB ACS550 AF10 Fault — Causes & Fix](/posts/abb-acs550-af10-heatsink/)
-- [ABB ACS880 Fault 3130 — Input Phase Loss Causes & Fix](/posts/abb-acs880-fault-3130/)
-- [ABB ACS550 AI1 LOSS - Causes & Fix](/posts/abb-acs550-vfd-ai1-loss-fault-code/)

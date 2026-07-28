@@ -22,8 +22,7 @@ part_price: "$30-50"
 no_buy_pct: "75%"
 ---
 
-## Whirlpool F8 E1 Error Code — What It Means
-
+## What this code means
 The Whirlpool F8 E1 code means the washer is not detecting the correct amount of incoming water. Whirlpool describes it as a fill fault where the machine expects water to enter within a normal time window, but the sensed fill is too low or absent. On all-in-one washer/dryer models, Whirlpool states F8E1 indicates no water flow detected to the appliance.
 
 The control board sees a fill condition that is too slow, too low, or missing entirely. This is not a spin, drain, or door fault. It is a water supply problem, either from the household plumbing side or from an internal component that admits or senses water.
@@ -31,8 +30,6 @@ The control board sees a fill condition that is too slow, too low, or missing en
 ## Before You Replace Anything
 
 Homeowners often replace the water inlet valve assembly first, but most F8 E1 errors are caused by restricted supply hoses, clogged inlet screens, or closed wall valves. Clean the screens and check hose flow into a bucket before buying a valve.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

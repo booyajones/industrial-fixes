@@ -17,8 +17,7 @@ money_part: "Whirlpool dryer outlet thermistor"
 part_price: "$20-50"
 ---
 
-## Whirlpool Dryer F23 Error Code — What It Means
-
+## What this code means
 F23 on a Whirlpool dryer signals an exhaust thermistor fault in the temperature-sensing circuit. The thermistor monitors exhaust air temperature at the blower housing. When the control board loses signal or sees an out-of-range reading from that sensor, it halts the cycle and displays F23. Whirlpool's official troubleshooting starts with a full power reset and a timed dry cycle to confirm whether the fault is persistent or a one-time glitch.
 
 This code appears most often on Duet and similar platforms. It points to a problem in the outlet or exhaust thermistor, its wiring harness, or the control board connections. The dryer will not run normally until the temperature sensor circuit is restored. Restricted venting and lint buildup can contribute to repeat failures by stressing the thermistor, but the F23 code itself indicates an electrical or sensor fault rather than a mechanical blockage.
@@ -26,8 +25,6 @@ This code appears most often on Duet and similar platforms. It points to a probl
 ## Before You Replace Anything
 
 Many people replace the control board first. Measure the exhaust thermistor resistance (around 10–11 kΩ at room temperature) and inspect the connector and harness for damage before spending money on electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

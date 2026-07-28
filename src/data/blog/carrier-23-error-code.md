@@ -15,11 +15,8 @@ money_part: "Pressure switch"
 most_likely_cause: "Blocked vent or flue"
 ---
 
-## Carrier 23 Error Code — What It Means
-
+## What this code means
 Carrier **error code 23** means the **draft safeguard switch is open** or failed to close when the inducer motor started. The control board expected proper combustion draft, but the pressure-switch safety circuit did not prove it.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,18 +46,3 @@ Carrier **error code 23** means the **draft safeguard switch is open** or failed
 ## When to Call a Pro
 
 If you have verified inducer operation and clear venting but the fault remains, a technician with a manometer can confirm whether the issue is true draft loss or a failed safety switch.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier Mini-Split P4 Error Code — Inverter Module Overtemperature Fix](/posts/carrier-mini-split-p4-error-code/)
-- [Carrier Infinity 24VNA6 Heat Pump Error Codes - Greenspeed Fault Reference](/posts/carrier-24vna6-error-codes/)
-- [Carrier Error Code 65 — Inducer Motor Fault](/posts/carrier-65-error-code/)
-- [Carrier 42 Error Code — Causes & Fix](/posts/carrier-42-error-code/)

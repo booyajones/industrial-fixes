@@ -17,8 +17,7 @@ money_part: "Main control board (CCU or central control unit)"
 part_price: "$80-200"
 ---
 
-## Whirlpool Dryer F-28 Error Code — What It Means
-
+## What this code means
 The F-28 code on a Whirlpool dryer indicates a communication error in the control system. The central control board cannot reliably talk to another board in the dryer, such as the user interface or motor control board. This is an electronic fault, not a mechanical one.
 
 Whirlpool's official product help lists F-28 as a dryer error code and recommends a reset and monitor procedure. Field service experience shows the fault is most often caused by a poor connection rather than a failed board. Loose, oxidized, or vibration-damaged connectors between control boards interrupt the signal path and trigger the code.
@@ -26,8 +25,6 @@ Whirlpool's official product help lists F-28 as a dryer error code and recommend
 ## Before You Replace Anything
 
 Homeowners often replace the main control board or user interface board immediately. Instead, pull power, remove and reseat every harness connector on the boards, inspect for corrosion or weak pin tension, and clean terminals before buying any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

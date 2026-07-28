@@ -17,8 +17,7 @@ free_checks:
   - "Verify the boiler model and control type from the nameplate to look up the correct fault definition"
 ---
 
-## Weil-McLain Boiler A158 Error — What It Means
-
+## What this code means
 A158 is not a verified standard Weil-McLain fault code in manufacturer documentation. It may be a model-specific internal code, a control-board identifier, or a misread display. Weil-McLain boilers use different fault-code families depending on the model and control type, so the exact meaning depends on your specific boiler series and installation manual.
 
 Most Weil-McLain ignition-related faults (such as the documented E02 code on Ultra-series models) indicate the boiler tried to light but failed to establish or prove flame. Common underlying problems include no gas flow, a dirty or failed flame sensor, a bad ignitor, or a blower issue on power-vented models. The control will lock out after repeated failed attempts. Always confirm the exact model and control from the boiler nameplate and consult the service manual before diagnosing or resetting.
@@ -26,8 +25,6 @@ Most Weil-McLain ignition-related faults (such as the documented E02 code on Ult
 ## Before You Replace Anything
 
 Homeowners often replace the ignitor or gas valve when the real problem is a dirty flame sensor or a closed gas shutoff valve. Before buying parts, verify gas supply and clean the flame sensor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a licensed heating technician immediately if you smell gas, if the boiler repeatedly locks out after resets, or if you are not comfortable working with gas appliances. Any work on the gas valve, gas piping, combustion air system, or control board should be done by a professional. Technicians have the correct manuals, diagnostic tools, and gas-detection equipment to safely trace ignition faults and verify proper combustion. Because A158 is not a standard published Weil-McLain code, a pro can cross-reference your exact model and control to find the manufacturer-defined meaning and follow the correct test sequence.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Weil-McLain A67 Error - Causes & Fix](/posts/weil-mclain-boiler-a67-error-code/)
-- [Weil-McLain A76 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a76-error-code/)
-- [Weil-McLain A157 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a157-error-code/)
-- [Weil-McLain A51 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a51-error-code/)

@@ -21,8 +21,7 @@ free_checks:
 part_price: "$45-90"
 ---
 
-## Frigidaire Range F92 Error Code — What It Means
-
+## What this code means
 The F92 error code means the oven's control system detected that the door lock mechanism remained in the open position for longer than the factory-preset safety limit (typically 120 seconds or 2 minutes). The code triggers when the system fails to confirm that the door has fully locked when a self-clean or lockout cycle is initiated, or when the latch does not return to the unlocked position within the allowed time. F92 is part of a family of door lock codes (F90 through F94) that all signal different timeout or failure conditions in the latch assembly.
 
 This code does not mean the door is physically ajar. It means the electronic lock cannot complete its cycle. The control board sends power to the door lock motor to move the metal latch into the locked position, and a microswitch signals back to confirm the lock is engaged. If the board never receives that confirmation signal within the timeout window, it throws F92 and halts the oven cycle for safety.
@@ -30,8 +29,6 @@ This code does not mean the door is physically ajar. It means the electronic loc
 ## Before You Replace Anything
 
 Many homeowners replace the main control board first, assuming an electronics fault. Always test the door lock motor resistance with a multimeter and inspect the latch for physical jams before swapping the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

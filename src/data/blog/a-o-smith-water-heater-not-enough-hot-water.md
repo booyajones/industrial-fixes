@@ -19,8 +19,6 @@ A.O. Smith uses "not enough hot water" to describe tank-style water heaters that
 
 The heater itself may be working but recovering too slowly, or the problem may be undersizing, sediment buildup, a failed heating element or thermostat on electric models, or burner issues on gas units. A.O. Smith also points out that faulty shower controls or thermostatic mixing valves can create the same symptom even when the heater is fine.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed lower heating element (electric)** The lower element heats the bulk of the tank, so when it fails you get a small amount of hot water followed by lukewarm output and slow recovery.
@@ -56,7 +54,7 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [A O Smith Water Heater E2 error code](/posts/a-o-smith-water-heater-e2-error-code/)
 - [A O Smith Water Heater E4 error code](/posts/a-o-smith-water-heater-e4-error-code/)
-- [A O Smith Water Heater E6 error code](/posts/a-o-smith-water-heater-e6-error-code/)
+- A O Smith Water Heater E6 error code
 
 ## When to Call a Pro
 

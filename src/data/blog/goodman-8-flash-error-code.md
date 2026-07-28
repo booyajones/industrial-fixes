@@ -13,11 +13,8 @@ money_part: "Hot surface ignitor"
 most_likely_cause: "Failed hot surface ignitor (HSI)"
 ---
 
-## Goodman 8 Flash Error Code — What It Means
-
+## What this code means
 Eight flashes on a Goodman furnace diagnostic LED indicates an ignition failure lockout. The control board attempted to light the burners (up to three tries, depending on model) and the flame sensor never confirmed a stable flame. After exhausting its retry attempts, the board locks out and flashes code 8 until the fault is manually cleared. This code covers both hot surface ignitor failures and situations where gas never reaches the burner.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Eight flashes on a Goodman furnace diagnostic LED indicates an ignition failure 
 ## When to Call a Pro
 
 If gas supply is confirmed but the valve is not opening and you are not familiar with 24VAC control circuits, have a licensed HVAC technician diagnose the gas valve and control board. Do not bypass safety controls to force ignition.
-
-## Related Articles
-
-- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
-- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
-- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
-- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
-- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)
-
-## See Also
-
-- [Goodman GMS80 Furnace Error Codes — Fault Code Diagnostic Guide](/posts/goodman-gms80-error-codes/)
-- [Amana / Goodman Furnace 3 Flash Error Code — Causes & Fix](/posts/goodman-amana-furnace-3-flash/)
-- [Goodman EE2 Error Code: Control Board Communication Fault Fix](/posts/goodman-ee2-error-code/)
-- [Goodman Furnace E1 Error Code — Causes & Fix](/posts/goodman-furnace-e1-error-code/)

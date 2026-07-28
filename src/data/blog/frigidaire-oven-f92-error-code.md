@@ -22,8 +22,7 @@ part_price: "$40–90"
 no_buy_pct: "40%"
 ---
 
-## Frigidaire Oven F92 Error Code — What It Means
-
+## What this code means
 Frigidaire groups F92 within the F90–F94 family of door lock-related faults. The control board has detected a problem with the door lock or door-latch system. One repair-field interpretation of F92 is that the oven door is detected as staying open longer than allowed while the unit is running, pointing to a door-position or door-switch detection problem. Frigidaire's own support pages do not break out a unique public definition for F92 beyond the door-lock family.
 
 In practice, the code can appear if the lock mechanism is binding, a door-switch is faulty, wiring between the lock and control is loose, or the electronic oven control is not reading the lock state correctly. Many false lock codes clear with a simple reset, so always try that first before replacing parts.
@@ -31,8 +30,6 @@ In practice, the code can appear if the lock mechanism is binding, a door-switch
 ## Before You Replace Anything
 
 Homeowners often replace the electronic oven control board first. Test the door-lock switch and inspect all wiring to the lock assembly before replacing the control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

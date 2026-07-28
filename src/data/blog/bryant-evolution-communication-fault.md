@@ -14,8 +14,6 @@ tags:
 
 The Bryant Evolution system uses a proprietary communication network called the **Evolution Connex** (or Legacy Connex) system bus. Every component — the thermostat, furnace control board, air handler, and outdoor unit — communicates over this bus using a dedicated 24V communication wire. When one component can't talk to another, you get a communication fault displayed on the Evolution thermostat.
 
-[Jump to Fix](#how-to-fix-bryant-evolution-communication-fault)
-
 ## What Does Bryant Evolution Communication Fault Mean?
 
 A communication fault on the Bryant Evolution system means one or more system components are not successfully communicating over the system bus. The Evolution thermostat will display messages like:

@@ -60,18 +60,3 @@ Check compressor winding resistance (typically 0.5–2 ╬⌐ per phase). Check 
 | High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-daikin-vrv-rxq-error-codes&tag=errorcodefixes-20) \| Match refrigerant type |
 | Communication cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-vrv-rxq-error-codes&k=Communication+cable&tag=errorcodefixes-20) \| F1/F2 — shielded type required |
 > **Pro tip:** Daikin VRV systems allow fault code retrieval via the intelligent touch controller without visiting the outdoor unit. Press the Mode/Fan button combination to enter service mode and retrieve all connected unit faults.
-
-## Related Articles
-
-- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
-- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
-- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
-- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
-- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)
-
-## See Also
-
-- [Daikin U4 Error Code — Causes & Fix](/posts/daikin-u4-error-code/)
-- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)
-- [Daikin Mini Split Error Codes — Complete Reference](/posts/daikin-mini-split-error-codes/)
-- [Daikin C4 Error Code — Indoor Heat Exchanger Thermistor Fix](/posts/daikin-error-code-c4/)

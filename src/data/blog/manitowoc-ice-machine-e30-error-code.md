@@ -18,8 +18,7 @@ free_checks:
   - "Inspect the USB port for physical damage, debris, or corrosion that would prevent a clean connection"
 ---
 
-## Manitowoc E30 Error Code — What It Means
-
+## What this code means
 The E30 code on Manitowoc ice machines using the E-code fault system indicates a USB download fault. This is a control and programming issue, not a refrigeration or mechanical problem. The code appears when the machine's control board fails to accept or complete a software or parameter download through the USB service port.
 
 Unlike refrigeration faults that affect ice production (long freeze, harvest problems), E30 points to the control system itself. The fault typically shows up during or immediately after a technician attempts to update firmware, load new parameters, or service the controller through the USB interface. The control board, USB port hardware, or the download process has failed.
@@ -27,8 +26,6 @@ Unlike refrigeration faults that affect ice production (long freeze, harvest pro
 ## Before You Replace Anything
 
 Technicians sometimes replace the user interface display when E30 appears, but the fault lives in the main control board or USB interface path. Always verify the USB media, cable, and download procedure with known-good equipment before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 E30 is a control and programming fault that requires diagnostic equipment, manufacturer-approved software files, and familiarity with Manitowoc's service download procedures. A qualified ice-machine technician has access to the correct firmware versions, USB service tools, and replacement control boards matched to your specific model. Attempting firmware updates without the right file or procedure can brick the controller or void your warranty. If the fault does not clear after a simple power-cycle and visual inspection of the USB port, call a certified Manitowoc service provider to diagnose the control board, re-flash the software, or replace failed components in the USB interface path.
 
 **Rough cost:** A pro service call runs about $300-600.
-
-## See Also
-
-- [Manitowoc E03 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e03-error-code/)
-- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
-- [Manitowoc E15 Error Code — High-Side Pressure Switch Open Fix](/posts/manitowoc-e15-error-code/)
-- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)

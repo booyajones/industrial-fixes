@@ -17,8 +17,7 @@ money_part: "Whirlpool oven temperature sensor"
 part_price: "$20-50"
 ---
 
-## Whirlpool Oven F3 E1 Error Code — What It Means
-
+## What this code means
 The F3 E1 error code on a Whirlpool oven or range indicates the electronic control has detected a problem with the oven temperature sensor, its wiring, or the control board itself. The sensor is a probe mounted inside the oven cavity that monitors baking temperature. When the sensor resistance drifts out of range, the probe fails open or shorted, or the wiring connection is interrupted, the control can no longer regulate heat safely and throws this fault.
 
 Whirlpool's product help directs you to reset power at the breaker and, if the code returns, investigate the sensor, wiring harness, and control board in that order. The error prevents normal baking operation until the fault is resolved.
@@ -26,8 +25,6 @@ Whirlpool's product help directs you to reset power at the breaker and, if the c
 ## Before You Replace Anything
 
 Many people replace the control board when the real culprit is a bad sensor or corroded connector. Always measure sensor resistance (should read about 1100 ohms at room temperature) and inspect the wiring before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

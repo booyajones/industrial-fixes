@@ -19,8 +19,6 @@ When your Maytag dishwasher won't drain, water pools at the bottom of the tub af
 
 This happens because something is blocking the water flow or the drain pump itself has failed. The control expects the pump to evacuate water quickly, and when it detects no progress, it shuts down and throws the error. Most of the time, the fix involves clearing a physical obstruction rather than replacing electrical parts.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged drain hose or air gap** Food debris, kinks in the hose, or buildup in the air gap cylinder near the sink account for about half of all no-drain complaints.
@@ -57,12 +55,12 @@ If your appliance also shows a code on the display, these match this problem:
 - [Maytag Dishwasher E15 error code](/posts/maytag-dishwasher-e15-error-code/)
 - [Maytag Dishwasher E3 error code](/posts/maytag-dishwasher-e3-error-code/)
 - [Maytag Dishwasher E4 error code](/posts/maytag-dishwasher-e4-error-code/)
-- [Maytag Dishwasher E6 error code](/posts/maytag-dishwasher-e6-error-code/)
-- [Maytag Dishwasher E7 error code](/posts/maytag-dishwasher-e7-error-code/)
+- Maytag Dishwasher E6 error code
+- Maytag Dishwasher E7 error code
 - [Maytag Dishwasher F10E5 error code](/posts/maytag-dishwasher-f10e5-error-code/)
 - [Maytag Dishwasher F1E1 error code](/posts/maytag-dishwasher-f1e1-error-code/)
 - [Maytag Dishwasher F2E2 error code](/posts/maytag-dishwasher-f2e2-error-code/)
-- [Maytag Dishwasher F3E2 error code](/posts/maytag-dishwasher-f3e2-error-code/)
+- Maytag Dishwasher F3E2 error code
 - [Maytag Dishwasher F4E3 error code](/posts/maytag-dishwasher-f4e3-error-code/)
 - [Maytag Dishwasher F6E1 error code](/posts/maytag-dishwasher-f6e1-error-code/)
 

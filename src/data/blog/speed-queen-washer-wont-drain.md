@@ -19,8 +19,6 @@ When a Speed Queen washer won't drain, water remains in the tub at the end of th
 
 The "Er, SD" fault specifically means the machine has detected either too many suds or impaired draining. You will see longer cycle times, repeated drain attempts, weak water flow, or standing water in the drum. In all cases, the problem is that water cannot evacuate normally due to a physical blockage, pump failure, or external drain restriction.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Kinked, pinched, or crushed drain hose** The drain hose is bent sharply behind the washer or crushed by the machine against the wall, blocking water flow.
@@ -60,12 +58,12 @@ If your appliance also shows a code on the display, these match this problem:
 - [Speed Queen Washer Du error code](/posts/speed-queen-washer-du-error-code/)
 - [Speed Queen Washer E 05 error code](/posts/speed-queen-washer-e-05-error-code/)
 - [Speed Queen Washer E 07 error code](/posts/speed-queen-washer-e-07-error-code/)
-- [Speed Queen Washer E 08 error code](/posts/speed-queen-washer-e-08-error-code/)
+- Speed Queen Washer E 08 error code
 - [Speed Queen Washer E 0D error code](/posts/speed-queen-washer-e-0d-error-code/)
-- [Speed Queen Washer E1 error code](/posts/speed-queen-washer-e1-error-code/)
+- Speed Queen Washer E1 error code
 - [Speed Queen Washer E5 error code](/posts/speed-queen-washer-e5-error-code/)
 - [Speed Queen Washer E7 error code](/posts/speed-queen-washer-e7-error-code/)
-- [Speed Queen Washer Ec 09 error code](/posts/speed-queen-washer-ec-09-error-code/)
+- Speed Queen Washer Ec 09 error code
 
 ## When to Call a Pro
 

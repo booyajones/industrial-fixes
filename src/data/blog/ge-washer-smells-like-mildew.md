@@ -19,8 +19,6 @@ A GE washer that smells like mildew is not a fault code. It is an odor complaint
 
 There is no specific GE mildew-smell code. The odor pattern is typically caused by improper cleaning, too much or wrong detergent, leaving wet clothes in the washer, or a dirty dispenser drawer. The smell comes from biofilm, trapped lint, or stagnant water in the pump-filter area or hose that rots over time.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Detergent or fabric softener residue buildup** Excess soap or softener leaves a film in the tub, dispenser drawer, or housing that traps moisture and grows mildew.
@@ -54,9 +52,9 @@ There is no specific GE mildew-smell code. The odor pattern is typically caused 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Ge Washer C2 error code](/posts/ge-washer-c2-error-code/)
+- Ge Washer C2 error code
 - [Ge Washer C5 error code](/posts/ge-washer-c5-error-code/)
-- [Ge Washer E23 error code](/posts/ge-washer-e23-error-code/)
+- Ge Washer E23 error code
 
 ## When to Call a Pro
 

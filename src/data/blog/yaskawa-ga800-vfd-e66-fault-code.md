@@ -14,8 +14,7 @@ money_part: "GA800 control board"
 most_likely_cause: "Misread or misidentified display"
 ---
 
-## Yaskawa GA800 E66 Fault — What It Means
-
+## What this code means
 E66 does not appear as a standard fault code in the available Yaskawa GA800 manufacturer documentation. The GA800 uses a defined set of fault, alarm, and error codes, but E66 is not confirmed among them. This means the display may be showing a communication message, an option-card code, or a misread character. Yaskawa expects technicians to identify the exact fault or alarm code, the drive model and spec number, the serial number, and the application context before troubleshooting or calling support.
 
 Because the code is not documented in the standard fault tables, the correct approach is to verify what the keypad or display is actually showing, record the full drive nameplate information, and refer to the elementary diagram and wiring to understand what circuit or option might be involved. The GA800 maintenance and troubleshooting manual supports only fan and control board replacement as field-serviceable components, so further diagnosis and repair for unconfirmed codes require manufacturer support.
@@ -23,8 +22,6 @@ Because the code is not documented in the standard fault tables, the correct app
 ## Before You Replace Anything
 
 Do not replace the control board or power module without first confirming the exact code definition and checking for loose connections or wiring faults. Many drive faults are caused by external wiring issues that appear as internal errors.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified Yaskawa service technician or distributor immediately if the drive displays E66 or any other unrecognized code. The GA800 maintenance guide explicitly limits field-serviceable repairs to fan and control board replacement, and all other diagnosis and component-level repair require factory training and support. A technician will verify the exact code definition, check the elementary diagram and parameter settings, inspect the power module and internal connections, and coordinate with Yaskawa if the fault is not documented in standard literature. Do not attempt to clear or reset unconfirmed faults without understanding their cause, as this can lead to equipment damage or unsafe operation.
 
 **Rough cost:** A pro service call runs about $200-500.
-
-## See Also
-
-- [Yaskawa GA800 E51 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e51-fault-code/)
-- [Yaskawa U1000 Fault Codes: Complete Guide](/posts/yaskawa-u1000-fault-codes/)
-- [Yaskawa GA800 E05 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e05-fault-code/)
-- [Yaskawa Sigma-7 SGD7S Servo Drive Alarm Codes — Diagnosis & Fix](/posts/yaskawa-sigma7-sgd7s-alarm-codes/)

@@ -51,10 +51,3 @@ The board fails from power surges, moisture intrusion, overheating caused by hea
 ## When to Call a Pro
 
 If you are not comfortable working with 120 V or 240 V electrical connections, or if your diagnosis is uncertain (many board symptoms are actually caused by bad sensors, wiring faults, or heat exchanger overheating), call a licensed plumber or Navien-certified technician. Any work involving gas lines, burner assembly access, or advanced diagnostics with a multimeter should be performed by a professional. If the new board still throws the same error code, the root cause may be elsewhere in the system and professional diagnosis is required. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Navien E515 Error Code - Causes & Fix](/posts/navien-tankless-e515-error-code/)
-- [Navien E038 Error Code - Causes & Fix](/posts/navien-tankless-e038-error-code/)
-- [Navien Alarm 401 Error Code - Causes & Fix](/posts/navien-tankless-alarm-401-error-code/)
-- [Navien E010 Error Code - Causes & Fix](/posts/navien-tankless-e010-error-code/)

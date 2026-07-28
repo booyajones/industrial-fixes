@@ -18,8 +18,7 @@ free_checks:
   - "Listen during the wash cycle to hear whether the motor runs and water circulates normally"
 ---
 
-## KitchenAid Dishwasher F5E1 Error — What It Means
-
+## What this code means
 F5E1 is not documented as a standard fault code for KitchenAid dishwashers in published product literature. The F5 E1 code appears in KitchenAid's help for ranges and ovens, where it indicates a door-latch or door-switch problem, not a dishwasher fault. For dishwashers in the KitchenAid and Whirlpool family, the closest documented code is F7E1, which means wash motor failure. If your machine is truly a dishwasher and displays F5E1, the label is likely a misread, a different appliance code, or a service-sheet shorthand that requires model verification.
 
 Before diagnosing or replacing any component, confirm the exact model number and pull the matching technical sheet. The same code family can mean entirely different things across KitchenAid product lines. If the code is actually a dishwasher motor-failure fault, the common causes are failed wash motor, loose motor-circuit connections, or damaged wiring. If the code is related to sensing or door issues, technicians look for door-latch or door-switch faults and associated wiring problems. Always reset power to clear any temporary fault, then run a test cycle to see whether the code returns.
@@ -27,8 +26,6 @@ Before diagnosing or replacing any component, confirm the exact model number and
 ## Before You Replace Anything
 
 Many people replace the main control board first when they see an unfamiliar code. Verify the exact code on your model's tech sheet and inspect wiring and connectors at the motor and control before replacing any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

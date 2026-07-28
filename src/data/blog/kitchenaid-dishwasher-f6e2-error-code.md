@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## KitchenAid Dishwasher F6E2 Error Code — What It Means
-
+## What this code means
 KitchenAid does not publish a dishwasher-specific F6E2 fault code in its public help pages. The closest verified F6 E2 definition from KitchenAid and Whirlpool (the parent brand) appears on wall ovens and top-load washers, where it indicates a problem with the appliance manager control, converter control, user interface, or associated wiring. If your dishwasher display truly shows F6E2, the most defensible interpretation is a controller, UI, or communications-related fault rather than a drain or pump issue.
 
 Before proceeding, confirm the exact code from your display or diagnostic mode. KitchenAid and Whirlpool fault families are easy to misread, and F6E2 versus F8E2 (a verified dishwasher code for drain-pump electrical problems) point to very different circuits. Because no manufacturer dishwasher service page in available sources confirms F6E2, consult your model's wiring diagram or owner's manual for the factory definition before replacing parts.
@@ -26,8 +25,6 @@ Before proceeding, confirm the exact code from your display or diagnostic mode. 
 ## Before You Replace Anything
 
 Many owners replace the main control board without first checking connectors and performing a power reset. Inspect all harness pins at the control and user interface for corrosion or looseness before ordering boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

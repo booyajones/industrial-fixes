@@ -15,8 +15,7 @@ money_part: "GE refrigerator main control board"
 most_likely_cause: "Misread display"
 ---
 
-## GE Refrigerator CF Error Code — What It Means
-
+## What this code means
 GE does not list CF as an official refrigerator fault code in its published support materials. GE's documented codes include FF (frozen food thawing/temperature rising), PF (power interruption), CI (icemaker check), CC (temperature control incorrect), and DE/dE (defrost or demo mode). If your display shows CF, the most likely explanations are that the code is being misread (possibly CC, FF, or PF with a partially lit segment), that you have a model-specific code not covered in the general GE list, or that a non-GE code definition is being incorrectly applied to your unit.
 
 Because GE does not verify CF, you should first confirm your exact model number and consult the wiring diagram or service sheet that shipped with the unit. If the display is actually one of the nearby codes (CC for temperature control, FF for warming food, or PF for power loss), follow the appropriate troubleshooting for that code. If the display truly reads CF and persists after a power reset, contact GE service or a qualified technician with your model number in hand so they can reference the correct fault table.
@@ -24,8 +23,6 @@ Because GE does not verify CF, you should first confirm your exact model number 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when the display shows an unfamiliar code, but a simple power reset or cleaning blocked vents often clears temperature-related faults. Always verify the exact code against your model's documentation before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

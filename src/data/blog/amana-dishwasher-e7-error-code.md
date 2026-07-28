@@ -22,8 +22,7 @@ part_price: "$80-150 for a replacement control board"
 no_buy_pct: "60%"
 ---
 
-## Amana Dishwasher E7 Error Code — What It Means
-
+## What this code means
 Amana's published dishwasher support documentation defines E7 as a control error state that requires a power reset. The manufacturer does not tie E7 to a specific failed component in its public help materials. Instead, Amana instructs users to disconnect power for one minute, restore power, and verify whether the code clears. If E7 returns after the reset, it points to an intermittent control fault, a wiring connectivity issue, or a deeper electronic problem that the control board could not resolve on its own.
 
 Unverified third-party sources suggest E7 may involve wash pump or drain pump circuits, but those claims are not confirmed by Amana and conflict with one another. Without manufacturer documentation linking E7 to a single sensor or pump, the most grounded approach is to treat E7 as a generic control state that often clears with a power cycle and requires systematic inspection if it persists.
@@ -31,8 +30,6 @@ Unverified third-party sources suggest E7 may involve wash pump or drain pump ci
 ## Before You Replace Anything
 
 Homeowners sometimes replace the wash pump or drain pump based on third-party claims, but Amana's own guidance for E7 is a power reset. Check all wiring harness connections to the control board and inspect for loose plugs or corrosion before ordering any pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -178,10 +178,3 @@ You should call an HVAC contractor in these situations:
 - Clean baseboard fins with a vacuum brush attachment
 
 ---
-
-## Related Articles
-
-- [Furnace Age Guide: When to Repair and When to Replace](/posts/furnace-age-and-efficiency-replacement-guide/)
-- [Furnace Repair or Replace?](/posts/furnace-repair-or-replace/)
-- [R22 Refrigerant Phase-Out Guide](/posts/hvac-r22-refrigerant-phase-out-guide/)
-- [Furnace Blowing Cold Air?](/posts/furnace-blowing-cold-air/)

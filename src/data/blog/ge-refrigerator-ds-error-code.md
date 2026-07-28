@@ -17,8 +17,7 @@ money_part: "GE refrigerator door switch"
 part_price: "$10-30"
 ---
 
-## GE dS Error Code — What It Means
-
+## What this code means
 The dS code on a GE refrigerator stands for Door Switch Error. The control board is not reading the expected open or closed state from one of the cabinet door switches. In practical terms, the control thinks a door is open when it should be closed, or the switch circuit is reporting an incorrect signal. Because the switch affects interior lights and the control's door-open logic, a false door status can disrupt normal operation and trigger the fault.
 
 Third-party repair references document this interpretation. GE's own published error-code list does not show dS in its common refrigerator codes table, so always verify the model number and consult the wiring diagram or service manual for your specific platform before ordering parts.
@@ -26,8 +25,6 @@ Third-party repair references document this interpretation. GE's own published e
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when the real fault is a $10 door switch or simply a misaligned door. Test the switch manually and verify the door closes fully before ordering any boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

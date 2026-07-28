@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 VFD oL3 Fault — What It Means
-
+## What this code means
 The oL3 fault code on a Yaskawa A1000 variable frequency drive stands for Overtorque Detection 1. It trips when the drive detects that the output current has exceeded the value set in parameter L6-02 (Torque Detection Level 1) for longer than the time allowed in parameter L6-03. This is not a simple thermal overload but a torque-based limit that indicates the motor is being forced to produce more current than the configuration allows, usually because something is physically blocking the motor or load from turning, or the load suddenly spiked beyond what the drive expected.
 
 This fault is distinct from gradual thermal buildup (which would show as oL1). The drive sees that the motor is trying to push harder than it should for the job, and it shuts down to protect both the motor and the machinery. It can also appear if the torque limit is set too low for the application or if motor parameters were never properly configured during commissioning.
@@ -24,8 +23,6 @@ This fault is distinct from gradual thermal buildup (which would show as oL1). T
 ## Before You Replace Anything
 
 Technicians sometimes replace the drive itself when the real problem is a seized bearing, jammed conveyor, or misaligned coupling. Always disconnect and manually rotate both the motor shaft and the load before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified technician if you are not comfortable working with high-voltage industrial equipment or if you cannot safely lock out and isolate the drive. A pro should handle motor winding tests, drive parameter commissioning, and any repair that requires precise torque calculations or access to the drive's internal circuits. If the motor itself is damaged or the drive continues to trip after mechanical and parameter fixes, a professional with VFD diagnostic tools and motor test equipment is needed to avoid further damage or unsafe operation.
 
 **Rough cost:** A pro service call runs about $200-800 depending on whether it is parameter adjustment, motor bearing replacement, or mechanical repair.
-
-## See Also
-
-- [Yaskawa GA800 E52 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e52-fault-code/)
-- [Yaskawa GA800 A.139 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-139-fault-code/)
-- [Yaskawa VFD Fault PF — Causes & Fix](/posts/yaskawa-vfd-fault-pf/)
-- [Yaskawa A1000 UV Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-uv-fault-code/)

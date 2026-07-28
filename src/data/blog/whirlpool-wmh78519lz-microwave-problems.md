@@ -44,15 +44,15 @@ The Whirlpool WMH78519LZ is an over-the-range microwave that shares a control pl
 These codes apply to this model line:
 
 - [Whirlpool Microwave E03 error code](/posts/whirlpool-microwave-e03-error-code/)
-- [Whirlpool Microwave E11 error code](/posts/whirlpool-microwave-e11-error-code/)
-- [Whirlpool Microwave E12 error code](/posts/whirlpool-microwave-e12-error-code/)
+- Whirlpool Microwave E11 error code
+- Whirlpool Microwave E12 error code
 - [Whirlpool Microwave E13 error code](/posts/whirlpool-microwave-e13-error-code/)
 - [Whirlpool Microwave E21 error code](/posts/whirlpool-microwave-e21-error-code/)
 - [Whirlpool Microwave E22 error code](/posts/whirlpool-microwave-e22-error-code/)
 - [Whirlpool Microwave E23 error code](/posts/whirlpool-microwave-e23-error-code/)
 - [Whirlpool Microwave E24 error code](/posts/whirlpool-microwave-e24-error-code/)
-- [Whirlpool Microwave E61 error code](/posts/whirlpool-microwave-e61-error-code/)
-- [Whirlpool Microwave E62 error code](/posts/whirlpool-microwave-e62-error-code/)
+- Whirlpool Microwave E61 error code
+- Whirlpool Microwave E62 error code
 - [Whirlpool Microwave E63 error code](/posts/whirlpool-microwave-e63-error-code/)
 - [Whirlpool Microwave F01 error code](/posts/whirlpool-microwave-f01-error-code/)
 

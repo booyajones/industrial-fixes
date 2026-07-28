@@ -17,8 +17,6 @@ money_part: "Hot surface ignitor"
 
 The Rheem RGPS is a high-efficiency (96% AFUE) single-stage gas furnace in the Classic Plus series. It uses PVC venting and a condensate management system. Faults are communicated through a diagnostic LED on the control board — viewable through the sight glass on the lower access panel. Flash sequences identify specific fault conditions.
 
-[Jump to Fix](#fix)
-
 ## Rheem RGPS Flash Code Reference
 
 | Flash Code | Meaning |
@@ -68,18 +66,3 @@ The Rheem RGPS is a high-efficiency (96% AFUE) single-stage gas furnace in the C
 ## When to Call a Pro
 
 A cracked primary or secondary heat exchanger is a carbon monoxide risk. If the rollout switch trips, do not reset more than once without professional heat exchanger inspection. Also, any smell of gas near the furnace requires immediate shutdown, evacuation, and a call to your gas utility.
-
-## Related Articles
-
-- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
-- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
-- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)
-- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
-- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)
-
-## See Also
-
-- [Rheem RA14 Heat Pump Error Codes - What It Means and How to Fix It](/posts/rheem-ra14-heat-pump-error-codes/)
-- [Rheem Furnace 7 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-7-flashes/)
-- [Rheem EcoNet A101 Error Code — Causes & Fix](/posts/rheem-econet-a101-error-code/)
-- [Rheem Furnace 7 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-error-code-7-flashes/)

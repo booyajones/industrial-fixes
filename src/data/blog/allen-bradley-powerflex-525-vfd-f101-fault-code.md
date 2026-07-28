@@ -18,8 +18,7 @@ free_checks:
   - "Record all current parameter settings if the drive is still accessible before attempting reset"
 ---
 
-## Allen-Bradley PowerFlex 525 F101 — What It Means
-
+## What this code means
 F101 on a PowerFlex 525 drive indicates that the external non-volatile storage has failed. This is the memory section inside the drive that holds configuration and operational data outside of the main parameter storage. The drive control electronics cannot properly read or write to this storage area. Rockwell classifies F101 as a Type 2 fault, meaning it requires a factory reset to clear. This is different from F100, which signals a parameter checksum error in the main parameter storage. F101 points to a hardware or corruption problem in the drive's control module memory subsystem, not to any motor, wiring, or load issue.
 
 The fault typically appears during startup or after a power cycle when the drive attempts to access its external storage and finds it unresponsive or corrupted. If the fault shows up after a control module swap or service event, the most likely cause is a control module or drive memory mismatch. Because this fault is internal to the drive electronics, no amount of motor testing or output wiring checks will resolve it. The official corrective action is to perform a factory reset using parameter P053, then reload the drive parameters.
@@ -27,8 +26,6 @@ The fault typically appears during startup or after a power cycle when the drive
 ## Before You Replace Anything
 
 Technicians sometimes suspect the motor or wiring when they see a fault code, but F101 is strictly an internal drive electronics issue. A simple power cycle and factory reset via P053=2 will reveal whether the storage hardware has failed, avoiding unnecessary motor or cable replacement.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial controls technician or authorized Rockwell integrator for F101 faults. The fault involves internal drive electronics and requires proper parameter backup, factory reset procedures, and potentially control module or drive replacement. A technician will have the correct programming tools, firmware files, and replacement modules to restore the drive safely. If the drive is part of a networked system or process-critical application, professional service ensures parameter integrity, proper commissioning, and minimal downtime. Do not attempt to swap control modules or drive assemblies without training, because mismatched firmware or improper installation can damage connected equipment or create safety hazards.
 
 **Rough cost:** A pro service call runs about $500-1500.
-
-## See Also
-
-- [Allen-Bradley PowerFlex F122 Fault — I/O Board Failure Fix](/posts/allen-bradley-powerflex-f122-fault/)
-- [Allen-Bradley PowerFlex 70 Fault Codes: Complete Guide](/posts/allen-bradley-powerflex-70-faults/)
-- [Allen-Bradley PowerFlex F005 Fault — Overvoltage Fix](/posts/allen-bradley-powerflex-f005-fault/)
-- [Allen-Bradley PowerFlex F063 Fault — Phase Short Fix](/posts/allen-bradley-powerflex-f063-fault/)

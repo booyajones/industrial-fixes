@@ -13,13 +13,10 @@ money_part: "Motor thermistor or PTC temperature sensor"
 most_likely_cause: "Misread or misidentified display code"
 ---
 
-## Yaskawa GA800 E21 Fault Code — What It Means
-
+## What this code means
 E21 does not appear in Yaskawa's documented GA800 fault or alarm tables. The code you see on the keypad display may be misread or may actually be a different alarm such as oH3 (motor overheat from PTC input) or another fault. The GA800 uses specific alphanumeric codes for faults and alarms, and E21 is not among them according to available technical documentation. Before attempting any repair, confirm the exact characters shown on the drive's display and whether it is labeled as a fault or alarm.
 
 If the actual code is oH3 or another motor-temperature alarm, the cause is typically a defective thermistor wiring circuit or incorrect wiring to the motor temperature detection input. For any unconfirmed code, record the drive's model number, specification number, serial number, and the exact displayed code, then consult the GA800 technical manual or contact Yaskawa support to identify the true fault and its meaning.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ If the actual code is oH3 or another motor-temperature alarm, the cause is typic
 ## When to Call a Pro
 
 Call a qualified drives technician or contact Yaskawa support if you cannot confirm the exact fault code from the technical manual, if the code persists after correcting external wiring, or if you are not trained to work safely on live industrial motor drives. The GA800 maintenance documentation limits deep field repair to fan and control board replacement, so internal component-level troubleshooting or board-level diagnostics require factory support or an authorized Yaskawa service center. Do not attempt repairs on energized high-voltage equipment without proper lockout and electrical safety training.
-
-## See Also
-
-- [Yaskawa GA800 E25 Fault - Causes & Fix](/posts/yaskawa-ga800-e25-fault-code/)
-- [Yaskawa GA800 F001 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f001-fault-code/)
-- [Yaskawa GA800 E88 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e88-fault-code/)
-- [Yaskawa GA800 E91 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e91-fault-code/)

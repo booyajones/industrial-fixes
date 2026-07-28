@@ -19,8 +19,6 @@ When your Samsung microwave buttons stop responding, the control panel is not re
 
 In practice, the microwave may not respond to any keys, only some keys work, or it acts as if a button is constantly pressed. A door interlock switch issue can also present as buttons not working because the unit will not allow operation if it detects an unsafe door state. The panel surface may have moisture, steam, grease, or residue that blocks the capacitive sensors, or internal connectors between the keypad and control board may be loose or damaged.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Control Lock enabled** Control Lock mode is active and blocks most or all button inputs until you unlock it per the model's instructions.
@@ -53,18 +51,18 @@ In practice, the microwave may not respond to any keys, only some keys work, or 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Samsung Microwave C 10 error code](/posts/samsung-microwave-c-10-error-code/)
-- [Samsung Microwave C 11 error code](/posts/samsung-microwave-c-11-error-code/)
-- [Samsung Microwave C 12 error code](/posts/samsung-microwave-c-12-error-code/)
-- [Samsung Microwave C 20 error code](/posts/samsung-microwave-c-20-error-code/)
-- [Samsung Microwave C 21 error code](/posts/samsung-microwave-c-21-error-code/)
-- [Samsung Microwave C 22 error code](/posts/samsung-microwave-c-22-error-code/)
-- [Samsung Microwave C 70 error code](/posts/samsung-microwave-c-70-error-code/)
-- [Samsung Microwave C 71 error code](/posts/samsung-microwave-c-71-error-code/)
-- [Samsung Microwave C 72 error code](/posts/samsung-microwave-c-72-error-code/)
-- [Samsung Microwave C A0 error code](/posts/samsung-microwave-c-a0-error-code/)
+- Samsung Microwave C 10 error code
+- Samsung Microwave C 11 error code
+- Samsung Microwave C 12 error code
+- Samsung Microwave C 20 error code
+- Samsung Microwave C 21 error code
+- Samsung Microwave C 22 error code
+- Samsung Microwave C 70 error code
+- Samsung Microwave C 71 error code
+- Samsung Microwave C 72 error code
+- Samsung Microwave C A0 error code
 - [Samsung Microwave C A1 error code](/posts/samsung-microwave-c-a1-error-code/)
-- [Samsung Microwave C A2 error code](/posts/samsung-microwave-c-a2-error-code/)
+- Samsung Microwave C A2 error code
 
 ## When to Call a Pro
 

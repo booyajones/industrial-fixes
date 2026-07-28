@@ -17,8 +17,7 @@ free_checks:
   - "Look for tripped circuit breakers or blown fuses at the service panel and boiler disconnect"
 ---
 
-## Weil-McLain A45 Error Code — What It Means
-
+## What this code means
 An A45 error code on a Weil-McLain boiler does not have a single verified meaning across all models. Weil-McLain uses different fault code formats and numbering systems depending on the boiler family (Ultra, AquaBalance, CGa, GV90+, and others). The code may have been misread from the display, or it may be specific to your exact model and control board revision. Without the model number and manual, it is not safe to assume what component or condition A45 represents.
 
 The correct first step is to locate your boiler's model and serial number on the rating plate, then consult the installation and service manual for that model. Weil-McLain directs technicians to enter the diagnostics or fault-history menu on the control to read both active and stored faults, then follow the model-specific troubleshooting tree. Common fault categories across Weil-McLain boilers include sensor problems, ignition or airflow issues, pressure or condensate faults, and wiring or grounding concerns, but the exact cause for A45 depends entirely on your unit.
@@ -26,8 +25,6 @@ The correct first step is to locate your boiler's model and serial number on the
 ## Before You Replace Anything
 
 Do not replace the control board or ignition module until you have verified sensor readings, field wiring continuity, and grounding with a multimeter. Many boiler faults are caused by loose connections or out-of-range sensor values, not failed electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician as soon as you see an unfamiliar fault code. Gas-fired boilers require combustion testing, proper venting, and code-compliant electrical work. A technician will have the correct manual, diagnostic tools, and meter to read sensor values, check gas pressure, and verify safe operation. Attempting to reset or bypass safety controls without understanding the fault can create carbon-monoxide hazards or damage the heat exchanger. If you cannot find your model's manual or the fault persists after a power cycle, professional diagnosis is the safest and fastest route to a reliable repair.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain Boiler A149 Error - Causes & Fix](/posts/weil-mclain-boiler-a149-error-code/)
-- [Weil-McLain Code 3 — Low Water Cutoff Fix](/posts/weil-mclain-error-code-3/)
-- [Weil-McLain A01 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a101-error-code/)
-- [Weil-McLain A179 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a179-error-code/)

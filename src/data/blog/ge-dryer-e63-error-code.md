@@ -21,8 +21,7 @@ money_part: "GE dryer heating element"
 most_likely_cause: "Model-specific code or display glitch"
 ---
 
-## GE Dryer E63 Error Code — What It Means
-
+## What this code means
 E63 does not appear in published GE dryer service documentation as a standard fault code. The code may be model-specific or may indicate a display error. Other brands (Bosch, Siemens, Frigidaire) use E63 for heating element failures, grounded heater circuits, or communication faults between the control board and power electronics, but these definitions cannot be assumed for GE dryers without confirmation from your model's technical service sheet.
 
 If your GE dryer displays E63, first verify the exact model number and consult the wiring diagram and fault-code table located inside the console or on the cabinet. Power-cycle the machine to rule out a transient glitch. If the code persists, inspect the heating circuit and control board connections, because those are the most common fault paths in dryers displaying similar error patterns on other brands.
@@ -30,8 +29,6 @@ If your GE dryer displays E63, first verify the exact model number and consult t
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board when the real problem is a grounded or open heating element. Test the heater for continuity and insulation-to-ground with a multimeter before ordering any control parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

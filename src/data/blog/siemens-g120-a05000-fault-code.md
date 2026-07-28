@@ -13,13 +13,10 @@ money_part: "Cooling fan assembly"
 most_likely_cause: "Blocked airflow or dirty heatsink"
 ---
 
-## Siemens G120 A05000 — What It Means
-
+## What this code means
 A05000 on a Siemens SINAMICS G120 is an alarm indicating that the inverter's heatsink has reached the overtemperature threshold. It is a warning stage, not yet a fault. Siemens describes it as 'Power unit: Heatsink overtemperature' and the drive's response is configurable through parameter p0290. If the heatsink temperature rises another 5 K above this alarm point, the drive will escalate to fault F30004 and shut down to protect itself.
 
 This alarm tells you the power unit is running too hot and the cooling system is not keeping up. The drive is still operational at this stage, but continuing to run without addressing the root cause can lead to a fault trip or damage to the inverter. The most common reasons are environmental (high ambient temperature, poor cabinet ventilation, blocked airflow) or operational (overload, excessive duty cycle, or non-standard pulse frequency settings).
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ This alarm tells you the power unit is running too hot and the cooling system is
 ## When to Call a Pro
 
 Call a qualified drive technician or Siemens service if the A05000 alarm persists after you have cleaned the heatsink, verified the fan, improved ventilation, and confirmed the load is within rating. Repeated overtemperature alarms or escalation to fault F30004 can indicate internal power module degradation, a failing thermal sensor, or a cooling system design problem that requires diagnostic tools and factory training to resolve safely. Also reach out for support if you are uncomfortable working inside energized VFD cabinets, because line voltage and DC bus capacitors present serious shock hazards even when the drive appears off.
-
-## See Also
-
-- [Siemens SENTRON 3WL/3VA Fault Codes — Troubleshooting Guide](/posts/siemens-sentron-fault-codes/)
-- [Siemens G120 F01034 - Causes & Fix](/posts/siemens-g120-f01034-fault-code/)
-- [Siemens G120 F01659 - Causes & Fix](/posts/siemens-g120-f01659-fault-code/)
-- [Siemens SINAMICS V20 F1 Fault — Causes & Fix](/posts/siemens-sinamics-v20-f1-fault/)

@@ -17,8 +17,7 @@ free_checks:
   - "Access the control's fault-history menu (procedure varies by model) to see if a stored lockout code is different from the displayed parameter."
 ---
 
-## Weil-McLain A85 Error Code — What It Means
-
+## What this code means
 Weil-McLain boiler controls use different code families depending on the model and control platform. The research confirms that A-85 on AquaBalance controls is a displayed domestic hot water temperature setpoint (adjustable 60–85°F), not an error code. No manufacturer documentation identifies A85 as a fault code on other Weil-McLain platforms.
 
 If your display shows A85 and the boiler is not firing or is in lockout, the correct first step is to identify your exact model number from the nameplate and retrieve the stored fault history from the control module using the procedure in your manual. Weil-McLain controls store fault codes differently by platform, so the meaning of any displayed code depends on which control you have.
@@ -26,8 +25,6 @@ If your display shows A85 and the boiler is not firing or is in lockout, the cor
 ## Before You Replace Anything
 
 Because A85 is not consistently documented as a fault across Weil-McLain models, do not replace parts based on guesswork. Use the control's diagnostic menu to retrieve the actual stored fault code and consult the model-specific manual before ordering any components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a pro immediately if you smell gas, if the boiler is in hard lockout and will not reset, or if the control's fault history points to gas-valve, ignition, or heat-exchanger issues. Weil-McLain boilers require model-specific diagnostics because controls vary by platform, and safe gas-appliance troubleshooting requires proper tools to measure gas pressure, verify ignition timing, and clear air from the heat exchanger. A qualified technician will retrieve the stored fault code, test gas supply pressure, inspect the heat exchanger and venting, and replace only the component that has actually failed.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Weil-McLain A153 - Causes & Fix](/posts/weil-mclain-boiler-a153-error-code/)
-- [Weil-McLain Boiler A178 Error - Causes & Fix](/posts/weil-mclain-boiler-a178-error-code/)
-- [Weil-McLain A16 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a16-error-code/)
-- [Weil-McLain A11 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a11-error-code/)

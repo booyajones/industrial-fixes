@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Dryer F1 E1 Error — What It Means
-
+## What this code means
 The F1 E1 code on an Amana dryer indicates a control or electronics fault. Amana's published guidance treats this as a control-system error that requires a full power-down reset as the first step. The manufacturer does not publish a detailed public definition of the code, but the reset-first response tells us the problem lies in the dryer's electronic control board, user interface, or the wiring that connects them rather than in a heating element or airflow component.
 
 This is not a maintenance code you can clear by cleaning a vent or replacing a fuse. The dryer's internal diagnostic system has detected a failure in the control circuit itself. Most often the control board or console assembly has failed, or a wiring connector has come loose or corroded.
@@ -26,8 +25,6 @@ This is not a maintenance code you can clear by cleaning a vent or replacing a f
 ## Before You Replace Anything
 
 Homeowners sometimes replace the thermal fuse or heating element first, but F1 E1 is a control-electronics code. Always perform the five-minute breaker reset and inspect control wiring before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

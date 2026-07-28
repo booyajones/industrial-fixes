@@ -17,15 +17,12 @@ money_part: "Samsung washer door interlock assembly"
 part_price: "$30-80"
 ---
 
-## Samsung Washer dE Error Code — What It Means
-
+## What this code means
 The dE, dE1, Ed, dC, DC, or DC1 code on a Samsung front-load washer is a door-related fault. The machine believes the door is open, not fully latched, or not being sensed as closed. Samsung's support documentation describes this as a door or door switch fault. On some models the main PCB door-sensing circuit can also trigger this code. The washer will not start a cycle until it receives a valid closed-door signal.
 
 ## Before You Replace Anything
 
 Homeowners often replace the main PCB thinking it is the door-sensing circuit, when the actual fault is a failed door interlock switch or debris in the gasket. Test the door switch for continuity and clean the gasket thoroughly before ordering a control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

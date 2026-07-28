@@ -13,11 +13,8 @@ money_part: "Danfoss FC 302 option card or module"
 most_likely_cause: "Option card not seated correctly"
 ---
 
-## Danfoss FC302 ALARM 35 — What It Means
-
+## What this code means
 ALARM 35 on a Danfoss VLT AutomationDrive FC 302 means an option fault. The drive has detected a problem with an installed option module or an option-related communication or power-up condition. Danfoss states this alarm is option-specific, meaning it points to a particular option card or module that did not initialize correctly, lost communication, or failed during startup. It does not indicate a general motor, power supply, or mains fault. The most common causes are poor option card seating, a power-up handshake failure between the control card and the option, or a communication fault between the option and its external network or device.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ ALARM 35 on a Danfoss VLT AutomationDrive FC 302 means an option fault. The driv
 ## When to Call a Pro
 
 Call a qualified VFD technician or Danfoss-certified service partner if you are not trained in safe high-voltage lockout, option module installation, or industrial drive diagnostics. A professional can perform Danfoss-specific isolation tests, verify firmware compatibility between the drive and the option, and safely handle control card replacement or advanced communication troubleshooting. Always call for support if the alarm persists after reseating and wiring checks, or if your application requires continuous uptime and you cannot afford trial-and-error part replacement.
-
-## See Also
-
-- [Danfoss FC302 ALARM 22 - Causes & Fix](/posts/danfoss-fc302-alarm-22-fault-code/)
-- [Danfoss FC302 ALARM 33 - Causes & Fix](/posts/danfoss-fc302-alarm-33-fault-code/)
-- [Danfoss VFD Fault UL — Causes & Fix](/posts/danfoss-vfd-fault-ul/)
-- [Danfoss AKC Controller Fault Codes - Complete Guide](/posts/danfoss-akc-controller-fault/)

@@ -19,8 +19,6 @@ Standing water at the end of a cycle means your Kenmore dishwasher did not compl
 
 This is not a special fault code. It is a physical drain restriction, pump fault, or installation problem. Most field repairs involve clearing debris from the filter and sump, fixing a kinked or clogged drain hose, or correcting a garbage disposal connection issue. If the dishwasher drains during part of the cycle but leaves water only at the end, that points to a partial restriction or weak pump rather than a fill or control-board fault.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty or blocked filter and sump** Food debris, grease, broken glass, and labels collect in the filter basket and sump area, preventing water from reaching the drain pump.
@@ -56,14 +54,14 @@ This is not a special fault code. It is a physical drain restriction, pump fault
 If your appliance also shows a code on the display, these match this problem:
 
 - [Kenmore Dishwasher E04 error code](/posts/kenmore-dishwasher-e04-error-code/)
-- [Kenmore Dishwasher E05 error code](/posts/kenmore-dishwasher-e05-error-code/)
-- [Kenmore Dishwasher E06 error code](/posts/kenmore-dishwasher-e06-error-code/)
+- Kenmore Dishwasher E05 error code
+- Kenmore Dishwasher E06 error code
 - [Kenmore Dishwasher E07 error code](/posts/kenmore-dishwasher-e07-error-code/)
 - [Kenmore Dishwasher E08 error code](/posts/kenmore-dishwasher-e08-error-code/)
 - [Kenmore Dishwasher E09 error code](/posts/kenmore-dishwasher-e09-error-code/)
 - [Kenmore Dishwasher E10 error code](/posts/kenmore-dishwasher-e10-error-code/)
 - [Kenmore Dishwasher E11 error code](/posts/kenmore-dishwasher-e11-error-code/)
-- [Kenmore Dishwasher E12 error code](/posts/kenmore-dishwasher-e12-error-code/)
+- Kenmore Dishwasher E12 error code
 - [Kenmore Dishwasher E13 error code](/posts/kenmore-dishwasher-e13-error-code/)
 - [Kenmore Dishwasher E14 error code](/posts/kenmore-dishwasher-e14-error-code/)
 - [Kenmore Dishwasher F1E1 error code](/posts/kenmore-dishwasher-f1e1-error-code/)

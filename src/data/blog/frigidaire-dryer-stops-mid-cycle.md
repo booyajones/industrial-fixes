@@ -19,8 +19,6 @@ A Frigidaire dryer that stops mid-cycle is usually not showing a single fault co
 
 In Frigidaire dryers, mid-cycle stops are most often tied to sensor-dry faults, vent blockage and overheat protection, thermistor issues, or control board faults. Some units will show blinking cycle-status lights or other error indications, while others simply stop with no visible code. Because Frigidaire has multiple dryer families, the meaning depends on whether the unit pauses only in Sensor Dry mode, on all cycles, or after heating.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Restricted exhaust airflow or lint buildup** A clogged lint screen, blocked internal lint path, kinked vent hose, or crushed exterior vent causes high temperature and triggers the safety shutdown or overheat protection mid-cycle.
@@ -55,18 +53,18 @@ In Frigidaire dryers, mid-cycle stops are most often tied to sensor-dry faults, 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Frigidaire Dryer Al 01 error code](/posts/frigidaire-dryer-al-01-error-code/)
+- Frigidaire Dryer Al 01 error code
 - [Frigidaire Dryer Al 02 error code](/posts/frigidaire-dryer-al-02-error-code/)
-- [Frigidaire Dryer Al 03 error code](/posts/frigidaire-dryer-al-03-error-code/)
+- Frigidaire Dryer Al 03 error code
 - [Frigidaire Dryer Al 04 error code](/posts/frigidaire-dryer-al-04-error-code/)
-- [Frigidaire Dryer Al 05 error code](/posts/frigidaire-dryer-al-05-error-code/)
-- [Frigidaire Dryer Al 06 error code](/posts/frigidaire-dryer-al-06-error-code/)
-- [Frigidaire Dryer Al 07 error code](/posts/frigidaire-dryer-al-07-error-code/)
-- [Frigidaire Dryer Al 08 error code](/posts/frigidaire-dryer-al-08-error-code/)
+- Frigidaire Dryer Al 05 error code
+- Frigidaire Dryer Al 06 error code
+- Frigidaire Dryer Al 07 error code
+- Frigidaire Dryer Al 08 error code
 - [Frigidaire Dryer Al 09 error code](/posts/frigidaire-dryer-al-09-error-code/)
-- [Frigidaire Dryer Al 10 error code](/posts/frigidaire-dryer-al-10-error-code/)
-- [Frigidaire Dryer Al 11 error code](/posts/frigidaire-dryer-al-11-error-code/)
-- [Frigidaire Dryer Al 12 error code](/posts/frigidaire-dryer-al-12-error-code/)
+- Frigidaire Dryer Al 10 error code
+- Frigidaire Dryer Al 11 error code
+- Frigidaire Dryer Al 12 error code
 
 ## When to Call a Pro
 

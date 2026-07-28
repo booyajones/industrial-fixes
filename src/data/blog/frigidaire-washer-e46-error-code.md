@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Frigidaire Washer E46 Error Code — What It Means
-
+## What this code means
 E46 on a Frigidaire washer indicates a problem with the controller or electronic control board. According to Frigidaire's published error-code documentation, this fault points to a failure in the main control circuit that manages the washer's cycles, motor commands, and sensor inputs. The code is distinct from E4, which signals an out-of-balance condition during spin on top-loading models. E46 is strictly an electronic control fault, not a mechanical or load-distribution issue.
 
 In some cases, E46 may appear alongside E47 (a door-lock open-circuit fault during spin), suggesting that control-board failures can also affect door-lock communication or related circuits. The manufacturer's remedy for persistent E46 faults is replacement of the control board after basic reset attempts have failed.
@@ -26,8 +25,6 @@ In some cases, E46 may appear alongside E47 (a door-lock open-circuit fault duri
 ## Before You Replace Anything
 
 Do not confuse E46 with E4. E4 is an imbalance error fixed by redistributing the load or checking suspension parts. E46 is a controller fault that almost always requires a new control board, not shocks or load adjustments.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

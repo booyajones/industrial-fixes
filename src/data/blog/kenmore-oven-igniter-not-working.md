@@ -20,8 +20,6 @@ When your Kenmore gas oven igniter is not working, the oven burner won't light e
 
 The most common symptom is a glowing igniter that never lights the burner, very long preheat times, or no glow at all. The igniter may glow orange or dim red but fail to reach the bright cherry-red heat needed to pull sufficient amperage and open the valve. Less often, a failed safety valve, burner debris, or wiring fault will prevent ignition even when the igniter itself is good.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Weak hot-surface igniter** The igniter glows but does not pull the 3.0 to 3.6 amps needed to open the oven safety valve, so gas never flows and the burner never lights.
@@ -54,18 +52,18 @@ The most common symptom is a glowing igniter that never lights the burner, very 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kenmore Oven F0 error code](/posts/kenmore-oven-f0-error-code/)
-- [Kenmore Oven F1 error code](/posts/kenmore-oven-f1-error-code/)
-- [Kenmore Oven F10 error code](/posts/kenmore-oven-f10-error-code/)
+- Kenmore Oven F0 error code
+- Kenmore Oven F1 error code
+- Kenmore Oven F10 error code
 - [Kenmore Oven F2 error code](/posts/kenmore-oven-f2-error-code/)
-- [Kenmore Oven F3 error code](/posts/kenmore-oven-f3-error-code/)
-- [Kenmore Oven F30 error code](/posts/kenmore-oven-f30-error-code/)
-- [Kenmore Oven F31 error code](/posts/kenmore-oven-f31-error-code/)
-- [Kenmore Oven F33 error code](/posts/kenmore-oven-f33-error-code/)
-- [Kenmore Oven F4 error code](/posts/kenmore-oven-f4-error-code/)
-- [Kenmore Oven F5 error code](/posts/kenmore-oven-f5-error-code/)
-- [Kenmore Oven F50 error code](/posts/kenmore-oven-f50-error-code/)
-- [Kenmore Oven F7 error code](/posts/kenmore-oven-f7-error-code/)
+- Kenmore Oven F3 error code
+- Kenmore Oven F30 error code
+- Kenmore Oven F31 error code
+- Kenmore Oven F33 error code
+- Kenmore Oven F4 error code
+- Kenmore Oven F5 error code
+- Kenmore Oven F50 error code
+- Kenmore Oven F7 error code
 
 ## When to Call a Pro
 

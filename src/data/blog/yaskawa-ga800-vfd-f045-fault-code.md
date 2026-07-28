@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "80%"
 ---
 
-## Yaskawa GA800 F045 Fault — What It Means
-
+## What this code means
 The fault code F045 is not documented in Yaskawa GA800 VFD manuals. Yaskawa GA800 drives use two-letter alphanumeric fault codes such as OV (overvoltage), LU (low voltage), SC (short circuit), OF (output fault), and F01. If your display shows what appears to be F045, you may be misreading the screen, looking at a different manufacturer's drive, or seeing an internal project file or trend log code rather than an actual drive fault.
 
 The most commonly reported GA800 fault that users sometimes mislabel is OV (overvoltage). This fault trips when the DC bus voltage exceeds the safe threshold (typically above 800 V DC for 480 V class drives) and is a protective shutdown to prevent damage to the power stage components. It is frequently triggered by speed-search functions, incorrect ramp or deceleration times, or braking misconfigurations.
@@ -29,8 +28,6 @@ The most commonly reported GA800 fault that users sometimes mislabel is OV (over
 ## Before You Replace Anything
 
 Technicians sometimes replace power boards or capacitors when the real issue is a parameter setting. Always check the modified parameter log and fault history in the drive menu before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

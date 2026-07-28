@@ -19,8 +19,6 @@ On Rheem tankless or continuous-flow units, not enough hot water typically means
 
 This is not a specific fault code. It is a performance complaint that can stem from low flow, inadequate recovery time, crossed plumbing, thermostat or sensor issues, mineral scale buildup, or a heating element or gas control problem depending on your model. Rheem notes that for continuous-flow units, flow restrictors and water-saving low-flow taps can prevent the heater from staying operational.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Excessive demand or high simultaneous use** Rheem notes that poor recovery time often reflects multiple fixtures running at once, which depletes the tank or exceeds the tankless unit's heating capacity.
@@ -56,15 +54,8 @@ This is not a specific fault code. It is a performance complaint that can stem f
 If your appliance also shows a code on the display, these match this problem:
 
 - [Rheem Water Heater A01 error code](/posts/rheem-water-heater-a01-error-code/)
-- [Rheem Water Heater Alarm 401 error code](/posts/rheem-water-heater-alarm-401-error-code/)
+- Rheem Water Heater Alarm 401 error code
 
 ## When to Call a Pro
 
 Call a qualified technician if you see active fault codes you cannot clear after power-cycling and basic maintenance, if you are unfamiliar with gas supply or electrical diagnostics, or if flushing and flow verification do not restore adequate hot water. Gas burner, igniter, and gas-valve work should always be performed by a licensed professional. Any sensor or control-board replacement on tankless models also benefits from professional calibration and system testing to avoid recurring faults. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rheem Furnace 3 Flashes - Causes & Fix](/posts/rheem-furnace-3-flashes-error-code/)
-- [Rheem Water Heater Blinking Light Codes — What Each Flash Means and How to Fix It](/posts/rheem-water-heater-blinking-light-codes/)
-- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)
-- [Rheem RA13 Air Conditioner Error Codes — Fault Code Diagnostic Guide](/posts/rheem-ra13-error-codes/)

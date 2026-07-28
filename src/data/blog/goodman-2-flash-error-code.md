@@ -13,11 +13,8 @@ money_part: "Hot surface igniter (Goodman B1401015S)"
 most_likely_cause: "Failed hot surface igniter"
 ---
 
-## Goodman 2 Flash Error Code — What It Means
-
+## What this code means
 Two flashes on a Goodman furnace LED means system lockout — the furnace control board has attempted ignition the maximum number of times (typically 3 retries) without success and has locked out to prevent unburned gas buildup. The board holds this fault until manually reset. This is a catch-all lockout: the root cause could be in any part of the ignition sequence — igniter, flame sensor, gas pressure, or pressure switch. The 2-flash code tells you the furnace gave up; the diagnostic work starts from there.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Two flashes on a Goodman furnace LED means system lockout — the furnace contro
 ## When to Call a Pro
 
 If the igniter tests good, flame sensor is clean, and draft system checks out, but lockout keeps returning, a combustion analysis and gas valve test requires a licensed tech with the right instruments.
-
-## See Also
-
-- [Goodman GSZC18 Heat Pump Error Codes — Fault Code Diagnostic Guide](/posts/goodman-gszc18-error-codes/)
-- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
-- [Goodman GMS96 Error Codes — Fault Code Guide](/posts/goodman-gms96-error-codes/)
-- [Goodman Furnace E2 Error Code — Flame Sense Fault (Digital Display Models)](/posts/goodman-furnace-e2-error-code/)
-
-## Related Articles
-
-- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
-- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
-- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
-- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)
-- [Goodman 6 Flash Error Code — Rollout Switch Open Fix](/posts/goodman-6-flash-error-code/)

@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Electrolux Dryer EA2 Error Code — What It Means
-
+## What this code means
 The EA2 error code indicates that the dryer's electronic control unit has detected incoming AC voltage exceeding 130 Vac. The control board is designed to operate safely within a standard voltage range (typically 90 Vac to 130 Vac). When voltage spikes above this threshold, the control board triggers EA2 to prevent damage to internal components such as the heating relay, user interface, or motor controller and to make sure user safety.
 
 This fault is rarely caused by a failure inside the dryer itself. The root causes are almost exclusively external or related to the power infrastructure feeding the appliance. The dryer is functioning correctly by reporting a problem with the incoming power supply.
@@ -25,8 +24,6 @@ This fault is rarely caused by a failure inside the dryer itself. The root cause
 ## Before You Replace Anything
 
 Many people replace the control board immediately without checking the outlet voltage first. A simple multimeter test at the outlet will show whether the power source is the real problem and save you an expensive board replacement.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

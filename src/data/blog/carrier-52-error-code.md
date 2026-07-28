@@ -13,11 +13,8 @@ money_part: "Blower run capacitor"
 most_likely_cause: "Restricted airflow"
 ---
 
-## Carrier 52 Error Code — What It Means
-
+## What this code means
 Carrier code 52 is a **soft lockout due to repeated high-limit trips**. The furnace tripped the high-limit switch multiple times within a short period, and the control board entered a soft lockout to protect the heat exchanger from thermal stress. Unlike a hard lockout, a soft lockout will auto-reset after a timed wait (typically 1 hour), but the root cause must be fixed or it will return. The LED shows 5 long flashes followed by 2 short.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Carrier code 52 is a **soft lockout due to repeated high-limit trips**. The furn
 ## When to Call a Pro
 
 If the blower runs strong, airflow is unrestricted, and the furnace still trips the limit repeatedly, suspect a cracked heat exchanger allowing combustion gases to recirculate. This is a carbon monoxide hazard — shut the unit off and call a licensed HVAC technician immediately.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier WeatherMaker RTU Error Code 23 — Fix](/posts/carrier-weathermaster-rtu-error-code-23/)
-- [Carrier Error Code 61 — Rollout Switch Lockout](/posts/carrier-61-error-code/)
-- [Carrier Furnace Error Codes — Complete Guide](/posts/carrier-furnace-error-codes/)
-- [Carrier Error Code 15 - Causes & Fix](/posts/carrier-error-code-15/)

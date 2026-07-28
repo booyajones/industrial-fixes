@@ -13,11 +13,8 @@ money_part: "Siemens G120 Control Unit (CU)"
 most_likely_cause: "Incompatible reference or scaling parameter change"
 ---
 
-## Siemens G120 F01034 — What It Means
-
+## What this code means
 F01034 on a Siemens SINAMICS G120 is a parameterization fault, not a hardware failure. The official fault text is 'Units changeover: Calculation parameter values after reference value change unsuccessful.' This means the drive tried to recalculate dependent parameters after you (or a fieldbus) changed a reference or scaling parameter, but the new values were incompatible or out of range, so the drive rejected the change and restored the previous value. The reaction is listed as NONE and acknowledgment is IMMEDIATELY, which tells you the drive treats this as a parameter-setting error rather than a trip requiring shutdown. Siemens internal notes mark this fault value as 'Only for internal Siemens troubleshooting,' meaning it is resolved by fixing parameter logic, not by replacing power components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ F01034 on a Siemens SINAMICS G120 is a parameterization fault, not a hardware fa
 ## When to Call a Pro
 
 Call a qualified drives technician or Siemens-certified service partner if you are not comfortable reading the fault buffer, interpreting parameter dependencies, or using STARTER software to diagnose the exact parameter conflict. Also call if the fault returns after you have corrected all parameters and completed a full power cycle, as this may indicate a Control Unit memory fault requiring replacement. If your system uses complex fieldbus communication (PROFINET, PROFIBUS, or USS) and the fault occurs during automated parameter writes, professional commissioning support is recommended to verify bus configuration and parameter logic.
-
-## See Also
-
-- [Siemens SINAMICS G120 F00001 Fault — Causes & Fix](/posts/siemens-sinamics-g120-fault-f00001/)
-- [Siemens Micromaster F0221 - Causes & Fix](/posts/siemens-micromaster-f0221-fault-code/)
-- [Siemens G120 A03520 - Causes & Fix](/posts/siemens-g120-a03520-fault-code/)
-- [Siemens SINAMICS G120 F30011 Fault — Phase Loss Fix](/posts/siemens-sinamics-f30011-fault/)

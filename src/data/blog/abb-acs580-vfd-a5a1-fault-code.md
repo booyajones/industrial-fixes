@@ -19,8 +19,7 @@ free_checks:
   - "Inspect the fan connector at the control board for loose or corroded pins"
 ---
 
-## ABB ACS580 A5A1 Fault — What It Means
-
+## What this code means
 The A5A1 fault on an ABB ACS580 drive means the internal control system cannot detect the expected feedback signal from one of the cooling fans while that fan should be running. The drive supplies power to the fan and monitors a return signal to confirm the fan is spinning. When that signal is absent, the drive throws A5A1 to protect itself from overheating.
 
 The auxiliary code displayed alongside A5A1 tells you which fan is affected. Code 0 indicates Main Fan 1 (the primary cooling fan). Other codes point to secondary or auxiliary fans if your unit has them. The fault does not mean the drive is too hot yet, but it cannot continue to run safely without cooling.
@@ -28,8 +27,6 @@ The auxiliary code displayed alongside A5A1 tells you which fan is affected. Cod
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board when the fan itself is simply jammed or has failed mechanically. Always verify the fan spins freely by hand and measure 24VDC at the fan terminals before ordering a new control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a qualified technician or ABB service partner if you are not trained to work on variable frequency drives. These units operate at high voltage and require lockout-tagout procedures. If you are unsure how to measure DC voltage safely or how to access the control compartment, do not attempt the repair yourself. Also call a pro if the fan and wiring check out but the control board appears to be at fault, since board-level diagnosis and replacement require specialized knowledge and calibration.
 
 **Rough cost:** A pro service call runs about $200-500 for fan replacement and labor, more if control board is involved.
-
-## See Also
-
-- [ABB ACS880 Fault 2310 - Overcurrent Diagnosis and Fix](/posts/abb-acs880-fault-2310/)
-- [ABB ACS580 A0 Fault Code - Causes & Fix](/posts/abb-acs580-vfd-a0-fault-code/)
-- [ABB ACS550 EFB 2 Fault - Causes & Fix](/posts/abb-acs550-vfd-efb2-fault-code/)
-- [ABB ACS550 EFB3 Fault - Causes & Fix](/posts/abb-acs550-efb3-fault-code/)

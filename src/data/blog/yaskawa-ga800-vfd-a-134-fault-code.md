@@ -14,8 +14,7 @@ most_likely_cause: "Option card not seated or incompatible"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa GA800 A.134 Fault — What It Means
-
+## What this code means
 The A.134 code displayed on a Yaskawa GA800 VFD does not appear in the standard alphanumeric fault lists published in GA800 manuals. Yaskawa GA800 documentation typically uses fault codes like oC, ov, or CPF06, so A.134 may be a custom alarm, a display artifact, or specific to a particular firmware revision or option card installed on your drive. The exact meaning must be verified from the alarm history menu on the keypad or from the specific manual revision for your installed hardware.
 
 Because the code is not manufacturer-verified in available documentation, troubleshooting follows the general Yaskawa pattern for unrecognized or option-related alarms: power down the drive, inspect and reseat all option cards and communication modules, check for loose connections on control terminals, then power back up. If the fault reappears, consult the detailed alarm table in your drive's installation manual or contact Yaskawa technical support with the full alarm text and your drive's firmware version.
@@ -23,8 +22,6 @@ Because the code is not manufacturer-verified in available documentation, troubl
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire VFD when the fault is actually a loose or incompatible option card. Before ordering a new drive, de-energize the unit and reseat every option card and communication module, then clear the fault history and power cycle.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or an authorized Yaskawa service center whenever A.134 persists after reseating option cards and power cycling, when you lack the GA800 manual revision that documents the code, or when the drive must remain in service and you cannot afford extended downtime for trial-and-error troubleshooting. Professional support is also required if the fault is accompanied by smoke, burning odors, or visible component damage on the control board. High-voltage DC bus work and control-board replacement should always be performed by trained personnel with proper lockout/tagout procedures and insulated tools.
 
 **Rough cost:** A pro service call runs about $200–600.
-
-## See Also
-
-- [Yaskawa GA800 E30 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e30-fault-code/)
-- [Yaskawa GA800 E77 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e77-fault-code/)
-- [Yaskawa GA800 A.111 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-111-fault-code/)
-- [Yaskawa GA800 E19 Fault - Causes & Fix](/posts/yaskawa-ga800-e19-fault-code/)

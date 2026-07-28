@@ -21,8 +21,7 @@ part_price: "$25-45"
 no_buy_pct: "65%"
 ---
 
-## State Water Heater E158 Error — What It Means
-
+## What this code means
 The E158 error code does not appear in State Water Heater (A.O. Smith brand) official service manuals or diagnostic databases. State tankless units typically use numeric codes (11, 12, 16) or A.O. Smith alphanumeric codes (E001 through E030). E158 may be a misread display, a code from a different brand (Noritz, Navien, Rheem, or Rinnai), or a custom diagnostic code for a specific State model not widely published.
 
 If your unit is showing an ignition-related failure or flame loss, the most common culprits in State/A.O. Smith tankless systems are air intake blockages, low gas flow or pressure, clogged inlet water filters, and scale buildup on the heat exchanger or flame rod sensor. Verify the exact code in your owner's manual or on the wiring diagram inside the service panel before starting diagnostics.
@@ -30,8 +29,6 @@ If your unit is showing an ignition-related failure or flame loss, the most comm
 ## Before You Replace Anything
 
 Homeowners often replace the flame rod sensor when the real problem is a clogged air intake screen or dirty inlet filter. Clean both filters first and power-cycle the unit before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

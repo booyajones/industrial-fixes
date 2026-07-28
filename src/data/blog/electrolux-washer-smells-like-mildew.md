@@ -19,8 +19,6 @@ An Electrolux washer that smells like mildew is not displaying a fault code. Thi
 
 Electrolux support materials for washer odors point to cleaning the seal, detergent drawer, drum, and drain filter rather than replacing electronic components. The smell comes from organic buildup in areas that stay damp between cycles, not from a failed sensor or control board.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Moisture trapped in the door gasket or door seal** Water and debris sit in the folds of the rubber seal after cycles, creating a breeding ground for mold and mildew if the door is kept closed or the seal is not wiped dry.

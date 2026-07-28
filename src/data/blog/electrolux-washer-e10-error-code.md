@@ -21,8 +21,7 @@ part_price: "$25–45"
 no_buy_pct: "70%"
 ---
 
-## Electrolux E10 Error Code — What It Means
-
+## What this code means
 E10 on an Electrolux washing machine means the washer is not filling with water properly within the allowed time. The control detects that either not enough water is entering the tub or the fill cycle is taking too long, so it stops and displays the fault.
 
 This code points to a water-supply or inlet problem. The machine expects a certain flow rate and volume, and when it does not see adequate fill pressure or level feedback in the programmed window, it throws E10. The underlying issue is almost always mechanical (blocked filters, closed taps, low pressure, kinked hoses) rather than an electronic failure.
@@ -30,8 +29,6 @@ This code points to a water-supply or inlet problem. The machine expects a certa
 ## Before You Replace Anything
 
 Many people replace the inlet valve or pressure sensor first. Before ordering parts, disconnect the inlet hose and run a 10-liter bucket test in one minute to confirm supply flow is actually adequate.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

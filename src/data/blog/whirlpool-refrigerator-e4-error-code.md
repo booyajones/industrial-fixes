@@ -17,8 +17,7 @@ money_part: "Whirlpool refrigerator defrost sensor (fresh-food compartment)"
 part_price: "$15-50"
 ---
 
-## Whirlpool Refrigerator E4 Error Code — What It Means
-
+## What this code means
 On Whirlpool refrigerators, the E4 error code (sometimes displayed as F4 or F3 E4) indicates a defrost-related sensor fault in the refrigerator compartment. The control board has detected a problem with the temperature or defrost sensor circuit in the fresh-food section, or it cannot read valid data from that sensor. This can prevent the refrigerator from running its defrost cycle correctly or maintaining accurate temperature control.
 
 Whirlpool's official support for this code is limited to a power reset and monitoring for recurrence. If the fault returns after a reset, the refrigerator likely has a failed sensor, damaged wiring, or a control-board communication issue. Because Whirlpool uses the same E4 code for entirely different faults on dishwashers and laundry appliances, always verify the code meaning in your refrigerator's service manual or wiring diagram before ordering parts.
@@ -26,8 +25,6 @@ Whirlpool's official support for this code is limited to a power reset and monit
 ## Before You Replace Anything
 
 Homeowners often replace the main control board when the actual problem is a $15 sensor or a loose connector. Always test the sensor with a multimeter and inspect the wiring harness before buying any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

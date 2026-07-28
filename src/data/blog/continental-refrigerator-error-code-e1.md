@@ -13,11 +13,8 @@ money_part: "NTC temperature sensor"
 most_likely_cause: "Failed NTC thermistor"
 ---
 
-## Continental Refrigerator Error Code E1 — What It Means
-
+## What this code means
 The E1 error on Continental commercial refrigerators (reach-ins, undercounters, and prep tables) indicates a temperature sensor fault — the cabinet air sensor or evaporator sensor is reading out of range or has failed. Continental's electronic controllers use NTC thermistors to monitor cabinet temperature; E1 appears when the sensor input shows open circuit, short circuit, or a reading outside the expected temperature range.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -43,11 +40,3 @@ The E1 error on Continental commercial refrigerators (reach-ins, undercounters, 
 ## When to Call a Pro
 
 If sensor and wiring both test good and E1 persists, the controller board needs replacement. Continental authorized service handles controller-level repairs.
-
-## Related Articles
-
-- [Beverage-Air Error Code E4, Causes, and Fixes](/posts/beverage-air-e4-error-code/)
-- [Beverage-Air MT27 Error Codes - What They Mean and How to Fix Them](/posts/beverage-air-mt27-error-codes/)
-- [Beverage-Air Refrigerator Error Code E1 — Causes & Fix](/posts/beverage-air-refrigerator-error-code-e1/)
-- [Beverage-Air Refrigerator Error Code E2 — Evaporator Sensor Causes & Fix](/posts/beverage-air-refrigerator-error-code-e2/)
-- [Bohn Refrigeration Error Code Guide — Causes & Fixes](/posts/bohn-refrigeration-error-codes/)

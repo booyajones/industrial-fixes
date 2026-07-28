@@ -13,13 +13,10 @@ money_part: "Replacement motor (appropriate HP/kW rating)"
 most_likely_cause: "Motor undersized for AMA range"
 ---
 
-## Danfoss FC302 Alarm 54 — What It Means
-
+## What this code means
 Alarm 54 on the Danfoss FC302 VFD displays as 'AMA motor too small.' This is an Automatic Motor Adaptation (AMA) specific fault, not a power stage or overload issue. The drive has determined that the connected motor's electrical characteristics fall below the minimum range the AMA tuning routine needs to run properly. The alarm typically appears during or immediately after you start the AMA procedure, not during normal operation.
 
 This fault does not indicate a failed drive component. Instead, it means either the motor is genuinely too small for the drive's AMA algorithm to measure accurately, or the motor nameplate data entered into the drive is incorrect or incomplete. Small fractional-horsepower motors and motors outside the drive's supported AMA range will trigger this alarm. The fix involves verifying and correcting motor data entry or selecting a motor that falls within the drive's usable range for automatic adaptation.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ This fault does not indicate a failed drive component. Instead, it means either 
 ## When to Call a Pro
 
 Call a qualified electrician or VFD technician if you are unfamiliar with motor nameplate data or drive parameter programming. A professional should also be consulted if correcting motor parameters and rerunning AMA does not clear the alarm, if you need help determining the correct motor size for your application, or if the drive displays additional alarms alongside Alarm 54. VFD commissioning and motor adaptation involve line voltage and require proper electrical safety procedures.
-
-## See Also
-
-- [Danfoss VFD Fault W30 — Brake Resistor Overtemperature Fix](/posts/danfoss-vfd-fault-w30/)
-- [Danfoss FC302 Alarm 31 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-31-fault-code/)
-- [Danfoss FC302 Alarm 21 - Causes & Fix](/posts/danfoss-fc302-alarm-21-fault-code/)
-- [Danfoss VFD Fault OCL — Causes & Fix](/posts/danfoss-vfd-fault-ocl/)

@@ -14,11 +14,8 @@ money_part: "Water inlet valve assembly"
 most_likely_cause: "Leaking inlet valve"
 ---
 
-## Speed Queen Washer LE Error Code — What It Means
-
+## What this code means
 The LE code on a Speed Queen washer indicates that the control has detected a water level drop during the programmed leak-check window. This means water is either leaking out of the tub, draining unintentionally, or the pressure sensing system is giving a false low-level signal. The code may appear briefly after you open the door at the end of a cycle and then clear on its own after about a minute, or when you press a key. It does not mean a lid switch fault. The washer ran its leak-detection logic and saw the water level fall more than the allowed amount, signaling a likely leak or unintended drain-down somewhere in the fill, hold, or drain path.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

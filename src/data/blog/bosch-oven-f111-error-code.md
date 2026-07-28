@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Bosch Oven F111 Error Code — What It Means
-
+## What this code means
 The F111 error code on a Bosch oven indicates an overtemperature fault. The control system has detected that the oven cavity has exceeded a safe temperature threshold, often reported as heating beyond 585°F. This typically occurs during self-clean cycles or when the heating element continues to run without proper regulation. The code is a safety shutoff to prevent damage or fire.
 
 Unlike sensor-open or communication faults, F111 signals that the oven has actually become too hot. The control board has measured dangerously high temperatures and shut down operation. This can result from a stuck heating relay that keeps the element energized, a failed cooling fan that allows heat to build up during self-clean, or a temperature sensor and regulation fault that prevents the system from controlling heat output properly.
@@ -25,8 +24,6 @@ Unlike sensor-open or communication faults, F111 signals that the oven has actua
 ## Before You Replace Anything
 
 Many people replace the temperature sensor first, but F111 is an actual overheat condition rather than a sensor reading error. Test whether the heating element shuts off properly and whether the cooling fan runs before ordering a sensor or control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -17,8 +17,7 @@ money_part: "Oven temperature sensor / thermistor"
 part_price: "$25-70"
 ---
 
-## Samsung Oven tE Error Code — What It Means
-
+## What this code means
 The tE code on a Samsung oven indicates a problem with the oven temperature sensor or its sensing circuit. Samsung's range and wall oven documentation describes temperature-related error codes as faults where the oven's thermistor or wiring is not reading correctly. The oven may stop heating or behave abnormally until the fault is cleared. Because Samsung does not publish a universal tE definition across all model families, the exact meaning can vary slightly by range or wall oven model, but the core issue remains the temperature sensing system.
 
 This is not a generic heater failure or door-lock code. The control board expects a specific resistance range from the oven temperature sensor, and when the reading falls outside that range (or shows an open or short circuit), the tE code appears. The appliance will often refuse to heat until the sensor circuit is repaired.
@@ -26,8 +25,6 @@ This is not a generic heater failure or door-lock code. The control board expect
 ## Before You Replace Anything
 
 Many people replace the main control board first, wasting hundreds of dollars. Always test the oven temperature sensor resistance at room temperature and inspect the harness connector before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

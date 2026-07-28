@@ -13,11 +13,8 @@ money_part: "Flame sensor rod"
 most_likely_cause: "Failed or contaminated flame sensor"
 ---
 
-## Hydrotherm Boiler Error Code E1 — What It Means
-
+## What this code means
 E1 on a Hydrotherm boiler indicates ignition failure. The boiler control attempted to light the burner and did not detect a stable flame within the allotted trial-for-ignition period. Hydrotherm condensing and standard atmospheric boilers use this code to signal that the ignition sequence completed without establishing combustion. The boiler locks out and will not retry until manually reset.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,11 +44,3 @@ E1 on a Hydrotherm boiler indicates ignition failure. The boiler control attempt
 ## When to Call a Pro
 
 Gas valve replacement and combustion air system diagnosis require a licensed technician. Repeated E1 faults without a clear cause should be investigated by a Hydrotherm-certified service technician to avoid gas accumulation hazards.
-
-## Related Articles
-
-- [Boiler Lockout Error Codes: All Brands Guide](/posts/boiler-lockout-error-codes/)
-- [Buderus Boiler Fault Code A1 — Causes & Fix](/posts/buderus-boiler-fault-code-a1/)
-- [Burnham Alpine Boiler Error Code Guide — Causes & Fix](/posts/burnham-alpine-error-codes/)
-- [Burnham Boiler E1 Lockout Code Fix](/posts/burnham-boiler-e1-lockout-code/)
-- [Burnham Boiler E2 Error Code — Causes & Fix](/posts/burnham-boiler-e2-error-code/)

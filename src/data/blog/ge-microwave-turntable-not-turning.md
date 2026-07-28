@@ -19,8 +19,6 @@ A GE microwave turntable that is not turning is a mechanical or control symptom,
 
 GE's own troubleshooting guidance points first to seating and alignment issues, food or debris under the ring, the turntable on/off setting, or whether a cook cycle (not just a timer) is actually running. Internal component failures can occur, but most turntable problems are solved without opening the cabinet.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Turntable mis-seated or upside down** GE specifically notes the plate can drag or fail to spin if installed upside down or not properly engaged with the drive shaft or roller ring.
@@ -57,7 +55,7 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Ge Microwave F1 error code](/posts/ge-microwave-f1-error-code/)
 - [Ge Microwave F10 error code](/posts/ge-microwave-f10-error-code/)
-- [Ge Microwave F2 error code](/posts/ge-microwave-f2-error-code/)
+- Ge Microwave F2 error code
 - [Ge Microwave F3 error code](/posts/ge-microwave-f3-error-code/)
 - [Ge Microwave F4 error code](/posts/ge-microwave-f4-error-code/)
 - [Ge Microwave F5 error code](/posts/ge-microwave-f5-error-code/)

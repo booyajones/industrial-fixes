@@ -13,11 +13,8 @@ money_part: "Circulator pump"
 most_likely_cause: "Inadequate system water flow"
 ---
 
-## Burnham Boiler E3 Error Code — What It Means
-
+## What this code means
 Burnham boiler error code E3 indicates a high-limit lockout. The high-temperature limit switch or the supply water temperature sensor detected that boiler water temperature exceeded the high-limit setpoint, and the control module has locked out the burner. On Burnham gas boilers (Alpine, ES2, IN series), the high limit is typically factory set at 210°F or 220°F and is adjustable down to a minimum operating setpoint. When the limit trips, the burner shuts off and will not restart until water temperature drops below the reset differential and, on manual-reset limits, a reset is performed. Repeated E3 trips indicate the boiler is consistently overheating during the heating cycle.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,11 +41,3 @@ Burnham boiler error code E3 indicates a high-limit lockout. The high-temperatur
 ## When to Call a Pro
 
 If the circulator is running, all valves are open, and the system still trips E3, there may be a hydraulic balancing issue, a failed heat exchanger, or significant scale buildup inside the boiler sections. A licensed boiler technician can perform a combustion test and flow measurement to identify the root cause.
-
-## Related Articles
-
-- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
-- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
-- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)

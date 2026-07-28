@@ -68,10 +68,3 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 If you're not comfortable disassembling the dryer cabinet or handling the drum and belt routing, call a technician. If the motor itself is hot, humming, or won't turn even after replacing the idler pulley and belt, the motor or motor pulley may be damaged and require professional diagnosis. Replacing drum support rollers at the same time is often recommended when the belt system has failed, and a tech can inspect the full drive path in one visit.
-
-## See Also
-
-- [LG Mini Split CH02 Error Code — Causes & Fix](/posts/lg-mini-split-ch02-error-code/)
-- [LG Refrigerator Error ER RF — Evap Fan Motor Fix](/posts/lg-refrigerator-error-er-rf/)
-- [LG Dishwasher Thermistor Replacement - Signs & How-To](/posts/lg-dishwasher-thermistor-temperature-sensor-replacement/)
-- [LG Refrigerator CF Error Code - Causes & Fix](/posts/lg-refrigerator-cf-error-code/)

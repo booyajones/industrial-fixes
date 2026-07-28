@@ -19,8 +19,6 @@ When your Bosch dishwasher is leaking, water is escaping from somewhere in the m
 
 This is not a failure of the leak detection system itself. It is the dishwasher reporting that a real leak has occurred somewhere in the water supply, circulation, drain, or door seal system. The water has reached the base pan, which sits below the main tub to catch drips and trigger the safety switch. Your job is to find where the water is coming from and fix that component.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Faulty water inlet valve leaking internally** The inlet valve can develop an internal leak or weep at the hose connections, dripping water into the base pan even when the machine is off or between fill cycles.

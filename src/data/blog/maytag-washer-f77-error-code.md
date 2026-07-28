@@ -21,8 +21,7 @@ part_price: "$40-70"
 no_buy_pct: "25%"
 ---
 
-## Maytag F7 E1 Error Code — What It Means
-
+## What this code means
 The F7 E1 code on a Maytag top-load washer indicates a drive or spin system fault. The control is not seeing the expected motor speed feedback, or the machine is failing to transition into spin correctly. Maytag's official help page describes it as a control-logic fault that may be cleared by unplugging the washer for five minutes and plugging it back in.
 
 When the fault persists, the washer typically will not agitate or spin at normal speed. The root cause is usually mechanical or electrical. Common culprits include a failed shift actuator that cannot move the transmission between agitate and spin modes, damaged or loose wiring connectors at the motor or control, a bad motor capacitor, or physical binding in the basket or gearcase that prevents the drum from reaching speed.
@@ -30,8 +29,6 @@ When the fault persists, the washer typically will not agitate or spin at normal
 ## Before You Replace Anything
 
 Many people replace the main control board first. Before ordering a board, inspect all wiring connectors at the motor and actuator for looseness or corrosion, and verify the basket spins freely by hand.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

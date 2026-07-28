@@ -19,8 +19,6 @@ When your Kenmore washer won't agitate, it means the wash basket is filling and 
 
 On most Kenmore 110-series top-loaders with a dual-action agitator, the top section of the agitator should rotate freely in one direction and drive the lower section in the other direction. When agitation stops working but the washer still spins and drains, the problem is usually mechanical wear inside the agitator assembly or an electrical fault in the drive system that prevents the transmission from shifting into agitate mode.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Worn agitator dogs** The small plastic cams inside the upper agitator wear down over time and stop gripping, so the top section spins freely in both directions instead of driving the lower agitator.
@@ -53,8 +51,8 @@ On most Kenmore 110-series top-loaders with a dual-action agitator, the top sect
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kenmore Washer E14 error code](/posts/kenmore-washer-e14-error-code/)
-- [Kenmore Washer E24 error code](/posts/kenmore-washer-e24-error-code/)
+- Kenmore Washer E14 error code
+- Kenmore Washer E24 error code
 - [Kenmore Washer F0 E2 error code](/posts/kenmore-washer-f0-e2-error-code/)
 - [Kenmore Washer F0 E4 error code](/posts/kenmore-washer-f0-e4-error-code/)
 - [Kenmore Washer F1 E1 error code](/posts/kenmore-washer-f1-e1-error-code/)

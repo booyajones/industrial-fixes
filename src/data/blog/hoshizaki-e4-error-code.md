@@ -13,11 +13,8 @@ money_part: "Ice thickness sensor"
 most_likely_cause: "Mineral scale on ice thickness sensor"
 ---
 
-## Hoshizaki E4 Error Code — What It Means
-
+## What this code means
 Hoshizaki error code E4 indicates an ice thickness sensor fault. The ice thickness sensor (also called the harvest sensor or thickness probe) monitors when the ice on the evaporator plate has grown to the correct harvest thickness before initiating the harvest cycle. When the E4 code appears, the control board has determined that the sensor is not functioning correctly — either reading ice present when no ice has formed, never registering ice thickness, or producing an implausible signal. This causes the machine to abort the freeze cycle prematurely or run too long, both of which can damage the unit or produce undersized ice.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Hoshizaki error code E4 indicates an ice thickness sensor fault. The ice thickne
 ## When to Call a Pro
 
 If cleaning and sensor replacement don't clear E4, the control board's sensor input circuit may be faulty, or there may be a refrigeration system issue that's preventing ice growth entirely (meaning the sensor never sees ice because none is forming). A certified refrigeration technician can diagnose the full freeze cycle.
-
-## Related Articles
-
-- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
-- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)
-- [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
-- [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)
-
-## See Also
-
-- [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
-- [Hoshizaki vs Manitowoc Ice Machines — A Commercial Tech's Honest Comparison (2026)](/posts/hoshizaki-vs-manitowoc-ice-machines/)
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
-- [Hoshizaki Ice Machine E8 Error Code — Causes & Fix](/posts/hoshizaki-e8-error-code/)

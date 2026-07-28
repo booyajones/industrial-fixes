@@ -17,8 +17,7 @@ free_checks:
   - "Check that combustion air openings and venting are clear and unobstructed"
 ---
 
-## Weil-McLain Boiler A62 Error Code — What It Means
-
+## What this code means
 A62 is not a published universal fault code in Weil-McLain's standard Aqua Balance control documentation. The exact meaning of A62 depends on your specific boiler model and control platform. Weil-McLain uses Axx codes to flag alarm or error conditions, but the manufacturer materials do not define A62 across all units. You must consult your boiler's installation or service manual and use the control's diagnostics menu to read the fault history and identify what A62 means for your exact configuration.
 
 If A62 on your unit is related to ignition or flame proving, the typical underlying problems mirror other Weil-McLain ignition lockouts. Common field causes include no gas flow or low gas pressure, a dirty or misaligned ignition electrode or flame sensor, a failed gas valve, poor electrical grounding, or combustion air and venting issues. Always retrieve the stored fault history from the control's diagnostics menu first, then match that fault to your model's manual before troubleshooting.
@@ -26,8 +25,6 @@ If A62 on your unit is related to ignition or flame proving, the typical underly
 ## Before You Replace Anything
 
 Technicians sometimes replace the gas valve when the real problem is a dirty flame sensor or weak ground connection. Always check flame-rod microamp signal and incoming gas pressure before ordering a new valve.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician immediately if you are not familiar with gas appliance service, if you cannot safely access the control diagnostics menu, or if you lack a combustion analyzer and manometer to verify gas pressures and combustion performance. A professional should handle any work involving gas piping, gas valve replacement, control board replacement, or venting modifications. Also call a pro if the fault returns after you have cleaned the flame sensor and verified gas supply, or if the boiler displays multiple fault codes or exhibits unusual combustion behavior such as rollout, delayed ignition, or persistent sooting. Proper diagnosis of an undefined code like A62 requires the correct service manual and field experience with Weil-McLain control platforms.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Weil-McLain A14 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a14-error-code/)
-- [Weil-McLain Boiler A73 Error - Causes & Fix](/posts/weil-mclain-boiler-a73-error-code/)
-- [Weil-McLain A132 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a132-error-code/)
-- [Weil-McLain A16 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a16-error-code/)

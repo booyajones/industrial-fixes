@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## KitchenAid F1E2 Dishwasher Error — What It Means
-
+## What this code means
 The F1E2 code on a KitchenAid dishwasher signals a control-board fault. Service references define it as a defective, failed, or corrupted electronic control board memory, or an incompatible board that does not match the dishwasher model. Unlike sensor or drain codes, F1E2 points directly to the main control board itself. The fault can arise from a genuine board failure, corrupted software inside the microprocessor, or installation of the wrong replacement part after an earlier repair.
 
 Because the code reflects an internal board problem rather than a wiring or component failure elsewhere in the machine, the primary repair path is to reset power and then replace the electronic control board if the code persists.
@@ -26,8 +25,6 @@ Because the code reflects an internal board problem rather than a wiring or comp
 ## Before You Replace Anything
 
 Homeowners sometimes replace door latches, pumps, or heating elements when F1E2 appears, wasting time and money. A simple five-minute power reset confirms whether the control board has failed, because F1E2 is a board-memory code and not a sensor or drain fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

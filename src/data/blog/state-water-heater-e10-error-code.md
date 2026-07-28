@@ -13,13 +13,10 @@ money_part: "Temperature sensor / thermistor"
 most_likely_cause: "Failed temperature sensor or thermistor"
 ---
 
-## State Water Heater E10 Error Code — What It Means
-
+## What this code means
 The E10 fault code on State residential hybrid electric heat pump water heaters indicates a temperature sensor circuit problem. The unit's built-in diagnostics system has detected an issue with one of the thermistors that monitor water temperature or the wiring connected to it. This code is part of the E10 through E60 series of manufacturer fault codes and specifically points to a sensor or sensor-wiring fault rather than a heating element or compressor failure.
 
 When E10 appears, the water heater may stop heating or switch to a backup heating mode depending on which sensor is affected. The most common causes are a failed temperature sensor, corroded or loose connector pins at the sensor harness, or damage to the wiring between the sensor and the control board. State's service guidance recommends using the unit's built-in diagnostics along with a multimeter to isolate the fault before replacing components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

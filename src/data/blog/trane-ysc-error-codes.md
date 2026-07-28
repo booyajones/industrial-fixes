@@ -18,8 +18,6 @@ money_part: "Condenser fan motor"
 
 The Trane YSC is a light commercial gas/electric packaged rooftop unit available in 3–12.5 tons. It is the evolution of the popular Trane Precedent series and is designed for schools, retail, and light commercial applications. The YSC features Trane's ReliaTel controller, which communicates faults through a 7-segment LED display or multi-flash LED depending on the controller version. Newer YSC units with the Tracer UC400B controller support BACnet and LonWorks communication.
 
-[Jump to Fix](#fix)
-
 ## Trane YSC ReliaTel Fault Code Reference
 
 | Display Code | Fault |
@@ -67,18 +65,3 @@ The Trane YSC is a light commercial gas/electric packaged rooftop unit available
 ## When to Call a Pro
 
 Trane YSC units require HVAC-R licensed technicians for refrigerant service. The ReliaTel controller has advanced diagnostic capability through the Rover service tool — a dealer-level device that provides sensor readings, fault history, and configuration. BACnet integration troubleshooting should involve the building automation contractor as well as the HVAC technician.
-
-## Related Articles
-
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-
-## See Also
-
-- [Trane XV20i Heat Pump Error Codes — Common Faults & Fixes](/posts/trane-xv20i-heat-pump-error-codes/)
-- [Trane VRF System Error Codes Guide](/posts/trane-vrf-error-codes/)
-- [Trane Heat Pump 1 Flash Error Code — Causes & Fix](/posts/trane-heat-pump-1-flash/)
-- [Trane XV20i/XV18 Fault 126 — Low Pressure Cutout Fix](/posts/trane-heat-pump-error-code-126/)

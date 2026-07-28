@@ -19,8 +19,6 @@ A popping or rumbling noise from an A.O. Smith water heater is a symptom, not a 
 
 A.O. Smith notes that for some gas units, the noise can also come from the vent or blower area, or from loose components in the combustion path. If the popping is accompanied by hissing or sizzling sounds, that can point to a leak rather than sediment buildup.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Sediment buildup in the tank** The primary cause is sediment at the bottom of the tank trapping steam bubbles that pop as they release during heating.
@@ -55,7 +53,7 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [A O Smith Water Heater E2 error code](/posts/a-o-smith-water-heater-e2-error-code/)
 - [A O Smith Water Heater E4 error code](/posts/a-o-smith-water-heater-e4-error-code/)
-- [A O Smith Water Heater E6 error code](/posts/a-o-smith-water-heater-e6-error-code/)
+- A O Smith Water Heater E6 error code
 
 ## When to Call a Pro
 

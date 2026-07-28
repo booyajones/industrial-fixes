@@ -13,11 +13,8 @@ money_part: "Cooling fan assembly"
 most_likely_cause: "Duty cycle exceeded"
 ---
 
-## ESAB Welder F01 Fault Code — What It Means
-
+## What this code means
 The F01 fault on ESAB welders (Rebel, Rogue, and Fabricator series) indicates a thermal overload — the machine's internal temperature exceeded the protection threshold. ESAB's thermal management system uses thermistors mounted on the heat sink and power modules; when they detect overtemperature, F01 triggers and disables welding output until the machine cools.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

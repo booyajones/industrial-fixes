@@ -17,8 +17,7 @@ money_part: "Frigidaire oven temperature sensor (RTD)"
 part_price: "$50-150"
 ---
 
-## Frigidaire Oven F10 Error Code — What It Means
-
+## What this code means
 F10 on a Frigidaire electric range or oven indicates a thermal runaway condition. The control board has detected that the oven temperature is rising abnormally or the oven continues heating when it should have stopped. This is a safety shutdown fault designed to prevent damage or fire. The control measures actual oven temperature through a sensor and compares it to expected values. When the temperature climbs too high or the heating element stays energized when it should be off, the board throws F10 and halts operation.
 
 This fault is not a user setting mistake. It signals a real hardware problem in the temperature control loop. The oven may feel excessively hot to the touch, or the code may appear even during preheat if the sensor or control circuitry has failed. Frigidaire's own support documentation labels F10 as thermal runaway and directs users to reset power and call for service if the fault returns.
@@ -26,8 +25,6 @@ This fault is not a user setting mistake. It signals a real hardware problem in 
 ## Before You Replace Anything
 
 Many people replace the oven temperature sensor first because it is easy to access. Before buying a new sensor, measure its resistance with a multimeter at room temperature. If you read roughly 1,080 to 1,100 ohms the sensor is usually fine and the control board relay is the real problem.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

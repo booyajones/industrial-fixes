@@ -13,11 +13,8 @@ money_part: "Air filter"
 most_likely_cause: "Dirty air filter"
 ---
 
-## Ruud Furnace 4 Flashes — What It Means
-
+## What this code means
 Ruud is a brand name for Rheem-manufactured furnaces — the products are nearly identical with different badging. On Ruud furnaces, 4 flashes on the diagnostic LED indicates the high-limit switch has opened. The high-limit is a thermal safety device mounted on the heat exchanger plenum. It opens when plenum temperature exceeds its set point (typically 160–200°F depending on the model), cutting the gas valve and logging the fault. The furnace blower continues running to cool the heat exchanger. If the limit trips repeatedly, the control board enforces a hard lockout. Restoring proper airflow is the fix in the vast majority of 4-flash cases.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,11 +44,3 @@ Ruud is a brand name for Rheem-manufactured furnaces — the products are nearly
 ## When to Call a Pro
 
 If the 4-flash fault persists after cleaning the filter, opening registers, and confirming the blower runs correctly, you may have a cracked heat exchanger causing secondary airflow disruption or combustion gas recirculation. This is a safety concern requiring combustion analysis and heat exchanger inspection by a licensed HVAC technician.
-
-## Related Articles
-
-- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
-- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
-- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

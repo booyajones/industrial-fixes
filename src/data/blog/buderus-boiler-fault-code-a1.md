@@ -13,11 +13,8 @@ money_part: "NTC temperature sensor"
 most_likely_cause: "Failed boiler temperature sensor (NTC)"
 ---
 
-## Buderus Boiler Fault Code A1 — What It Means
-
+## What this code means
 Fault code A1 on a Buderus Logamax or Logano boiler typically indicates a service-required alert or a short-circuit/open-circuit condition on a sensor circuit — most often the boiler water temperature sensor (NTC sensor on the supply or return). On Logamax Plus GB142 and GB162 condensing models, A1 frequently means the boiler temperature sensor (TS) has failed or its circuit is interrupted. The boiler may continue operating at a reduced or fixed output, or may lock out entirely depending on which sensor has faulted.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,11 +41,3 @@ Fault code A1 on a Buderus Logamax or Logano boiler typically indicates a servic
 ## When to Call a Pro
 
 Buderus/Bosch-Thermotechnik equipment requires a registered technician for warranty work and for setting combustion parameters. If A1 is accompanied by combustion anomalies (sooting, flame color issues, CO alarm), do not attempt to reset — call a licensed heating engineer.
-
-## Related Articles
-
-- [Boiler Lockout Error Codes: All Brands Guide](/posts/boiler-lockout-error-codes/)
-- [Burnham Alpine Boiler Error Code Guide — Causes & Fix](/posts/burnham-alpine-error-codes/)
-- [Burnham Boiler E1 Lockout Code Fix](/posts/burnham-boiler-e1-lockout-code/)
-- [Burnham Boiler E2 Error Code — Causes & Fix](/posts/burnham-boiler-e2-error-code/)
-- [Burnham Boiler E3 Error Code — Causes & Fix](/posts/burnham-boiler-e3-error-code/)

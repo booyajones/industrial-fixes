@@ -13,11 +13,8 @@ money_part: "Main circuit fuses for Yaskawa GA800"
 most_likely_cause: "Main circuit power loss"
 ---
 
-## Yaskawa GA800 E24 Fault — What It Means
-
+## What this code means
 The E24 fault on a Yaskawa GA800 drive means the control circuitry is seeing external 24 V power still connected while the main circuit power supply has decreased or disappeared. The drive's logic remains partially powered by the 24 V control supply, but the main power required to operate the drive is not at the expected state. This is an undervoltage or control-power status condition, not a motor overload or output-stage fault. The drive is reporting that the external 24 V supply is energized at a time when the main circuit voltage has dropped below normal operating levels.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ The E24 fault on a Yaskawa GA800 drive means the control circuitry is seeing ext
 ## When to Call a Pro
 
 Call a qualified industrial electrician or drive technician if you are not trained to work safely on three-phase power systems, if the fault returns after you have verified and restored main circuit power, or if upstream supply components such as contactors or breakers require replacement. Because GA800 field repair documentation is limited and internal troubleshooting beyond power verification typically requires factory support, contact Yaskawa technical support directly if the E24 code persists after all external power supply conditions are confirmed normal. Do not attempt control board replacement without confirming the root cause with the manufacturer.
-
-## See Also
-
-- [Yaskawa VFD Fault GF — Causes & Fix](/posts/yaskawa-vfd-fault-gf/)
-- [Yaskawa VFD Fault PF — Causes & Fix](/posts/yaskawa-vfd-fault-pf/)
-- [Yaskawa GA800 E20 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e20-fault-code/)
-- [Yaskawa VFD Fault OH — Causes & Fix](/posts/yaskawa-vfd-fault-oh/)

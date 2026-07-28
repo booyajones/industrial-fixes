@@ -24,8 +24,6 @@ Vulcan (a Welbilt brand) manufactures commercial ovens, ranges, and cooking equi
 | E4 | Fan motor fault | Medium |
 | E5 | Control board communication fault | High |
 
-[Jump to Fix](#fix)
-
 ## Most Common Vulcan Oven Codes and Fixes {#fix}
 
 ### E1 — Temperature Sensor Fault

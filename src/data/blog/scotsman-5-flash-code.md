@@ -108,14 +108,7 @@ A: Electronic transducers have a thin diaphragm and sensing element that's sensi
 **Related:** [Manitowoc E01 long freeze cycle fix](/posts/manitowoc-e01-error-code/)
 
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Hoshizaki E2 long freeze cycle fix](/posts/hoshizaki-e2-error-code/)
+**Related:** Hoshizaki E2 long freeze cycle fix
 
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Scotsman 1-flash bin full fix](/posts/scotsman-1-flash-code/)
-
-## See Also
-
-- [Scotsman 2-Flash Code — Long Freeze Cycle Fix](/posts/scotsman-2-flash-code/)
-- [Scotsman 4-Flash Code — High Discharge Temperature Fix](/posts/scotsman-4-flash-code/)
-- [Scotsman Ice Machine Error Code 3 — Causes & Fix](/posts/scotsman-ice-machine-error-code-3/)
-- [Scotsman Ice Machine Error Code 6 — Causes & Fix](/posts/scotsman-ice-machine-error-code-6/)

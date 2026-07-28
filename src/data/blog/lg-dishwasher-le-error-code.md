@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "LG dishwasher wash motor / circulation pump assembly"
 ---
 
-## LG Dishwasher LE Error Code — What It Means
-
+## What this code means
 The LE code (or CE on some models) is a motor error code on LG dishwashers. LG's support documentation defines it as a motor error and instructs you to power down the unit and restart. In practice, the code signals a problem in the wash or circulation motor system, its wiring, or the control board's ability to detect normal motor operation.
 
 The error typically appears when the wash motor fails to start, runs abnormally, or is mechanically blocked. It can also result from loose or corroded wiring between the control board and motor, excessive suds interfering with motor operation, or a control board misreading motor feedback.
@@ -25,8 +24,6 @@ The error typically appears when the wash motor fails to start, runs abnormally,
 ## Before You Replace Anything
 
 Many people replace the control board first, but the motor or a blocked pump is usually the real problem. Always inspect the sump area for debris and check motor wiring before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable disassembling the lower dishwasher cabinet to access the sump and motor, if you lack a multimeter to test motor continuity and wiring, or if the motor and harness appear good but the LE code persists and points to a control-board fault. Technicians have the diagnostic tools to measure motor drive signals and determine whether the pump assembly or the board is at fault. Also call a pro if your household water pressure is below 20 PSI, as low pressure can cause related errors and may require plumbing work beyond appliance repair.
 
 **Rough cost:** A pro service call runs about $200-400.
-
-## See Also
-
-- [LG Washer Drive Belt Replacement - Signs & How-To](/posts/lg-washer-drive-belt-replacement/)
-- [LG LS120HSV5 Ductless Mini Split Problems & Error Codes](/posts/lg-ls120hsv5-ductless-mini-split-air-conditioner-problems/)
-- [LG Dishwasher bE Error Code - Causes & Fix](/posts/lg-dishwasher-be-error-code/)
-- [LG LAN120HSV5 Ductless Mini Split Problems & Error Codes](/posts/lg-lan120hsv5-ductless-mini-split-air-conditioner-problems/)

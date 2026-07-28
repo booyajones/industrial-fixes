@@ -13,11 +13,8 @@ money_part: "Outlet polarity tester"
 most_likely_cause: "Swapped hot and neutral at the furnace disconnect"
 ---
 
-## Rheem Furnace 9 Flashes — What It Means
-
+## What this code means
 Nine LED flashes on a Rheem furnace indicates reversed polarity on the 120V power supply. The furnace control board detects that the hot and neutral conductors are swapped, which interferes with the flame sensing circuit. Because flame sensing depends on AC line voltage reference, reversed polarity generates false flame signals or prevents accurate sensing entirely. The board locks out the furnace to protect against unsafe operation.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,18 +43,3 @@ Nine LED flashes on a Rheem furnace indicates reversed polarity on the 120V powe
 ## When to Call a Pro
 
 If you are not comfortable working inside electrical panels or disconnect boxes, hire a licensed electrician to correct the polarity. This is a wiring safety issue, not just a furnace fault. Once polarity is corrected by an electrician, the furnace should require no further HVAC service.
-
-## Related Articles
-
-- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
-- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
-- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)
-- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
-- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)
-
-## See Also
-
-- [Rheem Split System Heat Pump Error Codes — RA14, RA15, RP15 Fault Guide](/posts/rheem-heat-pump-error-codes/)
-- [Rheem Water Heater Error Codes — Complete Guide](/posts/rheem-water-heater-error-codes/)
-- [Rheem RTGH-95DVLN Condensing Tankless Water Heater Error Codes](/posts/rheem-rtgh-95dvln-error-codes/)
-- [Rheem Prestige RP20 Heat Pump Error Codes - Full Fault Code Reference](/posts/rheem-rp20-heat-pump-error-codes/)

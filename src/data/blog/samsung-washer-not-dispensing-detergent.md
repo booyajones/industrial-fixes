@@ -19,8 +19,6 @@ A Samsung washer that is not dispensing detergent is showing a dispenser-system 
 
 This is usually not a catastrophic hardware failure. Most often, residue buildup, incorrect settings, or the wrong detergent type is preventing the dispenser from working. Samsung's own guidance points first to settings, detergent condition, leveling, and residue buildup rather than internal component failure.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Residue buildup or clogged drawer and siphon** Detergent residue, fabric softener, or mineral deposits block the drawer compartments or siphon tubes, preventing water from flushing the product into the tub.

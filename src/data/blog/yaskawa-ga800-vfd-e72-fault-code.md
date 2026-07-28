@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "Yaskawa GA800 control board"
 ---
 
-## Yaskawa GA800 E72 Fault — What It Means
-
+## What this code means
 E72 is a soft-charge bypass relay answerback fault. When the GA800 drive starts up, it energizes a relay or contactor that bypasses the soft-charge circuit after the DC bus reaches operating voltage. The drive expects feedback (an answerback signal) confirming the relay has closed. If that signal does not arrive or does not match what the drive expects, the E72 fault trips.
 
 The fault points to a mismatch between commanded and actual relay state. It can be caused by worn relay contacts, a failed relay coil, a control board problem affecting either the relay drive circuit or the answerback sensing circuit, or a wiring issue in the feedback path. The GA800 maintenance manual limits field repair to fan and control board replacement, so deeper component-level board diagnostics typically require factory service or a drive replacement.
@@ -24,8 +23,6 @@ The fault points to a mismatch between commanded and actual relay state. It can 
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive before checking the soft-charge bypass relay maintenance status in parameter U4-06. If U4-06 reads above 90%, replace the control board or the relay circuit first before swapping the entire drive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified variable-frequency drive technician or an authorized Yaskawa service center for an E72 fault. The repair requires working inside the drive enclosure with high DC bus voltage present even after AC power is removed. Diagnosing the soft-charge bypass relay circuit involves interpreting the drive's internal wiring, measuring coil and feedback signals, and replacing control boards or relays that are not stocked at most electrical distributors. The GA800 maintenance manual explicitly states that repairs beyond fan and control board replacement are outside the scope of field service, so persistent E72 faults after basic troubleshooting usually require factory-level diagnostics or a complete drive replacement. Do not attempt this repair unless you are trained in VFD service and have appropriate PPE and lockout/tagout procedures in place.
 
 **Rough cost:** A pro service call runs about $400–1,200 depending on whether a control board, relay assembly, or complete drive replacement is required.
-
-## See Also
-
-- [Yaskawa A1000 Er-02 - Causes & Fix](/posts/yaskawa-a1000-vfd-al-02-fault-code/)
-- [Yaskawa V1000 OV Fault - What It Means and How to Fix It](/posts/yaskawa-v1000-fault-ov/)
-- [Allen-Bradley PowerFlex F005 - Causes & Fix](/posts/yaskawa-ga800-vfd-f005-fault-code/)
-- [Yaskawa GA800 E69 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e69-fault-code/)

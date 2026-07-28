@@ -13,11 +13,8 @@ money_part: "Bin thermostat / bin sensor"
 most_likely_cause: "Bin sensor probe covered with ice or frost"
 ---
 
-## Manitowoc Ice Machine Error Code 7 — What It Means
-
+## What this code means
 Manitowoc error code 7 on Indigo and older electromechanical models indicates a **bin thermostat fault** — the machine's bin full sensor or bin thermostat has detected a condition that prevents normal ice making, or the bin control is not cycling correctly. The bin thermostat (or its modern equivalent, a bin sensor switch) stops ice production when the bin is full and restarts it when ice is dispensed. Code 7 appears when this sensor is stuck, failed, or sees an unexpected condition. On Indigo series machines, code 7 can also indicate a bin temperature sensor out of range.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Manitowoc error code 7 on Indigo and older electromechanical models indicates a 
 ## When to Call a Pro
 
 If code 7 persists after clearing ice and confirming the sensor is unobstructed, the Indigo controller board may have a failed input or the sensor may require calibration. Contact a Manitowoc-authorized service technician for Indigo controller diagnostics.
-
-## Related Articles
-
-- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
-- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
-- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
-- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
-- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)
-
-## See Also
-
-- [Manitowoc IYT-0450 Error Codes — Fault Code Diagnostic Guide](/posts/manitowoc-iyt-0450-error-codes/)
-- [Manitowoc E54 Error Code — Water Curtain Switch Open Fix](/posts/manitowoc-e54-error-code/)
-- [Manitowoc Ice Machine Error Code 6 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-6/)
-- [Manitowoc NEO Ice Machine Error Codes - What It Means and How to Fix It](/posts/manitowoc-neo-ice-machine-error-codes/)

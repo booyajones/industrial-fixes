@@ -21,8 +21,7 @@ part_price: "$40-90"
 no_buy_pct: "60%"
 ---
 
-## Amana IF Error Code — What It Means
-
+## What this code means
 Amana washers do not publish an IF error code in their official fault-code documentation. Amana uses an F# E# or F## format for washer system errors on both top-load HE and front-load models, plus a few named codes such as HC (hot/cold reversed) and lid-related faults. If your display shows what looks like IF, you are most likely seeing part of a blinking F/E code sequence on a model with a segmented display, or the display has been misread. The exact meaning depends on your model and the actual code present.
 
 Because IF is not a verified Amana washer code, there is no single documented fault path for it. Instead, the common issues that produce F/E codes on Amana washers include water fill problems (kinked inlet hoses, closed faucets, faulty inlet valve), drain delays (clogged drain hose or pump, excessive suds), and lid or door lock malfunctions. Amana front-load models will show F9 E1 if a drain cycle exceeds eight minutes. Top-load HE models will display HC if the hot and cold inlet hoses are reversed. Always verify your exact model number and read the service display or blink pattern before attempting any repair.
@@ -30,8 +29,6 @@ Because IF is not a verified Amana washer code, there is no single documented fa
 ## Before You Replace Anything
 
 Many people replace the main control board when seeing an unfamiliar code. First verify the exact code using the manufacturer's diagnostic mode or blink-pattern guide for your model, then check water supply, drain routing, and suds level before ordering any electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

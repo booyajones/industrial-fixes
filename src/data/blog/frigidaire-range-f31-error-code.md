@@ -17,8 +17,7 @@ money_part: "Frigidaire oven temperature sensor (RTD probe)"
 part_price: "$20-50"
 ---
 
-## Frigidaire Range F31 Error Code — What It Means
-
+## What this code means
 The F31 error code on a Frigidaire range signals an open or unreadable oven temperature sensor (RTD) circuit. The electronic control board has lost the ability to receive a valid temperature signal from the sensor probe, so it stops normal oven operation to prevent unsafe heating. The fault means the sensor circuit is out of the expected range, either showing an open circuit, a short to ground, or resistance far from the normal value.
 
 In most cases the oven temperature sensor itself has failed. The control board expects to see around 1,080 ohms of resistance at room temperature from a healthy sensor. When the sensor element degrades, resistance drifts out of range or the probe wire breaks internally, triggering F31. Loose or corroded harness connectors between the sensor and the control board are the second most common cause. A short to the cabinet frame in the sensor wiring or a failed control board are less frequent but still possible.
@@ -26,8 +25,6 @@ In most cases the oven temperature sensor itself has failed. The control board e
 ## Before You Replace Anything
 
 Many people replace the electronic control board first because the code sounds electronic. Always test the sensor resistance (should be about 1,080 Ω at room temperature) and check the harness connectors before buying a control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

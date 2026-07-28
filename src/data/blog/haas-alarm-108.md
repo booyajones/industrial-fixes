@@ -13,11 +13,8 @@ money_part: "Cabinet cooling fans"
 most_likely_cause: "Spindle drive overtemperature"
 ---
 
-## Haas Alarm 108 — What It Means
-
+## What this code means
 Alarm 108 on a Haas CNC machining center or lathe indicates a Spindle Drive Fault. The spindle drive (vector drive or servo spindle amplifier) reported a fault condition back to the Haas control. Alarm 108 is a general spindle drive fault that requires reading the spindle drive's own diagnostic display or error code to identify the specific sub-fault — the Haas control receives the fault signal but the drive's display or service data shows the exact cause (overcurrent, overtemperature, overload, etc.).
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,24 +42,3 @@ Alarm 108 on a Haas CNC machining center or lathe indicates a Spindle Drive Faul
 ## When to Call a Pro
 
 Spindle drive replacement and spindle motor service on a Haas require Haas Factory Outlet (HFO) service or a qualified CNC technician. Incorrect drive parameters after replacement can cause spindle runaway or motor damage.
-
-## Related Articles
-
-- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
-- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
-- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
-- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Fanuc vs Mazak CNC controls compared](/posts/fanuc-vs-mazak-cnc-controls/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Best megohmmeter for electricians](/posts/best-megohmmeter-for-electricians/)
-
-## See Also
-
-- [Haas EC-400 Horizontal Machining Center Alarm Codes](/posts/haas-ec-400-alarm-codes/)
-- [Haas Alarm 107 — Causes & Fix](/posts/haas-alarm-107/)
-- [Haas SL-20 Lathe Common Alarms — What They Mean and How to Fix Them](/posts/haas-sl-20-lathe-alarms/)
-- [Haas Alarm 129: Spindle Orientation Error — Fix Guide](/posts/haas-alarm-129/)

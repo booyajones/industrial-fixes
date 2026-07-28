@@ -19,8 +19,6 @@ When your Amana refrigerator's freezer stays cold but the fresh food section war
 
 This is not a sealed system problem at first pass. It is an airflow, defrost, or damper issue. Amana's own guidance focuses on blocked vents, control settings, and air circulation between compartments rather than refrigerant faults or compressor problems.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Blocked air vents or product loading** Food packages or ice buildup can block the vents between the freezer and refrigerator, stopping cold air from reaching the fresh food section.
@@ -54,14 +52,14 @@ This is not a sealed system problem at first pass. It is an airflow, defrost, or
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Amana Refrigerator Ci error code](/posts/amana-refrigerator-ci-error-code/)
-- [Amana Refrigerator D7 error code](/posts/amana-refrigerator-d7-error-code/)
-- [Amana Refrigerator D8 error code](/posts/amana-refrigerator-d8-error-code/)
+- Amana Refrigerator Ci error code
+- Amana Refrigerator D7 error code
+- Amana Refrigerator D8 error code
 - [Amana Refrigerator D9 error code](/posts/amana-refrigerator-d9-error-code/)
-- [Amana Refrigerator Ec40 error code](/posts/amana-refrigerator-ec40-error-code/)
+- Amana Refrigerator Ec40 error code
 - [Amana Refrigerator F1 error code](/posts/amana-refrigerator-f1-error-code/)
 - [Amana Refrigerator If error code](/posts/amana-refrigerator-if-error-code/)
-- [Amana Refrigerator It error code](/posts/amana-refrigerator-it-error-code/)
+- Amana Refrigerator It error code
 - [Amana Refrigerator Po error code](/posts/amana-refrigerator-po-error-code/)
 
 ## When to Call a Pro

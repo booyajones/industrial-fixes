@@ -13,11 +13,8 @@ money_part: "Leak Sensor / Moisture Sensor"
 most_likely_cause: "Active water leak"
 ---
 
-## State Water Heater E55 Error Code — What It Means
-
+## What this code means
 The E55 code on State water heaters (manufactured by A. O. Smith) indicates that the unit's leak detection system has sensed moisture or water near the heater. This is a safety feature designed to alert you to potential leaks before they cause major damage. On brand-new installations, E55 can also appear if the tank has not been completely filled with water during initial startup, causing the control to register a fault condition.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

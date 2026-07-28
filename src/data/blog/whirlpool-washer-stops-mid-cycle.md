@@ -19,8 +19,6 @@ When a Whirlpool washer stops mid cycle, it's a symptom rather than a single err
 
 The washer may stop mid-cycle if the door or lid isn't fully closed or if the interlock switch isn't sending a valid signal. Some models will also pause if they detect excessive suds, which can delay draining. A cycle can appear stopped if it has been paused or canceled and the control hasn't been reset. Because Whirlpool's diagnostics differ by platform and model family, the correct approach is to verify the exact model and any stored fault codes before starting repairs.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Unbalanced or overloaded load** The control pauses or aborts spin and agitate progression when laundry is clumped on one side or the drum is packed too full.

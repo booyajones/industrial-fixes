@@ -17,8 +17,7 @@ money_part: "Main electronic control board (Maytag dryer)"
 part_price: "$100-250"
 ---
 
-## Maytag Dryer F01 Error Code — What It Means
-
+## What this code means
 The F01 code on a Maytag dryer indicates an internal electronic control or motor-control fault. Maytag's official guidance treats it as a system fault that may clear after a power reset and test cycle, which points to a problem in the control electronics rather than a simple user error. Independent service sources most often trace F01 to a failed or intermittent main control board, though it can also appear when wiring connections fail or when the motor circuit draws abnormal current and trips the control board's protection logic.
 
 Because the exact sub-fault varies across Maytag model families and the manufacturer does not publish a detailed fault table for F01, diagnosis begins with a power reset. If the code returns immediately, the repair path focuses on inspecting the control board for burnt components or damaged solder joints, checking all harness connectors for looseness or heat damage, and testing the motor circuit for overheating or binding. In the field, technicians replace the main control board in the majority of persistent F01 cases when wiring and motor checks come back clean.
@@ -26,8 +25,6 @@ Because the exact sub-fault varies across Maytag model families and the manufact
 ## Before You Replace Anything
 
 Many people replace the motor first, but a visual inspection of the control board for burnt traces and a harness connector check will identify the real cause in most cases without spending on a motor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

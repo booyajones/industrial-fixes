@@ -17,8 +17,6 @@ tags:
 
 A Daikin mini split leaking water is a symptom of a drainage or condensate problem, not a fault code. Daikin recommends stopping use immediately, collecting the water, and checking whether water is discharging from the outdoor drain hose termination point. If water is not draining outside, the problem is usually an obstruction or bend in the drain hose or drainage path. If water is draining but the indoor unit still leaks, Daikin points to dirty air filters and restricted airflow that increase condensate formation and can cause overflow or icing at the evaporator coil.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged condensate drain line** Dirt, mold, algae, or debris blocks the drain hose and causes water to back up and overflow from the indoor unit.
@@ -52,25 +50,18 @@ A Daikin mini split leaking water is a symptom of a drainage or condensate probl
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Daikin Mini Split A1 error code](/posts/daikin-mini-split-a1-error-code/)
-- [Daikin Mini Split A3 error code](/posts/daikin-mini-split-a3-error-code/)
-- [Daikin Mini Split A5 error code](/posts/daikin-mini-split-a5-error-code/)
-- [Daikin Mini Split A6 error code](/posts/daikin-mini-split-a6-error-code/)
-- [Daikin Mini Split A7 error code](/posts/daikin-mini-split-a7-error-code/)
-- [Daikin Mini Split A8 error code](/posts/daikin-mini-split-a8-error-code/)
-- [Daikin Mini Split A9 error code](/posts/daikin-mini-split-a9-error-code/)
-- [Daikin Mini Split C4 error code](/posts/daikin-mini-split-c4-error-code/)
-- [Daikin Mini Split E04 error code](/posts/daikin-mini-split-e04-error-code/)
-- [Daikin Mini Split E05 error code](/posts/daikin-mini-split-e05-error-code/)
-- [Daikin Mini Split E7 error code](/posts/daikin-mini-split-e7-error-code/)
+- Daikin Mini Split A1 error code
+- Daikin Mini Split A3 error code
+- Daikin Mini Split A5 error code
+- Daikin Mini Split A6 error code
+- Daikin Mini Split A7 error code
+- Daikin Mini Split A8 error code
+- Daikin Mini Split A9 error code
+- Daikin Mini Split C4 error code
+- Daikin Mini Split E04 error code
+- Daikin Mini Split E05 error code
+- Daikin Mini Split E7 error code
 
 ## When to Call a Pro
 
 Call a professional if the leak continues after cleaning filters and clearing the drain line, if the evaporator coil is frozen and does not resolve with airflow correction, or if you suspect low refrigerant charge or installation pitch problems. A technician should handle refrigerant diagnostics, drain pan replacement inside a sealed indoor unit, and any re-leveling or remounting of the wall-hung assembly. If the condensate pump has failed or the drain system requires disassembly beyond the external hose, professional service is recommended.
-
-## See Also
-
-- [Daikin J6 Error Code - Causes & Fix](/posts/daikin-heat-pump-j6-error-code/)
-- [Daikin L5 Error Code — Compressor Lock Fault](/posts/daikin-l5-error-code/)
-- [Daikin VRV IV Fault Codes - Commercial System Diagnostic Guide](/posts/daikin-vrv-iv-fault-codes/)
-- [Daikin E7 Error Code — Outdoor Fan Motor Fault Fix](/posts/daikin-e7-error-code/)

@@ -55,10 +55,3 @@ Like all modern elevator systems, Schindler implements UCM protection per EN 81-
 | IC3/IC5 control board | [Amazon](https://www.amazon.com/s?k=IC3%2FIC5+control+board&tag=errorcodefixes-20) \| Replace on controller fault |
 ## When to Call a Pro
 **Schindler elevator systems are proprietary.** The Schindler Diagnose Tool and software are only available to Schindler-authorized personnel. All elevator maintenance must be performed by licensed elevator mechanics.
-
-## Related Articles
-
-- [KONE Elevator Fault Codes - Complete Guide](/posts/kone-elevator-fault-codes/)
-- [Mitsubishi Elevator Fault Codes - Complete Guide](/posts/mitsubishi-elevator-fault-codes/)
-- [Otis Elevator Fault Codes - Complete Guide (Gen2 / Elevonic)](/posts/otis-elevator-fault-codes/)
-- [ThyssenKrupp Elevator Fault Codes - Complete Guide](/posts/thyssenkrupp-elevator-fault-codes/)

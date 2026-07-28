@@ -76,11 +76,3 @@ These alarms are often simple. The axis hit a travel limit because of a programm
 
 ## When to Call a Pro
 If you have a multi-axis drive communication fault, repeated spindle alarms, or an alarm that returns after cable checks and a power cycle, bring in a CNC service tech. CNC downtime gets expensive fast. Guessing gets expensive faster.
-
-## Related Articles
-
-- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
-- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)

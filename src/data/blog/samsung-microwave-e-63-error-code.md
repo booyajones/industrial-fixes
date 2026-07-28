@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Samsung microwave humidity sensor"
 ---
 
-## Samsung Microwave E-63 Error — What It Means
-
+## What this code means
 Samsung lists the E-63 code as a T1 Max Time Humidity Sensor Error. This fault occurs in the humidity-sensing circuit used by sensor-cook and auto-cook functions, not a generic heating problem. The control board has detected that the humidity sensor signal is out of range, missing, or taking too long to respond during an automatic cooking cycle.
 
 The error can stem from a defective sensor itself, a wiring or connector issue in the sensor circuit, or a control board input fault that misreads the sensor signal. Moisture or steam contamination on electronics or connectors can also trigger false sensor errors. Samsung advises a power reset first, and if the code returns, the unit requires service support since no consumer calibration procedure is published.
@@ -25,8 +24,6 @@ The error can stem from a defective sensor itself, a wiring or connector issue i
 ## Before You Replace Anything
 
 Many people replace the main control board first, but a loose or corroded connector at the humidity sensor harness is cheaper to inspect and often the real culprit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -60,18 +60,3 @@ Alarm 1013 always includes an axis identifier in the full alarm text displayed o
 If the cooling fan is operational, the cabinet is clean, the axis moves freely under manual jog, and Alarm 1013 still returns within the first hour of operation after a cool-down reset, the amplifier's IPM module or internal power supply components are degraded and the unit needs repair or replacement. Okuma servo amplifier repair requires oscilloscope verification of the gate drive signals, capacitor ESR testing, and IPM testing — this is not field-serviceable without specialized equipment. Okuma America's service division and their regional distributors can provide factory-authorized repair. Always obtain the machine's parameter backup before any amplifier replacement to avoid re-commissioning from scratch.
 
 > **Pro tip:** On Okuma machines with multiple servo axes, Alarm 1013 that always affects the same axis and always appears after approximately the same run time (e.g., 45 minutes) is almost always a failing amplifier cooling fan — not a load or lubrication issue. The fan's reduced airflow allows the heatsink to heat up on a predictable thermal time constant. Replacing the fan usually costs under $40 and 20 minutes of labor and avoids a $3,000+ amplifier replacement.
-
-## Related Articles
-
-- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
-- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
-- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-
-## See Also
-
-- [Okuma CNC Alarm 1600 — Communication Error Causes & Fix](/posts/okuma-cnc-alarm-1600/)
-- [Okuma CNC Alarm 1800 — Causes & Fix](/posts/okuma-cnc-alarm-1800/)
-- [Okuma OSP Alarm 2202 — Spindle Fix](/posts/okuma-alarm-2202/)
-- [Okuma CNC Alarm 4000 - Causes & Fix](/posts/okuma-cnc-alarm-4000/)

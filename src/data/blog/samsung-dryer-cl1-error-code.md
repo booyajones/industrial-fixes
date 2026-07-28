@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Lint filter"
 ---
 
-## Samsung Dryer CL1 Error Code — What It Means
-
+## What this code means
 The CL1 (or C1) error code on a Samsung dryer indicates that items were detected inside the drum when the Vent Blockage diagnostic test was run. This is not a component failure code. It is part of Samsung's Vent Blockage test code family and simply tells you the drum must be empty before the test can run properly. If you did not intentionally start the Vent Blockage test, the dryer may have entered diagnostics by accident or the code persisted from an earlier test.
 
 Samsung documents that CL1 specifically means laundry is in the drum during the vent test. Once you remove all clothing and restart the dryer, the code should clear. If CL1 reappears with an empty drum, Samsung advises consulting your model's user manual for further troubleshooting, which may point to an underlying airflow or sensor issue that needs professional evaluation.
@@ -25,8 +24,6 @@ Samsung documents that CL1 specifically means laundry is in the drum during the 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the heating element or thermistor thinking CL1 is a heating fault, but this code only indicates clothes in the drum during a test. Simply emptying the drum and power-cycling the dryer clears most cases.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

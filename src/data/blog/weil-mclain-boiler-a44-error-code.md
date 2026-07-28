@@ -18,8 +18,7 @@ free_checks:
   - "Wiggle the sensor harness while watching for code recurrence to catch intermittent opens"
 ---
 
-## Weil-McLain A44 Error Code — What It Means
-
+## What this code means
 The A44 code on Weil-McLain AquaBalance boilers signals a temperature-sensor fault. The control has detected that a sensor is bad, disconnected, or reading outside the expected range. When this fault occurs, the boiler stops operation to prevent unsafe conditions. The problem lies in the sensor circuit itself, which includes the thermistor element, its wiring harness, connectors, and the control-board input that receives the signal.
 
 This is not a combustion or flame fault. It is an input problem: the boiler cannot trust the temperature data it is receiving. Until the sensor circuit is repaired and the code is cleared, the unit will not resume normal operation.
@@ -27,8 +26,6 @@ This is not a combustion or flame fault. It is an input problem: the boiler cann
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board first, but most A44 faults trace to the sensor or its wiring. Always test the sensor circuit and harness continuity before condemning the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician for an A44 fault. Gas-fired boilers require combustion-safety knowledge, proper diagnostic tools to measure sensor circuits accurately, and familiarity with Weil-McLain control logic. A pro will isolate whether the fault is in the sensor, wiring, or control board, test the circuit under operating conditions, and replace only the failed component. Misdiagnosing this code and replacing the wrong part wastes money and leaves the boiler unsafe. If you see the A44 code, do not attempt to bypass the sensor or force the unit to run. Document any recent service or part changes and share that history with your technician to speed diagnosis.
 
 **Rough cost:** A pro service call runs about $200-400.
-
-## See Also
-
-- [Weil-McLain A102 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a102-error-code/)
-- [Weil-McLain A30 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a30-error-code/)
-- [Weil-McLain Boiler A73 Error - Causes & Fix](/posts/weil-mclain-boiler-a73-error-code/)
-- [Weil-McLain A57 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a57-error-code/)

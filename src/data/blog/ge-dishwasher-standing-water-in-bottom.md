@@ -19,8 +19,6 @@ GE dishwashers normally hold about one to two cups of water in the bottom after 
 
 Most standing water issues trace back to something blocking the drain path or improper installation. The dishwasher pulls water out through the sump, past the filters, and pushes it through the drain hose to your sink or disposal. If any part of that path is blocked or installed incorrectly, water stays in the tub.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged filter or sump area** Food debris like labels, bones, noodles, or lettuce blocks the fine and ultra fine filters or packs into the sump at the bottom of the tub.
@@ -64,8 +62,8 @@ If your appliance also shows a code on the display, these match this problem:
 - [Ge Dishwasher C8 error code](/posts/ge-dishwasher-c8-error-code/)
 - [Ge Dishwasher Ef error code](/posts/ge-dishwasher-ef-error-code/)
 - [Ge Dishwasher F56 error code](/posts/ge-dishwasher-f56-error-code/)
-- [Ge Dishwasher F9 error code](/posts/ge-dishwasher-f9-error-code/)
-- [Ge Dishwasher Ff error code](/posts/ge-dishwasher-ff-error-code/)
+- Ge Dishwasher F9 error code
+- Ge Dishwasher Ff error code
 
 ## When to Call a Pro
 

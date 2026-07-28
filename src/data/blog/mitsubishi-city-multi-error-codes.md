@@ -22,8 +22,6 @@ most_likely_cause: "P8 - Low refrigerant charge"
 
 Both codes cause the affected zone to stop cooling or heating. E6 often affects multiple indoor units simultaneously if the communication wiring backbone is broken.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
 - **P8 — Low refrigerant charge** — A leak has reduced the system charge, causing discharge temperatures to spike as the compressor works harder with less refrigerant to cool it.
@@ -49,18 +47,3 @@ Both codes cause the affected zone to stop cooling or heating. E6 often affects 
 ## When to Call a Pro
 
 Mitsubishi City Multi VRF systems require specialized diagnostic tools (TG-2000, MelCloud) and Mitsubishi Diamond Contractor training to diagnose correctly. Refrigerant work on VRF systems requires EPA 608 certification and VRF-specific recovery equipment.
-
-## Related Articles
-
-- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
-- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
-- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
-- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
-- [Mitsubishi E3 Error Code — Indoor Fan Motor Fault Fix](/posts/mitsubishi-e3-error-code/)
-
-## See Also
-
-- [Mitsubishi MSY-GL Mini-Split Error Codes - Full Fault Guide](/posts/mitsubishi-msy-gl-error-codes/)
-- [Mitsubishi Mini Split E9 Error Code — Outdoor Thermistor 2 Fault Fix](/posts/mitsubishi-mini-split-e9-error/)
-- [Mitsubishi FR-A800 Fault E7 — CPU Error Causes & Fix](/posts/mitsubishi-fr-a800-fault-e7/)
-- [Mitsubishi Mini Split E1 Error Code — Indoor Thermistor Fault Fix](/posts/mitsubishi-mini-split-e1-error/)

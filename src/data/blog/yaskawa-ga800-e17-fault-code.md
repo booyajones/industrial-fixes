@@ -13,13 +13,10 @@ money_part: "Yaskawa GA800 control board"
 most_likely_cause: "Misread or misidentified fault code"
 ---
 
-## Yaskawa GA800 E17 Fault — What It Means
-
+## What this code means
 E17 does not appear in the standard Yaskawa GA800 fault code table according to manufacturer documentation. This code may be a misread display (such as a different fault shown at an angle), a communication alarm, or a code from a connected keypad or operator interface rather than the drive itself. It could also indicate a region-specific code or a custom parameter alarm set by the integrator. The GA800 uses alphanumeric fault codes, and verifying the exact characters on the display is the first step.
 
 Yaskawa documentation instructs technicians to identify the fault from the drive's alarm history, remove the underlying cause, and then reset the fault from the keypad. The drive will not resume operation until the condition that triggered the alarm is corrected and the reset procedure is completed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ Yaskawa documentation instructs technicians to identify the fault from the drive
 ## When to Call a Pro
 
 Call a qualified drive technician or contact Yaskawa technical support if you cannot verify the fault code in your manual, if the code persists after power cycling and inspection, or if you are not trained in VFD diagnostics. The GA800 maintenance guide limits field repair to fan and control board replacement only, and attempting other repairs voids warranties and creates shock hazards. A professional can access Yaskawa's full fault database, retrieve detailed alarm logs, and identify custom or communication-related codes that do not appear in standard documentation.
-
-## See Also
-
-- [Yaskawa VFD Fault OH — Causes & Fix](/posts/yaskawa-vfd-fault-oh/)
-- [Yaskawa GA800 E04 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e04-fault-code/)
-- [Yaskawa VFD Fault LF — Causes & Fix](/posts/yaskawa-vfd-fault-lf/)
-- [Yaskawa VFD Fault OV — DC Bus Overvoltage Fix](/posts/yaskawa-vfd-fault-ov/)

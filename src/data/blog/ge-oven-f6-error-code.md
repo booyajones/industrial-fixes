@@ -17,8 +17,7 @@ money_part: "GE oven keypanel or touchpad assembly"
 part_price: "$80-200"
 ---
 
-## GE Oven F6 Error Code — What It Means
-
+## What this code means
 On GE ranges and wall ovens, the F6 error code signals a problem with the keypanel or touchpad. GE's published guidance identifies this as an electronic oven control fault and states that the keypanel often needs to be replaced. This code is specific to GE appliances and does not share the same meaning as F6 codes on other brands like Whirlpool, so troubleshooting steps from other manufacturers do not apply here.
 
 GE recommends that a trained service technician diagnose and correct the fault. The code typically appears when the control board detects a shorted button, a failed touchpad membrane, or a fault in the wiring between the keypanel and the electronic control board.
@@ -26,8 +25,6 @@ GE recommends that a trained service technician diagnose and correct the fault. 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the electronic oven control board first, but GE says the keypanel is the most common cause of F6. Inspect the keypanel connector and harness for damage or contamination before replacing the control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

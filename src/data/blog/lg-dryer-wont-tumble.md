@@ -19,8 +19,6 @@ When an LG dryer won't tumble, the drum is not being driven even though the unit
 
 The drive system relies on a belt around the drum, an idler tensioner, and a motor. If any of these components fail or if the belt comes off track, the drum stays stationary. A door that is not fully latched or a power supply problem can also prevent the cycle from starting, but the root issue in a true no-tumble complaint is usually on the drive side.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Broken or off-track drive belt** The belt may have snapped, slipped off the motor pulley, or become dislodged from the drum, leaving the drum free to spin by hand but not under power.
@@ -71,10 +69,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 If you are not comfortable removing panels, testing electrical continuity, or handling the motor and control board, call a qualified appliance technician. Drive belt replacement is straightforward for many DIYers, but diagnosing a failed microswitch, motor, or control board requires test equipment and experience with LG's wiring. If the dryer is still under warranty or you cannot identify the failed component after inspecting the belt and motor, professional service is the best path forward.
-
-## See Also
-
-- [LG Dishwasher Turbidity Sensor Replacement - Signs & How-To](/posts/lg-dishwasher-turbidity-wash-sensor-replacement/)
-- [LG Dishwasher Error IE — Water Inlet Fix](/posts/lg-dishwasher-error-ie/)
-- [LG Dishwasher HE Error Code - Causes & Fix](/posts/lg-dishwasher-he-error-code/)
-- [LG Oven Door Won't Lock - Causes & Fix](/posts/lg-oven-door-wont-lock/)

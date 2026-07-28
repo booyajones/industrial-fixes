@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "Serial communication cable"
 ---
 
-## Yaskawa GA800 E67 Fault — What It Means
-
+## What this code means
 E67 on a Yaskawa GA800 VFD is a serial communication transmission error. The drive has lost or cannot establish proper communication over its serial link. This fault typically points to a problem in the physical wiring, termination, or connection of the communication cable, or in the option card if a network module is installed.
 
 The GA800 will trigger E67 when it detects incorrect comms wiring, an open or disconnected comms cable, or a short circuit in the comms conductors. It can also appear if a communication option board is not fully seated or has damaged pins. The drive cannot continue normal operation until the communication path is restored and the fault is cleared.
@@ -24,8 +23,6 @@ The GA800 will trigger E67 when it detects incorrect comms wiring, an open or di
 ## Before You Replace Anything
 
 Technicians sometimes replace the communication option card or even the main control board before checking the field wiring. Always inspect the comm cable end to end for loose terminals, reversed conductors, and shorts before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or system integrator if you are not familiar with industrial serial communication standards, do not have wiring diagrams for the drive and network, or if the fault persists after verifying cable continuity and option card seating. Communication troubleshooting often requires specialized test equipment, knowledge of network topology, and access to Yaskawa's support resources. If the drive is part of a larger automation system, involve the controls engineer or original installer to avoid disrupting other devices on the network.
 
 **Rough cost:** A pro service call runs about $150-400 depending on cable run and option card.
-
-## See Also
-
-- [Yaskawa GA800 E40 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e40-fault-code/)
-- [Yaskawa VFD Fault SC — Causes & Fix](/posts/yaskawa-vfd-fault-sc/)
-- [Yaskawa A1000 oL6 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol6-fault-code/)
-- [Yaskawa A1000 AL-31 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-31-fault-code/)

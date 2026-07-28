@@ -19,8 +19,6 @@ When your Whirlpool washer overflows, the machine is continuing to fill past the
 
 The problem lies somewhere in the water-level sensing and control circuit. Either the inlet valve is stuck open and won't stop water flow, the pressure system can't detect the actual water level, or the control board is failing to cut power to the valve when it should.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Water inlet valve stuck open or leaking** This is the most common cause, and if water still flows into the tub with the washer unplugged the valve is mechanically defective and must be replaced.

@@ -17,8 +17,6 @@ money_part: "Air regulator / dryer service"
 
 The Haas VF-2 is one of the most common vertical machining centers in North American shops. Most VF-2 alarm traffic falls into a handful of categories: servo following errors, tool changer faults, spindle drive faults, overtravel alarms, and operator setup mistakes. The exact alarm number matters, but the machine family has predictable patterns.
 
-[Jump to Fix](#fix)
-
 ## Common Haas VF-2 Alarm Groups
 
 | Code | Meaning |
@@ -63,18 +61,3 @@ The Haas VF-2 is one of the most common vertical machining centers in North Amer
 ## When to Call a Pro
 
 A VF-2 that has had a crash or repeated servo alarms deserves careful mechanical inspection before you keep resetting alarms. Shops lose more time by ignoring binding and then burning up an amplifier than by stopping early and checking the axis.
-
-## Related Articles
-
-- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
-- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
-- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
-- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
-
-## See Also
-
-- [Haas Alarm 118 — Spindle Orientation Fault Causes & Fix](/posts/haas-alarm-118/)
-- [Haas SL-20 Lathe Common Alarms — What They Mean and How to Fix Them](/posts/haas-sl-20-lathe-alarms/)
-- [Haas Alarm 103 Overheating — CNC Machine Thermal Fault Diagnosis and Fix](/posts/haas-alarm-103-overheating/)
-- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)

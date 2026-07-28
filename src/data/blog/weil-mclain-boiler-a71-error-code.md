@@ -17,8 +17,7 @@ free_checks:
   - "Inspect the condensate trap and drain line for blockages or standing water that can trigger a safety lockout."
 ---
 
-## Weil-McLain A71 Error Code — What It Means
-
+## What this code means
 Weil-McLain does not publish a universal A71 fault code across all boiler models and control platforms. The exact meaning depends on your specific model and its control board. Weil-McLain service manuals make clear that fault interpretation is model-specific and should come from the boiler's own diagnostics menu and service documentation, not from generic code lists.
 
 In practice, fault codes on Weil-McLain condensing boilers that relate to ignition or flame proving often trace back to flame sensor issues, ignition electrode problems, gas supply faults, or venting blockages. To determine what A71 means on your unit, enter the diagnostics or fault history menu on the control panel and retrieve the stored error name. Then cross-reference that name in your model's installation and service manual. Without the exact model and control type, any repair attempt would be guesswork.
@@ -26,8 +25,6 @@ In practice, fault codes on Weil-McLain condensing boilers that relate to igniti
 ## Before You Replace Anything
 
 Technicians sometimes replace the ignition control board when the real cause is a dirty or misaligned flame rod. Clean and inspect the flame sensor and ignition electrode first before ordering any control module.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a licensed heating technician if you are uncomfortable working with gas appliances, if the fault history reveals multiple errors or an unfamiliar fault name, or if cleaning the flame sensor and checking gas pressure does not resolve the lockout. Gas combustion work requires specialized tools (manometer, combustion analyzer) and training. A technician can safely measure gas pressure, test flame signal with a microamp meter, inspect the ignition control board, and verify venting and airflow according to Weil-McLain's service procedures. Because the exact meaning of A71 depends on your specific model and control, professional diagnosis with the correct service manual is the surest path to a lasting repair.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Weil-McLain A12 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a12-error-code/)
-- [Weil-McLain Boiler A73 Error - Causes & Fix](/posts/weil-mclain-boiler-a73-error-code/)
-- [Weil-McLain A161 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a161-error-code/)
-- [Weil-McLain Boiler A70 Error - Causes & Fix](/posts/weil-mclain-boiler-a70-error-code/)

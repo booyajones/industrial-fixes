@@ -17,8 +17,7 @@ money_part: "Touchpad assembly (also called keypad or control overlay)"
 part_price: "$40-120"
 ---
 
-## Samsung Microwave C-F2 Error Code — What It Means
-
+## What this code means
 The C-F2 code (sometimes displayed as -tE- or -TE-) indicates abnormal communication at the touch key interface. Samsung's official code table identifies this as a communication fault between the touchpad or keypad assembly and the main control electronics. The control board cannot exchange valid data with the touch panel, or a key is being read as stuck or shorted.
 
 Samsung notes that a key held down for more than ten seconds can trigger the code, and that dust or water contamination on the button surface is a common contributor. Most information codes require technician verification if they persist after a power reset and cleaning.
@@ -26,8 +25,6 @@ Samsung notes that a key held down for more than ten seconds can trigger the cod
 ## Before You Replace Anything
 
 Many users replace the main control board first when the real fault is simply a dirty or moisture-damaged touchpad assembly. Always clean the keypad surface, inspect the ribbon cable connector, and reseat the harness before ordering a new control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

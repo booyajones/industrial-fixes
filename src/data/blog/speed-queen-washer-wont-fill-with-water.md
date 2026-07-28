@@ -17,8 +17,6 @@ tags:
 
 A Speed Queen washer that won't fill with water is a symptom, not a fault code. The machine is being told to start a wash cycle, but water is not entering the tub because something in the supply, inlet, control, or level-sensing logic is interrupting the fill step. Speed Queen troubleshooting guidance for "washer not filling properly" points first to water supply issues, inlet valve screens and valve condition, lid switch or lid lock status, water-level controls, and then the electronic control if power is not reaching the valve during fill.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Closed or restricted water supply** Hot or cold supply valves are turned off or household water pressure is too low for the inlet valve to operate correctly.
@@ -58,12 +56,12 @@ If your appliance also shows a code on the display, these match this problem:
 - [Speed Queen Washer Du error code](/posts/speed-queen-washer-du-error-code/)
 - [Speed Queen Washer E 05 error code](/posts/speed-queen-washer-e-05-error-code/)
 - [Speed Queen Washer E 07 error code](/posts/speed-queen-washer-e-07-error-code/)
-- [Speed Queen Washer E 08 error code](/posts/speed-queen-washer-e-08-error-code/)
+- Speed Queen Washer E 08 error code
 - [Speed Queen Washer E 0D error code](/posts/speed-queen-washer-e-0d-error-code/)
-- [Speed Queen Washer E1 error code](/posts/speed-queen-washer-e1-error-code/)
+- Speed Queen Washer E1 error code
 - [Speed Queen Washer E5 error code](/posts/speed-queen-washer-e5-error-code/)
 - [Speed Queen Washer E7 error code](/posts/speed-queen-washer-e7-error-code/)
-- [Speed Queen Washer Ec 09 error code](/posts/speed-queen-washer-ec-09-error-code/)
+- Speed Queen Washer Ec 09 error code
 
 ## When to Call a Pro
 

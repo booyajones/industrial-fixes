@@ -13,11 +13,8 @@ money_part: "Servo motor thermistor / thermostat"
 most_likely_cause: "Sustained overload operation"
 ---
 
-## Haas Alarm 107 — What It Means
-
+## What this code means
 Haas alarm 107 indicates a servo motor overtemperature condition. The servo motor contains a built-in thermistor or thermostat that opens when the motor winding temperature exceeds a safe limit — typically 125–150°C depending on motor insulation class. The Haas control monitors this signal continuously; when it opens, alarm 107 fires and the machine goes to E-stop. This is a protective shutdown that prevents permanent motor insulation damage from thermal breakdown. The motor must cool before the alarm will reset, and the root cause — sustained high current from overload or poor cooling — must be addressed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,24 +41,3 @@ Haas alarm 107 indicates a servo motor overtemperature condition. The servo moto
 ## When to Call a Pro
 
 If the motor is cool and the thermistor reads correctly but alarm 107 returns within minutes of reset under normal operation, the motor may have developing insulation problems or the servo control parameters may be commanding excessive current. Haas Factory Outlet support can help differentiate between these causes.
-
-## Related Articles
-
-- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
-- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
-- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
-- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Fanuc vs Mazak CNC controls compared](/posts/fanuc-vs-mazak-cnc-controls/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Best megohmmeter for electricians](/posts/best-megohmmeter-for-electricians/)
-
-## See Also
-
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
-- [Haas Alarm 103 Overheating — CNC Machine Thermal Fault Diagnosis and Fix](/posts/haas-alarm-103-overheating/)
-- [Haas Alarm 126 — ATC Door Fault](/posts/haas-alarm-126/)
-- [Haas Alarm 114 — Spindle Over Speed Causes & Fix](/posts/haas-alarm-114/)

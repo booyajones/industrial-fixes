@@ -19,8 +19,6 @@ A mildew smell in your Samsung washer is not a fault code or electronic error. I
 
 Samsung's fix centers on removing standing water, cleaning residue from key areas, and running the washer's Self Clean cycle with liquid chlorine bleach. If the machine drains poorly or water sits in the tub after a cycle, the drain hose position or a clog is usually to blame.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door left closed between loads** Front-load washers trap humidity around the gasket and tub when the door stays shut, creating ideal conditions for mold and mildew.

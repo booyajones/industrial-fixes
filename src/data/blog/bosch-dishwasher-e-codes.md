@@ -28,8 +28,6 @@ Bosch commercial dishwashers (undercounter, door-type, and conveyor models) disp
 | E8 | Detergent system fault | Low |
 | E9 | Door lock fault | Medium |
 
-[Jump to Fix](#fix)
-
 ## Common Fixes {#fix}
 
 **E1 (water inlet):** Check supply valve is fully open. Verify supply pressure (20-80 PSI). Clean the inlet valve screen. Test solenoid coil resistance.
@@ -54,4 +52,3 @@ High-voltage heating element and control board work requires a qualified applian
 
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [Bosch dishwasher error codes](/posts/bosch-dishwasher-error-codes/)
-

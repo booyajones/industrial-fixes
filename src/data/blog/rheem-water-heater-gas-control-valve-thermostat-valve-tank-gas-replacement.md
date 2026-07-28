@@ -53,15 +53,8 @@ The gas control valve on a Rheem tank gas water heater regulates gas flow to the
 If this part is failing you may also see one of these codes:
 
 - [Rheem Water Heater A01 error code](/posts/rheem-water-heater-a01-error-code/)
-- [Rheem Water Heater Alarm 401 error code](/posts/rheem-water-heater-alarm-401-error-code/)
+- Rheem Water Heater Alarm 401 error code
 
 ## When to Call a Pro
 
 Gas appliance work involves combustible fuel, pilot safety, and proper venting. If you are not comfortable working with gas fittings, leak-checking with soap solution, or diagnosing wiring at the valve pins, hire a licensed plumber or gas technician. A pro can also verify that the fault is truly the gas control valve and not a failed display panel, blower motor (on power-vent models), or flammable vapor sensor, which share similar symptoms. Many jurisdictions require a permit and inspection for gas-control component replacement, so check your local code before starting the repair. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rheem Tankless Water Heater Control Board Replacement Guide](/posts/rheem-water-heater-control-board-pcb-main-board-tankless-replacement/)
-- [Rheem Water Heater Water Too Hot - Causes & Fix](/posts/rheem-water-heater-water-too-hot/)
-- [Rheem 401 Alarm - Causes & Fix](/posts/rheem-water-heater-alarm-401-error-code/)
-- [Rheem Furnace Error Code 57 — Causes & Fix](/posts/rheem-furnace-error-code-57/)

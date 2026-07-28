@@ -17,8 +17,6 @@ tags:
 
 On Rheem continuous-flow gas water heaters, no ignition at start-up is logged as Code 11, which Rheem defines as "Ignition failure at start up." The unit is calling for heat and the ignition sequence begins, but the burner does not establish flame within the allowed start-up window. This is different from Code 12, which is flame loss during operation. Code 11 is a start-up fault, not a pilot-light issue, and it means the igniter or gas delivery chain has failed to complete the lighting cycle when hot water is first demanded.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Low LPG bottle level or inadequate gas supply** Rheem explicitly calls out low propane bottle level or insufficient gas pressure as the primary culprit for Code 11 ignition failure at start-up.
@@ -52,15 +50,8 @@ On Rheem continuous-flow gas water heaters, no ignition at start-up is logged as
 If your appliance also shows a code on the display, these match this problem:
 
 - [Rheem Water Heater A01 error code](/posts/rheem-water-heater-a01-error-code/)
-- [Rheem Water Heater Alarm 401 error code](/posts/rheem-water-heater-alarm-401-error-code/)
+- Rheem Water Heater Alarm 401 error code
 
 ## When to Call a Pro
 
 Rheem's official guidance for recurring Code 11 is to book service. Gas solenoid testing, manifold pressure measurement, and igniter-coil replacement all involve working inside a gas appliance and should be handled by a licensed gas technician. If your reset attempt and basic vent check do not restore ignition, or if you smell gas at any point, shut off the gas supply and call a pro immediately. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rheem Furnace 5 Flashes Error Code — Flame Sensor Fault Fix](/posts/rheem-furnace-5-flashes-flame-sensor/)
-- [Rheem RTGH-95DVLN Problems & Error Codes](/posts/rheem-rtgh-95dvln-water-heater-problems/)
-- [Rheem Furnace 3 Flashes - Causes & Fix](/posts/rheem-furnace-3-flashes-error-code/)
-- [Rheem Furnace Blowing Cold Air - Causes & Fix](/posts/rheem-furnace-blowing-cold-air/)

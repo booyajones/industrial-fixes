@@ -13,11 +13,8 @@ money_part: "Encoder feedback cable"
 most_likely_cause: "Encoder feedback cable fault"
 ---
 
-## Fanuc Alarm 411 — What It Means
-
+## What this code means
 Fanuc **Alarm 411** is a **Servo Alarm** — specifically a radial direction overspeed error or a velocity control error on the servo axis indicated in the alarm message. On Fanuc 0i, 16i, and 18i controls, Alarm 411 means the servo motor speed has exceeded the rated maximum or the velocity control loop has detected an error it cannot recover from. Alarm 411 frequently appears alongside Alarm 414 (servo alarm with sub-code) and Alarm 424 (following error). The alarm stops all axis motion immediately to prevent mechanical damage.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Fanuc **Alarm 411** is a **Servo Alarm** — specifically a radial direction ove
 ## When to Call a Pro
 
 Alarm 411 root-cause diagnosis often requires oscilloscope-level servo trace analysis and Fanuc SERVO GUIDE software. Fanuc-certified service engineers and CNC machine tool dealers' service departments have this tooling and training.
-
-## Related Articles
-
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
-- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
-- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
-
-## See Also
-
-- [Fanuc P/S Alarm — Program and Syntax Error Codes Fix Guide](/posts/fanuc-ps-alarm-program-error/)
-- [Fanuc Alarm 5 — Stored Stroke Limit 2 Overtravel](/posts/fanuc-alarm-5-overtravel/)
-- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
-- [Fanuc Alarm 360 — APC Alarm Battery Low Causes & Fix](/posts/fanuc-alarm-360/)

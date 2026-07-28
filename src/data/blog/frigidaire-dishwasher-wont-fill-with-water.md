@@ -19,8 +19,6 @@ When a Frigidaire dishwasher won't fill with water, the control system is callin
 
 The machine may appear to start a cycle, the wash pump may hum, but no water enters the tub. The most common culprits are the water inlet valve itself (clogged, stuck, or electrically failed), a stuck float that falsely signals the tub is full, a door that is not registering as latched, or a house supply problem such as a closed shutoff valve or low pressure.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Water inlet valve clogged, stuck, or failed** Debris in the valve screens, a mechanically stuck diaphragm, or a burned-out solenoid coil will prevent water from entering even if voltage is present.
@@ -53,12 +51,12 @@ The machine may appear to start a cycle, the wash pump may hum, but no water ent
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Frigidaire Dishwasher I20 error code](/posts/frigidaire-dishwasher-i20-error-code/)
-- [Frigidaire Dishwasher I30 error code](/posts/frigidaire-dishwasher-i30-error-code/)
-- [Frigidaire Dishwasher I40 error code](/posts/frigidaire-dishwasher-i40-error-code/)
-- [Frigidaire Dishwasher L0 L6 error code](/posts/frigidaire-dishwasher-l0-l6-error-code/)
-- [Frigidaire Dishwasher Loc error code](/posts/frigidaire-dishwasher-loc-error-code/)
-- [Frigidaire Dishwasher Pf error code](/posts/frigidaire-dishwasher-pf-error-code/)
+- Frigidaire Dishwasher I20 error code
+- Frigidaire Dishwasher I30 error code
+- Frigidaire Dishwasher I40 error code
+- Frigidaire Dishwasher L0 L6 error code
+- Frigidaire Dishwasher Loc error code
+- Frigidaire Dishwasher Pf error code
 
 ## When to Call a Pro
 

@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "75%"
 ---
 
-## State Water Heater E101 Error — What It Means
-
+## What this code means
 The E101 error code on a State water heater indicates an ignition failure or flame loss. The unit attempted to fire but could not establish or sustain a flame because improper combustion is occurring inside the heater. The gas and air mixture is not burning correctly, which disrupts the proper air-to-fuel ratio needed for clean combustion.
 
 In the A.O. Smith product family, which includes State Water Heaters, this code specifically signals that the burner could not ignite or maintain flame due to combustion problems. The most common reason is an air intake blockage that prevents adequate airflow for proper combustion.
@@ -29,8 +28,6 @@ In the A.O. Smith product family, which includes State Water Heaters, this code 
 ## Before You Replace Anything
 
 Homeowners often replace the gas valve or igniter first, but the real cause is usually a blocked air intake or dirty air filter. Check and clean all vents and filters before replacing any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

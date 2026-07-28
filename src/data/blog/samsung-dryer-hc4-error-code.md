@@ -16,15 +16,12 @@ diy_or_pro: "diy"
 money_part: "Replacement lint screen"
 ---
 
-## Samsung HC4 Dryer Error — What It Means
-
+## What this code means
 HC4 is a heating or overheating fault code on Samsung dryers. Samsung groups HC4 with HC, hE, and 1 HC, all of which indicate the dryer is overheating. The code triggers when the internal temperature exceeds safe limits, usually because hot air cannot escape properly. On electric dryers, Samsung also notes that low voltage supply can cause insufficient heating and contribute to the fault, though restricted airflow remains the primary trigger in the field.
 
 ## Before You Replace Anything
 
 Homeowners often replace the thermistor or heating element first. Before ordering parts, clean the entire vent path and exterior hood, then check airflow at the outside vent during a test cycle-most HC4 codes clear once airflow is restored.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

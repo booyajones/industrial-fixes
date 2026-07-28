@@ -19,8 +19,6 @@ Standing water in the bottom of an LG dishwasher is a symptom of a drain problem
 
 LG also notes that a small amount of water below the filter is normal and intentional. This water acts as a trap to prevent sewer odors from entering the tub. If the standing water is above the filter or the unit displays OE, you have a real drain fault that needs attention.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged filters or food debris in the tub** Food particles and grease can block the filter assembly or the spray-arm path, preventing water from draining properly.
@@ -71,10 +69,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a pro if you have checked all filters, hoses, and connections but water still will not drain, or if the drain pump needs to be accessed and replaced. A technician can also diagnose intermittent drain faults, verify pump electrical operation, and correct complex installation issues such as improper hose routing or excessive drain-line length.
-
-## See Also
-
-- [LG WM3500CW Washer Problems & Error Codes](/posts/lg-wm3500cw-washer-problems/)
-- [LG Microwave Inverter Board Replacement - Signs & How-To](/posts/lg-microwave-inverter-board-inverter-models-replacement/)
-- [LG DLE7400WE Dryer Problems & Error Codes](/posts/lg-dle7400we-dryer-problems/)
-- [LG Oven Door Won't Lock - Causes & Fix](/posts/lg-oven-door-wont-lock/)

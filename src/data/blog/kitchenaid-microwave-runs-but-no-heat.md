@@ -19,8 +19,6 @@ A KitchenAid microwave that runs but does not heat is a symptom, not a specific 
 
 If your model displays an actual error code along with the no-heat symptom, check the owner's manual for that specific code because the meaning is model-dependent. When the turntable, fan, and light all work normally but food stays cold, the problem is usually in the high-voltage heating circuit or door interlock system.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Low power level selected** The microwave may be set to a low power level and runs but heats too weakly to be obvious.

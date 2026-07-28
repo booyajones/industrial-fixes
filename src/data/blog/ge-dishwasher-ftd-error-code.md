@@ -22,8 +22,7 @@ part_price: "$20-50"
 no_buy_pct: "60%"
 ---
 
-## GE Dishwasher FTD Error Code — What It Means
-
+## What this code means
 FTD on a GE dishwasher stands for Failure To Drain. The control board has detected that water did not empty from the tub as expected, or the water level remained too high after a drain attempt. Some GE troubleshooting resources group FTD with FED (a high-water-level condition), treating them as two sides of the same drain-fault family.
 
 When the dishwasher tries to drain and the pressure sensor or timer sees water still present, it throws the FTD code and stops the cycle. In many cases the machine actually did drain, but contamination in the pressure sensor or its hose makes the control think water is still there. In other cases, standing water really is present because the drain path is clogged or the pump has failed.
@@ -31,8 +30,6 @@ When the dishwasher tries to drain and the pressure sensor or timer sees water s
 ## Before You Replace Anything
 
 Many people replace the drain pump first when the real problem is a contaminated pressure sensor or a pinhole sensing port clogged with mineral deposits. Always clean the pressure sensor and its tiny port, and clear the entire drain path before condemning the pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

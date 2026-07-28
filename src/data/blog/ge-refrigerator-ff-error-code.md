@@ -21,8 +21,7 @@ free_checks:
 part_price: "$25-40"
 ---
 
-## GE Refrigerator FF Error Code — What It Means
-
+## What this code means
 The FF error code on a GE French Door refrigerator signals a Freezer Temperature High condition. The main control board displays this code when the freezer NTC thermistor sensor detects that the internal temperature has stayed above the safe limit (typically exceeding 15°F to 20°F) for more than 2 consecutive hours.
 
 This is a temperature alarm, not a direct fan failure code, though a failed evaporator fan can cause the temperature to climb. The code explicitly warns you to check frozen food for thawing because the compartment has warmed beyond the safe storage range.
@@ -30,8 +29,6 @@ This is a temperature alarm, not a direct fan failure code, though a failed evap
 ## Before You Replace Anything
 
 Many people replace the inverter board or compressor first. Enter service diagnostics and read the thermistor temperature. If it shows dashes instead of numbers, the sensor is failed and costs under $40.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,13 +13,10 @@ money_part: "User interface / display board"
 most_likely_cause: "Loose or improperly seated wiring harness"
 ---
 
-## State E52 Error Code — What It Means
-
+## What this code means
 The E52 error code on State tankless water heaters indicates a communications failure between the user interface (display panel) and the main control board. The two electronic components are not successfully exchanging data, so the unit locks out and stops heating until the communication issue is resolved.
 
 This is not a sensor problem or water flow issue. It is strictly a failure in the internal electronic connection that allows the display to talk to the control board. The heater will typically remain in lockout mode until you restore the communication path or replace the failed component.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

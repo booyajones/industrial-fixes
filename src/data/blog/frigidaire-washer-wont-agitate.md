@@ -19,8 +19,6 @@ A Frigidaire washer that won't agitate fills with water normally but the basket 
 
 On top-load Frigidaire units, the complaint usually narrows to the drive train, agitator hardware, motor or actuator system, or control board rather than the fill or drain circuits. Front-load models may show similar no-wash-motion symptoms if the motor, control board, or door-lock interlock fails.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Worn agitator dogs or internal agitator parts** The agitator repair kit includes internal ratcheting parts (dogs) that commonly wear out and prevent the agitator from engaging, causing a no-agitate complaint.
@@ -55,18 +53,18 @@ On top-load Frigidaire units, the complaint usually narrows to the drive train, 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Frigidaire Washer E1 error code](/posts/frigidaire-washer-e1-error-code/)
-- [Frigidaire Washer E10 error code](/posts/frigidaire-washer-e10-error-code/)
-- [Frigidaire Washer E11 error code](/posts/frigidaire-washer-e11-error-code/)
-- [Frigidaire Washer E13 error code](/posts/frigidaire-washer-e13-error-code/)
-- [Frigidaire Washer E14 error code](/posts/frigidaire-washer-e14-error-code/)
-- [Frigidaire Washer E20 error code](/posts/frigidaire-washer-e20-error-code/)
-- [Frigidaire Washer E21 error code](/posts/frigidaire-washer-e21-error-code/)
-- [Frigidaire Washer E23 error code](/posts/frigidaire-washer-e23-error-code/)
-- [Frigidaire Washer E24 error code](/posts/frigidaire-washer-e24-error-code/)
-- [Frigidaire Washer E4 error code](/posts/frigidaire-washer-e4-error-code/)
-- [Frigidaire Washer E44 error code](/posts/frigidaire-washer-e44-error-code/)
-- [Frigidaire Washer E45 error code](/posts/frigidaire-washer-e45-error-code/)
+- Frigidaire Washer E1 error code
+- Frigidaire Washer E10 error code
+- Frigidaire Washer E11 error code
+- Frigidaire Washer E13 error code
+- Frigidaire Washer E14 error code
+- Frigidaire Washer E20 error code
+- Frigidaire Washer E21 error code
+- Frigidaire Washer E23 error code
+- Frigidaire Washer E24 error code
+- Frigidaire Washer E4 error code
+- Frigidaire Washer E44 error code
+- Frigidaire Washer E45 error code
 
 ## When to Call a Pro
 

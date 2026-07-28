@@ -13,11 +13,8 @@ money_part: "Air intake screen assembly"
 most_likely_cause: "Blocked air intake screens"
 ---
 
-## State Water Heater E15 Error Code — What It Means
-
+## What this code means
 On State tankless condensing water heaters (manufactured under A. O. Smith), the E15 error code indicates a venting or airflow restriction that prevents the unit from establishing or maintaining proper combustion. The heater is shutting down because it cannot draw enough intake air or vent exhaust gases correctly. In most State and A. O. Smith tankless models, this fault is tied to blocked air intake screens, restricted vent terminations, or improper vent assembly rather than a component failure inside the unit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

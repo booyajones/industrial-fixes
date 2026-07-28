@@ -20,8 +20,6 @@ When your Whirlpool oven temperature is not accurate, it means the oven is heati
 
 Whirlpool ovens cycle their heating elements on and off to maintain temperature, so some variation is normal. If the oven consistently runs outside the expected range, the control may need a calibration offset, or there may be a problem with a heating component, the temperature sensor, or heat loss through the door seal.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Calibration offset needed** The control may be set too high or too low for your installation conditions, and Whirlpool allows adjustment up to ±30°F on most digital models.
@@ -55,18 +53,18 @@ Whirlpool ovens cycle their heating elements on and off to maintain temperature,
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Whirlpool Oven A6 error code](/posts/whirlpool-oven-a6-error-code/)
-- [Whirlpool Oven Ab error code](/posts/whirlpool-oven-ab-error-code/)
-- [Whirlpool Oven Cal error code](/posts/whirlpool-oven-cal-error-code/)
-- [Whirlpool Oven F1 E0 error code](/posts/whirlpool-oven-f1-e0-error-code/)
-- [Whirlpool Oven F1 E1 error code](/posts/whirlpool-oven-f1-e1-error-code/)
-- [Whirlpool Oven F2 E0 error code](/posts/whirlpool-oven-f2-e0-error-code/)
-- [Whirlpool Oven F2 E1 error code](/posts/whirlpool-oven-f2-e1-error-code/)
-- [Whirlpool Oven F3 E0 error code](/posts/whirlpool-oven-f3-e0-error-code/)
-- [Whirlpool Oven F3 E1 error code](/posts/whirlpool-oven-f3-e1-error-code/)
-- [Whirlpool Oven F5 E0 error code](/posts/whirlpool-oven-f5-e0-error-code/)
-- [Whirlpool Oven F5 E1 error code](/posts/whirlpool-oven-f5-e1-error-code/)
-- [Whirlpool Oven F7 error code](/posts/whirlpool-oven-f7-error-code/)
+- Whirlpool Oven A6 error code
+- Whirlpool Oven Ab error code
+- Whirlpool Oven Cal error code
+- Whirlpool Oven F1 E0 error code
+- Whirlpool Oven F1 E1 error code
+- Whirlpool Oven F2 E0 error code
+- Whirlpool Oven F2 E1 error code
+- Whirlpool Oven F3 E0 error code
+- Whirlpool Oven F3 E1 error code
+- Whirlpool Oven F5 E0 error code
+- Whirlpool Oven F5 E1 error code
+- Whirlpool Oven F7 error code
 
 ## When to Call a Pro
 

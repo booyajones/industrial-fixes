@@ -17,8 +17,7 @@ free_checks:
   - "Check for moisture, oil, or debris in the motor junction box and cable tray"
 ---
 
-## Yaskawa GA800 F019 Fault — What It Means
-
+## What this code means
 The fault code F019 is not defined in the Yaskawa GA800 VFD fault code system. F019 is a ground short circuit fault used by Schneider Electric ATV310 and ATV610 drives, not Yaskawa equipment. The Yaskawa GA800 uses different fault codes, typically two-character alphanumeric codes such as OC1 (overcurrent), UV1 (undervoltage), SC1 (ground fault), and TH (thermal alarm). If you see F019 displayed on a Yaskawa GA800, verify that the drive is actually a Yaskawa model and consult the Maintenance & Troubleshooting Manual for the correct fault code list. Applying Schneider-specific troubleshooting to a Yaskawa drive can lead to incorrect diagnosis and unnecessary component replacement.
 
 If you have a Schneider ATV drive displaying F019, the code indicates the drive detected a short circuit between the motor winding and ground. This is a critical protective fault that prevents damage to the drive and motor. Common triggers include motor insulation breakdown, damaged power cables, moisture contamination, or wiring errors that create an unintended ground path.
@@ -26,8 +25,6 @@ If you have a Schneider ATV drive displaying F019, the code indicates the drive 
 ## Before You Replace Anything
 
 Technicians sometimes replace the motor when F019 appears on Schneider drives, but the fault can be caused by damaged cables or loose connections. Always measure insulation resistance on the motor and cables separately before ordering a new motor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

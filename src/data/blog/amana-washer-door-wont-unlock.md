@@ -19,8 +19,6 @@ When an Amana front-load washer door won't unlock, the control is almost always 
 
 Even without an error code, the door can stay locked for up to five minutes after the cycle ends while the washer finishes its drain and spin-down. The lock will not release until the control confirms all water is gone and motion has stopped. If the drain hose is kinked, clogged, or installed wrong, water stays in the tub and the door stays locked.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Water still in the tub or drain cycle running** The door will not unlock until all water has drained and the control finishes its internal drain routine, which can take 8 to 10 minutes.
@@ -61,7 +59,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Amana Washer F8 E1 error code](/posts/amana-washer-f8-e1-error-code/)
 - [Amana Washer F8 E2 error code](/posts/amana-washer-f8-e2-error-code/)
 - [Amana Washer F9 E1 error code](/posts/amana-washer-f9-e1-error-code/)
-- [Amana Washer Fd error code](/posts/amana-washer-fd-error-code/)
+- Amana Washer Fd error code
 - [Amana Washer Hc error code](/posts/amana-washer-hc-error-code/)
 - [Amana Washer Ldl error code](/posts/amana-washer-ldl-error-code/)
 - [Amana Washer Ldu error code](/posts/amana-washer-ldu-error-code/)

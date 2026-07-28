@@ -13,13 +13,10 @@ money_part: "Siemens Micromaster I/O expansion board"
 most_likely_cause: "I/O board not fully seated"
 ---
 
-## Siemens Micromaster F0022 — What It Means
-
+## What this code means
 F0022 on the Siemens Micromaster 420, 430, and 440 series means 'hardware monitoring active,' which is a power-stack hardware fault rather than a simple alarm or parameter error. The drive's internal diagnostics set P0947 to 22 and P0949 to 1, but the code itself does not point to a single failed component. Instead, F0022 is shared across several monitored conditions inside the inverter.
 
 The documented hardware faults that trigger F0022 include DC-link overcurrent or IGBT short circuit, braking chopper short circuit, earth fault on the output side, or an I/O board that is not fully seated. If the fault appears sporadically rather than holding permanently, treat it like an overcurrent event caused by sudden load changes, mechanical blockages, ramp times set too short, poor sensorless vector control tuning, or an incorrect braking resistor with resistance too low.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ The documented hardware faults that trigger F0022 include DC-link overcurrent or
 ## When to Call a Pro
 
 Call a qualified drives technician or Siemens service center if the fault remains after you have reseated the I/O board and disconnected all motor cables, because a persistent F0022 with no external wiring points to an internal IGBT, DC-link capacitor, or braking chopper failure that requires specialized test equipment and parts. Also reach out for help if the fault is sporadic and you are not confident tuning sensorless vector control or selecting braking components, since incorrect settings can damage the drive or motor. Drives still under warranty should be diagnosed by Siemens to preserve coverage.
-
-## See Also
-
-- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
-- [Siemens Micromaster F0222 - Causes & Fix](/posts/siemens-micromaster-f0222-fault-code/)
-- [Siemens Micromaster F0020 - Causes & Fix](/posts/siemens-micromaster-f0020-fault-code/)
-- [Siemens G120 F0015 Fault - Causes & Fix](/posts/siemens-g120-vfd-f0015-fault-code/)

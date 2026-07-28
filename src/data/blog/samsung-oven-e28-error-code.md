@@ -17,8 +17,7 @@ money_part: "Oven temperature sensor / thermistor"
 part_price: "$15-40"
 ---
 
-## Samsung Oven E28 Error Code — What It Means
-
+## What this code means
 E28 on a Samsung oven or range indicates a temperature sensor short circuit. The oven thermistor, which monitors cavity temperature, is reading abnormally low resistance or has developed a short path to ground. The code belongs to the broader family of temperature sensor faults. Samsung's system expects the sensor to read around 1080 Ω at room temperature (25 °C). When the reading drops below roughly 930 Ω, the control board logs E28 and may disable baking or roasting functions to prevent unsafe operation.
 
 While some information codes clear with a simple power reset, E28 almost always signals a component failure rather than a glitch. The sensor itself is the usual culprit, but damaged wiring or a faulty control board input can also pull resistance low enough to trip the code.
@@ -26,8 +25,6 @@ While some information codes clear with a simple power reset, E28 almost always 
 ## Before You Replace Anything
 
 Many people replace the main control board first when the real problem is a $20 sensor. Always measure the thermistor resistance at room temperature with a multimeter before ordering any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

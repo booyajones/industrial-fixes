@@ -58,27 +58,3 @@ On some Daikin models, E1 can also indicate a communication error between the in
 If thermistor resistance tests normal, connectors are clean and seated, and E1 persists — the fault is inside the PCB itself. Daikin PCB diagnostics require the service manual for your specific model (not a generic Daikin manual — get the one for your exact model number). Board replacement is possible as a DIY job if you're comfortable with electronics, but sourcing the right part number is critical — the wrong board will throw E1 immediately. Tell the tech: "E1 fault, both thermistors test within 10% of spec, connectors are clean. I need a board-level diagnosis."
 
 > **Pro tip:** If your Daikin unit is throwing E1 specifically after rain events or in high-humidity months, check the drain pan and evaporator coil for signs that condensate has been dripping toward the PCB. A unit with a clogged drain that overflowed can silently damage the PCB over multiple events before E1 becomes a permanent fault. Fix the drain first, then assess the board.
-
-## Related Articles
-
-- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
-- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
-- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
-- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
-- [Daikin E3 Error Code — Causes & Fix](/posts/daikin-e3-error-code/)
-
-<!-- INTERNAL-LINK-AUTO -->
-**Related:** [Rheem EcoNet A101 error code fix](/posts/rheem-econet-a101-error-code/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Mitsubishi mini split P5 drain fault](/posts/mitsubishi-p5-error-code/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Daikin U4 indoor-outdoor comm fault](/posts/daikin-error-code-u4/)
-
-## See Also
-
-- [Daikin VRV E7 Error Code — Causes & Fix](/posts/daikin-vrv-e7-error-code/)
-- [Daikin F9 Error Code — Heat Exchanger Temp Sensor Fault: Causes & Fix](/posts/daikin-f9-error-code/)
-- [Daikin RXYQ VRV System Error Codes — Complete Fault Code Guide](/posts/daikin-rxyq-error-codes/)
-- [Daikin Mini Split Error Codes — Complete Reference](/posts/daikin-mini-split-error-codes/)

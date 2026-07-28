@@ -17,8 +17,6 @@ tags:
 
 When your LG dishwasher won't drain, water stays pooled in the bottom of the tub at the end of a cycle. The unit has detected that water is not exiting the tub as expected. LG ties this drain problem to issues in the hose, filter, air gap, disposal connection, or drain pump. You may see standing water after the wash or rinse, and the door may show an OE error code on some models.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Kinked or pinched drain hose** The hose behind or under the unit is bent sharply or crushed, blocking water flow.
@@ -50,26 +48,19 @@ When your LG dishwasher won't drain, water stays pooled in the bottom of the tub
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Lg Dishwasher Ae error code](/posts/lg-dishwasher-ae-error-code/)
-- [Lg Dishwasher Be error code](/posts/lg-dishwasher-be-error-code/)
-- [Lg Dishwasher Ce error code](/posts/lg-dishwasher-ce-error-code/)
-- [Lg Dishwasher Cr error code](/posts/lg-dishwasher-cr-error-code/)
+- Lg Dishwasher Ae error code
+- Lg Dishwasher Be error code
+- Lg Dishwasher Ce error code
+- Lg Dishwasher Cr error code
 - [Lg Dishwasher E1 error code](/posts/lg-dishwasher-e1-error-code/)
-- [Lg Dishwasher Fe error code](/posts/lg-dishwasher-fe-error-code/)
-- [Lg Dishwasher He error code](/posts/lg-dishwasher-he-error-code/)
-- [Lg Dishwasher Ie error code](/posts/lg-dishwasher-ie-error-code/)
-- [Lg Dishwasher Le error code](/posts/lg-dishwasher-le-error-code/)
-- [Lg Dishwasher Ne error code](/posts/lg-dishwasher-ne-error-code/)
-- [Lg Dishwasher Oe error code](/posts/lg-dishwasher-oe-error-code/)
-- [Lg Dishwasher Pe error code](/posts/lg-dishwasher-pe-error-code/)
+- Lg Dishwasher Fe error code
+- Lg Dishwasher He error code
+- Lg Dishwasher Ie error code
+- Lg Dishwasher Le error code
+- Lg Dishwasher Ne error code
+- Lg Dishwasher Oe error code
+- Lg Dishwasher Pe error code
 
 ## When to Call a Pro
 
 Call a pro if you have verified the hose, filter, and disposal connection are all clear but water still will not drain, or if the drain pump runs but no water moves. A technician can test pump voltage, check for control board faults, and replace the pump or wiring harness safely. Also call for help if you are uncomfortable working under the sink, moving the dishwasher, or accessing electrical components inside the unit.
-
-## See Also
-
-- [LG Dishwasher tE Error Code - Causes & Fix](/posts/lg-dishwasher-te-error-code/)
-- [LG Mini Split CH35 Error Code - Causes & Fix](/posts/lg-mini-split-ch35-error-code/)
-- [LG DLE7400WE Dryer Problems & Error Codes](/posts/lg-dle7400we-dryer-problems/)
-- [LG Microwave Runs but No Heat - Causes & Fix](/posts/lg-microwave-runs-but-no-heat/)

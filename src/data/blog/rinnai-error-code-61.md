@@ -13,11 +13,8 @@ money_part: "Combustion fan assembly"
 most_likely_cause: "Failed combustion fan motor"
 ---
 
-## Rinnai Error Code 61 — What It Means
-
+## What this code means
 Rinnai error code 61 indicates a **combustion fan (inducer) fault** — the unit's PCB commanded the fan to start but didn't receive the expected speed feedback (typically via a Hall effect sensor in the motor) within the startup window. The combustion fan must prove adequate airflow before the gas valve opens for ignition; without confirmed fan operation, code 61 locks out the unit to prevent unsafe combustion or gas accumulation. This is one of the more common Rinnai fault codes on units over 5 years old.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Rinnai error code 61 indicates a **combustion fan (inducer) fault** — the unit
 ## When to Call a Pro
 
 Combustion fan replacement on Rinnai units requires working near the gas valve and burner assembly. If you're not comfortable with gas appliance service, have a Rinnai-certified technician handle the repair. Always verify gas is off before opening the combustion chamber.
-
-## Related Articles
-
-- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
-- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
-- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
-- [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
-- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)
-
-## See Also
-
-- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
-- [Rinnai Error Code 07 — Heat Exchanger High Temperature Fix](/posts/rinnai-error-code-07/)
-- [Rinnai Error Code 32 — Causes & Fix](/posts/rinnai-error-code-32/)
-- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)

@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Samsung dishwasher control panel / user-interface board"
 ---
 
-## Samsung Dishwasher AP Error Code — What It Means
-
+## What this code means
 The AP code on a Samsung dishwasher stands for Access Point mode. This means the dishwasher has entered a Wi-Fi connectivity or smart-device pairing state, usually for linking to SmartThings or another mobile app. It is not a water, drain, leak, heater, or motor failure code.
 
 If you are not intentionally trying to connect the dishwasher to a smart device, Samsung recommends turning the unit off and then back on. If the code clears after the power cycle, no mechanical repair is needed and the dishwasher can resume normal operation.
@@ -25,8 +24,6 @@ If you are not intentionally trying to connect the dishwasher to a smart device,
 ## Before You Replace Anything
 
 Do not replace the control board or any other component for an AP code alone. Samsung treats AP as a connectivity state, not a hardware failure. A simple power cycle clears the code in most cases.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

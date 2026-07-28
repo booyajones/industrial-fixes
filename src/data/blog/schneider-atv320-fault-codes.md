@@ -17,8 +17,6 @@ money_part: "Braking resistor"
 
 The Schneider Electric Altivar 320 (ATV320) is a variable speed drive for simple machine applications — conveyors, compressors, mixers, and hoists. It is the successor to the Altivar 312 and shares its compact format and ease-of-use design. The ATV320 displays fault codes as alphanumeric strings on its integrated display (or on the optional SoMove software via USB or Bluetooth). Fault codes appear in the format of short text strings — different from the F-number format used by Siemens or Danfoss.
 
-[Jump to Fix](#fix)
-
 ## Schneider ATV320 Fault Code Reference
 
 | Code | Fault |

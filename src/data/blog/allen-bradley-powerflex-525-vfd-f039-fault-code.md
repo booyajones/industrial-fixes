@@ -18,8 +18,7 @@ free_checks:
   - "Inspect motor junction box and drive output terminals for loose connections, moisture, or debris causing a ground path"
 ---
 
-## Allen-Bradley PowerFlex 525 F039 — What It Means
-
+## What this code means
 F039 on an Allen-Bradley PowerFlex 525 means the drive has detected a phase-to-ground fault on output phase V between the drive and the motor, or inside the motor itself. This is an output-side ground fault, not an input-line fault. Rockwell groups it with similar faults for the other two output phases (F038 for phase U, F040 for phase W).
 
 The fault tells you that somewhere in the V-phase circuit from the drive output terminal through the motor cable to the motor winding, insulation has broken down and phase V is now connected to ground. The drive shuts down to protect itself and the motor. You need to isolate which component has failed: the motor cable, the motor itself, or in rare cases the drive output stage.
@@ -27,8 +26,6 @@ The fault tells you that somewhere in the V-phase circuit from the drive output 
 ## Before You Replace Anything
 
 Technicians sometimes replace the drive immediately without testing the motor and cable first. A simple insulation resistance test (megger) on the motor and V-phase cable will identify the grounded component and prevent replacing a healthy drive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or industrial technician immediately. F039 requires high-voltage isolation, insulation resistance testing with a megger, and diagnosis of three-phase motor and drive circuits. The fault can indicate a failing motor, damaged cable insulation, or a defective drive output stage. Testing requires lockout/tagout procedures, appropriate PPE, and test equipment. If the motor or cable is grounded, replacement or repair involves sizing and terminating three-phase power conductors. If the drive itself has failed, replacement involves VFD parameter programming and commissioning. This is not a DIY repair.
 
 **Rough cost:** A pro service call runs about $200-800 depending on whether the motor cable needs replacement, the motor needs rewinding or replacement, or the drive power section has failed.
-
-## See Also
-
-- [Allen-Bradley PowerFlex 525 F080 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f080-fault-code/)
-- [Allen-Bradley PowerFlex 525 F042 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f042-fault-code/)
-- [Allen-Bradley PowerFlex 525 F101 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f101-fault-code/)
-- [Allen-Bradley PowerFlex F081 Fault — Communication Loss Fix](/posts/allen-bradley-powerflex-f081-fault/)

@@ -21,15 +21,12 @@ part_price: "$25-50"
 no_buy_pct: "45%"
 ---
 
-## Maytag F5E1 Error Code — What It Means
-
+## What this code means
 The F5E1 error code indicates a door or lid switch failure on your Maytag washer. The control board cannot verify that the door has locked properly when a cycle starts or cannot confirm the door has unlocked when the cycle ends. This safety interlock prevents the machine from operating until the switch signals correctly. According to Maytag product help, the code appears when the door is not entirely closed or something is blocking the door switch, such as clothing, tags, or shipping material. The washer will not start a wash cycle until this condition is resolved.
 
 ## Before You Replace Anything
 
 Homeowners often replace the control board when the real problem is a failed lid switch assembly. A simple multimeter resistance check on the switch (infinite resistance when open, near zero when closed) confirms whether the switch itself is defective before spending money on a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Washer F8 E2 Error Code — What It Means
-
+## What this code means
 The F8 E2 error code on an Amana front-load washer signals a Dispenser System Error. The control board detects that the dispenser motor cannot reach or hold the correct position when trying to move the detergent drawer mechanism. The washer halts the fill cycle or prevents detergent from flushing into the tub because the system cannot confirm the drawer is in the open or flush position.
 
 Whirlpool, Amana's parent company, defines this fault as the dispenser motor being unable to reach the desired position. The problem is almost always mechanical rather than electrical. The drawer or its linkage is blocked, jammed, or disconnected, preventing normal movement.
@@ -26,8 +25,6 @@ Whirlpool, Amana's parent company, defines this fault as the dispenser motor bei
 ## Before You Replace Anything
 
 Homeowners sometimes replace the dispenser motor or control board first. Instead, pull the drawer and inspect for caked detergent or broken linkage arms, which solve the problem in most cases.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -19,8 +19,6 @@ A Frigidaire washer leaking water is not a fault code. It is a symptom that requ
 
 The repair you perform depends entirely on where the leak originates. Common causes include loose or damaged inlet hoses, missing or damaged O-ring gaskets at hose connections, cracked blue or red inlet connectors on the washer itself, unsecured or damaged drain hoses, clogged home drains or standpipes, shipping materials that were never removed, and a washer that is not level.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Damaged or loose water inlet hoses** The inlet hoses at the back of the washer can loosen over time or develop cracks, causing water to drip or spray during fill cycles.

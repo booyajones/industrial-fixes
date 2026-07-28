@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Electrolux Washer E62 Error Code — What It Means
-
+## What this code means
 The E62 error code on Electrolux and Frigidaire-family washers indicates a heating or overheat fault in the wash-water temperature circuit. Electrolux groups E60, E61, and E62 together as general heating problems. Repair sources describe E62 specifically as water overheating during the wash cycle, pointing to the temperature sensor, heater, wiring, or control board as the fault path.
 
 This is not a drain error. The machine has detected that the wash water temperature is outside the expected range, either because the heater is staying on too long, the temperature sensor (NTC thermistor) is reading incorrectly, or the control board is not managing the heater properly. In some cases, improper fill or circulation can contribute to abnormal heating behavior, so water inlet or pressure-sensing issues may also trigger this code.
@@ -26,8 +25,6 @@ This is not a drain error. The machine has detected that the wash water temperat
 ## Before You Replace Anything
 
 Many people replace the main control board first, but a simple resistance check of the NTC sensor and heater element with a multimeter will identify the failed component and save hundreds of dollars.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

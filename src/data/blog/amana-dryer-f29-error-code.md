@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Dryer F29 Error Code — What It Means
-
+## What this code means
 F29 on Amana dryers indicates a moisture-sensor circuit fault detected by the control board. Whirlpool builds these dryers, and the manufacturer treats F29 as a control-detected issue requiring a power reset and timed-dry retest rather than a simple airflow or vent blockage. The code typically points to dirty or shorted moisture sensor bars, damaged wiring, or a fault in the main control itself.
 
 The moisture sensor bars sit at the lint-screen or drum opening and measure fabric dryness by detecting conductivity between the metal electrodes. Detergent residue, fabric-softener film, or contamination on the bars can cause false readings or short the circuit, triggering F29. Loose connectors or broken wires in the sensor harness can also generate the fault. If the sensor and wiring test good and the code persists after cleaning and reset, the main control board is the remaining point of failure.
@@ -25,8 +24,6 @@ The moisture sensor bars sit at the lint-screen or drum opening and measure fabr
 ## Before You Replace Anything
 
 Many people replace the main control board first when F29 appears. Clean the moisture sensor bars and inspect the sensor wiring before ordering any boards, because film or a loose connector causes the majority of F29 faults.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

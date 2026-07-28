@@ -22,8 +22,7 @@ part_price: "$3-8"
 no_buy_pct: "30%"
 ---
 
-## Trane E12 Error Code — What It Means
-
+## What this code means
 The E12 error code on a Trane gas furnace (and its sibling brand American Standard) means the control board has detected an open circuit, which indicates a blown fuse in the low-voltage power supply. This code is typically triggered by a wiring short or low airflow conditions that cause the system to draw excessive current. The furnace will not operate or ignite until the fuse is restored and the underlying cause is resolved.
 
 In most service cases, the blown fuse is not a simple aging failure but rather the result of a short circuit caused by disconnecting wires while the system was still powered, or by restricted airflow that led to electrical irregularities. The fuse acts as a sacrificial safety device to protect the control board from more serious damage.
@@ -31,8 +30,6 @@ In most service cases, the blown fuse is not a simple aging failure but rather t
 ## Before You Replace Anything
 
 Many homeowners replace the entire control board when only the fuse is blown. Always test and replace the fuse first (a few dollars) and look for shorted wires before spending hundreds on a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -81,10 +78,3 @@ Answer these to narrow it down fast.
 Call a professional if the fuse blows again immediately after replacement and you cannot locate a wiring short, or if you are uncomfortable working inside the furnace cabinet. A qualified HVAC technician can trace low-voltage circuits with precision tools, test the transformer on the control board, and replace the board if it has failed. Also call a pro if you notice any other error codes appear after clearing the E12, or if the furnace runs but does not produce heat after the fuse is replaced. While replacing a fuse is straightforward, diagnosing hidden shorts or transformer failures requires experience and test equipment.
 
 **Rough cost:** DIY runs about $5-20 in parts, 30-60 min. A pro service call runs about $150-300.
-
-## See Also
-
-- [Trane XV20i Error Code 79: Communicating Thermostat Fault Fix](/posts/trane-error-79-xv20i/)
-- [Trane XR15 Heat Pump Error Codes — Complete Guide](/posts/trane-xr15-error-codes/)
-- [Trane Heat Pump E9 Error Code - Causes & Fix](/posts/trane-heat-pump-e9-error-code/)
-- [Trane AC E2 Error Code — Sensor and Communication Fault Fix](/posts/trane-e2-ac-sensor-fault/)

@@ -19,8 +19,6 @@ A Maytag refrigerator that is not cooling is a symptom, not a single fault code.
 
 The refrigerator and freezer should hold 37°F and 0°F respectively under normal operation. When cooling stops, the fresh food section warms first, followed by the freezer if the compressor or refrigerant system has failed. Blocked vents, dirty coils, and door gasket leaks will allow warm air in and prevent the cabinet from reaching target temperatures even if the compressor runs.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Power source off or breaker tripped** The unit is unplugged or the circuit breaker has opened, cutting all power to the refrigerator.
@@ -55,18 +53,18 @@ The refrigerator and freezer should hold 37°F and 0°F respectively under norma
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Maytag Refrigerator C1 error code](/posts/maytag-refrigerator-c1-error-code/)
-- [Maytag Refrigerator C2 error code](/posts/maytag-refrigerator-c2-error-code/)
-- [Maytag Refrigerator C3 error code](/posts/maytag-refrigerator-c3-error-code/)
-- [Maytag Refrigerator C4 error code](/posts/maytag-refrigerator-c4-error-code/)
-- [Maytag Refrigerator C5 error code](/posts/maytag-refrigerator-c5-error-code/)
-- [Maytag Refrigerator C6 error code](/posts/maytag-refrigerator-c6-error-code/)
-- [Maytag Refrigerator C7 error code](/posts/maytag-refrigerator-c7-error-code/)
-- [Maytag Refrigerator De error code](/posts/maytag-refrigerator-de-error-code/)
-- [Maytag Refrigerator Dr error code](/posts/maytag-refrigerator-dr-error-code/)
-- [Maytag Refrigerator Ff error code](/posts/maytag-refrigerator-ff-error-code/)
-- [Maytag Refrigerator Po error code](/posts/maytag-refrigerator-po-error-code/)
-- [Maytag Refrigerator Sa error code](/posts/maytag-refrigerator-sa-error-code/)
+- Maytag Refrigerator C1 error code
+- Maytag Refrigerator C2 error code
+- Maytag Refrigerator C3 error code
+- Maytag Refrigerator C4 error code
+- Maytag Refrigerator C5 error code
+- Maytag Refrigerator C6 error code
+- Maytag Refrigerator C7 error code
+- Maytag Refrigerator De error code
+- Maytag Refrigerator Dr error code
+- Maytag Refrigerator Ff error code
+- Maytag Refrigerator Po error code
+- Maytag Refrigerator Sa error code
 
 ## When to Call a Pro
 

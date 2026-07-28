@@ -54,16 +54,16 @@ The sensor typically mounts at the rear oven wall behind the range and connects 
 
 If this part is failing you may also see one of these codes:
 
-- [Frigidaire Oven F1 error code](/posts/frigidaire-oven-f1-error-code/)
-- [Frigidaire Oven F10 error code](/posts/frigidaire-oven-f10-error-code/)
-- [Frigidaire Oven F11 error code](/posts/frigidaire-oven-f11-error-code/)
-- [Frigidaire Oven F12 error code](/posts/frigidaire-oven-f12-error-code/)
-- [Frigidaire Oven F13 error code](/posts/frigidaire-oven-f13-error-code/)
-- [Frigidaire Oven F2 error code](/posts/frigidaire-oven-f2-error-code/)
-- [Frigidaire Oven F20 error code](/posts/frigidaire-oven-f20-error-code/)
+- Frigidaire Oven F1 error code
+- Frigidaire Oven F10 error code
+- Frigidaire Oven F11 error code
+- Frigidaire Oven F12 error code
+- Frigidaire Oven F13 error code
+- Frigidaire Oven F2 error code
+- Frigidaire Oven F20 error code
 - [Frigidaire Oven F26 error code](/posts/frigidaire-oven-f26-error-code/)
-- [Frigidaire Oven F3 error code](/posts/frigidaire-oven-f3-error-code/)
-- [Frigidaire Oven F30 error code](/posts/frigidaire-oven-f30-error-code/)
+- Frigidaire Oven F3 error code
+- Frigidaire Oven F30 error code
 
 ## When to Call a Pro
 

@@ -17,8 +17,6 @@ money_part: "Encoder battery"
 
 The Fanuc 0i-MD is a common machining center control used on vertical mills, horizontal machining centers, and compact CNC machines. Fanuc alarms are numeric and can come from the CNC, PMC, servo system, spindle drive, or ladder logic. The first job is to identify whether the alarm is a program issue, a motion issue, or a hardware issue.
 
-[Jump to Fix](#fix)
-
 ## Fanuc 0i-MD Common Alarm Reference
 
 | Alarm | Meaning |
@@ -63,21 +61,6 @@ The Fanuc 0i-MD is a common machining center control used on vertical mills, hor
 
 If the machine shows repeated 910 SRAM or persistent servo amplifier alarms after basic checks, back up parameters immediately and involve a Fanuc service technician or qualified CNC controls specialist.
 
-## Related Articles
-
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
-- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
-- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
-- [Fanuc Alarm 3 — Overtravel Minus Hardware Causes & Fix](/posts/fanuc-alarm-3-overtravel/)
-
-## See Also
-
-- [Fanuc Alarm 460 — Spindle Overload](/posts/fanuc-alarm-460/)
-- [Fanuc Alarm 500 — Causes & Fix](/posts/fanuc-alarm-500/)
-- [Fanuc Alarm 430 — Servo Motor Overheat Fix](/posts/fanuc-alarm-430/)
-- [Fanuc Alarm 506 — Servo Following Error Fix](/posts/fanuc-alarm-506/)
-
 ## More Fanuc 0I Md Alarm Codes fault codes
 
 Compiled from manufacturer service manuals and authorized documentation.
@@ -99,7 +82,6 @@ Compiled from manufacturer service manuals and authorized documentation.
 | SP1225 | CRC error (serial spindle) — a communications error occurred on the serial spindle link between the CNC and the spindle amplifier. | Noise, a damaged or loose serial spindle cable, grounding problems, or a failing spindle amplifier. | Reseat and inspect the serial spindle cable, check shielding and grounding, and separate the cable from noise sources before replacing hardware. |
 | PS0090 | Reference return incomplete — the zero-return (homing) operation could not be completed normally. | Return started too close to the reference point, speed too slow, grid/one-rotation signal not detected, or a feedback/encoder (or battery) issue. | Jog the axis well away from the reference position and re-run the zero return. If it still fails, check the encoder one-rotation signal and feedback cabling. |
 
-
 ## How to troubleshoot Fanuc 0I Md Alarm Codes
 
 Work a Fanuc 0i-MD alarm from the letter prefix, not just the number. The prefix tells you which subsystem raised it: **PS** program/setting, **SV** servo, **SP** serial spindle, **OT** overtravel, **OH** overheat, **DS** diagnosis, **SR** serial communication. Read the full alarm screen first, since Fanuc appends an axis letter and message text that narrow the fault fast.
@@ -114,7 +96,6 @@ Triage in this order:
 Common failure modes on this control class: servo VRDY/ready faults from an amplifier that lost enable or power, overtravel from a tripped hardware limit switch, overheat from a stopped cabinet or amplifier cooling fan, and reference-return failures after a battery event.
 
 Safety: many of these faults sit behind live 200-600 VDC bus voltages inside the amplifiers. De-energize and let the DC link discharge before opening any drive. Call a Fanuc-qualified controls technician when you see repeated SRAM/parity faults, persistent servo overcurrent or IPM alarms after basic checks, or any fault that requires editing servo/spindle parameters you do not have a backup for.
-
 
 ## Frequently asked questions
 
@@ -133,4 +114,3 @@ That points at the encoder backup battery. Fanuc keeps absolute position in batt
 ### I swapped a servo amplifier or motor and now get alarm 417 or 466. What now?
 
 417 (illegal digital servo parameter) and 466 (motor/amplifier combination incorrect) both mean the servo setup no longer matches the hardware. Restore the servo parameters from your known-good backup and confirm the motor and amplifier part numbers against the machine builder's spec. Do not guess parameter values; use the builder's parameter sheet or Fanuc service.
-

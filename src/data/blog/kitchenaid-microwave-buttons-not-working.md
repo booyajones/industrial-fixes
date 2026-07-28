@@ -19,8 +19,6 @@ When your KitchenAid microwave buttons stop responding, you're dealing with a co
 
 KitchenAid's troubleshooting guidance points to Control Lock as the first suspect when the panel won't respond. This feature disables all control pads to prevent accidental operation. If that's not the issue, a power reset often clears temporary glitches in the control board. When those steps don't solve it, you're looking at hardware failure in the touchpad, user control board, or main control board.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Control Lock enabled** The microwave's Control Lock feature is active and has disabled all control panel pads to prevent accidental operation.

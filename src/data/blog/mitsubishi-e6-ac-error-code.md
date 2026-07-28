@@ -13,11 +13,8 @@ money_part: "3-conductor shielded control cable (18 AWG)"
 most_likely_cause: "Damaged or loose control wiring"
 ---
 
-## Mitsubishi E6 AC Error Code — What It Means
-
+## What this code means
 On Mitsubishi air conditioning units (MSZ-GL, MSZ-GE, MSY, and similar cooling-only models), error code E6 indicates a communication fault between the indoor and outdoor units. The control signal wiring that carries operational commands and feedback between the two units has either lost continuity or is producing signal errors that the outdoor board can't decode. This is distinct from the E6 fault on Mitsubishi heat pump units (which involves refrigerant-side protection in some cases). On dedicated AC models, E6 is almost always a wiring or board communication issue — not a refrigerant problem.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ On Mitsubishi air conditioning units (MSZ-GL, MSZ-GE, MSY, and similar cooling-o
 ## When to Call a Pro
 
 If wiring is confirmed intact, polarities are correct, and E6 persists after a full power cycle, board-level diagnosis requires a Mitsubishi-authorized technician with Diamond tool access to read fault history and test communication signals.
-
-## Related Articles
-
-- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
-- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
-- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
-- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
-- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
-
-## See Also
-
-- [Mitsubishi FR-A800 Fault E.OC1, Overcurrent During Acceleration Fix](/posts/mitsubishi-fr-a800-fault-eoc1/)
-- [Mitsubishi U1 Error Code — Causes & Fix](/posts/mitsubishi-u1-error-code/)
-- [Mitsubishi Mini Split E6 Error Code Fix](/posts/mitsubishi-e6-error-code/)
-- [Mitsubishi Mini Split P1 Error Code Fix](/posts/mitsubishi-p1-error-code/)

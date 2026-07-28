@@ -19,8 +19,7 @@ free_checks:
   - "Check your home's circuit breaker and main panel for signs of a recent power surge or tripped breaker that could have stressed the inverter."
 ---
 
-## Daikin L5 Error Code — What It Means
-
+## What this code means
 The L5 error code on a Daikin mini split signals an output overcurrent fault on the DC side of the inverter. The protection circuit has detected a sudden current surge reaching or exceeding 32.3 A during compressor startup or operation, compared to a normal operating current of less than 15 A. This instantaneous overcurrent condition indicates a short circuit in one of three areas: the inverter board's IGBT (Insulated Gate Bipolar Transistor) or DM (Diode Module), the compressor coil itself, or a fault in the motor internal short detection circuit on the inverter PCB.
 
 This code is a shutdown fault. The unit will not operate until the underlying short is found and repaired. It always points to a hardware failure rather than a setting or sensor glitch, so troubleshooting requires electrical testing by a qualified technician.
@@ -28,8 +27,6 @@ This code is a shutdown fault. The unit will not operate until the underlying sh
 ## Before You Replace Anything
 
 Technicians sometimes replace the inverter PCB first without isolating the fault. Always disconnect the compressor and test phase resistance (U-V, V-W, W-U) before ordering a board. If compressor coil resistance is near 0 Ω or unbalanced by more than 5%, the compressor is the culprit, not the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician immediately for an L5 code. This fault involves high-voltage DC power, refrigerant-system components, and electrical diagnostics that require specialized test equipment and EPA certification. The technician will isolate whether the short is in the compressor or the inverter board by disconnecting the compressor and testing each component separately. Compressor replacement requires refrigerant recovery, brazing, vacuum, and recharge. Inverter board replacement involves working with live DC voltages above 300 V. Attempting this repair without proper training and tools risks electric shock, refrigerant release, and further damage to the system.
 
 **Rough cost:** A pro service call runs about $800-2500.
-
-## See Also
-
-- [Daikin Mini Split Blowing Warm Air - Causes & Fix](/posts/daikin-mini-split-blowing-warm-air/)
-- [Daikin L5 Error Code — Compressor Lock Fault](/posts/daikin-l5-error-code/)
-- [Daikin A1 Error Code - Causes & Fix](/posts/daikin-heat-pump-a1-error-code/)
-- [Daikin U2 Error Code — Causes & Fix](/posts/daikin-u2-error-code/)

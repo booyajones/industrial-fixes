@@ -19,8 +19,6 @@ When your Frigidaire washer fills, tumbles, and drains but refuses to enter spin
 
 Frigidaire and Electrolux washers do not use a single dedicated code for this symptom. The exact diagnosis depends on your model and any stored error codes. On some front-load units, E47 indicates the control sees an open door PTC or wax-motor circuit during spin, and E23 points to a drain pump relay or control fault rather than a direct spin motor failure.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Faulty door latch, lid switch, or door lock assembly** The door lock circuit must close before the machine is allowed to spin, and a broken latch, worn switch, or failed lock actuator will interlock the washer out of spin.

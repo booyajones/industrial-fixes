@@ -16,15 +16,12 @@ diy_or_pro: "diy"
 money_part: "Main electronic control board"
 ---
 
-## Amana Refrigerator PO Error Code — What It Means
-
+## What this code means
 On Amana refrigerators, PO is a Power Outage indicator. The control detected that power to the refrigerator was interrupted and that the freezer temperature rose to 18°F (-8°C) or higher before power returned. This is usually not a failure code by itself. It is an alert that the unit lost power and may need acknowledgment on the user interface. On these Whirlpool-family platforms used by Amana and KitchenAid, the alert typically clears after the user acknowledges the outage on the control panel. If the refrigerator is cooling normally after power returns, no repair is required.
 
 ## Before You Replace Anything
 
 Some owners replace the main control board thinking PO is a failure code. In most cases, PO is simply a notification that a real power interruption occurred and the alert clears by pressing Confirm on the control panel.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

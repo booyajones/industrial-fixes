@@ -13,11 +13,8 @@ money_part: "High-Limit Thermostat Assembly"
 most_likely_cause: "Actual water overtemperature"
 ---
 
-## Whirlpool E02 Error Code — What It Means
-
+## What this code means
 The E02 code on a Whirlpool Energy Smart water heater means the water temperature has exceeded the high-limit safety threshold and tripped the internal safety device. This is an overtemperature event, not a sensor failure. The heater shuts down to prevent scalding or damage. Whirlpool's manual directs you to reset the high-limit switch and restore power. If the code returns after reset, the unit requires professional diagnosis to determine whether the water is actually overheating or the high-limit thermostat assembly has failed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

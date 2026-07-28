@@ -21,8 +21,7 @@ part_price: "$50-100"
 no_buy_pct: "30%"
 ---
 
-## Whirlpool Oven F9 Lock Error — What It Means
-
+## What this code means
 The F9 (or F9E0) error code on a Whirlpool oven officially indicates that the electrical outlet or appliance connection may be miswired. In practice, the code almost always means the oven control board cannot confirm the door lock mechanism has engaged or disengaged as commanded. The board detects an incorrect voltage signal from the lock assembly or cannot verify the door latch position. A related code, F5 or F5E1, signals a door switch defect where the switches indicating door open and door closed do not match the mechanical state.
 
 The oven enters a safety lock state to prevent operation until the latch status can be confirmed. This is a protective measure, especially after self-clean cycles when the door must remain locked during extreme heat. The code may appear immediately after a power outage, during a self-clean cycle, or when the door fails to unlock after cleaning.
@@ -30,8 +29,6 @@ The oven enters a safety lock state to prevent operation until the latch status 
 ## Before You Replace Anything
 
 Many people replace the main control board first, but the door lock assembly and its wiring are the actual culprit in most cases. Test the lock motor and switches with a multimeter before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

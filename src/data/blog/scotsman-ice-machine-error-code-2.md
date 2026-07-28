@@ -13,11 +13,8 @@ money_part: "Hot gas valve coil or valve assembly"
 most_likely_cause: "Scaled evaporator plate"
 ---
 
-## Scotsman Ice Machine Error Code 2 — What It Means
-
+## What this code means
 Scotsman error code 2 indicates a long harvest cycle. The control board expected the evaporator plate to release the ice slab within the programmed harvest window, but harvest ran too long and timed out. On Scotsman Prodigy and Meridian platforms, that usually means the machine cannot warm the evaporator fast enough or the ice slab is hanging up instead of sliding free into the bin. In the field, code 2 usually points to scale on the evaporator, a weak hot gas harvest circuit, or a sticking curtain and bin switch setup.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Scotsman error code 2 indicates a long harvest cycle. The control board expected
 ## When to Call a Pro
 
 If harvest stays long after cleaning and the hot gas valve tests good, the machine may have a refrigerant issue or a restricted metering circuit. That work requires a licensed refrigeration technician.
-
-## Related Articles
-
-- [Scotsman C0522 Error Codes — Fix Guide](/posts/scotsman-c0522-error-codes/)
-- [Scotsman HID312 Error Codes — Fault Code Diagnostic Guide](/posts/scotsman-hid312-error-codes/)
-- [Scotsman HID525 Error Codes — Complete Guide](/posts/scotsman-hid525-error-codes/)
-- [Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/scotsman-ice-machine-complete-guide/)
-- [Scotsman Ice Machine Error Code 1 — High Pressure Cutout Fix](/posts/scotsman-ice-machine-error-code-1/)
-
-## See Also
-
-- [Scotsman 3-Flash Code — Long Harvest Cycle Fix](/posts/scotsman-3-flash-code/)
-- [Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/scotsman-ice-machine-complete-guide/)
-- [Scotsman 1-Flash Code — Bin Full / Bin Thermostat Fix](/posts/scotsman-1-flash-code/)
-- [Scotsman 6-Flash Code — Refrigerant Pressure Out of Range Fix](/posts/scotsman-6-flash-code/)

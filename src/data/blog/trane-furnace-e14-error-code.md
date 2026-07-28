@@ -20,8 +20,7 @@ free_checks:
   - "Check if the display might be showing separate codes (1 flash, pause, then 4 flashes) rather than a single E14 code"
 ---
 
-## Trane Furnace E14 Error Code — What It Means
-
+## What this code means
 E14 is not a documented or standard error code in Trane's official residential gas furnace troubleshooting guides. Trane furnaces typically use single-digit numeric codes (1 through 6) or LED flash sequences, not E-prefixed codes like E14. The code may be a misread LED sequence (such as 1 flash followed by 4 flashes), a typo, or the furnace may actually be a different brand such as American Standard (which shares parts with Trane but uses different control boards).
 
 If you see E14 displayed, first verify the actual code by checking the control board LED through the inspection port in the lower furnace cover. Count the number of flashes carefully and consult the Trane Installation & Troubleshooting Manual for your specific model number (such as XM90, S9V2, or XE95). Common Trane codes include Code 1 (ignition failure), Code 2 (pressure switch fault), Code 4 (flame sensor error), and Code 6 (inducer motor error). If the display truly shows E14 and you have confirmed the model is Trane, contact Trane Technical Support at 1-800-TRANE-1 with your model number for verification.
@@ -29,8 +28,6 @@ If you see E14 displayed, first verify the actual code by checking the control b
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board thinking any unfamiliar code means board failure. Before ordering parts, verify the exact code by counting LED flashes carefully and confirming the furnace brand and model number on the rating plate.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a qualified HVAC technician immediately if you cannot verify the exact error code or if the furnace is not heating. Gas furnace diagnostics require specialized tools and knowledge of combustion, gas pressure, and venting. If the unit displays an unfamiliar code and you have confirmed the model is Trane, a technician can use diagnostic software and the wiring diagram to identify the actual fault (which may be an inducer motor, pressure switch, flame sensor, or control board issue). Do not attempt gas line work, control board replacement, or inducer motor repair without proper training and tools.
 
 **Rough cost:** A pro service call runs about $150-300 for diagnostic visit and repair of actual underlying fault.
-
-## See Also
-
-- [Trane Furnace Error Codes — Complete Flash Code Guide](/posts/trane-furnace-error-codes/)
-- [Trane Furnace Not Heating - Causes & Fix](/posts/trane-furnace-not-heating/)
-- [Trane E13 Error Code - Causes & Fix](/posts/trane-furnace-e13-error-code/)
-- [Trane ComfortR ER Error Code — Causes & Fix](/posts/trane-comfort-r-error-codes-er/)

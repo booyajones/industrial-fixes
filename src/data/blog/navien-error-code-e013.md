@@ -13,11 +13,8 @@ money_part: "DHW inlet thermistor"
 most_likely_cause: "Failed DHW inlet thermistor"
 ---
 
-## Navien Error Code E013 — What It Means
-
+## What this code means
 Navien E013 indicates a **domestic hot water (DHW) inlet temperature sensor fault** — the cold water inlet thermistor is reading outside its valid range (open circuit, short circuit, or severely out-of-spec resistance). This sensor measures the temperature of the incoming cold water, which Navien uses to calculate how much heat to apply to reach the desired outlet temperature. Without a valid inlet reading, the unit cannot modulate accurately and shuts down to prevent scalding or damage.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Navien E013 indicates a **domestic hot water (DHW) inlet temperature sensor faul
 ## When to Call a Pro
 
 If the sensor measures in-spec and connections are clean but E013 persists, the PCB has a failed input and requires replacement. Navien PCB replacement should be done by a Navien-trained technician to ensure the new board is matched and configured correctly for your unit's model and gas type.
-
-## Related Articles
-
-- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
-- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)
-- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
-- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
-- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)
-
-## See Also
-
-- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
-- [Navien NPE/NCB Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003/)
-- [Navien NCB Combi Boiler Error Codes — Complete Fault Guide](/posts/navien-ncb-error-codes/)
-- [Navien NPE-A 016 — Overheat Lockout Fix](/posts/navien-water-heater-error-code-016/)

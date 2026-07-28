@@ -15,8 +15,7 @@ most_likely_cause: "Misreading E65 as AL-09"
 diy_or_pro: "diy"
 ---
 
-## Frigidaire Dryer AL-09 Error Code — What It Means
-
+## What this code means
 The AL-09 error code does not exist in Frigidaire's diagnostic system. Frigidaire dryers use error codes starting with E (electronic faults like E61, E64, E65), t (temperature faults like tS, tE), d (door faults like dE), or n (no power like nP). The AL prefix is not part of the standard Frigidaire code list.
 
 You are most likely misreading a different code on the display. The most common look-alike is E65, which indicates a high vent restriction caused by a clogged exhaust or a tripped thermal limiter. Other possibilities include E01, E02, or E03 (airflow blockage codes), or you may be seeing an alarm timer display rather than a fault code. Check your owner's manual or the dryer's wiring diagram for the exact code list for your model.
@@ -24,8 +23,6 @@ You are most likely misreading a different code on the display. The most common 
 ## Before You Replace Anything
 
 Homeowners often replace the control board or thermal fuse when they see an unfamiliar display code, but first verify the exact code by consulting the model's manual and checking that the display is not showing a timer or lock icon instead of a fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,13 +13,10 @@ money_part: "Daikin indoor unit PCB (control board)"
 most_likely_cause: "Loose, damaged, or miswired control terminals"
 ---
 
-## Daikin U6 Error Code — What It Means
-
+## What this code means
 The U6 error code on Daikin systems indicates a communication failure between indoor units, or in some models between the indoor and outdoor units. Daikin's official fault tables identify this as a malfunction in the control signal transmission path, not a refrigerant or sensor problem. The system cannot send or receive data properly along the wiring that connects the indoor unit circuit boards to each other or to the outdoor unit.
 
 This is a control-circuit fault. Depending on your model and region documentation, the exact wording may say transmission between indoor units or between indoor and outdoor, but the core issue is the same: one or more indoor PCBs cannot communicate over the control wire. Daikin lists faulty wiring, electrical noise or interference, and defective indoor unit PCBs as the primary causes.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ This is a control-circuit fault. Depending on your model and region documentatio
 ## When to Call a Pro
 
 Call a qualified Daikin technician if you are not comfortable working with low-voltage control wiring or interpreting the self-diagnosis procedure for your specific model. Communication faults require methodical end-to-end checks of the control circuit, and misdiagnosis can lead to unnecessary part replacement. If you have already verified wiring integrity and routing but the fault persists, the problem is likely a failed PCB that requires proper handling of static-sensitive components and access to Daikin's service documentation for your unit family.
-
-## See Also
-
-- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
-- [Daikin F3 Error Code — Causes & Fix](/posts/daikin-f3-error-code/)
-- [Daikin U2 Error Code — Causes & Fix](/posts/daikin-u2-error-code/)
-- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)

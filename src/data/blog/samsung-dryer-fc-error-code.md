@@ -17,8 +17,7 @@ money_part: "Samsung dryer power cord"
 part_price: "$15-80"
 ---
 
-## Samsung Dryer FC Error Code — What It Means
-
+## What this code means
 The Samsung dryer FC code (sometimes displayed as FE or 1FC) indicates a power-frequency or power-source fault. The dryer's control board is detecting an invalid or unstable incoming electrical frequency rather than a normal operating condition. This is not a drum, heater, or airflow error. The control is interpreting the AC supply as abnormal or disrupted.
 
 The code does not point to a mechanical dryer component. Instead, it signals a problem with the incoming power supply, the connections delivering that power, or the control board's ability to read the supply correctly. Most cases trace back to installation issues, unstable outlet supply, partially tripped breakers, loose power connections, or incorrect installation on a non-dedicated circuit or extension cord.
@@ -26,8 +25,6 @@ The code does not point to a mechanical dryer component. Instead, it signals a p
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board first. Before spending on a new board, verify the power source, reset the breaker, eliminate extension cords, and inspect the terminal block and cord connections.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

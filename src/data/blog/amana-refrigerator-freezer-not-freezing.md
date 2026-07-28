@@ -19,8 +19,6 @@ When your Amana refrigerator freezer is not freezing, the unit has lost normal c
 
 The symptom usually traces back to mechanical or electrical issues that prevent the compressor from running correctly, block heat rejection at the condenser, or stop cold air from circulating inside the cabinet. Common culprits include dirty condenser coils, failed fan motors, faulty start components at the compressor, defrost system failures that ice over the evaporator, and control or sensor faults that misread cabinet temperature.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty condenser coils** Dust and debris on the condenser coils restrict heat rejection and are the most common reason a refrigerator stops cooling.
@@ -55,14 +53,14 @@ The symptom usually traces back to mechanical or electrical issues that prevent 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Amana Refrigerator Ci error code](/posts/amana-refrigerator-ci-error-code/)
-- [Amana Refrigerator D7 error code](/posts/amana-refrigerator-d7-error-code/)
-- [Amana Refrigerator D8 error code](/posts/amana-refrigerator-d8-error-code/)
+- Amana Refrigerator Ci error code
+- Amana Refrigerator D7 error code
+- Amana Refrigerator D8 error code
 - [Amana Refrigerator D9 error code](/posts/amana-refrigerator-d9-error-code/)
-- [Amana Refrigerator Ec40 error code](/posts/amana-refrigerator-ec40-error-code/)
+- Amana Refrigerator Ec40 error code
 - [Amana Refrigerator F1 error code](/posts/amana-refrigerator-f1-error-code/)
 - [Amana Refrigerator If error code](/posts/amana-refrigerator-if-error-code/)
-- [Amana Refrigerator It error code](/posts/amana-refrigerator-it-error-code/)
+- Amana Refrigerator It error code
 - [Amana Refrigerator Po error code](/posts/amana-refrigerator-po-error-code/)
 
 ## When to Call a Pro

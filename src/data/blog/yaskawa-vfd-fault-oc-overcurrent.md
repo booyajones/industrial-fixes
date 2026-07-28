@@ -54,18 +54,3 @@ OC is distinct from Yaskawa's OL1 (motor overload) and OL2 (drive overload) faul
 | Inverter-duty Motor | NEMA MG1 Part 31 rated | $300–$2000+ | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-yaskawa-vfd-fault-oc-overcurrent&k=NEMA+MG1+Part+31+rated+NEMA+MG1+Part+31+rated&tag=errorcodefixes-20) \| Grainger / motor shop | Replacement J1000 Drive | CIMR-JU2A0004FAA (varies)&tag=) | $300–$700 | Yaskawa distributor / Amazon |  | Motor Cable (THHN shielded) | By footage | $2–$8/ft | Grainger / electrical supply |
 
 ##
-
-## Related Articles
-
-- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
-- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
-- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
-- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
-- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)
-
-## See Also
-
-- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)
-- [Yaskawa VFD Fault SC — Causes & Fix](/posts/yaskawa-vfd-fault-sc/)
-- [Yaskawa GA800 Uv1 Fault — DC Undervoltage Fix](/posts/yaskawa-ga800-error-uv1/)
-- [Yaskawa VFD Fault UV1 — Causes & Fix](/posts/yaskawa-vfd-fault-uv1/)

@@ -66,10 +66,3 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 If you are uncomfortable working with both water and electrical connections, or if you find that the new valve does not fix the problem and suspect low water pressure or a clogged filter upstream, call a technician. A pro can test solenoid resistance, check flow meter readings, and rule out supply-line or pressure issues that mimic a bad valve. If water is leaking and you cannot locate the source, a technician can inspect the entire water delivery system to prevent damage to your home.
-
-## See Also
-
-- [LG Mini Split CH04 Error Code - Causes & Fix](/posts/lg-mini-split-ch04-error-code/)
-- [LG Mini Split CH01 Error Code — Causes & Fix](/posts/lg-mini-split-ch01-error-code/)
-- [LG Refrigerator Error ER RF — Evap Fan Motor Fix](/posts/lg-refrigerator-error-er-rf/)
-- [LG Microwave Inverter Board Replacement - Signs & How-To](/posts/lg-microwave-inverter-board-inverter-models-replacement/)

@@ -13,11 +13,8 @@ money_part: "State water heater control board"
 most_likely_cause: "Misread display"
 ---
 
-## State Water Heater E154 Error Code — What It Means
-
+## What this code means
 The E154 error code does not appear in published State Water Heater service documentation or control-board fault lists. This code is documented only for Lennox and RDS-controlled HVAC equipment, where it signals a lost communication link with a refrigerant detection sensor. If you see E154 on a State water heater display, double-check the model number and control platform. The code may have been misread (E1, E15, or similar), the unit may use a shared control board from another manufacturer, or the display may be showing a fault from a different system entirely.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

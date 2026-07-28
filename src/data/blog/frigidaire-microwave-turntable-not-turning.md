@@ -19,8 +19,6 @@ When your Frigidaire microwave turntable stops turning, the glass tray sits moti
 
 The microwave control board usually does not detect this fault or stop operation. You will notice hot and cold spots in food or see the tray sitting still during a cook cycle. The problem ranges from simple debris blockage to motor burnout.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Worn or broken roller guide** The plastic ring with wheels accumulates food debris that seizes the wheels, or the plastic cracks and prevents smooth rotation even when the motor runs.

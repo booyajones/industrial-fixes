@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Main control board (PCB)"
 ---
 
-## Samsung Refrigerator 88 Error Code — What It Means
-
+## What this code means
 Samsung lists the 88 or 88 88 code as a communication fault that appears when power is disrupted during bootup on Family Hub refrigerators. The code can also appear after a brief outage, brownout, or low-voltage event at the power source. It signals that the Family Hub display or UI board cannot communicate properly with the main control system, often because the boot sequence was interrupted by unstable incoming power.
 
 This is not typically a single failed component. Instead it reflects an electrical anomaly or timing problem between boards. Samsung's own instructions focus on power resets and harness checks rather than immediate board replacement, which tells you the code is more about clearing a transient fault than diagnosing a hard failure.
@@ -25,8 +24,6 @@ This is not typically a single failed component. Instead it reflects an electric
 ## Before You Replace Anything
 
 Many people replace the main control board or Family Hub assembly first. Samsung explicitly instructs a full power cycle and door-harness reseat before calling service, which clears the code in most cases without any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

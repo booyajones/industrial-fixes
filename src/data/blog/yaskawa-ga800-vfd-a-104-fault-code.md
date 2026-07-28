@@ -14,8 +14,7 @@ money_part: "Yaskawa GA800 control board (main CPU card)"
 most_likely_cause: "Misread or misidentified fault code"
 ---
 
-## Yaskawa GA800 A.104 Fault — What It Means
-
+## What this code means
 A.104 does not appear in the published Yaskawa GA800 fault code tables available in manufacturer documentation. GA800 drives display alphanumeric fault codes on the keypad when an internal protection circuit trips or a sensor detects an abnormal condition. Because this specific code cannot be verified for the GA800 series, it may be a misread display, a code from a different Yaskawa drive family, or a custom parameter alarm configured by the installer.
 
 Yaskawa specifies that all GA800 faults must have their underlying cause removed before pressing RESET on the keypad to clear the alarm. If your keypad shows A.104, write down the exact characters and dots as displayed, then cross-reference the fault table in your GA800 Installation and Primary Operation manual or the GA800 Maintenance and Troubleshooting manual. If the code does not appear in those tables, contact Yaskawa technical support or the drive integrator to confirm whether it is a user-defined alarm.
@@ -23,8 +22,6 @@ Yaskawa specifies that all GA800 faults must have their underlying cause removed
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board when the fault code is actually a misread display or a parameter-configuration alarm that only requires a software reset or parameter adjustment. Always photograph the keypad and consult the fault table before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a qualified Yaskawa distributor or certified drive technician if the fault code does not appear in your manual, if you are unable to access the parameter menu, or if the drive was recently installed or programmed by an integrator. VFD troubleshooting requires familiarity with parameter configuration, wiring diagrams, and high-voltage DC bus circuits. Yaskawa's own maintenance documentation states that GA800 repair is limited to fan and control board replacement and that other internal faults require factory service or a drive exchange. Do not attempt to open the drive enclosure or replace power components without proper training and lockout procedures.
 
 **Rough cost:** A pro service call runs about $150-400 for diagnostics and minor part replacement if a board or fan is confirmed faulty.
-
-## See Also
-
-- [Yaskawa GA800 E22 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e22-fault-code/)
-- [Yaskawa VFD Fault PF — Causes & Fix](/posts/yaskawa-vfd-fault-pf/)
-- [Yaskawa GA800 E13 Error - Causes & Fix](/posts/yaskawa-ga800-vfd-e13-fault-code/)
-- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)

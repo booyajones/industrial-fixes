@@ -17,8 +17,7 @@ money_part: "Samsung washer display PCB / control panel board"
 part_price: "$80-180"
 ---
 
-## Samsung Washer bC Error Code — What It Means
-
+## What this code means
 The bC error on a Samsung washer is a button or input fault. It tells you the machine detects a stuck, shorted, or continuously pressed control button on the user interface panel. Samsung's error code family breaks this down further: bC1 means a power button issue (button held too long), and bC2 means a control button issue (button held too long). This is not a water fill, drain, or motor problem. The fault lies in the control panel's keypad, switch contacts, or the display PCB that reads button inputs.
 
 In practical service terms, a bC code usually points to a sticking physical button, liquid or residue that has shorted a button contact, or a failed user-interface board. The main control board is seeing a button signal that never turns off, so it throws the code and halts the cycle. You will need to inspect the buttons, clean the panel, check wiring connections, and replace the display PCB if the fault persists after basic cleaning and reseating.
@@ -26,8 +25,6 @@ In practical service terms, a bC code usually points to a sticking physical butt
 ## Before You Replace Anything
 
 Some third-party lists group bC and bE together as motor-related faults. That conflicts with Samsung's own bC1/bC2 definitions, which are button faults. Before ordering a motor or inverter board, confirm that no buttons are stuck and that the display PCB connector is seated.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

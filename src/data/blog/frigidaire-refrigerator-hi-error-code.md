@@ -16,8 +16,7 @@ money_part: "Refrigerator door gasket"
 part_price: "$15-80"
 ---
 
-## Frigidaire HI Error Code — What It Means
-
+## What this code means
 The H or HI error code on a Frigidaire refrigerator is a high-temperature alarm. The control has detected that one or both compartments (refrigerator or freezer) are warmer than the expected setpoint. The unit will illuminate a High Temp indicator and sound an alarm every 60 seconds until you acknowledge it with the CLEAR ALERTS button on supported models.
 
 This code does not identify a single failed part. It simply reports that the cabinet is too warm, which can happen for usage reasons (door left open, temperature settings changed, poor door seal) or mechanical problems (blocked airflow, dirty condenser coils, failed evaporator fan, defrost system fault, or faulty temperature sensor). The code can appear after a power interruption, extended door opening, or any event that allowed the compartments to warm up.
@@ -25,8 +24,6 @@ This code does not identify a single failed part. It simply reports that the cab
 ## Before You Replace Anything
 
 Many people replace the temperature sensor or control board first, but most HI alarms are caused by airflow or door-seal problems. Before ordering parts, check that doors close fully, gaskets seal without gaps, and interior vents are not blocked by food.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

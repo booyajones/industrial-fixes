@@ -53,15 +53,8 @@ The sensor fails or gives false readings when carbon deposits coat the rod, when
 If this part is failing you may also see one of these codes:
 
 - [Rheem Water Heater A01 error code](/posts/rheem-water-heater-a01-error-code/)
-- [Rheem Water Heater Alarm 401 error code](/posts/rheem-water-heater-alarm-401-error-code/)
+- Rheem Water Heater Alarm 401 error code
 
 ## When to Call a Pro
 
 If you still see flame proving faults after cleaning or replacing the sensor, the problem is likely gas pressure (incoming supply should be 5.0 to 13.0 inches water column or 1.25 to 3.24 kPa), venting blockage, gas valve failure, or control board issues. Any work involving gas valve replacement, igniter testing, burner removal, or combustion diagnostics should be handled by a licensed gas technician. If you are uncomfortable working around gas lines or live electrical components, call a qualified service professional before opening the unit. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rheem Furnace 4 Flashes - Causes & Fix](/posts/rheem-furnace-4-flashes-error-code/)
-- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
-- [Rheem Split System Heat Pump Error Codes — RA14, RA15, RP15 Fault Guide](/posts/rheem-heat-pump-error-codes/)
-- [Rheem RTEX Electric Tankless Water Heater Error Codes](/posts/rheem-rtex-electric-tankless-error-codes/)

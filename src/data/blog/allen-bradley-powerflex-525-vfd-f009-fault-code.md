@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "65%"
 ---
 
-## Allen-Bradley PowerFlex 525 F009 — What It Means
-
+## What this code means
 The F009 fault code on an Allen-Bradley PowerFlex 525 VFD indicates Control Card Overtemperature (CC OvrTmp). This means the control electronics card inside the drive has exceeded its predefined safe operating temperature threshold. The drive shuts down immediately to protect the control module from heat damage.
 
 This is typically a Type 2 fault, meaning the drive stops operation and will not automatically retry. The fault must be cleared and the root cause corrected before the drive can be restarted. The most common causes are environmental: high ambient temperature, blocked airflow, dust buildup, or fan failure. Internal control card failures are much less common.
@@ -29,8 +28,6 @@ This is typically a Type 2 fault, meaning the drive stops operation and will not
 ## Before You Replace Anything
 
 Technicians sometimes replace the control card when the actual problem is a failed or dirty cooling fan. Always verify ambient temperature, clean all airflow paths, and test fan operation before ordering any control module.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or controls technician if you are not trained in VFD diagnostics and NFPA 70E safe work practices. High-voltage AC drives present lethal shock hazards even after power is removed. A professional should handle all work involving the control card, power terminals, or internal components. If you have corrected ambient temperature, cleaned all airflow paths, verified fan operation, and the F009 fault still returns immediately, the control card or another internal component may be faulty and requires expert diagnosis and replacement. Rockwell Automation support can provide additional troubleshooting for persistent or intermittent overtemperature faults.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Allen Bradley PowerFlex 523 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-523-fault-f7/)
-- [Allen-Bradley PowerFlex 525 F111 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f111-fault-code/)
-- [Allen-Bradley PowerFlex F004 Fault — Undervoltage Fix](/posts/allen-bradley-powerflex-f004-fault/)
-- [Allen-Bradley PowerFlex 525 F048 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f048-fault-code/)

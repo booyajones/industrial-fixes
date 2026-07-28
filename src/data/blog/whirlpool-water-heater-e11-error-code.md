@@ -13,13 +13,10 @@ money_part: "Temperature sensor"
 most_likely_cause: "Wrong appliance code reference"
 ---
 
-## Whirlpool Water Heater E11 Error — What It Means
-
+## What this code means
 The E11 code does not appear in verified Whirlpool water heater service literature. Whirlpool publishes diagnostic codes specific to each model, and E11 is documented only for their over-the-range microwaves (where it indicates a gas sensor problem). For water heaters, you must consult your exact model's diagnostic code table in the installation and service manual.
 
 Without confirmed documentation, treating E11 as a known fault can lead to wrong parts and wasted time. Always run the unit's built-in diagnostics and cross-reference any displayed code with the diagnostic code section of your model's manual before ordering parts or attempting repairs.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

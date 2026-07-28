@@ -14,15 +14,12 @@ most_likely_cause: "Misread or misrecorded display"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa GA800 A.129 Fault — What It Means
-
+## What this code means
 A.129 does not appear in the standard Yaskawa GA800 fault code lists documented by the manufacturer. The GA800 uses alphanumeric alarm displays such as oC (overcurrent), ov (overvoltage), and CPF codes, but A.129 is not among them. This suggests the display may have been misread, the code may be from a parameter or monitor screen rather than a fault, or the drive may be a different Yaskawa series. Before troubleshooting, confirm the exact text shown on the keypad, including any punctuation, spaces, or case differences, and consult the GA800 technical manual alarm list or check the drive's alarm history using the keypad or DriveWizard software.
 
 ## Before You Replace Anything
 
 Technicians sometimes replace power boards or control cards when the display is actually showing a parameter number or monitor value rather than a fault. Always verify the exact code in the manual's alarm table and check alarm history before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -70,10 +67,3 @@ Answer these to narrow it down fast.
 Call a qualified drives technician or Yaskawa-certified service provider if you cannot confirm the exact alarm code in your manual, if the drive is part of a critical production line, or if you need help with DriveWizard software and internal diagnostics. VFD troubleshooting involves high DC bus voltages (even after power-down), and opening the drive or replacing internal boards requires proper lockout/tagout procedures and knowledge of capacitor discharge times. A technician can verify the alarm history, check parameter settings, and determine whether the display is showing a valid fault, a configuration issue, or a hardware problem with the keypad or control card.
 
 **Rough cost:** A pro service call runs about $150-400 for service call and diagnosis, depending on actual fault.
-
-## See Also
-
-- [Yaskawa GA800 E37 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e37-fault-code/)
-- [Yaskawa GA800 E10 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e10-fault-code/)
-- [Yaskawa GA800 A.117 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-117-fault-code/)
-- [Yaskawa GA800 E93 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e93-fault-code/)

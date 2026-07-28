@@ -13,13 +13,10 @@ money_part: "Siemens G120 Control Unit (CU)"
 most_likely_cause: "EMC or wiring interference"
 ---
 
-## Siemens G120 F01625 — What It Means
-
+## What this code means
 Fault code F01625 on a Siemens SINAMICS G120 drive indicates a sign-of-life error in the safety data. This is a Safety Integrated communication fault where the drive has detected a mismatch, loss of the expected cyclic heartbeat between internal safety processors, or a timing problem in the safety channel. When this fault occurs, the drive initiates a safety reaction and executes a STOP A to protect personnel and equipment.
 
 The drive's two internal safety processors continuously exchange status messages to verify that safety functions are working correctly. When that communication fails or the timing window is violated, F01625 is logged. Siemens documentation ties this fault to safety communication discrepancies and warns that if the fault cannot be acknowledged after troubleshooting, the Control Unit may require replacement.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ The drive's two internal safety processors continuously exchange status messages
 ## When to Call a Pro
 
 Call a qualified drives technician or Siemens-certified integrator if you are not trained in functional safety systems or if the fault persists after basic wiring checks and power cycles. Safety Integrated diagnostics often require access to the Safety Integrated commissioning software, knowledge of SIL-rated circuit design, and the ability to interpret internal safety processor logs. If your application is SIL 2 or SIL 3 rated, any troubleshooting or part replacement must be performed and documented by personnel with the appropriate safety certification to maintain compliance with machinery directives and local regulations.
-
-## See Also
-
-- [Siemens Micromaster F0060 - Causes & Fix](/posts/siemens-micromaster-f0060-fault-code/)
-- [Siemens Sinumerik Alarm 300204 — Causes & Fix](/posts/siemens-sinumerik-alarm-300204/)
-- [Siemens SINAMICS V20 F4 Fault — Causes & Fix](/posts/siemens-sinamics-v20-f4-fault/)
-- [Siemens G120 F30002 - Causes & Fix](/posts/siemens-g120-f30002-fault-code/)

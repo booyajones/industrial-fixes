@@ -17,8 +17,7 @@ money_part: "Whirlpool dishwasher wash motor / circulation pump motor"
 part_price: "$100-200"
 ---
 
-## Whirlpool Dishwasher F7E1 Error Code — What It Means
-
+## What this code means
 On Whirlpool and KitchenAid dishwashers, F7E1 indicates a wash motor failure or wash motor circuit problem. The control board expects to see normal circulation from the wash motor during the cycle, but it does not detect proper motor operation. The machine may fill with water but will not complete the wash because the circulation pump is not running as expected.
 
 This is a motor-circuit fault, not a water-temperature issue. The control has lost communication with the wash motor or cannot drive it, so the cycle halts and posts F7E1. The fault points to the motor itself, the wiring harness that feeds it, or a connector problem in that circuit.
@@ -26,8 +25,6 @@ This is a motor-circuit fault, not a water-temperature issue. The control has lo
 ## Before You Replace Anything
 
 Many people replace the control board first when the real problem is a loose or corroded connector at the wash motor. Always inspect the motor harness and connectors for damage or looseness before ordering any control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

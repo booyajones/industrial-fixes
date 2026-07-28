@@ -21,8 +21,7 @@ part_price: "$40–100"
 no_buy_pct: "30%"
 ---
 
-## Kenmore Range F05 Error Code — What It Means
-
+## What this code means
 On Whirlpool-built Kenmore ranges, F05 (or E1-F5) indicates a door lock/latch switch fault. The control board detects that the door lock mechanism is not in the expected position or the lock circuit is not proving correctly. Because Kenmore was a private-label brand, the exact meaning can vary by the underlying OEM platform, so the model number on your rating label matters.
 
 The control expects the lock motor to move the latch to a specific position and the latch switch to confirm that position. When the motor stalls, the latch binds, the switch fails open, or wiring in the circuit breaks, the board throws F05 and may lock you out of the oven until the fault clears.
@@ -30,8 +29,6 @@ The control expects the lock motor to move the latch to a specific position and 
 ## Before You Replace Anything
 
 Many people replace the control board first. Test the lock motor resistance (should read 500–2,000 ohms) and inspect the latch assembly for binding before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

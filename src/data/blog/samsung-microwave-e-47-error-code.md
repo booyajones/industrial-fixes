@@ -16,8 +16,7 @@ money_part: "Door interlock switch (microwave)"
 part_price: "$15-50"
 ---
 
-## Samsung E-47 Error Code — What It Means
-
+## What this code means
 Samsung's official error-code guides list E-47 as a Door Open Error on microwave models. The control system is detecting an open-door condition when it expects the door to be closed, or it is not receiving a valid door-closed signal from the door interlock circuit. This code is part of Samsung's microwave error-code set, which includes other door-related and sensor-related faults such as E-46 and E-51.
 
 The code does not mean the door is physically open in most cases. Instead, the control board cannot confirm the door is fully latched and all interlock switches are in the closed state. The fault blocks operation as a safety measure because the door-seal system must be intact before high-voltage can energize the magnetron.
@@ -25,8 +24,6 @@ The code does not mean the door is physically open in most cases. Instead, the c
 ## Before You Replace Anything
 
 Many people replace the main control board first when they see E-47. Before ordering a board, test each door interlock switch for correct continuity changes and inspect the latch assembly for broken hooks or worn actuators. Most E-47 faults trace to a mechanical door problem or a failed switch, not the control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

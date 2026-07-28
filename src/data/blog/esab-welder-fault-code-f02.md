@@ -13,11 +13,8 @@ money_part: "Contact tip"
 most_likely_cause: "Dead short at the output"
 ---
 
-## ESAB Welder F02 Fault Code — What It Means
-
+## What this code means
 The F02 fault on ESAB welders (Rebel, Rogue, and Fabricator series) indicates an overcurrent or short circuit on the output — the welding output current exceeded the machine's rated trip threshold, typically caused by a dead short at the output terminals, a shorted gun or cable, or welding parameters that drive current far beyond the rated range. The inverter shuts down instantly to protect the IGBT power modules.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

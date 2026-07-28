@@ -20,8 +20,6 @@ Continuous beeping in a Maytag oven is an audible alarm triggered by specific fa
 
 The beeping will not stop until you either clear the fault condition or reset the oven's memory. Most of the time, this is a sensor issue or a simple power glitch that needs a breaker reset.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Faulty temperature sensor (thermistor)** The sensor rod at the back of the oven loses calibration, corrodes, or breaks internally, sending out-of-range signals that trigger the alarm.
@@ -54,18 +52,18 @@ The beeping will not stop until you either clear the fault condition or reset th
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Maytag Oven A6 error code](/posts/maytag-oven-a6-error-code/)
-- [Maytag Oven Ab error code](/posts/maytag-oven-ab-error-code/)
-- [Maytag Oven Cal error code](/posts/maytag-oven-cal-error-code/)
-- [Maytag Oven F0 error code](/posts/maytag-oven-f0-error-code/)
+- Maytag Oven A6 error code
+- Maytag Oven Ab error code
+- Maytag Oven Cal error code
+- Maytag Oven F0 error code
 - [Maytag Oven F1 error code](/posts/maytag-oven-f1-error-code/)
-- [Maytag Oven F2 error code](/posts/maytag-oven-f2-error-code/)
-- [Maytag Oven F3 error code](/posts/maytag-oven-f3-error-code/)
-- [Maytag Oven F4 error code](/posts/maytag-oven-f4-error-code/)
-- [Maytag Oven F5 error code](/posts/maytag-oven-f5-error-code/)
-- [Maytag Oven F7 error code](/posts/maytag-oven-f7-error-code/)
-- [Maytag Oven F8 error code](/posts/maytag-oven-f8-error-code/)
-- [Maytag Oven F9 error code](/posts/maytag-oven-f9-error-code/)
+- Maytag Oven F2 error code
+- Maytag Oven F3 error code
+- Maytag Oven F4 error code
+- Maytag Oven F5 error code
+- Maytag Oven F7 error code
+- Maytag Oven F8 error code
+- Maytag Oven F9 error code
 
 ## When to Call a Pro
 

@@ -13,13 +13,10 @@ money_part: "Yaskawa GA800 control board"
 most_likely_cause: "Transient power event"
 ---
 
-## Yaskawa GA800 E15 Fault Code — What It Means
-
+## What this code means
 The E15 fault code does not appear in verified Yaskawa GA800 documentation or alarm tables. Fault codes and their meanings vary between drive families and firmware versions. The GA800 series does use alphanumeric fault designations, but without confirmation from your specific drive manual or display history, the exact cause of E15 cannot be determined. Similar precharge and control circuit faults in the GA800 family (such as Uv3) relate to soft-charge bypass relay issues, but this cannot be assumed for E15 without verification.
 
 Before attempting any repair, consult the alarm history on your keypad and cross-reference the code with the alarm table in your GA800 manual or the label inside the drive cover. If the code persists after a power cycle, contact Yaskawa technical support with your drive model number and serial number for accurate diagnosis.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ Before attempting any repair, consult the alarm history on your keypad and cross
 ## When to Call a Pro
 
 Call a qualified VFD technician or Yaskawa-authorized service partner immediately if the fault code does not appear in your manual, if the drive will not clear the fault after a full power cycle, or if you lack a multimeter and experience working safely inside energized industrial equipment. The GA800 maintenance documentation explicitly directs users to contact Yaskawa technical support for faults beyond simple fan or control board replacement. Do not attempt to replace internal components without confirming the fault cause and obtaining the correct part number from the manufacturer, as incorrect repairs can void warranties and create safety hazards.
-
-## See Also
-
-- [Yaskawa GA800 E07 Fault - Causes & Fix](/posts/yaskawa-ga800-e07-fault-code/)
-- [Yaskawa GA800 E37 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e37-fault-code/)
-- [Yaskawa GA800 E03 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e03-fault-code/)
-- [Yaskawa GA800 E08 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e08-fault-code/)

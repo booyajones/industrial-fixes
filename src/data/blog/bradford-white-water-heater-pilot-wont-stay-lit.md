@@ -19,8 +19,6 @@ When the pilot won't stay lit on a Bradford White gas water heater, the control 
 
 On Bradford White Defender systems, repeated pilot failure points to a problem in the pilot assembly or the safety shutoff inside the gas control rather than just a bad thermocouple like on older models. The issue requires systematic replacement starting with the pilot assembly.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed pilot assembly** Bradford White explicitly directs replacing the pilot assembly first when the pilot will not stay lit.

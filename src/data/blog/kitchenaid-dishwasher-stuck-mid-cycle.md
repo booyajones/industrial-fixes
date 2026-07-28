@@ -19,8 +19,6 @@ When a KitchenAid dishwasher stops mid-cycle and will not continue, it means the
 
 KitchenAid guidance instructs users to first check whether the door was opened (close it and press Start to resume), whether power was lost (hold Cancel to drain, then restart), or whether a simple control reset is needed (disconnect power for 30 seconds). If the cycle still stops after reset, the cause is usually mechanical or electrical and requires inspection of the door latch, water supply, drain path, or control board.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door latch not closing or not sensed as closed** The machine will not run if the door is not positively latched, and a worn or misaligned latch or striker is a leading cause of mid-cycle stoppage.
@@ -58,7 +56,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Kitchenaid Dishwasher F2E2 error code](/posts/kitchenaid-dishwasher-f2e2-error-code/)
 - [Kitchenaid Dishwasher F3E1 error code](/posts/kitchenaid-dishwasher-f3e1-error-code/)
 - [Kitchenaid Dishwasher F3E2 error code](/posts/kitchenaid-dishwasher-f3e2-error-code/)
-- [Kitchenaid Dishwasher F4E3 error code](/posts/kitchenaid-dishwasher-f4e3-error-code/)
+- Kitchenaid Dishwasher F4E3 error code
 - [Kitchenaid Dishwasher F5E1 error code](/posts/kitchenaid-dishwasher-f5e1-error-code/)
 - [Kitchenaid Dishwasher F6E1 error code](/posts/kitchenaid-dishwasher-f6e1-error-code/)
 - [Kitchenaid Dishwasher F6E2 error code](/posts/kitchenaid-dishwasher-f6e2-error-code/)

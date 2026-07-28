@@ -180,9 +180,3 @@ Choose an electric tankless only when:
 - You have ample electrical panel capacity (200+ amp panel)
 - You need a compact unit and cannot use gas
 - You understand the higher operating cost and potential panel upgrade expense
-
-## Related Articles
-
-- [Tankless Water Heater vs. Tank: Cost, ROI, and Which to Choose](/posts/tankless-water-heater-vs-tank-cost/)
-- [Heat Pump vs. Gas Furnace: Total Cost Comparison and Decision Guide](/posts/heat-pump-vs-gas-furnace-cost/)
-- [Water Heater Error Code Troubleshooting Guide](/posts/water-heater-error-code-guide/)

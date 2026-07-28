@@ -13,11 +13,8 @@ money_part: "Bin thermostat"
 most_likely_cause: "Ice bridging over the bin sensor"
 ---
 
-## Hoshizaki F2 Error Code — What It Means
-
+## What this code means
 F2 on a Hoshizaki ice machine indicates an ice full sensor fault — the machine has detected that the ice storage bin is full and has stopped production, or the ice full sensor has developed a fault condition that prevents the machine from operating normally. Hoshizaki uses a mechanical bin thermostat or a photocell bin control depending on the model. On models with a digital control board (IM, KML, KMD series with electronic controls), F2 specifically indicates that the bin full signal has been received continuously for longer than expected, suggesting a stuck sensor rather than a genuinely full bin.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ F2 on a Hoshizaki ice machine indicates an ice full sensor fault — the machine
 ## When to Call a Pro
 
 If F2 persists after cleaning and sensor replacement, a technician should inspect the harvest cycle — a refrigerant or harvest valve issue can prevent clean ice release, causing recurring bin sensor false trips.
-
-## Related Articles
-
-- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
-- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)
-- [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
-- [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)
-
-## See Also
-
-- [Hoshizaki F1 Error Code — Causes & Fix](/posts/hoshizaki-f1-error-code/)
-- [Hoshizaki E7 Error Code — Causes & Fix](/posts/hoshizaki-e7-error-code/)
-- [Hoshizaki Ice Machine E8 Error Code — Causes & Fix](/posts/hoshizaki-e8-error-code/)
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)

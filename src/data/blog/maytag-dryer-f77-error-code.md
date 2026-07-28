@@ -15,8 +15,7 @@ money_part: "Electronic control board"
 most_likely_cause: "Misread or model-specific code"
 ---
 
-## Maytag Dryer F77 Error Code — What It Means
-
+## What this code means
 A Maytag dryer F77 code does not appear in Maytag's published dryer error-code library. The official Maytag dryer code list includes codes such as F70, but F77 is not documented there. In field experience, when F77 shows up it is usually being misread, misreported, or is specific to a particular platform or model not covered in the public documentation. The first step is always to verify the exact model number and confirm the exact characters on the display before diagnosing further.
 
 Because the code itself is not manufacturer-defined in available Maytag dryer documentation, the causes and fixes cannot be stated with confidence as a Maytag-specific fault. For Maytag and Whirlpool-platform dryer fault codes in this general family, common field causes typically include loose or burned wiring at the control board, unstable power supply, or a failed main control board. On some related codes in this ecosystem, motor feedback issues, heater or thermistor problems, or L2 supply faults are also common root causes.
@@ -24,8 +23,6 @@ Because the code itself is not manufacturer-defined in available Maytag dryer do
 ## Before You Replace Anything
 
 Many people replace the main control board without first checking for loose or burned connectors at the console and control board. Inspect all harness plugs and terminals for heat damage, corrosion, or intermittent contact before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,11 +13,8 @@ money_part: "Magazine position proximity switch"
 most_likely_cause: "Magazine drive motor or transmission fault"
 ---
 
-## Mazak Alarm 900 - What It Means
-
+## What this code means
 Mazak Alarm 900 is a tool magazine index fault - the MAZATROL control commanded the tool magazine to index to a specific pocket number, but the magazine didn't reach or confirm the target position within the required time. On Mazak machining centers with drum or chain-type tool magazines, Alarm 900 stops all operation until the magazine is returned to a known position.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Mazak Alarm 900 is a tool magazine index fault - the MAZATROL control commanded 
 ## When to Call a Pro
 
 Mazak tool magazine mechanical work requires factory-trained service to maintain precise pocket-to-spindle alignment.
-
-## Related Articles
-
-- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
-- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
-- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-
-## See Also
-
-- [Mazak Alarm 1 Servo Alarm — Causes & Fix](/posts/mazak-alarm-1-servo/)
-- [Mazak Alarm 50 Servo — Causes & Fix](/posts/mazak-alarm-50-servo/)
-- [Mazak Alarm 100 Spindle Alarm — Causes & Fix](/posts/mazak-alarm-100-spindle/)
-- [Mazak Alarm 800 — Tool Magazine Fault](/posts/mazak-alarm-800-atc/)

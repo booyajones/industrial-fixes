@@ -13,13 +13,10 @@ money_part: "ABB ACS580 STO terminal jumper kit"
 most_likely_cause: "Open or missing STO jumper"
 ---
 
-## ABB ACS580 A0 Fault Code — What It Means
-
+## What this code means
 The ACS580 does not have a standard fault code labeled 'A0' in ABB's official fault lists. The code you are seeing is most likely A5A0 or fault 5091, which both mean Safe Torque Off (STO) is active. This is a safety function that cuts torque to the motor when the STO circuit opens. It is not a motor or power fault. It indicates the safety chain has removed the enable signal, either intentionally through an E-stop or safety device, or unintentionally due to wiring or jumper issues.
 
 This is different from fault 5090, which ABB defines as an STO hardware failure inside the drive itself. If your display shows 5090 instead of 5091 or A5A0, the drive has detected an internal safety hardware problem and you should contact ABB. For the STO active condition (5091/A5A0), the fix involves restoring the external safety circuit and resetting the drive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ This is different from fault 5090, which ABB defines as an STO hardware failure 
 ## When to Call a Pro
 
 Call a qualified electrician or ABB service technician if you cannot locate the cause of the STO activation after checking all external wiring and jumpers, if the drive displays fault 5090 indicating internal STO hardware failure, or if you are unfamiliar with safety circuit wiring and testing. Work on STO circuits involves machine safety systems and incorrect handling can create serious hazards. If the drive will not reset after restoring the safety chain, or if you need to modify parameter 31.22 and are uncertain about the safety implications, professional support is the correct choice.
-
-## See Also
-
-- [ABB Inverter Fault Code F0001 - Causes & Fix](/posts/abb-inverter-fault-code-f0001/)
-- [ABB VFD Fault 3130 — Input Phase Loss Fix](/posts/abb-vfd-fault-3130/)
-- [ABB VFD Fault 0001 Overcurrent — Causes & Fix](/posts/abb-vfd-fault-0001-overcurrent/)
-- [ABB ACS550 AI1 LOSS - Causes & Fix](/posts/abb-acs550-ai1-loss-fault-code/)

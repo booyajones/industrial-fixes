@@ -19,8 +19,6 @@ When your GE dishwasher displays "LD" or "999" (on Floor Protect models) and sto
 
 The fault can come from an actual leak inside or under the unit, oversudsing that pushes water into the base, or leftover moisture from a previous spill. Sometimes the machine will cancel the cycle immediately. Other times it may pump continuously to evacuate water. Either way, the control has detected a condition it interprets as a leak and will not resume normal operation until the issue is cleared and the unit is reset.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Water leak under the machine** Water pooling in the base pan from a cracked hose, loose clamp, or weeping connection is the most common trigger for the leak code.
@@ -63,8 +61,8 @@ If your appliance also shows a code on the display, these match this problem:
 - [Ge Dishwasher C8 error code](/posts/ge-dishwasher-c8-error-code/)
 - [Ge Dishwasher Ef error code](/posts/ge-dishwasher-ef-error-code/)
 - [Ge Dishwasher F56 error code](/posts/ge-dishwasher-f56-error-code/)
-- [Ge Dishwasher F9 error code](/posts/ge-dishwasher-f9-error-code/)
-- [Ge Dishwasher Ff error code](/posts/ge-dishwasher-ff-error-code/)
+- Ge Dishwasher F9 error code
+- Ge Dishwasher Ff error code
 
 ## When to Call a Pro
 

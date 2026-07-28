@@ -17,8 +17,7 @@ money_part: "Oven temperature sensor (GE range)"
 part_price: "$20-50"
 ---
 
-## GE Range F4 Error Code — What It Means
-
+## What this code means
 The F4 error code on a GE range signals an oven temperature sensor fault. The control board is reading the sensor circuit as open, shorted, or outside the expected resistance range. GE support guidance directs technicians to the oven sensor first, along with a basic power reset.
 
 The sensor is a small probe mounted inside the oven cavity that monitors temperature. When the resistance reading falls outside normal limits (typically around 1,080 to 1,100 Ω at room temperature), the control throws the F4 code and may disable oven operation to prevent runaway heating or inaccurate baking temperatures.
@@ -26,8 +25,6 @@ The sensor is a small probe mounted inside the oven cavity that monitors tempera
 ## Before You Replace Anything
 
 Many people replace the electronic control board first. Before buying a new control, measure the sensor resistance directly with a multimeter at room temperature (should read around 1,080–1,100 Ω). If the sensor reads open, shorted, or far out of range, replace the sensor instead.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

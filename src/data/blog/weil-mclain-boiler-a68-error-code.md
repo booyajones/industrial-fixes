@@ -21,8 +21,7 @@ part_price: "$25-60 for a flame sensor"
 no_buy_pct: "40%"
 ---
 
-## Weil-McLain A68 Error Code — What It Means
-
+## What this code means
 The A68 error code on a Weil-McLain boiler signals an ignition failure lockout. The control board started the ignition sequence (fan spin, ignitor activation, gas valve opening) but the flame sensor did not confirm a flame within the allowed time window. The system then enters a safety lockout to prevent unburned gas from accumulating.
 
 This is a standard ignition lockout fault documented in Weil-McLain service manuals for gas boilers including CGa, CGI, and AquaBalance series. The lockout protects your home by shutting down the boiler until the fault is corrected and the system is manually reset.
@@ -30,8 +29,6 @@ This is a standard ignition lockout fault documented in Weil-McLain service manu
 ## Before You Replace Anything
 
 Many people replace the gas valve or control board before checking the flame sensor. Clean the sensor with fine emery cloth and verify gas supply before replacing any expensive components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -81,10 +78,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician immediately if you smell gas, if the boiler continues to lock out after two resets, or if you are uncomfortable working around gas appliances. Gas boiler repair requires specialized tools (manometers, multimeters, combustion analyzers) and knowledge of ignition timing, gas pressure specs, and combustion safety. A technician will measure ignitor resistance, test gas valve operation, verify flame sensor microamp readings, check circulation and high-limit settings, and access diagnostic menus to confirm the fault. Attempting DIY repair on gas systems can create carbon monoxide hazards or explosion risk if not done correctly. Most A68 faults are resolved in a single service call with sensor cleaning, ignitor replacement, or gas valve repair.
 
 **Rough cost:** A pro service call runs about $150-350 depending on part and labor.
-
-## See Also
-
-- [Weil-McLain Boiler A178 Error - Causes & Fix](/posts/weil-mclain-boiler-a178-error-code/)
-- [Weil-McLain Boiler A23 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a23-error-code/)
-- [Weil-McLain A18 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a18-error-code/)
-- [Weil-McLain Boiler Error Code E08 — Causes & Fix](/posts/weil-mclain-e08-error-code/)

@@ -13,13 +13,10 @@ money_part: "Danfoss brake resistor (match your FC 302 frame size and power)"
 most_likely_cause: "Brake resistor disconnected or missing"
 ---
 
-## Danfoss FC302 VFD Alarm 28 — What It Means
-
+## What this code means
 Alarm 28 on a Danfoss FC 302 VFD is a 'Brake check failed' warning. The drive's brake-resistor supervision has detected that the external brake resistor is either not connected or not working. The FC 302 monitors the braking circuit during operation, and when this check fails, the drive cannot safely dissipate regenerative energy from the motor during deceleration or overhauling loads.
 
 This alarm is directly tied to parameter 2-15 (Brake Check) and the physical brake-resistor circuit. The drive expects to see specific electrical behavior from the brake resistor when braking is demanded. If the circuit is open, the resistor has failed internally, or the brake-check setting does not match the installed hardware, Alarm 28 will trigger and the drive may limit braking performance or shut down to protect itself.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ This alarm is directly tied to parameter 2-15 (Brake Check) and the physical bra
 ## When to Call a Pro
 
 Call a qualified VFD technician or Danfoss service if you have verified the brake resistor is connected, measures the correct resistance, all wiring is intact, and parameter 2-15 is set correctly but Alarm 28 still appears. At that point the fault is likely inside the drive's brake-chopper or monitoring circuit, which requires specialized test equipment and knowledge of high-voltage DC circuits. Also call a pro if you are unfamiliar with VFD safety procedures, working around high DC bus voltages, or configuring brake parameters for regenerative applications.
-
-## See Also
-
-- [Danfoss FC302 Alarm 47 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-47-fault-code/)
-- [Danfoss VFD Fault OCL — Causes & Fix](/posts/danfoss-vfd-fault-ocl/)
-- [Danfoss FC302 Alarm 14 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-14-fault-code/)
-- [Danfoss VFD Fault UL — Causes & Fix](/posts/danfoss-vfd-fault-ul/)

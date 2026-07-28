@@ -13,11 +13,8 @@ money_part: "Backup battery"
 most_likely_cause: "Machine returned to wrong reference position"
 ---
 
-## Fanuc Alarm 500 — What It Means
-
+## What this code means
 Fanuc Alarm 500 is an overtravel alarm — one or more axes traveled beyond the software overtravel limits stored in the machine parameters. Unlike hardware overtravel alarms (1-4 series), Alarm 500 is a software position check; the control detected that the commanded path would enter or has entered the software travel boundary.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -42,18 +39,3 @@ Fanuc Alarm 500 is an overtravel alarm — one or more axes traveled beyond the 
 ## When to Call a Pro
 
 If Alarm 500 triggers on moves that were previously fine, a parameter change or position calibration issue needs Fanuc-certified service to diagnose.
-
-## Related Articles
-
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
-- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
-- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
-
-## See Also
-
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
-- [Fanuc Alarm 600 — Causes & Fix](/posts/fanuc-alarm-600/)
-- [Fanuc M-Series Control Alarm Codes: Complete Guide](/posts/fanuc-m-series-alarm-codes/)

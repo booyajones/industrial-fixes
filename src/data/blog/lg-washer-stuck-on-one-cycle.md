@@ -19,8 +19,6 @@ When your LG washer is stuck on one cycle, the machine is not completing its pro
 
 If you see an error code on the display, that code is the real problem and should be diagnosed first. If there is no code, the issue is almost always a peripheral component or an operating condition rather than the main control board. LG's own troubleshooting starts with load distribution, washer level, foreign objects, and a test spin cycle to separate a simple load problem from a real mechanical or electrical fault.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Unbalanced load or poor laundry distribution** The washer detects an uneven load and refuses to spin or keeps trying to redistribute, which can make it appear stuck in the same phase.

@@ -19,8 +19,7 @@ free_checks:
   - "Power-cycle the drive (off for 5 minutes) after noting all parameters to see if the fault clears on its own"
 ---
 
-## Yaskawa A1000 AL-18 Fault — What It Means
-
+## What this code means
 The fault code AL-18 is not documented in official Yaskawa A1000 VFD fault code lists. The closest matching fault is oPE18 (Online Tuning Parameter Setting Error). This code indicates the drive has detected a function setting that cannot be used with the currently selected motor control method. For example, enabling a feature valid only for vector control while the drive is configured for V/f mode, or setting incompatible PID or encoder parameters.
 
 Because AL-18 is not an official Yaskawa code, verify the exact fault displayed on your drive's keypad or software. If you see oPE18, the cause is almost always a parameter configuration conflict rather than hardware failure. Check your motor control method selection and review all related function parameters against the manual's compatibility tables.
@@ -28,8 +27,6 @@ Because AL-18 is not an official Yaskawa code, verify the exact fault displayed 
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board when seeing parameter errors, but oPE18 is nearly always a settings conflict. Review parameter N1-01 and all H3, L6, and E1/E5 settings against the control-method compatibility table before ordering any hardware.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or contact Yaskawa support if you are unfamiliar with parameter programming, if the exact fault code does not match oPE18, or if the fault persists after you have corrected all parameter conflicts and power-cycled the drive. VFD parameter errors can indicate control board hardware damage if settings cannot be saved or if the drive displays CPU-related faults (such as CPF18). A technician will use Yaskawa's diagnostic software to verify control board health and determine whether board replacement or a complete drive swap is necessary. Do not attempt control board replacement yourself unless you are trained in high-voltage DC bus safety and ESD precautions.
 
 **Rough cost:** A pro service call runs about $150-400 for parameter review and correction; $800-2500 if control board truly failed.
-
-## See Also
-
-- [Yaskawa GA800 A.102 Alarm - Causes & Fix](/posts/yaskawa-ga800-vfd-a-102-fault-code/)
-- [Yaskawa GA800 oV Fault — DC Overvoltage Fix](/posts/yaskawa-ga800-error-ov/)
-- [Yaskawa GA800 E37 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e37-fault-code/)
-- [Yaskawa GA800 F036 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f036-fault-code/)

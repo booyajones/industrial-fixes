@@ -17,8 +17,6 @@ money_part: "Cooling fan"
 
 The Yaskawa V1000 is one of the most common compact VFDs in North American plants, used on fans, pumps, conveyors, mixers, and packaging equipment. Faults display on the built-in keypad as two-letter or two-character codes such as oC, oV, UV1, oH, or PF.
 
-[Jump to Fix](#fix)
-
 ## Yaskawa V1000 Common Fault Codes
 
 | Code | Meaning |
@@ -67,18 +65,3 @@ The Yaskawa V1000 is one of the most common compact VFDs in North American plant
 ## When to Call a Pro
 
 Hardware faults like CPF control faults and repeated GF trips after motor isolation usually mean the drive needs bench repair or replacement. If the V1000 is running a critical machine, it is worth capturing parameters before swapping hardware so startup is faster.
-
-## Related Articles
-
-- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
-- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
-- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
-- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
-- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)
-
-## See Also
-
-- [Yaskawa VFD Fault OH — Causes & Fix](/posts/yaskawa-vfd-fault-oh/)
-- [Yaskawa Sigma-7 SGD7S Servo Drive Alarm Codes — Diagnosis & Fix](/posts/yaskawa-sigma7-sgd7s-alarm-codes/)
-- [Yaskawa A1000 Complete Guide - Fault Codes, Parameters, and Commissioning](/posts/yaskawa-a1000-complete-guide/)
-- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)

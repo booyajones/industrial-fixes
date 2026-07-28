@@ -20,8 +20,6 @@ A Whirlpool oven that heats too hot is overshooting the temperature you set or c
 
 Whirlpool points to the temperature sensor, thermostat, control board, heating elements, cooling fan, or blocked vent as the usual culprits. The sensor is the most common single fault because when it drifts out of range or fails open, the control board loses accurate feedback and can't regulate heat properly.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed temperature sensor (probe)** The sensor should measure around 1,080 Ω at room temperature. Readings significantly below 1,000 Ω or above 1,200 Ω mean the sensor is out of spec and the control board is getting false data, causing overheating.
@@ -57,7 +55,7 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Whirlpool Oven A6 error code](/posts/whirlpool-oven-a6-error-code/)
 - [Whirlpool Oven Ab error code](/posts/whirlpool-oven-ab-error-code/)
-- [Whirlpool Oven Cal error code](/posts/whirlpool-oven-cal-error-code/)
+- Whirlpool Oven Cal error code
 - [Whirlpool Oven F1 E0 error code](/posts/whirlpool-oven-f1-e0-error-code/)
 - [Whirlpool Oven F1 E1 error code](/posts/whirlpool-oven-f1-e1-error-code/)
 - [Whirlpool Oven F2 E0 error code](/posts/whirlpool-oven-f2-e0-error-code/)

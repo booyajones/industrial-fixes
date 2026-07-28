@@ -19,8 +19,6 @@ A KitchenAid refrigerator that freezes food in the fresh food compartment is exp
 
 KitchenAid specifically notes that blocked vents can disrupt airflow and that items placed directly in the airflow path from the freezer to the refrigerator may freeze. On some models, if the ice maker is turned on but not connected to water, the refrigerator may run too cold and freeze food in the crisper drawers.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Temperature controls set too cold** The refrigerator or freezer control dials are adjusted too far toward the coldest settings, causing the compressor to overcool the fresh food section.

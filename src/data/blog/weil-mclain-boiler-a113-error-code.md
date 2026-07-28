@@ -17,8 +17,7 @@ free_checks:
   - "Power-cycle the boiler by switching off the service switch for 30 seconds, then back on to see if the code clears or returns"
 ---
 
-## Weil-McLain Boiler A113 Error — What It Means
-
+## What this code means
 A113 is not a documented universal fault code across all Weil-McLain boilers. The manufacturer publishes model-specific error codes tied to each control platform, and the exact meaning of A113 depends on your boiler model and control board type. Weil-McLain directs technicians to consult the specific service manual for the installed model to decode stored faults and follow the correct troubleshooting sequence.
 
 Without the model number and control type, any guess at what A113 means would be unreliable. If your display or fault history shows A113, locate the model and serial tag on the boiler jacket, then reference that model's installation and service guide or contact a qualified heating contractor who can access the fault history menu and interpret the code correctly.
@@ -26,8 +25,6 @@ Without the model number and control type, any guess at what A113 means would be
 ## Before You Replace Anything
 
 Do not replace the control board or main valve without verifying the exact fault definition and checking upstream sensors, wiring, and gas supply first. Many apparent control faults are actually sensor or connection issues.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a licensed heating contractor immediately if the boiler will not ignite, if you smell gas, or if the system pressure exceeds 25 PSI. Even if the boiler runs, a professional should diagnose any persistent fault code because Weil-McLain boilers integrate gas controls, high-voltage ignition, and pressure-relief systems that require trained service. The technician can retrieve the full fault history from the control board, measure flame signal and gas pressure, and test sensor resistance and voltages against the factory specifications in the service manual. Attempting these checks without the correct tools and training risks personal injury, equipment damage, and voiding your warranty.
 
 **Rough cost:** A pro service call runs about $150-400 depending on the actual fault and required parts.
-
-## See Also
-
-- [Weil-McLain Boiler A20 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a20-error-code/)
-- [Weil-McLain Boiler A109 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a109-error-code/)
-- [Weil-McLain A161 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a161-error-code/)
-- [Weil-McLain Boiler A64 Error - Causes & Fix](/posts/weil-mclain-boiler-a64-error-code/)

@@ -13,13 +13,10 @@ money_part: "Bosch tankless water heater air filter"
 most_likely_cause: "Blocked air intake or exhaust terminal"
 ---
 
-## Bosch C1 Error Code — What It Means
-
+## What this code means
 The C1 fault on Bosch gas tankless water heaters means the control has detected excessive flue blockage during startup due to insufficient combustion air. Bosch groups C1, C2, CF, and CE together as airflow and combustion-air faults. When the unit cannot get enough combustion air or cannot move flue gases properly, it shuts down for safety and displays the C1 code.
 
 This is a combustion safety lockout. The heater will not fire until the underlying airflow restriction is identified and cleared. The condition often points to a physical obstruction in the intake or exhaust path, or to contamination of components that handle combustion air.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

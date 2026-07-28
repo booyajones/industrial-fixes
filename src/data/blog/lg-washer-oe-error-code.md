@@ -22,8 +22,7 @@ part_price: "$25-60"
 no_buy_pct: "70%"
 ---
 
-## LG Washer OE Error Code — What It Means
-
+## What this code means
 LG defines OE as a drainage failure. Water is not leaving the tub during the wash cycle as expected. The washer detects that water remains in the drum after the drain pump has been commanded to run.
 
 LG's troubleshooting flow for OE centers on confirming whether the drain path (hose and filter) is clear and whether the pump motor actually runs during a spin-only test. If the hose and filter are open but the pump does not move water, the pump assembly itself has failed.
@@ -31,8 +30,6 @@ LG's troubleshooting flow for OE centers on confirming whether the drain path (h
 ## Before You Replace Anything
 
 Homeowners sometimes replace the drain pump assembly before checking the filter and hose. Always remove and clean the filter and straighten the drain hose before ordering a new pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

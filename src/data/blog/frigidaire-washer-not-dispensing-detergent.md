@@ -19,8 +19,6 @@ When your Frigidaire washer is not dispensing detergent, the soap sits in the dr
 
 The problem means detergent is not being flushed from the dispenser drawer into the wash. Common reasons include blockage in the drawer or housing, misfill, low water flow to the dispenser, a mispositioned or damaged dispenser assembly, or a failed water valve or dispenser component. It does not automatically mean the main control board has failed. Cleaning, water flow checks, and mechanical dispenser issues are more common first checks.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Detergent buildup or clogs in the drawer, siphon tubes, or dispenser housing** Hardened soap, fabric softener residue, or mineral deposits block the paths that flush detergent into the drum.

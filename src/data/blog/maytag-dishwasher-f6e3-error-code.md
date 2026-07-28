@@ -16,8 +16,7 @@ money_part: "User interface board / console assembly"
 part_price: "$15-150"
 ---
 
-## Maytag F6E3 Error Code — What It Means
-
+## What this code means
 The F6E3 code on Maytag washers signals a communication or voltage-sensing fault between the user interface (console) and the main control board. Maytag product support describes it as a voltage sensing error and power supply issue, while service videos for Maytag and Whirlpool-family washers commonly interpret it as a communication failure between these two boards. In practice, both descriptions point to the same family of problems: the control system cannot complete its normal electronic handoff because of a supply issue, a board fault, or a wiring problem.
 
 This code does not indicate a mechanical problem with the drive, pump, or door. Instead, it tells you the washer's brain and control panel cannot talk to each other properly. The fault is usually in the user interface electronics, the wiring harness and connectors between the console and main board, or less commonly in the power input path that feeds the boards.
@@ -25,8 +24,6 @@ This code does not indicate a mechanical problem with the drive, pump, or door. 
 ## Before You Replace Anything
 
 Many owners replace the main control board or user interface without first inspecting the wiring harness and connectors. Clean corroded contacts and reseat all connectors between the console and main control before ordering any boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

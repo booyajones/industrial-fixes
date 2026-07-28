@@ -20,8 +20,7 @@ free_checks:
 part_price: "$50-100"
 ---
 
-## Amana Dishwasher F8E2 Error Code — What It Means
-
+## What this code means
 F8E2 on an Amana dishwasher indicates a drain pump electrical problem. The control board expects the drain pump circuit to energize and respond normally during drain operation, but it detects an abnormal electrical condition in that circuit. This is not a clog or slow-drain issue. It is a fault in the pump motor windings, the wiring harness, or the control board output that powers the pump.
 
 Amana's product help confirms you can clear the code by disconnecting power for 30 seconds, but if it returns the fault is real and located in the drain pump circuit rather than a simple glitch. The control is flagging that it cannot drive the pump electrically as expected.
@@ -29,8 +28,6 @@ Amana's product help confirms you can clear the code by disconnecting power for 
 ## Before You Replace Anything
 
 Homeowners often replace the control board first, assuming electronics are always at fault. Test the drain pump for open or shorted windings and inspect the harness connector for corrosion or damage before replacing the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -19,8 +19,6 @@ When your Maytag dryer won't tumble, the drum is not rotating even though the co
 
 If the dryer displays ERR, Maytag states the door is not completely closed and latched, and the dryer will not run until the door is properly secured. If the display is normal but the drum stays still, the issue is usually in the drive belt, motor, door switch, or drum bearings.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Broken or slipped drive belt** Maytag lists a broken dryer belt as one of the most common reasons a dryer won't spin.
@@ -57,10 +55,10 @@ Seeing a code on the display? These match this problem:
 
 - [Maytag Dryer Err error code](/posts/maytag-dryer-err-error-code/)
 - [Maytag Dryer F01 error code](/posts/maytag-dryer-f01-error-code/)
-- [Maytag Dryer F02 error code](/posts/maytag-dryer-f02-error-code/)
+- Maytag Dryer F02 error code
 - [Maytag Dryer F1E1 error code](/posts/maytag-dryer-f1e1-error-code/)
 - [Maytag Dryer F1E3 error code](/posts/maytag-dryer-f1e3-error-code/)
-- [Maytag Dryer F1E4 error code](/posts/maytag-dryer-f1e4-error-code/)
+- Maytag Dryer F1E4 error code
 - [Maytag Dryer F1E5 error code](/posts/maytag-dryer-f1e5-error-code/)
 - [Maytag Dryer F20 error code](/posts/maytag-dryer-f20-error-code/)
 - [Maytag Dryer F22 error code](/posts/maytag-dryer-f22-error-code/)

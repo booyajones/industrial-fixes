@@ -19,8 +19,6 @@ When a GE dishwasher is not draining, the machine detects standing water in the 
 
 In some model families you may see an FTD or FED error displayed, which stands for Failure to Drain. The most common root causes are mechanical blockages in the drain hose, filters, or sink connection. A clogged pressure sensor or pressure-sensing circuit is also a frequent cause in technician field experience, even when the drain pump itself is working fine.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Kinked or blocked drain hose** The hose under the sink can become crushed, kinked at the connection point, or filled with debris, preventing water from leaving the dishwasher.
@@ -64,8 +62,8 @@ If your appliance also shows a code on the display, these match this problem:
 - [Ge Dishwasher C8 error code](/posts/ge-dishwasher-c8-error-code/)
 - [Ge Dishwasher Ef error code](/posts/ge-dishwasher-ef-error-code/)
 - [Ge Dishwasher F56 error code](/posts/ge-dishwasher-f56-error-code/)
-- [Ge Dishwasher F9 error code](/posts/ge-dishwasher-f9-error-code/)
-- [Ge Dishwasher Ff error code](/posts/ge-dishwasher-ff-error-code/)
+- Ge Dishwasher F9 error code
+- Ge Dishwasher Ff error code
 
 ## When to Call a Pro
 

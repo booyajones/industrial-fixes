@@ -13,11 +13,8 @@ money_part: "Bosch tankless water heater temperature limiter (ECO sensor)"
 most_likely_cause: "Scale and lime buildup in the heat exchanger"
 ---
 
-## Bosch E9 Error Code — What It Means
-
+## What this code means
 The E9 code on a Bosch gas tankless water heater means the temperature limiter (also called the ECO or overheat sensor) has opened because the unit has overheated. This limiter is a safety device attached to the top-right corner of the copper heat exchanger and trips when it detects temperatures above 220 °F (104 °C). Once tripped, the limiter will reset after the unit cools down, but you still need to manually reset the error at the control panel and address the underlying cause before the heater will operate normally again.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

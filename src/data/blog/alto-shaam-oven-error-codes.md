@@ -38,8 +38,6 @@ Alto-Shaam manufactures commercial ovens including the Vector multi-cook oven an
 | E-30 | Water supply fault |
 | E-40 | Drain fault |
 
-[Jump to Fix](#fix)
-
 ## Common Fixes {#fix}
 
 **E-01/E-02 (sensor faults):** Test the cavity temperature sensor resistance. Alto-Shaam uses RTD (PT100) sensors on Combitherm models. Replace if out of spec.

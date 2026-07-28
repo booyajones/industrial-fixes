@@ -13,11 +13,8 @@ money_part: "Cold water inlet filter screen"
 most_likely_cause: "No water flow or very low flow through the unit"
 ---
 
-## Navien E009 Error Code — What It Means
-
+## What this code means
 E009 on a Navien tankless water heater or combi-boiler indicates a heat exchanger overtemperature fault. The heat exchanger outlet temperature sensor detected water temperature exceeding the safe upper limit. This is a thermal protection lockout — the unit shuts down to prevent damage to the copper heat exchanger, connecting hoses, and surrounding components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ E009 on a Navien tankless water heater or combi-boiler indicates a heat exchange
 ## When to Call a Pro
 
 If descaling and flow restoration do not resolve E009, the heat exchanger may have suffered damage from prolonged scale buildup. A licensed plumber should assess whether the heat exchanger needs replacement and whether a water softener or scale inhibitor should be added upstream of the unit.
-
-## Related Articles
-
-- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
-- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)
-- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
-- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
-- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)
-
-## See Also
-
-- [Navien Error Code E021 — Cold Water Inlet Thermistor Fault Fix](/posts/navien-error-code-e021/)
-- [Navien NCB Combi Boiler Error Codes — Complete Fault Guide](/posts/navien-ncb-error-codes/)
-- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
-- [Navien E302 Error Code — Causes & Fix](/posts/navien-error-code-e302/)

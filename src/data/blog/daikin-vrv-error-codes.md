@@ -118,18 +118,3 @@ Daikin VRV systems contain large refrigerant charges. U0 means the system has lo
 | [DIII-NET adapter](https://www.amazon.com/s?ascsubtag=ecf-daikin-vrv-error-codes&k=DIII-NET+adapter&tag=errorcodefixes-20) | For BAS integration |
 
 > **Pro tip:** Daikin VRV systems support fault history via the ITC. Navigate to Function > Error History to view the last 20 fault records with timestamps — essential for intermittent faults.
-
-## Related Articles
-
-- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
-- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
-- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
-- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
-- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)
-
-## See Also
-
-- [Daikin U7 Error Code - Causes & Fix](/posts/daikin-u7-error-code/)
-- [Daikin E7 Error Code — Outdoor Fan Motor Fault Fix](/posts/daikin-e7-error-code/)
-- [Daikin U3 Error Code - Causes & Fix](/posts/daikin-u3-error-code/)
-- [Daikin F3 Error Code — Causes & Fix](/posts/daikin-f3-error-code/)

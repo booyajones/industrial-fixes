@@ -59,11 +59,3 @@ The Series 7 monitors loop flow via a differential pressure switch. Check loop p
 | Reversing valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-waterfurnace-series-7-error-codes&k=Reversing+valve&tag=errorcodefixes-20) \| Match unit model |
 | Pressure transducer | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-waterfurnace-series-7-error-codes&k=Pressure+transducer&tag=errorcodefixes-20) \| Check calibration before replacing |
 > **Pro tip:** WaterFurnace Series 7 has variable speed compressor (0–100% capacity). Always view IntelliZone2 diagnostics screen for current operating pressures and EWT/LWT before diagnosing refrigerant issues.
-
-## Related Articles
-
-- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
-- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
-- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

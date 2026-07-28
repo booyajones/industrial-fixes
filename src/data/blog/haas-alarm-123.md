@@ -13,11 +13,8 @@ money_part: "ATC arm home proximity switch"
 most_likely_cause: "ATC arm left mid-stroke"
 ---
 
-## Haas Alarm 123 — What It Means
-
+## What this code means
 Haas Alarm 123 indicates that the ATC arm is not in the home position — the tool changer arm failed to return to its rest/home position after a tool change or was found out-of-position during startup. The Haas control monitors the arm home proximity switch; if that switch isn't activated when expected, Alarm 123 fires and the machine locks out.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -43,18 +40,3 @@ Haas Alarm 123 indicates that the ATC arm is not in the home position — the to
 ## When to Call a Pro
 
 ATC arm adjustments and proximity switch calibration on Haas machines should be done by Haas service or a certified dealer to ensure correct arm-to-spindle alignment.
-
-## Related Articles
-
-- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
-- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
-- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
-- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
-
-## See Also
-
-- [Haas Alarm 124 — Causes & Fix](/posts/haas-alarm-124/)
-- [Haas Alarm 113 — Spindle Encoder Fault Causes & Fix](/posts/haas-alarm-113/)
-- [Haas CNC Alarm Codes — Complete Guide (100-Series and Up)](/posts/haas-alarm-codes/)
-- [Haas VF-2 Common Alarms Guide — What They Mean and How to Fix Them](/posts/haas-vf2-common-alarms/)

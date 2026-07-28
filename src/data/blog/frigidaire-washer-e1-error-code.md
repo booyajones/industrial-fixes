@@ -21,8 +21,7 @@ part_price: "$12-25"
 no_buy_pct: "65%"
 ---
 
-## Frigidaire E1 Error Code — What It Means
-
+## What this code means
 On Frigidaire washers, the E1 error code means the control board is not detecting adequate water level rise within the allowed fill time window. The machine expects water to enter at a certain rate, and when the level sensor does not see enough water quickly enough, it flags a fill-time fault and stops the cycle. Frigidaire's owner documentation confirms E1 appears when water is not entering the washer or the fill time is too slow.
 
 Note that E1 is not universal across all Frigidaire products. On other appliances such as air fryers, E1 indicates a disconnected temperature sensor. Always confirm the meaning of E1 for your specific model by checking the owner's manual or wiring diagram, since the same code letters can mean different things on different product lines.
@@ -30,8 +29,6 @@ Note that E1 is not universal across all Frigidaire products. On other appliance
 ## Before You Replace Anything
 
 Many people replace the water inlet valve or pressure switch first. Before buying parts, check that both hot and cold supply faucets are fully open, the inlet hose screens are clean, and the lid closes completely.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

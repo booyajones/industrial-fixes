@@ -13,11 +13,8 @@ money_part: "Drain hose"
 most_likely_cause: "Blocked drain line"
 ---
 
-## Mitsubishi P4 Error Code — What It Means
-
+## What this code means
 Mitsubishi error code **P4** indicates a **drain system fault**. The indoor unit has detected water not draining correctly from the condensate pan. On wall-mount and cassette units, this usually means the drain line is blocked, the float switch is stuck, or the drain pump can't move water.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Mitsubishi error code **P4** indicates a **drain system fault**. The indoor unit
 | Drain pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-p4-error-code&k=Drain+pump&tag=errorcodefixes-20) \| Required on many cassette and concealed units |
 ## When to Call a Pro
 If the drain pump is not operating or the unit is built into a ceiling with poor access, a Mitsubishi technician can diagnose the float circuit and pump wiring safely.
-
-## Related Articles
-
-- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
-- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
-- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
-- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
-- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
-
-## See Also
-
-- [Mitsubishi P8 Error Code — Causes & Fix](/posts/mitsubishi-p8-error-code/)
-- [Mitsubishi Mini Split U4 Error Code — Causes & Fix](/posts/mitsubishi-mini-split-u4-error-code/)
-- [Mitsubishi FR-A700 Fault Codes - What It Means and How to Fix It](/posts/mitsubishi-fr-a700-fault-codes/)
-- [Mitsubishi E7 Error Code — Refrigerant Cycle Fault](/posts/mitsubishi-e7-error-code/)

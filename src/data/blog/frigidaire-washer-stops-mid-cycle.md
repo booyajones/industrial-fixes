@@ -19,8 +19,6 @@ A Frigidaire washer that stops mid-cycle is not throwing a single fault code on 
 
 If the unit displays a specific fault code when it stops, that code must be interpreted separately. The exact meaning depends on the model family. For example, door lock feedback problems can link to pause or stop behavior and sometimes to an E41 code on some models, but the logic varies across Frigidaire control systems.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Lid lock or door lock failure** False lock feedback or a failed latch assembly is the most common cause of a Frigidaire washer pausing or stopping mid-cycle.

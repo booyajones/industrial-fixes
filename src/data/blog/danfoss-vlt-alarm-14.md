@@ -160,18 +160,3 @@ New motors can have moisture from storage or shipping. Open the terminal box and
 **Q: Alarm 14 only appears during the first few minutes of operation on a cold morning. What's happening?**
 
 Classic moisture symptom. When the motor is cold, condensation forms on windings and the terminal box, providing a ground path. As the motor warms up, the moisture evaporates and insulation resistance rises. The fix: drain plugs on the motor (if applicable), anti-condensation heaters, better motor sealing, or a heat trace on the motor cable if the run passes through cold areas.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-
-## See Also
-
-- [Danfoss FC302 Complete Fault Code Guide — All Faults and Fixes](/posts/danfoss-fc302-complete-guide/)
-- [Danfoss VFD Fault OCL — Causes & Fix](/posts/danfoss-vfd-fault-ocl/)
-- [Danfoss VFD Fault Codes — FC301, FC302, FC102 Reference](/posts/danfoss-vfd-fault-codes/)
-- [Danfoss AKC Controller Fault Codes - Complete Guide](/posts/danfoss-akc-controller-fault/)

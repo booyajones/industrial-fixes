@@ -19,8 +19,6 @@ A Frigidaire washer that shakes and makes loud noise is not showing a fault code
 
 Loud banging, thumping, or clanking during operation usually points to off-balance laundry, objects in the drum, or loose items on clothing. If the noise persists with an empty load, the washer itself is the likely source.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Off-balance or uneven load** Oversized, undersized, or poorly distributed laundry causes the drum to shake heavily during spin.

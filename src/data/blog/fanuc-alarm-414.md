@@ -59,18 +59,3 @@ Following error is always present during motion (it's physically impossible to h
 If mechanical checks are clean, the coupling is solid, encoder cable looks good, and you're still getting Alarm 414 — you need servo parameter analysis by a Fanuc-certified technician. Following error alarms that can't be traced to mechanical or cable issues usually point to servo gain tuning problems or a failing servo amplifier that's not delivering commanded current accurately. These require live servo oscilloscope traces and parameter adjustment under controlled conditions. Tell the tech: "Alarm 414 on axis [n], no mechanical binding, coupling is tight, encoder cable is intact. I need servo gain analysis and amplifier output verification."
 
 > **Pro tip:** On Fanuc Series 0i and 16i/18i systems, you can read the actual following error value in real time from the diagnostic data screen (diagnostic numbers 300-305, one per axis). A following error that's consistently 100–200 units at low speed but suddenly spikes to 10,000+ units without a corresponding speed change is almost always an encoder cable fault — the pulse stream drops out briefly and the reported position jumps.
-
-## Related Articles
-
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
-- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
-- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
-
-## See Also
-
-- [Fanuc Alarm 3 — Overtravel Minus Hardware Causes & Fix](/posts/fanuc-alarm-3-overtravel/)
-- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
-- [Fanuc Alarm 800: APC Alarm — Causes and Fix](/posts/fanuc-alarm-800/)
-- [Fanuc Alarm 300 — APC Alarm Fix (Absolute Encoder)](/posts/fanuc-alarm-300/)

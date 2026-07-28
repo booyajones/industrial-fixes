@@ -19,8 +19,6 @@ When your Speed Queen washer is not dispensing detergent, it means the machine i
 
 This is a symptom rather than a fault code. On Speed Queen units the drawer and siphon design needs adequate incoming water pressure, unobstructed passages, and a working inlet valve to clear detergent completely. If any of those conditions are not met, you will see detergent sitting in the tray or dripping slowly instead of being washed into the drum.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Low incoming water pressure** The water inlet valve requires at least 20 psi to function properly, and insufficient household supply pressure prevents the dispenser from flushing.
@@ -60,12 +58,12 @@ If your appliance also shows a code on the display, these match this problem:
 - [Speed Queen Washer Du error code](/posts/speed-queen-washer-du-error-code/)
 - [Speed Queen Washer E 05 error code](/posts/speed-queen-washer-e-05-error-code/)
 - [Speed Queen Washer E 07 error code](/posts/speed-queen-washer-e-07-error-code/)
-- [Speed Queen Washer E 08 error code](/posts/speed-queen-washer-e-08-error-code/)
+- Speed Queen Washer E 08 error code
 - [Speed Queen Washer E 0D error code](/posts/speed-queen-washer-e-0d-error-code/)
-- [Speed Queen Washer E1 error code](/posts/speed-queen-washer-e1-error-code/)
+- Speed Queen Washer E1 error code
 - [Speed Queen Washer E5 error code](/posts/speed-queen-washer-e5-error-code/)
 - [Speed Queen Washer E7 error code](/posts/speed-queen-washer-e7-error-code/)
-- [Speed Queen Washer Ec 09 error code](/posts/speed-queen-washer-ec-09-error-code/)
+- Speed Queen Washer Ec 09 error code
 
 ## When to Call a Pro
 

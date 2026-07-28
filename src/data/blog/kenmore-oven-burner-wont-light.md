@@ -20,8 +20,6 @@ When your Kenmore oven burner won't light, the ignition sequence has failed befo
 
 This is a system-level failure, not a specific error code. The igniter may glow orange but still be too weak to pull enough amperage to open the valve. The oven control board expects a certain current draw from the igniter before it energizes the gas valve coil.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Weak or Failed Oven Igniter** The glow bar draws less than 3.0 amps or has a broken filament, so the gas valve never opens (around 60% of cases).
@@ -61,10 +59,10 @@ If your appliance also shows a code on the display, these match this problem:
 - [Kenmore Oven F3 error code](/posts/kenmore-oven-f3-error-code/)
 - [Kenmore Oven F30 error code](/posts/kenmore-oven-f30-error-code/)
 - [Kenmore Oven F31 error code](/posts/kenmore-oven-f31-error-code/)
-- [Kenmore Oven F33 error code](/posts/kenmore-oven-f33-error-code/)
+- Kenmore Oven F33 error code
 - [Kenmore Oven F4 error code](/posts/kenmore-oven-f4-error-code/)
 - [Kenmore Oven F5 error code](/posts/kenmore-oven-f5-error-code/)
-- [Kenmore Oven F50 error code](/posts/kenmore-oven-f50-error-code/)
+- Kenmore Oven F50 error code
 - [Kenmore Oven F7 error code](/posts/kenmore-oven-f7-error-code/)
 
 ## When to Call a Pro

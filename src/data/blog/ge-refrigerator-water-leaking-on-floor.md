@@ -19,8 +19,6 @@ A GE refrigerator leaking water on the floor is a symptom of uncontrolled water 
 
 If you see ice forming on the freezer floor or pooling under the fresh-food vegetable pans, that usually points to a clogged defrost drain tube. Water appearing at the front or under the unit typically indicates a supply line issue, a leaking water valve, or a damaged drain pan.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Loose or split copper household water supply line** The copper line connecting the household water to the refrigerator valve at the rear can work loose or develop a split over time.

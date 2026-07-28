@@ -20,8 +20,6 @@ When your Samsung oven temperature is not accurate, the actual cavity temperatur
 
 If the needed correction is larger than that 35°F range, the issue usually points to a bad temperature sensor or probe rather than simple calibration drift. Other causes include a failed bake element in electric models, demo mode being enabled, door seal problems, or gas supply issues on gas ranges.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Calibration drift over time** Samsung ovens naturally drift out of calibration as they age, and the control board allows you to adjust the thermostat by up to 35°F higher or lower to correct it.

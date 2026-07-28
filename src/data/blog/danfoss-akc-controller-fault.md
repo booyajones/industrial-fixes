@@ -55,10 +55,3 @@ AKC controllers on LonWorks or RS-485 networks alarm on communication loss. Chec
 | AKC controller | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-danfoss-akc-controller-fault&k=AKC+controller&tag=errorcodefixes-20) \| Replace on A10 fault |
 ## When to Call a Pro
 Danfoss ADAP-KOOL network configuration and AKM system management require Danfoss-trained refrigeration controls technicians. A misconfigured AKC defrost schedule can cause food safety violations.
-
-## See Also
-
-- [Danfoss VFD Fault AL 14 — Causes & Fix](/posts/danfoss-vfd-fault-al-14/)
-- [Danfoss VFD Fault E-Trip — Causes & Fix](/posts/danfoss-vfd-fault-e-trip/)
-- [Danfoss VFD Fault W30 — Brake Resistor Overtemperature Fix](/posts/danfoss-vfd-fault-w30/)
-- [Danfoss VLT Alarm 14 - Earth Fault: What It Means and How to Fix It](/posts/danfoss-vlt-alarm-14/)

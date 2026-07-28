@@ -13,13 +13,10 @@ money_part: "Flame sensor or ignition control (model-specific)"
 diy_or_pro: "pro"
 ---
 
-## Weil-McLain A29 Error Code — What It Means
-
+## What this code means
 An A29 error code does not appear in published Weil-McLain service manuals for the Ultra, Aqua Balance, or other common residential boiler lines. Weil-McLain control displays typically use letter-number formats like E-03 or descriptive fault histories rather than A29. The exact meaning depends on your boiler model and control board type.
 
 Because the code is not manufacturer-documented, you should first identify your full model number and control family, then consult the fault section of that model's installation and service manual. Most Weil-McLain lockout codes relate to ignition or flame-proving faults, pressure or flow problems, temperature limits, or condensate drainage issues, but without the specific model table, any diagnosis for A29 would be a guess.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -67,10 +64,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician immediately if the A29 code persists after checking system pressure and recording the fault history. Gas-fired boiler diagnostics require combustion testing, flame-sensing checks, and control-board programming that are beyond DIY scope and unsafe without proper training. A technician will pull the full fault log, measure gas pressure, test ignition components, verify vent operation, and consult the model-specific fault table to identify the true cause. Weil-McLain technical support can also help decode the display if you provide the full model number and control type. Do not attempt to bypass safety switches or override lockouts, as doing so can create carbon-monoxide hazards or damage the heat exchanger.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Weil-McLain A159 Error - Causes & Fix](/posts/weil-mclain-boiler-a159-error-code/)
-- [Weil-McLain Boiler A115 Error - Causes & Fix](/posts/weil-mclain-boiler-a115-error-code/)
-- [Weil-McLain Boiler A87 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a87-error-code/)
-- [Weil-McLain Code 3 — Low Water Cutoff Fix](/posts/weil-mclain-error-code-3/)

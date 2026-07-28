@@ -17,8 +17,7 @@ money_part: "4-inch flexible dryer duct (aluminum or semi-rigid)"
 part_price: "$10-40"
 ---
 
-## Samsung Dryer C90 Error Code — What It Means
-
+## What this code means
 The C90 (or C9) error code on a Samsung dryer indicates the vent blockage test found more than 90% vent restriction. Samsung classifies this as a restricted airflow fault. The dryer is detecting abnormal airflow or high temperature caused by poor exhaust venting, not usually an electrical component failure inside the machine.
 
 In practice, the dryer cannot exhaust properly, so heat and backpressure build up. The control logic flags this condition after running its internal vent blockage test. The code is telling you the vent system is over 90% clogged, and the dryer will not operate safely until airflow is restored.
@@ -26,8 +25,6 @@ In practice, the dryer cannot exhaust properly, so heat and backpressure build u
 ## Before You Replace Anything
 
 Homeowners sometimes replace the thermistor or control board first. Before buying any parts, clean the entire vent path from the lint screen to the outside hood and re-run the vent blockage test to see if the code clears.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

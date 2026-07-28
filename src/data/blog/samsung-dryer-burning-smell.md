@@ -17,8 +17,6 @@ tags:
 
 A Samsung dryer burning smell is not a fault code. It is a symptom that indicates either lint and airflow overheating, friction from a mechanical component, or an electrical overheating issue. Samsung says a new dryer may smell like burning for about 15 minutes as shipping oil residue burns off, but any persistent odor requires you to turn off the dryer at the circuit breaker and request service.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Lint buildup or restricted exhaust vent** Clogged lint traps, exhaust vents, or kinked ducts cause overheating and are the most common reason for a persistent burning smell.
@@ -62,7 +60,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Samsung Dryer Be error code](/posts/samsung-dryer-be-error-code/)
 - [Samsung Dryer Be2 error code](/posts/samsung-dryer-be2-error-code/)
 - [Samsung Dryer C1 error code](/posts/samsung-dryer-c1-error-code/)
-- [Samsung Dryer C2 error code](/posts/samsung-dryer-c2-error-code/)
+- Samsung Dryer C2 error code
 - [Samsung Dryer C8 error code](/posts/samsung-dryer-c8-error-code/)
 - [Samsung Dryer C80 error code](/posts/samsung-dryer-c80-error-code/)
 

@@ -19,8 +19,6 @@ When a Samsung dishwasher won't latch, the sensor cannot detect that the door is
 
 Samsung says a door may not close completely because the racks are not pushed in, dishes are obstructing the door, the dishwasher is not leveled, or the latch is not in the correct position. On non-display models, blinking lights can also indicate a stuck button rather than a latch fault, so the symptom should not be assumed to be mechanical without checking the control interface too.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dish or rack interference** Items are loaded improperly or the racks are not fully seated, so the door cannot close completely.

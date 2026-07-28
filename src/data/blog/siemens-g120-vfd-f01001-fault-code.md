@@ -13,13 +13,10 @@ money_part: "Siemens G120 Control Unit (CU)"
 most_likely_cause: "Transient processor exception"
 ---
 
-## Siemens G120 F01001 — What It Means
-
+## What this code means
 F01001 is a FloatingPoint exception fault on the Siemens SINAMICS G120. It signals that an error occurred during a floating-point calculation inside the drive's internal software or control logic. This is not a motor, wiring, or power-stage issue. The fault comes from the drive's basic system or an OA application such as FBLOCKS or DCC. The drive reacts by shutting down (OFF2) and requires a full power-off/power-on cycle (POWER ON) to acknowledge and clear the fault.
 
 Because F01001 is a software-level fault, the typical causes are corrupted configuration data, a firmware bug, or a failing Control Unit. The drive's diagnostic buffer (parameter r0945) will record the event. You will not find motor resistance values or voltage thresholds tied to this code. Instead, focus on resetting the controller, verifying parameter settings, updating firmware if available, and replacing the Control Unit if the fault persists after a clean reboot.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ Because F01001 is a software-level fault, the typical causes are corrupted confi
 ## When to Call a Pro
 
 Call a Siemens-certified technician or your distributor's hotline if F01001 persists after a full power cycle and firmware update. The fault may require in-depth diagnostics using service tools, access to parameter r9999, and analysis of the fault buffer history. If your process depends on custom FBLOCKS or DCC charts, an applications engineer will need to validate the logic and data types. A recurring floating-point exception often means a hardware fault in the Control Unit that only a trained professional with OEM replacement parts and calibration equipment can address safely.
-
-## See Also
-
-- [Siemens VFD Fault Codes — SINAMICS G120, V20, S120 Guide](/posts/siemens-vfd-fault-codes/)
-- [Siemens SINAMICS V20 F1 Fault — Causes & Fix](/posts/siemens-sinamics-v20-f1-fault/)
-- [Siemens Micromaster F0023 - Causes & Fix](/posts/siemens-micromaster-vfd-f0023-fault-code/)
-- [Siemens G120 F01662 - Causes & Fix](/posts/siemens-g120-vfd-f01662-fault-code/)

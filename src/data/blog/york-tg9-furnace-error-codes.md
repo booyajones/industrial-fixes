@@ -17,8 +17,6 @@ money_part: "Hot surface igniter"
 
 The York TG9 is a 96% AFUE two-stage variable-speed gas furnace. It is part of York's Affinity series and uses a communicating control board when connected to a York proprietary thermostat, or a standalone LED diagnostic when used with a conventional thermostat. The TG9 uses an ECM blower motor for variable airflow and a two-stage gas valve for comfort-based modulation. It vents via PVC condensing flue and produces condensate requiring a drain trap.
 
-[Jump to Fix](#fix)
-
 ## York TG9 LED Flash Code Reference
 
 | Flash Sequence | Fault |
@@ -65,18 +63,3 @@ The York TG9 is a 96% AFUE two-stage variable-speed gas furnace. It is part of Y
 ## When to Call a Pro
 
 The York TG9 ECM motor and variable-speed control logic require familiarity with York's communicating control system. If the TG9 is installed with a York proprietary thermostat and showing thermostat-level fault codes, a York dealer with system diagnostic tools is needed for full root-cause analysis. Rollout switch trips (Code 6) must be investigated for heat exchanger integrity before returning to service.
-
-## Related Articles
-
-- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
-- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)
-- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
-- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
-- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
-
-## See Also
-
-- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
-- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)
-- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
-- [York Rooftop Unit Error Codes: Technician Guide](/posts/york-rooftop-unit-error-codes/)

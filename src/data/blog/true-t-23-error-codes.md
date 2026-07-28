@@ -17,8 +17,6 @@ money_part: "Cabinet temperature sensor"
 
 The True T-23 is a one-section reach-in commercial refrigerator widely used in bars, restaurants, and foodservice operations. It is part of True's T-series line — one of the most common commercial refrigerators in service in North America. Older T-23 models used analog temperature controls with no error codes. Newer T-23 units equipped with the True Digital Control (TDC) system display error codes on the temperature readout display when a fault is detected.
 
-[Jump to Fix](#fix)
-
 ## True T-23 Digital Control Error Code Reference
 
 | Code | Fault |
@@ -62,18 +60,3 @@ The True T-23 is a one-section reach-in commercial refrigerator widely used in b
 ## When to Call a Pro
 
 True T-23 refrigerators with refrigerant undercharge require EPA 608 certified technicians for refrigerant service. If the unit is repeatedly tripping high temperature (E6) with a clean condenser and working fans, the issue may be a low refrigerant charge — a technician with manifold gauges should verify system pressures before condemning the compressor.
-
-## Related Articles
-
-- [True Refrigeration E1 Error Code — Causes & Fix](/posts/true-refrigeration-e1-error-code/)
-- [True Refrigeration E2 Error Code — Causes & Fix](/posts/true-refrigeration-e2-error-code/)
-- [True Refrigeration E3 Error Code — Causes & Fix](/posts/true-refrigeration-e3-error-code/)
-- [True Refrigeration E4 Error Code — Causes & Fix](/posts/true-refrigeration-e4-error-code/)
-- [True Refrigeration E5 Error Code — Defrost Sensor Causes & Fix](/posts/true-refrigeration-e5-error-code/)
-
-## See Also
-
-- [True Refrigeration E5 Error Code — Defrost Sensor Causes & Fix](/posts/true-refrigeration-e5-error-code/)
-- [True Refrigerator Error Code E2 / P2: Evaporator Probe Failure Causes and Fix](/posts/true-refrigeration-e2-p2-error/)
-- [True GDM-49 Glass Door Merchandiser Error Codes - Full Fault Guide](/posts/true-gdm-49-error-codes/)
-- [True GDM-23 Error Codes - What It Means and How to Fix It](/posts/true-gdm-23-error-codes/)

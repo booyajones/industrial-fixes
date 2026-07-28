@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Washer Lid Error Code — What It Means
-
+## What this code means
 On Amana top-load HE washers, the lid-related codes are LdL and LdU. LdL means the control requested the lid to lock but the lid lock did not engage. LdU means the control requested the lid to unlock but the lid lock did not release, often because something is physically blocking the lid or lock area. The lid must remain closed and locked during fill, wash, drain, rinse, and spin for safety, and the lock stays engaged while the basket is moving.
 
 Amana specifically notes that objects on top of the washer or items directly under the lid can prevent the lock or unlock action and will trigger these codes. The washer will not proceed with a cycle until the lid can lock properly, and it will not unlock until the tub has fully stopped.
@@ -26,8 +25,6 @@ Amana specifically notes that objects on top of the washer or items directly und
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first, but most lid-lock codes are resolved by cleaning debris from the lid strike and lock area or replacing the lid lock assembly. Always clear obstructions and test the lock mechanism before swapping the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Allen-Bradley PowerFlex 525 F005 — What It Means
-
+## What this code means
 F005 on a PowerFlex 525 means OverVoltage. The fault is generated when the DC bus voltage inside the drive rises above the drive's maximum allowable level. This condition can be triggered by high incoming AC line voltage, transient spikes on the supply, or motor regeneration during deceleration.
 
 The drive monitors the DC bus continuously. When voltage exceeds the limit, the drive trips to protect the internal power electronics. The fault table from Rockwell Automation states that F005 indicates DC bus overvoltage and directs you to check for high line voltage, transient conditions, or bus overvoltage caused by motor regeneration.
@@ -24,8 +23,6 @@ The drive monitors the DC bus continuously. When voltage exceeds the limit, the 
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire VFD when the fault persists, but the overvoltage is usually external. Measure incoming line voltage and check the deceleration time parameter before assuming drive hardware failure.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or controls technician if you are not trained to work with three-phase power, measure DC bus voltage, or program VFD parameters. Overvoltage faults involve high-voltage power electronics and require diagnostic tools and knowledge of motor control. A professional can safely measure line voltage, check for transient conditions, adjust deceleration parameters, and determine whether dynamic braking is needed. If the fault persists after correcting supply and load issues, the drive may need factory support or replacement, which should be handled by a Rockwell-authorized service provider.
 
 **Rough cost:** A pro service call runs about $200-600.
-
-## See Also
-
-- [Allen Bradley PowerFlex 525 F005 Fault, Overvoltage Causes & Fix](/posts/allen-bradley-powerflex-525-fault-f005/)
-- [Allen-Bradley PowerFlex F004 Fault — Undervoltage Fix](/posts/allen-bradley-powerflex-f004-fault/)
-- [Allen-Bradley PowerFlex F070 Fault — Power Unit Fault Fix](/posts/allen-bradley-powerflex-f070-fault/)
-- [Allen Bradley PowerFlex 523 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-523-fault-f7/)

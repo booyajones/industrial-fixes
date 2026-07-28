@@ -53,18 +53,3 @@ If wiring and motor are correct and the fault persists, the indoor PCB fan drive
 ## When to Call a Technician
 
 DC brushless motor replacement in Mitsubishi indoor units requires removing the indoor unit from its mounting plate and disassembling the blower housing. A licensed tech with experience on ductless systems can complete this repair in 1–2 hours. If the outdoor refrigerant circuit is not involved, this is a non-refrigerant repair (no EPA certification needed for the motor swap itself).
-
-## Related Articles
-
-- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
-- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
-- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
-- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
-- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
-
-## See Also
-
-- [Mitsubishi FR-D700 VFD Fault Codes — Complete Diagnostic Reference](/posts/mitsubishi-fr-d700-fault-codes/)
-- [Mitsubishi Mini Split P6 Error Code Fix](/posts/mitsubishi-p6-error-code/)
-- [Mitsubishi Mini Split E9 Error Code — Causes & Fix](/posts/mitsubishi-mini-split-e9-error-code/)
-- [Mitsubishi Mini Split P1 Error Code Fix](/posts/mitsubishi-p1-error-code/)

@@ -17,8 +17,7 @@ money_part: "GE icemaker module assembly"
 part_price: "$80-180"
 ---
 
-## GE Refrigerator CI Error Code — What It Means
-
+## What this code means
 The CI error code on GE refrigerators stands for "Check the icemaker for proper operation." In practice, this means the refrigerator has detected an ice maker communication error between the icemaker module and the main control board. When the icemaker circuit or module cannot communicate normally, ice production will stop until the fault is cleared or the failed component is replaced.
 
 The code indicates that the control board is not receiving proper signals from the icemaker assembly. This can be caused by loose wiring, a failed icemaker module, a control board communication fault, or a mechanical jam in the icemaker mechanism. Some GE models may clear the code after a power reset if the fault was temporary, but a persistent CI code usually requires inspection of the icemaker harness and module.
@@ -26,8 +25,6 @@ The code indicates that the control board is not receiving proper signals from t
 ## Before You Replace Anything
 
 Homeowners often replace the entire icemaker assembly when the problem is just a loose connector or corroded pin. Before ordering parts, unplug the refrigerator and inspect the icemaker harness plug for full seating and clean metal contacts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

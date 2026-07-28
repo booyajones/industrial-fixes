@@ -15,8 +15,7 @@ likelihood: "the most common real-world causes"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 Uv1 Fault — What It Means
-
+## What this code means
 Uv1 on a Yaskawa A1000 drive signals DC bus undervoltage: the internal DC bus voltage dropped below the drive's threshold while running, or stayed below it longer than the programmed trip delay. For 200 V class drives the threshold is approximately 190 V (160 V for single-phase 200 V models), and for 400 V class drives it is approximately 380 V (350 V when parameter E1-01 is set below 400). The drive shuts down to protect itself from damage when it cannot maintain stable DC voltage.
 
 This fault family is most often triggered by external supply problems rather than internal drive failure. Input power phase loss, loose or undersized input wiring, abnormal incoming line voltage, undersized upstream transformers, and faulty upstream contactors all appear in Yaskawa's diagnostic guidance. Internal aging of main-circuit capacitors or power-section circuitry can also cause Uv1, particularly on older drives or those approaching the end of their capacitor service life.
@@ -24,8 +23,6 @@ This fault family is most often triggered by external supply problems rather tha
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive when the real cause is a loose terminal block connection or a failing upstream contactor. Always measure incoming line voltage under load and retorque all main-circuit terminals to specification before condemning the drive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drive technician if you are not trained to work on high-voltage three-phase equipment, if incoming line voltage measurements are outside specification and require utility or transformer work, or if all external wiring and supply checks pass but the Uv1 fault persists. Internal inspection of the drive's DC bus capacitors, rectifier section, and power boards requires lockout/tagout procedures, high-voltage safety training, and access to the service manual. A technician can also measure DC bus voltage directly, interpret capacitor-life monitors, and determine whether board-level repair or full drive replacement is the most economical path for your installation.
 
 **Rough cost:** A pro service call runs about $150-600 depending on whether the fix is wiring, a contactor, or drive replacement.
-
-## See Also
-
-- [Yaskawa GA800 E02 Fault - Causes & Fix](/posts/yaskawa-ga800-e02-fault-code/)
-- [Yaskawa A1000 oL2 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol2-fault-code/)
-- [Yaskawa GA800 A.124 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-124-fault-code/)
-- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)

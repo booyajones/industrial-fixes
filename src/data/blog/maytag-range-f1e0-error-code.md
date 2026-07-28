@@ -17,8 +17,7 @@ money_part: "Touch control panel (user interface)"
 part_price: "$80-200"
 ---
 
-## Maytag Range F1E0 Error Code — What It Means
-
+## What this code means
 The F1E0 error code on a Maytag range indicates that one or more keys on the touchpad are being detected as permanently pressed. This is not a temperature sensor fault. The control interface is seeing a continuous key input, which prevents normal operation and often triggers beeping or flashing. Maytag's own product guidance for F1E0 on electric cooktops identifies stuck keys as the root cause and recommends cleaning the touch control panel and resetting power as the first steps.
 
 Because Maytag publishes this definition specifically for electric cooktops, the same code on a range should be interpreted the same way. The control board thinks a key is held down, either from contamination on the touch surface, physical debris, a failed touch panel, or a problem with the cooktop control board and its wiring. Addressing the stuck-key condition is the core of the repair.
@@ -26,8 +25,6 @@ Because Maytag publishes this definition specifically for electric cooktops, the
 ## Before You Replace Anything
 
 Many people replace the main control board first, assuming an internal fault. Clean the touch panel thoroughly and reset power before ordering electronics, since contamination or a stuck object causes most F1E0 faults.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

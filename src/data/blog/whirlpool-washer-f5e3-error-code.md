@@ -17,8 +17,7 @@ money_part: "Whirlpool lid lock assembly"
 part_price: "$30-80"
 ---
 
-## Whirlpool F5E3 Error Code — What It Means
-
+## What this code means
 The F5 E3 code on Whirlpool top-load washers is a lid lock or door switch wiring error. The control board expects to receive a signal confirming the lid is locked for the cycle, but the lock feedback circuit is not providing that confirmation. This fault is tied specifically to the lid lock and door switch wiring system in Whirlpool top-load machines.
 
 The washer will not start or continue its cycle until it sees a reliable locked-lid signal. The code can appear if the lid is not fully closed, if clothing or debris blocks the latch, if the lock assembly itself has failed, or if the wiring harness or connectors between the lock and the control have become loose, corroded, or damaged. A temporary control glitch can also trigger the code, which is why a power reset is the first troubleshooting step.
@@ -26,8 +25,6 @@ The washer will not start or continue its cycle until it sees a reliable locked-
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board when the F5E3 code persists. Check the lid lock assembly and its wiring harness first, both are far more often the root cause and cost much less to replace.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

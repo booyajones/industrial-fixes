@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Main control board (electronic control)"
 ---
 
-## Whirlpool Dryer F01 Error Code — What It Means
-
+## What this code means
 The F01 error code on a Whirlpool dryer indicates a control or electronic system failure. It is not related to airflow, venting, or heating issues. The code appears when the main control board detects a fault in its own circuitry or communication pathways. Whirlpool's official support recommends a power reset as the first troubleshooting step, which points to the electronic nature of the fault.
 
 Independent repair sources and field technicians consistently identify F01 as a main control board problem. The control board is the computer that runs the dryer's cycles, and when its internal components fail or connections degrade, the board flags itself with F01. This code typically requires inspection and repair or replacement of electronic components rather than user-serviceable parts like sensors or switches.
@@ -25,8 +24,6 @@ Independent repair sources and field technicians consistently identify F01 as a 
 ## Before You Replace Anything
 
 Homeowners sometimes replace door switches, thermistors, or thermal fuses hoping to clear F01, but those parts rarely cause this code. Visually inspect the control board for burned spots, cracked solder joints, or a damaged relay before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -14,11 +14,8 @@ money_part: "Bradford White thermal well sensor"
 most_likely_cause: "Thermal well sensor damaged or disconnected"
 ---
 
-## Bradford White 3 Flashes — What It Means
-
+## What this code means
 When your Bradford White gas water heater's green status LED flashes 3 times (with a 3-second pause between cycles), the control has detected a thermal well sensor circuit problem or an internal electronics fault in the gas control itself. The thermal well is the temperature sensor that tells the valve when to fire and when to shut off. The control uses this flash pattern to tell you it cannot read the sensor properly or has detected damage in its own circuitry.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

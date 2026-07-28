@@ -20,8 +20,6 @@ When your Whirlpool oven self-clean cycle won't start, the oven is blocking the 
 
 If the display shows an error code, the oven may be detecting a power-supply or control issue. Common codes include PF for power failure or F9/F9 E0 for electrical supply or miswire-related faults. If the oven went completely dead after a previous self-clean attempt, a thermal fuse or thermal cutoff has likely blown in the control circuit.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Control Lock is enabled** The Control Lock feature blocks all oven operation until it is manually cleared, and Whirlpool identifies this as a common reason self-clean will not start.
@@ -55,18 +53,18 @@ If the display shows an error code, the oven may be detecting a power-supply or 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Whirlpool Oven A6 error code](/posts/whirlpool-oven-a6-error-code/)
-- [Whirlpool Oven Ab error code](/posts/whirlpool-oven-ab-error-code/)
-- [Whirlpool Oven Cal error code](/posts/whirlpool-oven-cal-error-code/)
-- [Whirlpool Oven F1 E0 error code](/posts/whirlpool-oven-f1-e0-error-code/)
-- [Whirlpool Oven F1 E1 error code](/posts/whirlpool-oven-f1-e1-error-code/)
-- [Whirlpool Oven F2 E0 error code](/posts/whirlpool-oven-f2-e0-error-code/)
-- [Whirlpool Oven F2 E1 error code](/posts/whirlpool-oven-f2-e1-error-code/)
-- [Whirlpool Oven F3 E0 error code](/posts/whirlpool-oven-f3-e0-error-code/)
-- [Whirlpool Oven F3 E1 error code](/posts/whirlpool-oven-f3-e1-error-code/)
-- [Whirlpool Oven F5 E0 error code](/posts/whirlpool-oven-f5-e0-error-code/)
-- [Whirlpool Oven F5 E1 error code](/posts/whirlpool-oven-f5-e1-error-code/)
-- [Whirlpool Oven F7 error code](/posts/whirlpool-oven-f7-error-code/)
+- Whirlpool Oven A6 error code
+- Whirlpool Oven Ab error code
+- Whirlpool Oven Cal error code
+- Whirlpool Oven F1 E0 error code
+- Whirlpool Oven F1 E1 error code
+- Whirlpool Oven F2 E0 error code
+- Whirlpool Oven F2 E1 error code
+- Whirlpool Oven F3 E0 error code
+- Whirlpool Oven F3 E1 error code
+- Whirlpool Oven F5 E0 error code
+- Whirlpool Oven F5 E1 error code
+- Whirlpool Oven F7 error code
 
 ## When to Call a Pro
 

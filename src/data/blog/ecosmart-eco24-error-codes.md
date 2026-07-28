@@ -13,13 +13,10 @@ money_part: "EcoSmart inlet thermistor"
 most_likely_cause: "Failed or disconnected thermistor"
 ---
 
-## EcoSmart ECO 24 Error Codes — What It Means
-
+## What this code means
 EcoSmart ECO 24 error codes indicate specific faults in the tankless water heater's temperature sensing, flow control, or power supply. E1 signals an inlet thermistor problem, E2 points to an outlet thermistor issue, and E3 means both thermistors or the temperature-sensing circuit have failed. E4 is a high-temperature fault (inlet water is already too hot for safe operation), E5 is a high-flow fault (water is flowing too fast for the heater to reach setpoint), and S103 indicates a low-voltage or supply-power problem.
 
 The ECO 24 shares a common troubleshooting platform with the ECO 8, 11, 18, 27, and 36 models. The unit requires an activation flow rate of approximately 0.3 GPM to turn on and depends on correct 240 V wiring, proper breaker sizing, and adequate wire gauge to operate reliably. Many error codes can be cleared or diagnosed using the heater's built-in calibration mode, but persistent faults usually trace back to failed sensors, incorrect installation, or supply-side conditions outside the heater's operating envelope.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

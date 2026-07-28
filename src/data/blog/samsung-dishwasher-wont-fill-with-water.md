@@ -17,8 +17,6 @@ tags:
 
 A Samsung dishwasher that won't fill with water is not displaying an error code but showing a symptom of a fill fault. The dishwasher is being commanded to start, but the fill sequence is not completing. On Samsung units, this can happen because the machine is intentionally blocking fill for a safety or interlock reason, or because the water path or electrical fill circuit has failed. Samsung's own guidance treats this as a start and fill complaint and directs you to check the door and latch, Child Lock, Delay Start, and then service-related causes if it still will not fill.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Water supply shut off or restricted** The under-sink shutoff valve may be closed or only partially open, blocking flow to the dishwasher.

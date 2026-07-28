@@ -19,8 +19,6 @@ An LG washer overflow fault means the control has detected water above the safe 
 
 The overflow is usually the result of a mechanical or electrical failure in the water-fill system. Either water is physically leaking into the tub uncontrolled, or the control board is getting incorrect level information and never shuts off the inlet valve.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Stuck-open or failed water inlet valve** The valve solenoid fails closed or debris wedges the valve seat open, allowing water to flow continuously even when the machine is off or not calling for fill.

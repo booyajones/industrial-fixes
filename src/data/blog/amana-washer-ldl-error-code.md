@@ -21,8 +21,7 @@ part_price: "$30-70"
 no_buy_pct: "65%"
 ---
 
-## Amana Ld Error Code — What It Means
-
+## What this code means
 The Ld error code on Amana top-load and high-efficiency washers stands for "long drain" and indicates the machine is taking too long to drain water. Amana's official product help confirms this is a drain pump system problem where the washer cannot empty within the expected time limit.
 
 The code typically appears during or after the drain cycle when water remains in the tub. The washer may pause mid-cycle or stop completely. This fault points to a restriction or failure somewhere in the drain path, from the hose routing all the way to the pump itself.
@@ -30,8 +29,6 @@ The code typically appears during or after the drain cycle when water remains in
 ## Before You Replace Anything
 
 Many owners replace the drain pump immediately, but the majority of Ld codes are caused by incorrect hose installation. Check the hose depth, height, and routing before ordering a pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

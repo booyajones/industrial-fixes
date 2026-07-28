@@ -14,11 +14,8 @@ money_part: "Flame sensor"
 most_likely_cause: "Contaminated or failed flame sensor"
 ---
 
-## American Standard Furnace 2 Flashes — What It Means
-
+## What this code means
 A 2-flash LED code on your American Standard furnace indicates the control board has entered retry lockout after repeated unsuccessful ignition or flame-proving attempts. The furnace tried to light multiple times, failed to establish or maintain flame, and shut itself down as a safety measure. In the field, this usually shows up as a furnace that tries to start, runs briefly or not at all, then shuts off and blows cold air because flame was never sustained or dropped out shortly after ignition.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

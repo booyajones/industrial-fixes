@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Dryer AF/F4E3 Error Code — What It Means
-
+## What this code means
 AF and F4E3 both indicate restricted airflow or a blocked vent path on Amana dryers. The code tells you to check the lint screen, exhaust vent hose, and exterior hood for clogs, kinks, or crushing. The dryer will continue to run with this message on the display, and pressing any key clears it temporarily. The fault is not a heater or sensor problem. It is an airflow diagnostic triggered when the vent system cannot move enough air out of the machine.
 
 The code appears when lint buildup, a crushed vent hose behind the dryer, too many elbows in the duct run, or a blocked exterior hood restricts exhaust flow. If the message returns after you clear it, the issue is almost always in the house venting rather than inside the dryer cabinet itself.
@@ -25,8 +24,6 @@ The code appears when lint buildup, a crushed vent hose behind the dryer, too ma
 ## Before You Replace Anything
 
 Homeowners sometimes replace the heating element or control board when they see this code. The real fix is almost always cleaning the lint screen, vent hose, and exterior hood rather than replacing any electronic part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

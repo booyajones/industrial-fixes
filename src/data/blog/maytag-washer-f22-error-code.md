@@ -22,8 +22,7 @@ part_price: "$20-50"
 no_buy_pct: "60%"
 ---
 
-## Maytag Washer F22 Error Code — What It Means
-
+## What this code means
 The F22 error code on a Maytag washer signals a door lock malfunction. The washer has detected that the door is not properly secured or the control board did not receive confirmation that the lock engaged. This is a safety feature that prevents the wash cycle from starting when the door is not securely locked.
 
 The code can mean the door latch itself is blocked, the strike (the metal piece the lock grabs) is out of position, the lock assembly has failed internally, or the wiring between the lock and the control board is damaged or loose. Less often, the main control board itself is at fault. The good news is that a simple obstruction or misalignment is behind most F22 errors, so start with the no-cost checks before ordering parts.
@@ -31,8 +30,6 @@ The code can mean the door latch itself is blocked, the strike (the metal piece 
 ## Before You Replace Anything
 
 Many people replace the control board first, which is expensive. Always test the door lock assembly and wiring for continuity and check for obstructions or a bent strike before swapping the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

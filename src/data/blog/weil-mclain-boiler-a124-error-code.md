@@ -17,8 +17,7 @@ free_checks:
   - "Check all visible wire harness connectors at the control board and sensors for loose or corroded pins"
 ---
 
-## Weil-McLain Boiler A124 Error — What It Means
-
+## What this code means
 The A124 error code cannot be precisely defined without knowing your exact Weil-McLain boiler model and control platform. Weil-McLain uses different fault-code sets across their boiler families, and the same code number can mean different things on different controls. Without the model-specific service manual, diagnosing A124 is guesswork.
 
 In general, Weil-McLain fault codes indicate sensor failures, wiring connection problems, ignition or flame-proving faults, or control board issues. The only safe way to know what A124 means on your unit is to locate the model and serial-number plate on the boiler jacket, then pull the matching installation and service manual from Weil-McLain's website or call their technical support line with the model number in hand.
@@ -26,8 +25,6 @@ In general, Weil-McLain fault codes indicate sensor failures, wiring connection 
 ## Before You Replace Anything
 
 Without the correct manual, technicians often replace control boards or sensors at random. Always verify the exact fault definition and test the suspected circuit per the manufacturer's procedure before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -71,10 +68,3 @@ Answer these to narrow it down fast.
 Call a licensed heating technician or Weil-McLain authorized service company if you do not have the model-specific manual, if the manual's diagnostic steps require gas-pressure or combustion testing, if the fault points to a control board or ignition module, or if the boiler uses a sealed combustion system or modulating gas valve. Weil-McLain expects service and warranty work to be performed by qualified professionals who follow the exact wiring diagrams and replacement-part numbers in the manual. Incorrect wiring or component substitution can cause dangerous operation, so do not guess at the meaning of A124 or swap parts without verifying the failure first.
 
 **Rough cost:** A pro service call runs about $200-450.
-
-## See Also
-
-- [Weil-McLain Boiler A120 Error - Causes & Fix](/posts/weil-mclain-boiler-a120-error-code/)
-- [Weil-McLain A183 Error - Causes & Fix](/posts/weil-mclain-boiler-a183-error-code/)
-- [Weil-McLain Boiler A25 Error - Causes & Fix](/posts/weil-mclain-boiler-a25-error-code/)
-- [Weil-McLain A90 Error - Causes & Fix](/posts/weil-mclain-boiler-a90-error-code/)

@@ -20,8 +20,7 @@ free_checks:
 part_price: "$300-800 for a replacement control module, depending on model and revision"
 ---
 
-## Allen-Bradley PowerFlex 525 F126 — What It Means
-
+## What this code means
 F126 on a PowerFlex 525 is labeled NonRecoverablErr by Rockwell Automation. It signals a critical internal firmware or hardware failure. When the drive detects this fault, it automatically stops and resets itself. This is not a field-adjustable parameter issue or a load-related trip. It is an internal drive fault that points to corrupted firmware in the control module or a hardware failure in the drive electronics.
 
 The fault can appear immediately at power-up, after an abnormal reset, or following a firmware update event. Rockwell does not publish a field-repairable electrical threshold or sensor value for F126. The fault name itself tells you the drive believes it cannot continue safely without intervention.
@@ -29,8 +28,6 @@ The fault can appear immediately at power-up, after an abnormal reset, or follow
 ## Before You Replace Anything
 
 Technicians sometimes swap the entire power module first, but F126 typically originates in the control module. Replace or reflash the control module before condemning the complete drive assembly.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or drive technician for F126 troubleshooting and repair. This fault involves high-voltage AC drive electronics, firmware reflashing tools, and control module replacement procedures that require familiarity with Rockwell Automation hardware and safety lockout practices. If you are not trained in VFD service, do not attempt to open the drive enclosure or swap modules while the drive is energized. A technician will safely power down the system, verify the fault history, attempt a firmware restore if applicable, and replace the control module or complete drive following manufacturer procedures and site electrical codes.
 
 **Rough cost:** A pro service call runs about $400-1200 for control module replacement or complete drive swap, 1-2 hours labor.
-
-## See Also
-
-- [Allen Bradley PowerFlex 753 F35 Fault — Causes & Fix](/posts/allen-bradley-powerflex-753-f35-fault/)
-- [Allen-Bradley PowerFlex 4M Fault Codes — F2, F4, F5, F7, F12 Fix Guide](/posts/allen-bradley-powerflex-4m-fault-codes/)
-- [Allen-Bradley PowerFlex 755 Fault 7 — Motor Overload Causes & Fix](/posts/allen-bradley-powerflex-755-fault-7/)
-- [Allen-Bradley PowerFlex F081 Fault — Communication Loss Fix](/posts/allen-bradley-powerflex-f081-fault/)

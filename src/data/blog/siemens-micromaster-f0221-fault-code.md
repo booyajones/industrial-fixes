@@ -13,11 +13,8 @@ money_part: "Feedback sensor or transducer (pressure, temperature, or flow)"
 most_likely_cause: "P2268 minimum threshold set too high"
 ---
 
-## Siemens Micromaster F0221 — What It Means
-
+## What this code means
 F0221 on a Siemens Micromaster 420 or 440 means the drive has detected that the PID feedback signal has dropped below the minimum value set in parameter P2268. This fault only appears when the drive is running in closed-loop PID or PI control mode, where the drive uses a sensor or transducer to measure a process variable like pressure, temperature, or flow. The drive interprets the low feedback as a control failure and triggers a STOP II fault condition to protect the process and equipment.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ F0221 on a Siemens Micromaster 420 or 440 means the drive has detected that the 
 ## When to Call a Pro
 
 Call a qualified drives technician or automation engineer if you are unfamiliar with PID control loops, cannot safely access the feedback sensor or wiring, or if correcting P2268 and verifying the feedback signal does not clear the fault. Professional help is also needed if the analog input circuit on the drive is suspected faulty, if the process control strategy requires re-tuning, or if the fault returns intermittently and you cannot isolate the root cause. Do not attempt sensor or wiring work on live high-voltage or high-pressure systems without proper training and lockout procedures.
-
-## See Also
-
-- [Siemens G120 F01600 - Causes & Fix](/posts/siemens-g120-vfd-f01600-fault-code/)
-- [Siemens Micromaster F0052 - Causes & Fix](/posts/siemens-micromaster-vfd-f0052-fault-code/)
-- [Siemens G120 A05002 - Causes & Fix](/posts/siemens-g120-a05002-fault-code/)
-- [Siemens G120 A01590 Alarm - Causes & Fix](/posts/siemens-g120-vfd-a01590-fault-code/)

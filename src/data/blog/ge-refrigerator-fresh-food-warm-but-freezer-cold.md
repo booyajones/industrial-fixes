@@ -19,8 +19,6 @@ In GE refrigerators, the freezer makes cold air first, then moves it into the fr
 
 The freezer evaporator coil generates the cold, and a fan pushes that air through a damper into the fresh food compartment. If food blocks the vents, the fan quits, the coil ices over, or the damper sticks shut, the fresh food section loses cooling while the freezer continues working. Door seal leaks and control issues can also cause the symptom, but airflow blockage and fan failure are the most common reasons.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Blocked air vents or overpacked shelves** Food, packaging, or ice obstructing the vents between freezer and fresh food prevents cold air from entering the refrigerator compartment.

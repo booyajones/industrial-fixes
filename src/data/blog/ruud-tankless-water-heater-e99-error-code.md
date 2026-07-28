@@ -13,11 +13,8 @@ money_part: "Exhaust blower assembly"
 most_likely_cause: "Blocked or restricted exhaust vent"
 ---
 
-## Ruud E99 Error Code — What It Means
-
+## What this code means
 The E99 error code on a Ruud tankless water heater indicates a combustion or venting fault related to the exhaust blower or abnormal flue conditions. The unit has detected that the exhaust blower is not operating correctly or that the vent path is restricted, blocked, or experiencing water accumulation. This is a safety lockout that prevents the heater from firing until the condition is corrected.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

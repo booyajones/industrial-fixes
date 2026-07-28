@@ -19,8 +19,7 @@ free_checks:
 part_price: "$25-60"
 ---
 
-## Kenmore Er dH Error Code — What It Means
-
+## What this code means
 Er dH is a defrost failure code on Kenmore refrigerators that use an LG-style control system. It appears when the defrost sensor does not detect the expected temperature (around 46°F or 8°C) within the normal defrost cycle window. This means frost is building up on the evaporator coils and blocking airflow, which causes poor cooling and ice buildup in the freezer compartment.
 
 The control board expects the evaporator to warm up during a defrost cycle. When the defrost heater fails to raise the temperature, the board logs the error. Common triggers include a burned-out defrost heater, an open thermal fuse in the defrost circuit, a failed defrost thermistor, or a control board that is not energizing the heater. Heavy ice accumulation or a blocked drain can also prevent normal temperature recovery after defrost starts.
@@ -28,8 +27,6 @@ The control board expects the evaporator to warm up during a defrost cycle. When
 ## Before You Replace Anything
 
 Many people replace the main control board first when they see this code. Test the defrost heater, thermal fuse, and thermistor for continuity before buying a new board, since those three components fail far more often.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

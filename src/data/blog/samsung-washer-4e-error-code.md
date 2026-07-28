@@ -17,8 +17,7 @@ money_part: "Samsung washer inlet hose"
 part_price: "$15-50"
 ---
 
-## Samsung Washer 4E Error Code — What It Means
-
+## What this code means
 The 4E error code (sometimes displayed as 4C on certain models or regions) indicates that your Samsung washer has detected a water supply or inlet fill problem. The machine is not receiving water properly during the fill cycle, so it stops and displays the fault.
 
 Samsung's diagnostics show that the control board expected the tub to fill within a set time window, but the water level sensor reported insufficient fill. This can happen because water is physically blocked from entering, or because the inlet valve or sensing circuit has failed even when supply conditions are normal.
@@ -27,31 +26,13 @@ Samsung's diagnostics show that the control board expected the tub to fill withi
 
 Many people replace the water inlet valve when the real problem is a clogged mesh filter screen at the hose connection or low house water pressure. Always inspect and clean the inlet screens and verify full tap pressure before ordering a new valve.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Blocked or kinked inlet hose (~35%)** The flexible supply hose is bent, crushed, or twisted so water cannot flow through at the rate the machine expects.
-- **Clogged inlet mesh filter screens (~30%)** Fine screens inside the hose couplings trap sediment and mineral deposits over time, restricting flow even when the tap is open.
-- **Water supply valve not fully open or low house pressure (~20%)** The shutoff valve at the wall is closed, partially closed, or the incoming water pressure is below Samsung's 0.5 bar minimum specification.
-- **Failed water inlet valve (~10%)** The solenoid-operated valve on the back of the washer does not open even when the control board sends the fill signal, blocking all flow.
-- **Faulty pressure sensor or control board (~5%)** The water level sensing circuit reads incorrectly or the main board fails to energize the inlet valve, triggering a false fill timeout.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Is the water supply valve at the wall fully open and are both hot and cold taps on?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Supply valves are open. Move to the next check.<br><strong>No:</strong> Turn both taps fully counterclockwise. If the error clears, that was the cause. If it persists, continue troubleshooting.</div>
-</details>
-
-<details class="dtree"><summary>Does water flow strongly when you disconnect the inlet hose at the washer and hold it over a bucket?</summary>
-<div class="dtree-body"><strong>Yes:</strong> House pressure and hose are good. The problem is downstream: inspect the inlet screens and test the inlet valve.<br><strong>No:</strong> Weak or no flow means a kinked hose, clogged screen, closed valve, or low house pressure. Inspect the hose path and clean the mesh filters.</div>
-</details>
-
-<details class="dtree"><summary>After cleaning the inlet screens and straightening any kinks, does the washer fill normally when you restart a cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The blockage or kink was the cause. The repair is complete.<br><strong>No:</strong> Supply side is clear but the machine still faults. The inlet valve, pressure sensor, or control board is likely defective and will need testing or replacement.</div>
-</details>
+- **Blocked or kinked inlet hose** The flexible supply hose is bent, crushed, or twisted so water cannot flow through at the rate the machine expects.
+- **Clogged inlet mesh filter screens** Fine screens inside the hose couplings trap sediment and mineral deposits over time, restricting flow even when the tap is open.
+- **Water supply valve not fully open or low house pressure** The shutoff valve at the wall is closed, partially closed, or the incoming water pressure is below Samsung's 0.5 bar minimum specification.
+- **Failed water inlet valve** The solenoid-operated valve on the back of the washer does not open even when the control board sends the fill signal, blocking all flow.
+- **Faulty pressure sensor or control board** The water level sensing circuit reads incorrectly or the main board fails to energize the inlet valve, triggering a false fill timeout.
 
 ## Step-by-Step Fix {#fix}
 
@@ -73,5 +54,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a technician if you have verified that both supply valves are open, the inlet hoses are clear and straight, the mesh screens are clean, nearby faucets show strong pressure, and the washer still displays 4E. At that point the fault is inside the machine and requires live voltage testing of the inlet valve solenoids and inspection of the pressure-sensor circuit and control board. A qualified appliance tech can measure whether the board is sending the correct signal to the valve during fill and determine if the valve, sensor, or PCB needs replacement. Also call a pro if you are uncomfortable working with water connections or if the washer is still under warranty, since DIY disassembly may void coverage.
-
-**Rough cost:** DIY runs about $15-50 in parts, 30-60 min. A pro service call runs about $120-250 service call and valve replacement.

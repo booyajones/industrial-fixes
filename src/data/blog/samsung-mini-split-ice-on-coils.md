@@ -19,8 +19,6 @@ Ice forming on the indoor evaporator coil means the coil is running below 32°F 
 
 The ice buildup usually points to an airflow restriction, a refrigerant charge problem, or a failed temperature sensor. Samsung's service guidance highlights that defective room temperature sensors or heat exchanger temperature sensors can cause icing complaints when the control board cannot accurately monitor coil temperature.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty air filter or blocked evaporator coil** Restricted airflow is the most common cause because the coil cannot absorb enough heat and its temperature drops below freezing.
@@ -54,10 +52,10 @@ The ice buildup usually points to an airflow restriction, a refrigerant charge p
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Samsung Mini Split E1 01 error code](/posts/samsung-mini-split-e1-01-error-code/)
-- [Samsung Mini Split E3 01 error code](/posts/samsung-mini-split-e3-01-error-code/)
-- [Samsung Mini Split E4 01 error code](/posts/samsung-mini-split-e4-01-error-code/)
-- [Samsung Mini Split E5 01 error code](/posts/samsung-mini-split-e5-01-error-code/)
+- Samsung Mini Split E1 01 error code
+- Samsung Mini Split E3 01 error code
+- Samsung Mini Split E4 01 error code
+- Samsung Mini Split E5 01 error code
 
 ## When to Call a Pro
 

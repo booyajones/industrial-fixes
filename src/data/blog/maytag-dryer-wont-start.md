@@ -19,8 +19,6 @@ A Maytag dryer that won't start is not a fault code. It is a symptom that means 
 
 The dryer will not operate unless the door is fully closed and latched, the controls are unlocked, and the Start button is held for the correct duration (typically 2 to 5 seconds depending on the model). If those conditions are met and the machine still does not respond, the most common underlying failures are the door switch or latch, the thermal fuse, the start switch, a tripped breaker or lack of power, and on some models a broken drive belt or a defective timer or control board.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door not latched or failed door switch** The dryer will not start unless the door is fully closed and latched, and the door switch is one of the top-reported failures when pressing Start produces no response.
@@ -55,18 +53,18 @@ The dryer will not operate unless the door is fully closed and latched, the cont
 
 Seeing a code on the display? These match this problem:
 
-- [Maytag Dryer Err error code](/posts/maytag-dryer-err-error-code/)
-- [Maytag Dryer F01 error code](/posts/maytag-dryer-f01-error-code/)
-- [Maytag Dryer F02 error code](/posts/maytag-dryer-f02-error-code/)
-- [Maytag Dryer F1E1 error code](/posts/maytag-dryer-f1e1-error-code/)
-- [Maytag Dryer F1E3 error code](/posts/maytag-dryer-f1e3-error-code/)
-- [Maytag Dryer F1E4 error code](/posts/maytag-dryer-f1e4-error-code/)
-- [Maytag Dryer F1E5 error code](/posts/maytag-dryer-f1e5-error-code/)
-- [Maytag Dryer F20 error code](/posts/maytag-dryer-f20-error-code/)
-- [Maytag Dryer F22 error code](/posts/maytag-dryer-f22-error-code/)
-- [Maytag Dryer F23 error code](/posts/maytag-dryer-f23-error-code/)
-- [Maytag Dryer F24 error code](/posts/maytag-dryer-f24-error-code/)
-- [Maytag Dryer F25 error code](/posts/maytag-dryer-f25-error-code/)
+- Maytag Dryer Err error code
+- Maytag Dryer F01 error code
+- Maytag Dryer F02 error code
+- Maytag Dryer F1E1 error code
+- Maytag Dryer F1E3 error code
+- Maytag Dryer F1E4 error code
+- Maytag Dryer F1E5 error code
+- Maytag Dryer F20 error code
+- Maytag Dryer F22 error code
+- Maytag Dryer F23 error code
+- Maytag Dryer F24 error code
+- Maytag Dryer F25 error code
 
 ## When to Call a Pro
 

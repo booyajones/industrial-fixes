@@ -61,18 +61,3 @@ Specifically indicates the drain pump has failed or is not being detected. The p
 
 ## When to Call a Pro
 U3 (high discharge temperature) and U6 (compressor overcurrent) often indicate refrigerant issues that require a certified HVAC-R technician to diagnose and repair. Don't ignore these — running a mini-split with incorrect refrigerant charge causes compressor damage.
-
-## Related Articles
-
-- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
-- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
-- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
-- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
-- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
-
-## See Also
-
-- [Mitsubishi E5 Error Code — Causes & Fix](/posts/mitsubishi-e5-error-code/)
-- [Mitsubishi Mini Split E9 Error Code — Causes & Fix](/posts/mitsubishi-mini-split-e9-error-code/)
-- [Mitsubishi E6 AC Error Code — Causes & Fix](/posts/mitsubishi-e6-ac-error-code/)
-- [Mitsubishi Mini Split E1 Error Code — Indoor Thermistor Fault Fix](/posts/mitsubishi-mini-split-e1-error/)

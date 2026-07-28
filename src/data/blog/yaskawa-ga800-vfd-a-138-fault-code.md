@@ -14,15 +14,12 @@ most_likely_cause: "Misread or typographical error"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa GA800 A.138 Fault — What It Means
-
+## What this code means
 The GA800 VFD does not use an A.138 fault code in the documented Yaskawa alarm naming convention. Standard GA800 alarms are formatted as A.xxx, oC, ov, or CPFxx codes, but A.138 does not appear in the manufacturer's fault lists for this drive family. This may indicate a misread display, a typo in documentation, or a code from a different Yaskawa product line. The best practice is to confirm the exact alarm text displayed on the keypad, review the fault history menu on the drive, and cross-reference the alarm table in the specific GA800 manual for your model and firmware revision. Without verification from the drive nameplate and manual, it is not possible to assign a specific meaning or cause to A.138.
 
 ## Before You Replace Anything
 
 Because the exact code is unverified, technicians sometimes replace the main control board or option card without first reseating connectors and checking wiring. Always inspect motor cables, encoder feedback wiring, and option card seating before ordering replacement modules.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -70,10 +67,3 @@ Answer these to narrow it down fast.
 Call a qualified drives technician or contact Yaskawa technical support when the alarm code does not appear in your drive's manual, when wiring and option card inspection does not resolve the fault, or when the drive repeatedly faults after power cycling. High-voltage AC input and DC bus capacitors pose serious shock hazards, so any work inside the drive enclosure should be performed by someone trained in VFD service and lockout procedures. If the drive is under warranty or connected to critical machinery, professional diagnosis will document the fault correctly and preserve warranty coverage.
 
 **Rough cost:** A pro service call runs about $200–500 depending on whether the fault is wiring, an option card, or the drive control board.
-
-## See Also
-
-- [Yaskawa GA800 A.119 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-119-fault-code/)
-- [Yaskawa GA800 A.102 Alarm - Causes & Fix](/posts/yaskawa-ga800-vfd-a-102-fault-code/)
-- [Yaskawa A1000 HCA Fault Code - Causes & Fix](/posts/yaskawa-a1000-vfd-hca-fault-code/)
-- [Yaskawa GA800 A.136 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-136-fault-code/)

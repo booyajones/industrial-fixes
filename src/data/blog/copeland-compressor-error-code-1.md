@@ -63,11 +63,3 @@ High pressure trips are serious. Sustained high discharge pressure overheats the
 Any diagnosis involving refrigerant — measuring charge, recovering refrigerant, checking for non-condensables, or recharging — legally requires EPA Section 608 certification. Do not attempt to add or remove refrigerant without proper certification and equipment. Additionally, if the high pressure switch trips immediately on restart even with a clean condenser and functioning fans, there may be a refrigerant-side restriction (failed expansion valve, plugged filter drier) or a compressor internal fault — both of which require a licensed refrigeration technician with proper diagnostic equipment.
 
 > **Pro tip:** On multi-fan condensing units (2, 3, or 4 fans), a single failed fan motor is easily missed during a quick visual inspection — especially if the other fans are loud enough to mask the silence of the dead one. Walk close to each fan and hold your hand a few inches from the discharge air. You should feel strong, warm airflow from each one. A fan running at low speed due to a failed capacitor can look like it's running fine but delivers only a fraction of its rated airflow — barely detectable by sight, easy to catch by feel.
-
-## Related Articles
-
-- [Air Compressor Fault Codes: Complete Guide](/posts/air-compressor-fault-codes/)
-- [Atlas Copco Air Compressor Fault Codes — Complete Guide](/posts/atlas-copco-compressor-fault-codes/)
-- [BOGE Air Compressor Error Codes - Complete Guide](/posts/boge-compressor-error-codes/)
-- [Chicago Pneumatic Compressor Fault Codes — Complete Guide](/posts/chicago-pneumatic-compressor-faults/)
-- [CompAir Air Compressor Fault Codes - Complete Guide](/posts/compair-compressor-fault-codes/)

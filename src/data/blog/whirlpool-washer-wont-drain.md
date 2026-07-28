@@ -19,8 +19,6 @@ When a Whirlpool washer won't drain, water remains in the tub after the wash cyc
 
 Whirlpool's guidance points to drain hose restrictions, pump obstructions, incorrect drain installation height, and too much detergent as the most frequent culprits. The machine may also stop mid-cycle or refuse to spin if it cannot drain properly. Addressing the blockage or mechanical issue usually restores normal draining and spinning.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Kinked or clogged drain hose** The drain hose can become twisted, crushed behind the washer, or blocked by lint and debris, preventing water from leaving the tub.

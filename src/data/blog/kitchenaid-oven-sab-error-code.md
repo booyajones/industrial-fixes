@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## KitchenAid Oven SAB Error Code — What It Means
-
+## What this code means
 The SAB (also displayed as SAb, 5AB, or 5A6) code is not a hardware failure or error. It is a status indicator that tells you Sabbath Mode is currently active on your KitchenAid oven. When this mode is on, the oven disables all cooking cycles except Bake, suppresses all audible tones, prevents the display from showing temperature changes, and overrides the automatic 12-hour safety shutoff. This allows food to remain warm without the oven turning off automatically, which is required for observing Jewish Sabbath laws.
 
 The oven will not respond to commands like Broil, Warm, or Self-Clean while Sabbath Mode is active. Many users mistake this persistent SAB display for a malfunction because the oven refuses normal operations. The fix is simple: you need to deactivate the mode using the Clock pad, not replace any parts.
@@ -24,8 +23,6 @@ The oven will not respond to commands like Broil, Warm, or Self-Clean while Sabb
 ## Before You Replace Anything
 
 Users sometimes call for service or suspect a failed control board when seeing SAB, but this is simply a mode setting. No parts replacement is needed, just a 3-second button press to exit the mode.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

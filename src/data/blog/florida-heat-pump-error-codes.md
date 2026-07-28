@@ -78,14 +78,6 @@ FHP units manufactured after 2015 may show Bosch Thermotechnology branding. The 
 
 > **Note:** FHP/Bosch geothermal units have a hard lockout after 3 consecutive fault trips. After correcting the root cause, reset via the DDC controller or by cycling power at the breaker for 60 seconds.
 
-## Related Articles
-
-- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
-- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
-- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
-- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
-- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)
-
 ## More Florida Heat Pump fault codes
 
 Compiled from manufacturer service manuals and authorized documentation.
@@ -95,7 +87,6 @@ Compiled from manufacturer service manuals and authorized documentation.
 | 5 blinks (LED) | Air Coil Freeze condition (Freeze 2) | Refrigerant temperature at the air coil has fallen below the freeze limit (below 30 F for 30 seconds). Usually low airflow: dirty filter, failed blower, closed dampers, or low charge. | Replace the air filter, verify blower/ECM operation and duct airflow, and check refrigerant charge. Freeze 2 sensor is mounted on the air-coil (evaporator) side. Soft-lock on trip, hard-lock on repeated trips. |
 | 6 blinks (LED) | Brown Out (low voltage) fault | Control voltage has fallen below 18 VAC. Undersized/failing transformer, loose 24 VAC wiring, or a supply brownout. | Measure 24 VAC control voltage under load, inspect transformer and low-voltage connections, and check building supply voltage. Compressor is held off until voltage recovers. |
 | EM015 code 3 | Freeze Sensor fault (older EM015 board) | On FHP units using the older EM015 diagnostic control, code 3 is a freeze/temperature sensor fault. The EM015 scheme is 1=High Pressure Switch, 2=Low Pressure Switch, 3=Freeze Sensor, 4=Condensate Overflow, 5=Brown-out. | Check the freeze thermistor wiring, mounting and resistance, and confirm loop flow/temperature. Reset by cycling power to the board or unit. |
-
 
 ## How to troubleshoot Florida Heat Pump
 
@@ -110,7 +101,6 @@ FHP water-source and geothermal units protect the compressor through a board-mou
 **Understand the lockout logic before you reset.** The UPM runs a 5-minute anti-short-cycle delay and an intelligent reset: on a fault it waits out the delay and restarts if the condition cleared. If the same fault recurs enough times within an hour (the count is set by the lockout DIP switch), the unit goes to **hard lockout** and needs a manual reset, done by cycling the thermostat off/on (RESET DIP = Y) or the breaker (RESET DIP = R). Repeatedly resetting without fixing the root cause accelerates compressor wear.
 
 **When to call a pro.** Homeowners and facilities staff can safely check filters, condensate drains, loop pump operation and thermostat resets. Anything requiring refrigerant gauges, pressure-switch or TXV replacement, freeze-sensor resistance testing, or antifreeze correction is EPA-certified refrigerant work and should go to a qualified water-source/geothermal technician. Because a compressor is the most expensive component in the box, a persistent high-pressure or low-pressure lockout is worth professional diagnosis rather than repeated hard resets.
-
 
 ## Frequently asked questions
 
@@ -133,4 +123,3 @@ Both are freeze-protection trips: refrigerant temperature has fallen below the f
 ### Does my FHP use E1/E2 error codes like an air-source heat pump?
 
 No. FHP water-source and geothermal units count LED blinks on the control board (blink codes 1-6 on the UPM, or codes 1-5 on the older EM015). E-code style displays (A/E/F codes) belong to Bosch air-source and IDS split systems, which are a different product line with different controls.
-

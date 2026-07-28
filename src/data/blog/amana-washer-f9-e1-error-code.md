@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Washer F9 E1 Error Code — What It Means
-
+## What this code means
 F9 E1 on an Amana washer indicates a long drain condition. The washer is taking longer than expected to drain water from the tub. On front-load models, Amana defines this as drain times typically over eight minutes. The machine has detected that water is not evacuating at the normal rate, so it throws the fault and stops the cycle to prevent overfilling or damage.
 
 Amana's official troubleshooting prioritizes the drain path outside the machine. The most common culprits are installation errors (drain hose pushed too far into the standpipe, causing siphoning or backflow), kinked or clogged hoses, and blocked standpipes or utility sinks. On front-load washers, excessive suds from non-HE detergent can also slow drainage. Only after those checks come up clean should you suspect the drain pump or its circuit.
@@ -26,8 +25,6 @@ Amana's official troubleshooting prioritizes the drain path outside the machine.
 ## Before You Replace Anything
 
 Many people replace the drain pump immediately, but most F9 E1 codes clear once you correct the hose installation or clear a kinked section. Always inspect the entire drain path and hose routing before ordering pump parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

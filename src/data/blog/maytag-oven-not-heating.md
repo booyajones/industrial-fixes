@@ -20,8 +20,6 @@ A Maytag oven that won't heat is a symptom, not a single fault. The root cause d
 
 Maytag's own troubleshooting points to the ignitor on gas models, the bake element and temperature sensor on electric models, and control or relay boards when codes are present. Calibration settings or a Celsius/Fahrenheit mix-up can also prevent the oven from reaching the expected temperature.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed bake element (electric ovens)** The lower bake element burns out over time and is one of the most common no-heat failures in electric ovens.

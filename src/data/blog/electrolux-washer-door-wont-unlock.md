@@ -17,8 +17,6 @@ tags:
 
 When your Electrolux washer door won't unlock, the machine is keeping the lock engaged because it believes conditions are not safe to open. This is not a single fault code. The washer holds the door closed if the cycle is still running or paused, if water is still inside the tub, or if the control board does not see a valid door-closed signal. If your display shows LOC, that is control lock between cycles and is not a mechanical door failure. If you see E41, the control board thinks the door switch is open and the door was never properly latched in the first place.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Water remaining in the tub** The door cannot open until all water is pumped out, which may be blocked by a clogged filter, kinked drain hose, or failed drain pump.

@@ -16,8 +16,6 @@ money_part: "ComfortLink II thermostat"
 
 The Trane XV20i is a communicating variable-speed heat pump that runs on Trane's ComfortLink II system. Unlike older flash-code furnaces, the XV20i reports detailed fault codes through the ComfortLink II thermostat display. Error codes appear as numerical alerts in the thermostat's Alerts menu and on the outdoor unit's diagnostic LED sequence. The most common XV20i faults fall into three categories: communication faults, refrigerant system faults, and outdoor unit protection trips.
 
-[Jump to Fix](#fix)
-
 ## Common XV20i Error Codes
 
 - **Code 79 — Communication Fault** — The outdoor unit has lost communication with the thermostat or air handler. Check the communication wiring at all three connection points (thermostat, air handler, outdoor unit) for loose or damaged terminals.
@@ -44,18 +42,3 @@ The Trane XV20i is a communicating variable-speed heat pump that runs on Trane's
 ## When to Call a Pro
 
 Refrigerant-related codes (91, 92) always require a licensed HVAC technician with manifold gauges and refrigerant certification. Communication codes that don't resolve with wiring inspection require Trane TechView diagnostic software, available only to authorized Trane dealers.
-
-## Related Articles
-
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-
-## See Also
-
-- [Trane Rooftop Unit Error Codes: Common Faults Guide](/posts/trane-rooftop-unit-error-codes/)
-- [Trane XV80 Furnace Error Codes — Flash Code Diagnostic Guide](/posts/trane-xv80-error-codes/)
-- [Trane XR17 Heat Pump Error Codes - Fault Code and Flash Code Guide](/posts/trane-xr17-error-codes/)
-- [Trane XV20i Error Code 79 — Causes & Fix](/posts/trane-error-code-79/)

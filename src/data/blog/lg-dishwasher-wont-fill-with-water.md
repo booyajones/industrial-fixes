@@ -19,8 +19,6 @@ When your LG dishwasher won't fill with water, it means the machine is not getti
 
 LG ties this directly to supply-side issues like a closed shutoff valve, a kinked or pinched inlet hose, a clogged inlet filter screen, or low household water pressure. Less commonly, a stuck float, a bad door latch, or a failed inlet valve can prevent filling. The machine is working as designed by refusing to start without water, so the fix is about clearing the path from your home's plumbing to the tub.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Closed or partially closed shutoff valve** The water supply valve under the sink or behind the dishwasher is not fully open, cutting off or restricting the flow.
@@ -70,10 +68,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a pro if you have confirmed the water supply is on, the hose is clear, the inlet filter is clean, and the float moves freely but the dishwasher still will not fill. Electrical testing of the inlet valve and tracing control signals to the flow sensor or main board require a multimeter and familiarity with the wiring diagram. If you are not comfortable working with water shut-offs, disconnecting hoses, or testing live circuits, a technician can diagnose and replace the inlet valve, float switch, or control components safely and quickly.
-
-## See Also
-
-- [LG Dishwasher Door Gasket Replacement - Signs & How-To](/posts/lg-dishwasher-door-gasket-tub-seal-replacement/)
-- [LG Mini-Split CH34 Error Code — Causes & Fix](/posts/lg-mini-split-ch34-error-code/)
-- [LG Oven F19 Error Code - Causes & Fix](/posts/lg-oven-f19-error-code/)
-- [LG Washer LE Error Code - Causes & Fix](/posts/lg-range-le-error-code/)

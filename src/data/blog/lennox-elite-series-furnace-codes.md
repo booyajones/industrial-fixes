@@ -17,8 +17,6 @@ money_part: "SureLight igniter"
 
 The Lennox Elite Series includes several residential gas furnace models: the EL195E, EL180E, EL296V, and G61MPV among others. These furnaces use Lennox's SureLight control board system, which reports faults through a status LED (flash codes) on non-communicating models or through three-digit alert codes on iComfort-enabled systems. Elite Series furnaces range from 80% to 96% AFUE and include single-stage, two-stage, and variable-speed variants.
 
-[Jump to Fix](#fix)
-
 ## Lennox Elite Series Flash Code / Alert Code Reference
 
 | Flash Code | Alert Code | Fault |
@@ -65,18 +63,3 @@ The Lennox Elite Series includes several residential gas furnace models: the EL1
 ## When to Call a Pro
 
 Lennox Elite Series furnaces with iComfort communicating systems require Lennox service tools for full diagnostics. Alert Code 540 (control board fault) and any code that returns after a verified repair should be evaluated by a Lennox Premier Dealer. Heat exchanger inspection for rollout switch trips requires camera inspection equipment and combustion analysis.
-
-## See Also
-
-- [Lennox Error Code 540 — Causes & Fix](/posts/lennox-error-code-540/)
-- [Lennox Harmony III Zoning System Error Codes — Complete Guide](/posts/lennox-harmony-iii-error-codes/)
-- [Lennox Error Code 231 — Causes & Fix](/posts/lennox-error-code-231/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-- [Lennox Error Code 114 — Causes & Fix](/posts/lennox-error-code-114/)

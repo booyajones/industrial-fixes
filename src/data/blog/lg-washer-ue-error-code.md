@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "LG washer shock absorber set"
 ---
 
-## LG Washer UE Error Code — What It Means
-
+## What this code means
 UE on an LG washer indicates the machine has detected an unbalanced load during the spin cycle. The washer attempts to redistribute the load automatically, but if it cannot achieve balance, it displays UE (or uE or Ub depending on the model) and either reduces spin speed or stops entirely. LG identifies this code on both top-load and front-load washers as a balance issue, not a drain or motor fault.
 
 The code appears when laundry is piled to one side of the drum, the load is too small or too large, or bulky items naturally clump together during spin. It can also signal that the washer itself is not level or the floor beneath it is unstable. Less commonly, worn suspension components allow excessive tub movement and trigger repeated balance faults even with properly distributed loads.
@@ -25,8 +24,6 @@ The code appears when laundry is piled to one side of the drum, the load is too 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board or order shock absorbers before confirming the washer is level and testing with a balanced load. Always check that all four feet touch the floor, the cabinet does not rock, and a small evenly distributed test load completes a spin cycle without error.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

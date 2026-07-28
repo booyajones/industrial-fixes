@@ -22,8 +22,7 @@ part_price: "$20-45"
 no_buy_pct: "60%"
 ---
 
-## Kenmore Dishwasher E10 Error Code — What It Means
-
+## What this code means
 E10 is not a consistently standardized code across all Kenmore dishwasher models. Because Kenmore dishwashers were sold under multiple OEM platforms, the exact meaning can vary by model family. In the most common context, E10 indicates a fill or inlet water fault: the control detects insufficient water entering the tub during the fill cycle. The machine either isn't receiving water fast enough, not enough water is entering, or the fill path is restricted.
 
 Before assuming a specific cause, verify your full model number and consult the matching tech sheet or service documentation. The diagnostic flow below addresses the most typical fill-system issues, but always confirm the code definition for your exact model rather than assuming a universal meaning.
@@ -31,8 +30,6 @@ Before assuming a specific cause, verify your full model number and consult the 
 ## Before You Replace Anything
 
 Many people replace the control board first, but a clogged inlet screen or kinked hose causes most E10 faults. Clean the screen and verify full water flow before ordering any electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

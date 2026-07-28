@@ -20,8 +20,7 @@ part_price: "$40-80"
 no_buy_pct: "60%"
 ---
 
-## Manitowoc E19 Error Code — What It Means
-
+## What this code means
 The E19 error code on a Manitowoc ice machine signals an Ice Thickness Probe (ITP) fault. The control board has detected that the probe's frequency readings are outside the normal operating range (below 50 Hz or above 15,000 Hz) during the freeze cycle. When this happens, the machine enters Safe Mode to prevent extended freezing or the formation of a solid block of ice.
 
 The ice thickness probe acts as a sensor that tells the control board when ice has reached the correct thickness. If mineral scale covers the probe, or if the probe is disconnected or damaged, the board cannot validate the signal and throws the E19 code. This fault often appears alongside E20 (Water Fault) because the probe is also involved in the water-level and drain sequences.
@@ -29,8 +28,6 @@ The ice thickness probe acts as a sensor that tells the control board when ice h
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board first when the real problem is simply scale buildup on the probe tip or a loose wire. Always clean the probe and verify wiring before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a qualified commercial refrigeration technician if you are not comfortable working inside electrical enclosures or if the machine uses a sealed refrigeration system. Although cleaning the probe is straightforward, replacing the probe or control board requires safe handling of electrical connections and proper testing of the refrigeration circuit. A technician will also verify that water quality, filtration, and cycle settings are correct to prevent future scale buildup. If the E19 code appears alongside E20 or other faults, a pro can diagnose the root cause and address multiple issues in one visit.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Manitowoc vs Scotsman Ice Machines — A Commercial Tech's Honest Comparison (2026)](/posts/manitowoc-vs-scotsman-ice-machines/)
-- [Manitowoc E10 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e10-error-code/)
-- [Manitowoc E20 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e20-error-code/)
-- [Manitowoc E23 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e23-error-code/)

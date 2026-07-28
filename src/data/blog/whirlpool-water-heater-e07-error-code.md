@@ -13,11 +13,8 @@ money_part: "Lower thermistor sensor"
 most_likely_cause: "Loose or disconnected wiring"
 ---
 
-## Whirlpool Water Heater E07 Error — What It Means
-
+## What this code means
 E07 on Whirlpool Energy Smart electric water heaters indicates a lower thermistor sensor failure. The diagnostic system has detected that the lower temperature sensor (located above the lower heating element) is not reading correctly or has lost communication with the electronic thermostat. This code appears on the display with a flashing alert icon. The water heater will not heat properly until the fault is corrected.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

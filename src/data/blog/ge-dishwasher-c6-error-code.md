@@ -22,8 +22,7 @@ part_price: "$20-45"
 no_buy_pct: "70%"
 ---
 
-## GE Dishwasher C6 Error Code — What It Means
-
+## What this code means
 The C6 code on a GE dishwasher signals a low inlet water temperature fault. The machine is detecting incoming water that is colder than the controller expects for the fill and heating sequence. In most cases this is not a component failure but a supply-side issue: either your water heater is set too low, the hot water line has cooled down between uses, or flow restrictions are preventing the dishwasher from filling quickly with hot water.
 
 Because the publicly available GE documentation for this code is limited, always confirm the exact meaning for your model by checking the service label inside the door frame or your owner's manual. The consistent field interpretation is that C6 points to water-temperature problems rather than a generic control-board fault.
@@ -31,8 +30,6 @@ Because the publicly available GE documentation for this code is limited, always
 ## Before You Replace Anything
 
 Many people replace the main control board when C6 appears, but the code almost always points to cold incoming water or a restricted inlet valve. Verify hot water at the tap and check the supply line and inlet screen before ordering any electronic parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

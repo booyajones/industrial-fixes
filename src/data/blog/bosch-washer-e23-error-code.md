@@ -21,8 +21,7 @@ free_checks:
 part_price: "$35-80"
 ---
 
-## Bosch Washer E23 Error Code — What It Means
-
+## What this code means
 The E23 error code on a Bosch front-load washing machine signals that the AquaStop safety system has detected water in the base pan underneath the drum. The AquaStop sensor sits in this pan and triggers when any leak from internal hoses, seals, the pump, or the drum allows water to collect where it should not be. When the code appears, the machine immediately stops the wash cycle, drains the tub, and locks the door to prevent further operation until the leak is found and repaired.
 
 This code is a symptom of water escape, not a single component failure. The machine is protecting your floor by refusing to run while water is present in the chassis. The fault will not clear until you remove the source of the leak and dry out the base pan so the sensor resets.
@@ -30,8 +29,6 @@ This code is a symptom of water escape, not a single component failure. The mach
 ## Before You Replace Anything
 
 Many owners replace the door seal or inlet valve first, assuming visible leaks are the culprit. Before buying parts, tip the machine back to inspect the base pan and trace the actual source of water, which is often hidden at the pump or internal hose connection.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

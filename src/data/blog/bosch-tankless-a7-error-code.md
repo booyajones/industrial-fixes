@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "70%"
 ---
 
-## Bosch Tankless A7 Error — What It Means
-
+## What this code means
 The A7 error code on a Bosch tankless water heater signals that the outlet hot water temperature sensor is not delivering a valid signal to the control module. This sensor is clipped to the hot water outlet pipe inside the lower-left corner of the unit and monitors the temperature of water leaving the heater. The fault triggers when the sensor reading falls below 36°F or climbs above 210°F, or when the control board cannot detect the sensor at all. This can happen because the sensor is disconnected, positioned incorrectly, or internally defective.
 
 The sensor uses a thermistor that changes resistance with temperature. If the sensor is not making good contact with the copper pipe, or if its two red wires are loose or corroded, the control module will register an out-of-range value and throw the A7 code. In some cases the sensor itself is working but detecting genuinely excessive water temperature due to scale buildup or a clogged heat exchanger, though this is less common.
@@ -29,8 +28,6 @@ The sensor uses a thermistor that changes resistance with temperature. If the se
 ## Before You Replace Anything
 
 Homeowners often replace the sensor immediately, but the majority of A7 faults are caused by loose clips or corroded wire connections. Clean the spade terminals and reclip the sensor firmly to the top of the pipe before ordering a new part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

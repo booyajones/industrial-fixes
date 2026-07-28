@@ -22,8 +22,7 @@ part_price: "$45-80"
 no_buy_pct: "65%"
 ---
 
-## Maytag Dishwasher E1 Error Code — What It Means
-
+## What this code means
 Maytag does not use a standalone E1 code in its official documentation. If your display shows E1, it is almost certainly the F9E1 fault, which Maytag defines as "Can't Drain Cycle." This means the dishwasher has detected that water is not draining properly during the cycle. The control has stopped the wash and flagged a drainage problem.
 
 The code typically appears when standing water remains in the tub after the drain cycle, when the drain pump cannot move water out due to a blockage, or when the drain path is obstructed or kinked. Maytag lists clogged filters, kinked hoses, garbage disposer knockout plugs, excessive suds, and incorrect hose routing as the primary causes. In the field, food debris and clogs in the pump or filtration area are responsible for the majority of these faults.
@@ -31,8 +30,6 @@ The code typically appears when standing water remains in the tub after the drai
 ## Before You Replace Anything
 
 Many people replace the drain pump before checking for simple clogs. Always remove and clean the filter and inspect the pump chamber for food buildup, small objects, or broken glass before ordering a pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

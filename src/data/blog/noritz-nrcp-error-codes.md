@@ -17,8 +17,6 @@ money_part: "Thermal fuse"
 
 The Noritz NRCP series (NRCP1112-DV, NRCP1262-DV) are direct-vent condensing tankless water heaters with efficiency ratings of 0.95–0.96 UEF. They display fault codes on the controller display or on the remote control panel. The NRCP uses PVC venting (Category IV) and produces condensate, which must be properly drained.
 
-[Jump to Fix](#fix)
-
 ## Noritz NRCP Error Code Reference
 
 | Code | Meaning |
@@ -74,11 +72,3 @@ The Noritz NRCP series (NRCP1112-DV, NRCP1262-DV) are direct-vent condensing tan
 ## When to Call a Pro
 
 Gas valve replacement, thermal fuse investigation, and heat exchanger descaling should be performed by licensed technicians. If your NRCP is repeatedly tripping Code 14 or Code 90, the heat exchanger may be severely scaled — a professional descaling service can extend unit life significantly before replacement becomes necessary.
-
-## Related Articles
-
-- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
-- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
-- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)

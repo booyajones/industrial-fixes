@@ -19,8 +19,6 @@ When a KitchenAid freezer reports not freezing, the compartment is failing to re
 
 If the freezer runs warm while the refrigerator section still cools partly, the issue often points to a fan, defrost, airflow blockage, or sealed-system problem. KitchenAid service diagnostics on many models include freezer compartment thermistor tests and fan operation checks to narrow down the fault.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty condenser coils** Dust and debris on the coils reduce heat rejection, causing poor cooling in both compartments.

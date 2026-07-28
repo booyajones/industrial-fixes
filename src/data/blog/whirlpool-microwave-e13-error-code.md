@@ -17,15 +17,12 @@ money_part: "Whirlpool Microwave Appliance Control Board"
 part_price: "$120-250"
 ---
 
-## Whirlpool Microwave E13 Error Code — What It Means
-
+## What this code means
 On Whirlpool over-the-range microwaves, E13 indicates the oven did not pre-heat correctly. The unit entered a preheat-related mode and failed to reach the expected preheat condition. Whirlpool's own product help identifies the appliance control board and associated wiring as the primary suspects. This is not a magnetron or door-switch fault. It is a control-system issue tied to the preheat sequence.
 
 ## Before You Replace Anything
 
 Many people replace the magnetron or door switches when they see any error code, but E13 is explicitly a preheat-controller fault. Reset the breaker first and confirm the code returns before buying any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

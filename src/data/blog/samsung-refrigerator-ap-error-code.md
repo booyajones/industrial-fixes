@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Samsung refrigerator Wi-Fi module"
 ---
 
-## Samsung Refrigerator AP Code — What It Means
-
+## What this code means
 AP on a Samsung refrigerator stands for Access Point mode. This is a normal Wi-Fi setup state, not a fault code. When AP appears, the refrigerator's Wi-Fi module is broadcasting its own temporary wireless network so you can pair the appliance with the SmartThings app on your phone. The fridge continues cooling normally while AP is displayed. You will typically see AP during initial setup, after changing your home router, or if someone accidentally pressed the pairing button combination on the control panel.
 
 If AP appears unexpectedly or will not clear, the most common reason is that the refrigerator was unintentionally placed into pairing mode or the Wi-Fi module needs a reset. Less often, a stuck AP display points to a communication issue between the Wi-Fi module and the user interface board. Because AP is an intentional mode rather than an error condition, the fix is simply to exit the mode using your model's specific button sequence or to power-cycle the unit.
@@ -25,8 +24,6 @@ If AP appears unexpectedly or will not clear, the most common reason is that the
 ## Before You Replace Anything
 
 Owners sometimes replace the main control board or user interface board thinking AP is an error code. Before replacing any board, power-cycle the refrigerator and consult your model's manual for the correct AP exit command, which clears the display in nearly every case.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

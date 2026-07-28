@@ -19,8 +19,6 @@ A KitchenAid dishwasher that won't fill with water is not displaying an error co
 
 The fault means something is blocking the fill process before water enters the machine. This can be as simple as a closed supply valve or as involved as a defective water inlet valve or control board output failure.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Water supply valve closed or kinked line** KitchenAid identifies a closed shutoff valve under the sink or a kinked supply line as the first check when the dishwasher fails to fill.
@@ -59,7 +57,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Kitchenaid Dishwasher F2E2 error code](/posts/kitchenaid-dishwasher-f2e2-error-code/)
 - [Kitchenaid Dishwasher F3E1 error code](/posts/kitchenaid-dishwasher-f3e1-error-code/)
 - [Kitchenaid Dishwasher F3E2 error code](/posts/kitchenaid-dishwasher-f3e2-error-code/)
-- [Kitchenaid Dishwasher F4E3 error code](/posts/kitchenaid-dishwasher-f4e3-error-code/)
+- Kitchenaid Dishwasher F4E3 error code
 - [Kitchenaid Dishwasher F5E1 error code](/posts/kitchenaid-dishwasher-f5e1-error-code/)
 - [Kitchenaid Dishwasher F6E1 error code](/posts/kitchenaid-dishwasher-f6e1-error-code/)
 - [Kitchenaid Dishwasher F6E2 error code](/posts/kitchenaid-dishwasher-f6e2-error-code/)

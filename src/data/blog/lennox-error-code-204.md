@@ -13,11 +13,8 @@ money_part: "Hot surface igniter"
 most_likely_cause: "Weak or cracked hot surface igniter"
 ---
 
-## Lennox 204 Error Code — What It Means
-
+## What this code means
 Lennox error code 204 means ignition failure — the furnace attempted to light the burners but failed to establish a flame within the allowed trial time. On iComfort systems this shows as "204" on the thermostat. On SureLight boards it appears as a flash sequence. The board allows 3 ignition attempts before locking out. Code 204 tells you the ignition sequence ran (draft proved, gas valve opened) but no stable flame was detected by the sensor. The igniter, gas supply, and flame sensor are the three components to check in that order.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Lennox error code 204 means ignition failure — the furnace attempted to light 
 ## When to Call a Pro
 
 If igniter and flame sensor check out and gas is confirmed at the valve, the issue is likely gas valve internal failure or a combustion problem that needs a combustion analyzer. These require a licensed tech.
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-
-## See Also
-
-- [Lennox G60UHV Furnace Error Codes — Flash Code Diagnostic Guide](/posts/lennox-g60uhv-error-codes/)
-- [Lennox iComfort EFO Error Code — Excessive Flame Out and Common iComfort Faults](/posts/lennox-icomfort-error-codes/)
-- [Lennox XC21 Error Codes — Diagnostic Guide and Fixes](/posts/lennox-xc21-error-codes/)
-- [Lennox XP20 Heat Pump Error Codes - Full iComfort Fault Reference](/posts/lennox-xp20-heat-pump-error-codes/)

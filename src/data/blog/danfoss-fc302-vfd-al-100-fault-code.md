@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "80%"
 ---
 
-## Danfoss FC302 AL-100 Fault — What It Means
-
+## What this code means
 The Danfoss VLT AutomationDrive FC 302 does not generate an AL-100 fault code. Official Danfoss documentation lists alarms only from 1 to 99, such as Alarm 13 for overcurrent, Alarm 38 for internal faults, and Alarm 88 for option layout changes. If your local control panel (LCP) displays "AL-100," you are likely seeing a misread display, a software glitch, or an external error code sent by a connected PLC, HMI, or softstarter that the drive is relaying but did not generate itself.
 
 Technicians often confuse Alarm 80 (settings lost or reset) or Alarm 88 (option detection or layout mismatch) with "AL-100" due to poor lighting, worn displays, or communication errors. The first diagnostic step is to verify the exact five-digit code on the LCP screen, note any internal fault code referenced in the drive's parameter menu, and determine whether the error clears when communication cables are disconnected. If the code persists after a power cycle and parameter restore, inspect the control card, input voltage, and option layout settings to isolate the true fault.
@@ -29,8 +28,6 @@ Technicians often confuse Alarm 80 (settings lost or reset) or Alarm 88 (option 
 ## Before You Replace Anything
 
 Technicians often replace the control PCB or power module without first checking for external error codes from a PLC or HMI. Disconnect communication wiring and power cycle the drive to confirm the fault is internal before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if the alarm persists after you have verified the exact code, disconnected external communication, and power cycled the drive. Professional help is required when Parameter 15-32 shows internal fault diagnostics pointing to control card or power stage failure, when input voltage measurements reveal rectifier or DC bus problems, or when the drive needs firmware updates or option card reconfiguration. Technicians have the tools to perform DC bus voltage tests, measure IGBT gate signals, and safely replace high-voltage power modules or control boards without risking arc flash or further damage to the equipment.
 
 **Rough cost:** A pro service call runs about $200-600 for service call, diagnostics, and parameter restore or control card replacement if needed.
-
-## See Also
-
-- [Danfoss FC302 ALARM 16 - Causes & Fix](/posts/danfoss-fc302-alarm-16-fault-code/)
-- [Danfoss FC302 AL-67 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-67-fault-code/)
-- [Danfoss FC302 Alarm 74 - Causes & Fix](/posts/danfoss-fc302-vfd-al-74-fault-code/)
-- [Danfoss FC302 AL-63 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-63-fault-code/)

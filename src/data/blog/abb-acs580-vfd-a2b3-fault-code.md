@@ -13,11 +13,8 @@ money_part: "Motor"
 most_likely_cause: "Motor insulation breakdown to ground"
 ---
 
-## ABB ACS580 A2B3 Fault — What It Means
-
+## What this code means
 A2B3 on an ABB ACS580 drive signals an earth leakage fault. The drive has detected unbalanced motor output current, typically caused by an earth fault in the motor or motor cable. ABB's documentation assigns auxiliary code 2330 to this fault condition. The drive is protecting itself and the motor from a ground fault somewhere in the load circuit. Most often the problem is insulation breakdown in the motor windings, damaged cable insulation allowing conductors to contact ground, or moisture intrusion in conduit, junction boxes, or the motor terminal box.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ A2B3 on an ABB ACS580 drive signals an earth leakage fault. The drive has detect
 ## When to Call a Pro
 
 Call a qualified electrician or motor technician if you are not trained in high-voltage isolation, lockout/tagout procedures, or insulation-resistance testing. A2B3 faults point to earth leakage in the motor or cable, and misdiagnosis can damage the drive or create a shock hazard. If you have replaced the motor cable, verified no capacitors or surge absorbers are present, and confirmed good insulation resistance but the fault returns, the issue may involve drive configuration, grounding system design, or an intermittent fault that requires advanced diagnostics.
-
-## See Also
-
-- [ABB ACS880 Fault 3210 — DC Bus Undervoltage Causes & Fix](/posts/abb-acs880-fault-3210/)
-- [ABB VFD Fault 3130 — Input Phase Loss Fix](/posts/abb-vfd-fault-3130/)
-- [ABB VFD Fault 4110 — Causes & Fix](/posts/abb-vfd-fault-4110/)
-- [ABB VFD Fault 3210 — Causes & Fix](/posts/abb-vfd-fault-3210/)

@@ -17,8 +17,7 @@ money_part: "Upper oven cooling fan motor assembly"
 part_price: "$80-180"
 ---
 
-## GE Oven F96 Error Code — What It Means
-
+## What this code means
 The F96 code on GE wall ovens and double ovens indicates a cooling fan speed detection fault. The control board is trying to verify that the upper cooling fan is running at the correct speed, but it is not receiving the expected signal from the fan's speed sensor or tachometer circuit. The oven shuts down operation as a safety measure because it cannot confirm proper cooling airflow.
 
 In practice, this means either the fan motor itself has failed and is not spinning, the hall-effect sensor board attached to the fan is not reporting speed correctly, or the wiring between the fan assembly and the control board has been disconnected or damaged. The fan system uses both a power connection to run the motor and a separate sensor connection to report rotational speed back to the control board. When that speed feedback is missing or out of range, the F96 fault is logged.
@@ -26,8 +25,6 @@ In practice, this means either the fan motor itself has failed and is not spinni
 ## Before You Replace Anything
 
 Many homeowners replace the main control board first, assuming the error is electronic. Check the fan motor and sensor board wiring and test the fan assembly before replacing the control board, which is rarely at fault if the fan itself does not spin freely or is not properly connected.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

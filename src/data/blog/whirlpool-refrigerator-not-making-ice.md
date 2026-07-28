@@ -17,8 +17,6 @@ tags:
 
 When a Whirlpool refrigerator stops making ice, the ice maker is failing to complete one or more steps in the normal cycle: freezing water in the mold, harvesting the cubes, or refilling with fresh water. This is a symptom, not a specific fault code. Whirlpool distinguishes between units that make no ice at all and those that freeze ice but won't dump it into the bin, because the latter often responds to a simple reset of the ice maker module.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Ice maker turned off** The ice maker on/off switch or bail arm was accidentally moved to the off position, stopping all cycles.
@@ -52,18 +50,18 @@ When a Whirlpool refrigerator stops making ice, the ice maker is failing to comp
 
 Seeing a code on the display? These match this problem:
 
-- [Whirlpool Refrigerator Df error code](/posts/whirlpool-refrigerator-df-error-code/)
-- [Whirlpool Refrigerator E0 error code](/posts/whirlpool-refrigerator-e0-error-code/)
-- [Whirlpool Refrigerator E1 error code](/posts/whirlpool-refrigerator-e1-error-code/)
-- [Whirlpool Refrigerator E2 error code](/posts/whirlpool-refrigerator-e2-error-code/)
-- [Whirlpool Refrigerator E3 error code](/posts/whirlpool-refrigerator-e3-error-code/)
-- [Whirlpool Refrigerator E4 error code](/posts/whirlpool-refrigerator-e4-error-code/)
-- [Whirlpool Refrigerator E5 error code](/posts/whirlpool-refrigerator-e5-error-code/)
-- [Whirlpool Refrigerator E6 error code](/posts/whirlpool-refrigerator-e6-error-code/)
-- [Whirlpool Refrigerator E9 error code](/posts/whirlpool-refrigerator-e9-error-code/)
-- [Whirlpool Refrigerator Po error code](/posts/whirlpool-refrigerator-po-error-code/)
-- [Whirlpool Refrigerator Sy Ce error code](/posts/whirlpool-refrigerator-sy-ce-error-code/)
-- [Whirlpool Refrigerator Sy Ef error code](/posts/whirlpool-refrigerator-sy-ef-error-code/)
+- Whirlpool Refrigerator Df error code
+- Whirlpool Refrigerator E0 error code
+- Whirlpool Refrigerator E1 error code
+- Whirlpool Refrigerator E2 error code
+- Whirlpool Refrigerator E3 error code
+- Whirlpool Refrigerator E4 error code
+- Whirlpool Refrigerator E5 error code
+- Whirlpool Refrigerator E6 error code
+- Whirlpool Refrigerator E9 error code
+- Whirlpool Refrigerator Po error code
+- Whirlpool Refrigerator Sy Ce error code
+- Whirlpool Refrigerator Sy Ef error code
 
 ## When to Call a Pro
 

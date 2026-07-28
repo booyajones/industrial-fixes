@@ -13,11 +13,8 @@ money_part: "Thermal fuse (one-time trip)"
 most_likely_cause: "Blocked exhaust vent"
 ---
 
-## Rinnai Error Code 25 — What It Means
-
+## What this code means
 Rinnai error code 25 means the thermal fuse or overheat cutoff has activated. Rinnai tankless water heaters include a one-shot thermal fuse — a sacrificial device that permanently opens if the unit's internal temperature reaches a dangerous level. Unlike auto-reset safety devices, the thermal fuse is a physical component that must be replaced once it trips. Code 25 is not a transient fault; the unit is locked out and will stay locked out until the thermal fuse is physically replaced. Overheating is almost always caused by a venting restriction that traps combustion heat inside the unit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Rinnai error code 25 means the thermal fuse or overheat cutoff has activated. Ri
 ## When to Call a Pro
 
 A thermal fuse that blows again shortly after replacement means the root cause wasn't fully corrected. A Navien-certified tech (or Rinnai service tech) can do a combustion analysis and verify vent performance with proper instruments.
-
-## Related Articles
-
-- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
-- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
-- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
-- [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
-- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)
-
-## See Also
-
-- [Rinnai Error Code 29 — System Communication Fault Fix](/posts/rinnai-error-code-29/)
-- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)
-- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
-- [Rinnai Error Code 52 — Outlet Water Temperature Sensor Fault](/posts/rinnai-error-code-52/)

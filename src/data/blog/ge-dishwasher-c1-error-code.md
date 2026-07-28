@@ -22,8 +22,7 @@ part_price: "$20-50"
 no_buy_pct: "65%"
 ---
 
-## GE Dishwasher C1 Error Code — What It Means
-
+## What this code means
 GE's C1 code means the pump-out during drain has exceeded 2 minutes. The control board commanded the dishwasher to drain, but water did not evacuate within the programmed two-minute window. This is a drain-timeout fault, not a generic electrical problem.
 
 The code typically appears when something is slowing or blocking the drain path. GE's published guidance focuses on clearing the air gap, checking the drain hose for kinks or blockages, and running the garbage disposer to clear any restriction. If those steps do not resolve the fault, the manufacturer recommends contacting service.
@@ -31,8 +30,6 @@ The code typically appears when something is slowing or blocking the drain path.
 ## Before You Replace Anything
 
 Homeowners sometimes replace the drain pump when the real problem is a clogged air gap or a newly installed garbage disposer with the knockout plug still in place. Always clear the drain path before buying a pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

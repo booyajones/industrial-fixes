@@ -17,8 +17,7 @@ money_part: "Frigidaire refrigerator temperature sensor / thermistor"
 part_price: "$15-80"
 ---
 
-## Frigidaire Refrigerator SH Error Code — What It Means
-
+## What this code means
 The SH code on a Frigidaire refrigerator is a sensor high or high-temperature alarm. It appears when the control board detects that the freezer section, the refrigerator section, or both have exceeded the safe temperature threshold. Frigidaire's own documentation identifies SH as a temperature-threshold fault, meaning either the compartment truly warmed up or the control believes the temperature sensor is reading abnormally high.
 
 This code is often triggered by everyday events like a door left open, a heavy load of warm groceries, a power outage, or repeated door openings. It can also signal a real cooling problem such as a failed fan, blocked airflow, ice buildup from a defrost failure, or a faulty temperature sensor. The key is to determine whether the cabinet truly warmed or the control is misreading the sensor.
@@ -26,8 +25,6 @@ This code is often triggered by everyday events like a door left open, a heavy l
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first, but most SH faults are caused by a door seal, blocked vent, or failed fan motor. Check door closure, airflow, and fan operation before buying any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

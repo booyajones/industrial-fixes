@@ -19,8 +19,6 @@ When your Samsung refrigerator's freezer is cold but the fresh-food compartment 
 
 This symptom is not tied to a single error code across all Samsung models. Some units display 2 E or 2 C for a fresh-food thermistor fault, 21E for a freezer fan motor issue, or 22E for a fresh-food fan motor problem. Many times no code appears at all. Samsung troubleshooting guidance treats this as a cooling-performance issue that requires checking settings, airflow, seals, a power reset, and component service if the problem persists.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Frosted evaporator or failed defrost system** Ice buildup on the evaporator coils blocks airflow from the freezer to the fresh-food compartment, causing warm temperatures in the refrigerator section while the freezer stays cold.

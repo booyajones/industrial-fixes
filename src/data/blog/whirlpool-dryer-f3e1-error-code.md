@@ -17,8 +17,7 @@ money_part: "Whirlpool dryer exhaust thermistor"
 part_price: "$20-50"
 ---
 
-## Whirlpool Dryer F3E1 Error Code — What It Means
-
+## What this code means
 F3E1 is Whirlpool's code for an exhaust thermistor fault. The dryer control has detected a problem in the exhaust-temperature sensor circuit. In practical terms, the dryer is not getting a believable temperature signal from the exhaust thermistor, or the circuit feeding that sensor is interrupted or shorted.
 
 This code does not always mean the sensor has died. Loose connectors, corroded terminals, or damaged wiring between the thermistor and the control board can all trigger F3E1. Sometimes a temporary electronic glitch or extreme vent restriction causes an abnormal temperature reading that sets the fault. Whirlpool recommends a power reset before ordering parts, because the fault may clear on its own.
@@ -26,8 +25,6 @@ This code does not always mean the sensor has died. Loose connectors, corroded t
 ## Before You Replace Anything
 
 Many people order a new control board when they see an F-series code. Check the thermistor connector for corrosion and test the sensor itself first, since a bad sensor or loose plug is far more common than a failed board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

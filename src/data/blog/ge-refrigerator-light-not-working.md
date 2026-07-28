@@ -19,8 +19,6 @@ A GE refrigerator light not working is not a fault code. It is a symptom that te
 
 Most modern GE refrigerators use LED modules instead of replaceable bulbs. When the light goes out in these models, you usually need to replace the LED board or module rather than just swap a bulb. Some GE models use series-connected LED circuits, so one failed LED can make multiple lights dim or go completely dark.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Burned-out LED module or light bulb** This is the most common cause in GE refrigerators, and modern models with LED lighting require replacement of the entire LED board or module rather than a simple bulb swap.
@@ -53,18 +51,18 @@ Most modern GE refrigerators use LED modules instead of replaceable bulbs. When 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Ge Refrigerator Cc error code](/posts/ge-refrigerator-cc-error-code/)
-- [Ge Refrigerator Cf error code](/posts/ge-refrigerator-cf-error-code/)
-- [Ge Refrigerator Ci error code](/posts/ge-refrigerator-ci-error-code/)
-- [Ge Refrigerator De error code](/posts/ge-refrigerator-de-error-code/)
-- [Ge Refrigerator Df error code](/posts/ge-refrigerator-df-error-code/)
-- [Ge Refrigerator Ds error code](/posts/ge-refrigerator-ds-error-code/)
-- [Ge Refrigerator Ff error code](/posts/ge-refrigerator-ff-error-code/)
-- [Ge Refrigerator H2O error code](/posts/ge-refrigerator-h2o-error-code/)
-- [Ge Refrigerator Hs error code](/posts/ge-refrigerator-hs-error-code/)
-- [Ge Refrigerator Pf error code](/posts/ge-refrigerator-pf-error-code/)
-- [Ge Refrigerator Tc error code](/posts/ge-refrigerator-tc-error-code/)
-- [Ge Refrigerator Tf error code](/posts/ge-refrigerator-tf-error-code/)
+- Ge Refrigerator Cc error code
+- Ge Refrigerator Cf error code
+- Ge Refrigerator Ci error code
+- Ge Refrigerator De error code
+- Ge Refrigerator Df error code
+- Ge Refrigerator Ds error code
+- Ge Refrigerator Ff error code
+- Ge Refrigerator H2O error code
+- Ge Refrigerator Hs error code
+- Ge Refrigerator Pf error code
+- Ge Refrigerator Tc error code
+- Ge Refrigerator Tf error code
 
 ## When to Call a Pro
 

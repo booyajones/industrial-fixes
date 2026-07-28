@@ -17,8 +17,7 @@ free_checks:
   - "Enter the diagnostics menu if available and review fault history to see if other codes appear"
 ---
 
-## Weil-McLain A157 Error Code — What It Means
-
+## What this code means
 A157 does not appear in verified Weil-McLain manufacturer documentation as a standard fault code. It may be specific to certain control boards, a historical display entry, or a misread of another code. Before attempting any repair, you must identify your exact boiler model and control type, then consult the correct manual or code table for that control family. Weil-McLain boilers use different control platforms depending on the model and year, and each platform has its own fault-code dictionary.
 
 Because the code is unconfirmed, guessing at a single cause risks replacing the wrong part. The safest approach is to record the full display, check the fault history in the diagnostics menu if your control supports it, and match the code to your specific boiler. Common faults on Weil-McLain equipment include sensor failures (thermistors, low-water cutoff), ignition problems, low system pressure, air in the lines, and circulator issues, but without a verified code definition you cannot narrow the field responsibly.
@@ -26,8 +25,6 @@ Because the code is unconfirmed, guessing at a single cause risks replacing the 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the ignition control or flame sensor when the real problem is a failed thermistor or low-water sensor giving false temperature readings. Test suspected sensors with a multimeter for resistance before swapping major controls.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a licensed heating technician immediately if you cannot find A157 in your boiler's manual, if you are uncomfortable working with gas or high-voltage controls, or if basic checks (pressure, power, thermostat) do not clear the code. Weil-McLain boilers require model-specific diagnostics, and the wrong repair can damage the control board or create a safety hazard. A qualified technician will identify your exact control type, pull the correct fault-code table, test sensors and ignition components with the right meters, and document the failed part number for any warranty claim. Do not guess at sensor or control replacements without verifying the code's meaning first.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain A170 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a170-error-code/)
-- [Weil-McLain A126 Error - Causes & Fix](/posts/weil-mclain-boiler-a126-error-code/)
-- [Weil-McLain Boiler A163 Error - Causes & Fix](/posts/weil-mclain-boiler-a163-error-code/)
-- [Weil-McLain Boiler A120 Error - Causes & Fix](/posts/weil-mclain-boiler-a120-error-code/)

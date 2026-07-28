@@ -19,8 +19,6 @@ When your Rinnai water heater shows no ignition, the unit attempted to start a b
 
 This fault only appears during an actual call for heat. The problem is somewhere in the ignition or gas supply chain: either spark is not reaching the burner, gas is not arriving at the burner, or the flame rod cannot prove the flame even when present.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Low inlet gas pressure or closed gas valve** Insufficient gas pressure or a partially closed shutoff valve starves the burner and prevents ignition even when spark is present.
@@ -54,10 +52,3 @@ This fault only appears during an actual call for heat. The problem is somewhere
 ## When to Call a Pro
 
 Call a licensed plumber or gas technician if you have no spark and all visible connections are intact, if inlet gas pressure is low and you cannot locate a shutoff or regulator issue, or if the flame rod and igniter both appear clean and tight but the heater still will not light. Gas valve replacement, PC board diagnosis, and gas-pressure testing require proper tools and training. Any work involving gas connections, burner removal, or control-board replacement should be done by a qualified professional to prevent gas leaks, carbon monoxide hazards, or damage to the heater. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rinnai Tankless Water Heater Error Codes — Complete Guide](/posts/rinnai-error-codes/)
-- [Rinnai Water Heater Leaking - Causes & Fix](/posts/rinnai-water-heater-leaking/)
-- [Rinnai V65iN Problems & Error Codes](/posts/rinnai-v65in-water-heater-problems/)
-- [Rinnai Water Heater Pilot Won't Stay Lit - Causes & Fix](/posts/rinnai-water-heater-pilot-wont-stay-lit/)

@@ -13,13 +13,10 @@ money_part: "Bosch backflow temperature sensor"
 most_likely_cause: "Blocked or restricted venting"
 ---
 
-## Bosch E4 Error Code — What It Means
-
+## What this code means
 The E4 error on a Bosch tankless water heater indicates that the backflow temperature sensor has detected a temperature above 309°F, triggering a safety shutdown to prevent damage or fire risk. This overheating fault tells you the appliance is trapping too much heat, either because hot exhaust gases are not venting properly or because the combustion air supply and fan system are compromised.
 
 The root cause is almost always related to airflow: blocked or improperly installed venting, a failed or obstructed secondary fan, or poor combustion-air conditions. Less commonly, the sensor itself or its wiring has failed and is sending a false high-temperature signal to the control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

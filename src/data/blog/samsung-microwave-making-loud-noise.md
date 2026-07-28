@@ -19,8 +19,6 @@ Samsung does not link loud noise during microwave operation to a specific error 
 
 Mechanical noise can also come from installed parts like filters, the turntable system, or the stirrer assembly. A popping sound often comes from food or residue inside the cavity rather than a failed component.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Normal magnetron hum or buzzing** The magnetron oscillates at high frequency during heating and produces a loud hum that is part of normal operation.
@@ -56,7 +54,7 @@ Mechanical noise can also come from installed parts like filters, the turntable 
 If your appliance also shows a code on the display, these match this problem:
 
 - [Samsung Microwave 5E error code](/posts/samsung-microwave-5e-error-code/)
-- [Samsung Microwave C 10 error code](/posts/samsung-microwave-c-10-error-code/)
+- Samsung Microwave C 10 error code
 - [Samsung Microwave C 11 error code](/posts/samsung-microwave-c-11-error-code/)
 - [Samsung Microwave C 12 error code](/posts/samsung-microwave-c-12-error-code/)
 - [Samsung Microwave C 20 error code](/posts/samsung-microwave-c-20-error-code/)

@@ -21,8 +21,7 @@ part_price: "$30–70"
 no_buy_pct: "65%"
 ---
 
-## Maytag d8 Error Code — What It Means
-
+## What this code means
 Maytag's commercial fault-code sheet identifies d8 as "No Drain End D8," meaning the washer completed a cycle segment but did not detect an acceptable drain-down condition by the end of the drain period. In plain terms, the machine is taking too long to drain or is not draining properly. Maytag's guidance for the related drain-fault family notes that the fault typically fires when drain time exceeds eight minutes.
 
 The control has measured that water is still present or the drain cycle has run beyond its allowed window. This is a mechanical drain problem, not a sensor or electronic glitch in most cases.
@@ -30,8 +29,6 @@ The control has measured that water is still present or the drain cycle has run 
 ## Before You Replace Anything
 
 Many people replace the drain pump first, but the majority of d8 codes are caused by a kinked hose, a clogged filter, or a standpipe blockage. Clear the entire drain path and test the pump for blockage before ordering a new pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

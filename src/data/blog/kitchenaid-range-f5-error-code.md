@@ -20,8 +20,7 @@ free_checks:
 part_price: "$40-80"
 ---
 
-## KitchenAid F5 Error Code — What It Means
-
+## What this code means
 On KitchenAid ranges and wall ovens, an F5 error is part of a family of door-lock codes (F5-E0, F5-E1, F5-E2, F5-E3) that indicate a problem with the oven door latch assembly, door switch, or associated wiring. The control board has detected that the latch position does not match the expected state, or that the door-switch circuit is open or shorted. Some broader KitchenAid appliance fault-code tables also list a plain F5 as a control board failure, but for ranges the manufacturer-grounded interpretation points to the door-latch system first.
 
 Because the exact subcode (F5-E0 versus F5-E3, for example) directs you to either the upper or main oven door latch, verifying the full code on your display is the first diagnostic step. If the latch arm is bent, the switch is stuck, or a connector has worked loose, the control will throw the F5 fault and may lock you out of normal operation until the mismatch is resolved.
@@ -29,8 +28,6 @@ Because the exact subcode (F5-E0 versus F5-E3, for example) directs you to eithe
 ## Before You Replace Anything
 
 Many owners replace the control board when they see F5, but the real culprit is usually the door latch or door switch. Inspect the latch arm and test the switch circuit with a multimeter before buying a control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

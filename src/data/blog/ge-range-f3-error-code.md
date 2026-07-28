@@ -17,8 +17,7 @@ money_part: "GE oven temperature sensor"
 part_price: "$20-50"
 ---
 
-## GE Range F3 Error Code — What It Means
-
+## What this code means
 The F3 code on a GE range means the electronic control board thinks the oven temperature sensor circuit has failed open or is reading out of range. The control board cannot trust the sensor reading, so it throws the fault and usually shuts down the oven. In practical terms, the control may see the circuit as above about 2,900 Ω at the board when it expects a healthy sensor to read around 1,100 Ω at room temperature.
 
 The fault can live in the sensor itself, in the two-wire harness and connectors between the sensor and the main control board, or in the control board if the sensor circuit tests good. A technician's approach is to verify the sensor first, then the wiring, and only replace the control board if the sensor circuit is sound but the error persists.
@@ -27,30 +26,12 @@ The fault can live in the sensor itself, in the two-wire harness and connectors 
 
 Many people replace the main control board (ERC) first. Always test the sensor resistance at room temperature and inspect the harness connectors for corrosion or loose pins before ordering a board.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Failed oven temperature sensor (~60%)** The sensor is open, reads out of the normal 1,050-1,150 Ω range at room temperature, or shows continuity to its mounting shell.
-- **Loose, corroded, or burned harness connectors (~25%)** The two-pin connector at the sensor or at the control board has poor contact, green corrosion, or heat damage that creates an open circuit.
-- **Pinched, melted, or damaged sensor wiring (~10%)** A wire in the sensor circuit is cut, melted by insulation contact with the oven wall, or pinched behind the range, causing an open reading.
-- **Faulty main control board (ERC) (~5%)** If the sensor and wiring both test good, the control board itself may be misreading the circuit or have a failed input stage.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Does the F3 code clear after unplugging the range for 5 minutes and restoring power?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The fault may be intermittent or a one-time glitch. Monitor the oven; if F3 returns, proceed to test the sensor.<br><strong>No:</strong> The fault is persistent. Move on to inspecting and testing the temperature sensor and wiring.</div>
-</details>
-
-<details class="dtree"><summary>With the sensor disconnected, does it measure 1,050-1,150 Ω at room temperature?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The sensor is good. Check for continuity and damage in the wiring and connectors between the sensor and control board.<br><strong>No:</strong> The sensor is faulty. Replace it and retest.</div>
-</details>
-
-<details class="dtree"><summary>Do you see any melted, pinched, or corroded wires or connector pins in the sensor circuit?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Repair or replace the damaged harness section or connector, then clear the code and test the oven.<br><strong>No:</strong> If the sensor and wiring are both good but F3 persists, the main control board is the likely cause.</div>
-</details>
+- **Failed oven temperature sensor** The sensor is open, reads out of the normal 1,050-1,150 Ω range at room temperature, or shows continuity to its mounting shell.
+- **Loose, corroded, or burned harness connectors** The two-pin connector at the sensor or at the control board has poor contact, green corrosion, or heat damage that creates an open circuit.
+- **Pinched, melted, or damaged sensor wiring** A wire in the sensor circuit is cut, melted by insulation contact with the oven wall, or pinched behind the range, causing an open reading.
+- **Faulty main control board (ERC)** If the sensor and wiring both test good, the control board itself may be misreading the circuit or have a failed input stage.
 
 ## Step-by-Step Fix {#fix}
 
@@ -74,5 +55,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a professional if you are uncomfortable working with 240-volt wiring, if you cannot safely access the sensor or control board, or if you have tested the sensor and wiring and both are good but the F3 code persists and you prefer not to diagnose or replace the control board yourself. A qualified appliance technician has the tools to test the sensor circuit at the board connector and can confirm whether the board needs replacement or whether an intermittent wiring fault is at play.
-
-**Rough cost:** DIY runs about $20-50 in parts, 30-60 min. A pro service call runs about $150-300.

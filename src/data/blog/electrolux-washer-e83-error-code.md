@@ -15,8 +15,7 @@ most_likely_cause: "Control board communication fault"
 diy_or_pro: "pro"
 ---
 
-## Electrolux Washer E83 Error Code — What It Means
-
+## What this code means
 The E83 error code does not appear in Electrolux's published washer fault-code documentation for most regions. Unlike verified codes such as E80, E81, E82 (recirculation pump or user interface faults), EH0 and EH2 (power supply or voltage issues), or ER (door lock, overload, or door problems), E83 is not manufacturer-documented in the available service literature. This means the exact fault behind E83 varies by model and may be specific to certain regional variants or older machines.
 
 Because the meaning is not standardized across Electrolux washers, the correct diagnostic path is to locate your washer's exact model number from the rating plate and consult the service manual or wiring diagram for that model. The code may relate to a control board fault, a sensor issue, a pump circuit problem, or a communication error between modules. Do not replace parts based on guesswork. Enter the service diagnostics or error-history mode for your model to confirm the fault before ordering components.
@@ -24,8 +23,6 @@ Because the meaning is not standardized across Electrolux washers, the correct d
 ## Before You Replace Anything
 
 Homeowners often replace the main control board when E83 appears, only to discover the real fault is a failed pressure sensor, blocked drain pump, or corroded connector. Always check sensor resistance and pump operation before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

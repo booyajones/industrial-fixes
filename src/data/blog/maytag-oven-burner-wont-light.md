@@ -20,8 +20,6 @@ When a Maytag oven burner won't light, you're describing a symptom rather than a
 
 The exact cause depends on whether you're working with a surface burner or an oven cavity burner. Surface burners often fail to light because of positioning or blockage issues in the burner assembly itself. Oven burners that won't ignite usually trace back to a weak or failed igniter, a tripped thermal fuse, or a fault in the control board. No single universal error code ties to this symptom across Maytag gas ranges.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Gas supply shutoff closed or interrupted** Maytag instructs that the appliance gas shutoff valve must be open and the supply line connected for any burner to light.

@@ -19,8 +19,6 @@ A squeaking Whirlpool dryer is not a fault code. It is a noise symptom that poin
 
 Whirlpool does not assign a specific diagnostic code to squeaking. Instead, the noise tells you that belts, pulleys, rollers, drum bearings, or motor parts are rubbing, slipping, or worn. Sometimes the squeak is constant during the cycle. Other times it happens only at startup or under load.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Worn idler pulley bearing** The idler pulley bearing wears out over time and creates a squeaking or squealing noise, especially at startup when the belt is under tension.
@@ -55,18 +53,18 @@ Whirlpool does not assign a specific diagnostic code to squeaking. Instead, the 
 
 Seeing a code on the display? These match this problem:
 
-- [Whirlpool Dryer Af error code](/posts/whirlpool-dryer-af-error-code/)
-- [Whirlpool Dryer F 01 error code](/posts/whirlpool-dryer-f-01-error-code/)
-- [Whirlpool Dryer F 02 error code](/posts/whirlpool-dryer-f-02-error-code/)
-- [Whirlpool Dryer F 22 error code](/posts/whirlpool-dryer-f-22-error-code/)
-- [Whirlpool Dryer F 23 error code](/posts/whirlpool-dryer-f-23-error-code/)
-- [Whirlpool Dryer F 26 error code](/posts/whirlpool-dryer-f-26-error-code/)
-- [Whirlpool Dryer F 28 error code](/posts/whirlpool-dryer-f-28-error-code/)
-- [Whirlpool Dryer F 29 error code](/posts/whirlpool-dryer-f-29-error-code/)
-- [Whirlpool Dryer F1E1 error code](/posts/whirlpool-dryer-f1e1-error-code/)
-- [Whirlpool Dryer F22 error code](/posts/whirlpool-dryer-f22-error-code/)
-- [Whirlpool Dryer F23 error code](/posts/whirlpool-dryer-f23-error-code/)
-- [Whirlpool Dryer F24 error code](/posts/whirlpool-dryer-f24-error-code/)
+- Whirlpool Dryer Af error code
+- Whirlpool Dryer F 01 error code
+- Whirlpool Dryer F 02 error code
+- Whirlpool Dryer F 22 error code
+- Whirlpool Dryer F 23 error code
+- Whirlpool Dryer F 26 error code
+- Whirlpool Dryer F 28 error code
+- Whirlpool Dryer F 29 error code
+- Whirlpool Dryer F1E1 error code
+- Whirlpool Dryer F22 error code
+- Whirlpool Dryer F23 error code
+- Whirlpool Dryer F24 error code
 
 ## When to Call a Pro
 

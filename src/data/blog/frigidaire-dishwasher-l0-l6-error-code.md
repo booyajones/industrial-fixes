@@ -17,8 +17,7 @@ money_part: "Rinse-aid dispenser assembly"
 part_price: "$15-40"
 ---
 
-## Frigidaire Dishwasher LO Error Code — What It Means
-
+## What this code means
 The LO code on a Frigidaire dishwasher indicates that the rinse aid dispenser is low or empty. The dishwasher's electronic diagnostics monitor the rinse aid level and display this reminder when the reservoir needs refilling. This is not a drain fault or wash-motor issue. The code is designed to alert you before the dispenser runs completely dry, which can affect drying performance and leave spots on dishes.
 
 In most cases the dispenser is actually empty or low. Less common causes include a defective rinse aid dispenser assembly that does not properly detect the level, a wiring problem between the dispenser and the main control board, or a faulty control board itself. The first step is always to verify the rinse aid level and refill the reservoir.
@@ -26,8 +25,6 @@ In most cases the dispenser is actually empty or low. Less common causes include
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when the LO code persists, but the dispenser assembly or its wiring is usually the real culprit. Fill the rinse aid reservoir, reset the power, and inspect the dispenser cap and harness connections before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

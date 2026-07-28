@@ -13,11 +13,8 @@ money_part: "Motor temperature sensor (thermistor)"
 most_likely_cause: "Open or broken motor thermistor wiring"
 ---
 
-## Siemens G120 F0015 Fault — What It Means
-
+## What this code means
 Fault code F0015 on a Siemens SINAMICS G120 variable frequency drive indicates a motor temperature monitoring fault. The drive has detected that the motor temperature sensor signal is lost or open-circuit, so it cannot reliably monitor motor thermal protection. This fault is specific to the motor temperature sensing circuit and its parameterization, not the drive's internal temperature. The drive shuts down to protect the motor because it no longer has feedback from the thermal sensor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ Fault code F0015 on a Siemens SINAMICS G120 variable frequency drive indicates a
 ## When to Call a Pro
 
 Call a qualified industrial electrician or controls technician if you are not trained in variable frequency drive systems, if you cannot safely lock out and test the motor circuit, or if the fault persists after verifying and replacing the sensor and wiring. If the sensor circuit tests good at both ends but the drive still reports F0015, the drive control unit may need factory service or replacement by a Siemens-authorized technician. Industrial VFD work involves lethal voltages and specialized diagnostic equipment, so professional support is recommended for complex faults or systems critical to production.
-
-## See Also
-
-- [Siemens Micromaster F0021 Fault - Causes & Fix](/posts/siemens-micromaster-vfd-f0021-fault-code/)
-- [Siemens G120 F01122 - Causes & Fix](/posts/siemens-g120-vfd-f01122-fault-code/)
-- [Siemens G120 A01028 Fault - Causes & Fix](/posts/siemens-g120-vfd-a01028-fault-code/)
-- [Siemens Micromaster F0070 - Causes & Fix](/posts/siemens-micromaster-f0070-fault-code/)

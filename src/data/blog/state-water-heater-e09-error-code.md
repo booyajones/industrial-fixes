@@ -13,11 +13,8 @@ money_part: "Control board (model-specific)"
 most_likely_cause: "Model-specific fault definition"
 ---
 
-## State Water Heater E09 Error Code — What It Means
-
+## What this code means
 E09 is not a universal code across all State water heater models. State manufactures gas, electric, and heat-pump water heaters, and each product line uses its own diagnostic code system. The exact meaning of E09 depends on your specific model number and must be confirmed from the diagnostic chart printed on the unit's rating plate or from the service manual for that model. State heat-pump models include built-in diagnostics that can be tested with a multimeter, but the code definitions vary by model family.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

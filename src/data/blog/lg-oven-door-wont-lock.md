@@ -20,8 +20,6 @@ When your LG oven door won't lock, the door lock mechanism has failed to engage 
 
 If the oven is still locked after self-clean or easy clean, it may simply be waiting for the internal temperature to drop to a safe level before it will unlock. If it remains locked after cooling or won't lock when you start a clean cycle, you're dealing with a mechanical or electrical failure in the lock system itself.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed door lock motor or actuator** The door lock motor assembly is the most common hardware failure LG parts and repair training materials identify for lock problems.
@@ -69,10 +67,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a pro if you're not comfortable working inside the oven cabinet with the power off, or if you've replaced the door lock motor assembly and checked all mechanical parts but the door still won't lock. A technician can test the control board's lock motor circuit and verify switch feedback signals that require a meter and schematic. If your oven is still under warranty, contact LG or an authorized servicer before opening panels. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [LG Mini-Split CH24 Error - Causes & Fix](/posts/lg-mini-split-ch24-error-code/)
-- [LG Refrigerator Leaking Water - Causes & Fix](/posts/lg-refrigerator-leaking-water/)
-- [LG Mini Split CH66 Error Code - Causes & Fix](/posts/lg-mini-split-ch66-error-code/)
-- [LG Mini Split Not Responding to Remote - Causes & Fix](/posts/lg-mini-split-not-responding-to-remote/)

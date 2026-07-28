@@ -20,8 +20,6 @@ When a Kenmore oven door won't lock, the control board expected the door to latc
 
 Because Kenmore branded ovens were built on different OEM platforms, the exact lock mechanism varies by model. On many electric ranges a lock fault means the door lock motor or actuator can't move the latch rod into position, the feedback switch isn't closing, or the main control board itself has failed and can't command or interpret the lock cycle correctly.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Defective door lock motor or actuator** The lock motor has no continuity or is too weak to move the latch fully into the locked position.
@@ -55,18 +53,18 @@ Because Kenmore branded ovens were built on different OEM platforms, the exact l
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kenmore Oven F0 error code](/posts/kenmore-oven-f0-error-code/)
-- [Kenmore Oven F1 error code](/posts/kenmore-oven-f1-error-code/)
-- [Kenmore Oven F10 error code](/posts/kenmore-oven-f10-error-code/)
+- Kenmore Oven F0 error code
+- Kenmore Oven F1 error code
+- Kenmore Oven F10 error code
 - [Kenmore Oven F2 error code](/posts/kenmore-oven-f2-error-code/)
-- [Kenmore Oven F3 error code](/posts/kenmore-oven-f3-error-code/)
-- [Kenmore Oven F30 error code](/posts/kenmore-oven-f30-error-code/)
-- [Kenmore Oven F31 error code](/posts/kenmore-oven-f31-error-code/)
-- [Kenmore Oven F33 error code](/posts/kenmore-oven-f33-error-code/)
-- [Kenmore Oven F4 error code](/posts/kenmore-oven-f4-error-code/)
-- [Kenmore Oven F5 error code](/posts/kenmore-oven-f5-error-code/)
-- [Kenmore Oven F50 error code](/posts/kenmore-oven-f50-error-code/)
-- [Kenmore Oven F7 error code](/posts/kenmore-oven-f7-error-code/)
+- Kenmore Oven F3 error code
+- Kenmore Oven F30 error code
+- Kenmore Oven F31 error code
+- Kenmore Oven F33 error code
+- Kenmore Oven F4 error code
+- Kenmore Oven F5 error code
+- Kenmore Oven F50 error code
+- Kenmore Oven F7 error code
 
 ## When to Call a Pro
 

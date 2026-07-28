@@ -13,11 +13,8 @@ money_part: "Evaporator sensor / probe"
 most_likely_cause: "Failed evaporator sensor"
 ---
 
-## Beverage-Air Refrigerator Error Code E2 — What It Means
-
+## What this code means
 Beverage-Air error code E2 usually means the evaporator sensor is out of range. On controllers used in reach-ins, prep tables, and undercounter cabinets, E2 often points to the coil probe or evaporator sensor reading open, shorted, or outside the valid temperature band. When that happens, the controller cannot manage off-cycle or electric defrost correctly, so the unit may ice up, run warm, or short-cycle.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,16 +46,3 @@ Beverage-Air error code E2 usually means the evaporator sensor is out of range. 
 ## When to Call a Pro
 
 Call a refrigeration tech if the E2 code returns after you replace the sensor, or if the cabinet still ices heavily even though the probe tests good. At that point you likely have a controller or defrost problem that needs live diagnosis.
-
-## See Also
-
-- [Beverage-Air Refrigerator Error Code E1 — Causes & Fix](/posts/beverage-air-refrigerator-error-code-e1/)
-- [Beverage-Air MT27 Error Codes — Complete Guide](/posts/beverage-air-mt27-error-codes/)
-- [Turbo Air Refrigerator Error Code E1 — Causes & Fix](/posts/turbo-air-refrigerator-error-code-e1/)
-- [Traulsen Refrigerator Error Code E1 — Causes & Fix](/posts/traulsen-refrigerator-error-code-e1/)
-
-## Related Articles
-
-- [Beverage-Air Error Code E4, Causes, and Fixes](/posts/beverage-air-e4-error-code/)
-- [Beverage-Air MT27 Error Codes - What They Mean and How to Fix Them](/posts/beverage-air-mt27-error-codes/)
-- [Beverage-Air Refrigerator Error Code E1 — Causes & Fix](/posts/beverage-air-refrigerator-error-code-e1/)

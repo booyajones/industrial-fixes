@@ -15,11 +15,8 @@ money_part: "Spindle bearings"
 most_likely_cause: "Tool is dull or chipped"
 ---
 
-## Fanuc Alarm 460 — What It Means
-
+## What this code means
 **Alarm 460** on a Fanuc CNC means the **spindle load exceeded the permissible limit**. This can happen because of an aggressive cut, dull tooling, a seized spindle component, or a problem in the spindle drive system.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,18 +46,3 @@ most_likely_cause: "Tool is dull or chipped"
 ## When to Call a Pro
 
 If spindle load is high with no cutting load, the machine likely needs spindle service, drive diagnostics, or both. Continuing to run it risks spindle damage.
-
-## Related Articles
-
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
-- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
-- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
-
-## See Also
-
-- [Fanuc Alarm 700 Spindle Overheat — Detailed Fix Guide](/posts/fanuc-alarm-700-spindle/)
-- [Fanuc Alarm 300 — APC Alarm Fix (Absolute Encoder)](/posts/fanuc-alarm-300/)
-- [Fanuc Alarm 6 Overtravel — Causes & Fix](/posts/fanuc-alarm-6-overtravel/)
-- [Fanuc Alarm 436 — Causes & Fix](/posts/fanuc-alarm-436/)

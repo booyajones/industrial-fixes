@@ -13,11 +13,8 @@ money_part: "Input fuses (semiconductor)"
 most_likely_cause: "Low or missing input supply voltage"
 ---
 
-## Yaskawa GA700 Fault UV1 — What It Means
-
+## What this code means
 UV1 on a Yaskawa GA700 drive (GA700 = Yaskawa's heavy-duty industrial drive platform, successor to the A1000) indicates Main Circuit Undervoltage — the DC bus voltage has dropped below the minimum operating level. The GA700 monitors the DC bus continuously and trips UV1 when the bus falls below approximately 190 VDC on 200 V class drives or 380 VDC on 400 V class drives. UV1 is a protective fault; running the drive on an undervoltage bus would cause output waveform distortion, increased motor heating, and possible damage to the drive's capacitors and power devices.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ UV1 on a Yaskawa GA700 drive (GA700 = Yaskawa's heavy-duty industrial drive plat
 ## When to Call a Pro
 
 UV1 on a GA700 driving a large motor (over 30 kW) should be investigated by a qualified drive technician. Incorrect supply voltage or a failing capacitor bank on a large drive can cause dangerous fault-trip energy releases during reset attempts.
-
-## Related Articles
-
-- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
-- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
-- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
-- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
-- [Yaskawa Sigma-7 SGD7S Servo Drive Alarm Codes — Diagnosis & Fix](/posts/yaskawa-sigma7-sgd7s-alarm-codes/)
-
-## See Also
-
-- [Yaskawa VFD Fault SC — Causes & Fix](/posts/yaskawa-vfd-fault-sc/)
-- [Yaskawa GA800 oC Fault — Overcurrent Fix](/posts/yaskawa-ga800-error-oc/)
-- [Yaskawa VFD Fault Codes — Complete Reference (V1000, A1000, GA700)](/posts/yaskawa-vfd-fault-codes/)
-- [Yaskawa GA800 Uv1 Fault — DC Undervoltage Fix](/posts/yaskawa-ga800-error-uv1/)

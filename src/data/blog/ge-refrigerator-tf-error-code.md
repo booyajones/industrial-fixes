@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "GE refrigerator control board"
 ---
 
-## GE Refrigerator tF Code — What It Means
-
+## What this code means
 The tF display on a GE refrigerator is not an error or fault code. It is the TurboFreeze setting indicator. When you see tF, it means TurboFreeze mode is active and your freezer is being driven to its coldest setting for about 2.5 hours or until you turn the setting off. On some displays the characters can look like EF or an upside-down f, but it is still the TurboFreeze indicator, not a failure code.
 
 TurboFreeze revs up the freezer compartment by keeping the compressor active and running the freezer fan at high speed. The fan continues to run even if you open the door. This mode is designed to quickly freeze fresh food or recover temperature after the door has been open for a while. If you did not intentionally activate TurboFreeze, someone may have pressed the button accidentally, or the display may simply be confusing because of the stylized lettering.
@@ -25,8 +24,6 @@ TurboFreeze revs up the freezer compartment by keeping the compressor active and
 ## Before You Replace Anything
 
 Some third-party repair guides incorrectly label tF as a temperature failure code and suggest replacing the control board or thermistor. Always verify that tF is simply the TurboFreeze mode by turning it off before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

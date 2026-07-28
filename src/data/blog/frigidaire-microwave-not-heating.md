@@ -19,8 +19,6 @@ A Frigidaire microwave that runs but does not heat means the unit receives power
 
 This is not a single error code. Instead, it is a symptom that tells you the magnetron or its supporting high-voltage system is not working, or a control or safety input is preventing heat from being generated.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Defective door interlock or microswitch** A bad door switch prevents the heating circuit from energizing even though the unit may still run the timer and fan.

@@ -22,8 +22,7 @@ part_price: "$25-60"
 no_buy_pct: "70%"
 ---
 
-## Samsung Dishwasher oE Error Code — What It Means
-
+## What this code means
 Samsung identifies oE (along with OC and 0C) as an over-level water error on dishwasher models. The machine detects that the water level is too high or not dropping as expected during the cycle. In practical service terms, this usually points to a drain-side fault or a water-level sensing fault, not a control board problem. The dishwasher may be holding too much water because it is not draining properly, or because a sensor is reporting an abnormal level.
 
 Because Samsung notes that the exact wording can vary by model, confirm the code meaning in your model's owner's manual or on the wiring diagram. The fault can appear during fill, wash, or drain, and pinpointing when it occurs helps separate a fill-valve issue from a drain-path issue.
@@ -31,8 +30,6 @@ Because Samsung notes that the exact wording can vary by model, confirm the code
 ## Before You Replace Anything
 
 Some owners replace the control board first, but oE is almost always a drainage or water-level sensing issue. Start by cleaning the filter and checking the drain hose for kinks or blockage before buying any electrical part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

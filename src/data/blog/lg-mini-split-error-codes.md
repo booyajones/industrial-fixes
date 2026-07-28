@@ -61,30 +61,3 @@ The inverter module detected a compressor fault. This can be a failing compresso
 
 ## When to Call a Pro
 CH67, CH25, CH32, CH34, and CH35 all require refrigeration technician-level expertise. Inverter compressor faults, refrigerant issues, and IPM failures are not user-serviceable items.
-
-## Related Articles
-
-- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
-- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
-- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
-- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
-- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)
-
-<!-- INTERNAL-LINK-AUTO -->
-**Related:** [LG washer error codes (complete guide)](/posts/lg-washer-error-codes/)
-
-<!-- INTERNAL-LINK-AUTO -->
-**Related:** [LG washer error code 31 (pressure / suspension fault)](/posts/lg-washer-error-code-31/)
-
-<!-- INTERNAL-LINK-AUTO -->
-**Related:** [LG refrigerator error codes (complete guide)](/posts/lg-refrigerator-error-codes/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Samsung vs LG French door refrigerators](/posts/samsung-vs-lg-french-door-refrigerators/)
-
-## See Also
-
-- [LG Mini Split CH10 Error Code — Causes & Fix](/posts/lg-mini-split-ch10-error-code/)
-- [LG Refrigerator Error Codes — Complete Fix Guide](/posts/lg-refrigerator-error-codes/)
-- [LG Washer Error Code 31 — Pressure Sensor / Suspension Fault Fix](/posts/lg-washer-error-code-31/)
-- [LG Mini Split CH01 Error Code — Causes & Fix](/posts/lg-mini-split-ch01-error-code/)

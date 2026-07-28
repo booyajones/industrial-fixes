@@ -13,13 +13,10 @@ money_part: "Yaskawa GA800 digital operator (keypad)"
 most_likely_cause: "Loose or improperly seated keypad connection"
 ---
 
-## Yaskawa GA800 E10 Fault Code — What It Means
-
+## What this code means
 The E10 fault code on a Yaskawa GA800 drive signals a communication error between the drive and its digital operator (keypad). This is not a motor overload or process fault. It means the drive has lost reliable contact with the keypad or the link between them has failed. The exact wording displayed may vary slightly by firmware version, but the root issue is always operator-link communication.
 
 Yaskawa's troubleshooting flow is straightforward: identify and remove the cause, then reset the fault. The drive will not run normally until the communication link is restored and the code is cleared.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ Yaskawa's troubleshooting flow is straightforward: identify and remove the cause
 ## When to Call a Pro
 
 Call a qualified technician or Yaskawa authorized service provider if you do not have a spare keypad or cable to swap for diagnosis, if the fault persists after verifying good connections and swapping the operator, or if you are uncomfortable working inside the drive enclosure. Control board replacement requires proper handling of static-sensitive components and matching the correct board revision to your drive model and serial number. Always have your drive's model, spec number, serial number, and fault code ready when opening a service case.
-
-## See Also
-
-- [Yaskawa GA800 E21 Fault - Causes & Fix](/posts/yaskawa-ga800-e21-fault-code/)
-- [Yaskawa VFD Fault ER — Causes & Fix](/posts/yaskawa-vfd-fault-er/)
-- [Yaskawa VFD Fault PF — Causes & Fix](/posts/yaskawa-vfd-fault-pf/)
-- [Yaskawa V1000 Complete Fault Code Guide — All Faults and Fixes](/posts/yaskawa-v1000-complete-guide/)

@@ -13,11 +13,8 @@ money_part: "Navien circulation pump assembly"
 most_likely_cause: "Pump motor failure"
 ---
 
-## Navien Tankless E013 Error Code — What It Means
-
+## What this code means
 E013 on a Navien tankless water heater indicates abnormal pump operation. The circulation pump is not running correctly, either because of a wiring fault, a failed pump motor, or a condition blocking normal operation. A secondary source lists code 013 as a thermistor problem, but Navien-specific troubleshooting identifies E013 as a pump fault. Confirm your exact model and displayed error before ordering parts, because generic code lists sometimes conflict with manufacturer diagnostics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,10 +43,3 @@ E013 on a Navien tankless water heater indicates abnormal pump operation. The ci
 ## When to Call a Pro
 
 Call a licensed plumber or Navien service technician if you are not comfortable working with 120 V wiring, if the error persists after replacing the pump and checking all connections, or if your unit displays a different set of fault codes alongside E013. A technician has the factory diagnostic software to read live pump feedback, verify control-board output, and rule out intermittent faults that a visual inspection will miss. Professional service is also the safest choice if your unit is still under warranty, since DIY pump replacement can void coverage on some Navien models.
-
-## See Also
-
-- [Navien E003 Error - Ignition Failure Causes & Fix](/posts/navien-tankless-water-heater-e003-error-code/)
-- [Navien E016 Error Code - Causes & Fix](/posts/navien-tankless-e016-error-code/)
-- [Navien E302 Error Code — Causes & Fix](/posts/navien-error-code-e302/)
-- [Navien Flame Rod Replacement - Signs & How-To](/posts/navien-water-heater-flame-rod-flame-sensor-tankless-replacement/)

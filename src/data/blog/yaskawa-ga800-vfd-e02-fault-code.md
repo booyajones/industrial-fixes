@@ -13,13 +13,10 @@ money_part: "GA800 Control Board"
 most_likely_cause: "Undocumented fault code"
 ---
 
-## Yaskawa GA800 E02 Fault Code — What It Means
-
+## What this code means
 The E02 fault code is not identified in available Yaskawa GA800 manufacturer documentation. Yaskawa uses various alphanumeric fault and alarm codes, but the exact meaning of E02 for the GA800 series cannot be confirmed from official sources. Some Yaskawa drives use similar codes like Er-02 or oL2 for different faults, but these are not interchangeable across models. Before attempting repairs, consult your specific GA800 manual or the fault table on the drive's display to verify what E02 indicates for your particular model and firmware version.
 
 Yaskawa's standard troubleshooting procedure requires identifying and removing the underlying cause of any fault before clearing it. Once the root problem is corrected, use the keypad reset function to clear the code. If the fault persists or you cannot determine its meaning, record the exact code displayed, your drive's model number, specification code, serial number, and contact Yaskawa technical support for model-specific guidance.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ Yaskawa's standard troubleshooting procedure requires identifying and removing t
 ## When to Call a Pro
 
 Contact a qualified Yaskawa technician or distributor if you cannot find E02 in your GA800 manual, if the fault returns immediately after reset, or if you lack experience with VFD parameter programming. Because E02 is not documented in standard manufacturer materials, professional diagnosis is recommended to avoid incorrect repairs or unsafe operating conditions. Yaskawa technical support can provide model-specific fault definitions and guide troubleshooting based on your drive's exact configuration and application.
-
-## See Also
-
-- [Yaskawa J1000 Fault Codes — VFD Troubleshooting Guide](/posts/yaskawa-j1000-fault-codes/)
-- [Yaskawa GA800 E08 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e08-fault-code/)
-- [Yaskawa VFD Fault Codes — Complete Reference (V1000, A1000, GA700)](/posts/yaskawa-vfd-fault-codes/)
-- [Yaskawa GA800 E07 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e07-fault-code/)

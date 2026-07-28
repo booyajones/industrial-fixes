@@ -19,8 +19,6 @@ When your Maytag washer won't drain, the tub stays full of water at the end of t
 
 The washer may pause mid-cycle or refuse to spin because it cannot empty the tub. This is not always a failed part. Most often the problem is something blocking the drain path or an installation issue with the drain hose or standpipe.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Kinked or clogged drain hose** The drain hose is crushed, twisted, or blocked by lint and debris, preventing water from leaving the tub.

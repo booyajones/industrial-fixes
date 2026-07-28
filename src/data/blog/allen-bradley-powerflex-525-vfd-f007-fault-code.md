@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Allen-Bradley PowerFlex 525 F007 — What It Means
-
+## What this code means
 F007 on an Allen-Bradley PowerFlex 525 means Motor Overload. The drive's internal electronic overload protection has tripped because it detected excessive motor load or current for too long. Rockwell Automation defines this fault as an internal electronic overload trip that occurs when motor output current exceeds the level set by parameter P033 (Motor OL Current) for an extended period.
 
 This fault does not mean the drive itself has failed. Instead, it is protecting the motor from damage by shutting down when current demand is too high. The root cause is usually a mechanical problem in the driven equipment, an incorrect overload parameter setting, or excessive torque/boost settings that push current above the safe threshold.
@@ -24,8 +23,6 @@ This fault does not mean the drive itself has failed. Instead, it is protecting 
 ## Before You Replace Anything
 
 Technicians sometimes replace the VFD when F007 appears, but this fault is not a drive-failure code. Always inspect the mechanical load and verify parameter P033 matches the motor nameplate before considering drive replacement.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or controls technician if you are not trained to work with VFDs, if the mechanical load requires disassembly or process shutdown, or if the fault persists after you have verified correct parameter settings and cleared any mechanical binding. VFD troubleshooting involves high voltage and requires knowledge of motor control parameters. If the drive itself is suspected of failure after all external causes are ruled out, a technician with Rockwell diagnostic tools should evaluate the unit before replacement.
 
 **Rough cost:** A pro service call runs about $200–800 depending on whether the fix is a parameter adjustment, mechanical repair, or (rarely) drive replacement.
-
-## See Also
-
-- [Allen-Bradley PowerFlex Fault F063 — Causes & Fix](/posts/allen-bradley-powerflex-fault-f063/)
-- [Allen-Bradley PowerFlex 753/755 Control Sync Fault Fix](/posts/allen-bradley-powerflex-753-control-sync-fault/)
-- [Allen-Bradley PowerFlex 525 F013 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f013-fault-code/)
-- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)

@@ -107,7 +107,7 @@ Some water in the trap during shoulder seasons is normal — the trap is designe
 ## Related guides
 
 - [Goodman 3-Flash Error Code — Pressure Switch Open Fix](/posts/goodman-3-flash-error-code)
-- [Goodman 4-Flash Error Code — Limit Switch Open Fix](/posts/goodman-4-flash-error-code)
+- Goodman 4-Flash Error Code — Limit Switch Open Fix
 - [Trane 2-Blink Error Code — External Lockout Fix](/posts/trane-2-blink-error-code)
 
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
@@ -136,10 +136,3 @@ Some water in the trap during shoulder seasons is normal — the trap is designe
 
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Best boiler test kit](/posts/best-boiler-test-kit/)
-
-## See Also
-
-- [York Affinity Error Codes - What It Means and How to Fix It](/posts/york-affinity-error-codes/)
-- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
-- [York 7 Flashes Error Code — Ignition Lockout Fix](/posts/york-7-flashes-error-code/)
-- [York Furnace Error Code E2: Pressure Switch Fault Causes and Fix](/posts/york-furnace-e2-pressure-switch/)

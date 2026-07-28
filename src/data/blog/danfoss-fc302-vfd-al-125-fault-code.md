@@ -19,8 +19,7 @@ free_checks:
   - "Inspect all motor cable connections and drive output terminals for loose or corroded connections"
 ---
 
-## Danfoss FC302 AL-125 — What It Means
-
+## What this code means
 The code AL-125 does not exist in the Danfoss FC302 alarm catalog. The FC302 series uses alarm codes AL 1 through AL 80 only. You are most likely misreading one of three common faults: AL 13 (Overcurrent), which means output current exceeded the peak limit due to a motor short or failed inverter component; AL 25 (Input Phase Missing or Unbalanced), which signals a problem with the three-phase input power; or AL 12 (Overvoltage), which indicates DC bus voltage spikes. AL 13 is by far the most frequent fault on these drives.
 
 If you see AL 13, the drive detected more current flowing to the motor than its IGBTs can safely handle, typically around 200% of rated current. This happens when there is a short circuit in the motor winding or cable, a failed IGBT module inside the drive, or a mechanical jam that forces the motor to draw excessive current. Verifying the exact alarm number on the display is the first step before any repair.
@@ -28,8 +27,6 @@ If you see AL 13, the drive detected more current flowing to the motor than its 
 ## Before You Replace Anything
 
 Technicians often replace the inverter board without first disconnecting the motor and running the drive unloaded. A simple no-load test isolates whether the fault is in the drive itself or in the motor and cable, saving the cost of unnecessary inverter replacement.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a VFD technician or industrial electrician if the drive continues to fault with the motor disconnected, which indicates an internal inverter or IGBT failure. Also call a pro if you lack the tools or training to safely work with three-phase power, perform insulation resistance testing on motor windings, or interpret drive parameters. VFD repair involves high DC bus voltages (over 500 VDC on the internal capacitors even after AC power is off) and requires proper discharge procedures and test equipment. If the motor or cable is at fault, a motor shop or electrician should verify winding integrity and replace damaged components to avoid destroying a repaired or new drive.
 
 **Rough cost:** A pro service call runs about $300-800.
-
-## See Also
-
-- [Danfoss FC302 AL-19 - Causes & Fix](/posts/danfoss-fc302-vfd-al-19-fault-code/)
-- [Danfoss VLT Alarm 14 - Earth Fault: What It Means and How to Fix It](/posts/danfoss-vlt-alarm-14/)
-- [Danfoss FC302 VFD Alarm 38 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-38-fault-code/)
-- [Danfoss FC302 AL-105 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-105-fault-code/)

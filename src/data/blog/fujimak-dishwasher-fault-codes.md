@@ -26,8 +26,6 @@ Fujimak is a Japanese commercial foodservice equipment brand whose dishwashers a
 | E6 | Booster heater fault | Medium |
 | E8 | Door interlock fault | Medium |
 
-[Jump to Fix](#fix)
-
 ## Most Common Fujimak Fixes {#fix}
 
 **E1 (water level/fill):** Verify water supply valve is fully open. Check supply pressure (minimum 0.5 bar). Clean the water inlet valve filter. If the unit has a rinse water softener, verify it's regenerating correctly.
@@ -46,4 +44,3 @@ Fujimak is a Japanese commercial foodservice equipment brand whose dishwashers a
 ## When to Call a Pro
 
 Fujimak authorized service in the US handles component replacement and commissioning. Contact Fujimak USA or an authorized service agent for persistent faults.
-

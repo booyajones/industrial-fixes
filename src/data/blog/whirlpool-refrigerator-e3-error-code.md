@@ -16,8 +16,7 @@ most_likely_cause: "Model-specific fault logic"
 part_price: "$50-200"
 ---
 
-## Whirlpool Refrigerator E3 Error Code — What It Means
-
+## What this code means
 Whirlpool does not publish a single universal E3 error code for all refrigerator models. The manufacturer documents F8 E3 in official refrigerator help pages, which requires a power reset and service if the fault returns. If your display shows only E3, the exact meaning depends on your specific model number and control platform. Do not assume the cause based on codes from other Whirlpool appliances (washers, dryers, or laundry centers) because the same letters mean different things on different product lines.
 
 The safest approach is to locate your full model number on the label inside the fresh-food compartment or on the side wall, consult the service sheet or wiring diagram for that platform, and follow the manufacturer diagnostic steps for your control system. Without model-specific documentation, you cannot reliably determine whether E3 points to a sensor, a door switch, a control board, or another component.
@@ -25,8 +24,6 @@ The safest approach is to locate your full model number on the label inside the 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board without verifying which component the model-specific code actually targets. Always perform a power reset and check door switches and harness connections before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

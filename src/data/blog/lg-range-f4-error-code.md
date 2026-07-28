@@ -17,8 +17,7 @@ money_part: "LG oven thermistor / temperature sensor"
 part_price: "$25-60"
 ---
 
-## LG Range F4 Error Code — What It Means
-
+## What this code means
 The F4 error code on an LG electric range indicates a lower oven thermistor or oven sensor fault. LG's official troubleshooting documentation describes this as a shorted oven sensor in the temperature-sensing circuit. The control board has detected that the resistance reading from the lower oven sensor is outside the expected range, typically because the sensor has failed short or the wiring has been damaged.
 
 This code applies only to LG ranges. LG uses the same F4 code differently on microwave ovens (where it means a humidity sensor error), so always confirm you are looking at range-specific guidance. The fault points to the lower oven cavity on dual-oven models or the main oven sensor on single-oven ranges.
@@ -26,8 +25,6 @@ This code applies only to LG ranges. LG uses the same F4 code differently on mic
 ## Before You Replace Anything
 
 Many people replace the main control board when they see F4, but a shorted or damaged oven sensor is usually the real culprit. Always test the sensor resistance and inspect the wiring harness before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working inside a 240-volt electric range, if you cannot safely access the sensor connector behind the oven cavity, or if the sensor and wiring both test normal but the F4 code will not clear. A technician can verify the control board input circuit with specialized tools and has access to model-specific resistance tables and service data that are not published in owner manuals. If your range is still under warranty, contact LG or an authorized service center before attempting any repair yourself.
 
 **Rough cost:** DIY runs about $25-$60 in parts, 30-60 min. A pro service call runs about $150-$300.
-
-## See Also
-
-- [LG Dishwasher FE Error Code - Causes & Fix](/posts/lg-dishwasher-fe-error-code/)
-- [LG Mini Split CH66 Error Code - Causes & Fix](/posts/lg-mini-split-ch66-error-code/)
-- [LG Microwave Making Loud Noise - Causes & Fix](/posts/lg-microwave-making-loud-noise/)
-- [LG Mini Split Making Noise - Causes & Fix](/posts/lg-mini-split-making-noise/)

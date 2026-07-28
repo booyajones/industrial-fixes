@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "95%"
 ---
 
-## Yaskawa A1000 Er-17 Fault — What It Means
-
+## What this code means
 The Er-17 code (sometimes called Reverse Prohibited Error) appears when the Yaskawa A1000 drive attempts Inertia Auto-Tuning but cannot rotate the motor in reverse. Inertia Auto-Tuning requires the drive to briefly accelerate and decelerate the motor in both forward and reverse directions to calculate load inertia. When a parameter setting or external signal prevents reverse rotation, the tuning process fails and triggers Er-17.
 
 This is a logic and configuration fault, not a hardware failure. The drive is functioning correctly but is blocked by application settings. Note that this fault code does not exist as AL-17 in Yaskawa documentation. AL codes typically refer to alarms, whereas Er-17 is a specific error related to tuning restrictions.
@@ -29,8 +28,6 @@ This is a logic and configuration fault, not a hardware failure. The drive is fu
 ## Before You Replace Anything
 
 Some users confuse Er-17 with encoder feedback faults and replace option cards or cables. Er-17 is exclusively a rotation direction logic error. Check parameter b1-04 and external inhibit signals before replacing any hardware.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified controls technician or application engineer if you cannot access the parameter menu due to password locks, if the mechanical system requires a detailed inertia calculation that exceeds your engineering knowledge, or if the drive is integrated into a complex PLC network where changing parameters or signals could affect other machinery. Also call a pro if you suspect the drive firmware or option card has a deeper configuration issue that parameter b1-04 alone does not resolve. For straightforward parameter changes and signal checks, most facility maintenance staff can handle Er-17 without outside help.
 
 **Rough cost:** DIY runs about $0, 5-15 min. A pro service call runs about $100-200 for parameter programming visit.
-
-## See Also
-
-- [Yaskawa GA800 E26 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e26-fault-code/)
-- [Yaskawa GA800 E37 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e37-fault-code/)
-- [Yaskawa GA800 LF Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f047-fault-code/)
-- [Yaskawa GA800 E20 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e20-fault-code/)

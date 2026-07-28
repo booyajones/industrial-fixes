@@ -17,8 +17,7 @@ money_part: "Samsung washer inlet valve assembly"
 part_price: "$30-80"
 ---
 
-## Samsung Washer OE Error Code — What It Means
-
+## What this code means
 The OE code on a Samsung washer signals an overflow or overfill condition. The control has detected that the tub is filling abnormally, either because the washer cannot sense the correct water level or because incoming water cannot be stopped in time. This code is tied to fill control and pressure sensing, meaning the machine believes too much water is present or the level-reading circuit has failed.
 
 Some sources also describe OE as an abnormality in the drainage process, since water that is not removed properly can confuse the fill and drain logic. The root issue is usually a mechanical or electrical fault in the fill valve, the water-level sensor, or the drain path that prevents the control from managing tub water correctly.
@@ -26,8 +25,6 @@ Some sources also describe OE as an abnormality in the drainage process, since w
 ## Before You Replace Anything
 
 Many people replace the main control board when OE appears. First unplug the washer and watch whether water continues to enter the tub, which points directly to a stuck inlet valve rather than the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

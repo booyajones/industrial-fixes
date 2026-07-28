@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 UV Fault — What It Means
-
+## What this code means
 The UV fault on a Yaskawa A1000 drive is an undervoltage alarm. It appears when the drive detects that the DC bus voltage has fallen below the threshold set in parameter L2-05, or that the control or power supply voltage is too low at the moment a Run command is given. The drive inhibits operation to protect its power section and control circuits from damage caused by insufficient voltage. This alarm will only trigger if parameter L2-01 is not set to 0 and the DC bus voltage is below the L2-05 threshold.
 
 In practical terms, the drive is telling you it does not have enough incoming or internal voltage to operate safely. The fault can appear at startup, during a run attempt, or if the precharge circuit opens unexpectedly. It is a protective response, not a random error, and points to a real problem in the power supply, wiring, or internal components.
@@ -24,8 +23,6 @@ In practical terms, the drive is telling you it does not have enough incoming or
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive or main control board before checking incoming line voltage and terminal torque. Always verify proper three-phase voltage at the drive input terminals and retorque all power connections to the manufacturer's specified torque before swapping any boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified drive technician or industrial electrician any time you lack the tools to safely measure three-phase power, if you are not comfortable working inside a VFD cabinet energized at line voltage, or if the UV fault persists after you have confirmed good incoming power and retorqued all terminals. Internal repairs involving the control board, power board, or capacitor bank require specialized knowledge, proper discharge procedures, and manufacturer service training to perform safely. A technician will use the drive's own diagnostic parameters, measure DC bus voltage directly, check the precharge contactor operation, and determine whether board-level repair or full drive replacement is the most economical path forward.
 
 **Rough cost:** A pro service call runs about $200-800.
-
-## See Also
-
-- [Yaskawa GA800 A.107 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-107-fault-code/)
-- [Yaskawa GA800 E10 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e10-fault-code/)
-- [Yaskawa GA800 E20 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e20-fault-code/)
-- [Yaskawa GA800 E19 Fault - Causes & Fix](/posts/yaskawa-ga800-e19-fault-code/)

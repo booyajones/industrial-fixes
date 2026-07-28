@@ -13,11 +13,8 @@ money_part: "Condensate pump"
 most_likely_cause: "Clogged condensate drain line"
 ---
 
-## Fujitsu Mini-Split E7 Error Code — What It Means
-
+## What this code means
 The Fujitsu E7 error code indicates a **drain pump fault** — the indoor unit detected that the condensate drain pump is not operating correctly or the condensate level has risen to the float switch trigger point. Fujitsu mini-splits with built-in or externally mounted condensate pumps use a float switch in the condensate pan; when the water level rises too high (pump failure or blocked drain), the float trips, E7 is stored, and the system shuts down to prevent water overflow damage. On units without a pump, E7 can indicate the condensate pan float switch has tripped due to a blocked gravity drain.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,11 +42,3 @@ The Fujitsu E7 error code indicates a **drain pump fault** — the indoor unit d
 ## When to Call a Pro
 
 If the drain line is clear and the pump runs but E7 persists, the indoor PCB's float switch input may have failed. PCB replacement requires indoor unit disassembly near the refrigerant lines — call a certified technician to avoid damaging the coil.
-
-## Related Articles
-
-- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
-- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
-- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
-- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
-- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)

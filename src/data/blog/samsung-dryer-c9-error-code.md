@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Lint filter / lint screen"
 ---
 
-## Samsung Dryer C9 Error Code — What It Means
-
+## What this code means
 The C9 or C90 error code on a Samsung dryer indicates that the unit has detected a severely restricted exhaust path. Samsung defines this code as approximately 90% of the vent system being clogged, which prevents proper airflow and can lead to overheating. The dryer groups C9, C90, CLg, Cg, C8, and C80 together as airflow restriction faults. This is primarily a venting problem, not a control board failure.
 
 When the dryer's internal sensors detect that hot, moist air cannot escape through the exhaust duct, the machine stops the cycle and displays C9 to protect itself from overheating. Samsung's troubleshooting guidance also notes that in rare cases the code can result from abnormal thermistor resistance, which causes the control board to misread temperature and incorrectly flag a blockage.
@@ -25,8 +24,6 @@ When the dryer's internal sensors detect that hot, moist air cannot escape throu
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board or thermistor when the real problem is simply lint buildup in the duct. Disconnect the exhaust hose and run a short Time Dry cycle to check airflow at the drum outlet before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

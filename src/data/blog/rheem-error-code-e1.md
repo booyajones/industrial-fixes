@@ -13,11 +13,8 @@ money_part: "EcoNet control board (indoor)"
 most_likely_cause: "Loose communication wiring"
 ---
 
-## Rheem Air Handler E1 Error Code — What It Means
-
+## What this code means
 On Rheem EcoNet-enabled air handlers and heat pumps, E1 indicates a communication error between the indoor and outdoor units. These systems use a two-wire communication bus (similar to Carrier Infinity and Trane ComfortLink) to share system data, fault codes, and control signals. When the bus drops — whether from a wiring problem, a board failure, or a power issue — the indoor unit cannot receive critical data from the outdoor unit and logs E1. The system typically shuts down heating or cooling to prevent running in an unmonitored state.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,25 +44,3 @@ On Rheem EcoNet-enabled air handlers and heat pumps, E1 indicates a communicatio
 ## When to Call a Pro
 
 If the system ran correctly for years before developing E1, start with the wiring check — that's a DIY-friendly repair. If boards are involved, a Rheem technician can use EcoNet diagnostic mode to identify exactly which component is offline before purchasing parts.
-
-## See Also
-
-- [Rheem Furnace 5 Flashes Error Code — Flame Sensor Fault Fix](/posts/rheem-furnace-5-flashes-flame-sensor/)
-- [Rheem Furnace 8 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-8-flashes/)
-- [Rheem Furnace 7 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-7-flashes/)
-- [Rheem Furnace Error Code 57 — Causes & Fix](/posts/rheem-furnace-error-code-57/)
-
-## Related Articles
-
-- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
-- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)
-- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
-- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)
-- [Rheem Furnace 5 Flashes Error Code — Flame Sensor Fault Fix](/posts/rheem-furnace-5-flashes-flame-sensor/)
-
-<!-- INTERNAL-LINK-AUTO -->
-**Related:** [Rheem EcoNet A101 error code fix](/posts/rheem-econet-a101-error-code/)
-
-<!-- INTERNAL-LINK-AUTO -->
-**Related:** [Rheem Performance Platinum PDN tankless error codes](/posts/rheem-performance-platinum-pdn-error-codes/)
-

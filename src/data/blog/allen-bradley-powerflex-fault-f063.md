@@ -13,11 +13,8 @@ money_part: "Motor bearings"
 most_likely_cause: "Mechanical overload on the driven equipment"
 ---
 
-## Allen-Bradley PowerFlex Fault F063 — What It Means
-
+## What this code means
 Fault F063 (SW OverCurrent) on an Allen-Bradley PowerFlex drive indicates that the software-based overcurrent protection has tripped. Unlike the hardware overcurrent faults (F002, F004) which respond to instantaneous current peaks, F063 is a software-calculated overcurrent based on the drive's current limit monitoring over time. The drive detected that motor current exceeded the programmed current limit threshold and shut down to protect the motor and drive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,18 +43,3 @@ Fault F063 (SW OverCurrent) on an Allen-Bradley PowerFlex drive indicates that t
 ## When to Call a Pro
 
 If F063 persists after parameter correction and mechanical inspection, an Allen-Bradley-authorized technician should perform a full load study and drive sizing review to determine if the application is within the drive's rated capacity.
-
-## Related Articles
-
-- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
-- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
-- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
-- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)
-- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)
-
-## See Also
-
-- [Allen-Bradley PowerFlex F122 Fault — I/O Board Failure Fix](/posts/allen-bradley-powerflex-f122-fault/)
-- [Allen-Bradley PowerFlex Fault F025 — Causes & Fix](/posts/allen-bradley-powerflex-fault-f025/)
-- [Allen Bradley PowerFlex 753 F12 Fault — Causes & Fix](/posts/allen-bradley-powerflex-753-f12-fault/)
-- [Allen Bradley PowerFlex 700 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-700-fault-7/)

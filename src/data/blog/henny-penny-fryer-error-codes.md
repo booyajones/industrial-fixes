@@ -25,8 +25,6 @@ Henny Penny manufactures pressure fryers, open fryers, and combi cooking equipme
 | E-5 | Pressure switch fault (pressure fryers) | High |
 | E-7 | Heater element fault (electric models) | High |
 
-[Jump to Fix](#fix)
-
 ## Most Common Henny Penny Faults and Fixes {#fix}
 
 ### E-1 — Thermocouple Fault

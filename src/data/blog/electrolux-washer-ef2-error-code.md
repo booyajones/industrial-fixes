@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Electrolux Washer EF2 Error Code — What It Means
-
+## What this code means
 EF2 is an excess foam or suds warning on Electrolux washers. The control board detects too much detergent foam, usually while the machine is trying to drain. Electrolux support lists EF2 as a warning code most often caused by a blocked drain pipe or a blocked and dirty filter. Independent repair guidance describes EF2 as excess detergent dosing or excessive foam during draining.
 
 The code appears when suds cannot clear normally from the drum. This happens either because you have used too much detergent (creating more foam than the drain system can handle) or because a restriction in the drain path (clogged filter, kinked hose) prevents suds and water from leaving the tub. The machine stops the cycle to protect the pump and prevent overflow.
@@ -25,8 +24,6 @@ The code appears when suds cannot clear normally from the drum. This happens eit
 ## Before You Replace Anything
 
 Homeowners sometimes replace the drain pump when the real problem is simply a clogged drain filter or too much detergent. Before ordering any parts, clean the filter at the lower front access panel and verify you are using HE detergent in the correct amount.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

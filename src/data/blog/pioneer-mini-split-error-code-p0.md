@@ -13,11 +13,8 @@ money_part: "Condenser fan run capacitor"
 most_likely_cause: "Dirty or blocked condenser coil"
 ---
 
-## Pioneer Mini Split P0 Error Code — What It Means
-
+## What this code means
 P0 on a Pioneer mini split indicates a high pressure protection fault. The high-pressure switch in the outdoor unit opened because the refrigerant discharge pressure exceeded the safe operating limit. On R-410A systems, this cutout typically occurs around 600–650 PSI. The compressor shuts off immediately and the P0 code is displayed on the indoor unit. The system will not restart until pressure normalizes and the fault is cleared by a power cycle.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,11 +44,3 @@ P0 on a Pioneer mini split indicates a high pressure protection fault. The high-
 ## When to Call a Pro
 
 Persistent P0 faults after coil cleaning and fan motor verification require manifold gauge diagnosis to check system pressures and refrigerant charge. This work requires EPA Section 608 certification.
-
-## Related Articles
-
-- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
-- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
-- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
-- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
-- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)

@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "LG dishwasher drain filter assembly"
 ---
 
-## LG Dishwasher OE Error Code — What It Means
-
+## What this code means
 An LG dishwasher OE error means the unit has detected a drainage failure. Specifically, the dishwasher has not fully drained within the expected time and is sensing that water is still remaining in the tub. LG describes this as a drain issue where the machine could not complete its draining cycle properly.
 
 The code itself does not indicate a component failure. Instead, it alerts you to a restriction or blockage preventing water from leaving the tub. This can be anywhere in the drain path, from debris inside the dishwasher to problems in the external plumbing or installation.
@@ -25,8 +24,6 @@ The code itself does not indicate a component failure. Instead, it alerts you to
 ## Before You Replace Anything
 
 Homeowners often replace the drain pump assuming a component fault, when most OE errors are solved by simply cleaning the filters and inspecting the drain hose for kinks or clogs. Always clear the drain path before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 If you have cleaned the filters, inspected and cleared the drain hose, checked the air gap, confirmed the disposal knockout is removed, and the OE error still returns after a drain test, the problem is likely internal. A technician will need to inspect the drain pump impeller for obstructions, test the pump motor and wiring, and check the discharge tube assembly and internal plumbing for blockages or component failure. Attempting to disassemble the pump or sump without proper tools and diagrams risks water leaks and further damage.
 
 **Rough cost:** DIY runs about $0-20 in cleaning supplies, 20-40 min. A pro service call runs about $100-200 service call if pump or internal plumbing must be replaced.
-
-## See Also
-
-- [LG Refrigerator Compressor Start Relay & Overload Replacement](/posts/lg-refrigerator-compressor-start-relay-ptc-overload-replacement/)
-- [LG Dishwasher Not Cleaning Dishes - Causes & Fix](/posts/lg-dishwasher-not-cleaning-dishes/)
-- [LG Washer Tub Bearing Replacement - Signs & How-To](/posts/lg-washer-tub-drum-bearing-replacement/)
-- [LG Refrigerator Thermistor Replacement - Signs & How-To](/posts/lg-refrigerator-thermistor-temperature-sensor-replacement/)

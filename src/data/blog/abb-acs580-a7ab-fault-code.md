@@ -13,13 +13,10 @@ money_part: "ABB C-type extension I/O module"
 most_likely_cause: "Wrong module type selected in parameters"
 ---
 
-## ABB ACS580 A7AB Fault — What It Means
-
+## What this code means
 The A7AB fault on an ABB ACS580 drive indicates an Extension I/O configuration failure. This means the drive has detected a mismatch between the C-type extension module physically installed on the drive and the module type configured in the drive's parameters. It can also appear if communication between the drive and the module has been disturbed by electrical noise or a loose connection.
 
 In practical terms, the drive is reporting that what it expects to see (based on parameter 15.01 Extension module type) does not match what it actually detects (shown in parameter 15.02 Detected extension module). This can happen if no module is installed but the drive is configured for one, if the wrong module type is selected in parameters, or if the module connection is unreliable.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ In practical terms, the drive is reporting that what it expects to see (based on
 ## When to Call a Pro
 
 Call a qualified technician or ABB service if the fault continues after you have verified that parameter 15.01 matches the installed module (or is set to none if no module is fitted) and you have checked all physical connections. If the fault appeared after a control board change, parameter restore, or module swap and does not clear with a power cycle, the issue may involve a faulty extension module or a problem with the drive's internal module interface that requires diagnostic tools and replacement parts from ABB.
-
-## See Also
-
-- [ABB ACS580 Fault 2330 Earth Leakage, Causes & Fix](/posts/abb-acs580-fault-2330/)
-- [ABB VFD Fault 5010 — Causes & Fix](/posts/abb-vfd-fault-5010/)
-- [ABB ACS580 A2A1 - Causes & Fix](/posts/abb-acs580-a2a1-fault-code/)
-- [ABB ACS580 A5A0 Fault - Causes & Fix](/posts/abb-acs580-a5a0-fault-code/)

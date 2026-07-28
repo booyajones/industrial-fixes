@@ -17,8 +17,7 @@ money_part: "Machine control board (main control unit)"
 part_price: "$100-200"
 ---
 
-## Maytag Washer F11 Error Code — What It Means
-
+## What this code means
 The F11 code on older Maytag front-load washers signals a serial communication error between the central control unit (CCU) and the motor control unit (MCU). The two control boards are not exchanging signals properly, which prevents the washer from running a cycle.
 
 This is not a drain fault or pressure switch problem. The fault lies in the electronics and wiring between the main board (usually mounted behind the control panel) and the motor controller (typically in the base of the machine). The washer detects the missing or garbled handshake and halts with F11.
@@ -26,8 +25,6 @@ This is not a drain fault or pressure switch problem. The fault lies in the elec
 ## Before You Replace Anything
 
 Many people replace the CCU (main control board) first, only to find the fault returns. Field reports show the MCU in the base is the more frequent failure. Always inspect and reseat the wiring harness connectors before buying any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

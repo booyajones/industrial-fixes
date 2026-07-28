@@ -19,8 +19,6 @@ When your Frigidaire dishwasher won't drain, water stays standing in the bottom 
 
 This is almost always caused by a physical blockage or installation issue in the drain path, not a failed control board. Water has to travel from the sump through the filter, into the drain pump, out through the drain hose, and into your household plumbing (either a sink trap or garbage disposal inlet). Any obstruction, kink, or incorrect routing along that path will prevent drainage.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged glass trap or filter** Food debris, broken glass, or paper can block the filter assembly at the bottom of the tub and restrict water flow into the drain pump.

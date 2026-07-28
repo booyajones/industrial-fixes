@@ -13,13 +13,10 @@ money_part: "Danfoss FC 302 heat sink fan"
 most_likely_cause: "Defective heat sink fan"
 ---
 
-## Danfoss FC302 VFD Alarm 46 — What It Means
-
+## What this code means
 Alarm 46 on the Danfoss VLT FC 302 means the internal power supply voltages on the power card are out of acceptable range. The drive monitors 24 V, 5 V, and ±18 V rails (or only 24 V and 5 V if powered by the optional 24 V DC supply). This alarm indicates the switch-mode power supply on the power card is not producing one or more of these rails within tolerance.
 
 This is typically caused by an internal supply generation problem or a heat-related issue affecting the supply section, not by motor overload or output faults. Danfoss specifically calls out defective heat sink fans as a common contributor to this alarm.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -52,10 +49,3 @@ This is typically caused by an internal supply generation problem or a heat-rela
 ## When to Call a Pro
 
 Call a qualified industrial electrician or VFD service technician if you are not trained in high-voltage equipment, if the alarm persists after cleaning filters and verifying the fan, or if you need to replace the power card or control card. Work inside the drive enclosure exposes you to lethal voltage even when input power is off, due to charged DC bus capacitors. Professional service includes proper discharge procedures, firmware backup, parameter transfer, and verification of internal supply rails with precision test equipment.
-
-## See Also
-
-- [Danfoss FC302 Alarm 14 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-14-fault-code/)
-- [Danfoss FC302 VFD Alarm 29 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-29-fault-code/)
-- [Danfoss FC302 ALARM 37 - Causes & Fix](/posts/danfoss-fc302-alarm-37-fault-code/)
-- [Danfoss FC302 Alarm 58 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-58-fault-code/)

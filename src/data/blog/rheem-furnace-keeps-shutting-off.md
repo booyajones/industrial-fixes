@@ -20,8 +20,6 @@ When a Rheem furnace keeps shutting off, the control board has detected a fault 
 
 Common codes include Code 10 (ignition lockout after multiple failed ignition attempts), Code 12 (low flame sense or weak flame signal), Code 13 (flame lost during the heating cycle), Code 22 (limit switch open from overheating), Code 45 (low pressure open from intake restriction or pressure-switch problem), Code 57 (high pressure open from exhaust restriction), and Code 93 (control board failure). The furnace may shut off within seconds of ignition, after a few minutes of running, or cycle on and off repeatedly.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty flame sensor rod** A contaminated flame sensor cannot conduct the flame rectification current back to the control, causing the board to shut the gas valve off shortly after ignition or trigger a low-flame-sense or flame-lost code.
@@ -62,10 +60,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you are uncomfortable working with gas appliances, if the furnace continues to shut off after cleaning the flame sensor and changing the filter, if the fault code points to a gas valve or control board fault, or if combustion analysis or pressure-switch testing with a manometer is required. A technician can verify manifold gas pressure (Rheem specifies the inducer should produce at least 0.1 inch water column beyond the pressure-switch closing setpoint), check flame rectification current, test safety-switch circuits with a multimeter, and diagnose internal board faults or failed components that require part replacement. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rheem Heat Pump A001 Error Code - Causes & Fix](/posts/rheem-heat-pump-a001-error-code/)
-- [Rheem Furnace Igniter Not Working - Causes & Fix](/posts/rheem-furnace-igniter-not-working/)
-- [Rheem A008 Error Code - Causes & Fix](/posts/rheem-heat-pump-a008-error-code/)
-- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)

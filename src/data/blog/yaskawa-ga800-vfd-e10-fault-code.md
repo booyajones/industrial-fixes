@@ -13,13 +13,10 @@ money_part: "Motor overload relay"
 most_likely_cause: "Open external interlock or safety contact"
 ---
 
-## Yaskawa GA800 E10 Fault — What It Means
-
+## What this code means
 E10 on a Yaskawa GA800 VFD indicates an external fault input has been triggered. This is not an internal drive hardware failure. Instead, the drive has detected an open contact or active signal from an external protective device or interlock circuit, causing it to shut down. The fault comes from outside the VFD itself, such as a motor overload relay, pressure switch, thermal protector, safety relay, or other customer-supplied protective equipment in the control circuit.
 
 The GA800 is responding to a condition in your external wiring or a device telling it to stop, not reporting a problem with its own power section or control boards. Diagnosis starts with the machine schematic and the external input chain, not the drive internals. You need to identify which external device or wiring issue opened the fault input circuit and restore normal operating conditions before clearing the fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ The GA800 is responding to a condition in your external wiring or a device telli
 ## When to Call a Pro
 
 Call a qualified electrician or controls technician if you are not trained to read machine schematics, trace control circuits, or work safely with industrial control voltage. If you have verified all external wiring, contacts, and protective devices are in good condition and the E10 fault returns immediately after clearing, the issue may be in the drive's input board or require factory-level diagnostics. Contact Yaskawa technical support or an authorized service center for board replacement and advanced troubleshooting. Do not attempt to bypass safety interlocks or jumper the external fault input to clear the code, as this can create a hazardous operating condition.
-
-## See Also
-
-- [Yaskawa A1000 Complete Guide - Fault Codes, Parameters, and Commissioning](/posts/yaskawa-a1000-complete-guide/)
-- [Yaskawa GA800 E20 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e20-fault-code/)
-- [Yaskawa GA800 E49 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e49-fault-code/)
-- [Yaskawa GA800 E24 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e24-fault-code/)

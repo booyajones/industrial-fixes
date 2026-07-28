@@ -17,8 +17,7 @@ money_part: "Electronic control board"
 part_price: "$25-80"
 ---
 
-## Maytag Dryer F4E1 Error Code — What It Means
-
+## What this code means
 The F4E1 code on a Maytag dryer indicates a problem with the heater or heater relays, according to Maytag's official product support documentation. The control board has detected an issue in the heating circuit that prevents the dryer from producing heat properly. This code applies to both electric and gas models, though the specific components involved differ. On electric dryers, the fault typically involves the heating element or its relay. On gas models, the ignition system or gas valve coils may be involved. The code does not mean the dryer is completely inoperable, but it will not heat until the fault is repaired.
 
 Maytag recommends starting with a power reset before assuming a part has failed. In many cases the code is triggered by a temporary electrical glitch or voltage sag rather than a permanent component failure. If the code returns after a reset, the problem lies in the heater circuit wiring, the heater relay on the control board, or the heating element itself.
@@ -26,8 +25,6 @@ Maytag recommends starting with a power reset before assuming a part has failed.
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first. Before ordering a board, use a multimeter to test the heating element for continuity and inspect the heater relay terminals for visible burns or looseness.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

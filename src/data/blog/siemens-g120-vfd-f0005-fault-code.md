@@ -13,13 +13,10 @@ money_part: "Motor with correct horsepower and frame size"
 most_likely_cause: "Mechanical overload on the driven machine"
 ---
 
-## Siemens G120 F0005 Fault — What It Means
-
+## What this code means
 F0005 on the Siemens G120 VFD indicates that the drive's thermal model has detected motor overtemperature through I²t monitoring. This means the accumulated thermal stress in the motor has exceeded the safe threshold, usually from sustained high current draw. The drive calculates heat buildup based on the motor parameters you programmed and the actual load current it measures. When the calculated temperature crosses the limit, the drive trips to protect the motor from damage.
 
 This fault is not a supply voltage problem or a momentary overload spike. It reflects a true thermal accumulation over time, so the root cause is almost always either a real mechanical overload on the driven equipment or incorrect motor nameplate data entered in the drive parameters. Correcting the underlying issue and verifying motor parameters will resolve the fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ This fault is not a supply voltage problem or a momentary overload spike. It ref
 ## When to Call a Pro
 
 Call a qualified drives technician or electrical contractor if the fault returns immediately after clearing even with correct motor parameters and no obvious mechanical load problem, if you measure significantly unbalanced motor currents across the three phases, or if you suspect internal drive hardware failure. Also call a professional if you are not trained to perform insulation resistance testing on motor windings, work inside energized VFD cabinets, or safely lock-out and inspect industrial machinery. Persistent F0005 faults despite correct data and normal mechanical conditions may indicate a failing motor, damaged output stage in the drive, or a sensor fault that requires factory-trained service.
-
-## See Also
-
-- [Siemens Micromaster F0101 - Causes & Fix](/posts/siemens-micromaster-vfd-f0101-fault-code/)
-- [Siemens G120 F01205 - Causes & Fix](/posts/siemens-g120-f01205-fault-code/)
-- [Siemens SIPROTEC Protective Relay Faults: Complete Guide](/posts/siemens-siprotec-relay-faults/)
-- [Siemens G120 F03505 - Causes & Fix](/posts/siemens-g120-vfd-f03505-fault-code/)

@@ -13,11 +13,8 @@ money_part: "Ice thickness probe assembly"
 most_likely_cause: "Mineral scale on the thickness probe"
 ---
 
-## Manitowoc Ice Machine Error Code 8 — What It Means
-
+## What this code means
 Error code 8 on a Manitowoc ice machine (Indigo series, NEO series) indicates an ice thickness sensor fault. The ice thickness probe (a metal probe suspended in front of the evaporator) is used to detect when ice has grown to the correct thickness. When the ice bridge contacts the probe, the control board initiates the harvest cycle. Error code 8 means the probe circuit has an open circuit, short circuit, or the probe is so coated with scale that it cannot make proper electrical contact with the ice.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Error code 8 on a Manitowoc ice machine (Indigo series, NEO series) indicates an
 ## When to Call a Pro
 
 If code 8 persists after probe cleaning and wiring inspection, the control board's probe input circuit may have failed. A Manitowoc-certified technician should diagnose the board to avoid unnecessary part replacements.
-
-## Related Articles
-
-- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
-- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
-- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
-- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
-- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)
-
-## See Also
-
-- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)
-- [Manitowoc Ice Machine E01 Error Code — Causes & Fix](/posts/manitowoc-ice-machine-error-code-e01/)
-- [Manitowoc vs Scotsman Ice Machines — A Commercial Tech's Honest Comparison (2026)](/posts/manitowoc-vs-scotsman-ice-machines/)
-- [Manitowoc ID-0322 Error Codes — Fix Guide](/posts/manitowoc-id-0322-error-codes/)

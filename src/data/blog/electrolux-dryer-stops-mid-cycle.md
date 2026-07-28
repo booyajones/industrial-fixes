@@ -19,8 +19,6 @@ When an Electrolux dryer stops mid cycle, it is not a single fault code but a sy
 
 The dryer may also stop without logging a clear code if the motor overheats from an overloaded drum, excessive mechanical drag, or restricted airflow. Loose or damaged wiring between the control board, inverter board, motor, or door switch can also interrupt operation mid cycle. On models with electronic motor control, the inverter board or main control board can fail and cut power to the drive motor even when all other systems check out.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Faulty motor relay, inverter board, or main control board** Electronic motor control components fail and prevent the motor from running, typically logging code E51 or E52.
@@ -56,8 +54,8 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Electrolux Dryer Ad error code](/posts/electrolux-dryer-ad-error-code/)
 - [Electrolux Dryer E 09 error code](/posts/electrolux-dryer-e-09-error-code/)
-- [Electrolux Dryer E 10 error code](/posts/electrolux-dryer-e-10-error-code/)
-- [Electrolux Dryer E 11 error code](/posts/electrolux-dryer-e-11-error-code/)
+- Electrolux Dryer E 10 error code
+- Electrolux Dryer E 11 error code
 - [Electrolux Dryer E 31 error code](/posts/electrolux-dryer-e-31-error-code/)
 - [Electrolux Dryer E 42 error code](/posts/electrolux-dryer-e-42-error-code/)
 - [Electrolux Dryer E 51 error code](/posts/electrolux-dryer-e-51-error-code/)

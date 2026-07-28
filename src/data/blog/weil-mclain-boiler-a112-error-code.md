@@ -21,8 +21,7 @@ part_price: "$20-50"
 no_buy_pct: "60%"
 ---
 
-## Weil-McLain A112 Error — What It Means
-
+## What this code means
 There is no official Weil-McLain error code listed as A112 in manufacturer documentation. This appears to be a misinterpretation of a model number (such as CGa-112 or Ultra-112) mixed with a diagnostic code, or confusion with the E01/E02 ignition fault series. The symptoms described in user forums for "A112" (boiler shuts down after lighting) align with standard E01 (Ignition Failure/Lockout) or E02 (Flame Loss) fault codes.
 
 These faults mean the burner lit successfully but could not maintain a stable flame for the required duration (typically 3 to 5 seconds). The control system detected no flame signal from the flame sensor, shut off the gas valve, and entered lockout mode to prevent unsafe operation.
@@ -30,8 +29,6 @@ These faults mean the burner lit successfully but could not maintain a stable fl
 ## Before You Replace Anything
 
 Many homeowners replace the gas valve or ignitor when the actual problem is a dirty flame sensor that costs under $5 to clean with steel wool.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a licensed technician if you are uncomfortable working with gas appliances, if the flame sensor cleaning and vent inspection do not resolve the lockout, or if you lack a manometer to measure gas pressure. A professional should handle any gas valve replacement, control board diagnostics, or combustion analysis. Intermittent flame loss can also indicate heat exchanger cracks or blocked flue passages that require a thorough inspection and combustion testing to diagnose safely.
 
 **Rough cost:** A pro service call runs about $150-300.
-
-## See Also
-
-- [Weil-McLain Boiler A149 Error - Causes & Fix](/posts/weil-mclain-boiler-a149-error-code/)
-- [Weil-McLain A74 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a74-error-code/)
-- [Weil-McLain Boiler A152 Error - Causes & Fix](/posts/weil-mclain-boiler-a152-error-code/)
-- [Weil-McLain A121 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a121-error-code/)

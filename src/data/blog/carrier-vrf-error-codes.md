@@ -101,21 +101,6 @@ Electronic expansion valve faults are common after refrigerant work:
 
 > **Note:** Some Carrier VRF product lines are manufactured by Midea. Technical service manuals are available via Carrier's commercial partner portal. Always verify with the model number before ordering parts.
 
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier Infinity Zoning System Error Codes — Complete Guide](/posts/carrier-infinity-zoning-error/)
-- [Carrier 43 Error Code — Rollout Switch Open Fix](/posts/carrier-43-error-code/)
-- [Carrier Heat Pump E14 Error Code - Causes & Fix](/posts/carrier-heat-pump-e14-error-code/)
-- [Carrier 48XLC Packaged Unit Error Codes — Fault Code Diagnostic Guide](/posts/carrier-48xlc-error-codes/)
-
 ## More Carrier Vrf fault codes
 
 Compiled from manufacturer service manuals and authorized documentation.
@@ -154,7 +139,6 @@ Compiled from manufacturer service manuals and authorized documentation.
 | FE | Indoor unit: no address set for the indoor unit | The IDU was powered up without a communication address assigned. | Assign the IDU address from the wired/wireless controller (or let auto-addressing complete), then confirm the count matches the ODU setting. |
 | FP | Wired controller: the online number of indoor units overflows (too many IDUs in group control) | More indoor units are grouped to a single wired controller than it supports (group control is typically limited to 16 IDUs). | Reduce the number of indoor units grouped to the wired controller to within its allowed limit. |
 
-
 ## How to troubleshoot Carrier Vrf
 
 Carrier VRF systems (the 38VM outdoor / 40VM indoor family, built on the Toshiba-Carrier / Midea platform) report faults with a letter-plus-number scheme that tells you which device is complaining before you ever open a panel. Read the prefix first: codes shown at the outdoor unit begin with 0 (0E-, 0H-, 0F-, 0P-, 0L-), codes at a heat-recovery MDC begin with S (SE-, SP-) or read as "no"/"CS", and codes at an indoor unit or wired controller are the short E-series (E1-E9), plus FE, DD, EB, ED and EE. The same underlying problem often surfaces as different codes on different displays, so note every device that is alarming, not just the first one you see.
@@ -164,7 +148,6 @@ Start with the cheap, common causes before condemning a board. The single most f
 Pressure and temperature protections (0H5/0P2 low pressure, 0P1 high pressure, 0H6/0P4 discharge temp) point at the refrigeration circuit, not the controls: confirm all service valves are fully open, check charge, subcooling and superheat, clean the condenser coil, verify all outdoor fans spin, and confirm indoor airflow and EEV operation. Inverter and compressor faults (0PL, 0L0, 0L7, 0P3) involve high-voltage IPM/inverter boards and the compressor itself - verify the U/V/W leads are correct and tight, check for overheating and heatsink contact, and measure compressor winding balance. On these systems the fastest diagnosis path is Carrier's Service Technical Tool (STT), which connects to the P/Q bus and displays live pressures, temperatures, EEV positions and the full error history.
 
 Safety and scope: this is commercial three-phase equipment with high-voltage DC bus capacitors that stay charged after power-off. Disconnect power and wait at least ten minutes, then confirm the DC bus voltage has bled down before touching any board. Refrigerant work requires EPA certification and manufacturer training, and the diagnostic and commissioning tools are proprietary. Homeowners and general handypeople should treat any VRF code beyond a blocked condensate drain (EE) or a mis-set address as a call to a Carrier-authorized VRF service technician - a wrong charge or a mis-wired inverter board on these systems is an expensive mistake.
-
 
 ## Frequently asked questions
 
@@ -187,4 +170,3 @@ You can safely handle the simple ones - clear a blocked condensate drain for an 
 ### What tool do technicians use to diagnose Carrier VRF systems?
 
 Carrier's Service Technical Tool (STT). It connects to the system's P/Q communication bus and displays live data - pressures, temperatures, EEV positions, compressor speeds - plus a complete error-code history to help pinpoint whether a fault is wiring, a sensor, the refrigeration circuit, or a board.
-

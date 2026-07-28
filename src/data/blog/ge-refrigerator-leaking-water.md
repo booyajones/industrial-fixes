@@ -19,8 +19,6 @@ A GE refrigerator leaking water is not a fault code. It is a symptom that usuall
 
 GE service literature directs technicians to inspect the water filter, inlet valve, drain system, water line, and gaskets depending on where the water appears. The defrost drain is the most frequent cause because food debris, ice, or frozen condensate can block the tube and force water to overflow into the cabinet or onto the floor.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged defrost drain** Food debris, ice, or frozen condensate blocks the drain tube and forces defrost water to overflow into the cabinet or onto the floor.

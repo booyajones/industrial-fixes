@@ -13,11 +13,8 @@ money_part: "Thermistor / temperature sensor"
 most_likely_cause: "Failed or drifting thermistor sensor"
 ---
 
-## A.O. Smith E2 Error Code — What It Means
-
+## What this code means
 E2 (sometimes displayed as E02) is an over-temperature safety fault on A.O. Smith electric tankless water heaters. The unit has detected water temperature at or above the safe operating limit and has shut down to protect the heater and your plumbing. The control board monitors water temperature through thermistor sensors, and this code fires when the sensor circuit reports dangerously hot water or a sensor reading that appears to indicate overheating.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

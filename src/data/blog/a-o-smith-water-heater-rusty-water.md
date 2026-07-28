@@ -19,8 +19,6 @@ Rusty or brown water coming from your A.O. Smith water heater is a water-quality
 
 If the discoloration appears only in hot water, the heater or its outlet connections are the likely source. If both hot and cold water are rusty, the problem is upstream in your building supply or old galvanized piping. Once the tank itself begins to corrode internally, replacement is almost always the correct fix because tank corrosion is not repairable.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Corroded tank or failing glass lining** If rust is coming from inside the tank, the protective lining has failed and the steel shell is corroding, which requires heater replacement.
@@ -53,7 +51,7 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [A O Smith Water Heater E2 error code](/posts/a-o-smith-water-heater-e2-error-code/)
 - [A O Smith Water Heater E4 error code](/posts/a-o-smith-water-heater-e4-error-code/)
-- [A O Smith Water Heater E6 error code](/posts/a-o-smith-water-heater-e6-error-code/)
+- A O Smith Water Heater E6 error code
 
 ## When to Call a Pro
 

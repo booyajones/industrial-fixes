@@ -19,8 +19,6 @@ A GE dryer that won't start is a symptom, not a single fault code. The machine i
 
 On some newer GE electronic dryers (2019 and later), a failed start condition after a power interruption can require a personality reset. Electric models use selection 1 and gas models use selection 2 during that reset procedure. Beyond that, the most common culprits are the door switch, start switch, thermal fuse, or drive belt system.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Tripped or blown breaker** No power to the dryer is the most frequent cause, often from a tripped breaker, unplugged cord, or missing line voltage.

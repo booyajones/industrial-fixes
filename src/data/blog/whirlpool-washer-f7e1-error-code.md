@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Whirlpool washer shift actuator"
 ---
 
-## Whirlpool F7E1 Error Code — What It Means
-
+## What this code means
 F7E1 on a Whirlpool washer indicates a motor speed sensing or tachometer signal fault. The control board is not receiving the correct speed feedback it expects during the cycle. On Whirlpool top-load and front-load platforms, the code is described as 'tachometer missing or wrong signal' or 'basket speed sensor fault.' The machine cannot verify that the drum or basket is reaching the correct speed for the selected wash or spin cycle.
 
 This code points to a problem in the feedback loop between the motor, shift actuator (which often contains the tachometer), and the main control. It does not always mean a motor failure. Common triggers include installation errors like shipping bolts left in place, overloading, failed shift actuator or tachometer feedback, a disconnected or bad motor capacitor on models that use one, or damaged wiring between the control and drive components.
@@ -25,8 +24,6 @@ This code points to a problem in the feedback loop between the motor, shift actu
 ## Before You Replace Anything
 
 Homeowners often replace the motor or main control board first. Before ordering expensive parts, inspect for shipping bolts, verify wiring connections and the shift actuator, and run service diagnostics to isolate the actual failed component.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

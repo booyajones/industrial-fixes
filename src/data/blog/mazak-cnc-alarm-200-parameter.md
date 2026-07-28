@@ -13,11 +13,8 @@ money_part: "CMOS backup battery"
 most_likely_cause: "Parameter corruption after power interruption"
 ---
 
-## Mazak CNC Alarm 200 Parameter Fault — What It Means
-
+## What this code means
 Mazak Alarm 200 indicates a parameter fault — the MAZATROL control detected an invalid or out-of-range value in the machine parameters (NC parameters). Parameters define axis travel limits, servo gain, feedrate limits, and many other critical machine behaviors. Alarm 200 fires when a parameter value is outside the acceptable range for that parameter, preventing safe machine operation.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -42,18 +39,3 @@ Mazak Alarm 200 indicates a parameter fault — the MAZATROL control detected an
 ## When to Call a Pro
 
 If parameters are corrupted and no backup exists, Mazak service can retrieve the original parameter file for your machine serial number. Contact Mazak Technical Support before attempting parameter reconstruction.
-
-## Related Articles
-
-- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
-- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
-- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-
-## See Also
-
-- [Mazak Alarm 800 — Tool Magazine Fault](/posts/mazak-alarm-800-atc/)
-- [Mazak CNC Alarm Codes — Common Faults and Fixes](/posts/mazak-alarm-codes/)
-- [Mazak Alarm 600 ATC — Automatic Tool Changer Fault Causes & Fix](/posts/mazak-alarm-600-atc/)
-- [Mazak Alarm 100 Spindle Alarm — Causes & Fix](/posts/mazak-alarm-100-spindle/)

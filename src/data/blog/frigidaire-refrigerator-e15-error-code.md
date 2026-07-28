@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "User interface board (control panel PCB)"
 ---
 
-## Frigidaire E15 Error Code — What It Means
-
+## What this code means
 The E15 error code on Frigidaire ranges signals a communication fault between the user interface or display board and the main control or power board. The control system cannot reliably exchange data between these two critical components. On induction models, the fault may also involve the generator housing board or induction assembly not communicating properly with the display and power sections.
 
 This is not a sensor or temperature problem. It is a hardware or wiring fault in the control architecture. A simple power reset at the breaker can clear a transient glitch, but if E15 returns repeatedly, you have a real interconnect or board failure that requires physical inspection and repair.
@@ -25,31 +24,13 @@ This is not a sensor or temperature problem. It is a hardware or wiring fault in
 
 Many people replace the user interface board first, assuming the display is at fault. Check all wiring harnesses, connectors, and ribbon cables for looseness or damage before ordering any board. A loose connector is a 5-minute fix instead of a $150 part.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Loose or damaged wiring harness between boards (~40%)** The ribbon cable or wire harness connecting the user interface board to the main control board can become loose, corroded, or thermally damaged, breaking the communication path.
-- **Failed user interface board (~25%)** The display or touch-control board itself can fail internally, losing the ability to send or receive signals to the main controller.
-- **Failed main control or power board (~20%)** The main control board or power supply board can lose its communication circuit or voltage rails, preventing it from talking to the user interface.
-- **Faulty generator housing board on induction models (~10%)** On induction cooktops and ranges, the generator housing or induction assembly board may fail in a way that blocks communication with the display and power sections.
-- **Transient software or power glitch (~5%)** A momentary corruption or lockup in the control system can trigger E15 without any physical fault, and a full power cycle at the breaker will clear it permanently.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Does the E15 code disappear and stay gone after you flip the breaker off for five minutes and back on?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The fault was transient. Monitor the range for a few days. If the code does not return, no further repair is needed.<br><strong>No:</strong> You have a persistent hardware or wiring fault. Proceed with inspection of harnesses and boards.</div>
-</details>
-
-<details class="dtree"><summary>Can you see or feel any loose, burnt, or corroded connectors on the wiring harness between the user interface and the main control board?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Reseat or replace the damaged harness. This is often the complete fix and costs far less than a board.<br><strong>No:</strong> The fault is likely internal to one of the control boards. Professional diagnosis with a multimeter and wiring diagram is needed to identify which board has failed.</div>
-</details>
-
-<details class="dtree"><summary>Is your range an induction model?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The generator housing board or induction assembly may be part of the communication chain. A technician will need to test all three boards and their interconnects.<br><strong>No:</strong> Focus diagnostic effort on the user interface board, main control board, and the harness between them.</div>
-</details>
+- **Loose or damaged wiring harness between boards** The ribbon cable or wire harness connecting the user interface board to the main control board can become loose, corroded, or thermally damaged, breaking the communication path.
+- **Failed user interface board** The display or touch-control board itself can fail internally, losing the ability to send or receive signals to the main controller.
+- **Failed main control or power board** The main control board or power supply board can lose its communication circuit or voltage rails, preventing it from talking to the user interface.
+- **Faulty generator housing board on induction models** On induction cooktops and ranges, the generator housing or induction assembly board may fail in a way that blocks communication with the display and power sections.
+- **Transient software or power glitch** A momentary corruption or lockup in the control system can trigger E15 without any physical fault, and a full power cycle at the breaker will clear it permanently.
 
 ## Step-by-Step Fix {#fix}
 
@@ -73,5 +54,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a professional appliance technician if the E15 code returns after a power reset and you are not comfortable working inside a range with live or recently live high-voltage circuits. Diagnosing a communication fault requires a multimeter, a wiring diagram, and the ability to trace low-voltage signals between boards while the unit is partially powered. If you lack these tools or skills, a technician can pinpoint the failed board in one visit and avoid the costly trial-and-error of replacing parts that are not broken. Also call a pro if your range is an induction model, because the generator housing board adds a third communication node and specialized testing is required.
-
-**Rough cost:** A pro service call runs about $200-400.

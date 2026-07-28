@@ -17,8 +17,6 @@ money_part: "G120C internal cooling fan"
 
 The Siemens SINAMICS G120C is a compact variable frequency drive in the G120 product family. The G120C integrates the Control Unit and Power Module into a single compact housing, making it ideal for space-constrained panel installations in pumps, fans, and simple conveyor applications. It uses the same SINAMICS fault code structure as the G120 modular series — faults are prefixed with "F" and alarms with "A." Codes are displayed on the Basic Operator Panel (BOP-2) or the Intelligent Operator Panel (IOP).
 
-[Jump to Fix](#fix)
-
 ## Siemens G120C Common Fault Code Reference
 
 | Fault Code | Description |
@@ -68,18 +66,3 @@ The Siemens SINAMICS G120C is a compact variable frequency drive in the G120 pro
 ## When to Call a Pro
 
 Siemens G120C drives can be remotely diagnosed via PROFINET using Siemens STARTER or TIA Portal. If the drive is integrated into a PROFINET network, a Siemens-trained automation technician can view the full fault buffer, drive telemetry, and parameter settings without being physically at the drive. For F00030 (hardware fault), contact Siemens technical support or a Siemens Service Partner.
-
-## Related Articles
-
-- [Siemens Sinumerik 828D Alarm Codes Guide — Complete Diagnostic Reference](/posts/siemens-828d-alarm-codes/)
-- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
-- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)
-- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
-- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)
-
-## See Also
-
-- [Siemens VFD F1 Fault (SINAMICS V20 Overcurrent): Causes, Codes, Fix](/posts/siemens-sinamics-v20-f1-overcurrent/)
-- [Siemens SINUMERIK Alarm 25000 — Drive Fault Fix](/posts/siemens-sinumerik-alarm-25000-drive-fault/)
-- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
-- [Siemens Sinumerik Alarm 300204 — Causes & Fix](/posts/siemens-sinumerik-alarm-300204/)

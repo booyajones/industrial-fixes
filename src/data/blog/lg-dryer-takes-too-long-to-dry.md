@@ -19,8 +19,6 @@ When your LG dryer takes too long to dry, you are seeing a symptom of extended r
 
 The manufacturer points to dirty lint filters, contaminated humidity sensors, mixed fabric loads, excess moisture at the start of the cycle, and exhaust duct restrictions as the most common reasons drying time stretches out. Less often, internal issues like blower wheel obstruction or heater faults can also slow the process.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged lint filter or dust filter** A packed or partially blocked filter chokes airflow and is the single most common reason for extended dry time.
@@ -71,10 +69,3 @@ Seeing a code on the display? These match this problem:
 ## When to Call a Pro
 
 Call a professional if you have cleaned the filter, sensor, and entire exhaust path but drying time remains excessive. Internal component diagnosis for blower wheel obstruction, heater or igniter faults, thermistor accuracy, and drum seal leaks requires disassembly and test equipment. For gas dryers, any burner, igniter, or gas-valve work should be handled by a qualified technician. Also consider a pro vent-cleaning service if your home duct system is long, routed through walls, or has not been serviced in years.
-
-## See Also
-
-- [LG Refrigerator Water Dispenser Not Working - Causes & Fix](/posts/lg-refrigerator-water-dispenser-not-working/)
-- [LG Dryer Idler Pulley Replacement - Signs & How-To](/posts/lg-dryer-idler-pulley-replacement/)
-- [LG Dryer Squeaking - Causes & Fix](/posts/lg-dryer-squeaking/)
-- [LG Washer PE Error Code - Causes & Fix](/posts/lg-washer-pe-error-code/)

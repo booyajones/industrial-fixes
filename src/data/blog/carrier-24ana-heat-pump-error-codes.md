@@ -22,8 +22,6 @@ The 24ANA is a **non-communicating** unit — it does not use the Carrier Infini
 
 To read the codes: open the electrical access panel on the lower-right side of the outdoor unit (2 screws). The status LED is on the main control board. Blink codes repeat in a pattern — count the flashes, note the pause, then count again. If you have an Infinity or Evolution thermostat connected, error codes display alphanumerically on the thermostat and are also covered in the Infinity System Error Codes guide.
 
-[Jump to Fix](#step-by-step-fix)
-
 ### 24ANA LED Blink Code Reference
 
 | Blinks | Fault Description | Response |
@@ -49,7 +47,7 @@ If the 24ANA is wired to a Carrier Infinity thermostat (non-SAB wired connection
 | E5 | High pressure protection |
 | E6 | Low pressure protection |
 
-See [Carrier Heat Pump E1 Error Code](/posts/carrier-heat-pump-e1-error-code/) and [Carrier Heat Pump E4 Error Code](/posts/carrier-heat-pump-e4-error-code/) for full diagnosis of those codes.
+See Carrier Heat Pump E1 Error Code and Carrier Heat Pump E4 Error Code for full diagnosis of those codes.
 
 ## Common Causes by Code
 
@@ -111,20 +109,3 @@ This is normal protective behavior, not a fault. After compressor shutdown, the 
 - Reversing valve stuck in one mode — you'll know this is the issue if the heat pump cools when heating is commanded, or vice versa. Valve replacement requires brazing.
 
 > **Homeowner quick test:** If you suspect a reversing valve fault — set the thermostat to HEAT. Go outside and put your hand in front of the outdoor fan. In heating mode, the outdoor unit should blow **cool air** out the top (it's extracting heat from outside air). If it blows warm air in heating mode, the reversing valve is stuck in cooling position and needs attention.
-
-## See Also
-
-- [Carrier Heat Pump E1 Error Code — Diagnosis & Fix](/posts/carrier-heat-pump-e1-error-code/)
-- [Carrier Heat Pump E4 Error Code — Outdoor Sensor Fault](/posts/carrier-heat-pump-e4-error-code/)
-- [Carrier Heat Pump E5 Error Code — Diagnosis & Fix](/posts/carrier-heat-pump-e5-error-code/)
-- [Carrier Heat Pump E6 Error Code — Fix Guide](/posts/carrier-heat-pump-e6-error-code/)
-- [Carrier Infinity System Error Codes — Communicating System Guide](/posts/carrier-infinity-system-error-codes/)
-- [Heat Pump Error Code Guide — All Brands](/posts/heat-pump-error-code-guide/)
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

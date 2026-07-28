@@ -21,8 +21,7 @@ free_checks:
 no_buy_pct: "75%"
 ---
 
-## GE Washer C5 Error Code — What It Means
-
+## What this code means
 The C5 error code on GE washing machines is not universal across all models. For the GE Profile UltraFast Combo Washer/Dryer, C5 specifically indicates a restriction in the drain area, and the manufacturer recommends checking and cleaning the pump filter as the first action. Because GE uses model-specific error codes, the exact meaning of C5 can vary by platform. If you see C5 on a different GE washer model, consult your owner's manual or the wiring diagram inside the cabinet to confirm the fault definition for your machine.
 
 On the combo washer/dryer units where C5 is documented, the code typically appears when the machine cannot drain properly due to a blockage or restriction in the pump, filter, or drain path. The control board expects water to exit within a certain time window, and when flow is restricted the cycle stops and displays the code. The fix is almost always mechanical cleaning rather than an electrical part failure.
@@ -30,8 +29,6 @@ On the combo washer/dryer units where C5 is documented, the code typically appea
 ## Before You Replace Anything
 
 Homeowners often replace the drain pump when the real problem is a clogged filter or debris lodged in the pump housing. Pull and clean the filter first, then inspect the pump inlet for coins, bobby pins, or lint before buying a new pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

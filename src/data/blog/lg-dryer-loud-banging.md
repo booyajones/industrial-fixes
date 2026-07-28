@@ -19,8 +19,6 @@ A loud banging sound in an LG dryer is not an error code. It is a symptom that p
 
 The noise is commonly caused by an unbalanced or overloaded load, foreign objects left in pockets, or mechanical wear in components that support and turn the drum. The most frequent culprits are drum rollers, the idler pulley, the drive belt, and sometimes loose baffles or debris in the blower housing.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Worn drum rollers** Drum rollers develop flat spots, rough bearings, or seized shafts over time and create loud thumping or banging as the drum rotates.
@@ -60,7 +58,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Lg Dryer D90 error code](/posts/lg-dryer-d90-error-code/)
 - [Lg Dryer D95 error code](/posts/lg-dryer-d95-error-code/)
 - [Lg Dryer De error code](/posts/lg-dryer-de-error-code/)
-- [Lg Dryer De1 error code](/posts/lg-dryer-de1-error-code/)
+- Lg Dryer De1 error code
 - [Lg Dryer E00 error code](/posts/lg-dryer-e00-error-code/)
 - [Lg Dryer E1 error code](/posts/lg-dryer-e1-error-code/)
 - [Lg Dryer E13 error code](/posts/lg-dryer-e13-error-code/)
@@ -70,10 +68,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a pro if you are not comfortable disassembling the cabinet and drum assembly, or if the banging persists after you have checked for load issues and foreign objects. Drum roller and idler pulley replacement requires removing the drum, which involves working with the belt routing and reassembly in the correct sequence. A technician has the tools and experience to diagnose the exact source of the noise, replace worn components as a set, and test the dryer to confirm smooth, quiet operation before returning it to service.
-
-## See Also
-
-- [LG Dryer Add Error Code - Causes & Fix](/posts/lg-dryer-add-error-code/)
-- [LG Microwave F4 Error - Causes & Fix](/posts/lg-microwave-f4-error-code/)
-- [LG Washer FE Error Code - Causes & Fix](/posts/lg-washer-fe-error-code/)
-- [LG Dishwasher Not Dispensing Detergent - Causes & Fix](/posts/lg-dishwasher-not-dispensing-detergent/)

@@ -13,13 +13,10 @@ money_part: "Daikin indoor unit PCB"
 most_likely_cause: "Two main remote controllers connected"
 ---
 
-## Daikin U5 Error Code — What It Means
-
+## What this code means
 The U5 fault code on a Daikin system indicates a communication failure between the indoor unit and the wired remote controller. This is not a refrigerant issue or a compressor problem. It means the indoor unit's control board and the remote controller are unable to communicate properly over the wiring that connects them.
 
 Daikin's official fault chart lists U5 as a malfunction of transmission between the indoor unit and the remote controller. The failure can originate on either end of the connection or in the wiring itself. In many cases, the error appears after a remote is connected or disconnected, and a simple power cycle will clear it.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ Daikin's official fault chart lists U5 as a malfunction of transmission between 
 ## When to Call a Pro
 
 Call a licensed HVAC technician if the power cycle and wiring inspection do not clear the U5, or if you are not comfortable swapping control boards and remotes to isolate the fault. Communication faults require methodical substitution testing, and incorrect wiring or board installation can damage expensive components. A technician has the diagnostic tools and replacement parts to quickly identify whether the indoor PCB, the remote PCB, or a wiring issue is responsible.
-
-## See Also
-
-- [Daikin E3 Error Code — Causes & Fix](/posts/daikin-e3-error-code/)
-- [Daikin U2 Error Code — Causes & Fix](/posts/daikin-u2-error-code/)
-- [Daikin VRV / VRF U4 Error Code — Communication Fault Fix](/posts/daikin-vrv-vrf-u4-error-code/)
-- [Daikin E5 Error Code - Causes & Fix](/posts/daikin-e5-error-code/)

@@ -17,8 +17,7 @@ free_checks:
   - "Inspect the condensate trap and drain hose for blockage or improper looping that creates a double trap."
 ---
 
-## Weil-McLain A100 Error Code — What It Means
-
+## What this code means
 A100 is not a verified standard Weil-McLain boiler fault code in manufacturer documentation. The most commonly documented code from Weil-McLain AquaBalance boilers is A01, which indicates no burner ignition or ignition failure leading to lockout after repeated attempts. The boiler tries to light, fails multiple times, and locks itself out for safety. If your display shows A100, verify the exact code against your specific model's manual or wiring diagram, because code meanings vary across different Weil-McLain control platforms and series.
 
 If you do have an A01 ignition lockout, the fault is typically related to the gas supply, ignition or detection electrode, gas valve, or condensate drainage. The control module records the fault and enters lockout mode. A simple reset may clear the code temporarily, but if the underlying problem remains, the lockout will return on the next call for heat.
@@ -26,8 +25,6 @@ If you do have an A01 ignition lockout, the fault is typically related to the ga
 ## Before You Replace Anything
 
 Many homeowners replace the gas valve or control module without first checking whether the gas line was purged on a new install or whether the condensate trap is blocked or double-trapped. Verify gas supply pressure and inspect the ignition electrode before ordering expensive components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a qualified HVAC or boiler technician for any work involving gas supply pressure measurement, gas valve replacement, electrode alignment or replacement, control module diagnostics, or heat exchanger cleaning. Gas appliances require precise combustion tuning and pressure verification to operate safely. If you have purged the gas line, confirmed the valve is open, and reset the control but the lockout returns immediately, a technician should measure gas pressure, inspect the electrode with a multimeter, and verify proper venting and condensate drainage. Do not attempt to bypass safety lockouts or modify gas piping without the proper training and tools.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Weil-McLain A27 Error - Causes & Fix](/posts/weil-mclain-boiler-a27-error-code/)
-- [Weil-McLain Boiler A25 Error - Causes & Fix](/posts/weil-mclain-boiler-a25-error-code/)
-- [Weil-McLain Boiler A20 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a20-error-code/)
-- [Weil-McLain A28 Error - Causes & Fix](/posts/weil-mclain-boiler-a28-error-code/)

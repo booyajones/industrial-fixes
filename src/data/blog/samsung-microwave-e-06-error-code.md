@@ -16,15 +16,12 @@ diy_or_pro: "pro"
 money_part: "Samsung microwave swing heater element"
 ---
 
-## Samsung Microwave E-06 Error — What It Means
-
+## What this code means
 Samsung defines the E-06 code as a Swing Heater Error. This means the microwave's swing-heater function has not been sensed or has failed during operation. The code identifies the affected subsystem but does not pinpoint the exact failed component. Samsung's own support documentation does not provide component-level diagnosis beyond that fault name, so field testing is required to locate the specific problem in the heater circuit.
 
 ## Before You Replace Anything
 
 Many users replace the main control board first. Instead, test the swing heater element for continuity and inspect all connectors and wiring for open circuits or damage before replacing any expensive board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

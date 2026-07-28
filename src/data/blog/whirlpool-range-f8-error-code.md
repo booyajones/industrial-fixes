@@ -17,8 +17,7 @@ money_part: "Whirlpool range meat probe"
 part_price: "$15-80"
 ---
 
-## Whirlpool Range F8 Error Code — What It Means
-
+## What this code means
 The F8 error code on a Whirlpool range appears when the control detects a problem with either the meat probe connection or the cooling fan system. On Whirlpool's consumer help pages, F8 specifically points to the meat probe circuit being open or the probe not properly connected to its receptacle. In technician service literature, the more detailed F8E0 variant identifies a cooling fan speed fault, meaning the blower motor is spinning slower than the control board expects or the Hall effect sensor is not reporting the correct fan speed.
 
 Because the generic F8 label encompasses both probe and fan issues on different Whirlpool range models, your exact symptom depends on what was happening when the fault appeared. If you were using the meat probe or the oven display mentions the probe, the cause is almost always a loose or damaged probe connection. If the error occurs during a normal bake or self-clean cycle without the probe in use, the cooling fan or its feedback sensor is the likely culprit.
@@ -26,8 +25,6 @@ Because the generic F8 label encompasses both probe and fan issues on different 
 ## Before You Replace Anything
 
 Many owners replace the electronic control board when F8 appears, but a simple visual check of the meat probe jack and a 1-minute power reset solves the majority of F8 faults at no cost.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

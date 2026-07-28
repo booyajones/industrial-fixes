@@ -17,8 +17,7 @@ free_checks:
   - "Inspect all sensor connectors and wiring harnesses for loose, corroded, or unplugged connections"
 ---
 
-## Weil-McLain A104 Error Code — What It Means
-
+## What this code means
 An A104 error code does not appear in available Weil-McLain boiler documentation or manufacturer service materials. Weil-McLain boilers use different fault-code schemes that vary by control platform and model. The exact meaning of any error code on your boiler depends on the specific control board installed and must be verified against your unit's manual and CP number. If you see A104 on a Rheem electric water heater, it means upper tank temperature sensor failure, but that definition does not transfer to Weil-McLain hydronic boilers.
 
 Before diagnosing further, locate your boiler's nameplate and CP number, then pull the fault history from the diagnostic or contractor menu if your control supports it. Weil-McLain controls store past faults and display them in service mode. Match the displayed code to your exact model's manual rather than assuming a generic meaning. Most boiler lockouts stem from sensor circuit faults, wiring damage, or system operating conditions like low pressure or circulation problems. Do not replace parts until you confirm the actual fault code and what it represents on your specific boiler.
@@ -26,8 +25,6 @@ Before diagnosing further, locate your boiler's nameplate and CP number, then pu
 ## Before You Replace Anything
 
 Homeowners sometimes replace sensors or control boards without first checking the fault history and wiring. Pull the diagnostic menu and inspect all sensor connectors and harnesses for loose pins, corrosion, or damage before ordering any part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you cannot find an A104 definition in your Weil-McLain manual, if the fault history shows codes you do not recognize, or if you are uncomfortable working with 120V control circuits and gas appliances. A technician can access the service menu, retrieve the real fault code, test sensor circuits with the correct resistance tables, and verify system operating conditions like pressure and circulation. Professional diagnosis is especially important if the boiler repeatedly locks out after you clear the fault, if you smell gas, or if the control board shows physical damage. Many boiler lockouts turn out to be simple wiring or sensor issues, but confirming the exact code and testing the correct circuit prevents expensive misdiagnosis and ensures safe operation.
 
 **Rough cost:** A pro service call runs about $200-450.
-
-## See Also
-
-- [Weil-McLain E04 Error Code — Causes & Fix](/posts/weil-mclain-e04-error-code/)
-- [Weil-McLain A28 Error - Causes & Fix](/posts/weil-mclain-boiler-a28-error-code/)
-- [Weil-McLain Boiler A33 Error - Causes & Fix](/posts/weil-mclain-boiler-a33-error-code/)
-- [Weil-McLain Boiler A108 Error - Causes & Fix](/posts/weil-mclain-boiler-a108-error-code/)

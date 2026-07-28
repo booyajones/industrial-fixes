@@ -111,10 +111,3 @@ A: Yes, but the generator output must be clean sine wave (not modified sine wave
 
 **Q: My Aurora shows E4 (low pressure) but only during cooling, not heating. Is that consistent with a refrigerant leak?**
 A: Refrigerant leaks will typically manifest during both heating and cooling, but the symptoms are more severe in cooling mode (where suction pressures are naturally lower). A leak that causes E4 in cooling but not obvious symptoms in heating suggests a small, slow leak. Have a technician check static refrigerant pressure and perform a leak search.
-
-## See Also
-
-- [Daikin H6 Error Code — Indoor Fan Motor Lock Fault Fix](/posts/daikin-h6-error-code/)
-- [Daikin UA Error Code — Mismatched Indoor/Outdoor Unit Fix](/posts/daikin-error-code-uA/)
-- [Daikin U4 Error Code — Causes & Fix](/posts/daikin-u4-error-code/)
-- [Daikin VRV E7 Error Code — Causes & Fix](/posts/daikin-vrv-e7-error-code/)

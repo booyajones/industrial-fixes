@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Main PCB / Main Control Board"
 ---
 
-## Samsung Microwave C-F0 Error — What It Means
-
+## What this code means
 The C-F0 code on a Samsung microwave indicates an internal communication failure. Samsung defines this code as no communication between the main PCB (printed circuit board) and the sub PCB. These two control boards must exchange signals for the microwave to operate correctly. When that data path is broken or interrupted, the appliance displays C-F0 and stops functioning.
 
 This is a communication error rather than a sensor or temperature fault. The root cause can be as simple as a temporary software glitch that clears with a power reset, or as serious as a severed wire or failed control board. Samsung recommends first attempting a hard reset. If the code returns after the reset, the problem is physical and will need inspection of the wiring harness and control boards.
@@ -25,8 +24,6 @@ This is a communication error rather than a sensor or temperature fault. The roo
 ## Before You Replace Anything
 
 Many owners replace the main control board immediately, but a severed or crimped wire in the harness near the door hinge or control panel is often the real culprit. Always inspect all connectors and wiring between boards before ordering a new PCB.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

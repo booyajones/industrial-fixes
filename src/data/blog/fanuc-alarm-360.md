@@ -13,11 +13,8 @@ money_part: "Fanuc APC battery A06B-6073-K001"
 most_likely_cause: "Battery at end of service life"
 ---
 
-## Fanuc Alarm 360 — What It Means
-
+## What this code means
 Alarm 360 on a Fanuc CNC system is an APC (Absolute Pulse Coder) alarm — specifically a battery voltage low warning for the absolute encoder battery. Fanuc absolute encoders retain their position data through power outages using a dedicated lithium battery (typically 3V AA or a purpose-built pack). Alarm 360 fires when the battery voltage drops to the warning threshold, indicating the battery must be replaced before the next machine power-off. If the machine is powered off with a dead APC battery, the absolute position data is lost and the machine must be re-referenced (rehomed) on the next startup — a potentially lengthy and costly interruption.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Alarm 360 on a Fanuc CNC system is an APC (Absolute Pulse Coder) alarm — speci
 ## When to Call a Pro
 
 If alarm 360 escalated to a full position data loss (the machine displays a different alarm code and cannot find home), a Fanuc-certified technician must perform the absolute encoder re-initialization procedure and re-establish the machine zero reference. This is not a DIY procedure on a production machine.
-
-## Related Articles
-
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
-- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
-- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
-
-## See Also
-
-- [Fanuc Alarm 460: Spindle Speed Error — Detailed Troubleshooting](/posts/fanuc-alarm-460-spindle/)
-- [Fanuc Alarm 506 — Servo Following Error Fix](/posts/fanuc-alarm-506/)
-- [Fanuc Alarm 437 — Servo Following Error 4th Axis Causes & Fix](/posts/fanuc-alarm-437/)
-- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)

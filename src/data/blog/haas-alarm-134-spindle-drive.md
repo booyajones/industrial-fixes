@@ -13,11 +13,8 @@ money_part: "Spindle vector drive"
 most_likely_cause: "Spindle overload from aggressive cutting"
 ---
 
-## Haas Alarm 134 Spindle Drive Fault — What It Means
-
+## What this code means
 Haas **Alarm 134** is a **Spindle Drive Fault** — the spindle vector drive has detected an internal fault condition and shut down spindle output. Alarm 134 is the general spindle drive fault within the 134–138 series of spindle alarms on Haas machining centers. The spindle drive's internal fault code (visible on the drive's LED display) provides the specific sub-fault. This alarm stops the program and prevents spindle operation until the root cause is addressed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Haas **Alarm 134** is a **Spindle Drive Fault** — the spindle vector drive has
 ## When to Call a Pro
 
 Spindle drive diagnosis and motor testing require oscilloscope measurement and familiarity with Haas vector drive sub-fault codes. Haas Factory Outlet (HFO) service technicians have the specific diagnostic software and tooling for accurate root cause identification.
-
-## Related Articles
-
-- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
-- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
-- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
-- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
-
-## See Also
-
-- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
-- [Haas Alarm 122 — ATC Chain Fault](/posts/haas-alarm-122/)
-- [Haas Alarm 108 — Causes & Fix](/posts/haas-alarm-108/)
-- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)

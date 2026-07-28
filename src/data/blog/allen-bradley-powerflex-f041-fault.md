@@ -148,18 +148,3 @@ On PowerFlex 40, you can set **P036** (Overload Amps) to a value much higher tha
 **Q: PowerFlex F041 trips faster in summer than winter. Why?**
 
 This is a real effect. The drive's thermal model assumes a certain ambient temperature for motor cooling. In summer, higher ambient temperatures reduce the motor's ability to dissipate heat — the motor can't carry as much current before overheating. If F041 trips in summer but not winter with identical loads, the motor may be undersized for the application, or the installation environment needs better ventilation.
-
-## Related Articles
-
-- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
-- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
-- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
-- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)
-- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)
-
-## See Also
-
-- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)
-- [Allen-Bradley PowerFlex F012 Fault — HW Overcurrent Fix](/posts/allen-bradley-powerflex-f012-fault/)
-- [Allen-Bradley PowerFlex Fault F063 — Causes & Fix](/posts/allen-bradley-powerflex-fault-f063/)
-- [Allen-Bradley PowerFlex 753/755 Control Sync Fault Fix](/posts/allen-bradley-powerflex-753-control-sync-fault/)

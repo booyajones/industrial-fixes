@@ -13,11 +13,8 @@ money_part: "Spindle encoder cable"
 most_likely_cause: "Spindle drive runaway"
 ---
 
-## Haas Alarm 116 — What It Means
-
+## What this code means
 Haas Alarm 116 indicates a spindle over speed fault — the spindle exceeded the maximum RPM limit programmed in the machine parameters or the commanded speed exceeded what the drive can safely deliver. Haas controls monitor spindle encoder feedback; if actual RPM exceeds the threshold, the control trips immediately to protect the spindle motor, bearings, and tooling.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -43,18 +40,3 @@ Haas Alarm 116 indicates a spindle over speed fault — the spindle exceeded the
 ## When to Call a Pro
 
 Spindle overspeed events can damage bearings and toolholders. After any Alarm 116 event, inspect the spindle for damage before returning to production. Haas service can perform a spindle diagnostic check.
-
-## Related Articles
-
-- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
-- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
-- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
-- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
-
-## See Also
-
-- [Haas Alarm 111 — Drive Fault](/posts/haas-alarm-111/)
-- [Haas Alarm 119 — Spindle Not At Speed Causes & Fix](/posts/haas-alarm-119/)
-- [Haas Alarm 108 — Causes & Fix](/posts/haas-alarm-108/)
-- [Haas EC-400 Horizontal Machining Center Alarm Codes](/posts/haas-ec-400-alarm-codes/)

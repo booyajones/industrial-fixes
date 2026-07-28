@@ -20,8 +20,6 @@ When a GE gas oven igniter is not working, the bake or broil burner will not lig
 
 GE defines this as a condition where the igniter fails to energize or fails to open the gas valve even when glowing. The igniter must pull around 3.2 to 3.25 amps for the gas valve to open. A weak igniter will glow but stay below that threshold, so the valve never opens and the burner never lights. This symptom is not an error code. It is a functional failure in the gas ignition system.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Weak or failed igniter** The igniter glows but does not draw enough current to open the gas valve, or it has failed completely and shows no continuity.
@@ -51,18 +49,18 @@ GE defines this as a condition where the igniter fails to energize or fails to o
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Ge Oven F0 error code](/posts/ge-oven-f0-error-code/)
-- [Ge Oven F1 error code](/posts/ge-oven-f1-error-code/)
+- Ge Oven F0 error code
+- Ge Oven F1 error code
 - [Ge Oven F2 error code](/posts/ge-oven-f2-error-code/)
-- [Ge Oven F20 error code](/posts/ge-oven-f20-error-code/)
-- [Ge Oven F3 error code](/posts/ge-oven-f3-error-code/)
-- [Ge Oven F350 error code](/posts/ge-oven-f350-error-code/)
-- [Ge Oven F4 error code](/posts/ge-oven-f4-error-code/)
-- [Ge Oven F5 error code](/posts/ge-oven-f5-error-code/)
-- [Ge Oven F6 error code](/posts/ge-oven-f6-error-code/)
-- [Ge Oven F7 error code](/posts/ge-oven-f7-error-code/)
-- [Ge Oven F7X error code](/posts/ge-oven-f7x-error-code/)
-- [Ge Oven F8 error code](/posts/ge-oven-f8-error-code/)
+- Ge Oven F20 error code
+- Ge Oven F3 error code
+- Ge Oven F350 error code
+- Ge Oven F4 error code
+- Ge Oven F5 error code
+- Ge Oven F6 error code
+- Ge Oven F7 error code
+- Ge Oven F7X error code
+- Ge Oven F8 error code
 
 ## When to Call a Pro
 

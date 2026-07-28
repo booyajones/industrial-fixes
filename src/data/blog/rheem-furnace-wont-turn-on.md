@@ -20,8 +20,6 @@ A Rheem furnace that won't turn on is a symptom, not a single fault code. The co
 
 The furnace shuts down and won't restart because it detected an unsafe or incomplete condition during the last cycle. It stays locked out until you fix the root cause and reset power or the thermostat. The most frequent culprits are dirty flame sensors causing false flame-loss readings, clogged air filters or restricted airflow tripping the high-limit switch, blocked vents or weak draft causing pressure-switch faults, and gas supply or ignition component problems preventing burner light-off.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty flame sensor** Carbon buildup or oxidation on the flame sensor rod prevents reliable flame proving, causing codes 12 or 13 and lockout after ignition or mid-cycle.
@@ -62,10 +60,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you see a rollout fault (33), suspect heat exchanger damage, or lack the tools to measure draft pressure with a magnehelic gauge. Gas valve replacement, igniter testing, combustion analysis, and any work involving gas piping or burner adjustment should be handled by a licensed pro. If you have cleaned the flame sensor and filter, verified gas supply and voltage, and the furnace still locks out on the same code, a technician can pinpoint board faults, intermittent wiring problems, or failed safety components that require specialized diagnostics. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rheem A01 Error Code - Causes & Fix](/posts/rheem-water-heater-a01-error-code/)
-- [Rheem Tankless Water Heater Secondary Heat Exchanger Replacement](/posts/rheem-water-heater-heat-exchanger-tankless-condensing-secondary-replacement/)
-- [Rheem Water Heater Pilot & Burner Assembly Replacement Guide](/posts/rheem-water-heater-pilot-assembly-burner-assembly-gas-replacement/)
-- [Rheem Water Heater Heating Element Replacement - Signs & How-To](/posts/rheem-water-heater-heating-element-electric-screw-in-flange-replacement/)

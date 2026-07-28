@@ -13,13 +13,10 @@ money_part: "EcoSmart inlet thermistor"
 most_likely_cause: "Failed or faulty thermistor"
 ---
 
-## EcoSmart Eco 28 Error Codes — What It Means
-
+## What this code means
 The EcoSmart Eco 28 displays fault codes E1 through E5 to indicate specific problems with temperature sensing and water flow. E1 signals an inlet thermistor fault, E2 signals an outlet thermistor fault, and E3 means both thermistors or the temperature sensing circuit are not working correctly. E4 indicates the unit detected over-temperature at the inlet, which happens when incoming water is too hot. E5 means the water flow rate is too high for the heater to raise the temperature adequately.
 
 These codes stop normal operation to protect the unit and alert you to a wiring issue, sensor failure, or water condition that needs correction. Most of the time, E1, E2, and E3 point to a failed thermistor or loose connection at the control board. E4 and E5 are typically water-side problems related to incoming temperature or excessive flow through the heating elements.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -97,18 +97,3 @@ The specific variant tells you when in the cycle the overcurrent occurred, which
 | Motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-yaskawa-v1000-fault-oc&k=Motor&tag=errorcodefixes-20) \| If winding insulation failed |
 | Motor cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-yaskawa-v1000-fault-oc&k=Motor+cable&tag=errorcodefixes-20) \| Use shielded cable — 4-conductor VFD-rated |
 > **Pro tip:** The Yaskawa V1000 supports online auto-tuning (parameter T1-01 = 2 for rotational auto-tune). Running auto-tune after a motor change or OC fault helps the drive learn the correct motor parameters and reduces OC trips.
-
-## Related Articles
-
-- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
-- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
-- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
-- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
-- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)
-
-## See Also
-
-- [Yaskawa VFD Fault SC — Causes & Fix](/posts/yaskawa-vfd-fault-sc/)
-- [Yaskawa VFD Fault UV1 — Causes & Fix](/posts/yaskawa-vfd-fault-uv1/)
-- [Yaskawa A1000 Complete Guide - Fault Codes, Parameters, and Commissioning](/posts/yaskawa-a1000-complete-guide/)
-- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)

@@ -56,14 +56,6 @@ Check current draw on all three phases with a clamp meter. Unbalanced loading, i
 ## When to Call a Pro
 If the compressor shuts down on high temperature after cooler cleaning and oil service, suspect airend discharge valve or screw wear. CompAir airend rebuilds require factory tooling and specifications.
 
-## Related Articles
-
-- [Air Compressor Fault Codes: Complete Guide](/posts/air-compressor-fault-codes/)
-- [Atlas Copco Air Compressor Fault Codes — Complete Guide](/posts/atlas-copco-compressor-fault-codes/)
-- [BOGE Air Compressor Error Codes - Complete Guide](/posts/boge-compressor-error-codes/)
-- [Chicago Pneumatic Compressor Fault Codes — Complete Guide](/posts/chicago-pneumatic-compressor-faults/)
-- [Copeland Compressor Error Code 1 — High Pressure Cutout Fix](/posts/copeland-compressor-error-code-1/)
-
 ## More Compair Compressor fault codes
 
 Compiled from manufacturer service manuals and authorized documentation.
@@ -100,7 +92,6 @@ Compiled from manufacturer service manuals and authorized documentation.
 | A623 | SD-Card full (warning) | The data-logger SD card storage space is used up. | Renew the SD card (CompAir part no. ZS1067681). |
 | A700 | VSD Temperature High (warning, variable-speed units) | Frequency converter temperature close to its trip point. | Clean/renew the cabinet cooling-air inlet filter, confirm cabinet and VSD fans run, and clear VSD inlet/outlet blockages and dirty fins before it trips to F008. |
 
-
 ## How to troubleshoot Compair Compressor
 
 ## How to read CompAir DELCOS fault codes
@@ -118,7 +109,6 @@ When a code names a specific sensor (B1 line pressure, B2 discharge pressure, R2
 ## Safety and when to call a pro
 
 Rotary screw compressors store pressure and, on variable-speed (RS) units, dangerous DC-bus voltage in the VSD capacitors. Before touching anything electrical, isolate at the main switch, depressurise, and on RS machines wait at least 10 minutes for the capacitors to discharge. DIY-appropriate work is cooler cleaning, filter and separator changes, oil service, checking the fan and its breaker, and tightening terminals. Escalate to an authorized CompAir/Gardner Denver technician for: repeated discharge-temperature shutdowns that survive cooler cleaning and oil service (suspect airend/discharge valve wear), any VSD programming fault (E502/E503) or unexplained VSD communication loss, controller hardware faults (E409, which requires the compressor-specific setup code to swap the controller), and airend rebuilds, which need factory tooling and specifications.
-
 
 ## Frequently asked questions
 
@@ -141,4 +131,3 @@ Clear the underlying cause first, then tap the Fault History tab and press Reset
 ### What causes VSD faults like F008 or E504 on a variable-speed CompAir?
 
 These come from the frequency converter on RS (variable-speed) machines. F008 (and the A700 warning) is VSD overtemperature, usually a dirty switch-cabinet air filter, blocked cooling path, or failed cabinet/VSD fan. E504 is a communication loss with the VSD: check the main contactor and Modbus wiring. Remember the VSD holds a lethal DC-bus charge, so isolate and wait 10 minutes before working inside the cabinet.
-

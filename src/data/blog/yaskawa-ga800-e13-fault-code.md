@@ -13,13 +13,10 @@ money_part: "GA800 operator keypad (JVOP-180)"
 most_likely_cause: "Misread display or similar code"
 ---
 
-## Yaskawa GA800 E13 Fault Code — What It Means
-
+## What this code means
 E13 does not appear in the Yaskawa GA800 fault or alarm code lists in the manufacturer documentation. If your keypad displays E13, it is likely a misread, a different code (such as E1 or A13), or a custom field-configured label from an option card or communication module. The GA800 uses specific fault and alarm displays that are documented in the manual, and the technician must verify the exact message on the operator keypad before diagnosing.
 
 Yaskawa instructs technicians to remove the cause of any fault and reset the drive, and to check wiring and peripheral ratings after a trip or blown fuse before re-energizing the drive. Because E13 is not a standard GA800 code, you must confirm what the drive is actually showing and then cross-reference that exact code with your GA800 model manual and any installed option cards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ Yaskawa instructs technicians to remove the cause of any fault and reset the dri
 ## When to Call a Pro
 
 Call a qualified drive technician or Yaskawa-authorized service provider if you cannot locate the displayed code in any of your manuals, if the fault returns immediately after reset, or if you find physical damage to the control board or option cards during inspection. Also call a professional if the drive has blown fuses or shows signs of overcurrent damage, because Yaskawa instructs against re-energizing without a full wiring and component check. A factory-trained technician has access to extended fault logs, parameter backup tools, and direct support channels that can decode non-standard or option-generated codes.
-
-## See Also
-
-- [Yaskawa GA800 E03 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e03-fault-code/)
-- [Yaskawa VFD Fault CF — Causes & Fix](/posts/yaskawa-vfd-fault-cf/)
-- [Yaskawa GA800 Uv1 Fault — DC Undervoltage Fix](/posts/yaskawa-ga800-error-uv1/)
-- [Yaskawa GA800 E17 Fault - Causes & Fix](/posts/yaskawa-ga800-e17-fault-code/)

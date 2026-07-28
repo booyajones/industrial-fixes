@@ -13,13 +13,10 @@ money_part: "Navien outlet thermistor / hot water outlet temperature sensor"
 most_likely_cause: "Failed outlet thermistor"
 ---
 
-## Navien E008 Error Code — What It Means
-
+## What this code means
 E008 on your Navien tankless water heater indicates a fault in the outlet temperature sensor circuit, specifically a thermistor short. The outlet thermistor measures the temperature of hot water leaving the heat exchanger. When the control board detects a short in this sensor circuit, it throws E008 and shuts down heating to prevent unsafe operation.
 
 This code falls into Navien's category of sensor and internal faults, alongside E007 and E036. It is not related to water flow or pressure issues. The fault almost always involves the outlet thermistor itself or the wiring and connector that link it to the control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ This code falls into Navien's category of sensor and internal faults, alongside 
 ## When to Call a Pro
 
 If you are uncomfortable working inside a tankless water heater cabinet, measuring electrical resistance, or identifying the outlet thermistor circuit, contact a licensed plumber or Navien-certified technician. Also call a pro if replacing the sensor and harness does not clear E008, if the code returns intermittently, or if you see other fault codes alongside E008. Navien technical support can help your technician diagnose complex board or heat exchanger issues when you have the unit's serial number ready.
-
-## See Also
-
-- [Navien NPE-180S2 Problems & Error Codes](/posts/navien-npe-180s2-water-heater-problems/)
-- [Navien E010 Error Code - Causes & Fix](/posts/navien-tankless-e010-error-code/)
-- [Navien Error Code E010 — Causes & Fix](/posts/navien-error-code-e010/)
-- [Navien Flow Sensor Replacement - Signs & How-To](/posts/navien-water-heater-flow-sensor-flow-meter-tankless-replacement/)

@@ -20,8 +20,6 @@ If you hear clicking, the oven is attempting ignition, but the flame is not esta
 
 The ignition system is trying to spark, but the gas is not being ignited or the gas valve is not being opened properly. This can involve the igniter, spark module, gas supply, burner ports, or control board depending on the model.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Weak or failed igniter** Whirlpool states that if you see sparks or an orange glow but no ignition, the igniter may be broken and needs replacement.
@@ -57,7 +55,7 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Whirlpool Oven A6 error code](/posts/whirlpool-oven-a6-error-code/)
 - [Whirlpool Oven Ab error code](/posts/whirlpool-oven-ab-error-code/)
-- [Whirlpool Oven Cal error code](/posts/whirlpool-oven-cal-error-code/)
+- Whirlpool Oven Cal error code
 - [Whirlpool Oven F1 E0 error code](/posts/whirlpool-oven-f1-e0-error-code/)
 - [Whirlpool Oven F1 E1 error code](/posts/whirlpool-oven-f1-e1-error-code/)
 - [Whirlpool Oven F2 E0 error code](/posts/whirlpool-oven-f2-e0-error-code/)

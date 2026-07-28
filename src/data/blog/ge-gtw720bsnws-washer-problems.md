@@ -43,9 +43,9 @@ The GE GTW720BSNWS is a 4.8 cu. ft. top-load washer with electronic controls, Fl
 
 These codes apply to this model line:
 
-- [Ge Washer C2 error code](/posts/ge-washer-c2-error-code/)
+- Ge Washer C2 error code
 - [Ge Washer C5 error code](/posts/ge-washer-c5-error-code/)
-- [Ge Washer E23 error code](/posts/ge-washer-e23-error-code/)
+- Ge Washer E23 error code
 
 ## When to Call a Pro
 

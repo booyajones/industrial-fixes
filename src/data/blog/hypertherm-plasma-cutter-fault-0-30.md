@@ -13,11 +13,8 @@ money_part: "Electrode"
 most_likely_cause: "Missing or loose shield"
 ---
 
-## Hypertherm Plasma Cutter Fault 0-30 — What It Means
-
+## What this code means
 Fault 0-30 on Hypertherm plasma cutters (Powermax series) indicates a consumable or shield detection fault — the machine has detected that the shield is missing, not seated correctly, or the torch consumables are damaged or incorrect. Hypertherm's SmartSense torch protection circuitry monitors the torch assembly before each cut and will not fire the arc if the consumable stack is incomplete or misassembled.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

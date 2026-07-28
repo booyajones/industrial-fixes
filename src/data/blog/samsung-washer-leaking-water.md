@@ -19,8 +19,6 @@ Samsung washer leaking water is a symptom, not a fault code. Samsung troubleshoo
 
 A technician isolates the leak by observing when it occurs. Leaks during fill point to inlet valves, hoses, or the dispenser. Leaks during wash or agitate suggest the door boot seal on front-loaders or internal tub hoses. Leaks during drain or spin indicate drain hose, pump, or filter problems.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Loose, damaged, or improperly connected inlet hoses** The hot and cold water supply hoses at the rear connections can crack, loosen, or lose their rubber washers, allowing water to seep during fill.

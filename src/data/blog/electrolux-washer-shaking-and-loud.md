@@ -19,8 +19,6 @@ When an Electrolux washer shakes and makes loud noises during the spin cycle, it
 
 Electrolux guidance also points to small loads that shift during spin, clothing fasteners clanking against the drum, and worn suspension components as contributing factors. The symptom is mechanical, not electronic, so diagnostics focus on installation, load management, and physical inspection of moving parts.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Shipping or transit bolts still installed** New machines ship with bolts that lock the drum, and if not removed before first use they cause violent shaking and noise during spin.

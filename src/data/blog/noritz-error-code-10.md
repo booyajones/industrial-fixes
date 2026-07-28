@@ -13,11 +13,8 @@ money_part: "Burner assembly"
 most_likely_cause: "Dirty or clogged burner"
 ---
 
-## Noritz Error Code 10 — What It Means
-
+## What this code means
 Noritz error code 10 means abnormal combustion — the unit's flame sensor detected an irregular or unstable flame pattern that doesn't match expected combustion parameters. Unlike a simple ignition failure code, code 10 means the burner lit but the quality of combustion was poor enough that the control board flagged it as abnormal and shut the unit down. This can be caused by gas supply issues, a dirty burner, incorrect gas type configuration, or inadequate combustion air. It often appears intermittently before becoming a persistent fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,11 +41,3 @@ Noritz error code 10 means abnormal combustion — the unit's flame sensor detec
 ## When to Call a Pro
 
 Gas pressure measurement and burner combustion analysis require a licensed tech with a manometer and combustion analyzer. Persistent code 10 after cleaning the burner is a combustion efficiency issue that needs professional diagnosis.
-
-## Related Articles
-
-- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
-- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
-- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)

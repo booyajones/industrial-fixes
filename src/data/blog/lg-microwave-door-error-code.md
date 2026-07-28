@@ -20,8 +20,7 @@ free_checks:
   - "Unplug the microwave for 2-3 minutes, restore power, and retest"
 ---
 
-## LG Microwave DOOR Error — What It Means
-
+## What this code means
 LG's DOOR error indicates a problem with the door not being closed or the door latch not being engaged. The control system does not detect the door-latch/switch circuit as properly engaged, so it treats the condition as an open door and blocks operation to prevent microwave energy from escaping.
 
 In practical terms, the oven is seeing an open-door condition from its safety interlock system. This can be a true mechanical obstruction, a latch that is cracked or misaligned, or a failed micro-switch in the door interlock assembly. LG's published guidance says to check for packing material or foreign objects, close the door firmly, reset power, and call for service if the code remains.
@@ -29,8 +28,6 @@ In practical terms, the oven is seeing an open-door condition from its safety in
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board first, but the real fault is almost always mechanical: a failed interlock switch, a cracked latch hook, or door sag. Test switch continuity and inspect latch alignment before ordering electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a qualified appliance technician if the DOOR error persists after you have checked for obstructions, reset power, and confirmed the door closes smoothly. Microwave repair involves discharging a high-voltage capacitor that can store a lethal charge even when the unit is unplugged, and the door interlock system is a safety-critical assembly that must be tested and reassembled correctly. Technicians have the meters, part cross-references, and experience to diagnose whether the fault is a switch, latch, actuator, wiring, or structural misalignment, and they carry liability insurance for work on high-voltage appliances.
 
 **Rough cost:** A pro service call runs about $150-250.
-
-## See Also
-
-- [LG Washer CE Error Code - Causes & Fix](/posts/lg-washer-ce-error-code/)
-- [LG Mini Split Not Heating - Causes & Fix](/posts/lg-mini-split-not-heating/)
-- [LG Mini-Split CH67 Error Code — Causes & Fix](/posts/lg-mini-split-ch67-error-code/)
-- [LG Microwave Sparking - Causes & Fix](/posts/lg-microwave-sparking/)

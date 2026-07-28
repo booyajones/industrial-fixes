@@ -55,10 +55,3 @@ UCM detection is a mandatory safety feature on modern KONE installations. If the
 | Encoder (EcoDisc motor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kone-elevator-fault-codes&k=Encoder+%28EcoDisc+motor%29&tag=errorcodefixes-20) \| Replace on encoder fault |
 ## When to Call a Pro
 **KONE elevator systems require licensed elevator mechanics.** KONE Care service tools and software are proprietary. Do not attempt repair or fault reset without proper training and authorization.
-
-## Related Articles
-
-- [Mitsubishi Elevator Fault Codes - Complete Guide](/posts/mitsubishi-elevator-fault-codes/)
-- [Otis Elevator Fault Codes - Complete Guide (Gen2 / Elevonic)](/posts/otis-elevator-fault-codes/)
-- [Schindler Elevator Fault Codes - Complete Guide](/posts/schindler-elevator-fault-codes/)
-- [ThyssenKrupp Elevator Fault Codes - Complete Guide](/posts/thyssenkrupp-elevator-fault-codes/)

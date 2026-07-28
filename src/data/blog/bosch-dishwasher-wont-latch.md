@@ -19,8 +19,6 @@ A Bosch dishwasher that won't latch means the control does not see a valid close
 
 Bosch states that a dishwasher which beeps but will not start is often due to an unlatched door, and if the latch is broken it may need replacement. Door-related problems should lead you to inspect the latch mechanism and switch. If the issue is on the user-interface side, a child lock can also prevent operation and must be deactivated first.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Latch misalignment between door striker and chassis** The latch housing may be positioned too high, low, or to one side, preventing the door from engaging the latch mechanism fully even though nothing is broken.

@@ -14,11 +14,8 @@ money_part: "Lennox hot-surface ignitor"
 most_likely_cause: "Open or failed hot-surface ignitor"
 ---
 
-## Lennox E290 Error Code — What It Means
-
+## What this code means
 E290 on a Lennox furnace signals an ignitor circuit fault. The control board has detected a failed hot-surface ignitor or a problem in the circuitry that triggers the ignitor. This fault specifically points to an issue with the resistance measurement of the ignitor or an open circuit in the ignitor wiring harness. The furnace cannot ignite gas without a working ignitor, so the system locks out and displays this code to prevent unsafe operation.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ E290 on a Lennox furnace signals an ignitor circuit fault. The control board has
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with line voltage or gas appliances, if the fault returns after you replace the ignitor, or if voltage testing indicates a control-board problem. Integrated control diagnostics require model-specific test points and a clear understanding of the Lennox troubleshooting flowchart. A pro will also verify proper gas pressure, flame sensing, and sequence-of-operation timing to rule out secondary issues that can stress the ignitor circuit.
-
-## See Also
-
-- [Lennox Furnace Error Codes — Complete Reference Guide](/posts/lennox-furnace-error-codes/)
-- [Lennox Error Code 411 — Ignition Proving Fault Fix](/posts/lennox-error-code-411/)
-- [Lennox Furnace Not Heating - Causes & Fix](/posts/lennox-furnace-not-heating/)
-- [Lennox Error Code 114 — Causes & Fix](/posts/lennox-error-code-114/)

@@ -18,8 +18,7 @@ free_checks:
   - "Check for air in the system by opening a zone bleeder valve"
 ---
 
-## Weil-McLain A03 Error — What It Means
-
+## What this code means
 The A03 error is a high-temperature lockout that occurs when your Weil-McLain boiler's internal temperature sensor detects the unit has overheated beyond a safe limit. This is a hard lockout, meaning the boiler will not restart until you manually reset it after correcting the problem.
 
 The boiler overheats because heat is not being removed fast enough, almost always due to poor water circulation through the system. The control shuts down the burner to prevent damage to the heat exchanger and other components.
@@ -27,8 +26,6 @@ The boiler overheats because heat is not being removed fast enough, almost alway
 ## Before You Replace Anything
 
 Homeowners and techs sometimes replace the temperature sensor first, but sensor failures are rare. Instead, check water flow through the plate heat exchanger and verify the circulator pump is running before replacing any sensor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician for an A03 code. This error involves diagnosing water flow through a pressurized hydronic system, removing and cleaning or replacing the plate heat exchanger, testing electrical components, and verifying safe operation of a gas-fired appliance. A pro has the tools to measure flow rates, test sensors accurately, and access the Contractor Menu diagnostics. They can also check combustion and make sure the boiler operates safely after the repair. Attempting this repair yourself risks gas leaks, water damage, or improper operation that could damage the boiler or create a safety hazard.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain E05 Error Code — Sensor Fault](/posts/weil-mclain-e05-error-code/)
-- [Weil-McLain Boiler A156 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a156-error-code/)
-- [Weil-McLain A71 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a71-error-code/)
-- [Weil-McLain Boiler A124 Error - Causes & Fix](/posts/weil-mclain-boiler-a124-error-code/)

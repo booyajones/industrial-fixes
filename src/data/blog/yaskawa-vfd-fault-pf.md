@@ -13,11 +13,8 @@ money_part: "Input fuses (class J or similar)"
 most_likely_cause: "Blown fuse or tripped circuit breaker on one phase"
 ---
 
-## Yaskawa VFD Fault PF — What It Means
-
+## What this code means
 Fault PF on a Yaskawa drive (A1000, V1000, GA700, GA800 series) stands for Input Phase Loss. The drive's input monitoring circuit detected that one or more of the three input AC phases (R/L1, S/L2, T/L3) is absent or significantly unbalanced relative to the others. The drive trips to prevent the DC bus capacitors and rectifier diodes from being overloaded by single-phase or unbalanced input.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Fault PF on a Yaskawa drive (A1000, V1000, GA700, GA800 series) stands for Input
 ## When to Call a Pro
 
 Phase imbalance from the utility supply requires contacting the utility or a licensed electrician to investigate the power system. Single-phase loss events that repeatedly blow fuses indicate a fault in the upstream distribution system requiring a qualified electrician.
-
-## Related Articles
-
-- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
-- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
-- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
-- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
-- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)
-
-## See Also
-
-- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)
-- [Yaskawa VFD Fault UV1 — Causes & Fix](/posts/yaskawa-vfd-fault-uv1/)
-- [Yaskawa VFD Fault GF — Causes & Fix](/posts/yaskawa-vfd-fault-gf/)
-- [Yaskawa V1000 OV Fault - What It Means and How to Fix It](/posts/yaskawa-v1000-fault-ov/)

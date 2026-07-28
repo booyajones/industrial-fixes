@@ -15,15 +15,12 @@ free_checks:
   - "Check the display or HMI to see if it is connected to multiple drives or PLCs that might be showing a fault from a different device"
 ---
 
-## Yaskawa GA800 F033 — What It Means
-
+## What this code means
 There is no F033 fault code in the Yaskawa GA800 VFD manual or fault table. The F033 code belongs to Allen-Bradley PowerFlex 525 drives, where it indicates Auto Restart Tries Exceeded. This means the drive attempted to automatically restart after a fault but failed multiple times, reaching the maximum number of configured auto-restart attempts (typically set in parameter P151 or A541). F033 is always a secondary fault, so the root cause is another fault (such as overload, ground fault, or power loss) that triggered the auto-restart loop. If you see F033 on a display connected to equipment you believe is a Yaskawa GA800, verify the drive model number on the nameplate. You may have a PowerFlex 525 instead, or the display may be showing a fault from a different device in the system.
 
 ## Before You Replace Anything
 
 Technicians sometimes replace the drive itself when seeing F033, but the drive is rarely faulty. Disable auto-restart (set P151 to 0 on PowerFlex 525) to reveal the original fault code, then troubleshoot that root cause instead.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

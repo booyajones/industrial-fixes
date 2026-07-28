@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "KitchenAid Electronic Oven Control (range)"
 ---
 
-## KitchenAid Range F4 Error Code — What It Means
-
+## What this code means
 F4 on a KitchenAid range indicates a problem with the Electronic Oven Control or the wiring connected to it. On KitchenAid wall ovens the same code points to the Oven Cavity Control or its wiring. This is a control-side fault, not a user-settable condition or a simple sensor reading. The exact interpretation can vary by model family, so always check your specific model's tech sheet or wiring diagram.
 
 Some third-party sources mention a shorted oven temperature sensor as a cause of F4, but KitchenAid's own help pages do not list that explanation. The manufacturer documentation focuses on the control board and associated wiring. A power transient or loose connector can also trigger the fault and leave it latched in memory until you reset the unit.
@@ -25,8 +24,6 @@ Some third-party sources mention a shorted oven temperature sensor as a cause of
 ## Before You Replace Anything
 
 Many people replace the oven temperature sensor first because third-party sites list it, but KitchenAid's own pages point to the control board or wiring. Power-cycle the unit and inspect connectors before buying any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

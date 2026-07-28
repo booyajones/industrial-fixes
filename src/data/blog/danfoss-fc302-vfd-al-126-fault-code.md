@@ -21,8 +21,7 @@ part_price: "$250-500 for a replacement control card"
 no_buy_pct: "30%"
 ---
 
-## Danfoss FC302 VFD AL-126 — What It Means
-
+## What this code means
 The Danfoss FC302 does not have an alarm code numbered AL-126 in its official fault list. All documented FC302 alarms fall between AL 1 and AL 90. If your display shows a three-digit number like 126, you are most likely seeing AL 38 with sub-code 126. AL 38 is an internal fault that points to a problem inside the drive's control logic, firmware, memory, or hardware components such as the logic card, power board, or IGBT module. The sub-code 126 is a specific internal diagnostic identifier used by Danfoss for advanced troubleshooting and typically indicates a control board memory error, firmware corruption, or logic card failure.
 
 Because AL 38 is an internal fault, the drive has detected a failure in its own circuitry rather than an external wiring or motor problem. Common triggers include corrupted firmware from a power interruption during an update, a failed control card, voltage spikes damaging the logic circuitry, moisture or dust causing connector corrosion, or instability in the power board affecting the control logic. The drive will not operate until the internal fault is cleared by either a successful power cycle or replacement of the faulty internal component.
@@ -30,8 +29,6 @@ Because AL 38 is an internal fault, the drive has detected a failure in its own 
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire power board or IGBT module when the real fault is a loose or corroded connector on the control card. Always reseat the logic board and check parameter 15-32 for extended diagnostic codes before swapping expensive power electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -81,10 +78,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or contact your local Danfoss supplier if the fault persists after a full power cycle, control card reseating, and firmware update. Internal faults on the FC302 often require component-level diagnostics with specialized test equipment to isolate failures in the power board, IGBT modules, or gate driver circuits. Professional repair or factory service is necessary if you lack experience working inside variable frequency drives or if your facility does not allow in-house repair of high-voltage industrial electronics. Danfoss provides technical support and can arrange for authorized service centers to perform board-level repair or drive replacement under warranty.
 
 **Rough cost:** A pro service call runs about $300-800 for control card replacement and diagnostics.
-
-## See Also
-
-- [Danfoss FC302 AL-142 - Causes & Fix](/posts/danfoss-fc302-vfd-al-142-fault-code/)
-- [Danfoss FC302 AL-99 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-99-fault-code/)
-- [Danfoss VFD Fault Codes — FC301, FC302, FC102 Reference](/posts/danfoss-vfd-fault-codes/)
-- [Danfoss FC302 AL-165 - Causes & Fix](/posts/danfoss-fc302-vfd-al-165-fault-code/)

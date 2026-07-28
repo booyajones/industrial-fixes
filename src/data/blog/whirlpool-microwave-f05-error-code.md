@@ -19,8 +19,7 @@ free_checks:
   - "Inspect the inverter board and its wire harness for obvious damage, scorching, or loose connectors"
 ---
 
-## Whirlpool Microwave F05 Error — What It Means
-
+## What this code means
 The F05 error code on a Whirlpool microwave indicates a power inverter board failure. The control has detected a fault in the inverter or power section that drives the microwave output. This code is specific to Whirlpool microwave units and appears in their built-in microwave error-code index.
 
 It is important to confirm your appliance type and model number first. Whirlpool reuses code numbers across product families. If your unit is actually a range or oven (not a microwave), F05 points to a door latch assembly, door switch, or associated wiring instead. For microwaves, the code signals a problem in the high-voltage drive path that powers the magnetron.
@@ -28,8 +27,6 @@ It is important to confirm your appliance type and model number first. Whirlpool
 ## Before You Replace Anything
 
 Some owners replace the control board or magnetron first. Inspect the inverter board and its connectors for obvious damage or loose connections before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

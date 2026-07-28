@@ -17,8 +17,7 @@ money_part: "Samsung dishwasher drain filter assembly"
 part_price: "$10-50"
 ---
 
-## Samsung Dishwasher OC Error Code — What It Means
-
+## What this code means
 The OC or oC error code on a Samsung dishwasher means the control board has detected an over-level or overflow water condition. In practice, the machine believes there is too much water in the tub, either because it is not draining correctly, is being overfilled, or the water-level sensing path is giving a false reading.
 
 Samsung support ties this code to overflow or slow drain behavior. The dishwasher may show standing water at the end of a cycle, or the code may appear mid-cycle when the control detects water above the normal level. The fault can result from a mechanical blockage, excess suds from detergent, a water supply valve that does not close fully, a defective flow meter, or a faulty main control board.
@@ -26,8 +25,6 @@ Samsung support ties this code to overflow or slow drain behavior. The dishwashe
 ## Before You Replace Anything
 
 Many people replace the main control board first, thinking it is an electronics fault. Always clean the filter, inspect the drain hose for kinks, and check for excess suds before replacing any electronic components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,11 +13,8 @@ money_part: "MDS servo amplifier"
 most_likely_cause: "Mechanical binding or obstruction"
 ---
 
-## Mitsubishi CNC Alarm 500 — What It Means
-
+## What this code means
 Alarm 500 on a Mitsubishi CNC (M70, M70V, M80, M800 series controls) indicates a servo error — the position deviation between the commanded position and the actual position (from the servo encoder) exceeded the allowable following error limit. This "excessive position deviation" alarm means the servo axis could not follow the commanded motion, either because of a mechanical problem, a servo drive fault, or incorrect servo parameters.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Alarm 500 on a Mitsubishi CNC (M70, M70V, M80, M800 series controls) indicates a
 ## When to Call a Pro
 
 Mitsubishi M70/M80 servo system repair and re-parameterization requires Mitsubishi-certified technicians. Alarm 500 following a crash should trigger a machine geometry verification — axis squareness and backlash compensation may need to be re-measured before returning the machine to production.
-
-## Related Articles
-
-- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
-- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
-- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
-- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
-- [Mitsubishi E3 Error Code — Indoor Fan Motor Fault Fix](/posts/mitsubishi-e3-error-code/)
-
-## See Also
-
-- [Mitsubishi E6 AC Error Code — Causes & Fix](/posts/mitsubishi-e6-ac-error-code/)
-- [Mitsubishi P5 Error Code — Drain Pump Fault: Causes & Fix](/posts/mitsubishi-p5-error-code/)
-- [Mitsubishi Mini Split E6 Error Code Fix](/posts/mitsubishi-e6-error-code/)
-- [Mitsubishi U2 Error Code — Causes & Fix](/posts/mitsubishi-u2-error-code/)

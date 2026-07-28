@@ -17,15 +17,12 @@ money_part: "Samsung dryer user interface / keypad assembly"
 part_price: "$80-180"
 ---
 
-## Samsung Dryer bE2 Error Code — What It Means
-
+## What this code means
 The bE2 error code on a Samsung dryer indicates the control board is detecting a key input fault from the user interface or keypad. This code appears when a button is stuck, jammed, or continuously pressed. Samsung groups bE2 with bE and bC2 codes in the same fault family. The code can also trigger if a button is held down for more than 75 seconds. This is not a heating, airflow, or motor problem. The dryer is seeing an electrical fault in the control panel's button circuit.
 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when the real fault is in the user interface or display PCB. Always inspect and test each button for physical sticking and clean the keypad area before ordering any circuit boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

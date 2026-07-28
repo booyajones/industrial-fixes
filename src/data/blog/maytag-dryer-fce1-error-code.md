@@ -17,8 +17,7 @@ money_part: "Maytag dryer user interface board (touchpad assembly)"
 part_price: "$60-150"
 ---
 
-## Maytag Dryer F2E1 Error Code — What It Means
-
+## What this code means
 The F2E1 code on a Maytag dryer indicates a keypad fault. The control board is detecting a stuck button, a shorted key, invalid input from the console, or a communication problem between the user interface panel and the main control. This is not a mechanical or airflow problem. It is an electrical issue isolated to the control panel or its wiring.
 
 Maytag lists F2E1 as "Keypad" in their dryer help documentation. In the field, technicians see this code when a button on the console is physically stuck, when moisture or detergent residue has contaminated the keypad, or when the ribbon cable connecting the user interface board to the main control has loosened or corroded. Less commonly, the user interface board itself has failed, or the main control board is misreading a valid keypad signal.
@@ -26,8 +25,6 @@ Maytag lists F2E1 as "Keypad" in their dryer help documentation. In the field, t
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when the real fault is a stuck button or loose ribbon cable at the keypad. Always power-reset the dryer and inspect every button and connector before ordering any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

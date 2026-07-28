@@ -17,8 +17,6 @@ tags:
 
 When your Kenmore washer is shaking and loud, it means the cabinet is experiencing excessive movement, vibration, or banging, usually most noticeable during the spin or drain cycle. This is a mechanical symptom, not an electronic error code. On most Kenmore top-load models, loud shaking points to the tub no longer being properly controlled by the suspension system or to a worn or loose mechanical rotating part. The washer may bang against walls, walk across the floor, or create noise loud enough to be heard throughout the house.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Unbalanced or overloaded load** Heavy items bunched on one side or too many clothes in the tub cause the basket to spin off-center, creating violent shaking and noise.
@@ -53,8 +51,8 @@ When your Kenmore washer is shaking and loud, it means the cabinet is experienci
 
 Seeing a code on the display? These match this problem:
 
-- [Kenmore Washer E14 error code](/posts/kenmore-washer-e14-error-code/)
-- [Kenmore Washer E24 error code](/posts/kenmore-washer-e24-error-code/)
+- Kenmore Washer E14 error code
+- Kenmore Washer E24 error code
 - [Kenmore Washer F0 E2 error code](/posts/kenmore-washer-f0-e2-error-code/)
 - [Kenmore Washer F0 E4 error code](/posts/kenmore-washer-f0-e4-error-code/)
 - [Kenmore Washer F1 E1 error code](/posts/kenmore-washer-f1-e1-error-code/)

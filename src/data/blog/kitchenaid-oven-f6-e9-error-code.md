@@ -21,8 +21,7 @@ free_checks:
 no_buy_pct: "30%"
 ---
 
-## KitchenAid Oven F6 E9 Error — What It Means
-
+## What this code means
 F6 E9 on a KitchenAid wall oven indicates a loss of communication to the Lower Oven Appliance Manager or a fault in the associated wiring. KitchenAid's official product help defines this code as a problem with either the Lower Oven Appliance Manager itself or the wiring harness that connects it to the main control. The lower oven cannot communicate properly with the rest of the system, so the oven disables operation and throws the fault.
 
 In the field, technicians see this code after power events, intermittent connections, or outright board failures. The code does not point to the oven sensor, heating element, or door latch. It is strictly a control-board and wiring issue. Because the lower oven appliance manager is a separate board from the main control, the code isolates the problem to that specific module and its connections.
@@ -30,8 +29,6 @@ In the field, technicians see this code after power events, intermittent connect
 ## Before You Replace Anything
 
 Homeowners sometimes replace the oven temperature sensor when they see a fault code, but F6 E9 is a communication fault between control boards, not a sensor issue. Check and reseat all wiring connectors at the lower oven appliance manager before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

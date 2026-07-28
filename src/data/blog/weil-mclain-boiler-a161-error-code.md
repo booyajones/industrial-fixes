@@ -20,8 +20,7 @@ part_price: "$20-50"
 no_buy_pct: "60%"
 ---
 
-## Weil-McLain A161 Error Code — What It Means
-
+## What this code means
 A161 is not a standard documented Weil-McLain fault code in manufacturer manuals. The documented code is A16, which appears on AquaBalance-control central-heating-only boilers when no outdoor sensor is connected. If your display truly shows A161, you may be misreading A16, or the code may be model-specific or a history-screen entry rather than the active fault. On verified AquaBalance units, A16 means the outdoor sensor input is missing or not detected, and the boiler will not operate normally until the sensor is installed and the code is cleared.
 
 The manufacturer distinguishes a missing sensor (A16) from a failed sensor (which produces F-39). This tells you the control board expects an outdoor sensor for proper operation but cannot find the signal. The fix is straightforward: install the outdoor sensor if it is absent, or check the wiring if the sensor is physically present but not being recognized.
@@ -29,8 +28,6 @@ The manufacturer distinguishes a missing sensor (A16) from a failed sensor (whic
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board when the outdoor sensor is simply unplugged or missing. Check sensor presence and wiring continuity before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if the outdoor sensor is installed and wired correctly but the code will not clear, if the display shows a code other than A16 that you cannot verify in your manual, or if you are uncomfortable working with low-voltage control wiring. Also call a pro if the boiler displays F-39 instead of A16, since that indicates a failed sensor rather than a missing one and may require additional diagnostics. Gas-supply and combustion issues are unrelated to A16 and require professional diagnosis and repair.
 
 **Rough cost:** DIY runs about $25-60 in parts, 20-40 min. A pro service call runs about $120-250.
-
-## See Also
-
-- [Weil-McLain A54 Error - Causes & Fix](/posts/weil-mclain-boiler-a54-error-code/)
-- [Weil-McLain A91 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a91-error-code/)
-- [Weil-McLain A179 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a179-error-code/)
-- [Weil-McLain A172 Error - Causes & Fix](/posts/weil-mclain-boiler-a172-error-code/)

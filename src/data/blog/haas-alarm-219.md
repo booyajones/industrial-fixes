@@ -123,8 +123,8 @@ Call your Haas Factory Outlet when: drive replacement is required (most NGC driv
 
 ## Related guides
 
-- [Haas Alarm 114 — Servo Error Too Large Fix](/posts/haas-alarm-114/)
-- [Haas Alarm 128 — Spindle Drive Fault Fix](/posts/haas-alarm-128/)
+- Haas Alarm 114 — Servo Error Too Large Fix
+- Haas Alarm 128 — Spindle Drive Fault Fix
 - [Mazak Alarm 415 — Position Detector Error Fix](/posts/mazak-alarm-415/)
 - [Fanuc Alarm 300 — APC Battery Voltage Low Fix](/posts/fanuc-alarm-300/)
 - [Fanuc Alarm 401 — Servo Amp Ready Off Fix](/posts/fanuc-alarm-401/)
@@ -138,10 +138,3 @@ Call your Haas Factory Outlet when: drive replacement is required (most NGC driv
 
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Best 4-20mA loop calibrator](/posts/best-loop-calibrator-for-vfd-techs/)
-
-## See Also
-
-- [Haas Alarm 132 — Servo Amplifier Fault Fix](/posts/haas-alarm-132/)
-- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
-- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
-- [Haas Alarm 118 — Spindle Orientation Fault Causes & Fix](/posts/haas-alarm-118/)

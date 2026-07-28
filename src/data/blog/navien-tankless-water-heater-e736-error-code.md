@@ -18,8 +18,7 @@ free_checks:
   - "Visually inspect the cascade communication cable at both units for loose, burnt, or corroded connectors and reseat firmly"
 ---
 
-## Navien E736 Error Code — What It Means
-
+## What this code means
 Error code E736 on a Navien tankless water heater indicates an abnormal cascade communication fault. The unit is not communicating properly with another heater in a cascade system, or the cascade network wiring or board logic is not working correctly. This code only appears on systems with multiple Navien units installed in a cascade configuration.
 
 The fault points to a breakdown in the digital communication link between cascaded heaters. It does not indicate a gas, flame, or water flow problem. Instead, the control boards cannot exchange data over the cascade cable, which prevents the system from coordinating operation across multiple units. Common triggers include loose connections, damaged wiring, incompatible control boards, or a failed PCB in the communication chain.
@@ -27,8 +26,6 @@ The fault points to a breakdown in the digital communication link between cascad
 ## Before You Replace Anything
 
 Technicians sometimes replace the main control board before checking the cascade cable and connections. Inspect and test the communication wiring harness first, since a loose or corroded connector is much cheaper to repair than a new PCB.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified Navien technician if you are not experienced with low-voltage control wiring, if you cannot safely access both heaters in the cascade, or if the error persists after reseating connections and power-cycling. Diagnosing E736 requires working inside the heater cabinet, testing communication circuits, and potentially replacing the main control board. Technicians use substitution testing to isolate whether the fault is in the cable or the PCB, and they have access to OEM replacement boards and wiring harnesses. Incorrect board replacement or wiring mistakes can disable the entire cascade system, so professional service is the safest route for most homeowners.
 
 **Rough cost:** A pro service call runs about $200-500.
-
-## See Also
-
-- [Navien Flame Rod Replacement - Signs & How-To](/posts/navien-water-heater-flame-rod-flame-sensor-tankless-replacement/)
-- [Navien Water Heater Popping Noise - Causes & Fix](/posts/navien-water-heater-making-popping-noise/)
-- [Navien E002 Error Code - Causes & Fix](/posts/navien-tankless-e002-error-code/)
-- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)

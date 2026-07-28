@@ -18,8 +18,7 @@ free_checks:
   - "Inspect the ribbon cable and connector pins for visible damage, corrosion, or moisture"
 ---
 
-## Manitowoc E33 Error Code — What It Means
-
+## What this code means
 The E33 error code on a Manitowoc ice machine indicates a keyboard or touchpad fault. The control board has detected that the membrane keypad assembly is either not connected properly or failing to communicate. This is an electronics issue, not a refrigeration or water system problem.
 
 The machine monitors the connection between the touchpad and the control board. When that link is broken or corrupted by a loose connector, damaged ribbon cable, moisture intrusion, or a failed keypad assembly, the board logs E33 and halts operation until the fault is cleared.
@@ -27,8 +26,6 @@ The machine monitors the connection between the touchpad and the control board. 
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board first when E33 appears. Always inspect and reseat the keypad ribbon connector and test with a known-good keypad before condemning the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified commercial refrigeration technician if you are not comfortable working inside energized control panels or if reseating the keypad connector does not clear the fault. Technicians carry spare keypads and control boards for on-site substitution testing, can verify connector pin continuity with a multimeter, and have access to manufacturer service bulletins and wiring diagrams specific to your model. Because this code points to a low-voltage communication fault rather than a sealed refrigeration system issue, labor is usually straightforward, but misdiagnosing and replacing the control board when only the keypad is bad wastes time and money. A pro can isolate the fault in one visit and carry the correct OEM part.
 
 **Rough cost:** A pro service call runs about $150-300.
-
-## See Also
-
-- [Manitowoc E15 Error Code — High-Side Pressure Switch Open Fix](/posts/manitowoc-e15-error-code/)
-- [Manitowoc E01 Error Code — Long Freeze Cycle Fix](/posts/manitowoc-e01-error-code/)
-- [Manitowoc E09 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e09-error-code/)
-- [Manitowoc E03 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e03-error-code/)

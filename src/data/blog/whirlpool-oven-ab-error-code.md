@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Electronic oven control board (ERC)"
 ---
 
-## Whirlpool Oven AB Error Code — What It Means
-
+## What this code means
 Whirlpool does not publish an official AB error code for ovens in its cooking-appliance fault-code documentation. If your display shows AB, you are most likely seeing SAb, 5AB, or 5A6, which indicates Sabbath Mode is activated. This is a feature setting, not a malfunction. Sabbath Mode disables certain control functions and tones to comply with religious observance requirements.
 
 If the characters on your display are truly AB in a different pattern or font, Whirlpool's official support page does not document that as a standard oven fault code. In that case the issue may be a different Whirlpool code (such as PF for power failure or F9/E0 for electrical problems) being misread on the display, or a model-specific message not covered in the general help guide.
@@ -25,8 +24,6 @@ If the characters on your display are truly AB in a different pattern or font, W
 ## Before You Replace Anything
 
 Homeowners sometimes assume AB is a control-board failure and replace the electronic control. Before ordering any part, confirm the exact characters on the display and check your owner's manual for Sabbath Mode instructions.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "GE dishwasher main control board"
 ---
 
-## GE Dishwasher PF Error Code — What It Means
-
+## What this code means
 The PF code on a GE dishwasher stands for power failure. It means the control board detected that supply power was interrupted or dropped out during operation. PF is a power-interruption event, not a wash-system fault code. By itself, PF does not prove a bad pump, heater, or drain system. It indicates the control saw a loss or instability of incoming power.
 
 The code can appear after a brief utility outage, voltage flicker, tripped breaker, or loose connection anywhere in the supply path. It can also appear if the control board or display board falsely interprets an interruption due to corrosion or a loose internal connection. The dishwasher will not resume the cycle until you clear the code and restart.
@@ -25,8 +24,6 @@ The code can appear after a brief utility outage, voltage flicker, tripped break
 ## Before You Replace Anything
 
 Do not replace the control board or display board until you have eliminated actual power-supply problems. Check the breaker, junction-box connections, and all harness plugs first. Many PF codes are caused by a loose wire nut or tripped breaker, not a failed board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

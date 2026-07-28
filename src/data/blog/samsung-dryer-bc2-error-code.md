@@ -17,8 +17,7 @@ money_part: "User interface assembly (control panel keypad)"
 part_price: "$50-150"
 ---
 
-## Samsung Dryer bC2 Error Code — What It Means
-
+## What this code means
 The bC2 code on a Samsung dryer indicates the control is detecting a button that has been held down for more than 75 seconds or a key-circuit short that makes a button appear stuck. Samsung groups bC2 together with bE, bE2, 6E, 6E2, and 6C2 under the same stuck-button fault family. The control reads one of the front-panel buttons as continuously pressed, even though you may not be touching it.
 
 This is usually caused by a physical problem at the user interface, not a functional dryer issue. A button may be mechanically stuck, moisture or detergent residue may be bridging contacts on the console, or the display PCB has developed a short in the key-input circuit. Less commonly, the main control board misreads the button-input path.
@@ -26,8 +25,6 @@ This is usually caused by a physical problem at the user interface, not a functi
 ## Before You Replace Anything
 
 Many people replace the main control board when the real fault is a stuck or contaminated button on the user interface assembly. Before ordering any parts, press each button individually and clean the console surface to see if the code clears after a power reset.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

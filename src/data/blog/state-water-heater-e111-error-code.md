@@ -13,11 +13,8 @@ money_part: "Ignition transformer / igniter assembly"
 most_likely_cause: "Low gas supply or delivery problem"
 ---
 
-## State Water Heater E111 Error Code — What It Means
-
+## What this code means
 E111 on a State tankless water heater is a flame failure or ignition failure code. The unit called for heat and energized its ignition system, but it did not detect flame or lost flame during the startup sequence. This is an ignition problem, not a water temperature sensor issue. State tankless heaters are part of the A. O. Smith family, and service references for that platform consistently define code 111 as a flame or ignition failure rather than any other condition.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

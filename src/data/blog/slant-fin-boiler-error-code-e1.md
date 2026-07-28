@@ -13,11 +13,8 @@ money_part: "Flame sensor rod"
 most_likely_cause: "Failed or contaminated flame sensor"
 ---
 
-## Slant/Fin Boiler Error Code E1 — What It Means
-
+## What this code means
 E1 on a Slant/Fin boiler (Galaxy, Eutectic, or Minuteman series) indicates an ignition lockout — the control board tried to light the burner and did not receive a flame confirmation signal within the trial-for-ignition window. After two or three failed attempts the board locks out and displays E1. Slant/Fin boilers use a Honeywell or Beckett ignition module for gas firing; the E1 lockout is the module's way of preventing a gas buildup in the combustion chamber.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,11 +42,3 @@ E1 on a Slant/Fin boiler (Galaxy, Eutectic, or Minuteman series) indicates an ig
 ## When to Call a Pro
 
 If E1 returns within days of cleaning the flame sensor, have a licensed plumber or HVAC technician measure gas inlet pressure and perform a combustion analysis. Low gas pressure and combustion air problems cause repeated ignition failures and are not safely addressed without proper instruments.
-
-## Related Articles
-
-- [Boiler Lockout Error Codes: All Brands Guide](/posts/boiler-lockout-error-codes/)
-- [Buderus Boiler Fault Code A1 — Causes & Fix](/posts/buderus-boiler-fault-code-a1/)
-- [Burnham Alpine Boiler Error Code Guide — Causes & Fix](/posts/burnham-alpine-error-codes/)
-- [Burnham Boiler E1 Lockout Code Fix](/posts/burnham-boiler-e1-lockout-code/)
-- [Burnham Boiler E2 Error Code — Causes & Fix](/posts/burnham-boiler-e2-error-code/)

@@ -42,10 +42,3 @@ The Navien NPE-240A2 is a condensing tankless gas water heater in the NPE-A seri
 ## When to Call a Pro
 
 Call a licensed technician for any work involving gas supply, gas valve testing, or burner inspection. Gas pressure verification, igniter replacement, flow-sensor diagnostics, heat-exchanger flushing, and PCB replacement all require specific tools and knowledge of the NPE-240A2 service procedures. If the unit locks out repeatedly, shows an error code you cannot clear, or you smell gas, shut off the manual gas valve and call for service immediately. Venting work must meet local code and Navien installation requirements, so improper DIY changes can create unsafe combustion conditions. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Navien E109 Error - Causes & Fix](/posts/navien-tankless-water-heater-e109-error-code/)
-- [Navien NCB-700 Combination Boiler Error Codes - Full Fault Guide](/posts/navien-ncb-700-error-codes/)
-- [Navien Alarm 401 Error Code - Causes & Fix](/posts/navien-tankless-alarm-401-error-code/)
-- [Navien E030 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e030-error-code/)

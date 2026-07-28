@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Bosch Washer F28 Error Code — What It Means
-
+## What this code means
 The F28 (or E28) error code on a Bosch washer indicates a flow sensor fault. The machine is not correctly sensing incoming water flow, so the cycle may fail to start or stop mid-program. Bosch's official support pages classify this code as a faulty flow sensor issue, meaning the sensor that monitors water entering the drum is either defective or unable to see the expected flow.
 
 In practical terms, the washer thinks it is not receiving enough water even if the supply is on. The flow sensor monitors inlet flow rate and volume. When it fails or its circuit is interrupted, the control board throws F28 and halts the wash. This is primarily a water-inlet and fill-detection problem, not a drain fault.
@@ -26,8 +25,6 @@ In practical terms, the washer thinks it is not receiving enough water even if t
 ## Before You Replace Anything
 
 Many owners replace the control board first when the real culprit is the flow sensor itself or a loose connector at the sensor. Always test the sensor wiring and inspect the inlet path for blockage before replacing the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

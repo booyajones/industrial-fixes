@@ -19,8 +19,6 @@ A squeaking noise from your GE dryer is not an error code. It is a mechanical no
 
 The most common sources are worn drum rollers, a worn idler pulley, a frayed or misaligned belt, a dry or worn rear drum bearing, or debris and foreign objects from pockets striking the drum or cabinet. Leveling and installation issues can also create squeaks and vibration noise. The fix involves locating the worn or rubbing part and replacing it.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Worn drum rollers or roller shafts** Rollers that are tight, wobbly, scratched, or noisy when spun by hand will squeak as the drum rotates and should be replaced as a set on the worn side.

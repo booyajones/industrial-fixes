@@ -14,8 +14,7 @@ money_part: "GA800 control board (PCB)"
 most_likely_cause: "Misread or mistyped fault code"
 ---
 
-## Yaskawa GA800 E39 Fault — What It Means
-
+## What this code means
 The E39 fault code cannot be verified in the Yaskawa GA800 installation or troubleshooting documentation provided by the manufacturer. The GA800 manual instructs technicians to record the exact fault or alarm code shown on the keypad display and use that code to identify the specific problem before attempting any reset or repair. If a code does not appear in the drive's supported fault list, the next step is to confirm the exact catalog model number from the drive nameplate and contact Yaskawa technical support with the model, serial number, and failure details.
 
 Because E39 is not a documented GA800 fault in the available sources, the code may be a display error, a misread (such as Er-39 or another variant), or a code from a different Yaskawa drive family. The general troubleshooting process for any GA800 fault is to determine whether the issue stems from the drive itself, external wiring, power supply problems, motor issues, or communication and option card faults by using the drive's elementary diagram and the displayed code.
@@ -23,8 +22,6 @@ Because E39 is not a documented GA800 fault in the available sources, the code m
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board when the issue is actually loose wiring or an incorrect parameter setting. Always verify the exact displayed code, check all power and motor connections, and consult the drive nameplate and manual before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -71,10 +68,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a qualified electrician or VFD technician immediately if the E39 code cannot be found in your GA800 manual, if the drive will not clear the fault after power-cycling, or if you are not trained to work safely on three-phase industrial equipment. VFD troubleshooting requires multimeter testing of live high-voltage terminals, verification of motor winding resistance and insulation, and sometimes oscilloscope analysis of gate drive signals or communication protocols. Because E39 is not a documented GA800 fault in the available sources, professional support from Yaskawa or an authorized service center is necessary to avoid misdiagnosis, prevent further damage to the drive or motor, and make sure compliance with electrical codes and safety standards.
-
-## See Also
-
-- [Yaskawa GA800 E09 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e09-fault-code/)
-- [Yaskawa GA800 E18 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e18-fault-code/)
-- [Yaskawa GA800 EF3 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f003-fault-code/)
-- [Yaskawa GA800 E23 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e23-fault-code/)

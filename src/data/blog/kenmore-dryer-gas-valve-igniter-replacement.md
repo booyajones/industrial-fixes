@@ -53,16 +53,16 @@ Common causes of igniter failure include age, physical damage from handling, cra
 
 If this part is failing you may also see one of these codes:
 
-- [Kenmore Dryer F01 error code](/posts/kenmore-dryer-f01-error-code/)
-- [Kenmore Dryer F20 error code](/posts/kenmore-dryer-f20-error-code/)
-- [Kenmore Dryer F22 error code](/posts/kenmore-dryer-f22-error-code/)
-- [Kenmore Dryer F23 error code](/posts/kenmore-dryer-f23-error-code/)
-- [Kenmore Dryer F26 error code](/posts/kenmore-dryer-f26-error-code/)
-- [Kenmore Dryer F28 error code](/posts/kenmore-dryer-f28-error-code/)
-- [Kenmore Dryer F29 error code](/posts/kenmore-dryer-f29-error-code/)
-- [Kenmore Dryer F30 error code](/posts/kenmore-dryer-f30-error-code/)
-- [Kenmore Dryer F31 error code](/posts/kenmore-dryer-f31-error-code/)
-- [Kenmore Dryer F70 error code](/posts/kenmore-dryer-f70-error-code/)
+- Kenmore Dryer F01 error code
+- Kenmore Dryer F20 error code
+- Kenmore Dryer F22 error code
+- Kenmore Dryer F23 error code
+- Kenmore Dryer F26 error code
+- Kenmore Dryer F28 error code
+- Kenmore Dryer F29 error code
+- Kenmore Dryer F30 error code
+- Kenmore Dryer F31 error code
+- Kenmore Dryer F70 error code
 
 ## When to Call a Pro
 

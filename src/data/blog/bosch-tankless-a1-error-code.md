@@ -20,8 +20,7 @@ free_checks:
 part_price: "$40-80 for air temperature sensor"
 ---
 
-## Bosch Tankless A1 Error — What It Means
-
+## What this code means
 On Bosch Home Comfort tankless water heaters (such as the Greentherm series), error code A1 indicates the air temperature inside the appliance cabinet has exceeded 158°F (70°C). The unit automatically limits power to prevent damage to internal components from overheating. This is different from Worcester Bosch boilers, where A1 refers to a circulation pump fault. For tankless units, the cabinet temperature sensor has detected excessive heat buildup that requires immediate attention.
 
 The fault typically points to a problem with ventilation, combustion gas containment, or environmental conditions. The heater will regulate its operation or shut down to protect itself until the underlying cause is corrected.
@@ -29,8 +28,6 @@ The fault typically points to a problem with ventilation, combustion gas contain
 ## Before You Replace Anything
 
 Homeowners often assume the air temperature sensor has failed and replace it first. Before buying a sensor, inspect the entire vent system for gaps, cracks, or improper sealing that allow combustion gases to escape into the cabinet.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

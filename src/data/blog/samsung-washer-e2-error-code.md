@@ -22,8 +22,7 @@ part_price: "$25-65"
 no_buy_pct: "65%"
 ---
 
-## Samsung Washer E2 Error Code — What It Means
-
+## What this code means
 Samsung's E2 code is model-dependent. On many front-load washers Samsung lists E2 (also shown as 5E or 5C) as a drain error, indicating the washer cannot empty water properly. On some other models Samsung lists E2 (also bE2, 6E2, BE2, or 8E2) as a jammed-button error, meaning a button is stuck or continuously pressed. Because Samsung uses the same code differently across models, you must check your exact model number and its error chart to confirm which variant applies to your machine.
 
 For the drain-error variant, typical causes include a clogged debris filter, kinked or improperly installed drain hose, a damaged pump impeller, or a loose pump terminal. For the jammed-button variant, the cause is a physically stuck button, contaminated control-panel switch, or damaged button assembly. External installation issues such as incorrect hose routing or wrong power supply can also trigger either fault, so Samsung explicitly advises verifying hose and electrical installation before replacing parts.
@@ -31,8 +30,6 @@ For the drain-error variant, typical causes include a clogged debris filter, kin
 ## Before You Replace Anything
 
 Many owners replace the drain pump when the real problem is a clogged debris filter or a kinked hose. Clean the filter and inspect the hose routing first before ordering a pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

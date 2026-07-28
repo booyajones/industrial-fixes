@@ -22,8 +22,7 @@ part_price: "$20-60"
 no_buy_pct: "25%"
 ---
 
-## Samsung Microwave C-d1 Error — What It Means
-
+## What this code means
 The C-d1 code on Samsung microwaves indicates a door locking fault. The control board has detected a problem with the door lock mechanism or the feedback switch circuit that confirms the lock position. This can mean the lock motor cannot move the latch, the door switch is stuck or failed, or the latch assembly itself is broken or obstructed.
 
 The microwave will typically not start or will display the code when you attempt to begin a cooking cycle. In some cases the door will not lock at all, or the lock will engage but the control does not recognize it. A power reset clears the code temporarily if it is a glitch, but if the hardware is faulty the code will return immediately or after the next lock attempt.
@@ -31,8 +30,6 @@ The microwave will typically not start or will display the code when you attempt
 ## Before You Replace Anything
 
 Some users replace the main control board when the real problem is a broken latch spring or a stuck door switch. Always test the lock motor and switch circuit with a meter before replacing the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

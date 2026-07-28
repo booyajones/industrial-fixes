@@ -13,11 +13,8 @@ money_part: "PowerFlex 40 replacement drive"
 most_likely_cause: "Motor nameplate amps not programmed"
 ---
 
-## Allen Bradley PowerFlex 40 F7 Fault — What It Means
-
+## What this code means
 The Allen Bradley PowerFlex 40 **F7 fault** is a **Motor Overload** (electronic overload protection) trip. The drive's built-in electronic overload relay monitors motor current over time using an I²t thermal model. When the accumulated thermal count exceeds 100%, F7 trips and the drive shuts down output to protect the motor from overheating. F7 is the most frequently seen fault on PowerFlex 40 drives in the field. It can be a real overload condition or a parameter mismatch where the drive thinks the motor is overloaded when it isn't.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ The Allen Bradley PowerFlex 40 **F7 fault** is a **Motor Overload** (electronic 
 ## When to Call a Pro
 
 If F7 persists after correcting P033 and the load runs freely with current below nameplate, the motor may have degraded insulation or a winding fault. A motor shop can perform a megohm test and winding resistance check to confirm.
-
-## Related Articles
-
-- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
-- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
-- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
-- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)
-- [Allen-Bradley PowerFlex 4M Fault Codes — F2, F4, F5, F7, F12 Fix Guide](/posts/allen-bradley-powerflex-4m-fault-codes/)
-
-## See Also
-
-- [Allen-Bradley PowerFlex Fault F002 — Causes & Fix](/posts/allen-bradley-powerflex-fault-f002/)
-- [Allen-Bradley PowerFlex F063 Fault — Phase Short Fix](/posts/allen-bradley-powerflex-f063-fault/)
-- [Allen Bradley PowerFlex 525 F005 Fault, Overvoltage Causes & Fix](/posts/allen-bradley-powerflex-525-fault-f005/)
-- [Allen-Bradley PowerFlex 70 Fault Codes: Complete Guide](/posts/allen-bradley-powerflex-70-faults/)

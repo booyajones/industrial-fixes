@@ -19,8 +19,6 @@ A burning smell from your Maytag dryer is not a fault code. It is a symptom that
 
 This is a fire-risk symptom. The most common path is to stop the dryer immediately, disconnect power, and clean all lint accumulation first. After that, inspect the drive belt, rollers, heater area, and electrical components for signs of friction, overheating, or damage.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Lint buildup in trap, housing, heater area, or vent** Lint contacting the heating element or restricting airflow is the most frequently reported cause and presents a fire hazard.
@@ -57,10 +55,10 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Maytag Dryer Err error code](/posts/maytag-dryer-err-error-code/)
 - [Maytag Dryer F01 error code](/posts/maytag-dryer-f01-error-code/)
-- [Maytag Dryer F02 error code](/posts/maytag-dryer-f02-error-code/)
+- Maytag Dryer F02 error code
 - [Maytag Dryer F1E1 error code](/posts/maytag-dryer-f1e1-error-code/)
 - [Maytag Dryer F1E3 error code](/posts/maytag-dryer-f1e3-error-code/)
-- [Maytag Dryer F1E4 error code](/posts/maytag-dryer-f1e4-error-code/)
+- Maytag Dryer F1E4 error code
 - [Maytag Dryer F1E5 error code](/posts/maytag-dryer-f1e5-error-code/)
 - [Maytag Dryer F20 error code](/posts/maytag-dryer-f20-error-code/)
 - [Maytag Dryer F22 error code](/posts/maytag-dryer-f22-error-code/)

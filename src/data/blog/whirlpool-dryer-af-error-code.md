@@ -17,8 +17,7 @@ money_part: "4-inch semi-rigid aluminum dryer duct"
 part_price: "$10-40"
 ---
 
-## Whirlpool Dryer AF Error Code — What It Means
-
+## What this code means
 The AF code on a Whirlpool dryer stands for airflow fault or airflow restriction. The dryer is reporting that hot, moist air is not moving through the exhaust system as expected. The control board detects this by comparing readings from the inlet and outlet thermistors. When those temperature readings are inconsistent, the dryer concludes that airflow is blocked or restricted and displays AF.
 
 In most cases, AF points to a venting problem rather than an internal dryer failure. The code can be triggered by a clogged lint screen, crushed flex duct behind the dryer, a blocked exterior vent hood, or excessive lint buildup in the internal blower housing. Less commonly, a faulty thermistor or a blower wheel that is not spinning properly will also cause AF even when the vent path looks clear.
@@ -26,8 +25,6 @@ In most cases, AF points to a venting problem rather than an internal dryer fail
 ## Before You Replace Anything
 
 Homeowners often replace the control board or thermistors before checking the vent system. Run a short test with the dryer vent disconnected from the back of the machine. If airflow is strong and AF clears, the house vent is the problem, not the dryer electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Yaskawa A1000 VFD Er-04 — What It Means
-
+## What this code means
 The Er-04 fault (often misread as AL-04) indicates a line-to-line resistance error during the auto-tuning process on a Yaskawa A1000 variable frequency drive. The drive detected a discrepancy in the motor's measured resistance between phases (T1) that does not match the expected values or the tuning process exceeded parameter limits. This is strictly a motor resistance and tuning fault, not an encoder or feedback error.
 
 The fault appears when the auto-tuning routine cannot validate the motor's electrical characteristics against the parameters you entered. It means either the motor nameplate data entered into the T1 parameters (resistance, voltage, rated current, horsepower) is incorrect, the motor wiring has a fault, or the motor itself has an internal problem causing resistance drift. The drive will not complete tuning until the mismatch is resolved.
@@ -29,8 +28,6 @@ The fault appears when the auto-tuning routine cannot validate the motor's elect
 ## Before You Replace Anything
 
 Do not replace the option card or control board for Er-04. This is a motor parameter and wiring fault. Verify the motor nameplate data and inspect all motor cable connections before replacing any drive components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or automation technician if you are not familiar with VFD parameter programming, motor nameplate interpretation, or electrical testing with a multimeter. High-voltage work on the drive input (line power) or output (motor cable) requires lockout/tagout procedures and proper PPE. If the fault persists after verifying nameplate data and wiring, a technician can perform megohmmeter testing on the motor windings, check for grounding faults, and determine whether the motor or drive needs replacement. Auto-tuning requires understanding of motor control theory to interpret results and troubleshoot edge cases. Professional service typically costs $150 to $400 for diagnosis, parameter correction, and re-tuning.
 
 **Rough cost:** A pro service call runs about $150-400 for wiring inspection, parameter correction, and re-tuning.
-
-## See Also
-
-- [Yaskawa GA800 E12 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e12-fault-code/)
-- [Yaskawa GA800 E07 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e07-fault-code/)
-- [Yaskawa GA800 oV Fault — DC Overvoltage Fix](/posts/yaskawa-ga800-error-ov/)
-- [Yaskawa GA800 E52 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e52-fault-code/)

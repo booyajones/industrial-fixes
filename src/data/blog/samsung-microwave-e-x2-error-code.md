@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Main control board (PCB assembly)"
 ---
 
-## Samsung E-X2 Microwave Error — What It Means
-
+## What this code means
 Samsung's E-X2 error code signals an additional short error somewhere in the microwave's control or communication circuitry. The manufacturer does not publish a detailed field-level diagnosis for this code in its public support documentation. The code indicates that the control board has detected an electrical short in one of its circuits, but Samsung does not specify which component or subsystem is affected.
 
 Samsung's official guidance is to perform a power reset and, if the fault persists, contact service rather than attempting further user-level troubleshooting. The code is not tied to a single published failure mode, so technician diagnosis is required to locate the actual shorted component or wiring fault.
@@ -25,8 +24,6 @@ Samsung's official guidance is to perform a power reset and, if the fault persis
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board without first inspecting connectors and harnesses for moisture, corrosion, or burnt terminals. Visually inspect all wiring and connectors before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Dryer F72 Error Code — What It Means
-
+## What this code means
 The F72 error code on a Kenmore dryer (Whirlpool-built platforms) indicates a user interface control assembly failure. The dryer has detected a problem with the user interface board itself or with the wiring between the main electronic control board and the UI board. This is not an airflow code. Whirlpool service documentation groups F72 through F78 as user interface control assembly faults.
 
 The code can appear after a power interruption or when the UI board or its connections fail. The dryer may refuse to start or may stop mid-cycle. A 5-minute power reset is the first step before diagnosing wiring or replacing control assemblies.
@@ -26,8 +25,6 @@ The code can appear after a power interruption or when the UI board or its conne
 ## Before You Replace Anything
 
 Many people replace the main electronic control board first, but the user interface board and its harness connections are the actual culprits most of the time. Inspect the harness and test the UI board before ordering the expensive main board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Range power cord"
 ---
 
-## Whirlpool Oven PF Error Code — What It Means
-
+## What this code means
 PF on a Whirlpool oven stands for Power Failure. The electronic control board detected that incoming power was interrupted or lost, even briefly. Whirlpool documentation confirms the display can be cleared by pressing Cancel, and on some models the time of day may need to be reset afterward.
 
 This is not an oven temperature fault or a sensor failure. The control simply recorded a supply dropout. Field technicians report that even a momentary voltage drop at the terminal block can trip PF, so verifying voltage at the appliance itself (not just at the wall outlet) is an important diagnostic step.
@@ -25,8 +24,6 @@ This is not an oven temperature fault or a sensor failure. The control simply re
 ## Before You Replace Anything
 
 Homeowners sometimes replace the electronic control board when PF keeps returning, but the real culprit is often a loose connection at the terminal block or a tripped breaker. Check and tighten cord connections and verify voltage at the appliance terminals before replacing the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

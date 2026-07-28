@@ -20,8 +20,7 @@ free_checks:
 part_price: "$90-150"
 ---
 
-## Electrolux Dryer E53 Error — What It Means
-
+## What this code means
 The E53 error on Electrolux and Frigidaire electric dryers signals a motor-state sensing fault. The control board expects the drive motor's internal centrifugal switch to change state when the motor spins up, but it's not seeing the correct feedback. This can mean the switch itself has failed, the wiring path is interrupted, or the control board's sensing circuit is damaged.
 
 Technician documentation describes E53 as "motor driven but sensing not congruent" or "centrifugal switch failure." The code is not primarily about airflow, thermistors, or heating elements, though those can occasionally contribute if they affect the motor circuit or supply voltage. The fault almost always points to the motor feedback loop: switch, harness, motor assembly, or main control board.
@@ -29,8 +28,6 @@ Technician documentation describes E53 as "motor driven but sensing not congruen
 ## Before You Replace Anything
 
 Many people replace the main control board first without checking the motor centrifugal switch or harness connections. Test the switch for correct open-to-closed transition and inspect all motor wiring before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

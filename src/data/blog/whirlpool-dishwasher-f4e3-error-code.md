@@ -16,8 +16,7 @@ money_part: "Whirlpool dishwasher circulation pump / wash motor assembly"
 part_price: "$100-200"
 ---
 
-## Whirlpool F4E3 Error Code — What It Means
-
+## What this code means
 The F4E3 error code on Whirlpool dishwashers signals that the control board is not detecting proper wash motor operation. The circulation pump, which sprays water through the spray arms during the wash cycle, is either not running, not being sensed correctly, or not being driven by the control. Whirlpool's dishwasher product support lists F4E3 as a dishwasher error and recommends a power reset as the first troubleshooting step.
 
 This fault means wash circulation is not occurring. The dishwasher may fill normally but then stop or fail to spray water. The code may appear immediately when the wash cycle should begin, or it may set after the control attempts to start the motor and does not see the expected feedback. The underlying problem lies in the circulation pump itself, the electrical path to it, or the control board's ability to command and monitor it.
@@ -25,8 +24,6 @@ This fault means wash circulation is not occurring. The dishwasher may fill norm
 ## Before You Replace Anything
 
 Many people replace the main control board first. Instead, remove the lower access panel and check the circulation pump for mechanical binding, debris in the impeller, or a burned-out motor before spending money on electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

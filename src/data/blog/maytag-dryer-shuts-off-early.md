@@ -19,8 +19,6 @@ A Maytag dryer that shuts off early is not usually tied to a specific fault code
 
 On many models there is no fault code at all. The dryer simply ends the cycle or stops because of a functional shutdown rather than a diagnostic error. The issue can appear in sensor cycles only or across all cycle types depending on the root cause.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Restricted venting or poor airflow** Lint blockage in the vent hose, wall duct, or exterior hood forces the dryer to overheat and shut down early or prevents proper drying and airflow for sensor operation.
@@ -57,10 +55,10 @@ Seeing a code on the display? These match this problem:
 
 - [Maytag Dryer Err error code](/posts/maytag-dryer-err-error-code/)
 - [Maytag Dryer F01 error code](/posts/maytag-dryer-f01-error-code/)
-- [Maytag Dryer F02 error code](/posts/maytag-dryer-f02-error-code/)
+- Maytag Dryer F02 error code
 - [Maytag Dryer F1E1 error code](/posts/maytag-dryer-f1e1-error-code/)
 - [Maytag Dryer F1E3 error code](/posts/maytag-dryer-f1e3-error-code/)
-- [Maytag Dryer F1E4 error code](/posts/maytag-dryer-f1e4-error-code/)
+- Maytag Dryer F1E4 error code
 - [Maytag Dryer F1E5 error code](/posts/maytag-dryer-f1e5-error-code/)
 - [Maytag Dryer F20 error code](/posts/maytag-dryer-f20-error-code/)
 - [Maytag Dryer F22 error code](/posts/maytag-dryer-f22-error-code/)

@@ -13,13 +13,10 @@ money_part: "Soft-charge bypass relay/contactor for GA800"
 most_likely_cause: "Failed or worn soft-charge bypass relay/contactor"
 ---
 
-## Yaskawa GA800 E19 Fault — What It Means
-
+## What this code means
 The E19 fault on a Yaskawa GA800 VFD means the drive did not receive the expected confirmation signal that the soft-charge bypass relay or contactor closed properly during the precharge and startup sequence. The soft-charge circuit protects the drive by gradually charging the DC bus capacitors before applying full voltage. When the relay is supposed to close and bypass the precharge resistors, the drive monitors for an "answerback" signal to confirm the action happened. If that signal is missing or incorrect, the drive halts and displays E19.
 
 This fault typically points to a problem with the soft-charge bypass relay itself (worn contacts, coil failure, or reaching its maintenance life limit), a control board issue that prevents proper sensing or output, or internal drive damage. The GA800 tracks relay cycles in parameter U4-06 [PreChargeRelayMainte], which can help identify if the relay has reached the end of its service life. The fault may appear intermittently at first and become persistent as the component degrades.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ This fault typically points to a problem with the soft-charge bypass relay itsel
 ## When to Call a Pro
 
 Call a qualified technician or Yaskawa-authorized service provider if the fault repeats after re-energizing, if you are not trained in VFD diagnostics and high-voltage work, or if replacing the soft-charge relay and control board does not clear the code. The GA800 maintenance documentation explicitly limits user-serviceable repairs to fan and control board replacement, so deeper internal faults require factory support or a complete drive replacement. Any work on VFDs involves lethal DC bus voltages that can persist long after input power is removed, so lockout/tagout and proper discharge verification are mandatory before opening the enclosure.
-
-## See Also
-
-- [Yaskawa GA800 E86 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e86-fault-code/)
-- [Yaskawa GA800 E46 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e46-fault-code/)
-- [Yaskawa GA800 E25 Fault - Causes & Fix](/posts/yaskawa-ga800-e25-fault-code/)
-- [Yaskawa U1000 Fault Codes: Complete Guide](/posts/yaskawa-u1000-fault-codes/)

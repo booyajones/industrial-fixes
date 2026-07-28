@@ -13,11 +13,8 @@ money_part: "C-wire adapter (PEK)"
 most_likely_cause: "Furnace or air handler is locked out"
 ---
 
-## ecobee E1 Error — What It Means
-
+## What this code means
 The ecobee SmartThermostat displays an E1 alert when it detects a heating system fault — specifically, when the thermostat sends a call for heat (energizes the W terminal) but the indoor temperature fails to rise within the expected time window. ecobee monitors the temperature trend after a heat call; if the temperature drops or stays flat for too long, it concludes the heating equipment has failed and displays E1 as a diagnostic alert. E1 is ecobee's way of saying "I called for heat, and heat didn't come."
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -19,8 +19,6 @@ A Frigidaire dishwasher that won't start is a symptom, not a single fault code. 
 
 If the display is blank or unresponsive with no code showing, Frigidaire points first to the door not being closed and latched successfully. The unit will not begin any cycle until it detects a secure latch signal. Power interruptions or stuck buttons on the touch panel can also mimic a locked or dead control.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Delay Start is active (01–24 on display)** The dishwasher is waiting for the countdown to reach zero before it begins the cycle.

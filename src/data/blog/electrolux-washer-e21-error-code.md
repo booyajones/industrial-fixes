@@ -22,8 +22,7 @@ part_price: "$30-60"
 no_buy_pct: "60%"
 ---
 
-## Electrolux Washer E21 Error Code — What It Means
-
+## What this code means
 The E21 error code tells you the control board has detected that water is not being pumped out of the wash tub fast enough. The drain cycle has exceeded the manufacturer's expected time limit for emptying the tub, triggering a long pump-out or long drain fault. This code appears most often on front-loading Electrolux washers and is functionally identical to E21 codes on similar brands like Bosch and Samsung.
 
 The fault indicates a drainage failure where the control board sees the water level is not dropping at the required rate. It does not necessarily mean the pump itself is bad. In most cases, the pump is working but cannot move water because of a blockage somewhere in the drain path.
@@ -32,30 +31,12 @@ The fault indicates a drainage failure where the control board sees the water le
 
 Many people replace the drain pump when the real issue is a clogged filter or kinked hose. Before ordering a pump, remove and clean the filter and inspect the drain hose end to end.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Clogged drain filter (~60%)** Lint, coins, and small debris accumulate in the filter and block water flow out of the tub.
-- **Blocked or kinked drain hose (~25%)** Soap buildup inside the hose, external obstructions, or sharp bends restrict drainage.
-- **Faulty drain pump (~10%)** The pump motor has failed or the impeller is jammed with debris and cannot spin freely.
-- **Electrical or sensor malfunction (~5%)** Bad wiring connections, broken harness wires, or a defective control board prevent proper pump operation.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Can you hear the drain pump running during the drain cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The pump is getting power but water is not moving. Check the filter and hose for blockages first.<br><strong>No:</strong> The pump may not be receiving voltage or is seized. Test the pump and wiring harness connections next.</div>
-</details>
-
-<details class="dtree"><summary>Does the drain pump impeller spin freely by hand with a springing motion?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The pump mechanics are fine. Focus on the filter, hose, and electrical connections.<br><strong>No:</strong> The impeller is jammed with debris or the pump is mechanically failed. Clean or replace the pump.</div>
-</details>
-
-<details class="dtree"><summary>Is the drain hose installed at the correct height (60-90 cm from the floor) with no sharp bends?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Hose installation is good. Move on to testing the pump itself and checking wiring.<br><strong>No:</strong> Adjust the hose height and straighten any kinks. Incorrect installation can cause slow drainage even with a working pump.</div>
-</details>
+- **Clogged drain filter** Lint, coins, and small debris accumulate in the filter and block water flow out of the tub.
+- **Blocked or kinked drain hose** Soap buildup inside the hose, external obstructions, or sharp bends restrict drainage.
+- **Faulty drain pump** The pump motor has failed or the impeller is jammed with debris and cannot spin freely.
+- **Electrical or sensor malfunction** Bad wiring connections, broken harness wires, or a defective control board prevent proper pump operation.
 
 ## Step-by-Step Fix {#fix}
 
@@ -78,5 +59,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a pro if you have cleaned the filter and hose, verified the pump impeller spins freely, and tested the wiring but the E21 code persists. A technician can perform precise voltage and continuity tests on the harness and control board to isolate electrical faults. Also call if you are uncomfortable tipping the washer onto its back to access the underside filter, or if you need help tracing wiring inside the cabinet. If the control board replacement does not resolve the error, the issue may involve a defective water-level sensor or pressure switch that requires diagnostic tools.
-
-**Rough cost:** DIY runs about $15-50 in parts (if pump needed), 30-60 min. A pro service call runs about $150-250.

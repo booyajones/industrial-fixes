@@ -13,11 +13,8 @@ money_part: "Pressure switch"
 most_likely_cause: "Clogged condensate drain or trap"
 ---
 
-## American Standard Furnace 3 Flash Error Code — What It Means
-
+## What this code means
 Three LED flashes on an American Standard furnace indicates a pressure switch fault. The pressure switch proves that the draft inducer motor is creating adequate negative pressure in the heat exchanger before allowing the gas valve to open. If the switch does not close during the inducer pre-purge period, the board will not proceed to ignition. Three flashes tells you that pressure switch closed late, opened during operation, or did not close at all.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,11 +44,3 @@ Three LED flashes on an American Standard furnace indicates a pressure switch fa
 ## When to Call a Pro
 
 If the inducer is producing correct pressure but the fault persists, or if you suspect a cracked heat exchanger is allowing flue gases to affect inducer suction, call a certified HVAC technician. A cracked heat exchanger is a carbon monoxide risk that requires professional diagnosis.
-
-## Related Articles
-
-- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
-- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
-- [Armstrong Furnace E4 Error Code — Causes & Fix](/posts/armstrong-furnace-e4-error-code/)

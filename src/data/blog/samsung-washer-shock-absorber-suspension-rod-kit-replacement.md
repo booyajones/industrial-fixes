@@ -52,16 +52,16 @@ When suspension rods fail, the mechanical integrity of the tub suspension is los
 
 If this part is failing you may also see one of these codes:
 
-- [Samsung Washer 1C error code](/posts/samsung-washer-1c-error-code/)
-- [Samsung Washer 4C error code](/posts/samsung-washer-4c-error-code/)
-- [Samsung Washer 5E error code](/posts/samsung-washer-5e-error-code/)
+- Samsung Washer 1C error code
+- Samsung Washer 4C error code
+- Samsung Washer 5E error code
 - [Samsung Washer Ae error code](/posts/samsung-washer-ae-error-code/)
-- [Samsung Washer Bc error code](/posts/samsung-washer-bc-error-code/)
+- Samsung Washer Bc error code
 - [Samsung Washer Bc1 error code](/posts/samsung-washer-bc1-error-code/)
-- [Samsung Washer Be error code](/posts/samsung-washer-be-error-code/)
-- [Samsung Washer Be0 error code](/posts/samsung-washer-be0-error-code/)
+- Samsung Washer Be error code
+- Samsung Washer Be0 error code
 - [Samsung Washer Be1 error code](/posts/samsung-washer-be1-error-code/)
-- [Samsung Washer Be2 error code](/posts/samsung-washer-be2-error-code/)
+- Samsung Washer Be2 error code
 
 ## When to Call a Pro
 

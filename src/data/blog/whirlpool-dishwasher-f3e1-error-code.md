@@ -17,8 +17,7 @@ money_part: "Whirlpool dishwasher OWI sensor"
 part_price: "$30-80"
 ---
 
-## Whirlpool Dishwasher F3E1 Error — What It Means
-
+## What this code means
 The F3E1 code on a Whirlpool dishwasher indicates the control board has detected an abnormal reading from the water sensing system. This fault is tied to the thermistor and the OWI (Optical Water Indicator, also called the turbidity sensor) rather than a simple drain or pump issue. The machine is not receiving a valid water-level, water-temperature, or turbidity signal during operation.
 
 Do not confuse this dishwasher code with the same F3E1 code on Whirlpool washers, which refers to a pressure sensor or pressure switch problem. For dishwashers, Whirlpool-specific repair documentation points to the thermistor and OWI sensor circuit as the source of the fault. The code can appear at startup or mid-cycle when the control cannot verify water conditions inside the tub.
@@ -26,8 +25,6 @@ Do not confuse this dishwasher code with the same F3E1 code on Whirlpool washers
 ## Before You Replace Anything
 
 Many people replace the control board first. Start by inspecting the thermistor and OWI sensor harness for loose or corroded connectors and checking the sump area for debris, which are far cheaper fixes.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,11 +13,8 @@ money_part: "Flame sensor"
 most_likely_cause: "Dirty flame sensor"
 ---
 
-## Rheem Furnace 7 Flashes Error Code — What It Means
-
+## What this code means
 A Rheem furnace flashing **7 times** indicates a **low flame sense signal**. The burners may ignite, but the control board is not receiving a strong enough microamp signal from the flame sensor to prove stable combustion. When that signal drops below the board's threshold, the gas valve shuts and the furnace retries or locks out. This is a common service call on Rheem and Ruud furnaces and is often caused by a dirty flame sensor, weak grounding, or unstable burner flame.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ A Rheem furnace flashing **7 times** indicates a **low flame sense signal**. The
 ## When to Call a Pro
 
 If the flame signal is still low after cleaning the sensor and burners, the issue may be gas pressure, board sensitivity, or grounding through the burner rack. A licensed HVAC tech can measure inlet and manifold pressure and verify the flame rectification circuit.
-
-## Related Articles
-
-- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
-- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
-- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)
-- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
-- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)
-
-## See Also
-
-- [Rheem Furnace Error Code 57 — Causes & Fix](/posts/rheem-furnace-error-code-57/)
-- [Rheem Furnace 6 Flashes — Rollout Switch Open Fix](/posts/rheem-furnace-6-flashes/)
-- [Rheem Water Heater Blinking Light Codes — What Each Flash Means and How to Fix It](/posts/rheem-water-heater-blinking-light-codes/)
-- [Rheem RA14 Heat Pump Error Codes - What It Means and How to Fix It](/posts/rheem-ra14-heat-pump-error-codes/)

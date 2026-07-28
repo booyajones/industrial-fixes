@@ -15,15 +15,12 @@ money_part: "Oven temperature sensor (thermistor)"
 most_likely_cause: "Model-specific code not documented"
 ---
 
-## LG Range FE Error Code — What It Means
-
+## What this code means
 LG does not publish a single universal meaning for FE on its ranges. The error code list for LG ranges is model-dependent, and the manufacturer's online range code reference does not include an FE entry in the general documentation. If you see FE on your LG range display, locate the exact model number on the rating label and consult that model's service manual or the LG range error-code page for your product family, because meanings vary. On other LG appliances (washers and dishwashers), FE indicates a fill or overflow error related to abnormal water-level sensing, but this meaning does not transfer to ranges.
 
 ## Before You Replace Anything
 
 Because FE is not a documented LG range code, do not replace any part until you verify the exact code meaning for your model. Confirm the display shows FE and not a similar code (such as F or E followed by another digit), and check the printed service sheet inside the control panel or lower kick plate for model-specific codes before ordering sensors or boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -71,10 +68,3 @@ Answer these to narrow it down fast.
 Call a qualified appliance technician immediately if you cannot locate a service sheet or owner's manual that lists FE for your range model, if the code locks out all oven functions, or if you are uncomfortable working behind live control panels. Ranges operate on 240 V in North America, and misdiagnosing the fault can lead to expensive part swaps (control boards often cost $200–400) when the real issue is a loose connector or a non-existent code caused by a display glitch. A technician has access to LG's internal service database and can retrieve model-specific code tables, wiring diagrams, and any technical service bulletins that clarify ambiguous or undocumented codes.
 
 **Rough cost:** A pro service call runs about $150–350.
-
-## See Also
-
-- [LG Range E1 Error Code - Causes & Fix](/posts/lg-range-e1-error-code/)
-- [LG Dryer Takes Too Long to Dry - Causes & Fix](/posts/lg-dryer-takes-too-long-to-dry/)
-- [LG Refrigerator Running Constantly - Causes & Fix](/posts/lg-refrigerator-running-constantly/)
-- [LG Mini-Split CH24 Error - Causes & Fix](/posts/lg-mini-split-ch24-error-code/)

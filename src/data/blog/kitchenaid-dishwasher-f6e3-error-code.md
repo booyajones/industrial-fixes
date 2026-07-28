@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## KitchenAid Dishwasher F6E3 Error — What It Means
-
+## What this code means
 The F6E3 error code on a KitchenAid dishwasher means the machine has detected foam or suds in the tub. When suds are present, the dishwasher may not operate properly or may not fill with water. The suds-detection system triggers this code to prevent damage and poor wash results.
 
 KitchenAid identifies this as a suds or foam condition rather than a hard electrical failure. The code points first to detergent-use issues. In practice, the root issue is almost always chemical sudsing from the wrong detergent, too much detergent, or a missing rinse-aid cap. A failed sensor or control board is only suspected if the code persists after the tub is fully de-sudsed and correct detergent practices are followed.
@@ -25,8 +24,6 @@ KitchenAid identifies this as a suds or foam condition rather than a hard electr
 ## Before You Replace Anything
 
 Many people replace the control board or pressure sensor when F6E3 appears. First confirm suds are actually present in the tub and run the oil-and-empty-cycle cleanup before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

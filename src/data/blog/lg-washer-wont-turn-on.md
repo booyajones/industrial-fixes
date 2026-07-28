@@ -19,8 +19,6 @@ When an LG washer won't turn on, the machine is not receiving usable line power 
 
 The vast majority of no-power symptoms trace back to the circuit feeding the washer or the connection between the outlet and the machine. Internal component failure is less common and only considered after external power is verified good.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Tripped circuit breaker or home power outage** The breaker feeding the washer has tripped or lost power entirely.

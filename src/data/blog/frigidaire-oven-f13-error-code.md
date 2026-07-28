@@ -16,8 +16,7 @@ money_part: "Electronic oven control board (EOC)"
 part_price: "$150-300"
 ---
 
-## Frigidaire F13 Error Code — What It Means
-
+## What this code means
 Frigidaire's F13 error on ranges and ovens indicates a control-memory fault. Frigidaire documents it as "E Prompt Failure" on range error-code guides and "EEPROM Failure" on electric range support articles. In practical terms, the electronic control cannot reliably read or validate its stored program data, so the appliance may not operate normally or may stop functioning entirely.
 
 The fault usually stems from a temporary control glitch after a power surge or interruption, or from a failed main control board with corrupted EEPROM data. On some models with a separate user-interface board, poor connector contact or a damaged ribbon cable between the control and display can also trigger F13.
@@ -25,8 +24,6 @@ The fault usually stems from a temporary control glitch after a power surge or i
 ## Before You Replace Anything
 
 Many people replace the display or keypad assembly first. Inspect and reseat all ribbon cables and connectors between the control board and display before replacing any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

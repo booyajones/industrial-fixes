@@ -19,8 +19,6 @@ Water pooling under your LG refrigerator means liquid is escaping the normal dra
 
 This is a symptom, not a displayed error code. LG refrigerators rarely show codes for water leaks unless a sensor tied to the defrost system fails separately. The water you see is either defrost runoff that cannot drain properly or supply water escaping before it reaches the dispenser or ice maker.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Frozen or clogged defrost drain tube** Ice, food particles, or mold block the tube that carries melted frost to the drain pan, causing water to overflow onto the floor instead.
@@ -70,10 +68,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 If clearing the drain tube does not stop the leak or if water reappears within a few days, the defrost heater or thermostat may be failing and causing repeated freeze-ups. Call a tech if you find active leaks inside the door cavity or behind sealed panels, as this requires disassembly of the hinge and internal water routing. Also call a pro if the evaporator coils have visible frost buildup that does not clear after a manual defrost, which points to a defrost cycle control issue that needs electronic diagnosis.
-
-## See Also
-
-- [LG Dryer tE3 Error Code - Causes & Fix](/posts/lg-dryer-te3-error-code/)
-- [LG Washer Main Control Board Replacement - Signs & How-To](/posts/lg-washer-main-control-board-pcb-replacement/)
-- [LG Refrigerator gF Error Code - Causes & Fix](/posts/lg-refrigerator-gf-error-code/)
-- [LG Washer IE Error Code - Causes & Fix](/posts/lg-washer-ie-error-code/)

@@ -16,8 +16,7 @@ likelihood: "often cited as the weak link in modern Daikin systems"
 diy_or_pro: "pro"
 ---
 
-## Daikin E6 Error Code — What It Means
-
+## What this code means
 The Daikin E6 error code indicates the standard compressor has detected an overcurrent condition or a mechanical lock during operation. The system measures compressor current draw (typically 5.1 A to 15 A for standard compressors) and throws E6 when the current exceeds the normal range or the compressor cannot rotate freely. This is strictly a compressor power or lock fault, not a communication error (unlike some other brands where E6 means communication failure).
 
 The fault can stem from a mechanical problem inside the compressor itself, a defective outdoor inverter board misreading the current sensor, or an unbalanced power supply causing one phase to spike. In rare cases on VRF systems it can also indicate refrigerant shortage or expansion valve issues, but on standard mini-splits it is almost exclusively a compressor overcurrent or lock fault.
@@ -25,8 +24,6 @@ The fault can stem from a mechanical problem inside the compressor itself, a def
 ## Before You Replace Anything
 
 Many technicians replace the compressor when the inverter board is actually at fault. The isolation test (disconnecting the wire on the secondary side of the magnetic switch and powering on) shows whether the board or the compressor is responsible. If E6 persists with the compressor disconnected, the board is defective.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician immediately. The E6 error involves high-voltage work, refrigerant system diagnostics, and compressor testing that require EPA certification and specialized tools (mega tester, inverter analyzer, refrigerant gauges). The isolation test and voltage checks are not safe for homeowners without electrical training. Misdiagnosis is common because the symptoms of a bad inverter board and a locked compressor overlap. A qualified tech will perform the step-by-step isolation protocol to avoid replacing a working compressor when the board is at fault, or vice versa. If the power supply is unbalanced, coordinate with an electrician before any HVAC repairs.
 
 **Rough cost:** A pro service call runs about $200-600.
-
-## See Also
-
-- [Daikin E5 Error Code - Causes & Fix](/posts/daikin-e5-error-code/)
-- [Daikin J3 Error Code — Discharge Pipe Temperature Sensor Fault Fix](/posts/daikin-j3-error-code/)
-- [Daikin A9 Error Code - Causes & Fix](/posts/daikin-mini-split-a9-error-code/)
-- [Daikin U2 Error Code - Causes & Fix](/posts/daikin-mini-split-u2-error-code/)

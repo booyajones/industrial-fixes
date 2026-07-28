@@ -18,8 +18,7 @@ free_checks:
   - "Check drive monitor parameter U4-06 (relay life). If the value is above 90%, the soft-charge relay is at end of life and the drive needs replacement or a new power board."
 ---
 
-## Yaskawa A1000 Uv3 Fault — What It Means
-
+## What this code means
 Uv3 on a Yaskawa A1000 is an Undervoltage 3 / Soft-Charge Circuit Fault. The drive has detected a problem in the internal precharge or inrush-prevention bypass path. When you first apply power to a VFD, a resistor limits the surge of current into the DC bus capacitors. After a few milliseconds, a relay or contactor closes to bypass that resistor and allow normal current flow. Uv3 means that relay has failed to close, the bypass circuit is damaged, or the relay contacts are worn out.
 
 This is an internal drive power-stage fault, not a motor overload or a field wiring issue. In most cases, the soft-charge relay itself cannot be serviced as a standalone part in the field. The practical repair is replacement of the control board, the power board assembly, or the entire drive, depending on the severity and age of the unit.
@@ -27,8 +26,6 @@ This is an internal drive power-stage fault, not a motor overload or a field wir
 ## Before You Replace Anything
 
 Technicians sometimes suspect incoming line voltage or a tripped breaker because the fault name includes 'undervoltage,' but Uv3 is almost always an internal relay or power-board fault. Check the drive's relay-life monitor U4-06 before ordering external line conditioners or transformers.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician immediately. Uv3 is an internal power-stage fault that requires working inside a high-voltage variable-frequency drive. The DC bus can hold lethal voltage even after input power is removed. Incorrect handling can destroy the new power board, create an arc-flash hazard, or leave the drive in an unsafe state. A technician will safely discharge the bus, verify the relay-life monitor, inspect the power board under proper lockout, and install the correct replacement board or drive for your horsepower and voltage. If your facility does not have a qualified drive repair shop on staff, contact a Yaskawa authorized service center or an experienced motor-control integrator.
 
 **Rough cost:** A pro service call runs about $800-2500 for power board replacement or complete drive swap, 1-3 hours labor.
-
-## See Also
-
-- [Yaskawa GA800 E92 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e92-fault-code/)
-- [Yaskawa GA800 E32 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e32-fault-code/)
-- [Yaskawa GA800 VFD A.126 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-126-fault-code/)
-- [Yaskawa GA800 E26 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e26-fault-code/)

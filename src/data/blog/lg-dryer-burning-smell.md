@@ -19,8 +19,6 @@ A burning smell in an LG dryer is a symptom, not an error code. LG says a burnin
 
 The most common field causes are lint buildup, blocked venting, a slipping belt, overheated motor, stuck rollers or idler, blower problems, heating element overheating, thermostat or thermal fuse faults, wiring faults, or control board damage. Unplug the dryer immediately if the smell is strong, smoky, or electrical.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Lint accumulation in filter housing or cabinet** Lint in the lint filter housing, inside the cabinet, or around the heater area can overheat and smell like burning.
@@ -55,26 +53,19 @@ The most common field causes are lint buildup, blocked venting, a slipping belt,
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Lg Dryer Add error code](/posts/lg-dryer-add-error-code/)
-- [Lg Dryer D75 error code](/posts/lg-dryer-d75-error-code/)
-- [Lg Dryer D80 error code](/posts/lg-dryer-d80-error-code/)
-- [Lg Dryer D90 error code](/posts/lg-dryer-d90-error-code/)
-- [Lg Dryer D95 error code](/posts/lg-dryer-d95-error-code/)
-- [Lg Dryer De error code](/posts/lg-dryer-de-error-code/)
-- [Lg Dryer De1 error code](/posts/lg-dryer-de1-error-code/)
-- [Lg Dryer E00 error code](/posts/lg-dryer-e00-error-code/)
-- [Lg Dryer E1 error code](/posts/lg-dryer-e1-error-code/)
-- [Lg Dryer E13 error code](/posts/lg-dryer-e13-error-code/)
-- [Lg Dryer E4 error code](/posts/lg-dryer-e4-error-code/)
-- [Lg Dryer F0 error code](/posts/lg-dryer-f0-error-code/)
+- Lg Dryer Add error code
+- Lg Dryer D75 error code
+- Lg Dryer D80 error code
+- Lg Dryer D90 error code
+- Lg Dryer D95 error code
+- Lg Dryer De error code
+- Lg Dryer De1 error code
+- Lg Dryer E00 error code
+- Lg Dryer E1 error code
+- Lg Dryer E13 error code
+- Lg Dryer E4 error code
+- Lg Dryer F0 error code
 
 ## When to Call a Pro
 
 Call a qualified appliance technician if the smell persists after cleaning the lint filter and vent system, if you see burn marks or melted wiring, or if the odor is electrical or smoky. Heating element, motor, control board, and gas burner or igniter work on gas models should be handled by a professional with the service manual and test equipment for your specific LG model. Stop using the dryer until the source of the burning smell is identified and repaired.
-
-## See Also
-
-- [LG CH 26 Error Code - Causes & Fix](/posts/lg-mini-split-ch-26-error-code/)
-- [LG Dryer LE2 Error Code - Causes & Fix](/posts/lg-dryer-le2-error-code/)
-- [LG Mini Split CH33 Error Code - Causes & Fix](/posts/lg-mini-split-ch33-error-code/)
-- [LG Microwave Not Heating - Causes & Fix](/posts/lg-microwave-not-heating/)

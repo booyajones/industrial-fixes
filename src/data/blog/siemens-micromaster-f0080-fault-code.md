@@ -13,11 +13,8 @@ money_part: "Potentiometer or analog setpoint source"
 most_likely_cause: "Open or loose analog wiring"
 ---
 
-## Siemens Micromaster F0080 — What It Means
-
+## What this code means
 F0080 on a Siemens Micromaster 420 or 440 drive means the inverter has lost the analog setpoint signal at its configured input. The drive expects a valid control signal (typically 0–10 V DC or a current loop) from an external source like a potentiometer, PLC, or controller, and when that signal disappears or falls out of range the inverter trips on STOP II to protect itself. This fault does not mean the drive hardware is damaged, it means the drive cannot see the command it needs to run.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,10 +44,3 @@ F0080 on a Siemens Micromaster 420 or 440 drive means the inverter has lost the 
 ## When to Call a Pro
 
 Call a qualified technician if you have confirmed the analog signal is correct at the drive terminals (verified with a meter) but the F0080 fault still appears, or if you are not comfortable working with low-voltage DC wiring and parameter configuration in industrial drives. Also call for help if you do not have the wiring diagrams and parameter manual for your specific Micromaster model, or if the fault persists after you have repaired the wiring and verified the source. A professional can load the correct parameter set, test the drive input circuitry with calibrated equipment, and replace the I/O board or complete inverter if the analog input hardware has failed.
-
-## See Also
-
-- [Siemens Micromaster F0023 - Causes & Fix](/posts/siemens-micromaster-f0023-fault-code/)
-- [Siemens SENTRON 3WL/3VA Fault Codes — Troubleshooting Guide](/posts/siemens-sentron-fault-codes/)
-- [Siemens G120 F01659 - Causes & Fix](/posts/siemens-g120-f01659-fault-code/)
-- [Siemens G120 A05000 Alarm - Causes & Fix](/posts/siemens-g120-vfd-a05000-fault-code/)

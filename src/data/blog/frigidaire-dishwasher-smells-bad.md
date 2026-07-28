@@ -19,8 +19,6 @@ A smelly Frigidaire dishwasher is not a fault code. Frigidaire treats it as a cl
 
 Common odor sources include food debris in the filter or sump, blocked drain paths with standing water, clogged spray arm holes, dirty door seals holding grime, and lack of regular use that allows residue to sit and grow odor-causing bacteria. Frigidaire's own guidance says to address odor by cleaning the dishwasher, which confirms the problem is normally residue and buildup rather than a component failure.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Food or debris trapped in the filter or sump area** The most common source of dishwasher odor is food particles and grease collecting in the filter or drain sump where they decompose and smell.

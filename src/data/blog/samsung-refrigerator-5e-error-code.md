@@ -17,8 +17,7 @@ money_part: "Samsung refrigerator defrost thermistor (sensor)"
 part_price: "$15-40"
 ---
 
-## Samsung 5E/SE Refrigerator Error — What It Means
-
+## What this code means
 In most Samsung refrigerators the 5E or SE code indicates the control board is not receiving a valid signal from the defrost sensor (thermistor) in the evaporator circuit. Samsung's own documentation sometimes also lists 1E, 5E, and SE as a power-interruption or system-reset condition, so technicians first verify whether the code clears with a reset or returns. Because Samsung uses different code families across model lines, the exact meaning must be confirmed from your model's service manual or tech sheet. In the field the most common interpretation is a defrost thermistor problem in the fresh-food or evaporator section.
 
 If the code persists after a power reset, the fault is usually in the sensor itself, its harness connector, or conditions around the sensor such as moisture, frost buildup, or ice interference rather than a one-time power glitch. The control expects a specific resistance range from the thermistor to monitor defrost cycles, and when the signal is missing, shorted, or open the 5E/SE code appears.
@@ -26,8 +25,6 @@ If the code persists after a power reset, the fault is usually in the sensor its
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when the real problem is a bad sensor or corroded connector. Always test the defrost thermistor with a multimeter for open or shorted readings before buying a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -55,11 +55,3 @@ Measure current on all three phases. Unbalanced voltage or a heavy air demand ca
 
 ## When to Call a Pro
 Repeated shutdowns after service and parts replacement indicate airend wear or a control system issue. Chicago Pneumatic authorized service dealers can run diagnostic routines and check airend efficiency.
-
-## Related Articles
-
-- [Air Compressor Fault Codes: Complete Guide](/posts/air-compressor-fault-codes/)
-- [Atlas Copco Air Compressor Fault Codes — Complete Guide](/posts/atlas-copco-compressor-fault-codes/)
-- [BOGE Air Compressor Error Codes - Complete Guide](/posts/boge-compressor-error-codes/)
-- [CompAir Air Compressor Fault Codes - Complete Guide](/posts/compair-compressor-fault-codes/)
-- [Copeland Compressor Error Code 1 — High Pressure Cutout Fix](/posts/copeland-compressor-error-code-1/)

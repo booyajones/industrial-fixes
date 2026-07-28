@@ -21,8 +21,7 @@ free_checks:
 part_price: "$150-220"
 ---
 
-## Electrolux Dryer EA3 Error Code — What It Means
-
+## What this code means
 The EA3 code on an Electrolux IQ-Touch dryer means the control has detected incoming line voltage below 90 VAC at the dryer's supply. This is a power-supply-side fault, not a heating element or sensor problem. The dryer is reporting that it is not receiving enough voltage from your house electrical system to operate safely.
 
 Electrolux groups EA3 under power supply issues and recommends checking the electrical supply first. The code fires when the measured voltage drops below the 90-volt threshold, whether from utility brownout, damaged wiring, poor connections at the terminal block, or a failing control board that misreads normal voltage.
@@ -30,8 +29,6 @@ Electrolux groups EA3 under power supply issues and recommends checking the elec
 ## Before You Replace Anything
 
 Many people replace the electronic control board without measuring the actual supply voltage first. Always use a multimeter at the terminal block and outlet to confirm whether voltage is truly low before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

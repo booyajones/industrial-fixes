@@ -17,8 +17,7 @@ money_part: "Whirlpool washer shift actuator or tachometer assembly"
 part_price: "$30-80"
 ---
 
-## Whirlpool Washer F7 E1 Error Code — What It Means
-
+## What this code means
 For most Whirlpool top-load washers, F7 E1 indicates a motor speed sensing error. The control board is not receiving the expected speed or rotation feedback from the drive system, so the washer cannot verify basket or motor speed during the cycle. Some sources describe this as a tachometer missing or wrong signal fault, which is the same underlying problem.
 
 The control expects a feedback signal from the shift actuator or tachometer assembly to confirm the motor and basket are accelerating and spinning at the correct speed. When that signal is absent, intermittent, or out of range, the control halts the cycle and displays F7 E1. The fault can stem from installation issues, overload, a failed sensor or capacitor, loose wiring, or less commonly a motor or control board problem.
@@ -26,8 +25,6 @@ The control expects a feedback signal from the shift actuator or tachometer asse
 ## Before You Replace Anything
 
 Homeowners often replace the main control board or motor first. Before ordering expensive parts, unplug the washer for at least one minute to reset the control and verify that shipping bolts are removed and all wiring connectors at the motor and shift actuator are fully seated and free of corrosion.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

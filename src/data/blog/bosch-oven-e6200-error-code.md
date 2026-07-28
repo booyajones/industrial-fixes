@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Bosch Oven E6200 Error Code — What It Means
-
+## What this code means
 E6200 is a fan-related fault code on Bosch ovens. Independent Bosch and Siemens troubleshooting guidance identifies E6200 as a problem with the fan in the oven. The fault typically appears when you start a convection or CircoTherm mode and the oven stops heating. The error points to a failure in the convection fan circuit, which can include the fan motor, the fan blade, the wiring and connectors that supply power to the fan, or the control board output that drives the fan.
 
 The code does not indicate a heating element or temperature sensor problem. Field reports from Bosch and Neff ovens confirm the fault is isolated to fan-based cooking modes and involves either a mechanical obstruction of the fan, a failed fan motor, damaged wiring, or a control board that cannot properly drive the fan circuit. Diagnosis requires inspecting the fan area for obstructions, checking the fan wiring and connectors, and testing the fan motor and control outputs.
@@ -25,8 +24,6 @@ The code does not indicate a heating element or temperature sensor problem. Fiel
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board first, assuming an error code always means electronics. Instead, disconnect power and inspect the fan area for debris and check the fan harness connectors for looseness or damage before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

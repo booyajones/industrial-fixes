@@ -19,8 +19,6 @@ When an A.O. Smith water heater delivers water that is too hot, it means the tem
 
 If the water at your fixtures is dangerously hot but the heater's own tank temperature is normal, the problem may actually be a missing or failed thermostatic mixing valve in your plumbing rather than the heater itself. A.O. Smith recommends verifying the actual delivered temperature at a faucet with a thermometer rather than relying only on the dial position, since setting and outlet temperature can differ.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Thermostat set too high** The dial is above the recommended 120°F safe setting, causing hotter-than-desired water at fixtures.
@@ -56,7 +54,7 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [A O Smith Water Heater E2 error code](/posts/a-o-smith-water-heater-e2-error-code/)
 - [A O Smith Water Heater E4 error code](/posts/a-o-smith-water-heater-e4-error-code/)
-- [A O Smith Water Heater E6 error code](/posts/a-o-smith-water-heater-e6-error-code/)
+- A O Smith Water Heater E6 error code
 
 ## When to Call a Pro
 

@@ -13,11 +13,8 @@ money_part: "Encoder or linear scale read head"
 most_likely_cause: "Mechanical binding or collision"
 ---
 
-## NUM CNC Alarm E27 — What It Means
-
+## What this code means
 Alarm E27 on a NUM CNC system (NUM 1060, 1080, or Flexium series) indicates a servo axis error — the control has detected a discrepancy between the commanded axis position and the actual encoder position that exceeds the configured following error tolerance. NUM (Numerical Control Systems — a French CNC manufacturer) uses the E-series alarm codes for its axis and servo faults. E27 is a following error alarm and forces an immediate axis stop. The machine requires a manual reset before axes can be jogged or a program resumed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,11 +44,3 @@ Alarm E27 on a NUM CNC system (NUM 1060, 1080, or Flexium series) indicates a se
 ## When to Call a Pro
 
 NUM CNC systems are common in European aerospace and precision machining environments. NUM parameter editing and servo commissioning require access to NUM's configuration tools and training. Contact NUM's technical support or a certified NUM service partner for E27 faults that recur after mechanical and feedback inspection.
-
-## Related Articles
-
-- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
-- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
-- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)

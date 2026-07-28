@@ -13,11 +13,8 @@ money_part: "Carousel proximity switch"
 most_likely_cause: "Carousel pocket obstruction"
 ---
 
-## Haas Alarm 125 Tool Carousel Fault — What It Means
-
+## What this code means
 Haas **Alarm 125** indicates a **tool carousel fault**. On Haas mills with an umbrella-style or side-mount tool changer, this means the carousel did not reach the commanded pocket position, or the control did not receive the correct position confirmation from the carousel sensors. The tool changer stops mid-sequence to prevent a crash between the spindle, tool pocket, and changer arm. Alarm 125 usually points to a sensor, motor, or obstruction problem inside the carousel assembly.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Haas **Alarm 125** indicates a **tool carousel fault**. On Haas mills with an um
 ## When to Call a Pro
 
 If the carousel is mechanically jammed and ATC recovery cannot return it to home, stop there. Forcing the changer can bend the arm or damage the carousel plate. Haas Factory Outlet service is the right move in that situation.
-
-## Related Articles
-
-- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
-- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
-- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
-- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
-
-## See Also
-
-- [Haas Alarm 124 — Causes & Fix](/posts/haas-alarm-124/)
-- [Haas CNC Alarm Codes — Complete Guide (100-Series and Up)](/posts/haas-alarm-codes/)
-- [Haas Alarm 126 — ATC Door Fault](/posts/haas-alarm-126/)
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)

@@ -19,8 +19,6 @@ A GE dishwasher not cleaning dishes is a wash performance symptom, not a fault c
 
 GE does not assign a specific error code to this complaint. Instead, it points to mechanical blockages, water supply issues, and user settings as the usual culprits. If your control panel shows an actual fault code, check your model's tech sheet for that specific code.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged filter assembly** Excess food debris in the fine filter or sump area reduces wash performance by blocking water flow and recirculation.
@@ -64,8 +62,8 @@ If your appliance also shows a code on the display, these match this problem:
 - [Ge Dishwasher C8 error code](/posts/ge-dishwasher-c8-error-code/)
 - [Ge Dishwasher Ef error code](/posts/ge-dishwasher-ef-error-code/)
 - [Ge Dishwasher F56 error code](/posts/ge-dishwasher-f56-error-code/)
-- [Ge Dishwasher F9 error code](/posts/ge-dishwasher-f9-error-code/)
-- [Ge Dishwasher Ff error code](/posts/ge-dishwasher-ff-error-code/)
+- Ge Dishwasher F9 error code
+- Ge Dishwasher Ff error code
 
 ## When to Call a Pro
 

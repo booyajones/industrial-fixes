@@ -17,8 +17,7 @@ money_part: "Samsung dryer main control board (PCB)"
 part_price: "$80-200"
 ---
 
-## Samsung Dryer AE5 Error Code — What It Means
-
+## What this code means
 The AE5 code on a Samsung dryer signals a failure in internal component communication. The dryer's control system is not seeing expected communication between internal components, such as the main control board and a display or interface board. Samsung groups AE5 together with similar codes (AE4, AE3, E3, 1 AC) as internal communication faults rather than a single sensor problem. This is not a temperature-sensor code. Those errors use different letter combinations (tS, tE, tC families).
 
 Samsung's official guidance is to restart the dryer first. If the error persists after a power cycle, the manufacturer recommends consulting the user manual or contacting a professional service center. The code usually points to a wiring fault, a loose connector, or a failed control board in the communication path.
@@ -26,8 +25,6 @@ Samsung's official guidance is to restart the dryer first. If the error persists
 ## Before You Replace Anything
 
 Many people replace the main control board immediately without checking connectors first. Inspect and reseat all harness connectors between the main PCB and any sub-board before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

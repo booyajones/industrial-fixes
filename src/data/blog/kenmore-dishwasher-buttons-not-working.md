@@ -19,8 +19,6 @@ When your Kenmore dishwasher display lights up but the buttons don't respond to 
 
 This is different from a control lock situation where buttons are intentionally disabled by software. In this case, the buttons are genuinely unresponsive due to a hardware or wiring fault in the user interface system.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed touchpad membrane switches** The thin plastic control panel contains internal membrane switches that wear out, lose conductivity, or corrode over time, making them unable to send button press signals to the board.
@@ -55,18 +53,18 @@ This is different from a control lock situation where buttons are intentionally 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kenmore Dishwasher E04 error code](/posts/kenmore-dishwasher-e04-error-code/)
-- [Kenmore Dishwasher E05 error code](/posts/kenmore-dishwasher-e05-error-code/)
-- [Kenmore Dishwasher E06 error code](/posts/kenmore-dishwasher-e06-error-code/)
-- [Kenmore Dishwasher E07 error code](/posts/kenmore-dishwasher-e07-error-code/)
-- [Kenmore Dishwasher E08 error code](/posts/kenmore-dishwasher-e08-error-code/)
-- [Kenmore Dishwasher E09 error code](/posts/kenmore-dishwasher-e09-error-code/)
-- [Kenmore Dishwasher E10 error code](/posts/kenmore-dishwasher-e10-error-code/)
-- [Kenmore Dishwasher E11 error code](/posts/kenmore-dishwasher-e11-error-code/)
-- [Kenmore Dishwasher E12 error code](/posts/kenmore-dishwasher-e12-error-code/)
-- [Kenmore Dishwasher E13 error code](/posts/kenmore-dishwasher-e13-error-code/)
-- [Kenmore Dishwasher E14 error code](/posts/kenmore-dishwasher-e14-error-code/)
-- [Kenmore Dishwasher F1E1 error code](/posts/kenmore-dishwasher-f1e1-error-code/)
+- Kenmore Dishwasher E04 error code
+- Kenmore Dishwasher E05 error code
+- Kenmore Dishwasher E06 error code
+- Kenmore Dishwasher E07 error code
+- Kenmore Dishwasher E08 error code
+- Kenmore Dishwasher E09 error code
+- Kenmore Dishwasher E10 error code
+- Kenmore Dishwasher E11 error code
+- Kenmore Dishwasher E12 error code
+- Kenmore Dishwasher E13 error code
+- Kenmore Dishwasher E14 error code
+- Kenmore Dishwasher F1E1 error code
 
 ## When to Call a Pro
 

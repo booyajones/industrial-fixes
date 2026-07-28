@@ -17,8 +17,7 @@ money_part: "GE upper cooling fan blower motor assembly"
 part_price: "$50-150"
 ---
 
-## GE Oven F350 Error Code — What It Means
-
+## What this code means
 The F350 code indicates an upper cooling fan circuit fault. The control board has detected that the upper cooling fan blower wheel is not turning as fast as it should, or that the fan circuit is not behaving as expected. This fan cools the oven electronics and upper components during and after cooking cycles.
 
 When the fan cannot spin at the correct speed, the control protects the electronics by throwing F350 and may disable the oven until the problem is corrected. The fault can be caused by a physical obstruction in the fan path, damaged wiring or connectors to the blower motor, or a failed motor itself. Less commonly, a transient glitch in the control system can trigger the code and clear after a power cycle.
@@ -26,8 +25,6 @@ When the fan cannot spin at the correct speed, the control protects the electron
 ## Before You Replace Anything
 
 Many people replace the control board when the real problem is a blocked or slow fan. Always power-cycle the unit and inspect the fan area for obstructions and test the blower motor wiring before ordering any control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "GA800 soft-charge bypass relay or contactor"
 ---
 
-## Yaskawa GA800 E80 Fault — What It Means
-
+## What this code means
 E80 is a soft-charge answerback fault. The drive expected the soft-charge bypass relay to close and report back after the precharge cycle, but the confirmation signal never arrived. This means the drive believes the precharge and bypass sequence did not complete correctly.
 
 The fault points to a problem in the precharge/bypass circuit or the control sensing path that monitors the relay. The drive's internal logic is waiting for electrical confirmation that the relay has closed, and when it does not see that signal within the expected time window, it throws E80 and shuts down to protect the power stage.
@@ -24,8 +23,6 @@ The fault points to a problem in the precharge/bypass circuit or the control sen
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive when the control board or bypass relay alone is at fault. Check parameter U4-06 (PreChargeRelayMainte) first to see the relay's performance life before ordering a complete drive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or automation technician for E80 faults. The diagnostic steps require safe access to the drive's DC bus, control terminals, and internal relay circuits under live conditions. Mishandling the precharge circuit or the DC bus capacitors can cause severe electric shock or damage to the drive. A technician will also have the correct metering equipment to verify answerback signals, check relay coil resistance, and safely measure DC bus voltage during the precharge sequence. If U4-06 is above 90%, Yaskawa's guidance points to board or drive replacement, and a pro can order the correct part by serial number and install it with the proper firmware checks.
 
 **Rough cost:** A pro service call runs about $300-1200 depending on whether the relay, control board, or complete drive needs replacement.
-
-## See Also
-
-- [Yaskawa GA800 Er-04 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f049-fault-code/)
-- [Yaskawa GA800 E85 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e85-fault-code/)
-- [Yaskawa GA800 CPF24 - Causes & Fix](/posts/yaskawa-ga800-vfd-f024-fault-code/)
-- [Yaskawa GA800 E62 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e62-fault-code/)

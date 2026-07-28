@@ -19,8 +19,6 @@ A Kenmore dryer that won't stop running past the end of the cycle is typically a
 
 This symptom is not caused by a temperature sensor, airflow problem, or belt issue. If the drum and motor only stop when you unplug the dryer or flip the breaker, the fault is in the control or timer assembly that commands the motor circuit.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed mechanical timer (timer-controlled models)** Timer contacts stick closed so the motor keeps running after the cycle should end, the classic continuous-run failure on electromechanical dryers.

@@ -22,8 +22,7 @@ part_price: "$25-60"
 no_buy_pct: "40%"
 ---
 
-## LG Oven F11 Error Code — What It Means
-
+## What this code means
 LG documents the F11 error code as a communication error between control components in most range and oven models. The fault indicates that signals between the main control board, display board, oven temperature sensor, or keypad are disrupted or not being received correctly. LG's first recommended action is to press CLEAR/OFF and retry the oven. If the code returns, power off the unit at the circuit breaker for 30 seconds and restore power.
 
 The exact meaning of F11 can vary slightly by model family. Some LG product lines also associate similar error codes with thermistor or sensor faults, display board issues, or low supply voltage. Field reports commonly link F11 to a failed oven temperature sensor when the symptom is heating-related, but the underlying cause is often loose wiring, corroded connectors, or a defective control board. Always verify your exact model number and consult the service manual or wiring diagram for that unit before replacing parts.
@@ -31,8 +30,6 @@ The exact meaning of F11 can vary slightly by model family. Some LG product line
 ## Before You Replace Anything
 
 Homeowners often replace the main control board or oven sensor without first inspecting the wiring harnesses and connectors. Check every plug, pin, and terminal for corrosion, loose fit, or burnt contacts before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -81,10 +78,3 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working with 240-volt electrical connections, if the fault persists after you have tested the sensor and inspected all wiring, or if diagnostic software or a service manual is required to pinpoint the failed board. A qualified appliance technician has the tools to measure communication signals between boards, verify supply voltage under load, and access manufacturer-specific diagnostic modes. If your oven is still under warranty or you lack a multimeter and basic hand tools, professional service is the safer and often more cost-effective choice.
 
 **Rough cost:** DIY runs about $30-120 in parts, 30-90 min. A pro service call runs about $150-300.
-
-## See Also
-
-- [LG Oven Broiler Not Working - Causes & Fix](/posts/lg-oven-broiler-not-working/)
-- [LG Refrigerator rF Error Code - Causes & Fix](/posts/lg-refrigerator-rf-error-code/)
-- [LG Oven H5 Error Code - Causes & Fix](/posts/lg-oven-h5-error-code/)
-- [LG Washer SE Error Code - Causes & Fix](/posts/lg-washer-se-error-code/)

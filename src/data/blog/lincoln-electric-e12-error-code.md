@@ -13,11 +13,8 @@ money_part: "Input contactor"
 most_likely_cause: "Failed input contactor coil"
 ---
 
-## Lincoln Electric E12 Error Code — What It Means
-
+## What this code means
 The E12 fault on Lincoln Electric welders (Power MIG, Power Wave, and Invertec series) indicates an input contactor fault — the main input contactor that connects the primary power circuit to the transformer or inverter either failed to close on startup or opened unexpectedly during operation. Without a functioning contactor, the machine cannot energize its welding circuit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

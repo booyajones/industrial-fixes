@@ -13,13 +13,10 @@ money_part: "Yaskawa GA800 option card (CN5-A compatible)"
 most_likely_cause: "Mis-seated or loose option card"
 ---
 
-## Yaskawa GA800 E14 Fault — What It Means
-
+## What this code means
 The E14 fault (also displayed as oFA14) on a Yaskawa GA800 VFD indicates an Option Card Connection Error at the CN5-A interface. The drive has detected a problem communicating with or sensing the option card installed in that slot. This is not a motor or overload fault. It is a hardware-level issue between the drive's control board and the accessory card plugged into the CN5-A connector.
 
 The fault means the drive cannot establish or maintain proper electrical contact with the option card, which could be a communication module, encoder interface, or other accessory depending on your system configuration. The drive will not operate normally until the connection is restored or the fault condition is cleared.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ The fault means the drive cannot establish or maintain proper electrical contact
 ## When to Call a Pro
 
 Call a qualified VFD technician or contact Yaskawa technical support if reseating and swapping the option card does not clear the E14 fault. A persistent fault after these steps typically indicates a damaged control board or internal interface that requires factory-level diagnosis and repair. Yaskawa's maintenance guidance is limited to fan and control board replacement, and further internal repairs are outside the scope of field service. Also call a professional if you are not trained in VFD lockout/tagout procedures or if the drive is part of a critical process that requires certified troubleshooting and documentation.
-
-## See Also
-
-- [Yaskawa GA800 E33 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e33-fault-code/)
-- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
-- [Yaskawa V1000 OC Fault — Overcurrent](/posts/yaskawa-v1000-fault-oc/)
-- [Yaskawa GA800 E44 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e44-fault-code/)

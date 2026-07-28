@@ -19,8 +19,6 @@ When a Maytag washer shakes violently or makes loud thumping, banging, or rattli
 
 If the noise sounds more like scraping, grinding, or metal clanging instead of thumping, the problem may be mechanical rather than just a load issue. In those cases, worn suspension parts, a damaged drive hub, or failed shock absorbers are the usual suspects on older machines.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Washer not level or sitting on uneven floor** All four feet must contact the floor firmly, and the machine must be level front-to-back and side-to-side or it will walk and shake during spin.

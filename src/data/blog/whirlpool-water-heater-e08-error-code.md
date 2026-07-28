@@ -13,13 +13,10 @@ money_part: "Whirlpool Energy Smart Module (ESM)"
 most_likely_cause: "Failed Energy Smart Module"
 ---
 
-## Whirlpool E08 Error Code — What It Means
-
+## What this code means
 On Whirlpool electric hybrid and control-equipped water heaters, the E08 error code indicates a failure of the Energy Smart Module (ESM). This module manages energy-saving functions and control logic for the unit. When the ESM fails or loses communication, the heater flags E08 and may shut down or operate in reduced capacity.
 
 The fault is typically caused by a failed ESM board, loose or damaged wiring at the module, or corrosion at the control panel connections. In some cases technicians can bypass the ESM harness temporarily to keep the tank running, but that workaround does not fix the root cause and is not a permanent repair.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -17,8 +17,7 @@ money_part: "Main control board"
 part_price: "$80-250"
 ---
 
-## KitchenAid Refrigerator E0 Error Code — What It Means
-
+## What this code means
 The E0 code does not have a single universal meaning across all KitchenAid refrigerators. On at least one official KitchenAid technician sheet, E0 is listed as 'No Errors' in the ice maker error-code list. However, some third-party repair sources describe E0 or F1E0 as a communication or EEPROM control-board fault. Because KitchenAid uses different control platforms across models, the exact meaning is model-specific and must be confirmed from the unit's tech sheet or service manual.
 
 When E0 does appear as an active fault (not 'No Errors'), it typically signals a communication problem between the main control board and other components, a temporary control glitch after a power interruption, or a defective control board or user-interface module. The code may or may not prevent cooling, depending on which subsystem is affected and whether the control can still drive the compressor and fans.
@@ -26,8 +25,6 @@ When E0 does appear as an active fault (not 'No Errors'), it typically signals a
 ## Before You Replace Anything
 
 Homeowners often replace the main control board when the real culprit is a loose or corroded connector. Pull and reseat every harness at the control board and UI, inspect pins for damage, and perform a full power reset before ordering any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -21,8 +21,7 @@ part_price: "$30-65"
 no_buy_pct: "60%"
 ---
 
-## Maytag F32 Error Code — What It Means
-
+## What this code means
 F32 on many Maytag and Whirlpool-built top-load HE washers is a long drain or drain fault code. The control board has detected that water is not leaving the tub within the expected time window, so it stops the cycle and displays the error. In practical terms, the washer is seeing either a blocked drain path or a pump that cannot move water quickly enough.
 
 Technicians describe F32 as a timeout condition. The machine expects the tub to empty in a set number of seconds, and if it does not the code appears. The fault can be mechanical (a clog or kinked hose), a weak or failed pump motor, or a damaged impeller that slows water flow even though the pump runs.
@@ -30,8 +29,6 @@ Technicians describe F32 as a timeout condition. The machine expects the tub to 
 ## Before You Replace Anything
 
 Some people replace the drain pump when the real culprit is a kinked drain hose or a blocked standpipe. Always verify the external drain path and inspect the pump impeller by hand before ordering a new pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,11 +13,8 @@ money_part: "Draft pressure switch"
 most_likely_cause: "Blocked or restricted flue/vent pipe"
 ---
 
-## Rheem Furnace 3 Flashes — What It Means
-
+## What this code means
 Three flashes on a Rheem furnace diagnostic LED signals a pressure switch fault — specifically, the draft pressure switch failed to close within the expected time after the induced draft motor started. The pressure switch monitors that the inducer is pulling adequate combustion airflow through the heat exchanger before the gas valve is allowed to open. When the switch stays open, the board blocks ignition as a safety measure.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Three flashes on a Rheem furnace diagnostic LED signals a pressure switch fault 
 ## When to Call a Pro
 
 If the flue is clear, pressure switch and hose are intact, and the inducer motor runs at speed but the switch still won't close, have a licensed HVAC technician check for a failed heat exchanger or incorrect pressure switch calibration — both require specialized tools to diagnose safely.
-
-## See Also
-
-- [Rheem Furnace 8 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-8-flashes/)
-- [Rheem Furnace 5 Flashes Error Code — Flame Sensor Fault Fix](/posts/rheem-furnace-5-flashes-flame-sensor/)
-- [Rheem Furnace 9 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-9-flashes/)
-- [Rheem Water Heater Error Codes — Complete Guide](/posts/rheem-water-heater-error-codes/)
-
-## Related Articles
-
-- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
-- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
-- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)
-- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)
-- [Rheem Furnace 5 Flashes Error Code — Flame Sensor Fault Fix](/posts/rheem-furnace-5-flashes-flame-sensor/)

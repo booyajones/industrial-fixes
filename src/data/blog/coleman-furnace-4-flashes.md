@@ -12,15 +12,12 @@ tags:
 description: "Coleman furnace 4 flashes means the high limit switch has opened due to overheating. Also applies to Goodman and Amana furnaces. Step-by-step diagnosis and fix."
 ---
 
-## Coleman Furnace 4 Flashes — What It Means
-
+## What this code means
 A Coleman furnace flashing **4 blinks** on the LED diagnostic light means the **high limit switch has opened** — a thermal safety device tripped because the supply air or heat exchanger temperature climbed above the safe operating limit (typically 170–200°F). The furnace shuts off the burners immediately when the high limit opens, and the LED flashes 4 times repeatedly until the system is reset or the root cause is corrected.
 
 **This fault also applies to Goodman, Amana, and York furnaces.** Coleman is part of the York/Johnson Controls family, and Goodman and Amana share the same control board logic and diagnostic flash codes through their common ownership under Daikin. If your Goodman or Amana furnace is also showing 4 flashes, this guide applies to your unit.
 
 A clogged air filter causes 4 flashes in approximately 80% of cases. Start there before chasing any other component.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -57,11 +54,3 @@ A clogged air filter causes 4 flashes in approximately 80% of cases. Start there
 ## When to Call a Technician
 
 If 4 flashes returns after replacing the filter, confirming blower operation, and replacing a failed limit switch, the heat exchanger requires inspection. A cracked heat exchanger allows combustion gases including carbon monoxide to enter the supply air stream — this is a life-safety issue. Do not operate the furnace. Have a licensed HVAC technician perform a combustion analysis and heat exchanger inspection using a scope or combustion analyzer before the system is returned to service.
-
-## Related Articles
-
-- [Goodman Furnace 4 Flashes — High Limit Fault Fix](/posts/goodman-furnace-4-flashes/)
-- [Goodman Furnace 3 Flashes — Pressure Switch Fault Fix](/posts/goodman-furnace-3-flashes/)
-- [Goodman Furnace 2 Flashes — Causes & Fix](/posts/goodman-furnace-2-flashes/)
-- [Coleman EVCON Furnace Error Codes — Complete Guide](/posts/coleman-evcon-furnace-error-codes/)
-- [Coleman Furnace E2 Error Code — Causes & Fix](/posts/coleman-furnace-e2-error-code/)

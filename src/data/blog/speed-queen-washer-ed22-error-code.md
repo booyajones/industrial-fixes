@@ -14,11 +14,8 @@ money_part: "Speed Queen drive motor"
 most_likely_cause: "Overloaded washer"
 ---
 
-## Speed Queen Ed22 Error Code — What It Means
-
+## What this code means
 Ed22 (sometimes displayed as Ed,22) on a Speed Queen washer means the drive motor has overheated or the control board believes motor temperature is too high. The washer shuts down to protect the drive system from damage. This code usually points to something forcing the motor to work harder than normal, which raises current draw and heat. Common triggers include overloaded drums, mechanical drag in the basket or bearings, loose or damaged motor wiring, or a failing motor that can no longer handle normal loads without overheating.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

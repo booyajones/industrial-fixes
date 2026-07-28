@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Whirlpool range Wi-Fi module"
 ---
 
-## Whirlpool FC E3 Error — What It Means
-
+## What this code means
 The FC E3 error code on a Whirlpool range indicates that the appliance's control board could not connect to your home wireless router. This is a Wi-Fi and connectivity fault, not a heating or temperature sensor problem. The code appears when the range has lost or failed to establish the wireless link it needs for connected features.
 
 Common triggers include poor signal strength at the appliance location, a router that has gone offline or failed, a temporary connection timeout, a failing Wi-Fi module inside the range, or damaged wiring between that module and the main control board. The fault is almost always network-related rather than a sign of cooking or baking hardware failure.
@@ -25,8 +24,6 @@ Common triggers include poor signal strength at the appliance location, a router
 ## Before You Replace Anything
 
 Homeowners sometimes confuse FC E3 with temperature-sensor codes such as F3 E3 or F2 E3 and replace thermistors or relays. Always verify the exact code on your display and confirm it matches FC E3 before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

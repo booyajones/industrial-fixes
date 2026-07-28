@@ -15,8 +15,7 @@ money_part: "User interface board (display board)"
 most_likely_cause: "Transient control fault or memory glitch"
 ---
 
-## KitchenAid Refrigerator E1 Error Code — What It Means
-
+## What this code means
 KitchenAid does not publish a universal E1 error code definition for all refrigerator models. On some KitchenAid wine cellars, E1 indicates a power-reset or service alert. On full-size refrigerators, the manufacturer documents F4 E1 (not standalone E1) and directs the user to perform a power reset. Because the exact meaning depends on your specific model family, you must check your model number against the service documentation or tech sheet to confirm what E1 means for your unit.
 
 When E1 does appear, KitchenAid's official guidance starts with a reset-first approach, which suggests the code can result from a transient control glitch rather than an immediate hardware failure. If the code persists after a reset, common field experience points to communication problems between the user interface and the main control board, sensor or thermistor faults, or loose and corroded wiring connectors.
@@ -24,8 +23,6 @@ When E1 does appear, KitchenAid's official guidance starts with a reset-first ap
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first when they see an E-code, but a loose or corroded connector between the display and the board causes the same symptom. Always reseat and inspect every connector before ordering a control module.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

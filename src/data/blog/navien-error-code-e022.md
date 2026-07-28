@@ -80,10 +80,3 @@ E022 is similar in scope to E021 — a thermistor swap is within reach of a care
 
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [Rheem Performance Platinum PDN tankless error codes](/posts/rheem-performance-platinum-pdn-error-codes/)
-
-## See Also
-
-- [Navien NPE-A 016 — Overheat Lockout Fix](/posts/navien-water-heater-error-code-016/)
-- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
-- [Navien Tankless Water Heater Error Codes — Complete Guide](/posts/navien-error-codes/)
-- [Navien Error Code E024 — Overheat / High Temperature Cutoff](/posts/navien-error-code-e024/)

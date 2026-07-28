@@ -19,8 +19,6 @@ When your KitchenAid dishwasher runs through a cycle but leaves dishes dirty, yo
 
 The dishwasher may complete its cycle and sound normal, but dishes come out with food particles, film, or spots. This happens when water can't reach all surfaces or when recirculation pressure drops due to blockages in the filter, spray arms, or nozzles.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged filter restricting recirculation** Food debris and mineral buildup in the filter reduce wash pressure and prevent water from cleaning effectively.
@@ -59,7 +57,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Kitchenaid Dishwasher F2E2 error code](/posts/kitchenaid-dishwasher-f2e2-error-code/)
 - [Kitchenaid Dishwasher F3E1 error code](/posts/kitchenaid-dishwasher-f3e1-error-code/)
 - [Kitchenaid Dishwasher F3E2 error code](/posts/kitchenaid-dishwasher-f3e2-error-code/)
-- [Kitchenaid Dishwasher F4E3 error code](/posts/kitchenaid-dishwasher-f4e3-error-code/)
+- Kitchenaid Dishwasher F4E3 error code
 - [Kitchenaid Dishwasher F5E1 error code](/posts/kitchenaid-dishwasher-f5e1-error-code/)
 - [Kitchenaid Dishwasher F6E1 error code](/posts/kitchenaid-dishwasher-f6e1-error-code/)
 - [Kitchenaid Dishwasher F6E2 error code](/posts/kitchenaid-dishwasher-f6e2-error-code/)

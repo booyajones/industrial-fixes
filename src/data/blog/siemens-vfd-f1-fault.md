@@ -13,11 +13,8 @@ money_part: "Shielded VFD-rated motor cable"
 most_likely_cause: "Motor power mismatch in parameters"
 ---
 
-## Siemens VFD F1 Fault — What It Means
-
+## What this code means
 F1 (or F0001) on a Siemens SINAMICS V20 drive is an overcurrent fault. The inverter detected motor current above its permissible limit and shut down to protect the output stage. The drive uses parameter r0949 to report whether the fault was hardware-detected or software-detected. Overcurrent faults are often caused by mismatches between motor and drive settings, wiring problems, mechanical overload, or acceleration that is too fast for the load.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ F1 (or F0001) on a Siemens SINAMICS V20 drive is an overcurrent fault. The inver
 ## When to Call a Pro
 
 Call a qualified electrician or drive technician if you are not trained in lockout/tagout, motor circuit testing, or VFD commissioning. If the fault returns after you have verified correct motor parameters, confirmed no shorts or grounds in the cable or motor, checked the mechanical load, and lengthened ramp times, the drive's output stage may be damaged and professional diagnostic equipment is needed. Repeated overcurrent faults with correct settings and wiring often mean internal drive failure or a motor problem that requires load testing and insulation analysis.
-
-## See Also
-
-- [Siemens Micromaster F0222 - Causes & Fix](/posts/siemens-micromaster-f0222-fault-code/)
-- [Siemens G120 F01044 - Causes & Fix](/posts/siemens-g120-vfd-f01044-fault-code/)
-- [Siemens Micromaster F0041 - Causes & Fix](/posts/siemens-micromaster-f0041-fault-code/)
-- [Siemens SINAMICS G120X Fault Codes: Complete Guide](/posts/siemens-g120x-fault-codes/)

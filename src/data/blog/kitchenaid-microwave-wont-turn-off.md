@@ -19,8 +19,6 @@ A KitchenAid microwave that won't turn off is not a single fault code. Most ofte
 
 If the unit keeps running after the cycle ends, that is typically a control board relay or interlock switch symptom. In KitchenAid and Whirlpool architecture the door interlock system is a safety system. Failure of one switch or misalignment can produce abnormal behavior and in some cases a blown fuse or a dead unit.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Faulty door interlock switch** Field reports and repair guidance for Whirlpool and KitchenAid units commonly cite the door switches as the first parts to test when door-related symptoms occur.

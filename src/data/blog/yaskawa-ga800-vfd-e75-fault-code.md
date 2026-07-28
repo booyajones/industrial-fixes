@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "Yaskawa GA800 control board"
 ---
 
-## Yaskawa GA800 E75 Fault — What It Means
-
+## What this code means
 The E75 fault on a Yaskawa GA800 variable frequency drive is a Soft Charge Answerback Fault. It means the drive's internal safety check did not receive the expected feedback signal from the soft-charge bypass relay or contactor after startup. This is a power-conversion hardware fault, not a motor wiring or overload issue.
 
 The soft-charge circuit gradually charges the drive's DC bus capacitors at startup to protect components from inrush current. When the relay that bypasses this circuit fails to answer back, the drive throws E75 and shuts down to prevent damage. Yaskawa documentation instructs you to remove the cause of the fault, then reset the drive after the fault screen appears.
@@ -24,8 +23,6 @@ The soft-charge circuit gradually charges the drive's DC bus capacitors at start
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive when only the control board has failed. Re-energize the drive once after inspecting external wiring. If the fault persists, the board or relay is the culprit, not the power section.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a licensed electrician or Yaskawa-trained service technician for any E75 fault. This is a power-conversion hardware fault inside the drive, not a motor or wiring issue you can fix with a multimeter. The repair requires working on energized high-voltage DC bus circuits, interpreting internal relay feedback signals, and replacing surface-mount control boards or the entire drive. Yaskawa recommends contacting technical support with your model number, serial number, and fault code before attempting board-level repair. If your drive is under warranty or a service contract, do not open the enclosure or you may void coverage.
 
 **Rough cost:** A pro service call runs about $300-1200 for control board or drive replacement, 1-3 hours labor.
-
-## See Also
-
-- [Yaskawa GA800 A.141 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-141-fault-code/)
-- [Yaskawa GA800 E46 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e46-fault-code/)
-- [Yaskawa A1000 oL1 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol1-fault-code/)
-- [Yaskawa GA800 E49 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e49-fault-code/)

@@ -19,8 +19,6 @@ A Frigidaire refrigerator making a loud noise is not a fault code. It is a sympt
 
 Clicking, grinding, or scraping sounds usually indicate ice or frost hitting the evaporator fan blade inside the freezer compartment. Rattling or vibration may come from a condenser fan with debris, loose panels, or an unlevel cabinet. Persistent grinding or abnormal buzzing from the rear lower area suggests compressor wear or internal damage.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Ice or frost hitting the evaporator fan blade** Frost buildup in the freezer restricts the fan area and causes loud clicking, scraping, or grinding when the blade contacts ice.
@@ -54,15 +52,15 @@ Clicking, grinding, or scraping sounds usually indicate ice or frost hitting the
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Frigidaire Refrigerator 40Elg Washer Oe error code](/posts/frigidaire-refrigerator-40e-error-codelg-washer-oe-error-code/)
+- Frigidaire Refrigerator 40Elg Washer Oe error code
 - [Frigidaire Refrigerator 5Y Ef error code](/posts/frigidaire-refrigerator-5y-ef-error-code/)
-- [Frigidaire Refrigerator Al 29 error code](/posts/frigidaire-refrigerator-al-29-error-code/)
+- Frigidaire Refrigerator Al 29 error code
 - [Frigidaire Refrigerator Df error code](/posts/frigidaire-refrigerator-df-error-code/)
 - [Frigidaire Refrigerator E11 error code](/posts/frigidaire-refrigerator-e11-error-code/)
 - [Frigidaire Refrigerator E15 error code](/posts/frigidaire-refrigerator-e15-error-code/)
 - [Frigidaire Refrigerator Er Ce error code](/posts/frigidaire-refrigerator-er-ce-error-code/)
 - [Frigidaire Refrigerator Er error code](/posts/frigidaire-refrigerator-er-error-code/)
-- [Frigidaire Refrigerator F0001 error code](/posts/frigidaire-refrigerator-f0001-error-code/)
+- Frigidaire Refrigerator F0001 error code
 - [Frigidaire Refrigerator H1 error code](/posts/frigidaire-refrigerator-h1-error-code/)
 - [Frigidaire Refrigerator Hi error code](/posts/frigidaire-refrigerator-hi-error-code/)
 - [Frigidaire Refrigerator Op error code](/posts/frigidaire-refrigerator-op-error-code/)

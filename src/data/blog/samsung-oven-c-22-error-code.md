@@ -17,8 +17,7 @@ money_part: "Samsung oven temperature sensor / thermistor assembly"
 part_price: "$30-80"
 ---
 
-## Samsung Oven C-22 Error Code — What It Means
-
+## What this code means
 The C-22 code on a Samsung oven indicates a sensor malfunction. Samsung groups C-20, C-21, and C-22 together as sensor-related faults in their official support documentation. This code typically points to an issue in the temperature sensor circuit, which may involve the sensor itself, its wiring and connectors, or the main control board's sensor input.
 
 Samsung's first response is to turn the oven off and restart it. If the code remains, disconnect power for 30 seconds or more and then reconnect. If the code returns after these resets, the problem requires inspection of the sensor circuit and replacement of the failed component.
@@ -26,8 +25,6 @@ Samsung's first response is to turn the oven off and restart it. If the code rem
 ## Before You Replace Anything
 
 Many people replace the main control board first when the actual fault is a failed temperature sensor or corroded connector. Test the sensor resistance and inspect all connectors before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

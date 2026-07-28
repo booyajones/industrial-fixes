@@ -13,11 +13,8 @@ money_part: "Motor cable"
 most_likely_cause: "Loose or open motor lead"
 ---
 
-## Danfoss FC302 VFD ALARM 18 — What It Means
-
+## What this code means
 ALARM 18 on a Danfoss VLT AutomationDrive FC 302 indicates a motor phase missing condition. The drive has detected that one of the three output phases to the motor is absent or not being measured correctly, so the motor will not be driven normally. This alarm is tied to open-phase or missing-phase conditions on the motor output path. Danfoss instructs technicians to look for wiring, motor, and drive output-stage problems rather than treating it as a generic software fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ ALARM 18 on a Danfoss VLT AutomationDrive FC 302 indicates a motor phase missing
 ## When to Call a Pro
 
 Call a qualified industrial electrician or VFD technician if you are not trained in lockout/tagout procedures, if you are uncomfortable working with three-phase power circuits, or if you have verified all motor and cable wiring and the fault persists. Drive output stage repair or replacement requires VFD-specific training and access to manufacturer service support. If the motor winding has failed, a motor shop or technician with winding test equipment should evaluate and repair or replace the motor.
-
-## See Also
-
-- [Danfoss FC302 ALARM 18 - Causes & Fix](/posts/danfoss-fc302-alarm-18-fault-code/)
-- [Danfoss FC302 Alarm 47 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-47-fault-code/)
-- [Danfoss FC302 ALARM 30 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-30-fault-code/)
-- [Danfoss FC302 ALARM 20 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-20-fault-code/)

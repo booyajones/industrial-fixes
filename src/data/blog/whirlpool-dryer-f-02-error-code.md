@@ -17,15 +17,12 @@ money_part: "User interface control panel assembly"
 part_price: "$80-180"
 ---
 
-## Whirlpool Dryer F-02 Error — What It Means
-
+## What this code means
 The F-02 error code on a Whirlpool dryer indicates a keypad or stuck-button fault on the user interface. The control board is registering a continuous key press, either from a physically stuck button or an electrical problem in the control panel assembly. This is not a drain fault, venting issue, or motor problem. (Note that F02 on a Whirlpool washer is a completely different fault related to drain time and should not be confused with the dryer code.) Whirlpool's official dryer product help recommends powering the unit down for five minutes, restoring power, then running a timed dry cycle and watching to see if the code returns.
 
 ## Before You Replace Anything
 
 Many owners replace the main control board when the real problem is a stuck button or failed user interface assembly. Before ordering any board, power-cycle the dryer and inspect every button on the console for physical sticking or contamination.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

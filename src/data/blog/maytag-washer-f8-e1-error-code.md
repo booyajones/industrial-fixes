@@ -21,15 +21,12 @@ part_price: "$30-60"
 no_buy_pct: "65%"
 ---
 
-## Maytag F8 E1 Error Code — What It Means
-
+## What this code means
 On Maytag front-load washers, F8 E1 (also shown as Lo FL on some models) means the machine is not detecting the expected water level rise during the fill cycle. The washer tried to fill but did not sense enough incoming water in the time allowed. This is a fill problem or slow-fill condition, not a drain or pump fault. The machine may pause and display the code, sometimes running a brief drain routine before accepting further inputs.
 
 ## Before You Replace Anything
 
 Homeowners often replace the water inlet valve assembly first when the real problem is kinked hoses, clogged inlet screens, or a partially closed supply valve. Check water supply and clean the screens before ordering a valve.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

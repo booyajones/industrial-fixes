@@ -21,8 +21,7 @@ money_part: "Drain pump"
 most_likely_cause: "Misread or model-specific display code"
 ---
 
-## Maytag Washer d13 Error Code — What It Means
-
+## What this code means
 d13 does not appear in published Maytag front-load or top-load HE error code tables. What you see as d13 is most often a misread LED/button-flash pattern or a model-specific diagnostic readout that must be cross-referenced with your service sheet. Maytag publishes codes such as SD (suds), LF (long fill), drn (drain), lid, HC (hose reversal), and F#/E# faults for motor, communication, and control issues, but d13 itself is not a manufacturer-defined fault class.
 
 Before ordering parts, confirm your exact model number and decode the actual flashed sequence from the console or wiring diagram. The underlying fault could be drain-related, fill-related, suds-related, motor/speed-related, or a display/communication problem. Treat the repair as a diagnosis of the true fault rather than a code-specific procedure.
@@ -30,8 +29,6 @@ Before ordering parts, confirm your exact model number and decode the actual fla
 ## Before You Replace Anything
 
 Homeowners often replace the control board when they see an unfamiliar code. Verify the exact model number and actual fault sequence from the service sheet and check basic installation (water supply, drain height, hose routing) before replacing any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

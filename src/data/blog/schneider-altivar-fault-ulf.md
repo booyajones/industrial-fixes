@@ -13,11 +13,8 @@ money_part: "Drive belt (V-belt or synchronous)"
 most_likely_cause: "Broken belt or coupling"
 ---
 
-## Schneider Altivar Fault ULF — What It Means
-
+## What this code means
 ULF on a Schneider Electric Altivar drive indicates a motor underload fault. The drive detected that the motor is drawing significantly less current than expected for its speed and load — typically below 20–30% of the rated current threshold set in the underload parameters. An underload condition usually means the driven load has been lost or disconnected: a broken belt, a cavitating pump, or a coupling failure. The drive trips to alert the operator that the process is no longer functioning correctly.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,11 +43,3 @@ ULF on a Schneider Electric Altivar drive indicates a motor underload fault. The
 ## When to Call a Pro
 
 If the driven load appears mechanically intact but ULF continues to trip, a drive technician should review the full parameter set and perform a load current analysis to correctly configure the underload detection thresholds for the specific application.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

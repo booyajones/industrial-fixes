@@ -17,8 +17,7 @@ money_part: "Freezer thermistor / temperature sensor"
 part_price: "$15-50"
 ---
 
-## Whirlpool Refrigerator E9 Error Code — What It Means
-
+## What this code means
 The E9 error code on a Whirlpool refrigerator is a freezer high-temperature alarm. It appears when the freezer compartment has warmed above the control's acceptable limit, or when the control board is detecting a condition that looks like a warm freezer. The code can trigger from an actual temperature rise or from a sensor or wiring fault that makes the system believe the freezer is warm.
 
 Whirlpool's official troubleshooting guidance recommends performing a power reset first, restoring cooling, and monitoring whether the code returns. If the alarm comes back after the reset, the manufacturer advises scheduling a service call. The code does not always mean a component has failed—it is often simply reporting that the freezer warmed up temporarily from a door being left open or a large load of warm food.
@@ -26,8 +25,6 @@ Whirlpool's official troubleshooting guidance recommends performing a power rese
 ## Before You Replace Anything
 
 Many people replace the main control board when the real problem is a failed freezer thermistor or a wiring harness with a corroded connector. Test the thermistor resistance and inspect the harness before replacing any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

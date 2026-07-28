@@ -19,8 +19,6 @@ A Whirlpool washer that won't agitate is a symptom, not a single error code. The
 
 Whirlpool's service documentation groups many underlying faults under generic F# or E# codes and recommends entering service mode to read stored codes, then diagnosing the mechanical or electrical system. Because agitation relies on the drive mechanism shifting correctly, most no-agitate complaints trace back to worn or broken mechanical parts rather than control board failures.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Worn or broken cam/splutch assembly** On Whirlpool 2-in-1 drive systems, the cam teeth or slider wear out over time and fail to engage agitate mode even though spin may still work.
@@ -55,18 +53,18 @@ Whirlpool's service documentation groups many underlying faults under generic F#
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Whirlpool Washer Drn error code](/posts/whirlpool-washer-drn-error-code/)
-- [Whirlpool Washer F02 error code](/posts/whirlpool-washer-f02-error-code/)
-- [Whirlpool Washer F0E1 error code](/posts/whirlpool-washer-f0e1-error-code/)
+- Whirlpool Washer Drn error code
+- Whirlpool Washer F02 error code
+- Whirlpool Washer F0E1 error code
 - [Whirlpool Washer F1E1 error code](/posts/whirlpool-washer-f1e1-error-code/)
-- [Whirlpool Washer F1E2 error code](/posts/whirlpool-washer-f1e2-error-code/)
-- [Whirlpool Washer F20 error code](/posts/whirlpool-washer-f20-error-code/)
-- [Whirlpool Washer F21 error code](/posts/whirlpool-washer-f21-error-code/)
-- [Whirlpool Washer F2E1 error code](/posts/whirlpool-washer-f2e1-error-code/)
-- [Whirlpool Washer F3E1 error code](/posts/whirlpool-washer-f3e1-error-code/)
-- [Whirlpool Washer F3E2 error code](/posts/whirlpool-washer-f3e2-error-code/)
-- [Whirlpool Washer F5E1 error code](/posts/whirlpool-washer-f5e1-error-code/)
-- [Whirlpool Washer F5E2 error code](/posts/whirlpool-washer-f5e2-error-code/)
+- Whirlpool Washer F1E2 error code
+- Whirlpool Washer F20 error code
+- Whirlpool Washer F21 error code
+- Whirlpool Washer F2E1 error code
+- Whirlpool Washer F3E1 error code
+- Whirlpool Washer F3E2 error code
+- Whirlpool Washer F5E1 error code
+- Whirlpool Washer F5E2 error code
 
 ## When to Call a Pro
 

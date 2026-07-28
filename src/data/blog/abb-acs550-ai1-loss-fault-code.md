@@ -13,13 +13,10 @@ money_part: "Shielded twisted-pair cable (analog signal grade)"
 most_likely_cause: "No analog signal source or source is powered off"
 ---
 
-## ABB ACS550 AI1 LOSS — What It Means
-
+## What this code means
 The AI1 LOSS fault on an ABB ACS550 drive means analog input 1 is either missing or has dropped below the minimum threshold set in the drive's parameters. This is not a power-stage failure. The drive is telling you it cannot see a valid signal on AI1, or the signal voltage or current is lower than the fault limit configured in parameter 3021. The drive monitors AI1 for a valid process signal (like a 4–20 mA transmitter or 0–10 V controller output), and when that signal disappears or goes out of range, it throws this fault to protect the process.
 
 The fault is tied directly to parameter 3021 (AI1 FAULT LIMIT) and parameter 3001 (AI<MIN FUNCTION). If your analog input is below the limit or the wiring is open, the drive stops and logs AI1 LOSS. This is a signal-chain problem, not a drive electronics failure.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ The fault is tied directly to parameter 3021 (AI1 FAULT LIMIT) and parameter 300
 ## When to Call a Pro
 
 Call a qualified electrician or controls technician if you have restored wiring and verified loop power but the AI1 signal still reads zero or out of range, if you are unfamiliar with analog signal troubleshooting and do not have a multimeter, or if the drive parameters were customized by an integrator and you are unsure which settings are safe to change. Also get help if the fault returns immediately after clearing even when the analog input measures correctly, since that may indicate a failed AI1 input circuit on the drive itself or a grounding or noise issue that requires specialized diagnostic tools.
-
-## See Also
-
-- [ABB ACS580 A7AB Fault - Causes & Fix](/posts/abb-acs580-a7ab-fault-code/)
-- [ABB ACS580 A2A1 - Causes & Fix](/posts/abb-acs580-a2a1-fault-code/)
-- [ABB ACS880 Fault 2310 - Overcurrent Diagnosis and Fix](/posts/abb-acs880-fault-2310/)
-- [ABB ACS550 Complete Fault Code Guide — All Faults and Fixes](/posts/abb-acs550-complete-guide/)

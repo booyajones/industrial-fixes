@@ -52,7 +52,7 @@ Pumps fail when the motor windings open or short, when debris (coins, fabric, li
 
 If this part is failing you may also see one of these codes:
 
-- [Ge Washer E23 error code](/posts/ge-washer-e23-error-code/)
+- Ge Washer E23 error code
 
 ## When to Call a Pro
 

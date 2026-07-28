@@ -15,8 +15,7 @@ diy_or_pro: "diy"
 money_part: "Maytag Clean Washer cycle tablet or cleaner"
 ---
 
-## Maytag F34 Error Code — What It Means
-
+## What this code means
 The F34 error code (sometimes displayed as rL or F34) on a Maytag front-load washer indicates that the control has detected items inside the drum when it expected the tub to be empty. This code appears specifically during the Clean Washer cycle, which is designed to run on an empty tub to clean the washer itself. The control checks for load at the start of the cycle and will not proceed if it senses clothing or other objects inside.
 
 This is not a sensor resistance fault or a pressure switch problem. Maytag treats F34 as a load or contents issue. The code is the washer's way of reminding you that the Clean Washer cycle must run without any laundry or other items in the drum. Once you remove everything and restart the cycle, the code should clear.
@@ -24,8 +23,6 @@ This is not a sensor resistance fault or a pressure switch problem. Maytag treat
 ## Before You Replace Anything
 
 Homeowners sometimes suspect the pressure switch or control board and replace them unnecessarily. Before ordering parts, simply open the door, check for forgotten clothing or small items, remove everything, and restart the Clean Washer cycle.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

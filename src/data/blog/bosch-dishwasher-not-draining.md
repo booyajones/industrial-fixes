@@ -19,8 +19,6 @@ When a Bosch dishwasher will not drain, the appliance is most commonly displayin
 
 Bosch's own troubleshooting guidance treats this as a drain-path fault and directs technicians to inspect the filter, drain hose, pump cover, and the connection to household plumbing. While a failed drain pump is possible, blockage-related causes are far more common and should be checked first.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Blocked drain filter or filter unit** Food debris, broken glass, labels, or grease accumulate in the filter basket at the base of the tub and prevent water from reaching the pump.

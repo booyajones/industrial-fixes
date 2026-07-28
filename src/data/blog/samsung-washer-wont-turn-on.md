@@ -19,8 +19,6 @@ A Samsung washer that won't turn on is a power or start failure symptom, not a f
 
 This symptom covers cases where the machine stays completely dark, turns off by itself, stops unexpectedly, or won't respond when you press the power button. The root cause is almost always in the power path, the door latch system, or the control electronics.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **No power at the outlet** A tripped breaker, blown fuse, or unplugged cord is the most common reason the washer receives no power at all.

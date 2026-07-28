@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Weil-McLain A11 Error Code — What It Means
-
+## What this code means
 Error code A11 (often displayed simply as '11' on the control module) indicates an ignition lockout. The boiler attempted to light the gas burner multiple times but did not detect a flame via the flame sensor, so it shut down for safety. The control module stops and locks out to prevent unburned gas from accumulating in the boiler or venting system.
 
 This is an urgent fault. The system will not restart until the underlying problem is corrected and the lockout is manually reset. In most cases, the issue is related to gas delivery, ignition components, or combustion air/exhaust problems.
@@ -29,8 +28,6 @@ This is an urgent fault. The system will not restart until the underlying proble
 ## Before You Replace Anything
 
 Many technicians replace the control module first, but the real problem is usually a dirty flame sensor or closed gas valve. Clean the sensor with fine abrasive and verify the gas shutoff valve is open before ordering any boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -80,10 +77,3 @@ Answer these to narrow it down fast.
 Call a licensed gas fitter or HVAC technician immediately if you cannot restore gas flow, if the flame sensor is clean and the boiler still locks out, or if you see no spark during ignition. Any work on the gas valve, ignition transformer, control module, or pressure switch requires specialized tools and gas certification. Do not attempt to bypass safety interlocks or restart the boiler repeatedly, as unburned gas can accumulate and create an explosion hazard.
 
 **Rough cost:** A pro service call runs about $150-300.
-
-## See Also
-
-- [Weil-McLain A46 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a46-error-code/)
-- [Weil-McLain A134 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a134-error-code/)
-- [Weil-McLain A159 Error - Causes & Fix](/posts/weil-mclain-boiler-a159-error-code/)
-- [Weil-McLain Boiler A80 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a80-error-code/)

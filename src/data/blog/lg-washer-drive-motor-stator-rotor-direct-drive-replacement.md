@@ -68,10 +68,3 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 If you are uncomfortable working with the rear of the washer, handling the heavy rotor and stator assembly, or diagnosing winding resistance with a multimeter, call a qualified appliance technician. The rotor bolt can be extremely tight and may require an impact driver or special tools to remove without damaging the shaft. A tech can also rule out control board output problems if the stator and rotor test good but the washer still will not spin.
-
-## See Also
-
-- [LG Mini Split CH06 Error Code - Causes & Fix](/posts/lg-mini-split-ch06-error-code/)
-- [LG Refrigerator dH Error Code - Causes & Fix](/posts/lg-refrigerator-dh-error-code/)
-- [LG Dryer Takes Too Long to Dry - Causes & Fix](/posts/lg-dryer-takes-too-long-to-dry/)
-- [LG Dryer tE1 Error Code - Causes & Fix](/posts/lg-dryer-te1-error-code/)

@@ -15,8 +15,7 @@ most_likely_cause: "Control board glitch"
 diy_or_pro: "pro"
 ---
 
-## Amana Dryer F24 Error Code — What It Means
-
+## What this code means
 Amana's public support page lists F24 as a dryer error code but does not spell out the underlying component failure or internal circuit that triggers it. The official guidance is a simple reset-and-retest workflow: remove power for five minutes, restore it, start a Timed Dry cycle, and watch for one minute to see if the code returns. Because the manufacturer does not publish the exact definition, any claim that F24 always means a specific sensor, motor circuit, or airflow fault is guesswork unless confirmed by your dryer's model-specific tech sheet.
 
 What is clear is that F24 is a control-detected fault. If the code does not return after the reset, the dryer can be used normally. If it reappears, the repair requires service diagnostics and the wiring diagram for your exact model number to identify which component the control board is flagging.
@@ -24,8 +23,6 @@ What is clear is that F24 is a control-detected fault. If the code does not retu
 ## Before You Replace Anything
 
 Because Amana does not publish what F24 points to, do not replace the main control board or any sensor until you have followed the five-minute power reset and watched the dryer for one minute in a timed cycle. If the code clears, no part is needed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

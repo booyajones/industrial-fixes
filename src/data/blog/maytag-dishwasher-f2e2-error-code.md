@@ -17,8 +17,7 @@ money_part: "User Interface Assembly (Control Panel)"
 part_price: "$80-250"
 ---
 
-## Maytag Dishwasher F2E2 Error Code — What It Means
-
+## What this code means
 F2E2 on a Maytag dishwasher indicates a communication fault between the user interface (control panel) and the main electronic control board. Maytag's product help page directs you to reset power first, which confirms the code is tied to the control electronics rather than a water or motor issue. In Whirlpool-family dishwasher service references, the same F2E2 fault is used for a loss of communication between the user interface and the electronic control board.
 
 This is an electronics-communication problem, not a drain or inlet fault. Some third-party writeups incorrectly describe F2E2 as a motor-speed or washer-related issue, but those descriptions do not match Maytag's dishwasher help page and should not be relied on for this dishwasher code.
@@ -26,8 +25,6 @@ This is an electronics-communication problem, not a drain or inlet fault. Some t
 ## Before You Replace Anything
 
 Many owners replace the main control board or user interface immediately without inspecting the wiring harness and connectors. Check and reseat all connectors in the door and control area first, especially where the harness flexes, before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

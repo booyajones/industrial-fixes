@@ -13,11 +13,8 @@ money_part: "ECM motor module (control module)"
 most_likely_cause: "ECM motor communication fault"
 ---
 
-## Lennox Error Code 432 — What It Means
-
+## What this code means
 Lennox code 432 is a **blower motor fault** — the control board or communicating system detected that the indoor blower motor failed to start, stalled, or reported an operating fault. On iComfort-enabled systems, the board receives direct communication from the ECM motor and can identify the failure precisely. On standard systems, the board times out waiting for the motor to reach speed. The furnace will not operate until the blower fault is cleared.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Lennox code 432 is a **blower motor fault** — the control board or communicati
 ## When to Call a Pro
 
 ECM motor module replacements on Lennox communicating systems require matching the exact part number. Installing the wrong module can damage the motor. If diagnostics point to the module, confirm the part number before ordering and have a certified Lennox dealer verify the installation.
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-
-## See Also
-
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 414 Rollout — Causes & Fix](/posts/lennox-error-code-414-rollout/)
-- [Lennox Error Code 414 — Gas Valve Circuit Fault Fix](/posts/lennox-error-code-414-gas-valve-circuit-fault/)
-- [Lennox Error Code 223 — Causes & Fix](/posts/lennox-error-code-223/)

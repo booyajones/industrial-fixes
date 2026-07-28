@@ -19,8 +19,6 @@ When your GE dryer won't stop running, it typically means the machine continues 
 
 This is a safety issue. A dryer that keeps heating past the cycle end can overheat clothes, damage the machine, or create a fire hazard. Unplug the dryer as soon as you notice it won't shut off.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Stuck heater relay on main control board** The relay that switches the heating element on and off has welded itself closed, so the heater runs continuously even when the cycle ends or a no-heat setting is selected.

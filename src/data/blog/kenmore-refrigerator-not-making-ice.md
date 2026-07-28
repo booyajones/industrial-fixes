@@ -19,8 +19,6 @@ When a Kenmore refrigerator is not making ice, it means the ice maker is not com
 
 This is a symptom, not a specific error code. The underlying fault is almost always mechanical or supply-related. Common verified causes include no water flow to the ice maker, a frozen fill tube blocking water entry, a failed water inlet valve, a defective ice maker module or motor, or the freezer running too warm for ice production.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Frozen fill tube** Ice buildup inside the small tube that delivers water to the ice maker mold blocks water flow and accounts for about 35% of no-ice complaints in field experience.
@@ -54,9 +52,9 @@ This is a symptom, not a specific error code. The underlying fault is almost alw
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kenmore Refrigerator Er 1F error code](/posts/kenmore-refrigerator-er-1f-error-code/)
-- [Kenmore Refrigerator Er Dh error code](/posts/kenmore-refrigerator-er-dh-error-code/)
-- [Kenmore Refrigerator Er Ff error code](/posts/kenmore-refrigerator-er-ff-error-code/)
+- Kenmore Refrigerator Er 1F error code
+- Kenmore Refrigerator Er Dh error code
+- Kenmore Refrigerator Er Ff error code
 
 ## When to Call a Pro
 

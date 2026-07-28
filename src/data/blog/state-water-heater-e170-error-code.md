@@ -13,13 +13,10 @@ money_part: "Temperature sensor (thermistor)"
 most_likely_cause: "Scale or mineral deposits on the heat exchanger"
 ---
 
-## State Water Heater E170 Error Code — What It Means
-
+## What this code means
 E170 is an overheat fault. Your State water heater's control system has detected that water temperature exceeded its safety limit, so it locked out to protect the unit and your home. The controller saw a temperature reading above the allowed threshold and stopped normal operation to prevent damage or scalding.
 
 This code typically signals a real problem with heat transfer, airflow, or sensing rather than a transient glitch. The fault can appear on both tank-type and tankless models, though the underlying causes differ slightly by platform.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

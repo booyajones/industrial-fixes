@@ -19,8 +19,6 @@ When your Maytag dishwasher has power but the buttons do not respond, you are de
 
 Loose or incorrectly wired terminal blocks and loose wire nuts at the power supply can also cause this symptom. A door that is not fully latched will prevent the dishwasher from starting a cycle even if the panel has power. Moisture intrusion into the control panel or ribbon cable area is commonly reported to short or corrode the keypad circuitry.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Control lock or child lock is enabled** Maytag says a padlock indicator may be illuminated when the lock is active, and this will prevent all buttons from responding.
@@ -53,18 +51,18 @@ Loose or incorrectly wired terminal blocks and loose wire nuts at the power supp
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Maytag Dishwasher E1 error code](/posts/maytag-dishwasher-e1-error-code/)
-- [Maytag Dishwasher E15 error code](/posts/maytag-dishwasher-e15-error-code/)
-- [Maytag Dishwasher E3 error code](/posts/maytag-dishwasher-e3-error-code/)
-- [Maytag Dishwasher E4 error code](/posts/maytag-dishwasher-e4-error-code/)
-- [Maytag Dishwasher E6 error code](/posts/maytag-dishwasher-e6-error-code/)
-- [Maytag Dishwasher E7 error code](/posts/maytag-dishwasher-e7-error-code/)
-- [Maytag Dishwasher F10E5 error code](/posts/maytag-dishwasher-f10e5-error-code/)
-- [Maytag Dishwasher F1E1 error code](/posts/maytag-dishwasher-f1e1-error-code/)
-- [Maytag Dishwasher F2E2 error code](/posts/maytag-dishwasher-f2e2-error-code/)
-- [Maytag Dishwasher F3E2 error code](/posts/maytag-dishwasher-f3e2-error-code/)
-- [Maytag Dishwasher F4E3 error code](/posts/maytag-dishwasher-f4e3-error-code/)
-- [Maytag Dishwasher F6E1 error code](/posts/maytag-dishwasher-f6e1-error-code/)
+- Maytag Dishwasher E1 error code
+- Maytag Dishwasher E15 error code
+- Maytag Dishwasher E3 error code
+- Maytag Dishwasher E4 error code
+- Maytag Dishwasher E6 error code
+- Maytag Dishwasher E7 error code
+- Maytag Dishwasher F10E5 error code
+- Maytag Dishwasher F1E1 error code
+- Maytag Dishwasher F2E2 error code
+- Maytag Dishwasher F3E2 error code
+- Maytag Dishwasher F4E3 error code
+- Maytag Dishwasher F6E1 error code
 
 ## When to Call a Pro
 

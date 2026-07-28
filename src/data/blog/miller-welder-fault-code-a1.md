@@ -13,11 +13,8 @@ money_part: "MIG gun / torch"
 most_likely_cause: "Direct short on the output"
 ---
 
-## Miller Welder A1 Fault Code — What It Means
-
+## What this code means
 The A1 fault on Miller welders signals an overcurrent condition — the output current exceeded the machine's rated limit or the internal current sensing circuitry detected an abnormal current spike. Miller's inverter platforms protect the power modules by shutting down output when current exceeds safe thresholds. A1 can be a one-time transient event or a symptom of a recurring weld setup problem.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -25,8 +25,6 @@ Frymaster (a Welbilt brand) manufactures commercial deep fryers for quick-servic
 | F7 | Setpoint temperature not reached | Medium |
 | F9 | Drain valve fault | Medium |
 
-[Jump to Fix](#fix)
-
 ## Most Common Frymaster Fault Codes and Fixes {#fix}
 
 ### F1 / F4 — High Temperature / High Limit
@@ -51,18 +49,3 @@ Fryer can't reach the set oil temperature. Check burner operation, gas pressure,
 ## When to Call a Pro
 
 Gas valve, high-limit thermostat, and heat exchanger work requires a certified commercial kitchen equipment technician. Never operate after F1/F4 without identifying the root cause.
-
-## Related Articles
-
-- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
-- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
-- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
-- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)
-- [Manitowoc Ice Machine Error Code 4 — Water Curtain Fault Fix](/posts/manitowoc-ice-machine-error-code-4-water-curtain/)
-
-## See Also
-
-- [Manitowoc Ice Machine E04 Error: High Condenser Temperature Causes and Fix](/posts/manitowoc-e04-high-condenser-temp/)
-- [Manitowoc vs Scotsman Ice Machines — A Commercial Tech's Honest Comparison (2026)](/posts/manitowoc-vs-scotsman-ice-machines/)
-- [Manitowoc ID-0502 Error Codes — Fault Code Diagnostic Guide](/posts/manitowoc-id-0502-error-codes/)
-- [Manitowoc Ice Machine E04 Error Code — Causes & Fix](/posts/manitowoc-ice-machine-error-code-e04/)

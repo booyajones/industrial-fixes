@@ -17,8 +17,6 @@ tags:
 
 When your Kenmore washer won't turn on, the machine is completely nonresponsive. You see no lights, no display, and pressing any button does nothing. This symptom means the washer is not receiving power or a safety interlock is stopping it from powering up. On top-load models the lid switch must prove the lid is closed before the control will wake up. On front-loaders the door latch serves the same role. If incoming power is present but the control board or timer has failed, the washer will also appear dead.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Tripped breaker or dead outlet** A tripped circuit breaker, blown household fuse, or GFCI that needs resetting is the most common reason a washer goes completely dark.
@@ -52,8 +50,8 @@ When your Kenmore washer won't turn on, the machine is completely nonresponsive.
 
 Seeing a code on the display? These match this problem:
 
-- [Kenmore Washer E14 error code](/posts/kenmore-washer-e14-error-code/)
-- [Kenmore Washer E24 error code](/posts/kenmore-washer-e24-error-code/)
+- Kenmore Washer E14 error code
+- Kenmore Washer E24 error code
 - [Kenmore Washer F0 E2 error code](/posts/kenmore-washer-f0-e2-error-code/)
 - [Kenmore Washer F0 E4 error code](/posts/kenmore-washer-f0-e4-error-code/)
 - [Kenmore Washer F1 E1 error code](/posts/kenmore-washer-f1-e1-error-code/)

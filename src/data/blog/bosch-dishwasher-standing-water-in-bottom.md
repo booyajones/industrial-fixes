@@ -19,8 +19,6 @@ Standing water in the bottom of a Bosch dishwasher after a cycle means the machi
 
 Bosch treats this as a "not draining" condition. The most common cause is food debris blocking the filter or water pump, followed by drain hose routing problems or restrictions in the household drain connection.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged filter unit** Food debris, grease, or small objects accumulate in the filter at the bottom of the tub and prevent water from reaching the pump.

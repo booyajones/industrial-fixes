@@ -13,11 +13,8 @@ money_part: "Model-specific control board"
 most_likely_cause: "Model-specific code not documented"
 ---
 
-## State Water Heater E124 Error Code — What It Means
-
+## What this code means
 The E124 error code does not appear in any verified State Water Heaters documentation or official troubleshooting guides. State directs technicians to locate the exact model number from the rating plate or QR code on the unit, then reference that model's specific manual and fault code chart. Without the model-specific documentation, it is not possible to confirm what E124 means, which components it relates to, or what repair steps apply. Different State models use different control boards and sensors, so error codes are not universal across the product line.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

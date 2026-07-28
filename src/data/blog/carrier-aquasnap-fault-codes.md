@@ -67,21 +67,6 @@ The i-Vue touchscreen shows alarm icons in the top bar. Tap the icon to see faul
 ## When to Call a Pro
 Carrier (Carrier Commercial Service) handles refrigerant work and compressor replacement. Call 1-800-379-6484 for service support.
 
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier 21 Error Code — Gas Heating Lockout Fix](/posts/carrier-21-error-code/)
-- [Carrier Infinity Zoning System Error Codes — Complete Guide](/posts/carrier-infinity-zoning-error/)
-- [Carrier Infinity Error Code 179 — What It Means and How to Fix It](/posts/carrier-infinity-error-179/)
-- [Carrier 24 Error Code — Causes & Fix](/posts/carrier-24-error-code/)
-
 ## More Carrier Aquasnap fault codes
 
 Compiled from manufacturer service manuals and authorized documentation.
@@ -96,7 +81,6 @@ Compiled from manufacturer service manuals and authorized documentation.
 | P-16 | Compressor A1 not started or no pressure increase | Wiring/connection problem, failed contactor, or a compressor that will not build pressure | Verify compressor power, contactor pull-in, and wiring; confirm the compressor actually runs and builds discharge pressure. Manual reset. |
 | P-28 | Control box thermostat or phase reversal detected | Control box poorly ventilated/overheated, phase reversal on the supply, or a poor electrical connection | Check phase sequence and the incoming supply, confirm control-box ventilation and the box thermostat, and tighten electrical connections. Auto-resets when the contact closes. |
 
-
 ## How to troubleshoot Carrier Aquasnap
 
 ## How to work an AquaSnap 30RB/30RQ alarm
@@ -110,7 +94,6 @@ Carrier AquaSnap chillers with Pro-Dialog+ or i-Vue controls report faults as al
 **Auto-reset vs manual reset.** Sensor and transducer faults (TH-, Pr-) generally self-clear when a valid signal returns, which points you at a wiring/connector or a failed sensor rather than a real process problem. Manual-reset faults (most P- and compressor codes) latch deliberately after a safety event — clear the underlying cause first, because repeated manual resets on an unresolved high-pressure or motor-temperature fault can damage the compressor.
 
 **Safety and when to call a pro.** These are commercial R-410A packaged chillers with 3-phase power and high-current compressors. Refrigerant recovery/charging requires EPA certification, and compressor or transducer replacement is skilled work. Lock out and tag out before opening the control box. Owner-side tasks (strainer cleaning, checking pump breakers/rotation, clearing a dirty coil, tightening a flagged connection, reading and logging codes) are reasonable in-house; anything touching the refrigerant circuit, the compressor, or repeated safety lockouts should go to Carrier Commercial Service or a qualified commercial refrigeration contractor.
-
 
 ## Frequently asked questions
 
@@ -133,4 +116,3 @@ On Pro-Dialog+, the ALARM button shows active alarms and history; STATUS shows l
 ### Can I recharge or repair the refrigerant circuit myself?
 
 No. AquaSnap 30RB/30RQ units use R-410A and 3-phase compressors; refrigerant recovery and charging require EPA certification, and compressor or transducer replacement is skilled commercial work. Owner-side troubleshooting (cleaning the strainer and condenser coil, checking pump breakers and rotation, tightening a flagged connection, logging codes) is fine, but refrigerant and compressor work should go to Carrier Commercial Service or a qualified commercial refrigeration contractor.
-

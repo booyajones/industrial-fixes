@@ -19,8 +19,6 @@ A squeaking or squealing noise from your Kenmore dryer is a mechanical symptom, 
 
 Because Kenmore dryers share design with Whirlpool-family models, the squeak points to normal wear in the belt-and-drum assembly. Parts like the idler pulley bearing or drum roller bearings dry out or develop flat spots over time, producing a high-pitched squeal during tumbling.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Worn or seized idler pulley** The idler pulley maintains tension on the drive belt and its bearing can dry out or seize, causing a loud squeal during operation.

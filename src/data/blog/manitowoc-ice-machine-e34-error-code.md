@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Manitowoc E34 Error Code — What It Means
-
+## What this code means
 On Manitowoc Indigo and related display-controlled ice machines, E34 is a display and keyboard communication fault. The main control board is not receiving signals from the keypad or display membrane, or the keypad assembly itself is faulty or not properly connected. In practice, the fault is usually in the user interface assembly itself: the ribbon cable, membrane keypad, connector, or the board input for that interface.
 
 While some sources list broader causes like loss of power or tripped breakers as contributing to a display fault, the most specific and common meaning of E34 is that the keyboard or display membrane is not communicating with the control board. If the machine is otherwise operating but the keypad is dead or intermittent, the interface assembly is the first suspect.
@@ -29,8 +28,6 @@ While some sources list broader causes like loss of power or tripped breakers as
 ## Before You Replace Anything
 
 Many technicians replace the main control board when the real problem is just a loose or corroded ribbon cable connector at the keypad. Always inspect and reseat both ends of the interface harness before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 E34 is an electrical diagnostic issue that requires opening the ice machine cabinet, working near live control boards, and verifying low-voltage signal paths. If you are not comfortable working with control boards, ribbon connectors, or do not have the service manual for your exact Manitowoc model, call a commercial refrigeration or ice machine technician. A pro can quickly test the control board input, verify the keypad membrane integrity, and source the correct replacement parts. If the machine is under warranty or you lack the tools to safely open and service the unit, professional service is the best choice.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Manitowoc E30 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e30-error-code/)
-- [Manitowoc Indigo NXT Ice Machine Complete Troubleshooting Guide](/posts/manitowoc-indigo-nxt-complete-guide/)
-- [Manitowoc IY-0454 Error Codes — Fix Guide](/posts/manitowoc-iy-0454-error-codes/)
-- [Manitowoc Ice Machine E01 Error Code — Causes & Fix](/posts/manitowoc-ice-machine-error-code-e01/)

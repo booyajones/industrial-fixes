@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Whirlpool Oven Touchpad / User Interface"
 ---
 
-## Whirlpool Oven LOC Error Code — What It Means
-
+## What this code means
 LOC on a Whirlpool oven or range means the control lock feature is active, not a component failure. Whirlpool designed this lockout to disable the keypad and prevent unintended use. When the control is locked, pressing any pad can display LOC on screen. The code clears immediately once you unlock the control using the correct button sequence for your model.
 
 On some Whirlpool models the oven door lock is associated with this feature, but the core meaning remains control lockout rather than a fault code. The lock feature cannot be engaged when the oven is in use, so if LOC appears during cooking the control was likely locked before you started or a pad was pressed accidentally while already locked.
@@ -26,30 +25,12 @@ On some Whirlpool models the oven door lock is associated with this feature, but
 
 Homeowners sometimes replace the electronic oven control or touchpad when LOC persists, but the real issue is usually an incorrect unlock sequence for that specific model or a stuck keypad button. Always verify the model-specific unlock procedure in the owner's manual and inspect for stuck keys before ordering control boards.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Control lock activated accidentally (~75%)** The lock feature was turned on by a user or by accidentally holding the lock button, which is the most common reason LOC appears.
-- **Keypad pressed while locked (~15%)** A user pressed a control pad while the lock was already enabled, which causes LOC to display on screen.
-- **Control needs power reset (~8%)** The display does not clear after the proper unlock sequence because the control board needs a full power cycle to restore normal operation.
-- **Stuck or failed keypad button (~2%)** A button on the touchpad is physically stuck or the interface has failed, preventing the unlock command from registering properly.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Does LOC disappear after pressing and holding START/ENTER (or CONTROL LOCK) for about 5 seconds?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The control lock was simply enabled and is now cleared. No repair is needed and the oven is ready to use.<br><strong>No:</strong> The unlock sequence may be incorrect for your model, or the control needs a power reset. Verify the exact button sequence in your owner's manual and try again.</div>
-</details>
-
-<details class="dtree"><summary>After unplugging power for 1 minute and restoring it, does LOC reappear immediately without pressing any buttons?</summary>
-<div class="dtree-body"><strong>Yes:</strong> A button on the touchpad is likely stuck or shorted, sending a continuous lock signal. Inspect the keypad for debris or damage.<br><strong>No:</strong> The control board is functioning normally. Repeat the unlock sequence for your model and make sure the oven is off before attempting to unlock.</div>
-</details>
-
-<details class="dtree"><summary>Can you feel or see any keypad buttons that are stuck down or do not spring back when pressed?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Clean around the stuck button or replace the touchpad assembly if the button remains stuck after cleaning.<br><strong>No:</strong> The unlock procedure may still be model-specific. Consult Whirlpool product help or your owner's manual for the exact sequence, as some models use a dedicated CONTROL LOCK key held for 3 seconds.</div>
-</details>
+- **Control lock activated accidentally** The lock feature was turned on by a user or by accidentally holding the lock button, which is the most common reason LOC appears.
+- **Keypad pressed while locked** A user pressed a control pad while the lock was already enabled, which causes LOC to display on screen.
+- **Control needs power reset** The display does not clear after the proper unlock sequence because the control board needs a full power cycle to restore normal operation.
+- **Stuck or failed keypad button** A button on the touchpad is physically stuck or the interface has failed, preventing the unlock command from registering properly.
 
 ## Step-by-Step Fix {#fix}
 
@@ -71,5 +52,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a professional if the control will not unlock after you have verified the correct button sequence for your model, performed a full power reset at the breaker, and inspected the keypad for stuck buttons. A technician can test the touchpad and control board with a multimeter to isolate whether the user interface or the electronic oven control has failed. Also call a pro if you are uncomfortable working with the oven's electrical connections or if the oven shares a high-voltage circuit with other appliances. Most LOC codes clear with the proper unlock procedure and do not require a service call.
-
-**Rough cost:** DIY runs about $0 if unlocking resolves it; $100-250 for a touchpad or control panel if replacement is needed. A pro service call runs about $150-350 for service call and control panel replacement if unlock and reset fail.

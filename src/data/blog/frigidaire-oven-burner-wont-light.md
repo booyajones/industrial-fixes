@@ -20,8 +20,6 @@ When a Frigidaire oven burner won't light, it means the gas safety valve is not 
 
 This symptom is different from a surface burner that won't light. Surface burner problems usually come from knob position, mis-seated burner caps, or clogged burner ports. For the oven burner specifically, the igniter is the leading cause in about 90 percent of cases where the burner does not light.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Weak or failed oven igniter** The hot-surface igniter glows but does not draw enough current to open the gas safety valve, so no gas flows to the burner.

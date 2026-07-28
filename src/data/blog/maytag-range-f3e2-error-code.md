@@ -17,8 +17,7 @@ money_part: "Maytag oven temperature sensor"
 part_price: "$20-50"
 ---
 
-## Maytag Range F3E2 Error Code — What It Means
-
+## What this code means
 The F3E2 code on a Maytag range tells you the oven's temperature-sensing circuit is not reporting a valid signal to the control board. The electronic control expects to see a stable resistance value from the oven temperature sensor (an RTD or thermistor probe inside the oven cavity), and when that reading is missing, out of range, or shows an open or short, the control throws F3E2 and stops the bake cycle to protect the oven.
 
 In practical service terms, this fault almost always points to the oven temperature sensor itself, the wiring and connector between the sensor and the control, or (less often) a failed electronic oven control board that cannot read a good sensor signal. The code does not mean your bake element is bad or that the oven door is failing. It is strictly a sensor-circuit problem.
@@ -26,8 +25,6 @@ In practical service terms, this fault almost always points to the oven temperat
 ## Before You Replace Anything
 
 Many people replace the electronic control board first because the code sounds electronic. Test the sensor's resistance with a multimeter and inspect the connector pins before spending money on a control. A faulty sensor or a loose plug causes F3E2 far more often than a bad board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

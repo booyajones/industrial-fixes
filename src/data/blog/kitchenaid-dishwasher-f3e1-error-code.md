@@ -18,8 +18,7 @@ free_checks:
   - "Inspect the wash motor wiring harness and connectors for loose plugs, burnt terminals, or visible damage at all accessible points."
 ---
 
-## KitchenAid Dishwasher F3E1 Error — What It Means
-
+## What this code means
 F3E1 is not documented in KitchenAid's dishwasher technical support pages as a standard fault code. The closely related and verified code for KitchenAid dishwashers is F7E1 (or 7-1), which signals a wash motor failure. If your console shows F3E1, first confirm the exact model number and recheck the display, because you may be seeing F7E1 instead. Some displays can be misread, especially if segments are dim or partially lit.
 
 If the code is indeed F7E1, it means the dishwasher detects that the circulation pump or wash motor is not moving water as expected. The machine may fill normally but will not spray or circulate water during the wash cycle. The control board sends power to the motor but does not receive the expected feedback, triggering the fault. Do not apply KitchenAid range oven codes (which also use F3E1 for temperature-sensor issues) to your dishwasher, as they are unrelated appliances with different fault lists.
@@ -27,8 +26,6 @@ If the code is indeed F7E1, it means the dishwasher detects that the circulation
 ## Before You Replace Anything
 
 Many people replace the control board assuming the fault is electronic, but a loose motor connector or damaged wiring harness is often the real cause. Inspect and reseat all motor circuit connectors and check for burnt pins or corrosion before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

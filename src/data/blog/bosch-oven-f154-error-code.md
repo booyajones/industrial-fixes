@@ -22,8 +22,7 @@ part_price: "$40-85"
 no_buy_pct: "60%"
 ---
 
-## Bosch Oven F154 Error Code — What It Means
-
+## What this code means
 There is no recorded F154 error code in official Bosch oven documentation or authorized service manuals. The code F154 does not align with Bosch's standardized fault code structure for ovens, which typically uses F40-F49 for door latch, temperature sensor, and control board issues. You are most likely seeing F41, F42, or F43, which indicate the motorized self-cleaning latch has failed to lock or unlock properly during a self-clean or bake cycle. The control board detects the door is not in the correct state within the expected timeframe.
 
 If you are certain the display shows F154, consult your model's wiring diagram and owner's manual, as it may be a model-specific code not widely documented. For most Bosch ovens, door latch faults (F41-F43) are the most common F-code errors and typically result from mechanical obstructions, worn latch motors, or faulty door switches.
@@ -31,8 +30,6 @@ If you are certain the display shows F154, consult your model's wiring diagram a
 ## Before You Replace Anything
 
 Many owners replace the control board first, but the real cause is usually a dirty or jammed latch assembly or a failed latch motor. Clean the latch tracks and test the motor for continuity before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

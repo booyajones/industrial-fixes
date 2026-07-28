@@ -17,8 +17,7 @@ money_part: "LG washer main control board (PCB)"
 part_price: "$150-350"
 ---
 
-## LG Washer CE Error Code — What It Means
-
+## What this code means
 The CE error code on an LG washer indicates an over-current condition in the motor electrical circuit. LG defines this as a drive-system electrical fault caused by a short circuit, loose connection, ground fault, or power surge. It is not a normal operation issue.
 
 When the washer detects excessive current flowing to the drive motor, the control board triggers CE and stops the cycle to prevent further damage. The fault lies somewhere in the electrical path between the main control board and the motor, including the wiring harness, connectors, the motor itself, or the control electronics that drive it.
@@ -26,8 +25,6 @@ When the washer detects excessive current flowing to the drive motor, the contro
 ## Before You Replace Anything
 
 Many people replace the drive motor first, but a failed main control board (specifically the motor control section) causes CE just as often. Check all wiring and connectors first, then test the motor windings for shorts or opens before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a professional if the CE code returns after a power reset, or if you are not comfortable working with live AC circuits and the washer's internal wiring. Diagnosing CE requires tracing the motor electrical path, testing control board outputs, and sometimes checking motor winding resistance under load. If both the control board and motor appear intact but the code persists, a technician with a service manual and multimeter can isolate the fault faster and avoid replacing the wrong part. Any work involving the main control board or motor replacement also carries risk of further damage if connectors are mishandled or the wrong part is installed.
 
 **Rough cost:** DIY runs about $150-350 in parts, 1-2 hours. A pro service call runs about $200-450.
-
-## See Also
-
-- [LG Washer Error Codes — Complete Fix Guide](/posts/lg-washer-error-codes/)
-- [LG Washer PE Error Code - Causes & Fix](/posts/lg-washer-pe-error-code/)
-- [LG Washer Door Lock Assembly Replacement - Signs & How-To](/posts/lg-washer-door-lock-latch-assembly-replacement/)
-- [LG Dryer LE2 Error Code - Causes & Fix](/posts/lg-dryer-le2-error-code/)

@@ -162,9 +162,3 @@ This guide covers the most common Knight boiler display messages and how to reso
 Gas pressure testing, gas valve replacement, heat exchanger inspection, and combustion analysis require licensed HVAC/gas contractors. A Fatal Error that persists after a power cycle is almost always a control board issue — control board replacement should be performed by a Lochinvar-certified technician to ensure proper configuration and warranty compliance.
 
 > **Pro tip:** The Knight displays a fault history accessible through the Advanced Settings menu. Before clearing any fault, navigate to the fault log and record the timestamp and fault description — this history is invaluable for diagnosing intermittent problems and for warranty documentation.
-
-## Related Articles
-
-- [Lochinvar Boiler Flame Fail — Causes & Fix](/posts/lochinvar-boiler-flame-fail/)
-- [Lochinvar Boiler Error Code E01](/posts/lochinvar-boiler-error-code-e01/)
-- [Lochinvar Boiler Error Code E02 — Ignition Failure](/posts/lochinvar-boiler-error-code-e02-ignition-failure/)

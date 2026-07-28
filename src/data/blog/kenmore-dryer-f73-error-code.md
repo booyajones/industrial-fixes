@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Dryer F73 Error Code — What It Means
-
+## What this code means
 The F73 error code is not verified in Kenmore dryer manufacturer documentation. The closest documented fault for Kenmore dryers is F70, which indicates a communication failure between the main electronic control board and the user interface control panel. In plain language, the two control boards cannot talk to each other. This communication fault prevents the dryer from starting or continuing a cycle.
 
 If your display shows F73 specifically, consult your model's wiring diagram or service manual to confirm the exact meaning for your machine. Different Kenmore model families sometimes use different fault codes. The repair steps below address the common F70 communication fault, which shares similar troubleshooting logic for control and interface problems.
@@ -26,8 +25,6 @@ If your display shows F73 specifically, consult your model's wiring diagram or s
 ## Before You Replace Anything
 
 Many people replace the main control board first, spending $150 or more, when a loose or corroded harness connector is the real problem. Unplug the dryer and inspect every connector between the console and main board for looseness, corrosion, or damaged pins before ordering any boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

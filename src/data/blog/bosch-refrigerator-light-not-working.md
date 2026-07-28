@@ -19,8 +19,6 @@ When a Bosch refrigerator light does not turn on, the interior illumination circ
 
 If your model uses a replaceable bulb, Bosch says it can usually be changed by the user. If your model uses an LED light module, Bosch recommends booking an engineer to replace it professionally. The issue is typically isolated to the light circuit and does not affect refrigeration.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed bulb** The most common cause is a burned-out, blackened, or broken incandescent or halogen bulb in models with user-replaceable lamps.
@@ -52,14 +50,14 @@ If your model uses a replaceable bulb, Bosch says it can usually be changed by t
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Bosch Refrigerator E01 error code](/posts/bosch-refrigerator-e01-error-code/)
+- Bosch Refrigerator E01 error code
 - [Bosch Refrigerator E02 error code](/posts/bosch-refrigerator-e02-error-code/)
-- [Bosch Refrigerator E03 error code](/posts/bosch-refrigerator-e03-error-code/)
-- [Bosch Refrigerator E10 error code](/posts/bosch-refrigerator-e10-error-code/)
-- [Bosch Refrigerator E11 error code](/posts/bosch-refrigerator-e11-error-code/)
-- [Bosch Refrigerator E15 error code](/posts/bosch-refrigerator-e15-error-code/)
-- [Bosch Refrigerator E20 error code](/posts/bosch-refrigerator-e20-error-code/)
-- [Bosch Refrigerator E21 error code](/posts/bosch-refrigerator-e21-error-code/)
+- Bosch Refrigerator E03 error code
+- Bosch Refrigerator E10 error code
+- Bosch Refrigerator E11 error code
+- Bosch Refrigerator E15 error code
+- Bosch Refrigerator E20 error code
+- Bosch Refrigerator E21 error code
 
 ## When to Call a Pro
 

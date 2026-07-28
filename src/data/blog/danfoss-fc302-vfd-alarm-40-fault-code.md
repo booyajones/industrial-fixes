@@ -13,13 +13,10 @@ money_part: "Field wiring for terminal 27"
 most_likely_cause: "Short circuit on terminal 27 wiring"
 ---
 
-## Danfoss FC302 Alarm 40 — What It Means
-
+## What this code means
 Alarm 40 on a Danfoss FC302 VFD means overload of digital output terminal 27. The drive has detected that terminal 27 is sourcing or sinking more current than allowed, or the connected circuit is effectively shorted. This fault is tied to parameters 5-00 (Digital I/O Mode) and 5-01 (Terminal 27 Mode). The drive is protecting itself from damage to the output stage.
 
 This is not a motor earth fault or a power-stage problem. It is strictly a digital I/O issue on terminal 27. The fault points to either external wiring or device problems connected to that terminal, or incorrect configuration of how the terminal is being used. In most cases, the issue is in the field wiring or the connected load, not inside the drive itself.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ This is not a motor earth fault or a power-stage problem. It is strictly a digit
 ## When to Call a Pro
 
 Call a qualified technician or controls specialist if you are not comfortable working with VFD wiring or digital I/O circuits. If Alarm 40 continues after you have removed and checked all external wiring and loads on terminal 27, and the fault returns after a power cycle with nothing connected, the control card is likely defective and requires factory replacement or repair. VFD repairs involving internal boards should be done by trained personnel to avoid voiding warranties or creating safety hazards.
-
-## See Also
-
-- [Danfoss FC302 ALARM 35 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-35-fault-code/)
-- [Danfoss FC302 ALARM 35 - Causes & Fix](/posts/danfoss-fc302-alarm-35-fault-code/)
-- [Danfoss FC302 VFD ALARM 57 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-57-fault-code/)
-- [Danfoss RX Controller Fault Codes — Troubleshooting Guide](/posts/danfoss-rx-controller-fault/)

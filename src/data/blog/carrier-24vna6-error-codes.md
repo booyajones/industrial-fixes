@@ -138,10 +138,3 @@ A: Normal defrost cycles occur every 30–90 minutes during heating operation in
 
 **Q: Code 185 (voltage fault) appeared after a summer storm. The unit won't run. What do I check first?**
 A: Check your main electrical panel for a tripped breaker or a breaker that appears on but has internally tripped (flip it fully off, then back on). If the panel looks fine, check the outdoor disconnect for a blown fuse or tripped disconnect. Then measure L1-L2 voltage at the outdoor unit's contactor with a multimeter. Carrier specifies 208–240VAC; anything below 187V or above 253V will trigger code 185. If voltage is consistently outside range, that's a utility or panel issue for an electrician.
-
-## See Also
-
-- [Carrier Mini-Split F0 Error Code — Low Refrigerant / Leakage Detection Fix](/posts/carrier-mini-split-f0-error-code/)
-- [Carrier Error Code 58 — Causes & Fix](/posts/carrier-58-error-code/)
-- [Carrier Error Code 61 — Rollout Switch Lockout](/posts/carrier-61-error-code/)
-- [Carrier Heat Pump E6 Error Code — Outdoor Temp Sensor Fault](/posts/carrier-heat-pump-e6-error-code/)

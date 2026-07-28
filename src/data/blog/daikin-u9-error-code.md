@@ -13,11 +13,8 @@ money_part: "Condenser fan motor"
 most_likely_cause: "Dirty or blocked outdoor coil"
 ---
 
-## Daikin U9 Error Code — What It Means
-
+## What this code means
 U9 on a Daikin mini-split indicates an abnormally high discharge pressure on the refrigerant circuit. The high-pressure switch (HPS) in the outdoor unit opened because refrigerant pressure exceeded the safe operating limit — typically 400–600 PSI on R-410A systems depending on the model. The system shuts down to prevent compressor damage, refrigerant line rupture, or safety switch failure.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ U9 on a Daikin mini-split indicates an abnormally high discharge pressure on the
 ## When to Call a Pro
 
 Refrigerant measurement and handling requires EPA 608 certification. If U9 is caused by overcharge or non-condensables, a licensed technician must recover, evacuate, and recharge the system.
-
-## Related Articles
-
-- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
-- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
-- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
-- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
-- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)
-
-## See Also
-
-- [Daikin J3 Error Code — Discharge Pipe Temperature Sensor Fault Fix](/posts/daikin-j3-error-code/)
-- [Daikin H6 Error Code — Indoor Fan Motor Lock Fault Fix](/posts/daikin-h6-error-code/)
-- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
-- [Daikin E4 Error Code - Causes & Fix](/posts/daikin-e4-error-code/)

@@ -19,8 +19,6 @@ A Speed Queen washer that is not draining completely means water remains in the 
 
 If the machine drains most of the water but leaves a small amount behind, the issue is often a partially restricted hose, a weak pump, or a pressure-sensing problem rather than a complete pump failure. The drain timeout or incomplete drain symptom points to a drain-system fault that requires inspecting the hose, pump, and household plumbing.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Kinked, crushed, or blocked drain hose** A sharp bend, kink, or physical crushing of the drain hose between the washer and standpipe restricts water flow and is the most common cause of incomplete draining.
@@ -60,12 +58,12 @@ If your appliance also shows a code on the display, these match this problem:
 - [Speed Queen Washer Du error code](/posts/speed-queen-washer-du-error-code/)
 - [Speed Queen Washer E 05 error code](/posts/speed-queen-washer-e-05-error-code/)
 - [Speed Queen Washer E 07 error code](/posts/speed-queen-washer-e-07-error-code/)
-- [Speed Queen Washer E 08 error code](/posts/speed-queen-washer-e-08-error-code/)
+- Speed Queen Washer E 08 error code
 - [Speed Queen Washer E 0D error code](/posts/speed-queen-washer-e-0d-error-code/)
-- [Speed Queen Washer E1 error code](/posts/speed-queen-washer-e1-error-code/)
+- Speed Queen Washer E1 error code
 - [Speed Queen Washer E5 error code](/posts/speed-queen-washer-e5-error-code/)
 - [Speed Queen Washer E7 error code](/posts/speed-queen-washer-e7-error-code/)
-- [Speed Queen Washer Ec 09 error code](/posts/speed-queen-washer-ec-09-error-code/)
+- Speed Queen Washer Ec 09 error code
 
 ## When to Call a Pro
 

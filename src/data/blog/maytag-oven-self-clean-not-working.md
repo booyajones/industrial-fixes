@@ -20,8 +20,6 @@ When your Maytag oven self-clean cycle will not start, the control board is not 
 
 Some Maytag and related designs use a door lock motor assembly instead of a purely mechanical latch. Failure in the motor, its switches, wiring, or the control board itself will prevent the lock confirmation the control needs to enable the clean cycle.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Damaged or worn door latch assembly** The latch hardware is bent, broken, or cannot engage fully, so the control never sees the locked condition and blocks the cycle.
@@ -52,18 +50,18 @@ Some Maytag and related designs use a door lock motor assembly instead of a pure
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Maytag Oven A6 error code](/posts/maytag-oven-a6-error-code/)
-- [Maytag Oven Ab error code](/posts/maytag-oven-ab-error-code/)
-- [Maytag Oven Cal error code](/posts/maytag-oven-cal-error-code/)
-- [Maytag Oven F0 error code](/posts/maytag-oven-f0-error-code/)
+- Maytag Oven A6 error code
+- Maytag Oven Ab error code
+- Maytag Oven Cal error code
+- Maytag Oven F0 error code
 - [Maytag Oven F1 error code](/posts/maytag-oven-f1-error-code/)
-- [Maytag Oven F2 error code](/posts/maytag-oven-f2-error-code/)
-- [Maytag Oven F3 error code](/posts/maytag-oven-f3-error-code/)
-- [Maytag Oven F4 error code](/posts/maytag-oven-f4-error-code/)
-- [Maytag Oven F5 error code](/posts/maytag-oven-f5-error-code/)
-- [Maytag Oven F7 error code](/posts/maytag-oven-f7-error-code/)
-- [Maytag Oven F8 error code](/posts/maytag-oven-f8-error-code/)
-- [Maytag Oven F9 error code](/posts/maytag-oven-f9-error-code/)
+- Maytag Oven F2 error code
+- Maytag Oven F3 error code
+- Maytag Oven F4 error code
+- Maytag Oven F5 error code
+- Maytag Oven F7 error code
+- Maytag Oven F8 error code
+- Maytag Oven F9 error code
 
 ## When to Call a Pro
 

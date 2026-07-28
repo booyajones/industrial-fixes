@@ -20,8 +20,6 @@ When your Kenmore oven clicks but won't light, you're hearing the ignition syste
 
 If the igniter glows bright cherry red and the burner still doesn't light within one to two minutes, the igniter is likely weak or the gas valve circuit has failed. If you hear clicking with no glow or spark visible, the issue is usually electrical, involving the spark module, control board, or damaged wiring between components.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Weak or failed oven igniter** The igniter glows but doesn't pull enough current to open the gas valve, typically needing 3.0 to 3.6 amps to trip the valve open.
@@ -63,10 +61,10 @@ If your appliance also shows a code on the display, these match this problem:
 - [Kenmore Oven F3 error code](/posts/kenmore-oven-f3-error-code/)
 - [Kenmore Oven F30 error code](/posts/kenmore-oven-f30-error-code/)
 - [Kenmore Oven F31 error code](/posts/kenmore-oven-f31-error-code/)
-- [Kenmore Oven F33 error code](/posts/kenmore-oven-f33-error-code/)
+- Kenmore Oven F33 error code
 - [Kenmore Oven F4 error code](/posts/kenmore-oven-f4-error-code/)
 - [Kenmore Oven F5 error code](/posts/kenmore-oven-f5-error-code/)
-- [Kenmore Oven F50 error code](/posts/kenmore-oven-f50-error-code/)
+- Kenmore Oven F50 error code
 - [Kenmore Oven F7 error code](/posts/kenmore-oven-f7-error-code/)
 
 ## When to Call a Pro

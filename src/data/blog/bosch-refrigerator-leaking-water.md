@@ -19,8 +19,6 @@ When you see water pooling inside your Bosch refrigerator or leaking onto the fl
 
 If that drain gets blocked by food particles, mold, or ice, the water backs up and has nowhere to go. It can pool at the bottom of the fridge, leak out the front, or drip down behind the panels. Bosch's own support materials identify this blocked drain as the primary leak path and recommend shutting off the water supply and contacting support if the issue persists after basic cleaning.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Blocked defrost drain hole** Food debris, mold, or mineral buildup clogs the small drain opening at the rear wall above the drawers, preventing melt water from reaching the evaporation tray.
@@ -53,12 +51,12 @@ If that drain gets blocked by food particles, mold, or ice, the water backs up a
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Bosch Refrigerator E01 error code](/posts/bosch-refrigerator-e01-error-code/)
+- Bosch Refrigerator E01 error code
 - [Bosch Refrigerator E02 error code](/posts/bosch-refrigerator-e02-error-code/)
-- [Bosch Refrigerator E03 error code](/posts/bosch-refrigerator-e03-error-code/)
-- [Bosch Refrigerator E10 error code](/posts/bosch-refrigerator-e10-error-code/)
-- [Bosch Refrigerator E11 error code](/posts/bosch-refrigerator-e11-error-code/)
-- [Bosch Refrigerator E15 error code](/posts/bosch-refrigerator-e15-error-code/)
+- Bosch Refrigerator E03 error code
+- Bosch Refrigerator E10 error code
+- Bosch Refrigerator E11 error code
+- Bosch Refrigerator E15 error code
 - [Bosch Refrigerator E20 error code](/posts/bosch-refrigerator-e20-error-code/)
 - [Bosch Refrigerator E21 error code](/posts/bosch-refrigerator-e21-error-code/)
 

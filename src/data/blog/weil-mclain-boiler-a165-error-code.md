@@ -17,8 +17,7 @@ free_checks:
   - "Look for stored fault history in the diagnostics or contractor menu and note any other codes that appear."
 ---
 
-## Weil-McLain A165 Error Code — What It Means
-
+## What this code means
 A165 does not appear in published Weil-McLain fault-code tables for common residential boiler controls. The code may be a model-specific diagnostic history entry, a technician menu identifier, or a misread display. Weil-McLain boilers store fault history in contractor menus, and the exact meaning depends on the control platform and model. Without the exact boiler model and its manual, it is impossible to state what A165 indicates.
 
 Because error meanings are model-specific, attempting repairs based on guesswork can waste money and time. The correct first step is to pull the full diagnostic history from the boiler's display, note the exact model number and control type, and consult the manufacturer's manual or a qualified technician who can decode the fault in context.
@@ -26,8 +25,6 @@ Because error meanings are model-specific, attempting repairs based on guesswork
 ## Before You Replace Anything
 
 Homeowners and inexperienced techs sometimes replace gas valves or ignition modules when the real problem is low system pressure, a blocked condensate drain, or a bad sensor. Always verify the exact fault definition and measure actual conditions before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a professional immediately if you cannot find A165 in your boiler's manual, if the code reappears after checking pressure and condensate, or if you are uncomfortable working with gas, electrical connections, or diagnostic menus. Technicians have model-specific fault-code charts, multimeters to test sensors and ignition components, and combustion analyzers to verify safe operation. Because Weil-McLain error meanings vary by control platform, guessing the cause and replacing parts without proper diagnostics wastes money and can leave the boiler unsafe. A qualified tech will decode the fault history, measure actual sensor values, and repair only what is broken.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain A91 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a91-error-code/)
-- [Weil-McLain Boiler A128 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a128-error-code/)
-- [Weil-McLain A181 Error - Causes & Fix](/posts/weil-mclain-boiler-a181-error-code/)
-- [Weil-McLain A74 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a74-error-code/)

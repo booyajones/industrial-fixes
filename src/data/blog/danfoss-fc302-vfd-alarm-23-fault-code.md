@@ -13,11 +13,8 @@ money_part: "Danfoss FC302 internal fan assembly"
 most_likely_cause: "Failed internal fan or worn bearings"
 ---
 
-## Danfoss FC302 VFD Alarm 23 — What It Means
-
+## What this code means
 Alarm 23 (or Warning 23) on a Danfoss VLT AutomationDrive FC 302 indicates an internal fan fault. The drive's fan-monitoring function has detected that the internal cooling fan is not running, is not mounted correctly, or its monitoring circuit has reported a problem. This is an extra protective function that checks whether the fan is functioning properly and installed as required. The alarm is tied to the drive's internal cooling system, not the motor or load side. If the fan cannot cool the drive electronics, the VFD may overheat and shut down to protect itself.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ Alarm 23 (or Warning 23) on a Danfoss VLT AutomationDrive FC 302 indicates an in
 ## When to Call a Pro
 
 Call a qualified drives technician or an electrical contractor with VFD experience if you are not trained in high-voltage electrical work or if the alarm persists after replacing the fan and fuses. Working inside a VFD involves potentially lethal DC bus voltages that can remain even after mains power is disconnected. If the control card or option card needs replacement, a technician can also verify proper configuration and parameter settings after the repair.
-
-## See Also
-
-- [Danfoss FC302 Alarm 20 - Causes & Fix](/posts/danfoss-fc302-alarm-20-fault-code/)
-- [Danfoss FC302 VFD Alarm 46 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-46-fault-code/)
-- [Danfoss FC302 Alarm 24 - Causes & Fix](/posts/danfoss-fc302-alarm-24-fault-code/)
-- [Danfoss FC302 Alarm 49 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-49-fault-code/)

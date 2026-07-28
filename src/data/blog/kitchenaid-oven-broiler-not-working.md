@@ -20,8 +20,6 @@ When the broiler is not working on a KitchenAid oven, the broil circuit is not e
 
 This is a symptom diagnosis, not a fault code. KitchenAid does not publish a single broiler-not-working error code for this complaint. The official first checks are whether the door is fully closed and the control is actually set to BROIL.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door not fully closed** KitchenAid ovens will not energize the broil element if the door is not completely closed or if door interlock logic prevents operation.
@@ -54,18 +52,18 @@ This is a symptom diagnosis, not a fault code. KitchenAid does not publish a sin
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kitchenaid Oven A6 error code](/posts/kitchenaid-oven-a6-error-code/)
-- [Kitchenaid Oven Ab error code](/posts/kitchenaid-oven-ab-error-code/)
-- [Kitchenaid Oven Cal error code](/posts/kitchenaid-oven-cal-error-code/)
-- [Kitchenaid Oven F6 E0 error code](/posts/kitchenaid-oven-f6-e0-error-code/)
-- [Kitchenaid Oven F6 E1 error code](/posts/kitchenaid-oven-f6-e1-error-code/)
-- [Kitchenaid Oven F6 E2 error code](/posts/kitchenaid-oven-f6-e2-error-code/)
-- [Kitchenaid Oven F6 E3 error code](/posts/kitchenaid-oven-f6-e3-error-code/)
-- [Kitchenaid Oven F6 E4 error code](/posts/kitchenaid-oven-f6-e4-error-code/)
-- [Kitchenaid Oven F6 E5 error code](/posts/kitchenaid-oven-f6-e5-error-code/)
-- [Kitchenaid Oven F6 E6 error code](/posts/kitchenaid-oven-f6-e6-error-code/)
-- [Kitchenaid Oven F6 E7 error code](/posts/kitchenaid-oven-f6-e7-error-code/)
-- [Kitchenaid Oven F6 E8 error code](/posts/kitchenaid-oven-f6-e8-error-code/)
+- Kitchenaid Oven A6 error code
+- Kitchenaid Oven Ab error code
+- Kitchenaid Oven Cal error code
+- Kitchenaid Oven F6 E0 error code
+- Kitchenaid Oven F6 E1 error code
+- Kitchenaid Oven F6 E2 error code
+- Kitchenaid Oven F6 E3 error code
+- Kitchenaid Oven F6 E4 error code
+- Kitchenaid Oven F6 E5 error code
+- Kitchenaid Oven F6 E6 error code
+- Kitchenaid Oven F6 E7 error code
+- Kitchenaid Oven F6 E8 error code
 
 ## When to Call a Pro
 

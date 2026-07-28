@@ -13,11 +13,8 @@ money_part: "Siemens G120 inverter power module"
 most_likely_cause: "Overload or excessive duty cycle"
 ---
 
-## Siemens G120 F0006 Fault — What It Means
-
+## What this code means
 F0006 on a Siemens SINAMICS G120 means the drive has detected a critical chip-temperature rise in the power electronics and has tripped with an OFF2 shutdown. This is not a simple overtemp alarm you can reset and ignore. The drive is protecting itself from thermal damage. Siemens fault documentation points to both application-level causes (overload, incorrect motor sizing, excessive switching frequency) and hardware failure in the inverter power stage when the fault persists.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,10 +43,3 @@ F0006 on a Siemens SINAMICS G120 means the drive has detected a critical chip-te
 ## When to Call a Pro
 
 Call a qualified technician or Siemens service immediately if the fault returns after you have verified motor sizing, corrected thermal parameters, and confirmed adequate cooling. Persistent F0006 after parameter corrections indicates a hardware failure in the power stage that requires factory-authorized replacement of the inverter power module. Do not attempt repeated resets without addressing the root cause, because continued operation with a real thermal fault can damage the drive permanently.
-
-## See Also
-
-- [Siemens SINAMICS G120 F00001 Fault — Causes & Fix](/posts/siemens-sinamics-g120-fault-f00001/)
-- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
-- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)
-- [Siemens G120 F01600 - Causes & Fix](/posts/siemens-g120-f01600-fault-code/)

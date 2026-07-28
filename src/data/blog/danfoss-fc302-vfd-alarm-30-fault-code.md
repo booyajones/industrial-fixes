@@ -13,11 +13,8 @@ money_part: "Motor cable (U-phase conductor)"
 most_likely_cause: "Loose or disconnected motor lead on U phase"
 ---
 
-## Danfoss FC302 ALARM 30 — What It Means
-
+## What this code means
 ALARM 30 on a Danfoss VLT AutomationDrive FC 302 means motor phase U missing. The drive does not detect continuity on the U phase between the frequency converter and the motor, so it trips to protect the power stage and motor. The FC 302 has detected that the U output phase is open or disconnected between the drive and the motor. This alarm is part of the missing motor phase U/V/W fault family and is not expected to appear during normal start-up. It is a running or output-phase fault that indicates a break in the circuit path.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ ALARM 30 on a Danfoss VLT AutomationDrive FC 302 means motor phase U missing. Th
 ## When to Call a Pro
 
 Call a qualified industrial electrician or VFD technician if you are not trained to work safely on live or recently live high-voltage equipment. If you have verified that all external motor connections are tight and the U-phase cable has continuity, but the alarm persists, the fault is likely inside the drive and requires an experienced technician or factory-authorized service center to diagnose and replace the power stage or control card. Do not continue to run the drive with a recurring missing-phase alarm, as it can damage the motor or the remaining drive components.
-
-## See Also
-
-- [Danfoss FC302 VFD ALARM 57 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-57-fault-code/)
-- [Danfoss FC302 ALARM 20 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-20-fault-code/)
-- [Danfoss FC302 ALARM 25 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-25-fault-code/)
-- [Danfoss FC302 ALARM 18 - Causes & Fix](/posts/danfoss-fc302-alarm-18-fault-code/)

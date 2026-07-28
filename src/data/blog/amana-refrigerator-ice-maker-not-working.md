@@ -19,8 +19,6 @@ When an Amana ice maker stops working, the refrigerator either produces no ice a
 
 Amana separates true no-ice conditions from cases where ice forms but doesn't eject. If the unit is making ice but not releasing it, a reset is the first recommended fix. Problems on newly installed units often trace to door alignment, cabinet interference, or loose wiring and tubing connections at the freezer door hinge.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Ice maker switched off** The shutoff arm or control switch was moved to the off position accidentally during cleaning or bin removal.
@@ -53,15 +51,15 @@ Amana separates true no-ice conditions from cases where ice forms but doesn't ej
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Amana Refrigerator Ci error code](/posts/amana-refrigerator-ci-error-code/)
-- [Amana Refrigerator D7 error code](/posts/amana-refrigerator-d7-error-code/)
-- [Amana Refrigerator D8 error code](/posts/amana-refrigerator-d8-error-code/)
-- [Amana Refrigerator D9 error code](/posts/amana-refrigerator-d9-error-code/)
-- [Amana Refrigerator Ec40 error code](/posts/amana-refrigerator-ec40-error-code/)
-- [Amana Refrigerator F1 error code](/posts/amana-refrigerator-f1-error-code/)
-- [Amana Refrigerator If error code](/posts/amana-refrigerator-if-error-code/)
-- [Amana Refrigerator It error code](/posts/amana-refrigerator-it-error-code/)
-- [Amana Refrigerator Po error code](/posts/amana-refrigerator-po-error-code/)
+- Amana Refrigerator Ci error code
+- Amana Refrigerator D7 error code
+- Amana Refrigerator D8 error code
+- Amana Refrigerator D9 error code
+- Amana Refrigerator Ec40 error code
+- Amana Refrigerator F1 error code
+- Amana Refrigerator If error code
+- Amana Refrigerator It error code
+- Amana Refrigerator Po error code
 
 ## When to Call a Pro
 

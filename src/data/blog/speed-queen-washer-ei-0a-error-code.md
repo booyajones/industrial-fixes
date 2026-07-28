@@ -14,13 +14,10 @@ money_part: "Speed Queen main control board"
 most_likely_cause: "Mismatched or incorrect control board"
 ---
 
-## Speed Queen Washer EI:0A Error — What It Means
-
+## What this code means
 The EI:0A code on a Speed Queen washer indicates an Invalid Machine Type or Proximity Error. According to the fault code list, this means the control system detects the wrong machine type. In practical terms, the main control board is not recognizing the expected configuration or identity of your washer. This is a configuration or communication fault, not a typical mechanical issue like a clogged drain or unbalanced load.
 
 The code most commonly appears after a control board has been replaced with an incorrect or incompatible part, or when a wiring connection between the control and proximity sensing circuits has failed. Power interruptions or unstable electrical supply can also trigger board communication faults that present as machine-type mismatches.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

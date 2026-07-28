@@ -16,8 +16,7 @@ likelihood: "the most common real-world cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Dryer F02 Error Code — What It Means
-
+## What this code means
 F02 does not appear in Amana's published dryer error code list. The manufacturer documents codes such as AF/F4E3 for restricted airflow, L2 for low or no line voltage, and PF for power failure, but F02 is not among them. In practice this means the code may be misread, misreported, or the display may be showing a different fault. Before proceeding, verify the exact model number and what the display actually shows, because the fault may belong to a different appliance platform or may be a variation of AF/F4E3 or L2.
 
 Because Amana's published dryer guidance does not define F02, the diagnostic path should start with the documented faults that are most commonly reported by users: restricted airflow (AF/F4E3) and low voltage (L2). Clear the lint screen, inspect the entire vent run for kinks or crushing, verify that both breakers or fuses are in good condition (electric dryers use two household fuses or breakers), and check the power cord connections. If these steps do not resolve the issue, consult the wiring diagram and service manual for your specific model number to identify whether F02 is a control-board fault unique to that platform.
@@ -25,8 +24,6 @@ Because Amana's published dryer guidance does not define F02, the diagnostic pat
 ## Before You Replace Anything
 
 Many users replace the control board or heating element when the dryer shows an unfamiliar code, but the fault is often a clogged lint screen or crushed vent hose. Clear the vent and verify both breakers before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

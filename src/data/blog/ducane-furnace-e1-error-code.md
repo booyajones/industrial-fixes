@@ -13,11 +13,8 @@ money_part: "Pressure switch"
 most_likely_cause: "Clogged or kinked pressure switch hose"
 ---
 
-## Ducane Furnace E1 Error Code — What It Means
-
+## What this code means
 E1 on a Ducane furnace points to a pressure switch or inducer circuit fault. Ducane is a Lennox-manufactured brand with the same control logic as Lennox, AirEase, and Armstrong furnaces. Code E1 fires when the pressure switch does not close within the expected window after the inducer starts — meaning the furnace cannot verify safe draft before allowing ignition. The furnace will lock out and refuse to light until the pressure issue is resolved.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,11 +43,3 @@ E1 on a Ducane furnace points to a pressure switch or inducer circuit fault. Duc
 ## When to Call a Pro
 
 If the inducer motor needs replacement and you are not comfortable working with high-voltage furnace wiring, or if the condensate drain runs through finished walls, a licensed HVAC technician should complete the repair.
-
-## Related Articles
-
-- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
-- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
-- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

@@ -17,8 +17,7 @@ money_part: "Samsung washer motor assembly"
 part_price: "$15-80"
 ---
 
-## Samsung Washer E3 Error Code — What It Means
-
+## What this code means
 On Samsung front-load and inverter-platform washers, the E3 (or 3E) error code typically signals a motor or tacho feedback fault. The control board is not receiving the expected speed signal from the motor during wash or spin, so the cycle stops. Samsung support warns that E3 meanings vary by model and region. On many common models the code points to a problem with the motor itself, the hall or tacho sensor inside the motor, the wiring harness between motor and main board, or the control board. Less often the code appears when the drum cannot reach speed because of mechanical drag or bearing problems, but the core meaning is a motor-feedback issue rather than a drain or foam error.
 
 Because the exact meaning is model-dependent, always check your owner's manual or the wiring diagram inside the access panel to confirm. The diagnostic path focuses on the motor circuit, not water plumbing or suds.
@@ -26,8 +25,6 @@ Because the exact meaning is model-dependent, always check your owner's manual o
 ## Before You Replace Anything
 
 Many people replace the main control board first. Instead, reseat and inspect the motor harness connectors and check motor brush wear (if brushed). Those two checks solve most E3 faults and cost far less than a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

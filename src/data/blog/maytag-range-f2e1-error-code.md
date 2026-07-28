@@ -17,8 +17,7 @@ money_part: "User interface board (touch control / keypad assembly)"
 part_price: "$80-200"
 ---
 
-## Maytag Range F2E1 Error Code — What It Means
-
+## What this code means
 The F2E1 error code on a Maytag range indicates a keypad or user interface fault. The control board has detected a stuck button, an unresponsive key, or a communication problem between the touch panel and the main control. This is not a heating, gas, ignition, or temperature-sensor code.
 
 Maytag's official product-help guidance instructs you to cycle power for 5 minutes as the first reset step. The fault can be caused by a physically stuck or shorted touch key, moisture or contamination on the membrane keypad, a loose ribbon cable connection, or a failed user-interface board.
@@ -26,8 +25,6 @@ Maytag's official product-help guidance instructs you to cycle power for 5 minut
 ## Before You Replace Anything
 
 Many people replace the main control board first when the real problem is a stuck key or loose ribbon-cable connector between the UI and the control. Inspect the keypad and reseat all connectors before ordering a new control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

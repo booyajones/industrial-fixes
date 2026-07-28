@@ -13,13 +13,10 @@ money_part: "Input power terminals and lugs"
 most_likely_cause: "Incoming utility sag or brownout"
 ---
 
-## ABB ACS580 A3D0 Fault Code — What It Means
-
+## What this code means
 A3D0 on an ABB ACS580 is the **Grid ridethrough** fault code. It means the incoming line voltage has dropped below the drive's internal threshold, and the drive has automatically entered low-voltage ridethrough mode to protect itself. This is not a motor or internal drive electronics fault. It is a **supply-side undervoltage condition** tied to power quality at the input terminals.
 
 The drive is responding to a voltage sag, brownout, or momentary loss on the AC supply feeding it. ABB directs technicians to check the transformer secondary voltage when this code appears. The drive itself is usually healthy. The root cause is upstream in your electrical distribution.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ The drive is responding to a voltage sag, brownout, or momentary loss on the AC 
 ## When to Call a Pro
 
 Call a licensed electrician or ABB service if you measure correct and stable voltage at the drive input but the A3D0 code continues to appear. Also call a professional if you find burned wiring, signs of arcing, or if you are not trained to work safely inside energized electrical distribution equipment. Intermittent utility-side voltage problems may require coordination with your power company and advanced metering or harmonic analysis that goes beyond basic troubleshooting.
-
-## See Also
-
-- [ABB ACS550 Complete Fault Code Guide — All Faults and Fixes](/posts/abb-acs550-complete-guide/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-- [ABB ACS880 Complete Fault Code Guide — All Faults and Fixes](/posts/abb-acs880-complete-guide/)
-- [ABB ACS580 A2A1 - Causes & Fix](/posts/abb-acs580-a2a1-fault-code/)

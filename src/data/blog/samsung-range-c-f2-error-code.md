@@ -17,8 +17,7 @@ money_part: "Samsung range touchpad assembly"
 part_price: "$80-200"
 ---
 
-## Samsung Range C-F2 Error Code — What It Means
-
+## What this code means
 The C-F2 error on a Samsung range signals a communication fault between the touch interface (Touch IC or touchpad) and the main control board (Main or Sub micom). The control board is not receiving valid input from the keypad assembly, or the connection between them has broken down. Samsung's official guidance identifies this as a communication problem between the Touch IC and the micom.
 
 The fault can be triggered by a temporary power glitch, a failed touchpad, a loose or damaged ribbon cable, contamination on the control panel, or a main control board failure. Because the code points to a signal path rather than a single failed part, diagnosis starts with a power reset and works through the connection points between the front touch panel and the main board.
@@ -26,8 +25,6 @@ The fault can be triggered by a temporary power glitch, a failed touchpad, a loo
 ## Before You Replace Anything
 
 Many people replace the main control board first without checking the touchpad or ribbon cable. Inspect and reseat the ribbon cable connection between the touchpad and control board before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

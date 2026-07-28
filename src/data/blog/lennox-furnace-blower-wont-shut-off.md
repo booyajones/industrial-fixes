@@ -20,8 +20,6 @@ When your Lennox furnace blower keeps running after the heating cycle ends or ev
 
 Less often, the blower runs nonstop because of a mechanical failure like a stuck relay or a wiring short that sends a constant 24-volt signal to the blower circuit. On communicating Lennox systems like iQR or XL series, a motor driver board failure can also lock the blower in the on position. The furnace may display codes like E201 for blower communication failure or a limit switch fault, but sometimes no code appears at all.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty air filter or blocked return** Restricted airflow causes the heat exchanger to overheat, trips the high-limit switch, and the board runs the blower continuously to cool the unit.
@@ -70,10 +68,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a licensed HVAC technician if the furnace displays flame failure codes, if you smell gas, or if the blower continues running after you have replaced the filter and confirmed the thermostat is in AUTO mode. Gas pressure testing, flame sensor cleaning, and heat exchanger inspection require calibrated tools and safety protocols. Any work involving the gas valve, burner assembly, or internal wiring on communicating Lennox boards should be handled by a professional to avoid voiding warranties or creating fire hazards. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Lennox XP21 Heat Pump Error Codes — iComfort Fault Code Guide](/posts/lennox-xp21-error-codes/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox ML193 Furnace Problems & Error Codes](/posts/lennox-ml193-furnace-gas-residential-problems/)
-- [Lennox Merit Series Furnace Error Codes - What It Means and How to Fix It](/posts/lennox-merit-series-furnace-error-codes/)

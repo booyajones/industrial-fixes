@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Dryer F6 E2 Error Code — What It Means
-
+## What this code means
 The F6 E2 code on an Amana dryer signals a communication failure between the main control board and the user interface or control panel. The machine has detected that these two electronic boards are no longer exchanging data correctly. This is a control-side fault rather than an airflow, heating, or mechanical problem.
 
 The root cause is usually a temporary software lockup, a loose or corroded connector between the boards, or a failed control board. Because the fault is purely electronic, the dryer will not start or resume until the communication path is restored.
@@ -26,8 +25,6 @@ The root cause is usually a temporary software lockup, a loose or corroded conne
 ## Before You Replace Anything
 
 Many homeowners replace both control boards without first reseating the connectors. A simple power cycle or connector cleaning clears the fault in a large number of cases and costs nothing.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

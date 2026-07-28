@@ -69,19 +69,12 @@ If descaling and cleaning don't resolve code 07, the secondary heat exchanger it
 ## Related Error Codes
 
 - [Rinnai Error Code 10 — Condensate / Exhaust Blockage / Fan Fault](/posts/rinnai-error-code-10/)
-- [Rinnai Error Code 14 — Thermal Fuse Fault](/posts/rinnai-error-code-14/)
-- [Rinnai Error Code 33 — Heat Exchanger Outlet Temperature Fault](/posts/rinnai-error-code-33/)
+- Rinnai Error Code 14 — Thermal Fuse Fault
+- Rinnai Error Code 33 — Heat Exchanger Outlet Temperature Fault
 - [All Rinnai Error Codes](/posts/rinnai-error-codes/)
 
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [Rheem Performance Platinum PDN tankless error codes](/posts/rheem-performance-platinum-pdn-error-codes/)
 
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Rinnai code 11 no-ignition fix](/posts/rinnai-error-code-11/)
-
-## See Also
-
-- [Rinnai Error Code 10 — Condensate / Exhaust Blockage / Fan Motor Fault Fix](/posts/rinnai-error-code-10/)
-- [Rinnai Error Code 52 — Outlet Water Temperature Sensor Fault](/posts/rinnai-error-code-52/)
-- [Rinnai Error Code 33 — Causes & Fix](/posts/rinnai-error-code-33/)
-- [Rinnai Error Code 25 — Causes & Fix](/posts/rinnai-error-code-25/)
+**Related:** Rinnai code 11 no-ignition fix

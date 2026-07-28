@@ -19,8 +19,6 @@ When a GE dishwasher won't start, the control is not entering a wash cycle becau
 
 If the display shows PF, that means the dishwasher experienced a power failure or interruption and needs the cycle reselected. Beyond that, won't-start complaints trace to the door and latch circuit, control lock being enabled, the start sequence not completed correctly, or user-interface and control-panel issues rather than problems with the wash motor or pump.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door not fully closed or latch not engaging** The door may not physically close or the latch may not click into place, often due to a dish or rack blocking the door or a worn latch that no longer registers with the switch.
@@ -64,8 +62,8 @@ If your appliance also shows a code on the display, these match this problem:
 - [Ge Dishwasher C8 error code](/posts/ge-dishwasher-c8-error-code/)
 - [Ge Dishwasher Ef error code](/posts/ge-dishwasher-ef-error-code/)
 - [Ge Dishwasher F56 error code](/posts/ge-dishwasher-f56-error-code/)
-- [Ge Dishwasher F9 error code](/posts/ge-dishwasher-f9-error-code/)
-- [Ge Dishwasher Ff error code](/posts/ge-dishwasher-ff-error-code/)
+- Ge Dishwasher F9 error code
+- Ge Dishwasher Ff error code
 
 ## When to Call a Pro
 

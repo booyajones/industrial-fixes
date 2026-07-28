@@ -13,11 +13,8 @@ money_part: "Altivar control card / board"
 most_likely_cause: "EEPROM or memory error"
 ---
 
-## Schneider Altivar Fault INF — What It Means
-
+## What this code means
 INF on a Schneider Electric Altivar drive (ATV312, ATV320, ATV630, ATV930 series) indicates an internal fault. The drive's self-diagnostic system detected an internal error that it cannot attribute to an external cause — this may be a memory error, a communication fault between internal boards, or a hardware failure in the power or control stage. The drive stops and locks out. INF is a serious fault that typically requires more than a simple reset to resolve.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,11 +43,3 @@ INF on a Schneider Electric Altivar drive (ATV312, ATV320, ATV630, ATV930 series
 ## When to Call a Pro
 
 INF is rarely field-repairable beyond a factory reset. If power cycling and parameter initialization do not clear the fault, contact a Schneider Electric-authorized drive service center for control card replacement and firmware verification.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

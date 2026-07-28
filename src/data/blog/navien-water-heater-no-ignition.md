@@ -19,8 +19,6 @@ When a Navien tankless water heater shows no ignition, the unit is calling for h
 
 The heater cycles through spark and gas-valve opening but the flame rod does not sense combustion. The fault can stem from fuel delivery problems, blocked air or exhaust pathways, dirty ignition components, or failed electrical connections in the flame-sensing circuit.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Insufficient gas supply or closed shutoff valve** Low gas pressure or a partially closed gas shutoff prevents the burner from receiving enough fuel to ignite and hold flame.
@@ -54,10 +52,3 @@ The heater cycles through spark and gas-valve opening but the flame rod does not
 ## When to Call a Pro
 
 Call a licensed plumber or gas technician if gas-supply checks, vent clearing, and filter cleaning do not restore ignition. Work inside the combustion chamber (flame-rod removal, burner cleaning, igniter replacement, or control-board diagnosis) requires familiarity with gas appliance safety, proper grounding during testing, and correct reassembly of flame-sensing components. If the unit repeatedly fails ignition after basic external checks, professional diagnosis with a manometer and multimeter will isolate whether the fault is in fuel delivery, electrical signaling, or component failure. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Navien E782 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e782-error-code/)
-- [Navien E038 Error Code - Causes & Fix](/posts/navien-tankless-e038-error-code/)
-- [Navien Tankless E013 Error Code - Causes & Fix](/posts/navien-tankless-e013-error-code/)
-- [Navien E010 Error Code - Causes & Fix](/posts/navien-tankless-e010-error-code/)

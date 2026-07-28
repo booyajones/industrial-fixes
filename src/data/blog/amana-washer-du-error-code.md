@@ -17,8 +17,7 @@ likelihood: "the most common repair path"
 diy_or_pro: "diy"
 ---
 
-## Amana Washer dU Error Code — What It Means
-
+## What this code means
 On Amana top-load HE washers, the dU error code (sometimes shown as LdU) means the lid cannot unlock. The washer's control has attempted to unlock the lid, but the lid-lock system did not report a successful unlock condition. Amana states the machine detects an obstruction on the lid or around the top that prevents unlocking, so the cycle stops with the dU fault.
 
 This code tells you the lock mechanism either cannot physically release or cannot send the correct unlock signal back to the control board. The fault can be as simple as something sitting on top of the washer, or as involved as a failed lock assembly or wiring problem in the lid-lock circuit.
@@ -26,8 +25,6 @@ This code tells you the lock mechanism either cannot physically release or canno
 ## Before You Replace Anything
 
 Many people replace the main control board first, but the lid-lock assembly and its wiring are the most direct causes of a dU fault. Always inspect the lock mechanism, check the harness connections, and test the lock assembly before replacing the control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

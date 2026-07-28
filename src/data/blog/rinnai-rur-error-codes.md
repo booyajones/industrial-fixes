@@ -17,8 +17,6 @@ money_part: "Thermal fuse"
 
 The Rinnai RUR series (RUR160iN, RUR199iN, RUR160eN, RUR199eN) are condensing tankless water heaters with efficiency ratings up to 0.96 UEF. They display fault codes on the controller (MC-91-2 or equivalent). The RUR series uses PVC venting and produces condensate, distinguishing it from the non-condensing RL and RV series. Errors appear on the remote controller display.
 
-[Jump to Fix](#fix)
-
 ## Rinnai RUR Series Error Code Reference
 
 | Code | Meaning |
@@ -74,18 +72,3 @@ The Rinnai RUR series (RUR160iN, RUR199iN, RUR160eN, RUR199eN) are condensing ta
 ## When to Call a Pro
 
 Thermal fuse replacement and gas valve diagnosis require licensed plumbing and/or gas technicians in most jurisdictions. If Code 14 has tripped, do not simply replace the fuse and restart — the underlying cause (heat exchanger scale, blocked flue) must be corrected. Contact Rinnai technical support (1-800-621-9419) for warranty assistance.
-
-## Related Articles
-
-- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
-- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
-- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
-- [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
-- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)
-
-## See Also
-
-- [Rinnai Error Code 25 — Causes & Fix](/posts/rinnai-error-code-25/)
-- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)
-- [Rinnai Error Code 10 — Condensate / Exhaust Blockage / Fan Motor Fault Fix](/posts/rinnai-error-code-10/)
-- [Rinnai Error Code 29 — System Communication Fault Fix](/posts/rinnai-error-code-29/)

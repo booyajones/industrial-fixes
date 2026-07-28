@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Dryer F6E3 Error Code — What It Means
-
+## What this code means
 The F6E3 error code on an Amana dryer indicates a voltage sensing or power supply error in the appliance's electronic control system. This code is tied to the dryer's power-sensing electronics and control board, not to mechanical components like the drum, belt, heating element, or airflow path. The fault means the control system has detected an interruption, instability, or anomaly in the power supply reaching the electronics.
 
 Amana's official guidance for F6E3 starts with a simple power reset. Turn off the circuit breaker for five minutes, restore power, then run a Time Dry cycle and monitor for about five minutes to see if the code returns. If the error clears and stays off, the issue was likely a transient power glitch. If F6E3 comes back, the problem is persistent and points to an issue with the incoming power supply, wiring connections, or the control electronics themselves.
@@ -26,8 +25,6 @@ Amana's official guidance for F6E3 starts with a simple power reset. Turn off th
 ## Before You Replace Anything
 
 Many homeowners assume F6E3 means a heating element or thermal fuse failure and replace those parts unnecessarily. This code is an electronics and power-supply fault, not a heat or airflow problem. Always start with the five-minute power reset and check the outlet and breaker before buying any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

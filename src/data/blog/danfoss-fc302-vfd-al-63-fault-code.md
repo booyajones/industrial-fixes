@@ -21,8 +21,7 @@ part_price: "$80-180 for a typical motor brake assembly"
 no_buy_pct: "60%"
 ---
 
-## Danfoss FC302 AL-63 Fault — What It Means
-
+## What this code means
 Alarm 63 on the Danfoss FC302 VFD is labeled "Mechanical brake low." It occurs when the drive sends a command to release the mechanical brake (typically through terminal 37), but the actual motor current stays below the programmed brake-release current threshold set in parameter 1-20 or parameters 2-11/2-12. This indicates the brake did not open, the motor cannot move, or the load is too light to build enough current when the brake is supposed to release.
 
 The fault does not indicate a DC bus problem or general IGBT failure. It specifically relates to the interaction between the brake release circuit and the motor load. The drive expects to see a current rise when the brake opens and the motor tries to turn. When that current never appears, AL-63 triggers.
@@ -30,8 +29,6 @@ The fault does not indicate a DC bus problem or general IGBT failure. It specifi
 ## Before You Replace Anything
 
 Technicians sometimes replace the power module thinking an IGBT has failed, when the real problem is a stuck brake or incorrect parameter setting. Check brake wiring continuity and parameter 1-20 before ordering inverter parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a qualified drives technician if you are not trained to work on high-voltage equipment or to interpret VFD parameters. The FC302 operates at DC link voltages around 325V (on 230V input) or 650V (on 480V input), and incorrect testing can destroy the drive or cause electric shock. A pro should also handle inverter module replacement, motor winding tests, and any repair that requires opening the drive enclosure. If basic wiring checks and parameter adjustments do not clear the alarm, a technician with a clamp meter and insulation tester can isolate whether the fault is in the brake, the motor, or the drive output stage.
 
 **Rough cost:** A pro service call runs about $150-400 depending on whether it is a wiring repair, brake replacement, or inverter module.
-
-## See Also
-
-- [Danfoss FC302 Alarm 48 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-48-fault-code/)
-- [Danfoss FC302 ALARM 26 - Causes & Fix](/posts/danfoss-fc302-alarm-26-fault-code/)
-- [Danfoss FC302 Alarm 25 - Causes & Fix](/posts/danfoss-fc302-alarm-25-fault-code/)
-- [Danfoss FC302 VFD Alarm 44 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-44-fault-code/)

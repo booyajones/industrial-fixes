@@ -19,8 +19,6 @@ When your Bosch refrigerator has a cold freezer but a warm fresh-food compartmen
 
 On Bosch models that use shared cooling and air transfer, the most common causes are blocked vents, a failed evaporator fan, a stuck damper, frost or ice buildup, or a door-seal issue. If your unit has a self-test feature and produces 5 audible signals after running the test, Bosch states this indicates an error and customer service should be contacted, though the exact meaning depends on the model.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Blocked air vents or outlets** Food, bins, or packaging stacked against rear air outlets or internal vents prevent cold air from circulating to the fresh-food compartment.
@@ -54,12 +52,12 @@ On Bosch models that use shared cooling and air transfer, the most common causes
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Bosch Refrigerator E01 error code](/posts/bosch-refrigerator-e01-error-code/)
+- Bosch Refrigerator E01 error code
 - [Bosch Refrigerator E02 error code](/posts/bosch-refrigerator-e02-error-code/)
-- [Bosch Refrigerator E03 error code](/posts/bosch-refrigerator-e03-error-code/)
-- [Bosch Refrigerator E10 error code](/posts/bosch-refrigerator-e10-error-code/)
-- [Bosch Refrigerator E11 error code](/posts/bosch-refrigerator-e11-error-code/)
-- [Bosch Refrigerator E15 error code](/posts/bosch-refrigerator-e15-error-code/)
+- Bosch Refrigerator E03 error code
+- Bosch Refrigerator E10 error code
+- Bosch Refrigerator E11 error code
+- Bosch Refrigerator E15 error code
 - [Bosch Refrigerator E20 error code](/posts/bosch-refrigerator-e20-error-code/)
 - [Bosch Refrigerator E21 error code](/posts/bosch-refrigerator-e21-error-code/)
 

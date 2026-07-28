@@ -13,11 +13,8 @@ money_part: "Water inlet valve"
 most_likely_cause: "Closed or restricted water supply"
 ---
 
-## Scotsman Ice Machine Error Code 7 — What It Means
-
+## What this code means
 Error Code 7 on Scotsman ice machines (particularly Q-Series and Prodigy models) indicates a water inlet valve fault — the machine detected inadequate water flow during the fill cycle. The SmartBoard controller monitors water level; if the trough doesn't fill to the required level within the timeout period, Code 7 is logged and the machine stops to prevent dry evaporator operation.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -43,18 +40,3 @@ Error Code 7 on Scotsman ice machines (particularly Q-Series and Prodigy models)
 ## When to Call a Pro
 
 If valve, screen, and supply pressure are all confirmed good and Code 7 persists, the water level probe or control board needs diagnosis by a certified refrigeration technician.
-
-## Related Articles
-
-- [Scotsman C0522 Error Codes — Fix Guide](/posts/scotsman-c0522-error-codes/)
-- [Scotsman HID312 Error Codes — Fault Code Diagnostic Guide](/posts/scotsman-hid312-error-codes/)
-- [Scotsman HID525 Error Codes — Complete Guide](/posts/scotsman-hid525-error-codes/)
-- [Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/scotsman-ice-machine-complete-guide/)
-- [Scotsman Ice Machine Error Code 1 — High Pressure Cutout Fix](/posts/scotsman-ice-machine-error-code-1/)
-
-## See Also
-
-- [Scotsman C0830 Ice Machine Error Codes - Full Fault Reference](/posts/scotsman-c0830-error-codes/)
-- [Scotsman 2-Flash Code — Long Freeze Cycle Fix](/posts/scotsman-2-flash-code/)
-- [Scotsman 3-Flash Code — Long Harvest Cycle Fix](/posts/scotsman-3-flash-code/)
-- [Scotsman Ice Machine Error Code 5 — Freeze Cycle Timeout Causes & Fix](/posts/scotsman-ice-machine-error-code-5/)

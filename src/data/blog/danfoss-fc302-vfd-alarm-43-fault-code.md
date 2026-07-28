@@ -13,13 +13,10 @@ money_part: "External interlock contact or safety relay"
 most_likely_cause: "Open safety or interlock contact"
 ---
 
-## Danfoss FC302 Alarm 43 — What It Means
-
+## What this code means
 Alarm 43 on the Danfoss FC302 VFD indicates an external fault or external interlock signal is active. This is not an internal drive failure. The drive is reporting that something outside the VFD is opening the run-enable or interlock chain, such as a safety contact, E-stop, or field device contact. The drive stops and displays the alarm because it is being told to trip by an external signal.
 
 In practical terms, the FC302 is responding to a deliberate external shutdown command or an unintended open circuit in your safety or permissive wiring. The fault does not point to a problem inside the drive itself but rather to the control wiring, field devices, or safety chain that feeds the drive's external fault input.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ In practical terms, the FC302 is responding to a deliberate external shutdown co
 ## When to Call a Pro
 
 Call a qualified electrician or automation technician if you cannot locate the open contact in the interlock chain, if the machine schematic is unavailable or unclear, or if the alarm persists after verifying all external wiring and contacts are correct. A technician with a schematic and multimeter can systematically trace the interlock circuit and identify which field device or wiring segment is opening the chain. Also call a professional if you suspect a control card fault, as drive control board diagnosis and replacement require familiarity with VFD parameter backup, proper handling of static-sensitive components, and verification of correct I/O configuration after card replacement.
-
-## See Also
-
-- [Danfoss FC302 Alarm 27 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-27-fault-code/)
-- [Danfoss FC302 Alarm 34 - Causes & Fix](/posts/danfoss-fc302-alarm-34-fault-code/)
-- [Danfoss FC302 Alarm 25 - Causes & Fix](/posts/danfoss-fc302-alarm-25-fault-code/)
-- [Danfoss FC302 Alarm 42 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-42-fault-code/)

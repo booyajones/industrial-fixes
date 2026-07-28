@@ -17,8 +17,6 @@ money_part: "Dual run capacitor"
 
 The Lennox XC16 is a 16–21 SEER2 two-stage central air conditioner that uses the iComfort S30 or compatible communicating thermostat when installed in a full Dave Lennox Signature system. It communicates faults both through the thermostat display (when in communicating mode) and through a diagnostic LED on the outdoor unit board. The XC16 uses R-410A and features a two-stage scroll compressor for improved efficiency and dehumidification at part load.
 
-[Jump to Fix](#fix)
-
 ## Lennox XC16 Error Code Reference
 
 | Alert Code | Meaning |
@@ -64,18 +62,3 @@ The Lennox XC16 is a 16–21 SEER2 two-stage central air conditioner that uses t
 ## When to Call a Pro
 
 The XC16's two-stage compressor makes refrigerant charging more complex than a single-stage unit — the system must be checked at both low-stage and high-stage operation to confirm correct superheat and subcooling. Lennox requires iComfort-enabled service tools for advanced diagnostics. Contact a Lennox Premier Dealer for communicating system issues beyond basic troubleshooting.
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-
-## See Also
-
-- [Lennox Error Code 114 — Causes & Fix](/posts/lennox-error-code-114/)
-- [Lennox Error Code 441 — Limit Device Fault](/posts/lennox-error-code-441/)
-- [Lennox 204 Error Code — Causes & Fix](/posts/lennox-error-code-204/)
-- [Lennox Error Code 540 — Communicating System Fault (Detailed Guide)](/posts/lennox-error-code-540-communicating/)

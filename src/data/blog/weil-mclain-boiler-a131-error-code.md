@@ -17,8 +17,7 @@ free_checks:
   - "Inspect the display for a fault history menu (some controls store recent codes) and note any other codes shown."
 ---
 
-## Weil-McLain A131 Error Code — What It Means
-
+## What this code means
 Weil-McLain does not publish a universal A131 error code across all boiler families. The same alphanumeric display can represent different faults depending on your exact boiler model and control platform (Ultra, CGi, EG Series, or others). Without the model number and control type, the code cannot be reliably decoded.
 
 To identify what A131 means on your unit, locate the CP/serial number label on the boiler jacket and find the model-specific installation and service manual. The manual's diagnostics or fault-code section will list the exact condition that triggers A131 on that model. Common fault families across Weil-McLain controls include ignition lockout, pressure switch errors, flame-sensor failures, temperature-limit trips, and circulator or water-pressure issues, but the precise cause for A131 depends entirely on which control your boiler uses.
@@ -26,8 +25,6 @@ To identify what A131 means on your unit, locate the CP/serial number label on t
 ## Before You Replace Anything
 
 Without the correct model manual, technicians sometimes replace flame sensors or pressure switches based on similar-looking codes from other brands. Always consult the boiler's own manual and verify power, gas valve operation, and system pressure before ordering any part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician immediately if you smell gas, if the code appears alongside unusual burner behavior (delayed ignition, yellow flame, or soot), or if you are not comfortable working with gas-fired equipment. A professional should also handle all combustion-air and vent-pressure testing, gas-valve checks, and control-board diagnostics, because incorrect adjustments can create unsafe operating conditions or void your warranty. Weil-McLain requires warranty part claims to include the failed part description and boiler CP/serial number, so a qualified contractor will document findings properly and make sure any replacement meets manufacturer specifications.
 
 **Rough cost:** A pro service call runs about $150–350.
-
-## See Also
-
-- [Weil-McLain A02 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a02-error-code/)
-- [Weil-McLain A150 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a150-error-code/)
-- [Weil-McLain Code 1 — No Flame Sensed Fix](/posts/weil-mclain-error-code-1/)
-- [Weil-McLain Boiler A78 Error - Causes & Fix](/posts/weil-mclain-boiler-a78-error-code/)

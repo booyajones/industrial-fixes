@@ -13,11 +13,8 @@ money_part: "Serial link communication cable"
 most_likely_cause: "Communication cable fault"
 ---
 
-## NUM CNC Alarm E28 — What It Means
-
+## What this code means
 Alarm E28 on NUM CNC controls (NUM 1060, 1080, and Axium series) indicates a drive communication error — the NUM control lost communication with one or more of the servo drive modules. NUM uses a high-speed serial link between the NCU (Numerical Control Unit) and drive amplifiers; E28 fires when this communication is interrupted or a drive stops responding.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,11 +41,3 @@ Alarm E28 on NUM CNC controls (NUM 1060, 1080, and Axium series) indicates a dri
 ## When to Call a Pro
 
 NUM CNC systems are less common in the US than Fanuc or Siemens; NUM-trained service engineers are specialized. Contact NUM directly for authorized service referrals.
-
-## Related Articles
-
-- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
-- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
-- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)

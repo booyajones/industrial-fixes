@@ -19,8 +19,6 @@ A Whirlpool washer that won't spin is a symptom, not a single fault code. The ma
 
 Depending on your model, you may see a code like F7 E1 (motor speed fault on some top-loaders), Sud or Sd (too many suds on front-loaders), or no code at all. If no code is displayed, the issue is treated as a spin-system failure and you'll work through load, installation, drain, and mechanical causes in order.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Imbalanced or overloaded load** The washer detects uneven weight distribution or too many items and suspends or slows the spin to prevent damage or walking.

@@ -20,8 +20,7 @@ free_checks:
   - "Check for visible wire damage or rodent chewing on the sensor harness"
 ---
 
-## LG CH48 Error Code — What It Means
-
+## What this code means
 The CH48 error code indicates that the outdoor unit discharge sensor and/or the outdoor unit air (coil) sensor are unplugged, open, or shorted. The electronic control board cannot receive a valid temperature reading from the sensors located at the outdoor unit discharge line (compressor outlet) and the outdoor unit air/coil line (condenser coil outlet, liquid line side). For Multi V systems, this code specifically refers to the outdoor unit coil sensor.
 
 Without these temperature readings, the system cannot correctly calculate subcooling or superheating or monitor critical discharge temperatures. The unit will shut down to protect the compressor and refrigerant circuit from operating without proper thermal feedback.
@@ -29,8 +28,6 @@ Without these temperature readings, the system cannot correctly calculate subcoo
 ## Before You Replace Anything
 
 Homeowners often replace the PCB first, assuming the board is bad. Measure sensor resistance with a multimeter and clean the connectors before ordering a control board. A failed sensor is far more common and much cheaper.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician if you are not comfortable working with high-voltage electrical connections or refrigerant lines. The repair involves accessing the outdoor unit's control board, testing thermistor resistance with a multimeter, and potentially working near live circuits. A technician can also verify refrigerant pressures and subcooling/superheating values if the sensors are replaced, to confirm the system is operating correctly. If the PCB is faulty, a pro can source the correct replacement board and transfer any required settings or address codes.
 
 **Rough cost:** A pro service call runs about $150-300.
-
-## See Also
-
-- [LG Dishwasher Standing Water in Bottom - Causes & Fix](/posts/lg-dishwasher-standing-water-in-bottom/)
-- [LG Washer Won't Drain - Causes & Fix](/posts/lg-washer-wont-drain/)
-- [LG Washer Burning Smell - Causes & Fix](/posts/lg-washer-burning-smell/)
-- [LG Mini Split CH06 Error Code - Causes & Fix](/posts/lg-mini-split-ch06-error-code/)

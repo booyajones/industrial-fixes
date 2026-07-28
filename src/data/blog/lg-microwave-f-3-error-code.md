@@ -17,8 +17,7 @@ money_part: "LG microwave touch button panel"
 part_price: "$50-150"
 ---
 
-## LG Microwave F-3 Error — What It Means
-
+## What this code means
 The F-3 error on an LG microwave indicates a problem with the control panel or touch button panel. LG states that this fault is tied to the keypad assembly rather than a door, cavity, or temperature issue. Foreign substances, moisture, or residue around the touch button panel can trigger F-3, and a persistent code points to a failed keypad or control panel assembly.
 
 LG recommends cleaning the panel and performing a power reset first. If the error returns, the unit requires service inspection because the fault may involve the control electronics, wiring, or a short circuit in the panel assembly.
@@ -26,8 +25,6 @@ LG recommends cleaning the panel and performing a power reset first. If the erro
 ## Before You Replace Anything
 
 Homeowners sometimes replace the entire main control board when only the touch panel membrane has failed. Clean the keypad thoroughly and test with a power reset before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a professional if the F-3 code persists after cleaning the keypad, performing a power reset, and reseating the ribbon connector. A technician can perform service diagnostics on the control panel assembly, test for short circuits or communication faults, and replace the correct component. LG recommends professional service inspection when cleaning and a reset do not resolve the error, because the fault may involve the broader control electronics or require board-level troubleshooting beyond simple part replacement.
 
 **Rough cost:** DIY runs about $50-150 in parts, 30-60 min. A pro service call runs about $150-300.
-
-## See Also
-
-- [LG Range F4 Error Code - Causes & Fix](/posts/lg-range-f4-error-code/)
-- [LG Washer Shaking and Loud - Causes & Fix](/posts/lg-washer-shaking-and-loud/)
-- [LG Oven F3 Error Code - Causes & Fix](/posts/lg-oven-f3-error-code/)
-- [LG Refrigerator rF Error Code - Causes & Fix](/posts/lg-refrigerator-rf-error-code/)

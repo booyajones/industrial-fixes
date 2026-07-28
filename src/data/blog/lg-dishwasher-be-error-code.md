@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Automatic dishwasher detergent (powder or tablet)"
 ---
 
-## LG Dishwasher bE Error Code — What It Means
-
+## What this code means
 The bE code on an LG dishwasher stands for bubble error. The unit has detected excessive suds or foam inside the tub and has shut down or prevented operation to avoid leakage. This is not a mechanical failure but a protective response to a condition that can cause water to overflow or leak.
 
 The code appears most often when the wrong type of detergent has been used (regular hand soap or liquid dish detergent instead of automatic dishwasher detergent) or when too much dishwasher detergent was added. LG also notes that some eco-friendly or low-foam formulations can still create excess bubbles under certain load conditions. The code may appear sporadically depending on how dirty the dishes are. A secondary field factor is an unlevel dishwasher, which can worsen suds behavior and increase leakage risk, though the authoritative cause remains foam-related.
@@ -25,8 +24,6 @@ The code appears most often when the wrong type of detergent has been used (regu
 ## Before You Replace Anything
 
 Homeowners sometimes suspect a control board or sensor fault and replace those parts, but bE is almost always a detergent-type issue. Before replacing any component, verify the detergent in use and run an empty cycle with no detergent to confirm whether foam clears.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a qualified appliance technician if the bE code persists after you have confirmed correct detergent type, cleared all foam with the milk procedure, leveled the dishwasher, and reduced detergent quantity. A technician will inspect for installation issues that may contribute to suds behavior or leakage risk and verify that no deeper mechanical or electronic fault is present. Professional service is also warranted if you are uncomfortable adjusting leveling feet or if the dishwasher shows signs of leakage or other error codes in addition to bE.
 
 **Rough cost:** DIY runs about $0-15 (detergent correction), 1-2 hours to clear foam. A pro service call runs about $100-200 service call if installation leveling is required.
-
-## See Also
-
-- [LG Refrigerator Not Making Ice - Causes & Fix](/posts/lg-refrigerator-not-making-ice/)
-- [LG Washer Won't Drain - Causes & Fix](/posts/lg-washer-wont-drain/)
-- [LG Oven F7 Error Code - Causes & Fix](/posts/lg-oven-f7-error-code/)
-- [LG Washer dE Error Code - Causes & Fix](/posts/lg-washer-de-error-code/)

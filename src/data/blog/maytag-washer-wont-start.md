@@ -19,8 +19,6 @@ When a Maytag washer won't start, the machine is being blocked from entering a c
 
 Because "won't start" is a symptom rather than a single fault code, the exact meaning depends on the model and whether the machine is top-load, front-load, or an older mechanical design. If you have a model number or an actual displayed code, the diagnosis can be narrowed to the exact fault definition.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Control Lock enabled** The controls will not respond to any touch commands when the lock feature is active.

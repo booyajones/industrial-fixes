@@ -13,13 +13,10 @@ money_part: "Rheem flame sensor / flame rod"
 most_likely_cause: "Gas supply interrupted or inadequate"
 ---
 
-## Rheem A01 Error Code — What It Means
-
+## What this code means
 The A01 fault code on a Rheem water heater means **Maximum Ignition Attempts**. The control board tried to light the burner multiple times but could not detect a stable flame, so it locked out for safety. This is an ignition and flame-proving fault specific to the burner light-off sequence, not a generic reset code.
 
 The control system expects to see flame confirmation during each ignition attempt. When it does not get that signal after the allowed number of tries, it displays A01 and stops calling for heat until you correct the problem and reset the unit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -52,10 +49,3 @@ The control system expects to see flame confirmation during each ignition attemp
 ## When to Call a Pro
 
 Call a licensed plumber or gas technician if you are not comfortable working with gas connections, if you cannot safely access the burner chamber, or if the heater continues to lock out on A01 after you have confirmed gas supply and cleaned the flame sensor. A technician has combustion analyzers and multimeters to measure flame-rod microamp current, gas pressure, and control-board outputs. Also call a pro if you smell gas at any point, if the vent system needs modification or repair, or if your local code requires permitted work for any gas-appliance service.
-
-## See Also
-
-- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
-- [Rheem Furnace Igniter Not Working - Causes & Fix](/posts/rheem-furnace-igniter-not-working/)
-- [Rheem Heat Pump A001 Error Code - Causes & Fix](/posts/rheem-heat-pump-a001-error-code/)
-- [Rheem Furnace 8 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-8-flashes/)

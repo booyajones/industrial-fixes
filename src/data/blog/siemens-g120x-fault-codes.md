@@ -60,18 +60,3 @@ On pump/fan applications, rapid deceleration causes motor to regenerate energy b
 | Input choke | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-g120x-fault-codes&k=Input+choke&tag=errorcodefixes-20) \| Reduces harmonic distortion |
 | Output reactor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-g120x-fault-codes&k=Output+reactor&tag=errorcodefixes-20) \| Required for long cable runs |
 > **Pro tip:** G120X supports BICO (Binector-Connector) parameterization for complex control schemes. When all mechanical and electrical causes are ruled out, use STARTER or TIA Portal to export a complete parameter backup before resetting — valuable for comparing pre- and post-fault parameters.
-
-## Related Articles
-
-- [Siemens Sinumerik 828D Alarm Codes Guide — Complete Diagnostic Reference](/posts/siemens-828d-alarm-codes/)
-- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
-- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)
-- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
-- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)
-
-## See Also
-
-- [Siemens SINAMICS G120 F00001 Fault — Causes & Fix](/posts/siemens-sinamics-g120-fault-f00001/)
-- [Siemens SINAMICS G120 F30021 Fault — Ground Fault Fix](/posts/siemens-sinamics-f30021-fault/)
-- [Siemens SENTRON 3WL/3VA Fault Codes — Troubleshooting Guide](/posts/siemens-sentron-fault-codes/)
-- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)

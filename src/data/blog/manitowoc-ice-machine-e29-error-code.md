@@ -20,8 +20,7 @@ part_price: "$10-30 for a compatible USB flash drive"
 no_buy_pct: "40%"
 ---
 
-## Manitowoc E29 Error Code — What It Means
-
+## What this code means
 The Manitowoc E29 error code indicates a USB Communication Fault. This means the control board cannot exchange data with the USB drive used for logging or service diagnostics. The error appears in the event log and often correlates with low ice production, though the fault itself is strictly a communication failure between the board and the USB interface.
 
 This code is specific to Manitowoc ice machines, particularly the Indigo and Indigo NXT series. Unlike process faults (such as E01 for long freeze or E20 for water system issues), the E29 is a data link failure. The machine may continue to run, but service logs will not record properly, and concurrent production issues may be masked.
@@ -29,8 +28,6 @@ This code is specific to Manitowoc ice machines, particularly the Indigo and Ind
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board when the USB drive itself is simply corrupted or incompatible. Always test a known-good USB drive first before condemning the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a professional service technician if replacing the USB drive and reseating the connection do not clear the error. Diagnosing a failed control board or internal ribbon cable requires access to the machine's service panels, specialized knowledge of the Indigo control system, and tools to test board signals. If the error appears alongside low ice production, a technician can also check refrigerant charge, water flow, and other system parameters that may be contributing to the log event. Control board replacement is a moderately complex repair that should be done by someone trained in commercial refrigeration to avoid damaging the new board or missing concurrent faults.
 
 **Rough cost:** A pro service call runs about $150-400 depending on whether the drive, port, or control board is replaced.
-
-## See Also
-
-- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
-- [Manitowoc E33 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e33-error-code/)
-- [Manitowoc Ice Machine E04 Error: High Condenser Temperature Causes and Fix](/posts/manitowoc-e04-high-condenser-temp/)
-- [Manitowoc Ice Machine Error Code 9 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-9/)

@@ -19,8 +19,7 @@ free_checks:
   - "Check the control parameter menu (if accessible) to see if outdoor reset is enabled when no sensor is installed."
 ---
 
-## Weil-McLain A168 Error Code — What It Means
-
+## What this code means
 On Weil-McLain boilers, especially the Aqua Balance series, the display A-16 appears when a central-heating-only boiler is powered up and the outdoor sensor is not installed. If your display shows A168 instead of A-16, the exact meaning is model and control specific, so verify your boiler model and control manual before taking action. The code indicates the control board expects an outdoor temperature sensor input but cannot find one connected.
 
 In most cases the boiler is either configured to use outdoor reset (where the supply temperature adjusts based on outdoor temperature) but the sensor was never installed, or the sensor is present but faulty or disconnected. The Weil-McLain Aqua Balance Quick Start Guide instructs technicians to install the outdoor sensor and press the reset button for 1.5 seconds to clear the error. Alternatively, if your installation does not require outdoor reset, the control parameter can be changed to exempt the sensor input.
@@ -28,8 +27,6 @@ In most cases the boiler is either configured to use outdoor reset (where the su
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board or gas valve without checking whether the outdoor sensor is simply missing or unplugged. Always verify sensor presence and wiring before ordering expensive control components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified boiler technician if you do not have your boiler model manual, cannot identify whether your system uses outdoor reset, or are uncomfortable working inside the boiler control panel. Gas-fired boilers require licensed service for any work involving gas connections, combustion settings, or control board replacement. A technician will verify the exact code meaning for your model, test or install the outdoor sensor correctly, adjust control parameters if needed, and confirm safe operation after clearing the fault. If the code persists after sensor installation or parameter changes, the control board itself may need diagnostic testing or replacement, which requires specialized tools and factory training.
 
 **Rough cost:** A pro service call runs about $150-300.
-
-## See Also
-
-- [Weil-McLain A174 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a174-error-code/)
-- [Weil-McLain A57 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a57-error-code/)
-- [Weil-McLain A66 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a66-error-code/)
-- [Weil-McLain Boiler A21 Error - Causes & Fix](/posts/weil-mclain-boiler-a21-error-code/)

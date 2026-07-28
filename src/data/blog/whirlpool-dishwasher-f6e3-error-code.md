@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Vegetable cooking oil"
 ---
 
-## Whirlpool F6E3 Dishwasher Error — What It Means
-
+## What this code means
 The F6E3 code on a Whirlpool dishwasher indicates that the machine has detected excess foam or suds in the wash system. When suds are present, Whirlpool says the dishwasher may not operate properly or may not fill with water. The sensing system has recognized a suds condition and triggered the fault to prevent damage or improper cleaning.
 
 This is not a component failure code. Instead, it signals that something in the wash chemistry has created too much foam, usually from the wrong detergent product or too much of the right product. The suds can remain in the sump and drain path even after dishes are removed, so the machine will need to be flushed before normal operation can resume.
@@ -25,8 +24,6 @@ This is not a component failure code. Instead, it signals that something in the 
 ## Before You Replace Anything
 
 Homeowners sometimes assume F6E3 points to a faulty sensor or control board. In reality, Whirlpool's published fix is to remove suds and correct detergent use, not to replace electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

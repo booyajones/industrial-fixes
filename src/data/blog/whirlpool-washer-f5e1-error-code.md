@@ -17,15 +17,12 @@ money_part: "Door switch / lid lock assembly"
 part_price: "$50-120"
 ---
 
-## Whirlpool F5E1 Error Code — What It Means
-
+## What this code means
 F5E1 is Whirlpool's Door Switch error code on supported top-load washer models. The control board is not receiving the expected signal from the door or lid lock circuit, so it prevents the machine from operating. In practical terms, the washer cannot confirm that the door is properly closed and locked, or it cannot verify the lock/unlock state. This fault stops the cycle immediately to prevent operation with an open door.
 
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first when wiring or the lock assembly is actually at fault. Always inspect the door lock connectors and test the lock assembly signal before condemning the control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

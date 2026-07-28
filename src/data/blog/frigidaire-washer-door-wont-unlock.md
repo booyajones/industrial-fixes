@@ -19,8 +19,6 @@ When your Frigidaire washer door or lid won't unlock, the safety interlock is st
 
 This points to a cycle state issue, water not fully drained, or a failed latch or lock component rather than a simple mechanical jam. The machine keeps the door locked until it senses the tub is empty and the spin has safely stopped.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Normal safety lock timing** The washer is still in or just coming out of spin and the lid is waiting on the built-in 1 to 3 minute delay before it will release.

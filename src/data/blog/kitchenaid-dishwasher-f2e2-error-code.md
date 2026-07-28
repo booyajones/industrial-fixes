@@ -20,8 +20,7 @@ part_price: "$80–150"
 no_buy_pct: "40%"
 ---
 
-## KitchenAid F2E2 Error Code — What It Means
-
+## What this code means
 The F2E2 code appears on KitchenAid ranges, wall ovens, and dishwashers when the user interface or keypad cannot communicate properly with the main control board. This is an electronics fault, not a sensor or temperature problem. On ranges and wall ovens, KitchenAid identifies the user interface, control, or associated wiring as the problem area. On dishwashers, the code points to a control-panel communication issue that often resolves with a simple reset.
 
 In practical terms, the display assembly and the main control exchange signals over a harness. When that connection is interrupted by a loose connector, corrosion, moisture, or a failed board, the control posts F2E2 and may lock out operation until the fault is cleared or the failed module is replaced.
@@ -29,8 +28,6 @@ In practical terms, the display assembly and the main control exchange signals o
 ## Before You Replace Anything
 
 Many people replace the main control board first without inspecting the connector pins and harness between the UI and control. A careful visual check and re-seat of those connectors solves a large share of F2E2 faults at zero cost.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

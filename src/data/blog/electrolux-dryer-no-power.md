@@ -19,8 +19,6 @@ When your Electrolux dryer has no power, the display stays completely dark and n
 
 If the dryer has partial function (lights on but won't start), the problem may instead be a door switch, door lock circuit, or an active delayed-start setting rather than true no-power. A completely blank display means the fault is upstream in the power path: the outlet, cord, line filter, thermal protection, or main board.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dead outlet or tripped breaker** The wall receptacle has lost power or is delivering incorrect voltage, so the dryer never sees line supply.
@@ -57,8 +55,8 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Electrolux Dryer Ad error code](/posts/electrolux-dryer-ad-error-code/)
 - [Electrolux Dryer E 09 error code](/posts/electrolux-dryer-e-09-error-code/)
-- [Electrolux Dryer E 10 error code](/posts/electrolux-dryer-e-10-error-code/)
-- [Electrolux Dryer E 11 error code](/posts/electrolux-dryer-e-11-error-code/)
+- Electrolux Dryer E 10 error code
+- Electrolux Dryer E 11 error code
 - [Electrolux Dryer E 31 error code](/posts/electrolux-dryer-e-31-error-code/)
 - [Electrolux Dryer E 42 error code](/posts/electrolux-dryer-e-42-error-code/)
 - [Electrolux Dryer E 51 error code](/posts/electrolux-dryer-e-51-error-code/)

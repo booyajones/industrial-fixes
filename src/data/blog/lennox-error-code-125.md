@@ -13,11 +13,8 @@ money_part: "Pressure switch (heat speed rated)"
 most_likely_cause: "Partially blocked vent or exhaust pipe"
 ---
 
-## Lennox Error Code 125 — What It Means
-
+## What this code means
 Lennox error code 125 indicates that the pressure switch opened or failed to close when the inducer transitioned to heat speed. On two-stage or variable-speed furnaces, the inducer runs at a lower speed during the pre-purge, then ramps up to full speed when heat is called. Code 125 specifically means the pressure switch did not confirm adequate pressure at the higher heat speed — suggesting an inducer performance issue, a switch fault, or a venting restriction that only manifests under load.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,18 +44,3 @@ Lennox error code 125 indicates that the pressure switch opened or failed to clo
 ## When to Call a Pro
 
 If inducer pressure tests and component replacements do not resolve code 125, a Lennox-authorized technician should perform a full system performance check. Vent sizing issues or heat exchanger restrictions may require redesign of the venting system.
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-
-## See Also
-
-- [Lennox ResolvePlus Rooftop Unit Error Codes: Complete Guide](/posts/lennox-resolve-plus-error-codes/)
-- [Lennox Error Code 332 — Causes & Fix](/posts/lennox-error-code-332/)
-- [Lennox Error Code 223 — Causes & Fix](/posts/lennox-error-code-223/)
-- [Lennox SLP98V Error Codes — Variable-Speed Furnace Fault Guide](/posts/lennox-slp98v-error-codes/)

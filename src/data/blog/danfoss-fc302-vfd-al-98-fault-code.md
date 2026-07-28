@@ -20,8 +20,7 @@ free_checks:
 part_price: "$250-600"
 ---
 
-## Danfoss FC302 AL-98 Fault — What It Means
-
+## What this code means
 The AL-98 fault (often displayed as Warning 98) on a Danfoss FC302 VFD indicates a Clock Fault. The internal Real-Time Clock (RTC) chip has not been set, has failed, or the stored time data has been lost. This is typically a warning rather than a trip, so the drive can usually continue operating, but time-based functions like scheduling, data logging with timestamps, or automatic start and stop routines will be unreliable or inactive.
 
 The fault is usually triggered by a power interruption combined with a failing backup circuit that cannot sustain the RTC, or by a hardware failure of the RTC integrated circuit on the control board itself. It is distinct from internal hardware faults and specifically points to the clock subsystem.
@@ -29,8 +28,6 @@ The fault is usually triggered by a power interruption combined with a failing b
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire power board when the fault is actually on the control PCB. Test by swapping the logic card first, which is a faster and cheaper diagnostic step.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a qualified technician or control systems integrator if you are not comfortable working inside the VFD enclosure or handling control board diagnostics. This fault involves electronic troubleshooting and board-level repair, which requires familiarity with VFD internals, safe lockout and tagout procedures, and access to replacement control boards. If the drive is still under warranty or part of a critical industrial process, professional service is recommended to avoid downtime and make sure proper documentation of the repair.
 
 **Rough cost:** A pro service call runs about $300-800 depending on control board replacement and labor.
-
-## See Also
-
-- [Danfoss FC302 Alarm 34 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-34-fault-code/)
-- [Danfoss FC302 VFD ALARM 39 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-39-fault-code/)
-- [Danfoss FC302 VFD Alarm 33 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-33-fault-code/)
-- [Danfoss FC302 VFD Alarm 16 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-16-fault-code/)

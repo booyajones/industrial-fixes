@@ -13,11 +13,8 @@ money_part: "Drain pump assembly"
 most_likely_cause: "Failed drain pump motor"
 ---
 
-## Mitsubishi P5 Error Code — What It Means
-
+## What this code means
 Mitsubishi error code **P5** indicates a **drain pump fault**. The control board commanded the condensate pump but did not see the expected water-level response. This code is common on cassette, ceiling-concealed, and some ducted Mitsubishi indoor units that use a lift pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Mitsubishi error code **P5** indicates a **drain pump fault**. The control board
 | Discharge tubing | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-p5-error-code&k=Discharge+tubing&tag=errorcodefixes-20) \| Replace if kinked or brittle |
 ## When to Call a Pro
 If the pump receives power but still doesn't run, or if the fault involves concealed piping in a ceiling, call a Mitsubishi-trained service tech to avoid water damage.
-
-## Related Articles
-
-- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
-- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
-- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
-- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
-- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
-
-## See Also
-
-- [Mitsubishi FR Series VFD Fault E6 — Causes & Fix](/posts/mitsubishi-fr-series-fault-e6/)
-- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
-- [Mitsubishi FR-A800 Fault E.OC1, Overcurrent During Acceleration Fix](/posts/mitsubishi-fr-a800-fault-eoc1/)
-- [Mitsubishi Mini Split U4 Error Code — Causes & Fix](/posts/mitsubishi-mini-split-u4-error-code/)

@@ -19,8 +19,6 @@ A Samsung refrigerator leaking water onto the floor is not an error code. It is 
 
 Most often the leak comes from air in the water line after a filter replacement, a filter that is not seated correctly, low household water pressure, a partially closed supply valve, a kinked or leaking water line, or the refrigerator being out of level. If water pools in the freezer or crisper area, a frozen or clogged defrost drain is a frequent cause specific to Samsung models, where ice blocks the drain path and water overflows onto the floor.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Air trapped in the water line after filter change** Samsung identifies this as the most common cause after installation or filter replacement, causing water to drip or sputter from the dispenser and pool on the floor.

@@ -126,16 +126,3 @@ Servo amplifier replacement on a Fanuc-controlled machining center requires prop
 Mechanical repairs to ballscrews and linear guides require precision alignment tools and should be performed by the machine tool builder's service organization or a qualified rebuild shop.
 
 > **Pro tip:** Fanuc Alarm 506 that occurs only at the end of a rapid traverse move (G00) but not during cutting feed (G01/G02/G03) is almost always an acceleration/deceleration parameter issue or a servo loop gain mismatch — not a hardware failure. Check with the machine builder before replacing any hardware.
-
-## Related Articles
-
-- [Fanuc Alarm 414 — Servo Amplifier Fault](/posts/fanuc-alarm-414/)
-- [Fanuc Alarm 401 — Servo Ready Signal Off](/posts/fanuc-alarm-401/)
-- [Fanuc Alarm 500 — Overtravel Alarm Fix](/posts/fanuc-alarm-500/)
-
-## See Also
-
-- [Fanuc Alarm 700 — Causes & Fix](/posts/fanuc-alarm-700/)
-- [Fanuc Alarm 300 — APC Alarm Fix (Absolute Encoder)](/posts/fanuc-alarm-300/)
-- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
-- [Fanuc Alarm 300: APC Battery Low — Absolute Encoder Battery Fix](/posts/fanuc-alarm-300-apc-battery/)

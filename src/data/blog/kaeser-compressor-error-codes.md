@@ -50,14 +50,6 @@ If the package has an integrated refrigerated dryer, the dryer can trip independ
 ## When to Call a Pro
 Kaeser Sigma Control diagnostics are much easier with factory documentation and service access. If alarms persist after PM work, involve a Kaeser-trained compressor tech before the airend is damaged.
 
-## Related Articles
-
-- [Air Compressor Fault Codes: Complete Guide](/posts/air-compressor-fault-codes/)
-- [Atlas Copco Air Compressor Fault Codes — Complete Guide](/posts/atlas-copco-compressor-fault-codes/)
-- [BOGE Air Compressor Error Codes - Complete Guide](/posts/boge-compressor-error-codes/)
-- [Chicago Pneumatic Compressor Fault Codes — Complete Guide](/posts/chicago-pneumatic-compressor-faults/)
-- [CompAir Air Compressor Fault Codes - Complete Guide](/posts/compair-compressor-fault-codes/)
-
 ## More Kaeser Compressor fault codes
 
 Compiled from manufacturer service manuals and authorized documentation.
@@ -75,7 +67,6 @@ Compiled from manufacturer service manuals and authorized documentation.
 | 3130 | Fuel level low - warning on diesel-driven units (Sigma Control Mobil / MOBILAIR) | Fuel in the tank has dropped below the low-level threshold. | Refuel; if the tank is not actually low, check the fuel level sensor and wiring. |
 | 3200 | Compressor overheating - warning, pre-shutdown (Sigma Control Mobil / MOBILAIR) | Airend temperature is climbing toward the shutdown limit; typically early-stage cooler fouling, low oil, or reduced airflow. | Address it before it escalates: clean the cooler, check oil level and quality, and confirm fan operation and ambient airflow. |
 
-
 ## How to troubleshoot Kaeser Compressor
 
 Kaeser controllers come in a few generations, and the diagnostic path depends on which one you have. Stationary rotary screw packages (SM, SK, ASD, BSD, DSD and similar) with Sigma Control or Sigma Control 2 mostly show plain-text alarms and warnings on the panel rather than short numeric codes. Portable MOBILAIR units with Sigma Control Mobil use four-digit numeric codes, where the first digit is the type (1 = alarm/shutdown, 2 = maintenance, 3 = warning) and the second digit is the location (1 = engine, 2 = compressor unit, 3 = controller, 4 = general). Read the code with that structure in mind before you start pulling parts.
@@ -85,7 +76,6 @@ Start by separating a warning from a shutdown. A warning means the machine is st
 Check the cheap, common causes first. The single most frequent Kaeser alarm family is high airend discharge temperature. Before replacing valves, motors, or the airend, clean the cooler core, verify the cooling-oil level and condition, confirm the cooling fan actually runs, and make sure the enclosure has adequate airflow and the room is not too hot. Sensor faults are the next most common category: a bad temperature or pressure sensor throws an alarm even when the machine is mechanically fine, so compare the controller's reading against an independent gauge or probe before condemning hardware. For overload, phase, or emergency-stop alarms, work the electrical side (voltage balance, overload relay setting, E-stop loop, door switches).
 
 Safety and when to call a pro: always let the unit cool and relieve system pressure before opening any component, and lock out power before touching electrical parts. If a temperature or pressure alarm keeps returning after you have cleaned the coolers, corrected the oil, and confirmed the sensor, stop running the machine and bring in a Kaeser-trained technician. Continuing to run through a genuine high-temperature or low-oil-pressure alarm risks destroying the airend, which is by far the most expensive repair on the machine.
-
 
 ## Frequently asked questions
 
@@ -108,4 +98,3 @@ You can, but you should not. Maintenance messages like the oil/filter or air-fil
 ### When should I stop running the compressor and call a technician?
 
 If a high-temperature or low-oil-pressure alarm keeps returning after you have cleaned the coolers, corrected the oil, and verified the sensor, stop. Running through a genuine temperature or oil-pressure alarm risks damaging the airend, which is the costliest repair on the unit. A Kaeser-trained tech has the factory diagnostics and service access to isolate the root cause.
-

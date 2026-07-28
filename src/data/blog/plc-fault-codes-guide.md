@@ -16,8 +16,6 @@ tags:
 
 PLC faults usually fall into a few buckets: major fault, I/O bus fault, battery/memory fault, watchdog timeout, program mismatch, or communication loss. The exact code depends on the platform, but the first question is always the same: did the controller stop because of its own hardware, its program, or something external to it?
 
-[Jump to Fix](#fix)
-
 ## Common PLC Fault Categories
 
 | Fault Type | Typical Meaning |

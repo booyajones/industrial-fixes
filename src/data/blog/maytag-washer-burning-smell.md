@@ -19,8 +19,6 @@ A burning smell on a Maytag washer is a symptom, not a fault code. It typically 
 
 If you see black dust, melted rubber, or shiny heat marks on pulleys, that confirms a friction or slip failure. On direct-drive models without a belt, the motor coupling can crack or overheat and create a similar burning odor. The exact cause depends on whether the smell happens during spin, drain, or agitate, and whether it is rubbery, electrical, or oily.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Worn or glazed drive belt slipping under load** The belt loses grip on the pulleys during spin, creating heat and a burning rubber smell, especially if the pump or tub has extra drag.

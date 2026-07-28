@@ -19,8 +19,6 @@ A Samsung dryer squeaking, squealing, or grinding is a noise symptom, not an ele
 
 Samsung's troubleshooting pages start with load checks, leveling, and loose-item inspection. They do not map squeaking to a specific fault code the way they do for door-switch or temperature errors. If basic corrections do not fix the noise, the most common mechanical failures reported in the field are idler pulley seizure, drum support roller failure, drive belt wear, and blower wheel problems.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Overloaded drum or oversized load** A heavy load can thump and squeak against the drum or cabinet, and Samsung says to stop the cycle and reduce the weight of the load.
@@ -64,7 +62,7 @@ Seeing a code on the display? These match this problem:
 - [Samsung Dryer Be error code](/posts/samsung-dryer-be-error-code/)
 - [Samsung Dryer Be2 error code](/posts/samsung-dryer-be2-error-code/)
 - [Samsung Dryer C1 error code](/posts/samsung-dryer-c1-error-code/)
-- [Samsung Dryer C2 error code](/posts/samsung-dryer-c2-error-code/)
+- Samsung Dryer C2 error code
 - [Samsung Dryer C8 error code](/posts/samsung-dryer-c8-error-code/)
 - [Samsung Dryer C80 error code](/posts/samsung-dryer-c80-error-code/)
 

@@ -13,11 +13,8 @@ money_part: "Blower motor run capacitor"
 most_likely_cause: "Failed blower motor run capacitor"
 ---
 
-## Trane 8 Flashes Error Code — What It Means
-
+## What this code means
 Eight flashes on a Trane furnace status LED indicates an **indoor blower (circulator) motor fault**. The control board commanded the blower to run but didn't receive confirmation that it reached operating speed within the expected time, or the motor drew excess current and tripped its internal protector. The furnace will shut down on heat calls until the fault is cleared. This is distinct from the inducer (draft) motor — the 8-flash code refers to the main blower that distributes conditioned air through the duct system.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Eight flashes on a Trane furnace status LED indicates an **indoor blower (circul
 ## When to Call a Pro
 
 ECM (variable-speed) motors on Trane XV and XC series require a matched control module. If you replace an ECM motor without the correct module, the fault will persist. Have a technician confirm the ECM module is communicating properly before condemning the motor.
-
-## Related Articles
-
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-
-## See Also
-
-- [Trane XR17 Heat Pump Error Codes - Fault Code and Flash Code Guide](/posts/trane-xr17-error-codes/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane / American Standard 4-Blink Error Code — Limit Circuit Trip Fix](/posts/trane-4-blink-error-code/)
-- [Trane XV20i Error Code 79 — Causes & Fix](/posts/trane-error-code-79/)

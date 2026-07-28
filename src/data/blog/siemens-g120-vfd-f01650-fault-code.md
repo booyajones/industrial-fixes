@@ -13,11 +13,8 @@ money_part: "Siemens G120 Control Unit"
 most_likely_cause: "Safety acceptance test not completed"
 ---
 
-## Siemens G120 F01650 — What It Means
-
+## What this code means
 Fault code F01650 on the Siemens SINAMICS G120 drive means there is a fault in the safety parameterization. The drive's Safety Integrated functions have detected that safety parameters are not accepted or not valid for operation. The drive will react with an OFF2 (or OFF3) shutdown to protect the system. This fault typically appears during safety commissioning or acceptance testing, and it indicates that the required safety workflow has not been completed or that there is a problem with the safety signal path or wiring.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,10 +44,3 @@ Fault code F01650 on the Siemens SINAMICS G120 drive means there is a fault in t
 ## When to Call a Pro
 
 Call a qualified Siemens-trained technician or system integrator if you are not familiar with Safety Integrated commissioning procedures or if the fault persists after completing the acceptance test and verifying all wiring. Safety functions are critical for personnel protection and require precise configuration. If the drive shows an unresolved internal safety fault after all standard diagnostics, or if you see fault values in r0949 that are not documented in your manual, contact Siemens technical support immediately. Any work on safety circuits should be performed by personnel trained in functional safety standards.
-
-## See Also
-
-- [Siemens Micromaster F0060 - Causes & Fix](/posts/siemens-micromaster-f0060-fault-code/)
-- [Siemens G120 F03505 - Causes & Fix](/posts/siemens-g120-vfd-f03505-fault-code/)
-- [Siemens Sinumerik Alarm 380500 — Causes & Fix](/posts/siemens-sinumerik-alarm-380500/)
-- [Siemens G120 A05002 Fault - Causes & Fix](/posts/siemens-g120-vfd-a05002-fault-code/)

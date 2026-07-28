@@ -59,18 +59,3 @@ The induced draft blower (also called inducer or draft motor) pulls combustion g
 ## Pro Tip
 
 Before replacing anything, cycle the thermostat off and back on. Watch the inducer: it should spin up immediately when the call for heat starts. If it doesn't spin at all, the motor is failed or the IFC isn't outputting voltage to it. Use a multimeter to check voltage at the inducer motor terminals during startup — if you see 120V and the motor doesn't spin, it's the motor. If you see 0V, suspect the IFC or a safety interlock upstream.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier 43 Error Code — Rollout Switch Open Fix](/posts/carrier-43-error-code/)
-- [Carrier 24ACC6 Heat Pump Error Codes: Complete Diagnostic Guide](/posts/carrier-24acc6-heat-pump-error-codes/)
-- [Carrier Zone Controller Error Codes — Complete Guide](/posts/carrier-zone-controller-error-codes/)
-- [Carrier 52 Error Code — Causes & Fix](/posts/carrier-52-error-code/)

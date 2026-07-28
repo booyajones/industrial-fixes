@@ -17,8 +17,7 @@ money_part: "Exterior dryer vent hood"
 part_price: "$15-50"
 ---
 
-## LG Dryer D95 Error Code — What It Means
-
+## What this code means
 The LG D95 code indicates the dryer has detected a 95% blockage or restriction in the exhaust duct system. This is a severe airflow warning tied to the dryer's duct blockage sensor. LG groups D95 with D90 as critical exhaust restriction alerts that signal the vent path is nearly completely blocked.
 
 The fault is primarily a venting and airflow problem, not a control board failure. The dryer is measuring severely reduced air movement through the exhaust system and warning you to stop use until the restriction is cleared. Continuing to run the dryer with this level of blockage can cause overheating, extended dry times, and potential fire hazard.
@@ -26,8 +25,6 @@ The fault is primarily a venting and airflow problem, not a control board failur
 ## Before You Replace Anything
 
 Homeowners sometimes replace the moisture sensor or control board when they see a D95 code. Before ordering any electronic parts, disconnect the vent hose from the dryer and run a test cycle to verify the code clears with unrestricted airflow.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a professional if the duct run is longer than 15 feet, has multiple bends, or runs through walls or ceilings where you cannot safely access it for cleaning. A technician should also inspect the system if the D95 code returns after you have confirmed the lint filter is clean and the exterior vent has strong airflow. Long or complex vent installations may require professional duct cleaning equipment and expertise to fully clear restrictions. If the vent system design exceeds manufacturer installation guidelines for length and bends, a pro can evaluate whether rerouting or upgrading the ductwork is necessary to prevent future blockage codes.
 
 **Rough cost:** DIY runs about $15-50 in parts (vent hood, replacement ducting), 30-90 min. A pro service call runs about $150-300 for duct cleaning and repair.
-
-## See Also
-
-- [LG Refrigerator Too Warm - Causes & Fix](/posts/lg-refrigerator-too-warm/)
-- [LG Oven Broiler Not Working - Causes & Fix](/posts/lg-oven-broiler-not-working/)
-- [LG Microwave F-3 Error - Causes & Fix](/posts/lg-microwave-f-3-error-code/)
-- [LG Washer Drive Belt Replacement - Signs & How-To](/posts/lg-washer-drive-belt-replacement/)

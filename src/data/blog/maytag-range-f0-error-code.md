@@ -17,8 +17,7 @@ money_part: "Maytag range touchpad or membrane keypad assembly"
 part_price: "$50-150"
 ---
 
-## Maytag Range F0 Error Code — What It Means
-
+## What this code means
 The F0 or F0 E0 error code on a Maytag range indicates that the electronic oven control cannot recognize what type of problem has occurred. According to Maytag, this code points to a possible issue in the oven control system, the electronic control itself, or the associated wiring. It is a general fault code rather than a specific diagnostic.
 
 In the field, the most commonly reported cause is a stuck function key or defective touchpad assembly. The fault can also stem from a failing electronic range control (ERC or clock assembly) or a wiring and connector problem between the touchpad and the control board.
@@ -26,8 +25,6 @@ In the field, the most commonly reported cause is a stuck function key or defect
 ## Before You Replace Anything
 
 Many people replace the electronic control board first. Before ordering a board, inspect every function key on the touchpad for mechanical sticking or contamination and perform a full power reset, because a stuck key or temporary glitch causes this code far more often than a board failure.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

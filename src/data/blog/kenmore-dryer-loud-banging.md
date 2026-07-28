@@ -17,8 +17,6 @@ tags:
 
 A loud banging noise from a Kenmore dryer is a mechanical symptom, not a fault code. Kenmore dryers are built on several OEM platforms (Whirlpool, LG, Frigidaire), so the exact layout varies by model, but the banging usually comes from a worn or failing rotating part striking the cabinet or dragging during drum rotation. If the dryer still heats and dries but makes a loud thump, rumble, or bang, the problem is almost always in the drum support system, belt path, or blower rather than the control board or electronics.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Worn drum support rollers** Drum rollers develop flat spots, wobble, or seize over time, causing a rhythmic thumping or banging as the drum turns.

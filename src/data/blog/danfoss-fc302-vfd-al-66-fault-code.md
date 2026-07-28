@@ -19,8 +19,7 @@ free_checks:
   - "Set Parameter 2-00 (DC Hold/Preheat Current) to 5% and Parameter 1-80 (Function at Stop) to enable trickle current, then restart to see if the warning clears"
 ---
 
-## Danfoss FC302 W66 — What It Means
-
+## What this code means
 Warning 66 (W66) on the Danfoss FC302 VFD indicates 'Heat Sink Temperature Low.' The temperature sensor inside the IGBT module reports the heat sink is below the safe operating threshold (typically below 0°C or the manufacturer's minimum). The drive will not start to prevent thermal stress or condensation damage. The FC-302 software will display the temperature as 0 degrees or a negative value when this fault is active.
 
 This warning is triggered by either a genuine cold environment (installation in freezing conditions without preheating) or a failure in the sensor circuit. The sensor is integrated into the IGBT module, and its signal is read by the Power Card. When the card or sensor fails, the drive interprets the fault as a dangerously low temperature even if the ambient environment is warm.
@@ -28,8 +27,6 @@ This warning is triggered by either a genuine cold environment (installation in 
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire IGBT module when only the Power Card (which reads the sensor signal) is defective. Test sensor resistance and swap the Power Card first before condemning the IGBT module.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician for W66 repairs. This fault requires high-voltage lockout, DC bus discharge procedures, component-level testing of the Power Card and IGBT module, and careful reassembly with insulation verification. Mistakes can destroy expensive power electronics or create shock hazards. If you are not trained in VFD service or do not have the proper test equipment (multimeter, insulation tester), do not attempt this repair. A pro can also adjust preheat parameters correctly and test the drive under full load to confirm the fix.
 
 **Rough cost:** A pro service call runs about $300-800.
-
-## See Also
-
-- [Danfoss FC302 AL-82 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-82-fault-code/)
-- [Danfoss FC302 ALARM 35 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-35-fault-code/)
-- [Danfoss FC302 AL-17 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-117-fault-code/)
-- [Danfoss FC302 VFD AL-127 - Causes & Fix](/posts/danfoss-fc302-vfd-al-127-fault-code/)

@@ -16,8 +16,7 @@ money_part: "Samsung washer heating element"
 part_price: "$30-80"
 ---
 
-## Samsung HR Error Code — What It Means
-
+## What this code means
 The HR code on a Samsung washer is a heater-related error. Samsung support documentation maps this fault to a problem in the water-heating circuit or temperature-control path. The washer has detected that it cannot properly heat water, either because the supply configuration is incorrect, the heater circuit has failed, or the temperature sensor is not reading correctly.
 
 This code does not indicate a motor or door issue. It points specifically to the heating system, which includes the supply plumbing, the heating element, the temperature sensor (thermistor), and the control wiring between them. Samsung groups this fault with communication and sensor-related errors in the same diagnostic family, so both hardware and wiring problems are part of the technician workflow.
@@ -25,8 +24,6 @@ This code does not indicate a motor or door issue. It points specifically to the
 ## Before You Replace Anything
 
 Many people replace the heating element first, but the washer will throw HR even when the heater is good if the hot and cold hoses are swapped. Always verify hose hookup and home hot-water supply before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -18,8 +18,7 @@ free_checks:
   - "Disconnect the motor from the drive output; power on the drive; if the fault clears the motor or cable is faulty"
 ---
 
-## Danfoss FC302 AL-76 Fault — What It Means
-
+## What this code means
 Alarm 38 with sub-code 76 on the Danfoss FC302 VFD means "start current in the start delay time." The drive monitors output current during the programmed start delay (parameter group 3-**) and triggers this fault if current flows before the motor is allowed to accelerate. This indicates the motor is drawing current prematurely, which can damage the drive or signal a wiring or control problem.
 
 The fault appears on the display as Alarm 38 with a secondary numeric code (76), not as a standalone "AL 76." It is an internal fault that prevents the drive from starting and points to either a motor or power-section defect that creates unexpected current at zero speed.
@@ -27,8 +26,6 @@ The fault appears on the display as Alarm 38 with a secondary numeric code (76),
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire VFD before checking the motor and cable. Disconnect the motor and measure insulation resistance with a megohmmeter; if resistance to ground is below 1 MΩ, the motor or cable is faulty, not the drive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or drive technician if you are not comfortable working with three-phase power or performing high-voltage insulation tests. Replacing the drive's internal rectifier or IGBT module requires knowledge of DC bus discharge procedures and proper torque specs for power terminals. If the motor tests show a winding fault, a motor shop can rewind or replace the motor. Any work on the VFD power section should be done by someone trained in variable-frequency drive service to avoid electric shock or further damage to the drive.
 
 **Rough cost:** A pro service call runs about $300-800 for motor cable replacement or power board repair; motor replacement $500-3,000 depending on size.
-
-## See Also
-
-- [Danfoss FC302 Alarm 26 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-26-fault-code/)
-- [Danfoss FC302 AL-158 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-158-fault-code/)
-- [Danfoss FC302 AL-65 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-65-fault-code/)
-- [Danfoss FC302 AL-62 - Causes & Fix](/posts/danfoss-fc302-vfd-al-62-fault-code/)

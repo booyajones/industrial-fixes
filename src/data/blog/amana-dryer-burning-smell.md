@@ -19,8 +19,6 @@ A burning smell in an Amana dryer is not a fault code. It is a symptom pointing 
 
 Amana's own guidance notes that dryers can pick up odors from recent painting or staining in the room because they pull in surrounding air. However, a persistent burning smell during operation typically means something inside the cabinet is overheating or rubbing. Restricted venting raises the cabinet temperature and can create a burning odor even when no single part has failed yet.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Lint buildup or blocked venting** Restricted airflow from a clogged lint screen, internal lint path, or external vent ducting raises cabinet temperature and causes a burning smell.
@@ -61,9 +59,9 @@ If your appliance also shows a code on the display, these match this problem:
 - [Amana Dryer F02 error code](/posts/amana-dryer-f02-error-code/)
 - [Amana Dryer F1 E1 error code](/posts/amana-dryer-f1-e1-error-code/)
 - [Amana Dryer F1 E4 error code](/posts/amana-dryer-f1-e4-error-code/)
-- [Amana Dryer F1E3 error code](/posts/amana-dryer-f1e3-error-code/)
-- [Amana Dryer F1E5 error code](/posts/amana-dryer-f1e5-error-code/)
-- [Amana Dryer F20 error code](/posts/amana-dryer-f20-error-code/)
+- Amana Dryer F1E3 error code
+- Amana Dryer F1E5 error code
+- Amana Dryer F20 error code
 - [Amana Dryer F22 error code](/posts/amana-dryer-f22-error-code/)
 - [Amana Dryer F23 error code](/posts/amana-dryer-f23-error-code/)
 - [Amana Dryer F24 error code](/posts/amana-dryer-f24-error-code/)

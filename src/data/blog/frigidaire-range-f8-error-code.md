@@ -20,8 +20,7 @@ free_checks:
 part_price: "$50–120"
 ---
 
-## Frigidaire Range F8 Error Code — What It Means
-
+## What this code means
 On Frigidaire ranges the F8 error code signals a door lock or latch problem. The electronic control detects that the oven door lock mechanism is not operating correctly. It may believe the door is locked when it should be unlocked, or that the latch is not transitioning properly during a self-clean cycle or unlock command.
 
 The fault typically points to the door latch assembly itself, a stuck or obstructed lock mechanism, a failed door switch in the lock circuit, damaged wiring or connectors, or a control board that cannot correctly drive or read the lock position. Because the code is tied to the lock hardware rather than temperature sensors or heating elements, the repair usually centers on the mechanical latch assembly and its associated switches.
@@ -29,8 +28,6 @@ The fault typically points to the door latch assembly itself, a stuck or obstruc
 ## Before You Replace Anything
 
 Many people replace the main control board first, but a stuck or defective door latch assembly causes most F8 codes. Inspect the lock mechanism and test the latch switch before condemning the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

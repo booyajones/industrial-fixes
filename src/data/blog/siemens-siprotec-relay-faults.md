@@ -40,18 +40,3 @@ SIPROTEC relays run internal self-tests. If a hardware fault appears, capture th
 ## Parts Commonly Needed | Part | Notes | [](https://www.amazon.com/s?ascsubtag=ecf-siemens-siprotec-relay-faults&k=&tag=errorcodefixes-20) | ------ |-------| [](https://www.amazon.com/s?ascsubtag=ecf-siemens-siprotec-relay-faults&k=&tag=errorcodefixes-20) | Relay power supply module | Match exact SIPROTEC model | [](https://www.amazon.com/s?ascsubtag=ecf-siemens-siprotec-relay-faults&k=&tag=errorcodefixes-20) | Front communication cable | Needed for local DIGSI connection | [](https://www.amazon.com/s?ascsubtag=ecf-siemens-siprotec-relay-faults&k=&tag=errorcodefixes-20) | Test switch block | Useful when CT/VT circuits require safe isolation | [](https://www.amazon.com/s?ascsubtag=ecf-siemens-siprotec-relay-faults&k=&tag=errorcodefixes-20) | Backup battery | Older models only | [](https://www.amazon.com/s?ascsubtag=ecf-siemens-siprotec-relay-faults&k=&tag=errorcodefixes-20) | Ethernet SFP or patch cord | Check station network media type |
 
 > **Pro tip:** Pull the event log and disturbance record before you clear anything. SIPROTEC relays capture precise timing, target bits, and oscillography. That data tells you whether the relay saw a real power system event or an internal problem.
-
-## Related Articles
-
-- [Siemens Sinumerik 828D Alarm Codes Guide — Complete Diagnostic Reference](/posts/siemens-828d-alarm-codes/)
-- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
-- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)
-- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
-- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)
-
-## See Also
-
-- [Siemens SINAMICS G120 F30003 Fault — DC Link Undervoltage Fix](/posts/siemens-sinamics-f30003-fault/)
-- [Siemens SINAMICS G120 F30002 Fault — DC Link Overvoltage Fix](/posts/siemens-sinamics-f30002-fault/)
-- [Siemens Sinumerik Alarm 300204 — Causes & Fix](/posts/siemens-sinumerik-alarm-300204/)
-- [Siemens SINAMICS G120 F00001 Fault — Causes & Fix](/posts/siemens-sinamics-g120-fault-f00001/)

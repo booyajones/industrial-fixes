@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "40%"
 ---
 
-## Danfoss FC302 AL-92 — What It Means
-
+## What this code means
 AL-92 does not exist in any official Danfoss FC 302 documentation. The alarm list for the FC 302 series ranges from AL 1 to AL 72. The code displayed is likely a misread number (such as AL-38 for internal fault, AL-13 for overcurrent, or AL-72 for unknown internal fault), a corrupted display caused by firmware or hardware issues, or a code from a different drive brand or model.
 
 If the drive instead shows AL-38 (Internal Fault), this indicates a communication error between the control card and power card, memory errors, firmware corruption, or failed gate driver circuits. Danfoss documents AL-38 as the catch-all for internal faults requiring power cycling and inspection of control wiring and PCBs.
@@ -29,8 +28,6 @@ If the drive instead shows AL-38 (Internal Fault), this indicates a communicatio
 ## Before You Replace Anything
 
 Technicians often replace the entire inverter board or power stack before testing the control card communication path and gate driver circuits. Cycle power and inspect control wiring first.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a qualified technician or Danfoss-certified service provider if the fault persists after power cycling and basic wiring inspection. Work inside the drive enclosure involves high DC-link voltage (up to 500 V AC supply and higher internal DC voltage) and requires proper lockout, discharge procedures, and test equipment. Replacing control cards, power cards, or IGBT modules requires knowledge of VFD architecture and firmware recovery. Danfoss recommends contacting their technical support for persistent AL-38 internal faults or any unrecognized alarm code.
 
 **Rough cost:** A pro service call runs about $300-800.
-
-## See Also
-
-- [Danfoss FC302 AL-166 - Causes & Fix](/posts/danfoss-fc302-vfd-al-166-fault-code/)
-- [Danfoss FC302 AL-155 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-155-fault-code/)
-- [Danfoss FC302 Alarm 54 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-54-fault-code/)
-- [Danfoss FC302 AL-115 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-115-fault-code/)

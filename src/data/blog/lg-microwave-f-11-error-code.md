@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "LG microwave inverter board assembly"
 ---
 
-## LG Microwave F-11 Error Code — What It Means
-
+## What this code means
 The F-11 code on an LG microwave signals an inverter communication error. This means the main control board cannot properly communicate with the inverter board, which regulates the microwave's cooking power output. LG defines this code as a service-required fault.
 
 The inverter board converts household AC power into the high-frequency energy the magnetron uses to cook food. When communication between the control and inverter boards fails, the microwave cannot safely operate and shuts down with the F-11 code displayed.
@@ -25,8 +24,6 @@ The inverter board converts household AC power into the high-frequency energy th
 ## Before You Replace Anything
 
 Some people replace the main control board first when the inverter board is actually at fault. Before ordering parts, check all harness connectors between the boards for looseness or corrosion.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 LG explicitly designates F-11 as a service-required fault. Microwave inverter boards operate at high voltage even when unplugged due to stored capacitor charge, and incorrect handling can cause severe shock or further damage. If you are not trained in high-voltage appliance repair, do not attempt to diagnose or replace boards yourself. A qualified appliance technician has the tools to safely discharge capacitors, test communication signals, and replace the correct board. Call a pro immediately if you see any arcing, burning smell, or if the code returns after a simple reset.
 
 **Rough cost:** A pro service call runs about $150–350 depending on the board and labor.
-
-## See Also
-
-- [LG Dishwasher IE Error Code - Causes & Fix](/posts/lg-dishwasher-ie-error-code/)
-- [LG Washer Overflowing - Causes & Fix](/posts/lg-washer-overflowing/)
-- [LG Microwave F5 Error - Causes & Fix](/posts/lg-microwave-f5-error-code/)
-- [LG Mini Split CH29 Error Code - Causes & Fix](/posts/lg-mini-split-ch29-error-code/)

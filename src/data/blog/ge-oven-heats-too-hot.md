@@ -20,8 +20,6 @@ When your GE oven heats too hot, the actual cavity temperature has climbed above
 
 The problem almost always traces to either a bad temperature sensor feeding incorrect readings to the control board, or to a stuck relay on the board itself that keeps the bake or broil element energized. Less often, blocked airflow or a failed cooling fan lets heat build up beyond normal limits.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed oven temperature sensor** The sensor feeds temperature data to the control board, and when it drifts out of range or shorts the board can't regulate heat correctly.

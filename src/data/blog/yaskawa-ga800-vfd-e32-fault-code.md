@@ -13,11 +13,8 @@ money_part: "Yaskawa GA800 soft-charge bypass relay"
 most_likely_cause: "Worn or failed soft-charge bypass relay"
 ---
 
-## Yaskawa GA800 E32 Fault — What It Means
-
+## What this code means
 The E32 fault on a Yaskawa GA800 variable frequency drive indicates a soft-charge bypass relay answerback fault. During startup, the drive commands the soft-charge bypass relay to change state and monitors a feedback signal to confirm the relay responded correctly. When E32 appears, the drive did not receive the expected relay-state feedback from the DC bus precharge or bypass circuit. This is not a motor overload or output short. It is a precharge relay feedback problem specific to the drive's internal startup sequence. The drive expects confirmation that the relay closed or opened as commanded, and that signal was missing or incorrect.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ The E32 fault on a Yaskawa GA800 variable frequency drive indicates a soft-charg
 ## When to Call a Pro
 
 Call a qualified VFD service technician or contact Yaskawa technical support if you are not trained in high-voltage industrial drive repair, if the fault persists after inspecting wiring and connections, or if you do not have access to the drive's internal relay and control board assemblies. Precharge circuits operate at DC bus voltages and require proper lockout, discharge, and measurement procedures. If the drive is mission-critical or under warranty, professional diagnosis and factory-authorized parts will prevent further damage and make sure safe restoration of operation.
-
-## See Also
-
-- [Yaskawa GA800 VFD E54 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e54-fault-code/)
-- [Yaskawa GA800 E67 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e67-fault-code/)
-- [Yaskawa GA800 E14 Fault - Causes & Fix](/posts/yaskawa-ga800-e14-fault-code/)
-- [Yaskawa GA800 A.101 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-101-fault-code/)

@@ -20,15 +20,12 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Danfoss FC302 AL-64 — What It Means
-
+## What this code means
 Warning 64 (Voltage Limit) on the Danfoss FC302 means the drive cannot supply the voltage required to meet the motor's speed and load demand, causing the output voltage to hit its maximum limit. The drive detects that the motor's speed and load combination demands a voltage higher than the drive can provide. This is not a hard fault (the drive may not trip immediately), but it indicates the motor is under-volted, which can lead to stalled torque or overheating.
 
 ## Before You Replace Anything
 
 Technicians often replace the drive power module when the real issue is mechanical overload or incorrect motor parameter settings. Remove the motor load temporarily and verify motor data in parameters 120-125 before swapping components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or VFD technician if you are not trained to work with three-phase power, measure high-voltage DC bus levels, or program VFD parameters. Professional help is needed if the drive power module or inverter section has failed, if you cannot safely isolate and test the motor, or if input voltage imbalance points to an upstream electrical issue requiring a licensed electrician. A tech with a megohm tester and parameter programming tools can diagnose the fault in 30-60 minutes and avoid replacing expensive components unnecessarily.
 
 **Rough cost:** A pro service call runs about $150-400 depending on whether the fix is a parameter adjustment, motor repair, or drive component replacement.
-
-## See Also
-
-- [Danfoss FC302 Alarm 39 - Causes & Fix](/posts/danfoss-fc302-alarm-39-fault-code/)
-- [Danfoss FC302 AL-78 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-78-fault-code/)
-- [Danfoss FC302 AL-68 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-68-fault-code/)
-- [Danfoss FC302 ALARM 35 - Causes & Fix](/posts/danfoss-fc302-alarm-35-fault-code/)

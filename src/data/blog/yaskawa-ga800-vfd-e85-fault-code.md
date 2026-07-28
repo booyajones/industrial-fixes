@@ -14,8 +14,7 @@ money_part: "Yaskawa GA800 control board (PCB)"
 most_likely_cause: "Misread or custom alarm"
 ---
 
-## Yaskawa GA800 E85 Fault — What It Means
-
+## What this code means
 The E85 fault code does not appear in the verified Yaskawa GA800 maintenance or troubleshooting documentation available from the manufacturer. Yaskawa publishes a specific alarm code list for the GA800 in its user and maintenance manuals, and E85 is not identified in those resources. It is possible that the code is being misread from the keypad, that it is a custom parameter alarm configured by the integrator, or that it appears differently in the drive's alarm history. Yaskawa troubleshooting guidance stresses reading the elementary diagram and verifying the exact alarm code and description before taking corrective action.
 
 Because the exact meaning of E85 cannot be confirmed from manufacturer sources, attempting repair without the correct fault definition risks replacing the wrong component or missing the actual problem. The GA800 maintenance manual states that it covers only fan and control board replacement and does not address more complex internal repairs. Always record the full alarm text from the drive's alarm history menu and have the model number, specification code, and serial number ready when contacting Yaskawa technical support.
@@ -23,8 +22,6 @@ Because the exact meaning of E85 cannot be confirmed from manufacturer sources, 
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board or power section without verifying the fault code meaning in the alarm history. Always write down the full alarm text from the drive's menu and cross-check it against the GA800 user manual fault table before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -66,10 +63,3 @@ Answer these to narrow it down fast.
 Call a qualified Yaskawa service technician or distributor when the alarm code cannot be found in the user manual, when the drive will not restart after a fault reset, or when the alarm history shows multiple simultaneous faults. The GA800 maintenance and troubleshooting manual explicitly states that it does not cover repairs beyond fan and control board replacement, so any work involving the power section, DC bus, or internal wiring must be performed by trained personnel. Yaskawa technical support requires the drive's model number, specification code, serial number, and the exact alarm history text to provide accurate guidance, so have that information ready before calling.
 
 **Rough cost:** A pro service call runs about $200-500.
-
-## See Also
-
-- [Yaskawa GA800 VFD E60 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e60-fault-code/)
-- [Yaskawa GA800 F019 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f019-fault-code/)
-- [Yaskawa GA800 F033 - Causes & Fix](/posts/yaskawa-ga800-vfd-f033-fault-code/)
-- [Yaskawa GA800 E79 - Causes & Fix](/posts/yaskawa-ga800-vfd-e79-fault-code/)

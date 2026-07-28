@@ -17,8 +17,7 @@ free_checks:
   - "Clean the flame sensor rod with fine abrasive cloth or steel wool if accessible without dismantling burner components."
 ---
 
-## Weil-McLain A47 Error Code — What It Means
-
+## What this code means
 A47 is not a universal Weil-McLain error code. It appears as a model-specific alarm or history entry on certain control boards. The exact meaning depends on your boiler series and the control installed. Weil-McLain designs its diagnostics so that technicians enter the contractor menu or fault-history screen to retrieve the actual fault name before starting repairs. Without that detail, A47 alone does not identify a single failed part.
 
 Because Weil-McLain stores multiple fault codes in history, A47 may be a logged event rather than the current active lockout. The practical next step is to power up the boiler, enter the diagnostics area on your control, and read the stored fault description. Only then can you match the fault to the correct component and repair procedure in your model-specific manual.
@@ -26,8 +25,6 @@ Because Weil-McLain stores multiple fault codes in history, A47 may be a logged 
 ## Before You Replace Anything
 
 Many technicians replace the ignitor or gas valve after repeated ignition lockouts without first cleaning the flame sensor. A dirty or corroded flame rod is often the real cause and costs nothing to clean.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician if you cannot access the diagnostics menu, if you are uncomfortable working with gas piping or high-voltage wiring, or if the boiler continues to lock out after cleaning the flame sensor and verifying gas supply. Gas appliances require proper combustion testing and leak checks after any valve or burner work. A technician will also measure gas pressure, flame-sense current, and control-board outputs to pinpoint failures that a visual inspection cannot detect. If your boiler is still under warranty, unauthorized repairs may void coverage, so contact the installer or Weil-McLain's service network first.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Weil-McLain A118 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a118-error-code/)
-- [Weil-McLain A30 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a30-error-code/)
-- [Weil-McLain A121 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a121-error-code/)
-- [Weil-McLain Boiler A80 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a80-error-code/)

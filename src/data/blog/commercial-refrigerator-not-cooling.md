@@ -22,8 +22,6 @@ The most common causes of cooling failure in commercial units are surprisingly s
 
 This guide works for walk-in coolers, reach-in refrigerators, undercounter units, prep tables, and display cases from brands like True, Beverage-Air, Traulsen, and Turbo Air.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
 - **Dirty condenser coil.** The most common cause of poor cooling. A layer of grease, dust, or lint on the condenser restricts airflow and prevents heat from escaping. The compressor works harder, overheats, and trips the overload.

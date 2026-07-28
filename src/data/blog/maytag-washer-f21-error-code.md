@@ -21,15 +21,12 @@ part_price: "$40-80"
 no_buy_pct: "60%"
 ---
 
-## Maytag F21 Error Code — What It Means
-
+## What this code means
 F21 on a Maytag washer means the machine detected a long drain time or drain timeout condition. The tub did not empty fast enough during the cycle. In Whirlpool and Maytag-branded front-load platforms, the code is commonly treated as a drainage fault rather than a single-component failure. The washer is reporting that water is taking too long to leave the tub, and that points first to a restriction or failure in the drain path rather than automatically to the control board.
 
 ## Before You Replace Anything
 
 Many people replace the drain pump or control board first. Before buying any part, clean the drain filter and coin trap, check the drain hose for kinks, and inspect the sump hose for debris.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

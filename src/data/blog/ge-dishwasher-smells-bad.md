@@ -17,8 +17,6 @@ tags:
 
 A bad smell from a GE dishwasher is not an error code but a symptom of contamination inside the machine. GE attributes the odor to food debris, grease, or other buildup in the wash system, drain path, or tub area. The smell can be musty, rotten, or sewage-like depending on whether the source is mold, decaying food particles, standing water, or backflow from a sink drain. The condition does not indicate an electronic fault but rather that organic residue or poor drainage is allowing bacteria and odor to develop in the dishwasher interior.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Food debris and grease in the filter or drain area** This is the most common cause, with particles and oils settling in the filter, sump, or drain screen and decaying over time.
@@ -62,8 +60,8 @@ If your appliance also shows a code on the display, these match this problem:
 - [Ge Dishwasher C8 error code](/posts/ge-dishwasher-c8-error-code/)
 - [Ge Dishwasher Ef error code](/posts/ge-dishwasher-ef-error-code/)
 - [Ge Dishwasher F56 error code](/posts/ge-dishwasher-f56-error-code/)
-- [Ge Dishwasher F9 error code](/posts/ge-dishwasher-f9-error-code/)
-- [Ge Dishwasher Ff error code](/posts/ge-dishwasher-ff-error-code/)
+- Ge Dishwasher F9 error code
+- Ge Dishwasher Ff error code
 
 ## When to Call a Pro
 

@@ -13,11 +13,8 @@ money_part: "Condensate safety switch"
 most_likely_cause: "Blocked or frozen condensate drain line"
 ---
 
-## Rinnai Error Code 25 — What It Means
-
+## What this code means
 Error code 25 on Rinnai tankless water heaters indicates a condensate safety switch fault. The code appears when condensate liquid has backed up inside the unit and tripped the float or safety switch, signaling that normal drainage has failed. This is a condensing-model issue only, since non-condensing units produce no liquid condensate. The heater will typically lock out to prevent water damage or unsafe operation until the backup condition is cleared and the switch resets.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ Error code 25 on Rinnai tankless water heaters indicates a condensate safety swi
 ## When to Call a Pro
 
 Call a licensed technician if you cannot locate the condensate drain line, if the backup persists after clearing visible blockages, or if you are uncomfortable opening the heater cabinet to access the safety switch or internal trap. A pro should also handle any repairs that require disconnecting gas or electrical wiring, or if the code returns immediately after reset. Persistent code 25 may indicate internal component failure or installation errors that require gas-certified service and warranty compliance.
-
-## See Also
-
-- [Rinnai Tankless Water Heater Error Codes — Complete Guide](/posts/rinnai-error-codes/)
-- [Rinnai Error Code 29 — System Communication Fault Fix](/posts/rinnai-error-code-29/)
-- [Rinnai Error Code 61 — Causes & Fix](/posts/rinnai-error-code-61/)
-- [Rinnai Error Code 31 — Causes & Fix](/posts/rinnai-error-code-31/)

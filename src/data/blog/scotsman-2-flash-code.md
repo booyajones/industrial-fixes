@@ -111,11 +111,4 @@ A: Check the suction-line temperature at the compressor inlet versus the evap ou
 **Related:** [Manitowoc HPCO high pressure cutout](/posts/manitowoc-hpco-error-code/)
 
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Hoshizaki E2 long freeze cycle fix](/posts/hoshizaki-e2-error-code/)
-
-## See Also
-
-- [Scotsman Ice Machine Error Code 3 — Causes & Fix](/posts/scotsman-ice-machine-error-code-3/)
-- [Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/scotsman-ice-machine-complete-guide/)
-- [Scotsman Ice Machine Error Code 4 — Causes & Fix](/posts/scotsman-ice-machine-error-code-4/)
-- [Scotsman Ice Machine Error Code 2 — Causes & Fix](/posts/scotsman-ice-machine-error-code-2/)
+**Related:** Hoshizaki E2 long freeze cycle fix

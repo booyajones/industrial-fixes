@@ -17,8 +17,7 @@ money_part: "Whirlpool front-load washer drain hose"
 part_price: "$15-50"
 ---
 
-## Whirlpool Washer F21 Error Code — What It Means
-
+## What this code means
 F21 on a Whirlpool front-load washer indicates a drain problem. The control has detected that water is not leaving the tub within the expected time window. Whirlpool states that F21 or F21/F02 codes mean drain times are longer than expected. This does not necessarily mean a single component has failed, but rather that the drain path or process is being slowed or blocked somewhere in the system.
 
 The washer may pause mid-cycle, leave water standing in the drum, or refuse to advance to spin. The code appears because the control board waited for the water level to drop and it did not happen quickly enough. Addressing the blockage or suds issue usually clears the fault without replacing any parts.
@@ -26,8 +25,6 @@ The washer may pause mid-cycle, leave water standing in the drum, or refuse to a
 ## Before You Replace Anything
 
 Many people replace the drain pump without checking the hose or pump filter. Pull and inspect the drain hose for kinks and clean the pump filter before ordering a pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

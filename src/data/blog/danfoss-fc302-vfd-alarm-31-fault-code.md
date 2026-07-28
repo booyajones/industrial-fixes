@@ -13,11 +13,8 @@ money_part: "Motor cable assembly"
 most_likely_cause: "Loose or disconnected V-phase motor lead"
 ---
 
-## Danfoss FC302 Alarm 31 — What It Means
-
+## What this code means
 Alarm 31 on a Danfoss FC302 VFD indicates a missing motor phase V. The drive has detected that the V output phase between the frequency converter and the motor is open or absent while the motor is running. This alarm does not appear at start-up but triggers during operation when the drive's phase-loss detection is active. The drive is specifically reporting a problem on the V phase output side, not the incoming supply.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ Alarm 31 on a Danfoss FC302 VFD indicates a missing motor phase V. The drive has
 ## When to Call a Pro
 
 Call a qualified electrician or drive technician if you are not trained in VFD service, if the wiring and motor test good but the alarm persists (indicating an internal drive fault), or if you need to replace the drive's output power stage. Work on VFD output circuits and inverter components requires lockout procedures, high-voltage safety knowledge, and diagnostic tools. If the motor winding is open, call a motor shop or electrician to evaluate whether repair or replacement is more cost-effective.
-
-## See Also
-
-- [Danfoss FC302 ALARM 16 - Causes & Fix](/posts/danfoss-fc302-alarm-16-fault-code/)
-- [Danfoss FC302 ALARM 24 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-24-fault-code/)
-- [Danfoss FC302 ALARM 37 - Causes & Fix](/posts/danfoss-fc302-alarm-37-fault-code/)
-- [Danfoss FC302 Alarm 17 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-17-fault-code/)

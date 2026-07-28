@@ -14,8 +14,7 @@ money_part: "GA800 Control Board Assembly"
 most_likely_cause: "Unrecognized or custom alarm code"
 ---
 
-## Yaskawa GA800 E40 Fault — What It Means
-
+## What this code means
 An E40 fault code does not appear in the verified Yaskawa GA800 service manuals or troubleshooting documentation. Yaskawa drives use specific alarm and fault numbering systems, and codes beginning with E may indicate a display-related alarm or an issue with an option card rather than a standard drive fault class. The exact meaning depends on your drive's configuration, installed options, and firmware version.
 
 Because E40 is not a manufacturer-documented code for the GA800 series, you must confirm the exact alphanumeric string shown on the operator display or keypad. Record your drive's full model number, specification code, serial number, and any installed communication or I/O option cards before attempting diagnosis. Yaskawa technical support requires this information to identify non-standard codes.
@@ -23,8 +22,6 @@ Because E40 is not a manufacturer-documented code for the GA800 series, you must
 ## Before You Replace Anything
 
 Technicians sometimes replace the main control board when the real problem is a loose connector on an option card or a corrupted parameter setting. Before ordering parts, power down the drive, reseat all option cards and ribbon cables, then restore factory defaults and check if the code clears.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -34,22 +31,6 @@ Technicians sometimes replace the main control board when the real problem is a 
 - **Parameter corruption or incompatible firmware** Drive parameters can become corrupted during power loss or after a firmware update that does not match your hardware revision.
 - **Wiring error in external control circuit** Miswired start/stop signals, speed references, or interlock circuits can cause the drive to report alarms that do not match standard fault lists.
 - **Cooling fan failure or control power supply issue** Loss of cooling or low control voltage can produce atypical fault codes as the drive attempts to protect itself before shutdown.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Does the drive display change when you power-cycle it, or does E40 reappear immediately?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The fault is latched or stored in memory. Write down the exact code and any secondary information on the display, then attempt a parameter reset to factory defaults. If E40 persists after reset, the issue is hardware-related.<br><strong>No:</strong> The fault may be intermittent or triggered by a specific operating condition. Monitor the drive during startup and under load, and note when E40 appears. Check all external control wiring and interlock circuits for loose connections.</div>
-</details>
-
-<details class="dtree"><summary>Are there any option cards or communication modules installed in the drive?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Power down and remove each option card one at a time, then restart the drive. If E40 clears after removing a specific card, that card is either failed, incompatible, or improperly configured. Reseat the card and verify parameter settings for that option.<br><strong>No:</strong> The issue is most likely in the main control board, wiring, or parameter configuration. Proceed to inspect all wiring terminals and control power supply voltages before contacting Yaskawa support with your drive model and serial number.</div>
-</details>
-
-<details class="dtree"><summary>Does the drive run normally and only show E40 as a warning, or does it refuse to start?</summary>
-<div class="dtree-body"><strong>Yes:</strong> E40 may be a non-critical alarm or advisory message. Consult the elementary wiring diagram for your system to identify which external device or signal is triggering the alarm. The drive may run with the alarm present if it is not a trip-level fault.<br><strong>No:</strong> The drive is in a fault lockout state. This indicates a more serious hardware or configuration problem. Do not attempt to force a start. Verify control power supply voltage, check for damaged components on the control board, and prepare to contact Yaskawa technical support.</div>
-</details>
 
 ## Step-by-Step Fix {#fix}
 
@@ -72,12 +53,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a qualified Yaskawa-authorized technician or contact Yaskawa technical support directly if E40 persists after you have verified all wiring, reseated option cards, and restored factory parameters. Non-standard fault codes often require access to proprietary diagnostic software, detailed knowledge of your system's elementary diagram, and the ability to safely measure high-voltage DC bus and control circuit voltages. Because the GA800 can be configured with many optional communication protocols and I/O expansions, troubleshooting an undocumented code without manufacturer guidance risks damaging the drive or connected equipment. Professional support is also necessary if you suspect the main control board has failed, as replacement requires careful handling of static-sensitive components and transfer of configuration data.
-
-**Rough cost:** A pro service call runs about $200–500 depending on whether the issue is wiring, an option card, or the control board.
-
-## See Also
-
-- [Yaskawa GA800 E31 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e31-fault-code/)
-- [Yaskawa A1000 CPF01 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf01-fault-code/)
-- [Yaskawa GA800 Fault 030 - Causes & Fix](/posts/yaskawa-ga800-vfd-f030-fault-code/)
-- [Yaskawa GA800 E02 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e02-fault-code/)

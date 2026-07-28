@@ -17,8 +17,7 @@ money_part: "Whirlpool oven temperature sensor (RTD)"
 part_price: "$20-60"
 ---
 
-## Whirlpool Range F4 Error Code — What It Means
-
+## What this code means
 On Whirlpool ranges, the F4 error code indicates the electronic control has detected a problem with the oven temperature-sensing circuit. In most model families this means the oven temperature sensor (also called an RTD) is reading out of range, shorted, or open. Some Whirlpool models group F04 under a broader Electronic Oven Control or wiring fault, so the exact meaning can vary by model number.
 
 Because the code can point to the sensor itself, the wiring harness between sensor and control, or the control board, you need to test the circuit systematically. A power reset will clear transient faults caused by electrical noise. If the code returns, you measure the sensor resistance and trace the circuit from the sensor back to the board to find the failed component.
@@ -26,8 +25,6 @@ Because the code can point to the sensor itself, the wiring harness between sens
 ## Before You Replace Anything
 
 Many people replace the expensive electronic control board first. Always measure the sensor resistance (should read about 1,080 Ω at room temperature) and inspect the wiring harness before spending money on a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

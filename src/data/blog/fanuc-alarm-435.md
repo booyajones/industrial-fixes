@@ -13,11 +13,8 @@ money_part: "Y-axis encoder cable"
 most_likely_cause: "axis mechanical binding"
 ---
 
-## Fanuc Alarm 435 — What It Means
-
+## What this code means
 Fanuc Alarm 435 indicates a servo following error on the Y-axis — the difference between the commanded position and the actual encoder feedback position exceeded the allowable tolerance during movement. Like Alarm 414 (X-axis) and 436 (Z-axis), this is a servo system alarm that indicates the Y-axis cannot keep up with the commanded motion profile.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Fanuc Alarm 435 indicates a servo following error on the Y-axis — the differen
 ## When to Call a Pro
 
 Guideway and ballscrew repair requires precision measurement and Fanuc-trained service to restore machine accuracy after any mechanical work.
-
-## Related Articles
-
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
-- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
-- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
-
-## See Also
-
-- [Fanuc Alarm 700 Spindle Overheat — Detailed Fix Guide](/posts/fanuc-alarm-700-spindle/)
-- [Fanuc Alarm 506 — Servo Following Error Fix](/posts/fanuc-alarm-506/)
-- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
-- [Fanuc Alarm 300 — APC Alarm Fix (Absolute Encoder)](/posts/fanuc-alarm-300/)

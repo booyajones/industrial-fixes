@@ -19,8 +19,6 @@ When your LG microwave buttons stop responding, the keypad is not registering in
 
 LG documents this as a control panel unresponsive condition. The Start button may be locked out by Child Lock, or the entire keypad may be dead due to a power glitch, moisture intrusion, or a hardware failure in the touchpad or control board.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Child Lock is active** LG lists this as the first and most common cause for a non-responding keypad or Start button.
@@ -54,26 +52,19 @@ LG documents this as a control panel unresponsive condition. The Start button ma
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Lg Microwave Door error code](/posts/lg-microwave-door-error-code/)
-- [Lg Microwave E10 error code](/posts/lg-microwave-e10-error-code/)
-- [Lg Microwave F 11 error code](/posts/lg-microwave-f-11-error-code/)
-- [Lg Microwave F 2 error code](/posts/lg-microwave-f-2-error-code/)
-- [Lg Microwave F 3 error code](/posts/lg-microwave-f-3-error-code/)
-- [Lg Microwave F 5 error code](/posts/lg-microwave-f-5-error-code/)
-- [Lg Microwave F1 error code](/posts/lg-microwave-f1-error-code/)
-- [Lg Microwave F11 error code](/posts/lg-microwave-f11-error-code/)
-- [Lg Microwave F13 error code](/posts/lg-microwave-f13-error-code/)
+- Lg Microwave Door error code
+- Lg Microwave E10 error code
+- Lg Microwave F 11 error code
+- Lg Microwave F 2 error code
+- Lg Microwave F 3 error code
+- Lg Microwave F 5 error code
+- Lg Microwave F1 error code
+- Lg Microwave F11 error code
+- Lg Microwave F13 error code
 - [Lg Microwave F16 error code](/posts/lg-microwave-f16-error-code/)
-- [Lg Microwave F17 error code](/posts/lg-microwave-f17-error-code/)
-- [Lg Microwave F2 error code](/posts/lg-microwave-f2-error-code/)
+- Lg Microwave F17 error code
+- Lg Microwave F2 error code
 
 ## When to Call a Pro
 
 If the Child Lock and power reset steps do not restore your keypad and you are not comfortable removing the control panel or working with ribbon connectors, call a qualified appliance technician. LG's official guidance is that an unresponsive control panel after these basic steps requires service. If you have already replaced the touchpad and the problem persists, a technician can test the control board signal path and determine whether board replacement is needed.
-
-## See Also
-
-- [LG Mini-Split CH38 Error Code — Causes & Fix](/posts/lg-mini-split-ch38-error-code/)
-- [LG Range F4 Error Code - Causes & Fix](/posts/lg-range-f4-error-code/)
-- [LG MVEL2033F Microwave Problems & Error Codes](/posts/lg-mvel2033f-microwave-problems/)
-- [LG Dishwasher IE Error Code - Causes & Fix](/posts/lg-dishwasher-ie-error-code/)

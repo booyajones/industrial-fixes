@@ -19,8 +19,6 @@ A Whirlpool dishwasher that won't latch means the door is not mechanically engag
 
 The problem is almost always mechanical: something is stopping the door from closing all the way, the latch hardware is damaged, or the door spring tension is set wrong. Whirlpool's guidance points to spring adjustment, leveling, obstructions in the tub or racks, and damaged latch or strike components as the main reasons the door will not engage properly.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Incorrect door spring tension** Whirlpool says improper spring tension can prevent the door from closing or make it behave incorrectly. Stainless tub models use spring adjustment screws, and plastic tub models have spring ends that move between notches.
@@ -56,15 +54,15 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Whirlpool Dishwasher E1 error code](/posts/whirlpool-dishwasher-e1-error-code/)
 - [Whirlpool Dishwasher E15 error code](/posts/whirlpool-dishwasher-e15-error-code/)
-- [Whirlpool Dishwasher E3 error code](/posts/whirlpool-dishwasher-e3-error-code/)
+- Whirlpool Dishwasher E3 error code
 - [Whirlpool Dishwasher E4 error code](/posts/whirlpool-dishwasher-e4-error-code/)
 - [Whirlpool Dishwasher E6 error code](/posts/whirlpool-dishwasher-e6-error-code/)
-- [Whirlpool Dishwasher E7 error code](/posts/whirlpool-dishwasher-e7-error-code/)
+- Whirlpool Dishwasher E7 error code
 - [Whirlpool Dishwasher F10E5 error code](/posts/whirlpool-dishwasher-f10e5-error-code/)
 - [Whirlpool Dishwasher F1E1 error code](/posts/whirlpool-dishwasher-f1e1-error-code/)
 - [Whirlpool Dishwasher F2E2 error code](/posts/whirlpool-dishwasher-f2e2-error-code/)
 - [Whirlpool Dishwasher F3E1 error code](/posts/whirlpool-dishwasher-f3e1-error-code/)
-- [Whirlpool Dishwasher F3E2 error code](/posts/whirlpool-dishwasher-f3e2-error-code/)
+- Whirlpool Dishwasher F3E2 error code
 - [Whirlpool Dishwasher F4E3 error code](/posts/whirlpool-dishwasher-f4e3-error-code/)
 
 ## When to Call a Pro

@@ -13,11 +13,8 @@ money_part: "Inverter PCB (outdoor unit board)"
 most_likely_cause: "High supply voltage"
 ---
 
-## Mitsubishi U2 Error Code — What It Means
-
+## What this code means
 The Mitsubishi U2 error code indicates an **overcurrent or abnormal high voltage** condition detected at the outdoor unit. The outdoor unit's inverter board monitors the DC bus voltage and compressor current; if either exceeds safe operating limits, U2 trips to protect the compressor and inverter components. This can occur due to power supply problems (high or unstable voltage), a failing compressor drawing excessive current, or a fault in the inverter circuit itself.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ The Mitsubishi U2 error code indicates an **overcurrent or abnormal high voltage
 ## When to Call a Pro
 
 U2 involving compressor issues requires refrigerant system handling. Compressor replacement requires EPA 608 certification and specialized equipment. If the board is the suspect, Mitsubishi inverter PCBs are expensive — confirm with a certified technician before ordering.
-
-## Related Articles
-
-- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
-- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
-- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
-- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
-- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
-
-## See Also
-
-- [Mitsubishi U6 Error Code — Causes & Fix](/posts/mitsubishi-u6-error-code/)
-- [Mitsubishi Mini Split P1 Error Code Fix](/posts/mitsubishi-p1-error-code/)
-- [Mitsubishi Mini Split U4 Error Code — Causes & Fix](/posts/mitsubishi-mini-split-u4-error-code/)
-- [Mitsubishi FR-D700 VFD Fault Codes — Complete Diagnostic Reference](/posts/mitsubishi-fr-d700-fault-codes/)

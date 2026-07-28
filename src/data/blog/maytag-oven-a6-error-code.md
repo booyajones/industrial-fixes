@@ -16,15 +16,12 @@ diy_or_pro: "diy"
 money_part: "Maytag Oven Control Board (ERC)"
 ---
 
-## Maytag Oven A6 Error Code — What It Means
-
+## What this code means
 A6 is not a published Maytag oven fault code in the manufacturer's official error-code documentation. The exact meaning depends on your specific model and display logic. The code may be a misread character (such as F6, PF, or 5A6), a model-specific message, or a special operating mode rather than a fault. Some Maytag ranges display 5A6 to indicate Sabbath mode, but this is not universal. Because A6 does not appear in Maytag's standard cooking-appliance error lists, you must verify the full model and serial number from the data label and consult the owner's manual or technical sheet for that exact platform. A power reset is the first recommended step for any unexplained display message on Maytag ovens.
 
 ## Before You Replace Anything
 
 Many owners replace the electronic control board when the display is actually showing a mode message or a character misread. Perform a full power reset and check the owner's manual for mode indicators before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

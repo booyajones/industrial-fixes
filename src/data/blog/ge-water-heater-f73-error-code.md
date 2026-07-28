@@ -20,13 +20,10 @@ free_checks:
 no_buy_pct: "85%"
 ---
 
-## GE Water Heater F73 Error — What It Means
-
+## What this code means
 On GE Profile GEOSPRING hybrid heat pump water heaters, the F73 code indicates the condensate drain pan port is clogged. These hybrid units produce condensate during normal operation, and when the drain path becomes blocked the unit throws this fault to prevent overflow or damage. Note that fault codes are model-specific across the GE water heater lineup, so F73 applies specifically to the GEOSPRING family and may not appear on standard electric or gas GE water heaters.
 
 The code tells you that water cannot drain freely from the condensate pan. The blockage may be debris, mineral buildup, or algae growth in the drain port or drain line. GE's official guidance is to clean the condensate drain obstruction. If the code returns after cleaning, the unit likely needs professional service.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Dryer F4 E4 Error Code — What It Means
-
+## What this code means
 F4 E4 is a power-supply fault on your Amana dryer. It tells you the control detects low or no line voltage on the dryer's electrical supply. Electric dryers need two hot legs to deliver a full 240 V circuit. When one leg is missing or the supply drops too low, the heater cannot turn on correctly even though the drum may still spin on 120 V. The control throws F4 E4 to warn you the home power supply is incomplete or unstable.
 
 This code does not point to an airflow restriction, moisture sensor, or heating-element problem. It is strictly about the incoming voltage from your house panel or outlet. Most of the time the real trouble is outside the dryer itself: a tripped breaker, a blown fuse on one leg of the circuit, a loose or improperly installed power cord, or a problem in the house wiring or receptacle.
@@ -26,31 +25,13 @@ This code does not point to an airflow restriction, moisture sensor, or heating-
 
 Some people replace the main electronic control or heating element first, but F4 E4 is almost always a supply-power issue. Always verify you have 240 V at the outlet and both breakers are on before ordering any internal parts.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **One tripped breaker or blown fuse (~50%)** Electric dryers use two breakers or two fuses in the panel, and if only one opens the dryer may spin but the heater will not work and F4 E4 appears.
-- **Missing one hot leg of 240 V (~25%)** A loose connection in the house panel, outlet, or breaker can drop one side of the supply and prevent the dryer from seeing full voltage.
-- **Improper power-cord installation (~15%)** If the cord was recently replaced or moved, reversed wires or loose terminals at the dryer terminal block can interrupt the supply.
-- **Loose or corroded terminal-block connections (~7%)** Vibration and heat can loosen the screws on the terminal block over time, creating high resistance and voltage drop.
-- **Failed main electronic control (~3%)** If the house supply is confirmed good at 240 V and all connections are tight, a relay fault or damaged control board can still report F4 E4.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Are both breakers for the dryer in the ON position (or both fuses intact)?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The panel supply is probably complete. Move on to check the outlet voltage and cord connections at the dryer.<br><strong>No:</strong> Reset both breakers or replace both fuses, then clear the code and test a heated cycle. If it runs without error, you are done.</div>
-</details>
-
-<details class="dtree"><summary>Does the dryer drum spin and the lights come on, but no heat?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Classic symptom of one missing hot leg. The dryer runs on 120 V for motor and lights, but the heater needs 240 V. Check for a tripped breaker or loose wire.<br><strong>No:</strong> If nothing powers on at all, you likely have a complete loss of power. Check the outlet, breakers, and cord for damage or disconnection.</div>
-</details>
-
-<details class="dtree"><summary>Did you recently install or replace the power cord?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Double-check the terminal-block wiring against your model's diagram. Reversed or loose connections are a common mistake during cord swaps.<br><strong>No:</strong> Focus on the house supply and outlet. Measure voltage at the receptacle or have an electrician verify both hot legs are present.</div>
-</details>
+- **One tripped breaker or blown fuse** Electric dryers use two breakers or two fuses in the panel, and if only one opens the dryer may spin but the heater will not work and F4 E4 appears.
+- **Missing one hot leg of 240 V** A loose connection in the house panel, outlet, or breaker can drop one side of the supply and prevent the dryer from seeing full voltage.
+- **Improper power-cord installation** If the cord was recently replaced or moved, reversed wires or loose terminals at the dryer terminal block can interrupt the supply.
+- **Loose or corroded terminal-block connections** Vibration and heat can loosen the screws on the terminal block over time, creating high resistance and voltage drop.
+- **Failed main electronic control** If the house supply is confirmed good at 240 V and all connections are tight, a relay fault or damaged control board can still report F4 E4.
 
 ## Step-by-Step Fix {#fix}
 
@@ -73,5 +54,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a professional if you are not comfortable working inside your home electrical panel, if you cannot safely measure voltage at the dryer outlet, or if you find signs of burnt or melted wiring inside the dryer. An electrician should handle any house-wiring repairs, loose connections in the breaker panel, or outlet replacement. An appliance technician is the right choice if the house supply is confirmed good and you suspect a failed main control board or internal harness damage. High-voltage work on a 240 V circuit carries real shock hazards, so if you have any doubt about your ability to diagnose or repair safely, get help.
-
-**Rough cost:** DIY runs about $0–50 in parts if a cord or breaker needs replacement, 15–45 min. A pro service call runs about $100–250 for a service call and wiring or control repair.

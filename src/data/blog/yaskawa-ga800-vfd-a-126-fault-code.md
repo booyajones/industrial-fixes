@@ -14,8 +14,7 @@ most_likely_cause: "Misread or transient display code"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa GA800 VFD A.126 Fault — What It Means
-
+## What this code means
 The A.126 fault code does not appear in verified Yaskawa GA800 documentation as a standard alarm or fault identifier. GA800 drives typically display short alphanumeric codes on the keypad, and this particular code is not confirmed in manufacturer literature. The most likely explanations are a misread keypad display, a documentation or typing error, or a code from a different drive family or option card that does not map to the GA800's published alarm list.
 
 Because the code itself is unverified, the correct next step is to confirm the exact code displayed on the keypad before the drive was powered off, check the drive's fault history using DriveWizard Industrial software if available, and consult the GA800 instruction manual or contact Yaskawa technical support with your full drive model number and the exact displayed characters. General troubleshooting for unrecognized or intermittent codes includes inspecting option cards, control wiring, and communication cables for loose connections or damage.
@@ -23,8 +22,6 @@ Because the code itself is unverified, the correct next step is to confirm the e
 ## Before You Replace Anything
 
 Technicians sometimes replace the main control board when the fault is actually caused by a poorly seated or damaged option card. Always de-energize the drive, reseat all option cards firmly, and verify wiring before ordering expensive control electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa-authorized service provider if the exact meaning of A.126 cannot be confirmed in your manual, if the fault persists after reseating option cards and checking wiring, or if you are not trained to work safely on high-voltage industrial equipment. High-voltage VFDs require proper lockout/tagout procedures, knowledge of DC bus discharge times, and diagnostic tools such as DriveWizard Industrial software. Attempting repairs without this training can result in electric shock, equipment damage, or incorrect diagnosis that leads to unnecessary part replacement. A qualified technician can retrieve detailed fault logs, verify parameter settings, and coordinate with Yaskawa support to identify non-standard codes or firmware-specific issues.
 
 **Rough cost:** A pro service call runs about $150-400 depending on diagnosis and travel.
-
-## See Also
-
-- [Yaskawa GA800 A.112 Alarm - Causes & Fix](/posts/yaskawa-ga800-vfd-a-112-fault-code/)
-- [Yaskawa GA800 E57 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e57-fault-code/)
-- [Yaskawa GA800 E87 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e87-fault-code/)
-- [Yaskawa GA800 A.107 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-107-fault-code/)

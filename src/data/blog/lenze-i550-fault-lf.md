@@ -13,11 +13,8 @@ money_part: "Semiconductor input fuses"
 most_likely_cause: "Blown input fuse on one phase"
 ---
 
-## Lenze i550 Fault LF — What It Means
-
+## What this code means
 Fault LF (Line Failure / Phase Loss) on a Lenze i550 drive means the drive has detected that one or more phases of the incoming supply are missing or severely unbalanced. The Lenze i550 is Lenze's compact, application-optimized inverter for pumps, fans, and conveyor applications. LF fires when the monitored input phase voltages deviate beyond the acceptable imbalance threshold. Operating on a single-phase supply (even briefly) forces the drive to rectify on only two legs, causing abnormal DC bus ripple that stresses the capacitors and power bridge.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,11 +41,3 @@ Fault LF (Line Failure / Phase Loss) on a Lenze i550 drive means the drive has d
 ## When to Call a Pro
 
 All input phase fault diagnosis involves live three-phase voltages. Only qualified electricians wearing appropriate PPE should perform live voltage measurements. If the LF fault points to a utility supply problem, the utility company must be notified — do not attempt to bypass or ignore the fault.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

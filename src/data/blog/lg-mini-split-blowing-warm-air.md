@@ -19,8 +19,6 @@ When your LG mini split blows warm air instead of cooling, you are seeing a symp
 
 If no code is displayed, the problem is usually operational or mechanical. The remote may be set to the wrong mode, the filter or coil may be clogged, or the outdoor unit may not be communicating with the indoor head. In heating mode, the system may also pause warm air delivery temporarily during a defrost cycle, which LG lists as normal operation.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Incorrect mode or setpoint** The remote is in fan-only, auto, or heat mode, or the target temperature is set higher than room temperature, so the system never calls for cooling.
@@ -52,26 +50,19 @@ If no code is displayed, the problem is usually operational or mechanical. The r
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Lg Mini Split Ch 05 error code](/posts/lg-mini-split-ch-05-error-code/)
-- [Lg Mini Split Ch 26 error code](/posts/lg-mini-split-ch-26-error-code/)
-- [Lg Mini Split Ch 38 error code](/posts/lg-mini-split-ch-38-error-code/)
-- [Lg Mini Split Ch01 error code](/posts/lg-mini-split-ch01-error-code/)
-- [Lg Mini Split Ch02 error code](/posts/lg-mini-split-ch02-error-code/)
-- [Lg Mini Split Ch03 error code](/posts/lg-mini-split-ch03-error-code/)
-- [Lg Mini Split Ch04 error code](/posts/lg-mini-split-ch04-error-code/)
-- [Lg Mini Split Ch05 error code](/posts/lg-mini-split-ch05-error-code/)
-- [Lg Mini Split Ch06 error code](/posts/lg-mini-split-ch06-error-code/)
-- [Lg Mini Split Ch07 error code](/posts/lg-mini-split-ch07-error-code/)
-- [Lg Mini Split Ch09 error code](/posts/lg-mini-split-ch09-error-code/)
-- [Lg Mini Split Ch10 error code](/posts/lg-mini-split-ch10-error-code/)
+- Lg Mini Split Ch 05 error code
+- Lg Mini Split Ch 26 error code
+- Lg Mini Split Ch 38 error code
+- Lg Mini Split Ch01 error code
+- Lg Mini Split Ch02 error code
+- Lg Mini Split Ch03 error code
+- Lg Mini Split Ch04 error code
+- Lg Mini Split Ch05 error code
+- Lg Mini Split Ch06 error code
+- Lg Mini Split Ch07 error code
+- Lg Mini Split Ch09 error code
+- Lg Mini Split Ch10 error code
 
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the unit displays code CH38, F4, or any communication fault (CH05, E0, CH53, CH66), or if cleaning the filter and coil does not restore cooling. Refrigerant leak detection, pressure testing, and refrigerant charging require EPA certification and specialized tools. A professional will also diagnose compressor, reversing valve, or electronic control board failures that can mimic warm-air symptoms without triggering a code.
-
-## See Also
-
-- [LG Washer Won't Spin - Causes & Fix](/posts/lg-washer-wont-spin/)
-- [LG Mini Split CH44 Error Code - Causes & Fix](/posts/lg-mini-split-ch44-error-code/)
-- [LG Oven F2 Error Code - Causes & Fix](/posts/lg-oven-f2-error-code/)
-- [LG Mini Split CH02 Error Code — Causes & Fix](/posts/lg-mini-split-ch02-error-code/)

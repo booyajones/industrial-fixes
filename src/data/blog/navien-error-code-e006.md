@@ -13,11 +13,8 @@ money_part: "Exhaust thermistor"
 most_likely_cause: "Blocked or restricted flue/exhaust pipe"
 ---
 
-## Navien E006 Error Code — What It Means
-
+## What this code means
 E006 on a Navien tankless water heater or combi-boiler indicates the exhaust (flue) high-limit sensor detected temperatures above the safe threshold. The exhaust thermistor monitors flue gas temperature leaving the heat exchanger; if it reads above approximately 149°C (300°F), the unit shuts down to prevent damage to the PVC venting, the heat exchanger, or surrounding combustibles.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ E006 on a Navien tankless water heater or combi-boiler indicates the exhaust (fl
 ## When to Call a Pro
 
 Gas pressure adjustment and heat exchanger descaling with chemical descalers should be performed by a licensed plumber or HVAC technician. Do not operate the unit with a confirmed blocked flue.
-
-## Related Articles
-
-- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
-- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)
-- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
-- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
-- [Navien Error Code E007 — Causes & Fix](/posts/navien-error-code-e007/)
-
-## See Also
-
-- [Navien Error Code E012 — Flame Loss During Operation Fix](/posts/navien-error-code-e012/)
-- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
-- [Navien E302 Error Code — Causes & Fix](/posts/navien-error-code-e302/)
-- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)

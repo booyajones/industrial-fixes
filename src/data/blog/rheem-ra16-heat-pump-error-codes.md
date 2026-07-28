@@ -22,8 +22,6 @@ Fault codes are displayed via LED flash sequences on the **outdoor unit control 
 
 When paired with a Rheem EcoNet thermostat or communicating air handler, faults also appear as alphanumeric codes on the thermostat display.
 
-[Jump to Fix](#step-by-step-fix)
-
 ### RA16 LED Flash Code Reference
 
 | Flash Sequence | Fault | Action |
@@ -112,19 +110,3 @@ This is normal protection, not a true fault. After compressor shutdown, the boar
 - Persistent E1/communication faults after wire inspection — may indicate a failed outdoor control board or air handler board.
 
 > **Field tip:** If you're getting a 2-flash (high pressure) fault only on hot days (above 95°F ambient), and the coil is clean, suspect a refrigerant overcharge. Overcharged systems spike head pressure at high ambient. A technician should recover and recharge to factory spec (weigh-in method, not pressure method).
-
-## See Also
-
-- [Rheem RA13 Air Conditioner Error Codes — Fault Code Guide](/posts/rheem-ra13-error-codes/)
-- [Rheem Furnace Error Codes — Complete Reference](/posts/rheem-furnace-error-codes/)
-- [Rheem Furnace 3 Flashes — Pressure Switch Fault Fix](/posts/rheem-furnace-3-flashes/)
-- [Rheem Furnace 4 Flashes — Open Limit Switch Diagnosis](/posts/rheem-furnace-4-flashes/)
-- [Heat Pump Error Code Guide — All Brands](/posts/heat-pump-error-code-guide/)
-
-## Related Articles
-
-- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
-- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
-- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)
-- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
-- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)

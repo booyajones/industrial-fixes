@@ -13,13 +13,10 @@ money_part: "ECO thermal cut-off switch"
 most_likely_cause: "Restricted water flow through the unit"
 ---
 
-## Ruud E03 Error Code — What It Means
-
+## What this code means
 The E03 (or E3) code on Ruud tankless water heaters signals an overheat or high-temperature safety shutdown. The unit has detected a condition where the heat exchanger or outlet water temperature exceeded safe limits, and the ECO (Emergency Cut-Off) or thermal cut-off circuit has tripped to protect the equipment. The heater will not restart until the fault is cleared and the underlying cause is corrected.
 
 This is a safety interlock, not a nuisance alarm. The most common triggers are restricted water flow through the heat exchanger (which prevents adequate cooling), scale or mineral deposits inside the coils that interfere with heat transfer, and occasionally a failed temperature sensor that falsely reports an overheat condition.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

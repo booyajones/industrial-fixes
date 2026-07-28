@@ -20,8 +20,6 @@ A Rheem furnace blower that won't shut off means the system is receiving a conti
 
 If the blower runs continuously in heat, cool, or with the thermostat set to Auto, the furnace is being told to keep the fan on or the fan-control component is stuck closed. If the blower continues after the thermostat is removed or disconnected, the issue is more likely in the furnace control wiring, control board, fan relay, fan limit control, or ECM module rather than the thermostat itself.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Thermostat fan switch set to ON** The fan switch is in the ON position instead of AUTO, which intentionally runs the blower continuously.
@@ -63,10 +61,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a technician if you've confirmed the thermostat fan switch is in AUTO, disconnecting the thermostat does not stop the blower, or you are not comfortable working with 115-volt furnace control circuits. Control board diagnostics, ECM motor isolation, and fan limit control replacement require meter testing and access to the blower compartment. Any work involving gas burners, ignition, or internal furnace wiring should be handled by a qualified HVAC technician. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rheem Water Heater High-Limit Switch / ECO Replacement Guide](/posts/rheem-water-heater-high-limit-switch-eco-electric-reset-upper-thermostat-replacement/)
-- [Rheem Water Heater No Ignition - Causes & Fix](/posts/rheem-water-heater-no-ignition/)
-- [Rheem Water Heater Not Enough Hot Water - Causes & Fix](/posts/rheem-water-heater-not-enough-hot-water/)
-- [Rheem XE50T10HS45U1 Problems & Error Codes](/posts/rheem-xe50t10hs45u1-water-heater-problems/)

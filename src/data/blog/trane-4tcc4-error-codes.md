@@ -16,8 +16,6 @@ money_part: "Indoor ambient thermistor"
 
 The Trane 4TCC4 series is Trane's single-zone ductless mini-split indoor unit, typically paired with 4TXK4 or 4TXK6 outdoor units. These units display fault codes on the front panel LED when the control system detects an abnormal condition. The 4TCC4 platform is part of Trane's ductless product line (developed in partnership with Mitsubishi's OEM manufacturing partners) and uses alphanumeric codes that align broadly with Trane's comfort system diagnostic standard.
 
-[Jump to Fix](#fix)
-
 ## Common Error Codes and Causes
 
 - **E1 — Communication Fault** — Indoor and outdoor units have lost communication on the S-wire. Most often a loose terminal or a damaged wire in the line set bundle.
@@ -49,18 +47,3 @@ The Trane 4TCC4 series is Trane's single-zone ductless mini-split indoor unit, t
 ## When to Call a Pro
 
 P0 refrigerant codes require gauge sets and EPA 608 certification. H6 and P5 motor replacements are straightforward but require a comfort with ductless system wiring — call a Trane-authorized technician if unsure.
-
-## Related Articles
-
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-
-## See Also
-
-- [Trane ComfortLink II Error Codes — Common Faults and Fixes](/posts/trane-comfortlink-ii-error-codes/)
-- [Trane XV15i Heat Pump Error Codes: Complete Variable-Speed Fault Guide](/posts/trane-xv15i-error-codes/)
-- [Trane XL18i Heat Pump Error Codes: Flash Codes and ComfortLink II Faults](/posts/trane-xl18i-error-codes/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)

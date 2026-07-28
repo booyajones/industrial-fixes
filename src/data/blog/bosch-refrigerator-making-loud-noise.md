@@ -19,8 +19,6 @@ Bosch refrigerators do not display a specific error code for loud noise. Instead
 
 Some noise is normal. A low hum from refrigerant circulating, hissing as it flows through coils, or gurgling when liquid returns to the compressor are all part of regular operation. Excessive or new loud noise means a component needs attention.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Refrigerator not level** An unlevel unit causes the compressor to vibrate against the cabinet or internal fans to wobble, creating loud rattling or vibrating sounds (most common cause per Bosch).
@@ -53,12 +51,12 @@ Some noise is normal. A low hum from refrigerant circulating, hissing as it flow
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Bosch Refrigerator E01 error code](/posts/bosch-refrigerator-e01-error-code/)
+- Bosch Refrigerator E01 error code
 - [Bosch Refrigerator E02 error code](/posts/bosch-refrigerator-e02-error-code/)
-- [Bosch Refrigerator E03 error code](/posts/bosch-refrigerator-e03-error-code/)
-- [Bosch Refrigerator E10 error code](/posts/bosch-refrigerator-e10-error-code/)
-- [Bosch Refrigerator E11 error code](/posts/bosch-refrigerator-e11-error-code/)
-- [Bosch Refrigerator E15 error code](/posts/bosch-refrigerator-e15-error-code/)
+- Bosch Refrigerator E03 error code
+- Bosch Refrigerator E10 error code
+- Bosch Refrigerator E11 error code
+- Bosch Refrigerator E15 error code
 - [Bosch Refrigerator E20 error code](/posts/bosch-refrigerator-e20-error-code/)
 - [Bosch Refrigerator E21 error code](/posts/bosch-refrigerator-e21-error-code/)
 

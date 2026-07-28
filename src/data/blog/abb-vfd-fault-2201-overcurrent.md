@@ -61,18 +61,3 @@ Fault 2201 is nearly always caused by something external to the drive — the mo
 If fault 2201 appears during steady-state operation (not during acceleration) and the motor megger test is clean, the fault may originate from a load transient — a conveyor jam, pump cavitation, or compressor valve failure. These transient events require a power quality recorder or scope to catch in the act. An ABB-certified drive technician can set up the drive's built-in data logging (Fault Logger with pre-fault capture on ACS550 firmware versions that support it) to capture the waveform at the moment of trip. This data often pinpoints the exact cause within one site visit.
 
 > **Pro tip:** ABB ACS550 drives log the output current at the time of each fault in the fault history. If your 2201 faults consistently show output current at exactly 150% of motor FLA, someone set the overcurrent threshold too low. If they show 300%+ of FLA, the motor is seeing true overcurrent from a mechanical or insulation event. The number in the fault log tells you which direction to troubleshoot.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-
-## See Also
-
-- [ABB VFD Fault Codes — ACS550, ACS880, ACS310 Reference](/posts/abb-vfd-fault-codes/)
-- [ABB ACS880 Fault 3130 — Input Phase Loss Causes & Fix](/posts/abb-acs880-fault-3130/)
-- [ABB VFD Fault 0001 Overcurrent — Causes & Fix](/posts/abb-vfd-fault-0001-overcurrent/)
-- [ABB VFD Fault 9300 — Causes & Fix](/posts/abb-vfd-fault-9300/)

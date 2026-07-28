@@ -19,8 +19,7 @@ free_checks:
 no_buy_pct: "40%"
 ---
 
-## Manitowoc E22 Error Code — What It Means
-
+## What this code means
 The E22 error code on a Manitowoc ice machine signals a T2 Fault. The control board has detected an invalid reading from the T2 temperature sensor, also called the T2 thermistor. This sensor monitors the evaporator plate temperature or the water and ice temperature near the bridge thickness probe. When the sensor fails or sends bad data, the board cannot regulate the freeze and harvest cycle accurately and locks out the machine.
 
 The fault typically stems from the sensor itself failing internally, heavy mineral buildup insulating the sensor, or corroded and loose wiring at the connector. Because the T2 sensor is key to safe ice production, the machine will not resume operation until the fault is cleared and the sensor reads within spec.
@@ -28,8 +27,6 @@ The fault typically stems from the sensor itself failing internally, heavy miner
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board first, but measuring the T2 sensor resistance with an ohmmeter will quickly reveal whether the sensor itself is open or shorted and save the cost of a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified commercial refrigeration technician for the E22 code. The repair requires familiarity with Manitowoc control boards, accurate ohmmeter testing, and the correct nickel-safe cleaning chemicals. A technician will diagnose whether the fault is due to scale, a failed sensor, or a wiring problem and will have access to the manufacturer's resistance tables for your specific model. If the fault returns after sensor replacement, the technician can trace the wiring harness for intermittent breaks or inspect the control board for deeper issues. Because the ice machine is a commercial food-service appliance, proper repair protects your warranty and keeps the unit code-compliant.
 
 **Rough cost:** A pro service call runs about $150-300.
-
-## See Also
-
-- [Manitowoc E07 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e07-error-code/)
-- [Manitowoc Indigo NXT Error Code 8 - What It Means and How to Fix It](/posts/manitowoc-indigo-nxt-error-code-8/)
-- [Manitowoc E09 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e09-error-code/)
-- [Manitowoc E33 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e33-error-code/)

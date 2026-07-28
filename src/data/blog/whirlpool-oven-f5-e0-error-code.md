@@ -17,8 +17,7 @@ money_part: "Whirlpool oven door switch"
 part_price: "$30-80"
 ---
 
-## Whirlpool Oven F5 E0 Error Code — What It Means
-
+## What this code means
 F5 E0 on a Whirlpool oven or range indicates a door-latch or door-switch circuit problem. Whirlpool groups all F5-E family codes under door switch defect or door-switch mismatch conditions. The control cannot verify the door position correctly because it sees a door-state mismatch or an implausible latch or switch signal.
 
 The code involves the main oven door latch assembly, the door switch, or the associated wiring and connectors between those components and the control board. On some models a control board or sister board issue may also trigger the fault, but wiring and mechanical latch or switch problems are the primary causes documented by Whirlpool product help and repair guides.
@@ -26,8 +25,6 @@ The code involves the main oven door latch assembly, the door switch, or the ass
 ## Before You Replace Anything
 
 Many people replace the main control board first. Check and replace the door switch and latch assembly before replacing any board, since loose or damaged wiring and mechanical latch failures account for most F5 E0 faults.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -190,9 +190,3 @@ Choose mini-split when: You have no ducts, need zoned control, want the highest 
 Choose central AC when: You have existing ductwork in good condition, want invisible cooling, or need to cool the whole home at the lowest cost. Expect to pay $4,500 to $12,000 installed.
 
 Choose a hybrid when: Central AC handles most of the house and a single mini-split fixes one problem room. This is often the most cost-effective solution for older homes with one or two uncomfortable rooms.
-
-## Related Articles
-
-- [Heat Pump vs. Gas Furnace: Total Cost Comparison and Decision Guide](/posts/heat-pump-vs-gas-furnace-cost/)
-- [AC Compressor Replacement Cost vs. New Unit](/posts/ac-compressor-replacement-cost-guide/)
-- [Best Thermostat Settings for Mini-Split Efficiency](/posts/best-thermostat-settings-mini-split/)

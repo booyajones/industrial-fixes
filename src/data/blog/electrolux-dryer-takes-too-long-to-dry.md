@@ -19,8 +19,6 @@ When your Electrolux dryer takes too long to dry, it means the machine is not ge
 
 This is a symptom, not a fault code. The dryer may complete its cycle without displaying an error, but clothes come out damp or warm instead of fully dry. Diagnosis focuses on inspecting the entire air path from drum to exterior vent, confirming correct electrical supply, and ruling out user settings or environmental conditions before moving to internal component testing.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged lint screen or vent line** Restricted exhaust from a full lint filter, blocked vent duct, crushed or kinked ducting, or obstructed exterior hood is the most commonly cited cause of extended dry times in Electrolux dryers.
@@ -56,8 +54,8 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Electrolux Dryer Ad error code](/posts/electrolux-dryer-ad-error-code/)
 - [Electrolux Dryer E 09 error code](/posts/electrolux-dryer-e-09-error-code/)
-- [Electrolux Dryer E 10 error code](/posts/electrolux-dryer-e-10-error-code/)
-- [Electrolux Dryer E 11 error code](/posts/electrolux-dryer-e-11-error-code/)
+- Electrolux Dryer E 10 error code
+- Electrolux Dryer E 11 error code
 - [Electrolux Dryer E 31 error code](/posts/electrolux-dryer-e-31-error-code/)
 - [Electrolux Dryer E 42 error code](/posts/electrolux-dryer-e-42-error-code/)
 - [Electrolux Dryer E 51 error code](/posts/electrolux-dryer-e-51-error-code/)

@@ -17,8 +17,7 @@ free_checks:
   - "Enter the fault-history menu (per your manual) and write down all stored codes"
 ---
 
-## Weil-McLain A116 Error Code — What It Means
-
+## What this code means
 A116 is not a documented Weil-McLain fault code in available manufacturer materials. The exact meaning depends on your boiler series and control platform. Weil-McLain boilers store fault history and lockout codes in diagnostic menus, and each series (CGa, CGi, AquaBalance, Ultra, and others) uses its own code table. Without the specific model number and control board type, A116 cannot be reliably mapped to a single fault.
 
 Weil-McLain lockouts commonly involve low system pressure, failed thermistors or temperature sensors, low-water cutoff faults, circulator pump problems, gas-valve issues, or ignition and flame-sensing errors. To diagnose any lockout code, enter the boiler's diagnostic menu, pull the fault history, cross-reference the code in your model's service manual, then test the suspected component with a meter before replacing parts.
@@ -26,8 +25,6 @@ Weil-McLain lockouts commonly involve low system pressure, failed thermistors or
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board when the actual fault is a failed thermistor or low-water cutoff sensor. Test sensor resistance and continuity with a multimeter before ordering any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a licensed heating technician whenever you cannot identify your boiler model, cannot access the diagnostic menu, or retrieve a code you cannot cross-reference in your manual. Gas-fired boiler work requires combustion testing, gas-pressure measurement, and venting inspection that only a qualified technician should perform. If you replace a sensor or pump and the lockout recurs, the control board or a second fault may be involved, and further diagnosis with specialized tools is needed to avoid replacing parts by trial and error.
 
 **Rough cost:** A pro service call runs about $150–400.
-
-## See Also
-
-- [Weil-McLain A131 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a131-error-code/)
-- [Weil-McLain A36 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a36-error-code/)
-- [Weil-McLain Boiler A166 Error - Causes & Fix](/posts/weil-mclain-boiler-a166-error-code/)
-- [Weil-McLain Boiler A53 Error - Causes & Fix](/posts/weil-mclain-boiler-a53-error-code/)

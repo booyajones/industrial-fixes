@@ -13,11 +13,8 @@ money_part: "Hot gas solenoid valve"
 most_likely_cause: "Low refrigerant charge"
 ---
 
-## Hoshizaki E6 Error Code — What It Means
-
+## What this code means
 Error code E6 on a Hoshizaki ice machine (KM, KMD, FS, DCM, AM series) indicates a refrigerant circuit fault — the machine completed a freeze cycle but the harvest cycle exceeded the maximum allowed time without the thermistor detecting the expected temperature rise. This typically means the machine is not harvesting ice properly, which points to low refrigerant charge, a defective hot gas valve, or a harvesting system problem.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Error code E6 on a Hoshizaki ice machine (KM, KMD, FS, DCM, AM series) indicates
 ## When to Call a Pro
 
 Refrigerant system diagnosis and repair on commercial ice machines requires EPA 608 certification and commercial refrigeration experience. E6 caused by low charge also requires a leak search — operating with a known leak is illegal under EPA Section 608 regulations.
-
-## Related Articles
-
-- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
-- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)
-- [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
-- [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)
-
-## See Also
-
-- [Hoshizaki Ice Machine E8 Error Code — Causes & Fix](/posts/hoshizaki-e8-error-code/)
-- [Hoshizaki Ice Machine E7 Error Code — High-Side Pressure Switch Fault Fix](/posts/hoshizaki-e7-pressure-switch/)
-- [Hoshizaki KM Series E1 Error Code — Causes & Fix](/posts/hoshizaki-km-series-e1-error/)
-- [Hoshizaki Ice Machine E8 Error Code — Low-Side Pressure Switch Fault Fix](/posts/hoshizaki-e8-low-side-pressure/)

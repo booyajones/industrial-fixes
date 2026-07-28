@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "40%"
 ---
 
-## Danfoss FC302 VFD Alarm 14 — What It Means
-
+## What this code means
 Alarm 14 on a Danfoss FC302 VFD indicates DC Undervoltage. The DC bus voltage has fallen below the minimum threshold (typically below 200V) needed to regulate the motor. This alarm triggers when the input AC power is insufficient, the rectifier is failing, or the load is excessive, causing the DC link to collapse.
 
 Note: There is no documented "AL-140" fault code in Danfoss literature. If you are seeing a code ending in "40" (such as Alarm 38 with code 40), that represents a specific internal logic error and requires different diagnostics. This guide assumes you mean Alarm 14, the DC undervoltage alarm.
@@ -29,8 +28,6 @@ Note: There is no documented "AL-140" fault code in Danfoss literature. If you a
 ## Before You Replace Anything
 
 Technicians often replace the entire power board or inverter assembly before checking input power quality. Measure all three input phases with a voltmeter first. Many Alarm 14 cases are simply loose incoming wiring or utility supply issues that cost nothing to fix.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -81,10 +78,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drive technician if you lack the tools or training to safely measure high-voltage AC input, work inside the VFD cabinet, or test DC bus components. Repairing a VFD involves lethal voltages (even when disconnected, DC link capacitors can hold a charge). A professional will have the proper PPE, isolation tools, and capacitor discharge equipment. If the fault persists after checking input power and you need to open the drive enclosure, hire a pro. Similarly, if motor insulation testing shows a fault below 2 megohms, a motor shop will need to rewind or replace the motor windings.
 
 **Rough cost:** A pro service call runs about $200-800 depending on component replacement.
-
-## See Also
-
-- [Danfoss FC302 AL-92 - Causes & Fix](/posts/danfoss-fc302-vfd-al-92-fault-code/)
-- [Danfoss FC302 Alarm 25 - Causes & Fix](/posts/danfoss-fc302-alarm-25-fault-code/)
-- [Danfoss VFD Fault W30 — Brake Resistor Overtemperature Fix](/posts/danfoss-vfd-fault-w30/)
-- [Danfoss FC302 AL-158 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-158-fault-code/)

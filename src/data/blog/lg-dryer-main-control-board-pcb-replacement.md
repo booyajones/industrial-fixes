@@ -66,10 +66,3 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 Call a tech if you measure anything other than about 240 V between the hot legs at the outlet, if the terminal block shows burn marks or melted insulation, or if you are uncomfortable working inside a 240 V appliance. Wiring errors at the terminal block can create dangerous shorts or fire hazards. A qualified appliance tech will verify supply voltage, test internal relay outputs on the board with the dryer live, and confirm that upstream components like the thermal fuse and high-limit thermostat are not open before replacing the PCB. If the new board still throws nP or E00 after installation, internal wiring harnesses or the display PCB may also need replacement, which requires service-manual diagnostic steps.
-
-## See Also
-
-- [LG Refrigerator Not Cooling - Causes & Fix](/posts/lg-refrigerator-not-cooling/)
-- [LG Washer PE Error Code - Causes & Fix](/posts/lg-washer-pe-error-code/)
-- [LG Dryer d90 Error Code - Causes & Fix](/posts/lg-dryer-d90-error-code/)
-- [LG Range F7 Error Code - Causes & Fix](/posts/lg-range-f7-error-code/)

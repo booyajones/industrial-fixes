@@ -21,8 +21,7 @@ part_price: "$80-250 for a compatible FC302 option card"
 no_buy_pct: "60%"
 ---
 
-## Danfoss FC302 VFD AL-153 Fault — What It Means
-
+## What this code means
 The code AL-153 does not exist in the Danfoss FC302 fault library. The FC302 series supports alarms only up to AL-39. The string "AL-15" refers to AL-15 (Hardware Mismatch), which means the drive has detected an accessory option card that is not recognized, not seated correctly, or incompatible with the FC302 firmware. Common option cards include brake control modules, serial communication cards, and fieldbus adapters.
 
 When AL-15 appears, the drive flags a mismatch between the installed card and what the logic board expects. This can be a physical seating problem, a wrong card for the drive model, or a firmware version that does not support the card. The drive will not operate normally until the mismatch is resolved.
@@ -30,8 +29,6 @@ When AL-15 appears, the drive flags a mismatch between the installed card and wh
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire logic board when the real issue is simply a loose or incompatible option card. Always reseat and verify card compatibility before replacing the control PCB.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -81,10 +78,3 @@ Answer these to narrow it down fast.
 Call a qualified technician or Danfoss service partner if you are not trained to work on VFDs or if AL-15 persists after reseating the card and verifying compatibility. High-voltage DC bus capacitors inside the drive can hold lethal charge even after mains power is removed. Professionals have the tools to safely discharge the bus, verify firmware versions, and access Danfoss technical support for advanced diagnostics. If the logic board needs replacement, the new board may require parameter cloning or reconfiguration, which is best handled by someone familiar with FC302 programming and fieldbus setup.
 
 **Rough cost:** A pro service call runs about $150-400 for service call and card replacement or logic board swap.
-
-## See Also
-
-- [Danfoss VLT AL 4 Fault - Causes & Fix](/posts/danfoss-vlt-vfd-al-4-fault-code/)
-- [Danfoss FC302 VFD Alarm 33 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-33-fault-code/)
-- [Danfoss FC302 AL-130 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-130-fault-code/)
-- [Danfoss FC302 AL-108 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-108-fault-code/)

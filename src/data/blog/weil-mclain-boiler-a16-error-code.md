@@ -19,15 +19,12 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Weil-McLain A16 Error Code — What It Means
-
+## What this code means
 The A-16 error code on a Weil-McLain AquaBalance Central Heating Only boiler indicates the outdoor temperature sensor is not connected or installed. The control module detects an open circuit at the outdoor sensor input terminals during startup and halts the heating call until the fault is cleared. If an outdoor sensor is not physically present and has not been exempted in the system parameters, the boiler will display A-16 and refuse to fire. A faulty sensor that gives extreme readings or a short circuit typically triggers a different fault (F-39), so A-16 specifically points to a missing or disconnected sensor.
 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control module thinking the board is bad, when the real issue is simply a missing sensor or loose wiring at the outdoor reset terminals. Measure resistance across the sensor wires (should be 8,000-15,000 ohms) before buying any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified boiler technician if you are not comfortable working with low-voltage control wiring or entering the boiler's parameter menu. A technician can quickly verify sensor resistance, trace wiring faults, and configure the system to exempt the sensor if it is not required for your installation. If you have replaced the sensor and wiring and the A-16 code persists, the control module input may be damaged and requires professional diagnosis and replacement. Any work involving gas supply pressure (3.5-11 inches w.c.) or system water pressure (12-15 PSI) also requires a licensed professional.
 
 **Rough cost:** A pro service call runs about $150-300.
-
-## See Also
-
-- [Weil-McLain Boiler A123 Error - Causes & Fix](/posts/weil-mclain-boiler-a123-error-code/)
-- [Weil-McLain Boiler A156 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a156-error-code/)
-- [Weil-McLain A30 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a30-error-code/)
-- [Weil-McLain Boiler A09 Error - Causes & Fix](/posts/weil-mclain-boiler-a09-error-code/)

@@ -19,8 +19,6 @@ A Maytag dryer not heating is a symptom, not a single error code. The drum tumbl
 
 Some Maytag controls display an L2 code for low or no line voltage, or AF/F4E3 for restricted airflow. If the dryer shows no code at all, the issue is diagnosed as a no-heat complaint. Maytag notes that F#E# codes indicate a control-detected fault that requires service, but the exact meaning depends on the model and code pair.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Low or no 240V supply (electric models)** Maytag electric dryers need both legs of 240 volts, and a tripped breaker, blown fuse, or damaged power cord will prevent heat while the motor still runs.
@@ -55,10 +53,10 @@ Seeing a code on the display? These match this problem:
 
 - [Maytag Dryer Err error code](/posts/maytag-dryer-err-error-code/)
 - [Maytag Dryer F01 error code](/posts/maytag-dryer-f01-error-code/)
-- [Maytag Dryer F02 error code](/posts/maytag-dryer-f02-error-code/)
+- Maytag Dryer F02 error code
 - [Maytag Dryer F1E1 error code](/posts/maytag-dryer-f1e1-error-code/)
 - [Maytag Dryer F1E3 error code](/posts/maytag-dryer-f1e3-error-code/)
-- [Maytag Dryer F1E4 error code](/posts/maytag-dryer-f1e4-error-code/)
+- Maytag Dryer F1E4 error code
 - [Maytag Dryer F1E5 error code](/posts/maytag-dryer-f1e5-error-code/)
 - [Maytag Dryer F20 error code](/posts/maytag-dryer-f20-error-code/)
 - [Maytag Dryer F22 error code](/posts/maytag-dryer-f22-error-code/)

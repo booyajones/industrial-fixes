@@ -18,8 +18,7 @@ free_checks:
   - "Inspect the remote condenser coils and clean them if they are clogged with dust or debris."
 ---
 
-## Manitowoc E16 Error Code — What It Means
-
+## What this code means
 The E16 error code on Manitowoc ice machines (CVD models) signals a Remote Condenser Fault. The control board has detected that the liquid line temperature has dropped below 40°F or climbed above 140°F for more than one continuous minute during a freeze cycle. This means the remote condensing unit is not operating within the safe refrigeration temperature range, so the heat exchange process is failing.
 
 When the temperature exceeds 140°F, the condenser is not rejecting heat properly (usually because the fan is not running). When the temperature falls below 40°F, the system is either losing refrigerant or operating in an environment colder than the unit was designed for. The fault only activates during a freeze cycle and requires the out-of-range condition to persist for more than one minute before the board logs the error.
@@ -27,8 +26,6 @@ When the temperature exceeds 140°F, the condenser is not rejecting heat properl
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board thinking it is misreading the temperature sensor. Check the remote condenser fan motor circuit first, since a dead fan is the most common cause of E16 and is far cheaper to replace than the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a professional if the condenser fan motor tests good and the coils are clean but the error continues. A low refrigerant charge requires EPA-certified technicians to recover, test, and recharge the sealed refrigeration system. Also call a pro if you are uncomfortable working with high-voltage wiring or if the diagnostic steps do not reveal an obvious cause. Manitowoc recommends contacting their technical support at 888-235-9695 for complex refrigerant issues or unclear diagnoses. If the entire remote condensing unit is compromised, a licensed technician will need to replace the assembly and evacuate and charge the system.
 
 **Rough cost:** A pro service call runs about $200-500.
-
-## See Also
-
-- [Manitowoc E19 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e19-error-code/)
-- [Manitowoc E22 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e22-error-code/)
-- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)
-- [Manitowoc Ice Machine Error Code 9 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-9/)

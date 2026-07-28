@@ -19,8 +19,6 @@ Navien tankless water heaters do not have a standing pilot light. They use elect
 
 The control board relies on a flame rod sensor to prove that combustion is happening. If the sensor cannot detect flame, the gas valve closes immediately for safety. The result is a burner that lights briefly and then goes out, or fails to light at all. This behavior mimics an old-style pilot that won't stay lit, but the actual problem is in the ignition sequence, flame detection circuit, gas delivery, or combustion air supply.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty or contaminated flame rod sensor** Buildup on the flame rod prevents reliable flame detection, so the control board shuts down the gas valve even though the burner is actually lit.
@@ -54,10 +52,3 @@ The control board relies on a flame rod sensor to prove that combustion is happe
 ## When to Call a Pro
 
 Gas appliance ignition and flame-detection work involves live gas lines, high-voltage ignition circuits, and precise combustion tuning. If basic cleaning of the flame rod and igniter does not resolve the fault, or if you are not comfortable working with gas connections and electrical components, call a licensed technician or a Navien service specialist. Navien recommends that unresolved faults, especially those involving the gas valve, control board, or flow sensor, be diagnosed by the original installer or an authorized service provider. Incorrect repairs can create safety hazards or void warranty coverage. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Navien E029 Error Code - Causes & Fix](/posts/navien-tankless-e029-error-code/)
-- [Navien E302 Error Code — Causes & Fix](/posts/navien-error-code-e302/)
-- [Navien Tankless Igniter/Flame Rod Replacement - Signs & How-To](/posts/navien-water-heater-igniter-ignition-electrode-tankless-replacement/)
-- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)

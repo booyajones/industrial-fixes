@@ -13,11 +13,8 @@ money_part: "Hot surface igniter"
 most_likely_cause: "Failed igniter"
 ---
 
-## Trane 2 Flashes Error Code — What It Means
-
+## What this code means
 Two flashes on a Trane furnace LED indicates a system lockout — the furnace tried to ignite multiple times, failed, and the control board locked out to prevent unburned gas from accumulating. The board will repeat the flash sequence continuously until the fault is cleared. Lockout doesn't mean something is permanently broken; it means the ignition sequence failed more than once (typically 3 attempts) and the board is waiting for a manual reset before trying again. The underlying cause could be anything in the ignition chain.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Two flashes on a Trane furnace LED indicates a system lockout — the furnace tr
 ## When to Call a Pro
 
 If the igniter glows, gas is flowing, and the flame sensor is clean but lockout still happens, the problem is likely in the gas valve or control board — both require a tech with proper test equipment to diagnose safely.
-
-## See Also
-
-- [Trane XR15 Heat Pump Error Codes — Complete Guide](/posts/trane-xr15-error-codes/)
-- [Trane XV20i/XV18 Variable Speed Heat Pump Error Codes](/posts/trane-variable-speed-heat-pump-codes/)
-- [Trane 8 Flashes Error Code — Causes & Fix](/posts/trane-8-flashes-error-code/)
-- [Trane Furnace Error Codes — Complete Flash Code Guide](/posts/trane-furnace-error-codes/)
-
-## Related Articles
-
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-- [Trane 4 Flashes Error Code — Open High Limit Fix](/posts/trane-4-flashes-error-code/)

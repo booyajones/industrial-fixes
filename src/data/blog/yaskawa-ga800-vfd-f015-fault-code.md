@@ -19,8 +19,7 @@ free_checks:
   - "Check the drive model number against Yaskawa GA800 Technical Manual fault code list"
 ---
 
-## Yaskawa GA800 F015 Fault — What It Means
-
+## What this code means
 The fault code F015 does not appear in any Yaskawa GA800 documentation available. Yaskawa GA800 drives use two-letter alphanumeric fault codes (such as OV for overvoltage, SC for short circuit, LU for load unbalance, or GF for ground fault) rather than numeric "F" codes. The F015 code is specific to Schneider Electric drives (ATV310, ATV610, and ATV31C series) where it indicates "3 Output phases loss" meaning all three output phases to the motor are missing.
 
 If you see F015 on what you believe is a Yaskawa GA800, either the drive has been misidentified and is actually a Schneider model, the code is being read incorrectly from the display, or there is cross-brand confusion in the documentation. Yaskawa's maintenance manual for the GA800 explicitly states the drive does not support field repairs beyond fan and control board replacement and does not list F015 as a valid fault. Contact Yaskawa Technical Support at 1.800.927.5292 (Option 2 then Option 1 for Drive Support) or email repair@yaskawa.com to verify the actual fault code and obtain the GA800 Technical Manual for your specific model.
@@ -28,8 +27,6 @@ If you see F015 on what you believe is a Yaskawa GA800, either the drive has bee
 ## Before You Replace Anything
 
 Technicians may assume F015 is a Yaskawa fault and replace output boards or motor cables. First verify the drive brand nameplate and consult the correct manufacturer's fault code list before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,11 +13,8 @@ money_part: "Igniter/spark electrode"
 most_likely_cause: "No gas or low gas pressure"
 ---
 
-## Noritz Error Code 11 — What It Means
-
+## What this code means
 Noritz error code 11 means ignition failure — the unit attempted to light the burner and failed. The control board runs the fan, opens the gas valve, and fires the igniter. If no flame is detected by the ionization sensor within the trial-for-ignition period, the attempt is logged as a failure. After 3 failed attempts, the unit locks out with code 11 and requires a manual reset before trying again. This is Noritz's primary ignition lockout code and points to the igniter electrode, gas supply, or venting system.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,11 +41,3 @@ Noritz error code 11 means ignition failure — the unit attempted to light the 
 ## When to Call a Pro
 
 Persistent code 11 after verifying gas supply and cleaning the igniter needs a tech with a manometer to check gas pressure at the manifold and a combustion analyzer to verify ignition quality.
-
-## Related Articles
-
-- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
-- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
-- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)

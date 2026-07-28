@@ -19,8 +19,6 @@ When a Bradford White water heater delivers water that is too hot, the control h
 
 Bradford White's diagnostic approach focuses on comparing the actual measured tank temperature against the resistance reading from the thermistor (temperature sensor). If those two values do not match, the sensor or the control interpreting it has failed. If they do match and the tank is genuinely too hot, the issue lies elsewhere in the system or plumbing.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Faulty thermistor or temperature sensor** The sensor is reading high even though actual tank water is at normal temperature, causing the control to flag an overtemperature fault.

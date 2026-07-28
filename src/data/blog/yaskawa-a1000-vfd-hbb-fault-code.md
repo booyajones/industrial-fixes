@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 Hbb Fault — What It Means
-
+## What this code means
 The Hbb fault on the Yaskawa A1000 VFD stands for Safe Disable Signal Input. The drive has detected that the Safe Disable circuit is open, so it has disabled the output to the motor. The A1000 uses two channels, H1 and H2, that must both be closed to HC for normal operation. When one or both channels are open, the drive protects itself by blocking all output and displaying Hbb.
 
 This is a hardware interlock designed for safety applications. If you are not using an external safety relay or E-stop chain, the drive expects factory jumpers between H1-HC and H2-HC to keep the circuit closed. If those jumpers are missing, loose, or removed, the drive sees an open circuit and triggers Hbb. If you are using external safety contacts, any break in that wiring or an open relay contact will also cause the fault.
@@ -24,8 +23,6 @@ This is a hardware interlock designed for safety applications. If you are not us
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board when the real problem is simply missing jumpers at the Safe Disable terminals. Always inspect H1, H2, and HC visually and test continuity across the jumpers before ordering any circuit board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if you are not familiar with variable frequency drive wiring, if the drive is part of a safety-rated machine installation, or if the Hbb fault persists after you have verified correct jumpers and wiring. High-voltage work on VFD power terminals and internal board-level diagnostics require specialized training and test equipment. Also call a pro if you need to integrate the Safe Disable circuit into a larger safety system with light curtains, E-stops, or safety PLCs, because improper wiring can create serious safety hazards.
 
 **Rough cost:** A pro service call runs about $150-400 depending on service call and whether jumpers or wiring repair is needed.
-
-## See Also
-
-- [Yaskawa A1000 CPF14 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf14-fault-code/)
-- [Yaskawa GA800 E21 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e21-fault-code/)
-- [Yaskawa VFD Fault LF — Causes & Fix](/posts/yaskawa-vfd-fault-lf/)
-- [Yaskawa GA800 E47 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e47-fault-code/)

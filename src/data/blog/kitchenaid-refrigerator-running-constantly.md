@@ -17,8 +17,6 @@ tags:
 
 A KitchenAid refrigerator running constantly means the compressor and cooling system are staying on because the cabinet is not reaching the thermostat's target temperature, or the control system is not detecting a satisfied condition. This is a symptom, not a fault code. The unit is working overtime trying to cool down, either because something is blocking heat removal or warm air keeps entering the cabinet.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty condenser coils** Dust and debris on the coils reduce heat rejection and force the compressor to run much longer to maintain temperature.

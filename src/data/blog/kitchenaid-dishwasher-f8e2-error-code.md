@@ -21,8 +21,7 @@ part_price: "$50-90"
 no_buy_pct: "60%"
 ---
 
-## KitchenAid F8E2 Error Code — What It Means
-
+## What this code means
 The F8E2 error code on a KitchenAid dishwasher indicates a problem with the drain pump system. On models without a digital display, the same fault appears as an 8-2 blinking light pattern. The dishwasher has detected that the drain pump cannot operate correctly, usually because water is not draining as expected or the pump itself has failed.
 
 This code can be triggered by a blocked drain path, a jammed pump impeller, damaged wiring to the pump, or a failed drain pump motor. KitchenAid recommends a power reset as the first step, followed by inspection of the drain hose and pump area for obstructions before replacing any parts.
@@ -30,8 +29,6 @@ This code can be triggered by a blocked drain path, a jammed pump impeller, dama
 ## Before You Replace Anything
 
 Many people replace the drain pump immediately without checking for obstructions. First remove the pump cover and inspect the impeller area for glass, screws, or food debris, and verify the drain hose is not kinked or clogged.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

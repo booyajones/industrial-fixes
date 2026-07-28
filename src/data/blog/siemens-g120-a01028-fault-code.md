@@ -13,11 +13,8 @@ money_part: "Siemens G120 Control Unit (CU)"
 most_likely_cause: "Wrong device type selected in TIA Portal or Startdrive"
 ---
 
-## Siemens G120 A01028 — What It Means
-
+## What this code means
 The A01028 alarm on a Siemens SINAMICS G120 is a configuration error, not a hardware trip fault. Siemens describes it as a parameterization mismatch where the downloaded settings were generated for a different module type or order number (MLFB) than the one physically installed in the drive. The alarm text reads: "The loaded settings are not compatible with the inverter." This means the drive's actual hardware does not match the stored configuration, typically because the wrong device type was selected in the project or parameters were restored from another drive with a different MLFB. The alarm does not indicate a direct hardware failure but rather a commissioning or configuration error that prevents the drive from accepting the parameter set.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,10 +44,3 @@ The A01028 alarm on a Siemens SINAMICS G120 is a configuration error, not a hard
 ## When to Call a Pro
 
 Call a qualified technician or Siemens service partner if you do not have access to TIA Portal or Startdrive to verify and correct the hardware configuration in your project. Also reach out if the alarm persists after you have confirmed matching MLFB numbers, re-commissioned the drive, and power cycled it. Configuration errors can sometimes mask deeper issues with Control Unit memory or firmware compatibility that require specialized diagnostic tools and factory support. If you are unsure how to safely power down the drive or lack training on Siemens parameter management, professional assistance will prevent accidental data loss or further configuration problems.
-
-## See Also
-
-- [Siemens G120C VFD Fault Code Guide — Complete Diagnostic Reference](/posts/siemens-g120c-fault-codes/)
-- [Siemens SINAMICS G120 F30011 Fault — Phase Loss Fix](/posts/siemens-sinamics-f30011-fault/)
-- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)
-- [Siemens G120 F01018 - Causes & Fix](/posts/siemens-g120-f01018-fault-code/)

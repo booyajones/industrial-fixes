@@ -16,8 +16,7 @@ money_part: "Ice compartment fan motor assembly"
 part_price: "$30-80"
 ---
 
-## Kenmore Er 1F Error Code — What It Means
-
+## What this code means
 The ER 1F or Er IF code on Kenmore Elite refrigerators indicates a fault in the ice compartment fan, also called the ice maker fan or ice fan. This fan moves cold air through ducts in the freezer door to cool the ice maker area. When the fan cannot turn or the control board does not detect normal operation, the code appears. The exact definition can vary slightly depending on whether your Kenmore unit was built by LG or another manufacturer, so verify the code meaning in your model's service manual.
 
 Most often the fan itself is not broken. Instead, ice or frost has built up in the fan housing or air ducts and jammed the blades so they cannot spin. Less commonly, the fan motor has failed electrically or mechanically, or a control board issue is preventing the fan from receiving power. Moisture intrusion through worn door seals can cause repeated icing and make the problem return even after a repair.
@@ -25,8 +24,6 @@ Most often the fan itself is not broken. Instead, ice or frost has built up in t
 ## Before You Replace Anything
 
 Many people replace the fan motor or control board first. Before buying parts, unplug the unit and manually defrost the entire ice compartment and fan area for 24 hours, then check whether the fan spins freely by hand.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

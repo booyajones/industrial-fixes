@@ -20,8 +20,7 @@ free_checks:
 part_price: "$35–75"
 ---
 
-## Bosch Washer E37 Error Code — What It Means
-
+## What this code means
 The E37 code on a Bosch washer signals an overfilling or abnormal water-level fault. The control system has detected that the tub contains more water than expected, or the pressure-sensing circuit cannot correctly read the water level. This code points to a problem with the pressure switch, the pressure-sensing path, or an inlet valve that is mechanically stuck open and continues to admit water when it should be closed.
 
 Because the error may be a one-time transient event, Bosch recommends a power reset before proceeding with diagnostics. If the code returns after a reset, the fault is persistent and involves either the inlet valve assembly or the pressure system (pressure switch, pressure hose, or pressure chamber).
@@ -29,8 +28,6 @@ Because the error may be a one-time transient event, Bosch recommends a power re
 ## Before You Replace Anything
 
 Many owners replace the control board when E37 appears, but the fault is almost always a failed inlet valve or pressure switch. Test the valve for mechanical closure and check the pressure hose for blockage or disconnection before touching the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

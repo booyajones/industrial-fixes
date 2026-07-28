@@ -13,11 +13,8 @@ money_part: "Replacement external fault device (relay, switch, or interlock)"
 most_likely_cause: "Digital input configured for external fault is active"
 ---
 
-## Siemens Micromaster F0085 — What It Means
-
+## What this code means
 F0085 on a Siemens Micromaster 420 or 440 VFD indicates an External Fault. The drive has been tripped by a signal on a control terminal that is configured to stop the inverter when activated. This is not an internal power-stage failure. Instead, an external device or input wired to the drive's digital terminals is holding the fault condition active, preventing the drive from running.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ F0085 on a Siemens Micromaster 420 or 440 VFD indicates an External Fault. The d
 ## When to Call a Pro
 
 Call a qualified electrician, controls technician, or Siemens-authorized service provider if you cannot identify which terminal is assigned to external fault, if the wiring diagram is missing, if the fault persists after verifying and correcting the external circuit, or if you are unfamiliar with VFD parameter programming and safe lockout procedures. External-fault circuits often tie into machine safety systems, so any work must comply with electrical codes and occupational safety requirements for your facility.
-
-## See Also
-
-- [Siemens Micromaster F0024 - Causes & Fix](/posts/siemens-micromaster-vfd-f0024-fault-code/)
-- [Siemens G120 F0005 Fault - Causes & Fix](/posts/siemens-g120-vfd-f0005-fault-code/)
-- [Siemens Micromaster F0060 - Causes & Fix](/posts/siemens-micromaster-f0060-fault-code/)
-- [Siemens G120 F01250 Fault Code - Causes & Fix](/posts/siemens-g120-f01250-fault-code/)

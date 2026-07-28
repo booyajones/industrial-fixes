@@ -17,8 +17,7 @@ money_part: "GE main control board (ERC/EOC)"
 part_price: "$150-300"
 ---
 
-## GE Oven F8 Error Code — What It Means
-
+## What this code means
 On most GE ovens, F8 signals an electronic control problem rather than a sensor or heating fault. The plain F8 code typically points to an EEPROM or Electronic Oven Control (EOC) board failure, while some newer models display F8-10 to indicate a communication error between the user interface and the main control board. Because GE has used different code maps across production years and platforms, the exact meaning depends on your model number and the tech sheet inside the oven cavity or control panel.
 
 Unlike sensor or relay faults that produce specific F-codes for each circuit, F8 generally tells you the brain of the oven has failed or lost its memory. A simple power reset clears the error about half the time if the fault was transient, but a returning F8 almost always requires board replacement.
@@ -26,8 +25,6 @@ Unlike sensor or relay faults that produce specific F-codes for each circuit, F8
 ## Before You Replace Anything
 
 Some owners replace the oven temperature sensor or door-lock assembly when they see any F-code. F8 is a control-board fault, not a sensor or latch issue. Always power-reset the unit first before ordering any part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -17,8 +17,7 @@ money_part: "LG oven temperature sensor (thermistor)"
 part_price: "$20-120"
 ---
 
-## LG Range F9 Error Code — What It Means
-
+## What this code means
 The F9 code on an LG range means the oven did not heat properly during preheat. LG's support documentation states this code indicates the upper oven is not heating as expected and the control board did not see the oven reach approximately 150°F within roughly five minutes of starting a bake cycle.
 
 This is a heating fault. The control is calling for heat but either the heating circuit is not responding or the temperature sensor is not reporting the rise correctly. The code can appear on both electric and gas LG ranges, though the underlying components differ between the two.
@@ -26,8 +25,6 @@ This is a heating fault. The control is calling for heat but either the heating 
 ## Before You Replace Anything
 
 Many people replace the main control board first when the real problem is a loose or heat-damaged connector at the relay board or temperature sensor. Always inspect wiring and test the sensor resistance before buying a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable working inside a 240-volt appliance or testing live circuits with a multimeter. Gas models require safe handling of the gas supply line and igniter circuit. If you have replaced the sensor and inspected all wiring but the code persists, a technician can perform live voltage tests on the relay board and control board to isolate the failed component. A pro visit typically costs $150–300 including diagnosis and a common part like a sensor or relay board.
 
 **Rough cost:** DIY runs about $20-120 in parts, 30-90 min. A pro service call runs about $150-300.
-
-## See Also
-
-- [LG Washer Burning Smell - Causes & Fix](/posts/lg-washer-burning-smell/)
-- [LG Dryer D75 Error Code - Causes & Fix](/posts/lg-dryer-d75-error-code/)
-- [LG Oven F2 Error Code - Causes & Fix](/posts/lg-oven-f2-error-code/)
-- [LG OE Error Code - Causes & Fix](/posts/lg-range-oe-error-code/)

@@ -81,18 +81,3 @@ The water curtain (the plastic flap that prevents ice from sliding into the bin 
 
 ## When to Call a Pro
 Manitowoc (a Welbilt brand) has authorized service agents nationwide. Refrigerant work requires EPA 608 certification. Contact Manitowoc at 1-920-682-0161.
-
-## Related Articles
-
-- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
-- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
-- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
-- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)
-- [Manitowoc Ice Machine Error Code 4 — Water Curtain Fault Fix](/posts/manitowoc-ice-machine-error-code-4-water-curtain/)
-
-## See Also
-
-- [Manitowoc ID-0502 Error Codes — Fault Code Diagnostic Guide](/posts/manitowoc-id-0502-error-codes/)
-- [Manitowoc Ice Machine E05 HPC Fault: High Pressure Cutout Causes and Fix](/posts/manitowoc-e05-hpc-fault/)
-- [Manitowoc Ice Machine E01 Error: Long Freeze Cycle Shutdown Causes and Fix](/posts/manitowoc-e01-long-freeze/)
-- [Manitowoc E01 Error Code — Long Freeze Cycle Fix](/posts/manitowoc-e01-error-code/)

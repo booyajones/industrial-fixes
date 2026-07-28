@@ -19,8 +19,6 @@ When an LG washer won't fill with water, the control board has not detected adeq
 
 The underlying condition is an inadequate water supply. This can be caused by closed faucets, disconnected or kinked hoses, frozen hoses, clogged inlet filters, low household water pressure, or a faulty inlet valve. In some cases, a drain hose that is siphoning water back out can mimic a no-fill condition.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Water supply taps closed or household water off** One or both hot and cold shutoff valves behind the washer are not fully open, or the home water supply has been shut off.

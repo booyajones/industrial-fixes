@@ -22,8 +22,7 @@ part_price: "$30-60"
 no_buy_pct: "65%"
 ---
 
-## Samsung Dishwasher 4C Error Code — What It Means
-
+## What this code means
 The 4C (or 4E) error code on a Samsung dishwasher signals a water supply problem. The machine has detected that water is not reaching the tub in the expected volume or time. Samsung describes this code as "Water supply issues," meaning the dishwasher cannot fill properly due to a blocked, restricted, or failed water inlet path.
 
 In practical terms, something is preventing water from flowing into the tub. The machine's fill sensor times out or registers insufficient pressure, triggering the code and halting the cycle. The problem is almost always mechanical (a closed valve, clogged screen, or kinked hose) or electrical (a failed inlet valve solenoid or a control board that cannot energize the valve).
@@ -31,8 +30,6 @@ In practical terms, something is preventing water from flowing into the tub. The
 ## Before You Replace Anything
 
 Many people replace the water inlet valve without first checking the inlet screen or verifying that the shutoff valve is fully open. Clean the screen and confirm full house water pressure before ordering a valve.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

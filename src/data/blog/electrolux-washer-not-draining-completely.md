@@ -19,8 +19,6 @@ When your Electrolux washer is not draining completely, it means the machine is 
 
 This symptom is usually a mechanical or installation problem rather than an electronics failure. Most Electrolux front-load models use diagnostic test mode (often test 11 for drain/spin) to help identify the underlying fault, but no single universal error code corresponds to incomplete draining across all models.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Drain filter clogged with debris** Lint, coins, fabric, and small objects accumulate in the pump filter and block water flow out of the tub.

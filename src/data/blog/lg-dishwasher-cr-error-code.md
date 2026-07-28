@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "LG dishwasher control panel (user interface assembly)"
 ---
 
-## LG Dishwasher CR Error Code — What It Means
-
+## What this code means
 CR stands for Continuous Run and indicates your LG dishwasher has entered Test Mode, a service diagnostic state used by technicians. This is not a fault code that signals a broken component. Instead, the control board is running a special program to check all systems. The code usually appears after someone accidentally presses a specific combination of buttons on the control panel, or after a power outage that interrupted the control board's normal reset sequence.
 
 Unlike error codes such as IE (water inlet), OE (drain), or LE (motor leak), CR does not point to a failed part. It simply means the dishwasher is waiting in technician mode. Most of the time you can clear it by turning off the dishwasher completely, either at the control panel or by switching off the circuit breaker for 30 seconds, then restoring power and restarting a normal cycle.
@@ -25,8 +24,6 @@ Unlike error codes such as IE (water inlet), OE (drain), or LE (motor leak), CR 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board thinking CR is a board failure. Before ordering any parts, simply power-cycle the dishwasher at the breaker to exit test mode.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a technician if the CR code returns immediately after both a control-panel power-off and a full breaker reset, and you have confirmed that no buttons are visibly stuck and the ribbon cable is seated correctly. A pro can use LG's service software to verify whether the control board is locked in test mode due to internal firmware corruption or a failed input circuit. Also call if you are uncomfortable removing the dishwasher's inner door panel to inspect the wiring harness, or if you see any signs of water damage or corrosion inside the door that might require broader repairs beyond a simple reset.
 
 **Rough cost:** DIY runs about $0, 2-5 minutes (power reset only). A pro service call runs about $0-100 (most service calls will only perform a reset; control panel replacement if buttons are stuck runs $100-200 including labor).
-
-## See Also
-
-- [LG Oven Won't Turn On - Causes & Fix](/posts/lg-oven-wont-turn-on/)
-- [LG Refrigerator Door Gasket Replacement - Signs & How-To](/posts/lg-refrigerator-door-gasket-door-seal-replacement/)
-- [LG MVEL2033F Microwave Problems & Error Codes](/posts/lg-mvel2033f-microwave-problems/)
-- [LG Washer Won't Spin - Causes & Fix](/posts/lg-washer-wont-spin/)

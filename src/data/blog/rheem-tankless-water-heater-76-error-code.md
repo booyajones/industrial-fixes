@@ -13,11 +13,8 @@ money_part: "Rheem tankless remote control"
 most_likely_cause: "Faulty remote control"
 ---
 
-## Rheem Tankless Water Heater Error 76 — What It Means
-
+## What this code means
 Error code 76 on a Rheem tankless water heater indicates a communication fault between the main control board inside the unit and the remote control or wired controller. The controller signal is not being read correctly by the water heater, so the unit may stop responding normally until the communication path is restored. This is classified as a service error code in Rheem's diagnostic system and points to a problem in the signal path rather than a heating or water-flow issue.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,10 +44,3 @@ Error code 76 on a Rheem tankless water heater indicates a communication fault b
 ## When to Call a Pro
 
 Call a licensed plumber or tankless service technician if you are not comfortable working with low-voltage wiring or opening the heater's control compartment. A pro can quickly isolate whether the fault lies in the remote, the wiring, or the main board by testing each component in sequence. If your unit is still under warranty, professional documentation of the failure will protect your coverage when replacing the control board.
-
-## See Also
-
-- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
-- [Rheem RTGH-95DVLN Condensing Tankless Water Heater Error Codes](/posts/rheem-rtgh-95dvln-error-codes/)
-- [Rheem Furnace 9 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-9-flashes/)
-- [Rheem Furnace 7 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-7-flashes/)

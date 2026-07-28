@@ -19,8 +19,6 @@ Samsung describes water leaking from the bottom of the refrigerator as either dr
 
 For Samsung French-door and some Bespoke-style units, ice buildup under the crisper or deli drawer is commonly caused by a frozen drain under the evaporator area. Samsung notes that foreign material or freezing can block the drain so defrost water leaks into the product instead of draining away.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Frozen or clogged defrost drain** Samsung says foreign material or freezing can block the drain so defrost water leaks into the product instead of draining away.
@@ -52,17 +50,17 @@ For Samsung French-door and some Bespoke-style units, ice buildup under the cris
 
 Seeing a code on the display? These match this problem:
 
-- [Samsung Refrigerator 1E error code](/posts/samsung-refrigerator-1e-error-code/)
-- [Samsung Refrigerator 21E error code](/posts/samsung-refrigerator-21e-error-code/)
-- [Samsung Refrigerator 22E error code](/posts/samsung-refrigerator-22e-error-code/)
+- Samsung Refrigerator 1E error code
+- Samsung Refrigerator 21E error code
+- Samsung Refrigerator 22E error code
 - [Samsung Refrigerator 25E error code](/posts/samsung-refrigerator-25e-error-code/)
-- [Samsung Refrigerator 2E error code](/posts/samsung-refrigerator-2e-error-code/)
-- [Samsung Refrigerator 33E error code](/posts/samsung-refrigerator-33e-error-code/)
-- [Samsung Refrigerator 39E error code](/posts/samsung-refrigerator-39e-error-code/)
-- [Samsung Refrigerator 4E error code](/posts/samsung-refrigerator-4e-error-code/)
-- [Samsung Refrigerator 5E error code](/posts/samsung-refrigerator-5e-error-code/)
-- [Samsung Refrigerator 88 error code](/posts/samsung-refrigerator-88-error-code/)
-- [Samsung Refrigerator Ap error code](/posts/samsung-refrigerator-ap-error-code/)
+- Samsung Refrigerator 2E error code
+- Samsung Refrigerator 33E error code
+- Samsung Refrigerator 39E error code
+- Samsung Refrigerator 4E error code
+- Samsung Refrigerator 5E error code
+- Samsung Refrigerator 88 error code
+- Samsung Refrigerator Ap error code
 
 ## When to Call a Pro
 

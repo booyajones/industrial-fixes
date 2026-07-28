@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Electrolux Washer E13 Error Code — What It Means
-
+## What this code means
 The E13 error on an Electrolux washer signals that the control board has detected an unexpected drop in water level during the cycle. The machine expects the tub to hold a certain amount of water, but the pressure sensor reports that the level is falling when it should remain stable. This can be triggered by an actual leak somewhere in the water path or by a fault in the pressure-sensing circuit that monitors tub water level.
 
 The code does not always mean water is visibly leaking onto your floor. A drain hose installed too low or positioned below the tub water line can create a siphon effect that slowly pulls water out during the fill or wash phase, tricking the control into thinking there is a leak. Blocked or disconnected pressure hoses, a faulty pressure sensor, or problems with the water inlet valve can also cause the control to see a false or real water-level loss.
@@ -26,8 +25,6 @@ The code does not always mean water is visibly leaking onto your floor. A drain 
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first, assuming the error is electronic. Check for visible leaks, verify drain-hose height, and inspect the pressure hose and sensor before spending money on a new PCB.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

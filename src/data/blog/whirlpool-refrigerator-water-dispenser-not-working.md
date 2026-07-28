@@ -19,8 +19,6 @@ When your Whirlpool refrigerator stops dispensing water, it means the circuit fr
 
 The refrigerator must be connected to a cold water supply, and water must flow through the inlet valve, filter, tubing, and dispenser actuator to reach the glass. Any obstruction, frozen section, or failed component in that path will stop the flow.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged or improperly installed water filter** Whirlpool identifies a restricted or incorrectly seated filter as a common cause of reduced or stopped water flow at the dispenser.
@@ -54,18 +52,18 @@ The refrigerator must be connected to a cold water supply, and water must flow t
 
 Seeing a code on the display? These match this problem:
 
-- [Whirlpool Refrigerator Df error code](/posts/whirlpool-refrigerator-df-error-code/)
-- [Whirlpool Refrigerator E0 error code](/posts/whirlpool-refrigerator-e0-error-code/)
-- [Whirlpool Refrigerator E1 error code](/posts/whirlpool-refrigerator-e1-error-code/)
-- [Whirlpool Refrigerator E2 error code](/posts/whirlpool-refrigerator-e2-error-code/)
-- [Whirlpool Refrigerator E3 error code](/posts/whirlpool-refrigerator-e3-error-code/)
-- [Whirlpool Refrigerator E4 error code](/posts/whirlpool-refrigerator-e4-error-code/)
-- [Whirlpool Refrigerator E5 error code](/posts/whirlpool-refrigerator-e5-error-code/)
-- [Whirlpool Refrigerator E6 error code](/posts/whirlpool-refrigerator-e6-error-code/)
-- [Whirlpool Refrigerator E9 error code](/posts/whirlpool-refrigerator-e9-error-code/)
-- [Whirlpool Refrigerator Po error code](/posts/whirlpool-refrigerator-po-error-code/)
-- [Whirlpool Refrigerator Sy Ce error code](/posts/whirlpool-refrigerator-sy-ce-error-code/)
-- [Whirlpool Refrigerator Sy Ef error code](/posts/whirlpool-refrigerator-sy-ef-error-code/)
+- Whirlpool Refrigerator Df error code
+- Whirlpool Refrigerator E0 error code
+- Whirlpool Refrigerator E1 error code
+- Whirlpool Refrigerator E2 error code
+- Whirlpool Refrigerator E3 error code
+- Whirlpool Refrigerator E4 error code
+- Whirlpool Refrigerator E5 error code
+- Whirlpool Refrigerator E6 error code
+- Whirlpool Refrigerator E9 error code
+- Whirlpool Refrigerator Po error code
+- Whirlpool Refrigerator Sy Ce error code
+- Whirlpool Refrigerator Sy Ef error code
 
 ## When to Call a Pro
 

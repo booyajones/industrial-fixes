@@ -21,8 +21,7 @@ free_checks:
 part_price: "$15-40"
 ---
 
-## Daikin E5 Error Code — What It Means
-
+## What this code means
 The E5 error code on a Daikin mini split signals an inverter compressor motor failure, overload, or overheat condition. The system detects excessive current (overcurrent) from the compressor, a compressor lock (seized motor), or overheat due to thermal protection activation. It can also indicate a defective inverter PCB, IPM (Integrated Power Module) failure, or wiring faults affecting the compressor drive (UVW connection error).
 
 The system halts operation to protect the compressor from total motor burnout. In many cases, the fault is not the compressor itself but a sensor or electrical issue that sends false signals to the control board.
@@ -30,8 +29,6 @@ The system halts operation to protect the compressor from total motor burnout. I
 ## Before You Replace Anything
 
 Homeowners and inexperienced techs often replace the compressor or inverter board when the real problem is a loose or failed discharge pipe thermistor. Always check thermistor connections and resistance first.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -81,10 +78,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician immediately if you detect burning smells, the outdoor unit is extremely hot, or the E5 error returns after a single reset. Compressor and refrigerant system diagnostics require specialized tools, gauges, and licensing. Testing compressor windings, inverter boards, and IPM modules involves high-voltage work that poses serious shock and equipment damage risk. Refrigerant recovery, charging, and sealed-system repair are regulated and must be performed by EPA-certified technicians. Do not attempt repeated restarts, as this can destroy the compressor and turn a sensor issue into a multi-thousand-dollar repair.
 
 **Rough cost:** A pro service call runs about $150-450.
-
-## See Also
-
-- [Daikin E04 Error Code - Causes & Fix](/posts/daikin-mini-split-e04-error-code/)
-- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
-- [Daikin A1 Error Code - Causes & Fix](/posts/daikin-mini-split-a1-error-code/)
-- [Daikin E5 Error Code - Causes & Fix](/posts/daikin-heat-pump-e5-error-code/)

@@ -17,8 +17,7 @@ money_part: "Whirlpool oven temperature sensor"
 part_price: "$20-50"
 ---
 
-## Whirlpool Oven F3 E0 Error — What It Means
-
+## What this code means
 The F3 E0 code on a Whirlpool range or oven signals that the electronic control has detected a problem with the oven temperature sensor circuit. This circuit includes the oven temperature sensor itself, the wiring harness that connects the sensor to the control board, and the control board's input circuitry. The control can no longer reliably monitor oven temperature, so it stops heating and displays the fault code.
 
 Whirlpool's official product help identifies three possible points of failure: the oven temperature sensor, the control board, or the wiring between them. The code does not tell you which component has failed, only that the signal path is broken or out of specification. A proper diagnosis requires measuring resistance at the sensor and inspecting the connector and harness for damage.
@@ -26,8 +25,6 @@ Whirlpool's official product help identifies three possible points of failure: t
 ## Before You Replace Anything
 
 Many people replace the control board first because it is expensive and visible, but the sensor and wiring fail far more often. Always test sensor resistance and inspect the harness connector for corrosion or loose pins before buying a new control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

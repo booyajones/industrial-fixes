@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Bosch Oven F31 Error Code — What It Means
-
+## What this code means
 The F31 error code on a Bosch oven indicates an oven temperature sensor failure. The control board cannot get a valid temperature reading from the sensor circuit. This fault prevents the oven from heating properly because the control has no way to monitor and regulate oven temperature.
 
 The fault can originate in the sensor probe itself, the wiring and connector between the sensor and control board, or less commonly in the electronic control board that reads the sensor signal. Until the fault is resolved, the oven will not operate normally.
@@ -26,8 +25,6 @@ The fault can originate in the sensor probe itself, the wiring and connector bet
 ## Before You Replace Anything
 
 Many people replace the electronic control board first. Test the sensor resistance with a multimeter (should read around 1,080 ohms at room temperature) and inspect all wiring before condemning the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

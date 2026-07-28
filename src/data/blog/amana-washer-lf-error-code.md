@@ -21,8 +21,7 @@ part_price: "$30-60"
 no_buy_pct: "65%"
 ---
 
-## Amana LF Error Code — What It Means
-
+## What this code means
 The LF error (also grouped with F8 E1 and Lo FL on Amana washers) means the control is not detecting the correct amount of incoming water. The machine is filling too slowly or failing to reach the required water level within the allowed fill time. This is a water-inlet or fill problem, not a generic electronic fault.
 
 The control sees insufficient incoming water flow and stops the cycle to prevent damage or incomplete washing. The fault usually lies in the external water supply path (valves, hoses, screens) or in the components that deliver and sense water (inlet valve, pressure sensor).
@@ -30,8 +29,6 @@ The control sees insufficient incoming water flow and stops the cycle to prevent
 ## Before You Replace Anything
 
 Many people replace the water inlet valve first when the real problem is a kinked hose or clogged inlet screen. Always check supply valves, hoses, and screens before buying a valve.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

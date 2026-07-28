@@ -16,8 +16,6 @@ tags:
 
 Servo alarms can be intimidating because the motor, encoder, amplifier, mechanics, and control all interact. In practice, most servo faults fall into five groups: overcurrent, encoder feedback, overtravel/position error, overtemperature, and communication faults.
 
-[Jump to Fix](#fix)
-
 ## Common Servo Fault Categories
 
 | Fault Type | Typical Meaning |

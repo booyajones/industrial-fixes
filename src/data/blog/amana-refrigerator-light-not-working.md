@@ -19,8 +19,6 @@ When an Amana refrigerator light does not turn on, you are dealing with an inter
 
 The light should reset and come back on after you close all doors and leave them shut for at least one minute. If the light still does not work after that reset, the problem typically traces to a door switch that is not being pressed by the door, a wiring harness that came loose during moving or door removal, Sabbath mode being enabled, or a failed bulb or LED light assembly.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door left open too long** Amana refrigerators turn off the interior lights after the door has been open for more than 10 minutes, and the lights will not come back on until all doors are closed for at least one minute.
@@ -54,15 +52,15 @@ The light should reset and come back on after you close all doors and leave them
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Amana Refrigerator Ci error code](/posts/amana-refrigerator-ci-error-code/)
-- [Amana Refrigerator D7 error code](/posts/amana-refrigerator-d7-error-code/)
-- [Amana Refrigerator D8 error code](/posts/amana-refrigerator-d8-error-code/)
-- [Amana Refrigerator D9 error code](/posts/amana-refrigerator-d9-error-code/)
-- [Amana Refrigerator Ec40 error code](/posts/amana-refrigerator-ec40-error-code/)
-- [Amana Refrigerator F1 error code](/posts/amana-refrigerator-f1-error-code/)
-- [Amana Refrigerator If error code](/posts/amana-refrigerator-if-error-code/)
-- [Amana Refrigerator It error code](/posts/amana-refrigerator-it-error-code/)
-- [Amana Refrigerator Po error code](/posts/amana-refrigerator-po-error-code/)
+- Amana Refrigerator Ci error code
+- Amana Refrigerator D7 error code
+- Amana Refrigerator D8 error code
+- Amana Refrigerator D9 error code
+- Amana Refrigerator Ec40 error code
+- Amana Refrigerator F1 error code
+- Amana Refrigerator If error code
+- Amana Refrigerator It error code
+- Amana Refrigerator Po error code
 
 ## When to Call a Pro
 

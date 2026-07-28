@@ -17,8 +17,7 @@ money_part: "User interface / control panel assembly"
 part_price: "$80-200"
 ---
 
-## Samsung Dishwasher CE Error Code — What It Means
-
+## What this code means
 The CE code on a Samsung dishwasher signals a communication error between the control panel and the rest of the dishwasher. Samsung describes it as a control panel communication failure, meaning the user interface cannot talk to the main control board. This is an electronics fault, not a problem with water fill, drain, or wash performance. The dishwasher may not start, may stop mid-cycle, or display the code at power-up.
 
 Because CE points to the control system rather than mechanical or hydraulic components, the repair almost always involves the user interface panel, the main control board, or the wiring harness that connects them. A temporary electronic glitch from a power surge can also trigger the code, so a hard reset is the first step before assuming a failed board.
@@ -26,8 +25,6 @@ Because CE points to the control system rather than mechanical or hydraulic comp
 ## Before You Replace Anything
 
 Homeowners often replace the main control board when the user interface panel is the real fault, or vice versa. Power-cycle the dishwasher and inspect the ribbon cable connector between the two boards for looseness or corrosion before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

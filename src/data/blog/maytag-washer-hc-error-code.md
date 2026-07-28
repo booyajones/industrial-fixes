@@ -15,15 +15,12 @@ diy_or_pro: "diy"
 money_part: "Hot and cold fill hoses"
 ---
 
-## Maytag HC Error Code — What It Means
-
+## What this code means
 The HC code on Maytag top-load washers indicates that the hot and cold water inlet hoses are connected to the wrong inlets. Maytag displays this code at the end of the wash cycle when the cold hose is plugged into the hot inlet and the hot hose is plugged into the cold inlet. This is not a sensor failure or control board fault. It is a hose installation error that causes a temperature mismatch during the cycle.
 
 ## Before You Replace Anything
 
 Do not replace the control board or temperature sensor. The HC code is a hose-connection fault, so inspect the inlet hose orientation at the back of the washer before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

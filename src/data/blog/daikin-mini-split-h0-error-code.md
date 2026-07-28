@@ -19,8 +19,7 @@ free_checks:
   - "Inspect outdoor PCB for visible burnt components, cracked solder joints, or loose wires"
 ---
 
-## Daikin H0 Error Code — What It Means
-
+## What this code means
 The H0 error code on a Daikin mini split signals a compressor system sensor abnormality, specifically a fault in the compressor current sensor circuit on the outdoor unit's PCB. This sensor monitors real-time current flow to the compressor. When the signal is out of range or missing, the system halts and displays H0.
 
 This is not a refrigerant issue, a communication error, or a temperature thermistor problem. The fault lies in the electrical circuit that tracks how much current the compressor draws. The outdoor PCB expects a valid signal from the current sensor, and when it does not receive one, it throws H0 to protect the compressor.
@@ -28,8 +27,6 @@ This is not a refrigerant issue, a communication error, or a temperature thermis
 ## Before You Replace Anything
 
 Homeowners sometimes replace the compressor itself when the real culprit is a bad current sensor circuit or a burnt IC on the outdoor PCB. A multimeter voltage check at the sensor output terminals will pinpoint the circuit fault before spending hundreds on a compressor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician if the H0 code returns after a power reset or if you are not comfortable working with high-voltage circuits and PCB-level diagnostics. Compressor current sensor faults require multimeter testing, soldering skills, and a working knowledge of refrigerant systems. If the outdoor PCB needs replacement or if the compressor itself is drawing abnormal current, the job demands refrigerant recovery, electrical safety procedures, and warranty compliance. Attempting PCB repairs without proper training can damage the board further or create a shock hazard.
 
 **Rough cost:** A pro service call runs about $200-500.
-
-## See Also
-
-- [Daikin C4 Error Code - Causes & Fix](/posts/daikin-mini-split-c4-error-code/)
-- [Daikin Aurora Heat Pump Error Codes - Cold Climate Fault Guide](/posts/daikin-aurora-heat-pump-error-codes/)
-- [Daikin Mini Split Ice on Coils - Causes & Fix](/posts/daikin-mini-split-ice-on-coils/)
-- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)

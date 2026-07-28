@@ -13,11 +13,8 @@ money_part: "No hardware typically needed"
 most_likely_cause: "Parameter restore from an incompatible source"
 ---
 
-## Schneider Altivar Fault CFF — What It Means
-
+## What this code means
 Schneider Altivar fault **CFF** (Configuration Fault) indicates an **incorrect configuration** was detected — the drive found a mismatch or incompatibility between the stored configuration data and the drive's current hardware or software. CFF is common on Altivar 12, 21, 31, 61, and 71 series drives and typically appears after a firmware update, parameter restore, or option card change that results in conflicting or incomplete parameter data. The drive refuses to run until the configuration is resolved.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,11 +43,3 @@ Schneider Altivar fault **CFF** (Configuration Fault) indicates an **incorrect c
 ## When to Call a Pro
 
 If CFF persists after a factory reset, the drive's internal parameter EEPROM may be corrupted. Schneider Electric's repair centers can reflash the drive firmware and restore the parameter memory. Contact Schneider service if factory reset doesn't resolve the fault.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

@@ -17,8 +17,6 @@ money_part: "PVC condensate trap"
 
 The Goodman GMSS96 is a 96% AFUE, single-stage, multi-speed gas furnace. It is a high-efficiency upflow/horizontal unit with a PVC flue and condensate drain system. Faults are reported through a diagnostic LED on the integrated furnace control board — flash sequences identify specific fault conditions. The LED is visible through the sight glass on the lower access door.
 
-[Jump to Fix](#fix)
-
 ## Goodman GMSS96 Flash Code Reference
 
 | Flash Code | Meaning |
@@ -69,18 +67,3 @@ The Goodman GMSS96 is a 96% AFUE, single-stage, multi-speed gas furnace. It is a
 ## When to Call a Pro
 
 The GMSS96's secondary heat exchanger system is complex. Condensate-related failures can cascade into board damage if left undiagnosed. If you see repeated Code 4 trips with a clean filter, or if the unit produces a burning smell, call a licensed technician — do not operate the furnace until the secondary heat exchanger is confirmed intact.
-
-## Related Articles
-
-- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
-- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
-- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
-- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
-- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)
-
-## See Also
-
-- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
-- [Goodman Furnace 5 Flash Error Code — Causes & Fix](/posts/goodman-furnace-5-flash-error-code/)
-- [Goodman Heat Pump Error Codes - What It Means and How to Fix It](/posts/goodman-heat-pump-error-codes/)
-- [Goodman Furnace EF Error Code — Invalid Flame Signal](/posts/goodman-furnace-ef-error-code/)

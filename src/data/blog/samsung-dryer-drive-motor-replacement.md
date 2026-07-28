@@ -52,16 +52,16 @@ Motors fail when windings burn out, internal circuits open, or bearings seize fr
 
 If this part is failing you may also see one of these codes:
 
-- [Samsung Dryer Ac error code](/posts/samsung-dryer-ac-error-code/)
-- [Samsung Dryer Ac7 error code](/posts/samsung-dryer-ac7-error-code/)
-- [Samsung Dryer Ae3 error code](/posts/samsung-dryer-ae3-error-code/)
-- [Samsung Dryer Ae4 error code](/posts/samsung-dryer-ae4-error-code/)
-- [Samsung Dryer Ae5 error code](/posts/samsung-dryer-ae5-error-code/)
-- [Samsung Dryer Bc2 error code](/posts/samsung-dryer-bc2-error-code/)
-- [Samsung Dryer Be error code](/posts/samsung-dryer-be-error-code/)
-- [Samsung Dryer Be2 error code](/posts/samsung-dryer-be2-error-code/)
-- [Samsung Dryer C1 error code](/posts/samsung-dryer-c1-error-code/)
-- [Samsung Dryer C2 error code](/posts/samsung-dryer-c2-error-code/)
+- Samsung Dryer Ac error code
+- Samsung Dryer Ac7 error code
+- Samsung Dryer Ae3 error code
+- Samsung Dryer Ae4 error code
+- Samsung Dryer Ae5 error code
+- Samsung Dryer Bc2 error code
+- Samsung Dryer Be error code
+- Samsung Dryer Be2 error code
+- Samsung Dryer C1 error code
+- Samsung Dryer C2 error code
 
 ## When to Call a Pro
 

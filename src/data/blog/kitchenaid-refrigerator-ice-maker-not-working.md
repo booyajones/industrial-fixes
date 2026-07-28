@@ -19,8 +19,6 @@ When your KitchenAid refrigerator ice maker stops working, you are seeing a symp
 
 KitchenAid troubleshooting guidance treats this as a general ice-production problem and directs technicians to verify power and on-off status, water supply, filter condition, freezer temperature, and fill-tube condition before replacing hardware. If your model displays a specific diagnostic code, consult the service documentation for that model to interpret it.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Ice maker turned off or paused** The ice maker may be switched off, paused, or the wire arm may be in the raised position, stopping production entirely.
@@ -54,14 +52,14 @@ KitchenAid troubleshooting guidance treats this as a general ice-production prob
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kitchenaid Refrigerator E0 error code](/posts/kitchenaid-refrigerator-e0-error-code/)
-- [Kitchenaid Refrigerator E1 error code](/posts/kitchenaid-refrigerator-e1-error-code/)
-- [Kitchenaid Refrigerator E2 error code](/posts/kitchenaid-refrigerator-e2-error-code/)
-- [Kitchenaid Refrigerator E3 error code](/posts/kitchenaid-refrigerator-e3-error-code/)
-- [Kitchenaid Refrigerator E4 error code](/posts/kitchenaid-refrigerator-e4-error-code/)
-- [Kitchenaid Refrigerator E5 error code](/posts/kitchenaid-refrigerator-e5-error-code/)
-- [Kitchenaid Refrigerator E6 error code](/posts/kitchenaid-refrigerator-e6-error-code/)
-- [Kitchenaid Refrigerator Er error code](/posts/kitchenaid-refrigerator-er-error-code/)
+- Kitchenaid Refrigerator E0 error code
+- Kitchenaid Refrigerator E1 error code
+- Kitchenaid Refrigerator E2 error code
+- Kitchenaid Refrigerator E3 error code
+- Kitchenaid Refrigerator E4 error code
+- Kitchenaid Refrigerator E5 error code
+- Kitchenaid Refrigerator E6 error code
+- Kitchenaid Refrigerator Er error code
 
 ## When to Call a Pro
 

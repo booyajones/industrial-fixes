@@ -17,8 +17,7 @@ free_checks:
   - "Consult the Yaskawa GA800 Technical Manual fault code table to confirm the code exists for this model"
 ---
 
-## Yaskawa GA800 F048 Fault — What It Means
-
+## What this code means
 The fault code F048 does not appear in Yaskawa GA800 documentation. Yaskawa GA800 drives use a different fault code format, typically F followed by three digits (such as F002, F005, F100, F200) or alphanumeric codes like bUS, OV, or SC. The code F048 is associated with Allen Bradley PowerFlex 525 drives, where it indicates heatsink overtemperature or defaulted parameters, not Yaskawa equipment.
 
 If you see what appears to be F048 on a GA800 keypad, you may have misread the display or the drive may be showing a different fault. Re-check the keypad carefully and note the exact characters shown. Consult the Yaskawa GA800 Technical Manual (SIEP-C series) for the correct fault definition and troubleshooting steps. If the fault persists or is unclear, contact Yaskawa Technical Support at 1.847.887.7457 (Option 2, then Option 1) with your model number, serial number, and the exact fault code displayed.
@@ -26,8 +25,6 @@ If you see what appears to be F048 on a GA800 keypad, you may have misread the d
 ## Before You Replace Anything
 
 Technicians sometimes replace the main control board when the fault code is simply misread or belongs to a different drive brand. Always verify the exact fault code on the keypad and cross-reference it in the official Yaskawa GA800 manual before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

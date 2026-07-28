@@ -19,8 +19,6 @@ When a Samsung mini split does not respond to the remote, it means the indoor un
 
 If the indoor display shows error code E101 or C101, Samsung identifies that as an indoor unit communication error between components. If no information code appears on the display, Samsung recommends checking the air filter and performing a power reset before moving to internal diagnosis.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dead or weak remote batteries** The most common reason is that the batteries in the remote control have lost charge or are installed incorrectly.
@@ -54,10 +52,10 @@ If the indoor display shows error code E101 or C101, Samsung identifies that as 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Samsung Mini Split E1 01 error code](/posts/samsung-mini-split-e1-01-error-code/)
-- [Samsung Mini Split E3 01 error code](/posts/samsung-mini-split-e3-01-error-code/)
-- [Samsung Mini Split E4 01 error code](/posts/samsung-mini-split-e4-01-error-code/)
-- [Samsung Mini Split E5 01 error code](/posts/samsung-mini-split-e5-01-error-code/)
+- Samsung Mini Split E1 01 error code
+- Samsung Mini Split E3 01 error code
+- Samsung Mini Split E4 01 error code
+- Samsung Mini Split E5 01 error code
 
 ## When to Call a Pro
 

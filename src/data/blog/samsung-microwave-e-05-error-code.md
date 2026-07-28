@@ -17,15 +17,12 @@ money_part: "Main control board (PCB assembly)"
 part_price: "$80-180"
 ---
 
-## Samsung Microwave E-05 Error — What It Means
-
+## What this code means
 Samsung publishes the E-05 code as **Cooking Time Setting Over Error (Combination)**. This is an input or programming fault, not a cooking fault. The microwave has detected that a combination-mode cook time entered exceeds the allowed range for that mode. Samsung advises a power reset first. If the code returns, the manufacturer directs you to contact service. Do not confuse E-05 with SE or 5E codes, which are unrelated.
 
 ## Before You Replace Anything
 
 Many users assume the magnetron or high-voltage parts have failed. E-05 is a programming fault, not a cooking fault, so test the keypad and power-cycle first before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,11 +13,8 @@ money_part: "18 AWG 3-conductor cable"
 most_likely_cause: "Miswired or disconnected communication terminal"
 ---
 
-## Senville Mini Split E1 Error Code — What It Means
-
+## What this code means
 E1 on a Senville mini split indicates a communication fault between the indoor and outdoor units. The indoor control board is not receiving a valid signal from the outdoor PCB over the communication wire. Senville units (which share a platform with several OEM brands) rely on this serial data link for compressor speed control, protection coordination, and operating mode synchronization. Without communication, the system will not run.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,11 +43,3 @@ E1 on a Senville mini split indicates a communication fault between the indoor a
 ## When to Call a Pro
 
 If the signal wire is intact and power is confirmed at both units but E1 persists, both PCBs should be tested. This requires a technician familiar with mini split diagnostics to determine which board has failed.
-
-## Related Articles
-
-- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
-- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
-- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
-- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
-- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)

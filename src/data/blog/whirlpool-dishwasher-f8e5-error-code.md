@@ -22,8 +22,7 @@ part_price: "$40-75"
 no_buy_pct: "35%"
 ---
 
-## Whirlpool F8E5 Dishwasher Error — What It Means
-
+## What this code means
 The F8E5 code on a Whirlpool dishwasher signals an overfill or flood condition. The machine has detected water at a level high enough to trigger the float or flood protection system. When this happens, Whirlpool says the unit will begin a drain sequence and prevent normal operation until the condition is cleared.
 
 This is a safety response. The code does not tell you the exact source of the water, only that the dishwasher's overflow protection has been activated. The water may have come from a stuck inlet valve, a leak into the base pan, or a faulty flood sensor reporting a problem that does not actually exist.
@@ -31,8 +30,6 @@ This is a safety response. The code does not tell you the exact source of the wa
 ## Before You Replace Anything
 
 Many people replace the control board first, thinking the code means an electronic fault. Check the inlet valve for mechanical leakage and inspect the base pan for water before ordering any electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

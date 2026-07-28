@@ -20,8 +20,6 @@ The clicking sound means your spark igniter is working and trying to start the b
 
 For the oven bake burner, the most common scenario is a weak igniter that glows orange or white for a long time but never opens the gas safety valve. The igniter needs to draw enough current to prove it is hot before the valve releases gas. If it cannot pull that current, you get a glow and a click but no flame.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Weak or failed bake igniter** The igniter glows but does not draw the roughly 3 amps needed to open the gas safety valve, so the burner never lights even after 90+ seconds.
@@ -71,10 +69,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a pro if you are not comfortable working with gas connections or if basic cleaning and a circuit reset do not solve the problem. Replacing an oven igniter requires pulling the range out, accessing the burner box, disconnecting the old igniter, and confirming that the new part draws correct current before reassembly. If a new igniter still does not light the oven, a technician will need to test the gas valve, safety valve, and control board output to find the fault. Any work that involves disconnecting gas lines or testing live high-voltage spark circuits is best left to a qualified appliance technician. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [LG Mini Split Not Cooling - Causes & Fix](/posts/lg-mini-split-not-cooling/)
-- [LG Dishwasher Door Gasket Replacement - Signs & How-To](/posts/lg-dishwasher-door-gasket-tub-seal-replacement/)
-- [LG Mini Split CH60 Error - Causes & Fix](/posts/lg-mini-split-ch60-error-code/)
-- [LG Dryer Shuts Off Early - Causes & Fix](/posts/lg-dryer-shuts-off-early/)

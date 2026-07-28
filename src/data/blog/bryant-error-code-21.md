@@ -104,6 +104,6 @@ Two possibilities: cold start gas pressure is marginal (the regulator can't keep
 
 ## Related guides
 
-- [Carrier 33 Error Code — Limit Circuit Fault Fix](/posts/carrier-33-error-code)
+- Carrier 33 Error Code — Limit Circuit Fault Fix
 - [Bryant Error Code 13 — Limit Lockout Fix](/posts/bryant-error-code-13)
 - [Payne Error Code 31 — Pressure Switch Fix](/posts/payne-error-code-31)

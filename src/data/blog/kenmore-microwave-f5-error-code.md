@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Microwave F5 Error Code — What It Means
-
+## What this code means
 The F5 error code on a Kenmore microwave indicates a failure of the door switch (door interlock) or the door switch circuit. The microwave's control board detects that the door is not properly closed, has become open during operation, or that the signal from the door switch is inconsistent or missing. The appliance will immediately stop heating and will not resume operation until the door switch circuit is verified as closed (door secured).
 
 This code is specifically reserved for the door switch system in Kenmore units. It is not related to the humidity sensor (which typically triggers F2 or F3 codes in Kenmore and GE commercial-style microwaves). The F5 code means the safety interlock system cannot confirm that the door is securely latched.
@@ -26,8 +25,6 @@ This code is specifically reserved for the door switch system in Kenmore units. 
 ## Before You Replace Anything
 
 Many homeowners replace the main control board first, assuming it is defective. Test the door switch for continuity with a multimeter before spending on a board. A failed switch costs under $20, while a control board runs over $100.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

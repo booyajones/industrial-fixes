@@ -13,11 +13,8 @@ money_part: "4th axis encoder/resolver"
 most_likely_cause: "Mechanical binding or overload on the 4th axis"
 ---
 
-## Fanuc Alarm 437 — What It Means
-
+## What this code means
 Alarm 437 on a Fanuc CNC system is a 4th axis (typically the A or B rotary axis) servo following error — the difference between the commanded position and the actual encoder position has exceeded the allowable following error tolerance. Fanuc generates following error alarms in a series: alarm 400 series indicates servo following errors by axis (e.g., 435 = X axis, 436 = Y axis, 437 = 4th axis). The CNC immediately stops all motion and requires a manual reset. Alarm 437 is most common on horizontal machining centers with a rotary pallet table or on 5-axis machines with a rotary A-axis.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Alarm 437 on a Fanuc CNC system is a 4th axis (typically the A or B rotary axis)
 ## When to Call a Pro
 
 Alarm 437 on a 5-axis machine or a large rotary pallet table requires a Fanuc-certified CNC technician to perform servo tuning and parameter verification. Incorrect following error tolerance or servo gain settings can cause poor part quality or repeated crashes.
-
-## Related Articles
-
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
-- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
-- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
-
-## See Also
-
-- [Fanuc vs Mazak CNC Controls — A Machinist's Honest Comparison (2026)](/posts/fanuc-vs-mazak-cnc-controls/)
-- [Fanuc M-Series Control Alarm Codes: Complete Guide](/posts/fanuc-m-series-alarm-codes/)
-- [Fanuc Alarm 700 Spindle Overheat — Detailed Fix Guide](/posts/fanuc-alarm-700-spindle/)
-- [Fanuc Alarm 300: APC Battery Low — Absolute Encoder Battery Fix](/posts/fanuc-alarm-300-apc-battery/)

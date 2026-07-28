@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "75%"
 ---
 
-## Yaskawa GA800 F002 Fault — What It Means
-
+## What this code means
 The F002 fault code on the Yaskawa GA800 variable frequency drive indicates **Input Phase Loss**. The drive has detected that one or more phases of the incoming AC power supply are absent, or that the voltage between phases is unbalanced beyond the allowable threshold. This occurs when the input power voltage is changing too much, a phase is physically lost, or wiring at the input terminals (L1, L2, or L3) is loose or disconnected.
 
 The drive's internal monitoring circuit continuously checks the three-phase input power. When it sees a missing phase or an imbalance (typically greater than 10% difference between phases), it shuts down to protect itself and the connected motor. The fault can be intermittent if a connection is loose or if external power supply components are failing.
@@ -29,8 +28,6 @@ The drive's internal monitoring circuit continuously checks the three-phase inpu
 ## Before You Replace Anything
 
 Technicians sometimes replace the drive itself when the actual problem is a blown fuse or faulty contactor on the input side. Always measure input voltage and check external power components before condemning the VFD.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

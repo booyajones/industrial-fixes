@@ -19,8 +19,6 @@ When an LG refrigerator runs too warm, it is typically not a sealed-system failu
 
 The fresh-food compartment depends on cold air flowing from the freezer evaporator through vents. When frost builds up on the evaporator or the evaporator fan stops running, that airflow is blocked and the fridge warms up even though the freezer may still feel cold. Defrost system failures, door seal problems, and fan or sensor faults are the most common causes of this pattern.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed defrost heater or open heater circuit** The defrost heater melts frost off the evaporator coils, and when it fails or loses continuity the coils ice over and block airflow to the fresh-food section.
@@ -71,10 +69,3 @@ Seeing a code on the display? These match this problem:
 ## When to Call a Pro
 
 Call a professional if you are not comfortable working with live voltage, removing interior panels, or testing electrical components with a multimeter. Technicians have model-specific wiring diagrams, resistance specifications, and board-level diagnostic tools that speed up accurate fault isolation. If the problem returns after a manual defrost or if multiple components test faulty, a qualified service visit will save time and prevent misdiagnosis.
-
-## See Also
-
-- [LG Dishwasher HE Error Code - Causes & Fix](/posts/lg-dishwasher-he-error-code/)
-- [LG Refrigerator Door Gasket Replacement - Signs & How-To](/posts/lg-refrigerator-door-gasket-door-seal-replacement/)
-- [LG Dishwasher Smells Bad - Causes & Fix](/posts/lg-dishwasher-smells-bad/)
-- [LG Dryer Takes Too Long to Dry - Causes & Fix](/posts/lg-dryer-takes-too-long-to-dry/)

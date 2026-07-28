@@ -13,11 +13,8 @@ money_part: "Input fuses"
 most_likely_cause: "Open fuse or tripped breaker on one input phase"
 ---
 
-## Lenze VFD Fault LP — What It Means
-
+## What this code means
 Lenze fault **LP** (Phase Loss) indicates the drive detected a missing or severely unbalanced input phase on its 3-phase AC supply. On Lenze 8200, 9300, and i550 series drives, the rectifier monitors all three input phases (L1, L2, L3); if one phase is absent or drops significantly below the others, LP is triggered and the drive shuts down to prevent DC bus ripple damage and overloading the remaining input phases. Single-phase operation of a 3-phase drive can destroy the rectifier diodes within minutes.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,11 +41,3 @@ Lenze fault **LP** (Phase Loss) indicates the drive detected a missing or severe
 ## When to Call a Pro
 
 If all three input phases measure correctly at the drive terminals but LP persists, the drive's rectifier or input phase loss detection circuit may have failed. Lenze rectifier replacement requires drive board disassembly — contact a Lenze service center or certified integrator.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

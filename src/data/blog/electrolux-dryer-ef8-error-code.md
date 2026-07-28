@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Electrolux Dryer EF8 Error Code — What It Means
-
+## What this code means
 EF8 on an Electrolux dryer signals that the control is detecting a stuck key or stuck button on the user interface keypad. The dryer sees one button as continuously pressed, even when you are not touching it. This fault can be caused by a button that is physically binding in the panel, debris or moisture under the keypad, or a failed user interface board that is sending a false pressed signal to the main control.
 
 Electrolux's own error code documentation lists EF8 as a dryer fault related to the user interface, and independent repair references identify it specifically as a stuck-key condition. The code will remain active and may prevent normal operation until the stuck input is cleared or the faulty UI component is replaced.
@@ -26,8 +25,6 @@ Electrolux's own error code documentation lists EF8 as a dryer fault related to 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when EF8 appears, but the fault almost always lies in the user interface panel itself. Inspect and test every button for binding or sticking before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

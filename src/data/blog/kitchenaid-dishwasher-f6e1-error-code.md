@@ -21,15 +21,12 @@ part_price: "$25-60"
 no_buy_pct: "40%"
 ---
 
-## KitchenAid Dishwasher F6E1 — What It Means
-
+## What this code means
 KitchenAid identifies F6E1 as a start/resume failure condition. If a cycle was already running when the fault occurred, the dishwasher continues to the end of that cycle, but a new cycle cannot be started. The code appears on the display and locks out further operation until the underlying fault is cleared. The manufacturer's guidance does not classify this as a fill or drain error, but rather a control or door-related start lockout.
 
 ## Before You Replace Anything
 
 Many people replace the main control board first. Check the door latch for proper engagement and inspect wiring connectors between the latch and control before replacing any electronic module.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

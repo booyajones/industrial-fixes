@@ -17,8 +17,7 @@ free_checks:
   - "Check that the boiler circuit breaker is fully on and that the display shows steady power, not flickering."
 ---
 
-## Weil-McLain Boiler A64 Error — What It Means
-
+## What this code means
 Weil-McLain boilers with Aqua Balance or similar digital controls display numeric and alphanumeric error codes on the status panel. The exact meaning of an A64 code depends on your boiler model and control family. Weil-McLain's own technical documentation confirms that error numbers are listed in each model-specific service manual, but the A64 definition is not shown in the general-purpose materials available here.
 
 Because Weil-McLain produces many boiler lines (Ultra, Gold, GV, EG, Eco-Tec, Aqua Plus, and others) with different control platforms, the same code number can point to different faults on different models. To identify the exact fault, locate the boiler model number and serial or CP number on the rating plate, then consult the installation and service manual shipped with your unit or download it from Weil-McLain's website. If the manual is not available, contact Weil-McLain technical support or a qualified boiler technician with your model and serial information.
@@ -26,8 +25,6 @@ Because Weil-McLain produces many boiler lines (Ultra, Gold, GV, EG, Eco-Tec, Aq
 ## Before You Replace Anything
 
 Without knowing the exact A64 definition for your model, do not replace the control board or ignition module first. Check the boiler manual to map the code to the correct sensor, switch, or limit, then test that component before ordering any part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you cannot locate the model-specific manual, if the A64 definition requires testing gas pressure or combustion settings, or if the code persists after you have verified wiring and sensor resistance. Gas-fired boiler diagnostics involve checking inlet gas pressure, burner flame signal, and venting, all of which require calibrated instruments and knowledge of local codes. A technician will also have access to Weil-McLain's service bulletins and can contact the factory on your behalf if the fault is unusual or the control needs a firmware update. Do not bypass any safety limit or operate the boiler with an active fault code.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain Boiler A24 Error - Causes & Fix](/posts/weil-mclain-boiler-a24-error-code/)
-- [Weil-McLain A140 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a140-error-code/)
-- [Weil-McLain A32 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a32-error-code/)
-- [Weil-McLain A35 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a35-error-code/)

@@ -15,8 +15,7 @@ diy_or_pro: "diy"
 money_part: "Inlet hose set (if hoses are damaged or need replacement)"
 ---
 
-## Whirlpool HC Error Code — What It Means
-
+## What this code means
 The HC code on Whirlpool washers stands for hot and cold hoses reversed. The washer has detected that the inlet hoses were installed incorrectly, with the cold water supply connected to the hot inlet valve and the hot supply connected to the cold inlet valve. The code typically appears at the end of a wash cycle.
 
 This is not a component failure. It is an installation or plumbing issue, usually occurring after the washer has been moved or newly installed. The machine's temperature sensors flag the reversal when the incoming water does not match the expected temperature for each fill cycle.
@@ -24,8 +23,6 @@ This is not a component failure. It is an installation or plumbing issue, usuall
 ## Before You Replace Anything
 
 Homeowners sometimes suspect a failed inlet valve or temperature sensor, but HC is almost always a simple hose reversal that requires no parts, just reattaching hoses correctly.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

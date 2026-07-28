@@ -17,8 +17,7 @@ free_checks:
   - "Power-cycle the boiler by turning off the burner switch for 30 seconds, then back on, and see if the display changes"
 ---
 
-## Weil-McLain Boiler A78 Error — What It Means
-
+## What this code means
 An A78 code does not appear in verified Weil-McLain manufacturer documentation for any current boiler model. Weil-McLain uses model-specific fault codes displayed on the boiler control, and the exact meaning depends on your boiler model and control type. The code you see may be a parameter menu item, a display segment test pattern, or a transcription error from another code (such as a lockout or diagnostic history number).
 
 Because Weil-McLain directs service technicians to retrieve fault history from the control's Diagnostics or Errors menu and then match the code to the model-specific manual, you should first locate your boiler's model number (typically on the rating plate) and consult the installation and service manual for that model. If A78 does appear on your display, record any other codes or blinking lights and call a qualified heating professional for proper diagnostics.
@@ -26,8 +25,6 @@ Because Weil-McLain directs service technicians to retrieve fault history from t
 ## Before You Replace Anything
 
 Many homeowners replace ignition controls or flame sensors when they see an unfamiliar code, but unverified codes often point to wiring issues, incorrect control settings, or display errors. Always pull the stored fault history from the control menu and cross-reference the model manual before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a licensed heating professional immediately if your boiler is locked out and not providing heat, if you see multiple fault codes or blinking lights, or if you cannot locate A78 in your model's service manual. Boiler diagnostics involve live gas piping, high-voltage ignition circuits, and pressure-vessel safety interlocks that require proper training and licensing. A qualified technician will retrieve the full fault history from the control, verify gas pressure and flame-sensor readings, and follow the manufacturer's troubleshooting flowchart for your specific model. Do not bypass safety lockouts or replace parts without confirming the exact fault code, as Weil-McLain warranty claims require documentation of the failed part and the code that triggered the failure.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Weil-McLain A157 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a157-error-code/)
-- [Weil-McLain A161 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a161-error-code/)
-- [Weil-McLain A86 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a86-error-code/)
-- [Weil-McLain Boiler A23 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a23-error-code/)

@@ -17,15 +17,12 @@ money_part: "Main electronic control board"
 part_price: "$80-200"
 ---
 
-## Maytag Dryer F25 Error Code — What It Means
-
+## What this code means
 The F25 code on a Maytag dryer signals a drum speed or tachometer feedback fault. The control board is not receiving the expected motor speed signal, so it cannot verify or control drum rotation properly. This is a control and feedback problem, not a heater or thermal issue. In service terms, the fault usually lies in the drive motor, the tachometer circuit, the wiring harness and connectors, or the main control board itself.
 
 ## Before You Replace Anything
 
 Many people replace the main control board first. Before ordering a board, inspect every connector and terminal in the motor harness and test the motor tachometer signal to confirm the board is actually receiving valid feedback.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -20,8 +20,6 @@ When your LG oven heats too hot, the temperature inside is climbing beyond your 
 
 The result is burnt food, smoke, or an error message that stops the cycle. The oven may also fail to hold steady temperature or overshoot during preheat. This is separate from self-clean mode, which intentionally runs very hot.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed temperature sensor or thermistor** The sensor is reading out of range or has drifted, so the control board cannot tell when to cut power to the heating element.
@@ -68,10 +66,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a technician if you are not comfortable working inside a 240-volt electric range, if you cannot access the sensor or control board safely, or if the oven continues to overheat after you have replaced the sensor and verified all wiring. A pro can also perform live voltage checks at the heating element and board to isolate a stuck relay or board fault. For gas ranges, any work involving the gas valve, burner, or igniter system should be handled by a qualified service tech. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [LG Dishwasher LE Error Code - Causes & Fix](/posts/lg-dishwasher-le-error-code/)
-- [LG Microwave F-5 Error Code - Causes & Fix](/posts/lg-microwave-f-5-error-code/)
-- [LG Mini Split Making Noise - Causes & Fix](/posts/lg-mini-split-making-noise/)
-- [LG Oven F1 Error Code - Causes & Fix](/posts/lg-oven-f1-error-code/)

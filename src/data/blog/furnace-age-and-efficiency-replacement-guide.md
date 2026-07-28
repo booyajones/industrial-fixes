@@ -204,10 +204,3 @@ You should call an HVAC contractor in these situations:
 - Read and decode the serial number
 
 ---
-
-## Related Articles
-
-- [Furnace Repair or Replace?](/posts/furnace-repair-or-replace/)
-- [Furnace Error Code Lookup](/posts/furnace-error-code-lookup/)
-- [Furnace Blowing Cold Air?](/posts/furnace-blowing-cold-air/)
-- [Best Furnace Igniter Replacement Guide](/posts/best-furnace-igniter-replacement/)

@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Dishwasher F10E5 Error Code — What It Means
-
+## What this code means
 F10E5 is Amana's error code for a cycle-end fault. When the code appears, the dishwasher finishes draining and then displays the error on the console. Amana groups F10E5 and FAE5 together in their consumer help pages and does not publish a detailed public fault definition beyond this symptom behavior.
 
 Because Amana does not identify a single component in the public documentation, recurring F10E5 is typically treated as a service fault in the control, communication, or input path rather than a simple user-reset condition. The error usually points to a failure in the main control board, user interface, door latch or door-switch input, wiring harness, or a model-dependent sensor affecting cycle completion logic.
@@ -26,8 +25,6 @@ Because Amana does not identify a single component in the public documentation, 
 ## Before You Replace Anything
 
 Many homeowners replace the main control board first. Always inspect the door latch, door switch, and all wiring connectors for looseness or corrosion before ordering a new control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

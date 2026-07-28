@@ -17,8 +17,7 @@ money_part: "ERC/EOC control board (Electronic Oven Control)"
 part_price: "$100-250"
 ---
 
-## GE Oven F5 Error Code — What It Means
-
+## What this code means
 The F5 code on a GE oven indicates a problem in the supervisory control circuit, with the Electronic Range Control or Electronic Oven Control (ERC/EOC) board as the primary suspect. The control board has detected an internal logic fault or a problem in the circuits it monitors. This is not a temperature-sensor code in GE's diagnostic system, though sensor wiring or sensor faults can sometimes mislead the control and contribute to the problem.
 
 The fault typically appears during preheat or normal operation and may lock out the oven. The code points to the control board itself or related wiring and connectors in the control circuit, rather than pointing to a specific heating element or sensor as the direct cause.
@@ -26,8 +25,6 @@ The fault typically appears during preheat or normal operation and may lock out 
 ## Before You Replace Anything
 
 Homeowners often replace the oven temperature sensor first, assuming F5 is a sensor code. Check the sensor resistance with a multimeter (field rule of thumb is 1,000 to 1,100 ohms at room temperature) and inspect all harness connectors before ordering the sensor, because the control board is the usual culprit in GE F5 cases.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

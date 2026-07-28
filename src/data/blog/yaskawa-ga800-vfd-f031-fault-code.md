@@ -20,15 +20,12 @@ free_checks:
 part_price: "$150-400"
 ---
 
-## Yaskawa GA800 F031 Fault — What It Means
-
+## What this code means
 F031 does not appear in any Yaskawa GA800 technical manual or official fault code list. The GA800 uses Fxxx format codes (F001, F002, F012, F030, etc.), but F031 is not recognized. The most likely explanation is a misread display or typo. If the code is actually F030, that indicates a bUS Option Communication Error, meaning the drive cannot communicate with an installed option card (such as Ethernet bX, Profibus bP, or other fieldbus module). If the display truly shows F031, consult the drive nameplate and verify the exact model number, as the code may be specific to a variant not covered in standard documentation or the display may be showing two separate diagnostic codes.
 
 ## Before You Replace Anything
 
 Technicians sometimes replace the main control board assuming a system fault when the actual problem is a poorly seated or oxidized option card connector. Reseat the card and inspect cable terminations before ordering any circuit board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

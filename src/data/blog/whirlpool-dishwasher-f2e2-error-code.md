@@ -17,8 +17,7 @@ money_part: "User interface console or touchpad assembly"
 part_price: "$80-180"
 ---
 
-## Whirlpool Dishwasher F2E2 Error Code — What It Means
-
+## What this code means
 The F2E2 code on a Whirlpool dishwasher indicates a user interface or keypad communication fault. The main control board is not receiving the expected signal from the UI or touchpad assembly. When this happens, the dishwasher may beep repeatedly and become completely inoperable because the control cannot read button inputs or display status.
 
 This is an electronic communication problem rather than a water or mechanical fault. It points to the UI console circuit itself, the ribbon cable or harness connecting the door console to the main control board, or the control board's UI supply and communication path. Whirlpool's own product help page treats F2E2 primarily as a panel fault and recommends a reset procedure first.
@@ -26,8 +25,6 @@ This is an electronic communication problem rather than a water or mechanical fa
 ## Before You Replace Anything
 
 Many people replace the main control board first when the real problem is a loose or corroded ribbon-cable connector at the door console. Always inspect and reseat the UI-to-board harness and check for moisture or pin damage before replacing any boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

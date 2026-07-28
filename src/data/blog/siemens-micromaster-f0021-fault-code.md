@@ -13,13 +13,10 @@ money_part: "Motor output cable (3-conductor shielded VFD-rated)"
 most_likely_cause: "Motor cable insulation damage"
 ---
 
-## Siemens Micromaster F0021 — What It Means
-
+## What this code means
 F0021 on a Siemens Micromaster 440 is an earth fault. The drive has detected leakage current flowing to ground instead of staying within the motor windings. Siemens triggers this fault when the sum of the phase currents exceeds 5% of the inverter's nominal current, and it applies to framesizes D to F with three current sensors.
 
 In practical terms, the drive is seeing current imbalance consistent with a path from one or more output phases to earth or ground rather than only through the motor. This usually points to insulation breakdown or physical damage somewhere between the drive output terminals and the motor frame.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ In practical terms, the drive is seeing current imbalance consistent with a path
 ## When to Call a Pro
 
 Call a qualified electrician or drive technician if you are not trained in lockout/tagout, high-voltage insulation testing, or VFD diagnostics. If your insulation tests are inconclusive, the fault reappears after replacing cable or motor, or the drive itself shows the fault with all output wiring disconnected, you need professional diagnosis. Misdiagnosing an earth fault can damage the new drive or motor, and working on energized VFD circuits without proper PPE and meters is dangerous.
-
-## See Also
-
-- [Siemens Micromaster F0070 - Causes & Fix](/posts/siemens-micromaster-f0070-fault-code/)
-- [Siemens Micromaster F0002 - Causes & Fix](/posts/siemens-micromaster-vfd-f0002-fault-code/)
-- [Siemens G120 A01590 Alarm - Causes & Fix](/posts/siemens-g120-vfd-a01590-fault-code/)
-- [Siemens Micromaster F0012 - Causes & Fix](/posts/siemens-micromaster-vfd-f0012-fault-code/)

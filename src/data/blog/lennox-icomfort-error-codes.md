@@ -12,13 +12,10 @@ tags:
 description: "Lennox iComfort EFO (Excessive Flame Out) error code explained — causes, step-by-step diagnosis, and fixes for EFO and other common iComfort alert codes."
 ---
 
-## Lennox iComfort EFO Error Code — What It Means
-
+## What this code means
 The **EFO (Excessive Flame Out)** alert on a Lennox iComfort S30 or M30 communicating thermostat means the furnace burner lit successfully but lost flame unexpectedly — and this has happened multiple times in a short window. The iComfort system tracks how many times the burner lights and then goes out abnormally. When that count exceeds the threshold (typically 5 flame-out events within a set period), the system escalates from a routine lockout to an EFO alert and shuts down for safety.
 
 EFO is distinct from a simple ignition failure (where the burner never lights). With EFO, the burner does light — but something is snuffing it out before the call for heat is satisfied. That intermittent nature is what makes EFO harder to diagnose than a hard no-light condition.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -67,18 +64,3 @@ EFO is distinct from a simple ignition failure (where the burner never lights). 
 ## When to Call a Technician
 
 If cleaning the flame sensor doesn't resolve EFO within 1–2 heating cycles, call a Lennox-certified HVAC technician. Gas pressure measurement requires a manometer and knowledge of the gas train components. A cracked heat exchanger is a carbon monoxide hazard and must be inspected — and the furnace taken out of service — by a licensed professional. Do not continue operating a furnace with confirmed EFO that doesn't respond to the flame sensor cleaning step.
-
-## Related Articles
-
-- [Lennox iComfort Error Code 225 — Communication Fault Fix](/posts/lennox-icomfort-error-code-225/)
-- [Lennox iComfort Error Code 31 — Causes & Fix](/posts/lennox-icomfort-error-code-31/)
-- [Lennox Elite Series Furnace Error Codes — Complete Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox Error Code 412 — Inducer Fault Fix](/posts/lennox-error-code-412-inducer/)
-- [Lennox Error Code 414 — Gas Valve Circuit Fault Fix](/posts/lennox-error-code-414-gas-valve-circuit-fault/)
-
-## See Also
-
-- [Lennox Error Code 540 — Communicating System Fault (Detailed Guide)](/posts/lennox-error-code-540-communicating/)
-- [Lennox XP20 Heat Pump Error Codes - Full iComfort Fault Reference](/posts/lennox-xp20-heat-pump-error-codes/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Error Code 540 — Causes & Fix](/posts/lennox-error-code-540/)

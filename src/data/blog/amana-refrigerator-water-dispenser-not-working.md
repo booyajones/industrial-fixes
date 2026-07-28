@@ -19,8 +19,6 @@ Amana does not assign a specific error code to a non-working water dispenser. In
 
 The issue typically traces to one of the basic water-delivery components: filter, supply valve, tubing, inlet valve, or dispenser switch. On some models, a frozen water line in the door or a frozen internal reservoir can also block flow.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Water filter installed incorrectly or clogged** The filter may not be fully locked into its housing, or it has reached capacity and is blocking water flow.
@@ -55,15 +53,15 @@ The issue typically traces to one of the basic water-delivery components: filter
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Amana Refrigerator Ci error code](/posts/amana-refrigerator-ci-error-code/)
-- [Amana Refrigerator D7 error code](/posts/amana-refrigerator-d7-error-code/)
-- [Amana Refrigerator D8 error code](/posts/amana-refrigerator-d8-error-code/)
-- [Amana Refrigerator D9 error code](/posts/amana-refrigerator-d9-error-code/)
-- [Amana Refrigerator Ec40 error code](/posts/amana-refrigerator-ec40-error-code/)
-- [Amana Refrigerator F1 error code](/posts/amana-refrigerator-f1-error-code/)
-- [Amana Refrigerator If error code](/posts/amana-refrigerator-if-error-code/)
-- [Amana Refrigerator It error code](/posts/amana-refrigerator-it-error-code/)
-- [Amana Refrigerator Po error code](/posts/amana-refrigerator-po-error-code/)
+- Amana Refrigerator Ci error code
+- Amana Refrigerator D7 error code
+- Amana Refrigerator D8 error code
+- Amana Refrigerator D9 error code
+- Amana Refrigerator Ec40 error code
+- Amana Refrigerator F1 error code
+- Amana Refrigerator If error code
+- Amana Refrigerator It error code
+- Amana Refrigerator Po error code
 
 ## When to Call a Pro
 

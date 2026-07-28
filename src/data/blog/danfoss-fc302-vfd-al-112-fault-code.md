@@ -17,8 +17,7 @@ free_checks:
   - "Check all option card and control wiring connections for loose or corroded terminals"
 ---
 
-## Danfoss FC302 AL-112 — What It Means
-
+## What this code means
 The FC302 variable frequency drive uses alarm codes numbered 1 through 99 and beyond, displayed in the format "Alarm X" on the LCP (local control panel). AL-112 does not appear in the official Danfoss documentation for this drive series. You may be misreading the display or encountering a custom firmware code. Danfoss alarm codes are listed in the operating instructions manual under section 6.1 (Table 6.1 for Alarm 38 sub-codes) and section 9.4. Common alarms include Alarm 11 (motor overload), Alarm 12 (overtemperature), and Alarm 38 (internal fault with a two-digit sub-code).
 
 Before attempting any repair, power-cycle the drive and confirm the exact code shown on the display. Write down the full alarm number and any sub-code. If the code persists, cross-reference it against the official VLT AutomationDrive FC 302 Operating Instructions. If you have Alarm 38, note the sub-code (e.g. 38-01, 38-12) because it indicates the specific internal failure. Without the correct code, you cannot identify the fault or order the right part.
@@ -26,8 +25,6 @@ Before attempting any repair, power-cycle the drive and confirm the exact code s
 ## Before You Replace Anything
 
 Do not replace the control card or inverter board until you verify the exact alarm number. Many Danfoss codes clear after a parameter reset or power cycle, saving hundreds in unnecessary parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or electrician if you cannot locate the exact alarm code in the manual, if the alarm is Alarm 38 (internal fault), or if you lack the tools and training to work safely inside the drive cabinet. High DC-link voltages (up to 800 VDC) remain present for minutes after AC power is removed, and incorrect diagnostics can destroy expensive power modules. A technician will use oscilloscope and multimeter tests to pinpoint the failed component, verify parameter settings, and flash firmware if needed. Professional diagnostics and repair typically cost between two hundred and six hundred dollars, depending on parts and labor.
 
 **Rough cost:** A pro service call runs about $200-600.
-
-## See Also
-
-- [Danfoss FC302 AL-95 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-95-fault-code/)
-- [Danfoss FC302 AL-165 - Causes & Fix](/posts/danfoss-fc302-vfd-al-165-fault-code/)
-- [Danfoss VFD Fault OL — Causes & Fix](/posts/danfoss-vfd-fault-ol/)
-- [Danfoss FC302 AL-82 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-82-fault-code/)

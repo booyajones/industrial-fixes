@@ -14,11 +14,8 @@ tags:
 ---
 <!-- VOICE-GUARD-OFF -->
 
-## Rheem EcoNet A101 Error Code — What It Means
-
+## What this code means
 The Rheem EcoNet **A101 error code** means the EcoNet thermostat has lost communication with the equipment control board (furnace, air handler, heat pump, or hybrid water heater). The EcoNet system uses a proprietary 4-wire bus (R, C, D1, D2) between the thermostat and the equipment — A101 fires when the thermostat sends a command and gets no response from the board within the expected window.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -60,10 +57,3 @@ The Rheem EcoNet **A101 error code** means the EcoNet thermostat has lost commun
 - **A110** — EcoNet cable detected reversed polarity. Swap D1 and D2 at one end.
 
 If you've worked through this checklist and A101 persists, the fault is almost certainly at the equipment control board's EcoNet interface — schedule a dealer visit for board replacement under the Rheem 10-year parts warranty (most EcoNet-Ready equipment installed since 2018 still qualifies).
-
-## See Also
-
-- [Rheem Furnace Error Code 57 — Causes & Fix](/posts/rheem-furnace-error-code-57/)
-- [Rheem RA14 Heat Pump Error Codes - What It Means and How to Fix It](/posts/rheem-ra14-heat-pump-error-codes/)
-- [Rheem Furnace 7 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-7-flashes/)
-- [Rheem Furnace 8 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-8-flashes/)

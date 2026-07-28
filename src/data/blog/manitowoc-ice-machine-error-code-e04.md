@@ -13,11 +13,8 @@ money_part: "Condenser fan motor"
 most_likely_cause: "Dirty or blocked condenser"
 ---
 
-## Manitowoc Ice Machine E04 Error Code — What It Means
-
+## What this code means
 The Manitowoc Indigo and Indigo NXT series display **E04** when the discharge (condenser) temperature exceeds the high-temperature protection threshold — typically 158°F (70°C) on the discharge line thermistor. E04 is the most common service call on Manitowoc Indigo machines. The unit stops producing ice and enters a safety hold to protect the compressor from heat damage. In most cases, E04 is caused by poor condenser maintenance and is resolved without parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ The Manitowoc Indigo and Indigo NXT series display **E04** when the discharge (c
 ## When to Call a Pro
 
 If E04 returns after cleaning the condenser and confirming the fan runs, the refrigerant charge may be low or the compressor may be degraded. Both require a certified refrigeration technician with gauges and refrigerant certification.
-
-## Related Articles
-
-- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
-- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
-- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
-- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
-- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)
-
-## See Also
-
-- [Manitowoc E02 Error Code — Long Harvest Cycle Fix](/posts/manitowoc-e02-error-code/)
-- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)
-- [Manitowoc E54 Error Code — Water Curtain Switch Open Fix](/posts/manitowoc-e54-error-code/)
-- [Manitowoc NEO Ice Machine Error Codes - What It Means and How to Fix It](/posts/manitowoc-neo-ice-machine-error-codes/)

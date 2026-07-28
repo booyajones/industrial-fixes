@@ -17,8 +17,7 @@ money_part: "GE microwave temperature probe"
 part_price: "$15-40"
 ---
 
-## GE Microwave F6 Error Code — What It Means
-
+## What this code means
 On GE microwaves, the F6 code means the control has detected a shorted temperature probe circuit. The electronic control believes the probe wiring or sensor is electrically shorted, so the unit may block cooking or report a fault during any temperature-cook function that relies on the probe. This is distinct from GE's separate "Probe" code, which signals an open probe or a probe not plugged in during temp cook.
 
 The fault can appear during a probe cook cycle or sometimes at power-up if the control runs a self-check. GE explicitly documents F6 as "shorted temperature probe" and recommends service if a power reset does not clear it. The code does not apply to other brands that may use F6 for entirely different faults, so always confirm your exact GE model documentation.
@@ -26,8 +25,6 @@ The fault can appear during a probe cook cycle or sometimes at power-up if the c
 ## Before You Replace Anything
 
 Many people replace the control board first. Always test the probe harness and connector for shorts and inspect the probe jack before replacing the board, since a damaged probe or pinched wire is far more common.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

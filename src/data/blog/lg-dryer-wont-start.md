@@ -19,8 +19,6 @@ When an LG dryer won't start, it means the machine is either receiving no power 
 
 The most common real causes are no incoming power at the outlet or breaker, a door that is not fully closed or a failed door switch, control lock enabled, a blown thermal fuse, a defective start switch, or a failed control board. On belt-equipped models, a broken belt or belt switch fault can also prevent the motor circuit from energizing.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **No incoming power at the outlet or breaker** A tripped breaker, faulty outlet, loose power cord connection, or power outage will prevent the dryer from responding at all.
@@ -71,10 +69,3 @@ Seeing a code on the display? These match this problem:
 ## When to Call a Pro
 
 Call a technician if you are not comfortable working with 240-volt power or testing live circuits with a multimeter. Also call for help if the door switch, thermal fuse, and start switch all test good but the dryer still will not start, or if you suspect a control board or motor failure. On belt-driven models, a professional can quickly verify belt and motor interlocks if the problem is not obvious.
-
-## See Also
-
-- [LG Range E6 Error Code - Causes & Fix](/posts/lg-range-e6-error-code/)
-- [LG LMXS28626S Refrigerator Problems & Error Codes](/posts/lg-lmxs28626s-refrigerator-problems/)
-- [LG LFXS28968S Refrigerator Problems & Error Codes](/posts/lg-lfxs28968s-refrigerator-problems/)
-- [LG Oven Not Heating - Causes & Fix](/posts/lg-oven-not-heating/)

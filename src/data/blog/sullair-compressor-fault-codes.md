@@ -56,14 +56,6 @@ Verify incoming voltage balance on all three phases. Unbalanced voltage causes d
 ## When to Call a Pro
 Repeated discharge temperature trips after cleaning, or loss of oil pressure with correct oil level, indicate internal airend wear or oil pump failure. These require disassembly and should be handled by a Sullair-trained technician.
 
-## Related Articles
-
-- [Air Compressor Fault Codes: Complete Guide](/posts/air-compressor-fault-codes/)
-- [Atlas Copco Air Compressor Fault Codes — Complete Guide](/posts/atlas-copco-compressor-fault-codes/)
-- [BOGE Air Compressor Error Codes - Complete Guide](/posts/boge-compressor-error-codes/)
-- [Chicago Pneumatic Compressor Fault Codes — Complete Guide](/posts/chicago-pneumatic-compressor-faults/)
-- [CompAir Air Compressor Fault Codes - Complete Guide](/posts/compair-compressor-fault-codes/)
-
 ## More Sullair Compressor fault codes
 
 Compiled from manufacturer service manuals and authorized documentation.
@@ -77,7 +69,6 @@ Compiled from manufacturer service manuals and authorized documentation.
 | Power Interruption | The Supervisor lost the expected starter/brownout signal at input D8. | Motor starter not working / no contact to input D8, or intermittent control power. | Check the starter controls and wiring, verify the wiring to the input, and check line voltage and connections. |
 | Factory Setup Error | The Supervisor's factory setup information needs to be reviewed for correct values. | Corrupted or incorrect factory configuration data. | Review the factory setup values; if the problem persists, replace the Supervisor controller. |
 
-
 ## How to troubleshoot Sullair Compressor
 
 ## How to diagnose a Sullair rotary screw shutdown
@@ -89,7 +80,6 @@ Compiled from manufacturer service manuals and authorized documentation.
 **Isolate drive faults from mechanical faults.** A numeric "Drive Fault xx" is reported by the VSD, not the airend. Plug a keypad service tool into the drive to read the fault name behind the number. Communication messages (VSD Com Error, VSD Com Fault, VSD Param Lim Fault) are wiring, control-power, or setup problems, not compressor damage, so check the bus cable, drive control power, and the model/HP/voltage setup selections first. Sensor Fail messages usually mean a failed sensor, loose connector, or corroded contact rather than a genuine over-limit condition.
 
 **Safety and when to call a pro.** Always lock out and depressurize the sump before opening any pressurized component; a Sullair sump holds pressure even after shutdown. Confirm the emergency stop is released and its wiring is intact before assuming an electrical fault. Call a Sullair-trained technician when: high-temperature trips repeat after cleaning and correct fluid level (possible internal airend wear), oil pressure stays low with correct level and a fresh filter (possible oil pump failure), or the drive throws Saturation trip (Fault 7) or System fault (Fault 8), which the manual says may require leaving power off and contacting service. Internal airend, oil pump, and power-electronics work is not a field DIY repair.
-
 
 ## Frequently asked questions
 
@@ -112,4 +102,3 @@ Sump pressure is above limit, typically because a control valve failed to vent: 
 ### When should I replace the air/oil separator element?
 
 Replace it when the separator differential (dP1 Separator High) climbs or you see oil carryover into the discharge air, and at or before the model's rated service interval. A restricted separator causes high pressure drop and oil in the air. Replacing the oil filter at the same time is good practice.
-

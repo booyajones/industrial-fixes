@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "LG washer heater element assembly"
 ---
 
-## LG Washer HE Error Code — What It Means
-
+## What this code means
 HE on an LG washer indicates a temporary heater error. The code is specific to the heating system in the washer or, on combo washer-dryer units, the dryer heating section. LG does not publish detailed subcodes or component breakdowns for HE in consumer support materials, so the code alone confirms a heater-related fault but does not identify the exact failed part.
 
 LG's official guidance is clear: if the code repeats after a reset, the washer needs professional service rather than further user troubleshooting. The fault may be in the heater element, its wiring harness, a thermal safety device, or the control board's heater command circuit. On combo units, the fault may be in the drying heater rather than the wash heater.
@@ -25,8 +24,6 @@ LG's official guidance is clear: if the code repeats after a reset, the washer n
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board first when the real fault is a failed heater element or corroded connector. Before ordering parts, a technician should test heater-circuit continuity and inspect all harness connections.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

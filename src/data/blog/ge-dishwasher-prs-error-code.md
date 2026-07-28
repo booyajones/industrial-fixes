@@ -17,8 +17,7 @@ money_part: "GE dishwasher pressure sensor assembly"
 part_price: "$50-120"
 ---
 
-## GE Dishwasher PrS Error Code — What It Means
-
+## What this code means
 The PrS fault code on a GE dishwasher indicates the pressure sensor is sending an invalid signal to the main control board. The pressure sensor monitors water level inside the dishwasher, and when the control cannot interpret the sensor's signal correctly, it displays PrS and may refuse to start a cycle or cancel the cycle mid-run.
 
 GE identifies the most likely causes as a problem with the wiring harness to the sensor or the pressure sensor itself. Contamination or blockage in the sensor area can also distort the signal. A simple power reset may clear a transient fault, but if the code returns, service is required.
@@ -26,8 +25,6 @@ GE identifies the most likely causes as a problem with the wiring harness to the
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board first, but a visual inspection of the pressure sensor wiring and connector often reveals the real problem at a fraction of the cost.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

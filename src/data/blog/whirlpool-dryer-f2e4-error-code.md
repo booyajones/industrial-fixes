@@ -17,8 +17,7 @@ money_part: "User interface / console assembly"
 part_price: "$100-250"
 ---
 
-## Whirlpool Dryer F2E4 Error Code — What It Means
-
+## What this code means
 The F2E4 code on a Whirlpool dryer indicates a user interface software error. This is a fault in the console or control board logic itself, not a heating, airflow, or sensor problem. Whirlpool's service documentation identifies this as an internal board failure in the user interface assembly.
 
 Do not confuse F2E4 with F4E4. The F4E4 code means low or no line voltage (a power supply issue), while F2E4 is a control board logic fault. If your dryer shows F2E4 and the fault persists after a power reset, the user interface assembly will need replacement.
@@ -26,8 +25,6 @@ Do not confuse F2E4 with F4E4. The F4E4 code means low or no line voltage (a pow
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when they see F2E4, but this code specifically points to the user interface (console) assembly. Always perform a full power reset first before replacing any part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

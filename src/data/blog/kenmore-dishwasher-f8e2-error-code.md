@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Dishwasher F8E2 Error — What It Means
-
+## What this code means
 On most Kenmore dishwashers built on Whirlpool or Maytag platforms, F8E2 is a dispenser/diverter system fault. The control board is not seeing the dispenser or diverter move to the expected position, or it is receiving an abnormal signal from that assembly. In plain terms, the machine thinks the dispenser/diverter mechanism is stuck, has failed, or is not being reported correctly.
 
 Because Kenmore is a brand label and not the original equipment manufacturer, the exact wording can vary by model family. On Whirlpool-built platforms, the practical meaning is a dispenser/diverter position or feedback fault. The code is cleared by cycling power to the control, which places it in the family of control-detected component faults rather than a simple user reset issue.
@@ -26,8 +25,6 @@ Because Kenmore is a brand label and not the original equipment manufacturer, th
 ## Before You Replace Anything
 
 Many people replace the main control board first. Check the dispenser/diverter motor for binding, inspect all connectors for corrosion or looseness, and test the position-sense circuit before spending on a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

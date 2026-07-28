@@ -18,15 +18,12 @@ free_checks:
   - "Inspect connector pins for corrosion or damage and clean with contact cleaner if safe to do so"
 ---
 
-## State Water Heater E91 Error — What It Means
-
+## What this code means
 The E91 error code on a State water heater signals a communication failure between the Electronic Control Board (the main controller) and the Interface Board (the display panel). The two microprocessors cannot exchange data, so the display cannot show status updates and the control board cannot receive user commands. This is not a sensor fault or a combustion problem. It is a digital communication breakdown between the two main circuit boards inside the unit.
 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the Interface Board (display) first because it is visible and accessible. Check and reseat all wire connectors between the boards before replacing any board. The main Electronic Control Board is usually the culprit when wiring is intact.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,11 +13,8 @@ money_part: "ABB ACS580 Control Unit / Control Board"
 most_likely_cause: "Internal control-unit software fault"
 ---
 
-## ABB ACS580 FF63 Fault — What It Means
-
+## What this code means
 FF63 on an ABB ACS580 drive indicates an STO diagnostics failure. STO stands for Safe Torque Off, a safety function that monitors the drive's ability to remove torque from the motor. This fault means the drive has detected a problem in the STO safety-monitoring path, not a problem with your motor or load. ABB categorizes this as a software internal malfunction in the STO diagnostic logic. The drive will not run until the fault is cleared and the underlying cause is resolved.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ FF63 on an ABB ACS580 drive indicates an STO diagnostics failure. STO stands for
 ## When to Call a Pro
 
 Call a qualified electrician or ABB-certified technician if the fault returns after you have verified and corrected STO wiring and rebooted the drive, or if you are unfamiliar with safe work on industrial VFDs. Because FF63 points to an internal control-unit fault when wiring is correct, persistent cases require factory support or control-board replacement that should be done by trained personnel. Always follow lockout-tagout procedures and consult ABB directly if the drive is under warranty or part of a safety-critical system.
-
-## See Also
-
-- [ABB ACS580 B1 Fault Code - Causes & Fix](/posts/abb-acs580-b1-fault-code/)
-- [ABB ACS580 FA81 Fault - Safe Torque Off 1 Active](/posts/abb-acs580-fa81-fault-code/)
-- [ABB ACS550 EFB1 Fault Code - Causes & Fix](/posts/abb-acs550-efb1-fault-code/)
-- [ABB Tmax/Emax Circuit Breaker Fault Codes - Complete Guide](/posts/abb-circuit-breaker-fault-codes/)

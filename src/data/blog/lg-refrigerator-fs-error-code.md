@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "LG freezer thermistor (freezer sensor)"
 ---
 
-## LG Refrigerator FS Error Code — What It Means
-
+## What this code means
 The FS code on LG refrigerators indicates a freezer sensor error. LG defines this as a short or disconnection of the freezer sensor (thermistor). The main control board displays FS when it detects either a direct short (0 Ω) or an open circuit from the freezer sensor, meaning the board cannot read a valid temperature signal from the freezer compartment.
 
 This is a service-required fault according to LG. The refrigerator may continue to run but cannot regulate freezer temperature accurately. The error points to a problem in the sensor itself, its wiring harness, or the connection between the sensor and the main PCB.
@@ -25,8 +24,6 @@ This is a service-required fault according to LG. The refrigerator may continue 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board first without testing the sensor. A multimeter resistance check of the freezer thermistor (in the kΩ range at room temperature, never 0 Ω or infinite) will confirm whether the sensor or wiring is the real problem before spending on a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable working with a multimeter, disassembling the freezer evaporator cover, or interpreting a thermistor resistance chart. The freezer sensor is often buried behind insulation or clipped to the evaporator coil, and accessing it safely requires knowledge of the refrigerator's layout. A technician will have the correct LG thermistor chart for your model, the tools to test harness continuity end-to-end, and the ability to replace the main PCB if the sensor circuit on the board has failed. If the FS code persists after you have replaced the sensor and inspected the harness, the board is the likely culprit and professional diagnosis will save you from replacing parts by trial and error.
 
 **Rough cost:** A pro service call runs about $150–$300.
-
-## See Also
-
-- [LG Mini Split CH04 Error Code - Causes & Fix](/posts/lg-mini-split-ch04-error-code/)
-- [LG Mini Split CH06 Error Code - Causes & Fix](/posts/lg-mini-split-ch06-error-code/)
-- [LG Dryer Won't Stop - Causes & Fix](/posts/lg-dryer-wont-stop/)
-- [LG Oven Clicking but Won't Light - Causes & Fix](/posts/lg-oven-clicking-but-wont-light/)

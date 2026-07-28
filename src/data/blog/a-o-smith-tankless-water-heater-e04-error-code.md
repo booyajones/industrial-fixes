@@ -13,11 +13,8 @@ money_part: "Inlet/outlet plumbing fittings"
 most_likely_cause: "Internal water leak"
 ---
 
-## A.O. Smith Tankless E04 Error — What It Means
-
+## What this code means
 The E04 error code on an A.O. Smith electric tankless water heater indicates that the unit has detected moisture or a leak inside the heater cabinet. This is a safety fault that protects the electronics and internal components from water damage. A.O. Smith's official troubleshooting guidance for E04 is to immediately turn off electrical power and water supply to the unit and contact Technical Support. Do not attempt to reset or continue operation until the source of moisture is identified and corrected.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

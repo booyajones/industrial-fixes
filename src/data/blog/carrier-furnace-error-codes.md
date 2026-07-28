@@ -62,18 +62,3 @@ The IFC board has diagnosed itself as faulty. Before replacing, verify all wirin
 
 ## When to Call a Pro
 If you've reset the furnace and the same code returns immediately, or if codes 21 or 33 involve a tripped roll-out switch, contact a licensed HVAC technician — these situations can indicate cracked heat exchangers or flue gas spillage, which are safety hazards.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier 58UX Furnace Error Codes — Flash Code Diagnostic Guide](/posts/carrier-58ux-error-codes/)
-- [Carrier Greenspeed Heat Pump Error Codes: Complete Guide](/posts/carrier-greenspeed-heat-pump-codes/)
-- [Carrier 33 Error Code — Causes & Fix](/posts/carrier-33-error-code/)
-- [Carrier WeatherMaker Rooftop Unit Error Codes: Complete Guide](/posts/carrier-weatheramaker-error-codes/)

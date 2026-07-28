@@ -13,13 +13,10 @@ money_part: "Navien igniter assembly"
 most_likely_cause: "Insufficient gas supply or low gas pressure"
 ---
 
-## Navien E003 Error — What It Means
-
+## What this code means
 The E003 code indicates an ignition failure. Your Navien tankless water heater is attempting to light the burner but cannot establish a flame, so it cannot heat water. The control board has detected that the ignition sequence did not succeed.
 
 This is not a water-flow or sensor problem. It means something is preventing the burner from igniting, whether that is a lack of fuel, a problem with the spark or flame detection, or an obstruction that is blocking combustion air.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -52,10 +49,3 @@ This is not a water-flow or sensor problem. It means something is preventing the
 ## When to Call a Pro
 
 Call a licensed technician if you have confirmed the gas valve is open and the air filter is clean but the E003 persists. Testing gas pressure requires a manometer, and working inside the combustion chamber or replacing ignition components involves both gas and electrical hazards. A qualified technician can measure inlet gas pressure against your model's specifications, test igniter voltage and flame-rod continuity, and replace failed parts safely. If you smell gas at any point, shut off the gas supply immediately and call your gas utility or a professional.
-
-## See Also
-
-- [Navien E302 Error Code — Causes & Fix](/posts/navien-error-code-e302/)
-- [Navien E008 Error Code - Causes & Fix](/posts/navien-tankless-e008-error-code/)
-- [Navien 406 Error Code - Causes & Fix](/posts/navien-tankless-alarm-406-error-code/)
-- [Navien Error Code E022 — Hot Water Outlet Thermistor Fault Fix](/posts/navien-error-code-e022/)

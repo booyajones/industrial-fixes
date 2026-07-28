@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 oL4 Fault — What It Means
-
+## What this code means
 The oL4 fault on a Yaskawa A1000 VFD indicates an overload or overtorque condition on the machine or load side of the drive output. This is not a motor thermal overload (oL1) or drive thermal overload (oL2). Instead, oL4 appears when the driven equipment is locked up, jammed, or experiencing excessive mechanical load that exceeds the torque the system can deliver.
 
 Yaskawa's factory guidance directs you to check the machine status and remove the cause of the fault. The fault typically points to a physical problem in the drivetrain, coupling, bearings, or driven equipment rather than an electrical issue inside the VFD itself.
@@ -24,8 +23,6 @@ Yaskawa's factory guidance directs you to check the machine status and remove th
 ## Before You Replace Anything
 
 Technicians sometimes replace the VFD power section or control boards before inspecting the mechanical load. Always verify the driven equipment turns freely by hand and check for seized bearings, broken couplings, or jammed machine components before ordering drive electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or VFD technician if you are not trained to work on high-voltage three-phase equipment or if the fault persists after you have verified the mechanical load is free and all parameters are correct. Diagnosing oL4 often requires torque monitoring, load testing under controlled conditions, and systematic parameter tuning that go beyond basic troubleshooting. If the driven equipment includes process machinery, pumps, or conveyors with complex mechanical systems, a millwright or mechanical technician may also be needed to inspect and repair transmission components safely. Always follow lockout/tagout procedures and your facility's electrical safety practices before working on VFD-connected equipment.
 
 **Rough cost:** A pro service call runs about $200-800 depending on mechanical repairs required.
-
-## See Also
-
-- [Yaskawa GA800 E28 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e28-fault-code/)
-- [Yaskawa GA800 E01 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e01-fault-code/)
-- [Yaskawa GA800 A.130 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-130-fault-code/)
-- [Yaskawa GA800 E73 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e73-fault-code/)

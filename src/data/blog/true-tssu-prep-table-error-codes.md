@@ -38,7 +38,7 @@ The controller is not getting a valid signal from the cabinet air sensor.
 - Moisture in the connector causing unstable resistance
 - Controller input failure, less common than a bad sensor
 
-This is the same basic issue covered in the broader [True Refrigeration E1 guide](/posts/true-refrigeration-e1-error-code/), but prep tables see it more often because kitchen staff open the lid and doors constantly and wash the unit down more aggressively.
+This is the same basic issue covered in the broader True Refrigeration E1 guide, but prep tables see it more often because kitchen staff open the lid and doors constantly and wash the unit down more aggressively.
 
 ### E2 — Evaporator Sensor Fault
 
@@ -155,21 +155,3 @@ Call a refrigeration technician if the prep table still runs warm after you clea
 > **Pro tip:** If your TSSU table cools fine overnight but warms up during service, look at workflow before you condemn parts. Overfilled pans, a lid that stays open, and a condenser packed with flour create that exact pattern.
 
 ---
-
-## See Also
-
-- [True Refrigeration E1 Error Code](/posts/true-refrigeration-e1-error-code/)
-- [True Refrigeration E2 Error Code](/posts/true-refrigeration-e2-error-code/)
-- [True Refrigeration E3 Error Code](/posts/true-refrigeration-e3-error-code/)
-- [True Refrigeration E4 Error Code](/posts/true-refrigeration-e4-error-code/)
-- [True T-23 Error Codes](/posts/true-t-23-error-codes/)
-- [True T-49 Error Codes](/posts/true-refrigeration-t49-error-codes/)
-- [Commercial Refrigerator Error Codes](/posts/commercial-refrigerator-error-codes/)
-
-## Related Articles
-
-- [True Refrigeration E1 Error Code — Causes & Fix](/posts/true-refrigeration-e1-error-code/)
-- [True Refrigeration E2 Error Code — Causes & Fix](/posts/true-refrigeration-e2-error-code/)
-- [True Refrigeration E3 Error Code — Causes & Fix](/posts/true-refrigeration-e3-error-code/)
-- [True Refrigeration E4 Error Code — Causes & Fix](/posts/true-refrigeration-e4-error-code/)
-- [True Refrigeration E5 Error Code — Defrost Sensor Causes & Fix](/posts/true-refrigeration-e5-error-code/)

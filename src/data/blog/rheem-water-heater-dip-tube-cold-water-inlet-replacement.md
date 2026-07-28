@@ -54,15 +54,8 @@ Dip tubes fail from age, heat cycling, and hard water. Units built between 1993 
 If this part is failing you may also see one of these codes:
 
 - [Rheem Water Heater A01 error code](/posts/rheem-water-heater-a01-error-code/)
-- [Rheem Water Heater Alarm 401 error code](/posts/rheem-water-heater-alarm-401-error-code/)
+- Rheem Water Heater Alarm 401 error code
 
 ## When to Call a Pro
 
 If you are not comfortable draining the tank, working with threaded plumbing fittings, or purging air from the system, call a licensed plumber or water heater technician. If your unit is still under warranty, professional installation of the replacement dip tube may be required to preserve coverage. For gas models, any work involving burner access, gas line connections, or igniter components should always be handled by a qualified gas technician. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rheem Water Heater Thermocouple Replacement - Signs & How-To](/posts/rheem-water-heater-thermocouple-gas-pilot-sensor-replacement/)
-- [Rheem Water Heater Heating Element Replacement - Signs & How-To](/posts/rheem-water-heater-heating-element-electric-screw-in-flange-replacement/)
-- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)
-- [Rheem RA13 Air Conditioner Error Codes — Fault Code Diagnostic Guide](/posts/rheem-ra13-error-codes/)

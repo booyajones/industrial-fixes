@@ -15,8 +15,7 @@ money_part: "Bosch refrigerator thermistor or sensor (model-specific)"
 most_likely_cause: "Model-specific sensor fault"
 ---
 
-## Bosch Refrigerator E21 Error — What It Means
-
+## What this code means
 An E21 error code displayed on a Bosch refrigerator does not have a verified meaning in manufacturer service documentation. Bosch uses E21 on dishwashers to indicate a circulation pump or flow-path blockage, but refrigerator fault codes are model-specific and the exact definition for E21 on your refrigerator is not confirmed in available technical literature. The code may indicate a sensor fault, communication error, or control-board issue, but without your model number and its specific fault chart you cannot safely assume the meaning. Different Bosch appliance families use the same code letters for entirely different systems.
 
 Before attempting any repair, locate the full model and serial number on the rating plate inside the refrigerator or on the back panel. Consult the owner's manual or the wiring diagram packed with the unit. If the manual does not list E21, contact Bosch customer service or a Bosch-authorized technician to decode the fault for your exact model. Do not assume the dishwasher or washing-machine definition applies to your refrigerator.
@@ -24,8 +23,6 @@ Before attempting any repair, locate the full model and serial number on the rat
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when an E21 appears, but many refrigerator error codes are triggered by a failed sensor or wiring harness. Always verify the exact fault definition and test sensors with a multimeter before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

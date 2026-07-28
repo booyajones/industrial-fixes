@@ -19,8 +19,6 @@ Rusty-colored water from a Bradford White heater is a water quality symptom, not
 
 The discoloration is typically rust or iron oxide entering the hot water supply. The most common sources are a depleted anode rod (which removes the tank's sacrificial corrosion protection), internal tank corrosion, or corroded galvanized or steel piping and fittings in the hot water system. Bradford White recommends contacting a plumbing professional if the problem is not resolved.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Spent or depleted anode rod** Once the anode rod is consumed, the tank loses its primary corrosion protection and rust can enter the water supply.

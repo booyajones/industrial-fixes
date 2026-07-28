@@ -19,8 +19,6 @@ Samsung microwave sparking is arcing inside the cavity during operation. Samsung
 
 This symptom is separate from the SE or 5E error code, which Samsung defines as a Key Short Error and involves a different fault. Cavity sparking is almost always a contamination or foreign-object issue rather than an electronic failure.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Food splatter, grease, or carbonized residue on cavity surfaces** Samsung states this is the most common cause, particularly after grill mode when food particles become energized during the next microwave cycle.
@@ -51,7 +49,7 @@ This symptom is separate from the SE or 5E error code, which Samsung defines as 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Samsung Microwave C 10 error code](/posts/samsung-microwave-c-10-error-code/)
+- Samsung Microwave C 10 error code
 - [Samsung Microwave C 11 error code](/posts/samsung-microwave-c-11-error-code/)
 - [Samsung Microwave C 12 error code](/posts/samsung-microwave-c-12-error-code/)
 - [Samsung Microwave C 20 error code](/posts/samsung-microwave-c-20-error-code/)
@@ -62,7 +60,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Samsung Microwave C 72 error code](/posts/samsung-microwave-c-72-error-code/)
 - [Samsung Microwave C A0 error code](/posts/samsung-microwave-c-a0-error-code/)
 - [Samsung Microwave C A1 error code](/posts/samsung-microwave-c-a1-error-code/)
-- [Samsung Microwave C A2 error code](/posts/samsung-microwave-c-a2-error-code/)
+- Samsung Microwave C A2 error code
 
 ## When to Call a Pro
 

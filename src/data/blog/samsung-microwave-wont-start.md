@@ -19,8 +19,6 @@ When a Samsung microwave won't start, the unit may power on but not begin cookin
 
 If the unit is completely unresponsive or shuts off by itself, Samsung points to overheating or insufficient incoming power. Door closure problems and improper installation clearance also prevent normal operation. Internal component failure is less common and only considered after these conditions are ruled out.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Demo mode enabled** The timer counts down normally but the oven does not heat because the unit is in showroom mode.
@@ -55,18 +53,18 @@ If the unit is completely unresponsive or shuts off by itself, Samsung points to
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Samsung Microwave C 10 error code](/posts/samsung-microwave-c-10-error-code/)
-- [Samsung Microwave C 11 error code](/posts/samsung-microwave-c-11-error-code/)
-- [Samsung Microwave C 12 error code](/posts/samsung-microwave-c-12-error-code/)
-- [Samsung Microwave C 20 error code](/posts/samsung-microwave-c-20-error-code/)
-- [Samsung Microwave C 21 error code](/posts/samsung-microwave-c-21-error-code/)
-- [Samsung Microwave C 22 error code](/posts/samsung-microwave-c-22-error-code/)
-- [Samsung Microwave C 70 error code](/posts/samsung-microwave-c-70-error-code/)
-- [Samsung Microwave C 71 error code](/posts/samsung-microwave-c-71-error-code/)
-- [Samsung Microwave C 72 error code](/posts/samsung-microwave-c-72-error-code/)
-- [Samsung Microwave C A0 error code](/posts/samsung-microwave-c-a0-error-code/)
+- Samsung Microwave C 10 error code
+- Samsung Microwave C 11 error code
+- Samsung Microwave C 12 error code
+- Samsung Microwave C 20 error code
+- Samsung Microwave C 21 error code
+- Samsung Microwave C 22 error code
+- Samsung Microwave C 70 error code
+- Samsung Microwave C 71 error code
+- Samsung Microwave C 72 error code
+- Samsung Microwave C A0 error code
 - [Samsung Microwave C A1 error code](/posts/samsung-microwave-c-a1-error-code/)
-- [Samsung Microwave C A2 error code](/posts/samsung-microwave-c-a2-error-code/)
+- Samsung Microwave C A2 error code
 
 ## When to Call a Pro
 

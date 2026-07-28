@@ -17,8 +17,7 @@ money_part: "Whirlpool Microwave Thermal Sensor (Thermistor)"
 part_price: "$15-50"
 ---
 
-## Whirlpool Microwave E24 Error Code — What It Means
-
+## What this code means
 The E24 error code on a Whirlpool over-the-range microwave indicates a thermal sensor circuit fault. The control board is not seeing the thermal sensor circuit in the expected state. Whirlpool identifies the likely problem as the thermal sensor itself, the appliance control board, or the wiring and connectors between them.
 
 This fault means the microwave's safety monitoring circuit has detected an issue with the component that watches for overheating. The code will typically appear on the display and may prevent the microwave from operating until the underlying problem is corrected.
@@ -26,8 +25,6 @@ This fault means the microwave's safety monitoring circuit has detected an issue
 ## Before You Replace Anything
 
 Many people replace the expensive appliance control board first when the real culprit is a $15 thermal sensor or a loose connector. Always inspect the sensor wiring and test the sensor circuit before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

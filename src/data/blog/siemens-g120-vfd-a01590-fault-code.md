@@ -13,11 +13,8 @@ money_part: "Motor bearings"
 most_likely_cause: "Maintenance interval elapsed"
 ---
 
-## Siemens G120 A01590 Alarm — What It Means
-
+## What this code means
 A01590 is an alarm on the Siemens SINAMICS G120 that indicates your configured motor maintenance interval has expired. This is a service reminder, not a fault that trips the drive. The VFD continues to run while displaying the alarm. The drive is simply telling you that the maintenance counter has reached the interval you set during commissioning. Unlike overcurrent or communication faults, A01590 does not point to a failed power component in the drive itself. It is cleared by performing the scheduled maintenance on your motor or driven equipment and then resetting parameter p0651.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,10 +44,3 @@ A01590 is an alarm on the Siemens SINAMICS G120 that indicates your configured m
 ## When to Call a Pro
 
 Call a technician or controls engineer if you are not familiar with Siemens commissioning software and cannot locate or reset parameter p0651, or if the alarm returns immediately after reset despite correct service. Also call for help if you discover actual motor damage during inspection (bearing failure, winding damage, or abnormal temperature) that requires troubleshooting beyond routine maintenance. If your facility does not have documentation of the original maintenance interval settings, a Siemens-trained technician can review the commissioning file and verify that p0651 matches your application's service needs.
-
-## See Also
-
-- [Siemens G120 F01250 Fault - Causes & Fix](/posts/siemens-g120-vfd-f01250-fault-code/)
-- [Siemens G120 A05006 Alarm - Causes & Fix](/posts/siemens-g120-vfd-a05006-fault-code/)
-- [Siemens Micromaster F0002 - Causes & Fix](/posts/siemens-micromaster-vfd-f0002-fault-code/)
-- [Siemens Micromaster F0021 - Causes & Fix](/posts/siemens-micromaster-f0021-fault-code/)

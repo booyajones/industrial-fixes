@@ -15,11 +15,8 @@ money_part: "Cabinet cooling fan / filter"
 most_likely_cause: "Control communication fault between CNC boards"
 ---
 
-## Mazak Alarm 700 — What It Means
-
+## What this code means
 **Alarm 700** on Mazak controls generally indicates an **MPC alarm**, meaning the motion processor or motion control section of the CNC detected an abnormal condition. This is a higher-level control alarm, not just a simple sensor trip.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,18 +46,3 @@ most_likely_cause: "Control communication fault between CNC boards"
 ## When to Call a Pro
 
 Alarm 700 often points to control hardware, not field wiring. If it persists after a clean power cycle and basic cabinet checks, Mazak service or a qualified CNC control tech is the right move.
-
-## Related Articles
-
-- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
-- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
-- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-
-## See Also
-
-- [Mazak Alarm 415 — Position Detector Error Fix](/posts/mazak-alarm-415/)
-- [Mazak Alarm 500 PC Alarm — Causes & Fix](/posts/mazak-alarm-500-pc/)
-- [Mazak Matrix/Matrix 2 Fault Code Guide — Complete Reference](/posts/mazak-matrix-fault-codes/)
-- [Mazak Alarm 800 — Tool Magazine Fault](/posts/mazak-alarm-800-atc/)

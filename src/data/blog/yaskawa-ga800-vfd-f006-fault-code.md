@@ -19,8 +19,7 @@ free_checks:
   - "Consult the owner's manual or wiring diagram for your specific drive brand and model to look up the correct fault code definition"
 ---
 
-## Yaskawa GA800 F006 Fault — What It Means
-
+## What this code means
 There is no F006 fault code on the Yaskawa GA800 VFD. The F006 code is exclusive to Allen-Bradley (Rockwell Automation) PowerFlex drives, where it indicates Motor Stall (the drive cannot accelerate or decelerate the motor effectively). Yaskawa GA800 drives use a different fault numbering system with prefixes like O (overcurrent), U (under-voltage), and G (ground fault). If you are troubleshooting a Yaskawa GA800, look at the actual display again. The code is likely O.Over (overcurrent), U.Under (under-voltage), or G.Gnd (ground fault), not F006. Users often confuse the two brands due to similar naming or misread labels.
 
 If your drive is actually an Allen-Bradley PowerFlex and displaying F006, that code means Motor Stall. The drive is unable to accelerate or decelerate the motor due to excessive mechanical load, slow acceleration time settings, current limit set too low, wiring issues, motor problems, or PID feedback errors (if in PID mode). The problem is that the motor cannot reach commanded speed because something is preventing it from drawing enough current or overcoming resistance.
@@ -28,8 +27,6 @@ If your drive is actually an Allen-Bradley PowerFlex and displaying F006, that c
 ## Before You Replace Anything
 
 Technicians sometimes replace the drive itself when the fault code does not match the brand. Always verify the drive manufacturer nameplate and consult the correct manual before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

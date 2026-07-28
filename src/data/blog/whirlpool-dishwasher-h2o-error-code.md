@@ -16,8 +16,7 @@ money_part: "Dishwasher water inlet hose"
 part_price: "$15-40"
 ---
 
-## Whirlpool H2O Error Code — What It Means
-
+## What this code means
 On Whirlpool dishwashers, H2O indicates the cycle has paused because the machine is not getting water properly. The dishwasher cannot obtain the water it needs to resume the fill portion of the cycle. Whirlpool's guidance is operational: the cycle remains paused until you restore the water supply and press Start again so the dishwasher can attempt to fill.
 
 This is a fill or inlet-water problem, not a generic electronic fault. The dishwasher detected insufficient or absent water supply during the fill. The code tells you to verify the supply path before the appliance will continue.
@@ -25,8 +24,6 @@ This is a fill or inlet-water problem, not a generic electronic fault. The dishw
 ## Before You Replace Anything
 
 Homeowners sometimes replace the inlet valve assembly before checking that the house shutoff is fully open or that the inlet hose is not kinked. Always verify actual water delivery to the appliance before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

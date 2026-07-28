@@ -21,8 +21,7 @@ free_checks:
 part_price: "$80–180"
 ---
 
-## Bosch Oven F41 Error Code — What It Means
-
+## What this code means
 The F41 error code on a Bosch oven indicates a fault in the door latch mechanism or its feedback circuit. The control board has detected that the motorized self-clean latch is not locking, not unlocking, or not reporting the correct position during a door-lock operation. This fault typically appears during or after a self-clean cycle, or when the oven tries to engage the door lock.
 
 The code points to a problem in the lock assembly itself, the door-latch switch that signals position to the board, or the wiring that connects them. It does not indicate a temperature or sensor issue. Until the fault is cleared, the oven may refuse to start a self-clean cycle or display the error during normal operation.
@@ -30,8 +29,6 @@ The code points to a problem in the lock assembly itself, the door-latch switch 
 ## Before You Replace Anything
 
 Many people replace the main control board first, but a stuck latch or loose harness connector is far more common. Check that the latch moves freely and that all connectors at the latch motor are seated firmly before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

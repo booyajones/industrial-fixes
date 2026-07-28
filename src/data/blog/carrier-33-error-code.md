@@ -13,11 +13,8 @@ money_part: "High-limit switch"
 most_likely_cause: "Restricted airflow"
 ---
 
-## Carrier 33 Error Code — What It Means
-
+## What this code means
 Carrier furnace fault code 33 means the limit device is open — the high-limit or rollout switch has tripped and cut off gas to prevent overheating. The control board flashes 3 long, 3 short. This is a safety lockout: the furnace detected that heat exchanger or plenum temperatures exceeded safe limits, or combustion gases rolled out of the heat exchanger. The root cause is almost always an airflow or combustion problem, not a failed limit switch itself.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Carrier furnace fault code 33 means the limit device is open — the high-limit 
 ## When to Call a Pro
 
 If the rollout switch trips more than once after resetting, or if you find cracks or rust holes in the heat exchanger during inspection, stop using the furnace and call a tech. A cracked heat exchanger is a carbon monoxide hazard.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier 58UX Furnace Error Codes — Flash Code Diagnostic Guide](/posts/carrier-58ux-error-codes/)
-- [Carrier VRF System Error Codes Guide](/posts/carrier-vrf-error-codes/)
-- [Carrier Error Code 24 — Secondary Voltage Fuse Open](/posts/carrier-24-soft-lockout/)
-- [Carrier Infinity Zoning System Error Codes — Complete Guide](/posts/carrier-infinity-zoning-error/)

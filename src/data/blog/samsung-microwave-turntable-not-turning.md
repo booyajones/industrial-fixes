@@ -19,8 +19,6 @@ When the turntable does not rotate, the plate is either not being driven properl
 
 Samsung specifically notes that if the center coupler is not positioned correctly, the turntable will not spin and will usually make noise during operation. The problem can range from a simple misalignment to a failed motor.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Turntable plate not aligned on the coupler** The glass plate is not seated properly on the center drive hub, so the motor cannot turn it.
@@ -55,7 +53,7 @@ Samsung specifically notes that if the center coupler is not positioned correctl
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Samsung Microwave C 10 error code](/posts/samsung-microwave-c-10-error-code/)
+- Samsung Microwave C 10 error code
 - [Samsung Microwave C 11 error code](/posts/samsung-microwave-c-11-error-code/)
 - [Samsung Microwave C 12 error code](/posts/samsung-microwave-c-12-error-code/)
 - [Samsung Microwave C 20 error code](/posts/samsung-microwave-c-20-error-code/)
@@ -66,7 +64,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Samsung Microwave C 72 error code](/posts/samsung-microwave-c-72-error-code/)
 - [Samsung Microwave C A0 error code](/posts/samsung-microwave-c-a0-error-code/)
 - [Samsung Microwave C A1 error code](/posts/samsung-microwave-c-a1-error-code/)
-- [Samsung Microwave C A2 error code](/posts/samsung-microwave-c-a2-error-code/)
+- Samsung Microwave C A2 error code
 
 ## When to Call a Pro
 

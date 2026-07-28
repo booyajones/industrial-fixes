@@ -19,8 +19,6 @@ When your Maytag dryer gets too hot, it means the machine is overheating because
 
 Overheating is a safety concern and typically results from restricted airflow, a failed temperature sensor, or a stuck thermostat that allows the heating element or burner to stay on too long. The dryer's control system depends on proper exhaust airflow to carry heat away and maintain safe operating temperature.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Blocked or restricted vent system** Lint buildup in the screen, housing, vent hose, or exterior hood is the most common cause of overheating because it prevents hot air from escaping.
@@ -57,10 +55,10 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Maytag Dryer Err error code](/posts/maytag-dryer-err-error-code/)
 - [Maytag Dryer F01 error code](/posts/maytag-dryer-f01-error-code/)
-- [Maytag Dryer F02 error code](/posts/maytag-dryer-f02-error-code/)
+- Maytag Dryer F02 error code
 - [Maytag Dryer F1E1 error code](/posts/maytag-dryer-f1e1-error-code/)
 - [Maytag Dryer F1E3 error code](/posts/maytag-dryer-f1e3-error-code/)
-- [Maytag Dryer F1E4 error code](/posts/maytag-dryer-f1e4-error-code/)
+- Maytag Dryer F1E4 error code
 - [Maytag Dryer F1E5 error code](/posts/maytag-dryer-f1e5-error-code/)
 - [Maytag Dryer F20 error code](/posts/maytag-dryer-f20-error-code/)
 - [Maytag Dryer F22 error code](/posts/maytag-dryer-f22-error-code/)

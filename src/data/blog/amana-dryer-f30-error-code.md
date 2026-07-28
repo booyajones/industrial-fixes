@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Dryer F30 Error Code — What It Means
-
+## What this code means
 The F30 code on an Amana dryer signals restricted airflow through the venting system. Amana states this fault is caused by a clogged lint screen, crushed or kinked vent hose, lint or debris buildup in the vent run, a blocked exterior exhaust hood, or excessive vent length with too many turns. The dryer will continue to run when the code appears, and you can clear the display by touching any key.
 
 This is not a heater or sensor failure. On Amana dryers, F30 is strictly an air-venting fault. If the code keeps returning after clearing, the entire home venting run from the dryer to the outside termination likely needs cleaning or inspection.
@@ -25,8 +24,6 @@ This is not a heater or sensor failure. On Amana dryers, F30 is strictly an air-
 ## Before You Replace Anything
 
 Homeowners sometimes replace the heating element or thermostat when they see F30, but this code is not a heater fault. Check and clean the entire vent path first before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -61,18 +61,3 @@ Pumping applications with fast deceleration cause motor regeneration. Increase d
 | Input fuses | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-70-faults&k=Input+fuses&tag=errorcodefixes-20) \| Class J or CC — match ampere rating |
 | Brake resistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-70-faults&k=Brake+resistor&tag=errorcodefixes-20) \| Match ohm and watt rating to drive |
 > **Pro tip:** PowerFlex 70 stores fault queue (F01–F08 parameters in the fault log group). Access via HIM: DIAGNOSTICS ΓåÆ FAULT LOG. Always review the full fault queue — a single event often produces multiple faults in sequence that tell the root cause story.
-
-## Related Articles
-
-- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
-- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
-- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
-- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)
-- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)
-
-## See Also
-
-- [Allen Bradley PowerFlex 525 F005 Fault, Overvoltage Causes & Fix](/posts/allen-bradley-powerflex-525-fault-f005/)
-- [Allen-Bradley PowerFlex VFD Fault F7 — Motor Stalled Fix](/posts/allen-bradley-powerflex-fault-7-motor-stalled/)
-- [Allen-Bradley PowerFlex 755 Fault Codes — Complete Troubleshooting Guide](/posts/allen-bradley-powerflex-755-fault-codes/)
-- [Allen-Bradley PowerFlex 525 Fault F003 - What It Means and How to Fix It](/posts/allen-bradley-powerflex-525-fault-f003/)

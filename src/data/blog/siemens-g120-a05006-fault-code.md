@@ -13,13 +13,10 @@ money_part: "G120 power unit cooling fan"
 most_likely_cause: "Sustained overload or high load cycle"
 ---
 
-## Siemens G120 A05006 — What It Means
-
+## What this code means
 A05006 on a Siemens SINAMICS G120 is a warning, not a trip fault. It means the power unit has detected an IGBT junction temperature rise warning, also called an overtemperature thermal model warning. Siemens describes the cause as the difference between the heat sink and IGBT junction temperature exceeding the warning limit. This alarm appears on blocksize power units and does not stop the drive, but it tells you the thermal margin is shrinking and action is needed to prevent a fault.
 
 The drive monitors the IGBT junction temperature using a thermal model. When the calculated junction temperature climbs too far above the measured heatsink temperature, the drive raises A05006. The alarm reaction is NONE, so the drive continues running, but if the condition worsens the warning may escalate to a trip fault such as F30024. Address the root cause before that happens.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ The drive monitors the IGBT junction temperature using a thermal model. When the
 ## When to Call a Pro
 
 Call a qualified drive technician or Siemens service partner if the A05006 alarm returns repeatedly after you have corrected load, cleaned cooling paths, and verified the fan. If the warning escalates to a trip fault like F30024, or if you discover the drive is chronically undersized for the application, professional analysis of the thermal model, load profile, and possible power unit replacement is the safest path. Also reach out for help if you lack the tools to measure current accurately or if the installation requires cabinet redesign to meet thermal specifications.
-
-## See Also
-
-- [Siemens SINAMICS G120 F30003 Fault — DC Link Undervoltage Fix](/posts/siemens-sinamics-f30003-fault/)
-- [Siemens G120 A01590 Fault Code - Causes & Fix](/posts/siemens-g120-a01590-fault-code/)
-- [Siemens Micromaster F0070 - Causes & Fix](/posts/siemens-micromaster-f0070-fault-code/)
-- [Siemens Sinumerik Alarm 380500 — Causes & Fix](/posts/siemens-sinumerik-alarm-380500/)

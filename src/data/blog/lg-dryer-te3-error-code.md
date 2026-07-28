@@ -17,8 +17,7 @@ money_part: "LG Dryer Thermistor"
 part_price: "$15-40"
 ---
 
-## LG Dryer tE3 Error Code — What It Means
-
+## What this code means
 LG's support states that a tE3 code (or tE1) indicates the control board has detected a problem with the dryer's thermistor. The thermistor is a temperature sensor that helps the dryer maintain the correct internal temperature during a cycle.
 
 When the sensor reads out of range, loses connection, or the control board cannot interpret its signal, the dryer halts and displays tE3. LG's official troubleshooting recommends a power reset as the first step before replacing any parts.
@@ -26,8 +25,6 @@ When the sensor reads out of range, loses connection, or the control board canno
 ## Before You Replace Anything
 
 Many people replace the main control board first when tE3 persists, but the thermistor itself or a loose connector is usually the fault. Test the thermistor's resistance with a multimeter before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working inside the dryer cabinet, if you have tested the thermistor and wiring and both check good but the code persists (pointing to a control board fault), or if the dryer uses gas and you smell gas at any point. A qualified technician has the meter, wiring diagrams, and board-level diagnostic tools to isolate whether the problem is truly the sensor circuit or a fault in the control board's input stage. Professionals can also verify that airflow, gas valve operation (on gas models), and high-limit thermostats are all functioning correctly so you do not replace parts unnecessarily.
 
 **Rough cost:** DIY runs about $15-40 for thermistor, 30-60 min. A pro service call runs about $150-250 service call with thermistor replacement.
-
-## See Also
-
-- [LG Washer E21 Error Code - Causes & Fix](/posts/lg-washer-e21-error-code/)
-- [LG Dishwasher bE Error Code - Causes & Fix](/posts/lg-dishwasher-be-error-code/)
-- [LG Range E0 Error Code - Causes & Fix](/posts/lg-range-e0-error-code/)
-- [LG Microwave Runs but No Heat - Causes & Fix](/posts/lg-microwave-runs-but-no-heat/)

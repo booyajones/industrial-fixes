@@ -14,13 +14,10 @@ money_part: "Water inlet valve assembly"
 most_likely_cause: "House water valves closed or partly closed"
 ---
 
-## Speed Queen Washer NF Error Code — What It Means
-
+## What this code means
 The NF code stands for No Fill. Your Speed Queen washer ran its fill cycle but the control did not detect a sufficient rise in water level during the allowed time window, typically around 15 minutes. The machine stopped the cycle and threw the code because it concluded water was not entering the tub fast enough or the incoming water was not being sensed correctly.
 
 This is a fill problem, not a drain fault. The control expects to see the water level climb within a set period after it commands the inlet valve to open. When that expected change does not happen, the washer flags NF and stops to prevent a failed wash or potential overflow condition.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

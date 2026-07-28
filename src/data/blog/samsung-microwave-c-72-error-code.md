@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Steam sensor"
 ---
 
-## Samsung Microwave C-72 Error — What It Means
-
+## What this code means
 The C-72 code on a Samsung microwave indicates an error with the steam sensor. Samsung groups C-70, C-71, and C-72 together as steam-sensor faults on its official microwave support pages. The microwave has detected that the steam-sensing circuit is not responding correctly, which can prevent the oven from running or cause it to stop mid-cycle.
 
 This code most often appears after the microwave's electronics have been exposed to moisture or steam, but it can also point to a failed steam sensor, a loose or disconnected ground wire at the steam generator, or a fault on the main control board. Samsung's published guidance directs you to perform a power reset and allow any moisture to dry out before escalating to professional service if the code persists.
@@ -25,8 +24,6 @@ This code most often appears after the microwave's electronics have been exposed
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when the real problem is a loose ground wire on the steam generator or lingering moisture that requires only drying time and a power reset.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

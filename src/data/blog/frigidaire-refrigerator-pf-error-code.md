@@ -16,8 +16,7 @@ money_part: "Frigidaire dishwasher main control board"
 part_price: "$150-250"
 ---
 
-## Frigidaire PF Error Code — What It Means
-
+## What this code means
 PF stands for Power Failure. The dishwasher detected that incoming power was interrupted and entered a protective fault state. This is not a drain, wash, or sensor problem. The control board logged the event and locked out further operation until you acknowledge the interruption.
 
 In most cases, PF appears after a brief utility outage, a breaker trip, or a momentary flicker in your home's electrical supply. Frigidaire's own guidance says to press START/CANCEL to cancel the error and then start a new cycle. If the code returns without any known power event, the problem is either an intermittent supply connection or a failing control board power section.
@@ -25,8 +24,6 @@ In most cases, PF appears after a brief utility outage, a breaker trip, or a mom
 ## Before You Replace Anything
 
 Many people replace the main control board first. Before ordering a board, verify that house power is stable and inspect every wire connection at the junction box and breaker. A loose wire nut or corroded splice causes most repeat PF codes.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

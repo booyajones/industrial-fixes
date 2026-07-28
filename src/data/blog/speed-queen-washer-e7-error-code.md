@@ -14,11 +14,8 @@ money_part: "Speed Queen washer heating element"
 most_likely_cause: "Failed heating element"
 ---
 
-## Speed Queen Washer E7 Error Code — What It Means
-
+## What this code means
 E7 on a Speed Queen washer is most commonly reported as a heater circuit error, meaning the control board is not seeing the heating circuit operate correctly. The washer detects that the heater is not energizing when commanded, or the circuit is open. On some Speed Queen platforms, E:07 or E:08 codes may instead point to control board or electronics communication faults, so the exact meaning depends on your specific model and generation. Always verify the code definition in your model-specific service manual before testing, because Speed Queen code maps can vary across TR, TC, front-load, and commercial platforms.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

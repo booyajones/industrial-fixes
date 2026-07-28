@@ -19,8 +19,6 @@ A Frigidaire refrigerator leaking water is a symptom, not a fault code. Water ca
 
 The most common source is a clogged or frozen defrost drain. When this drain becomes blocked, meltwater from the evaporator can't flow to the drain pan and instead backs up and overflows into the cabinet or onto the floor. Other frequent causes include a cracked or improperly seated water filter, loose or damaged water line connections, a faulty water inlet valve, a cracked drain pan, and ice buildup in the door chute or dispenser path that later melts and drips.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged or frozen defrost drain** This is the most common cause of water inside the cabinet or on the floor, where ice or debris blocks the drain and meltwater backs up instead of flowing to the pan.
@@ -55,13 +53,13 @@ The most common source is a clogged or frozen defrost drain. When this drain bec
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Frigidaire Refrigerator Al 29 error code](/posts/frigidaire-refrigerator-al-29-error-code/)
+- Frigidaire Refrigerator Al 29 error code
 - [Frigidaire Refrigerator Df error code](/posts/frigidaire-refrigerator-df-error-code/)
 - [Frigidaire Refrigerator E11 error code](/posts/frigidaire-refrigerator-e11-error-code/)
 - [Frigidaire Refrigerator E15 error code](/posts/frigidaire-refrigerator-e15-error-code/)
 - [Frigidaire Refrigerator Er Ce error code](/posts/frigidaire-refrigerator-er-ce-error-code/)
 - [Frigidaire Refrigerator Er error code](/posts/frigidaire-refrigerator-er-error-code/)
-- [Frigidaire Refrigerator F0001 error code](/posts/frigidaire-refrigerator-f0001-error-code/)
+- Frigidaire Refrigerator F0001 error code
 - [Frigidaire Refrigerator H1 error code](/posts/frigidaire-refrigerator-h1-error-code/)
 - [Frigidaire Refrigerator Hi error code](/posts/frigidaire-refrigerator-hi-error-code/)
 - [Frigidaire Refrigerator Op error code](/posts/frigidaire-refrigerator-op-error-code/)

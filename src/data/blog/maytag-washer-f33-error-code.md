@@ -22,8 +22,7 @@ part_price: "$40-70"
 no_buy_pct: "60%"
 ---
 
-## Maytag Washer F33 Error Code — What It Means
-
+## What this code means
 The F33 code on a Maytag front-load washer signals a pump drive system error or loss of communication between the drain pump assembly and the central control unit (CCU). The washer cannot verify or drive the pump normally, so it will usually stop mid-cycle and fail to drain.
 
 In practical terms, the control board has detected that the pump circuit is not behaving as expected. This can be a wiring fault, a failed pump motor, or a control-board issue. The code does not appear on all Maytag public help pages, but repair documentation and parts references confirm it is a drain-pump communication fault.
@@ -31,8 +30,6 @@ In practical terms, the control board has detected that the pump circuit is not 
 ## Before You Replace Anything
 
 Many people replace the drain pump assembly first, but field reports show the real culprit is often a bad harness connection or corroded terminal. Inspect and reseat every connector in the pump circuit before ordering a new pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

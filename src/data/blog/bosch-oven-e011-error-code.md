@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Bosch Oven E011 Error Code — What It Means
-
+## What this code means
 The Bosch E011 error code signals that the oven has detected one or more control panel buttons being held down, jammed, or shorted. The control electronics scan the keypad constantly and throw this fault when a button fails to return to its normal open state. The problem is almost always in the button or interface area rather than heating or door-lock hardware.
 
 Common triggers include a physically stuck key, food or liquid residue under the buttons, debris behind the keypad membrane, moisture intrusion into the control panel, or a damaged button membrane or user-interface board. Less often the fault lies in the wiring or electronic scan circuit on the control board itself.
@@ -26,8 +25,6 @@ Common triggers include a physically stuck key, food or liquid residue under the
 ## Before You Replace Anything
 
 Homeowners often replace the main electronic control board when E011 appears. Before ordering an expensive board, inspect and clean every button on the control panel and confirm each springs back normally. Most E011 faults are mechanical sticking or contamination, not electronics failure.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

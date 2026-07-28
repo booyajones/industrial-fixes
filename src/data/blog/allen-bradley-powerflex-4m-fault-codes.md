@@ -23,8 +23,6 @@ The Allen-Bradley PowerFlex 4M (catalog prefix **22A**) is a compact, low-cost v
 
 The PowerFlex 4M is closely related to the PowerFlex 4 (catalog 22F) and shares similar fault codes, but the 4M includes additional features such as an integral EMC filter option and a full numeric keypad. Most faults can be cleared by pressing the **Stop/Reset** key or cycling the **Enable** input; however, persistent faults require diagnosing and eliminating the root cause.
 
-[Jump to Fix](#step-by-step-fix)
-
 ## PowerFlex 4M Fault Code Quick Reference
 
 | Fault | Name | Description |
@@ -103,19 +101,3 @@ The PowerFlex 4M is closely related to the PowerFlex 4 (catalog 22F) and shares 
 F12 (HW overcurrent) or F38 (phase-to-phase short) that persists after confirming the motor and cable are fault-free indicates a failed output IGBT module inside the PowerFlex 4M. Replacement of the output transistor module requires disassembling the drive and has risk of high-voltage exposure — the drive must be fully de-energized and the DC bus discharged (typically 5 minutes) before opening the enclosure. For drives under warranty, contact Rockwell Automation technical support at 1-440-646-3434; for out-of-warranty drives, contact a Rockwell Automation Authorized Service Center or evaluate replacing the drive entirely (replacement cost is often lower than repair cost for lower HP 4M drives).
 
 > **Pro tip:** The PowerFlex 4M has a built-in **process PI loop controller** (parameters A256–A275) that is rarely used but very powerful for simple closed-loop pump and fan pressure/flow control without an external PLC. If your application has been running open-loop and hunting for setpoint, enabling the PI controller and wiring in a 4–20 mA process feedback sensor can eliminate speed hunting and reduce wear on the driven equipment.
-
-## See Also
-
-- [Allen-Bradley PowerFlex 40 Complete Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
-- [Allen-Bradley PowerFlex 523 Fault F7](/posts/allen-bradley-powerflex-523-fault-f7/)
-- [Allen-Bradley PowerFlex 525 Fault F7](/posts/allen-bradley-powerflex-525-f7-fault/)
-- [Allen-Bradley PowerFlex 753 Fault F12](/posts/allen-bradley-powerflex-753-f12-fault/)
-- [VFD Fault Codes Guide — OC, OV, UV, OL](/posts/vfd-fault-codes-oc-ov-uv-ol/)
-
-## Related Articles
-
-- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
-- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
-- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
-- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)
-- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)

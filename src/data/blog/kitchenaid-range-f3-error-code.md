@@ -17,8 +17,7 @@ money_part: "Oven temperature sensor"
 part_price: "$30-80"
 ---
 
-## KitchenAid Range F3 Error Code — What It Means
-
+## What this code means
 The F3 error code (and its related F3 E3 variant) on KitchenAid ranges signals an open or abnormal oven temperature sensor circuit. KitchenAid's own guidance describes this as a problem with the oven temperature sensor or the associated wiring. The code appears when the control board cannot read a valid signal from the temperature probe that monitors oven heat.
 
 KitchenAid recommends starting by resetting power to see if the code clears, then verifying whether it returns. If the code persists, the fault is most often in the sensor itself, though loose or damaged wiring and control-board issues can also trigger the same code.
@@ -26,8 +25,6 @@ KitchenAid recommends starting by resetting power to see if the code clears, the
 ## Before You Replace Anything
 
 Homeowners often replace the oven temperature sensor repeatedly without checking the wiring harness or control board. Use a multimeter to test sensor resistance and inspect every connector and wire for damage before ordering a second sensor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

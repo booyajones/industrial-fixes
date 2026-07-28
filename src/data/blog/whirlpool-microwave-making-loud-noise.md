@@ -19,8 +19,6 @@ A Whirlpool microwave making loud noise is not a fault code. Whirlpool says some
 
 Most loud-noise complaints trace back to a failing high-voltage diode or a worn magnetron. Both sit in the high-voltage circuit that generates microwave energy. A shorted diode or noisy magnetron can produce a loud hum or growl even when the unit otherwise heats food. Less often, the high-voltage transformer or an obstructed cooling fan creates the sound.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Shorted high-voltage diode** The HV diode is the most common cause of loud buzzing or humming and is cheaper to replace than the magnetron.
@@ -52,18 +50,18 @@ Most loud-noise complaints trace back to a failing high-voltage diode or a worn 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Whirlpool Microwave E03 error code](/posts/whirlpool-microwave-e03-error-code/)
-- [Whirlpool Microwave E11 error code](/posts/whirlpool-microwave-e11-error-code/)
-- [Whirlpool Microwave E12 error code](/posts/whirlpool-microwave-e12-error-code/)
-- [Whirlpool Microwave E13 error code](/posts/whirlpool-microwave-e13-error-code/)
-- [Whirlpool Microwave E21 error code](/posts/whirlpool-microwave-e21-error-code/)
-- [Whirlpool Microwave E22 error code](/posts/whirlpool-microwave-e22-error-code/)
-- [Whirlpool Microwave E23 error code](/posts/whirlpool-microwave-e23-error-code/)
-- [Whirlpool Microwave E24 error code](/posts/whirlpool-microwave-e24-error-code/)
-- [Whirlpool Microwave E61 error code](/posts/whirlpool-microwave-e61-error-code/)
-- [Whirlpool Microwave E62 error code](/posts/whirlpool-microwave-e62-error-code/)
-- [Whirlpool Microwave E63 error code](/posts/whirlpool-microwave-e63-error-code/)
-- [Whirlpool Microwave F01 error code](/posts/whirlpool-microwave-f01-error-code/)
+- Whirlpool Microwave E03 error code
+- Whirlpool Microwave E11 error code
+- Whirlpool Microwave E12 error code
+- Whirlpool Microwave E13 error code
+- Whirlpool Microwave E21 error code
+- Whirlpool Microwave E22 error code
+- Whirlpool Microwave E23 error code
+- Whirlpool Microwave E24 error code
+- Whirlpool Microwave E61 error code
+- Whirlpool Microwave E62 error code
+- Whirlpool Microwave E63 error code
+- Whirlpool Microwave F01 error code
 
 ## When to Call a Pro
 

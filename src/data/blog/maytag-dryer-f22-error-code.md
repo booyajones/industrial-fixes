@@ -17,8 +17,7 @@ money_part: "Maytag dryer exhaust thermistor"
 part_price: "$15-40"
 ---
 
-## Maytag Dryer F22 Error Code — What It Means
-
+## What this code means
 The F22 code on a Maytag dryer indicates a problem with the exhaust or outlet thermistor circuit. The dryer has detected that the temperature sensor on the exhaust path is returning faulty data or has lost electrical continuity. When this happens, the control board cannot safely manage heat, so the dryer will often run for about a minute and then stop. The code may also appear after a power interruption, but if it returns after a reset, the thermistor circuit needs inspection.
 
 Maytag's official troubleshooting procedure starts with a power reset: turn off the breaker for five minutes, restore power, and run a timed dry cycle to see if the code returns. If F22 reappears, the problem is real and typically points to a failed thermistor, a loose or corroded connector, damaged wiring between the sensor and control board, or in rare cases a faulty electronic control board.
@@ -26,8 +25,6 @@ Maytag's official troubleshooting procedure starts with a power reset: turn off 
 ## Before You Replace Anything
 
 Many people replace the main electronic control board first. Always test the thermistor resistance with a multimeter and inspect the harness connectors before replacing the board, since a loose plug or bad sensor is far more common.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

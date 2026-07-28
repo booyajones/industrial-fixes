@@ -15,8 +15,7 @@ diy_or_pro: "diy"
 money_part: "Dishwasher filter assembly"
 ---
 
-## Frigidaire i40 Error Code — What It Means
-
+## What this code means
 The i40 code on a Frigidaire dishwasher indicates a clogged filter or sump. Frigidaire states the dishwasher displays i40 when food soils have built up in the sump and the unit is not draining properly. Functionally, the dishwasher is not moving water through the sump and drain path as expected, usually because debris is restricting flow. While some independent repair guides describe i40 as a pressure sensor or control board issue, the manufacturer's published explanation focuses on physical clogs in the filter and sump area.
 
 The code typically appears when food particles, grease, or other debris accumulate in the triple-filter system, glass trap, or sump housing at the bottom of the tub. This buildup prevents proper water circulation and drainage during the wash cycle. In some cases, the restriction may be farther downstream in the drain hose, air gap, or sink connection, but the root cause remains the same: the dishwasher cannot move water out as designed.
@@ -24,8 +23,6 @@ The code typically appears when food particles, grease, or other debris accumula
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board or pressure sensor when i40 appears, but the manufacturer explanation points to a physical clog. Clean the filter, sump, and drain path completely before ordering electronic parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -19,8 +19,6 @@ When your Amana washer gets stuck on one cycle and won't advance, the machine is
 
 This is a symptom, not a single fault code. Amana and VMW-style washers store actual error codes for problems like water level, door lock, drainage, motor drive, and temperature sensing. Those stored codes point to the real failure that is stopping your cycle from completing. Checking for those codes in diagnostic mode is the correct way to find the root cause instead of guessing from the symptom alone.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Unbalanced or overloaded laundry** An off-balance load prevents the washer from sensing correctly and moving to the next step, especially during spin transitions.
@@ -62,7 +60,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Amana Washer F8 E1 error code](/posts/amana-washer-f8-e1-error-code/)
 - [Amana Washer F8 E2 error code](/posts/amana-washer-f8-e2-error-code/)
 - [Amana Washer F9 E1 error code](/posts/amana-washer-f9-e1-error-code/)
-- [Amana Washer Fd error code](/posts/amana-washer-fd-error-code/)
+- Amana Washer Fd error code
 - [Amana Washer Hc error code](/posts/amana-washer-hc-error-code/)
 - [Amana Washer Ldl error code](/posts/amana-washer-ldl-error-code/)
 - [Amana Washer Ldu error code](/posts/amana-washer-ldu-error-code/)

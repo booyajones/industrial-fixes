@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Hoshizaki E4 Error Code — What It Means
-
+## What this code means
 The E4 error code on a Hoshizaki ice machine signals a high water level condition in the water tank. The machine initiates a drain cycle and starts a 3-minute backup timer. If the actuator motor's internal position sensor does not confirm the water tank is fully closed within those 3 minutes, the display shows the error and the unit shuts down for 60 minutes. In practice, this means the machine cannot drain the tank properly, leaving excess water that should have evacuated.
 
 The fault is almost always mechanical or hydraulic rather than electronic. The drain line is blocked, the actuator motor or float is stuck, or the inlet valve continues to fill the tank even as the machine tries to drain it. The control board is watching for a closed-tank signal and does not receive it in time.
@@ -29,8 +28,6 @@ The fault is almost always mechanical or hydraulic rather than electronic. The d
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board when the actuator motor or its internal position sensor has failed. Always verify the drain line is clear and the actuator moves the tank fully before swapping the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a qualified ice-machine technician if you are not comfortable working with refrigeration equipment or if the error persists after you have cleared the drain line and reset the machine. The diagnostic steps require verifying the actuator motor, position sensor, and control board, which involve electrical testing and access to service documentation. A pro will have the correct replacement parts on hand and can test water pressure, valve operation, and sensor signals with manufacturer-specific tools. If your machine is under warranty or a service contract, contact your authorized Hoshizaki dealer before attempting any repair.
 
 **Rough cost:** A pro service call runs about $200-450.
-
-## See Also
-
-- [Hoshizaki F01 Error Code — Causes & Fix](/posts/hoshizaki-f01-error-code/)
-- [Hoshizaki KM-1301 Error Codes — Complete Guide](/posts/hoshizaki-km-1301-error-codes/)
-- [Hoshizaki E6 Error Code — Causes & Fix](/posts/hoshizaki-e6-error-code/)
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)

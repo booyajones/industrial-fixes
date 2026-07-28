@@ -17,8 +17,7 @@ money_part: "Dryer thermistor"
 part_price: "$15-50"
 ---
 
-## Whirlpool Dryer F25 Error Code — What It Means
-
+## What this code means
 Whirlpool's F25 error on a dryer signals a control-detected temperature or thermistor-related fault. The official product help page does not publish a detailed component-level definition, but instructs you to reset power and retest the dryer. In field repair practice for Whirlpool Duet-era dryers, F25 is treated as a temperature-sensing circuit problem, typically involving the thermistor or thermal cut-off devices.
 
 The code can appear because the thermistor is reading out of range, a thermal fuse has opened, wiring or connectors in the temperature-sense harness are damaged, or the control board is not reading the temperature input correctly. A simple control lockup can also trigger F25, which is why Whirlpool recommends a power reset first.
@@ -26,8 +25,6 @@ The code can appear because the thermistor is reading out of range, a thermal fu
 ## Before You Replace Anything
 
 Many people replace the control board first. Check the thermistor and thermal fuses with a meter for opens or out-of-range readings before spending money on electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

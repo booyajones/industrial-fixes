@@ -17,8 +17,7 @@ money_part: "GE oven keypad / touchpad / membrane pad"
 part_price: "$50-150"
 ---
 
-## GE Oven F0 Error Code — What It Means
-
+## What this code means
 GE error code F0 indicates a stuck or defective button on the keypad or touchpad. The control board detects a continuous signal from one of the touch keys, as if someone is holding down a button. This fault is grouped with F1 and F7 codes as keypad-related failures in GE service documentation.
 
 If the keypad itself tests good or if disconnecting it does not clear the error, the electronic range control (ERC) or control board is the next suspect. The board may be misreading the keypad input or have an internal fault that mimics a stuck key signal.
@@ -26,8 +25,6 @@ If the keypad itself tests good or if disconnecting it does not clear the error,
 ## Before You Replace Anything
 
 Many people replace the control board first. Disconnect the keypad ribbon connector and power-cycle the oven. If the F0 clears with the keypad unplugged, the keypad is the problem, not the expensive control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

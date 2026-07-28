@@ -22,8 +22,7 @@ part_price: "$40-90"
 no_buy_pct: "65%"
 ---
 
-## Samsung Dishwasher 5C Error Code — What It Means
-
+## What this code means
 Samsung lists the 5C (and 5E) code as a drainage issue on your dishwasher. The machine is reporting that water is not draining correctly or the drain system is being falsely read as blocked. Samsung specifically names clogged filters, broken plate or glass fragments caught in the pump impeller, frozen or kinked drain hoses, and less commonly a control board failure or pressure switch malfunction as the root causes.
 
 In practical terms, the dishwasher either cannot pump water out fast enough or a sensor is telling the control board that the drain path is obstructed. Technicians treat 5C as a drain-path problem first and verify every mechanical piece of the drain system before replacing electrical parts.
@@ -31,8 +30,6 @@ In practical terms, the dishwasher either cannot pump water out fast enough or a
 ## Before You Replace Anything
 
 Many people replace the drain pump when the real culprit is glass, bone fragments, or food waste jamming the impeller. Always pull the filter and inspect the sump cavity for debris before ordering a pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

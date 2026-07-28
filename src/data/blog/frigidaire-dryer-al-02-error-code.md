@@ -15,8 +15,7 @@ most_likely_cause: "Misread or model-specific code"
 diy_or_pro: "diy"
 ---
 
-## Frigidaire Dryer AL-02 Error Code — What It Means
-
+## What this code means
 AL-02 does not appear in the manufacturer-published Frigidaire dryer fault code lists that include codes like E10, E11, E12, E24, E66, and AD. The display may be showing a different code that is being misread, or your model may use a control platform with a different diagnostic family. Before replacing any parts, confirm the exact characters on the display and locate your model's tech sheet (often taped inside the cabinet or door frame) to verify the correct code meanings for your specific series.
 
 Because the code cannot be confirmed in Frigidaire documentation, the safest first step is a hard power reset. Frigidaire's own support guidance recommends disconnecting power for several minutes to clear transient electronic faults. If the code returns, identify your model number from the rating label and consult the service literature or a technician familiar with that control board generation.
@@ -24,8 +23,6 @@ Because the code cannot be confirmed in Frigidaire documentation, the safest fir
 ## Before You Replace Anything
 
 Do not order a control board or thermistor until you have confirmed the exact code on your model's tech sheet. A misread code or simple power glitch often clears with a hard reset, saving the cost of unnecessary electronic parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

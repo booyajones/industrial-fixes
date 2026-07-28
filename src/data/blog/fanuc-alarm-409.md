@@ -15,11 +15,8 @@ money_part: "Way lube metering unit"
 most_likely_cause: "axis ways or ballscrew are binding"
 ---
 
-## Fanuc Alarm 409 — What It Means
-
+## What this code means
 **Alarm 409** on a Fanuc-controlled CNC indicates **servo overload**, commonly on the **Z-axis** when the axis motor is working harder than the allowable load limit. On vertical machining centers, the Z-axis fights gravity and tool changer mass, so overload alarms here are common.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,18 +46,3 @@ most_likely_cause: "axis ways or ballscrew are binding"
 ## When to Call a Pro
 
 If the Z-axis binds only in part of travel or the servo load is unstable, the machine may need alignment work, ballscrew service, or servo tuning beyond routine maintenance.
-
-## Related Articles
-
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
-- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
-- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
-
-## See Also
-
-- [Fanuc Alarm 430 — Servo Motor Overheat Fix](/posts/fanuc-alarm-430/)
-- [Fanuc Alarm 700 — Causes & Fix](/posts/fanuc-alarm-700/)
-- [Fanuc M-Series Control Alarm Codes: Complete Guide](/posts/fanuc-m-series-alarm-codes/)
-- [Fanuc Alarm 506 — Servo Following Error Fix](/posts/fanuc-alarm-506/)

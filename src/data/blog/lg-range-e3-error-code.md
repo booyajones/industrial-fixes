@@ -17,8 +17,7 @@ money_part: "LG oven temperature sensor / thermistor"
 part_price: "$25-75"
 ---
 
-## LG Range E3 Error Code — What It Means
-
+## What this code means
 E3 on an LG range is a thermistor error. The control board is not receiving a valid signal from the oven temperature sensor circuit. This can happen when the sensor itself fails, when the wiring between the sensor and the control board is damaged or disconnected, or when the sensor circuit is shorted or open. Some models report E3 specifically when the oven sensor has been shorted for over a minute during cooking, which points to a sensor-circuit failure rather than a general control problem.
 
 LG recommends trying a simple power reset first, since the fault can occasionally be a transient glitch. If the code returns after reset, the sensor or its circuit needs inspection and testing. The sensor is a thermistor that changes resistance with temperature, and the control board reads that resistance to monitor oven heat. When the resistance reading is out of range or absent, the board throws E3 and stops the oven.
@@ -26,8 +25,6 @@ LG recommends trying a simple power reset first, since the fault can occasionall
 ## Before You Replace Anything
 
 Many people replace the main control board first. Test the sensor resistance and inspect the harness and connectors before replacing any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a pro if you are uncomfortable working with the range power supply, if the sensor is difficult to access without disassembling sheet-metal panels, or if the fault persists after you have replaced the sensor and verified the wiring. A technician has the model-specific service manual, the correct resistance specifications, and the tools to test the control board input circuit safely. If the range uses gas, any work that involves moving the appliance or disconnecting gas lines should be done by a qualified technician to avoid a gas leak.
 
 **Rough cost:** DIY runs about $25–75 in parts, 30–60 min. A pro service call runs about $150–300.
-
-## See Also
-
-- [LG Washer Not Dispensing Detergent - Causes & Fix](/posts/lg-washer-not-dispensing-detergent/)
-- [LG Washer Won't Turn On - Causes & Fix](/posts/lg-washer-wont-turn-on/)
-- [LG Refrigerator IF Error Code - Causes & Fix](/posts/lg-refrigerator-if-error-code/)
-- [LG Dryer E4 Error Code - Causes & Fix](/posts/lg-dryer-e4-error-code/)

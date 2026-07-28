@@ -22,8 +22,7 @@ part_price: "$40-90"
 no_buy_pct: "70%"
 ---
 
-## Bosch Washer E18 Error Code — What It Means
-
+## What this code means
 Bosch's E18 code indicates a drainage problem. The washer has detected that water is not draining as expected, and Bosch states there may still be water in the tub. In practical terms, the machine is failing to evacuate water fast enough to continue the cycle. Bosch's own support pages identify the likely causes as a blocked pump, a blocked or kinked drain hose, or (on U.S. models) a blocked or kinked cold-water inlet hose.
 
 This is a timed drain failure. The machine monitors how quickly water leaves the drum, and when the drain takes too long the control throws E18 and stops the cycle. The code does not always mean the pump has failed. Most of the time the pump is fine but something is blocking the flow path or preventing the impeller from spinning freely.
@@ -31,8 +30,6 @@ This is a timed drain failure. The machine monitors how quickly water leaves the
 ## Before You Replace Anything
 
 Homeowners often replace the drain pump when E18 appears, but the pump itself is rarely faulty. Clean the filter and inspect the impeller for trapped debris before ordering a new pump. Most E18 faults clear once the blockage is removed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

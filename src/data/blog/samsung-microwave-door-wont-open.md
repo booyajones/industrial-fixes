@@ -19,8 +19,6 @@ When your Samsung microwave door will not open, the latch system is not releasin
 
 If your microwave also displays a code like C-d0, C-d1, C-d2, or E-47, Samsung identifies those as separate door or key errors. A door that physically sticks closed without a code points directly to failed latch hardware.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Broken or bent door hook or latch** The hook that engages the strike is cracked, deformed, or missing and no longer pulls free when you release the door.
@@ -54,7 +52,7 @@ If your microwave also displays a code like C-d0, C-d1, C-d2, or E-47, Samsung i
 If your appliance also shows a code on the display, these match this problem:
 
 - [Samsung Microwave 5E error code](/posts/samsung-microwave-5e-error-code/)
-- [Samsung Microwave C 10 error code](/posts/samsung-microwave-c-10-error-code/)
+- Samsung Microwave C 10 error code
 - [Samsung Microwave C 11 error code](/posts/samsung-microwave-c-11-error-code/)
 - [Samsung Microwave C 12 error code](/posts/samsung-microwave-c-12-error-code/)
 - [Samsung Microwave C 20 error code](/posts/samsung-microwave-c-20-error-code/)

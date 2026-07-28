@@ -19,8 +19,6 @@ When an LG dryer shows no power at all, the drum light will not come on when you
 
 LG says the most common causes are a tripped breaker, faulty outlet, home power outage, or a loose power cord connection. If basic external checks do not restore power, the unit may require repair service.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Tripped circuit breaker** Electric dryers typically use two breakers, and if either trips the dryer loses power completely.
@@ -51,26 +49,19 @@ LG says the most common causes are a tripped breaker, faulty outlet, home power 
 
 Seeing a code on the display? These match this problem:
 
-- [Lg Dryer Add error code](/posts/lg-dryer-add-error-code/)
-- [Lg Dryer D75 error code](/posts/lg-dryer-d75-error-code/)
-- [Lg Dryer D80 error code](/posts/lg-dryer-d80-error-code/)
-- [Lg Dryer D90 error code](/posts/lg-dryer-d90-error-code/)
-- [Lg Dryer D95 error code](/posts/lg-dryer-d95-error-code/)
-- [Lg Dryer De error code](/posts/lg-dryer-de-error-code/)
-- [Lg Dryer E00 error code](/posts/lg-dryer-e00-error-code/)
-- [Lg Dryer E1 error code](/posts/lg-dryer-e1-error-code/)
-- [Lg Dryer E13 error code](/posts/lg-dryer-e13-error-code/)
-- [Lg Dryer E4 error code](/posts/lg-dryer-e4-error-code/)
-- [Lg Dryer F0 error code](/posts/lg-dryer-f0-error-code/)
-- [Lg Dryer He error code](/posts/lg-dryer-he-error-code/)
+- Lg Dryer Add error code
+- Lg Dryer D75 error code
+- Lg Dryer D80 error code
+- Lg Dryer D90 error code
+- Lg Dryer D95 error code
+- Lg Dryer De error code
+- Lg Dryer E00 error code
+- Lg Dryer E1 error code
+- Lg Dryer E13 error code
+- Lg Dryer E4 error code
+- Lg Dryer F0 error code
+- Lg Dryer He error code
 
 ## When to Call a Pro
 
 If you have verified the breaker is on, the cord is secure, and the outlet is live but the dryer still shows no power, call a qualified appliance technician. LG says at that point the unit requires repair service. If you see the nP code or suspect incomplete voltage at the outlet, have a licensed electrician test the outlet before replacing any internal dryer components.
-
-## See Also
-
-- [LG Refrigerator C1 Error Code - Causes & Fix](/posts/lg-refrigerator-c1-error-code/)
-- [LG Dishwasher nE Error Code - Causes & Fix](/posts/lg-dishwasher-ne-error-code/)
-- [LG Mini-Split CH07 Error Code - Causes & Fix](/posts/lg-mini-split-ch07-error-code/)
-- [LG Range FE Error Code - Causes & Fix](/posts/lg-range-fe-error-code/)

@@ -13,11 +13,8 @@ money_part: "GA800 Control Board"
 most_likely_cause: "Code from external controller"
 ---
 
-## Yaskawa GA800 E04 Fault Code — What It Means
-
+## What this code means
 E04 does not appear in Yaskawa's documented GA800 fault code list. This code is likely being misread from the drive display, belongs to a different Yaskawa product family, or originates from an external controller or operator connected to the GA800. The GA800 drive uses a different alphanumeric fault naming system, so if you see E04 on a keypad or display, verify the source of the error carefully. The code may indicate a communication or setup issue in the system around the drive rather than a drive internal fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ E04 does not appear in Yaskawa's documented GA800 fault code list. This code is 
 ## When to Call a Pro
 
 Call a qualified technician or Yaskawa-trained service provider if you cannot locate the source of the E04 code after checking the drive display and external controllers. Communication and network troubleshooting on industrial VFD systems requires specialized knowledge of protocol settings, wiring standards, and proper diagnostic tools. If the drive control board or communication hardware needs replacement, professional installation and parameter programming are recommended to avoid further damage or incorrect operation.
-
-## See Also
-
-- [Yaskawa GA800 E15 Fault - Causes & Fix](/posts/yaskawa-ga800-e15-fault-code/)
-- [Yaskawa VFD Fault UV1 — Causes & Fix](/posts/yaskawa-vfd-fault-uv1/)
-- [Yaskawa GA800 E12 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e12-fault-code/)
-- [Yaskawa GA800 E26 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e26-fault-code/)

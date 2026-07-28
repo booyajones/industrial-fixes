@@ -13,13 +13,10 @@ money_part: "Soft-charge bypass relay (contactor)"
 most_likely_cause: "Worn or damaged soft-charge bypass relay"
 ---
 
-## Yaskawa GA800 E34 Fault Code — What It Means
-
+## What this code means
 The E34 fault on the Yaskawa GA800 VFD is a soft-charge answerback fault. This means the drive does not receive the expected feedback signal that the soft-charge (precharge) bypass relay has completed its transfer sequence. The drive energizes the relay to charge the DC bus capacitors safely, then expects a contact state change to confirm the relay has switched. When that answerback signal never arrives or arrives incorrectly, the drive throws E34 and stops.
 
 This fault is tied to the soft-charge bypass relay hardware and its control circuit, not to motor overload or output phase problems. The relay itself may have worn or stuck contacts, or the control board that reads the answerback signal may have failed. In some cases the entire drive needs replacement if the fault persists after basic troubleshooting.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ This fault is tied to the soft-charge bypass relay hardware and its control circ
 ## When to Call a Pro
 
 Call a qualified industrial electrician or VFD technician if you are not trained to work inside energized or recently de-energized VFD cabinets. The DC bus capacitors can hold lethal voltage even after AC power is removed. If you have checked U4-06 and power cycled the drive but the fault returns, or if you do not have access to the elementary diagram and service documentation for your exact GA800 model, professional diagnosis is the safest path. Also call a pro if the fault persists after control board replacement, since drive-level failures often require factory support or warranty claim handling.
-
-## See Also
-
-- [Yaskawa GA800 F040 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f040-fault-code/)
-- [Yaskawa GA800 F045 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f045-fault-code/)
-- [Yaskawa A1000 Er-02 - Causes & Fix](/posts/yaskawa-a1000-vfd-al-02-fault-code/)
-- [Yaskawa GA800 E76 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e76-fault-code/)

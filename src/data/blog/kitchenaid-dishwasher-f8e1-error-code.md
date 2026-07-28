@@ -22,8 +22,7 @@ part_price: "$30-50"
 no_buy_pct: "70%"
 ---
 
-## KitchenAid Dishwasher F8E1 Error Code — What It Means
-
+## What this code means
 The F8E1 (or 8-1) error code on a KitchenAid dishwasher means the control detected slow drainage. The tub did not empty within the expected drain time. This is not a wash-motor or fill fault. Instead, the machine is signaling that water is backing up or draining too slowly, usually because something is blocking or restricting the drain path.
 
 The code points to a mechanical restriction rather than an electronic failure. KitchenAid's own troubleshooting for dishwasher drain faults instructs checking for a kinked or clogged drain hose, food or debris in the drain or garbage disposer, and whether the disposer knockout plug was removed when the dishwasher was installed. Most F8E1 faults resolve once the drain path is cleared.
@@ -31,8 +30,6 @@ The code points to a mechanical restriction rather than an electronic failure. K
 ## Before You Replace Anything
 
 Many owners replace the drain pump or control board first. Before buying any part, inspect the entire drain path (hose, air gap, disposer connection, and sump) for kinks, clogs, or the knockout plug still in place.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

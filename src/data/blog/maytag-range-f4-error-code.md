@@ -17,8 +17,7 @@ money_part: "Oven temperature sensor (probe)"
 part_price: "$20-50"
 ---
 
-## Maytag Range F4 Error Code — What It Means
-
+## What this code means
 The F4 error on a Maytag range or oven indicates the control has detected a problem with the oven temperature sensor circuit. The sensor resistance is either out of range (open or shorted) or the control cannot reliably read it. Maytag's product help also describes F4 as a fault in the oven cavity control or associated wiring.
 
 The control relies on a thermistor probe mounted inside the oven cavity to monitor baking temperature. When that probe fails, reads infinite resistance (open), reads near zero (shorted), or the wiring harness between the probe and control is damaged, the control throws F4 and stops oven operation to prevent unsafe heating.
@@ -26,8 +25,6 @@ The control relies on a thermistor probe mounted inside the oven cavity to monit
 ## Before You Replace Anything
 
 Many people replace the oven control board first because the error sounds electronic. Test the oven sensor resistance with a multimeter (should read around 1100 ohms at room temperature) and inspect the harness for damage before buying a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

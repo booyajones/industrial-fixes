@@ -19,8 +19,7 @@ free_checks:
   - "Check all grounding connections for corrosion or loose straps"
 ---
 
-## Yaskawa GA800 F021 Fault — What It Means
-
+## What this code means
 The Yaskawa GA800 does not have a fault code labeled F021. GA800 drives display fault codes as letter combinations like GF, OC, Ov, or Und. If you see a fault during PID control with ground fault or overcurrent symptoms, you are most likely experiencing a GF (ground fault) or OC (overcurrent) fault. GF means the drive detects current leaking to ground through damaged motor insulation, faulty wiring, or moisture in the motor. OC means output current exceeds safe limits, often caused by rapidly oscillating torque from erratic PID feedback or mechanical obstructions.
 
 Both faults commonly appear when the drive runs in PID control mode and can stem from poor encoder feedback, loose couplings, or failed motor insulation. Always consult your GA800 manual or wiring diagram to confirm the actual fault code displayed on your drive before troubleshooting.
@@ -28,8 +27,6 @@ Both faults commonly appear when the drive runs in PID control mode and can stem
 ## Before You Replace Anything
 
 Technicians often replace the VFD or encoder before testing motor insulation. A megger test on the motor windings quickly identifies failed insulation and saves the cost of unnecessary drive replacement.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

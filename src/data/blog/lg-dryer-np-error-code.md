@@ -17,8 +17,7 @@ money_part: "LG dryer power cord (3-prong or 4-prong)"
 part_price: "$15-50"
 ---
 
-## LG Dryer nP Error Code — What It Means
-
+## What this code means
 The nP error code on an LG dryer indicates that the unit is detecting a problem with the home electrical supply or wiring and specifically that no current is being detected at the heater. LG's own support documentation describes this as an electrical wiring problem in the home, not an airflow fault or a general power outage.
 
 In practice, this means the dryer is running but not receiving the full 240 V supply needed to energize the heating element. The drum may turn and the control panel may light up, but the heater circuit is not powered. The code points to supply voltage issues rather than internal component failure in most cases.
@@ -27,31 +26,13 @@ In practice, this means the dryer is running but not receiving the full 240 V su
 
 Homeowners often replace the heating element or thermal fuse when the real problem is outside the dryer. Always check the breaker, outlet voltage, and power cord connections before opening the cabinet.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Tripped or partially tripped double-pole breaker (~40%)** One leg of the 240 V circuit can trip while the other stays on, letting the dryer run without heat and triggering nP.
-- **Missing one leg of 240 V supply at the outlet (~25%)** A bad outlet, loose wire nut in the junction box, or failed breaker contact can drop one hot leg and leave the dryer with only 120 V.
-- **Loose, damaged, or burned power cord or terminal block connection (~20%)** Poor contact at the cord plug, wall receptacle, or dryer terminal block can prevent full voltage from reaching the heater circuit.
-- **Faulty wall receptacle or home outlet wiring (~10%)** Burned contacts, loose wiring, or an improperly wired outlet can interrupt the 240 V feed to the dryer.
-- **Internal control board or heater relay fault (~5%)** If supply voltage and all connections are confirmed good, the control board or relay that switches heater power may have failed.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Does the dryer drum spin and the control panel light up normally?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The dryer is receiving some power. The nP code likely means one leg of the 240 V supply is missing. Proceed to check the breaker and outlet voltage.<br><strong>No:</strong> The dryer may have no power at all. Check that the unit is plugged in, the outlet is live, and the breaker is on before troubleshooting nP specifically.</div>
-</details>
-
-<details class="dtree"><summary>Did you recently move or reinstall the dryer or experience a power surge or outage?</summary>
-<div class="dtree-body"><strong>Yes:</strong> A breaker may have tripped or a cord connection may have loosened. Reset the breaker fully and inspect the terminal block and plug.<br><strong>No:</strong> The fault is less likely to be a simple trip. Check for signs of damage or wear at the outlet, cord, and plug before looking inside the dryer.</div>
-</details>
-
-<details class="dtree"><summary>Do you see any burn marks, discoloration, or melting at the wall outlet or dryer plug?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Stop using the dryer immediately. The outlet or cord has failed and poses a fire hazard. Replace the damaged component and have an electrician inspect the circuit.<br><strong>No:</strong> Connections appear intact. Measure the outlet voltage or call a technician to confirm the dryer is receiving 240 V before replacing internal parts.</div>
-</details>
+- **Tripped or partially tripped double-pole breaker** One leg of the 240 V circuit can trip while the other stays on, letting the dryer run without heat and triggering nP.
+- **Missing one leg of 240 V supply at the outlet** A bad outlet, loose wire nut in the junction box, or failed breaker contact can drop one hot leg and leave the dryer with only 120 V.
+- **Loose, damaged, or burned power cord or terminal block connection** Poor contact at the cord plug, wall receptacle, or dryer terminal block can prevent full voltage from reaching the heater circuit.
+- **Faulty wall receptacle or home outlet wiring** Burned contacts, loose wiring, or an improperly wired outlet can interrupt the 240 V feed to the dryer.
+- **Internal control board or heater relay fault** If supply voltage and all connections are confirmed good, the control board or relay that switches heater power may have failed.
 
 ## Step-by-Step Fix {#fix}
 
@@ -74,12 +55,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a professional if you are not comfortable working with 240 V circuits, if you cannot safely access or measure the wall outlet voltage, or if the nP code persists after you have confirmed proper supply voltage and inspected all cord and terminal connections. Internal faults involving the control board, heater relay, or dryer wiring require disassembly, diagnostic tools, and parts-level troubleshooting that are beyond typical DIY scope. If you see any burn marks, smell burning plastic, or notice heat damage at the outlet or cord, stop using the dryer immediately and call both an electrician to inspect the home circuit and an appliance technician to inspect the dryer. Mixing up 3-wire and 4-wire cords or miswiring the terminal block can create shock and fire hazards, so professional installation is recommended if you are upgrading or replacing the power cord for the first time.
-
-**Rough cost:** DIY runs about $15-50 in parts (power cord or outlet), 15-45 min. A pro service call runs about $100-250 service call plus parts if internal wiring or board involved.
-
-## See Also
-
-- [LG Washer CL Error Code - Causes & Fix](/posts/lg-washer-cl-error-code/)
-- [LG Mini Split Not Heating - Causes & Fix](/posts/lg-mini-split-not-heating/)
-- [LG Microwave F4 Error - Causes & Fix](/posts/lg-microwave-f4-error-code/)
-- [LG Dryer E00 Error Code - Causes & Fix](/posts/lg-dryer-e00-error-code/)

@@ -105,18 +105,3 @@ If all LEDs flash simultaneously, the machine is in a safety shutdown:
 Any fault code related to refrigerant (persistent E3 or E4 after mechanical fixes) requires an EPA 608-certified technician to handle the refrigerant system. The KM-1301SAH uses R-404A or R-448A — these are HFC refrigerants requiring certification to purchase and handle. Additionally, this machine's size and complexity make refrigerant leak detection and recharge a job requiring proper equipment and experience. For a 1,300 lb/day machine in a commercial kitchen, downtime is measured in hundreds of dollars per hour — professional diagnosis is usually more cost-effective than trial-and-error parts replacement.
 
 > **Pro tip:** Hoshizaki's KM-1301SAH has a service log mode that stores the last 15 fault events with timestamps. Access it by holding the START/STOP button for 10 seconds with the machine off. Review the fault history before any repair — intermittent faults that only appear under load (like E3 during peak production hours) are almost always refrigeration capacity problems, not sensor failures.
-
-## Related Articles
-
-- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
-- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)
-- [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
-- [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)
-
-## See Also
-
-- [Hoshizaki E7 Error Code — Causes & Fix](/posts/hoshizaki-e7-error-code/)
-- [Hoshizaki KM-515 Error Codes — Fix Guide](/posts/hoshizaki-km-515-error-codes/)
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
-- [Hoshizaki E5 Error Code — Causes & Fix](/posts/hoshizaki-e5-error-code/)

@@ -17,15 +17,12 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Bosch Washer E29 Error Code — What It Means
-
+## What this code means
 E29 on a Bosch washer signals an abnormal or insufficient water fill. The control system has detected that the tub is not filling as expected or the fill rate is too low for the cycle to proceed. In practical terms, the machine is not receiving the water it needs during the inlet phase, and the cycle will halt until the problem is corrected.
 
 ## Before You Replace Anything
 
 Many people replace the inlet valve or pressure switch first. Before ordering parts, check that the water supply is fully open, the inlet hose is not kinked, and the filter screen at the hose connection is clean. These simple checks solve most E29 codes and cost nothing.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

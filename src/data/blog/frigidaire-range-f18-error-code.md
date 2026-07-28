@@ -17,8 +17,7 @@ money_part: "Frigidaire oven relay board"
 part_price: "$100-200"
 ---
 
-## Frigidaire Range F18 Error Code — What It Means
-
+## What this code means
 The F18 error code on a Frigidaire range indicates an oven relay board failure. Frigidaire's service documentation lists this as 'F18 Oven relay board failure (wiggler)' and points to a fault in the relay board that controls power switching to oven heating elements. The relay board receives commands from the user interface board and energizes the appropriate heating circuits. When the control system detects that the relay board is not responding correctly or has failed, it triggers the F18 code and typically halts oven operation to prevent unsafe conditions.
 
 The fault can originate in the relay board itself, in the wiring harness between the user interface board and the relay board, or occasionally in the control assembly that commands the relay board. Frigidaire's diagnostic flow treats this as primarily a relay board issue, with upstream control problems considered only after verifying connections and power cycling the unit.
@@ -26,8 +25,6 @@ The fault can originate in the relay board itself, in the wiring harness between
 ## Before You Replace Anything
 
 Many people replace the user interface board or touch panel first because they are more visible. Always inspect the harness connectors between the UI board and the relay board and power-cycle the range before replacing any boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

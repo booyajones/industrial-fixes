@@ -19,8 +19,6 @@ When your Whirlpool microwave turntable stops spinning, it means the glass tray 
 
 On some Whirlpool models, the turntable can be intentionally turned off for manual cooking or to fit large plates. Before assuming a mechanical failure, verify that the rotation setting was not disabled through the control panel.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Turntable installed incorrectly** The glass tray must sit securely on the support hub and be right side up or it will not engage the motor drive.
@@ -53,15 +51,15 @@ On some Whirlpool models, the turntable can be intentionally turned off for manu
 If your appliance also shows a code on the display, these match this problem:
 
 - [Whirlpool Microwave E03 error code](/posts/whirlpool-microwave-e03-error-code/)
-- [Whirlpool Microwave E11 error code](/posts/whirlpool-microwave-e11-error-code/)
-- [Whirlpool Microwave E12 error code](/posts/whirlpool-microwave-e12-error-code/)
+- Whirlpool Microwave E11 error code
+- Whirlpool Microwave E12 error code
 - [Whirlpool Microwave E13 error code](/posts/whirlpool-microwave-e13-error-code/)
 - [Whirlpool Microwave E21 error code](/posts/whirlpool-microwave-e21-error-code/)
 - [Whirlpool Microwave E22 error code](/posts/whirlpool-microwave-e22-error-code/)
 - [Whirlpool Microwave E23 error code](/posts/whirlpool-microwave-e23-error-code/)
 - [Whirlpool Microwave E24 error code](/posts/whirlpool-microwave-e24-error-code/)
-- [Whirlpool Microwave E61 error code](/posts/whirlpool-microwave-e61-error-code/)
-- [Whirlpool Microwave E62 error code](/posts/whirlpool-microwave-e62-error-code/)
+- Whirlpool Microwave E61 error code
+- Whirlpool Microwave E62 error code
 - [Whirlpool Microwave E63 error code](/posts/whirlpool-microwave-e63-error-code/)
 - [Whirlpool Microwave F01 error code](/posts/whirlpool-microwave-f01-error-code/)
 

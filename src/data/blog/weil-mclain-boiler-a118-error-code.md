@@ -17,8 +17,7 @@ free_checks:
   - "Inspect all wiring connectors at the control board and at any temperature or pressure sensors for corrosion or loose pins"
 ---
 
-## Weil-McLain A118 Error Code — What It Means
-
+## What this code means
 A118 is not a verified standard fault code in Weil-McLain manufacturer documentation. Weil-McLain boilers use model-specific and control-specific fault codes, so the exact meaning depends on your boiler model and the control platform installed. The code may appear in the fault-history menu on newer units, but without the service manual for your exact model you cannot safely interpret it.
 
 To find the correct meaning, locate your boiler's model number and control type, then pull the installation and service manual (often available on the Weil-McLain website or from your installer). The manual will have a fault-code table that defines A118 for your control. Do not attempt repairs based on generic code lists from other models, because the same alphanumeric code can mean entirely different things across different Weil-McLain product lines.
@@ -26,8 +25,6 @@ To find the correct meaning, locate your boiler's model number and control type,
 ## Before You Replace Anything
 
 Without the correct manual, technicians sometimes replace control boards when the real fault is a loose connector or failed temperature sensor. Always pull the fault history from the boiler's diagnostic menu and test sensors with a meter against the manufacturer's resistance table before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician immediately if you cannot locate the service manual for your exact model, if the fault-history menu does not list A118, or if you are unsure which control platform is installed. Also call a pro if you have inspected wiring and sensors but the fault returns after reset, if you lack a multimeter and the skill to test sensor resistance safely, or if the boiler shows any other symptom such as lockout, flame failure, or unusual noises. Gas-fired boiler work requires proper combustion analysis and safety checks that are beyond DIY scope. Never repeatedly reset a recurring fault without diagnosing the root cause, because some faults protect against dangerous conditions like overheating or gas-valve failure.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain A36 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a36-error-code/)
-- [Weil-McLain A146 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a146-error-code/)
-- [Weil-McLain A85 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a85-error-code/)
-- [Weil-McLain Boiler A149 Error - Causes & Fix](/posts/weil-mclain-boiler-a149-error-code/)

@@ -19,8 +19,6 @@ A GE dryer with no power shows no display, no lights, and no response when you o
 
 GE electric dryers require two 120 V legs to operate. One leg can be missing even when the outlet appears live, which produces a dead or partially dead condition. If your dryer powers up but only shows odd numbers like 0, 1, or 2, that is a different issue (a personality reset on newer models), not a true no-power fault.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Tripped breaker or one leg of 240 V supply lost** The most common cause is a breaker that has tripped or one hot leg that has opened, leaving the dryer with no power or only partial voltage.

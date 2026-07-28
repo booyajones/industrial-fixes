@@ -17,8 +17,7 @@ money_part: "Frigidaire freezer temperature sensor / thermistor"
 part_price: "$15-50"
 ---
 
-## Frigidaire OP Error Code — What It Means
-
+## What this code means
 The OP error code on Frigidaire refrigerators (especially French-door models) is a temperature or sensor-related fault. Frigidaire lists OP among alarm and error messages that may require authorized service. Repair guides interpret OP as either the freezer door being open or, if the door is closed, a fault in the freezer temperature sensor circuit. The control board detects an open-circuit condition, meaning it cannot read a valid temperature from the freezer thermistor.
 
 This code usually appears on the display panel and may be accompanied by rising freezer temperatures or continuous compressor operation. If the freezer door is actually ajar or the gasket is not sealing correctly, the refrigerator will not maintain the set temperature and will trigger OP. If the door is closed, the problem lies in the freezer temperature sensor, its wiring harness, or less commonly the electronic control board itself.
@@ -26,8 +25,6 @@ This code usually appears on the display panel and may be accompanied by rising 
 ## Before You Replace Anything
 
 Many people replace the electronic control board first, but a simple continuity check of the freezer thermistor and inspection of the wiring harness usually identifies a failed sensor or broken wire at a fraction of the cost.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

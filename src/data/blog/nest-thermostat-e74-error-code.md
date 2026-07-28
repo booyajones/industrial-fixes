@@ -13,11 +13,8 @@ money_part: "HVAC control board fuse (3-amp standard blade)"
 most_likely_cause: "Tripped breaker or turned-off service switch"
 ---
 
-## Nest Thermostat E74 Error — What It Means
-
+## What this code means
 The E74 error code on a Nest Thermostat means no power is detected at the Rh wire terminal, which supplies 24-volt heating power to the thermostat. Google groups E74 together with E4 and E24 under the same fault category: no power to Rh wire detected. This is not a failed display. It indicates an interruption somewhere in the HVAC power path between the control board and the thermostat base. The fault can appear during initial installation or later during normal use, and it always points to a loss of the 24-volt heating circuit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

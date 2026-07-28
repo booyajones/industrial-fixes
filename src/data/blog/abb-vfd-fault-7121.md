@@ -13,11 +13,8 @@ money_part: "Load-side bearings or coupling"
 most_likely_cause: "Mechanical overload or jam"
 ---
 
-## ABB VFD Fault 7121 — What It Means
-
+## What this code means
 ABB VFD fault 7121 is a motor stall fault. The drive detected that the motor speed dropped to near-zero or below a minimum threshold while the drive was still commanding torque — meaning the motor rotor has stalled. The stall protection function (parameter group 28 on ACS series drives) monitors the ratio of output frequency to actual motor speed via encoder or estimated speed. When a discrepancy indicating stall persists beyond the configured time limit, the drive trips on fault 7121 and shuts down to prevent motor winding damage from prolonged locked-rotor current.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ ABB VFD fault 7121 is a motor stall fault. The drive detected that the motor spe
 ## When to Call a Pro
 
 If the motor stalls under normal load conditions that previously posed no issue, the motor may be losing efficiency due to winding degradation. Motor insulation testing (megger) and a load analysis by an electrical engineer can determine whether the motor or drive parameters are the root cause.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-
-## See Also
-
-- [ABB VFD Fault Codes — ACS550, ACS880, ACS310 Reference](/posts/abb-vfd-fault-codes/)
-- [ABB ACS880 Fault 3130 — Input Phase Loss Causes & Fix](/posts/abb-acs880-fault-3130/)
-- [ABB ACS580 Fault Codes — Complete Diagnosis & Fix Guide](/posts/abb-acs580-fault-codes/)
-- [ABB Tmax/Emax Circuit Breaker Fault Codes - Complete Guide](/posts/abb-circuit-breaker-fault-codes/)

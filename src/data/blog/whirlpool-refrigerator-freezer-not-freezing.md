@@ -19,8 +19,6 @@ A Whirlpool freezer that is not freezing is a symptom, not a single error code. 
 
 If your unit displays an error code like E2 or F2, that can narrow the diagnosis. Whirlpool and iFixit documentation list E2 or F2 as a freezer sensor fault or evaporator fan error, and E3 as a defrost sensor fault. Without a code, you work through the most common external and internal causes until the faulty component is identified.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Blocked airflow** Overpacked shelves or blocked vents prevent cold air circulation and stop the freezer from reaching temperature.

@@ -19,8 +19,6 @@ When your Whirlpool refrigerator's fresh food section runs warm while the freeze
 
 Whirlpool's guidance points to frost buildup, clogged venting, or a blocked air path as common reasons the freezer stays cold while the fresh food section loses cooling. The factory target settings for normal household use are 37°F for the refrigerator and 0°F for the freezer. If the evaporator area frosts over, the evaporator fan can be physically blocked and the refrigerator section will go warm even though the freezer is still working.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Defective evaporator fan motor** The fan that circulates cold air from the freezer to the fresh food section has failed, so the freezer stays cold but the refrigerator warms up.

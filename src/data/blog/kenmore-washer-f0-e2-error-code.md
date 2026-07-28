@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Washer F0 E2 Error — What It Means
-
+## What this code means
 The F0 E2 code on a Kenmore washer indicates excessive suds in the wash basket. The washer has detected too much foam and will automatically run a suds-reduction routine. During this routine the machine may slow the spin speed, extend the cycle time, or add extra rinses to clear the suds. This is not a drain fault or a motor problem. The code appears when the control board sees foam levels that could interfere with normal washing and rinsing.
 
 The washer is designed to handle the problem on its own by adjusting the cycle. You should let the current cycle finish rather than stopping it mid-run. Once the load is complete, check whether suds remain in the tub. If they do, run an additional rinse and spin cycle to flush them out. The root cause is almost always detergent related rather than a hardware failure.
@@ -26,8 +25,6 @@ The washer is designed to handle the problem on its own by adjusting the cycle. 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the pressure switch or control board thinking F0 E2 is a sensor fault. Before ordering any parts, confirm you are using HE detergent at the correct dose and run a rinse cycle to clear suds.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

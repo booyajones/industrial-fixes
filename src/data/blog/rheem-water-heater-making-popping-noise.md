@@ -19,8 +19,6 @@ A Rheem water heater making popping noise is a symptom, not a fault code. Rheem 
 
 On tankless units, scale in the heat exchanger can also create noise, but the classic popping complaint is most often a tank-sediment issue. The noise typically occurs during a call for heat rather than when fixtures close, which helps separate it from pipe water hammer.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Sediment and mineral deposits at the tank bottom** Hard water minerals settle over time and trap water vapor, which pops as it escapes through the sediment layer during heating.
@@ -53,15 +51,8 @@ On tankless units, scale in the heat exchanger can also create noise, but the cl
 If your appliance also shows a code on the display, these match this problem:
 
 - [Rheem Water Heater A01 error code](/posts/rheem-water-heater-a01-error-code/)
-- [Rheem Water Heater Alarm 401 error code](/posts/rheem-water-heater-alarm-401-error-code/)
+- Rheem Water Heater Alarm 401 error code
 
 ## When to Call a Pro
 
 Call a pro if the popping persists after a thorough flush, if you're uncomfortable draining a hot tank, or if the unit shows signs of heavy internal scale or failing elements. For gas units, any burner, igniter, or gas-control work should be handled by a qualified technician. If the heater is old and has never been flushed, a professional can assess whether descaling is practical or replacement is the better long-term option. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rheem Water Heater Leaking - Causes & Fix](/posts/rheem-water-heater-leaking/)
-- [Rheem Water Heater Error Codes — Complete Guide](/posts/rheem-water-heater-error-codes/)
-- [Rheem Furnace Making Loud Noise - Causes & Fix](/posts/rheem-furnace-making-loud-noise/)
-- [Rheem Water Heater Rusty Water - Causes & Fix](/posts/rheem-water-heater-rusty-water/)

@@ -17,8 +17,7 @@ money_part: "Lid lock assembly"
 part_price: "$40-90"
 ---
 
-## Whirlpool Washer Lid Error Code — What It Means
-
+## What this code means
 The Whirlpool lid error indicates the washer has detected the lid is open. On basic models, the display will show a simple "Lid" or "Lid Open" message. On top-load HE models with a lid lock, related faults mean the lid lock did not move into the locked position, the lock motor cannot be powered, or the lid is not fully closed because of interference. Whirlpool washers will not fill or wash with the lid open. If the lid stays open for more than 10 minutes, the cycle resets and the washer drains automatically.
 
 This code is a safety and operational interlock. The machine needs to confirm the lid is closed (and locked, on HE models) before starting the wash cycle. The fault can be as simple as the lid not being pushed down completely, or it can involve a mechanical or electrical problem with the lid lock assembly itself.
@@ -26,8 +25,6 @@ This code is a safety and operational interlock. The machine needs to confirm th
 ## Before You Replace Anything
 
 Homeowners sometimes replace the lid lock assembly or control board when the real problem is detergent residue or a piece of lint blocking the striker. Clean the latch area thoroughly and power-cycle the washer before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

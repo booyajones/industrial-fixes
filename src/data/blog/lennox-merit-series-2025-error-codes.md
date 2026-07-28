@@ -91,10 +91,3 @@ A: For straightforward single-stage Merit models, universal boards (like the ICM
 
 **Q: The LED on my 2025 Merit furnace blinks 4 times even with a new, clean filter. What's wrong?**
 A: Check all supply and return air registers , make sure none are blocked by furniture or closed off. Also check the blower wheel: pull the blower drawer and visually inspect the squirrel cage for debris buildup. A dirty blower wheel moves 25–40% less air than a clean one and triggers high-limit faults identically to a clogged filter.
-
-## See Also
-
-- [Lennox Mini Split Error Code E1 — Causes & Fix](/posts/lennox-mini-split-error-code-e1/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox SL297NV Error Codes: iComfort Fault Code Diagnostic Guide](/posts/lennox-sl297nv-error-codes/)
-- [Lennox XP25 Heat Pump Error Codes - iComfort Fault Diagnostics](/posts/lennox-xp25-heat-pump-error-codes/)

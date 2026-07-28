@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Flexible dryer vent hose (4-inch aluminum or semi-rigid)"
 ---
 
-## Samsung Dryer CT Error Code — What It Means
-
+## What this code means
 The CT code on a Samsung dryer signals an airflow or venting test fault. The dryer has detected restricted exhaust airflow during its built-in vent blockage check. This is not a direct component failure but a warning that the vent system is not moving enough air. The dryer flagged a vent system problem rather than a bad sensor or control board.
 
 In some Samsung documentation the code is described as the dryer temperature being either too high or too low to run the test, which still points to an airflow or venting condition during the diagnostic cycle rather than an internal electrical fault. A blocked or restricted vent system is the starting point for diagnosis, not a failed thermistor or other internal part.
@@ -25,8 +24,6 @@ In some Samsung documentation the code is described as the dryer temperature bei
 ## Before You Replace Anything
 
 Homeowners sometimes replace the thermistor or temperature sensor first, but the CT code usually means a blocked vent. Clean the entire duct path and test airflow before buying any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -17,8 +17,7 @@ money_part: "Main control board"
 part_price: "$100-250"
 ---
 
-## Maytag Dryer F71 Error Code — What It Means
-
+## What this code means
 F71 is a control-system communication fault inside your Maytag dryer. It signals a breakdown in the electronic conversation between the main control board and the user interface or secondary board. Maytag publishes this code under dryer errors and instructs a 5-minute breaker reset, then a Time Dry run to see if the code returns. If the code reappears immediately after reset, the fault is usually persistent rather than a one-time power glitch.
 
 This is not a vent or airflow code. It is an internal electronics problem, often triggered by a power surge, a loose wiring harness connection, or outright failure of one of the control boards. Because the fault is in the low-voltage control circuitry, diagnosis focuses on inspecting connectors and swapping boards rather than checking thermal fuses or airflow sensors.
@@ -26,8 +25,6 @@ This is not a vent or airflow code. It is an internal electronics problem, often
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board before checking the wiring harness. Inspect every connector between the main board and user interface for looseness, corrosion, or pin damage before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

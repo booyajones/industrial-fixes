@@ -17,8 +17,6 @@ tags:
 
 GE says unusual noises in your refrigerator can come from the condenser fan, ice maker or water valve, water filter isolation valve, or airflow obstructions. A freezer fan blade hitting something is not normal and should be serviced. Different noise patterns point to different causes. A fan blade hitting ice or debris in the freezer area is the most common mechanical issue. Buzzing every 10 to 15 minutes for 5 to 10 seconds is usually related to the icemaker water supply being off or not connected. Short rattling, humming, buzzing, or vibrating about once per hour on some Bottom Freezer and Side-by-Side models with an XWF water filter is caused by an isolation valve designed to prevent leaks when the icemaker is on but water is not connected.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Ice or debris hitting the evaporator fan blade** Ice buildup or debris around the freezer fan blade causes a loud scraping or ticking noise when the fan spins.

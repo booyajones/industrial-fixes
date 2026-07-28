@@ -14,11 +14,8 @@ money_part: "Door lock/latch assembly"
 most_likely_cause: "Sticking or failing door lock assembly"
 ---
 
-## Speed Queen Washer dU Error Code — What It Means
-
+## What this code means
 The dU code is a door unlock fault. It appears when the control finished the wash cycle but did not detect that the door successfully unlocked. This is different from a dL or Er,DL code, which signals a problem locking the door during the cycle. The washer may have completed washing and spinning, but the door remains latched and the control cannot confirm the unlock condition.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,11 +13,8 @@ money_part: "Hot gas bypass valve"
 most_likely_cause: "Low refrigerant charge"
 ---
 
-## Hoshizaki E3 Error Code — What It Means
-
+## What this code means
 Hoshizaki error code E3 means the harvest cycle is taking too long — the control board has measured the time from freeze cycle end to harvest completion and found it exceeds the maximum allowed duration. On Hoshizaki KM, KML, and KMD series ice machines, the harvest cycle uses hot gas to warm the evaporator plates so ice slabs release and fall into the bin. If harvest takes longer than the programmed maximum (typically 3.5–5 minutes depending on model), the board faults with E3. Slow harvests usually point to refrigerant issues, a weak hot gas valve, or an evaporator problem.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Hoshizaki error code E3 means the harvest cycle is taking too long — the contr
 ## When to Call a Pro
 
 Refrigerant diagnosis and recharge requires an EPA 608-certified refrigeration technician. If the condenser is clean and E3 persists, a tech should check system pressures.
-
-## Related Articles
-
-- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
-- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)
-- [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
-- [Hoshizaki E4 Error Code — Causes & Fix](/posts/hoshizaki-e4-error-code/)
-
-## See Also
-
-- [Hoshizaki KM Series E1 Error Code — Causes & Fix](/posts/hoshizaki-km-series-e1-error/)
-- [Hoshizaki E4 Error Code — Causes & Fix](/posts/hoshizaki-e4-error-code/)
-- [Hoshizaki E5 Error Code — Causes & Fix](/posts/hoshizaki-e5-error-code/)
-- [Hoshizaki KM-2000SAJ Ice Machine Error Codes - Full Diagnostic Guide](/posts/hoshizaki-km-2000saj-error-codes/)

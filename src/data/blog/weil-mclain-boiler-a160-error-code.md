@@ -18,8 +18,7 @@ free_checks:
   - "Inspect the control module and boiler wiring terminals to see if an outdoor sensor is physically connected."
 ---
 
-## Weil-McLain A160 Error Code — What It Means
-
+## What this code means
 A160 (also displayed as A-16 or A16) on a Weil-McLain AquaBalance boiler is not a fault code for a broken part. It appears at power-up when the control expects an outdoor temperature sensor but none is installed. This code is specific to central-heating-only boiler configurations that require the outdoor sensor for proper modulation and setup. The boiler will not run until the sensor is installed and the control is reset.
 
 This is different from a failed sensor. If the outdoor sensor is installed but faulty or disconnected, the AquaBalance control will display F-39 instead. A160 strictly means the sensor is absent during initial commissioning or after a control replacement where the sensor was not connected.
@@ -27,8 +26,6 @@ This is different from a failed sensor. If the outdoor sensor is installed but f
 ## Before You Replace Anything
 
 Some technicians assume A160 means a bad sensor and replace it, but the code actually means the sensor is missing entirely. Check the sensor terminals at the control harness before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a licensed heating technician if you are not comfortable working with boiler control wiring or if the sensor is already installed and the code will not clear after reset. Installing the outdoor sensor requires identifying the correct control terminals, running low-voltage wiring to an exterior wall location, and configuring the AquaBalance control for proper outdoor reset modulation. If the code persists after sensor installation, the technician will need to verify sensor resistance, check for short circuits in the wiring, and rule out a control board fault. Gas-fired boiler work also requires proper venting, combustion analysis, and knowledge of local codes, so professional installation and commissioning are recommended for any new sensor or control replacement.
 
 **Rough cost:** A pro service call runs about $150-$300.
-
-## See Also
-
-- [Weil-McLain Boiler A158 Error - Causes & Fix](/posts/weil-mclain-boiler-a158-error-code/)
-- [Weil-McLain A144 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a144-error-code/)
-- [Weil-McLain A159 Error - Causes & Fix](/posts/weil-mclain-boiler-a159-error-code/)
-- [Weil-McLain A74 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a74-error-code/)

@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Bosch Washer F40 Error Code — What It Means
-
+## What this code means
 The F40 code on a Bosch washer signals a mains or power-supply fault. The machine is detecting either no incoming power at all or voltage too low for the washer to operate. This is not a water inlet problem or a motor fault. The washer's control has determined that the electrical supply at the plug or outlet is missing, interrupted, or below the threshold needed to start a cycle.
 
 Common triggers include a tripped household breaker, a dead wall outlet, a damaged power cord, or a faulty extension cord or power strip between the washer and the outlet. A temporary voltage dip or surge can also set the fault. The machine will not run until it sees stable, adequate mains voltage.
@@ -26,8 +25,6 @@ Common triggers include a tripped household breaker, a dead wall outlet, a damag
 ## Before You Replace Anything
 
 Many people assume F40 points to a failed control board and replace it first. Before ordering any internal part, test the outlet with another appliance or a multimeter to confirm full mains voltage is present and stable.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

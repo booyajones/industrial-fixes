@@ -20,8 +20,6 @@ When a Samsung oven will not heat, there usually is no single fault code display
 
 Samsung's support pages for oven heating issues focus on no heat, weak heat, or wrong temperature conditions rather than one fixed code. Many range information or error codes can be cleared by a reset, but specific codes like dE or dC are door-related and require additional steps. Those are not generic not heating codes.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Wrong mode or settings including demo mode** The oven may be in the wrong mode, temperature may not be set, or demo mode may be active on some models.

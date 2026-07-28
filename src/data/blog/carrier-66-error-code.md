@@ -12,8 +12,7 @@ tags:
   - furnace
 ---
 
-## Carrier Error Code 66 — What It Means
-
+## What this code means
 Carrier furnace error code **66** indicates a **pressure switch fault**. The pressure switch monitors the negative pressure created by the inducer motor inside the heat exchanger. When the inducer starts and develops sufficient draft pressure, the pressure switch closes — signaling the IFC board that it is safe to open the gas valve. Code 66 means the pressure switch either failed to close after the inducer started, or opened unexpectedly during operation.
 
 Code 66 differs from code 31 (pressure switch stuck open on first attempt) — code 66 specifically indicates a fault detected after the inducer is verified to be running. 
@@ -48,18 +47,3 @@ Lint, dust, and debris can accumulate on the inducer wheel blades, reducing airf
 
 ## When to Call a Pro
 If clearing the condensate trap and inspecting the hose don't resolve code 66, a technician should measure the actual pressure at the switch port using a manometer to determine whether the inducer is developing adequate draft. Flue system modifications or inducer motor replacement require licensed HVAC service.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier Error Code 28 - Causes & Fix](/posts/carrier-error-code-28/)
-- [Carrier Infinity Error 178 - What It Means and How to Fix It](/posts/carrier-infinity-error-178/)
-- [Carrier Infinity System Communication Error 168 — Wiring & Board Fix](/posts/carrier-infinity-error-168/)
-- [Carrier 42 Error Code — Causes & Fix](/posts/carrier-42-error-code/)

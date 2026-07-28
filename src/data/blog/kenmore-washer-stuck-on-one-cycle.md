@@ -19,8 +19,6 @@ A Kenmore washer stuck on one cycle is not a single fault code. It is a symptom 
 
 In VMW-style Kenmore washers, the service procedure is to enter diagnostic mode and read stored error codes to determine the failing component rather than guessing from the symptom alone. If the machine fills, agitates, and drains but does not advance, that often points to an interlock, timer, or control input issue rather than a purely mechanical failure.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed lid switch or lid lock** A failed or intermittently open switch stops cycle progression because the machine does not see the lid as closed.
@@ -53,8 +51,8 @@ In VMW-style Kenmore washers, the service procedure is to enter diagnostic mode 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kenmore Washer E14 error code](/posts/kenmore-washer-e14-error-code/)
-- [Kenmore Washer E24 error code](/posts/kenmore-washer-e24-error-code/)
+- Kenmore Washer E14 error code
+- Kenmore Washer E24 error code
 - [Kenmore Washer F0 E2 error code](/posts/kenmore-washer-f0-e2-error-code/)
 - [Kenmore Washer F0 E4 error code](/posts/kenmore-washer-f0-e4-error-code/)
 - [Kenmore Washer F1 E1 error code](/posts/kenmore-washer-f1-e1-error-code/)

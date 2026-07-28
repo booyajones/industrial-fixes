@@ -16,8 +16,7 @@ money_part: "User interface / control panel assembly"
 part_price: "$40-120"
 ---
 
-## Samsung bE0 Error Code — What It Means
-
+## What this code means
 The Samsung bE0 code belongs to the bE family (bE, bE1, bE2, bE3) and indicates that a button on the user interface or control panel is being detected as held in, stuck, or otherwise continuously pressed. The machine's control board is seeing an input signal it should not be receiving, usually from a physically jammed button, moisture or detergent residue around the keypad, or a defective control interface.
 
 Samsung publishes this same bE-family definition for both washers and dryers as a button-input fault. The bE0 variant is treated in service discussions as the same stuck-button condition rather than a separate heater, motor, or sensor problem. The fault tells you the electronics are registering a press when no one is touching the panel.
@@ -25,8 +24,6 @@ Samsung publishes this same bE-family definition for both washers and dryers as 
 ## Before You Replace Anything
 
 Homeowners often replace the main control board when the real problem is a stuck button or moisture in the keypad. Press and release each button and clean the panel before ordering any electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

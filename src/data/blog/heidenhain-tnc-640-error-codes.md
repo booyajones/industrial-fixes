@@ -17,8 +17,6 @@ money_part: "Encoder cable"
 
 The Heidenhain TNC 640 is a premium CNC control used on advanced 5-axis milling and mill-turn platforms. Heidenhain alarms are highly specific, but they still fall into a few broad categories: axis referencing, encoder feedback, drive faults, PLC/safety faults, and program logic problems. The exact alarm text on screen matters as much as the number.
 
-[Jump to Fix](#fix)
-
 ## Common Heidenhain TNC 640 Alarm Reference
 
 | Alarm | Meaning |

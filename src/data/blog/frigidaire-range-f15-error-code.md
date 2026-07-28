@@ -17,8 +17,7 @@ money_part: "Electronic Oven Control (EOC) / Main Control Board"
 part_price: "$80-250"
 ---
 
-## Frigidaire Range F15 Error Code — What It Means
-
+## What this code means
 F15 is generally used to indicate a communication or signal-loss fault between the Electronic Oven Control (EOC) and the oven relay board on Frigidaire ranges. In some Electrolux-family models built by the same manufacturer, field technicians also report F15 being tied to a cooling-fan limiter thermostat or safety thermostat opening after a self-clean event. The exact meaning is model-dependent and should be confirmed against your product's tech sheet or wiring diagram for your specific serial and model number.
 
 Frigidaire's owner-facing error-code page does not list F15 in the general consumer guide, which reinforces that the precise meaning is likely model-specific rather than universal across all Frigidaire ranges. Because the code can point to either a board communication issue or a thermal safety device on different models, always confirm the exact model number first before ordering parts.
@@ -26,8 +25,6 @@ Frigidaire's owner-facing error-code page does not list F15 in the general consu
 ## Before You Replace Anything
 
 Many people replace the main control board first, but a loose or corroded wiring harness or connector between the EOC and relay board is often the real culprit. Inspect and reseat all connectors before replacing either board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

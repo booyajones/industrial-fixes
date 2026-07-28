@@ -13,11 +13,8 @@ money_part: "GA800 control board (PCB)"
 most_likely_cause: "Misread or transposed fault code"
 ---
 
-## Yaskawa GA800 E28 Fault Code — What It Means
-
+## What this code means
 E28 does not appear in verified Yaskawa GA800 documentation as a standard fault or alarm code. The code displayed on your keypad may be misread or may refer to a different fault identifier. Common GA800 codes include Uv3 (Soft Charge Answerback Fault), GF (Ground Fault), and others that use letter-number combinations. Always confirm the exact code shown on the operator panel before diagnosing, as each code has a specific meaning tied to internal circuits, sensors, or protection functions. Consult your GA800 manual or the fault history log (parameter group A1) to identify the true code and its definition for your drive model.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,10 +43,3 @@ E28 does not appear in verified Yaskawa GA800 documentation as a standard fault 
 ## When to Call a Pro
 
 Call a qualified drives technician or Yaskawa-certified service provider if you cannot locate the fault code in your manual, if the drive repeatedly displays unrecognized codes after power cycling, or if you lack the tools and training to safely work inside a VFD enclosure. Industrial drives operate at lethal voltages and require proper lockout/tagout, insulated tools, and familiarity with DC bus discharge procedures. A professional can access Yaskawa's internal service bulletins, use DriveWizard software to read detailed fault logs, and perform board-level diagnostics that are not documented in public manuals.
-
-## See Also
-
-- [Yaskawa A1000 HCA Fault Code - Causes & Fix](/posts/yaskawa-a1000-vfd-hca-fault-code/)
-- [Yaskawa GA800 F031 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f031-fault-code/)
-- [Yaskawa GA800 A.116 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-116-fault-code/)
-- [Yaskawa GA800 E07 Fault - Causes & Fix](/posts/yaskawa-ga800-e07-fault-code/)

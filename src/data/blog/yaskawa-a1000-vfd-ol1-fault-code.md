@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 oL1 Fault — What It Means
-
+## What this code means
 The oL1 fault on a Yaskawa A1000 drive is a motor overload trip. The drive's electronic thermal protection has determined that the motor has accumulated too much heat from output current and has shut down to protect the motor from damage. This protection is based on an internal thermal model that estimates motor heating from current and operating time, not just a simple instantaneous current spike.
 
 The fault will not reset until the overload condition is corrected and the internal overload value (parameter U4-16) drops below 100.0%. Simply resetting the fault without fixing the underlying cause will result in the same trip happening again, often very quickly.
@@ -24,8 +23,6 @@ The fault will not reset until the overload condition is corrected and the inter
 ## Before You Replace Anything
 
 Technicians sometimes replace the drive itself when oL1 appears, but this fault usually points to load, setup, or motor issues rather than a failed power section. Check motor parameters, acceleration times, and mechanical load before considering drive replacement.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or VFD technician for oL1 faults. Diagnosis requires understanding motor thermal models, programming drive parameters correctly, and testing motor windings with insulation resistance equipment. Mechanical load issues may need a millwright or machinery specialist. If you are not trained in variable-frequency drive programming and motor testing, professional help will save time and prevent damage to the motor or drive.
 
 **Rough cost:** A pro service call runs about $200-600 depending on whether the fix is programming, motor replacement, or mechanical correction.
-
-## See Also
-
-- [Yaskawa GA800 VFD A.131 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-131-fault-code/)
-- [Yaskawa GA800 E68 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e68-fault-code/)
-- [Yaskawa GA800 VFD A.126 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-126-fault-code/)
-- [Yaskawa GA800 E96 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e96-fault-code/)

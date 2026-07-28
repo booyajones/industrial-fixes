@@ -17,8 +17,7 @@ money_part: "Samsung dryer door switch"
 part_price: "$15-50"
 ---
 
-## Samsung Dryer dO Error Code — What It Means
-
+## What this code means
 The Samsung dO, dE, do, or d0 error code indicates a door-latch, door-switch, or door-sensing fault. The dryer is detecting the door as open, not fully latched, or not being confirmed as closed by the sensing circuit. Samsung groups dC, dE, dF, do, d0, 1 DC, and 1 dF together as door, latch, or sensor errors. These codes mean the dryer believes the door is not secured or the door-status signal is missing or incorrect.
 
 The control board expects a continuous closed-door signal from the door switch when the latch engages the strike. If that signal is absent or intermittent, the dryer will not start or will stop mid-cycle and display the code. The problem can be mechanical (latch alignment, obstruction) or electrical (failed switch, wiring fault, or main PCB input issue).
@@ -26,8 +25,6 @@ The control board expects a continuous closed-door signal from the door switch w
 ## Before You Replace Anything
 
 Many people replace the main control board first. Before ordering the board, test the door switch for continuity with the door closed. If the switch does not change state correctly, replace the switch instead.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -19,8 +19,6 @@ An LG refrigerator leaking water is a symptom, not a fault code. LG's troublesho
 
 Internal leaks that spill onto the floor can also come from a clogged defrost drain tube or a water filter that is not seated correctly. The diagnostic process starts by identifying exactly where the water is coming from, then isolating the water supply and inspecting fittings, lines, the dispenser system, the ice bin, the filter, and finally the defrost drain path.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Loose or improperly seated water line fitting at the rear connection** LG instructs checking the tube insertion depth at the back fitting: if two black lines are visible instead of one, the line is not fully inserted and will leak.
@@ -70,10 +68,3 @@ Seeing a code on the display? These match this problem:
 ## When to Call a Pro
 
 Call a technician if you cannot locate the source of the leak after checking all visible fittings and lines, if the leak originates inside sealed compartments that require cabinet disassembly, or if clearing the defrost drain does not stop internal water accumulation. A pro can pressure-test the water system, inspect the dispenser valve and solenoid assembly, and access components behind fixed panels or the evaporator cover that are not easily reached without specialized tools.
-
-## See Also
-
-- [LG Range E4 Error Code - Causes & Fix](/posts/lg-range-e4-error-code/)
-- [LG Refrigerator Water Filter Replacement - Signs & How-To](/posts/lg-refrigerator-water-filter-replacement/)
-- [LG Range F9 Error Code - Causes & Fix](/posts/lg-range-e9-error-code/)
-- [LG Dishwasher Not Cleaning Dishes - Causes & Fix](/posts/lg-dishwasher-not-cleaning-dishes/)

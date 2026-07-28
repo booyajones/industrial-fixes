@@ -54,15 +54,8 @@ Over time, soot buildup, corrosion, or internal failure of the thermocouple prev
 If this part is failing you may also see one of these codes:
 
 - [Rheem Water Heater A01 error code](/posts/rheem-water-heater-a01-error-code/)
-- [Rheem Water Heater Alarm 401 error code](/posts/rheem-water-heater-alarm-401-error-code/)
+- Rheem Water Heater Alarm 401 error code
 
 ## When to Call a Pro
 
 If the new thermocouple does not solve the problem, or if you cannot get the pilot to light at all even with a new thermocouple, the issue may be a faulty gas control valve, blocked pilot orifice, inadequate gas supply pressure, or a tripped thermal release device. A licensed technician can test gas pressure, measure thermocouple millivolt output with a meter, inspect venting for backdrafts, and replace the gas valve or control module if needed. Any work involving gas supply lines, pressure testing, or burner adjustments is best handled by a qualified professional. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rheem Split System Heat Pump Error Codes — RA14, RA15, RP15 Fault Guide](/posts/rheem-heat-pump-error-codes/)
-- [Rheem Tankless Water Heater Error 76 - Causes & Fix](/posts/rheem-tankless-water-heater-76-error-code/)
-- [Rheem Water Heater Pilot & Burner Assembly Replacement Guide](/posts/rheem-water-heater-pilot-assembly-burner-assembly-gas-replacement/)
-- [Rheem Water Heater Not Enough Hot Water - Causes & Fix](/posts/rheem-water-heater-not-enough-hot-water/)

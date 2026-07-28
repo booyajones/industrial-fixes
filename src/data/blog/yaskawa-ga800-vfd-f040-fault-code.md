@@ -17,8 +17,7 @@ free_checks:
   - "Power-cycle the drive and verify the fault reappears to rule out a transient alarm"
 ---
 
-## Yaskawa GA800 F040 Fault — What It Means
-
+## What this code means
 The fault code F040 does not exist in Yaskawa's official GA800 VFD documentation. Yaskawa GA800 fault codes follow a two-letter plus three-digit format (such as OC1, OV1, GF, PUF, bUS, FAL) or single-letter plus two-digit format, and no fault labeled F040 appears in any GA800 manual or technical reference. This strongly suggests the code was misread, misreported from an external HMI or PLC that uses custom alarm codes, or is a typo for an actual GA800 fault.
 
 Before attempting any repair, go directly to the GA800 drive's built-in LED keypad and confirm the exact fault code displayed on the drive itself. If the F040 code appears only on an external controller or touchscreen, the true Yaskawa fault code will be shown on the drive's keypad. Once you have the correct code, compare it against the official GA800 fault table in the Owners Manual or Maintenance and Troubleshooting Manual to identify the actual problem and follow the appropriate diagnostic steps.
@@ -26,8 +25,6 @@ Before attempting any repair, go directly to the GA800 drive's built-in LED keyp
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board or IGBT pack based on an external display code without verifying the actual fault on the drive's keypad. Always read the fault directly from the GA800 LED keypad before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

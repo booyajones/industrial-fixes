@@ -19,8 +19,6 @@ When your Bosch dishwasher runs a full cycle but the detergent cup door stays cl
 
 The machine cannot detect this failure because the wax motor operates independently once the control board sends a signal. If the motor is stuck, broken, or blocked by buildup, the door simply does not move. The dishwasher completes the cycle as programmed, unaware that the detergent never entered the tub.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Detergent and mineral buildup on hinge or track** Powder detergent, food particles, and hard water deposits accumulate around the dispenser door pivot points and prevent the spring-loaded door from opening.

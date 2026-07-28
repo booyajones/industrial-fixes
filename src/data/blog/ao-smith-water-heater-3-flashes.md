@@ -15,8 +15,6 @@ tags:
 
 AO Smith gas water heaters use a blinking LED on the gas control valve to communicate faults. **3 flashes** means the pilot is out, won't light, or won't stay lit. It's one of the most common AO Smith fault codes, and in most cases it's caused by a bad thermocouple or thermopile — both are inexpensive DIY repairs.
 
-[Jump to Fix](#how-to-fix-ao-smith-3-flashes)
-
 ## What Does AO Smith 3 Flashes Mean?
 
 The status LED on an AO Smith water heater blinks in repeating groups separated by a pause. Three flashes in a group = fault code 3.
@@ -141,9 +139,3 @@ Let the pilot burn for 5 full minutes before releasing the pilot button — ther
 
 **What's the difference between AO Smith 3 flashes and 4 flashes?**
 3 flashes = pilot outage / ignition failure (thermocouple, thermopile, gas supply). 4 flashes = igniter fault — the electronic ignition system has a problem. See our [AO Smith 4 flashes guide](/posts/ao-smith-water-heater-4-flashes) for that specific diagnosis.
-
-## Related Articles
-
-- [A.O. Smith Water Heater E1 Error Code — Sensor Fault Guide](/posts/ao-smith-error-code-e1/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
-- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)

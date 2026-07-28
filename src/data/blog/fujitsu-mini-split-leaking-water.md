@@ -19,8 +19,6 @@ Leaking water from a Fujitsu mini split is not a fault code but a symptom that c
 
 The leak may come directly from a blocked drain pan outlet, a disconnected hose, or as meltwater from a frozen evaporator coil. If the coil has been freezing and then thawing, the water leak is often a secondary symptom of restricted airflow or refrigerant issues rather than a simple drain blockage.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged condensate drain line** Dirt, algae, and debris build up inside the drain hose or PVC pipe and block condensate flow, causing the pan to overflow.
@@ -53,18 +51,18 @@ The leak may come directly from a blocked drain pan outlet, a disconnected hose,
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Fujitsu Mini Split E 01 error code](/posts/fujitsu-mini-split-e-01-error-code/)
-- [Fujitsu Mini Split E 02 error code](/posts/fujitsu-mini-split-e-02-error-code/)
-- [Fujitsu Mini Split E 03 error code](/posts/fujitsu-mini-split-e-03-error-code/)
-- [Fujitsu Mini Split E 04 error code](/posts/fujitsu-mini-split-e-04-error-code/)
-- [Fujitsu Mini Split E 05 error code](/posts/fujitsu-mini-split-e-05-error-code/)
-- [Fujitsu Mini Split E 06 error code](/posts/fujitsu-mini-split-e-06-error-code/)
-- [Fujitsu Mini Split E 07 error code](/posts/fujitsu-mini-split-e-07-error-code/)
-- [Fujitsu Mini Split E 08 error code](/posts/fujitsu-mini-split-e-08-error-code/)
-- [Fujitsu Mini Split E 09 error code](/posts/fujitsu-mini-split-e-09-error-code/)
-- [Fujitsu Mini Split E 10 error code](/posts/fujitsu-mini-split-e-10-error-code/)
-- [Fujitsu Mini Split E 11 error code](/posts/fujitsu-mini-split-e-11-error-code/)
-- [Fujitsu Mini Split E 12 error code](/posts/fujitsu-mini-split-e-12-error-code/)
+- Fujitsu Mini Split E 01 error code
+- Fujitsu Mini Split E 02 error code
+- Fujitsu Mini Split E 03 error code
+- Fujitsu Mini Split E 04 error code
+- Fujitsu Mini Split E 05 error code
+- Fujitsu Mini Split E 06 error code
+- Fujitsu Mini Split E 07 error code
+- Fujitsu Mini Split E 08 error code
+- Fujitsu Mini Split E 09 error code
+- Fujitsu Mini Split E 10 error code
+- Fujitsu Mini Split E 11 error code
+- Fujitsu Mini Split E 12 error code
 
 ## When to Call a Pro
 

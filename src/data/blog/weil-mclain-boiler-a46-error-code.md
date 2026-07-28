@@ -17,8 +17,7 @@ free_checks:
   - "Download the installation and service manual for your exact model from the Weil-McLain website or contact their technical support line"
 ---
 
-## Weil-McLain A46 Error Code — What It Means
-
+## What this code means
 An A46 error code is not documented in available Weil-McLain manufacturer resources as a standard fault code across their product line. Weil-McLain boilers use different control systems depending on model and year, and each control platform has its own set of diagnostic codes. Without knowing your exact boiler model and control type, the meaning of A46 cannot be confirmed.
 
 The correct first step is to identify your boiler's full model number from the rating plate, then consult that model's installation and service manual or contact Weil-McLain technical support. The boiler's control panel may also have a fault history menu that displays additional detail about the stored code. Do not attempt repairs based on generic code lists, since the same alphanumeric code can mean entirely different things on different models or control systems.
@@ -26,8 +25,6 @@ The correct first step is to identify your boiler's full model number from the r
 ## Before You Replace Anything
 
 Do not replace control boards or sensors without first retrieving the full fault history from the boiler's diagnostics menu and consulting the model-specific manual. Weil-McLain warranty claims require the failed part description and part number, not just a code, so proper diagnosis saves both time and money.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a licensed heating technician or boiler specialist immediately if you cannot find documentation for code A46, if the boiler is locked out and will not run, or if you are uncomfortable working with gas-fired equipment. Boiler diagnostics often require specialized tools to measure gas pressure, combustion efficiency, and electrical signals that are not available to most homeowners. Weil-McLain also recommends that warranty repairs and parts replacement be performed by qualified heating professionals who document the failed part description and part number, which protects your warranty coverage and ensures the correct part is installed. If your boiler is under warranty, contact an authorized Weil-McLain service provider to avoid voiding coverage.
 
 **Rough cost:** A pro service call runs about $150-400 depending on diagnosis and part.
-
-## See Also
-
-- [Weil-McLain Boiler A39 Error - Causes & Fix](/posts/weil-mclain-boiler-a39-error-code/)
-- [Weil-McLain A79 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a79-error-code/)
-- [Weil-McLain Boiler A22 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a22-error-code/)
-- [Weil-McLain Boiler A171 Error - Causes & Fix](/posts/weil-mclain-boiler-a171-error-code/)

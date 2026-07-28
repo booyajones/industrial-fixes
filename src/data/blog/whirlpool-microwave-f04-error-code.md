@@ -17,8 +17,7 @@ money_part: "Whirlpool microwave humidity thermistor"
 part_price: "$15-50"
 ---
 
-## Whirlpool Microwave F04 Error Code — What It Means
-
+## What this code means
 The F04 (sometimes displayed as F4E4) error code on a Whirlpool microwave indicates that the control board is detecting an out-of-range or invalid signal from the humidity thermistor circuit. The humidity thermistor is a sensor that monitors moisture levels inside the cavity during sensor cooking cycles. When the control cannot read the sensor properly, it throws this fault code and typically halts operation.
 
 Whirlpool states the code points to a problem with the humidity thermistor itself or the associated wiring between the sensor and the control board. It is not a general board failure code. In many cases a simple power reset clears the fault if it was triggered by a momentary glitch. If the code returns immediately or reappears during use, expect a failed thermistor or a damaged harness connector.
@@ -26,8 +25,6 @@ Whirlpool states the code points to a problem with the humidity thermistor itsel
 ## Before You Replace Anything
 
 Many owners replace the main control board first, assuming any fault code means a board failure. Instead, power-cycle the microwave and inspect the thermistor wiring harness for loose pins or corrosion before spending on a control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

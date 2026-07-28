@@ -21,8 +21,7 @@ part_price: "$40-80"
 no_buy_pct: "70%"
 ---
 
-## Whirlpool F9E1 Error Code — What It Means
-
+## What this code means
 The F9E1 code on Whirlpool washers and all-in-one washer-dryer combos indicates a long drain or no drain fault. The machine is not removing water in the expected time frame, or water is not draining at all. Whirlpool attributes this to obstructions in the drain pump area, bellows drain holes on all-in-one models, or the drain hose itself.
 
 This is a drain system fault, not a heater, door, or motor problem. The control board has timed out waiting for water to leave the tub, and the most common reason is a physical blockage somewhere in the drain path.
@@ -30,8 +29,6 @@ This is a drain system fault, not a heater, door, or motor problem. The control 
 ## Before You Replace Anything
 
 Many people replace the drain pump without first cleaning the filter and checking the hose. Clear all debris and test the impeller by hand before ordering a new pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

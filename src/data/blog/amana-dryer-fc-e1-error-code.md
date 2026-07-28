@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Dryer FC E1 Error Code — What It Means
-
+## What this code means
 The FC E1 code on Amana dryers signals a communication or connectivity fault within the dryer's electronic control system. Amana's official guidance presents this as a control or electronics issue rather than a mechanical drying problem. The manufacturer does not describe it as a heater, airflow, thermistor, or motor fault. Instead, the code points to a problem in the electronic control path, such as a transient control board communication issue, a loose wiring harness connection, or a logic fault on the main control board.
 
 Amana's published troubleshooting procedure focuses on a power reset and basic verification rather than component replacement. This approach strongly indicates that FC E1 is often a temporary glitch that may clear with a full power cycle. If the code returns after the reset procedure, the fault has not cleared at the user level and further service diagnosis of the control board, wiring harness, or communication circuit is needed.
@@ -26,8 +25,6 @@ Amana's published troubleshooting procedure focuses on a power reset and basic v
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board without first checking all wiring harness connections and attempting the full five-minute power reset. Always inspect connectors and complete the manufacturer's reset procedure before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

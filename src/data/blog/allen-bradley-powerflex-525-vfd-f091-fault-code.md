@@ -18,8 +18,7 @@ free_checks:
   - "Cycle power on the drive to clear the fault after re-seating connections and verify if the fault returns immediately."
 ---
 
-## Allen-Bradley F091 Encoder Loss — What It Means
-
+## What this code means
 The F091 fault on an Allen-Bradley PowerFlex 525 VFD indicates Encoder Loss. This fault occurs when the drive is configured to use a differential encoder and one of the two required encoder channel signals (A+ and A-, or B+ and B-) is not being received. The drive depends on both quadrature channels to calculate speed and position feedback. When one channel disappears, the drive cannot trust the feedback loop and trips the fault to protect the system.
 
 In practical terms, the encoder feedback circuit is incomplete. The drive may be missing a signal because of a broken wire, a loose connector, incorrect configuration, or a failed encoder. Rockwell also notes a specific case in positioning applications with Quad Check mode enabled, where channel inputs or motor leads may need to be swapped to correct the phase relationship.
@@ -27,8 +26,6 @@ In practical terms, the encoder feedback circuit is incomplete. The drive may be
 ## Before You Replace Anything
 
 Technicians sometimes replace the encoder before checking the wiring and terminations. Inspect all encoder cable connections, shield continuity, and connector pins before swapping the encoder.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or controls technician for F091 faults. Encoder troubleshooting requires measuring differential signals, verifying quadrature phase relationships, and working safely around live VFD terminals and motor circuits. If the encoder and wiring check out, diagnosing internal drive feedback circuitry or replacing the control module demands factory training and proper test equipment. Incorrect wiring or configuration in positioning applications can cause runaway motor behavior or damage to machinery, so professional diagnosis is the safer route.
 
 **Rough cost:** A pro service call runs about $200-500 depending on encoder model and labor.
-
-## See Also
-
-- [Allen-Bradley PowerFlex F041 Fault - Motor Overload: What It Means and How to Fix It](/posts/allen-bradley-powerflex-f041-fault/)
-- [Allen-Bradley PowerFlex 525 F107 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f107-fault-code/)
-- [Allen-Bradley PowerFlex F070 Fault — Power Unit Fault Fix](/posts/allen-bradley-powerflex-f070-fault/)
-- [Allen Bradley PowerFlex 525 F005 Fault, Overvoltage Causes & Fix](/posts/allen-bradley-powerflex-525-fault-f005/)

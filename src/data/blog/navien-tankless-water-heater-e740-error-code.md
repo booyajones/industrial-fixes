@@ -13,13 +13,10 @@ money_part: "Navien outdoor temperature sensor"
 most_likely_cause: "Outdoor reset curve not enabled or misconfigured"
 ---
 
-## Navien E740 Error Code — What It Means
-
+## What this code means
 Error code E740 on a Navien tankless water heater indicates an abnormality in the outdoor temperature sensor. This code appears only when the outdoor reset curve feature is enabled on your system. The outdoor reset function adjusts water temperature based on outside air temperature, so the control board flags E740 when it cannot read a valid signal from the outdoor sensor.
 
 The error typically points to a configuration mistake, a loose or corroded sensor connection, or a failed outdoor temperature sensor itself. It is most relevant to systems using outdoor reset control logic or hydronic heating applications, rather than simple domestic hot water setups.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ The error typically points to a configuration mistake, a loose or corroded senso
 ## When to Call a Pro
 
 Call a licensed heating technician if you are not comfortable working with low-voltage control wiring or if you do not have a multimeter and the factory resistance table for your model. A qualified service provider can quickly test the sensor circuit, verify outdoor reset programming, and replace the sensor or control board under warranty if applicable. Professional diagnosis is also recommended if the error returns after you have checked wiring and replaced the sensor, since persistent E740 may indicate a control board failure or a more complex system integration issue.
-
-## See Also
-
-- [Navien NPE-240S Tankless Water Heater Error Codes - Full Fault Guide](/posts/navien-npe-240s-error-codes/)
-- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
-- [Navien E110 Error Code - Causes & Fix](/posts/navien-tankless-e110-error-code/)
-- [Navien E006 Error Code - Causes & Fix](/posts/navien-tankless-e006-error-code/)

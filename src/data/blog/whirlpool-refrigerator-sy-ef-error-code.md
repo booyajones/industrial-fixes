@@ -21,8 +21,7 @@ most_likely_cause: "Ice buildup blocking the evaporator fan"
 part_price: "$40-120"
 ---
 
-## Whirlpool Refrigerator SY EF Error Code — What It Means
-
+## What this code means
 SY EF is not a verified Whirlpool error code based on manufacturer documentation. This code is associated with Electrolux and Frigidaire refrigerators, where it indicates the control board is not receiving the correct signal from the evaporator fan motor or its tachometer sensor. If you see SY EF on a Whirlpool-branded refrigerator, confirm the actual brand and model number on the data tag inside the cabinet. Whirlpool, Frigidaire, and Electrolux use different diagnostic code families, and the same letters can mean different things or not exist at all on another platform.
 
 If your refrigerator is actually an Electrolux or Frigidaire unit, SY EF points to a problem in the evaporator fan circuit. The control expects a feedback signal from the fan motor to confirm it is spinning at the correct speed. When that signal is missing or erratic, the system logs SY EF. The fan itself may be blocked by ice, the motor may have failed, or the wiring and connectors between the fan and the board may be damaged.
@@ -30,8 +29,6 @@ If your refrigerator is actually an Electrolux or Frigidaire unit, SY EF points 
 ## Before You Replace Anything
 
 Many people replace the main control board first when they see a persistent error code. Before ordering a board, unplug the refrigerator, remove the evaporator cover, and inspect the fan for ice blockage and test the motor windings with a multimeter.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

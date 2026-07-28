@@ -13,13 +13,10 @@ money_part: "Danfoss FC 302 control card"
 most_likely_cause: "AMA routine triggered an internal drive fault"
 ---
 
-## Danfoss FC302 Alarm 58 — What It Means
-
+## What this code means
 Alarm 58 on the Danfoss VLT AutomationDrive FC 302 is listed as **AMA Internal Fault**. AMA stands for Automatic Motor Adaptation, a routine the drive runs to learn motor parameters. This alarm means the adaptation procedure could not complete because of an internal fault inside the drive itself, not a simple motor overload or wiring problem. Danfoss groups Alarm 58 with other AMA failure codes (50 through 58) and treats it as a drive-side electronics issue rather than a field-adjustable fault.
 
 Unlike many other alarms, Danfoss does not provide detailed field troubleshooting for Alarm 58. The manufacturer's official instruction is to contact your Danfoss supplier or authorized service center. This indicates the fault involves internal drive electronics or the control card, and field repair is not recommended without factory guidance.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ Unlike many other alarms, Danfoss does not provide detailed field troubleshootin
 ## When to Call a Pro
 
 Call a Danfoss authorized service technician or your drive supplier immediately for Alarm 58. This is an internal drive fault that Danfoss does not publish detailed field repair procedures for, and the manufacturer explicitly directs users to contact support rather than attempt troubleshooting on their own. A qualified VFD technician with Danfoss training can run diagnostic routines, check internal hardware, and access service bulletins not available to general users. Attempting to swap control cards or power modules without proper guidance risks further damage and may void warranty coverage.
-
-## See Also
-
-- [Danfoss FC302 ALARM 18 - Causes & Fix](/posts/danfoss-fc302-alarm-18-fault-code/)
-- [Danfoss FC302 Alarm 21 - Causes & Fix](/posts/danfoss-fc302-alarm-21-fault-code/)
-- [Danfoss VFD Fault OCL — Causes & Fix](/posts/danfoss-vfd-fault-ocl/)
-- [Danfoss FC302 Alarm 42 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-42-fault-code/)

@@ -17,8 +17,7 @@ money_part: "Oven temperature sensor probe"
 part_price: "$20-60"
 ---
 
-## Maytag Range F3 Error Code — What It Means
-
+## What this code means
 The F3 error code on a Maytag range or oven indicates the electronic control has detected a fault in the oven temperature sensing circuit. This is not a generic overheat alarm. Instead, the control board cannot read the oven temperature sensor probe correctly, either because the sensor has failed, the wiring between the sensor and control is damaged, or the control board's input circuitry has a problem.
 
 Maytag's product help for the related F3 E1 code directs you to check the lower oven temperature sensor, control, or associated wiring. The fault may be intermittent or constant depending on whether a solder joint is cracked or a wire is loose. In some cases resetting power will clear the code temporarily, but the underlying hardware issue will cause it to return.
@@ -26,8 +25,6 @@ Maytag's product help for the related F3 E1 code directs you to check the lower 
 ## Before You Replace Anything
 
 Many people replace the electronic control board first when the real fault is a bad sensor or loose connector. Measure the sensor resistance and inspect the harness before buying a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

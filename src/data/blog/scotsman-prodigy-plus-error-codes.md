@@ -116,18 +116,3 @@ A: Press and hold the CLEAN and ON/OFF buttons simultaneously for 5 seconds. The
 **Q: Alert 4 clears after a manual reset but comes back the next day. Water supply is confirmed fine. What else?**
 
 A: If water supply is verified, check the water level sensor probe in the sump. On Prodigy Plus models it's a stainless probe — mineral buildup on it increases resistance and causes false "no water" readings. Clean it with descaler or vinegar. Also check that the probe connector is fully seated on the control board. A loose connector causes the same intermittent symptom.
-
-## Related Articles
-
-- [Scotsman C0522 Error Codes — Fix Guide](/posts/scotsman-c0522-error-codes/)
-- [Scotsman HID312 Error Codes — Fault Code Diagnostic Guide](/posts/scotsman-hid312-error-codes/)
-- [Scotsman HID525 Error Codes — Complete Guide](/posts/scotsman-hid525-error-codes/)
-- [Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/scotsman-ice-machine-complete-guide/)
-- [Scotsman Ice Machine Error Code 1 — High Pressure Cutout Fix](/posts/scotsman-ice-machine-error-code-1/)
-
-## See Also
-
-- [Scotsman 4-Flash Code — High Discharge Temperature Fix](/posts/scotsman-4-flash-code/)
-- [Scotsman 3-Flash Code — Long Harvest Cycle Fix](/posts/scotsman-3-flash-code/)
-- [Scotsman C0522 Error Codes — Fix Guide](/posts/scotsman-c0522-error-codes/)
-- [Scotsman 6-Flash Code — Refrigerant Pressure Out of Range Fix](/posts/scotsman-6-flash-code/)

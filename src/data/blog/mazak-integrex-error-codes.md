@@ -17,8 +17,6 @@ money_part: "Lube components"
 
 Mazak Integrex machines combine turning and milling in one highly capable platform. That power comes with more alarm sources than a simple lathe or mill: spindle, B-axis, tool magazine, ATC, hydraulic, servo, and Mazatrol control alarms all interact.
 
-[Jump to Fix](#fix)
-
 ## Common Mazak Integrex Alarm Groups
 
 | Code | Meaning |
@@ -59,18 +57,3 @@ Mazak Integrex machines combine turning and milling in one highly capable platfo
 ## When to Call a Pro
 
 On an Integrex, the fastest route is usually subsystem thinking, not code memorization. The machine is complex enough that one utility problem can trigger multiple unrelated-looking alarms.
-
-## Related Articles
-
-- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
-- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
-- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-
-## See Also
-
-- [Mazak CNC Alarm 200 Parameter Fault — Causes & Fix](/posts/mazak-cnc-alarm-200-parameter/)
-- [Mazak Matrix/Matrix 2 Fault Code Guide — Complete Reference](/posts/mazak-matrix-fault-codes/)
-- [Mazak Alarm 600 ATC — Automatic Tool Changer Fault Causes & Fix](/posts/mazak-alarm-600-atc/)
-- [Mazak Alarm 200 — Spindle Speed Error Causes & Fix](/posts/mazak-alarm-200-spindle/)

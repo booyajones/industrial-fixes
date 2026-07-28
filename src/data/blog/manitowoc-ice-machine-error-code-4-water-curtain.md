@@ -61,18 +61,3 @@ Code 4 is one of the most searched Manitowoc faults in commercial kitchens becau
 Refrigerant diagnosis and recharge on a commercial ice machine requires EPA 608 certification and a recovery machine — this is not a DIY task. If your Code 4 troubleshooting confirms the harvest cycle is mechanically failing (ice not releasing) and the machine is clean and the water valve is good, a certified refrigeration technician needs to check the hot-gas valve, refrigerant charge, and compressor performance. A Manitowoc ice machine with a low refrigerant charge often indicates a leak — simply recharging without finding and fixing the leak means the machine will be back down in months.
 
 > **Pro tip:** Manitowoc recommends cleaning Indigo series machines every 6 months. Most Code 4 failures on machines in hard water areas happen because the maintenance interval was skipped. Keep a cleaning log inside the cabinet door. A machine that's cleaned on schedule rarely throws Code 4 from a scale issue — and when it does, it's almost always the curtain sensor, which is a quick $65 fix.
-
-## Related Articles
-
-- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
-- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
-- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
-- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
-- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)
-
-## See Also
-
-- [Manitowoc Indigo NXT Error Code 8 - What It Means and How to Fix It](/posts/manitowoc-indigo-nxt-error-code-8/)
-- [Manitowoc ID-0502 Error Codes — Fault Code Diagnostic Guide](/posts/manitowoc-id-0502-error-codes/)
-- [Manitowoc E54 Error Code — Water Curtain Switch Open Fix](/posts/manitowoc-e54-error-code/)
-- [Manitowoc Ice Machine Error Code 9 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-9/)

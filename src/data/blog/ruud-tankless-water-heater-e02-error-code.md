@@ -13,13 +13,10 @@ money_part: "High-limit thermostat or overheat switch"
 most_likely_cause: "Temperature setpoint too high"
 ---
 
-## Ruud E02 Error Code — What It Means
-
+## What this code means
 The E02 error code on a Ruud tankless water heater indicates a high-temperature or overheat safety fault. The control board has detected that the water temperature exceeded the safe operating limit or that an overtemperature condition developed inside the unit, so the heater locked out to prevent damage or scalding. The unit will not resume heating until the fault is cleared and the underlying cause is corrected.
 
 This fault typically points to a problem with temperature control, a sensor giving false high readings, or a safety device that has tripped. In most cases the water was never actually dangerously hot, but a failed sensor or wiring issue made the control think it was. Occasionally the heater did truly overheat due to scale buildup, restricted flow, or a stuck heating element.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

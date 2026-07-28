@@ -17,8 +17,7 @@ money_part: "Oven temperature sensor"
 part_price: "$15-80"
 ---
 
-## Maytag Range F1 Error Code — What It Means
-
+## What this code means
 The F1 error on a Maytag range indicates a fault with the oven temperature sensor, the electronic control board, or the wiring between them. On some models you may see F1-1, which Maytag documents the same way. A different variant, F1-A, points to the oven door latch or door lock switch and its wiring instead. Because Maytag uses F1 across multiple control platforms, the exact sub-code matters. A plain F1 on one model does not mean the same thing as F1-A on another.
 
 When the control sees a sensor reading out of range or loses communication with the sensor, it throws F1 and may disable the oven. The error can also appear if the control board itself has failed or if a connector has worked loose or corroded over time. For F1-A codes the latch mechanism or lock switch is the target, not the temperature sensor.
@@ -26,8 +25,6 @@ When the control sees a sensor reading out of range or loses communication with 
 ## Before You Replace Anything
 
 Many people replace the electronic control board first when a loose or corroded sensor connector is the real problem. Always inspect connectors and test the sensor resistance before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -17,8 +17,6 @@ money_part: "Hot gas solenoid valve"
 
 The Ice-O-Matic GEM-0305 is a GEMU (Elevation) series cube ice machine producing approximately 305 pounds of full-size or half-size cube ice per day. Ice-O-Matic uses a diagnostic LED and error code system that differs from Hoshizaki and Scotsman — faults are displayed as single or double-digit codes on the front panel LED, and some models use a flashing LED sequence on the control board. The GEM series includes air-cooled, water-cooled, and remote condenser variants.
 
-[Jump to Fix](#fix)
-
 ## Ice-O-Matic GEM-0305 Error Code Reference
 
 | Code | Fault |
@@ -67,11 +65,3 @@ The Ice-O-Matic GEM-0305 is a GEMU (Elevation) series cube ice machine producing
 ## When to Call a Pro
 
 Ice-O-Matic service training is available through their authorized service network and is recommended for harvest gate mechanism repairs. Refrigerant service on GEM series machines requires EPA 608 certification. The ice machine should be on a quarterly cleaning schedule — improper or infrequent cleaning is the root cause of most GEM-0305 service calls.
-
-## Related Articles
-
-- [Follett Ice Machine Error Code E1 — Causes & Fix](/posts/follett-ice-machine-error-code-e1/)
-- [Follett Ice Machine Error Code E2 — Causes & Fix](/posts/follett-ice-machine-error-code-e2/)
-- [Follett Ice Machine Error Code E3 — Causes & Fix](/posts/follett-ice-machine-error-code-e3/)
-- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)

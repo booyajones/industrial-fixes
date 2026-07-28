@@ -13,11 +13,8 @@ money_part: "Cabinet probe"
 most_likely_cause: "Temperature probe fault"
 ---
 
-## True T-49 Error Codes — What It Means
-
+## What this code means
 The True T-49 is a two-door commercial reach-in refrigerator commonly used in restaurants, prep kitchens, and stores. Depending on build year, it uses a Dixell, LAE, or True-branded digital temperature controller. Most T-49 error codes relate to temperature probes, defrost timing, or high cabinet temperature.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ The True T-49 is a two-door commercial reach-in refrigerator commonly used in re
 | Door gasket | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?ascsubtag=ecf-true-refrigeration-t49-error-codes&tag=errorcodefixes-20) \| Replace if torn or not sealing |
 ## When to Call a Pro
 If the compressor is short-cycling, the evaporator is icing repeatedly, or you suspect a refrigerant problem, bring in a commercial refrigeration technician. Sensor faults are simple. Sealed-system issues are not.
-
-## Related Articles
-
-- [True Refrigeration E1 Error Code — Causes & Fix](/posts/true-refrigeration-e1-error-code/)
-- [True Refrigeration E2 Error Code — Causes & Fix](/posts/true-refrigeration-e2-error-code/)
-- [True Refrigeration E3 Error Code — Causes & Fix](/posts/true-refrigeration-e3-error-code/)
-- [True Refrigeration E4 Error Code — Causes & Fix](/posts/true-refrigeration-e4-error-code/)
-- [True Refrigeration E5 Error Code — Defrost Sensor Causes & Fix](/posts/true-refrigeration-e5-error-code/)
-
-## See Also
-
-- [True Refrigerator Error Code E2 / P2: Evaporator Probe Failure Causes and Fix](/posts/true-refrigeration-e2-p2-error/)
-- [True T-72 Refrigerator Error Codes - Full Fault Guide](/posts/true-t-72-error-codes/)
-- [True Refrigeration T-Series Error Codes — Complete Fix Guide](/posts/true-refrigeration-t-series-error-codes/)
-- [True Refrigerator Error Code E1 / P1: Thermostat Probe Failure Causes and Fix](/posts/true-refrigeration-e1-p1-error/)

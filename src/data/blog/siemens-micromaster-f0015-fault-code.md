@@ -13,13 +13,10 @@ money_part: "Motor temperature sensor (PTC or KTY thermistor)"
 most_likely_cause: "Broken sensor wiring"
 ---
 
-## Siemens Micromaster F0015 — What It Means
-
+## What this code means
 F0015 on a Siemens Micromaster 420 or 440 drive means the motor temperature feedback signal has been lost. The drive expects to receive temperature data from a PTC, KTY, or other motor thermal sensor but detects either an open circuit or short circuit in that sensor path. When this fault trips, the drive automatically switches over to using its internal motor thermal model for protection instead of relying on the direct sensor reading.
 
 This is not a motor stall fault. Some web sources confuse F0015 with stall conditions, but Siemens documentation for the Micromaster family clearly identifies F0015 as a temperature signal loss issue caused by failed or disconnected sensor wiring, not a mechanical overload or locked rotor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ This is not a motor stall fault. Some web sources confuse F0015 with stall condi
 ## When to Call a Pro
 
 If you have verified continuity through the sensor circuit and replaced the sensor but the F0015 fault persists, the drive's temperature input circuitry may have failed and will require factory-trained diagnostics or board-level repair. Call a qualified Siemens service technician or authorized drive integrator if you are not comfortable working with three-phase power, if the motor sensor is embedded and requires disassembly of the stator, or if your process cannot tolerate extended downtime for trial-and-error troubleshooting. Also consult a professional if you need to reprogram drive parameters and are unfamiliar with the Micromaster parameter structure, because incorrect thermal protection settings can lead to motor damage under fault conditions.
-
-## See Also
-
-- [Siemens G120C VFD Fault Code Guide — Complete Diagnostic Reference](/posts/siemens-g120c-fault-codes/)
-- [Siemens Micromaster F0072 - Causes & Fix](/posts/siemens-micromaster-f0072-fault-code/)
-- [Siemens G120 F01600 - Causes & Fix](/posts/siemens-g120-vfd-f01600-fault-code/)
-- [Siemens Micromaster F0024 - Causes & Fix](/posts/siemens-micromaster-vfd-f0024-fault-code/)

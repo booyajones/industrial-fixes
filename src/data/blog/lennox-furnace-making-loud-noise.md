@@ -20,8 +20,6 @@ A loud Lennox furnace is not a fault code but a symptom that points to a mechani
 
 If the sound is a bang at ignition, it commonly comes from delayed ignition or hot sheet-metal duct movement. If the sound is a rattle, grind, squeal, or roar, the likely source is the blower assembly, inducer motor, belt, bearings, or loose panels and duct connections.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Loose blower wheel set screw or mounting bolts** The blower wheel or motor mounting hardware vibrates loose over time, causing rattle or grinding noise during blower operation.
@@ -70,10 +68,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a professional if the noise is a bang at ignition, which can indicate delayed ignition or burner problems that are safety hazards. Also call if you hear grinding from the blower or inducer motor and lack the tools or experience to replace motors safely. Any work involving gas burners, ignition components, or heat-exchanger inspection should be handled by a qualified HVAC technician to avoid carbon monoxide risk and make sure safe combustion. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Lennox E227 Error Code - Causes & Fix](/posts/lennox-furnace-e227-error-code/)
-- [Lennox 204 Error Code — Causes & Fix](/posts/lennox-error-code-204/)
-- [Lennox Error Code 327 — Causes & Fix](/posts/lennox-error-code-327/)
-- [Lennox Error Code 414 Rollout — Causes & Fix](/posts/lennox-error-code-414-rollout/)

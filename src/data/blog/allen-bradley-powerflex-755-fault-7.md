@@ -13,11 +13,8 @@ money_part: "Motor (if failed)"
 most_likely_cause: "Mechanical overload on the driven machine"
 ---
 
-## Allen-Bradley PowerFlex 755 Fault 7 — What It Means
-
+## What this code means
 Fault 7 (Motor Overload) on an Allen-Bradley PowerFlex 755 drive means the drive's electronic overload protection has tripped because the motor has been drawing current above its rated capacity for too long. The PowerFlex 755 calculates a thermal model of the motor based on the measured output current and the motor's rated current (Motor NP Amps, parameter 0:31). When the thermal model accumulates enough heat to reach 100%, the drive trips Fault 7. This protects the motor from thermal damage without requiring a separate overload relay. The 755 is Rockwell Automation's premium industrial drive for demanding applications (fans, pumps, compressors, conveyors) in the 0.75–1500 HP range.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Fault 7 (Motor Overload) on an Allen-Bradley PowerFlex 755 drive means the drive
 ## When to Call a Pro
 
 Persistent Fault 7 on a large PowerFlex 755 application requires a drive-trained technician to perform a load study — measuring current vs. time to determine whether the motor, drive parameters, or mechanical system is the root cause.
-
-## Related Articles
-
-- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
-- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
-- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
-- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)
-- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)
-
-## See Also
-
-- [Allen-Bradley PowerFlex F091 Fault — Encoder Loss Fix](/posts/allen-bradley-powerflex-f091-fault/)
-- [Allen-Bradley PowerFlex Fault F002 — Causes & Fix](/posts/allen-bradley-powerflex-fault-f002/)
-- [Allen-Bradley PowerFlex F007 Fault — Motor Overload Fix](/posts/allen-bradley-powerflex-f007-fault/)
-- [Allen-Bradley PowerFlex 70 Fault Codes: Complete Guide](/posts/allen-bradley-powerflex-70-faults/)

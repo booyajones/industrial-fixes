@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## KitchenAid F3E2 Error Code — What It Means
-
+## What this code means
 F3E2 on a KitchenAid oven or range signals an oven temperature sensor problem. The control board is not receiving the expected resistance or feedback from the oven temperature sensor circuit, or it detects a condition it interprets as a sensor fault. This can be an open sensor, an out-of-range reading, a wiring issue, or less commonly a control board malfunction.
 
 KitchenAid's official product-help pages describe F3 and F3E2 codes as oven-control or wiring-related faults on ranges. The code may appear during preheating, self-clean, or normal operation, and it usually disables the oven until the fault is cleared. A power reset is the first troubleshooting step recommended by the manufacturer.
@@ -25,8 +24,6 @@ KitchenAid's official product-help pages describe F3 and F3E2 codes as oven-cont
 ## Before You Replace Anything
 
 Many owners replace the electronic control board first. Always test the sensor resistance with a multimeter and inspect the harness connectors before ordering a new control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

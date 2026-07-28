@@ -19,8 +19,7 @@ free_checks:
 part_price: "$30-60 for a flue limiter fuse, $15-40 for a heat exchanger gasket set"
 ---
 
-## Bosch Tankless A2 Error Code — What It Means
-
+## What this code means
 The A2 error code on a Bosch tankless water heater signals that the flue gas limiter (or overheat cutoff fuse on older models) has activated because hot exhaust gases are entering the top of the cabinet instead of exiting through the vent pipe. This is a safety shutdown designed to prevent dangerous conditions when combustion gases leak into the unit's housing.
 
 The limiter detects excessive heat and stops the heater from firing. The root problem is almost always that exhaust is escaping somewhere it should not, whether through a blocked vent, a damaged gasket around the heat exchanger, a cracked sight glass, or internal lime scale buildup that causes overheating and gasket failure.
@@ -28,8 +27,6 @@ The limiter detects excessive heat and stops the heater from firing. The root pr
 ## Before You Replace Anything
 
 Homeowners sometimes replace the flue limiter fuse itself without finding the leak. Always inspect venting, gaskets, and the sight glass first, because the fuse is only responding to a real exhaust leak or overheating condition.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

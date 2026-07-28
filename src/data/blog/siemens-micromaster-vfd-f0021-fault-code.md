@@ -13,13 +13,10 @@ money_part: "Motor cable (shielded VFD-rated)"
 most_likely_cause: "Damaged motor cable insulation"
 ---
 
-## Siemens Micromaster F0021 Fault — What It Means
-
+## What this code means
 F0021 is an earth fault code on Siemens Micromaster 440 variable frequency drives. The drive has detected that the sum of the phase currents is greater than 5% of the inverter's nominal current, which means current is leaking to ground somewhere in the motor circuit. This fault applies only to inverters with three current sensors, specifically frame sizes D to F and FX/GX.
 
 The fault indicates an imbalance consistent with output-to-earth leakage. It is not a simple overload. The drive is seeing evidence that current is flowing to ground through damaged insulation, a grounded motor winding, or contamination in the cable or motor. The fault history is stored in parameter P0947.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ The fault indicates an imbalance consistent with output-to-earth leakage. It is 
 ## When to Call a Pro
 
 Call a qualified industrial electrician or VFD technician if you are not trained in lockout/tagout procedures, high-voltage insulation testing, or variable frequency drive diagnostics. If megohmmeter testing and cable inspection do not locate the fault, or if the fault remains after disconnecting all external wiring, the drive output stage likely requires factory service or replacement. Siemens recommends consulting the full fault history in parameter P0947 and verifying frame size and sensor configuration before ordering parts.
-
-## See Also
-
-- [Siemens G120 F01650 - Causes & Fix](/posts/siemens-g120-vfd-f01650-fault-code/)
-- [Siemens G120 F01000 - Causes & Fix](/posts/siemens-g120-f01000-fault-code/)
-- [Siemens Micromaster F0070 - Causes & Fix](/posts/siemens-micromaster-vfd-f0070-fault-code/)
-- [Siemens G120 F01122 - Causes & Fix](/posts/siemens-g120-vfd-f01122-fault-code/)

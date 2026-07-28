@@ -17,8 +17,7 @@ money_part: "Samsung dryer thermistor or temperature sensor"
 part_price: "$20-50"
 ---
 
-## Samsung Dryer tE Error Code — What It Means
-
+## What this code means
 The tE or TE error code on a Samsung dryer indicates a temperature-sensing fault. The dryer is detecting that the temperature reading is out of the expected range, so it cannot regulate heat safely or continue the cycle normally. The control logic stops or inhibits heating to protect the appliance.
 
 This code is most often tied to a thermistor (temperature sensor) problem, but it can also be triggered by an overheat or restricted-airflow condition, wiring faults, or less commonly a control board issue. The dryer is not reading cabinet or exhaust temperature correctly during operation.
@@ -27,8 +26,6 @@ This code is most often tied to a thermistor (temperature sensor) problem, but i
 
 Many people replace the control board first. Check the thermistor resistance with a multimeter and inspect the vent system for blockages before replacing any electronics.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
 - **Failed thermistor or temperature sensor** The sensor is open, shorted, or reading out of range and cannot report accurate temperature to the control board.
@@ -36,22 +33,6 @@ Many people replace the control board first. Check the thermistor resistance wit
 - **High-limit thermostat or safety circuit issue** If the dryer overheats or a safety device opens, the control can report a temperature fault.
 - **Wiring or connector defects** Loose, damaged, frayed, or heat-damaged harness connections in the temperature-sensing circuit cause faulty readings.
 - **Control board fault** Less common, but possible if the sensor and wiring test good and the board has failed input circuitry.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Is the lint screen or vent hose visibly clogged or restricted?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Clean the lint screen, vent hose, and exhaust duct thoroughly, then retest. Restricted airflow is a common trigger for this code.<br><strong>No:</strong> The problem is likely in the thermistor circuit or wiring. Move to electrical testing of the sensor.</div>
-</details>
-
-<details class="dtree"><summary>Does the dryer run normally with the vent disconnected (if safe to test)?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The vent system downstream is restricted. Inspect and clean the full exhaust duct and outside hood.<br><strong>No:</strong> The fault is internal. Check the thermistor, high-limit thermostat, and wiring harness.</div>
-</details>
-
-<details class="dtree"><summary>Does the thermistor show continuity and reasonable resistance on a multimeter?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The thermistor is likely good. Inspect wiring connections and connectors for damage, then consider the control board.<br><strong>No:</strong> The thermistor is open or shorted. Replace it and retest the dryer through a full heat cycle.</div>
-</details>
 
 ## Step-by-Step Fix {#fix}
 
@@ -74,5 +55,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a professional if you are not comfortable working with electrical components or multimeter testing. A technician can safely access the thermistor, test the sensor circuit, inspect wiring and connectors, and diagnose control board faults. If the dryer has a gas heating system or if you find evidence of overheating or burned wiring, a pro should handle the repair to avoid fire or safety hazards. If you have replaced the thermistor and cleaned the vent system but the code returns, the problem may require board-level diagnosis or a less obvious wiring fault that a qualified service tech can trace.
-
-**Rough cost:** DIY runs about $20-50 in parts, 30-60 min. A pro service call runs about $150-300.

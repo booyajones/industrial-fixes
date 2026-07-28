@@ -20,8 +20,6 @@ When a Frigidaire oven heats too hot, the control board is usually detecting hig
 
 Frigidaire describes F10 as a runaway heating or overheating condition. The control sees oven temperature above the expected range and takes action. On some models with a Pizza feature, an incorrect Pizza Shield or rack position can also trigger F10-related overheating behavior during the Stone-Baked Pizza preheat cycle.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed oven temperature sensor (RTD probe)** The most commonly cited cause in technician troubleshooting for F10 overheating on Frigidaire ovens is a sensor that has drifted out of calibration or failed internally.

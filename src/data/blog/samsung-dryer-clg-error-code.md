@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Samsung Dryer Lint Screen / Lint Filter"
 ---
 
-## Samsung Dryer CLg Error Code — What It Means
-
+## What this code means
 The CLg code (sometimes shown as Cg, CL9, or C9) appears on Samsung dryers after the Vent Blockage test has been run. It indicates that the dryer has detected the vent or duct system cannot exhaust air properly. Samsung groups this code with vent blockage test results and describes it as a clogged vent or duct system that traps heat and restricts airflow.
 
 The code does not appear during normal drying cycles. It only shows up as the result of a diagnostic test that measures how well the dryer can move air through the exhaust system. A CLg result means the system has failed the airflow test and requires inspection of the venting path.
@@ -25,8 +24,6 @@ The code does not appear during normal drying cycles. It only shows up as the re
 ## Before You Replace Anything
 
 Homeowners sometimes replace the blower motor or control board when the real problem is simply a clogged outside hood or crushed transition duct. Always disconnect the vent at the dryer and test airflow before ordering internal parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -20,8 +20,7 @@ free_checks:
 part_price: "$15-40"
 ---
 
-## Weil-McLain A134 Error Code — What It Means
-
+## What this code means
 A134 is typically an ignition failure or flame-not-proven fault. The boiler control started the burner sequence but did not detect a valid flame signal, so it stopped the heat call and locked out or entered retry mode. The exact on-screen text and code mapping can vary by Weil-McLain model and control family, so always confirm the code in your unit's service manual before replacing parts.
 
 In practical terms, the control is not satisfied that flame is present after the ignition attempt. This can happen because gas never reached the burner, the ignitor did not light the gas, or the flame sensor did not detect the flame even though combustion occurred.
@@ -29,8 +28,6 @@ In practical terms, the control is not satisfied that flame is present after the
 ## Before You Replace Anything
 
 Homeowners often replace the gas valve or control board first. Clean and test the flame sensor and verify the ignitor is glowing or sparking before buying expensive parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -81,10 +78,3 @@ Answer these to narrow it down fast.
 Call a professional immediately. A134 involves the gas ignition and flame-proving system, which requires a trained technician to safely diagnose and repair. Repeated lockouts without finding the root cause can damage the control or create unsafe conditions. The technician will use combustion-analysis tools, a multimeter, and the model-specific service manual to test ignitor current draw, flame-sensor microamperage, gas valve operation, and control-board outputs. Work on gas-fired equipment must comply with local codes and should be performed by a licensed technician.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Weil-McLain A51 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a51-error-code/)
-- [Weil-McLain Boiler A143 Error - Causes & Fix](/posts/weil-mclain-boiler-a143-error-code/)
-- [Weil-McLain A13 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a13-error-code/)
-- [Weil-McLain A29 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a29-error-code/)

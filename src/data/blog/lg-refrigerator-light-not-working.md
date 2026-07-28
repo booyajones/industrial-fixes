@@ -17,8 +17,6 @@ tags:
 
 When the light fails to turn on in your LG refrigerator, the cooling system continues to run normally but you lose interior visibility. The light circuit includes a bulb or LED module, a door switch that triggers when you open the door, and wiring connecting these components to the control board. If any part of this circuit breaks or loses continuity, the light stays dark. This is a functional symptom, not a displayed error code. The refrigerator will maintain temperature but the compartment remains unlit when you open the door.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Burned-out incandescent bulb** The filament inside the bulb has broken due to age or repeated thermal cycling, which is the most common failure in models using traditional bulbs.
@@ -51,26 +49,19 @@ When the light fails to turn on in your LG refrigerator, the cooling system cont
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Lg Refrigerator C1 error code](/posts/lg-refrigerator-c1-error-code/)
-- [Lg Refrigerator Cf error code](/posts/lg-refrigerator-cf-error-code/)
-- [Lg Refrigerator Co error code](/posts/lg-refrigerator-co-error-code/)
-- [Lg Refrigerator Dh error code](/posts/lg-refrigerator-dh-error-code/)
-- [Lg Refrigerator Ds error code](/posts/lg-refrigerator-ds-error-code/)
-- [Lg Refrigerator Eid error code](/posts/lg-refrigerator-eid-error-code/)
-- [Lg Refrigerator Eiu error code](/posts/lg-refrigerator-eiu-error-code/)
-- [Lg Refrigerator Ff error code](/posts/lg-refrigerator-ff-error-code/)
-- [Lg Refrigerator Fs error code](/posts/lg-refrigerator-fs-error-code/)
-- [Lg Refrigerator Gf error code](/posts/lg-refrigerator-gf-error-code/)
-- [Lg Refrigerator If error code](/posts/lg-refrigerator-if-error-code/)
-- [Lg Refrigerator Is error code](/posts/lg-refrigerator-is-error-code/)
+- Lg Refrigerator C1 error code
+- Lg Refrigerator Cf error code
+- Lg Refrigerator Co error code
+- Lg Refrigerator Dh error code
+- Lg Refrigerator Ds error code
+- Lg Refrigerator Eid error code
+- Lg Refrigerator Eiu error code
+- Lg Refrigerator Ff error code
+- Lg Refrigerator Fs error code
+- Lg Refrigerator Gf error code
+- Lg Refrigerator If error code
+- Lg Refrigerator Is error code
 
 ## When to Call a Pro
 
 Call a technician if you've replaced the bulb and confirmed the door switch has continuity but the light still does not work. Testing for live voltage at the socket or diagnosing control board faults requires working with 120V AC power inside the cabinet, which presents shock risk. If wiring connectors are damaged or the control board needs replacement, a certified tech has the tools to isolate the exact failure point and install OEM parts safely.
-
-## See Also
-
-- [LG Dishwasher IE Error Code - Causes & Fix](/posts/lg-dishwasher-ie-error-code/)
-- [LG Dryer tE1 Error Code - Causes & Fix](/posts/lg-dryer-te1-error-code/)
-- [LG Mini Split CH61 Error Code - Causes & Fix](/posts/lg-mini-split-ch61-error-code/)
-- [LG Range H5 Error Code - Causes & Fix](/posts/lg-range-h5-error-code/)

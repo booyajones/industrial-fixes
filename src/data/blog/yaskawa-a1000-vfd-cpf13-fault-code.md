@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 CPF13 — What It Means
-
+## What this code means
 CPF13 on a Yaskawa A1000 VFD indicates a control circuit error. The drive's internal self-diagnostics have detected a failure in the control circuit hardware. Yaskawa fault tables group CPF11 through CPF14 as control circuit errors caused by self-diagnostic failures or damaged operator connections. Some third-party fault lists also label CPF13 as a watchdog circuit exception, but all sources treat it as an internal control-board or operator-interface hardware problem rather than a motor or load issue.
 
 This is not an external wiring, overload, or encoder fault. The problem lies inside the drive itself, typically in the control board circuitry, the operator keypad connection, or related internal electronics. The fault persists when the drive cannot complete its internal health checks at startup or during operation.
@@ -24,8 +23,6 @@ This is not an external wiring, overload, or encoder fault. The problem lies ins
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive without first checking the operator/keypad connector or attempting a simple power cycle, which clears transient control-circuit faults in many cases.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa-authorized service center as soon as the CPF13 fault persists after a power cycle. Control-circuit faults involve internal drive electronics that require specialized diagnostic equipment, knowledge of firmware and board-level troubleshooting, and access to OEM replacement parts. Replacing the control board or configuring a replacement drive demands familiarity with parameter backups, DC bus safety, and drive commissioning. Do not attempt board-level repairs without proper training and ESD precautions. Yaskawa recommends contacting their technical support or an authorized representative for control-board replacement instructions and to confirm warranty coverage before opening the drive.
 
 **Rough cost:** A pro service call runs about $300-1,200.
-
-## See Also
-
-- [Yaskawa GA800 A.103 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-103-fault-code/)
-- [Yaskawa GA800 A.121 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-121-fault-code/)
-- [Yaskawa GA800 E20 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e20-fault-code/)
-- [Yaskawa GA800 A.148 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-148-fault-code/)

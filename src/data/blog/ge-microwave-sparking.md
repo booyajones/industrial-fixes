@@ -17,8 +17,6 @@ tags:
 
 Sparking or arcing in a GE microwave means microwave energy is concentrating at a conductive spot, a carbonized area, or a failing high-voltage component inside the cavity or waveguide area. This is a symptom, not a fault code. GE publishes fault codes for electronic control issues separately, such as the 18 power watch code, but sparking itself indicates a physical problem in the oven cavity, waveguide assembly, or internal microwave generation path.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Metal objects in the cavity** Foil, utensils, twist ties, metallic trim on dishes, or skewers will arc when they reflect microwave energy.
@@ -55,7 +53,7 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Ge Microwave F1 error code](/posts/ge-microwave-f1-error-code/)
 - [Ge Microwave F10 error code](/posts/ge-microwave-f10-error-code/)
-- [Ge Microwave F2 error code](/posts/ge-microwave-f2-error-code/)
+- Ge Microwave F2 error code
 - [Ge Microwave F3 error code](/posts/ge-microwave-f3-error-code/)
 - [Ge Microwave F4 error code](/posts/ge-microwave-f4-error-code/)
 - [Ge Microwave F5 error code](/posts/ge-microwave-f5-error-code/)

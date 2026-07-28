@@ -13,13 +13,10 @@ money_part: "MICROMASTER 420 or 440 drive replacement unit"
 most_likely_cause: "Motor or mechanical overload"
 ---
 
-## Siemens Micromaster F0005 — What It Means
-
+## What this code means
 F0005 on a Siemens MICROMASTER 420 or 440 indicates an Inverter I²t overload fault. This means the drive's internal thermal model has calculated that the inverter power stage has been running too hot for too long, typically from sustained high current draw or a duty cycle that exceeds the drive's capability. Unlike a simple overcurrent trip, F0005 is a thermal protection response based on accumulated heat in the inverter section.
 
 This fault does not always mean the drive itself is damaged. In most cases it is triggered by external conditions such as an overloaded motor, mechanical binding, incorrect motor parameters, or undersized drive selection. The drive is protecting its power electronics from thermal damage by shutting down before permanent harm occurs.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ This fault does not always mean the drive itself is damaged. In most cases it is
 ## When to Call a Pro
 
 Call a qualified technician or drive specialist if you cannot identify an obvious mechanical overload or cooling problem, if the fault returns immediately after correcting external issues, or if you are unsure how to verify motor parameters and drive sizing. Repeated F0005 faults without a clear cause suggest either incorrect application engineering or internal drive damage that requires diagnostic tools and replacement. A professional can perform load analysis, thermal imaging, parameter audits, and inverter testing to pinpoint the root cause and prevent unnecessary part replacement or repeated nuisance trips.
-
-## See Also
-
-- [Siemens VFD F0002 Fault - Overvoltage: What It Means and How to Fix It](/posts/siemens-vfd-f0002-fault/)
-- [Siemens Micromaster F0101 - Causes & Fix](/posts/siemens-micromaster-f0101-fault-code/)
-- [Siemens G120 A03520 - Causes & Fix](/posts/siemens-g120-a03520-fault-code/)
-- [Siemens Micromaster F0054 - Causes & Fix](/posts/siemens-micromaster-vfd-f0054-fault-code/)

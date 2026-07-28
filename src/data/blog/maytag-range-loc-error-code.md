@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Touchpad / Control Panel Assembly"
 ---
 
-## Maytag Range LOC Error Code — What It Means
-
+## What this code means
 On a Maytag range, LOC is not a fault code. It is the control lock (or lockout) message showing that the keypad controls are locked. The range's control lock feature is enabled, which shuts down the control pads and locks the oven door to prevent unintended use. Maytag states that LOC will appear whenever any command pad is pressed while the control is locked.
 
 The normal unlock action is to touch and hold START/ENTER for 5 seconds until LOC disappears. This is a feature state, not a defect, and does not by itself indicate that any component has failed.
@@ -25,8 +24,6 @@ The normal unlock action is to touch and hold START/ENTER for 5 seconds until LO
 ## Before You Replace Anything
 
 Some homeowners replace the touchpad or main control board thinking LOC signals a hardware failure, but the message indicates only that the lock feature is active. Try the unlock sequence and a breaker reset before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

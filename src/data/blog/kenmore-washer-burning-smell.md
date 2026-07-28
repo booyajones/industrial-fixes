@@ -19,8 +19,6 @@ A burning smell from your Kenmore washer is not a fault code. It is a symptom th
 
 In Kenmore top-loaders, especially the 110-series models built on the Whirlpool vertical modular platform, a burning smell often appears alongside symptoms like won't spin or won't drain. That combination usually means the drive system is under stress or a pump is jammed. The smell indicates that heat is building up faster than the part can handle, whether that is from mechanical drag, electrical overload, or simple component wear.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Worn or slipping drive belt** The belt can overheat and smell like burning rubber when it is glazed, loose, misaligned, overloaded, or has missing chunks.
@@ -54,8 +52,8 @@ In Kenmore top-loaders, especially the 110-series models built on the Whirlpool 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kenmore Washer E14 error code](/posts/kenmore-washer-e14-error-code/)
-- [Kenmore Washer E24 error code](/posts/kenmore-washer-e24-error-code/)
+- Kenmore Washer E14 error code
+- Kenmore Washer E24 error code
 - [Kenmore Washer F0 E2 error code](/posts/kenmore-washer-f0-e2-error-code/)
 - [Kenmore Washer F0 E4 error code](/posts/kenmore-washer-f0-e4-error-code/)
 - [Kenmore Washer F1 E1 error code](/posts/kenmore-washer-f1-e1-error-code/)

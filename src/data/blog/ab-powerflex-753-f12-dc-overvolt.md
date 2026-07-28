@@ -23,8 +23,6 @@ In the real world, this fault shows up most often during **deceleration**. A hig
 
 The PowerFlex 753 is a common industrial drive, and this issue also affects **PowerFlex 755 drives in some configurations**.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
 - **Decel time set too short**. This is the most common cause of F12 in normal industrial service.
@@ -76,6 +74,6 @@ Call a technician if a longer decel time does not help, the application needs en
 
 ## Related Error Codes
 
-- [Allen Bradley PowerFlex 40 F7 Fault: Motor Overload](/posts/ab-powerflex-40-f7-fault/)
+- Allen Bradley PowerFlex 40 F7 Fault: Motor Overload
 - [Allen Bradley PowerFlex 753 F35 Fault: Heatsink Overtemp](/posts/ab-powerflex-753-f35-heatsink/)
-- [Allen Bradley PowerFlex 753 F12 Fault](/posts/allen-bradley-powerflex-753-f12-fault/)
+- Allen Bradley PowerFlex 753 F12 Fault

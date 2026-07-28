@@ -13,11 +13,8 @@ money_part: "No parts typically required"
 most_likely_cause: "Workpiece or fixture placed outside the work envelope"
 ---
 
-## Fanuc Alarm 4 — What It Means
-
+## What this code means
 Fanuc alarm 4 indicates a stored stroke limit overtravel in the negative direction (Alarm 4: Stored Stroke Limit 1 negative side). The CNC detected that the axis position reached or exceeded the software-defined travel boundary set in the stored stroke limit parameters. This is a software limit — not a physical limit switch — and stops axis motion before the machine reaches a mechanical hard stop.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Fanuc alarm 4 indicates a stored stroke limit overtravel in the negative directi
 ## When to Call a Pro
 
 If the machine repeatedly trips alarm 4 in normal operation after parameter and program correction, the axis position feedback may be drifting due to a faulty encoder or servo drive. Contact a Fanuc-certified service technician for servo system diagnostics.
-
-## Related Articles
-
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
-- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
-- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
-
-## See Also
-
-- [Fanuc Alarm 600 — Causes & Fix](/posts/fanuc-alarm-600/)
-- [Fanuc Alarm 700 Spindle Overheat — Detailed Fix Guide](/posts/fanuc-alarm-700-spindle/)
-- [Fanuc Alarm 360 — APC Alarm Battery Low Causes & Fix](/posts/fanuc-alarm-360/)
-- [Fanuc Alarm 430 — Servo Motor Overheat Fix](/posts/fanuc-alarm-430/)

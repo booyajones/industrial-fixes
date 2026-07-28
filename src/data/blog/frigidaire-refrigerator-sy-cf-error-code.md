@@ -17,15 +17,12 @@ money_part: "User interface board (display board)"
 part_price: "$50-250"
 ---
 
-## Frigidaire SY CF Error Code — What It Means
-
+## What this code means
 SY CF on a Frigidaire or Electrolux refrigerator is a system communication error. The user interface or display board cannot exchange data with the main electronic control board. This is different from SY EF, which signals an evaporator fan circuit problem. When the control system cannot communicate, the refrigerator may not respond to button presses or may show erratic display behavior. The code appears during startup or after a power interruption when the boards fail to initialize their connection.
 
 ## Before You Replace Anything
 
 Many people replace the main control board immediately when the real problem is a loose or corroded connector in the harness. Unplug the refrigerator, inspect both ends of the harness for loose pins or corrosion, and test the wires for continuity before ordering any boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

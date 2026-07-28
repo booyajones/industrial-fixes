@@ -17,8 +17,7 @@ free_checks:
   - "Power-cycle the drive: turn off power, wait for all indicators to go dark, then restart and see if the code clears."
 ---
 
-## Yaskawa GA800 F036 Fault — What It Means
-
+## What this code means
 The F036 code does not appear in Yaskawa's published GA800 fault code documentation. Standard GA800 faults are displayed as letter-number combinations like oC (overcurrent), GF (ground fault), CPF03 (PWM data error), or Er-08 (autotuning error). This means F036 is either a display misread, a custom alarm configured by the installer, or a code from a different Yaskawa model (such as the V3F10 or a Servopack). Without confirmation from the drive's fault log or manual, the exact cause cannot be determined.
 
 To find the true fault, navigate the GA800 keypad to the Fault Log or Alarm History menu (often parameter Fn000) and record the complete code and description text. Compare this to the fault table in your GA800 manual. If the code still does not match any published fault, contact Yaskawa Technical Support at 1.800.927.5292 or repair@yaskawa.com with your model number, serial number, and the displayed code for a definitive answer.
@@ -26,8 +25,6 @@ To find the true fault, navigate the GA800 keypad to the Fault Log or Alarm Hist
 ## Before You Replace Anything
 
 Do not replace the control board or main PCB until you verify the exact fault code from the fault log menu. A misread display or parameter error often looks like an unknown code but clears with a simple reset or parameter check.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

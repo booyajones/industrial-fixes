@@ -13,11 +13,8 @@ money_part: "iComfort thermostat"
 most_likely_cause: "Loose communication wiring at the air handler terminal block"
 ---
 
-## Armstrong Air Handler E1 Error Code — What It Means
-
+## What this code means
 Armstrong Air is a brand within the Allied Air Enterprises family (part of Lennox International), and Armstrong communicating air handlers use the same iComfort communication bus as Lennox systems. On Armstrong communicating air handlers and heat pumps, E1 indicates a communication fault — the air handler's control board has lost contact with either the outdoor unit or the thermostat on the communicating bus. The system shuts down because it cannot safely operate without real-time data from its communication partners.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

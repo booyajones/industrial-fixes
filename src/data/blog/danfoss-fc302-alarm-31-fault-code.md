@@ -13,11 +13,8 @@ money_part: "Motor cable assembly (phase V conductor)"
 most_likely_cause: "Loose, broken, or disconnected motor wiring on phase V"
 ---
 
-## Danfoss FC302 ALARM 31 — What It Means
-
+## What this code means
 ALARM 31 on a Danfoss VLT AutomationDrive FC 302 indicates that motor phase V is missing between the drive and the motor. The drive has detected that the V output leg is open or absent. This alarm does not appear at startup. It shows up during operation when the drive monitors output current and phase continuity and finds that phase V is not conducting properly.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,10 +44,3 @@ ALARM 31 on a Danfoss VLT AutomationDrive FC 302 indicates that motor phase V is
 ## When to Call a Pro
 
 Call a qualified drives technician or authorized Danfoss service provider if you are not trained in high-voltage DC and AC power systems, if lockout and capacitor discharge procedures are unfamiliar, or if initial wiring and terminal checks do not resolve the alarm. Internal drive power-section faults require specialized diagnostic tools and replacement modules that must match your FC 302 frame size and firmware. A professional can also perform load testing and waveform analysis to confirm whether the fault is in the inverter stage or the motor.
-
-## See Also
-
-- [Danfoss FC301 Fault AL 14 — Ground Fault Causes & Fix](/posts/danfoss-fc301-fault-al-14/)
-- [Danfoss VLT 2900 Fault Codes: Complete Guide](/posts/danfoss-vlt-2900-faults/)
-- [Danfoss FC-302 Alarm 13 — DC Link Overvoltage Fix](/posts/danfoss-fc302-alarm-13/)
-- [Danfoss FC302 ALARM 26 - Causes & Fix](/posts/danfoss-fc302-alarm-26-fault-code/)

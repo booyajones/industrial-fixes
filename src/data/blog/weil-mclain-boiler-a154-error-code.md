@@ -17,8 +17,7 @@ free_checks:
   - "Check that system pressure is in the normal range (typically 12-15 psi cold) and that power and gas are on"
 ---
 
-## Weil-McLain A154 Error Code — What It Means
-
+## What this code means
 A154 does not appear in Weil-McLain's published fault-code tables for their standard residential and commercial boiler controls. Weil-McLain fault codes are model-specific, and the exact meaning depends on the control board installed on your unit. Many Weil-McLain boilers use Honeywell, Beckett, or proprietary controls, each with its own code format and numbering. If you see A154 on your display, first confirm the exact boiler model and control type, then consult that model's service manual or access the diagnostics history menu to read the stored fault.
 
 The most reliable next step is to identify the boiler nameplate model number, locate the control board, and cross-reference the code in the installation or service manual for that specific unit. Weil-McLain directs technicians to model manuals and on-board diagnostics rather than universal code lists, so attempting to fix A154 without the correct documentation may lead to misdiagnosis.
@@ -26,8 +25,6 @@ The most reliable next step is to identify the boiler nameplate model number, lo
 ## Before You Replace Anything
 
 Do not replace the control board or ignition module until you verify the exact meaning of A154 for your model. Many apparent fault codes turn out to be transcription errors or generic system-status messages that resolve with a simple reset or pressure adjustment.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician immediately if you cannot locate the service manual, if the code is not documented in your manual, or if the boiler remains locked out after basic checks. Boiler diagnostics and repair involve natural gas or oil combustion, high-voltage ignition, and pressure-vessel safety, all of which require specialized training and tools. A technician can access advanced diagnostics, measure combustion parameters, and safely replace sensors, ignition components, or the control board. Attempting to bypass or reset persistent faults without understanding the root cause risks carbon-monoxide exposure, property damage, or personal injury.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Weil-McLain A104 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a104-error-code/)
-- [Weil-McLain A66 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a66-error-code/)
-- [Weil-McLain Boiler A177 Error - Causes & Fix](/posts/weil-mclain-boiler-a177-error-code/)
-- [Weil-McLain A58 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a58-error-code/)

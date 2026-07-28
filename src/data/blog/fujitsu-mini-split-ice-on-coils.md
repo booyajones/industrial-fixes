@@ -17,8 +17,6 @@ tags:
 
 Ice forming on your Fujitsu mini split's indoor evaporator coil means the coil surface temperature has dropped below freezing, causing moisture in the air to freeze on contact. This happens when something prevents the coil from absorbing enough heat from the room air, or when the refrigerant side is operating incorrectly. If you see an error code displayed along with the ice, E5 is the most common Fujitsu code related to icing. E5 indicates the indoor coil thermistor (temperature sensor) has a short circuit, which means the indoor unit cannot read the evaporator temperature correctly and may not regulate defrost or refrigerant flow properly.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty or clogged air filter** A restricted filter blocks airflow across the evaporator coil, dropping coil temperature low enough to freeze moisture on the fins.
@@ -53,18 +51,18 @@ Ice forming on your Fujitsu mini split's indoor evaporator coil means the coil s
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Fujitsu Mini Split E 01 error code](/posts/fujitsu-mini-split-e-01-error-code/)
-- [Fujitsu Mini Split E 02 error code](/posts/fujitsu-mini-split-e-02-error-code/)
-- [Fujitsu Mini Split E 03 error code](/posts/fujitsu-mini-split-e-03-error-code/)
-- [Fujitsu Mini Split E 04 error code](/posts/fujitsu-mini-split-e-04-error-code/)
-- [Fujitsu Mini Split E 05 error code](/posts/fujitsu-mini-split-e-05-error-code/)
-- [Fujitsu Mini Split E 06 error code](/posts/fujitsu-mini-split-e-06-error-code/)
-- [Fujitsu Mini Split E 07 error code](/posts/fujitsu-mini-split-e-07-error-code/)
-- [Fujitsu Mini Split E 08 error code](/posts/fujitsu-mini-split-e-08-error-code/)
-- [Fujitsu Mini Split E 09 error code](/posts/fujitsu-mini-split-e-09-error-code/)
-- [Fujitsu Mini Split E 10 error code](/posts/fujitsu-mini-split-e-10-error-code/)
-- [Fujitsu Mini Split E 11 error code](/posts/fujitsu-mini-split-e-11-error-code/)
-- [Fujitsu Mini Split E 12 error code](/posts/fujitsu-mini-split-e-12-error-code/)
+- Fujitsu Mini Split E 01 error code
+- Fujitsu Mini Split E 02 error code
+- Fujitsu Mini Split E 03 error code
+- Fujitsu Mini Split E 04 error code
+- Fujitsu Mini Split E 05 error code
+- Fujitsu Mini Split E 06 error code
+- Fujitsu Mini Split E 07 error code
+- Fujitsu Mini Split E 08 error code
+- Fujitsu Mini Split E 09 error code
+- Fujitsu Mini Split E 10 error code
+- Fujitsu Mini Split E 11 error code
+- Fujitsu Mini Split E 12 error code
 
 ## When to Call a Pro
 

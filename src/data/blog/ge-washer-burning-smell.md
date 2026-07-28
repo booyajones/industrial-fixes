@@ -19,8 +19,6 @@ A burning smell from a GE washer is a symptom, not a fault code. It usually mean
 
 If the smell appears during spin, drain, or agitation, you are looking at a washer component generating heat from friction or a seized part. Any fault code on the display should be interpreted with your model's service manual to direct the repair.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Drive belt slipping or worn** Belt wear or slip creates a burning smell, often with poor or no spin performance.
@@ -52,9 +50,9 @@ If the smell appears during spin, drain, or agitation, you are looking at a wash
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Ge Washer C2 error code](/posts/ge-washer-c2-error-code/)
+- Ge Washer C2 error code
 - [Ge Washer C5 error code](/posts/ge-washer-c5-error-code/)
-- [Ge Washer E23 error code](/posts/ge-washer-e23-error-code/)
+- Ge Washer E23 error code
 
 ## When to Call a Pro
 

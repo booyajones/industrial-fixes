@@ -17,8 +17,7 @@ money_part: "LG dishwasher vario motor"
 part_price: "$80-180"
 ---
 
-## LG Dishwasher nE Error Code — What It Means
-
+## What this code means
 The nE code on LG dishwashers indicates the unit has detected a possible issue with the vario motor, which controls the dishwasher's spray function. This motor manages water distribution between spray paths during the wash cycle.
 
 The error appears when the control board cannot operate the vario motor correctly. The fault may be in the motor itself, the wiring harness that connects it, or the main control board that drives the motor. The dishwasher will not complete a normal cycle until the fault is resolved.
@@ -26,8 +25,6 @@ The error appears when the control board cannot operate the vario motor correctl
 ## Before You Replace Anything
 
 Many people replace the main control board first, but the actual problem is usually the vario motor or a loose connector. Test the motor electrically and inspect all connectors before buying any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable working with the dishwasher's electrical system, testing components with a multimeter, or interpreting voltage and resistance readings. The vario motor is located under the tub and requires panel removal and precise connector work. If you have already inspected the wiring and the fault persists, a technician can perform model-specific diagnostic tests, verify control board output, and replace the correct component without trial and error. Professional diagnosis is especially important if you lack the service manual with the exact electrical specifications for your model.
 
 **Rough cost:** DIY runs about $80-180 in parts, 1-2 hours. A pro service call runs about $180-350.
-
-## See Also
-
-- [LG LFXS28968S Refrigerator Problems & Error Codes](/posts/lg-lfxs28968s-refrigerator-problems/)
-- [LG Refrigerator IF Error Code - Causes & Fix](/posts/lg-refrigerator-if-error-code/)
-- [LG Range SE Error Code - Causes & Fix](/posts/lg-range-se-error-code/)
-- [LG Dryer tE1 Error Code - Causes & Fix](/posts/lg-dryer-te1-error-code/)

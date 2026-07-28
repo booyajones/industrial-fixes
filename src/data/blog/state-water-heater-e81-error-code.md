@@ -13,13 +13,10 @@ money_part: "Combustion air intake screen or filter"
 most_likely_cause: "Blocked combustion air intake"
 ---
 
-## State Water Heater E81 Error Code — What It Means
-
+## What this code means
 E81 on State tankless water heaters (which share design with A. O. Smith tankless units) indicates an ignition or combustion-start failure. The unit attempted to fire but could not establish a flame. This is not a simple user-reset code. It signals that something is preventing proper ignition, typically insufficient combustion air, low gas flow, or inadequate water flow triggering the fault before the burner lights.
 
 The code protects the appliance by shutting down when it cannot safely start combustion. Field experience shows blocked air intake screens are the single most common trigger, followed by low gas pressure or dirty inlet water filters starving the unit of the flow needed to call for heat.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

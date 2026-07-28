@@ -19,8 +19,6 @@ When an Amana washer won't start, the machine is not allowing the control to beg
 
 On many Amana top-load models (especially VMW platforms), the control stores fault codes that must be read and cleared before the machine will start again. Technicians are trained to enter diagnostic mode, pull any stored codes, and address the underlying issue before replacing parts. The no-start symptom itself does not point to one single part, so diagnosis is required.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Control lock engaged** The control panel lock feature is active and prevents any button presses from starting a cycle.
@@ -62,7 +60,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Amana Washer F8 E1 error code](/posts/amana-washer-f8-e1-error-code/)
 - [Amana Washer F8 E2 error code](/posts/amana-washer-f8-e2-error-code/)
 - [Amana Washer F9 E1 error code](/posts/amana-washer-f9-e1-error-code/)
-- [Amana Washer Fd error code](/posts/amana-washer-fd-error-code/)
+- Amana Washer Fd error code
 - [Amana Washer Hc error code](/posts/amana-washer-hc-error-code/)
 - [Amana Washer Ldl error code](/posts/amana-washer-ldl-error-code/)
 - [Amana Washer Ldu error code](/posts/amana-washer-ldu-error-code/)

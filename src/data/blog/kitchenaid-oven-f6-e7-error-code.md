@@ -15,15 +15,12 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## KitchenAid F6 E7 Error Code — What It Means
-
+## What this code means
 The F6 E7 error code on a KitchenAid wall oven indicates a problem with the Microwave Appliance Manager or its associated wiring. This is a communication and control fault, not a temperature sensor or door latch issue. KitchenAid's official guidance describes it as a control-path failure that requires either a power reset to clear a transient glitch or inspection and replacement of the appliance manager and its wiring if the fault persists.
 
 ## Before You Replace Anything
 
 Some owners replace the Microwave Appliance Manager immediately without inspecting the wiring harness and connectors first. Check every connector to the appliance manager for looseness or corrosion before ordering a new control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

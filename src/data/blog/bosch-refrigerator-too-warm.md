@@ -17,8 +17,6 @@ tags:
 
 A too-warm alarm on a Bosch refrigerator means the measured compartment temperature is above the target setpoint and the unit believes food safety may be at risk. Bosch states the alarm sounds when the freezer compartment is too warm and frozen food may be at risk of thawing. In some cases the appliance may simply need a reset or time to recover temperature. If the unit is displaying a fault code, E01 indicates a defective refrigerator compartment temperature sensor and E02 indicates a defective freezer compartment temperature sensor.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door left open or opened too often** Warm air enters the cabinet and raises the compartment temperature above the setpoint.
@@ -51,12 +49,12 @@ A too-warm alarm on a Bosch refrigerator means the measured compartment temperat
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Bosch Refrigerator E01 error code](/posts/bosch-refrigerator-e01-error-code/)
+- Bosch Refrigerator E01 error code
 - [Bosch Refrigerator E02 error code](/posts/bosch-refrigerator-e02-error-code/)
-- [Bosch Refrigerator E03 error code](/posts/bosch-refrigerator-e03-error-code/)
-- [Bosch Refrigerator E10 error code](/posts/bosch-refrigerator-e10-error-code/)
-- [Bosch Refrigerator E11 error code](/posts/bosch-refrigerator-e11-error-code/)
-- [Bosch Refrigerator E15 error code](/posts/bosch-refrigerator-e15-error-code/)
+- Bosch Refrigerator E03 error code
+- Bosch Refrigerator E10 error code
+- Bosch Refrigerator E11 error code
+- Bosch Refrigerator E15 error code
 - [Bosch Refrigerator E20 error code](/posts/bosch-refrigerator-e20-error-code/)
 - [Bosch Refrigerator E21 error code](/posts/bosch-refrigerator-e21-error-code/)
 

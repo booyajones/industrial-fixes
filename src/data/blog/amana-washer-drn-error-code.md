@@ -22,8 +22,7 @@ part_price: "$20-50"
 no_buy_pct: "60%"
 ---
 
-## Amana DRN Error Code — What It Means
-
+## What this code means
 DRN on an Amana top-load HE washer means the machine is not draining properly. This code indicates a drain-system fault, which can be caused by a pump problem or, just as often, by incorrect installation of the drain hose. Amana explicitly notes that DRN can sometimes be an installation issue rather than a failed part.
 
 The washer is taking too long to evacuate water, or water is staying in the tub at the end of the cycle. Before assuming the pump has failed, technicians first check the external plumbing and hose routing, because many DRN codes are resolved by fixing how the drain hose is installed or clearing a simple blockage.
@@ -31,8 +30,6 @@ The washer is taking too long to evacuate water, or water is staying in the tub 
 ## Before You Replace Anything
 
 Many people replace the drain pump first, but a large share of DRN codes are fixed by correcting the drain hose installation or clearing a kink or clog in the hose. Always inspect the external drain path and run a drain test before buying a pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

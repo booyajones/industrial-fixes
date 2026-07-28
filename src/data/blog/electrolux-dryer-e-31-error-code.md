@@ -17,15 +17,12 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Electrolux Dryer E31 Error Code — What It Means
-
+## What this code means
 The E31 error on an Electrolux dryer indicates the control board is receiving an abnormal signal from the moisture sensing system. Specifically, the moisture sensor feedback frequency is too high. This code points to a problem with the moisture sensing circuit rather than a heating or airflow fault. The dryer uses metal sensor bars inside the drum to detect moisture levels in clothes. When wet fabric bridges the bars, a small current flows and the control reads the signal frequency. If that frequency is outside the expected range, the control throws E31 and may stop the cycle or refuse to start.
 
 ## Before You Replace Anything
 
 Homeowners often replace the electronic control board when E31 appears, but contamination or a loose connector at the sensor is far more common. Clean the sensor bars and inspect the wiring harness for damage before ordering a control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

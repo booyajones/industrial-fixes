@@ -14,15 +14,12 @@ most_likely_cause: "Misreading the display"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa GA800 A.148 — What It Means
-
+## What this code means
 A.148 is not a standard Yaskawa GA800 fault code. The GA800 displays active faults as alphanumeric codes such as oC (overcurrent), ov (overvoltage), or CPF06 (control power fault), not dotted codes like A.148. The format A.xxx is consistent with a parameter or monitor item number on the Yaskawa keypad, not a fault condition. If the drive is in fault or has stopped, the real fault code is stored in the alarm history or shown on the main display. To diagnose the problem, you must first identify the actual fault code from the keypad's fault history menu or the main screen, then follow the troubleshooting procedure for that specific code.
 
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board or power section when they mistake a parameter display for a fault. Always confirm the actual active fault code from the fault history menu and inspect wiring and motor connections first before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -71,10 +68,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or Yaskawa-certified technician if you are not trained in variable-frequency drive service, if the fault persists after wiring inspection and parameter review, or if you suspect the drive power section or control board has failed. High-voltage AC power and motor circuits require lockout/tagout and proper test equipment. Do not attempt to open the drive enclosure or measure internal DC bus voltage without appropriate training and safety gear. A technician will use the GA800 fault history, wiring diagrams, and test procedures to isolate the real fault and determine whether the drive can be repaired or must be replaced.
 
 **Rough cost:** A pro service call runs about $200-500 for diagnostics and wiring repair; $800-2,500 if drive replacement is needed.
-
-## See Also
-
-- [Yaskawa Sigma-7 SGD7S Servo Drive Alarm Codes — Diagnosis & Fix](/posts/yaskawa-sigma7-sgd7s-alarm-codes/)
-- [Yaskawa GA800 E04 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e04-fault-code/)
-- [Yaskawa GA800 F010 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f010-fault-code/)
-- [Yaskawa GA800 Fault 030 - Causes & Fix](/posts/yaskawa-ga800-vfd-f030-fault-code/)

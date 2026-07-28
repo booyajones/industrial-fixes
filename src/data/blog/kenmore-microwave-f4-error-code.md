@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Microwave F4 Error — What It Means
-
+## What this code means
 The F4 error on a Kenmore microwave signals a humidity sensor open or humidity sensor sensing error. The microwave's humidity sensor (also called the humidity thermistor) monitors moisture during auto-cook cycles. When the control board detects an open circuit, a short, or readings outside the expected range from this sensor, it throws F4 and stops operation to prevent damage.
 
 Because Kenmore is a brand name and microwaves are built by different manufacturers (the first three digits of your model number tell you who actually made the unit), the exact implementation can vary slightly. On Whirlpool-built Kenmore models, a closely related code F4E4 specifically points to the humidity thermistor or its wiring. In all cases, the root problem is the control board cannot read a valid signal from the humidity sensor circuit.
@@ -26,8 +25,6 @@ Because Kenmore is a brand name and microwaves are built by different manufactur
 ## Before You Replace Anything
 
 Many homeowners replace the main control board first, assuming any error code means a bad board. Before ordering a control board, disconnect the humidity sensor connector and measure its resistance to confirm the sensor itself has failed or the wiring is open.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

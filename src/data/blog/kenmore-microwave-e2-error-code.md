@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Kenmore Microwave E2 Error Code — What It Means
-
+## What this code means
 E2 is a thermistor error code on Kenmore microwaves. The thermistor is a temperature sensor that monitors the cavity or cabinet temperature so the control board can prevent overheating. When the control board sees the thermistor signal out of range, shorted, open, or otherwise invalid, it displays E2 and stops operation to protect the unit.
 
 Kenmore is a brand label, not a manufacturer. The first three digits of your model number identify who actually built the microwave. That means the exact thermistor location, resistance specification, and wiring colors can vary by platform. Always verify the fault code against your specific model's service documentation to confirm you are working on the thermistor circuit.
@@ -25,8 +24,6 @@ Kenmore is a brand label, not a manufacturer. The first three digits of your mod
 ## Before You Replace Anything
 
 Many people replace the main control board first because they assume all error codes mean a bad board. Before ordering a board, unplug the unit and test the thermistor resistance with a multimeter at room temperature and compare it to your model's service sheet. Most E2 faults resolve with a new thermistor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

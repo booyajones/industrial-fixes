@@ -17,13 +17,10 @@ free_checks:
   - "Power cycle the drive and observe if the same code reappears"
 ---
 
-## Yaskawa GA800 F026 Fault — What It Means
-
+## What this code means
 The code F026 does not appear in the Yaskawa GA800 technical or troubleshooting manuals. The GA800 series uses fault codes in formats like LF (Output Phase Loss), OV (Overvoltage), OC (Overcurrent), LU (Undervoltage), or GF (Ground Fault), not an F026 format. This suggests three possibilities: the code was misread or miswritten (it may actually be LF, OC2, GF, or another standard code), the code belongs to a different Yaskawa drive series (such as an older E7 or G7 model), or F026 refers to a parameter number (like C026, which relates to PID feedback or motor tuning) rather than a fault alarm.
 
 If you are seeing an alarm on your GA800, recheck the keypad display for the exact code. Common GA800 faults include LF for output phase loss (motor cable disconnected or phase lost), OC for overcurrent (mechanical oscillation or ground fault), and GF for ground fault. Contact Yaskawa Technical Support at 1.800.927.5292 or repair@yaskawa.com with your drive's model and serial number to verify the fault code table for your specific unit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

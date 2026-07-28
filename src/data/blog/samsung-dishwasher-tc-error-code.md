@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Samsung Dishwasher Thermistor / Temperature Sensor"
 ---
 
-## Samsung Dishwasher tC Error Code — What It Means
-
+## What this code means
 The tC error code on a Samsung dishwasher signals a temperature sensor error. Samsung's official documentation describes this as an inaccurate temperature reading condition. The dishwasher's thermistor (temperature sensor) is either sending faulty data to the control board, or the control board is unable to read the sensor signal correctly.
 
 Samsung's support materials do not break down tC into sub-categories the way some other codes are detailed. The manufacturer advises emptying the dishwasher and running a normal cycle. If the code returns after that test cycle, the unit requires service. The error points to a fault somewhere in the temperature-sensing circuit rather than a general heating system failure.
@@ -25,8 +24,6 @@ Samsung's support materials do not break down tC into sub-categories the way som
 ## Before You Replace Anything
 
 Many people replace the main control board first. Test the thermistor's resistance and inspect its harness and connectors for damage or corrosion before buying a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

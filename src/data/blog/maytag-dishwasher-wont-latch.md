@@ -17,8 +17,6 @@ tags:
 
 A Maytag dishwasher that won't latch is experiencing a mechanical door-closure problem, not a fault code. The door may appear closed but is not latched completely, so the door-switch circuit cannot confirm a secure closed condition and the machine will not start or may stop mid-cycle. Maytag guidance treats this as a condition where something is preventing the latch from engaging fully with the strike.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Rack obstruction or backwards lower rack** Maytag specifically calls out a lower rack installed backwards or dishes and silverware protruding into the seal path as the most common cause preventing the door from closing completely.
@@ -55,12 +53,12 @@ If your appliance also shows a code on the display, these match this problem:
 - [Maytag Dishwasher E15 error code](/posts/maytag-dishwasher-e15-error-code/)
 - [Maytag Dishwasher E3 error code](/posts/maytag-dishwasher-e3-error-code/)
 - [Maytag Dishwasher E4 error code](/posts/maytag-dishwasher-e4-error-code/)
-- [Maytag Dishwasher E6 error code](/posts/maytag-dishwasher-e6-error-code/)
-- [Maytag Dishwasher E7 error code](/posts/maytag-dishwasher-e7-error-code/)
+- Maytag Dishwasher E6 error code
+- Maytag Dishwasher E7 error code
 - [Maytag Dishwasher F10E5 error code](/posts/maytag-dishwasher-f10e5-error-code/)
 - [Maytag Dishwasher F1E1 error code](/posts/maytag-dishwasher-f1e1-error-code/)
 - [Maytag Dishwasher F2E2 error code](/posts/maytag-dishwasher-f2e2-error-code/)
-- [Maytag Dishwasher F3E2 error code](/posts/maytag-dishwasher-f3e2-error-code/)
+- Maytag Dishwasher F3E2 error code
 - [Maytag Dishwasher F4E3 error code](/posts/maytag-dishwasher-f4e3-error-code/)
 - [Maytag Dishwasher F6E1 error code](/posts/maytag-dishwasher-f6e1-error-code/)
 

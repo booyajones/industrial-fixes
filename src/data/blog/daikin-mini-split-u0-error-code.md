@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Daikin U0 Error Code — What It Means
-
+## What this code means
 The Daikin U0 error code signals that the system detects abnormally low refrigerant pressure on the low-pressure side, indicating a refrigerant shortage. When this happens, the unit enters compressor protection mode to prevent damage from running dry or freezing. The outdoor unit may shut down entirely or reduce its capacity until the issue is resolved.
 
 This code is explicitly defined by Daikin as 'Refrigerant Shortage' and is a safety response to protect the compressor from operating without sufficient gas flow. It does not mean the unit is broken beyond repair, but it does require immediate attention from a qualified technician to locate and repair the underlying cause before normal operation can resume.
@@ -25,8 +24,6 @@ This code is explicitly defined by Daikin as 'Refrigerant Shortage' and is a saf
 ## Before You Replace Anything
 
 Technicians sometimes replace the low-pressure sensor or thermistor first. Before ordering a sensor, use gauges to confirm actual low pressure and perform a soap test or electronic leak detector scan on all flare joints and visible piping to find the real leak.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician immediately when you see the U0 code. Refrigerant work requires EPA certification, specialized gauges, leak detectors, vacuum pumps, and recovery equipment that homeowners do not own. Attempting to add refrigerant without locating and repairing the leak will waste money and may damage the compressor. A pro will perform a complete leak search, repair the source, vacuum the system to remove moisture, and recharge by weight to the exact nameplate specification. If the leak is in a coil or compressor, the technician can also advise whether repair or replacement is more cost-effective for your unit's age and condition.
 
 **Rough cost:** A pro service call runs about $200-600.
-
-## See Also
-
-- [Daikin F6 Error Code - Causes & Fix](/posts/daikin-heat-pump-f6-error-code/)
-- [Daikin E9 Error Code — Causes & Fix](/posts/daikin-e9-error-code/)
-- [Daikin EA Error Code - Causes & Fix](/posts/daikin-heat-pump-ea-error-code/)
-- [Daikin Mini Split Leaking Water - Causes & Fix](/posts/daikin-mini-split-leaking-water/)

@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "STO terminal jumper or plug"
 ---
 
-## Yaskawa GA800 E59 Fault — What It Means
-
+## What this code means
 E59 on a Yaskawa GA800 variable frequency drive indicates a Safe Torque Off (STO) fault. The drive sees the STO safety input chain as open or invalid, so it will not produce torque to the motor even though input power is still present. This is a safety-circuit condition, not a motor overload or process alarm.
 
 In practice, the drive is being held out of run by the STO safety inputs or their related wiring and configuration. The GA800 will not run unless the STO terminals are correctly jumpered (for local use without an external safety system) or driven by a valid closed safety relay circuit (when integrated into a machine safety chain).
@@ -24,8 +23,6 @@ In practice, the drive is being held out of run by the STO safety inputs or thei
 ## Before You Replace Anything
 
 Technicians sometimes replace the drive control board or suspect a motor winding fault. Check the STO terminal jumper or safety relay state with a meter first. A simple open connection in the safety chain is the usual culprit, not a failed drive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or controls technician if you are not trained to work on industrial VFDs or safety circuits. The STO function is part of a machine safety system, and incorrect wiring or bypassing safety devices can create serious hazards. A professional will verify the safety relay configuration, trace the entire STO wiring chain, measure loop continuity, and make sure all parameters are set correctly. If the drive control board or terminal interface is damaged, a tech can order the correct Yaskawa service part and perform board-level replacement. Do not attempt to jumper out safety devices or modify the STO circuit without understanding the machine's safety design and local code requirements.
 
 **Rough cost:** A pro service call runs about $150–400 depending on whether the fix is a jumper restore, wiring repair, or safety relay replacement.
-
-## See Also
-
-- [Yaskawa GA800 E11 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e11-fault-code/)
-- [Yaskawa GA800 A.138 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-138-fault-code/)
-- [Yaskawa GA800 E17 Fault - Causes & Fix](/posts/yaskawa-ga800-e17-fault-code/)
-- [Yaskawa GA800 F032 - Causes & Fix](/posts/yaskawa-ga800-vfd-f032-fault-code/)

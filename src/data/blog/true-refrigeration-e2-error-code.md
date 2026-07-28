@@ -13,11 +13,8 @@ money_part: "Door gasket"
 most_likely_cause: "Door left open or door gasket failure"
 ---
 
-## True Refrigeration E2 Error Code — What It Means
-
+## What this code means
 The E2 error on True Refrigeration equipment signals a high temperature alarm — the cabinet temperature has exceeded the high-temp threshold set in the controller (typically 50°F on refrigerators, higher on freezers). True's controllers monitor cabinet temperature continuously; if it rises above the alarm setpoint for a sustained period, E2 triggers to alert you that product may be at risk.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ The E2 error on True Refrigeration equipment signals a high temperature alarm �
 ## When to Call a Pro
 
 If the condenser is clean, doors seal well, and the defrost system is intact but the cabinet still can't hold temp, the sealed refrigeration system (compressor, TXV, refrigerant) needs a certified tech.
-
-## Related Articles
-
-- [True Refrigeration E1 Error Code — Causes & Fix](/posts/true-refrigeration-e1-error-code/)
-- [True Refrigeration E3 Error Code — Causes & Fix](/posts/true-refrigeration-e3-error-code/)
-- [True Refrigeration E4 Error Code — Causes & Fix](/posts/true-refrigeration-e4-error-code/)
-- [True Refrigeration E5 Error Code — Defrost Sensor Causes & Fix](/posts/true-refrigeration-e5-error-code/)
-- [True Refrigeration E6 Error Code — High Temperature Alarm Causes & Fix](/posts/true-refrigeration-e6-error-code/)
-
-## See Also
-
-- [True TSSU Prep Table Error Codes, Causes, and Fixes](/posts/true-tssu-prep-table-error-codes/)
-- [True T-23 Refrigerator Error Codes — Fault Code Diagnostic Guide](/posts/true-t-23-error-codes/)
-- [True T-49 Refrigerator Error Codes — Complete Guide](/posts/true-refrigeration-t49-error-codes/)
-- [True GDM-49 Glass Door Merchandiser Error Codes - Full Fault Guide](/posts/true-gdm-49-error-codes/)

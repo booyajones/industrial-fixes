@@ -13,11 +13,8 @@ money_part: "Input fuses (Class J or equivalent)"
 most_likely_cause: "Blown input fuse on one phase"
 ---
 
-## ABB ACS310 Fault 3130 — What It Means
-
+## What this code means
 Fault 3130 on the ABB ACS310 variable frequency drive indicates an input phase loss — one or more of the three input supply phases is missing or has dropped below the threshold the drive requires for stable operation. The ACS310 monitors input voltage symmetry; if any phase is absent or severely unbalanced, it faults to protect the internal rectifier and DC bus capacitors from unbalanced voltage stress.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Fault 3130 on the ABB ACS310 variable frequency drive indicates an input phase l
 ## When to Call a Pro
 
 Phase loss diagnosis requires working in live panels with dangerous voltages. If you're not qualified to work on industrial electrical enclosures with exposed live terminals, have a licensed electrician trace and repair the input circuit.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-- [ABB ACS550 AF10 Fault — Causes & Fix](/posts/abb-acs550-af10-heatsink/)
-
-## See Also
-
-- [ABB ACS580 Fault 2310 — Overcurrent Fix](/posts/abb-acs580-2310-fault/)
-- [ABB ACS880 Fault 3130 — Input Phase Loss Causes & Fix](/posts/abb-acs880-fault-3130/)
-- [ABB VFD Fault Codes — ACS550, ACS880, ACS310 Reference](/posts/abb-vfd-fault-codes/)
-- [ABB ACS880 Fault 3210 — DC Bus Undervoltage Causes & Fix](/posts/abb-acs880-fault-3210/)

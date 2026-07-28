@@ -21,8 +21,7 @@ part_price: "$40-90"
 no_buy_pct: "50%"
 ---
 
-## Manitowoc E02 Error Code — What It Means
-
+## What this code means
 The E02 error code on Manitowoc ice machines (Indigo, Indigo NXT, and Q series) signals a Long Harvest Cycle. During the harvest phase, hot gas is routed to the evaporator to melt the ice bond slightly so the ice sheet can slide off. If this cycle exceeds the maximum time limit for three consecutive cycles, the machine shuts down and displays E02. The time limit is 3.5 minutes for older software (version less than 5.010) or 7 minutes for newer software (version 5.010 or higher).
 
 This code means the machine cannot release the ice sheet efficiently. The control board has detected that the harvest process is taking too long, indicating a problem with heat transfer, ice thickness sensing, or refrigerant flow. The machine protects itself by stopping operation to prevent damage or unsafe conditions.
@@ -30,8 +29,6 @@ This code means the machine cannot release the ice sheet efficiently. The contro
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board or compressor when the real problem is a pitted or mineral-covered ice thickness probe. Always clean and inspect the probe first, then test the harvest solenoid valve before replacing expensive refrigeration components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -80,10 +77,3 @@ Answer these to narrow it down fast.
 Call a professional refrigeration technician if the error persists after you have cleaned the machine, adjusted the ice thickness probe gap to 3/16 inch, and confirmed the probe is not pitted or disconnected. Diagnosing and repairing the harvest solenoid valve, checking refrigerant charge, measuring subcooling and superheat, and testing the thermostatic expansion valve require EPA-certified tools and licensing. A technician can also verify control board function and update software if your machine is running an older version that uses the 3.5-minute harvest limit instead of the newer 7-minute window. If the ambient temperature at the compressor head is below 2°C or the condenser is heavily fouled despite your cleaning attempts, a pro can assess whether the installation location is suitable or if the unit needs relocation or additional ventilation.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Manitowoc E10 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e10-error-code/)
-- [Manitowoc E01 Error Code — Long Freeze Cycle Fix](/posts/manitowoc-e01-error-code/)
-- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
-- [Manitowoc Indigo NXT Error Code 8 - What It Means and How to Fix It](/posts/manitowoc-indigo-nxt-error-code-8/)

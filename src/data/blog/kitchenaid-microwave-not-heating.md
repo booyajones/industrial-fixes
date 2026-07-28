@@ -19,8 +19,6 @@ When your KitchenAid microwave powers on and the display works but the unit does
 
 This is not typically an error code issue. Most KitchenAid microwaves will show no code at all when the heating system fails. If you see an F9 or F9 E0 code, that points to an electrical outlet problem or power spike that prevents the control board from starting the heating cycle. Otherwise, you are dealing with a mechanical or electrical component failure inside the unit.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed door switch** The door switch does not signal a closed door, so the microwave disables the high-voltage circuit as a safety measure.

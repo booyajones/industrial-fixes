@@ -13,11 +13,8 @@ money_part: "Input line fuses"
 most_likely_cause: "Incoming supply loss or sag"
 ---
 
-## Siemens Micromaster F0003 — What It Means
-
+## What this code means
 F0003 on a Siemens Micromaster drive (MM420, MM440, and similar models) is an undervoltage fault. The drive detected that the DC link voltage or supply voltage fell below the permissible limit and tripped to protect itself. This fault is directly tied to low or unstable line voltage feeding the drive. Siemens documentation lists the main causes as main supply failure or shock load outside specified limits.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ F0003 on a Siemens Micromaster drive (MM420, MM440, and similar models) is an un
 ## When to Call a Pro
 
 Call a qualified electrician or drive technician if you are not trained to measure three-phase power or work inside energized industrial control panels. If you confirm the incoming supply is stable and within the drive's rated voltage range but the F0003 fault keeps recurring, the drive likely has an internal power-section defect that requires factory repair or replacement. Siemens drive faults should always be investigated by someone familiar with VFD commissioning and the specific parameter structure of the Micromaster series.
-
-## See Also
-
-- [Siemens G120 F0007 Fault Code - Causes & Fix](/posts/siemens-g120-vfd-f0007-fault-code/)
-- [Siemens G120 F01034 - Causes & Fix](/posts/siemens-g120-f01034-fault-code/)
-- [Siemens Micromaster F0085 - Causes & Fix](/posts/siemens-micromaster-f0085-fault-code/)
-- [Siemens SENTRON 3WL/3VA Fault Codes — Troubleshooting Guide](/posts/siemens-sentron-fault-codes/)

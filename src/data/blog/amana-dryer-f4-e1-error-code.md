@@ -20,8 +20,7 @@ free_checks:
   - "Inspect the power cord and terminal block at the back of the dryer for loose, burned, or corroded connections."
 ---
 
-## Amana Dryer F4 E1 Error Code — What It Means
-
+## What this code means
 The F4 E1 code on an Amana dryer signals a heater relay or heater circuit problem. The electronic control board has detected a fault in the circuit that powers the heating element. This is commonly described as a heater relay fault, a connector issue, or a no-voltage-at-heater-relay condition in Whirlpool-family documentation used by Amana-branded dryers.
 
 The dryer may still tumble but will not produce heat. The fault can stem from wiring problems, a failed heating element, a bad relay on the control board, or an inadequate power supply. Amana electric dryers require a 240-volt supply on a separate 30-amp circuit fused on both sides of the line. If one leg of 240 V is missing due to a tripped breaker, blown fuse, or miswired power cord, the heater circuit will fail and trigger this code.
@@ -29,8 +28,6 @@ The dryer may still tumble but will not produce heat. The fault can stem from wi
 ## Before You Replace Anything
 
 Many people replace the control board first, but loose or burned wiring and a shorted heating element are much more common. Always inspect the heater harness, connectors, and power-supply wiring before replacing the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

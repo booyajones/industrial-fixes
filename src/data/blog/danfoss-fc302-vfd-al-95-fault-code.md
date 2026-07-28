@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "65%"
 ---
 
-## Danfoss FC302 AL-95 Fault — What It Means
-
+## What this code means
 Alarm 95 on the Danfoss VLT AutomationDrive FC302 indicates the drive has detected the motor operating at a load that exceeds its rated thermal capacity for a duration that triggers the internal thermal protection model. The drive calculates the motor's thermal load using the current set in parameters (such as motor nominal current) and compares it against the configured overload limit time. This is a thermal trip, not necessarily an instantaneous current short, and the drive is protecting the motor from damage by shutting down before overheating occurs.
 
 The fault can result from either a genuine mechanical overload on the motor or from incorrect parameter settings that cause the drive's thermal model to trip prematurely. Because the drive relies on accurate motor data to build its protection model, even a small error in parameter entry can cause nuisance trips on an otherwise healthy system.
@@ -29,8 +28,6 @@ The fault can result from either a genuine mechanical overload on the motor or f
 ## Before You Replace Anything
 
 Technicians often replace the drive itself when Alarm 95 appears repeatedly, but the real cause is usually incorrect motor data in parameters 4-01 or 4-02, or a mechanical binding in the driven load. Always verify motor nameplate data matches drive settings and perform a no-load test before replacing the VFD.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or VFD technician if you are not trained in variable frequency drive commissioning, parameter programming, or high-voltage three-phase systems. Alarm 95 diagnostics require understanding of motor thermal models, accurate parameter entry, and the ability to safely perform no-load testing and insulation testing on motors. If mechanical binding is found, call a millwright or mechanical technician to inspect bearings, couplings, and driven equipment. If the drive itself has failed (alarm trips with no motor connected), replacement and commissioning require a trained VFD specialist to transfer parameters and perform startup checks.
 
 **Rough cost:** A pro service call runs about $150-400 for parameter commissioning and motor testing; $800-2500 if drive replacement is genuinely needed.
-
-## See Also
-
-- [Danfoss FC302 ALARM 16 - Causes & Fix](/posts/danfoss-fc302-alarm-16-fault-code/)
-- [Danfoss FC302 Alarm 51 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-51-fault-code/)
-- [Danfoss FC302 AL-19 - Causes & Fix](/posts/danfoss-fc302-vfd-al-19-fault-code/)
-- [Danfoss FC302 WARNING 77 - Causes & Fix](/posts/danfoss-fc302-vfd-al-77-fault-code/)

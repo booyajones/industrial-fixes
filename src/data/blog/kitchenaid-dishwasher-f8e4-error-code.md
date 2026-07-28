@@ -21,8 +21,7 @@ part_price: "$15-35"
 no_buy_pct: "65%"
 ---
 
-## KitchenAid F8E4 Error Code — What It Means
-
+## What this code means
 The F8E4 code signals that the float switch in the base pan has detected water. KitchenAid dishwashers use this float as a leak-protection alarm. When water collects in the drip tray underneath the tub, the float rises and trips the switch, stopping normal operation until the condition is cleared.
 
 The code protects against leaks from supply fittings, overflow from excess suds, or any condition that lets water escape the tub and pool in the base. The dishwasher will not resume washing until you dry the base, fix the source of the water, and clear the fault by pressing Cancel twice.
@@ -30,8 +29,6 @@ The code protects against leaks from supply fittings, overflow from excess suds,
 ## Before You Replace Anything
 
 Homeowners sometimes replace the drain pump or control board before checking the base for water. Always pull the drip tray, dry it completely, and inspect the supply fittings and float-switch connector first.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

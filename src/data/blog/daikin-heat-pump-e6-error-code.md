@@ -19,8 +19,7 @@ free_checks:
   - "Check supply voltage at the outdoor disconnect for proper phase balance if the system is three-phase"
 ---
 
-## Daikin E6 Error Code — What It Means
-
+## What this code means
 E6 on most Daikin heat pump systems indicates a compressor motor overcurrent or compressor lock fault. Daikin describes this code as STD compressor motor overcurrent/lock or faulty compressor start up, depending on the product family. The error appears when the outdoor unit's compressor cannot start properly, draws excessive current, or experiences a mechanical lock condition. Because Daikin uses the same code letter across different model families with slightly different meanings, always confirm the exact definition in your model's service manual.
 
 This is an outdoor-unit protection fault, not a room sensor or indoor-unit issue. The system shuts down to prevent damage to the compressor drive circuit, inverter PCB, or compressor windings. Common triggers include a mechanically locked compressor, shorted compressor windings, inverter or control PCB failure, supply voltage imbalance on three-phase systems, wiring or connector faults between the outdoor PCB and compressor, or service valves left closed after installation or maintenance.
@@ -28,8 +27,6 @@ This is an outdoor-unit protection fault, not a room sensor or indoor-unit issue
 ## Before You Replace Anything
 
 Homeowners and some techs replace the outdoor control PCB first, but a locked or shorted compressor is often the real cause. Always isolate the compressor from the board and measure winding resistance and insulation before condemning the PCB.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 E6 is a compressor-drive protection fault that requires refrigerant-system knowledge, high-voltage electrical diagnosis, and specialized test equipment. The repair involves isolating the compressor from the inverter, measuring winding resistance and insulation, testing drive circuits on the outdoor PCB, and potentially recovering refrigerant and replacing a sealed compressor. Supply-voltage testing on three-phase systems and interpreting current-sensor feedback also require professional tools and training. Call a licensed HVAC technician with Daikin experience. The only homeowner-safe check is verifying that service valves are open if the error appeared after recent work.
 
 **Rough cost:** A pro service call runs about $800-2,500.
-
-## See Also
-
-- [Daikin VRV IV Fault Codes - Commercial System Diagnostic Guide](/posts/daikin-vrv-iv-fault-codes/)
-- [Daikin A1 Error Code - Causes & Fix](/posts/daikin-mini-split-a1-error-code/)
-- [Daikin Mini Split Error Codes — Complete Reference](/posts/daikin-mini-split-error-codes/)
-- [Daikin E05 Error Code - Causes & Fix](/posts/daikin-mini-split-e05-error-code/)

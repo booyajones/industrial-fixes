@@ -169,9 +169,3 @@ In the North with cheap gas (Ohio, Pennsylvania, parts of the Midwest): Gas furn
 In the North with expensive gas or no gas line (New England, parts of the Midwest, rural areas): Cold climate heat pump is the winner. You avoid propane or oil costs, and modern cold climate units handle all but the coldest few days.
 
 In any climate: A hybrid system (heat pump with gas furnace backup) gives you the best of both worlds. The heat pump handles 80 to 90% of heating hours. The gas furnace kicks in during the coldest weather. This is expensive upfront ($10,000 to $16,000) but optimal for operating cost.
-
-## Related Articles
-
-- [Mini-Split vs. Central AC: Complete Comparison and Buying Guide](/posts/mini-split-vs-central-ac-guide/)
-- [Heat Pump Water Heater vs. Tankless: 2025 Cost and Efficiency Comparison](/posts/heat-pump-water-heater-vs-tankless/)
-- [Best Thermostat Settings for Heat Pump Efficiency](/posts/best-thermostat-settings-heat-pump/)

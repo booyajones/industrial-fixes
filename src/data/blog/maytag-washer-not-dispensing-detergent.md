@@ -19,8 +19,6 @@ When your Maytag washer is not dispensing detergent, the symptom means detergent
 
 The dispenser relies on incoming water pressure and unobstructed flow paths to carry detergent into the drum. When those paths are blocked by buildup, or when water supply is restricted or the machine is not level, the flush action fails and detergent remains behind.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged dispenser drawer or tray** Residue from detergent and hard water builds up inside the drawer and passages, blocking the water flow that should flush detergent into the tub.

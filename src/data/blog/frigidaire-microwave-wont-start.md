@@ -19,8 +19,6 @@ A Frigidaire microwave that won't start typically has standby power (the clock o
 
 This is a symptom, not a specific error code. The interlock chain uses multiple door switches that must all agree the door is latched before the microwave will run. If one switch is stuck, misaligned, or broken, the start command is ignored even though the unit appears powered.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Faulty or misaligned door switch** One of the interlock switches is stuck open or closed, or the mounting bracket has shifted so the latch hook does not actuate the switch correctly.

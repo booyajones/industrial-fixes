@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Whirlpool washer main control board (electronic control)"
 ---
 
-## Whirlpool Washer PF Error Code — What It Means
-
+## What this code means
 The PF code on your Whirlpool washer stands for Power Failure. It means the wash cycle was interrupted by a loss of electrical power to the machine. The control board detected that voltage dropped or disappeared completely while the washer was running, so it stopped the cycle and displayed the code. On most models you can clear the display by pressing the POWER button, or on some you can hold START to resume the interrupted cycle where it left off.
 
 The interruption can come from an actual utility outage, a tripped breaker, a loose plug or outlet connection, or low incoming line voltage. Some models will show PF even after a very brief voltage dip that resets the control mid-cycle. The code itself is informational rather than a component fault, but if it appears repeatedly with no obvious power loss, the problem may be an intermittent connection in the power cord, outlet, or control board power supply.
@@ -25,8 +24,6 @@ The interruption can come from an actual utility outage, a tripped breaker, a lo
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when PF keeps appearing, but the real problem is often a loose outlet, worn receptacle contacts, or low house voltage. Always measure voltage at the outlet with a meter and inspect all connections before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

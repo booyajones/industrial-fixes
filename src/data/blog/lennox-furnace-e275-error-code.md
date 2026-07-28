@@ -14,13 +14,10 @@ money_part: "Gas valve"
 most_likely_cause: "Gas valve leaking by"
 ---
 
-## Lennox Furnace E275 Error Code — What It Means
-
+## What this code means
 E275 on a Lennox furnace indicates a soft lockout caused by flame sensed out of sequence. The control detected flame when it should not have been present, then the flame signal disappeared. The furnace responds by shutting off gas and entering a 1-hour soft lockout period. The lockout clears only when flame has been proven stable again.
 
 This is a flame-proving and ignition-sequence fault. The control expects flame to appear only during commanded ignition, so detecting flame at the wrong time or losing it unexpectedly signals a serious problem, most commonly a gas valve that is leaking by or not fully closing.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ This is a flame-proving and ignition-sequence fault. The control expects flame t
 ## When to Call a Pro
 
 Call a qualified HVAC technician for E275 if you are not trained in gas appliance service. This code involves flame sensing and gas valve operation, both of which require proper test equipment and knowledge of combustion safety. A leaking gas valve or faulty flame sensor can create unsafe conditions. A technician will perform leak checks, measure flame signal, verify ignition sequence, and replace the gas valve or other components as needed. If the code repeats after initial repair or if you smell gas at any time, shut off the gas supply and call for service immediately.
-
-## See Also
-
-- [Lennox Error Code 411 — Ignition Proving Fault Fix](/posts/lennox-error-code-411/)
-- [Lennox Error Code 412 — Limit Switch Fault Fix](/posts/lennox-error-code-412/)
-- [Lennox G60UHV Furnace Error Codes — Flash Code Diagnostic Guide](/posts/lennox-g60uhv-error-codes/)
-- [Lennox Error Code 240 — Ignitor Failed Fix](/posts/lennox-error-code-240/)

@@ -19,8 +19,7 @@ free_checks:
   - "Open a hot water faucet wide to verify at least 0.5 gallons per minute is flowing"
 ---
 
-## Navien E039 Error Code — What It Means
-
+## What this code means
 The E039 error code on a Navien tankless water heater signals an abnormal water flow sensor fault. The unit's flow sensor, which detects water movement through the system, is either defective or not sending a valid signal to the control board. Without a working flow sensor, the heater cannot confirm that water is flowing and will not initiate the ignition sequence to heat water.
 
 This is classified as a part failure rather than a user-serviceable condition. The sensor itself may have internal damage, the wiring harness connecting it to the control board may be loose or corroded, or in rare cases the control board may be failing to read the sensor signal. Navien recommends that only a licensed HVAC or gas fitter diagnose and repair this fault.
@@ -28,8 +27,6 @@ This is classified as a part failure rather than a user-serviceable condition. T
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board first when the flow sensor or a corroded wire connector is the actual problem. A technician should test the sensor output and inspect all wiring connections before replacing any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Navien classifies E039 as a part failure that requires a licensed HVAC or gas fitter. Diagnosing this code involves testing sensor output with a multimeter, tracing control board signals, and working inside a unit that operates on both gas and electricity. The flow sensor is often integrated with other components and requires precise replacement to avoid gas or water leaks. If your unit is under warranty, contact Navien at 1-800-519-8794 before any repair work, as the manufacturer may replace the heater or sensor at no charge. For out-of-warranty units, a professional service call will typically cost $200 to $400 and includes sensor testing, wiring inspection, and replacement of the defective part.
 
 **Rough cost:** A pro service call runs about $200-400.
-
-## See Also
-
-- [Navien E001 Error Code - Causes & Fix](/posts/navien-tankless-e001-error-code/)
-- [Navien 406 Error Code - Causes & Fix](/posts/navien-tankless-alarm-406-error-code/)
-- [Navien Alarm 415 - Causes & Fix](/posts/navien-tankless-alarm-415-error-code/)
-- [Navien E040 Error Code - Causes & Fix](/posts/navien-tankless-e040-error-code/)

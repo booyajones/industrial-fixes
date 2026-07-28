@@ -40,11 +40,3 @@ Fuji Frenic-Mini drives are compact and reliable, but their faults still fall in
 ## Bottom Line
 
 Fuji Frenic faults are usually tied to how aggressively the drive is tuned versus the actual machine load. Start with motor data, accel/decel times, and cooling.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

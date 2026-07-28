@@ -17,8 +17,6 @@ money_part: "Cooling fan kit"
 
 The Danfoss FC302 VLT AutomationDrive is a high-feature industrial VFD used on conveyors, compressors, extruders, pumps, and material handling systems. Faults display as Alarm 14, Alarm 29, Alarm 38, and similar messages on the LCP keypad. Some alarms trip the drive immediately, while others warn before a shutdown.
 
-[Jump to Fix](#fix)
-
 ## Danfoss FC302 Common Alarm and Fault Codes
 
 | Code | Meaning |
@@ -68,10 +66,3 @@ The Danfoss FC302 VLT AutomationDrive is a high-feature industrial VFD used on c
 ## When to Call a Pro
 
 Alarm 38 and repeated short-circuit trips with the motor disconnected usually point to internal drive damage. Danfoss service or a qualified repair shop can often test the power module before you replace the whole FC302.
-
-## See Also
-
-- [Danfoss VFD Fault OL — Causes & Fix](/posts/danfoss-vfd-fault-ol/)
-- [Danfoss VFD Fault E-Trip — Causes & Fix](/posts/danfoss-vfd-fault-e-trip/)
-- [Danfoss VLT Alarm 14 - Earth Fault: What It Means and How to Fix It](/posts/danfoss-vlt-alarm-14/)
-- [Danfoss FC-302 Alarm 13 — DC Link Overvoltage Fix](/posts/danfoss-fc302-alarm-13/)

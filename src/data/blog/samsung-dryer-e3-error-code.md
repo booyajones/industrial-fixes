@@ -17,15 +17,12 @@ money_part: "Main control board (PCB assembly)"
 part_price: "$100-250"
 ---
 
-## Samsung Dryer E3 Error Code — What It Means
-
+## What this code means
 Samsung groups the E3 code with faults where the dryer's internal components cannot communicate with each other. The manufacturer's own support page recommends shutting off the dryer for 60 seconds and turning it back on as the immediate first step. Some non-Samsung sources describe E3 as a motor-related fault, but that interpretation is not confirmed by official Samsung documentation and should be treated cautiously.
 
 ## Before You Replace Anything
 
 Many owners replace the control board first, but the error often clears with a 60-second power reset or after cleaning a clogged lint screen and vent. Always try the reset and airflow checks before ordering control parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

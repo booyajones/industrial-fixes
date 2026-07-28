@@ -19,8 +19,6 @@ A Maytag washer stuck on one cycle is not a single fault code. It is a symptom t
 
 For some Whirlpool and Maytag top-load platforms, diagnostic mode may show F7 E1, which technicians describe as a motor speed code often linked to a bad capacitor or actuator sensor issue. In most cases the stuck cycle is a control logic or feedback problem rather than a universal code.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Drain hose kinked, clogged, or improperly installed** Maytag notes the standpipe height must be 30 inches minimum and 96 inches maximum, and any kink or restriction will prevent the washer from advancing past the drain phase.

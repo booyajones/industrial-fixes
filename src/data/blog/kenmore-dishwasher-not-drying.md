@@ -19,8 +19,6 @@ When a Kenmore dishwasher is not drying, the unit completes its wash and drain c
 
 This symptom does not trigger a single dedicated fault code on most Kenmore models. Instead, the problem usually points to a failed heating element, bad thermistor, control board issue, empty rinse-aid dispenser, or wiring fault in the heat-dry circuit. User loading and low incoming water temperature can also make a healthy dishwasher appear to dry poorly.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed heating element** The element has burned out or developed an open circuit, so no heat is produced during the dry phase.
@@ -56,14 +54,14 @@ This symptom does not trigger a single dedicated fault code on most Kenmore mode
 If your appliance also shows a code on the display, these match this problem:
 
 - [Kenmore Dishwasher E04 error code](/posts/kenmore-dishwasher-e04-error-code/)
-- [Kenmore Dishwasher E05 error code](/posts/kenmore-dishwasher-e05-error-code/)
-- [Kenmore Dishwasher E06 error code](/posts/kenmore-dishwasher-e06-error-code/)
+- Kenmore Dishwasher E05 error code
+- Kenmore Dishwasher E06 error code
 - [Kenmore Dishwasher E07 error code](/posts/kenmore-dishwasher-e07-error-code/)
 - [Kenmore Dishwasher E08 error code](/posts/kenmore-dishwasher-e08-error-code/)
 - [Kenmore Dishwasher E09 error code](/posts/kenmore-dishwasher-e09-error-code/)
 - [Kenmore Dishwasher E10 error code](/posts/kenmore-dishwasher-e10-error-code/)
 - [Kenmore Dishwasher E11 error code](/posts/kenmore-dishwasher-e11-error-code/)
-- [Kenmore Dishwasher E12 error code](/posts/kenmore-dishwasher-e12-error-code/)
+- Kenmore Dishwasher E12 error code
 - [Kenmore Dishwasher E13 error code](/posts/kenmore-dishwasher-e13-error-code/)
 - [Kenmore Dishwasher E14 error code](/posts/kenmore-dishwasher-e14-error-code/)
 - [Kenmore Dishwasher F1E1 error code](/posts/kenmore-dishwasher-f1e1-error-code/)

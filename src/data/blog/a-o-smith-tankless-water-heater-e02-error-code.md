@@ -13,11 +13,8 @@ money_part: "Temperature sensor (thermistor)"
 most_likely_cause: "Low or no flow through the heater"
 ---
 
-## A.O. Smith Tankless E02 Error — What It Means
-
+## What this code means
 E02 on an A.O. Smith tankless water heater means the control detected an over-temperature condition. The heated water exceeded the unit's temperature limit, so the heater shut down into a protective fault state. A.O. Smith's service documentation states the hardware determined that heated water has exceeded the safe temperature limit. The unit will remain locked out until the cause is corrected and the system is reset.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

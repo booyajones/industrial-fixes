@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "STO jumper wire or terminal block jumper"
 ---
 
-## Yaskawa GA800 E69 Fault — What It Means
-
+## What this code means
 An E69 fault on the Yaskawa GA800 variable frequency drive indicates the Safe Torque Off (STO) safety circuit is not satisfied. The drive will not enable torque output because it sees an open or incorrect safety input. This is a protective feature, not a motor or overload fault.
 
 The GA800 uses dedicated STO input terminals (M3 and M4) that must be bridged by a jumper when no external safety device is used, or wired to a closed safety relay contact when integrated into a safety system. If the drive does not see a complete circuit on those inputs, it will trip E69 and block torque.
@@ -24,8 +23,6 @@ The GA800 uses dedicated STO input terminals (M3 and M4) that must be bridged by
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board or motor when seeing a safety fault, but E69 is almost always a wiring or external-contact issue. Always verify the STO jumper and safety-relay continuity before ordering drive components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD or controls technician if you are unfamiliar with industrial safety circuits, the machine uses a configurable safety controller that requires programming, or the fault persists after verifying all STO wiring and jumpers are correct. Drives with failed STO input circuitry require factory or authorized service-center repair. Any work on high-voltage drive terminals or integrated safety systems should be performed only by trained personnel with proper lockout/tagout procedures.
 
 **Rough cost:** A pro service call runs about $150–400 depending on whether it is a simple jumper install or safety-relay replacement and wiring repair.
-
-## See Also
-
-- [Yaskawa GA800 A.125 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-125-fault-code/)
-- [Yaskawa GA800 E09 Fault - Causes & Fix](/posts/yaskawa-ga800-e09-fault-code/)
-- [Yaskawa A1000 CPF35 (AL-35) - Causes & Fix](/posts/yaskawa-a1000-vfd-al-35-fault-code/)
-- [Yaskawa GA800 VFD F038/oS Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f038-fault-code/)

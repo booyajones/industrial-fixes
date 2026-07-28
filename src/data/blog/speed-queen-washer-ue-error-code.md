@@ -14,11 +14,8 @@ money_part: "Speed Queen unbalance switch"
 most_likely_cause: "Single bulky item or clumped laundry"
 ---
 
-## Speed Queen UE Error Code — What It Means
-
+## What this code means
 The Speed Queen UE error code (also displayed as UB or Er. UB) indicates an unbalanced load fault. The washer has detected a severe imbalance in the tub during the spin cycle and stops to protect the machine from damage. You will typically see excessive shaking or the washer will refuse to complete the spin cycle. This code is a safety feature designed to prevent the machine from damaging itself or the surrounding area when the load is not distributed evenly.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

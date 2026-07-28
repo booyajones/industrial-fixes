@@ -19,8 +19,6 @@ A Kenmore dryer that won't tumble means the drum is not rotating even though the
 
 If the dryer runs but does not heat or stops early, airflow and thermal safety components may also be involved, but those are separate from a pure tumble issue. The drum must rotate freely and the motor must receive power through the door switch and thermal fuse for normal tumble operation.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Broken or slipped drive belt** The drive belt connects the motor to the drum, and a break or slip is one of the most common reasons the drum will not rotate.

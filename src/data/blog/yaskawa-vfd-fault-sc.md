@@ -13,11 +13,8 @@ money_part: "Drive IGBT module / power board"
 most_likely_cause: "Phase-to-phase short on output cables"
 ---
 
-## Yaskawa VFD Fault SC — What It Means
-
+## What this code means
 Yaskawa VFD fault SC (IGBT Short Circuit or Gate Drive Fault) indicates that the drive detected a short circuit condition on its output IGBT (insulated gate bipolar transistor) stage. The gate drive circuit monitors current through each IGBT switch, and when current spikes to a level indicating a short — either between two output phases, from an output phase to the DC bus, or through a failed IGBT itself — the gate drive fires a hardware overcurrent protection and shuts down the drive in microseconds. SC is a hard fault that cannot be cleared by software reset if the hardware fault condition still exists.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Yaskawa VFD fault SC (IGBT Short Circuit or Gate Drive Fault) indicates that the
 ## When to Call a Pro
 
 SC faults involving failed IGBTs inside the drive require capacitor discharge verification, high-voltage PPE, and component-level knowledge. IGBT module replacement on industrial drives is typically performed by a Yaskawa service technician or certified drive repair center.
-
-## Related Articles
-
-- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
-- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
-- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
-- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
-- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)
-
-## See Also
-
-- [Yaskawa GA800 oC Fault — Overcurrent Fix](/posts/yaskawa-ga800-error-oc/)
-- [Yaskawa A1000 Complete Guide - Fault Codes, Parameters, and Commissioning](/posts/yaskawa-a1000-complete-guide/)
-- [Yaskawa VFD Fault ER — Causes & Fix](/posts/yaskawa-vfd-fault-er/)
-- [Yaskawa GA800 oV Fault — DC Overvoltage Fix](/posts/yaskawa-ga800-error-ov/)

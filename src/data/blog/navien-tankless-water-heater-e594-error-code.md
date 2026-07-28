@@ -13,13 +13,10 @@ money_part: "Navien main control board / PCB"
 most_likely_cause: "Failed or corrupted control board EEPROM"
 ---
 
-## Navien E594 Error Code — What It Means
-
+## What this code means
 E594 is reported by Navien error-code guides as an "Abnormal Operation: EEPROM" fault. The control board is detecting a problem with the unit's nonvolatile memory or the data stored in it. This points to the main control board or PCB memory area rather than a gas, water-flow, or combustion subsystem issue.
 
 Because the fault is electronic and board-level, field-repairable causes are limited. If basic power-cycle and connection checks do not clear the code, the main control board itself is the likely culprit and will need replacement.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ Because the fault is electronic and board-level, field-repairable causes are lim
 ## When to Call a Pro
 
 E594 is a control-board memory fault that requires electrical and electronic diagnostics. If you are not comfortable working inside a powered tankless heater or do not have a multimeter and soldering skills, call a licensed plumber or HVAC technician who services Navien equipment. Control board replacement also requires recommissioning the unit and verifying gas and combustion settings, which are best handled by a trained professional. If the unit is under warranty, contact Navien or your installer before opening the control box to avoid voiding coverage.
-
-## See Also
-
-- [Navien Alarm 415 - Causes & Fix](/posts/navien-tankless-alarm-415-error-code/)
-- [Navien E110 Error Code - Causes & Fix](/posts/navien-tankless-e110-error-code/)
-- [Navien E009 Error Code — Causes & Fix](/posts/navien-error-code-e009/)
-- [Navien NPE/NCB Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003/)

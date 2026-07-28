@@ -13,11 +13,8 @@ money_part: "Start capacitor (outdoor unit)"
 most_likely_cause: "Low utility supply voltage"
 ---
 
-## Daikin U2 Error Code — What It Means
-
+## What this code means
 U2 on a Daikin mini-split or multi-zone system indicates a power supply undervoltage fault. The outdoor unit's control board detected that the supply voltage dropped below the minimum threshold for safe compressor and fan motor operation. Daikin systems typically require 208–240VAC (±10%) on single-phase units. U2 is a protective shutdown — the system locks out to prevent compressor damage from low voltage.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ U2 on a Daikin mini-split or multi-zone system indicates a power supply undervol
 ## When to Call a Pro
 
 Low utility voltage and wiring upgrades require a licensed electrician. A U2 that recurs after tightening connections and confirming wire sizing needs an electrical load analysis to identify the root cause.
-
-## Related Articles
-
-- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
-- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
-- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
-- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
-- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)
-
-## See Also
-
-- [Daikin Mini Split Error Codes — Complete Reference](/posts/daikin-mini-split-error-codes/)
-- [Daikin U8 Error Code - Causes & Fix](/posts/daikin-u8-error-code/)
-- [Daikin E6 Error Code - Causes & Fix](/posts/daikin-e6-error-code/)
-- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)

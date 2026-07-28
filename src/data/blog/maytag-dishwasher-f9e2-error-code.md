@@ -16,8 +16,7 @@ money_part: "Drain hose"
 part_price: "$30-80"
 ---
 
-## Maytag F9E2 Error Code — What It Means
-
+## What this code means
 The F9E2 code on a Maytag washer signals a drain system fault. The machine has detected a problem with draining, typically in the drain pump circuit, drain hose, or the communication between the pump and the main control board. The washer is either not draining fast enough or the pump circuit is not behaving as the control system commanded.
 
 This code usually appears when the machine tries to drain but meets resistance or cannot verify that water is leaving the tub at the expected rate. The fault can be mechanical (a blockage or kinked hose), electrical (wiring or connector issue), or a failed pump motor. Less commonly, the control board itself may be at fault, but field experience shows that debris, hose restrictions, and wiring problems account for the majority of F9E2 calls.
@@ -25,8 +24,6 @@ This code usually appears when the machine tries to drain but meets resistance o
 ## Before You Replace Anything
 
 Homeowners often replace the control board when the real problem is a coin or sock jamming the pump impeller. Always pull and inspect the pump filter and verify the impeller spins freely before ordering electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

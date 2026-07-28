@@ -17,8 +17,7 @@ free_checks:
   - "Check if the system uses a Siemens drive instead of Yaskawa"
 ---
 
-## Yaskawa GA800 F023 Fault — What It Means
-
+## What this code means
 There is no F023 fault code defined for the Yaskawa GA800 VFD. Fault code F023 is exclusively a Siemens drive fault indicating inverter temperature overshoot, where the heat sink has exceeded safe operating limits. If you are seeing what appears to be F023 on a Yaskawa GA800, the actual fault code is being misread or the equipment is not a Yaskawa drive.
 
 Yaskawa GA800 drives use different fault code formats such as OC (overcurrent), GF (ground fault), IO (inverter overshoot), and PID feedback errors. Check the drive's keypad or monitoring software to confirm the exact code displayed. If your system actually uses a Siemens drive, F023 indicates a thermal problem requiring immediate attention to cooling and airflow.
@@ -26,8 +25,6 @@ Yaskawa GA800 drives use different fault code formats such as OC (overcurrent), 
 ## Before You Replace Anything
 
 Technicians sometimes assume a drive fault is the control board when the actual problem is a misidentified fault code or wrong equipment brand. Always verify the exact code and drive model before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

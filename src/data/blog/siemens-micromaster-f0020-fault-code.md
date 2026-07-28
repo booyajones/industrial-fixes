@@ -13,13 +13,10 @@ money_part: "KTY84 motor temperature sensor"
 most_likely_cause: "True motor overheating"
 ---
 
-## Siemens Micromaster F0020 — What It Means
-
+## What this code means
 F0020 on a Siemens Micromaster or Masterdrive indicates a motor temperature fault. The drive has detected that the motor temperature is above the permissible limit, or the motor temperature sensor circuit is invalid (for example, a cable break or short circuit). The temperature signal can be checked in parameter r009 Motor Temperature. The KTY84 sensor input is located at connector X103, pins 41 and 42.
 
 Note that F0020 can have different meanings across Siemens drive families. Some MICROMASTER 440 documentation shows F0020 as a mains phase missing fault. Always confirm the code definition against your specific model's manual before diagnosing or ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ Note that F0020 can have different meanings across Siemens drive families. Some 
 ## When to Call a Pro
 
 Call a qualified technician if you cannot safely access the motor or drive terminals, if the motor continues to overheat after correcting ventilation and load, or if you are unfamiliar with multimeter testing of sensor circuits. Also get professional help if the fault persists after replacing the sensor and wiring, since the issue may lie in the drive's internal temperature input circuit or the motor windings themselves. Because F0020 can mean different things on different Siemens models, a technician with the correct service manual and diagnostic tools can confirm the exact cause and avoid unnecessary parts replacement.
-
-## See Also
-
-- [Siemens Micromaster F0001 - Causes & Fix](/posts/siemens-micromaster-f0001-fault-code/)
-- [Siemens Micromaster F0003 - Causes & Fix](/posts/siemens-micromaster-vfd-f0003-fault-code/)
-- [Siemens Micromaster F0080 - Causes & Fix](/posts/siemens-micromaster-vfd-f0080-fault-code/)
-- [Siemens SINAMICS V20 F1 Fault — Causes & Fix](/posts/siemens-sinamics-v20-f1-fault/)

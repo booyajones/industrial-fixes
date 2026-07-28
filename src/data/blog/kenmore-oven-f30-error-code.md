@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Oven F30 Error Code — What It Means
-
+## What this code means
 On most Kenmore ovens and ranges built on Electrolux or Frigidaire controls, the F30 error code indicates that the main control board is not receiving a valid temperature signal from the oven temperature sensor circuit. The control interprets this as an open circuit or a sensor reading that falls outside the expected range, so it flags F30 and typically disables oven operation to prevent unsafe heating.
 
 In practice, the fault is usually in the sensor probe itself, the wiring harness that connects it to the electronic control board, or the control board's input circuit. The temperature sensor is a resistive temperature device (RTD) that changes resistance with temperature. When the circuit is open, shorted to ground, or reads far out of specification, the control throws the F30 code.
@@ -26,8 +25,6 @@ In practice, the fault is usually in the sensor probe itself, the wiring harness
 ## Before You Replace Anything
 
 Many people replace the main electronic control board first when the real problem is a failed sensor or a loose connector. Always test the sensor resistance and inspect the wiring before ordering a new control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

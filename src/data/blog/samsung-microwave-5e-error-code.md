@@ -17,8 +17,7 @@ money_part: "Touchpad / membrane keypad assembly"
 part_price: "$30-80"
 ---
 
-## Samsung Microwave 5E Error — What It Means
-
+## What this code means
 The Samsung microwave 5E error is the same fault displayed as SE on many models. It is a key-short or stuck-key condition detected by the control board. The microwave thinks one or more keypad buttons are being pressed continuously, or the keypad circuit is shorted.
 
 This fault does not indicate a sensor or heating problem. It means the control board is receiving a constant signal from the touchpad membrane or the ribbon cable that connects the keypad to the main board.
@@ -26,8 +25,6 @@ This fault does not indicate a sensor or heating problem. It means the control b
 ## Before You Replace Anything
 
 Many owners replace the main control board first, but the fault is usually the touchpad or ribbon connector. Clean the keypad surface and reseat the ribbon cable before ordering any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

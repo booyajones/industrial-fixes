@@ -17,15 +17,12 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Oven F7 Error Code — What It Means
-
+## What this code means
 For most Kenmore ovens and ranges, the F7 error code indicates a keypad or touchpad failure. It signals that the electronic control is receiving an invalid or continuous input from the human-interface circuit, rather than a heating or temperature fault. Common triggers include a stuck button, a shorted membrane keypad matrix, or a failed control interface. On some Kenmore models built by GE the code can also mean the electronic control is interpreting the keypad circuit incorrectly. The exact definition can vary slightly by model platform, so if you have access to your model's wiring diagram or tech sheet, verify the code meaning there first. Treat F7 as a control-circuit or input fault unless your documentation says otherwise.
 
 ## Before You Replace Anything
 
 Many owners replace the electronic control board first. Before doing that, disconnect the keypad ribbon cable, clean the contacts, and reseat the connector. If the code clears or changes when the keypad is unplugged, the keypad itself is the fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -14,8 +14,7 @@ money_part: "Yaskawa GA800 communication cable (shielded twisted-pair)"
 most_likely_cause: "Incorrect communication wiring"
 ---
 
-## Yaskawa GA800 A.107 Fault — What It Means
-
+## What this code means
 A.107 is not a standard fault code confirmed in available Yaskawa GA800 documentation. The GA800 uses alarm codes with specific text descriptions on the keypad display. If you are seeing A.107, double-check the exact text shown on the keypad or consult your drive's manual, because the code may be misread or specific to a custom parameter setup.
 
 Verified GA800 communication alarms (such as serial transmission errors) are caused by incorrect wiring, short circuits in the communications cable, or disconnected cables. If an option card is installed, poor seating or damaged connectors can also trigger network faults. Always record the exact alarm text before resetting or cycling power.
@@ -23,8 +22,6 @@ Verified GA800 communication alarms (such as serial transmission errors) are cau
 ## Before You Replace Anything
 
 Technicians sometimes replace the drive control board before checking basic wiring and option-card seating. Inspect all communication cables, terminations, and the physical condition of any network module first.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa-authorized service provider if you cannot confirm the exact meaning of A.107 from your manual, if the fault reappears after wiring corrections, or if you lack lockout-tagout training for industrial motor-drive systems. Communication troubleshooting often requires protocol analyzers, network configuration tools, and access to Yaskawa Drive Wizard software. A technician will verify option-card firmware, check parameter settings for baud rate and node address, and test signal integrity with proper instruments before replacing hardware.
 
 **Rough cost:** A pro service call runs about $150-400 for wiring repair or option card replacement.
-
-## See Also
-
-- [Yaskawa V1000 Complete Fault Code Guide — All Faults and Fixes](/posts/yaskawa-v1000-complete-guide/)
-- [Yaskawa A1000 FbL Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-fbl-fault-code/)
-- [Yaskawa GA800 VFD E54 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e54-fault-code/)
-- [Yaskawa GA800 A.120 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-120-fault-code/)

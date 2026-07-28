@@ -19,8 +19,6 @@ Ice forming on the indoor coil of your LG mini split is a symptom, not a fault c
 
 On some LG models you may also see error code CH12, which indicates an indoor middle pipe sensor or coil thermistor circuit problem. This sensor tells the control board the coil temperature. If it reads incorrectly or has a loose connection, the unit cannot regulate coil temperature properly and ice can form. Always confirm the exact meaning of any code using your model's service documentation, because LG codes vary by series.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty or clogged indoor air filter** A blocked filter is the most common cause, reducing airflow across the evaporator coil and allowing ice to form.
@@ -55,26 +53,19 @@ On some LG models you may also see error code CH12, which indicates an indoor mi
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Lg Mini Split Ch 05 error code](/posts/lg-mini-split-ch-05-error-code/)
-- [Lg Mini Split Ch 26 error code](/posts/lg-mini-split-ch-26-error-code/)
-- [Lg Mini Split Ch 38 error code](/posts/lg-mini-split-ch-38-error-code/)
-- [Lg Mini Split Ch01 error code](/posts/lg-mini-split-ch01-error-code/)
-- [Lg Mini Split Ch02 error code](/posts/lg-mini-split-ch02-error-code/)
-- [Lg Mini Split Ch03 error code](/posts/lg-mini-split-ch03-error-code/)
-- [Lg Mini Split Ch04 error code](/posts/lg-mini-split-ch04-error-code/)
-- [Lg Mini Split Ch05 error code](/posts/lg-mini-split-ch05-error-code/)
-- [Lg Mini Split Ch06 error code](/posts/lg-mini-split-ch06-error-code/)
-- [Lg Mini Split Ch07 error code](/posts/lg-mini-split-ch07-error-code/)
-- [Lg Mini Split Ch09 error code](/posts/lg-mini-split-ch09-error-code/)
-- [Lg Mini Split Ch10 error code](/posts/lg-mini-split-ch10-error-code/)
+- Lg Mini Split Ch 05 error code
+- Lg Mini Split Ch 26 error code
+- Lg Mini Split Ch 38 error code
+- Lg Mini Split Ch01 error code
+- Lg Mini Split Ch02 error code
+- Lg Mini Split Ch03 error code
+- Lg Mini Split Ch04 error code
+- Lg Mini Split Ch05 error code
+- Lg Mini Split Ch06 error code
+- Lg Mini Split Ch07 error code
+- Lg Mini Split Ch09 error code
+- Lg Mini Split Ch10 error code
 
 ## When to Call a Pro
 
 Call a qualified HVAC technician if ice returns after cleaning the filter and defrosting the coil, if you see a CH12 or other sensor code and are not comfortable testing thermistors and wiring, or if you suspect low refrigerant. Refrigerant work requires EPA certification, proper gauges, and recovery equipment. A pro will also have access to the exact service manual for your LG model, including resistance tables, pressure specs, and board-level diagnostics that are not published in generic support articles.
-
-## See Also
-
-- [LG Washer Shaking and Loud - Causes & Fix](/posts/lg-washer-shaking-and-loud/)
-- [LG Dryer F0 Error Code - Causes & Fix](/posts/lg-dryer-f0-error-code/)
-- [LG Dishwasher Buttons Not Working - Causes & Fix](/posts/lg-dishwasher-buttons-not-working/)
-- [LG Dryer E4 Error Code - Causes & Fix](/posts/lg-dryer-e4-error-code/)

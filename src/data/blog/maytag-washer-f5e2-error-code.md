@@ -22,8 +22,7 @@ part_price: "$40-85"
 no_buy_pct: "65%"
 ---
 
-## Maytag F5E2 Error Code — What It Means
-
+## What this code means
 The F5E2 error code on Maytag front-load washers indicates a door lock or latch problem. The washer's control has detected that the door is not locking properly, which prevents the wash cycle from starting or continuing. This is a safety feature that keeps the machine from operating with an unsecured door.
 
 Maytag defines this code specifically as a door-locking fault, not a drain or pump issue. The control expects the door lock assembly to signal that the door is fully latched and locked before any cycle begins. When that signal does not arrive or is interrupted, the F5E2 code appears on the display.
@@ -31,8 +30,6 @@ Maytag defines this code specifically as a door-locking fault, not a drain or pu
 ## Before You Replace Anything
 
 Some online sources incorrectly describe F5E2 as a drain-pump fault. Maytag's own documentation confirms F5E2 is a door-lock issue, so check the latch and door-lock assembly before replacing the drain pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

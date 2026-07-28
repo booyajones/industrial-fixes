@@ -19,8 +19,6 @@ When an Electrolux dryer starts, runs for 5 to 10 seconds, then shuts off, the c
 
 The centrifugal switch inside the motor assembly is designed to signal the control board that the drum is spinning. If the switch fails, stays open, or the wiring connection is interrupted, the control thinks the motor is not running properly and shuts the dryer down for safety. Less often, the problem is a faulty main control board or a power-supply issue that mimics a motor fault.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed or intermittent centrifugal switch inside the motor** The switch does not close or change state when the motor spins, so the control board does not receive the expected feedback signal and stops the cycle.
@@ -55,8 +53,8 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Electrolux Dryer Ad error code](/posts/electrolux-dryer-ad-error-code/)
 - [Electrolux Dryer E 09 error code](/posts/electrolux-dryer-e-09-error-code/)
-- [Electrolux Dryer E 10 error code](/posts/electrolux-dryer-e-10-error-code/)
-- [Electrolux Dryer E 11 error code](/posts/electrolux-dryer-e-11-error-code/)
+- Electrolux Dryer E 10 error code
+- Electrolux Dryer E 11 error code
 - [Electrolux Dryer E 31 error code](/posts/electrolux-dryer-e-31-error-code/)
 - [Electrolux Dryer E 42 error code](/posts/electrolux-dryer-e-42-error-code/)
 - [Electrolux Dryer E 51 error code](/posts/electrolux-dryer-e-51-error-code/)

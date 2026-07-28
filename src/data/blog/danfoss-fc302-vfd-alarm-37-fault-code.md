@@ -13,13 +13,10 @@ money_part: "Input fuses for Danfoss FC 302"
 most_likely_cause: "Blown or weak input fuses"
 ---
 
-## Danfoss FC302 VFD Alarm 37 — What It Means
-
+## What this code means
 Alarm 37 on a Danfoss VLT AutomationDrive FC 302 indicates a phase imbalance, which Danfoss defines as a current imbalance between the power units inside the drive. This fault means one or more of the three incoming power phases is carrying significantly less current than the others, creating uneven load distribution that can damage the drive or upstream equipment.
 
 The imbalance can originate either upstream of the drive (in the mains supply, fuses, or wiring) or inside the drive's power section. Most often the problem is external: a blown or weak input fuse, a loose connection, or a missing phase from the utility or distribution panel. If the incoming supply checks out balanced and clean, the fault points to an internal issue in the drive's power units.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ The imbalance can originate either upstream of the drive (in the mains supply, f
 ## When to Call a Pro
 
 Call a qualified electrician or drive technician if you are not comfortable working with three-phase power, if you cannot safely verify and lock out the incoming supply, or if the imbalance persists after you have confirmed the input fuses are good and all wiring is tight and undamaged. Internal power unit faults require specialized knowledge, test equipment, and access to Danfoss service parts, so professional repair or factory service is the correct next step when external causes have been ruled out.
-
-## See Also
-
-- [Danfoss FC302 ALARM 16 - Causes & Fix](/posts/danfoss-fc302-alarm-16-fault-code/)
-- [Danfoss FC302 Alarm 48 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-48-fault-code/)
-- [Danfoss FC301 Fault AL 14 — Ground Fault Causes & Fix](/posts/danfoss-fc301-fault-al-14/)
-- [Danfoss FC302 VFD Alarm 38 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-38-fault-code/)

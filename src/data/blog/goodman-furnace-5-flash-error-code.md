@@ -13,11 +13,8 @@ money_part: "Flame sensor"
 most_likely_cause: "Shorted or contaminated flame sensor circuit"
 ---
 
-## Goodman Furnace 5 Flash Error Code — What It Means
-
+## What this code means
 A Goodman furnace flashing **5 blinks** on the LED status light means **flame sensed without a heat call** — the flame sensor is detecting (or simulating) a flame signal when the control board has not called for heat and the gas valve should be closed. This is a safety fault. If the furnace thinks it sees a flame when there shouldn't be one, it could indicate a stuck-open gas valve, a leaking gas valve that allows gas to flow and ignite, or a faulty flame sensor generating a false signal. The control board locks out the system.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ A Goodman furnace flashing **5 blinks** on the LED status light means **flame se
 ## When to Call a Pro
 
 A stuck-open gas valve is a gas leak and safety emergency. If you smell gas or detect it with a sensor after the furnace shuts off, turn off the gas supply at the meter, ventilate the space, and call a licensed HVAC technician or your gas utility immediately.
-
-## Related Articles
-
-- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
-- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
-- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
-- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
-- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)
-
-## See Also
-
-- [Goodman vs Bryant Furnaces — A Service Tech's Honest Comparison (2026)](/posts/goodman-vs-bryant-furnaces/)
-- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)
-- [Goodman Furnace 4 Flashes — Open High Limit Switch Fix](/posts/goodman-furnace-4-flashes/)
-- [Goodman 9 Flash Error Code — Causes & Fix](/posts/goodman-9-flash-error-code/)

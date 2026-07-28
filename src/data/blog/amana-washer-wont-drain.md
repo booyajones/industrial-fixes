@@ -19,8 +19,6 @@ When your Amana washer won't drain, water remains in the tub after the wash or r
 
 The "drn" fault and no-drain complaints often resolve after checking the drain path and performing a power reset or recalibration routine. If the hose is clear and a reset does not help, the problem usually lies in the pump area or its electrical connections.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Kinked or blocked drain hose** A drain hose that is bent, kinked, or clogged with lint and debris is the most common cause of drain failures and is flagged by Amana as a typical installation issue.
@@ -52,18 +50,18 @@ The "drn" fault and no-drain complaints often resolve after checking the drain p
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Amana Washer Dlo error code](/posts/amana-washer-dlo-error-code/)
-- [Amana Washer Drn error code](/posts/amana-washer-drn-error-code/)
-- [Amana Washer Du error code](/posts/amana-washer-du-error-code/)
-- [Amana Washer F5 E2 error code](/posts/amana-washer-f5-e2-error-code/)
-- [Amana Washer F7 E1 error code](/posts/amana-washer-f7-e1-error-code/)
-- [Amana Washer F8 E1 error code](/posts/amana-washer-f8-e1-error-code/)
-- [Amana Washer F8 E2 error code](/posts/amana-washer-f8-e2-error-code/)
-- [Amana Washer F9 E1 error code](/posts/amana-washer-f9-e1-error-code/)
-- [Amana Washer Fd error code](/posts/amana-washer-fd-error-code/)
-- [Amana Washer Hc error code](/posts/amana-washer-hc-error-code/)
-- [Amana Washer Ldl error code](/posts/amana-washer-ldl-error-code/)
-- [Amana Washer Ldu error code](/posts/amana-washer-ldu-error-code/)
+- Amana Washer Dlo error code
+- Amana Washer Drn error code
+- Amana Washer Du error code
+- Amana Washer F5 E2 error code
+- Amana Washer F7 E1 error code
+- Amana Washer F8 E1 error code
+- Amana Washer F8 E2 error code
+- Amana Washer F9 E1 error code
+- Amana Washer Fd error code
+- Amana Washer Hc error code
+- Amana Washer Ldl error code
+- Amana Washer Ldu error code
 
 ## When to Call a Pro
 

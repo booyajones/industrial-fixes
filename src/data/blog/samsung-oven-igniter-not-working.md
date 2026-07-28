@@ -20,8 +20,6 @@ When a Samsung gas oven igniter is not working, the igniter fails to heat up eno
 
 This symptom is different from a fault code. It describes a physical failure in the ignition circuit, most often the hot-surface igniter itself. On Samsung gas ranges, similar ignition problems on cooktop burners can stem from spark issues, dirty burner parts, or gas supply faults, but oven ignition relies on the hot-surface igniter and its wiring to the gas valve.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Weak or failed oven hot-surface igniter** The igniter can glow but still fail electrically and not draw enough amperage to open the gas safety valve, which is the most common oven ignition failure.
@@ -55,18 +53,18 @@ This symptom is different from a fault code. It describes a physical failure in 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Samsung Oven C 20 error code](/posts/samsung-oven-c-20-error-code/)
-- [Samsung Oven C 21 error code](/posts/samsung-oven-c-21-error-code/)
-- [Samsung Oven C 22 error code](/posts/samsung-oven-c-22-error-code/)
-- [Samsung Oven C 23 error code](/posts/samsung-oven-c-23-error-code/)
-- [Samsung Oven C 24 error code](/posts/samsung-oven-c-24-error-code/)
-- [Samsung Oven C D0 error code](/posts/samsung-oven-c-d0-error-code/)
-- [Samsung Oven C D1 error code](/posts/samsung-oven-c-d1-error-code/)
-- [Samsung Oven C F0 error code](/posts/samsung-oven-c-f0-error-code/)
+- Samsung Oven C 20 error code
+- Samsung Oven C 21 error code
+- Samsung Oven C 22 error code
+- Samsung Oven C 23 error code
+- Samsung Oven C 24 error code
+- Samsung Oven C D0 error code
+- Samsung Oven C D1 error code
+- Samsung Oven C F0 error code
 - [Samsung Oven E 08 error code](/posts/samsung-oven-e-08-error-code/)
 - [Samsung Oven E 27 error code](/posts/samsung-oven-e-27-error-code/)
-- [Samsung Oven E 28 error code](/posts/samsung-oven-e-28-error-code/)
-- [Samsung Oven E 54 error code](/posts/samsung-oven-e-54-error-code/)
+- Samsung Oven E 28 error code
+- Samsung Oven E 54 error code
 
 ## When to Call a Pro
 

@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Exhaust or outlet thermistor"
 ---
 
-## Maytag Dryer F23 Error Code — What It Means
-
+## What this code means
 The F23 code on a Maytag dryer signals an exhaust or outlet thermistor circuit fault. This thermistor monitors the temperature of air leaving the dryer drum. When the control board loses a valid signal from the thermistor (open circuit, short, or out-of-range reading), it throws F23 and stops the cycle to prevent unsafe operation.
 
 Maytag's official reset procedure is to disconnect power for at least one minute, then restart the dryer on a Timed Dry cycle and watch whether the code returns within the first minute. If F23 comes back immediately, the thermistor circuit needs diagnosis. This is not a heating-element code and should not be confused with washer fault codes that share the same number.
@@ -25,8 +24,6 @@ Maytag's official reset procedure is to disconnect power for at least one minute
 ## Before You Replace Anything
 
 Many people replace the main control board first. Always test the exhaust thermistor resistance (around 10 kΩ at room temperature) and inspect the wiring harness and connectors before buying a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

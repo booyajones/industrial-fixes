@@ -17,15 +17,12 @@ money_part: "Oven temperature sensor (RTD probe)"
 part_price: "$20-50"
 ---
 
-## Kenmore Range F031 Error Code — What It Means
-
+## What this code means
 The F031 error code on a Kenmore range indicates the control board has detected an abnormal signal from the oven temperature sensor circuit. This is a sensor probe problem, not a burner or ignition fault. The control can no longer read the oven cavity temperature correctly because the sensor itself has failed, the wiring harness is damaged or shorted, or the control board input has failed. Because Kenmore is a retail brand, the exact meaning of F031 can vary slightly by the underlying manufacturer platform, but on Kenmore ranges using Frigidaire or Electrolux-style controls the fault is consistently reported as an oven temperature sensor or probe circuit error in the F30 family of codes.
 
 ## Before You Replace Anything
 
 Many people replace the electronic control board first. Always test the oven temperature sensor resistance (should read about 1,080–1,091 ohms at room temperature) and inspect the sensor wiring harness for damage or shorts before replacing the control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

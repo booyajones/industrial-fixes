@@ -19,8 +19,6 @@ A popping or crackling noise from a Rinnai tankless water heater is a mechanical
 
 This noise does not correspond to a specific Rinnai fault code. If your unit is also displaying an error code on the control panel, that code takes priority for diagnosis. The popping sound alone indicates a maintenance or installation issue rather than an electronic fault.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Scale and mineral buildup on heat exchanger** Hard water deposits accumulate on the heat exchanger surface, trapping water that boils and pops as steam escapes through the mineral layer.
@@ -51,10 +49,3 @@ This noise does not correspond to a specific Rinnai fault code. If your unit is 
 ## When to Call a Pro
 
 Call a qualified technician for any work involving the burner assembly, combustion fan, gas connections, or venting system. Descaling and flushing require proper equipment and manufacturer-specific procedures to avoid damaging the heat exchanger. If the popping continues after flushing or if you also see an error code on the display, professional diagnosis is needed to identify internal component failure or electronic control issues. Water heater work in many jurisdictions requires licensing for both gas and plumbing connections. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rinnai I120CN Tankless Water Heater Error Codes: Complete Guide](/posts/rinnai-i120cn-error-codes/)
-- [Rinnai Water Heater No Hot Water - Causes & Fix](/posts/rinnai-water-heater-no-hot-water/)
-- [Rinnai Error Code 25 — Causes & Fix](/posts/rinnai-error-code-25/)
-- [Rinnai RUR Series Error Codes — Tankless Water Heater Fault Guide](/posts/rinnai-rur-error-codes/)

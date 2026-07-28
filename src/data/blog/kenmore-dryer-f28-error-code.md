@@ -20,8 +20,7 @@ part_price: "$80-180"
 no_buy_pct: "50%"
 ---
 
-## Kenmore F28 Error Code — What It Means
-
+## What this code means
 F28 on Kenmore front-load washers (built by Whirlpool) is a serial communication fault between the main control board (CCU) and the motor control unit (MCU). The two boards cannot talk to each other, so the washer stops mid-cycle and displays the code. This is not a mechanical jam or spin problem. The fault usually traces to a loose or corroded wire harness plug, a failed control board, or damaged wiring between the boards.
 
 Because communication errors can stem from either board or the harness between them, technicians follow a systematic approach: reseat every connector first, inspect for corrosion or damage, then swap boards if the fault persists. Most field reports show the CCU (main electronic control) as the failed component when reseating connectors does not clear the code, though MCU failures and burnt board traces also occur.
@@ -29,8 +28,6 @@ Because communication errors can stem from either board or the harness between t
 ## Before You Replace Anything
 
 Homeowners often replace the motor first, thinking F28 is a spin fault. Always reseat all control-board connectors and inspect for corrosion before replacing any board or motor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -17,8 +17,7 @@ money_part: "Samsung dryer main control board"
 part_price: "$150-250"
 ---
 
-## Samsung Dryer DN Error Code — What It Means
-
+## What this code means
 The DN code on Samsung smart dryers indicates that a firmware or software update is currently downloading to the dryer's control system. Samsung states that the dryer will restart itself automatically when the installation is complete. This is not a mechanical failure code. It appears on connected models that support over-the-air updates.
 
 The code is normal during an active download and should clear within a few hours. Samsung recommends leaving the dryer powered on and waiting up to 24 hours. If DN persists beyond that window, the update may have stalled or a control-board communication fault has occurred.
@@ -26,8 +25,6 @@ The code is normal during an active download and should clear within a few hours
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board immediately, assuming a fault. Wait the full 24-hour download window and perform a controlled reset before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

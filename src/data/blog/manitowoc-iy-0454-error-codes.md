@@ -27,8 +27,6 @@ The Manitowoc IY-0454 is a 455 lb/day Indigo series half-dice ice machine common
 | E05 | High pressure cutout | High |
 | E06 | Low pressure cutout | High |
 
-[Jump to Fix](#fix)
-
 ## IY-0454 Common Fixes {#fix}
 
 **Codes 1, 3, E04:** The IY-0454 in a hot hotel environment accumulates condenser grease quickly. Clean condenser monthly in commercial kitchen proximity. Verify condenser fan runs.
@@ -47,18 +45,3 @@ The Manitowoc IY-0454 is a 455 lb/day Indigo series half-dice ice machine common
 ## When to Call a Pro
 
 E05/E06 refrigerant faults require EPA 608 certification.
-
-## Related Articles
-
-- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
-- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
-- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
-- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
-- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)
-
-## See Also
-
-- [Manitowoc NEO Ice Machine Error Codes - What It Means and How to Fix It](/posts/manitowoc-neo-ice-machine-error-codes/)
-- [Manitowoc Ice Machine Error Code 4 — Water Curtain Fault Fix](/posts/manitowoc-ice-machine-error-code-4-water-curtain/)
-- [Manitowoc Indigo Ice Machine Error Codes — Complete Guide](/posts/manitowoc-indigo-error-codes/)
-- [Manitowoc ID-0502 Error Codes — Fault Code Diagnostic Guide](/posts/manitowoc-id-0502-error-codes/)

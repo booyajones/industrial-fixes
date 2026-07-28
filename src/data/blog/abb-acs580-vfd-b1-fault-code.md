@@ -13,13 +13,10 @@ money_part: "ABB ACS580 input fuse kit"
 most_likely_cause: "Loose or missing power supply connections"
 ---
 
-## ABB ACS580 B1 Fault Code — What It Means
-
+## What this code means
 On ABB ACS580 drives, B1 is not a fault code by itself. It is an auxiliary code or subcode that appears alongside a main fault number. The ACS580 fault documentation shows that the second number of the code indicates the specific problem branch within a fault family. Without the full fault code displayed on the keypad or event history, you cannot identify the root cause. ABB's troubleshooting guide explicitly states to check the auxiliary code together with the primary fault number to determine the exact issue.
 
 B1 identifies a specific path or subtype of the main fault, so the meaning changes depending on which fault family it is attached to. Always read the complete fault string from the drive display before attempting any repair. The fault list in the ACS580 manual will give you the precise corrective action once you have both the primary fault code and the B1 auxiliary code together.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ B1 identifies a specific path or subtype of the main fault, so the meaning chang
 ## When to Call a Pro
 
 Call a qualified electrician or ABB service partner if you cannot identify the full fault code, if the fault returns after you have corrected wiring and parameter issues, or if you are unfamiliar with three-phase power and motor circuits. STO safety circuit faults and repeated thermal trips often indicate deeper issues that require load testing, insulation testing, and firmware diagnostics. ABB recommends contacting their support if faults persist after following the corrective actions in the manual, especially if the drive was recently installed or serviced.
-
-## See Also
-
-- [ABB ACS880 Fault 3210 — DC Bus Undervoltage Causes & Fix](/posts/abb-acs880-fault-3210/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS550 EFB3 Fault - Causes & Fix](/posts/abb-acs550-vfd-efb3-fault-code/)
-- [ABB VFD Fault 3130 — Input Phase Loss Fix](/posts/abb-vfd-fault-3130/)

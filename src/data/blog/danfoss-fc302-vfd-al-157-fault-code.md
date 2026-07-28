@@ -19,8 +19,7 @@ free_checks:
   - "Check the LCP display for physical damage or LCD artifacts that might corrupt the readout"
 ---
 
-## Danfoss FC302 AL-157 — What It Means
-
+## What this code means
 The code AL-157 does not exist in official Danfoss FC302 documentation. Danfoss FC302 drives use alarm numbers from 1 to 99, and internal faults are reported as Alarm 38 with a sub-code (such as 38.1 or 38.12). The number 157 may be a misreading of the display, a corrupted sub-code outside the normal range, or confusion with a parameter number. Common causes include LCD artifacts making AL 38 look like AL 157, or the display showing an extended diagnostic code that does not match standard alarm tables.
 
 If your drive actually shows Alarm 38, the fault is internal to the drive's control or power electronics. The most frequent triggers are a failed control board, corrupted parameter memory, gate driver circuit failure, or overheating power components. Check the display carefully after a full power cycle and verify the exact alarm number and sub-code before proceeding with diagnosis or parts replacement.
@@ -28,8 +27,6 @@ If your drive actually shows Alarm 38, the fault is internal to the drive's cont
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive or power module when the fault is actually corrupted parameters or loose control wiring. Always power-cycle the drive, check wiring connections, and attempt a parameter reset before ordering expensive assemblies.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if the alarm persists after a power cycle and basic wiring checks. Internal faults on the FC302 typically require oscilloscope diagnostics, firmware tools, or replacement of the control board and gate driver circuits. High DC bus voltages (up to 800 VDC on 480V models) remain inside the drive even after AC power is removed, and contact with live bus bars can be fatal. Do not open the drive enclosure or attempt board-level repair unless you are trained in high-voltage industrial equipment and have proper PPE and lockout procedures. If the drive is under warranty or service contract, contact Danfoss or your distributor before performing any invasive diagnostics.
 
 **Rough cost:** A pro service call runs about $300-800.
-
-## See Also
-
-- [Danfoss FC302 Alarm 11 - DC Voltage Too Low Causes & Fix](/posts/danfoss-fc302-vfd-al-110-fault-code/)
-- [Danfoss FC302 AL-141 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-141-fault-code/)
-- [Danfoss RX Controller Fault Codes — Troubleshooting Guide](/posts/danfoss-rx-controller-fault/)
-- [Danfoss FC302 Alarm 31 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-31-fault-code/)

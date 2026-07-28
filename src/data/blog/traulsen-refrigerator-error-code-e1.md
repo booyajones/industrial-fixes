@@ -13,11 +13,8 @@ money_part: "NTC temperature sensor (Traulsen OEM)"
 most_likely_cause: "Failed NTC sensor"
 ---
 
-## Traulsen Refrigerator Error Code E1 — What It Means
-
+## What this code means
 The E1 fault on Traulsen commercial refrigerators and freezers indicates a temperature sensor failure — the control board is not receiving a valid signal from the cabinet temperature sensor. Traulsen units use NTC thermistors to provide continuous temperature feedback to the microprocessor controller; E1 appears when that signal is open, shorted, or out of the expected range.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,11 +41,3 @@ The E1 fault on Traulsen commercial refrigerators and freezers indicates a tempe
 ## When to Call a Pro
 
 Traulsen controller boards are model-specific and may need factory calibration after replacement. An authorized Traulsen service tech should handle board-level work on units under warranty.
-
-## Related Articles
-
-- [Beverage-Air Error Code E4, Causes, and Fixes](/posts/beverage-air-e4-error-code/)
-- [Beverage-Air MT27 Error Codes - What They Mean and How to Fix Them](/posts/beverage-air-mt27-error-codes/)
-- [Beverage-Air Refrigerator Error Code E1 — Causes & Fix](/posts/beverage-air-refrigerator-error-code-e1/)
-- [Beverage-Air Refrigerator Error Code E2 — Evaporator Sensor Causes & Fix](/posts/beverage-air-refrigerator-error-code-e2/)
-- [Bohn Refrigeration Error Code Guide — Causes & Fixes](/posts/bohn-refrigeration-error-codes/)

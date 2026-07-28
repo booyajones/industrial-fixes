@@ -15,8 +15,6 @@ tags:
 
 Lennox iComfort error code 31 is a **pressure switch fault** — one of the most common furnace errors homeowners encounter. The pressure switch monitors whether the inducer motor is creating enough draft to safely vent combustion gases. When the switch doesn't close (or opens unexpectedly), the furnace shuts down and logs code 31.
 
-[Jump to Fix](#how-to-fix-lennox-icomfort-error-code-31)
-
 ## What Does Lennox iComfort Error Code 31 Mean?
 
 Error code 31 on a Lennox iComfort S30, E30, or thermostat-based system translates to:
@@ -145,18 +143,3 @@ Code 31 is consistent across most Lennox iComfort-compatible furnace models (SLP
 
 **How do I find the pressure switch on my Lennox furnace?**
 Open the furnace access panel (lower door on most models) and look for a round disc-shaped device about the size of a quarter, mounted on or near the inducer motor housing. It has two wires connected to its terminals and a small rubber hose connecting it to the inducer or collector box.
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-
-## See Also
-
-- [Lennox Error Code 432 — Causes & Fix](/posts/lennox-error-code-432/)
-- [Lennox Rooftop Unit Error Codes: Technician Guide](/posts/lennox-rooftop-unit-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox SL280UHV Error Codes — Complete Fault Code Diagnostic Guide](/posts/lennox-sl280uhv-error-codes/)

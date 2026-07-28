@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 Uv2 — What It Means
-
+## What this code means
 The Uv2 fault on a Yaskawa A1000 variable frequency drive indicates that the voltage supplying the drive's control circuits has dropped below the minimum threshold the drive needs to operate. This is not a main power or output stage problem. The control power supply feeds the internal logic, display, and control board. When that supply voltage sags or disappears, the drive protects itself by throwing Uv2 and shutting down. The fault is documented for certain smaller A1000 models (2A0004 to 2A0056 and 4A0002 to 4A0031) and is often linked to incoming power disturbances, phase loss, or incorrect settings in parameter L2-02, which governs ride-through and undervoltage behavior.
 
 In most cases the fault points to a real event: a momentary brownout, a loose wire on the input terminals, or a missing phase. Less often, someone has changed L2-02 from its factory default without installing the optional momentary power loss ride-through hardware, and the drive now trips on normal grid fluctuations. If external power and parameters check out but the fault keeps coming back, the control board or its internal power supply circuit has failed and needs replacement.
@@ -24,8 +23,6 @@ In most cases the fault points to a real event: a momentary brownout, a loose wi
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive or control board before checking incoming line voltage and parameter L2-02. Measure all three input phases under load and verify L2-02 matches the installed options before ordering boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Diagnosing and repairing Uv2 on an A1000 involves working inside a live high-voltage cabinet, reading drive parameters, and interpreting three-phase voltage under load. If you are not trained in VFD service and do not have the tools to safely measure line voltage and diagnose control circuits, call a qualified electrician or automation technician. Also call a pro if the fault persists after you have verified incoming power and parameters, because at that point the control board or internal power supply needs replacement and the drive may need factory calibration afterward.
 
 **Rough cost:** A pro service call runs about $200-800 depending on whether it is wiring, a control board, or drive replacement.
-
-## See Also
-
-- [Yaskawa GA800 E25 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e25-fault-code/)
-- [Yaskawa GA800 E88 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e88-fault-code/)
-- [Yaskawa V1000 OC Fault — Overcurrent](/posts/yaskawa-v1000-fault-oc/)
-- [Yaskawa A1000 CPF03 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf03-fault-code/)

@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Samsung microwave wiring harness"
 ---
 
-## Samsung Microwave E-X1 Error — What It Means
-
+## What this code means
 Samsung defines E-X1 as an **additional open error** on the microwave display. The control system has detected an open-circuit condition in an additional monitored circuit. Samsung does not publish a more specific component-level definition for E-X1 beyond that label, and the code usually requires technician verification rather than user repair.
 
 Samsung's published guidance is to unplug the microwave or switch it off at the breaker, wait about 60 seconds (or let it dry if moisture is involved), then restore power. If the code returns after this reset, request service. The direct cause is an open circuit in the monitored path, which can be a fault in the sensor, communication harness, or control board connection. Moisture, steam, or a temporary electronic glitch can sometimes trigger the code.
@@ -25,8 +24,6 @@ Samsung's published guidance is to unplug the microwave or switch it off at the 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board before checking for a loose connector or corroded wire terminal. Inspect all harness plugs and continuity-test the monitored circuit first to isolate the open before replacing any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

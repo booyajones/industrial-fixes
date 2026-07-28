@@ -19,8 +19,6 @@ A GE washer door that won't unlock means the control has not released the door l
 
 If the panel shows a scrolling "door" message, that typically indicates the door is not properly latched rather than a separate unlock code. A door that stays locked is treated as a door lock system problem in GE repair guidance. The control may be commanding unlock, but the lock, harness, or main board may not be responding.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed door lock assembly** The lock does not respond to the unlock command and should be replaced if resistance readings are out of spec.
@@ -52,7 +50,7 @@ If the panel shows a scrolling "door" message, that typically indicates the door
 
 Seeing a code on the display? These match this problem:
 
-- [Ge Washer E23 error code](/posts/ge-washer-e23-error-code/)
+- Ge Washer E23 error code
 
 ## When to Call a Pro
 

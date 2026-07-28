@@ -19,8 +19,6 @@ When your GE washer won't fill with water, the machine either starts a cycle and
 
 The washer relies on line water pressure to push water through the inlet valve solenoids and into the tub within a set window of time. If that flow is interrupted or restricted anywhere along the chain, the cycle will stall or abort. On models with a lid lock or door lock, the machine will also refuse to fill if it does not register a closed and locked lid, since that is a safety interlock required before any water enters.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Closed or partially open wall water valves** The hot and cold shutoff valves behind the washer must be turned fully open or the machine will receive weak or no flow.
@@ -54,7 +52,7 @@ The washer relies on line water pressure to push water through the inlet valve s
 
 Seeing a code on the display? These match this problem:
 
-- [Ge Washer E23 error code](/posts/ge-washer-e23-error-code/)
+- Ge Washer E23 error code
 
 ## When to Call a Pro
 

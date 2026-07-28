@@ -17,15 +17,12 @@ money_part: "LG dryer thermistor / temperature sensor"
 part_price: "$15-40"
 ---
 
-## LG Dryer E1 Error Code — What It Means
-
+## What this code means
 The tE1 error code (often written as TE1 or E1) on an LG dryer indicates a thermistor or temperature-sensing fault. The control board has detected a problem reading the temperature sensor and may stop the dryer from operating until the fault is cleared. LG support states that tE1 points specifically to a thermistor issue and recommends a power reset first. If the code returns after the reset, the unit likely needs repair service.
 
 ## Before You Replace Anything
 
 Many homeowners replace the main control board when the code persists, but a simple multimeter test of the thermistor (typically 10–50 kΩ at room temperature, though this varies by model) or a visual inspection of the sensor wiring connector usually reveals the real problem.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a technician if you are uncomfortable working with 240-volt power, if you cannot access or test the thermistor with a multimeter, or if the sensor and wiring both check good but the code returns. A qualified appliance technician has the model-specific wiring diagrams, resistance specifications, and board-level diagnostic tools to isolate a control board fault quickly. Also call for service if the dryer is still under warranty, since DIY repairs may void coverage.
 
 **Rough cost:** DIY runs about $15–40 in parts, 30–60 min. A pro service call runs about $150–250.
-
-## See Also
-
-- [LG Mini Split Not Cooling - Causes & Fix](/posts/lg-mini-split-not-cooling/)
-- [LG Refrigerator Freezing Food - Causes & Fix](/posts/lg-refrigerator-freezing-food/)
-- [LG Refrigerator EIU Error Code - Causes & Fix](/posts/lg-refrigerator-eiu-error-code/)
-- [LG Dryer Burning Smell - Causes & Fix](/posts/lg-dryer-burning-smell/)

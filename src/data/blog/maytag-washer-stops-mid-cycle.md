@@ -19,8 +19,6 @@ A Maytag washer that stops mid-cycle is a symptom, not a single error code. On f
 
 Without retrieving the stored code, the highest-probability causes are restricted draining, lid-lock or lid-switch problems, water supply interruptions, overloaded or unbalanced loads, and control-board or power glitches. Maytag's diagnostic path differs between front-load and top-load platforms, so identifying your model family is the first step before moving to component-level checks.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Drain path restriction** Kinked drain hose, clogged pump, blocked standpipe, or suds-related delay cause the washer to stop when it cannot empty in time, especially on front-load models where Maytag flags drain times over 8 minutes as F9 E1.

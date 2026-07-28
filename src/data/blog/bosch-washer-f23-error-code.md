@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Bosch Washer F23 Error Code — What It Means
-
+## What this code means
 The F23 error code (also displayed as E23 on some Bosch washers) indicates that the AquaStop leak-protection system has been triggered. Bosch uses this code to signal that the machine has detected a leak or flood condition in the base pan of the washer. When water accumulates in the base tray, a sensor or float activates the AquaStop system and the washer stops operating to prevent further water damage.
 
 Bosch instructs users not to operate the washer when E23 or F23 appears and to turn off the water supply immediately. The code means either an actual leak has occurred somewhere in the plumbing or internal components, or the leak sensor itself has malfunctioned and is falsely detecting water. Until the source of the leak is identified and repaired, or the faulty sensor replaced, the washer will remain in a locked-out state.
@@ -26,8 +25,6 @@ Bosch instructs users not to operate the washer when E23 or F23 appears and to t
 ## Before You Replace Anything
 
 Some people replace the control board or pump assembly first. Instead, inspect all hose connections and the detergent drawer for leaks and check the base pan for trapped water before replacing any expensive parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

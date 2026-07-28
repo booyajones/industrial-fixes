@@ -17,8 +17,7 @@ money_part: "Electronic Oven Control (EOC) / Main Control Board"
 part_price: "$100-250"
 ---
 
-## GE Range F1 Error Code — What It Means
-
+## What this code means
 On most GE ranges and ovens, the F1 error code indicates the electronic oven control has detected a fault in the keypad or control module itself. This is typically described as a shorted keypad or failed control board rather than a cooking or temperature problem. GE publishes limited public documentation on this code, and the exact meaning can vary by model, so always check your unit's tech sheet or service manual if available. In some models, F1 may be tied to a temperature sensor circuit issue, but that interpretation is less common and model-dependent.
 
 The code usually appears when a key on the touch panel is stuck or shorted, or when the main electronic oven control board has failed due to heat stress, moisture, or component degradation. Because the fault is in the control electronics rather than a sensor or heating element, the range may beep repeatedly or lock out oven functions until the problem is resolved.
@@ -26,8 +25,6 @@ The code usually appears when a key on the touch panel is stuck or shorted, or w
 ## Before You Replace Anything
 
 Homeowners sometimes replace the oven temperature sensor first, but F1 on GE ranges usually points to the control board or keypad assembly. Before ordering parts, disconnect the keypad from the board and retest to isolate which component is actually faulty.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

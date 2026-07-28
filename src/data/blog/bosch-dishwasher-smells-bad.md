@@ -19,8 +19,6 @@ A bad smell in a Bosch dishwasher is not an error code or electronic fault. It i
 
 Because the machine recirculates water during the wash cycle, any organic matter or standing water left behind can generate odor over time. The smell may be food-related, musty, or in some cases sewer-like if there is a plumbing or backflow problem.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty filter and trapped food debris** Bosch identifies this as the primary cause, since particles accumulate at the bottom of the tub and decompose between cycles.

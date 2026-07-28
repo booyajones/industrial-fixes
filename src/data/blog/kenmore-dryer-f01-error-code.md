@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Dryer F01 Error Code — What It Means
-
+## What this code means
 The F01 error code on a Kenmore dryer indicates that the electronic machine control board has failed or is not reading correctly. This fault can be triggered by a board defect, a logic glitch, or a power disturbance. The code points directly to the control board itself, not to sensors or other components.
 
 While some online sources claim F01 means a thermistor failure, the better-supported evidence for Kenmore and Whirlpool-style dryers ties F01 specifically to the main control board. The failure may result from a damaged relay, cracked solder joint, burned trace on the board, or a temporary corruption from a power surge. In some cases a loose wiring connection or neutral issue can also trigger the code, but the board is the primary suspect.
@@ -26,8 +25,6 @@ While some online sources claim F01 means a thermistor failure, the better-suppo
 ## Before You Replace Anything
 
 Some people replace the thermal fuse or thermistor first, but F01 on Kenmore dryers points to the control board itself. Power-cycle the dryer and inspect the board and connectors before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

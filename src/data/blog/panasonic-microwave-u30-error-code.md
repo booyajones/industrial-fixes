@@ -14,11 +14,8 @@ money_part: "Control panel assembly"
 most_likely_cause: "Stored cook time set too high"
 ---
 
-## Panasonic Microwave U30 Error Code — What It Means
-
+## What this code means
 The U30 error code on Panasonic commercial and high-speed microwaves indicates that the programmed memory cooking time is too long for the selected Double Quantity or Triple Quantity setting. This is not a hardware failure. It is a programming limit violation that occurs when a stored cook time exceeds the maximum allowed under quantity multiplier operation. Panasonic defines U30 as 'Memory cooking has exceeded the maximum time during Double Quantity and Triple Quantity Settings.' The microwave will not run until you correct the programmed time to fall within the model's limits.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -17,15 +17,12 @@ money_part: "Oven Temperature Sensor (RTD Sensor)"
 part_price: "$25-80"
 ---
 
-## GE Oven F20 Error Code — What It Means
-
+## What this code means
 The GE F2 or F20 error code means the control has detected that the oven temperature has exceeded a preset threshold. GE groups F2 and F20 together for this condition, stating that for an unknown reason the oven temperature has exceeded a safe limit. The code does not always mean the oven cavity truly reached a dangerous temperature. Often the control board is reading incorrect data from a failed sensor or a relay has stuck closed and kept the heating element powered when it should have shut off.
 
 ## Before You Replace Anything
 
 Many people replace the main control board first when the real fault is the inexpensive oven temperature sensor. Always test the sensor resistance with a multimeter before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

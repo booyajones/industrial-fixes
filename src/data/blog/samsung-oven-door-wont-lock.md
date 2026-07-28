@@ -20,8 +20,6 @@ When your Samsung oven door won't lock, the range is detecting a door or latch s
 
 If the latch does not engage the top door catch correctly, it can remain stuck in the locked position and the door may not close completely. If the oven is still hot or has just finished a high-heat or self-clean cycle, the lock may not release until the unit cools down. The problem can be mechanical (something blocking the door, hinges out of position, latch stuck) or electrical (faulty lock motor, plunger switch not being read, wiring issue, or control-board fault).
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Latch stuck in the locked position** The latch mechanism has remained engaged even though the door is open, preventing normal closure and locking.

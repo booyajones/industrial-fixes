@@ -19,8 +19,6 @@ When the turntable in your LG microwave stops rotating, the drive path between t
 
 LG points to a small set of mechanical issues first. The glass plate must lock onto the coupler and sit flat on the roller guide. If either part is damaged, worn, or blocked by debris, the tray won't turn. In a smaller number of cases, the motor has stopped working or the control board is not sending power to the motor.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Mis-seated or upside-down glass tray** The tray is not fully engaged on the coupler shaft or is installed incorrectly.
@@ -71,10 +69,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 If you have cleaned, reinstalled all parts correctly, and replaced the coupler and roller guide but the tray still does not turn, the turntable motor or control board is likely at fault. Motor replacement requires accessing the bottom of the microwave and working around high-voltage components. If you are not comfortable with that work or if the motor tests good but still does not receive power, contact an LG-authorized service technician for diagnosis and board-level repair.
-
-## See Also
-
-- [LG Washer E21 Error Code - Causes & Fix](/posts/lg-washer-e21-error-code/)
-- [LG Oven Self-Clean Not Working - Causes & Fix](/posts/lg-oven-self-clean-not-working/)
-- [LG Mini-Split CH24 Error - Causes & Fix](/posts/lg-mini-split-ch24-error-code/)
-- [LG Washer dE2 Error Code - Causes & Fix](/posts/lg-washer-de2-error-code/)

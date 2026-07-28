@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Danfoss FC302 AL-69 — What It Means
-
+## What this code means
 Alarm 69 on a Danfoss FC302 VFD indicates a power card temperature fault. The temperature sensor on the power card (also called the power board) has detected a value outside the safe operating range, either too hot or too cold. This is an alarm signaling that the drive's thermal protection system is active due to sensor data.
 
 In the FC302 series, this sensor is physically located on the power card near the heatsink to monitor the temperature of the power electronics. The alarm can trigger if the drive is overheating due to blocked airflow, a failed cooling fan, or excessive ambient temperature. In rare cases it can also occur if the ambient temperature is extremely cold or if the sensor itself has failed.
@@ -29,8 +28,6 @@ In the FC302 series, this sensor is physically located on the power card near th
 ## Before You Replace Anything
 
 Technicians sometimes replace the power card before checking the cooling fan and cleaning the heatsink. Always verify the fan spins and airflow is clear before ordering a new power card.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a qualified technician if you are not comfortable working with variable frequency drives or high-voltage equipment. A professional should handle replacement of the power card, diagnostics of the temperature sensor, or any work that requires disassembly of the drive's internal components. If the alarm persists after cleaning filters and replacing the cooling fan, advanced diagnostics and testing of the power card are required. Professional service is also recommended if the drive is part of a critical industrial process where downtime must be minimized.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Danfoss VFD Fault Codes — FC301, FC302, FC102 Reference](/posts/danfoss-vfd-fault-codes/)
-- [Danfoss FC302 AL-83 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-83-fault-code/)
-- [Danfoss FC302 Alarm 31 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-31-fault-code/)
-- [Danfoss FC302 VFD Alarm 16 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-16-fault-code/)

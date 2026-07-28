@@ -20,8 +20,6 @@ When you hear clicking but the oven or burner won't light, the spark igniter is 
 
 If your range has a downdraft ventilation system, excessive blower speed can actually pull the flame away from the igniter or destabilize the gas cloud before it lights. The clicking tells you the spark module is trying, but something is blocking gas delivery, fouling the ignition path, or disrupting the flame cone.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Gas supply shutoff closed or line contains air** Maytag lists gas supply interruption as the top reason for clicking with no ignition, especially after a power failure or reconnection when air enters the line.

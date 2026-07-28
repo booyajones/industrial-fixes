@@ -17,15 +17,12 @@ money_part: "Touchpad membrane or control panel assembly"
 part_price: "$30-90"
 ---
 
-## Samsung Microwave SE Error Code — What It Means
-
+## What this code means
 Samsung SE is a Key Short Error. The control system has detected that one or more keypad inputs are being held closed or misread as closed, so the microwave stops normal operation as a safety measure. The code does not point to the magnetron or high-voltage section. Instead it signals a problem in the control keypad, the flat ribbon cable that connects the keypad to the main board, or the control board itself. In the field this is most often caused by a dirty, loose, or damaged ribbon connection rather than an actual stuck button.
 
 ## Before You Replace Anything
 
 Many people replace the main control board first when the real fault is a dirty or broken ribbon connector or a failed touchpad membrane. Always unplug the keypad ribbon and test whether the SE code disappears before ordering expensive boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

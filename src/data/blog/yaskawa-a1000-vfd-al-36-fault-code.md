@@ -21,15 +21,12 @@ part_price: "$200-600 depending on option card type"
 no_buy_pct: "40%"
 ---
 
-## Yaskawa A1000 AL-36 Fault — What It Means
-
+## What this code means
 AL-36 does not appear in any Yaskawa A1000 documentation as a defined fault code. If your display shows oFA36, the drive has detected an option card connection error. The digital communication link between the main control board and the installed option card (network module, remote I/O, or encoder interface) is broken or unreliable. If your display truly shows AL-36 (not oFA36), it may be a misread display, a custom PLC error, or a fault from a third-party add-on. Confirm the exact characters on the operator panel and consult the technical manual for your specific A1000 model before proceeding.
 
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive when the fault is simply a loose option card. Power down, reseat the card firmly, and test before ordering expensive hardware.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or controls technician if you are not trained to work on VFDs. This fault involves live high-voltage components and requires familiarity with drive internals, proper lockout/tagout procedures, and option card firmware. A technician can safely diagnose whether the fault is a loose card, a damaged connector, or a failed control board, and can verify firmware compatibility and network settings. If the drive slot is damaged or the fault persists with multiple cards, the control board or entire drive may need replacement, which requires factory programming and commissioning.
 
 **Rough cost:** A pro service call runs about $150-400 for option card replacement and testing.
-
-## See Also
-
-- [Yaskawa GA800 F015 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f015-fault-code/)
-- [Yaskawa CPF39 VFD - Causes & Fix](/posts/yaskawa-ga800-vfd-f039-fault-code/)
-- [Yaskawa GA800 Uv1 Fault — DC Undervoltage Fix](/posts/yaskawa-ga800-error-uv1/)
-- [Yaskawa GA800 E61 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e61-fault-code/)

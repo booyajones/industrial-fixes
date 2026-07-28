@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Samsung microwave humidity sensor"
 ---
 
-## Samsung Microwave E-62 Error — What It Means
-
+## What this code means
 The E-62 code on a Samsung microwave indicates the control board has detected a short condition in the humidity-sensing circuit. This is not a door-switch, voltage, or demo-mode problem. Samsung specifically classifies E-62 as a humidity sensor short. The microwave will usually not operate until the fault is cleared.
 
 The error points to one of three components: the humidity sensor itself, the wiring or connector between the sensor and the control board, or the main control board misreading the sensor circuit. Moisture intrusion, corrosion, or physical damage anywhere in this circuit can trigger the code.
@@ -25,8 +24,6 @@ The error points to one of three components: the humidity sensor itself, the wir
 ## Before You Replace Anything
 
 Many people replace the main control board first when E-62 appears. Inspect the humidity sensor and its wiring for moisture, corrosion, or pinched wires before ordering a board, since the sensor and harness fail far more often.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -17,8 +17,7 @@ money_part: "Maytag washer dispenser motor assembly"
 part_price: "$15-40"
 ---
 
-## Maytag F8E2 Error Code — What It Means
-
+## What this code means
 The F8E2 error code on Maytag top-load washers indicates a bulk dispenser fault. The control has detected a problem with the bulk detergent dispenser system. This code appears when the washer cannot properly manage the bulk dispenser, typically because the dispenser is empty, installed incorrectly, or clogged with detergent residue.
 
 Maytag's product-help documentation confirms that F8E2 is specific to models equipped with a bulk detergent dispenser feature. The error does not relate to water supply or fill issues (that would be F8E1 on Maytag washers). The fault triggers when the control board cannot verify proper dispenser operation during a wash cycle.
@@ -26,8 +25,6 @@ Maytag's product-help documentation confirms that F8E2 is specific to models equ
 ## Before You Replace Anything
 
 Homeowners sometimes order a new control board when F8E2 appears, but the fault is almost always mechanical. Check that the bulk dispenser has detergent, is fully seated in its holder, and is not clogged before replacing any electrical parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

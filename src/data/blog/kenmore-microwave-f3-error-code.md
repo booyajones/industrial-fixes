@@ -17,8 +17,7 @@ likelihood: "the most common causes"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Microwave F3 Error Code — What It Means
-
+## What this code means
 F3 on a Kenmore microwave does not have a single universal meaning because Kenmore-branded microwaves were built by multiple manufacturers. On GE-style Kenmore units, F3 indicates a shorted keypad or membrane switch problem. On other Kenmore platforms, F3 points to a thermistor or temperature-sensor fault, specifically a thermistor that stays hot or shows a short after cooking ends. The exact interpretation depends on the OEM family behind your model number, so always check your owner's manual or wiring diagram to confirm which fault applies to your specific unit.
 
 Because the fault code maps to different components on different platforms, the repair path splits into two tracks. If your model uses the keypad interpretation, the controller sees a stuck or shorted button signal. If your model uses the thermistor interpretation, the controller sees abnormal temperature readings from the sensor probe. Identifying the correct OEM family from the full Kenmore model number is the essential first step before ordering parts.
@@ -26,8 +25,6 @@ Because the fault code maps to different components on different platforms, the 
 ## Before You Replace Anything
 
 Many people replace the main control board first without testing the keypad or thermistor. On keypad-style F3 models, inspect the membrane overlay and ribbon connector for moisture or damage. On thermistor-style F3 models, measure the thermistor resistance (typically 1.0-1.1 kΩ at room temperature) before condemning the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

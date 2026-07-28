@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "LG washer thermistor / temperature sensor"
 ---
 
-## LG Washer tE Error Code — What It Means
-
+## What this code means
 The tE error code on an LG washer indicates a heating or temperature-sensing fault. LG's published error list states the code is usually caused by a faulty thermistor. In practical terms, the washer cannot read water temperature correctly, so the control board stops the cycle to prevent incorrect heating or damage.
 
 The fault can stem from a failed thermistor (temperature sensor), loose or damaged wiring in the heater and sensor circuit, a failed heater element, or less commonly a main control board that is not interpreting the sensor signal correctly. LG's official first response is to unplug the washer for 10 seconds, restore power, and restart the cycle. If the code persists, close the water taps, drain the washer if needed, and call for service.
@@ -25,8 +24,6 @@ The fault can stem from a failed thermistor (temperature sensor), loose or damag
 ## Before You Replace Anything
 
 Homeowners often replace the main control board when the real problem is a failed thermistor or damaged wiring. Test the thermistor with a multimeter and inspect all connectors before replacing any electronic boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

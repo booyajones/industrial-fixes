@@ -21,8 +21,7 @@ part_price: "$150-250 for MCB 112 card"
 no_buy_pct: "40%"
 ---
 
-## Danfoss FC302 VFD AL-70 Fault — What It Means
-
+## What this code means
 Alarm 70 on the Danfoss FC302 VFD indicates PTC 1 Safe Stop, meaning the motor has overheated and the VLT PTC Thermistor Card (MCB 112) has activated the Safe Torque Off (STO) function to prevent damage. The alarm triggers when the motor temperature exceeds the safe limit detected by the PTC (Positive Temperature Coefficient) thermistor embedded in the motor windings.
 
 Once the digital input from the MCB 112 card is deactivated (meaning the motor temperature drops to an acceptable level), the drive can be reset via bus, digital I/O, or the Reset key on the LCP. The fault is a protective measure to avoid motor burnout and requires both cooling and troubleshooting before restart.
@@ -30,8 +29,6 @@ Once the digital input from the MCB 112 card is deactivated (meaning the motor t
 ## Before You Replace Anything
 
 Technicians sometimes replace the MCB 112 card first. Before ordering a new card, measure the motor thermistor resistance when cool (should be under 150 Ω) and inspect wiring for loose connections or shorts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -80,10 +77,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or VFD technician if you are not trained to work with industrial drives and motor controls. The repair requires interpreting digital inputs, testing thermistor circuits, and configuring drive parameters. If the motor itself is overheating due to mechanical or electrical faults (bearing failure, rotor issues, phase imbalance), a motor specialist should diagnose and repair the root cause. High-voltage work and drive parameter changes should only be performed by personnel familiar with Danfoss VFD operation and safety lockout procedures.
 
 **Rough cost:** A pro service call runs about $200-500 for diagnostics, thermistor replacement, or MCB 112 card swap.
-
-## See Also
-
-- [Danfoss FC302 ALARM 15 - Causes & Fix](/posts/danfoss-fc302-alarm-15-fault-code/)
-- [Danfoss FC302 ALARM 45 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-45-fault-code/)
-- [Danfoss FC302 Alarm 51 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-51-fault-code/)
-- [Danfoss FC302 VFD AL-109 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-109-fault-code/)

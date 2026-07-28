@@ -17,8 +17,7 @@ money_part: "Whirlpool oven electronic control board"
 part_price: "$150-350"
 ---
 
-## Whirlpool Oven F1 E0 Error Code — What It Means
-
+## What this code means
 Whirlpool's F1 E0 code on ovens and ranges indicates a possible problem with the oven control or its associated wiring. The code points to a communication or hardware failure somewhere in the control system rather than a cooking sensor or heating element issue.
 
 In field practice the fault usually involves the electronic control board, the touch panel or keypad assembly, or the ribbon cable and wiring harness that connects them. A power reset clears the code temporarily if the problem is intermittent, but the code returns immediately when a component has failed. Because Whirlpool uses similar code families across ovens, ranges, and cooktops with different meanings, always verify your appliance type and consult your model's technical sheet or wiring diagram for the exact definition.
@@ -26,8 +25,6 @@ In field practice the fault usually involves the electronic control board, the t
 ## Before You Replace Anything
 
 Homeowners sometimes replace the touch panel first when the main control board is actually at fault. Always reseat the ribbon cable and check for visible damage before ordering parts, since a loose connector can mimic a board failure.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

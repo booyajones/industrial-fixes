@@ -14,11 +14,8 @@ money_part: "Power PCB / inverter power board"
 most_likely_cause: "Power surge or electrical event"
 ---
 
-## Panasonic H98 Error Code — What It Means
-
+## What this code means
 The H98 code on Panasonic inverter microwaves signals a failure in the high-voltage or power section of the unit. According to Panasonic support documentation, this fault commonly appears after a power surge or when the Power PCB (inverter power board) or magnetron has failed. When H98 is displayed, the microwave will stop heating and lock out operation to protect the unit from further damage. This is not a user-serviceable reset message but a hardware fault in the heating system.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

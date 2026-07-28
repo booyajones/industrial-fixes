@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "LG dryer humidity sensor assembly"
 ---
 
-## LG Dryer HS Error Code — What It Means
-
+## What this code means
 The HS code on an LG dryer indicates the control has detected an error with the humidity sensor system. When this code appears, the dryer may continue running for about 2.5 hours, which can make it look like the dryer is not drying normally. The humidity sensor uses metal bars inside the drum to detect moisture in the load and determine when clothes are dry. When the sensor cannot read moisture correctly, the control flags HS and defaults to a timed cycle.
 
 LG describes this as a humidity sensor circuit fault, not a general heating or airflow problem. The sensor bars are located inside the drum just below the lint filter opening. They rely on good electrical contact through moisture in the fabric to signal the control. Any residue or film on those bars will block the signal and trigger the code.
@@ -25,8 +24,6 @@ LG describes this as a humidity sensor circuit fault, not a general heating or a
 ## Before You Replace Anything
 
 Homeowners sometimes replace the entire humidity sensor assembly or even the main control board when the real fix is simply cleaning the sensor bars with a damp cloth. Always clean the bars and perform a power reset before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a professional if the HS code returns after you have cleaned the sensor bars and completed a full power reset. Persistent HS indicates a failed sensor assembly, damaged wiring, or a faulty control board. A technician will use a multimeter to test sensor continuity and resistance, inspect the harness connector for corrosion, and verify the control board input circuit. If you are uncomfortable removing panels, handling 240V connections, or interpreting wiring diagrams, schedule service rather than guessing at part replacement. LG states that dryers displaying HS after basic cleaning and reset steps require professional repair.
 
 **Rough cost:** DIY runs about $0-15 in cleaning supplies, 15-30 min. A pro service call runs about $100-200 service call if sensor assembly or wiring needs replacement.
-
-## See Also
-
-- [LG Mini-Split CH34 Error Code — Causes & Fix](/posts/lg-mini-split-ch34-error-code/)
-- [LG Washer Error Codes — Complete Fix Guide](/posts/lg-washer-error-codes/)
-- [LG Range E2 Error Code - Causes & Fix](/posts/lg-range-e2-error-code/)
-- [LG Microwave Runs but No Heat - Causes & Fix](/posts/lg-microwave-runs-but-no-heat/)

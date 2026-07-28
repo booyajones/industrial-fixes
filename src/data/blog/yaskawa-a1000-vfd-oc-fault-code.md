@@ -15,8 +15,7 @@ likelihood: "the most common causes"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 oC Fault — What It Means
-
+## What this code means
 The oC fault on a Yaskawa A1000 means the drive detected overcurrent at the output. The output current exceeded the drive's overcurrent detection limit. This is a current-protection trip that can happen during acceleration, deceleration, constant-speed operation, or from a faulted output stage.
 
 When the drive trips with no motor connected, the fault points to internal IGBT shorts or a faulty gate-driver circuit causing spurious transistor firing. With the motor attached, the fault usually comes from a mechanical overload, motor cable short, ground fault, or incorrect motor parameters forcing the drive to push too much current.
@@ -24,8 +23,6 @@ When the drive trips with no motor connected, the fault points to internal IGBT 
 ## Before You Replace Anything
 
 Technicians sometimes replace the drive when the real problem is a shorted motor cable or seized load. Always test with the motor disconnected and inspect cable insulation before ordering new IGBT modules.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a professional when the fault persists with the motor disconnected, indicating an internal drive failure that requires IGBT module or gate-driver repair. Also call a pro if you lack the tools to safely megger motor cables and windings, or if the mechanical load is part of a production line or safety-critical system. High-voltage DC bus capacitors and IGBT power stages carry lethal voltage even after input power is removed, so drive-internal repairs must be performed by trained technicians with proper lockout and discharge procedures.
 
 **Rough cost:** A pro service call runs about $200-800 for cable replacement or motor repair; $1,500-3,000+ for drive output-stage replacement.
-
-## See Also
-
-- [Yaskawa GA800 A.102 Alarm - Causes & Fix](/posts/yaskawa-ga800-vfd-a-102-fault-code/)
-- [Yaskawa GA800 VFD A.113 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-113-fault-code/)
-- [Yaskawa GA800 E29 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e29-fault-code/)
-- [Yaskawa GA800 E61 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e61-fault-code/)

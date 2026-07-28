@@ -21,8 +21,7 @@ part_price: "$40-80"
 no_buy_pct: "30%"
 ---
 
-## Danfoss FC302 AL-89 Fault — What It Means
-
+## What this code means
 AL-89 is an Internal Fan Fault on the Danfoss FC302 VFD. The drive has detected that one or more cooling fans are not spinning, are blocked, or have failed electrically. These fans are critical for keeping the power stage and IGBTs cool during operation. If the alarm is ignored, the drive will overheat and may shut down or sustain permanent damage to its components.
 
 The fault is typically triggered by a fan motor that has burned out, heavy dust accumulation on the heatsink or fan blades, a loose wire between the control card and the fan, or ambient temperature exceeding the drive's rating. The drive monitors fan speed or supply voltage, and when it falls outside normal range the AL-89 alarm is posted.
@@ -30,8 +29,6 @@ The fault is typically triggered by a fan motor that has burned out, heavy dust 
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire control board when the fault is only a dead fan or a loose fan connector. Always measure voltage at the fan terminals and test fan resistance before ordering a control card.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician for AL-89 faults. Working inside a variable-frequency drive requires understanding of high-voltage DC bus capacitors, which can hold lethal charge even after AC power is removed. The technician will use a voltmeter to verify safe discharge, test the fan supply, and replace the fan or control board as needed. If your facility does not have personnel trained on VFD servicing, hire a local automation or motor-control shop rather than attempting the repair yourself.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Danfoss FC302 ALARM 15 - Causes & Fix](/posts/danfoss-fc302-alarm-15-fault-code/)
-- [Danfoss FC302 AL-67 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-67-fault-code/)
-- [Danfoss FC302 AL-112 - Causes & Fix](/posts/danfoss-fc302-vfd-al-112-fault-code/)
-- [Danfoss FC302 ALARM 31 - Causes & Fix](/posts/danfoss-fc302-alarm-31-fault-code/)

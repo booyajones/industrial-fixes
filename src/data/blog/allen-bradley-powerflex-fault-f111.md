@@ -13,11 +13,8 @@ money_part: "Dynamic brake resistor"
 most_likely_cause: "Over-speed trip level set too low"
 ---
 
-## Allen-Bradley PowerFlex Fault F111 — What It Means
-
+## What this code means
 Allen-Bradley PowerFlex fault F111 is a **Motor Over Speed** fault — the drive detected that the motor exceeded the maximum allowable speed limit as defined by the over-speed parameter. On PowerFlex 40, 70, 700, and 755 series drives, the motor speed is monitored continuously; if it goes beyond the programmed over-speed threshold (typically set as a percentage above maximum frequency), F111 trips the drive to protect the motor and driven equipment from mechanical damage at excessive speeds.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Allen-Bradley PowerFlex fault F111 is a **Motor Over Speed** fault — the drive
 ## When to Call a Pro
 
 If F111 occurs during a genuine runaway condition (the motor is physically overspeeding beyond control), stop the machine immediately using the E-stop. A controls engineer must investigate the mechanical brake system and process control logic before restarting.
-
-## Related Articles
-
-- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
-- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
-- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
-- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)
-- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)
-
-## See Also
-
-- [Allen-Bradley PowerFlex F091 Fault — Encoder Loss Fix](/posts/allen-bradley-powerflex-f091-fault/)
-- [Allen-Bradley PowerFlex 755 Power Loss Fault Fix](/posts/allen-bradley-powerflex-755-power-loss-fault/)
-- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)
-- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)

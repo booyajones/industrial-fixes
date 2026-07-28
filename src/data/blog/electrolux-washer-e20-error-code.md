@@ -22,15 +22,12 @@ part_price: "$40-80"
 no_buy_pct: "70%"
 ---
 
-## Electrolux E20 Error Code — What It Means
-
+## What this code means
 The E20 code on an Electrolux washing machine indicates a draining or pumping fault. The appliance has detected that water is not leaving the tub properly. Electrolux groups E20, E21, and C2 together under drainage problems in their support documents. The machine may not be able to empty because of a blocked drain pipe, clogged filter, kinked hose, or a defective drain pump. In some Electrolux washer-dryer models, E20 or C2 is specifically described as a pumping problem.
 
 ## Before You Replace Anything
 
 Many people replace the drain pump when the real problem is a blocked filter or a foreign object trapped in the sump path between the tub and pump. Always clean the filter and inspect the internal hoses and impeller for debris before ordering a new pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

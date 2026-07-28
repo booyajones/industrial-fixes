@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Dryer F70 Error Code — What It Means
-
+## What this code means
 The F70 code on an Amana dryer signals a communication error between the user interface console and the main control board. Amana's own product help documentation identifies this as a control system fault that should first be cleared by a full power reset. The code does not refer to airflow or lint blockage. The dryer's internal electronics have lost the ability to pass messages between the front console and the main board, which prevents normal operation.
 
 This failure usually stems from a loose or corroded wiring harness connector, a failed console board, or a failed main control board. It can appear after moving the dryer, after a power surge, or simply from connector oxidation over time. The recommended first step is always to disconnect power at the breaker for at least one minute, restore power, and run a timed-dry cycle to see whether the code returns.
@@ -26,8 +25,6 @@ This failure usually stems from a loose or corroded wiring harness connector, a 
 ## Before You Replace Anything
 
 Many people replace the main control board first when the real fault is a poor connection at the wire harness. Always reseat and inspect every connector between the console and main board before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

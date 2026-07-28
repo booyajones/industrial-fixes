@@ -16,8 +16,6 @@ tags:
 
 Air compressor fault codes vary by brand, but the root causes are usually familiar: high discharge temperature, low oil pressure, motor overload, sensor failure, or drive faults. This page is a hub designed to help technicians narrow the problem before diving into the model-specific manual.
 
-[Jump to Fix](#fix)
-
 ## Common Air Compressor Fault Categories
 
 | Fault Type | Typical Meaning |
@@ -59,14 +57,6 @@ Air compressor fault codes vary by brand, but the root causes are usually famili
 
 If the compressor shows repeated airend, oil pressure, or drive faults, stop resetting it and bring in a compressed air technician. Running a screw compressor through repeated trips can turn a manageable repair into a full airend failure.
 
-## Related Articles
-
-- [Atlas Copco Air Compressor Fault Codes — Complete Guide](/posts/atlas-copco-compressor-fault-codes/)
-- [BOGE Air Compressor Error Codes - Complete Guide](/posts/boge-compressor-error-codes/)
-- [Chicago Pneumatic Compressor Fault Codes — Complete Guide](/posts/chicago-pneumatic-compressor-faults/)
-- [CompAir Air Compressor Fault Codes - Complete Guide](/posts/compair-compressor-fault-codes/)
-- [Copeland Compressor Error Code 1 — High Pressure Cutout Fix](/posts/copeland-compressor-error-code-1/)
-
 ## More Air Compressor fault codes
 
 Compiled from manufacturer service manuals and authorized documentation.
@@ -86,7 +76,6 @@ Compiled from manufacturer service manuals and authorized documentation.
 | 0x1111 | Atlas Copco GA VSD (Neos drive) Main Motor Converter Alarm: Undervoltage. | Main power-supply voltage too low or missing links in the control panel. | Check the main supply voltage against specification and inspect panel fuses and control-panel links/connectors. |
 | 0x2312 | Atlas Copco GA VSD (Neos drive) Main Motor Converter Alarm: Motor Overcurrent (overcurrent detected at motor side). | Overcurrent on the motor side of the converter, often loose control connectors or a drive/motor fault. | Check for loose connectors at the converter control unit and the Elektronikon, and inspect the motor and drive. |
 
-
 ## How to troubleshoot Air Compressor
 
 ## How to diagnose an air compressor fault the right way
@@ -104,7 +93,6 @@ Rotary screw and reciprocating compressors trip for a small number of recurring 
 **5. Respect motor and drive trips.** An overload or converter fault (overcurrent, undervoltage) can come from supply voltage/phase imbalance, loose connectors, a clogged separator loading the airend, or bearing wear. Fix the root cause and reset the overload; do not jumper it out.
 
 **Safety and when to call a pro.** Always lock out and de-pressurize before opening panels or the separator tank. Stop resetting repeated airend, low-oil-pressure, or drive faults. Running a screw compressor through repeated high-temperature or overload trips can turn a manageable repair into a full airend or motor failure, so bring in a qualified compressed-air technician for anything involving the airend, motor windings, VFD internals, or the pressure vessel.
-
 
 ## Frequently asked questions
 
@@ -127,4 +115,3 @@ Basic checks are DIY: oil level, filters, coolers, ventilation, supply voltage, 
 ### Is a temperature or pressure fault always a real mechanical failure?
 
 No. Many trips are bad sensor feedback rather than a true failure. If a reading is out of range or implausible (for example an IR ERR.01 pressure-sensor fault, where the signal is outside 3.5-21.8 mA), check the transducer and its wiring against an independent gauge before replacing expensive mechanical parts.
-

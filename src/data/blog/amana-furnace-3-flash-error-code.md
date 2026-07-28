@@ -13,11 +13,8 @@ money_part: "Inducer motor run capacitor"
 most_likely_cause: "Clogged condensate drain"
 ---
 
-## Amana Furnace 3 Flash Error Code — What It Means
-
+## What this code means
 Three flashes on an Amana furnace LED indicates a draft pressure fault — the pressure switch did not close during the induced draft motor startup sequence. Amana is a Daikin brand and shares controls with Goodman, so the diagnostic logic is identical across those platforms. The 3-flash code appears before any ignition attempt because the board requires proof of draft before allowing the gas valve to open. The pressure switch physically measures the difference in air pressure between the inlet and the vent outlet; if the draft motor isn't moving enough air, the switch stays open.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,11 +42,3 @@ Three flashes on an Amana furnace LED indicates a draft pressure fault — the p
 ## When to Call a Pro
 
 If all mechanical components check out but the 3-flash code persists, a tech should use a manometer to verify actual system pressure against the switch rating. Wrong-rated pressure switches will produce this fault indefinitely.
-
-## Related Articles
-
-- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
-- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
-- [Armstrong Furnace E4 Error Code — Causes & Fix](/posts/armstrong-furnace-e4-error-code/)

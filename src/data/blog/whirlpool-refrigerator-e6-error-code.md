@@ -17,8 +17,7 @@ money_part: "Whirlpool refrigerator user interface / display board"
 part_price: "$50-180"
 ---
 
-## Whirlpool Refrigerator E6 Error Code — What It Means
-
+## What this code means
 The E6 or F6 code on a Whirlpool refrigerator signals a communication error between the main control board and the user interface or display board. The appliance controls are not talking to each other correctly. This is not a thermistor or damper fault, despite what some generic websites claim. The refrigerator may still cool, or it may shut down depending on how the control system handles the fault.
 
 The code can appear after a power interruption, a door that was left open, or a wiring connection that has worked loose over time. It does not point to a refrigeration-circuit failure. Instead, the fault is in the control electronics, their wiring, or a door-sensor input that feeds the control logic.
@@ -26,8 +25,6 @@ The code can appear after a power interruption, a door that was left open, or a 
 ## Before You Replace Anything
 
 Many people replace the main control board first when the real problem is a loose harness connector or a faulty user interface board. Always inspect and reseat every connector between the boards and perform a hard power reset before ordering any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

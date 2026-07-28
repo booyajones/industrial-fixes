@@ -13,13 +13,10 @@ money_part: "Siemens G120 Control Unit (CU)"
 most_likely_cause: "Mismatch in the safety monitoring chain"
 ---
 
-## Siemens G120 F01611 — What It Means
-
+## What this code means
 F01611 on a Siemens SINAMICS G120 indicates a defect in a monitoring channel or a safety-related discrepancy fault. The drive has detected a mismatch or failure in one of its internal safety monitoring paths. This is not a simple motor overload or power stage trip. Instead, the inverter's safety functions have flagged an inconsistency between redundant monitoring channels or a fault in the safety-integrated circuitry.
 
 Siemens documentation ties this fault to discrepancies in the safety chain and notes that the exact subtype is stored in parameter r0949. The fault value in r0949 tells you which monitoring channel or safety function is affected. You must identify and eliminate the discrepancy before the drive will acknowledge the fault and allow a restart.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ Siemens documentation ties this fault to discrepancies in the safety chain and n
 ## When to Call a Pro
 
 Call a qualified Siemens integrator or automation technician if you are not trained in Safety Integrated commissioning or if r0949 shows a fault value you cannot interpret from the Siemens list manual. Safety-related faults require knowledge of failsafe wiring standards, safety-function configuration, and acceptance testing. If you have replaced the Control Unit or Power Module and F01611 returns immediately, the problem may involve firmware mismatch, incorrect safety-parameter cloning, or a more complex internal communication fault that needs factory support or an authorized service center.
-
-## See Also
-
-- [Siemens SINAMICS G120 F30002 Fault — DC Link Overvoltage Fix](/posts/siemens-sinamics-f30002-fault/)
-- [Siemens G120 F01650 - Causes & Fix](/posts/siemens-g120-f01650-fault-code/)
-- [Siemens SINAMICS G120 VFD Complete Setup and Fault Code Guide](/posts/siemens-sinamics-g120-complete-guide/)
-- [Siemens G120 A05006 - IGBT Overtemperature Warning & Fix](/posts/siemens-g120-a05006-fault-code/)

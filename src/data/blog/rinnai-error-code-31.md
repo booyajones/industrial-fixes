@@ -13,11 +13,8 @@ money_part: "Combustion chamber / burner temperature sensor"
 most_likely_cause: "Failed temperature sensor (open circuit)"
 ---
 
-## Rinnai Error Code 31 — What It Means
-
+## What this code means
 Rinnai error code 31 indicates a burner sensor (combustion chamber sensor or heat exchanger outlet temperature sensor) fault. The sensor is reading a temperature outside the valid operating range — either excessively high, below the ambient-realistic minimum, or a full open/short circuit. Rinnai uses this sensor to modulate the gas valve and protect the heat exchanger from overheat. When the sensor reading is implausible, the unit shuts down to prevent uncontrolled operation. Error 31 is common on older units where sensor leads become brittle and cracked.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Rinnai error code 31 indicates a burner sensor (combustion chamber sensor or hea
 ## When to Call a Pro
 
 If the sensor replacement clears the error but it returns after a few cycles, the heat exchanger may have significant scale buildup causing repeated overheat trips. A licensed technician can perform a full flush and combustion analysis to confirm the heat exchanger is functioning correctly.
-
-## Related Articles
-
-- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
-- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
-- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
-- [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
-- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)
-
-## See Also
-
-- [Rinnai Error Code 61 — Causes & Fix](/posts/rinnai-error-code-61/)
-- [Rinnai Error Code 33 — Causes & Fix](/posts/rinnai-error-code-33/)
-- [Rinnai Error Code 25 — Causes & Fix](/posts/rinnai-error-code-25/)
-- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)

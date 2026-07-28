@@ -71,15 +71,8 @@ If J3 is caused by an actual elevated discharge temperature (not just a sensor f
 
 - [Daikin H6 Error Code — Indoor Fan Motor Lock Fault](/posts/daikin-h6-error-code/)
 - [Daikin F3 Error Code — Discharge Pipe Temperature High](/posts/daikin-f3-error-code/)
-- [Daikin U4 Error Code — Communication Fault](/posts/daikin-u4-error-code/)
+- Daikin U4 Error Code — Communication Fault
 - [All Daikin Mini-Split Error Codes](/posts/daikin-mini-split-error-codes/)
 
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [Rheem EcoNet A101 error code fix](/posts/rheem-econet-a101-error-code/)
-
-## See Also
-
-- [Daikin L5 Error Code — Compressor Lock Fix](/posts/daikin-error-code-l5/)
-- [Daikin VRV / VRF U4 Error Code — Communication Fault Fix](/posts/daikin-vrv-vrf-u4-error-code/)
-- [Daikin RXQ VRV System Error Codes (Outdoor Unit): Complete Guide](/posts/daikin-vrv-rxq-error-codes/)
-- [Daikin R-32 System U4 Error Code — Communication Fault Fix](/posts/daikin-r32-error-code-u4/)

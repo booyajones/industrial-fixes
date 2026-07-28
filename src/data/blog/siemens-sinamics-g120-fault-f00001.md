@@ -13,11 +13,8 @@ money_part: "VFD-rated motor cable"
 most_likely_cause: "Motor winding or cable short"
 ---
 
-## Siemens SINAMICS G120 F00001 Fault — What It Means
-
+## What this code means
 The Siemens SINAMICS G120 **F00001 fault** is an **overcurrent trip**. The control unit has detected output current above the safe threshold for the power module, usually during startup, acceleration, or a short-circuit event. The drive shuts down immediately to protect the IGBTs and DC bus components. On G120 systems this can be caused by motor issues, cable faults, aggressive ramp settings, or a mechanical jam in the driven load.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ The Siemens SINAMICS G120 **F00001 fault** is an **overcurrent trip**. The contr
 ## When to Call a Pro
 
 If F00001 persists with the motor disconnected or after commissioning values are corrected, the G120 power module may be damaged internally. Siemens drive service or a qualified industrial electrician should handle module-level diagnosis and replacement.
-
-## Related Articles
-
-- [Siemens Sinumerik 828D Alarm Codes Guide — Complete Diagnostic Reference](/posts/siemens-828d-alarm-codes/)
-- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
-- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)
-- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
-- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)
-
-## See Also
-
-- [Siemens SINAMICS G120 F30003 Fault — DC Link Undervoltage Fix](/posts/siemens-sinamics-f30003-fault/)
-- [Siemens Sinumerik Alarm 25201 — Causes & Fix](/posts/siemens-sinumerik-alarm-25201/)
-- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)
-- [Siemens Sinumerik 828D Alarm Codes Guide — Complete Diagnostic Reference](/posts/siemens-828d-alarm-codes/)

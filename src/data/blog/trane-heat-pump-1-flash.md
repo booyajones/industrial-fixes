@@ -13,11 +13,8 @@ money_part: "Outdoor fan motor"
 most_likely_cause: "Low refrigerant / system pressure fault"
 ---
 
-## Trane Heat Pump 1 Flash Error Code — What It Means
-
+## What this code means
 A single LED flash on a Trane heat pump control board indicates a system lockout — the unit has exceeded its allowed fault retries and has locked itself out of operation. Unlike a specific component fault code, 1 flash is the board's way of saying "I've tried and failed too many times; manual intervention required." The root cause fault occurred earlier in the sequence. To diagnose properly, you need to clear the lockout, observe what happens on the next operational attempt, and catch the specific fault before it escalates back to lockout. Common culprits include refrigerant issues, defrost board problems, and outdoor fan faults.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ A single LED flash on a Trane heat pump control board indicates a system lockout
 ## When to Call a Pro
 
 Refrigerant work requires EPA 608 certification. If the lockout is being driven by a pressure fault rather than an electrical component failure, a licensed technician must inspect the refrigerant circuit, identify leaks, and recharge to the correct specification.
-
-## Related Articles
-
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-
-## See Also
-
-- [Trane TAM Air Handler Error Codes — Complete Guide](/posts/trane-tam-error-codes/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane XV15i Heat Pump Error Codes: Complete Variable-Speed Fault Guide](/posts/trane-xv15i-error-codes/)
-- [Trane XL16i Error Codes — Heat Pump Fault Code Diagnostic Guide](/posts/trane-xl16i-error-codes/)

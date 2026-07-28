@@ -42,10 +42,3 @@ The York TG9S is a residential gas furnace that uses LED flash codes on the cont
 ## When to Call a Pro
 
 Call a licensed HVAC technician for any gas-supply work, including gas-valve replacement, pressure testing, or combustion analysis. Line-voltage polarity checks and control-board diagnostics require proper metering and familiarity with York fault-code logic. Cracked heat exchangers or recurring limit trips need professional inspection to rule out blocked venting or unsafe combustion conditions. If you see fault 9 and basic polarity checks do not clear it, a tech with twinning or grounding-fault experience should trace the circuit.
-
-## See Also
-
-- [York Furnace E4 Error Code — Ignition Failure](/posts/york-furnace-error-code-e4/)
-- [York Affinity Error Codes - What It Means and How to Fix It](/posts/york-affinity-error-codes/)
-- [York 1-Blink Error Code — Pressure Switch Stuck Closed Fix](/posts/york-error-code-1/)
-- [York YP9C Furnace Problems & Error Codes](/posts/york-yp9c-furnace-gas-residential-problems/)

@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## ABB ACS580 A4A1 Fault — What It Means
-
+## What this code means
 Fault code A4A1 on an ABB ACS580 VFD signals IGBT overtemperature. The drive's internal power transistors (IGBTs) that switch motor current are exceeding their safe thermal limits. The drive estimates IGBT temperature using an internal algorithm based on load and cooling conditions rather than a direct sensor on the IGBT itself.
 
 This fault trips when the estimated temperature climbs too high, protecting the drive from permanent damage. It does not always mean the IGBT has failed. In most cases the fault is triggered by poor cooling, dirty heatsinks, or an environment that exceeds the drive's ambient temperature rating.
@@ -29,8 +28,6 @@ This fault trips when the estimated temperature climbs too high, protecting the 
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive thinking the IGBT module has failed, when in fact a failed cooling fan or clogged heatsink is the real problem. Always verify fan operation and clean the heatsink before ordering a new drive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or VFD technician if cleaning the heatsink and replacing the fan do not clear the A4A1 fault. The drive may have internal thermal degradation or a failing IGBT module that requires factory repair or replacement. If the drive is overloaded, a technician can verify motor parameters, check for mechanical binding, and recommend a properly sized replacement drive. High-voltage work on VFDs carries shock and arc-flash risk, so any troubleshooting beyond cleaning and visual inspection should be done by trained personnel with appropriate personal protective equipment.
 
 **Rough cost:** A pro service call runs about $150-400 depending on parts and labor.
-
-## See Also
-
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-- [ABB ACS880 Fault 3210 — DC Bus Undervoltage Causes & Fix](/posts/abb-acs880-fault-3210/)
-- [ABB ACS580 Fault 3220 — DC Undervoltage Fix](/posts/abb-acs580-fault-3220/)
-- [ABB ACH580 HVAC VFD Fault Codes — Full Diagnostic Guide - What It Means and How to Fix It](/posts/abb-ach580-fault-codes/)

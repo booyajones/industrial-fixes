@@ -17,8 +17,7 @@ free_checks:
   - "Check Parameter 15-32 for extended internal fault codes if the display shows Alarm 38"
 ---
 
-## Danfoss FC302 AL-121 — What It Means
-
+## What this code means
 The code AL-121 does not exist in official Danfoss FC302 VFD documentation. Danfoss VLT AutomationDrive FC 301/302 drives use numeric alarms (such as Alarm 13, 14, or 38) or two-digit AL codes like AL 17. If your display shows something that looks like 121, verify whether it is Alarm 13 (overcurrent), Alarm 14 (overvoltage), Alarm 38 (internal fault), a parameter error code, or a custom alarm set in parameter groups. Always confirm the exact code on the LCP display before proceeding.
 
 The most common faults on FC302 drives are Alarm 13 (output overcurrent caused by motor overload or winding issues), Alarm 38 (internal hardware or software error), and AL 17 (serial communication timeout with the keypad). Each has specific diagnostic steps. If the display truly shows 121 without the AL prefix, check Parameter 15-32 for extended fault codes or consult your drive's parameter list for custom alarms.
@@ -26,8 +25,6 @@ The most common faults on FC302 drives are Alarm 13 (output overcurrent caused b
 ## Before You Replace Anything
 
 Technicians often replace the inverter module or IGBTs when seeing Alarm 13, but a simple megohm test of the motor windings (which must be at least 2 megohms) will reveal if the fault is in the motor instead of the drive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician for any Danfoss FC302 fault. These drives operate at high voltage (up to 690V AC) and high DC bus voltage, and internal repairs require specialized test equipment, firmware tools, and familiarity with gate-driver circuits and parameter programming. If the exact code cannot be identified from the LCP display or parameter list, a technician with Danfoss MCT software can read extended diagnostic logs and verify whether the code is a custom alarm or a misread standard fault. Professional service also ensures proper motor parameter setup, which prevents repeat overcurrent and overvoltage faults.
 
 **Rough cost:** A pro service call runs about $200-800.
-
-## See Also
-
-- [Danfoss FC302 VFD Alarm 28 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-28-fault-code/)
-- [Danfoss FC302 AL-111 - Causes & Fix](/posts/danfoss-fc302-vfd-al-111-fault-code/)
-- [Danfoss FC302 AL-122 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-122-fault-code/)
-- [Danfoss FC302 Alarm 52 - AMA Low Inom Causes & Fix](/posts/danfoss-fc302-vfd-alarm-52-fault-code/)

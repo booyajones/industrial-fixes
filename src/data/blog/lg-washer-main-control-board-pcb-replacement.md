@@ -52,16 +52,16 @@ Main boards fail from power surges, moisture intrusion, failed relays or capacit
 
 If this part is failing you may also see one of these codes:
 
-- [Lg Washer Ae error code](/posts/lg-washer-ae-error-code/)
-- [Lg Washer Cd error code](/posts/lg-washer-cd-error-code/)
-- [Lg Washer Ce error code](/posts/lg-washer-ce-error-code/)
-- [Lg Washer Cl error code](/posts/lg-washer-cl-error-code/)
-- [Lg Washer De error code](/posts/lg-washer-de-error-code/)
-- [Lg Washer De1 error code](/posts/lg-washer-de1-error-code/)
+- Lg Washer Ae error code
+- Lg Washer Cd error code
+- Lg Washer Ce error code
+- Lg Washer Cl error code
+- Lg Washer De error code
+- Lg Washer De1 error code
 - [Lg Washer De2 error code](/posts/lg-washer-de2-error-code/)
-- [Lg Washer Dhe error code](/posts/lg-washer-dhe-error-code/)
-- [Lg Washer E03 error code](/posts/lg-washer-e03-error-code/)
-- [Lg Washer E21 error code](/posts/lg-washer-e21-error-code/)
+- Lg Washer Dhe error code
+- Lg Washer E03 error code
+- Lg Washer E21 error code
 
 ## When to Call a Pro
 

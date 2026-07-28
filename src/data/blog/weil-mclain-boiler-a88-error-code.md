@@ -16,8 +16,7 @@ free_checks:
   - "Verify the boiler model number and control platform from the data plate to identify the correct manual and code list."
 ---
 
-## Weil-McLain A88 Error — What It Means
-
+## What this code means
 The A88 code does not appear in the manufacturer manuals for Weil-McLain's documented product lines, including AquaBalance and Ultra models. Weil-McLain uses different fault code formats across their boiler families, so the exact meaning of A88 is model-specific and must be verified from your unit's control panel and the correct manual. Most Weil-McLain controls store a detailed fault history in the contractor or diagnostics menu that gives the actual fault description, not just a number.
 
 Because the code itself is unverified, the safe first step is to enter your boiler's diagnostics screen and record the exact stored fault name before replacing any parts. The manufacturer guidance for all Weil-McLain boilers is to correct the underlying condition, then reset the control and verify stable operation.
@@ -25,8 +24,6 @@ Because the code itself is unverified, the safe first step is to enter your boil
 ## Before You Replace Anything
 
 Technicians sometimes replace control boards or gas valves based on an unverified code number. Always read the stored fault history from the diagnostics menu and consult the model-specific manual before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you cannot access the diagnostics menu, if the stored fault description is unclear, or if the manual calls for gas-pressure measurement, combustion analysis, or component testing that requires a multimeter and knowledge of boiler controls. Gas appliances demand precise diagnosis to avoid safety hazards, and replacing parts without verifying the actual fault wastes money and can leave the root cause unresolved. A qualified technician can retrieve the fault history, cross-reference the code with Weil-McLain's technical bulletins, measure system parameters, and perform the model-specific checks in a single visit.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain A134 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a134-error-code/)
-- [Weil-McLain A110 Error - Causes & Fix](/posts/weil-mclain-boiler-a110-error-code/)
-- [Weil-McLain Boiler A147 Error - Causes & Fix](/posts/weil-mclain-boiler-a147-error-code/)
-- [Weil-McLain E04 Error Code: Power Lost After Lockout Fix](/posts/weil-mclain-e04-error-code/)

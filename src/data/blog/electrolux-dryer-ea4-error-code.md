@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Electrolux Dryer EA4 Error Code — What It Means
-
+## What this code means
 The EA4 code (also displayed as E 4) on an Electrolux dryer indicates a humidity sensor failure in the moisture-sensing system. Electrolux's official error-code guide identifies this as "Humidity Sensor Failed." The dryer may complete the current cycle and still run manual timed cycles, but if the error continues, service is required.
 
 This is not a heating fault or a generic wiring issue. The code specifically points to a problem with the sensor assembly that detects moisture in your laundry, the wiring that connects it to the control board, or the control board itself. The sensor uses metal bars inside the drum to measure conductivity across wet fabric. When that circuit fails or gives inconsistent readings, the EA4 code appears.
@@ -26,8 +25,6 @@ This is not a heating fault or a generic wiring issue. The code specifically poi
 ## Before You Replace Anything
 
 Many people replace the electronic control board first, assuming it is the brain of the problem. Start instead by cleaning the moisture sensor bars in the drum and inspecting the sensor harness and connectors for damage or corrosion, which solve most EA4 codes at no cost.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

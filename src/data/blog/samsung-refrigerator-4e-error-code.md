@@ -17,8 +17,7 @@ money_part: "Samsung freezer defrost temperature sensor / thermistor"
 part_price: "$15-40"
 ---
 
-## Samsung Refrigerator 4E Error Code — What It Means
-
+## What this code means
 The 4E error code on Samsung refrigerators indicates that the freezer defrost temperature sensor (thermistor) has failed and is no longer reading the evaporator temperature correctly during the defrost cycle. This sensor monitors evaporator temperature to prevent overheating or incomplete defrosting. When the sensor fails, the control board cannot properly manage the defrost cycle, which can lead to ice buildup on the evaporator coils and reduced cooling performance.
 
 The defrost thermistor is a two-wire component clipped directly to the evaporator tubing in the freezer compartment. It sends resistance-based temperature readings to the main control board. When the sensor reads open circuit, shorted, or out of range, the board triggers the 4E fault and may disable defrost or cooling functions until the sensor is repaired or replaced.
@@ -26,8 +25,6 @@ The defrost thermistor is a two-wire component clipped directly to the evaporato
 ## Before You Replace Anything
 
 Many people replace the main control board first. Always ohm-test the defrost sensor with a multimeter before replacing any boards. A failed sensor reads open (OL) or zero ohms and costs a fraction of a board replacement.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

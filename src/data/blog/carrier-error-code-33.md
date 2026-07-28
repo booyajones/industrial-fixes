@@ -13,8 +13,7 @@ tags:
   - error-code
 ---
 
-## Carrier Error Code 33 — What It Means
-
+## What this code means
 Carrier error code 33 is a **limit circuit fault** — the furnace's high limit switch or flame rollout switch has opened, cutting off the burner to prevent overheating or fire. On most Carrier furnace control boards, code 33 displays as **3 LED flashes followed by 3 flashes** (a 3-3 blink pattern). The furnace will attempt to restart but lockout persists until the underlying cause is resolved.
 
 This code covers two related but distinct safeties:
@@ -23,8 +22,6 @@ This code covers two related but distinct safeties:
 - **Flame rollout switch** — trips when flames escape the combustion area (rollout), a serious condition requiring immediate inspection
 
 In 80% of cases, a clogged air filter is the root cause. Check that first before anything else.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -83,10 +80,3 @@ Also call a tech if code 33 returns immediately after replacing the high limit s
 
 - [Carrier Furnace Error Code 31 — Pressure Switch Open](/posts/carrier-error-code-31/)
 - [Carrier Furnace Error Code 13 — Limit Circuit Lockout](/posts/carrier-error-code-13/)
-
-## See Also
-
-- [Carrier Mini-Split E4 Error Code — Compressor Discharge Temperature Fix](/posts/carrier-mini-split-e4-error-code/)
-- [Carrier 48XLC Packaged Unit Error Codes — Fault Code Diagnostic Guide](/posts/carrier-48xlc-error-codes/)
-- [Carrier Error Code 16 - Causes & Fix](/posts/carrier-error-code-16/)
-- [Carrier Greenspeed A3 — Defrost Fault Fix](/posts/carrier-heat-pump-error-code-a3/)

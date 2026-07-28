@@ -14,8 +14,7 @@ most_likely_cause: "Incorrect code transcription"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa GA800 A.132 Fault — What It Means
-
+## What this code means
 The code A.132 does not appear in verified Yaskawa GA800 documentation. GA800 drives typically display faults in formats like oC (overcurrent), ov (overvoltage), CPF32 (control circuit error), or oFA32 (option card SUM check error), not decimal-style codes such as A.132. The display you see may be a keypad status message, an option-card diagnostic code, a parameter address, or a transcription issue. It is also possible the code belongs to a different Yaskawa drive family or a third-party HMI connected to the GA800.
 
 Before troubleshooting, confirm the exact characters shown on the drive keypad or operator, including any prefix, suffix, or punctuation. Check whether the message appears on the main drive display or on an add-on keypad or communications card. Consult the GA800 technical manual alarm table for your firmware revision to match the code precisely. If the code persists and is not documented, contact Yaskawa technical support with the drive model number, serial number, and a photo of the display.
@@ -23,8 +22,6 @@ Before troubleshooting, confirm the exact characters shown on the drive keypad o
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive when the actual fault is a loose or corrupted option card. Before ordering a new drive, power down, reseat all option cards and ribbon cables, and clear the fault history to see if the code recurs.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial-controls technician or Yaskawa-authorized service center whenever an undocumented fault code appears on a VFD. Variable-frequency drives operate at lethal voltages (up to 690 V AC and high DC bus voltages) and contain large capacitors that remain charged after power-off. Incorrect troubleshooting can destroy the drive, damage connected equipment, or cause serious injury. A professional will use the manufacturer's service software to read internal diagnostics, verify firmware integrity, and replace control boards under proper ESD precautions. If your process cannot tolerate downtime, keep a spare drive or critical option cards on hand and establish a support agreement with a local distributor.
 
 **Rough cost:** A pro service call runs about $150–400 depending on whether the fix is a card reseat, option-card replacement, or full drive swap.
-
-## See Also
-
-- [Yaskawa A1000 GF Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-gf-fault-code/)
-- [Yaskawa GA800 A.111 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-111-fault-code/)
-- [Yaskawa A1000 oU Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ou-fault-code/)
-- [Yaskawa GA800 A.146 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-146-fault-code/)

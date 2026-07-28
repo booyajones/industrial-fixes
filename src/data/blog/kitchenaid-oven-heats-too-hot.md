@@ -20,8 +20,6 @@ When a KitchenAid oven heats too hot, it means the oven temperature climbs beyon
 
 This symptom can result from the control misreading temperature, commanding heat when it should not, or losing the ability to regulate the heating elements. KitchenAid identifies several possible causes including a damaged or mispositioned temperature sensor, control board failure, shorted heating elements, calibration drift, or a faulty thermostat. The oven may also appear to run hot due to improper rack position, cookware size, or airflow issues even when the appliance itself is working correctly.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed or mispositioned temperature sensor** The sensor may be damaged, mounted incorrectly, or reading out of spec, causing the control to either overheat or trigger an over-temp fault.
@@ -54,8 +52,8 @@ This symptom can result from the control misreading temperature, commanding heat
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kitchenaid Oven A6 error code](/posts/kitchenaid-oven-a6-error-code/)
-- [Kitchenaid Oven Ab error code](/posts/kitchenaid-oven-ab-error-code/)
+- Kitchenaid Oven A6 error code
+- Kitchenaid Oven Ab error code
 - [Kitchenaid Oven Cal error code](/posts/kitchenaid-oven-cal-error-code/)
 - [Kitchenaid Oven F6 E0 error code](/posts/kitchenaid-oven-f6-e0-error-code/)
 - [Kitchenaid Oven F6 E1 error code](/posts/kitchenaid-oven-f6-e1-error-code/)

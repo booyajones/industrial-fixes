@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Bosch Oven E8401 Error Code — What It Means
-
+## What this code means
 The E8401 error code on Bosch ovens indicates a fault in the oven temperature sensing circuit. According to Bosch-adjacent consumer guidance, this code appears when the control board cannot read a valid signal from the temperature sensor. The sensor (a resistance temperature detector or RTD probe) monitors cavity temperature so the oven can maintain the setpoint you select. When the sensor circuit fails, the oven cannot regulate heat safely and displays E8401 to prevent damage or inaccurate cooking.
 
 This code is not an overheating alarm. It means the control system has detected an open circuit, a short, or an out-of-range resistance reading from the sensor or its wiring. Most often the sensor itself has failed, though damaged wiring or a loose connector can produce the same symptom. Less commonly, a fault on the main control board will trigger E8401 even when the sensor tests good.
@@ -26,8 +25,6 @@ This code is not an overheating alarm. It means the control system has detected 
 ## Before You Replace Anything
 
 Many people replace the main control board first because the code sounds electronic. Always test the sensor resistance with a multimeter and inspect the harness connectors before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

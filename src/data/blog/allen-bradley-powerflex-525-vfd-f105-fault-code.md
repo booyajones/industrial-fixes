@@ -18,8 +18,7 @@ free_checks:
   - "Clear the fault after reseating the module and observe whether F105 returns on the next power cycle."
 ---
 
-## Allen-Bradley PowerFlex 525 F105 — What It Means
-
+## What this code means
 F105 on the PowerFlex 525 displays as 'C Connect Err' and tells you the drive detected that the control module was disconnected or lost connection while the unit was energized. This is not a motor overload or line-voltage problem. The fault triggers when the module is removed, reseated, or experiences a connection interruption under power.
 
 Rockwell Automation documentation makes clear that you should never remove or install the control module while the drive has power applied. Once the fault is logged, you must clear it and verify all parameter settings before returning the drive to service.
@@ -27,8 +26,6 @@ Rockwell Automation documentation makes clear that you should never remove or in
 ## Before You Replace Anything
 
 Some technicians replace the entire drive assembly before confirming the control module is properly seated. Always power down, firmly reseat the module, clear the fault, and check for a return before ordering a new drive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or industrial controls technician if you are not trained to work on variable-frequency drives or if your facility safety rules require a licensed professional for high-voltage equipment. A technician will safely de-energize the drive, verify the control module connection, clear the fault, and replace the module or drive assembly if needed. Professional service also includes verifying all drive parameters and confirming the system returns to normal operation without repeat faults.
 
 **Rough cost:** A pro service call runs about $150-400 depending on module replacement or field service call.
-
-## See Also
-
-- [Allen-Bradley PowerFlex 525 Fault F003 - What It Means and How to Fix It](/posts/allen-bradley-powerflex-525-fault-f003/)
-- [Allen-Bradley PowerFlex F081 Fault — Communication Loss Fix](/posts/allen-bradley-powerflex-f081-fault/)
-- [Allen-Bradley PowerFlex F122 Fault — I/O Board Failure Fix](/posts/allen-bradley-powerflex-f122-fault/)
-- [Allen-Bradley PowerFlex 755 Aux Input Fault Fix](/posts/allen-bradley-powerflex-755-aux-input-fault/)

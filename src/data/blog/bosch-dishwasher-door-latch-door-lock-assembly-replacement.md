@@ -53,16 +53,16 @@ Bosch latch assemblies fail when plastic tabs crack, the microswitch inside the 
 
 If this part is failing you may also see one of these codes:
 
-- [Bosch Dishwasher E01 error code](/posts/bosch-dishwasher-e01-error-code/)
-- [Bosch Dishwasher E02 error code](/posts/bosch-dishwasher-e02-error-code/)
-- [Bosch Dishwasher E03 error code](/posts/bosch-dishwasher-e03-error-code/)
-- [Bosch Dishwasher E04 error code](/posts/bosch-dishwasher-e04-error-code/)
+- Bosch Dishwasher E01 error code
+- Bosch Dishwasher E02 error code
+- Bosch Dishwasher E03 error code
+- Bosch Dishwasher E04 error code
 - [Bosch Dishwasher E05 error code](/posts/bosch-dishwasher-e05-error-code/)
 - [Bosch Dishwasher E06 error code](/posts/bosch-dishwasher-e06-error-code/)
-- [Bosch Dishwasher E07 error code](/posts/bosch-dishwasher-e07-error-code/)
-- [Bosch Dishwasher E08 error code](/posts/bosch-dishwasher-e08-error-code/)
-- [Bosch Dishwasher E09 error code](/posts/bosch-dishwasher-e09-error-code/)
-- [Bosch Dishwasher E13 error code](/posts/bosch-dishwasher-e13-error-code/)
+- Bosch Dishwasher E07 error code
+- Bosch Dishwasher E08 error code
+- Bosch Dishwasher E09 error code
+- Bosch Dishwasher E13 error code
 
 ## When to Call a Pro
 

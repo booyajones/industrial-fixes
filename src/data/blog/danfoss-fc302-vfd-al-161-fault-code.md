@@ -19,8 +19,7 @@ free_checks:
 part_price: "$250-800"
 ---
 
-## Danfoss FC302 VFD Alarm 16 — What It Means
-
+## What this code means
 The Danfoss FC302 does not have an 'AL-161' fault code. You are likely seeing Alarm 16, which the drive identifies as 'Overcurrent (Instantaneous)' or catastrophic short circuit. This is the most severe overcurrent condition where the drive detects output current exceeding safe thresholds by a catastrophic margin, typically caused by a phase-to-phase short or direct IGBT module failure creating a short across the DC bus. The drive's internal protection acts within microseconds to prevent damage to surrounding components, but the affected semiconductor junctions have already broken down.
 
 Alarm 16 is an instantaneous trip that happens so fast the drive usually survives, but the root cause is almost always a hard failure inside the power section or a dead short in the motor circuit. Do not attempt to reset and run the drive multiple times, as each attempt risks cascading damage to additional components.
@@ -28,8 +27,6 @@ Alarm 16 is an instantaneous trip that happens so fast the drive usually survive
 ## Before You Replace Anything
 
 Many technicians replace the control board or DC link capacitors first. Always disconnect the motor and run the drive unloaded to isolate whether the fault is internal (IGBT failure) or external (motor/cable short) before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a professional immediately if you see visible damage to the drive, if Alarm 16 persists with the motor disconnected, or if you lack experience testing and replacing IGBT modules and high-voltage DC components. VFD repair involves working with DC bus voltages exceeding 600 VDC and requires specialized test equipment (megohm testers, IGBT testers, oscilloscopes) and knowledge of power electronics. If the motor fails the megohm test (below 2 megohms), a motor shop or electrician should rewind or replace the motor. Danfoss service centers can perform board-level repair and component replacement with genuine parts and warranty the work.
 
 **Rough cost:** A pro service call runs about $400-1200.
-
-## See Also
-
-- [Danfoss FC302 VFD Alarm 23 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-23-fault-code/)
-- [Danfoss FC302 AL-83 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-83-fault-code/)
-- [Danfoss FC302 AL-84 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-84-fault-code/)
-- [Danfoss FC302 AL-135 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-135-fault-code/)

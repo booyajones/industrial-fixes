@@ -20,8 +20,6 @@ When a Whirlpool oven won't turn on, you'll see either a completely dead display
 
 If the display is lit but the oven won't heat, the issue shifts to heating components like the bake or broil element on electric models, or the gas igniter on gas models. Control lock or incorrect oven settings can also make the unit appear dead when it's actually just locked out.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Tripped breaker or lost power** The most common cause is a tripped circuit breaker or blown fuse at the home electrical panel, cutting all power to the oven.
@@ -58,7 +56,7 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Whirlpool Oven A6 error code](/posts/whirlpool-oven-a6-error-code/)
 - [Whirlpool Oven Ab error code](/posts/whirlpool-oven-ab-error-code/)
-- [Whirlpool Oven Cal error code](/posts/whirlpool-oven-cal-error-code/)
+- Whirlpool Oven Cal error code
 - [Whirlpool Oven F1 E0 error code](/posts/whirlpool-oven-f1-e0-error-code/)
 - [Whirlpool Oven F1 E1 error code](/posts/whirlpool-oven-f1-e1-error-code/)
 - [Whirlpool Oven F2 E0 error code](/posts/whirlpool-oven-f2-e0-error-code/)

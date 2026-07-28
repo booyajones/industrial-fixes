@@ -16,8 +16,7 @@ money_part: "Kenmore oven temperature sensor (RTD probe)"
 part_price: "$25-80"
 ---
 
-## Kenmore F030 Error Code — What It Means
-
+## What this code means
 The F30 error code on a Kenmore range or dual-fuel oven indicates that the electronic control has detected a fault in the oven temperature sensor circuit. This circuit includes the RTD (resistance temperature detector) probe, its wiring harness, and the connection to the main control board. The control is not seeing the expected sensor resistance, or it is detecting an open, short, or ground fault somewhere in the purple-wire sensor circuit.
 
 The code does not appear during normal operation. It triggers when the control cannot measure oven temperature reliably, so it halts the heating cycle to prevent runaway or unsafe temperatures. The fault may be intermittent if a connector is loose, or constant if the sensor probe has failed or wiring is shorted to the metal cabinet.
@@ -25,8 +24,6 @@ The code does not appear during normal operation. It triggers when the control c
 ## Before You Replace Anything
 
 Many people replace the main control board first when the actual fault is a loose connector, damaged purple-wire harness, or failed RTD sensor. Always check sensor resistance (should be about 1,080 ohms at room temperature) and inspect the harness for shorts to ground before ordering a new control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

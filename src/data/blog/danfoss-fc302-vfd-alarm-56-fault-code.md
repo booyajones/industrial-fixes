@@ -13,11 +13,8 @@ money_part: "Danfoss FC 302 control keypad (LCP)"
 most_likely_cause: "Operator pressed stop during AMA"
 ---
 
-## Danfoss FC302 VFD ALARM 56 — What It Means
-
+## What this code means
 ALARM 56 on a Danfoss VLT AutomationDrive FC 302 means 'AMA interrupted by user.' The Automatic Motor Adaptation procedure was manually stopped before it could complete. This is not a component failure or drive fault. The alarm appears because someone pressed stop, reset, or otherwise exited the AMA sequence. Danfoss documentation shows the correct action is to restart the AMA routine and allow it to run to completion without interruption.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,10 +43,3 @@ ALARM 56 on a Danfoss VLT AutomationDrive FC 302 means 'AMA interrupted by user.
 ## When to Call a Pro
 
 Call a qualified VFD technician or controls specialist if the AMA routine fails to complete after three or four attempts, if you are unfamiliar with the FC 302 commissioning menus, or if other alarms appear alongside ALARM 56. A professional can verify motor parameters, cable installation, and drive configuration to determine why AMA cannot finish. Because ALARM 56 is procedural rather than a component fault, most issues resolve by simply restarting the adaptation and allowing it to run, but persistent failures may indicate deeper setup or wiring problems that require systematic troubleshooting.
-
-## See Also
-
-- [Danfoss FC302 Alarm 48 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-48-fault-code/)
-- [Danfoss FC302 VFD Alarm 41 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-41-fault-code/)
-- [Danfoss FC302 Alarm 26 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-26-fault-code/)
-- [Danfoss VFD Fault OL — Causes & Fix](/posts/danfoss-vfd-fault-ol/)

@@ -19,8 +19,6 @@ When a Samsung washer won't start, it means the machine is refusing to begin a c
 
 On front-load models, Samsung notes the door will stay locked until the cycle ends and water fully drains. Water detected inside the tub keeps the door locked for spill prevention, so a clogged filter or trapped water can prevent the washer from clearing its start condition. This is not a single error code but a symptom cluster that usually points to the door latch, power supply, control board, or a cycle that has not finished yet.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Child Lock is engaged** Samsung explicitly lists Child Lock as a common no-start cause, and the machine will not respond to button presses until you disable it on the control panel.

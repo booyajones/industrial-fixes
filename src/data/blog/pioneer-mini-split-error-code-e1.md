@@ -13,11 +13,8 @@ money_part: "Communication / signal wire (18 AWG)"
 most_likely_cause: "Damaged or miswired interconnecting communication wire"
 ---
 
-## Pioneer Mini Split E1 Error Code — What It Means
-
+## What this code means
 E1 on a Pioneer mini split indicates a communication error between the indoor and outdoor units. Pioneer systems use a serial communication signal over the interconnecting wire to coordinate compressor speed, fan speed, expansion valve position, and protection data. When the indoor control board loses communication with the outdoor unit — or vice versa — it displays E1 and shuts down operation to prevent uncoordinated running that could damage the compressor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,11 +43,3 @@ E1 on a Pioneer mini split indicates a communication error between the indoor an
 ## When to Call a Pro
 
 If communication cannot be restored after wiring inspection and power cycling, a technician with mini split diagnostic tools can read fault codes from both boards simultaneously to identify which unit is the source of the communication failure.
-
-## Related Articles
-
-- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
-- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
-- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
-- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
-- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)

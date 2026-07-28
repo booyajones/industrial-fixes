@@ -19,8 +19,6 @@ When your Frigidaire dishwasher buttons stop responding, you're looking at a fun
 
 Technically, the control board is not receiving valid input signals from the touchpad assembly (the human interface device). The break in communication usually happens at the ribbon cable connection or inside the touchpad itself. Steam and moisture from wash cycles migrate into the door panel over time, corroding the copper contacts on the ribbon cable and causing intermittent or total button failure.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Corroded or dirty ribbon cable contacts** Steam and moisture cause corrosion on the copper leads of the ribbon cable connecting the touchpad to the control board, blocking signal transmission.
@@ -53,12 +51,12 @@ Technically, the control board is not receiving valid input signals from the tou
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Frigidaire Dishwasher I20 error code](/posts/frigidaire-dishwasher-i20-error-code/)
-- [Frigidaire Dishwasher I30 error code](/posts/frigidaire-dishwasher-i30-error-code/)
-- [Frigidaire Dishwasher I40 error code](/posts/frigidaire-dishwasher-i40-error-code/)
-- [Frigidaire Dishwasher L0 L6 error code](/posts/frigidaire-dishwasher-l0-l6-error-code/)
-- [Frigidaire Dishwasher Loc error code](/posts/frigidaire-dishwasher-loc-error-code/)
-- [Frigidaire Dishwasher Pf error code](/posts/frigidaire-dishwasher-pf-error-code/)
+- Frigidaire Dishwasher I20 error code
+- Frigidaire Dishwasher I30 error code
+- Frigidaire Dishwasher I40 error code
+- Frigidaire Dishwasher L0 L6 error code
+- Frigidaire Dishwasher Loc error code
+- Frigidaire Dishwasher Pf error code
 
 ## When to Call a Pro
 

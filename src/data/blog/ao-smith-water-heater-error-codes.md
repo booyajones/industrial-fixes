@@ -101,9 +101,3 @@ Scale buildup is the leading cause in hard water areas:
 | [Anode rod](https://www.amazon.com/s?ascsubtag=ecf-ao-smith-water-heater-error-codes&k=Anode+rod&tag=errorcodefixes-20) | Replace every 3–5 years — extends tank life |
 
 > **Pro tip:** A.O. Smith and State Water Heaters are the same products with different labels — parts and service procedures are identical across both brands.
-
-## Related Articles
-
-- [A.O. Smith Water Heater E1 Error Code — Sensor Fault Guide](/posts/ao-smith-error-code-e1/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

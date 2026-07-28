@@ -22,8 +22,7 @@ part_price: "$40-75"
 no_buy_pct: "65%"
 ---
 
-## Samsung Dishwasher 3C Error — What It Means
-
+## What this code means
 Samsung labels the 3C code as a pump operation error or pump failure. The dishwasher has detected abnormal pump operation or water flow during drain or wash functions. The fault can be triggered by the drain pump, the circulation/wash pump on some models, or anything that blocks water movement through the system.
 
 The code does not always mean the pump motor itself has failed. Blockages in the filter, sump, drain hose, or pump impeller are common triggers because they prevent normal flow even when the pump is trying to run. Wiring faults or a main control relay issue can also register as a 3C code if the pump is not being powered correctly.
@@ -31,8 +30,6 @@ The code does not always mean the pump motor itself has failed. Blockages in the
 ## Before You Replace Anything
 
 Many people replace the drain pump without checking for debris or blockages first. Always clean the filter, sump, and drain path before ordering a new pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

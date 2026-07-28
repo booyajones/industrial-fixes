@@ -19,8 +19,6 @@ When a Speed Queen washer completes the wash and drain cycles but won't enter or
 
 Common triggers include an unbalanced load, a lid or door that hasn't latched properly, a drain path restriction that leaves water in the tub, or a mechanical issue in the drive system. The machine uses interlocks and sensors to confirm the lid is closed, the load is stable, and water has drained before ramping up to spin speed. If any of these checks fail, spin will not start or will abort mid-cycle.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Unbalanced load or poor load distribution** Speed Queen troubleshooting directs users to redistribute laundry and level the machine when spin fails or is interrupted, since the suspension cannot stabilize spin if weight is unevenly distributed or a single heavy item is preventing balance.
@@ -60,12 +58,12 @@ If your appliance also shows a code on the display, these match this problem:
 - [Speed Queen Washer Du error code](/posts/speed-queen-washer-du-error-code/)
 - [Speed Queen Washer E 05 error code](/posts/speed-queen-washer-e-05-error-code/)
 - [Speed Queen Washer E 07 error code](/posts/speed-queen-washer-e-07-error-code/)
-- [Speed Queen Washer E 08 error code](/posts/speed-queen-washer-e-08-error-code/)
+- Speed Queen Washer E 08 error code
 - [Speed Queen Washer E 0D error code](/posts/speed-queen-washer-e-0d-error-code/)
-- [Speed Queen Washer E1 error code](/posts/speed-queen-washer-e1-error-code/)
+- Speed Queen Washer E1 error code
 - [Speed Queen Washer E5 error code](/posts/speed-queen-washer-e5-error-code/)
 - [Speed Queen Washer E7 error code](/posts/speed-queen-washer-e7-error-code/)
-- [Speed Queen Washer Ec 09 error code](/posts/speed-queen-washer-ec-09-error-code/)
+- Speed Queen Washer Ec 09 error code
 
 ## When to Call a Pro
 

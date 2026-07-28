@@ -19,8 +19,6 @@ When your LG refrigerator stops making ice, it means the ice system isn't comple
 
 This is a symptom, not a fault code. LG does not assign a single universal fault code for ice production failure. If you have an actual display code on your panel, it depends on the exact model and needs model-specific lookup.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Ice maker turned off** The ice maker toggle or control panel is set to off, or the dispenser lock is active.
@@ -54,26 +52,19 @@ This is a symptom, not a fault code. LG does not assign a single universal fault
 
 Seeing a code on the display? These match this problem:
 
-- [Lg Refrigerator C1 error code](/posts/lg-refrigerator-c1-error-code/)
-- [Lg Refrigerator Cf error code](/posts/lg-refrigerator-cf-error-code/)
-- [Lg Refrigerator Co error code](/posts/lg-refrigerator-co-error-code/)
-- [Lg Refrigerator Dh error code](/posts/lg-refrigerator-dh-error-code/)
-- [Lg Refrigerator Ds error code](/posts/lg-refrigerator-ds-error-code/)
-- [Lg Refrigerator Eid error code](/posts/lg-refrigerator-eid-error-code/)
-- [Lg Refrigerator Eiu error code](/posts/lg-refrigerator-eiu-error-code/)
-- [Lg Refrigerator Ff error code](/posts/lg-refrigerator-ff-error-code/)
-- [Lg Refrigerator Fs error code](/posts/lg-refrigerator-fs-error-code/)
-- [Lg Refrigerator Gf error code](/posts/lg-refrigerator-gf-error-code/)
-- [Lg Refrigerator If error code](/posts/lg-refrigerator-if-error-code/)
-- [Lg Refrigerator Is error code](/posts/lg-refrigerator-is-error-code/)
+- Lg Refrigerator C1 error code
+- Lg Refrigerator Cf error code
+- Lg Refrigerator Co error code
+- Lg Refrigerator Dh error code
+- Lg Refrigerator Ds error code
+- Lg Refrigerator Eid error code
+- Lg Refrigerator Eiu error code
+- Lg Refrigerator Ff error code
+- Lg Refrigerator Fs error code
+- Lg Refrigerator Gf error code
+- Lg Refrigerator If error code
+- Lg Refrigerator Is error code
 
 ## When to Call a Pro
 
 If you have verified the ice maker is on, the freezer is cold, and water is reaching the unit but production still fails, the issue may be in the sealed refrigeration system, a failed ice maker assembly, or a valve that requires multimeter testing and part replacement. Call a tech if you are not comfortable with electrical testing, if the freezer will not stay cold despite cleaning coils and checking the fan, or if the problem persists after resetting and testing the ice maker.
-
-## See Also
-
-- [LG LREL6323S Oven Problems & Error Codes](/posts/lg-lrel6323s-oven-problems/)
-- [LG Dishwasher AE Error Code - Causes & Fix](/posts/lg-dishwasher-ae-error-code/)
-- [LG Oven F11 Error Code - Causes & Fix](/posts/lg-oven-f11-error-code/)
-- [LG Microwave Not Heating - Causes & Fix](/posts/lg-microwave-not-heating/)

@@ -13,13 +13,10 @@ money_part: "Motor cable assembly"
 most_likely_cause: "Shorted motor cable"
 ---
 
-## ABB ACS580 A2B4 Fault Code — What It Means
-
+## What this code means
 The A2B4 fault on your ABB ACS580 drive indicates a short-circuit condition on the output side, typically in the motor cable or the motor itself. The drive detects this problem and trips to protect the IGBT power transistors in the output stage from damage.
 
 ABB flags this fault because a sustained short circuit can stress or destroy the drive's output module. The short may be between motor cable phases, from a phase to ground, inside the motor windings, or caused by wiring errors at the motor terminals.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ ABB flags this fault because a sustained short circuit can stress or destroy the
 ## When to Call a Pro
 
 Call a qualified electrician or ABB-authorized service technician if insulation testing and visual inspection do not reveal an obvious motor or cable fault, if the fault persists after disconnecting the motor, or if you find visible damage to the drive's output stage. Professional help is also recommended if you are not trained in high-voltage isolation testing or VFD output-module replacement, as misdiagnosis can lead to repeat failures or safety hazards.
-
-## See Also
-
-- [ABB VFD Fault 5010 — Causes & Fix](/posts/abb-vfd-fault-5010/)
-- [ABB ACS580 B1 Fault Code - Causes & Fix](/posts/abb-acs580-b1-fault-code/)
-- [ABB ACS580 A2B3 Fault Code - Causes & Fix](/posts/abb-acs580-a2b3-fault-code/)
-- [ABB VFD Fault 0001 Overcurrent — Causes & Fix](/posts/abb-vfd-fault-0001-overcurrent/)

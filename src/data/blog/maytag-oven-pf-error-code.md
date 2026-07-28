@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Electronic control board (oven control)"
 ---
 
-## Maytag Oven PF Error Code — What It Means
-
+## What this code means
 The PF code on a Maytag oven stands for power failure. The control board detected that electrical power to the oven was interrupted. This is not a fault inside the oven itself but a stored record that the unit lost power at some point. Maytag documentation lists PF, PF id=27, and PF id=30 all as indicators of a recent power interruption.
 
 The code can appear after a brief outage, a tripped breaker, or line voltage disturbances such as brownouts or power-supply noise during restoration. The oven's control stores the event and displays PF until you acknowledge it. Clearing the code requires pressing the Cancel button and, on some models, resetting the clock.
@@ -25,8 +24,6 @@ The code can appear after a brief outage, a tripped breaker, or line voltage dis
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board thinking the oven has failed internally. Before ordering any parts, perform a full power reset by turning off the breaker for one minute and verify that household voltage is stable and the breaker is sized correctly.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

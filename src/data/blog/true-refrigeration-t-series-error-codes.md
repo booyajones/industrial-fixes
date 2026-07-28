@@ -17,8 +17,6 @@ most_likely_cause: "Failed NTC air sensor"
 
 True Manufacturing T-Series reach-in refrigerators (T-23, T-35, T-49, T-72 and similar) are the most common commercial reach-in refrigerators in US foodservice. Their electronic controllers display error codes when a fault is detected. This guide covers the most common T-Series error codes and what to do about each one.
 
-[Jump to Fix](#fix)
-
 ## Common T-Series Error Codes
 
 | Code | Meaning | Urgency |
@@ -56,18 +54,3 @@ True Manufacturing T-Series reach-in refrigerators (T-23, T-35, T-49, T-72 and s
 ## When to Call a Pro
 
 If the condenser is clean, sensors and heaters test good, and the unit still can't hold temperature, the sealed refrigeration system (compressor, TXV, refrigerant) needs a certified tech with recovery equipment.
-
-## Related Articles
-
-- [True Refrigeration E1 Error Code — Causes & Fix](/posts/true-refrigeration-e1-error-code/)
-- [True Refrigeration E2 Error Code — Causes & Fix](/posts/true-refrigeration-e2-error-code/)
-- [True Refrigeration E3 Error Code — Causes & Fix](/posts/true-refrigeration-e3-error-code/)
-- [True Refrigeration E4 Error Code — Causes & Fix](/posts/true-refrigeration-e4-error-code/)
-- [True Refrigeration E5 Error Code — Defrost Sensor Causes & Fix](/posts/true-refrigeration-e5-error-code/)
-
-## See Also
-
-- [True T-23 Refrigerator Error Codes — Fault Code Diagnostic Guide](/posts/true-t-23-error-codes/)
-- [True Refrigeration E4 Error Code — Causes & Fix](/posts/true-refrigeration-e4-error-code/)
-- [True Refrigeration E5 Error Code — Defrost Sensor Causes & Fix](/posts/true-refrigeration-e5-error-code/)
-- [True Refrigerator Error Code E2 / P2: Evaporator Probe Failure Causes and Fix](/posts/true-refrigeration-e2-p2-error/)

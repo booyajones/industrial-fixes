@@ -21,8 +21,7 @@ most_likely_cause: "Door latch or switch fault"
 part_price: "$30-120"
 ---
 
-## Whirlpool Dishwasher F6E1 Error Code — What It Means
-
+## What this code means
 Whirlpool defines F6E1 as a condition where the dishwasher is unable to start or resume cycles. If a cycle is already running, it will continue to the end, but you cannot start a new cycle. The control board has detected a fault that prevents the start or resume interlock from closing.
 
 Whirlpool does not publicly map this code to a single failed part, so the exact component involved depends on your model and platform. Third-party sources suggest door latch, water level sensing, inlet flow, or control board faults, but these sources conflict. Treat F6E1 as a start-inhibit fault and diagnose the specific sensor or interlock chain on your model.
@@ -30,8 +29,6 @@ Whirlpool does not publicly map this code to a single failed part, so the exact 
 ## Before You Replace Anything
 
 Many people replace the control board first, spending $150 or more, when the real problem is often a stuck door latch or a loose wiring connector. Test the door latch switch for continuity and inspect all harness connections before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

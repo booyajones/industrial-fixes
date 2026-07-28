@@ -20,8 +20,6 @@ When a Kenmore oven displays temperature not accurate, it means the oven is heat
 
 For electric models the problem is usually a failed temperature sensor, a weak bake element, or a control that needs calibration. For gas models the sensor or control are the main suspects. Some ovens simply need a temperature offset adjustment through the control panel rather than any part replacement.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Miscalibrated control** The oven functions normally but runs offset from the target temperature and needs a calibration adjustment through the control panel.
@@ -54,18 +52,18 @@ For electric models the problem is usually a failed temperature sensor, a weak b
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kenmore Oven F0 error code](/posts/kenmore-oven-f0-error-code/)
-- [Kenmore Oven F1 error code](/posts/kenmore-oven-f1-error-code/)
-- [Kenmore Oven F10 error code](/posts/kenmore-oven-f10-error-code/)
+- Kenmore Oven F0 error code
+- Kenmore Oven F1 error code
+- Kenmore Oven F10 error code
 - [Kenmore Oven F2 error code](/posts/kenmore-oven-f2-error-code/)
-- [Kenmore Oven F3 error code](/posts/kenmore-oven-f3-error-code/)
-- [Kenmore Oven F30 error code](/posts/kenmore-oven-f30-error-code/)
-- [Kenmore Oven F31 error code](/posts/kenmore-oven-f31-error-code/)
-- [Kenmore Oven F33 error code](/posts/kenmore-oven-f33-error-code/)
-- [Kenmore Oven F4 error code](/posts/kenmore-oven-f4-error-code/)
-- [Kenmore Oven F5 error code](/posts/kenmore-oven-f5-error-code/)
-- [Kenmore Oven F50 error code](/posts/kenmore-oven-f50-error-code/)
-- [Kenmore Oven F7 error code](/posts/kenmore-oven-f7-error-code/)
+- Kenmore Oven F3 error code
+- Kenmore Oven F30 error code
+- Kenmore Oven F31 error code
+- Kenmore Oven F33 error code
+- Kenmore Oven F4 error code
+- Kenmore Oven F5 error code
+- Kenmore Oven F50 error code
+- Kenmore Oven F7 error code
 
 ## When to Call a Pro
 

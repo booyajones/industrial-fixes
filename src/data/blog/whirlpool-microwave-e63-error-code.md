@@ -17,8 +17,7 @@ money_part: "Console / User Interface Assembly"
 part_price: "$25-120"
 ---
 
-## Whirlpool Microwave E63 Error Code — What It Means
-
+## What this code means
 E63 on a Whirlpool over-the-range microwave indicates a control or user-interface communication fault, not a cooking-performance problem. The error points to an issue in the electronic path between the console (touch panel or keypad) and the main control board. Unlike sensor or magnetron codes, E63 traces to wiring connections, the console assembly itself, or the control board logic that manages the UI. Whirlpool's published error-code pages confirm E63 as a control-side fault but do not publish a detailed plain-language definition in publicly available documents.
 
 In practice, technicians find the code is triggered by loose or corroded ribbon cables connecting the console to the control board, moisture intrusion around the keypad, failed touch-panel assemblies, or less commonly a main control-board fault. Because the exact definition can vary by model platform, consult your specific model's wiring diagram or service sheet for the most accurate diagnostic path.
@@ -26,8 +25,6 @@ In practice, technicians find the code is triggered by loose or corroded ribbon 
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first when the real fault is a $15 ribbon cable or console connector that only needs cleaning and reseating. Always inspect and reseat all console-to-board connectors before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

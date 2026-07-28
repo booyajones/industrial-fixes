@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Washer PF Error Code — What It Means
-
+## What this code means
 The PF code on an Amana washer stands for Power Failure. The control detected that the machine lost power or experienced an interruption while a cycle was running. This is usually a status indication of an external power event, not evidence of a failed washer component.
 
 Amana uses the same PF definition across its top-load washers and dryers. The code appears when utility power drops, a breaker trips, or the plug momentarily loses contact. If PF shows up without any known outage, the issue is most likely in your house wiring or receptacle rather than inside the washer itself.
@@ -25,8 +24,6 @@ Amana uses the same PF definition across its top-load washers and dryers. The co
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board when PF recurs, but the real culprit is usually a loose plug, weak receptacle, or tripped breaker. Check the power supply and connection first before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

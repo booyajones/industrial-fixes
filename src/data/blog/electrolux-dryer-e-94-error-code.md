@@ -17,15 +17,12 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Electrolux Dryer E94 Error Code — What It Means
-
+## What this code means
 The E94 code indicates a configuration error internal to the main control board. This means the electronic control board has failed to correctly load, initialize, or validate its internal software configuration or cycle parameters. The dryer cannot determine how to run a cycle because the board's firmware or memory is corrupted. Electrolux classifies this as an engineer code, not a standard user error, signaling that the control board itself is logically compromised or has lost its configuration data.
 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the user interface panel or wiring harnesses, but E94 is an internal board fault. A 5-minute hard reset will confirm whether the board needs replacement, saving unnecessary parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

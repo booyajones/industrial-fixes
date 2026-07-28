@@ -13,13 +13,10 @@ money_part: "Motor cable (shielded VFD-rated)"
 most_likely_cause: "Mechanical overload or jammed load"
 ---
 
-## ABB ACS580 A2B1 Fault Code — What It Means
-
+## What this code means
 The A2B1 fault on an ABB ACS580 drive indicates an overcurrent condition. The drive has detected that output current to the motor exceeded its internal fault limit and shut down to protect itself. This fault code appears with auxiliary code 2310 in the event log.
 
 Although the primary meaning is overcurrent, ABB notes that A2B1 can also be triggered by an earth fault or a missing motor phase. The fault may occur during startup, acceleration, or steady-state operation depending on the root cause. The drive will not restart until you clear the fault and address the underlying problem.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ Although the primary meaning is overcurrent, ABB notes that A2B1 can also be tri
 ## When to Call a Pro
 
 Contact ABB service or a qualified drive technician if the A2B1 fault persists after you have verified the load, corrected the ramp settings, checked all wiring, confirmed motor parameters, and ruled out external shorts or ground faults. Repeated overcurrent trips that occur with no mechanical overload or wiring issue may indicate internal drive damage to the IGBT modules or current sensors that require factory-level diagnostics and repair. ABB's troubleshooting guide directs users to contact service when standard checks do not resolve the fault.
-
-## See Also
-
-- [ABB ACS880 Fault 2310 Overcurrent — Causes & Fix](/posts/abb-acs880-fault-2310-overcurrent/)
-- [ABB ACS580 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs580-fault-3130/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-- [ABB ACS580 Fault 2310 — Overcurrent Fix](/posts/abb-acs580-2310-fault/)

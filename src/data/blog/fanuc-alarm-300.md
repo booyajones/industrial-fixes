@@ -60,18 +60,3 @@ The "n" in "n-TH AX" refers to the axis number — Alarm 300 with axis 1 = X axi
 If you've replaced the battery with the machine powered on, cleared the alarm, re-referenced the axes, and Alarm 300 returns — the encoder itself is likely failing. Encoder replacement requires removal of the servo motor, encoder disassembly, and re-initialization — a job for a Fanuc-trained technician. If Alarm 300 returns on multiple axes simultaneously after battery replacement, the servo amplifier or the CNC control's encoder interface card may have failed. Tell the tech: "Alarm 300 on axis [n], battery replaced with machine powered on, alarm clears but returns within [minutes/hours/power cycles]. I need encoder or amp diagnosis."
 
 > **Pro tip:** When replacing Fanuc APC batteries, replace ALL axis batteries at the same time, even if only one axis alarmed. They were all installed at the same time and will all fail around the same time. The cost of the batteries is trivial compared to re-referencing multiple axes after a cascade of 300 alarms on production startup.
-
-## Related Articles
-
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
-- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
-- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
-
-## See Also
-
-- [Fanuc Alarm 4 — Stored Stroke Limit Overtravel](/posts/fanuc-alarm-4-overtravel/)
-- [Fanuc M-Series Control Alarm Codes: Complete Guide](/posts/fanuc-m-series-alarm-codes/)
-- [Fanuc Alarm 500 — Causes & Fix](/posts/fanuc-alarm-500/)
-- [Fanuc OT Alarm — Software Overtravel (All Series)](/posts/fanuc-ot-alarm-soft/)

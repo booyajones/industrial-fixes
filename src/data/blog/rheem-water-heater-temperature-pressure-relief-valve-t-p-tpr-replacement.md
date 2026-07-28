@@ -53,15 +53,8 @@ T&P valves fail when the internal seat wears out, mineral scale builds up and pr
 If this part is failing you may also see one of these codes:
 
 - [Rheem Water Heater A01 error code](/posts/rheem-water-heater-a01-error-code/)
-- [Rheem Water Heater Alarm 401 error code](/posts/rheem-water-heater-alarm-401-error-code/)
+- Rheem Water Heater Alarm 401 error code
 
 ## When to Call a Pro
 
 Call a licensed plumber or water heater technician if you find the valve lifting repeatedly even after replacement, which points to over-pressure from thermal expansion, a faulty expansion tank, or excessive incoming water pressure that requires backflow preventer or pressure-reducing valve work. Also call a pro if your local code requires a licensed plumber for any water heater pressure-relief work, if the valve threads in the tank are damaged or corroded, or if you're not comfortable draining the tank and working with threaded pipe fittings. For gas water heaters, any work beyond the T&P valve replacement (burner, gas valve, or venting issues) should be handled by a qualified gas technician. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rheem XE40T06ST45U1 Water Heater Problems & Error Codes](/posts/rheem-xe40t06st45u1-water-heater-problems/)
-- [Rheem 401 Alarm - Causes & Fix](/posts/rheem-water-heater-alarm-401-error-code/)
-- [Rheem Furnace 6 Flashes — Rollout Switch Open Fix](/posts/rheem-furnace-6-flashes/)
-- [Rheem Water Heater Blinking Light Codes — What Each Flash Means and How to Fix It](/posts/rheem-water-heater-blinking-light-codes/)

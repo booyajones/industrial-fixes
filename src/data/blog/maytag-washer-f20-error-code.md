@@ -22,8 +22,7 @@ part_price: "$40-70"
 no_buy_pct: "70%"
 ---
 
-## Maytag Washer F20 Error Code — What It Means
-
+## What this code means
 The F20 error code on a Maytag front-load washer means the control board has detected insufficient water supply. The washer relies on a flowmeter inside the machine to count water pulses as it fills. If the flowmeter does not register the expected volume before the fill timer runs out, the board triggers F20 and stops the cycle.
 
 This code does not always mean a failed part. Most often it points to a restriction in the water path: clogged screens, kinked hoses, or valves that are not fully open. The washer itself may be fine, but the water cannot reach it in time.
@@ -31,8 +30,6 @@ This code does not always mean a failed part. Most often it points to a restrict
 ## Before You Replace Anything
 
 Homeowners often replace the water inlet valve or flowmeter first. Before ordering parts, disconnect the inlet hoses and inspect the small mesh screens inside the washer ports for sediment or calcium buildup.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

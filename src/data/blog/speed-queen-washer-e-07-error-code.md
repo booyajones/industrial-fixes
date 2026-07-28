@@ -14,11 +14,8 @@ money_part: "Front-end control board (user interface / display board)"
 most_likely_cause: "Loose or disconnected harness plugs"
 ---
 
-## Speed Queen Washer E:07 Error Code — What It Means
-
+## What this code means
 The E:07 (or E7) code on a Speed Queen washer indicates an inoperative control or control communication fault. The washer's electronic control system has detected that a required control function or communication path between boards is not working correctly. This is not a heater fault. The issue typically involves loose or corroded wiring connections, damaged harness conductors, or a failed control board. In many cases, the fault can be cleared by reseating connectors or cycling power to reset the control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

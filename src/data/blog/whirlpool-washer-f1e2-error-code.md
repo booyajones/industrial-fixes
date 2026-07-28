@@ -16,8 +16,7 @@ money_part: "Electronic control board (ECB / clock / main board)"
 part_price: "$100-250"
 ---
 
-## Whirlpool F1E2 Error Code — What It Means
-
+## What this code means
 Whirlpool uses F1E2 differently depending on the appliance family. For Whirlpool top-load washers, F1E2 is a control-panel fault that Whirlpool says can often be cleared by cycling power for 5 minutes. For Whirlpool ranges and ovens, F1-E2 is listed as a "UL A/D Error," which points to an analog-to-digital conversion problem or electronic control-board-related fault rather than a temperature or sensor error.
 
 Because the code is used across product lines with different meanings, always check your owner's manual or wiring diagram to confirm the exact definition for your model. On both appliances the first repair step is a full power reset. If the code returns after that reset, the issue is no longer a simple glitch and requires service diagnosis.
@@ -25,8 +24,6 @@ Because the code is used across product lines with different meanings, always ch
 ## Before You Replace Anything
 
 Many people replace the electronic control board without first checking the wiring harness and connectors for looseness or corrosion. Inspect and reseat every connector in the control area before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 CPF19 Fault — What It Means
-
+## What this code means
 CPF19 on a Yaskawa A1000 variable frequency drive is a CPU error within the control circuit fault group (CPF11–CPF21). The drive has detected an internal failure in its control electronics, not a problem with the motor, wiring, or load. This is a hardware-level fault that tells you the drive's logic circuitry or control board has failed or been damaged.
 
 Yaskawa's fault table lists the corrective action as cycling power and, if the fault persists, replacing the control board or the entire drive. Unlike motor overloads or communication faults, CPF19 points to internal damage in the drive itself, often requiring board-level or complete unit replacement rather than field adjustments.
@@ -24,8 +23,6 @@ Yaskawa's fault table lists the corrective action as cycling power and, if the f
 ## Before You Replace Anything
 
 Technicians sometimes swap the digital operator or inspect external wiring first, but CPF19 is a CPU fault inside the drive. Power-cycle the unit and check the fault history before ordering parts. If the code returns immediately, the control board or drive hardware is at fault, not accessories.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a qualified drives technician or electrical contractor if you see CPF19 on your Yaskawa A1000. This fault involves internal control electronics and requires expertise in VFD diagnostics, safe high-voltage lockout, and proper board or drive replacement. A technician will power-cycle the unit, review the fault log, inspect the control board for damage, and determine whether board-level replacement is feasible or whether the entire drive must be replaced. Attempting DIY repair on a VFD control board without training risks electric shock, further damage to the drive, and voiding manufacturer support. Professional service also ensures the replacement drive or board is correctly configured for your motor parameters, communication protocols, and application requirements.
 
 **Rough cost:** A pro service call runs about $400–$1,200 for control-board replacement; $1,500–$5,000+ for drive replacement depending on horsepower.
-
-## See Also
-
-- [Yaskawa GA800 E43 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e43-fault-code/)
-- [Yaskawa GA800 E24 Fault - Causes & Fix](/posts/yaskawa-ga800-e24-fault-code/)
-- [Yaskawa GA800 VFD E54 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e54-fault-code/)
-- [Yaskawa GA800 E15 Fault - Causes & Fix](/posts/yaskawa-ga800-e15-fault-code/)

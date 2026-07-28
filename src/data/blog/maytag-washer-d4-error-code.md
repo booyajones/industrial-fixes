@@ -19,8 +19,7 @@ free_checks:
 part_price: "$50-120"
 ---
 
-## Maytag Washer D4 Error Code — What It Means
-
+## What this code means
 Maytag does not use D4 as a universal code across all washers. On top-load models equipped with temperature-sensing water valves, D4 signals a water temperature sensor error. On certain front-load models (MAH14, MAH20, MAH21 platforms), D4 indicates a door sense error on the control board. You must confirm your exact model number and whether you have a top-load or front-load machine before diagnosing, because the same code label points to completely different faults depending on the washer family.
 
 For top-load machines, the code means the control is not receiving a valid signal from the temperature sensor built into the water inlet valve. For front-load machines, the code means the main control board cannot confirm the door is properly latched and locked. Maytag's own diagnostic tables show these two distinct meanings, and attempting to troubleshoot the wrong circuit wastes time and parts.
@@ -28,8 +27,6 @@ For top-load machines, the code means the control is not receiving a valid signa
 ## Before You Replace Anything
 
 Many owners replace the main control board first without checking the actual sensor, valve assembly, or door switch. On top-load machines, inspect the inlet valve harness and connectors before condemning the board. On front-load machines, test the door latch and switch circuit before replacing the control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

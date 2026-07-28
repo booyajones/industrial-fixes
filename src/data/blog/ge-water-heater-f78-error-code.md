@@ -11,11 +11,8 @@ tags:
   - ge
 ---
 
-## GE Water Heater F78 Error — What It Means
-
+## What this code means
 The F78 error code does not appear in available GE water heater documentation. This code is documented only for Miele dishwashers, where it indicates a blocked circulation pump or technical fault. If you see F78 on a GE water heater display, double-check the model number and control panel. The code may be misread, the display may be faulty, or the unit may be a different brand or appliance type. GE water heaters typically use different fault code formats, so confirming the exact model and error message is the first step before attempting any repair.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -21,8 +21,7 @@ free_checks:
 part_price: "$120-220"
 ---
 
-## Kenmore Dishwasher F9E2 Error — What It Means
-
+## What this code means
 The F9E2 error code on Kenmore dishwashers indicates a diverter drive fault. The control board has detected that the diverter assembly is either blocked or not indexing correctly through its spray positions during the wash cycle. The diverter is the component that routes water to different spray arms at different times, and when it cannot move properly the control board throws this fault.
 
 On Kenmore-branded Whirlpool-family platforms the primary cause is a failed diverter relay on the main electronic control board itself, which prevents the control from properly driving the diverter motor. A mechanical obstruction in the diverter assembly is the second possibility. Check your model's tech sheet to confirm the exact meaning, because some Whirlpool-family platforms assign F9E2 to drain-path issues instead of diverter faults.
@@ -30,8 +29,6 @@ On Kenmore-branded Whirlpool-family platforms the primary cause is a failed dive
 ## Before You Replace Anything
 
 Some homeowners replace the diverter motor or wash pump when the real fault is the onboard diverter relay in the control board. Verify the diverter is mechanically free and check all wiring harness connections before ordering a new control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

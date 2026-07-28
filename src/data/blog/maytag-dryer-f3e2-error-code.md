@@ -17,8 +17,7 @@ money_part: "Moisture sensor bars (drum moisture electrodes)"
 part_price: "$30-80"
 ---
 
-## Maytag Dryer F3E2 Error Code — What It Means
-
+## What this code means
 The F3E2 code on a Maytag dryer indicates a moisture sensor issue. Maytag states the code appears when five consecutive loads are dried without the control board registering moisture sensor data. This does not mean the dryer is overheating. Instead, the control is not seeing valid input from the two moisture-sensing bars inside the drum during automatic cycles.
 
 In practice, the dryer ran five loads where clothes did not make consistent contact with the sensor bars, or the sensor circuit itself failed to send data back to the control. The fault can be triggered by user habits (very small loads or single items), installation problems (an unlevel dryer), or a genuine component failure in the sensor assembly, wiring, or control board.
@@ -27,32 +26,14 @@ In practice, the dryer ran five loads where clothes did not make consistent cont
 
 Homeowners often replace the control board first, assuming an electronics fault. In most cases the fix is leveling the dryer, cleaning lint or residue off the sensor bars, or testing the sensor harness for a loose connector.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Dryer not level (~35%)** When the dryer is not level, wet clothes fall away from the moisture sensor bars and the control never sees valid moisture data over multiple cycles.
-- **Very small loads or single items (~30%)** A single towel or very light load does not reliably contact both moisture sensor bars, so the control logs no moisture input and increments the fault counter.
-- **Lint film or residue on the sensor bars (~15%)** Fabric softener, detergent residue, or lint buildup on the two sensor bars inside the drum can insulate them and prevent the circuit from detecting moisture.
-- **Loose or corroded sensor harness connection (~12%)** The plug or wiring between the moisture sensor and the control board can work loose, corrode, or break, blocking data transmission even when the sensor itself is good.
-- **Failed moisture sensor assembly (~6%)** The sensor bars or the internal sensor circuit can fail outright, preventing the control from ever seeing moisture data.
-- **Control board input circuit fault (~2%)** If the sensor and wiring test good but the code persists, the control board's moisture-sensor input circuit may be defective.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Is the dryer sitting level front-to-back and side-to-side?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Leveling is not the issue. Move to the next check.<br><strong>No:</strong> Adjust the leveling feet until the dryer is level. Clear the code and run a normal-sized automatic cycle. If the code does not return, the problem is solved.</div>
-</details>
-
-<details class="dtree"><summary>Have you been drying very small loads, single items, or using timed-dry cycles exclusively?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The control may have logged five loads with no moisture data simply because clothes never touched the sensor bars. Run a normal automatic cycle with a full load of mixed fabrics. If F3E2 does not return, resume using appropriate load sizes.<br><strong>No:</strong> Load size is not the cause. Check the sensor bars and wiring.</div>
-</details>
-
-<details class="dtree"><summary>Can you see or feel lint, residue, or a foreign object on the two metal moisture sensor bars inside the drum?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Clean the bars with rubbing alcohol and a soft cloth. Clear the code and test. If the fault clears, buildup was blocking sensor operation.<br><strong>No:</strong> The sensor surface is clean. Inspect the sensor harness connector behind the drum and test the sensor circuit for continuity. If both check good, suspect the control board.</div>
-</details>
+- **Dryer not level** When the dryer is not level, wet clothes fall away from the moisture sensor bars and the control never sees valid moisture data over multiple cycles.
+- **Very small loads or single items** A single towel or very light load does not reliably contact both moisture sensor bars, so the control logs no moisture input and increments the fault counter.
+- **Lint film or residue on the sensor bars** Fabric softener, detergent residue, or lint buildup on the two sensor bars inside the drum can insulate them and prevent the circuit from detecting moisture.
+- **Loose or corroded sensor harness connection** The plug or wiring between the moisture sensor and the control board can work loose, corrode, or break, blocking data transmission even when the sensor itself is good.
+- **Failed moisture sensor assembly** The sensor bars or the internal sensor circuit can fail outright, preventing the control from ever seeing moisture data.
+- **Control board input circuit fault** If the sensor and wiring test good but the code persists, the control board's moisture-sensor input circuit may be defective.
 
 ## Step-by-Step Fix {#fix}
 
@@ -75,5 +56,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a professional if you are uncomfortable working with the dryer's wiring harness, if you cannot access the sensor connector behind the drum, or if you have tested the sensor circuit and found no clear fault but the code continues to appear. A technician can perform voltage and signal tests at the control board to isolate whether the problem is on the sensor side or the control side. Also call a pro if you have replaced the sensor and harness and the fault remains, since that points to a control board issue that requires experience to diagnose and safety precautions to replace.
-
-**Rough cost:** DIY runs about $30-80 in parts (moisture sensor assembly if needed), 30-60 min. A pro service call runs about $150-250 including service call and sensor replacement if required.

@@ -13,11 +13,8 @@ money_part: "Motor output cable"
 most_likely_cause: "Motor insulation failure"
 ---
 
-## Danfoss FC301 Fault AL 14 — What It Means
-
+## What this code means
 Alarm 14 (Ground Fault) on a Danfoss FC301 drive means the drive has detected an abnormal current flow to earth ground on the motor output side. The FC301 is Danfoss's HVAC-optimized VLT drive, designed for pumps and fans in building automation systems. AL 14 fires when the vector sum of the three output phase currents is not zero — indicating current is leaking to ground through insulation breakdown, a wiring fault, or moisture ingress. The drive trips immediately to protect both equipment and personnel. This is the same alarm code as AL 14 on the FC302 and FC51 drives.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,10 +42,3 @@ Alarm 14 (Ground Fault) on a Danfoss FC301 drive means the drive has detected an
 ## When to Call a Pro
 
 Megohmmeter testing and motor insulation diagnosis should be performed by a qualified electrician. A motor with insulation failure below 1 MΩ is a safety hazard and must not be operated until repaired or replaced.
-
-## See Also
-
-- [Danfoss FC302 Complete Fault Code Guide — All Faults and Fixes](/posts/danfoss-fc302-complete-guide/)
-- [Danfoss VLT Alarm 14 - Earth Fault: What It Means and How to Fix It](/posts/danfoss-vlt-alarm-14/)
-- [Danfoss FC-302 Alarm 12 — Overcurrent Fix](/posts/danfoss-fc302-alarm-12/)
-- [Danfoss FC-302 Alarm 13 — DC Link Overvoltage Fix](/posts/danfoss-fc302-alarm-13/)

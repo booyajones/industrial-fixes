@@ -19,8 +19,6 @@ When a Kenmore dryer gets too hot, it means either the temperature control syste
 
 Most overheating cases trace back to poor airflow. When lint blocks the exhaust vent or the outdoor termination is crushed or clogged, hot humid air backs up in the drum and the dryer can't cool itself. The other main group of causes involves the thermistor (temperature sensor), its wiring, or the heating circuit staying on when it shouldn't. Technicians treat this as an airflow and temperature-control diagnosis first, because blocked venting is cited across Kenmore troubleshooting guides as the most common root cause.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Blocked or restricted exhaust vent** Lint buildup in the vent hose, crushed flexible duct, clogged exterior hood, or a packed lint screen prevents hot air from escaping and causes the dryer to overheat.

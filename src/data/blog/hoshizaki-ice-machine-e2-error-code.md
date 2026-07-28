@@ -18,8 +18,7 @@ free_checks:
   - "Inspect the evaporator for visible scale or mineral crust and clean if present"
 ---
 
-## Hoshizaki E2 Error Code — What It Means
-
+## What this code means
 E2 is a harvest-timing fault. Your Hoshizaki ice machine did not complete its harvest cycle (the phase when warm refrigerant releases ice from the evaporator) within the allowed time, so the control board flagged the cycle as abnormal and stopped operation. The machine expected ice to drop cleanly and quickly, but something slowed or prevented release.
 
 The code does not point to one component. It tells you the harvest process timed out. The real cause can be mineral scale on the evaporator that holds ice in place, a harvest valve that doesn't open or shift refrigerant properly, low or interrupted water supply, a dirty condenser starving airflow, a faulty thermistor giving the board wrong temperature readings, or a refrigeration fault like low charge that prevents the normal freeze-to-harvest transition.
@@ -27,8 +26,6 @@ The code does not point to one component. It tells you the harvest process timed
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board or thermistor first without cleaning the evaporator or checking the harvest valve. Inspect and clean scale buildup and verify the harvest valve shifts before swapping sensors or electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a commercial refrigeration technician if you have cleaned the evaporator and condenser, verified good water supply, and the E2 fault still appears after every harvest attempt. Harvest-valve replacement, thermistor diagnosis with model-specific resistance tables, and refrigerant-side troubleshooting require gauges, recovery equipment, and knowledge of sealed-system service. Also call a pro if you see refrigerant leaks, frozen coils that do not thaw during harvest, or if the compressor runs continuously without cycling. Ice-machine service on Hoshizaki equipment is best left to techs familiar with the brand's control logic and nickel-plated evaporators, which require specific cleaners and procedures to avoid damage.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Hoshizaki KM-2000SAJ Ice Machine Error Codes - Full Diagnostic Guide](/posts/hoshizaki-km-2000saj-error-codes/)
-- [Hoshizaki vs Manitowoc Ice Machines — A Commercial Tech's Honest Comparison (2026)](/posts/hoshizaki-vs-manitowoc-ice-machines/)
-- [Hoshizaki KM Series E1 Error Code — Causes & Fix](/posts/hoshizaki-km-series-e1-error/)
-- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)

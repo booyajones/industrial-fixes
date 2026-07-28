@@ -20,8 +20,6 @@ A Whirlpool oven that is not heating is a symptom, not a single fault code. The 
 
 In some cases you may also see fault code F9 or F9 E0 on the display. Whirlpool states that F9 / F9 E0 means the electrical outlet or appliance connection may be miswired, or the control has detected incorrect voltage or power-line noise. Even without a code, loss of one leg of 240V supply, a broken heating element, a weak gas igniter, or a failed temperature sensor are the usual culprits.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Tripped breaker or partial loss of 240V power** Whirlpool warns that a breaker can trip partially so the display and lights still work but the oven will not heat because one leg of 240V is missing.
@@ -58,7 +56,7 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Whirlpool Oven A6 error code](/posts/whirlpool-oven-a6-error-code/)
 - [Whirlpool Oven Ab error code](/posts/whirlpool-oven-ab-error-code/)
-- [Whirlpool Oven Cal error code](/posts/whirlpool-oven-cal-error-code/)
+- Whirlpool Oven Cal error code
 - [Whirlpool Oven F1 E0 error code](/posts/whirlpool-oven-f1-e0-error-code/)
 - [Whirlpool Oven F1 E1 error code](/posts/whirlpool-oven-f1-e1-error-code/)
 - [Whirlpool Oven F2 E0 error code](/posts/whirlpool-oven-f2-e0-error-code/)

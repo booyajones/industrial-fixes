@@ -13,11 +13,8 @@ money_part: "Flame sensor rod"
 most_likely_cause: "Dirty or oxidized flame sensor"
 ---
 
-## Trane 9 Flashes Error Code — What It Means
-
+## What this code means
 Nine flashes on a Trane furnace status LED indicates a **low or no flame signal** — the ignitor lit the burner, but the flame sensor returned a microamp reading too low for the board to confirm stable combustion. The board will allow 3–4 ignition trials before locking out. This fault most often points to a contaminated flame sensor, but a weak gas supply or marginal ignitor can also cause it. The furnace will attempt to restart after the lockout timer, then lock out again if the issue isn't resolved.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Nine flashes on a Trane furnace status LED indicates a **low or no flame signal*
 ## When to Call a Pro
 
 If cleaning the flame sensor and verifying gas pressure don't resolve the fault, and the furnace consistently fails to hold flame, suspect a cracked heat exchanger pulling excess combustion air across the burner. This is a safety issue requiring professional inspection — do not continue operating the furnace.
-
-## Related Articles
-
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-
-## See Also
-
-- [Trane Rooftop Unit Error Codes: Common Faults Guide](/posts/trane-rooftop-unit-error-codes/)
-- [Trane XV20i Error Code 79: Communicating Thermostat Fault Fix](/posts/trane-error-79-xv20i/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane XL18i Heat Pump Error Codes: Flash Codes and ComfortLink II Faults](/posts/trane-xl18i-error-codes/)

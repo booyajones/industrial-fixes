@@ -19,8 +19,6 @@ A Samsung washer that won't spin is not usually tied to one single fault code. M
 
 If the washer won't spin with no code displayed, the issue may still be a drain problem or a motor issue requiring service. Samsung's general troubleshooting guidance directs technicians to check the basics first: power, door closure, drain filter, drain hose, and water supply conditions before moving to component-level diagnosis.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Unbalanced or overloaded laundry** Samsung and repair guides both identify load balance as the primary cause of spin failure.

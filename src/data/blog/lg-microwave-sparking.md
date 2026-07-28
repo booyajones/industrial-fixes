@@ -19,8 +19,6 @@ Sparking or arcing inside your LG microwave is a symptom, not a displayed error 
 
 LG says arcing can be caused by food spills that have overcooked and carbonized, improper cookware or metal items, an incorrectly installed rack, or damage to the oven cavity. Running the microwave empty can also cause sparking because there is nothing to absorb the microwaves.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Food residue or carbonized buildup** Overcooked food spills on the cavity walls, ceiling, floor, waveguide cover, rack supports, or around the door frame can arc when exposed to microwave energy.
@@ -70,10 +68,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 If you see damaged or burned interior surfaces, or if sparking persists after thorough cleaning and verifying correct usage, stop using the microwave and call a professional. LG says to discontinue use if the cavity is damaged. Internal component issues like a failing magnetron require a qualified technician to diagnose and replace safely.
-
-## See Also
-
-- [LG WM3500CW Washer Problems & Error Codes](/posts/lg-wm3500cw-washer-problems/)
-- [LG Dryer E00 Error Code - Causes & Fix](/posts/lg-dryer-e00-error-code/)
-- [LG Oven F5 Error Code - Causes & Fix](/posts/lg-oven-f5-error-code/)
-- [LG Dishwasher CE Error Code - Causes & Fix](/posts/lg-dishwasher-ce-error-code/)

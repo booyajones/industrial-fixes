@@ -14,13 +14,10 @@ money_part: "Pressure switch (water-level sensor)"
 most_likely_cause: "Kinked or restricted drain hose"
 ---
 
-## Speed Queen Washer E:0d Error — What It Means
-
+## What this code means
 The E:0d error on a Speed Queen washer indicates a pressure switch or pressure-sensing fault. The machine uses a pressure sensor to detect how much water is in the tub, and this code appears when the control receives an incorrect or no signal from that sensor. This can happen because the tub is not draining properly, the pressure hose is blocked or leaking, or the pressure switch itself has failed.
 
 Unlike a simple door latch error, E:0d is a water-level detection problem. The washer may refuse to start a cycle, stop mid-cycle, or display the code after attempting to fill or drain. The fault is often mechanical (kinked hoses, clogs) rather than electronic, so most homeowners can diagnose and fix it without special tools.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

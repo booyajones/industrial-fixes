@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Bosch Washer F20 Error Code — What It Means
-
+## What this code means
 Bosch F20 (also shown as E20 on some models) indicates unexpected heating in the washing machine. The washer is detecting that water is heating when the selected program should not be heating, or heating is occurring at the wrong time. According to Bosch support documentation, this fault means the heating element is energizing without a command from the central controller, or the temperature sensor is incorrectly reporting a rise in water temperature.
 
 The code points to a problem in the heating circuit: either the control board is sending an unwanted heater command, the heater relay is stuck closed, the NTC temperature sensor or its wiring is faulty, or the heating element itself has an insulation breakdown allowing current to leak to the chassis. Bosch advises a power-cycle reset first. If the error returns, the issue requires component-level diagnosis of the temperature sensor, heater relay, heating element, and associated wiring.
@@ -25,8 +24,6 @@ The code points to a problem in the heating circuit: either the control board is
 ## Before You Replace Anything
 
 Many people replace the control board first when the real culprit is a failed NTC sensor or a heating element with insulation breakdown to ground. Always test the NTC sensor resistance and check the heater element for leakage to chassis before swapping the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

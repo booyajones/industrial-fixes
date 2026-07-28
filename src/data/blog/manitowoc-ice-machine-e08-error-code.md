@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Manitowoc E08 Error Code — What It Means
-
+## What this code means
 E08 on a Manitowoc ice machine means the control board has detected a TXV (thermostatic expansion valve) fault on a single- or dual-circuit evaporator. The TXV meters refrigerant into the evaporator coil, and when it malfunctions the machine cannot maintain proper refrigeration during the freeze or harvest cycle. This code does not mean a generic harvest failure, even though some field reports describe it that way. The fault points specifically to the expansion-valve circuit and the refrigerant feed to the evaporator.
 
 A TXV fault can show up as uneven frost on the evaporator, poor ice production, abnormal cycle times, or a machine that never completes a harvest. Because the exact meaning of E08 can vary slightly across different Manitowoc models and controller generations, always confirm the code definition in your service manual before ordering parts. This is a refrigerant-circuit problem and requires EPA-certified refrigeration tools and knowledge to diagnose and repair safely.
@@ -24,8 +23,6 @@ A TXV fault can show up as uneven frost on the evaporator, poor ice production, 
 ## Before You Replace Anything
 
 Technicians sometimes replace the harvest relay or hot-gas valve assuming E08 is a harvest fault, but the code actually indicates a TXV problem. Check system pressures and evaporator frost pattern before replacing any harvest components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a refrigeration technician immediately. E08 is a sealed-system fault that requires EPA Section 608 certification to diagnose and repair legally. The technician will need refrigerant gauges, a vacuum pump, a recovery machine, and the Manitowoc service manual for your model. Do not attempt to replace the TXV yourself unless you are certified and equipped. Mishandling refrigerant or installing the wrong valve can damage the compressor, void your warranty, and violate federal law. If your machine is under warranty, contact Manitowoc or your authorized service agent before any work begins.
 
 **Rough cost:** A pro service call runs about $250-500.
-
-## See Also
-
-- [Manitowoc Ice Machine Error Code 4 — Water Curtain Fault Fix](/posts/manitowoc-ice-machine-error-code-4-water-curtain/)
-- [Manitowoc Ice Machine E01 Error Code — Causes & Fix](/posts/manitowoc-ice-machine-error-code-e01/)
-- [Manitowoc ID-0502 Error Codes — Fault Code Diagnostic Guide](/posts/manitowoc-id-0502-error-codes/)
-- [Manitowoc Ice Machine Error Code 8 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-8/)

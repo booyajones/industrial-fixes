@@ -18,8 +18,7 @@ free_checks:
   - "Consult the wiring diagram or error-code legend pasted inside the furnace access panel."
 ---
 
-## Trane E10 Error Code — What It Means
-
+## What this code means
 The E10 error code is not documented in Trane's official furnace troubleshooting guides. Trane residential furnaces use single-digit codes (1 through 9) or two-character codes like IFC, PS, LS, and FS. If you see E10 on what you believe is a Trane furnace, you may have misread the display, the unit may be a different brand (such as American Standard), or the code may come from a third-party diagnostic tool rather than Trane's factory control board.
 
 Before attempting any repair, verify the brand and model number on the unit's exterior label. Check your owner's manual or Trane's published error-code list for your specific model. If the code persists, write down the exact LED flash pattern or alphanumeric display and contact a licensed HVAC technician to avoid misdiagnosis or safety hazards with gas and electrical systems.
@@ -27,8 +26,6 @@ Before attempting any repair, verify the brand and model number on the unit's ex
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board after seeing an unfamiliar code when the real issue is a misread display or a different brand's system. Always verify the unit brand and consult the official manual before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician immediately if you cannot confirm the unit is a Trane furnace or if the code does not appear in Trane's published list. Furnace repairs involve natural gas, high-voltage electricity, and carbon-monoxide risks. A technician will verify the brand, read the factory diagnostics, and test components with calibrated meters to avoid replacing the wrong part. Trane's official guidance is to contact a professional rather than attempt DIY diagnosis when the error code is unclear or not documented.
 
 **Rough cost:** A pro service call runs about $150-350 for a diagnostic visit and repair, depending on the actual fault.
-
-## See Also
-
-- [Trane XR14 Heat Pump Error Codes — Fault Code Diagnostic Guide](/posts/trane-xr14-error-codes/)
-- [Trane XR90 Furnace Error Codes — Fault Code Diagnostic Guide](/posts/trane-xr90-error-codes/)
-- [Trane Precedent Rooftop Unit Error Codes: Complete Guide](/posts/trane-precedent-error-codes/)
-- [Trane Furnace 3 Flashes - Causes & Fix](/posts/trane-furnace-3-flashes-error-code/)

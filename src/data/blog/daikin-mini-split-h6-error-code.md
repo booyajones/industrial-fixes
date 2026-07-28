@@ -19,8 +19,7 @@ free_checks:
   - "Check for loose or visibly corroded wire terminals at the outdoor unit compressor and PCB connections."
 ---
 
-## Daikin H6 Error Code — What It Means
-
+## What this code means
 The Daikin H6 error code signals a malfunction of the position detection sensor in the outdoor unit compressor. This sensor monitors the rotational position of the compressor motor for the inverter drive. When it fails or loses signal, the system halts operation to prevent damage. The fault can stem from faulty contact in the compressor cable, a defective compressor, or a problem with the outdoor unit PCB control board.
 
 Daikin defines H6 as an operation halt due to a faulty position detection sensor. Do not confuse this with blower motor issues (a common misunderstanding in online forums). H6 is strictly a compressor position sensor fault, not related to refrigerant pressure or air-side components.
@@ -28,8 +27,6 @@ Daikin defines H6 as an operation halt due to a faulty position detection sensor
 ## Before You Replace Anything
 
 Some homeowners wrongly suspect the indoor blower motor or air filter. H6 is a compressor position sensor fault, not an airflow issue. Power-cycle the system first to rule out a phantom glitch before replacing expensive parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician immediately for H6 errors. This code involves the sealed refrigerant system, high-voltage outdoor unit work, and specialized diagnostics. Testing the position sensor circuit requires a multimeter and knowledge of your model's service manual voltage specs. Compressor replacement demands refrigerant recovery, brazing, evacuation, and recharge under EPA regulations. Even wiring repairs at the outdoor PCB can expose you to 240V power and refrigerant lines. Do not attempt this repair unless you hold an EPA 608 certification and have HVAC training.
 
 **Rough cost:** A pro service call runs about $200-600 for wiring repair or PCB replacement, $800-1,800 for compressor replacement.
-
-## See Also
-
-- [Daikin UH Error Code - Causes & Fix](/posts/daikin-heat-pump-uh-error-code/)
-- [Daikin VRV / VRF U4 Error Code — Communication Fault Fix](/posts/daikin-vrv-vrf-u4-error-code/)
-- [Daikin F3 Error Code - Causes & Fix](/posts/daikin-mini-split-f3-error-code/)
-- [Daikin Mini Split Not Responding to Remote - Causes & Fix](/posts/daikin-mini-split-not-responding-to-remote/)

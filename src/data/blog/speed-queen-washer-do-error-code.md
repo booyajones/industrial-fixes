@@ -14,11 +14,8 @@ money_part: "Door lock or latch assembly"
 most_likely_cause: "Door not fully closed or obstructed"
 ---
 
-## Speed Queen Washer DO Error Code — What It Means
-
+## What this code means
 The DO error code on a Speed Queen washer indicates that the control has detected an open door or lid condition during an active cycle, or that the latch and lock status was not confirmed. The machine will stop operation because it sees an unsafe condition. This fault can appear if the door is actually open, if something is preventing it from closing fully, if the latch mechanism is obstructed or misaligned, or if the door lock assembly or switch has failed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -105,10 +105,3 @@ A: Start with the condenser coil and the outdoor fan. Variable-speed systems rea
 
 **Q: Can a bad sensor cause the YZV to short cycle?**
 A: Yes. If the board loses ambient, coil, suction, or discharge temperature input, it may default into protection logic that limits runtime or shuts the compressor down early. A sensor that reads wrong but has not failed completely can be even more confusing than an open sensor because it can produce believable but incorrect operating decisions.
-
-## See Also
-
-- [York 7 Flashes Error Code — Ignition Lockout Fix](/posts/york-7-flashes-error-code/)
-- [York Furnace Error Codes — Complete Guide](/posts/york-furnace-error-codes/)
-- [York Furnace E4 Error Code — Ignition Failure](/posts/york-furnace-error-code-e4/)
-- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)

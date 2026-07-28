@@ -19,8 +19,6 @@ A Whirlpool dryer that won't start is a symptom, not a fault code. The control e
 
 If your Cabrio model displays PF, that code means power failure and the dryer lost power mid-cycle. Press START to resume or STOP to clear it. If you see Loc on the display, Control Lock is enabled and the dryer will not start until you unlock it.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Control Lock enabled** The Loc indicator or locked controls prevent any cycle from starting until the lock feature is disabled.

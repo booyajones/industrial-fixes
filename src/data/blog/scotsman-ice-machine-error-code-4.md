@@ -13,11 +13,8 @@ money_part: "Scotsman Ice Machine Cleaner (5 lb)"
 most_likely_cause: "Low refrigerant"
 ---
 
-## Scotsman Ice Machine Error Code 4 — What It Means
-
+## What this code means
 Scotsman error code 4 means long freeze — the freeze cycle is taking longer than expected to complete. On Scotsman C-series, HID, and MC series cubers, the control board monitors how long each freeze cycle takes. The board expects a freeze cycle to complete within approximately 30–60 minutes depending on conditions. When the cycle stretches beyond the long-freeze threshold, code 4 is triggered and the machine shuts down. A long freeze cycle is a symptom: the refrigeration system isn't removing heat from the water fast enough to build a full ice slab in the normal time. Low refrigerant, dirty condenser, or high ambient temperature are the leading causes.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Scotsman error code 4 means long freeze — the freeze cycle is taking longer th
 ## When to Call a Pro
 
 If cleaning and descaling don't resolve code 4, the refrigeration system needs pressure testing and possibly recharge. This requires an EPA 608-certified refrigeration technician.
-
-## Related Articles
-
-- [Scotsman C0522 Error Codes — Fix Guide](/posts/scotsman-c0522-error-codes/)
-- [Scotsman HID312 Error Codes — Fault Code Diagnostic Guide](/posts/scotsman-hid312-error-codes/)
-- [Scotsman HID525 Error Codes — Complete Guide](/posts/scotsman-hid525-error-codes/)
-- [Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/scotsman-ice-machine-complete-guide/)
-- [Scotsman Ice Machine Error Code 1 — High Pressure Cutout Fix](/posts/scotsman-ice-machine-error-code-1/)
-
-## See Also
-
-- [Scotsman Prodigy Plus Error Code Guide — Causes & Fixes](/posts/scotsman-prodigy-error-codes/)
-- [Scotsman 5-Flash Code — Pressure Sensor Fault Fix](/posts/scotsman-5-flash-code/)
-- [Scotsman 4-Flash Code — High Discharge Temperature Fix](/posts/scotsman-4-flash-code/)
-- [Scotsman C0522 Error Codes — Fix Guide](/posts/scotsman-c0522-error-codes/)

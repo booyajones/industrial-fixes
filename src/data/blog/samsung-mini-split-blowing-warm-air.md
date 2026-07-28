@@ -19,8 +19,6 @@ A Samsung mini split blowing warm air is a symptom, not a fault code by itself. 
 
 If the unit is running but not cooling, Samsung first directs users to verify Cool mode, correct temperature setting, and airflow conditions rather than assuming a refrigerant or compressor failure. Some indoor-unit error codes indicate a shorted room-temperature sensor, a defective heat-exchanger sensor, a stalled fan motor, or incorrect main control board EEPROM data. For Samsung DC inverter systems, an E101 fault describes a serial communication error between indoor and outdoor units, with possible causes including outdoor PCB issues, serial communication circuit faults, PTC sensor problems, or IPM module damage.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Wrong mode or setpoint** Unit is set to Fan, Auto, Heat, or a temperature not low enough to trigger cooling.
@@ -55,10 +53,10 @@ If the unit is running but not cooling, Samsung first directs users to verify Co
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Samsung Mini Split E1 01 error code](/posts/samsung-mini-split-e1-01-error-code/)
-- [Samsung Mini Split E3 01 error code](/posts/samsung-mini-split-e3-01-error-code/)
-- [Samsung Mini Split E4 01 error code](/posts/samsung-mini-split-e4-01-error-code/)
-- [Samsung Mini Split E5 01 error code](/posts/samsung-mini-split-e5-01-error-code/)
+- Samsung Mini Split E1 01 error code
+- Samsung Mini Split E3 01 error code
+- Samsung Mini Split E4 01 error code
+- Samsung Mini Split E5 01 error code
 
 ## When to Call a Pro
 

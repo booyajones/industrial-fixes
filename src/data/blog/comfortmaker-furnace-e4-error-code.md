@@ -13,11 +13,8 @@ money_part: "Hot surface igniter"
 most_likely_cause: "Failed hot surface igniter (HSI)"
 ---
 
-## Comfortmaker Furnace E4 Error Code — What It Means
-
+## What this code means
 E4 on a Comfortmaker furnace indicates an ignition failure lockout — the control board attempted ignition the maximum number of times (typically three tries) and never detected a stable flame. Comfortmaker is an ICP brand sharing the same control platform as Heil, Tempstar, and Carrier. After E4, the furnace locks out and must be manually reset by cycling power. The root cause is almost always a bad igniter, contaminated flame sensor, or a gas supply problem.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,11 +42,3 @@ E4 on a Comfortmaker furnace indicates an ignition failure lockout — the contr
 ## When to Call a Pro
 
 If gas supply pressure requires measurement, or if the gas valve needs replacement, contact a licensed HVAC technician — gas valve work involves live gas lines and requires proper pressure gauges and leak-testing.
-
-## Related Articles
-
-- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
-- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
-- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

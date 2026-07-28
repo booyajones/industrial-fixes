@@ -20,8 +20,6 @@ A Kenmore oven that won't stop beeping is almost always signaling an active faul
 
 F10 means the control senses the oven is heating when it shouldn't or is exceeding the expected temperature rise. F11 means the control detects a stuck or shorted key on the control panel. Both conditions lock out normal oven operation and trigger a persistent alarm until the fault is cleared or the part is replaced.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed oven temperature sensor** A shorted or out-of-spec sensor sends false overheat readings to the control, triggering F10 and constant beeping.
@@ -60,10 +58,10 @@ If your appliance also shows a code on the display, these match this problem:
 - [Kenmore Oven F3 error code](/posts/kenmore-oven-f3-error-code/)
 - [Kenmore Oven F30 error code](/posts/kenmore-oven-f30-error-code/)
 - [Kenmore Oven F31 error code](/posts/kenmore-oven-f31-error-code/)
-- [Kenmore Oven F33 error code](/posts/kenmore-oven-f33-error-code/)
+- Kenmore Oven F33 error code
 - [Kenmore Oven F4 error code](/posts/kenmore-oven-f4-error-code/)
 - [Kenmore Oven F5 error code](/posts/kenmore-oven-f5-error-code/)
-- [Kenmore Oven F50 error code](/posts/kenmore-oven-f50-error-code/)
+- Kenmore Oven F50 error code
 - [Kenmore Oven F7 error code](/posts/kenmore-oven-f7-error-code/)
 
 ## When to Call a Pro

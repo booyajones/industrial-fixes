@@ -80,11 +80,3 @@ Note: exact fault code naming varies by brand. ABB uses "OC1," "OC2," "OC3" for 
 If you've extended ramps, verified motor parameters, confirmed the mechanical load is free, and the fault code still persists — the fault is likely inside the drive (failed IGBT output transistor, blown gate driver, failed DC bus capacitor) or inside the motor (shorted winding, failed bearing causing high current draw). IGBT testing requires live measurements inside the drive's power section with potentially lethal DC bus voltages present (up to 1,000V DC). This work requires a qualified industrial electrician or drive service technician. Most drive manufacturers have authorized service centers that can bench-test drives and perform IGBT module replacement at substantially less cost than a new drive.
 
 > **Pro tip:** After any VFD fault and reset, don't immediately return to normal operation — watch the first 5 minutes of running carefully. A fault that recurrs within the first 5 minutes at the same operating point means the root cause was not addressed. A fault that appears only after 30+ minutes of running usually points to a thermal issue (OL or OC from motor heating), not a parameter or mechanical problem. The timing of fault recurrence is one of the most useful diagnostic data points a technician has.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

@@ -20,8 +20,6 @@ When you select broil, the oven control should send line voltage to the broil el
 
 The issue is not usually a displayed error code. It means the broil circuit is not energizing the element, most often because the element, wiring, control board relay, thermostat, or temperature sensor has failed.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Burned-out broil element** The element shows visible breaks, blistering, or tests open with no continuity.
@@ -53,18 +51,18 @@ The issue is not usually a displayed error code. It means the broil circuit is n
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kenmore Oven F0 error code](/posts/kenmore-oven-f0-error-code/)
-- [Kenmore Oven F1 error code](/posts/kenmore-oven-f1-error-code/)
-- [Kenmore Oven F10 error code](/posts/kenmore-oven-f10-error-code/)
+- Kenmore Oven F0 error code
+- Kenmore Oven F1 error code
+- Kenmore Oven F10 error code
 - [Kenmore Oven F2 error code](/posts/kenmore-oven-f2-error-code/)
-- [Kenmore Oven F3 error code](/posts/kenmore-oven-f3-error-code/)
-- [Kenmore Oven F30 error code](/posts/kenmore-oven-f30-error-code/)
-- [Kenmore Oven F31 error code](/posts/kenmore-oven-f31-error-code/)
-- [Kenmore Oven F33 error code](/posts/kenmore-oven-f33-error-code/)
-- [Kenmore Oven F4 error code](/posts/kenmore-oven-f4-error-code/)
-- [Kenmore Oven F5 error code](/posts/kenmore-oven-f5-error-code/)
-- [Kenmore Oven F50 error code](/posts/kenmore-oven-f50-error-code/)
-- [Kenmore Oven F7 error code](/posts/kenmore-oven-f7-error-code/)
+- Kenmore Oven F3 error code
+- Kenmore Oven F30 error code
+- Kenmore Oven F31 error code
+- Kenmore Oven F33 error code
+- Kenmore Oven F4 error code
+- Kenmore Oven F5 error code
+- Kenmore Oven F50 error code
+- Kenmore Oven F7 error code
 
 ## When to Call a Pro
 

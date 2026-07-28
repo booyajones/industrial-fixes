@@ -13,11 +13,8 @@ money_part: "Expansion tank (2–5 gallon)"
 most_likely_cause: "Normal pressure loss over time"
 ---
 
-## Weil-McLain Boiler Error Code E10 — What It Means
-
+## What this code means
 The Weil-McLain **E10 error code** means **low system water pressure**. On Weil-McLain gas boilers (Ultra, GV, WM97+ series), E10 fires when the system pressure sensor reads below the minimum threshold — typically below 5–10 PSI depending on the model. The boiler locks out on E10 to prevent operating the heat exchanger without adequate water flow, which would cause thermal damage. E10 is one of the most commonly searched Weil-McLain codes because the fix is usually quick and doesn't require a service call.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ The Weil-McLain **E10 error code** means **low system water pressure**. On Weil-
 ## When to Call a Pro
 
 If pressure drops more than 5 PSI per day after filling, you have a significant leak somewhere in the system. A plumber or boiler tech can perform a pressure isolation test to find the leak zone before water damage occurs.
-
-## Related Articles
-
-- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
-- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
-- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)
-
-## See Also
-
-- [Weil-McLain Ultra Series Boiler Error Codes: Complete Guide](/posts/weil-mclain-ultra-series-codes/)
-- [Weil-McLain E03 Error Code — Causes & Fix](/posts/weil-mclain-e03-error-code/)
-- [Weil-McLain Boiler Error Code E01 — Lockout Fix](/posts/weil-mclain-e01-error-code/)
-- [Weil-McLain E04 Error Code — Causes & Fix](/posts/weil-mclain-e04-error-code/)

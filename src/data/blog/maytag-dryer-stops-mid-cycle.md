@@ -19,8 +19,6 @@ When a Maytag dryer stops mid-cycle, it is usually overheating, losing power int
 
 In Auto Dry or Sensor Dry, the control uses moisture sensors to end the cycle, so false dry readings can stop the dryer early. If the dryer is overheating, built-in safety logic will shut it down mid-cycle. Power interruptions, a bad door switch opening intermittently, or thermal safety components tripping can also cause unexpected stops.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Restricted airflow or clogged venting** Blocked lint filters, crushed ducts, or clogged exterior hoods cause overheating or inaccurate sensor readings that stop the cycle early.
@@ -57,10 +55,10 @@ Seeing a code on the display? These match this problem:
 
 - [Maytag Dryer Err error code](/posts/maytag-dryer-err-error-code/)
 - [Maytag Dryer F01 error code](/posts/maytag-dryer-f01-error-code/)
-- [Maytag Dryer F02 error code](/posts/maytag-dryer-f02-error-code/)
+- Maytag Dryer F02 error code
 - [Maytag Dryer F1E1 error code](/posts/maytag-dryer-f1e1-error-code/)
 - [Maytag Dryer F1E3 error code](/posts/maytag-dryer-f1e3-error-code/)
-- [Maytag Dryer F1E4 error code](/posts/maytag-dryer-f1e4-error-code/)
+- Maytag Dryer F1E4 error code
 - [Maytag Dryer F1E5 error code](/posts/maytag-dryer-f1e5-error-code/)
 - [Maytag Dryer F20 error code](/posts/maytag-dryer-f20-error-code/)
 - [Maytag Dryer F22 error code](/posts/maytag-dryer-f22-error-code/)

@@ -20,8 +20,6 @@ When you start the self-clean cycle on a KitchenAid oven, the door must close co
 
 If your oven heats normally during bake and broil but fails only during self-clean, the real-world causes are usually a failed thermal fuse or thermal cutout, a door latch or lock mechanism that will not engage, ventilation or cooling problems, or a control board that is not commanding the lock and clean cycle correctly. Heavy soil, blocked vents, or improper prep can increase the heat and smoke load enough to make the cycle abort or stress components until they fail.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Thermal fuse or thermal overload open** Excessive cavity temperature during or after a self-clean cycle can blow the thermal fuse, cutting power to the oven control or heating elements.
@@ -55,18 +53,18 @@ If your oven heats normally during bake and broil but fails only during self-cle
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kitchenaid Oven A6 error code](/posts/kitchenaid-oven-a6-error-code/)
-- [Kitchenaid Oven Ab error code](/posts/kitchenaid-oven-ab-error-code/)
-- [Kitchenaid Oven Cal error code](/posts/kitchenaid-oven-cal-error-code/)
-- [Kitchenaid Oven F6 E0 error code](/posts/kitchenaid-oven-f6-e0-error-code/)
-- [Kitchenaid Oven F6 E1 error code](/posts/kitchenaid-oven-f6-e1-error-code/)
-- [Kitchenaid Oven F6 E2 error code](/posts/kitchenaid-oven-f6-e2-error-code/)
-- [Kitchenaid Oven F6 E3 error code](/posts/kitchenaid-oven-f6-e3-error-code/)
-- [Kitchenaid Oven F6 E4 error code](/posts/kitchenaid-oven-f6-e4-error-code/)
-- [Kitchenaid Oven F6 E5 error code](/posts/kitchenaid-oven-f6-e5-error-code/)
-- [Kitchenaid Oven F6 E6 error code](/posts/kitchenaid-oven-f6-e6-error-code/)
-- [Kitchenaid Oven F6 E7 error code](/posts/kitchenaid-oven-f6-e7-error-code/)
-- [Kitchenaid Oven F6 E8 error code](/posts/kitchenaid-oven-f6-e8-error-code/)
+- Kitchenaid Oven A6 error code
+- Kitchenaid Oven Ab error code
+- Kitchenaid Oven Cal error code
+- Kitchenaid Oven F6 E0 error code
+- Kitchenaid Oven F6 E1 error code
+- Kitchenaid Oven F6 E2 error code
+- Kitchenaid Oven F6 E3 error code
+- Kitchenaid Oven F6 E4 error code
+- Kitchenaid Oven F6 E5 error code
+- Kitchenaid Oven F6 E6 error code
+- Kitchenaid Oven F6 E7 error code
+- Kitchenaid Oven F6 E8 error code
 
 ## When to Call a Pro
 

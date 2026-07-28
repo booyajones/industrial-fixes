@@ -19,8 +19,7 @@ free_checks:
 part_price: "$150-400 for replacement motor cable depending on gauge and length"
 ---
 
-## ABB ACS580 A2A4/A2B4 Fault — What It Means
-
+## What this code means
 The ABB ACS580 variable frequency drive has detected a short circuit in the motor cable or motor itself. The drive's output stage sensed a direct low-resistance path between phases or between a phase and ground, exceeding the safe current limit. This is a critical protection event that immediately shuts down the drive to prevent damage to the internal power transistors (IGBTs). The official ABB fault list shows this code as A2B4 with the description "Short circuit: Short-circuit in motor cable(s) or motor," though it may appear as A2A4 on some displays depending on the specific sub-code or hex digit reading.
 
 The drive will not restart until the short circuit is cleared and the fault is reset. This fault is distinct from ground faults or overload conditions. It indicates a physical failure in the insulation system of either the motor cable or the motor windings, creating a direct connection between conductors that should be isolated.
@@ -28,8 +27,6 @@ The drive will not restart until the short circuit is cleared and the fault is r
 ## Before You Replace Anything
 
 Technicians sometimes replace the drive itself without testing the motor and cables first. Always use a megohmmeter to test cable and motor insulation resistance before condemning the VFD output stage.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a licensed electrician or motor technician for this repair. The fault involves high-voltage output circuits and requires a megohmmeter (insulation tester) to safely diagnose. Incorrect testing can damage the drive or create a shock hazard. If the motor windings are shorted, rewinding or replacement requires specialized equipment and knowledge of three-phase motor construction. If the drive's internal output stage is shorted, the drive must be sent to an authorized ABB service center or replaced. Do not attempt to bypass safety interlocks or run the drive with a known short circuit, as this will cause catastrophic failure of the power transistors and create a fire risk.
 
 **Rough cost:** A pro service call runs about $300-800 depending on whether cable or motor needs replacement.
-
-## See Also
-
-- [ABB ACH580 HVAC VFD Fault Codes — Full Diagnostic Guide - What It Means and How to Fix It](/posts/abb-ach580-fault-codes/)
-- [ABB ACS550 AI1 LOSS - Causes & Fix](/posts/abb-acs550-ai1-loss-fault-code/)
-- [ABB ACS550 F0001 Fault — Causes & Fix](/posts/abb-acs550-f0001-overcurrent/)
-- [ABB ACS580 A7AB Fault - Causes & Fix](/posts/abb-acs580-a7ab-fault-code/)

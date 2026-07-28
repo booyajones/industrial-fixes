@@ -19,8 +19,6 @@ A KitchenAid refrigerator making loud noise is a symptom with multiple normal an
 
 Common sources include the compressor, evaporator and condenser fans, ice maker and water valve operation, refrigerant flow, leveling problems, loose items on top of the cabinet, and vibration at contact points. KitchenAid notes that a buzzing sound can be normal if the ice maker is not connected to water, because the water valve may buzz or click. A high-pitched or pulsating sound is often compressor or fan behavior adjusting to optimize performance and may also be normal.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty condenser coils** Dust-loaded coils make the compressor work harder and sound louder than normal.

@@ -17,8 +17,7 @@ free_checks:
   - "Check the high-limit reset button (usually a red button on the thermostat or upper element flange) and press to reset if tripped"
 ---
 
-## State Water Heater E64 Error — What It Means
-
+## What this code means
 The E64 error code on State water heaters is not consistently documented across all State models in available manufacturer literature. State produces both gas and electric water heaters with different control systems, and each platform uses its own diagnostic codes. Without your specific model number and control board type, the exact meaning of E64 cannot be verified from State's published materials.
 
 In general appliance fault patterns, codes in the E60–E69 range often indicate heating circuit abnormalities, control board communication faults, or sensor issues. However, applying that general pattern to your State water heater without the model-specific service manual risks misdiagnosis. To get the accurate definition and repair path, locate the full model number on the rating plate (usually on the side of the tank near the top) and consult the owner's manual or wiring diagram that shipped with the unit, or contact State's technical support with the model number in hand.
@@ -26,8 +25,6 @@ In general appliance fault patterns, codes in the E60–E69 range often indicate
 ## Before You Replace Anything
 
 Because E64's exact meaning varies by State model, some owners replace the control board or heating element without first checking for loose wiring, tripped high-limit switches, or incorrect sensor readings. Always verify the fault definition in your model's service literature and test voltage, continuity, and resistance at the suspect component before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

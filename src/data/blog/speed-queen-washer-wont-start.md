@@ -19,8 +19,6 @@ A Speed Queen washer that won't start is not a single fault code but a symptom. 
 
 Speed Queen's owner documentation ties starting directly to basic prerequisites: the power cord must be fully plugged in, hot and cold water taps must be on, the lid must be closed, and you must press and hold Start for two seconds on supported top-load models. If any of these conditions is missing, the washer stays silent or displays an error instead of starting the wash.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Lid not fully closed or not recognized** The latch area may have trapped fabric, the strike may be misaligned, or the lid switch or lock assembly may be worn or faulty.
@@ -54,18 +52,18 @@ Speed Queen's owner documentation ties starting directly to basic prerequisites:
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Speed Queen Washer Dl error code](/posts/speed-queen-washer-dl-error-code/)
-- [Speed Queen Washer Do error code](/posts/speed-queen-washer-do-error-code/)
-- [Speed Queen Washer Dr error code](/posts/speed-queen-washer-dr-error-code/)
-- [Speed Queen Washer Du error code](/posts/speed-queen-washer-du-error-code/)
-- [Speed Queen Washer E 05 error code](/posts/speed-queen-washer-e-05-error-code/)
-- [Speed Queen Washer E 07 error code](/posts/speed-queen-washer-e-07-error-code/)
-- [Speed Queen Washer E 08 error code](/posts/speed-queen-washer-e-08-error-code/)
-- [Speed Queen Washer E 0D error code](/posts/speed-queen-washer-e-0d-error-code/)
-- [Speed Queen Washer E1 error code](/posts/speed-queen-washer-e1-error-code/)
-- [Speed Queen Washer E5 error code](/posts/speed-queen-washer-e5-error-code/)
-- [Speed Queen Washer E7 error code](/posts/speed-queen-washer-e7-error-code/)
-- [Speed Queen Washer Ec 09 error code](/posts/speed-queen-washer-ec-09-error-code/)
+- Speed Queen Washer Dl error code
+- Speed Queen Washer Do error code
+- Speed Queen Washer Dr error code
+- Speed Queen Washer Du error code
+- Speed Queen Washer E 05 error code
+- Speed Queen Washer E 07 error code
+- Speed Queen Washer E 08 error code
+- Speed Queen Washer E 0D error code
+- Speed Queen Washer E1 error code
+- Speed Queen Washer E5 error code
+- Speed Queen Washer E7 error code
+- Speed Queen Washer Ec 09 error code
 
 ## When to Call a Pro
 

@@ -17,8 +17,7 @@ money_part: "User interface control board (console assembly)"
 part_price: "$50-150"
 ---
 
-## Whirlpool Washer F2E1 Error — What It Means
-
+## What this code means
 The F2E1 error on a Whirlpool washer indicates a stuck key or user interface fault. The control has detected an input from the keypad or console that is stuck, shorted, or otherwise being interpreted as continuously pressed. Whirlpool identifies this as an error that can be cleared by cycling power to the control, which points to a console or keypad communication issue rather than a mechanical wash-system problem.
 
 In practice, this fault can be triggered by a physically stuck or damaged button, a failed user interface or keypad assembly, moisture intrusion or contamination in the console, loose or damaged wiring between the console and main control board, or a failed control board input circuit. A transient control glitch can also trigger the code, which is why a power reset is the first recommended step.
@@ -26,8 +25,6 @@ In practice, this fault can be triggered by a physically stuck or damaged button
 ## Before You Replace Anything
 
 Many people replace the main control board when the actual problem is a stuck button or failed user interface. Run the built-in service test mode to isolate which component is sending the abnormal signal before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

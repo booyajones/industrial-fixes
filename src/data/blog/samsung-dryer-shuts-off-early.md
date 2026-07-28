@@ -19,8 +19,6 @@ When a Samsung dryer stops mid-cycle or ends a load before clothes are dry, you 
 
 If the machine stops only on sensor-dry cycles but runs fine on timed dry, the moisture sensor bars may be dirty and falsely signaling that clothes are already dry. If the unit loses heat partway through or will not start a cycle correctly, the power supply or a thermal safety part has likely failed. Samsung also flags door latch issues, Child Lock activation, and jammed control panel buttons as possible causes of start and stop problems.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged lint screen or exhaust vent** Blocked airflow causes heat buildup that trips the safety thermostat and forces the dryer to shut down.
@@ -62,7 +60,7 @@ Seeing a code on the display? These match this problem:
 - [Samsung Dryer Be error code](/posts/samsung-dryer-be-error-code/)
 - [Samsung Dryer Be2 error code](/posts/samsung-dryer-be2-error-code/)
 - [Samsung Dryer C1 error code](/posts/samsung-dryer-c1-error-code/)
-- [Samsung Dryer C2 error code](/posts/samsung-dryer-c2-error-code/)
+- Samsung Dryer C2 error code
 - [Samsung Dryer C8 error code](/posts/samsung-dryer-c8-error-code/)
 - [Samsung Dryer C80 error code](/posts/samsung-dryer-c80-error-code/)
 

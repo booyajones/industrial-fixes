@@ -17,8 +17,6 @@ tags:
 
 A GE washer that won't turn on is a no-power or no-start symptom, not a single fault code. It means the console is dead, unresponsive, or the washer will not start a cycle even when plugged in. The exact cause depends on whether you have any power at all to the control panel, whether any lights or codes show up, and whether the door is fully closed. If a code does appear, you need to enter diagnostic mode or check the tech sheet for the model-specific meaning.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **No incoming power** Unplugged cord, damaged cord, tripped breaker, or dead outlet will leave the console completely dark.
@@ -51,7 +49,7 @@ A GE washer that won't turn on is a no-power or no-start symptom, not a single f
 
 Seeing a code on the display? These match this problem:
 
-- [Ge Washer E23 error code](/posts/ge-washer-e23-error-code/)
+- Ge Washer E23 error code
 
 ## When to Call a Pro
 

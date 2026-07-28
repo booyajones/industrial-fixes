@@ -19,8 +19,6 @@ An LG washer that stops mid-cycle is not a fault code by itself. It is a symptom
 
 If a code is present, the code is the real diagnostic clue. Common codes include dE or dL for door or lid not closing or locking properly, PF for power failure during the cycle, OE for drain issue or water not leaving the tub properly, IE for inlet water supply or pressure problem, UE for imbalance or overload-related spin interruption, and LE for motor overload or locked motor condition.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door lock or lid switch failure** If the machine does not prove the door or lid is securely locked, it can stop mid-cycle.

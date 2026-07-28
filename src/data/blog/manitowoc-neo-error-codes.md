@@ -17,8 +17,6 @@ most_likely_cause: "E01/E02 (cycle faults)"
 
 Manitowoc NEO ice machines are the latest generation of Manitowoc commercial ice makers (N0300, N0400, N0503, N0654, N0804, N1005 and similar models). The NEO uses an updated control board with a 7-segment display and LED indicators that show fault codes when problems are detected. This guide covers the most common NEO error codes.
 
-[Jump to Fix](#fix)
-
 ## NEO Error Code Summary
 
 | Code | Meaning | Urgency |
@@ -58,18 +56,3 @@ Manitowoc NEO ice machines are the latest generation of Manitowoc commercial ice
 ## When to Call a Pro
 
 E06 low pressure and E05 high pressure faults that persist after cleaning require refrigerant circuit diagnosis by an EPA 608 certified technician.
-
-## Related Articles
-
-- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
-- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
-- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
-- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
-- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)
-
-## See Also
-
-- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)
-- [Manitowoc ID-0322 Error Codes — Fix Guide](/posts/manitowoc-id-0322-error-codes/)
-- [Manitowoc Indigo NXT Ice Machine Complete Troubleshooting Guide](/posts/manitowoc-indigo-nxt-complete-guide/)
-- [Manitowoc E03 Error Code — Probe / Thermistor Open Fix](/posts/manitowoc-e03-error-code/)

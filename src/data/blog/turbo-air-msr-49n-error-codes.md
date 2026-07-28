@@ -38,7 +38,7 @@ The controller is not receiving a valid signal from the cabinet temperature sens
 - Water intrusion after washdown or condensation
 - Wire damage where the harness enters the cabinet wall
 
-See also: [Turbo Air Refrigerator Error Code E1](/posts/turbo-air-refrigerator-error-code-e1/)
+See also: Turbo Air Refrigerator Error Code E1
 
 ### E2 — Evaporator Sensor Fault
 
@@ -52,7 +52,7 @@ The evaporator coil sensor is open, shorted, or disconnected.
 - Harness damaged by ice buildup or sharp sheet metal
 - Connector corrosion in the evaporator compartment
 
-See also: [Turbo Air Freezer Error Code E2](/posts/turbo-air-freezer-error-code-e2/)
+See also: Turbo Air Freezer Error Code E2
 
 ### E3 — Condenser Sensor Fault or High Condensing Temperature Input Fault
 
@@ -157,20 +157,3 @@ Call a professional if the unit still runs warm after a full condenser cleaning,
 > **Pro tip:** If the MSR-49N cools okay after you reset it but warms back up after a few hours, do not assume the board is bad. That pattern usually points to condenser fouling, icing on the evaporator, or a fan motor that stops once it heats up.
 
 ---
-
-## See Also
-
-- [Turbo Air Refrigerator Error Code E1](/posts/turbo-air-refrigerator-error-code-e1/)
-- [Turbo Air Freezer Error Code E2](/posts/turbo-air-freezer-error-code-e2/)
-- [Beverage-Air Refrigerator Error Code E1](/posts/beverage-air-refrigerator-error-code-e1/)
-- [Traulsen Refrigerator Error Code E1](/posts/traulsen-refrigerator-error-code-e1/)
-- [True Refrigeration Error Codes](/posts/true-refrigeration-error-codes/)
-- [Commercial Refrigerator Error Codes](/posts/commercial-refrigerator-error-codes/)
-
-## Related Articles
-
-- [Beverage-Air Error Code E4, Causes, and Fixes](/posts/beverage-air-e4-error-code/)
-- [Beverage-Air MT27 Error Codes - What They Mean and How to Fix Them](/posts/beverage-air-mt27-error-codes/)
-- [Beverage-Air Refrigerator Error Code E1 — Causes & Fix](/posts/beverage-air-refrigerator-error-code-e1/)
-- [Beverage-Air Refrigerator Error Code E2 — Evaporator Sensor Causes & Fix](/posts/beverage-air-refrigerator-error-code-e2/)
-- [Bohn Refrigeration Error Code Guide — Causes & Fixes](/posts/bohn-refrigeration-error-codes/)

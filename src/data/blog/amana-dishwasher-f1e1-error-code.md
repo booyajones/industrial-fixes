@@ -21,8 +21,7 @@ part_price: "$15-35"
 no_buy_pct: "25%"
 ---
 
-## Amana Dishwasher F1E1 Error Code — What It Means
-
+## What this code means
 The F1E1 error code on an Amana dishwasher indicates that the drain sequence will begin but the unit will not continue operating once the code appears. Amana's official error-code documentation confirms this specific behavior. The underlying fault is typically related to the sump thermistor (also called an NTC temperature sensor) circuit being outside the control board's acceptable range. The sensor monitors water temperature in the sump area, and when it reads open, shorted, or out of range, the control board halts the cycle and displays F1E1.
 
 This is a temperature-sensing fault, not a drain problem. The dishwasher may drain successfully at first, but the control will not advance to wash or rinse cycles because it cannot verify proper water temperature. The error can occasionally result from a transient electrical glitch, but if it recurs immediately after a power reset, the fault is almost always in the thermistor, its wiring harness, or the control board's sensor-input circuit.
@@ -30,8 +29,6 @@ This is a temperature-sensing fault, not a drain problem. The dishwasher may dra
 ## Before You Replace Anything
 
 Many people replace the control board first when F1E1 appears. Test the thermistor resistance and inspect the wiring harness in the door hinge area and base pan routing before buying any control board, since a $15 sensor or a corroded connector fixes most cases.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

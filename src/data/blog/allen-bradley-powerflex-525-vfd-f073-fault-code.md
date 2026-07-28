@@ -21,8 +21,7 @@ part_price: "$5-20 for a replacement Ethernet patch cable"
 no_buy_pct: "60%"
 ---
 
-## Allen-Bradley PowerFlex 525 F073 — What It Means
-
+## What this code means
 The F073 fault on the PowerFlex 525 means EN Net Loss. The drive has detected that the control communication path through its embedded EtherNet/IP adapter has been interrupted. This is not the same as the DSI network loss (F071) or option card network loss (F072). The drive faults because the EtherNet/IP connection to the scanner or controller is no longer valid, or the drive no longer sees the expected network communications.
 
 The fault typically appears when something has disrupted the Ethernet link between the drive and the PLC or network scanner. Rockwell's fault table lists cycle power, check cabling, verify EtherNet/IP settings, and check the external network as the standard recovery actions. The drive can also be configured to fault on comm loss through parameter C125 (Comm Loss Action), so the fault may appear even if the application does not require such aggressive behavior.
@@ -30,8 +29,6 @@ The fault typically appears when something has disrupted the Ethernet link betwe
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive or control module when the fault is simply a loose RJ45 plug or a failed network switch port. Always verify the physical cable, link LEDs, and external network status before condemning the drive hardware.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -80,10 +77,3 @@ Answer these to narrow it down fast.
 Call a controls technician or industrial electrician if you are not familiar with EtherNet/IP networks, PLC programming, or drive parameter configuration. The fault itself does not involve dangerous high voltage, but diagnosing network issues requires knowledge of IP addressing, switch configuration, and scanner setup in the controller. If you have already reseated cables, verified link LEDs, and confirmed the switch and controller are running but the fault still appears, a professional can check the EtherNet/IP connection programming, parameter C125, and determine whether the drive's embedded adapter has failed. Also call a pro if the drive is part of a larger automated system where incorrect troubleshooting could disrupt production or create a safety hazard.
 
 **Rough cost:** A pro service call runs about $100-250 for service call and cabling/network troubleshooting; higher if drive replacement is needed.
-
-## See Also
-
-- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
-- [Allen-Bradley PowerFlex 525 F106 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f106-fault-code/)
-- [Allen-Bradley PowerFlex 525 F070 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f070-fault-code/)
-- [Allen-Bradley PowerFlex 4M Fault Codes — F2, F4, F5, F7, F12 Fix Guide](/posts/allen-bradley-powerflex-4m-fault-codes/)

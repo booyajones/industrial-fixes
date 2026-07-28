@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "LG microwave thermistor / temperature sensor"
 ---
 
-## LG Microwave F-2 Error Code — What It Means
-
+## What this code means
 The F-2 error code on an LG microwave indicates that the unit's thermistor is reporting a temperature that is out of range. LG classifies this as a service-required fault, meaning the control system has detected a temperature-sensing problem rather than a simple condition you can reset yourself.
 
 The thermistor is a small sensor that monitors the internal temperature of the microwave cavity. When the control board sees a reading that falls outside the expected range (either too high, too low, or no signal at all), it throws the F-2 code and stops operation to prevent damage or unsafe cooking. This is not a user-resettable error in most cases.
@@ -25,8 +24,6 @@ The thermistor is a small sensor that monitors the internal temperature of the m
 ## Before You Replace Anything
 
 Many people replace the main control board first, assuming it is faulty. Always test the thermistor itself and inspect the wiring harness and connector for damage or corrosion before swapping the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a qualified appliance technician for any F-2 error. Microwave service requires working near high-voltage components, including the magnetron and capacitor, which can store a lethal charge even after the unit is unplugged. A technician has the tools and training to safely discharge the capacitor, measure the thermistor against factory specifications, and replace the sensor or control board without risking shock. If you see the F-2 code, unplug the microwave and schedule service rather than attempting cabinet removal yourself.
 
 **Rough cost:** A pro service call runs about $150–$300.
-
-## See Also
-
-- [LG Dishwasher Not Draining - Causes & Fix](/posts/lg-dishwasher-not-draining/)
-- [LG Dishwasher Not Dispensing Detergent - Causes & Fix](/posts/lg-dishwasher-not-dispensing-detergent/)
-- [LG Refrigerator IF Error Code - Causes & Fix](/posts/lg-refrigerator-if-error-code/)
-- [LG Refrigerator dH Error Code - Causes & Fix](/posts/lg-refrigerator-dh-error-code/)

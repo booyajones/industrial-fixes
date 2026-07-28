@@ -176,10 +176,3 @@ A: Yes — on most True GDM models, the controller is accessible in the control 
 **Q: My True GDM door sweats on the outside. Is this a refrigeration problem?**
 
 A: Usually not. Condensation on the outside of glass doors is typically a door heater or anti-sweat heater issue. True GDM units have electric anti-sweat heaters built into the door frame to keep the glass above the dew point. If a door heater fails, that section of glass will sweat. On many newer GDM models, these are LED door heaters that are energy-efficient. Check the door heater circuit if only one door is sweating while adjacent doors are clear.
-
-## See Also
-
-- [True Refrigeration E4 Error Code — Causes & Fix](/posts/true-refrigeration-e4-error-code/)
-- [True GDM-23 Error Codes - What It Means and How to Fix It](/posts/true-gdm-23-error-codes/)
-- [True T-72 Refrigerator Error Codes - Full Fault Guide](/posts/true-t-72-error-codes/)
-- [True Refrigeration E3 Error Code — Causes & Fix](/posts/true-refrigeration-e3-error-code/)

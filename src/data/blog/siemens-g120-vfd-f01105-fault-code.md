@@ -13,11 +13,8 @@ money_part: "Siemens SINAMICS G120 Control Unit (CU240E-2, CU250S-2, or matching
 most_likely_cause: "Oversized or complex parameter set"
 ---
 
-## Siemens G120 F01105 — What It Means
-
+## What this code means
 F01105 on a Siemens SINAMICS G120 indicates that the Control Unit (CU) does not have enough available memory to complete a task. This can happen during parameter handling, project loading, firmware downloads, or internal processing operations. The fault is logged as 'CU: Insufficient memory' in the drive's fault buffer. Unlike motor or power-stage faults, this code points directly to a problem with the Control Unit's ability to manage data, either because the parameter set is too complex, the project file is corrupted, or the CU hardware itself has failed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,10 +44,3 @@ F01105 on a Siemens SINAMICS G120 indicates that the Control Unit (CU) does not 
 ## When to Call a Pro
 
 Call a qualified drive technician or Siemens-certified service provider if the fault returns after you have reloaded a clean parameter set and power-cycled the drive, or if you are not familiar with Startdrive, TIA Portal, or G120 commissioning procedures. Replacing a Control Unit requires proper configuration transfer, firmware matching, and sometimes module coding or slot assignment depending on your system. A technician will also verify that the fault is not related to a larger system integration issue, network overload, or power-supply problem affecting the CU.
-
-## See Also
-
-- [Siemens G120 F01650 - Causes & Fix](/posts/siemens-g120-vfd-f01650-fault-code/)
-- [Siemens G120 F0003 - Causes & Fix](/posts/siemens-g120-vfd-f0003-fault-code/)
-- [Siemens Micromaster F0070 - Causes & Fix](/posts/siemens-micromaster-vfd-f0070-fault-code/)
-- [Siemens Micromaster F0072 - Causes & Fix](/posts/siemens-micromaster-f0072-fault-code/)

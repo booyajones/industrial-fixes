@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Lower cooling fan / blower motor assembly"
 ---
 
-## GE Oven F97 Error Code — What It Means
-
+## What this code means
 GE lists F97 under fault codes that usually mean an internal component needs to be replaced. In field reports for GE double wall ovens, F97 is most commonly associated with a lower cooling fan problem. The lower fan is either not spinning, spinning too slowly, or its speed signal is not being read correctly by the control board.
 
 The code triggers when the oven expects the lower cooling fan to run at a certain speed during operation but does not detect the correct feedback. This can result from a failed fan motor, mechanical blockage, a bad speed sensor built into the fan assembly, damaged wiring between the fan and control board, or a control board failure.
@@ -25,8 +24,6 @@ The code triggers when the oven expects the lower cooling fan to run at a certai
 ## Before You Replace Anything
 
 Many people replace the control board first. Test the lower cooling fan mechanically and electrically before spending money on a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

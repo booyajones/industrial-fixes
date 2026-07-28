@@ -17,8 +17,7 @@ money_part: "Central Control Unit (CCU) / main control board"
 part_price: "$80-250"
 ---
 
-## Maytag Washer F70 Error Code — What It Means
-
+## What this code means
 The F70 error code on a Maytag washer signals a communication failure between the Central Control Unit (CCU or main control board) and the user interface (console or UI board). When these two boards can't exchange valid data over the wiring harness, the washer stops or refuses to start. This is not a drain, door-lock, or motor-speed fault. It is purely a control-system communication problem.
 
 The code appears most often on electronic-platform Maytag front-load and top-load washers built with separate CCU and UI boards. Because the machine's brain can't reach its display, you lose control of cycles and settings. Fixing F70 usually means finding the broken link in the CCU-to-console chain, whether that is a loose connector, a damaged wire, or a failed board.
@@ -26,8 +25,6 @@ The code appears most often on electronic-platform Maytag front-load and top-loa
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first without checking the wiring harness. Inspect and reseat every connector between the CCU and console before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

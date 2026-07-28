@@ -17,8 +17,7 @@ money_part: "LG dryer door switch"
 part_price: "$15-50"
 ---
 
-## LG Dryer dE Error Code — What It Means
-
+## What this code means
 The dE error code on an LG dryer signals that the dryer has detected an open or improperly closed door condition, so the cycle stops. LG defines dE (and dE4) as a door error, indicating the door is not completely closed. This code appears if the door opens during drying, if bulky laundry pushes the door open mid-cycle, or if the door was never fully latched when you started the cycle.
 
 On new machines the door gasket sometimes needs a few cycles to settle into place, which can trigger the dE code even when the door appears closed. In older units or after impact, a bent latch, damaged hinge, or faulty door switch can prevent the dryer from detecting that the door is secure.
@@ -26,8 +25,6 @@ On new machines the door gasket sometimes needs a few cycles to settle into plac
 ## Before You Replace Anything
 
 Homeowners sometimes buy a new control board thinking it is a sensor logic problem. Before ordering any part, verify the door is closing mechanically and inspect the door switch and wiring for continuity.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a technician if you have completed the door checks and power reset but the dE code persists and you are not comfortable disassembling the front panel to access the door switch and wiring. A pro can quickly verify switch continuity, check for intermittent wiring faults, and replace the switch or control-board connector if needed. Also call for service if the door or cabinet shows structural damage that requires bracket or hinge replacement, or if the dryer is under warranty and you want LG to document the repair.
 
 **Rough cost:** DIY runs about $15–50 in parts, 20–45 min. A pro service call runs about $120–220.
-
-## See Also
-
-- [LG Oven Not Heating - Causes & Fix](/posts/lg-oven-not-heating/)
-- [LG Microwave Inverter Board Replacement - Signs & How-To](/posts/lg-microwave-inverter-board-inverter-models-replacement/)
-- [LG Microwave F4 Error - Causes & Fix](/posts/lg-microwave-f4-error-code/)
-- [LG Range E7 Error Code - Causes & Fix](/posts/lg-range-e7-error-code/)

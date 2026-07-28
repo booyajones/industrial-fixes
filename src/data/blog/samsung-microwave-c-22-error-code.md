@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Samsung microwave cavity temperature sensor / thermistor"
 ---
 
-## Samsung Microwave C-22 Error — What It Means
-
+## What this code means
 The C-22 error code on a Samsung microwave indicates a temperature sensor fault in the oven cavity temperature sensing circuit. Samsung groups C-20, C-21, and C-22 together as temperature sensor errors. The UK support documentation specifies that the sensor is either open (broken connection) or shorted (electrical short circuit). The code is generated when the microwave's control electronics detect an out-of-range signal from the thermistor that monitors cavity temperature.
 
 This fault prevents the microwave from operating because the control board cannot safely monitor cooking temperature. Samsung instructs users to unplug the unit and contact service when this code appears. The error can be triggered by a failed sensor, damaged wiring, moisture intrusion from spills or steam, or less commonly a fault in the control board's sensor input circuit.
@@ -25,8 +24,6 @@ This fault prevents the microwave from operating because the control board canno
 ## Before You Replace Anything
 
 Many people replace the main control board first when the actual fault is a failed $15 temperature sensor or a loose connector. Always test the sensor with a multimeter and inspect the harness before ordering a control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

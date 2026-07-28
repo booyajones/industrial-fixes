@@ -13,11 +13,8 @@ money_part: "Fieldbus cable (shielded)"
 most_likely_cause: "Fieldbus cable disconnected or damaged"
 ---
 
-## Lenze VFD Fault CE — What It Means
-
+## What this code means
 CE on a Lenze VFD (8400, E82, SMV, or i550 series) indicates a communication error. The drive has lost contact with its fieldbus master or serial communication controller — typically a PLC, DCS, or HMI communicating via PROFIBUS, CANopen, DeviceNet, Modbus, or EtherNet/IP. When the communication watchdog timer expires without receiving a valid message from the master, the drive trips on CE and stops the motor according to the configured communication fault response.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,11 +43,3 @@ CE on a Lenze VFD (8400, E82, SMV, or i550 series) indicates a communication err
 ## When to Call a Pro
 
 If CE persists after verifying all physical connections and PLC network health, a Lenze-authorized technician with fieldbus diagnostic tools (protocol analyzer) can trace the communication fault to a specific node, timing issue, or hardware defect.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

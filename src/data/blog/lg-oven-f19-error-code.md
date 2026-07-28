@@ -17,8 +17,7 @@ money_part: "LG oven temperature sensor / thermistor"
 part_price: "$25-80"
 ---
 
-## LG Oven F19 Error Code — What It Means
-
+## What this code means
 LG defines the F19 error code as an Oven Heating Error. The control board displays this code when the oven fails to reach the target temperature within the expected time window. This fault can occur on both gas and electric models, though the underlying cause differs by fuel type.
 
 On electric LG ovens the error typically points to a failed oven temperature sensor, a broken heating element, or a wiring fault in the heating circuit. On gas models F19 often indicates a weak or failed igniter that cannot draw enough current to open the gas valve, or less commonly a sensor that is reporting incorrect temperature data back to the control board. LG's published support guidance directs users to clear the code and power-cycle the appliance, then request service if the error returns.
@@ -26,8 +25,6 @@ On electric LG ovens the error typically points to a failed oven temperature sen
 ## Before You Replace Anything
 
 Many technicians replace the main control board first when the real fault is a failed oven sensor or igniter. Always test the temperature sensor with a multimeter (should read around 1,100 ohms at room temperature) and inspect the igniter operation on gas models before replacing the expensive control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working with gas connections or high-voltage wiring, if the error persists after replacing the sensor and heating component, or if you lack a multimeter and cannot safely test resistance and continuity. Technicians can perform a full diagnostic sequence, measure igniter current draw on gas models, check for intermittent wiring faults, and replace the control board if all other components test good. Gas work in particular requires proper tools to check gas pressure and confirm safe ignition, so a licensed appliance technician is the best choice when igniters and gas valves are involved.
 
 **Rough cost:** DIY runs about $25-80 in parts, 20-45 min. A pro service call runs about $150-280.
-
-## See Also
-
-- [LG Dishwasher Error IE — Water Inlet Fix](/posts/lg-dishwasher-error-ie/)
-- [LG Washer Won't Start - Causes & Fix](/posts/lg-washer-wont-start/)
-- [LG Washer Drain Hose Replacement - Signs & How-To](/posts/lg-washer-drain-hose-replacement/)
-- [LG Mini Split CH46 Error Code - Causes & Fix](/posts/lg-mini-split-ch46-error-code/)

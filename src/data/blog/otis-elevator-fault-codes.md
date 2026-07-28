@@ -55,10 +55,3 @@ Gen2 uses Otis-proprietary regenerative drives in newer installations. A drive f
 | LiNX controller board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-otis-elevator-fault-codes&k=LiNX+controller+board&tag=errorcodefixes-20) \| Replace on controller fault |
 ## When to Call a Pro
 **Otis elevator systems require licensed elevator mechanics.** The LiNX controller programming is locked and accessible only to Otis-authorized personnel. Do not attempt to clear faults in the pit without proper lockout/tagout procedures.
-
-## Related Articles
-
-- [KONE Elevator Fault Codes - Complete Guide](/posts/kone-elevator-fault-codes/)
-- [Mitsubishi Elevator Fault Codes - Complete Guide](/posts/mitsubishi-elevator-fault-codes/)
-- [Schindler Elevator Fault Codes - Complete Guide](/posts/schindler-elevator-fault-codes/)
-- [ThyssenKrupp Elevator Fault Codes - Complete Guide](/posts/thyssenkrupp-elevator-fault-codes/)

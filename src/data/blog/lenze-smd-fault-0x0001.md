@@ -15,11 +15,8 @@ money_part: "VFD-rated motor cable"
 most_likely_cause: "Acceleration time is too short"
 ---
 
-## Lenze SMD Fault 0x0001 — What It Means
-
+## What this code means
 **Fault 0x0001** on a Lenze SMD drive means the inverter detected **overcurrent** on the output stage. This usually happens during startup, acceleration, or a sudden load change. The drive trips immediately to protect the IGBTs.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,11 +45,3 @@ most_likely_cause: "Acceleration time is too short"
 ## When to Call a Pro
 
 If you have correct parameters, a free-turning load, and a clean megger test but 0x0001 still occurs, the drive itself is probably damaged internally.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

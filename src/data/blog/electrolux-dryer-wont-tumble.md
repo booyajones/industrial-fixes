@@ -19,8 +19,6 @@ When your Electrolux dryer won't tumble, it means the drum isn't rotating even t
 
 Common causes include a door that isn't fully latched, a failed door switch, a broken drive belt, a tripped motor thermal protector, or a faulty motor relay or main control board. Less often, a bad drive motor, seized drum rollers, or loose wiring between the control board and motor will stop the tumble cycle. Power supply problems or an active child lock can also prevent the drum from turning.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Faulty or misaligned door switch** If the door isn't fully closed or the switch itself has failed, the control board won't allow the motor to start.
@@ -57,8 +55,8 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Electrolux Dryer Ad error code](/posts/electrolux-dryer-ad-error-code/)
 - [Electrolux Dryer E 09 error code](/posts/electrolux-dryer-e-09-error-code/)
-- [Electrolux Dryer E 10 error code](/posts/electrolux-dryer-e-10-error-code/)
-- [Electrolux Dryer E 11 error code](/posts/electrolux-dryer-e-11-error-code/)
+- Electrolux Dryer E 10 error code
+- Electrolux Dryer E 11 error code
 - [Electrolux Dryer E 31 error code](/posts/electrolux-dryer-e-31-error-code/)
 - [Electrolux Dryer E 42 error code](/posts/electrolux-dryer-e-42-error-code/)
 - [Electrolux Dryer E 51 error code](/posts/electrolux-dryer-e-51-error-code/)

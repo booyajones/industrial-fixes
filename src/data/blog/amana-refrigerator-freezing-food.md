@@ -19,8 +19,6 @@ When your Amana refrigerator freezes food in the fresh-food section, the compart
 
 Amana designs its refrigerators so air flows between the freezer and fresh-food compartments to maintain balance. If the freezer is set too low, or if vents are blocked, or if an ice maker is turned on but not connected to water, the refrigerator section will overcool and freeze your food. This is a temperature-control symptom, not a sealed-system failure.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Controls set too cold** The most common cause is the freezer or refrigerator control set lower than needed, which allows the fresh-food section to overcool because air flows between compartments.
@@ -52,14 +50,14 @@ Amana designs its refrigerators so air flows between the freezer and fresh-food 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Amana Refrigerator Ci error code](/posts/amana-refrigerator-ci-error-code/)
-- [Amana Refrigerator D7 error code](/posts/amana-refrigerator-d7-error-code/)
-- [Amana Refrigerator D8 error code](/posts/amana-refrigerator-d8-error-code/)
+- Amana Refrigerator Ci error code
+- Amana Refrigerator D7 error code
+- Amana Refrigerator D8 error code
 - [Amana Refrigerator D9 error code](/posts/amana-refrigerator-d9-error-code/)
-- [Amana Refrigerator Ec40 error code](/posts/amana-refrigerator-ec40-error-code/)
+- Amana Refrigerator Ec40 error code
 - [Amana Refrigerator F1 error code](/posts/amana-refrigerator-f1-error-code/)
 - [Amana Refrigerator If error code](/posts/amana-refrigerator-if-error-code/)
-- [Amana Refrigerator It error code](/posts/amana-refrigerator-it-error-code/)
+- Amana Refrigerator It error code
 - [Amana Refrigerator Po error code](/posts/amana-refrigerator-po-error-code/)
 
 ## When to Call a Pro

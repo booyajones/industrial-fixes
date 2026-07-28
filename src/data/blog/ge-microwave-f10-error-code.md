@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "GE microwave touch screen or keypad assembly"
 ---
 
-## GE Microwave F10 Error — What It Means
-
+## What this code means
 F10 on a GE microwave indicates a shorted touch screen according to GE's official fault-code table. This means the control system has detected an electrical short somewhere in the touch screen or keypad assembly circuit. GE notes that fault codes are intended for technician diagnosis and that some codes may clear after a power reset, but persistent faults require service.
 
 This code is specific to GE microwaves. Some sources confuse it with range or oven F10 codes (which refer to runaway temperature), but that is not the GE microwave definition. The fault points directly to the user interface hardware, not the cooking system.
@@ -25,8 +24,6 @@ This code is specific to GE microwaves. Some sources confuse it with range or ov
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board first when F10 appears. Check the touch screen assembly and its wiring harness connections first, since GE defines F10 as a shorted touch screen, not a board fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

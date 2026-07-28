@@ -19,8 +19,6 @@ A GE dishwasher stuck mid-cycle is not a single fault code. It's a symptom that 
 
 GE does not define this as one universal code because the same symptom can come from different faults depending on your model. The most common underlying issue is a water-level or pressure-sensing problem, or a water-inlet problem. Door-latch faults, drain restrictions, and control board issues are also common depending on the unit.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Pressure sensor or water level sensor failure** On many GE models, a faulty sensor falsely reports an incorrect water level and stops the cycle logic or causes repeated drain behavior until the board aborts the cycle.
@@ -63,8 +61,8 @@ If your appliance also shows a code on the display, these match this problem:
 - [Ge Dishwasher C8 error code](/posts/ge-dishwasher-c8-error-code/)
 - [Ge Dishwasher Ef error code](/posts/ge-dishwasher-ef-error-code/)
 - [Ge Dishwasher F56 error code](/posts/ge-dishwasher-f56-error-code/)
-- [Ge Dishwasher F9 error code](/posts/ge-dishwasher-f9-error-code/)
-- [Ge Dishwasher Ff error code](/posts/ge-dishwasher-ff-error-code/)
+- Ge Dishwasher F9 error code
+- Ge Dishwasher Ff error code
 
 ## When to Call a Pro
 

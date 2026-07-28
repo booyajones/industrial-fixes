@@ -19,8 +19,6 @@ When your Whirlpool dryer takes too long to dry, it means clothes are still damp
 
 The dryer may be heating normally but air cannot move efficiently through the lint trap, blower, vent hose, or house ducting. In fewer cases the symptom can also indicate a weak heating element, failed thermostat, or faulty moisture sensor after all airflow restrictions have been ruled out.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty or clogged lint screen** A lint screen coated with lint or detergent and fabric softener residue blocks airflow and is the most common cause of slow drying.

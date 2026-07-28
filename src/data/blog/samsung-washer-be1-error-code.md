@@ -17,8 +17,7 @@ money_part: "User-interface control panel assembly"
 part_price: "$30-80"
 ---
 
-## Samsung Washer bE1 Error Code — What It Means
-
+## What this code means
 The bE1 error code on Samsung washers indicates a button-stuck or button-input fault. One of the control-panel buttons is being read as continuously pressed, either because it is physically stuck, contaminated with detergent residue or moisture, or the keypad membrane has failed. Samsung support pages list bE1, bE2, and bE3 as button issues and recommend checking for sticking buttons and cleaning the panel.
 
 Because Samsung notes that error-code meanings can vary by model, you should verify the code definition in your specific washer's owner's manual if the button-stuck diagnosis does not match your symptoms. On most models, however, bE1 points directly to a control-panel input problem rather than a mechanical or water-system fault.
@@ -27,30 +26,12 @@ Because Samsung notes that error-code meanings can vary by model, you should ver
 
 Homeowners sometimes replace the main control board when the real culprit is a sticky button or failed keypad membrane. Clean and inspect the buttons first, then test each one individually before ordering electronics.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Stuck or sticky button (~55%)** Detergent, fabric softener, or moisture seeps under the keypad membrane and holds a button in the pressed position.
-- **Worn or damaged keypad membrane (~25%)** Repeated pressing or physical wear causes the membrane to deform or stick internally, registering a continuous input.
-- **Button held too long or repeatedly pressed (~10%)** On some models, pressing and holding a button or rapid repeated presses can trigger the code temporarily.
-- **Failed user-interface assembly (~10%)** The control-panel board or switch assembly develops an intermittent short or open circuit that mimics a stuck button.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Does the error appear immediately after you press any button, or does it show up only after holding one button for several seconds?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The code may be transient from long-press behavior. Power-cycle the washer and avoid holding buttons down.<br><strong>No:</strong> A physical button or membrane fault is likely. Inspect the panel for sticky or depressed buttons.</div>
-</details>
-
-<details class="dtree"><summary>Can you see or feel any button that is visibly stuck down or does not spring back when you press it?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Clean around that button with a damp cloth, dry it fully, and retest. If it remains stuck, replace the keypad membrane or control panel.<br><strong>No:</strong> The membrane may be sticking internally or the UI board is reading a false input. Test each button individually and replace the control panel if cleaning does not clear the code.</div>
-</details>
-
-<details class="dtree"><summary>Does the code clear after unplugging the washer for five minutes and then restoring power?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The fault was temporary or triggered by a transient button press. Monitor for recurrence and clean the buttons as a precaution.<br><strong>No:</strong> A hardware fault in the keypad or control panel is present. Replace the user-interface assembly.</div>
-</details>
+- **Stuck or sticky button** Detergent, fabric softener, or moisture seeps under the keypad membrane and holds a button in the pressed position.
+- **Worn or damaged keypad membrane** Repeated pressing or physical wear causes the membrane to deform or stick internally, registering a continuous input.
+- **Button held too long or repeatedly pressed** On some models, pressing and holding a button or rapid repeated presses can trigger the code temporarily.
+- **Failed user-interface assembly** The control-panel board or switch assembly develops an intermittent short or open circuit that mimics a stuck button.
 
 ## Step-by-Step Fix {#fix}
 
@@ -72,5 +53,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a technician if you are uncomfortable removing the top or front panel to access the control assembly, if the code persists after you have cleaned the buttons and replaced the keypad membrane, or if you suspect the main control board is sending false button-press signals. A pro can test the control-panel circuits and the main PCB to isolate the fault and replace only the necessary component. Also call if your washer is under warranty, because panel replacement may be covered and self-repair can void coverage.
-
-**Rough cost:** DIY runs about $30–80 in parts (control panel or membrane), 20–45 min. A pro service call runs about $120–250 including labor and panel assembly.

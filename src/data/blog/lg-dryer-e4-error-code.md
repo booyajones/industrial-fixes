@@ -17,8 +17,7 @@ money_part: "LG dryer door switch"
 part_price: "$15-50"
 ---
 
-## LG Dryer E4 Error Code — What It Means
-
+## What this code means
 E4 does not appear in LG's published U.S. dryer error code list. If your LG dryer display shows what looks like E4, it is most likely dE4, which means the door switch detection does not work. The control board cannot confirm that the door is fully closed. LG also uses dE (without the 4) when the door simply is not completely closed. If your display truly shows E4 without a d in front, LG documents that code only for the LG Styler appliance, where it means the heater inside the steaming mechanism has failed. For a dryer, assume you are seeing dE4 and follow door-switch troubleshooting.
 
 The dE4 fault stops the dryer cycle because running with an open or undetected door is a safety hazard. The door switch is a simple contact that closes when the latch engages. If laundry jams the door, the latch is misaligned, or the switch itself is broken, the control will not see the closed signal and will display the error.
@@ -26,8 +25,6 @@ The dE4 fault stops the dryer cycle because running with an open or undetected d
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when the real problem is a worn door latch or a switch with a loose connector. Always verify the door closes with a solid click and test continuity across the switch terminals before ordering electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified appliance technician if you have verified that the door closes firmly, the switch shows correct continuity, and the harness connector is clean yet the dE4 code persists. At that point the main control board is likely failing to read the door input and board-level diagnostics or replacement are required. Also call a pro if you are uncomfortable working with the multimeter, removing panels, or handling the 240 V supply cord. If your display truly shows E4 without the letter d and you own an LG Styler rather than a dryer, the heater in the steaming mechanism has failed and that repair requires specialized Styler service.
 
 **Rough cost:** DIY runs about $15–50 in parts, 20–45 min. A pro service call runs about $120–220.
-
-## See Also
-
-- [LG Refrigerator Water Dispenser Not Working - Causes & Fix](/posts/lg-refrigerator-water-dispenser-not-working/)
-- [LG Dryer tE1 Error Code - Causes & Fix](/posts/lg-dryer-te1-error-code/)
-- [LG LSU120HSV5 Ductless Mini Split Problems & Error Codes](/posts/lg-lsu120hsv5-ductless-mini-split-air-conditioner-problems/)
-- [LG LFXS28968S Refrigerator Problems & Error Codes](/posts/lg-lfxs28968s-refrigerator-problems/)

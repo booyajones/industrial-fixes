@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "STO jumper for Yaskawa GA800"
 ---
 
-## Yaskawa GA800 E92 Fault — What It Means
-
+## What this code means
 E92 on the Yaskawa GA800 VFD is a Safe Torque Off (STO) safety-input-related fault. It does not indicate a motor fault, overcurrent, or power problem. Instead, the drive has detected that the STO safety circuit is not in the required closed or valid state, so torque production to the motor is inhibited even though control power may still be present. The STO function is a safety feature that prevents the drive from delivering torque when the safety circuit is open, miswired, or not satisfied.
 
 When the drive reports E92, it means the safety terminals are either missing the required factory jumper (if the drive is configured to run without an external safety loop), or the external safety chain (E-stop, guard door, safety relay contacts, interlock wiring) is open or faulted. Yaskawa's troubleshooting guidance emphasizes verifying the safety circuit wiring and the drive's STO terminal configuration rather than treating this as a drive hardware failure.
@@ -24,8 +23,6 @@ When the drive reports E92, it means the safety terminals are either missing the
 ## Before You Replace Anything
 
 Technicians sometimes replace the VFD control board or main drive unit when E92 appears, but the fault is almost always in the external safety wiring or a missing STO jumper. Always trace the safety circuit end-to-end and confirm the STO terminal state before ordering drive parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or automation technician if you are not trained in industrial control wiring, lockout/tagout procedures, or VFD safety circuits. Safe Torque Off troubleshooting requires working with the machine's safety diagram, understanding the external interlock chain, and verifying DC bus discharge before touching terminals. If the STO circuit appears intact but the fault persists, the drive's control or safety interface may be damaged and requires evaluation by Yaskawa technical support or a certified service center. Never bypass or jumper STO terminals to defeat the safety function.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Yaskawa VFD Fault UV1 — Causes & Fix](/posts/yaskawa-vfd-fault-uv1/)
-- [Yaskawa CPF39 VFD - Causes & Fix](/posts/yaskawa-ga800-vfd-f039-fault-code/)
-- [Yaskawa A1000 Er-17 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-17-fault-code/)
-- [Yaskawa GA800 E88 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e88-fault-code/)

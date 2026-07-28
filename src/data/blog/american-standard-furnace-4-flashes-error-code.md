@@ -14,11 +14,8 @@ money_part: "High-limit switch"
 most_likely_cause: "Dirty or clogged air filter"
 ---
 
-## American Standard Furnace 4 Flashes — What It Means
-
+## What this code means
 A 4-flash LED code on most American Standard furnaces indicates an open high-temperature limit switch, meaning the furnace detected an overheat condition and shut down the burners to protect the heat exchanger and components. On some models, 4 flashes can also indicate an open roll-out switch, which is a more serious safety trip signaling flame rollout or a combustion/venting problem. Always verify the exact meaning against the fault-code legend printed on your furnace door, since code definitions can vary slightly by platform and control board family.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

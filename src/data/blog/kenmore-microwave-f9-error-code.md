@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Kenmore Microwave F9 Error Code — What It Means
-
+## What this code means
 The F9 error code appears on Kenmore microwave models that use an inverter board to regulate power. It signals that the inverter system is not operating correctly. The inverter is the high-frequency power supply used in these units to control magnetron output and heating performance.
 
 This fault is specific to inverter-equipped Kenmore microwaves. On models without an inverter, a different diagnostic path applies. The code typically prevents the microwave from heating or running at all until the underlying problem is corrected.
@@ -25,8 +24,6 @@ This fault is specific to inverter-equipped Kenmore microwaves. On models withou
 ## Before You Replace Anything
 
 Many owners replace the inverter board without first testing the door interlock switches. A failed door switch can mimic inverter symptoms and costs far less to replace. Always verify door-switch continuity before ordering the inverter.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana F7E2 Dishwasher Error — What It Means
-
+## What this code means
 The F7E2 code on an Amana dishwasher indicates a problem in the wash motor circuit. Amana dishwashers share diagnostic protocols with the Whirlpool family, and this code specifically points to a circulation pump motor fault, typically a motor overheat condition or a speed-sensing feedback issue. The wash motor (also called the circulation pump) is responsible for moving water through the spray arms during the wash and rinse cycles. When the motor cannot spin properly, draws excessive current, overheats, or its speed sensor cannot confirm correct operation, the control board logs F7E2 and stops the cycle.
 
 Amana's official product help instructs owners to disconnect power to the dishwasher as a first reset step. If the code returns after a reset, the fault is real and points to a mechanical obstruction in the pump area, a worn or failing motor assembly, damaged wiring to the motor or sensor, or occasionally a control board issue. The wash motor circuit is the focus, not a drain or fill problem.
@@ -26,8 +25,6 @@ Amana's official product help instructs owners to disconnect power to the dishwa
 ## Before You Replace Anything
 
 Many people replace the control board first. Check and clean the sump, filter, and impeller area for debris, and test the motor harness connections before ordering any electronic part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

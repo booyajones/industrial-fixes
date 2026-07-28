@@ -17,15 +17,12 @@ money_part: "LG refrigerator room-temperature sensor / thermistor"
 part_price: "$15-35"
 ---
 
-## LG Refrigerator rT Error Code — What It Means
-
+## What this code means
 The rT code on LG refrigerators indicates the control system has detected a shorted or open room-temperature sensor circuit. The refrigerator's main control board is not receiving a valid signal from the temperature sensor (thermistor) that monitors compartment or ambient air temperature. This is an electrical fault in the sensing circuit, not a performance complaint about cooling or temperature drift. The control board expects a specific resistance range from the sensor, and when the circuit reads zero ohms (short) or infinite ohms (open), it logs the rT fault and may interrupt normal cooling logic.
 
 ## Before You Replace Anything
 
 Many people replace the main control board first when they see any error code. Before ordering a board, ohm-test the sensor and inspect the connector for corrosion or loose pins. A $15 sensor fix often solves what looks like a $200 board problem.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a professional if you cannot safely access the sensor location (for example, behind a sealed evaporator cover that requires refrigerant recovery), if ohm-testing and wiring checks are unfamiliar, or if the code returns after you have replaced the sensor and verified all harness continuity. Technicians carry model-specific resistance tables, can perform board-level input testing, and will warranty both parts and labor. Refrigerant work is never DIY, but the rT sensor circuit itself does not involve the sealed system or high voltage and is otherwise a straightforward swap for a confident home repairer with a multimeter.
 
 **Rough cost:** DIY runs about $15-35 in parts, 20-40 min. A pro service call runs about $120-220 service call.
-
-## See Also
-
-- [LG Dishwasher Leaking - Causes & Fix](/posts/lg-dishwasher-leaking/)
-- [LG Oven F6 Error Code - Causes & Fix](/posts/lg-oven-f6-error-code/)
-- [LG LMXS28626S Refrigerator Problems & Error Codes](/posts/lg-lmxs28626s-refrigerator-problems/)
-- [LG Refrigerator CO Error Code - Causes & Fix](/posts/lg-refrigerator-co-error-code/)

@@ -61,18 +61,3 @@ E6 is a wiring or board issue, not a refrigerant or mechanical issue. The fix is
 If you've confirmed all wiring is correct and tight, continuity checks out on the communication wire, and E6 still appears — you need a tech with Mitsubishi service documentation and ideally a MelcoBEMS or oscilloscope to diagnose board-level communication. Board replacement is a straightforward swap but requires model-specific parts and confirmation that the replacement board has compatible firmware. Tell the tech: "E6 comm fault, wiring is confirmed correct at both terminal blocks, continuity is good on the S-wire. I suspect an outdoor board failure."
 
 > **Pro tip:** On multi-zone Mitsubishi systems (one outdoor, multiple indoor units), E6 on a single indoor unit usually points to the individual zone's communication wire or its indoor PCB — not the outdoor unit. If all zones throw E6 simultaneously, the outdoor unit's board or power supply is the first thing to check.
-
-## Related Articles
-
-- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
-- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
-- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
-- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
-- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
-
-## See Also
-
-- [Mitsubishi Mini-Split U0 Error Code — Refrigerant Shortage Fix](/posts/mitsubishi-mini-split-u0-error-code/)
-- [Mitsubishi P-Series H6 — Outdoor Fan Motor Fix](/posts/mitsubishi-heat-pump-error-code-h6/)
-- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
-- [Mitsubishi U2 Error Code — Causes & Fix](/posts/mitsubishi-u2-error-code/)

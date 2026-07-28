@@ -17,8 +17,7 @@ money_part: "Control panel / touchpad assembly"
 part_price: "$80-180"
 ---
 
-## Maytag Washer LOC Error Code — What It Means
-
+## What this code means
 The LOC (or LC) code on a Maytag washer is not a failure code in normal operation. It indicates that the Control Lock feature has been activated, either intentionally or accidentally, and the keypad is locked out to prevent unintended cycle changes or button presses. This is a status message, not a component fault.
 
 If the code will not clear using the standard unlock procedure, the underlying issue is typically a stuck button on the touchpad, a failed user interface panel, or a control board that is not registering the unlock command. The code itself simply confirms the lock state is active.
@@ -26,8 +25,6 @@ If the code will not clear using the standard unlock procedure, the underlying i
 ## Before You Replace Anything
 
 Many homeowners replace the main control board thinking LOC is a fault code, when the real issue is often a stuck button on the touchpad or simply forgetting to hold the unlock button long enough. Always try the unlock sequence and a full power reset before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

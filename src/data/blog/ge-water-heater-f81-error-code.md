@@ -13,11 +13,8 @@ money_part: "Leak sensor battery"
 most_likely_cause: "Depleted leak sensor battery"
 ---
 
-## GE Water Heater F81 Error Code — What It Means
-
+## What this code means
 The F81 error code on a GE GeoSpring hybrid heat pump water heater indicates that the leak sensor battery is running low. GE's published fault-code table for the GeoSpring platform explicitly defines F81 as a low battery condition in the leak sensor module. This sensor monitors for water leaks around the base of the unit and relies on its own battery power. When the battery voltage drops below the threshold, the control board triggers F81 to alert you before the sensor stops functioning. The water heater will typically continue to operate, but the leak-detection feature may be compromised until you replace the battery.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

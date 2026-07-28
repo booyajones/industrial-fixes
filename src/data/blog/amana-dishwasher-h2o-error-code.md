@@ -22,8 +22,7 @@ part_price: "$20-40 for a replacement inlet valve, $8-15 for a new supply hose"
 no_buy_pct: "75%"
 ---
 
-## Amana Dishwasher H2O Error Code — What It Means
-
+## What this code means
 The H2O error code on an Amana dishwasher means the cycle has paused because the machine is not getting enough water during the fill phase. The dishwasher expects to fill to a certain level within a set time window, and when water pressure is off or flow is restricted, it cannot complete the fill and displays H2O.
 
 This is a water-supply problem, not a drain or heating issue. The machine is asking you to verify that water can reach it properly. Once the supply issue is corrected, pressing Start allows the dishwasher to attempt the fill again and resume the cycle.
@@ -31,8 +30,6 @@ This is a water-supply problem, not a drain or heating issue. The machine is ask
 ## Before You Replace Anything
 
 Homeowners sometimes replace the water inlet valve or control board before checking the basics. Always verify the shutoff valve is fully open and inspect the hose for kinks first, which costs nothing and fixes most H2O codes.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

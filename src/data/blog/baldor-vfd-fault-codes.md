@@ -71,11 +71,3 @@ Most VS1 faults are reset by pressing the STOP/RESET button on the keypad after 
 
 ## When to Call a Pro
 Ground fault (F0016), phase loss (F0025), and control board fault (F0007) require an industrial electrician or drive service technician. Motor megger testing also requires proper insulation test equipment.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

@@ -168,11 +168,3 @@ A new filter every 1–3 months costs a few dollars. A cracked heat exchanger co
 
 **What's the difference between MERV and MPR?**
 MPR (Microparticle Performance Rating) is a proprietary scale used by Filtrete (3M). It measures the same thing but on a different numerical scale. MPR 1000 ≈ MERV 11. MPR 1500 ≈ MERV 12. MPR 1900–2800 ≈ MERV 13. When comparing across brands, convert to MERV or look at the stated particle size capture percentage.
-
-## Related Articles
-
-- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
-- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
-- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

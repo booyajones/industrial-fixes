@@ -13,11 +13,8 @@ money_part: "Motor (rewound or replacement)"
 most_likely_cause: "Deteriorated motor winding insulation"
 ---
 
-## Danfoss VFD Fault AL 14 — What It Means
-
+## What this code means
 Danfoss alarm AL 14 is a **Ground Fault** — the drive detected significant current leaking from one or more output phases to earth ground. On Danfoss FC-series drives (FC51, FC100, FC200, FC300, FC360), the drive monitors the sum of all three output phase currents; in a healthy system, the vector sum equals zero. When the sum is non-zero (current is flowing to ground), AL 14 trips the drive to protect personnel and equipment from ground fault hazards. Ground faults most commonly originate in the motor winding insulation or the output power cable.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Danfoss alarm AL 14 is a **Ground Fault** — the drive detected significant cur
 ## When to Call a Pro
 
 If AL 14 persists with the motor disconnected, the drive itself has a faulty output stage. Danfoss IGBT replacement requires specialized soldering and testing equipment. Contact Danfoss service or a certified drive repair shop — do not attempt internal drive repair without proper training.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-
-## See Also
-
-- [Danfoss VLT 2900 Fault Codes: Complete Guide](/posts/danfoss-vlt-2900-faults/)
-- [Danfoss VFD Fault W30 — Brake Resistor Overtemperature Fix](/posts/danfoss-vfd-fault-w30/)
-- [Danfoss FC302 Complete Fault Code Guide — All Faults and Fixes](/posts/danfoss-fc302-complete-guide/)
-- [Danfoss AKC Controller Fault Codes - Complete Guide](/posts/danfoss-akc-controller-fault/)

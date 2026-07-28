@@ -17,8 +17,7 @@ money_part: "Samsung oven temperature sensor (thermistor)"
 part_price: "$20-50"
 ---
 
-## Samsung Range E-27 Error Code — What It Means
-
+## What this code means
 The E-27 code on your Samsung range indicates an oven temperature sensor fault. The main control board is seeing the sensor circuit as open, out of range, or not providing a valid signal. In practical terms, the thermistor that monitors oven temperature has failed, its wiring has been damaged or disconnected, or the control board itself has lost the ability to read the sensor input.
 
 This is a straightforward electrical fault in the sensing circuit. The oven cannot regulate temperature without a working sensor, so the control locks out heating and displays E-27 to prevent runaway temperatures or underheating.
@@ -26,8 +25,6 @@ This is a straightforward electrical fault in the sensing circuit. The oven cann
 ## Before You Replace Anything
 
 Many people replace the main control board when they see E-27, but a failed sensor or loose connector is far more likely. Measure the sensor resistance at room temperature with a multimeter (should be about 1080 ohms at 25°C) and inspect the connector before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

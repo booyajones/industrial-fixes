@@ -13,11 +13,8 @@ money_part: "Door interlock switch"
 most_likely_cause: "Feed Hold button physically pressed"
 ---
 
-## Haas Alarm 104 Feed Hold — What It Means
-
+## What this code means
 Haas alarm 104 means Feed Hold is active — the machine has been placed in feed hold state and cannot start or continue a program. On Haas VF, ST, and UMC series mills and lathes, the Feed Hold condition is a normal operational state, but alarm 104 appears when the control detects that feed hold is active while a program run is being initiated, or when a feed hold interlock has been engaged by an external device. In most cases this isn't a hardware fault — it's either the Feed Hold button being physically pressed or an M-code or interlock that has put the machine in that state.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -43,18 +40,3 @@ Haas alarm 104 means Feed Hold is active — the machine has been placed in feed
 ## When to Call a Pro
 
 If the Haas diagnostics screen shows the Feed Hold input active with no obvious external cause and all field wiring checks clean, a Haas Factory Outlet (HFO) technician can trace the I/O board signal back to the source.
-
-## Related Articles
-
-- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
-- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
-- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
-- [Haas Alarm 106 — Causes & Fix](/posts/haas-alarm-106/)
-
-## See Also
-
-- [Haas VF-4 Common Alarms Guide — What They Mean and How to Fix Them](/posts/haas-vf4-common-alarms/)
-- [Haas Alarm 127 — Tool Unclamped Fault](/posts/haas-alarm-127/)
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
-- [Haas VF-2 Common Alarms Guide — What They Mean and How to Fix Them](/posts/haas-vf2-common-alarms/)

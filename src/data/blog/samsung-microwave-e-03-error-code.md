@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Samsung microwave main control board"
 ---
 
-## Samsung Microwave E-03 Error — What It Means
-
+## What this code means
 Samsung defines E-03 as a cooking time setting over error in grill mode. This means you have entered a grill cooking time that exceeds the maximum allowed limit programmed into your model. It is a setting or input condition, not a hardware failure code. Samsung's official guidance treats this as a control panel issue that typically clears with a reset.
 
 The code appears when the microwave detects an invalid time entry during grill operation. Because it is an input fault rather than a component breakdown, the first action is always a power reset. If the error returns after reset and you are entering a reasonable grill time, the touchpad or main control board may have a fault that prevents correct input recognition.
@@ -25,8 +24,6 @@ The code appears when the microwave detects an invalid time entry during grill o
 ## Before You Replace Anything
 
 Many people assume E-03 means a failed magnetron or high-voltage component and call for expensive microwave repairs. Samsung's own definition shows E-03 is a grill-time setting error that clears with a 60-second power reset in most cases.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

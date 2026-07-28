@@ -13,11 +13,8 @@ money_part: "Exhaust temperature sensor (thermistor)"
 most_likely_cause: "Blocked or undersized exhaust vent"
 ---
 
-## Navien E030 Error Code — What It Means
-
+## What this code means
 Navien error code E030 means exhaust overheat — the exhaust temperature sensor has detected flue gas temperatures above safe limits. Navien tankless water heaters and combi-boilers monitor exhaust temperature continuously. When exhaust temps exceed the set threshold (approximately 149°C / 300°F on most models), the unit shuts down immediately and locks out with E030. This is a combustion safety function. The underlying cause is almost always a venting problem: blocked vent, undersized vent pipe, or inadequate combustion air.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Navien error code E030 means exhaust overheat — the exhaust temperature sensor
 ## When to Call a Pro
 
 Descaling and combustion analysis require understanding the unit's heat exchanger configuration. If E030 persists after venting is corrected, a Navien-certified tech should do a combustion efficiency test.
-
-## Related Articles
-
-- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
-- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)
-- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
-- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
-- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)
-
-## See Also
-
-- [Navien Error Code E022 — Hot Water Outlet Thermistor Fault Fix](/posts/navien-error-code-e022/)
-- [Navien NPE-A 016 — Overheat Lockout Fix](/posts/navien-water-heater-error-code-016/)
-- [Navien Error Code E010 — Causes & Fix](/posts/navien-error-code-e010/)
-- [Navien Error Code E016 — Causes & Fix](/posts/navien-error-code-e016/)

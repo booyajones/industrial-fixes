@@ -16,8 +16,6 @@ tags:
 
 When an air conditioner is running but not cooling, the real problem is often hiding behind an error code, fault history entry, or blinking LED. Across central AC systems, heat pumps, rooftop units, and mini splits, the usual suspects are high-pressure trips, low-pressure trips, sensor faults, communication errors, and freeze protection.
 
-[Jump to Fix](#fix)
-
 ## Common AC Not Cooling Error Codes
 
 | Symptom / Code | Common Meaning | Typical Brands |

@@ -19,8 +19,6 @@ When your Amana washer stops mid-cycle, it means the machine has lost a conditio
 
 This is a troubleshooting symptom, not a single fault code. The machine may sit silent with lights on, or it may flash and beep depending on the model. The underlying issue is almost always a failed interlock switch, a water-supply problem, a control-board output fault, or worn suspension that triggers the imbalance sensor.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed lid switch assembly** The lid switch tells the washer the lid is closed, and when it fails open the machine stops the cycle for safety.
@@ -62,7 +60,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Amana Washer F8 E1 error code](/posts/amana-washer-f8-e1-error-code/)
 - [Amana Washer F8 E2 error code](/posts/amana-washer-f8-e2-error-code/)
 - [Amana Washer F9 E1 error code](/posts/amana-washer-f9-e1-error-code/)
-- [Amana Washer Fd error code](/posts/amana-washer-fd-error-code/)
+- Amana Washer Fd error code
 - [Amana Washer Hc error code](/posts/amana-washer-hc-error-code/)
 - [Amana Washer Ldl error code](/posts/amana-washer-ldl-error-code/)
 - [Amana Washer Ldu error code](/posts/amana-washer-ldu-error-code/)

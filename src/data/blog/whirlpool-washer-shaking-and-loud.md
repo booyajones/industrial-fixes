@@ -19,8 +19,6 @@ A Whirlpool washer that is shaking and loud is a symptom, not a single fault cod
 
 If the basket or drum is visibly off-center or makes grinding or clanking when you move it by hand, professional service may be needed. The real issue can range from simple load distribution to worn suspension components or drive-side mechanical wear on certain top-load designs.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Unbalanced load or overloading** A single bulky item like a comforter or absorbent load, or too many clothes packed in, causes the drum to spin unevenly.

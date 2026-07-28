@@ -17,8 +17,7 @@ money_part: "Main electronic control board"
 part_price: "$80-180"
 ---
 
-## Samsung Dryer AC7 Error Code — What It Means
-
+## What this code means
 The AC7 code (sometimes displayed as '1 AC7') indicates that the dryer's internal components cannot communicate with each other. Samsung classifies this as an electronic control error, meaning the main control board or a connected component has lost proper communication or failed to initialize correctly.
 
 This is not a mechanical fault or a single sensor reading. It is a general control-system flag that can be triggered by a faulty control board, a loose or corroded wiring harness, unstable incoming power, or a secondary component sending invalid signals back to the main board.
@@ -26,8 +25,6 @@ This is not a mechanical fault or a single sensor reading. It is a general contr
 ## Before You Replace Anything
 
 Many people replace the main control board first. Before ordering a new board, unplug the dryer, remove the top or back panel, and inspect every harness connector at the control board for corrosion, bent pins, or looseness. Reseating a single connector often clears AC7 at zero cost.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

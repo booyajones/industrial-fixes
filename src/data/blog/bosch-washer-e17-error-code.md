@@ -22,8 +22,7 @@ part_price: "$25-45"
 no_buy_pct: "75%"
 ---
 
-## Bosch Washer E17 Error Code — What It Means
-
+## What this code means
 The E17 code on a Bosch washing machine signals that the appliance is not receiving enough incoming water or that the water supply is restricted. The machine detects insufficient fill flow, which can stop the cycle early or prevent it from starting at all.
 
 This is a supply-side fault, not a drain or flood issue. The washer expects a certain flow rate during fill, and when it does not arrive quickly enough the control throws E17. Most cases trace to a simple restriction somewhere between the household plumbing and the inlet valve.
@@ -31,8 +30,6 @@ This is a supply-side fault, not a drain or flood issue. The washer expects a ce
 ## Before You Replace Anything
 
 Homeowners often replace the inlet valve when E17 appears, but the majority of cases are caused by a blocked inlet screen or kinked hose. Always clean the mesh filters and verify full tap flow before ordering a valve.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

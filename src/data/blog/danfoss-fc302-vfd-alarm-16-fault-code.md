@@ -13,13 +13,10 @@ money_part: "Motor cable (three-phase shielded)"
 most_likely_cause: "Shorted motor cable"
 ---
 
-## Danfoss FC302 VFD Alarm 16 — What It Means
-
+## What this code means
 Alarm 16 on the Danfoss VLT FC 302 drive indicates a short circuit fault. The drive has detected a line-to-line short circuit in the motor or motor wiring. This means current is flowing between output phases in an unintended path, either in the motor cable, inside the motor windings, or within the drive's own power section.
 
 The fault protects the drive from damage by shutting down output. It does not point to a specific component until you isolate the motor from the drive and test each part of the circuit. If the alarm clears when the motor is disconnected, the problem is external. If it persists with no load, the drive's inverter or power stage has likely failed internally.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ The fault protects the drive from damage by shutting down output. It does not po
 ## When to Call a Pro
 
 Call a qualified electrician or drive technician if you are not trained in high-voltage electrical work or VFD troubleshooting. Diagnosing Alarm 16 requires live voltage measurements, isolation testing, and familiarity with three-phase motor circuits. If your tests show the drive's internal power section has failed, replacement of the IGBT module or power board demands specialized tools and knowledge of semiconductor handling. A Danfoss-authorized service center can bench-test and repair the drive power stage, often more cost-effectively than field replacement of entire boards.
-
-## See Also
-
-- [Danfoss FC302 Complete Fault Code Guide — All Faults and Fixes](/posts/danfoss-fc302-complete-guide/)
-- [Danfoss FC302 ALARM 20 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-20-fault-code/)
-- [Danfoss FC302 Alarm 14 - Causes & Fix](/posts/danfoss-fc302-alarm-14-fault-code/)
-- [Danfoss FC302 Alarm 31 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-31-fault-code/)

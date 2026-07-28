@@ -76,8 +76,8 @@ Both brands use flash-code LEDs behind the lower service panel, plus alphanumeri
 **Carrier:** flash codes count slow flashes for the tens digit, then fast flashes for the ones digit. So code 31 = 3 slow + 1 fast. Documentation is excellent and the codes are listed on a sticker glued inside the service door. Critical Carrier codes:
 
 - [Carrier code 31 — pressure switch stuck closed](/posts/carrier-31-error-code)
-- [Carrier code 33 — limit circuit fault](/posts/carrier-33-error-code)
-- [Carrier code 41 — blower motor failure](/posts/carrier-41-error-code)
+- Carrier code 33 — limit circuit fault
+- Carrier code 41 — blower motor failure
 - [Carrier heat pump A3 — defrost issue](/posts/carrier-heat-pump-error-code-a3)
 
 Bryant uses identical codes since they share the board. See [Bryant code 13](/posts/bryant-error-code-13) and [Bryant heat pump 21](/posts/bryant-heat-pump-error-code-21).
@@ -168,15 +168,8 @@ Both add equivalent resale value — buyers see "newer furnace" and don't differ
 ## Related guides
 
 - [Carrier code 31 — pressure switch fault](/posts/carrier-31-error-code)
-- [Carrier code 33 — limit circuit fault](/posts/carrier-33-error-code)
+- Carrier code 33 — limit circuit fault
 - [Trane 2-blink error code](/posts/trane-2-blink-error-code)
 - [Trane 3-blink error code](/posts/trane-3-blink-error-code)
 - [Bryant code 13](/posts/bryant-error-code-13)
 - [Best HVAC multimeter buyer's guide](/posts/best-hvac-multimeter)
-
-## See Also
-
-- [Carrier Furnace Not Heating - Causes & Fix](/posts/carrier-furnace-not-heating/)
-- [Carrier Rooftop Unit Error Codes: Common Faults Guide](/posts/carrier-rooftop-unit-error-codes/)
-- [Carrier Heat Pump E14 Error Code - Causes & Fix](/posts/carrier-heat-pump-e14-error-code/)
-- [Carrier Error Code 61 — Rollout Switch Lockout](/posts/carrier-61-error-code/)

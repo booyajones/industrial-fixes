@@ -17,8 +17,6 @@ money_part: "Run capacitor"
 
 The Trane XR14 is a single-stage heat pump in the XR series — a straightforward, builder-grade unit without communicating controls. It uses a conventional thermostat wiring scheme (Y, W, G, O) and a control board in the outdoor unit that communicates faults through LED flash codes. Unlike Trane's XL or XV series, the XR14 does not support communicating thermostats.
 
-[Jump to Fix](#fix)
-
 ## Trane XR14 Flash Code Reference
 
 | Flash Code | Meaning |
@@ -62,18 +60,3 @@ The Trane XR14 is a single-stage heat pump in the XR series — a straightforwar
 ## When to Call a Pro
 
 Heat pump refrigerant diagnosis requires EPA 608 certification and a manifold gauge set. If the XR14 is 10+ years old and showing low refrigerant, a refrigerant leak search (electronic leak detector or UV dye) should be performed before recharging. Repeated recharging without leak repair is not an approved practice under EPA Section 608.
-
-## Related Articles
-
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-
-## See Also
-
-- [Trane Rooftop Unit Error Codes: Common Faults Guide](/posts/trane-rooftop-unit-error-codes/)
-- [Trane S8X1 Furnace Error Codes — Flash Code Diagnostic Guide](/posts/trane-s8x1-error-codes/)
-- [Trane 4TCC4 Mini Split Error Codes — Causes & Fix](/posts/trane-4tcc4-error-codes/)
-- [Trane Precedent Rooftop Unit Error Codes: Complete Guide](/posts/trane-precedent-error-codes/)

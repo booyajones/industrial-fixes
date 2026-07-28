@@ -13,13 +13,10 @@ money_part: "Siemens G120 Memory Card"
 most_likely_cause: "Safety acceptance test not completed"
 ---
 
-## Siemens G120 F01650 — What It Means
-
+## What this code means
 F01650 on a Siemens SINAMICS G120 is a fault in the drive's Safety Integrated parameterization. The drive has detected an inconsistency or invalid configuration in the stored safety parameters and will not allow normal operation until the fault is corrected. This code triggers an OFF2 or OFF3 safe stop reaction, which brings the motor to a controlled halt and blocks further commands.
 
 The fault typically appears during safety commissioning, after changes to safety functions like STO (Safe Torque Off), or when the drive cannot validate its safety configuration after a power cycle. It is part of the Safety Integrated fault family and is tied to the integrity of the drive's safety system rather than a motor or power-stage problem.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ The fault typically appears during safety commissioning, after changes to safety
 ## When to Call a Pro
 
 Call a qualified Siemens technician or safety-certified integrator if you are not trained in Safety Integrated commissioning, if the fault returns after you have completed the acceptance test and replaced the memory card or Control Unit, or if your facility's safety approval process requires third-party validation of all safety-function changes. Safety-related faults on VFDs often have regulatory and insurance implications, so professional documentation and sign-off are recommended any time hardware is replaced or safety parameters are altered.
-
-## See Also
-
-- [Siemens G120 F03505 - Causes & Fix](/posts/siemens-g120-f03505-fault-code/)
-- [Siemens G120 F01044 - Causes & Fix](/posts/siemens-g120-vfd-f01044-fault-code/)
-- [Siemens G120 A01590 Fault Code - Causes & Fix](/posts/siemens-g120-a01590-fault-code/)
-- [Siemens G120 F30002 - Causes & Fix](/posts/siemens-g120-f30002-fault-code/)

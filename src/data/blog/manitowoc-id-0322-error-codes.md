@@ -25,8 +25,6 @@ The Manitowoc ID-0322 produces approximately 321 lbs/day of Dice ice and is a co
 | E04 | High condenser temperature | High |
 | E05 | High pressure cutout | High |
 
-[Jump to Fix](#fix)
-
 ## ID-0322 Specific Notes {#fix}
 
 The ID-0322 is often installed in tight undercounter spaces where ventilation is restricted. Codes 3 and E04 are very common in these installations because the condenser can't reject heat in an enclosed cabinet.
@@ -44,18 +42,3 @@ The ID-0322 is often installed in tight undercounter spaces where ventilation is
 ## When to Call a Pro
 
 E05 high pressure cutout and sealed system work require EPA 608 certification.
-
-## Related Articles
-
-- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
-- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
-- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
-- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
-- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)
-
-## See Also
-
-- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
-- [Manitowoc IY-0454 Error Codes — Fix Guide](/posts/manitowoc-iy-0454-error-codes/)
-- [Manitowoc Ice Machine Error Code 5 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-5/)
-- [Manitowoc E15 Error Code — High-Side Pressure Switch Open Fix](/posts/manitowoc-e15-error-code/)

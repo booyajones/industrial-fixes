@@ -19,8 +19,6 @@ A Frigidaire refrigerator that runs constantly is usually not a fault code. Many
 
 If the cabinet is getting warm, the issue is usually a cooling-performance problem, not a "run constantly" error code. When the refrigerator is also warm, Frigidaire treats that as a high-temperature condition rather than a runtime fault. The high-temp alarm can be triggered by an open door, incorrect temperature setting, or poor door seal.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty condenser coils or restricted airflow** Clogged vent covers or restricted airflow make the unit work harder and are a common cause of cooling complaints and extended runtime.
@@ -55,13 +53,13 @@ If the cabinet is getting warm, the issue is usually a cooling-performance probl
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Frigidaire Refrigerator Al 29 error code](/posts/frigidaire-refrigerator-al-29-error-code/)
+- Frigidaire Refrigerator Al 29 error code
 - [Frigidaire Refrigerator Df error code](/posts/frigidaire-refrigerator-df-error-code/)
 - [Frigidaire Refrigerator E11 error code](/posts/frigidaire-refrigerator-e11-error-code/)
 - [Frigidaire Refrigerator E15 error code](/posts/frigidaire-refrigerator-e15-error-code/)
 - [Frigidaire Refrigerator Er Ce error code](/posts/frigidaire-refrigerator-er-ce-error-code/)
 - [Frigidaire Refrigerator Er error code](/posts/frigidaire-refrigerator-er-error-code/)
-- [Frigidaire Refrigerator F0001 error code](/posts/frigidaire-refrigerator-f0001-error-code/)
+- Frigidaire Refrigerator F0001 error code
 - [Frigidaire Refrigerator H1 error code](/posts/frigidaire-refrigerator-h1-error-code/)
 - [Frigidaire Refrigerator Hi error code](/posts/frigidaire-refrigerator-hi-error-code/)
 - [Frigidaire Refrigerator Op error code](/posts/frigidaire-refrigerator-op-error-code/)

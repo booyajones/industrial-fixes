@@ -17,8 +17,7 @@ money_part: "Whirlpool range user interface / keypad assembly"
 part_price: "$50-150"
 ---
 
-## Whirlpool Range F2 Error Code — What It Means
-
+## What this code means
 On Whirlpool ranges and wall ovens, F2 is not a single universal fault. The exact meaning depends on the full code and your model. Whirlpool's product help specifies that F2 E1 indicates a problem with the User Interface or Keypad, the Control board, or the wiring between them. If your display shows only F2 with no subcode, check your model's tech sheet or wiring diagram, because the interpretation varies across Whirlpool platforms.
 
 In practice, field technicians treat F2 and F2 E1 as keypad and control-related faults. The code usually appears when a button is stuck, the touchpad membrane has shorted, or the control board logic has corrupted after a power surge. Moisture or grease intrusion into the keypad area can also cause intermittent shorts that trigger the code.
@@ -26,8 +25,6 @@ In practice, field technicians treat F2 and F2 E1 as keypad and control-related 
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first. Before ordering a board, disconnect the keypad ribbon and see if the fault clears. If it does, the keypad is the failed part, not the control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -101,12 +101,5 @@ That's the spec range for supply-return temp differential during normal operatio
 ## Related guides
 
 - [Trane 2-Blink Error Code — External Lockout Fix](/posts/trane-2-blink-error-code)
-- [Goodman 4-Flash Error Code — Limit Switch Open Fix](/posts/goodman-4-flash-error-code)
+- Goodman 4-Flash Error Code — Limit Switch Open Fix
 - [Lennox Error Code 240 — Ignitor Failed Fix](/posts/lennox-error-code-240)
-
-## See Also
-
-- [Trane ComfortLink II Error Codes — Common Faults and Fixes](/posts/trane-comfortlink-ii-error-codes/)
-- [Trane XR17 Heat Pump Error Codes - Fault Code and Flash Code Guide](/posts/trane-xr17-error-codes/)
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane XE80 Furnace Error Codes — Fault Code Guide](/posts/trane-xe80-error-codes/)

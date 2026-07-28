@@ -72,21 +72,6 @@ On ACS880: Use the Drive Composer PC tool for the full fault log, or navigate to
 ## When to Call a Pro
 Faults 2201 (short circuit overcurrent) and any fault accompanied by a burning smell or blown fuses require qualified drive service. ABB's regional service centers offer warranty and post-warranty repair.
 
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-
-## See Also
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS550 EFB3 Fault - Causes & Fix](/posts/abb-acs550-vfd-efb3-fault-code/)
-- [ABB ACS580 A7AB Fault - Causes & Fix](/posts/abb-acs580-a7ab-fault-code/)
-- [ABB ACS580 FF63 Fault - STO Diagnostics Failure Fix](/posts/abb-acs580-vfd-ff63-fault-code/)
-
 ## More Abb Vfd fault codes
 
 Compiled from manufacturer service manuals and authorized documentation.
@@ -112,7 +97,6 @@ Compiled from manufacturer service manuals and authorized documentation.
 | FA82 | Safe torque off 2. STO circuit 2 is broken. | The second STO channel input is open (e-stop, safety relay, or wiring on channel 2). | Check STO safety-circuit connections and verify par 95.04 Control board supply. |
 | FF61 | ID run. The motor identification run did not complete successfully. | Incorrect motor nameplate data, an external control system connected during ID run, a locked motor shaft, or limits blocking completion. | Verify motor data in group 99, disconnect any external control, ensure the shaft is free, restore defaults, and rerun the ID run. |
 
-
 ## How to troubleshoot Abb Vfd
 
 Work an ABB drive fault from the outside in, and always start with safety. These are qualified-electrician tasks: isolate and lock out the supply, then wait for the DC bus to discharge (ABB specifies about 5 minutes) before touching terminals, because the DC link holds a lethal charge after power is removed. If a fault is accompanied by a burning smell, blown input fuses, or visible damage, stop and get the drive serviced rather than resetting and re-energizing.
@@ -122,7 +106,6 @@ Read the code, not just the trip. ABB drives log the last several faults with ti
 Diagnose by category. Overcurrent, earth-fault, and short-circuit codes (2310, 2330, 2340, 3181) point at the motor and cable first: de-energize and megger-test insulation resistance of the motor and motor cable, and look for PFC capacitors or surge absorbers wrongly wired on the motor side. Bus voltage codes split cleanly: overvoltage (3210) is regenerative energy on deceleration, so extend the decel ramp or add a brake chopper and resistor, while undervoltage (3220/3300) and input phase loss (3130) point upstream to fuses, supply phases, contactors, and terminal tightness. Thermal codes (4110, 4210, 4290) almost always trace to cooling: a failed or clogged cooling fan is the single most common cause, followed by high ambient temperature and dust-packed heatsink fins. STO codes (5091, FA81, FA82) mean the safety circuit opened; check the e-stop, safety relay, and STO wiring, and never defeat or jumper the STO input to clear a trip. Communication codes (6681, 7510, 7081) are fieldbus/panel connectivity, not a power problem.
 
 Know when to call a pro. Internal-hardware codes (5090 STO hardware failure, power-unit and measurement-circuit faults) and any repeat overcurrent after a confirmed-good motor and cable indicate damaged output IGBTs or control hardware and warrant ABB service or a specialist drive-repair shop. Resetting a hard short (2340) without megger-testing first risks destroying the output stage.
-
 
 ## Frequently asked questions
 
@@ -145,4 +128,3 @@ Fault 5091 (Safe torque off) means a signal on the STO safety circuit opened dur
 ### Is an ABB drive fault safe to fix myself?
 
 Setup and cooling issues (extending a decel ramp, replacing a cooling fan, cleaning heatsink fins, checking fieldbus cabling) are within reach of a qualified maintenance electrician. But the DC bus stays lethal for about 5 minutes after power-off, and internal power-stage, IGBT, or measurement-circuit faults require a specialist. Any fault with blown fuses, a burning smell, or a repeated short-circuit trip should go to ABB service or a drive-repair shop.
-

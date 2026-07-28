@@ -21,8 +21,7 @@ free_checks:
 part_price: "$45–$85"
 ---
 
-## Maytag Washer F29 Error Code — What It Means
-
+## What this code means
 The F29 code on a Maytag front-load washer is a door unlock error. The control board sent the unlock command but the door lock assembly did not release or did not return the expected signal that the door is now unlocked. The machine expected the latch to open but the unlock sequence did not complete as intended.
 
 This code typically appears at the end of a cycle when the washer tries to unlock the door for you to remove your laundry. The door may stay locked, or the machine may report the fault even if the door eventually opens. Either way, the control detected that the unlock circuit or lock mechanism did not behave normally.
@@ -30,8 +29,6 @@ This code typically appears at the end of a cycle when the washer tries to unloc
 ## Before You Replace Anything
 
 Homeowners often replace the control board (CCU) when F29 appears, but a failed door lock assembly or damaged wiring between the CCU and the lock is far more common. Always inspect the lock mechanism, door hook alignment, and harness connectors before replacing the control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

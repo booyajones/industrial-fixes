@@ -17,8 +17,6 @@ most_likely_cause: "Chilled / Condenser Water Flow Lost"
 
 The Trane CenTraVac (CVHE, CVHF, CVHG series) is a water-cooled centrifugal chiller used in large commercial and institutional buildings. It uses the Tracer AdaptiView or CH530 control system, which displays fault messages on the touchscreen panel. CenTraVac chillers operate at low pressure (below atmospheric on the suction side) using R-134a or R-1233zd refrigerant. Faults are classified as informational, warnings, or shutdowns. Shutdowns lock the chiller off and require manual reset; repeated shutdowns without clearing the root cause can damage the machine.
 
-[Jump to Fix](#fix)
-
 ## Most Common CenTraVac Fault Codes
 
 | Fault | Meaning |
@@ -60,18 +58,3 @@ The Trane CenTraVac (CVHE, CVHF, CVHG series) is a water-cooled centrifugal chil
 ## When to Call a Pro
 
 CenTraVac chillers are high-value, complex machines — a single diagnostic mistake can cause compressor damage worth hundreds of thousands of dollars. All refrigerant work (including non-condensable purging), oil analysis, and shaft seal service must be performed by Trane-certified technicians using the Tracer CH530 service software. Never attempt to add refrigerant to a CenTraVac without a full leak test and Trane engineering authorization.
-
-## Related Articles
-
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-
-## See Also
-
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-- [Trane 8 Flashes Error Code — Causes & Fix](/posts/trane-8-flashes-error-code/)
-- [Trane 3-Blink Error Code — Pressure Switch Fault Fix](/posts/trane-3-blink-error-code/)
-- [Trane 6 Flashes Error Code — Causes & Fix](/posts/trane-6-flashes-error-code/)

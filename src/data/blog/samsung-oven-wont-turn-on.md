@@ -20,8 +20,6 @@ When a Samsung oven won't turn on, Samsung treats it as a power or standby issue
 
 Samsung's own troubleshooting starts with the circuit switch, home breaker, and standby mode before looking at internal parts. If the display is dark and nothing lights up, you have a supply interruption. If the display works but the oven won't heat or start, the problem shifts to door logic, settings, or a failed heating element, thermal fuse, sensor, or control board downstream.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Tripped breaker or blown fuse at the home panel** Samsung lists the house fuse or breaker as the first check because many no-power calls are simply a tripped branch circuit.

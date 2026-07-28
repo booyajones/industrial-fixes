@@ -94,18 +94,3 @@ Codes **175** and **178** (internal board faults) and full system communication 
 ## Infinity Thermostat Error Screen Navigation
 
 Press and hold MENU on the Infinity touch thermostat. Navigate to System Info → Active Faults or Fault History. This shows all current and recent codes with timestamps — useful for intermittent faults that clear before a tech arrives.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 34 Error Code — Ignition Proving Failure Fix](/posts/carrier-34-error-code/)
-- [Carrier Furnace Error Code 14 - Causes & Fix](/posts/carrier-furnace-14-error-code/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

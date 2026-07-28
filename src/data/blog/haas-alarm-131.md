@@ -115,16 +115,3 @@ If the E-stop chain fault cannot be resolved by the steps above — especially i
 **Never bypass the E-stop chain.** The E-stop circuit is a legal safety requirement under OSHA machine guarding standards and applicable ANSI/ISO safety standards. A machine with a bypassed E-stop circuit is a liability and a serious workplace hazard.
 
 > **Pro tip:** If Alarm 131 appears frequently but the machine runs fine between faults, suspect a door interlock switch that is marginal — it closes just enough to allow operation but trips under vibration. Apply light pressure to each door while the machine is running (with the program paused) and check if Alarm 131 appears. A switch that trips when you push the door is the culprit.
-
-## Related Articles
-
-- [Haas Alarm 132 — Servo Amplifier Fault](/posts/haas-alarm-132/)
-- [Haas Alarm 102 — Servo Error Too Large](/posts/haas-alarm-102/)
-- [Haas Alarm 101 — Emergency Stop](/posts/haas-alarm-101-emergency-stop/)
-
-## See Also
-
-- [Haas Alarm 113 — Spindle Encoder Fault Causes & Fix](/posts/haas-alarm-113/)
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
-- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
-- [Haas Alarm 129: Spindle Orientation Error — Fix Guide](/posts/haas-alarm-129/)

@@ -83,18 +83,3 @@ If you have an iComfort thermostat, the system may also log:
 - **443** — Limit tripped too many times (lockout)
 
 These escalating codes indicate the limit trip is frequent — get it diagnosed before 443 locks out the system entirely.
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-
-## See Also
-
-- [Lennox XP21 Heat Pump Error Codes — iComfort Fault Code Guide](/posts/lennox-xp21-error-codes/)
-- [Lennox Merit Series Furnace Error Codes - What It Means and How to Fix It](/posts/lennox-merit-series-furnace-error-codes/)
-- [Lennox Error Code 270 — Flame Signal Lost Fix](/posts/lennox-error-code-270/)
-- [Lennox Harmony III Zoning System Error Codes — Complete Guide](/posts/lennox-harmony-iii-error-codes/)

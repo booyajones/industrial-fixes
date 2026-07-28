@@ -21,8 +21,7 @@ part_price: "$30–60"
 no_buy_pct: "65%"
 ---
 
-## Bosch F34 Error Code — What It Means
-
+## What this code means
 The F34 error code on Bosch washing machines indicates the door is not locked properly. Bosch groups F34 together with E34 and F16 as the same door-lock fault class. The machine cannot start or continue the wash cycle until the door interlock confirms a secure closure.
 
 The door must close completely with an audible click for the lock to engage. A full load, something jammed between the door and housing, or mechanical wear in the latch or interlock assembly can all prevent proper locking and trigger this code.
@@ -30,8 +29,6 @@ The door must close completely with an audible click for the lock to engage. A f
 ## Before You Replace Anything
 
 Homeowners often replace the door interlock assembly without first checking that the door handle, catch, or seal area is clean and aligned. Inspect the latch mechanism and test the door closure sequence before ordering any part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

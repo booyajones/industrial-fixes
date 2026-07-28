@@ -13,13 +13,10 @@ money_part: "USS communication cable (RS-485 or RS-232)"
 most_likely_cause: "Master device not transmitting"
 ---
 
-## Siemens Micromaster F0071 — What It Means
-
+## What this code means
 F0071 on a Siemens Micromaster 420 or 440 drive is a USS setpoint communication fault. The drive is configured to receive its speed or process setpoint over the USS serial link, but that data stream has stopped arriving for longer than the permitted telegram timeout window. In plain terms, the drive is waiting for valid setpoint data from a PLC, HMI, BOP-link, or other USS master controller and the communication partner is no longer sending it.
 
 This is a communication protocol fault, not a motor power, overload, or overcurrent fault. The drive cannot operate because it has no valid speed command. The fault clears once communication resumes and the drive receives a reset command.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ This is a communication protocol fault, not a motor power, overload, or overcurr
 ## When to Call a Pro
 
 Call a qualified controls technician or automation specialist if you have verified the master device is running and the wiring is intact but the fault persists, or if you are not familiar with USS protocol parameter setup and telegram troubleshooting. Professional help is also appropriate if the drive requires a replacement communication board or if the fault is part of a larger system integration issue involving multiple networked drives or a complex PLC program. Do not attempt communication board replacement or advanced parameter changes without training on Siemens Micromaster drives and the specific master controller in your application.
-
-## See Also
-
-- [Siemens G120 F03505 - Causes & Fix](/posts/siemens-g120-f03505-fault-code/)
-- [Siemens Micromaster F0080 - Causes & Fix](/posts/siemens-micromaster-vfd-f0080-fault-code/)
-- [Siemens Micromaster F0070 - Causes & Fix](/posts/siemens-micromaster-vfd-f0070-fault-code/)
-- [Siemens G120 F01034 - Causes & Fix](/posts/siemens-g120-vfd-f01034-fault-code/)

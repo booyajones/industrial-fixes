@@ -17,8 +17,7 @@ money_part: "Frigidaire oven temperature sensor RTD probe"
 part_price: "$20-60"
 ---
 
-## Frigidaire Oven F2 Error Code — What It Means
-
+## What this code means
 On most Frigidaire oven models, F2 indicates an over-temperature condition or a fault in the oven temperature sensor (RTD). The control sees the oven as too hot or the sensor is reporting out-of-range resistance. On some model families, Frigidaire uses F2 as a communication fault between the main control board and the user interface or auxiliary board, making diagnosis model-dependent.
 
 Because the code meaning is not uniform across all Frigidaire ovens, always verify your exact model number and symptom pattern before replacing parts. The over-temperature interpretation is the most common in the field, and in that case the oven temperature sensor or its wiring is the usual culprit. If your model uses the communication-fault interpretation, you will need to inspect ribbon cables and control boards instead.
@@ -26,8 +25,6 @@ Because the code meaning is not uniform across all Frigidaire ovens, always veri
 ## Before You Replace Anything
 
 Many owners replace the main control board when F2 appears, but a faulty or out-of-range oven temperature sensor is the usual fix. Measure the sensor resistance at room temperature (typically about 1050–1100 Ω) and inspect the harness before buying any boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

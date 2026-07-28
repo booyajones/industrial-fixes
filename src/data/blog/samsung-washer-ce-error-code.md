@@ -17,8 +17,7 @@ money_part: "Water temperature sensor (thermistor)"
 part_price: "$15-50"
 ---
 
-## Samsung Washer CE Error Code — What It Means
-
+## What this code means
 CE on a Samsung washer indicates a cooling or temperature-related error. The machine has detected that the water temperature is not what it expects during the cycle. This can mean hot water is entering when the washer called for cold, or that the temperature sensor is reporting an incorrect reading. In some cases, particularly on combo units or after a hot cycle, residual heat can trigger the fault until the tub cools down.
 
 Samsung's diagnostic framework groups CE with other temperature codes. It is not a drain fault. The code reflects a mismatch between the expected and actual water temperature, either from incorrect plumbing connections or a failed sensor circuit. Different Samsung models and regions may present slightly different interpretations, so always confirm against your specific model documentation.
@@ -26,8 +25,6 @@ Samsung's diagnostic framework groups CE with other temperature codes. It is not
 ## Before You Replace Anything
 
 Many owners replace the main control board first. Before ordering any electronics, verify the supply hoses are on the correct inlets and check sensor resistance at the connector.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

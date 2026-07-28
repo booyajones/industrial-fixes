@@ -13,11 +13,8 @@ money_part: "Flame sensor"
 most_likely_cause: "Dirty flame sensor"
 ---
 
-## Ruud Furnace 7 Flashes — What It Means
-
+## What this code means
 On Ruud furnaces (manufactured by Rheem), 7 flashes on the diagnostic LED indicates a flame sense fault — the burners ignited, but the flame sensor returned a microamp signal too low for the control board to accept as a valid flame. The board expects to see at least 0.5–1.0 microamps DC during steady flame; below that threshold, it shuts the gas valve, attempts re-ignition, and after repeated failures, locks out with the 7-flash code. This is distinct from a no-ignition fault: the burners are lighting, but the sensor can't confirm it adequately.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,11 +43,3 @@ On Ruud furnaces (manufactured by Rheem), 7 flashes on the diagnostic LED indica
 ## When to Call a Pro
 
 If you've cleaned the flame sensor and confirmed it's not cracked, but 7 flashes persists, measuring flame microamps with a multimeter requires basic comfort with live electrical measurements inside a running furnace. If you're not comfortable with that, a technician can confirm the diagnosis in minutes and either verify the sensor is good or confirm board failure.
-
-## Related Articles
-
-- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
-- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
-- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

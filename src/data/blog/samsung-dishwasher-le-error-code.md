@@ -17,8 +17,7 @@ money_part: "Drain hose"
 part_price: "$15-50"
 ---
 
-## Samsung Dishwasher LE Error Code — What It Means
-
+## What this code means
 The LE error code on a Samsung dishwasher indicates a leak or moisture-detection fault. The machine has detected water or moisture collecting in the base pan or underbody area and has stopped operation to protect itself from further damage. This is not a normal wash-cycle fault but rather a protection response to an actual or perceived leak condition.
 
 Samsung service materials often treat LC and LE codes as the same leak-related condition, with the exact display varying by model or region. The code can be triggered by visible water leaks from hoses or seals, but it can also appear due to over-sudsing from wrong detergent, installation problems like drain backflow, or contamination around the leak sensor itself.
@@ -26,8 +25,6 @@ Samsung service materials often treat LC and LE codes as the same leak-related c
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board or leak sensor first. Instead, dry the base pan completely and inspect all hoses and connections for visible leaks before replacing any electronic components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

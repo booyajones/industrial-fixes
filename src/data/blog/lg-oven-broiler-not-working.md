@@ -20,8 +20,6 @@ When the broiler is not working in your LG electric oven, the control is calling
 
 In practical terms, you select the broil function and wait, but the element stays cold and your food does not cook. LG's own troubleshooting guidance for oven heating issues points first to power resets, cycle selection checks, and door gasket inspection before moving to component-level service.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Burned-out broil element** The broil element itself has failed, often showing visible breaks, blistering, or simply no red glow when power is applied.
@@ -55,26 +53,19 @@ In practical terms, you select the broil function and wait, but the element stay
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Lg Oven F1 error code](/posts/lg-oven-f1-error-code/)
-- [Lg Oven F10 error code](/posts/lg-oven-f10-error-code/)
-- [Lg Oven F11 error code](/posts/lg-oven-f11-error-code/)
-- [Lg Oven F12 error code](/posts/lg-oven-f12-error-code/)
-- [Lg Oven F17 error code](/posts/lg-oven-f17-error-code/)
-- [Lg Oven F19 error code](/posts/lg-oven-f19-error-code/)
-- [Lg Oven F2 error code](/posts/lg-oven-f2-error-code/)
-- [Lg Oven F3 error code](/posts/lg-oven-f3-error-code/)
-- [Lg Oven F4 error code](/posts/lg-oven-f4-error-code/)
-- [Lg Oven F5 error code](/posts/lg-oven-f5-error-code/)
-- [Lg Oven F6 error code](/posts/lg-oven-f6-error-code/)
-- [Lg Oven F7 error code](/posts/lg-oven-f7-error-code/)
+- Lg Oven F1 error code
+- Lg Oven F10 error code
+- Lg Oven F11 error code
+- Lg Oven F12 error code
+- Lg Oven F17 error code
+- Lg Oven F19 error code
+- Lg Oven F2 error code
+- Lg Oven F3 error code
+- Lg Oven F4 error code
+- Lg Oven F5 error code
+- Lg Oven F6 error code
+- Lg Oven F7 error code
 
 ## When to Call a Pro
 
 If you are not comfortable working inside a 240-volt appliance, call a technician before opening any panels. If you have tested the broil element for continuity, inspected all visible wiring, and the problem persists, the control board or internal thermostat is the likely culprit and professional diagnosis with a schematic and voltage meter is the next step. LG recommends service if basic troubleshooting does not resolve heating performance issues. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [LG Range SE Error Code - Causes & Fix](/posts/lg-range-se-error-code/)
-- [LG Mini-Split CH21 Error Code — Outdoor Unit High Pressure](/posts/lg-mini-split-ch21-error-code/)
-- [LG Dryer HS Error Code - Causes & Fix](/posts/lg-dryer-hs-error-code/)
-- [LG Microwave F-11 Error Code - Causes & Fix](/posts/lg-microwave-f-11-error-code/)

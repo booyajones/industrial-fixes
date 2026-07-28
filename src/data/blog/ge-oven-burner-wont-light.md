@@ -20,8 +20,6 @@ A GE oven burner that won't light means the gas is not igniting at that burner. 
 
 GE's own troubleshooting starts by confirming whether the burner clicks and sparks, then moves to cleaning and correctly reassembling the burner parts. If the burner still won't light after cleaning, GE directs you to check the gas supply valve and schedule service. The core causes overlap between surface burners and oven burners: ignition failure, dirty or blocked burner parts, moisture around the electrode or igniter, gas supply issues, or a failed control or spark module.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty burner ports or blockage in the burner head** GE tells you to remove the burner cap and head, then clear the holes in the burner head, because food debris or grease will block gas flow and prevent ignition.

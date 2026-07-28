@@ -17,8 +17,7 @@ free_checks:
   - "Inspect motor cable for visible cuts, pinches, or insulation damage"
 ---
 
-## Yaskawa A1000 AL-14 Fault — What It Means
-
+## What this code means
 The AL-14 fault code does not exist in Yaskawa A1000 VFD documentation. This alarm is specific to Danfoss VFDs (such as the FC series) and indicates a ground fault or earth fault, meaning current is leaking from the output phase to ground through damaged motor cable insulation or a motor winding fault. Yaskawa A1000 drives use different fault codes, typically prefixed with oC (overcurrent), Uv (undervoltage), oH (overheat), CPF (CPU faults), or UV3 (DC bus issues). If you see what appears to be AL-14 on a Yaskawa drive, verify the drive brand and model on the nameplate and consult the operator display for the actual fault code.
 
 For true Yaskawa A1000 ground-fault-related issues, look for codes like oC (overcurrent at startup or during run) or UV3 (DC bus undervoltage), which can indicate output short circuits or motor problems. The Yaskawa A1000 manual (document C710616) provides complete fault code definitions. If your drive is actually a Danfoss unit showing AL-14, the fault points to insulation breakdown in the motor cable or motor windings allowing current to leak to ground.
@@ -26,8 +25,6 @@ For true Yaskawa A1000 ground-fault-related issues, look for codes like oC (over
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire VFD when seeing unfamiliar codes without confirming the drive brand. Always verify the nameplate manufacturer and consult the correct manual before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if the fault persists after disconnecting the motor, if you lack a megohmmeter to test insulation resistance, or if internal drive components (gate driver board, IGBTs, current sensors) are suspected. High DC bus voltages (typically around 580V DC for 400V AC line input) and complex power electronics make internal VFD repair dangerous without proper training and test equipment. A drive repair center can bench-test and replace gate driver boards or IGBT modules if the fault is internal. Always consult the correct manual for your confirmed drive brand and model before any repair work.
 
 **Rough cost:** A pro service call runs about $200-800.
-
-## See Also
-
-- [Yaskawa GA800 A.130 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-130-fault-code/)
-- [Yaskawa GA800 VFD A.131 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-131-fault-code/)
-- [Yaskawa A1000 AL-06 - Causes & Fix](/posts/yaskawa-a1000-vfd-al-06-fault-code/)
-- [Yaskawa GA800 E56 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e56-fault-code/)

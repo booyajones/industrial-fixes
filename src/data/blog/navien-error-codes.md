@@ -61,24 +61,3 @@ Hot gases rolled back into the combustion chamber and tripped the manual-reset r
 
 ## When to Call a Pro
 E013 (rollout) and E004 (false flame detection) require investigation of the gas valve and combustion circuit that goes beyond homeowner scope. Navien NPE units use a complex gas/air proportional valve — adjustment and replacement require factory training.
-
-## Related Articles
-
-- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
-- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)
-- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
-- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
-- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Best combustion analyzer (2026)](/posts/best-combustion-analyzer/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Weil-McLain code 3 low water cutoff](/posts/weil-mclain-error-code-3/)
-
-## See Also
-
-- [Navien Error Code E013 — Causes & Fix](/posts/navien-error-code-e013/)
-- [Navien NPE Series Error Codes — Tankless Water Heater Fault Guide](/posts/navien-npe-error-codes/)
-- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
-- [Navien Error Code E024 — Overheat / High Temperature Cutoff](/posts/navien-error-code-e024/)

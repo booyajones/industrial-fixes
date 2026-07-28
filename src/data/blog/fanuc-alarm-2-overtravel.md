@@ -17,8 +17,6 @@ most_likely_cause: "Manual jog or programmed move past the soft limit"
 
 Fanuc Alarm 2 is an **Overtravel (Plus direction) hardware limit** — an axis has tripped the positive hardware overtravel limit switch. Unlike the software overtravel limits (set in parameters), the hardware OT switch is a physical limit switch wired directly to the CNC as a safety interlock. When the machine axis travels beyond the positive hardware limit, the drive cuts out and Alarm 2 is stored. The machine will not move the faulted axis in any direction except back off the limit switch using the override procedure.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
 - **Manual jog or programmed move past the soft limit** — A program with incorrect coordinate values or a manual jog that inadvertently moved the axis beyond the positive mechanical boundary.
@@ -44,18 +42,3 @@ Fanuc Alarm 2 is an **Overtravel (Plus direction) hardware limit** — an axis h
 ## When to Call a Pro
 
 If the machine homes incorrectly after clearing Alarm 2, the absolute encoder battery may be dead or the reference mark may be lost. Incorrect homing on multi-axis machines can cause crashes — have a Fanuc-trained service engineer verify the reference point before resuming production.
-
-## Related Articles
-
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
-- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
-- [Fanuc Alarm 3 — Overtravel Minus Hardware Causes & Fix](/posts/fanuc-alarm-3-overtravel/)
-
-## See Also
-
-- [Fanuc CNC Alarm Codes — Complete Reference](/posts/fanuc-alarm-codes/)
-- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
-- [Fanuc Alarm 411 — Causes & Fix](/posts/fanuc-alarm-411/)
-- [Fanuc Alarm 400 — Causes & Fix](/posts/fanuc-alarm-400/)

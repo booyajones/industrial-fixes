@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Electrolux E82 Error Code — What It Means
-
+## What this code means
 The E82 error code on Electrolux washing machines indicates a problem with the selector position or user interface communication. In Electrolux EWM-series documentation, E82 is specifically defined as an error in the reset position of the selector, typically when the program knob is on zero and the circuit board cannot read the correct position. Electrolux support groups E80 through E82 together as codes related to either the recirculation pump or the user interface, depending on the model family.
 
 The code does not point to a water level, drain, or motor problem. Instead, it signals that the main control board cannot correctly detect or process the selector position, or that communication between the user interface module and the main board has failed. The exact subsystem varies by model, so verify your washer's service manual to confirm whether E82 maps to the control board, the UI assembly, or a related recirculation pump circuit on your specific machine.
@@ -25,8 +24,6 @@ The code does not point to a water level, drain, or motor problem. Instead, it s
 ## Before You Replace Anything
 
 Homeowners often replace the entire user interface console when the real problem is a loose connector or a failed main control board. Before ordering the UI module, open the top panel and inspect every connector between the interface and the main board for corrosion or a partial seat.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

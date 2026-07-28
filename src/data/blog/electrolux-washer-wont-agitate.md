@@ -19,8 +19,6 @@ When your Electrolux washer won't agitate, the machine fills with water and may 
 
 The symptom can appear suddenly or get worse over time. Common causes range from simple mechanical wear like a stripped agitator or worn drive block to safety lockouts from a faulty lid switch or door latch. Less often, a broken belt, failed motor coupling, low water level, or motor and control board issues stop agitation.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Lid switch or door latch failure** A defective lid switch, broken door latch, or misaligned striker prevents the control from enabling the motor during the wash cycle.

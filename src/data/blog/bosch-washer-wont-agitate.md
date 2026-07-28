@@ -19,8 +19,6 @@ When your Bosch washer won't agitate, the wash motor is not turning the drum bac
 
 If the door is not positively locked, Bosch washers will not run the drive system at all. The machine may fill with water but then sit idle, or it may skip straight to drain without any drum movement. On inverter-motor models, loss of agitation is often tied to the motor controller or drive electronics rather than a simple belt or coupling problem.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed or unlocked door lock** If the door can be opened when the cycle should be running, or if the lock does not engage with a solid click, the washer will not command the motor to turn the drum.
@@ -52,14 +50,14 @@ If the door is not positively locked, Bosch washers will not run the drive syste
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Bosch Washer E15 error code](/posts/bosch-washer-e15-error-code/)
+- Bosch Washer E15 error code
 - [Bosch Washer E16 error code](/posts/bosch-washer-e16-error-code/)
 - [Bosch Washer E17 error code](/posts/bosch-washer-e17-error-code/)
 - [Bosch Washer E18 error code](/posts/bosch-washer-e18-error-code/)
 - [Bosch Washer E19 error code](/posts/bosch-washer-e19-error-code/)
 - [Bosch Washer E20 error code](/posts/bosch-washer-e20-error-code/)
-- [Bosch Washer E21 error code](/posts/bosch-washer-e21-error-code/)
-- [Bosch Washer E22 error code](/posts/bosch-washer-e22-error-code/)
+- Bosch Washer E21 error code
+- Bosch Washer E22 error code
 - [Bosch Washer E23 error code](/posts/bosch-washer-e23-error-code/)
 - [Bosch Washer E24 error code](/posts/bosch-washer-e24-error-code/)
 - [Bosch Washer E25 error code](/posts/bosch-washer-e25-error-code/)

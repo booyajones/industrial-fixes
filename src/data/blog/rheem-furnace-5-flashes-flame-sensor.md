@@ -59,18 +59,3 @@ This is one of the most common furnace faults in the field. The flame sensor its
 If you've cleaned or replaced the flame sensor and the 5-flash lockout persists, you're dealing with either a gas pressure problem, a cracked heat exchanger, or a failed control board — none of which are safe or simple DIY repairs. A cracked heat exchanger is a carbon monoxide hazard and requires immediate shutdown of the unit. A licensed HVAC technician can measure microamp output at the sensor terminal (should read 2–6 µA on a healthy Rheem system), verify gas pressure at manifold, and perform a combustion analysis. Don't run the furnace in lockout-reset cycles while troubleshooting — repeated ignition attempts without resolution can damage the igniter.
 
 > **Pro tip:** Before ordering a replacement flame sensor, measure the microamp signal with a multimeter set to DC microamps in series with the sensor wire. A reading below 1.5 µA confirms a bad sensor. A reading of 0 µA often means a broken wire or cracked ceramic. A reading above 1.5 µA but still faulting usually points to the control board's sense circuit — save yourself a wasted parts order.
-
-## Related Articles
-
-- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
-- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
-- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)
-- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
-- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)
-
-## See Also
-
-- [Rheem Water Heater Error Codes — Complete Guide](/posts/rheem-water-heater-error-codes/)
-- [Rheem Split System Heat Pump Error Codes — RA14, RA15, RP15 Fault Guide](/posts/rheem-heat-pump-error-codes/)
-- [Rheem Furnace Error Code 57 — Causes & Fix](/posts/rheem-furnace-error-code-57/)
-- [Rheem RPH Series Packaged Unit Error Codes: Complete Guide](/posts/rheem-rph-error-codes/)

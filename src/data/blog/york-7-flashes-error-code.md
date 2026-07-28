@@ -51,18 +51,3 @@ If gas flow is absent despite a correct igniter glow, check for closed manual sh
 ## When to Call a Technician
 
 Flame sensor and igniter replacement are appropriate DIY repairs. Gas valve replacement requires a licensed HVAC technician. If the board is suspected, a tech with a diagnostic meter can confirm before committing to a board replacement.
-
-## Related Articles
-
-- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
-- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)
-- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
-- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
-- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
-
-## See Also
-
-- [York Chiller Fault Codes — Complete Troubleshooting Guide](/posts/york-chiller-fault-codes/)
-- [York 1-Blink Error Code — Pressure Switch Stuck Closed Fix](/posts/york-error-code-1/)
-- [York Furnace Error Codes — Complete Guide](/posts/york-furnace-error-codes/)
-- [York Affinity Series Packaged Unit Error Codes: Complete Guide](/posts/york-affiniti-error-codes/)

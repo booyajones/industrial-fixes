@@ -14,11 +14,8 @@ money_part: "Flame sensor (flame rod)"
 most_likely_cause: "Dirty or oxidized flame sensor rod"
 ---
 
-## Lennox E241 Error Code — What It Means
-
+## What this code means
 E241 on a Lennox furnace is a flame-sensing fault. The control board has detected flame when it should not be present, or the flame sensor circuit is reporting an abnormal signal. On most Lennox platforms this code is labeled as 'flame sensor out of sequence' and points to a problem with the flame sensor itself, its wiring, or the combustion process. The exact wording can vary slightly depending on your furnace model and control board version, but the root issue is always tied to how the board interprets flame presence through the sensor circuit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ E241 on a Lennox furnace is a flame-sensing fault. The control board has detecte
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working around gas appliances, if the fault returns after you have cleaned the sensor and checked wiring, or if you observe abnormal flame behavior such as delayed ignition, rollout, or yellow tipping. A technician has the tools to measure flame signal strength, verify grounding integrity, and safely diagnose control-board faults or combustion problems that require calibration or part replacement. Persistent E241 codes can indicate deeper issues with the board or gas supply that need professional evaluation.
-
-## See Also
-
-- [Lennox E117 Error Code - Causes & Fix](/posts/lennox-furnace-e117-error-code/)
-- [Lennox E204 Error Code - Causes & Fix](/posts/lennox-furnace-e204-error-code/)
-- [Lennox iComfort Error Code 31 — Pressure Switch Fault Diagnosis and Fix](/posts/lennox-icomfort-error-code-31/)
-- [Lennox Error Code 441 — Limit Device Fault](/posts/lennox-error-code-441/)

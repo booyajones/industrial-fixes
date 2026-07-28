@@ -13,11 +13,8 @@ money_part: "Refrigerant (R-410A or R-32)"
 most_likely_cause: "Service valves not fully open"
 ---
 
-## Mitsubishi U3 Error Code — What It Means
-
+## What this code means
 Mitsubishi error code U3 indicates a charge fault during the pre-charge sequence — the system detected that the pressure equalization or refrigerant pre-charge check failed before allowing compressor startup. On Mitsubishi systems, U3 can also indicate that the outdoor unit cannot verify that refrigerant is properly distributed in the system, or that a valve in the refrigerant circuit did not open as expected during initialization. This fault is particularly common on multi-zone systems after installation, after a refrigerant circuit service, or when service valves are left closed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Mitsubishi error code U3 indicates a charge fault during the pre-charge sequence
 ## When to Call a Pro
 
 Any work involving the refrigerant circuit — leak detection, recovery, recharge — requires EPA 608 certification. If the service valves are confirmed open and pressures are abnormal, stop and call a licensed refrigeration technician.
-
-## Related Articles
-
-- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
-- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
-- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
-- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
-- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
-
-## See Also
-
-- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
-- [Mitsubishi FR-A800 Fault E7 — CPU Error Causes & Fix](/posts/mitsubishi-fr-a800-fault-e7/)
-- [Mitsubishi FR-A700 Fault Codes - What It Means and How to Fix It](/posts/mitsubishi-fr-a700-fault-codes/)
-- [Mitsubishi E7 Error Code — Refrigerant Cycle Fault](/posts/mitsubishi-e7-error-code/)

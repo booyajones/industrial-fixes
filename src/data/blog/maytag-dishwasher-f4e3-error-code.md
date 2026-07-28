@@ -17,8 +17,7 @@ money_part: "Circulation pump / wash motor assembly"
 part_price: "$80-200"
 ---
 
-## Maytag Dishwasher F4E3 Error — What It Means
-
+## What this code means
 F4E3 on a Maytag dishwasher signals a circulation pump or wash motor communication and performance fault. The control board cannot properly drive or receive feedback from the motor that circulates water during the wash cycle. This is not an airflow issue, it is specific to the dishwasher's wash pump circuit in Whirlpool-family control platforms.
 
 The fault may appear if the circulation pump has failed internally, if wiring between the control board and pump has loosened or corroded, or if the control board itself has lost the ability to read or command the pump. Some models use a combined sump or drain and wash pump module, so the exact assembly involved depends on your specific dishwasher design.
@@ -26,8 +25,6 @@ The fault may appear if the circulation pump has failed internally, if wiring be
 ## Before You Replace Anything
 
 Many homeowners replace the main control board first, but a loose harness connector or a burned terminal at the pump is cheaper to fix. Always inspect the pump wiring and connectors with a flashlight and wiggle-test them before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

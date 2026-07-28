@@ -19,8 +19,7 @@ free_checks:
   - "Inspect the flame sensor and ignitor for visible contamination or damage"
 ---
 
-## Weil-McLain A52 Error — What It Means
-
+## What this code means
 The A52 code on a Weil-McLain boiler indicates an ignition or flame-proving failure. The boiler attempted to start its burner sequence, but the control did not detect a valid flame signal, so it locked out or stopped the call for heat. The exact meaning and diagnostics are model-specific because Weil-McLain uses different control platforms across product lines, so always consult the correct manual for your boiler's CP number.
 
 In practice, this fault family means the burner ignition sequence started but the boiler did not establish flame or did not see a stable flame signal. The control expected to prove flame within its timing window and did not, leading to a lockout state.
@@ -28,8 +27,6 @@ In practice, this fault family means the burner ignition sequence started but th
 ## Before You Replace Anything
 
 Many people replace the gas valve or control board first, but a dirty or misaligned flame sensor is far more common. Always inspect and clean the ignitor and flame rod before replacing expensive components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a qualified heating technician for any A52 fault. Boiler ignition systems involve natural gas or LP fuel, high-voltage ignition components, and combustion diagnostics that require specialized tools and training. A technician will verify your exact model's fault meaning, perform gas pressure and flame rectification tests, inspect the burner and ignition hardware safely, and replace components with the correct Weil-McLain part numbers. Attempting gas or combustion work without proper training creates serious safety risks including gas leaks, carbon monoxide, or fire. If the boiler is under warranty, only a Weil-McLain authorized service provider should perform repairs to preserve coverage.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Weil-McLain Boiler A123 Error - Causes & Fix](/posts/weil-mclain-boiler-a123-error-code/)
-- [Weil-McLain A79 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a79-error-code/)
-- [Weil-McLain A30 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a30-error-code/)
-- [Weil-McLain Boiler A72 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a72-error-code/)

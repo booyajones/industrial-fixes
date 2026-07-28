@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Heat pump / circulation pump motor assembly"
 ---
 
-## Bosch Dishwasher E01 Error Code — What It Means
-
+## What this code means
 Bosch defines the E01 error code as a heat pump motor circuit fault at the main control board. This means the control board has detected a problem in the circuit that powers and monitors the heat pump motor, which is part of the drying system in many Bosch dishwasher models. The fault can originate in the motor circuit itself, the wiring and connectors that link it to the board, or the control board's output circuitry.
 
 Because this code points to a specific circuit monitored by the main control board, it does not typically indicate simple user-serviceable issues like clogged filters or door latch problems. Bosch recommends a power reset as the first step, but if the code returns after that reset, the manufacturer advises contacting customer support or a qualified technician for circuit testing and component replacement.
@@ -25,8 +24,6 @@ Because this code points to a specific circuit monitored by the main control boa
 ## Before You Replace Anything
 
 Homeowners sometimes replace the heat pump motor assembly first, assuming the motor itself is bad. Before ordering expensive parts, inspect all visible wiring and connectors for damage or moisture and perform a power reset, since the control board is actually the most frequent failure point for this code.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

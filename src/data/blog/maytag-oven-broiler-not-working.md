@@ -20,8 +20,6 @@ When your Maytag oven broiler is not working, the oven simply produces no heat i
 
 This symptom does not always trigger a fault code. The control may appear to function normally, accepting your Broil setting, but no heat is delivered. The root cause is usually in the broil circuit itself: a failed heating element, a weak or open igniter, a blown thermal fuse interrupting power, or a control board or relay that is no longer sending voltage to the broil load.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed broil element (electric)** The broil element at the top of the oven cavity has burned out or developed an open circuit, so it cannot heat even when voltage is applied.
@@ -56,18 +54,18 @@ This symptom does not always trigger a fault code. The control may appear to fun
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Maytag Oven A6 error code](/posts/maytag-oven-a6-error-code/)
-- [Maytag Oven Ab error code](/posts/maytag-oven-ab-error-code/)
-- [Maytag Oven Cal error code](/posts/maytag-oven-cal-error-code/)
-- [Maytag Oven F0 error code](/posts/maytag-oven-f0-error-code/)
+- Maytag Oven A6 error code
+- Maytag Oven Ab error code
+- Maytag Oven Cal error code
+- Maytag Oven F0 error code
 - [Maytag Oven F1 error code](/posts/maytag-oven-f1-error-code/)
-- [Maytag Oven F2 error code](/posts/maytag-oven-f2-error-code/)
-- [Maytag Oven F3 error code](/posts/maytag-oven-f3-error-code/)
-- [Maytag Oven F4 error code](/posts/maytag-oven-f4-error-code/)
-- [Maytag Oven F5 error code](/posts/maytag-oven-f5-error-code/)
-- [Maytag Oven F7 error code](/posts/maytag-oven-f7-error-code/)
-- [Maytag Oven F8 error code](/posts/maytag-oven-f8-error-code/)
-- [Maytag Oven F9 error code](/posts/maytag-oven-f9-error-code/)
+- Maytag Oven F2 error code
+- Maytag Oven F3 error code
+- Maytag Oven F4 error code
+- Maytag Oven F5 error code
+- Maytag Oven F7 error code
+- Maytag Oven F8 error code
+- Maytag Oven F9 error code
 
 ## When to Call a Pro
 

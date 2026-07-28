@@ -61,10 +61,3 @@ These codes apply to this model line:
 ## When to Call a Pro
 
 Call a technician if you see a CH E or E CH error code, which indicates a high-side refrigerant leak in the sealed system and requires EPA-certified refrigerant work. Also call for a 22 or 33 compressor relay code if you are not comfortable testing and replacing control boards or compressor components. If you have checked all wiring, cleared ice obstructions, verified water supply, and replaced the ice maker fan motor or sensors but the IS/15 or EID/EIU codes persist, the main control board may have failed and a pro with the correct part number and wiring diagram will save time. Any situation where you smell burning plastic, see arcing, or hear loud compressor noise requires immediate professional service.
-
-## See Also
-
-- [LG Washer FE Error Code - Causes & Fix](/posts/lg-washer-fe-error-code/)
-- [LG Refrigerator FS Error Code - Causes & Fix](/posts/lg-refrigerator-fs-error-code/)
-- [LG Washer Door Boot Seal Replacement - Signs & How-To](/posts/lg-washer-door-boot-seal-bellow-gasket-front-load-replacement/)
-- [LG Dryer Loud Banging - Causes & Fix](/posts/lg-dryer-loud-banging/)

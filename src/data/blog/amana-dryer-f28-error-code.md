@@ -22,8 +22,7 @@ part_price: "$80-150"
 no_buy_pct: "60%"
 ---
 
-## Amana Dryer F28 Error Code — What It Means
-
+## What this code means
 The F28 code on an Amana dryer signals a communication fault between control components. Amana's own troubleshooting starts with a full power reset rather than checking sensors or airflow. The code indicates that the main control board and user interface (or other boards in the communication path) are not exchanging data properly. This is an electronic fault requiring service after the power reset, not a maintenance code related to lint restriction, voltage, or gas pressure.
 
 In practice, the fault is usually caused by loose or poor harness connections, oxidized terminals, or contaminated contact pads that interrupt low-level serial communication between boards. If reconnecting and reseating the wiring does not restore communication after a power cycle, a failed control board becomes the likely cause. Field service accounts consistently point to connector integrity as the first area to inspect, since many F28 faults clear after restoring proper terminal tension and cleaning contact surfaces.
@@ -31,8 +30,6 @@ In practice, the fault is usually caused by loose or poor harness connections, o
 ## Before You Replace Anything
 
 Many people replace the main control board first, but most F28 codes clear after simply unplugging and reseating each connector and cleaning oxidized terminals.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

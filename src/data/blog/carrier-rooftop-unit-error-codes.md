@@ -84,18 +84,3 @@ Wash condenser coil with coil cleaner. Verify all condenser fans are rotating. C
 | High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-rooftop-unit-error-codes&tag=errorcodefixes-20) \| Check setting: 410A = 590 psi, R-22 = 380 psi |
 | Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-carrier-rooftop-unit-error-codes&tag=errorcodefixes-20) \| Check µF with capacitor tester |
 > **Pro tip:** Carrier RTU boards store the last 5 fault codes in memory. Access fault history by pressing and holding the LED diagnostic button for 5 seconds on 48/50 Series controls.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier vs Trane Furnaces — A Service Tech's Honest Comparison (2026)](/posts/carrier-vs-trane-furnaces/)
-- [Carrier Infinity 24VNA6 Heat Pump Error Codes - Greenspeed Fault Reference](/posts/carrier-24vna6-error-codes/)
-- [Carrier WeatherMaker Rooftop Unit Error Codes: Complete Guide](/posts/carrier-weatheramaker-error-codes/)
-- [Carrier 34 Error Code — Ignition Proving Failure Fix](/posts/carrier-34-error-code/)

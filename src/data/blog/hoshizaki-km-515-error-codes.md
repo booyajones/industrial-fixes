@@ -26,8 +26,6 @@ The Hoshizaki KM-515 produces approximately 515 lbs of crescent ice per day and 
 | F1 | Drain pump fault | Medium |
 | F2 | Ice full sensor fault | Low |
 
-[Jump to Fix](#fix)
-
 ## KM-515 Specific Notes {#fix}
 
 The KM-515's higher production capacity means it pushes the condenser harder than the KM-330. In kitchens above 85°F ambient, condenser cleaning should happen every 3 months (not quarterly).
@@ -46,18 +44,3 @@ The KM-515's higher production capacity means it pushes the condenser harder tha
 ## When to Call a Pro
 
 E9 and persistent E2 after condenser cleaning require EPA 608-certified refrigeration technician.
-
-## Related Articles
-
-- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
-- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)
-- [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
-- [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)
-
-## See Also
-
-- [Hoshizaki KM-2000SAJ Ice Machine Error Codes - Full Diagnostic Guide](/posts/hoshizaki-km-2000saj-error-codes/)
-- [Hoshizaki E4 Error Code — Causes & Fix](/posts/hoshizaki-e4-error-code/)
-- [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)
-- [Hoshizaki F2 Error Code — Ice Full Sensor Fault Causes & Fix](/posts/hoshizaki-f2-error-code/)

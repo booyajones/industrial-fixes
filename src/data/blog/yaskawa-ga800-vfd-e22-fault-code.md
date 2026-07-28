@@ -13,11 +13,8 @@ money_part: "Serial communication cable (shielded twisted-pair)"
 most_likely_cause: "Incorrect communication cable wiring"
 ---
 
-## Yaskawa GA800 E22 Error Code — What It Means
-
+## What this code means
 E22 on the Yaskawa GA800 variable frequency drive indicates a serial communication transmission error. The drive has detected a problem in the communication line between the controller and the VFD. This is not a motor or power problem. It is a control signal or network path fault. The documented corrective action is to locate and repair wiring errors, disconnected cables, or short circuits in the serial communication cable.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ E22 on the Yaskawa GA800 variable frequency drive indicates a serial communicati
 ## When to Call a Pro
 
 Call a qualified industrial technician or Yaskawa-authorized service provider if you cannot locate a wiring fault in the communication cable and the alarm returns after repairs. Communication faults that remain after correct wiring and cable replacement usually indicate a drive control board or option card failure that requires bench-level diagnosis and replacement. Have the drive model number, serial number, and a description of the communication setup (protocol, option cards, controller type) ready when you contact support.
-
-## See Also
-
-- [Yaskawa GA800 E83 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e83-fault-code/)
-- [Yaskawa GA800 E72 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e72-fault-code/)
-- [Yaskawa GA800 E12 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e12-fault-code/)
-- [Yaskawa GA800 F016 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f016-fault-code/)

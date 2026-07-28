@@ -19,8 +19,6 @@ When a Navien tankless water heater is leaking, it's usually not a fault code by
 
 A leak complaint often overlaps with flow, pressure, or valve problems rather than a cracked component. The water could be coming from the cabinet floor, service valve unions, the relief valve discharge pipe, the condensate drain on condensing models, or from internal component seepage. Identifying the exact source is the first step in any repair.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Loose or failing water connections** Inlet and outlet unions, service valves, or threaded fittings can loosen over time or fail from thermal cycling and vibration.
@@ -53,10 +51,3 @@ A leak complaint often overlaps with flow, pressure, or valve problems rather th
 ## When to Call a Pro
 
 If the leak is coming from inside the unit cabinet, from the heat exchanger, or from an internal component you cannot access safely, call a licensed technician. Heat exchanger leaks and internal water-train failures are replacement-level repairs that require disassembly, pressure testing, and warranty verification. If you suspect freeze damage, scale buildup affecting internal parts, or a faulty flow sensor, a qualified tech can diagnose and repair correctly. Gas and venting work on tankless units should always be handled by a professional. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Navien Error Code E016 — Causes & Fix](/posts/navien-error-code-e016/)
-- [Navien Error Code E013 — Causes & Fix](/posts/navien-error-code-e013/)
-- [Navien E007 Error Code - Causes & Fix](/posts/navien-tankless-e007-error-code/)
-- [Navien E594 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e594-error-code/)

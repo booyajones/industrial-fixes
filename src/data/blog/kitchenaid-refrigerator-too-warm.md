@@ -19,8 +19,6 @@ On KitchenAid built-in refrigerators, a "Too Warm" or "Over Temperature" alarm m
 
 For non-built-in KitchenAid models, the symptom is usually a temperature alarm or a cooling complaint that you diagnose by checking the actual compartment temperatures and operating conditions. In either case, the refrigerator is not maintaining safe food storage temperatures and you need to find out why the cooling system is underperforming.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty condenser coils** Lint and dust on the condenser reduce heat rejection and are one of the most frequent causes of poor cooling in refrigerators.

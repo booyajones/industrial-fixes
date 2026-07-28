@@ -22,8 +22,7 @@ part_price: "$15-40 for a replacement drain pump filter or drain hose"
 no_buy_pct: "80%"
 ---
 
-## Whirlpool Washer Sud Error Code — What It Means
-
+## What this code means
 The Sud or Sd error code on Whirlpool washers (both top-load and front-load) indicates that the machine has detected excessive suds during the wash or rinse cycle. The washer uses a pressure sensor or drain monitoring system to detect when foam levels are too high. When this happens, the machine automatically runs a suds reduction routine—it extends the rinse time, performs extra drain and spin cycles, or pauses the wash to let the foam break down before continuing.
 
 This code is almost always a response to too much detergent or the wrong type of detergent, not a mechanical failure. High-efficiency (HE) washers use much less water than older machines, so even a small amount of regular detergent or too much HE detergent will create excessive foam that prevents proper draining and spinning.
@@ -31,8 +30,6 @@ This code is almost always a response to too much detergent or the wrong type of
 ## Before You Replace Anything
 
 Many people replace the drain pump when they see Sud, but the pump rarely fails. First verify you are using the correct HE detergent and proper dosage, then check for clogs in the filter and drain hose.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

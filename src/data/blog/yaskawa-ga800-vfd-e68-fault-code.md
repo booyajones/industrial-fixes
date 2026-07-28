@@ -14,8 +14,7 @@ money_part: "Yaskawa GA800 control board (PCB)"
 most_likely_cause: "Misread fault code"
 ---
 
-## Yaskawa GA800 E68 Fault — What It Means
-
+## What this code means
 E68 does not appear in the Yaskawa GA800 fault and alarm code lists available in manufacturer troubleshooting material. Yaskawa VFD fault codes can be easily misread on the display panel, particularly codes beginning with Er, E, or A. Before attempting any repair, verify the exact code shown on the drive display and consult the fault and alarm list in your GA800 manual. For example, Er-11 is a documented Motor Speed Error code that is visually similar but has completely different causes and corrective actions.
 
 If your drive truly displays E68, it may be a custom alarm programmed for your specific application, or the display may be showing a partial or corrupted code due to control board or communication issues. Yaskawa troubleshooting guidance directs technicians to have the model and specification number, serial number, the exact fault or alarm code, a description of what the drive was doing when the fault occurred, the application type, and the time in service ready when diagnosing unfamiliar codes or contacting technical support.
@@ -23,8 +22,6 @@ If your drive truly displays E68, it may be a custom alarm programmed for your s
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board when they cannot identify a fault code, but many unrecognized codes are actually misread standard codes or application-specific alarms that require only parameter changes. Always photograph the display, cross-reference the exact code in the drive manual, and check for custom alarm programming before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or Yaskawa-certified technician immediately if you cannot verify the exact fault code, if the drive will not power up, if you see smoke, burning smells, or physical damage to the control board or power components, or if your application is safety-critical. VFD troubleshooting requires an understanding of three-phase power systems, motor control theory, and the ability to safely measure high DC bus voltages (often 300-800 VDC depending on input voltage). Yaskawa troubleshooting documentation emphasizes having the elementary diagram, fault code definition, and application details ready before beginning diagnostics. If E68 is confirmed as a non-standard code and you do not have machine-builder documentation explaining it, only the OEM or a technician familiar with your specific machine will be able to resolve it.
 
 **Rough cost:** A pro service call runs about $150-400 depending on diagnostic time and whether a control board or fan replacement is needed.
-
-## See Also
-
-- [Yaskawa GA800 A.123 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-123-fault-code/)
-- [Yaskawa GA800 A.143 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-143-fault-code/)
-- [Yaskawa A1000 CPF01 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf01-fault-code/)
-- [Yaskawa GA800 E79 - Causes & Fix](/posts/yaskawa-ga800-vfd-e79-fault-code/)

@@ -19,8 +19,6 @@ When your Mitsubishi mini split cools, the indoor coil pulls moisture out of the
 
 This is not an error code. It is a symptom telling you that condensate is not leaving the unit the way it should. The breakdown is usually a clog in the drain line, a restriction in airflow causing the coil to freeze and then overflow when it thaws, improper installation pitch, or physical damage to the drain pan or tubing.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged condensate drain line** Sludge, algae, debris, or biological growth blocks the drain path and water backs up into the indoor unit.
@@ -53,26 +51,19 @@ This is not an error code. It is a symptom telling you that condensate is not le
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Mitsubishi Mini Split E0 error code](/posts/mitsubishi-mini-split-e0-error-code/)
-- [Mitsubishi Mini Split E2 error code](/posts/mitsubishi-mini-split-e2-error-code/)
-- [Mitsubishi Mini Split E3 error code](/posts/mitsubishi-mini-split-e3-error-code/)
-- [Mitsubishi Mini Split E4 error code](/posts/mitsubishi-mini-split-e4-error-code/)
-- [Mitsubishi Mini Split E5 error code](/posts/mitsubishi-mini-split-e5-error-code/)
-- [Mitsubishi Mini Split E7 error code](/posts/mitsubishi-mini-split-e7-error-code/)
-- [Mitsubishi Mini Split E9 error code](/posts/mitsubishi-mini-split-e9-error-code/)
-- [Mitsubishi Mini Split Ee error code](/posts/mitsubishi-mini-split-ee-error-code/)
-- [Mitsubishi Mini Split Fb error code](/posts/mitsubishi-mini-split-fb-error-code/)
-- [Mitsubishi Mini Split P1 error code](/posts/mitsubishi-mini-split-p1-error-code/)
-- [Mitsubishi Mini Split P2 error code](/posts/mitsubishi-mini-split-p2-error-code/)
-- [Mitsubishi Mini Split P4 error code](/posts/mitsubishi-mini-split-p4-error-code/)
+- Mitsubishi Mini Split E0 error code
+- Mitsubishi Mini Split E2 error code
+- Mitsubishi Mini Split E3 error code
+- Mitsubishi Mini Split E4 error code
+- Mitsubishi Mini Split E5 error code
+- Mitsubishi Mini Split E7 error code
+- Mitsubishi Mini Split E9 error code
+- Mitsubishi Mini Split Ee error code
+- Mitsubishi Mini Split Fb error code
+- Mitsubishi Mini Split P1 error code
+- Mitsubishi Mini Split P2 error code
+- Mitsubishi Mini Split P4 error code
 
 ## When to Call a Pro
 
 If you have cleared the drain line and filter but water continues to leak, or if you find ice on the evaporator coil that returns after airflow is restored, the system likely has a refrigerant leak or charge problem that requires a licensed technician with recovery equipment and leak detection tools. Likewise, if the drain pan is cracked or the indoor unit was installed without proper pitch, call a professional to remount the head or replace internal components. Refrigerant work and structural remounting are not DIY repairs.
-
-## See Also
-
-- [Mitsubishi P7 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-p7-error-code/)
-- [Mitsubishi AL-29 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-al-29-error-code/)
-- [Mitsubishi U7 Error Code — Refrigerant System Fault](/posts/mitsubishi-u7-error-code/)
-- [Mitsubishi Mini Split P2 Error Code — Indoor Pipe Thermistor Fix](/posts/mitsubishi-p2-error-code/)

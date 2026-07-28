@@ -18,15 +18,12 @@ free_checks:
   - "Inspect motor shaft and driven load for mechanical binding or jam that would stall the motor"
 ---
 
-## Danfoss FC302 Alarm 81 — What It Means
-
+## What this code means
 Alarm 81 (Protection Mode) activates when the Danfoss FC302 detects that motor current or DC-link voltage has exceeded a predefined hardware safety limit. This is a hardware-initiated protection, not a parameter-based warning. The drive's internal circuitry (gate driver or DC-link monitor) detects an unsafe condition and forces a shutdown to protect components. Motor current typically triggers this alarm when it exceeds 150 to 200% of rated current, depending on model and settings. DC-link overvoltage typically trips at around 850V for 400V-class drives. The drive will not restart until the fault condition is cleared and power is cycled.
 
 ## Before You Replace Anything
 
 Many technicians replace the IGBT power board without testing the motor and cable first. Disconnect the motor and run the drive unloaded to isolate whether the fault is internal or external before ordering expensive inverter components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a qualified electrical technician or VFD specialist if you are not trained to work on high-voltage industrial drives. Diagnosis requires live voltage measurements on three-phase power, DC-link voltages above 500V, and component-level testing of power electronics. If the drive continues to trip Alarm 81 with the motor disconnected, internal repair or board replacement must be performed by someone with proper training in VFD power circuits and access to OEM diagnostic tools. Motor insulation testing and cable fault location also require specialized megohm testers and current-clamp instrumentation.
 
 **Rough cost:** A pro service call runs about $300-800 depending on whether repair is motor cable, motor rebuild, or VFD power board replacement.
-
-## See Also
-
-- [Danfoss FC302 AL-83 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-83-fault-code/)
-- [Danfoss FC302 ALARM 45 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-45-fault-code/)
-- [Danfoss FC302 AL-17 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-117-fault-code/)
-- [Danfoss FC302 Alarm 58 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-58-fault-code/)

@@ -16,8 +16,7 @@ money_part: "Pressure switch (water level switch)"
 part_price: "$10-50"
 ---
 
-## Whirlpool F3E1 Error Code — What It Means
-
+## What this code means
 The F3E1 code on a Whirlpool washer means the appliance control unit cannot detect the water level correctly. The washer uses a pressure-sensing system to measure how much water is in the tub. This system includes a pressure hose (air tube) that runs from the tub chamber to either a separate pressure switch or a pressure transducer built into the main control board. When the control unit loses or cannot interpret the pressure signal, it throws F3E1 and may stop mid-cycle or refuse to fill or drain properly.
 
 The fault lies somewhere in the pressure-sensing circuit. Depending on your model, the sensor may be a standalone switch mounted near the control panel or integrated into the appliance control board itself. Either way, the code tells you the control unit is not receiving a valid water-level reading, so the washer cannot proceed safely.
@@ -25,8 +24,6 @@ The fault lies somewhere in the pressure-sensing circuit. Depending on your mode
 ## Before You Replace Anything
 
 Many owners replace the main control board first, assuming the board has failed. In most cases the real problem is a blocked or kinked pressure hose or debris in the air dome. Check and clean the hose and pressure port before ordering any electronic parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

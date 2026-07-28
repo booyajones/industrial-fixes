@@ -13,11 +13,8 @@ money_part: "Overtravel limit switch"
 most_likely_cause: "Manual jog in wrong direction"
 ---
 
-## Fanuc Alarm 6 Overtravel — What It Means
-
+## What this code means
 Fanuc alarm 6 means hardware overtravel — a physical limit switch on one of the machine's axes has been tripped. On Fanuc 0, 0i, 16/18/21 series controls, each linear axis has hardwired overtravel (OT) limit switches at both ends of travel. When the axis moves far enough to contact one of these switches, the control issues alarm 6 and immediately cuts servo drive power to that axis (and sometimes all axes depending on the machine builder's configuration). The alarm identifies which axis and direction: "OT+X" is positive X overtravel, "OT-Z" is negative Z overtravel, and so on.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -43,18 +40,3 @@ Fanuc alarm 6 means hardware overtravel — a physical limit switch on one of th
 ## When to Call a Pro
 
 If alarm 6 appears during automatic cycle operation with correct work offsets and a verified reference position, the limit switch position may need adjustment by the machine tool builder or an authorized Fanuc service technician.
-
-## Related Articles
-
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
-- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
-- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
-
-## See Also
-
-- [Fanuc Alarm 409 — Servo Overload (Z-Axis)](/posts/fanuc-alarm-409/)
-- [Fanuc Alarm 300: APC Battery Low — Absolute Encoder Battery Fix](/posts/fanuc-alarm-300-apc-battery/)
-- [Fanuc Alarm 460: Spindle Speed Error — Detailed Troubleshooting](/posts/fanuc-alarm-460-spindle/)
-- [Fanuc Alarm 750 — Causes & Fix](/posts/fanuc-alarm-750/)

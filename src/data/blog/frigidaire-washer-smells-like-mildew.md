@@ -19,8 +19,6 @@ A mildew smell in your Frigidaire washer means moisture and residue are staying 
 
 The smell is usually strongest around the door seal on front-load models, the detergent dispenser, or near the drain filter area. If water is not draining completely or the door stays closed after use, the interior cannot dry and the smell returns quickly.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door or lid left closed after cycle** Closing the door or lid traps moisture inside and prevents the drum and gasket from drying out between loads.

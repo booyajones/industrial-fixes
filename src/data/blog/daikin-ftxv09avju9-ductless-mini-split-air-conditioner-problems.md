@@ -42,10 +42,3 @@ The Daikin FTXV09AVJU9 is an indoor ductless mini split unit in the FTX wall-mou
 ## When to Call a Pro
 
 Call a licensed HVAC technician for any error code diagnosis, refrigerant work, compressor replacement, inverter PCB replacement, or communication faults. Mini split systems require specialized tools to read service data, check refrigerant pressures, perform evacuation and recharge, and test high-voltage inverter circuits safely. If the operation lamp is blinking and you see an error code on the controller, write down the exact code and contact a pro for accurate fault mapping and repair. Do not reset power or clear codes until the root cause is corrected, because the code provides the only reliable clue to the failed component.
-
-## See Also
-
-- [Daikin F3 Error Code — Causes & Fix](/posts/daikin-f3-error-code/)
-- [Daikin U3 Error Code - Causes & Fix](/posts/daikin-u3-error-code/)
-- [Daikin U7 Error Code - Causes & Fix](/posts/daikin-u7-error-code/)
-- [Daikin E2 Error Code - Causes & Fix](/posts/daikin-e2-error-code/)

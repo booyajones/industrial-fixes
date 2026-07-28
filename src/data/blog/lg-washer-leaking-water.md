@@ -19,8 +19,6 @@ When you see water pooling under or around your LG washer, the machine is not di
 
 A leak is different from an IE (water inlet error) code, which means the tub is not filling quickly enough. If you see IE on the display, the washer is not getting enough water in, not leaking water out. This guide addresses actual water leaking onto the floor, which requires inspecting the plumbing connections, hoses, seals, and internal components for cracks, wear, or blockage that allows water to escape during fill, wash, or drain.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Loose or damaged inlet hose connection** The rubber washers inside the hot and cold supply hoses wear out or the threaded fittings loosen over time, letting water seep out during fill.

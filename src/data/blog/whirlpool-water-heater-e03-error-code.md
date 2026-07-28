@@ -13,11 +13,8 @@ money_part: "Whirlpool Electronic Thermostat (ET) assembly"
 most_likely_cause: "Failed upper thermistor sensor inside the ET"
 ---
 
-## Whirlpool Water Heater E03 Error Code — What It Means
-
+## What this code means
 The E03 error code on Whirlpool Energy Smart electric water heaters indicates an upper thermistor sensor failure. This sensor is integrated into the Electronic Thermostat (ET) assembly and cannot be replaced separately. When the control board detects the sensor has failed or is reading outside normal parameters, it throws E03 and typically flashes an alert icon on the display. The upper thermistor monitors water temperature at the top of the tank so the control can manage heating cycles properly. When it fails, the system cannot regulate temperature safely and locks out heating.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

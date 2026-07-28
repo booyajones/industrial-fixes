@@ -21,8 +21,7 @@ free_checks:
 part_price: "$50-100"
 ---
 
-## Whirlpool Oven F5 E1 Error — What It Means
-
+## What this code means
 F5 E1 on a Whirlpool oven or range is a door-lock or latch-failure code. The control board expects the door latch to lock or unlock (usually during self-clean) and to report its position through switches, but the feedback does not match the command. The code appears when the latch motor or solenoid fails to move, when position switches give inconsistent readings, or when wiring between the latch and control board is open or shorted.
 
 The fault can originate in the latch motor or solenoid itself, the latch position switches, mechanical binding in the latch rod or gear train, damaged wiring or connectors, or a failed control board that drives or reads the latch circuit. The code does not indicate a heating element problem. It is strictly a door-lock circuit issue.
@@ -30,8 +29,6 @@ The fault can originate in the latch motor or solenoid itself, the latch positio
 ## Before You Replace Anything
 
 Many people replace the main control board first. Always test the latch motor for continuity and check the mechanical linkage for binding before condemning the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

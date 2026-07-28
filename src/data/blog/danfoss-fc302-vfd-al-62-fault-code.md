@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "85%"
 ---
 
-## Danfoss FC302 AL-62 — What It Means
-
+## What this code means
 AL-62 (Warning 62) on the Danfoss FC302 VFD indicates the drive's output frequency has reached the value programmed in the maximum frequency parameter, typically Parameter 4-01 or 4-18. The controller cannot increase frequency further to meet the speed reference. This is a warning, not a trip alarm, so the motor usually continues running at the programmed ceiling rather than stopping. Unlike overcurrent or overvoltage faults, AL-62 reflects a control logic limit rather than a hardware failure.
 
 The warning persists as long as the system demands a higher speed than the configured maximum allows. It can also appear when input voltage is low or imbalanced, causing the drive to restrict performance to protect the motor or DC bus. The code does not signal a catastrophic fault but tells you the drive is clamped at its programmed limit.
@@ -29,8 +28,6 @@ The warning persists as long as the system demands a higher speed than the confi
 ## Before You Replace Anything
 
 Technicians sometimes replace the power board or control board when AL-62 appears, but the warning is nearly always a parameter or input voltage issue. Check Parameter 4-01 and measure input phase voltage imbalance before ordering any hardware.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a VFD technician if you are not comfortable working with 400V or 480V three-phase power, measuring high voltage at the input terminals, or navigating the parameter menu on the LCP. A technician should also handle any replacement of the input rectifier assembly or control board, since those repairs require safe lockout/tagout procedures and knowledge of the drive's internal DC bus. If free checks and parameter adjustments do not clear the warning, or if you see signs of internal arcing or blown components, get professional help before powering the drive again.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Danfoss FC302 ALARM 33 - Causes & Fix](/posts/danfoss-fc302-alarm-33-fault-code/)
-- [Danfoss FC302 VFD Alarm 80 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-80-fault-code/)
-- [Danfoss FC302 Alarm 14 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-14-fault-code/)
-- [Danfoss FC302 AL-68 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-68-fault-code/)

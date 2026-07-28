@@ -49,11 +49,3 @@ Check line voltage, current balance, and actual compressed air demand. A compres
 | Cooling fan / contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-atlas-copco-compressor-fault-codes&tag=errorcodefixes-20) \| Common on overheats |
 ## When to Call a Pro
 If the compressor repeatedly trips on temperature or motor overload after routine service, involve an Atlas Copco technician. Screw compressor control problems and internal airend wear are not guess-and-check repairs.
-
-## Related Articles
-
-- [Air Compressor Fault Codes: Complete Guide](/posts/air-compressor-fault-codes/)
-- [BOGE Air Compressor Error Codes - Complete Guide](/posts/boge-compressor-error-codes/)
-- [Chicago Pneumatic Compressor Fault Codes — Complete Guide](/posts/chicago-pneumatic-compressor-faults/)
-- [CompAir Air Compressor Fault Codes - Complete Guide](/posts/compair-compressor-fault-codes/)
-- [Copeland Compressor Error Code 1 — High Pressure Cutout Fix](/posts/copeland-compressor-error-code-1/)

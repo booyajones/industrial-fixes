@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Siemens Micromaster F0222 — What It Means
-
+## What this code means
 The F0222 fault code on Siemens Micromaster drives (including the MM420 and MM440 models) means the PID controller feedback signal is above the maximum value defined in parameter P2267. This is not a hardware failure like a power stack fault. Instead, it tells you the actual process feedback (from a speed sensor, pressure transducer, flow meter, or other device) has exceeded the upper limit you programmed into the drive. The drive stops to protect the system from running outside safe operating ranges.
 
 This is a functional alarm tied to the closed-loop control system. It happens when the sensor sends a voltage or current signal higher than the drive expects, or when the maximum feedback parameter is set too low for the real-world operating conditions. On the MM420 specifically, you may also see F0222 if the drive runs without a motor connected or under no load, because the missing signal confuses the internal feedback loop.
@@ -29,8 +28,6 @@ This is a functional alarm tied to the closed-loop control system. It happens wh
 ## Before You Replace Anything
 
 Technicians sometimes replace the feedback sensor or I/O board first. Before swapping parts, read the live feedback value on the drive display and compare it to P2267. If the feedback is within normal sensor range but P2267 is lower, a simple parameter change fixes the fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -80,10 +77,3 @@ Answer these to narrow it down fast.
 Call a qualified technician or automation specialist if you are not comfortable working with industrial VFD parameters and wiring. Adjusting PID parameters incorrectly can cause unstable process control or damage downstream equipment. A technician can use diagnostic software to monitor live feedback values, tune the PID loop, and verify sensor calibration. Also call a pro if the fault persists after parameter changes and wiring checks, because the issue may involve a failed feedback input card or a complex system integration problem that requires specialized test equipment and programming knowledge.
 
 **Rough cost:** A pro service call runs about $150–400 depending on whether the fix is a parameter change or a sensor replacement.
-
-## See Also
-
-- [Siemens Micromaster F0005 - Causes & Fix](/posts/siemens-micromaster-f0005-fault-code/)
-- [Siemens G120 F01250 Fault - Causes & Fix](/posts/siemens-g120-vfd-f01250-fault-code/)
-- [Siemens G120 A05000 - Causes & Fix](/posts/siemens-g120-a05000-fault-code/)
-- [Siemens G120 F30002 - DC Link Overvoltage Causes & Fix](/posts/siemens-g120-vfd-f30002-fault-code/)

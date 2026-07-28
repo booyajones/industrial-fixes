@@ -19,8 +19,6 @@ An Amana washer that won't fill with water is a water-inlet problem, not a singl
 
 If your machine simply won't fill without showing a code, the same diagnostic path applies because the most common causes are still in the fill circuit. The washer either isn't getting water from the house supply, or it isn't opening the valve, or it isn't sensing the fill correctly.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **House water supply closed or weak** Both hot and cold supply valves must be open and the home's water pressure must be adequate for the washer to fill in time.
@@ -65,7 +63,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Amana Washer F8 E1 error code](/posts/amana-washer-f8-e1-error-code/)
 - [Amana Washer F8 E2 error code](/posts/amana-washer-f8-e2-error-code/)
 - [Amana Washer F9 E1 error code](/posts/amana-washer-f9-e1-error-code/)
-- [Amana Washer Fd error code](/posts/amana-washer-fd-error-code/)
+- Amana Washer Fd error code
 - [Amana Washer Hc error code](/posts/amana-washer-hc-error-code/)
 - [Amana Washer Ldl error code](/posts/amana-washer-ldl-error-code/)
 - [Amana Washer Ldu error code](/posts/amana-washer-ldu-error-code/)

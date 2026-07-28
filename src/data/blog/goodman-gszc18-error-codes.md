@@ -17,8 +17,6 @@ money_part: "Dual run capacitor"
 
 The Goodman GSZC18 is an 18 SEER, two-stage heat pump designed for use with Goodman's ComfortNet communicating system or a conventional thermostat. The outdoor control board flashes fault codes through the diagnostic LED. When paired with a ComfortNet thermostat, fault descriptions appear directly on the thermostat screen with more detail.
 
-[Jump to Fix](#fix)
-
 ## Goodman GSZC18 Flash Code Reference
 
 | Flash Code | Meaning |
@@ -65,18 +63,3 @@ The Goodman GSZC18 is an 18 SEER, two-stage heat pump designed for use with Good
 ## When to Call a Pro
 
 Two-stage compressor diagnosis and refrigerant work require professional tools and certification. The GSZC18's two-stage valve and ComfortNet communication system add complexity that makes board-level diagnosis difficult without Goodman's diagnostic software.
-
-## Related Articles
-
-- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
-- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
-- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
-- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
-- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)
-
-## See Also
-
-- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
-- [Goodman GVZC18 Heat Pump Error Codes: iQ Drive Fault Diagnostics](/posts/goodman-gvzc18-heat-pump-error-codes/)
-- [Goodman 8 Flash Error Code — Causes & Fix](/posts/goodman-8-flash-error-code/)
-- [Goodman GMSS96 Furnace Error Codes — Flash Code Diagnostic Guide](/posts/goodman-gmss96-error-codes/)

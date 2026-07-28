@@ -13,11 +13,8 @@ money_part: "Pressure switch"
 most_likely_cause: "Waterlogged pressure switch hose"
 ---
 
-## Lennox Error Code 225 — What It Means
-
+## What this code means
 Lennox fault code 225 is a pressure switch fault — the board commanded the inducer on and waited for the pressure switch to confirm adequate draft, but the switch did not close within the allowed window. On high-efficiency (90%+) Lennox units, there are often two pressure switches (low-fire and high-fire), and code 225 typically applies to the primary draft proving switch. The furnace will not proceed to ignition and will retry a defined number of times before locking out. This fault is extremely common in winter when condensate freeze and flue blockages peak.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Lennox fault code 225 is a pressure switch fault — the board commanded the ind
 ## When to Call a Pro
 
 If the flue is clear, the pressure switch hose is dry, and a new pressure switch still doesn't close with the inducer running, the inducer is likely not producing adequate draft — possibly due to a failed motor, cracked wheel, or significantly undersized flue run. This requires hands-on measurement and may require a venting redesign.
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-
-## See Also
-
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Error Code 125 — Causes & Fix](/posts/lennox-error-code-125/)
-- [Lennox iComfort Error Code 225 — Communication Fault Fix Guide](/posts/lennox-icomfort-error-code-225/)
-- [Lennox SLP98V Error Codes — Variable-Speed Furnace Fault Guide](/posts/lennox-slp98v-error-codes/)

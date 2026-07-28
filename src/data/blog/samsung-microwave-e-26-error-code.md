@@ -15,8 +15,7 @@ money_part: "Temperature sensor assembly"
 most_likely_cause: "Faulty temperature sensor or sensing circuit"
 ---
 
-## Samsung Microwave E-26 Error — What It Means
-
+## What this code means
 Samsung lists E-26 as a Temperature Not Over AD Error in its microwave error-code tables. Samsung does not publish a detailed public definition of what AD means in this context, so the exact internal trigger is not fully spelled out in consumer support documentation. The code generally points to a fault in the temperature-sensing circuit or the control logic that reads that sensor.
 
 Samsung's published troubleshooting for microwave error codes is limited. If the code appears, the manufacturer directs you to unplug the unit or switch off the breaker for about 60 seconds and then seek professional service if the code persists after that reset.
@@ -24,8 +23,6 @@ Samsung's published troubleshooting for microwave error codes is limited. If the
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board first. Before ordering any parts, verify that moisture has not condensed inside the electronics area (let the unit dry and retest), and confirm the temperature-sensor harness connectors are clean and fully seated, which saves the cost of a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

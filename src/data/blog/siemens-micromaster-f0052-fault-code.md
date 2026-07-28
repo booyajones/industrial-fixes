@@ -13,13 +13,10 @@ money_part: "Siemens Micromaster drive (replacement unit)"
 most_likely_cause: "Internal power-stack data corruption"
 ---
 
-## Siemens Micromaster F0052 — What It Means
-
+## What this code means
 The F0052 fault on a Siemens Micromaster drive indicates a power stack fault. This means the drive has failed to read the powerstack information from the inverter's power electronics assembly, or the data it received is invalid. Unlike motor-side faults or overcurrent trips, F0052 is an internal electronics fault within the drive itself.
 
 Siemens classifies this as a hardware defect in the drive's power section or associated control electronics. The manufacturer's remedy is to contact service or replace the drive unit. This is not a wiring or motor problem you can fix by adjusting parameters or checking external connections.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ Siemens classifies this as a hardware defect in the drive's power section or ass
 ## When to Call a Pro
 
 Call a qualified technician or Siemens service immediately when F0052 appears. This fault indicates an internal hardware defect in the drive's power electronics, not a wiring or motor issue you can troubleshoot externally. Siemens' published guidance directs replacement of the drive or professional repair. If you lack experience with VFD internals, high-voltage DC bus components, or safe disassembly procedures, do not attempt internal inspection. Professional service ensures correct diagnosis, access to genuine Siemens parts, and warranty coverage where applicable.
-
-## See Also
-
-- [Siemens Micromaster F0023 - Causes & Fix](/posts/siemens-micromaster-vfd-f0023-fault-code/)
-- [Siemens G120 A05002 - Causes & Fix](/posts/siemens-g120-a05002-fault-code/)
-- [Siemens G120 F01000 - Causes & Fix](/posts/siemens-g120-vfd-f01000-fault-code/)
-- [Siemens G120 F01205 - Causes & Fix](/posts/siemens-g120-vfd-f01205-fault-code/)

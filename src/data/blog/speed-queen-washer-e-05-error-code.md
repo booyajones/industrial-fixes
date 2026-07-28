@@ -14,13 +14,10 @@ money_part: "Pressure switch (water-level sensor)"
 most_likely_cause: "No or low incoming water"
 ---
 
-## Speed Queen Washer E:05 Error — What It Means
-
+## What this code means
 The E:05 error on a Speed Queen washer indicates a water-level or pressure-switch fault. The control board is not receiving a valid signal about how much water is in the tub, so the machine cannot run the cycle safely. This is a pressure-sensing problem, not a door-lock or heater issue.
 
 The fault can stem from something as simple as closed supply valves or kinked inlet hoses, or from a failed pressure switch, blocked air tube, or wiring problem between the sensor and the control board. Until the board sees a believable water-level signal, the washer will not advance.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -19,8 +19,6 @@ A Kenmore washer that stops mid-cycle is not reporting a single error code but i
 
 Common "waiting" conditions include a door or lid not recognized as closed, water not entering fast enough, or water not draining out. On some models a control reset will clear an electronic glitch. If the problem returns immediately after reset, that usually indicates a hardware fault rather than a temporary software hangup.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Lid switch or lid lock failure** A failed mechanical or electrical interlock stops the washer mid-cycle because the machine will not continue unless the lid or door is proven locked and closed.
@@ -53,8 +51,8 @@ Common "waiting" conditions include a door or lid not recognized as closed, wate
 
 Seeing a code on the display? These match this problem:
 
-- [Kenmore Washer E14 error code](/posts/kenmore-washer-e14-error-code/)
-- [Kenmore Washer E24 error code](/posts/kenmore-washer-e24-error-code/)
+- Kenmore Washer E14 error code
+- Kenmore Washer E24 error code
 - [Kenmore Washer F0 E2 error code](/posts/kenmore-washer-f0-e2-error-code/)
 - [Kenmore Washer F0 E4 error code](/posts/kenmore-washer-f0-e4-error-code/)
 - [Kenmore Washer F1 E1 error code](/posts/kenmore-washer-f1-e1-error-code/)

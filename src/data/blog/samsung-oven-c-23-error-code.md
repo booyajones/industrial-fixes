@@ -17,8 +17,7 @@ money_part: "Samsung oven temperature probe / temperature sensor"
 part_price: "$15-50"
 ---
 
-## Samsung Oven C-23 Error Code — What It Means
-
+## What this code means
 The C-23 code on a Samsung oven indicates a temperature probe sensor short circuit during oven operation. The control board detects an abnormal electrical signal from the oven temperature sensor, typically because the probe, its wiring harness, a connector, or the control board input itself has developed a short to ground or between wires.
 
 In practical terms, the oven cannot accurately measure cavity temperature and will not run until the short is cleared. The fault may be constant or intermittent, depending on whether heat, vibration, or moisture is causing a wire or connector to short during operation.
@@ -26,8 +25,6 @@ In practical terms, the oven cannot accurately measure cavity temperature and wi
 ## Before You Replace Anything
 
 Many people replace the main control board first, assuming the error means a board fault. Test or swap the temperature probe and inspect the harness for pinched or melted insulation before ordering a new control PCB.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

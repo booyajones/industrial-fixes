@@ -20,8 +20,6 @@ A GE oven or range that clicks but won't light is usually a gas surface-burner i
 
 If the problem is in the oven cavity itself rather than a cooktop burner, the core failure is different. A weak oven igniter can click or glow but still fail to open the gas safety valve, so the oven never lights or heats. GE does not describe this as a specific fault code. It is a symptom with multiple possible causes.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Wet burner head or cap after cleaning or spillover** Moisture on the burner prevents ignition and causes continuous clicking until the parts are fully dried.

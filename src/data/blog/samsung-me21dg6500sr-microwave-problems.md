@@ -43,7 +43,7 @@ The Samsung ME21DG6500SR is an over-the-range microwave with electronic touch co
 
 These codes apply to this model line:
 
-- [Samsung Microwave C 10 error code](/posts/samsung-microwave-c-10-error-code/)
+- Samsung Microwave C 10 error code
 - [Samsung Microwave C 11 error code](/posts/samsung-microwave-c-11-error-code/)
 - [Samsung Microwave C 12 error code](/posts/samsung-microwave-c-12-error-code/)
 - [Samsung Microwave C 20 error code](/posts/samsung-microwave-c-20-error-code/)
@@ -54,7 +54,7 @@ These codes apply to this model line:
 - [Samsung Microwave C 72 error code](/posts/samsung-microwave-c-72-error-code/)
 - [Samsung Microwave C A0 error code](/posts/samsung-microwave-c-a0-error-code/)
 - [Samsung Microwave C A1 error code](/posts/samsung-microwave-c-a1-error-code/)
-- [Samsung Microwave C A2 error code](/posts/samsung-microwave-c-a2-error-code/)
+- Samsung Microwave C A2 error code
 
 ## When to Call a Pro
 

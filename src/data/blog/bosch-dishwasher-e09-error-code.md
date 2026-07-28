@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "Heat pump / circulation pump with integrated heater"
 ---
 
-## Bosch E09 Error Code — What It Means
-
+## What this code means
 The E09 error code on a Bosch dishwasher indicates that the appliance has detected a fault in the heating system. Bosch states that this code means the heating element is defective. In practice, the heater is commonly the flow-through heater or heater-pump assembly integrated with the circulation pump, not just a standalone element.
 
 When E09 appears, the dishwasher typically fills with water but does not heat, or the error shows early in the cycle. The fault may also be caused by damaged wiring, poor water circulation, or in some cases a dirty salt sensor if the salt LED is also illuminated. A technician will verify power, inspect the heater-pump assembly, check connectors and wiring, and confirm water flow before proceeding with replacement.
@@ -24,8 +23,6 @@ When E09 appears, the dishwasher typically fills with water but does not heat, o
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board first. Instead, inspect the heater-pump assembly and connectors for burn marks, loose terminals, or water damage before replacing any control module.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

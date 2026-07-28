@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "STO jumper or terminal link for GA800"
 ---
 
-## Yaskawa GA800 E56 Fault — What It Means
-
+## What this code means
 The E56 fault code on the Yaskawa GA800 VFD indicates a safety-related input problem tied to the drive's Safe Torque Off (STO) function. The STO feature is a built-in safety mechanism that prevents the drive from producing motor torque when the safety circuit is not satisfied. When you see E56, the drive has detected that the STO input terminals are in an open or not-permissive state.
 
 This is not a motor overload or overcurrent trip. It is a safety circuit problem. The drive will not run until the STO circuit is restored to the correct state. Treat E56 as a wiring, safety device, or configuration issue rather than a motor or load fault.
@@ -24,8 +23,6 @@ This is not a motor overload or overcurrent trip. It is a safety circuit problem
 ## Before You Replace Anything
 
 Technicians sometimes replace the drive control board when E56 is actually caused by a missing jumper, loose terminal wire, or external safety device (E-stop or gate switch) that is still open. Always verify the STO wiring and external safety chain continuity with a meter before ordering drive parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or controls technician if you are not trained to work on VFD safety circuits or if you cannot locate the open point in the STO wiring after following the steps above. Safety circuits like STO are designed to prevent injury, and improper jumper installation or bypassing safety devices can create serious hazards. Also call a professional if the fault persists with all wiring verified correct, as the issue may be in the drive's internal safety input interface and require factory support or board-level repair.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Yaskawa A1000 oL6 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol6-fault-code/)
-- [Yaskawa GA800 E78 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e78-fault-code/)
-- [Yaskawa GA800 E64 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e64-fault-code/)
-- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)

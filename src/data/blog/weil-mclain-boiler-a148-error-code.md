@@ -13,8 +13,7 @@ money_part: "Flame sensor (model-specific)"
 diy_or_pro: "pro"
 ---
 
-## Weil-McLain Boiler A148 Error Code — What It Means
-
+## What this code means
 A148 cannot be verified as a standard fault code in Weil-McLain boiler documentation. The code may be a misread display, a model-specific control fault, or part of a stored alarm history screen. Weil-McLain boilers use contractor diagnostics menus to retrieve current and past faults, and the exact meaning depends on the control type and model CP number. Because fault codes vary by model, you must consult the manual for your specific boiler to match the code to a fault table.
 
 If your display shows A148, enter the contractor diagnostics menu (procedure varies by control) and retrieve the stored fault history. Write down the exact code, then cross-reference it in the installation and service manual for your model. Common Weil-McLain lockout causes include ignition or flame-proving faults, dirty or misaligned flame sensors, gas supply interruptions, combustion air or venting blockages, and sensor or thermistor failures. Do not attempt repairs yourself. Gas-fired boiler diagnostics and component replacement require a licensed heating contractor.
@@ -22,8 +21,6 @@ If your display shows A148, enter the contractor diagnostics menu (procedure var
 ## Before You Replace Anything
 
 Do not replace the control board or igniter until a technician retrieves the stored fault code and tests the flame sensor, gas valve, and blower with a meter.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -71,10 +68,3 @@ Answer these to narrow it down fast.
 Call a licensed heating contractor immediately. Gas-fired boiler diagnostics require a combustion analyzer, manometer, and multimeter to measure flame current, gas pressure, and sensor resistance safely. Only a qualified technician should retrieve stored fault codes from the contractor menu, test ignition and flame-proving circuits, and replace gas valves, igniters, or control boards. Attempting boiler repairs without training risks carbon monoxide leaks, gas fires, and voiding your warranty. Weil-McLain directs all troubleshooting beyond thermostat checks to professional contractors and requires documentation of the exact fault code and failed part number for warranty claims.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain A81 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a81-error-code/)
-- [Weil-McLain E05 Error Code — Sensor Fault](/posts/weil-mclain-e05-error-code/)
-- [Weil-McLain A04 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a04-error-code/)
-- [Weil-McLain Boiler A72 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a72-error-code/)

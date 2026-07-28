@@ -13,11 +13,8 @@ money_part: "Hardware overtravel limit switch"
 most_likely_cause: "Axis jogged or commanded past machine travel limits"
 ---
 
-## Fanuc Alarm 1 Overtravel — What It Means
-
+## What this code means
 Fanuc alarm 1 (OT0001: OVER TRAVEL: -X, or the corresponding axis) is a hardware overtravel alarm indicating that an axis has physically hit the minus-direction hardware overtravel limit switch. This is a positive limit detection — an actual mechanical switch mounted at the end of the axis travel has opened, telling the CNC that the axis has exceeded the physical travel boundary in the negative direction. The CNC removes servo power from the axis and requires an operator reset with the axis jogged away from the limit switch before normal operation can resume.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -43,18 +40,3 @@ Fanuc alarm 1 (OT0001: OVER TRAVEL: -X, or the corresponding axis) is a hardware
 ## When to Call a Pro
 
 If the axis hits the overtravel switch during normal operation with correct offsets and the soft limits are set, the servo system may be following position errors that exceed the tolerance — a servo gain or mechanical problem requiring a Fanuc service engineer to diagnose.
-
-## Related Articles
-
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
-- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
-- [Fanuc Alarm 3 — Overtravel Minus Hardware Causes & Fix](/posts/fanuc-alarm-3-overtravel/)
-
-## See Also
-
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-- [Fanuc Alarm 401 — Servo Axis Overload Fix](/posts/fanuc-alarm-401/)
-- [Fanuc Alarm 430 — Servo Motor Overheat Fix](/posts/fanuc-alarm-430/)
-- [Fanuc Alarm 500 — Causes & Fix](/posts/fanuc-alarm-500/)

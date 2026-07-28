@@ -19,8 +19,6 @@ When a KitchenAid dishwasher is not drying, you are typically dealing with a per
 
 For the generic complaint, KitchenAid directs you to first check whether a heated-dry option like Heat Dry, Extended Dry, Pro Dry, or Door Open Dry was selected, whether rinse aid is present and adjusted correctly, and whether dishes are loaded to drain properly. KitchenAid also recommends running the Sanitize cycle to verify the heating element is working. A steady Sanitize LED at the end means the heater is okay, while a blinking Sanitize LED suggests a heating-element problem.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Wrong cycle or option selected** Heat Dry, Extended Dry, Pro Dry, or Door Open Dry option was not turned on, so the dishwasher skipped the heated-dry phase.
@@ -55,18 +53,18 @@ For the generic complaint, KitchenAid directs you to first check whether a heate
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kitchenaid Dishwasher F1E1 error code](/posts/kitchenaid-dishwasher-f1e1-error-code/)
-- [Kitchenaid Dishwasher F1E2 error code](/posts/kitchenaid-dishwasher-f1e2-error-code/)
-- [Kitchenaid Dishwasher F2E2 error code](/posts/kitchenaid-dishwasher-f2e2-error-code/)
-- [Kitchenaid Dishwasher F3E1 error code](/posts/kitchenaid-dishwasher-f3e1-error-code/)
-- [Kitchenaid Dishwasher F3E2 error code](/posts/kitchenaid-dishwasher-f3e2-error-code/)
-- [Kitchenaid Dishwasher F4E3 error code](/posts/kitchenaid-dishwasher-f4e3-error-code/)
-- [Kitchenaid Dishwasher F5E1 error code](/posts/kitchenaid-dishwasher-f5e1-error-code/)
-- [Kitchenaid Dishwasher F6E1 error code](/posts/kitchenaid-dishwasher-f6e1-error-code/)
-- [Kitchenaid Dishwasher F6E2 error code](/posts/kitchenaid-dishwasher-f6e2-error-code/)
-- [Kitchenaid Dishwasher F6E3 error code](/posts/kitchenaid-dishwasher-f6e3-error-code/)
-- [Kitchenaid Dishwasher F6E4 error code](/posts/kitchenaid-dishwasher-f6e4-error-code/)
-- [Kitchenaid Dishwasher F7E1 error code](/posts/kitchenaid-dishwasher-f7e1-error-code/)
+- Kitchenaid Dishwasher F1E1 error code
+- Kitchenaid Dishwasher F1E2 error code
+- Kitchenaid Dishwasher F2E2 error code
+- Kitchenaid Dishwasher F3E1 error code
+- Kitchenaid Dishwasher F3E2 error code
+- Kitchenaid Dishwasher F4E3 error code
+- Kitchenaid Dishwasher F5E1 error code
+- Kitchenaid Dishwasher F6E1 error code
+- Kitchenaid Dishwasher F6E2 error code
+- Kitchenaid Dishwasher F6E3 error code
+- Kitchenaid Dishwasher F6E4 error code
+- Kitchenaid Dishwasher F7E1 error code
 
 ## When to Call a Pro
 

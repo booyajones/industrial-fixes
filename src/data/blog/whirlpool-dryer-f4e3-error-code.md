@@ -17,8 +17,7 @@ money_part: "Lint screen / filter"
 part_price: "$10-40"
 ---
 
-## Whirlpool Dryer F4E3 Error Code — What It Means
-
+## What this code means
 F4E3 on a Whirlpool dryer is a dryer airflow fault. On standard Whirlpool dryers, the code indicates restricted or low airflow caused by a clogged lint screen, blocked exhaust duct, crushed vent hose, excessive vent length, or an exterior hood that cannot open freely. On Whirlpool all-in-one washer/dryer models, Whirlpool Product Help identifies F4E3 as a possible dryer blower motor issue, and the dry function may not operate even though the wash function does.
 
 In practice, the code appears when the control board detects insufficient air movement through the dryer. Most cases trace to lint buildup or vent restrictions rather than a failed component. On the all-in-one platform, however, Whirlpool specifically calls out the blower motor as the likely failed part when other airflow checks pass.
@@ -26,8 +25,6 @@ In practice, the code appears when the control board detects insufficient air mo
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board or heating element first. Instead, disconnect the vent and run a test cycle to confirm the fault clears when airflow is unrestricted.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

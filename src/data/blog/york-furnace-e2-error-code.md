@@ -13,11 +13,8 @@ money_part: "Pressure switch"
 most_likely_cause: "Blocked or kinked pressure switch hose"
 ---
 
-## York Furnace Error Code E2 — What It Means
-
+## What this code means
 York furnace **error code E2** indicates a **pressure switch fault** — the inducer pressure switch did not close (or opened during operation), and the control board aborted the ignition sequence or shut down mid-cycle. York furnaces (a Bosch brand, also found as Luxaire and other labels) use an inducer motor to create draft; a pressure switch monitors that adequate draft is present before the gas valve opens. E2 means the draft system failed to prove. This code appears on furnaces with a digital display; on LED-only models, the same condition shows as 2 flashes.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ York furnace **error code E2** indicates a **pressure switch fault** — the ind
 ## When to Call a Pro
 
 If E2 persists with a confirmed clear hose, good inducer speed, and a new pressure switch, the furnace's heat exchanger may be cracked, altering pressure dynamics in the flue system. Heat exchanger inspection requires a licensed HVAC technician.
-
-## Related Articles
-
-- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
-- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)
-- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
-- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
-- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
-
-## See Also
-
-- [York Furnace Error Code E2: Pressure Switch Fault Causes and Fix](/posts/york-furnace-e2-pressure-switch/)
-- [York 8 Flashes Error Code — Causes & Fix](/posts/york-8-flashes-error-code/)
-- [York YZV Heat Pump Error Codes - Variable Speed Fault Diagnostics](/posts/york-yzv-heat-pump-error-codes/)
-- [York Rooftop Unit Error Codes: Technician Guide](/posts/york-rooftop-unit-error-codes/)

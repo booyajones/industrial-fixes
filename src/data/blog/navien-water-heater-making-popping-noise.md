@@ -19,8 +19,6 @@ A popping noise on a Navien tankless water heater is a symptom, not an error cod
 
 Less often, the noise comes from low flow, blockages, air in the lines, loose components, or problems with venting and exhaust. If the popping sound is coming from the vent or exhaust area, it may point to a combustion or pressure event rather than a water-side issue. Because Navien units do not assign a specific fault code to popping noises, you need to diagnose by sound location and operating conditions.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Scale or mineral buildup on the heat exchanger** Hard water deposits accumulate on the exchanger surface, trap steam pockets, and cause popping or crackling as water boils unevenly.
@@ -53,10 +51,3 @@ Less often, the noise comes from low flow, blockages, air in the lines, loose co
 ## When to Call a Pro
 
 Call a licensed plumber or Navien service technician if descaling and basic cleaning do not stop the popping noise, if you see active error codes you cannot clear, or if the sound is coming from the gas burner, ignition components, or exhaust path. Gas-side and combustion work should always be handled by a qualified professional. A pro can also verify correct venting, perform pressure and flow tests, and replace control boards or valves that require part-specific diagnostics. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Navien NPE/NCB Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003/)
-- [Navien E009 Error Code — Causes & Fix](/posts/navien-error-code-e009/)
-- [Navien NCB-700 Combination Boiler Error Codes - Full Fault Guide](/posts/navien-ncb-700-error-codes/)
-- [Navien E030 Error Code — Causes & Fix](/posts/navien-error-code-e030/)

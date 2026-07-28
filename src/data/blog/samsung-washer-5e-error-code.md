@@ -22,8 +22,7 @@ part_price: "$35-65"
 no_buy_pct: "60%"
 ---
 
-## Samsung Washer 5E Error Code — What It Means
-
+## What this code means
 The 5E error code (sometimes displayed as SE) tells you the washer has detected a drain timeout. Water is not leaving the tub fast enough, so the control board stops the cycle and flags a drainage problem. This is not a fill issue. The machine expects water to drain within a set window, and when it doesn't, the pressure sensor or timer circuit triggers the code.
 
 In most cases, the root cause is mechanical blockage or a failed drain pump. The controller relies on the pressure switch or air chamber to confirm the tub has emptied. If debris clogs the filter, the hose kinks, or the pump impeller jams, water sits in the drum and the code appears. Occasionally a blocked house drain or a faulty pressure sensor hose will also prevent proper feedback and set the same fault.
@@ -31,8 +30,6 @@ In most cases, the root cause is mechanical blockage or a failed drain pump. The
 ## Before You Replace Anything
 
 Many people replace the drain pump first without ever opening the filter housing. Clean the debris filter and inspect the drain hose for kinks before ordering a new pump assembly.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

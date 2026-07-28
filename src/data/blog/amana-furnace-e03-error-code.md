@@ -14,13 +14,10 @@ money_part: "High-limit switch"
 most_likely_cause: "Dirty or clogged air filter"
 ---
 
-## Amana Furnace E03 Error Code — What It Means
-
+## What this code means
 E03 (or E3) on most Amana, Goodman, and Daikin furnaces signals an open high-limit switch. The limit switch is a safety device that cuts power to the burner when the heat exchanger or cabinet gets too hot. When it opens, the furnace stops firing to prevent damage or a fire hazard. On some models the code may instead relate to a pressure-switch fault, so always verify the code meaning against your furnace's control-board legend or install manual before troubleshooting.
 
 The limit trips for a reason. Either airflow across the heat exchanger is too low (so the metal overheats) or something has failed in the limit circuit itself. Restricted airflow from a dirty filter, clogged coil, or blocked duct is by far the most common root cause. Until you restore proper airflow, resetting the switch or replacing it will only make the code come back.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

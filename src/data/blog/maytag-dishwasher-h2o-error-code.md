@@ -22,8 +22,7 @@ part_price: "$40-70"
 no_buy_pct: "60%"
 ---
 
-## Maytag Dishwasher H2O Error Code — What It Means
-
+## What this code means
 The H2O error code on a Maytag dishwasher means the cycle is paused because the machine is not filling with enough water or not detecting enough water during the fill phase. Maytag instructs users to verify the water supply is turned on and the supply hose is in good condition. This is a fill-time water delivery failure, not a drain or electrical fault.
 
 The code appears when the dishwasher times out waiting for adequate water flow. The machine expects a certain volume within a set window and triggers H2O when it falls short. Once you correct the supply issue, press Start so the dishwasher can attempt to refill and resume the cycle.
@@ -31,8 +30,6 @@ The code appears when the dishwasher times out waiting for adequate water flow. 
 ## Before You Replace Anything
 
 Many people replace the inlet valve or pressure switch first. Before buying parts, confirm the shutoff valve under the sink is fully open and the supply hose has no kinks or blockage.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

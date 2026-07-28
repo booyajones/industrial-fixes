@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## KitchenAid F1E1 Error — What It Means
-
+## What this code means
 The F1E1 error code on a KitchenAid dishwasher indicates a control board fault. When this code appears, the dishwasher will begin a drain sequence and then stop operating. Field repair references identify the underlying problem as a stuck relay on the electronic control board, or more broadly an ACU or main control failure.
 
 The code halts the dishwasher after it starts to drain. Technicians interpret this as a relay that has failed in the closed or on position, preventing the control board from managing the machine's functions properly. In some cases the fault can be triggered by damaged wiring or a defective component that the board is trying to control, but the most common source is the control board itself.
@@ -26,8 +25,6 @@ The code halts the dishwasher after it starts to drain. Technicians interpret th
 ## Before You Replace Anything
 
 Homeowners sometimes replace expensive pumps or motors when F1E1 appears, but the code points to the control board or its wiring. Always check wiring connections and perform a power reset before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

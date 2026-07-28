@@ -21,8 +21,7 @@ free_checks:
 part_price: "$50-120"
 ---
 
-## Frigidaire Oven F93 Error Code — What It Means
-
+## What this code means
 The F93 code indicates that the electronic oven control (EOC) commanded the door to lock, but the door did not reach the locked state within the allowed time window. The control board is waiting for a confirmation signal from the lock system that the latch has fully engaged, and that signal never arrives.
 
 This is a door lock system fault. Frigidaire groups F93 with other door lock issue codes (F90 through F94). The fault can be mechanical (a jammed or obstructed latch), electrical (a failed lock motor, switch, or wiring), or occasionally a control board problem.
@@ -30,8 +29,6 @@ This is a door lock system fault. Frigidaire groups F93 with other door lock iss
 ## Before You Replace Anything
 
 Many people replace the electronic oven control board first. Check the door lock assembly for physical obstructions, binding, and proper motor operation before replacing the EOC.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

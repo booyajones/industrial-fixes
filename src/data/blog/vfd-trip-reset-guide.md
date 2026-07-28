@@ -16,8 +16,6 @@ tags:
 
 Resetting a VFD trip is easy. Resetting it safely is the real job. Overcurrent, ground fault, overvoltage, undervoltage, overtemperature, and communication faults all clear in slightly different ways, but the rule is the same: identify whether the trip was caused by the load, the motor, the power source, the setup, or the drive itself before you hammer the reset button.
 
-[Jump to Fix](#fix)
-
 ## Common VFD Trip Types
 
 | Symptom / Code | Common Meaning | Typical Brands |
@@ -63,11 +61,3 @@ Read the code, review history, isolate motor if needed, verify line power, then 
 ## When to Call a Pro
 
 If a VFD keeps tripping on the same code after one informed reset attempt, the reset was never the fix. At that point you need diagnosis, not more resets.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

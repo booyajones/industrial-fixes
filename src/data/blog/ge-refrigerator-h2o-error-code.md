@@ -17,8 +17,7 @@ money_part: "GE water filter (model-specific)"
 part_price: "$30-60"
 ---
 
-## GE Refrigerator H2O Error Code — What It Means
-
+## What this code means
 The H2O indication on a GE refrigerator is a water filter reminder, not a fault code for cooling or a control-board failure. It tells you that the water filter has reached the end of its service life and should be replaced. This is a scheduled maintenance indicator, not a sign that a component has failed.
 
 In most cases, the refrigerator will continue to cool and operate normally. You may notice reduced water flow at the dispenser or slower ice production as the filter becomes clogged, but the H2O light itself is simply prompting you to change the filter and reset the reminder.
@@ -26,8 +25,6 @@ In most cases, the refrigerator will continue to cool and operate normally. You 
 ## Before You Replace Anything
 
 Some owners assume H2O means the water inlet valve or dispenser control board has failed and replace those parts first. Simply replacing the filter and resetting the indicator usually clears the reminder and restores normal flow.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

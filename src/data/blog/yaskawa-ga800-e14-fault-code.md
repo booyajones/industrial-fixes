@@ -13,13 +13,10 @@ money_part: "GA800 Control Board"
 most_likely_cause: "Misidentified drive model"
 ---
 
-## Yaskawa GA800 E14 Fault — What It Means
-
+## What this code means
 E14 does not appear in the official Yaskawa GA800 fault and alarm code tables provided in the manufacturer documentation. The GA800 uses fault codes for conditions like overcurrent, overvoltage, and communication errors, but E14 is not listed among them. If your keypad is displaying E14, you may be looking at a different drive model, a PLC or servo alarm, or misreading the displayed code.
 
 Yaskawa's standard procedure for any GA800 fault is to identify the exact code shown on the keypad, consult the fault table in the manual that matches your drive's catalog number, remove the cause of the fault, and then reset the drive. Without confirmation that E14 is a valid GA800 code, any repair attempt should start by verifying the drive model and checking the correct manual.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ Yaskawa's standard procedure for any GA800 fault is to identify the exact code s
 ## When to Call a Pro
 
 Call a qualified drive technician or contact Yaskawa Technical Support if you cannot locate E14 in your GA800 manual, if the fault persists after following the manual's corrective steps, or if you need help identifying the correct drive model and fault table. Yaskawa's maintenance documentation states that repair guidance beyond fan and control board replacement is limited and recommends professional support for undefined or recurring faults.
-
-## See Also
-
-- [Yaskawa V1000 OC Fault — Overcurrent](/posts/yaskawa-v1000-fault-oc/)
-- [Yaskawa GA800 E08 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e08-fault-code/)
-- [Yaskawa GA800 E09 Fault - Causes & Fix](/posts/yaskawa-ga800-e09-fault-code/)
-- [Yaskawa VFD Fault Codes — Complete Reference (V1000, A1000, GA700)](/posts/yaskawa-vfd-fault-codes/)

@@ -19,8 +19,6 @@ When an LG mini split won't turn on, you may see no display, no LEDs, or an erro
 
 LG service guidance recommends starting with a full power cycle (turn off the breaker for about 5 minutes) to clear temporary faults caused by electrical disturbances or unstable supply voltage. If the unit remains off or displays CH12 after the reset, the indoor return-air thermistor or indoor pipe thermistor circuit has either disconnected or shorted out, and the unit will not operate until the sensor is repaired or replaced.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **No supply power or tripped breaker** A tripped circuit breaker, blown fuse, or loose connection at the disconnect or terminal block is the most common reason an LG mini split is completely dead with no display or LEDs.
@@ -54,26 +52,19 @@ LG service guidance recommends starting with a full power cycle (turn off the br
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Lg Mini Split Ch 05 error code](/posts/lg-mini-split-ch-05-error-code/)
-- [Lg Mini Split Ch 26 error code](/posts/lg-mini-split-ch-26-error-code/)
-- [Lg Mini Split Ch 38 error code](/posts/lg-mini-split-ch-38-error-code/)
-- [Lg Mini Split Ch01 error code](/posts/lg-mini-split-ch01-error-code/)
-- [Lg Mini Split Ch02 error code](/posts/lg-mini-split-ch02-error-code/)
-- [Lg Mini Split Ch03 error code](/posts/lg-mini-split-ch03-error-code/)
-- [Lg Mini Split Ch04 error code](/posts/lg-mini-split-ch04-error-code/)
-- [Lg Mini Split Ch05 error code](/posts/lg-mini-split-ch05-error-code/)
-- [Lg Mini Split Ch06 error code](/posts/lg-mini-split-ch06-error-code/)
-- [Lg Mini Split Ch07 error code](/posts/lg-mini-split-ch07-error-code/)
-- [Lg Mini Split Ch09 error code](/posts/lg-mini-split-ch09-error-code/)
-- [Lg Mini Split Ch10 error code](/posts/lg-mini-split-ch10-error-code/)
+- Lg Mini Split Ch 05 error code
+- Lg Mini Split Ch 26 error code
+- Lg Mini Split Ch 38 error code
+- Lg Mini Split Ch01 error code
+- Lg Mini Split Ch02 error code
+- Lg Mini Split Ch03 error code
+- Lg Mini Split Ch04 error code
+- Lg Mini Split Ch05 error code
+- Lg Mini Split Ch06 error code
+- Lg Mini Split Ch07 error code
+- Lg Mini Split Ch09 error code
+- Lg Mini Split Ch10 error code
 
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you are not comfortable working with line voltage, if you do not have a multimeter to measure supply and DC link voltages, or if the unit shows good power and communication but still will not start. Inverter board diagnostics, compressor insulation testing, and refrigerant-side work all require specialized tools and EPA certification. If CH12 persists after you have reseated the thermistor connector, a tech will need to measure sensor resistance and trace the circuit to the control board. Any work on the inverter PCB or compressor terminals should be performed by a licensed professional to avoid shock and equipment damage.
-
-## See Also
-
-- [LG Microwave Inverter Board Replacement - Signs & How-To](/posts/lg-microwave-inverter-board-inverter-models-replacement/)
-- [LG Microwave F16 Error - Causes & Fix](/posts/lg-microwave-f16-error-code/)
-- [LG Dryer E1 Error Code - Causes & Fix](/posts/lg-dryer-e1-error-code/)
-- [LG Microwave E10 Error Code - Causes & Fix](/posts/lg-microwave-e10-error-code/)

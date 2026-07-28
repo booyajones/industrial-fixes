@@ -13,11 +13,8 @@ money_part: "State control board (model-specific)"
 most_likely_cause: "Model-specific control board logic"
 ---
 
-## State Water Heater E137 Error Code — What It Means
-
+## What this code means
 The E137 error code does not appear in standard State Water Heaters documentation available from the manufacturer. State produces tankless, gas tank, and electric models across multiple generations, and error codes are model-specific. The same numeric code can indicate different faults depending on the control board platform, unit type, and year of manufacture. Without the exact model number from your rating plate, it is not possible to determine whether E137 refers to a sensor fault, control board communication error, or another condition. State directs users to locate the QR code or model and serial number on the unit's rating plate and reference the model-specific installation and operation manual for accurate troubleshooting.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

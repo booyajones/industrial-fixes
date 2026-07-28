@@ -20,8 +20,6 @@ When a Samsung oven heats too hot, the oven is overshooting the selected tempera
 
 Samsung identifies calibration, airflow blockages, door sealing, demo mode, gas pressure (gas models), and supply voltage (electric models) as the main temperature-accuracy checks. The oven may run continuously, cycle incorrectly, or simply bake 20 to 50 degrees hotter than the setting.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed temperature sensor or probe** A bad sensor reports the wrong oven temperature to the control board, letting the oven overheat because the board never sees the correct setpoint being reached.

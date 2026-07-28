@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Dishwasher E04 Error Code — What It Means
-
+## What this code means
 The E04 error code (also displayed as F6E4 on newer Kenmore Elite models) indicates a Water Flow or Distribution System Fault. The dishwasher's control board has detected that water is not moving through the spray arms as expected, or the flow meter cannot verify the correct flow rate. This is distinct from water fill errors (E01) or overfill conditions (E02). E04 specifically means the machine cannot control or confirm water distribution after the inlet valve has opened.
 
 On Kenmore Elite models, the F6E4 code often points to either a flow meter failure or a float switch issue that prevents the dishwasher from verifying water movement. The error triggers when the control board expects water to reach the spray arms but the flow meter reads zero flow or the float switch signals an abnormal condition.
@@ -25,8 +24,6 @@ On Kenmore Elite models, the F6E4 code often points to either a flow meter failu
 ## Before You Replace Anything
 
 Homeowners often replace the control board first, but the vast majority of E04 codes are caused by simple blockages in the spray arms or a dirty flow meter. Always inspect and clean the spray arms and flow meter before ordering electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

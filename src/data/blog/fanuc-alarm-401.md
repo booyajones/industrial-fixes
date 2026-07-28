@@ -59,18 +59,3 @@ This is a serious alarm that should not be repeatedly cleared and ignored — it
 If axis movement is smooth, lube system is working, cabinet temperature is acceptable, and you're still getting Alarm 401 — this requires a Fanuc servo technician. Servo parameter diagnosis requires the specific Fanuc drive series documentation and hands-on access to the servo tune screens. A mismatched motor/amplifier combination (common after aftermarket repairs) will produce chronic 401 alarms that look like mechanical problems but are actually parameter issues. Tell the tech: "Alarm 401 on axis [n], mechanical system moves freely, way lube is working, cabinet is cool. I need servo parameter verification and load meter analysis."
 
 > **Pro tip:** Before calling a tech, check the Fanuc alarm history for any preceding alarms. Alarm 401 is often the *result* of another event. If you see Alarm 414 (following error) or Alarm 445 (soft thermal) appearing just before 401, those upstream alarms tell the real story. A 401 that always follows a 414 points to following error → overcurrent → thermal — a mechanical or gain issue, not a motor failure.
-
-## Related Articles
-
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
-- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
-- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
-
-## See Also
-
-- [Fanuc M-Series Control Alarm Codes: Complete Guide](/posts/fanuc-m-series-alarm-codes/)
-- [Fanuc Alarm 424 — Causes & Fix](/posts/fanuc-alarm-424/)
-- [Fanuc Alarm 506 — Servo Following Error Fix](/posts/fanuc-alarm-506/)
-- [Fanuc Alarm 460: Spindle Speed Error — Detailed Troubleshooting](/posts/fanuc-alarm-460-spindle/)

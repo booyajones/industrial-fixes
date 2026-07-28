@@ -58,21 +58,3 @@ The flame sensor detects a flame when the unit isn't calling for heat. This indi
 
 ## When to Call a Pro
 Code 14 (thermal fuse), code 72 (flame without call), and code 71 (gas valve fault) require licensed technician repair. The thermal fuse is a safety component that should never be bypassed or jumped.
-
-## Related Articles
-
-- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
-- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
-- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
-- [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
-- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Weil-McLain code 3 low water cutoff](/posts/weil-mclain-error-code-3/)
-
-## See Also
-
-- [Rinnai Error Code 61 — Causes & Fix](/posts/rinnai-error-code-61/)
-- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
-- [Rinnai Error Code 29 — System Communication Fault Fix](/posts/rinnai-error-code-29/)
-- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)

@@ -13,11 +13,8 @@ money_part: "Siemens Micromaster communications board (CB module)"
 most_likely_cause: "Master or controller not sending setpoint"
 ---
 
-## Siemens Micromaster F0070 — What It Means
-
+## What this code means
 F0070 on a Siemens Micromaster drive is a communications board setpoint fault. The drive is configured to receive its speed or torque command over a fieldbus or serial link, but that setpoint is not arriving within the expected telegram timeout. This is a control and communications issue, not a motor overload or power circuit problem. The drive expects a valid data packet from a PLC, network master, or other controller, and when that packet stops or becomes invalid, it trips F0070 to protect against unintended operation. The fault does not indicate a damaged motor or inverter power stage, it points to a break or misconfiguration in the digital control path between the master device and the drive's communications board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ F0070 on a Siemens Micromaster drive is a communications board setpoint fault. T
 ## When to Call a Pro
 
 Call a qualified electrician or automation technician if you are not trained in industrial communications protocols and drive parameter programming. F0070 diagnosis requires verifying network configuration, reading PLC or controller diagnostics, and interpreting drive parameter settings. Incorrect wiring or parameter changes can cause unexpected motor movement or damage to connected equipment. A technician with a laptop, drive-commissioning software, and network diagnostic tools can quickly identify whether the fault lies in the master controller, the fieldbus wiring, or the drive itself, and make the repair safely.
-
-## See Also
-
-- [Siemens G120 F01659 - Causes & Fix](/posts/siemens-g120-vfd-f01659-fault-code/)
-- [Siemens G120 F01000 - Causes & Fix](/posts/siemens-g120-vfd-f01000-fault-code/)
-- [Siemens G120 A05001 Current Limit - Causes & Fix](/posts/siemens-g120-a05001-fault-code/)
-- [Siemens Micromaster F0071 - Causes & Fix](/posts/siemens-micromaster-f0071-fault-code/)

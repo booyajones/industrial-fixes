@@ -19,8 +19,7 @@ free_checks:
   - "Check ambient temperature around the drive cabinet (should be below 40°C for full capacity)"
 ---
 
-## Yaskawa A1000 AL-22 — What It Means
-
+## What this code means
 The Yaskawa A1000 does not have a fault code named AL-22. If you see u22 on the display, that is the fault history monitor menu, not a fault itself. Press Enter on u22 to view the actual stored fault code (like oC for overcurrent or oH for overheat), then diagnose that specific code. If you saw LT-2 (which looks similar to AL-2), that is a capacitor maintenance alarm indicating the main circuit and control circuit capacitors have reached 90% of their expected life (typically around 10 years). LT-2 is an alarm, not a fault, so the drive continues operating, but Yaskawa recommends replacing the entire drive when this alarm appears.
 
 If the display shows something else that you interpreted as AL-22, write down the exact characters and compare them to the full fault list in your A1000 manual. Common codes that operators misread include LT-2, u22, oL (overload), and oC (overcurrent). Always verify the exact code before ordering parts or starting repairs.
@@ -28,8 +27,6 @@ If the display shows something else that you interpreted as AL-22, write down th
 ## Before You Replace Anything
 
 Users often order replacement boards or capacitors without confirming the actual code. Write down the exact code on the display and compare it to the A1000 fault list in the manual before buying anything.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa-authorized service provider if you cannot identify the exact code on the display, if the drive shows multiple faults at once, or if you confirm an LT-2 alarm and need help selecting and installing a replacement drive. VFD work involves high DC bus voltages (600V or more) that remain present even after input power is disconnected, so only trained personnel should open the drive cabinet or measure internal voltages. If you see u22 and cannot navigate the menu to view the stored fault, a technician can retrieve the fault history using parameter programming software and diagnose the root cause. For LT-2, a pro can also evaluate whether your application and environment contributed to early capacitor aging and recommend ventilation or cooling improvements for the replacement drive.
 
 **Rough cost:** A pro service call runs about $1,500-4,000 for drive replacement (LT-2) or $150-500 for fault diagnosis and repair (other codes).
-
-## See Also
-
-- [Yaskawa GA800 E81 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e81-fault-code/)
-- [Yaskawa GA800 A.144 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-144-fault-code/)
-- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)
-- [Yaskawa GA800 E66 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e66-fault-code/)

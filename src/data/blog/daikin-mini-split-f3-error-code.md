@@ -20,8 +20,7 @@ free_checks:
   - "Verify the outdoor fan is spinning freely when the unit is running"
 ---
 
-## Daikin F3 Error Code — What It Means
-
+## What this code means
 The F3 error code on a Daikin mini split signals a malfunction of the discharge pipe temperature. This means the refrigerant gas leaving the compressor is running abnormally hot and exceeding safe limits. The discharge pipe thermistor (a small temperature sensor wrapped on the line near the compressor in the outdoor unit) is detecting a reading that is too high or providing an inconsistent value. The system shuts down to protect the compressor from damage.
 
 This fault is almost never caused by a failed compressor itself. Instead it is a symptom of an external condition: the compressor is overheating because it cannot reject heat properly, because refrigerant charge is too low, or because the sensor itself is reading incorrectly. The code tells you the system detected the high temperature but does not automatically tell you which underlying problem caused it.
@@ -29,8 +28,6 @@ This fault is almost never caused by a failed compressor itself. Instead it is a
 ## Before You Replace Anything
 
 Homeowners sometimes assume the compressor has failed and call for a replacement. Before replacing any major component, a technician should test the discharge pipe thermistor with a multimeter and check system pressures to confirm whether the issue is a bad sensor, low refrigerant, or poor airflow.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -80,10 +77,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician as soon as the F3 code appears and does not clear after a power reset and coil cleaning. Diagnosing this fault requires refrigerant pressure testing, sensor resistance measurements, and potentially soldering or brazing to repair leaks or replace components in a sealed system. Attempting to add refrigerant without locating the leak, or running the unit with a high discharge temperature, can destroy the compressor and turn a moderate repair into a full system replacement. A technician will use a manifold gauge set, multimeter, and manufacturer service documentation to isolate the root cause and fix it safely.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Daikin U2 Error Code — Causes & Fix](/posts/daikin-u2-error-code/)
-- [Daikin Mini Split Ice on Coils - Causes & Fix](/posts/daikin-mini-split-ice-on-coils/)
-- [Daikin E9 Error Code — Causes & Fix](/posts/daikin-e9-error-code/)
-- [Daikin U5 Error Code - Causes & Fix](/posts/daikin-u5-error-code/)

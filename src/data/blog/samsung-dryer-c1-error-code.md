@@ -17,8 +17,7 @@ money_part: "Samsung dryer door switch / latch assembly"
 part_price: "$15-80"
 ---
 
-## Samsung Dryer C1 Error Code — What It Means
-
+## What this code means
 The Samsung dryer C1 (also displayed as CL1) code means the machine believes there is clothing or another item inside the drum when it expects the drum to be empty. This is not a temperature sensor fault or a vent blockage warning. The dryer's control system has detected something that prevents it from starting a new cycle or calibration routine.
 
 Samsung's published troubleshooting directs users to remove any laundry from the drum and try the cycle again. If the drum is already empty and the code persists, the issue is likely a false detection caused by a control board glitch, a door latch problem, or interference with the door closure. Samsung instructs users to request service if the code continues after the drum is cleared.
@@ -26,8 +25,6 @@ Samsung's published troubleshooting directs users to remove any laundry from the
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when the real problem is a faulty door switch or latch. Check that the door clicks firmly shut and test the door switch continuity with a multimeter before replacing any boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

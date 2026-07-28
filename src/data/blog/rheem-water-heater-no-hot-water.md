@@ -19,8 +19,6 @@ When a Rheem water heater produces no hot water, the unit has stopped heating be
 
 Your first job is to identify the exact model and read the fault code from the unit's display or LED pattern. Rheem's diagnostic process starts with the code, then walks through checks for gas supply, water flow, venting, ignition components, and sensors. Common causes include empty LP bottles, blocked exhaust or air inlets, flow rates below the 2 to 3 liters per minute minimum needed to keep a continuous-flow heater running, scale buildup in the heat exchanger, and failed ignition or flame sensors.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **No gas or low gas supply** An empty LP cylinder, closed gas valve, or low supply pressure will prevent ignition or cause the burner to drop out during operation.
@@ -54,15 +52,8 @@ Your first job is to identify the exact model and read the fault code from the u
 If your appliance also shows a code on the display, these match this problem:
 
 - [Rheem Water Heater A01 error code](/posts/rheem-water-heater-a01-error-code/)
-- [Rheem Water Heater Alarm 401 error code](/posts/rheem-water-heater-alarm-401-error-code/)
+- Rheem Water Heater Alarm 401 error code
 
 ## When to Call a Pro
 
 Call a licensed plumber or gas technician if you see a persistent fault code after checking gas supply and water flow, if you are not comfortable working with gas connections or combustion components, or if the fault returns immediately after a reset. Ignition, flame sensing, venting, and gas-pressure work on tankless and gas water heaters require specialized tools and knowledge of combustion safety. A pro will diagnose the exact code, test gas pressure and flow rates, inspect venting for code compliance, and replace sensors or control boards as needed. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rheem Water Heater Water Too Hot - Causes & Fix](/posts/rheem-water-heater-water-too-hot/)
-- [Rheem RTEX Electric Tankless Water Heater Error Codes](/posts/rheem-rtex-electric-tankless-error-codes/)
-- [Rheem Furnace 4 Flashes - Causes & Fix](/posts/rheem-furnace-4-flashes-error-code/)
-- [Rheem A01 Error Code - Causes & Fix](/posts/rheem-water-heater-a01-error-code/)

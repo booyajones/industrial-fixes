@@ -19,8 +19,6 @@ When a Bosch dishwasher stops mid-cycle, it is not displaying a specific fault c
 
 The cycle can stop when the door is not fully latched, when there is a power or water interruption, when the vent is clogged, or when the unit is not level and the door latch or door seal is affected. If the dishwasher drains and then cannot refill, the machine can appear to stop mid-cycle because the inlet valve is not allowing the next fill step.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door latch or door closure fault** Bosch lists a faulty door latch and improper closure as a key cause of mid-cycle stopping.

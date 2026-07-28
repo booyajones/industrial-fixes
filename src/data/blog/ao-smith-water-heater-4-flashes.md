@@ -15,8 +15,6 @@ tags:
 
 AO Smith's 4-flash code points to a problem with the electronic ignition or flame sensing circuit. On power-vent and high-efficiency AO Smith models with electronic spark ignition (no standing pilot), this is the code that fires when the igniter can't prove a flame exists. On standard atmospheric models, 4 flashes typically indicates a problem with the igniter or ignition control module.
 
-[Jump to Fix](#how-to-fix-ao-smith-4-flashes)
-
 ## What Does AO Smith 4 Flashes Mean?
 
 Count the blinks on the LED of your gas control valve. Four blinks in a repeating group = fault code 4.
@@ -136,9 +134,3 @@ At 12 years, a residential water heater is near end of life (typical lifespan is
 
 **Why does my AO Smith show 4 flashes right after installation?**
 On new or recently installed units, 4 flashes often means air in the gas line. Open a gas appliance nearby to purge air, then retry lighting. Also confirm the gas shutoff valve is fully open — a partially closed valve restricts gas flow enough to prevent ignition but not enough to be immediately obvious.
-
-## Related Articles
-
-- [A.O. Smith Water Heater E1 Error Code — Sensor Fault Guide](/posts/ao-smith-error-code-e1/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)

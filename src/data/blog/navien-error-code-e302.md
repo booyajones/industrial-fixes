@@ -13,11 +13,8 @@ money_part: "Expansion tank (2–4 gallon for residential)"
 most_likely_cause: "Water loss from a leak"
 ---
 
-## Navien E302 Error Code — What It Means
-
+## What this code means
 The Navien E302 error code means **low system water pressure**. On Navien combi-boilers and hydronic heating systems, E302 trips when the system water pressure sensor reads below the minimum threshold — typically below 7–10 PSI depending on the model. The unit shuts down heating operation to prevent running the heat exchanger dry. E302 is one of the most common Navien service calls and in most cases is resolved by repressurizing the system, not replacing any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ The Navien E302 error code means **low system water pressure**. On Navien combi-
 ## When to Call a Pro
 
 If you repressurize and E302 returns within hours, there's a leak somewhere in the system that requires pressure testing to locate. A plumber or boiler tech can perform a static pressure test to pinpoint the leak before it causes heat exchanger damage.
-
-## Related Articles
-
-- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
-- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)
-- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
-- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
-- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)
-
-## See Also
-
-- [Navien NCB-700 Combination Boiler Error Codes - Full Fault Guide](/posts/navien-ncb-700-error-codes/)
-- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)
-- [Navien E030 Error Code — Causes & Fix](/posts/navien-error-code-e030/)
-- [Navien Error Code E012 — Flame Loss During Operation Fix](/posts/navien-error-code-e012/)

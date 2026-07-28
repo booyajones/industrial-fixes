@@ -113,10 +113,3 @@ A: Soft or slushy ice suggests the freeze cycle is not completing fully , the ic
 
 **Q: Can I replace the KM-2000SAJ control board myself?**
 A: The control board is field-replaceable on the KM-2000SAJ. However, the replacement board may require parameter configuration to match the unit's production settings, refrigerant type, and harvest mode. Hoshizaki-authorized service technicians have the service tool to configure replacement boards. An unconfigured board will produce error codes or incorrect operation.
-
-## See Also
-
-- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
-- [Hoshizaki vs Manitowoc Ice Machines — A Commercial Tech's Honest Comparison (2026)](/posts/hoshizaki-vs-manitowoc-ice-machines/)
-- [Hoshizaki E6 Error Code — Causes & Fix](/posts/hoshizaki-e6-error-code/)
-- [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)

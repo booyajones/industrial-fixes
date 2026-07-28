@@ -17,8 +17,7 @@ money_part: "LG oven temperature sensor (thermistor)"
 part_price: "$20-80"
 ---
 
-## LG Oven F7 Error Code — What It Means
-
+## What this code means
 The F7 or F-7 error code on LG ovens signals a no-heating fault. The oven failed to rise above 150°F within five minutes of preheating while the door was closed. LG defines this as a heating-performance problem, meaning either the oven is not producing enough heat or the temperature sensor is reporting an incorrect reading. On some LG range models the F7 code may also refer to an upper convection fan error, so verify your specific model's error definition in the owner's manual or on the control-panel diagram.
 
 The code does not mean the control board has completely failed. Instead, it is a symptom triggered when the control board does not see the expected temperature rise during the first five minutes. Common root causes include a faulty oven temperature sensor, a failed heating element, damaged wiring between the sensor and control, or a relay board that is not sending voltage to the elements. On models with convection, a stuck or failed upper fan can also be implicated.
@@ -26,8 +25,6 @@ The code does not mean the control board has completely failed. Instead, it is a
 ## Before You Replace Anything
 
 Many people replace the main control board first, which costs over $200. Test the oven sensor resistance with a multimeter at room temperature (should read around 1,080 ohms) and inspect the heating elements for continuity before spending money on a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified appliance technician if you are uncomfortable working inside a 240-volt electric range, if the control board shows burnt relay terminals or capacitors, or if the code persists after replacing the sensor and heating elements. Technicians have factory diagnostics to force-cycle the relays and measure real-time sensor voltages. Also call a pro if your range uses gas burners in the oven cavity, since gas valve and igniter work requires certification. If your model error list indicates the F7 is a convection-fan fault rather than a heating fault, fan-motor replacement often requires removing the entire oven cavity, which is a two-person job with special brackets.
 
 **Rough cost:** DIY runs about $20–80 in parts, 30–60 minutes. A pro service call runs about $150–300.
-
-## See Also
-
-- [LG Range E8 Error Code - Causes & Fix](/posts/lg-range-e8-error-code/)
-- [LG Washer PE Error Code - Causes & Fix](/posts/lg-washer-pe-error-code/)
-- [LG Mini Split CH10 Error Code — Causes & Fix](/posts/lg-mini-split-ch10-error-code/)
-- [LG Washer Drain Hose Replacement - Signs & How-To](/posts/lg-washer-drain-hose-replacement/)

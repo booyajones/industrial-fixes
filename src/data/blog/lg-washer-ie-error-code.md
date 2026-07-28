@@ -22,8 +22,7 @@ part_price: "$15-40"
 no_buy_pct: "65%"
 ---
 
-## LG Washer IE Error Code — What It Means
-
+## What this code means
 The IE error on an LG washer stands for Water Inlet Error. It appears when the control board does not detect an adequate rise in water level during the fill cycle within the allowed time. The machine stops and displays IE because it was unable to fill the tub with enough water to proceed with the wash program.
 
 This is a safety and diagnostic feature. The washer expects water to reach a certain level within a specific period. When that does not happen, it stops to prevent running a cycle without enough water, which could damage clothing or the machine itself.
@@ -31,8 +30,6 @@ This is a safety and diagnostic feature. The washer expects water to reach a cer
 ## Before You Replace Anything
 
 Many people replace the water inlet valve first without checking supply taps and inlet screens. Check that both hot and cold faucets are fully open and clean the inlet screens before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

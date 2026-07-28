@@ -19,8 +19,6 @@ On Samsung top-load washers, a machine that won't agitate is usually tied to a P
 
 In some Samsung top-load platforms, a shift actuator moves the drive between agitate and spin modes, and failures in that actuator or its wiring can also prevent agitation. Even without a displayed code, the root cause is most often in the clutch assembly, its sensor, or the shift actuation system.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed clutch position sensor or Hall sensor** The most common cause of PE and no agitation is a failed sensor in the clutch assembly that can no longer report position accurately to the control board.

@@ -17,8 +17,7 @@ free_checks:
   - "Power-cycle the unit by turning off the circuit breaker for 60 seconds, then restore power to see if the code clears or changes"
 ---
 
-## State Water Heater E163 Error — What It Means
-
+## What this code means
 The E163 error code does not appear in any official State Water Heaters documentation, technical manuals, or support databases from the manufacturer or its parent company A. O. Smith. This code is not recognized in State's published error code lists for any residential or commercial models, including the RE3 series which does use numeric fault codes.
 
 The most likely explanations are a misread display, a code from a different brand (Navien and Rinnai use E-series codes for condensing units), confusion during service documentation, or a custom diagnostic code not published in consumer manuals. Before attempting any repair, confirm the exact model number using the rating plate QR code and contact State Water Heaters or A. O. Smith technical support with the model number and the exact error display to obtain the correct code definition and repair procedure.
@@ -26,8 +25,6 @@ The most likely explanations are a misread display, a code from a different bran
 ## Before You Replace Anything
 
 Do not replace the control board or any sensors until you confirm the code is valid for your model. An E163 code does not exist in State's system, so replacing parts based on guesswork will waste money. Call the manufacturer first.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

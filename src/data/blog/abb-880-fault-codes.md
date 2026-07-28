@@ -15,8 +15,7 @@ likelihood: "the most common cause for overcurrent faults"
 diy_or_pro: "pro"
 ---
 
-## ABB ACS880 Fault Codes — What It Means
-
+## What this code means
 The ABB ACS880 drive uses alphanumeric fault codes to diagnose problems. The first digit tells you the category: 2xxx codes are overcurrent or short circuit faults, 3xxx are overvoltage faults, 7xxx are temperature warnings, and F0xxx are internal drive failures. Common examples include 2310 (sustained overcurrent during operation), 2340 (short circuit detected in motor cable or windings), 2330 (ground fault or leakage current), 3210 (DC link overvoltage from fast deceleration or high line voltage), 7120 or 7121 (drive or IGBT overtemperature), F0001 (internal control board or firmware fault), and F0120 (encoder feedback failure).
 
 Each code points to a specific hardware or configuration problem. Overcurrent faults usually mean mechanical binding, wrong acceleration settings, or cable damage. Overvoltage faults happen when a high-inertia load decelerates too quickly and pumps energy back into the drive. Temperature faults point to cooling system failure or a hot environment. Internal faults often require factory service or board replacement. Always record the exact code and consult your drive's firmware manual for the precise definition, since code meanings can vary slightly between ACS880 models and firmware versions.
@@ -25,31 +24,13 @@ Each code points to a specific hardware or configuration problem. Overcurrent fa
 
 Technicians often replace the drive itself when the real problem is a shorted motor cable or jammed load. Before replacing the drive, disconnect the motor cable and measure insulation resistance to ground and between phases with a megohmmeter.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Damaged motor cable (~30%)** Physical damage to the output cable insulation causes phase-to-phase or phase-to-ground shorts that trigger 2330 or 2340 faults.
-- **Mechanical binding or jam (~25%)** A seized bearing, misaligned coupling, or jammed load forces the motor to draw excessive current and trip 2310 overcurrent faults.
-- **Cooling system failure (~20%)** Clogged air filters, bent fan blades, or a failed drive cooling fan cause the heatsink or IGBT temperature to exceed limits and trigger 7120 or 7121 faults.
-- **Deceleration time too short (~15%)** When a high-inertia load decelerates faster than the drive can dissipate energy, the DC link voltage spikes and triggers 3210 overvoltage faults.
-- **Motor startup data mismatch (~10%)** If parameter 99 motor data does not match the actual motor nameplate, the drive calculates wrong current limits and trips on 2310.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Does the drive trip immediately on power-up before the motor runs?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Likely a shorted motor cable, motor winding failure, or internal IGBT damage. Disconnect the motor cable and run a megohmmeter test on the cable and motor.<br><strong>No:</strong> The fault occurs during operation, so check for mechanical binding, wrong acceleration settings, or cooling blockage.</div>
-</details>
-
-<details class="dtree"><summary>Can you spin the motor shaft freely by hand with power off?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Mechanical binding is not the issue. Check motor cable insulation, parameter settings (acceleration time and motor data), and drive cooling airflow.<br><strong>No:</strong> The load is jammed or a bearing has seized. Fix the mechanical problem before restarting the drive.</div>
-</details>
-
-<details class="dtree"><summary>Are the drive's cooling fans running and filters clean?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Cooling is working. Focus on electrical causes like cable faults, parameter mismatches, or overvoltage from fast deceleration.<br><strong>No:</strong> Clean or replace air filters and verify fan operation. Overtemperature faults will persist until cooling is restored.</div>
-</details>
+- **Damaged motor cable** Physical damage to the output cable insulation causes phase-to-phase or phase-to-ground shorts that trigger 2330 or 2340 faults.
+- **Mechanical binding or jam** A seized bearing, misaligned coupling, or jammed load forces the motor to draw excessive current and trip 2310 overcurrent faults.
+- **Cooling system failure** Clogged air filters, bent fan blades, or a failed drive cooling fan cause the heatsink or IGBT temperature to exceed limits and trigger 7120 or 7121 faults.
+- **Deceleration time too short** When a high-inertia load decelerates faster than the drive can dissipate energy, the DC link voltage spikes and triggers 3210 overvoltage faults.
+- **Motor startup data mismatch** If parameter 99 motor data does not match the actual motor nameplate, the drive calculates wrong current limits and trips on 2310.
 
 ## Step-by-Step Fix {#fix}
 
@@ -73,15 +54,6 @@ Answer these to narrow it down fast.
 
 Call a qualified drive technician or ABB-certified service provider for any fault that persists after you have verified cable integrity, mechanical freedom, and cooling airflow. Internal faults (F0xxx codes) almost always require board-level diagnostics or factory repair. Overvoltage faults that recur after adjusting deceleration time may need a braking resistor installation, which must be sized and wired by a professional. If you are not trained to work with high-voltage DC link circuits (up to 800 VDC on larger models) or lack a megohmmeter and insulation testing experience, do not attempt repairs beyond inspecting filters and fans. Drive repairs involve lethal voltages and require specific safety procedures and test equipment.
 
-**Rough cost:** A pro service call runs about $300-1200 depending on fault and parts.
-
-## See Also
-
-- [ABB Inverter Fault Code F0001 - Causes & Fix](/posts/abb-inverter-fault-code-f0001/)
-- [ABB VFD Fault 9300 — Causes & Fix](/posts/abb-vfd-fault-9300/)
-- [ABB ACS580 FF63 - STO Diagnostics Failure Fix](/posts/abb-acs580-ff63-fault-code/)
-- [ABB ACS580 A7CE Fault Code - Causes & Fix](/posts/abb-acs580-a7ce-fault-code/)
-
 ## More Abb 880 fault codes
 
 Compiled from manufacturer service manuals and authorized documentation.
@@ -100,7 +72,6 @@ Compiled from manufacturer service manuals and authorized documentation.
 | 7510 | FBA A communication | Cyclic communication is lost between the drive and a fieldbus adapter module (FBA A), from adapter cabling, configuration, or master faults. | Check the fieldbus adapter connection and network cabling, verify the adapter configuration and the comm-loss action parameters, and confirm the PLC/master is communicating. |
 | FA81 | Safe torque off 1 | Loss of the Safe Torque Off channel 1 signal at the STO input. | Inspect the STO channel 1 wiring and the safety device driving it (E-stop, safety relay, gate), and restore the signal. Both STO channels must be healthy to run. |
 
-
 ## How to troubleshoot Abb 880
 
 On any ABB ACS880, work the fault by category, which the first digit tells you: 2xxx are current/short-circuit faults, 3xxx are supply and DC-bus voltage or phase-loss faults, 4xxx/5xxx are temperature and hardware/STO faults, 6xxx/7xxx are internal, communication, motor-protection and feedback faults, and 8xxx/9xxx are supervision and external events. Record the exact code and any auxiliary code from the keypad before you reset, because a reset erases the context and some codes only differ by the last hex digit.
@@ -110,7 +81,6 @@ Start with the safe, non-invasive checks in this order. First confirm the incomi
 Two categories deserve special care. STO and safety faults (5090, 5091, FA81, FA82) mean the Safe Torque Off circuit opened or failed a self-test; check the XSTO wiring and the E-stop/safety-relay chain, but never jumper or bypass STO to clear a fault. Communication faults (7081, 7510) are usually wiring, termination, node-address, or configuration problems, not a failed drive, so verify the cable and bus parameters before replacing hardware.
 
 Call a qualified drive technician or ABB-certified service for any internal fault that persists after cable, mechanical, and cooling checks, for recurring overvoltage that may need a braking resistor, and for anything requiring work inside the DC-bus circuit, which can hold lethal voltage (up to about 800 VDC on larger frames) for minutes after power-off. If you do not have a megohmmeter, insulation-testing experience, and lockout/tagout training, limit yourself to filters, fans, and reading codes.
-
 
 ## Frequently asked questions
 
@@ -130,11 +100,9 @@ An instant trip before the motor turns usually points to a shorted motor cable, 
 
 3210 (DC link overvoltage) happens when a high-inertia load decelerates faster than the drive can absorb the returned energy, or when the line voltage is too high. Lengthen the deceleration time, or if the application needs fast stops, add a properly sized braking resistor and brake chopper wired by a professional.
 
-
 ## Related guides
 
 - [Abb Vfd Fault Codes](/posts/abb-vfd-fault-codes/)
 - [Abb Acs580 Fault Codes](/posts/abb-acs580-fault-codes/)
 - [Abb Acs880 Complete Guide](/posts/abb-acs880-complete-guide/)
 - [Abb Ach580 Fault Codes](/posts/abb-ach580-fault-codes/)
-

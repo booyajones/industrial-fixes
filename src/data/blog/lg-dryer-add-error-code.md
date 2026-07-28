@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "LG steam feeder assembly"
 ---
 
-## LG Dryer Add Error Code — What It Means
-
+## What this code means
 The Add message on an LG dryer means add water. It appears only on models with steam features and indicates the steam feeder drawer is not filled to the MAX line or the drawer is not completely closed. LG ties this display directly to the steam cycle water supply, not to heating, airflow, or any other dryer function.
 
 When you see Add, the dryer is pausing or interrupting the steam cycle until you correct the water condition. It is not a fault code in the traditional sense. It is a reminder that the steam feeder needs attention before the cycle can continue.
@@ -25,8 +24,6 @@ When you see Add, the dryer is pausing or interrupting the steam cycle until you
 ## Before You Replace Anything
 
 Homeowners sometimes suspect a failed steam generator or control board. The Add message always points to a water-supply condition in the feeder drawer, so check the water level and drawer seating before calling for service or ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a technician if the Add message remains after you have filled the steam feeder to MAX with tap water, closed the drawer fully, and performed a full power-cycle reset. Persistent Add displays suggest the steam feeder assembly is damaged, the drawer latch is broken, or the control board cannot read the feeder status. A qualified service provider can inspect the steam system, test the feeder assembly, and replace it if necessary. Because this is a water-supply issue and not a high-voltage or sealed-system problem, most homeowners can handle the filling and reset steps on their own. Professional help is only required when the hardware itself has failed.
 
 **Rough cost:** DIY runs about $0, 1 minute (filling water). A pro service call runs about $100-150 service call if the steam feeder assembly is damaged.
-
-## See Also
-
-- [LG Oven Door Won't Lock - Causes & Fix](/posts/lg-oven-door-wont-lock/)
-- [LG Refrigerator Compressor Start Relay & Overload Replacement](/posts/lg-refrigerator-compressor-start-relay-ptc-overload-replacement/)
-- [LG Dishwasher PE Error Code - Causes & Fix](/posts/lg-dishwasher-pe-error-code/)
-- [LG Refrigerator Freezer Not Freezing - Causes & Fix](/posts/lg-refrigerator-freezer-not-freezing/)

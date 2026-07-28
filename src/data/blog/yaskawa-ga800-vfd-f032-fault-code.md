@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Yaskawa GA800 F032 — What It Means
-
+## What this code means
 F032 on the Yaskawa GA800 means Instantaneous Overcurrent. The drive detected output current exceeding 200% of its rated current and shut down immediately to protect the internal IGBTs. Unlike delayed overcurrent faults, F032 trips instantly when a rapid current spike occurs, often during steady-state operation when torque references fluctuate rapidly.
 
 This fault is frequently linked to mechanical coupling problems or unstable PID control feedback. The drive attempts to correct inconsistent torque demands (such as when an encoder loses position or a feedback sensor sends erratic signals) and the resulting correction effort causes a current surge that exceeds the hardware protection limit.
@@ -29,8 +28,6 @@ This fault is frequently linked to mechanical coupling problems or unstable PID 
 ## Before You Replace Anything
 
 Technicians sometimes replace the drive output module assuming a hardware failure, but the real issue is often a mechanical coupling that was not tightened after service or an unstable PID feedback sensor. Always inspect encoder couplings and PID feedback stability before replacing power electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -19,8 +19,6 @@ A Daikin mini split making noise is not a fault code but a symptom that can rang
 
 The sound type and when it happens matter. Clicking or gurgling during start-up, shutdown, or defrost can be normal thermal expansion or refrigerant movement. Rattling or vibration during operation usually points to loose hardware or debris. Grinding, squealing, or screeching is serious and often signals a failing fan motor, worn bearings, or a blade contacting something. Loud persistent buzzing may indicate electrical faults or compressor distress.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Loose panels, screws, or mounting hardware** Vibration from the compressor or fan causes unsecured parts to rattle or buzz, especially at start-up or under load.
@@ -54,25 +52,18 @@ The sound type and when it happens matter. Clicking or gurgling during start-up,
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Daikin Mini Split A1 error code](/posts/daikin-mini-split-a1-error-code/)
-- [Daikin Mini Split A3 error code](/posts/daikin-mini-split-a3-error-code/)
-- [Daikin Mini Split A5 error code](/posts/daikin-mini-split-a5-error-code/)
-- [Daikin Mini Split A6 error code](/posts/daikin-mini-split-a6-error-code/)
-- [Daikin Mini Split A7 error code](/posts/daikin-mini-split-a7-error-code/)
-- [Daikin Mini Split A8 error code](/posts/daikin-mini-split-a8-error-code/)
-- [Daikin Mini Split A9 error code](/posts/daikin-mini-split-a9-error-code/)
-- [Daikin Mini Split C4 error code](/posts/daikin-mini-split-c4-error-code/)
-- [Daikin Mini Split E04 error code](/posts/daikin-mini-split-e04-error-code/)
-- [Daikin Mini Split E05 error code](/posts/daikin-mini-split-e05-error-code/)
-- [Daikin Mini Split E7 error code](/posts/daikin-mini-split-e7-error-code/)
+- Daikin Mini Split A1 error code
+- Daikin Mini Split A3 error code
+- Daikin Mini Split A5 error code
+- Daikin Mini Split A6 error code
+- Daikin Mini Split A7 error code
+- Daikin Mini Split A8 error code
+- Daikin Mini Split A9 error code
+- Daikin Mini Split C4 error code
+- Daikin Mini Split E04 error code
+- Daikin Mini Split E05 error code
+- Daikin Mini Split E7 error code
 
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the noise is grinding, squealing, screeching, or loud continuous buzzing, especially after you have cleaned filters and checked for loose parts or debris. Daikin instructs stopping operation and turning off the breaker for these sounds before a technician inspects motor bearings, electrical components, and the compressor. Refrigerant leak detection, electrical testing, and motor replacement all require EPA certification and specialized tools. If the noise only occurs during defrost or start-up and sounds like gurgling or clicking, verify the pattern over a few cycles before calling for service, as these can be normal refrigerant control and thermal expansion sounds.
-
-## See Also
-
-- [Daikin E4 Error Code - Causes & Fix](/posts/daikin-e4-error-code/)
-- [Daikin A1 Error Code - Causes & Fix](/posts/daikin-mini-split-a1-error-code/)
-- [Daikin VRV E7 Error Code — Causes & Fix](/posts/daikin-vrv-e7-error-code/)
-- [Daikin H0 Error Code - Causes & Fix](/posts/daikin-heat-pump-h0-error-code/)

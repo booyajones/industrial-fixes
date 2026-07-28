@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Electrolux Dryer EA5 Error Code — What It Means
-
+## What this code means
 The EA5 error code is a fatal fault indicating that the Main Electronic Control Board (also called the IQ Touch Board) has self-diagnosed itself as defective or is no longer functioning correctly. According to Electrolux documentation, this is described as a main voltage sensing failure where the board cannot verify the incoming power line integrity. The board locks out all operation to prevent unsafe conditions. Unlike non-critical errors, EA5 typically prevents the dryer from starting or continuing any cycle, and the board will stop power to the heating element and motor.
 
 This is a terminal fault in the control system. The board's internal microcontroller or voltage sensing circuitry has determined it cannot operate safely. The dryer will not resume normal function until the underlying problem is corrected, which usually means replacing the control board itself.
@@ -26,8 +25,6 @@ This is a terminal fault in the control system. The board's internal microcontro
 ## Before You Replace Anything
 
 Many homeowners replace the main control board without first checking incoming voltage and wiring connections. Use a multimeter to verify voltage is within 110-125V for 120V systems or 220-250V for 240V systems, and inspect all wire harness connections for damage before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

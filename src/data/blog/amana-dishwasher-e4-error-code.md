@@ -22,8 +22,7 @@ part_price: "$15-35"
 no_buy_pct: "70%"
 ---
 
-## Amana Dishwasher E4 Error Code — What It Means
-
+## What this code means
 The E4 (or F8E4) fault code on Amana dishwashers signals anti-flood or overflow leak detection. It activates when water collects in the drip tray under the dishwasher, triggering the float switch and preventing operation. This is not a wash-cycle fill error. Once detected, the machine enters a protection state and may run the drain pump. Operation is prevented until the leak condition is corrected.
 
 The code appears when water has escaped from the main tub or plumbing connections and pooled in the base pan. Amana specifically highlights loose water supply fittings, improper inlet valve connections, and float-switch harness problems as the real-world triggers. In newly installed machines, routing and seating errors at the fill hose are common.
@@ -31,8 +30,6 @@ The code appears when water has escaped from the main tub or plumbing connection
 ## Before You Replace Anything
 
 Homeowners often replace the inlet valve or electronic control board before inspecting the 90° elbow and rubber washer at the water connection. Re-check those fittings and clear the drip tray first; most E4 faults are resolved without buying any part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

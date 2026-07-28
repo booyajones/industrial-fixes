@@ -23,8 +23,6 @@ The **ABB ACS580** is ABB's general-purpose all-compatible drive, widely used in
 
 When the ACS580 detects a fault, it stores the fault code in the **Fault logger** (menu **Primary settings → Reset & diagnostics → Fault logger**) and halts the drive with a coast-to-stop. Faults are numbered using ABB's standard convention — the four-digit code (e.g., **2310**) maps to a specific fault type across most ABB drive families. Alarms (non-tripping warnings) are numbered separately and end in A.
 
-[Jump to Fix](#step-by-step-fix)
-
 ## ACS580 Fault Code Quick Reference
 
 | Fault Code | Name | Short Description |
@@ -110,19 +108,3 @@ Fault **2310** that returns immediately after clearing, with a confirmed-good mo
 For drives managing critical processes (water treatment pumps, hospital HVAC, food production), ABB recommends maintaining a spare drive on the shelf. The ACS580 supports **auto-copy** of parameters to an SD card inserted in the panel — this means a replacement drive can be programmed in under 5 minutes by inserting the parameter SD card and selecting "Restore from SD card."
 
 > **Pro tip:** ABB's free **Drive composer** PC software (downloaded from ABB's website) connects to the ACS580 via a standard USB cable and provides real-time monitoring, trend logging, and full parameter access. For fault analysis, the **Data logger** function in Drive composer captures motor current, voltage, speed, and torque at 1 ms resolution — triggered by a fault event. This waveform data is essential for diagnosing intermittent overcurrent faults and for separating load-induced faults from drive hardware faults.
-
-## See Also
-
-- [ABB ACS580 Fault 3130 — Input Phase Loss](/posts/abb-acs580-fault-3130/)
-- [ABB ACS880 Fault 2310 — Overcurrent](/posts/abb-acs880-fault-2310-overcurrent/)
-- [ABB ACS550 F0001 Overcurrent](/posts/abb-acs550-f0001-overcurrent/)
-- [ABB VFD Fault 3210 — DC Overvoltage](/posts/abb-vfd-fault-3210/)
-- [ABB VFD Fault Codes Complete Guide](/posts/abb-vfd-fault-codes/)
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

@@ -13,11 +13,8 @@ money_part: "GE GeoSpring owner's manual (model-specific PDF)"
 most_likely_cause: "Tank actually empty or not filled"
 ---
 
-## GE Water Heater F75 Error Code — What It Means
-
+## What this code means
 F75 means dry tank fault on GE Profile GeoSpring heat pump water heaters. The control has detected that the tank does not have water in it, or believes the tank is empty or not properly filled. This code appears specifically in GE GeoSpring heat pump water heater documentation. If your model is not a GeoSpring or you have a different GE water heater, verify the code meaning in your owner's manual, because F75 may not apply to all GE-branded units.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

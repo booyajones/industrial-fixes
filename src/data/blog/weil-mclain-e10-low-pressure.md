@@ -69,12 +69,5 @@ If you can not find any visible leak, the expansion tank tests fine, and pressur
 ## Related Error Codes
 
 - [Weil-McLain Boiler Error Code E02 — Ignition Failure Fix](/posts/weil-mclain-e02-ignition-failure/)
-- [Weil-McLain E05 Error Code — Causes & Fix](/posts/weil-mclain-e05-error-code/)
-- [Weil-McLain E08 Error Code — Causes & Fix](/posts/weil-mclain-e08-error-code/)
-
-## See Also
-
-- [Weil-McLain E06 Error Code — Ignition Lockout](/posts/weil-mclain-e06-error-code/)
-- [Weil-McLain E05 Error Code — Sensor Fault](/posts/weil-mclain-e05-error-code/)
-- [Weil-McLain E03 Error Code — Causes & Fix](/posts/weil-mclain-e03-error-code/)
-- [Weil-McLain E02 Error Code — Causes & Fix](/posts/weil-mclain-e02-error-code/)
+- Weil-McLain E05 Error Code — Causes & Fix
+- Weil-McLain E08 Error Code — Causes & Fix

@@ -19,8 +19,6 @@ A mildew smell in your Whirlpool washer is not an error code or electronic fault
 
 On front-load washers, the odor most often hides in the folds of the rubber door gasket and inside the detergent dispenser drawer or its housing. Top-load models can trap moisture around the agitator and under the agitator cap. Wet laundry left in the drum after a cycle and too much detergent both feed the buildup that causes the smell.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty or damp door gasket** Moisture and residue collect in the folds of the rubber boot on front-load models, creating the most common mildew breeding ground.

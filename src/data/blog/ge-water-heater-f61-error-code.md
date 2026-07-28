@@ -13,13 +13,10 @@ money_part: "Temperature sensor (thermistor)"
 most_likely_cause: "Excessive temperature setpoint"
 ---
 
-## GE Water Heater F61 Error Code — What It Means
-
+## What this code means
 The F61 fault code on a GE water heater (including GEOSpring hybrid heat pump models) indicates that the tank water temperature is too hot. According to GE's fault-code table, this condition should self-correct during normal operation. The code is a protective response to prevent scalding or damage, not an indication of a failed sensor or control board at first appearance.
 
 Because GE-branded GEOSpring units are no longer manufactured and support has transitioned to Bradford White, always verify the fault definition in your specific model's Owner's Manual. Fault meanings can vary by model, so confirm you are looking at the correct code table for your unit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -19,8 +19,6 @@ Ice forming on your Daikin mini split's indoor coil is a symptom of an underlyin
 
 The most common scenario is restricted airflow. When the indoor coil doesn't get enough air moving across it, the refrigerant inside stays cold longer and moisture from the air freezes on the fins. Less often, low refrigerant charge or a faulty coil temperature sensor can also cause icing. Daikin's own documentation points to dirty filters, blocked return grilles, failed indoor fan motors, loose fan wiring, and mechanical obstructions as the leading contributors to coil freeze conditions.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty or clogged air filter** A blocked filter is the most common cause of coil icing because it cuts off airflow and lets the coil temperature drop below freezing.
@@ -54,25 +52,18 @@ The most common scenario is restricted airflow. When the indoor coil doesn't get
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Daikin Mini Split A1 error code](/posts/daikin-mini-split-a1-error-code/)
-- [Daikin Mini Split A3 error code](/posts/daikin-mini-split-a3-error-code/)
-- [Daikin Mini Split A5 error code](/posts/daikin-mini-split-a5-error-code/)
-- [Daikin Mini Split A6 error code](/posts/daikin-mini-split-a6-error-code/)
-- [Daikin Mini Split A7 error code](/posts/daikin-mini-split-a7-error-code/)
-- [Daikin Mini Split A8 error code](/posts/daikin-mini-split-a8-error-code/)
-- [Daikin Mini Split A9 error code](/posts/daikin-mini-split-a9-error-code/)
-- [Daikin Mini Split C4 error code](/posts/daikin-mini-split-c4-error-code/)
-- [Daikin Mini Split E04 error code](/posts/daikin-mini-split-e04-error-code/)
-- [Daikin Mini Split E05 error code](/posts/daikin-mini-split-e05-error-code/)
-- [Daikin Mini Split E7 error code](/posts/daikin-mini-split-e7-error-code/)
+- Daikin Mini Split A1 error code
+- Daikin Mini Split A3 error code
+- Daikin Mini Split A5 error code
+- Daikin Mini Split A6 error code
+- Daikin Mini Split A7 error code
+- Daikin Mini Split A8 error code
+- Daikin Mini Split A9 error code
+- Daikin Mini Split C4 error code
+- Daikin Mini Split E04 error code
+- Daikin Mini Split E05 error code
+- Daikin Mini Split E7 error code
 
 ## When to Call a Pro
 
 If you've cleaned the filter, confirmed the fan is running, and cleared all obstructions but ice still forms on the coil, the problem is likely in the refrigerant circuit or the coil temperature sensor. Low refrigerant requires leak detection, evacuation, and precise recharge with the correct Daikin refrigerant type, which needs gauges and recovery equipment. Faulty sensors often require resistance testing against factory specs and careful PCB connector work. A licensed HVAC technician can also retrieve detailed fault logs from the Daikin control board to pinpoint intermittent fan or sensor failures that aren't obvious during a quick visual check.
-
-## See Also
-
-- [Daikin A6 Error Code — Indoor Fan Motor Fix](/posts/daikin-error-code-a6/)
-- [Daikin C4 Error Code - Causes & Fix](/posts/daikin-mini-split-c4-error-code/)
-- [Daikin Mini Split Not Heating - Causes & Fix](/posts/daikin-mini-split-not-heating/)
-- [Daikin F9 Error Code — Heat Exchanger Temp Sensor Fault: Causes & Fix](/posts/daikin-f9-error-code/)

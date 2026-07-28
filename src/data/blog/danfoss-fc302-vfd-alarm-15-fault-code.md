@@ -13,11 +13,8 @@ money_part: "Danfoss FC 302 compatible option card"
 most_likely_cause: "Wrong or incompatible option card installed"
 ---
 
-## Danfoss FC302 VFD ALARM 15 — What It Means
-
+## What this code means
 ALARM 15 on the Danfoss FC 302 VFD signals a hardware mismatch. The drive has detected that a fitted option card or module is not operational with the present control board hardware or software. This is not a motor fault or overload. It specifically points to an installed option that does not match the drive's configuration. Danfoss service instructions direct you to record parameter 15-40 (FC Type) and parameter 15-41 (Power Section) before taking any action, then to contact Danfoss support with those values if the mismatch is not easily resolved.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,10 +44,3 @@ ALARM 15 on the Danfoss FC 302 VFD signals a hardware mismatch. The drive has de
 ## When to Call a Pro
 
 Call a qualified VFD technician or contact Danfoss directly if you are not familiar with option card removal and reseating, or if the alarm returns after you have verified the option and configuration. Danfoss explicitly requests escalation with the recorded parameter values for this alarm. If the drive is under warranty or part of a critical process, professional support will prevent downtime and make sure the correct option and control board combination.
-
-## See Also
-
-- [Danfoss FC302 Alarm 24 - Causes & Fix](/posts/danfoss-fc302-alarm-24-fault-code/)
-- [Danfoss VFD Fault OL — Causes & Fix](/posts/danfoss-vfd-fault-ol/)
-- [Danfoss FC302 Alarm 32 - Causes & Fix](/posts/danfoss-fc302-alarm-32-fault-code/)
-- [Danfoss FC302 Alarm 39 - Causes & Fix](/posts/danfoss-fc302-alarm-39-fault-code/)

@@ -13,11 +13,8 @@ money_part: "S-wire / signal wire"
 most_likely_cause: "Loose S-wire at the outdoor terminal block"
 ---
 
-## Lennox Mini Split Error Code E1 — What It Means
-
+## What this code means
 E1 on a Lennox mini split (MLA, MCA, or MPA series) signals a communication fault between the indoor air handler and the outdoor condensing unit. Lennox ductless systems pass command and status data over a dedicated signal wire in the interconnecting line set. If that signal path is broken or degraded, the indoor unit stops operating and displays E1. The fault is common after installation disturbances, pest activity, or electrical events near the outdoor unit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,18 +43,3 @@ E1 on a Lennox mini split (MLA, MCA, or MPA series) signals a communication faul
 ## When to Call a Pro
 
 If the outdoor PCB needs replacement, contact a Lennox dealer — Lennox warranty service and parts access often requires a registered contractor. Homeowners attempting PCB swaps on sealed outdoor units may also void equipment warranties.
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-
-## See Also
-
-- [Lennox XC21 Error Codes — Diagnostic Guide and Fixes](/posts/lennox-xc21-error-codes/)
-- [Lennox Error Code 223 — Causes & Fix](/posts/lennox-error-code-223/)
-- [Lennox XP25 Heat Pump Error Codes - iComfort Fault Diagnostics](/posts/lennox-xp25-heat-pump-error-codes/)
-- [Lennox G60UHV Furnace Error Codes — Flash Code Diagnostic Guide](/posts/lennox-g60uhv-error-codes/)

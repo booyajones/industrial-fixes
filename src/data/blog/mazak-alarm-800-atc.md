@@ -13,11 +13,8 @@ tags:
 money_part: "Proximity sensor"
 ---
 
-## Mazak Alarm 800 — What It Means
-
+## What this code means
 Mazak alarm **800** is typically a **tool magazine or ATC positioning fault**. The control expected the tool magazine, pot, or arm to reach a commanded position, but the confirming sensor did not turn on in time. Exact wording varies by Mazatrol generation, but the root issue is usually in the magazine indexing system.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,18 +43,3 @@ Mazak alarm **800** is typically a **tool magazine or ATC positioning fault**. T
 | Tool pocket hardware | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-alarm-800-atc&k=Tool+pocket+hardware&tag=errorcodefixes-20) \| Bent pocket hardware causes jams |
 ## When to Call a Pro
 If the magazine is out of timing or the Geneva/index mechanism needs adjustment, call a Mazak service tech. ATC timing errors can escalate into tool changer crashes quickly.
-
-## Related Articles
-
-- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
-- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
-- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-
-## See Also
-
-- [Mazak Alarm 200 — Spindle Speed Error Causes & Fix](/posts/mazak-alarm-200-spindle/)
-- [Mazak Alarm 415 — Position Detector Error Fix](/posts/mazak-alarm-415/)
-- [Mazak Matrix/Matrix 2 Fault Code Guide — Complete Reference](/posts/mazak-matrix-fault-codes/)
-- [Mazak CNC Alarm Codes — Common Faults and Fixes](/posts/mazak-alarm-codes/)

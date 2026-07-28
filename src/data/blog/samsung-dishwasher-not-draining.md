@@ -19,8 +19,6 @@ When your Samsung dishwasher won't drain, water remains standing in the tub at t
 
 Samsung's official guidance points to installation and plumbing issues first, then restrictions in the hose or filter, and only after that internal drain components. The problem is almost never the pump itself until you've ruled out every blockage and routing fault upstream.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Blocked sink drain or garbage disposal** The house drain line, sink trap, or disposal is clogged with food waste and prevents the dishwasher from pushing water out.

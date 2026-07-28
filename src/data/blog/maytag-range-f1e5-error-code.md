@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Microwave inverter board"
 ---
 
-## Maytag Range F1E5 Error Code — What It Means
-
+## What this code means
 On Maytag wall-oven and range units that include a microwave, the F1E5 error code signals a problem with the microwave inverter, magnetron tube, or the wiring that connects them. Maytag's official guidance begins with a power reset to clear the fault. If the code reappears, there is an active hardware failure in the microwave's high-voltage circuit rather than a simple glitch.
 
 This code does not refer to oven temperature sensors or cooking elements. It is specific to the microwave portion of the appliance. The inverter supplies controlled power to the magnetron tube, which generates the microwaves for cooking. When either component fails or their harness connections loosen or corrode, the control board detects the fault and posts F1E5.
@@ -25,8 +24,6 @@ This code does not refer to oven temperature sensors or cooking elements. It is 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board or oven sensor when they see an F-code, but F1E5 on Maytag ranges points to the microwave inverter or magnetron. Always verify the connectors at the inverter and magnetron harness before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

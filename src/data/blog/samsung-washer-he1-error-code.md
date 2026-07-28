@@ -16,8 +16,7 @@ money_part: "Samsung washer heating element"
 part_price: "$30-80"
 ---
 
-## Samsung HE1 Error Code — What It Means
-
+## What this code means
 The HE1 error code on a Samsung front-load washer indicates that a heater error has occurred in the water-heating system. The machine has detected a fault somewhere in the circuit responsible for heating wash water, which may involve the heating element itself, the temperature sensor (NTC thermistor), the wiring and connectors, or the control board's heater drive circuit. Samsung groups HE1 and HE2 together and provides limited public diagnostic guidance beyond confirming that a heater fault is present.
 
 Because the code flags the heating system broadly rather than pinpointing a single component, technicians follow a methodical troubleshooting path that checks the heater element for continuity, the thermistor for proper resistance response, all wiring and connectors for damage or corrosion, and finally the control board's output stage if the load-side components test good. The error typically allows cold-water cycles to run but prevents heated wash programs from completing normally.
@@ -25,8 +24,6 @@ Because the code flags the heating system broadly rather than pinpointing a sing
 ## Before You Replace Anything
 
 Many people replace the control board first without testing the heater element and thermistor. Use a multimeter to check continuity on the heater and resistance on the thermistor before ordering expensive electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

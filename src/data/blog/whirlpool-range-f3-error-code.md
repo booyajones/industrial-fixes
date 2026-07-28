@@ -16,8 +16,7 @@ money_part: "Oven temperature sensor / RTD probe"
 part_price: "$15-40"
 ---
 
-## Whirlpool F3 Error Code — What It Means
-
+## What this code means
 The F3 error code on a Whirlpool range or oven indicates a problem with the oven temperature sensing circuit. Whirlpool uses F3 with subcodes (F3 E0, F3 E2) to flag faults in the oven temperature sensor, the electronic control board, or the wiring connecting them. On some models equipped with a warming drawer, F3 E2 can also involve the warming drawer sensor. Regardless of the subcode, the fault prevents the control from accurately reading or interpreting oven temperature, so the unit will stop heating and display the code.
 
 The sensor itself is a resistance temperature detector (RTD probe) that sits inside the oven cavity and reports temperature to the main control board. When the sensor fails, develops an open circuit, or sends a signal the control cannot interpret, the F3 family of codes appears. Wiring faults and control board failures are less common but still possible.
@@ -26,30 +25,12 @@ The sensor itself is a resistance temperature detector (RTD probe) that sits ins
 
 Many people replace the expensive control board first when the real fault is a $20 sensor. Always unplug the sensor and inspect the connector and wiring for damage or corrosion before ordering any board.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Failed oven temperature sensor (~65%)** The RTD probe inside the oven cavity develops an internal open or short, sending no signal or a signal out of range to the control board.
-- **Loose or damaged wiring and connectors (~20%)** The plug-in connector between the sensor and control harness corrodes, backs out, or the wires become pinched or broken, interrupting the circuit.
-- **Control board fault (~10%)** The electronic control board itself fails to interpret a good sensor signal correctly, flagging a false fault.
-- **Warming drawer sensor fault (F3 E2 on equipped models) (~5%)** On ranges with a warming drawer, the drawer's own temperature sensor can trigger F3 E2 when it fails or its wiring is damaged.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Does the code clear for a few minutes after you reset power at the breaker, then return once the oven heats?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The sensor or its wiring is failing under heat. Replace the oven temperature sensor.<br><strong>No:</strong> The fault is constant. Inspect the sensor connector and wiring for visible damage or corrosion before testing further.</div>
-</details>
-
-<details class="dtree"><summary>Is the sensor connector plug fully seated and free of corrosion or burn marks?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The wiring is intact. The sensor probe itself or the control board is at fault. Replace the sensor first.<br><strong>No:</strong> Clean or repair the connector and harness. If damage is severe, replace the wiring or the sensor with its pigtail.</div>
-</details>
-
-<details class="dtree"><summary>After installing a new sensor, does the F3 code still appear immediately on power-up?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The control board is misinterpreting a good sensor or has failed. Replace the electronic control.<br><strong>No:</strong> The sensor was the problem. The oven should now heat normally.</div>
-</details>
+- **Failed oven temperature sensor** The RTD probe inside the oven cavity develops an internal open or short, sending no signal or a signal out of range to the control board.
+- **Loose or damaged wiring and connectors** The plug-in connector between the sensor and control harness corrodes, backs out, or the wires become pinched or broken, interrupting the circuit.
+- **Control board fault** The electronic control board itself fails to interpret a good sensor signal correctly, flagging a false fault.
+- **Warming drawer sensor fault (F3 E2 on equipped models)** On ranges with a warming drawer, the drawer's own temperature sensor can trigger F3 E2 when it fails or its wiring is damaged.
 
 ## Step-by-Step Fix {#fix}
 
@@ -71,5 +52,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a technician if you are uncomfortable working behind the range, if your unit is a slide-in or built-in model that requires countertop or cabinetry removal to access the back panel, or if you have replaced the sensor and checked all wiring but the F3 code still appears. A pro can verify sensor resistance against the factory specification table, test the control board's sensor circuit with a simulator, and safely handle any high-voltage wiring. Also call if your model has both an oven and a warming drawer and you are unsure which sensor is at fault.
-
-**Rough cost:** DIY runs about $15-40 in parts, 30-60 min. A pro service call runs about $150-250.

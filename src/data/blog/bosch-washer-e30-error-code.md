@@ -22,8 +22,7 @@ part_price: "$25-45"
 no_buy_pct: "65%"
 ---
 
-## Bosch Washer E30 Error Code — What It Means
-
+## What this code means
 On Bosch and Siemens washers, the E30 code family (often displayed as E30-10 or E:30-10) indicates the machine was unable to fill with water within the allotted time. The control board triggered the fault because it expected a certain water level by a certain point in the cycle and did not see it. This is primarily a water-inlet or fill-system problem, not a heating or sensor fault.
 
 Bosch's own support documentation lists the underlying mechanical causes that produce fill timeouts: blocked or kinked inlet hoses, low supply pressure, a blocked drain pump or drain hose that prevents normal program progression, or an unsuitable hose extension. The code can also appear if the flood sensor in the base has been triggered by a leak. Because Bosch uses variant code formatting across model families, always confirm the exact code and consult your owner's manual or the wiring diagram on the cabinet to verify the specific meaning for your model.
@@ -31,8 +30,6 @@ Bosch's own support documentation lists the underlying mechanical causes that pr
 ## Before You Replace Anything
 
 Homeowners sometimes replace the inlet valve or even the control board when the real cause is a clogged inlet screen or a kinked drain hose. Before ordering parts, remove the inlet hose at the back of the machine and inspect the fine mesh filter screen inside the valve port for sediment, then check that the drain hose has no kinks and is installed no higher than 39 inches.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

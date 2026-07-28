@@ -19,8 +19,6 @@ Water leaking onto the floor from a Frigidaire refrigerator is not an error code
 
 The leak can come from the fresh-water system (supply line, inlet valve, filter, or dispenser path) or from the defrost and condensate system (evaporator drain, drain tube, or drain pan). Most reports trace floor leaks to a clogged or frozen defrost drain tube.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged or frozen defrost drain** This is the most commonly reported cause in manufacturer and technician guidance, where ice or debris blocks the evaporator drain tube and forces meltwater out onto the floor.
@@ -56,15 +54,15 @@ The leak can come from the fresh-water system (supply line, inlet valve, filter,
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Frigidaire Refrigerator 40Elg Washer Oe error code](/posts/frigidaire-refrigerator-40e-error-codelg-washer-oe-error-code/)
+- Frigidaire Refrigerator 40Elg Washer Oe error code
 - [Frigidaire Refrigerator 5Y Ef error code](/posts/frigidaire-refrigerator-5y-ef-error-code/)
-- [Frigidaire Refrigerator Al 29 error code](/posts/frigidaire-refrigerator-al-29-error-code/)
+- Frigidaire Refrigerator Al 29 error code
 - [Frigidaire Refrigerator Df error code](/posts/frigidaire-refrigerator-df-error-code/)
 - [Frigidaire Refrigerator E11 error code](/posts/frigidaire-refrigerator-e11-error-code/)
 - [Frigidaire Refrigerator E15 error code](/posts/frigidaire-refrigerator-e15-error-code/)
 - [Frigidaire Refrigerator Er Ce error code](/posts/frigidaire-refrigerator-er-ce-error-code/)
 - [Frigidaire Refrigerator Er error code](/posts/frigidaire-refrigerator-er-error-code/)
-- [Frigidaire Refrigerator F0001 error code](/posts/frigidaire-refrigerator-f0001-error-code/)
+- Frigidaire Refrigerator F0001 error code
 - [Frigidaire Refrigerator H1 error code](/posts/frigidaire-refrigerator-h1-error-code/)
 - [Frigidaire Refrigerator Hi error code](/posts/frigidaire-refrigerator-hi-error-code/)
 - [Frigidaire Refrigerator Op error code](/posts/frigidaire-refrigerator-op-error-code/)

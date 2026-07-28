@@ -19,8 +19,6 @@ When your Whirlpool washer won't fill with water, the machine either stays empty
 
 The fill system relies on open supply faucets, clear hoses, clean inlet screens, a working water inlet valve with solenoids, and a pressure switch that tells the control when the tub is full. On top-load models, the lid switch or lock can also block the fill cycle if the washer doesn't recognize a closed lid. Low household pressure below 20 psi or debris in the screens will starve the valve and trigger a slow-fill condition.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Household water valves not fully open or turned off** The hot and cold faucets behind the washer must be turned all the way on to supply enough flow for the inlet valve to work.

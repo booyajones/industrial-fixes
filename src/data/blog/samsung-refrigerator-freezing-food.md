@@ -19,8 +19,6 @@ When your Samsung refrigerator freezes food in the fresh-food compartment, the c
 
 Samsung's guidance states that most freezing complaints come from incorrect temperature settings, blocked vents, or high-moisture foods placed near cold surfaces. If those factors are ruled out, the root cause is typically a defective temperature sensor (thermistor) in the fresh-food section or a related control issue.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Faulty refrigerator compartment thermistor** The temperature sensor reads warmer than actual, so the control board overcools the cabinet trying to reach setpoint.

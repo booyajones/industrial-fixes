@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Samsung microwave gas sensor / load sensor assembly"
 ---
 
-## Samsung Microwave E-32 Error — What It Means
-
+## What this code means
 Samsung's E-32 error code means **short gas sensor error** according to the manufacturer's published error-code list. The control board detects the gas sensor input reading as shorted rather than open or normal. Samsung's consumer documentation does not provide a deeper circuit-level definition but identifies the code at the appliance-display level and instructs a power reset followed by service if the code returns.
 
 For Samsung microwave platforms that use sensor-based cooking or load sensing, the practical causes are usually a failed sensor element, shorted sensor wiring, a connector issue, or a main-control input fault. On some combination or sensor-cook models the fault is linked to the load sensor assembly or its wiring at the control board, though Samsung's public pages do not break E-32 down further than the short gas sensor error label.
@@ -25,8 +24,6 @@ For Samsung microwave platforms that use sensor-based cooking or load sensing, t
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board first. Inspect the sensor harness and connector for pinched, abraded, or corroded wiring before replacing any boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

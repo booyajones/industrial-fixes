@@ -13,13 +13,10 @@ money_part: "Navien inlet water filter / strainer"
 most_likely_cause: "Clogged inlet filter or strainer"
 ---
 
-## Navien E016 Error Code — What It Means
-
+## What this code means
 The E016 code indicates your Navien tankless water heater has detected an abnormal heat-exchanger temperature condition and entered protection mode. The unit's computer shut down the burner because heat is building up faster than water can carry it away.
 
 This overheat fault is most often caused by restricted water flow or scale buildup inside the heat exchanger. The system needs sufficient flow through the exchanger to remove heat. When flow drops or mineral deposits insulate the metal, the temperature sensor triggers E016 and locks out the unit to prevent damage.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ This overheat fault is most often caused by restricted water flow or scale build
 ## When to Call a Pro
 
 Call a licensed plumber or Navien-certified technician if the E016 code returns after you have cleaned the inlet filter and confirmed water flow is normal. Persistent overheat faults usually mean scale inside the heat exchanger that requires a professional flush, a failed circulation pump or three-way valve, or a control-board issue. Do not attempt to disassemble the heat exchanger or test electrical components unless you have gas-appliance and electrical training. Overheat conditions can indicate unsafe combustion or venting problems that only a qualified technician should diagnose.
-
-## See Also
-
-- [Navien Water Heater Leaking - Causes & Fix](/posts/navien-water-heater-leaking/)
-- [Navien E515 Error Code - Causes & Fix](/posts/navien-tankless-e515-error-code/)
-- [Navien NCB-700 Combination Boiler Error Codes - Full Fault Guide](/posts/navien-ncb-700-error-codes/)
-- [Navien Alarm 401 Error Code - Causes & Fix](/posts/navien-tankless-alarm-401-error-code/)

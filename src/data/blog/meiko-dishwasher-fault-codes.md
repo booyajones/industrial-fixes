@@ -27,8 +27,6 @@ Meiko is a German commercial dishwasher brand known for high-quality flight mach
 | Fault 8 / F8 | Door interlock fault | Medium |
 | Chemical fault | Detergent/rinse aid empty | Low |
 
-[Jump to Fix](#fix)
-
 ## Common Meiko Fixes {#fix}
 
 **F3/F4 (temperature faults):** Verify steam or electric heating system. On steam-heated Meiko machines, check steam supply pressure and steam trap. On electric models, check heating element continuity.
@@ -71,7 +69,6 @@ Compiled from manufacturer service manuals and authorized documentation.
 | 721 | Regeneration is not possible as no salt available | Regeneration is necessary but no brine/salt is available | Refill regeneration salt and confirm there is water in the salt reservoir. |
 | 722 | Refill with salt | No water in the salt solution reservoir, or float switch S5 not working | Add regeneration salt; if it stays after refilling, check the salt-reservoir water level and float switch S5. |
 
-
 ## How to troubleshoot Meiko Dishwasher
 
 Meiko commercial machines (undercounters like the FV/UPster, door/hood machines like the DV series, and rack/flight conveyors) report faults as numeric Info codes and Err codes on the control display, not as the generic "F1-F8" style seen on many domestic units. Info codes flag a minor, self-clearing condition (low rinse aid, salt needed, hood open); Err codes flag a fault that usually halts the wash. Most codes clear on their own once the underlying condition is fixed.
@@ -81,7 +78,6 @@ Start with the cheap, common causes before assuming an electronic failure. The e
 If a fill or drain code persists after the supply and filters check out (201/202 fill, 203/204 drain, 324 basket blocking the hood), the likely hardware is the boost/drain pump, a solenoid fill valve, or a level switch. A door/hood fault (121) that stays with the door fully closed points to a failed microswitch. Codes tied to the control board or memory (001 EEPROM) and the ADT dosing system (521/522) are service-level items. Never bypass the door/hood interlock; it is a burn and moving-parts safety device on high-temperature machines.
 
 Call a Meiko-authorized service partner when a code returns after the basic checks, when it involves the control board, heating circuit, pumps, or dosing valves, or on flight/conveyor machines where the guarding, steam, and electrical systems require certified service. These are 208-240V (often three-phase) high-temperature units, so isolate power before opening any panel.
-
 
 ## Frequently asked questions
 
@@ -105,11 +101,9 @@ Those relate to the built-in water softener. 721 means regeneration cannot run b
 
 The consumable and supply codes (rinse aid, detergent, salt, water fill, clearing filters and wash arms) are safe operator-level fixes. Codes involving the control board (001), pumps (203/204), fill valves, heating, or the ADT dosing valves (521/522) are service items - and on flight and conveyor machines nearly all repairs should go to a Meiko-authorized service partner.
 
-
 ## Related guides
 
 - [Hobart Dishwasher Error Codes](/posts/hobart-dishwasher-error-codes/)
 - [Frymaster Fryer Error Codes](/posts/frymaster-fryer-error-codes/)
 - [Manitowoc Indigo Nxt Complete Guide](/posts/manitowoc-indigo-nxt-complete-guide/)
 - [Rational Combi Oven Error Codes](/posts/rational-combi-oven-error-codes/)
-

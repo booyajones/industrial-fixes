@@ -13,13 +13,10 @@ money_part: "Motor (AC induction or PM)"
 most_likely_cause: "Motor or compressor mechanically blocked or stuck"
 ---
 
-## Danfoss FC302 ALARM 18 — What It Means
-
+## What this code means
 ALARM 18 on a Danfoss VLT FC 302 means Start Failure. The drive commanded a start, but the motor speed did not increase to the required threshold within the allowed start time. The FC 302 expects the motor to accelerate past the configured Compressor Start Max Speed within the configured Compressor Start Max Time to Trip. If it does not, the drive trips with Alarm 18.
 
 This alarm is almost always caused by a mechanical problem preventing normal acceleration, or by start-time parameters that are too strict for the actual application. It is not typically a sign of failed drive electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ This alarm is almost always caused by a mechanical problem preventing normal acc
 ## When to Call a Pro
 
 Call a qualified VFD or compressor technician if you cannot safely rotate the motor by hand, if parameter adjustments do not clear the alarm after verifying the machine is mechanically free, or if you lack the tools to measure actual motor speed during startup. Also call a pro if the compressor shows signs of internal damage (unusual noise, locked rotor, or oil contamination) or if the drive continues to trip on ALARM 18 after confirming correct parameters and a freely rotating load. This alarm usually points to a mechanical or application issue rather than a failed drive component, so expert diagnosis of the motor and driven equipment is often required.
-
-## See Also
-
-- [Danfoss FC301 Fault AL 14 — Ground Fault Causes & Fix](/posts/danfoss-fc301-fault-al-14/)
-- [Danfoss FC302 Alarm AL 29 — Causes & Fix](/posts/danfoss-fc302-fault-al-29/)
-- [Danfoss AKC Controller Fault Codes - Complete Guide](/posts/danfoss-akc-controller-fault/)
-- [Danfoss VFD Fault W30 — Brake Resistor Overtemperature Fix](/posts/danfoss-vfd-fault-w30/)

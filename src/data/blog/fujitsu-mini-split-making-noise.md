@@ -19,8 +19,6 @@ A Fujitsu mini split making noise is not, by itself, a fault code. Fujitsu's own
 
 If you are seeing an actual error code at the same time, that code must be identified separately. Otherwise, the complaint is a noise symptom that may or may not indicate a problem. Real field issues that cause abnormal noise include fan motor problems, unbalanced or obstructed fan blades, loose panels or covers, drainage issues like a clogged condensate line or noisy condensate pump, or refrigerant and control problems if the sound is accompanied by poor performance or a fault indication.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Normal refrigerant flow or defrost operation** Fujitsu states that water-flow sounds in the piping during start-up, coolant flow noise for 2 to 3 minutes after start, slight squeaking from cover expansion, and sizzling during automatic defrosting in heating mode are all normal operating sounds.
@@ -52,18 +50,18 @@ If you are seeing an actual error code at the same time, that code must be ident
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Fujitsu Mini Split E 01 error code](/posts/fujitsu-mini-split-e-01-error-code/)
-- [Fujitsu Mini Split E 02 error code](/posts/fujitsu-mini-split-e-02-error-code/)
-- [Fujitsu Mini Split E 03 error code](/posts/fujitsu-mini-split-e-03-error-code/)
-- [Fujitsu Mini Split E 04 error code](/posts/fujitsu-mini-split-e-04-error-code/)
-- [Fujitsu Mini Split E 05 error code](/posts/fujitsu-mini-split-e-05-error-code/)
-- [Fujitsu Mini Split E 06 error code](/posts/fujitsu-mini-split-e-06-error-code/)
-- [Fujitsu Mini Split E 07 error code](/posts/fujitsu-mini-split-e-07-error-code/)
-- [Fujitsu Mini Split E 08 error code](/posts/fujitsu-mini-split-e-08-error-code/)
-- [Fujitsu Mini Split E 09 error code](/posts/fujitsu-mini-split-e-09-error-code/)
-- [Fujitsu Mini Split E 10 error code](/posts/fujitsu-mini-split-e-10-error-code/)
-- [Fujitsu Mini Split E 11 error code](/posts/fujitsu-mini-split-e-11-error-code/)
-- [Fujitsu Mini Split E 12 error code](/posts/fujitsu-mini-split-e-12-error-code/)
+- Fujitsu Mini Split E 01 error code
+- Fujitsu Mini Split E 02 error code
+- Fujitsu Mini Split E 03 error code
+- Fujitsu Mini Split E 04 error code
+- Fujitsu Mini Split E 05 error code
+- Fujitsu Mini Split E 06 error code
+- Fujitsu Mini Split E 07 error code
+- Fujitsu Mini Split E 08 error code
+- Fujitsu Mini Split E 09 error code
+- Fujitsu Mini Split E 10 error code
+- Fujitsu Mini Split E 11 error code
+- Fujitsu Mini Split E 12 error code
 
 ## When to Call a Pro
 

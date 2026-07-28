@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Easy/PH sensor assembly"
 ---
 
-## Samsung Microwave E-41 Error — What It Means
-
+## What this code means
 Samsung's E-41 code is officially identified as an Open Easy/PH Sensor Error on consumer microwave models in the U.S. and Canada support tables. On some Samsung commercial microwaves, E41 is described more broadly as an internal circuitry fault related to power or high-voltage transformer operation. The exact meaning depends on your model family. For consumer units, the manufacturer documentation points to a sensor fault in the Easy/PH sensing circuit. For commercial units, the code indicates that circuitry inside the oven is not working correctly and may involve power-sensing or control components.
 
 Samsung does not publish detailed component-level causes or specifications for consumer E-41 beyond the sensor fault designation. The company's guidance is to reset the unit and contact service if the code persists. Field diagnostics on commercial Samsung units have found faulty switches, relay contact damage, power-sensing resistors, and wiring or insulation breakdown in the high-voltage path, but these are technician observations and not manufacturer-published root causes for consumer models.
@@ -25,8 +24,6 @@ Samsung does not publish detailed component-level causes or specifications for c
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when the actual fault is a failed interlock switch, relay, or power-sensing resistor. A technician can test those components individually with a multimeter before condemning the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

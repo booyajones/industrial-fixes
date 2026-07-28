@@ -13,11 +13,8 @@ money_part: "Cooling fan motor"
 most_likely_cause: "Exceeded duty cycle"
 ---
 
-## Lincoln Electric E11 Error Code — What It Means
-
+## What this code means
 The E11 fault on Lincoln Electric welders (Power MIG, Invertec, and Power Wave series) indicates a thermal overload — the machine's internal temperature exceeded the safe operating limit and the thermal protection circuit shut the welder down. The unit will not allow welding until it cools sufficiently and the fault clears.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

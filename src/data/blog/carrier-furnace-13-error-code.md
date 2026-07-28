@@ -14,13 +14,10 @@ money_part: "Carrier high-limit switch"
 most_likely_cause: "Restricted airflow across the heat exchanger"
 ---
 
-## Carrier Furnace Error Code 13 — What It Means
-
+## What this code means
 Error code 13 on a Carrier furnace is a limit circuit lockout. This means the furnace detected an open high-limit switch or flame rollout circuit for more than 3 minutes and has shut down for safety. This is not a nuisance trip. It is a safety shutdown telling you the furnace overheated or flames rolled out of the burner area. You may also see code 33, which is the underlying limit circuit fault the control detects when it rechecks the circuit.
 
 The furnace will not restart until you correct the condition that caused the overheat or rollout and reset the system. Most of the time this code points to restricted airflow that trapped heat in the cabinet, but it can also mean a flame rollout switch tripped due to abnormal combustion or venting problems.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -52,10 +49,3 @@ The furnace will not restart until you correct the condition that caused the ove
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you see flames rolling out of the burner area, if the rollout switch keeps tripping after you correct airflow problems, or if you are not comfortable working with gas appliances and electrical components. A cracked or damaged heat exchanger requires immediate professional replacement and is a carbon monoxide hazard. Also call a pro if you have checked all airflow paths and the limit keeps opening, or if you need to verify combustion air calculations or vent pipe sizing on a 90% condensing furnace.
-
-## See Also
-
-- [Carrier 32 Error Code — Causes & Fix](/posts/carrier-32-error-code/)
-- [Carrier Infinity Error Code 179 — What It Means and How to Fix It](/posts/carrier-infinity-error-179/)
-- [Carrier 31 Error Code — Pressure Switch Fix](/posts/carrier-31-error-code/)
-- [Carrier E22 Error Code - Causes & Fix](/posts/carrier-heat-pump-e22-error-code/)

@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Dishwasher User Interface / Keypad"
 ---
 
-## Frigidaire Dishwasher LOC Code — What It Means
-
+## What this code means
 On Frigidaire dishwashers, LOC is a control lock status indicator, not a fault code. The display is telling you the lock function is active. This is the Control Lock or Child Lock feature designed to prevent unintended operation by locking the control panel buttons. Frigidaire's own support documentation states that LOC indicates the door is locked, which refers to the user-lock condition on the console that prevents the dishwasher from being started or settings from being changed.
 
 In normal operation, the lock can be intentionally enabled by pressing and holding a button sequence on the control panel. The dishwasher will continue to display LOC until the lock is deliberately turned off using the same unlock procedure. Some models tie this status to the door latch mechanism, while others purely lock the touchpad. The code does not indicate a broken component unless the lock will not clear after following the correct unlock steps.
@@ -25,8 +24,6 @@ In normal operation, the lock can be intentionally enabled by pressing and holdi
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board or door latch assembly thinking LOC is a failure code. Before ordering parts, perform a power reset and try the unlock button sequence, which clears the lock on most units at no cost.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,11 +13,8 @@ money_part: "Outdoor inverter PCB"
 most_likely_cause: "Loose S (signal) wire at terminal block"
 ---
 
-## Daikin R-32 U4 Error Code — What It Means
-
+## What this code means
 U4 on Daikin R-32 mini split and heat pump systems (including the FTK, FTXM, and FTXS R-32 series) indicates a communication failure between the indoor and outdoor units. While U4 means the same thing across all Daikin product generations, R-32 systems have some unique considerations: the R-32 refrigerant requires higher operating pressures than R-410A, and Daikin's R-32 control boards run slightly different firmware that is more sensitive to communication timing. The result is that wiring issues that might cause only occasional errors on R-410A systems tend to produce persistent U4 faults on R-32 systems.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,18 +44,3 @@ U4 on Daikin R-32 mini split and heat pump systems (including the FTK, FTXM, and
 ## When to Call a Pro
 
 R-32 refrigerant is mildly flammable (A2L classification) and requires technicians with specific R-32 handling certification in many jurisdictions. Any refrigerant-side work on a Daikin R-32 system must be done by a certified technician. For the communication fault itself, the wiring and board checks are within the skill range of a capable DIYer, but board replacement on the outdoor inverter unit involves high-voltage DC components.
-
-## Related Articles
-
-- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
-- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
-- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
-- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
-- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)
-
-## See Also
-
-- [Daikin A6 Error Code — Indoor Fan Motor Fix](/posts/daikin-error-code-a6/)
-- [Daikin RXQ VRV System Error Codes (Outdoor Unit): Complete Guide](/posts/daikin-vrv-rxq-error-codes/)
-- [Daikin E4 Error Code - Causes & Fix](/posts/daikin-e4-error-code/)
-- [Daikin J3 Error Code — Discharge Pipe Temperature Sensor Fault Fix](/posts/daikin-j3-error-code/)

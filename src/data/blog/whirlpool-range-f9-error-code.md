@@ -16,15 +16,12 @@ diy_or_pro: "pro"
 money_part: "Main electronic control board (oven control)"
 ---
 
-## Whirlpool Range F9 Error Code — What It Means
-
+## What this code means
 The F9 or F9 E0 code on a Whirlpool electric range tells you the control board detected an electrical supply or wiring issue. According to Whirlpool, the primary triggers are a miswired outlet or appliance connection, incorrect voltage during a power event such as an outage, or keys pressed too soon during the first 10 seconds of power-up on some models. The fault is not pointing to an internal oven component failure first, it is alerting you to check the incoming power and how the range is wired to your home's circuit.
 
 ## Before You Replace Anything
 
 Many people jump to replacing the main control board or door latch assembly. First, have a qualified electrician verify the outlet wiring and terminal block connections because Whirlpool lists miswired supply as the primary F9 cause.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

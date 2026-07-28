@@ -96,11 +96,3 @@ If the pilot lights weakly (small yellow flame instead of a firm blue/blue-with-
 ## When to Call a Pro
 
 If the pilot keeps going out after thermocouple replacement, or if you smell gas while trying to light, call a licensed plumber or gas technician. A failed gas valve, gas line issue, or venting problem causing excessive draft requires professional diagnosis.
-
-## Related Articles
-
-- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
-- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
-- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)

@@ -13,11 +13,8 @@ money_part: "Motor (replacement)"
 most_likely_cause: "Motor or cable short circuit"
 ---
 
-## ABB ACS550 F0001 Fault — What It Means
-
+## What this code means
 The ABB ACS550 **F0001 fault** is an **Overcurrent** fault — the drive's output current has exceeded the instantaneous overcurrent protection threshold, typically 3.5× the drive's rated current. The ACS550 shuts down output immediately to protect its IGBT power modules. F0001 appears in the fault history (parameter group 13) with a sub-code that identifies which phase triggered first. The ACS550 is one of ABB's most widely installed drives in HVAC and industrial pump/fan applications, and F0001 is among its most common service faults.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ The ABB ACS550 **F0001 fault** is an **Overcurrent** fault — the drive's outpu
 ## When to Call a Pro
 
 If F0001 persists with the motor disconnected (no output connected), the ACS550's current sensing or IGBT module has failed. Internal drive repair requires ABB-certified service technicians and proper test equipment.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-
-## See Also
-
-- [ABB ACS880 Drive Maintenance Guide - Service Intervals, Fault Prevention, and Troubleshooting](/posts/abb-acs880-complete-maintenance-guide/)
-- [ABB VFD Fault 2310 — Causes & Fix](/posts/abb-vfd-fault-2310/)
-- [ABB ACS880 Fault 2310 Overcurrent — Causes & Fix](/posts/abb-acs880-fault-2310-overcurrent/)
-- [ABB ACH580 HVAC VFD Fault Codes — Full Diagnostic Guide - What It Means and How to Fix It](/posts/abb-ach580-fault-codes/)

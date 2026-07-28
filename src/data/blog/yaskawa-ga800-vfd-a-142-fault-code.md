@@ -14,8 +14,7 @@ most_likely_cause: "Misread or incorrect code reference"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa GA800 A.142 — What It Means
-
+## What this code means
 A.142 does not appear in the documented GA800 fault and alarm code list from Yaskawa manufacturer materials. The GA800 series typically displays alphabetic or alphanumeric codes such as oC (overcurrent), ov (overvoltage), or CPF06 (control board fault), not A.142. The displayed string may be a parameter address, a monitor screen value, a keypad menu item, or a code from a different Yaskawa drive series mistakenly referenced for this unit.
 
 Because the code cannot be confirmed as a GA800 fault, the safest approach is to verify the exact keypad display, pull the drive's fault history before cycling power, and inspect all power and motor wiring for loose connections, damaged insulation, or signs of overheating. Many Yaskawa drive faults across series trace back to wiring issues, motor ground faults, or mechanical load problems rather than internal drive failures.
@@ -23,8 +22,6 @@ Because the code cannot be confirmed as a GA800 fault, the safest approach is to
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive or control board without first checking fault history and verifying terminal torque at the input and output blocks. Pull the alarm history from the keypad menu and inspect all motor and line wiring before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or VFD technician if you cannot find A.142 in the GA800 manual, if the drive will not clear the fault after inspecting wiring and motor connections, or if you need to perform high‑voltage insulation testing or internal drive diagnostics. VFD repair requires specialized knowledge of power electronics, parameter programming, and safe isolation procedures. Attempting board‑level repair or firmware updates without training can cause permanent damage or create an electrical hazard. A technician with Yaskawa factory training can decode ambiguous codes, pull detailed fault logs, and determine whether the issue is wiring, motor, or drive hardware.
 
 **Rough cost:** A pro service call runs about $200–600 depending on whether the issue is wiring, a control board, or drive replacement.
-
-## See Also
-
-- [Yaskawa A1000 CPF06 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf06-fault-code/)
-- [Yaskawa A1000 CPF16 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf16-fault-code/)
-- [Yaskawa VFD Fault GF — Causes & Fix](/posts/yaskawa-vfd-fault-gf/)
-- [Yaskawa GA800 E79 - Causes & Fix](/posts/yaskawa-ga800-vfd-e79-fault-code/)

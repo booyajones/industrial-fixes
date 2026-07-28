@@ -13,11 +13,8 @@ money_part: "IGBT power module"
 most_likely_cause: "Failed IGBT or power module"
 ---
 
-## Danfoss FC302 Alarm 26 — What It Means
-
+## What this code means
 Alarm 26 on a Danfoss VLT AutomationDrive FC302 is a trip at inverter fault. The drive has detected a problem in its inverter or power stage section and has shut down to protect itself and the motor. This is not a simple overload. The fault is internal to the drive's power electronics or caused by a short circuit in the motor or motor cable. The inverter section contains the IGBTs (power transistors) that switch DC power into variable AC for the motor. When this alarm appears, the drive will not run until the fault is cleared and the alarm is reset.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ Alarm 26 on a Danfoss VLT AutomationDrive FC302 is a trip at inverter fault. The
 ## When to Call a Pro
 
 Call a qualified drive technician or authorized Danfoss service provider if you lack the tools or training to perform high-voltage lockout, insulation testing, or internal drive inspection. Component-level repair of inverter power stages requires specialized test equipment and knowledge of high-power electronics. If the motor and cable test good but the drive still trips with no load, the repair typically involves replacing or rebuilding the inverter power module. This is not a DIY repair for most facilities. Danfoss drives contain hazardous voltage even after mains disconnection. Always follow the manufacturer's safety procedures.
-
-## See Also
-
-- [Danfoss FC302 VFD Alarm 46 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-46-fault-code/)
-- [Danfoss FC302 ALARM 27 - Causes & Fix](/posts/danfoss-fc302-alarm-27-fault-code/)
-- [Danfoss FC302 ALARM 37 - Causes & Fix](/posts/danfoss-fc302-alarm-37-fault-code/)
-- [Danfoss FC302 VFD Alarm 41 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-41-fault-code/)

@@ -19,8 +19,6 @@ When a Daikin mini split is not cooling, it means the indoor unit is running but
 
 Daikin's troubleshooting guidance confirms that most no-cooling complaints without a code stem from user-setting problems, clogged filters, debris around the outdoor unit, refrigerant charge loss, or the unit running a defrost cycle in cold weather. When a code is present, common causes expand to include indoor PCB defects, drain clogs, heat-exchanger overheating or anti-icing, fan motor malfunctions, compressor overload, four-way valve problems, communication errors between indoor and outdoor units, and voltage or refrigerant-shortage detection.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty or clogged indoor air filter** Reduced airflow from a blocked filter cuts cooling capacity and is the most common no-code cause.
@@ -54,25 +52,18 @@ Daikin's troubleshooting guidance confirms that most no-cooling complaints witho
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Daikin Mini Split A1 error code](/posts/daikin-mini-split-a1-error-code/)
-- [Daikin Mini Split A3 error code](/posts/daikin-mini-split-a3-error-code/)
-- [Daikin Mini Split A5 error code](/posts/daikin-mini-split-a5-error-code/)
-- [Daikin Mini Split A6 error code](/posts/daikin-mini-split-a6-error-code/)
-- [Daikin Mini Split A7 error code](/posts/daikin-mini-split-a7-error-code/)
-- [Daikin Mini Split A8 error code](/posts/daikin-mini-split-a8-error-code/)
-- [Daikin Mini Split A9 error code](/posts/daikin-mini-split-a9-error-code/)
-- [Daikin Mini Split C4 error code](/posts/daikin-mini-split-c4-error-code/)
-- [Daikin Mini Split E04 error code](/posts/daikin-mini-split-e04-error-code/)
-- [Daikin Mini Split E05 error code](/posts/daikin-mini-split-e05-error-code/)
-- [Daikin Mini Split E7 error code](/posts/daikin-mini-split-e7-error-code/)
+- Daikin Mini Split A1 error code
+- Daikin Mini Split A3 error code
+- Daikin Mini Split A5 error code
+- Daikin Mini Split A6 error code
+- Daikin Mini Split A7 error code
+- Daikin Mini Split A8 error code
+- Daikin Mini Split A9 error code
+- Daikin Mini Split C4 error code
+- Daikin Mini Split E04 error code
+- Daikin Mini Split E05 error code
+- Daikin Mini Split E7 error code
 
 ## When to Call a Pro
 
 Call a Daikin Pro if the system displays an error code that persists after a power cycle, if you suspect low refrigerant or a refrigerant leak, if the outdoor unit is not running at all, or if indoor or outdoor fans are locked or making unusual noise. Refrigerant leak repair and recharge require proper refrigeration diagnosis and EPA-certified handling. Communication faults, PCB replacement, four-way valve problems, and compressor or fan motor failures also require professional electrical and refrigeration troubleshooting to avoid misdiagnosis and unsafe conditions.
-
-## See Also
-
-- [Daikin F3 Error Code — Causes & Fix](/posts/daikin-f3-error-code/)
-- [Daikin E7 Error Code - Causes & Fix](/posts/daikin-mini-split-e7-error-code/)
-- [Daikin U7 Error Code - Causes & Fix](/posts/daikin-u7-error-code/)
-- [Daikin J6 Error Code - Causes & Fix](/posts/daikin-heat-pump-j6-error-code/)

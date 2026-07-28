@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "GE microwave cavity thermistor"
 ---
 
-## GE Microwave F1 Error Code — What It Means
-
+## What this code means
 On GE microwave models, the F1 error code points to a thermal sensor (thermistor) problem. The most consistent service-level interpretation is that the oven cavity thermistor is open or reading out of range. This sensor monitors the cavity temperature during operation to prevent overheating and make sure safe cooking cycles. When the control board cannot read the thermistor correctly (because of an open circuit, short, or value outside the expected range), it halts operation and displays F1.
 
 In some GE product families, F1 may also indicate a defective control board or control/keypad module, so the exact meaning can vary by model. Always verify your specific model number and consult the service manual or wiring diagram to confirm which component the code targets on your unit.
@@ -25,8 +24,6 @@ In some GE product families, F1 may also indicate a defective control board or c
 ## Before You Replace Anything
 
 Many owners replace the main control board first, but a simple multimeter resistance check of the cavity thermistor and its wiring harness will identify the real fault in most cases.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

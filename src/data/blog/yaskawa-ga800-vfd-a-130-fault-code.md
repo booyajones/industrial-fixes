@@ -14,8 +14,7 @@ most_likely_cause: "Misread or corrupted display"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa GA800 A.130 Fault — What It Means
-
+## What this code means
 The A.130 code does not appear in verified Yaskawa GA800 fault documentation. Yaskawa drives display alphanumeric alarm and fault codes on the keypad, but the exact meaning varies by drive series and firmware revision. The GA800 uses a different fault-code structure than the V1000, A1000, or Z1000 families, so codes from those manuals cannot be cross-referenced reliably.
 
 Before attempting any repair, verify the exact characters displayed on the keypad. Some technicians misread decimal points, letter case, or spacing. Consult the fault table in your GA800 technical manual or use Yaskawa's DriveWizard Industrial software to decode the alarm. If the code persists after a power cycle and does not appear in your documentation, contact Yaskawa technical support with your drive's full model number and firmware version.
@@ -23,8 +22,6 @@ Before attempting any repair, verify the exact characters displayed on the keypa
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive when the fault is actually a wiring error, incorrect parameter setting, or external device issue. Always verify input power quality, check for loose terminals, and review parameter settings in the manual before ordering hardware.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or Yaskawa-certified technician if you cannot locate the A.130 code in your manual, if the fault persists after verifying wiring and parameters, or if you lack the tools and training to work safely with three-phase power and VFD internals. Professional diagnosis with DriveWizard software and oscilloscope tests can quickly identify whether the issue is external wiring, a parameter conflict, or internal drive failure. Replacing a VFD without proper diagnosis often wastes money and leaves the root cause unresolved.
 
 **Rough cost:** A pro service call runs about $150-400 depending on diagnosis time and whether repair or replacement is needed.
-
-## See Also
-
-- [Yaskawa GA800 E11 Error Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e11-fault-code/)
-- [Yaskawa A1000 oP Fault Code - Causes & Fix](/posts/yaskawa-a1000-vfd-op-fault-code/)
-- [Yaskawa GA800 E18 Error - Causes & Fix](/posts/yaskawa-ga800-e18-fault-code/)
-- [Yaskawa GA800 E03 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e03-fault-code/)

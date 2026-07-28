@@ -13,13 +13,10 @@ money_part: "Yaskawa GA800 control board"
 most_likely_cause: "Misread or transposed code"
 ---
 
-## Yaskawa GA800 E12 Fault — What It Means
-
+## What this code means
 E12 is not a verified fault code in the published Yaskawa GA800 documentation. The GA800 series uses alphanumeric codes to identify specific faults, but E12 does not appear in standard fault tables. You may be seeing a different code (such as UV3 for soft-charge issues), a model-specific alarm, or a display error. Always photograph the keypad and verify the exact characters shown before troubleshooting.
 
 For any GA800 fault, the general approach is to identify the displayed code on the keypad, consult the drive's fault table and elementary diagram in the manual, remove the cause of the fault, then press the RESET button while the code is displayed. The GA800 maintenance guidance covers only fan and control board replacement for field service.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ For any GA800 fault, the general approach is to identify the displayed code on t
 ## When to Call a Pro
 
 Call a qualified VFD technician or contact Yaskawa support if the fault code does not appear in your drive manual, if the fault returns immediately after reset, or if you lack the elementary diagrams and multimeter skills to trace relay and control board circuits. The GA800 maintenance manual specifies that field repair is limited to fan and control board replacement, so internal power board or bus faults require factory service or drive replacement. Always work with input power locked out and verified, and allow the DC bus capacitors to discharge fully before opening the drive enclosure.
-
-## See Also
-
-- [Yaskawa GA800 E08 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e08-fault-code/)
-- [Yaskawa GA800 E58 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e58-fault-code/)
-- [Yaskawa GA800 E65 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e65-fault-code/)
-- [Yaskawa GA800 E64 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e64-fault-code/)

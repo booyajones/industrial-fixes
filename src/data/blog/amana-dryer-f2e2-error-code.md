@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Dryer F2E2 Error Code — What It Means
-
+## What this code means
 The F2E2 code on an Amana dryer indicates a problem with the keypad and user interface assembly or the communication path between the interface and the main control board. This is not a moisture sensor fault (that code is F3E2). The dryer detects that the keypad is not responding correctly or that signals between the console and the main control are interrupted or corrupted.
 
 In many cases the fault is a temporary electronic glitch caused by a power surge or static buildup. If the code returns after a reset, the problem is usually a failed keypad assembly, a loose or corroded connector in the console wiring harness, or less often a fault on the main control board itself.
@@ -26,8 +25,6 @@ In many cases the fault is a temporary electronic glitch caused by a power surge
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when the real cause is a loose ribbon cable connector or a failed keypad assembly. Always reseat the harness connectors and test with a power reset before buying a new control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

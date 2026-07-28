@@ -17,8 +17,7 @@ money_part: "Whirlpool dryer moisture sensor assembly"
 part_price: "$15-50"
 ---
 
-## Whirlpool Dryer F-29 Error Code — What It Means
-
+## What this code means
 F-29 on a Whirlpool dryer indicates a moisture sensor circuit fault. The control board is seeing the moisture-sensing circuit as invalid, shorted, or out of the expected range. This is not primarily a vent code. The moisture sensor bars (usually metal strips inside the drum or on the front bulkhead) monitor dampness in clothes, and when that circuit fails, the dryer cannot complete automatic cycles properly.
 
 Whirlpool's published first step is a 5-minute power reset followed by a Time Dry test to see whether the code returns. If it does, the problem is most often dirty sensor bars, a loose or damaged wiring harness between the sensor and the main control, or a shorted sensor circuit. Less commonly, the main control board itself has failed.
@@ -26,8 +25,6 @@ Whirlpool's published first step is a 5-minute power reset followed by a Time Dr
 ## Before You Replace Anything
 
 Many people replace the main control board first. Before that, clean the sensor bars with rubbing alcohol and check every connector in the sensor harness for looseness or corrosion.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

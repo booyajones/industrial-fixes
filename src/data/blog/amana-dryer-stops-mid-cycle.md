@@ -19,8 +19,6 @@ An Amana dryer that stops mid-cycle is usually not a single error code by itself
 
 If the unit displays AF or F4E3, the lint screen or vent is clogged, or the vent is crushed, kinked, or has too many turns. An L2 code points to a home power supply problem and the dryer may continue to run while the heater is disabled. A PF code means the cycle was interrupted by a power loss. If there is no code at all, treat the symptom as a component or airflow or power interruption rather than a specific fault code.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Restricted venting or lint buildup** Blocked lint screen, clogged vent hose, or crushed ductwork causes overheating and triggers the safety shutoff.
@@ -61,9 +59,9 @@ If your appliance also shows a code on the display, these match this problem:
 - [Amana Dryer F02 error code](/posts/amana-dryer-f02-error-code/)
 - [Amana Dryer F1 E1 error code](/posts/amana-dryer-f1-e1-error-code/)
 - [Amana Dryer F1 E4 error code](/posts/amana-dryer-f1-e4-error-code/)
-- [Amana Dryer F1E3 error code](/posts/amana-dryer-f1e3-error-code/)
-- [Amana Dryer F1E5 error code](/posts/amana-dryer-f1e5-error-code/)
-- [Amana Dryer F20 error code](/posts/amana-dryer-f20-error-code/)
+- Amana Dryer F1E3 error code
+- Amana Dryer F1E5 error code
+- Amana Dryer F20 error code
 - [Amana Dryer F22 error code](/posts/amana-dryer-f22-error-code/)
 - [Amana Dryer F23 error code](/posts/amana-dryer-f23-error-code/)
 - [Amana Dryer F24 error code](/posts/amana-dryer-f24-error-code/)

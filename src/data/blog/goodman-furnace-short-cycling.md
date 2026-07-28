@@ -20,8 +20,6 @@ Short cycling means your Goodman furnace starts, runs for a brief period, then s
 
 This is a symptom, not a specific error code. The underlying problem is usually a safety shutdown or control interruption. The furnace detects overheating, flame loss, or another unsafe condition and stops the cycle to protect itself. Common triggers include blocked airflow, thermostat issues, flame sensor problems, or safety limit trips.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty air filter or restricted airflow** A clogged filter forces the heat exchanger to overheat, tripping the high-limit safety switch and shutting the furnace down before the cycle completes.
@@ -62,17 +60,10 @@ If your appliance also shows a code on the display, these match this problem:
 - [Goodman Furnace 5 Flash error code](/posts/goodman-furnace-5-flash-error-code/)
 - [Goodman Furnace E1 error code](/posts/goodman-furnace-e1-error-code/)
 - [Goodman Furnace E2 error code](/posts/goodman-furnace-e2-error-code/)
-- [Goodman Furnace E3 error code](/posts/goodman-furnace-e3-error-code/)
+- Goodman Furnace E3 error code
 - [Goodman Furnace Ee2 error code](/posts/goodman-furnace-ee2-error-code/)
 - [Goodman Furnace Ef error code](/posts/goodman-furnace-ef-error-code/)
 
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the short cycling continues after you have replaced the filter, cleared all vents, and cleaned the flame sensor. Gas-pressure testing, inducer-motor diagnostics, control-board troubleshooting, and vent-system inspection require gauges and safety training. If you see standing water in the inducer, smell gas during the cycles, or the furnace locks out completely, shut off the unit at the service switch and call for service immediately. Furnace sizing and duct-design problems also require professional load calculations and airflow measurement. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Goodman Furnace Won't Turn On - Causes & Fix](/posts/goodman-furnace-wont-turn-on/)
-- [Goodman Heat Pump E7 Error Code - Causes & Fix](/posts/goodman-heat-pump-e7-error-code/)
-- [Goodman GMVC96 Furnace Problems & Error Codes](/posts/goodman-gmvc96-furnace-gas-residential-problems/)
-- [Goodman GMS96 Error Codes — Fault Code Guide](/posts/goodman-gms96-error-codes/)

@@ -17,8 +17,7 @@ money_part: "Touch panel / keypad assembly"
 part_price: "$25-80"
 ---
 
-## Samsung Microwave C-d0 Error Code — What It Means
-
+## What this code means
 The C-d0 code on Samsung microwaves indicates the control board has detected a touch key or button being held down for an extended period, or that the touch panel is continuously sending an input signal. This is not a cooking-circuit or high-voltage fault. Instead, the microwave thinks a button is pressed when it should not be, usually because of moisture, grease, residue on the control panel, or a physically stuck membrane key.
 
 The error can also appear if the touch panel assembly itself has failed internally, causing false signals even when the surface is clean and no button is visibly stuck. Door-latch interference is mentioned in some troubleshooting contexts but is secondary to keypad and touch-panel causes in the majority of reported cases.
@@ -26,8 +25,6 @@ The error can also appear if the touch panel assembly itself has failed internal
 ## Before You Replace Anything
 
 Many people replace the main control board first, assuming an electronic failure. Before ordering any board, clean the touch panel thoroughly, dry it completely, and perform a power reset. Most C-d0 codes clear once the panel surface is clean or the stuck key is freed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

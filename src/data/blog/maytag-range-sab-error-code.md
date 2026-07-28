@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Oven control board (electronic clock/control)"
 ---
 
-## Maytag Range SAB Error Code — What It Means
-
+## What this code means
 SAB, Sab, 5AB, 5A6, or 5Ab on your Maytag range display is not a fault code. It means Sabbath Mode has been activated. In this mode the oven intentionally limits operation to comply with religious observance requirements. Only the Bake cycle will work. All other cooking and cleaning functions are disabled. The control will not sound tones, will not display temperature changes during use, and the oven light and heating behavior are altered. This is a control setting, not a hardware problem.
 
 Maytag's product documentation lists these displays as the indication that the range has entered Sabbath Mode. The most common reason you see this code is that the mode was turned on by accident during normal use or intentionally by another user. Your owner's manual provides the exact entry and exit procedure for your specific model. Once you exit Sabbath Mode using the correct key sequence, all normal oven functions, tones, display features, and cleaning cycles will return.
@@ -25,8 +24,6 @@ Maytag's product documentation lists these displays as the indication that the r
 ## Before You Replace Anything
 
 Homeowners sometimes call for service or consider replacing the control board thinking the oven is broken. Check your owner's manual and try the Sabbath Mode exit procedure before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

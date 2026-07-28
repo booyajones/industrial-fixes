@@ -17,8 +17,7 @@ free_checks:
   - "Download or retrieve the correct installation and service manual for that model from the Weil-McLain website or your installer."
 ---
 
-## Weil-McLain A102 Error Code — What It Means
-
+## What this code means
 A102 does not appear in published Weil-McLain boiler fault code tables. Weil-McLain controls use onboard diagnostics and fault history screens to display error numbers, but the exact code definitions and corrective actions are specific to each model and control platform. A102 has been documented as a Rheem water heater alarm in other contexts, so cross-brand confusion is possible if you are reading the wrong manual.
 
 To identify the true fault, locate your boiler's exact model number (usually on a data plate on the jacket or inside the burner door), then retrieve the fault history from the control display and match the code to the table in that model's installation and service manual. Do not attempt repair based on generic code lists, because the same letters can mean different things on different platforms.
@@ -26,8 +25,6 @@ To identify the true fault, locate your boiler's exact model number (usually on 
 ## Before You Replace Anything
 
 Do not replace any component until you confirm the code is correct for your exact Weil-McLain model. Technicians sometimes swap igniters, flame sensors, or gas valves based on a misread display or the wrong manual, wasting hundreds of dollars on parts that were never the problem.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician immediately if you cannot locate a Weil-McLain manual that lists A102, if the boiler is actively locked out or venting abnormally, or if you smell gas. Boiler diagnostics involve gas piping, combustion analysis, and sometimes high-voltage or low-voltage wiring that require specialized tools and training. A technician will bring the correct manuals, a combustion analyzer, and a multimeter to identify the true fault, verify safe operation, and replace only the failed component with the manufacturer-specified part number. Attempting repair without the correct code definition risks further damage, voided warranty, and unsafe operation.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain A85 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a85-error-code/)
-- [Weil-McLain Boiler Error Code E01 — Lockout Fix](/posts/weil-mclain-e01-error-code/)
-- [Weil-McLain A83 Error - Causes & Fix](/posts/weil-mclain-boiler-a83-error-code/)
-- [Weil-McLain A27 Error - Causes & Fix](/posts/weil-mclain-boiler-a27-error-code/)

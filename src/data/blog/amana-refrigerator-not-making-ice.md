@@ -19,8 +19,6 @@ An Amana refrigerator that stops making ice is usually not displaying any error 
 
 The manufacturer directs technicians to verify that the ice maker is turned on, the water supply is connected and open, the filter is installed correctly, and the bin is seated properly before moving to component-level testing or replacement.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Ice maker accidentally turned off** The ice maker switch or control arm was moved to the off position and the unit stopped cycling.
@@ -54,15 +52,15 @@ The manufacturer directs technicians to verify that the ice maker is turned on, 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Amana Refrigerator Ci error code](/posts/amana-refrigerator-ci-error-code/)
-- [Amana Refrigerator D7 error code](/posts/amana-refrigerator-d7-error-code/)
-- [Amana Refrigerator D8 error code](/posts/amana-refrigerator-d8-error-code/)
-- [Amana Refrigerator D9 error code](/posts/amana-refrigerator-d9-error-code/)
-- [Amana Refrigerator Ec40 error code](/posts/amana-refrigerator-ec40-error-code/)
-- [Amana Refrigerator F1 error code](/posts/amana-refrigerator-f1-error-code/)
-- [Amana Refrigerator If error code](/posts/amana-refrigerator-if-error-code/)
-- [Amana Refrigerator It error code](/posts/amana-refrigerator-it-error-code/)
-- [Amana Refrigerator Po error code](/posts/amana-refrigerator-po-error-code/)
+- Amana Refrigerator Ci error code
+- Amana Refrigerator D7 error code
+- Amana Refrigerator D8 error code
+- Amana Refrigerator D9 error code
+- Amana Refrigerator Ec40 error code
+- Amana Refrigerator F1 error code
+- Amana Refrigerator If error code
+- Amana Refrigerator It error code
+- Amana Refrigerator Po error code
 
 ## When to Call a Pro
 

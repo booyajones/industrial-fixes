@@ -14,8 +14,6 @@ tags:
 
 Carrier Infinity error code 179 is a communication fault. It means the Infinity thermostat has lost contact with one or more system components — most often the furnace control board, air handler, or outdoor unit. The Infinity system uses a two-wire communication bus called the **Infinity System Bus**, and error 179 fires when that bus goes silent.
 
-[Jump to Fix](#how-to-fix-carrier-infinity-error-179)
-
 ## What Does Carrier Infinity Error 179 Mean?
 
 The Carrier Infinity touch thermostat displays error 179 when it cannot establish or maintain communication with a connected system component. You may also see related messages like:
@@ -150,18 +148,3 @@ The error clears automatically when communication is restored — there's no man
 
 **Does error 179 mean my Carrier Infinity system is broken?**
 Not necessarily. The most common cause is a loose wire that reseating fixes in 10 minutes. Start with the simplest check (power cycle, inspect terminal connections) before assuming you need a $400 board.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier Furnace Blowing Cold Air - Causes & Fix](/posts/carrier-furnace-blowing-cold-air/)
-- [Carrier 48XLC Packaged Unit Error Codes — Fault Code Diagnostic Guide](/posts/carrier-48xlc-error-codes/)
-- [Carrier Furnace Blower Won't Shut Off - Causes & Fix](/posts/carrier-furnace-blower-wont-shut-off/)
-- [Carrier Infinity XC21 Error Codes — Most Common Faults and Fixes](/posts/carrier-xc21-error-codes/)

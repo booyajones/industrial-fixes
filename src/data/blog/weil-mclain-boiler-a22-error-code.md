@@ -17,8 +17,7 @@ free_checks:
   - "Check that the room thermostat is calling for heat and that all manual reset limit switches on the boiler are in the run position."
 ---
 
-## Weil-McLain Boiler A22 Error Code — What It Means
-
+## What this code means
 A22 is not a universal error code across all Weil-McLain boiler families. The exact meaning depends on your specific boiler model and the control platform installed. Weil-McLain uses different code systems across product lines, and the manufacturer's published materials do not define A22 generically. Your model's installation and service manual will list the fault codes and their meanings on a table specific to that control board.
 
 In general, Weil-McLain boilers monitor inputs such as the room thermostat call, air pressure switch status, boiler limit circuit, and flame-proving signals. When any of these inputs fall outside the expected range during the boiler's sequence of operation, the control generates a fault code on the display. Without your exact model number, the safest approach is to retrieve the fault history from the control, cross-reference the code in your manual, and then verify the chain of inputs the boiler actually uses.
@@ -26,8 +25,6 @@ In general, Weil-McLain boilers monitor inputs such as the room thermostat call,
 ## Before You Replace Anything
 
 Many technicians replace the main control board when the real problem is a failed pressure switch, limit switch, or thermostat wire. Always test each input signal at the board terminals with a multimeter before ordering a new control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you cannot locate the A22 definition in your manual, if the fault persists after checking thermostat and limit circuits, or if you are uncomfortable working with gas piping and high-voltage controls. A technician has the Weil-McLain service software and fault-history tools to read the control's internal logs, measure combustion parameters, and verify that the burner sequence matches factory specifications. Gas-fired boiler work also requires proper venting, combustion-air calculations, and sometimes local permits, so professional service is the safest and code-compliant path when the cause is not immediately clear.
 
 **Rough cost:** A pro service call runs about $150-400 depending on the part and labor time.
-
-## See Also
-
-- [Weil-McLain E02 Error Code — Causes & Fix](/posts/weil-mclain-e02-error-code/)
-- [Weil-McLain A47 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a47-error-code/)
-- [Weil-McLain E03 Error Code — Causes & Fix](/posts/weil-mclain-e03-error-code/)
-- [Weil-McLain Ultra Series Boiler Error Codes: Complete Guide](/posts/weil-mclain-ultra-series-codes/)

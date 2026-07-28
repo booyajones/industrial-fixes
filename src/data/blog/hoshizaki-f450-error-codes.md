@@ -17,8 +17,6 @@ money_part: "Gearmotor"
 
 The Hoshizaki F-450 is a flake ice machine producing approximately 450 pounds of flake ice per day. It uses the same Hoshizaki HS Series diagnostic system found across the flaker product line. The F-450 features a continuous auger-driven flaking evaporator rather than the batch-harvest cycle used in Hoshizaki's cube ice machines. Faults are reported by error codes displayed on the front panel or through a sequence of LED flashes on the diagnostic board.
 
-[Jump to Fix](#fix)
-
 ## Hoshizaki F-450 Error Code Reference
 
 | Code | Fault |
@@ -64,18 +62,3 @@ The Hoshizaki F-450 is a flake ice machine producing approximately 450 pounds of
 ## When to Call a Pro
 
 Flaker ice machines have unique service requirements compared to cube machines — evaporator descaling requires specific chemistry and procedures to avoid damaging the stainless evaporator barrel. Refrigerant service on R-404A or R-448A requires EPA 608 certification. Auger shaft seal replacement requires partial disassembly of the refrigerant circuit and should be performed by a certified Hoshizaki service technician.
-
-## Related Articles
-
-- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
-- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)
-- [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
-- [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)
-
-## See Also
-
-- [Hoshizaki E4 Error Code — Causes & Fix](/posts/hoshizaki-e4-error-code/)
-- [Hoshizaki KM-330 Error Codes — Fix Guide](/posts/hoshizaki-km-330-error-codes/)
-- [Hoshizaki E6 Error Code — Causes & Fix](/posts/hoshizaki-e6-error-code/)
-- [Hoshizaki Ice Machine E8 Error Code — Causes & Fix](/posts/hoshizaki-e8-error-code/)

@@ -13,13 +13,10 @@ money_part: "GA800 control board (PCB)"
 most_likely_cause: "Code misidentification"
 ---
 
-## Yaskawa GA800 E04 Fault Code — What It Means
-
+## What this code means
 E04 does not appear in the verified Yaskawa GA800 fault and alarm tables found in the manufacturer's documentation. Yaskawa distinguishes between faults, alarms, and errors, and each code corresponds to a specific condition or component failure. If your keypad displays E04, verify that the code is not a similar designation like ER-04 or E.04, or confirm that it matches another Yaskawa fault family. Some unverified technician sources suggest E04 may relate to a line-to-line resistance error during motor autotuning, indicating autotune results fall outside the acceptable parameter range, but this is not confirmed in official GA800 materials.
 
 Because the GA800 manual does not list E04, you should treat this as an unidentified display or a possible entry error. Record the exact code, drive model, specification number, and serial number before proceeding. Yaskawa instructs technicians to remove the underlying cause and reset the drive after any fault or alarm. Without a verified definition, the best approach is systematic inspection of motor wiring, parameter settings, and autotune procedure, then contact Yaskawa support with your recorded information if the code persists.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ Because the GA800 manual does not list E04, you should treat this as an unidenti
 ## When to Call a Pro
 
 Call a qualified drives technician or Yaskawa factory support if you cannot locate E04 in your GA800 manual, if motor resistance measurements are unbalanced or out of spec, or if the code returns after parameter correction and wiring inspection. Yaskawa support requires the drive model, spec number, serial number, and exact fault code to provide diagnosis. If your application involves a process that cannot tolerate extended downtime, or if you lack a calibrated multimeter and familiarity with VFD parameter programming, professional service will save time and prevent incorrect part replacement.
-
-## See Also
-
-- [Yaskawa GA800 E20 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e20-fault-code/)
-- [Yaskawa GA800 E09 Fault - Causes & Fix](/posts/yaskawa-ga800-e09-fault-code/)
-- [Yaskawa VFD Fault UV1 — Causes & Fix](/posts/yaskawa-vfd-fault-uv1/)
-- [Yaskawa V1000 OC Fault — Overcurrent](/posts/yaskawa-v1000-fault-oc/)

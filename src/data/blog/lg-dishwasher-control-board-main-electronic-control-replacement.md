@@ -66,10 +66,3 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 If you measure 120 VAC at the board output during a commanded diagnostic test but the diverter motor still will not run and its resistance reads open or far outside 2,700 to 4,000 ohms, the motor is bad and you should replace it instead of the board. If you are uncomfortable working with live 120 VAC circuits during testing, or if the nE code persists after board replacement and you need to trace wiring or test the diverter position switch, call a qualified appliance technician to complete diagnosis and repair.
-
-## See Also
-
-- [LG Dryer E00 Error Code - Causes & Fix](/posts/lg-dryer-e00-error-code/)
-- [LG Mini Split CH04 Error Code - Causes & Fix](/posts/lg-mini-split-ch04-error-code/)
-- [LG Oven Door Won't Lock - Causes & Fix](/posts/lg-oven-door-wont-lock/)
-- [LG Refrigerator dS Error Code - Causes & Fix](/posts/lg-refrigerator-ds-error-code/)

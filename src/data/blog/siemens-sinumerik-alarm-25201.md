@@ -13,11 +13,8 @@ money_part: "SINAMICS S120 motor module"
 most_likely_cause: "Axis or spindle overload from machining conditions"
 ---
 
-## Siemens Sinumerik Alarm 25201 — What It Means
-
+## What this code means
 Alarm 25201 on a Siemens Sinumerik CNC (840D sl, 828D, 810D) indicates a drive overcurrent fault on a servo or spindle axis. In the Siemens SINAMICS S120 (or 611D on older machines) drive system, this alarm means the actual motor current exceeded the drive's maximum current limit. The drive protects its IGBTs by shutting down immediately when overcurrent is detected, generating alarm 25201 on the NCK (Numerical Control Kernel).
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Alarm 25201 on a Siemens Sinumerik CNC (840D sl, 828D, 810D) indicates a drive o
 ## When to Call a Pro
 
 Siemens SINAMICS drive replacement requires re-parameterization via STARTER or TIA Portal and motor commissioning. This must be done by a Siemens-trained technician — incorrect parameters cause axis runaway, damaged tooling, and machine damage.
-
-## Related Articles
-
-- [Siemens Sinumerik 828D Alarm Codes Guide — Complete Diagnostic Reference](/posts/siemens-828d-alarm-codes/)
-- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
-- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)
-- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
-- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)
-
-## See Also
-
-- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
-- [Siemens SINAMICS G120 F00001 Fault — Causes & Fix](/posts/siemens-sinamics-g120-fault-f00001/)
-- [Siemens VFD F1 Fault (SINAMICS V20 Overcurrent): Causes, Codes, Fix](/posts/siemens-sinamics-v20-f1-overcurrent/)
-- [Siemens SENTRON 3WL/3VA Fault Codes — Troubleshooting Guide](/posts/siemens-sentron-fault-codes/)

@@ -13,13 +13,10 @@ money_part: "Navien air intake filter"
 most_likely_cause: "Blocked intake or exhaust vent terminations"
 ---
 
-## Navien E110 Error Code — What It Means
-
+## What this code means
 The E110 error code on a Navien tankless water heater indicates abnormal air pressure or a combustion air and exhaust flow fault. The unit has detected that it cannot draw enough combustion air or vent exhaust gases properly, so it shuts down to prevent unsafe operation. This is an airflow proving failure, not a simple overheating alarm.
 
 In most field cases, the fault comes from something blocking the intake or exhaust path, a dirty internal air filter that restricts airflow, or a clogged condensate drain that upsets the pressure balance inside the unit. Less commonly, the air pressure sensor itself or an internal component has failed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ In most field cases, the fault comes from something blocking the intake or exhau
 ## When to Call a Pro
 
 Call a qualified Navien service technician if the E110 code returns after you have cleaned the air filter, cleared the vents, and checked the condensate drain. At that point the fault is likely internal, involving the air pressure sensor, wiring, control board, or heat exchanger condition. These components require diagnostic tools, manufacturer training, and access to genuine replacement parts. If you are not comfortable removing covers, working around gas connections, or handling electrical components, call for service from the start rather than attempting the repair yourself.
-
-## See Also
-
-- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
-- [Navien Error Code E007 — Causes & Fix](/posts/navien-error-code-e007/)
-- [Navien Tankless E013 Error Code - Causes & Fix](/posts/navien-tankless-e013-error-code/)
-- [Navien Flow Sensor Replacement - Signs & How-To](/posts/navien-water-heater-flow-sensor-flow-meter-tankless-replacement/)

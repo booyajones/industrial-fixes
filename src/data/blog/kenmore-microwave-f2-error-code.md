@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Microwave F2 Error Code — What It Means
-
+## What this code means
 The F2 error code on a Kenmore over-the-range microwave indicates a problem with the keypad (user interface) or its associated wiring. The control board has detected that the user interface is reporting a fault, which can stem from a failing membrane switch, a loose or corroded connector between the keypad and control board, or contamination inside the keypad assembly.
 
 This code is specific to microwave platforms. Do not confuse it with F2 codes on Kenmore ranges or ovens, which relate to temperature sensor or overtemperature issues and are completely different systems. On microwaves, F2 points to the touch-panel or its communication path to the main board.
@@ -26,8 +25,6 @@ This code is specific to microwave platforms. Do not confuse it with F2 codes on
 ## Before You Replace Anything
 
 Many people replace the main control board first when the real problem is a loose or corroded connector or a worn keypad membrane. Always perform a full power reset and inspect the wiring harness and connectors before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

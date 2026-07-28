@@ -56,14 +56,6 @@ Check oil level first. Then check the oil filter — a clogged filter on initial
 ## When to Call a Pro
 ELGi has a global dealer network. If faults persist after parts replacement, contact an ELGi authorized service center for airend diagnostics and controller configuration checks.
 
-## Related Articles
-
-- [Air Compressor Fault Codes: Complete Guide](/posts/air-compressor-fault-codes/)
-- [Atlas Copco Air Compressor Fault Codes — Complete Guide](/posts/atlas-copco-compressor-fault-codes/)
-- [BOGE Air Compressor Error Codes - Complete Guide](/posts/boge-compressor-error-codes/)
-- [Chicago Pneumatic Compressor Fault Codes — Complete Guide](/posts/chicago-pneumatic-compressor-faults/)
-- [CompAir Air Compressor Fault Codes - Complete Guide](/posts/compair-compressor-fault-codes/)
-
 ## More Elgi Compressor fault codes
 
 Compiled from manufacturer service manuals and authorized documentation.
@@ -86,7 +78,6 @@ Compiled from manufacturer service manuals and authorized documentation.
 | DPOF | Warning: differential pressure across the oil filter high (DPOF input open, feature enabled). | Clogged oil filter element. | Replace the oil filter element and reset the service indication. |
 | DPAF | Warning: differential pressure across the air filter high (DPAF input open, feature enabled). | Clogged inlet air filter element. | Replace the air filter element and reset the service indication. |
 
-
 ## How to troubleshoot Elgi Compressor
 
 Rotary screw compressors like ELGi's EG and EN series fail in a small number of predictable ways, and the Neuron controller almost always points you at the right one. Start by reading the exact fault text and the machine status recorded with it. The controller stores dated fault reports (up to 99 on the Neuron II), so before you touch anything, pull the fault history to see whether this is a first-time trip or a repeating pattern.
@@ -96,7 +87,6 @@ Work the most common failure mode first: heat. The large majority of hard shutdo
 Second, treat pressure and \"not developing\" faults as valve and separator problems. High-pressure trips usually mean the inlet/unloader or minimum-pressure valve is stuck, or the load/unload control is not venting the sump. Rising differential pressure across the air/oil separator is a wear item, not a reset item: when the controller flags high differential pressure, replace the separator element rather than clearing the alarm and continuing. Filter warnings (oil filter, air filter) are routine maintenance prompts and are safe to service and reset.
 
 Third, respect the electrical faults. Reverse rotation, phase failure, low voltage, and power-failure trips are supply and wiring issues that belong to a qualified electrician, and reverse rotation in particular can damage the airend if ignored. Always lock out and tag out before opening panels, never defeat the emergency stop or overload relays, and bleed system pressure before removing any cap or line. If a fault returns immediately after a correct parts replacement, or if you see airend or bearing symptoms (noise, vibration, oil consumption), stop and call an ELGi authorized service center for airend diagnostics and controller configuration checks.
-
 
 ## Frequently asked questions
 
@@ -119,4 +109,3 @@ These are start and load checks. Sump Pressure Not Developing means the sump did
 ### Should I fix a Reverse Rotation or Low Voltage fault myself?
 
 No. Reverse rotation, phase failure, low voltage, and power-failure trips are electrical supply issues. Reverse rotation especially can damage the airend if the machine runs. Have a qualified electrician verify phase sequence and incoming voltage under load rather than repeatedly resetting the fault.
-

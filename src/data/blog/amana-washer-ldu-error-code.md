@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Washer LdU Error Code — What It Means
-
+## What this code means
 LdU on Amana top-load washers means the lid cannot unlock. The washer has detected an object or obstruction preventing the lid from releasing. This is different from the Ld code, which signals a long-drain condition. The control is seeing a physical condition that blocks the lid-lock mechanism from opening normally.
 
 The most common trigger is an item sitting on top of the washer, such as a laundry basket, pressing down on the lid. The code can also appear if detergent buildup or debris has accumulated around the lid-lock area, or if the lid-lock assembly itself has failed and cannot release the strike.
@@ -26,8 +25,6 @@ The most common trigger is an item sitting on top of the washer, such as a laund
 ## Before You Replace Anything
 
 Many people replace the lid-lock assembly immediately. First remove all items from the washer top, inspect the lock area for debris or detergent buildup, and cycle the machine to verify the fault before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

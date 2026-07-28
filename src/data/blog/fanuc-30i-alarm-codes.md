@@ -17,8 +17,6 @@ money_part: "Encoder battery"
 
 The Fanuc 30i, 31i, and 32i controls are higher-end CNC platforms used on multi-axis machining centers, lathes, grinders, and complex OEM systems. These controls generate alarms from multiple layers, including CNC kernel, servo, spindle, PMC, and machine builder ladder logic. The same numeric alarm can have different practical causes depending on the machine builder implementation.
 
-[Jump to Fix](#fix)
-
 ## Common Fanuc 30i/31i/32i Alarm Reference
 
 | Alarm | Meaning |
@@ -63,18 +61,3 @@ The Fanuc 30i, 31i, and 32i controls are higher-end CNC platforms used on multi-
 ## When to Call a Pro
 
 These controls often run on high-value production equipment. Repeated 911, 920, or spindle serial alarms justify immediate involvement from a Fanuc-trained technician or the machine builder because incorrect recovery can cost parameters, offsets, and machine geometry.
-
-## Related Articles
-
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
-- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
-- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
-- [Fanuc Alarm 3 — Overtravel Minus Hardware Causes & Fix](/posts/fanuc-alarm-3-overtravel/)
-
-## See Also
-
-- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
-- [Fanuc Alarm 3 — Overtravel Minus Hardware Causes & Fix](/posts/fanuc-alarm-3-overtravel/)
-- [Fanuc OT Alarm — Software Overtravel (All Series)](/posts/fanuc-ot-alarm-soft/)
-- [Fanuc Alarm 6 Overtravel — Causes & Fix](/posts/fanuc-alarm-6-overtravel/)

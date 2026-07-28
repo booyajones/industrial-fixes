@@ -19,8 +19,6 @@ Standing water in the bottom is not itself a Frigidaire fault code. It describes
 
 Frigidaire's own support guidance points technicians toward the drain path for this symptom, not the wash system. Related drain error codes like i20, i40, and iF0 may appear on some models, but the standing water itself is a physical symptom that requires checking the filter, hose, disposal connection, and drain pump.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Blocked filter or sump screen** Food debris or foreign objects lodged in the filter basket or sump area prevent water from reaching the drain pump, and this is the most common cause of standing water covering the filter screen.

@@ -17,8 +17,6 @@ tags:
 
 When an LG dishwasher won't start, it means the machine is failing a basic start condition and cannot begin a wash cycle. If no error code appears on the display, the unit is typically blocked by power supply issues, control or child lock activation, a door that isn't fully latched, a closed water supply valve, or a failed internal component like the door switch or control board. If the display shows an IE code, the dishwasher detected insufficient water during the fill window and points to a water supply restriction, kinked inlet hose, clogged inlet filter, or low household pressure below 20 PSI. If an OE code is present, the unit has a drain blockage that can also prevent the cycle from starting normally.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Control lock or child lock enabled** The control panel is locked or delayed start is active, blocking any immediate start command until the lock or delay is cleared.
@@ -68,10 +66,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a professional if you are uncomfortable working with live 120-volt wiring, if the door latch and inlet valve both test good but the machine still will not start, or if you need to diagnose and replace the main control board or user interface. A qualified appliance technician has the model-specific wiring diagrams, signal-tracing tools, and replacement board inventory to isolate control failures quickly and restore operation safely.
-
-## See Also
-
-- [LG Range F3 Error Code - Causes & Fix](/posts/lg-range-f3-error-code/)
-- [LG Dryer Loud Banging - Causes & Fix](/posts/lg-dryer-loud-banging/)
-- [LG Mini Split CH44 Error Code - Causes & Fix](/posts/lg-mini-split-ch44-error-code/)
-- [LG Range SE Error Code - Causes & Fix](/posts/lg-range-se-error-code/)

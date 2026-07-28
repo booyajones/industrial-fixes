@@ -17,8 +17,7 @@ money_part: "Main control board (electronic control board)"
 part_price: "$80-200"
 ---
 
-## Maytag Dryer F20 Error Code — What It Means
-
+## What this code means
 The F20 error code on a Maytag dryer indicates a moisture-sensing or no-dry-detected type fault. Maytag's official guidance is to power-cycle the unit for five minutes and then run a Timed Dry cycle to see whether the code returns. The exact underlying fault is model-dependent, and Maytag's published dryer help page does not define the specific component failure. This code is being raised by the dryer's internal diagnostic system rather than a simple user setting issue.
 
 Do not confuse this dryer code with F20 on Maytag washers, which indicates a water-inlet problem. For dryers, the most credible causes are a temporary control glitch, sensor or airflow-related detection issues, or an electronic control problem. Without access to your exact model's service manual, more specific diagnosis cannot be confirmed.
@@ -26,8 +25,6 @@ Do not confuse this dryer code with F20 on Maytag washers, which indicates a wat
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board before checking for loose wiring or performing a simple five-minute power reset, which clears most temporary faults at no cost.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -16,8 +16,7 @@ money_part: "Electronic oven control board (EOC/ERC)"
 part_price: "$150-300"
 ---
 
-## Frigidaire F13 Error Code — What It Means
-
+## What this code means
 The F13 code on Frigidaire electric ranges and cooktops indicates an EEPROM failure. EEPROM is the non-volatile memory chip on the electronic control board that stores calibration data, model settings, and operating parameters. When the control board cannot read or verify this memory (a checksum error or corruption), it throws F13 and stops normal operation.
 
 This is not a temperature sensor fault. It is a control-board logic or data-integrity issue. The code can appear after a power surge, brownout, or age-related wear on the control electronics.
@@ -25,8 +24,6 @@ This is not a temperature sensor fault. It is a control-board logic or data-inte
 ## Before You Replace Anything
 
 Homeowners sometimes replace temperature sensors or bake elements when they see an F-code. F13 is a control-board or memory fault, not a sensor problem. Always try a full power reset before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

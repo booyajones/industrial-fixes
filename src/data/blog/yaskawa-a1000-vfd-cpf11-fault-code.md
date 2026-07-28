@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 CPF11 Fault — What It Means
-
+## What this code means
 CPF11 on a Yaskawa A1000 variable frequency drive is a RAM fault code in the CPF control-circuit error family. The drive's self-diagnostics have detected a hardware problem in the control circuit, specifically in the RAM or related control electronics. This is not a parameter setting or configuration issue. It is a hardware-level fault that typically requires component replacement if power cycling does not clear it.
 
 Yaskawa's troubleshooting documents classify CPF11 through CPF19 as control circuit errors caused by internal diagnostic failures. The fault may appear during startup or while the drive is running. Because the control circuit manages all drive logic and communications, a persistent CPF11 means the drive cannot reliably execute commands and should be repaired before returning to service.
@@ -24,8 +23,6 @@ Yaskawa's troubleshooting documents classify CPF11 through CPF19 as control circ
 ## Before You Replace Anything
 
 Technicians sometimes replace the operator keypad first because it is easier to access. Always power-cycle the drive and inspect the operator connector before replacing any parts. If the fault returns immediately after a clean power cycle, the control board or drive itself is the likely culprit, not the keypad.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa-authorized service provider immediately if the CPF11 fault appears. This is a hardware-level control circuit fault that requires diagnostic tools, replacement boards, and parameter backup and restoration. Attempting control board replacement without proper training risks further damage to the drive and connected equipment. A professional can also evaluate whether upstream power quality issues, electrical transients, or environmental factors contributed to the failure and recommend corrective measures. If your drive is under warranty or service contract, contact Yaskawa technical support before opening the enclosure.
 
 **Rough cost:** A pro service call runs about $400–1200 for control board replacement, $1500–3500 for drive replacement depending on model and horsepower.
-
-## See Also
-
-- [Yaskawa GA800 A.147 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-147-fault-code/)
-- [Yaskawa GA800 E03 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e03-fault-code/)
-- [Yaskawa GA800 A.105 Alarm - Causes & Fix](/posts/yaskawa-ga800-vfd-a-105-fault-code/)
-- [Yaskawa GA800 A.108 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-108-fault-code/)

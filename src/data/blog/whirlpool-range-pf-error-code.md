@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Main control board (electronic clock control)"
 ---
 
-## Whirlpool Range PF Error Code — What It Means
-
+## What this code means
 On a Whirlpool range, PF stands for power failure. The electronic control board displays this code when it detects that power to the appliance was interrupted or lost momentarily. This can happen during a utility outage, a tripped breaker, or even a brief voltage dip on your home's electrical supply. Whirlpool's official documentation confirms that PF (including variants like PF id=27 or PF id=30 on some models) means there has been a power failure.
 
 The code itself is not a fault, it is simply the control board telling you it had to reset. In most cases, pressing the Cancel button clears the display and the range resumes normal operation. Some models will also require you to reset the clock after clearing the code. If PF keeps coming back even when you know the power has not gone out, the underlying problem is usually a loose connection in the power supply path, unstable voltage reaching the appliance, or a failing control board that is overly sensitive to voltage fluctuations.
@@ -26,31 +25,13 @@ The code itself is not a fault, it is simply the control board telling you it ha
 
 Homeowners sometimes replace the oven temperature sensor thinking it caused PF, but a bad sensor typically affects heating and will not trigger a power-failure code. Check the breaker, plug, and terminal-block connections before ordering any electronic parts.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Tripped breaker or loose connection (~45%)** A tripped circuit breaker, loose plug at the wall receptacle, or corroded terminal-block lug at the back of the range interrupts power and causes the control to log PF.
-- **Utility power interruption (~25%)** A momentary outage, brownout, or voltage sag from the utility company resets the control board and triggers the PF message.
-- **Unstable or miswired supply voltage (~15%)** If the range is not receiving proper line-to-line and line-to-neutral voltages at the terminal block, the control may detect abnormal supply conditions and display PF.
-- **Failing main control board (~10%)** A control board that has been weakened by voltage spikes or age may incorrectly report PF even when incoming power is stable, or it may reset itself under load.
-- **Voltage sag under load (~5%)** When you turn on high-draw elements like oven or cooktop burners, the supply voltage may drop enough that the control interprets it as a power failure.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Did you have a recent storm, blackout, or did other appliances in your home lose power at the same time?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The PF code is likely just reporting that real outage. Press Cancel to clear it and reset the clock if needed. If the code does not return, no repair is needed.<br><strong>No:</strong> The interruption was probably local to the range circuit. Check your breaker panel for a tripped breaker and inspect the power cord and plug for damage or looseness.</div>
-</details>
-
-<details class="dtree"><summary>Does the PF code return within minutes or hours after you clear it, even when you are not using the range?</summary>
-<div class="dtree-body"><strong>Yes:</strong> You likely have a loose or corroded connection at the terminal block or a failing control board. Call a technician to measure voltage at the terminal block and inspect the wiring.<br><strong>No:</strong> The problem may be intermittent or load-related. Watch whether PF appears only when you use certain burners or the oven, which would point to voltage sag or a weak breaker.</div>
-</details>
-
-<details class="dtree"><summary>Have you recently moved the range or performed any work behind it?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The power cord or terminal-block connections may have been disturbed. Turn off the breaker and inspect the cord, plug, and terminal-block lugs for tightness and damage.<br><strong>No:</strong> The issue is more likely electrical supply or a component wearing out over time. Professional diagnosis of the incoming voltage and control board is the next step.</div>
-</details>
+- **Tripped breaker or loose connection** A tripped circuit breaker, loose plug at the wall receptacle, or corroded terminal-block lug at the back of the range interrupts power and causes the control to log PF.
+- **Utility power interruption** A momentary outage, brownout, or voltage sag from the utility company resets the control board and triggers the PF message.
+- **Unstable or miswired supply voltage** If the range is not receiving proper line-to-line and line-to-neutral voltages at the terminal block, the control may detect abnormal supply conditions and display PF.
+- **Failing main control board** A control board that has been weakened by voltage spikes or age may incorrectly report PF even when incoming power is stable, or it may reset itself under load.
+- **Voltage sag under load** When you turn on high-draw elements like oven or cooktop burners, the supply voltage may drop enough that the control interprets it as a power failure.
 
 ## Step-by-Step Fix {#fix}
 
@@ -73,5 +54,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a qualified appliance technician or electrician if the PF code returns after you have cleared it and checked the breaker. Diagnosing the root cause requires measuring line voltage at the terminal block with a multimeter while the range is under load, and that work must be done with the breaker on and exposed high-voltage connections. A technician will verify that your home's supply wiring, breaker, and receptacle are delivering stable 240 V power, and will test the control board's response to voltage fluctuations. If the terminal-block connections are corroded or the control board needs replacement, a pro has the tools and safety training to make those repairs correctly. You should also call a pro if you are uncomfortable working inside the back panel of the range or if local code requires a licensed electrician for any appliance wiring work.
-
-**Rough cost:** A pro service call runs about $150–350 for wiring repair or control-board replacement.

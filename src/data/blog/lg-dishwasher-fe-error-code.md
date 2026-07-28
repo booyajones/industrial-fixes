@@ -22,15 +22,12 @@ part_price: "$15-35 for a water inlet valve"
 no_buy_pct: "70%"
 ---
 
-## LG Dishwasher FE Error Code — What It Means
-
+## What this code means
 The FE error code stands for Fill Error. LG USA Support states that an FE error indicates your dishwasher has experienced a fill error and detected insufficient water in the tub. The machine has not reached the required water level within the specified fill time, or it cannot confirm that water has entered correctly. This is a slow-fill or no-fill problem, not an overflow condition, though owners sometimes confuse the two because the float may trip if the unit tries to compensate for restricted flow.
 
 ## Before You Replace Anything
 
 Homeowners often replace the water inlet valve first, but a clogged mesh filter at the valve inlet or a partially closed supply valve is the usual culprit. Clean the filter and verify full valve opening before buying a new valve.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a certified technician if you have confirmed the supply valve is open, the filter is clean, household pressure is above 20 PSI, and the inlet valve tests within spec, yet the FE error persists. The float switch or pressure sensor may require disassembly of the tub base, and the control board may need diagnostic software to verify the fill-signal circuit. Also call a pro if you are uncomfortable working with live electrical connections or if the machine is under warranty, since DIY work can void coverage.
 
 **Rough cost:** DIY runs about $15-50 in parts if you need a new inlet valve, 30-60 min. A pro service call runs about $150-250 for a service call and valve replacement.
-
-## See Also
-
-- [LG Washer dE Error Code - Causes & Fix](/posts/lg-washer-de-error-code/)
-- [LG Washer CL Error Code - Causes & Fix](/posts/lg-washer-cl-error-code/)
-- [LG Dryer Won't Stop - Causes & Fix](/posts/lg-dryer-wont-stop/)
-- [LG Dryer E1 Error Code - Causes & Fix](/posts/lg-dryer-e1-error-code/)

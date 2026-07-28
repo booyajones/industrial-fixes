@@ -13,11 +13,8 @@ money_part: "Ignition electrode"
 most_likely_cause: "No gas or inadequate gas supply"
 ---
 
-## Rinnai Error Code 11 — What It Means
-
+## What this code means
 Rinnai **Error Code 11** on a tankless water heater means **no ignition** — the unit attempted to light the burner but could not detect a flame within the trial-for-ignition period. The unit tried to ignite (you may have heard clicking), but the flame sensor (ionization rod) did not detect a flame, and the unit locked out. Error 11 is one of the most common Rinnai service codes and in many cases is caused by a simple gas supply issue rather than a failed component.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Rinnai **Error Code 11** on a tankless water heater means **no ignition** — th
 ## When to Call a Pro
 
 If gas is confirmed at the unit, the electrode and flame sensor are clean, and Error 11 persists, the gas valve may not be opening fully or gas supply pressure may be insufficient. Both require a licensed gas technician with a manometer and the Rinnai service manual's pressure specifications.
-
-## Related Articles
-
-- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
-- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
-- [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
-- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)
-- [Rinnai Error Code 16 — Causes & Fix](/posts/rinnai-error-code-16/)
-
-## See Also
-
-- [Rinnai Error Code 10 — Condensate / Exhaust Blockage / Fan Motor Fault Fix](/posts/rinnai-error-code-10/)
-- [Rinnai Error Code 32 — Causes & Fix](/posts/rinnai-error-code-32/)
-- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
-- [Rinnai I120CN Tankless Water Heater Error Codes: Complete Guide](/posts/rinnai-i120cn-error-codes/)

@@ -13,13 +13,10 @@ money_part: "Input line fuses"
 most_likely_cause: "Blown input fuse or tripped breaker"
 ---
 
-## Siemens Micromaster F0020 — What It Means
-
+## What this code means
 F0020 on a Siemens Micromaster 440 VFD indicates a mains phase missing fault. The drive does not detect all three incoming supply phases while pulses are enabled and the drive is loaded. In plain terms, one of the three input power phases is absent or the supply is severely imbalanced, so the inverter shuts down to protect itself. The fault occurs only when the drive is running under load, not during idle or standby.
 
 This is a supply-side issue in the vast majority of cases. The drive expects a three-phase supply at L1, L2, and L3. If one phase is open, the internal monitoring trips F0020 and the inverter switches off. Once you correct the upstream supply problem and restore all three phases, you can reset the fault through the drive's normal reset procedure.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ This is a supply-side issue in the vast majority of cases. The drive expects a t
 ## When to Call a Pro
 
 Call a licensed electrician or drive specialist if you are not trained in three-phase power troubleshooting or if your facility safety rules require qualified personnel for energized diagnostics. Also call a professional if you have confirmed balanced three-phase voltage at the drive terminals but F0020 will not clear after reset. That points to an internal drive fault requiring manufacturer service or replacement. Finally, if the fault traces back to the utility supply or service entrance, contact your utility company and an electrical contractor to coordinate the repair safely.
-
-## See Also
-
-- [Siemens Micromaster F0035 - Causes & Fix](/posts/siemens-micromaster-vfd-f0035-fault-code/)
-- [Siemens Micromaster F0011 - Causes & Fix](/posts/siemens-micromaster-f0011-fault-code/)
-- [Siemens G120 F01625 - Causes & Fix](/posts/siemens-g120-f01625-fault-code/)
-- [Siemens Micromaster F0015 - Causes & Fix](/posts/siemens-micromaster-vfd-f0015-fault-code/)

@@ -15,15 +15,12 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 CPF16 — What It Means
-
+## What this code means
 CPF16 is a Control Circuit Error fault on the Yaskawa A1000 VFD. The drive's internal microprocessor has detected a self-diagnostic failure within the control circuit (the logic board). This indicates the control board cannot complete its standard internal checks, pointing to hardware failure, data corruption, or a critical communication breakdown between the control board and other drive components. The drive will shut down output immediately and will not restart until the fault is cleared. This is a critical hardware fault, not a parameter or wiring issue.
 
 ## Before You Replace Anything
 
 Technicians sometimes suspect the operator keypad or cable first. Always perform a full power reset and check the operator connector before ordering a control board, since a loose or corroded keypad connector can trigger the same fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a licensed electrician or drive specialist for CPF16. This fault requires working inside the VFD enclosure with exposed high-voltage DC and AC bus bars, diagnostic tools to test logic circuits, and knowledge of drive architecture. Control board replacement demands proper ESD handling, firmware compatibility checks, and parameter backup and restore. If the drive powers critical machinery, a professional can minimize downtime and make sure the replacement is done safely and correctly. Do not attempt this repair unless you are trained and authorized to work on industrial motor drives.
 
 **Rough cost:** A pro service call runs about $400-1200 for control board replacement or $1500-4000 for drive replacement depending on model and rating.
-
-## See Also
-
-- [Yaskawa GA800 E23 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e23-fault-code/)
-- [Yaskawa GA800 E65 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e65-fault-code/)
-- [Yaskawa GA800 A.143 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-143-fault-code/)
-- [Yaskawa A1000 CPF13 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf13-fault-code/)

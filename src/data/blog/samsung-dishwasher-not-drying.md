@@ -19,8 +19,6 @@ When a Samsung dishwasher leaves dishes wet at the end of a cycle, Samsung treat
 
 Samsung does not publish a universal error code for poor drying. If a specific code appears on the display, that fault must be diagnosed separately. Most drying complaints on plastic-tub models trace back to missing rinse aid, disabled drying features, or improper loading that traps water on dishes.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Rinse aid is low or empty** Samsung states that dishes will not get dry without rinse aid, and the dispenser must be filled with liquid rinse aid and set to the correct level for your load size.

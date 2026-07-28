@@ -17,8 +17,7 @@ money_part: "LG oven temperature sensor (thermistor)"
 part_price: "$20-60"
 ---
 
-## LG Range F1 Error Code — What It Means
-
+## What this code means
 On LG ranges and ovens, the F1 error code indicates a thermistor-related fault. LG classifies numbered error codes 1, 2, and 3 as thermistor errors. The F1 fault specifically points to a problem with the oven temperature sensor (thermistor), which may be shorted, open, or reading out of range. LG's parts documentation describes one common scenario as the oven sensor being shorted for over one minute during cooking.
 
 The thermistor is a temperature-sensing resistor that tells the control board the oven's current temperature. When the sensor fails, sends incorrect readings, or loses connection, the control board cannot regulate heat safely and throws the F1 code. The error can also result from damaged wiring between the sensor and the control board, or less commonly from a failed main control board itself.
@@ -26,8 +25,6 @@ The thermistor is a temperature-sensing resistor that tells the control board th
 ## Before You Replace Anything
 
 Many people replace the main control board first without testing the sensor. Always measure the sensor's resistance and check the harness for damage before ordering a new board, since a bad sensor or loose connector causes most F1 codes.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working with 240-volt wiring, if the control board is difficult to access, or if you lack a multimeter and experience testing electrical components. A technician can quickly isolate whether the fault is in the sensor, harness, or board and has the tools to measure resistance and continuity safely. If the range is still under warranty or you need the repair documented for insurance or a landlord, a licensed service visit is the best path. For gas ranges, any work near the gas supply or burner systems should be handled by a qualified technician to avoid safety hazards.
 
 **Rough cost:** DIY runs about $20-60 for sensor, 30-60 min; $100-250 for control board if needed. A pro service call runs about $150-300 depending on part and labor.
-
-## See Also
-
-- [LG Washer Not Dispensing Detergent - Causes & Fix](/posts/lg-washer-not-dispensing-detergent/)
-- [LG Microwave F2 Error Code - Causes & Fix](/posts/lg-microwave-f2-error-code/)
-- [LG Refrigerator CO Error Code - Causes & Fix](/posts/lg-refrigerator-co-error-code/)
-- [LG Dishwasher AE Error Code - Causes & Fix](/posts/lg-dishwasher-ae-error-code/)

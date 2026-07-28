@@ -19,8 +19,6 @@ When an Amana dryer shuts off early, it means the cycle is ending before the loa
 
 The most common Amana code tied to this symptom is AF or F4E3, which means restricted airflow. Amana says this code appears when the lint screen or vent is clogged, or the vent is crushed, kinked, or has too many turns. You may also see PF for power failure, or L2 for low or no line voltage. If no code appears at all, the issue is likely a dirty moisture sensor, faulty door switch, bad timer, or control board problem causing the dryer to think the job is done early.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Restricted venting or lint buildup** The lint screen, vent hose, or exhaust duct is clogged, causing the dryer to overheat or trip airflow detection and shut off early.
@@ -60,9 +58,9 @@ If your appliance also shows a code on the display, these match this problem:
 - [Amana Dryer F02 error code](/posts/amana-dryer-f02-error-code/)
 - [Amana Dryer F1 E1 error code](/posts/amana-dryer-f1-e1-error-code/)
 - [Amana Dryer F1 E4 error code](/posts/amana-dryer-f1-e4-error-code/)
-- [Amana Dryer F1E3 error code](/posts/amana-dryer-f1e3-error-code/)
-- [Amana Dryer F1E5 error code](/posts/amana-dryer-f1e5-error-code/)
-- [Amana Dryer F20 error code](/posts/amana-dryer-f20-error-code/)
+- Amana Dryer F1E3 error code
+- Amana Dryer F1E5 error code
+- Amana Dryer F20 error code
 - [Amana Dryer F22 error code](/posts/amana-dryer-f22-error-code/)
 - [Amana Dryer F23 error code](/posts/amana-dryer-f23-error-code/)
 - [Amana Dryer F24 error code](/posts/amana-dryer-f24-error-code/)

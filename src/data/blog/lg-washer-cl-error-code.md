@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "LG washer control panel / touchpad assembly"
 ---
 
-## LG Washer CL Error Code — What It Means
-
+## What this code means
 On LG washers, CL is not a fault code. It stands for CHILD LOCK and means the control panel is intentionally locked during a cycle. When Child Lock is active, the washer will not accept most button inputs except power. This is a safety feature designed to prevent unintentional changes to cycle settings. The display may show 'CL' or a lock icon.
 
 The control panel remains locked until you disable the Child Lock feature using the correct button combination for your model. This is a normal operating state, not a component failure.
@@ -25,8 +24,6 @@ The control panel remains locked until you disable the Child Lock feature using 
 ## Before You Replace Anything
 
 Homeowners sometimes assume the control board or touchpad has failed when they see CL and the panel won't respond. Before replacing any parts, verify that Child Lock is simply active and follow the correct unlock procedure for your model.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -71,10 +68,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a professional if you have followed the correct unlock procedure for your model (pressing and holding the Child Lock button or button pair for 3 to 5 seconds), power-cycled the washer, and the CL code still will not clear or immediately returns. A technician can test the control panel button assembly and main control board with a multimeter to identify whether a component has failed. Also call if the control panel buttons are visibly damaged, cracked, or unresponsive in ways beyond the Child Lock feature, as this may require panel or board replacement.
-
-## See Also
-
-- [LG Refrigerator EIU Error Code - Causes & Fix](/posts/lg-refrigerator-eiu-error-code/)
-- [LG Washer Main Control Board Replacement - Signs & How-To](/posts/lg-washer-main-control-board-pcb-replacement/)
-- [LG Washer Won't Spin - Causes & Fix](/posts/lg-washer-wont-spin/)
-- [LG Range E5 Error Code - Causes & Fix](/posts/lg-range-e5-error-code/)

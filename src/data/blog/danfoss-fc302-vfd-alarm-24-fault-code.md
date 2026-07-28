@@ -13,13 +13,10 @@ money_part: "Danfoss FC 302 external cooling fan"
 most_likely_cause: "Blocked airflow around the drive"
 ---
 
-## Danfoss FC302 ALARM 24 — What It Means
-
+## What this code means
 ALARM 24 (or WARNING 24) on a Danfoss VLT AutomationDrive FC 302 indicates an external fan fault. The drive's fan-monitoring function has detected that the cooling fan is not running, not mounted correctly, or the fan-sense circuit is not reading properly. This is a protective alarm that prevents overheating damage to the drive's power components.
 
 When fan monitoring is enabled, the drive expects feedback from the external fan circuit. If that feedback is missing or incorrect, ALARM 24 trips. In some installations the fan monitoring can be disabled via parameter 14-53, but disabling it does not fix a broken fan and leaves the drive without proper cooling protection.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ When fan monitoring is enabled, the drive expects feedback from the external fan
 ## When to Call a Pro
 
 Call a qualified VFD technician or industrial electrician if you are not comfortable working with line-voltage drive electronics, if the fan and wiring check out but the alarm persists, or if you need to replace internal fuses or thermal sensors. A technician with Danfoss drive experience can safely diagnose fan-monitoring circuit issues, test the IGBT sensor, and make internal repairs. Also call a pro if the drive is part of a critical process system where downtime or incorrect repair could cause production loss or safety hazards.
-
-## See Also
-
-- [Danfoss FC302 Alarm 50 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-50-fault-code/)
-- [Danfoss FC302 Alarm 22 - Hoist Brake Fault Fix](/posts/danfoss-fc302-vfd-alarm-22-fault-code/)
-- [Danfoss FC302 VFD Alarm 28 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-28-fault-code/)
-- [Danfoss FC302 Alarm 32 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-32-fault-code/)

@@ -17,8 +17,7 @@ free_checks:
   - "Inspect all wire connections to the control board, sensors, and limit switches for looseness or corrosion."
 ---
 
-## Weil-McLain Boiler A26 Error — What It Means
-
+## What this code means
 Weil-McLain does not use a universal A26 fault code across all boiler families. The exact meaning of A26 depends on your specific boiler model and control system. Weil-McLain boilers use different diagnostic schemes depending on the product line, and each control module (such as the Aqua Balance or other integrated controllers) defines error codes in model-specific terms. Without the exact model number and manual, it is not possible to state what A26 signifies on your unit.
 
 The safest approach is to locate your boiler's service manual or the diagnostic table printed inside the control panel cover. Weil-McLain directs technicians to use the exact boiler manual for fault interpretation rather than relying on generic online code charts. Once you confirm the code definition for your model, typical causes include sensor faults (temperature or pressure), limit-switch trips, air-pressure-switch failures, or wiring issues in the control circuit. Record the error history if your control supports it, then follow the model-specific diagnostic tree to identify the failed component.
@@ -27,31 +26,13 @@ The safest approach is to locate your boiler's service manual or the diagnostic 
 
 Homeowners sometimes replace the control board when the real fault is a failed sensor or stuck pressure switch. Test the sensors and switches listed in your manual's A26 diagnostic tree before ordering a new control module.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Model-specific sensor fault (~30%)** Many Weil-McLain controls monitor supply or return temperature sensors, and a short, open circuit, or out-of-range reading will trigger an error unique to that model.
-- **Limit switch or high-limit trip (~25%)** The boiler limit circuit protects against overheating, and a tripped or failed limit switch can generate a fault code that varies by boiler family.
-- **Air pressure switch failure (~20%)** Combustion air-proving switches confirm the blower is running, and a stuck or faulty switch prevents burner operation and logs a control error.
-- **Wiring or connector issue (~15%)** Loose, corroded, or damaged wiring between the control board and field devices (sensors, switches, thermostat) can mimic sensor failures or create intermittent faults.
-- **Control board firmware or memory (~10%)** Rare cases involve a corrupted control module that displays spurious codes, resolved by a power reset or board replacement per the manufacturer's bulletin.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Does your boiler's display show any other error codes or fault history alongside A26?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Write down all displayed codes and cross-reference them in your model's manual. Multiple codes often point to a single root cause, such as a failed temperature sensor.<br><strong>No:</strong> Proceed to identify your exact boiler model and locate the A26 definition in the service manual or wiring diagram.</div>
-</details>
-
-<details class="dtree"><summary>Can you find the exact definition of A26 in your boiler's manual or control-panel label?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Follow the manufacturer's diagnostic steps for that specific fault. Test the sensor or switch named in the manual before replacing any part.<br><strong>No:</strong> Contact Weil-McLain technical support with your model and serial number to obtain the correct service literature and code interpretation.</div>
-</details>
-
-<details class="dtree"><summary>Have you recently lost power, experienced a brown-out, or reset the boiler?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Try a full power cycle (turn off the boiler switch or breaker for two minutes, then restore power) to clear transient control faults before diagnosing hardware.<br><strong>No:</strong> The fault is likely a persistent hardware issue. Schedule a qualified boiler technician to test the control inputs and outputs per the model's diagnostic tree.</div>
-</details>
+- **Model-specific sensor fault** Many Weil-McLain controls monitor supply or return temperature sensors, and a short, open circuit, or out-of-range reading will trigger an error unique to that model.
+- **Limit switch or high-limit trip** The boiler limit circuit protects against overheating, and a tripped or failed limit switch can generate a fault code that varies by boiler family.
+- **Air pressure switch failure** Combustion air-proving switches confirm the blower is running, and a stuck or faulty switch prevents burner operation and logs a control error.
+- **Wiring or connector issue** Loose, corroded, or damaged wiring between the control board and field devices (sensors, switches, thermostat) can mimic sensor failures or create intermittent faults.
+- **Control board firmware or memory** Rare cases involve a corrupted control module that displays spurious codes, resolved by a power reset or board replacement per the manufacturer's bulletin.
 
 ## Step-by-Step Fix {#fix}
 
@@ -74,12 +55,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a licensed boiler technician immediately if you cannot locate your boiler's service manual or if A26 reappears after a power cycle. Boiler controls integrate gas-valve sequencing, combustion air proving, and high-limit protection, and incorrect diagnosis can create safety hazards or code violations. A qualified technician has access to Weil-McLain's technical support, the correct diagnostic tools (multimeter, manometer, combustion analyzer), and the training to interpret model-specific fault codes. Professional service is also required if the fault involves the gas valve, burner assembly, venting system, or sealed combustion components. Always verify that your technician is familiar with Weil-McLain boilers and has the exact service literature for your model before authorizing parts replacement.
-
-**Rough cost:** A pro service call runs about $180-400.
-
-## See Also
-
-- [Weil-McLain Boiler A72 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a72-error-code/)
-- [Weil-McLain A28 Error - Causes & Fix](/posts/weil-mclain-boiler-a28-error-code/)
-- [Weil-McLain A63 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a63-error-code/)
-- [Weil-McLain Boiler A50 Error - Causes & Fix](/posts/weil-mclain-boiler-a50-error-code/)

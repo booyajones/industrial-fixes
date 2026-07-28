@@ -13,13 +13,10 @@ money_part: "Danfoss FC302 precharge/inrush circuit board"
 most_likely_cause: "Repeated power cycling"
 ---
 
-## Danfoss FC302 VFD Alarm 33 — What It Means
-
+## What this code means
 Alarm 33 on the Danfoss FC302 VFD is an inrush fault. The drive has detected too many power-ups in a short time, so the DC-link precharge circuit is not completing normally or the unit is being cycled too rapidly. This is a startup and precharge fault, not a motor overload problem.
 
 In practical terms, the drive's inrush protection has tripped because it did not have enough time to reset between power cycles, or there is an internal fault in the precharge path or DC-link circuit. If the alarm returns after proper cooldown and normal supply conditions, the cause is more likely an internal drive or power section issue than an external wiring or motor problem.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ In practical terms, the drive's inrush protection has tripped because it did not
 ## When to Call a Pro
 
 Call a qualified VFD technician or Danfoss service partner if Alarm 33 returns after you have allowed proper cooldown time, corrected any rapid power-cycling, and verified stable incoming power. Persistent inrush faults usually indicate an internal failure in the precharge relay, DC-link circuit, or power section that requires factory-level diagnostics and component replacement. Do not continue to reset and re-energize the drive if the fault repeats, as this can cause further damage to internal components.
-
-## See Also
-
-- [Danfoss FC302 Alarm 26 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-26-fault-code/)
-- [Danfoss FC302 Alarm 24 - Causes & Fix](/posts/danfoss-fc302-alarm-24-fault-code/)
-- [Danfoss VFD Fault OL — Causes & Fix](/posts/danfoss-vfd-fault-ol/)
-- [Danfoss AKC Controller Fault Codes - Complete Guide](/posts/danfoss-akc-controller-fault/)

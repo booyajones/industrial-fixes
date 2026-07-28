@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Impact switch"
 ---
 
-## Frigidaire Washer E4 Error Code — What It Means
-
+## What this code means
 On Frigidaire top-loading washers, the E4 error code signals that the unit is out of balance during the spin cycle. The washer will attempt to correct the imbalance automatically, but if it cannot resolve the condition after three attempts, it will stop and prompt you to redistribute the load.
 
 This code is tied to installation and load distribution rather than a component failure. Frigidaire support documentation identifies unbalanced loads, the washer not resting firmly on the floor, leveling-leg issues, and foam shipping support left in place as the primary causes of E4 errors.
@@ -25,8 +24,6 @@ This code is tied to installation and load distribution rather than a component 
 ## Before You Replace Anything
 
 Homeowners sometimes replace suspension rods or dampers thinking the washer is mechanically faulty. Before ordering parts, verify the washer is level, all four legs are firmly on the floor, and the load is balanced.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

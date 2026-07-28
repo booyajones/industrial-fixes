@@ -17,8 +17,7 @@ free_checks:
   - "Check that the boiler is in lockout (control LED flashing or steady fault indication) rather than normal standby, and try a single reset to see if the fault reappears."
 ---
 
-## Weil-McLain A60 Error Code — What It Means
-
+## What this code means
 Weil-McLain does not publish a standard **A60** error code in manufacturer documentation for its residential or commercial boiler lines. The code may be model-specific, a display artifact, or a misread fault. Weil-McLain controls typically store fault history in a diagnostics menu accessible through button sequences on the control board. The actual lockout or fault code will appear as a numeric fault code or text string that corresponds to entries in your model's installation and service manual.
 
 Because **A60** cannot be verified against manufacturer fault tables, the first step is to access the stored fault history on your boiler's control, write down the exact code and any accompanying text, then cross-reference it with the service section of your model's manual. Common Weil-McLain fault categories include ignition failure, flame-proving problems, low system pressure, proof-of-flow issues, limit trips, and venting or combustion faults, but each has a defined code that varies by control platform and model family.
@@ -26,8 +25,6 @@ Because **A60** cannot be verified against manufacturer fault tables, the first 
 ## Before You Replace Anything
 
 Homeowners often replace the control board when the real problem is a misread code or a simple sensor fault. Always retrieve the stored fault history from the control's diagnostics menu and compare it to the manual before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a licensed heating technician immediately if you cannot retrieve a stored fault code from the control's diagnostics menu, if the boiler is in lockout and you are unfamiliar with gas appliance troubleshooting, or if the fault recurs after a single reset. Gas-fired boiler repair requires proper combustion analysis, gas-pressure testing, and electrical diagnostics that are beyond typical DIY scope. A technician will use the control's fault history, measure gas pressure and flame current, inspect the burner and heat exchanger, and verify venting and airflow to identify the root cause. Do not repeatedly reset a lockout without identifying the fault, as ignition or flame-proving problems can create unsafe combustion conditions or carbon-monoxide risk.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain A41 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a41-error-code/)
-- [Weil-McLain A106 Error - Causes & Fix](/posts/weil-mclain-boiler-a106-error-code/)
-- [Weil-McLain A03 Error - Causes & Fix](/posts/weil-mclain-boiler-a03-error-code/)
-- [Weil-McLain Boiler A49 Error - Causes & Fix](/posts/weil-mclain-boiler-a49-error-code/)

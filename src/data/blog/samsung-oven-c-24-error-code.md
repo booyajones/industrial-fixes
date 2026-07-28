@@ -16,15 +16,12 @@ diy_or_pro: "diy"
 money_part: "Degreasing cleaner and soft cloth"
 ---
 
-## Samsung Oven C-24 Error Code — What It Means
-
+## What this code means
 The C-24 code appears when Samsung's temperature sensor detects that your oven cavity is heating faster than the normal rate during operation. Samsung classifies this as a temperature-related information code tied to abnormal heat rise. The oven recognizes that internal temperature is climbing more quickly than the control algorithm expects, which typically points to trapped heat rather than a failed heating element or runaway thermostat.
 
 ## Before You Replace Anything
 
 Homeowners sometimes assume the temperature sensor itself has failed and order a replacement probe, but Samsung documents that C-24 almost always traces to airflow restriction. Clear the vent and reset power before buying any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

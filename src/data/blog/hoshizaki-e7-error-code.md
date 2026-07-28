@@ -13,11 +13,8 @@ money_part: "Drain valve solenoid assembly"
 most_likely_cause: "Drain valve solenoid failed"
 ---
 
-## Hoshizaki E7 Error Code — What It Means
-
+## What this code means
 Hoshizaki error code E7 indicates a drain valve fault. During the harvest cycle, the drain valve opens to flush residual water and mineral-rich water from the sump before refilling with fresh water for the next freeze cycle. The control board monitors the drain valve's operation and logs E7 when the valve is not opening, not closing, or when the drain sequence doesn't complete within the expected time window. A failed drain valve leaves mineral-concentrated water in the sump, which accelerates scale buildup on the evaporator and reduces ice quality.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Hoshizaki error code E7 indicates a drain valve fault. During the harvest cycle,
 ## When to Call a Pro
 
 If the drain valve is new and functioning, but E7 returns after a few cycles, the drain system may have a blockage downstream of the valve preventing proper drainage within the board's timeout window. A technician can confirm drain flow rates and clear the system.
-
-## Related Articles
-
-- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
-- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)
-- [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
-- [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)
-
-## See Also
-
-- [Hoshizaki F-450 Flaker Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-f450-error-codes/)
-- [Hoshizaki F1 Error Code — Causes & Fix](/posts/hoshizaki-f1-error-code/)
-- [Hoshizaki vs Manitowoc Ice Machines — A Commercial Tech's Honest Comparison (2026)](/posts/hoshizaki-vs-manitowoc-ice-machines/)
-- [Hoshizaki KM-2000SAJ Ice Machine Error Codes - Full Diagnostic Guide](/posts/hoshizaki-km-2000saj-error-codes/)

@@ -16,15 +16,12 @@ diy_or_pro: "pro"
 money_part: "Whirlpool microwave keypad / membrane switch assembly"
 ---
 
-## Whirlpool Microwave E03 Error — What It Means
-
+## What this code means
 On most Whirlpool microwave platforms, E03 indicates a communication problem between the touch panel (keypad) and the main control board. The control has detected a fault in the keypad matrix, the ribbon cable that connects the UI to the board, or the board's keypad-reading circuitry. Because Whirlpool uses E3 for different errors on some models, always check your model's tech sheet or wiring diagram to confirm the exact meaning before ordering parts.
 
 ## Before You Replace Anything
 
 Many people replace the main control board when the real problem is a loose or dirty ribbon-cable connector at the keypad. Always inspect and reseat the ribbon cable first before replacing the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,11 +13,8 @@ money_part: "Motor (replacement)"
 most_likely_cause: "Failed motor winding insulation"
 ---
 
-## Yaskawa VFD Fault GF — What It Means
-
+## What this code means
 Yaskawa fault GF means ground fault — the drive detected that output current is flowing to ground rather than returning through the motor windings normally. On Yaskawa V1000, A1000, and GA700 drives, GF is detected by comparing the sum of currents on all three output phases; in a normal motor circuit, they sum to zero. When a ground fault exists, current leaks to ground and the three-phase sum is non-zero. The drive trips immediately to protect both the motor and personnel from dangerous ground current. GF is almost always caused by damaged motor winding insulation or a damaged output cable.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Yaskawa fault GF means ground fault — the drive detected that output current i
 ## When to Call a Pro
 
 Megohm meter testing and motor insulation analysis requires proper equipment and safety procedures. If the motor tests marginal (500 kΩ to 1 MΩ), a motor shop can do a more thorough surge test and rewinding assessment.
-
-## Related Articles
-
-- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
-- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
-- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
-- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
-- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)
-
-## See Also
-
-- [Yaskawa VFD Fault CF — Causes & Fix](/posts/yaskawa-vfd-fault-cf/)
-- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
-- [Yaskawa V1000 OC Fault — Overcurrent](/posts/yaskawa-v1000-fault-oc/)
-- [Yaskawa VFD Fault UV1 — Causes & Fix](/posts/yaskawa-vfd-fault-uv1/)

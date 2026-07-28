@@ -19,8 +19,7 @@ free_checks:
   - "Turn off power for 60 seconds and restore to see if the code clears or changes"
 ---
 
-## Weil-McLain Boiler A10 Error Code — What It Means
-
+## What this code means
 The A10 error code does not appear in Weil-McLain's official fault code system. Weil-McLain boilers typically use error codes starting with E (for example, E01 for ignition failure, E04 for low water cutoff, E10 for communication fault). If you see A10 on your display, you may be looking at a Vokera or Grant boiler (A10 indicates ignition failure or flame detection issue on those brands), misreading the display (Weil-McLain E10 means communication fault between the system controller and the boiler), or dealing with a third-party controller that is not using Weil-McLain's native codes.
 
 If your boiler is actually a Vokera unit displaying A10, the control board has locked out after three failed ignition attempts because it could not detect a flame. The most common culprits are a dirty flame sensor coated with soot, a faulty spark electrode, or a blocked air intake preventing the burner from firing. Always verify the exact brand and model of your boiler before troubleshooting, because following the wrong diagnostic path can waste time and money.
@@ -28,8 +27,6 @@ If your boiler is actually a Vokera unit displaying A10, the control board has l
 ## Before You Replace Anything
 
 Homeowners often assume A10 is a Weil-McLain code and replace the ignition module or gas valve without first confirming the boiler brand. Check the nameplate on the unit and verify the manufacturer before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified heating technician immediately if you cannot confirm the boiler brand, if you are uncomfortable working with gas appliances, or if cleaning the flame sensor and spark electrode does not clear the A10 code on a confirmed Vokera unit. Gas boiler diagnostics require proper tools (multimeters, manometers for gas pressure testing) and safety protocols. If your boiler is a Weil-McLain and displays E10, a technician should inspect the wiring and communication between the system controller and the boiler control board. Misdiagnosing the brand or fault can lead to ordering incorrect parts and creating new safety hazards.
 
 **Rough cost:** A pro service call runs about $150-300.
-
-## See Also
-
-- [Weil-McLain A100 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a100-error-code/)
-- [Weil-McLain E02 Error Code — Causes & Fix](/posts/weil-mclain-e02-error-code/)
-- [Weil-McLain E03 Error Code — Causes & Fix](/posts/weil-mclain-e03-error-code/)
-- [Weil-McLain A14 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a14-error-code/)

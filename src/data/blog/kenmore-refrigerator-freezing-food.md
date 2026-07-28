@@ -19,8 +19,6 @@ When your Kenmore refrigerator freezes food in the fresh-food section, you have 
 
 In most Kenmore models, cold air from the freezer flows into the fridge section through a damper. When that damper sticks open or fails, or when airflow is blocked by improper loading, cold spots form and food freezes. Less commonly, a faulty temperature sensor, control board, or (on older units) a stuck cold control thermostat can cause the same symptom.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Damper assembly stuck open or motor failed** If the damper door or damper motor fails in the open position, too much freezer air enters the refrigerator section and food freezes.

@@ -13,11 +13,8 @@ money_part: "Low-stage pressure switch"
 most_likely_cause: "Blocked or kinked pressure switch hose"
 ---
 
-## Rheem Furnace Error Code 57 — What It Means
-
+## What this code means
 Rheem furnace **error code 57** indicates a **low-stage pressure switch fault** — specifically, the low-stage pressure switch failed to close (or opened unexpectedly) during the call for heat. On two-stage Rheem furnaces, the inducer motor runs at low speed first and the low-stage pressure switch must close to confirm adequate draft before ignition. Code 57 means the control board saw the switch remain open when it should be closed, aborting the ignition sequence. The furnace will lockout after repeated failed attempts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Rheem furnace **error code 57** indicates a **low-stage pressure switch fault** 
 ## When to Call a Pro
 
 If the inducer runs at full speed, the hose is clear, and a new pressure switch still gives code 57, the flue vent may be partially blocked or the heat exchanger may have a crack affecting combustion airflow. Both require a tech with combustion analyzer and inspection camera.
-
-## Related Articles
-
-- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
-- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
-- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)
-- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
-- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)
-
-## See Also
-
-- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)
-- [Rheem Performance Platinum PDN Tankless Error Codes — Complete Fix Guide](/posts/rheem-performance-platinum-pdn-error-codes/)
-- [Rheem RPH Series Packaged Unit Error Codes: Complete Guide](/posts/rheem-rph-error-codes/)
-- [Rheem Split System Heat Pump Error Codes — RA14, RA15, RP15 Fault Guide](/posts/rheem-heat-pump-error-codes/)

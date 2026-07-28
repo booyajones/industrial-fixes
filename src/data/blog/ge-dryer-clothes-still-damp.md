@@ -19,8 +19,6 @@ When your GE dryer finishes a cycle but clothes are still damp, you are not seei
 
 On traditional standalone GE dryers, damp clothes can also result from a failed heating element, bad thermistor, dirty moisture sensor, blocked exhaust vent, or control board relay fault. Because there is no universal "damp clothes" error code, technicians rely on load testing, visual inspection, and entering service mode to retrieve any stored fault codes that point to the underlying part.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Insufficient water extraction in the wash spin** An unbalanced load or mixed fabrics leave clothes too wet before the dry cycle even starts, and the dryer cannot compensate for that excess moisture.

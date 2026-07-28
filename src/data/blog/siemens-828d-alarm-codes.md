@@ -17,8 +17,6 @@ money_part: "Encoder cable"
 
 The Siemens Sinumerik 828D is a compact CNC control used on modern mills, lathes, and machining centers. It integrates HMI, NCU functions, and drive diagnostics tightly with SINAMICS. Alarm numbers are typically five or six digits and are best interpreted with both the HMI alarm text and the SINAMICS drive status.
 
-[Jump to Fix](#fix)
-
 ## Common Siemens 828D Alarm Reference
 
 | Alarm | Meaning |
@@ -58,18 +56,3 @@ The Siemens Sinumerik 828D is a compact CNC control used on modern mills, lathes
 ## When to Call a Pro
 
 If the 828D shows repeated safety or drive-coupled alarms, a Siemens CNC or machine builder technician should review both the safety diagnostics and SINAMICS fault buffer. Guessing at safety faults is a bad idea on production CNC equipment.
-
-## Related Articles
-
-- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
-- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)
-- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
-- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)
-- [Siemens G120C VFD Fault Code Guide — Complete Diagnostic Reference](/posts/siemens-g120c-fault-codes/)
-
-## See Also
-
-- [Siemens SINAMICS V20 F4 Fault — Inverter Overtemperature Fix](/posts/siemens-sinamics-v20-f4-overtemp/)
-- [Siemens Sinumerik 840D Alarm 25000 — Causes & Fix](/posts/siemens-sinumerik-840d-alarm-25000/)
-- [Siemens G120C VFD Fault Code Guide — Complete Diagnostic Reference](/posts/siemens-g120c-fault-codes/)
-- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)

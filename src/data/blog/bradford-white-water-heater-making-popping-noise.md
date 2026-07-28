@@ -19,8 +19,6 @@ The popping noise is not an error code but a mechanical symptom caused by sedime
 
 This trapped steam reduces heat transfer efficiency and forces the heater to run longer. Over time, the localized overheating can damage the tank lining or accelerate anode rod failure. The problem is most common in areas with hard water and older systems that have not been flushed regularly.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Hard water mineral accumulation** High calcium and magnesium content in water precipitates out as solids when heated and settles at the tank bottom, the most common cause in all regions with hard water.

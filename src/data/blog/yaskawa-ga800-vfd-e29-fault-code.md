@@ -13,13 +13,10 @@ money_part: "Soft-charge bypass relay"
 most_likely_cause: "Failed soft-charge bypass relay"
 ---
 
-## Yaskawa GA800 E29 Fault — What It Means
-
+## What this code means
 The E29 fault on a Yaskawa GA800 variable frequency drive is a soft-charge answerback fault. The drive does not receive the expected confirmation that the soft-charge bypass relay closed correctly during the capacitor charging phase at startup. This indicates a problem in the precharge circuit or its feedback signal.
 
 The fault points to failure of the soft-charge bypass relay or contactor, or a control board issue preventing correct answerback detection. Yaskawa identifies the root cause as damage or failure in the relay or contactor on the soft-charge bypass relay circuit. If the fault persists after a power cycle, the relay path or control board will need replacement.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ The fault points to failure of the soft-charge bypass relay or contactor, or a c
 ## When to Call a Pro
 
 Call a qualified VFD technician or Yaskawa-authorized service provider if the fault persists after a simple power cycle, if you are not trained to work safely with high-voltage DC bus capacitors, or if you do not have the tools to measure relay operation and control board signals. E29 faults involve internal drive components and precharge circuits that require specific diagnostics and replacement procedures. If U4-06 shows relay maintenance life over 90%, replacement of the board or drive is recommended by the manufacturer and should be performed by trained personnel.
-
-## See Also
-
-- [Yaskawa GA800 F040 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f040-fault-code/)
-- [Yaskawa GA800 E98 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e98-fault-code/)
-- [Yaskawa A1000 OV Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ov-fault-code/)
-- [Yaskawa GA800 E02 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e02-fault-code/)

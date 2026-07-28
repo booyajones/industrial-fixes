@@ -13,11 +13,8 @@ money_part: "Rollout switch (manual reset)"
 most_likely_cause: "Blocked or restricted flue"
 ---
 
-## Trane 6 Flashes Error Code — What It Means
-
+## What this code means
 Six LED flashes on a Trane furnace control board indicates the rollout switch has tripped. The rollout switch is a thermal safety device mounted on or near the burner assembly. It opens if flame rolls out of the heat exchanger — typically caused by a blocked flue, a cracked heat exchanger, a restricted combustion air path, or an induced draft motor that can't maintain proper draft. A tripped rollout switch is a serious safety event and should not be ignored or bypassed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Six LED flashes on a Trane furnace control board indicates the rollout switch ha
 ## When to Call a Pro
 
 A tripped rollout switch that cannot be attributed to a blocked flue is a strong indicator of a cracked heat exchanger — a condition that poses carbon monoxide risk. Do not operate the furnace until a licensed technician performs a full heat exchanger inspection.
-
-## Related Articles
-
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-
-## See Also
-
-- [Trane XR13 Air Conditioner Error Codes — Fault Code Diagnostic Guide](/posts/trane-xr13-error-codes/)
-- [Trane XR14 Heat Pump Error Codes — Fault Code Diagnostic Guide](/posts/trane-xr14-error-codes/)
-- [Trane XE80 Furnace Error Codes — Fault Code Guide](/posts/trane-xe80-error-codes/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)

@@ -13,11 +13,8 @@ money_part: "NTC thermistor temperature sensor"
 most_likely_cause: "Failed NTC thermistor sensor"
 ---
 
-## Hill Phoenix Display Case E1 Error Code — What It Means
-
+## What this code means
 Hill Phoenix supermarket display cases use various controller platforms (Hill Phoenix ICC, Danfoss AK controllers, and case-mounted Dixell controllers depending on the generation and store configuration). On cases equipped with a dedicated case controller, E1 typically indicates a temperature sensor fault — the return air or discharge air sensor has failed, gone open circuit, or is reading outside its valid range. The controller cannot make temperature-based control decisions without a valid sensor reading, so it logs E1 and may switch to a failsafe operating mode (continuous refrigeration or fixed-time defrost).
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

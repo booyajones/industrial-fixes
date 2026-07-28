@@ -19,8 +19,6 @@ A GE washer that leaks water is showing a symptom, not a fault code. GE's publis
 
 GE specifically notes that a drain hose pushed too far into the standpipe can create back-pressure and cause flooding. Field technicians also look at the water inlet valve, internal drain hose, drain pump, and sometimes the transmission area when water lands on the drive belt.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door gasket contamination or damage** Soil, soap residue, fibers, or a torn gasket on front-load machines prevent the door from sealing properly during the cycle.
@@ -55,7 +53,7 @@ GE specifically notes that a drain hose pushed too far into the standpipe can cr
 
 Seeing a code on the display? These match this problem:
 
-- [Ge Washer E23 error code](/posts/ge-washer-e23-error-code/)
+- Ge Washer E23 error code
 
 ## When to Call a Pro
 

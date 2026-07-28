@@ -19,8 +19,6 @@ When your Kenmore refrigerator runs constantly, the compressor and fans stay on 
 
 The thermostat or electronic control is failing to end the cooling call, or the refrigerator is unable to satisfy the cooling demand because heat is not being removed efficiently. Commonly involved subsystems are the defrost system, evaporator fan, condenser fan, temperature sensing and control, and compressor start and control components.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Defrost failure with iced evaporator** A bad defrost heater, defrost thermostat, defrost timer, or control board allows frost buildup that blocks airflow and makes the unit run continuously.

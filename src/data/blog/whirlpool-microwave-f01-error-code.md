@@ -15,8 +15,7 @@ money_part: "Oven temperature sensor"
 most_likely_cause: "Failed oven temperature sensor"
 ---
 
-## Whirlpool Microwave F01 Error — What It Means
-
+## What this code means
 The F01 error code on a Whirlpool built-in microwave indicates a fault in the oven temperature sensor circuit. Whirlpool documentation identifies three areas where the problem may lie: the oven temperature sensor itself, the main control board, or the wiring and connectors between them. The microwave detects that temperature readings or continuity in the sensor loop are out of expected range, triggering the code to prevent unsafe operation.
 
 Whirlpool does not specify a single "most common" failure point for F01. Instead, technicians are instructed to inspect all three components (sensor, control, wiring) if the code persists after a power reset. This means any of those parts could be responsible, and systematic testing is the only way to pinpoint the actual fault.
@@ -24,8 +23,6 @@ Whirlpool does not specify a single "most common" failure point for F01. Instead
 ## Before You Replace Anything
 
 Many people replace the main control board first without testing the sensor or inspecting connectors. Check sensor resistance and inspect all wiring connections before ordering a control board, which can cost twice as much.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

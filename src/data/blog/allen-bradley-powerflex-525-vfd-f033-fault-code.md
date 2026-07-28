@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Allen-Bradley PowerFlex 525 F033 — What It Means
-
+## What this code means
 F033 on an Allen-Bradley PowerFlex 525 means the drive unsuccessfully attempted to restart after a fault for the number of times set in parameter A541 [Auto Rstrt Tries]. This fault is almost never the root problem. It is the result of an earlier fault condition that kept recurring until the auto-restart limit was hit and the drive locked out. The Rockwell fault table instructs you to correct the cause of the original fault and then manually clear F033.
 
 In practice, F033 appears when the drive detects a problem (such as undervoltage, motor overload, or a wiring fault), tries to restart automatically, hits the same problem again, and repeats the cycle until it exhausts the retry count. Your first job is to look at the fault history in the drive to find out what fault occurred before F033.
@@ -24,8 +23,6 @@ In practice, F033 appears when the drive detects a problem (such as undervoltage
 ## Before You Replace Anything
 
 Technicians sometimes replace the drive itself when F033 appears, but the fault is a symptom. Always read the fault history to identify the original fault (such as undervoltage, motor ground, or overload) before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drive technician if you are not familiar with reading VFD fault history, measuring three-phase power, or performing insulation-resistance tests on motor windings. F033 itself is a secondary fault that requires diagnostic skills to trace back to the original problem. If the fault history points to a recurring drive internal fault, the drive may need factory repair or replacement. Any work involving high-voltage connections, parameter programming, or motor megger testing should be performed by someone trained on Allen-Bradley drives.
 
 **Rough cost:** A pro service call runs about $200-600.
-
-## See Also
-
-- [Allen-Bradley PowerFlex 525 F048 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f048-fault-code/)
-- [Allen Bradley PowerFlex 753 F35 Fault — Causes & Fix](/posts/allen-bradley-powerflex-753-f35-fault/)
-- [Allen-Bradley PowerFlex 525 F073 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f073-fault-code/)
-- [Allen-Bradley PowerFlex 525 F042 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f042-fault-code/)

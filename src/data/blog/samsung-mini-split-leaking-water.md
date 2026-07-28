@@ -19,8 +19,6 @@ When your Samsung mini split is leaking water, the indoor unit is producing cond
 
 The indoor unit collects moisture from the air on its evaporator coil during cooling. That water is supposed to drip into a pan and flow out through a drain hose by gravity. If the drain line is clogged, the unit is tilted, or the hose is routed incorrectly, the water backs up and overflows into your living space.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged drain line or drain hole** Dust, mold, dirt, or algae builds up inside the drain pan or condensate line and blocks water flow.
@@ -54,10 +52,10 @@ The indoor unit collects moisture from the air on its evaporator coil during coo
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Samsung Mini Split E1 01 error code](/posts/samsung-mini-split-e1-01-error-code/)
-- [Samsung Mini Split E3 01 error code](/posts/samsung-mini-split-e3-01-error-code/)
-- [Samsung Mini Split E4 01 error code](/posts/samsung-mini-split-e4-01-error-code/)
-- [Samsung Mini Split E5 01 error code](/posts/samsung-mini-split-e5-01-error-code/)
+- Samsung Mini Split E1 01 error code
+- Samsung Mini Split E3 01 error code
+- Samsung Mini Split E4 01 error code
+- Samsung Mini Split E5 01 error code
 
 ## When to Call a Pro
 

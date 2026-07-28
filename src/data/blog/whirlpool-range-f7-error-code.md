@@ -22,8 +22,7 @@ part_price: "$50-100"
 no_buy_pct: "35%"
 ---
 
-## Whirlpool Range F7 Error Code — What It Means
-
+## What this code means
 On a Whirlpool range, F7 is not a single universal fault code. The most common variant is F7 E0, which signals a problem with the oven door latch assembly or the associated wiring. The exact meaning of an F7 code depends on the subcode displayed and your specific model number, so always check your unit's tech sheet or owner's manual to confirm the fault before ordering parts.
 
 Whirlpool's guidance for F7 E0 identifies either a failed door latch assembly, loose or damaged wiring at the latch connectors, or a temporary control fault that may clear after a power reset. The latch system is responsible for securing the door during self-clean cycles and reporting position to the control board. When the latch fails to move, binds, or the wiring connection is poor, the control cannot verify door status and throws the code.
@@ -31,8 +30,6 @@ Whirlpool's guidance for F7 E0 identifies either a failed door latch assembly, l
 ## Before You Replace Anything
 
 Many homeowners replace the main control board when they see any F-code. Before ordering a board, power down the range for one minute, check the door latch for mechanical binding, and inspect the latch wiring connectors for looseness or damage.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

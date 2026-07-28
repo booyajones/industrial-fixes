@@ -20,8 +20,6 @@ When a Goodman furnace shuts off during a heat call, the control board has stopp
 
 The most common causes are an open high limit switch from overheating (4 flashes), a pressure switch fault from blocked venting or condensate issues (3 flashes), a flame rollout limit trip from combustion problems (6 flashes), or ignition and flame-proving failures (1 flash). An 8-flash code can indicate an igniter relay fault or shorted hot surface igniter, but Goodman service bulletins say to check ground connections first because open or insufficient grounding often causes this code in the field.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty filter or blocked airflow tripping the high limit** A clogged filter, blocked return or supply registers, or dirty blower wheel restricts airflow and causes the heat exchanger to overheat, opening the high limit switch and shutting down the furnace.
@@ -62,17 +60,10 @@ If your appliance also shows a code on the display, these match this problem:
 - [Goodman Furnace 5 Flash error code](/posts/goodman-furnace-5-flash-error-code/)
 - [Goodman Furnace E1 error code](/posts/goodman-furnace-e1-error-code/)
 - [Goodman Furnace E2 error code](/posts/goodman-furnace-e2-error-code/)
-- [Goodman Furnace E3 error code](/posts/goodman-furnace-e3-error-code/)
+- Goodman Furnace E3 error code
 - [Goodman Furnace Ee2 error code](/posts/goodman-furnace-ee2-error-code/)
 - [Goodman Furnace Ef error code](/posts/goodman-furnace-ef-error-code/)
 
 ## When to Call a Pro
 
 Call a qualified HVAC technician for any work involving gas supply, burner assembly, igniter replacement, or flame rollout diagnosis. A rollout switch trip is a serious combustion safety event and should not be reset without professional inspection. If you are not comfortable working with 120-volt wiring, gas connections, or pressure diagnostics, or if the furnace continues to shut off after you have replaced the filter and checked venting, professional diagnosis with draft measurement and electrical testing is the correct next step. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Goodman Heat Pump E7 Error Code - Causes & Fix](/posts/goodman-heat-pump-e7-error-code/)
-- [Goodman GPH Series Packaged Unit Error Codes: Complete Guide](/posts/goodman-gph-error-codes/)
-- [Goodman E8 Error Code - Causes & Fix](/posts/goodman-heat-pump-e8-error-code/)
-- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)

@@ -13,11 +13,8 @@ money_part: "Flame sensor"
 most_likely_cause: "Dirty or oxidized flame sensor rod"
 ---
 
-## Rheem Furnace 7 Flashes Error Code — What It Means
-
+## What this code means
 Seven flashes on a Rheem furnace LED indicates a low flame signal — the flame sensor is detecting flame, but the microamp signal is too weak to meet the control board's minimum threshold for stable flame verification. This is different from a no-flame fault. The burners are actually lighting, but the sensor can't confirm flame strength adequately. Rheem's control board requires approximately 2–10 microamps through the sensor rod. When the signal is low, the board treats it as an unstable or marginal flame and may cycle off and on, eventually locking out.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Seven flashes on a Rheem furnace LED indicates a low flame signal — the flame 
 ## When to Call a Pro
 
 If the sensor is clean and the ground is solid but the signal is still low, a combustion analysis is needed. Low manifold pressure or combustion issues require a gas-rated technician with a manometer.
-
-## Related Articles
-
-- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
-- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
-- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)
-- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
-- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)
-
-## See Also
-
-- [Rheem RTGH-95DVLN Condensing Tankless Water Heater Error Codes](/posts/rheem-rtgh-95dvln-error-codes/)
-- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
-- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)
-- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)

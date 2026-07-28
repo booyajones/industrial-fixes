@@ -18,8 +18,7 @@ free_checks:
   - "Power-cycle the furnace once at the breaker or switch, then recheck the display or LED pattern"
 ---
 
-## Trane E15 Error Code — What It Means
-
+## What this code means
 There is no official Trane furnace error code labeled E15. Trane residential and light commercial furnaces use flash-count LED codes (1 through 8 flashes) or alphanumeric IFC codes, not E-prefixed codes. If you see E15 on your display, you may be looking at a different brand (such as Goodman or Rheem), a misread flash pattern, or a control panel from another manufacturer. The most common Trane codes that involve pressure switch, inducer, or ignition faults are 2 flashes (pressure switch stuck open), 3 flashes (pressure switch stuck closed), 6 flashes (inducer motor error), and 1 flash (ignition failure).
 
 Before troubleshooting, verify the exact model number on your furnace nameplate and consult the printed diagnostic chart on the furnace door or in your owner's manual. If the LED is blinking in a repeating pattern, count the number of flashes and match that to the Trane code list. If you truly see E15 displayed on a digital screen, double-check the brand and model to confirm it is a Trane unit and not a rebranded or compatible product.
@@ -27,8 +26,6 @@ Before troubleshooting, verify the exact model number on your furnace nameplate 
 ## Before You Replace Anything
 
 Many homeowners replace the control board thinking an unlisted code means board failure. First verify the exact flash count with power cycled once, check the model nameplate, and inspect vent pipes and pressure switch hoses for blockages or disconnects.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician whenever you cannot verify the exact brand and model of your furnace, when the code does not appear in the Trane diagnostic chart, or when you suspect a control board, gas valve, or inducer motor fault. Gas furnace work requires safe handling of natural gas or propane, proper venting inspection, and accurate electrical diagnostics. Technicians have manometers to measure gas pressure, multimeters to check transformer and inducer voltage (115 to 120V for inducers, 208 to 230V ±10 percent for transformers), and access to Trane technical support to confirm unlisted codes. If you have replaced a control board with an aftermarket unit or if wiring has been modified, professional diagnosis is the safest path to avoid misdiagnosis and wasted parts.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Trane Furnace Blowing Cold Air - Causes & Fix](/posts/trane-furnace-blowing-cold-air/)
-- [Trane XL20i Variable Speed Error Codes — Complete Guide](/posts/trane-xl20i-error-codes/)
-- [Trane / American Standard 4-Blink Error Code — Limit Circuit Trip Fix](/posts/trane-4-blink-error-code/)
-- [Trane XV80 Furnace Error Codes — Flash Code Diagnostic Guide](/posts/trane-xv80-error-codes/)

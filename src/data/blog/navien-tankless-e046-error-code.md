@@ -17,8 +17,7 @@ free_checks:
   - "Check all wire connections at the control board and high-limit sensor for loose or disconnected terminals"
 ---
 
-## Navien E046 Error Code — What It Means
-
+## What this code means
 Navien error code E046 has two conflicting definitions across different models and service guides. Some units define it as Condensate Overflow, meaning the condensate drain line is clogged or the trap is full and cannot drain properly. Other units define it as Abnormality in Limit Control, meaning the high-limit safety sensor has failed or detected an overheating condition and shut down the unit to prevent damage. You must verify which definition applies to your specific model by checking the unit display interpretation, consulting your service manual, or calling Navien Technical Support at 800-519-8794 with your serial number before attempting any repair.
 
 If the code means limit control failure, the unit is detecting a safety hazard where water temperature could rise dangerously high. If it means condensate overflow, water is not draining from the heat exchanger and the unit shuts down to prevent flooding or corrosion. Do not assume one definition fits all Navien tankless heaters.
@@ -26,8 +25,6 @@ If the code means limit control failure, the unit is detecting a safety hazard w
 ## Before You Replace Anything
 
 Technicians sometimes replace the high-limit sensor without verifying which E046 definition applies to the model or checking for scale buildup in the heat exchanger. Always confirm the fault definition with Navien support and test the sensor wiring and resistance before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a licensed technician if you cannot confirm the exact meaning of E046 for your model, if you are uncomfortable working with electrical components or testing sensors with a multimeter, or if the unit continues to display the error after clearing the drain line and checking wiring. A pro should also handle heat exchanger descaling if you have never performed the procedure, as improper flushing can damage internal components. If the unit shows signs of actual overheating such as steam or unusually hot water, shut off the unit immediately and call for service. Gas-fired appliances require professional diagnosis when safety sensors are involved.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Navien E030 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e030-error-code/)
-- [Navien E027 Error Code - Causes & Fix](/posts/navien-tankless-e027-error-code/)
-- [Navien E031 Error Code - Causes & Fix](/posts/navien-tankless-e031-error-code/)
-- [Navien Water Heater Water Too Hot - Causes & Fix](/posts/navien-water-heater-water-too-hot/)

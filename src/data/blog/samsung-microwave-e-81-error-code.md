@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Main control board (PCB)"
 ---
 
-## Samsung Microwave E-81 Error — What It Means
-
+## What this code means
 The E-81 code on a Samsung microwave indicates a communication open error. Samsung's official error-code tables list E-81 exactly that way, meaning an open circuit exists in the communication path between the user interface board and the main control board. This is not a heating, door, or sensor problem. It is a low-voltage control-side communication fault.
 
 Related codes in the same family include E-82 (communication short error) and E-83 (communication error). The E-81 designation points specifically to an incomplete or broken signal path between the two control boards, usually caused by a connector problem, moisture intrusion, or a failed board.
@@ -25,8 +24,6 @@ Related codes in the same family include E-82 (communication short error) and E-
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board first without checking the ribbon cable and connectors. Always inspect and reseat the interconnect harness between the UI and control board before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

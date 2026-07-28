@@ -66,10 +66,3 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 Call a professional appliance technician if you are uncomfortable working around high-voltage components or do not have the tools to safely discharge the capacitor and verify proper grounding. LG service documentation requires resistance checks on the magnetron and wiring-to-inverter circuits to rule out magnetron or cable faults before replacing the inverter board. If fault codes persist after inverter replacement, the magnetron, cooling fan, temperature sensor, or main control board may also be failed, and diagnosis with a multimeter and the factory service manual is necessary to avoid replacing the wrong part.
-
-## See Also
-
-- [LG Range F6 Error Code - Causes & Fix](/posts/lg-range-f6-error-code/)
-- [LG Refrigerator Error Codes — Complete Fix Guide](/posts/lg-refrigerator-error-codes/)
-- [LG Dryer Shuts Off Early - Causes & Fix](/posts/lg-dryer-shuts-off-early/)
-- [LG Washer Main Control Board Replacement - Signs & How-To](/posts/lg-washer-main-control-board-pcb-replacement/)

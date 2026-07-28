@@ -16,15 +16,12 @@ diy_or_pro: "pro"
 money_part: "Touch control panel or keypad assembly"
 ---
 
-## Samsung Microwave C-A0 Error Code — What It Means
-
+## What this code means
 Samsung publishes C-A0, C-A1, and C-A2 as functional error codes in its microwave error-code table. The company does not break down C-A0 further than that generic label, so it is not a single-part fault code. The code can be triggered by moisture intrusion, a control-system abnormality, or a sensor or control communication problem depending on your model. Samsung's official response is to unplug the unit, let it dry if moisture or steam is suspected, wait about 60 seconds, then power it back on. If the code returns after that reset, Samsung recommends requesting service. This is not a user-resettable fault in most cases.
 
 ## Before You Replace Anything
 
 Many people replace the main control board immediately. First dry the unit completely and perform a full power reset. If the code clears and stays cleared, no part replacement is needed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

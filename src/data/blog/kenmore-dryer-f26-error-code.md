@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Dryer F26 Error Code — What It Means
-
+## What this code means
 The F26 error code on a Kenmore dryer indicates the control board is reading an open door-switch circuit or an invalid door-latch state. The control treats the door as not safely closed, so it will not allow any cycle to start.
 
 This is a safety interlock fault. The door switch must report a closed state before the dryer can begin operation. When F26 appears, the dryer is protecting against drum rotation while the door is open or improperly latched.
@@ -26,8 +25,6 @@ This is a safety interlock fault. The door switch must report a closed state bef
 ## Before You Replace Anything
 
 Homeowners often replace the control board first. Before ordering any electronics, test the door switch for continuity with a multimeter. A $15 door switch fixes most F26 faults.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

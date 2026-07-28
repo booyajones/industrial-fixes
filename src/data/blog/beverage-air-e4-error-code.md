@@ -95,18 +95,3 @@ Any refrigerant leak or compressor problem requires EPA 608 certification and pr
 > **Pro tip:** If E4 returns a day or two after a manual defrost, look for the cause of the ice, not just the code. Door gaskets, fan failure, and blocked drain lines keep recreating the same sensor fault.
 
 ---
-
-## See Also
-
-- [Beverage-Air Refrigerator Error Code E1](/posts/beverage-air-refrigerator-error-code-e1/)
-- [Beverage-Air MT27 Error Codes](/posts/beverage-air-mt27-error-codes/)
-- [Traulsen Refrigerator Error Code E1](/posts/traulsen-refrigerator-error-code-e1/)
-- [True Refrigeration E4 Error Code](/posts/true-refrigeration-e4-error-code/)
-- [Turbo Air Refrigerator Error Code E1](/posts/turbo-air-refrigerator-error-code-e1/)
-- [Commercial Refrigerator Error Codes](/posts/commercial-refrigerator-error-codes/)
-
-## Related Articles
-
-- [Beverage-Air MT27 Error Codes - What They Mean and How to Fix Them](/posts/beverage-air-mt27-error-codes/)
-- [Beverage-Air Refrigerator Error Code E1 — Causes & Fix](/posts/beverage-air-refrigerator-error-code-e1/)
-- [Beverage-Air Refrigerator Error Code E2 — Evaporator Sensor Causes & Fix](/posts/beverage-air-refrigerator-error-code-e2/)

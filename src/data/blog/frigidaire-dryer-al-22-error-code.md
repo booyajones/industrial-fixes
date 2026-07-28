@@ -15,8 +15,7 @@ most_likely_cause: "Misread display or transposed digits"
 diy_or_pro: "diy"
 ---
 
-## Frigidaire Dryer AL-22 Error Code — What It Means
-
+## What this code means
 AL-22 does not appear in documented Frigidaire dryer error code lists or manufacturer support materials. Frigidaire dryers typically display codes such as E68 (stuck button), AD (Auto Dry mode indicator), or airflow warnings, but AL-22 is not among them. The display may have been misread (common candidates include AE, AF, or E codes), the model may use a proprietary code set not widely published, or a control board fault is generating an invalid code. Frigidaire recommends consulting the owner's manual for your specific model number to decode any unfamiliar display, since code definitions vary across product lines.
 
 If the code appeared during a cycle interruption or after a power event, it may be a transient control glitch rather than a true fault. Frigidaire's standard troubleshooting for persistent unknown codes is to perform a hard reset by disconnecting power for several minutes, then restore power and observe whether the code returns. If the dryer will not run or the code reappears, the issue may be in the main control board, a stuck button on the control panel, or a sensor reporting invalid data.
@@ -24,8 +23,6 @@ If the code appeared during a cycle interruption or after a power event, it may 
 ## Before You Replace Anything
 
 Do not replace the main control board before verifying the exact code and running the dryer's built-in diagnostics. Many Frigidaire dryers have a function test mode (entered by pressing specific button combinations) that will identify stuck keys, sensor faults, and wiring issues at no cost.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

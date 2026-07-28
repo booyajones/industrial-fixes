@@ -19,8 +19,6 @@ A Bosch dishwasher that won't start is not a single fault code. It's a symptom w
 
 If the dishwasher beeps but won't start, Bosch says the first check is that the door is securely closed and latched. If the machine is completely dead or intermittently unresponsive, Bosch recommends a power reset at the breaker for about 30 seconds to 10 minutes. If you see a specific error code like E01, E15, or E24, the diagnosis changes and you should check that code against your model's list.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door not fully latched** Bosch says if the unit beeps but will not start, the likely issue is an unlatched or defective door latch.

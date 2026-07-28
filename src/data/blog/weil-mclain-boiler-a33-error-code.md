@@ -17,8 +17,7 @@ free_checks:
   - "Record any stored fault history from the control before resetting, if your model supports a history menu."
 ---
 
-## Weil-McLain Boiler A33 Error — What It Means
-
+## What this code means
 A33 does not appear as a documented error code in available Weil-McLain manufacturer materials. The code may have been misread from the display, may belong to a different control board or boiler brand, or may be model-specific to a particular Weil-McLain unit that requires the exact model number and control type to decode. Weil-McLain uses different fault-code families depending on the boiler series and control platform, so a code that appears on one model may not exist on another.
 
 Before attempting any repair, identify the exact boiler model and serial number from the nameplate, note the control display type, and pull the full fault history if the control supports it. The meaning of the code and the correct troubleshooting steps are defined in the model-specific installation and service manual, not generically across all Weil-McLain boilers.
@@ -26,8 +25,6 @@ Before attempting any repair, identify the exact boiler model and serial number 
 ## Before You Replace Anything
 
 Do not replace control boards or sensors based on an undefined code. Record the exact code, model number, and any fault history, then consult the correct manual or call a qualified technician to avoid replacing parts that are not actually failed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified boiler technician immediately if you cannot find an A33 definition in your boiler's manual, if the boiler is in lockout and you are unfamiliar with combustion diagnostics, or if basic checks (gas on, pressure in range, vents clear) do not restore operation. Gas-fired boiler troubleshooting requires knowledge of combustion air, flame proving, gas pressure, and control sequences. A technician will use the correct manual for your model, test the actual fault condition with meters and gauges, and avoid the cost of replacing parts that are not failed. Do not attempt to override safety lockouts or bypass flame-proving circuits.
 
 **Rough cost:** A pro service call runs about $150-350 depending on diagnosis and root cause.
-
-## See Also
-
-- [Weil-McLain Boiler A24 Error - Causes & Fix](/posts/weil-mclain-boiler-a24-error-code/)
-- [Weil-McLain A35 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a35-error-code/)
-- [Weil-McLain A12 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a12-error-code/)
-- [Weil-McLain A172 Error - Causes & Fix](/posts/weil-mclain-boiler-a172-error-code/)

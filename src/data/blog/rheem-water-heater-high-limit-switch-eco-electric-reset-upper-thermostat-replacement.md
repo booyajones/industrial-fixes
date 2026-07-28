@@ -54,15 +54,8 @@ The ECO trips when actual overheating occurs, when the water temperature sensor 
 If this part is failing you may also see one of these codes:
 
 - [Rheem Water Heater A01 error code](/posts/rheem-water-heater-a01-error-code/)
-- [Rheem Water Heater Alarm 401 error code](/posts/rheem-water-heater-alarm-401-error-code/)
+- Rheem Water Heater Alarm 401 error code
 
 ## When to Call a Pro
 
 Call a licensed electrician or water heater technician if you're not comfortable working inside a 240V electrical panel, if diagnostic testing shows wiring faults or shorts you can't trace, or if the ECO lockout returns after you've replaced the upper thermostat assembly and sensor. Repeated trips after part replacement usually mean a control board fault, a hidden wiring problem, or actual overheating caused by a failed lower element or thermostat that diagnostics didn't catch the first time. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Rheem Tankless Water Heater Flow Sensor Replacement Guide](/posts/rheem-water-heater-flow-sensor-flow-meter-tankless-replacement/)
-- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
-- [Rheem XE50T10HS45U1 Problems & Error Codes](/posts/rheem-xe50t10hs45u1-water-heater-problems/)
-- [Rheem 401 Alarm - Causes & Fix](/posts/rheem-water-heater-alarm-401-error-code/)

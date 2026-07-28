@@ -66,10 +66,3 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 If you're not comfortable working with electrical connectors or measuring resistance with a multimeter, call a tech to diagnose and replace the thermistor. Also call a pro if replacing the sensor doesn't clear the TE code, because the fault may be in the wiring harness, heater assembly, or control board. If you see any signs of water leaking into the base or burnt wiring near the sensor, stop and get a technician out to trace the root cause before further damage occurs.
-
-## See Also
-
-- [LG Microwave F3 Error Code - Causes & Fix](/posts/lg-microwave-f3-error-code/)
-- [LG Dryer HS Error Code - Causes & Fix](/posts/lg-dryer-hs-error-code/)
-- [LG Mini-Split CH05 Error Code — Causes & Fix](/posts/lg-mini-split-ch05-error-code/)
-- [LG Washer Drive Motor/Stator-Rotor Replacement - Signs & How-To](/posts/lg-washer-drive-motor-stator-rotor-direct-drive-replacement/)

@@ -17,8 +17,7 @@ free_checks:
   - "Check the fault history menu on your boiler display (if available) to see if A13 is current or stored"
 ---
 
-## Weil-McLain A13 Error Code — What It Means
-
+## What this code means
 The A13 code is not a universal fault code across all Weil-McLain boilers. Weil-McLain uses different control platforms (including AquaBalance and others), and each platform has its own fault table with unique error definitions. The exact meaning of A13 depends on your specific boiler model and control board. The manufacturer expects technicians to identify the exact model from the nameplate and serial label, then consult that model's service manual for the fault table entry before diagnosing.
 
 Without the specific manual, it is impossible to know whether A13 relates to a sensor, flow switch, ignition component, or another system on your unit. Attempting to diagnose or reset the code without the correct manual risks misdiagnosis and wasted parts replacement. Locate your boiler model number and retrieve the matching service manual from Weil-McLain or your installer to find the precise fault definition and required checks.
@@ -26,8 +25,6 @@ Without the specific manual, it is impossible to know whether A13 relates to a s
 ## Before You Replace Anything
 
 Technicians sometimes replace control boards or sensors without first consulting the model-specific fault table, wasting hundreds of dollars. Always retrieve the exact fault definition from your boiler's manual before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician immediately if you do not have the service manual for your model, if the boiler is under warranty (Weil-McLain requires documented diagnosis and part numbers for claims), or if the fault involves gas supply, combustion air, venting, or high-voltage wiring. Professional diagnosis is necessary because A13 has no universal meaning and the correct repair depends entirely on the control platform and model-specific fault table. Attempting repairs without the manual risks wasting money on the wrong part or creating a safety hazard. A qualified technician will retrieve the fault history, test the exact component named in your manual, and document the failure for warranty purposes.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain Boiler Error Code E08 — Causes & Fix](/posts/weil-mclain-e08-error-code/)
-- [Weil-McLain Ultra Series Boiler Error Codes: Complete Guide](/posts/weil-mclain-ultra-series-codes/)
-- [Weil-McLain A30 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a30-error-code/)
-- [Weil-McLain E03 Error Code — Causes & Fix](/posts/weil-mclain-e03-error-code/)

@@ -22,8 +22,7 @@ part_price: "$20-50"
 no_buy_pct: "60%"
 ---
 
-## Samsung Dishwasher HC Error Code — What It Means
-
+## What this code means
 The HC code (or 1E / IE on rotary-dial models) indicates a high-temperature heater error. Samsung has detected that the water inside the tub has exceeded safe operating temperature or that the heating system and its monitoring components are reporting values outside expected limits. The internal temperature threshold is 176°F (80°C). When the dishwasher crosses that line, it throws the code and stops the cycle to prevent damage or unsafe conditions.
 
 This fault can stem from incoming water that is already too hot, a stuck or miscalibrated heating element, or a problem in the temperature-sensing circuit (thermistor, thermostat, or wiring). Samsung's official guidance directs users to power-cycle the machine and verify household hot-water supply temperature before assuming a component has failed.
@@ -31,8 +30,6 @@ This fault can stem from incoming water that is already too hot, a stuck or misc
 ## Before You Replace Anything
 
 Many people replace the heating element first, but the real culprit is often incoming water above 176°F or a loose thermistor connector. Check your water heater set-point and inspect wiring before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

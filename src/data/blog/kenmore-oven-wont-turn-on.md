@@ -20,8 +20,6 @@ When a Kenmore oven won't turn on, the display is either completely blank or the
 
 Some cases include error codes like F1 (failed control board relay), F10 (runaway temperature or shorted relay), or F7 (touchpad failure). If there is no code and the display is dark, the issue is almost always related to incoming power or a blown thermal fuse that has cut all electricity to the oven.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Tripped breaker or lost incoming power** Electric ovens need 240V AC and gas ovens need 120V AC, and a tripped circuit breaker is the most common reason the oven goes completely dead.
@@ -61,10 +59,10 @@ If your appliance also shows a code on the display, these match this problem:
 - [Kenmore Oven F3 error code](/posts/kenmore-oven-f3-error-code/)
 - [Kenmore Oven F30 error code](/posts/kenmore-oven-f30-error-code/)
 - [Kenmore Oven F31 error code](/posts/kenmore-oven-f31-error-code/)
-- [Kenmore Oven F33 error code](/posts/kenmore-oven-f33-error-code/)
+- Kenmore Oven F33 error code
 - [Kenmore Oven F4 error code](/posts/kenmore-oven-f4-error-code/)
 - [Kenmore Oven F5 error code](/posts/kenmore-oven-f5-error-code/)
-- [Kenmore Oven F50 error code](/posts/kenmore-oven-f50-error-code/)
+- Kenmore Oven F50 error code
 - [Kenmore Oven F7 error code](/posts/kenmore-oven-f7-error-code/)
 
 ## When to Call a Pro

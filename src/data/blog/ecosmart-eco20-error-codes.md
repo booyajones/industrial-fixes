@@ -13,13 +13,10 @@ money_part: "EcoSmart inlet thermistor"
 most_likely_cause: "Incorrect or crossed wiring"
 ---
 
-## EcoSmart ECO 20 Error Codes — What It Means
-
+## What this code means
 The ECO 20 is a model designation, not an error code. The actual fault codes are E1 through E5 and S103. E1 signals an inlet thermistor problem, E2 indicates an outlet thermistor fault, and E3 means both sensors or the broader temperature-sensing circuit has failed. E4 warns that incoming water temperature is too high for safe operation, E5 appears when flow rate exceeds the heater's capacity to raise temperature, and S103 flags a low-voltage condition at the unit.
 
 These codes point to temperature sensor failures, flow mismatches, voltage deficiencies, or demand that outstrips the heater's ability. The manufacturer troubleshooting guide ties most problems to incorrect wiring, flow rates below the 0.5 GPM activation threshold, flow rates too high for the unit's kW rating, supply voltage below design (240 V), and mixing of cold water at fixtures or through anti-scald valves.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

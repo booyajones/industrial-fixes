@@ -17,8 +17,7 @@ money_part: "LG washer pressure sensor / water level sensor"
 part_price: "$15-50"
 ---
 
-## LG Range PE Error Code — What It Means
-
+## What this code means
 PE is not listed in LG's published U.S. range error-code documentation. The code PE appears in LG's washer support pages, where it indicates the water level sensor is unable to correctly detect the water level in the drum. If you are troubleshooting an LG washing machine, PE points to a pressure sensor or pressure switch problem. If your appliance is truly an LG range or oven, verify the exact model number and recheck the displayed code, since PE does not match the typical range fault codes such as thermistor or low-voltage errors.
 
 For LG washers, the pressure sensor monitors water level through an air tube connected to the tub. When that sensor, its hose, or the wiring circuit fails, or when excess humidity affects the electronics, the control board cannot reliably measure fill level and throws PE. LG also notes that installation in a humid environment can trigger this error by introducing moisture into the sensor circuit.
@@ -26,8 +25,6 @@ For LG washers, the pressure sensor monitors water level through an air tube con
 ## Before You Replace Anything
 
 Many people replace the pressure sensor immediately, but a kinked or clogged air hose causes PE far more often. Inspect and clean the hose first before ordering a new sensor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a professional if you have verified the appliance is an LG range (not a washer) and PE appears on the display, because that code is not documented for ranges and may indicate a control board or wiring fault that requires specialized diagnostics. For washers, call a technician if you have replaced the pressure sensor and hose, confirmed clean wiring, and PE still returns. That scenario points to a faulty main control board, which involves complex disassembly and reprogramming. Also call a pro if you are uncomfortable working around 120 V household wiring or if your machine is still under warranty, since DIY repair can void coverage.
 
 **Rough cost:** DIY runs about $15–50 in parts, 30–60 min. A pro service call runs about $150–250.
-
-## See Also
-
-- [LG MVEL2033F Microwave Problems & Error Codes](/posts/lg-mvel2033f-microwave-problems/)
-- [LG Refrigerator Making Loud Noise - Causes & Fix](/posts/lg-refrigerator-making-loud-noise/)
-- [LG Dryer HS Error Code - Causes & Fix](/posts/lg-dryer-hs-error-code/)
-- [LG Mini-Split CH03 Error - Causes & Fix](/posts/lg-mini-split-ch03-error-code/)

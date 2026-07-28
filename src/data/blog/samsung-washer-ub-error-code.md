@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Suspension rod kit (Samsung washer)"
 ---
 
-## Samsung Washer UB Error Code — What It Means
-
+## What this code means
 A UB code (and the related Ur code) on a Samsung washer indicates an unbalanced load inside the drum. The washer has detected that laundry is clumped to one side and has paused or is retrying the spin cycle to avoid excessive vibration or damage. Samsung's support page lists this as "Unbalanced Load Error." The Ur variant means the machine is attempting to add water, rebalance the load, and retry the spin automatically.
 
 The code usually appears during the spin phase when wet laundry settles unevenly. It is a protective feature, not a component failure. If the code appears once and clears after you redistribute the load, the washer is working correctly. Repeated UB codes on properly sized, balanced loads point to a mechanical issue in the suspension system.
@@ -25,8 +24,6 @@ The code usually appears during the spin phase when wet laundry settles unevenly
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board or main PCB thinking the sensor is faulty. First check that the washer is level (use a bubble level on top of the cabinet) and that the load is balanced and not overloaded, which resolves most UB codes at no cost.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -15,8 +15,7 @@ money_part: "Electronic control board"
 most_likely_cause: "Misread or confused error code"
 ---
 
-## Maytag Dryer F4E2 Error Code — What It Means
-
+## What this code means
 F4E2 does not appear in Maytag's published dryer error code list. The manufacturer documents F3E2 (moisture sensor issue when five consecutive loads run without sensor data) and F4E3/AF (restricted airflow from clogged lint screen or vent problems) for dryers. F4E2 appears in Maytag service literature as a dishwasher code for a stuck heater relay on the control board, not a dryer fault.
 
 If your dryer console truly displays F4E2, verify the exact model number and re-check the displayed characters before ordering parts. The most likely explanation is a misread code or a mix-up between F3E2 or F4E3. Use the model's service sheet or wiring diagram to confirm the code definition for your specific dryer before diagnosing further.
@@ -24,8 +23,6 @@ If your dryer console truly displays F4E2, verify the exact model number and re-
 ## Before You Replace Anything
 
 Homeowners often replace the moisture sensor or main control board when the real issue is a clogged vent or misread error code. Write down the exact code from the display and cross-check it against your model's service manual before buying any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

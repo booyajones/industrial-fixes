@@ -22,8 +22,7 @@ part_price: "$50-100"
 no_buy_pct: "60%"
 ---
 
-## Samsung 21E Error Code — What It Means
-
+## What this code means
 The 21E error code on a Samsung refrigerator indicates a freezer fan error. The main control board is not receiving the expected rotation feedback from the freezer evaporator fan when the fan is supposed to be running. This fan circulates cold air from the evaporator coils throughout the freezer compartment, so when it stops or the control cannot confirm it is spinning, the code appears and cooling performance drops.
 
 The code does not always mean the motor itself has failed. Samsung states that 21E is commonly triggered by the fan freezing solid due to ice buildup around the evaporator. That ice can form when a door is left open or when the door gasket does not seal properly and lets warm, moist air into the freezer. Less often, the motor windings fail or the wire harness connection between the fan and control board becomes loose, preventing the rotation signal from reaching the board.
@@ -31,8 +30,6 @@ The code does not always mean the motor itself has failed. Samsung states that 2
 ## Before You Replace Anything
 
 Many people replace the evaporator fan motor before checking for ice. Unplug the unit, open the doors for a few hours to defrost, and inspect the fan area before ordering a motor. Often the fan was simply locked in ice and will spin freely once thawed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

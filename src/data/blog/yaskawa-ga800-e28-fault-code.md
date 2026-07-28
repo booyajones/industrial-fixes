@@ -13,13 +13,10 @@ money_part: "Serial communication cable (shielded, twisted-pair)"
 most_likely_cause: "Controller or PLC stopped transmitting"
 ---
 
-## Yaskawa GA800 E28 Fault — What It Means
-
+## What this code means
 E28 is a serial interface watchdog timeout fault on the Yaskawa GA800 drive. It means the drive stopped receiving the expected control data over its serial communication link within the allowed time window. This is not a power stage, overcurrent, or motor fault. It is a communications supervision problem tied to the command data path from your PLC or controller to the drive.
 
 When the drive is configured to run from a serial network (Modbus, for example) and the controller stops sending valid control words or heartbeat data, the watchdog timer expires and the drive trips E28. The drive protects itself by halting operation until communication is restored and the fault is cleared.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ When the drive is configured to run from a serial network (Modbus, for example) 
 ## When to Call a Pro
 
 Call a qualified technician or contact Yaskawa technical support if you have verified the PLC is transmitting correct data, all wiring and network settings are confirmed good, and the E28 fault still will not clear. Troubleshooting communication protocol issues or replacing the drive control board requires specialized knowledge of both the drive and your network architecture. If your facility does not have personnel trained in serial communications or VFD service, professional help will save time and prevent damage to the drive or connected equipment.
-
-## See Also
-
-- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)
-- [Yaskawa VFD Fault OH — Causes & Fix](/posts/yaskawa-vfd-fault-oh/)
-- [Yaskawa GA800 E20 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e20-fault-code/)
-- [Yaskawa GA800 E10 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e10-fault-code/)

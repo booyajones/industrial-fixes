@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Bosch Oven Er1 Error Code — What It Means
-
+## What this code means
 The Er1 code on a Bosch oven signals a temperature sensor failure. The electronic control is not receiving a correct signal from the oven temperature sensor (thermistor). This sensor monitors cavity temperature and tells the control board when to cycle the heating elements. When the sensor or its wiring fails, the oven cannot regulate heat and the Er1 fault appears.
 
 Bosch's official U.S. error-code documentation does not list Er1 specifically, so the meaning comes from third-party Bosch repair references. Technicians report that Er1 consistently points to the oven temperature sensor, its harness, or the control board's sensor input circuit. The oven will not heat normally until the fault is cleared.
@@ -26,8 +25,6 @@ Bosch's official U.S. error-code documentation does not list Er1 specifically, s
 ## Before You Replace Anything
 
 Many people replace the control board first. Always test the sensor resistance (should be around 1,080 Ω at room temperature) and inspect the wiring harness before replacing the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

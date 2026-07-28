@@ -21,15 +21,12 @@ free_checks:
 part_price: "$35-75"
 ---
 
-## Electrolux Washer E60 Error Code — What It Means
-
+## What this code means
 The E60 error code on an Electrolux washer signals a heating fault. The machine detects that the water temperature has not reached the required level within the expected time frame. This fault points to a problem with either the heating element (the coil that warms the water) or the temperature sensor (thermistor) that monitors water temperature. When E60 appears, the wash cycle may continue without hot water, or the machine may stop if the heating fault is critical. The control board flags this code when it receives incorrect resistance readings from the sensor or detects no current flow through the heater.
 
 ## Before You Replace Anything
 
 Homeowners often replace the control board when the real fault is a broken heating element or sensor. Always test the resistance of the heater and thermistor before replacing the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -15,8 +15,7 @@ likelihood: "the manufacturer-confirmed cause"
 diy_or_pro: "pro"
 ---
 
-## LG EID Error Code — What It Means
-
+## What this code means
 The LG EID error code indicates a freezer compartment ice maker sensor failure on supported LG refrigerators. LG's official support page states there are no troubleshooting steps for this code and that professional service is required.
 
 The code points specifically to a fault in the ice maker sensor circuit in the freezer section. The refrigerator may continue to cool normally, but ice production will stop or become erratic. LG does not provide consumer reset procedures or deeper diagnostic guidance for EID, directing owners instead to schedule a service call for model-specific electrical diagnosis and component replacement.
@@ -24,8 +23,6 @@ The code points specifically to a fault in the ice maker sensor circuit in the f
 ## Before You Replace Anything
 
 Homeowners sometimes replace the entire ice maker assembly or main control board without testing the sensor circuit first. A technician should verify connector integrity and sensor continuity before ordering parts, because a loose or corroded connector can mimic a sensor failure.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a professional immediately for the LG EID error code. LG's own support page states there are no troubleshooting steps for this code and that service is required. The repair involves model-specific electrical diagnosis of the ice maker sensor circuit, including continuity and resistance testing that requires a multimeter, wiring diagrams, and service documentation not available to homeowners. Attempting to remove the ice maker assembly or test connectors without proper training risks damaging the refrigerator's sealed compartments, control board, or wiring harness. A qualified technician will verify the code, inspect connectors and wiring for damage or corrosion, test the sensor against factory specifications, and replace only the confirmed failed component, ensuring the repair is covered under any applicable warranty and performed safely.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [LG Oven F2 Error Code - Causes & Fix](/posts/lg-oven-f2-error-code/)
-- [LG Washer Drive Motor/Stator-Rotor Replacement - Signs & How-To](/posts/lg-washer-drive-motor-stator-rotor-direct-drive-replacement/)
-- [LG Microwave F-11 Error Code - Causes & Fix](/posts/lg-microwave-f-11-error-code/)
-- [LG Mini Split CH46 Error Code - Causes & Fix](/posts/lg-mini-split-ch46-error-code/)

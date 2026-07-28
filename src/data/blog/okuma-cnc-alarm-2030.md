@@ -13,11 +13,8 @@ money_part: "Spindle encoder"
 most_likely_cause: "Spindle motor overload / overtemperature"
 ---
 
-## Okuma CNC Alarm 2030 Spindle Drive Fault — What It Means
-
+## What this code means
 Okuma alarm 2030 indicates a spindle drive fault — the spindle drive (inverter or servo drive depending on machine model) has detected an error condition and removed power from the spindle motor. On Okuma OSP-P series controls with PREX or DRIVE II spindle drives, alarm 2030 is a general spindle drive trip. The specific sub-fault is displayed on the spindle drive's own fault display or in the Okuma alarm details screen. Alarm 2030 stops the spindle and prevents program execution. It can be caused by mechanical overload, thermal tripping, encoder faults, or drive electronics failure.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Okuma alarm 2030 indicates a spindle drive fault — the spindle drive (inverter
 ## When to Call a Pro
 
 Okuma spindle drives contain proprietary electronics and use Okuma-specific communication protocols. Internal drive repairs and bearing replacements require an Okuma-certified technician to ensure proper alignment and parameter restoration.
-
-## Related Articles
-
-- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
-- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
-- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-
-## See Also
-
-- [Okuma CNC Alarm 1800 — Causes & Fix](/posts/okuma-cnc-alarm-1800/)
-- [Okuma LB-Series Alarm 1013 — Causes & Fix](/posts/okuma-lb-series-alarm-1013/)
-- [Okuma CNC Alarm 1201 — Causes & Fix](/posts/okuma-cnc-alarm-1201/)
-- [Okuma MC-V4020 Machining Center Alarm Codes: Complete Guide](/posts/okuma-mc-v4020-error-codes/)

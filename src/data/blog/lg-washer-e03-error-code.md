@@ -22,8 +22,7 @@ part_price: "$35-65"
 no_buy_pct: "70%"
 ---
 
-## LG Washer E03 (OE) Error Code — What It Means
-
+## What this code means
 LG front-load washers display the OE error code (often confused with E03 because the letters resemble each other) when the machine cannot drain the water from the tub within the expected time, typically 10 to 15 minutes. The control board detects that the water level sensor still reports a full tub after the drain pump has run its cycle, so the machine halts and locks the door to prevent access to standing water.
 
 The code indicates a physical blockage or component failure in the drain path. The machine expects the pump to evacuate the tub completely, but standing water remains. This triggers the fault and stops the cycle to prevent flooding or damage.
@@ -31,8 +30,6 @@ The code indicates a physical blockage or component failure in the drain path. T
 ## Before You Replace Anything
 
 Many owners replace the drain pump when the real problem is a simple blockage in the filter or hose. Always clean the filter and inspect the drain hose for kinks or clogs before ordering a new pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

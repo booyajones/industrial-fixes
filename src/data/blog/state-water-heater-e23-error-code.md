@@ -13,13 +13,10 @@ money_part: "Inlet filter screen or sediment strainer"
 most_likely_cause: "Blocked or restricted venting"
 ---
 
-## State Water Heater E23 Error Code — What It Means
-
+## What this code means
 E23 is not a widely documented fault code in available State (A. O. Smith brand) water heater service literature. State tankless and residential water heaters typically display codes related to ignition failure, flame loss, blocked venting, low gas pressure, restricted water flow, or scale buildup. Because State fault codes are model-specific and the same number can mean different things on different platforms, you must confirm your exact model and fuel type before interpreting E23. Check the nameplate on your unit and compare the displayed code against the troubleshooting chart in your installation or service manual.
 
 If your unit is a tankless gas model, E23 may relate to combustion air supply, venting restriction, gas valve operation, or flame-sensing problems. If it is an electric or heat-pump model, the code could involve sensor or control board issues. Without manufacturer documentation defining E23 for your specific State model, any repair should start with the basics: verify venting and airflow, check gas or electrical supply, inspect inlet screens and flow sensors, and look for scale or debris on critical components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

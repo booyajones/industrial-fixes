@@ -17,8 +17,7 @@ money_part: "Whirlpool user interface / console control board"
 part_price: "$80-250"
 ---
 
-## Whirlpool F6E2 Error Code — What It Means
-
+## What this code means
 Whirlpool's F6 E2 code is documented for washers, not dishwashers. It indicates a communication failure between the appliance control unit (ACU), the user interface (UI), or the wiring harness that connects them. If you see F6E2 on a Whirlpool dishwasher, verify your model documentation because the published Whirlpool definition applies to washing machines. On washers, this is an electronic control fault, not a plumbing or mechanical issue.
 
 The fault typically appears when the main control board cannot exchange signals with the touchpad or console. It does not involve drain pumps, fill valves, detergent dispensers, or load problems. The code tells you to inspect the control system, not the water or motor circuits.
@@ -26,8 +25,6 @@ The fault typically appears when the main control board cannot exchange signals 
 ## Before You Replace Anything
 
 Many people replace the main control board first. Instead, unplug the machine for 5 minutes and check every connector between the UI and ACU for corrosion or loose pins before ordering any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

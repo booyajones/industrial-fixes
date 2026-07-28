@@ -14,13 +14,10 @@ money_part: "ECM blower motor module"
 most_likely_cause: "Failed ECM blower motor or module"
 ---
 
-## Amana Furnace E06 Error Code — What It Means
-
+## What this code means
 The E06 error on Amana furnaces indicates a blower motor or blower circuit fault. The control board has detected that the blower motor is not responding correctly, is drawing abnormal current, or has stopped due to an open or short circuit. This fault is part of the Amana/Goodman diagnostic code family and typically points to a failed ECM blower motor module, a damaged wiring harness between the board and motor, or less commonly a control board issue.
 
 The blower motor moves heated air through your ductwork, so when this fault occurs the furnace will usually shut down or fail to complete its heating cycle. Field reports also link this code to abnormal incoming line voltage, overheating from restricted airflow, or a defective memory chip on the control board itself.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

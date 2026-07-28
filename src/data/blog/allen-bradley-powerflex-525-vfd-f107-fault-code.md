@@ -18,8 +18,7 @@ free_checks:
   - "Verify the control module catalog number matches the power module rating and family"
 ---
 
-## Allen-Bradley PowerFlex 525 F107 — What It Means
-
+## What this code means
 F107 displays as "Replaced C-P" on the Allen-Bradley PowerFlex 525. It means the drive's control module cannot recognize the power module it is attached to. Rockwell Automation classifies this as a hardware fault, not a wiring or motor issue.
 
 The fault typically appears after a repair or module swap, especially when someone mounts a control module to a power module with a different power rating or from a different drive family. The drive will not run until the modules are correctly matched and the fault clears.
@@ -27,8 +26,6 @@ The fault typically appears after a repair or module swap, especially when someo
 ## Before You Replace Anything
 
 Technicians sometimes replace the control module first. Always verify module compatibility and try a known-good power module before ordering a new control module, because the power module is the first replacement step in Rockwell's published procedure.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or automation technician for F107. The repair requires safe lockout of line voltage, correct identification of module catalog numbers, and replacement of drive hardware. Mismatched modules can damage the drive or create unsafe operating conditions. A technician will have access to known-good spare modules for swap testing and the tools to verify proper DC bus discharge before working inside the enclosure. If your facility does not stock spare PowerFlex modules, a service provider can source and install the correct matched pair and verify drive operation under load.
 
 **Rough cost:** A pro service call runs about $200-600 for module replacement and labor.
-
-## See Also
-
-- [Allen-Bradley PowerFlex 525 F070 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f070-fault-code/)
-- [Allen-Bradley PowerFlex 755 Aux Input Fault Fix](/posts/allen-bradley-powerflex-755-aux-input-fault/)
-- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
-- [Allen-Bradley PowerFlex 525 F100 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f100-fault-code/)

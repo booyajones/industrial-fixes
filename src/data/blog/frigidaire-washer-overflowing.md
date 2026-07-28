@@ -19,8 +19,6 @@ When a Frigidaire washer overflows, you're dealing with one of two problems. If 
 
 If the machine is actually overfilling with water, the fill control path has failed. The washer uses a pressure switch and air tube to sense when the tub is full and signal the water inlet valve to shut off. When any part of that system breaks down, water keeps entering past the correct level and can overflow the tub.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Water inlet valve stuck open or leaking internally** The valve fails to close fully and allows water to enter even when the washer is unplugged or off.

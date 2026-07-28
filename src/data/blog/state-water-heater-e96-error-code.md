@@ -17,11 +17,8 @@ free_checks:
   - "Reset the control by turning off power for 30 seconds and restoring it"
 ---
 
-## State Water Heater E96 Error — What It Means
-
+## What this code means
 The E96 error code does not appear in State Water Heater diagnostic documentation. State water heaters (manufactured by A.O. Smith) use different fault codes for their electronic controls. This code is commonly associated with Baxi boilers, where it indicates a sensor fault or control board issue, but applying that definition to a State water heater would be incorrect. If you see E96 on your display, verify the brand and model on the unit's data plate. You may have a Baxi boiler, an Intex spa controller, or another brand entirely. If the unit is confirmed to be a State water heater, consult the owner's manual or wiring diagram for the correct error code list, as the display may show a different code or the control board may have been replaced with a non-original part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

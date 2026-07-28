@@ -13,13 +13,10 @@ money_part: "Braking resistor"
 most_likely_cause: "Deceleration ramp too short"
 ---
 
-## Siemens Micromaster F0002 — What It Means
-
+## What this code means
 F0002 on Siemens MICROMASTER drives (420, 440, and others) means the DC-link voltage exceeded the drive's overvoltage trip threshold. The drive monitors the DC bus voltage (parameter r0026) and trips when it climbs above the level set in P2172. This almost always happens during deceleration or when a high-inertia load or overhauling load drives the motor and pushes regenerated energy back into the drive faster than the drive can dissipate it.
 
 You'll typically see F0002 when stopping or slowing down quickly. The DC link charges up from regenerative braking energy. If your deceleration ramp is too short, your incoming mains voltage is too high, or your braking resistor and chopper are missing or broken, the bus voltage spikes and the drive protects itself by shutting down.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ You'll typically see F0002 when stopping or slowing down quickly. The DC link ch
 ## When to Call a Pro
 
 Call a qualified drive technician or Siemens service partner if you are not familiar with high-voltage DC bus work, if the fault persists after lengthening ramp times and verifying supply voltage, or if you suspect internal damage to the brake chopper or DC-link capacitors. Measuring live DC-link voltage and working inside the drive cabinet requires lockout/tagout and appropriate PPE. If your application involves continuous regeneration (downhill conveyors, hoists, centrifuges), a professional can size and install an external braking resistor or configure advanced Vdc control parameters to prevent repeated trips.
-
-## See Also
-
-- [Siemens SINAMICS G120 F30021 Fault — Ground Fault Fix](/posts/siemens-sinamics-f30021-fault/)
-- [Siemens SINAMICS G120 F00001 Fault — Causes & Fix](/posts/siemens-sinamics-g120-fault-f00001/)
-- [Siemens Sinumerik 828D Alarm Codes Guide — Complete Diagnostic Reference](/posts/siemens-828d-alarm-codes/)
-- [Siemens Micromaster F0012 - Causes & Fix](/posts/siemens-micromaster-vfd-f0012-fault-code/)

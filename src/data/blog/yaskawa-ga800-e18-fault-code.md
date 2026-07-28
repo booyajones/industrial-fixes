@@ -13,13 +13,10 @@ money_part: "Replacement motor"
 most_likely_cause: "Incorrect motor nameplate data entered"
 ---
 
-## Yaskawa GA800 E18 Error — What It Means
-
+## What this code means
 E18 or Er-18 on the Yaskawa GA800 is a Back EMF Error. It appears when the drive completes an induced-voltage tuning routine but the result falls outside the acceptable range. In practical terms, the drive attempted to identify motor characteristics during auto-tuning and could not arrive at a valid outcome, so it assumes the motor data or tuning conditions are wrong.
 
 This fault does not indicate a burned component or failed circuit board in most cases. Instead, it tells you the drive could not match what it measured from the motor against what it expected based on the programmed parameters. The tuning process measures back electromotive force to build an accurate motor model, and when those measurements do not align with the nameplate data you entered, the drive throws E18 and halts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ This fault does not indicate a burned component or failed circuit board in most 
 ## When to Call a Pro
 
 Call a qualified drive technician or Yaskawa-authorized service provider if the E18 fault returns after you have verified motor nameplate data twice, checked all wiring, and completed two separate auto-tune cycles with the motor uncoupled. Persistent back EMF errors can indicate a failing motor winding, a drive measurement circuit issue, or an application mismatch that requires detailed motor testing and drive configuration beyond basic parameter entry. Also contact support if you do not have the original motor nameplate or documentation, since guessing at motor data will cause repeated tuning failures and may damage the motor or drive.
-
-## See Also
-
-- [Yaskawa GA800 E08 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e08-fault-code/)
-- [Yaskawa GA800 E02 Fault - Causes & Fix](/posts/yaskawa-ga800-e02-fault-code/)
-- [Yaskawa GA800 E16 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e16-fault-code/)
-- [Yaskawa VFD Fault PF — Causes & Fix](/posts/yaskawa-vfd-fault-pf/)

@@ -17,8 +17,6 @@ tags:
 
 When an LG front-load washer does not drain completely, water remains in the tub at the end of the cycle. LG defines this as a drain failure, meaning the machine cannot remove water from the tub within the expected time. The symptom is typically tied to a blocked or restricted drain path, a clogged pump filter, or a failed drain pump. LG front-load models display an OE error code when this drainage failure occurs, though the underlying issue is the same whether or not the code appears on your control panel.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Kinked, bent, or twisted drain hose** A drain hose pinched behind the washer or bent sharply at a connection point restricts water flow and is the most common cause of incomplete draining.

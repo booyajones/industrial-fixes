@@ -20,8 +20,6 @@ When a KitchenAid oven door won't lock, the door latch mechanism has failed to e
 
 On some models with a manual latch handle at the top front of the oven, the latch arm may be bent or stuck. On ranges with a control lock feature, an enabled LOC setting can disable the oven door lock function or give the appearance of a locked-door fault. If the oven has cooled and reset steps don't work, the door lock motor or assembly has likely failed and needs replacement.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Self-clean cycle still active or oven too hot** The door will not unlock until the oven cools to about 200°F (95°C) after self-clean completes, which can take 30–90 minutes depending on the model.
@@ -54,8 +52,8 @@ On some models with a manual latch handle at the top front of the oven, the latc
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kitchenaid Oven A6 error code](/posts/kitchenaid-oven-a6-error-code/)
-- [Kitchenaid Oven Ab error code](/posts/kitchenaid-oven-ab-error-code/)
+- Kitchenaid Oven A6 error code
+- Kitchenaid Oven Ab error code
 - [Kitchenaid Oven Cal error code](/posts/kitchenaid-oven-cal-error-code/)
 - [Kitchenaid Oven F6 E0 error code](/posts/kitchenaid-oven-f6-e0-error-code/)
 - [Kitchenaid Oven F6 E1 error code](/posts/kitchenaid-oven-f6-e1-error-code/)

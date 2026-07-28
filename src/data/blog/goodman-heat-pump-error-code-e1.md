@@ -13,11 +13,8 @@ money_part: "High-pressure switch"
 most_likely_cause: "High-pressure switch trip (cooling mode)"
 ---
 
-## Goodman Heat Pump E1 Error Code — What It Means
-
+## What this code means
 On Goodman heat pump systems, error code **E1** typically indicates a **high-pressure or low-pressure switch fault** — a refrigerant system safety switch has opened and shut down the compressor. The E1 code appears on some Goodman heat pump model displays and on the air handler control board's diagnostic LED (as 1 flash in certain configurations). Exact meaning varies by model year and control board revision.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ On Goodman heat pump systems, error code **E1** typically indicates a **high-pre
 | Outdoor fan capacitor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-goodman-heat-pump-error-code-e1&k=Outdoor+fan+capacitor&tag=errorcodefixes-20) \| 5 µF or 7.5 µF / 370V (check existing cap label) |
 ## When to Call a Pro
 If E1 returns after a reset and the outdoor coil is clean, have a certified HVAC tech check refrigerant pressures. A low charge means there's a leak — adding refrigerant without finding the leak is a waste of money and harms the environment.
-
-## Related Articles
-
-- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
-- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
-- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
-- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
-- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)
-
-## See Also
-
-- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
-- [Goodman Furnace E1 Error Code — Causes & Fix](/posts/goodman-furnace-e1-error-code/)
-- [Goodman Furnace 5 Flash Error Code — Causes & Fix](/posts/goodman-furnace-5-flash-error-code/)
-- [Goodman 8 Flash Error Code — Causes & Fix](/posts/goodman-8-flash-error-code/)

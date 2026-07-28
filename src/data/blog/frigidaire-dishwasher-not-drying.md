@@ -19,8 +19,6 @@ A Frigidaire dishwasher not drying is a performance complaint, not a fault code.
 
 If the machine runs but dishes come out wet, the dishwasher is either not generating enough heat, not venting moisture properly, not dispensing rinse aid, or items are loaded in a way that traps water. Frigidaire notes that plastic, wooden, and concave items like bowls may retain water even when the dishwasher is working normally.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Wrong cycle or Air Dry selected** Quick Wash or 30 Minute cycles and Air Dry setting do not dry fully, while Heat Dry performs better.

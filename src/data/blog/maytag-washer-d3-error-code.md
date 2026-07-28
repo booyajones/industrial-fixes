@@ -17,8 +17,7 @@ money_part: "Pressure switch / water level sensor"
 part_price: "$60-120"
 ---
 
-## Maytag Washer D3 Error Code — What It Means
-
+## What this code means
 The D3 error code on Maytag top-load washers indicates a water temperature sensor error. This code only appears on models equipped with a temperature-sensing water valve. The control board is not receiving the correct signal from the sensor inside the inlet valve assembly, so the machine stops the cycle to prevent improper water temperature during the fill.
 
 The fault is electrical in nature and involves the temperature-sensing circuit between the inlet valve and the main control board. It is not related to drainage, the motor, or water pressure. The code appears during or just after the fill phase when the control board expects a valid temperature reading but does not receive one.
@@ -26,8 +25,6 @@ The fault is electrical in nature and involves the temperature-sensing circuit b
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board first when the real problem is a faulty temperature-sensing inlet valve or a loose connector. Test the valve harness and connectors before buying a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

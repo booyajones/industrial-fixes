@@ -17,15 +17,12 @@ free_checks:
   - "Access the control's fault-history or diagnostics menu using the button sequence in your manual and record every stored fault."
 ---
 
-## Weil-McLain Boiler A31 Error Code — What It Means
-
+## What this code means
 An A31 code does not appear in published Weil-McLain boiler manuals or fault-code tables. The display may have been read incorrectly, or the code shown is specific to a third-party control that is not documented in standard Weil-McLain literature. Weil-McLain boilers use model-specific fault codes, and technicians are directed to retrieve the stored fault history through the control's diagnostics menu rather than relying on a single alphanumeric display. To find the correct meaning, locate your boiler's exact model number (usually on the rating plate), enter the control's fault-history or diagnostics mode following the instructions in your installation and operating manual, and note the full fault code or event name shown. That code can then be matched to the troubleshooting table in your model's manual for the manufacturer's corrective action, required component checks, and any spec limits.
 
 ## Before You Replace Anything
 
 Homeowners often replace the flame sensor or igniter when the real issue is an incorrect code readout or a control-display fault. Always retrieve the actual fault history from the control menu and verify the code against your model's manual before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician immediately if the boiler is locked out, if you cannot find the correct manual for your model, or if the fault-history menu shows codes you cannot match to any published Weil-McLain table. Gas-fired boilers involve combustion safety, gas pressure, venting, and control logic that require proper test instruments and manufacturer training. A qualified technician will retrieve the full fault history, confirm which control is installed, consult the model-specific manual or factory support, and perform the manufacturer's prescribed corrective action. Attempting to bypass a lockout or replace parts based on an unverified code can create unsafe operating conditions and void your warranty.
 
 **Rough cost:** A pro service call runs about $150–350 for a diagnostic visit and typical sensor or control repair.
-
-## See Also
-
-- [Weil-McLain A40 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a40-error-code/)
-- [Weil-McLain Boiler A115 Error - Causes & Fix](/posts/weil-mclain-boiler-a115-error-code/)
-- [Weil-McLain Boiler A49 Error - Causes & Fix](/posts/weil-mclain-boiler-a49-error-code/)
-- [Weil-McLain A02 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a02-error-code/)

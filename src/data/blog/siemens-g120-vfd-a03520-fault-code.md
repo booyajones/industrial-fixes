@@ -13,11 +13,8 @@ money_part: "Siemens G120 Control Unit (CU)"
 most_likely_cause: "Faulty or disconnected CU temperature sensor circuit"
 ---
 
-## Siemens G120 A03520 Fault — What It Means
-
+## What this code means
 A03520 on a Siemens SINAMICS G120 is a temperature sensor fault in the Control Unit (CU), not a motor overtemperature alarm. The 'A' prefix means this is an alarm rather than a hard trip fault, so the drive may continue to run while the alarm is active. The code indicates the CU's internal temperature sensing circuit has failed, disconnected, or detected an out-of-range condition. In most cases the drive logs the alarm and continues operation, but the condition should be addressed to prevent future issues or progression to a fault that stops the drive.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ A03520 on a Siemens SINAMICS G120 is a temperature sensor fault in the Control U
 ## When to Call a Pro
 
 Call a qualified drive technician or Siemens-certified service provider if the A03520 alarm persists after you have cleaned cooling paths, verified airflow, and performed a full power cycle. Control Unit replacement requires matching the correct CU model to your Power Module and may involve firmware updates or parameter cloning, which are best handled by a technician with Siemens drive experience and access to commissioning tools. Also call a pro if you are unfamiliar with high-voltage industrial equipment, if the drive is part of a critical process, or if your facility requires documented service records for safety and compliance.
-
-## See Also
-
-- [Siemens SINAMICS G120 F30003 Fault — DC Link Undervoltage Fix](/posts/siemens-sinamics-f30003-fault/)
-- [Siemens Micromaster F0005 - Causes & Fix](/posts/siemens-micromaster-f0005-fault-code/)
-- [Siemens Micromaster F0085 - Causes & Fix](/posts/siemens-micromaster-f0085-fault-code/)
-- [Siemens Micromaster F0005 - Causes & Fix](/posts/siemens-micromaster-vfd-f0005-fault-code/)

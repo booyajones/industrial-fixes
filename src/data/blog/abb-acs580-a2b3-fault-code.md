@@ -13,13 +13,10 @@ money_part: "Motor cable (shielded VFD-rated)"
 most_likely_cause: "Earth fault in the motor cable"
 ---
 
-## ABB ACS580 A2B3 Fault Code — What It Means
-
+## What this code means
 The A2B3 fault code on an ABB ACS580 drive indicates earth leakage. The drive has detected load unbalance, typically caused by an earth fault in the motor or motor cable. This is a diagnostic fault in ABB's fault list that points to a current path to ground somewhere in the motor circuit.
 
 ABB specifically identifies power factor correction capacitors or surge absorbers in the motor cable as common triggers, along with insulation breakdown in the motor windings or cable. The drive is protecting itself and the motor from continued operation with a ground fault present.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ ABB specifically identifies power factor correction capacitors or surge absorber
 ## When to Call a Pro
 
 Call a qualified electrician or ABB service technician if insulation resistance tests on the motor and cable all pass but the A2B3 fault continues to appear, or if you lack a megohmmeter and the training to safely perform insulation testing on VFD motor circuits. Also call a professional if the fault appeared after a recent installation or drive commissioning, as parameter settings or grounding configuration may need expert review. ABB's official guidance is to escalate to your local ABB representative when external motor-circuit causes have been ruled out.
-
-## See Also
-
-- [ABB ACS580 A2A1 - Causes & Fix](/posts/abb-acs580-a2a1-fault-code/)
-- [ABB VFD Fault 5010 — Causes & Fix](/posts/abb-vfd-fault-5010/)
-- [ABB VFD Fault 4110 — Causes & Fix](/posts/abb-vfd-fault-4110/)
-- [ABB ACS580 FA81 Fault - Safe Torque Off 1 Active](/posts/abb-acs580-fa81-fault-code/)

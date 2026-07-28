@@ -13,11 +13,8 @@ money_part: "Condensate drain pan tablets"
 most_likely_cause: "Clogged condensate drain line"
 ---
 
-## Mitsubishi E4 Error Code — What It Means
-
+## What this code means
 Mitsubishi error code E4 indicates the condensate drain is full or blocked — the float switch inside the indoor unit has detected that the drain pan has reached its maximum level. On Mitsubishi MSZ and MFZ series units, a float switch cuts compressor operation when drain water reaches a critical level to prevent overflow and water damage. The system will not cool or heat while E4 is active. This is one of the most straightforward faults to resolve: clear the drain and the unit resets automatically.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Mitsubishi error code E4 indicates the condensate drain is full or blocked — t
 ## When to Call a Pro
 
 If the drain line is clear and the float switch moves freely but E4 persists, the PCB float switch input circuit may be faulty. That's a board-level diagnosis.
-
-## Related Articles
-
-- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
-- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
-- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
-- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
-- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
-
-## See Also
-
-- [Mitsubishi P8 Error Code — Causes & Fix](/posts/mitsubishi-p8-error-code/)
-- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
-- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
-- [Mitsubishi E3 Error Code — Indoor Fan Motor Fault Fix](/posts/mitsubishi-e3-error-code/)

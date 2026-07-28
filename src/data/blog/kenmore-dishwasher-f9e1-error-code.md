@@ -22,8 +22,7 @@ part_price: "$25-60"
 no_buy_pct: "60%"
 ---
 
-## Kenmore Dishwasher F9E1 Error — What It Means
-
+## What this code means
 The F9E1 code on a Kenmore dishwasher most commonly signals a drain-timeout fault, meaning the control detected that water was not removed within the allowed drain period. On some Kenmore units built on Whirlpool-family platforms, F9E1 (or 9-1) instead indicates the electronic control cannot detect the diverter disk position. Because Kenmore is a brand label applied across multiple OEM platforms, the exact meaning depends on your specific model. Confirm the correct definition by checking the model number on the rating label and the technical service sheet inside the unit.
 
 For the drain-timeout variant, the dishwasher attempted to pump out standing water but the process took too long or failed entirely. For the diverter-disk variant, the control cannot verify that the spray-arm diverter has moved to the correct position. In either case, the machine will not complete the cycle until the underlying mechanical or electrical issue is resolved.
@@ -31,8 +30,6 @@ For the drain-timeout variant, the dishwasher attempted to pump out standing wat
 ## Before You Replace Anything
 
 Many people replace the drain pump immediately, but a forgotten garbage-disposer knockout plug or a kinked drain hose causes the same code and costs nothing to fix. Check the entire drain path first.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

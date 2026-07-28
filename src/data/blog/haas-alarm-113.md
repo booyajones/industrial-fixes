@@ -17,8 +17,6 @@ most_likely_cause: "Damaged or loose encoder cable"
 
 Haas Alarm 113 is a **spindle encoder fault** — the CNC detected that the spindle encoder signal is missing, intermittent, or out of specification. The spindle encoder provides position and speed feedback to the control, enabling tapping cycles, C-axis positioning, and spindle synchronization for threading. Without a valid encoder signal, these functions cannot operate safely and the control faults out. Alarm 113 can appear at spindle startup or during a tapping or threading operation.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
 - **Damaged or loose encoder cable** — The encoder cable from the spindle motor or spindle head to the control cabinet is one of the most common failure points; it runs through the machine and is subject to flex fatigue and coolant exposure.
@@ -44,18 +42,3 @@ Haas Alarm 113 is a **spindle encoder fault** — the CNC detected that the spin
 ## When to Call a Pro
 
 Spindle encoder replacement on Haas machines often requires pulling the spindle motor and precise encoder alignment. Incorrect alignment causes tapping errors and control faults. Have a Haas Factory Outlet technician perform encoder replacement if you're not experienced with spindle disassembly.
-
-## Related Articles
-
-- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
-- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
-- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
-- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
-
-## See Also
-
-- [Haas Alarm 119 — Spindle Not At Speed Causes & Fix](/posts/haas-alarm-119/)
-- [Haas Alarm 121 — ATC Arm Fault](/posts/haas-alarm-121/)
-- [Haas Alarm 103 Overheating — CNC Machine Thermal Fault Diagnosis and Fix](/posts/haas-alarm-103-overheating/)
-- [Haas SL-20 Lathe Common Alarms — What They Mean and How to Fix Them](/posts/haas-sl-20-lathe-alarms/)

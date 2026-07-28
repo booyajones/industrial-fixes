@@ -21,15 +21,12 @@ part_price: "$25-50"
 no_buy_pct: "60%"
 ---
 
-## Bosch Tankless A9 Error — What It Means
-
+## What this code means
 The A9 error code indicates that the hot water temperature sensor is not detecting the expected outlet temperature. Bosch interprets this as incorrect output power that is too low. The sensor, which clips onto the horizontal section of the ½-inch copper hot water pipe on the lower left side of the unit, is reporting a temperature lower than the set point. The heater may continue to run in a safe mode while flashing the error, or it may shut off entirely and require a manual reset.
 
 ## Before You Replace Anything
 
 Many people replace the sensor when the actual problem is a loose clip or corroded spade connector. Clean the spade terminals with sandpaper and reseat the sensor firmly before ordering a new part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

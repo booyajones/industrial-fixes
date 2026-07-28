@@ -13,11 +13,8 @@ money_part: "Low-pressure switch"
 most_likely_cause: "Low refrigerant charge"
 ---
 
-## Hoshizaki Ice Machine E8 Error Code — What It Means
-
+## What this code means
 The Hoshizaki **E8 error code** indicates a **low-side pressure switch fault** — the low-pressure switch in the refrigerant circuit has opened, indicating that suction pressure has dropped below the safe operating threshold. On Hoshizaki KM-series and other commercial ice machines, the low-pressure cutout protects the compressor from operating under vacuum conditions. E8 trips when the switch opens three consecutive times during the freeze cycle. The most common cause is low refrigerant charge, though a failed switch or excessive frost buildup can also trigger E8.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ The Hoshizaki **E8 error code** indicates a **low-side pressure switch fault** �
 ## When to Call a Pro
 
 E8 from low refrigerant is a certified-technician job. EPA Section 608 certification is required to purchase and handle refrigerant. A tech will locate the leak, repair it, evacuate, and recharge to the nameplate specification.
-
-## Related Articles
-
-- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
-- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)
-- [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
-- [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)
-
-## See Also
-
-- [Hoshizaki KM Series E1 Error Code — Causes & Fix](/posts/hoshizaki-km-series-e1-error/)
-- [Hoshizaki vs Manitowoc Ice Machines — A Commercial Tech's Honest Comparison (2026)](/posts/hoshizaki-vs-manitowoc-ice-machines/)
-- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
-- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)

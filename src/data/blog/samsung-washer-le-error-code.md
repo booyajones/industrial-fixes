@@ -17,8 +17,7 @@ money_part: "Samsung washer water-level / leak sensor"
 part_price: "$15-80"
 ---
 
-## Samsung Washer LE Error Code — What It Means
-
+## What this code means
 Samsung groups LE, 1E, 1C, LC, LC1, 1 1C, and 1 LC together as a water level or leakage error. The code means the control system has detected moisture somewhere it does not belong, or there is an issue with the sensor itself. This is not a motor fault. The washer thinks it is seeing an abnormal water condition and stops the cycle to prevent damage.
 
 The error can be triggered by an actual leak (even a small one that is hard to see), kinked supply or drain hoses, too many suds from excess detergent or non-HE detergent, or a problem with the drain hose holder behind the washer. In some cases the water-level or leak sensor itself is faulty, sending a false signal to the control board.
@@ -26,8 +25,6 @@ The error can be triggered by an actual leak (even a small one that is hard to s
 ## Before You Replace Anything
 
 Homeowners often replace the control board first when the real problem is a small leak pooling in the base or a kinked drain hose. Always inspect for visible water and hose routing before ordering electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

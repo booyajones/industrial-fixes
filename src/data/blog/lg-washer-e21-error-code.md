@@ -22,8 +22,7 @@ part_price: "$35-75"
 no_buy_pct: "65%"
 ---
 
-## LG Washer E21 Error Code — What It Means
-
+## What this code means
 E21 is not a standard LG error code in LG's published washer error list. LG documents codes like dE and OE for drainage faults, but not E21. When E21 appears on an LG washer, it is most likely a model-specific, regional, or misread code. In practice, when technicians or repair sites use E21, they usually mean the washer is not draining within the expected time or has a drain pump or drain path problem.
 
 LG's official drain troubleshooting pathway focuses on checking the drain hose, drain filter, and whether the drain pump is frozen or otherwise unable to empty the tub. Third-party sources describing E21 on washers consistently describe it as a drainage or pump-out problem caused by a clogged filter, blocked hose, or faulty drain pump.
@@ -31,8 +30,6 @@ LG's official drain troubleshooting pathway focuses on checking the drain hose, 
 ## Before You Replace Anything
 
 Homeowners often replace the drain pump immediately when the real problem is lint, coins, or debris blocking the filter or a kinked hose. Clean the filter and inspect the hose routing before buying a pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

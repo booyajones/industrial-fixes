@@ -13,11 +13,8 @@ money_part: "Ionization electrode"
 most_likely_cause: "Ignition failure (no flame confirmed)"
 ---
 
-## Triangle Tube Boiler Error E1 — What It Means
-
+## What this code means
 E1 on a Triangle Tube boiler (Prestige Solo, Excellence, or Challenger series) indicates a lockout fault from the boiler's integrated control module. Triangle Tube (now part of ACV Group) uses the Siemens LMS or Bosch control platform on its Prestige line; E1 generally corresponds to an ignition failure or flame loss lockout, depending on model. The boiler will not resume operation until the lockout is manually reset. Repeated E1 faults without an obvious cause warrant a professional combustion check.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,11 +42,3 @@ E1 on a Triangle Tube boiler (Prestige Solo, Excellence, or Challenger series) i
 ## When to Call a Pro
 
 Triangle Tube Prestige boilers use a modulating premix burner. Combustion analysis (CO/CO2 levels, air-gas ratio) must be performed with a calibrated flue gas analyzer by a certified technician. Do not adjust the gas valve or fan speed settings without this equipment.
-
-## Related Articles
-
-- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
-- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
-- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)

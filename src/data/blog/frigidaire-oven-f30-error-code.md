@@ -17,8 +17,7 @@ money_part: "Frigidaire oven temperature sensor (RTD probe)"
 part_price: "$15-40"
 ---
 
-## Frigidaire F30 Error Code — What It Means
-
+## What this code means
 The F30 code on a Frigidaire electric range signals an open probe fault. The electronic control board cannot read a valid signal from the oven temperature sensor (RTD) circuit. This happens when the sensor itself has failed, the wiring harness between the sensor and control is damaged or loose, or the connector has corroded. Frigidaire treats this as an electrical circuit issue, not a mechanical oven problem.
 
 The control expects to see a resistance value from the RTD sensor at all times. When that circuit appears open or infinite, the F30 code triggers and the oven will not operate normally. A power reset clears the fault temporarily if the problem is intermittent, but a true hardware failure will cause the code to return immediately.
@@ -26,8 +25,6 @@ The control expects to see a resistance value from the RTD sensor at all times. 
 ## Before You Replace Anything
 
 Many people replace the electronic control board first. Always test the RTD sensor resistance (should read 1,080-1,100 ohms at room temperature) and inspect the harness connector before replacing any control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

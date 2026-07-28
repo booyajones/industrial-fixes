@@ -17,8 +17,7 @@ free_checks:
   - "Inspect all wiring harness connections between the PCB and sensors for looseness or corrosion"
 ---
 
-## Navien E037 Error Code — What It Means
-
+## What this code means
 E037 does not appear in Navien's official error code database for residential tankless water heaters. The manufacturer does not list E037 in any service manual, FAQ, or diagnostic guide. This strongly suggests the display was misread or the unit is a non-North American model with different firmware. The closest valid codes are E035 (abnormal gas pressure sensor), E036 (communication failure between PCB and dual venturi), and E039 (abnormal water flow sensor). Technicians should verify the exact code displayed and cross-reference the model's official documentation.
 
 If the code is confirmed as E037, contact Navien technical support directly at 1-800-519-8794 for model-specific guidance. In most cases, re-reading the display or consulting the unit's wiring diagram will reveal one of the adjacent documented codes.
@@ -26,8 +25,6 @@ If the code is confirmed as E037, contact Navien technical support directly at 1
 ## Before You Replace Anything
 
 Technicians sometimes replace the main PCB when E036 communication errors appear, but loose Ready-link cables or incorrect DIP switch settings are the actual cause. Check all cable seating and switch positions before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a licensed plumber or Navien-certified technician immediately. Since E037 is not a documented code, professional diagnosis is required to identify the actual fault. If the code turns out to be E035 or E036, the repair involves gas system measurement, electrical diagnostics, and PCB replacement, all of which require specialized tools and training. Attempting gas pressure adjustments or board swaps without proper equipment can create safety hazards or void the warranty. A qualified technician can also contact Navien's technical support line directly to obtain firmware-specific guidance and make sure any non-standard codes are interpreted correctly.
 
 **Rough cost:** A pro service call runs about $150-400 depending on which valid code is confirmed.
-
-## See Also
-
-- [Navien E032 Error - Causes & Fix](/posts/navien-tankless-e032-error-code/)
-- [Navien E740 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e740-error-code/)
-- [Navien E615 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e615-error-code/)
-- [Navien E047 Error - Causes & Fix](/posts/navien-tankless-e047-error-code/)

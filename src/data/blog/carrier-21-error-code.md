@@ -57,18 +57,3 @@ description: "Carrier error code 21 signals a gas heating lockout — the furnac
 If you've reset the lockout, confirmed the inducer runs smoothly, the pressure switch closes, and you're still getting code 21, you need a tech with a combustion analyzer and gas pressure gauge. A gas valve that's partially opening (low gas flow) or a cracked heat exchanger disrupting the flame will both produce a 21 lockout that looks like a control board problem. Tell your tech: "Code 21, hard lockout. Inducer runs, pressure switch is closed, igniter glows. Gas valve gets 24V but I still can't prove flame."
 
 > **Pro tip:** Before assuming a board failure on a 21 lockout, check if someone recently replaced the gas valve with an aftermarket unit that has a slightly different pressure rating. A mismatched valve regulator can produce the exact right resistance to cause intermittent ignition failures that accumulate into a lockout.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier Chiller Fault Codes — Complete Troubleshooting Guide](/posts/carrier-chiller-fault-codes/)
-- [Carrier 24ACC6 Heat Pump Error Codes: Complete Diagnostic Guide](/posts/carrier-24acc6-heat-pump-error-codes/)
-- [Carrier Furnace Error Code 31 — Pressure Switch Open Fix](/posts/carrier-error-code-31/)
-- [Carrier 48 Error Code — Induced Draft Motor Lockout](/posts/carrier-48-error-code/)

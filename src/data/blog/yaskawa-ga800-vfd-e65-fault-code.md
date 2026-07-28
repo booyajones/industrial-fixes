@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "STO input wiring / safety loop wiring"
 ---
 
-## Yaskawa GA800 E65 Fault — What It Means
-
+## What this code means
 E65 on the Yaskawa GA800 is a Safe Torque Off (STO) safety input-related fault. It means the drive's internal safe-torque-off safety circuit is open, inconsistent, or the STO-related input state does not meet the drive's run-permit requirement. The drive will inhibit torque production when the STO safety path is not satisfied, preventing motor operation until the safety chain is restored. The STO function is a built-in safety feature that responds to external safety devices like E-stops, guard switches, door interlocks, and safety relays.
 
 This fault is almost always caused by the external safety chain rather than the drive itself. The GA800 is reporting that it does not see the required safety-relay output or jumper connection at its STO input terminals. Yaskawa's troubleshooting process starts by checking the safety circuit and wiring before replacing any drive components.
@@ -24,8 +23,6 @@ This fault is almost always caused by the external safety chain rather than the 
 ## Before You Replace Anything
 
 Technicians sometimes replace the GA800 control board before verifying the external safety chain. Always check E-stop status, safety relay outputs, STO terminal wiring, and terminal tightening first. Most E65 faults clear once the external safety circuit is restored.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or Yaskawa-trained technician if you are not familiar with industrial control wiring, safety relay logic, or VFD terminal assignments. E65 troubleshooting requires working with live control circuits and understanding the safety chain architecture. If the external safety circuit checks out but the fault persists, the control board or STO interface hardware is likely at fault and should be diagnosed and replaced by a professional. Do not bypass or jumper the STO circuit to force the drive to run, as this defeats the machine's safety system and violates safety standards.
 
 **Rough cost:** A pro service call runs about $150–400 depending on whether the fix is wiring repair, safety relay replacement, or control board.
-
-## See Also
-
-- [Yaskawa A1000 AL-01 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-01-fault-code/)
-- [Yaskawa GA800 F009 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f009-fault-code/)
-- [Yaskawa GA800 E09 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e09-fault-code/)
-- [Yaskawa GA800 EF3 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f003-fault-code/)

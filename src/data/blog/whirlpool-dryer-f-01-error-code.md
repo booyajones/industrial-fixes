@@ -17,8 +17,7 @@ money_part: "Whirlpool Dryer Main Control Board (Electronic Control Board)"
 part_price: "$80-200"
 ---
 
-## Whirlpool Dryer F-01 Error Code — What It Means
-
+## What this code means
 The F-01 code on a Whirlpool dryer indicates a failure in the electronic control system, specifically a main control board communication or power-distribution problem. This is not a generic sensor fault. The control board has lost the ability to communicate with the rest of the dryer's systems, or a critical component on the board itself has failed.
 
 Whirlpool's official first step is a hard reset: turn off the circuit breaker for five minutes, restore power, then run a Timed Dry cycle for one minute to see if the code returns. If it does, the fault is real and usually points to the main control board, though loose wiring or secondary faults (belt, thermal fuse, door switch, or thermistor issues) can trigger the code on some models.
@@ -26,8 +25,6 @@ Whirlpool's official first step is a hard reset: turn off the circuit breaker fo
 ## Before You Replace Anything
 
 Homeowners sometimes replace the thermal fuse, door switch, or thermistor first because those parts are cheap and easy to reach. Check the main control board for visible burn marks, failed relays, or loose connectors before ordering other parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

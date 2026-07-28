@@ -22,8 +22,7 @@ part_price: "$30-50"
 no_buy_pct: "40%"
 ---
 
-## Whirlpool Washer LF Error Code — What It Means
-
+## What this code means
 The LF error code stands for Long Fill. The control board has detected that the washer is taking an excessive amount of time to fill the tub with water to the expected level, or the water is not entering the tub at all. The washer typically cancels the cycle after a fill time exceeding 12 to 15 minutes (varies slightly by model firmware) without the pressure sensor or fill timer confirming the correct water volume.
 
 You may see the water level rising very slowly or remaining empty, and the machine will stop and display LF. The code indicates a restriction or failure in the water supply path, not a drain problem.
@@ -31,8 +30,6 @@ You may see the water level rising very slowly or remaining empty, and the machi
 ## Before You Replace Anything
 
 Homeowners often replace the pressure sensor (water level sensor) first when the real problem is a failed inlet valve or clogged screens. Test water flow from the wall valves and isolate hot versus cold supply before buying any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

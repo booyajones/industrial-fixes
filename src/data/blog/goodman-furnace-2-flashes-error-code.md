@@ -14,13 +14,10 @@ money_part: "Goodman pressure switch"
 most_likely_cause: "Failed or mechanically stuck pressure switch"
 ---
 
-## Goodman Furnace 2 Flashes — What It Means
-
+## What this code means
 When your Goodman furnace flashes its diagnostic LED twice in a repeating pattern, the control board has detected a pressure switch error with the switch stuck closed. The board is seeing the pressure switch circuit closed when it expects it to be open, or it has detected a short in the pressure-switch circuit. The pressure switch is a safety device that proves the inducer blower is creating proper draft before allowing gas to flow. A stuck-closed switch tells the board that something is wrong with the switch itself, the wiring, or the draft conditions in the furnace.
 
 This fault can stem from a genuinely failed pressure switch that will not open electrically, a short or miswiring in the harness, pinched or cracked pressure-sensing tubing, or an inducer and venting problem that prevents normal pressure cycling. The most common real-world fix is replacing the pressure switch after confirming the tubing and wiring are intact, but you must test rather than assume.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ This fault can stem from a genuinely failed pressure switch that will not open e
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are uncomfortable working with gas appliances, cannot safely access the pressure switch and tubing, or do not own a manometer to measure draft pressure. A technician should also diagnose the fault if you have replaced the pressure switch and tubing but the 2-flash code returns, because the root cause may be a control-board fault, complex venting issue, or gas-valve problem that requires specialized tools and training. Any work involving gas connections, flue venting, or control-board replacement is best left to a qualified professional to protect your safety and warranty.
-
-## See Also
-
-- [Goodman Furnace E3 Error Code — Draft Motor Fault](/posts/goodman-furnace-e3-error-code/)
-- [Goodman E4 Error Code - Causes & Fix](/posts/goodman-heat-pump-e4-error-code/)
-- [Goodman vs Bryant Furnaces — A Service Tech's Honest Comparison (2026)](/posts/goodman-vs-bryant-furnaces/)
-- [Goodman GMSS96 Furnace Error Codes — Flash Code Diagnostic Guide](/posts/goodman-gmss96-error-codes/)

@@ -20,8 +20,7 @@ free_checks:
 part_price: "$30-60"
 ---
 
-## Navien E047 Error — What It Means
-
+## What this code means
 The E047 code means "Abnormal Operation: Exhaust Thermostat." Your Navien tankless water heater has detected a failure or signal disruption in the exhaust temperature sensor (thermostat) that monitors the heat exchanger's exit temperature. This sensor is a safety device that watches for overheating caused by scale buildup, a pinhole leak, or other issues. When the control board receives an abnormal signal (open circuit, short circuit, or out-of-range value) from this sensor, it triggers E047 and shuts down the unit to prevent damage.
 
 The exhaust thermostat is mounted near the heat exchanger outlet or on the exhaust manifold. If the sensor itself fails internally or if the heat exchanger overheats due to severe calcification or a leak, the board will throw this code. Loose or corroded wiring between the sensor and the PCB can also cause the error. Navien requires a licensed HVAC technician or gas fitter to diagnose and repair this code because it involves internal components and potential gas-system work.
@@ -29,8 +28,6 @@ The exhaust thermostat is mounted near the heat exchanger outlet or on the exhau
 ## Before You Replace Anything
 
 Homeowners sometimes replace the entire heat exchanger thinking it has failed, when the fault is only the inexpensive exhaust thermostat sensor. A resistance test with an ohmmeter will confirm whether the sensor is working before committing to a costly heat exchanger replacement.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -80,10 +77,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician or gas fitter immediately for E047. This code involves internal electrical testing of the exhaust thermostat, working near the gas burner and heat exchanger, and potentially replacing sealed components. The tech will use an ohmmeter to test the sensor's resistance, inspect the heat exchanger for scale or leaks, and replace the faulty part. Navien requires professional service for this code because incorrect diagnosis can lead to dangerous overheating, gas leaks, or carbon monoxide hazards. Do not attempt sensor replacement or heat exchanger work yourself if you are not licensed and trained on tankless water heaters.
 
 **Rough cost:** A pro service call runs about $150-300.
-
-## See Also
-
-- [Navien E046 Error Code - Causes & Fix](/posts/navien-tankless-e046-error-code/)
-- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
-- [Navien E037 Error Code - Causes & Fix](/posts/navien-tankless-e037-error-code/)
-- [Navien E004 Error Code - Causes & Fix](/posts/navien-tankless-e004-error-code/)

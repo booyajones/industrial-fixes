@@ -19,8 +19,6 @@ An Electrolux washer leaking water is not a single fault code but a symptom with
 
 Leaks can appear at the front, back, bottom, or around specific components like the door seal, inlet connections, drain hose, or dispenser drawer. Water on the floor may also come from over-sudsing or a blocked household drain causing backflow. Pinpointing the exact location is the first step to a successful repair.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Inlet hose leak or loose connection** The most common cause is a loose hose fitting at the tap or washer back, a damaged or missing O-ring gasket inside the connector, or a cracked hose fitting.

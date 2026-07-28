@@ -18,8 +18,6 @@ most_likely_cause: "Ignition lockout (pilot out)"
 
 The Weil-McLain ECG (ECG-Series) is a cast-iron gas boiler designed for hydronic heating systems. It uses a standing pilot or intermittent ignition system and a series of safety controls to protect the boiler and heating system. Faults on the ECG are indicated by lockout status on the Beckett or Honeywell ignition module, LED flash codes on the aquastat relay, or visible indicators depending on the model and accessories.
 
-[Jump to Fix](#fix)
-
 ## Weil-McLain ECG Fault Indicators
 
 | Indicator | Meaning |
@@ -72,18 +70,3 @@ The Weil-McLain ECG (ECG-Series) is a cast-iron gas boiler designed for hydronic
 ## When to Call a Pro
 
 Gas boiler work involves gas combustion, high-temperature/pressure systems, and often asbestos insulation on older installations. If you smell gas, see carbon deposits on the burner, or the LWCO has tripped on a steam boiler, stop operating the unit and call a licensed heating contractor immediately.
-
-## Related Articles
-
-- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
-- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
-- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)
-
-## See Also
-
-- [Weil-McLain Boiler Error Code E02 — Ignition Failure Fix](/posts/weil-mclain-e02-ignition-failure/)
-- [Weil-McLain Code 3 — Low Water Cutoff Fix](/posts/weil-mclain-error-code-3/)
-- [Weil-McLain Code 1 — No Flame Sensed Fix](/posts/weil-mclain-error-code-1/)
-- [Weil-McLain Boiler Error Code E10 — Low Water Pressure Fix](/posts/weil-mclain-e10-low-pressure/)

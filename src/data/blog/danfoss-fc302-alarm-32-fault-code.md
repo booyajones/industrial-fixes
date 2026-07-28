@@ -13,13 +13,10 @@ money_part: "Motor cable (3-phase shielded VFD-rated)"
 most_likely_cause: "Loose or disconnected motor lead on phase W"
 ---
 
-## Danfoss FC302 Alarm 32 — What It Means
-
+## What this code means
 Alarm 32 on the Danfoss FC302 indicates that the drive does not detect continuity or expected current on the W output phase between the frequency converter and the motor. Danfoss groups Alarm 30, 31, and 32 as the missing motor phase family, with 32 tied specifically to phase W. The drive has detected that the W phase output is open, disconnected, or otherwise not being recognized as a valid motor phase. This alarm does not appear when the drive is starting.
 
 The fault points to an interruption somewhere in the W phase circuit, from the drive output terminal through the motor cable to the motor winding itself. The drive expects to see balanced current on all three phases during operation, and the absence of current on W triggers the protective alarm.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ The fault points to an interruption somewhere in the W phase circuit, from the d
 ## When to Call a Pro
 
 Call a qualified technician if you are not trained to work on high-voltage DC bus circuits or if you cannot safely verify that the drive's capacitors are discharged. If continuity tests and wiring inspections do not locate the fault, or if the alarm persists after verifying all external connections and substituting a known-good motor, the drive's internal power stage likely requires module-level repair or replacement that should be performed by a drive specialist or Danfoss-certified service provider.
-
-## See Also
-
-- [Danfoss FC-302 Alarm 13 — DC Link Overvoltage Fix](/posts/danfoss-fc302-alarm-13/)
-- [Danfoss FC302 ALARM 31 - Causes & Fix](/posts/danfoss-fc302-alarm-31-fault-code/)
-- [Danfoss FC302 ALARM 37 - Causes & Fix](/posts/danfoss-fc302-alarm-37-fault-code/)
-- [Danfoss FC-302 Alarm 12 — Overcurrent Fix](/posts/danfoss-fc302-alarm-12/)

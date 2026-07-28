@@ -17,8 +17,7 @@ money_part: "GE microwave membrane keypad (touchpad assembly)"
 part_price: "$40-120"
 ---
 
-## GE Microwave F3 Error Code — What It Means
-
+## What this code means
 The F3 error code on a GE microwave indicates a control system fault involving the keypad membrane or control board. The oven is detecting an abnormal or inconsistent input signal from the user interface, which the control system interprets as a shorted keypad circuit or invalid membrane switch input. This is fundamentally a control-panel input fault, not a problem with the magnetron, high-voltage components, or door switches.
 
 In practical service terms, technicians treat F3 as a shorted key panel or membrane keypad fault first. Moisture intrusion, spills, contamination around the touchpad, or a degraded ribbon cable connection between the keypad and control board can all trigger the code. Less commonly, the electronic control board itself may be misreading or failing to process keypad signals correctly.
@@ -26,8 +25,6 @@ In practical service terms, technicians treat F3 as a shorted key panel or membr
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board first, but the membrane keypad is the most common failed component. Always inspect and test the keypad and ribbon connector before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

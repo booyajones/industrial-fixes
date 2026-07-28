@@ -13,11 +13,8 @@ money_part: "Internal cooling fan"
 most_likely_cause: "Blocked or failed cooling fan"
 ---
 
-## Allen-Bradley PowerFlex Fault F025 — What It Means
-
+## What this code means
 Fault F025 on an Allen-Bradley PowerFlex 40, 400, 525, or 755 drive indicates Drive Overtemperature — the heatsink or internal temperature sensor inside the drive enclosure exceeded the maximum safe operating temperature. PowerFlex drives continuously monitor their internal temperature via a thermistor on the heatsink. When temperature exceeds the trip point (typically 85–105°C depending on model), F025 is generated and the drive shuts down to prevent IGBT failure.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Fault F025 on an Allen-Bradley PowerFlex 40, 400, 525, or 755 drive indicates Dr
 ## When to Call a Pro
 
 If F025 persists after correcting cooling and load, a Rockwell Automation-authorized integrator should inspect the drive for internal fault conditions — specifically, a failed thermal sensor or IGBT degradation causing elevated self-heating.
-
-## Related Articles
-
-- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
-- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
-- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
-- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)
-- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)
-
-## See Also
-
-- [Allen-Bradley PowerFlex 525 Fault F003 - What It Means and How to Fix It](/posts/allen-bradley-powerflex-525-fault-f003/)
-- [Allen-Bradley PowerFlex Fault F002 — Causes & Fix](/posts/allen-bradley-powerflex-fault-f002/)
-- [Allen-Bradley PowerFlex F070 Fault — Power Unit Fault Fix](/posts/allen-bradley-powerflex-f070-fault/)
-- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)

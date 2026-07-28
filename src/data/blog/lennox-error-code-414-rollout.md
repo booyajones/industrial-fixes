@@ -13,11 +13,8 @@ money_part: "Rollout limit switch (manual reset)"
 most_likely_cause: "Blocked flue causing rollout"
 ---
 
-## Lennox Error Code 414 Rollout — What It Means
-
+## What this code means
 Lennox fault code 414 has two distinct triggers on SureLight control boards: one for gas valve circuit faults (covered in a separate guide) and one specifically for the rollout limit switch circuit. When 414 is paired with a rollout switch trip, the board detected that one or more rollout switches opened during or between heating cycles. Lennox units often have two rollout switches — one per burner bank — and the 414 rollout variant may indicate a single switch tripped or that both switches are in the circuit and one has failed open. This is a safety shutdown condition.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Lennox fault code 414 has two distinct triggers on SureLight control boards: one
 ## When to Call a Pro
 
 Rollout events are a carbon monoxide and fire risk. If the switch tripped due to an actual flame rollout rather than a component failure, do not operate the furnace until a technician identifies and corrects the draft or combustion issue. A cracked heat exchanger can produce rollout conditions and is not field-repairable.
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-
-## See Also
-
-- [Lennox G60UHV Furnace Error Codes — Flash Code Diagnostic Guide](/posts/lennox-g60uhv-error-codes/)
-- [Lennox Error Code 540 — Causes & Fix](/posts/lennox-error-code-540/)
-- [Lennox Rooftop Unit Error Codes: Technician Guide](/posts/lennox-rooftop-unit-error-codes/)
-- [Lennox Error Code 412 — Inducer Motor Fault (Detailed Guide)](/posts/lennox-error-code-412-inducer/)

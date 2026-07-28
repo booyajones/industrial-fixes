@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 CPF02 — What It Means
-
+## What this code means
 The CPF02 fault on a Yaskawa A1000 variable frequency drive is a control-circuit or A/D conversion self-diagnostic error. This means the drive has detected a failure in its internal control electronics, specifically in the analog-to-digital conversion system or related control-board self-test. Unlike motor overloads or output-stage faults, CPF02 points to a problem inside the drive's own circuitry rather than in the motor or field wiring.
 
 In practice, the drive's internal A-D conversion or control-board monitoring has failed a self-check. The fault is almost always hardware-related and usually requires control-board or drive-level service. Power-cycling may clear a transient error, but if the fault returns the control board or complete drive typically needs replacement.
@@ -24,8 +23,6 @@ In practice, the drive's internal A-D conversion or control-board monitoring has
 ## Before You Replace Anything
 
 Technicians sometimes replace the operator keypad or field wiring first. Check and reseat the operator/keypad connector and all internal control-board connections before replacing the control board itself, since a loose connector can mimic board failure.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if you are not trained to work on high-voltage industrial equipment, if you cannot safely verify that all stored energy is discharged, or if you do not have the tools and documentation to open and service the drive. CPF02 requires internal inspection, connector work, and often control-board replacement. A technician with Yaskawa training can also access factory diagnostic modes, verify DC bus voltage levels, and confirm that a replacement control board is properly configured and tested before returning the drive to service. If the drive is under warranty or service contract, contact Yaskawa or your distributor before opening the enclosure.
 
 **Rough cost:** A pro service call runs about $400–1,200 for control-board replacement or complete drive, depending on model and labor.
-
-## See Also
-
-- [Yaskawa V1000 OV Fault - What It Means and How to Fix It](/posts/yaskawa-v1000-fault-ov/)
-- [Yaskawa GA800 E18 Error - Causes & Fix](/posts/yaskawa-ga800-e18-fault-code/)
-- [Yaskawa GA800 A.121 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-121-fault-code/)
-- [Yaskawa VFD Fault UV1 — Causes & Fix](/posts/yaskawa-vfd-fault-uv1/)

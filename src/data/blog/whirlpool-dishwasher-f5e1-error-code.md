@@ -19,8 +19,7 @@ part_price: "$30-90"
 no_buy_pct: "35%"
 ---
 
-## Whirlpool F5E1 Error Code — What It Means
-
+## What this code means
 The F5E1 error code does not mean the same thing across all Whirlpool appliances. On Whirlpool ranges and wall ovens, it indicates a fault in the main oven door latch assembly, the door switch, or associated wiring. On Whirlpool washers, the code signals that the door cannot be locked or unlocked. On Whirlpool dishwashers, it means one or more sensors are returning readings outside the expected operating range.
 
 Because the code definition depends entirely on which appliance is displaying it, you must first identify your appliance type. Check your owner's manual or the model label to confirm whether you have a dishwasher, washer, or range. The diagnostic path and parts involved are completely different for each appliance, so matching the code to the correct machine is the essential first step.
@@ -28,8 +27,6 @@ Because the code definition depends entirely on which appliance is displaying it
 ## Before You Replace Anything
 
 On ranges, many people replace the entire control board when only the door latch motor or switch has failed. Run the diagnostic latch test and check latch-motor continuity with a multimeter before ordering a control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

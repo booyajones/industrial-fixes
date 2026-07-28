@@ -44,10 +44,3 @@ The most frequent problems on this model trace back to communication faults betw
 ## When to Call a Pro
 
 Call a professional for any refrigerant work, including leak detection, evacuation, and recharge, because it requires EPA certification and special gauges. Also call a tech for compressor replacement, circuit board swaps, or any communication fault that persists after you've checked the wiring and power-cycled the system. If you're not comfortable working inside high-voltage electrical panels or tracing low-voltage communication wiring between the indoor and outdoor units, leave it to a licensed HVAC technician.
-
-## See Also
-
-- [Mitsubishi Mini Split EE Error Code - Causes & Fix](/posts/mitsubishi-mini-split-ee-error-code/)
-- [Mitsubishi P2 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-p2-error-code/)
-- [Mitsubishi P3 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-p3-error-code/)
-- [Mitsubishi E4 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-e4-error-code/)

@@ -18,8 +18,7 @@ free_checks:
   - "Inspect the thermistor wire harness for visible damage, cuts, or loose connections at the control board."
 ---
 
-## Hoshizaki E6 Error Code — What It Means
-
+## What this code means
 The E6 error code on a Hoshizaki ice machine signals a thermistor (temperature sensor) fault for either the ice bin or the evaporator plate. The control board has detected that the sensor's resistance is out of range, either reading as an open circuit (infinite resistance) or a short (zero resistance). This means the sensor cannot accurately report temperature, so the machine stops to prevent damage or poor ice production.
 
 This is not a cleaning issue, a harvest problem (which would show as E1), or a voltage fault (which triggers six beeps without an E6 display). The fault is electrical, pointing to a broken sensor, damaged wiring, or a loose connection between the thermistor and the control board.
@@ -27,8 +26,6 @@ This is not a cleaning issue, a harvest problem (which would show as E1), or a v
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board first when the real problem is a bad thermistor or corroded wire harness. Always test the sensor resistance with a multimeter before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified refrigeration technician for this repair. The work involves diagnosing live control circuits with a multimeter, accessing sealed components inside a commercial ice machine, and replacing sensors or boards that must match your model's specifications. Incorrect sensor replacement or wiring mistakes can damage the control board or cause the machine to produce unsafe ice. A pro will test the thermistor resistance, verify the harness integrity, and replace only the failed component, avoiding expensive misdiagnosis and ensuring the machine runs reliably.
 
 **Rough cost:** A pro service call runs about $150-300.
-
-## See Also
-
-- [Hoshizaki E2 Error Code - Causes & Fix](/posts/hoshizaki-ice-machine-e2-error-code/)
-- [Hoshizaki KM-901 Error Codes - What They Mean and How to Fix Them](/posts/hoshizaki-km-901-error-codes/)
-- [Hoshizaki E1 Error Code - Causes & Fix](/posts/hoshizaki-ice-machine-e1-error-code/)
-- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)

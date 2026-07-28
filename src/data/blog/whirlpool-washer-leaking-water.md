@@ -19,8 +19,6 @@ A Whirlpool washer leaking water is a symptom, not a single fault code. Water ca
 
 Whirlpool identifies the most common sources as loose or damaged fill hoses, leaking inlet valves, clogged or kinked drain hoses, dirty or torn door seals on front-load models, clogged drain pump filters, oversudsing from too much detergent, and machines that are not level. If you also see an F8 E1 or Lo FL code, the washer is not detecting correct incoming water and you should check that both hot and cold supply valves are fully open and inlet screens are not clogged.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Loose or damaged fill hoses** Cracked hoses, missing rubber washers at the connections, or loose fittings at the back of the washer are the most common leak sources.

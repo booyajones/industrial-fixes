@@ -17,8 +17,7 @@ money_part: "Dishwasher inlet elbow fitting (3/4 inch)"
 part_price: "$5-30"
 ---
 
-## Whirlpool Dishwasher F8E4 Error Code — What It Means
-
+## What this code means
 The F8E4 code on a Whirlpool dishwasher signals that water has been detected in the drip tray or base pan underneath the machine. This triggers the float or leak-protection system and stops operation to prevent flooding. The code is not a control-board fault by default. Instead, it is a water-detection and leak-protection response.
 
 In most cases, the water comes from a loose or improperly seated water-supply connection, over-sudsing from the wrong detergent, or an internal leak that drains into the base pan. Whirlpool's published guidance instructs you to inspect the water-supply connections, confirm the float switch is connected properly, and empty the drip tray if water is present.
@@ -27,31 +26,13 @@ In most cases, the water comes from a loose or improperly seated water-supply co
 
 Homeowners sometimes replace the control board when they see an F8 code. Before ordering any electronics, pull the dishwasher out and check for standing water in the base pan and loose inlet fittings. Those account for most F8E4 codes and cost nothing to inspect.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Loose or improperly seated inlet connection (~40%)** A loose coupling or missing rubber washer at the 3/4" elbow fitting lets water drip into the base pan during the fill cycle.
-- **Water in the drip tray from a previous leak (~25%)** Even after a leak is fixed, water remaining in the base pan will keep the float switch triggered until the tray is emptied and dried.
-- **Over-sudsing or wrong detergent (~20%)** Using too much detergent or a product not designed for automatic dishwashers pushes foam and water out of the tub and into the base.
-- **Float switch or connector not seated (~10%)** If the float switch connector is loose or the switch itself is dislodged, the machine may read a false leak signal.
-- **Internal leak from the tub or door seal (~5%)** A worn door gasket or a crack in the tub can allow water to seep into the base pan over multiple cycles.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Is there standing water in the drip tray under the dishwasher?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Empty and dry the tray, then press Cancel twice to clear the code and restart. If the code returns immediately, you have an active leak.<br><strong>No:</strong> The float switch may be stuck or disconnected, or residual moisture is triggering it. Check the float switch connector and let the base dry completely before retesting.</div>
-</details>
-
-<details class="dtree"><summary>Did you see foam or excessive suds during the last cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Stop the cycle, let the suds dissipate, and switch to a detergent specifically designed for automatic dishwashers. Over-sudsing is a common cause of F8E4.<br><strong>No:</strong> Focus on the water-supply connections and internal leak points. Pull the dishwasher out and inspect the inlet elbow and fill hose routing.</div>
-</details>
-
-<details class="dtree"><summary>Are the water-inlet fittings hand-tight with no visible drips?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Tighten the coupling an additional 1/4 to 1/2 turn with pliers to compress the rubber washer, as specified by Whirlpool, then retest.<br><strong>No:</strong> A loose fitting is your leak source. Tighten the connection, check that the rubber washer is in place and not damaged, and restart the machine.</div>
-</details>
+- **Loose or improperly seated inlet connection** A loose coupling or missing rubber washer at the 3/4" elbow fitting lets water drip into the base pan during the fill cycle.
+- **Water in the drip tray from a previous leak** Even after a leak is fixed, water remaining in the base pan will keep the float switch triggered until the tray is emptied and dried.
+- **Over-sudsing or wrong detergent** Using too much detergent or a product not designed for automatic dishwashers pushes foam and water out of the tub and into the base.
+- **Float switch or connector not seated** If the float switch connector is loose or the switch itself is dislodged, the machine may read a false leak signal.
+- **Internal leak from the tub or door seal** A worn door gasket or a crack in the tub can allow water to seep into the base pan over multiple cycles.
 
 ## Step-by-Step Fix {#fix}
 
@@ -74,5 +55,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a pro if you have emptied the drip tray, tightened all inlet connections, confirmed proper detergent use, and the F8E4 code still returns with no visible leak. A technician can perform component-level leak tracing, check internal hose clamps and pump seals, and test the float switch circuit with a multimeter. Also call for help if you are uncomfortable pulling the dishwasher out or working with water and electrical connections at the same time.
-
-**Rough cost:** DIY runs about $5-30 in parts (if a washer or elbow is damaged), 30-60 min. A pro service call runs about $100-200 service call.

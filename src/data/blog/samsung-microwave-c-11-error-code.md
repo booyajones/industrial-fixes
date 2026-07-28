@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Gas/Easy/PH Sensor Assembly"
 ---
 
-## Samsung Microwave C-11 Error Code — What It Means
-
+## What this code means
 Samsung groups the C-11 code under gas/easy/PH sensor errors on microwave models that use these sensor systems. The control board is not receiving a valid signal from the sensor circuit. Samsung's official guidance is to reset power first, and if the code returns, the unit requires service.
 
 The code indicates a problem somewhere in the sensor circuit: the sensor itself, the wiring harness, the connector, or the control board input. Samsung does not publish a deeper root-cause breakdown or user-level troubleshooting steps beyond the power reset on their support pages.
@@ -25,8 +24,6 @@ The code indicates a problem somewhere in the sensor circuit: the sensor itself,
 ## Before You Replace Anything
 
 Some owners assume the keypad or control panel is faulty and replace it. Because Samsung explicitly classifies C-11 as a sensor error, inspect the sensor assembly and its connector first before replacing the main board or keypad.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

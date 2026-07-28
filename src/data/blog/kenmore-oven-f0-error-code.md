@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Kenmore Oven F0 Error Code — What It Means
-
+## What this code means
 On Kenmore ovens that use a GE-style electronic control, F0 usually signals that the oven control has detected a problem in the touch keypad (touchpad) or the electronic oven control board (EOC or ERC) itself. The fault is commonly interpreted as a stuck key, a shorted keypad circuit, or an internal failure in the control board. Because Kenmore is a brand label and the actual control manufacturer varies, the exact meaning depends on the underlying platform, but the dominant documented interpretation for Kenmore ovens with GE-derived controls is a keypad or control-unit fault.
 
 Some sources describe F0 as roughly a 50/50 split between a defective keypad sending false signals and a failed control board with an internal defect. Ribbon-cable or connector issues between the keypad and the board, liquid intrusion behind the control panel, and heat-related solder-joint failures on the control board are also documented real-world causes. The fault may appear immediately on power-up, only when touching keys, or intermittently after the oven heats, depending on which component is failing.
@@ -26,8 +25,6 @@ Some sources describe F0 as roughly a 50/50 split between a defective keypad sen
 ## Before You Replace Anything
 
 Many people replace the control board first when the touchpad is actually at fault. Disconnect the ribbon harness from the keypad and power up; if F0 disappears, the keypad is the problem.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

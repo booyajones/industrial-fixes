@@ -23,8 +23,6 @@ This matters on the **True GDM series**, the glass door merchandisers you see in
 
 In most cases, the fix is the same basic process as other probe faults: test the **NTC thermistor**, inspect the wiring path, and replace the sensor if the reading is wrong.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
 - **Failed evaporator temperature probe**. The thermistor has gone open, shorted, or drifted far enough to trigger the alarm.
@@ -77,12 +75,5 @@ Call a technician if the new probe does not clear the code, the evaporator keeps
 ## Related Error Codes
 
 - [True Refrigerator Error Code E1 / P1: Thermostat Probe Failure](/posts/true-refrigeration-e1-p1-error/)
-- [True Refrigeration E5 Error Code: Defrost Sensor Causes and Fix](/posts/true-refrigeration-e5-error-code/)
+- True Refrigeration E5 Error Code: Defrost Sensor Causes and Fix
 - [True Refrigeration Error Codes: Complete Guide](/posts/true-refrigeration-error-codes/)
-
-## See Also
-
-- [True Refrigeration E6 Error Code — High Temperature Alarm Causes & Fix](/posts/true-refrigeration-e6-error-code/)
-- [True GDM-49 Glass Door Merchandiser Error Codes - Full Fault Guide](/posts/true-gdm-49-error-codes/)
-- [True T-49 Refrigerator Error Codes — Complete Guide](/posts/true-refrigeration-t49-error-codes/)
-- [True GDM-23 Error Codes - What It Means and How to Fix It](/posts/true-gdm-23-error-codes/)

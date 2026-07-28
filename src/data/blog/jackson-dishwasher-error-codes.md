@@ -27,8 +27,6 @@ Jackson WWS (Warewashing Solutions) manufactures commercial dishwashers widely u
 | E-7 | Door not closed | Medium |
 | E-8 | Chemical dispenser fault | Low |
 
-[Jump to Fix](#fix)
-
 ## Common Fixes {#fix}
 
 **E-1/E-2 (water):** Check water supply pressure and shutoff valve. Clean inlet valve screen. Test solenoid coil (typically 200-400Ω).

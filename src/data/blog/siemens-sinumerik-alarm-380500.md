@@ -13,11 +13,8 @@ money_part: "DRIVE-CLiQ cable"
 most_likely_cause: "SINAMICS S120 drive sub-fault"
 ---
 
-## Siemens Sinumerik Alarm 380500 — What It Means
-
+## What this code means
 Siemens Sinumerik alarm 380500 (%1 is a group alarm for drive (SINAMICS/611D) faults detected via the DRIVE-CLiQ or PROFIBUS interface between the NCK and the drive system. The %1 parameter in the alarm text substitutes the specific drive component identifier (e.g., "SERVO_1" or "A1:S1.1") and the sub-fault type. Alarm 380500 typically indicates that the Sinumerik NCK received a fault report from the connected SINAMICS S120 or 840D servo drive and shut down the affected axes. The actual root cause is in the drive's own fault memory, not in the CNC alarm directly.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Siemens Sinumerik alarm 380500 (%1 is a group alarm for drive (SINAMICS/611D) fa
 ## When to Call a Pro
 
 Sinumerik 840D/840Dsl systems require Siemens commissioning software (Starter or SINAMICS Startdrive) to properly diagnose drive-level faults and re-commission servo parameters after a motor module replacement. This work is typically performed by a Siemens-certified service engineer.
-
-## Related Articles
-
-- [Siemens Sinumerik 828D Alarm Codes Guide — Complete Diagnostic Reference](/posts/siemens-828d-alarm-codes/)
-- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
-- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)
-- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
-- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)
-
-## See Also
-
-- [Siemens SENTRON 3WL/3VA Fault Codes — Troubleshooting Guide](/posts/siemens-sentron-fault-codes/)
-- [Siemens Sinumerik Alarm 380600 — Encoder Fault](/posts/siemens-sinumerik-alarm-380600/)
-- [Siemens SINAMICS V20 F1 Fault — Causes & Fix](/posts/siemens-sinamics-v20-f1-fault/)
-- [Siemens Micromaster Fault F001 — Causes & Fix](/posts/siemens-micromaster-fault-f001/)

@@ -13,11 +13,8 @@ money_part: "Indoor coil thermistor"
 most_likely_cause: "Failed thermistor"
 ---
 
-## Daikin F9 Error Code — What It Means
-
+## What this code means
 Daikin error code **F9** indicates a fault with the **indoor heat exchanger temperature sensor (thermistor)**. The sensor that monitors the indoor coil temperature for freeze protection and capacity control is reading outside the expected range. F9 appears on Daikin wall-mount, ceiling cassette, and floor-console indoor units.
-
-[Jump to Fix](#fix)
 
 On Daikin systems, F9 specifically refers to the **indoor heat exchanger midpoint thermistor** (also called the "liquid pipe thermistor" or "coil outlet thermistor"). This is separate from the room air temperature thermistor (which causes different codes).
 
@@ -48,24 +45,6 @@ On Daikin systems, F9 specifically refers to the **indoor heat exchanger midpoin
 ## When to Call a Pro
 If the thermistor and connector check out but F9 persists, the indoor PCB is likely the issue. PCB replacement is feasible for those comfortable with electronics, but sourcing the correct part number from the unit's model code is essential — Daikin has many PCB variants.
 
-## Related Articles
-
-- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
-- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
-- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
-- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
-- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)
-
-<!-- INTERNAL-LINK-AUTO -->
-**Related:** [Rheem EcoNet A101 error code fix](/posts/rheem-econet-a101-error-code/)
-
-## See Also
-
-- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
-- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
-- [Daikin VRV E7 Error Code — Causes & Fix](/posts/daikin-vrv-e7-error-code/)
-- [Daikin UA Error Code — Mismatched Indoor/Outdoor Unit Fix](/posts/daikin-error-code-uA/)
-
 ## More Daikin F9 Error Code fault codes
 
 Compiled from manufacturer service manuals and authorized documentation.
@@ -74,7 +53,6 @@ Compiled from manufacturer service manuals and authorized documentation.
 | --- | --- | --- | --- |
 | F3 | Malfunction of discharge pipe temperature (discharge pipe temperature abnormally high) | Defective discharge pipe thermistor, genuinely high discharge temperature (often from low refrigerant charge or clogged/restricted piping), poor connector contact, or defective outdoor unit control PCB | Check refrigerant charge and for restrictions, inspect the discharge pipe thermistor and its connection, and replace the thermistor or PCB if faulty. Refrigerant work requires a licensed technician; do not keep resetting on this code. |
 | F6 | Abnormal high pressure or refrigerant overcharged | Refrigerant overcharge, disconnection of the heat-exchanger (deicer), outdoor-air, or liquid-pipe thermistor, or defective outdoor unit PCB; dirty/blocked outdoor coil and a failing outdoor fan can also drive high pressure | Clean the outdoor coil, confirm the outdoor fan runs, verify the charge is correct, and check the thermistor connections and EXV. High-pressure and charge work is a technician job. |
-
 
 ## How to troubleshoot Daikin F9 Error Code
 
@@ -87,7 +65,6 @@ Compiled from manufacturer service manuals and authorized documentation.
 **Sensor faults follow a predictable pattern.** Most thermistor codes are caused, in rough order, by: a connector that vibrated loose or corroded at the indoor PCB, a sensor clip that got knocked off the coil during cleaning or a filter change, water intrusion onto the sensor head, and only then an actually-failed thermistor. Always inspect and reseat the connector and confirm the sensor is seated in the coil before condemning the part. A thermistor is an NTC device: unplug it and measure resistance, then compare against the temperature/resistance table for that model. An open circuit (OL) or dead short (0 ohms) confirms replacement.
 
 **Safety and when to call a pro.** Kill power at the disconnect before opening any panel, and never probe the PCB with the unit energized. Retrieving the code and inspecting a connector is reasonable for a confident DIYer, but Daikin dealers generally treat opening the indoor chassis, replacing coil thermistors, and anything touching the sealed refrigerant circuit (F3, F6, high/low-pressure and charge faults) as technician work. If the sensor and its wiring test good and the code returns, the fault is on the PCB or in the refrigerant system, and that is the point to bring in a licensed tech rather than swapping parts blindly.
-
 
 ## Frequently asked questions
 
@@ -110,4 +87,3 @@ Reading the code and inspecting or reseating the sensor connector is reasonable 
 ### How do I reset a Daikin error code?
 
 Turn the unit off at the remote, then cut power at the breaker or disconnect for a few minutes before restoring it. If the code was a one-time glitch it will clear; if the underlying fault is still present, the code will return and the component needs to be diagnosed rather than just reset.
-

@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "40%"
 ---
 
-## Manitowoc Ice Machine E12 Error — What It Means
-
+## What this code means
 E12 on a Manitowoc ice machine is a curtain switch fault. The control has detected the curtain switch open for more than 24 hours, which puts the machine into a fault or lockout condition. In practical terms, the machine believes one or more curtain doors are not closed long enough to satisfy the control logic. On some Manitowoc model families and controller generations, E12 may instead indicate an ice thickness sensor fault, so always verify the exact meaning against your model's service documentation before ordering parts.
 
 The curtain switch monitors whether the access door or curtain that covers the ice-making area is properly closed. If the curtain stays open or the control cannot see it close for an extended period, the machine locks out to prevent improper operation or contamination.
@@ -29,8 +28,6 @@ The curtain switch monitors whether the access door or curtain that covers the i
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board when the real problem is simply a dirty, misaligned curtain or a disconnected switch harness. Always physically verify the curtain closes fully and check wiring continuity before replacing the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -80,10 +77,3 @@ Answer these to narrow it down fast.
 Call a professional ice-machine technician if the curtain and switch appear mechanically sound but the fault persists, if you are not comfortable working with the control board or wiring diagnostics, or if your model requires refrigerant or sealed-system work in addition to the E12 repair. A qualified tech has the service manual, diagnostic software, and proper test equipment to confirm the exact fault and replace the correct component. Also call a pro if you need to verify whether your machine's E12 is a curtain switch or ice thickness sensor code, as mixing up the two can lead to ordering the wrong parts and wasting time.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Manitowoc E29 Error Code - Causes & Fix](/posts/manitowoc-ice-machine-e29-error-code/)
-- [Manitowoc Indigo NXT Ice Machine Complete Troubleshooting Guide](/posts/manitowoc-indigo-nxt-complete-guide/)
-- [Manitowoc Ice Machine Error Code 7 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-7/)
-- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)

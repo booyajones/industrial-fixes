@@ -17,8 +17,7 @@ money_part: "Oven temperature sensor"
 part_price: "$20-60"
 ---
 
-## Maytag Oven F4 Error Code — What It Means
-
+## What this code means
 The F4 error on a Maytag oven signals a fault in the oven temperature sensor circuit. Depending on your model family, Maytag's documentation describes this as a problem with the oven cavity control or associated wiring, while most appliance repair references point to an open or shorted oven temperature sensor. The fault can be the sensor itself, damaged wiring between the sensor and the control board, or less commonly the control board reading the circuit incorrectly. Because Maytag uses different control architectures across ranges and wall ovens, the exact diagnostic path varies slightly by product line, but all paths start with checking the sensor circuit.
 
 When the code appears, the oven will usually not heat or will refuse to start a cycle because the control cannot read a valid temperature. An intermittent connection or momentary power interruption can sometimes trigger F4 once, which is why a power reset is always the first troubleshooting step. If the code returns immediately or within the next heating cycle, the sensor circuit needs inspection and testing.
@@ -26,8 +25,6 @@ When the code appears, the oven will usually not heat or will refuse to start a 
 ## Before You Replace Anything
 
 Many people replace the oven control board when F4 appears. Before spending that money, measure the sensor resistance at room temperature (about 1,100 Ω for most Maytag ovens) and inspect the harness for loose or burned terminals.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

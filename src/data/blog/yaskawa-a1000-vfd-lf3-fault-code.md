@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 LF3 Fault — What It Means
-
+## What this code means
 The LF3 fault on a Yaskawa A1000 variable frequency drive indicates Power Unit Output Phase Loss 3. The drive has detected a phase-loss condition on the output side of the power unit, meaning one of the three phases traveling from the drive to the motor is missing, open, or has abnormal resistance. This is not an input power problem but a problem in the path from the drive's output terminals (typically labeled U/T1, V/T2, W/T3) to the motor.
 
 Yaskawa's troubleshooting documentation points first to wiring errors, disconnected output cables, and abnormal resistance between motor lines as the most common causes. The fault may also indicate motor winding damage or, if all external checks pass, an internal drive output stage or gate drive board failure. Yaskawa recommends cycling power as the first immediate action, then continuing troubleshooting if the fault returns.
@@ -24,8 +23,6 @@ Yaskawa's troubleshooting documentation points first to wiring errors, disconnec
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive or control board before checking the motor cables and motor windings. A simple visual inspection of output terminals and a resistance check between motor lines will identify open or damaged wiring in minutes and save hundreds of dollars.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drive technician if you are not trained to work on industrial three-phase motor circuits. High DC bus voltages (up to 800 V or more depending on drive size) remain inside the A1000 even after input power is removed, and improper handling can cause injury or death. A technician should perform all internal drive diagnostics, gate drive board replacement, or power unit service. If motor winding tests or insulation checks require specialized equipment like a megohmmeter or if you are unsure how to safely measure resistance on a three-phase motor, professional service is the safest choice.
 
 **Rough cost:** A pro service call runs about $150-600.
-
-## See Also
-
-- [Yaskawa V1000 OC Fault — Overcurrent](/posts/yaskawa-v1000-fault-oc/)
-- [Yaskawa GA800 E76 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e76-fault-code/)
-- [Yaskawa GA800 E97 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e97-fault-code/)
-- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)

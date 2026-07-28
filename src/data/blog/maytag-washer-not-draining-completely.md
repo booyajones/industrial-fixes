@@ -19,8 +19,6 @@ A Maytag washer that does not drain completely is often showing a drn or F9 E1 f
 
 Maytag links this symptom to drain-path restrictions, pump system problems, or installation errors. The machine may also stop mid-cycle if the load is unbalanced, the lid is not latched, or excessive suds are present. The drn / F9 E1 code specifically points to a drain pump system problem where the time to empty the tub exceeds the control board's expected window.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Kinked, clogged, or improperly installed drain hose** The most common cause is a drain hose that is kinked, blocked with lint or debris, inserted too far into the standpipe, or routed below the washer base, all of which restrict water flow.

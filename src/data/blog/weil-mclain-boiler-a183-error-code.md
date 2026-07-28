@@ -17,8 +17,7 @@ free_checks:
   - "Verify the boiler has power, gas supply is on, and the thermostat is calling for heat before assuming a component has failed."
 ---
 
-## Weil-McLain A183 Error — What It Means
-
+## What this code means
 A183 does not appear in verified Weil-McLain manufacturer documentation. The code may have been misread, or it may be specific to a particular control or display family not covered in standard manuals. Weil-McLain boilers typically use fault codes in formats like E-xx or display fault-history entries rather than a universal A183 code. The first step is to identify your exact boiler model and control type, then consult that model's manual or use the diagnostics menu to read the fault history and decode the actual alarm.
 
 Common lockout or no-heat faults on Weil-McLain boilers are often tied to ignition failure, flame-sensor contamination, gas-supply issues, internal controller faults, circulation problems, or safety trips from low-water cutoff or high-limit conditions. Without a confirmed meaning for A183, treat it as a general fault indicator and follow the systematic diagnostic workflow below to identify the real cause.
@@ -26,8 +25,6 @@ Common lockout or no-heat faults on Weil-McLain boilers are often tied to igniti
 ## Before You Replace Anything
 
 Many technicians replace the gas valve or control board without first cleaning the flame sensor or testing the ignitor. A dirty flame sensor or failed ignitor causes most ignition lockouts and costs far less to fix than a valve or board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician if you cannot locate a confirmed A183 definition in your model's manual, if the fault history shows multiple or intermittent codes, or if you are uncomfortable working with gas appliances. Any repair involving gas-line work, gas-valve replacement, pressure testing, or control-board diagnostics requires specialized tools and training. A qualified technician will use a manometer to measure gas pressure, a multimeter to test ignition and flame-sensor signals, and the manufacturer's fault-code database to decode uncommon or control-specific alarms. Professional service also ensures warranty coverage and compliance with local gas-appliance codes.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain A159 Error - Causes & Fix](/posts/weil-mclain-boiler-a159-error-code/)
-- [Weil-McLain Boiler A98 Error - Causes & Fix](/posts/weil-mclain-boiler-a98-error-code/)
-- [Weil-McLain A06 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a06-error-code/)
-- [Weil-McLain Ultra Series Boiler Error Codes: Complete Guide](/posts/weil-mclain-ultra-series-codes/)

@@ -17,8 +17,7 @@ money_part: "Float switch assembly"
 part_price: "$10-40"
 ---
 
-## Maytag Dishwasher E4 Error Code — What It Means
-
+## What this code means
 The F8E4 or E4 code on a Maytag dishwasher indicates that water has been detected in the drip tray or base pan underneath the unit, triggering the float switch in the leak protection system. This is not a drain pump fault. The dishwasher will not operate until you find and fix the leak, remove any standing water from the base, and clear the code.
 
 Maytag's own troubleshooting guides direct technicians to check the water supply connections, the float switch assembly, and the drip pan first. The code protects your floor by shutting down the machine when water collects where it should not be.
@@ -26,8 +25,6 @@ Maytag's own troubleshooting guides direct technicians to check the water supply
 ## Before You Replace Anything
 
 Homeowners sometimes replace the drain pump or control board first, thinking E4 is a pump or electronic fault. The real problem is almost always a leak that collects in the base pan. Before replacing any part, remove the drip tray and look for water.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

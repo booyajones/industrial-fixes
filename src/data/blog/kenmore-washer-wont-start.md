@@ -19,8 +19,6 @@ When a Kenmore washer won't start, the machine is usually blocking the cycle bec
 
 Common underlying faults include a lid or door lock that won't engage, a control lock or console issue that blocks start commands, a water inlet restriction, a drain pump relay failure, or a motor sensor fault. On LG-built Kenmore models, an LE code related to the rotor position sensor can prevent the washer from running. On some 417-series machines, error 23 indicates a drain pump relay fault on the control board. Diagnostics require entering service mode to pull stored fault codes and test individual components.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Lid or door lock assembly not engaging** The washer will not start unless the control board confirms the door is locked, and a dirty strike, misaligned latch, or failed lock assembly is the most common reason for a no-start condition.
@@ -53,8 +51,8 @@ Common underlying faults include a lid or door lock that won't engage, a control
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kenmore Washer E14 error code](/posts/kenmore-washer-e14-error-code/)
-- [Kenmore Washer E24 error code](/posts/kenmore-washer-e24-error-code/)
+- Kenmore Washer E14 error code
+- Kenmore Washer E24 error code
 - [Kenmore Washer F0 E2 error code](/posts/kenmore-washer-f0-e2-error-code/)
 - [Kenmore Washer F0 E4 error code](/posts/kenmore-washer-f0-e4-error-code/)
 - [Kenmore Washer F1 E1 error code](/posts/kenmore-washer-f1-e1-error-code/)

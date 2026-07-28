@@ -12,8 +12,7 @@ tags:
   - furnace
 ---
 
-## Carrier Error Code 65 — What It Means
-
+## What this code means
 Carrier furnace error code **65** indicates an **inducer motor fault**. The inducer (draft inducer or combustion air inducer) is a motor-driven fan that evacuates combustion gases from the heat exchanger and creates the negative pressure required for gas ignition. Code 65 means the control board detected that the inducer motor is not running, not running at the correct speed, or failed to reach operating speed within the startup timeout window.
 
 Code 65 appears on Carrier Performance (58TP, 58SP, 58MXB) and Infinity (59MN7, 59MV) series furnaces.
@@ -54,18 +53,3 @@ On variable-speed or two-stage inducer motors, the IFC board monitors motor RPM 
 
 ## When to Call a Pro
 Inducer motor replacement involves working inside the furnace cabinet and handling gas-adjacent components. If you are not comfortable with this work, call a licensed HVAC technician. The repair is typically 1–2 hours of labor plus the part cost.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier 34 Error Code — Ignition Proving Failure Fix](/posts/carrier-34-error-code/)
-- [Carrier 48 Error Code — Induced Draft Motor Lockout](/posts/carrier-48-error-code/)
-- [Carrier Furnace Error Code 33 — Flame Rollout & High Limit Switch Fix](/posts/carrier-error-code-33/)
-- [Carrier Mini-Split E4 Error Code — Compressor Discharge Temperature Fix](/posts/carrier-mini-split-e4-error-code/)

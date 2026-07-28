@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "80%"
 ---
 
-## Yaskawa A1000 Er-05 Fault — What It Means
-
+## What this code means
 The Er-05 fault code (No-Load Current Error) appears on Yaskawa A1000 drives during auto-tuning when the calculated no-load current value falls outside the acceptable range or is invalid. This happens when the drive cannot correctly learn motor parameters because the T1 group settings (motor nameplate data like voltage, current, frequency, speed, and power) do not match the actual motor connected to the drive. The fault also triggers if motor wiring is faulty, the load is too high during rotational tuning, or the tuning process is interrupted or takes too long.
 
 This is strictly a tuning error that occurs when you run the auto-tune procedure (parameter A1-02). It does not indicate a drive hardware failure. The drive is telling you it cannot build an accurate motor model with the information and conditions provided. Fixing it requires matching your parameter entries to reality, checking physical connections, and running the tuning procedure under the right conditions.
@@ -29,8 +28,6 @@ This is strictly a tuning error that occurs when you run the auto-tune procedure
 ## Before You Replace Anything
 
 Technicians sometimes replace option cards or encoder cables when they see tuning errors, but Er-05 is not an encoder fault. Always verify T1 parameter entries and motor wiring continuity before ordering hardware.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a qualified drive technician or electrician if you are not familiar with VFD parameter programming, if you cannot safely measure motor winding resistance with a multimeter, or if the motor wiring is inside a control panel requiring high-voltage lockout. A professional should also handle encoder alignment and option card installation if you are running closed-loop control. If the motor itself has a shorted or open winding, a motor shop will need to rewind or replace it. Most Er-05 faults are parameter entry mistakes that a technician can correct in minutes, so a service call is often faster and safer than trial and error.
 
 **Rough cost:** A pro service call runs about $150-400 for a service call to verify parameters, check wiring, and complete tuning.
-
-## See Also
-
-- [Yaskawa GA800 oV Fault — DC Overvoltage Fix](/posts/yaskawa-ga800-error-ov/)
-- [Yaskawa GA800 A.135 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-135-fault-code/)
-- [Yaskawa GA800 E63 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e63-fault-code/)
-- [Yaskawa A1000 CPF06 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf06-fault-code/)

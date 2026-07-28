@@ -19,8 +19,7 @@ free_checks:
 part_price: "$20–50"
 ---
 
-## Whirlpool Water Heater E05 Error — What It Means
-
+## What this code means
 E05 on a Whirlpool Energy Smart electric water heater indicates a lower element circuit failure. The lower heating element circuit has a fault, though the upper element can still operate. This is not the same as a dry-fire or incomplete-fill warning, which is a different condition in the Whirlpool service manual.
 
 The code triggers when the Electronic Thermostat (ET) detects an open circuit, high resistance, or other electrical fault in the lower element circuit. You may still have some hot water from the upper element, but recovery will be slower and total capacity reduced until the lower circuit is repaired.
@@ -28,8 +27,6 @@ The code triggers when the Electronic Thermostat (ET) detects an open circuit, h
 ## Before You Replace Anything
 
 Many people replace the Electronic Thermostat first. Always ohm-test the lower element (should read 5–25 ohms) and inspect wiring connections before replacing the ET, since a bad element or loose wire is far more common.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

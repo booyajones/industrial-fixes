@@ -13,11 +13,8 @@ money_part: "Flame sensor"
 most_likely_cause: "Dirty or contaminated flame sensor"
 ---
 
-## Carrier Error Code 58 — What It Means
-
+## What this code means
 Carrier **error code 58** indicates a **flame sense fault** — the flame sensor detected a flame signal when the control board was not in an active ignition sequence, or the flame was sensed but then lost unexpectedly during operation (nuisance flame loss). Code 58 on Carrier furnaces (Comfort, Performance, and Infinity series) protects against gas valve leakage and unstable combustion. Depending on how the fault presents, 58 can indicate a legitimately faulty flame sensor, contaminated sensor, or a gas supply pressure issue causing an unstable flame.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Carrier **error code 58** indicates a **flame sense fault** — the flame sensor
 ## When to Call a Pro
 
 Code 58 from a cracked heat exchanger is a carbon monoxide hazard. If the flame sensor and gas supply both check out but code 58 persists, have a licensed HVAC tech perform a heat exchanger inspection before operating the furnace further.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier 24ACC6 Heat Pump Error Codes: Complete Diagnostic Guide](/posts/carrier-24acc6-heat-pump-error-codes/)
-- [Carrier 48 Error Code — Induced Draft Motor Lockout](/posts/carrier-48-error-code/)
-- [Carrier Error Code 61 — Rollout Switch Lockout](/posts/carrier-61-error-code/)
-- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)

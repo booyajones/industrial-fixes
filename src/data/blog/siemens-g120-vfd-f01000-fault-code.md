@@ -13,11 +13,8 @@ money_part: "Siemens G120 Control Unit (CU)"
 most_likely_cause: "Corrupted parameter or data state"
 ---
 
-## Siemens G120 F01000 — What It Means
-
+## What this code means
 The F01000 fault code on a Siemens SINAMICS G120 drive indicates an internal software error within the drive's control unit, not a motor or power-stage problem. The drive has detected a fault in its own control software or firmware execution path. This fault triggers an OFF2 shutdown and requires acknowledgement by a complete POWER ON reset. The fault is logged in the drive's diagnostic buffer, and the fault value stored in parameter r0949 is primarily for internal Siemens troubleshooting. The issue typically originates in the Control Unit (CU) itself, whether from corrupted parameter data, firmware instability, memory-card issues, or an actual control-board hardware failure.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,10 +44,3 @@ The F01000 fault code on a Siemens SINAMICS G120 drive indicates an internal sof
 ## When to Call a Pro
 
 Call a qualified Siemens-certified technician or automation integrator if you are not comfortable working with VFD firmware updates, parameter backups, or Control Unit replacement. If the fault recurs after a power cycle and you cannot access the drive's diagnostic parameters or commissioning software, professional support is necessary to correctly interpret the fault buffer and perform CU-level diagnostics. Because F01000 is an internal software fault, troubleshooting requires familiarity with Siemens STARTER or Drive-CLiQ tools, and incorrect firmware or parameter handling can result in extended downtime or loss of your application configuration.
-
-## See Also
-
-- [Siemens Micromaster F0030 - Causes & Fix](/posts/siemens-micromaster-vfd-f0030-fault-code/)
-- [Siemens G120 F0003 - Causes & Fix](/posts/siemens-g120-vfd-f0003-fault-code/)
-- [Siemens Micromaster F0001 - Causes & Fix](/posts/siemens-micromaster-vfd-f0001-fault-code/)
-- [Siemens Micromaster F0020 - Causes & Fix](/posts/siemens-micromaster-vfd-f0020-fault-code/)

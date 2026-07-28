@@ -13,11 +13,8 @@ money_part: "PowerFlex 525 replacement drive"
 most_likely_cause: "Motor NP Amps (P033) not programmed"
 ---
 
-## Allen Bradley PowerFlex 525 F7 Fault — What It Means
-
+## What this code means
 The Allen Bradley PowerFlex 525 **F7 fault** is a **Motor Overload** trip — the drive's electronic overload protection (I²t thermal model) has accumulated enough thermal count to conclude the motor is at risk of overheating. The PowerFlex 525 is Allen-Bradley's most popular mid-range VFD for standalone machine and panel applications, and F7 is its most common service fault. In most cases, F7 is a parameter configuration issue rather than a true motor overload condition.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ The Allen Bradley PowerFlex 525 **F7 fault** is a **Motor Overload** trip — th
 ## When to Call a Pro
 
 If F7 returns at low loads (below 80% of motor FLA) with correct parameter settings, perform a winding resistance check and megohm test on the motor. A motor shop can quantify insulation degradation and determine if rewinding or replacement is warranted.
-
-## Related Articles
-
-- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
-- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
-- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
-- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)
-- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)
-
-## See Also
-
-- [Allen-Bradley PowerFlex F005 Fault — Overvoltage Fix](/posts/allen-bradley-powerflex-f005-fault/)
-- [Allen-Bradley PowerFlex 755 Power Loss Fault Fix](/posts/allen-bradley-powerflex-755-power-loss-fault/)
-- [Allen-Bradley PowerFlex Fault F063 — Causes & Fix](/posts/allen-bradley-powerflex-fault-f063/)
-- [Allen-Bradley PowerFlex 755 Fault 7 — Motor Overload Causes & Fix](/posts/allen-bradley-powerflex-755-fault-7/)

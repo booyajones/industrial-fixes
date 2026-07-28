@@ -17,8 +17,7 @@ money_part: "Flexible aluminum vent hose (4-inch)"
 part_price: "$10-40"
 ---
 
-## Samsung Dryer CG Error Code — What It Means
-
+## What this code means
 The Samsung dryer CG (or Clg) error code indicates the dryer has detected a clogged or restricted vent during its vent-check logic. Samsung's support page identifies Clg and Cg as a clogged vent condition. This is an airflow restriction problem, not an internal electronic fault. The dryer's sensors monitor exhaust performance and trigger the code when air cannot move freely through the lint filter, duct, or exterior hood.
 
 The code appears when the dryer detects vent restriction during a blockage test. It does not point to a failed electronic component or control board. The machine is alerting you that something in the exhaust path is preventing proper airflow, and continuing to run the dryer in this state can cause longer dry times, overheating, and potential fire hazard from lint buildup.
@@ -26,8 +25,6 @@ The code appears when the dryer detects vent restriction during a blockage test.
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board or moisture sensors when they see a CG code, but Samsung guidance makes clear this is a venting issue. Before ordering any electronic parts, inspect and clean the entire exhaust path from the lint filter to the outdoor hood.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

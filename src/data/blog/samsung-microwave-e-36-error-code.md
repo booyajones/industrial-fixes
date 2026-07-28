@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "Samsung mini-split interconnect wiring harness"
 ---
 
-## Samsung E-36 Error Code — What It Means
-
+## What this code means
 The E-36 code does not appear in Samsung's published washer or appliance fault-code lists. In Samsung mini-split and air-conditioner systems, error 36 (sometimes displayed as E-36) indicates a serial communication failure between the indoor and outdoor units. The outdoor unit stops running while the indoor fan may continue to operate. This code is not documented in the official Samsung service bulletins provided, so the exact meaning and diagnostic steps can vary by model. Always check your model-specific manual or wiring diagram to confirm the code definition before beginning repairs.
 
 Because Samsung notes that fault codes differ by model, if you see E-36 on a washing machine or other appliance, consult the owner's manual or the model label. The causes and fixes below apply to mini-split communication faults based on third-party HVAC repair guidance, not official Samsung documentation.
@@ -24,8 +23,6 @@ Because Samsung notes that fault codes differ by model, if you see E-36 on a was
 ## Before You Replace Anything
 
 Many people replace the outdoor PCB before checking wiring and fuses. Inspect all inter-unit wiring connections and test the outdoor fuse with a multimeter first.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -19,8 +19,6 @@ A Bosch washer that won't start is a symptom, not a single error code. If the ma
 
 Bosch's own support pages treat washer messages as model-specific conditions and recommend checking the exact displayed code or message before diagnosis. Without a code on the display, you'll need to work through the most common external causes before testing internal electrical components.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **No incoming power** Unplugged cord, bad outlet, tripped breaker, or interrupted supply will leave the washer completely dead.
@@ -53,14 +51,14 @@ Bosch's own support pages treat washer messages as model-specific conditions and
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Bosch Washer E15 error code](/posts/bosch-washer-e15-error-code/)
+- Bosch Washer E15 error code
 - [Bosch Washer E16 error code](/posts/bosch-washer-e16-error-code/)
 - [Bosch Washer E17 error code](/posts/bosch-washer-e17-error-code/)
 - [Bosch Washer E18 error code](/posts/bosch-washer-e18-error-code/)
 - [Bosch Washer E19 error code](/posts/bosch-washer-e19-error-code/)
 - [Bosch Washer E20 error code](/posts/bosch-washer-e20-error-code/)
-- [Bosch Washer E21 error code](/posts/bosch-washer-e21-error-code/)
-- [Bosch Washer E22 error code](/posts/bosch-washer-e22-error-code/)
+- Bosch Washer E21 error code
+- Bosch Washer E22 error code
 - [Bosch Washer E23 error code](/posts/bosch-washer-e23-error-code/)
 - [Bosch Washer E24 error code](/posts/bosch-washer-e24-error-code/)
 - [Bosch Washer E25 error code](/posts/bosch-washer-e25-error-code/)

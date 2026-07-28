@@ -13,13 +13,10 @@ money_part: "Flame rod / flame detection sensor"
 most_likely_cause: "Dirty or misaligned flame rod sensor"
 ---
 
-## Navien E001 Error Code — What It Means
-
+## What this code means
 The E001 code on Navien tankless water heaters most commonly indicates a flame detection or ignition failure. The unit is not detecting a stable flame during startup, or the ignition sequence is being interrupted. On some Navien boiler models, this same code can refer to circulation pump problems or overheating, so always confirm the exact definition in your model's service manual before ordering parts. The code prevents the heater from firing to protect the appliance and your home.
 
 Because Navien uses E001 inconsistently across product families, matching the code to your specific model (NPE tankless series versus NCB combi-boiler, for example) is the critical first step. For most tankless installations, the fault points to the flame rod sensor or gas and air delivery. For boiler-type units, trapped air or a failed circulation pump may be the real culprit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -52,10 +49,3 @@ Because Navien uses E001 inconsistently across product families, matching the co
 ## When to Call a Pro
 
 Call a licensed technician if you are uncomfortable working with gas appliances, if the flame rod and wiring checks do not clear the fault, or if you lack a multimeter and the tools to verify gas pressure and electrical continuity. A pro will also diagnose mixed-signal cases where the code definition does not match observed symptoms, confirm proper venting and combustion-air sizing, and handle any gas-valve or control-board replacement safely. If your unit is under warranty, professional documentation of the repair may be required to preserve coverage.
-
-## See Also
-
-- [Navien E004 Error Code - Causes & Fix](/posts/navien-tankless-e004-error-code/)
-- [Navien E109 Error - Causes & Fix](/posts/navien-tankless-water-heater-e109-error-code/)
-- [Navien Alarm 415 - Causes & Fix](/posts/navien-tankless-alarm-415-error-code/)
-- [Navien NCB-700 Combination Boiler Error Codes - Full Fault Guide](/posts/navien-ncb-700-error-codes/)

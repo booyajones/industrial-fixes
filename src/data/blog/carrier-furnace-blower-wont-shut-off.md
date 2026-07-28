@@ -18,8 +18,6 @@ tags:
 
 A Carrier furnace blower that won't shut off means the indoor blower is being told to keep running or the blower relay or control is stuck closed. This is not a single fault code but a symptom with several possible causes. The blower runs continuously even when there is no heating or cooling call, which points to either a control signal keeping it energized or a mechanical failure in the switching component.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Thermostat fan setting on ON instead of AUTO** The thermostat fan switch is in the ON position, which commands continuous blower operation regardless of heating or cooling demand.
@@ -62,10 +60,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a professional if you are not comfortable working with 24V control wiring or 120V blower circuits, if the control board or blower motor module needs replacement, or if a rollout switch continues to trip after you have corrected airflow issues. Any work involving gas burners, ignition components, or repeated safety trips should be handled by a qualified HVAC technician. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Carrier 45 Error Code — Causes & Fix](/posts/carrier-45-error-code/)
-- [Carrier Heat Pump E14 Error Code - Causes & Fix](/posts/carrier-heat-pump-e14-error-code/)
-- [Carrier WeatherMaker RTU Error Code 23 — Fix](/posts/carrier-weathermaster-rtu-error-code-23/)
-- [Carrier E8 Error Code - Causes & Fix](/posts/carrier-heat-pump-e8-error-code/)

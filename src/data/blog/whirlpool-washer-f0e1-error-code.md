@@ -15,8 +15,7 @@ diy_or_pro: "diy"
 money_part: "Main control board (model-specific)"
 ---
 
-## Whirlpool F0E1 Error Code — What It Means
-
+## What this code means
 On Whirlpool front-load washers, F0E1 indicates the Clean Washer cycle has been started but the machine is detecting a load inside the tub. This is not a component failure code. It is a cycle-condition interlock that prevents the self-clean cycle from running when laundry or other items remain in the drum. Whirlpool designed the Clean Washer cycle to run on an empty tub only, and the error appears when that requirement is not met.
 
 Note that Whirlpool also uses F0E1 on some induction cooktops for a cookware recognition fault, so the exact meaning depends on your appliance category. The washer version is by far the most common residential context for this code.
@@ -24,8 +23,6 @@ Note that Whirlpool also uses F0E1 on some induction cooktops for a cookware rec
 ## Before You Replace Anything
 
 A non-manufacturer source suggests replacing the main control board, but Whirlpool's own guidance does not link F0E1 to a failed part. Remove all contents and rerun the cycle before considering any component replacement.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

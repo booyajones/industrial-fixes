@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Danfoss FC302 AL-67 Fault — What It Means
-
+## What this code means
 Alarm 67 on the Danfoss FC302 VFD indicates that the drive has detected a different option card (communication, I/O, or encoder module) than the one previously configured or recognized during startup. This is a configuration validation error, not a power or motor fault. The drive performs a self-check at startup and compares the expected option module ID with the actual hardware present. When these do not match, AL-67 is triggered.
 
 The fault typically appears after an option module has been physically inserted, removed, replaced, or when the stored configuration has been corrupted by a power loss or firmware glitch. The drive will not operate normally until the hardware and software configuration are brought back into alignment.
@@ -29,8 +28,6 @@ The fault typically appears after an option module has been physically inserted,
 ## Before You Replace Anything
 
 Technicians sometimes replace the control card when the real issue is simply a loose or incompatible option module. Always verify the physical module is seated correctly and matches the drive's parameter configuration before ordering control boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or VFD technician if you are not trained to work inside variable frequency drives or if you lack access to Danfoss MCT 10 configuration software. High-voltage AC mains and DC-link capacitors present shock and arc-flash hazards. A professional can safely diagnose whether the issue is a loose module, incorrect parameter settings, or a failed control board, and can reconfigure the drive or replace components as needed. If your facility does not have a maintenance contract, expect a service call fee plus parts and labor.
 
 **Rough cost:** A pro service call runs about $150-400 for service call and configuration reset, more if module replacement needed.
-
-## See Also
-
-- [Danfoss FC302 Alarm 54 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-54-fault-code/)
-- [Danfoss FC302 Alarm 50 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-50-fault-code/)
-- [Danfoss FC302 AL-136 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-136-fault-code/)
-- [Danfoss FC302 Alarm 13 - Causes & Fix](/posts/danfoss-fc302-vfd-al-137-fault-code/)

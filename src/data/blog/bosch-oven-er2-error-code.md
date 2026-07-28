@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Bosch ER2 Oven Error — What It Means
-
+## What this code means
 ER2 on a Bosch oven indicates a mains connection or power supply problem. The control board is not receiving proper voltage from the house electrical supply. This is not a temperature sensor fault. Multiple Bosch repair sources list ER2 as a faulty mains connection, electrical connection problem, or electric network connection failure. The code can appear after a power interruption or because of wiring issues between the house supply and the oven's control board.
 
 The exact meaning can vary slightly by model family (wall oven, range, or double oven), so always verify the code definition in your specific model's owner manual or wiring diagram. Bosch's U.S. owner-support materials for ranges emphasize checking wiring and power supply when power-related faults occur.
@@ -25,8 +24,6 @@ The exact meaning can vary slightly by model family (wall oven, range, or double
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board first. Instead, kill power at the breaker and inspect the terminal block behind the oven for loose screws, burned wires, or corrosion before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

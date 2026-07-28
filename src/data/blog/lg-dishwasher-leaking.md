@@ -19,8 +19,6 @@ When your LG dishwasher leaks, it often triggers the AE or E1 fault code on the 
 
 Before the dishwasher will run again, you need to dry out the base pan completely and fix whatever let water escape the tub. LG's service documentation points to door gasket issues, spray arm problems, leveling, and water inlet connections as the most common culprits.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door gasket contamination or damage** Food residue, grease buildup, tears, or deformation in the rubber door seal prevent a watertight seal and let water escape during the wash cycle.
@@ -69,10 +67,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 If you have dried the base pan and inspected the door gasket, spray arms, leveling, and water supply fittings but the leak persists or you cannot locate the source, call a qualified appliance technician. Internal leaks from a cracked pump housing, failed inlet valve seal, or damaged internal hose require disassembly and parts replacement that are easier to diagnose with pressure testing and experience. A pro can also test the float switch circuit and replace it if the sensor itself has failed, which is less common but will cause the AE or E1 code to reappear even after the pan is dry.
-
-## See Also
-
-- [LG Range E5 Error Code - Causes & Fix](/posts/lg-range-e5-error-code/)
-- [LG Dishwasher Not Dispensing Detergent - Causes & Fix](/posts/lg-dishwasher-not-dispensing-detergent/)
-- [LG Microwave Sparking - Causes & Fix](/posts/lg-microwave-sparking/)
-- [LG Refrigerator Leaking Water - Causes & Fix](/posts/lg-refrigerator-leaking-water/)

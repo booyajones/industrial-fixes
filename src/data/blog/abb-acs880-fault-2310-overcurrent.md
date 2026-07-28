@@ -14,11 +14,8 @@ money_part: "Motor (replacement)"
 most_likely_cause: "Motor output short circuit"
 ---
 
-## ABB ACS880 Fault 2310 Overcurrent — What It Means
-
+## What this code means
 The ABB ACS880 **Fault 2310** is an **Overcurrent** fault — the drive's output current has exceeded the instantaneous overcurrent trip level (typically 2× the drive's rated current). The ACS880 shuts down immediately to protect its IGBTs from a shoot-through event. Fault 2310 is a hard, fast-trip protection; it is not the same as the thermal overload (Fault 2310 OL). The fault appears in the drive's fault log with a timestamp, and the sub-code in the fault data narrows down which phase tripped.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ The ABB ACS880 **Fault 2310** is an **Overcurrent** fault — the drive's output
 ## When to Call a Pro
 
 If 2310 trips with no load connected and the motor tests clean, the ACS880's current sensing circuit or IGBT module may have been damaged by a prior short circuit event. ABB-certified drive technicians should perform IGBT gate signal testing and bus capacitor verification.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-
-## See Also
-
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-- [ABB VFD Fault 3130 — Input Phase Loss Fix](/posts/abb-vfd-fault-3130/)
-- [ABB ACS550 AF10 Fault — Causes & Fix](/posts/abb-acs550-af10-heatsink/)
-- [ABB VFD Fault 2201 — Overcurrent Fix](/posts/abb-vfd-fault-2201-overcurrent/)

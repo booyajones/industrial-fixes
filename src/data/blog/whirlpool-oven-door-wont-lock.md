@@ -20,8 +20,6 @@ A Whirlpool oven door that won't lock is typically a symptom of the door-lock sy
 
 When the control is in lock mode, you'll see LOC on the display, which means the keypad is disabled and the oven door is locked to prevent unintended use. If the door does not close or latch properly, the lock system will not engage. Whirlpool directs users to inspect the latch arm at the top front of the oven frame for bending, bowing, or interference if the door won't close correctly.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Oven is still on, hot, or in a mode that prevents locking** Whirlpool states the controls and oven door cannot be locked if the oven is currently in use, so the lock feature is disabled while the oven is operating.
@@ -55,7 +53,7 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Whirlpool Oven A6 error code](/posts/whirlpool-oven-a6-error-code/)
 - [Whirlpool Oven Ab error code](/posts/whirlpool-oven-ab-error-code/)
-- [Whirlpool Oven Cal error code](/posts/whirlpool-oven-cal-error-code/)
+- Whirlpool Oven Cal error code
 - [Whirlpool Oven F1 E0 error code](/posts/whirlpool-oven-f1-e0-error-code/)
 - [Whirlpool Oven F1 E1 error code](/posts/whirlpool-oven-f1-e1-error-code/)
 - [Whirlpool Oven F2 E0 error code](/posts/whirlpool-oven-f2-e0-error-code/)

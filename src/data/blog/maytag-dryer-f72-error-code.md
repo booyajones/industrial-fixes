@@ -17,15 +17,12 @@ money_part: "Dryer User Interface Control Board"
 part_price: "$25-80"
 ---
 
-## Maytag Dryer F72 Error Code — What It Means
-
+## What this code means
 Maytag groups F72 through F78 as a dryer error family related to door-latch and door-switch communication faults. The manufacturer does not publish a more specific breakdown for F72 alone in its indexed product help, so the code points to a problem somewhere in the door-closure circuit for your model. The official first step is always a full power reset: kill the breaker for five minutes and restore power. If the code clears and stays gone, it was a stored glitch. If it returns after reset, the fault lies in the door switch, door latch, related wiring, or the control board that monitors that circuit.
 
 ## Before You Replace Anything
 
 Many homeowners replace the main control board first. Test the door switch with a multimeter and inspect the latch and harness connectors before ordering any circuit board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

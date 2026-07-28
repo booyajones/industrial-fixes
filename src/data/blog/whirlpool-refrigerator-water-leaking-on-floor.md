@@ -19,8 +19,6 @@ Water leaking onto the floor from a Whirlpool refrigerator happens when the auto
 
 The blockage is usually ice buildup inside the drain tube or debris stuck in the drain hole. High humidity, a door left ajar, or a failing defrost heater can cause ice to re-freeze in the drain line instead of flowing out. Once the backup exceeds the tray capacity, water runs down the interior walls and exits at the base of the unit.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Frozen defrost drain tube** Ice accumulates inside the drain tube or at the drain hole due to high humidity, a door left open, or a slow defrost heater.

@@ -17,8 +17,6 @@ tags:
 
 A GE microwave that runs but does not heat means the low-voltage functions (light, fan, turntable, controls) are operating normally, but the high-voltage heating circuit is not producing microwave energy. The unit is powered and starts a cook cycle, but the magnetron is not being driven correctly, so food stays cold. This is a symptom, not an error code condition. GE's support page says there can be one of many components at fault in the high-voltage section.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed magnetron** The magnetron tube generates microwave energy, and when it fails the unit will run through a cycle with no heating.
@@ -53,7 +51,7 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Ge Microwave F1 error code](/posts/ge-microwave-f1-error-code/)
 - [Ge Microwave F10 error code](/posts/ge-microwave-f10-error-code/)
-- [Ge Microwave F2 error code](/posts/ge-microwave-f2-error-code/)
+- Ge Microwave F2 error code
 - [Ge Microwave F3 error code](/posts/ge-microwave-f3-error-code/)
 - [Ge Microwave F4 error code](/posts/ge-microwave-f4-error-code/)
 - [Ge Microwave F5 error code](/posts/ge-microwave-f5-error-code/)

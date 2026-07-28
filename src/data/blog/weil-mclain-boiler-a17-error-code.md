@@ -17,8 +17,7 @@ free_checks:
   - "Review the installation manual for your specific Weil-McLain model to match the displayed code to the official troubleshooting chart."
 ---
 
-## Weil-McLain A17 Error Code — What It Means
-
+## What this code means
 There is no documented A17 error code in official Weil-McLain boiler manuals or technical support databases. Weil-McLain boilers typically display numeric codes (such as 01, 10, 11, 17, 20, and so on) rather than alphanumeric A-series codes. The display you are seeing may be a misread numeric code (for example, code 17 on a dim or partially obscured screen), a confused or transposed code (such as A1), or an error code from a different brand or component (such as a zone control or thermostat). It is also possible the boiler control board is malfunctioning and displaying invalid characters.
 
 Before attempting any repair, verify the exact code by checking the boiler's LED status light sequence or digital display in good lighting. Consult the troubleshooting chart in your specific model's installation and operation manual. If the code is actually numeric 17, it typically relates to a specific fault such as a pressure or flow issue. If the display continues to show characters that do not match any documented code, the control board itself may need inspection or replacement by a qualified technician.
@@ -27,31 +26,13 @@ Before attempting any repair, verify the exact code by checking the boiler's LED
 
 Homeowners often replace the control board when the display shows an unrecognized code, but the real problem is frequently a misread numeric code or a faulty sensor. Verify the exact code under good lighting and test all sensors and pressure switches before ordering a new board.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Misread numeric code (~40%)** The display may show numeric code 17 or another number that looks like A17 due to poor lighting, a dim LED, or a viewing angle that obscures part of the character.
-- **Control board display fault (~25%)** The control board may be malfunctioning and displaying invalid or corrupted characters that do not correspond to any documented Weil-McLain error code.
-- **Zone control or thermostat code (~20%)** An external zone controller, thermostat, or accessory display may be showing an A17 code unrelated to the boiler itself, leading to confusion about the source of the error.
-- **Confused brand or model (~10%)** The code A17 may belong to a different boiler brand or model, or the homeowner may be reading documentation or online advice for the wrong equipment.
-- **Transposed or partial code (~5%)** The actual code may be A1 or another short code, and a trailing digit or character is being misinterpreted as part of the error number.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Does the display clearly show letters and numbers together, such as A-1-7, under bright lighting?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The code is likely not a standard Weil-McLain error. Check for a zone controller or thermostat display separate from the boiler, or verify the boiler brand and model number.<br><strong>No:</strong> The code may be numeric (17, 10, 11, etc.) and only appear alphanumeric due to viewing conditions. Consult your manual's numeric code chart.</div>
-</details>
-
-<details class="dtree"><summary>Does power-cycling the boiler (service switch off for 30 seconds, then on) clear the display or change the code?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The display may have been corrupted by a transient electrical event. Monitor the boiler for return of the code and note the exact characters if it reappears.<br><strong>No:</strong> The code or display fault is persistent. Proceed to verify the exact code against your manual and test sensors and switches as indicated for the actual numeric code.</div>
-</details>
-
-<details class="dtree"><summary>Is your boiler model number confirmed as a Weil-McLain unit, and does the manual list any alphanumeric A-series codes?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Follow the troubleshooting steps in that manual for the A-series code.<br><strong>No:</strong> You are likely dealing with a misread numeric code or a code from another component. Identify the true source of the display and consult the correct documentation.</div>
-</details>
+- **Misread numeric code** The display may show numeric code 17 or another number that looks like A17 due to poor lighting, a dim LED, or a viewing angle that obscures part of the character.
+- **Control board display fault** The control board may be malfunctioning and displaying invalid or corrupted characters that do not correspond to any documented Weil-McLain error code.
+- **Zone control or thermostat code** An external zone controller, thermostat, or accessory display may be showing an A17 code unrelated to the boiler itself, leading to confusion about the source of the error.
+- **Confused brand or model** The code A17 may belong to a different boiler brand or model, or the homeowner may be reading documentation or online advice for the wrong equipment.
+- **Transposed or partial code** The actual code may be A1 or another short code, and a trailing digit or character is being misinterpreted as part of the error number.
 
 ## Step-by-Step Fix {#fix}
 
@@ -74,12 +55,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a licensed boiler technician immediately if you cannot confirm the exact error code after careful inspection and power cycling, if the boiler will not fire or heat, or if the display shows characters that do not match any code in your manual. A professional can use diagnostic software and tools to read internal fault logs, test sensors and pressure switches, and determine whether the control board is malfunctioning. Do not attempt to replace the control board or bypass safety devices without proper training, as incorrect wiring or component substitution can create dangerous operating conditions, void warranties, and violate local codes. Gas-fired boiler work often requires a licensed technician by law.
-
-**Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Weil-McLain Ultra Series Boiler Error Codes: Complete Guide](/posts/weil-mclain-ultra-series-codes/)
-- [Weil-McLain E03 Error Code — Causes & Fix](/posts/weil-mclain-e03-error-code/)
-- [Weil-McLain Boiler A25 Error - Causes & Fix](/posts/weil-mclain-boiler-a25-error-code/)
-- [Weil-McLain A02 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a02-error-code/)

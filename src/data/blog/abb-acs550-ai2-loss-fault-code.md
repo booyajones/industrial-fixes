@@ -13,13 +13,10 @@ money_part: "Analog signal transmitter or sensor"
 most_likely_cause: "Lost or disconnected AI2 wiring"
 ---
 
-## ABB ACS550 AI2 LOSS Fault — What It Means
-
+## What this code means
 AI2 LOSS on an ABB ACS550 drive means the unit has detected that analog input 2 is lost or that the AI2 signal has fallen below the configured minimum or fault threshold. ABB's fault listing defines this as 'Analog input 2 is lost, or value is less than the minimum setting.' The fault is tied to parameter 3022 (AI2 FAULT LIMIT) and parameter 3001 (AI<MIN FUNCTION), which together control the threshold and the drive's response when the input drops.
 
 This fault does not necessarily indicate a failed drive component. In most cases, the analog source feeding AI2 is disconnected, powered down, or misconfigured, so the drive sees a valid input loss rather than internal electronics failure. The drive is reacting to a real missing signal condition. Diagnosis focuses on the field wiring, the transmitter or controller sending the analog signal, and the drive's parameter setup.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ This fault does not necessarily indicate a failed drive component. In most cases
 ## When to Call a Pro
 
 Call a qualified industrial electrician or drive technician if you are not trained to work safely around live AC drive terminals and control wiring. Also contact a professional if you have verified all field wiring and the analog source are correct but the fault persists, if you need to replace the drive's control board, or if you are unfamiliar with ABB drive parameter programming and cannot confidently adjust 3022 and 3001 without risking a process shutdown. ABB-certified service partners have the test equipment and parameter files to diagnose analog input circuit faults and perform board-level repairs or replacements under warranty or service contract.
-
-## See Also
-
-- [ABB ACS580 A3D0 Fault Code - Causes & Fix](/posts/abb-acs580-a3d0-fault-code/)
-- [ABB ACS580 A0 Fault Code - Causes & Fix](/posts/abb-acs580-a0-fault-code/)
-- [ABB ACS580 Fault Codes — Complete Diagnosis & Fix Guide](/posts/abb-acs580-fault-codes/)
-- [ABB ACS880 Fault 2310 - Overcurrent Diagnosis and Fix](/posts/abb-acs880-fault-2310/)

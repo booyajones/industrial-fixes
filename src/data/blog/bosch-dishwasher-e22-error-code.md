@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Bosch E22 Error Code — What It Means
-
+## What this code means
 The E22 error code on a Bosch dishwasher indicates that the dishwasher filter is blocked or clogged. Bosch's official support documentation identifies the filter area at the bottom of the dishwasher, where food particles are trapped, as the fault location. This blockage prevents proper drainage and triggers the error.
 
 When the filter becomes clogged with food debris, grease, or mineral buildup, water cannot flow through the drain system correctly. You may notice standing water in the bottom of the tub or poor wash performance before the code appears. The error can also show up if the filter is not seated or locked correctly after cleaning or maintenance.
@@ -24,8 +23,6 @@ When the filter becomes clogged with food debris, grease, or mineral buildup, wa
 ## Before You Replace Anything
 
 Homeowners sometimes replace the drain pump when E22 appears, but the code points to the filter first. Remove and inspect the filter assembly for debris and proper seating before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -19,8 +19,6 @@ A Whirlpool refrigerator light not working is an interior-light symptom, not a f
 
 If your model uses a traditional bulb, the bulb may be loose or burnt out. Many newer Whirlpool refrigerators use LED light modules that do not require replacement as a normal bulb service item. Whirlpool also notes that if the refrigerator was recently moved or the doors removed, the top-hinge wiring plug should be checked for looseness or damage.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Door switch not actuating** The door is misaligned, the refrigerator is not level, or something like a magnet or electronic device within about 3 inches is interfering with the switch contact.
@@ -53,18 +51,18 @@ If your model uses a traditional bulb, the bulb may be loose or burnt out. Many 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Whirlpool Refrigerator Df error code](/posts/whirlpool-refrigerator-df-error-code/)
-- [Whirlpool Refrigerator E0 error code](/posts/whirlpool-refrigerator-e0-error-code/)
-- [Whirlpool Refrigerator E1 error code](/posts/whirlpool-refrigerator-e1-error-code/)
-- [Whirlpool Refrigerator E2 error code](/posts/whirlpool-refrigerator-e2-error-code/)
-- [Whirlpool Refrigerator E3 error code](/posts/whirlpool-refrigerator-e3-error-code/)
-- [Whirlpool Refrigerator E4 error code](/posts/whirlpool-refrigerator-e4-error-code/)
-- [Whirlpool Refrigerator E5 error code](/posts/whirlpool-refrigerator-e5-error-code/)
-- [Whirlpool Refrigerator E6 error code](/posts/whirlpool-refrigerator-e6-error-code/)
-- [Whirlpool Refrigerator E9 error code](/posts/whirlpool-refrigerator-e9-error-code/)
-- [Whirlpool Refrigerator Po error code](/posts/whirlpool-refrigerator-po-error-code/)
-- [Whirlpool Refrigerator Sy Ce error code](/posts/whirlpool-refrigerator-sy-ce-error-code/)
-- [Whirlpool Refrigerator Sy Ef error code](/posts/whirlpool-refrigerator-sy-ef-error-code/)
+- Whirlpool Refrigerator Df error code
+- Whirlpool Refrigerator E0 error code
+- Whirlpool Refrigerator E1 error code
+- Whirlpool Refrigerator E2 error code
+- Whirlpool Refrigerator E3 error code
+- Whirlpool Refrigerator E4 error code
+- Whirlpool Refrigerator E5 error code
+- Whirlpool Refrigerator E6 error code
+- Whirlpool Refrigerator E9 error code
+- Whirlpool Refrigerator Po error code
+- Whirlpool Refrigerator Sy Ce error code
+- Whirlpool Refrigerator Sy Ef error code
 
 ## When to Call a Pro
 

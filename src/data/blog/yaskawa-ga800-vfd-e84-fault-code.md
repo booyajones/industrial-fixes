@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "Factory STO jumper wire or plug"
 ---
 
-## Yaskawa GA800 E84 Fault — What It Means
-
+## What this code means
 The E84 fault on a Yaskawa GA800 variable frequency drive indicates that the Safe Torque Off (STO) safety function is preventing the drive from producing torque to the motor. The STO circuit is a safety feature that blocks the inverter output even when main input power is present. When the drive detects that the STO terminals are not in the expected state (open circuit, missing jumper, or incomplete safety relay connection), it will not run and will display E84.
 
 This fault is strictly a safety interlock issue, not a motor or power problem. The drive requires either a factory-installed jumper on the STO terminals (if no external safety relay is used) or properly wired dual-channel safety relay outputs to close the STO loop. If the safety chain is broken anywhere (open E-stop, guard switch, relay failure, or loose wire), the drive will fault and inhibit torque production until the circuit is restored and the fault is cleared.
@@ -24,8 +23,6 @@ This fault is strictly a safety interlock issue, not a motor or power problem. T
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive or control board when E84 appears, but the fault is nearly always in the external safety wiring, missing jumper, or safety relay. Check the STO terminal wiring and jumper presence first before ordering any drive components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or controls technician if you are not trained in machine safety systems or do not have the GA800 manual and wiring diagrams. Safe Torque Off circuits are part of the machine's safety architecture and must comply with safety standards. If you are unsure which terminals are the STO inputs, cannot locate the factory jumper, or do not understand dual-channel safety relay wiring, professional service is required. Also call a pro if the drive continues to fault E84 after verifying the STO circuit is closed, as this may indicate a drive internal fault or parameter corruption that requires factory support or drive replacement.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Yaskawa GA800 F010 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f010-fault-code/)
-- [Yaskawa GA800 F021 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f021-fault-code/)
-- [Yaskawa A1000 CPF19 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf19-fault-code/)
-- [Yaskawa GA800 E92 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e92-fault-code/)

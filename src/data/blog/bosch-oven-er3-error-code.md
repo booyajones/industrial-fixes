@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Bosch Oven ER3 Error Code — What It Means
-
+## What this code means
 ER3 on a Bosch oven indicates an overheating or excessive-temperature fault. The oven's control system has detected that internal temperature has climbed too high and has triggered a protective shutdown to prevent damage or a fire hazard. This code is not always documented in official Bosch consumer manuals, but third-party repair references consistently describe it as an overheating condition.
 
 The fault will not clear until the oven has cooled completely and the underlying cause has been corrected. In most cases the problem is related to restricted airflow, a failed cooling fan, or a temperature sensor that is reporting incorrectly or failing to regulate the heating element properly.
@@ -26,8 +25,6 @@ The fault will not clear until the oven has cooled completely and the underlying
 ## Before You Replace Anything
 
 Homeowners often replace the control board or temperature sensor before checking the cooling fan and airflow. Always verify the fan runs and vents are clear before ordering electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

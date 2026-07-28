@@ -42,11 +42,3 @@ Hitachi WJ200 and WL200 drives are common on pumps, fans, and light machinery. T
 ## Bottom Line
 
 Hitachi faults usually tell you when in the motion profile the problem occurred. Use that clue — accel faults, decel faults, and run faults point to different fixes.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

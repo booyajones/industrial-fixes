@@ -106,7 +106,7 @@ If error code recovers after manual reset but returns within 7 days, the underly
 **Related:** [LG washer error codes (complete guide)](/posts/lg-washer-error-codes/)
 
 <!-- INTERNAL-LINK-AUTO -->
-**Related:** [LG washer error code 31 (pressure / suspension fault)](/posts/lg-washer-error-code-31/)
+**Related:** LG washer error code 31 (pressure / suspension fault)
 
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [Bosch dishwasher error codes](/posts/bosch-dishwasher-error-codes/)
@@ -119,10 +119,3 @@ If error code recovers after manual reset but returns within 7 days, the underly
 
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [Samsung refrigerator error codes](/posts/samsung-refrigerator-error-codes/)
-
-## See Also
-
-- [LG Multi V VRF System Error Codes: Complete Guide](/posts/lg-multi-v-error-codes/)
-- [LG Mini Split CH01 Error Code — Causes & Fix](/posts/lg-mini-split-ch01-error-code/)
-- [LG Washer Error Codes — Complete Fix Guide](/posts/lg-washer-error-codes/)
-- [LG Mini-Split CH38 Error Code — Causes & Fix](/posts/lg-mini-split-ch38-error-code/)

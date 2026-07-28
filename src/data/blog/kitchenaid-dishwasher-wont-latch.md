@@ -19,8 +19,6 @@ A KitchenAid dishwasher that won't latch means the control is not detecting a fu
 
 The dishwasher will not start or run any cycle until the control registers a secure latch. The issue can be as simple as control lock being active, or as involved as a broken latch assembly or misaligned door strike.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Control lock is on** Control lock can prevent normal start behavior even when the door closes and latches correctly.
@@ -58,7 +56,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Kitchenaid Dishwasher F2E2 error code](/posts/kitchenaid-dishwasher-f2e2-error-code/)
 - [Kitchenaid Dishwasher F3E1 error code](/posts/kitchenaid-dishwasher-f3e1-error-code/)
 - [Kitchenaid Dishwasher F3E2 error code](/posts/kitchenaid-dishwasher-f3e2-error-code/)
-- [Kitchenaid Dishwasher F4E3 error code](/posts/kitchenaid-dishwasher-f4e3-error-code/)
+- Kitchenaid Dishwasher F4E3 error code
 - [Kitchenaid Dishwasher F5E1 error code](/posts/kitchenaid-dishwasher-f5e1-error-code/)
 - [Kitchenaid Dishwasher F6E1 error code](/posts/kitchenaid-dishwasher-f6e1-error-code/)
 - [Kitchenaid Dishwasher F6E2 error code](/posts/kitchenaid-dishwasher-f6e2-error-code/)

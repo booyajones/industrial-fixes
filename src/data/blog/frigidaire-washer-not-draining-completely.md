@@ -19,8 +19,6 @@ A Frigidaire washer that won't drain completely is showing a symptom of water ev
 
 Frigidaire's own support guidance starts with the drain hose and household drain setup, then moves to detergent overuse and internal blockages. Technicians add that the coin trap or filter often catches debris, the pump itself can fail mechanically, and the control may stop supplying voltage to the pump. The result is standing water in the tub after the wash or rinse cycle.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Kinked or restricted drain hose** A bent, pinched, or twisted drain hose blocks water flow and is the most common external restriction.

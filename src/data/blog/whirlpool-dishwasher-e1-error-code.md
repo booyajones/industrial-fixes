@@ -17,8 +17,7 @@ money_part: "Whirlpool dishwasher main control board (electronic control)"
 part_price: "$150-300"
 ---
 
-## Whirlpool F1E1 Error Code — What It Means
-
+## What this code means
 The F1E1 (or 1-1) code on a Whirlpool dishwasher indicates a control or relay fault detected by the main electronic control board. When this code appears, the dishwasher will start a drain sequence and then stop operating. This is an internal electrical fault within the control system, meaning the control has detected a stuck relay or communication problem rather than a simple sensor or drain issue.
 
 Whirlpool's own diagnostic information identifies F1E1 as a stuck relay indication on the main control. The machine is protecting itself by shutting down after it detects this abnormality. This is not a water-level sensor, drain pump, or inlet valve code, despite what some third-party sources may say.
@@ -26,8 +25,6 @@ Whirlpool's own diagnostic information identifies F1E1 as a stuck relay indicati
 ## Before You Replace Anything
 
 Many homeowners replace the drain pump or water inlet valve because third-party sites incorrectly describe F1E1 as a drain or water-level code. Always inspect the wiring harness and connectors first before replacing the main control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

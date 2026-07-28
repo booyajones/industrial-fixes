@@ -19,8 +19,6 @@ When your Samsung mini split won't heat, the indoor unit is either not producing
 
 The most common root causes are simple: the system is set to Cool or Fan mode instead of Heat, the setpoint is at or below room temperature, or the indoor filter and coil are blocked with dust. Less often, refrigerant has leaked out, the outdoor unit is iced over or blocked, or a temperature sensor on the indoor coil has failed. Samsung mini splits rely heavily on accurate sensor readings to control heating cycles, so sensor faults will lock out the compressor even when everything else is mechanically sound.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Wrong mode or setpoint on the remote** The system is in Cool, Dry, or Fan mode instead of Heat, or the temperature is set below the current room temperature, so the unit never calls for heating.
@@ -54,10 +52,10 @@ The most common root causes are simple: the system is set to Cool or Fan mode in
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Samsung Mini Split E1 01 error code](/posts/samsung-mini-split-e1-01-error-code/)
-- [Samsung Mini Split E3 01 error code](/posts/samsung-mini-split-e3-01-error-code/)
-- [Samsung Mini Split E4 01 error code](/posts/samsung-mini-split-e4-01-error-code/)
-- [Samsung Mini Split E5 01 error code](/posts/samsung-mini-split-e5-01-error-code/)
+- Samsung Mini Split E1 01 error code
+- Samsung Mini Split E3 01 error code
+- Samsung Mini Split E4 01 error code
+- Samsung Mini Split E5 01 error code
 
 ## When to Call a Pro
 

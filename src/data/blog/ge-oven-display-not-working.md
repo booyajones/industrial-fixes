@@ -20,8 +20,6 @@ When your GE oven display is completely blank, dim, or dead, you are looking at 
 
 A blank display is not a fault code. It means one component in the chain (display board, main control board, ribbon harness, or keypad) has lost power or communication. If the display was working and went dark suddenly, the control board or display board has likely failed. If the display flickers or comes back briefly after a power cycle and then goes dark again, that points strongly to a failing control board rather than a loose connection.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed display board** The LED or display circuitry itself has burned out or lost internal power regulation.
@@ -54,18 +52,18 @@ A blank display is not a fault code. It means one component in the chain (displa
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Ge Oven F0 error code](/posts/ge-oven-f0-error-code/)
-- [Ge Oven F1 error code](/posts/ge-oven-f1-error-code/)
+- Ge Oven F0 error code
+- Ge Oven F1 error code
 - [Ge Oven F2 error code](/posts/ge-oven-f2-error-code/)
-- [Ge Oven F20 error code](/posts/ge-oven-f20-error-code/)
-- [Ge Oven F3 error code](/posts/ge-oven-f3-error-code/)
-- [Ge Oven F350 error code](/posts/ge-oven-f350-error-code/)
-- [Ge Oven F4 error code](/posts/ge-oven-f4-error-code/)
-- [Ge Oven F5 error code](/posts/ge-oven-f5-error-code/)
-- [Ge Oven F6 error code](/posts/ge-oven-f6-error-code/)
-- [Ge Oven F7 error code](/posts/ge-oven-f7-error-code/)
-- [Ge Oven F7X error code](/posts/ge-oven-f7x-error-code/)
-- [Ge Oven F8 error code](/posts/ge-oven-f8-error-code/)
+- Ge Oven F20 error code
+- Ge Oven F3 error code
+- Ge Oven F350 error code
+- Ge Oven F4 error code
+- Ge Oven F5 error code
+- Ge Oven F6 error code
+- Ge Oven F7 error code
+- Ge Oven F7X error code
+- Ge Oven F8 error code
 
 ## When to Call a Pro
 

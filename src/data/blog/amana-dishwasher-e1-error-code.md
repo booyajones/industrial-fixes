@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Dishwasher E1 Error — What It Means
-
+## What this code means
 The E1 code on an Amana dishwasher signals a water supply or fill problem. Amana's own troubleshooting points to siphoning as the primary concern: the dishwasher fills but water drains back out through an incorrectly installed drain hose. The manufacturer also flags a closed water supply valve or a restricted overfill protection float as possible triggers. This is not a drain-pump fault. Instead, the dishwasher is either not receiving enough water to start the cycle or is losing water through siphon action during the fill.
 
 Amana specifies that the drain hose must connect to the waste tee or disposer inlet above the drain trap and that the hose loop must rise at least 20 inches (50.8 cm) above the floor or subfloor. If the loop sags below that height, gravity can pull clean water back out of the tub faster than the inlet valve supplies it, and the control throws E1. The overfill protection float, located in the front-right area of the tub base, can also stick or become obstructed and falsely signal a full condition, stopping the fill cycle prematurely.
@@ -25,8 +24,6 @@ Amana specifies that the drain hose must connect to the waste tee or disposer in
 ## Before You Replace Anything
 
 Homeowners often replace the inlet valve or control board when E1 appears, but the real culprit is usually installation: a sagging drain hose or an obstructed overfill float. Before ordering electronics, pull the dishwasher forward and measure the drain-hose loop height and inspect the float.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

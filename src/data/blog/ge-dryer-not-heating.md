@@ -19,8 +19,6 @@ When a GE dryer runs but produces no heat, the unit is experiencing a power supp
 
 For gas dryers, a failed igniter prevents the burner from lighting, so the drum tumbles cold. For electric dryers, a burned-out heating element or an open circuit in the heat path stops heat output entirely. Other causes include clogged vents triggering safety shutoffs or cycle settings that intentionally use no heat.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Incorrect voltage or power supply issue** GE recommends checking the home breaker panel first because low or missing voltage is the most common reason a dryer stops heating.

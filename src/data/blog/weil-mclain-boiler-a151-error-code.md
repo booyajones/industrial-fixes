@@ -20,15 +20,12 @@ free_checks:
 part_price: "$40-80"
 ---
 
-## Weil-McLain A151 Error — What It Means
-
+## What this code means
 Weil-McLain does not publish an A151 error code in its official diagnostic documentation. If the number 151 appears on your boiler's display, it is most likely showing the current water temperature (151°F), which is a normal operating temperature for hydronic heating systems and not a fault. If the boiler is locked out and showing an error message alongside 151, the real issue is probably an Internal Fault code from the control module or a failed thermistor (temperature probe) causing false high-temperature readings. Check the contractor diagnostics menu (hold up and down arrows, then navigate to Fault History and Past Errors) to confirm the actual error code, because codes like Internal Fault, E02, or A02 are real documented faults and A151 is not.
 
 ## Before You Replace Anything
 
 Homeowners often replace the control module or ignition parts when the real cause is a failed thermistor in the low-water cutoff sensor. Test the thermistor's resistance with a multimeter before replacing any expensive components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician immediately if the boiler is locked out and you cannot find a simple cause like low water pressure or a blocked vent. Gas-fired boilers require a licensed gas fitter to work on combustion components, sensors, and control modules, and Weil-McLain warranty claims require professional diagnosis with the CP number, failed part number, and photos. Do not attempt to replace the thermistor, flame sensor, or control board yourself unless you have gas-fitting certification and the proper test equipment, because incorrect work can create carbon monoxide hazards and void your warranty.
 
 **Rough cost:** A pro service call runs about $200-400.
-
-## See Also
-
-- [Weil-McLain Boiler A120 Error - Causes & Fix](/posts/weil-mclain-boiler-a120-error-code/)
-- [Weil-McLain E05 Error Code — Sensor Fault](/posts/weil-mclain-e05-error-code/)
-- [Weil-McLain Boiler A98 Error - Causes & Fix](/posts/weil-mclain-boiler-a98-error-code/)
-- [Weil-McLain A104 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a104-error-code/)

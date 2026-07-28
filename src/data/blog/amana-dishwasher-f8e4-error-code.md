@@ -22,8 +22,7 @@ part_price: "$20-40"
 no_buy_pct: "60%"
 ---
 
-## Amana Dishwasher F8E4 Error — What It Means
-
+## What this code means
 F8E4 on an Amana dishwasher indicates water has been detected in the lower base or drip tray area, triggering a protective drain and lockout. The dishwasher will continuously drain and refuse to run a normal wash cycle until the fault is cleared. This is a water management fault, not a control board error. The machine is protecting itself from flooding or water damage by sensing moisture where it should not be.
 
 The code does not mean a specific component has failed. It means water got into the leak-detection area under the tub, either from an actual leak, an overflow event, excessive suds, or a loose connection. The dishwasher will remain in this state until you find and fix the source of the water, dry out the base pan completely, and clear the fault.
@@ -31,8 +30,6 @@ The code does not mean a specific component has failed. It means water got into 
 ## Before You Replace Anything
 
 Many people assume F8E4 means the control board has failed and replace it first. The code almost always points to a physical water leak or sudsing issue. Check all water connections, dry out the base pan, and inspect the door gasket before considering any electronic parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,11 +13,8 @@ money_part: "Siemens G120 Control Unit (CU)"
 most_likely_cause: "Internal software error in the Control Unit"
 ---
 
-## Siemens G120 F01000 — What It Means
-
+## What this code means
 Fault F01000 on a Siemens SINAMICS G120 indicates an internal software error inside the drive's control electronics, not a motor overload or power circuit problem. The drive stops with an OFF2 reaction and requires a full POWER ON reset to acknowledge the fault. This is a Control Unit issue, not a Power Module fault. The error points to corruption or failure in the drive's internal software or non-volatile memory. Siemens classifies this as an internal troubleshooting code, meaning the root cause often requires factory-level diagnostics or Control Unit replacement if standard resets do not clear it.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,10 +44,3 @@ Fault F01000 on a Siemens SINAMICS G120 indicates an internal software error ins
 ## When to Call a Pro
 
 Call a qualified drive technician or Siemens service partner if the fault returns after a complete power cycle, if you are not trained to update firmware or handle Control Unit replacement, or if the drive is part of a safety-rated or mission-critical system. Because F01000 is an internal software error, factory-level diagnostics or replacement of the Control Unit is often the only permanent fix. If your facility does not have STARTER software, proper ESD procedures, or spare Control Units on hand, professional service will save time and prevent further damage to the drive or process.
-
-## See Also
-
-- [Siemens Micromaster 440 Fault F002 — Overcurrent](/posts/siemens-micromaster-440-fault-f002/)
-- [Siemens SIPROTEC Protective Relay Faults: Complete Guide](/posts/siemens-siprotec-relay-faults/)
-- [Siemens SINUMERIK Alarm 25000 — Drive Fault Fix](/posts/siemens-sinumerik-alarm-25000-drive-fault/)
-- [Siemens G120 F01105 - Causes & Fix](/posts/siemens-g120-f01105-fault-code/)

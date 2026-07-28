@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "LG refrigerator defrost sensor (thermistor)"
 ---
 
-## LG Refrigerator dS Error Code — What It Means
-
+## What this code means
 The dS code on an LG refrigerator signals a defrosting sensor fault. LG states it indicates a short circuit or disconnection of the defrost sensor. On dual-evaporator models, F dS refers to the freezer evaporator defrost sensor and r dS to the refrigerator evaporator defrost sensor. The appliance cannot properly monitor defrost cycle temperatures when this fault is present.
 
 LG's support documentation explicitly states that dS-related errors require service. The sensor is either electrically shorted, open (broken circuit), or physically disconnected. In many cases the defrost sensor itself has failed, but the code can also appear when wiring is damaged or when heavy ice buildup and a blocked drain prevent normal defrost operation. LG ties defrost errors to failures in the heater, thermal fuse, drainage system, or main control board.
@@ -25,8 +24,6 @@ LG's support documentation explicitly states that dS-related errors require serv
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board first, assuming electronics are at fault. Instead, inspect the defrost sensor and its harness for opens, shorts, or loose connectors before replacing any boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 LG explicitly states that dS, F dS, and r dS errors require service. Call a qualified appliance technician if you are not comfortable disassembling the evaporator compartment, testing electrical components with a multimeter, or interpreting resistance values from a service manual. A technician has the training and tools to safely access refrigerant-circuit areas, diagnose control board faults, and replace sensors or heaters without damaging sealed components. If the code returns after a simple reset or if you see repeated ice buildup, professional diagnosis is warranted to prevent compressor damage or food spoilage.
 
 **Rough cost:** A pro service call runs about $150-300.
-
-## See Also
-
-- [LG Oven Not Heating - Causes & Fix](/posts/lg-oven-not-heating/)
-- [LG Range SE Error Code - Causes & Fix](/posts/lg-range-se-error-code/)
-- [LG CH45 Error Code - Causes & Fix](/posts/lg-mini-split-ch45-error-code/)
-- [LG Washer Error Code 31 — Pressure Sensor / Suspension Fault Fix](/posts/lg-washer-error-code-31/)

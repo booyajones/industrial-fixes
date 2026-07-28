@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "85%"
 ---
 
-## Yaskawa GA800 F016 Fault — What It Means
-
+## What this code means
 The Yaskawa GA800 VFD does not use an F016 fault code in its official documentation. Yaskawa fault codes use prefixes like OC (overcurrent), OV (overvoltage), and OL (overload), not F followed by a number. The display may have been misread due to screen glare or viewing angle, or F016 may refer to a parameter setting rather than a fault. Parameter codes in the F6 group control torque limits and other drive settings. The actual fault could be OC, OV, OL, or another code that was misinterpreted.
 
 Before attempting repairs, press the F2 key on the keypad to access the home screen, then navigate to the fault log to see the exact code displayed. The fault log will show the precise prefix and number. If the display shows a parameter code rather than a fault, the drive may be waiting for a setting change or may have encountered a configuration error. Third-party documentation sometimes incorrectly labels Yaskawa faults with an F prefix, which can cause confusion. Always cross-check the displayed code against the official GA800 Maintenance and Troubleshooting Manual to identify the real issue.
@@ -29,8 +28,6 @@ Before attempting repairs, press the F2 key on the keypad to access the home scr
 ## Before You Replace Anything
 
 Technicians sometimes replace the drive control board assuming a display fault when the issue is simply a misread screen or parameter misunderstanding. First verify the exact code by photographing the display and comparing against the official manual.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

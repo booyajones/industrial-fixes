@@ -20,8 +20,7 @@ free_checks:
 part_price: "$40–70"
 ---
 
-## Frigidaire E44 Error Code — What It Means
-
+## What this code means
 The E44 code on a Frigidaire washer is most commonly documented as a door lock detection failure. Some sources also describe it as a control board or control-lock sensing fault. Because Frigidaire publishes error-code guidance by product line and the exact meaning varies by model family, the safest interpretation is that E44 indicates the control board is not receiving the correct signal from the door lock assembly. The fault may originate in the door lock itself, its wiring, or the main control board.
 
 This code typically appears when you attempt to start a wash cycle and the machine cannot confirm that the door is securely latched and locked. Without a verified lock signal, the washer will not fill or agitate. Check your model's tech sheet or service manual for the precise factory definition of E44 for your unit.
@@ -29,8 +28,6 @@ This code typically appears when you attempt to start a wash cycle and the machi
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first when E44 appears. Before ordering a new board, unplug the washer for five minutes to clear any temporary glitch, then inspect the door lock assembly and its wiring for visible damage or loose connectors.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

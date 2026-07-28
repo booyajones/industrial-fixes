@@ -20,8 +20,6 @@ The most common GE oven beeping is not a fault code but the Cooking Complete Rem
 
 If the beeping is continuous or does not stop with those actions, the cause is usually a timer or cook setting that is still active, a control panel mode stuck on, a power glitch that locked up the controller, an over-temperature condition, or a failed control board or interface connection rather than a standalone error code.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Cooking cycle ended (Cooking Complete Reminder)** GE ovens beep once per minute after a programmed cook time finishes to remind you the cycle is done, and the beep stops when you press Clear/Off or open the door.

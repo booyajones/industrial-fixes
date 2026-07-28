@@ -22,8 +22,7 @@ part_price: "$50-90"
 no_buy_pct: "70%"
 ---
 
-## Bosch Dishwasher E25 Error — What It Means
-
+## What this code means
 E25 is a drainage fault on Bosch dishwashers. It signals that water cannot be pumped out normally, usually because the drain pump chamber, sump area, or impeller path is obstructed or the pump cover is not seated correctly. The code points to a mechanical blockage or flow restriction in the drain system rather than an electrical failure in most cases.
 
 The dishwasher will not complete its cycle and may leave standing water in the tub. The drain pump runs but cannot move water because debris (food particles, glass shards, plastic labels, or other foreign material) has jammed the impeller, clogged the filter or sump, or the pump cover has been left loose or missing after a previous cleaning. Less often, the drain hose is kinked or the home drain connection is blocked.
@@ -32,31 +31,13 @@ The dishwasher will not complete its cycle and may leave standing water in the t
 
 Many people replace the drain pump without first checking the pump cover and impeller. Always remove the filter, clear the sump of debris, and confirm the pump cover is snapped in place and the impeller spins freely before ordering a new pump.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Clogged filter or sump area (~40%)** Food particles, glass fragments, labels, or other debris pack the filter basket or sump chamber and block water flow to the drain pump.
-- **Pump cover loose, missing, or not fully snapped in (~30%)** The pump housing cover in the sump was left off or not latched correctly after a previous filter cleaning, breaking the seal and stopping the pump from building pressure.
-- **Impeller jammed or unable to spin (~15%)** A piece of glass, bone, toothpick, or other hard material is wedged in the impeller blades and prevents the pump motor from turning freely.
-- **Drain hose kinked, pinched, or clogged (~10%)** The flexible drain hose has a sharp bend, is compressed behind the machine, or has accumulated grease and food residue inside, restricting flow.
-- **Failed drain pump motor (~5%)** The pump motor itself has burned out or the windings are open, though this is less common when the mechanical path has been cleared and the error persists.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Is there standing water in the tub and can you see or feel debris in the filter or sump area?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Remove and clean the filter and sump thoroughly, check the pump cover is seated, then reset and test. This solves most E25 faults.<br><strong>No:</strong> The sump is clean, so check the drain hose for kinks or blockages and confirm the impeller spins freely by hand.</div>
-</details>
-
-<details class="dtree"><summary>Does the impeller turn freely when you spin it by hand with the filter and pump cover removed?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The impeller is clear. Inspect the drain hose end-to-end for a clog or kink, and verify the sink or disposal connection is open.<br><strong>No:</strong> Something is jamming the impeller. Remove any debris, reinstall the pump cover firmly, and test again.</div>
-</details>
-
-<details class="dtree"><summary>After cleaning and reassembly, does the error return immediately on the next cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The mechanical path is clear but the pump may be failing. Test the pump motor for continuity or replace the drain pump assembly.<br><strong>No:</strong> The blockage is cleared. Run a full cycle to confirm normal operation and clean the filter monthly to prevent repeat faults.</div>
-</details>
+- **Clogged filter or sump area** Food particles, glass fragments, labels, or other debris pack the filter basket or sump chamber and block water flow to the drain pump.
+- **Pump cover loose, missing, or not fully snapped in** The pump housing cover in the sump was left off or not latched correctly after a previous filter cleaning, breaking the seal and stopping the pump from building pressure.
+- **Impeller jammed or unable to spin** A piece of glass, bone, toothpick, or other hard material is wedged in the impeller blades and prevents the pump motor from turning freely.
+- **Drain hose kinked, pinched, or clogged** The flexible drain hose has a sharp bend, is compressed behind the machine, or has accumulated grease and food residue inside, restricting flow.
+- **Failed drain pump motor** The pump motor itself has burned out or the windings are open, though this is less common when the mechanical path has been cleared and the error persists.
 
 ## Step-by-Step Fix {#fix}
 
@@ -79,5 +60,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a professional if you have cleared the sump, confirmed the impeller spins freely, reseated the pump cover, checked the drain hose, and the E25 code still appears on every cycle. At that point the drain pump motor may have failed internally or there may be a wiring or control board issue that requires diagnostic tools and model-specific knowledge. Also call a pro if you are uncomfortable working with standing water inside the appliance, tilting the machine to access the pump from below, or disconnecting plumbing under the sink. A qualified appliance technician can test the pump motor for continuity, inspect the check valve if your model has one, and trace wiring faults in the pump circuit.
-
-**Rough cost:** DIY runs about $0-20 for cleaning supplies and clamps if needed, 20-45 min; $50-90 and 45-90 min if pump replacement is required. A pro service call runs about $120-220 for service call and cleaning; $180-320 if pump replacement is needed.

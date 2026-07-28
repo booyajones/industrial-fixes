@@ -17,8 +17,7 @@ money_part: "Dishwasher inlet hose"
 part_price: "$15-50"
 ---
 
-## Bosch Dishwasher E08 Error Code — What It Means
-
+## What this code means
 E08 is a low-water or loss-of-water fault. Bosch defines it as the dishwasher detecting that the water level has unexpectedly dropped during the wash cycle. The heat pump or circulation system is sensing too low a water level in the pump sump to continue heating and washing safely.
 
 This is not a generic fill failure. It means the machine either did not maintain enough water after the initial fill, or water is escaping or being trapped somewhere it should not be. The code protects the heater and pump from running dry.
@@ -26,8 +25,6 @@ This is not a generic fill failure. It means the machine either did not maintain
 ## Before You Replace Anything
 
 Many people replace the inlet valve or control board first. Instead, check the inlet hose for kinks, clean the inlet screen and sump filter, and look for overturned dishes trapping water before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

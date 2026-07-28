@@ -19,15 +19,12 @@ free_checks:
   - "Verify the exact alarm number on the display (look closely for Alarm 38, Alarm 13, or Alarm 16 instead of AL-99)"
 ---
 
-## Danfoss FC302 AL-99 Fault — What It Means
-
+## What this code means
 The code AL-99 does not appear in any official Danfoss FC302 documentation. Danfoss FC302 drives use numeric alarm IDs like Alarm 13, Alarm 38, or Alarm 16. No published manual lists AL-99 or AL-99 fault. This likely results from a misread display (for example, confusing AL-38 with AL-99), a typo, or a third-party display error. If you see something that looks like AL-99, the most common internal fault on the FC302 is Alarm 38, which indicates an internal fault in the drive's logic or control board, memory corruption, or firmware errors. Alarm 38 is often triggered by transient software glitches, control card component failure, or electrical noise damaging the control card. Check your drive's LCP display carefully and consult the Danfoss FC302 manual Table 6.1 for the exact alarm number and its definition.
 
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire power stack or IGBT module when Alarm 38 appears, but the fault is usually in the control/logic card. Check parameter 15-32 for extended diagnostics and power cycle the drive three times before ordering hardware.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Danfoss-certified service partner if you cannot confirm the exact alarm number, if parameter 15-32 shows codes you do not understand, or if the drive continues to fault after a control-card replacement. Professional diagnostics include oscilloscope tests of gate-driver signals, firmware reflashing via MCT 10 software, and full power-stack load testing. If the drive is under warranty, contact Danfoss immediately rather than opening the enclosure. High-voltage DC bus capacitors remain charged for several minutes after power-off and pose a serious shock hazard.
 
 **Rough cost:** A pro service call runs about $300-800 depending on whether a control card or full power stack is needed.
-
-## See Also
-
-- [Danfoss FC302 VFD AL-119 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-119-fault-code/)
-- [Danfoss FC302 ALARM 28 - Causes & Fix](/posts/danfoss-fc302-alarm-28-fault-code/)
-- [Danfoss FC301 Fault AL 14 — Ground Fault Causes & Fix](/posts/danfoss-fc301-fault-al-14/)
-- [Danfoss FC302 VFD ALARM 18 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-18-fault-code/)

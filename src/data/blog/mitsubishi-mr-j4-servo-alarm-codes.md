@@ -23,8 +23,6 @@ The Mitsubishi MELSERVO MR-J4 series is a high-performance servo amplifier used 
 
 Alarm codes appear as **AL.XX** (decimal) on the display. Some faults can be cleared via the **Alarm reset** input (pin 19 on CN1) or via MR Configurator2 software; others require resolving the root cause before the amplifier will restart.
 
-[Jump to Fix](#step-by-step-fix)
-
 ## MR-J4 Alarm Code Quick Reference
 
 | Alarm | Name | Short Description |
@@ -107,19 +105,3 @@ AL.12 (memory error), AL.13 (clock error), and AL.32 (overcurrent/IGBT failure) 
 For machine tools where the MR-J4 is the axis servo in a Mazak, DMG Mori, or Mitsubishi M800 CNC system, always back up all CNC parameters and servo parameters before replacing an amplifier — parameter restoration from backup takes minutes; re-commissioning from scratch can take days.
 
 > **Pro tip:** MR-J4 alarms AL.30 and AL.33 are often confused. AL.30 means the regenerative transistor or resistor circuitry failed electrically (a hardware fault). AL.33 means the DC bus actually overvoltaged — which can happen if no regen resistor is installed and the load is decelerating rapidly. Check parameter **Pr.PA02** (regeneration option) — if set to 0 (no option), the amplifier relies on its tiny built-in regenerative resistor only. For any significant dynamic braking application, an external MR-RB series resistor must be installed and Pr.PA02 set accordingly.
-
-## See Also
-
-- [Yaskawa Sigma-7 SGD7S Servo Drive Alarm Codes](/posts/yaskawa-sigma7-sgd7s-alarm-codes/)
-- [Mitsubishi FR-A800 VFD Fault E7](/posts/mitsubishi-fr-a800-fault-e7/)
-- [Mitsubishi FR-D700 Fault Codes](/posts/mitsubishi-fr-d700-fault-codes/)
-- [Fanuc Servo Alarm 400 — Servo Not Ready](/posts/fanuc-alarm-400/)
-- [Servo Motor Fault Codes Guide](/posts/servo-motor-fault-codes/)
-
-## Related Articles
-
-- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
-- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
-- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
-- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
-- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)

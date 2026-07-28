@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Dryer F01 Error Code — What It Means
-
+## What this code means
 The F01 error code on an Amana dryer signals a communication failure between the main control board and the user interface display panel, or a fault within the control board's internal relay circuit. The control board cannot properly communicate or has detected a problem in its own operation, preventing the dryer from starting or continuing a cycle.
 
 This code typically points to a physical or electrical issue affecting the control board itself, rather than a sensor or mechanical component elsewhere in the dryer. The control board may be stuck, have a bad solder connection, or a failed relay that prevents the system from operating correctly.
@@ -25,8 +24,6 @@ This code typically points to a physical or electrical issue affecting the contr
 ## Before You Replace Anything
 
 Many people replace the entire control board when the real problem is a cracked solder joint on the motor start relay. Before buying a new board, inspect the relay connections under magnification and attempt a solder reflow repair, which costs nearly nothing and fixes most F01 cases.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

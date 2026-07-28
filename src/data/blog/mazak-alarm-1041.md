@@ -112,17 +112,10 @@ Call when: 1041 persists with a verified-good new battery (drive hold-up cap or 
 - [Mazak Servo Parameter Error Fix](/posts/mazak-servo-parameter-error/)
 - [Fanuc Alarm 300 — APC Battery Voltage Low Fix](/posts/fanuc-alarm-300/)
 - [Fanuc Alarm 414 — Servo Digital Alarm Fix](/posts/fanuc-alarm-414/)
-- [Haas Alarm 114 — Servo Error Too Large Fix](/posts/haas-alarm-114/)
+- Haas Alarm 114 — Servo Error Too Large Fix
 
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Best multimeter for HVAC techs (2026)](/posts/best-multimeter-for-hvac/)
 
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Best clamp meter (2026)](/posts/best-clamp-meter-for-electricians/)
-
-## See Also
-
-- [Mazak Nexus Series Error Codes: Complete Guide](/posts/mazak-nexus-error-codes/)
-- [Mazak Alarm 218 — Spindle Motor Overheat Fix](/posts/mazak-alarm-218/)
-- [Mazak Alarm 600 ATC — Automatic Tool Changer Fault Causes & Fix](/posts/mazak-alarm-600-atc/)
-- [Mazak Alarm 800 — Tool Magazine Fault](/posts/mazak-alarm-800-atc/)

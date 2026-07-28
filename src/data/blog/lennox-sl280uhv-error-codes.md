@@ -126,18 +126,3 @@ EEPROM checksum error on the control board. Power cycle first; persistent code =
 Any fault involving the gas valve (code 21) or a hard lockout on ignition (code 14) that persists after cleaning the flame sensor should be diagnosed by a licensed HVAC tech. Gas valve replacement requires disconnecting the gas line and rechecking for leaks. The SL280UHV's ECM blower system is also complex — drive module failures require specialized diagnostic tools to confirm before spending $400+ on parts.
 
 > **Pro tip:** The SL280UHV has a "last 5 fault codes" memory on the control board. Hold the diagnostic button (small pushbutton next to the LED) for 3 seconds — the board will blink out the last five fault codes in sequence. This is invaluable for intermittent faults that don't repeat during a service call.
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-
-## See Also
-
-- [Lennox iComfort Error Code 225 — Communication Fault Fix Guide](/posts/lennox-icomfort-error-code-225/)
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox Error Code 540 — Communicating System Fault (Detailed Guide)](/posts/lennox-error-code-540-communicating/)
-- [Lennox XP20 Heat Pump Error Codes - Full iComfort Fault Reference](/posts/lennox-xp20-heat-pump-error-codes/)

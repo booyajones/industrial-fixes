@@ -17,8 +17,7 @@ money_part: "Dishwasher drain hose"
 part_price: "$15-50"
 ---
 
-## Whirlpool Dishwasher F9E1 Error — What It Means
-
+## What this code means
 Whirlpool identifies F9E1 on dishwashers as "Can't Drain Cycle Power." The control has detected that water is not leaving the tub properly during the drain portion of the cycle. This is a drain failure code, not a fill or wash fault.
 
 This code is specific to Whirlpool dishwashers. Do not confuse it with Whirlpool's laundry F9E1 code, which means long drain time on washing machines. The dishwasher version indicates the machine cannot complete a drain cycle at all.
@@ -26,8 +25,6 @@ This code is specific to Whirlpool dishwashers. Do not confuse it with Whirlpool
 ## Before You Replace Anything
 
 Homeowners often replace the drain pump when the real problem is a kinked drain hose or a knockout plug still blocking the disposer inlet. Check the entire drain path for obstructions and correct hose routing before buying a pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

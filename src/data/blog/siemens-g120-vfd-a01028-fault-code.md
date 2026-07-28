@@ -13,11 +13,8 @@ money_part: "Siemens G120 Control Unit (CU) matching installed MLFB"
 most_likely_cause: "Wrong hardware selected during commissioning"
 ---
 
-## Siemens G120 A01028 Fault — What It Means
-
+## What this code means
 Fault code A01028 on a Siemens SINAMICS G120 is a configuration error alarm. It appears when the drive detects that the downloaded parameter set was created for a different hardware module than the one physically installed. The drive compares the stored configuration's target module type and order number (MLFB) against the actual Control Unit and Power Module present, and this alarm triggers when they do not match. The alarm reaction is NONE and it requires no acknowledgment, but it signals that your commissioning data is inconsistent with the installed hardware. This is not an electrical failure but a mismatch between the project file and the drive identity.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ Fault code A01028 on a Siemens SINAMICS G120 is a configuration error alarm. It 
 ## When to Call a Pro
 
 Call a qualified Siemens drive technician or automation integrator if you cannot identify the installed module MLFB, if you do not have access to the original commissioning project or Startdrive software, or if the alarm returns after correctly matching the project to the hardware and saving with p0971=1. Also contact a professional if the drive was part of a coordinated system (PLC, motion control, or multi-axis setup) where changing parameters could affect other equipment. If the Control Unit or Power Module identity cannot be read or verified through the drive interface, the hardware may have a memory or circuit fault that requires factory-trained service and possible module replacement under warranty.
-
-## See Also
-
-- [Siemens Micromaster F0004 - Causes & Fix](/posts/siemens-micromaster-vfd-f0004-fault-code/)
-- [Siemens Sinumerik Alarm 380500 — Causes & Fix](/posts/siemens-sinumerik-alarm-380500/)
-- [Siemens Micromaster F0020 - Causes & Fix](/posts/siemens-micromaster-f0020-fault-code/)
-- [Siemens Micromaster F0071 - Causes & Fix](/posts/siemens-micromaster-f0071-fault-code/)

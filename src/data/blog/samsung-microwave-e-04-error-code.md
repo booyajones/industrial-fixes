@@ -17,8 +17,7 @@ money_part: "Samsung microwave main control board (MICOM)"
 part_price: "$80-200"
 ---
 
-## Samsung Microwave E-04 Error — What It Means
-
+## What this code means
 On Samsung microwave ovens equipped with convection cooking, E-04 indicates a Cooking Time Setting Over Error. The control board has rejected the programmed cook time because it exceeds the maximum allowed for the selected convection mode. This error typically appears during time entry rather than during actual cooking.
 
 The code does not indicate a gas-sensor issue, despite some third-party sources. Samsung's microwave error-code tables define E-04 specifically as a convection time-limit rejection. The fault may be caused by entering a time that is too long, a control-panel glitch registering an invalid setting, or moisture interference on the keypad or control electronics.
@@ -26,8 +25,6 @@ The code does not indicate a gas-sensor issue, despite some third-party sources.
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when the real cause is moisture contamination or a stuck keypad. Dry the unit thoroughly and perform a 60-second power reset before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

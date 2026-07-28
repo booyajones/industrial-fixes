@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Lint screen"
 ---
 
-## Maytag Dryer F4E3 Error Code — What It Means
-
+## What this code means
 On Maytag commercial-grade residential dryers, F4E3 signals restricted airflow. The dryer detects that air is not moving through the drum and vent system as freely as it should. The dryer may continue running and you can clear the display by touching any key, but the underlying airflow problem still needs correction or the code will return. Note that on Whirlpool all-in-one washer/dryer combo units, F4E3 instead indicates a dryer blower fan failure, so the exact meaning depends on which product family you own.
 
 Restricted airflow is almost always a venting issue rather than a component failure. Lint buildup, a crushed vent hose, or a duct run with too many elbows will all starve the dryer of air and trigger the code. Fixing F4E3 is about restoring a clear path from the drum through the vent to the outside.
@@ -25,8 +24,6 @@ Restricted airflow is almost always a venting issue rather than a component fail
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board or blower motor when F4E3 appears. Start by pulling the dryer away from the wall and inspecting the vent hose for kinks or blockage, which costs nothing and solves the majority of cases.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

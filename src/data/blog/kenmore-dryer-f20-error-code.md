@@ -21,8 +21,7 @@ part_price: "$8-20 for replacement inlet screens or hose; $50-60 for a flow mete
 no_buy_pct: "60%"
 ---
 
-## Kenmore F20 Error Code — What It Means
-
+## What this code means
 The Kenmore F20 error code signals a water fill problem. The washer's flow sensor detects low water volume entering the tub, or the tub pressure sensor (pressure switch) reports that no water is present despite the fill cycle running. In plain terms, the machine cannot reach the required water level and flags the fault to prevent operating dry or overfilling.
 
 This code can trigger from both external and internal causes. External issues include shut or partially open supply valves, kinked hoses, or frozen lines in winter. Internal causes range from clogged inlet screens to a failed flow meter, a leaking pressure switch hose, or faulty inlet valves. The machine is designed to halt the cycle when it detects insufficient flow, protecting the motor and pump from damage.
@@ -30,8 +29,6 @@ This code can trigger from both external and internal causes. External issues in
 ## Before You Replace Anything
 
 Many people replace the inlet valve first, but clogged inlet screens or a tiny hole in the pressure switch hose are far more common. Clean the screens and inspect the 1/4-inch pressure hose before buying a new valve.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

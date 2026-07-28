@@ -17,8 +17,7 @@ likelihood: "the core trigger in all E15 activations"
 diy_or_pro: "diy"
 ---
 
-## Bosch Dishwasher E15 Error Code — What It Means
-
+## What this code means
 E15 on a Bosch dishwasher means the appliance's leak-protection system has detected water in the base pan or bottom tray, so the safety switch has been activated. Bosch describes this as a water leakage condition and a water-in-the-base event, not a generic electronic fault.
 
 The code triggers when water accumulates in the tray underneath the dishwasher tub, signaling that something inside has leaked or overflowed. The safety float or switch in that base compartment activates to prevent further flooding and shuts down normal operation until the leak is addressed and the water is removed.
@@ -26,8 +25,6 @@ The code triggers when water accumulates in the tray underneath the dishwasher t
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board thinking E15 is an electronic fault. The code is a leak-protection activation, so always remove water from the base and inspect door seals, hoses, and connections before replacing any electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

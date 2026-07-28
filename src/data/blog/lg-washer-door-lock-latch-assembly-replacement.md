@@ -67,10 +67,3 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 Call a professional if the door boot retaining ring is rusted or seized and you cannot safely remove it without tearing the boot, if the door strike replacement requires disassembling the door and you are not comfortable with that, or if the new lock assembly still does not resolve the fault and you need electrical diagnostics on the control board or wiring harness. Also call a pro if the washer is still under warranty, because DIY repair may void coverage.
-
-## See Also
-
-- [LG LFXS28968S Refrigerator Problems & Error Codes](/posts/lg-lfxs28968s-refrigerator-problems/)
-- [LG Oven Igniter Not Working - Causes & Fix](/posts/lg-oven-igniter-not-working/)
-- [LG Mini-Split CH05 Error - Causes & Fix](/posts/lg-mini-split-ch-05-error-code/)
-- [LG Dryer nP Error Code - Causes & Fix](/posts/lg-dryer-np-error-code/)

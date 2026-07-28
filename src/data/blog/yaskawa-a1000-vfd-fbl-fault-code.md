@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 FbL Fault — What It Means
-
+## What this code means
 The FbL fault on a Yaskawa A1000 drive stands for PID Feedback Loss. It trips when the PID feedback input stays below the level programmed in parameter b5-13 for longer than the time set in b5-14, and only when feedback-loss detection is enabled by setting parameter b5-12 to 2 or 5. This is not a general drive output fault. It is specific to the PID feedback circuit and sensor loop used in closed-loop process control applications.
 
 The drive monitors the feedback signal from a sensor or transducer (such as a pressure sensor, flow meter, or temperature sensor) and compares it to the threshold you configured. When the signal is too low for too long, the drive assumes the feedback loop has failed and shuts down to protect the process.
@@ -24,8 +23,6 @@ The drive monitors the feedback signal from a sensor or transducer (such as a pr
 ## Before You Replace Anything
 
 Technicians sometimes replace the drive control board before checking the feedback sensor and wiring. Always verify sensor output with a multimeter and inspect every terminal in the feedback loop before swapping boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified drive technician or controls integrator if you are not familiar with PID control loops, parameter programming, or multimeter testing of analog signals. Work on VFD feedback circuits requires understanding of low-voltage analog signals, proper grounding, and shielding practices. If you have verified the sensor and wiring but the fault persists, the drive control board or internal circuitry may be damaged and should be diagnosed by someone with VFD repair experience. Always follow lockout/tagout procedures and consult the A1000 technical manual before working inside the drive enclosure.
 
 **Rough cost:** A pro service call runs about $200-600.
-
-## See Also
-
-- [Yaskawa GA800 E03 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e03-fault-code/)
-- [Yaskawa GA800 E99 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e99-fault-code/)
-- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
-- [Yaskawa A1000 CPF03 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf03-fault-code/)

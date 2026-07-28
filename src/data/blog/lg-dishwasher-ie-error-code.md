@@ -22,8 +22,7 @@ part_price: "$30-70"
 no_buy_pct: "65%"
 ---
 
-## LG Dishwasher IE Error Code — What It Means
-
+## What this code means
 The IE error on an LG dishwasher means the unit detected insufficient water fill. The tub did not reach the expected water level within the allowed fill time, typically between 30 seconds and 10 minutes depending on your model. LG describes this as the dishwasher not receiving adequate water or the correct water level not being reached within the expected time frame.
 
 When the control board sees too little water after the fill cycle, it stops the wash and displays IE to prevent the pump and spray arms from running dry. The error points to a problem somewhere in the water supply path, from the house shutoff valve all the way to the inlet valve inside the dishwasher.
@@ -31,8 +30,6 @@ When the control board sees too little water after the fill cycle, it stops the 
 ## Before You Replace Anything
 
 Many people replace the water inlet valve first, but more than half of IE codes are caused by a closed shutoff valve, kinked hose, or clogged inlet screen. Check the supply and clean the screen before buying a new valve.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -81,10 +78,3 @@ Answer these to narrow it down fast.
 Call a pro if you have checked the supply valve, cleaned the inlet screen, inspected the hose, and replaced the water inlet valve but the IE code persists. At that point the problem may involve wiring, the control board, or an internal pressure sensor that requires diagnostic tools and schematic knowledge. Also call for service if your household water pressure is consistently below 20 PSI and you need a plumber to install a booster pump or correct supply-line restrictions. If you are uncomfortable working under the sink, disconnecting water lines, or accessing the back of a built-in dishwasher, a technician can perform the entire diagnostic and repair sequence safely in a single visit.
 
 **Rough cost:** DIY runs about $30-80 in parts, 30-90 min. A pro service call runs about $120-250.
-
-## See Also
-
-- [LG Oven F11 Error Code - Causes & Fix](/posts/lg-oven-f11-error-code/)
-- [LG Refrigerator CO Error Code - Causes & Fix](/posts/lg-refrigerator-co-error-code/)
-- [LG Oven F9 Error Code - Causes & Fix](/posts/lg-oven-f9-error-code/)
-- [LG Range PE Error Code - Causes & Fix](/posts/lg-range-pe-error-code/)

@@ -22,8 +22,7 @@ part_price: "$35-75"
 no_buy_pct: "65%"
 ---
 
-## Maytag F9E1 Error Code — What It Means
-
+## What this code means
 The F9E1 code on a Maytag washer indicates a long drain fault. The machine detected that water did not drain within the allowed time window, so the control timed out on draining. In practical terms, the washer is not evacuating water fast enough.
 
 Maytag's official product help points to drain hose installation problems, kinked or clogged drain hoses, and blocked drain paths as the first checks. The code will appear during or after a drain cycle when the pump runs but water remains in the tub longer than expected.
@@ -31,8 +30,6 @@ Maytag's official product help points to drain hose installation problems, kinke
 ## Before You Replace Anything
 
 Many people replace the drain pump or control board without first checking the drain hose routing and household drain path. Always verify the hose is not shoved too far into the standpipe and that there are no kinks or clogs before buying any part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

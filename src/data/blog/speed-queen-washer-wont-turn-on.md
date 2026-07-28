@@ -19,8 +19,6 @@ A Speed Queen washer that won't turn on is not a fault code. It is a symptom tha
 
 The machine is either not receiving usable power, or it is receiving power but is being held out of operation by an interlock or control failure. Repair sources for this symptom consistently prioritize checking the outlet, cord, breaker, lid or door switch, water supply conditions on start-up models, timer, and control board.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **No incoming power at the outlet, tripped breaker, or blown fuse** This is the most common cause and should be verified first by testing the wall outlet with a known-good load and inspecting the breaker or fuse.
@@ -60,12 +58,12 @@ If your appliance also shows a code on the display, these match this problem:
 - [Speed Queen Washer Du error code](/posts/speed-queen-washer-du-error-code/)
 - [Speed Queen Washer E 05 error code](/posts/speed-queen-washer-e-05-error-code/)
 - [Speed Queen Washer E 07 error code](/posts/speed-queen-washer-e-07-error-code/)
-- [Speed Queen Washer E 08 error code](/posts/speed-queen-washer-e-08-error-code/)
+- Speed Queen Washer E 08 error code
 - [Speed Queen Washer E 0D error code](/posts/speed-queen-washer-e-0d-error-code/)
-- [Speed Queen Washer E1 error code](/posts/speed-queen-washer-e1-error-code/)
+- Speed Queen Washer E1 error code
 - [Speed Queen Washer E5 error code](/posts/speed-queen-washer-e5-error-code/)
 - [Speed Queen Washer E7 error code](/posts/speed-queen-washer-e7-error-code/)
-- [Speed Queen Washer Ec 09 error code](/posts/speed-queen-washer-ec-09-error-code/)
+- Speed Queen Washer Ec 09 error code
 
 ## When to Call a Pro
 

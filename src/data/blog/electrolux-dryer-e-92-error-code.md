@@ -22,8 +22,7 @@ part_price: "$80-200"
 no_buy_pct: "30%"
 ---
 
-## Electrolux Dryer E92 Error — What It Means
-
+## What this code means
 E92 is a configuration or communication fault between the user interface control and the main electronic control board. Electrolux groups E92 with E90, E91, E93, and E94 as errors indicating configuration or communication problems with electronic parts. In service terms, the board and UI are not the correct matched pair for your model, or the unit is seeing an invalid configuration after a part replacement.
 
 This code does not point to a venting, motor, or heater problem. It appears most often after a UI or main board has been replaced with a part that does not match the exact model, or when the connection between those two controls is poor.
@@ -31,8 +30,6 @@ This code does not point to a venting, motor, or heater problem. It appears most
 ## Before You Replace Anything
 
 Many people replace the main control board or UI in isolation without verifying the exact model-specific part number, then see E92 again. Always confirm the installed part numbers against the model-specific parts list and reseat all connectors before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

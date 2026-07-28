@@ -19,8 +19,6 @@ When your Bosch refrigerator stops cooling, the fridge compartment fails to reac
 
 The control board relies on sensors, fans, and clear air pathways to move cold air from the freezer into the fridge. When any part of this chain breaks down, warm food and spoilage follow. Most failures trace back to blocked vents, dirty coils, or failed components in the cooling cycle.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Ice blocking air vents** Frost buildup in the vent passages between freezer and fridge stops cold air from circulating, usually caused by a failed defrost heater or thermostat.
@@ -55,14 +53,14 @@ The control board relies on sensors, fans, and clear air pathways to move cold a
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Bosch Refrigerator E01 error code](/posts/bosch-refrigerator-e01-error-code/)
+- Bosch Refrigerator E01 error code
 - [Bosch Refrigerator E02 error code](/posts/bosch-refrigerator-e02-error-code/)
-- [Bosch Refrigerator E03 error code](/posts/bosch-refrigerator-e03-error-code/)
-- [Bosch Refrigerator E10 error code](/posts/bosch-refrigerator-e10-error-code/)
-- [Bosch Refrigerator E11 error code](/posts/bosch-refrigerator-e11-error-code/)
-- [Bosch Refrigerator E15 error code](/posts/bosch-refrigerator-e15-error-code/)
-- [Bosch Refrigerator E20 error code](/posts/bosch-refrigerator-e20-error-code/)
-- [Bosch Refrigerator E21 error code](/posts/bosch-refrigerator-e21-error-code/)
+- Bosch Refrigerator E03 error code
+- Bosch Refrigerator E10 error code
+- Bosch Refrigerator E11 error code
+- Bosch Refrigerator E15 error code
+- Bosch Refrigerator E20 error code
+- Bosch Refrigerator E21 error code
 
 ## When to Call a Pro
 

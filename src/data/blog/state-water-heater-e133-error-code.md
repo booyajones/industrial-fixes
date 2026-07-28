@@ -17,8 +17,7 @@ free_checks:
   - "Turn the boiler off for five minutes, then back on and request heat or hot water"
 ---
 
-## State Water Heater E133 Error — What It Means
-
+## What this code means
 E133 is not a documented error code for State brand water heaters. State water heaters typically use different fault codes (such as E10 for ignition failure). The E133 code is consistently documented as an ignition lockout fault on Baxi, Potterton, and Main gas-fired boilers, not water heaters. If your appliance displays E133, first confirm the brand and model by checking the rating plate. You may have misread the code, or your unit may actually be a combi boiler rather than a traditional water heater.
 
 If you do have a Baxi, Potterton, or Main boiler showing E133, the code means the control board attempted to ignite the gas burner but the flame sensor did not detect a flame after multiple tries. This triggers a safety lockout to prevent unburned gas from accumulating. The fault typically occurs when gas flow is interrupted, the ignition electrode is dirty or damaged, or the gas valve fails to open properly.
@@ -26,8 +25,6 @@ If you do have a Baxi, Potterton, or Main boiler showing E133, the code means th
 ## Before You Replace Anything
 
 Homeowners often replace the ignition electrode when the real problem is low gas pressure or a sticky gas valve. Check that other gas appliances work and verify the gas meter is on before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

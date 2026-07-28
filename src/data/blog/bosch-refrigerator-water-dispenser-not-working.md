@@ -19,8 +19,6 @@ A Bosch refrigerator water dispenser that stops working is not tied to a single 
 
 Bosch service data shows the most common field failures are insufficient supply pressure, a clogged or incorrectly seated water filter, a frozen reservoir tube, a kinked supply line, or a failed inlet valve. In some cases, a faulty door switch or dispenser switch prevents the control board from energizing the water circuit. Diagnosis starts at the house supply and works forward through each stage.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged or overdue water filter** Bosch recommends replacing the filter every six months, and a clogged or improperly seated filter will restrict flow and stop dispensing.
@@ -55,14 +53,14 @@ Bosch service data shows the most common field failures are insufficient supply 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Bosch Refrigerator E01 error code](/posts/bosch-refrigerator-e01-error-code/)
+- Bosch Refrigerator E01 error code
 - [Bosch Refrigerator E02 error code](/posts/bosch-refrigerator-e02-error-code/)
-- [Bosch Refrigerator E03 error code](/posts/bosch-refrigerator-e03-error-code/)
-- [Bosch Refrigerator E10 error code](/posts/bosch-refrigerator-e10-error-code/)
-- [Bosch Refrigerator E11 error code](/posts/bosch-refrigerator-e11-error-code/)
-- [Bosch Refrigerator E15 error code](/posts/bosch-refrigerator-e15-error-code/)
-- [Bosch Refrigerator E20 error code](/posts/bosch-refrigerator-e20-error-code/)
-- [Bosch Refrigerator E21 error code](/posts/bosch-refrigerator-e21-error-code/)
+- Bosch Refrigerator E03 error code
+- Bosch Refrigerator E10 error code
+- Bosch Refrigerator E11 error code
+- Bosch Refrigerator E15 error code
+- Bosch Refrigerator E20 error code
+- Bosch Refrigerator E21 error code
 
 ## When to Call a Pro
 

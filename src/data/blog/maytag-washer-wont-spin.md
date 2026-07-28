@@ -19,8 +19,6 @@ When a Maytag washer won't spin, the machine has detected a condition that preve
 
 The washer will refuse to spin if it senses the lid is not closed, the load is too unbalanced, the drain path is blocked, or a mechanical or electrical component has failed. Most no-spin complaints trace back to simple load or lid issues, but recurring or immediate fault codes point to internal component failure that requires diagnosis.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Unbalanced or overloaded laundry** An incorrect or unbalanced load prevents the basket from reaching spin speed and may trigger a balance fault code.

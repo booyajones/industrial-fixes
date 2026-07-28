@@ -13,11 +13,8 @@ money_part: "Safety relay module"
 most_likely_cause: "stop circuit not reset"
 ---
 
-## Siemens 840D Alarm 380000 — What It Means
-
+## What this code means
 Alarm 380000 on the Siemens Sinumerik 840D indicates a drive enable signal is missing — the safety logic that allows the drives to energize hasn't received its enable signal. On the 840D, the NCU (Numerical Control Unit) communicates drive enable status through the DRIVE-CLiQ or X121/X122 interface; if the enable chain is broken, no axis or spindle drive can be powered.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Alarm 380000 on the Siemens Sinumerik 840D indicates a drive enable signal is mi
 ## When to Call a Pro
 
 840D safety circuit and drive commissioning issues require Siemens-trained service. Do not bypass safety interlocks to clear Alarm 380000.
-
-## Related Articles
-
-- [Siemens Sinumerik 828D Alarm Codes Guide — Complete Diagnostic Reference](/posts/siemens-828d-alarm-codes/)
-- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)
-- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
-- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)
-- [Siemens G120C VFD Fault Code Guide — Complete Diagnostic Reference](/posts/siemens-g120c-fault-codes/)
-
-## See Also
-
-- [Siemens Micromaster Fault F001 — Causes & Fix](/posts/siemens-micromaster-fault-f001/)
-- [Siemens SINAMICS V20 F4 Fault — Inverter Overtemperature Fix](/posts/siemens-sinamics-v20-f4-overtemp/)
-- [Siemens SINAMICS G120 Fault F30021, Ground Fault Causes & Fix](/posts/siemens-sinamics-g120-fault-f30021/)
-- [Siemens SINAMICS G120 F00001 Fault — Causes & Fix](/posts/siemens-sinamics-g120-fault-f00001/)

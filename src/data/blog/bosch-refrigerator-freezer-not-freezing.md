@@ -19,8 +19,6 @@ When your Bosch refrigerator's freezer compartment stops freezing, the control s
 
 The temperature sensor tells the control board how cold the freezer is so it can regulate compressor run time and defrost cycles. If the sensor fails or its wiring is damaged, the board gets no signal or a bad signal and cannot control freezing. Other basic issues like incorrect thermostat settings, no power to the unit, or a poor door seal can also prevent proper freezing.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed freezer temperature sensor** The thermistor in the freezer compartment has failed open, shorted, or is reading out of range, so the control board cannot measure freezer temperature and will not run proper cooling cycles.
@@ -55,12 +53,12 @@ The temperature sensor tells the control board how cold the freezer is so it can
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Bosch Refrigerator E01 error code](/posts/bosch-refrigerator-e01-error-code/)
+- Bosch Refrigerator E01 error code
 - [Bosch Refrigerator E02 error code](/posts/bosch-refrigerator-e02-error-code/)
-- [Bosch Refrigerator E03 error code](/posts/bosch-refrigerator-e03-error-code/)
-- [Bosch Refrigerator E10 error code](/posts/bosch-refrigerator-e10-error-code/)
-- [Bosch Refrigerator E11 error code](/posts/bosch-refrigerator-e11-error-code/)
-- [Bosch Refrigerator E15 error code](/posts/bosch-refrigerator-e15-error-code/)
+- Bosch Refrigerator E03 error code
+- Bosch Refrigerator E10 error code
+- Bosch Refrigerator E11 error code
+- Bosch Refrigerator E15 error code
 - [Bosch Refrigerator E20 error code](/posts/bosch-refrigerator-e20-error-code/)
 - [Bosch Refrigerator E21 error code](/posts/bosch-refrigerator-e21-error-code/)
 

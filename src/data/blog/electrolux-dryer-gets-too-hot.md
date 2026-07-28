@@ -19,8 +19,6 @@ When your Electrolux dryer gets too hot, the heater is running hotter than the d
 
 In practice, overheating means the heat produced by the element isn't being carried away by enough moving air. The temperature-sensing circuit (cycling thermostat or thermistor) tries to control this, but if airflow is blocked or a sensor has failed, the control board can't regulate temperature correctly. The result is too much heat buildup inside the drum and cabinet.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Restricted exhaust vent or lint blockage** This is the most common preventable cause: lint buildup in the duct, wall cap, or transition hose chokes off airflow and traps heat inside the dryer.
@@ -56,8 +54,8 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Electrolux Dryer Ad error code](/posts/electrolux-dryer-ad-error-code/)
 - [Electrolux Dryer E 09 error code](/posts/electrolux-dryer-e-09-error-code/)
-- [Electrolux Dryer E 10 error code](/posts/electrolux-dryer-e-10-error-code/)
-- [Electrolux Dryer E 11 error code](/posts/electrolux-dryer-e-11-error-code/)
+- Electrolux Dryer E 10 error code
+- Electrolux Dryer E 11 error code
 - [Electrolux Dryer E 31 error code](/posts/electrolux-dryer-e-31-error-code/)
 - [Electrolux Dryer E 42 error code](/posts/electrolux-dryer-e-42-error-code/)
 - [Electrolux Dryer E 51 error code](/posts/electrolux-dryer-e-51-error-code/)

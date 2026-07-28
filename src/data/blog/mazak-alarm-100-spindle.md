@@ -13,11 +13,8 @@ money_part: "Spindle drive cooling fan"
 most_likely_cause: "Spindle drive overtemperature"
 ---
 
-## Mazak Alarm 100 — What It Means
-
+## What this code means
 Alarm 100 on a Mazak CNC (Mazatrol T-, M-, or Fusion series) indicates a spindle alarm. The spindle drive detected a fault condition — this can encompass spindle drive overcurrent, overtemperature, encoder feedback loss, or a drive internal fault depending on the specific spindle drive model (Fanuc, Mitsubishi, or Mazak proprietary). Alarm 100 is always accompanied by a sub-alarm or spindle drive LED/code that identifies the specific spindle fault type.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,18 +44,3 @@ Alarm 100 on a Mazak CNC (Mazatrol T-, M-, or Fusion series) indicates a spindle
 ## When to Call a Pro
 
 Spindle drive replacement, spindle motor testing, and encoder calibration require specialized equipment and Mazak machine knowledge. Contact a Mazak Factory Service Representative or authorized service center for hardware faults that do not resolve with cooling and power cycling.
-
-## Related Articles
-
-- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
-- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
-- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-
-## See Also
-
-- [Mazak Alarm 500 PC Alarm — Causes & Fix](/posts/mazak-alarm-500-pc/)
-- [Mazak Integrex Error Codes Guide — Common Mazatrol and Servo Faults](/posts/mazak-integrex-error-codes/)
-- [Mazak Matrix Alarm 1041 — Battery Voltage Drop / Encoder Battery Fix](/posts/mazak-alarm-1041/)
-- [Mazak CNC Alarm Codes — Common Faults and Fixes](/posts/mazak-alarm-codes/)

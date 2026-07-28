@@ -16,8 +16,7 @@ money_part: "Steam sensor (humidity sensor)"
 part_price: "$30-80"
 ---
 
-## Samsung C-71 Error Code — What It Means
-
+## What this code means
 The C-71 error code appears on Samsung microwave ovens and signals a problem with the steam sensor or humidity-sensing circuit. The oven has detected either excessive moisture in the sensing area or a fault in the components that monitor steam during cooking. Unlike simple oven malfunctions, this code is tied specifically to the steam-generation and moisture-monitoring system rather than general heating or control-board issues.
 
 Because Samsung does not publish a detailed public service bulletin for C-71, the most reliable interpretation comes from field technician experience. The code typically points to moisture intrusion into electronics, a disconnected or corroded wire on the steam generator, or a failure in the steam sensor itself. In some cases the pump or main control board may also be involved.
@@ -25,8 +24,6 @@ Because Samsung does not publish a detailed public service bulletin for C-71, th
 ## Before You Replace Anything
 
 Many owners replace the main control board first, but a simple visual inspection of the steam-generator wire connector and drying out moisture-exposed areas clears the code in a large share of cases.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

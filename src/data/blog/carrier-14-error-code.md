@@ -13,11 +13,8 @@ money_part: "Hot surface igniter"
 most_likely_cause: "Repeated ignition failure (code 11 escalated)"
 ---
 
-## Carrier 14 Error Code — What It Means
-
+## What this code means
 Carrier fault code 14 is an ignition lockout. After exhausting the allowed ignition attempts (typically 3–5 trials depending on the board revision), the control board locks out the ignition circuit entirely and requires a manual reset. Code 14 is downstream of code 11 — the board tried, failed repeatedly, and now refuses to try again. This is a safety interlock, not a separate component failure. The root cause is almost always the same set of ignition-related faults: bad igniter, dirty flame sensor, gas supply issue, or a failed inducer not establishing draft.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Carrier fault code 14 is an ignition lockout. After exhausting the allowed ignit
 ## When to Call a Pro
 
 If the furnace locks out again within the first heat cycle after reset, or if you suspect a cracked heat exchanger or failed gas valve, contact a licensed HVAC technician. Repeated lockouts without a clear component failure can indicate combustion or venting problems.
-
-## See Also
-
-- [Carrier Furnace E1 Error Code — Causes & Fix](/posts/carrier-furnace-error-code-e1/)
-- [Carrier 34 Error Code — Ignition Proving Failure Fix](/posts/carrier-34-error-code/)
-- [Carrier Error Code 58 — Causes & Fix](/posts/carrier-58-error-code/)
-- [Carrier Error Code 56 — IFC Fault (Induced Draft Motor)](/posts/carrier-56-error-code/)
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 21 Error Code — Gas Heating Lockout Fix](/posts/carrier-21-error-code/)

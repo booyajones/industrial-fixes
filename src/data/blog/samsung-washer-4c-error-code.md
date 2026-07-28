@@ -17,8 +17,7 @@ money_part: "Inlet hose mesh filter screens"
 part_price: "$10-40"
 ---
 
-## Samsung Washer 4C Error Code — What It Means
-
+## What this code means
 The Samsung 4C error code (sometimes displayed as 4E) means the washer has detected a water supply problem. The machine expected to fill to a certain level within a set time window, but the incoming water flow was too slow or stopped completely. When this happens the washer stops the cycle rather than continue with insufficient water.
 
 In nearly all cases the code is triggered by an actual restriction in the water supply path, not by a faulty sensor or control board. The washer's control system is doing its job by detecting that the fill did not occur as expected.
@@ -26,8 +25,6 @@ In nearly all cases the code is triggered by an actual restriction in the water 
 ## Before You Replace Anything
 
 Many people replace the water inlet valve or control board when the real cause is a clogged mesh filter at the hose connection. Before buying parts, remove both inlet hoses and visually inspect the small mesh screens for debris or mineral buildup.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

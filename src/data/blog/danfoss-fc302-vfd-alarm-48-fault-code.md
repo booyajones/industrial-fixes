@@ -13,13 +13,10 @@ money_part: "Danfoss FC 302 control card (control PCB)"
 most_likely_cause: "Defective control card"
 ---
 
-## Danfoss FC302 Alarm 48 — What It Means
-
+## What this code means
 Alarm 48 (WARNING 48, 1.8 V supply low) on a Danfoss VLT FC 302 indicates that the drive has detected the 1.8 V DC supply on the control card is outside allowable limits. This is an internal electronics problem, not a motor or load issue. Danfoss troubleshooting points directly to the control card as the primary suspect, with option card overvoltage as a secondary contributor if an option card is installed.
 
 The 1.8 V rail powers critical control-card circuitry. When it drops or becomes unstable, the drive cannot safely regulate itself and throws this warning. Field repair focuses on replacing the control card rather than component-level board repair, because the 1.8 V supply circuitry is integrated into the card assembly.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ The 1.8 V rail powers critical control-card circuitry. When it drops or becomes 
 ## When to Call a Pro
 
 Call a qualified VFD technician or contact Danfoss technical support if you are not comfortable working inside energized or recently de-energized industrial drives, if you do not have the tools to measure low-voltage DC supplies safely, or if replacing the control card does not clear Alarm 48. Control-card replacement requires proper ESD handling, parameter backup, and sometimes firmware/configuration tools. If the drive is under warranty or part of a critical process line, professional service ensures you preserve warranty coverage and minimize downtime.
-
-## See Also
-
-- [Danfoss FC302 Alarm 32 - Causes & Fix](/posts/danfoss-fc302-alarm-32-fault-code/)
-- [Danfoss FC302 Alarm 40 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-40-fault-code/)
-- [Danfoss AKC Controller Fault Codes - Complete Guide](/posts/danfoss-akc-controller-fault/)
-- [Danfoss FC302 VFD Alarm 28 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-28-fault-code/)

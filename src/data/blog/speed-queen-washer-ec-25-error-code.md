@@ -14,11 +14,8 @@ money_part: "Speed Queen card reader assembly"
 most_likely_cause: "Failed card reader assembly"
 ---
 
-## Speed Queen Washer EC:25 — What It Means
-
+## What this code means
 EC:25 on a Speed Queen washer indicates a card reader malfunction. This code appears when the machine's payment card reader assembly cannot communicate properly with the control board. The fault is tied directly to the reader hardware itself. Speed Queen's published fault code listing states that the card reader may need to be replaced when this code appears.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

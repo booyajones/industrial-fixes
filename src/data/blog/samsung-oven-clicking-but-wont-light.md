@@ -20,8 +20,6 @@ The clicking sound means your Samsung gas oven's ignition spark system is workin
 
 On gas ovens, the most common reason is a weak or failing hot surface igniter. Even if it glows orange or the spark clicks, the igniter may not be drawing enough electrical current to signal the gas valve to open. Samsung's troubleshooting guidance for gas burners confirms that when you hear sparking but see no flame, the next check is always gas supply and burner condition. If there's no spark at all, the issue shifts to power, the spark module, or electrode wiring.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Weak or failing hot surface igniter** The igniter glows or clicks but doesn't pull enough current to open the gas safety valve, so no gas flows to the burner.

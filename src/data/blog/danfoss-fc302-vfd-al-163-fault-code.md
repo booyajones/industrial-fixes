@@ -19,8 +19,7 @@ free_checks:
   - "Inspect input fuses in the distribution panel and drive fuse block for opens or blown elements"
 ---
 
-## Danfoss FC302 Alarm 16 (DC Bus Low) — What It Means
-
+## What this code means
 Alarm 16 on a Danfoss FC302 variable frequency drive indicates that the DC bus voltage inside the drive has fallen below the minimum threshold (typically around 350V for a 400V class unit or 175V for a 230V unit). The drive shuts down to protect the inverter section and connected motor from damage. This fault signals that the rectifier cannot maintain the required DC level, usually because of a problem with the incoming AC power supply or a failure in the rectifier circuit itself.
 
 Note: if you saw "AL-163" on the display, it is likely a misreading of Alarm 16 followed by another parameter code or a display artifact. Danfoss FC302 alarms are numbered 1 through 99, and Alarm 16 is the standard low DC bus voltage fault for this drive family.
@@ -28,8 +27,6 @@ Note: if you saw "AL-163" on the display, it is likely a misreading of Alarm 16 
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board or power supply when the real culprit is a failed rectifier diode or loose input terminal. Always test the rectifier diodes and measure input voltage before swapping boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a professional drive technician or industrial electrician if you are not comfortable working with high-voltage three-phase power, if the incoming mains voltage is correct but the alarm persists, or if testing reveals a failed rectifier or power board that requires replacement. VFD repairs involve lethal voltages (even after power-down, DC bus capacitors can hold a dangerous charge for minutes) and precise torque specifications for terminal connections. A qualified tech will have the correct test equipment, replacement boards, and experience to diagnose control-supply failures or intermittent faults that do not show up on basic voltage checks. If the drive is under warranty or part of a critical production line, always involve the manufacturer's service partner to avoid voiding coverage or causing downtime.
 
 **Rough cost:** A pro service call runs about $200-600.
-
-## See Also
-
-- [Danfoss FC302 AL-83 Fault - Causes & Fix](/posts/danfoss-fc302-vfd-al-83-fault-code/)
-- [Danfoss FC302 AL-146 - Causes & Fix](/posts/danfoss-fc302-vfd-al-146-fault-code/)
-- [Danfoss FC302 VFD ALARM 39 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-39-fault-code/)
-- [Danfoss FC302 AL-107 Fault Code - Causes & Fix](/posts/danfoss-fc302-vfd-al-107-fault-code/)

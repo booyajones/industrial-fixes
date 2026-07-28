@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Yaskawa A1000 AL-13 Fault — What It Means
-
+## What this code means
 The AL-13 fault (sometimes displayed as Er-13) is a **Leakage Inductance Error**. The Yaskawa A1000 drive could not complete auto-tuning of the motor's leakage inductance within the 300-second timeout window. During startup or parameter setup, the drive applies a test current to measure internal motor characteristics needed for accurate vector control. If the drive cannot obtain a stable reading in that time, it trips AL-13 and stops.
 
 This fault is not an encoder or feedback error. It happens during the electrical tuning sequence and means the drive either cannot see the motor correctly (due to wiring problems or wrong parameter values) or the motor itself has damaged windings that prevent a valid measurement.
@@ -29,8 +28,6 @@ This fault is not an encoder or feedback error. It happens during the electrical
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive when the real problem is simply a typo in parameter T1-04 or a loose motor terminal. Always verify the motor nameplate current matches T1-04 and inspect all wiring before ordering a new drive or control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -79,10 +76,3 @@ Answer these to narrow it down fast.
 Call a qualified technician or industrial electrician if you are not trained to work on variable-frequency drives or high-voltage equipment. This fault involves live three-phase power, motor winding tests, and drive parameter programming. A technician will have the tools to measure winding inductance, verify cable integrity with a megohmmeter, and safely commission the drive after repairs. Always follow lockout/tagout procedures and consult the A1000 manual before servicing the drive.
 
 **Rough cost:** A pro service call runs about $150-400 for service call and parameter correction or wiring repair; motor or drive replacement costs extra if hardware is damaged.
-
-## See Also
-
-- [Yaskawa GA800 E42 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e42-fault-code/)
-- [Yaskawa GA800 A.128 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-128-fault-code/)
-- [Yaskawa A1000 VFD AL-20 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-al-20-fault-code/)
-- [Yaskawa GA800 F035 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f035-fault-code/)

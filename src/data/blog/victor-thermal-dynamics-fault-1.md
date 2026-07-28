@@ -13,11 +13,8 @@ money_part: "Electrode"
 most_likely_cause: "Missing or loose consumables"
 ---
 
-## Thermal Dynamics Plasma Cutter Fault 1 — What It Means
-
+## What this code means
 Fault 1 on Thermal Dynamics plasma cutters (Cutmaster and PCH/M series) indicates a torch not ready condition — the machine has detected that the torch is not properly assembled, the consumables are missing or incorrect, or the torch safety interlock circuit is open. Thermal Dynamics uses a torch detection circuit to verify the consumable stack is complete before allowing the pilot arc to fire.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

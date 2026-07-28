@@ -19,8 +19,7 @@ free_checks:
   - "Inspect the door area for obstructions, misalignment, or baked-on residue blocking the latch"
 ---
 
-## Frigidaire F94 Error Code — What It Means
-
+## What this code means
 The F94 code on Frigidaire ranges and ovens signals a door lock system problem. The oven believes the door lock mechanism is not operating correctly or is not reporting the expected lock state. Frigidaire groups F94 with codes F90 through F93 under the general category of door lock issues.
 
 This fault often appears during or after a self-clean cycle when the lock motor, latch, or position switch fails to respond as expected. The oven control will not allow normal operation until the lock system reports correctly. Frigidaire's official guidance is to reset power to the unit for up to 30 seconds. If the code remains after that reset, the manufacturer directs owners to service support rather than user-level troubleshooting.
@@ -28,8 +27,6 @@ This fault often appears during or after a self-clean cycle when the lock motor,
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when F94 persists, but the door lock assembly itself is almost always the culprit. Test the lock motor, latch movement, and position switch before condemning the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

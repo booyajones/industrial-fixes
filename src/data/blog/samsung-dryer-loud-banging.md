@@ -19,8 +19,6 @@ A loud banging sound on a Samsung dryer is a mechanical noise symptom, not an er
 
 Samsung's own guidance points to leveling problems, foreign objects in the drum, loose vent connections, and unbalanced loads as the first things to check. If those are ruled out, the noise usually traces to worn drum rollers, bearings, or in some cases a cracked drum.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Unbalanced or oversized load** Heavy or unevenly distributed items cause the drum to thump and strike the cabinet during the cycle.
@@ -62,7 +60,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Samsung Dryer Be error code](/posts/samsung-dryer-be-error-code/)
 - [Samsung Dryer Be2 error code](/posts/samsung-dryer-be2-error-code/)
 - [Samsung Dryer C1 error code](/posts/samsung-dryer-c1-error-code/)
-- [Samsung Dryer C2 error code](/posts/samsung-dryer-c2-error-code/)
+- Samsung Dryer C2 error code
 - [Samsung Dryer C8 error code](/posts/samsung-dryer-c8-error-code/)
 - [Samsung Dryer C80 error code](/posts/samsung-dryer-c80-error-code/)
 

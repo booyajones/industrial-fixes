@@ -52,18 +52,3 @@ For high incoming line voltage: check with the utility or install a line reactor
 ## When to Call a Technician
 
 Braking resistor sizing requires application data (load inertia, stopping frequency, deceleration torque). An incorrectly sized resistor can overheat and become a fire risk. For high-inertia applications or lifts, consult a Yaskawa applications engineer or qualified drive integrator before specifying the braking solution.
-
-## Related Articles
-
-- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
-- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
-- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
-- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
-- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)
-
-## See Also
-
-- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)
-- [Yaskawa VFD Fault UV1 — Causes & Fix](/posts/yaskawa-vfd-fault-uv1/)
-- [Yaskawa GA800 oV Fault — DC Overvoltage Fix](/posts/yaskawa-ga800-error-ov/)
-- [Yaskawa VFD Fault OC — Overcurrent Fix](/posts/yaskawa-vfd-fault-oc-overcurrent/)

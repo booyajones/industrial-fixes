@@ -13,13 +13,10 @@ money_part: "EcoSmart inlet thermistor"
 most_likely_cause: "Failed inlet or outlet thermistor"
 ---
 
-## EcoSmart Eco 22 Error Codes — What It Means
-
+## What this code means
 The EcoSmart Eco 22 tankless electric water heater displays five main error codes. E1 indicates a fault with the inlet thermistor (incoming-water temperature sensor), E2 signals a fault with the outlet thermistor (outgoing-water temperature sensor), and E3 means both thermistors or the broader temperature-sensing circuit are affected. E4 appears when incoming water temperature exceeds 140°F, which is above the safe operating limit. E5 means the unit is seeing excessive flow rate beyond what it can heat properly.
 
 These codes stop operation to protect the heater and prevent unsafe conditions. Most faults involve either a failed sensor, incorrect wiring connection, or a plumbing condition outside the heater itself. The unit will not resume normal operation until you address the root cause and clear the fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

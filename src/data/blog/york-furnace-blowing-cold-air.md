@@ -20,8 +20,6 @@ A York furnace blowing cold air means the thermostat is calling for heat but the
 
 York furnaces use model-specific diagnostic charts printed on the furnace door, access panel, or control board. If your unit is showing a fault code (such as code 13, which some York models use for air filter blockage), you should read that chart to confirm the exact meaning for your model. Cold air during the first 30–60 seconds of a cycle is normal warm-up behavior and is not a fault.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Thermostat fan set to ON instead of AUTO** The blower runs continuously even when not heating, so room-temperature air feels cold coming from registers.
@@ -61,10 +59,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the furnace still blows cold air after you have set the thermostat correctly and replaced the filter, if you see an active fault code you cannot interpret from the chart, if you smell gas or suspect a gas-supply or gas-valve problem, or if troubleshooting the ignition sequence, flame sensor, inducer motor, or control board is beyond your comfort level. Work on gas piping, burners, igniters, and gas valves is best left to a licensed professional for safety and warranty reasons. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [York Diamond 80 Furnace Problems & Error Codes](/posts/york-diamond-80-furnace-gas-residential-problems/)
-- [York YG2C Furnace Error Codes — Flash Code Diagnostic Guide](/posts/york-yg2c-error-codes/)
-- [York 7 Flashes Error Code — Ignition Lockout Fix](/posts/york-7-flashes-error-code/)
-- [York Furnace E4 Error Code — Ignition Failure](/posts/york-furnace-error-code-e4/)

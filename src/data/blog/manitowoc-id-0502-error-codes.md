@@ -17,8 +17,6 @@ money_part: "Remote condenser fan motor"
 
 The Manitowoc ID-0502 is a remote-air-cooled (D-series) cube ice machine producing approximately 500 pounds of dice-style cube ice per day. The D-series uses a separate remote condenser unit connected by refrigerant lines, which allows the ice machine head to be installed in a kitchen or service area while the condenser is located on the roof or outside the building. The ID-0502 uses Manitowoc's Indigo NXT control system with numeric fault codes.
 
-[Jump to Fix](#fix)
-
 ## Manitowoc ID-0502 Error Code Reference
 
 | Code | Fault |
@@ -66,18 +64,3 @@ The Manitowoc ID-0502 is a remote-air-cooled (D-series) cube ice machine produci
 ## When to Call a Pro
 
 Remote-cooled ice machines require technicians familiar with long-line refrigerant systems. Line set sizing, oil return, and refrigerant charge calculation for remote systems are more complex than self-contained units. EPA 608 certification is required for all refrigerant service.
-
-## Related Articles
-
-- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
-- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
-- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
-- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
-- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)
-
-## See Also
-
-- [Manitowoc NEO Ice Machine Error Codes - What It Means and How to Fix It](/posts/manitowoc-neo-ice-machine-error-codes/)
-- [Manitowoc E54 Error Code — Water Curtain Switch Open Fix](/posts/manitowoc-e54-error-code/)
-- [Manitowoc E01 Error Code — Long Freeze Cycle Fix](/posts/manitowoc-e01-error-code/)
-- [Manitowoc E15 Error Code — High-Side Pressure Switch Open Fix](/posts/manitowoc-e15-error-code/)

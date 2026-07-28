@@ -90,18 +90,3 @@ Check refrigerant charge with gauges. Inspect evaporator coil for ice formation.
 | [Condenser fan motor](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-lennox-rooftop-unit-error-codes&tag=errorcodefixes-20) | Check RPM and HP spec |
 
 > **Pro tip:** Lennox RTU iComfort-equipped units log fault history accessible via the iComfort thermostat menu under Settings > Advanced > Diagnostics. This gives a timestamp of each fault.
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-
-## See Also
-
-- [Lennox iComfort Error Code 225 — Communication Fault Fix Guide](/posts/lennox-icomfort-error-code-225/)
-- [Lennox Error Code 412 — Limit Switch Fault Fix](/posts/lennox-error-code-412/)
-- [Lennox Error Code 434 — Outdoor Unit Communication Fault](/posts/lennox-error-code-434/)
-- [Lennox Error Code 411 — Ignition Proving Fault Fix](/posts/lennox-error-code-411/)

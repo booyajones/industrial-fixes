@@ -20,8 +20,6 @@ Short cycling means your Trane furnace is turning on and off too frequently or s
 
 This symptom causes the system to work harder and less efficiently, using more energy and putting extra wear on components. It is not a fault code but a pattern you observe during operation.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty or clogged air filter** Restricted airflow from a dirty filter causes the heat exchanger to overheat and trip the high-limit safety switch, shutting the burner down early.
@@ -64,10 +62,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a professional for any work involving gas connections, burner ignition components, flame proving, or safety switch diagnosis. If simple filter and thermostat checks do not resolve short cycling, a technician should inspect the venting system, test all safety controls, and verify proper furnace sizing. Chronic short cycling from an oversized unit requires a load calculation and possibly system redesign, not just part replacement. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Trane XR90 Furnace Problems & Error Codes](/posts/trane-xr90-furnace-gas-residential-problems/)
-- [Trane 4TCC4 Mini Split Error Codes — Causes & Fix](/posts/trane-4tcc4-error-codes/)
-- [Trane XR80 Furnace Problems & Error Codes](/posts/trane-xr80-furnace-gas-residential-problems/)
-- [Trane XR14 Heat Pump Error Codes — Fault Code Diagnostic Guide](/posts/trane-xr14-error-codes/)

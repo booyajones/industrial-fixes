@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Primary door interlock switch"
 ---
 
-## Samsung Microwave E-46 Error — What It Means
-
+## What this code means
 E-46 on a Samsung microwave is a Primary Open Error. The control system detects that the primary interlock circuit is open when it should be closed. This fault points to the door safety switch system rather than a heating problem. The primary interlock is part of the safety chain that prevents the microwave from running with the door open.
 
 Samsung's consumer guidance recommends a power reset first (unplug for 60 seconds). If the code returns after reset, the unit needs service because the primary circuit path is not closing properly. The fault usually sits in the door interlock switches, door latch hardware, wiring, or the control board input.
@@ -25,8 +24,6 @@ Samsung's consumer guidance recommends a power reset first (unplug for 60 second
 ## Before You Replace Anything
 
 Many people replace the main control board first, but testing the door interlock switches and their wiring with a multimeter while de-energized will isolate the actual fault and often save hundreds of dollars.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

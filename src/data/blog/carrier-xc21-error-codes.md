@@ -17,8 +17,6 @@ most_likely_cause: "Code 11 - Communication loss"
 
 The Carrier Infinity XC21 is a variable-capacity heat pump that communicates with the Infinity control (thermostat) via the ABCD four-wire bus. Unlike simple flash-code systems, the XC21 reports detailed fault codes through the thermostat display. Faults appear as two-digit codes on the Infinity thermostat under the diagnostics menu. The most common codes encountered in the field are covered below.
 
-[Jump to Fix](#fix)
-
 ## Most Common XC21 Fault Codes
 
 | Code | Meaning |
@@ -61,18 +59,3 @@ The Carrier Infinity XC21 is a variable-capacity heat pump that communicates wit
 ## When to Call a Pro
 
 Refrigerant diagnosis and handling on the XC21 requires EPA 608 certification. The variable-capacity compressor inverter also requires specialized knowledge — do not attempt to measure inverter output with a standard multimeter. An Infinity-trained Carrier technician can connect to the system via the thermostat diagnostics to see real-time compressor speed, pressures, and temperatures without opening the refrigerant circuit.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier 44 Error Code — Causes & Fix](/posts/carrier-44-error-code/)
-- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
-- [Carrier E22 Error Code - Causes & Fix](/posts/carrier-heat-pump-e22-error-code/)
-- [Carrier Error Code 58 — Causes & Fix](/posts/carrier-58-error-code/)

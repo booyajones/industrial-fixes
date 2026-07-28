@@ -15,15 +15,12 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 oU Fault — What It Means
-
+## What this code means
 The oU fault on a Yaskawa A1000 VFD indicates that the voltage on the internal DC bus has exceeded the drive's overvoltage protection threshold. When this happens, the drive shuts down immediately to protect the power components (capacitors and IGBTs) from damage. The DC bus voltage rises when energy flows back into the drive faster than it can be dissipated. This fault is distinct from input power issues and specifically signals an internal voltage spike within the drive's DC link circuit.
 
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board or capacitors when the real cause is simply a deceleration time (C1-04) set too short for the load inertia. Check and extend decel time first before replacing any hardware.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified drive technician or electrician if you are not comfortable working with high-voltage equipment or if basic parameter adjustments (deceleration time) do not resolve the fault. Internal repairs such as replacing DC bus capacitors, testing the chopper circuit, or diagnosing voltage detection faults require specialized tools, knowledge of VFD architecture, and adherence to electrical safety protocols. If the fault recurs after adjusting decel time and installing a line reactor, the drive may have component failure that only a trained professional should address.
 
 **Rough cost:** A pro service call runs about $150-500.
-
-## See Also
-
-- [Yaskawa GA800 E58 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e58-fault-code/)
-- [Yaskawa A1000 VFD oL3 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ol3-fault-code/)
-- [Yaskawa GA800 A.123 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-123-fault-code/)
-- [Yaskawa GA800 VFD A.113 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-113-fault-code/)

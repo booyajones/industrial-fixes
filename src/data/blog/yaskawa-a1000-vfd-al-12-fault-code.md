@@ -20,15 +20,12 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Yaskawa A1000 AL-12 Fault — What It Means
-
+## What this code means
 The AL-12 fault code does not appear in official Yaskawa A1000 documentation. You are most likely encountering Er-12 (Current Detection Error) on a Yaskawa V1000 series drive, which is often confused due to naming similarities, or you have misread a different A1000 code such as LT-2 (Overtemperature) or UV3 (Under Voltage). Er-12 means the drive has detected a missing motor phase (open circuit) or that motor current has exceeded the drive's rated limit. The drive's internal current detection circuit reports a signal error, typically because current is too low due to phase loss or because an auto-tuning attempt was made without a motor connected. If you are certain your drive is an A1000 and the display shows AL-12, consult your specific model's manual or wiring diagram, as the exact meaning may vary by firmware revision or regional version.
 
 ## Before You Replace Anything
 
 Technicians often replace the entire drive or control board without first checking motor wiring and phase resistance. Measure resistance between each motor phase (U-V, V-W, W-U) with a multimeter to confirm all phases are present and balanced before replacing any internal components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or VFD technician if you are not comfortable working with high-voltage DC bus circuits (which can remain energized even after AC power is removed), if you do not own a multimeter or know how to measure phase resistance safely, or if wiring and motor checks pass but the fault persists. A pro can safely measure DC bus voltage and ripple, reseat internal connectors, and replace control boards or gate driver assemblies without damaging other components. If your facility has explosion-proof or hazardous-location equipment, only a certified technician should open the drive enclosure.
 
 **Rough cost:** A pro service call runs about $150-400 for wiring repair or control board replacement.
-
-## See Also
-
-- [Yaskawa V1000 Complete Fault Code Guide — All Faults and Fixes](/posts/yaskawa-v1000-complete-guide/)
-- [Yaskawa A1000 CPF08 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf08-fault-code/)
-- [Yaskawa GA800 E02 Fault - Causes & Fix](/posts/yaskawa-ga800-e02-fault-code/)
-- [Yaskawa GA800 E04 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e04-fault-code/)

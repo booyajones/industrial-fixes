@@ -20,8 +20,6 @@ When a Maytag gas oven igniter is not working, the bake igniter is not heating e
 
 The igniter's job is to heat up and allow the safety valve to open. If it is broken, weak, or not powered, the oven will not light or heat properly. You may see no glow at all, a weak orange or red glow, or a slow glow that never reaches bright white-hot.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed hot-surface igniter** The igniter glows weakly, glows too slowly, or fails open and is the most common cause of this symptom.
@@ -54,18 +52,18 @@ The igniter's job is to heat up and allow the safety valve to open. If it is bro
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Maytag Oven A6 error code](/posts/maytag-oven-a6-error-code/)
-- [Maytag Oven Ab error code](/posts/maytag-oven-ab-error-code/)
-- [Maytag Oven Cal error code](/posts/maytag-oven-cal-error-code/)
-- [Maytag Oven F0 error code](/posts/maytag-oven-f0-error-code/)
+- Maytag Oven A6 error code
+- Maytag Oven Ab error code
+- Maytag Oven Cal error code
+- Maytag Oven F0 error code
 - [Maytag Oven F1 error code](/posts/maytag-oven-f1-error-code/)
-- [Maytag Oven F2 error code](/posts/maytag-oven-f2-error-code/)
-- [Maytag Oven F3 error code](/posts/maytag-oven-f3-error-code/)
-- [Maytag Oven F4 error code](/posts/maytag-oven-f4-error-code/)
-- [Maytag Oven F5 error code](/posts/maytag-oven-f5-error-code/)
-- [Maytag Oven F7 error code](/posts/maytag-oven-f7-error-code/)
-- [Maytag Oven F8 error code](/posts/maytag-oven-f8-error-code/)
-- [Maytag Oven F9 error code](/posts/maytag-oven-f9-error-code/)
+- Maytag Oven F2 error code
+- Maytag Oven F3 error code
+- Maytag Oven F4 error code
+- Maytag Oven F5 error code
+- Maytag Oven F7 error code
+- Maytag Oven F8 error code
+- Maytag Oven F9 error code
 
 ## When to Call a Pro
 

@@ -13,11 +13,8 @@ money_part: "Siemens MICROMASTER cooling fan"
 most_likely_cause: "Failed or non-running fan"
 ---
 
-## Siemens Micromaster F0030 — What It Means
-
+## What this code means
 F0030 on a Siemens MICROMASTER drive indicates the internal cooling fan has failed. The drive has detected loss of cooling fan function and trips the inverter on OFF2 to protect components from overheating. Siemens lists this fault as 'Fan has failed' with the cause 'Fan no longer working.' The drive will remain in a faulted state until the fan is replaced and the fault is reset.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,10 +44,3 @@ F0030 on a Siemens MICROMASTER drive indicates the internal cooling fan has fail
 ## When to Call a Pro
 
 Call a qualified technician or electrician if you are not comfortable working inside energized VFD enclosures, if the fan replacement does not clear the fault, or if you suspect a control board or power supply fault rather than a simple fan failure. Industrial VFDs carry high voltages and stored energy even after power is removed. A professional can safely diagnose whether the fault is due to the fan itself or a failed control circuit, and can perform the repair with proper lockout/tagout procedures and manufacturer-approved replacement parts.
-
-## See Also
-
-- [Siemens Micromaster F0023 - Causes & Fix](/posts/siemens-micromaster-vfd-f0023-fault-code/)
-- [Siemens G120 F01659 - Causes & Fix](/posts/siemens-g120-f01659-fault-code/)
-- [Siemens G120 F01033 - Causes & Fix](/posts/siemens-g120-vfd-f01033-fault-code/)
-- [Siemens SIPROTEC Protective Relay Faults: Complete Guide](/posts/siemens-siprotec-relay-faults/)

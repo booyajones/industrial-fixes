@@ -13,11 +13,8 @@ money_part: "Flame rod / ionization sensor"
 most_likely_cause: "Gas supply interruption"
 ---
 
-## Rinnai Error Code 12 — What It Means
-
+## What this code means
 Rinnai error code 12 indicates flame failure — the unit ignited but the flame was not detected within the required period, or was detected and then lost before the end of the heating call. Rinnai uses a flame rod (ionization sensor) to confirm combustion. If the rod doesn't detect adequate ionization current, the gas valve closes and the unit retries. After multiple failed attempts, it locks out with code 12. This is one of the most common Rinnai fault codes and is usually caused by gas supply issues, a fouled flame rod, or venting problems.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Rinnai error code 12 indicates flame failure — the unit ignited but the flame 
 ## When to Call a Pro
 
 Gas supply capacity testing and burner combustion analysis require a licensed gas technician. If code 12 appears only at full flow rates, the gas line may be undersized — a tech can verify with a manometer.
-
-## Related Articles
-
-- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
-- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
-- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
-- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)
-- [Rinnai Error Code 16 — Causes & Fix](/posts/rinnai-error-code-16/)
-
-## See Also
-
-- [Rinnai Error Code 65 — Water Flow Rate Fault](/posts/rinnai-error-code-65/)
-- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
-- [Rinnai Error Code 32 — Causes & Fix](/posts/rinnai-error-code-32/)
-- [Rinnai I120CN Tankless Water Heater Error Codes: Complete Guide](/posts/rinnai-i120cn-error-codes/)

@@ -19,8 +19,6 @@ Not enough hot water is a performance complaint, not a fault code. It means your
 
 The complaint breaks down into three patterns: the heater is not staying on long enough, the temperature setting or sensor behavior is wrong, or hot water use is outpacing what the tank can recover. Gas models add pilot, thermopile, and gas valve issues to the list. Electric models point to element or sensor faults. Sediment buildup and undersized tanks are common field causes but not highlighted in Bradford White's own service literature.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Thermostat or control set too low** The temperature dial is below the load demand and the heater never reaches or maintains the needed setpoint.

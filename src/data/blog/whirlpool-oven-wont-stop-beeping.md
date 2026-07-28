@@ -20,8 +20,6 @@ A Whirlpool oven that won't stop beeping is not a single fault code. It is a con
 
 Whirlpool's published guidance for this symptom is to press OFF/CANCEL to clear the display, then check whether an F-code reappears. The exact meaning depends on your model and whether the display shows a code, a lock icon, a timer, or nothing at all.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Control Lock engaged** Whirlpool says the control beeps when Control Lock is on and no keys will function until you unlock it.
@@ -55,7 +53,7 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Whirlpool Oven A6 error code](/posts/whirlpool-oven-a6-error-code/)
 - [Whirlpool Oven Ab error code](/posts/whirlpool-oven-ab-error-code/)
-- [Whirlpool Oven Cal error code](/posts/whirlpool-oven-cal-error-code/)
+- Whirlpool Oven Cal error code
 - [Whirlpool Oven F1 E0 error code](/posts/whirlpool-oven-f1-e0-error-code/)
 - [Whirlpool Oven F1 E1 error code](/posts/whirlpool-oven-f1-e1-error-code/)
 - [Whirlpool Oven F2 E0 error code](/posts/whirlpool-oven-f2-e0-error-code/)

@@ -13,13 +13,10 @@ money_part: "Danfoss FC302 control card"
 most_likely_cause: "Overloaded 24 V control circuit"
 ---
 
-## Danfoss FC302 Alarm 47 — What It Means
-
+## What this code means
 Alarm 47 on a Danfoss VLT FC302 drive indicates the internal 24 V control supply voltage has dropped out of range. This is a control power fault, not a motor or input power issue. The drive generates three internal supplies through its switch-mode power supply (SMPS), and this alarm means the 24 V rail that powers the control circuits is sagging or failing.
 
 The fault can come from external wiring that overloads the 24 V output or from a failure inside the drive's power card or control card. Danfoss directs technicians to isolate the problem by disconnecting terminal 50 wiring first. If the alarm clears, the issue is in your field wiring. If it stays, the control card or internal SMPS section has failed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ The fault can come from external wiring that overloads the 24 V output or from a
 ## When to Call a Pro
 
 Call a qualified drive technician or automation electrician if you are not trained to work safely inside energized VFD cabinets or if the alarm does not clear after removing external control wiring. Replacing control cards and power cards requires knowledge of VFD internal layouts, proper ESD handling, and sometimes firmware transfer or parameter backup. If you cannot isolate the fault using the terminal 50 disconnect test, or if you find the fault comes back intermittently, a technician with a scope and schematics can trace the 24 V supply path and identify failed components on the power card that are not field-replaceable without board-level repair.
-
-## See Also
-
-- [Danfoss FC302 VFD Alarm 38 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-38-fault-code/)
-- [Danfoss FC302 ALARM 15 - Causes & Fix](/posts/danfoss-fc302-alarm-15-fault-code/)
-- [Danfoss FC302 ALARM 33 - Causes & Fix](/posts/danfoss-fc302-alarm-33-fault-code/)
-- [Danfoss FC302 VFD ALARM 15 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-15-fault-code/)

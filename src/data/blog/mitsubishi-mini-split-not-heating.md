@@ -19,8 +19,6 @@ When a Mitsubishi mini split is not heating, the first step is to determine whet
 
 Mitsubishi units store fault codes that can be retrieved from the indoor controller display or through a fault-recall procedure. If a code is present, that code must be matched to the specific model's service documentation for accurate diagnosis. Generic troubleshooting without the exact code and model can miss the real cause.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Incorrect operating mode or setpoint** The unit is set to cooling, fan-only, dry mode, or the temperature setpoint does not call for heat.
@@ -55,26 +53,19 @@ Mitsubishi units store fault codes that can be retrieved from the indoor control
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Mitsubishi Mini Split E0 error code](/posts/mitsubishi-mini-split-e0-error-code/)
-- [Mitsubishi Mini Split E2 error code](/posts/mitsubishi-mini-split-e2-error-code/)
-- [Mitsubishi Mini Split E3 error code](/posts/mitsubishi-mini-split-e3-error-code/)
-- [Mitsubishi Mini Split E4 error code](/posts/mitsubishi-mini-split-e4-error-code/)
-- [Mitsubishi Mini Split E5 error code](/posts/mitsubishi-mini-split-e5-error-code/)
-- [Mitsubishi Mini Split E7 error code](/posts/mitsubishi-mini-split-e7-error-code/)
-- [Mitsubishi Mini Split E9 error code](/posts/mitsubishi-mini-split-e9-error-code/)
-- [Mitsubishi Mini Split Ee error code](/posts/mitsubishi-mini-split-ee-error-code/)
-- [Mitsubishi Mini Split Fb error code](/posts/mitsubishi-mini-split-fb-error-code/)
-- [Mitsubishi Mini Split P1 error code](/posts/mitsubishi-mini-split-p1-error-code/)
-- [Mitsubishi Mini Split P2 error code](/posts/mitsubishi-mini-split-p2-error-code/)
-- [Mitsubishi Mini Split P4 error code](/posts/mitsubishi-mini-split-p4-error-code/)
+- Mitsubishi Mini Split E0 error code
+- Mitsubishi Mini Split E2 error code
+- Mitsubishi Mini Split E3 error code
+- Mitsubishi Mini Split E4 error code
+- Mitsubishi Mini Split E5 error code
+- Mitsubishi Mini Split E7 error code
+- Mitsubishi Mini Split E9 error code
+- Mitsubishi Mini Split Ee error code
+- Mitsubishi Mini Split Fb error code
+- Mitsubishi Mini Split P1 error code
+- Mitsubishi Mini Split P2 error code
+- Mitsubishi Mini Split P4 error code
 
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the unit displays a fault code you cannot identify, if you find no airflow or wiring problems but heating still does not work, or if refrigerant testing and leak repair are needed. Refrigerant work requires recovery equipment, gauges, and EPA certification. Control board and sensor replacement also requires the correct part number for your specific model and proper fault-clearing procedures. A technician has access to Mitsubishi service documentation, fault-code databases, and the tools to safely diagnose and repair sealed-system and electrical faults.
-
-## See Also
-
-- [Mitsubishi Mini Split Error Codes — Complete Guide](/posts/mitsubishi-mini-split-error-codes/)
-- [Mitsubishi Mini Split Not Responding to Remote - Causes & Fix](/posts/mitsubishi-mini-split-not-responding-to-remote/)
-- [Mitsubishi Mini Split P8 Error Code — Outdoor Heat Exchanger Overtemperature Fix](/posts/mitsubishi-mini-split-p8-error/)
-- [Mitsubishi Mini Split E0 Error Code - Causes & Fix](/posts/mitsubishi-mini-split-e0-error-code/)

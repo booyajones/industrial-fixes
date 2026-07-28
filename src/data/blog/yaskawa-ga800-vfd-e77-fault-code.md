@@ -14,8 +14,7 @@ money_part: "GA800 control board (PCB assembly)"
 most_likely_cause: "Misread or non-existent code"
 ---
 
-## Yaskawa GA800 E77 Fault — What It Means
-
+## What this code means
 The E77 fault code does not appear in the manufacturer-published documentation for the Yaskawa GA800 variable frequency drive. This code may be a misread of another fault (such as Uv3 or Er-11), a display error, or specific to a different Yaskawa series. For the GA800, documented faults follow different naming formats and address issues like soft-charge answerback faults, bus communication errors, and option board problems. Always verify the exact code shown on the keypad display and cross-reference it with the GA800 technical manual and maintenance guide for your specific model and specification number.
 
 If you see a related code like Uv3 on a GA800, that indicates a soft-charge answerback fault caused by damage to the relay or contactor on the soft-charge bypass circuit. The maintenance guide directs you to re-energize the drive to see if the fault clears. Field-serviceable repairs on the GA800 are generally limited to fan and control board replacement. For unresolved or ambiguous faults, contact Yaskawa support with your drive's model number, specification number, serial number, and a description of the failure.
@@ -23,8 +22,6 @@ If you see a related code like Uv3 on a GA800, that indicates a soft-charge answ
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive when the fault is actually a soft-charge relay or control board issue. Re-energize the drive and consult the fault table in your maintenance guide before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or automation technician if the fault code cannot be verified in the GA800 manual, if the drive does not clear the fault after re-energization, or if you lack the training to safely work inside high-voltage VFD enclosures. The GA800 maintenance guide limits field service to fan and control board replacement. Any work on the power stage, DC bus, soft-charge circuit, or internal contactors requires familiarity with high-voltage DC hazards and lockout/tagout procedures. For unresolved faults or codes that do not match the official list, escalate directly to Yaskawa support with your drive's model/spec number, serial number, and fault history rather than replacing parts by trial and error.
 
 **Rough cost:** A pro service call runs about $300–900 depending on whether the fix is a control board, relay, or full drive replacement.
-
-## See Also
-
-- [Yaskawa A1000 VFD AL-29 - Causes & Fix](/posts/yaskawa-a1000-vfd-al-29-fault-code/)
-- [Yaskawa A1000 Hbb Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-hbb-fault-code/)
-- [Yaskawa A1000 CPF03 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf03-fault-code/)
-- [Yaskawa GA800 E03 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e03-fault-code/)

@@ -42,10 +42,3 @@ The Trane XR80 is a residential gas furnace that uses an LED flash pattern on th
 ## When to Call a Pro
 
 Call a qualified HVAC technician for any fault code that returns after you have replaced the filter and verified vents are clear. All gas valve work, pressure switch diagnosis, flame sensor testing, igniter replacement, and combustion analysis require proper tools and training. If the furnace locks out on a code you cannot decode from the flash pattern, or if you smell gas at any time, shut off the gas supply at the manual valve and call for service immediately. Control board faults and intermittent wiring problems need a technician with a multimeter and the correct Trane service literature for your specific XR80 submodel.
-
-## See Also
-
-- [Trane YSC Packaged Rooftop Error Codes — Fault Code Diagnostic Guide](/posts/trane-ysc-error-codes/)
-- [Trane XR14 Heat Pump Error Codes — Fault Code Diagnostic Guide](/posts/trane-xr14-error-codes/)
-- [Trane Heat Pump E14 Error Code - Causes & Fix](/posts/trane-heat-pump-e14-error-code/)
-- [Trane ComfortLink II Communicating Thermostat Fault Codes - What They Mean and How to Fix Them](/posts/trane-communicating-thermostat-fault-codes/)

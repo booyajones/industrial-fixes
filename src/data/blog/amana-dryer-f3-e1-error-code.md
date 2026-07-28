@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Dryer F3 E1 Error — What It Means
-
+## What this code means
 The F3 E1 code on an Amana dryer signals that the control board has detected an abnormal reading from the exhaust thermistor circuit. The exhaust thermistor monitors the temperature of air leaving the drum and helps the control manage cycle timing and heat output. When the circuit reads open, shorted, or otherwise out of range, the dryer throws F3 E1 and stops to protect itself.
 
 Amana's official guidance names the exhaust thermistor as the component tied to this code. The fault is typically an open circuit, short circuit, or intermittent connection in the thermistor itself, its wiring harness, or the connector at the control board. Less commonly, the control board's input circuit may fail and misread a good sensor.
@@ -26,8 +25,6 @@ Amana's official guidance names the exhaust thermistor as the component tied to 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board first when F3 E1 appears. Test the thermistor resistance and inspect the wiring harness before buying a board, since the sensor and connectors fail far more often and cost much less.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

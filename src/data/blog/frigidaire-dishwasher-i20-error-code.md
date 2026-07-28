@@ -16,8 +16,7 @@ money_part: "Dishwasher filter assembly (glass trap and screen)"
 part_price: "$15-80"
 ---
 
-## Frigidaire i20 Error Code — What It Means
-
+## What this code means
 The i20 error code on a Frigidaire dishwasher indicates the unit did not drain properly. The control board has completed or attempted a drain cycle and still detects residual water or inadequate drain performance. This is a drain system fault, not a fill or pressure issue.
 
 The code triggers when water remains in the sump at the end of a drain phase. It points to a blockage, restriction, or mechanical failure somewhere in the drain path from the sump through the pump and out the drain hose. Frigidaire's troubleshooting guidance focuses on checking the drain hose routing, filter cleanliness, garbage disposer connection, and drain pump operation.
@@ -25,8 +24,6 @@ The code triggers when water remains in the sump at the end of a drain phase. It
 ## Before You Replace Anything
 
 Many people replace the drain pump when the real problem is a clogged filter or a forgotten knockout plug in the garbage disposer. Always clear the filter and verify the disposer knockout has been removed before ordering a pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

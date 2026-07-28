@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Appliance Manager Control board"
 ---
 
-## KitchenAid Range F6 Error Code — What It Means
-
+## What this code means
 KitchenAid does not use F6 alone. The range displays F6 with a second digit or letter that tells you which control subsystem has a problem. F6 E1 and F6 E3 point to a problem with the Appliance Manager Control, the Converter Control, or the wiring between them. F6 EA means the User Interface Control is sensing an over-temperature condition or has a wiring fault. F6 E0 appears in third-party fault tables as a communication or return-line fault, typically requiring control-board replacement if it persists after a power reset.
 
 Because each subcode has a different root cause, you must read the exact characters on your display. Mis-reading even one segment can send you down the wrong repair path. All of these codes share one thing in common: they involve electronic control modules and their wiring harnesses, not bake elements or igniters.
@@ -25,8 +24,6 @@ Because each subcode has a different root cause, you must read the exact charact
 ## Before You Replace Anything
 
 Homeowners often replace the User Interface Control when the actual fault is a loose connector or a failed Appliance Manager board lower in the chassis. Always inspect every harness connection and power-cycle the range before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

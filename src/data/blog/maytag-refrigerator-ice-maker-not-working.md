@@ -19,8 +19,6 @@ When a Maytag refrigerator ice maker is not working, the manufacturer does not i
 
 The troubleshooting starts with basic checks like verifying the ice maker is turned on, performing a reset, and confirming water supply and filter installation. If those do not restore operation, the problem moves to component-level diagnosis of the ice maker module, water inlet valve, or door wiring on side-by-side models.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Ice maker switched off** The ice maker control was accidentally turned off, stopping all ice production.
@@ -54,18 +52,18 @@ The troubleshooting starts with basic checks like verifying the ice maker is tur
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Maytag Refrigerator C1 error code](/posts/maytag-refrigerator-c1-error-code/)
-- [Maytag Refrigerator C2 error code](/posts/maytag-refrigerator-c2-error-code/)
-- [Maytag Refrigerator C3 error code](/posts/maytag-refrigerator-c3-error-code/)
-- [Maytag Refrigerator C4 error code](/posts/maytag-refrigerator-c4-error-code/)
-- [Maytag Refrigerator C5 error code](/posts/maytag-refrigerator-c5-error-code/)
-- [Maytag Refrigerator C6 error code](/posts/maytag-refrigerator-c6-error-code/)
-- [Maytag Refrigerator C7 error code](/posts/maytag-refrigerator-c7-error-code/)
-- [Maytag Refrigerator De error code](/posts/maytag-refrigerator-de-error-code/)
-- [Maytag Refrigerator Dr error code](/posts/maytag-refrigerator-dr-error-code/)
-- [Maytag Refrigerator Ff error code](/posts/maytag-refrigerator-ff-error-code/)
-- [Maytag Refrigerator Po error code](/posts/maytag-refrigerator-po-error-code/)
-- [Maytag Refrigerator Sa error code](/posts/maytag-refrigerator-sa-error-code/)
+- Maytag Refrigerator C1 error code
+- Maytag Refrigerator C2 error code
+- Maytag Refrigerator C3 error code
+- Maytag Refrigerator C4 error code
+- Maytag Refrigerator C5 error code
+- Maytag Refrigerator C6 error code
+- Maytag Refrigerator C7 error code
+- Maytag Refrigerator De error code
+- Maytag Refrigerator Dr error code
+- Maytag Refrigerator Ff error code
+- Maytag Refrigerator Po error code
+- Maytag Refrigerator Sa error code
 
 ## When to Call a Pro
 

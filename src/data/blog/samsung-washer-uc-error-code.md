@@ -17,8 +17,7 @@ money_part: "Samsung washer power cord"
 part_price: "$15-40"
 ---
 
-## Samsung Washer UC Error Code — What It Means
-
+## What this code means
 The UC error code on a Samsung washer indicates a power supply or voltage-related fault. The machine detects that the incoming electrical supply is outside the expected range or experiencing instability. Samsung specifically warns that this code appears when the washer is not plugged directly into a dedicated circuit or when an extension cord is in use. The fault is usually in the electrical supply reaching the machine, not in the washer itself.
 
 If the code persists after correcting all external power issues, the problem may lie in the washer's main control board, power cord, or internal wiring harness. However, most UC errors resolve once the electrical supply is stabilized and the washer is properly connected to a dedicated outlet.
@@ -26,8 +25,6 @@ If the code persists after correcting all external power issues, the problem may
 ## Before You Replace Anything
 
 Many people replace the main control board first, but the UC code is usually caused by external electrical supply problems. Always test the outlet voltage with a multimeter and confirm the washer is on a dedicated circuit before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

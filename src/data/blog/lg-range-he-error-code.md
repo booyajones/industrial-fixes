@@ -17,8 +17,7 @@ money_part: "LG oven thermistor (temperature sensor)"
 part_price: "$20-50"
 ---
 
-## LG Range HE Error Code — What It Means
-
+## What this code means
 The HE code on an LG range indicates a thermistor error in the oven temperature sensing circuit. The control system is detecting an invalid signal from the oven thermistor, which means it cannot trust the temperature reading and will not operate the oven safely. This is not a generic heater fault but specifically a problem with the temperature sensor or its wiring.
 
 LG's official error code documentation identifies this as a thermistor-related fault and directs users to power-cycle the unit and call for service if the code returns. The control board has lost reliable communication with the oven temperature sensor, so normal heating operations are suspended until the sensor circuit is restored.
@@ -26,8 +25,6 @@ LG's official error code documentation identifies this as a thermistor-related f
 ## Before You Replace Anything
 
 Homeowners often replace the main control board when the real fault is a failed thermistor or loose connector. Always test the thermistor resistance and inspect the harness connections before replacing the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a qualified appliance technician if you are not comfortable working around 240-volt circuits or removing the range back panel to access the thermistor. Also call for service if the thermistor and all wiring test correctly but the HE code persists, because the remaining fault is likely a control board input issue that requires board-level diagnosis or LG-authorized repair. If the error appears on a dual-fuel or gas range and you smell gas or suspect a gas-line issue, shut off the gas supply and call a professional immediately.
 
 **Rough cost:** DIY runs about $20-50 for thermistor, 30-60 min. A pro service call runs about $150-250 service call and thermistor replacement.
-
-## See Also
-
-- [LG Dryer E4 Error Code - Causes & Fix](/posts/lg-dryer-e4-error-code/)
-- [LG Dishwasher Error IE — Water Inlet Fix](/posts/lg-dishwasher-error-ie/)
-- [LG Microwave LOC Error Code - Causes & Fix](/posts/lg-microwave-loc-error-code/)
-- [LG Refrigerator Error Codes — Complete Fix Guide](/posts/lg-refrigerator-error-codes/)

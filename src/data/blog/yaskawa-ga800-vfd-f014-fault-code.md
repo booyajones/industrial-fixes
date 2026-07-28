@@ -21,8 +21,7 @@ part_price: "$150-400 depending on card type"
 no_buy_pct: "40%"
 ---
 
-## Yaskawa GA800 F014 Fault — What It Means
-
+## What this code means
 The F014 fault code on a Yaskawa GA800 VFD indicates an Option Card Connection Error (CN5-A). The drive has detected a fault or loss of communication with an option card installed in the CN5-A slot. This fault is specific to the GA800 series and means the drive cannot maintain contact with the option card, which may be a communication module, Ethernet interface, or other expansion card.
 
 This is not related to output phase loss or motor wiring problems. The fault points directly to the physical or electrical interface between the drive's CN5-A connector and the installed option card. The drive will not operate until communication is restored.
@@ -30,8 +29,6 @@ This is not related to output phase loss or motor wiring problems. The fault poi
 ## Before You Replace Anything
 
 Technicians sometimes replace the option card immediately when the real problem is a loose connection or debris in the CN5-A slot. Always de-energize, remove, inspect, and firmly re-seat the card before ordering a replacement.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

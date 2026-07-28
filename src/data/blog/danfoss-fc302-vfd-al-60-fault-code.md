@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Danfoss FC302 AL-60 Fault — What It Means
-
+## What this code means
 Alarm 60 (External Interlock) means the Danfoss FC302 drive has detected that a digital input terminal programmed for the External Interlock safety function is not receiving 24 Volts DC. When this happens, the drive immediately zeros its output and coasts the motor to a stop. This is a programmable safety feature intended to stop the motor if a safety device like an emergency stop button, gate sensor, or overload relay is activated.
 
 The alarm appears because the circuit connected to the configured External Interlock terminal is open or has lost voltage. The terminal must receive 24 VDC for the drive to run. If the terminal is programmed for this function but lacks the required voltage, the drive trips and displays Alarm 60.
@@ -29,8 +28,6 @@ The alarm appears because the circuit connected to the configured External Inter
 ## Before You Replace Anything
 
 Technicians sometimes replace the control card when the alarm persists, but the actual fault is usually an open wire, blown fuse, or tripped overload relay in the 24 VDC safety loop. Always measure voltage at the terminal and trace the circuit before swapping the card.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician if you are not comfortable working with 24 VDC control circuits, interpreting parameter programming, or diagnosing internal control card faults. The technician will have the tools to measure voltage at the terminals, trace wiring, and reprogram parameters safely. If the safety circuit involves motor overload relays, emergency stops, or other industrial safety devices, a professional should verify the system meets all safety standards before returning the drive to service. Control card replacement requires proper handling of static-sensitive components and familiarity with Danfoss parameter backup and restore procedures.
 
 **Rough cost:** A pro service call runs about $150-400 depending on whether the fix is a fuse, wiring repair, or control card replacement.
-
-## See Also
-
-- [Danfoss FC302 Alarm AL 29 — Causes & Fix](/posts/danfoss-fc302-fault-al-29/)
-- [Danfoss FC301 Fault AL 14 — Ground Fault Causes & Fix](/posts/danfoss-fc301-fault-al-14/)
-- [Danfoss VFD Fault OCL — Causes & Fix](/posts/danfoss-vfd-fault-ocl/)
-- [Danfoss FC302 Alarm 74 - Causes & Fix](/posts/danfoss-fc302-vfd-al-74-fault-code/)

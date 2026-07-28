@@ -17,15 +17,12 @@ money_part: "Oven temperature sensor"
 part_price: "$20-80"
 ---
 
-## Whirlpool Range FC E2 Error — What It Means
-
+## What this code means
 FC E2 does not appear in Whirlpool's published range fault code lists. The two most common Whirlpool cooking-appliance codes that are easily misread are F3 E2 and F2 E2. F3 E2 means the control has detected a problem with the oven temperature sensor, the warming drawer sensor if your range has one, or the wiring between the sensor and the control board. F2 E2 means the keypad or user interface is not communicating with the main control, usually because of a loose or corroded ribbon cable. Before going further, double-check the exact characters on the display and write down your full model number from the tag inside the oven door or on the back. Whirlpool advises that many error codes can be cleared by cycling power off for one minute, but if the code returns the appliance has an active fault that needs repair.
 
 ## Before You Replace Anything
 
 Many people replace the electronic control board first when they see a sensor or keypad code. Before ordering a board, confirm the exact code displayed, inspect all harness connectors for corrosion or loose pins, and test the oven temperature sensor or keypad ribbon cable depending on which code you actually have.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

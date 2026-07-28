@@ -16,8 +16,7 @@ money_part: "Touch control panel assembly (membrane keypad)"
 part_price: "$40-120"
 ---
 
-## Samsung C-d2 Error Code — What It Means
-
+## What this code means
 Samsung groups C-d2 together with C-d0 and C-d1 as part of the door or key error family on microwaves. The manufacturer does not publish separate meanings for each subcode in this family. In practice, C-d2 indicates the control board is detecting a continuous door switch signal or a keypad input that will not clear. The most common underlying problems are a stuck or shorted button on the touch panel, moisture or food residue bridging contacts on the control membrane, or a door latch and interlock switch that is stuck in the closed or open position.
 
 Because Samsung does not split the three C-d codes into distinct fault classes in available documentation, technicians treat C-d2 using the same diagnostic path as the rest of the door/key error group. That path focuses on the keypad, the door mechanism, and the interlock switch assembly. A transient fault can sometimes be cleared by a full power reset, but a persistent C-d2 usually points to a physical problem with one of those three components.
@@ -25,8 +24,6 @@ Because Samsung does not split the three C-d codes into distinct fault classes i
 ## Before You Replace Anything
 
 Many people replace the main control board when C-d2 appears, but a stuck button or a door switch that has shifted out of alignment is far more common. Clean and dry the control panel thoroughly and verify the door closes completely before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

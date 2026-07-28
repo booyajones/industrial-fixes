@@ -13,11 +13,8 @@ money_part: "iComfort S30/E30 thermostat"
 most_likely_cause: "Loose or corroded communication wire connection"
 ---
 
-## Lennox Error Code 540 — What It Means
-
+## What this code means
 Lennox code 540 is a **communicating system communication fault** — the control board has lost contact with one or more communicating components on the iComfort or Lennox Communicating System (LCS) network. Communicating systems use a proprietary 2-wire data bus to link the furnace control board, air handler, outdoor unit, thermostat, and accessories. When any device stops responding on that bus, the board logs a 540 fault and may limit or shut down operation.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Lennox code 540 is a **communicating system communication fault** — the contro
 ## When to Call a Pro
 
 If all wiring checks out and a power-cycle doesn't restore communication, the issue may be a failed furnace control board or outdoor unit interface board. These components require model-specific diagnostics and programming — contact a Lennox dealer with iComfort-certified technicians.
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-
-## See Also
-
-- [Lennox Error Code 414 Rollout — Causes & Fix](/posts/lennox-error-code-414-rollout/)
-- [Lennox Error Code 224 — HSI Relay Failure Fix](/posts/lennox-error-code-224/)
-- [Lennox Harmony III Zoning System Error Codes — Complete Guide](/posts/lennox-harmony-iii-error-codes/)
-- [Lennox Error Code 270 — Flame Signal Lost Fix](/posts/lennox-error-code-270/)

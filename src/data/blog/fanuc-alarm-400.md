@@ -13,11 +13,8 @@ money_part: "Servo amplifier cooling fan"
 most_likely_cause: "Excessive servo load from mechanical binding"
 ---
 
-## Fanuc Alarm 400 — What It Means
-
+## What this code means
 Fanuc alarm 400 (SV0400: SERVO OVERLOAD: X AXIS) is a servo amplifier overload alarm for the X axis. The servo amplifier's thermal protection has tripped, meaning the amplifier was required to supply sustained high current — above its thermal rating — and the internal temperature limit was reached. On Fanuc Alpha and Beta series servo amplifiers, alarm 400 can also appear on other axis numbers (401=Z, 402=Y, etc. depending on axis assignment). This fault requires the underlying reason for high servo current to be identified and corrected, and the amplifier must be allowed to cool before reset.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Fanuc alarm 400 (SV0400: SERVO OVERLOAD: X AXIS) is a servo amplifier overload a
 ## When to Call a Pro
 
 Servo parameter adjustment on Fanuc systems requires access to parameter write mode and machine builder knowledge of the correct baseline values. Incorrect parameters can cause axis instability or crash the machine. A Fanuc-authorized service engineer should perform servo tuning if parameters are suspect.
-
-## Related Articles
-
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
-- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
-- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
-
-## See Also
-
-- [Fanuc Alarm 436 — Causes & Fix](/posts/fanuc-alarm-436/)
-- [Fanuc Alarm 5 — Stored Stroke Limit 2 Overtravel](/posts/fanuc-alarm-5-overtravel/)
-- [Fanuc Alarm 430 — Servo Motor Overheat Fix](/posts/fanuc-alarm-430/)
-- [Fanuc Alarm 401 — Servo Axis Overload Fix](/posts/fanuc-alarm-401/)

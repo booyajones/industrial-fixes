@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Kenmore Microwave E1 Error Code — What It Means
-
+## What this code means
 The E1 code on a Kenmore microwave is listed in the Kenmore microwave code chart as a thermistor error. The thermistor is a temperature sensor that monitors cavity or component temperatures during operation. Because Kenmore is a private-label brand sold by Sears, the exact fault definition and diagnostic path can vary depending on which OEM manufacturer actually built your specific model. The first step in any repair is to identify the manufacturer from your full model number, since the same code can behave differently across model families.
 
 When the control board detects an abnormal reading from the thermistor circuit (either out of range, open, or shorted), it throws the E1 code and typically halts microwave operation to prevent overheating or unsafe conditions. The fault may appear at power-up or partway through a cooking cycle.
@@ -26,8 +25,6 @@ When the control board detects an abnormal reading from the thermistor circuit (
 ## Before You Replace Anything
 
 Many people replace the control board first, but a simple resistance check of the thermistor with a multimeter will identify a failed sensor for a fraction of the cost.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

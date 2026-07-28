@@ -17,8 +17,7 @@ money_part: "KitchenAid refrigerator thermistor"
 part_price: "$15-50"
 ---
 
-## KitchenAid Refrigerator E4 Error — What It Means
-
+## What this code means
 On some KitchenAid refrigerator platforms, the E4 error code indicates a thermistor-related fault. The control board is seeing an abnormal temperature-sensor signal or detecting an open or shorted sensor circuit. KitchenAid does not use E4 universally across all refrigerator models, and some platforms use different formatted codes such as F3 E4 for sensor faults. The exact meaning of E4 can vary by model platform.
 
 Because the code definition varies, always verify your exact model number and check your owner's manual or the wiring diagram inside the refrigerator to confirm the fault definition. If your model does use E4 for a thermistor fault, the control cannot read accurate refrigerator compartment temperature, which may affect cooling performance or prevent the compressor from cycling properly.
@@ -26,8 +25,6 @@ Because the code definition varies, always verify your exact model number and ch
 ## Before You Replace Anything
 
 Many people replace the main control board first, assuming the electronics failed. Before ordering a new board, test the thermistor resistance and inspect all wiring and connectors. Most E4 faults are caused by a bad sensor or loose connection, not a failed control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -151,18 +151,3 @@ The cabinet may be warm near the top or in dead-air zones even if it feels cold 
 **Q: Can I replace the ETC-200 controller with a universal temperature controller?**
 
 You can, but it's not recommended for a commercial unit that needs to meet health code. The ETC-200 is configured for True's specific sensor types and defrost parameters. A universal controller requires reconfiguration and may not support the same alarm features. If cost is a concern, an OEM ETC-200 replacement from True's parts suppliers runs $80–$150 — comparable to a quality universal controller but plug-and-play.
-
-## Related Articles
-
-- [True Refrigeration E1 Error Code — Causes & Fix](/posts/true-refrigeration-e1-error-code/)
-- [True Refrigeration E2 Error Code — Causes & Fix](/posts/true-refrigeration-e2-error-code/)
-- [True Refrigeration E3 Error Code — Causes & Fix](/posts/true-refrigeration-e3-error-code/)
-- [True Refrigeration E4 Error Code — Causes & Fix](/posts/true-refrigeration-e4-error-code/)
-- [True Refrigeration E5 Error Code — Defrost Sensor Causes & Fix](/posts/true-refrigeration-e5-error-code/)
-
-## See Also
-
-- [True Refrigeration T-Series Error Codes — Complete Fix Guide](/posts/true-refrigeration-t-series-error-codes/)
-- [True T-23 Refrigerator Error Codes — Fault Code Diagnostic Guide](/posts/true-t-23-error-codes/)
-- [True T-72 Refrigerator Error Codes - Full Fault Guide](/posts/true-t-72-error-codes/)
-- [True Refrigerator Error Code E2 / P2: Evaporator Probe Failure Causes and Fix](/posts/true-refrigeration-e2-p2-error/)

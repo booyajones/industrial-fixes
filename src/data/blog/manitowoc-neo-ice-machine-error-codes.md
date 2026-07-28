@@ -125,18 +125,3 @@ A: This is a classic ambient temperature problem. In summer, the surrounding air
 **Q: How many error codes can the Manitowoc NEO store in its history?**
 
 A: The NEO controller stores the last 10 fault events with timestamps. Access the history by holding the INFO button for 3 seconds and then pressing INFO repeatedly to scroll through events. This is invaluable for diagnosing intermittent faults — if the machine shows E04 three times between 3–4 AM when the bar is closed, you know the water supply has an overnight pressure issue.
-
-## Related Articles
-
-- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
-- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
-- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
-- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
-- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)
-
-## See Also
-
-- [Manitowoc E15 Error Code — High-Side Pressure Switch Open Fix](/posts/manitowoc-e15-error-code/)
-- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
-- [Manitowoc HPCO Error Code — High Pressure Cut Out Fix](/posts/manitowoc-hpco-error-code/)
-- [Manitowoc E03 Error Code — Probe / Thermistor Open Fix](/posts/manitowoc-e03-error-code/)

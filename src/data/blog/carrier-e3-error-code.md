@@ -23,8 +23,6 @@ E3 appears on Carrier inverter-driven mini-splits and variable-speed central air
 
 Carrier E3 is heavily searched because the IPM board is an expensive part ($200–$400 or more), and homeowners understandably want to know whether the fault is truly a failed board or something else entirely before ordering one.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
 - **Failed IPM board.** The most common cause of a persistent E3 is a burnt, shorted, or thermally damaged IPM module. These boards contain power transistors that can fail from aging, surges, or inadequate cooling.
@@ -79,10 +77,3 @@ Call a licensed HVAC technician for anything beyond cleaning the condenser or ch
 - [Carrier Error Code 33: Limit Device Open Fault](/posts/carrier-error-code-33/)
 - [Carrier Error Code 31: Pressure Switch Stuck Open](/posts/carrier-error-code-31/)
 - [Carrier Complete Mini-Split Error Code Guide](/posts/carrier-mini-split-error-codes/)
-
-## See Also
-
-- [Carrier 25 Error Code — Causes & Fix](/posts/carrier-25-error-code/)
-- [Carrier 32 Error Code — Causes & Fix](/posts/carrier-32-error-code/)
-- [Carrier Infinity System Communication Error Codes — Complete Guide](/posts/carrier-infinity-system-error-codes/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)

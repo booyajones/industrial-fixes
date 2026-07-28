@@ -13,11 +13,8 @@ money_part: "Bosch flue gas temperature sensor"
 most_likely_cause: "Disconnected or loose sensor wiring"
 ---
 
-## Bosch E3 Error Code — What It Means
-
+## What this code means
 On Bosch Greentherm tankless water heaters, the E3 (or A3) error indicates the flue gas temperature sensor is disconnected, damaged, or that flue gas temperature has exceeded the trip threshold for too long. The unit will report this fault when flue gases rise above 145°F for two minutes or when the sensor circuit is open. The code protects the heater by shutting down operation until the condition is corrected.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

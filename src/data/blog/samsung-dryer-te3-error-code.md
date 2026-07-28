@@ -17,8 +17,7 @@ money_part: "Samsung dryer thermistor (temperature sensor)"
 part_price: "$15-50"
 ---
 
-## Samsung Dryer tE3 Error Code — What It Means
-
+## What this code means
 Samsung groups the tE3 code under its family of temperature errors, which includes tS, t5, tC, tO, t0, tE, tE3, tC5, tCS, 1tC, 1tC5, and 1tCS. All of these codes indicate that the dryer is detecting a problem with temperature sensing or temperature control during operation. In practical terms, tE3 means the machine is having trouble sensing temperature correctly, which can be caused either by restricted airflow leading to overheating or by a failed component in the temperature sensor circuit.
 
 This is not a single-part failure message. Samsung specifically ties these temperature errors to clogged lint screens and vent systems as the primary cause. The code can also appear when a thermistor (temperature sensor), high-limit thermostat, or related wiring has failed. Control board problems are possible but less common. The key point is that airflow restriction is the most frequent real-world cause, so always verify venting first before replacing any internal components.
@@ -26,8 +25,6 @@ This is not a single-part failure message. Samsung specifically ties these tempe
 ## Before You Replace Anything
 
 Many people replace the control board first. Always clean the entire vent system and test the thermistor with a multimeter before ordering any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Thermal sensor (microwave oven)"
 ---
 
-## Whirlpool Microwave E21 Error — What It Means
-
+## What this code means
 The E21 error code on a Whirlpool over-the-range microwave indicates that the control board is not detecting a valid thermal sensor circuit. Specifically, it is reading an open circuit condition, meaning the electrical path from the thermal sensor to the appliance control board is broken or interrupted.
 
 Whirlpool identifies three potential fault areas: the thermal sensor itself, the appliance control board, or the wiring and connectors that link them. The control board continuously monitors the thermal sensor to prevent overheating, and when it cannot read the sensor at all, it throws E21 and typically shuts down operation to protect the unit.
@@ -25,8 +24,6 @@ Whirlpool identifies three potential fault areas: the thermal sensor itself, the
 ## Before You Replace Anything
 
 Many people replace the appliance control board first because it is expensive and visible. Before doing that, test the thermal sensor for continuity and inspect every connector and wire in the circuit, which costs nothing and identifies the real fault in most cases.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

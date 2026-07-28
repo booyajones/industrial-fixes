@@ -19,8 +19,6 @@ A loud banging in an Amana dryer is not a fault code displayed on the control pa
 
 The banging usually comes from loose items tumbling with the load, the dryer sitting unlevel, or worn drum-support components such as rollers, glides, bearings, belt hardware, or the blower wheel. Amana service guidance and repair references consistently identify these mechanical wear points as the source of impact noise during tumbling.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Loose objects in the drum** Coins, paper clips, belt buckles, pins, or buttons can knock against the drum as it tumbles, creating a rhythmic banging sound.
@@ -61,9 +59,9 @@ If your appliance also shows a code on the display, these match this problem:
 - [Amana Dryer F02 error code](/posts/amana-dryer-f02-error-code/)
 - [Amana Dryer F1 E1 error code](/posts/amana-dryer-f1-e1-error-code/)
 - [Amana Dryer F1 E4 error code](/posts/amana-dryer-f1-e4-error-code/)
-- [Amana Dryer F1E3 error code](/posts/amana-dryer-f1e3-error-code/)
-- [Amana Dryer F1E5 error code](/posts/amana-dryer-f1e5-error-code/)
-- [Amana Dryer F20 error code](/posts/amana-dryer-f20-error-code/)
+- Amana Dryer F1E3 error code
+- Amana Dryer F1E5 error code
+- Amana Dryer F20 error code
 - [Amana Dryer F22 error code](/posts/amana-dryer-f22-error-code/)
 - [Amana Dryer F23 error code](/posts/amana-dryer-f23-error-code/)
 - [Amana Dryer F24 error code](/posts/amana-dryer-f24-error-code/)

@@ -19,8 +19,7 @@ free_checks:
 part_price: "$30–$60"
 ---
 
-## State Tankless E32 Error — What It Means
-
+## What this code means
 The E32 error code on a State tankless water heater indicates an outgoing water temperature sensor fault. The control board is not receiving a valid temperature signal from the outlet-side thermistor, the sensor that monitors the temperature of water leaving the unit. This fault prevents the heater from accurately controlling output temperature and will typically shut down the unit or prevent it from firing.
 
 The error is caused by a problem with the sensor itself, its wiring harness, the connector, or heavy scale and mineral buildup on the sensor probe that blocks accurate temperature readings. It is not an ignition or gas-valve problem. The controller expects a specific resistance value from the thermistor that corresponds to water temperature, and when that value is out of range, open, shorted, or erratic, the E32 code is triggered.
@@ -28,8 +27,6 @@ The error is caused by a problem with the sensor itself, its wiring harness, the
 ## Before You Replace Anything
 
 Some technicians replace the control board first, thinking the error is a controller problem. Always measure the sensor resistance and inspect the harness and connector before replacing the board, because a failed or dirty sensor is far more common and much cheaper.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

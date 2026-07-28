@@ -22,8 +22,7 @@ part_price: "$30–50"
 no_buy_pct: "70%"
 ---
 
-## Samsung Washer nF1 Error Code — What It Means
-
+## What this code means
 On Samsung washers, nF or nF1 signals a no-fill or fill fault. The machine is not getting enough water, or it is not detecting proper water entry during the fill portion of the cycle. The nF1 variant specifically often points to a hot/cold hookup problem where the washer detects the wrong water temperature at the inlet, typically because the hot and cold supply hoses have been reversed at the machine or at the wall.
 
 The code may also appear when supply valves are closed, hoses are kinked or pinched, inlet screens are clogged with sediment, household water pressure is too low, or the water inlet valve itself has failed. In some cases the drain hose is installed too deeply in the standpipe and creates a siphon that prevents the washer from sensing a proper fill level.
@@ -31,8 +30,6 @@ The code may also appear when supply valves are closed, hoses are kinked or pinc
 ## Before You Replace Anything
 
 Many people replace the water inlet valve assembly when the real problem is simply reversed hot/cold hoses or clogged inlet screens. Always verify correct hose routing, clean the inlet mesh filters, and check that both supply valves are fully open before ordering a new valve.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

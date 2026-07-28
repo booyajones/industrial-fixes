@@ -16,8 +16,6 @@ tags:
 
 This is the master lookup page for ErrorCodeFixes. If you landed here with a code on a screen, blinking LED, or controller alarm and you do not yet know the exact subsystem, start with the broad category below, then jump to the model-specific guide. The fastest diagnosis comes from identifying the equipment class first, not guessing at parts.
 
-[Jump to Fix](#fix)
-
 ## Equipment Categories Covered
 
 | [Category](https://www.amazon.com/s?ascsubtag=ecf-industrial-error-code-database&k=Category&tag=errorcodefixes-20) | Typical Equipment |

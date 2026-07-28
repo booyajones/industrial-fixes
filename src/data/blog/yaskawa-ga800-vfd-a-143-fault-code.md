@@ -14,8 +14,7 @@ most_likely_cause: "Misread or misrecorded fault code"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa GA800 A.143 Fault — What It Means
-
+## What this code means
 A.143 does not appear in Yaskawa GA800 documentation as a standard alarm code. GA800 drives typically display alphanumeric fault names such as oC, ov, GF, or CPFxx rather than decimal-style codes like A.143. This means the code may be misread from the keypad display, or it may belong to a different Yaskawa series or a parameter/monitoring screen rather than the fault list.
 
 Before attempting any repair, confirm the exact text shown on the keypad, including all letters and punctuation. Pull the fault history from the drive's monitor or history menu and compare the alarm name to the GA800 manual specific to your drive model. If the code is actually a control-circuit or overvoltage fault with a similar appearance, follow the applicable Yaskawa diagnostic path for wiring, parameter checks, and power cycling before replacing any hardware.
@@ -23,8 +22,6 @@ Before attempting any repair, confirm the exact text shown on the keypad, includ
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board or entire drive without first verifying the exact alarm code and checking wiring, motor cable length, and deceleration parameters. Always pull the fault history and compare the displayed code to your GA800 manual before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a qualified technician or contact Yaskawa technical support if you cannot verify the displayed code in your GA800 manual, if the fault history menu is inaccessible, or if the code reappears after wiring inspection and power cycling. VFD troubleshooting requires familiarity with motor control parameters, AC drive wiring standards, and manufacturer-specific alarm definitions. A technician with Yaskawa experience can pull diagnostic data, compare the code to the correct manual for your firmware revision, and replace the control board or drive only after confirming the fault through proper testing.
 
 **Rough cost:** A pro service call runs about $200-800.
-
-## See Also
-
-- [Yaskawa GA800 E09 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e09-fault-code/)
-- [Yaskawa GA800 E53 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e53-fault-code/)
-- [Yaskawa A1000 oP Fault Code - Causes & Fix](/posts/yaskawa-a1000-vfd-op-fault-code/)
-- [Yaskawa GA800 E67 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e67-fault-code/)

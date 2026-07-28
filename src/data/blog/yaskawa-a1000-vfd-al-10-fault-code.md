@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "95%"
 ---
 
-## Yaskawa A1000 AL-10 Fault — What It Means
-
+## What this code means
 The code AL-10 does not exist in official Yaskawa A1000 documentation. You are probably seeing the ALM indicator (which simply means a fault is active) alongside a specific fault code, or you may be looking at oPE10, the only A1000 fault ending in 10. The oPE10 code means V/f Data Setting Error: one or more parameters that define the motor's voltage-to-frequency curve are set incorrectly or conflict with each other, so the drive cannot start the motor in V/f control mode.
 
 Common conflicts include setting the Base Frequency higher than the Max Frequency, entering a Max Voltage that does not match the motor nameplate, or switching the motor control method to a mode that does not support the configured V/f pattern. If you see a different number after ALM, consult your A1000 manual to identify the exact fault.
@@ -29,8 +28,6 @@ Common conflicts include setting the Base Frequency higher than the Max Frequenc
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board or main PCB when oPE10 appears, but this is a configuration error, not a hardware failure. Always review and correct parameters E1-04, E1-06, E1-07, E1-09, and E1-11 before ordering any circuit board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or drives technician if you are unfamiliar with VFD parameter programming, if the drive is part of a critical process control system, or if clearing the parameter conflicts does not resolve oPE10 after multiple attempts. A professional can perform a full parameter audit, back up your configuration, and check for firmware corruption or main-board memory faults. Also call a pro if the drive displays a different fault code (not oPE10) or if you need to integrate the A1000 with a PLC or SCADA system that requires specialized communication setup.
 
 **Rough cost:** A pro service call runs about $150–$350 for a service call to reprogram parameters.
-
-## See Also
-
-- [Yaskawa GA800 E75 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e75-fault-code/)
-- [Yaskawa VFD Fault OV — DC Bus Overvoltage Fix](/posts/yaskawa-vfd-fault-ov/)
-- [Yaskawa A1000 CPF06 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf06-fault-code/)
-- [Yaskawa GA800 A.125 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-125-fault-code/)

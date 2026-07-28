@@ -13,13 +13,10 @@ money_part: "RS485 communication cable"
 most_likely_cause: "Loss of USS master signal"
 ---
 
-## Siemens Micromaster F0072 — What It Means
-
+## What this code means
 F0072 on a Siemens Micromaster drive indicates that the drive expected cyclic setpoint telegrams over the USS communication link on RS485 but the telegram timeout expired without receiving valid data. The drive is configured to accept speed or control commands from an external controller over the RS485 network, and when that data stops arriving within the programmed off-time window, the drive trips to OFF2 and logs this fault.
 
 This is a communications-setpoint fault, not a motor or power problem. The drive itself is waiting for instructions from an upstream master controller or PLC, and the absence of those instructions triggers the protective shutdown. The fault tells you the communication chain between the master and the drive has broken down.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ This is a communications-setpoint fault, not a motor or power problem. The drive
 ## When to Call a Pro
 
 Call a qualified technician or controls integrator if you do not have experience with RS485 networks, USS protocol configuration, or PLC programming. This fault sits at the intersection of drive hardware and network communication, so diagnosis requires familiarity with both domains. If you have verified the wiring and the master controller is confirmed transmitting but the drive still will not accept setpoints, the problem may involve parameter conflicts, baud rate mismatches, or internal drive failures that need diagnostic tools and Siemens-specific training to resolve safely.
-
-## See Also
-
-- [Siemens Micromaster F0005 - Causes & Fix](/posts/siemens-micromaster-vfd-f0005-fault-code/)
-- [Siemens Micromaster F0052 - Causes & Fix](/posts/siemens-micromaster-vfd-f0052-fault-code/)
-- [Siemens Micromaster F0070 - Causes & Fix](/posts/siemens-micromaster-f0070-fault-code/)
-- [Siemens Micromaster F0015 - Causes & Fix](/posts/siemens-micromaster-vfd-f0015-fault-code/)

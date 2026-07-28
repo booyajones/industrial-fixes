@@ -19,8 +19,6 @@ When a GE refrigerator stops cooling, you may see the FF code on the display, wh
 
 Many no-cooling problems come down to blocked airflow or failed motors. The condenser coils reject heat to the room, the condenser fan cools those coils, the evaporator fan moves cold air from the freezer into the fresh-food section, and the defrost system melts frost so air can keep flowing. When any of these stops working, temperatures climb.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty condenser coils** Dust and debris on the coils at the back or underneath block heat rejection and cause the entire refrigerator to warm up.
@@ -55,18 +53,18 @@ Many no-cooling problems come down to blocked airflow or failed motors. The cond
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Ge Refrigerator Cc error code](/posts/ge-refrigerator-cc-error-code/)
-- [Ge Refrigerator Cf error code](/posts/ge-refrigerator-cf-error-code/)
-- [Ge Refrigerator Ci error code](/posts/ge-refrigerator-ci-error-code/)
-- [Ge Refrigerator De error code](/posts/ge-refrigerator-de-error-code/)
-- [Ge Refrigerator Df error code](/posts/ge-refrigerator-df-error-code/)
-- [Ge Refrigerator Ds error code](/posts/ge-refrigerator-ds-error-code/)
-- [Ge Refrigerator Ff error code](/posts/ge-refrigerator-ff-error-code/)
-- [Ge Refrigerator H2O error code](/posts/ge-refrigerator-h2o-error-code/)
-- [Ge Refrigerator Hs error code](/posts/ge-refrigerator-hs-error-code/)
-- [Ge Refrigerator Pf error code](/posts/ge-refrigerator-pf-error-code/)
-- [Ge Refrigerator Tc error code](/posts/ge-refrigerator-tc-error-code/)
-- [Ge Refrigerator Tf error code](/posts/ge-refrigerator-tf-error-code/)
+- Ge Refrigerator Cc error code
+- Ge Refrigerator Cf error code
+- Ge Refrigerator Ci error code
+- Ge Refrigerator De error code
+- Ge Refrigerator Df error code
+- Ge Refrigerator Ds error code
+- Ge Refrigerator Ff error code
+- Ge Refrigerator H2O error code
+- Ge Refrigerator Hs error code
+- Ge Refrigerator Pf error code
+- Ge Refrigerator Tc error code
+- Ge Refrigerator Tf error code
 
 ## When to Call a Pro
 

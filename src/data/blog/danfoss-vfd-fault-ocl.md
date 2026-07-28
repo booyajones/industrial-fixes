@@ -13,11 +13,8 @@ money_part: "Motor (oversized replacement)"
 most_likely_cause: "Mechanical overload"
 ---
 
-## Danfoss VFD Fault OCL — What It Means
-
+## What this code means
 Danfoss fault OCL (Overcurrent Limit) means the drive's output current reached the current limit threshold and the drive reduced output frequency to limit current. Unlike a hard OC trip that shuts the drive down immediately, OCL is a current-limiting intervention where the drive actively throttles output to stay within the current limit. On Danfoss FC301, FC302, and VLT series drives, OCL appears as a warning (not always a full trip) indicating the motor is consistently running at or near its current limit. If the condition is sustained, the drive may eventually trip on TRIP (motor thermal) or OC depending on configuration.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Danfoss fault OCL (Overcurrent Limit) means the drive's output current reached t
 ## When to Call a Pro
 
 If OCL persists after correct motor data entry and appropriate ramp times, the application may require a detailed load analysis and a properly matched motor/drive combination — a job for a drives application engineer.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-
-## See Also
-
-- [Danfoss FC-302 Alarm 13 — DC Link Overvoltage Fix](/posts/danfoss-fc302-alarm-13/)
-- [Danfoss VLT Alarm 14 - Earth Fault: What It Means and How to Fix It](/posts/danfoss-vlt-alarm-14/)
-- [Danfoss RX Controller Fault Codes — Troubleshooting Guide](/posts/danfoss-rx-controller-fault/)
-- [Danfoss FC-302 Alarm 12 — Overcurrent Fix](/posts/danfoss-fc302-alarm-12/)

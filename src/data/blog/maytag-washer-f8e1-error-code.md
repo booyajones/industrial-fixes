@@ -22,8 +22,7 @@ part_price: "$30-70"
 no_buy_pct: "70%"
 ---
 
-## Maytag Washer F8E1 Error Code — What It Means
-
+## What this code means
 The F8E1 code (or LO FL on some front-load models) means your Maytag washer is not detecting the correct amount of incoming water. The control board expects the water level to rise normally during the fill cycle, but it does not see the expected increase. On some top-load models, the door or lid may remain locked while the machine handles the error or runs a brief drain routine.
 
 This is a fill problem. The machine is either getting no water or only a slow trickle. The code does not mean a drain issue or a pump fault. It is telling you the washer cannot complete its fill within the expected time.
@@ -31,8 +30,6 @@ This is a fill problem. The machine is either getting no water or only a slow tr
 ## Before You Replace Anything
 
 Many people replace the water inlet valve first, but most F8E1 codes are caused by closed supply valves, kinked hoses, or clogged screens at the valve inlet. Check water supply and clean the screens before buying a valve.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

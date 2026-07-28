@@ -19,8 +19,6 @@ When your Frigidaire refrigerator is freezing food in the fresh-food compartment
 
 The most common cause is the air damper that controls how much freezer air flows into the fresh-food section. Frigidaire guidance specifically points to freezer air entering through the damper as a first-line cause of crisper freezing. Blocked vents from overpacked shelves, incorrect temperature settings, low crisper humidity, faulty thermistors, and door gasket leaks can all contribute to the same symptom.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Damper allowing too much freezer air into the fresh-food section** Frigidaire notes that freezer air moving through the damper can freeze crisper contents, and a stuck-open or failed damper is the most common mechanical cause of this symptom.
@@ -54,13 +52,13 @@ The most common cause is the air damper that controls how much freezer air flows
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Frigidaire Refrigerator Al 29 error code](/posts/frigidaire-refrigerator-al-29-error-code/)
+- Frigidaire Refrigerator Al 29 error code
 - [Frigidaire Refrigerator Df error code](/posts/frigidaire-refrigerator-df-error-code/)
 - [Frigidaire Refrigerator E11 error code](/posts/frigidaire-refrigerator-e11-error-code/)
 - [Frigidaire Refrigerator E15 error code](/posts/frigidaire-refrigerator-e15-error-code/)
 - [Frigidaire Refrigerator Er Ce error code](/posts/frigidaire-refrigerator-er-ce-error-code/)
 - [Frigidaire Refrigerator Er error code](/posts/frigidaire-refrigerator-er-error-code/)
-- [Frigidaire Refrigerator F0001 error code](/posts/frigidaire-refrigerator-f0001-error-code/)
+- Frigidaire Refrigerator F0001 error code
 - [Frigidaire Refrigerator H1 error code](/posts/frigidaire-refrigerator-h1-error-code/)
 - [Frigidaire Refrigerator Hi error code](/posts/frigidaire-refrigerator-hi-error-code/)
 - [Frigidaire Refrigerator Op error code](/posts/frigidaire-refrigerator-op-error-code/)

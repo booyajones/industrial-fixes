@@ -20,8 +20,7 @@ free_checks:
   - "Check that all electrical connections at the outdoor disconnect and inside the unit are tight and not corroded."
 ---
 
-## Bosch xL8 Error Code — What It Means
-
+## What this code means
 The xL8 code on a Bosch heat pump signals a protection fault: the outdoor inverter detected the compressor frequency varying by more than 15 Hz within a single second. This is not a sensor failure. The control board is seeing the compressor speed change too rapidly and shuts down or limits operation to protect the compressor and inverter from damage.
 
 Because Bosch's published code table does not list specific sub-causes for xL8 beyond the frequency-variation description, the fault points to instability somewhere in the inverter-compressor control loop. Common contributors include fluctuating or out-of-spec supply voltage, erratic control signals from a failing board, refrigerant or airflow conditions that force rapid load changes, or a compressor that cannot hold stable speed. Any of these can cause the controller to hunt and trip xL8 protection.
@@ -29,8 +28,6 @@ Because Bosch's published code table does not list specific sub-causes for xL8 b
 ## Before You Replace Anything
 
 Many techs replace the compressor when xL8 appears, assuming a mechanical fault. First verify incoming voltage is between 180–253 VAC and check all outdoor-unit wiring and connectors. A loose harness or bad control board causes xL8 far more often than a failed compressor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

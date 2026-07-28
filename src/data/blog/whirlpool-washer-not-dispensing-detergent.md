@@ -19,8 +19,6 @@ When a Whirlpool washer does not dispense detergent, it means detergent stays in
 
 Whirlpool does not assign a single numeric fault code to this symptom because the root cause depends on the dispenser type and model. Front-load machines use a removable drawer and siphon system, while top-load bulk dispensers rely on sensors, float assemblies, and automated pumps. Both types share common failure modes like clogging and leveling problems, but the diagnostic path and parts differ.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged dispenser from detergent residue or fabric softener buildup** Hardened detergent blocks the siphon tubes on front-load drawers or clogs the pump inlet on top-load bulk systems, preventing any product from flowing into the tub.

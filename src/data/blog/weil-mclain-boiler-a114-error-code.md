@@ -17,8 +17,7 @@ free_checks:
   - "Reset the boiler once and observe whether the same code returns or if ignition proceeds normally"
 ---
 
-## Weil-McLain A114 Error Code — What It Means
-
+## What this code means
 A114 is not a verified Weil-McLain boiler error code in the manufacturer's published documentation. The code you are seeing may be model-specific to a particular control board or may be misread from the display. Weil-McLain boilers use different control systems depending on the series, and each has its own fault code list. Without knowing your exact model and control type, it is impossible to confirm what A114 means on your unit.
 
 The most common ignition and combustion lockout codes on Weil-McLain boilers typically relate to no gas flow, a dirty flame sensor, or a failed ignitor. However, these are general troubleshooting areas and not confirmed as the meaning of A114. To proceed safely and accurately, you need the service manual for your specific boiler model. Attempting repairs based on guesswork can waste time, damage components, or create a safety hazard.
@@ -26,8 +25,6 @@ The most common ignition and combustion lockout codes on Weil-McLain boilers typ
 ## Before You Replace Anything
 
 Homeowners often replace the ignitor or gas valve without confirming the exact fault definition. Always pull the fault history from the control's diagnostic menu and consult the model-specific manual before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician immediately if you cannot find A114 in your boiler's service manual, if the code returns after a single reset, or if you are uncomfortable working with gas appliances. Boiler diagnostics require model-specific knowledge, pressure gauges, multimeters, and sometimes a combustion analyzer. Incorrect troubleshooting can lead to carbon monoxide hazards, gas leaks, or damage to the control board and heat exchanger. A qualified technician will have access to manufacturer technical support, updated fault code databases, and the training to safely test gas valves, flame sensors, and ignition circuits. Do not attempt to bypass safety controls or repeatedly reset a lockout code without understanding the underlying fault.
 
 **Rough cost:** A pro service call runs about $200-450.
-
-## See Also
-
-- [Weil-McLain A44 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a44-error-code/)
-- [Weil-McLain A118 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a118-error-code/)
-- [Weil-McLain ECG Boiler Error Codes — Complete Fault Guide](/posts/weil-mclain-ecg-error-codes/)
-- [Weil-McLain Boiler A109 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a109-error-code/)

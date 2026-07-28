@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Dryer F3 E2 Error Code — What It Means
-
+## What this code means
 The F3 E2 error code is not documented for Amana dryers in any manufacturer service manual or technical database. This code is exclusive to Amana and Whirlpool top-load washers, where it signals a water temperature sensor circuit failure. If you see F3 E2 on an Amana appliance, verify that the unit is actually a washer, not a dryer. The control board has detected that the water temperature sensor (NTC thermistor) is sending an invalid resistance signal, either because the sensor has failed, the wiring is broken or corroded, or the control board input circuit is damaged.
 
 If you own an Amana dryer and are seeing an error code, consult your model's wiring diagram or owner's manual to confirm the exact code displayed. Dryers from sister brands (Maytag, Whirlpool) may use similar alphanumeric codes for different faults, such as moisture sensor failures, but these are distinct from the washer-specific F3 E2 definition.
@@ -26,8 +25,6 @@ If you own an Amana dryer and are seeing an error code, consult your model's wir
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board first when the actual fault is a broken wire or failed temperature sensor. Use a multimeter to test sensor resistance (typically 10-20 kΩ at room temperature for most models) and inspect the harness before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

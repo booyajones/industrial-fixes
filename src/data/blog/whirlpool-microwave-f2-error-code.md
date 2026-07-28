@@ -17,8 +17,7 @@ money_part: "Whirlpool microwave user interface or keypad assembly"
 part_price: "$60-150"
 ---
 
-## Whirlpool Microwave F2 Error — What It Means
-
+## What this code means
 The F2 code on a Whirlpool microwave indicates the keypad or user interface has reported a problem to the control board. This is a communication fault between the touchpad assembly and the main control. Unlike F2 on some Whirlpool ranges (which relates to temperature sensing), the microwave version points to the user interface itself or its associated wiring.
 
 Whirlpool documentation identifies the keypad, its ribbon cable, and the connectors as the primary trouble area. The control board receives the fault report but is not usually the failed component. A power reset will clear transient faults, but if the code returns the keypad assembly or wiring typically needs attention.
@@ -26,8 +25,6 @@ Whirlpool documentation identifies the keypad, its ribbon cable, and the connect
 ## Before You Replace Anything
 
 Many people replace the control board when F2 appears. Always reseat the ribbon cable between the keypad and board first, since a loose or corroded connector causes the same symptom at zero cost.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -20,8 +20,6 @@ A Goodman furnace blowing cold air is not a specific error code. It is a symptom
 
 The actual diagnostic information comes from the red LED flash pattern on the control board inside the furnace. Each flash code points to a specific fault, such as ignition failure (commonly 1 flash) or high-limit switch open (commonly 4 flashes). The repair path depends entirely on which LED code is present and which safety or component has failed.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty flame sensor** A flame sensor coated with soot or dirt cannot prove flame to the control board, so the burners shut off after a few seconds and only cold air blows.
@@ -62,17 +60,10 @@ If your appliance also shows a code on the display, these match this problem:
 - [Goodman Furnace 5 Flash error code](/posts/goodman-furnace-5-flash-error-code/)
 - [Goodman Furnace E1 error code](/posts/goodman-furnace-e1-error-code/)
 - [Goodman Furnace E2 error code](/posts/goodman-furnace-e2-error-code/)
-- [Goodman Furnace E3 error code](/posts/goodman-furnace-e3-error-code/)
+- Goodman Furnace E3 error code
 - [Goodman Furnace Ee2 error code](/posts/goodman-furnace-ee2-error-code/)
 - [Goodman Furnace Ef error code](/posts/goodman-furnace-ef-error-code/)
 
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with gas appliances, if you cannot safely access the control board or flame sensor, or if the LED code points to a gas valve, control board, or pressure switch failure. Professional service is also recommended if the furnace repeatedly trips safeties after you have replaced the filter and cleaned the flame sensor, or if you smell gas at any point during troubleshooting. Techs have the meters and manometers to test gas pressure, flame current, and pressure switch operation accurately. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Goodman d0 Error Code - Causes & Fix](/posts/goodman-heat-pump-d0-error-code/)
-- [Goodman Furnace 2 Flashes — Pressure Switch Stuck Closed Fix](/posts/goodman-furnace-2-flashes/)
-- [Amana / Goodman Furnace 3 Flash Error Code — Causes & Fix](/posts/goodman-amana-furnace-3-flash/)
-- [Goodman GSX13 Air Conditioner Error Codes — Fault Code Diagnostic Guide](/posts/goodman-gsx13-error-codes/)

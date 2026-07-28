@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## KitchenAid F7E2 Error Code — What It Means
-
+## What this code means
 The F7E2 code on a KitchenAid dishwasher signals that the electronic control has detected a wash motor or circulation motor fault. KitchenAid's product support recommends first cycling power to the dishwasher to reset the control. If the code returns after the reset, the control is logging a real fault in the wash motor circuit, which may involve the motor itself, its wiring connections, or speed-sensing feedback.
 
 This fault prevents the dishwasher from completing a wash cycle because the control cannot confirm that the circulation pump is operating correctly. The code is not a user-interface glitch. It requires a power reset followed by inspection of the motor, harness, and sump area if the fault persists.
@@ -25,8 +24,6 @@ This fault prevents the dishwasher from completing a wash cycle because the cont
 ## Before You Replace Anything
 
 Many people replace the control board first when F7E2 appears. Before ordering a board, inspect the motor harness for corrosion or looseness and check the sump for debris that can load the motor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

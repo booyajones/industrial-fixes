@@ -13,13 +13,10 @@ money_part: "Thermistor / temperature sensor"
 most_likely_cause: "Faulty thermistor or temperature sensor"
 ---
 
-## State Tankless Water Heater E02 Error — What It Means
-
+## What this code means
 The E02 error on a State tankless water heater signals that the control board has detected outlet water temperature above the allowed limit and has shut down the unit as a safety precaution. The fault is tied directly to the temperature sensor circuit. When the thermistor reads abnormally high or the heated water actually exceeds the threshold, the heater locks out and displays E02to prevent scalding or equipment damage.
 
 In State and A.O. Smith service documentation this code points first to the thermistor itself. If the sensor gives an incorrect reading or its wiring is loose or corroded, the board interprets the signal as dangerously hot water and triggers the fault even when actual outlet temperature is normal.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

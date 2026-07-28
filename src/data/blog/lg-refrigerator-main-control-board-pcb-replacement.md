@@ -64,10 +64,3 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 Call a qualified appliance technician if you are not comfortable working around live AC voltage, if you cannot safely verify incoming line power and board output voltages, or if replacing the board does not restore cooling and other functions. A tech will have the wiring diagrams and multimeter skills to rule out downstream component shorts, harness faults, or power-supply issues that can mimic a bad board. If the refrigerator is still under warranty, contact LG or an authorized service center before attempting any repair yourself.
-
-## See Also
-
-- [LG Washer Won't Spin - Causes & Fix](/posts/lg-washer-wont-spin/)
-- [LG Range F2 Error Code - Causes & Fix](/posts/lg-range-f2-error-code/)
-- [LG Washer Cd Error Code - Causes & Fix](/posts/lg-washer-cd-error-code/)
-- [LG Dishwasher Buttons Not Working - Causes & Fix](/posts/lg-dishwasher-buttons-not-working/)

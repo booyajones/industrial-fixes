@@ -19,8 +19,6 @@ When your Navien water heater produces water that's too hot, it usually means wa
 
 If you see no error code but the water feels excessively hot or scalding, the issue often traces back to flow problems. Navien service guidance points to the flow sensor and restricted water flow as the main culprits when outlet temperature spikes without triggering a fault code. Low or unstable flow lets the burner overheat the small volume of water passing through.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Restricted water flow through the unit** Clogged inlet filters, partially closed valves, kinks in supply lines, or other flow restrictions prevent enough water from moving through the heat exchanger, causing the water to overheat.
@@ -51,10 +49,3 @@ If you see no error code but the water feels excessively hot or scalding, the is
 ## When to Call a Pro
 
 If you've cleaned the inlet filter and confirmed all valves are open but the unit still overheats or throws an E001 code, call a qualified technician. Flow sensor testing, heat exchanger flushing with chemical descalers, and temperature sensor diagnostics require experience with tankless water heaters. Any work involving gas line inspection, burner adjustment, or internal component replacement should be handled by a licensed pro to avoid safety hazards and maintain your warranty. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Navien E038 Error Code - Causes & Fix](/posts/navien-tankless-e038-error-code/)
-- [Navien Flow Sensor Replacement - Signs & How-To](/posts/navien-water-heater-flow-sensor-flow-meter-tankless-replacement/)
-- [Navien 406 Error Code - Causes & Fix](/posts/navien-tankless-alarm-406-error-code/)
-- [Navien Water Heater No Ignition - Causes & Fix](/posts/navien-water-heater-no-ignition/)

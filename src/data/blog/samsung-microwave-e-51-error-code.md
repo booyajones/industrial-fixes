@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Samsung microwave touchpad / keypad membrane assembly"
 ---
 
-## Samsung Microwave E-51 Error — What It Means
-
+## What this code means
 Samsung's E-51 code indicates a 'Sense Failure' in the microwave's control system. The exact sensor or component is not defined in Samsung's public documentation. The manufacturer's general instruction is to unplug the unit or turn off the circuit breaker for 60 seconds, then restore power. If the code returns after the reset, Samsung directs you to request service rather than attempt further troubleshooting.
 
 Because Samsung does not publish a detailed cause list for E-51, any specific interpretation beyond 'sense failure' is technician inference rather than manufacturer specification. The code typically relates to the control interface reading an unexpected state, often involving the keypad, ribbon cable, or main control board, but those associations come from field repair experience rather than Samsung's official documentation.
@@ -25,8 +24,6 @@ Because Samsung does not publish a detailed cause list for E-51, any specific in
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board first. Check the keypad membrane and ribbon cable connector for moisture, corrosion, or loose seating before replacing any board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

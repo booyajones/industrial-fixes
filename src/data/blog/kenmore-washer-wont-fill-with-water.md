@@ -17,8 +17,6 @@ tags:
 
 When your Kenmore washer won't fill with water, the machine is not allowing water into the tub during the fill portion of the cycle. This is a symptom, not a fault code. In practical terms, it means the washer is either not being commanded to fill, not able to pass water through the inlet valve, or is stopping the fill early because the water-level system thinks the tub is already full when it is not.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged inlet screens** Sediment and debris block the small mesh screens at the hose connection ports on the back of the washer, restricting or stopping water flow.
@@ -52,8 +50,8 @@ When your Kenmore washer won't fill with water, the machine is not allowing wate
 
 Seeing a code on the display? These match this problem:
 
-- [Kenmore Washer E14 error code](/posts/kenmore-washer-e14-error-code/)
-- [Kenmore Washer E24 error code](/posts/kenmore-washer-e24-error-code/)
+- Kenmore Washer E14 error code
+- Kenmore Washer E24 error code
 - [Kenmore Washer F0 E2 error code](/posts/kenmore-washer-f0-e2-error-code/)
 - [Kenmore Washer F0 E4 error code](/posts/kenmore-washer-f0-e4-error-code/)
 - [Kenmore Washer F1 E1 error code](/posts/kenmore-washer-f1-e1-error-code/)

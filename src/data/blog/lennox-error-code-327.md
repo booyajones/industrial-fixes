@@ -13,11 +13,8 @@ money_part: "Air filter (1' or 4' media)"
 most_likely_cause: "Dirty air filter"
 ---
 
-## Lennox Error Code 327 — What It Means
-
+## What this code means
 Lennox fault code 327 is a limit fault — the high-temperature limit switch opened during a heating cycle. The limit switch is a thermal safety device in the heat exchanger plenum or supply air compartment. It opens when heat exchanger temperatures exceed the safe threshold (typically 140–200°F depending on switch rating), then resets automatically once temperatures drop. If the limit trips repeatedly, the board logs 327 and eventually locks out. Repeated limit trips mean either airflow across the heat exchanger is inadequate, or the heat exchanger itself is running too hot.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Lennox fault code 327 is a limit fault — the high-temperature limit switch ope
 ## When to Call a Pro
 
 If the limit trips with a clean filter and a confirmed-running blower, the heat exchanger may be failing or the system is significantly oversized or underducted. A technician with a manometer can measure static pressure and identify whether the ductwork is the root cause.
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-
-## See Also
-
-- [Lennox Error Code 224 — HSI Relay Failure Fix](/posts/lennox-error-code-224/)
-- [Lennox Error Code 240 — Ignitor Failed Fix](/posts/lennox-error-code-240/)
-- [Lennox Merit Series Furnace Error Codes - What It Means and How to Fix It](/posts/lennox-merit-series-furnace-error-codes/)
-- [Lennox XP20 Heat Pump Error Codes - Full iComfort Fault Reference](/posts/lennox-xp20-heat-pump-error-codes/)

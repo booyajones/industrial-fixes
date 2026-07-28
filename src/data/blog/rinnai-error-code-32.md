@@ -13,11 +13,8 @@ money_part: "Thermal fuse (outlet)"
 most_likely_cause: "Thermal fuse blown"
 ---
 
-## Rinnai Error Code 32 — What It Means
-
+## What this code means
 Error code 32 on a Rinnai tankless water heater indicates the outlet water temperature exceeded the safe maximum (typically around 90–99°C / 194–210°F depending on model). The outgoing water thermal fuse or high-temperature limiter opened to prevent scalding and heat exchanger damage. This is a non-resettable or manually-reset thermal cutout on some models — the unit will not restart until the cutout is addressed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Error code 32 on a Rinnai tankless water heater indicates the outlet water tempe
 ## When to Call a Pro
 
 If the thermal fuse blows repeatedly after replacement, the root cause (scale or flow issue) has not been resolved. A licensed plumber should perform a full heat exchanger inspection and potentially install a water treatment system upstream of the unit.
-
-## Related Articles
-
-- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
-- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
-- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
-- [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
-- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)
-
-## See Also
-
-- [Rinnai Error Code 61 — Causes & Fix](/posts/rinnai-error-code-61/)
-- [Rinnai Tankless Water Heater Error Codes — Complete Guide](/posts/rinnai-error-codes/)
-- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
-- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)

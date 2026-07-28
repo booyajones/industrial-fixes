@@ -19,8 +19,6 @@ Squeaking in a Maytag dryer is a mechanical noise symptom, not a fault code. The
 
 Other causes can include a malfunctioning motor, a clogged or off-balance blower wheel, or loose items in the drum or lint chute. The most common culprits supported by Maytag are unlevel or loose legs, worn idler pulley, worn drum bearings, worn roller shafts, a damaged or frayed drive belt, and worn drum glides. Roller shafts with buildup, scratches, or dings will squeak. Worn drum glides can also cause grinding, brown spots on clothes, or clothes catching between the drum and door.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Loose or unlevel dryer legs** This is the most common cause when squeaking comes from the bottom of the dryer.
@@ -57,10 +55,10 @@ Seeing a code on the display? These match this problem:
 
 - [Maytag Dryer Err error code](/posts/maytag-dryer-err-error-code/)
 - [Maytag Dryer F01 error code](/posts/maytag-dryer-f01-error-code/)
-- [Maytag Dryer F02 error code](/posts/maytag-dryer-f02-error-code/)
+- Maytag Dryer F02 error code
 - [Maytag Dryer F1E1 error code](/posts/maytag-dryer-f1e1-error-code/)
 - [Maytag Dryer F1E3 error code](/posts/maytag-dryer-f1e3-error-code/)
-- [Maytag Dryer F1E4 error code](/posts/maytag-dryer-f1e4-error-code/)
+- Maytag Dryer F1E4 error code
 - [Maytag Dryer F1E5 error code](/posts/maytag-dryer-f1e5-error-code/)
 - [Maytag Dryer F20 error code](/posts/maytag-dryer-f20-error-code/)
 - [Maytag Dryer F22 error code](/posts/maytag-dryer-f22-error-code/)

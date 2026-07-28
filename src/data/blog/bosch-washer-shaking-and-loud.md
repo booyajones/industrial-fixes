@@ -19,8 +19,6 @@ When your Bosch washer is shaking excessively or making loud noises during a cyc
 
 This symptom is not tied to a specific fault code in Bosch systems. Instead, it reflects a mechanical or installation issue such as an unbalanced load, improper leveling, transport bolts still in place, or worn internal components like dampers or the drain pump. The noise and shaking may occur during wash, drain, or spin depending on the underlying cause.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Unbalanced or overloaded laundry** Bosch lists this as one of the most common causes of loud banging, clicking, or knocking, especially when heavy items cluster on one side of the drum or the load is too large.
@@ -54,14 +52,14 @@ This symptom is not tied to a specific fault code in Bosch systems. Instead, it 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Bosch Washer E15 error code](/posts/bosch-washer-e15-error-code/)
+- Bosch Washer E15 error code
 - [Bosch Washer E16 error code](/posts/bosch-washer-e16-error-code/)
 - [Bosch Washer E17 error code](/posts/bosch-washer-e17-error-code/)
 - [Bosch Washer E18 error code](/posts/bosch-washer-e18-error-code/)
 - [Bosch Washer E19 error code](/posts/bosch-washer-e19-error-code/)
 - [Bosch Washer E20 error code](/posts/bosch-washer-e20-error-code/)
-- [Bosch Washer E21 error code](/posts/bosch-washer-e21-error-code/)
-- [Bosch Washer E22 error code](/posts/bosch-washer-e22-error-code/)
+- Bosch Washer E21 error code
+- Bosch Washer E22 error code
 - [Bosch Washer E23 error code](/posts/bosch-washer-e23-error-code/)
 - [Bosch Washer E24 error code](/posts/bosch-washer-e24-error-code/)
 - [Bosch Washer E25 error code](/posts/bosch-washer-e25-error-code/)

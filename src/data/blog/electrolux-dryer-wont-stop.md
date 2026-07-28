@@ -19,8 +19,6 @@ When an Electrolux dryer won't stop running, it means the control board is not e
 
 The most common root cause is a defective electronic control board where a relay stays closed or the logic stops recognizing cycle completion. Door switch faults, blocked venting, dirty moisture sensors, and wiring harness problems can also prevent the dryer from stopping normally. Electrolux fault charts point to control board and wiring issues when the machine behaves abnormally or does not respond to inputs.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Defective electronic control board or stuck relay** A failed relay circuit or logic fault on the main control board keeps power supplied to the motor and heater even after the cycle should end.
@@ -55,8 +53,8 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Electrolux Dryer Ad error code](/posts/electrolux-dryer-ad-error-code/)
 - [Electrolux Dryer E 09 error code](/posts/electrolux-dryer-e-09-error-code/)
-- [Electrolux Dryer E 10 error code](/posts/electrolux-dryer-e-10-error-code/)
-- [Electrolux Dryer E 11 error code](/posts/electrolux-dryer-e-11-error-code/)
+- Electrolux Dryer E 10 error code
+- Electrolux Dryer E 11 error code
 - [Electrolux Dryer E 31 error code](/posts/electrolux-dryer-e-31-error-code/)
 - [Electrolux Dryer E 42 error code](/posts/electrolux-dryer-e-42-error-code/)
 - [Electrolux Dryer E 51 error code](/posts/electrolux-dryer-e-51-error-code/)

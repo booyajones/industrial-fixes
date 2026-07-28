@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Electrolux E51 Error Code — What It Means
-
+## What this code means
 The E51 error code on Electrolux, AEG, Zanussi, and Frigidaire laundry appliances indicates a motor power triac short-circuit or motor relay open condition. In plain terms, the main control board has detected that it cannot properly switch or sense the drive motor circuit. The control is unable to turn the motor on or off reliably, or it sees an open or stuck relay path where it expects a closed circuit.
 
 This code does not mean the motor itself has necessarily failed. It means the electronic switching component (relay or triac) on the control board that powers the motor is not functioning correctly, or the wiring and connections in that circuit are damaged. The exact interpretation can vary slightly by model, so always consult your appliance's tech sheet or wiring diagram to confirm which motor-circuit component is flagged.
@@ -26,31 +25,13 @@ This code does not mean the motor itself has necessarily failed. It means the el
 
 Many owners replace the motor first, when the real culprit is the control board's relay or triac. Before ordering a motor, inspect all connectors for looseness or corrosion and test the motor windings for continuity. If windings read normal and connections are clean, the board is the likely repair.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Failed main control board (~50%)** A defective motor relay or motor triac on the printed circuit board cannot switch the motor circuit on or off, triggering the E51 fault.
-- **Wiring harness or connector damage (~25%)** Loose, corroded, frayed, or broken wires and connectors in the motor circuit prevent the board from sensing or controlling the motor correctly.
-- **Motor faults (~15%)** Failed windings, abnormal current draw, or a motor that will not start can be interpreted by the control board as an E51 relay fault.
-- **Door, belt, or safety-switch circuit issues (~7%)** On some models, problems with door-interlock switches or belt-related safety switches can affect motor-enable logic and mimic a relay fault.
-- **Motor overheating protection event (~3%)** If the motor repeatedly stalled or ran hot, thermal protection circuits may cut power and flag an E51 condition even after the motor cools.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Does unplugging the appliance for two minutes and restarting clear the E51 code permanently?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The fault was likely a transient glitch. Monitor for recurrence during normal cycles.<br><strong>No:</strong> The fault is persistent. Continue diagnosis of the control board, wiring, and motor.</div>
-</details>
-
-<details class="dtree"><summary>Are all wire connectors at the control board and motor firmly seated, with no visible corrosion, burn marks, or broken pins?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Wiring is likely sound. Test the motor windings for continuity and check the control board's motor relay or triac next.<br><strong>No:</strong> Clean or replace damaged connectors and repair any frayed or broken wires, then retest before replacing larger components.</div>
-</details>
-
-<details class="dtree"><summary>Does the motor spin freely by hand (with power off and belt tension released) and show normal winding resistance when tested with a multimeter?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The motor is likely good. The main control board's relay or triac is the most probable cause.<br><strong>No:</strong> The motor may be seized, have failed windings, or draw abnormal current. Replace the motor and retest.</div>
-</details>
+- **Failed main control board** A defective motor relay or motor triac on the printed circuit board cannot switch the motor circuit on or off, triggering the E51 fault.
+- **Wiring harness or connector damage** Loose, corroded, frayed, or broken wires and connectors in the motor circuit prevent the board from sensing or controlling the motor correctly.
+- **Motor faults** Failed windings, abnormal current draw, or a motor that will not start can be interpreted by the control board as an E51 relay fault.
+- **Door, belt, or safety-switch circuit issues** On some models, problems with door-interlock switches or belt-related safety switches can affect motor-enable logic and mimic a relay fault.
+- **Motor overheating protection event** If the motor repeatedly stalled or ran hot, thermal protection circuits may cut power and flag an E51 condition even after the motor cools.
 
 ## Step-by-Step Fix {#fix}
 
@@ -73,5 +54,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a professional appliance technician if you are uncomfortable working with line-voltage wiring or testing electronic control boards, or if you have replaced wiring and the motor but the E51 code persists. A technician can perform precise relay and triac testing on the control board with specialized tools and cross-reference your model's service bulletins. Professional help is also wise if the appliance is still under warranty, because opening the cabinet or replacing parts yourself may void coverage. If you have already verified good motor windings and clean connections but lack the confidence to swap the control board, a service call will save time and prevent misdiagnosis.
-
-**Rough cost:** DIY runs about $100–250 in parts (control board or motor), 45–90 min. A pro service call runs about $150–350 service call plus parts.

@@ -13,13 +13,10 @@ money_part: "EIA-485 fieldbus communication cable"
 most_likely_cause: "Fieldbus master offline or in error"
 ---
 
-## ABB ACS580 A7CE Fault Code — What It Means
-
+## What this code means
 The A7CE fault on an ABB ACS580 drive indicates embedded fieldbus (EFB) communication loss. This means the drive is no longer receiving valid commands or status data over its built-in fieldbus channel. The fault is programmable and tied to the communication-loss action parameter, so the drive's behavior (warning, fault, or stop) depends on how that setting is configured.
 
 In practical terms, the drive has lost contact with its fieldbus master (PLC, gateway, or network controller), so normal control and monitoring functions are interrupted. The fault can appear as a warning or a full fault depending on your application settings, and it requires checks of the network master, wiring, and communication configuration to restore normal operation.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ In practical terms, the drive has lost contact with its fieldbus master (PLC, ga
 ## When to Call a Pro
 
 Call a qualified technician or ABB service if the A7CE fault returns after you have verified the master is online, inspected and repaired all wiring, corrected configuration settings, and power-cycled the drive. If you are not trained in fieldbus network troubleshooting or do not have access to network diagnostic tools, get professional help to avoid damaging the drive or creating unsafe control conditions. ABB's official guidance is to contact service when the fault cannot be cleared by normal diagnostics, especially if you suspect a hardware failure in the drive's communication interface or control board.
-
-## See Also
-
-- [ABB VFD Fault 2201 — Overcurrent Fix](/posts/abb-vfd-fault-2201-overcurrent/)
-- [ABB ACS880 Fault 2310 Overcurrent — Causes & Fix](/posts/abb-acs880-fault-2310-overcurrent/)
-- [ABB ACS880 Fault 2310 - Overcurrent Diagnosis and Fix](/posts/abb-acs880-fault-2310/)
-- [ABB VFD Fault Codes — ACS550, ACS880, ACS310 Reference](/posts/abb-vfd-fault-codes/)

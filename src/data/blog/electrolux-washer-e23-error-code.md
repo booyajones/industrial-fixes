@@ -21,8 +21,7 @@ free_checks:
 part_price: "$35–75"
 ---
 
-## Electrolux Washer E23 Error Code — What It Means
-
+## What this code means
 The E23 code on an Electrolux washer is a drain-pump triac sensing or triac status fault. In plain terms, the main control board is detecting an unexpected electrical relationship between the command it sends to the drain pump and the feedback it receives from that circuit. This is primarily an electrical control-circuit fault in the pump output path, not a simple blockage or water-level error.
 
 The fault points to three areas: the drain pump itself (failed or electrically weak), the wiring harness and connectors between the pump and the control board, or the main PCB's triac output stage that drives the pump. While a mechanical obstruction or pump blockage can sometimes accompany or precede the electrical fault, E23 itself signals that the board cannot confirm proper pump operation through its internal circuit monitoring.
@@ -30,8 +29,6 @@ The fault points to three areas: the drain pump itself (failed or electrically w
 ## Before You Replace Anything
 
 Some owners replace the main control board first, assuming the board has failed. Always test or swap the drain pump and inspect the pump wiring harness and connector for damage or corrosion before replacing the PCB, since a failing pump or loose connector is far more common than a board triac fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,11 +13,8 @@ money_part: "Motor PTC temperature sensor"
 most_likely_cause: "Broken or open circuit in sensor wiring"
 ---
 
-## Siemens Micromaster F0015 — What It Means
-
+## What this code means
 F0015 on a Siemens Micromaster indicates the drive has lost valid motor temperature feedback from the motor sensor circuit. This is categorized as an open or short circuit of the motor temperature sensor. When the fault occurs, the drive automatically switches to its internal motor thermal model for temperature protection and triggers an OFF2 shutdown. The drive expects a believable signal from the motor's PTC or thermistor temperature sensor and will fault when that signal disappears or falls outside normal range.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ F0015 on a Siemens Micromaster indicates the drive has lost valid motor temperat
 ## When to Call a Pro
 
 Call a qualified electrician or drive technician if you are not comfortable working with locked-out industrial equipment, if you cannot safely access the motor or drive wiring, or if the fault persists after you have verified good sensor wiring and resistance. Also call a pro if the drive I/O board appears damaged or if you lack the test equipment to measure sensor continuity and resistance accurately. Internal drive faults on the temperature input circuit require specialized diagnostic tools and replacement boards that are best handled by experienced technicians.
-
-## See Also
-
-- [Siemens Sinumerik Alarm 300204 — Causes & Fix](/posts/siemens-sinumerik-alarm-300204/)
-- [Siemens Micromaster F0015 - Causes & Fix](/posts/siemens-micromaster-f0015-fault-code/)
-- [Siemens Micromaster F0221 - Causes & Fix](/posts/siemens-micromaster-f0221-fault-code/)
-- [Siemens Micromaster F0060 - Causes & Fix](/posts/siemens-micromaster-f0060-fault-code/)

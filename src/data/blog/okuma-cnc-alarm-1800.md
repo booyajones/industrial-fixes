@@ -13,11 +13,8 @@ money_part: "ATC arm proximity switch"
 most_likely_cause: "ATC arm not completing its motion"
 ---
 
-## Okuma CNC Alarm 1800 — What It Means
-
+## What this code means
 Okuma Alarm 1800 indicates an Automatic Tool Changer (ATC) fault — the tool changer failed to complete a tool change cycle within the expected sequence or time. On Okuma machining centers with OSP controls, the 1800-series ATC alarms indicate that one of the ATC mechanisms (arm, magazine, pot, or interlock) didn't reach its expected position or confirm its state to the control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Okuma Alarm 1800 indicates an Automatic Tool Changer (ATC) fault — the tool ch
 ## When to Call a Pro
 
 ATC mechanical repairs on Okuma machines require precise adjustment and calibration. Okuma authorized service should handle any cam, drawbar, or ATC arm mechanical work.
-
-## Related Articles
-
-- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
-- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
-- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-
-## See Also
-
-- [Okuma MC-V4020 Machining Center Alarm Codes: Complete Guide](/posts/okuma-mc-v4020-error-codes/)
-- [Okuma CNC Alarm 2030 Spindle Drive Fault — Causes & Fix](/posts/okuma-cnc-alarm-2030/)
-- [Okuma CNC Alarm 1400 — Encoder Error](/posts/okuma-cnc-alarm-1400/)
-- [Okuma CNC Alarm 1600 — Communication Error Causes & Fix](/posts/okuma-cnc-alarm-1600/)

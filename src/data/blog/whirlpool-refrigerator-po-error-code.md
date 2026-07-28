@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Whirlpool refrigerator power cord"
 ---
 
-## Whirlpool Refrigerator PO Error Code — What It Means
-
+## What this code means
 The PO code on a Whirlpool refrigerator stands for Power Outage. It means the unit detected that electrical power was interrupted long enough for the freezer temperature to rise to 18°F or higher. On side-by-side models the display shows PO, an alert tone sounds three times, and the Confirm prompt blinks until you acknowledge it. This is an informational alert, not a component failure code. The refrigerator is telling you it lost power and that food safety may have been compromised during the outage.
 
 In most cases the code appears after a utility outage, a tripped breaker, or a temporary loss of power to the appliance. Once you restore power and the refrigerator runs normally, you simply need to clear the alert by pressing the MEASURED FILL button. If the PO code keeps returning without any known outage, the problem is usually an unstable electrical supply, a loose plug, a faulty outlet, or a damaged power cord rather than a refrigeration system fault.
@@ -25,8 +24,6 @@ In most cases the code appears after a utility outage, a tripped breaker, or a t
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board or user interface when the PO code reappears, but the real cause is almost always an electrical supply problem. Check the outlet, breaker, and power cord for damage or loose connections before replacing any electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

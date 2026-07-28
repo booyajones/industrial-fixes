@@ -19,8 +19,6 @@ When your Electrolux dryer leaves clothes damp at the end of a cycle, the machin
 
 Electrolux treats this as a drying-performance complaint rather than a single failure code. It can stem from user factors like wrong program selection or overloading, from maintenance issues like lint buildup or a full water tank on condenser models, or from component faults such as contaminated moisture sensors or a failed heating element. The fix depends on your model type (vented, condenser, or heat-pump) and which part of the air or heat path is restricted.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Blocked lint filter or condenser** A clogged fluff filter or dirty condenser restricts airflow so moisture cannot be evacuated from the drum.
@@ -56,8 +54,8 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Electrolux Dryer Ad error code](/posts/electrolux-dryer-ad-error-code/)
 - [Electrolux Dryer E 09 error code](/posts/electrolux-dryer-e-09-error-code/)
-- [Electrolux Dryer E 10 error code](/posts/electrolux-dryer-e-10-error-code/)
-- [Electrolux Dryer E 11 error code](/posts/electrolux-dryer-e-11-error-code/)
+- Electrolux Dryer E 10 error code
+- Electrolux Dryer E 11 error code
 - [Electrolux Dryer E 31 error code](/posts/electrolux-dryer-e-31-error-code/)
 - [Electrolux Dryer E 42 error code](/posts/electrolux-dryer-e-42-error-code/)
 - [Electrolux Dryer E 51 error code](/posts/electrolux-dryer-e-51-error-code/)

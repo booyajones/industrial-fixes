@@ -13,11 +13,8 @@ money_part: "Hot surface ignitor"
 most_likely_cause: "Dirty or failed hot surface ignitor (HSI)"
 ---
 
-## York Furnace E4 Error Code — What It Means
-
+## What this code means
 On York furnaces with LED display panels (YP9C, TM9V, and related models), E4 indicates an ignition failure — the control board attempted to light the burners, but no flame was detected within the trial-for-ignition period. After typically three failed ignition attempts, the board locks out and displays E4. This is a safety lock that prevents unburned gas from accumulating. The furnace will remain locked out until the fault is cleared.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,18 +45,3 @@ On York furnaces with LED display panels (YP9C, TM9V, and related models), E4 in
 ## When to Call a Pro
 
 Gas valve replacement requires leak-testing all connections with a manometer or soap solution. If you're not comfortable working with gas lines or you have propane (higher pressure, different hazard profile), call a licensed HVAC technician.
-
-## Related Articles
-
-- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
-- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)
-- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
-- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
-- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
-
-## See Also
-
-- [York YSC Rooftop Unit Error Codes Guide](/posts/york-ysc-error-codes/)
-- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
-- [York TG9 Furnace Error Codes — Fault Code Diagnostic Guide](/posts/york-tg9-furnace-error-codes/)
-- [York Furnace Error Codes — Complete Guide](/posts/york-furnace-error-codes/)

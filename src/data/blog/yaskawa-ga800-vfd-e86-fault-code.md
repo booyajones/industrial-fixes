@@ -14,15 +14,12 @@ money_part: "GA800 control board"
 most_likely_cause: "Undocumented fault code"
 ---
 
-## Yaskawa GA800 E86 Fault — What It Means
-
+## What this code means
 The E86 fault code is not explicitly defined in the available Yaskawa GA800 documentation. Yaskawa's troubleshooting approach for the GA800 requires reading both the numeric code and the full alarm text displayed on the keypad or monitoring screen, then cross-referencing the elementary diagram for the affected circuit. Without an official fault table entry for E86, the exact meaning can vary by drive firmware revision or configuration. The GA800 does include a Safe Torque Off (STO) safety function, and if the STO circuit is not satisfied the drive will not produce torque to the motor, which can cause drive faults. General troubleshooting begins with verifying safety wiring, checking for correct STO jumper or input connections, and reviewing the drive's alarm history. If the fault persists after basic checks, gather the model number, spec code, serial number, and failure details and contact Yaskawa technical support for the correct code interpretation and service path.
 
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board without first verifying the elementary diagram and checking the STO safety circuit wiring, which can be the actual source of the fault and costs nothing to inspect.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -69,10 +66,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa support immediately if the E86 fault reappears after basic safety-circuit checks, if you do not have access to the drive's elementary diagram, or if the alarm text suggests an internal component failure. High-voltage AC drive troubleshooting requires lock-out/tag-out procedures, multimeter diagnostics on live circuits, and familiarity with Yaskawa parameter programming. Replacing the wrong board or ignoring the elementary diagram can cost hundreds of dollars and extend downtime. Yaskawa technical support can provide the official fault definition, remote diagnostics, and the correct part numbers for your specific drive revision.
 
 **Rough cost:** A pro service call runs about $200–500.
-
-## See Also
-
-- [Yaskawa GA800 LF Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f047-fault-code/)
-- [Yaskawa GA800 A.140 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-140-fault-code/)
-- [Yaskawa A1000 CPF05 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf05-fault-code/)
-- [Yaskawa A1000 oC Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-oc-fault-code/)

@@ -19,8 +19,6 @@ When a Navien tankless water heater is not producing enough hot water, it typica
 
 The flow sensor must spin freely to signal the unit to begin heating. If debris or mineral buildup prevents the sensor from spinning properly, the heater will not detect demand and will not fire. In some cases the symptom is lukewarm water rather than no hot water at all, which can point to an internal check valve that is not closing fully and allowing cold water to bypass into the hot line.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Flow sensor sticking or clogged** Debris or mineral buildup prevents the sensor from spinning and detecting water flow, so the unit does not fire or produces insufficient heat.
@@ -53,10 +51,3 @@ The flow sensor must spin freely to signal the unit to begin heating. If debris 
 ## When to Call a Pro
 
 Call a licensed contractor, the original installer, or a Navien Service Specialist if you are not comfortable disassembling internal components, if cleaning the flow sensor and inlet filter does not restore hot water, or if the issue involves gas supply, ignition, burner operation, or control board diagnostics. Gas and combustion work requires proper tools, safety procedures, and training. Navien recommends professional service for any condition that persists after exercising the pressure relief valve and checking for obvious blockages. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Navien E021 Error Code - Causes & Fix](/posts/navien-tankless-e021-error-code/)
-- [Navien E012 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e012-error-code/)
-- [Navien E782 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e782-error-code/)
-- [Navien Tankless Igniter/Flame Rod Replacement - Signs & How-To](/posts/navien-water-heater-igniter-ignition-electrode-tankless-replacement/)

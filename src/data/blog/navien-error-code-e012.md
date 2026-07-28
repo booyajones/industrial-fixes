@@ -55,24 +55,3 @@ For a worn combustion blower: replace the combustion blower assembly. Navien blo
 ## When to Call a Technician
 
 Gas pressure diagnosis requires a licensed gas technician with a manometer. Combustion blower replacement and heat exchanger inspection require opening the unit's combustion chamber — a licensed plumber or HVAC tech should handle this on warranty units to preserve coverage.
-
-## Related Articles
-
-- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
-- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)
-- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
-- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
-- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)
-
-<!-- INTERNAL-LINK-AUTO -->
-**Related:** [Rheem Performance Platinum PDN tankless error codes](/posts/rheem-performance-platinum-pdn-error-codes/)
-
-<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Rinnai code 11 no-ignition fix](/posts/rinnai-error-code-11/)
-
-## See Also
-
-- [Navien Error Code E007 — Causes & Fix](/posts/navien-error-code-e007/)
-- [Navien NPE-A 016 — Overheat Lockout Fix](/posts/navien-water-heater-error-code-016/)
-- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
-- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)

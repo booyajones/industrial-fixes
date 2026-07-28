@@ -13,11 +13,8 @@ money_part: "A.O. Smith moisture sensor or leak detector assembly"
 most_likely_cause: "Active water leak inside the cabinet"
 ---
 
-## A.O. Smith Water Heater E4 Error Code — What It Means
-
+## What this code means
 On A.O. Smith electric tankless water heaters, the E4 or E04 code indicates that the control system has detected moisture or a leak inside the heater cabinet. This is a safety lockout that prevents further operation until the source of water intrusion is corrected. The manufacturer requires you to turn off both electrical power and the water supply immediately when this fault appears. Other A.O. Smith product lines or models may use E4 for completely different faults, so always confirm your exact model number and manual before starting any repair.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

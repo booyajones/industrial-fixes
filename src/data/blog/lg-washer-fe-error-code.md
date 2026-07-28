@@ -21,8 +21,7 @@ free_checks:
 part_price: "$35–75"
 ---
 
-## LG Washer FE Error Code — What It Means
-
+## What this code means
 FE on an LG washer indicates an overfilling condition during the fill cycle. The control board has detected that water level rose too high, either because water continues to enter when it should not or because the machine cannot accurately sense the level inside the tub.
 
 In most cases this means the water inlet valve has failed and is stuck open or leaking internally. Less often, a kinked or blocked pressure-switch air tube prevents the washer from knowing when to stop filling. A failed pressure switch or control-board fault can also cause the code, but these are less common than valve failure.
@@ -30,8 +29,6 @@ In most cases this means the water inlet valve has failed and is stuck open or l
 ## Before You Replace Anything
 
 Homeowners sometimes replace the pressure switch or control board before testing the inlet valve. With the machine unplugged and water supply on, check whether water still flows into the tub. If it does, the valve is faulty and the switch or board are likely fine.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

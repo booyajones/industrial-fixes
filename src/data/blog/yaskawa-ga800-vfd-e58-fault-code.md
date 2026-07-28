@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "Yaskawa GA800 control board (model-specific)"
 ---
 
-## Yaskawa GA800 E58 Fault — What It Means
-
+## What this code means
 The E58 fault on a Yaskawa GA800 VFD is a soft-charge answerback fault. During power-up, the drive uses a precharge circuit to safely charge the DC bus capacitors through a resistor, then bypasses that resistor with a relay or contactor. The drive expects an answerback signal confirming the bypass relay has closed correctly. If that confirmation is missing or inconsistent, the drive trips E58. This is a power-up and DC bus precharge circuit problem, not a motor overload or output-phase fault.
 
 The fault indicates that the soft-charge bypass relay or contact has failed, the control board circuitry that monitors or commands the relay is damaged, or the entire drive power section has degraded. Yaskawa's maintenance counter U4-06 (PreChargeRelayMainte) tracks relay life. If the counter is over 90%, the drive or board should be replaced.
@@ -24,8 +23,6 @@ The fault indicates that the soft-charge bypass relay or contact has failed, the
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive without first checking the U4-06 maintenance counter and attempting a simple power cycle. Check the counter and re-energize the drive before ordering a replacement.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,10 +69,3 @@ Answer these to narrow it down fast.
 Call a qualified technician or VFD specialist immediately. The E58 soft-charge answerback fault involves the drive's internal power section, high-voltage DC bus circuitry, and control board diagnostics that require specialized test equipment and knowledge of VFD precharge circuits. Attempting to open the drive or probe high-voltage circuits without proper training and lockout/tagout procedures can result in lethal electric shock, even after disconnecting input power, because the DC bus capacitors store dangerous voltages. A technician will safely verify the precharge relay operation, check the U4-06 maintenance counter, and determine whether control board replacement or full drive replacement is needed. If your facility does not have in-house VFD expertise, contact Yaskawa technical support or an authorized distributor to arrange service or return for repair.
 
 **Rough cost:** A pro service call runs about $500-2000 depending on whether control board replacement or full drive replacement is needed.
-
-## See Also
-
-- [Yaskawa A1000 rH Fault Code - Causes & Fix](/posts/yaskawa-a1000-vfd-rh-fault-code/)
-- [Yaskawa A1000 oPr Fault Code - Causes & Fix](/posts/yaskawa-a1000-vfd-opr-fault-code/)
-- [Yaskawa GA800 E72 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e72-fault-code/)
-- [Yaskawa GA800 VFD E60 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e60-fault-code/)

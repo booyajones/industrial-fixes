@@ -19,8 +19,6 @@ When an LG dishwasher leaves dishes dirty, LG support identifies the main culpri
 
 Service technicians understand this as a problem in the wash-water path. Common root causes include restricted filtration or spray, low water delivery to the tub, insufficient water temperature, or a weak circulation pump that cannot generate enough spray pressure to clean properly.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged or improperly seated filter** Trapped food debris in the filter assembly reduces circulation and wash water quality, leaving dishes dirty even when the cycle completes.
@@ -70,10 +68,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified appliance technician if dishes remain dirty after you have cleaned the filter and spray arms, verified proper loading and detergent use, run a tub-clean cycle, and confirmed adequate water supply. Diagnosis of a failing wash motor or circulation pump requires electrical testing and access to model-specific service data, and replacement involves disconnecting plumbing and wiring inside the tub. A pro can test voltage, measure pump resistance, evaluate spray pressure, and safely replace the motor assembly or related components if the wash system has failed.
-
-## See Also
-
-- [LG Dishwasher FE Error Code - Causes & Fix](/posts/lg-dishwasher-fe-error-code/)
-- [LG Washer Drain Hose Replacement - Signs & How-To](/posts/lg-washer-drain-hose-replacement/)
-- [LG Microwave F11 Error Code - Causes & Fix](/posts/lg-microwave-f11-error-code/)
-- [LG OE Error Code - Causes & Fix](/posts/lg-range-oe-error-code/)

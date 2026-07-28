@@ -19,8 +19,7 @@ free_checks:
 no_buy_pct: "40%"
 ---
 
-## Weil-McLain A06 Error Code — What It Means
-
+## What this code means
 The A06 code on a Weil-McLain AquaBalance or AquaBalance Series 2 control means the boiler is not getting a valid outdoor temperature input from the outdoor sensor. The control sees the sensor circuit as open, shorted, missing, or otherwise invalid for the configured logic. This is a sensor, wiring, or configuration fault rather than a combustion problem.
 
 On central-heating-only boilers, the outdoor sensor may be intentionally omitted. If the control is still configured to expect the sensor, it will throw A06 at power-up. The fix can be as simple as adjusting the control parameter to exempt the sensor, or as straightforward as reconnecting loose wires or replacing a failed sensor.
@@ -28,8 +27,6 @@ On central-heating-only boilers, the outdoor sensor may be intentionally omitted
 ## Before You Replace Anything
 
 Some technicians replace the control board before checking the outdoor sensor and its wiring. Always inspect the sensor connections and measure sensor resistance at both ends to confirm the fault before replacing the control module.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a qualified heating technician for A06 diagnostics and repair. The outdoor sensor circuit requires careful resistance measurement, knowledge of the control parameter menu, and access to the manufacturer specifications for your exact boiler model. If the sensor and wiring are intact, the technician will verify control programming and determine whether a control board replacement is needed. Gas-fired boiler work also requires proper venting checks and combustion analysis after any control repair, so professional service is the safe and correct approach.
 
 **Rough cost:** A pro service call runs about $150-300.
-
-## See Also
-
-- [Weil-McLain Boiler A24 Error - Causes & Fix](/posts/weil-mclain-boiler-a24-error-code/)
-- [Weil-McLain Boiler A31 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a31-error-code/)
-- [Weil-McLain Boiler A25 Error - Causes & Fix](/posts/weil-mclain-boiler-a25-error-code/)
-- [Weil-McLain A28 Error - Causes & Fix](/posts/weil-mclain-boiler-a28-error-code/)

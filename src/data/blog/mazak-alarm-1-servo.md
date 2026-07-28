@@ -13,11 +13,8 @@ money_part: "Servo amplifier module"
 most_likely_cause: "Servo amplifier internal fault"
 ---
 
-## Mazak Alarm 1 Servo Alarm — What It Means
-
+## What this code means
 Mazak alarm 1 (or alarm number beginning with 1 in the servo alarm group) indicates a servo axis fault on a Mazak CNC machine. On Mazak Integrex, QT, and Nexus series machines running Mazatrol Matrix or Fusion control, servo alarm 1 typically points to the X-axis servo system — the servo amplifier, motor, or feedback encoder has detected a fault condition. The full alarm description on the Mazatrol screen will include additional text specifying the axis and fault type. Servo alarm 1 requires reading the servo amplifier's own status indicators to narrow down the root cause.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Mazak alarm 1 (or alarm number beginning with 1 in the servo alarm group) indica
 ## When to Call a Pro
 
 Servo amplifier internal faults and motor testing require a Mazak-certified technician or Mitsubishi servo specialist. Incorrect amplifier replacement or parameter mismatch will produce new alarms.
-
-## Related Articles
-
-- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
-- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
-- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-
-## See Also
-
-- [Mazak Matrix/Matrix 2 Fault Code Guide — Complete Reference](/posts/mazak-matrix-fault-codes/)
-- [Mazak CNC Alarm 30 — Servo Alarm Fix](/posts/mazak-cnc-alarm-30-servo-alarm/)
-- [Mazak CNC Alarm 200 Parameter Fault — Causes & Fix](/posts/mazak-cnc-alarm-200-parameter/)
-- [Mazak Alarm 600 ATC — Automatic Tool Changer Fault Causes & Fix](/posts/mazak-alarm-600-atc/)

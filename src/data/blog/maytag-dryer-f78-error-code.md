@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Main electronic control board"
 ---
 
-## Maytag Dryer F78 Error Code — What It Means
-
+## What this code means
 The F78 code on a Maytag dryer signals a power supply or voltage-related fault. Maytag groups F72 through F78 as power-related errors and does not publish a single-line definition for F78 beyond that family. The fault means the dryer detected an abnormal electrical supply condition rather than a failure of a single heating or mechanical component.
 
 Maytag's official corrective action is to turn the dryer off at the circuit breaker for 5 minutes, then run a Timed Dry cycle to see if the code returns. If it does, the problem lies in the incoming power path or the control board's handling of power, not in the heater or thermostats alone.
@@ -25,8 +24,6 @@ Maytag's official corrective action is to turn the dryer off at the circuit brea
 ## Before You Replace Anything
 
 Homeowners often replace the heating element or thermostats first. F78 is a power-supply fault, so check incoming voltage at both legs of the terminal block under load before replacing any heating components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

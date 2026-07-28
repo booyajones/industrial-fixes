@@ -19,8 +19,6 @@ A Speed Queen washer that shakes and makes loud noise is showing a symptom, not 
 
 Manufacturer diagnostic guidance points to the damper and drain pump for vibration during drain, and to shipping bolts, tub seal and bearing, foreign objects, motor coupling, drive belt, transmission, and water inlet valve for loud noise depending on when it occurs. Because this is a symptom and not a code, the repair workflow starts with installation and load checks before moving to mechanical inspection.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Unbalanced load or poor loading** Washing items of very different weights or overloading causes the tub to bang, thump, and shake during spin because the load cannot distribute evenly.
@@ -55,18 +53,18 @@ Manufacturer diagnostic guidance points to the damper and drain pump for vibrati
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Speed Queen Washer Dl error code](/posts/speed-queen-washer-dl-error-code/)
-- [Speed Queen Washer Do error code](/posts/speed-queen-washer-do-error-code/)
-- [Speed Queen Washer Dr error code](/posts/speed-queen-washer-dr-error-code/)
-- [Speed Queen Washer Du error code](/posts/speed-queen-washer-du-error-code/)
-- [Speed Queen Washer E 05 error code](/posts/speed-queen-washer-e-05-error-code/)
-- [Speed Queen Washer E 07 error code](/posts/speed-queen-washer-e-07-error-code/)
-- [Speed Queen Washer E 08 error code](/posts/speed-queen-washer-e-08-error-code/)
-- [Speed Queen Washer E 0D error code](/posts/speed-queen-washer-e-0d-error-code/)
-- [Speed Queen Washer E1 error code](/posts/speed-queen-washer-e1-error-code/)
-- [Speed Queen Washer E5 error code](/posts/speed-queen-washer-e5-error-code/)
-- [Speed Queen Washer E7 error code](/posts/speed-queen-washer-e7-error-code/)
-- [Speed Queen Washer Ec 09 error code](/posts/speed-queen-washer-ec-09-error-code/)
+- Speed Queen Washer Dl error code
+- Speed Queen Washer Do error code
+- Speed Queen Washer Dr error code
+- Speed Queen Washer Du error code
+- Speed Queen Washer E 05 error code
+- Speed Queen Washer E 07 error code
+- Speed Queen Washer E 08 error code
+- Speed Queen Washer E 0D error code
+- Speed Queen Washer E1 error code
+- Speed Queen Washer E5 error code
+- Speed Queen Washer E7 error code
+- Speed Queen Washer Ec 09 error code
 
 ## When to Call a Pro
 

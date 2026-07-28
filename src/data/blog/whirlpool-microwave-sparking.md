@@ -19,8 +19,6 @@ Sparking or arcing in a Whirlpool microwave means microwaves are reflecting off 
 
 Prolonged arcing can damage the oven itself. The sparks usually come from metal in the cavity, food or grease buildup on interior surfaces, damaged components like the waveguide cover, or improper accessory contact with the walls or ceiling.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Metal objects or trim in the cavity** Foil, metal cookware, twist ties, skewers, gold or silver trim on dishes, and staples all cause immediate arcing when microwaves reflect off them.
@@ -56,15 +54,15 @@ Prolonged arcing can damage the oven itself. The sparks usually come from metal 
 If your appliance also shows a code on the display, these match this problem:
 
 - [Whirlpool Microwave E03 error code](/posts/whirlpool-microwave-e03-error-code/)
-- [Whirlpool Microwave E11 error code](/posts/whirlpool-microwave-e11-error-code/)
-- [Whirlpool Microwave E12 error code](/posts/whirlpool-microwave-e12-error-code/)
+- Whirlpool Microwave E11 error code
+- Whirlpool Microwave E12 error code
 - [Whirlpool Microwave E13 error code](/posts/whirlpool-microwave-e13-error-code/)
 - [Whirlpool Microwave E21 error code](/posts/whirlpool-microwave-e21-error-code/)
 - [Whirlpool Microwave E22 error code](/posts/whirlpool-microwave-e22-error-code/)
 - [Whirlpool Microwave E23 error code](/posts/whirlpool-microwave-e23-error-code/)
 - [Whirlpool Microwave E24 error code](/posts/whirlpool-microwave-e24-error-code/)
-- [Whirlpool Microwave E61 error code](/posts/whirlpool-microwave-e61-error-code/)
-- [Whirlpool Microwave E62 error code](/posts/whirlpool-microwave-e62-error-code/)
+- Whirlpool Microwave E61 error code
+- Whirlpool Microwave E62 error code
 - [Whirlpool Microwave E63 error code](/posts/whirlpool-microwave-e63-error-code/)
 - [Whirlpool Microwave F01 error code](/posts/whirlpool-microwave-f01-error-code/)
 

@@ -17,8 +17,7 @@ money_part: "Samsung refrigerator compartment temperature sensor (fridge room se
 part_price: "$15-50"
 ---
 
-## Samsung Refrigerator 2E Error Code — What It Means
-
+## What this code means
 The 2E code (sometimes listed as 2C/2E) indicates a refrigerator temperature sensor error in the fresh food compartment. The control board has detected that the fridge room sensor is reading an invalid signal, either appearing open (below -50°C) or shorted (above 50°C). This does not mean your refrigerator is actually at those extreme temperatures. It means the sensor circuit is broken, disconnected, or sending a signal the board cannot accept.
 
 The fault points to the sensor itself, its wiring harness, or the connector between the sensor and the main control board. Samsung's own diagnostics describe 2E as a fresh food compartment sensor circuit problem rather than a general cooling or compressor issue.
@@ -26,8 +25,6 @@ The fault points to the sensor itself, its wiring harness, or the connector betw
 ## Before You Replace Anything
 
 Homeowners often replace the main control board when they see any error code, wasting $200-400. Check the sensor connector and measure the sensor with a multimeter first. A loose plug or corroded pin is the usual culprit.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

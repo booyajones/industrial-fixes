@@ -13,11 +13,8 @@ money_part: "Input fuses (class J or CC)"
 most_likely_cause: "Low AC input voltage"
 ---
 
-## Allen-Bradley PowerFlex Fault F004 — What It Means
-
+## What this code means
 Allen-Bradley PowerFlex fault F004 is a DC bus undervoltage fault. The drive's DC bus voltage dropped below the minimum operating threshold during operation or startup. PowerFlex drives (40, 525, 755, and others) convert AC input to a DC bus, then invert it to variable-frequency AC for the motor. The DC bus is maintained by the input rectifier and filter capacitors. When bus voltage falls below approximately 60–70% of nominal (the exact threshold depends on drive and nominal voltage), the drive can no longer synthesize the correct output waveform and trips F004 to protect the power electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Allen-Bradley PowerFlex fault F004 is a DC bus undervoltage fault. The drive's D
 ## When to Call a Pro
 
 If the input voltage is confirmed within spec and capacitors are not visually degraded but F004 persists, internal capacitance measurement requires capacitor discharge procedures and specialized test equipment. A certified Rockwell service technician or drive repair center should perform this evaluation.
-
-## Related Articles
-
-- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
-- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
-- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
-- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)
-- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)
-
-## See Also
-
-- [Allen-Bradley PowerFlex F091 Fault — Encoder Loss Fix](/posts/allen-bradley-powerflex-f091-fault/)
-- [Allen-Bradley PowerFlex F081 Fault — Communication Loss Fix](/posts/allen-bradley-powerflex-f081-fault/)
-- [Allen-Bradley PowerFlex F012 Fault — HW Overcurrent Fix](/posts/allen-bradley-powerflex-f012-fault/)
-- [Allen-Bradley PowerFlex Fault F063 — Causes & Fix](/posts/allen-bradley-powerflex-fault-f063/)

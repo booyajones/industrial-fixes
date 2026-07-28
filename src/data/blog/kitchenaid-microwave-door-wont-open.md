@@ -19,8 +19,6 @@ A KitchenAid microwave door that won't open is almost always a mechanical proble
 
 When the door truly won't open, the release lever or button is not disengaging the latch hook from the catch. This can happen because a spring has broken, a hook has bent, the latch assembly has dirt or obstruction, or a component has shifted out of alignment. In some cases a failed door interlock switch can also cause the door to stick or refuse to release, though this is less common than pure mechanical wear.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Broken door spring** The spring that returns the latch lever to the open position has snapped or come loose, so the hook stays engaged even when you press the release button.

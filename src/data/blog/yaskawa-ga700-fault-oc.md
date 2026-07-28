@@ -13,11 +13,8 @@ money_part: "Output reactor (load reactor)"
 most_likely_cause: "oC1 (During acceleration)"
 ---
 
-## Yaskawa GA700 OC Fault — What It Means
-
+## What this code means
 The Yaskawa GA700 is the latest generation general-purpose inverter, succeeding the A1000 series. The OC fault (Overcurrent) appears when the drive's output current exceeds 200% of the drive's rated current. The GA700 has enhanced current detection compared to earlier Yaskawa drives and can distinguish between acceleration overcurrent (oC1), deceleration overcurrent (oC2), and constant-speed overcurrent (oC3), giving you a more precise indication of when in the operating cycle the fault occurs.
-
-[Jump to Fix](#fix)
 
 ## OC Sub-Faults on the GA700
 
@@ -56,18 +53,3 @@ The Yaskawa GA700 is the latest generation general-purpose inverter, succeeding 
 ## When to Call a Pro
 
 If oC3 persists with a confirmed healthy motor, correct cable length, and properly tuned drive parameters, the GA700's IGBT output stage may have developed a fault. Yaskawa's Technical Support Center (1-800-927-5292) can walk through advanced diagnostics, or the drive can be sent to a Yaskawa authorized repair center for board-level testing.
-
-## Related Articles
-
-- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
-- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
-- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
-- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)
-- [Yaskawa Sigma-7 SGD7S Servo Drive Alarm Codes — Diagnosis & Fix](/posts/yaskawa-sigma7-sgd7s-alarm-codes/)
-
-## See Also
-
-- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
-- [Yaskawa GA800 oC Fault — Overcurrent Fix](/posts/yaskawa-ga800-error-oc/)
-- [Yaskawa VFD Fault ER — Causes & Fix](/posts/yaskawa-vfd-fault-er/)
-- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)

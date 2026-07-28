@@ -13,11 +13,8 @@ money_part: "Hot surface igniter (HSI)"
 most_likely_cause: "Failed hot surface igniter (HSI)"
 ---
 
-## Lennox Error Code 114 — What It Means
-
+## What this code means
 Lennox **error code 114** indicates an **ignition failure lockout** — the furnace attempted to ignite the burner but the flame sensor did not detect a flame within the trial-for-ignition period. After a set number of failed ignition attempts (typically 3 retries), the furnace locks out on code 114. This appears on Lennox G61MP, XC17, and other models with a digital control board display. The furnace will not attempt ignition again until manually reset. Code 114 is one of the most common Lennox service calls.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Lennox **error code 114** indicates an **ignition failure lockout** — the furn
 ## When to Call a Pro
 
 If the igniter glows, gas is confirmed, and code 114 persists after cleaning the flame sensor, the gas valve's opening pressure or the pressure switch may require adjustment — tasks that require a licensed HVAC technician with gas certification.
-
-## See Also
-
-- [Lennox Error Code 411 — Ignition Proving Fault Fix](/posts/lennox-error-code-411/)
-- [Lennox Error Code 412 — Limit Switch Fault Fix](/posts/lennox-error-code-412/)
-- [Lennox Error Code 540 — Communicating System Fault (Detailed Guide)](/posts/lennox-error-code-540-communicating/)
-- [Lennox Mini Split Error Code E1 — Causes & Fix](/posts/lennox-mini-split-error-code-e1/)
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)

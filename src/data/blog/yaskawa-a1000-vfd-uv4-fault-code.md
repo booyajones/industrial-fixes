@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 Uv4 Fault — What It Means
-
+## What this code means
 The Uv4 fault code stands for Gate Drive Board Undervoltage. The internal voltage supply to the gate drive board (the circuit that controls the IGBTs or transistors) has dropped below the specified threshold. The drive cannot properly switch the output transistors when this happens, which creates a risk of uneven switching and potential short circuits. The A1000 immediately shuts down and displays Uv4 to protect the hardware from catastrophic failure.
 
 This code is distinct from Uv1 (DC Bus Undervoltage), Uv2 (Control Power Undervoltage), or Uv3 (Soft Charge Circuit Fault). Uv4 is specific to the gate drive circuitry. The fault indicates low voltage reaching the gate drive, but the root causes are typically hardware failures or supply issues rather than a simple power dip.
@@ -24,8 +23,6 @@ This code is distinct from Uv1 (DC Bus Undervoltage), Uv2 (Control Power Undervo
 ## Before You Replace Anything
 
 Technicians sometimes replace the main power board first, but a simple voltage measurement at the gate drive board supply pins will show whether the power board is delivering correct voltage or the gate board itself has failed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified technician or industrial electrician for all Uv4 diagnostics and repair. The work requires opening the drive enclosure, which exposes high-voltage DC bus capacitors and power circuits. Even after the drive is powered down, capacitors can hold a lethal charge for several minutes. A technician will follow lockout-tagout procedures, discharge capacitors safely, and use proper test equipment to isolate the failed board. Replacing the gate drive board or main power board also requires knowledge of the drive architecture and proper ESD handling. Incorrect installation can destroy the new board or cause a fault at startup. Only attempt this repair if you are trained on high-voltage VFD service.
 
 **Rough cost:** A pro service call runs about $400-900.
-
-## See Also
-
-- [Yaskawa GA800 A.121 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-121-fault-code/)
-- [Yaskawa GA800 E19 Fault - Causes & Fix](/posts/yaskawa-ga800-e19-fault-code/)
-- [Yaskawa GA800 E65 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e65-fault-code/)
-- [Yaskawa VFD Fault GF — Causes & Fix](/posts/yaskawa-vfd-fault-gf/)

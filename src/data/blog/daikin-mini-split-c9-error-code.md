@@ -22,8 +22,7 @@ part_price: "$20-50"
 no_buy_pct: "60%"
 ---
 
-## Daikin C9 Error Code — What It Means
-
+## What this code means
 The C9 error code on a Daikin mini split signals that the suction air temperature sensor (thermistor) in the indoor unit is reading abnormal values. The system uses this sensor to detect return air temperature. When the resistance value falls outside the expected range for the current temperature, the control board cannot accurately read air temperature and will prevent the compressor and outdoor unit from starting.
 
 In non-inverter models the code is labeled as room temperature thermistor abnormality, while inverter models define it as suction air temperature sensor fault. Either way, the indoor unit becomes blind to air temperature and the AC will not cool. The system cannot operate safely without accurate temperature readings from this sensor.
@@ -31,8 +30,6 @@ In non-inverter models the code is labeled as room temperature thermistor abnorm
 ## Before You Replace Anything
 
 Many people replace the indoor PCB first when the actual problem is a disconnected wire or dirty connector at the sensor. Always test the thermistor resistance with a multimeter and inspect the wiring before replacing any circuit board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -83,10 +80,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC technician if you are uncomfortable working inside the indoor unit or testing electrical components with a multimeter. Refrigerant systems require EPA certification to service, and while the C9 code does not directly involve refrigerant, the repair requires opening the unit and working with control wiring. A pro should handle any PCB repair or replacement, especially soldering peeled foil traces. If you have tested the sensor and found it working correctly but the error persists, the indoor board circuit is likely faulty and requires professional diagnosis. Technicians have the tools to verify board signals and can source the correct replacement PCB for your model.
 
 **Rough cost:** A pro service call runs about $150-300.
-
-## See Also
-
-- [Daikin Mini Split Leaking Water - Causes & Fix](/posts/daikin-mini-split-leaking-water/)
-- [Daikin H6 Error Code - Causes & Fix](/posts/daikin-heat-pump-h6-error-code/)
-- [Daikin E8 Error Code - Causes & Fix](/posts/daikin-heat-pump-e8-error-code/)
-- [Daikin U4 Error Code — Indoor-Outdoor Communication Fix](/posts/daikin-error-code-u4/)

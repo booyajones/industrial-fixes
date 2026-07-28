@@ -17,8 +17,7 @@ money_part: "Maytag dishwasher user interface board / control panel"
 part_price: "$80-200"
 ---
 
-## Maytag Dishwasher F6E1 Error — What It Means
-
+## What this code means
 The F6E1 error on a Maytag dishwasher indicates the unit is unable to start or resume cycles. According to Maytag product help, the dishwasher will finish any cycle already running but cannot begin a new one once this code appears. This is a communication or start-enable fault within the control system, not a water-fill or drain issue.
 
 The code signals a breakdown in the logic that allows the machine to enter or continue a wash program. It typically points to a failure in the user interface board, the main control board, or the wiring that connects them. Less commonly, a door-latch problem can mimic the same symptom by preventing the machine from recognizing that it is safe to start.
@@ -26,8 +25,6 @@ The code signals a breakdown in the logic that allows the machine to enter or co
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first when the cheaper UI board or a loose wiring connector is actually at fault. Always reseat and inspect all connectors at both boards before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

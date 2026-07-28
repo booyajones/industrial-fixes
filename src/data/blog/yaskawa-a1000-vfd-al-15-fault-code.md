@@ -21,8 +21,7 @@ part_price: "$150-400"
 no_buy_pct: "60%"
 ---
 
-## Yaskawa A1000 oFA15 — What It Means
-
+## What this code means
 The oFA15 code (often misread as AL-15) means the A1000 drive has lost communication with an installed option card. This includes PG encoder cards, PID cards, or communication modules. The drive detects the slot is occupied but cannot establish an electrical connection, so it halts operation to protect the system. The fault typically appears after a mechanical vibration event, a wiring change, or random intermittent contact degradation over time.
 
 Unlike a software parameter error, oFA15 is a hardware connectivity problem. The option card must make solid electrical contact with the control board and the card must receive clean signals from any attached encoder or external device. If the card is loose, the cable is broken, or shield grounding is poor, noise or open circuits will trigger the fault.
@@ -30,8 +29,6 @@ Unlike a software parameter error, oFA15 is a hardware connectivity problem. The
 ## Before You Replace Anything
 
 Technicians often replace the option card when the real problem is a broken encoder cable or loose termination at the peckerhead terminal block. Always perform continuity testing on the cable before ordering a new card.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -82,10 +79,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or VFD technician if you are uncomfortable working inside live or recently powered industrial equipment, if the fault persists after reseating the card and checking terminations, or if you lack a multimeter and experience to test cable continuity. Professionals have known-good spare cards for swap testing and can quickly isolate whether the problem is the card, the cable, or the drive control board. If the encoder is not required for your application, a technician can reconfigure the drive parameters to run open-loop as a temporary workaround while parts are ordered.
 
 **Rough cost:** A pro service call runs about $200-500.
-
-## See Also
-
-- [Yaskawa GA800 E62 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e62-fault-code/)
-- [Yaskawa GA800 E23 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e23-fault-code/)
-- [Yaskawa GA800 A.140 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-140-fault-code/)
-- [Yaskawa GA800 E02 Fault - Causes & Fix](/posts/yaskawa-ga800-e02-fault-code/)

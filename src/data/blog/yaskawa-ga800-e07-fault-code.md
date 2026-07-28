@@ -13,11 +13,8 @@ money_part: "Yaskawa GA800 option card or analog input module"
 most_likely_cause: "Conflicting analog input parameter assignments"
 ---
 
-## Yaskawa GA800 E07 Fault — What It Means
-
+## What this code means
 The E07 fault on a Yaskawa GA800 drive is an analog input selection or configuration error. This is not a power stage or motor problem. The drive has detected an invalid or conflicting assignment in the multifunction analog input parameters. The fault sits in the control and parameter configuration layer, typically after someone changed settings, swapped an option module, or restored parameters without checking for consistency across the analog input function blocks.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,10 +43,3 @@ The E07 fault on a Yaskawa GA800 drive is an analog input selection or configura
 ## When to Call a Pro
 
 Call a qualified drive technician or integrator if you have verified the analog input parameters are set correctly for your hardware and the E07 fault still appears after a power cycle. Also call for help if you are not familiar with the GA800 parameter structure or if the drive is part of a coordinated multi-axis or process control system where an incorrect change can affect production. If your drive uses custom option cards or network modules and you are unsure which parameters correspond to your installed accessories, get support before guessing.
-
-## See Also
-
-- [Yaskawa U1000 Fault Codes: Complete Guide](/posts/yaskawa-u1000-fault-codes/)
-- [Yaskawa V1000 Complete Fault Code Guide — All Faults and Fixes](/posts/yaskawa-v1000-complete-guide/)
-- [Yaskawa GA800 E19 Fault - Causes & Fix](/posts/yaskawa-ga800-e19-fault-code/)
-- [Yaskawa GA800 E09 Fault - Causes & Fix](/posts/yaskawa-ga800-e09-fault-code/)

@@ -17,13 +17,10 @@ free_checks:
   - "Check if the manual lists a simple reset procedure for this code before calling for service"
 ---
 
-## Weil-McLain Boiler A147 Error — What It Means
-
+## What this code means
 The exact meaning of code A147 on Weil-McLain boilers is model-specific and depends on the control platform installed on your unit. Weil-McLain manufactures a wide range of residential and commercial boilers, each with its own fault code definitions documented in the installation and service manual for that model. The same code number can indicate different faults across different product lines and controllers.
 
 To identify what A147 means on your boiler, locate the model number (typically on a rating plate on the boiler jacket), then find the corresponding installation and service manual from Weil-McLain. Many Weil-McLain controllers have a contractor diagnostics menu that displays the full fault name alongside the code number and logs past error history. Accessing this menu and matching the displayed fault to the manual's troubleshooting table will give you the exact definition and prescribed corrective steps for your specific boiler.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -67,10 +64,3 @@ Answer these to narrow it down fast.
 Call a licensed heating technician immediately if you cannot locate your boiler's service manual or if the manual identifies A147 as a gas valve fault, flame sensor issue, high-limit condition, or any other safety-related fault. Weil-McLain boilers involve natural gas or propane, high-voltage electrical controls, and pressurized hot water or steam, all of which require proper training and tools to service safely. Incorrect repairs can lead to gas leaks, electrical shock, scalding, or carbon monoxide hazards. A qualified technician will have access to Weil-McLain technical support, the correct replacement parts by part number, and the diagnostic equipment needed to verify safe operation after repair. If your boiler is under warranty, professional service may be required to maintain coverage.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain A60 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a60-error-code/)
-- [Weil-McLain Boiler A152 Error - Causes & Fix](/posts/weil-mclain-boiler-a152-error-code/)
-- [Weil-McLain E02 Error Code — Causes & Fix](/posts/weil-mclain-e02-error-code/)
-- [Weil-McLain Boiler A143 Error - Causes & Fix](/posts/weil-mclain-boiler-a143-error-code/)

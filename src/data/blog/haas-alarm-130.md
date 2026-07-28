@@ -69,18 +69,3 @@ Haas VF-1 through VF-5 (low to mid-range) typically use a two-speed belt drive. 
 
 ## When to Call a Pro
 Haas Factory Outlet (HFO) service covers all Haas machines. Belt replacement is within capabilities of experienced maintenance personnel. Spindle motor replacement requires factory service. Call 1-888-817-4427.
-
-## Related Articles
-
-- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
-- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
-- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
-- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
-
-## See Also
-
-- [Haas Alarm 107 — Causes & Fix](/posts/haas-alarm-107/)
-- [Haas Alarm 113 — Spindle Encoder Fault Causes & Fix](/posts/haas-alarm-113/)
-- [Haas Alarm 124 — Causes & Fix](/posts/haas-alarm-124/)
-- [Haas CNC Alarm Codes — Complete Guide (100-Series and Up)](/posts/haas-alarm-codes/)

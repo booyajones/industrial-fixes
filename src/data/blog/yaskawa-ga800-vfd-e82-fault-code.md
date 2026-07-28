@@ -14,8 +14,7 @@ money_part: "GA800 Control Board"
 most_likely_cause: "Misread or transposed fault code"
 ---
 
-## Yaskawa GA800 E82 Fault Code — What It Means
-
+## What this code means
 The E82 fault code does not appear in available Yaskawa GA800 troubleshooting documentation or fault code tables. This means either the code displayed is being misread, the drive is from a different Yaskawa series, or the code is model-specific and not documented in standard materials. GA800 drives use alphanumeric fault codes like oH3 for motor overheat or communication alarms for network issues, but E82 is not among the verified codes for this series.
 
 Before attempting any repair, confirm the exact characters shown on the drive keypad or display. Write down the complete model number, serial number, and the fault code exactly as it appears. Check your drive's printed fault code table or the troubleshooting section of the GA800 manual. If the code still does not match, contact Yaskawa technical support with your drive's serial number and application details.
@@ -23,8 +22,6 @@ Before attempting any repair, confirm the exact characters shown on the drive ke
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board or entire drive when an unrecognized fault appears. Before ordering parts, verify the exact fault code against the official GA800 fault table and check all field wiring and parameter settings.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa-certified service provider immediately if you cannot locate the fault code in your manual or if the drive does not clear after basic wiring checks. VFD troubleshooting requires knowledge of high-voltage DC bus circuits, parameter programming, and safe isolation procedures. Incorrect diagnosis or parts replacement can damage the drive, the motor, or connected equipment. A professional can use Yaskawa's DriveWizard software to retrieve detailed fault logs, verify parameter integrity, and contact factory support for unlisted codes. They will also inspect the drive's internal components, measure DC bus voltage, and test the control board with proper test equipment before recommending parts replacement.
 
 **Rough cost:** A pro service call runs about $200–500 depending on required parts and service call.
-
-## See Also
-
-- [Yaskawa VFD Fault Codes — Complete Reference (V1000, A1000, GA700)](/posts/yaskawa-vfd-fault-codes/)
-- [Yaskawa A1000 VFD AL-29 - Causes & Fix](/posts/yaskawa-a1000-vfd-al-29-fault-code/)
-- [Yaskawa GA800 E84 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e84-fault-code/)
-- [Yaskawa GA800 E39 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e39-fault-code/)

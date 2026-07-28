@@ -13,11 +13,8 @@ money_part: "Siemens G120 Control Unit (CU)"
 most_likely_cause: "Faulty control unit or control card"
 ---
 
-## Siemens G120 F01662 — What It Means
-
+## What this code means
 F01662 on a Siemens SINAMICS G120 indicates an internal communications error inside the variable frequency drive. This fault means the drive has detected a failure in communication between its internal modules or within the control electronics themselves. It is classified as an internal fault rather than a field wiring or external sensor issue. In most cases, the fault points to a problem with the control unit or control card, though transient faults can sometimes clear after a full power cycle.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,10 +44,3 @@ F01662 on a Siemens SINAMICS G120 indicates an internal communications error ins
 ## When to Call a Pro
 
 Call a qualified Siemens technician or industrial controls specialist if the fault returns after a full power cycle, if you are unsure how to update firmware or access the fault buffer, or if control-unit replacement does not resolve F01662. This fault involves internal drive electronics and firmware that require experience with SINAMICS commissioning tools and diagnostic procedures. Siemens service or an authorized system integrator can perform factory-level diagnostics and make sure any replacement parts are correctly configured and commissioned for your application.
-
-## See Also
-
-- [Siemens G120 F01033 - Causes & Fix](/posts/siemens-g120-vfd-f01033-fault-code/)
-- [Siemens G120 F01000 - Causes & Fix](/posts/siemens-g120-vfd-f01000-fault-code/)
-- [Siemens Micromaster F0054 - Causes & Fix](/posts/siemens-micromaster-vfd-f0054-fault-code/)
-- [Siemens G120 F01018 - Causes & Fix](/posts/siemens-g120-f01018-fault-code/)

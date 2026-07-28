@@ -30,8 +30,6 @@ Key alarms in this range include:
 | 128 | Pocket not at spindle |
 | 129 | ATC general fault |
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
 - **Proximity switch misalignment or failure** — The ATC arm and carousel positions are monitored by inductive proximity sensors. If a sensor shifts slightly (from vibration or a service bump) or fails, the control cannot confirm position and faults. This is the most common hardware cause of 120-series alarms.
@@ -77,18 +75,3 @@ Key alarms in this range include:
 ## When to Call a Technician
 
 If the ATC arm is mid-stroke and the recovery menu cannot complete the arm's cycle, do not attempt to force the mechanism manually. Call Haas Factory Outlet (HFO) service — a forced recovery attempt can bend the arm, strip the gear drive, or damage the spindle, converting a $300 sensor fault into a $15,000 mechanical repair. Additionally, ATC motor and brake replacement requires removal of the ATC assembly and precise alignment during reinstallation — this is HFO service work.
-
-## Related Articles
-
-- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
-- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
-- [Haas Alarm 134 — Spindle Drive Fault Fix](/posts/haas-alarm-134-spindle-drive/)
-- [Haas CNC Alarm Codes — Complete Reference Guide](/posts/haas-alarm-codes/)
-
-## See Also
-
-- [Haas VF-4 Common Alarms Guide — What They Mean and How to Fix Them](/posts/haas-vf4-common-alarms/)
-- [Haas SL-20 Lathe Common Alarms — What They Mean and How to Fix Them](/posts/haas-sl-20-lathe-alarms/)
-- [Haas Alarm 103 Overheating — CNC Machine Thermal Fault Diagnosis and Fix](/posts/haas-alarm-103-overheating/)
-- [Haas Alarm 113 — Spindle Encoder Fault Causes & Fix](/posts/haas-alarm-113/)

@@ -20,8 +20,7 @@ free_checks:
 part_price: "$50-100"
 ---
 
-## Frigidaire Range F91 Error Code — What It Means
-
+## What this code means
 F91 is a door lock issue on Frigidaire ranges. The electronic oven control (EOC) has tried to unlock the oven door more times than allowed and still cannot confirm an unlocked condition. Frigidaire groups F90, F91, F92, F93, and F94 under the general heading of door lock faults, and F91 specifically means repeated unlock attempts have failed.
 
 The range senses that the lock mechanism has not returned to the unlocked position even after multiple cycles. This fault typically appears after a self-clean cycle or when you try to open the door and the control cannot release the lock. The oven will usually remain locked and inoperable until the fault is cleared.
@@ -29,8 +28,6 @@ The range senses that the lock mechanism has not returned to the unlocked positi
 ## Before You Replace Anything
 
 Homeowners sometimes replace the EOC (control board) first. Check the door lock assembly, switch, and wiring connections before replacing the board, because a jammed lock or loose connector is far more common than a failed EOC.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

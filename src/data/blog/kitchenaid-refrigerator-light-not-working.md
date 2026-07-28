@@ -19,8 +19,6 @@ A KitchenAid refrigerator light not working is a symptom of an interior lighting
 
 If the unit uses a traditional light bulb, a loose bulb in the socket can cause the light to fail. On LED-equipped units, the lights are LED modules rather than standard replaceable bulbs, so troubleshooting shifts to the LED module itself, the power or control board supplying it, and the harness or plug connections between components.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Auto-off timeout after doors left open** KitchenAid refrigerators turn the interior lights off automatically after the doors have been open for 10 minutes, and the light stays off until you close all doors for one minute to reset.
@@ -55,14 +53,14 @@ If the unit uses a traditional light bulb, a loose bulb in the socket can cause 
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kitchenaid Refrigerator E0 error code](/posts/kitchenaid-refrigerator-e0-error-code/)
-- [Kitchenaid Refrigerator E1 error code](/posts/kitchenaid-refrigerator-e1-error-code/)
-- [Kitchenaid Refrigerator E2 error code](/posts/kitchenaid-refrigerator-e2-error-code/)
-- [Kitchenaid Refrigerator E3 error code](/posts/kitchenaid-refrigerator-e3-error-code/)
-- [Kitchenaid Refrigerator E4 error code](/posts/kitchenaid-refrigerator-e4-error-code/)
-- [Kitchenaid Refrigerator E5 error code](/posts/kitchenaid-refrigerator-e5-error-code/)
-- [Kitchenaid Refrigerator E6 error code](/posts/kitchenaid-refrigerator-e6-error-code/)
-- [Kitchenaid Refrigerator Er error code](/posts/kitchenaid-refrigerator-er-error-code/)
+- Kitchenaid Refrigerator E0 error code
+- Kitchenaid Refrigerator E1 error code
+- Kitchenaid Refrigerator E2 error code
+- Kitchenaid Refrigerator E3 error code
+- Kitchenaid Refrigerator E4 error code
+- Kitchenaid Refrigerator E5 error code
+- Kitchenaid Refrigerator E6 error code
+- Kitchenaid Refrigerator Er error code
 
 ## When to Call a Pro
 

@@ -19,8 +19,6 @@ When your Electrolux washer won't drain, the machine is unable to pump water out
 
 Electrolux lists the root cause as a blocked drain path, dirty filter, or defective drain pump. The machine either cannot move water through the hose and pump assembly, or the control board is not detecting proper water evacuation. Most cases trace back to a physical blockage or incorrect hose installation rather than electrical failure.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged pump filter or fluff filter** Lint, coins, and small objects collect in the filter housing and block water flow to the pump impeller.

@@ -14,13 +14,10 @@ money_part: "Vending system user card"
 most_likely_cause: "Card memory at capacity"
 ---
 
-## Speed Queen EC:24 Error Code — What It Means
-
+## What this code means
 EC:24 on a Speed Queen washer displays when the machine detects insufficient memory on the user card in commercial or vended laundry systems. This is not a mechanical or sensor fault. The code appears when the card has reached its storage capacity for value or transaction records and cannot accept additional data. The washer refuses to start until the card issue is resolved. This fault is specific to card-operated commercial Speed Queen equipment and will not appear on residential models without card-reader systems.
 
 The solution involves downloading the stored card contents to the management computer or PC used with the vending system, then clearing the card so it can be reused. If clearing does not work, the card itself may need replacement or the card reader may require inspection if other card-fault codes appear alongside EC:24.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

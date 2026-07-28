@@ -21,8 +21,7 @@ part_price: "$80-150"
 no_buy_pct: "60%"
 ---
 
-## Navien E048 Error — What It Means
-
+## What this code means
 Error code E048 appears only on Navien tankless water heaters running on liquid propane (LP). It means the controller has detected that the gas pressure supplied to the burner is too low to meet the current demand for hot water. When you turn on a hot tap or multiple fixtures at once, the unit tries to fire at a higher rate to deliver the requested temperature rise. If the LP pressure cannot support that firing rate, the system throws E048 and shuts down to protect itself. This code does not appear on natural gas models.
 
 The fault typically occurs because the propane tank is nearly empty, the LP regulator is set below the required pressure (usually 11 to 13 inches of water column), or something in the gas supply line is restricting flow. Cold weather can also reduce tank pressure, especially when the tank level is low. Until the gas pressure issue is resolved, the heater will not operate at higher flow rates.
@@ -30,8 +29,6 @@ The fault typically occurs because the propane tank is nearly empty, the LP regu
 ## Before You Replace Anything
 
 Homeowners sometimes assume the gas valve or control board has failed and replace those expensive parts first. Before spending money, check the propane tank gauge and have a technician measure the actual inlet gas pressure with a manometer.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a licensed gas technician whenever you need to measure gas pressure, adjust a regulator, or replace gas supply components. Working with propane involves serious fire and explosion hazards, and most jurisdictions require a licensed professional for any work beyond checking the tank gauge and opening valves. If you have refilled the tank and confirmed all valves are open but the E048 code persists, a technician must use a manometer to diagnose whether the regulator, gas valve assembly, or supply line is at fault. They can also perform a full load test to verify the system maintains stable pressure at maximum firing rate.
 
 **Rough cost:** A pro service call runs about $150-300.
-
-## See Also
-
-- [Navien E615 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e615-error-code/)
-- [Navien E004 Error Code - Causes & Fix](/posts/navien-tankless-e004-error-code/)
-- [Navien E008 Error Code - Causes & Fix](/posts/navien-tankless-e008-error-code/)
-- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)

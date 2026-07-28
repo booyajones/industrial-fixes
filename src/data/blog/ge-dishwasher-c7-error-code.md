@@ -17,8 +17,7 @@ money_part: "GE dishwasher water temperature sensor / thermistor"
 part_price: "$25-75"
 ---
 
-## GE Dishwasher C7 Error Code — What It Means
-
+## What this code means
 The C7 error code on a GE dishwasher indicates a temperature sensor fault. The control board is not receiving a valid signal from the water temperature sensor or its wiring circuit. This is not a drain or wash fault but rather a specific sensor and circuit problem.
 
 The fault can be triggered by a failed sensor, damaged wiring, corroded or loose connector terminals, or in rare cases a faulty control board input. The dishwasher will not run a normal cycle until the sensor circuit is restored.
@@ -26,8 +25,6 @@ The fault can be triggered by a failed sensor, damaged wiring, corroded or loose
 ## Before You Replace Anything
 
 Many homeowners replace the main control board first. Instead, inspect the sensor connector for browned or loose terminals and test the wiring before replacing any electronic boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

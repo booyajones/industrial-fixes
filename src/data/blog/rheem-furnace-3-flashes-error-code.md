@@ -14,13 +14,10 @@ money_part: "High limit switch"
 most_likely_cause: "Restricted airflow from dirty filter or blocked return"
 ---
 
-## Rheem Furnace 3 Flashes — What It Means
-
+## What this code means
 On Rheem gas furnaces, a 3-flash (3-blink) error code indicates the limit control circuit is open. The furnace control has detected an open safety limit and shut the unit down to prevent overheating. This is not a pressure switch issue (that is a different code). Rheem's official documentation ties this code to conditions that cause excessive temperature rise in the heat exchanger, triggering the high-limit safety or rollout switches to open the circuit.
 
 The furnace will not restart until the safety circuit closes and the root cause is corrected. Limit switches are designed to protect the heat exchanger from damage caused by inadequate airflow, blocked venting, or overfiring. Once tripped, the furnace remains locked out until the problem is resolved and any manual-reset switches are physically reset.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -52,10 +49,3 @@ The furnace will not restart until the safety circuit closes and the root cause 
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you have replaced the air filter and reset any tripped rollout switches but the 3-flash code returns immediately, if you are not comfortable working with gas appliances or electrical circuits, or if you do not have a manometer and multimeter to measure manifold pressure and test limit-circuit continuity. A technician should also investigate any rollout-switch trip, because that indicates a serious combustion or venting problem that can produce carbon monoxide if left uncorrected. If you see soot, rust, or cracks in the heat exchanger, or if the vent pipe shows signs of condensation or corrosion, stop using the furnace and call for service right away.
-
-## See Also
-
-- [Rheem RTEX Electric Tankless Water Heater Error Codes](/posts/rheem-rtex-electric-tankless-error-codes/)
-- [Rheem EcoNet A101 Error Code — Causes & Fix](/posts/rheem-econet-a101-error-code/)
-- [Rheem RA16 Heat Pump Error Codes — Flash Code Diagnostic Guide](/posts/rheem-ra16-heat-pump-error-codes/)
-- [Rheem Furnace 7 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-error-code-7-flashes/)

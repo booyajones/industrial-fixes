@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## KitchenAid Oven F9 Error Code — What It Means
-
+## What this code means
 KitchenAid lists F9 or F9 E0 as indicating that the electrical outlet or electrical connection may be miswired. On electric wall ovens and ranges, the code will most often indicate that the appliance is wired incorrectly at the home electrical supply or at the hard-wire connection. KitchenAid specifically highlights the need to check that L2 and neutral (N) are not swapped at the terminal block.
 
 In some cases, the code appears after a power outage or voltage anomaly, when unexpected power-line noise is interpreted as an incorrect voltage condition. Pressing control keys before the 10-second power-up delay completes can also trigger the fault on certain models. If the code persists after supply wiring is verified, the fault may point to a damaged harness, loose connector, or control board issue, but KitchenAid's own guidance emphasizes supply wiring first.
@@ -25,8 +24,6 @@ In some cases, the code appears after a power outage or voltage anomaly, when un
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when the real issue is a swapped L2 and neutral wire at the terminal block. Always verify the supply wiring and terminal connections with a qualified electrician before replacing electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

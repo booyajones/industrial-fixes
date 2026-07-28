@@ -16,8 +16,7 @@ money_part: "Humidity sensor (Samsung refrigerator)"
 part_price: "$30-80"
 ---
 
-## Samsung E-13 Error Code — What It Means
-
+## What this code means
 The Samsung E-13 error code appears on certain Samsung refrigerator models and indicates a humidity sensor error. The control board is not receiving a valid signal from the humidity sensor, which monitors moisture levels inside the refrigerator compartment. This code is model-specific and not universal across all Samsung appliances. If you see E-13 on a different Samsung product (dryer, washer, dishwasher), the meaning may differ and you should check that model's service documentation or wiring diagram.
 
 The humidity sensor circuit includes the sensor itself, the wiring harness between the sensor and the main control board, and the input circuitry on the board. When any part of this chain fails or sends an out-of-range signal, the control will log E-13 and may affect cooling performance or defrost cycles. Samsung error codes vary by appliance family and model year, so always verify your exact model number before ordering parts.
@@ -25,8 +24,6 @@ The humidity sensor circuit includes the sensor itself, the wiring harness betwe
 ## Before You Replace Anything
 
 Many people replace the main control board first when they see a sensor error code. Always inspect the sensor connector for corrosion or loose pins and test the sensor itself before spending money on a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

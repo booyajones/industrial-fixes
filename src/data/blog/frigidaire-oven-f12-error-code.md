@@ -17,8 +17,7 @@ money_part: "User interface board / touch panel assembly"
 part_price: "$50-200"
 ---
 
-## Frigidaire Oven F12 Error Code — What It Means
-
+## What this code means
 The F12 code on Frigidaire electric ranges and cooktops is officially labeled as a "Micro Identification" fault. In practical terms, it signals a communication or identification problem between the keypad or user interface and the main electronic oven control (EOC) board. The control system cannot properly recognize or communicate with the keypad during startup or operation. Frigidaire's own guidance directs owners to reset power first and, if the code returns, to call for service or contact the installer if the unit is within 30 days of installation.
 
 This fault can appear immediately when you restore power to the oven or only when you press certain buttons. It does not indicate a heating element, sensor, or baking problem. Instead, it points to the control electronics that manage the user interface. The code often results from a temporary glitch after a power surge, a stuck or shorted button on the control panel, a failed user interface board, a failed main control board, or a poor connection between the two.
@@ -26,8 +25,6 @@ This fault can appear immediately when you restore power to the oven or only whe
 ## Before You Replace Anything
 
 Many owners replace the main control board (EOC) first when the real culprit is a stuck or shorted button on the control panel. Always inspect the keypad for physical sticking and test by pressing each button before ordering a new control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

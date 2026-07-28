@@ -13,11 +13,8 @@ money_part: "Input fuses"
 most_likely_cause: "Blown input fuse"
 ---
 
-## ABB ACS355 Fault 3130 — What It Means
-
+## What this code means
 The ABB ACS355 is a general-purpose variable frequency drive designed for pump, fan, compressor, and conveyor applications. Fault 3130 (INPUT PHASE LOSS) means the drive has detected a missing or severely unbalanced phase on its three-phase supply input. The ACS355 monitors the DC bus ripple — when one input phase is lost, the bus ripple increases dramatically because the drive is now rectifying only two phases. When ripple exceeds the fault threshold, the drive trips on 3130 to prevent damage to the rectifier bridge and bulk capacitors.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,18 +43,3 @@ The ABB ACS355 is a general-purpose variable frequency drive designed for pump, 
 ## When to Call a Pro
 
 If all three supply phases are confirmed present and balanced at the panel but fault 3130 still appears at the drive, the rectifier input section of the drive may be damaged. This requires an ABB-certified technician or drive repair shop to diagnose and repair at the board level.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS550 AF10 Fault — Causes & Fix](/posts/abb-acs550-af10-heatsink/)
-
-## See Also
-
-- [ABB VFD Fault 3300 — Causes & Fix](/posts/abb-vfd-fault-3300/)
-- [ABB ACS880 Fault 2310 - Overcurrent Diagnosis and Fix](/posts/abb-acs880-fault-2310/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS880 Fault 2310 Overcurrent — Causes & Fix](/posts/abb-acs880-fault-2310-overcurrent/)

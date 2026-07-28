@@ -13,13 +13,10 @@ money_part: "Siemens G120 Control Unit (CU)"
 most_likely_cause: "Reference parameter changed to incompatible value"
 ---
 
-## Siemens G120 F01034 — What It Means
-
+## What this code means
 F01034 on a Siemens SINAMICS G120 indicates that the drive accepted a parameter change to a reference value, but one or more related parameters could not be recalculated correctly in per-unit format. The drive responds by rejecting the change and restoring the original parameter value. This is a parameterization or engineering fault, not an overcurrent, ground fault, or power-stage failure.
 
 The fault triggers when a reference parameter tied to the drive's internal scaling is changed to an incompatible value that cannot be converted cleanly in the per-unit system. The drive's internal calculations depend on consistent reference values across linked parameters, and when a new value breaks that consistency, the conversion fails and the fault is raised.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ The fault triggers when a reference parameter tied to the drive's internal scali
 ## When to Call a Pro
 
 Call a qualified Siemens drive technician if you are not familiar with Startdrive or SINAMICS parameter structures, or if the fault repeats after you have restored original reference values and re-downloaded a known-good parameter set. If the Control Unit replacement is indicated and you do not have experience with G120 commissioning and parameter backup, professional service will prevent data loss and configuration errors during the swap.
-
-## See Also
-
-- [Siemens G120 F01033 - Causes & Fix](/posts/siemens-g120-f01033-fault-code/)
-- [Siemens SINAMICS V20 F1 Fault — Causes & Fix](/posts/siemens-sinamics-v20-f1-fault/)
-- [Siemens SENTRON 3WL/3VA Fault Codes — Troubleshooting Guide](/posts/siemens-sentron-fault-codes/)
-- [Siemens G120 F03505 - Causes & Fix](/posts/siemens-g120-f03505-fault-code/)

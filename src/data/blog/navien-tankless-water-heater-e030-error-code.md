@@ -13,11 +13,8 @@ money_part: "Navien cold-water inlet filter"
 most_likely_cause: "Blocked or restricted exhaust venting"
 ---
 
-## Navien E030 Error Code — What It Means
-
+## What this code means
 The E030 code on a Navien tankless water heater indicates an exhaust overheat condition. The unit has detected flue or exhaust gas temperature above its shutdown limit of 149°F (65°C) and has stopped operation to protect itself. This safety fault means something is preventing normal heat dissipation, either by restricting exhaust airflow or by limiting water flow through the heat exchanger. The heater will remain off until the problem is corrected and the system cools down.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,10 +45,3 @@ The E030 code on a Navien tankless water heater indicates an exhaust overheat co
 ## When to Call a Pro
 
 Call a licensed technician if the E030 error returns after you have cleared the inlet filter and confirmed the vent is open and correctly installed. Persistent overheat faults usually point to internal heat exchanger scaling that requires a professional descaling service or to a venting design problem that needs correction to meet code. A technician can also measure exhaust temperature directly, inspect the internal combustion and airflow path, and determine whether the heat exchanger has reached the end of its service life in hard-water areas.
-
-## See Also
-
-- [Navien Tankless Igniter/Flame Rod Replacement - Signs & How-To](/posts/navien-water-heater-igniter-ignition-electrode-tankless-replacement/)
-- [Navien Water Heater No Hot Water - Causes & Fix](/posts/navien-water-heater-no-hot-water/)
-- [Navien E005 Error Code - Causes & Fix](/posts/navien-tankless-e005-error-code/)
-- [Navien E594 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e594-error-code/)

@@ -17,13 +17,10 @@ free_checks:
   - "Locate your installation manual and look up A119 in the fault-code table for your specific control board."
 ---
 
-## Weil-McLain Boiler A119 Error — What It Means
-
+## What this code means
 A119 is not confirmed as a standard fault code in Weil-McLain's published documentation. The exact meaning depends on your specific boiler model, series, and the control board installed on your unit. Weil-McLain boilers use different control platforms across their product lines, and each has its own fault-code table. Without the model number, CP barcode, and control manual, A119 cannot be reliably decoded.
 
 Weil-McLain directs users to identify the exact model and serial number (found on the barcode sticker on the jacket or inside the jacket on models such as Ultra) and to consult the installation and service manual for that specific boiler. If your display shows A119, write down the full model name and control board type, then check the fault-code section of your owner's manual or contact a licensed heating contractor who can access the manufacturer's technical bulletins for your appliance.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -70,10 +67,3 @@ Answer these to narrow it down fast.
 Call a licensed heating professional immediately if your Weil-McLain boiler displays A119 and you cannot find that code in your manual. Boilers involve gas, high-voltage ignition, and safety controls that require proper diagnostics and code compliance. A technician will use the correct service documentation for your model and control platform to decode the fault, test the affected circuit, and replace the failed component safely. Do not attempt to bypass safety limits or replace parts by guessing. Weil-McLain's warranty and parts-lookup systems depend on accurate model identification and failed-part documentation, so a qualified contractor is the fastest and safest route to a reliable repair.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Weil-McLain A18 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a18-error-code/)
-- [Weil-McLain A125 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a125-error-code/)
-- [Weil-McLain Boiler A55 Error - Causes & Fix](/posts/weil-mclain-boiler-a55-error-code/)
-- [Weil-McLain Boiler A78 Error - Causes & Fix](/posts/weil-mclain-boiler-a78-error-code/)

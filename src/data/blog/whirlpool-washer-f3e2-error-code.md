@@ -17,8 +17,7 @@ money_part: "Whirlpool washer temperature sensor / thermistor"
 part_price: "$15-50"
 ---
 
-## Whirlpool Washer F3E2 Error Code — What It Means
-
+## What this code means
 The F3E2 code on Whirlpool washers signals a water-temperature sensing fault. The control board expects a valid temperature reading from the thermistor (temperature sensor) in the heater or tub circuit and flags F3E2 when that signal is missing or out of range.
 
 This is a washer-specific code. Do not confuse it with the F3E2 code on Whirlpool commercial dryers, which refers to a moisture sensor problem. On washers, F3E2 always points to the water-temperature sensor circuit.
@@ -26,8 +25,6 @@ This is a washer-specific code. Do not confuse it with the F3E2 code on Whirlpoo
 ## Before You Replace Anything
 
 Many people replace the main control board first. Always test the thermistor resistance with a multimeter and inspect the harness for broken wires before replacing the control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

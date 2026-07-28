@@ -22,8 +22,6 @@ Gas and electric water heaters fail in different ways. A gas unit typically lose
 
 This guide covers both tank and tankless systems so you can diagnose the problem without calling a plumber for simple fixes.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
 - **Pilot light is out (gas).** The most common cause on gas water heaters. A draft, dirty pilot orifice, or failed thermocouple can extinguish the flame.

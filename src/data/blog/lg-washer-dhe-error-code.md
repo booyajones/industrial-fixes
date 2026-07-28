@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "LG washer-dryer heater element (drying heater assembly)"
 ---
 
-## LG Washer dHE Error Code — What It Means
-
+## What this code means
 LG states that the dHE error code is caused by a temporary dry function error on washer-dryer combination units. The code appears when the drying or heating circuit does not complete its expected sequence during the dry portion of a cycle. LG's consumer troubleshooting is limited to power-cycling the machine, unplugging for about ten seconds, restoring power, and restarting the cycle. If the code persists after a reset, LG directs the unit to service rather than offering additional user-level fixes.
 
 For technicians, dHE points to a problem in the drying side of the machine, not the wash side. The fault is typically in the heater circuit, temperature-sensing circuit, wiring, or control relay that manages the dry function. Field repairs focus on the heater element, thermostat, thermal fuse, connectors, and the PCB relay that powers the heater.
@@ -25,8 +24,6 @@ For technicians, dHE points to a problem in the drying side of the machine, not 
 ## Before You Replace Anything
 
 Homeowners often assume the main control board is bad and replace it first. Before ordering a board, test the heater element with a multimeter for continuity and inspect all wiring and connectors to the heater for damage or looseness.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a qualified appliance technician if you are not comfortable working with the washer unplugged and disassembled, or if you do not own a multimeter and cannot safely test the heater circuit. Washer-dryer combo units can have high-voltage heater circuits (up to 220 V AC in some models), and incorrect testing or reassembly can create shock or fire hazards. If you have replaced the heater element and tested all safety devices but the dHE code still appears, the main control board or heater relay likely needs professional diagnosis and replacement.
-
-## See Also
-
-- [LG Washer PF Error Code - Causes & Fix](/posts/lg-washer-pf-error-code/)
-- [LG Mini Split CH02 Error Code — Causes & Fix](/posts/lg-mini-split-ch02-error-code/)
-- [LG Refrigerator Water Dispenser Not Working - Causes & Fix](/posts/lg-refrigerator-water-dispenser-not-working/)
-- [LG Microwave Won't Start - Causes & Fix](/posts/lg-microwave-wont-start/)

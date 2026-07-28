@@ -18,8 +18,7 @@ free_checks:
   - "Inspect the wiring harness and mullex plug at the cold water inlet thermistor for loose or corroded connections"
 ---
 
-## Navien E033 Error Code — What It Means
-
+## What this code means
 Error code E033 on a Navien tankless water heater indicates a Cold Water Inlet Thermistor 2 open or short fault. The control board has detected that the resistance signal from the secondary cold water temperature sensor is outside the valid operating range, meaning the sensor is either disconnected (open circuit) or internally shorted. This sensor is critical for the unit to calculate the temperature rise and modulate the gas valve correctly. Without a valid reading from Thermistor 2, the unit cannot safely heat water and will shut down.
 
 The fault is usually triggered by a failed thermistor sensor itself, but can also result from loose or corroded wiring connections at the sensor terminals or the main PCB, or from a damaged wire harness. In rare cases, the main control board's input circuit may be faulty, though the sensor and its connections are the primary suspects. The code may appear alongside E032, which covers similar cold water thermistor faults.
@@ -27,8 +26,6 @@ The fault is usually triggered by a failed thermistor sensor itself, but can als
 ## Before You Replace Anything
 
 Some technicians replace the main control board first, assuming a board fault. Always test the thermistor resistance with a multimeter and inspect the wiring harness before ordering a new PCB, which is far more expensive than a sensor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified technician for this repair. Navien tankless water heaters involve gas connections, electrical diagnostics on the control board, and precise sensor replacement. Misdiagnosing the fault can lead to unsafe operation or damage to the unit. A technician will have the proper multimeter, service manual resistance tables, and access to correct replacement parts through Navien. If your unit is under warranty, contact Navien Technical Support at 800-519-8794 before attempting any repair, as DIY work may void coverage. The technician can also verify that no other faults are present and that the gas valve modulation is working correctly after the sensor is replaced.
 
 **Rough cost:** A pro service call runs about $200-400 including parts and labor.
-
-## See Also
-
-- [Navien 406 Error Code - Causes & Fix](/posts/navien-tankless-alarm-406-error-code/)
-- [Navien E002 Error Code - Causes & Fix](/posts/navien-tankless-e002-error-code/)
-- [Navien E032 Error - Causes & Fix](/posts/navien-tankless-e032-error-code/)
-- [Navien Error Code E010 — Causes & Fix](/posts/navien-error-code-e010/)

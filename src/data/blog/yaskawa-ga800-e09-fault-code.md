@@ -13,13 +13,10 @@ money_part: "Motor coupling or belt"
 most_likely_cause: "Acceleration time set too short"
 ---
 
-## Yaskawa GA800 E09 Fault — What It Means
-
+## What this code means
 The E09 fault on a Yaskawa GA800 drive is an acceleration error. It means the drive commanded the motor to accelerate, but the motor did not reach the expected speed within the programmed acceleration time. The drive detected that the motor failed to follow the speed ramp and triggered the fault to protect the system.
 
 This fault does not point to a single failed component. Instead, it signals a mismatch between what the drive expects and what the motor and load are physically able to do. Common real-world causes include a mechanical problem preventing the motor from spinning up, an acceleration setting that is too aggressive for the load, or a motor-tuning issue that leaves the drive with inaccurate expectations.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ This fault does not point to a single failed component. Instead, it signals a mi
 ## When to Call a Pro
 
 Call a qualified technician or contact Yaskawa support if the E09 fault returns after you have increased the acceleration time, verified the load moves freely, and re-run auto-tuning. Persistent acceleration errors can indicate a motor that is undersized for the application, a drive with internal faults, or complex tuning and parameter issues that require in-depth knowledge of the GA800 control algorithms. Yaskawa's own troubleshooting documentation recommends escalating with full drive identification and fault history when standard field corrections do not resolve the problem.
-
-## See Also
-
-- [Yaskawa GA800 E11 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e11-fault-code/)
-- [Yaskawa GA800 E25 Fault - Causes & Fix](/posts/yaskawa-ga800-e25-fault-code/)
-- [Yaskawa GA800 E08 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e08-fault-code/)
-- [Yaskawa VFD Fault LF — Causes & Fix](/posts/yaskawa-vfd-fault-lf/)

@@ -13,11 +13,8 @@ money_part: "Yaskawa control board (PCB)"
 most_likely_cause: "Power interruption during parameter write"
 ---
 
-## Yaskawa VFD Fault ER — What It Means
-
+## What this code means
 The ER fault on a Yaskawa drive (G7, F7, E7, A1000, V1000 series) indicates an EEPROM error. The drive's non-volatile memory (EEPROM) stores all parameter settings and configuration data. When the drive detects a checksum mismatch, read/write failure, or data corruption in the EEPROM, it throws an ER fault and typically defaults to factory parameters or halts operation. The drive cannot run reliably without valid stored parameters.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,18 +43,3 @@ The ER fault on a Yaskawa drive (G7, F7, E7, A1000, V1000 series) indicates an E
 ## When to Call a Pro
 
 EEPROM failures that do not respond to initialization indicate a hardware fault. A Yaskawa-authorized technician can replace the control board and verify correct firmware and parameter configuration for your application.
-
-## Related Articles
-
-- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
-- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
-- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
-- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
-- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)
-
-## See Also
-
-- [Yaskawa V1000 Complete Fault Code Guide — All Faults and Fixes](/posts/yaskawa-v1000-complete-guide/)
-- [Yaskawa Sigma-7 SGD7S Servo Drive Alarm Codes — Diagnosis & Fix](/posts/yaskawa-sigma7-sgd7s-alarm-codes/)
-- [Yaskawa VFD Fault PF — Causes & Fix](/posts/yaskawa-vfd-fault-pf/)
-- [Yaskawa VFD Fault LF — Causes & Fix](/posts/yaskawa-vfd-fault-lf/)

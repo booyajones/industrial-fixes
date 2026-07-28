@@ -21,8 +21,7 @@ part_price: "$25-50"
 no_buy_pct: "75%"
 ---
 
-## Samsung SE Error Code — What It Means
-
+## What this code means
 The SE error code (sometimes displayed as 5E on older digital panels where the digit looks like the letter S) tells you the washer has detected a slow-draining fault. The control board has determined that water is not leaving the tub at the expected rate during the drain cycle. The machine will pause, stop the cycle, and display the code to alert you before attempting to restart.
 
 Samsung explicitly states that SE or 5E indicates a drain problem where the washer cannot remove water fast enough. This is almost always a mechanical blockage or installation error, not a failed pump motor. The fault triggers when the pump runs but water level stays too high for too long.
@@ -30,8 +29,6 @@ Samsung explicitly states that SE or 5E indicates a drain problem where the wash
 ## Before You Replace Anything
 
 Many people replace the drain pump motor first, but over 90% of SE codes are fixed by cleaning the pump filter or clearing a kinked hose. Always clean the filter and check hose routing before ordering a new pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

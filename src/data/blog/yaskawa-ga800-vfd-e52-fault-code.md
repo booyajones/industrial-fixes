@@ -15,8 +15,7 @@ diy_or_pro: "pro"
 money_part: "Magnetic contactor (main circuit)"
 ---
 
-## Yaskawa GA800 E52 Fault — What It Means
-
+## What this code means
 E52 on a Yaskawa GA800 VFD is an undervoltage fault. The drive has detected that the DC bus voltage or incoming supply dropped below the allowable operating range, so it trips to protect itself and the motor from damage. In practical terms, the drive did not see sufficient input voltage to continue normal operation and issued a protective stop.
 
 This fault is tied to unstable or insufficient input power voltage reaching the drive. It can happen during acceleration, under heavy load, or when upstream power components fail or cycle intermittently. The drive will not restart until the underlying power problem is corrected and the fault is cleared.
@@ -24,8 +23,6 @@ This fault is tied to unstable or insufficient input power voltage reaching the 
 ## Before You Replace Anything
 
 Technicians sometimes replace the drive itself without checking upstream power. Always verify incoming line voltage under load and inspect the main-circuit contactor for chatter or weak coil voltage before considering drive replacement.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or VFD technician if you are not comfortable working with three-phase power, measuring line voltage under load, or diagnosing contactor and upstream wiring issues. If incoming power and the contactor are confirmed good but the fault persists, the problem may be internal to the drive and requires Yaskawa technical support or a certified service center with access to the GA800 maintenance manual and parts list. High-voltage troubleshooting and drive-level repair should always be performed by trained personnel with proper test equipment and safety procedures.
 
 **Rough cost:** A pro service call runs about $200–600 depending on whether repair is upstream wiring, contactor replacement, or drive-level service.
-
-## See Also
-
-- [Yaskawa GA800 E01 Fault - Motor Data Error During Auto-Tune](/posts/yaskawa-ga800-e01-fault-code/)
-- [Yaskawa GA800 E90 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e90-fault-code/)
-- [Yaskawa GA800 E91 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e91-fault-code/)
-- [Yaskawa GA800 E28 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e28-fault-code/)

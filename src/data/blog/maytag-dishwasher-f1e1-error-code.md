@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Dishwasher drain hose (universal or model-specific)"
 ---
 
-## Maytag Dishwasher F1E1 Error — What It Means
-
+## What this code means
 The F1E1 code is a drain-sequence fault. Your Maytag dishwasher begins the drain sequence normally, but then stops and will not continue operating once F1E1 appears on the display. The manufacturer's guidance points to issues related to drain installation, siphoning, water supply, or a stuck overfill protection float.
 
 The code is not a simple clog. It signals that the dishwasher started to drain but encountered a condition that prevents it from moving forward in the wash cycle. The most common root cause is incorrect drain hose installation that allows water to siphon out of the tub, confusing the control into thinking the unit is still draining or has a fill problem.
@@ -25,8 +24,6 @@ The code is not a simple clog. It signals that the dishwasher started to drain b
 ## Before You Replace Anything
 
 Homeowners often replace the control board or drain pump first. Before ordering parts, check the drain hose loop height (must be at least 20 inches above the floor) and verify the float moves freely. These simple installation checks fix most F1E1 faults at no cost.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

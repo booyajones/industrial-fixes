@@ -20,8 +20,6 @@ When your Whirlpool gas oven burner won't light, the appliance is not initiating
 
 If your control panel displays F9 or F9 E0, Whirlpool identifies that as an incorrect voltage condition or a miswired electrical supply or connection. Most gas ignition failures trace back to a broken igniter, spark electrode, power supply problem, or control issue.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed gas igniter** Whirlpool lists a broken gas igniter as one of the most common reasons a gas oven will not light or work.
@@ -58,7 +56,7 @@ If your appliance also shows a code on the display, these match this problem:
 
 - [Whirlpool Oven A6 error code](/posts/whirlpool-oven-a6-error-code/)
 - [Whirlpool Oven Ab error code](/posts/whirlpool-oven-ab-error-code/)
-- [Whirlpool Oven Cal error code](/posts/whirlpool-oven-cal-error-code/)
+- Whirlpool Oven Cal error code
 - [Whirlpool Oven F1 E0 error code](/posts/whirlpool-oven-f1-e0-error-code/)
 - [Whirlpool Oven F1 E1 error code](/posts/whirlpool-oven-f1-e1-error-code/)
 - [Whirlpool Oven F2 E0 error code](/posts/whirlpool-oven-f2-e0-error-code/)

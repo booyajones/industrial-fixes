@@ -19,8 +19,6 @@ A GE washer that stops mid-cycle is rarely tied to a single universal fault code
 
 GE's diagnostic systems use multiple codes to identify what stopped the cycle. The actual fault depends on your model and the component that triggered the stop. Reset and basic load checks solve most cases before you need to retrieve codes or replace parts.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Unbalanced load or washer not level** An off-balance load or a unit sitting unevenly on the floor triggers the imbalance sensor, stopping the spin to prevent damage.
@@ -54,7 +52,7 @@ GE's diagnostic systems use multiple codes to identify what stopped the cycle. T
 
 Seeing a code on the display? These match this problem:
 
-- [Ge Washer E23 error code](/posts/ge-washer-e23-error-code/)
+- Ge Washer E23 error code
 
 ## When to Call a Pro
 

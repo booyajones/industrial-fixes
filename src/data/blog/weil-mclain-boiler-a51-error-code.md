@@ -19,8 +19,7 @@ free_checks:
   - "Look for visible blockage or ice at the outdoor vent termination and combustion air intake"
 ---
 
-## Weil-McLain A51 Error Code — What It Means
-
+## What this code means
 A51 on a Weil-McLain boiler signals an ignition or lighting failure. The control attempted to light the burner but flame was not proven or the unit did not successfully establish ignition. The exact meaning can vary slightly by series and control platform, so always check your model-specific manual for the precise definition.
 
 When A51 appears, the boiler has locked out because it could not detect flame during the ignition sequence. This can happen on first lightoff, after the pre-purge cycle, or after multiple retry attempts. The control is protecting the system from unsafe operation until the fault is corrected and the lockout is manually reset.
@@ -28,8 +27,6 @@ When A51 appears, the boiler has locked out because it could not detect flame du
 ## Before You Replace Anything
 
 Many people replace the ignition control board when the real problem is a contaminated flame sensor or blocked vent. Always inspect and clean the flame sensor and check combustion air and venting before replacing any circuit board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -80,10 +77,3 @@ Answer these to narrow it down fast.
 Call a qualified heating technician for any A51 error. Diagnosis requires observing the ignition sequence, measuring flame-signal current or voltage, testing gas pressure at the valve, and inspecting venting and combustion air paths. All of these tasks involve live gas, line voltage, and sealed combustion systems that are unsafe for homeowners to troubleshoot. A technician will use the model-specific manual to identify the exact cause, clean or replace the failed component, and verify safe operation through multiple cycles. Do not attempt repeated manual resets or bypass any safety controls. If you smell gas or see repeated lockouts, turn off the gas supply and call for service immediately.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Weil-McLain A102 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a102-error-code/)
-- [Weil-McLain Boiler A124 Error - Causes & Fix](/posts/weil-mclain-boiler-a124-error-code/)
-- [Weil-McLain A154 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a154-error-code/)
-- [Weil-McLain A106 Error - Causes & Fix](/posts/weil-mclain-boiler-a106-error-code/)

@@ -13,13 +13,10 @@ money_part: "ABB safety relay (compatible model for STO)"
 most_likely_cause: "Open or disconnected STO wiring"
 ---
 
-## ABB ACS580 A5A0 Fault — What It Means
-
+## What this code means
 A5A0 on an ABB ACS580 drive means the Safe Torque Off (STO) function is active. The drive has lost the safety-circuit signal(s) on the STO connector, so it has disabled the motor and will not allow a start command until the STO inputs are restored and the fault is reset. STO is a hardware safety feature that de-energizes motor torque when external safety devices (like an E-stop, door switch, or safety relay) open the STO circuit.
 
 The fault appears on the drive display when one or both STO channels are not energized. ABB's fault-tracing table identifies the cause as lost safety-circuit signals and directs you to check the safety circuit connections. The drive will remain in this faulted state until you restore the STO input wiring or external safety device and clear the fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ The fault appears on the drive display when one or both STO channels are not ene
 ## When to Call a Pro
 
 Call a qualified technician or ABB service if you have verified all external wiring, jumpers, and safety devices and the A5A0 fault still appears. Internal STO circuit board failure or complex safety-system integration issues require factory-trained diagnostics and replacement parts that are not field-serviceable. Also call a pro if your facility uses a certified safety system (Category 3 or 4) and you are not trained to work on machine-safety circuits, since improper changes can create hazards or violate safety standards.
-
-## See Also
-
-- [ABB ACS580 A3D0 Fault Code - Causes & Fix](/posts/abb-acs580-a3d0-fault-code/)
-- [ABB VFD Fault 2310 — Causes & Fix](/posts/abb-vfd-fault-2310/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-- [ABB Tmax/Emax Circuit Breaker Fault Codes - Complete Guide](/posts/abb-circuit-breaker-fault-codes/)

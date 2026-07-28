@@ -15,11 +15,8 @@ money_part: "Input fuses"
 most_likely_cause: "One input phase is missing"
 ---
 
-## Allen-Bradley PowerFlex 40 F3 Fault — What It Means
-
+## What this code means
 An **F3 fault** on an Allen-Bradley PowerFlex 40 means the drive detected an input power loss condition. On single-phase units this usually means low or unstable incoming voltage. On three-phase systems it commonly points to **phase loss**, a bad input connection, or blown upstream fuse.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,18 +46,3 @@ An **F3 fault** on an Allen-Bradley PowerFlex 40 means the drive detected an inp
 ## When to Call a Pro
 
 If line voltage is stable and balanced but F3 still trips, the drive's rectifier or internal power supply may be failing. At that point, replacement is usually faster than board-level repair.
-
-## Related Articles
-
-- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
-- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
-- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
-- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)
-- [Allen-Bradley PowerFlex 4M Fault Codes — F2, F4, F5, F7, F12 Fix Guide](/posts/allen-bradley-powerflex-4m-fault-codes/)
-
-## See Also
-
-- [Allen-Bradley PowerFlex Fault F012 — Causes & Fix](/posts/allen-bradley-powerflex-fault-f012/)
-- [Allen-Bradley PowerFlex 525 Fault F003 - What It Means and How to Fix It](/posts/allen-bradley-powerflex-525-fault-f003/)
-- [Allen-Bradley PowerFlex F091 Fault — Encoder Loss Fix](/posts/allen-bradley-powerflex-f091-fault/)
-- [Allen-Bradley PowerFlex Fault F002 — Causes & Fix](/posts/allen-bradley-powerflex-fault-f002/)

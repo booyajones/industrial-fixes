@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Drain hose"
 ---
 
-## Frigidaire Washer EF2 Error Code — What It Means
-
+## What this code means
 EF2 on a Frigidaire front-load washer is a suds-related fault code that means the control has detected excessive foam during the wash process. The code is defined in Frigidaire service references as 'too much soap' or 'too much suds.' It is not a drain-pump failure code. The washer detects a suds condition that interferes with normal washing, rinsing, or draining.
 
 The code usually appears when you use too much detergent, use standard (non-HE) detergent in a high-efficiency washer, or when detergent buildup from repeated overdosing creates persistent foam. Occasionally the code appears if a cycle was interrupted before rinse and drain actions had time to clear suds from a previous load. Soft water combined with normal detergent doses can also produce heavy foam that triggers EF2.
@@ -25,8 +24,6 @@ The code usually appears when you use too much detergent, use standard (non-HE) 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the drain pump or pressure sensor thinking EF2 is a drain fault. Before buying parts, simply inspect the tub for visible foam and review how much detergent you are using. Clearing the suds and reducing detergent dose solves the code in the majority of cases.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

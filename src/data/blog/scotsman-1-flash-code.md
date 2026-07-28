@@ -112,11 +112,4 @@ A: Possible but unlikely. More likely you pinched the capillary during reassembl
 **Related:** [Manitowoc HPCO high pressure cutout](/posts/manitowoc-hpco-error-code/)
 
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Hoshizaki E2 long freeze cycle fix](/posts/hoshizaki-e2-error-code/)
-
-## See Also
-
-- [Scotsman 3-Flash Code — Long Harvest Cycle Fix](/posts/scotsman-3-flash-code/)
-- [Scotsman Ice Machine Error Code 4 — Causes & Fix](/posts/scotsman-ice-machine-error-code-4/)
-- [Scotsman Ice Machine Error Code 7 — Causes & Fix](/posts/scotsman-ice-machine-error-code-7/)
-- [Scotsman C0830 Ice Machine Error Codes - Full Fault Reference](/posts/scotsman-c0830-error-codes/)
+**Related:** Hoshizaki E2 long freeze cycle fix

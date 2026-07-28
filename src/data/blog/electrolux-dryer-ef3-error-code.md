@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Electrolux Dryer EF3 Error Code — What It Means
-
+## What this code means
 EF3 on an Electrolux dryer signals that the dryer reached its maximum allowed drying time for the selected cycle but the load was still wet or damp. The control board monitors moisture sensors and cycle duration. When an automatic dryness cycle runs too long without detecting the target dryness level, it throws EF3 and stops. This is a drying-performance fault, not a single broken part.
 
 The code typically points to restricted airflow preventing heat and moisture from escaping, or to dirty or faulty moisture sensors that cannot accurately read dryness. Less often, weak heating or control-board faults can allow a cycle to run too long. The dryer is protecting itself and alerting you that normal drying could not be completed in the expected time window.
@@ -25,8 +24,6 @@ The code typically points to restricted airflow preventing heat and moisture fro
 ## Before You Replace Anything
 
 Many people replace the moisture sensor assembly or control board first. Instead, pull and clean the entire exhaust path and wipe down the sensor bars in the drum. Most EF3 faults clear after restoring proper airflow and cleaning sensor surfaces.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -21,8 +21,7 @@ part_price: "$50-110"
 no_buy_pct: "25%"
 ---
 
-## Frigidaire Oven F90 Error Code — What It Means
-
+## What this code means
 F90 on a Frigidaire electric range means the electronic oven control detected a door lock problem. The control sent a lock or unlock command but the door did not complete the movement within the allowed time. Frigidaire groups F90, F91, F92, F93, and F94 together as door lock issue codes. The oven may appear stuck in a locked state or refuse to start a self-clean cycle.
 
 Because the code can be a false trip, Frigidaire recommends a full power reset first. If the code returns after power is restored, the lock assembly, wiring, or control board needs inspection.
@@ -30,8 +29,6 @@ Because the code can be a false trip, Frigidaire recommends a full power reset f
 ## Before You Replace Anything
 
 Many people replace the main control board when the lock assembly is actually bad. Always test the lock motor resistance (should be around 2,000 ohms) and watch the cam and rod for binding before replacing the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

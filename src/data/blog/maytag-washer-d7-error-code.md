@@ -21,8 +21,7 @@ part_price: "$15-40"
 no_buy_pct: "65%"
 ---
 
-## Maytag d7 Error Code — What It Means
-
+## What this code means
 The d7 error code on a Maytag washer signals a Slow Fill fault. The control board has detected that the water level inside the tub is not rising to the target level within the expected time window (typically 10 to 15 minutes depending on your model). When the inlet valves open and the water level sensor or pressure switch does not register the required fill volume after that duration, the cycle stops and displays d7.
 
 This code is almost always caused by restricted water supply or inlet valve issues rather than electronic sensor failures. The washer is trying to fill but something is limiting the flow rate so severely that it cannot complete the fill cycle on time.
@@ -30,8 +29,6 @@ This code is almost always caused by restricted water supply or inlet valve issu
 ## Before You Replace Anything
 
 Many people replace the entire inlet valve assembly when the real problem is just sediment blocking the mesh screens at the valve inlet ports. Always disconnect the hoses and inspect the screens before ordering new valves.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "40%"
 ---
 
-## ABB ACS580 A3A2 Fault — What It Means
-
+## What this code means
 The A3A2 fault code on an ABB ACS580 variable frequency drive indicates DC link undervoltage. The drive has detected that the intermediate circuit DC voltage is too low while the drive is stopped or starting. The inverter cannot generate the required AC output voltage to the motor because the energy stored in the DC link capacitors is below the minimum operational threshold.
 
 This is a critical power supply issue. The drive expects the rectifier bridge to convert incoming three-phase AC into a stable DC bus voltage (for example, around 680V DC on a 480V-rated drive). When that DC voltage drops below roughly 65% of the nominal value, the drive shuts down with A3A2 to protect itself and the motor from erratic operation.
@@ -30,31 +29,13 @@ This is a critical power supply issue. The drive expects the rectifier bridge to
 
 Technicians sometimes replace the rectifier bridge or control board before checking input fuses and wiring. Always measure AC voltage at the drive input terminals and verify fuse continuity first, both of which take minutes and cost nothing.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Blown input fuse or missing phase (~35%)** A blown fuse in the input switchgear or cabling creates a single-phase condition, starving the rectifier of the full three-phase power it needs to maintain DC bus voltage.
-- **Low incoming utility voltage (brown-out) (~25%)** The supply voltage is significantly below the drive's rating, for example a 480V drive receiving only 400V, so the rectifier cannot produce enough DC voltage.
-- **Incorrect parameter 95.01 setting (~20%)** Parameter 95.01 (Supply voltage) is set higher than the actual incoming voltage, causing the drive to expect a higher DC level than the rectifier can deliver.
-- **Defective rectifier bridge (~12%)** One or more diodes or thyristors in the input rectifier have failed, preventing proper conversion of AC to DC even when input power is good.
-- **Loose or corroded input wiring (~8%)** Poor connections at the drive input terminals or in the upstream switchgear create voltage drops or intermittent power, starving the DC link.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Do all three phases (L1, L2, L3) show voltage within 10% of the drive's nameplate rating when you measure at the input terminals?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Input power is good. Check parameter 95.01 to confirm it matches the measured voltage, then test the DC bus voltage (DC+ to DC-). If DC voltage is near zero, the rectifier bridge has likely failed.<br><strong>No:</strong> A missing phase or low voltage is the problem. Check input fuses for continuity and inspect switchgear for tripped breakers or loose connections upstream of the drive.</div>
-</details>
-
-<details class="dtree"><summary>Does the drive clear the A3A2 fault after you correct parameter 95.01 to match the actual incoming voltage?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The parameter mismatch was the root cause. The drive now recognizes the correct DC level and should run normally.<br><strong>No:</strong> The fault persists, so the problem is hardware. Measure DC bus voltage with AC input present. If it is very low or zero, replace the rectifier bridge.</div>
-</details>
-
-<details class="dtree"><summary>When you measure continuity on each input fuse, do all three show 0Ω?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The fuses are good. Look for loose wiring, corroded terminals, or low utility voltage upstream of the drive.<br><strong>No:</strong> Replace the blown fuse(s). A single blown fuse causes a missing phase and triggers A3A2.</div>
-</details>
+- **Blown input fuse or missing phase** A blown fuse in the input switchgear or cabling creates a single-phase condition, starving the rectifier of the full three-phase power it needs to maintain DC bus voltage.
+- **Low incoming utility voltage (brown-out)** The supply voltage is significantly below the drive's rating, for example a 480V drive receiving only 400V, so the rectifier cannot produce enough DC voltage.
+- **Incorrect parameter 95.01 setting** Parameter 95.01 (Supply voltage) is set higher than the actual incoming voltage, causing the drive to expect a higher DC level than the rectifier can deliver.
+- **Defective rectifier bridge** One or more diodes or thyristors in the input rectifier have failed, preventing proper conversion of AC to DC even when input power is good.
+- **Loose or corroded input wiring** Poor connections at the drive input terminals or in the upstream switchgear create voltage drops or intermittent power, starving the DC link.
 
 ## Step-by-Step Fix {#fix}
 
@@ -77,12 +58,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a qualified industrial electrician or VFD service technician if you are not trained to work on high-voltage equipment. The ACS580 operates at lethal voltages (240V to 690V AC, and DC bus voltages above 300V). Measuring the DC bus requires understanding how to safely discharge capacitors and access internal test points. If the rectifier bridge or control board needs replacement, the repair involves firmware configuration, torque specs for bus bars, and thermal compound application that require factory training. Always call a pro if you find a hardware failure inside the drive or if input voltage issues trace back to utility transformers or switchgear you are not authorized to service.
-
-**Rough cost:** A pro service call runs about $150-500.
-
-## See Also
-
-- [ABB ACS580 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs580-fault-3130/)
-- [ABB ACS880 Complete Fault Code Guide — All Faults and Fixes](/posts/abb-acs880-complete-guide/)
-- [ABB ACS580 A0 Fault Code - Causes & Fix](/posts/abb-acs580-a0-fault-code/)
-- [ABB VFD Fault Codes — ACS550, ACS880, ACS310 Reference](/posts/abb-vfd-fault-codes/)

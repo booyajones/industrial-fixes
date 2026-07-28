@@ -13,11 +13,8 @@ money_part: "Field signal device (potentiometer, transmitter, or PLC analog outp
 most_likely_cause: "Open or loose wiring on AI1"
 ---
 
-## ABB ACS550 AI1 LOSS — What It Means
-
+## What this code means
 The AI1 LOSS fault on an ABB ACS550 VFD indicates that the drive has detected analog input 1 is missing or has dropped below the configured minimum fault threshold. According to ABB documentation, this means the analog input value is less than the AI1 FAULT LIMIT set in parameter 3021. This is not a motor or internal power stage failure. The drive is reporting that it cannot see a valid external reference signal on the AI1 terminal, or the signal present is below the level you've programmed the drive to accept as normal operation.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ The AI1 LOSS fault on an ABB ACS550 VFD indicates that the drive has detected an
 ## When to Call a Pro
 
 Call a qualified industrial electrician or controls technician if you are not familiar with measuring and interpreting 0–10 V or 4–20 mA analog signals, or if you are uncomfortable working inside an energized VFD enclosure. Professional help is also recommended if the fault returns after you have verified correct wiring, confirmed a good field signal, and set parameters 3021 and 3001 correctly. If your process requires the drive to remain online or if the AI1 circuit is part of a safety-critical control loop, have a technician diagnose and repair the system to avoid unplanned downtime or unsafe conditions.
-
-## See Also
-
-- [ABB ACS580 FF63 - STO Diagnostics Failure Fix](/posts/abb-acs580-ff63-fault-code/)
-- [ABB ACS550 AI1 LOSS - Causes & Fix](/posts/abb-acs550-ai1-loss-fault-code/)
-- [ABB ACS580 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs580-fault-3130/)
-- [ABB ACS550 EFB3 Fault - Causes & Fix](/posts/abb-acs550-efb3-fault-code/)

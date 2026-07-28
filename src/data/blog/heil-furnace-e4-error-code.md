@@ -13,11 +13,8 @@ money_part: "High-limit switch"
 most_likely_cause: "Clogged air filter"
 ---
 
-## Heil Furnace E4 Error Code — What It Means
-
+## What this code means
 The Heil E4 error code indicates an **open limit circuit** — one of the high-limit safety devices in the furnace has tripped, cutting off the gas valve to prevent overheating. Heil furnaces (manufactured by ICP/Carrier) use one or more thermal limit switches mounted on the heat exchanger; when supply air temperature exceeds the limit set point, the switch opens and the board stores the E4 code. The furnace will shut down and attempt to restart only after the limit cools and resets. Repeated trips indicate a persistent airflow or mechanical problem.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,11 +42,3 @@ The Heil E4 error code indicates an **open limit circuit** — one of the high-l
 ## When to Call a Pro
 
 If the limit trips repeatedly with a clean filter and a properly running blower, a cracked heat exchanger may be pulling combustion air into the airstream, creating a hot spot. This is a carbon monoxide risk — shut the furnace off and call a certified technician for a heat exchanger inspection before resuming operation.
-
-## Related Articles
-
-- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
-- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
-- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
-- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
-- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

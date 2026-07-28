@@ -22,8 +22,7 @@ part_price: "$40-75"
 no_buy_pct: "60%"
 ---
 
-## Samsung Dishwasher 9E Error Code — What It Means
-
+## What this code means
 The 9E error code indicates a water-level sensing or low-water-level fault. The control board is not detecting the expected water level during the wash or refill sequence. This code appears when the dishwasher cannot detect proper water level during the wash cycle, or when a low water level persists for more than 5 seconds during operation.
 
 The underlying issue is usually that the machine is not filling properly, water is not moving as expected through the system, or the water-level sensing circuit is not reporting correctly to the control board. The error triggers when the sensor assembly cannot accurately read the water level inside the tub.
@@ -31,8 +30,6 @@ The underlying issue is usually that the machine is not filling properly, water 
 ## Before You Replace Anything
 
 Many people replace the water-level sensor or control board when the real problem is a contaminated fill reservoir on the left side. Pull the unit out, remove the reservoir, and clean it in warm soapy water before buying any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

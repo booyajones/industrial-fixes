@@ -14,8 +14,7 @@ money_part: "Samsung refrigerator main PCB"
 most_likely_cause: "Defective main PCB (refrigerator 52E/52C)"
 ---
 
-## Samsung E-52 Error Code — What It Means
-
+## What this code means
 Samsung E-52 is not a universal code across all appliances. On Samsung microwaves, E-52 indicates an EEPROM short error in the control electronics. On Samsung refrigerators, a similar code 52E or 52C signals a communication fault between the main PCB and the Wi-Fi module. Because the code meaning depends entirely on your product category and model, always check your owner's manual or the service label inside the appliance to confirm which board or module is implicated.
 
 For microwaves, the EEPROM short typically points to a fault in the control board's memory chip. For refrigerators showing 52E or 52C, the problem lies in the wiring or modules that allow the main board to talk to the Wi-Fi board. Both scenarios usually require professional diagnosis if a power reset does not clear the fault.
@@ -23,8 +22,6 @@ For microwaves, the EEPROM short typically points to a fault in the control boar
 ## Before You Replace Anything
 
 Homeowners often replace the entire main PCB or control board without first checking that ribbon cables and connectors are fully seated. Inspecting and reseating the wiring harness between the main board and the Wi-Fi module (refrigerator) or verifying that the control-board connector is clean and tight (microwave) can clear the code at zero cost.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -17,8 +17,7 @@ free_checks:
   - "Inspect the intake and exhaust terminations outside for ice, nests, or debris blocking airflow."
 ---
 
-## Weil-McLain A82 Error Code — What It Means
-
+## What this code means
 Weil-McLain does not publish a universal definition for an A82 error code in their standard documentation. The code may be model-specific, or it may have been misread from the control display. Weil-McLain directs owners to consult the exact boiler model manual and to have a local heating professional interpret fault codes using the contractor diagnostics menu, not just the front-panel display.
 
 Most Weil-McLain boiler lockouts stem from ignition or flame-proving problems. The control monitors gas valve status, ignitor function, and flame presence. When any of those signals fall out of range or when the control cannot verify stable combustion, it locks out and displays a fault. Common real-world triggers include no gas supply, a dirty or failed flame sensor, a fouled ignitor, blocked venting or combustion air, and condensate drain blockages on condensing models.
@@ -26,8 +25,6 @@ Most Weil-McLain boiler lockouts stem from ignition or flame-proving problems. T
 ## Before You Replace Anything
 
 Homeowners often replace the ignitor or control board before checking whether gas is flowing or the flame sensor is dirty. Verify gas supply at the manual shutoff and incoming pressure, then clean the flame sensor, before ordering expensive parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a licensed heating professional immediately if you smell gas, if the boiler repeatedly locks out after one reset, if you are not comfortable working with gas piping or high-voltage ignition components, or if the fault history shows multiple different codes that suggest a control or wiring problem. Gas appliance diagnostics require proper test equipment, including a manometer for gas pressure, a multimeter for electrical checks, and a combustion analyzer to verify safe operation. A technician will also access the contractor-level diagnostics on the control, interpret model-specific fault definitions that are not published in the homeowner manual, and confirm that all safety interlocks and limit switches are functioning correctly before returning the boiler to service.
 
 **Rough cost:** A pro service call runs about $150-350.
-
-## See Also
-
-- [Weil-McLain Boiler A163 Error - Causes & Fix](/posts/weil-mclain-boiler-a163-error-code/)
-- [Weil-McLain A36 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a36-error-code/)
-- [Weil-McLain Boiler A08 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a08-error-code/)
-- [Weil-McLain E02 Error Code — Causes & Fix](/posts/weil-mclain-e02-error-code/)

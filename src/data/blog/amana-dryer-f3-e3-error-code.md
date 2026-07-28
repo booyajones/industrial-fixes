@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Dryer F3 E3 Error Code — What It Means
-
+## What this code means
 F3 E3 on an Amana dryer signals an inlet thermistor fault. The inlet thermistor is a temperature sensor that monitors air entering the heating system. When the control board detects an abnormal reading from this sensor (open circuit, short, or out-of-range resistance), it throws F3 E3 and halts the cycle to prevent unsafe operation.
 
 Amana's published troubleshooting starts with a simple power reset: shut off the breaker for five minutes, restore power, and run a timed dry cycle for five minutes to see if the fault clears. If F3 E3 returns, the inlet thermistor or its wiring is the problem. This code does not point to the exhaust thermistor, heating element, or blower. It isolates the issue to the inlet sensor circuit.
@@ -26,8 +25,6 @@ Amana's published troubleshooting starts with a simple power reset: shut off the
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board first when F3 E3 appears. Always test the inlet thermistor resistance and inspect its connector before swapping the board, since a faulty sensor or broken wire is far more common.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

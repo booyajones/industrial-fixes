@@ -17,8 +17,7 @@ free_checks:
   - "Verify the main power switch and circuit breaker are on and the boiler has not tripped a manual reset limit switch."
 ---
 
-## Weil-McLain Boiler A98 Error — What It Means
-
+## What this code means
 A98 is not a universal fault code across all Weil-McLain boiler platforms. The exact meaning depends on your boiler series and the control module installed. Weil-McLain directs technicians to consult the specific model's installation and service manual because error codes and reset behavior vary by platform. The control reacts to thermostat calls, air pressure switches, and boiler limit signals, so A98 may indicate a lockout related to ignition, gas flow, flame sensing, or a safety limit trip on your particular unit.
 
 Without the exact boiler model number and control board type, it is not possible to verify what A98 means for your system. The manufacturer's troubleshooting process requires identifying the boiler family, reading the active and past fault history from the control's diagnostics menu, and then following the model-specific troubleshooting tree. Attempting to replace parts based on the code alone often leads to misdiagnosis because the same code letter-number can mean different things on different Weil-McLain platforms.
@@ -26,8 +25,6 @@ Without the exact boiler model number and control board type, it is not possible
 ## Before You Replace Anything
 
 Without the exact model manual, technicians sometimes replace flame sensors or igniters when A98 may actually be a gas valve, pressure switch, or wiring fault. Always pull the control's fault history and test the inputs named in your model's diagnostic flowchart before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -71,10 +68,3 @@ Answer these to narrow it down fast.
 Call a licensed heating professional immediately if you cannot find your boiler's model number or service manual, if the fault returns after a single reset, or if you are unfamiliar with gas appliance troubleshooting. Gas boiler diagnostics require multimeters, manometers for gas pressure, and knowledge of safe lockout procedures. Attempting to bypass safeties or swap parts without verifying the fault can create carbon monoxide hazards or damage the control. The manufacturer's warranty process also requires the exact failed part description and part number, which only proper diagnostics will reveal. A qualified technician will read the control's fault history, follow the model-specific flowchart, and test each input to pinpoint whether A98 on your unit is ignition, flame-proving, gas supply, or a limit fault.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain A71 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a71-error-code/)
-- [Weil-McLain A165 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a165-error-code/)
-- [Weil-McLain Boiler A72 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a72-error-code/)
-- [Weil-McLain Boiler A138 Error - Causes & Fix](/posts/weil-mclain-boiler-a138-error-code/)

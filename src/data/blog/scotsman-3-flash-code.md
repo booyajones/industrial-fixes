@@ -111,11 +111,4 @@ A: For a day or two, yes, but you'll see degraded cube quality and extended cycl
 **Related:** [Manitowoc HPCO high pressure cutout](/posts/manitowoc-hpco-error-code/)
 
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
-**Related:** [Hoshizaki E2 long freeze cycle fix](/posts/hoshizaki-e2-error-code/)
-
-## See Also
-
-- [Scotsman 1-Flash Code — Bin Full / Bin Thermostat Fix](/posts/scotsman-1-flash-code/)
-- [Scotsman C0830 Ice Machine Error Codes - Full Fault Reference](/posts/scotsman-c0830-error-codes/)
-- [Scotsman 6-Flash Code — Refrigerant Pressure Out of Range Fix](/posts/scotsman-6-flash-code/)
-- [Scotsman Prodigy Plus Error Code Guide — Causes & Fixes](/posts/scotsman-prodigy-error-codes/)
+**Related:** Hoshizaki E2 long freeze cycle fix

@@ -17,8 +17,7 @@ money_part: "Water temperature sensor / thermistor"
 part_price: "$30-80"
 ---
 
-## Maytag Washer F24 Error Code — What It Means
-
+## What this code means
 The F24 code on Maytag front-load washers signals a water temperature sensor or thermistor fault. The machine is detecting an out-of-range or invalid signal from the temperature-sensing circuit, so it cannot reliably control wash water temperature. Some sources loosely describe this as a water-inlet issue, but the consistent pattern across washer-specific references points to a temperature sensor problem rather than a generic inlet failure.
 
 Because the control board cannot read valid temperature data, the washer halts the cycle to prevent improper heating or cold-water washing when hot water is selected. In some cases you may also notice poor or absent water heating as a secondary symptom, but that is a result of the sensor fault rather than the code's primary meaning.
@@ -26,8 +25,6 @@ Because the control board cannot read valid temperature data, the washer halts t
 ## Before You Replace Anything
 
 Many owners replace the main control board first, but a simple multimeter test of the temperature sensor and inspection of its connector will identify a bad sensor or loose pin for a fraction of the cost.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

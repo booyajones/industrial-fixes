@@ -13,13 +13,10 @@ money_part: "Flow sensor"
 most_likely_cause: "Debris or scale in the flow sensor"
 ---
 
-## Navien Alarm 415 — What It Means
-
+## What this code means
 Alarm 415 on a Navien tankless water heater is a flow-related fault in the domestic hot water circuit. The control board is not receiving the expected signal from the flow sensor, which tells the unit how much water is moving through the heat exchanger. According to Navien, the problem is most often that the flow sensor inside the unit is not spinning properly, either because of debris, scale buildup, or a mechanical failure of the sensor itself.
 
 The code prevents the heater from firing because the control cannot measure flow accurately. In some cases the water adjustment valve assembly (which works alongside the flow sensor to regulate flow) may also be involved. The fault can sometimes be cleared temporarily by cycling the pressure relief valve to flush out debris, but persistent codes usually require cleaning or replacing the flow sensor or addressing a restriction in the water path.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -53,10 +50,3 @@ The code prevents the heater from firing because the control cannot measure flow
 ## When to Call a Pro
 
 Call a licensed plumber or Navien-certified technician if you are not comfortable working with water and electrical connections on a gas or electric tankless heater, if the code returns after cleaning the inlet filter and cycling the relief valve, or if you lack the tools to safely remove and test the flow sensor. A technician can verify the sensor's electrical output, check the water adjustment valve operation, and confirm that no other component (such as the control board or wiring harness) is contributing to the fault. Professional service is also recommended if your unit is still under warranty, because self-repair may void coverage.
-
-## See Also
-
-- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
-- [Navien E302 Error Code — Causes & Fix](/posts/navien-error-code-e302/)
-- [Navien E030 Error Code — Causes & Fix](/posts/navien-error-code-e030/)
-- [Navien 406 Error Code - Causes & Fix](/posts/navien-tankless-alarm-406-error-code/)

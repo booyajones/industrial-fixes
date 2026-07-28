@@ -20,8 +20,6 @@ When your Frigidaire oven display is not working, the screen is either completel
 
 Frigidaire's own troubleshooting guidance treats a blank display as a reset-worthy control issue first, then a service issue if the symptom persists after a hard power reset. The most common real-world scenario is either no incoming power reaching the unit or a failed electronic control board that can no longer drive the display.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Tripped breaker or no incoming power** The circuit breaker has tripped, the unit is unplugged, or supply voltage is lost due to a bad receptacle or connection at the junction box.
@@ -54,18 +52,18 @@ Frigidaire's own troubleshooting guidance treats a blank display as a reset-wort
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Frigidaire Oven F1 error code](/posts/frigidaire-oven-f1-error-code/)
-- [Frigidaire Oven F10 error code](/posts/frigidaire-oven-f10-error-code/)
-- [Frigidaire Oven F11 error code](/posts/frigidaire-oven-f11-error-code/)
-- [Frigidaire Oven F12 error code](/posts/frigidaire-oven-f12-error-code/)
-- [Frigidaire Oven F13 error code](/posts/frigidaire-oven-f13-error-code/)
-- [Frigidaire Oven F2 error code](/posts/frigidaire-oven-f2-error-code/)
-- [Frigidaire Oven F20 error code](/posts/frigidaire-oven-f20-error-code/)
+- Frigidaire Oven F1 error code
+- Frigidaire Oven F10 error code
+- Frigidaire Oven F11 error code
+- Frigidaire Oven F12 error code
+- Frigidaire Oven F13 error code
+- Frigidaire Oven F2 error code
+- Frigidaire Oven F20 error code
 - [Frigidaire Oven F26 error code](/posts/frigidaire-oven-f26-error-code/)
-- [Frigidaire Oven F3 error code](/posts/frigidaire-oven-f3-error-code/)
-- [Frigidaire Oven F30 error code](/posts/frigidaire-oven-f30-error-code/)
-- [Frigidaire Oven F31 error code](/posts/frigidaire-oven-f31-error-code/)
-- [Frigidaire Oven F40 error code](/posts/frigidaire-oven-f40-error-code/)
+- Frigidaire Oven F3 error code
+- Frigidaire Oven F30 error code
+- Frigidaire Oven F31 error code
+- Frigidaire Oven F40 error code
 
 ## When to Call a Pro
 

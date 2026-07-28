@@ -20,8 +20,7 @@ free_checks:
 part_price: "$40–80"
 ---
 
-## Electrolux Dryer E63 Error Code — What It Means
-
+## What this code means
 On Electrolux electric dryers, the E63 error code indicates a ground fault in the heater circuit. The control board has detected unintended continuity between the heating element circuit and the metal chassis or frame. This is not a venting or airflow problem. Instead, the dryer has found that electrical current from the heater can reach the cabinet ground, which creates a safety hazard and stops the machine.
 
 The fault typically originates in the heating element itself (a broken or sagging coil touching the housing), in damaged wiring where insulation has burned or chafed through to bare metal, or less often in a failed relay or control board. Field reports and technician diagnostics consistently point to the heater assembly and its wiring as the primary source of E63 faults.
@@ -29,8 +28,6 @@ The fault typically originates in the heating element itself (a broken or saggin
 ## Before You Replace Anything
 
 Many people replace the electronic control board first, but a simple resistance check from each heater terminal to the metal frame will prove whether the element is grounded. Test the heater circuit before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

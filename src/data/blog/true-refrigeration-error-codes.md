@@ -67,18 +67,3 @@ This guide covers the most common True Refrigeration error codes and their fixes
 | True electronic controller replacement | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-true-refrigeration-error-codes&k=True+electronic+controller+replacement&tag=errorcodefixes-20) \| Parts Town, True dealer | $80–$200 |  |  |  |  |
 
 ##
-
-## Related Articles
-
-- [True Refrigeration E1 Error Code — Causes & Fix](/posts/true-refrigeration-e1-error-code/)
-- [True Refrigeration E2 Error Code — Causes & Fix](/posts/true-refrigeration-e2-error-code/)
-- [True Refrigeration E3 Error Code — Causes & Fix](/posts/true-refrigeration-e3-error-code/)
-- [True Refrigeration E4 Error Code — Causes & Fix](/posts/true-refrigeration-e4-error-code/)
-- [True Refrigeration E5 Error Code — Defrost Sensor Causes & Fix](/posts/true-refrigeration-e5-error-code/)
-
-## See Also
-
-- [True TSSU Prep Table Error Codes, Causes, and Fixes](/posts/true-tssu-prep-table-error-codes/)
-- [True Refrigeration E1 Error Code — Causes & Fix](/posts/true-refrigeration-e1-error-code/)
-- [True Refrigeration E5 Error Code — Defrost Sensor Causes & Fix](/posts/true-refrigeration-e5-error-code/)
-- [True GDM-49 Glass Door Merchandiser Error Codes - Full Fault Guide](/posts/true-gdm-49-error-codes/)

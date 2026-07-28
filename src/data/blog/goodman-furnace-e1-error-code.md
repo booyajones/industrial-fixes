@@ -13,11 +13,8 @@ money_part: "Pressure switch"
 most_likely_cause: "Blocked condensate drain"
 ---
 
-## Goodman Furnace E1 Error Code — What It Means
-
+## What this code means
 On newer Goodman furnaces equipped with an LED display panel (GMVC96, GMSS96, AMVC96, and related models), E1 indicates a pressure switch fault — the switch failed to close during the inducer startup sequence, or it opened unexpectedly during a heating cycle. The control board expects to see the pressure switch close within a set window after the inducer motor starts; if it doesn't, E1 is logged and the ignition sequence halts. This is a safety lockout to prevent unvented combustion gases from entering the home.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -48,18 +45,3 @@ On newer Goodman furnaces equipped with an LED display panel (GMVC96, GMSS96, AM
 ## When to Call a Pro
 
 If you've cleared the drain, confirmed the flue, replaced the pressure switch, and the E1 persists, you likely have a cracked heat exchanger creating a secondary pressure imbalance — a serious safety issue that requires a licensed technician to diagnose with a combustion analyzer before the furnace can legally be returned to service.
-
-## Related Articles
-
-- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
-- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
-- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
-- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
-- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)
-
-## See Also
-
-- [Goodman GSX13 Air Conditioner Error Codes — Fault Code Diagnostic Guide](/posts/goodman-gsx13-error-codes/)
-- [Goodman Heat Pump E1 Error Code — Pressure Switch Fault](/posts/goodman-heat-pump-error-code-e1/)
-- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
-- [Goodman Furnace 3 Flashes — Pressure Switch Open Fix](/posts/goodman-furnace-3-flashes/)

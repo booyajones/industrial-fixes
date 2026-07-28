@@ -53,14 +53,6 @@ The separator element is a scheduled service part - typically 3,000–4,000 hour
 ## When to Call a Pro
 BOGE compressors require factory-specific oil types and torque specs on separator housing reassembly. If repeated temperature shutdowns occur after service, contact a BOGE authorized service provider.
 
-## Related Articles
-
-- [Air Compressor Fault Codes: Complete Guide](/posts/air-compressor-fault-codes/)
-- [Atlas Copco Air Compressor Fault Codes — Complete Guide](/posts/atlas-copco-compressor-fault-codes/)
-- [Chicago Pneumatic Compressor Fault Codes — Complete Guide](/posts/chicago-pneumatic-compressor-faults/)
-- [CompAir Air Compressor Fault Codes - Complete Guide](/posts/compair-compressor-fault-codes/)
-- [Copeland Compressor Error Code 1 — High Pressure Cutout Fix](/posts/copeland-compressor-error-code-1/)
-
 ## More Boge Compressor fault codes
 
 Compiled from manufacturer service manuals and authorized documentation.
@@ -80,7 +72,6 @@ Compiled from manufacturer service manuals and authorized documentation.
 | 32 | Net pressure transmitter wire breakage | Open circuit in the network pressure transmitter signal wiring, a loose connector, or a failed sensor. | Inspect and reseat the transmitter connector, check for broken or chafed signal wires, and replace the transmitter if the wiring is intact. |
 | 38 | Excessive current compressor motor | Motor drawing over-current from mechanical binding in the airend, over-pressure operation, low voltage, or phase imbalance. | Measure running amps and supply voltage on all three phases, check for airend drag or over-pressure, and confirm the overload setting matches the nameplate. |
 
-
 ## How to troubleshoot Boge Compressor
 
 Start every BOGE fault the same way: read the exact code or message on the FOCUS (or Base/RATIO) controller, note whether it is a warning or a shutdown, and let the machine cool and fully depressurize before opening any panel. Most BOGE shutdowns fall into three families, and the family tells you where to look first.
@@ -92,7 +83,6 @@ Differential-pressure faults (suction filter, oil filter, oil separator) are mai
 Electrical and sensor faults (wrong rotational direction, excessive motor current, transmitter faulty or wire breakage, frequency converter fault) call for a meter. Verify supply voltage and phase balance on all three phases, check overload settings against the motor nameplate, and inspect transmitter connectors and wiring before condemning a sensor. Wrong rotation after any electrical work is fixed by swapping two supply phases.
 
 Call a BOGE-authorized service provider when temperature shutdowns persist after cleaning and an oil/filter service, when the airend shows drag or unusual noise, when a VFD throws its own fault, or any time separator-housing reassembly and factory oil and torque specs are involved. Do not defeat a shutdown to keep a unit in production, since final-compression-temperature and over-current trips protect the airend and motor from expensive damage.
-
 
 ## Frequently asked questions
 
@@ -115,4 +105,3 @@ Service-due and some differential-pressure messages are warnings that let the un
 ### Do BOGE compressors need a specific oil for repairs?
 
 Yes. BOGE specifies particular oil types, and separator housing reassembly has factory torque specs. Using the wrong oil accelerates separator plugging, oil-filter DP faults, and carry-over. For anything beyond routine top-up and element changes, use BOGE-specified oil or contact an authorized service provider.
-

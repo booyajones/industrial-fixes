@@ -22,8 +22,7 @@ part_price: "$35-65"
 no_buy_pct: "65%"
 ---
 
-## Amana F8 E1 Error Code — What It Means
-
+## What this code means
 The F8 E1 fault (also shown as Lo FL on some front-load models) tells you the washer is not detecting the correct amount of incoming water. The control board expected water to enter within a set time, but the sensed fill amount or rate did not meet the requirement. This is a no-fill or long-fill condition.
 
 Amana lists this code on both top-load and front-load washers. It triggers when water supply or flow is restricted, when the inlet valve cannot open properly, or when water drains out as fast as it enters through a siphoning drain hose.
@@ -31,8 +30,6 @@ Amana lists this code on both top-load and front-load washers. It triggers when 
 ## Before You Replace Anything
 
 Homeowners often replace the water inlet valve first, but most F8 E1 faults are caused by closed supply valves, kinked hoses, clogged inlet screens, or siphoning drain hoses. Check and clear those restrictions before buying a valve.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -13,11 +13,8 @@ money_part: "Internal cooling fan (drive-specific)"
 most_likely_cause: "Clogged cooling fan or blocked vents"
 ---
 
-## Allen Bradley PowerFlex 753 F35 Fault — What It Means
-
+## What this code means
 The Allen Bradley PowerFlex 753 **F35 fault** is a **Heatsink Overtemperature** trip. The drive's internal NTC thermistor monitors the power semiconductor heatsink temperature. When it exceeds the trip threshold (typically 90–100°C depending on drive rating), F35 fires and output shuts down to prevent IGBT damage. F35 is almost always caused by inadequate cooling rather than a failed drive component — meaning the fix is usually free or very cheap.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ The Allen Bradley PowerFlex 753 **F35 fault** is a **Heatsink Overtemperature** 
 ## When to Call a Pro
 
 If F35 returns immediately after cleaning and the internal fan is confirmed running, the thermistor itself may have failed (reading falsely high). Thermistor replacement requires drive disassembly and an authorized AB service provider or qualified industrial electrician.
-
-## Related Articles
-
-- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
-- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
-- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
-- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)
-- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)
-
-## See Also
-
-- [Allen-Bradley PowerFlex F122 Fault — I/O Board Failure Fix](/posts/allen-bradley-powerflex-f122-fault/)
-- [Allen-Bradley PowerFlex 4M Fault Codes — F2, F4, F5, F7, F12 Fix Guide](/posts/allen-bradley-powerflex-4m-fault-codes/)
-- [Allen-Bradley PowerFlex 755 Power Loss Fault Fix](/posts/allen-bradley-powerflex-755-power-loss-fault/)
-- [Allen Bradley PowerFlex 753 F12 Fault — Causes & Fix](/posts/allen-bradley-powerflex-753-f12-fault/)

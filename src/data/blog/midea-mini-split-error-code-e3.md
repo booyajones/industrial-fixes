@@ -13,11 +13,8 @@ money_part: "S-wire / communication wire"
 most_likely_cause: "Loose or corroded S-wire connection"
 ---
 
-## Midea Mini Split Error Code E3 — What It Means
-
+## What this code means
 E3 on a Midea mini split signals a communication error between the indoor evaporator unit and the outdoor condensing unit. Midea's control system relies on a dedicated signal wire (often labeled S, 3, or SL) to pass status and command data between the two PCBs. If that signal is interrupted for more than a brief period, the indoor unit stops operating and displays E3. Midea's communication protocol is also used by many OEM brands including Pioneer (budget tier), Carrier Comfort (select models), and numerous private-label units.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,11 +43,3 @@ E3 on a Midea mini split signals a communication error between the indoor evapor
 ## When to Call a Pro
 
 If the line set wiring is enclosed in conduit or runs through multiple stories of a building, an HVAC technician with mini-split certification can trace and replace the communication wire without damaging the refrigerant lines.
-
-## Related Articles
-
-- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
-- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
-- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
-- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
-- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)

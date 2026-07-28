@@ -20,8 +20,6 @@ When a GE oven won't turn on, you're describing a unit that shows no display, no
 
 If your oven is completely dead with no code showing, the fault almost always traces back to the incoming power or the main control board. GE support starts every no-power diagnosis by verifying the breaker, supply voltage, and correct wiring at the terminal block or junction box. Once power is confirmed, the next checkpoints are the control board, keypanel connections, and internal harnesses.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Tripped breaker or blown fuse** The most common reason a GE oven won't turn on is loss of incoming power at the breaker panel or fuse box.

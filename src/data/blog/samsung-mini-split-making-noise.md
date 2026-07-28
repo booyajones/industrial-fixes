@@ -19,8 +19,6 @@ Samsung does not assign a single fault code to noise complaints. Instead, the co
 
 High-pitched whistling or screaming is the most serious noise. Samsung associates it with refrigerant leakage or abnormally high pressure inside the compressor and instructs you to shut the unit off immediately and contact service. Most other noises trace back to airflow restrictions, loose hardware, debris in the fan path, or worn blower components.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty or clogged air filter** Samsung documents that a dust-clogged filter causes buzzing and restricts airflow enough to create noisy turbulence.
@@ -53,10 +51,10 @@ High-pitched whistling or screaming is the most serious noise. Samsung associate
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Samsung Mini Split E1 01 error code](/posts/samsung-mini-split-e1-01-error-code/)
-- [Samsung Mini Split E3 01 error code](/posts/samsung-mini-split-e3-01-error-code/)
-- [Samsung Mini Split E4 01 error code](/posts/samsung-mini-split-e4-01-error-code/)
-- [Samsung Mini Split E5 01 error code](/posts/samsung-mini-split-e5-01-error-code/)
+- Samsung Mini Split E1 01 error code
+- Samsung Mini Split E3 01 error code
+- Samsung Mini Split E4 01 error code
+- Samsung Mini Split E5 01 error code
 
 ## When to Call a Pro
 

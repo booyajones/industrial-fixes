@@ -13,13 +13,10 @@ money_part: "Siemens G120 Control Unit (Safety Integrated compatible)"
 most_likely_cause: "Safety password not entered"
 ---
 
-## Siemens G120 F01659 — What It Means
-
+## What this code means
 F01659 on a Siemens SINAMICS G120 means the drive has rejected a write request to one or more Safety Integrated parameters on processor 1. This is a configuration and access control fault, not a motor or power stage failure. The drive is protecting the safety system by refusing a change that it cannot allow in the current state.
 
 The exact reason for the rejection is stored in the fault value (r0949), which you must look up in the Siemens List Manual or safety documentation for your specific drive model. This fault does not by itself create a safety stop response. It simply tells you that the safety logic has blocked your parameter modification attempt.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ The exact reason for the rejection is stored in the fault value (r0949), which y
 ## When to Call a Pro
 
 Call a qualified Siemens drive technician or certified safety integrator if you are unfamiliar with Safety Integrated programming, if the fault value in r0949 points to a hardware compatibility issue you cannot resolve, or if related safety faults continue to appear after you clear F01659. Safety parameter configuration requires understanding of the functional safety chain and the specific safety standards (such as SIL or Performance Level) your application must meet. If your facility does not have personnel trained in Siemens Safety Integrated commissioning, professional support is the correct choice to avoid creating unsafe conditions or violating safety certifications.
-
-## See Also
-
-- [Siemens Micromaster F0221 - Causes & Fix](/posts/siemens-micromaster-f0221-fault-code/)
-- [Siemens Sinumerik 840D Alarm 25000 — Causes & Fix](/posts/siemens-sinumerik-840d-alarm-25000/)
-- [Siemens SINAMICS G120 F30021 Fault — Ground Fault Fix](/posts/siemens-sinamics-f30021-fault/)
-- [Siemens Micromaster F0002 - Causes & Fix](/posts/siemens-micromaster-f0002-fault-code/)

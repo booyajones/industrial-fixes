@@ -19,8 +19,6 @@ A Samsung washer door that won't unlock means the machine is still holding the d
 
 This complaint does not correspond to one universal error code. Depending on model and region, you may see codes like dL, dE, dS, LO, or LC, all pointing to door lock or door-closed sensing issues. In service terms, the door interlock has not been released or the washer has not completed the conditions required to release it, usually because it thinks water is still present or the lock circuit is not in a valid state.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Residual water in the tub or drain failure** If the washer cannot drain fully, the door stays locked as a safety feature, and this is the most common cause.

@@ -17,8 +17,7 @@ money_part: "LG oven temperature sensor / thermistor"
 part_price: "$30-80"
 ---
 
-## LG Range E2 Error Code — What It Means
-
+## What this code means
 E2 on an LG range indicates a thermistor error in the oven temperature-sensing circuit. The control board is detecting an invalid signal from the oven temperature sensor, which can happen if the sensor is open, shorted, disconnected, or if the control cannot interpret its resistance correctly.
 
 LG's published first-step response is to press Power Off/On and, if the code returns, shut off the breaker for 30 seconds and restore power. If the code persists after a power reset, the problem is usually in the oven temperature sensor itself, its wiring or connector, or less commonly the main control board reading that sensor incorrectly.
@@ -26,8 +25,6 @@ LG's published first-step response is to press Power Off/On and, if the code ret
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board when the real problem is a failed sensor or loose connector. Always test the thermistor with a multimeter and check the harness for damage before replacing the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable working with appliance wiring and multimeter testing, if you cannot access the sensor or control board safely, or if the sensor and harness both test good but the E2 code persists after replacement. A technician can compare readings to the exact service specification for your model and evaluate the control board's thermistor input circuit. Also call a pro if the range shares a high-voltage circuit with other appliances and you are unsure how to isolate power safely.
 
 **Rough cost:** DIY runs about $30-80 in parts, 30-60 min. A pro service call runs about $150-300.
-
-## See Also
-
-- [LG Washer Door Won't Unlock - Causes & Fix](/posts/lg-washer-door-wont-unlock/)
-- [LG Mini Split Ice on Coils - Causes & Fix](/posts/lg-mini-split-ice-on-coils/)
-- [LG Washer HE Error Code - Causes & Fix](/posts/lg-washer-he-error-code/)
-- [LG Dryer tE2 Error Code - Causes & Fix](/posts/lg-dryer-te2-error-code/)

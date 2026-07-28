@@ -19,8 +19,6 @@ When your Electrolux washer won't move past one part of the cycle, it's not usua
 
 Electrolux documentation ties these hold-ups to specific fault conditions like E11 for inlet problems, E20 for drain issues, or E40 for door lock faults. Even if no code appears on your display, the underlying cause is almost always one of these same subsystems. The machine simply won't advance until the problem is resolved.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged drain filter or blocked drain hose** A blocked filter or kinked drain hose prevents water from leaving the tub, causing the washer to stall during drain or spin phases.

@@ -20,8 +20,6 @@ A Maytag oven that is temperature not accurate means the oven heats but the actu
 
 If the control displays a specific fault code like F1E5, the temperature sensor circuit is out of range (open, shorted, or otherwise faulty). If there is no code, the problem may be calibration drift, a failing sensor, sensor position, wiring, power supply, or a heating component issue.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Incorrect calibration or control offset** The most common cause is calibration drift over time, which Maytag recommends correcting through the oven's built-in calibration function before replacing any parts.

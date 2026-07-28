@@ -17,15 +17,12 @@ money_part: "Maytag dishwasher door-latch assembly"
 part_price: "$50-150"
 ---
 
-## Maytag Dishwasher F10E5 Error Code — What It Means
-
+## What this code means
 The F10E5 (also shown as FAE5) error code appears after your Maytag dishwasher completes a cycle, drains, and then stops. Maytag confirms the cycle ends normally in terms of draining, but the control detects a fault condition and displays this code. The manufacturer does not publicly document the specific internal sensor or input that triggers F10E5, so the exact root cause varies by model. In service practice on Whirlpool-family dishwashers (which include Maytag), recurring cycle-completion faults like this one are typically traced to door-latch signaling problems, control or user-interface communication issues, wiring connector faults, or intermittent sensor inputs. Because Maytag's published guidance is limited to the reset procedure, deeper diagnosis requires the model-specific tech sheet and diagnostic mode.
 
 ## Before You Replace Anything
 
 Many people replace the main control board first without testing the door latch and harness connectors. Check the door-switch resistance and reseat all connectors before ordering the control.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -100,18 +100,3 @@ Even if the switch and hoses are good, a worn inducer motor may not generate eno
 ## When Code 3 Becomes Code 4 or Code 6
 
 If you see 3 flashes that escalate to 4 flashes (open limit) or 6 flashes (rollout), the pressure switch issue has caused secondary overheating. Fix the pressure switch fault first before addressing secondary codes.
-
-## See Also
-
-- [Trane XR90 Furnace Error Codes — Fault Code Diagnostic Guide](/posts/trane-xr90-error-codes/)
-- [Trane 4 Flashes Error Code — Open High Limit Fix](/posts/trane-4-flashes-error-code/)
-- [Trane XE80 Furnace Error Codes — Fault Code Guide](/posts/trane-xe80-error-codes/)
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-
-## Related Articles
-
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane 4 Flashes Error Code — Open High Limit Fix](/posts/trane-4-flashes-error-code/)

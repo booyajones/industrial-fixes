@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "GE refrigerator defrost heater"
 ---
 
-## GE Refrigerator dF Error Code — What It Means
-
+## What this code means
 The dF (or dE) code on a GE refrigerator signals a defrost-system failure. The control board has detected that the defrost circuit did not complete a normal cycle within the last 24 to 48 hours. Without periodic defrost, frost builds up on the evaporator coils, blocking airflow and eventually reducing cooling performance in both the freezer and fresh-food compartments.
 
 This is not a door alarm or a cooling setpoint fault. GE separately lists DE (upper case both letters) as Demo mode. If your display shows exactly DE rather than dF or dE, the fix is to exit demo mode by power-cycling the unit. The dF code specifically points to a problem in the defrost heater circuit, defrost thermostat, temperature sensor, wiring, or the control board's defrost logic.
@@ -25,8 +24,6 @@ This is not a door alarm or a cooling setpoint fault. GE separately lists DE (up
 ## Before You Replace Anything
 
 Many people replace the main control board first, spending hundreds of dollars, when a simple continuity test of the defrost heater and defrost thermostat with a multimeter would reveal a $30 heater or $15 thermostat fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

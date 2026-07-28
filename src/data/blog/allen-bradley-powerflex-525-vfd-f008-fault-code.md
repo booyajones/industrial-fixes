@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Allen-Bradley PowerFlex 525 F008 — What It Means
-
+## What this code means
 F008 on the Allen-Bradley PowerFlex 525 is a heatsink overtemperature fault. The drive has detected that the heatsink or power module temperature has exceeded its safe operating limit. This is a thermal protection fault designed to prevent damage to the power electronics.
 
 The fault indicates that the drive cannot cool itself adequately under current operating conditions. The drive will shut down to protect the power module until the cause is corrected and the fault is cleared. This is not an output phase loss fault, despite some conflicting third-party information. Rockwell documentation and field troubleshooting guides confirm F008 is strictly a thermal issue.
@@ -24,8 +23,6 @@ The fault indicates that the drive cannot cool itself adequately under current o
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive or power module without first verifying that the cooling fan operates and that airflow is not blocked by dust, debris, or poor enclosure ventilation. Clean the heatsink, verify fan operation, and measure ambient temperature before ordering replacement hardware.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a qualified electrician or industrial controls technician if you are not trained to work safely on high-voltage variable frequency drives. The PowerFlex 525 contains live AC and DC bus voltages that remain present even after input power is removed. A professional will safely diagnose cooling fan operation, measure temperature and current, clean or replace the heatsink assembly, verify enclosure ventilation, and replace the drive or power module if internal damage is found. Do not attempt to open the drive enclosure or bypass thermal protection without proper training and lockout procedures.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Allen-Bradley PowerFlex F007 Fault — Motor Overload Fix](/posts/allen-bradley-powerflex-f007-fault/)
-- [Allen-Bradley PowerFlex 4M Fault Codes — F2, F4, F5, F7, F12 Fix Guide](/posts/allen-bradley-powerflex-4m-fault-codes/)
-- [Allen-Bradley PowerFlex F041 Fault - Motor Overload: What It Means and How to Fix It](/posts/allen-bradley-powerflex-f041-fault/)
-- [Allen-Bradley PowerFlex 525 F007 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f007-fault-code/)

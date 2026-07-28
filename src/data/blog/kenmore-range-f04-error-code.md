@@ -17,8 +17,7 @@ money_part: "Electronic Oven Control board (EOC)"
 part_price: "$150-350"
 ---
 
-## Kenmore Range F04 Error Code — What It Means
-
+## What this code means
 The F04 code on Kenmore ranges (many of which are rebadged Whirlpool-family units) indicates a fault with the Electronic Oven Control board or the wiring connected to it. The control has detected a communication or circuit problem that prevents normal operation. On some models the code may also involve the touch panel or user interface board, particularly when F04 and F05 appear together.
 
 This is not a heating-element fault. The control system itself has lost proper function, either because of a momentary electronic glitch, damaged wiring, or a failed board. The exact behavior varies by model, so always check your owner's manual or the wiring diagram inside the service panel for your specific unit.
@@ -26,8 +25,6 @@ This is not a heating-element fault. The control system itself has lost proper f
 ## Before You Replace Anything
 
 Homeowners often replace the entire Electronic Oven Control board before checking for loose or damaged wire harness connectors. Inspect and reseat every plug between the control and the touch panel first; many F04 codes clear after reconnecting a single loose connector.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

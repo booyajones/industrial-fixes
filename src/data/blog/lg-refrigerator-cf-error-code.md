@@ -17,8 +17,7 @@ money_part: "LG condenser fan motor"
 part_price: "$40-80"
 ---
 
-## LG Refrigerator CF Error Code — What It Means
-
+## What this code means
 The CF error code on an LG refrigerator means the control board has detected a problem with the condenser fan (also called the mechanical compartment fan) at the back, bottom of the unit. Specifically, the board expects to see a feedback signal from the fan within 65 seconds of fan operation, but it does not receive that confirmation. The condenser fan is responsible for discharging heat from the condenser coils.
 
 LG describes this code as a mechanical compartment fan motor defect. The error can be triggered by fan motor failure, wire disconnection, or a main board problem. When the CF code appears, the refrigerator may not cool properly because the condenser cannot shed heat efficiently.
@@ -26,8 +25,6 @@ LG describes this code as a mechanical compartment fan motor defect. The error c
 ## Before You Replace Anything
 
 Many people replace the main control board first, assuming an electronics fault. Before ordering a board, unplug the refrigerator, access the rear compartment, and try to spin the condenser fan blade by hand. If it does not turn freely or the motor shows no resistance when powered, the fan motor itself is the problem.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable working with electrical connections, if the condenser fan area is difficult to access on your model, or if you have replaced the fan motor and verified all wiring but the CF code persists. A technician can perform voltage and continuity tests on the control board and harness, and can diagnose whether the main PCB needs replacement. If the refrigerator is still under warranty, contact LG or an authorized service center before attempting any repairs yourself.
 
 **Rough cost:** DIY runs about $40–80 in parts, 30–60 min. A pro service call runs about $150–250.
-
-## See Also
-
-- [LG IS Error Code - Causes & Fix](/posts/lg-refrigerator-is-error-code/)
-- [LG Dryer D95 Error Code - Causes & Fix](/posts/lg-dryer-d95-error-code/)
-- [LG Oven Self-Clean Not Working - Causes & Fix](/posts/lg-oven-self-clean-not-working/)
-- [LG Dishwasher Won't Fill With Water - Causes & Fix](/posts/lg-dishwasher-wont-fill-with-water/)

@@ -19,8 +19,6 @@ When your Frigidaire washer stays stuck on the same cycle and will not advance, 
 
 This is a symptom, not one universal fault code. The exact cause depends on your model and any displayed error code. Top-load Frigidaire washers most often have trouble with the lid switch or door lock, the pressure hose and sensor, the drain pump or hose, and the main control or timer.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Faulty lid switch or door lock** The control will not advance into spin unless it receives a valid closed and locked signal from the lid switch or door lock assembly.

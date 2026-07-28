@@ -13,13 +13,10 @@ money_part: "High-pressure switch (HPS)"
 most_likely_cause: "Actual ground leakage in outdoor circuit"
 ---
 
-## Daikin E2 Error Code — What It Means
-
+## What this code means
 Daikin E2 is not one universal fault across all Daikin products. On many VRV and VRF outdoor systems, E2 indicates ground leakage detection or a related high-pressure and earth-leakage protection issue. On some split and room air conditioners, E2 is reported as an indoor room-temperature thermistor or sensor fault. The exact meaning depends on the product family, so always consult your model-specific service manual and error-code lookup before ordering parts or attempting repair.
 
 For VRV and VRF systems, the E2 family is identified in Daikin documentation as ground leakage detection or master outdoor unit earth leakage detection. Troubleshooting charts also show that E2-related checks can involve the high-pressure switch, and a defective high-pressure switch can be part of the malfunction path. For residential split units, third-party service guides report E2 as a room-temperature sensor or indoor thermistor issue, but this should be verified against the exact model's service literature before proceeding.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -52,10 +49,3 @@ For VRV and VRF systems, the E2 family is identified in Daikin documentation as 
 ## When to Call a Pro
 
 Call a qualified Daikin technician if you do not have the model-specific service manual, wiring diagrams, and fault-code tables for your exact system. Ground leakage detection and high-pressure safety circuits are life-safety and refrigerant-safety systems that must not be bypassed or guessed at. If you are not trained in refrigerant systems, do not have insulation-resistance test equipment, or cannot safely access outdoor unit high-voltage terminals and control boards, stop and call for service. Attempting repair without correct documentation or tools can result in compressor damage, refrigerant loss, or electrical hazards.
-
-## See Also
-
-- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
-- [Daikin E3 Error Code — Causes & Fix](/posts/daikin-e3-error-code/)
-- [Daikin Aurora Heat Pump Error Codes - Cold Climate Fault Guide](/posts/daikin-aurora-heat-pump-error-codes/)
-- [Daikin U5 Error Code - Causes & Fix](/posts/daikin-u5-error-code/)

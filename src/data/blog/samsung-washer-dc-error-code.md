@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Door lock assembly (lid lock assembly for top-load)"
 ---
 
-## Samsung Washer DC Error Code — What It Means
-
+## What this code means
 On Samsung washers, DC indicates an unbalanced load that prevents the drum from spinning safely at high speed. The washer detects that laundry is bunched to one side or the machine itself is not level, so it stops or reduces the spin cycle to avoid damage. This code appears on both front-load and top-load models and is Samsung's way of telling you the load distribution or installation needs correction before the spin can complete.
 
 The code does not mean a door-close fault in most cases. Samsung's own support documentation confirms that DC (and the related UE code) specifically signals load imbalance. The machine will not proceed until the issue is resolved by leveling the washer, redistributing the laundry, or clearing any installation problems such as shipping hardware left in place.
@@ -25,8 +24,6 @@ The code does not mean a door-close fault in most cases. Samsung's own support d
 ## Before You Replace Anything
 
 Homeowners sometimes replace the door lock assembly or control board when DC appears, but the code almost always points to a load or leveling problem. Before ordering parts, open the drum and physically check that clothes are spread evenly and that the washer sits level on the floor.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -24,8 +24,6 @@ The ESAB Rebel EMP (215ic, 235ic, 285ic) is a popular multi-process welder used 
 | F04 | Communication fault |
 | F05 | Wire feeder fault |
 
-[Jump to Fix](#fix)
-
 ## Most Common Rebel EMP Error Codes and Fixes {#fix}
 
 ### F01 — Thermal Overload

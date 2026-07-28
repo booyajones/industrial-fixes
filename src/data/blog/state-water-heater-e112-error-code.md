@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "70%"
 ---
 
-## State Water Heater E112 Error — What It Means
-
+## What this code means
 The E112 error code on a State water heater (which uses A.O. Smith technology) signals an ignition failure. The main control board starts the ignition sequence but cannot confirm a flame within the safe time limit, so it shuts down as a failsafe. In A.O. Smith and State products, this is most commonly triggered by an air intake blockage that prevents sufficient oxygen from reaching the burner.
 
 The unit attempts to spark the burner but fails to detect a flame, typically because of insufficient gas flow, blocked air supply, or low water flow preventing the ignition process from starting. The system protects against dangerous conditions by locking out until the fault is cleared.
@@ -29,8 +28,6 @@ The unit attempts to spark the burner but fails to detect a flame, typically bec
 ## Before You Replace Anything
 
 Homeowners often replace the ignition plug or control board when the real problem is a clogged air intake screen or closed gas valve. Clean the intake and verify gas supply before replacing any electronic parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

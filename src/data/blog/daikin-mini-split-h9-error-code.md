@@ -20,8 +20,7 @@ free_checks:
 part_price: "$15-25"
 ---
 
-## Daikin H9 Error Code — What It Means
-
+## What this code means
 The H9 error code signals that your Daikin mini split's control board is reading an abnormal resistance from the outdoor suction air temperature thermistor. This sensor monitors the temperature of air entering the outdoor unit. When resistance falls to near zero (short circuit) or climbs to infinite (open circuit), the board cannot accurately track outdoor conditions and throws H9. This is strictly an outdoor unit problem, separate from indoor sensor faults or discharge pipe sensors.
 
 The board expects a specific resistance range at any given temperature. When the thermistor degrades, its internal element breaks or shorts, sending an out-of-range signal. Loose connectors, corroded terminals, or damaged wiring between the sensor and the outdoor PC board can also produce the same fault. In rare cases the board input circuit itself fails even when the sensor is healthy.
@@ -29,8 +28,6 @@ The board expects a specific resistance range at any given temperature. When the
 ## Before You Replace Anything
 
 Some technicians replace the outdoor PC board when the sensor is the actual culprit. Always measure thermistor resistance with a multimeter first-a $15 sensor will show 0 ohms (short) or infinite resistance (open) if bad, saving you the cost of a $300+ board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working with live electrical connections or if you lack a multimeter to test sensor resistance. A licensed HVAC technician can quickly measure the thermistor, verify wiring continuity, and replace the sensor or board as needed. Also call a pro if the H9 code returns after you have replaced the sensor and confirmed correct installation, since the outdoor PC board may require replacement or the system may have a refrigerant-side fault that needs refrigerant gauges and recovery equipment.
 
 **Rough cost:** DIY runs about $15-25 in parts, 30-60 min. A pro service call runs about $150-300.
-
-## See Also
-
-- [Daikin U0 Error Code - Causes & Fix](/posts/daikin-mini-split-u0-error-code/)
-- [Daikin Mini Split A8 Error Code - Causes & Fix](/posts/daikin-mini-split-a8-error-code/)
-- [Daikin E9 Error Code — Causes & Fix](/posts/daikin-e9-error-code/)
-- [Daikin F3 Error Code — Causes & Fix](/posts/daikin-f3-error-code/)

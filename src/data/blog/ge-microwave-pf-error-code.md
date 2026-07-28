@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "GE microwave control board (main PCB)"
 ---
 
-## GE Microwave PF Error Code — What It Means
-
+## What this code means
 PF on a GE microwave stands for power failure. The control system detected that incoming power was interrupted or dropped out. This code appears after a utility outage, a tripped breaker, the unit being unplugged, or a brief voltage interruption. It is not a failure of the microwave's cooking system.
 
 The code displays until you acknowledge it at the keypad and restore stable power. In most cases, PF is cleared by pressing the Clear, Off, or Cancel button and then power-cycling the microwave. If PF returns repeatedly while house power is confirmed stable, the control board or control panel assembly may have developed an internal fault.
@@ -25,8 +24,6 @@ The code displays until you acknowledge it at the keypad and restore stable powe
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board when PF keeps appearing, but the real cause is often a loose plug, poor receptacle contact, or a shared circuit overload. Always verify the outlet is live and stable with a meter or another appliance before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

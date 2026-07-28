@@ -17,8 +17,7 @@ money_part: "LG dishwasher door gasket"
 part_price: "$15-40"
 ---
 
-## LG Dishwasher AE Error Code — What It Means
-
+## What this code means
 The AE error code (sometimes displayed as E1) on LG dishwashers indicates that water has leaked into the base pan beneath the tub and triggered the float switch. This is a protective shutdown to prevent water damage to your floor and internal components. The code does not appear in LG's published washer documentation, so if you see AE on an LG washing machine rather than a dishwasher, consult your owner's manual or the model-specific service sheet for the correct definition.
 
 For LG dishwashers, the manufacturer directs technicians to inspect for leveling issues, door gasket buildup or damage, and spray-arm blockage because these conditions allow water to escape the tub and collect in the drain pan below. Once water pools in the pan, the float switch lifts and the unit stops mid-cycle to protect the machine.
@@ -26,8 +25,6 @@ For LG dishwashers, the manufacturer directs technicians to inspect for leveling
 ## Before You Replace Anything
 
 Homeowners often replace the float switch itself when the real problem is an active leak. Before ordering a new switch, dry the base pan completely and run a short cycle while watching for water escaping from the door, hoses, or spray arms.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -77,10 +74,3 @@ Answer these to narrow it down fast.
 Call a technician if you have dried the base pan and confirmed the machine is level but the AE code returns immediately on every cycle, since a hidden tub crack or a failed sump seal requires disassembly and parts that are not stocked at most hardware stores. Also get professional help if you find water leaking from the circulation pump housing or the tub-to-pump boot, because those repairs involve removing the spray-arm assembly and lower pump cover. If the float switch itself is physically broken or the wiring harness to the switch is corroded, a pro can test continuity and replace the switch quickly without trial-and-error part swaps.
 
 **Rough cost:** DIY runs about $15-40 for a door gasket or hose clamp, 30-60 min. A pro service call runs about $120-220 for service call and gasket replacement.
-
-## See Also
-
-- [LG Mini-Split CH05 Error - Causes & Fix](/posts/lg-mini-split-ch-05-error-code/)
-- [LG Mini Split Not Responding to Remote - Causes & Fix](/posts/lg-mini-split-not-responding-to-remote/)
-- [LG Microwave F17 Error Code - Causes & Fix](/posts/lg-microwave-f17-error-code/)
-- [LG Washer LE Error Code - Causes & Fix](/posts/lg-range-le-error-code/)

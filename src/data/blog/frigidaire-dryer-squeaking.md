@@ -19,8 +19,6 @@ A squeaking Frigidaire dryer is not an error code. It's a mechanical noise sympt
 
 If the noise stays constant even when the drum slows down, or if it continues with the drum removed, the source is likely the motor or blower area instead of the rotating drum parts. Either way, this is a friction or wear issue, not an electrical fault.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Worn rear drum bearing or support** This is the most common source of a high-pitched squeal in Frigidaire dryers and gets worse as the drum spins under load.
@@ -54,18 +52,18 @@ If the noise stays constant even when the drum slows down, or if it continues wi
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Frigidaire Dryer Al 01 error code](/posts/frigidaire-dryer-al-01-error-code/)
-- [Frigidaire Dryer Al 02 error code](/posts/frigidaire-dryer-al-02-error-code/)
-- [Frigidaire Dryer Al 03 error code](/posts/frigidaire-dryer-al-03-error-code/)
-- [Frigidaire Dryer Al 04 error code](/posts/frigidaire-dryer-al-04-error-code/)
-- [Frigidaire Dryer Al 05 error code](/posts/frigidaire-dryer-al-05-error-code/)
-- [Frigidaire Dryer Al 06 error code](/posts/frigidaire-dryer-al-06-error-code/)
-- [Frigidaire Dryer Al 07 error code](/posts/frigidaire-dryer-al-07-error-code/)
-- [Frigidaire Dryer Al 08 error code](/posts/frigidaire-dryer-al-08-error-code/)
-- [Frigidaire Dryer Al 09 error code](/posts/frigidaire-dryer-al-09-error-code/)
-- [Frigidaire Dryer Al 10 error code](/posts/frigidaire-dryer-al-10-error-code/)
-- [Frigidaire Dryer Al 11 error code](/posts/frigidaire-dryer-al-11-error-code/)
-- [Frigidaire Dryer Al 12 error code](/posts/frigidaire-dryer-al-12-error-code/)
+- Frigidaire Dryer Al 01 error code
+- Frigidaire Dryer Al 02 error code
+- Frigidaire Dryer Al 03 error code
+- Frigidaire Dryer Al 04 error code
+- Frigidaire Dryer Al 05 error code
+- Frigidaire Dryer Al 06 error code
+- Frigidaire Dryer Al 07 error code
+- Frigidaire Dryer Al 08 error code
+- Frigidaire Dryer Al 09 error code
+- Frigidaire Dryer Al 10 error code
+- Frigidaire Dryer Al 11 error code
+- Frigidaire Dryer Al 12 error code
 
 ## When to Call a Pro
 

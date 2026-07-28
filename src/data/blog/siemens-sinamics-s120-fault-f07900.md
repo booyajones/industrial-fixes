@@ -24,8 +24,6 @@ The **Siemens SINAMICS S120** is a modular, multi-axis servo drive system used i
 
 **Fault F07900** means the S120 Motor Module detected that the motor's actual temperature (measured via a KTY84, PTC, or NTC temperature sensor integrated into the motor winding) has exceeded the trip threshold. The drive shuts down the affected axis to prevent motor insulation failure. **F07901** is the companion fault — same alarm but triggered by the motor's thermal model (software temperature estimate) rather than a physical sensor.
 
-[Jump to Fix](#step-by-step-fix)
-
 ## Related S120 Faults (Referenced in This Article)
 
 | Fault | Name |
@@ -97,19 +95,3 @@ Siemens SINAMICS S120 systems in machine tool applications are typically commiss
 A persistent F07900 that returns within minutes of restart typically indicates the motor needs replacement — continued operation risks catastrophic winding failure and a much longer downtime event.
 
 > **Pro tip:** SINAMICS S120 stores a fault history buffer accessible via STARTER or Startdrive under **Diagnostics → Fault/alarm buffer**. Each entry includes the fault number, time stamp, and the parameter value that caused the fault (e.g., the temperature reading that caused F07900). For intermittent thermal faults, export the fault history and plot the temperature readings over time to identify whether there's a gradual thermal rise (cooling system issue) or sudden spikes (sensor fault). This data is invaluable for convincing a machine tool manufacturer's application engineer that the motor needs replacement.
-
-## See Also
-
-- [Siemens SINAMICS G120 Fault F00001](/posts/siemens-sinamics-g120-fault-f00001/)
-- [Siemens SINAMICS G120C Fault Codes](/posts/siemens-g120c-fault-codes/)
-- [Siemens SINUMERIK 840D Alarm 380500](/posts/siemens-sinumerik-alarm-380500/)
-- [Siemens Micromaster 440 Fault F001](/posts/siemens-micromaster-fault-f001/)
-- [Yaskawa Sigma-7 SGD7S Servo Drive Alarm Codes](/posts/yaskawa-sigma7-sgd7s-alarm-codes/)
-
-## Related Articles
-
-- [Siemens Sinumerik 828D Alarm Codes Guide — Complete Diagnostic Reference](/posts/siemens-828d-alarm-codes/)
-- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
-- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)
-- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
-- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)

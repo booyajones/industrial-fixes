@@ -17,8 +17,7 @@ money_part: "Dryer power cord"
 part_price: "$15-80"
 ---
 
-## Maytag Dryer PF Error Code — What It Means
-
+## What this code means
 The PF code on a Maytag dryer stands for Power Failure. The dryer detected that electrical power was interrupted during the cycle. Maytag instructs you to touch and hold START to restart the cycle, or press POWER to clear the display.
 
 This code usually appears after a brief outage, voltage drop, or breaker interruption while the dryer was running. On electric dryers, a partially tripped breaker or unstable supply can leave the control in a PF state or make the code recur after reset. If the dryer was recently installed, Maytag advises having a qualified electrician verify the electrical supply.
@@ -26,8 +25,6 @@ This code usually appears after a brief outage, voltage drop, or breaker interru
 ## Before You Replace Anything
 
 Many people replace the main control board when PF keeps returning, but a loose power-cord terminal or weak outlet is the real culprit more often. Check every connection at the terminal block and outlet with the breaker off before ordering any boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

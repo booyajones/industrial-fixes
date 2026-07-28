@@ -21,8 +21,7 @@ part_price: "$30-70"
 no_buy_pct: "60%"
 ---
 
-## Maytag Range F5E0 Error Code — What It Means
-
+## What this code means
 The F5 E0 code on a Maytag range signals a fault in the oven door latch system. Maytag defines this as a problem with the oven door latch assembly, the door switch, or the wiring connecting them. The control board has detected that the door lock circuit is not responding correctly, which can prevent the oven from operating or trigger the error during self-clean cycles.
 
 This code is specific to the door-lock mechanism and should not be confused with generic F5 errors listed on some third-party sites. Maytag's own documentation confirms that F5 E0 points directly to the latch assembly, door switch, or related wiring as the problem area.
@@ -30,8 +29,6 @@ This code is specific to the door-lock mechanism and should not be confused with
 ## Before You Replace Anything
 
 Many people replace the control board first, assuming the error means a failed electronic control. Check the door latch assembly and door switch first, since they are the parts Maytag identifies for this code and cost far less than a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

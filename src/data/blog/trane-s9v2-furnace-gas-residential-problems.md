@@ -42,10 +42,3 @@ The Trane S9V2 is a residential gas furnace with a communicating control board a
 ## When to Call a Pro
 
 Call a licensed HVAC technician for all gas supply work, gas valve replacement, combustion analysis, or any fault code that persists after you have cleared drains and verified basic vent integrity. Control board diagnostics, inducer motor replacement, and proper vent sizing require professional tools and training. If you see an e0 internal IFC error or repeated e2 retry-exceeded codes after correcting obvious blockages, a technician needs to perform full system diagnostics and verify safe combustion before the furnace returns to service.
-
-## See Also
-
-- [Trane E13 Error Code - Causes & Fix](/posts/trane-heat-pump-e13-error-code/)
-- [Trane Furnace Not Heating - Causes & Fix](/posts/trane-furnace-not-heating/)
-- [Trane XR15 Heat Pump Error Codes — Complete Guide](/posts/trane-xr15-error-codes/)
-- [Trane XR14 Heat Pump Error Codes — Fault Code Diagnostic Guide](/posts/trane-xr14-error-codes/)

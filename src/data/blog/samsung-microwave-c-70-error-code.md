@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "Steam sensor assembly"
 ---
 
-## Samsung C-70 Microwave Error — What It Means
-
+## What this code means
 The C-70 code on Samsung microwaves indicates an error with the steam sensor. Samsung groups C-70, C-71, and C-72 together under the same steam sensor fault family. The microwave has detected a problem in the steam sensor circuit, which monitors moisture during cooking cycles.
 
 The code does not always mean the sensor itself has failed. Moisture or condensation inside the electronics can trigger the fault, and Samsung specifically recommends allowing the unit to dry before replacing any parts. The underlying problem can be the sensor, its wiring and connectors, or the main control board.
@@ -25,8 +24,6 @@ The code does not always mean the sensor itself has failed. Moisture or condensa
 ## Before You Replace Anything
 
 Homeowners often replace the main control board first. Check the steam sensor harness for loose or corroded connectors and allow the unit to dry completely before ordering expensive boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

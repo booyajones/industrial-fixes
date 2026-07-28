@@ -20,15 +20,12 @@ free_checks:
 part_price: "$50-100"
 ---
 
-## KitchenAid Range F7 Error — What It Means
-
+## What this code means
 F7 on a KitchenAid range is not a single universal fault. It typically appears with a subcode like F7:E0 or F7:E6, and the exact meaning depends on that subcode. F7:E0 points to a problem with the oven door latch assembly or its wiring, meaning the latch is not reaching the expected locked or unlocked position or the control cannot see the signal. F7:E6 indicates a problem with the cooling fan or its wiring. Always note the full code displayed (including the subcode after the colon) because the repair path changes by subcode. If your display shows only F7 without a subcode, consult your owner's manual or wiring diagram for your specific model to confirm the exact meaning.
 
 ## Before You Replace Anything
 
 Some technicians report homeowners replacing the touch console or control board when the fault is actually a failed door latch assembly or a loose connector at the latch. Always inspect the latch and its wiring harness first before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

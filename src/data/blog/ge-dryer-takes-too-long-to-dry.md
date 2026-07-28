@@ -19,8 +19,6 @@ A GE dryer that takes too long to dry is a symptom, not a fault code. GE's own g
 
 Other real-world causes include improper electrical supply on electric models (a dryer on 120 V instead of 240 V can take up to three times longer to dry, according to GE), overloaded or underloaded drums, mixed fabric types, a washer leaving clothes too wet, or a dryer not sitting level on sensor-dry models so clothes don't contact the moisture bars. If airflow and power are good, the heating element, thermostats, thermistor, or gas valve solenoids may have failed.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged lint filter or blocked exhaust duct** The most common cause is restricted airflow from a lint-filled filter, clogged duct run, kinked flexible duct, or blocked outside damper.

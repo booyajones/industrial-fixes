@@ -15,8 +15,7 @@ money_part: "LG range main control board (model-specific)"
 most_likely_cause: "Code is model-specific or undocumented"
 ---
 
-## LG Range E7 Error Code — What It Means
-
+## What this code means
 E7 does not appear in LG's official U.S. range and oven error code documentation. LG's published range fault codes cover thermistor failures, low voltage, keypad issues, and communication errors, but E7 is not listed among them. By contrast, E7 is a defined code for LG SideKick pedestal washers, where it means the unit is not properly installed under a compatible LG front-load washer or the stacking switch (top washer detection device) is damaged.
 
 If you are seeing E7 on an LG range or oven display, the code is likely model-specific and not covered by the generic range code list. Verify your exact model number and consult the service literature or wiring diagram that shipped with that model. Do not assume the meaning from other LG product lines. If the display is dim or partially obscured, confirm you are reading the correct characters, as other codes (F7, E1, or E9) have defined meanings for ranges.
@@ -24,8 +23,6 @@ If you are seeing E7 on an LG range or oven display, the code is likely model-sp
 ## Before You Replace Anything
 
 Because E7 is not a documented LG range code, technicians sometimes replace the main control board or temperature sensor by guessing. Before ordering parts, locate the exact error code definition in your model's service manual or wiring diagram to confirm what the display is actually reporting.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a professional if the code persists after a power reset and you cannot locate model-specific documentation that defines E7. Because the code is not in LG's generic range list, diagnosis requires access to service literature and may involve high-voltage testing of the control board, relays, or wiring harness. A qualified technician will have the correct schematic, know which test points to measure, and can order the right part by referencing LG's internal service database. Do not replace the control board or any sensor without confirming the code's meaning for your exact model, as guessing can lead to unnecessary expense and may not resolve the fault.
 
 **Rough cost:** A pro service call runs about $150-350 depending on model and final diagnosis.
-
-## See Also
-
-- [LG Microwave F16 Error - Causes & Fix](/posts/lg-microwave-f16-error-code/)
-- [LG Range F6 Error Code - Causes & Fix](/posts/lg-range-f6-error-code/)
-- [LG Dryer Takes Too Long to Dry - Causes & Fix](/posts/lg-dryer-takes-too-long-to-dry/)
-- [LG Microwave F-2 Error Code - Causes & Fix](/posts/lg-microwave-f-2-error-code/)

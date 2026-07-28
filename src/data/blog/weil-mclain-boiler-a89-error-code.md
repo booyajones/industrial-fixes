@@ -17,8 +17,7 @@ free_checks:
   - "Look for the installation manual inside the boiler jacket or search the Weil-McLain website with your model number for the correct fault-code table"
 ---
 
-## Weil-McLain Boiler A89 Error — What It Means
-
+## What this code means
 The A89 code is not defined in publicly available Weil-McLain documentation for all models. Weil-McLain fault codes are specific to the boiler series and the control platform installed (such as Evergreen, Ultra, or EcoNet systems). Without your exact model number from the rating plate and the control board family, the meaning of A89 cannot be confirmed. Weil-McLain's own support materials direct users to contact a professional contractor for troubleshooting and warranty claims, which require the failed part description and photos.
 
 Generic boiler error codes can indicate issues with flame sensing, gas supply, ignition components, pressure sensors, circulators, or limit switches, but mapping any of those to A89 specifically is not possible from manufacturer sources. Always consult the installation and service manual that shipped with your boiler or call Weil-McLain technical support with your model number in hand.
@@ -26,8 +25,6 @@ Generic boiler error codes can indicate issues with flame sensing, gas supply, i
 ## Before You Replace Anything
 
 Because A89 is not universally defined, replacing a control board or igniter without proper diagnosis wastes money. Always record the full model number and check the service manual or call a technician to decode the fault before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a licensed heating professional immediately. Weil-McLain does not publish A89 in general consumer documentation, so the code is control-specific and requires access to the correct service manual and diagnostic tools. Gas-fired boiler troubleshooting involves live gas, high-voltage ignition, and pressurized water systems. A technician will use combustion analyzers, multimeters, and manometers to pinpoint whether A89 relates to flame proving, sensor faults, gas supply, or control communication. Attempting repairs without the exact fault definition risks expensive misdiagnosis, voided warranty, or unsafe operation. If your boiler is under warranty, Weil-McLain requires a professional to document the failed part and submit photos for coverage.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain Boiler A139 Error - Causes & Fix](/posts/weil-mclain-boiler-a139-error-code/)
-- [Weil-McLain A03 Error - Causes & Fix](/posts/weil-mclain-boiler-a03-error-code/)
-- [Weil-McLain A116 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a116-error-code/)
-- [Weil-McLain A104 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a104-error-code/)

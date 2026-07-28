@@ -14,8 +14,7 @@ money_part: "Motor PTC thermistor or temperature sensor"
 most_likely_cause: "Unverified fault code"
 ---
 
-## Yaskawa GA800 E78 Fault — What It Means
-
+## What this code means
 The E78 code is not confirmed in the Yaskawa GA800 manufacturer documentation available. Unlike verified GA800 faults such as oH3 (Motor Overheat from PTC sensor issues), E78 does not appear in the official fault tables. Always verify the exact alarm or fault code displayed on the drive keypad and cross-reference it with your GA800 manual or contact Yaskawa technical support before proceeding with any repair.
 
 Because the meaning is unverified, the safest approach is to record the full code, note whether it appears as a fault or alarm, and gather your drive model number, serial number, and application details. If the code is temperature-related like oH3, wiring errors or defective thermistor connections are the most common culprits. Do not replace drive components until the code is properly identified.
@@ -23,8 +22,6 @@ Because the meaning is unverified, the safest approach is to record the full cod
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board or power section before verifying the fault code and inspecting external wiring. Always confirm the code meaning and check motor sensor wiring, terminal connections, and parameter settings first.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa authorized service center if the fault code cannot be identified in your manual, if the fault persists after you have verified all external wiring and parameter settings, or if internal drive diagnostics are required. High-voltage work inside the drive enclosure and internal component replacement require proper lockout/tagout procedures, discharge of capacitors, and knowledge of drive electronics. Always provide the technician with your drive model and serial number, the exact fault code, fault history, and details of your motor and application so diagnosis can proceed efficiently.
 
 **Rough cost:** A pro service call runs about $200-500 depending on diagnosis time and component replacement.
-
-## See Also
-
-- [Yaskawa GA800 VFD F008 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-f008-fault-code/)
-- [Yaskawa GA800 E10 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e10-fault-code/)
-- [Yaskawa GA800 VFD A.113 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-113-fault-code/)
-- [Yaskawa U1000 Fault Codes: Complete Guide](/posts/yaskawa-u1000-fault-codes/)

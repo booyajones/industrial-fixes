@@ -19,8 +19,6 @@ When an LG washer won't start, you're dealing with a symptom rather than a singl
 
 If no code appears on the display, the problem is usually a start-interlock issue, a power interruption, or a control board fault. When a code does show, CL means Child Lock is engaged and blocking cycle changes, while dE signals the door is not closing or locking properly. Both conditions stop the washer from running until resolved.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Child Lock enabled** The CL code appears when Child Lock is active, blocking all cycle changes and preventing the washer from starting until you disable it with your model's button combination.

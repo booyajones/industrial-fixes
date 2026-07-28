@@ -13,11 +13,8 @@ money_part: "Siemens SINAMICS G120 Control Unit (CU)"
 most_likely_cause: "Parameter change not committed"
 ---
 
-## Siemens G120 F01040 — What It Means
-
+## What this code means
 F01040 is a fault code on the Siemens SINAMICS G120 drive that trips the unit and requires a full power cycle after saving parameters. The drive reports an internal software or parameterization error in the Control Unit. Siemens manuals describe the remedy as saving your parameter settings and performing a POWER ON restart. This class of fault relates to inconsistent or corrupted data on the drive's non-volatile memory or to internal software problems that prevent normal operation. Unlike an alarm, F01040 stops the drive completely until you clear the fault and address the underlying cause.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,10 +43,3 @@ F01040 is a fault code on the Siemens SINAMICS G120 drive that trips the unit an
 ## When to Call a Pro
 
 Call a qualified drives technician or Siemens service partner if F01040 returns after you have saved parameters, performed a full power cycle, and verified the memory card. If you are not familiar with Startdrive software, fault-buffer diagnostics, or firmware update procedures, get professional help before replacing the Control Unit. Persistent internal software faults can indicate deeper hardware problems that require bench testing and factory repair. Always contact support if the drive is under warranty or if your process cannot tolerate trial replacements.
-
-## See Also
-
-- [Siemens G120 F01034 - Causes & Fix](/posts/siemens-g120-f01034-fault-code/)
-- [Siemens G120 A01028 - Causes & Fix](/posts/siemens-g120-a01028-fault-code/)
-- [Siemens SINAMICS G120 F30011 Fault — Phase Loss Fix](/posts/siemens-sinamics-f30011-fault/)
-- [Siemens Micromaster F0005 - Causes & Fix](/posts/siemens-micromaster-f0005-fault-code/)

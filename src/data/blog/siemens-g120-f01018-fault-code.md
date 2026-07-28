@@ -13,13 +13,10 @@ money_part: "Siemens SINAMICS G120 Control Unit (CU)"
 most_likely_cause: "Power interruption during startup"
 ---
 
-## Siemens G120 F01018 — What It Means
-
+## What this code means
 F01018 on a Siemens SINAMICS G120 indicates that the drive's booting process was interrupted multiple times. When this happens, the module automatically boots using factory settings instead of your saved configuration. Siemens documents this as a startup recovery behavior triggered by repeated incomplete boot cycles.
 
 The fault is cleared by performing a full POWER ON cycle (powering down completely, then restarting). The drive is trying to protect itself after detecting that it could not complete a normal startup sequence. Once power is stable and the boot completes cleanly, the drive should restore normal operation from user data if available.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ The fault is cleared by performing a full POWER ON cycle (powering down complete
 ## When to Call a Pro
 
 Call a qualified technician or Siemens service if the fault returns after you have verified stable supply voltage, performed a complete power cycle, and checked for parameter corruption. Persistent F01018 after these steps usually means an internal control unit failure or a complex commissioning issue that requires diagnostic software and replacement parts. Also contact support if the drive boots to factory settings every time despite having valid user data loaded, or if you are unfamiliar with VFD parameter management and firmware procedures.
-
-## See Also
-
-- [Siemens Micromaster F0003 - Causes & Fix](/posts/siemens-micromaster-f0003-fault-code/)
-- [Siemens G120 A05006 - IGBT Overtemperature Warning & Fix](/posts/siemens-g120-a05006-fault-code/)
-- [Siemens Micromaster F0024 - Causes & Fix](/posts/siemens-micromaster-f0024-fault-code/)
-- [Siemens Micromaster F0080 - Causes & Fix](/posts/siemens-micromaster-f0080-fault-code/)

@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "60%"
 ---
 
-## Manitowoc E09 Error Code — What It Means
-
+## What this code means
 The E09 error code on a Manitowoc ice machine indicates a Flooding Evaporator Fault for single evaporator/single circuit systems. The evaporator plate is saturated with water and not freezing properly, causing the machine to stall in the freeze cycle. The fault triggers when the ice thickness probe detects that the water level on the evaporator plate has been excessively high for more than 24 hours during the freeze cycle, preventing ice from forming a solid sheet. This indicates the refrigeration system is not removing heat efficiently enough to freeze the water curtain.
 
 The flooding condition almost always points to an insulation problem (mineral scale blocking heat transfer), restricted airflow (dirty condenser), or a sensor issue (dirty or misadjusted ice thickness probe). Less commonly, low refrigerant or a failed thermostatic expansion valve will prevent the system from absorbing enough heat. The machine cannot complete a harvest cycle until the underlying cooling or water distribution problem is resolved.
@@ -29,8 +28,6 @@ The flooding condition almost always points to an insulation problem (mineral sc
 ## Before You Replace Anything
 
 Technicians sometimes replace the ice thickness probe when the real problem is heavy mineral scale on the evaporator plate itself. Clean and descale the plate with Manitowoc-approved nickel-safe cleaner (Part #000000584) before ordering a new probe.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -80,10 +77,3 @@ Answer these to narrow it down fast.
 Call a refrigeration technician if the evaporator and condenser are clean, the ice thickness probe is functioning, and the machine still displays the E09 flooding fault. Diagnosing low refrigerant, a failed thermostatic expansion valve, a weak hot gas valve, or other sealed-system problems requires refrigeration gauges, leak detection equipment, and EPA-certified handling of refrigerant. A pro should also be called if you are uncomfortable working with electrical connections on the control board or if the machine requires adjustment of refrigerant pressures or factory calibration settings. Most E09 faults resolve with thorough cleaning and descaling, but persistent flooding after maintenance points to a refrigeration system issue that only a licensed technician can safely repair.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Manitowoc NEO Ice Machine Error Codes - What It Means and How to Fix It](/posts/manitowoc-neo-ice-machine-error-codes/)
-- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
-- [Manitowoc Ice Machine E01 Error: Long Freeze Cycle Shutdown Causes and Fix](/posts/manitowoc-e01-long-freeze/)
-- [Manitowoc Indigo NXT Error Code 8 - What It Means and How to Fix It](/posts/manitowoc-indigo-nxt-error-code-8/)

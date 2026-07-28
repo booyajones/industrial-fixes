@@ -14,8 +14,7 @@ most_likely_cause: "Misread or transcription error"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa GA800 A.121 Fault — What It Means
-
+## What this code means
 The A.121 fault code does not appear in verified Yaskawa GA800 alarm tables. GA800 drives typically display codes like oC (overcurrent), ov (overvoltage), CPF06, or oFA31, but A.121 is not corroborated in manufacturer documentation for this series. The code may be a transcription error, a misread display, or belong to a different Yaskawa product family. Confirm the exact alphanumeric characters shown on the keypad and verify the drive nameplate shows GA800. Some Yaskawa series use different alarm formats, and mixing up model families leads to wasted troubleshooting time.
 
 Because the code is not verified, do not guess at reset procedures or part replacements. Instead, follow general Yaskawa fault troubleshooting: check all wiring at main circuit terminals, motor leads, and control connections for looseness, shorts, or opens. Inspect the motor cable and motor insulation resistance if you suspect a ground fault. Check for overload conditions such as excessive load, short acceleration or deceleration times, or cooling-system failure. Only replace hardware after electrical checks confirm internal damage. Consult the GA800 instruction manual alarm table or contact Yaskawa technical support with the exact code and drive serial number.
@@ -24,31 +23,13 @@ Because the code is not verified, do not guess at reset procedures or part repla
 
 Technicians sometimes replace the drive or control board before verifying the exact fault code and checking wiring. Always confirm the displayed code against the correct manual and test motor-cable insulation and terminal tightness first.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Misread or transcription error (~40%)** The displayed code may have been copied incorrectly or the keypad may show a partial character that looks like A.121.
-- **Wrong drive series (~30%)** The drive may be a different Yaskawa model (not GA800) that uses an alarm format unfamiliar to GA800 tables.
-- **Loose or shorted wiring (~15%)** Main-circuit, motor-lead, or control-terminal connections may be loose, corroded, or shorted, triggering an unlabeled display.
-- **Failed option card or damaged control board (~10%)** An internal communication fault or board defect can produce garbled or non-standard alarm codes.
-- **Motor or cable insulation breakdown (~5%)** A motor-side short or ground fault can cause the drive to display an unexpected code if the fault logic path is corrupted.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Does the keypad clearly show A.121 with no flickering or partial segments?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The display is stable. Photograph it, check the drive nameplate for the exact model and serial number, and consult the correct manual or contact Yaskawa support.<br><strong>No:</strong> The display may be damaged or the code misread. Clean the keypad window, cycle power once, and note the exact characters shown after reboot.</div>
-</details>
-
-<details class="dtree"><summary>Is the drive nameplate marked GA800 (not A1000, V1000, or another series)?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Proceed with GA800 troubleshooting: check all wiring, measure motor-cable insulation resistance, and review the GA800 alarm table for similar codes.<br><strong>No:</strong> You have the wrong manual. Find the correct instruction manual for the series shown on the nameplate and look up the code there.</div>
-</details>
-
-<details class="dtree"><summary>Have you checked that all main-circuit and control-terminal screws are tight and no wires show char marks or corrosion?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Wiring is sound. Test motor insulation resistance to ground and phase-to-phase. If readings are normal, suspect an internal drive fault and call Yaskawa support.<br><strong>No:</strong> Tighten all terminals, clean any corrosion, and inspect motor-cable jacket for damage. Retest after securing connections.</div>
-</details>
+- **Misread or transcription error** The displayed code may have been copied incorrectly or the keypad may show a partial character that looks like A.121.
+- **Wrong drive series** The drive may be a different Yaskawa model (not GA800) that uses an alarm format unfamiliar to GA800 tables.
+- **Loose or shorted wiring** Main-circuit, motor-lead, or control-terminal connections may be loose, corroded, or shorted, triggering an unlabeled display.
+- **Failed option card or damaged control board** An internal communication fault or board defect can produce garbled or non-standard alarm codes.
+- **Motor or cable insulation breakdown** A motor-side short or ground fault can cause the drive to display an unexpected code if the fault logic path is corrupted.
 
 ## Step-by-Step Fix {#fix}
 
@@ -70,12 +51,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a qualified electrician or Yaskawa-trained technician immediately if you cannot verify the exact fault code, if wiring inspections reveal char marks or signs of arcing, or if motor insulation resistance is below acceptable limits. VFD troubleshooting involves high DC-bus voltages (up to 800 V or more on larger drives) that remain present even after AC input is removed. Do not open the drive enclosure or touch internal components without proper training, lockout/tagout, and waiting for capacitor discharge per the manual. A technician with Yaskawa certification can use diagnostic software to read internal fault logs, verify option-card communication, and confirm whether the displayed code is legitimate or the result of a hardware fault. Professional service typically costs two hundred to five hundred dollars for diagnosis and wiring repair, but drive or board replacement can exceed one thousand dollars, so accurate diagnosis before ordering parts saves both time and money.
-
-**Rough cost:** A pro service call runs about $200-500 for diagnosis and wiring repair; drive or board replacement can exceed $1,000.
-
-## See Also
-
-- [Yaskawa GA800 E65 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e65-fault-code/)
-- [Yaskawa GA800 A.105 Alarm - Causes & Fix](/posts/yaskawa-ga800-vfd-a-105-fault-code/)
-- [Yaskawa GA800 E84 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e84-fault-code/)
-- [Yaskawa A1000 oU Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-ou-fault-code/)

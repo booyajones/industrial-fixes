@@ -15,8 +15,7 @@ likelihood: "the most common documented cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 CPF14 Fault — What It Means
-
+## What this code means
 CPF14 is a control circuit fault in the Yaskawa A1000 variable frequency drive. The drive's internal CPU is operating incorrectly due to interference or internal hardware damage. Yaskawa's fault tables classify CPF14 as a self-diagnostic error in the control circuit, not a parameter or configuration problem.
 
 The fault can appear on power-up, during operation, or intermittently. If it appears once and clears after a power cycle, it may have been triggered by electrical noise or a transient event. If the fault returns after power cycling, the control board or the entire drive has sustained hardware damage and must be replaced.
@@ -24,8 +23,6 @@ The fault can appear on power-up, during operation, or intermittently. If it app
 ## Before You Replace Anything
 
 Technicians sometimes suspect grounding or wiring issues when CPF14 appears intermittently, but Yaskawa's troubleshooting explicitly states that persistent CPF14 indicates hardware damage requiring board or drive replacement, not a field-wiring fix.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa service center for CPF14. The fault requires diagnosing high-voltage control circuitry, handling static-sensitive boards, and verifying the drive's internal CPU operation. Board replacement involves opening the drive enclosure, disconnecting control and power buses, and ensuring proper reassembly to avoid further damage. If you are not trained in variable frequency drive service, do not attempt board replacement. A technician will also verify grounding, check for interference sources, and confirm that the replacement board resolves the fault without introducing new issues.
 
 **Rough cost:** A pro service call runs about $400-1200 for control board replacement, $1500-4000+ for drive replacement depending on frame size.
-
-## See Also
-
-- [Yaskawa VFD Fault OC — Overcurrent Fix](/posts/yaskawa-vfd-fault-oc-overcurrent/)
-- [Yaskawa GA800 A.110 Alarm - Causes & Fix](/posts/yaskawa-ga800-vfd-a-110-fault-code/)
-- [Yaskawa GA800 A.135 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-135-fault-code/)
-- [Yaskawa GA800 E27 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e27-fault-code/)

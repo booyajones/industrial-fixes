@@ -20,8 +20,6 @@ When your KitchenAid oven beeps continuously, it is almost always signaling a fa
 
 KitchenAid ovens tie beeping directly to the displayed error, so identifying the code is the first step in every repair. F2-E0 means the control board is detecting a continuous false input from the keypad, as if a button is being held down. PF codes appear after a power interruption and typically clear when you press Cancel and reset the clock. F9 codes point to electrical supply problems that may require a qualified electrician to verify wiring and voltage.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Shorted or contaminated keypad/touchpad (F2-E0)** A stuck button, spilled liquid, or grease buildup on the membrane switch causes the control to register a constant input, triggering the F2-E0 code and continuous beeping.
@@ -55,8 +53,8 @@ KitchenAid ovens tie beeping directly to the displayed error, so identifying the
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kitchenaid Oven A6 error code](/posts/kitchenaid-oven-a6-error-code/)
-- [Kitchenaid Oven Ab error code](/posts/kitchenaid-oven-ab-error-code/)
+- Kitchenaid Oven A6 error code
+- Kitchenaid Oven Ab error code
 - [Kitchenaid Oven Cal error code](/posts/kitchenaid-oven-cal-error-code/)
 - [Kitchenaid Oven F6 E0 error code](/posts/kitchenaid-oven-f6-e0-error-code/)
 - [Kitchenaid Oven F6 E1 error code](/posts/kitchenaid-oven-f6-e1-error-code/)

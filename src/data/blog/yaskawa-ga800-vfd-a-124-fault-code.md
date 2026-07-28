@@ -14,8 +14,7 @@ most_likely_cause: "Misread or non-GA800 alarm code"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa GA800 A.124 Fault — What It Means
-
+## What this code means
 The code A.124 does not appear in available Yaskawa GA800 manufacturer documentation. Yaskawa GA800 drives typically display alarm codes in formats such as oC (overcurrent), Uv (undervoltage), oH (overheat), or CPFxx (control fault), not a dotted A.124 pattern. If you see A.124 on your keypad, it may be a misread display, a code from a different drive model, or a shop-specific label rather than the actual Yaskawa alarm name.
 
 Because the exact meaning of A.124 is not verified in manufacturer sources, the correct first step is to confirm the precise alarm string shown on the drive's keypad or control interface. Yaskawa GA800 drives store fault history and diagnostic data that can be accessed through the keypad monitor functions or via DriveWizard Industrial software. Once you identify the true alarm code, consult the GA800 technical manual troubleshooting section for that specific fault to determine the root cause, whether it is an output circuit issue, encoder problem, power supply fault, or control board failure.
@@ -23,8 +22,6 @@ Because the exact meaning of A.124 is not verified in manufacturer sources, the 
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire VFD or control board without first verifying the actual alarm code and checking motor cable integrity, encoder wiring, and incoming power supply. Always record the exact fault code and inspect wiring and connections before ordering expensive drive components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or Yaskawa-certified technician if the alarm code cannot be identified in the manual, if the fault recurs after wiring and parameter corrections, or if you lack the tools to safely measure high-voltage DC bus, motor insulation, or encoder signals. Professional service is also required when the drive shows signs of internal board damage, such as burn marks, failed component startup, or alarms that persist across multiple power cycles with no external cause. Yaskawa technical support can provide remote diagnostics via DriveWizard Industrial and recommend whether board repair, drive replacement, or factory service is the most cost-effective solution for your specific GA800 model and application.
 
 **Rough cost:** A pro service call runs about $200-800 depending on actual fault.
-
-## See Also
-
-- [Yaskawa A1000 CPF07 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf07-fault-code/)
-- [Yaskawa GA800 E07 Fault - Causes & Fix](/posts/yaskawa-ga800-e07-fault-code/)
-- [Yaskawa GA800 E98 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e98-fault-code/)
-- [Yaskawa VFD Fault Codes — Complete Reference (V1000, A1000, GA700)](/posts/yaskawa-vfd-fault-codes/)

@@ -388,12 +388,6 @@ When a Mori Seiki throws repeated machine alarms, start with the basics:
 
 Most recurring Mori faults come from pressure stability, dirty sensors, worn cables, and sequence recovery problems. Shops lose time when they replace boards before checking whether the machine ever received the confirmation bit it was waiting for.
 
-## Related Articles
-
-- [Fanuc CNC Alarm Codes — Complete Troubleshooting Guide](/posts/fanuc-cnc-alarm-codes)
-- [Haas Alarm Codes — Complete Fix Guide](/posts/haas-alarm-codes)
-- [CNC Spindle Orientation Faults — Diagnosis and Recovery](/posts/cnc-spindle-orientation-faults)
-
 ## Where to Buy Replacement Parts
 
 Find replacement parts for Mori Seiki (DMG Mori) CNC machines on Amazon:

@@ -14,11 +14,8 @@ money_part: "Inlet water valve assembly"
 most_likely_cause: "Supply valves not fully open"
 ---
 
-## Speed Queen FL Error Code — What It Means
-
+## What this code means
 The FL code (also displayed as Er FL or E_FL on some models) means your Speed Queen washer did not reach the required water level within the allowed fill time. The machine started filling but the control never saw the expected water-level change before timing out. On commercial Quantum equipment the timeout is 10 minutes, while some residential models allow up to 30 minutes before throwing the code. Either way, the control is telling you water is not entering the tub fast enough or the level-sensing system is not registering the fill.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

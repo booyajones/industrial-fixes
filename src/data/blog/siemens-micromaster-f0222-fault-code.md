@@ -13,13 +13,10 @@ money_part: "Feedback transmitter or sensor"
 most_likely_cause: "Feedback signal scaling mismatch"
 ---
 
-## Siemens Micromaster F0222 — What It Means
-
+## What this code means
 The F0222 fault on Siemens Micromaster 420 and 440 drives indicates that the PI (proportional-integral) feedback input has exceeded its configured upper limit. This fault is tied to parameter P2267 in the drive's fault listing and occurs when the feedback signal from a sensor or transmitter goes beyond the maximum value the drive expects. The fault does not point to a power stage failure. Instead, it signals a problem with how the feedback loop is scaled, wired, or configured, or with the sensor itself sending an out-of-range signal.
 
 Most F0222 faults result from parameter mismatches between the drive setup and the actual feedback device. The drive may be configured for a 0-10V signal while the transmitter outputs 0-20mA, or the maximum feedback parameter may be set lower than the sensor's normal operating range. Wiring issues, incorrect polarity, or a failing transmitter can also push the feedback signal above the limit and trigger the fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ Most F0222 faults result from parameter mismatches between the drive setup and t
 ## When to Call a Pro
 
 Call a qualified technician if you are unfamiliar with analog input scaling or PI loop tuning, or if correcting the parameters and wiring does not clear the fault. Professional help is also recommended when the fault returns intermittently, the feedback signal readings do not match the physical process conditions, or you need to verify the overall control loop configuration. If the drive continues to fault after sensor replacement and parameter adjustment, a technician can perform advanced diagnostics on the drive's analog input circuitry and verify that the PI controller settings are appropriate for your application.
-
-## See Also
-
-- [Siemens Micromaster F0011 - Causes & Fix](/posts/siemens-micromaster-vfd-f0011-fault-code/)
-- [Siemens Micromaster F0021 Fault - Causes & Fix](/posts/siemens-micromaster-vfd-f0021-fault-code/)
-- [Siemens G120 F03505 - Causes & Fix](/posts/siemens-g120-f03505-fault-code/)
-- [Siemens G120 A01590 Fault Code - Causes & Fix](/posts/siemens-g120-a01590-fault-code/)

@@ -13,11 +13,8 @@ money_part: "TH-1 thermistor (2-chamber and 4-chamber models)"
 most_likely_cause: "Failed thermistor element"
 ---
 
-## A.O. Smith E21 Error Code — What It Means
-
+## What this code means
 The E21 error code on an A.O. Smith electric tankless water heater indicates a shorted thermistor. On 2-chamber and 4-chamber models, the fault points to TH-1. On point-of-use models, it points to the T-Out sensor. A short means the thermistor circuit is reading an abnormally low resistance, usually because the sensor element itself has failed internally or because damaged wiring is creating a false short condition. This is different from an open-circuit thermistor fault. The control board cannot read accurate temperature and shuts down the unit for safety.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -19,8 +19,6 @@ When an LG mini split is not cooling, the system is running but not delivering e
 
 LG's own troubleshooting guidance points to the air filter, temperature setting, and air inlet or outlet obstructions as the most common checks. The indoor fan may be running while the compressor does not engage, or the evaporator coil may be iced over and blocking airflow. In some cases the problem is as simple as the wrong mode selected on the remote or a tripped breaker.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty or clogged air filter** A restricted filter reduces airflow across the evaporator coil and is the number one cause of poor cooling in LG mini splits.
@@ -54,26 +52,19 @@ LG's own troubleshooting guidance points to the air filter, temperature setting,
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Lg Mini Split Ch 05 error code](/posts/lg-mini-split-ch-05-error-code/)
-- [Lg Mini Split Ch 26 error code](/posts/lg-mini-split-ch-26-error-code/)
-- [Lg Mini Split Ch 38 error code](/posts/lg-mini-split-ch-38-error-code/)
-- [Lg Mini Split Ch01 error code](/posts/lg-mini-split-ch01-error-code/)
-- [Lg Mini Split Ch02 error code](/posts/lg-mini-split-ch02-error-code/)
-- [Lg Mini Split Ch03 error code](/posts/lg-mini-split-ch03-error-code/)
-- [Lg Mini Split Ch04 error code](/posts/lg-mini-split-ch04-error-code/)
-- [Lg Mini Split Ch05 error code](/posts/lg-mini-split-ch05-error-code/)
-- [Lg Mini Split Ch06 error code](/posts/lg-mini-split-ch06-error-code/)
-- [Lg Mini Split Ch07 error code](/posts/lg-mini-split-ch07-error-code/)
-- [Lg Mini Split Ch09 error code](/posts/lg-mini-split-ch09-error-code/)
-- [Lg Mini Split Ch10 error code](/posts/lg-mini-split-ch10-error-code/)
+- Lg Mini Split Ch 05 error code
+- Lg Mini Split Ch 26 error code
+- Lg Mini Split Ch 38 error code
+- Lg Mini Split Ch01 error code
+- Lg Mini Split Ch02 error code
+- Lg Mini Split Ch03 error code
+- Lg Mini Split Ch04 error code
+- Lg Mini Split Ch05 error code
+- Lg Mini Split Ch06 error code
+- Lg Mini Split Ch07 error code
+- Lg Mini Split Ch09 error code
+- Lg Mini Split Ch10 error code
 
 ## When to Call a Pro
 
 Call a professional if the evaporator coil remains frozen after thawing and correcting airflow issues, if the compressor will not start even with power confirmed, or if you suspect low refrigerant or a refrigerant leak. LG explicitly recommends technician service for refrigerant-related faults. Also call for help if the unit displays an error code, if electrical connections or capacitors need testing or replacement, or if diagnostic steps do not restore normal cooling. After any restart the unit may wait about three minutes before operating because of a built-in protection device.
-
-## See Also
-
-- [LG Mini Split CH06 Error Code - Causes & Fix](/posts/lg-mini-split-ch06-error-code/)
-- [LG Refrigerator Water Filter Replacement - Signs & How-To](/posts/lg-refrigerator-water-filter-replacement/)
-- [LG Microwave Buttons Not Working - Causes & Fix](/posts/lg-microwave-buttons-not-working/)
-- [LG CH48 Error Code - Causes & Fix](/posts/lg-mini-split-ch48-error-code/)

@@ -20,8 +20,7 @@ free_checks:
 no_buy_pct: "75%"
 ---
 
-## Danfoss FC302 AL-82 Fault — What It Means
-
+## What this code means
 Alarm 82 on the Danfoss FC302 is a CSIV parameter error. The CSIV (Communication Slave Interface) module failed to initialize a parameter during communication startup. This is almost always a Profibus configuration or data integrity issue, not a hardware failure like a shorted IGBT or low DC bus. The drive's internal communication interface could not load required parameters from memory, typically because parameter memory is corrupted, Profibus settings in the 8-1x or 9-xx parameter series are incorrect, or there is a mismatch between the drive's configuration and the master controller's profile.
 
 This fault does not indicate a motor, inverter, or power-stage problem. It is a software and configuration issue. The drive remains safe to operate once the fault is cleared and parameters are correctly configured.
@@ -29,8 +28,6 @@ This fault does not indicate a motor, inverter, or power-stage problem. It is a 
 ## Before You Replace Anything
 
 Technicians sometimes replace the control board before verifying parameters. Perform a full parameter reset and re-enter Profibus settings from backup first, which solves the majority of AL-82 faults at zero cost.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -78,10 +75,3 @@ Answer these to narrow it down fast.
 Call a qualified drives technician or control systems integrator if you do not have access to Danfoss MCT software, are unfamiliar with Profibus configuration, or cannot locate the correct parameter values for your network. A pro can back up and restore parameters, update firmware safely, and verify that the master controller's profile matches the drive settings. Also call a pro if the AL-82 fault persists after parameter reset and firmware update, as control board replacement requires proper handling of static-sensitive components and re-commissioning of the drive. High-voltage DC bus circuits (typically 300-600 VDC) remain energized even when mains power is off, so any work inside the drive enclosure should be performed by a trained technician with lockout/tagout procedures.
 
 **Rough cost:** A pro service call runs about $150-400 for parameter diagnosis and reset, or $300-700 if control board replacement is needed.
-
-## See Also
-
-- [Danfoss FC302 AL-147 - Causes & Fix](/posts/danfoss-fc302-vfd-al-147-fault-code/)
-- [Danfoss FC302 Alarm 11 - DC Voltage Too Low Causes & Fix](/posts/danfoss-fc302-vfd-al-110-fault-code/)
-- [Danfoss FC302 Alarm 36 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-36-fault-code/)
-- [Danfoss FC302 AL-104 - Causes & Fix](/posts/danfoss-fc302-vfd-al-104-fault-code/)

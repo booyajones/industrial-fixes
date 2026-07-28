@@ -21,8 +21,7 @@ part_price: "$25-60"
 no_buy_pct: "35%"
 ---
 
-## Electrolux E35 Error Code — What It Means
-
+## What this code means
 The E35 code on Electrolux front-load washers means the pressure sensor is reporting an overfill condition. The control board sees the water level as too high, or it detects a pressure-sensing fault that makes the water level appear too high. Electrolux support documentation confirms E35 indicates the pressure sensor is signaling water overfill.
 
 This fault can arise from actual overfilling (water continuing to enter when it should stop), from a blocked or damaged pressure-sensing circuit (preventing the sensor from reading true tub air pressure), or from drainage problems that leave the machine in an apparent overfill state. Electrolux specifically notes that installation-related problems on recently installed or moved machines are a known cause of E35.
@@ -31,31 +30,13 @@ This fault can arise from actual overfilling (water continuing to enter when it 
 
 Many people replace the pressure switch first. Before buying a new switch, inspect the pressure hose and chamber for blockage or cracks, and test the inlet valve for leaks, since a stuck valve or blocked hose causes the same symptom.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Stuck or leaking water inlet valve (~40%)** The inlet valve fails to close completely, allowing water to trickle in after the fill cycle ends and triggering the overfill sensor.
-- **Blocked or damaged pressure hose or air chamber (~25%)** Lint, detergent residue, or cracks in the hose or air trap prevent accurate pressure sensing, causing the control to read false high water levels.
-- **Faulty pressure switch or sensor (~15%)** The switch contacts stick closed or the sensor circuit drifts, reporting overfill even when water level is normal.
-- **Drain pump or drain restriction (~12%)** A clogged filter, kinked drain hose, or weak pump leaves water in the tub, which the sensor interprets as overfill.
-- **Installation error (~8%)** Incorrect drain-hose height, missing air gap, or unlevel placement can confuse the pressure sensor, especially on recently moved machines.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Does the washer continue to fill with water even after you close the door or select a cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The inlet valve is likely stuck open. Unplug the machine and replace the inlet valve assembly.<br><strong>No:</strong> The problem is likely in the pressure-sensing circuit or drain path. Continue diagnostics below.</div>
-</details>
-
-<details class="dtree"><summary>Was the washer recently installed, moved, or had plumbing changes?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Verify installation per the owner's manual (drain-hose height, levelness, supply connections). Electrolux identifies installation issues as a known E35 cause.<br><strong>No:</strong> Focus on the pressure hose, switch, and drain system as the most likely culprits.</div>
-</details>
-
-<details class="dtree"><summary>Is the drain filter or drain hose clogged or kinked?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Clear the blockage or straighten the hose, then run a test cycle. Trapped water can mimic an overfill condition.<br><strong>No:</strong> Inspect the pressure hose and pressure switch for blockage, cracks, or electrical faults.</div>
-</details>
+- **Stuck or leaking water inlet valve** The inlet valve fails to close completely, allowing water to trickle in after the fill cycle ends and triggering the overfill sensor.
+- **Blocked or damaged pressure hose or air chamber** Lint, detergent residue, or cracks in the hose or air trap prevent accurate pressure sensing, causing the control to read false high water levels.
+- **Faulty pressure switch or sensor** The switch contacts stick closed or the sensor circuit drifts, reporting overfill even when water level is normal.
+- **Drain pump or drain restriction** A clogged filter, kinked drain hose, or weak pump leaves water in the tub, which the sensor interprets as overfill.
+- **Installation error** Incorrect drain-hose height, missing air gap, or unlevel placement can confuse the pressure sensor, especially on recently moved machines.
 
 ## Step-by-Step Fix {#fix}
 
@@ -79,5 +60,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a qualified appliance technician if the error persists after a hard reset, installation verification, and inspection of the drain filter and pressure hose. Professional help is also warranted if you are uncomfortable working with 120 VAC live circuits, if you need to access the tub or pump housing (which may require tipping or disassembling the cabinet), or if the control board itself is suspect. A technician can perform electrical tests on the pressure switch, inlet valve, and board circuits, and has access to manufacturer service bulletins and model-specific diagnostics that pinpoint the fault quickly.
-
-**Rough cost:** DIY runs about $30-80 in parts, 45-90 min. A pro service call runs about $150-280.

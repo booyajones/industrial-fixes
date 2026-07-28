@@ -17,15 +17,12 @@ money_part: "Samsung Range Membrane Switch / Touchpad Assembly"
 part_price: "$50-150"
 ---
 
-## Samsung Range SE Error Code — What It Means
-
+## What this code means
 On Samsung ranges, the SE error code signals a stuck or shorted key or membrane switch input on the user interface control panel. The control board believes one or more touch keys are being held down continuously or are electrically shorted. This fault is tied to the buttons and touch panel or the control's ability to read that panel, not to oven temperature sensors or gas ignition components. Samsung's public support documentation does not list SE specifically by name but states that most range error codes can be cleared with a power reset and that persistent codes after cycling power should be serviced by a technician.
 
 ## Before You Replace Anything
 
 Many people replace the main control board first, but a shorted or damaged membrane switch is the most common cause. Inspect the touchpad and ribbon connector carefully before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## KitchenAid Oven PF Error Code — What It Means
-
+## What this code means
 PF on a KitchenAid oven stands for power failure. The control board detected that the appliance lost electrical power or was powered up for the first time. On most models the display can be cleared by pressing Cancel or another front-panel button. Some models will also require you to reset the clock after power is restored.
 
 This code does not point to a sensor or heating-element problem. It simply tells you the control experienced an interruption in supply voltage. The code may appear after a utility outage, a tripped breaker, unplugging the unit, or during initial installation. If PF does not clear or returns immediately after clearing, the issue may be an unstable household circuit or a failing control board rather than a cooking-performance fault.
@@ -25,8 +24,6 @@ This code does not point to a sensor or heating-element problem. It simply tells
 ## Before You Replace Anything
 
 Homeowners sometimes replace temperature sensors or igniters when PF appears, but those parts do not cause a power-failure code. Check your breaker panel and press Cancel before ordering any parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

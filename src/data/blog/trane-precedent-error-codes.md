@@ -55,18 +55,3 @@ Three consecutive limit trips lock out the unit. The cause is almost always rest
 | Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-trane-precedent-error-codes&tag=errorcodefixes-20) \| Check ┬╡F value with capacitor meter |
 | Limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-trane-precedent-error-codes&tag=errorcodefixes-20) \| Match opening temperature rating |
 > **Pro tip:** Trane Precedent units require the correct UCM firmware for the refrigerant type (R-22 vs. R-410A). Swapping boards without matching firmware causes erratic fault codes.
-
-## Related Articles
-
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-
-## See Also
-
-- [Trane TAM Air Handler Error Codes — Complete Guide](/posts/trane-tam-error-codes/)
-- [Trane Tracer BAS Fault Codes - Complete Guide](/posts/trane-tracer-fault-codes/)
-- [Trane XL16i Error Codes — Heat Pump Fault Code Diagnostic Guide](/posts/trane-xl16i-error-codes/)
-- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)

@@ -17,8 +17,7 @@ money_part: "LG washer Hall sensor (RPS sensor)"
 part_price: "$20-80"
 ---
 
-## LG Washer LE Error Code — What It Means
-
+## What this code means
 An LE error code on an LG washer means the machine has detected a locked motor or tub-not-spinning condition. The tub fails to spin and the motor cannot operate properly, triggering the fault. LG's own support documentation identifies this code as a signal that the motor is being overstrained or the drum cannot rotate normally.
 
 The code appears when the control board senses that the motor is drawing excessive current or the Hall sensor feedback signal indicates the rotor is not turning as commanded. This can result from mechanical obstructions, electrical sensor faults, or control glitches.
@@ -26,8 +25,6 @@ The code appears when the control board senses that the motor is drawing excessi
 ## Before You Replace Anything
 
 Many people replace the main control board first, but a failed Hall sensor or damaged motor wiring harness is the usual culprit when basic checks pass. Test the Hall sensor feedback signal and inspect all connectors at the motor before replacing the board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

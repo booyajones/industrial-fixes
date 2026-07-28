@@ -17,8 +17,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## Amana Washer F7 E1 Error Code — What It Means
-
+## What this code means
 The F7 E1 code on an Amana front-load washer signals a motor speed sensing error. The control board is not receiving a valid speed signal from the basket, or the basket is not reaching or maintaining the speed the cycle expects. This is a drive-system and speed-sensing problem, not a water-fill issue.
 
 Amana states this code can be triggered by shipping bolts that were never removed after delivery or a move. The manufacturer also recommends a simple power reset as a first step, since the fault can sometimes be cleared by a control reboot.
@@ -26,8 +25,6 @@ Amana states this code can be triggered by shipping bolts that were never remove
 ## Before You Replace Anything
 
 Many people replace the main control board first. Check and reset all wiring connectors between the control and drive system, and test the shift actuator before ordering a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

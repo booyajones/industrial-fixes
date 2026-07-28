@@ -42,10 +42,3 @@ The Carrier 59TN6 is a residential gas furnace that uses an LED fault code syste
 ## When to Call a Pro
 
 Call a licensed HVAC technician for any gas furnace lockout code, especially Code 33 or flame rollout faults, because these indicate overheating or combustion safety problems. A pro will diagnose the root cause (airflow, venting, or failed component), test limit and rollout switches for proper operation, inspect the heat exchanger and flue for blockages or cracks, and verify safe combustion before clearing the lockout. All gas valve work, combustion analysis, heat exchanger inspection, and venting diagnostics require a qualified technician with proper tools and training. If you see soot, smell gas, or observe flames outside the burner box, shut off the furnace immediately and call for service.
-
-## See Also
-
-- [Carrier 32 Error Code — Causes & Fix](/posts/carrier-32-error-code/)
-- [Carrier 52 Error Code — Causes & Fix](/posts/carrier-52-error-code/)
-- [Carrier Chiller Fault Codes — Complete Troubleshooting Guide](/posts/carrier-chiller-fault-codes/)
-- [Carrier 33 Error Code — Causes & Fix](/posts/carrier-33-error-code/)

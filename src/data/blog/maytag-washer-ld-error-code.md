@@ -22,8 +22,7 @@ part_price: "$30-60"
 no_buy_pct: "65%"
 ---
 
-## Maytag Washer LD Error Code — What It Means
-
+## What this code means
 LD on Maytag top-load washers stands for Long Drain. The control has detected that the water level is not dropping within the expected drain time window. In practical terms, the machine is seeing a drain cycle that is too slow for the pressure system to reset and confirm that the tub is empty. Maytag's related front-load long-drain guidance describes drain times longer than expected, typically over eight minutes, though community sources for Bravos-style units mention a five-minute threshold. The code is tied to failed drainage progress rather than a display or control glitch.
 
 The washer may pause mid-cycle or refuse to advance to the spin until it confirms the water has drained. You will usually see standing water in the tub or hear the pump running continuously without making progress. The fault is almost always mechanical, not electronic, so start with the drain path itself.
@@ -32,31 +31,13 @@ The washer may pause mid-cycle or refuse to advance to the spin until it confirm
 
 Homeowners sometimes replace the drain pump when the real problem is a sock or coin stuck in the pump inlet or a crushed drain hose behind the machine. Always inspect and clear the hose and pump inlet before ordering a new pump.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Kinked, clogged, or blocked drain hose (~40%)** A hose crushed by the washer cabinet, pinched during installation, or clogged with lint and fabric restricts flow and triggers the long-drain fault.
-- **Debris in drain pump inlet or impeller (~25%)** Coins, socks, lint, or fabric trapped in the pump inlet or wound around the impeller slow or block water movement.
-- **Improper drain hose installation (~15%)** A standpipe that is too tall, too short, or airtight prevents proper siphon and airflow, slowing drainage.
-- **Defective drain pump (~12%)** The pump runs but cannot move water at the normal rate because the impeller is cracked, worn, or the motor is weak.
-- **Lint or debris trapped in tub-to-pump path (~8%)** Fabric, threads, or lint accumulate in the elbow hoses or between the inner and outer tub, intermittently blocking flow.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Is the drain hose kinked, crushed, or visibly clogged?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Straighten or replace the hose, clear any blockage, and retest the washer.<br><strong>No:</strong> Move to the drain pump inlet and impeller to check for trapped objects or debris.</div>
-</details>
-
-<details class="dtree"><summary>Can you spin the pump impeller freely by hand when you remove the inlet connections?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The pump mechanism is probably intact. Clear the hose path, reassemble, and run a drain cycle to see if the code clears.<br><strong>No:</strong> The impeller is obstructed or the pump bearings have failed. Clear the obstruction or replace the pump assembly.</div>
-</details>
-
-<details class="dtree"><summary>After clearing the hose and pump, does the washer still throw the LD code?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Inspect deeper into the tub-to-pump path for trapped items or consider a water-level sensing fault that prevents the control from recognizing drainage completion.<br><strong>No:</strong> The repair is complete. The blockage was the cause.</div>
-</details>
+- **Kinked, clogged, or blocked drain hose** A hose crushed by the washer cabinet, pinched during installation, or clogged with lint and fabric restricts flow and triggers the long-drain fault.
+- **Debris in drain pump inlet or impeller** Coins, socks, lint, or fabric trapped in the pump inlet or wound around the impeller slow or block water movement.
+- **Improper drain hose installation** A standpipe that is too tall, too short, or airtight prevents proper siphon and airflow, slowing drainage.
+- **Defective drain pump** The pump runs but cannot move water at the normal rate because the impeller is cracked, worn, or the motor is weak.
+- **Lint or debris trapped in tub-to-pump path** Fabric, threads, or lint accumulate in the elbow hoses or between the inner and outer tub, intermittently blocking flow.
 
 ## Step-by-Step Fix {#fix}
 
@@ -78,5 +59,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a pro if you have cleared the hose and pump inlet, replaced the pump, and the LD code still appears. At that point the fault may involve trapped debris deep in the tub-to-pump path, a stuck or faulty water-level pressure switch, or a control board issue that requires model-specific diagnostics. Also call if you are uncomfortable tipping the washer, disconnecting hoses, or working around water and electrical connections. A technician can perform a full drain-system flow test and check the pressure sensing circuit to pinpoint the remaining cause.
-
-**Rough cost:** DIY runs about $15-60 in parts (if pump needed), 30-90 min. A pro service call runs about $150-250.

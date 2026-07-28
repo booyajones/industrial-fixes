@@ -20,8 +20,6 @@ A Trane furnace that keeps shutting off is usually short cycling or entering loc
 
 Trane control boards use blink codes or error codes to indicate the category of fault, such as ignition failure, pressure switch fault, limit switch open, flame sensor issues, rollout switch open, gas valve or flame failure, or high-limit lockout. The furnace is not deciding to stop on its own. It is responding to a real problem in the airflow, ignition, venting, or safety chain.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty or clogged air filter** Restricted airflow from a plugged filter causes the heat exchanger to overheat and trip the high-limit switch, forcing the furnace to shut down.
@@ -64,10 +62,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the furnace continues to shut off after replacing the filter and checking the thermostat, if you see a fault code you cannot clear, or if the issue involves the ignition system, gas supply, flame sensor, pressure switch, or control board. Gas appliance work and combustion diagnostics require proper tools, gas pressure measurement, and safety training. A technician can read fault history from the board, measure manifold pressure, inspect the heat exchanger for cracks, verify venting and draft, and safely diagnose the safety chain. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Trane / American Standard 4-Blink Error Code — Limit Circuit Trip Fix](/posts/trane-4-blink-error-code/)
-- [Trane Furnace Not Heating - Causes & Fix](/posts/trane-furnace-not-heating/)
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Rooftop Unit Error Codes: Common Faults Guide](/posts/trane-rooftop-unit-error-codes/)

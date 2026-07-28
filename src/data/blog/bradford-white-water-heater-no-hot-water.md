@@ -19,8 +19,6 @@ When your Bradford White water heater produces no hot water, the unit is failing
 
 The pilot may be out completely, or it may light but fail to keep the main burner running. In either case, the thermopile (the small voltage generator heated by the pilot flame) or the gas valve itself is usually at fault. Less commonly, blockages in the pilot tube or air intake prevent proper combustion.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed or weak thermopile** The thermopile no longer generates enough voltage (below 0.35V) to signal the gas valve to stay open, causing the pilot to light but the main burner to never fire or to shut off immediately.

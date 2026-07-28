@@ -13,11 +13,8 @@ money_part: "Mitsubishi servo amplifier (MR-J series)"
 most_likely_cause: "Servo drive sub-fault (overcurrent or overvoltage)"
 ---
 
-## Mazak Alarm 400 Servo Error — What It Means
-
+## What this code means
 Mazak alarm 400 is a servo error indicating a fault in the axis servo drive or servo motor circuit. On Mazak machines using Mitsubishi MELDASMAGIC or MAZATROL controls, alarm 400 is often associated with the X-axis servo drive detecting an abnormal condition — overcurrent, overvoltage, undervoltage on the servo bus, or a drive hardware fault. The specific servo drive alarm sub-code (visible on the servo drive panel or control diagnostic screen) narrows the cause to the exact fault type. Alarm 400 is a machine shutdown alarm that requires identifying the servo drive sub-fault before clearing.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -44,18 +41,3 @@ Mazak alarm 400 is a servo error indicating a fault in the axis servo drive or s
 ## When to Call a Pro
 
 Mazak alarm 400 with a servo drive sub-fault of AL.16 (encoder error) or AL.24 (amplifier hardware fault) typically requires the servo amplifier to be replaced and potentially returned to Mitsubishi or a repair depot. Contact Mazak service for drives under warranty.
-
-## Related Articles
-
-- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
-- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
-- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-
-## See Also
-
-- [Mazak Alarm 218 — Spindle Motor Overheat Fix](/posts/mazak-alarm-218/)
-- [Mazak Matrix/Matrix 2 Fault Code Guide — Complete Reference](/posts/mazak-matrix-fault-codes/)
-- [Mazak Alarm 50 Servo — Causes & Fix](/posts/mazak-alarm-50-servo/)
-- [Mazak Alarm 600 ATC — Automatic Tool Changer Fault Causes & Fix](/posts/mazak-alarm-600-atc/)

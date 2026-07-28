@@ -19,8 +19,6 @@ A loud banging noise in your GE dryer is a mechanical symptom, not a fault code.
 
 The noise typically comes from worn drum rollers, damaged drum glides or bearings, a loose or frayed belt, a failing idler pulley, or a foreign object striking rotating parts. The banging you hear is the drum shifting, dropping, or rubbing against worn or broken support surfaces as it spins.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Worn drum support rollers** The drum drops or shifts when the rollers wear out, creating a repetitive thumping or banging as it rotates or reverses direction.

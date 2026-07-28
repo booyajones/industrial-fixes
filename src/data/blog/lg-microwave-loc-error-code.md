@@ -16,8 +16,7 @@ diy_or_pro: "diy"
 money_part: "Control panel / keypad assembly"
 ---
 
-## LG Microwave LOC Error Code — What It Means
-
+## What this code means
 LOC on an LG microwave is not a fault code. It indicates the control lock or child lock feature is currently enabled. This is a user-activated safety feature that prevents accidental operation by locking the control panel. The microwave will not respond to any button presses except the unlock command while LOC is displayed.
 
 LG states that LOC indicates the lock function is turned on. The unit is unlocked by pressing and holding the STOP/CLEAR button until the LOC message disappears from the display. This is a normal operating mode, not an internal component failure.
@@ -25,8 +24,6 @@ LG states that LOC indicates the lock function is turned on. The unit is unlocke
 ## Before You Replace Anything
 
 Homeowners sometimes call for service or consider replacing the control board when LOC appears, thinking it is a failure code. Simply press and hold STOP/CLEAR to unlock before assuming any part has failed.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -73,10 +70,3 @@ Answer these to narrow it down fast.
 Call a professional if the LOC code will not clear using the STOP/CLEAR button and a power cycle, or if the code returns immediately after unlocking. A technician can diagnose whether the issue is a stuck keypad, a failing touch panel, or a faulty main control board. Also call for service if you are uncomfortable working with the control panel or if the microwave is still under warranty. For a simple lock activation, no service call is needed. The unlock procedure is a normal user operation and does not require any tools or technical skill.
 
 **Rough cost:** DIY runs about $0, 10 seconds. A pro service call runs about $0-150 if a stuck keypad requires service.
-
-## See Also
-
-- [LG Mini Split CH46 Error Code - Causes & Fix](/posts/lg-mini-split-ch46-error-code/)
-- [LG Washer Won't Drain - Causes & Fix](/posts/lg-washer-wont-drain/)
-- [LG Dishwasher E1 Error Code - Causes & Fix](/posts/lg-dishwasher-e1-error-code/)
-- [LG Dishwasher Won't Latch - Causes & Fix](/posts/lg-dishwasher-wont-latch/)

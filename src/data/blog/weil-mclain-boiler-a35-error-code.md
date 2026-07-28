@@ -21,8 +21,7 @@ part_price: "$30-60 for a flame rod"
 no_buy_pct: "60%"
 ---
 
-## Weil-McLain A35 Error Code — What It Means
-
+## What this code means
 A35 is an ignition lockout on Weil-McLain boilers. The burner sequence started, but the control did not detect a valid flame signal, so the boiler locked out for safety. In the field, this is a "failed to light" or "flame not proven" condition rather than a generic sensor fault.
 
 The code appears when the control looks for flame rectification current from the flame sensor during the trial-for-ignition window and either sees no flame or an unstable signal. The boiler will stay locked out until you press the reset button or cycle power, but repeated resets without correcting the underlying problem are not a repair.
@@ -30,8 +29,6 @@ The code appears when the control looks for flame rectification current from the
 ## Before You Replace Anything
 
 Many people replace the control board first when the real culprit is a fouled flame rod or closed gas valve. Clean and inspect the flame sensor and verify gas flow before ordering any electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -81,10 +78,3 @@ Answer these to narrow it down fast.
 Call a licensed HVAC or boiler technician if you are not comfortable working with gas appliances, if you cannot safely access the flame sensor or ignitor, or if cleaning and basic gas checks do not clear the A35 lockout. Gas work and combustion diagnostics require calibrated manometers, multimeters, and knowledge of your boiler's specific control logic. A qualified tech will measure inlet and manifold gas pressure, test flame rectification current, inspect venting and combustion air paths, and isolate whether the fault is in the sensor, valve, wiring, or control board. Skipping proper diagnostics and throwing parts at the problem wastes money and can create unsafe operating conditions.
 
 **Rough cost:** A pro service call runs about $150-350 depending on parts and labor.
-
-## See Also
-
-- [Weil-McLain Boiler A98 Error - Causes & Fix](/posts/weil-mclain-boiler-a98-error-code/)
-- [Weil-McLain Boiler A72 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a72-error-code/)
-- [Weil-McLain Boiler A163 Error - Causes & Fix](/posts/weil-mclain-boiler-a163-error-code/)
-- [Weil-McLain Boiler A73 Error - Causes & Fix](/posts/weil-mclain-boiler-a73-error-code/)

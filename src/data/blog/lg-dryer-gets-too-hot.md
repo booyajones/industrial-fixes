@@ -19,8 +19,6 @@ When an LG dryer gets too hot, you're seeing an overheating or airflow restricti
 
 LG specifically links codes like d75, d80, d90, and d95 to clogged exhaust ducts. Lint buildup at the rear exhaust duct, long vent runs, crushed ducting, or multiple elbows all reduce airflow and cause the dryer to run hotter than normal. The thermistor measures drum temperature, so if it fails or its wiring is loose, the control board can't regulate heat properly. Heating element faults and incorrect 240 V power supply on electric models can also create abnormal operation.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged exhaust duct or blocked rear vent** LG identifies clogged exhaust ducts and lint buildup at the rear exhaust as the primary cause of long drying times and vent restriction codes.
@@ -55,26 +53,19 @@ LG specifically links codes like d75, d80, d90, and d95 to clogged exhaust ducts
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Lg Dryer Add error code](/posts/lg-dryer-add-error-code/)
-- [Lg Dryer D75 error code](/posts/lg-dryer-d75-error-code/)
-- [Lg Dryer D80 error code](/posts/lg-dryer-d80-error-code/)
-- [Lg Dryer D90 error code](/posts/lg-dryer-d90-error-code/)
-- [Lg Dryer D95 error code](/posts/lg-dryer-d95-error-code/)
-- [Lg Dryer De error code](/posts/lg-dryer-de-error-code/)
-- [Lg Dryer De1 error code](/posts/lg-dryer-de1-error-code/)
-- [Lg Dryer E00 error code](/posts/lg-dryer-e00-error-code/)
-- [Lg Dryer E1 error code](/posts/lg-dryer-e1-error-code/)
-- [Lg Dryer E13 error code](/posts/lg-dryer-e13-error-code/)
-- [Lg Dryer E4 error code](/posts/lg-dryer-e4-error-code/)
-- [Lg Dryer F0 error code](/posts/lg-dryer-f0-error-code/)
+- Lg Dryer Add error code
+- Lg Dryer D75 error code
+- Lg Dryer D80 error code
+- Lg Dryer D90 error code
+- Lg Dryer D95 error code
+- Lg Dryer De error code
+- Lg Dryer De1 error code
+- Lg Dryer E00 error code
+- Lg Dryer E1 error code
+- Lg Dryer E13 error code
+- Lg Dryer E4 error code
+- Lg Dryer F0 error code
 
 ## When to Call a Pro
 
 Call a tech if you've cleaned the entire vent system and the dryer still overheats or displays tE or HC codes. Thermistor replacement, heating element testing, and control board diagnosis require disassembly and live voltage checks. If you have a gas dryer and suspect burner or ignition problems, have a qualified technician handle all gas connections and burner service. A pro can also verify correct 240 V supply on electric models and measure airflow to confirm the vent system meets LG's installation requirements.
-
-## See Also
-
-- [LG Dryer Add Error Code - Causes & Fix](/posts/lg-dryer-add-error-code/)
-- [LG Dishwasher Won't Fill With Water - Causes & Fix](/posts/lg-dishwasher-wont-fill-with-water/)
-- [LG Range F5 Error Code - Causes & Fix](/posts/lg-range-f5-error-code/)
-- [LG Dryer Shuts Off Early - Causes & Fix](/posts/lg-dryer-shuts-off-early/)

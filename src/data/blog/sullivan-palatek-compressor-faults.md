@@ -56,14 +56,6 @@ Check oil level and the oil filter condition. A clogged filter on a cold start w
 ## When to Call a Pro
 Repeated temperature or pressure faults after routine service indicate airend wear or cooling system failure that requires a qualified compressor technician.
 
-## Related Articles
-
-- [Air Compressor Fault Codes: Complete Guide](/posts/air-compressor-fault-codes/)
-- [Atlas Copco Air Compressor Fault Codes — Complete Guide](/posts/atlas-copco-compressor-fault-codes/)
-- [BOGE Air Compressor Error Codes - Complete Guide](/posts/boge-compressor-error-codes/)
-- [Chicago Pneumatic Compressor Fault Codes — Complete Guide](/posts/chicago-pneumatic-compressor-faults/)
-- [CompAir Air Compressor Fault Codes - Complete Guide](/posts/compair-compressor-fault-codes/)
-
 ## How to troubleshoot Sullivan Palatek Compressor
 
 Sullivan-Palatek compressors are oil-flooded rotary screw and reciprocating units. Rather than a long list of numbered error codes, the Sullivan-Palatek Electronic Controller (SPEC) protects the machine by displaying plain-language warning and shutdown conditions: high compressor discharge temperature, low oil pressure, motor overload, low fuel or low battery (on portable diesel units), and sensor or wiring faults. On Tier 4 portable diesel machines the display also relays engine ECU diagnostics from the engine maker (Kohler, Kubota, Deutz, Cummins, Isuzu, John Deere), so a "check engine" or derate condition is often an engine SPN/FMI code, not a compressor fault. Confirm which system tripped before you start swapping parts.
@@ -73,7 +65,6 @@ Work from cheap and likely to expensive and rare. First, check the basics that c
 Do not assume a temperature or pressure reading is real until you have ruled out the sensor. A loose connector, corroded terminal, or failing thermistor or pressure transducer can mimic a genuine overheat or oil-pressure drop and trip a false shutdown. Inspect the sensor connector and harness first, then compare the controller reading against an independent gauge or infrared thermometer. For low-oil-pressure trips on a cold start, a clogged oil filter can restrict flow until the oil warms, so replace the filter if it is past its interval before condemning the pump.
 
 Safety and escalation: always depressurize the receiver and separator tank and lock out power before opening any panel, since stored air and hot oil are the real hazards. Routine service (filters, oil, separator element, cooler cleaning, sensor checks) is well within reach for a maintenance tech. Call a qualified compressor technician when temperature or pressure faults return after a full service, when you suspect airend wear or a failing thermostatic valve, or when a Tier 4 engine throws an emissions or DEF-related derate that needs a dealer scan tool.
-
 
 ## Frequently asked questions
 
@@ -96,4 +87,3 @@ Replace it when the separator differential pressure climbs above the recommended
 ### Can I troubleshoot a Sullivan-Palatek portable diesel unit myself, or do I need a dealer?
 
 Filters, oil, separator element, cooler cleaning, and sensor and wiring checks are all owner-serviceable. But a Tier 4 engine derate, an emissions or DEF fault, or an engine ECU code usually needs an authorized engine dealer with a scan tool, and repeated compressor faults that survive a full service point to airend or thermostatic valve work best left to a qualified compressor technician.
-

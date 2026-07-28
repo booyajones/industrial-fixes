@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "LG dishwasher thermistor or temperature sensor"
 ---
 
-## LG Dishwasher tE Error Code — What It Means
-
+## What this code means
 The tE code on an LG dishwasher signals a temperature sensor or thermistor circuit fault. The control board has detected an abnormal or invalid signal from the sensor and cannot trust the water-temperature reading. This is a sensor-circuit problem, not a drain or fill issue.
 
 LG's own support materials categorize tE as a temperature sensor issue and advise that if the code persists after a power cycle, the unit will need professional repair service. The dishwasher may refuse to run or halt mid-cycle because it cannot verify safe water temperature.
@@ -25,8 +24,6 @@ LG's own support materials categorize tE as a temperature sensor issue and advis
 ## Before You Replace Anything
 
 Homeowners sometimes replace the main control board first, assuming an electronic failure. Always test the thermistor with a multimeter and inspect the sensor wiring and connectors before spending on a new board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable de-energizing the dishwasher, removing panels, or using a multimeter to test resistance. A qualified technician has model-specific service manuals with exact thermistor resistance tables, proper diagnostic meters, and the experience to isolate sensor faults from control-board failures. If you have already tested the sensor and wiring and both appear normal, the control board's temperature-sense input circuit may be damaged and require board-level diagnosis or replacement, which is best left to a trained repair technician.
 
 **Rough cost:** A pro service call runs about $150–300.
-
-## See Also
-
-- [LG Oven F17 Error Code - Causes & Fix](/posts/lg-oven-f17-error-code/)
-- [LG Microwave F-3 Error - Causes & Fix](/posts/lg-microwave-f-3-error-code/)
-- [LG Refrigerator Water Leaking on Floor - Causes & Fix](/posts/lg-refrigerator-water-leaking-on-floor/)
-- [LG Dryer HS Error Code - Causes & Fix](/posts/lg-dryer-hs-error-code/)

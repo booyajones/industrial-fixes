@@ -19,8 +19,6 @@ When an LG mini split is not heating, the unit fails to deliver warm air or hold
 
 LG published guidance points to mode and setpoint checks first, then airflow obstructions, refrigerant or icing problems, and finally compressor, condenser, sensor, or control board failures. If an error code appears on the indoor display, that code maps to a specific fault such as communication error, overheat protection, or a sensor open or short.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Incorrect mode or setpoint** The unit is set to cool, fan, or auto instead of heat, or the setpoint is below room temperature.
@@ -54,26 +52,19 @@ LG published guidance points to mode and setpoint checks first, then airflow obs
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Lg Mini Split Ch 05 error code](/posts/lg-mini-split-ch-05-error-code/)
-- [Lg Mini Split Ch 26 error code](/posts/lg-mini-split-ch-26-error-code/)
-- [Lg Mini Split Ch 38 error code](/posts/lg-mini-split-ch-38-error-code/)
-- [Lg Mini Split Ch01 error code](/posts/lg-mini-split-ch01-error-code/)
-- [Lg Mini Split Ch02 error code](/posts/lg-mini-split-ch02-error-code/)
-- [Lg Mini Split Ch03 error code](/posts/lg-mini-split-ch03-error-code/)
-- [Lg Mini Split Ch04 error code](/posts/lg-mini-split-ch04-error-code/)
-- [Lg Mini Split Ch05 error code](/posts/lg-mini-split-ch05-error-code/)
-- [Lg Mini Split Ch06 error code](/posts/lg-mini-split-ch06-error-code/)
-- [Lg Mini Split Ch07 error code](/posts/lg-mini-split-ch07-error-code/)
-- [Lg Mini Split Ch09 error code](/posts/lg-mini-split-ch09-error-code/)
-- [Lg Mini Split Ch10 error code](/posts/lg-mini-split-ch10-error-code/)
+- Lg Mini Split Ch 05 error code
+- Lg Mini Split Ch 26 error code
+- Lg Mini Split Ch 38 error code
+- Lg Mini Split Ch01 error code
+- Lg Mini Split Ch02 error code
+- Lg Mini Split Ch03 error code
+- Lg Mini Split Ch04 error code
+- Lg Mini Split Ch05 error code
+- Lg Mini Split Ch06 error code
+- Lg Mini Split Ch07 error code
+- Lg Mini Split Ch09 error code
+- Lg Mini Split Ch10 error code
 
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you suspect refrigerant loss, if an error code persists after wiring and sensor checks, or if the compressor or inverter board appears faulty. Refrigerant work requires EPA certification and specialized gauges. Communication faults, PCB replacement, and compressor diagnosis involve live voltage checks and precise component isolation that are safest left to a professional. If the outdoor unit hums but the compressor does not start, or if you measure incorrect line voltage or DC link voltage on the inverter board, professional diagnosis and repair are recommended.
-
-## See Also
-
-- [LG Washer Leaking Water - Causes & Fix](/posts/lg-washer-leaking-water/)
-- [LG Mini Split CH33 Error Code - Causes & Fix](/posts/lg-mini-split-ch33-error-code/)
-- [LG Range F5 Error Code - Causes & Fix](/posts/lg-range-f5-error-code/)
-- [LG Range F1 Error Code - Causes & Fix](/posts/lg-range-f1-error-code/)

@@ -18,8 +18,7 @@ free_checks:
   - "Disconnect the motor and run the VFD unloaded to see if the fault clears"
 ---
 
-## Danfoss FC302 AL-94 — What It Means
-
+## What this code means
 AL-94 does not exist in the Danfoss FC302 (VLT AutomationDrive) alarm list. Danfoss FC302 alarms run from AL 1 through AL 84. The most likely explanation is a misread display. If the display shows two digits that look like 94, you are probably seeing AL 14 (Output Overcurrent), which means the drive output current exceeded the peak current limit and the drive shut down to protect the IGBT output stage. This fault typically trips when a motor winding shorts, a cable is damaged, or the mechanical load spikes suddenly.
 
 If you are certain the display reads 94, verify the exact model number and firmware version of your drive and consult the printed alarm list in the drive's manual. Some older firmware or regional variants may use different numbering, but no standard FC302 documentation lists an AL 94 code.
@@ -27,8 +26,6 @@ If you are certain the display reads 94, verify the exact model number and firmw
 ## Before You Replace Anything
 
 Many technicians replace the drive power board or IGBT module without testing the motor and cable first. Always perform a megohm test on the motor windings to ground and check cable continuity before ordering drive components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or VFD technician immediately if you are not trained to work with high-voltage three-phase equipment. VFDs store lethal DC bus voltage even after AC power is removed, and incorrect testing can destroy the drive or cause electrocution. A pro will have a megohm tester, oscilloscope, and IGBT tester to diagnose the fault safely. If the drive power board or IGBT module has failed, repair typically requires factory parts and specialized soldering or board-level work. If the motor windings have failed, a motor shop can rewind or replace the stator, which is often more economical than buying a new motor for large frames.
 
 **Rough cost:** A pro service call runs about $300-800.
-
-## See Also
-
-- [Danfoss FC302 AL-92 - Causes & Fix](/posts/danfoss-fc302-vfd-al-92-fault-code/)
-- [Danfoss FC302 AL-124 - Causes & Fix](/posts/danfoss-fc302-vfd-al-124-fault-code/)
-- [Danfoss FC302 Alarm 47 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-47-fault-code/)
-- [Danfoss FC302 Alarm 55 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-55-fault-code/)

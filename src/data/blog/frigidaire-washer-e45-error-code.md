@@ -17,8 +17,7 @@ money_part: "Main electronic control board"
 part_price: "$40-90"
 ---
 
-## Frigidaire Washer E45 Error Code — What It Means
-
+## What this code means
 E45 on a Frigidaire washer indicates a failure in the door-lock control circuit. According to Frigidaire's error-code documentation, this fault points to a problem with the controller or the door-lock mechanism itself. The control board cannot complete the lock circuit, so the washer will not start or advance.
 
 The fault usually lies in the door lock assembly, the PTC element inside the lock, or the wiring path between the lock and the main control board. If those components test normal, the control board itself is defective. This is not a load-balance or drain issue despite the similar-sounding code name.
@@ -26,8 +25,6 @@ The fault usually lies in the door lock assembly, the PTC element inside the loc
 ## Before You Replace Anything
 
 Many people replace the control board first. Always test the door lock PTC resistance (should read about 1500 ohms) and inspect the lock wiring before replacing the expensive control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

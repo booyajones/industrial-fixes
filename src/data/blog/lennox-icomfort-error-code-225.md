@@ -14,8 +14,6 @@ tags:
 
 Lennox iComfort error code 225 is a communication fault — the iComfort thermostat has lost its data connection to one or more system components. The Lennox iComfort system uses a proprietary **RS-485 serial communication bus** to link the thermostat, furnace control board, outdoor unit, and accessories. When that link breaks, you get error 225.
 
-[Jump to Fix](#how-to-fix-lennox-icomfort-error-code-225)
-
 ## What Does Lennox iComfort Error Code 225 Mean?
 
 **Error 225 = Communication Failure / No Communication Detected**
@@ -158,18 +156,3 @@ The error code number is consistent across Lennox iComfort generations (original
 
 **Will error 225 cause my furnace to not heat at all?**
 It depends on the system. Some Lennox communicating systems fail safe and default to conventional (non-communicating) operation — the thermostat falls back to standard voltage signals (W for heat, Y for cool) and the system runs with limited functionality. Others lock out completely until communication is restored. Check whether your furnace is running at all with a call for heat.
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-
-## See Also
-
-- [Lennox Error Code 432 — Causes & Fix](/posts/lennox-error-code-432/)
-- [Lennox Error Code 332 — Causes & Fix](/posts/lennox-error-code-332/)
-- [Lennox Healthy Climate Error Codes — Complete Guide](/posts/lennox-healthy-climate-error-codes/)
-- [Lennox Rooftop Unit Error Codes: Technician Guide](/posts/lennox-rooftop-unit-error-codes/)

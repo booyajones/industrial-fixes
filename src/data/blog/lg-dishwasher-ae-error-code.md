@@ -17,8 +17,7 @@ money_part: "LG Dishwasher Door Gasket"
 part_price: "$15-50"
 ---
 
-## LG Dishwasher AE Error Code — What It Means
-
+## What this code means
 The AE code (also grouped with E1 by LG) means your dishwasher has detected water or moisture in the base pan at the bottom of the unit. This trips the float switch or leak protection system, which then stops normal operation to prevent flooding. The code is not a single-component failure but a protection response telling you water is pooling where it should not be.
 
 The dishwasher will not resume normal cycles until you locate and correct the internal leak source and dry out the base pan completely. Common sources include door gasket contamination, a dishwasher that is not level, oversudsing from the wrong detergent, or loose hoses and fittings inside the unit.
@@ -26,8 +25,6 @@ The dishwasher will not resume normal cycles until you locate and correct the in
 ## Before You Replace Anything
 
 Many people order a new float switch or base-pan sensor first. Before replacing any parts, always dry the base pan completely and inspect the door gasket and leveling, which solve most AE codes without new parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a technician if you cannot safely access the base pan area, if the leak source is not obvious after inspecting the door gasket and hoses, or if the AE code returns immediately after you dry the pan and reassemble the unit. A pro can trace internal plumbing, inspect the sump and pump seals, and perform pressure tests that are difficult without specialized tools. Also call for help if you are not comfortable working around electrical connections or water supply lines in a confined space.
 
 **Rough cost:** DIY runs about $15-50 in parts (gasket or hose clamp), 30-90 min. A pro service call runs about $150-300 for diagnosis and repair.
-
-## See Also
-
-- [LG Oven Burner Won't Light - Causes & Fix](/posts/lg-oven-burner-wont-light/)
-- [LG Range E3 Error Code - Causes & Fix](/posts/lg-range-e3-error-code/)
-- [LG Washer Won't Drain - Causes & Fix](/posts/lg-washer-wont-drain/)
-- [LG Range E4 Error Code - Causes & Fix](/posts/lg-range-e4-error-code/)

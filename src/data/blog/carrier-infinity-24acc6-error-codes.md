@@ -18,8 +18,6 @@ money_part: "Run capacitor"
 
 The Carrier Infinity 24ACC6 is a high-efficiency single-stage central air conditioner designed to operate within Carrier's Infinity communicating system. It uses a two-speed or variable-speed blower paired with an Infinity touch thermostat and communicates faults through both the thermostat display and a diagnostic LED on the outdoor control board. Flash codes appear when the unit is in standalone (non-communicating) mode; alphanumeric codes appear on the Infinity thermostat in full communicating mode.
 
-[Jump to Fix](#fix)
-
 ## Carrier 24ACC6 Error Code Reference
 
 | Code / Flash | Meaning |
@@ -66,18 +64,3 @@ The Carrier Infinity 24ACC6 is a high-efficiency single-stage central air condit
 ## When to Call a Pro
 
 Refrigerant work requires EPA 608 certification. Infinity system communication faults can require Carrier Service Advisor software (ICP/SA) to perform advanced diagnostics — this is a dealer-level tool not available to the general public. If the Infinity thermostat is showing fault codes not covered in the standard code list, contact a Carrier factory-authorized dealer.
-
-## Related Articles
-
-- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
-- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
-- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
-- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
-- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
-
-## See Also
-
-- [Carrier Error Code 65 — Inducer Motor Fault](/posts/carrier-65-error-code/)
-- [Carrier Error Code 27 - Causes & Fix](/posts/carrier-error-code-27/)
-- [Carrier 24ACC Air Conditioner Error Codes — Fault Code Diagnostic Guide](/posts/carrier-24acc-error-codes/)
-- [Carrier WeatherMaker Rooftop Unit Error Codes: Complete Guide](/posts/carrier-weatheramaker-error-codes/)

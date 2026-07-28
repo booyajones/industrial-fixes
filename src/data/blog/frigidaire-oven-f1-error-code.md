@@ -17,8 +17,7 @@ money_part: "Frigidaire oven keypad touch panel"
 part_price: "$50-200"
 ---
 
-## Frigidaire Oven F1 Error Code — What It Means
-
+## What this code means
 The F1 error code on a Frigidaire oven or range indicates an Electronic Oven Control (EOC) malfunction. The control board has detected a fault in its own electronics or in the input it receives from the keypad and touchpad assembly. In practical service terms, this code most often appears when the control sees a shorted, stuck, or continuously active button on the user interface, or when the control board itself has failed internally.
 
 F1 is not a specific sensor or temperature fault code. It points to the brain of the oven (the EOC board) or the communication between the console and that board. Field experience shows that moisture, residue, a stuck key, a damaged ribbon cable, or a failed control board are the typical culprits. Because the code can result from either a bad input or a bad processor, diagnosis follows a logical path from the user interface inward to the board.
@@ -26,8 +25,6 @@ F1 is not a specific sensor or temperature fault code. It points to the brain of
 ## Before You Replace Anything
 
 Many people replace the EOC control board first without checking the keypad and ribbon cable. Clean the console, inspect the cable connectors, and test for stuck keys before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

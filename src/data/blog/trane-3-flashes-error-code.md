@@ -54,18 +54,3 @@ If inducer RPM is low or the motor sounds labored: check inducer motor capacitor
 ## When to Call a Technician
 
 Pressure switch diagnosis is straightforward for someone comfortable with basic electrical testing. However, if you're seeing 3 flashes on a high-efficiency furnace with a blocked or frozen vent, that's a safety concern — do not operate the furnace until venting is restored. A licensed tech should handle any work involving the inducer or heat exchanger inspection.
-
-## See Also
-
-- [Trane XR80 Error Codes — Flash Code Quick Reference](/posts/trane-xr80-error-codes/)
-- [Trane 7 Flashes Error Code — Gas Valve Circuit Fault Fix](/posts/trane-7-flashes-error-code/)
-- [Trane XE80 Furnace Error Codes — Fault Code Guide](/posts/trane-xe80-error-codes/)
-- [Trane XV20i/XV18 Variable Speed Heat Pump Error Codes](/posts/trane-variable-speed-heat-pump-codes/)
-
-## Related Articles
-
-- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
-- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
-- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
-- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
-- [Trane 4 Flashes Error Code — Open High Limit Fix](/posts/trane-4-flashes-error-code/)

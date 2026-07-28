@@ -17,8 +17,7 @@ free_checks:
   - "Download or request the service manual for your exact model from Weil-McLain's website or technical support line."
 ---
 
-## Weil-McLain A57 Error Code — What It Means
-
+## What this code means
 The exact meaning of an A57 code on a Weil-McLain boiler is not confirmed by manufacturer documentation and depends entirely on your specific model and control platform. Weil-McLain produces multiple boiler lines (CGi, Ultra, EG, and others), each with its own control board and fault-code library. A code displayed as A57 may be a control history entry, an accessory fault, or a sensor alarm on certain models, but without the precise model number and control manual you cannot reliably determine what component or condition triggered it.
 
 Weil-McLain's own technical guidance directs contractors to use the boiler's model and serial (CP) number to retrieve the correct service documentation and fault-code table before diagnosing or ordering parts. Attempting to repair based on guesswork or forum posts risks replacing the wrong component. Locate the rating plate on your boiler, note the full model designation and CP number, then consult the matching installation and service manual or contact Weil-McLain technical support with that information to confirm what A57 means for your unit.
@@ -26,8 +25,6 @@ Weil-McLain's own technical guidance directs contractors to use the boiler's mod
 ## Before You Replace Anything
 
 Technicians sometimes replace control boards or sensors without first identifying the exact fault definition for their model, wasting hundreds of dollars. Always retrieve the full fault history from the control and match the code to the model-specific manual before ordering any part.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -71,10 +68,3 @@ Answer these to narrow it down fast.
 Call a licensed boiler technician or gas fitter if you cannot locate the model documentation, if the fault code table requires electrical measurements (resistance, continuity, or voltage), or if the indicated repair involves gas piping, burner components, or sealed combustion parts. Boilers operate under pressure and involve natural gas or propane, so misdiagnosis or incorrect part replacement can create carbon-monoxide hazards or void your warranty. A qualified technician will have access to Weil-McLain's technical hotline, the correct service literature, and the test equipment needed to confirm the fault and replace only the failed component.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain A54 Error - Causes & Fix](/posts/weil-mclain-boiler-a54-error-code/)
-- [Weil-McLain A117 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a117-error-code/)
-- [Weil-McLain A140 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a140-error-code/)
-- [Weil-McLain A11 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a11-error-code/)

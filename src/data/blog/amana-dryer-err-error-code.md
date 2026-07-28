@@ -16,8 +16,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Amana Dryer ERR Error Code — What It Means
-
+## What this code means
 The ERR code on an Amana dryer is a general control-detected error. The electronic control board has found a fault that requires service rather than a normal user reset. Unlike more specific codes like PF or L2, ERR is a broad indication tied to the control system and does not point to one exact failed part across all Amana models. The code can appear when the board detects a problem it cannot resolve on its own, such as a sensor circuit fault, a wiring issue, or an internal board failure.
 
 Before starting any diagnostic work, confirm that the display is showing ERR and not a more specific code like F#E# or L2, because those have separate meanings and remedies in Amana's documentation. The actual cause will depend on your dryer model and may require entering service diagnostics to retrieve stored fault history.
@@ -25,8 +24,6 @@ Before starting any diagnostic work, confirm that the display is showing ERR and
 ## Before You Replace Anything
 
 Many people replace the electronic control board immediately without checking the harness connectors or testing the sensor circuits first. A loose, pinched, or corroded connector at the board can trigger ERR and costs nothing to reseat.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

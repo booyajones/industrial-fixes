@@ -19,8 +19,6 @@ A Kenmore dishwasher that won't start means the unit does not begin a wash cycle
 
 On Kenmore and Whirlpool-built platforms, the control requires a valid door-closed signal, an unlocked user interface, and a working start circuit before it will power the cycle. If any of these inputs are missing or if a safety fuse has opened, the machine stays silent or displays lights but takes no action.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed door latch or door switch** The dishwasher will not start if the control does not receive a closed-door signal from the latch assembly or door switches, which is the most common no-start cause.
@@ -55,14 +53,14 @@ On Kenmore and Whirlpool-built platforms, the control requires a valid door-clos
 If your appliance also shows a code on the display, these match this problem:
 
 - [Kenmore Dishwasher E04 error code](/posts/kenmore-dishwasher-e04-error-code/)
-- [Kenmore Dishwasher E05 error code](/posts/kenmore-dishwasher-e05-error-code/)
-- [Kenmore Dishwasher E06 error code](/posts/kenmore-dishwasher-e06-error-code/)
+- Kenmore Dishwasher E05 error code
+- Kenmore Dishwasher E06 error code
 - [Kenmore Dishwasher E07 error code](/posts/kenmore-dishwasher-e07-error-code/)
 - [Kenmore Dishwasher E08 error code](/posts/kenmore-dishwasher-e08-error-code/)
 - [Kenmore Dishwasher E09 error code](/posts/kenmore-dishwasher-e09-error-code/)
 - [Kenmore Dishwasher E10 error code](/posts/kenmore-dishwasher-e10-error-code/)
 - [Kenmore Dishwasher E11 error code](/posts/kenmore-dishwasher-e11-error-code/)
-- [Kenmore Dishwasher E12 error code](/posts/kenmore-dishwasher-e12-error-code/)
+- Kenmore Dishwasher E12 error code
 - [Kenmore Dishwasher E13 error code](/posts/kenmore-dishwasher-e13-error-code/)
 - [Kenmore Dishwasher E14 error code](/posts/kenmore-dishwasher-e14-error-code/)
 - [Kenmore Dishwasher F1E1 error code](/posts/kenmore-dishwasher-f1e1-error-code/)

@@ -17,8 +17,7 @@ money_part: "User interface display board"
 part_price: "$150-350"
 ---
 
-## Whirlpool SY CE Error Code — What It Means
-
+## What this code means
 The SY CE error code on a Whirlpool refrigerator indicates a communication failure between the user interface control (the display and control panel you interact with) and the main control board (the primary electronic brain of the refrigerator). These two boards constantly exchange data to coordinate compressor cycles, defrost timing, temperature readings, and display functions. When the communication link breaks down, the refrigerator cannot operate properly and displays SY CE.
 
 This fault typically does not point to a cooling-system problem like a bad compressor or sealed-system leak. Instead, it flags an electrical or data-signaling issue in the low-voltage wiring or circuit boards that manage the appliance. The code will persist until the communication path is restored, either by reseating a connector, repairing damaged wiring, or replacing a failed board.
@@ -26,8 +25,6 @@ This fault typically does not point to a cooling-system problem like a bad compr
 ## Before You Replace Anything
 
 Many people replace the user interface control panel first because it is visible and easier to access. Always inspect and reseat all harness connectors and check wiring continuity before ordering any board. Field experience shows the main control board fails more often than the UI when wiring checks out.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

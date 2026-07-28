@@ -17,8 +17,6 @@ money_part: "Hot surface ignitor"
 
 The York YG2C is a two-stage, variable-speed gas furnace in the Affinity series. It uses an ECM blower and communicates fault conditions through a diagnostic LED on the control board. The YG2C supports York's Affinity communicating thermostat, which can display readable fault descriptions. For non-communicating systems, read the LED flash code directly.
 
-[Jump to Fix](#fix)
-
 ## York YG2C Flash Code Reference
 
 | Flash Code | Meaning |
@@ -69,18 +67,3 @@ The York YG2C is a two-stage, variable-speed gas furnace in the Affinity series.
 ## When to Call a Pro
 
 The YG2C's two-stage gas valve and variable-speed ECM blower are complex enough that board-level diagnosis benefits from York's proprietary tools. If you're chasing intermittent faults across multiple codes, an Affinity-compatible communicating thermostat will show detailed fault history that flash codes don't capture.
-
-## Related Articles
-
-- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
-- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)
-- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
-- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
-- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
-
-## See Also
-
-- [York YZV Heat Pump Error Codes - Variable Speed Fault Diagnostics](/posts/york-yzv-heat-pump-error-codes/)
-- [York Mini Split Error Code E1 — Causes & Fix](/posts/york-mini-split-error-code-e1/)
-- [York Furnace E4 Error Code — Ignition Failure](/posts/york-furnace-error-code-e4/)
-- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)

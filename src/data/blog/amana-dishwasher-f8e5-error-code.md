@@ -22,8 +22,7 @@ part_price: "$40-75"
 no_buy_pct: "25%"
 ---
 
-## Amana Dishwasher F8E5 — What It Means
-
+## What this code means
 The F8E5 code on your Amana dishwasher signals an overfill or high-water fault. When the control detects an unsafe water level, it initiates a drain sequence and prevents normal operation to protect against flooding. Amana product help instructs you to turn off both water supply and power immediately, then investigate the cause of the overfill condition.
 
 This code can appear because the tub actually filled too high, or because the float sensor is stuck in the tripped position. The machine will not resume washing until the underlying problem is corrected and the fault is cleared.
@@ -31,8 +30,6 @@ This code can appear because the tub actually filled too high, or because the fl
 ## Before You Replace Anything
 
 Many people replace the control board first, thinking the board is faulty. Instead, check whether the inlet valve is passing water when it should be closed and verify the float moves freely. Those checks cost nothing and identify the real culprit nine times out of ten.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

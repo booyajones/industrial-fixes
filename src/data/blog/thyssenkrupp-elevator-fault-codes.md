@@ -55,10 +55,3 @@ If the elevator car doesn't reach exact floor level within tolerance, a leveling
 | Drive module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-thyssenkrupp-elevator-fault-codes&k=Drive+module&tag=errorcodefixes-20) \| Replace on repeated drive faults |
 ## When to Call a Pro
 **Elevator maintenance and repair must be performed by licensed elevator mechanics (NAEC or equivalent certification).** Bypassing safety circuits or working in elevator pits and on top of cars without proper training is extremely dangerous.
-
-## Related Articles
-
-- [KONE Elevator Fault Codes - Complete Guide](/posts/kone-elevator-fault-codes/)
-- [Mitsubishi Elevator Fault Codes - Complete Guide](/posts/mitsubishi-elevator-fault-codes/)
-- [Otis Elevator Fault Codes - Complete Guide (Gen2 / Elevonic)](/posts/otis-elevator-fault-codes/)
-- [Schindler Elevator Fault Codes - Complete Guide](/posts/schindler-elevator-fault-codes/)

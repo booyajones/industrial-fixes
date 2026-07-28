@@ -19,8 +19,6 @@ A Frigidaire microwave that won't turn off is describing a runaway output condit
 
 Technicians see this when a relay or triac on the control board welds shut, a door switch stays stuck in the closed position, or the keypad fails to send a proper stop signal to the logic board. The symptom can show up as continuous fan operation, the light staying on with the door open, or the turntable spinning indefinitely.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Stuck or misadjusted door switch or interlock** If the door switch does not change state correctly the oven can behave as though the door is open or closed incorrectly and keep the unit from stopping normally.

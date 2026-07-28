@@ -15,8 +15,7 @@ most_likely_cause: "Misidentified brand or model"
 diy_or_pro: "pro"
 ---
 
-## Kenmore Dishwasher E07 Error — What It Means
-
+## What this code means
 E07 does not appear in official Kenmore dishwasher error code documentation. Kenmore dishwashers (manufactured by Whirlpool, Electrolux, or GE depending on the model series) typically display numeric codes like E1 through E15 or letter-number combinations, but E07 is not among them. This exact code is commonly associated with Bosch dishwashers, where it indicates a failed Zeolite or Crystal Dry fan motor used in the drying system.
 
 If your dishwasher displays E07, first confirm the brand and model number on the door edge or interior panel. If it is actually a Bosch unit, the code points to a defective drying fan. If it is truly a Kenmore, the display may be showing a different code (such as E7, F7, or a misread digit), or your specific model uses a non-standard error system. Consult your owner's manual or the wiring diagram inside the door for the official code list before proceeding with any repair.
@@ -24,8 +23,6 @@ If your dishwasher displays E07, first confirm the brand and model number on the
 ## Before You Replace Anything
 
 Many owners replace the control board when they see an unfamiliar error code. Check your owner's manual and verify the brand first, as the code may not exist for your appliance or may indicate a simple sensor or fan issue rather than a board fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

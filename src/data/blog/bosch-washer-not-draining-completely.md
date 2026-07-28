@@ -17,8 +17,6 @@ tags:
 
 A Bosch washer that does not drain completely means the machine has detected water still present after the drain phase. On many Bosch models this triggers a drain-related fault code such as E18, E36-10, or E03 depending on the platform and generation, though some machines display a generic drainage problem instead. The practical meaning is the same: the control system could not empty the tub within the allowed time, so the cause is in the drain path, the pump itself, or the control circuit powering the pump.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged drain pump filter** Lint, coins, debris, or small objects accumulate in the filter and prevent water from reaching the pump.
@@ -52,14 +50,14 @@ A Bosch washer that does not drain completely means the machine has detected wat
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Bosch Washer E15 error code](/posts/bosch-washer-e15-error-code/)
+- Bosch Washer E15 error code
 - [Bosch Washer E16 error code](/posts/bosch-washer-e16-error-code/)
 - [Bosch Washer E17 error code](/posts/bosch-washer-e17-error-code/)
 - [Bosch Washer E18 error code](/posts/bosch-washer-e18-error-code/)
 - [Bosch Washer E19 error code](/posts/bosch-washer-e19-error-code/)
 - [Bosch Washer E20 error code](/posts/bosch-washer-e20-error-code/)
-- [Bosch Washer E21 error code](/posts/bosch-washer-e21-error-code/)
-- [Bosch Washer E22 error code](/posts/bosch-washer-e22-error-code/)
+- Bosch Washer E21 error code
+- Bosch Washer E22 error code
 - [Bosch Washer E23 error code](/posts/bosch-washer-e23-error-code/)
 - [Bosch Washer E24 error code](/posts/bosch-washer-e24-error-code/)
 - [Bosch Washer E25 error code](/posts/bosch-washer-e25-error-code/)

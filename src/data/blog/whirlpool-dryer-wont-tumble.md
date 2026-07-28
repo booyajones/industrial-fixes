@@ -19,8 +19,6 @@ When your Whirlpool dryer won't tumble, it means the drum isn't rotating even th
 
 If you see error code F01 on the display, Whirlpool Service UK identifies that as an electronic circuit board fault that can prevent the dryer from operating and may block some or all functions. Most no-tumble complaints show no code at all, so you troubleshoot the mechanical and electrical spin system directly.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Broken drive belt** The belt that turns the drum has snapped or come off, so the motor runs but the drum does not turn.

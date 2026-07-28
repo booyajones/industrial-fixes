@@ -114,18 +114,3 @@ A: Yes, this is one of the simpler DIY HVAC repairs. Turn off power at the furna
 **Q: The Lennox Merit furnace is blinking but I can't figure out the pattern. Any tricks?**
 
 A: The LED blinks in groups. Watch for a short blink (first digit), a 1-2 second pause, then more blinks (second digit), then a longer pause before it repeats. If you're still confused, pull up the furnace manual (search for your model number + "installation instructions PDF" — Lennox posts them free online). The LED code chart is always printed on the inside of the furnace door panel too.
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-
-## See Also
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox Error Code 540 — Communicating System Fault (Detailed Guide)](/posts/lennox-error-code-540-communicating/)
-- [Lennox Error Code 114 — Causes & Fix](/posts/lennox-error-code-114/)
-- [Lennox Error Code 414 — Gas Valve Circuit Fault Fix](/posts/lennox-error-code-414-gas-valve-circuit-fault/)

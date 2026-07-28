@@ -22,8 +22,7 @@ part_price: "$30-70"
 no_buy_pct: "70%"
 ---
 
-## Trane Furnace E09 Error Code — What It Means
-
+## What this code means
 The E09 error code on a Trane furnace indicates an open condensate pressure switch or inducer limit switch. This safety lockout prevents operation when the furnace detects that condensate water is not draining properly. Pressure builds up in the condensate trap and trips the switch to avoid water damage or unsafe conditions inside the furnace cabinet.
 
 The code appears when the drain line is blocked, frozen, or installed incorrectly, creating an airlock that prevents water from leaving the drain canister. The furnace will not run until the blockage is cleared and the switch closes again. Once drainage is restored, the switch resets and the furnace can resume heating.
@@ -31,8 +30,6 @@ The code appears when the drain line is blocked, frozen, or installed incorrectl
 ## Before You Replace Anything
 
 Homeowners sometimes replace the condensate pressure switch when the real problem is a blockage in the drain line or pump reservoir. Before buying a switch, visually inspect the drain tubing for ice or debris and verify the pump is removing water.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -82,10 +79,3 @@ Answer these to narrow it down fast.
 Call a professional if you clear all visible blockages and the E09 code returns immediately, if you are uncomfortable working near 120V wiring at the pump or pressure switch, or if the small inducer hose routing is unclear and you cannot locate the pressure switch. A technician can test the switch with a multimeter (a closed switch reads 0 volts across terminals), verify the draft inducer is creating the correct pressure, and inspect the internal drain trap inside the furnace cabinet. Also call if the drain system lacks proper venting or if the furnace was recently installed and the code appeared during the first heating season, since improper installation may require correction under warranty.
 
 **Rough cost:** DIY runs about $15-50 in parts if the pump or hose needs replacement, 30-60 min. A pro service call runs about $150-300 for a service call to clear drains and verify the system.
-
-## See Also
-
-- [Trane XL18i Heat Pump Error Codes: Flash Codes and ComfortLink II Faults](/posts/trane-xl18i-error-codes/)
-- [Trane Furnace 5 Flashes - Causes & Fix](/posts/trane-furnace-5-flashes-error-code/)
-- [Trane Heat Pump E14 Error Code - Causes & Fix](/posts/trane-heat-pump-e14-error-code/)
-- [Trane XR17 Heat Pump Error Codes - Fault Code and Flash Code Guide](/posts/trane-xr17-error-codes/)

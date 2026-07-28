@@ -53,16 +53,16 @@ These sensors fail when the thermistor loses its ability to change resistance wi
 
 If this part is failing you may also see one of these codes:
 
-- [Whirlpool Dryer Af error code](/posts/whirlpool-dryer-af-error-code/)
-- [Whirlpool Dryer F 01 error code](/posts/whirlpool-dryer-f-01-error-code/)
-- [Whirlpool Dryer F 02 error code](/posts/whirlpool-dryer-f-02-error-code/)
-- [Whirlpool Dryer F 22 error code](/posts/whirlpool-dryer-f-22-error-code/)
-- [Whirlpool Dryer F 23 error code](/posts/whirlpool-dryer-f-23-error-code/)
-- [Whirlpool Dryer F 26 error code](/posts/whirlpool-dryer-f-26-error-code/)
-- [Whirlpool Dryer F 28 error code](/posts/whirlpool-dryer-f-28-error-code/)
-- [Whirlpool Dryer F 29 error code](/posts/whirlpool-dryer-f-29-error-code/)
-- [Whirlpool Dryer F1E1 error code](/posts/whirlpool-dryer-f1e1-error-code/)
-- [Whirlpool Dryer F22 error code](/posts/whirlpool-dryer-f22-error-code/)
+- Whirlpool Dryer Af error code
+- Whirlpool Dryer F 01 error code
+- Whirlpool Dryer F 02 error code
+- Whirlpool Dryer F 22 error code
+- Whirlpool Dryer F 23 error code
+- Whirlpool Dryer F 26 error code
+- Whirlpool Dryer F 28 error code
+- Whirlpool Dryer F 29 error code
+- Whirlpool Dryer F1E1 error code
+- Whirlpool Dryer F22 error code
 
 ## When to Call a Pro
 

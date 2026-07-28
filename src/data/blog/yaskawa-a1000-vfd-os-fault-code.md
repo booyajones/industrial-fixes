@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 oS Fault Code — What It Means
-
+## What this code means
 The oS fault on a Yaskawa A1000 VFD is a self-diagnostic or internal control-circuit problem. Unlike overcurrent or motor overload faults, oS points to an issue inside the drive's electronics, not with external wiring or the connected load. The fault triggers when the drive's internal diagnostics detect a hardware or control board abnormality that prevents normal operation.
 
 Yaskawa's corrective action is straightforward: cycle power to the drive. If the fault clears and does not return, the issue was likely a transient internal glitch. If oS reappears after power cycling, the manufacturer directs technicians to replace the control board or the entire drive. A damaged operator or keypad connector can also trigger oS, so inspect and replace the operator assembly if connector damage is visible.
@@ -24,8 +23,6 @@ Yaskawa's corrective action is straightforward: cycle power to the drive. If the
 ## Before You Replace Anything
 
 Do not replace the motor, motor cables, or power section first. The oS fault is an internal drive problem, not a load or wiring issue. Power-cycle the drive and inspect the operator connector before replacing any components.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or industrial electrician immediately. The oS fault requires opening the drive enclosure and working with high-voltage DC bus capacitors that remain energized even after input power is removed. Control board and drive replacement demand proper lockout/tagout, discharge procedures, correct part matching, and firmware handling. Attempting this work without training risks shock, equipment damage, and warranty voidance. A technician will verify the fault history, perform safe power-down and discharge, inspect internal hardware, and replace the control board or drive following Yaskawa service protocols.
 
 **Rough cost:** A pro service call runs about $400–1,200 depending on whether the control board alone or the complete drive is replaced.
-
-## See Also
-
-- [Yaskawa A1000 Uv3 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-uv3-fault-code/)
-- [Yaskawa GA800 A.107 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-107-fault-code/)
-- [Yaskawa A1000 Complete Guide - Fault Codes, Parameters, and Commissioning](/posts/yaskawa-a1000-complete-guide/)
-- [Yaskawa GA800 E09 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e09-fault-code/)

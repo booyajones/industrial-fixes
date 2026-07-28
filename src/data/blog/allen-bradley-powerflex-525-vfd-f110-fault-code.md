@@ -18,8 +18,7 @@ free_checks:
   - "Inspect the keypad membrane seating at the drive face for looseness or visible damage"
 ---
 
-## Allen-Bradley PowerFlex 525 F110 — What It Means
-
+## What this code means
 F110 on an Allen-Bradley PowerFlex 525 indicates a keypad membrane fault. The drive has detected a keypad membrane failure or a disconnected keypad/control interface. This is a hardware and interface fault, not a motor overload or output-stage problem. The fault points to the operator interface path on the drive face.
 
 Rockwell Automation's PowerFlex 525 fault table lists F110 as 'Keypad Membrane' and describes the cause as a keypad membrane failure or disconnection. The recommended immediate action is to cycle power to the drive, then replace the control module if the fault cannot be cleared. This is not a parameter or motor-wiring issue.
@@ -27,8 +26,6 @@ Rockwell Automation's PowerFlex 525 fault table lists F110 as 'Keypad Membrane' 
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive thinking the main control board has failed, when the fault is actually just a loose keypad membrane connection or a failed control module that can be swapped independently.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or drive technician if you are not trained to work with VFDs. PowerFlex 525 drives operate at line voltage (up to 480 VAC three-phase in some configurations) and can deliver lethal shock even after the input power is disconnected, due to capacitor charge. Control module replacement requires careful handling of static-sensitive electronics and correct reassembly of the keypad interface. If the fault persists after module replacement, the drive may have a deeper control-section failure that requires factory service or replacement, and that decision is best made by a professional familiar with Rockwell equipment.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Allen-Bradley PowerFlex 70 Fault Codes: Complete Guide](/posts/allen-bradley-powerflex-70-faults/)
-- [Allen Bradley PowerFlex 753 F12 Fault — Causes & Fix](/posts/allen-bradley-powerflex-753-f12-fault/)
-- [Allen-Bradley PowerFlex 525 F033 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f033-fault-code/)
-- [Allen-Bradley PowerFlex 525 F072 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f072-fault-code/)

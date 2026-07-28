@@ -19,8 +19,6 @@ A Speed Queen washer that smells like mildew is not indicating a fault code. It'
 
 Common sources include using too much detergent, leaving wet clothes in the drum after the cycle finishes, a dirty detergent drawer, or trapped moisture in the door gasket on front-load models. On top-load machines, residue can collect around the agitator or under the agitator cap. If the model has a drain pump filter, debris or standing water there can also contribute to the odor.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Too much detergent or wrong detergent type** Excess detergent or non-HE detergent leaves a soapy film that traps moisture and grows mildew over time.
@@ -60,12 +58,12 @@ If your appliance also shows a code on the display, these match this problem:
 - [Speed Queen Washer Du error code](/posts/speed-queen-washer-du-error-code/)
 - [Speed Queen Washer E 05 error code](/posts/speed-queen-washer-e-05-error-code/)
 - [Speed Queen Washer E 07 error code](/posts/speed-queen-washer-e-07-error-code/)
-- [Speed Queen Washer E 08 error code](/posts/speed-queen-washer-e-08-error-code/)
+- Speed Queen Washer E 08 error code
 - [Speed Queen Washer E 0D error code](/posts/speed-queen-washer-e-0d-error-code/)
-- [Speed Queen Washer E1 error code](/posts/speed-queen-washer-e1-error-code/)
+- Speed Queen Washer E1 error code
 - [Speed Queen Washer E5 error code](/posts/speed-queen-washer-e5-error-code/)
 - [Speed Queen Washer E7 error code](/posts/speed-queen-washer-e7-error-code/)
-- [Speed Queen Washer Ec 09 error code](/posts/speed-queen-washer-ec-09-error-code/)
+- Speed Queen Washer Ec 09 error code
 
 ## When to Call a Pro
 

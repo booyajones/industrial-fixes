@@ -19,8 +19,6 @@ When your KitchenAid refrigerator stops making ice, the ice maker is not complet
 
 The freezer should be set to 0°F (-18°C) and the fresh food section to 33–40°F (0–4°C) for reliable ice production. If any of those conditions are off, the ice maker will either stop cycling or produce ice very slowly.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Ice maker switched off or arm up** The ice maker on/off switch is in the paused position or the wire shutoff arm is raised, which stops the harvest cycle entirely.
@@ -54,14 +52,14 @@ The freezer should be set to 0°F (-18°C) and the fresh food section to 33–40
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kitchenaid Refrigerator E0 error code](/posts/kitchenaid-refrigerator-e0-error-code/)
-- [Kitchenaid Refrigerator E1 error code](/posts/kitchenaid-refrigerator-e1-error-code/)
-- [Kitchenaid Refrigerator E2 error code](/posts/kitchenaid-refrigerator-e2-error-code/)
-- [Kitchenaid Refrigerator E3 error code](/posts/kitchenaid-refrigerator-e3-error-code/)
-- [Kitchenaid Refrigerator E4 error code](/posts/kitchenaid-refrigerator-e4-error-code/)
-- [Kitchenaid Refrigerator E5 error code](/posts/kitchenaid-refrigerator-e5-error-code/)
-- [Kitchenaid Refrigerator E6 error code](/posts/kitchenaid-refrigerator-e6-error-code/)
-- [Kitchenaid Refrigerator Er error code](/posts/kitchenaid-refrigerator-er-error-code/)
+- Kitchenaid Refrigerator E0 error code
+- Kitchenaid Refrigerator E1 error code
+- Kitchenaid Refrigerator E2 error code
+- Kitchenaid Refrigerator E3 error code
+- Kitchenaid Refrigerator E4 error code
+- Kitchenaid Refrigerator E5 error code
+- Kitchenaid Refrigerator E6 error code
+- Kitchenaid Refrigerator Er error code
 
 ## When to Call a Pro
 

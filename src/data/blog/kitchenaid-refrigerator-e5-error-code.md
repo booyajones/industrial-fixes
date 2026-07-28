@@ -17,8 +17,7 @@ money_part: "Ice-maker assembly (KitchenAid/Whirlpool compatible)"
 part_price: "$80-180"
 ---
 
-## KitchenAid Refrigerator E5 Error Code — What It Means
-
+## What this code means
 E5 on KitchenAid refrigerator diagnostics indicates an ice-maker temperature-sensing or harvest-cycle problem. The exact meaning depends on your model platform. On many KitchenAid and Whirlpool designs, E5 in the ice-maker error table signals "Timed Ice Making," meaning the ice maker did not complete a harvest cycle within the expected window, usually because the thermistor or bimetal heater sensor inside the ice-maker assembly failed to detect proper harvest temperature. Some tech sheets also list E5 as "Heater Bimetal Faulty" in a different diagnostic context.
 
 In practice, the most common real-world cause is a failed ice-maker thermistor or temperature sensor built into the ice-maker module. Because these sensors are embedded and not sold separately, the typical repair is to replace the entire ice-maker assembly. Incomplete harvest, slow ice production, or trays that stay partially filled with water are all symptoms that match this fault. Always pull your model's tech sheet and confirm which diagnostic table applies before ordering parts, because KitchenAid assigns different meanings to E5 across platforms.
@@ -26,8 +25,6 @@ In practice, the most common real-world cause is a failed ice-maker thermistor o
 ## Before You Replace Anything
 
 Many owners replace the main control board or assume a compressor problem when the refrigerator compartment runs warm. Run the ice-maker harvest and fill tests in service diagnostics first to confirm the E5 is isolated to the ice maker before spending money elsewhere.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

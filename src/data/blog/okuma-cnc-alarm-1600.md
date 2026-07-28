@@ -17,8 +17,6 @@ most_likely_cause: "Loose or damaged communication cable between control and dri
 
 Okuma Alarm 1600 indicates a **communication error between the CNC control unit and a servo or spindle drive** — the OSP (Okuma Software Platform) control is not receiving valid communication from one of the OPUS/DRIVE axis or spindle amplifiers on the Okuma CC-Link or proprietary drive communication bus. Each Okuma drive module communicates position and status data to the OSP over a serial link; when that link is interrupted or returns corrupted data, Alarm 1600 is stored and the machine stops. The alarm will typically specify which axis or drive station number is affected.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
 - **Loose or damaged communication cable between control and drives** — The flat or shielded cable connecting the NC control to the drive rack can loosen from vibration or coolant exposure.
@@ -45,18 +43,3 @@ Okuma Alarm 1600 indicates a **communication error between the CNC control unit 
 ## When to Call a Pro
 
 Okuma OSP control and drive communication diagnostics require Okuma service manuals and specialized knowledge of the OPUS drive architecture. If power and cabling check out but 1600 persists, contact Okuma America service or an Okuma-authorized technical center for drive module and control board diagnostics.
-
-## Related Articles
-
-- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
-- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
-- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-
-## See Also
-
-- [Okuma MC-V4020 Machining Center Alarm Codes: Complete Guide](/posts/okuma-mc-v4020-error-codes/)
-- [Okuma CNC Alarm 1013 — Servo Axis Fault Fix](/posts/okuma-cnc-alarm-1013-servo-axis-fault/)
-- [Okuma CNC Alarm 1400 — Encoder Error](/posts/okuma-cnc-alarm-1400/)
-- [Okuma CNC Alarm 4000 - Causes & Fix](/posts/okuma-cnc-alarm-4000/)

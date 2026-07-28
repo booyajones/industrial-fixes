@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "diy"
 ---
 
-## KitchenAid FAE5 Error Code — What It Means
-
+## What this code means
 The FAE5 error code (also labeled F10E5 on some models) means the dishwasher's flood sensor has detected water in the base pan underneath the machine. When this sensor activates, the main control board immediately stops the wash cycle, drains the tub, and displays the error to alert you of a leak condition.
 
 The code does not tell you where the leak originated. It simply confirms that water has accumulated in the drip tray at the bottom of the unit. The cause may be an actual mechanical leak, backflow from a drain hose, or excessive suds overflowing from the tub into the base pan.
@@ -24,8 +23,6 @@ The code does not tell you where the leak originated. It simply confirms that wa
 ## Before You Replace Anything
 
 Many people replace the flood switch or the main control board first, but the error usually clears once you remove the water from the base pan and fix the suds or drain hose issue that caused it.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

@@ -108,11 +108,4 @@ P3 = outdoor coil thermistor fault. U4 = communication error between indoor and 
 
 - [Mitsubishi Mini Split P1 Error Code — Indoor Coil Thermistor Fix](/posts/mitsubishi-p1-error-code)
 - [Mitsubishi Mini Split P2 Error Code — Liquid Pipe Thermistor Fix](/posts/mitsubishi-p2-error-code)
-- [Mitsubishi P4 Error Code — Drain Switch Fix](/posts/mitsubishi-p4-error-code)
-
-## See Also
-
-- [Mitsubishi E3 Error Code — Indoor Fan Motor Fault Fix](/posts/mitsubishi-e3-error-code/)
-- [Mitsubishi U6 Error Code — Causes & Fix](/posts/mitsubishi-u6-error-code/)
-- [Mitsubishi Mini Split E6 Error Code Fix](/posts/mitsubishi-e6-error-code/)
-- [Mitsubishi FR-A800 Fault E.OC1, Overcurrent During Acceleration Fix](/posts/mitsubishi-fr-a800-fault-eoc1/)
+- Mitsubishi P4 Error Code — Drain Switch Fix

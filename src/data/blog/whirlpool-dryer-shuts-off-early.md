@@ -19,8 +19,6 @@ A Whirlpool dryer that shuts off early usually means one of two things. Either t
 
 Whirlpool's automatic cycles use a humidity sensing system and turn off once the target dryness level is reached. The dryer can also stop mid-cycle due to overheating, electrical problems, a damaged drive belt, or heating system trouble. Confirming which scenario applies is the first step in diagnosing the problem.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Blocked airflow or clogged vent** Whirlpool identifies lint buildup in the filter, dryer vent, or exterior exhaust as a common overheating cause that triggers early shutdown.

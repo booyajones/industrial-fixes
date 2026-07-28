@@ -19,8 +19,6 @@ A Samsung mini split that is not cooling is a performance symptom, not a fault c
 
 Most often the issue is a setting error (wrong mode or temperature set too high), a blocked or dirty air filter choking indoor airflow, debris around the outdoor condenser unit, or a room load that exceeds the system's capacity. Only after those basics are ruled out do technicians move to refrigerant, icing, compressor, or control board diagnosis.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Wrong mode or setpoint** The unit is not in Cool mode, or the temperature is set too high to call for cooling.
@@ -54,10 +52,10 @@ Most often the issue is a setting error (wrong mode or temperature set too high)
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Samsung Mini Split E1 01 error code](/posts/samsung-mini-split-e1-01-error-code/)
-- [Samsung Mini Split E3 01 error code](/posts/samsung-mini-split-e3-01-error-code/)
-- [Samsung Mini Split E4 01 error code](/posts/samsung-mini-split-e4-01-error-code/)
-- [Samsung Mini Split E5 01 error code](/posts/samsung-mini-split-e5-01-error-code/)
+- Samsung Mini Split E1 01 error code
+- Samsung Mini Split E3 01 error code
+- Samsung Mini Split E4 01 error code
+- Samsung Mini Split E5 01 error code
 
 ## When to Call a Pro
 

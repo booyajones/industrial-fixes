@@ -19,8 +19,6 @@ A mildew smell in an Amana washer is not a fault code or electronic error. It is
 
 The odor develops when moisture sits after cycles in hidden pockets like the door gasket on front-loaders, the dispenser tray and its feed tubes, the drain hose, or the pump sump. Detergent and fabric-softener buildup feeds the growth. Partial clogs in the drain line or pump can leave standing water that turns stagnant between loads.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Residual moisture in door boot or gasket** Water pools in the rubber seal folds after cycles and grows mold if the door stays closed between loads.
@@ -63,7 +61,7 @@ If your appliance also shows a code on the display, these match this problem:
 - [Amana Washer F8 E1 error code](/posts/amana-washer-f8-e1-error-code/)
 - [Amana Washer F8 E2 error code](/posts/amana-washer-f8-e2-error-code/)
 - [Amana Washer F9 E1 error code](/posts/amana-washer-f9-e1-error-code/)
-- [Amana Washer Fd error code](/posts/amana-washer-fd-error-code/)
+- Amana Washer Fd error code
 - [Amana Washer Hc error code](/posts/amana-washer-hc-error-code/)
 - [Amana Washer Ldl error code](/posts/amana-washer-ldl-error-code/)
 - [Amana Washer Ldu error code](/posts/amana-washer-ldu-error-code/)

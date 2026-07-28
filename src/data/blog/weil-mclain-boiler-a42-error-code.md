@@ -17,8 +17,7 @@ free_checks:
   - "Power-cycle the boiler (turn off the switch for 60 seconds, then back on) to see if A42 clears or returns."
 ---
 
-## Weil-McLain A42 Error Code — What It Means
-
+## What this code means
 A42 is not a universal error code across all Weil-McLain boilers. The exact meaning depends on your specific model and control board. Weil-McLain uses different fault tables for different product lines, so A42 on one boiler may indicate a sensor fault, a limit condition, or a communication issue, while the same code on another model may mean something entirely different or not exist at all.
 
 The only reliable way to know what A42 means on your boiler is to locate the service manual or control-board fault table for your exact model and serial number. Weil-McLain's own guidance directs contractors to use model-specific documentation and contact professional support for troubleshooting rather than relying on generic assumptions.
@@ -26,8 +25,6 @@ The only reliable way to know what A42 means on your boiler is to locate the ser
 ## Before You Replace Anything
 
 Homeowners sometimes replace control boards or sensors without confirming the exact fault definition, wasting hundreds of dollars. Always pull the model-specific fault table and test the suspect component before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a professional heating contractor immediately if you see A42 on your Weil-McLain boiler. Gas-fired boilers require licensed technicians for diagnostics and repair due to safety codes, combustion hazards, and warranty requirements. A qualified contractor will use your exact model and serial number to pull the correct fault definition, test the suspect components with calibrated meters, and replace only the parts confirmed by the manufacturer's service procedure. Attempting DIY repairs on gas appliances without proper training and permits can void your warranty, create carbon-monoxide or explosion risks, and violate local building codes.
 
 **Rough cost:** A pro service call runs about $200-450.
-
-## See Also
-
-- [Weil-McLain Boiler A103 Error - Causes & Fix](/posts/weil-mclain-boiler-a103-error-code/)
-- [Weil-McLain Boiler Error Code E10 — Low Water Pressure Fix](/posts/weil-mclain-e10-low-pressure/)
-- [Weil-McLain A90 Error - Causes & Fix](/posts/weil-mclain-boiler-a90-error-code/)
-- [Weil-McLain A95 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a95-error-code/)

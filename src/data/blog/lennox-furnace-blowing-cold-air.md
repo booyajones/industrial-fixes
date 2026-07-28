@@ -20,8 +20,6 @@ A Lennox furnace blowing cold air is a symptom, not a fault code. It means your 
 
 The blower may be running all the time even when the furnace is not calling for heat, or the heating cycle may be starting but failing before warm air is delivered. The most common causes are thermostat settings (fan stuck on ON), restricted airflow from a clogged filter, ignition or flame-sensor faults that prevent burners from staying lit, blocked condensate drains on high-efficiency models, gas-supply or gas-valve issues, and duct leaks that lose heat before it reaches the living space.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Thermostat fan set to ON instead of AUTO** When the fan switch is set to ON, the blower runs continuously even between heating cycles, pushing unheated air through the house.
@@ -69,10 +67,3 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the burners will not light, if burners light then drop out after you have checked the filter and thermostat settings, if you suspect a gas-valve or gas-supply problem, or if you see a diagnostic fault code on the furnace control board. Gas-related work, ignition component testing, flame-sensor cleaning or replacement, and refrigerant work (on heat pumps) all require proper tools and safety training. If you have cleared the filter and confirmed AUTO fan mode but still get continuous cold air, a pro can read the exact fault code and follow the model-specific service manual to pinpoint the cause. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
-
-## See Also
-
-- [Lennox Furnace Won't Turn On - Causes & Fix](/posts/lennox-furnace-wont-turn-on/)
-- [Lennox ML193 Furnace Problems & Error Codes](/posts/lennox-ml193-furnace-gas-residential-problems/)
-- [Lennox Error Code 224 — HSI Relay Failure Fix](/posts/lennox-error-code-224/)
-- [Lennox Furnace Short Cycling - Causes & Fix](/posts/lennox-furnace-short-cycling/)

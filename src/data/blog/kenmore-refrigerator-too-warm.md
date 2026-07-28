@@ -19,8 +19,6 @@ When your Kenmore refrigerator is too warm, the fresh-food section is not stayin
 
 In most cases, the freezer section remains cold while the refrigerator compartment warms up. This pattern tells you that the compressor is running and refrigerant is circulating, but cold air is not reaching the fresh-food section. Blocked airflow or a failed fan is the usual culprit.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Frosted evaporator from defrost-system failure** A failed defrost heater, defrost thermostat, thermal fuse, timer, sensor, or control board allows frost to build up on the evaporator coil and block airflow between compartments.

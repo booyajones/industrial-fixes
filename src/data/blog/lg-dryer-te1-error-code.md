@@ -17,8 +17,7 @@ money_part: "LG dryer thermistor / temperature sensor"
 part_price: "$15-40"
 ---
 
-## LG Dryer tE1 Error Code — What It Means
-
+## What this code means
 The tE1 code on an LG dryer indicates the control board has detected a thermistor or temperature-sensing fault. LG identifies tE1 (and tE3) as a thermistor problem. The code does not necessarily mean the dryer is overheating. It means the control is receiving an abnormal signal from the temperature sensor circuit, either because the sensor itself has failed, the wiring is loose or corroded, or something is interfering with normal temperature behavior.
 
 In practical terms, the dryer's thermistor monitors temperature and sends resistance readings to the main board. When those readings fall outside the expected range (open, short, or erratic), the board halts the cycle and displays tE1. A simple power reset clears one-time glitches. If the code returns, you need to diagnose the sensor, its wiring, and the airflow path before suspecting the control board.
@@ -26,8 +25,6 @@ In practical terms, the dryer's thermistor monitors temperature and sends resist
 ## Before You Replace Anything
 
 Homeowners often replace the main control board when the real fault is a corroded or loose thermistor connector. Always meter-test the thermistor and inspect the harness plug before ordering a board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -76,10 +73,3 @@ Answer these to narrow it down fast.
 Call a technician if you are not comfortable working with a multimeter, accessing internal components, or interpreting resistance readings. Also call if the thermistor and all wiring test normal but the code returns after every reset, since that points to a main control board fault that requires part-number matching and proper installation. If the dryer shares a 240-volt circuit with other appliances and you are unsure how to safely disconnect power, a service call is the safer choice. Professional diagnosis typically includes a full vent inspection, sensor testing, and board-level troubleshooting in one visit.
 
 **Rough cost:** DIY runs about $15–40 for thermistor, 30–60 min. A pro service call runs about $120–250 including service call and sensor.
-
-## See Also
-
-- [LG Washer Won't Start - Causes & Fix](/posts/lg-washer-wont-start/)
-- [LG Washer tE Error Code - Causes & Fix](/posts/lg-washer-te-error-code/)
-- [LG Washer Shock Absorber / Suspension Rod Replacement](/posts/lg-washer-shock-absorber-suspension-rod-kit-replacement/)
-- [LG EID Error Code - Causes & Fix](/posts/lg-refrigerator-eid-error-code/)

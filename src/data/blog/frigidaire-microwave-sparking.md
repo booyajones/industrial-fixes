@@ -19,8 +19,6 @@ Sparking or arcing in a Frigidaire microwave means visible electrical discharge 
 
 This is not a fault code but a physical symptom that requires immediate attention. In many cases, the sparking is caused by something as simple as foil or a twist tie left in the cavity, but it can also indicate a burned waveguide cover or heavily carbonized grease buildup that needs cleaning or replacement.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Metal objects in the cavity** Foil, utensils, twist ties, or cookware not rated microwave-safe will arc when exposed to microwave energy.

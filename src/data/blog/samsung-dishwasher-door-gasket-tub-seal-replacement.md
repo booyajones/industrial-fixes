@@ -52,16 +52,16 @@ The gasket fails over time because heat, detergent, and constant compression wea
 
 If this part is failing you may also see one of these codes:
 
-- [Samsung Dishwasher 3C error code](/posts/samsung-dishwasher-3c-error-code/)
-- [Samsung Dishwasher 3E error code](/posts/samsung-dishwasher-3e-error-code/)
-- [Samsung Dishwasher 4C error code](/posts/samsung-dishwasher-4c-error-code/)
-- [Samsung Dishwasher 5C error code](/posts/samsung-dishwasher-5c-error-code/)
-- [Samsung Dishwasher 9E error code](/posts/samsung-dishwasher-9e-error-code/)
-- [Samsung Dishwasher Ap error code](/posts/samsung-dishwasher-ap-error-code/)
-- [Samsung Dishwasher Be error code](/posts/samsung-dishwasher-be-error-code/)
-- [Samsung Dishwasher Ce error code](/posts/samsung-dishwasher-ce-error-code/)
-- [Samsung Dishwasher Hc error code](/posts/samsung-dishwasher-hc-error-code/)
-- [Samsung Dishwasher He error code](/posts/samsung-dishwasher-he-error-code/)
+- Samsung Dishwasher 3C error code
+- Samsung Dishwasher 3E error code
+- Samsung Dishwasher 4C error code
+- Samsung Dishwasher 5C error code
+- Samsung Dishwasher 9E error code
+- Samsung Dishwasher Ap error code
+- Samsung Dishwasher Be error code
+- Samsung Dishwasher Ce error code
+- Samsung Dishwasher Hc error code
+- Samsung Dishwasher He error code
 
 ## When to Call a Pro
 

@@ -13,13 +13,10 @@ money_part: "Danfoss FC 302 control card"
 most_likely_cause: "Loose or poorly seated internal connections"
 ---
 
-## Danfoss FC302 VFD Alarm 38 — What It Means
-
+## What this code means
 Alarm 38 on the Danfoss VLT FC 302 indicates an internal fault within the drive itself, not a motor-side problem like overload or phase loss. Danfoss classifies this as a communication error between the control card and the power card. The alarm typically appears with a subcode number that identifies the fault category more precisely, so you should record that number from the display before troubleshooting.
 
 This fault means something has failed or become disconnected inside the drive enclosure. It is not a wiring or configuration issue on the motor or line side. The drive's internal boards talk to each other through ribbon cables and connectors, and Alarm 38 flags a breakdown in that communication path.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -51,10 +48,3 @@ This fault means something has failed or become disconnected inside the drive en
 ## When to Call a Pro
 
 Call a qualified VFD technician or industrial controls specialist if you are not trained in working inside energized or recently de-energized industrial drives, because the DC bus can hold lethal voltage even after AC power is removed. Also call for help if reseating boards and replacing the control card does not clear Alarm 38, if you do not have the tools to safely discharge the DC bus, or if your facility requires that only certified personnel open drive enclosures. Danfoss technical support should be contacted with your drive's model number, serial number, and the full alarm subcode if board-level troubleshooting does not resolve the fault, because some internal faults require factory-level diagnostics or firmware updates.
-
-## See Also
-
-- [Danfoss FC302 VFD Alarm 16 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-16-fault-code/)
-- [Danfoss FC302 ALARM 18 - Causes & Fix](/posts/danfoss-fc302-alarm-18-fault-code/)
-- [Danfoss FC302 VFD Alarm 23 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-23-fault-code/)
-- [Danfoss VFD Fault Codes — FC301, FC302, FC102 Reference](/posts/danfoss-vfd-fault-codes/)

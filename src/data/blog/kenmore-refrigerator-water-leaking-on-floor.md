@@ -17,8 +17,6 @@ tags:
 
 Water leaking on the floor is not an error code. It is a symptom that tells you water is escaping the normal drain or distribution path inside the refrigerator and reaching the cabinet bottom or the kitchen floor. If water appears after defrost cycles or is pooling near the freezer compartment, the leak is usually from the defrost drain system backing up rather than a pressurized supply line failure.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged or frozen defrost drain** Meltwater overflows the drain trough and drips into the freezer bottom, then onto the floor.

@@ -13,11 +13,8 @@ money_part: "Motor cooling fan or fan kit"
 most_likely_cause: "Motor overload"
 ---
 
-## Siemens Micromaster F0011 — What It Means
-
+## What this code means
 F0011 on Siemens Micromaster drives indicates motor overtemperature or motor thermal overload protection has tripped. The drive has detected that the motor exceeded its permitted thermal limit, either from actual overheating or from the drive's internal thermal model calculating excessive motor temperature. This fault is tied to motor temperature monitoring parameters and the thermal protection model, not to the inverter heatsink or drive electronics.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -49,10 +46,3 @@ F0011 on Siemens Micromaster drives indicates motor overtemperature or motor the
 ## When to Call a Pro
 
 Call a qualified technician if you cannot identify the source of the overload, if the motor continues to overheat after clearing mechanical obstructions and verifying cooling, or if you are unfamiliar with VFD parameter programming and motor thermal model setup. A professional can perform load testing, thermal imaging, insulation resistance measurements, and precise parameter tuning to match the drive protection to your motor and application. If the motor has suffered winding damage from repeated thermal trips, a motor rewind or replacement decision requires expert evaluation.
-
-## See Also
-
-- [Siemens SINAMICS V20 F1 Fault — Causes & Fix](/posts/siemens-sinamics-v20-f1-fault/)
-- [Siemens Micromaster F0052 - Causes & Fix](/posts/siemens-micromaster-vfd-f0052-fault-code/)
-- [Siemens G120 A05002 Fault - Causes & Fix](/posts/siemens-g120-vfd-a05002-fault-code/)
-- [Siemens G120 F01625 - Causes & Fix](/posts/siemens-g120-vfd-f01625-fault-code/)

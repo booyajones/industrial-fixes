@@ -14,13 +14,10 @@ money_part: "High-limit switch"
 most_likely_cause: "Dirty or clogged air filter"
 ---
 
-## Goodman Furnace 4 Flashes — What It Means
-
+## What this code means
 A 4-flash diagnostic code on a Goodman furnace indicates the high-limit circuit is open because the furnace has overheated. The control board has detected that the high-limit switch (or related limit safety) opened to stop heat production when the temperature inside the unit rose above the safe operating range. This is a safety shutdown, not a random fault. On some Goodman and Amana models the limit path may include an auxiliary limit or rollout-related safety depending on the cabinet design, but the functional meaning is the same: overheat protection tripped and shut down the burner.
 
 The high-limit switch is designed to open when airflow across the heat exchanger is too low or blocked, causing temperatures to climb. Once the airflow problem is corrected and the furnace cools, the limit should close again and allow normal operation. If the limit remains open at room temperature or if airflow is adequate but the code persists, the switch itself or associated wiring may be defective.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ The high-limit switch is designed to open when airflow across the heat exchanger
 ## When to Call a Pro
 
 Call a professional if you are not comfortable working with furnace electrical components or gas appliances, if the blower motor or capacitor tests require tools you do not own, or if the 4-flash code returns after you have replaced the filter and verified all registers are open. A technician can measure airflow with a manometer, test limit-switch operation under load, and diagnose control-board or wiring faults that are not obvious during a visual inspection. If the limit switch is open at room temperature and you are unsure how to replace it safely, professional service is the best choice.
-
-## See Also
-
-- [Goodman Heat Pump E6 Error Code - Causes & Fix](/posts/goodman-heat-pump-e6-error-code/)
-- [Goodman GPH Series Packaged Unit Error Codes: Complete Guide](/posts/goodman-gph-error-codes/)
-- [Goodman GMS96 Error Codes — Fault Code Guide](/posts/goodman-gms96-error-codes/)
-- [Goodman 7 Flash Error Code — Ignition Lockout Fix](/posts/goodman-7-flash-error-code/)

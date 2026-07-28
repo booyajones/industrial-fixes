@@ -16,8 +16,7 @@ diy_or_pro: "pro"
 money_part: "GE microwave humidity sensor"
 ---
 
-## GE Microwave F4 Error Code — What It Means
-
+## What this code means
 The F4 code on a GE microwave indicates that the electronic control has detected the humidity sensor circuit as open continuously for more than 5 seconds. The humidity sensor monitors moisture levels during certain cooking cycles, and when the control cannot read the sensor (because the circuit is open), it flags the fault and may stop the microwave from operating normally.
 
 This code is specific to the humidity sensor circuit. It is not related to the temperature probe, touchpad, or thermal sensor faults, which trigger separate codes such as F6, F10, F1, and F2. GE's fault-code documentation states that these codes are built into the control and that a trained service technician should diagnose and correct the issue.
@@ -25,8 +24,6 @@ This code is specific to the humidity sensor circuit. It is not related to the t
 ## Before You Replace Anything
 
 Homeowners sometimes replace the control board first, assuming the error is a board fault. Before replacing the board, verify the humidity sensor tests open and check all wiring and connectors in the sensor circuit, because an open sensor or loose plug is far more common than a control board input failure.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

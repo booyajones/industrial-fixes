@@ -13,11 +13,8 @@ money_part: "Danfoss FC302 LCP (Local Control Panel)"
 most_likely_cause: "Parameter value outside allowed range"
 ---
 
-## Danfoss FC302 Alarm 21 — What It Means
-
+## What this code means
 Alarm 21 on the Danfoss FC302 is a Parameter Error. The drive has detected that a parameter value is out of its permitted range, or the parameter number itself is being displayed as an error condition. The Danfoss manual states this clearly: the parameter is out of range. This is not a motor or power fault. It is a configuration problem, usually triggered by an incorrect value during setup, commissioning, or after a parameter transfer.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -47,10 +44,3 @@ Alarm 21 on the Danfoss FC302 is a Parameter Error. The drive has detected that 
 ## When to Call a Pro
 
 Call a qualified VFD technician if you cannot identify which parameter is out of range, if the alarm returns immediately after correction, or if the drive will not accept valid parameter values even after a default initialization. Also call for help if you are unfamiliar with the FC302 programming structure or if the alarm appeared without any recent parameter changes, as this may indicate a deeper control card or storage issue that requires diagnostic tools and Danfoss support access.
-
-## See Also
-
-- [Danfoss FC302 Alarm 23 - Causes & Fix](/posts/danfoss-fc302-alarm-23-fault-code/)
-- [Danfoss FC302 Alarm 34 - Causes & Fix](/posts/danfoss-fc302-alarm-34-fault-code/)
-- [Danfoss FC302 ALARM 30 - Causes & Fix](/posts/danfoss-fc302-alarm-30-fault-code/)
-- [Danfoss FC302 ALARM 27 - Causes & Fix](/posts/danfoss-fc302-alarm-27-fault-code/)

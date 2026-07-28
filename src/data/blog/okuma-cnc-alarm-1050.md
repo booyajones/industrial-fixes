@@ -13,11 +13,8 @@ money_part: "Okuma servo drive"
 most_likely_cause: "Axis servo overcurrent"
 ---
 
-## Okuma CNC Alarm 1050 — What It Means
-
+## What this code means
 Alarm 1050 on an Okuma CNC (OSP-P300, OSP-P200, OSP-P100 series — Multus, GENOS, Millac, LB/MA series machines) indicates a servo alarm on one of the axis drives. Okuma uses its own proprietary servo drive system (Okuma PREX or DC servo drives on older machines). Alarm 1050 is typically accompanied by an axis designation (e.g., "1050 X-axis servo alarm") and a servo drive fault code visible on the servo drive itself.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Alarm 1050 on an Okuma CNC (OSP-P300, OSP-P200, OSP-P100 series — Multus, GENO
 ## When to Call a Pro
 
 Okuma servo system repair requires Okuma-authorized service. Encoder replacement on an Okuma absolute position system requires a reference return procedure specific to the machine; incorrect setup causes positioning errors and potential crashes.
-
-## Related Articles
-
-- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
-- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
-- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
-- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
-- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
-
-## See Also
-
-- [Okuma CNC Alarm 2000 — Communication Error](/posts/okuma-cnc-alarm-2000/)
-- [Okuma CNC Alarm 1400 — Encoder Error](/posts/okuma-cnc-alarm-1400/)
-- [Okuma CNC Alarm 2030 Spindle Drive Fault — Causes & Fix](/posts/okuma-cnc-alarm-2030/)
-- [Okuma CNC Alarm 1201 — Causes & Fix](/posts/okuma-cnc-alarm-1201/)

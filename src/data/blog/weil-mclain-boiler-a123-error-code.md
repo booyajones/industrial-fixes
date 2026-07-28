@@ -17,8 +17,7 @@ free_checks:
   - "Download or locate the installation and service manual for your exact model to find the fault-code table"
 ---
 
-## Weil-McLain Boiler A123 Error — What It Means
-
+## What this code means
 A123 does not appear in documented Weil-McLain fault code lists. Weil-McLain boilers use model-specific error codes, and the control display shows a number or letter sequence that must be cross-referenced against the fault table printed in that model's installation and service manual. The same symptom can be reported differently depending on the control platform (AquaBalance, EcoNet, or other). If you saw A123 in a service history or contractor menu, it may be a stored past fault rather than the active lockout condition.
 
 Before proceeding, find the boiler nameplate and write down the exact model number, size, and serial number. Then locate the fault-code table in the manual for that model. If the display is currently showing A123, take a clear photo of the screen and the boiler nameplate. This information is essential for accurate diagnosis and for any warranty or parts claim, since Weil-McLain requires the model, size, serial number, and failed part description before processing service requests.
@@ -26,8 +25,6 @@ Before proceeding, find the boiler nameplate and write down the exact model numb
 ## Before You Replace Anything
 
 Without the correct fault meaning, technicians may replace sensors, igniters, or gas valves at random. Always pull the model-specific fault table and check the diagnostics menu for the active fault history before ordering parts.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -74,10 +71,3 @@ Answer these to narrow it down fast.
 Call a licensed heating technician immediately if you cannot locate the boiler model number, if the manual's fault table does not list the code you see, or if the troubleshooting steps require checking gas pressure, testing ignition components, or measuring sensor resistance. Weil-McLain boilers integrate gas controls, pressure switches, and flame-proving circuits that must be diagnosed with a multimeter and combustion analyzer. A technician will retrieve the fault history from the control, verify the active fault against the model-specific table, test the sensors and switches in the fault path, and replace only the components that fail specification. Attempting to replace parts without decoding the correct fault wastes money and can leave the root cause unresolved.
 
 **Rough cost:** A pro service call runs about $150-400.
-
-## See Also
-
-- [Weil-McLain Boiler A107 Error - Causes & Fix](/posts/weil-mclain-boiler-a107-error-code/)
-- [Weil-McLain A81 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a81-error-code/)
-- [Weil-McLain A35 Error Code - Causes & Fix](/posts/weil-mclain-boiler-a35-error-code/)
-- [Weil-McLain Boiler A21 Error - Causes & Fix](/posts/weil-mclain-boiler-a21-error-code/)

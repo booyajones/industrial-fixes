@@ -43,18 +43,3 @@ The auger or dispense motor is jammed or overloaded. Clear the ice chute and ver
 
 ## When to Call a Pro
 If the HID525 is clean and still showing freeze or harvest faults, the sealed refrigeration system may have a weak compressor or low charge. That calls for a commercial ice machine tech.
-
-## Related Articles
-
-- [Scotsman C0522 Error Codes — Fix Guide](/posts/scotsman-c0522-error-codes/)
-- [Scotsman HID312 Error Codes — Fault Code Diagnostic Guide](/posts/scotsman-hid312-error-codes/)
-- [Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/scotsman-ice-machine-complete-guide/)
-- [Scotsman Ice Machine Error Code 1 — High Pressure Cutout Fix](/posts/scotsman-ice-machine-error-code-1/)
-- [Scotsman Ice Machine Error Code 2 — Causes & Fix](/posts/scotsman-ice-machine-error-code-2/)
-
-## See Also
-
-- [Scotsman Prodigy Plus Error Code Guide — Causes & Fixes](/posts/scotsman-prodigy-error-codes/)
-- [Scotsman Ice Machine Error Code 6 — Causes & Fix](/posts/scotsman-ice-machine-error-code-6/)
-- [Scotsman C0522 Error Codes — Fix Guide](/posts/scotsman-c0522-error-codes/)
-- [Scotsman C0830 Ice Machine Error Codes - Full Fault Reference](/posts/scotsman-c0830-error-codes/)

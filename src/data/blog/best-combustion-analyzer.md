@@ -124,7 +124,7 @@ A combustion analyzer is one part of a complete gas-work kit. Round it out with:
 On a Testo 320, the CO sensor is rated for ~4 years of typical residential use. Heavy commercial users hit 2.5–3 years. The unit warns you when output drift exceeds spec. Budget $260 every 3–4 years per analyzer.
 
 **Can I commission a high-efficiency condensing furnace without a combustion analyzer?**
-No, not properly. The manufacturer's installation instructions for any modern 95%+ AFUE furnace require CO2 (or O2) and CO readings within published windows. Setting input on gas pressure alone is a guess. See the [Carrier 33 error code guide](/posts/carrier-33-error-code) — many "limit" trips come down to overfired furnaces that a combustion analyzer would have caught at commissioning.
+No, not properly. The manufacturer's installation instructions for any modern 95%+ AFUE furnace require CO2 (or O2) and CO readings within published windows. Setting input on gas pressure alone is a guess. See the Carrier 33 error code guide — many "limit" trips come down to overfired furnaces that a combustion analyzer would have caught at commissioning.
 
 **Testo 320 vs Testo 330 — what's the difference?**
 The 330 (and the newer 330i) is the commercial-grade analyzer with multiple cell slots, NO sensor option, and a heated sampling line option for wet exhaust. The 320 is the residential/light-commercial workhorse. If you don't need NO measurement (NYC commercial boiler work, large industrial process burners), the 320 is the right buy.
@@ -137,6 +137,6 @@ The O2 sensor needs to "wake up" with ambient oxygen exposure. Pull the probe ou
 
 ## Related guides
 
-- [Carrier 33 Error Code — Limit Circuit Fault Fix](/posts/carrier-33-error-code) — combustion analyzer confirms overfire as a cause
+- Carrier 33 Error Code — Limit Circuit Fault Fix — combustion analyzer confirms overfire as a cause
 - [Burnham Error Code 2 — Combustion Lockout Fix](/posts/burnham-error-code-2) — combustion analysis is mandatory for tuning
 - [Best Boiler Test Kit](/posts/best-boiler-test-kit) — pairs combustion analyzer with manometer and pH for hydronic work

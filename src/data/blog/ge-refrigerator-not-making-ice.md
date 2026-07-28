@@ -19,8 +19,6 @@ When a GE refrigerator stops making ice, it means the icemaker cannot complete i
 
 Other common causes include restricted water flow from a clogged filter, a stuck rake or ejector arm preventing harvest, ice blocking the mold, or a frozen water line. GE recommends diagnosing the icemaker system as a whole rather than looking for a single fault code, because this symptom can come from temperature, water supply, or mechanical issues inside the icemaker assembly.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Freezer temperature above 16°F** GE states the icemaker will not start a cycle until the freezer reaches 16°F, and recommends a 0°F setting with a 37°F fresh food compartment.
@@ -54,18 +52,18 @@ Other common causes include restricted water flow from a clogged filter, a stuck
 
 Seeing a code on the display? These match this problem:
 
-- [Ge Refrigerator Cc error code](/posts/ge-refrigerator-cc-error-code/)
-- [Ge Refrigerator Cf error code](/posts/ge-refrigerator-cf-error-code/)
-- [Ge Refrigerator Ci error code](/posts/ge-refrigerator-ci-error-code/)
-- [Ge Refrigerator De error code](/posts/ge-refrigerator-de-error-code/)
-- [Ge Refrigerator Df error code](/posts/ge-refrigerator-df-error-code/)
-- [Ge Refrigerator Ds error code](/posts/ge-refrigerator-ds-error-code/)
-- [Ge Refrigerator Ff error code](/posts/ge-refrigerator-ff-error-code/)
-- [Ge Refrigerator H2O error code](/posts/ge-refrigerator-h2o-error-code/)
-- [Ge Refrigerator Hs error code](/posts/ge-refrigerator-hs-error-code/)
-- [Ge Refrigerator Pf error code](/posts/ge-refrigerator-pf-error-code/)
-- [Ge Refrigerator Tc error code](/posts/ge-refrigerator-tc-error-code/)
-- [Ge Refrigerator Tf error code](/posts/ge-refrigerator-tf-error-code/)
+- Ge Refrigerator Cc error code
+- Ge Refrigerator Cf error code
+- Ge Refrigerator Ci error code
+- Ge Refrigerator De error code
+- Ge Refrigerator Df error code
+- Ge Refrigerator Ds error code
+- Ge Refrigerator Ff error code
+- Ge Refrigerator H2O error code
+- Ge Refrigerator Hs error code
+- Ge Refrigerator Pf error code
+- Ge Refrigerator Tc error code
+- Ge Refrigerator Tf error code
 
 ## When to Call a Pro
 

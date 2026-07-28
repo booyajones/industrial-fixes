@@ -19,8 +19,6 @@ A Whirlpool refrigerator running constantly is not a fault code by itself. It is
 
 Whirlpool's troubleshooting guidance frames this as the refrigerator still working to satisfy the thermostat. The most common causes are warm setpoint or incorrect controls, door seal leakage, dirty condenser coils, blocked airflow, high ambient temperature, or a cooling system or control problem. Some models also have a Demo or Showroom mode that can affect normal cooling behavior and must be ruled out early.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Dirty condenser coils** Whirlpool and service guidance both identify dirty coils as a common reason the unit runs constantly because heat cannot be rejected efficiently.

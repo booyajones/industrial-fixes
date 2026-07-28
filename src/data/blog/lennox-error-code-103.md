@@ -13,11 +13,8 @@ money_part: "Induced draft motor"
 most_likely_cause: "Blocked exhaust or intake vent"
 ---
 
-## Lennox 103 Error Code — What It Means
-
+## What this code means
 Lennox error code 103 indicates a pressure switch fault — the iComfort or SureLight control board did not detect the pressure switch closing during the draft motor startup sequence. The furnace tries to prove inducer operation before allowing ignition, and when the pressure switch won't confirm airflow, the ignition sequence is blocked. On Lennox iComfort systems, code 103 appears on the thermostat display; on older SureLight boards it flashes on the LED. The cause is almost always mechanical — blocked flue, clogged condensate, or a failed draft motor — not the switch itself.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Lennox error code 103 indicates a pressure switch fault — the iComfort or Sure
 ## When to Call a Pro
 
 If the draft motor is running at speed, vents are clear, and condensate drains freely, but code 103 persists, a tech should measure static pressure with a manometer to determine whether the switch rating matches actual system pressure.
-
-## See Also
-
-- [Lennox Error Code 414 — Gas Valve Circuit Fault Fix](/posts/lennox-error-code-414-gas-valve-circuit-fault/)
-- [Lennox Error Code 223 — Causes & Fix](/posts/lennox-error-code-223/)
-- [Lennox Harmony III Zoning System Error Codes — Complete Guide](/posts/lennox-harmony-iii-error-codes/)
-- [Lennox Error Code 414 Rollout — Causes & Fix](/posts/lennox-error-code-414-rollout/)
-
-## Related Articles
-
-- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
-- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
-- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
-- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
-- [Lennox Error Code 114 — Causes & Fix](/posts/lennox-error-code-114/)

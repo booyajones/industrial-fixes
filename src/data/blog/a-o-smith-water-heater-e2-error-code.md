@@ -13,13 +13,10 @@ money_part: "A.O. Smith Electronic Thermostat Assembly"
 most_likely_cause: "Failed electronic thermostat assembly"
 ---
 
-## A.O. Smith E2 Error Code — What It Means
-
+## What this code means
 On A.O. Smith residential electric water heaters, the E02 error code means the water temperature has exceeded the high limit and triggered a safety shutoff. The heater's control board detected dangerously hot water and stopped the heating elements to prevent scalding or damage.
 
 This is not a sensor fault. A.O. Smith defines E02 specifically as an over-temperature condition, which means either the tank actually overheated or the control system failed to regulate heat properly. The manufacturer instructs you to reset the control and, if the error returns, replace the electronic thermostat assembly.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

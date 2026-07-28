@@ -19,8 +19,6 @@ When a Kenmore dryer takes too long to dry, the appliance is running but cannot 
 
 Airflow restrictions from lint buildup or blocked venting are the most frequent culprits. Heat issues can also slow drying. In gas models, weak or intermittent gas valve coils may cause the flame to cycle poorly. In electric dryers, a partially failed heating element or tripped thermal safety device reduces effective heat. Dirty moisture sensors or overloaded drums can also extend dry times.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged lint screen or fabric-softener residue coating** A lint filter packed with debris or coated with waxy buildup from dryer sheets blocks air movement through the drum and increases dry time.

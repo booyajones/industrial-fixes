@@ -20,8 +20,6 @@ When a KitchenAid oven igniter is not working, the gas burner will not light and
 
 KitchenAid treats this as a gas oven heating or ignition failure. The igniter may glow but not reach the temperature or voltage needed to open the gas valve and spark the burner. In other cases, the igniter may not glow or spark at all, pointing to an electrical or control problem.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Failed or weak igniter** The igniter is cracked, open, or drawing too little current to open the gas valve or produce a spark, so the burner never lights.
@@ -56,18 +54,18 @@ KitchenAid treats this as a gas oven heating or ignition failure. The igniter ma
 
 If your appliance also shows a code on the display, these match this problem:
 
-- [Kitchenaid Oven A6 error code](/posts/kitchenaid-oven-a6-error-code/)
-- [Kitchenaid Oven Ab error code](/posts/kitchenaid-oven-ab-error-code/)
-- [Kitchenaid Oven Cal error code](/posts/kitchenaid-oven-cal-error-code/)
-- [Kitchenaid Oven F6 E0 error code](/posts/kitchenaid-oven-f6-e0-error-code/)
-- [Kitchenaid Oven F6 E1 error code](/posts/kitchenaid-oven-f6-e1-error-code/)
-- [Kitchenaid Oven F6 E2 error code](/posts/kitchenaid-oven-f6-e2-error-code/)
-- [Kitchenaid Oven F6 E3 error code](/posts/kitchenaid-oven-f6-e3-error-code/)
-- [Kitchenaid Oven F6 E4 error code](/posts/kitchenaid-oven-f6-e4-error-code/)
-- [Kitchenaid Oven F6 E5 error code](/posts/kitchenaid-oven-f6-e5-error-code/)
-- [Kitchenaid Oven F6 E6 error code](/posts/kitchenaid-oven-f6-e6-error-code/)
-- [Kitchenaid Oven F6 E7 error code](/posts/kitchenaid-oven-f6-e7-error-code/)
-- [Kitchenaid Oven F6 E8 error code](/posts/kitchenaid-oven-f6-e8-error-code/)
+- Kitchenaid Oven A6 error code
+- Kitchenaid Oven Ab error code
+- Kitchenaid Oven Cal error code
+- Kitchenaid Oven F6 E0 error code
+- Kitchenaid Oven F6 E1 error code
+- Kitchenaid Oven F6 E2 error code
+- Kitchenaid Oven F6 E3 error code
+- Kitchenaid Oven F6 E4 error code
+- Kitchenaid Oven F6 E5 error code
+- Kitchenaid Oven F6 E6 error code
+- Kitchenaid Oven F6 E7 error code
+- Kitchenaid Oven F6 E8 error code
 
 ## When to Call a Pro
 

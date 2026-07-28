@@ -22,8 +22,7 @@ part_price: "$25-60"
 no_buy_pct: "70%"
 ---
 
-## KitchenAid Dishwasher F9E1 Error Code — What It Means
-
+## What this code means
 The F9E1 error code on a KitchenAid dishwasher signals "Can't Drain Cycle Power." The control board has detected that the unit failed to evacuate water properly during the cycle. This is a drain-system fault, not a fill or temperature issue.
 
 The code appears when the dishwasher times out waiting for water to leave the tub. Common triggers include blocked drain paths, kinked hoses, a plugged garbage disposer connection, or excess suds interfering with water management. In field practice, plumbing and obstruction issues account for the majority of F9E1 calls. When those check out and the code persists, a failing drain pump or control-board fault is the next suspect.
@@ -31,8 +30,6 @@ The code appears when the dishwasher times out waiting for water to leave the tu
 ## Before You Replace Anything
 
 Homeowners often replace the drain pump first, but most F9E1 codes are caused by kinked hoses or a forgotten disposal knockout plug. Inspect the entire drain path and test the disposer connection before ordering a pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

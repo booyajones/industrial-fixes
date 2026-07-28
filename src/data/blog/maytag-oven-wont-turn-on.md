@@ -20,8 +20,6 @@ When a Maytag oven won't turn on, the display is typically blank with no lights 
 
 Maytag's own troubleshooting identifies the most common culprits as lost house power, tripped breakers or blown fuses, control board failures, incorrect electrical supply (especially on 240 V electric models), failed igniters on gas units, or less commonly demo mode activation or gas supply shutoffs.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Tripped breaker or blown fuse** The circuit breaker feeding the range has tripped or a fuse has blown, cutting all power to the oven and cooktop.

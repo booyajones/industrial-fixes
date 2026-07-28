@@ -22,8 +22,7 @@ part_price: "$40–80"
 no_buy_pct: "70%"
 ---
 
-## Maytag Dishwasher F9E1 Error — What It Means
-
+## What this code means
 The F9E1 or E1F9 code on a Maytag dishwasher signals that the control has detected a long drain condition. The dishwasher is unable to drain water fast enough or cannot drain at all. This is a drain-system problem, not a fill issue.
 
 The code usually appears when standing water remains in the tub after a cycle or when the control times out waiting for the water to leave. The fault can be triggered by blockages anywhere in the drain path, a failed pump motor, or restrictions in the external drain connection (disposal or air gap).
@@ -31,8 +30,6 @@ The code usually appears when standing water remains in the tub after a cycle or
 ## Before You Replace Anything
 
 Many people replace the drain pump motor first without checking for clogs. Always remove and clean the filter, inspect the sump and impeller area for debris, and check the drain hose and disposal connection before buying a pump.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

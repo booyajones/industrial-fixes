@@ -19,8 +19,6 @@ When a Whirlpool dryer gets too hot, the cabinet, exhaust air, or load temperatu
 
 The overheating means the dryer is producing more heat than intended or cannot shed heat fast enough. Most of the time this is caused by restricted exhaust airflow, but it can also stem from a shorted heating element, a failed thermostat or thermistor, or a timer or control fault that keeps power on to the heater too long.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Blocked or restricted venting** A clogged lint screen, crushed or kinked flex duct, blocked wall duct, or blocked exterior hood prevents hot air from escaping and is the most common overheating cause.

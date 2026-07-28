@@ -13,11 +13,8 @@ money_part: "NTC temperature sensor"
 most_likely_cause: "Failed NTC thermistor"
 ---
 
-## Nor-Lake Refrigerator Error Code E1 — What It Means
-
+## What this code means
 The E1 error on Nor-Lake commercial refrigerators (reach-ins, undercounters, and chef bases) indicates a temperature sensor fault — the cabinet air sensor is reading out of range or has failed. Nor-Lake's electronic controllers use NTC thermistors to monitor and regulate cabinet temperature; E1 appears when the sensor input is open circuit, shorted, or reading outside the expected temperature range.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -43,11 +40,3 @@ The E1 error on Nor-Lake commercial refrigerators (reach-ins, undercounters, and
 ## When to Call a Pro
 
 Persistent E1 after sensor/wiring replacement indicates a controller board fault. Nor-Lake authorized service handles board replacement.
-
-## Related Articles
-
-- [Beverage-Air Error Code E4, Causes, and Fixes](/posts/beverage-air-e4-error-code/)
-- [Beverage-Air MT27 Error Codes - What They Mean and How to Fix Them](/posts/beverage-air-mt27-error-codes/)
-- [Beverage-Air Refrigerator Error Code E1 — Causes & Fix](/posts/beverage-air-refrigerator-error-code-e1/)
-- [Beverage-Air Refrigerator Error Code E2 — Evaporator Sensor Causes & Fix](/posts/beverage-air-refrigerator-error-code-e2/)
-- [Bohn Refrigeration Error Code Guide — Causes & Fixes](/posts/bohn-refrigeration-error-codes/)

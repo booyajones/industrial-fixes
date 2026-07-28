@@ -13,11 +13,8 @@ money_part: "Condensate drain line (PVC or vinyl)"
 most_likely_cause: "Blocked condensate drain line"
 ---
 
-## Senville Mini Split Error Code E5 — What It Means
-
+## What this code means
 E5 on a Senville mini split indicates a drain protection fault — the indoor unit has detected that water is accumulating in the condensate drain pan rather than draining away. Senville units include a float switch or water level sensor in the drain pan; when water rises above a safe level, the sensor trips, the compressor shuts off, and E5 is displayed. This protects the equipment and the wall from water damage. The compressor will remain off until the drain issue is resolved.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,11 +43,3 @@ E5 on a Senville mini split indicates a drain protection fault — the indoor un
 ## When to Call a Pro
 
 If the drain line runs through the wall and is inaccessible, or if clearing the clog requires disassembling the indoor unit beyond the filter panel, a certified HVAC technician can properly service the drain system without risking water damage.
-
-## Related Articles
-
-- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
-- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
-- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
-- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
-- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)

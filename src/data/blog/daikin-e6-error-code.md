@@ -13,11 +13,8 @@ money_part: "Daikin outdoor control PCB"
 most_likely_cause: "Locked or failing compressor"
 ---
 
-## Daikin E6 Error Code — What It Means
-
+## What this code means
 E6 on a Daikin system indicates a compressor startup fault detected at the outdoor unit. Daikin's official documentation describes this code as 'faulty compressor start up' or 'compressor motor overcurrent/lock.' The outdoor control board has detected that the compressor either failed to start normally or drew abnormal current during startup or operation. This is not a sensor reading issue. It points to a problem in the compressor itself, the power feed to the compressor, the inverter drive circuit, or the control board that commands the compressor to run.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ E6 on a Daikin system indicates a compressor startup fault detected at the outdo
 ## When to Call a Pro
 
 E6 faults require live electrical diagnosis on high-voltage outdoor equipment and often involve refrigerant circuit work. If you do not have a multimeter, megohmmeter, and experience working safely on outdoor unit power circuits, call a licensed HVAC technician. Compressor replacement and inverter board work require refrigerant recovery, evacuation, and recharge to manufacturer specifications. Misdiagnosis can lead to repeated board or compressor failure and expensive parts replacement. A qualified technician will follow the manufacturer's diagnostic flow, measure drive signals, and test insulation to pinpoint the root cause before replacing components.
-
-## See Also
-
-- [Daikin VRV E7 Error Code — Causes & Fix](/posts/daikin-vrv-e7-error-code/)
-- [Daikin UA Error Code — Mismatched Indoor/Outdoor Unit Fix](/posts/daikin-error-code-uA/)
-- [Daikin RXQ VRV System Error Codes (Outdoor Unit): Complete Guide](/posts/daikin-vrv-rxq-error-codes/)
-- [Daikin E5 Error Code - Causes & Fix](/posts/daikin-e5-error-code/)

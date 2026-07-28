@@ -13,11 +13,8 @@ money_part: "Outlet polarity tester"
 most_likely_cause: "Reversed hot and neutral at the disconnect"
 ---
 
-## Goodman 9 Flash Error Code — What It Means
-
+## What this code means
 Nine flashes on a Goodman furnace diagnostic LED indicates reversed line and load power — the hot (L1) and neutral (L2) conductors supplying the furnace are swapped at the disconnect or power inlet. The furnace control board detects this polarity reversal through the flame sensing circuit and shuts the unit down. The furnace will not fire until polarity is corrected because a reversed neutral can create a shock hazard and false flame signals.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,18 +43,3 @@ Nine flashes on a Goodman furnace diagnostic LED indicates reversed line and loa
 ## When to Call a Pro
 
 If you are not comfortable working inside an electrical panel or disconnect, call a licensed electrician. Reversed polarity at the panel is a shock hazard and should be corrected by someone qualified to work on live electrical systems. Once polarity is confirmed correct, the HVAC system should require no further repair.
-
-## Related Articles
-
-- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
-- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
-- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
-- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
-- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)
-
-## See Also
-
-- [Goodman Furnace EF Error Code — Invalid Flame Signal](/posts/goodman-furnace-ef-error-code/)
-- [Goodman Furnace 4 Flashes — Open High Limit Switch Fix](/posts/goodman-furnace-4-flashes/)
-- [Goodman vs Bryant Furnaces — A Service Tech's Honest Comparison (2026)](/posts/goodman-vs-bryant-furnaces/)
-- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)

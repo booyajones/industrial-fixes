@@ -15,8 +15,7 @@ likelihood: "the most common cause"
 diy_or_pro: "pro"
 ---
 
-## Yaskawa A1000 HbbF Fault — What It Means
-
+## What this code means
 HbbF on a Yaskawa A1000 drive indicates a Safe Disable Signal Input fault. Specifically, one Safe Disable channel is open while the other channel is closed. The drive monitors two independent safety channels at terminals H1 and H2, and this fault means it is seeing a mismatched or inconsistent state between them. This is different from the related Hbb condition, where both Safe Disable channels are open together.
 
 The A1000 uses dual-channel Safe Disable inputs (also called STO, Safe Torque Off) to meet safety standards. When the drive detects that only one channel is active, it assumes an unsafe condition and trips HbbF. In practice, this almost always points to a wiring problem, a faulty external safety device, or incorrect jumpering when the Safe Disable function is not in use.
@@ -24,8 +23,6 @@ The A1000 uses dual-channel Safe Disable inputs (also called STO, Safe Torque Of
 ## Before You Replace Anything
 
 Technicians sometimes replace the entire drive or control board before checking the external safety wiring and devices. Always verify wiring continuity, jumper links, and the external safety relay state before swapping boards.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -75,10 +72,3 @@ Answer these to narrow it down fast.
 Call a qualified industrial electrician or VFD technician if you are not familiar with safe isolation procedures, digital input wiring, or safety circuit troubleshooting. Work on a VFD requires lockout/tagout and knowledge of high-voltage DC bus hazards. If you have verified the external safety device and all wiring are correct but the fault remains, the drive's control board or input circuit is likely damaged and should be diagnosed by a technician with the proper test equipment and access to Yaskawa service documentation.
 
 **Rough cost:** A pro service call runs about $150–500 depending on whether the fix is wiring, a safety relay, or a control board.
-
-## See Also
-
-- [Yaskawa A1000 HCA Fault Code - Causes & Fix](/posts/yaskawa-a1000-vfd-hca-fault-code/)
-- [Yaskawa A1000 oH Fault Code - Causes & Fix](/posts/yaskawa-a1000-vfd-oh-fault-code/)
-- [Yaskawa A1000 CPF14 Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf14-fault-code/)
-- [Yaskawa A1000 GF Fault - Causes & Fix](/posts/yaskawa-a1000-vfd-gf-fault-code/)

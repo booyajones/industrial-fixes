@@ -17,8 +17,7 @@ money_part: "Electronic oven control board (EOC)"
 part_price: "$150-300"
 ---
 
-## Frigidaire Range F0 Error Code — What It Means
-
+## What this code means
 F0 on a Frigidaire range indicates a failed electronic oven control (EOC), also called the main control board or clock. This code signals that the control module itself has malfunctioned rather than a specific sensor or keypad problem. Frigidaire uses distinct codes for other faults (F1 for shorted keypad, F30 for open temperature probe, F31 for shorted probe, F3/F20/F26 for communication errors, and F90–F94 for door lock issues), so when F0 appears the control board is the primary suspect.
 
 The EOC manages all oven functions including temperature regulation, timer, and display. When it fails the range typically shows F0 and stops responding to commands. Unlike sensor faults that produce different codes, F0 points directly to internal control-board failure and usually requires board replacement after basic diagnostics rule out wiring or connection problems.
@@ -26,8 +25,6 @@ The EOC manages all oven functions including temperature regulation, timer, and 
 ## Before You Replace Anything
 
 Homeowners sometimes replace the oven temperature sensor first because sensor problems are easier to understand. Before ordering parts, power-cycle the range at the breaker for five minutes and check that all harness plugs on the control board are fully seated, since F0 specifically indicates control-board failure rather than a sensor fault.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

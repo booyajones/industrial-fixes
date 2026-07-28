@@ -19,8 +19,6 @@ A Samsung washer stuck on one cycle is not a single fault code but a symptom. Th
 
 Whether the unit hangs during wash, rinse, drain, or spin, it is failing an internal condition check. Samsung's own troubleshooting for washers that run continuously or do not advance directs users first to load distribution, leveling, pump filter condition, and drain hose installation. The exact cause depends on which phase the machine stops in and which condition it cannot satisfy.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged pump filter or drain hose** A blocked or slow drain path is the most common reason a Samsung washer stops mid-cycle, preventing the tub from emptying and triggering a pause in the cycle.

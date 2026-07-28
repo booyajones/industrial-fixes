@@ -13,13 +13,10 @@ money_part: "Motor cable (shielded VFD-rated)"
 most_likely_cause: "Motor winding insulation breakdown"
 ---
 
-## Danfoss FC302 Alarm 14 — What It Means
-
+## What this code means
 Alarm 14 on the Danfoss FC302 is an earth fault (ground fault). The drive has detected current leaking from the motor output circuit to ground instead of flowing through the U, V, and W motor windings. This leakage can occur in the motor itself, the motor cable, or inside the drive's inverter section. The fault protects the drive and motor from unsafe ground currents that can damage equipment or create safety hazards.
 
 In practical terms, the drive is measuring output current that is not returning through the motor circuit as expected. The protection circuit trips to prevent further damage. The fault can be external (motor or cable insulation breakdown) or internal to the drive (faulty current sensor or power section component).
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -50,10 +47,3 @@ In practical terms, the drive is measuring output current that is not returning 
 ## When to Call a Pro
 
 Call a qualified electrician or VFD technician if you are not trained in high-voltage electrical work or if the fault persists with the motor disconnected (indicating an internal drive problem). Internal drive repairs require specialized knowledge, proper test equipment, and access to Danfoss service parts. If you have confirmed the motor or cable is at fault through insulation testing, a motor shop or electrical contractor can replace the cable or motor. Any work inside the drive cabinet should be performed only by personnel familiar with inverter power sections and current-sensor diagnostics.
-
-## See Also
-
-- [Danfoss FC302 Alarm AL 29 — Causes & Fix](/posts/danfoss-fc302-fault-al-29/)
-- [Danfoss FC302 ALARM 35 - Causes & Fix](/posts/danfoss-fc302-alarm-35-fault-code/)
-- [Danfoss FC302 VFD ALARM 18 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-18-fault-code/)
-- [Danfoss FC302 ALARM 18 - Causes & Fix](/posts/danfoss-fc302-alarm-18-fault-code/)

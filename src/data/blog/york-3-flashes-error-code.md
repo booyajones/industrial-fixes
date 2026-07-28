@@ -13,11 +13,8 @@ money_part: "Pressure switch"
 most_likely_cause: "Blocked vent pipe"
 ---
 
-## York 3 Flashes Error Code — What It Means
-
+## What this code means
 Three flashes on a York furnace LED indicates a pressure switch fault. The control board tried to verify that the induced draft motor is running and pulling adequate combustion air, but the pressure switch didn't close within the allotted time. York furnaces require the pressure switch to confirm draft before any ignition is attempted. When the switch stays open — whether due to a blocked vent, failed draft motor, or faulty switch — the furnace shuts down without ever attempting to ignite. This is a pre-ignition safety check, not an ignition failure.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -45,18 +42,3 @@ Three flashes on a York furnace LED indicates a pressure switch fault. The contr
 ## When to Call a Pro
 
 If the draft motor runs at full speed, vents are clear, and the hose is intact, but the switch won't close, a tech should verify the actual pressure with a manometer. Using a wrong-rated replacement switch causes the same fault.
-
-## Related Articles
-
-- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
-- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
-- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
-- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
-- [York 7 Flashes Error Code — Ignition Lockout Fix](/posts/york-7-flashes-error-code/)
-
-## See Also
-
-- [York 2-Blink Error Code — Pressure Switch Stuck Open Fix](/posts/york-error-code-2/)
-- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
-- [York YG2C Furnace Error Codes — Flash Code Diagnostic Guide](/posts/york-yg2c-error-codes/)
-- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)

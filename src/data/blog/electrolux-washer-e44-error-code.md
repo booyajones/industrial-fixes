@@ -22,8 +22,7 @@ part_price: "$30-65"
 no_buy_pct: "25%"
 ---
 
-## Electrolux Washer E44 Error Code — What It Means
-
+## What this code means
 E44 belongs to the Electrolux door-lock fault family (E40 through E45). The code means the control board is not recognizing the door-lock state it expects during the lock and check sequence. Electrolux groups E44 with codes E40, E41, E42, E43, and E45, all of which indicate that the door lock or latch is not engaging, not being sensed, or not communicating properly with the main control. This is not a drain, pressure, or water-inlet fault.
 
 The washer will not start or will stop mid-cycle when it cannot confirm that the door is latched and locked. The problem may be mechanical (the door or striker is misaligned), electrical (wiring or the lock assembly itself), or in rare cases a control-board fault if the lock and wiring both test good.
@@ -31,8 +30,6 @@ The washer will not start or will stop mid-cycle when it cannot confirm that the
 ## Before You Replace Anything
 
 Many people replace the main control board when the door lock or its wiring harness is actually at fault. Inspect the door-lock connector and test or swap the lock assembly before replacing the PCB.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

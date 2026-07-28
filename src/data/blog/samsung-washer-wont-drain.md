@@ -19,8 +19,6 @@ When your Samsung washer won't drain, it usually means the machine has detected 
 
 In practical terms, the control board flags a drain fault because water is still sitting in the tub after the drain cycle should have finished. This prevents the washer from advancing into the spin cycle and leaves you with a tub full of standing water and wet clothes.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Clogged drain pump filter** Lint, coins, small clothing items, and sludge accumulate in the filter and block water flow, making this the single most common cause of no-drain complaints.
@@ -54,18 +52,18 @@ In practical terms, the control board flags a drain fault because water is still
 
 Seeing a code on the display? These match this problem:
 
-- [Samsung Washer 1C error code](/posts/samsung-washer-1c-error-code/)
-- [Samsung Washer 4C error code](/posts/samsung-washer-4c-error-code/)
-- [Samsung Washer 5E error code](/posts/samsung-washer-5e-error-code/)
+- Samsung Washer 1C error code
+- Samsung Washer 4C error code
+- Samsung Washer 5E error code
 - [Samsung Washer Ae error code](/posts/samsung-washer-ae-error-code/)
-- [Samsung Washer Bc error code](/posts/samsung-washer-bc-error-code/)
+- Samsung Washer Bc error code
 - [Samsung Washer Bc1 error code](/posts/samsung-washer-bc1-error-code/)
-- [Samsung Washer Be error code](/posts/samsung-washer-be-error-code/)
-- [Samsung Washer Be0 error code](/posts/samsung-washer-be0-error-code/)
+- Samsung Washer Be error code
+- Samsung Washer Be0 error code
 - [Samsung Washer Be1 error code](/posts/samsung-washer-be1-error-code/)
-- [Samsung Washer Be2 error code](/posts/samsung-washer-be2-error-code/)
+- Samsung Washer Be2 error code
 - [Samsung Washer Be3 error code](/posts/samsung-washer-be3-error-code/)
-- [Samsung Washer Be4 error code](/posts/samsung-washer-be4-error-code/)
+- Samsung Washer Be4 error code
 
 ## When to Call a Pro
 

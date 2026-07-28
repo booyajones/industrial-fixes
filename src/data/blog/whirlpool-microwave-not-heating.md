@@ -19,8 +19,6 @@ A Whirlpool microwave that is not heating means the unit powers on and appears t
 
 This is a symptom with multiple possible causes, not a single error code. In some cases the light, fan, and turntable will operate normally while the magnetron stays off. Whirlpool notes that Demo Mode can produce exactly this behavior, making the oven look functional while blocking all heating. Other times a tripped breaker, faulty door switch, or failed high-voltage component is responsible.
 
-[Jump to Fix](#fix)
-
 ## Most Likely Causes
 
 - **Demo Mode is active** Whirlpool states that Demo Mode allows the light, fan, and turntable to run while the magnetron does not energize, so the oven appears to operate but produces no heat.
@@ -55,15 +53,15 @@ This is a symptom with multiple possible causes, not a single error code. In som
 If your appliance also shows a code on the display, these match this problem:
 
 - [Whirlpool Microwave E03 error code](/posts/whirlpool-microwave-e03-error-code/)
-- [Whirlpool Microwave E11 error code](/posts/whirlpool-microwave-e11-error-code/)
-- [Whirlpool Microwave E12 error code](/posts/whirlpool-microwave-e12-error-code/)
+- Whirlpool Microwave E11 error code
+- Whirlpool Microwave E12 error code
 - [Whirlpool Microwave E13 error code](/posts/whirlpool-microwave-e13-error-code/)
 - [Whirlpool Microwave E21 error code](/posts/whirlpool-microwave-e21-error-code/)
 - [Whirlpool Microwave E22 error code](/posts/whirlpool-microwave-e22-error-code/)
 - [Whirlpool Microwave E23 error code](/posts/whirlpool-microwave-e23-error-code/)
 - [Whirlpool Microwave E24 error code](/posts/whirlpool-microwave-e24-error-code/)
-- [Whirlpool Microwave E61 error code](/posts/whirlpool-microwave-e61-error-code/)
-- [Whirlpool Microwave E62 error code](/posts/whirlpool-microwave-e62-error-code/)
+- Whirlpool Microwave E61 error code
+- Whirlpool Microwave E62 error code
 - [Whirlpool Microwave E63 error code](/posts/whirlpool-microwave-e63-error-code/)
 - [Whirlpool Microwave F01 error code](/posts/whirlpool-microwave-f01-error-code/)
 

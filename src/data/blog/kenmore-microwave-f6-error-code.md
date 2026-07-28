@@ -19,8 +19,7 @@ free_checks:
   - "Inspect the relay board and harness for loose plugs, damaged insulation, or burned connectors"
 ---
 
-## Kenmore Microwave F6 Error — What It Means
-
+## What this code means
 On most Kenmore microwaves made by Whirlpool, F6 is a relay or control communication fault. The control system has detected a problem in the relay circuit or relay control board communication, so the microwave inhibits operation to prevent unsafe switching of the magnetron or related loads. In practical terms, the oven shows F6 and refuses to start because it cannot safely execute the commanded function.
 
 The fault indicates the relay control board and its associated wiring are not communicating correctly with the main electronic control. Some community sources describe F6 differently, but the manufacturer-aligned interpretation for Whirlpool-family units is the relay/control-board fault.
@@ -28,8 +27,6 @@ The fault indicates the relay control board and its associated wiring are not co
 ## Before You Replace Anything
 
 Some sources wrongly attribute F6 to keypad or door-switch issues, but those claims conflict with Whirlpool/KitchenAid family documentation. Inspect the relay board and harness before replacing the main control board.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

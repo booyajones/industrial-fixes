@@ -26,8 +26,6 @@ Larkin is a Heatcraft Refrigeration Products brand used in walk-in coolers and f
 | 6 | Evaporator fan motor fault | High |
 | 7 | Temperature sensor fault | Medium |
 
-[Jump to Fix](#fix)
-
 ## Most Common Larkin Alarms and Fixes {#fix}
 
 ### Alarm 1 — High Temperature
@@ -55,11 +53,3 @@ Replace NTC air temperature sensor if resistance is out of spec (open or near-ze
 ## When to Call a Pro
 
 Pressure alarms (3 and 4) require EPA 608 certified technician for refrigerant diagnosis and repair.
-
-## Related Articles
-
-- [Beverage-Air Error Code E4, Causes, and Fixes](/posts/beverage-air-e4-error-code/)
-- [Beverage-Air MT27 Error Codes - What They Mean and How to Fix Them](/posts/beverage-air-mt27-error-codes/)
-- [Beverage-Air Refrigerator Error Code E1 — Causes & Fix](/posts/beverage-air-refrigerator-error-code-e1/)
-- [Beverage-Air Refrigerator Error Code E2 — Evaporator Sensor Causes & Fix](/posts/beverage-air-refrigerator-error-code-e2/)
-- [Bohn Refrigeration Error Code Guide — Causes & Fixes](/posts/bohn-refrigeration-error-codes/)

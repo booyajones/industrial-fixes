@@ -18,8 +18,7 @@ free_checks:
   - "Look for physical damage to the motor cable along its entire run, especially at sharp bends or cable-tray edges"
 ---
 
-## Allen-Bradley PowerFlex 525 F040 — What It Means
-
+## What this code means
 The PowerFlex 525 F040 fault indicates the drive has detected a current path from output phase W to ground. Rockwell defines F040 as "Phase W to Gnd," meaning the drive believes the W motor lead or connected motor circuit is shorted to earth. This is part of the output fault group where the drive monitors for ground faults on each output phase.
 
 The fault typically originates outside the drive itself. The most common sources are a damaged motor cable with exposed conductors touching grounded conduit or metal surfaces, moisture or contamination inside the motor junction box or windings, loose or miswired output wiring at the drive or motor terminals, or degraded insulation in the motor winding that allows W phase to contact the motor frame. Rockwell's documented troubleshooting action is to inspect the drive-to-motor wiring and test the motor for a grounded phase. The fault is almost always a wiring or motor insulation problem rather than a control programming issue.
@@ -28,31 +27,13 @@ The fault typically originates outside the drive itself. The most common sources
 
 Technicians sometimes replace the drive before isolating the fault. Always disconnect the motor leads at the drive and megger-test the motor and cable separately to confirm whether the fault is in the external circuit or the drive power section.
 
-[Jump to Fix](#fix)
-
 ## Common Causes
 
-- **Damaged motor cable (~40%)** A nick, crush, or abrasion in the insulation of the W-phase conductor allows current to leak to grounded conduit, tray, or adjacent metal, triggering the ground-fault detection.
-- **Grounded motor winding (~30%)** Moisture, contamination, thermal stress, or age degrades the insulation in the motor's W-phase winding so that it contacts the motor frame or core.
-- **Loose or miswired output termination (~15%)** A loose screw at the drive U/V/W terminal block or motor junction box allows the W conductor to touch a grounded surface or adjacent terminal.
-- **Moisture or contamination in motor junction box (~10%)** Water, coolant, or conductive dust inside the motor junction box creates a current path from the W terminal to ground.
-- **Failed drive power section (output stage) (~5%)** If the fault persists with all motor leads disconnected and no external path to ground is found, the drive's internal output circuitry for phase W may be damaged and the drive must be replaced.
-
-## Quick Diagnosis
-
-Answer these to narrow it down fast.
-
-<details class="dtree"><summary>Does the fault appear immediately when you power the drive with the motor disconnected?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The fault is internal to the drive power section. Replace the drive after verifying no wiring remains connected to the W output terminal.<br><strong>No:</strong> The fault is in the motor or cable. Proceed with insulation testing of the motor and cable separately.</div>
-</details>
-
-<details class="dtree"><summary>Does a megohmmeter show low resistance (below one megohm) from the W motor lead to the motor frame?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The motor winding is grounded. Repair or replace the motor.<br><strong>No:</strong> The cable or termination is the problem. Inspect and test the cable, then check all terminal connections for damage or contamination.</div>
-</details>
-
-<details class="dtree"><summary>Is there visible physical damage, moisture, or contamination on the motor cable or in the junction box?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Clean and dry the affected area or replace the damaged section of cable. Re-test with a megohmmeter before reconnecting to the drive.<br><strong>No:</strong> The fault may be intermittent or at a hidden splice. Test the cable under different conditions (flexed, vibrated) and consult the drive manual for any additional diagnostics.</div>
-</details>
+- **Damaged motor cable** A nick, crush, or abrasion in the insulation of the W-phase conductor allows current to leak to grounded conduit, tray, or adjacent metal, triggering the ground-fault detection.
+- **Grounded motor winding** Moisture, contamination, thermal stress, or age degrades the insulation in the motor's W-phase winding so that it contacts the motor frame or core.
+- **Loose or miswired output termination** A loose screw at the drive U/V/W terminal block or motor junction box allows the W conductor to touch a grounded surface or adjacent terminal.
+- **Moisture or contamination in motor junction box** Water, coolant, or conductive dust inside the motor junction box creates a current path from the W terminal to ground.
+- **Failed drive power section (output stage)** If the fault persists with all motor leads disconnected and no external path to ground is found, the drive's internal output circuitry for phase W may be damaged and the drive must be replaced.
 
 ## Step-by-Step Fix {#fix}
 
@@ -75,12 +56,3 @@ Answer these to narrow it down fast.
 ## When to Call a Pro
 
 Call a qualified electrician or industrial technician for all PowerFlex 525 F040 troubleshooting and repair. The work requires lock-out/tag-out of three-phase high-voltage circuits, use of a megohmmeter to perform insulation resistance testing on motor windings and cables, and the ability to safely isolate and replace motor cables, motors, or the drive power section. Misdiagnosis can lead to unnecessary replacement of expensive drives when the actual fault is in a motor cable or winding. A trained technician will methodically disconnect and test each section of the output circuit to pinpoint whether the ground fault is in the cable, motor, or drive, and will verify proper termination and grounding practices to prevent recurrence.
-
-**Rough cost:** A pro service call runs about $200-800.
-
-## See Also
-
-- [Allen-Bradley PowerFlex 525 F109 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f109-fault-code/)
-- [Allen-Bradley PowerFlex 525 F101 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f101-fault-code/)
-- [Allen-Bradley PowerFlex F091 Fault — Encoder Loss Fix](/posts/allen-bradley-powerflex-f091-fault/)
-- [Allen-Bradley PowerFlex 525 F013 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f013-fault-code/)

@@ -13,11 +13,8 @@ tags:
 money_part: "ATC door air cylinder"
 ---
 
-## Haas Alarm 126 — What It Means
-
+## What this code means
 Haas alarm **126** indicates an **ATC door fault**. The automatic tool changer door failed to reach the expected open or closed position within the allowed time. The control monitors the door position switch and the air-actuated door cylinder during tool changes.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -46,18 +43,3 @@ Haas alarm **126** indicates an **ATC door fault**. The automatic tool changer d
 | Linkage hardware | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-126&k=Linkage+hardware&tag=errorcodefixes-20) \| Bent linkage causes repeat faults |
 ## When to Call a Pro
 If the door cylinder and switch both test good but the alarm continues, the tool changer timing or I/O diagnostics may need deeper Haas service access. A Haas tech can verify the I/O state live during a tool change.
-
-## Related Articles
-
-- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
-- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
-- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
-- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
-- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
-
-## See Also
-
-- [Haas VF-4 Common Alarms Guide — What They Mean and How to Fix Them](/posts/haas-vf4-common-alarms/)
-- [Haas Alarm 106 — Causes & Fix](/posts/haas-alarm-106/)
-- [Haas Alarm 132 — Servo Amplifier Fault Fix](/posts/haas-alarm-132/)
-- [Haas Alarm 119 — Spindle Not At Speed Causes & Fix](/posts/haas-alarm-119/)

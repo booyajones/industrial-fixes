@@ -13,11 +13,8 @@ money_part: "Internal cooling fan"
 most_likely_cause: "Dirty internal cooling fan and heatsink fins"
 ---
 
-## ABB ACS550 AF10 Fault — What It Means
-
+## What this code means
 The ABB ACS550 **AF10 fault** is a **Heatsink Overtemperature** fault. The drive's internal NTC thermistor monitors heatsink temperature. When it exceeds the protection limit (approximately 115°C for most frame sizes), AF10 fires and the drive shuts down output to protect the IGBTs. AF10 is almost always a maintenance or installation issue — dirty cooling fan, insufficient ventilation, or an ambient temperature problem — and resolves without replacing any drive hardware.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -43,18 +40,3 @@ The ABB ACS550 **AF10 fault** is a **Heatsink Overtemperature** fault. The drive
 ## When to Call a Pro
 
 If AF10 returns immediately after cleaning and the internal fan is confirmed running, and the drive is within its rated ambient and load limits, the heatsink thermistor may have drifted or failed. Internal thermistor replacement requires drive disassembly and ABB-certified service.
-
-## Related Articles
-
-- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
-- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
-- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
-
-## See Also
-
-- [ABB ACS880 Fault 3210 — DC Bus Undervoltage Causes & Fix](/posts/abb-acs880-fault-3210/)
-- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
-- [ABB ACS880 Fault 2310 Overcurrent — Causes & Fix](/posts/abb-acs880-fault-2310-overcurrent/)
-- [ABB VFD Fault 9300 — Causes & Fix](/posts/abb-vfd-fault-9300/)

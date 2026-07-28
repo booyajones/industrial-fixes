@@ -55,11 +55,3 @@ On oil-fired Series 2 units with Beckett burner: check oil tank level, oil filte
 | Low water cutoff | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-burnham-series-2-error-codes&k=Low+water+cutoff&tag=errorcodefixes-20) \| Test annually — replace if suspect |
 | Aquastat | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-burnham-series-2-error-codes&k=Aquastat&tag=errorcodefixes-20) \| Match temperature rating |
 > **Pro tip:** Burnham Series 2 cast iron boilers require annual maintenance. Clean the heat exchanger passages with a boiler brush — accumulated soot significantly reduces efficiency and can cause overtemperature faults.
-
-## Related Articles
-
-- [Boiler Lockout Error Codes: All Brands Guide](/posts/boiler-lockout-error-codes/)
-- [Buderus Boiler Fault Code A1 — Causes & Fix](/posts/buderus-boiler-fault-code-a1/)
-- [Burnham Alpine Boiler Error Code Guide — Causes & Fix](/posts/burnham-alpine-error-codes/)
-- [Burnham Boiler E1 Lockout Code Fix](/posts/burnham-boiler-e1-lockout-code/)
-- [Burnham Boiler E2 Error Code — Causes & Fix](/posts/burnham-boiler-e2-error-code/)

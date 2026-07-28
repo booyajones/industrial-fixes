@@ -17,8 +17,6 @@ most_likely_cause: "E1 (ice making fault)"
 
 Follett Horizon Elite ice and water dispensers (7HCD, 15HCD, 25HCD, 50HCD, and 110HCD series) are among the most common ice dispensing machines in healthcare facilities, hotels, and food service. Their electronic controllers display alphanumeric error codes when faults are detected. This guide covers the most common Horizon Elite error codes.
 
-[Jump to Fix](#fix)
-
 ## Common Error Codes
 
 | Code | Meaning |

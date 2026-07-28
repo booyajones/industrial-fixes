@@ -17,13 +17,10 @@ free_checks:
   - "Check if the display actually reads A108 (Rheem) or a different State code like E1, E2, or E3"
 ---
 
-## State Water Heater E108 Error — What It Means
-
+## What this code means
 State Water Heaters do not use an E108 error code in their official documentation. This code does not appear in State's diagnostic system. The confusion likely comes from mixing up brands or misreading the display. Rheem water heaters (often confused with State due to shared manufacturing under A.O. Smith) use an A108 code to indicate a blocked condensate line. JULABO equipment uses E108 for an alarm latch reset issue. State Water Heaters typically display codes like E1 (ignition failure), E2 (thermistor fault), or E3 (overheat).
 
 If you see E108 on what you believe is a State unit, first verify the exact brand by checking the rating plate on the side of the tank. Scan the QR code on that plate to access the correct error code manual for your specific model. If you have a Rheem unit showing A108, the condensate drain line is clogged with sludge, mold, or dust and needs cleaning. If you have a different brand or the display shows a similar but different code, consult that manufacturer's documentation before attempting repairs.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 

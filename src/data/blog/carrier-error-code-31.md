@@ -13,13 +13,10 @@ tags:
   - error-code
 ---
 
-## Carrier Error Code 31 — What It Means
-
+## What this code means
 Carrier error code 31 is a **pressure switch open** fault — the furnace's draft inducer motor started but the control board never received confirmation from the pressure switch that adequate combustion airflow was established. Without that signal, the furnace locks out ignition and flashes code 31 on the LED (a 3-1 blink pattern: 3 flashes, pause, 1 flash).
 
 The pressure switch is a small safety device that monitors negative pressure created by the inducer motor. When the inducer spins up and creates proper draft, the switch closes and allows the ignition sequence to proceed. Code 31 means that switch never closed — either because the draft wasn't strong enough, or because there's a mechanical/electrical problem with the switch or its hose.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
@@ -72,12 +69,5 @@ If the inducer sounds healthy, the vent pipes are clear, the condensate drain fl
 
 ## Related Error Codes
 
-- [Carrier Furnace Error Code 33 — Flame Rollout & High Limit Switch Fix](/posts/carrier-error-code-33/)
+- Carrier Furnace Error Code 33 — Flame Rollout & High Limit Switch Fix
 - [Carrier Furnace Error Code 13 — Limit Circuit Lockout](/posts/carrier-error-code-13/)
-
-## See Also
-
-- [Carrier Greenspeed Heat Pump Error Codes: Complete Guide](/posts/carrier-greenspeed-heat-pump-codes/)
-- [Carrier Error Code 18 - Causes & Fix](/posts/carrier-error-code-18/)
-- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)
-- [Carrier Error Code 65 — Inducer Motor Fault](/posts/carrier-65-error-code/)

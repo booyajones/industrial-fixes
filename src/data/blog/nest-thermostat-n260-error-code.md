@@ -13,13 +13,10 @@ money_part: "Nest Power Connector"
 most_likely_cause: "Missing C wire"
 ---
 
-## Nest N260 Error Code — What It Means
-
+## What this code means
 The N260 error appears when your Nest thermostat is not receiving enough power through the C wire or does not detect a Nest Power Connector as an alternate dedicated power source. Google groups N260 and N410 together and states that both codes indicate the thermostat needs a C wire or Nest Power Connector to provide stable, dedicated power.
 
 This code typically shows up when the C wire is missing entirely, when the connection at the C terminal is loose or damaged, or when the HVAC system is not supplying stable low-voltage power to the thermostat. Without sufficient power, the thermostat cannot operate reliably and will display this error to alert you to the power issue.
-
-[Jump to Fix](#fix)
 
 ## Common Causes
 
