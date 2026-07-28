@@ -2,7 +2,7 @@
 import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
-import FaultCodeLookup from "@/components/FaultCodeLookup.astro";
+import LookupWidget from "@/components/FaultCodeLookup.astro";
 import { SITE } from "@/config";
 
 const embedSnippet = `<iframe src="https://errorcodefixes.com/embed/lookup" title="Error / fault code lookup" width="100%" height="420" style="border:1px solid #e4e2db;border-radius:12px;max-width:580px" loading="lazy"></iframe>`;
@@ -22,7 +22,7 @@ const embedSnippet = `<iframe src="https://errorcodefixes.com/embed/lookup" titl
     </p>
 
     <div class="mb-12 rounded-xl border border-border bg-accent/5 p-5">
-      <FaultCodeLookup />
+      <LookupWidget />
     </div>
 
     <section class="max-w-app">

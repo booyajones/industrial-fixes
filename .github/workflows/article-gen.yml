@@ -7,8 +7,8 @@
 name: Article Generation (daily)
 
 on:
-  schedule:
-    - cron: "30 6 * * *"   # 06:30 UTC daily (matches the old local task)
+  # Cron removed 2026-07-28: deliberate content-freeze during quality consolidation.
+  # Manual dispatch only. Do NOT re-add a schedule without reading CLAUDE.md.
   workflow_dispatch:
     inputs:
       count:
@@ -59,9 +59,6 @@ jobs:
           COUNT: ${{ github.event.inputs.count || '30' }}
         run: |
           python scripts/generate-articles.py --count "$COUNT"
-
-      - name: Wire internal links
-        run: python scripts/add_internal_links.py
 
       - name: Commit + push new articles (triggers Cloudflare deploy)
         shell: bash

@@ -4,8 +4,8 @@
 name: Video Batch (weekly)
 
 on:
-  schedule:
-    - cron: "0 7 * * 6"   # Saturday 07:00 UTC
+  # Cron removed 2026-07-28: deliberate content-freeze during quality consolidation.
+  # Manual dispatch only. Do NOT re-add a schedule without reading CLAUDE.md.
   workflow_dispatch:
     inputs:
       limit:

@@ -14,6 +14,16 @@ const __dirname = path.dirname(__filename);
 const REPO_ROOT = path.resolve(__dirname, '..');
 const BLOG_DIR = path.join(REPO_ROOT, 'src', 'data', 'blog');
 const OUTPUT_PATH = path.join(REPO_ROOT, 'public', 'search-index.json');
+// astro build copies public/ into dist/ BEFORE postbuild runs, so a fresh index
+// written only to public/ ships stale. Write to dist/ too when it exists.
+const DIST_OUTPUT_PATH = path.join(REPO_ROOT, 'dist', 'search-index.json');
+
+// Quality-consolidation: the lookup tool, chat worker, and embed all consume
+// this index — serve only the indexable quality core, not the noindexed farm.
+const NOINDEX_TS = path.join(REPO_ROOT, 'src', 'data', 'noindex-slugs.ts');
+const NOINDEX = new Set(
+  (fs.readFileSync(NOINDEX_TS, 'utf8').match(/"[^"]+"/g) || []).map(s => s.slice(1, -1))
+);
 
 /**
  * Parse frontmatter from a markdown string.
@@ -108,6 +118,12 @@ for (const file of files) {
     continue;
   }
 
+  // Skip noindexed (quality-consolidation prune set)
+  if (NOINDEX.has(slug)) {
+    skipped++;
+    continue;
+  }
+
   const title = data.title.trim();
   const url = `/posts/${slug}/`;
 
@@ -124,7 +140,12 @@ for (const file of files) {
 }
 
 // Write minified JSON
-fs.writeFileSync(OUTPUT_PATH, JSON.stringify(index), 'utf8');
+const json = JSON.stringify(index);
+fs.writeFileSync(OUTPUT_PATH, json, 'utf8');
+if (fs.existsSync(path.dirname(DIST_OUTPUT_PATH))) {
+  fs.writeFileSync(DIST_OUTPUT_PATH, json, 'utf8');
+  console.log(`✅ Search index also written to dist/search-index.json (deployed copy)`);
+}
 
 const sizeKB = (fs.statSync(OUTPUT_PATH).size / 1024).toFixed(1);
 console.log(`✅ Search index written to public/search-index.json`);

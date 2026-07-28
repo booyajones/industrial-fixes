@@ -4,7 +4,7 @@
   "version": "5.5.0",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build && pagefind --site dist && node -e \"require('fs').cpSync('dist/pagefind','public/pagefind',{recursive:true,force:true})\" && node scripts/beasties-run.mjs",
+    "build": "NODE_OPTIONS=--max-old-space-size=6144 astro build && pagefind --site dist && node -e \"require('fs').cpSync('dist/pagefind','public/pagefind',{recursive:true,force:true})\" && node scripts/beasties-run.mjs",
     "typecheck": "astro check",
     "postbuild": "node scripts/build-search-index.mjs && node scripts/check-mojibake.mjs",
     "preview": "astro preview",

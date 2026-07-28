@@ -5,8 +5,8 @@
 name: Content Pipeline (daily, no video)
 
 on:
-  schedule:
-    - cron: "0 6 * * *"   # 06:00 UTC daily
+  # Cron removed 2026-07-28: deliberate content-freeze during quality consolidation.
+  # Manual dispatch only. Do NOT re-add a schedule without reading CLAUDE.md.
   workflow_dispatch:
     inputs:
       limit:
@@ -51,7 +51,7 @@ jobs:
           git config user.name "ECF Content Bot"
           git add growth-pipeline/ 2>/dev/null || true
           if git diff --cached --quiet; then echo "no new assets"; exit 0; fi
-          git commit -m "Daily auto-content: pins + thumbnails [cloud]"
+          git commit -m "Daily auto-content: pins + thumbnails [cloud] [skip deploy]"
           for i in 1 2 3 4 5; do
             git pull --rebase --no-edit origin main && git push origin HEAD:main && exit 0; git rebase --abort 2>/dev/null || true
             echo "push race, retry $i"; sleep $((RANDOM % 8 + 3))

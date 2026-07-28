@@ -616,16 +616,37 @@ tags:
     return md
 
 
+# Content policy (2026-07-28): new generation is INDUSTRIAL/COMMERCIAL ONLY.
+# The consumer-appliance play is dead (see CLAUDE.md). Topics that don't match
+# this allowlist are skipped before any API spend.
+INDUSTRIAL_ALLOW = re.compile(
+    r"\b(vfd|drive|inverter|servo|cnc|plc|alarm|fanuc|siemens|sinamics|micromaster"
+    r"|abb|acs\d|yaskawa|danfoss|sew[- ]?eurodrive|movitrac|allen[- ]?bradley|powerflex"
+    r"|omron|schneider|altivar|lenze|heidenhain|haas|mazak|okuma|mori seiki|fadal|hurco"
+    r"|chiller|cooling tower|compressor|commercial boiler|burner|generac|generator|ups|apc|eaton"
+    r"|hoshizaki|manitowoc|scotsman|ice[- ]?o[- ]?matic|follett|ice machine"
+    r"|rational|hobart|meiko|vulcan|cleveland|combi)\b", re.I)
+
+
 def generate_one(topic: str, have: set[str], dry: bool) -> str | None:
     slug = slugify(topic)
     if slug in have:
         print(f"  [skip] already have {slug}")
+        return None
+    if not INDUSTRIAL_ALLOW.search(topic):
+        print(f"  [skip] non-industrial topic blocked by content policy: {topic}")
         return None
     print(f"  -> {topic}  (slug: {slug})")
     if dry:
         return slug
     research = perplexity_research(topic)
     print(f"     research: {len(research)} chars")
+    if len(research.strip()) < 200:
+        # Fail closed: without real research grounding every article is a
+        # hallucination risk and the review gate will hold it anyway. Generating
+        # ungrounded drafts burned ~$60/mo for 21 days in July 2026. Abort.
+        print("     [!] research empty/thin — skipping topic (fail-closed, no ungrounded generation)")
+        return None
     content = claude_write(topic, research)
     if not content:
         print("     [!] generation failed"); return None

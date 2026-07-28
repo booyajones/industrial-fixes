@@ -3,9 +3,15 @@
 [errorcodefixes.com](https://errorcodefixes.com) — fast troubleshooting guides
 for HVAC, CNC, refrigeration, and commercial equipment fault codes.
 
-Static-rendered Astro site, deployed to Cloudflare Pages. ~1,150 fix guides,
-auto-generated per-post Open Graph images, Pagefind static search, and an
-"Ask AI" chat widget backed by a Cloudflare Worker.
+Static-rendered Astro site, deployed to Cloudflare Pages. ~4,700 built fix
+guides of which a **~1,156-post indexable quality core** is exposed to search
+engines (the rest are live but noindexed — see CLAUDE.md for the
+quality-consolidation strategy). Auto-generated per-post Open Graph images,
+Pagefind static search, and an "Ask AI" chat widget backed by a Cloudflare
+Worker.
+
+> **Before working in this repo, read [CLAUDE.md](CLAUDE.md)** — it encodes the
+> strategy, the hard don'ts, and the build gotchas.
 
 ---
 
@@ -20,7 +26,7 @@ auto-generated per-post Open Graph images, Pagefind static search, and an
 | Hosting          | [Cloudflare Pages](https://pages.cloudflare.com)            |
 | DNS              | Cloudflare                                                  |
 | Analytics        | Plausible + GA4                                             |
-| Newsletter       | [beehiiv](https://app.beehiiv.com)                          |
+| Newsletter       | [Resend](https://resend.com) (functions/api/subscribe.ts)   |
 | Chat widget      | Cloudflare Worker → OpenAI gpt-4o-mini                      |
 | Affiliate stack  | Amazon Associates, Impact (Repair Clinic, SupplyHouse, …)   |
 
@@ -34,7 +40,7 @@ src/
 ├── data/
 │   ├── authors.ts                ← author key → name + credentials
 │   ├── equipmentCategories.ts    ← /equipment/[slug]/ hub config
-│   └── blog/        ← 1,148 .md fix guides (the content)
+│   └── blog/        ← ~6,300 .md files: ~4,700 published + held drafts
 ├── layouts/         ← Layout, AuthorLayout, AboutLayout, PostDetails, Main
 ├── pages/
 │   ├── index.astro             ← homepage
@@ -71,27 +77,29 @@ npm run dev          # localhost:4321
 ## Build
 
 ```bash
-npm run build        # astro build + pagefind + search-index
+npm run build        # astro build + pagefind + search-index (heap flag built in)
 npm run typecheck    # astro check (separate, does NOT block deploy)
 ```
 
-The build emits ~4,300 files into `dist/` (one HTML + one OG PNG per post,
-plus the Pagefind index). Total runtime ~14 minutes.
+The build emits one HTML + one OG PNG per published post, plus the Pagefind
+index. Total runtime ~14 minutes. The build script sets
+`NODE_OPTIONS=--max-old-space-size=6144` — the default Node heap OOMs on this
+page count.
 
 ## Deploy
 
-Deploys to Cloudflare Pages, project `industrial-fixes`:
+**Pushing to main deploys production automatically** via
+`.github/workflows/deploy.yml` (build → wrangler pages deploy → cache purge →
+health check). Commits with `[skip deploy]` in the message skip it.
 
-```powershell
-$env:CLOUDFLARE_API_TOKEN = "<pages-edit-token>"
-npx wrangler@latest pages deploy dist/ `
-  --project-name=industrial-fixes `
-  --branch=main `
-  --commit-dirty=true
+Manual fallback only:
+
+```bash
+CLOUDFLARE_API_TOKEN=<pages-edit-token> npx wrangler@latest pages deploy dist/ --project-name=industrial-fixes --branch=main --commit-dirty=true
 ```
 
-After a deploy, optionally ping IndexNow so Bing/Yandex re-crawl the URLs
-that changed in the last commit:
+After a manual deploy, optionally ping IndexNow so Bing/Yandex re-crawl the
+URLs that changed in the last commit:
 
 ```bash
 node scripts/indexnow-ping.mjs
@@ -109,7 +117,7 @@ Posts live in `src/data/blog/<slug>.md` with frontmatter:
 ```yaml
 ---
 title: "Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix"
-author: "Industrial Error Code Fixes"   # or "Marcus Webb" / "Dana Kowalski" / "James Rutherford"
+author: "Error Code Fixes Editorial Team"   # anonymous team byline only — no named personas
 pubDatetime: 2024-03-13T08:00:00Z
 modDatetime: 2026-05-01T08:00:00Z
 slug: hoshizaki-e1-error-code

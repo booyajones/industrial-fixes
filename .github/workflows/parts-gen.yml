@@ -5,8 +5,8 @@
 name: Parts Pages (continuous)
 
 on:
-  schedule:
-    - cron: "30 1,13 * * *"
+  # Cron removed 2026-07-28: deliberate content-freeze during quality consolidation.
+  # Manual dispatch only. Do NOT re-add a schedule without reading CLAUDE.md.
   workflow_dispatch:
     inputs:
       count:

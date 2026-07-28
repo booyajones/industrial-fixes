@@ -40,3 +40,7 @@ out/
 
 automation/__pycache__/
 **/__pycache__/
+
+build-*.log
+build-log.txt
+__pycache__/
