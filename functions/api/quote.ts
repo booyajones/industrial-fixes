@@ -153,16 +153,9 @@ export const onRequestPost = async (ctx: PagesContext<Env>): Promise<Response> =
   const ok = r.ok;
 
   if (wantsJson) {
-    // Debug passthrough (header-gated): surfaces Resend's status + error text
-    // so a misconfigured sender/key is diagnosable without dashboard access.
-    // Carries no secrets — only the upstream error message.
-    let detail: Record<string, unknown> = {};
-    if (!ok && request.headers.get("x-ecf-debug") === "1") {
-      detail = { upstream: r.status, error: (await r.text()).slice(0, 300) };
-    }
     // NOTE: 500, not 502 — Cloudflare's edge replaces origin 502/504 bodies
-    // with its own "error code: 502" page, which hides this JSON entirely.
-    return new Response(JSON.stringify({ ok, ...detail }), {
+    // with its own "error code: 502" page, which would hide this JSON entirely.
+    return new Response(JSON.stringify({ ok }), {
       status: ok ? 200 : 500, headers: { "content-type": "application/json" },
     });
   }
