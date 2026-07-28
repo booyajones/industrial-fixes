@@ -57,6 +57,9 @@ jobs:
           # Heap headroom: the corpus is ~5.7k pages and the SSG/pagefind step
           # OOM'd locally at the default ~2GB. The runner has 7GB; give Node 6GB.
           NODE_OPTIONS: "--max-old-space-size=6144"
+          # Mojibake corruption now FAILS the deploy (baseline verified clean
+          # across 5,426 files on 2026-07-28).
+          STRICT_MOJIBAKE: "1"
         run: npm run build
 
       - name: Deploy to Cloudflare Pages
