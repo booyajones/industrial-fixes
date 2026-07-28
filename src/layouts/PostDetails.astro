@@ -5,21 +5,17 @@ import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import Tag from "@/components/Tag.astro";
 import EditPost from "@/components/EditPost.astro";
-import ShareLinks from "@/components/ShareLinks.astro";
-import BackButton from "@/components/BackButton.astro";
-import ContractorCTA from "../components/ContractorCTA.astro";
 import { SITE } from "@/config";
 import BackToTopButton from "@/components/BackToTopButton.astro";
-import QuickAnswer from "@/components/QuickAnswer.astro";
-import AtAGlance from "@/components/AtAGlance.astro";
+import DiagnosisCard from "@/components/DiagnosisCard.astro";
 import RelatedPosts from "@/components/RelatedPosts.astro";
 import EmailCapture from "../components/EmailCapture.astro";
 import AffiliateDisclosure from "@/components/AffiliateDisclosure.astro";
-import PartsSpecialist from "@/components/PartsSpecialist.astro";
 import StickyPartsBar from "@/components/StickyPartsBar.astro";
 import PartCallout from "@/components/PartCallout.astro";
-import NoBuyVerdict from "@/components/NoBuyVerdict.astro";
+import QuoteRequest from "@/components/QuoteRequest.astro";
 import { getPath } from "@/utils/getPath";
+import getListablePosts from "@/utils/getListablePosts";
 import { authors } from "../data/authors";
 import { equipmentCategories } from "@/data/equipmentCategories";
 import { NOINDEX_SLUGS } from "@/data/noindex-slugs";
@@ -45,21 +41,19 @@ const {
   tags,
   hideEditPost,
   most_likely_cause,
-  likelihood,
   diy_or_pro,
   money_part,
   free_checks,
   part_price,
-  no_buy_pct,
 } = post.data;
 
 const { Content } = await render(post);
 
 const authorData = authors[author];
 
-// Internal linking / topical authority: link this guide to its brand hub
+// Internal linking / topical authority: the visible breadcrumb (and its
+// matching BreadcrumbList JSON-LD) links this guide to its brand hub
 // (/brands/<brand>/) so readers can browse every code for the same brand.
-// Raises sessions-per-visit (more affiliate impressions) and topical signal.
 // Only the brands that actually have a hub page qualify; derive from the
 // FIRST tag that matches one of those hubs, case-insensitively.
 const BRAND_HUBS: Record<string, string> = {
@@ -98,6 +92,10 @@ const BRAND_HUBS: Record<string, string> = {
   "siemens": "Siemens",
   "allen-bradley": "Allen-Bradley",
   "danfoss": "Danfoss",
+  // Industrial brands with proven engaged human traffic (added 2026-07):
+  "sew-eurodrive": "SEW-Eurodrive",
+  "apc": "APC",
+  "rational": "Rational",
 };
 const hubMatch = (tags ?? [])
   .map(t => t.toLowerCase())
@@ -106,7 +104,7 @@ const brandHub = hubMatch
   ? { slug: hubMatch, name: BRAND_HUBS[hubMatch] }
   : null;
 
-// The merchant search query for the parts CTAs (sticky bar + parts specialist).
+// The merchant search query for the parts CTAs (sticky bar + parts module).
 // RepairClinic/PartSelect search needs a PART query ("Samsung dishwasher drain
 // pump assembly"), never the page title ("... 3C Error Code - Causes & Fix"),
 // which returns zero results and burns the click. Priority: the page's #1
@@ -151,7 +149,7 @@ const ogImage = ogImageUrl
 const wordCount = (post.body || "").trim().split(/\s+/).length;
 const readingMinutes = Math.max(1, Math.round(wordCount / 230));
 
-// "Last reviewed" relative phrasing for the trust bar. Shows "today",
+// "Updated" relative phrasing for the trust bar. Shows "today",
 // "2 weeks ago", "3 months ago" instead of bare date — humans parse
 // recency faster than they parse a Y/M/D.
 const reviewDate = modDatetime || pubDatetime;
@@ -164,13 +162,40 @@ else if (daysAgo < 60) reviewedLabel = `${Math.floor(daysAgo / 7)} weeks ago`;
 else if (daysAgo < 730) reviewedLabel = `${Math.floor(daysAgo / 30)} months ago`;
 else reviewedLabel = `${Math.floor(daysAgo / 365)} years ago`;
 
-// Error-code hero: the council's "make the code the hero" trust cue. Pull the
-// token that precedes "error code" / "fault code" in the title, and only show it
-// when it looks like a real code (has a digit, or is 1-3 uppercase letters), so
-// parts / symptom / model pages render no chip.
-const _heroMatch = title.match(/\b([A-Za-z0-9]{1,6})\s+(?:error|fault)\s+code\b/i);
-const _heroTok = _heroMatch?.[1];
-const heroCode = _heroTok && (/\d/.test(_heroTok) || /^[A-Z]{1,3}$/.test(_heroTok)) ? _heroTok : null;
+// Error-code hero: the council's "make the code the hero" trust cue. Extract
+// the code token from the title, and only show it when it looks like a real
+// code (digit sanity check), so parts / symptom / model pages render no chip.
+// Four title forms, most specific first:
+//   1. "<TOK> error code" / "<TOK> fault code"     (consumer + many industrial)
+//   2. "Alarm 10" / "Fault 3130" / "Error 21"      (industrial keyword-first)
+//   3. "F0001 Fault" / "A0021 Alarm"               (industrial token-first)
+//   4. "3 flashes"                                 (blink-code furnaces/heaters)
+let heroCode: string | null = null;
+{
+  const m1 = title.match(/\b([A-Za-z0-9]{1,6})\s+(?:error|fault)\s+code\b/i);
+  const t1 = m1?.[1];
+  if (t1 && (/\d/.test(t1) || /^[A-Z]{1,3}$/.test(t1))) heroCode = t1;
+}
+if (!heroCode) {
+  const m2 = title.match(/\b(alarm|fault|error|code)\s+#?([A-Z]{0,3}-?\d{1,5}(?:[.-]\d{1,4})?)\b/i);
+  if (m2 && /\d/.test(m2[2])) {
+    // "Code F0001" reads better as just "F0001"; bare numbers keep the keyword
+    // ("Alarm 10") because "10" alone is ambiguous.
+    heroCode = m2[1].toLowerCase() === "code"
+      ? m2[2].toUpperCase()
+      : `${m2[1][0].toUpperCase()}${m2[1].slice(1).toLowerCase()} ${m2[2].toUpperCase()}`;
+  }
+}
+if (!heroCode) {
+  // Negative lookahead: "<MODEL> Fault Codes" list pages ("ABB ACS880 Fault
+  // Codes: ...") must NOT chip the model number as if it were a code.
+  const m3 = title.match(/\b([A-Z]{1,3}\d{1,5}(?:[.-]\d{1,4})?)\s+(?:fault|alarm|error)\b(?!\s*codes?\b)/i);
+  if (m3 && /\d/.test(m3[1])) heroCode = m3[1].toUpperCase();
+}
+if (!heroCode) {
+  const m4 = title.match(/\b(\d{1,2})\s+flashes\b/i);
+  if (m4) heroCode = `${m4[1]} flashes`;
+}
 
 // "Disconnect the motor" test: a real, standard VFD diagnostic that ONLY applies
 // to OUTPUT-side faults (overcurrent / short / ground / output phase / IGBT) — it
@@ -184,6 +209,10 @@ const _outputFault = /overcurrent|over current|short[\s-]?circuit|ground fault|e
   .test(`${title} ${most_likely_cause ?? ""}`);
 const showNoLoadTest = _isDrivePage && _outputFault;
 
+// Quality-consolidation: zero-demand programmatic pages are noindexed so
+// Google/AdSense evaluate the ~1,185-page quality core, not a 5,680-page farm.
+const isNoindexed = NOINDEX_SLUGS.has(post.id);
+
 const layoutProps = {
   title: `${title} | errorcodefixes.com`,
   author: authorData?.name ?? "Error Code Fixes Editorial Team",
@@ -193,14 +222,29 @@ const layoutProps = {
   canonicalURL,
   ogImage,
   scrollSmooth: true,
-  // Quality-consolidation: zero-demand programmatic pages are noindexed so
-  // Google/AdSense evaluate the ~1,185-page quality core, not a 5,680-page farm.
-  noindex: NOINDEX_SLUGS.has(post.id),
+  noindex: isNoindexed,
 };
+
+// Industrial lead capture (QuoteRequest) renders only on the segments with
+// real human traffic and real dispatch value. Tag vocabulary verified against
+// src/data/blog frontmatter 2026-07-27.
+const QUOTE_TAGS = new Set([
+  "industrial", "vfd", "cnc", "plc", "servo", "chiller", "ups",
+  "generator", "ice-machine", "commercial-kitchen",
+]);
+const showQuoteRequest = (tags ?? []).some(t => QUOTE_TAGS.has(t.toLowerCase()));
 
 /* ========== Prev/Next Posts ========== */
 
-const allPosts = posts.map(({ data: { title }, id, filePath }) => ({
+// Core (listable) pages must not link into the noindexed farm — computing
+// prev/next from the full set sent ~75% of core prev/next clicks to noindexed
+// pages. Use the listable set when the CURRENT post is listable; keep the
+// full-set fallback only when the current post is itself noindexed (the
+// documented exception in src/utils/getListablePosts.ts — a noindexed page
+// can't resolve its neighbours in a set it isn't part of).
+const navPool = isNoindexed ? posts : getListablePosts(posts);
+
+const allPosts = navPool.map(({ data: { title }, id, filePath }) => ({
   id,
   title,
   filePath,
@@ -208,9 +252,11 @@ const allPosts = posts.map(({ data: { title }, id, filePath }) => ({
 
 const currentPostIndex = allPosts.findIndex(a => a.id === post.id);
 
-const prevPost = currentPostIndex !== 0 ? allPosts[currentPostIndex - 1] : null;
+const prevPost = currentPostIndex > 0 ? allPosts[currentPostIndex - 1] : null;
 const nextPost =
-  currentPostIndex !== allPosts.length ? allPosts[currentPostIndex + 1] : null;
+  currentPostIndex !== -1 && currentPostIndex < allPosts.length - 1
+    ? allPosts[currentPostIndex + 1]
+    : null;
 ---
 
 <Layout {...layoutProps}>
@@ -219,37 +265,41 @@ const nextPost =
        identical templated steps across 1,400+ pages read as scaled markup. The
        page is described by BlogPosting (Layout.astro) + the FAQ + breadcrumb below. -->
 
-  <!-- BreadcrumbList JSON-LD — Home > Posts > Category > Title.
-       Lets Google render breadcrumb chips under the SERP listing instead of
-       the raw URL, lifting CTR a few percentage points. -->
+  <!-- BreadcrumbList JSON-LD — matches the VISIBLE breadcrumb below the header:
+       Home > {brand hub | All guides} > Title. Lets Google render breadcrumb
+       chips under the SERP listing instead of the raw URL. -->
   <script type="application/ld+json" is:inline set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "Home", "item": SITE.website.replace(/\/+$/, "") + "/" },
-      { "@type": "ListItem", "position": 2, "name": "Fix Guides", "item": SITE.website.replace(/\/+$/, "") + "/posts/" },
-      ...(postCategory ? [{ "@type": "ListItem", "position": 3, "name": equipmentCategories.find(c => c.slug === postCategory)?.name ?? postCategory, "item": SITE.website.replace(/\/+$/, "") + `/equipment/${postCategory}/` }] : []),
-      { "@type": "ListItem", "position": postCategory ? 4 : 3, "name": title.replace(/—.*$/, '').trim(), "item": SITE.website.replace(/\/+$/, "") + Astro.url.pathname }
+      brandHub
+        ? { "@type": "ListItem", "position": 2, "name": brandHub.name, "item": SITE.website.replace(/\/+$/, "") + `/brands/${brandHub.slug}/` }
+        : { "@type": "ListItem", "position": 2, "name": "All guides", "item": SITE.website.replace(/\/+$/, "") + "/posts/" },
+      { "@type": "ListItem", "position": 3, "name": title.replace(/—.*$/, '').trim(), "item": SITE.website.replace(/\/+$/, "") + Astro.url.pathname }
     ]
   })} />
 
-  <!-- FAQ Schema for Google Rich Results — brand/code-aware, content-derived.
-       Drives People Also Ask placements. Five questions a tech actually asks. -->
+  <!-- FAQ Schema — only the two Q&As whose answers correspond to visible page
+       content ("What this code means" + the step-by-step fix). The other three
+       templated Q&As had NO visible counterpart on the page (invisible marked-up
+       answers = scaled-markup tell) and were cut 2026-07. -->
   {(() => {
     const cleanTitle = title.replace(/—.*$/, '').trim();
-    const brandName = brandHub?.name; // real brand (e.g. "Samsung"), or undefined for generic/HVAC
-    // Extract the error code token if title looks like "Brand 12 — ..." or "Brand Error Code 12"
-    const codeMatch = cleanTitle.match(/\b([A-Z]{1,3}\s?\d{1,4}|\d{1,4}|E\d+|F\d+|P\d+|H\d+|L\d+)\b/);
-    const code = codeMatch?.[1];
-    // Answers grounded in THIS page's real data (cause/part/price/diy) — specific
-    // answers are far stronger AI-citation bait than templated boilerplate.
     const _cause = most_likely_cause ? most_likely_cause.replace(/\.$/, "").toLowerCase() : "";
+    // Q1's answer is the description ONLY when it isn't generator boilerplate
+    // ("What X means, why it happens...") — boilerplate restates the question
+    // and is no longer rendered on the page. Fall back to the visible
+    // most-likely-cause line; drop Q1 entirely when neither exists.
+    const _boiler = /^What .{0,80} means, why it/i;
+    const a1 = description && !_boiler.test(description)
+      ? description
+      : _cause
+        ? `The most likely cause is ${_cause}. Work through the checks in this guide to confirm it before replacing anything.`
+        : null;
     const faqs = [
-      { q: `What does ${cleanTitle} mean?`, a: description },
+      ...(a1 ? [{ q: `What does ${cleanTitle} mean?`, a: a1 }] : []),
       { q: `How do I fix ${cleanTitle}?`, a: `${_cause ? `Start with the most common cause: ${_cause}. ` : `Start with a power-cycle reset and the most common cause. `}Work through the step-by-step diagnosis in this guide${money_part ? `, and replace the ${money_part.toLowerCase()} only if the checks confirm it has failed.` : `, and confirm the faulty part before replacing anything.`} Most fixes need basic hand tools and the right part.` },
-      { q: `Can I keep running my ${brandName ? brandName + ' ' : ''}equipment with ${code ?? 'this error'} showing?`, a: `Usually not. This error means a part or safety circuit is out of range, so continuing to run it can make the fault worse. Diagnose and clear ${code ?? 'the error'} before returning to normal use.` },
-      { q: `What part is most commonly replaced for ${cleanTitle}?`, a: money_part ? `The ${money_part} is the part that most often resolves ${cleanTitle}${part_price ? ` (typically ${part_price})` : ""}. Match it to your exact model and serial number before ordering, and confirm with the diagnostic checks first.` : `Match the most likely part to your exact model and serial number before ordering; rule out the free checks in this guide first.` },
-      { q: `Is ${cleanTitle} a DIY repair or do I need a technician?`, a: diy_or_pro === "pro" ? `This one should go to a qualified technician — it typically involves sealed-system, refrigerant, high-voltage, or precision work that needs proper tools and training.` : diy_or_pro === "diy" ? `This is usually a DIY-friendly repair with basic hand tools and the right replacement part. Sealed-system, refrigerant, gas, or high-voltage work should still go to a licensed technician.` : `Many of these fixes are DIY-friendly with basic tools, but sealed-system, refrigerant, gas, or high-voltage work should go to a licensed technician for safety.` }
     ];
     return (
       <script type="application/ld+json" is:inline set:html={JSON.stringify({
@@ -260,18 +310,28 @@ const nextPost =
     );
   })()}
   <Header />
-  <BackButton />
+  <nav class="app-layout post-breadcrumb mt-8 mb-2" aria-label="Breadcrumb" data-pagefind-ignore>
+    <ol>
+      <li>
+        <a href="/">Home</a>
+        <span aria-hidden="true">&rsaquo;</span>
+      </li>
+      <li>
+        {brandHub ? (
+          <a href={`/brands/${brandHub.slug}/`} data-internal-link="brand-hub">{brandHub.name}</a>
+        ) : (
+          <a href="/posts/">All guides</a>
+        )}
+        <span aria-hidden="true">&rsaquo;</span>
+      </li>
+      <li aria-current="page">{title.replace(/—.*$/, "").trim()}</li>
+    </ol>
+  </nav>
   <main
     id="main-content"
-    class:list={["app-layout pb-12", { "mt-8": !SITE.showBackButton }]}
-    data-pagefind-body
+    class="app-layout pb-12"
+    data-pagefind-body={isNoindexed ? undefined : true}
   >
-    {heroCode && (
-      <div class="code-hero">
-        <span class="code-hero-label">Error code</span>
-        <span class="code-hero-value">{heroCode}</span>
-      </div>
-    )}
     <div class="title-copy-wrapper">
       <h1
         transition:name={slugifyStr(title.replaceAll(".", "-"))}
@@ -279,9 +339,11 @@ const nextPost =
       >
         {title}
       </h1>
-      <button class="copy-code-btn" data-pagefind-ignore data-title={title} aria-label="Copy error code name">
-        Copy
-      </button>
+      {heroCode && (
+        <button class="copy-code-btn" data-pagefind-ignore data-code={heroCode} aria-label={`Copy code ${heroCode}`}>
+          Copy code
+        </button>
+      )}
     </div>
     <div class="article-meta" data-pagefind-ignore>
       <span class="article-author">
@@ -302,7 +364,7 @@ const nextPost =
         }
       </span>
       <span class="article-date">
-        Reviewed <time datetime={reviewDate.toISOString()} title={reviewDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}>
+        Updated <time datetime={reviewDate.toISOString()} title={reviewDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}>
           {reviewedLabel}
         </time>
       </span>
@@ -314,52 +376,20 @@ const nextPost =
         {readingMinutes} min read
       </span>
     </div>
-    <p class="independent-note" data-pagefind-ignore>
-      Independent. We don't sell parts, so we tell you when not to buy one.
-    </p>
-
-    <!-- Quick Answer Box. Rendered FIRST (right after the meta row) so its <p>
-         is the LCP element and paints near the top of the mobile viewport — it
-         was the article LCP element and sat below the fold when AtAGlance came
-         before it (LCP ~3.5s). Answer-first is also the better reading order. -->
-    <QuickAnswer {description} {title} hasPart={!!money_part} />
-
-    <!-- Verdict block: a technician's most-likely-cause call + a color-coded
-         DIY/Pro badge. Renders only when there is NO money_part — when a part
-         exists, the NoBuyVerdict below carries the cause + badge, so this would
-         be redundant (the cause appearing twice back-to-back). -->
-    {!money_part && (most_likely_cause || diy_or_pro) && (
-      <div class="verdict" data-pagefind-ignore>
-        {most_likely_cause && (
-          <p class="verdict-cause">
-            <span class="verdict-label">Most likely</span>
-            {most_likely_cause}{likelihood ? ` (${likelihood})` : ""}
-          </p>
-        )}
-        {diy_or_pro && (
-          <span class={`verdict-badge verdict-${diy_or_pro}`}>
-            {diy_or_pro === "pro" ? "Pro repair" : "DIY-friendly"}
-          </span>
-        )}
-      </div>
-    )}
-
-    <!-- No-buy verdict: the cost-fork judgment call (lead with "don't buy yet").
-         Above the fold; the buy button (PartCallout) now sits BELOW the free-fix
-         gate, anchored at #get-the-part. This is the AI-Overview hedge + the
-         honesty moat + a buyer pre-qualifier (DO-NOW #2, the biggest lever). -->
-    {money_part && (
-      <NoBuyVerdict
-        cause={most_likely_cause}
-        part={money_part}
-        partPrice={part_price}
-        noBuyPct={no_buy_pct}
-        freeChecks={free_checks}
-        pro={diy_or_pro === "pro"}
-        diyOrPro={diy_or_pro}
-        code={heroCode ?? undefined}
-      />
-    )}
+    <!-- The one above-the-fold card: code chip, one-line answer, DIY/Pro
+         verdict + triage, free checks, and the two jump links. Replaces the
+         former QuickAnswer + NoBuyVerdict + brand-hub link + AtAGlance stack
+         (the brand-hub link now lives in the breadcrumb above). Rendered first
+         so the answer line is the LCP element near the top of the viewport. -->
+    <DiagnosisCard
+      code={heroCode}
+      {description}
+      mostLikelyCause={most_likely_cause}
+      diyOrPro={diy_or_pro}
+      moneyPart={money_part}
+      freeChecks={free_checks}
+      {tags}
+    />
 
     <!-- "Disconnect the motor" test — only on drive pages with an output-side
          fault. A real, standard field diagnostic that isolates drive vs motor in
@@ -378,30 +408,6 @@ const nextPost =
       </aside>
     )}
 
-    <!-- Internal link to the brand hub for topical authority + more sessions
-         per visit. Subtle, single inline link; only rendered when the post's
-         tags include a brand that has a hub page. data-internal-link tags it
-         for later GA4 / log analysis. Placed right under the Quick Answer so
-         it never crowds out the answer itself. -->
-    {brandHub && (
-      <p class="brand-hub-link">
-        <a href={`/brands/${brandHub.slug}/`} data-internal-link="brand-hub">
-          See all {brandHub.name} error codes →
-        </a>
-      </p>
-    )}
-
-    <!-- At-a-glance triage strip: difficulty / time / tools, inferred from tags.
-         After the Quick Answer — a tech triages once they've read the summary. -->
-    <AtAGlance {tags} />
-
-    <!-- Inline email capture immediately after the Quick Answer. This is
-         where intent peaks — the user just read the fix summary. Bottom-
-         of-article placement after the Angi banner was where email signup
-         went to die. (Bottom EmailCapture is still rendered below as a
-         second touchpoint for users who scroll the whole guide.) -->
-    <EmailCapture brand={tags?.[0]} category={postCategory} />
-
     <!-- FTC affiliate disclosure: clear, conspicuous, above the parts tables -->
     <AffiliateDisclosure />
 
@@ -412,22 +418,21 @@ const nextPost =
       <Content />
     </article>
 
-    <!-- The buy button, now BELOW the free-fix gate. By the time the reader is
-         here they have passed the no-buy verdict + the diagnostic + the fix
-         steps, so this click is pre-qualified (they need the part) and converts
-         harder. #get-the-part is the anchor the no-buy verdict's "already ruled
-         those out?" link jumps to. -->
+    <!-- The single parts module, BELOW the free-fix gate. By the time the
+         reader is here they have passed the diagnosis card + the fix steps, so
+         this click is pre-qualified. #get-the-part is the anchor the diagnosis
+         card's "Skip to the part" link jumps to. The chat worker extracts the
+         .pc-part / .pc-primary selectors from this card — keep them intact. -->
     {money_part && (
       <div id="get-the-part">
         <PartCallout part={money_part} query={partsQuery} price={part_price} brand={tags?.[0] ?? ""} tags={tags} pro={diy_or_pro === "pro"} />
       </div>
     )}
 
-    <!-- "Shop the replacement part": the reader has just diagnosed the fault,
-         so buying intent peaks here. Routes to a category-appropriate parts
-         specialist; links are Skimlinks-monetized (no noskim). Placed after
-         the article body and before the tag/EditPost block. -->
-    <PartsSpecialist {tags} query={partsQuery} />
+    <!-- Industrial lead capture: the reader who does NOT want to fix it
+         themselves. Tag-gated to the industrial segments; replaces the deleted
+         ContractorCTA (untracked angi.com link, wrong trade on VFD pages). -->
+    {showQuoteRequest && <QuoteRequest code={heroCode} />}
 
     <!-- Sticky mobile "get the part" bar: appears after the reader scrolls into
          the fix, so the affiliate click is earned. Mobile only, self-contained. -->
@@ -445,14 +450,7 @@ const nextPost =
 
     <RelatedPosts currentSlug={post.id} {tags} {posts} />
 
-    {tags && (tags.includes('hvac') || tags.includes('furnace') || tags.includes('heat-pump') || tags.includes('boiler') || tags.includes('mini-split') || tags.includes('vfd') || tags.includes('refrigeration') || tags.includes('commercial-refrigeration')) && <ContractorCTA equipment="HVAC" />}
-
     <EmailCapture brand={tags?.[0]} category={postCategory} />
-
-    <ShareLinks />
-    <button onclick="window.print()" class="print-btn" aria-label="Print guide">
-      🖨️ Print guide
-    </button>
 
     <hr class="my-6 border-dashed" />
 
@@ -492,122 +490,65 @@ const nextPost =
 </Layout>
 
 <style>
+  /* Visible breadcrumb: Home › {brand hub | All guides} › current page.
+     Replaces the old back button; matches the BreadcrumbList JSON-LD. */
+  .post-breadcrumb ol {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 0.15rem 0.45rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 0.8rem;
+    color: color-mix(in srgb, var(--foreground) 65%, transparent);
+  }
+  .post-breadcrumb li {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.45rem;
+    min-width: 0;
+  }
+  .post-breadcrumb a {
+    color: color-mix(in srgb, var(--foreground) 78%, transparent);
+    text-decoration: none;
+  }
+  .post-breadcrumb a:hover,
+  .post-breadcrumb a:focus-visible {
+    color: var(--foreground);
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+  }
+  .post-breadcrumb li[aria-current="page"] {
+    display: inline-block;
+    max-width: 32ch;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
   .article-meta {
     display: flex;
     align-items: center;
     gap: 1.25rem;
     flex-wrap: wrap;
     font-size: 0.8rem;
-    color: #4b5563;
+    color: color-mix(in srgb, var(--foreground) 68%, transparent);
     margin-bottom: 1rem;
   }
   .article-author {
     display: flex;
     align-items: center;
     gap: 0.35rem;
-    color: #166534;
+    color: var(--safe);
     font-weight: 500;
   }
-  .article-date { color: #4b5563; }
+  .article-date { color: color-mix(in srgb, var(--foreground) 68%, transparent); }
   .article-read-time {
     display: flex;
     align-items: center;
     gap: 0.35rem;
-    color: #4b5563;
-  }
-
-  /* Subtle inline internal link to the brand hub. #166534 on the white/light
-     page background is ~6.7:1 contrast (passes AA). Sits just under the Quick
-     Answer without competing with the answer copy. */
-  .brand-hub-link {
-    margin: -0.5rem 0 1.5rem 0;
-    font-size: 0.85rem;
-  }
-  .brand-hub-link a {
-    color: #166534;
-    font-weight: 500;
-    text-decoration: none;
-    border-bottom: 1px solid rgba(22, 101, 52, 0.35);
-  }
-  .brand-hub-link a:hover,
-  .brand-hub-link a:focus-visible {
-    border-bottom-color: #166534;
-  }
-
-  /* Error-code hero: the actual code in monospace on a service-blue chip, so a
-     panicked reader confirms they are on the right page in under a second. */
-  .code-hero {
-    display: inline-flex;
-    align-items: baseline;
-    gap: 0.5rem;
-    margin-bottom: 0.7rem;
-    padding: 0.3rem 0.75rem 0.4rem;
-    background: var(--code-bg);
-    border-radius: 7px;
-  }
-  .code-hero-label {
-    font-size: 0.6rem;
-    font-weight: 700;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    color: color-mix(in srgb, var(--code-fg) 68%, transparent);
-  }
-  .code-hero-value {
-    font-family: var(--font-mono);
-    font-size: 1.35rem;
-    font-weight: 700;
-    line-height: 1;
-    color: var(--code-fg);
-    letter-spacing: 0.02em;
-  }
-  /* Honest positioning made a feature (the council's highest-trust line). */
-  .independent-note {
-    margin: 0 0 1.1rem;
-    font-size: 0.8rem;
-    font-weight: 500;
-    color: var(--brand);
-    border-left: 3px solid var(--brand);
-    padding-left: 0.6rem;
-  }
-  /* Verdict block: a most-likely-cause call + a color-coded DIY/Pro badge,
-     right under the Quick Answer. The whole "diagnosis at a glance" cue. */
-  .verdict {
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 0.55rem 0.9rem;
-    margin: 0 0 1.25rem;
-  }
-  .verdict-cause {
-    margin: 0;
-    font-size: 0.95rem;
-    color: var(--foreground);
-  }
-  .verdict-label {
-    display: inline-block;
-    margin-right: 0.4rem;
-    font-size: 0.62rem;
-    font-weight: 700;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    color: color-mix(in srgb, var(--foreground) 58%, transparent);
-  }
-  .verdict-badge {
-    display: inline-flex;
-    align-items: center;
-    padding: 0.22rem 0.65rem;
-    border-radius: 999px;
-    font-size: 0.72rem;
-    font-weight: 700;
-    letter-spacing: 0.02em;
-  }
-  .verdict-diy {
-    color: var(--safe);
-    background: color-mix(in srgb, var(--safe) 16%, transparent);
-  }
-  .verdict-pro {
-    color: var(--danger);
-    background: color-mix(in srgb, var(--danger) 16%, transparent);
+    color: color-mix(in srgb, var(--foreground) 68%, transparent);
   }
 
   /* "Disconnect the motor" diagnostic — drive output-fault pages only. */
@@ -643,34 +584,18 @@ const nextPost =
     flex-wrap: wrap;
   }
   .copy-code-btn {
-    background: #f3f4f6;
-    border: 1px solid #d1d5db;
+    background: var(--muted);
+    border: 1px solid var(--border);
     border-radius: 4px;
     padding: 0.25rem 0.6rem;
     font-size: 0.75rem;
     cursor: pointer;
-    color: #4b5563;
+    color: color-mix(in srgb, var(--foreground) 78%, transparent);
     margin-top: 0.5rem;
     white-space: nowrap;
   }
-  .copy-code-btn:hover { background: #e5e7eb; }
-
-  /* Print button */
-  .print-btn {
-    background: none;
-    border: 1px solid #d1d5db;
-    border-radius: 6px;
-    padding: 0.4rem 0.9rem;
-    font-size: 0.8rem;
-    cursor: pointer;
-    color: #4b5563;
-    margin-top: 0.75rem;
-  }
-  .print-btn:hover { border-color: #9ca3af; color: #374151; }
-
-  @media print {
-    #chat-widget, .email-capture-box, nav, footer, .print-btn { display: none !important; }
-    .quick-answer-box { border: 1px solid #000 !important; }
+  .copy-code-btn:hover {
+    background: color-mix(in srgb, var(--foreground) 8%, var(--muted));
   }
 </style>
 
@@ -698,6 +623,13 @@ const nextPost =
   #article a[href*="amazon.com"]:hover { background: #78350f; }
   #article a[href*="amazon.com"]:focus-visible { outline: 2px solid #78350f; outline-offset: 2px; }
   #article a[href*="amazon.com"]::after { content: "\00a0→"; }
+
+  /* Print: strip the interactive chrome; keep the diagnosis + article. Global
+     (unscoped) so the selectors reach into the child components. */
+  @media print {
+    #chat-widget, .email-capture-box, .quote-request, .sticky-parts, nav, footer { display: none !important; }
+    .diagnosis-card { border: 1px solid #000 !important; }
+  }
 </style>
 
 <script is:inline data-astro-rerun>
@@ -821,14 +753,14 @@ const nextPost =
   }
   attachCopyButtons();
 
-  /** Copy error code title to clipboard */
+  /** Copy the error-code token (not the SEO title) to clipboard */
   function attachTitleCopyButtons() {
     document.querySelectorAll('.copy-code-btn').forEach(btn => {
       btn.addEventListener('click', () => {
-        const titleText = /** @type {HTMLElement} */ (btn).dataset.title || '';
-        navigator.clipboard.writeText(titleText);
+        const codeText = /** @type {HTMLElement} */ (btn).dataset.code || '';
+        navigator.clipboard.writeText(codeText);
         btn.textContent = 'Copied!';
-        setTimeout(() => { btn.textContent = 'Copy'; }, 2000);
+        setTimeout(() => { btn.textContent = 'Copy code'; }, 2000);
       });
     });
   }

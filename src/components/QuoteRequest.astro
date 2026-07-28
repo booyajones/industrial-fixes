@@ -1,0 +1,248 @@
+---
+// QuoteRequest — industrial lead capture. Rendered on industrial posts only
+// (tag-gated in PostDetails), after the parts module. The reader who lands on a
+// Fanuc / ABB / York fault page and does NOT want to fix it themselves has had
+// no path until now; this routes the fault description to our dispatch inbox
+// via /api/quote (CF Pages Function -> one Resend transactional email).
+// Progressive enhancement mirrors EmailCapture: plain form POST works with no
+// JS; with JS we fetch + redirect so the page never reloads. Copy stays honest:
+// replies come by email, no response-time promises.
+interface Props {
+  /** Prefill for the fault-code field (the page's extracted code token). */
+  code?: string | null;
+}
+const { code } = Astro.props;
+---
+
+<section class="quote-request" data-pagefind-ignore aria-label="Request a repair quote">
+  <h2 class="qr-title">Need this fixed instead? Describe the fault — we'll route it.</h2>
+  <p class="qr-sub">
+    Tell us the machine and what it's doing. We read every request and reply by email.
+  </p>
+  <form class="qr-form" action="/api/quote" method="POST" data-ecf-quote>
+    {/* Honeypot: hidden from humans; a filled value marks the POST as a bot. */}
+    <div class="qr-hp" aria-hidden="true">
+      <label>
+        Company
+        <input type="text" name="company" tabindex="-1" autocomplete="off" />
+      </label>
+    </div>
+    <div class="qr-row">
+      <label class="qr-field qr-grow">
+        <span class="qr-label">Equipment brand &amp; model</span>
+        <input
+          type="text"
+          name="equipment"
+          required
+          maxlength="120"
+          placeholder="e.g. ABB ACS580, Fanuc 0i-MF"
+          autocomplete="off"
+        />
+      </label>
+      <label class="qr-field">
+        <span class="qr-label">Fault code</span>
+        <input
+          type="text"
+          name="fault_code"
+          required
+          maxlength="40"
+          value={code ?? ""}
+          autocomplete="off"
+        />
+      </label>
+    </div>
+    <label class="qr-field">
+      <span class="qr-label">What's happening (optional)</span>
+      <textarea
+        name="details"
+        rows="3"
+        maxlength="2000"
+        placeholder="When it trips, what you've already checked, how urgent it is"></textarea>
+    </label>
+    <div class="qr-row">
+      <label class="qr-field qr-grow">
+        <span class="qr-label">Email</span>
+        <input type="email" name="email" required maxlength="254" autocomplete="email" />
+      </label>
+      <label class="qr-field">
+        <span class="qr-label">Phone (optional)</span>
+        <input type="tel" name="phone" maxlength="30" autocomplete="tel" />
+      </label>
+      <label class="qr-field qr-zip">
+        <span class="qr-label">ZIP (optional)</span>
+        <input type="text" name="zip" maxlength="10" inputmode="numeric" autocomplete="postal-code" />
+      </label>
+    </div>
+    <button type="submit" class="qr-submit">Send request</button>
+    <p class="qr-error" role="alert" hidden>
+      Something went wrong sending this — email us directly at
+      <a href="mailto:info@errorcodefixes.com">info@errorcodefixes.com</a>.
+    </p>
+  </form>
+  <p class="qr-note">
+    Replies come by email. Your details go only to our dispatch inbox — no account, no list.
+  </p>
+</section>
+
+<script is:inline>
+  // Progressive enhancement: the plain form POSTs to /api/quote (CF Pages
+  // Function that emails the lead and 303-redirects to /quote-received/) as
+  // the no-JS fallback. With JS we submit via fetch and only redirect on a
+  // CONFIRMED-OK response — a silent redirect on failure would drop the lead
+  // while showing "Got it." On failure: inline error, no redirect. The GA4
+  // lead_submit / lead_error events are fired by src/scripts/analytics.ts,
+  // which listens for the ecf:lead-submit / ecf:lead-error events below.
+  (function () {
+    function bind() {
+      document.querySelectorAll('form[data-ecf-quote]').forEach(function (form) {
+        if (form._ecfQuoteBound) return;
+        form._ecfQuoteBound = true;
+        form.addEventListener('submit', function (e) {
+          var email = form.querySelector('input[name=email]');
+          if (!email || !email.value) return; // let HTML validation handle it
+          e.preventDefault();
+          var btn = form.querySelector('button[type=submit]');
+          var err = form.querySelector('.qr-error');
+          if (err) err.hidden = true;
+          if (btn) btn.disabled = true;
+          var data = {};
+          new FormData(form).forEach(function (v, k) { data[k] = String(v); });
+          fetch('/api/quote', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+            body: JSON.stringify(data),
+          }).then(function (resp) {
+            return resp.json().catch(function () { return {}; }).then(function (d) {
+              return resp.ok && d.ok === true;
+            });
+          }).catch(function () {
+            return false;
+          }).then(function (ok) {
+            if (ok) {
+              document.dispatchEvent(new CustomEvent('ecf:lead-submit'));
+              window.location.href = '/quote-received/';
+            } else {
+              document.dispatchEvent(new CustomEvent('ecf:lead-error'));
+              if (btn) btn.disabled = false;
+              if (err) err.hidden = false;
+            }
+          });
+        });
+      });
+    }
+    bind();
+    document.addEventListener('astro:page-load', bind);
+  })();
+</script>
+
+<style>
+  .quote-request {
+    margin: 2rem 0 0;
+    padding: 1.1rem 1.2rem 1.15rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+  }
+  .qr-title {
+    margin: 0 0 0.3rem;
+    font-size: 1.05rem;
+    font-weight: 700;
+    line-height: 1.3;
+    color: var(--foreground);
+  }
+  .qr-sub {
+    margin: 0 0 0.9rem;
+    font-size: 0.88rem;
+    line-height: 1.5;
+    color: color-mix(in srgb, var(--foreground) 78%, transparent);
+  }
+  .qr-form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.7rem;
+  }
+  .qr-hp {
+    position: absolute;
+    left: -9999px;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+  }
+  .qr-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.7rem;
+  }
+  .qr-field {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    min-width: 8rem;
+  }
+  .qr-grow {
+    flex: 1 1 14rem;
+  }
+  .qr-zip {
+    min-width: 6rem;
+  }
+  .qr-label {
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    color: color-mix(in srgb, var(--foreground) 72%, transparent);
+  }
+  .qr-field input,
+  .qr-field textarea {
+    padding: 0.5rem 0.7rem;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: var(--background);
+    color: var(--foreground);
+    font-size: 0.875rem;
+    font-family: inherit;
+  }
+  .qr-field input:focus-visible,
+  .qr-field textarea:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 1px;
+  }
+  .qr-field textarea {
+    resize: vertical;
+  }
+  .qr-submit {
+    align-self: flex-start;
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 0.55rem 1.2rem;
+    font-size: 0.9rem;
+    font-weight: 700;
+    cursor: pointer;
+  }
+  .qr-submit:hover {
+    background: color-mix(in srgb, var(--accent) 88%, var(--foreground));
+  }
+  .qr-submit:disabled {
+    opacity: 0.6;
+    cursor: default;
+  }
+  .qr-error {
+    margin: 0;
+    font-size: 0.85rem;
+    line-height: 1.45;
+    color: var(--danger);
+  }
+  .qr-error a {
+    color: var(--danger);
+    font-weight: 600;
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
+  }
+  .qr-note {
+    margin: 0.75rem 0 0;
+    font-size: 0.74rem;
+    line-height: 1.45;
+    color: color-mix(in srgb, var(--foreground) 62%, transparent);
+  }
+</style>

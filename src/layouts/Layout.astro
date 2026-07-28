@@ -1,5 +1,4 @@
 ---
-import { Font } from "astro:assets";
 import { ClientRouter } from "astro:transitions";
 import ChatWidget from "../components/ChatWidget.astro";
 import { PUBLIC_GOOGLE_SITE_VERIFICATION, PUBLIC_GA4_MEASUREMENT_ID, PUBLIC_ADSENSE_CLIENT } from "astro:env/client";
@@ -72,7 +71,7 @@ const structuredData = pubDatetime
       // extractable content — tells answer engines THIS is the answer to lift.
       speakable: {
         "@type": "SpeakableSpecification",
-        cssSelector: [".quick-answer-text", "h1"],
+        cssSelector: [".dc-answer", "h1"],
       },
     }
   : {
@@ -97,7 +96,7 @@ const structuredData = pubDatetime
 >
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" type="image/png" href="/favicon.png" />
     <link rel="apple-touch-icon" href="/icon.png" />
     <meta name="impact-site-verification" {...({'value': '367ef661-eac1-4210-8938-1c5b85b6539c'} as any)} />
@@ -111,32 +110,29 @@ const structuredData = pubDatetime
          CSS -> Google CSS -> woff2 waterfall (~750ms before first paint). -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <!-- Newsreader removed 2026-07 (was never used in any stylesheet); Google
+         Sans Code preload removed too — it only backed a var() fallback in
+         AmazonPartLink, which now falls back to ui-monospace. -->
     <link
       rel="preload"
       as="style"
-      href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&family=Newsreader:ital,wght@0,400;0,500;0,600;1,400&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap"
     />
     <link
       rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&family=Newsreader:ital,wght@0,400;0,500;0,600;1,400&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap"
       media="print"
       onload="this.media='all'"
     />
     <noscript>
       <link
         rel="stylesheet"
-        href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&family=Newsreader:ital,wght@0,400;0,500;0,600;1,400&display=swap"
+        href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap"
       />
     </noscript>
 
     <link rel="canonical" href={canonicalURL} />
     <meta name="generator" content={Astro.generator} />
-
-    <!-- Load Font -->
-    <Font
-      cssVariable="--font-google-sans-code"
-      preload={[{ subset: "latin", weight: 400, style: "normal" }]}
-    />
 
     <!-- General Meta Tags -->
     <title>{title}</title>

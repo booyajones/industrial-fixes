@@ -6,7 +6,7 @@
   },
   "parts": {
     "T-84984": {
-      "asin": "B07FVP4CY6",
+      "note": "ASIN removed 2026-07-27: B07FVP4CY6 was mapped to BOTH T-84984 and 915146 (different parts), so at least one mapping was wrong. Do not guess a replacement — re-verify the correct ASIN before restoring a deeplink. Without an asin, AmazonPartLink/PartCallout fall back to a part search URL.",
       "title": "True 988294 cabinet temperature sensor probe",
       "last_verified": "2026-05-16"
     },
@@ -16,7 +16,7 @@
       "last_verified": "2026-05-16"
     },
     "915146": {
-      "asin": "B07FVP4CY6",
+      "note": "ASIN removed 2026-07-27: B07FVP4CY6 was mapped to BOTH T-84984 and 915146 (different parts), so at least one mapping was wrong. Do not guess a replacement — re-verify the correct ASIN before restoring a deeplink. Without an asin, AmazonPartLink/PartCallout fall back to a part search URL.",
       "title": "True 915146 defrost heater",
       "last_verified": "2026-05-16"
     },

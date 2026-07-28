@@ -1,0 +1,262 @@
+---
+// DiagnosisCard — the single above-the-fold diagnosis summary. Replaces the
+// former QuickAnswer + NoBuyVerdict + brand-hub link + AtAGlance stack with ONE
+// calm card: code chip, one-line answer, verdict badges, free checks, and two
+// action links. Subtraction by design: one border, token colors only, no
+// amber-alarm styling, works in both themes via the [data-theme] tokens.
+import { getTriage } from "@/utils/triage";
+
+interface Props {
+  /** Extracted code token ("3C", "Alarm 10", "F0001"). Chip renders only when set. */
+  code?: string | null;
+  /** Frontmatter description — used only when it is not templated boilerplate. */
+  description?: string;
+  /** Frontmatter most_likely_cause — the fallback one-liner. */
+  mostLikelyCause?: string;
+  diyOrPro?: "diy" | "pro";
+  moneyPart?: string;
+  freeChecks?: string[];
+  tags?: readonly string[];
+}
+
+const {
+  code,
+  description,
+  mostLikelyCause,
+  diyOrPro,
+  moneyPart,
+  freeChecks = [],
+  tags = [],
+} = Astro.props;
+
+// One-line answer: the description earns its slot only when it is NOT the
+// generator's boilerplate ("What X means, why it happens..."), which restates
+// the title and answers nothing. Otherwise fall back to the most likely cause;
+// if neither exists, the line is omitted entirely.
+const BOILERPLATE = /^What .{0,80} means, why it/i;
+const answer =
+  description && !BOILERPLATE.test(description)
+    ? description
+    : mostLikelyCause
+      ? `Most likely: ${mostLikelyCause.replace(/\.$/, "")}.`
+      : null;
+
+// DIY-vs-Pro verdict — danger gating ported from the retired NoBuyVerdict.
+// Part classes involving gas, refrigerant under pressure, or high voltage must
+// never read as a DIY invitation; triage's tag-based "Pro recommended"
+// (combustion / refrigerant / high-voltage tags) folds into the same gate.
+const DANGER =
+  /compressor|refrigerant|sealed system|sealed-system|\binverter\b|\bipm\b|\bsto\b|gas[\s-]?valve|\bvfd\b|servo|\bstator\b|high[\s-]?voltage|\bacs\d|powerflex/;
+const { difficulty, time } = getTriage(tags);
+const _part = (moneyPart || "").toLowerCase();
+const isDanger =
+  diyOrPro === "pro" || DANGER.test(_part) || difficulty === "Pro recommended";
+const verdict = isDanger
+  ? "Pro recommended"
+  : diyOrPro === "diy"
+    ? "DIY-friendly"
+    : null;
+
+const checks = freeChecks.filter(c => c && c.trim()).slice(0, 3);
+---
+
+<aside class="diagnosis-card" data-pagefind-ignore aria-label="Diagnosis at a glance">
+  <p class="dc-independent">
+    Independent. We don't sell parts, so we tell you when not to buy one.
+  </p>
+
+  {code && (
+    <div class="dc-code">
+      <span class="dc-code-label">Code</span>
+      <span class="dc-code-value">{code}</span>
+    </div>
+  )}
+
+  {answer && <p class="dc-answer">{answer}</p>}
+
+  <div class="dc-badges">
+    {verdict && (
+      <span class:list={["dc-badge", isDanger ? "dc-badge-pro" : "dc-badge-diy"]}>
+        {verdict}
+      </span>
+    )}
+    {difficulty !== verdict && (
+      <span class="dc-meta">
+        <span class="dc-meta-label">Difficulty</span>
+        {difficulty}
+      </span>
+    )}
+    <span class="dc-meta">
+      <span class="dc-meta-label">Est. time</span>
+      {time}
+    </span>
+  </div>
+
+  {checks.length > 0 && (
+    <div class="dc-checks">
+      <p class="dc-checks-title">Free checks first</p>
+      <ol>
+        {checks.map(c => <li>{c.replace(/\.$/, "")}</li>)}
+      </ol>
+    </div>
+  )}
+
+  <div class="dc-actions">
+    <a class="dc-link" href="#fix" data-dc-fix-link>
+      Jump to the fix
+      <span aria-hidden="true">&rarr;</span>
+    </a>
+    {moneyPart && (
+      <a class="dc-link" href="#get-the-part">
+        Skip to the part
+        <span aria-hidden="true">&rarr;</span>
+      </a>
+    )}
+  </div>
+</aside>
+
+<script is:inline>
+  // Hide "Jump to the fix" when the page body has no #fix anchor (older posts
+  // use ad-hoc heading ids). Runs after the article is in the DOM.
+  (function () {
+    function syncFixLinks() {
+      var hasFix = !!document.getElementById("fix");
+      document.querySelectorAll("[data-dc-fix-link]").forEach(function (a) {
+        a.hidden = !hasFix;
+      });
+    }
+    syncFixLinks();
+    document.addEventListener("astro:page-load", syncFixLinks);
+  })();
+</script>
+
+<style>
+  .diagnosis-card {
+    margin: 0 0 1.75rem;
+    padding: 1rem 1.15rem 1.05rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+  }
+  .dc-independent {
+    margin: 0 0 0.7rem;
+    font-size: 0.72rem;
+    font-weight: 500;
+    letter-spacing: 0.01em;
+    color: color-mix(in srgb, var(--foreground) 62%, transparent);
+  }
+  .dc-code {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.45rem;
+    margin: 0 0 0.7rem;
+    padding: 0.28rem 0.7rem 0.36rem;
+    background: var(--code-bg);
+    border-radius: 7px;
+  }
+  .dc-code-label {
+    font-size: 0.58rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: color-mix(in srgb, var(--code-fg) 68%, transparent);
+  }
+  .dc-code-value {
+    font-family: var(--font-mono);
+    font-size: 1.15rem;
+    font-weight: 700;
+    line-height: 1;
+    color: var(--code-fg);
+    letter-spacing: 0.02em;
+  }
+  .dc-answer {
+    margin: 0 0 0.85rem;
+    font-size: 1rem;
+    line-height: 1.55;
+    color: var(--foreground);
+  }
+  .dc-badges {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.45rem 1rem;
+  }
+  .dc-badge {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.2rem 0.6rem;
+    border-radius: 999px;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+  }
+  .dc-badge-diy {
+    color: var(--safe);
+    background: color-mix(in srgb, var(--safe) 15%, transparent);
+  }
+  .dc-badge-pro {
+    color: var(--danger);
+    background: color-mix(in srgb, var(--danger) 14%, transparent);
+  }
+  .dc-meta {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.35rem;
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: var(--foreground);
+  }
+  .dc-meta-label {
+    font-size: 0.62rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: color-mix(in srgb, var(--foreground) 58%, transparent);
+  }
+  .dc-checks {
+    margin-top: 0.85rem;
+  }
+  .dc-checks-title {
+    margin: 0 0 0.3rem;
+    font-size: 0.66rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: color-mix(in srgb, var(--foreground) 58%, transparent);
+  }
+  .dc-checks ol {
+    margin: 0;
+    padding-left: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+  .dc-checks li {
+    font-size: 0.9rem;
+    line-height: 1.45;
+    color: var(--foreground);
+  }
+  .dc-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1.4rem;
+    margin-top: 0.9rem;
+    padding-top: 0.75rem;
+    border-top: 1px solid var(--border);
+  }
+  .dc-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--brand);
+    text-decoration: none;
+    border-bottom: 1px solid color-mix(in srgb, var(--brand) 35%, transparent);
+    padding-bottom: 1px;
+  }
+  .dc-link:hover,
+  .dc-link:focus-visible {
+    border-bottom-color: var(--brand);
+  }
+</style>

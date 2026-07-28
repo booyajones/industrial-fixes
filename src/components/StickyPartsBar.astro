@@ -40,25 +40,55 @@ const partLabel = part && part.length > 38 ? part.slice(0, 36).trimEnd() + "…"
 
 <script is:inline>
   (function () {
-    var bar = document.getElementById("sticky-parts");
-    if (!bar) return;
+    // Singleton listeners on window/document (they survive ClientRouter SPA
+    // swaps), re-resolving the CURRENT bar node on every call — a captured
+    // reference would go stale after the first astro:page-load and the bar
+    // would never appear again (plus --sticky-parts-h would track a detached
+    // node, breaking the ChatWidget FAB offset).
     var shown = false;
+    function bar() {
+      return document.getElementById("sticky-parts");
+    }
+    function apply(past) {
+      shown = past;
+      var b = bar();
+      // Publish the bar's height as a CSS var so fixed elements that share the
+      // bottom edge (the ChatWidget FAB) can shift up out of the collision.
+      // offsetHeight is 0 when the bar is display:none (>=640px), so desktop
+      // never shifts.
+      document.documentElement.style.setProperty(
+        "--sticky-parts-h",
+        past && b ? b.offsetHeight + "px" : "0px"
+      );
+      if (!b) return;
+      b.classList.toggle("visible", past);
+      b.setAttribute("aria-hidden", past ? "false" : "true");
+    }
     function onScroll() {
       var y = window.scrollY || document.documentElement.scrollTop;
       var past = y > 640;
-      if (past !== shown) {
-        shown = past;
-        bar.classList.toggle("visible", past);
-        bar.setAttribute("aria-hidden", past ? "false" : "true");
-      }
+      if (past !== shown) apply(past);
     }
-    window.addEventListener("scroll", onScroll, { passive: true });
+    if (!window._ecfStickyBound) {
+      window._ecfStickyBound = true;
+      window.addEventListener("scroll", onScroll, { passive: true });
+      window.addEventListener("resize", function () { apply(shown); }, { passive: true });
+      // SPA navigation: reset the var/state for the fresh page (which may have
+      // no bar at all), then evaluate the new scroll position.
+      document.addEventListener("astro:page-load", function () {
+        apply(false);
+        onScroll();
+      });
+    }
     onScroll();
   })();
 </script>
 
 <style>
-  /* Mobile only. Hidden off-screen until the reader scrolls into the fix. */
+  /* Mobile only. Hidden off-screen until the reader scrolls into the fix.
+     visibility:hidden while off-screen so keyboard focus can never land on the
+     invisible CTA (a11y); the visibility flip is delayed until the slide-out
+     transition ends, and removed instantly on show. */
   .sticky-parts {
     position: fixed;
     left: 0;
@@ -66,13 +96,16 @@ const partLabel = part && part.length > 38 ? part.slice(0, 36).trimEnd() + "…"
     bottom: 0;
     z-index: 45;
     transform: translateY(115%);
-    transition: transform 0.25s ease;
+    visibility: hidden;
+    transition: transform 0.25s ease, visibility 0s linear 0.25s;
     background: var(--brand);
     border-top: 2px solid var(--accent);
     box-shadow: 0 -4px 16px rgba(0, 0, 0, 0.18);
   }
   .sticky-parts.visible {
     transform: translateY(0);
+    visibility: visible;
+    transition: transform 0.25s ease;
   }
   @media (min-width: 640px) {
     .sticky-parts {

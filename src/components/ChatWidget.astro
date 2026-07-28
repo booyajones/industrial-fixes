@@ -37,10 +37,13 @@
 <style is:global>
   #chat-widget {
     position: fixed;
-    bottom: 1.5rem;
+    /* --sticky-parts-h is published by StickyPartsBar when its mobile bar is
+       visible, so the FAB rides up instead of colliding with the bar. */
+    bottom: calc(1.5rem + var(--sticky-parts-h, 0px));
     right: 1.5rem;
     z-index: 1000;
     font-family: system-ui, -apple-system, sans-serif;
+    transition: bottom 0.25s ease;
   }
 
   #chat-toggle {
@@ -245,20 +248,20 @@
   #chat-send:disabled { opacity: 0.5; cursor: not-allowed; }
   #chat-send:focus-visible { outline: 2px solid #FCE6DB; outline-offset: 2px; }
 
-  /* Dark mode support */
-  @media (prefers-color-scheme: dark) {
-    #chat-panel { background: #1A2024; border-color: #2A3038; }
-    .chat-messages { background: #0F1418; }
-    .bot-message { background: #2A3038; color: #F4F3EF; }
-    .user-message { background: #C2410C; border: none; color: #fff; }
-    .chat-input-area { background: #1A2024; border-color: #2A3038; }
-    #chat-input { background: #2A3038; border-color: #3A4148; color: #F4F3EF; }
-    #chat-input:focus { border-color: #E6531D; }
-  }
+  /* Dark mode support. The site themes via [data-theme] stamped on <html>
+     (default light, toggle stamps dark) — NOT prefers-color-scheme, which
+     ignored the user's on-site toggle in both directions. */
+  [data-theme="dark"] #chat-panel { background: #1A2024; border-color: #2A3038; }
+  [data-theme="dark"] .chat-messages { background: #0F1418; }
+  [data-theme="dark"] .bot-message { background: #2A3038; color: #F4F3EF; }
+  [data-theme="dark"] .user-message { background: #C2410C; border: none; color: #fff; }
+  [data-theme="dark"] .chat-input-area { background: #1A2024; border-color: #2A3038; }
+  [data-theme="dark"] #chat-input { background: #2A3038; border-color: #3A4148; color: #F4F3EF; }
+  [data-theme="dark"] #chat-input:focus { border-color: #E6531D; }
 
   /* Mobile adjustments */
   @media (max-width: 420px) {
-    #chat-widget { bottom: 1.25rem; right: 1.25rem; }
+    #chat-widget { bottom: calc(1.25rem + var(--sticky-parts-h, 0px)); right: 1.25rem; }
     #chat-panel { width: calc(100vw - 2.5rem); right: 0; }
   }
 </style>

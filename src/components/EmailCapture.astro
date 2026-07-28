@@ -36,7 +36,7 @@ const headline =
 <div class="email-capture-box">
   <div class="email-capture-inner">
     <div class="email-capture-text">
-      <strong>📋 {headline}</strong>
+      <strong>{headline}</strong>
       <span> — free PDF with all common codes, causes, and fixes.</span>
     </div>
     <form
@@ -55,6 +55,10 @@ const headline =
       />
       <button type="submit" class="email-submit">Get Free PDF</button>
     </form>
+    <p class="email-capture-error" role="alert" hidden>
+      Something went wrong sending this — email us directly at
+      <a href="mailto:info@errorcodefixes.com">info@errorcodefixes.com</a>.
+    </p>
   </div>
 </div>
 
@@ -62,8 +66,9 @@ const headline =
   // Progressive enhancement: the plain form POSTs to /api/subscribe (a
   // Cloudflare Pages Function that adds the email to our Resend audience and
   // 303-redirects to /thanks/) as a no-JS fallback. When JS is available we
-  // submit via fetch so the page never reloads, fire the GA4 lead event, then
-  // route to the thank-you page.
+  // submit via fetch and only fire the GA4 lead event + redirect on a
+  // CONFIRMED-OK response — a blind redirect on failure would silently drop
+  // the signup while showing the thank-you page. On failure: inline error.
   (function () {
     function bind() {
       document.querySelectorAll('form[data-ecf-capture]').forEach(function (form) {
@@ -75,16 +80,31 @@ const headline =
           e.preventDefault();
           var catEl = form.querySelector('input[name=ecf_cat]');
           var cat = catEl ? catEl.value : 'industrial';
+          var btn = form.querySelector('button[type=submit]');
+          var err = form.parentElement ? form.parentElement.querySelector('.email-capture-error') : null;
+          if (err) err.hidden = true;
+          if (btn) btn.disabled = true;
           fetch('/api/subscribe', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
             body: JSON.stringify({ email: input.value, ecf_cat: cat }),
-          }).catch(function () {}).finally(function () {
-            if (typeof gtag === 'function') {
-              gtag('event', 'lead_signup', { method: 'email_capture', category: cat });
+          }).then(function (resp) {
+            return resp.json().catch(function () { return {}; }).then(function (d) {
+              return resp.ok && d.ok === true;
+            });
+          }).catch(function () {
+            return false;
+          }).then(function (ok) {
+            if (ok) {
+              if (typeof gtag === 'function') {
+                gtag('event', 'lead_signup', { method: 'email_capture', category: cat });
+              }
+              var redirect = '/thanks/' + (cat && cat !== 'industrial' ? '?cat=' + encodeURIComponent(cat) : '');
+              window.location.href = redirect;
+            } else {
+              if (btn) btn.disabled = false;
+              if (err) err.hidden = false;
             }
-            var redirect = '/thanks/' + (cat && cat !== 'industrial' ? '?cat=' + encodeURIComponent(cat) : '');
-            window.location.href = redirect;
           });
         });
       });
@@ -95,9 +115,11 @@ const headline =
 </script>
 
 <style>
+  /* Token colors only, so the box holds up in both themes (the old hardcoded
+     amber gradient glowed light-mode colors inside dark mode). */
   .email-capture-box {
-    background: linear-gradient(135deg, #fef3c7 0%, #fff8e1 100%);
-    border: 2px solid #f59e0b;
+    background: var(--muted);
+    border: 1px solid var(--border);
     border-radius: 10px;
     padding: 1.25rem 1.5rem;
     margin: 2rem 0;
@@ -109,7 +131,7 @@ const headline =
   }
   .email-capture-text {
     font-size: 0.95rem;
-    color: #1c1917;
+    color: var(--foreground);
     line-height: 1.5;
   }
   .email-capture-form {
@@ -121,13 +143,15 @@ const headline =
     flex: 1;
     min-width: 200px;
     padding: 0.5rem 0.75rem;
-    border: 1px solid #d6d3d1;
+    border: 1px solid var(--border);
     border-radius: 6px;
     font-size: 0.875rem;
+    background: var(--surface);
+    color: var(--foreground);
   }
   .email-submit {
-    background: #92400e;
-    color: white;
+    background: var(--accent);
+    color: #fff;
     border: none;
     border-radius: 6px;
     padding: 0.5rem 1.25rem;
@@ -137,6 +161,22 @@ const headline =
     white-space: nowrap;
   }
   .email-submit:hover {
-    background: #78350f;
+    background: color-mix(in srgb, var(--accent) 88%, var(--foreground));
+  }
+  .email-submit:disabled {
+    opacity: 0.6;
+    cursor: default;
+  }
+  .email-capture-error {
+    margin: 0.6rem 0 0;
+    font-size: 0.85rem;
+    line-height: 1.45;
+    color: var(--danger);
+  }
+  .email-capture-error a {
+    color: var(--danger);
+    font-weight: 600;
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
   }
 </style>

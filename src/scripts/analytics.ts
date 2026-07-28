@@ -1,6 +1,6 @@
 /**
  * GA4 Key Event tracking for errorcodefixes.com
- * Tracks: affiliate_click, chatbot_query, scroll_depth
+ * Tracks: affiliate_click, lead_submit, chatbot_query, scroll_depth
  */
 
 declare function gtag(...args: unknown[]): void;
@@ -67,6 +67,7 @@ function trackAffiliateClicks() {
     // The raw impact.com tracking domain stays on the Impact branch below.
     if (
       href.includes("repairclinic.com") ||
+      href.includes("partselect.com") ||
       href.includes("supplyhouse.com") ||
       href.includes("partstown.com") ||
       href.includes("grainger.com") ||
@@ -103,6 +104,31 @@ function trackAffiliateClicks() {
   });
 }
 
+// QuoteRequest lead capture (QuoteRequest.astro). The form script dispatches
+// ecf:lead-submit only after the /api/quote response is CONFIRMED OK (a raw
+// submit listener would count leads that the backend then dropped), and
+// ecf:lead-error on any failure — so a dead RESEND_API_KEY is discoverable
+// in GA4 instead of silently zeroing the channel. Document-level listeners
+// survive view-transition navigations, same as the click tracker above.
+function trackLeadSubmits() {
+  document.addEventListener("ecf:lead-submit", () => {
+    if (typeof gtag !== "undefined") {
+      gtag("event", "lead_submit", {
+        method: "quote_request",
+        page_location: window.location.pathname,
+      });
+    }
+  });
+  document.addEventListener("ecf:lead-error", () => {
+    if (typeof gtag !== "undefined") {
+      gtag("event", "lead_error", {
+        method: "quote_request",
+        page_location: window.location.pathname,
+      });
+    }
+  });
+}
+
 function trackScrollDepth() {
   const milestones = [25, 50, 75, 90];
   // Reset the fired set on each view-transition navigation so scroll milestones
@@ -135,6 +161,7 @@ function initAnalytics() {
   if (listenersAttached) return;
   listenersAttached = true;
   trackAffiliateClicks();
+  trackLeadSubmits();
   trackScrollDepth();
 }
 
