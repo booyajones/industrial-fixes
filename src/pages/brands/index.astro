@@ -6,9 +6,22 @@ import Footer from "@/components/Footer.astro";
 import { SITE } from "@/config";
 import { NOINDEX_SLUGS } from "@/data/noindex-slugs";
 
-// Consumer brands only. Industrial brand hubs stay generable but are de-linked
-// from this consumer page (P2 quarantine). Order = section order on the page.
+// Industrial-first (2026-07 strategy): industrial/commercial brand hubs lead,
+// consumer appliance brands follow. Only brands with a generated hub page
+// (static list in ./[brand].astro) belong here. Order = section order.
 const BRAND_LIST = [
+  { slug: "fanuc", name: "Fanuc", category: "CNC & Machine Tools" },
+  { slug: "haas", name: "Haas", category: "CNC & Machine Tools" },
+  { slug: "abb", name: "ABB", category: "VFDs & Industrial Automation" },
+  { slug: "yaskawa", name: "Yaskawa", category: "VFDs & Industrial Automation" },
+  { slug: "siemens", name: "Siemens", category: "VFDs & Industrial Automation" },
+  { slug: "allen-bradley", name: "Allen-Bradley", category: "VFDs & Industrial Automation" },
+  { slug: "danfoss", name: "Danfoss", category: "VFDs & Industrial Automation" },
+  { slug: "sew-eurodrive", name: "SEW-Eurodrive", category: "VFDs & Industrial Automation" },
+  { slug: "hoshizaki", name: "Hoshizaki", category: "Ice Machines & Commercial Refrigeration" },
+  { slug: "manitowoc", name: "Manitowoc", category: "Ice Machines & Commercial Refrigeration" },
+  { slug: "rational", name: "Rational", category: "Commercial Kitchen" },
+  { slug: "apc", name: "APC", category: "UPS & Power" },
   { slug: "samsung", name: "Samsung", category: "Appliances" },
   { slug: "lg", name: "LG", category: "Appliances" },
   { slug: "whirlpool", name: "Whirlpool", category: "Appliances" },
@@ -48,8 +61,8 @@ const brandData = BRAND_LIST.map(({ slug, name, category }) => {
 // Group by category
 const categories = [...new Set(BRAND_LIST.map(b => b.category))];
 
-const pageTitle = "Appliance Error Codes by Brand";
-const pageDesc = "Browse appliance error code fix guides by brand. Samsung, LG, Whirlpool, GE, Frigidaire, Maytag, Bosch, KitchenAid and more, with the real cause and the exact OEM part for every code.";
+const pageTitle = "Fault & Error Codes by Brand";
+const pageDesc = "Browse fault and error code fix guides by brand. Industrial and commercial equipment first — Fanuc, ABB, Siemens, Yaskawa, Allen-Bradley, Hoshizaki, APC — plus home appliance brands like Samsung, LG, and Whirlpool.";
 ---
 
 <Layout title={`${pageTitle} | ${SITE.title}`} description={pageDesc}>

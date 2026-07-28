@@ -40,6 +40,9 @@ const BRAND_DISPLAY: Record<string, string> = {
   "siemens": "Siemens",
   "allen-bradley": "Allen-Bradley",
   "danfoss": "Danfoss",
+  "sew-eurodrive": "SEW-Eurodrive",
+  "apc": "APC",
+  "rational": "Rational",
 };
 
 export async function getStaticPaths() {
@@ -51,7 +54,8 @@ export async function getStaticPaths() {
     "kitchenaid", "kenmore", "electrolux", "amana", "navien", "rinnai",
     "carrier", "goodman", "lennox", "trane", "rheem", "york",
     "daikin", "mitsubishi", "fujitsu", "hoshizaki", "manitowoc",
-    "fanuc", "haas", "yaskawa", "abb", "siemens", "allen-bradley", "danfoss"
+    "fanuc", "haas", "yaskawa", "abb", "siemens", "allen-bradley", "danfoss",
+    "sew-eurodrive", "apc", "rational"
   ];
 
   return brands.map(brand => {
@@ -76,7 +80,7 @@ const { posts } = Astro.props;
 // failed part. No competitor surfaces this; it is the link-worthy hook.
 const cheapFixCount = posts.filter(p => p.data.no_buy_pct).length;
 
-const BRAND_GROUP: Record<string, "hvac" | "refrigeration" | "industrial" | "appliance"> = {
+const BRAND_GROUP: Record<string, "hvac" | "refrigeration" | "industrial" | "appliance" | "kitchen" | "power"> = {
   "samsung": "appliance",
   "lg": "appliance",
   "whirlpool": "appliance",
@@ -108,6 +112,9 @@ const BRAND_GROUP: Record<string, "hvac" | "refrigeration" | "industrial" | "app
   "siemens": "industrial",
   "allen-bradley": "industrial",
   "danfoss": "industrial",
+  "sew-eurodrive": "industrial",
+  "apc": "power",
+  "rational": "kitchen",
 };
 
 const brandName = BRAND_DISPLAY[brand] ?? brand;
@@ -118,13 +125,17 @@ const introCopy = {
   appliance: `Use this page when your ${brandName} appliance is showing an error or fault code. Start with the exact code, then open the fix guide to find the real cause and the exact OEM part before you order parts or book a repair. Coverage spans washers, dryers, refrigerators, dishwashers, ranges, ovens and more.`,
   hvac: `Use this page when your ${brandName} furnace, air conditioner, heat pump, or mini split is flashing a fault. Start with the exact code, then open the fix guide to diagnose airflow, ignition, sensor, pressure switch, board, or communication problems before you order parts or book a service call.`,
   refrigeration: `Use this page when your ${brandName} ice machine, reach-in cooler, freezer, or prep table throws an alarm. Start with the exact code, then work through the matching guide for probe faults, defrost issues, water flow problems, warm box alarms, and ice production failures.`,
-  industrial: `Use this page when your ${brandName} drive, CNC, servo, or controls hardware posts an alarm during production. Start with the exact code, then open the fix guide for overloads, encoder faults, communication alarms, power quality issues, and drive or board failures.`
+  industrial: `Use this page when your ${brandName} drive, CNC, servo, or controls hardware posts an alarm during production. Start with the exact code, then open the fix guide for overloads, encoder faults, communication alarms, power quality issues, and drive or board failures.`,
+  kitchen: `Use this page when your ${brandName} combi oven, warewasher, or other commercial kitchen equipment shows a service or error code mid-shift. Start with the exact code, then open the fix guide for probe faults, water and drain problems, heating failures, and control board issues.`,
+  power: `Use this page when your ${brandName} UPS, generator, or power equipment reports a fault or alarm. Start with the exact code, then open the fix guide for battery faults, overload conditions, transfer problems, and inverter or charger failures.`
 }[brandGroup];
 const searchHint = {
   appliance: `Tip: search the exact appliance and code together, for example "${brandName} washer LE" or "${brandName} refrigerator 22E".`,
   hvac: `Tip: search the exact brand, model, and code together, for example "${brandName} error code 13" or "${brandName} pressure switch fault".` ,
   refrigeration: `Tip: search the exact brand, model, and alarm together, for example "${brandName} E2" or "${brandName} freeze cycle timeout".` ,
-  industrial: `Tip: search the exact brand, model, and alarm together, for example "${brandName} F0001" or "${brandName} overcurrent fault".`
+  industrial: `Tip: search the exact brand, model, and alarm together, for example "${brandName} F0001" or "${brandName} overcurrent fault".`,
+  kitchen: `Tip: search the exact brand, model, and code together, for example "${brandName} E13" or "${brandName} not draining".`,
+  power: `Tip: search the exact brand, model, and code together, for example "${brandName} F01" or "${brandName} overload alarm".`
 }[brandGroup];
 ---
 

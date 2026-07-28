@@ -5,55 +5,200 @@ import Footer from "@/components/Footer.astro";
 import { SITE } from "@/config";
 import ApplianceIcon from "@/components/ApplianceIcon.astro";
 
-const APPLIANCES = [
-  { key: "washer", label: "Washer", emoji: "\u{1F9FA}", match: ["washer"] },
-  { key: "dryer", label: "Dryer", emoji: "\u{1F300}", match: ["dryer"] },
-  { key: "refrigerator", label: "Refrigerator", emoji: "\u{1F9CA}", match: ["refrigerator", "freezer"] },
-  { key: "dishwasher", label: "Dishwasher", emoji: "\u{1F37D}️", match: ["dishwasher"] },
-  { key: "range", label: "Range / Oven", emoji: "\u{1F373}", match: ["range", "oven", "cooktop"] },
-  { key: "microwave", label: "Microwave", emoji: "\u{1F4E1}", match: ["microwave"] },
+// Equipment families, INDUSTRIAL FIRST (2026-07 strategy: the site's real
+// human traffic is industrial/commercial techs; consumer appliances are
+// demoted below a "Home appliances" subheading). `match` lists the equipment
+// tokens used by /diagnose-index.json (field `a`). Per-family brand lists are
+// verified non-empty against the generated index (content is frozen, so these
+// are stable); brands without a /brands/ hub page fall back to their tag page
+// so the no-JS path never 404s.
+const BRAND_LABELS: Record<string, string> = {
+  fanuc: "Fanuc", haas: "Haas", mazak: "Mazak", okuma: "Okuma",
+  siemens: "Siemens", heidenhain: "Heidenhain", mitsubishi: "Mitsubishi",
+  yaskawa: "Yaskawa", abb: "ABB", "allen-bradley": "Allen-Bradley",
+  danfoss: "Danfoss", schneider: "Schneider", "sew-eurodrive": "SEW-Eurodrive",
+  carrier: "Carrier", trane: "Trane", daikin: "Daikin", york: "York",
+  "weil-mclain": "Weil-McLain", hoshizaki: "Hoshizaki", manitowoc: "Manitowoc",
+  scotsman: "Scotsman", "ice-o-matic": "Ice-O-Matic", rational: "Rational",
+  hobart: "Hobart", meiko: "Meiko", apc: "APC", generac: "Generac",
+  samsung: "Samsung", lg: "LG", whirlpool: "Whirlpool", ge: "GE",
+  maytag: "Maytag", frigidaire: "Frigidaire", bosch: "Bosch",
+  kenmore: "Kenmore", electrolux: "Electrolux", amana: "Amana",
+};
+
+// Brands with a /brands/<brand>/ hub page (static list in
+// src/pages/brands/[brand].astro). Everything else links to /tags/<brand>/.
+const HUB_BRANDS = new Set([
+  "samsung", "lg", "whirlpool", "ge", "frigidaire", "maytag", "bosch",
+  "kitchenaid", "kenmore", "electrolux", "amana", "carrier", "trane", "york",
+  "daikin", "mitsubishi", "hoshizaki", "manitowoc", "fanuc", "haas", "yaskawa",
+  "abb", "siemens", "allen-bradley", "danfoss", "sew-eurodrive", "apc", "rational",
+]);
+const brandHref = (b: string) => (HUB_BRANDS.has(b) ? `/brands/${b}/` : `/tags/${b}/`);
+
+interface Family {
+  key: string;
+  label: string;
+  icon: string;
+  match: string[];
+  ph: string;
+  brands: string[];
+}
+
+const INDUSTRIAL_FAMILIES: Family[] = [
+  {
+    key: "cnc", label: "CNC & machine tools", icon: "cnc", match: ["cnc"],
+    ph: "e.g. 401, SV0401, 2043, spindle alarm",
+    brands: ["fanuc", "haas", "mazak", "okuma", "siemens", "heidenhain", "mitsubishi", "yaskawa"],
+  },
+  {
+    key: "vfd", label: "VFDs & servo drives", icon: "compressor", match: ["vfd"],
+    ph: "e.g. F0001, OC, F30001, overcurrent",
+    brands: ["abb", "allen-bradley", "yaskawa", "siemens", "danfoss", "schneider", "sew-eurodrive", "mitsubishi"],
+  },
+  {
+    key: "chvac", label: "Chillers & commercial HVAC", icon: "hvac", match: ["chvac"],
+    ph: "e.g. 13, E41, lockout, pressure switch",
+    brands: ["carrier", "trane", "daikin", "york", "mitsubishi", "weil-mclain"],
+  },
+  {
+    key: "ice", label: "Ice machines & refrigeration", icon: "refrigeration", match: ["ice"],
+    ph: "e.g. E1, EC, no ice, freeze cycle",
+    brands: ["hoshizaki", "manitowoc", "scotsman", "ice-o-matic", "carrier"],
+  },
+  {
+    key: "kitchen", label: "Commercial kitchen", icon: "oven", match: ["kitchen"],
+    ph: "e.g. E13, Service 10, not draining",
+    brands: ["rational", "hobart", "meiko"],
+  },
+  {
+    key: "power", label: "UPS & power", icon: "electrical", match: ["power"],
+    ph: "e.g. F01, overload, on battery",
+    brands: ["apc", "generac"],
+  },
 ];
+
+const CONSUMER_FAMILIES: Family[] = [
+  {
+    key: "washer", label: "Washer", icon: "washer", match: ["washer"],
+    ph: "e.g. 5E, OE, F21, won't drain",
+    brands: ["samsung", "maytag", "electrolux", "bosch", "lg", "whirlpool", "ge"],
+  },
+  {
+    key: "dryer", label: "Dryer", icon: "dryer", match: ["dryer"],
+    ph: "e.g. HE, tE, F01, not heating",
+    brands: ["samsung", "lg", "maytag", "amana", "whirlpool"],
+  },
+  {
+    key: "refrigerator", label: "Refrigerator", icon: "refrigerator", match: ["refrigerator", "freezer"],
+    ph: "e.g. 22E, ER FF, not cooling",
+    brands: ["frigidaire", "samsung", "bosch", "lg"],
+  },
+  {
+    key: "dishwasher", label: "Dishwasher", icon: "dishwasher", match: ["dishwasher"],
+    ph: "e.g. E15, LC, won't drain",
+    brands: ["bosch", "whirlpool", "ge", "lg", "maytag", "frigidaire"],
+  },
+  {
+    key: "range", label: "Range / Oven", icon: "range", match: ["range", "oven", "cooktop"],
+    ph: "e.g. F1, F30, not heating",
+    brands: ["maytag", "whirlpool", "frigidaire", "ge", "kenmore", "lg", "samsung"],
+  },
+  {
+    key: "microwave", label: "Microwave", icon: "microwave", match: ["microwave"],
+    ph: "e.g. SE, F3, not heating",
+    brands: ["samsung", "kenmore", "lg"],
+  },
+];
+
+const FAMILIES = [...INDUSTRIAL_FAMILIES, ...CONSUMER_FAMILIES];
 const pageUrl = new URL("/diagnose", SITE.website).href;
 ---
 
 <Layout
-  title={`Diagnose Your Appliance | ${SITE.title}`}
-  description="Tell us your appliance and the error code or symptom, and get the most likely cause, whether it is a DIY fix, and the exact part. Independent and free."
+  title={`Diagnose Equipment Fault Codes | ${SITE.title}`}
+  description="Free fault-code diagnostic for industrial and commercial equipment — CNC alarms, VFD and servo drive faults, chiller, ice machine, and UPS codes — plus home appliances. Pick your equipment and brand, get the likely cause and the fix."
   canonicalURL={pageUrl}
 >
   <Header />
   <main id="main-content" class="app-layout">
+    <script is:inline>
+      // Progressive enhancement flag: with JS, the brand directory collapses
+      // into the interactive picker. Without JS, everything below stays a
+      // plain browsable list (equipment -> brand -> brand code page).
+      document.documentElement.classList.add("dx-js");
+    </script>
+
     <section class="dx-hero">
       <span class="dx-kicker">Free diagnostic tool</span>
-      <h1 class="dx-h1">Diagnose your appliance</h1>
+      <h1 class="dx-h1">Diagnose an equipment fault code</h1>
       <p class="dx-sub">
-        Pick your appliance, then type the error code or what it is doing. We will
-        show the most likely cause, whether it is a DIY fix, and the exact part.
-        Independent. We do not sell parts, so we tell you when not to buy one.
+        Pick your equipment and brand, then type the fault, alarm, or error
+        code. Built for industrial and commercial techs — CNC alarms, VFD and
+        drive faults, chiller, ice machine, and UPS codes — with home
+        appliances covered too. Independent. We do not sell parts, so we tell
+        you when not to buy one.
       </p>
     </section>
 
-    <section class="dx-step" aria-label="Choose appliance">
-      <h2 class="dx-step-h">1. What is broken?</h2>
+    <section class="dx-step" aria-label="Choose equipment">
+      <h2 class="dx-step-h">1. What equipment is faulting?</h2>
+      <div id="dx-families" class="dx-grid dx-grid-ind">
+        {INDUSTRIAL_FAMILIES.map(f => (
+          <button
+            class="dx-appl"
+            type="button"
+            aria-pressed="false"
+            data-key={f.key}
+            data-match={f.match.join(",")}
+            data-ph={f.ph}
+          >
+            <ApplianceIcon name={f.icon} class="dx-icon" />
+            <span>{f.label}</span>
+          </button>
+        ))}
+      </div>
+      <h3 class="dx-sub-h">Home appliances</h3>
       <div id="dx-appliances" class="dx-grid">
-        {APPLIANCES.map(a => (
-          <button class="dx-appl" type="button" aria-pressed="false" data-key={a.key} data-match={a.match.join(",")}>
-            <ApplianceIcon name={a.key} class="dx-icon" />
-            <span>{a.label}</span>
+        {CONSUMER_FAMILIES.map(f => (
+          <button
+            class="dx-appl"
+            type="button"
+            aria-pressed="false"
+            data-key={f.key}
+            data-match={f.match.join(",")}
+            data-ph={f.ph}
+          >
+            <ApplianceIcon name={f.icon} class="dx-icon" />
+            <span>{f.label}</span>
           </button>
         ))}
       </div>
     </section>
 
+    <section id="dx-brand-step" class="dx-step" aria-label="Pick brand">
+      <h2 class="dx-step-h">2. Pick the brand</h2>
+      {FAMILIES.map(f => (
+        <div class="dx-brands" data-family={f.key}>
+          <h3 class="dx-brands-h">{f.label}</h3>
+          <div class="dx-chiprow">
+            {f.brands.map(b => (
+              <a class="dx-chip" href={brandHref(b)} data-brand={b}>{BRAND_LABELS[b] ?? b}</a>
+            ))}
+          </div>
+        </div>
+      ))}
+    </section>
+
     <section id="dx-search-step" class="dx-step" hidden aria-label="Search">
-      <h2 class="dx-step-h">2. What is the error code or symptom?</h2>
+      <h2 class="dx-step-h">3. What is the code or symptom?</h2>
       <div class="dx-search-wrap">
         <input
           id="dx-search"
           type="text"
-          placeholder="e.g. 5E, OE, F21, won't drain, not heating"
+          placeholder="e.g. F0001, alarm 401, OC, won't start"
           autocomplete="off"
-          aria-label="Error code or symptom"
+          aria-label="Fault code or symptom"
         />
       </div>
       <p id="dx-count" class="dx-count" aria-live="polite"></p>
@@ -71,26 +216,35 @@ const pageUrl = new URL("/diagnose", SITE.website).href;
 <script is:inline>
   (function () {
     var INDEX = [];
-    var appl = null;
-    var applMatch = [];
-    var elAppls = document.getElementById("dx-appliances");
+    var famMatch = [];
+    var brand = null;
+    var elFamWraps = [document.getElementById("dx-families"), document.getElementById("dx-appliances")];
+    var elBrandStep = document.getElementById("dx-brand-step");
     var elStep = document.getElementById("dx-search-step");
     var elSearch = document.getElementById("dx-search");
     var elResults = document.getElementById("dx-results");
     var elCount = document.getElementById("dx-count");
 
+    // Brand display names come from the server-rendered chips.
+    var LABELS = {};
+    Array.prototype.forEach.call(document.querySelectorAll(".dx-chip"), function (c) {
+      LABELS[c.getAttribute("data-brand")] = c.textContent;
+    });
+    function brandLabel(b) {
+      return LABELS[b] || (b ? b.charAt(0).toUpperCase() + b.slice(1) : "");
+    }
+
     fetch("/diagnose-index.json")
       .then(function (r) { return r.json(); })
-      .then(function (d) { INDEX = d || []; if (appl) render(); })
+      .then(function (d) { INDEX = d || []; if (brand) render(); })
       .catch(function () { if (elCount) elCount.textContent = "Could not load the index. Try the guides instead."; });
 
-    function brandLabel(b) { return b ? b.charAt(0).toUpperCase() + b.slice(1) : ""; }
-
     function render() {
-      if (!appl) return;
+      if (!famMatch.length || !brand) return;
       var q = (elSearch.value || "").trim().toLowerCase();
       var rows = INDEX.filter(function (x) {
-        if (applMatch.indexOf(x.a) === -1) return false;
+        if (famMatch.indexOf(x.a) === -1) return false;
+        if (x.b !== brand) return false;
         if (!q) return true;
         var hay = ((x.c || "") + " " + (x.t || "") + " " + (x.m || "")).toLowerCase();
         return hay.indexOf(q) !== -1;
@@ -126,15 +280,43 @@ const pageUrl = new URL("/diagnose", SITE.website).href;
       });
     }
 
-    elAppls.addEventListener("click", function (e) {
-      var btn = e.target.closest(".dx-appl");
-      if (!btn) return;
-      appl = btn.getAttribute("data-key");
-      applMatch = (btn.getAttribute("data-match") || appl).split(",");
-      Array.prototype.forEach.call(elAppls.querySelectorAll(".dx-appl"), function (b) {
-        var on = b === btn;
-        b.classList.toggle("active", on);
-        b.setAttribute("aria-pressed", on ? "true" : "false");
+    function pickFamily(btn) {
+      famMatch = (btn.getAttribute("data-match") || btn.getAttribute("data-key")).split(",");
+      brand = null;
+      elFamWraps.forEach(function (wrap) {
+        Array.prototype.forEach.call(wrap.querySelectorAll(".dx-appl"), function (b) {
+          var on = b === btn;
+          b.classList.toggle("active", on);
+          b.setAttribute("aria-pressed", on ? "true" : "false");
+        });
+      });
+      var ph = btn.getAttribute("data-ph");
+      if (ph) elSearch.placeholder = ph;
+      var key = btn.getAttribute("data-key");
+      Array.prototype.forEach.call(elBrandStep.querySelectorAll(".dx-brands"), function (g) {
+        g.classList.toggle("active", g.getAttribute("data-family") === key);
+      });
+      Array.prototype.forEach.call(elBrandStep.querySelectorAll(".dx-chip"), function (c) {
+        c.classList.remove("active");
+      });
+      elBrandStep.classList.add("active");
+      elStep.hidden = true;
+    }
+
+    elFamWraps.forEach(function (wrap) {
+      wrap.addEventListener("click", function (e) {
+        var btn = e.target.closest(".dx-appl");
+        if (btn) pickFamily(btn);
+      });
+    });
+
+    elBrandStep.addEventListener("click", function (e) {
+      var chip = e.target.closest(".dx-chip");
+      if (!chip) return;
+      e.preventDefault();
+      brand = chip.getAttribute("data-brand");
+      Array.prototype.forEach.call(elBrandStep.querySelectorAll(".dx-chip"), function (c) {
+        c.classList.toggle("active", c === chip);
       });
       elStep.hidden = false;
       elSearch.value = "";
@@ -150,7 +332,10 @@ const pageUrl = new URL("/diagnose", SITE.website).href;
   })();
 </script>
 
-<style>
+<style is:global>
+  /* Global on purpose: result cards are injected via innerHTML at runtime,
+     so Astro's scoped [data-astro-cid] selectors would never match them.
+     All selectors are page-unique (dx- prefix / #dx- ids). */
   .dx-hero { padding: 2.5rem 0 1rem; }
   .dx-kicker {
     display: inline-block; font-size: 0.7rem; font-weight: 700; letter-spacing: 0.1em;
@@ -163,21 +348,52 @@ const pageUrl = new URL("/diagnose", SITE.website).href;
   .dx-sub { color: color-mix(in srgb, var(--foreground) 80%, transparent); max-width: 42rem; }
   .dx-step { padding: 1.25rem 0; border-top: 1px solid var(--border); }
   .dx-step-h { font-size: 1.05rem; font-weight: 700; margin: 0 0 0.85rem; }
+  .dx-sub-h {
+    font-size: 0.78rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase;
+    color: color-mix(in srgb, var(--foreground) 55%, transparent);
+    margin: 1.1rem 0 0.6rem;
+  }
   .dx-grid {
     display: grid; gap: 0.6rem;
     grid-template-columns: repeat(2, 1fr);
   }
   @media (min-width: 560px) { .dx-grid { grid-template-columns: repeat(3, 1fr); } }
   @media (min-width: 820px) { .dx-grid { grid-template-columns: repeat(6, 1fr); } }
+  /* Industrial family labels are longer; cap at 3-up so they don't wrap hard. */
+  @media (min-width: 820px) { .dx-grid-ind { grid-template-columns: repeat(3, 1fr); } }
   .dx-appl {
     display: flex; flex-direction: column; align-items: center; gap: 0.4rem;
     padding: 1rem 0.5rem; border: 1px solid var(--border); border-radius: 10px;
     background: var(--background); color: var(--foreground); font-weight: 600; font-size: 0.9rem;
+    text-align: center;
     transition: border-color 0.15s, background 0.15s, transform 0.1s;
   }
   .dx-appl:hover { border-color: var(--accent); background: color-mix(in srgb, var(--accent) 6%, transparent); }
   .dx-appl.active { border-color: var(--brand); background: color-mix(in srgb, var(--brand) 10%, transparent); }
   .dx-icon { color: var(--brand); }
+
+  /* Brand step: a plain browsable directory without JS; with JS (html.dx-js)
+     it collapses and only the picked family's brands show. */
+  .dx-brands { margin-bottom: 0.9rem; }
+  .dx-brands-h {
+    font-size: 0.8rem; font-weight: 700; margin: 0 0 0.45rem;
+    color: color-mix(in srgb, var(--foreground) 60%, transparent);
+  }
+  .dx-chiprow { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+  .dx-chip {
+    display: inline-block; padding: 0.45rem 0.9rem; border: 1px solid var(--border);
+    border-radius: 999px; background: var(--background); color: var(--foreground);
+    font-weight: 600; font-size: 0.88rem; text-decoration: none;
+    transition: border-color 0.15s, background 0.15s;
+  }
+  .dx-chip:hover { border-color: var(--accent); background: color-mix(in srgb, var(--accent) 6%, transparent); }
+  .dx-chip.active { border-color: var(--brand); background: color-mix(in srgb, var(--brand) 10%, transparent); color: var(--brand); }
+  html.dx-js #dx-brand-step { display: none; }
+  html.dx-js #dx-brand-step.active { display: block; }
+  html.dx-js .dx-brands { display: none; margin-bottom: 0; }
+  html.dx-js .dx-brands.active { display: block; }
+  html.dx-js .dx-brands-h { display: none; }
+
   .dx-search-wrap { margin-bottom: 0.5rem; }
   #dx-search {
     width: 100%; padding: 0.85rem 1rem; font-size: 1.05rem; font-family: var(--font-mono);
