@@ -620,12 +620,14 @@ tags:
 # The consumer-appliance play is dead (see CLAUDE.md). Topics that don't match
 # this allowlist are skipped before any API spend.
 INDUSTRIAL_ALLOW = re.compile(
-    r"\b(vfd|drive|inverter|servo|cnc|plc|alarm|fanuc|siemens|sinamics|micromaster"
-    r"|abb|acs\d|yaskawa|danfoss|sew[- ]?eurodrive|movitrac|allen[- ]?bradley|powerflex"
+    r"\b(vfd|inverter drive|servo|cnc|plc|fanuc|siemens|sinamics|micromaster"
+    r"|abb|acs\d+|yaskawa|danfoss|sew[- ]?eurodrive|movitrac|allen[- ]?bradley|powerflex"
     r"|omron|schneider|altivar|lenze|heidenhain|haas|mazak|okuma|mori seiki|fadal|hurco"
-    r"|chiller|cooling tower|compressor|commercial boiler|burner|generac|generator|ups|apc|eaton"
+    r"|chiller|cooling tower|air compressor|commercial boiler|generac industrial"
+    r"|apc (?:smart-?ups|symmetra|ups)|eaton (?:9\w+|ups)"
     r"|hoshizaki|manitowoc|scotsman|ice[- ]?o[- ]?matic|follett|ice machine"
-    r"|rational|hobart|meiko|vulcan|cleveland|combi)\b", re.I)
+    r"|rational|hobart|meiko|vulcan|cleveland|combi oven"
+    r"|alarm \d|fault \d)\b", re.I)
 
 
 def generate_one(topic: str, have: set[str], dry: bool) -> str | None:

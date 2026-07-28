@@ -24,6 +24,14 @@ const NOINDEX_TS = path.join(REPO_ROOT, 'src', 'data', 'noindex-slugs.ts');
 const NOINDEX = new Set(
   (fs.readFileSync(NOINDEX_TS, 'utf8').match(/"[^"]+"/g) || []).map(s => s.slice(1, -1))
 );
+// Fail LOUD if the noindex file ever changes format: a silent empty parse here
+// would re-index the entire pruned farm into the lookup tool and chat worker.
+if (NOINDEX.size < 4000) {
+  throw new Error(
+    `noindex-slugs.ts parse produced only ${NOINDEX.size} slugs (expected ~4,495). ` +
+    `The file format changed — fix the parser before building.`
+  );
+}
 
 /**
  * Parse frontmatter from a markdown string.

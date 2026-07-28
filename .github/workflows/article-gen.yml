@@ -1,7 +1,7 @@
 # Daily demand-driven article generation — ported from the local Windows
 # ECF-Article-Generator scheduled task so it runs in the cloud (no dependency
 # on the EC2 being awake). Mines GSC + Reddit gaps, researches via Perplexity,
-# writes guides via Claude, wires internal links, commits + pushes. The push
+# writes guides via Claude, commits + pushes. The push
 # (made with CONTENT_PUSH_TOKEN, a PAT) triggers the existing
 # "Deploy to Cloudflare Pages" workflow, so new articles go live automatically.
 name: Article Generation (daily)

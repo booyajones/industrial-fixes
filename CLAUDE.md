@@ -36,8 +36,10 @@ sessions/28d) and the growing AI-assistant referral channel.
 3. **Static JSON imports only** in site code — dynamic `await import()` of JSON
    breaks the Cloudflare/esbuild build.
 4. **No fabricated personas or credentials, ever.** Named "technician" authors were
-   scrubbed for honesty (see src/data/authors.ts); outreach from fake personas was
-   deleted 2026-07-28. Marketing copy must only make claims the site can defend.
+   scrubbed for honesty (see src/data/authors.ts). BOTH fake-persona outreach
+   workflows (outreach.yml AND backlink-outreach.yml) and
+   automation/trade_assoc_outreach.py were deleted 2026-07-28 — do not restore
+   any of them. Marketing copy must only make claims the site can defend.
 5. **Verify against live URLs** (curl the production page) before declaring any
    SEO/robots/deploy change done.
 
