@@ -160,12 +160,14 @@ export const onRequestPost = async (ctx: PagesContext<Env>): Promise<Response> =
     if (!ok && request.headers.get("x-ecf-debug") === "1") {
       detail = { upstream: r.status, error: (await r.text()).slice(0, 300) };
     }
+    // NOTE: 500, not 502 — Cloudflare's edge replaces origin 502/504 bodies
+    // with its own "error code: 502" page, which hides this JSON entirely.
     return new Response(JSON.stringify({ ok, ...detail }), {
-      status: ok ? 200 : 502, headers: { "content-type": "application/json" },
+      status: ok ? 200 : 500, headers: { "content-type": "application/json" },
     });
   }
   // No-JS form fallback: only claim success when the email actually went out —
   // a thank-you page over a dropped lead would be a silent lie.
-  if (!ok) return htmlError("We couldn't send your request just now.", 502);
+  if (!ok) return htmlError("We couldn't send your request just now.", 500);
   return redirect();
 };
