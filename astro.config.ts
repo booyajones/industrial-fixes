@@ -26,6 +26,9 @@ export default defineConfig({
         if (!SITE.showArchives && page.endsWith("/archives")) return false;
         // Match https://errorcodefixes.com/posts/<digits>/ but keep /posts/<slug>/
         if (/\/posts\/\d+\/?$/.test(page)) return false;
+        // Tag pages are meta-noindexed (Layout.astro) — listing 650 of them in
+        // the sitemap sends contradictory crawl signals. Keep them out.
+        if (/\/tags\//.test(page)) return false;
         // Quality-consolidation: keep noindexed zero-demand posts OUT of the
         // sitemap so Google crawls the quality core, not the 5,680-page farm.
         const m = page.match(/\/posts\/([^/]+)\/?$/);

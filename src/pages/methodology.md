@@ -5,7 +5,7 @@ title: "Editorial Methodology"
 
 ## How we research, write, and verify every fix guide
 
-We publish 1,288+ brand-and-code-specific guides on errorcodefixes.com.
+We publish 1,100+ brand-and-code-specific guides on errorcodefixes.com.
 Each one passes through the same editorial pipeline. This page documents
 the pipeline in detail because trust matters more than traffic.
 
@@ -24,18 +24,21 @@ If the only source for a code is a forum post or an unattributed blog,
 the guide doesn't get drafted. Anecdotal codes get a placeholder in our
 backlog until we can corroborate against OEM material.
 
-### Step 2 — Field corroboration
+### Step 2 — Corroboration
 
-Our editors collectively have ~50 years of field experience across HVAC,
-commercial refrigeration, CNC controls, VFDs, and commercial kitchen
-equipment. Before publication, the diagnostic steps in each guide are
-cross-checked against:
+Before publication, the diagnostic steps in each guide are cross-checked
+against:
 
-- Their own service-call history for that code.
-- Patterns we see across the industry (e.g. "Carrier code 13 is almost
-  always a dirty filter and an over-rated MERV upgrade" before it
-  becomes anything else).
+- The manufacturer's own documented diagnostic sequence for that code.
+- Documented failure patterns for the platform (service bulletins,
+  authorized-servicer documentation, and widely corroborated technician
+  reports).
 - Wear-out patterns specific to the platform.
+
+Guides are researched and drafted with software assistance and reviewed
+against manufacturer documentation before they are added to the indexable
+library. When a code can't be verified against OEM material, we either say
+so explicitly in the guide or we don't publish it.
 
 ### Step 3 — Specific over generic
 
@@ -100,13 +103,15 @@ revision note inline.
 
 ## Who's behind this
 
-Three credentialed editors lead the editorial work. Full bios + the
-guides they've authored are at the [Editorial Team page](/authors/).
+Guides are published under the **Error Code Fixes Editorial Team** byline.
+We deliberately don't use named personas or claim individual trade
+licenses: the value of a guide comes from the OEM documentation it is
+grounded in and the verification pipeline above, not from a byline you
+can't check. Where a repair legally requires a licensed trade
+(gas, refrigerant, high-voltage), the guide says so and tells you to
+call one.
 
-| Editor | Trade | Credentials |
-|---|---|---|
-| Dana Kowalski | Industrial controls, VFD, CNC | Certified Automation Professional (CAP), ISA |
-| Marcus Webb | HVAC, refrigeration | EPA 608 Universal, NATE Certified |
-| James Rutherford | Commercial kitchen | CFESA Certified, 18+ years field |
+Found an error in a guide? We fix corrections fast — that's the whole
+point of the pipeline.
 
 For corrections, partnership, or press: [info@errorcodefixes.com](mailto:info@errorcodefixes.com)

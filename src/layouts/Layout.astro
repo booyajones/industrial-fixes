@@ -228,6 +228,10 @@ const structuredData = pubDatetime
          Auto-ads still fill once the library loads; any adsbygoogle.push()
          calls queue on window.adsbygoogle until then. Reversible if ad
          viewability/revenue regresses. -->
+    <!-- AdSense only loads on indexable pages: serving ads on the 3,503
+         noindexed farm pages kept the whole farm inside AdSense's "low value
+         content" review scope even after the consolidation noindexed it. -->
+    {!noindex && (
     <script is:inline>
       (function () {
         var loadAds = function () {
@@ -246,6 +250,7 @@ const structuredData = pubDatetime
         }
       })();
     </script>
+    )}
 
     <style is:global>
       /* Collapse unfilled / placeholder AdSense slots so an empty auto-ad never

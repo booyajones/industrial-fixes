@@ -11,7 +11,7 @@ export async function GET() {
     title: SITE.title,
     description: SITE.desc,
     site: SITE.website,
-    items: sortedPosts.map(({ data, id, filePath }) => ({
+    items: sortedPosts.slice(0, 50).map(({ data, id, filePath }) => ({
       link: getPath(id, filePath),
       title: data.title,
       description: data.description,
