@@ -153,7 +153,14 @@ export const onRequestPost = async (ctx: PagesContext<Env>): Promise<Response> =
   const ok = r.ok;
 
   if (wantsJson) {
-    return new Response(JSON.stringify({ ok }), {
+    // Debug passthrough (header-gated): surfaces Resend's status + error text
+    // so a misconfigured sender/key is diagnosable without dashboard access.
+    // Carries no secrets — only the upstream error message.
+    let detail: Record<string, unknown> = {};
+    if (!ok && request.headers.get("x-ecf-debug") === "1") {
+      detail = { upstream: r.status, error: (await r.text()).slice(0, 300) };
+    }
+    return new Response(JSON.stringify({ ok, ...detail }), {
       status: ok ? 200 : 502, headers: { "content-type": "application/json" },
     });
   }
