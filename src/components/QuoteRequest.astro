@@ -17,14 +17,14 @@ const { code } = Astro.props;
 <section class="quote-request" data-pagefind-ignore aria-label="Request a repair quote">
   <h2 class="qr-title">Need this fixed instead? Describe the fault — we'll route it.</h2>
   <p class="qr-sub">
-    Tell us the machine and what it's doing. We read every request and reply by email.
+    Tell us the machine and what it's doing. We read every request and reply by email. Your details go only to our dispatch inbox — see the <a href="/privacy/">privacy policy</a>.
   </p>
   <form class="qr-form" action="/api/quote" method="POST" data-ecf-quote>
     {/* Honeypot: hidden from humans; a filled value marks the POST as a bot. */}
     <div class="qr-hp" aria-hidden="true">
       <label>
         Company
-        <input type="text" name="company" tabindex="-1" autocomplete="off" />
+        <input type="text" name="detail_line2" tabindex="-1" autocomplete="off" />
       </label>
     </div>
     <div class="qr-row">

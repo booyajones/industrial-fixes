@@ -69,7 +69,7 @@ export const onRequestPost = async (ctx: PagesContext<Env>): Promise<Response> =
       email = clean(b.email, 254);
       phone = clean(b.phone, 30);
       zip = clean(b.zip, 10);
-      honeypot = clean(b.company, 100);
+      honeypot = clean(b.detail_line2, 100);
     } else {
       const form = await request.formData();
       equipment = clean(form.get("equipment"), 120);
@@ -78,7 +78,7 @@ export const onRequestPost = async (ctx: PagesContext<Env>): Promise<Response> =
       email = clean(form.get("email"), 254);
       phone = clean(form.get("phone"), 30);
       zip = clean(form.get("zip"), 10);
-      honeypot = clean(form.get("company"), 100);
+      honeypot = clean(form.get("detail_line2"), 100);
     }
   } catch {
     // fall through to validation
@@ -100,7 +100,7 @@ export const onRequestPost = async (ctx: PagesContext<Env>): Promise<Response> =
   }
 
   // Basic validation. Never trust client input.
-  if (!email || !/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)) {
+  if (!email || !/^[^@\s<>,;"]+@[^@\s<>,;"]+\.[^@\s<>,;"]+$/.test(email)) {
     if (!wantsJson) return htmlError("The email address doesn't look valid, and we need it to reply.");
     return new Response(JSON.stringify({ error: "invalid email" }), {
       status: 400, headers: { "content-type": "application/json" },
@@ -119,7 +119,7 @@ export const onRequestPost = async (ctx: PagesContext<Env>): Promise<Response> =
     });
   }
 
-  const referer = request.headers.get("referer") || "";
+  const referer = clean(request.headers.get("referer"), 200);
   const subject = `Quote request: ${equipment}${faultCode ? ` — ${faultCode}` : ""}`;
   const text = [
     "New quote request from errorcodefixes.com",

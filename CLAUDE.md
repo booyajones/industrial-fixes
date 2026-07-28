@@ -67,7 +67,7 @@ sessions/28d) and the growing AI-assistant referral channel.
 
 ## Analytics / accounts
 
-- GA4 property 534919316 (G-083FJXZNP7); use the wyattbot-reader SA, NOT the
-  finexio-automation SA (403). AdSense publisher: pub-8658387753904693.
+- GA4 property 534919316 (G-083FJXZNP7); use the wyattbot-reader SA (the
+  other locally-configured SA gets 403 on this property). AdSense publisher: pub-8658387753904693.
 - Amazon tag: errorcodefixes-20. Skimlinks: 303448X1791493 (amazon links carry
   class="noskim" via rehype plugin so Skimlinks doesn't skim them).

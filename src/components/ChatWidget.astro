@@ -17,7 +17,7 @@
     </div>
     <div class="chat-messages" id="chat-messages" aria-live="polite" aria-atomic="false">
       <div class="chat-message bot-message">
-        Hi! Ask me anything about appliance error codes. Example: &ldquo;What does Samsung washer 5E mean?&rdquo; or &ldquo;How do I fix LG dryer code dE?&rdquo;
+        Hi! Ask me anything about an equipment fault code. Example: &ldquo;What does Fanuc alarm 300 mean?&rdquo; or &ldquo;How do I clear ABB fault 2310?&rdquo;
       </div>
     </div>
     <div class="chat-input-area">
@@ -307,9 +307,16 @@ function initChatWidget() {
     if (e.key === 'Escape' && !panel.hidden) closePanel();
   });
 
-  // Lightweight markdown renderer for bot messages
+  // Lightweight markdown renderer for bot messages.
+  // The worker response is an LLM trust boundary: entity-escape EVERYTHING
+  // first, then apply our own limited markdown -> HTML substitutions, so no
+  // HTML in the model output can reach innerHTML alive.
+  function escapeHtml(s) {
+    return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+  }
   function renderMarkdown(text) {
-    return text
+    return escapeHtml(text)
       // Bold **text**
       .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
       // Numbered lists
@@ -332,6 +339,8 @@ function initChatWidget() {
     }
     // REVENUE: surface the exact replacement part as a monetized CTA at the
     // moment of decision. Uses the same affiliate link as the article page.
+    // Scheme allowlist: the URL comes from the worker (LLM trust boundary).
+    if (part && part.url && !/^https?:\/\//i.test(part.url)) part = null;
     if (part && part.url && part.name) {
       const partWrap = document.createElement('div');
       partWrap.className = 'part-cta';
@@ -345,6 +354,7 @@ function initChatWidget() {
       partWrap.appendChild(pa);
       div.appendChild(partWrap);
     }
+    if (sourceUrl && !/^(https?:\/\/|\/)/i.test(sourceUrl)) sourceUrl = null;
     if (sourceUrl) {
       const linkWrap = document.createElement('div');
       linkWrap.className = 'source-link';
