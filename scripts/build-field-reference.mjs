@@ -362,6 +362,17 @@ function collect() {
     if (String(fm.draft).toLowerCase() === "true") continue;
     const slug = fm.slug || file.replace(/\.md$/, "");
     if (noindex.has(slug)) continue;
+    // A candidate page with a real body but zero parsed tags means the
+    // frontmatter parser lost them (a trailing `# comment` after an inline
+    // array, or a multi-line flow array — neither of which this minimal parser
+    // handles). Downstream that silently drops a real page out of a PAID
+    // product, so make it loud rather than invisible.
+    // `"tags" in fm` matters: a page with no tags key at all is legitimately
+    // untagged and uses the [] fallback below. Only a tags key that FAILED to
+    // become a list indicates the parser lost data.
+    if ("tags" in fm && !Array.isArray(fm.tags) && body.trim().length > 0) {
+      console.warn(`  [warn] ${file}: tags key did not parse as a list (got ${JSON.stringify(fm.tags)}) — its tags are being dropped, so brand/section matching may miss this page. Fix the frontmatter or extend parseFrontmatter().`);
+    }
     const page = {
       slug,
       tags: (Array.isArray(fm.tags) ? fm.tags : []).map(t => t.toLowerCase()),
