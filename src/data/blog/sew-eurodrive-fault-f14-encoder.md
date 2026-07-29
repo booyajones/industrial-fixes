@@ -1,12 +1,12 @@
 ---
-title: "SEW-Eurodrive Fault F14 (Encoder Error): Sub-Codes 25-34, Hiperface, Resolver, and X14/X15 Wiring Checks"
+title: "SEW-Eurodrive Fault F14 (Encoder Error): Sub-Codes 0 and 25-34, Hiperface, Resolver, and X14/X15 Wiring Checks"
 description: "Decode MOVIDRIVE B fault F14 by sub-code: 25 = X15 encoder past 6542 rpm, 28/29 = RS485 errors on X15/X14, 31-33 = Hiperface, 34 = resolver. Plus the cable, shield, and encoder-type checks that actually clear it."
 pubDatetime: 2026-07-28T08:00:00Z
 modDatetime: 2026-07-28T08:00:00Z
 author: "Error Code Fixes Editorial Team"
 slug: sew-eurodrive-fault-f14-encoder
 featured: false
-draft: true
+draft: false
 tags:
   - vfd
   - sew-eurodrive
@@ -32,13 +32,16 @@ That list looks short, but F14 carries an extensive **sub-error code** that iden
 
 You will find the sub-code stored with the fault in the drive's fault memory, readable from the keypad or through MOVITOOLS MotionStudio. Get it before you power anything down.
 
-## F14 sub-codes 25-34: the full table
+## F14 sub-codes: the full table
+
+MOVIDRIVE B documents eleven sub-codes for F14 — 0, then 25 through 34. The connector column below repeats only what SEW's designation actually names; sub-codes 0 and 27 carry no connector in the manual, so do not read one into them.
 
 | Sub-code | Connector | What SEW says it means |
 | --- | --- | --- |
-| 25 | X15 | Speed range exceeded - the encoder is turning faster than 6542 rpm |
-| 26 | X15 | Card defective (quadrant evaluation) |
-| 27 | X14/X15 | Encoder connection faulty or encoder defective |
+| 0 | not specified | Encoder not connected, defective encoder, or defective encoder cable |
+| 25 | X15 | Speed range exceeded - the encoder at X15 turns faster than 6542 rpm |
+| 26 | X15 | Card is defective - error in the quadrant evaluation |
+| 27 | not specified | Encoder connection or encoder is defective |
 | 28 | X15 | RS485 communication error |
 | 29 | X14 | RS485 communication error |
 | 30 | X14/X15 | Unknown encoder type |
@@ -47,8 +50,9 @@ You will find the sub-code stored with the fault in the drive's fault memory, re
 | 33 | X14 | Hiperface encoder error |
 | 34 | X15 | Resolver error |
 
-Read the table in three groups:
+Read the table in four groups:
 
+- **The general case (0):** encoder not connected, defective encoder, or defective encoder cable. This is the sub-code that just tells you the feedback link is gone, and it is worked with the cable, shield, and connector checks below.
 - **Wiring and communication faults (27, 28, 29, 31):** the drive and encoder are losing data between them. Sub-codes 28 and 29 are RS485 communication errors, and the only thing that changes between them is the connector: 28 points at X15, 29 points at X14. Sub-code 31 is a Hiperface plausibility error, meaning the drive detected lost increments - the feedback stream is arriving, but it does not add up. All of these point first at the cable, the shield, and the connectors, not at the encoder.
 - **Encoder hardware faults (32, 33, 34):** the encoder itself is reporting or exhibiting an internal error. 32 is a Hiperface encoder error on X15, 33 is the same on X14, and 34 is a resolver error on X15. Check the wiring anyway - it is free - but these sub-codes are where a replacement encoder becomes the likely outcome.
 - **Configuration and application faults (25, 26, 30):** sub-code 30 means the drive sees an encoder type it does not recognize on X14/X15, which is a setup problem, not a broken part. Sub-code 25 means the encoder on X15 exceeded its speed range of 6542 rpm, which is an application problem: something drove that shaft faster than the feedback system allows. Sub-code 26 flags the X15 card itself as defective in quadrant evaluation, which is an option-card replacement, not an encoder replacement.
@@ -83,7 +87,7 @@ Encoder problems on MOVIDRIVE B do not always announce themselves as F14. Three 
 | F42 | Lag error - positioning following error (immediate disconnection, programmable) | Encoder connected incorrectly is the first documented cause; also short ramps, small P-component, small lag tolerance, blocked mechanics |
 | F36 | Option missing / hardware not permitted (immediate disconnection) | Incorrect encoder type set for the DIP11B absolute encoder card; sub-code 2 = encoder slot error |
 
-**F08 (speed monitoring)** trips when the speed or current controller sits at its set limit. Mechanical overload and a missing supply or motor phase are the headline causes, but a wrong-direction encoder is the sneaky one: if the A/A-bar and B/B-bar pairs are swapped, the drive sees rotation opposite to what it commands, drives harder, and F08 follows almost immediately at enable. SEW's remedy list includes checking the encoder connection, the wiring pairs, and the encoder supply voltage. Speed monitoring is configured in P500/P502 with delay times in P501/P503, and SEW's own footnote is blunt about the safety boundary: deactivating the monitoring or setting the delay too long cannot safely prevent a hoist from sagging. On a hoist axis, fix the fault - never widen the monitoring to make it go away. Sub-code 3 flags the actual-speed system limit exceeded, and sub-code 4 flags the maximum rotating field frequency exceeded (150 Hz in VFC mode, 600 Hz in V/f). We cover the full fault in the [SEW-Eurodrive F08 guide](/posts/sew-eurodrive-fault-f08/).
+**F08 (speed monitoring)** trips when the speed or current controller sits at its set limit. Mechanical overload and a missing supply or motor phase are the headline causes, but a wrong-direction encoder is the sneaky one: if the A/A-bar and B/B-bar pairs are swapped, the drive sees rotation opposite to what it commands, drives harder, and F08 follows almost immediately at enable. SEW's remedy list includes checking the encoder connection, swapping the A/A and B/B pairs if necessary, and checking the encoder voltage supply. On the safety boundary, SEW's footnote to the F08 entry in the MOVITRAC B fault list is blunt: speed monitoring is set by changing parameters 500/502 and 501/503, and the sagging of hoists cannot be avoided safely when monitoring is deactivated or the delay time is set too long. On a hoist axis, fix the fault - never widen the monitoring to make it go away. Sub-code 3 flags the actual-speed system limit exceeded, and sub-code 4 flags the maximum rotating field frequency exceeded (150 Hz in VFC mode, 600 Hz in V/f). We cover the full fault in the [SEW-Eurodrive F08 guide](/posts/sew-eurodrive-fault-f08/).
 
 **F42 (lag error)** is the positioning-mode cousin. The position controller compares commanded position against encoder-reported position, and when the difference exceeds the lag error tolerance, the axis trips. An incorrectly connected encoder is the first cause in SEW's list, ahead of acceleration ramps that are too short, a positioning-controller P-component that is too small, badly set speed controller parameters, a lag tolerance set too tight, and mechanics that are simply blocked. The documented remedies run in the same order: check the encoder connection and the wiring of motor and mains phases, extend the ramps, increase the P-component and the lag error tolerance, reset the speed controller parameters, and confirm the mechanism actually moves freely.
 
@@ -121,6 +125,7 @@ Sub-code 30 means the drive found an unknown encoder type at X14/X15, and F36 co
 
 ## Sources
 
-- Compact Operating Instructions - MOVIDRIVE MDX60B/61B, SEW-Eurodrive document 16920813, Section 6.2.3 Error list. Archived official PDF: https://web.archive.org/web/20130124101658/http://download.sew-eurodrive.com/download/pdf/16920813.pdf
-- MOVITRAC B Operating Instructions, 2009-05, SEW-Eurodrive document 16810813, Section 7.2 List of faults (F-00 - F-113). Archived official PDF: https://web.archive.org/web/20210805131920/https://download.sew-eurodrive.com/download/pdf/16810813.pdf
-- Operating Instructions - MOVIDRIVE MDX60B/61B Inverter, SEW-Eurodrive document 11696613 (manufacturer's canonical source; the SEW download portal was serving a maintenance page at the time of writing): https://download.sew-eurodrive.com/download/pdf/11696613.pdf
+The F14 sub-code table and the F08, F42, and F36 entries on this page were checked against these two SEW-Eurodrive PDFs.
+
+- Compact Operating Instructions - MOVIDRIVE MDX60B/61B, SEW-Eurodrive document 16920813, Section 6.2.3 Error list. Source for the F14 sub-codes (including the 6542 rpm figure at sub-code 25) and for the F08, F36, and F42 entries. Archived official PDF: https://web.archive.org/web/20130124101658/http://download.sew-eurodrive.com/download/pdf/16920813.pdf
+- Operating Instructions V3 - MOVITRAC B, SEW-Eurodrive document 16810813, Section 7.2 List of faults (F-00 - F-113). Source for the hoist-sagging footnote on speed monitoring and for the MOVITRAC B F36 parameter checks (P121 for FBG11B, P120 and P642 for FIO12B). Archived official PDF: https://web.archive.org/web/20210805131920/https://download.sew-eurodrive.com/download/pdf/16810813.pdf

@@ -1,12 +1,12 @@
 ---
 title: "SEW-Eurodrive Fault F01 (Overcurrent): Causes, Sub-Codes, and How to Isolate Drive vs Motor vs Cable"
-description: "SEW-Eurodrive F01 is an output-stage overcurrent trip on MOVIDRIVE B and MOVITRAC B. Decode sub-error codes 0–14, apply the P138 ramp-limit fix, and use one lockout-and-meter session to prove whether the drive, the motor, or the cable is at fault."
+description: "SEW-Eurodrive F01 is an overcurrent trip on MOVIDRIVE B and MOVITRAC B. Decode MOVIDRIVE B sub-error codes 0-14, apply the P138 ramp-limit fix, and use one lockout-and-meter session to prove whether the drive, the motor, or the cable is at fault."
 author: "Error Code Fixes Editorial Team"
 pubDatetime: 2026-07-28T08:00:00Z
 modDatetime: 2026-07-28T08:00:00Z
 slug: sew-eurodrive-fault-f01-overcurrent
 featured: false
-draft: true
+draft: false
 tags:
   - vfd
   - sew-eurodrive
@@ -22,22 +22,21 @@ free_checks:
 
 SEW-Eurodrive fault F01 is **overcurrent in the output stage**. The drive's response is immediate disconnection: the output transistors switch off at once and the drive latches the fault, because the current it measured leaving the output stage exceeded what the hardware can survive. F01 appears across the SEW inverter families — it is listed in the official error tables for both MOVIDRIVE MDX60B/61B and MOVITRAC B.
 
-Per SEW's own error list, F01 has four documented causes:
+The two error lists describe F01 slightly differently, and the difference matters when you are troubleshooting.
 
-1. **Short circuit at the inverter output** — in the motor cable, the terminations, or the motor windings.
-2. **Motor too large for the inverter** — the connected motor exceeds what the drive is rated to feed.
-3. **Defective output stage** — the drive's own power transistors have failed.
-4. **Ramp limit deactivated with too short a ramp time** — the drive gets stuck in its hardware current limit trying to follow an impossible ramp (this is sub-error code 5 on MOVIDRIVE B, and it has a pure parameter fix: activate P138 and/or lengthen the ramp).
+On **MOVIDRIVE MDX60B/61B**, the documented possible causes are: short circuit at the output; motor too large; defective output stage; power supply / current converters; ramp limit deactivated with the set ramp time too short; defective phase module; the 24 V supply (or a 24 V rail derived from it) unstable; and interruption or short circuit on the signal lines from the phase modules. The documented measures are equally short: rectify the short circuit, connect a smaller motor, activate P138 and/or increase the ramp time, and contact SEW Service for advice if the output stage is defective.
 
-Three of those four live outside the parameter set, which is why F01 is fundamentally a *meter* fault, not a *keypad* fault. The job is to prove which of three physical zones failed — drive, motor, or cable — before you spend money on any of them. The good news: one lockout and one test-instrument session settles it.
+On **MOVITRAC B**, the list is shorter and has no sub-error codes: short circuit on output, switching on output (the remedy being to switch only with the output stage inhibited), motor too large, and faulty output stage — with "consult SEW Service if the error cannot be reset" as the last resort. Note that MOVITRAC B does *not* list the ramp-limit/P138 cause, so sub-code 5 reasoning below applies to MOVIDRIVE B only.
+
+Strip out the internal-hardware entries and what is left for a field technician is a short list: a short circuit somewhere in the output path, an oversized motor, or a ramp/parameter problem. That is why F01 is fundamentally a *meter* fault, not a *keypad* fault. The job is to prove which of three physical zones failed — drive, motor, or cable — before you spend money on any of them. One lockout and one test-instrument session settles it.
 
 ## Common Causes
 
 - **Short circuit at the output** — By far the most common field cause. Chafed or crushed motor cable, water or conductive dust in a junction box or the motor terminal box, a failed cable termination, or shorted motor windings. The drive sees a near-zero-impedance load and trips instantly, often the moment you enable.
 - **Motor too large for the inverter** — After a motor swap or a "temporary" substitution, the connected motor draws more than the drive can source. SEW's documented fix is blunt: connect a smaller motor (or fit a correctly sized drive).
-- **Ramp limit off + ramp too short (sub-code 5)** — With the P138 ramp limit deactivated and an aggressive ramp time, the drive slams into its hardware current limit and cannot get out — SEW describes the unit as stuck ("hangs") in the hardware current limit. Nothing is broken; the configuration is asking for current the hardware will not deliver.
+- **Ramp limit off + ramp too short (sub-code 5, MOVIDRIVE B)** — With the P138 ramp limit deactivated and an aggressive ramp time, the inverter remains in its hardware current limit, which is exactly how SEW words the sub-code. Nothing is broken; the configuration is asking for current the hardware will not deliver.
 - **Defective output stage** — A failed power transistor inside the drive. The tell: F01 trips even with the motor cable completely disconnected from the output terminals. This is an SEW Service repair, not a field fix.
-- **Phase-module signal-line interruption (sub-codes 6–14, MOVIDRIVE B)** — Internal monitoring of the individual phase modules detected a problem on phase U, V, W, or a combination. Also hardware, also SEW Service territory.
+- **Phase-module faults (sub-codes 6–12, MOVIDRIVE B)** — VCE or gate-driver undervoltage monitoring, or overcurrent of the current converter, on phase U, V, W, or a combination of them. SEW attributes these to a defective phase module, an unstable 24 V supply, or an interruption/short circuit on the signal lines from the phase modules. Hardware, and SEW Service territory.
 
 ## MOVIDRIVE B F01 sub-error codes
 
@@ -45,12 +44,17 @@ On MOVIDRIVE B, the fault memory stores a sub-error code alongside F01, and it i
 
 | Sub-code | What the drive detected | Where to look first |
 | --- | --- | --- |
-| 0, 1 | Overcurrent in the output stage — the general detection, with no more specific hardware pointer | Work the full drive/motor/cable isolation procedure below |
-| 5 | Unit stuck in the hardware current limit: ramp limit deactivated and ramp time too short | Parameters, not hardware — activate the P138 ramp limit and/or increase the ramp time |
-| 6, 7, 8 | Phase-module VCE/undervoltage monitoring on phase U, V, W respectively | Drive-internal phase module hardware — contact SEW Service |
-| 9–14 | Signal-line interruption to the phase modules, in combinations of phases U/V/W | Drive-internal signal wiring/modules — contact SEW Service |
+| 0 | Output stage | Work the full drive/motor/cable isolation procedure below |
+| 1 | VCE monitoring or undervoltage monitoring of the gate driver | Drive-internal; treat as output-stage hardware after the external path is proven clean |
+| 5 | Inverter remains in the hardware current limit (ramp limit deactivated and set ramp time too short) | Parameters, not hardware — activate P138 and/or increase the ramp time |
+| 6, 7, 8 | VCE/gate-driver undervoltage monitoring, or overcurrent of the current converter, on phase U, V, W respectively | Drive-internal phase module hardware — contact SEW Service |
+| 9, 10, 11, 12 | The same, on phases U+V, U+W, V+W, and U+V+W | Drive-internal phase module hardware — contact SEW Service |
+| 13 | Voltage supply; current converter in "mains operation" status | Check the 24 V supply stability before condemning the unit — SEW lists an unstable 24 V rail as a cause in this family |
+| 14 | MFE signal lines | Drive-internal signal wiring — contact SEW Service |
 
-The split matters: sub-code 5 is a free parameter fix, sub-codes 6–14 are internal hardware you cannot repair in the field, and sub-codes 0/1 are the ones where your meter earns its keep. On MOVITRAC B the fault list carries the same F01 overcurrent definition and causes; work it with the same isolation procedure.
+The split matters: sub-code 5 is a free parameter fix, sub-codes 6–12 and 14 are internal hardware you cannot repair in the field, sub-code 13 is worth a supply-voltage check first, and sub-code 0 is the one where your meter earns its keep.
+
+MOVITRAC B does not publish sub-error codes for F01 at all. Its list is the plain four-cause version quoted above, so on a MOVITRAC B you go straight to the isolation procedure.
 
 ## Step-by-Step Fix: Isolate Drive vs Motor vs Cable {#fix}
 
@@ -62,7 +66,7 @@ The split matters: sub-code 5 is a free parameter fix, sub-codes 6–14 are inte
 
 3. **Lock out, discharge, verify dead.** Then open the drive's output terminals and disconnect the motor cable at the drive end. Inspect while you are in there: carbon tracking, discolored or melted insulation, loose strands bridging terminals, and moisture are all findings, not coincidences.
 
-4. **Test the cable and motor together, then separately.** With the cable disconnected from the drive (never insulation-test into the drive — the test voltage destroys output-stage semiconductors), insulation-test each conductor to ground and conductor-to-conductor. A low reading tells you the fault is downstream of the drive. Now split the system: disconnect the cable at the motor terminal box and test the cable alone, then the motor alone. This is exactly the "megger motor and cable separately" discipline SEW's error list prescribes for ground faults, and it is the step that stops you from replacing a good motor because of a bad cable (or vice versa).
+4. **Test the cable and motor together, then separately.** With the cable disconnected from the drive (never insulation-test into the drive — the test voltage destroys output-stage semiconductors), insulation-test each conductor to ground and conductor-to-conductor. A low reading tells you the fault is downstream of the drive. Now split the system: disconnect the cable at the motor terminal box and test the cable alone, then the motor alone. Testing the two separately is the step that stops you from replacing a good motor because of a bad cable, or vice versa — and it matters here because SEW's F03 remedies branch the same way, sending you to replace the motor, replace the inverter, or eliminate the ground fault in the supply lead depending on which segment is at fault.
 
 5. **Check winding balance.** With the motor isolated, measure phase-to-phase winding resistance (U–V, V–W, W–U) with a low-resistance meter. The three readings should closely match. One leg significantly low suggests shorted turns — a motor rewind or replacement, not a drive problem.
 
@@ -76,7 +80,7 @@ Two neighboring SEW faults share hardware and symptoms with F01, and the meter s
 
 | Code | Meaning (per SEW error list) | Why it belongs in this session |
 | --- | --- | --- |
-| F03 | Ground fault — immediate disconnection. Documented locations: in the motor lead, in the inverter, or in the motor. On MOVITRAC B, the F03 entry also covers overcurrent conditions as in F01. | Your insulation test to ground in step 4 is the F03 diagnostic. A phase-to-ground insulation failure trips F03; a phase-to-phase failure tends toward F01. Same cable, same megger, same disconnect points. If the ground fault is internal to the drive, that unit needs service — do not keep resetting into it. |
+| F03 | Ground fault — immediate disconnection. MOVIDRIVE B documents three locations: in the motor lead, in the inverter, or in the motor, with "eliminate ground fault" and "consult SEW Service" as the measures. MOVITRAC B splits the remedy by location (replace the motor, replace the MOVITRAC B, or eliminate the ground fault in the motor supply lead) and additionally lists overcurrent, referring you to F-01. | Your insulation test to ground in step 4 is the F03 diagnostic, and it is what tells you which of those three branches you are on. If the ground fault is internal to the drive, that unit needs service — do not keep resetting into it. |
 | F04 | Brake chopper fault — immediate disconnection. Documented causes: too much regenerative power, braking resistor circuit interrupted, short circuit in the braking resistor circuit, brake resistance value too high, defective brake chopper; on MOVITRAC B, also ground fault. | The braking resistor circuit is the other high-current power wiring on the drive. While locked out, check the supply cable to the braking resistor for interruption or shorts and verify the resistor's value against SEW's specified technical data — a resistance value that is too high is itself a documented F04 cause. If regenerative energy is the issue, extend the deceleration ramps. A defective internal brake chopper means replacing the drive. |
 
 If you are seeing F01 on some trips and F03 or F04 on others, do not treat them as separate mysteries — they are usually one physical problem (failing insulation, a damaged power circuit) being caught by different monitors depending on the moment of failure.
@@ -93,7 +97,7 @@ If you are seeing F01 on some trips and F03 or F04 on others, do not treat them 
 
 Draw the line at the power terminals. Reading the fault memory, checking P138 and ramp times, and comparing nameplate data are safe for any competent operator. Lockout/tagout, DC bus verification, insulation-resistance testing, and any work inside terminal boxes are for a qualified/licensed electrician — the voltages involved are lethal and megger test voltages will destroy a connected drive.
 
-Call SEW Service (or an SEW-authorized repair shop) when the evidence points inside the unit: F01 with the motor cable disconnected, sub-error codes 6–14 on MOVIDRIVE B, a ground fault that persists with motor and cable removed, or a dead brake chopper. The output stage and phase modules are not field-repairable, and repeatedly resetting a drive into a hard short only converts a repairable fault into a scrapped unit.
+Call SEW Service (or an SEW-authorized repair shop) when the evidence points inside the unit: F01 with the motor cable disconnected, phase-module sub-error codes (6–12 and 14) on MOVIDRIVE B, a ground fault that persists with motor and cable removed, or a dead brake chopper. The output stage and phase modules are not field-repairable, and repeatedly resetting a drive into a hard short only converts a repairable fault into a scrapped unit.
 
 ## Frequently asked questions
 
@@ -119,6 +123,7 @@ The error tables cited below are from the official operating instructions for MO
 
 ## Sources
 
-- *Compact Operating Instructions — MOVIDRIVE MDX60B/61B* (SEW-Eurodrive doc 16920813), Section 6.2.3 Error list: [archived official PDF](https://web.archive.org/web/20130124101658/http://download.sew-eurodrive.com/download/pdf/16920813.pdf)
-- *MOVITRAC B Operating Instructions, 2009-05* (SEW-Eurodrive doc 16810813), Section 7.2 List of faults: [archived official PDF](https://web.archive.org/web/20210805131920/https://download.sew-eurodrive.com/download/pdf/16810813.pdf)
-- *Operating Instructions — MOVIDRIVE MDX60B/61B Inverter* (SEW-Eurodrive doc 11696613), manufacturer's canonical source: [download.sew-eurodrive.com](https://download.sew-eurodrive.com/download/pdf/11696613.pdf) (SEW's download portal was serving a maintenance page at the time of writing; content verified via the archived official PDFs above)
+The F01, F03, and F04 entries, the sub-error code table, and every parameter number on this page were checked against these two SEW-Eurodrive PDFs.
+
+- *Compact Operating Instructions — MOVIDRIVE MDX60B/61B* (SEW-Eurodrive doc 16920813), Section 6.2.3 Error list — source for the F01 sub-error codes 0–14, the F03/F04 entries, and P138: [archived official PDF](https://web.archive.org/web/20130124101658/http://download.sew-eurodrive.com/download/pdf/16920813.pdf)
+- *Operating Instructions V3 — MOVITRAC B* (SEW-Eurodrive doc 16810813), Section 7.2 List of faults (F-00 – F-113) — source for every MOVITRAC B statement on this page: [archived official PDF](https://web.archive.org/web/20210805131920/https://download.sew-eurodrive.com/download/pdf/16810813.pdf)

@@ -1,9 +1,9 @@
 {
-  "updated": "Jun 2026",
+  "updated": "Jul 2026",
   "full": {
     "brands": 17,
-    "codes": 869,
-    "guides": 196
+    "codes": 1005,
+    "guides": 206
   },
   "sample": {
     "brands": [
@@ -116,8 +116,8 @@
         {
           "brand": "SEW-Eurodrive",
           "title": "SEW-Eurodrive (Movitrac / Movidrive)",
-          "codes": 12,
-          "guides": 3,
+          "codes": 89,
+          "guides": 7,
           "models": [
             "SEW"
           ]
@@ -200,11 +200,14 @@
         {
           "brand": "Rational",
           "title": "Rational Combi Ovens",
-          "codes": 57,
-          "guides": 2,
+          "codes": 107,
+          "guides": 5,
           "models": [
             "Commercial Combi Oven",
-            "Rational iCombi Classic & Pro"
+            "Rational iCombi Classic & Pro",
+            "Rational SelfCookingCenter Service Codes",
+            "Rational Service 25",
+            "Rational Service 140.4 and 140.8"
           ]
         },
         {
@@ -225,11 +228,13 @@
         {
           "brand": "APC",
           "title": "APC UPS Systems",
-          "codes": 27,
-          "guides": 2,
+          "codes": 36,
+          "guides": 5,
           "models": [
+            "APC Back",
             "APC Smart",
-            "APC UPS"
+            "APC UPS",
+            "APC Symmetra LX PowerView"
           ]
         },
         {

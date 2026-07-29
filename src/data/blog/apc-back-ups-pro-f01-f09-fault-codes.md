@@ -1,176 +1,214 @@
 ---
 title: "APC Back-UPS Pro F01-F09 Fault Codes: Official Meanings, Beep Patterns, and Fixes"
-description: "Official APC F01-F09 System Fault table for Back-UPS Pro: F01 (on-battery overload) and F02 (output short) are the only user-fixable codes; F03-F09 mean contact APC. Plus beep patterns, the 2-second fault reset, and RBC battery part numbers."
+description: "The official APC F01-F09 System Fault table for Back-UPS Pro, cross-checked against four Schneider Electric sources. F01 and F02 are the only codes with a published user action; F03-F09 are contact-support faults. Plus beep patterns, the 2-second fault reset, and the exact RBC part number per model."
 pubDatetime: 2026-07-28T08:00:00Z
 modDatetime: 2026-07-28T08:00:00Z
 author: "Error Code Fixes Editorial Team"
 slug: apc-back-ups-pro-f01-f09-fault-codes
 featured: false
-draft: true
+draft: false
 tags:
   - apc
   - ups
   - electrical
   - power-quality
-most_likely_cause: "F01: too much load on the Battery Backup outlets during an outage. F02/F04 at power-on: battery connector not fully seated."
-money_part: "Replacement battery cartridge (APCRBC124 for BR1200GI/BR1500GI; APCRBC110/164/165/166 across the BR-MI family)"
+most_likely_cause: "F01: too much load on the Battery Backup outlets at the moment the UPS transferred to battery. F02: a shorted device or damaged cable on the Battery Backup outlets."
+money_part: "Replacement battery cartridge: APCRBC124 (BR1200GI/BR1500GI), APCRBC110 (BR650MI), APCRBC164 (BR900MI), APCRBC165 (BR1300MI), APCRBC166 (BR1600MI)"
 free_checks:
-  - "Reseat the battery connector"
-  - "move non-essential loads off the Battery Backup outlets"
-  - "hold POWER for 2 seconds to clear the fault display"
+  - "Move non-essential equipment off the Battery Backup outlets and onto the surge-only outlets"
+  - "For F02, disconnect everything from the Battery Backup outlets, restart, then reconnect one item at a time"
+  - "After correcting the cause, hold POWER for 2 seconds to clear the fault display"
 ---
 
-## APC Back-UPS Pro F01-F09 — What These Codes Mean
+## APC Back-UPS Pro F01-F09 - What These Codes Mean
 
-When an APC Back-UPS Pro (BR-series) detects a problem it displays **System Fault** on the LCD along with a code from **F01 to F09**. These codes come straight from APC's own System Faults table, which appears in the official manuals for both the international BR1200GI/BR1500GI models (APC document 990-3889B) and the BR650MI/BR900MI/BR1300MI/BR1600MI family (APC document 990-91253B).
+When an APC Back-UPS Pro detects a problem it illuminates a **System Fault** (or, in newer wording, **Detected System Error**) icon on the LCD together with a number from **F01 to F09**.
 
-The single most useful thing to know before you touch anything: **only F01 and F02 have an official user-side corrective action.** For every code from F03 through F09, both APC manuals say the same thing - the fault cannot be corrected by the user, contact APC (Schneider Electric) Technical Support. If the unit is in warranty, replacement is the usual outcome. Knowing that up front saves you an afternoon of unplugging and replugging things that will not change the code.
+The table below is not reconstructed from forum posts. It is cross-checked against four Schneider Electric sources that each publish the same numbering:
+
+- **APC document 990-3889B** (09/2019), the Back-UPS Pro BR1200GI / BR1500GI 230 V installation and operation manual, which calls the section *System Faults*.
+- **APC document 990-91253B**, the Back-UPS Pro BR650MI / BR900MI / BR1300MI / BR1600MI manual, which calls it *Detected System errors*.
+- **Schneider Electric FAQ000264323**, the current support article for Back-UPS Pro BR 1000/1350/1500 MS/MS2 and Back-UPS Pro BN 1100/1350/1375/1400/1500 M2 and M2-CA models.
+- **APC document 990-4994A**, the Back-UPS BX1300LCD-CN / BX1500LCD-CN manual, which prints the same F01-F09 numbering on a non-Pro model (its only wording difference is F05, printed there as "Charger Fault").
+
+The single most useful thing to know before you touch anything: **only F01 and F02 carry a published corrective action.** All three of the Back-UPS Pro sources state, in almost identical words, that errors F03 through F09 cannot be corrected by the user and that you should contact Schneider Electric (APC) technical support. If the unit is in warranty, replacement is the usual outcome. Knowing that up front saves you an afternoon of unplugging things that will not change the code.
+
+One published-erratum note, because it confuses people who read the manual carefully: the 990-3889B System Faults table is introduced with the line "For faults F01 and F02, contact APC Technical Support," yet the same table then prints a user corrective action for F01 and F02 and says F03-F09 cannot be corrected by the user. The BR-MI manual and FAQ000264323 both phrase it the other way round ("Except for errors F01 and F02, contact ... Technical Support"), which is the reading consistent with the table itself.
 
 ## F01-F09 System Fault Reference Table
 
-Compiled from APC documents 990-3889B (BR1200GI/BR1500GI) and 990-91253B (BR650MI/BR900MI/BR1300MI/BR1600MI). Wording differs slightly between the two manuals; both variants are noted where they differ.
+Wording differs slightly between documents; both variants are given where they differ.
 
-| Code | Official fault name | What it means | User-fixable? |
+| Code | Official fault name | What it means | Published user action? |
 | --- | --- | --- | --- |
-| F01 | On-Battery Overload | Load on the Battery Backup outlets exceeded the UPS capacity while running on battery | **Yes** - shed load (see below) |
-| F02 | On-Battery Output Short | Short circuit detected on the output while on battery | **Yes** - isolate the shorted device; if shown at power-on, reseat the battery connector |
-| F03 | On-Battery Xcap Overload | Internal fault | No - contact APC support |
-| F04 | Clamp Short | Internal fault; at power-on it can also indicate the battery is not correctly connected | Reseat the battery and retry once; otherwise contact APC support |
-| F05 | Charge Fault (990-3889B) / Charge Status (990-91253B) | Battery charging circuit fault | No - contact APC support |
-| F06 | Relay Welding | Internal transfer relay contacts have welded | No - contact APC support |
-| F07 | Temperature | Internal over-temperature fault | No - verify ventilation and ambient, then contact APC support |
-| F08 | Fan Fault (990-3889B) / Fan Condition (990-91253B, BR1600MI only in that family) | Cooling fan failure | No - contact APC support |
-| F09 | Internal Fault (990-3889B) / Internal Error (990-91253B) | General internal hardware fault | No - contact APC support |
+| F01 | On-Battery Overload | The load on the Battery Backup outlets exceeded what the UPS could deliver while running on battery | **Yes** - shed load (see below) |
+| F02 | On-Battery Output Short | A short circuit was detected on the output while on battery | **Yes** - isolate the offending load (see below) |
+| F03 | On-Battery Xcap Overload (also printed "XCap") | Internal fault | No - contact APC/Schneider support |
+| F04 | Clamp Short | Internal fault | No - contact APC/Schneider support |
+| F05 | Charge Fault (990-3889B) / Charge Status (990-91253B) / Charge Error (FAQ000264323) | Battery charging circuit fault | No - contact APC/Schneider support |
+| F06 | Relay Welding | Internal transfer relay contacts have welded | No - contact APC/Schneider support |
+| F07 | Temperature | Over-temperature fault | No - contact APC/Schneider support |
+| F08 | Fan Fault (990-3889B) / Fan Condition, for BR1600MI only (990-91253B) | Cooling fan fault | No - contact APC/Schneider support |
+| F09 | Internal Fault (990-3889B) / Internal Error (990-91253B) | General internal hardware fault | No - contact APC/Schneider support |
 
-A detail worth noting for mixed fleets: in the BR-MI family, the F08 fan fault applies only to the BR1600MI, because it is the model in that family with a fan.
+Two model-scope details worth carrying into a mixed fleet:
+
+- In the BR-MI family, 990-91253B prints F08 as **"Fan Condition (for BR1600MI only)"**. On the other three models in that manual the code is not listed.
+- FAQ000264323, covering the BR/BN MS/MS2/M2/M2-CA models, lists F01-F07 and F09 and **omits F08 entirely**, while still stating that errors F03-F09 are not user-correctable.
 
 ## F01: The Overload You Can Actually Fix
 
-F01 means the equipment plugged into the **Battery Backup outlets** drew more than the UPS could deliver at the moment it transferred to battery. The official corrective action from the manual is simple:
+F01 means the equipment plugged into the **Battery Backup outlets** drew more than the UPS could deliver at the moment it transferred to battery. The corrective action published in 990-3889B and 990-91253B is the same three steps:
 
 1. Turn the Back-UPS off.
 2. Disconnect non-essential equipment from the Battery Backup outlets.
 3. Turn the Back-UPS on again.
 
-The classic culprits are laser printers and space heaters. Both draw large surges of current that a small UPS inverter cannot supply, and both belong on the **surge-only outlets** (or a plain wall outlet), never on the battery side. A unit that runs fine on utility power and only faults during an outage is the signature of this failure mode: the wall circuit can source the surge, the inverter cannot.
+The signature of this failure mode is a unit that runs fine on utility power and only faults during an outage: the wall circuit can source a surge that the inverter cannot. High-draw equipment belongs on the **surge-only outlets** or a plain wall outlet. Both manuals make the same point from the other direction in their troubleshooting tables: when the Back-UPS "does not provide the expected amount of backup time," the listed cause is that the Battery Backup outlets are fully or improperly loaded, and the listed fix is to move that equipment to the surge outlets.
 
-If the load is genuinely modest and F01 keeps appearing, count what is actually plugged into the battery side. Monitors, external drives, powered speakers, and desk accessories accumulate. Keep the battery outlets for the computer and anything you need alive long enough to shut down cleanly.
+If the load is genuinely modest and F01 keeps appearing, count what is actually on the battery side. Monitors, external drives, powered speakers and desk accessories accumulate.
 
 ## F02: Output Short - Find the Offending Device
 
-F02 while on battery means the UPS detected a short circuit on its output. The official procedure from the 990-91253B manual:
+F02 while on battery means the UPS detected a short circuit on its output. 990-91253B and FAQ000264323 publish a fuller isolation procedure than the GI manual does:
 
 1. Turn the Back-UPS off.
 2. Disconnect **all** equipment from the Battery Backup outlets.
 3. Turn the Back-UPS on.
-4. Reconnect equipment one item at a time, and note which device (or cable) brings the fault back.
+4. Reconnect equipment one item at a time. If the output trips again, disconnect the device that caused the error.
 
-Failed power supplies and pinched or damaged IEC cords are the usual finds. Swap the suspect cable first, since it is free to test.
+Failed power supplies and pinched or damaged cords are the usual finds. Swap the suspect cable first, since it costs nothing to test.
 
-## F02 or F04 at Power-On: Check the Battery Connector First
+## About F02 or F04 at Power-On: Read the Model Scope Carefully
 
-This is the exception that trips people up. Per Schneider Electric's official FAQ (FAQ000273815), an F02 or F04 shown **when you turn the unit on** - as opposed to during an outage - commonly means the **battery is not correctly connected**. This is common on brand-new units (many ship with the battery connector deliberately disconnected for transport) and after a battery replacement.
+Schneider publishes **FAQ000273815, "F02 or F04 Error Code When Turning on Back-UPS,"** which states that if the battery has not been correctly connected to the UPS, the unit may display an F02 or F04 error code when it is turned on. Its published sequence is:
 
-The sequence Schneider recommends:
+1. Ensure the battery connectors in the Back-UPS are firmly connected to the battery, and try turning it on again.
+2. If it still shows F02 or F04, turn the UPS off and unplug it from the wall socket.
+3. With the power cord removed from the wall, try turning it on again.
+4. If it still displays the error code, contact customer support.
 
-1. Open the battery compartment and firmly reseat the battery connector.
-2. Try turning the unit on again.
-3. If the code persists, try again with the unit unplugged from the wall.
-4. If it still shows F02/F04, contact support - at that point it is a genuine internal fault.
+**The scope matters, and this is where most write-ups go wrong.** Schneider tags that FAQ to the Back-UPS models **BN1350M2, BN1500M2 and BX1500M**. It is not published against the Back-UPS Pro BR-GI or BR-MI families, and neither BR manual lists a battery-connection cause for F02 or F04. In the BR documents F04 is "Clamp Short," flatly listed as not user-correctable.
 
-Do not skip step 1 and assume the unit is dead. A half-seated battery connector reproduces these codes exactly.
+So: if you own a BN or BX unit in that list, the reseat-the-connector step is the documented first move. If you own a BR-series Back-UPS Pro, treat it as a reasonable but undocumented thing to check rather than the official answer, and do not let it stop you from reporting an F04 to support.
+
+What *is* documented for BR units is adjacent and useful:
+
+- 990-91253B states plainly that **"The UPS is shipped with the battery disconnected,"** and the manuals include a "Connect the Battery" installation step. A brand-new unit that will not start is very often simply not connected yet.
+- Both BR manuals list "The internal battery is not connected" as a cause under **"Back-UPS will not switch on,"** with the corrective action "Connect the battery."
+- On the BR-MI models, a disconnected battery has its own distinct indication and is not an F-code at all: **chirps every 2 seconds with the Load Capacity bar flashing.**
 
 ## F03 Through F09: What "Contact Support" Really Means
 
-F03 (Xcap overload), F04 (clamp short, outside the power-on case above), F05 (charge fault), F06 (relay welding), F07 (temperature), F08 (fan), and F09 (internal fault) are all internal hardware failures. Both official manuals state plainly that these cannot be corrected by the user. There are no board-level repairs APC endorses on a Back-UPS Pro, and the chassis is not designed to be opened in the field.
+F03 (Xcap overload), F04 (clamp short), F05 (charge fault), F06 (relay welding), F07 (temperature), F08 (fan) and F09 (internal fault) are internal hardware failures. All three Back-UPS Pro sources state that these cannot be corrected by the user.
 
-Two of them deserve a moment of context before you call:
+One piece of genuine context before you call about **F07 (Temperature)**: confirm the environment first. 990-3889B specifies an operating temperature of **0 to 40 C (32 to 104 F)**, and both manuals instruct that the air vents must not be blocked and that adequate space be allowed for ventilation. A UPS in a closed cabinet, buried under paper, or in direct sunlight is outside its published operating conditions. Fixing that is not APC's listed corrective action for F07, but it is a condition worth correcting regardless before you conclude the hardware has failed.
 
-- **F07 (Temperature):** before writing the unit off, confirm the environment. The BR1200GI/BR1500GI manual specifies operation between 0 and 40 C. A UPS jammed into a closed cabinet, buried under paper, or sitting in direct sunlight can run hot enough to fault. Fix the ventilation and ambient conditions; if F07 returns in a proper environment, it is an internal fault and support is the answer.
-- **F05 (Charge fault):** if this appeared right after you installed a replacement battery, and that battery was a cheap third-party cartridge rather than the specified APC RBC, the battery itself is a suspect. A failed or incompatible replacement battery can present as a charging fault.
+**Safety, in the manufacturer's own words.** The 990-91253B safety section carries a **DANGER** notice headed "HAZARD OF ELECTRIC SHOCK, EXPLOSION, OR ARC FLASH," and states that servicing of batteries should be performed or supervised by personnel knowledgeable about batteries and the required precautions, that a battery can present a risk of electric shock and burns by high short-circuit current, and that failed batteries can reach temperatures exceeding the burn thresholds for touchable surfaces. It closes with "Failure to follow these instructions will result in death or serious injury." The same manual carries a separate **CAUTION** for battery replacement headed "RISK OF HYDROGEN SULPHIDE GAS AND EXCESSIVE SMOKE," which instructs you to replace the battery immediately if the UPS indicates a battery over-temperature condition or if there is evidence of electrolyte leakage: power off the UPS, unplug it from the AC input, disconnect the batteries, and do not operate the UPS until the batteries have been replaced.
 
-**A plain safety note:** a UPS is a line-powered inverter wrapped around a battery. Capacitors inside can hold a charge even with the unit unplugged and the battery out, and the battery itself can source very high short-circuit current. Nothing inside the case beyond the battery door is user-serviceable. If a code in the F03-F09 range persists after the checks above, stop there and contact APC/Schneider support rather than opening the chassis.
+Take that at face value. If a code in the F03-F09 range persists after the checks above, stop and contact APC/Schneider support rather than opening the chassis. Both manuals' service instructions say the same thing: do not return the unit to the dealer, work through troubleshooting, then contact technical support for an RMA.
 
 ## Clearing the Code: The 2-Second Fault Reset
 
-Once a fault has been identified, pressing and holding the **POWER** button for **2 seconds** clears the visual fault indication and returns the unit to standby (Fault Reset, per manual 990-3889B). Two things to understand about this:
+Both manuals document a two-second button hold to clear the fault display:
 
-- It clears the **display**, not the cause. An F01 will come straight back on the next outage if the overload is still plugged in.
-- It is still worth doing after you have corrected the cause (shed the overload, removed the shorted device, reseated the battery), because it returns the unit to a known state before you re-test.
+- 990-3889B calls it **Fault Reset**: with the unit in a fault state, "After a fault has been identified, press POWER to remove the visual indication and return to standby status" (2 seconds).
+- 990-91253B calls it **Status Reset**: "After an error has been detected and identified, press POWER to remove the visual indication and return to standby status" (2 seconds).
+
+Note what both sentences actually say: it removes the *visual indication*. It does not repair anything. An F01 will return on the next outage if the overload is still plugged in. It is still worth doing after you have corrected the cause, because it returns the unit to a known state before you re-test.
 
 ## Beep and Chirp Patterns Decoded
 
-The audible warnings are separate from the F-codes and mostly indicate normal operating conditions, not faults. From the official BR-GI manual:
+The audible warnings are separate from the F-codes, and **they are not the same between the two Back-UPS Pro families.** This is a real difference, not a wording variation, so check which table applies to your unit.
 
-| Sound | Meaning | What to do |
-| --- | --- | --- |
-| Four beeps every 30 seconds | Running on battery - utility power lost or out of range | Save work in progress. Normal behavior, not a fault |
-| Continuous beeping | Low battery - remaining runtime is very low | Save work, exit applications, and shut the OS down promptly |
-| Continuous tone | Battery Backup outlets are overloaded | Disconnect non-essential equipment until the tone stops |
-| Chirps for 1 minute every 5 hours | Battery failed the automatic diagnostic test | Replace the battery |
+BR1200GI / BR1500GI, per 990-3889B:
 
-The 5-hour chirp is the one people live with for months without realizing what it is telling them. It means the battery failed the self-test and should be replaced - and a UPS with a failed battery is just a surge strip with a false sense of security attached.
+| Sound | Meaning |
+| --- | --- |
+| Four beeps every 30 seconds | Running on battery. Consider saving any work in progress |
+| Continuous beeping | Low battery condition and battery runtime is very low. Save work, exit applications, shut down the OS |
+| Continuous tone | Battery Backup outputs are overloaded |
+| Chirps for 1 minute every 5 hours | Battery failed the automatic diagnostic test and should be replaced |
+
+BR650MI / BR900MI / BR1300MI / BR1600MI, per 990-91253B:
+
+| Sound | Meaning |
+| --- | --- |
+| Four beeps every 30 seconds | Running on battery. Consider saving any work in progress |
+| Continuous beeping | Low battery condition and battery runtime is very low |
+| Continuous tone | Battery Backup outputs are overloaded |
+| Chirps every 2 seconds, Load Capacity bar flashing | Battery is disconnected |
+| Continuous chirping, Load Capacity bar and Replace Battery icon alternately flashing | Battery did not pass the automatic diagnostic test and should be replaced as early as possible. Pressing MUTE pauses the chirping |
+
+The failed-self-test chirp is the one people live with for months without realising what it is telling them. A UPS with a failed battery is a surge strip with a false sense of security attached.
 
 ## Replacement Batteries: Use the Specified RBC
 
-Per the manuals, typical battery service life is 3 to 5 years, and heat shortens it. The specified replacement cartridges:
+Both manuals state that the battery typically lasts three to five years, and both name the environmental factors that shorten it: elevated ambient temperatures, poor quality AC power, and frequent short-duration discharges (990-3889B) or frequent outages and elevated temperatures (990-91253B). 990-91253B additionally instructs that the battery be replaced at least every 5 years or at the end of its service life, whichever is earlier.
 
 | Model | Replacement battery cartridge |
 | --- | --- |
 | BR1200GI / BR1500GI | APCRBC124 |
-| BR650MI / BR900MI / BR1300MI / BR1600MI | APCRBC110, APCRBC164, APCRBC165, or APCRBC166 depending on model - check the RBC listed in manual 990-91253B for your exact model |
+| BR650MI | APCRBC110 |
+| BR900MI | APCRBC164 |
+| BR1300MI | APCRBC165 |
+| BR1600MI | APCRBC166 |
 
-Using the specified RBC matters here for a diagnostic reason, not just a warranty one: an off-spec battery can produce charge-circuit faults (F05) and power-on battery-connection errors that look exactly like hardware failure.
+990-3889B also instructs that the used battery be replaced with an APC by Schneider Electric approved battery and delivered to a recycling facility.
 
 ## Why the Unit Transfers to Battery So Often (Sensitivity)
 
-Frequent transfers to battery are not a fault code, but they wear the battery and often precede the F01 call. On the BR1200GI/BR1500GI (230 V models), the transfer thresholds depend on the configured sensitivity setting:
+Frequent transfers are not a fault code, but they wear the battery and often precede the F01 call. On the BR1200GI/BR1500GI, the sensitivity setting (POWER held for six seconds with the unit off) selects the input window the UPS will tolerate before switching to battery:
 
-| Sensitivity | Stays on utility power between |
-| --- | --- |
-| Low | 156-300 Vac |
-| Medium (default) | 176-294 Vac |
-| High | 176-288 Vac |
+| Sensitivity | Stays on utility power between | 990-3889B guidance |
+| --- | --- | --- |
+| Low | 156-300 Vac | Input voltage is extremely low or high. Not recommended for computer loads |
+| Medium (default) | 176-294 Vac | The Back-UPS frequently switches to battery power |
+| High | 176-288 Vac | The connected equipment is sensitive to voltage fluctuations |
 
-Transfer to battery takes at most 10 ms on these models. If your site has chronically sagging or swelling mains and the unit is constantly clicking over to battery, the sensitivity setting is the first thing to review - a unit on High sensitivity in a building with soft voltage will transfer far more often than one on Low. Equipment that is tolerant of wider voltage swings can run at Low sensitivity and save the battery for real outages.
+For reference, the same manual gives the BR1200GI/BR1500GI online input voltage range as 176-294 V and transfer time as **10 ms maximum**. Note APC's own caution above: Low sensitivity is explicitly not recommended for computer loads, so widening the window to stop nuisance transfers is a trade-off, not a free fix.
 
 ## Not a Back-UPS Pro? Other APC Families Report Faults Differently
 
-The F01-F09 scheme is specific to the Back-UPS Pro LCD models. If you searched an F-code and your unit does not match:
+The F01-F09 scheme belongs to the Back-UPS and Back-UPS Pro LCD models. If you searched an F-code and your unit does not match:
 
-- **Smart-UPS (SMT/SMX series):** faults are reported through front-panel LED and beep indications and LCD messages - including Site Wiring Fault detection and internal-fault behavior - per APC operation manual 990-3534F.
-- **Smart-UPS On-Line (SRT series):** the LCD shows text status and alert messages such as "Disconnected Battery," "Replace Battery," "Output Overload," "Site Wiring Fault," and "Power Sys Error" screens, with red-versus-amber backlight indicating severity, per manual 990-9739.
-- **Symmetra LX:** the PowerView display reports plain-text messages with meanings and corrective actions listed in Chapter 4 of manual 990-1546.
+- **Smart-UPS 750/1000/1500/2200/3000 VA (100/120/230 Vac) and 500 VA (100 Vac)**, per operation manual 990-3534F: no F-codes. Faults surface through front-panel LEDs (Online, On Battery, Site Wiring Fault, Replace Battery) plus display messages. An internal fault is handled bluntly: "Do not attempt to use the UPS. Unplug the UPS and have it serviced immediately." A site wiring fault covers missing ground, hot-neutral, polarity reversal and overloaded neutral circuit, is applicable to 120 V units only, and the published action is to have a qualified electrician inspect the building wiring.
+- **Smart-UPS On-Line SRT2200XLA / SRT3000XLA (120 Vac)**, per operation manual 990-9739: plain-text LCD alerts such as "Disconnected Battery," "Replace Battery," "Output Overload," "Site Wiring Fault" and "Power Sys Error - 00100." The backlight encodes severity: red indicates an alarm requiring immediate attention, amber an alarm requiring attention.
+- **Symmetra LX**, per operations manual 990-1546: plain-text PowerView messages, listed with meanings and corrective actions in Chapter 4.
 
-Same manufacturer, entirely different fault vocabulary - do not map a Back-UPS F05 onto a Smart-UPS problem or vice versa.
+Same manufacturer, entirely different fault vocabularies. Do not map a Back-UPS F05 onto a Smart-UPS problem or vice versa.
 
 ## Frequently Asked Questions
 
-### My brand-new Back-UPS Pro shows F02 or F04 the first time I turn it on. Is it defective?
+### My Back-UPS shows F02 or F04 the first time I turn it on. Is it defective?
 
-Probably not. Per Schneider Electric FAQ000273815, F02 or F04 at power-on commonly means the battery is not correctly connected - and new units frequently ship with the battery connector disconnected for transport. Open the battery compartment, seat the connector firmly, and try again. If the code persists even with the unit unplugged from the wall, then contact support.
+Check which model you have first. Schneider's FAQ000273815 says an F02 or F04 at power-on can mean the battery is not correctly connected, and its published fix is to reseat the battery connector, then retry once with the unit unplugged from the wall, then contact support. That FAQ is tagged to the BN1350M2, BN1500M2 and BX1500M models. On a Back-UPS Pro BR unit the manuals do not document that cause, so verify the battery is connected (990-91253B confirms the UPS ships with the battery disconnected) and then treat a persistent F04 as the internal fault the manual says it is.
 
-### Can I clear F03-F09 by unplugging the unit or holding the power button?
+### Can I clear F03-F09 by holding the power button?
 
-Holding POWER for 2 seconds clears the fault display and returns the unit to standby, but for F03-F09 the underlying condition is an internal hardware fault. Both official manuals state these codes cannot be corrected by the user. Expect the code to return, and contact APC/Schneider Technical Support - warranty replacement is the usual resolution.
+Holding POWER for 2 seconds removes the visual fault indication and returns the unit to standby, but that is all it does. For F03-F09 the underlying condition is an internal hardware fault that all three official Back-UPS Pro sources say cannot be corrected by the user. Expect the code to return, and contact technical support.
 
 ### Why do I only see F01 during power outages?
 
-Because F01 is specifically an **on-battery** overload. On utility power, the wall circuit supplies your equipment's surges directly. The moment the UPS transfers to battery, the inverter has to supply everything on the Battery Backup outlets by itself, and if the connected load exceeds the unit's capacity, F01 trips. Move high-draw devices (laser printers, heaters) to the surge-only outlets.
+Because F01 is specifically an **on-battery** overload. On utility power the wall circuit supplies your equipment directly. The moment the UPS transfers to battery, the inverter has to supply everything on the Battery Backup outlets by itself, and if the connected load exceeds capacity, F01 trips. Move high-draw devices to the surge-only outlets.
 
-### What does the chirping once every few hours mean?
+### What does the chirping every few hours mean?
 
-Chirping for about a minute every 5 hours means the battery failed the automatic diagnostic test and should be replaced. Typical service life is 3-5 years per the manual, less in hot environments. Replace with the specified cartridge - APCRBC124 for the BR1200GI/BR1500GI, or the RBC listed for your BR-MI model.
+On a BR1200GI/BR1500GI, chirping for one minute every 5 hours means the battery failed the automatic diagnostic test and should be replaced. On the BR-MI models the failed-test indication is continuous chirping with the Load Capacity bar and Replace Battery icon flashing alternately, while chirps every 2 seconds with the Load Capacity bar flashing means the battery is disconnected. Replace with the cartridge listed for your exact model.
 
 ### Is it worth repairing a Back-UPS Pro that shows F06 or F09?
 
-There is no APC-endorsed field repair for these internal faults, and the chassis contains stored energy that makes DIY board work genuinely hazardous. If the unit is in warranty, APC support handles it, typically by replacement. Out of warranty, weigh the support route against replacement - but do not open the case.
+The manuals publish no field repair for these, and the safety section warns of electric shock, explosion or arc flash hazard and of a battery that can deliver very high short-circuit current. If the unit is in warranty, support handles it. Out of warranty, weigh the support route against replacement, but do not open the case.
 
 ## Sources
 
-- APC Back-UPS Pro BR1200GI/BR1500GI 230V Installation and Operation Manual (APC doc EN 990-3889B, 09/2019) - https://media.distributordatasolutions.com/apc/2020q3/documents/885d73f3aac6f5c1965eb953b67ed231734fdf01.pdf
-- APC Back-UPS Pro BR650MI/BR900MI/BR1300MI/BR1600MI User Manual (APC doc EN 990-91253B) - https://www.battery-direct.fr/Datenblaetter/apc-back-ups-pro-manual.pdf
-- APC Smart-UPS 750/1000/1500/2200/3000 VA 100/120/230 Vac Operation Manual (APC doc 990-3534F) - https://www.sos.state.co.us/pubs/elections/VotingSystems/DVS-DemocracySuite517/documentation/APCSMT1500OpsManual.pdf
-- APC Smart-UPS On-Line SRT2200XLA/SRT3000XLA Operation Manual (APC doc 990-9739) - https://www.fullcompass.com/common/files/32312-APCSmartUPSOnLineSeriesUserManual.pdf
-- APC Symmetra LX User's Manual (APC doc 990-1546, January 2004) - https://unitedpowerups.com/wp-content/uploads/2017/03/SymmetraLX_UsersManual-1.pdf
-- Schneider Electric FAQ FAQ000273815: F02 or F04 Error Code When Turning on Back-UPS - https://www.se.com/us/en/faqs/FAQ000273815/
+Every URL below was retrieved and read while writing this page.
+
+- APC Back-UPS Pro BR1200GI/BR1500GI 230 V Installation and Operation Manual (APC doc EN 990-3889B, 09/2019): https://media.distributordatasolutions.com/apc/2020q3/documents/885d73f3aac6f5c1965eb953b67ed231734fdf01.pdf
+- APC Back-UPS Pro BR650MI/BR900MI/BR1300MI/BR1600MI User Manual (APC doc EN 990-91253B): https://www.battery-direct.fr/Datenblaetter/apc-back-ups-pro-manual.pdf
+- Schneider Electric FAQ000264323, "What are the basic troubleshooting steps for the Back-UPS Pro BR/BN MS/MS2/M2/M2-CA models?": https://www.se.com/us/en/faqs/FAQ000264323/
+- Schneider Electric FAQ000273815, "F02 or F04 Error Code When Turning on Back-UPS" (tagged BN1350M2, BN1500M2, BX1500M): https://www.se.com/us/en/faqs/FAQ000273815/
+- APC Back-UPS BX1300LCD-CN / BX1500LCD-CN User Manual (APC doc 990-4994A), hosted by Schneider Electric: https://download.schneider-electric.com/files?p_Doc_Ref=SPD_JHSH-74ABL6_EN
+- APC Smart-UPS 750/1000/1500/2200/3000 VA 100/120/230 Vac Operation Manual (APC doc 990-3534F): https://www.sos.state.co.us/pubs/elections/VotingSystems/DVS-DemocracySuite517/documentation/APCSMT1500OpsManual.pdf
+- APC Smart-UPS On-Line SRT2200XLA/SRT3000XLA Operation Manual (APC doc 990-9739): https://www.fullcompass.com/common/files/32312-APCSmartUPSOnLineSeriesUserManual.pdf
+- APC Symmetra LX Operations Manual, 200/208/230 V, 4-16 kVA (APC doc 990-1546, January 2004): https://unitedpowerups.com/wp-content/uploads/2017/03/SymmetraLX_UsersManual-1.pdf

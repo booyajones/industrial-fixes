@@ -6,7 +6,7 @@ modDatetime: 2026-07-28T08:00:00Z
 author: "Error Code Fixes Editorial Team"
 slug: sew-eurodrive-fault-f31-tf-th-sensor
 featured: false
-draft: true
+draft: false
 tags:
   - vfd
   - sew-eurodrive
@@ -19,7 +19,7 @@ free_checks:
 
 ## What this code means
 
-SEW-Eurodrive fault F31 is **TF/TH sensor tripped** — the drive's thermal motor protection input has fired. TF is a PTC thermistor and TH is a thermal switch (thermostat), one of which is built into the winding head of most SEW gearmotors. The drive continuously monitors that sensor loop, and F31 means the loop has gone high-resistance or open.
+SEW-Eurodrive fault F31 is **TF/TH sensor tripped** — the drive's thermal motor protection input has fired. In SEW's own words, motor winding temperature "is monitored using TF thermistors or TH bimetallic switches": TF is a thermistor, TH is a bimetallic switch (thermostat). Wired to the drive's sensor input, that loop is monitored by the inverter itself, and no additional monitoring unit is required. F31 means the drive no longer sees a healthy loop.
 
 The catch, and the reason F31 wastes so much troubleshooting time, is that **two completely different problems produce the identical fault**. SEW's own error list gives three causes for F31:
 
@@ -36,14 +36,19 @@ The fault response also differs by drive family, and it matters:
 
 That MOVIDRIVE B default has a practical consequence: an MDX drive fresh out of the box ignores the TF input. If your MOVIDRIVE B is actively tripping on F31, someone set P835 to a tripping response — almost always deliberately, to protect the motor. Do not "fix" the fault by quietly setting P835 back to "No response" unless you have confirmed the motor genuinely has no TF/TH fitted and is protected some other way.
 
-## TF thermistor vs. TH thermostat
+## TF thermistor vs. TH bimetallic switch
 
-Knowing which sensor your motor has tells you what a healthy loop should look like at the meter:
+SEW fits one of two winding-temperature sensors, and knowing which one you have tells you what a healthy loop should look like at the meter:
 
-- **TF (PTC thermistor):** a resistor embedded in the motor windings whose resistance rises steeply once the winding reaches its rated trip temperature. Cool motor = low resistance across the loop. Hot motor (or broken wire) = high resistance or open.
-- **TH (thermostat / thermal switch):** a bimetallic contact in the windings that is closed when the motor is cool and opens at its trip temperature. Cool motor = continuity. Hot motor (or broken wire) = open circuit.
+- **TF (thermistor):** a temperature-dependent resistor sitting in the motor windings. Its resistance climbs sharply once the winding reaches its trip temperature. Cool motor = low resistance across the loop. Hot motor (or broken wire) = high resistance or open.
+- **TH (bimetallic switch):** a bimetallic contact in the windings, closed when the motor is cool and opening at its trip temperature. Cool motor = continuity. Hot motor (or broken wire) = open circuit.
 
 Either way, "open" is what the drive interprets as tripped — which is exactly why a wire that fell off a terminal produces the same F31 as a cooked motor.
+
+Where the loop lands differs by drive family, and this is worth checking before you go hunting for terminals that do not exist on your unit:
+
+- **MOVIDRIVE B (MDX60B/61B):** the sensor connects at **X10:1 (TF1, the KTY+/TF-/TH connection)**, returning to **X10:2 (DGND)**. X10:1 is factory set to "No response" via P835.
+- **MOVITRAC B:** SEW's documented wiring is the **TF output VOTF and the TF input DI05TF**, with binary input DI05TF set to the TF signal. There is no documented X10:1-X10:2 jumper on MOVITRAC B — that provision is specific to MOVIDRIVE B. SEW also notes that TH bimetallic switches can alternatively be wired to 24VIO and a binary input set to "/External fault," in which case an open sensor shows up as an external-fault trip rather than F31.
 
 One measurement rule: **check the sensor loop with a standard multimeter on a resistance range, never with an insulation tester (megger).** Insulation-test voltage belongs on the motor power windings, not on the thermistor circuit — it can damage the sensor. If you megger the motor, disconnect the sensor leads first.
 
@@ -72,7 +77,7 @@ Safety first: the sensor terminals live in the same enclosures as lethal voltage
 The X10:1-X10:2 jumper and the P835 "No response" setting exist for motors that legitimately have no TF/TH fitted. They are not a workaround for a nuisance trip. Do not defeat the thermal sensor when:
 
 - **The drive moves a hoist or any lifting application.** A motor that fails hot on a suspended load is a dropped-load scenario, not an inconvenience.
-- **The motor is in an explosion-rated (Ex/ATEX) zone.** On Ex-rated motors the winding temperature protection is part of the certification. Bridging it can make the installation non-compliant and genuinely dangerous. Stop and involve whoever owns the site's Ex documentation.
+- **The motor is in an explosion-rated (Ex/ATEX) zone.** This is not a judgement call. SEW's startup section for explosion-proof AC asynchronous motors states that a certified safety function is used *in conjunction with temperature sensors in the motor* to provide safe operation in potentially explosive areas, and that the motor must be approved for such operation per its nameplate and EC type examination certificate. The thermistor is part of the certified protection scheme. Bridging it makes the installation non-compliant and genuinely dangerous. Stop and involve whoever owns the site's Ex documentation.
 - **The machine runs unattended** — nights, weekends, remote pump houses. The thermistor is the only thing standing between a cooling failure and a burned-out motor (or worse).
 - **You have not actually confirmed the loop is broken.** If you have not put a meter on the loop, you do not know the motor is not hot.
 
@@ -92,7 +97,7 @@ The practical read: **F11 = drive hot, F31 = motor's own sensor says hot (or its
 
 ## When to Call a Pro
 
-- **The TF/TH itself is dead.** The sensor is embedded in the winding head; it is not a field-replaceable part. A failed sensor on an otherwise good motor means a motor shop visit — and on a motor that has been repeatedly overheated, a rewind-versus-replace decision.
+- **The TF/TH itself is dead.** The sensor sits inside the motor windings, so it is not a field-replaceable part. A failed sensor on an otherwise good motor means a motor shop visit — and on a motor that has been repeatedly overheated, a rewind-versus-replace decision.
 - **The motor has tripped hot more than once for no obvious reason.** Repeated legitimate trips mean an insulation test and a hard look at sizing and duty cycle before the winding fails outright.
 - **Anything involving an Ex-rated motor.** Thermal protection on certified motors is a compliance matter. Get the qualified people in.
 - **You suspect the drive's sensor input.** If the loop measures healthy at the drive terminals with the motor cool and F31 persists, the drive-side input may be at fault — that is a unit-level repair for an SEW-certified technician.
@@ -122,6 +127,7 @@ No. Megger the motor windings if you need to, but disconnect the TF/TH leads fir
 
 ## Sources
 
-- *Compact Operating Instructions — MOVIDRIVE MDX60B/61B* (SEW-Eurodrive document 16920813), Section 6.2.3 Error list — [archived official PDF](https://web.archive.org/web/20130124101658/http://download.sew-eurodrive.com/download/pdf/16920813.pdf)
-- *MOVITRAC B Operating Instructions, 2009-05* (SEW-Eurodrive document 16810813), Section 7.2 List of faults — [archived official PDF](https://web.archive.org/web/20210805131920/https://download.sew-eurodrive.com/download/pdf/16810813.pdf)
-- *Operating Instructions — MOVIDRIVE MDX60B/61B Inverter* (SEW-Eurodrive document 11696613) — [manufacturer's canonical download URL](https://download.sew-eurodrive.com/download/pdf/11696613.pdf) (SEW download portal intermittently unreachable at time of writing; content verified against the archived official PDFs above)
+The F31 causes and responses, the X10:1-X10:2 provision, P835, and the F11/F84 comparisons were checked against these two SEW-Eurodrive PDFs.
+
+- *Compact Operating Instructions — MOVIDRIVE MDX60B/61B* (SEW-Eurodrive document 16920813) — Section 3 wiring diagram for the basic unit (terminal X10:1 "KTY+/TF-/TH connection, connect to X10:2 via TF/TH, factory set to 'No response' (→ P835)") and Section 6.2.3 Error list (F31, F11, F84 entries and sub-codes): [archived official PDF](https://web.archive.org/web/20130124101658/http://download.sew-eurodrive.com/download/pdf/16920813.pdf)
+- *Operating Instructions V3 — MOVITRAC B* (SEW-Eurodrive document 16810813) — Section 4.9 "TF thermistor and TH bimetallic switch," Section 5.10 startup of explosion-proof AC asynchronous motors, and Section 7.2 List of faults (F-00 – F-113) for the MOVITRAC B F31, F11, and F84 entries: [archived official PDF](https://web.archive.org/web/20210805131920/https://download.sew-eurodrive.com/download/pdf/16810813.pdf)

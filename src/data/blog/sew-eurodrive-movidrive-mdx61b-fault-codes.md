@@ -6,7 +6,7 @@ modDatetime: 2026-07-28T08:00:00Z
 author: "Error Code Fixes Editorial Team"
 slug: sew-eurodrive-movidrive-mdx61b-fault-codes
 featured: false
-draft: true
+draft: false
 tags:
   - vfd
   - electrical
@@ -40,7 +40,7 @@ Where the table below shows "(P)," the response is programmable via the P83x err
 
 ## Complete MDX60B/61B fault code table
 
-Compiled from SEW-Eurodrive's official error list (Compact Operating Instructions, section 6.2.3).
+Compiled from SEW-Eurodrive's official error list (Compact Operating Instructions – MOVIDRIVE MDX60B/61B, document 16920813, section 6.2.3).
 
 | Code | Fault | Factory response | Cause and first fix |
 | --- | --- | --- | --- |
@@ -81,11 +81,11 @@ Compiled from SEW-Eurodrive's official error list (Compact Operating Instruction
 | F46 | System bus 2 timeout | Rapid stop (P) | Communication error on system bus CAN2. Check the bus connection. |
 | F47 | System bus 1 timeout | Rapid stop (P) | Communication error on system bus CAN1. Check the bus connection. |
 | F48 | Hardware DRS | Immediate disconnection | Only with the DRS11B synchronous-operation card: faulty master/synchronous encoder signal or hardware. Check encoder signals and wiring; replace the card. |
-| F77 | IPOS control word | No response (P) | Only in IPOSplus: an invalid automatic mode was set by the external control, or an invalid ramp type is selected. Check the serial link and written values; set a valid ramp type (P916). |
+| F77 | IPOS control word | No response (P) | Only in IPOSplus: an attempt was made to set an invalid automatic mode via the external controller, or P916 = BUS RAMP is set. Check the serial connection to the external control and the values it writes. |
 | F78 | IPOS SW limit switch | No response (P) | Programmed target position lies outside the software limit switches. Check the user program and the limit-switch positions. |
-| F79 | Hardware configuration | Immediate disconnection | After a memory card swap, the power rating, voltage, variant, series, version, or option cards no longer match. Use identical hardware or restore the delivery condition (P802 factory setting). |
+| F79 | Hardware configuration | Immediate disconnection | After replacing the memory card, the power rating, rated voltage, variant identification, unit series, application/standard version, or option cards no longer match. Ensure identical hardware or restore the factory setting (P802). |
 | F80 | RAM test | Immediate disconnection | Internal unit fault, RAM defective. Consult SEW Service. |
-| F81 | Start condition | Immediate disconnection | VFC hoist mode only: the motor could not be magnetized correctly in the premagnetizing time (motor power too small versus the inverter, or motor cable cross-section too small). Check startup data, the motor connection, and cable cross-section. |
+| F81 | Start condition | Immediate disconnection | In VFC hoist mode: the motor could not be supplied with the correct amount of current during the premagnetizing time (rated motor power too small in relation to rated inverter power, or motor cable cross-section too small). Check startup data, the inverter-to-motor connection, and cable cross-section. On linear motors (firmware 18 and later) it also means the drive was enabled before the commutation offset was known. |
 | F82 | Open output | Immediate disconnection | VFC hoist mode only: two or all output phases interrupted, or rated motor power too small versus the inverter. Check the motor connection and repeat startup if needed. |
 | F84 | Motor protection | Emergency stop (P) | Motor utilization too high (thermal motor model). Reduce load, extend ramps, allow longer pauses; check P345/P346; select a larger motor if needed. |
 | F86 | Memory module | Immediate disconnection | No memory card or a defective one. Insert and secure the card (tighten the knurled screw) or replace it. |
@@ -113,7 +113,7 @@ Compiled from SEW-Eurodrive's official error list (Compact Operating Instruction
 | F116 | MOVI-PLC timeout | Rapid stop/warning | Communication timeout with the MOVI-PLC controller. Check startup settings and wiring. |
 | F123 | Positioning interruption | Emergency stop (P) | An interrupted positioning move was resumed and the target would be overrun. Run the positioning process through to completion without interruption. |
 | F124 | Ambient conditions | Emergency stop (P) | Ambient temperature above 60 °C. Improve ventilation and cabinet cooling; check filter mats. |
-| F196 | Power section | Immediate disconnection | Internal power-section faults: precharge/discharge control, inverter coupling, mismatched phase modules, control-unit configuration, DC link fan, or implausible DC link voltage measurement per phase. Most sub-codes end at SEW Service or replacement of the coupling/control unit. |
+| F196 | Power section | Immediate disconnection | Internal power-section faults: discharge resistor overload, precharge/discharge control, inverter coupling, different phase modules installed in the unit, control-unit configuration, a faulty DC link fan, or implausible DC link (Uz) voltage measurement on phase R, S, or T. Most sub-codes end at SEW Service or replacement of the inverter coupling, the precharge/discharge control, or the control unit. |
 | F197 | Power supply | Immediate disconnection | Line overvoltage or undervoltage from poor line quality. Check fuses, contactor, and supply configuration. |
 | F199 | DC link charging | Immediate disconnection | The DC link could not charge: precharge overload, too much connected DC link capacitance, or a short in the DC link. Check the DC link connections, especially with multiple units on a shared bus. |
 
@@ -150,7 +150,7 @@ All variants have the same first fixes: extend the deceleration ramps, then chec
 | 3 | "Actual speed" system limit exceeded: speed difference between ramp setpoint and actual value stayed above expected slip for twice the ramp time |
 | 4 | Maximum rotating field speed exceeded (output frequency reached 150 Hz in VFC mode, or 600 Hz in V/f mode) |
 
-On hoists, do not paper over F08 by deactivating speed monitoring (P500/P502) or stretching the delay time (P501/P503): per SEW's own footnote, that cannot safely prevent the hoist from sagging. Find the mechanical or electrical cause.
+On hoists, do not paper over F08 by widening the monitoring. SEW's footnote to the F08 entry in the MOVITRAC B fault list is explicit: speed monitoring is set by changing parameters 500/502 and 501/503, and the sagging of hoists cannot be avoided safely when monitoring is deactivated or the delay time is set too long. Find the mechanical or electrical cause instead.
 
 ### F09 Startup
 
@@ -244,10 +244,11 @@ No. P501/P503 delay time and P500/P502 monitoring exist to catch a drive that ca
 
 ### Are MOVITRAC B fault codes the same as MOVIDRIVE B?
 
-They overlap heavily (F01, F03, F04, F06, F07, F08, F11, and others carry the same names) but the tables are not identical, and some causes differ; for example, MOVITRAC B units with a heat-sink-integrated braking resistor have an extra F11 cause that MOVIDRIVE B does not. Always use the fault table for the product family in front of you.
+They overlap heavily — F01, F03, F04, F06, F07, F08, F11, F31, F34, F44, F82, F84 and others carry the same designations — but the tables are not identical. MOVITRAC B describes its responses differently ("immediate switch-off with inhibit", "stop with inhibit"), it does not publish the MOVIDRIVE B sub-error codes, and several entries genuinely differ: MOVITRAC B lists a ground fault as a possible cause of both F04 and F07, its F03 entry also covers overcurrent conditions (see F-01), and its F11 remedy adds "if a braking resistor is integrated in the heat sink, install the braking resistor externally." Always use the fault table for the product family in front of you.
 
 ## Sources
 
-- Compact Operating Instructions – MOVIDRIVE MDX60B/61B (SEW-Eurodrive document 16920813), Section 6.2.3 "Error list": [archived official PDF](https://web.archive.org/web/20130124101658/http://download.sew-eurodrive.com/download/pdf/16920813.pdf)
-- Operating Instructions – MOVIDRIVE MDX60B/61B Inverter (SEW-Eurodrive document 11696613), manufacturer's canonical source: [download.sew-eurodrive.com](https://download.sew-eurodrive.com/download/pdf/11696613.pdf)
-- MOVITRAC B Operating Instructions 2009-05 (SEW-Eurodrive document 16810813), Section 7.2 "List of faults," used for the MOVITRAC B cross-checks: [archived official PDF](https://web.archive.org/web/20210805131920/https://download.sew-eurodrive.com/download/pdf/16810813.pdf)
+Every code, response, sub-error code, and parameter number on this page was checked line by line against the two SEW-Eurodrive PDFs below.
+
+- *Compact Operating Instructions – MOVIDRIVE MDX60B/61B* (SEW-Eurodrive document 16920813) — Section 6.1 "Error information" (fault memory P080, switch-off responses, reset), Section 6.2 "Error messages and list of errors" (7-segment display sequence, sub-error code display, the full error list in 6.2.3), and Section 6.3 "SEW electronics service": [archived official PDF](https://web.archive.org/web/20130124101658/http://download.sew-eurodrive.com/download/pdf/16920813.pdf)
+- *Operating Instructions V3 – MOVITRAC B* (SEW-Eurodrive document 16810813) — Section 7.2 "List of faults (F-00 – F-113)" and its footnotes, used for every MOVITRAC B comparison on this page: [archived official PDF](https://web.archive.org/web/20210805131920/https://download.sew-eurodrive.com/download/pdf/16810813.pdf)
