@@ -102,7 +102,7 @@ A severely restricted indoor coil (dirty coil, clogged filter) reduces the heat 
 
 | Part | Use | Amazon Link |
 |------|-----|-------------|
-| Outdoor Temperature Sensor (NTC Thermistor) | Replace failed outdoor sensor causing false aux lockout | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-heat-pump-auxiliary-heat-always-on&tag=errorcodefixes-20) |
+| Outdoor Temperature Sensor (NTC Thermistor) | Replace failed outdoor sensor causing false aux lockout | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-auxiliary-heat-always-on&k=Outdoor+Temperature+Sensor+%28NTC+Thermistor%29&tag=errorcodefixes-20) |
 | Refrigerant Manifold Gauge Set | Diagnose refrigerant charge level | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-auxiliary-heat-always-on&k=refrigerant+manifold+gauge+set+heat+pump&tag=errorcodefixes-20) |
 | Defrost Control Board (universal or OEM) | Replace failed defrost initiation board | [View on Amazon](https://www.amazon.com/s?k=Defrost+Control+Board+%28universal+or+OEM%29&tag=errorcodefixes-20) |
 | Honeywell T10 Pro Smart Thermostat | Replace thermostat with misconfigured balance point | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-auxiliary-heat-always-on&k=Honeywell+T10+Pro+smart+thermostat+heat+pump&tag=errorcodefixes-20) |

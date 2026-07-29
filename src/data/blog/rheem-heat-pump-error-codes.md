@@ -74,7 +74,7 @@ This guide covers the four most common Rheem heat pump error codes and what to d
 6. Replace the sensor. Outdoor coil sensors are typically inexpensive (under $25) and straightforward to replace — the hardest part is routing the new wire through the outdoor unit cabinet.
 
 **Parts:**
-- [Rheem Outdoor Coil Sensor / NTC Thermistor](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-rheem-heat-pump-error-codes&tag=errorcodefixes-20)
+- [Rheem Outdoor Coil Sensor / NTC Thermistor](https://www.amazon.com/s?ascsubtag=ecf-rheem-heat-pump-error-codes&k=Rheem+Outdoor+Coil+Sensor+%2F+NTC+Thermistor&tag=errorcodefixes-20)
 
 ---
 
@@ -99,7 +99,7 @@ This guide covers the four most common Rheem heat pump error codes and what to d
 
 **Parts:**
 - [High Pressure Switch for R-410A Heat Pump](https://www.amazon.com/dp/B013IHQ8CU?ascsubtag=ecf-rheem-heat-pump-error-codes&tag=errorcodefixes-20)
-- [Condenser Fan Motor Capacitor 5/45 MFD](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-rheem-heat-pump-error-codes&tag=errorcodefixes-20)
+- [Condenser Fan Motor Capacitor 5/45 MFD](https://www.amazon.com/s?ascsubtag=ecf-rheem-heat-pump-error-codes&k=Rheem+Condenser+Fan+Motor+Capacitor+5%2F45+MFD&tag=errorcodefixes-20)
 
 ---
 

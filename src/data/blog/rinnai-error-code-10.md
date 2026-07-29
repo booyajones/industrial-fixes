@@ -57,7 +57,7 @@ This is one of the most frequently searched Rinnai fault codes and covers a spec
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|-------------|
-| Rinnai Combustion Fan Motor | $80–$150 | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-rinnai-error-code-10&tag=errorcodefixes-20) |
+| Rinnai Combustion Fan Motor | $80–$150 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-error-code-10&k=Rinnai+Combustion+Fan+Motor&tag=errorcodefixes-20) |
 | Rinnai Condensate Trap / Drain Kit | $15–$30 | [View on Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-rinnai-error-code-10&tag=errorcodefixes-20) |
 | Rinnai Differential Pressure Switch | $25–$55 | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-rinnai-error-code-10&tag=errorcodefixes-20) |
 | Rinnai Heat Exchanger (primary) | $300–$600+ | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-error-code-10&k=Rinnai+heat+exchanger+tankless+primary&tag=errorcodefixes-20) |

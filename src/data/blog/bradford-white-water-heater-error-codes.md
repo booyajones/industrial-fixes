@@ -79,7 +79,7 @@ Electric models use a simple reset system:
 | Part | Notes |
 |---|---|
 | [Thermopile](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-water-heater-error-codes&k=Thermopile&tag=errorcodefixes-20) | Match model — Bradford White uses 36" leads on most models |
-| [Temperature sensor](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-bradford-white-water-heater-error-codes&tag=errorcodefixes-20) | NTC thermistor — model-specific resistance |
+| [Temperature sensor](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-water-heater-error-codes&k=Bradford+White+Temperature+sensor&tag=errorcodefixes-20) | NTC thermistor — model-specific resistance |
 | [Igniter](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-water-heater-error-codes&k=Igniter&tag=errorcodefixes-20) | Check spark gap (3/16" typical) |
 | [High-limit thermostat](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-water-heater-error-codes&k=High-limit+thermostat&tag=errorcodefixes-20) | Match temp rating to tank specification |
 | [Heating element](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-water-heater-error-codes&k=Heating+element&tag=errorcodefixes-20) | Check wattage and voltage rating |

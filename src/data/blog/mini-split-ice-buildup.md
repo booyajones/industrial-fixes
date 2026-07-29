@@ -107,7 +107,7 @@ If the indoor fan motor is failing, it may run slower than intended or not at al
 
 **The fix:** A bad fan motor needs replacement. This requires accessing the motor behind the evaporator assembly, which involves removing the housing, disconnecting wiring, and replacing the motor and sometimes the fan wheel.
 
-[Replacement mini-split fan motor on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-mini-split-ice-buildup&tag=errorcodefixes-20)
+[Replacement mini-split fan motor on Amazon](https://www.amazon.com/s?ascsubtag=ecf-mini-split-ice-buildup&k=Ice+Replacement+mini-split+fan+motor+on+Amazon&tag=errorcodefixes-20)
 
 ## 8. Restricted or Kinked Refrigerant Lines
 
@@ -127,7 +127,7 @@ The refrigerant lines connecting the indoor and outdoor units are relatively thi
 - [Replacement air filters](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-mini-split-ice-buildup&tag=errorcodefixes-20)
 - [Condensate drain cleaning tablets](https://www.amazon.com/s?ascsubtag=ecf-mini-split-ice-buildup&k=condensate+drain+cleaner+tablets&tag=errorcodefixes-20)
 - [Mini-split coil cleaner](https://www.amazon.com/s?ascsubtag=ecf-mini-split-ice-buildup&k=mini+split+coil+cleaner+spray&tag=errorcodefixes-20)
-- [Indoor fan motor](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-mini-split-ice-buildup&tag=errorcodefixes-20)
+- [Indoor fan motor](https://www.amazon.com/s?ascsubtag=ecf-mini-split-ice-buildup&k=Ice+Indoor+fan+motor&tag=errorcodefixes-20)
 
 ---
 

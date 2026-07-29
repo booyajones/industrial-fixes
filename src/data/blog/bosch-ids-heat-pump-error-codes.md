@@ -107,7 +107,7 @@ These point to problems with incoming power quality or the inverter drive board:
 
 | Part | Use | Amazon Link |
 |------|-----|-------------|
-| NTC Temperature Sensor (10kΩ) | Replace failed E1/E2/E3 sensors | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-bosch-ids-heat-pump-error-codes&tag=errorcodefixes-20) |
+| NTC Temperature Sensor (10kΩ) | Replace failed E1/E2/E3 sensors | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-ids-heat-pump-error-codes&k=NTC+Temperature+Sensor+%2810k%CE%A9%29&tag=errorcodefixes-20) |
 | HVAC Refrigerant Manifold Gauge Set | Diagnose E4/E5 pressure faults | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-ids-heat-pump-error-codes&k=HVAC+manifold+gauge+set+refrigerant&tag=errorcodefixes-20) |
 | Low Voltage Thermostat Wire 18/5 | Replace communication wiring for E6/E7 | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-ids-heat-pump-error-codes&k=18+5+thermostat+wire+low+voltage&tag=errorcodefixes-20) |
 | Coil Fin Comb and Coil Cleaner | Clean outdoor coil for E4 and F2 faults | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-ids-heat-pump-error-codes&k=HVAC+coil+fin+comb+cleaner&tag=errorcodefixes-20) |

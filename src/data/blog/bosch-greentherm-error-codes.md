@@ -74,7 +74,7 @@ This guide covers the four most common Greentherm fault codes and what to do whe
 5. Fan motor replacement on the Greentherm 9000/9800 is a moderate DIY repair. The motor is accessible after removing the front cover and combustion air tube.
 
 **Parts:**
-- [Bosch Greentherm Fan Motor Replacement](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-bosch-greentherm-error-codes&tag=errorcodefixes-20)
+- [Bosch Greentherm Fan Motor Replacement](https://www.amazon.com/s?ascsubtag=ecf-bosch-greentherm-error-codes&k=Bosch+Greentherm+Fan+Motor+Replacement&tag=errorcodefixes-20)
 
 ---
 
@@ -124,8 +124,8 @@ This guide covers the four most common Greentherm fault codes and what to do whe
 | Part | Typical Cost | Where to Buy |
 |------|-------------|-------------|
 | Flame Sensor / Igniter Electrode | $30–$60 | [Amazon](https://www.amazon.com/s?k=Flame+Sensor+%2F+Igniter+Electrode&tag=errorcodefixes-20) |
-| Fan Motor Assembly | $150–$280 | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-bosch-greentherm-error-codes&tag=errorcodefixes-20) |
-| Outlet Temperature Sensor (NTC) | $20–$45 | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-bosch-greentherm-error-codes&tag=errorcodefixes-20) |
+| Fan Motor Assembly | $150–$280 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-greentherm-error-codes&k=Bosch+Fan+Motor+Assembly&tag=errorcodefixes-20) |
+| Outlet Temperature Sensor (NTC) | $20–$45 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-greentherm-error-codes&k=Bosch+Outlet+Temperature+Sensor+%28NTC%29&tag=errorcodefixes-20) |
 | Gas Valve | $180–$300 | [View on Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-bosch-greentherm-error-codes&tag=errorcodefixes-20) |
 
 ---

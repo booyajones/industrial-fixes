@@ -55,7 +55,7 @@ The Carrier Infinity XC21 is a variable-capacity heat pump that communicates wit
 | High-pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-xc21-error-codes&tag=errorcodefixes-20) \| Replace if Code 24 persists with clean coil and correct charge |
 | Condenser fan motor | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-carrier-xc21-error-codes&tag=errorcodefixes-20) \| Replace if not spinning or spinning slow; test capacitor first |
 | Outdoor unit control board | [Amazon](https://www.amazon.com/s?k=Outdoor+unit+control+board&tag=errorcodefixes-20) \| For persistent Code 11 or Code 45 after wiring confirmed |
-| Discharge temperature sensor | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-carrier-xc21-error-codes&tag=errorcodefixes-20) \| For Code 25 or Code 31 with correct refrigerant conditions |
+| Discharge temperature sensor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-xc21-error-codes&k=Carrier+Discharge+temperature+sensor&tag=errorcodefixes-20) \| For Code 25 or Code 31 with correct refrigerant conditions |
 ## When to Call a Pro
 
 Refrigerant diagnosis and handling on the XC21 requires EPA 608 certification. The variable-capacity compressor inverter also requires specialized knowledge — do not attempt to measure inverter output with a standard multimeter. An Infinity-trained Carrier technician can connect to the system via the thermostat diagnostics to see real-time compressor speed, pressures, and temperatures without opening the refrigerant circuit.

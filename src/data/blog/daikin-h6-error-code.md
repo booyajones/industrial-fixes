@@ -55,7 +55,7 @@ This code applies to Daikin's wall-mount, floor console, ceiling cassette, and d
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|-------------|
-| Daikin Indoor Fan Motor (BLDC or AC) | $100–$250 | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-daikin-h6-error-code&tag=errorcodefixes-20) |
+| Daikin Indoor Fan Motor (BLDC or AC) | $100–$250 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-h6-error-code&k=Daikin+Indoor+Fan+Motor+%28BLDC+or+AC%29&tag=errorcodefixes-20) |
 | Run Capacitor (fan motor, various uF) | $8–$25 | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-daikin-h6-error-code&tag=errorcodefixes-20) |
 | Daikin Indoor Control Board (PCB) | $120–$350 | [Amazon](https://www.amazon.com/s?k=Daikin+Indoor+Control+Board+%28PCB%29&tag=errorcodefixes-20) |
 | Capacitance Meter / Multimeter | $20–$60 | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-daikin-h6-error-code&tag=errorcodefixes-20) |

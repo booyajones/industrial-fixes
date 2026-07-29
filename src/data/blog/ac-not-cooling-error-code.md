@@ -55,7 +55,7 @@ A frozen evaporator from low airflow can look exactly like a refrigerant problem
 | Filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ac-not-cooling-error-code&k=Filter&tag=errorcodefixes-20) \| First check on any no-cooling call |
 | Run capacitor | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-ac-not-cooling-error-code&tag=errorcodefixes-20) \| Frequent root cause on standard split systems |
 | Contactor | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-ac-not-cooling-error-code&tag=errorcodefixes-20) \| Burned contacts cause compressor issues |
-| Temperature sensor | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-ac-not-cooling-error-code&tag=errorcodefixes-20) \| Common on inverter and mini split gear |
+| Temperature sensor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-ac-not-cooling-error-code&k=Temperature+sensor&tag=errorcodefixes-20) \| Common on inverter and mini split gear |
 | Coil cleaner | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ac-not-cooling-error-code&k=Coil+cleaner&tag=errorcodefixes-20) \| Needed for real condenser cleaning |
 | Manifold gauges | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ac-not-cooling-error-code&k=Manifold+gauges&tag=errorcodefixes-20) \| Required for proper refrigerant diagnosis |
 ## When to Call a Pro

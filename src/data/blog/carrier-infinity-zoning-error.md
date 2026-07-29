@@ -76,7 +76,7 @@ Confirm each damper has a unique address. Duplicate addresses cause communicatio
 |------|-------|
 | Infinity zone controller | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-infinity-zoning-error&k=Infinity+zone+controller&tag=errorcodefixes-20) \| Replace on repeated zone controller faults |
 | Zone damper actuator | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-infinity-zoning-error&k=Zone+damper+actuator&tag=errorcodefixes-20) \| Replace on damper fault or stuck blade |
-| Zone temperature sensor | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-carrier-infinity-zoning-error&tag=errorcodefixes-20) \| Replace on sensor fault |
+| Zone temperature sensor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-infinity-zoning-error&k=Carrier+Zone+temperature+sensor&tag=errorcodefixes-20) \| Replace on sensor fault |
 | Infinity bus cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-infinity-zoning-error&k=Infinity+bus+cable&tag=errorcodefixes-20) \| Replace on communication errors |
 ## Jump to Fix
 

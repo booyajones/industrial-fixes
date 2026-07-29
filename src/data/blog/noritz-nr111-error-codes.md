@@ -58,6 +58,6 @@ Code 90 is logged when the unit detects repeated combustion failures not attribu
 | Flow sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-nr111-error-codes&k=Flow+sensor&tag=errorcodefixes-20) \| Clean turbine before replacing |
 | Igniter/flame rod | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-nr111-error-codes&k=Igniter%2Fflame+rod&tag=errorcodefixes-20) \| Check gap: 3.5–4mm |
 | Gas valve | [View on Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-noritz-nr111-error-codes&tag=errorcodefixes-20) \| Test coil resistance (8–12 ╬⌐ typical) |
-| Fan motor | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-noritz-nr111-error-codes&tag=errorcodefixes-20) \| Match model voltage and RPM |
+| Fan motor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-nr111-error-codes&k=Noritz+Fan+motor&tag=errorcodefixes-20) \| Match model voltage and RPM |
 | Heat exchanger | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-nr111-error-codes&k=Heat+exchanger&tag=errorcodefixes-20) \| Last resort — descale first |
 > **Pro tip:** Noritz NR111 units in cascade configurations (up to 16 units) can be monitored via the EZ Link controller. Fault codes for all units display on the controller — check here before visiting individual units.

@@ -77,7 +77,7 @@ The outdoor fan motor has failed or is not reaching the commanded speed. The YXV
 | Part | Use | Buy on Amazon |
 |------|-----|---------------|
 | Reversing Valve Solenoid Coil (24V, York compatible) | Replace failed solenoid for Fault 4-2 | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-york-yxv-heat-pump-error-codes&k=reversing+valve+solenoid+coil+24v+heat+pump&tag=errorcodefixes-20) |
-| 10K NTC Outdoor Temperature Sensor | Replace ambient or coil sensor for Faults 2-3, 2-4 | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-york-yxv-heat-pump-error-codes&tag=errorcodefixes-20) |
+| 10K NTC Outdoor Temperature Sensor | Replace ambient or coil sensor for Faults 2-3, 2-4 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-york-yxv-heat-pump-error-codes&k=10K+NTC+Outdoor+Temperature+Sensor&tag=errorcodefixes-20) |
 | HVAC Digital Manifold Gauge Set (R-410A) | Check refrigerant pressures for low/high pressure faults | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-york-yxv-heat-pump-error-codes&k=r410a+manifold+gauge+set+digital+hvac&tag=errorcodefixes-20) |
 | HVAC Coil Fin Comb (multi-pitch) | Straighten bent fins after coil cleaning | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-york-yxv-heat-pump-error-codes&k=hvac+coil+fin+comb+straightener&tag=errorcodefixes-20) |
 | Fluke 116 HVAC Multimeter | Measure voltage, amperage, and sensor resistance | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-york-yxv-heat-pump-error-codes&tag=errorcodefixes-20) |

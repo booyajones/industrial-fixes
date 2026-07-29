@@ -205,7 +205,7 @@ Mix 1 cup of undiluted white vinegar and pour it into the indoor unit drain pan 
 |------|----------------|-------------|
 | [Friedrich Indoor Coil Thermistor (E1/E8 sensor)](https://www.amazon.com/s?ascsubtag=ecf-friedrich-mini-split-error-codes&k=Friedrich+mini+split+coil+thermistor+sensor&tag=errorcodefixes-20) | Replaces indoor coil or defrost temperature sensor | $15-$30 |
 | [Friedrich Outdoor Ambient Thermistor (E3/E4)](https://www.amazon.com/s?ascsubtag=ecf-friedrich-mini-split-error-codes&k=Friedrich+mini+split+outdoor+thermistor&tag=errorcodefixes-20) | Replaces outdoor temperature sensor | $12-$25 |
-| [Indoor ECM Fan Motor (F4)](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-friedrich-mini-split-error-codes&tag=errorcodefixes-20) | Replaces failed indoor blower motor | $120-$220 |
+| [Indoor ECM Fan Motor (F4)](https://www.amazon.com/s?ascsubtag=ecf-friedrich-mini-split-error-codes&k=Indoor+ECM+Fan+Motor+%28F4%29&tag=errorcodefixes-20) | Replaces failed indoor blower motor | $120-$220 |
 | [Outdoor Fan Motor (F6)](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-friedrich-mini-split-error-codes&tag=errorcodefixes-20) | Replaces failed condenser fan motor | $90-$180 |
 | [Friedrich Indoor Control Board](https://www.amazon.com/s?k=Friedrich+Indoor+Control+Board&tag=errorcodefixes-20) | Replaces failed indoor PCB (F5 after wiring confirmed) | $120-$250 |
 | [Friedrich Outdoor Control Board / IPM](https://www.amazon.com/s?k=Friedrich+Outdoor+Control+Board+%2F+IPM&tag=errorcodefixes-20) | Replaces failed outdoor PCB or inverter module | $200-$450 |

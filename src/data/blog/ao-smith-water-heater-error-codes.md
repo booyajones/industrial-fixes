@@ -95,7 +95,7 @@ Scale buildup is the leading cause in hard water areas:
 | Part | Notes |
 |---|---|
 | [Thermopile](https://www.amazon.com/s?ascsubtag=ecf-ao-smith-water-heater-error-codes&k=Thermopile&tag=errorcodefixes-20) | Match lead length — most ProLine models use 36" |
-| [Temperature sensors](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-ao-smith-water-heater-error-codes&tag=errorcodefixes-20) | NTC thermistor — model-specific |
+| [Temperature sensors](https://www.amazon.com/s?ascsubtag=ecf-ao-smith-water-heater-error-codes&k=Temperature+sensors&tag=errorcodefixes-20) | NTC thermistor — model-specific |
 | [Condensate trap](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-ao-smith-water-heater-error-codes&tag=errorcodefixes-20) | Check and clean on Vertex condensing models |
 | [Pressure relief valve](https://www.amazon.com/s?ascsubtag=ecf-ao-smith-water-heater-error-codes&k=Pressure+relief+valve&tag=errorcodefixes-20) | Replace if weeping — match BTU rating |
 | [Anode rod](https://www.amazon.com/s?ascsubtag=ecf-ao-smith-water-heater-error-codes&k=Anode+rod&tag=errorcodefixes-20) | Replace every 3–5 years — extends tank life |

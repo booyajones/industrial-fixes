@@ -92,8 +92,8 @@ Code 162 (compressor fault) means the iQ Drive tried to start the compressor but
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| [Lennox Outdoor Temperature Sensor 10W91](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-lennox-xp25-heat-pump-error-codes&tag=errorcodefixes-20) | Replace on sensor faults 140, 141; clips to coil or bracket | $20–$45 |
-| [Lennox Line Temperature Sensor 47W83](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-lennox-xp25-heat-pump-error-codes&tag=errorcodefixes-20) | Discharge, suction, and liquid line sensors; faults 144, 145, 146 | $20–$45 |
+| [Lennox Outdoor Temperature Sensor 10W91](https://www.amazon.com/s?ascsubtag=ecf-lennox-xp25-heat-pump-error-codes&k=Lennox+Outdoor+Temperature+Sensor+10W91&tag=errorcodefixes-20) | Replace on sensor faults 140, 141; clips to coil or bracket | $20–$45 |
+| [Lennox Line Temperature Sensor 47W83](https://www.amazon.com/s?ascsubtag=ecf-lennox-xp25-heat-pump-error-codes&k=Lennox+Line+Temperature+Sensor+47W83&tag=errorcodefixes-20) | Discharge, suction, and liquid line sensors; faults 144, 145, 146 | $20–$45 |
 | [Lennox XP25 Control Board](https://www.amazon.com/s?k=Lennox+XP25+Control+Board&tag=errorcodefixes-20) | Main outdoor board; required for persistent code 170 or EEV driver faults | $200–$450 |
 | [High Pressure Switch for Lennox Heat Pump](https://www.amazon.com/dp/B013IHQ8CU?ascsubtag=ecf-lennox-xp25-heat-pump-error-codes&tag=errorcodefixes-20) | Trips on code 125; test continuity before replacing | $25–$60 |
 | [iComfort S30 Smart Thermostat](https://www.amazon.com/s?ascsubtag=ecf-lennox-xp25-heat-pump-error-codes&k=Lennox+iComfort+S30+thermostat&tag=errorcodefixes-20) | Required for full fault code visibility on the XP25 | $200–$350 |

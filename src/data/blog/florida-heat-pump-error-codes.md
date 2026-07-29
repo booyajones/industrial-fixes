@@ -71,7 +71,7 @@ FHP units manufactured after 2015 may show Bosch Thermotechnology branding. The 
 | Part | Notes |
 |---|---|
 | [High/low pressure switch](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-florida-heat-pump-error-codes&tag=errorcodefixes-20) | Match refrigerant and trip pressure |
-| [Temperature sensor](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-florida-heat-pump-error-codes&tag=errorcodefixes-20) | 10K NTC thermistor — FHP part 02531-016 |
+| [Temperature sensor](https://www.amazon.com/s?ascsubtag=ecf-florida-heat-pump-error-codes&k=Florida+Heat+Pump+Temperature+sensor&tag=errorcodefixes-20) | 10K NTC thermistor — FHP part 02531-016 |
 | [TXV assembly](https://www.amazon.com/s?ascsubtag=ecf-florida-heat-pump-error-codes&k=TXV+assembly&tag=errorcodefixes-20) | Match capacity and refrigerant type |
 | [DDC control board](https://www.amazon.com/s?k=DDC+control+board&tag=errorcodefixes-20) | FHP/Bosch part — match model number |
 | [ECA accessory board](https://www.amazon.com/s?ascsubtag=ecf-florida-heat-pump-error-codes&k=ECA+accessory+board&tag=errorcodefixes-20) | For advanced controls and monitoring |

@@ -127,6 +127,35 @@ COMMERCIAL_BRANDS = {
 # industrial pages; only the label needs to be honest.
 TOOL_ASINS = {"B08ZJSN5X3"}  # clamp meter / multimeter
 
+# ASINs whose asin_map aliases contradict each other, so the broadest alias
+# silently mislabels the product. B09FFFPF5L is keyed BOTH as a "defrost
+# termination thermostat" and as a bare "temperature sensor" - but a defrost
+# thermostat is a bimetal snap switch and an NTC thermistor is a variable
+# resistor. They are not substitutable at all, so every thermistor / ambient-
+# sensor row that inherited that alias is the wrong part. Likewise B0D2L5NSMM is
+# keyed as a "condenser fan motor" and as a bare "fan motor", which then landed
+# on mini-split indoor ECM fans and tankless combustion blowers.
+#
+# Keep the deeplink ONLY where the part named matches the ASIN's true identity;
+# otherwise the part is effectively unknown and CLAUDE.md hard don't #2 applies
+# ("Unknown part -> search URL or no link"). The bad alias keys are removed from
+# asin_map.json in the same change so nothing re-inherits them.
+# Third element is a disqualifier list: device nouns that, if present, mean the
+# row names something OTHER THAN (or IN ADDITION TO) this product, so the
+# deeplink is not a verified single-part match even though a marker hit. Without
+# it, "Condenser Fan Motor Capacitor 5/45 MFD" matches "condenser fan" and keeps
+# a fan-motor deeplink on a row selling a capacitor.
+AMBIGUOUS_ASINS: dict[str, tuple[str, tuple[str, ...], tuple[str, ...]]] = {
+    "B09FFFPF5L": ("defrost termination thermostat",
+                   ("defrost termination", "defrost sensor", "defrost thermostat"),
+                   ("heater", "motor", "valve", "capacitor", "board", "relay",
+                    "fuse", "gasket", "compressor")),
+    "B0D2L5NSMM": ("condenser / outdoor fan motor",
+                   ("condenser fan", "outdoor fan"),
+                   ("capacitor", "relay", "board", "switch", "fuse", "contactor",
+                    "belt", "blade", "thermostat", "sensor", "compressor")),
+}
+
 # Tags are unreliable on this corpus: allen-bradley-powerflex-525-fault-f003 is
 # tagged only [hvac, error-codes] despite being a three-phase VFD page. Slug +
 # title are always specific, so they get a second, independent vote. Every
@@ -307,6 +336,23 @@ def brand_for(title: str, tags: list[str]) -> str:
     return ""
 
 
+def identity_matches(asin: str, part_name: str) -> bool:
+    """Does the part named on the page match what this ASIN actually is?
+
+    Only meaningful for AMBIGUOUS_ASINS, whose asin_map keys disagree with each
+    other. An empty part name cannot be shown to match, so it is a mismatch -
+    fail toward a search rather than toward a possibly-wrong product.
+    """
+    _identity, markers, disqualifiers = AMBIGUOUS_ASINS[asin]
+    norm = re.sub(r"[^a-z0-9 ]", " ", part_name.lower())
+    norm = re.sub(r"\s+", " ", norm)
+    if not any(mk in norm for mk in markers):
+        return False
+    # A marker hit is necessary but not sufficient: a row naming a second device
+    # ("Condenser fan motor + capacitor") cannot be satisfied by one product.
+    return not any(dq in norm for dq in disqualifiers)
+
+
 def part_name_for(line: str, anchor: str, link_md: str) -> str:
     """The part this link is actually about."""
     stripped = line.strip()
@@ -408,6 +454,27 @@ def selftest() -> int:
         "heater (e.g., 915146)*",
         "debris scrub stops at escaped char",
     ))
+    # ASIN-identity check: keep the deeplink only when the part named matches
+    # what the ASIN actually is, per asin_map's own most specific keys.
+    for asin, name, want, label in [
+        ("B09FFFPF5L", "Defrost termination thermostat", True, "identity: defrost thermostat keeps"),
+        ("B09FFFPF5L", "NTC Temperature Sensor (Inlet)", False, "identity: NTC thermistor converts"),
+        ("B09FFFPF5L", "Outdoor ambient temperature sensor", False, "identity: ambient sensor converts"),
+        ("B0D2L5NSMM", "Condenser fan motor (1/5 HP)", True, "identity: condenser fan keeps"),
+        ("B0D2L5NSMM", "Rinnai Combustion Fan Motor", False, "identity: combustion blower converts"),
+        ("B0D2L5NSMM", "Indoor fan motor (BLDC)", False, "identity: indoor ECM fan converts"),
+        ("B0D2L5NSMM", "", False, "identity: empty name fails to search"),
+        # A marker hit is not sufficient. These rows name a capacitor, or a
+        # motor AND a capacitor - one product cannot satisfy either, so the
+        # deeplink is not a verified match.
+        ("B0D2L5NSMM", "Condenser Fan Motor Capacitor 5/45 MFD", False,
+         "identity: capacitor row converts despite marker"),
+        ("B0D2L5NSMM", "Condenser fan motor + capacitor", False,
+         "identity: two-device row converts"),
+        ("B09FFFPF5L", "Defrost thermostat / heater", False,
+         "identity: defrost thermostat + heater converts"),
+    ]:
+        cases.append((identity_matches(asin, name), want, label))
     # leaked query-string debris still scrubbed
     cases.append((
         strip_markdown("True defrost heater (e.g., 915146)&tag=)"),
@@ -504,6 +571,9 @@ def main() -> int:
                 elif oem:
                     decision = "search"
                     why = "oem-part-number"
+                elif asin in AMBIGUOUS_ASINS and not identity_matches(asin, part):
+                    decision = "search"
+                    why = "asin-identity-mismatch"
                 else:
                     decision = "relabel"
                     why = "residential"

@@ -96,7 +96,7 @@ The outdoor fan moves air across the coil. If the fan is not running or is runni
 
 **The fix:** If the capacitor is bad, replace it (under $20). If the motor is seized or the windings are burned out, replace the motor.
 
-[Heat pump fan motor on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-heat-pump-freezing-up&tag=errorcodefixes-20)
+[Heat pump fan motor on Amazon](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-freezing-up&k=Freezing+Heat+pump+fan+motor+on+Amazon&tag=errorcodefixes-20)
 [Fan motor capacitor on Amazon](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-freezing-up&k=heat+pump+fan+capacitor&tag=errorcodefixes-20)
 
 ## 6. Blocked Condensate Drain or Drain Pan

@@ -79,6 +79,6 @@ ECM (variable-speed) motors fail as a module or the motor itself. Test:
 | [ECM blower motor](https://www.amazon.com/s?ascsubtag=ecf-carrier-geothermal-error-codes&k=ECM+blower+motor&tag=errorcodefixes-20) | Match HP and model — Carrier GHP specific |
 | [Loop pump](https://www.amazon.com/s?ascsubtag=ecf-carrier-geothermal-error-codes&k=Loop+pump&tag=errorcodefixes-20) | Grundfos or Bell & Gossett — match GPM |
 | [Freeze stat](https://www.amazon.com/s?ascsubtag=ecf-carrier-geothermal-error-codes&k=Freeze+stat&tag=errorcodefixes-20) | Check setpoint — typically 30°F |
-| [Water temperature sensor](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-carrier-geothermal-error-codes&tag=errorcodefixes-20) | 10K thermistor — check resistance curve |
+| [Water temperature sensor](https://www.amazon.com/s?ascsubtag=ecf-carrier-geothermal-error-codes&k=Carrier+Water+temperature+sensor&tag=errorcodefixes-20) | 10K thermistor — check resistance curve |
 
 > **Pro tip:** Carrier Infinity geothermal units store fault history in the Infinity control. Navigate to System > Advanced > Fault History to view timestamped fault records.

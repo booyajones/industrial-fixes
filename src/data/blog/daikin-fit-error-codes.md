@@ -99,7 +99,7 @@ The system has detected low refrigerant based on discharge superheat readings. U
 | Outdoor PCB / control board (Daikin OEM — match model) | $180–$450 | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB+%2F+control+board+%28Daikin+OEM+%E2%80%94+match+model%29&tag=errorcodefixes-20) |
 | Indoor PCB / main board (Daikin SQ series — match model) | $150–$380 | [Amazon](https://www.amazon.com/s?k=Indoor+PCB+%2F+main+board+%28Daikin+SQ+series+%E2%80%94+match+model%29&tag=errorcodefixes-20) |
 | Inverter module (IPM module for RZB series) | $200–$600 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-fit-error-codes&k=Daikin+inverter+IPM+module+heat+pump&tag=errorcodefixes-20) |
-| NTC temperature sensor / thermistor (Daikin OEM) | $12–$35 | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-daikin-fit-error-codes&tag=errorcodefixes-20) |
+| NTC temperature sensor / thermistor (Daikin OEM) | $12–$35 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-fit-error-codes&k=NTC+temperature+sensor+%2F+thermistor+%28Daikin+OEM%29&tag=errorcodefixes-20) |
 | Electronic expansion valve (EEV) kit — Sporlan or Daikin OEM | $80–$220 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-fit-error-codes&k=Daikin+electronic+expansion+valve+EEV+kit&tag=errorcodefixes-20) |
 | Communication cable — 18 AWG 3-conductor shielded (per foot) | $0.50–$1.50/ft | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-fit-error-codes&k=18+AWG+3+conductor+shielded+communication+cable+HVAC&tag=errorcodefixes-20) |
 | Wired remote controller BRC7EB518W | $85–$160 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-fit-error-codes&k=Daikin+BRC7EB518W+wired+remote+controller&tag=errorcodefixes-20) |

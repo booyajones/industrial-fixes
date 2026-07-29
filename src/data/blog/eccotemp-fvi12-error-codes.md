@@ -107,8 +107,8 @@ Flush the FVI12 annually in hard water areas. The descaling process is the same 
 | [Eccotemp FVI12 Igniter Electrode](https://www.amazon.com/s?ascsubtag=ecf-eccotemp-fvi12-error-codes&k=Eccotemp+FVI12+igniter+electrode&tag=errorcodefixes-20) | Replaces failed igniter causing E1 fault - same form factor as i12 on most model years | $15-$30 |
 | [Flame Sensor Rod (Eccotemp Compatible)](https://www.amazon.com/s?k=Flame+Sensor+Rod+%28Eccotemp+Compatible%29&tag=errorcodefixes-20) | Replaces corroded flame sensor causing E2 | $10-$20 |
 | [FVI12 Flow Sensor](https://www.amazon.com/s?ascsubtag=ecf-eccotemp-fvi12-error-codes&k=Eccotemp+FVI12+flow+sensor&tag=errorcodefixes-20) | Replaces failed paddle-type flow sensor | $18-$35 |
-| [NTC Water Temperature Sensor](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-eccotemp-fvi12-error-codes&tag=errorcodefixes-20) | Replaces E4 or E6 thermistor fault | $10-$22 |
-| [Eccotemp FVI12 Fan Motor](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-eccotemp-fvi12-error-codes&tag=errorcodefixes-20) | Replaces failed combustion fan causing E7 fault | $45-$80 |
+| [NTC Water Temperature Sensor](https://www.amazon.com/s?ascsubtag=ecf-eccotemp-fvi12-error-codes&k=NTC+Water+Temperature+Sensor&tag=errorcodefixes-20) | Replaces E4 or E6 thermistor fault | $10-$22 |
+| [Eccotemp FVI12 Fan Motor](https://www.amazon.com/s?ascsubtag=ecf-eccotemp-fvi12-error-codes&k=Eccotemp+FVI12+Fan+Motor&tag=errorcodefixes-20) | Replaces failed combustion fan causing E7 fault | $45-$80 |
 | [D-Cell Batteries (8-pack)](https://www.amazon.com/s?ascsubtag=ecf-eccotemp-fvi12-error-codes&k=D+cell+alkaline+batteries+8+pack&tag=errorcodefixes-20) | Primary ignition power - replace when E1 appears | $12-$18 |
 | [Eccotemp FVI12 Control Board](https://www.amazon.com/s?k=Eccotemp+FVI12+Control+Board&tag=errorcodefixes-20) | Replaces failed board when multiple codes persist | $55-$100 |
 

@@ -53,9 +53,9 @@ The Lennox XC21 is a variable-capacity inverter heat pump that communicates with
 |------|-------|
 | iComfort thermostat (S30 or E30) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-xc21-error-codes&k=iComfort+thermostat+%28S30+or+E30%29&tag=errorcodefixes-20) \| For persistent 411/434 after wiring confirmed |
 | Outdoor unit control board | [Amazon](https://www.amazon.com/s?k=Outdoor+unit+control+board&tag=errorcodefixes-20) \| For persistent 434 — must match XC21 model exactly |
-| Condenser fan motor + capacitor | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-lennox-xc21-error-codes&tag=errorcodefixes-20) \| For Alert 223 with clean coil; test capacitor before motor |
+| Condenser fan motor + capacitor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-xc21-error-codes&k=Lennox+Condenser+fan+motor+%2B+capacitor&tag=errorcodefixes-20) \| For Alert 223 with clean coil; test capacitor before motor |
 | Low-pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-lennox-xc21-error-codes&tag=errorcodefixes-20) \| For persistent Alert 225 after confirming charge |
-| Discharge temperature sensor | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-lennox-xc21-error-codes&tag=errorcodefixes-20) \| For Alert 103 or persistent 327 with correct charge |
+| Discharge temperature sensor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-xc21-error-codes&k=Lennox+Discharge+temperature+sensor&tag=errorcodefixes-20) \| For Alert 103 or persistent 327 with correct charge |
 ## When to Call a Pro
 
 The XC21's inverter-driven compressor requires specialized diagnostic tools — the iComfort communicating system gives real-time compressor speed, operating pressures, and temperature data that a Lennox dealer can read remotely via the iComfort Connect portal. All refrigerant work requires EPA 608 certification. If the inverter drive board inside the outdoor unit is suspect, replacement involves high-voltage components and should only be handled by a trained technician.
