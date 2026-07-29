@@ -12,7 +12,8 @@
     "astro": "astro",
     "format:check": "prettier --check .",
     "format": "prettier --write .",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "prebuild": "node scripts/build-field-reference.mjs"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.12",

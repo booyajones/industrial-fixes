@@ -19,6 +19,15 @@ const pageUrl = new URL(Astro.url.pathname, SITE.website).href;
 const categoriesJson = JSON.stringify(
   equipmentCategories.map(c => ({ slug: c.slug, name: c.name }))
 );
+
+// Field Reference sample delivery (?cat=field-reference) — real numbers from
+// the build (scripts/build-field-reference.mjs), not hardcoded copy.
+import frStats from "@/data/field-reference-stats.json";
+const frJson = JSON.stringify({
+  pdf: frStats.sample.pdf,
+  brands: frStats.sample.brands.join(" + "),
+  codes: frStats.sample.codes,
+});
 ---
 
 <Layout
@@ -90,14 +99,28 @@ const categoriesJson = JSON.stringify(
   </main>
   <Footer />
 
-  <script is:inline define:vars={{ categoriesJson }}>
+  <script is:inline define:vars={{ categoriesJson, frJson }}>
     // Read ?cat=<slug> from the URL and swap the static placeholders to the
     // matching per-category PDF. Falls back to the master cheat sheet on
     // unknown / missing slugs.
     (function () {
       var cats = JSON.parse(categoriesJson);
+      var fr = JSON.parse(frJson);
       function applyCategory() {
         var slug = (new URLSearchParams(window.location.search).get('cat') || '').toLowerCase();
+        if (slug === 'field-reference') {
+          var frLabel = 'Industrial Fault-Code Field Reference — Free Sample';
+          document.querySelectorAll('[data-thanks-label]').forEach(function (el) { el.textContent = frLabel; });
+          document.querySelectorAll('[data-thanks-label-2]').forEach(function (el) { el.textContent = frLabel; });
+          document.querySelectorAll('[data-thanks-subtitle]').forEach(function (el) {
+            el.textContent = 'Print-ready PDF · the full ' + fr.brands + ' sections · ' + fr.codes + ' code entries';
+          });
+          document.querySelectorAll('[data-thanks-coverage]').forEach(function (el) {
+            el.textContent = fr.brands + ' fault codes';
+          });
+          document.querySelectorAll('[data-thanks-link]').forEach(function (el) { el.href = fr.pdf; });
+          return;
+        }
         var hit = cats.find(function (c) { return c.slug === slug; });
         if (!hit) return;
         var pdf = '/resources/' + hit.slug + '-error-code-cheat-sheet.pdf';

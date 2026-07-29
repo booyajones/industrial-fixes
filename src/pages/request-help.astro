@@ -1,0 +1,38 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import QuoteRequest from "@/components/QuoteRequest.astro";
+
+// Standalone landing for the industrial quote-request form. Linked from the
+// fault-code lookup tool's no-result state (on-site + /embed/lookup via
+// target="_top") and anywhere else a reader hits a dead end. Noindexed: it's a
+// utility surface, not a content page.
+---
+
+<Layout
+  title="Describe the fault — we'll route it | errorcodefixes.com"
+  description="Tell us the machine, the fault code, and what it's doing. We route industrial repair requests and reply by email."
+  noindex={true}
+>
+  <Header />
+  <main id="main-content" class="app-layout mx-auto max-w-3xl px-4 pb-12">
+    <section class="pt-10 pb-4">
+      <h1 class="text-2xl font-bold sm:text-3xl leading-tight">
+        Can't find your code? Describe the fault.
+      </h1>
+      <p class="mt-3 text-foreground/80 max-w-xl">
+        Not every code is documented — controller firmware differs, and some
+        faults only make sense with the symptoms. Tell us the machine and
+        what it's doing. We read every request and reply by email.
+      </p>
+    </section>
+    <QuoteRequest />
+    <p class="mt-6 text-sm text-foreground/60">
+      Rather keep digging? Try the
+      <a href="/tools/fault-code-lookup/" class="text-accent hover:underline">code lookup</a>
+      or the <a href="/diagnose/" class="text-accent hover:underline">guided diagnosis</a>.
+    </p>
+  </main>
+  <Footer />
+</Layout>

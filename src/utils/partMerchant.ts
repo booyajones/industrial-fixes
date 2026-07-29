@@ -10,12 +10,26 @@ export interface Merchant {
   url: (q: string) => string;
 }
 
+// eBay Partner Network campaign ID. Empty = plain eBay links, which Skimlinks
+// (already installed sitewide, and eBay is in its network) monetizes at the
+// network cut. Once an EPN account exists, set the campid here and links
+// switch to direct EPN tracking (higher cut). ALSO add class="noskim" to eBay
+// links at that point so Skimlinks doesn't double-wrap them.
+export const EBAY_CAMPAIGN_ID = "";
+
+function ebayUrl(q: string): string {
+  const base = `https://www.ebay.com/sch/i.html?_nkw=${encodeURIComponent(q)}`;
+  if (!EBAY_CAMPAIGN_ID) return base;
+  return `${base}&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=${EBAY_CAMPAIGN_ID}&toolid=10001&mkevt=1`;
+}
+
 export const MERCHANTS: Record<string, Merchant> = {
   repairclinic: { name: "RepairClinic", url: q => `https://www.repairclinic.com/Shop-For-Parts?query=${encodeURIComponent(q)}` },
   partselect: { name: "PartSelect", url: q => `https://www.partselect.com/Search.aspx?SearchTerm=${encodeURIComponent(q)}` },
   partstown: { name: "Parts Town", url: q => `https://www.partstown.com/search?q=${encodeURIComponent(q)}` },
   supplyhouse: { name: "SupplyHouse", url: q => `https://www.supplyhouse.com/sh/control/search/_/Ntt=${encodeURIComponent(q)}` },
   grainger: { name: "Grainger", url: q => `https://www.grainger.com/search?searchQuery=${encodeURIComponent(q)}` },
+  ebay: { name: "eBay (new & refurb)", url: ebayUrl },
 };
 
 interface Rule { match: string[]; merchant: Merchant; }
@@ -30,14 +44,28 @@ const RULES: Rule[] = [
   { match: ["washer", "dryer", "dishwasher", "refrigerator", "oven", "range", "cooktop", "microwave", "freezer", "appliance"], merchant: MERCHANTS.repairclinic },
   { match: ["commercial-refrigeration", "ice-machine", "ice-maker"], merchant: MERCHANTS.grainger },
   { match: ["boiler", "water-heater", "tankless", "plumbing"], merchant: MERCHANTS.supplyhouse },
-  { match: ["vfd", "cnc", "plc", "industrial-controls", "compressor", "drive", "inverter", "servo", "robot", "ups", "generator", "industrial"], merchant: MERCHANTS.grainger },
+  // Board-level industrial electronics are handled by BOARD_LEVEL below, which
+  // takes precedence over this table. Grainger keeps the industrial
+  // consumables (contactors, fuses, batteries, compressors).
+  { match: ["compressor", "ups", "generator", "industrial"], merchant: MERCHANTS.grainger },
   { match: ["hvac", "furnace", "heat-pump", "mini-split", "refrigeration", "ac", "thermostat", "chiller"], merchant: MERCHANTS.supplyhouse },
 ];
 
 // Pick the merchant that stocks parts for this equipment class. Defaults to
 // RepairClinic (broad consumer coverage) only when nothing else matches.
+// Board-level electronics (drive/servo/CNC/PLC boards) are not stocked by ANY
+// of the general suppliers below, so this tag class wins regardless of tag
+// order. Without this, a page tagged ["industrial", "servo"] matches the
+// generic "industrial" tag first and sends a dead servo-amp buyer to a
+// Grainger keyword search. Verified 2026-07-28: affects plc-fault-codes-guide
+// and servo-motor-fault-codes; every other page routes identically.
+const BOARD_LEVEL = new Set([
+  "vfd", "cnc", "plc", "industrial-controls", "drive", "inverter", "servo", "robot",
+]);
+
 export function pickMerchant(tags: readonly string[] = []): Merchant {
   const lower = tags.map(t => t.toLowerCase());
+  if (lower.some(t => BOARD_LEVEL.has(t))) return MERCHANTS.ebay;
   for (const tag of lower) {
     const rule = RULES.find(r => r.match.includes(tag));
     if (rule) return rule.merchant;

@@ -120,7 +120,7 @@ const { embed = false } = Astro.props;
           .filter(function (x) { return x.s > 0; })
           .sort(function (x, y) { return y.s - x.s; })
           .slice(0, 8);
-        if (!hits.length) { out.innerHTML = '<p class="fcl-none">No match yet. Try the brand plus the code, e.g. "Vacon F1".</p>'; return; }
+        if (!hits.length) { out.innerHTML = '<p class="fcl-none">No match yet. Try the brand plus the code, e.g. "Vacon F1". Still stuck? <a href="/request-help/" target="_top">Describe the fault and we\'ll route it</a>.</p>'; return; }
         out.innerHTML = hits.map(function (h) {
           return '<a class="fcl-hit" href="' + SITE + h.a.url + '?utm_source=lookup-tool" target="_blank" rel="noopener">' +
             '<span class="fcl-hit-title">' + esc(h.a.title) + '</span>' +

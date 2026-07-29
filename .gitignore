@@ -1,6 +1,11 @@
 # build output
 dist/
 
+# Field Reference FULL edition (paid product — must NEVER be committed to this
+# public repo; built locally by scripts/build-field-reference.mjs and uploaded
+# to the payment platform out-of-band)
+product/
+
 # generated types
 .astro/
 
@@ -45,3 +50,6 @@ build-*.log
 build-log.txt
 __pycache__/
 .claude/launch.json
+
+# Outreach strategy + contact targets — local only, this repo is public.
+docs/leads/

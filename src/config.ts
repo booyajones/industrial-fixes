@@ -21,3 +21,10 @@ export const SITE = {
   lang: "en",
   timezone: "America/Chicago",
 } as const;
+
+// Buy URL for the Industrial Fault-Code Field Reference (/field-reference/).
+// Empty string = not on sale yet: the landing page renders the email-gated
+// free-sample flow with "full edition launching soon" framing. Set this to the
+// payment link (Gumroad/Lemon Squeezy/etc.) once the FULL edition is uploaded,
+// and the page switches to a Buy button automatically.
+export const FIELD_REFERENCE_BUY_URL = "";

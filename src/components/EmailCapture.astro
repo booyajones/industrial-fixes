@@ -9,11 +9,19 @@ interface Props {
   // Or pass an explicit category slug ("hvac" | "cnc" | "refrigeration" |
   // "boilers"). Wins over `brand` when both are set.
   category?: string;
+  // Escape hatch for non-equipment lead magnets (e.g. "field-reference"):
+  // posts this exact slug as ecf_cat so the signup is segmentable, and lets
+  // the caller set the copy. When set, wins over brand/category resolution.
+  catSlug?: string;
+  headline?: string;
+  subline?: string;
+  buttonLabel?: string;
 }
 
-const { brand, category } = Astro.props;
+const { brand, category, catSlug, headline: headlineProp, subline, buttonLabel } = Astro.props;
 
 function resolveCategory(): { slug: string; name: string } {
+  if (catSlug) return { slug: catSlug, name: catSlug };
   if (category) {
     const hit = equipmentCategories.find(c => c.slug === category);
     if (hit) return { slug: hit.slug, name: hit.name };
@@ -28,16 +36,19 @@ function resolveCategory(): { slug: string; name: string } {
 
 const cat = resolveCategory();
 const headline =
-  cat.slug === "industrial"
+  headlineProp ??
+  (cat.slug === "industrial"
     ? "Get the complete error code reference"
-    : `Get the ${cat.name} error code cheat sheet`;
+    : `Get the ${cat.name} error code cheat sheet`);
+const sub = subline ?? " — free PDF with all common codes, causes, and fixes.";
+const cta = buttonLabel ?? "Get Free PDF";
 ---
 
 <div class="email-capture-box">
   <div class="email-capture-inner">
     <div class="email-capture-text">
       <strong>{headline}</strong>
-      <span> — free PDF with all common codes, causes, and fixes.</span>
+      <span>{sub}</span>
     </div>
     <form
       class="email-capture-form"
@@ -53,7 +64,7 @@ const headline =
         required
         class="email-input"
       />
-      <button type="submit" class="email-submit">Get Free PDF</button>
+      <button type="submit" class="email-submit">{cta}</button>
     </form>
     <p class="email-capture-error" role="alert" hidden>
       Something went wrong sending this — email us directly at

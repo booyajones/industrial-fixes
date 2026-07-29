@@ -1,0 +1,933 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Industrial Fault-Code Field Reference — Free Sample | errorcodefixes.com</title>
+<style>
+  :root {
+    --navy: #15233F; --paper: #FFFFFF; --offpaper: #FAFAF8; --ink: #10182A;
+    --rule: #D8D6CE; --accent: #C2410C; --dim: #5A6472; --safe: #0E7C5A; --danger: #B91C1C;
+    --mono: ui-monospace, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+    --sans: -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  html { background: #E8E6E0; }
+  body { font-family: var(--sans); color: var(--ink); font-size: 10.5px; line-height: 1.42; }
+  .sheet { max-width: 8.5in; margin: 0 auto; background: var(--paper); }
+  a { color: inherit; }
+
+  /* Running header: table thead repeats on every printed page. */
+  .pagetable { width: 100%; border-collapse: collapse; }
+  .pagetable > thead .runhead {
+    display: flex; justify-content: space-between; align-items: baseline;
+    padding: 6px 28px; background: var(--navy); color: #E8ECF4;
+    font-size: 7.5px; letter-spacing: 0.14em; text-transform: uppercase; font-weight: 600;
+  }
+  .runhead .rh-site { color: #F0B27E; }
+  .pagetable > tbody > tr > td { padding: 0; }
+  .inner { padding: 0 28px 28px; }
+
+  /* Cover */
+  .cover { padding: 64px 0 40px; }
+  .cover-rule { height: 6px; background: var(--accent); width: 88px; margin-bottom: 26px; }
+  .cover h1 { font-size: 34px; line-height: 1.08; letter-spacing: -0.01em; color: var(--navy); text-transform: uppercase; }
+  .cover .ed { display: inline-block; margin-top: 14px; padding: 4px 10px; border: 2px solid var(--navy);
+    font-family: var(--mono); font-size: 11px; font-weight: 700; letter-spacing: 0.12em; }
+  .cover .ed.sample { border-color: var(--accent); color: var(--accent); }
+  .cover-sub { margin-top: 18px; font-size: 13px; max-width: 5.6in; color: var(--ink); }
+  .cover-stats { display: flex; gap: 0; margin-top: 30px; border: 1px solid var(--rule); }
+  .cover-stats div { flex: 1; padding: 10px 14px; border-right: 1px solid var(--rule); }
+  .cover-stats div:last-child { border-right: 0; }
+  .cover-stats .n { font-family: var(--mono); font-size: 20px; font-weight: 700; color: var(--navy); display: block; }
+  .cover-stats .l { font-size: 8px; text-transform: uppercase; letter-spacing: 0.12em; color: var(--dim); }
+  .cover-note { margin-top: 26px; font-size: 9.5px; color: var(--dim); max-width: 5.8in; }
+  .cover-note p + p { margin-top: 6px; }
+  .cover-note strong { color: var(--ink); }
+
+  .sample-strip { margin: 0 0 4px; padding: 7px 28px; background: var(--accent); color: #fff;
+    font-size: 8.5px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; }
+
+  /* TOC */
+  .tocwrap { padding-top: 26px; }
+  .tocwrap h2, .gsubhead { font-size: 12px; text-transform: uppercase; letter-spacing: 0.14em; color: var(--navy);
+    border-bottom: 2px solid var(--navy); padding-bottom: 4px; margin-bottom: 12px; }
+  .tocgroup { font-size: 8.5px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.14em;
+    color: var(--accent); margin: 12px 0 4px; }
+  table.toc { width: 100%; border-collapse: collapse; }
+  table.toc th, table.toc td { text-align: left; padding: 3px 8px; border-bottom: 1px solid var(--rule); font-size: 10px; }
+  table.toc th { font-size: 7.5px; text-transform: uppercase; letter-spacing: 0.1em; color: var(--dim); }
+  table.toc a { text-decoration: none; }
+  .tnum { text-align: right; font-family: var(--mono); }
+
+  /* Brand sections */
+  .brand { padding-top: 18px; }
+  .band { display: flex; align-items: baseline; gap: 10px; background: var(--navy); color: #fff;
+    padding: 7px 12px; }
+  .bnum { font-family: var(--mono); font-size: 13px; font-weight: 700; color: #F0B27E; }
+  .bname { font-size: 13.5px; font-weight: 700; letter-spacing: 0.02em; text-transform: uppercase; }
+  .bgroup { margin-left: auto; font-size: 8px; letter-spacing: 0.12em; text-transform: uppercase; color: #AAB6CC; }
+  .bmeta { font-size: 9px; color: var(--dim); padding: 5px 2px 2px; font-family: var(--mono); }
+
+  .tblock { margin-top: 12px; break-inside: auto; }
+  .tcap { font-size: 10px; font-weight: 700; color: var(--navy); margin-bottom: 3px; }
+  .tcap .tmodel { font-family: var(--mono); background: var(--offpaper); border: 1px solid var(--rule); padding: 1px 5px; }
+  table.codes { width: 100%; border-collapse: collapse; border: 1px solid var(--rule); }
+  table.codes th { background: var(--offpaper); text-align: left; font-size: 7.5px; text-transform: uppercase;
+    letter-spacing: 0.1em; color: var(--dim); padding: 3px 7px; border-bottom: 1.5px solid var(--navy); }
+  table.codes td { padding: 3px 7px; border-bottom: 1px solid var(--rule); vertical-align: top; font-size: 9.5px; }
+  table.codes tbody tr:nth-child(even) td { background: #FBFAF7; }
+  td.c-code, th.c-code { font-family: var(--mono); font-weight: 700; white-space: nowrap; width: 1%; color: var(--navy); }
+  table.faults td.c-code { white-space: normal; min-width: 0.9in; }
+  .src { font-size: 8px; color: var(--dim); font-family: var(--mono); margin: 3px 0 0; }
+
+  /* Guide entries */
+  .gsubhead { margin-top: 18px; }
+  .entry { border: 1px solid var(--rule); border-left: 3px solid var(--navy); padding: 7px 10px 8px; margin-top: 8px;
+    break-inside: avoid; }
+  .ehead { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+  .ecode { font-family: var(--mono); font-weight: 700; font-size: 12px; color: #fff; background: var(--navy); padding: 1px 7px; }
+  .etitle { font-weight: 700; font-size: 10.5px; }
+  .badge { font-size: 7px; font-weight: 700; letter-spacing: 0.1em; padding: 2px 6px; border: 1px solid; margin-left: auto; }
+  .b-pro { color: var(--danger); border-color: var(--danger); }
+  .b-diy { color: var(--safe); border-color: var(--safe); }
+  .emean { margin-top: 4px; }
+  .gcause { margin-top: 3px; }
+  .glabel { font-size: 7px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.12em; color: var(--accent); margin-right: 5px; }
+  .gchecks { margin-top: 3px; display: flex; gap: 5px; align-items: baseline; }
+  .gchecks ol { margin: 0 0 0 14px; }
+  .gchecks li { margin: 0; }
+
+  /* Upsell (sample only) */
+  .upsell-copy { margin-top: 10px; font-size: 11px; max-width: 6in; }
+  .upsell-cta { margin-top: 8px; font-family: var(--mono); font-weight: 700; font-size: 12px; color: var(--accent); }
+
+  /* End matter */
+  .endnote { margin-top: 26px; border-top: 2px solid var(--navy); padding-top: 8px; font-size: 8.5px; color: var(--dim); }
+  .endnote p + p { margin-top: 4px; }
+
+  @media screen { .sheet { box-shadow: 0 2px 24px rgba(16,24,42,0.18); margin: 24px auto; } }
+  @page { size: letter; margin: 0.42in 0.42in 0.5in; }
+  @media print {
+    html { background: #fff; }
+    body { font-size: 9.5px; }
+    .sheet { max-width: none; box-shadow: none; margin: 0; }
+    .cover, .tocwrap { break-after: page; }
+    .brand { break-before: page; padding-top: 0; margin-top: 10px; }
+    .brand.upsell { break-before: auto; }
+    .entry { break-inside: avoid; }
+    tr { break-inside: avoid; }
+    .pagetable > thead { display: table-header-group; }
+    a { text-decoration: none; }
+  }
+</style>
+</head>
+<body>
+<div class="sheet">
+<table class="pagetable">
+<thead><tr><td>
+  <div class="runhead">
+    <span>Industrial Fault-Code Field Reference — SAMPLE EDITION</span>
+    <span class="rh-site">errorcodefixes.com</span>
+  </div>
+</td></tr></thead>
+<tbody><tr><td>
+
+  <div class="sample-strip">SAMPLE EDITION — ABB + Hoshizaki sections only. The full edition covers 17 brands and 869 code entries: https://errorcodefixes.com/field-reference/</div>
+<div class="inner">
+
+<section class="cover">
+  <div class="cover-rule"></div>
+  <h1>Industrial<br>Fault-Code<br>Field Reference</h1>
+  <span class="ed sample">SAMPLE EDITION</span>
+  <p class="cover-sub">The offline fault-code reference for industrial and facilities technicians:
+  2 brand sections of code tables, meanings, first checks,
+  and when-to-call-a-pro flags — compiled from the published, source-checked diagnostic guides at errorcodefixes.com.</p>
+  <div class="cover-stats">
+    <div><span class="n">2</span><span class="l">Brand sections</span></div>
+    <div><span class="n">180</span><span class="l">Code entries</span></div>
+    <div><span class="n">45</span><span class="l">Source guides</span></div>
+    <div><span class="n">Jun 2026</span><span class="l">Content updated</span></div>
+  </div>
+  <div class="cover-note">
+    <p><strong>How to use it:</strong> keep this file on your phone or print it into the shop binder.
+    Each brand section opens with its code tables, then condensed per-code field notes. Every table and
+    entry cites the full step-by-step guide on errorcodefixes.com for when you are back on the network.</p>
+    <p><strong>Independence:</strong> errorcodefixes.com is an independent reference. It is not affiliated
+    with or endorsed by any equipment manufacturer named in this document, and it does not sell parts or
+    repair services. Brand names are used for identification only.</p>
+    <p><strong>Safety:</strong> industrial equipment can injure or kill. Follow your site's lockout/tagout
+    procedure and the manufacturer's service documentation. Entries flagged PRO SERVICE involve work that
+    should be left to qualified technicians.</p>
+  </div>
+</section>
+
+<section class="tocwrap">
+  <h2>Contents</h2>
+  <p class="tocgroup">VFDs &amp; Industrial Drives</p>
+      <table class="toc"><thead><tr><th class="c-code">§</th><th>Brand section</th><th class="tnum">Codes</th></tr></thead><tbody>
+      <tr>
+        <td class="c-code"><a href="#s-abb">01</a></td>
+        <td><a href="#s-abb">ABB Drives (ACS / ACH)</a></td>
+        <td class="tnum">141</td>
+      </tr></tbody></table>
+<p class="tocgroup">Ice Machines &amp; Refrigeration</p>
+      <table class="toc"><thead><tr><th class="c-code">§</th><th>Brand section</th><th class="tnum">Codes</th></tr></thead><tbody>
+      <tr>
+        <td class="c-code"><a href="#s-hoshizaki">02</a></td>
+        <td><a href="#s-hoshizaki">Hoshizaki Ice Machines</a></td>
+        <td class="tnum">39</td>
+      </tr></tbody></table>
+</section>
+
+
+<section class="brand" id="s-abb">
+  <div class="band"><span class="bnum">01</span><span class="bname">ABB Drives (ACS / ACH)</span><span class="bgroup">VFDs &amp; Industrial Drives</span></div>
+  <p class="bmeta">141 code entries · 28 source guides · Series: ABB ACS150 Micro Drive · ABB ACS550 Complete · ABB ACS580 · ABB ACS880 Complete · ABB ACS880 · ABB VFD · Baldor/ABB VS1 VFD · ABB ACH580 HVAC VFD · …</p>
+
+<div class="tblock">
+  <p class="tcap"><span class="tmodel">ABB ACS150 Micro Drive</span> — ABB ACS150 Common Fault Code Reference</p>
+  <table class="codes">
+    <thead><tr><th class="c-code">Fault Code</th><th class="">Meaning</th></tr></thead>
+    <tbody>
+<tr><td class="c-code">0001</td><td class="">Overcurrent</td></tr>
+<tr><td class="c-code">0002</td><td class="">DC overvoltage</td></tr>
+<tr><td class="c-code">0003</td><td class="">DC undervoltage</td></tr>
+<tr><td class="c-code">0004</td><td class="">Short circuit</td></tr>
+<tr><td class="c-code">0005</td><td class="">Overtemperature</td></tr>
+<tr><td class="c-code">0006</td><td class="">Output phase loss</td></tr>
+<tr><td class="c-code">0007</td><td class="">Motor stall</td></tr>
+<tr><td class="c-code">0008</td><td class="">Motor overload</td></tr>
+<tr><td class="c-code">0009</td><td class="">Panel communication fault</td></tr>
+<tr><td class="c-code">0010</td><td class="">AI1 analog input loss</td></tr>
+<tr><td class="c-code">0012</td><td class="">External fault</td></tr>
+<tr><td class="c-code">0016</td><td class="">Earth fault</td></tr>
+<tr><td class="c-code">0018</td><td class="">Internal control fault</td></tr>
+    </tbody>
+  </table>
+  <p class="src">Full diagnostics: https://errorcodefixes.com/posts/abb-acs150-fault-codes/</p>
+</div>
+
+<div class="tblock">
+  <p class="tcap"><span class="tmodel">ABB ACS550 Complete</span> — ABB ACS550 Alarm Codes (Axxx)</p>
+  <table class="codes">
+    <thead><tr><th class="c-code">Alarm</th><th class="">Meaning</th></tr></thead>
+    <tbody>
+<tr><td class="c-code">A2010</td><td class="">Overcurrent warning</td></tr>
+<tr><td class="c-code">A2011</td><td class="">DC bus overvoltage warning</td></tr>
+<tr><td class="c-code">A2013</td><td class="">Device temperature warning (heatsink)</td></tr>
+<tr><td class="c-code">A2023</td><td class="">Earth fault warning</td></tr>
+<tr><td class="c-code">A5010</td><td class="">AI1 signal lost (warning)</td></tr>
+<tr><td class="c-code">A5030</td><td class="">Panel communication lost (warning)</td></tr>
+<tr><td class="c-code">A8110</td><td class="">Motor overload warning</td></tr>
+    </tbody>
+  </table>
+  <p class="src">Full diagnostics: https://errorcodefixes.com/posts/abb-acs550-complete-guide/</p>
+</div>
+
+<div class="tblock">
+  <p class="tcap"><span class="tmodel">ABB ACS550 Complete</span> — ABB ACS550 Fault Codes (Fxxx)</p>
+  <table class="codes">
+    <thead><tr><th class="c-code">Fault</th><th class="">Meaning</th></tr></thead>
+    <tbody>
+<tr><td class="c-code">F0001</td><td class="">Overcurrent — motor phase current too high</td></tr>
+<tr><td class="c-code">F0002</td><td class="">DC overvoltage — DC bus voltage too high</td></tr>
+<tr><td class="c-code">F0003</td><td class="">Device temperature — heatsink overtemperature</td></tr>
+<tr><td class="c-code">F0005</td><td class="">DC undervoltage — supply voltage too low</td></tr>
+<tr><td class="c-code">F0006</td><td class="">DC link fault</td></tr>
+<tr><td class="c-code">F0007</td><td class="">AI1 loss — analog input 1 signal lost</td></tr>
+<tr><td class="c-code">F0009</td><td class="">Underload — motor drawing less current than expected</td></tr>
+<tr><td class="c-code">F0010</td><td class="">Panel loss — control panel communication lost</td></tr>
+<tr><td class="c-code">F0013</td><td class="">Ext fault 1 — external fault input active</td></tr>
+<tr><td class="c-code">F0021</td><td class="">IGBT fault — drive output bridge fault</td></tr>
+<tr><td class="c-code">F0023</td><td class="">Earth fault (ground fault) — motor phase to ground</td></tr>
+<tr><td class="c-code">F0029</td><td class="">Motor phase loss — one output phase missing</td></tr>
+<tr><td class="c-code">F0030</td><td class="">Motor stall — motor drawing high current at low speed</td></tr>
+<tr><td class="c-code">F0035</td><td class="">Safe torque off (STO) — safety input activated</td></tr>
+<tr><td class="c-code">F0041</td><td class="">Thermistor fault — motor thermistor overtemp</td></tr>
+<tr><td class="c-code">F0065</td><td class="">Motor speed feedback fault</td></tr>
+<tr><td class="c-code">F0070</td><td class="">Fieldbus communication fault</td></tr>
+<tr><td class="c-code">F0121</td><td class="">Motor overload (I2t) — thermal model overload</td></tr>
+<tr><td class="c-code">F0130</td><td class="">Control board fault</td></tr>
+    </tbody>
+  </table>
+  <p class="src">Full diagnostics: https://errorcodefixes.com/posts/abb-acs550-complete-guide/</p>
+</div>
+
+<div class="tblock">
+  <p class="tcap"><span class="tmodel">ABB ACS580</span></p>
+  <table class="codes">
+    <thead><tr><th class="c-code">Fault Code</th><th class="">Name</th><th class="">Short Description</th></tr></thead>
+    <tbody>
+<tr><td class="c-code">2310</td><td class="">Output overcurrent</td><td class="">Output current exceeded 200% of drive rated current</td></tr>
+<tr><td class="c-code">2330</td><td class="">Earth fault</td><td class="">Ground fault detected on motor or output cable</td></tr>
+<tr><td class="c-code">3130</td><td class="">Input phase loss</td><td class="">One of the three input phases is missing or severely unbalanced</td></tr>
+<tr><td class="c-code">3210</td><td class="">DC link overvoltage</td><td class="">DC bus exceeded maximum (usually 800–900 VDC for 480V drives)</td></tr>
+<tr><td class="c-code">3220</td><td class="">DC link undervoltage</td><td class="">DC bus below minimum operating level</td></tr>
+<tr><td class="c-code">4110</td><td class="">Heatsink overtemperature</td><td class="">Heatsink exceeded maximum temperature (typically 115°C)</td></tr>
+<tr><td class="c-code">4290</td><td class="">Overtemperature (internal)</td><td class="">Ambient or internal drive temperature exceeded limit</td></tr>
+<tr><td class="c-code">5010</td><td class="">DC overvoltage</td><td class="">DC link overvoltage (alternative/legacy code)</td></tr>
+<tr><td class="c-code">6310</td><td class="">Panel loss</td><td class="">Control panel communication lost (ACS-AP-I disconnected or cable broken)</td></tr>
+<tr><td class="c-code">7121</td><td class="">Fan feedback fault</td><td class="">Internal cooling fan failed or fan feedback signal lost</td></tr>
+<tr><td class="c-code">7510</td><td class="">Communication fault</td><td class="">Fieldbus communication loss (EtherNet/IP, PROFIBUS, etc.)</td></tr>
+<tr><td class="c-code">9300</td><td class="">External fault 1</td><td class="">Digital input programmed as external fault was activated</td></tr>
+<tr><td class="c-code">9301</td><td class="">External fault 2</td><td class="">Second external fault input activated</td></tr>
+<tr><td class="c-code">FA81</td><td class="">Safe Torque Off (STO)</td><td class="">STO function activated — safety circuit opened</td></tr>
+    </tbody>
+  </table>
+  <p class="src">Full diagnostics: https://errorcodefixes.com/posts/abb-acs580-fault-codes/</p>
+</div>
+
+<div class="tblock">
+  <p class="tcap"><span class="tmodel">ABB ACS880 Complete</span> — ABB ACS880 Alarm Codes (Warnings)</p>
+  <table class="codes">
+    <thead><tr><th class="c-code">Alarm</th><th class="">Meaning</th></tr></thead>
+    <tbody>
+<tr><td class="c-code">A2310</td><td class="">Overcurrent warning</td></tr>
+<tr><td class="c-code">A3130</td><td class="">Input phase loss warning</td></tr>
+<tr><td class="c-code">A3210</td><td class="">DC overvoltage warning</td></tr>
+<tr><td class="c-code">A4110</td><td class="">Drive temperature warning</td></tr>
+<tr><td class="c-code">A7011</td><td class="">Motor thermal overload warning</td></tr>
+<tr><td class="c-code">A9300</td><td class="">External fault warning</td></tr>
+    </tbody>
+  </table>
+  <p class="src">Full diagnostics: https://errorcodefixes.com/posts/abb-acs880-complete-guide/</p>
+</div>
+
+<div class="tblock">
+  <p class="tcap"><span class="tmodel">ABB ACS880 Complete</span> — ABB ACS880 Common Fault Codes</p>
+  <table class="codes">
+    <thead><tr><th class="c-code">Fault</th><th class="">Meaning</th></tr></thead>
+    <tbody>
+<tr><td class="c-code">2310</td><td class="">Overcurrent — motor current exceeded limit</td></tr>
+<tr><td class="c-code">2321</td><td class="">Earth fault (ground fault)</td></tr>
+<tr><td class="c-code">2330</td><td class="">Short circuit — output phase-to-phase short</td></tr>
+<tr><td class="c-code">3130</td><td class="">Input phase loss — one input phase missing</td></tr>
+<tr><td class="c-code">3210</td><td class="">DC overvoltage</td></tr>
+<tr><td class="c-code">3220</td><td class="">DC undervoltage</td></tr>
+<tr><td class="c-code">4110</td><td class="">Control board temperature too high</td></tr>
+<tr><td class="c-code">5010</td><td class="">Fan fault — cooling fan failed</td></tr>
+<tr><td class="c-code">5090</td><td class="">Motor connection or cable fault</td></tr>
+<tr><td class="c-code">6100</td><td class="">FPGA fault — drive logic fault</td></tr>
+<tr><td class="c-code">6310</td><td class="">Fieldbus communication fault</td></tr>
+<tr><td class="c-code">7010</td><td class="">Motor stall</td></tr>
+<tr><td class="c-code">7011</td><td class="">Motor overload (thermal model)</td></tr>
+<tr><td class="c-code">7012</td><td class="">Motor underload</td></tr>
+<tr><td class="c-code">9300</td><td class="">External fault (via digital input or fieldbus)</td></tr>
+<tr><td class="c-code">FA81</td><td class="">Safe Torque Off (STO) active</td></tr>
+    </tbody>
+  </table>
+  <p class="src">Full diagnostics: https://errorcodefixes.com/posts/abb-acs880-complete-guide/</p>
+</div>
+
+<div class="tblock">
+  <p class="tcap"><span class="tmodel">ABB ACS880</span> — More ABB 880 fault codes</p>
+  <table class="codes">
+    <thead><tr><th class="c-code">Code</th><th class="">What it means</th><th class="">Likely cause</th><th class="">How to fix</th></tr></thead>
+    <tbody>
+<tr><td class="c-code">3220</td><td class="">DC link undervoltage</td><td class="">Intermediate (DC bus) voltage too low, usually from a missing supply phase, blown input fuse, low line voltage, or a fault in the rectifier bridge.</td><td class="">Check the incoming supply voltage on all three phases, inspect input fuses and the main contactor, and verify supply cabling. Correct any missing phase or low-voltage condition before restarting.</td></tr>
+<tr><td class="c-code">3130</td><td class="">Input phase loss</td><td class="">One of the incoming supply phases is missing, or the DC bus voltage is rippling because of an open phase, blown fuse, or loose supply connection.</td><td class="">Measure all three input phases at the drive terminals, check input fuses and disconnect contacts, and tighten supply-side terminations. Restore the missing phase before resetting.</td></tr>
+<tr><td class="c-code">3381</td><td class="">Output phase loss</td><td class="">The drive detects that a motor output phase (U, V or W) is missing, typically an open motor cable conductor, loose output terminal, or an open motor winding.</td><td class="">Power down and lock out, then check continuity of each output phase from the drive to the motor and inspect the motor windings. Repair the open conductor or connection.</td></tr>
+<tr><td class="c-code">2381</td><td class="">IGBT overload</td><td class="">Excessive IGBT junction-to-case temperature. Protects the output IGBTs and can be triggered by a short circuit in the motor cable, excessive load, or too high a switching frequency for the load.</td><td class="">Check the motor cable and motor for shorts with a megohmmeter, reduce load or acceleration demand, and verify cooling. Confirm switching frequency and drive sizing match the application.</td></tr>
+<tr><td class="c-code">4210</td><td class="">IGBT overtemperature</td><td class="">Estimated IGBT temperature is excessive, usually from blocked cooling airflow, a failed cooling fan, high ambient temperature, or sustained overload.</td><td class="">Clean or replace air filters, verify all cooling fans spin freely, clear dust from the heatsink, and confirm the ambient temperature is within the drive rating. Reduce load if the drive is undersized.</td></tr>
+<tr><td class="c-code">5091</td><td class="">Safe torque off</td><td class="">The Safe Torque Off function is active because a safety-circuit signal on connector XSTO is broken during start or run, or the drive is stopped with STO diagnostics set to Fault.</td><td class="">Check the STO wiring and both XSTO channels, verify the safety relay/E-stop chain is closed, and confirm parameter 31.22 STO diagnostics configuration. Restore the safety circuit before resetting.</td></tr>
+<tr><td class="c-code">5090</td><td class="">STO hardware failure</td><td class="">The Safe Torque Off hardware self-diagnostic has detected an internal fault in the STO circuitry.</td><td class="">Cycle power to clear a transient. If it persists, the STO hardware or control unit needs service. Contact ABB or a certified drive technician; do not bypass STO.</td></tr>
+<tr><td class="c-code">7081</td><td class="">Panel port communication (control panel / keypad communication lost)</td><td class="">The control panel (keypad) or PC tool selected as the active control location has stopped communicating with the drive over the panel port.</td><td class="">Reseat the control panel and its cable, check the panel connector, and confirm the panel/PC tool communication settings. Replace a damaged panel cable if needed.</td></tr>
+<tr><td class="c-code">7310</td><td class="">Overspeed</td><td class="">Motor speed has exceeded the allowed limit, often because of an overhauling/high-inertia load, wrong speed-limit parameters, or an encoder/feedback problem.</td><td class="">Check the speed limit parameters, verify encoder feedback and scaling, and confirm the load is not driving the motor faster than commanded. Add a braking resistor for overhauling loads if required.</td></tr>
+<tr><td class="c-code">7510</td><td class="">FBA A communication</td><td class="">Cyclic communication is lost between the drive and a fieldbus adapter module (FBA A), from adapter cabling, configuration, or master faults.</td><td class="">Check the fieldbus adapter connection and network cabling, verify the adapter configuration and the comm-loss action parameters, and confirm the PLC/master is communicating.</td></tr>
+<tr><td class="c-code">FA81</td><td class="">Safe torque off 1</td><td class="">Loss of the Safe Torque Off channel 1 signal at the STO input.</td><td class="">Inspect the STO channel 1 wiring and the safety device driving it (E-stop, safety relay, gate), and restore the signal. Both STO channels must be healthy to run.</td></tr>
+    </tbody>
+  </table>
+  <p class="src">Full diagnostics: https://errorcodefixes.com/posts/abb-880-fault-codes/</p>
+</div>
+
+<div class="tblock">
+  <p class="tcap"><span class="tmodel">ABB VFD</span></p>
+  <table class="codes">
+    <thead><tr><th class="c-code">Fault Code</th><th class="">Meaning</th><th class="">Common Fix</th></tr></thead>
+    <tbody>
+<tr><td class="c-code">0001</td><td class="">Overcurrent</td><td class="">Check motor/cable; reduce accel ramp</td></tr>
+<tr><td class="c-code">2201</td><td class="">Overcurrent (short circuit)</td><td class="">Motor winding short or cable fault</td></tr>
+<tr><td class="c-code">2310</td><td class="">Overcurrent (peak)</td><td class="">Check for mechanical jam</td></tr>
+<tr><td class="c-code">3130</td><td class="">Input phase loss</td><td class="">Check all 3 input phases</td></tr>
+<tr><td class="c-code">3210</td><td class="">DC bus overvoltage</td><td class="">Extend decel ramp; add brake resistor</td></tr>
+<tr><td class="c-code">3300</td><td class="">DC bus undervoltage</td><td class="">Check input power supply</td></tr>
+<tr><td class="c-code">4110</td><td class="">Drive overtemperature</td><td class="">Clean cooling fan; check ambient temp</td></tr>
+<tr><td class="c-code">5010</td><td class="">Overload</td><td class="">Reduce continuous load; check motor FLA</td></tr>
+<tr><td class="c-code">7121</td><td class="">Analog I/O fault</td><td class="">Check signal wiring</td></tr>
+<tr><td class="c-code">9300</td><td class="">Communication fault</td><td class="">Check fieldbus adapter or wiring</td></tr>
+<tr><td class="c-code">AF10</td><td class="">Heatsink overtemperature</td><td class="">Clean fan; check airflow</td></tr>
+    </tbody>
+  </table>
+  <p class="src">Full diagnostics: https://errorcodefixes.com/posts/abb-vfd-fault-codes/</p>
+</div>
+
+<div class="tblock">
+  <p class="tcap"><span class="tmodel">ABB VFD</span> — More ABB VFD fault codes</p>
+  <table class="codes">
+    <thead><tr><th class="c-code">Code</th><th class="">What it means</th><th class="">Likely cause</th><th class="">How to fix</th></tr></thead>
+    <tbody>
+<tr><td class="c-code">2340</td><td class="">Short circuit in the motor cable(s) or motor.</td><td class="">Cabling error or a shorted winding/cable between output phases.</td><td class="">Check motor and motor cable for wiring errors. Confirm no PFC capacitors or surge absorbers are in the motor cable, then cycle power to the drive.</td></tr>
+<tr><td class="c-code">2381</td><td class="">IGBT overload. Excessive IGBT junction-to-case temperature.</td><td class="">Protects the IGBTs; can be triggered by a short circuit in the motor cable or by an undersized drive for the motor.</td><td class="">Check the motor cable, ambient conditions, airflow and fan operation, heatsink fins for dust, and drive power rating against motor power.</td></tr>
+<tr><td class="c-code">3181</td><td class="">Wiring or earth fault. Incorrect input-power and motor-cable connection.</td><td class="">Input power cable is connected to the drive's motor (output) terminals, or a similar wiring error.</td><td class="">Check input power connections and confirm supply is landed on the input terminals and the motor on the output terminals. This fault is programmable via par 31.23.</td></tr>
+<tr><td class="c-code">3220</td><td class="">DC link undervoltage. Intermediate-circuit DC voltage is insufficient.</td><td class="">Missing supply phase, blown fuse, or a fault in the rectifier bridge.</td><td class="">Check supply cabling, fuses and switchgear. Measure incoming voltage under load.</td></tr>
+<tr><td class="c-code">3381</td><td class="">Output phase loss. Motor-circuit fault from a missing motor connection.</td><td class="">All three motor phases are not connected (open output phase, loose lug, or open contactor on the motor side).</td><td class="">Connect/verify the motor cable on all three output phases. Programmable via par 31.19 Motor phase loss.</td></tr>
+<tr><td class="c-code">4210</td><td class="">IGBT overtemperature. Estimated drive IGBT temperature is excessive.</td><td class="">Poor cooling, high ambient, clogged heatsink, failed fan, or drive undersized for the motor.</td><td class="">Check ambient conditions, airflow and fan operation, clear dust from heatsink fins, and verify drive power rating versus motor power.</td></tr>
+<tr><td class="c-code">4290</td><td class="">Cooling. Drive module temperature is excessive.</td><td class="">Ambient above the derating threshold, blocked cooling airflow, dust in the heatsink, or a failing fan.</td><td class="">Verify ambient temperature and derating, check module cooling airflow and fan operation, and clean the cabinet interior and heatsink.</td></tr>
+<tr><td class="c-code">5090</td><td class="">STO hardware failure. STO hardware diagnostics detected a hardware failure.</td><td class="">Internal Safe Torque Off hardware fault.</td><td class="">Contact ABB for hardware replacement. Do not attempt to defeat or bypass the STO circuit.</td></tr>
+<tr><td class="c-code">5091</td><td class="">Safe torque off. The STO function is active because a safety-circuit signal to the STO connector opened during start or run.</td><td class="">STO circuit input(s) broken/opened (e-stop, safety relay, gate, or wiring), or control-board supply issue.</td><td class="">Check safety-circuit connections to the STO terminals and verify par 95.04 Control board supply. Programmable via par 31.22 STO indication run/stop.</td></tr>
+<tr><td class="c-code">6681</td><td class="">EFB comm loss. Communication break on the embedded fieldbus (EFB).</td><td class="">Fieldbus master offline or in error, or a broken RS-485 connection.</td><td class="">Check the fieldbus master status and the cable connections to the EIA-485/X5 terminals 29, 30 and 31 on the control unit. Programmable via par 58.14.</td></tr>
+<tr><td class="c-code">7081</td><td class="">Control panel loss. The control panel or PC tool set as active control location stopped communicating.</td><td class="">Disconnected or faulty control panel, loose panel connector, or lost PC-tool link.</td><td class="">Check the PC-tool/control-panel connection and connector; disconnect and reconnect the panel. Action is programmable via par 49.05.</td></tr>
+<tr><td class="c-code">7181</td><td class="">Brake resistor broken or not connected.</td><td class="">Missing, damaged, or incorrectly dimensioned dynamic braking resistor.</td><td class="">Confirm a brake resistor is connected, check its condition, and verify it is correctly sized for the drive.</td></tr>
+<tr><td class="c-code">7310</td><td class="">Overspeed. Motor is turning faster than the highest allowed speed.</td><td class="">Incorrectly set min/max speed, insufficient braking torque, or load changes when using torque reference.</td><td class="">Check min/max speed settings (par 30.11/30.12), motor braking torque, and whether a brake chopper/resistor is needed.</td></tr>
+<tr><td class="c-code">7510</td><td class="">FBA A communication. Cyclic communication between the drive and fieldbus adapter module A (or PLC to adapter) is lost.</td><td class="">Fieldbus adapter or cabling fault, master offline, or mis-set fieldbus parameters.</td><td class="">Check fieldbus status and cabling, verify the master is communicating, and review parameter groups 50-53. Programmable via par 50.02.</td></tr>
+<tr><td class="c-code">80A0</td><td class="">AI supervision. An analog input signal is outside its configured limits.</td><td class="">Broken or shorted analog signal wiring, or a transmitter out of range (aux codes identify AI1/AI2 under-min or over-max).</td><td class="">Check the analog input signal level and wiring, and review the min/max limits in parameter group 12. Programmable via par 12.03.</td></tr>
+<tr><td class="c-code">FA81</td><td class="">Safe torque off 1. STO circuit 1 is broken.</td><td class="">One STO channel input is open (e-stop, safety relay, or wiring on channel 1).</td><td class="">Check STO safety-circuit connections and verify par 95.04 Control board supply.</td></tr>
+<tr><td class="c-code">FA82</td><td class="">Safe torque off 2. STO circuit 2 is broken.</td><td class="">The second STO channel input is open (e-stop, safety relay, or wiring on channel 2).</td><td class="">Check STO safety-circuit connections and verify par 95.04 Control board supply.</td></tr>
+<tr><td class="c-code">FF61</td><td class="">ID run. The motor identification run did not complete successfully.</td><td class="">Incorrect motor nameplate data, an external control system connected during ID run, a locked motor shaft, or limits blocking completion.</td><td class="">Verify motor data in group 99, disconnect any external control, ensure the shaft is free, restore defaults, and rerun the ID run.</td></tr>
+    </tbody>
+  </table>
+  <p class="src">Full diagnostics: https://errorcodefixes.com/posts/abb-vfd-fault-codes/</p>
+</div>
+
+<div class="tblock">
+  <p class="tcap"><span class="tmodel">Baldor/ABB VS1 VFD</span></p>
+  <table class="codes">
+    <thead><tr><th class="c-code">Fault Code</th><th class="">Meaning</th><th class="">Common Cause</th><th class="">Quick Fix</th></tr></thead>
+    <tbody>
+<tr><td class="c-code">F0001</td><td class="">Overcurrent</td><td class="">Load too high; short circuit</td><td class="">Check motor wiring; reduce acceleration</td></tr>
+<tr><td class="c-code">F0002</td><td class="">DC Bus Overvoltage</td><td class="">Regen energy; high input voltage</td><td class="">Check input voltage; add braking resistor</td></tr>
+<tr><td class="c-code">F0003</td><td class="">DC Bus Undervoltage</td><td class="">Low input voltage; power dip</td><td class="">Check input voltage; check fuses</td></tr>
+<tr><td class="c-code">F0004</td><td class="">Drive overtemperature</td><td class="">Blocked cooling; ambient too hot</td><td class="">Clean heatsink; improve ventilation</td></tr>
+<tr><td class="c-code">F0005</td><td class="">Motor overtemperature</td><td class="">Motor overloaded; PTC fault</td><td class="">Check motor load; check PTC wiring</td></tr>
+<tr><td class="c-code">F0006</td><td class="">Emergency stop</td><td class="">External E-stop input activated</td><td class="">Check E-stop circuit; reset</td></tr>
+<tr><td class="c-code">F0007</td><td class="">Control board fault</td><td class="">Internal hardware fault</td><td class="">Power cycle; replace if persists</td></tr>
+<tr><td class="c-code">F0009</td><td class="">Underload fault</td><td class="">Load dropped below threshold</td><td class="">Check for broken belt or coupling</td></tr>
+<tr><td class="c-code">F0011</td><td class="">External fault</td><td class="">Digital input configured for external fault</td><td class="">Check external fault input wiring</td></tr>
+<tr><td class="c-code">F0013</td><td class="">Analog input loss</td><td class="">4–20mA signal lost</td><td class="">Check signal source; check wiring</td></tr>
+<tr><td class="c-code">F0014</td><td class="">Motor stall</td><td class="">Motor not turning at commanded speed</td><td class="">Check motor and mechanical load</td></tr>
+<tr><td class="c-code">F0016</td><td class="">Earth fault (ground fault)</td><td class="">Winding-to-ground insulation fault</td><td class="">Test motor insulation; check wiring</td></tr>
+<tr><td class="c-code">F0017</td><td class="">Motor phase loss</td><td class="">Missing motor output phase</td><td class="">Check U, V, W output wiring</td></tr>
+<tr><td class="c-code">F0022</td><td class="">Parameter CRC fault</td><td class="">Parameter checksum error</td><td class="">Reload parameters from backup</td></tr>
+<tr><td class="c-code">F0025</td><td class="">Input phase loss</td><td class="">Missing input phase</td><td class="">Check L1, L2, L3 input connections</td></tr>
+    </tbody>
+  </table>
+  <p class="src">Full diagnostics: https://errorcodefixes.com/posts/baldor-vfd-fault-codes/</p>
+</div>
+<h3 class="gsubhead">Field diagnostics — code by code</h3>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">•</span>
+    <span class="etitle">ABB ACH580 HVAC VFD Fault Codes</span>
+    
+  </div>
+  <p class="emean">ABB ACH580 drives use numeric fault families to flag power, motor, temperature, fieldbus, and configuration problems in HVAC applications.</p>
+  
+  
+  <p class="src">Full guide: https://errorcodefixes.com/posts/abb-ach580-fault-codes/</p>
+  
+</article>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">•</span>
+    <span class="etitle">ABB ACS550 AI1 LOSS</span>
+    
+  </div>
+  <p class="emean">ABB ACS550 AI1 LOSS means analog input 1 has fallen below the configured minimum or the signal is lost.</p>
+  <p class="gcause"><span class="glabel">Most likely</span> No analog signal source or source is powered off</p>
+  
+  <p class="src">Full guide: https://errorcodefixes.com/posts/abb-acs550-ai1-loss-fault-code/</p>
+  
+</article>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">F0001</span>
+    <span class="etitle">ABB ACS550 F0001 Fault</span>
+    
+  </div>
+  <p class="emean">What ABB ACS550 F0001 overcurrent fault means, why it trips, and how to diagnose and fix it step by step.</p>
+  <p class="gcause"><span class="glabel">Most likely</span> Motor or cable short circuit</p>
+  
+  <p class="src">Full guide: https://errorcodefixes.com/posts/abb-acs550-f0001-overcurrent/</p>
+  
+</article>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">2310</span>
+    <span class="etitle">ABB ACS580 Fault 2310</span>
+    
+  </div>
+  <p class="emean">ABB ACS580 fault 2310 (Overcurrent) means the drive's output current exceeded the internal hardware overcurrent trip point — typically about 3.5× the...</p>
+  
+  
+  <p class="src">Full guide: https://errorcodefixes.com/posts/abb-acs580-2310-fault/</p>
+  
+</article>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">3210</span>
+    <span class="etitle">ABB ACS580 Fault 3210</span>
+    
+  </div>
+  <p class="emean">ABB ACS580 fault 3210 DC Link Overvoltage means the intermediate DC bus exceeded 820 VDC on a 380–480V drive (or 1100 VDC on a 525–690V drive) and the...</p>
+  
+  
+  <p class="src">Full guide: https://errorcodefixes.com/posts/abb-acs580-fault-3210/</p>
+  
+</article>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">3220</span>
+    <span class="etitle">ABB ACS580 Fault 3220</span>
+    
+  </div>
+  <p class="emean">ABB ACS580 fault 3220 DC Link Undervoltage means the intermediate DC bus dropped below approximately 320 VDC on a 380–480V drive (185 VDC on a 200–240V...</p>
+  
+  
+  <p class="src">Full guide: https://errorcodefixes.com/posts/abb-acs580-fault-3220/</p>
+  
+</article>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">A0</span>
+    <span class="etitle">ABB ACS580 A0 Fault Code</span>
+    
+  </div>
+  <p class="emean">ABB ACS580 A0 is likely a misread of A5A0 or 5091, meaning Safe Torque Off is active.</p>
+  <p class="gcause"><span class="glabel">Most likely</span> Open or missing STO jumper</p>
+  
+  <p class="src">Full guide: https://errorcodefixes.com/posts/abb-acs580-a0-fault-code/</p>
+  
+</article>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">A2B3</span>
+    <span class="etitle">ABB ACS580 A2B3 Fault</span>
+    
+  </div>
+  <p class="emean">A2B3 means earth leakage detected.</p>
+  <p class="gcause"><span class="glabel">Most likely</span> Motor insulation breakdown to ground</p>
+  
+  <p class="src">Full guide: https://errorcodefixes.com/posts/abb-acs580-vfd-a2b3-fault-code/</p>
+  
+</article>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">A3A2</span>
+    <span class="etitle">ABB ACS580 A3A2 Fault</span>
+    <span class="badge b-pro">PRO SERVICE</span>
+  </div>
+  <p class="emean">A3A2 means DC link undervoltage: the drive's internal DC bus is too low.</p>
+  <p class="gcause"><span class="glabel">Most likely</span> Blown input fuse or missing supply phase</p>
+  <div class="gchecks"><span class="glabel">Check first</span><ol><li>Measure AC voltage at L1, L2, and L3 input terminals with a multimeter to confirm all three phases are present and within 10% of the drive's rated voltage</li><li>Check parameter 95.01 (Supply voltage) on the drive's control panel and verify it matches the actual measured incoming voltage</li><li>Inspect input terminal connections for loose or corroded wiring</li></ol></div>
+  <p class="src">Full guide: https://errorcodefixes.com/posts/abb-acs580-vfd-a3a2-fault-code/</p>
+  
+</article>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">A7CE</span>
+    <span class="etitle">ABB ACS580 A7CE Fault Code</span>
+    
+  </div>
+  <p class="emean">ABB ACS580 A7CE means embedded fieldbus (EFB) communication loss.</p>
+  <p class="gcause"><span class="glabel">Most likely</span> Fieldbus master offline or in error</p>
+  
+  <p class="src">Full guide: https://errorcodefixes.com/posts/abb-acs580-a7ce-fault-code/</p>
+  
+</article>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">FA81</span>
+    <span class="etitle">ABB ACS580 FA81 Fault — Safe Torque Off 1 Active</span>
+    
+  </div>
+  <p class="emean">FA81 on ABB ACS580 means STO circuit 1 is open.</p>
+  <p class="gcause"><span class="glabel">Most likely</span> Open or disconnected STO wiring</p>
+  
+  <p class="src">Full guide: https://errorcodefixes.com/posts/abb-acs580-fa81-fault-code/</p>
+  
+</article>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">2310</span>
+    <span class="etitle">ABB ACS880 Fault 2310</span>
+    
+  </div>
+  <p class="emean">Diagnose and fix the ABB ACS880 fault 2310 overcurrent fault.</p>
+  
+  
+  <p class="src">Full guide: https://errorcodefixes.com/posts/abb-acs880-fault-2310/</p>
+  
+<div class="tblock">
+  <p class="tcap"><span class="tmodel">ABB ACS880</span> — What Does ACS880 Fault 2310 Mean?</p>
+  <table class="codes">
+    <thead><tr><th class="c-code">Fault</th><th class="">Meaning</th></tr></thead>
+    <tbody>
+<tr><td class="c-code">2310</td><td class="">Overcurrent (instantaneous trip)</td></tr>
+<tr><td class="c-code">2330</td><td class="">Earth (ground) fault</td></tr>
+<tr><td class="c-code">2340</td><td class="">Short circuit</td></tr>
+<tr><td class="c-code">2350</td><td class="">Overcurrent (thermal overload)</td></tr>
+<tr><td class="c-code">3210</td><td class="">DC overvoltage</td></tr>
+<tr><td class="c-code">3220</td><td class="">DC undervoltage</td></tr>
+    </tbody>
+  </table>
+  <p class="src">Full diagnostics: https://errorcodefixes.com/posts/abb-acs880-fault-2310/</p>
+</div>
+</article>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">•</span>
+    <span class="etitle">ABB ACS880 Drive Maintenance Guide</span>
+    
+  </div>
+  <p class="emean">Complete ABB ACS880 drive maintenance guide covering fan replacement intervals, capacitor reforming, IGBT checks, cooling system cleaning, firmware updates, and how to prevent common faults 4110, 4210, and 2310.</p>
+  
+  
+  <p class="src">Full guide: https://errorcodefixes.com/posts/abb-acs880-complete-maintenance-guide/</p>
+  
+</article>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">0001</span>
+    <span class="etitle">ABB VFD Fault 0001 Overcurrent</span>
+    
+  </div>
+  <p class="emean">What ABB VFD fault 0001 means, why it happens, and how to fix it step by step.</p>
+  <p class="gcause"><span class="glabel">Most likely</span> Mechanical jam or overload</p>
+  
+  <p class="src">Full guide: https://errorcodefixes.com/posts/abb-vfd-fault-0001-overcurrent/</p>
+  
+</article>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">2201</span>
+    <span class="etitle">ABB VFD Fault 2201</span>
+    
+  </div>
+  <p class="emean">ABB VFD fault 2201 means overcurrent during acceleration on ACS550, ACS310, and ACS355 drives — here's how to diagnose and fix it.</p>
+  
+  
+  <p class="src">Full guide: https://errorcodefixes.com/posts/abb-vfd-fault-2201-overcurrent/</p>
+  
+</article>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">2310</span>
+    <span class="etitle">ABB VFD Fault 2310</span>
+    
+  </div>
+  <p class="emean">What ABB VFD fault 2310 means, why it happens, and how to fix it step by step.</p>
+  <p class="gcause"><span class="glabel">Most likely</span> Motor winding insulation failure</p>
+  
+  <p class="src">Full guide: https://errorcodefixes.com/posts/abb-vfd-fault-2310/</p>
+  
+</article>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">3210</span>
+    <span class="etitle">ABB VFD Fault 3210</span>
+    
+  </div>
+  <p class="emean">What ABB VFD fault 3210 means, why it happens, and how to fix it step by step.</p>
+  <p class="gcause"><span class="glabel">Most likely</span> Input power sag or interruption</p>
+  
+  <p class="src">Full guide: https://errorcodefixes.com/posts/abb-vfd-fault-3210/</p>
+  
+</article>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">3300</span>
+    <span class="etitle">ABB VFD Fault 3300</span>
+    
+  </div>
+  <p class="emean">What ABB VFD fault code 3300 means, why earth leakage trips the drive, and how to fix it.</p>
+  <p class="gcause"><span class="glabel">Most likely</span> Degraded motor winding insulation</p>
+  
+  <p class="src">Full guide: https://errorcodefixes.com/posts/abb-vfd-fault-3300/</p>
+  
+</article>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">5010</span>
+    <span class="etitle">ABB VFD Fault 5010</span>
+    
+  </div>
+  <p class="emean">What ABB VFD fault 5010 means, why Safe Torque Off activates, and how to fix it.</p>
+  <p class="gcause"><span class="glabel">Most likely</span> Safety relay or safety PLC opened the STO circuit</p>
+  
+  <p class="src">Full guide: https://errorcodefixes.com/posts/abb-vfd-fault-5010/</p>
+  
+</article>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">7121</span>
+    <span class="etitle">ABB VFD Fault 7121</span>
+    
+  </div>
+  <p class="emean">What ABB VFD fault 7121 means, why it happens, and how to fix it step by step.</p>
+  <p class="gcause"><span class="glabel">Most likely</span> Mechanical overload or jam</p>
+  
+  <p class="src">Full guide: https://errorcodefixes.com/posts/abb-vfd-fault-7121/</p>
+  
+</article>
+</section>
+
+<section class="brand" id="s-hoshizaki">
+  <div class="band"><span class="bnum">02</span><span class="bname">Hoshizaki Ice Machines</span><span class="bgroup">Ice Machines &amp; Refrigeration</span></div>
+  <p class="bmeta">39 code entries · 17 source guides · Series: Hoshizaki DKM · Hoshizaki F · Hoshizaki KM · Hoshizaki C · Hoshizaki E1 · Hoshizaki E7 · Hoshizaki F1 · Hoshizaki F2 · …</p>
+
+<div class="tblock">
+  <p class="tcap"><span class="tmodel">Hoshizaki DKM</span> — Hoshizaki DKM-500 Error Code Reference</p>
+  <table class="codes">
+    <thead><tr><th class="c-code">Code</th><th class="">Fault</th></tr></thead>
+    <tbody>
+<tr><td class="c-code">E1</td><td class="">Freeze cycle time exceeded — over-time</td></tr>
+<tr><td class="c-code">E2</td><td class="">High-pressure cutout</td></tr>
+<tr><td class="c-code">E3</td><td class="">Low-pressure cutout / loss of charge</td></tr>
+<tr><td class="c-code">E4</td><td class="">Evaporator temperature sensor fault</td></tr>
+<tr><td class="c-code">E5</td><td class="">Water inlet temperature sensor fault</td></tr>
+<tr><td class="c-code">E6</td><td class="">Control board communication fault</td></tr>
+<tr><td class="c-code">E7</td><td class="">Dispenser mechanism fault</td></tr>
+<tr><td class="c-code">E8</td><td class="">Water supply fault</td></tr>
+<tr><td class="c-code">E9</td><td class="">Float switch fault — water level</td></tr>
+<tr><td class="c-code">F1</td><td class="">Condenser fan motor fault</td></tr>
+<tr><td class="c-code">F2</td><td class="">Hot gas valve fault</td></tr>
+<tr><td class="c-code">F3</td><td class="">Harvest assist motor fault (dispenser)</td></tr>
+    </tbody>
+  </table>
+  <p class="src">Full diagnostics: https://errorcodefixes.com/posts/hoshizaki-dkm-500-error-codes/</p>
+</div>
+
+<div class="tblock">
+  <p class="tcap"><span class="tmodel">Hoshizaki F</span> — Hoshizaki F-450 Error Code Reference</p>
+  <table class="codes">
+    <thead><tr><th class="c-code">Code</th><th class="">Fault</th></tr></thead>
+    <tbody>
+<tr><td class="c-code">E1</td><td class="">Freeze cycle time exceeded — evaporator temperature not reached</td></tr>
+<tr><td class="c-code">E2</td><td class="">High-pressure cutout — HP switch trip</td></tr>
+<tr><td class="c-code">E3</td><td class="">Low-pressure cutout — LP switch or loss of charge</td></tr>
+<tr><td class="c-code">E4</td><td class="">Evaporator temperature sensor fault</td></tr>
+<tr><td class="c-code">E5</td><td class="">Inlet water sensor fault</td></tr>
+<tr><td class="c-code">E6</td><td class="">Outlet water sensor fault (where equipped)</td></tr>
+<tr><td class="c-code">E7</td><td class="">Gearmotor overcurrent — auger drive overload</td></tr>
+<tr><td class="c-code">E8</td><td class="">Water supply fault — insufficient water flow</td></tr>
+<tr><td class="c-code">E9</td><td class="">Control board communication fault</td></tr>
+<tr><td class="c-code">F1</td><td class="">Fan motor fault</td></tr>
+<tr><td class="c-code">F2</td><td class="">Refrigerant system high discharge temp</td></tr>
+    </tbody>
+  </table>
+  <p class="src">Full diagnostics: https://errorcodefixes.com/posts/hoshizaki-f450-error-codes/</p>
+</div>
+
+<div class="tblock">
+  <p class="tcap"><span class="tmodel">Hoshizaki KM</span> — Hoshizaki KM-330 Error Codes — What They Mean</p>
+  <table class="codes">
+    <thead><tr><th class="c-code">Code</th><th class="">Meaning</th><th class="">Urgency</th></tr></thead>
+    <tbody>
+<tr><td class="c-code">E1</td><td class="">Ice making cycle too long</td><td class="">Medium</td></tr>
+<tr><td class="c-code">E2</td><td class="">Harvest cycle too long</td><td class="">High</td></tr>
+<tr><td class="c-code">E3</td><td class="">Harvest assist fault</td><td class="">High</td></tr>
+<tr><td class="c-code">E5</td><td class="">High evaporator temperature</td><td class="">Medium</td></tr>
+<tr><td class="c-code">E9</td><td class="">Compressor/refrigeration fault</td><td class="">High</td></tr>
+<tr><td class="c-code">F1</td><td class="">Drain pump fault</td><td class="">Medium</td></tr>
+<tr><td class="c-code">F2</td><td class="">Ice full sensor fault</td><td class="">Low</td></tr>
+    </tbody>
+  </table>
+  <p class="src">Full diagnostics: https://errorcodefixes.com/posts/hoshizaki-km-330-error-codes/</p>
+</div>
+
+<div class="tblock">
+  <p class="tcap"><span class="tmodel">Hoshizaki KM</span> — Hoshizaki KM-515 Error Codes — What They Mean</p>
+  <table class="codes">
+    <thead><tr><th class="c-code">Code</th><th class="">Meaning</th><th class="">Urgency</th></tr></thead>
+    <tbody>
+<tr><td class="c-code">E1</td><td class="">Ice making cycle too long</td><td class="">Medium</td></tr>
+<tr><td class="c-code">E2</td><td class="">Harvest cycle too long</td><td class="">High</td></tr>
+<tr><td class="c-code">E3</td><td class="">Harvest assist fault</td><td class="">High</td></tr>
+<tr><td class="c-code">E5</td><td class="">High evaporator temperature</td><td class="">Medium</td></tr>
+<tr><td class="c-code">E9</td><td class="">Compressor/refrigeration fault</td><td class="">High</td></tr>
+<tr><td class="c-code">F1</td><td class="">Drain pump fault</td><td class="">Medium</td></tr>
+<tr><td class="c-code">F2</td><td class="">Ice full sensor fault</td><td class="">Low</td></tr>
+    </tbody>
+  </table>
+  <p class="src">Full diagnostics: https://errorcodefixes.com/posts/hoshizaki-km-515-error-codes/</p>
+</div>
+
+<div class="tblock">
+  <p class="tcap"><span class="tmodel">Hoshizaki KM</span> — Quick-Reference Error Code Table</p>
+  <table class="codes">
+    <thead><tr><th class="c-code">Code</th><th class="">Fault</th><th class="">Priority</th></tr></thead>
+    <tbody>
+<tr><td class="c-code">E1</td><td class="">Ice thickness sensor</td><td class="">Medium , clean probe first</td></tr>
+<tr><td class="c-code">E2</td><td class="">Float switch / water level</td><td class="">Medium , clean float assembly</td></tr>
+<tr><td class="c-code">E3</td><td class="">High refrigerant pressure</td><td class="">High , coil/fan issue</td></tr>
+<tr><td class="c-code">E4</td><td class="">Low refrigerant pressure</td><td class="">High , call technician</td></tr>
+<tr><td class="c-code">E5</td><td class="">Freeze cycle timeout</td><td class="">High , multiple causes</td></tr>
+<tr><td class="c-code">E6</td><td class="">Harvest cycle timeout</td><td class="">High , valve or water quality</td></tr>
+<tr><td class="c-code">E7</td><td class="">Evaporator sensor fault</td><td class="">Medium , sensor replacement</td></tr>
+<tr><td class="c-code">E8</td><td class="">Water too hot</td><td class="">High , source problem</td></tr>
+    </tbody>
+  </table>
+  <p class="src">Full diagnostics: https://errorcodefixes.com/posts/hoshizaki-km-2000saj-error-codes/</p>
+</div>
+<h3 class="gsubhead">Field diagnostics — code by code</h3>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">•</span>
+    <span class="etitle">Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes</span>
+    
+  </div>
+  <p class="emean">Hoshizaki C-101BAH and C-201BAH countertop crescent cube ice maker error codes explained — diagnose and fix E1 through E6 and F-series safety faults on the most common compact commercial ice machine in hotels, bars, and…</p>
+  
+  
+  <p class="src">Full guide: https://errorcodefixes.com/posts/hoshizaki-c-101bah-error-codes/</p>
+  
+</article>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">E1</span>
+    <span class="etitle">Hoshizaki E1 Error Code</span>
+    <span class="badge b-pro">PRO SERVICE</span>
+  </div>
+  <p class="emean">E1 means the freeze cycle ran too long and timed out.</p>
+  <p class="gcause"><span class="glabel">Most likely</span> leaking inlet water valve or insufficient water supply pressure</p>
+  <div class="gchecks"><span class="glabel">Check first</span><ol><li>Confirm the water shutoff valve is fully open and the supply line is not kinked or restricted.</li><li>Inspect and clean the inlet water filter or strainer for debris that would reduce flow.</li><li>Reset the error code and watch one full freeze cycle to see if the machine runs continuously without forming ice.</li></ol></div>
+  <p class="src">Full guide: https://errorcodefixes.com/posts/hoshizaki-ice-machine-e1-error-code/</p>
+  
+</article>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">E7</span>
+    <span class="etitle">Hoshizaki E7 Error Code</span>
+    
+  </div>
+  <p class="emean">What Hoshizaki E7 error code means, why it happens, and how to fix it step by step.</p>
+  <p class="gcause"><span class="glabel">Most likely</span> Drain valve solenoid failed</p>
+  
+  <p class="src">Full guide: https://errorcodefixes.com/posts/hoshizaki-e7-error-code/</p>
+  
+</article>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">F1</span>
+    <span class="etitle">Hoshizaki F1 Error Code</span>
+    
+  </div>
+  <p class="emean">What Hoshizaki F1 means, why it happens, and how to fix it step by step.</p>
+  <p class="gcause"><span class="glabel">Most likely</span> Drain pump motor failed</p>
+  
+  <p class="src">Full guide: https://errorcodefixes.com/posts/hoshizaki-f1-error-code/</p>
+  
+</article>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">F2</span>
+    <span class="etitle">Hoshizaki F2 Error Code</span>
+    
+  </div>
+  <p class="emean">What Hoshizaki error code F2 means, why the ice full sensor faults, and how to fix it step by step.</p>
+  <p class="gcause"><span class="glabel">Most likely</span> Ice bridging over the bin sensor</p>
+  
+  <p class="src">Full guide: https://errorcodefixes.com/posts/hoshizaki-f2-error-code/</p>
+  
+</article>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">E8</span>
+    <span class="etitle">Hoshizaki Ice Machine E8 Error Code</span>
+    
+  </div>
+  <p class="emean">What Hoshizaki E8 low-side pressure switch fault means, why it trips, and how to diagnose and fix it step by step.</p>
+  <p class="gcause"><span class="glabel">Most likely</span> Low refrigerant charge</p>
+  
+  <p class="src">Full guide: https://errorcodefixes.com/posts/hoshizaki-e8-error-code/</p>
+  
+</article>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">•</span>
+    <span class="etitle">Hoshizaki KM-901 Error Codes</span>
+    
+  </div>
+  <p class="emean">The Hoshizaki KM-901 ice machine displays fault codes E1 through E8 when it detects a problem — this guide explains each code, how to diagnose the cause, and what parts to order.</p>
+  
+  
+  <p class="src">Full guide: https://errorcodefixes.com/posts/hoshizaki-km-901-error-codes/</p>
+  
+</article>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">•</span>
+    <span class="etitle">Hoshizaki KM-1301 Error Codes</span>
+    
+  </div>
+  <p class="emean">Hoshizaki KM-1301 error codes: freeze cycle, harvest cycle, thermistor, and water system faults with causes and fixes.</p>
+  <p class="gcause"><span class="glabel">Most likely</span> Long freeze cycle</p>
+  
+  <p class="src">Full guide: https://errorcodefixes.com/posts/hoshizaki-km-1301-error-codes/</p>
+  
+</article>
+
+<article class="entry">
+  <div class="ehead">
+    <span class="ecode">•</span>
+    <span class="etitle">Hoshizaki KM-1301SAH Error Codes</span>
+    
+  </div>
+  <p class="emean">Hoshizaki KM-1301SAH error codes explained — this large crescent-cube commercial ice machine communicates faults through LED blink codes on the control board.</p>
+  
+  
+  <p class="src">Full guide: https://errorcodefixes.com/posts/hoshizaki-km-1301sah-error-codes/</p>
+  
+</article>
+</section>
+
+<section class="brand upsell">
+  <div class="band"><span class="bnum">→</span><span class="bname">Get the full Field Reference</span><span class="bgroup">17 brands</span></div>
+  <p class="upsell-copy">This sample covers ABB and Hoshizaki. The full edition adds every industrial brand section on errorcodefixes.com — Fanuc, Haas, ABB, Siemens, Yaskawa, Danfoss, Mitsubishi, SEW-Eurodrive, York, Trane, Hoshizaki, Manitowoc, Scotsman, Rational, Hobart, APC, Generac — 869 code entries compiled the same way, one file, works offline.</p>
+  <p class="upsell-cta">https://errorcodefixes.com/field-reference/</p>
+</section>
+
+<div class="endnote">
+  <p>Industrial Fault-Code Field Reference — SAMPLE edition. Compiled from 45 published
+  diagnostic guides at errorcodefixes.com. Content updated Jun 2026.</p>
+  <p>© errorcodefixes.com. Independent reference — not affiliated with any equipment manufacturer.
+  Codes, thresholds, and procedures vary by model, firmware, and installation: always confirm against the
+  unit's own service documentation before acting.</p>
+</div>
+
+</div>
+</td></tr></tbody>
+</table>
+</div>
+</body>
+</html>

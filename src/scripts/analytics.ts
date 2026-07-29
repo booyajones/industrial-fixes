@@ -71,6 +71,7 @@ function trackAffiliateClicks() {
       href.includes("supplyhouse.com") ||
       href.includes("partstown.com") ||
       href.includes("grainger.com") ||
+      href.includes("ebay.com") ||
       href.includes("johnstonesupply.com") ||
       href.includes("homedepot.com") ||
       href.includes("jbtools.com") ||

@@ -1,0 +1,235 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import EmailCapture from "@/components/EmailCapture.astro";
+import { SITE, FIELD_REFERENCE_BUY_URL } from "@/config";
+import stats from "@/data/field-reference-stats.json";
+
+// All numbers on this page are computed by scripts/build-field-reference.mjs
+// from the actual compiled editions — nothing is invented here.
+const { full, sample, groups, updated } = stats;
+const sampleBrands = sample.brands.join(" + ");
+const onSale = FIELD_REFERENCE_BUY_URL !== "";
+
+const pageTitle = `Industrial Fault-Code Field Reference | ${SITE.title}`;
+const pageDesc = `An offline, brand-sectioned fault-code reference for industrial and facilities techs: ${full.brands} brands, ${full.codes} code entries with meanings, first checks, and when-to-call-a-pro flags. Compiled from errorcodefixes.com's published guides. Free ${sampleBrands} sample.`;
+---
+
+<Layout title={pageTitle} description={pageDesc}>
+  <Header />
+  <main id="main-content" class="app-layout pb-16">
+    <!-- Hero -->
+    <section class="mt-10">
+      <p class="fr-eyebrow">For the binder &amp; the phone — works offline</p>
+      <h1 class="mt-2 text-3xl font-bold text-foreground sm:text-4xl">
+        Industrial Fault-Code Field Reference
+      </h1>
+      <p class="mt-4 max-w-2xl text-lg text-foreground/80">
+        When a drive trips or an ice machine locks out, the network is usually the
+        first thing you don't have. This is every industrial fault-code table and
+        field diagnostic from this site, compiled into one brand-sectioned file you
+        can keep on your phone or print into the shop binder.
+      </p>
+      <div class="fr-stats mt-6">
+        <div><span class="n">{full.brands}</span><span class="l">Brand sections</span></div>
+        <div><span class="n">{full.codes}</span><span class="l">Code entries</span></div>
+        <div><span class="n">{full.guides}</span><span class="l">Source guides</span></div>
+        <div><span class="n">{updated}</span><span class="l">Content updated</span></div>
+      </div>
+    </section>
+
+    <!-- What it is -->
+    <section class="mt-10 max-w-2xl">
+      <h2 class="text-xl font-bold text-foreground">What you get</h2>
+      <ul class="mt-3 space-y-2 text-foreground/80">
+        <li>→ <strong>Code tables per brand and series</strong> — code, meaning, and short description in dense, scannable tables with monospace code columns.</li>
+        <li>→ <strong>Field diagnostics code by code</strong> — what the code means, the most likely cause, the first free checks, and a PRO SERVICE flag where the work belongs with a qualified tech.</li>
+        <li>→ <strong>Offline by design</strong> — one self-contained file (HTML + print-ready PDF). No login, no app, no connection needed.</li>
+        <li>→ <strong>Every entry cites its source</strong> — the full step-by-step guide on errorcodefixes.com, for when you're back on the network.</li>
+      </ul>
+    </section>
+
+    <!-- TOC preview -->
+    <section class="mt-10">
+      <h2 class="text-xl font-bold text-foreground">What's inside — full edition</h2>
+      <div class="mt-4 grid gap-6 sm:grid-cols-2">
+        {groups.map(g => (
+          <div class="fr-group">
+            <p class="fr-group-name">{g.group}</p>
+            <ul>
+              {g.sections.map(s => (
+                <li>
+                  <span class="fr-brand">{s.title}</span>
+                  <span class="fr-count">{s.codes} codes</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- Who it's for -->
+    <section class="mt-10 max-w-2xl">
+      <h2 class="text-xl font-bold text-foreground">Who it's for</h2>
+      <p class="mt-3 text-foreground/80">
+        Maintenance techs, facilities engineers, and service-shop crews who work on
+        VFDs, CNC controls, chillers, ice machines, commercial kitchen equipment,
+        UPS units, and standby generators — anyone who has stood in front of a
+        flashing panel in a basement with no signal. If your first move on a fault
+        is "look up the code," this is that lookup, already downloaded.
+      </p>
+    </section>
+
+    <!-- CTA -->
+    <section class="mt-10" id="get-it">
+      {onSale ? (
+        <div class="fr-cta-box">
+          <h2 class="text-xl font-bold text-foreground">Get the Field Reference</h2>
+          <p class="mt-2 text-foreground/80">
+            Full edition: {full.brands} brand sections, {full.codes} code entries, HTML + PDF.
+          </p>
+          <div class="mt-4 flex flex-wrap items-center gap-4">
+            <a
+              href={FIELD_REFERENCE_BUY_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="fr-buy-btn"
+            >Buy the full edition</a>
+            <a href={sample.html} class="fr-sample-link">
+              Or grab the free {sampleBrands} sample first →
+            </a>
+          </div>
+        </div>
+      ) : (
+        <div class="fr-cta-box">
+          <h2 class="text-xl font-bold text-foreground">Full edition launching soon — the sample is free</h2>
+          <p class="mt-2 text-foreground/80">
+            The free sample is the complete {sampleBrands} sections — {sample.codes} code
+            entries, exactly as they appear in the full edition. Drop your email and
+            it's yours; we'll also tell you when the full {full.brands}-brand edition goes live.
+          </p>
+          <EmailCapture
+            catSlug="field-reference"
+            headline="Get the free sample"
+            subline={` — the full ${sampleBrands} sections as HTML + print-ready PDF.`}
+            buttonLabel="Send me the sample"
+          />
+        </div>
+      )}
+    </section>
+
+    <!-- Honest positioning -->
+    <section class="mt-10 max-w-2xl">
+      <h2 class="text-xl font-bold text-foreground">The honest fine print</h2>
+      <ul class="mt-3 space-y-2 text-sm text-foreground/70">
+        <li>→ <strong>Independent.</strong> errorcodefixes.com is not affiliated with or endorsed by any equipment manufacturer. Brand names are used for identification only.</li>
+        <li>→ <strong>Compiled, not invented.</strong> Every table and entry comes from our published diagnostic guides and cites its source page — the same content, organized for offline field use.</li>
+        <li>→ <strong>We don't sell parts.</strong> No affiliate links, no parts pricing, no upsells inside the reference. Codes, causes, first checks, and when to call a pro.</li>
+        <li>→ <strong>Not a substitute for the service manual.</strong> Codes and thresholds vary by model and firmware — confirm against the unit's own documentation, and follow lockout/tagout.</li>
+      </ul>
+    </section>
+  </main>
+  <Footer />
+</Layout>
+
+<style>
+  .fr-eyebrow {
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--accent);
+  }
+  .fr-stats {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    overflow: hidden;
+    max-width: 36rem;
+  }
+  @media (min-width: 640px) {
+    .fr-stats { grid-template-columns: repeat(4, 1fr); }
+  }
+  .fr-stats div {
+    padding: 0.75rem 1rem;
+    border-right: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    background: var(--surface);
+  }
+  .fr-stats .n {
+    display: block;
+    font-family: var(--font-mono);
+    font-size: 1.35rem;
+    font-weight: 700;
+    color: var(--brand);
+  }
+  .fr-stats .l {
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: color-mix(in srgb, var(--foreground) 60%, transparent);
+  }
+
+  .fr-group {
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1rem 1.25rem;
+    background: var(--surface);
+  }
+  .fr-group-name {
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--accent);
+    margin-bottom: 0.5rem;
+  }
+  .fr-group ul { margin: 0; padding: 0; list-style: none; }
+  .fr-group li {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    align-items: baseline;
+    padding: 0.3rem 0;
+    border-bottom: 1px dashed var(--border);
+    font-size: 0.9rem;
+  }
+  .fr-group li:last-child { border-bottom: 0; }
+  .fr-brand { color: var(--foreground); }
+  .fr-count {
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    white-space: nowrap;
+    color: color-mix(in srgb, var(--foreground) 60%, transparent);
+  }
+
+  .fr-cta-box {
+    border: 2px solid var(--accent);
+    border-radius: 12px;
+    padding: 1.5rem;
+    background: color-mix(in srgb, var(--accent) 5%, var(--surface));
+  }
+  .fr-buy-btn {
+    display: inline-flex;
+    align-items: center;
+    background: var(--accent);
+    color: #fff;
+    font-weight: 700;
+    font-size: 0.95rem;
+    padding: 0.65rem 1.5rem;
+    border-radius: 8px;
+    text-decoration: none;
+  }
+  .fr-buy-btn:hover {
+    background: color-mix(in srgb, var(--accent) 88%, var(--foreground));
+  }
+  .fr-sample-link {
+    font-size: 0.9rem;
+    color: var(--accent);
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+  }
+</style>

@@ -22,6 +22,7 @@ import { NOINDEX_SLUGS } from "@/data/noindex-slugs";
 import { slugifyStr } from "@/utils/slugify";
 import IconChevronLeft from "@/assets/icons/IconChevronLeft.svg";
 import IconChevronRight from "@/assets/icons/IconChevronRight.svg";
+import frStats from "@/data/field-reference-stats.json";
 
 type Props = {
   post: CollectionEntry<"blog">;
@@ -452,6 +453,20 @@ const nextPost =
 
     <EmailCapture brand={tags?.[0]} category={postCategory} />
 
+    <!-- Field Reference promo: industrial-tagged posts only (same tag gate as
+         QuoteRequest above). One sentence + link, next to the email capture. -->
+    {showQuoteRequest && (
+      <aside class="fr-promo" data-pagefind-ignore>
+        <p>
+          <span class="fr-promo-label">Offline reference</span>
+          Working somewhere with no signal? The
+          <a href="/field-reference/">Industrial Fault-Code Field Reference</a>
+          packs {frStats.full.codes} code entries across {frStats.full.brands} industrial
+          brands into one printable, phone-ready file — free {frStats.sample.brands.join(" + ")} sample.
+        </p>
+      </aside>
+    )}
+
     <hr class="my-6 border-dashed" />
 
     <!-- Previous/Next Post Buttons -->
@@ -576,6 +591,35 @@ const nextPost =
   }
   .nlt-body strong { font-weight: 700; }
 
+  /* Field Reference promo card — slim, token-colored, industrial posts only. */
+  .fr-promo {
+    margin: 1rem 0 0;
+    padding: 0.8rem 1.1rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--brand);
+    border-radius: 10px;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: color-mix(in srgb, var(--foreground) 85%, transparent);
+  }
+  .fr-promo p { margin: 0; }
+  .fr-promo-label {
+    display: block;
+    font-size: 0.62rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--brand);
+    margin-bottom: 0.2rem;
+  }
+  .fr-promo a {
+    color: var(--accent);
+    font-weight: 600;
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+  }
+
   /* Title + copy button */
   .title-copy-wrapper {
     display: flex;
@@ -627,7 +671,7 @@ const nextPost =
   /* Print: strip the interactive chrome; keep the diagnosis + article. Global
      (unscoped) so the selectors reach into the child components. */
   @media print {
-    #chat-widget, .email-capture-box, .quote-request, .sticky-parts, nav, footer { display: none !important; }
+    #chat-widget, .email-capture-box, .quote-request, .sticky-parts, .fr-promo, nav, footer { display: none !important; }
     .diagnosis-card { border: 1px solid #000 !important; }
   }
 </style>

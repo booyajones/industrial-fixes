@@ -1,0 +1,247 @@
+{
+  "updated": "Jun 2026",
+  "full": {
+    "brands": 17,
+    "codes": 869,
+    "guides": 196
+  },
+  "sample": {
+    "brands": [
+      "ABB",
+      "Hoshizaki"
+    ],
+    "codes": 180,
+    "html": "/resources/field-reference-sample.html",
+    "pdf": "/resources/field-reference-sample.pdf"
+  },
+  "groups": [
+    {
+      "group": "CNC Machine Tools",
+      "sections": [
+        {
+          "brand": "Fanuc",
+          "title": "Fanuc CNC Controls",
+          "codes": 38,
+          "guides": 18,
+          "models": [
+            "Fanuc 30i/31i/32i",
+            "Fanuc CNC",
+            "Fanuc"
+          ]
+        },
+        {
+          "brand": "Haas",
+          "title": "Haas CNC Machines",
+          "codes": 61,
+          "guides": 12,
+          "models": [
+            "Haas CNC",
+            "Haas Next Generation Control",
+            "Haas SL",
+            "Haas VF",
+            "Haas"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "VFDs & Industrial Drives",
+      "sections": [
+        {
+          "brand": "ABB",
+          "title": "ABB Drives (ACS / ACH)",
+          "codes": 141,
+          "guides": 28,
+          "models": [
+            "ABB ACS150 Micro Drive",
+            "ABB ACS550 Complete",
+            "ABB ACS580",
+            "ABB ACS880 Complete",
+            "ABB ACS880",
+            "ABB VFD"
+          ]
+        },
+        {
+          "brand": "Siemens",
+          "title": "Siemens Drives, CNC & PLC",
+          "codes": 73,
+          "guides": 24,
+          "models": [
+            "Siemens G120C VFD",
+            "Siemens S7",
+            "Siemens SINAMICS G120X",
+            "Siemens SINAMICS S120",
+            "Siemens Sinumerik 828D",
+            "Siemens VFD"
+          ]
+        },
+        {
+          "brand": "Yaskawa",
+          "title": "Yaskawa Drives (A1000 / GA500 / GA700 / GA800 / V1000)",
+          "codes": 114,
+          "guides": 29,
+          "models": [
+            "Yaskawa A1000 Complete Guide",
+            "Yaskawa J1000",
+            "Yaskawa Sigma",
+            "Yaskawa U1000",
+            "Yaskawa V1000 Complete",
+            "Yaskawa V1000 OC"
+          ]
+        },
+        {
+          "brand": "Danfoss",
+          "title": "Danfoss Drives (VLT FC-Series)",
+          "codes": 71,
+          "guides": 16,
+          "models": [
+            "Danfoss FC102 VLT HVAC Drive",
+            "Danfoss FC302 Complete",
+            "Danfoss VFD",
+            "Danfoss VLT 2900",
+            "Danfoss FC",
+            "Danfoss FC301"
+          ]
+        },
+        {
+          "brand": "Mitsubishi",
+          "title": "Mitsubishi Drives & Servo (FR / MR-J)",
+          "codes": 37,
+          "guides": 4,
+          "models": [
+            "Mitsubishi FR",
+            "Mitsubishi MR"
+          ]
+        },
+        {
+          "brand": "SEW-Eurodrive",
+          "title": "SEW-Eurodrive (Movitrac / Movidrive)",
+          "codes": 12,
+          "guides": 3,
+          "models": [
+            "SEW"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "Chillers",
+      "sections": [
+        {
+          "brand": "York",
+          "title": "York Chillers (OptiView)",
+          "codes": 23,
+          "guides": 1,
+          "models": [
+            "York Chiller"
+          ]
+        },
+        {
+          "brand": "Trane",
+          "title": "Trane Chillers (Tracer CH530)",
+          "codes": 15,
+          "guides": 1,
+          "models": [
+            "Trane Chiller"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "Ice Machines & Refrigeration",
+      "sections": [
+        {
+          "brand": "Hoshizaki",
+          "title": "Hoshizaki Ice Machines",
+          "codes": 39,
+          "guides": 17,
+          "models": [
+            "Hoshizaki DKM",
+            "Hoshizaki F",
+            "Hoshizaki KM",
+            "Hoshizaki C",
+            "Hoshizaki E1",
+            "Hoshizaki E7"
+          ]
+        },
+        {
+          "brand": "Manitowoc",
+          "title": "Manitowoc Ice Machines",
+          "codes": 76,
+          "guides": 21,
+          "models": [
+            "Frymaster Commercial Fryer",
+            "Manitowoc Ice Machine Complete Troubleshooting Guide",
+            "Manitowoc ID",
+            "Manitowoc Indigo Ice Machine",
+            "Manitowoc IY",
+            "Manitowoc IYT"
+          ]
+        },
+        {
+          "brand": "Scotsman",
+          "title": "Scotsman Ice Machines",
+          "codes": 48,
+          "guides": 15,
+          "models": [
+            "Scotsman C0522",
+            "Scotsman HID312",
+            "Scotsman HID525",
+            "Scotsman Ice Machine Complete Troubleshooting Guide",
+            "Scotsman Prodigy Plus",
+            "Scotsman 1"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "Commercial Kitchen",
+      "sections": [
+        {
+          "brand": "Rational",
+          "title": "Rational Combi Ovens",
+          "codes": 57,
+          "guides": 2,
+          "models": [
+            "Commercial Combi Oven",
+            "Rational iCombi Classic & Pro"
+          ]
+        },
+        {
+          "brand": "Hobart",
+          "title": "Hobart Dish Machines",
+          "codes": 15,
+          "guides": 2,
+          "models": [
+            "Hobart Dishwasher",
+            "Hobart AM15"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "Power & Backup",
+      "sections": [
+        {
+          "brand": "APC",
+          "title": "APC UPS Systems",
+          "codes": 27,
+          "guides": 2,
+          "models": [
+            "APC Smart",
+            "APC UPS"
+          ]
+        },
+        {
+          "brand": "Generac",
+          "title": "Generac Generators",
+          "codes": 22,
+          "guides": 1,
+          "models": [
+            "Generac Generator"
+          ]
+        }
+      ]
+    }
+  ]
+}
