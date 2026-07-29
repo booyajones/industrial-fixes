@@ -175,6 +175,15 @@ function parseFrontmatter(text) {
     if (val === "") {
       fm[key] = [];
       listKey = key;
+    } else if (val.startsWith("[") && val.endsWith("]")) {
+      // Inline YAML flow array: `tags: [vfd, danfoss]`. Already used by ~10
+      // live posts. Parsing this as a plain string silently yielded an empty
+      // tag list downstream, which could drop a real page out of a PAID
+      // product with no warning.
+      fm[key] = val.slice(1, -1).split(",")
+        .map(v => v.trim().replace(/^["']|["']$/g, ""))
+        .filter(Boolean);
+      listKey = null;
     } else {
       fm[key] = val.replace(/^["']|["']$/g, "");
       listKey = null;
@@ -804,6 +813,7 @@ function findChrome() {
 function htmlToPdf(chrome, htmlPath, pdfPath) {
   const res = spawnSync(chrome, [
     "--headless",
+    "--no-sandbox", // headless Chrome crashes under most CI sandbox profiles without this
     "--disable-gpu",
     "--no-first-run",
     "--no-default-browser-check",
@@ -920,4 +930,17 @@ function main() {
   }
 }
 
-main();
+// This runs from `prebuild`, i.e. on every push-to-main production deploy with
+// no human gate. A throw here aborts `npm run build` before astro ever starts,
+// so a missing input file would take the whole site's deploy down to ship a
+// side artifact. Never let that trade happen: log loudly, exit 0, deploy the
+// site. A stale Field Reference is a bad day; a failed deploy is a bad week.
+try {
+  main();
+} catch (err) {
+  console.error("\n" + "!".repeat(70));
+  console.error("FIELD REFERENCE BUILD FAILED — continuing so the site still deploys.");
+  console.error("The product artifacts and stats JSON may be stale. Fix this:");
+  console.error(err?.stack || err);
+  console.error("!".repeat(70) + "\n");
+}

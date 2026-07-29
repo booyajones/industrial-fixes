@@ -48,7 +48,12 @@ const RULES: Rule[] = [
   // takes precedence over this table. Grainger keeps the industrial
   // consumables (contactors, fuses, batteries, compressors).
   { match: ["compressor", "ups", "generator", "industrial"], merchant: MERCHANTS.grainger },
-  { match: ["hvac", "furnace", "heat-pump", "mini-split", "refrigeration", "ac", "thermostat", "chiller"], merchant: MERCHANTS.supplyhouse },
+  // "inverter" lives HERE, not in BOARD_LEVEL: on this site it means an
+  // inverter-driven mini-split far more often than an industrial inverter
+  // drive (the only live post carrying it is mitsubishi-u7-error-code). Every
+  // genuine board-level page also carries vfd/drive/cnc/plc/servo, so it is
+  // never load-bearing for eBay routing.
+  { match: ["hvac", "furnace", "heat-pump", "mini-split", "refrigeration", "ac", "thermostat", "chiller", "inverter"], merchant: MERCHANTS.supplyhouse },
 ];
 
 // Pick the merchant that stocks parts for this equipment class. Defaults to
@@ -60,8 +65,22 @@ const RULES: Rule[] = [
 // Grainger keyword search. Verified 2026-07-28: affects plc-fault-codes-guide
 // and servo-motor-fault-codes; every other page routes identically.
 const BOARD_LEVEL = new Set([
-  "vfd", "cnc", "plc", "industrial-controls", "drive", "inverter", "servo", "robot",
+  "vfd", "cnc", "plc", "industrial-controls", "drive", "servo", "robot",
 ]);
+
+// BOARD_LEVEL is checked BEFORE the ordered RULES loop, so any tag appearing in
+// both makes its RULES entry silently unreachable. That is exactly how
+// "inverter" once hijacked mini-split pages to eBay. Fail loudly in dev instead
+// of shipping a silent misroute; tree-shaken out of the production build.
+if (import.meta.env?.DEV) {
+  const overlap = RULES.flatMap(r => r.match).filter(t => BOARD_LEVEL.has(t));
+  if (overlap.length) {
+    throw new Error(
+      `partMerchant: tag(s) [${overlap.join(", ")}] are in BOARD_LEVEL and in RULES. ` +
+      `BOARD_LEVEL wins unconditionally, so those RULES entries are dead. Pick one.`
+    );
+  }
+}
 
 export function pickMerchant(tags: readonly string[] = []): Merchant {
   const lower = tags.map(t => t.toLowerCase());
