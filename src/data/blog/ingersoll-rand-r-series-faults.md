@@ -52,12 +52,12 @@ The Intellisys controller tracks service intervals by run hours. Level 1 is typi
 
 | Part | Notes |
 |------|-------|
-| Inlet air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-ingersoll-rand-r-series-faults&tag=errorcodefixes-20) \| Replace at scheduled interval |
+| Inlet air filter | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-ingersoll-rand-r-series-faults&k=Ingersoll+Rand+Inlet+air+filter&tag=errorcodefixes-20) \| Replace at scheduled interval |
 | Oil filter element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ingersoll-rand-r-series-faults&k=Oil+filter+element&tag=errorcodefixes-20) \| IR-specific — match model |
 | Oil separator element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ingersoll-rand-r-series-faults&k=Oil+separator+element&tag=errorcodefixes-20) \| Replace at Level 2 interval |
 | Compressor oil | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ingersoll-rand-r-series-faults&k=Compressor+oil&tag=errorcodefixes-20) \| IR synthetic — model-specific |
 | Auto-drain solenoid valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ingersoll-rand-r-series-faults&k=Auto-drain+solenoid+valve&tag=errorcodefixes-20) \| Check for stuck-open or stuck-closed |
-| Temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-ingersoll-rand-r-series-faults&tag=errorcodefixes-20) \| Match Intellisys controller input type |
+| Temperature sensor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-ingersoll-rand-r-series-faults&k=Ingersoll+Rand+Temperature+sensor&tag=errorcodefixes-20) \| Match Intellisys controller input type |
 > **Pro tip:** Ingersoll-Rand Intellisys controllers on networked compressor rooms can be monitored remotely via the IR Connect app. Fault alerts can be sent to maintenance personnel by email or text, enabling faster response to high-temperature events before the compressor shuts down.
 
 ## More Ingersoll Rand R Series fault codes

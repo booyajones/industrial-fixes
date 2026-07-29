@@ -74,7 +74,7 @@ Sensor codes 204 through 207 tell you the control board lost a temperature input
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
 | [York Outdoor Sensor S1-02543234000](https://www.amazon.com/s?ascsubtag=ecf-york-yzv-heat-pump-error-codes&k=York+S1-02543234000+sensor&tag=errorcodefixes-20) | Replaces failed ambient or coil thermistors for codes 204 and 205 | $20–$45 |
-| [York Line Temperature Sensor S1-02545392000](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-york-yzv-heat-pump-error-codes&tag=errorcodefixes-20) | Used for suction or discharge temperature faults on many YZV units | $20–$45 |
+| [York Line Temperature Sensor S1-02545392000](https://www.amazon.com/s?ascsubtag=ecf-york-yzv-heat-pump-error-codes&k=York+Line+Temperature+Sensor+S1-02545392000&tag=errorcodefixes-20) | Used for suction or discharge temperature faults on many YZV units | $20–$45 |
 | [York YZV Outdoor Control Board](https://www.amazon.com/s?k=York+YZV+Outdoor+Control+Board&tag=errorcodefixes-20) | Needed for persistent board memory or communication faults | $180–$420 |
 | [Heat Pump Reversing Valve Solenoid 24V](https://www.amazon.com/s?ascsubtag=ecf-york-yzv-heat-pump-error-codes&k=heat+pump+reversing+valve+solenoid+24V&tag=errorcodefixes-20) | Fixes common reversing valve electrical failures tied to code 213 | $20–$45 |
 | [ECM Outdoor Fan Motor for York Heat Pump](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-york-yzv-heat-pump-error-codes&tag=errorcodefixes-20) | Replaces failed variable-speed fan motor causing code 212 and high pressure | $120–$320 |

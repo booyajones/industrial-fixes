@@ -507,7 +507,7 @@ Water treatment is non-negotiable. Hard water without softening deposits scale o
 
 | Part | Application | Notes |
 |------|-------------|-------|
-| Cabinet thermocouple B1 | Service 20.1 / temperature fault | [Amazon search](https://www.amazon.com/dp/B00RJF4PYQ?ascsubtag=ecf-rational-combi-oven-error-codes&tag=errorcodefixes-20) |
+| Cabinet thermocouple B1 | Service 20.1 / temperature fault | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-rational-combi-oven-error-codes&k=Rational+Cabinet+thermocouple+B1&tag=errorcodefixes-20) |
 | Steam generator thermocouple B5 | Service 20.8 / 28 | Check Rational part numbers by model |
 | CDS flow sensor | Service 11, 12, 25, 41 | [Amazon search](https://www.amazon.com/s?ascsubtag=ecf-rational-combi-oven-error-codes&k=Rational+CDS+sensor+combi+oven&tag=errorcodefixes-20) |
 | Level electrode | Service 13, 14, 100 | Critical in hard-water areas |

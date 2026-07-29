@@ -339,5 +339,5 @@ For any persistent F or E series code after reset, or any OE code, call a factor
 Find replacement parts for Wolf commercial ranges on Amazon:
 
 - [Wolf Commercial Range Parts](https://www.amazon.com/s?ascsubtag=ecf-wolf-commercial-range-error-codes&k=Wolf+commercial+range+parts&tag=errorcodefixes-20)
-- [Wolf Range Thermocouple & Ignition Parts](https://www.amazon.com/dp/B00RJF4PYQ?ascsubtag=ecf-wolf-commercial-range-error-codes&tag=errorcodefixes-20)
+- [Wolf Range Thermocouple & Ignition Parts](https://www.amazon.com/s?ascsubtag=ecf-wolf-commercial-range-error-codes&k=Wolf+Range+Thermocouple+%26+Ignition+Parts&tag=errorcodefixes-20)
 - [Commercial Range Burner & Valve Parts](https://www.amazon.com/s?ascsubtag=ecf-wolf-commercial-range-error-codes&k=Wolf+commercial+burner+valve+replacement&tag=errorcodefixes-20)

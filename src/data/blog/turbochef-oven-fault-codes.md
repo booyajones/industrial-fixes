@@ -61,7 +61,7 @@ The impingement blower provides hot air jets. If the blower fails, the oven cook
 
 | Part | Notes |
 |------|-------|
-| Type K thermocouple | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?ascsubtag=ecf-turbochef-oven-fault-codes&tag=errorcodefixes-20) \| Common sensor failure |
+| Type K thermocouple | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-turbochef-oven-fault-codes&k=TurboChef+Type+K+thermocouple&tag=errorcodefixes-20) \| Common sensor failure |
 | Door interlock switch kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-turbochef-oven-fault-codes&k=Door+interlock+switch+kit&tag=errorcodefixes-20) \| Replace on E4 fault |
 | Blower wheel | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-turbochef-oven-fault-codes&k=Blower+wheel&tag=errorcodefixes-20) \| Clean or replace on E6 |
 | Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| Replace on E5 fault |

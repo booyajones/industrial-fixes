@@ -52,7 +52,7 @@ The F08 fault is functionally identical to flame failure codes on other high-eff
 | Flame rod / ionization sensor | [Amazon](https://www.amazon.com/s?k=Flame+rod+%2F+ionization+sensor&tag=errorcodefixes-20) — Look up part number by model; common Knight series sensors are interchangeable within the series |
 | Ignition electrode | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lochinvar-boiler-flame-fail&k=lochinvar+knight+boiler+ignition+electrode&tag=errorcodefixes-20) — Replace when ceramic is cracked or spark gap is out of spec |
 | High-voltage ignition cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lochinvar-boiler-flame-fail&k=boiler+high+voltage+ignition+cable&tag=errorcodefixes-20) — Replace if insulation is cracked or arc marks are visible on the cable |
-| Gas valve (Honeywell VR series) | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-lochinvar-boiler-flame-fail&tag=errorcodefixes-20) — Replace only after confirming gas supply is adequate and ignition components are good |
+| Gas valve (Honeywell VR series) | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-lochinvar-boiler-flame-fail&k=Lochinvar+Gas+valve+%28Honeywell+VR+series%29&tag=errorcodefixes-20) — Replace only after confirming gas supply is adequate and ignition components are good |
 
 ## When to Call a Technician
 

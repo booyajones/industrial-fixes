@@ -53,9 +53,9 @@ Variable-speed heat pumps will often throw discharge temp, sensor, or drive prot
 | Item | Notes |
 |------|-------|
 | Defrost board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-error-code-guide&k=Defrost+board&tag=errorcodefixes-20) \| Common on standard split heat pumps |
-| Defrost sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-heat-pump-error-code-guide&tag=errorcodefixes-20) \| Cheap but important |
-| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-heat-pump-error-code-guide&tag=errorcodefixes-20) \| Still common on non-inverter systems |
-| Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-heat-pump-error-code-guide&tag=errorcodefixes-20) \| Voltage drop and no-start complaints |
+| Defrost sensor | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-heat-pump-error-code-guide&tag=errorcodefixes-20) \| Cheap but important |
+| Run capacitor | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-heat-pump-error-code-guide&tag=errorcodefixes-20) \| Still common on non-inverter systems |
+| Contactor | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-heat-pump-error-code-guide&tag=errorcodefixes-20) \| Voltage drop and no-start complaints |
 | Thermistors | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-error-code-guide&k=Thermistors&tag=errorcodefixes-20) \| Frequent on inverter units |
 | Coil cleaner | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-error-code-guide&k=Coil+cleaner&tag=errorcodefixes-20) \| Essential before condemning parts |
 ## When to Call a Pro

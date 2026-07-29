@@ -68,6 +68,6 @@ The drive lost communication with the EtherNet/IP network or I/O scanner. Check:
 |------|-------|
 | HIM module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-fault-codes&k=HIM+module&tag=errorcodefixes-20) \| PowerFlex 4/40: 22-HIM-A3; PF700: 20-HIM-A3 |
 | Dynamic braking resistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-fault-codes&k=Dynamic+braking+resistor&tag=errorcodefixes-20) \| Size per drive HP; Rockwell catalog or third-party |
-| Contactor / line reactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-allen-bradley-powerflex-fault-codes&tag=errorcodefixes-20) \| Add if experiencing nuisance undervoltage trips |
+| Contactor / line reactor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-fault-codes&k=Allen+Bradley+Contactor+%2F+line+reactor&tag=errorcodefixes-20) \| Add if experiencing nuisance undervoltage trips |
 ## When to Call a Pro
 F012 (hardware overcurrent) and any fault accompanied by a burning smell or visible damage to the drive's output stage require qualified drive service technicians. Replacing IGBTs and gate drivers inside a PowerFlex 700 or 755 requires specialized training and tools.

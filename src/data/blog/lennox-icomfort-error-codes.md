@@ -57,8 +57,8 @@ EFO is distinct from a simple ignition failure (where the burner never lights). 
 | Part | Notes |
 |------|-------|
 | Replacement flame sensor | [Amazon](https://www.amazon.com/s?k=Replacement+flame+sensor&tag=errorcodefixes-20) — Verify part number on the label; common Lennox sensors are 38L73, 10L56 |
-| Draft inducer capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-lennox-icomfort-error-codes&tag=errorcodefixes-20) — A failed run capacitor causes the inducer to run slow |
-| Draft inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-lennox-icomfort-error-codes&tag=errorcodefixes-20) — Replace when bearings are noisy or motor won't reach full speed |
+| Draft inducer capacitor | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-lennox-icomfort-error-codes&tag=errorcodefixes-20) — A failed run capacitor causes the inducer to run slow |
+| Draft inducer motor | [View on Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-lennox-icomfort-error-codes&tag=errorcodefixes-20) — Replace when bearings are noisy or motor won't reach full speed |
 | iComfort S30 thermostat | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-icomfort-error-codes&k=lennox+icomfort+s30+thermostat&tag=errorcodefixes-20) — Replace if the thermostat itself is generating false alerts |
 
 ## When to Call a Technician

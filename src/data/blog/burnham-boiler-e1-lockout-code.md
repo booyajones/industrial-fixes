@@ -54,7 +54,7 @@ On Burnham boilers, lockout is a safety feature — repeated ignition failures c
 |------|-------------|-------------|
 | Ignition electrode (Burnham OEM, e.g., 7-2-0801) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-burnham-boiler-e1-lockout-code&k=Ignition+electrode+%28Burnham+OEM%2C+e.g.%2C+7-2-0801%29&tag=errorcodefixes-20) \| Burnham dealer, HeatersPlus | $25–$60 |
 | Flame sensor / ionization rod (OEM) | [Amazon](https://www.amazon.com/s?k=Flame+sensor+%2F+ionization+rod+%28OEM%29&tag=errorcodefixes-20) \| Burnham dealer, eComfort | $20–$50 |
-| Gas valve (Honeywell VR8205, common Burnham app) | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-burnham-boiler-e1-lockout-code&tag=errorcodefixes-20) \| Burnham dealer, Johnstone Supply | $100–$250 |
+| Gas valve (Honeywell VR8205, common Burnham app) | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-burnham-boiler-e1-lockout-code&k=Gas+valve+%28Honeywell+VR8205%2C+common+Burnham+app%29&tag=errorcodefixes-20) \| Burnham dealer, Johnstone Supply | $100–$250 |
 | Burnham integrated control board | [Amazon](https://www.amazon.com/s?k=Burnham+integrated+control+board&tag=errorcodefixes-20) \| Burnham dealer, eComfort | $150–$400 |
 ## When to Call a Professional
 

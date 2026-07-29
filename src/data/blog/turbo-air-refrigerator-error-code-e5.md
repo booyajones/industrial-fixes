@@ -82,9 +82,9 @@ If you've diagnosed a failed condenser fan motor or a faulty condenser thermisto
 
 | Part | Compatible Models | Amazon Link |
 |------|------------------|-------------|
-| Turbo Air Condenser Fan Motor (115V, 1/15 HP) | M3R, MSR, PRO series | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-turbo-air-refrigerator-error-code-e5&tag=errorcodefixes-20) |
+| Turbo Air Condenser Fan Motor (115V, 1/15 HP) | M3R, MSR, PRO series | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-turbo-air-refrigerator-error-code-e5&k=Turbo+Air+Condenser+Fan+Motor+%28115V%2C+1%2F15+HP%29&tag=errorcodefixes-20) |
 | Condenser Fan Blade (7" diameter) | M3R19, M3R23, M3R28, MSR23 | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-turbo-air-refrigerator-error-code-e5&k=turbo+air+condenser+fan+blade+7+inch&tag=errorcodefixes-20) |
-| Condenser Coil Thermistor / Temperature Sensor | M3R series, TCGR series | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-turbo-air-refrigerator-error-code-e5&tag=errorcodefixes-20) |
+| Condenser Coil Thermistor / Temperature Sensor | M3R series, TCGR series | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-turbo-air-refrigerator-error-code-e5&k=Turbo+Air+Condenser+Coil+Thermistor+%2F+Temperature+Sensor&tag=errorcodefixes-20) |
 | Nu-Calgon Evap Foam No Rinse Coil Cleaner | Universal | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-turbo-air-refrigerator-error-code-e5&k=nu-calgon+coil+cleaner+foam&tag=errorcodefixes-20) |
 | Condenser Coil Cleaning Brush Set | Universal | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-turbo-air-refrigerator-error-code-e5&k=condenser+coil+cleaning+brush+commercial+refrigerator&tag=errorcodefixes-20) |
 

@@ -43,7 +43,7 @@ Winterhalter is a premium German commercial dishwasher brand used in high-end re
 |------|-------|
 | Heating element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-winterhalter-dishwasher-faults&k=Heating+element&tag=errorcodefixes-20) \| For F3/F8 — match voltage and kW |
 | Wash pump impeller | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-winterhalter-dishwasher-faults&k=Wash+pump+impeller&tag=errorcodefixes-20) \| For F5 if impeller is damaged |
-| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?ascsubtag=ecf-winterhalter-dishwasher-faults&tag=errorcodefixes-20) \| For F1 |
+| Water inlet valve | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-winterhalter-dishwasher-faults&k=Winterhalter+Water+inlet+valve&tag=errorcodefixes-20) \| For F1 |
 ## When to Call a Pro
 
 Winterhalter authorized service is recommended for F5 (wash pump) and F4 persistent temperature faults — Winterhalter's precision construction requires factory-trained technicians for component replacement.

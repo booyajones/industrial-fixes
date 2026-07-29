@@ -52,7 +52,7 @@ The evaporator approach temperature has reached the freeze protection threshold.
 | Part | Notes |
 |------|-------|
 | Refrigerant charge | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-applied-fault-codes&k=Refrigerant+charge&tag=errorcodefixes-20) \| Common after leaks |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-daikin-applied-fault-codes&tag=errorcodefixes-20) \| Replace on high pressure faults |
+| Condenser fan motor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-applied-fault-codes&k=Daikin+Applied+Condenser+fan+motor&tag=errorcodefixes-20) \| Replace on high pressure faults |
 | Flow switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-applied-fault-codes&k=Flow+switch&tag=errorcodefixes-20) \| Inspect on low pressure and freeze faults |
 | Pressure transducer | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-applied-fault-codes&k=Pressure+transducer&tag=errorcodefixes-20) \| Check on unexplained pressure readings |
 ## Jump to Fix

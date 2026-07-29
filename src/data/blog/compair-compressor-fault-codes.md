@@ -49,9 +49,9 @@ Check current draw on all three phases with a clamp meter. Unbalanced loading, i
 | Part | Notes |
 |------|-------|
 | Oil separator element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-compair-compressor-fault-codes&k=Oil+separator+element&tag=errorcodefixes-20) \| Main PM part |
-| Air filter element | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-compair-compressor-fault-codes&tag=errorcodefixes-20) \| Replace per service schedule |
+| Air filter element | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-compair-compressor-fault-codes&k=CompAir+Air+filter+element&tag=errorcodefixes-20) \| Replace per service schedule |
 | Oil filter cartridge | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-compair-compressor-fault-codes&k=Oil+filter+cartridge&tag=errorcodefixes-20) \| Replace with separator |
-| Temperature sensors (NTC) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-compair-compressor-fault-codes&tag=errorcodefixes-20) \| Common fault after heat cycles |
+| Temperature sensors (NTC) | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-compair-compressor-fault-codes&k=CompAir+Temperature+sensors+%28NTC%29&tag=errorcodefixes-20) \| Common fault after heat cycles |
 | Inlet valve repair kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-compair-compressor-fault-codes&k=Inlet+valve+repair+kit&tag=errorcodefixes-20) \| Sticking causes overloads |
 ## When to Call a Pro
 If the compressor shuts down on high temperature after cooler cleaning and oil service, suspect airend discharge valve or screw wear. CompAir airend rebuilds require factory tooling and specifications.

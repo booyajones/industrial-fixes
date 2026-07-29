@@ -46,6 +46,6 @@ A high differential across the separator often shows up as reduced efficiency be
 | Oil separator | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-gardner-denver-compressor-faults&k=Oil+separator&tag=errorcodefixes-20) \| Standard PM replacement |
 | Temp / pressure sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-gardner-denver-compressor-faults&k=Temp+%2F+pressure+sensor&tag=errorcodefixes-20) \| Common controller alarm source |
 | Oil filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-gardner-denver-compressor-faults&k=Oil+filter&tag=errorcodefixes-20) \| Replace with service kits |
-| Fan motor / belt | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-gardner-denver-compressor-faults&tag=errorcodefixes-20) \| Check cooling system on overheats |
+| Fan motor / belt | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-gardner-denver-compressor-faults&k=Gardner+Denver+Fan+motor+%2F+belt&tag=errorcodefixes-20) \| Check cooling system on overheats |
 ## When to Call a Pro
 If the unit continues to trip after basic PM and cooler cleaning, have a compressor specialist inspect the thermostatic valve, inlet valve, and airend condition.

@@ -153,11 +153,11 @@ A safety cutout during the freeze cycle detected a dangerous operating condition
 
 | Part | Notes | Typical Cost | Where to Buy |
 |------|-------|--------------|--------------|
-| Water inlet valve | Check C-101 vs C-201 part number | $45–$85 | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?ascsubtag=ecf-hoshizaki-c-101bah-error-codes&tag=errorcodefixes-20) \| Parts Town |
-| Float switch assembly | Common failure on high-use units | $35–$60 | [Amazon](https://www.amazon.com/dp/B005D4RFEM?ascsubtag=ecf-hoshizaki-c-101bah-error-codes&tag=errorcodefixes-20) \| Parts Town |
+| Water inlet valve | Check C-101 vs C-201 part number | $45–$85 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-c-101bah-error-codes&k=Hoshizaki+Water+inlet+valve&tag=errorcodefixes-20) \| Parts Town |
+| Float switch assembly | Common failure on high-use units | $35–$60 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-c-101bah-error-codes&k=Hoshizaki+Float+switch+assembly&tag=errorcodefixes-20) \| Parts Town |
 | Bin thermostat | Verify temp rating matches model | $30–$50 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-c-101bah-error-codes&k=Hoshizaki+bin+thermostat+C-101BAH&tag=errorcodefixes-20) \| Parts Town |
 | Hot gas solenoid valve | Match refrigerant type (R-134A or R-404A) | $80–$160 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-c-101bah-error-codes&k=Hoshizaki+hot+gas+solenoid+valve+countertop+ice+maker&tag=errorcodefixes-20) \| Parts Town |
-| Condenser fan motor | Verify shaft diameter and RPM | $60–$110 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-hoshizaki-c-101bah-error-codes&tag=errorcodefixes-20) \| Parts Town |
+| Condenser fan motor | Verify shaft diameter and RPM | $60–$110 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-c-101bah-error-codes&k=Hoshizaki+Condenser+fan+motor&tag=errorcodefixes-20) \| Parts Town |
 | Hoshizaki Scale Remover | 9381-10, food-safe, nickel-safe | $30–$50 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-c-101bah-error-codes&k=Hoshizaki+scale+remover+9381-10&tag=errorcodefixes-20) \| Restaurant supply |
 | Main control board | Last resort after sensor/mechanical diagnosis | $200–$450 | Parts Town \| Hoshizaki authorized distributor |
 

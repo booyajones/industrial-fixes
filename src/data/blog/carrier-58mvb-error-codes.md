@@ -61,11 +61,11 @@ The Carrier 58MVB is a variable-speed, multi-position gas furnace that uses an E
 | Part | Notes |
 |------|-------|
 | Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Most common cause of Code 8; clean or replace |
-| Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-carrier-58mvb-error-codes&tag=errorcodefixes-20) \| For Code 11 or 14; confirm correct wattage for 58MVB |
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-58mvb-error-codes&tag=errorcodefixes-20) \| For persistent Code 3 or 33 after drain is clear |
-| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-carrier-58mvb-error-codes&tag=errorcodefixes-20) \| For persistent Code 4/31 with adequate airflow |
+| Hot surface ignitor | [View on Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-carrier-58mvb-error-codes&tag=errorcodefixes-20) \| For Code 11 or 14; confirm correct wattage for 58MVB |
+| Pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-58mvb-error-codes&tag=errorcodefixes-20) \| For persistent Code 3 or 33 after drain is clear |
+| High-limit switch | [View on Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-carrier-58mvb-error-codes&tag=errorcodefixes-20) \| For persistent Code 4/31 with adequate airflow |
 | Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| For Code 45 or board damage; match to furnace serial |
-| Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-carrier-58mvb-error-codes&tag=errorcodefixes-20) \| Replace if cracked or plugged; specific to 58MVB design |
+| Condensate trap | [View on Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-carrier-58mvb-error-codes&tag=errorcodefixes-20) \| Replace if cracked or plugged; specific to 58MVB design |
 ## When to Call a Pro
 
 Gas pressure testing and gas valve diagnosis require a calibrated manometer and knowledge of proper manifold pressure settings for the 58MVB. ECM blower motor troubleshooting also requires specialized test equipment — a failed ECM module can mimic several different fault codes. If you've cleared the drain, replaced the filter, and the furnace still faults on every cycle, call a Carrier-authorized technician.

@@ -123,10 +123,10 @@ Always verify the correct part against the wiring diagram and serial plate insid
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|--------------|
 | [True 800271 Thermistor Sensor](https://www.amazon.com/s?ascsubtag=ecf-true-gdm-23-error-codes&k=True+800271+thermistor+sensor&tag=errorcodefixes-20) | E1 or E2 — cabinet or defrost sensor failure | $15–$30 |
-| [True 800270 Defrost Heater](https://www.amazon.com/dp/B07FVP4CY6?ascsubtag=ecf-true-gdm-23-error-codes&tag=errorcodefixes-20) | E4 defrost fault — coil icing up, heater failed | $28–$55 |
-| [True 800452 Evaporator Fan Motor](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-true-gdm-23-error-codes&tag=errorcodefixes-20) | Silent evaporator fan causes high cabinet temperature | $35–$70 |
+| [True 800270 Defrost Heater](https://www.amazon.com/s?ascsubtag=ecf-true-gdm-23-error-codes&k=True+800270+Defrost+Heater&tag=errorcodefixes-20) | E4 defrost fault — coil icing up, heater failed | $28–$55 |
+| [True 800452 Evaporator Fan Motor](https://www.amazon.com/s?ascsubtag=ecf-true-gdm-23-error-codes&k=True+800452+Evaporator+Fan+Motor&tag=errorcodefixes-20) | Silent evaporator fan causes high cabinet temperature | $35–$70 |
 | [Ranco ETC-211000 Controller](https://www.amazon.com/s?ascsubtag=ecf-true-gdm-23-error-codes&k=Ranco+ETC-211000+temperature+controller&tag=errorcodefixes-20) | E6 or erratic temperature control | $45–$85 |
-| [True GDM Door Gasket Replacement](https://www.amazon.com/dp/B0FPF84HQP?ascsubtag=ecf-true-gdm-23-error-codes&tag=errorcodefixes-20) | Failed gasket causes moisture infiltration and E3 high temp | $35–$65 |
+| [True GDM Door Gasket Replacement](https://www.amazon.com/s?ascsubtag=ecf-true-gdm-23-error-codes&k=True+GDM+Door+Gasket+Replacement&tag=errorcodefixes-20) | Failed gasket causes moisture infiltration and E3 high temp | $35–$65 |
 | [Refrigeration Coil Brush Set](https://www.amazon.com/s?ascsubtag=ecf-true-gdm-23-error-codes&k=refrigeration+condenser+coil+brush+cleaning&tag=errorcodefixes-20) | Clean condenser coil — most common cause of E3 high temp | $15–$25 |
 
 ---

@@ -57,7 +57,7 @@ Check compressor winding resistance with ohmmeter (all phases should be equal, t
 | Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| Match Multi V model exactly |
 | Indoor PCB | [Amazon](https://www.amazon.com/s?k=Indoor+PCB&tag=errorcodefixes-20) \| Match indoor unit model |
 | EEV (electronic expansion valve) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-multi-v-error-codes&k=EEV+%28electronic+expansion+valve%29&tag=errorcodefixes-20) \| Match valve size and refrigerant |
-| Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-lg-multi-v-error-codes&tag=errorcodefixes-20) \| DC motor type on most Multi V |
+| Outdoor fan motor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-multi-v-error-codes&k=LG+Outdoor+fan+motor&tag=errorcodefixes-20) \| DC motor type on most Multi V |
 | Communication cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-multi-v-error-codes&k=Communication+cable&tag=errorcodefixes-20) \| 2-wire shielded — check polarity |
 > **Pro tip:** LG Multi V systems can be diagnosed remotely via LG HVAC Solution. Register the system with the ACS (Advanced Central System) for real-time monitoring and fault code alerts without site visits.
 

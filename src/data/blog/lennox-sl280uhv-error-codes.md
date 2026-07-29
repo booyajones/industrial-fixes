@@ -113,10 +113,10 @@ EEPROM checksum error on the control board. Power cycle first; persistent code =
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|-------------|--------------|--------------|
-| High-limit switch (L195) | SL280UHV varies by model | $25–$45 | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-lennox-sl280uhv-error-codes&tag=errorcodefixes-20) \| Lennox dealer |
+| High-limit switch (L195) | SL280UHV varies by model | $25–$45 | [View on Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-lennox-sl280uhv-error-codes&tag=errorcodefixes-20) \| Lennox dealer |
 | Hot surface igniter | LB-90991A | $35–$55 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-sl280uhv-error-codes&k=Lennox+LB-90991A+igniter&tag=errorcodefixes-20) \| SupplyHouse |
 | Flame sensor rod | H8910EU | $20–$35 | [Amazon](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) \| Lennox dealer |
-| Inducer motor capacitor (5 µF) | — | $8–$15 | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-lennox-sl280uhv-error-codes&tag=errorcodefixes-20) \| HVAC supply |
+| Inducer motor capacitor (5 µF) | — | $8–$15 | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-lennox-sl280uhv-error-codes&tag=errorcodefixes-20) \| HVAC supply |
 | ECM blower motor module | 100483-08 | $350–$600 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-sl280uhv-error-codes&k=Lennox+100483-08+ECM+module&tag=errorcodefixes-20) \| Lennox dealer |
 | Control board | 1097-200 series | $200–$350 | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| Lennox dealer |
 | Media air filter (MERV 11, 20x25x5) | X8791 | $35–$55 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-sl280uhv-error-codes&k=Lennox+X8791+media+filter+20x25x5&tag=errorcodefixes-20) \| Home Depot |

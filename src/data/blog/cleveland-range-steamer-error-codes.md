@@ -332,5 +332,5 @@ Note 1 in Cleveland manuals refers to calling a Cleveland Range Authorized Servi
 Find replacement parts for Cleveland Range steamers on Amazon:
 
 - [Cleveland Range Steamer Parts](https://www.amazon.com/s?ascsubtag=ecf-cleveland-range-steamer-error-codes&k=Cleveland+Range+commercial+steamer+parts&tag=errorcodefixes-20)
-- [Commercial Steamer Door Gasket & Seals](https://www.amazon.com/dp/B0FPF84HQP?ascsubtag=ecf-cleveland-range-steamer-error-codes&tag=errorcodefixes-20)
+- [Commercial Steamer Door Gasket & Seals](https://www.amazon.com/s?ascsubtag=ecf-cleveland-range-steamer-error-codes&k=Cleveland+Commercial+Steamer+Door+Gasket+%26+Seals&tag=errorcodefixes-20)
 - [Commercial Steamer Heating Element](https://www.amazon.com/s?ascsubtag=ecf-cleveland-range-steamer-error-codes&k=commercial+steamer+heating+element+replacement&tag=errorcodefixes-20)

@@ -45,7 +45,7 @@ Measure current on all three phases. Unbalanced voltage or a heavy air demand ca
 |------|-------|
 | Oil filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-chicago-pneumatic-compressor-faults&k=Oil+filter&tag=errorcodefixes-20) \| Replace every service interval |
 | Separator element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-chicago-pneumatic-compressor-faults&k=Separator+element&tag=errorcodefixes-20) \| Replace when DP is high |
-| Outlet temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-chicago-pneumatic-compressor-faults&tag=errorcodefixes-20) \| Check on repeated temp faults |
+| Outlet temperature sensor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-chicago-pneumatic-compressor-faults&k=Chicago+Pneumatic+Outlet+temperature+sensor&tag=errorcodefixes-20) \| Check on repeated temp faults |
 | Drive belt (belt-drive models) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-chicago-pneumatic-compressor-faults&k=Drive+belt+%28belt-drive+models%29&tag=errorcodefixes-20) \| Inspect tension and wear |
 ## Jump to Fix
 

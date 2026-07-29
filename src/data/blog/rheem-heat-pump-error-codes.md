@@ -134,9 +134,9 @@ This guide covers the four most common Rheem heat pump error codes and what to d
 |------|-------------|-------------|
 | Indoor Coil Sensor (NTC) | $15–$30 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rheem-heat-pump-error-codes&k=Rheem+heat+pump+coil+thermistor+sensor&tag=errorcodefixes-20) |
 | Outdoor Coil Sensor (NTC) | $15–$30 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rheem-heat-pump-error-codes&k=Rheem+outdoor+unit+coil+thermistor&tag=errorcodefixes-20) |
-| Condenser Fan Motor Capacitor | $15–$40 | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-rheem-heat-pump-error-codes&tag=errorcodefixes-20) |
-| Condenser Fan Motor | $80–$200 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-rheem-heat-pump-error-codes&tag=errorcodefixes-20) |
-| High / Low Pressure Switch | $20–$50 | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-rheem-heat-pump-error-codes&tag=errorcodefixes-20) |
+| Condenser Fan Motor Capacitor | $15–$40 | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-rheem-heat-pump-error-codes&tag=errorcodefixes-20) |
+| Condenser Fan Motor | $80–$200 | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-rheem-heat-pump-error-codes&tag=errorcodefixes-20) |
+| High / Low Pressure Switch | $20–$50 | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-rheem-heat-pump-error-codes&tag=errorcodefixes-20) |
 
 ---
 

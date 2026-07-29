@@ -197,7 +197,7 @@ VRF system refrigerant diagnosis is more complex than single-split systems becau
 | NTC Thermistor (Daikin VRV outdoor unit) | C4 / C5 thermistor faults | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-vrv-iv-fault-codes&k=daikin+vrv+outdoor+unit+thermistor+sensor&tag=errorcodefixes-20) |
 | Daikin Wired Zone Controller (BRC1H62) | U4 / U5 zone controller communication fault | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-vrv-iv-fault-codes&k=daikin+vrv+wired+zone+controller+brc1h62&tag=errorcodefixes-20) |
 | VRF System Refrigerant Manifold Gauge Set | Refrigerant circuit diagnosis on R-410A VRF | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-vrv-iv-fault-codes&k=vrf+vrv+refrigerant+manifold+gauge+set+r410a&tag=errorcodefixes-20) |
-| Condensate Drain Pan Float Switch | P4 drain level fault | [View on Amazon](https://www.amazon.com/dp/B005D4RFEM?ascsubtag=ecf-daikin-vrv-iv-fault-codes&tag=errorcodefixes-20) |
+| Condensate Drain Pan Float Switch | P4 drain level fault | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-vrv-iv-fault-codes&k=Condensate+Drain+Pan+Float+Switch&tag=errorcodefixes-20) |
 | Electronic Refrigerant Leak Detector | Locating refrigerant leaks in VRF lineset | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-vrv-iv-fault-codes&k=electronic+refrigerant+leak+detector+vrf&tag=errorcodefixes-20) |
 
 ---

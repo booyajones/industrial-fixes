@@ -97,7 +97,7 @@ Trane VRF (Variable Refrigerant Flow) systems display fault codes on the wired r
 | [EEV coil](https://www.amazon.com/s?ascsubtag=ecf-trane-vrf-error-codes&k=EEV+coil&tag=errorcodefixes-20) | Model-specific — check winding resistance before replacement |
 | [Outdoor main board](https://www.amazon.com/s?ascsubtag=ecf-trane-vrf-error-codes&k=Outdoor+main+board&tag=errorcodefixes-20) | Match exact model — firmware may need update |
 | [Indoor PCB](https://www.amazon.com/s?k=Indoor+PCB&tag=errorcodefixes-20) | Indoor unit-specific part number |
-| [Temperature sensor](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-trane-vrf-error-codes&tag=errorcodefixes-20) | 10K NTC — match resistance curve |
+| [Temperature sensor](https://www.amazon.com/s?ascsubtag=ecf-trane-vrf-error-codes&k=Trane+Temperature+sensor&tag=errorcodefixes-20) | 10K NTC — match resistance curve |
 | [Communication wire](https://www.amazon.com/s?ascsubtag=ecf-trane-vrf-error-codes&k=Communication+wire&tag=errorcodefixes-20) | 18-gauge unshielded 2-conductor |
 
 > **Note:** Trane VRF systems are manufactured in partnership with Daikin. Some service procedures and parts cross-reference to Daikin VRV documentation.

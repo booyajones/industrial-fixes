@@ -110,7 +110,7 @@ On water heaters with a separate control board (usually power-vent or high-effic
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|--------------|
 | [Thermopile (SP20166)](https://www.amazon.com/s?ascsubtag=ecf-rheem-water-heater-blinking-light-codes&k=Thermopile+%28SP20166%29&tag=errorcodefixes-20) | 2 blinks — low millivolt output | $15–$30 |
-| [Thermocouple (SP11538)](https://www.amazon.com/dp/B00RJF4PYQ?ascsubtag=ecf-rheem-water-heater-blinking-light-codes&tag=errorcodefixes-20) | 3 blinks — pilot won't stay lit | $10–$20 |
+| [Thermocouple (SP11538)](https://www.amazon.com/s?ascsubtag=ecf-rheem-water-heater-blinking-light-codes&k=Rheem+Thermocouple+%28SP11538%29&tag=errorcodefixes-20) | 3 blinks — pilot won't stay lit | $10–$20 |
 | [Gas Control Valve (AP14270G)](https://www.amazon.com/s?ascsubtag=ecf-rheem-water-heater-blinking-light-codes&k=Gas+Control+Valve+%28AP14270G%29&tag=errorcodefixes-20) | 5, 6, or 7 blinks — internal valve fault | $80–$150 |
 | [Piezo Igniter](https://www.amazon.com/s?ascsubtag=ecf-rheem-water-heater-blinking-light-codes&k=Piezo+Igniter&tag=errorcodefixes-20) | 3 blinks — pilot won't spark | $10–$25 |
 | [Thermal Switch / ECO](https://www.amazon.com/s?ascsubtag=ecf-rheem-water-heater-blinking-light-codes&k=Thermal+Switch+%2F+ECO&tag=errorcodefixes-20) | 4 blinks — high limit tripped and won't reset | $15–$35 |

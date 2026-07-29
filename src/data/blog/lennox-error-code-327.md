@@ -35,9 +35,9 @@ Lennox fault code 327 is a limit fault — the high-temperature limit switch ope
 
 | Part | Notes |
 |------|-------|
-| Air filter (1" or 4" media) | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-lennox-error-code-327&tag=errorcodefixes-20) \| Replace on schedule; 1" filters need monthly checks in dusty environments |
+| Air filter (1" or 4" media) | [View on Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-lennox-error-code-327&tag=errorcodefixes-20) \| Replace on schedule; 1" filters need monthly checks in dusty environments |
 | Blower motor capacitor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-error-code-327&k=Blower+motor+capacitor&tag=errorcodefixes-20) \| Test capacitance before condemning the motor |
-| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-lennox-error-code-327&tag=errorcodefixes-20) \| Replace if it doesn't reset after the system cools down |
+| High-limit switch | [View on Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-lennox-error-code-327&tag=errorcodefixes-20) \| Replace if it doesn't reset after the system cools down |
 ## When to Call a Pro
 
 If the limit trips with a clean filter and a confirmed-running blower, the heat exchanger may be failing or the system is significantly oversized or underducted. A technician with a manometer can measure static pressure and identify whether the ductwork is the root cause.

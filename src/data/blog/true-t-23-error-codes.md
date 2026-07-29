@@ -51,11 +51,11 @@ The True T-23 is a one-section reach-in commercial refrigerator widely used in b
 
 | Part | Notes |
 |---|---|
-| Cabinet temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-true-t-23-error-codes&tag=errorcodefixes-20) \| True part; check connector type |
-| Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?ascsubtag=ecf-true-t-23-error-codes&tag=errorcodefixes-20) \| Matches voltage and wattage |
-| Evaporator fan motor | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?ascsubtag=ecf-true-t-23-error-codes&tag=errorcodefixes-20) \| Shaded pole type; match CFM |
-| Defrost termination thermostat | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-true-t-23-error-codes&tag=errorcodefixes-20) \| Check cutout temperature rating |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-true-t-23-error-codes&tag=errorcodefixes-20) \| Bottom-mounted; check rotation |
+| Cabinet temperature sensor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-true-t-23-error-codes&k=Cabinet+temperature+sensor&tag=errorcodefixes-20) \| True part; check connector type |
+| Defrost heater | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-true-t-23-error-codes&k=Defrost+heater&tag=errorcodefixes-20) \| Matches voltage and wattage |
+| Evaporator fan motor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-true-t-23-error-codes&k=Evaporator+fan+motor&tag=errorcodefixes-20) \| Shaded pole type; match CFM |
+| Defrost termination thermostat | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-true-t-23-error-codes&k=Defrost+termination+thermostat&tag=errorcodefixes-20) \| Check cutout temperature rating |
+| Condenser fan motor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-true-t-23-error-codes&k=Condenser+fan+motor&tag=errorcodefixes-20) \| Bottom-mounted; check rotation |
 | True Digital Control board | [Amazon](https://www.amazon.com/s?k=True+Digital+Control+board&tag=errorcodefixes-20) \| For EE fault; verify power supply first |
 ## When to Call a Pro
 

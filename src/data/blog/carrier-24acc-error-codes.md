@@ -51,11 +51,11 @@ The Carrier 24ACC is a Comfort series central air conditioner (condensing unit o
 
 | Part | Notes |
 |------|-------|
-| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-carrier-24acc-error-codes&tag=errorcodefixes-20) \| Dual run capacitor for compressor and fan; common failure |
-| Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-carrier-24acc-error-codes&tag=errorcodefixes-20) \| Pitted contacts cause voltage drop and Code 4 |
-| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-24acc-error-codes&tag=errorcodefixes-20) \| Replace if Code 3 persists with correct charge |
-| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-24acc-error-codes&tag=errorcodefixes-20) \| Replace if Code 2 persists with clean coil |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-carrier-24acc-error-codes&tag=errorcodefixes-20) \| Check capacitor first before replacing |
+| Run capacitor | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-carrier-24acc-error-codes&tag=errorcodefixes-20) \| Dual run capacitor for compressor and fan; common failure |
+| Contactor | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-carrier-24acc-error-codes&tag=errorcodefixes-20) \| Pitted contacts cause voltage drop and Code 4 |
+| Low-pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-24acc-error-codes&tag=errorcodefixes-20) \| Replace if Code 3 persists with correct charge |
+| High-pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-24acc-error-codes&tag=errorcodefixes-20) \| Replace if Code 2 persists with clean coil |
+| Condenser fan motor | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-carrier-24acc-error-codes&tag=errorcodefixes-20) \| Check capacitor first before replacing |
 | Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| For Code 5 or persistent unexplained faults |
 ## When to Call a Pro
 

@@ -277,6 +277,6 @@ Contact Daikin Applied technical support: 1-800-432-1342. McQuay parts: Daikin A
 ## Amazon Affiliate Links
 
 - [Refrigerant Manifold Gauges R-410A](https://www.amazon.com/s?ascsubtag=ecf-daikin-chiller-fault-codes&k=refrigerant+manifold+gauges+r410a&tag=errorcodefixes-20)
-- [High Pressure Safety Switch SPST](https://www.amazon.com/dp/B013IHQ8CU?ascsubtag=ecf-daikin-chiller-fault-codes&tag=errorcodefixes-20)
+- [High Pressure Safety Switch SPST](https://www.amazon.com/s?ascsubtag=ecf-daikin-chiller-fault-codes&k=Daikin+High+Pressure+Safety+Switch+SPST&tag=errorcodefixes-20)
 - [Thermistor Temperature Sensor NTC](https://www.amazon.com/s?ascsubtag=ecf-daikin-chiller-fault-codes&k=NTC+thermistor+sensor+chiller&tag=errorcodefixes-20)
 - [Clamp Meter True RMS 600A](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-daikin-chiller-fault-codes&tag=errorcodefixes-20)

@@ -76,11 +76,11 @@ In plain English, E4 usually means one of three things:
 
 | Part | Notes | Typical Cost | Where to Buy |
 |------|-------|--------------|--------------|
-| Evaporator or defrost sensor | Most common E4 repair | $18–$40 | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-beverage-air-e4-error-code&tag=errorcodefixes-20) \| Parts Town |
+| Evaporator or defrost sensor | Most common E4 repair | $18–$40 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-beverage-air-e4-error-code&k=Evaporator+or+defrost+sensor&tag=errorcodefixes-20) \| Parts Town |
 | Sensor clip or mounting hardware | Loose sensor causes false readings | $8–$20 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-beverage-air-e4-error-code&k=evaporator+sensor+clip+refrigeration&tag=errorcodefixes-20) \| Parts Town |
-| Door gasket | Fixes repeat icing from air leaks | $45–$95 | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?ascsubtag=ecf-beverage-air-e4-error-code&tag=errorcodefixes-20) \| Parts Town |
-| Evaporator fan motor | Needed when airflow drops after icing | $55–$130 | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?ascsubtag=ecf-beverage-air-e4-error-code&tag=errorcodefixes-20) \| Parts Town |
-| Defrost heater | Use exact model match where applicable | $45–$120 | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?ascsubtag=ecf-beverage-air-e4-error-code&tag=errorcodefixes-20) \| Parts Town |
+| Door gasket | Fixes repeat icing from air leaks | $45–$95 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-beverage-air-e4-error-code&k=Door+gasket&tag=errorcodefixes-20) \| Parts Town |
+| Evaporator fan motor | Needed when airflow drops after icing | $55–$130 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-beverage-air-e4-error-code&k=Evaporator+fan+motor&tag=errorcodefixes-20) \| Parts Town |
+| Defrost heater | Use exact model match where applicable | $45–$120 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-beverage-air-e4-error-code&k=Defrost+heater&tag=errorcodefixes-20) \| Parts Town |
 | Electronic controller | Last resort after confirming inputs | $120–$240 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-beverage-air-e4-error-code&k=Beverage-Air+controller&tag=errorcodefixes-20) \| Parts Town |
 | Coil cleaner and fin brush | Good preventive add-on purchase | $15–$35 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-beverage-air-e4-error-code&k=commercial+condenser+coil+cleaner+brush&tag=errorcodefixes-20) |
 

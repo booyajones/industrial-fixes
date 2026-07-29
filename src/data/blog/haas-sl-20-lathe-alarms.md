@@ -51,7 +51,7 @@ The Haas SL-20 is a two-axis CNC lathe found in job shops and production turning
 
 | Part | Notes |
 |------|-------|
-| Hydraulic pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-haas-sl-20-lathe-alarms&tag=errorcodefixes-20) \| Common for clamp/interlock complaints |
+| Hydraulic pressure switch | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-sl-20-lathe-alarms&k=Haas+Hydraulic+pressure+switch&tag=errorcodefixes-20) \| Common for clamp/interlock complaints |
 | Turret sensor / prox | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-sl-20-lathe-alarms&k=Turret+sensor+%2F+prox&tag=errorcodefixes-20) \| For position confirmation faults |
 | Way lube parts | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-sl-20-lathe-alarms&k=Way+lube+parts&tag=errorcodefixes-20) \| Motion and axis health depend on lubrication |
 | Servo amp | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-sl-20-lathe-alarms&k=Servo+amp&tag=errorcodefixes-20) \| For repeated X/Z drive alarms |

@@ -53,7 +53,7 @@ Read the code, review history, isolate motor if needed, verify line power, then 
 | Item | Notes |
 |------|-------|
 | Megohmmeter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-vfd-trip-reset-guide&k=Megohmmeter&tag=errorcodefixes-20) \| Essential for grounding and insulation faults |
-| Clamp meter | [Amazon](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-vfd-trip-reset-guide&tag=errorcodefixes-20) \| Check current draw under load |
+| Clamp meter | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-vfd-trip-reset-guide&tag=errorcodefixes-20) \| Check current draw under load |
 | Cooling fan | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-vfd-trip-reset-guide&k=Cooling+fan&tag=errorcodefixes-20) \| Drive overtemp issues |
 | Brake resistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-vfd-trip-reset-guide&k=Brake+resistor&tag=errorcodefixes-20) \| Needed for repeat overvoltage decel trips |
 | Input fuses | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-vfd-trip-reset-guide&k=Input+fuses&tag=errorcodefixes-20) \| For undervoltage and phase-loss issues |

@@ -51,12 +51,12 @@ The Trane XR14 is a single-stage heat pump in the XR series — a straightforwar
 
 | Part | Notes |
 |------|-------|
-| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-trane-xr14-error-codes&tag=errorcodefixes-20) \| Dual run cap for compressor and fan; high failure rate |
-| Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-trane-xr14-error-codes&tag=errorcodefixes-20) \| Pitted contacts cause voltage drop |
+| Run capacitor | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-trane-xr14-error-codes&tag=errorcodefixes-20) \| Dual run cap for compressor and fan; high failure rate |
+| Contactor | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-trane-xr14-error-codes&tag=errorcodefixes-20) \| Pitted contacts cause voltage drop |
 | Defrost board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-xr14-error-codes&k=Defrost+board&tag=errorcodefixes-20) \| For Code 8; match to XR14 model number |
-| Defrost sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-trane-xr14-error-codes&tag=errorcodefixes-20) \| Clipped to outdoor coil |
-| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-xr14-error-codes&tag=errorcodefixes-20) \| For Code 3 with correct refrigerant charge |
-| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-xr14-error-codes&tag=errorcodefixes-20) \| For Code 2 with clean coil and correct charge |
+| Defrost sensor | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-trane-xr14-error-codes&tag=errorcodefixes-20) \| Clipped to outdoor coil |
+| Low-pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-xr14-error-codes&tag=errorcodefixes-20) \| For Code 3 with correct refrigerant charge |
+| High-pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-xr14-error-codes&tag=errorcodefixes-20) \| For Code 2 with clean coil and correct charge |
 ## When to Call a Pro
 
 Heat pump refrigerant diagnosis requires EPA 608 certification and a manifold gauge set. If the XR14 is 10+ years old and showing low refrigerant, a refrigerant leak search (electronic leak detector or UV dye) should be performed before recharging. Repeated recharging without leak repair is not an approved practice under EPA Section 608.

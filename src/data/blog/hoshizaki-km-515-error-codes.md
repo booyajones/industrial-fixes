@@ -40,7 +40,7 @@ The KM-515's higher production capacity means it pushes the condenser harder tha
 |------|-------|
 | Hot gas bypass valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-km-515-error-codes&k=Hot+gas+bypass+valve&tag=errorcodefixes-20) \| E2 fix — test coil resistance first |
 | Hoshizaki Scale Away cleaner | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-km-515-error-codes&k=Hoshizaki+Scale+Away+cleaner&tag=errorcodefixes-20) \| Quarterly |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-hoshizaki-km-515-error-codes&tag=errorcodefixes-20) \| Replace if not running |
+| Condenser fan motor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-km-515-error-codes&k=Hoshizaki+Condenser+fan+motor&tag=errorcodefixes-20) \| Replace if not running |
 ## When to Call a Pro
 
 E9 and persistent E2 after condenser cleaning require EPA 608-certified refrigeration technician.

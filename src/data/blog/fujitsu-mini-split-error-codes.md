@@ -65,8 +65,8 @@ On Fujitsu wall-mount models without wired controller, read the LED blink patter
 
 | Part | Notes |
 |------|-------|
-| Indoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-fujitsu-mini-split-error-codes&tag=errorcodefixes-20) \| Model-specific; note motor winding resistance |
-| Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-fujitsu-mini-split-error-codes&tag=errorcodefixes-20) \| DC inverter motor with Hall sensor |
+| Indoor fan motor | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-fujitsu-mini-split-error-codes&tag=errorcodefixes-20) \| Model-specific; note motor winding resistance |
+| Outdoor fan motor | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-fujitsu-mini-split-error-codes&tag=errorcodefixes-20) \| DC inverter motor with Hall sensor |
 | Indoor PCB | [Amazon](https://www.amazon.com/s?k=Indoor+PCB&tag=errorcodefixes-20) \| Fujitsu 9709481xxx — match model |
 | Indoor air thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fujitsu-mini-split-error-codes&k=Indoor+air+thermistor&tag=errorcodefixes-20) \| Small NTC thermistor, 10 kΩ at 25°C |
 ## When to Call a Pro

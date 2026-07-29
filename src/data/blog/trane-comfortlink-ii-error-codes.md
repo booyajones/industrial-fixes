@@ -53,9 +53,9 @@ Trane's ComfortLink II is a proprietary communicating system that links the ther
 |------|-------|
 | ComfortLink II thermostat | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-comfortlink-ii-error-codes&k=ComfortLink+II+thermostat&tag=errorcodefixes-20) \| For persistent Code 551 after wiring confirmed |
 | Outdoor communicating control board | [Amazon](https://www.amazon.com/s?k=Outdoor+communicating+control+board&tag=errorcodefixes-20) \| For persistent Code 79 with good wiring |
-| Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-trane-comfortlink-ii-error-codes&tag=errorcodefixes-20) \| Most common Code 128 fix |
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-comfortlink-ii-error-codes&tag=errorcodefixes-20) \| For Code 126 that returns after drain and hose check |
-| Condenser fan motor / capacitor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-trane-comfortlink-ii-error-codes&tag=errorcodefixes-20) \| For Code 179 with clean coil |
+| Hot surface ignitor | [View on Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-trane-comfortlink-ii-error-codes&tag=errorcodefixes-20) \| Most common Code 128 fix |
+| Pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-comfortlink-ii-error-codes&tag=errorcodefixes-20) \| For Code 126 that returns after drain and hose check |
+| Condenser fan motor / capacitor | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-trane-comfortlink-ii-error-codes&tag=errorcodefixes-20) \| For Code 179 with clean coil |
 ## When to Call a Pro
 
 ComfortLink II refrigerant work (Codes 178/179) requires EPA 608 certification and access to Trane's HVAC Pro app for system commissioning. Trane's variable-speed outdoor units also use inverter-driven compressors that require specialized diagnostics — standard clamp meters and multimeters don't give valid readings on the variable-frequency output side of the drive.

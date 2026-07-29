@@ -36,7 +36,7 @@ Fault code A1 on a Buderus Logamax or Logano boiler typically indicates a servic
 
 | Part | Notes |
 |------|-------|
-| NTC temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-buderus-boiler-fault-code-a1&tag=errorcodefixes-20) \| Match the Buderus part number for the specific model (GB142, GB162, etc.) |
+| NTC temperature sensor | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-buderus-boiler-fault-code-a1&tag=errorcodefixes-20) \| Match the Buderus part number for the specific model (GB142, GB162, etc.) |
 | Condensate siphon / trap | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-buderus-boiler-fault-code-a1&k=Condensate+siphon+%2F+trap&tag=errorcodefixes-20) \| Buderus OEM; condensing models require the correct internal volume |
 ## When to Call a Pro
 

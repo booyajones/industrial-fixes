@@ -51,7 +51,7 @@ Quincy QGS has an electronic auto-drain to remove condensate from the separator 
 
 | Part | Notes |
 |------|-------|
-| Inlet air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-quincy-qgs-fault-codes&tag=errorcodefixes-20) \| Model-specific |
+| Inlet air filter | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-quincy-qgs-fault-codes&k=Quincy+Inlet+air+filter&tag=errorcodefixes-20) \| Model-specific |
 | Oil/separator element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-quincy-qgs-fault-codes&k=Oil%2Fseparator+element&tag=errorcodefixes-20) \| Replace per service schedule |
 | Quincy QGS oil | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-quincy-qgs-fault-codes&k=Quincy+QGS+oil&tag=errorcodefixes-20) \| Synthetic — match model specification |
 | Auto-drain solenoid | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-quincy-qgs-fault-codes&k=Auto-drain+solenoid&tag=errorcodefixes-20) \| Check coil resistance |

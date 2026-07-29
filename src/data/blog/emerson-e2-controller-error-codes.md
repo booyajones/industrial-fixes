@@ -49,10 +49,10 @@ E2 defrost fail alarms occur when a defrost cycle doesn't terminate within the m
 
 | Part | Notes |
 |------|-------|
-| E2 temperature sensor (NTC) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-emerson-e2-controller-error-codes&tag=errorcodefixes-20) \| Replace on sensor failure |
-| Defrost heater element | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?ascsubtag=ecf-emerson-e2-controller-error-codes&tag=errorcodefixes-20) \| Replace on defrost fail |
-| Defrost termination thermostat | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-emerson-e2-controller-error-codes&tag=errorcodefixes-20) \| Replace on defrost timeout |
-| Evaporator fan motor | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?ascsubtag=ecf-emerson-e2-controller-error-codes&tag=errorcodefixes-20) \| Replace on case temp alarm |
+| E2 temperature sensor (NTC) | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-emerson-e2-controller-error-codes&k=Emerson+E2+temperature+sensor+%28NTC%29&tag=errorcodefixes-20) \| Replace on sensor failure |
+| Defrost heater element | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-emerson-e2-controller-error-codes&k=Emerson+Defrost+heater+element&tag=errorcodefixes-20) \| Replace on defrost fail |
+| Defrost termination thermostat | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-emerson-e2-controller-error-codes&k=Emerson+Defrost+termination+thermostat&tag=errorcodefixes-20) \| Replace on defrost timeout |
+| Evaporator fan motor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-emerson-e2-controller-error-codes&k=Emerson+Evaporator+fan+motor&tag=errorcodefixes-20) \| Replace on case temp alarm |
 | E2 I/O board | Amazon \| Replace on communication fault |
 ## When to Call a Pro
 Emerson E2 refrigerant circuit diagnostics, EEV calibration, and compressor rack management require EPA Section 608 certification and E2 training. Incorrect setpoint changes can cause food safety violations.

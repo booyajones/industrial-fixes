@@ -74,9 +74,9 @@ On older T-72 units without a digital display, diagnosis relies on:
 |------|-----|---------------|
 | Dixell XR40 or XR60 Replacement Controller | Replace for EE/Er controller faults | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-true-t-72-error-codes&k=dixell+xr40+replacement+controller+commercial+refrigeration&tag=errorcodefixes-20) |
 | NTC Temperature Probe (10K, Commercial Refrigeration) | Replace E1, E2, or E3 probe faults | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-true-t-72-error-codes&k=ntc+temperature+probe+dixell+commercial+refrigerator&tag=errorcodefixes-20) |
-| True Refrigerator Door Gasket (T-72 spec) | Replace failing door seals causing temperature alarms | [View on Amazon](https://www.amazon.com/dp/B0FPF84HQP?ascsubtag=ecf-true-t-72-error-codes&tag=errorcodefixes-20) |
-| Condenser Fan Motor (115V, 3-blade, for True Refrigeration) | Replace failed condenser fan motor | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-true-t-72-error-codes&tag=errorcodefixes-20) |
-| Defrost Heater (Glass Tube, 115V, commercial reach-in) | Replace burned-out defrost heater | [View on Amazon](https://www.amazon.com/dp/B07FVP4CY6?ascsubtag=ecf-true-t-72-error-codes&tag=errorcodefixes-20) |
+| True Refrigerator Door Gasket (T-72 spec) | Replace failing door seals causing temperature alarms | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-true-t-72-error-codes&k=True+Refrigerator+Door+Gasket+%28T-72+spec%29&tag=errorcodefixes-20) |
+| Condenser Fan Motor (115V, 3-blade, for True Refrigeration) | Replace failed condenser fan motor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-true-t-72-error-codes&k=Condenser+Fan+Motor+%28115V%2C+3-blade%2C+for+True+Refrigeration%29&tag=errorcodefixes-20) |
+| Defrost Heater (Glass Tube, 115V, commercial reach-in) | Replace burned-out defrost heater | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-true-t-72-error-codes&k=Defrost+Heater+%28Glass+Tube%2C+115V%2C+commercial+reach-in%29&tag=errorcodefixes-20) |
 | Refrigeration Coil Brush (stainless, 18") | Clean condenser coil in tight bottom compartment | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-true-t-72-error-codes&k=refrigeration+condenser+coil+cleaning+brush+18+inch&tag=errorcodefixes-20) |
 
 ## When to Call a Pro

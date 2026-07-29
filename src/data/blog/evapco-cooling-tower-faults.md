@@ -19,7 +19,7 @@ EVAPCO cooling towers and evaporative condensers with PMC (Packaged Mechanical C
 
 | Fault | Meaning | Quick Fix |
 |-------|---------|-----------|
-| [Fan Motor Fault](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-evapco-cooling-tower-faults&tag=errorcodefixes-20) | Motor overload or trip | Check motor amps, bearings, and connections |
+| [Fan Motor Fault](https://www.amazon.com/s?ascsubtag=ecf-evapco-cooling-tower-faults&k=EVAPCO+Fan+Motor+Fault&tag=errorcodefixes-20) | Motor overload or trip | Check motor amps, bearings, and connections |
 | [High Leaving Water Temp](https://www.amazon.com/s?ascsubtag=ecf-evapco-cooling-tower-faults&k=High+Leaving+Water+Temp&tag=errorcodefixes-20) | Leaving water above setpoint | Check fan operation and load balance |
 | [Low Basin Level](https://www.amazon.com/s?ascsubtag=ecf-evapco-cooling-tower-faults&k=Low+Basin+Level&tag=errorcodefixes-20) | Makeup water not keeping up | Check makeup valve and inlet pressure |
 | [High Basin Level](https://www.amazon.com/s?ascsubtag=ecf-evapco-cooling-tower-faults&k=High+Basin+Level&tag=errorcodefixes-20) | Overflow condition | Check float valve and drain |

@@ -43,7 +43,7 @@ Omega controllers use A1 and A2 to indicate that the measured value crossed the 
 
 | Part | Notes |
 |------|-------|
-| Thermocouple probe | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?ascsubtag=ecf-omega-temperature-controller-error&tag=errorcodefixes-20) \| Most common field replacement |
+| Thermocouple probe | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-omega-temperature-controller-error&k=Omega+Thermocouple+probe&tag=errorcodefixes-20) \| Most common field replacement |
 | RTD probe | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-omega-temperature-controller-error&k=RTD+probe&tag=errorcodefixes-20) \| Check 2-wire vs 3-wire style |
 | Solid-state relay | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-omega-temperature-controller-error&k=Solid-state+relay&tag=errorcodefixes-20) \| If control output is present but heater does not energize |
 | Controller | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-omega-temperature-controller-error&k=Controller&tag=errorcodefixes-20) \| Replace only after sensor and output checks |

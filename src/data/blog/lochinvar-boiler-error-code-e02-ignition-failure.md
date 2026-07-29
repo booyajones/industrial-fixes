@@ -52,8 +52,8 @@ Lochinvar Knight (WH/WB series), Crest (CH series), and SYNC (SNA series) boiler
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
 | Lochinvar Flame Sensor | S001001001 | $35–$50 | [Amazon](https://www.amazon.com/s?k=Lochinvar+Flame+Sensor&tag=errorcodefixes-20) \| Repair Clinic / Lochinvar dealer |
-| Lochinvar Hot Surface Igniter | S001003001 | $70–$90 | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-lochinvar-boiler-error-code-e02-ignition-failure&tag=errorcodefixes-20) \| Repair Clinic / Lochinvar dealer |
-| Gas Valve (if failed) | Contact Lochinvar for model-specific | $180–$280 | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-lochinvar-boiler-error-code-e02-ignition-failure&tag=errorcodefixes-20) \| Lochinvar dealer |
+| Lochinvar Hot Surface Igniter | S001003001 | $70–$90 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-lochinvar-boiler-error-code-e02-ignition-failure&k=Lochinvar+Hot+Surface+Igniter&tag=errorcodefixes-20) \| Repair Clinic / Lochinvar dealer |
+| Gas Valve (if failed) | Contact Lochinvar for model-specific | $180–$280 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-lochinvar-boiler-error-code-e02-ignition-failure&k=Lochinvar+Gas+Valve+%28if+failed%29&tag=errorcodefixes-20) \| Lochinvar dealer |
 | SMART System Control Board | Contact Lochinvar for model-specific | $400–$650 | [Amazon](https://www.amazon.com/s?k=SMART+System+Control+Board&tag=errorcodefixes-20) \| Lochinvar dealer |
 ## When to Call a Professional
 

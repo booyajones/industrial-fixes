@@ -56,11 +56,11 @@ The Trane S8X1 is an 80% AFUE, single-stage, multi-position gas furnace in the S
 
 | Part | Notes |
 |------|-------|
-| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-trane-s8x1-error-codes&tag=errorcodefixes-20) \| Inexpensive; check for cracks first |
+| Pressure switch hose | [View on Amazon](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-trane-s8x1-error-codes&tag=errorcodefixes-20) \| Inexpensive; check for cracks first |
 | Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| ~$15; clean before replacing |
-| Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-trane-s8x1-error-codes&tag=errorcodefixes-20) \| 120V silicon nitride; confirm model compatibility |
-| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-trane-s8x1-error-codes&tag=errorcodefixes-20) \| Check continuity before ordering |
-| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-trane-s8x1-error-codes&tag=errorcodefixes-20) \| 24V Honeywell or White-Rodgers; confirm voltage |
+| Hot surface ignitor | [View on Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-trane-s8x1-error-codes&tag=errorcodefixes-20) \| 120V silicon nitride; confirm model compatibility |
+| High-limit switch | [View on Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-trane-s8x1-error-codes&tag=errorcodefixes-20) \| Check continuity before ordering |
+| Gas valve | [View on Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-trane-s8x1-error-codes&tag=errorcodefixes-20) \| 24V Honeywell or White-Rodgers; confirm voltage |
 | Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| For Code 6 or persistent unexplained faults |
 ## When to Call a Pro
 

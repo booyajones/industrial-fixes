@@ -71,9 +71,9 @@ The limit switch is doing its job — something is causing the heat exchanger to
 
 | Part | Cost |
 |---|---|
-| Air filter (MERV 8–11) | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-lennox-error-code-441&tag=errorcodefixes-20) \| $10–30 |
-| Blower motor run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-lennox-error-code-441&tag=errorcodefixes-20) \| $15–40 |
-| High-limit switch (OEM) | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-lennox-error-code-441&tag=errorcodefixes-20) \| $30–70 |
+| Air filter (MERV 8–11) | [View on Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-lennox-error-code-441&tag=errorcodefixes-20) \| $10–30 |
+| Blower motor run capacitor | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-lennox-error-code-441&tag=errorcodefixes-20) \| $15–40 |
+| High-limit switch (OEM) | [View on Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-lennox-error-code-441&tag=errorcodefixes-20) \| $30–70 |
 | Blower motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-error-code-441&k=Blower+motor&tag=errorcodefixes-20) \| $150–400 |
 ## Lennox iComfort Codes Related to 441
 

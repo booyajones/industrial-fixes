@@ -415,4 +415,4 @@ Find replacement parts for Mycom compressors on Amazon:
 
 - [Mycom Compressor Parts & Accessories](https://www.amazon.com/s?ascsubtag=ecf-mycom-compressor-fault-codes&k=Mycom+compressor+parts&tag=errorcodefixes-20)
 - [Industrial Compressor Oil Filter Replacement](https://www.amazon.com/s?ascsubtag=ecf-mycom-compressor-fault-codes&k=industrial+compressor+oil+filter+replacement&tag=errorcodefixes-20)
-- [Compressor Discharge Temperature Sensor](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-mycom-compressor-fault-codes&tag=errorcodefixes-20)
+- [Compressor Discharge Temperature Sensor](https://www.amazon.com/s?ascsubtag=ecf-mycom-compressor-fault-codes&k=Mycom+Compressor+Discharge+Temperature+Sensor&tag=errorcodefixes-20)

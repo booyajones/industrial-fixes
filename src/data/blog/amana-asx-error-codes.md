@@ -50,10 +50,10 @@ The Amana ASX series (ASX13, ASX14, ASX16) are residential central air condition
 
 | Part | Notes |
 |---|---|
-| Dual run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-amana-asx-error-codes&tag=errorcodefixes-20) \| Most common ASX failure; shared compressor and fan capacitor |
-| Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-amana-asx-error-codes&tag=errorcodefixes-20) \| 2-pole; check contact gap and coil pull-in voltage |
-| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-amana-asx-error-codes&tag=errorcodefixes-20) \| Spade terminals; direct swap |
-| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-amana-asx-error-codes&tag=errorcodefixes-20) \| 50 PSIG cutout for R-410A |
+| Dual run capacitor | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-amana-asx-error-codes&tag=errorcodefixes-20) \| Most common ASX failure; shared compressor and fan capacitor |
+| Contactor | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-amana-asx-error-codes&tag=errorcodefixes-20) \| 2-pole; check contact gap and coil pull-in voltage |
+| High-pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-amana-asx-error-codes&tag=errorcodefixes-20) \| Spade terminals; direct swap |
+| Low-pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-amana-asx-error-codes&tag=errorcodefixes-20) \| 50 PSIG cutout for R-410A |
 | Ambient thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-asx-error-codes&k=Ambient+thermistor&tag=errorcodefixes-20) \| For Code 6; usually on a pigtail connector |
 | Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| For Code 5; verify fuse and transformer first |
 ## When to Call a Pro

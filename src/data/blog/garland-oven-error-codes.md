@@ -45,7 +45,7 @@ Power cycle the oven. If Er persists, the control board has an internal fault. C
 
 | Part | Notes |
 |------|-------|
-| Cavity temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-garland-oven-error-codes&tag=errorcodefixes-20) \| Garland OEM part — thermocouple or RTD depending on model |
+| Cavity temperature sensor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-garland-oven-error-codes&k=Garland+Cavity+temperature+sensor&tag=errorcodefixes-20) \| Garland OEM part — thermocouple or RTD depending on model |
 | Igniter / electrode | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-garland-oven-error-codes&k=Igniter+%2F+electrode&tag=errorcodefixes-20) \| For E3 |
 | Blower motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-garland-oven-error-codes&k=Blower+motor&tag=errorcodefixes-20) \| For E4 |
 ## When to Call a Pro

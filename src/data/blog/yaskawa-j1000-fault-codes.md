@@ -170,7 +170,7 @@ This guide covers the most common J1000 fault codes and step-by-step fixes.
 | J1000 Replacement Cooling Fan | $30–$80 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-yaskawa-j1000-fault-codes&k=Yaskawa+J1000+replacement+cooling+fan+CIMR-JU&tag=errorcodefixes-20) |
 | External Braking Resistor | $40–$150 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-yaskawa-j1000-fault-codes&k=VFD+braking+resistor+external+dynamic+braking&tag=errorcodefixes-20) |
 | Motor Insulation Tester (Megohmmeter) | $80–$300 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-yaskawa-j1000-fault-codes&k=megohmmeter+motor+insulation+tester+1000v&tag=errorcodefixes-20) |
-| True-RMS Clamp Meter | $50–$180 | [Amazon](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-yaskawa-j1000-fault-codes&tag=errorcodefixes-20) |
+| True-RMS Clamp Meter | $50–$180 | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-yaskawa-j1000-fault-codes&tag=errorcodefixes-20) |
 
 ---
 

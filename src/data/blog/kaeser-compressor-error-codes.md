@@ -46,7 +46,7 @@ If the package has an integrated refrigerated dryer, the dryer can trip independ
 | Temperature or pressure sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kaeser-compressor-error-codes&k=Temperature+or+pressure+sensor&tag=errorcodefixes-20) \| Common controller alarm source |
 | Service kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kaeser-compressor-error-codes&k=Service+kit&tag=errorcodefixes-20) \| Oil, separator, filters |
 | Cabinet fan | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kaeser-compressor-error-codes&k=Cabinet+fan&tag=errorcodefixes-20) \| Overheat alarms often trace here |
-| Dryer condenser fan / contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-kaeser-compressor-error-codes&tag=errorcodefixes-20) \| On integrated dryer faults |
+| Dryer condenser fan / contactor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-kaeser-compressor-error-codes&k=Kaeser+Dryer+condenser+fan+%2F+contactor&tag=errorcodefixes-20) \| On integrated dryer faults |
 ## When to Call a Pro
 Kaeser Sigma Control diagnostics are much easier with factory documentation and service access. If alarms persist after PM work, involve a Kaeser-trained compressor tech before the airend is damaged.
 

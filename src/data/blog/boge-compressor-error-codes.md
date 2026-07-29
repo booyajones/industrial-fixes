@@ -46,10 +46,10 @@ The separator element is a scheduled service part - typically 3,000–4,000 hour
 | Part | Notes |
 |------|-------|
 | Oil separator element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-boge-compressor-error-codes&k=Oil+separator+element&tag=errorcodefixes-20) \| Primary PM item |
-| Air filter element | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-boge-compressor-error-codes&tag=errorcodefixes-20) \| Replace per service schedule |
+| Air filter element | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-boge-compressor-error-codes&k=BOGE+Air+filter+element&tag=errorcodefixes-20) \| Replace per service schedule |
 | Oil filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-boge-compressor-error-codes&k=Oil+filter&tag=errorcodefixes-20) \| Replace with separator |
 | Cooling fan capacitor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-boge-compressor-error-codes&k=Cooling+fan+capacitor&tag=errorcodefixes-20) \| Common on single-phase fan motors |
-| Discharge temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-boge-compressor-error-codes&tag=errorcodefixes-20) \| Thermocouple or NTC type |
+| Discharge temperature sensor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-boge-compressor-error-codes&k=BOGE+Discharge+temperature+sensor&tag=errorcodefixes-20) \| Thermocouple or NTC type |
 ## When to Call a Pro
 BOGE compressors require factory-specific oil types and torque specs on separator housing reassembly. If repeated temperature shutdowns occur after service, contact a BOGE authorized service provider.
 

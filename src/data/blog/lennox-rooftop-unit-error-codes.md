@@ -82,11 +82,11 @@ Check refrigerant charge with gauges. Inspect evaporator coil for ice formation.
 
 | Part | Notes |
 |---|---|
-| [Hot surface igniter](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-lennox-rooftop-unit-error-codes&tag=errorcodefixes-20) | 18K-ohm type — model-specific |
+| [Hot surface igniter](https://www.amazon.com/s?ascsubtag=ecf-lennox-rooftop-unit-error-codes&k=Lennox+Hot+surface+igniter&tag=errorcodefixes-20) | 18K-ohm type — model-specific |
 | [Flame sensor](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) | Check µA output — must exceed 1.5 µA |
-| [Run capacitor](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-lennox-rooftop-unit-error-codes&tag=errorcodefixes-20) | Test with capacitor meter before condemning motor |
-| [Pressure switch](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-lennox-rooftop-unit-error-codes&tag=errorcodefixes-20) | High or low side — match OEM pressure setting |
+| [Run capacitor](https://www.amazon.com/s?ascsubtag=ecf-lennox-rooftop-unit-error-codes&k=Lennox+Run+capacitor&tag=errorcodefixes-20) | Test with capacitor meter before condemning motor |
+| [Pressure switch](https://www.amazon.com/s?ascsubtag=ecf-lennox-rooftop-unit-error-codes&k=Lennox+Pressure+switch&tag=errorcodefixes-20) | High or low side — match OEM pressure setting |
 | [IFC control board](https://www.amazon.com/s?k=IFC+control+board&tag=errorcodefixes-20) | Cross-reference by model and serial |
-| [Condenser fan motor](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-lennox-rooftop-unit-error-codes&tag=errorcodefixes-20) | Check RPM and HP spec |
+| [Condenser fan motor](https://www.amazon.com/s?ascsubtag=ecf-lennox-rooftop-unit-error-codes&k=Lennox+Condenser+fan+motor&tag=errorcodefixes-20) | Check RPM and HP spec |
 
 > **Pro tip:** Lennox RTU iComfort-equipped units log fault history accessible via the iComfort thermostat menu under Settings > Advanced > Diagnostics. This gives a timestamp of each fault.

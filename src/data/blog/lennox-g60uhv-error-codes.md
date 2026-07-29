@@ -58,10 +58,10 @@ The Lennox G60UHV is a variable-speed, 80% AFUE gas furnace that uses an ECM blo
 | Part | Notes |
 |------|-------|
 | SureLight ignitor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-g60uhv-error-codes&k=SureLight+ignitor&tag=errorcodefixes-20) \| Lennox-specific; use OEM part number |
-| Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-lennox-g60uhv-error-codes&tag=errorcodefixes-20) \| Integrated into G60UHV cabinet; replace if cracked |
+| Condensate trap | [View on Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-lennox-g60uhv-error-codes&tag=errorcodefixes-20) \| Integrated into G60UHV cabinet; replace if cracked |
 | ECM blower module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-g60uhv-error-codes&k=ECM+blower+module&tag=errorcodefixes-20) \| Mounts to rear of motor; test before replacing motor |
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-lennox-g60uhv-error-codes&tag=errorcodefixes-20) \| Confirm correct rating for single or two-stage |
-| Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-lennox-g60uhv-error-codes&tag=errorcodefixes-20) \| Replace bearing or full motor assembly |
+| Pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-lennox-g60uhv-error-codes&tag=errorcodefixes-20) \| Confirm correct rating for single or two-stage |
+| Inducer motor | [View on Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-lennox-g60uhv-error-codes&tag=errorcodefixes-20) \| Replace bearing or full motor assembly |
 | Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| For Code 13 or communication errors |
 ## When to Call a Pro
 

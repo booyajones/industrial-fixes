@@ -62,7 +62,7 @@ Onan commercial generators (MDKD, DSGAA) use a mechanical governor with electron
 | [Service Item](https://www.amazon.com/s?ascsubtag=ecf-cummins-onan-fault-codes&k=Service+Item&tag=errorcodefixes-20) | Interval |
 |-------------|----------|
 | [Engine oil](https://www.amazon.com/s?ascsubtag=ecf-cummins-onan-fault-codes&k=Engine+oil&tag=errorcodefixes-20) | Every 150 hours or annually |
-| [Air filter](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-cummins-onan-fault-codes&tag=errorcodefixes-20) | Every 150 hours |
+| [Air filter](https://www.amazon.com/s?ascsubtag=ecf-cummins-onan-fault-codes&k=Cummins+Air+filter&tag=errorcodefixes-20) | Every 150 hours |
 | [Spark plugs](https://www.amazon.com/s?ascsubtag=ecf-cummins-onan-fault-codes&k=Spark+plugs&tag=errorcodefixes-20) | Every 150 hours |
 | [Fuel filter](https://www.amazon.com/s?ascsubtag=ecf-cummins-onan-fault-codes&k=Fuel+filter&tag=errorcodefixes-20) | Every 150 hours |
 | [Carburetor cleaning](https://www.amazon.com/s?ascsubtag=ecf-cummins-onan-fault-codes&k=Carburetor+cleaning&tag=errorcodefixes-20) | As needed (every 2–3 seasons if run infrequently) |

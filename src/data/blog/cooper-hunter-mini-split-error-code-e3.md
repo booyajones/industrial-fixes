@@ -37,7 +37,7 @@ E3 on a Cooper & Hunter mini split indicates a low pressure fault. The low-press
 
 | Part | Notes |
 |------|-------|
-| Indoor air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-cooper-hunter-mini-split-error-code-e3&tag=errorcodefixes-20) \| Clean or replace; check monthly |
+| Indoor air filter | [View on Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-cooper-hunter-mini-split-error-code-e3&tag=errorcodefixes-20) \| Clean or replace; check monthly |
 | Electronic expansion valve (EEV) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-cooper-hunter-mini-split-error-code-e3&k=Electronic+expansion+valve+%28EEV%29&tag=errorcodefixes-20) \| Replace if valve is confirmed stuck closed |
 | Refrigerant (R-410A) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-cooper-hunter-mini-split-error-code-e3&k=Refrigerant+%28R-410A%29&tag=errorcodefixes-20) \| Recharge after leak repair, by certified technician |
 | Flare fitting / line set | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-cooper-hunter-mini-split-error-code-e3&k=Flare+fitting+%2F+line+set&tag=errorcodefixes-20) \| Replace if leak is at connection point |

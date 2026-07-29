@@ -35,7 +35,7 @@ The Hoshizaki **E8 error code** indicates a **low-side pressure switch fault** â
 
 | Part | Notes |
 |------|-------|
-| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-hoshizaki-e8-error-code&tag=errorcodefixes-20) \| Replace if switch tests open at normal operating pressure |
+| Low-pressure switch | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-e8-error-code&k=Hoshizaki+Low-pressure+switch&tag=errorcodefixes-20) \| Replace if switch tests open at normal operating pressure |
 | Refrigerant charge (R-404A, R-448A per model) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-e8-error-code&k=Refrigerant+charge+%28R-404A%2C+R-448A+per+model%29&tag=errorcodefixes-20) \| Add only after finding and fixing the leak; EPA 608 certification required |
 | Evaporator descaler (Hoshizaki Scale-Away) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-e8-error-code&k=Evaporator+descaler+%28Hoshizaki+Scale-Away%29&tag=errorcodefixes-20) \| Use if evaporator is heavily scaled, contributing to poor freeze performance |
 ## When to Call a Pro

@@ -35,7 +35,7 @@ Follett error code E2 indicates a water inlet fault. The machine commanded a fil
 
 | Part | Notes |
 |------|-------|
-| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?ascsubtag=ecf-follett-ice-machine-error-code-e2&tag=errorcodefixes-20) \| Replace if the coil energizes but flow stays weak |
+| Water inlet valve | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-follett-ice-machine-error-code-e2&k=Follett+Water+inlet+valve&tag=errorcodefixes-20) \| Replace if the coil energizes but flow stays weak |
 | Water level sensor or float assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-follett-ice-machine-error-code-e2&k=Water+level+sensor+or+float+assembly&tag=errorcodefixes-20) \| Replace if the control never sees a full reservoir |
 | Water filter cartridge | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-follett-ice-machine-error-code-e2&k=Water+filter+cartridge&tag=errorcodefixes-20) \| Replace if a clogged filter is starving the machine |
 ## When to Call a Pro

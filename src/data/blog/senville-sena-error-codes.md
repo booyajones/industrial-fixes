@@ -67,7 +67,7 @@ The Senville SENA series covers a range of ductless mini split units from 9,000 
 | Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| For E7 after charge and compressor confirmed |
 | Communication cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-senville-sena-error-codes&k=Communication+cable&tag=errorcodefixes-20) \| 3-conductor; replace full run |
 | Indoor PCB | [Amazon](https://www.amazon.com/s?k=Indoor+PCB&tag=errorcodefixes-20) \| For E2 or E1 with confirmed good wiring |
-| Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-senville-sena-error-codes&tag=errorcodefixes-20) \| For E3; confirm DC or AC type |
+| Outdoor fan motor | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-senville-sena-error-codes&tag=errorcodefixes-20) \| For E3; confirm DC or AC type |
 ## When to Call a Pro
 
 Refrigerant diagnosis (E5, P2, E4) requires EPA 608 certification. If the SENA unit has E7 (IPM protection), a certified technician should measure compressor current draw and refrigerant pressures simultaneously — running an undercharged or overcharged system repeatedly destroys the IPM and compressor.

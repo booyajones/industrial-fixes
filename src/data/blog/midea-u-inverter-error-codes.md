@@ -56,8 +56,8 @@ The Midea U-Inverter is a window-mounted mini split with a unique U-shaped desig
 
 | Part | Notes |
 |------|-------|
-| Room temperature sensor (E1) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-midea-u-inverter-error-codes&tag=errorcodefixes-20) \| NTC 10kΩ; confirm U-Inverter model number |
-| Coil temperature sensor (E2) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-midea-u-inverter-error-codes&tag=errorcodefixes-20) \| Clip-on type; confirm coil sensor vs. room sensor |
+| Room temperature sensor (E1) | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-midea-u-inverter-error-codes&tag=errorcodefixes-20) \| NTC 10kΩ; confirm U-Inverter model number |
+| Coil temperature sensor (E2) | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-midea-u-inverter-error-codes&tag=errorcodefixes-20) \| Clip-on type; confirm coil sensor vs. room sensor |
 | Indoor PCB | [Amazon](https://www.amazon.com/s?k=Indoor+PCB&tag=errorcodefixes-20) \| For E6 with confirmed cable connection |
 | Internal cable assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-midea-u-inverter-error-codes&k=Internal+cable+assembly&tag=errorcodefixes-20) \| Between indoor and outdoor sections |
 | Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| For E9 after charge confirmed |

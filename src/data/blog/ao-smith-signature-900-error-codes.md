@@ -136,7 +136,7 @@ Before condemning the gas valve, inspect and reseat the harness connector at bot
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| [A.O. Smith Tankless Temperature Sensor 100109748](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-ao-smith-signature-900-error-codes&tag=errorcodefixes-20) | Inlet and outlet sensors; codes E05, E06, 10k NTC thermistor | $20–$45 |
+| [A.O. Smith Tankless Temperature Sensor 100109748](https://www.amazon.com/s?ascsubtag=ecf-ao-smith-signature-900-error-codes&k=A.O.+Smith+Tankless+Temperature+Sensor+100109748&tag=errorcodefixes-20) | Inlet and outlet sensors; codes E05, E06, 10k NTC thermistor | $20–$45 |
 | [A.O. Smith Heat Exchanger Sensor 100109749](https://www.amazon.com/s?ascsubtag=ecf-ao-smith-signature-900-error-codes&k=AO+Smith+100109749+heat+exchanger+sensor&tag=errorcodefixes-20) | Secondary and primary HX sensors; codes E07, E08 | $20–$45 |
 | [Tankless Descaler Flush Pump Kit](https://www.amazon.com/s?ascsubtag=ecf-ao-smith-signature-900-error-codes&k=tankless+water+heater+descaler+flush+pump+kit+vinegar&tag=errorcodefixes-20) | Critical for E04 faults in hard water areas; flush annually | $30–$65 |
 | [Igniter Electrode for AO Smith Tankless](https://www.amazon.com/s?ascsubtag=ecf-ao-smith-signature-900-error-codes&k=AO+Smith+tankless+water+heater+igniter+electrode&tag=errorcodefixes-20) | Replace on persistent E01; check gap and ceramic insulator | $20–$50 |

@@ -40,8 +40,8 @@ The Burnham Alpine is a high-efficiency modulating condensing boiler using the I
 | Part | Notes |
 |------|-------|
 | Flame sensor rod | [Amazon](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) \| Clean first; replace if resistance is abnormally high or the tip is pitted |
-| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-burnham-alpine-error-codes&tag=errorcodefixes-20) \| Replace only after confirming 24VAC input and correct gas pressure |
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-burnham-alpine-error-codes&tag=errorcodefixes-20) \| Match WC rating for the Alpine model size |
+| Gas valve | [View on Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-burnham-alpine-error-codes&tag=errorcodefixes-20) \| Replace only after confirming 24VAC input and correct gas pressure |
+| Pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-burnham-alpine-error-codes&tag=errorcodefixes-20) \| Match WC rating for the Alpine model size |
 | Circulator pump (Taco, Grundfos) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-burnham-alpine-error-codes&k=Circulator+pump+%28Taco%2C+Grundfos%29&tag=errorcodefixes-20) \| Required if pump is failed and E03 is caused by no-flow |
 ## When to Call a Pro
 

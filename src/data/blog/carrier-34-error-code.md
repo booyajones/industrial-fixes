@@ -49,8 +49,8 @@ description: "Carrier error code 34 means ignition proving failure — the furna
 | Part | Where to Buy | Typical Cost |
 |------|-------------|-------------|
 | Flame sensor rod (universal, replaces OEM) | [Amazon](https://www.amazon.com/s?k=Flame+sensor+rod+%28universal%2C+replaces+OEM%29&tag=errorcodefixes-20) \| Carrier dealer, Johnstone Supply, Grainger | $8–$20 |
-| Hot surface igniter — Carrier/Bryant OEM (Part #LH33ZS004) | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-carrier-34-error-code&tag=errorcodefixes-20) \| Carrier dealer, HVAC Supply Outlet | $30–$65 |
-| Gas valve — White-Rodgers 36E (common Carrier app) | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-carrier-34-error-code&tag=errorcodefixes-20) \| Johnstone Supply, Wittichen Supply | $80–$180 |
+| Hot surface igniter — Carrier/Bryant OEM (Part #LH33ZS004) | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-34-error-code&k=Hot+surface+igniter+%E2%80%94+Carrier%2FBryant+OEM+%28Part+%23LH33ZS004%29&tag=errorcodefixes-20) \| Carrier dealer, HVAC Supply Outlet | $30–$65 |
+| Gas valve — White-Rodgers 36E (common Carrier app) | [View on Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-carrier-34-error-code&tag=errorcodefixes-20) \| Johnstone Supply, Wittichen Supply | $80–$180 |
 | Carrier control board (Part #HK42FZ series) | [Amazon](https://www.amazon.com/dp/B0FDGLNB2R/?tag=errorcodefixes-20) \| Carrier OEM parts dealer | $150–$300 |
 ## When to Call a Professional
 

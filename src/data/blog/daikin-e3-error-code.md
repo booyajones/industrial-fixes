@@ -35,7 +35,7 @@ Daikin error code E3 indicates a fan motor fault — specifically, the indoor un
 
 | Part | Notes |
 |------|-------|
-| Indoor fan motor (BLDC) | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-daikin-e3-error-code&tag=errorcodefixes-20) \| Model-specific; Daikin part numbers vary widely by series |
+| Indoor fan motor (BLDC) | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-daikin-e3-error-code&tag=errorcodefixes-20) \| Model-specific; Daikin part numbers vary widely by series |
 | Indoor PCB (main board) | [Amazon](https://www.amazon.com/s?k=Indoor+PCB+%28main+board%29&tag=errorcodefixes-20) \| If the motor tests good but E3 persists, PCB fan driver may be shorted |
 | Fan wheel (cross-flow) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-e3-error-code&k=Fan+wheel+%28cross-flow%29&tag=errorcodefixes-20) \| Replace if heavily worn or permanently fouled |
 ## When to Call a Pro

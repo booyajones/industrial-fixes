@@ -54,10 +54,10 @@ The i-Vue touchscreen shows alarm icons in the top bar. Tap the icon to see faul
 
 | Part | Notes |
 |------|-------|
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-carrier-aquasnap-fault-codes&tag=errorcodefixes-20) \| Replace on A2 high pressure faults |
+| Condenser fan motor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-aquasnap-fault-codes&k=Carrier+Condenser+fan+motor&tag=errorcodefixes-20) \| Replace on A2 high pressure faults |
 | Flow switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-aquasnap-fault-codes&k=Flow+switch&tag=errorcodefixes-20) \| Replace on repeated A6 faults |
 | Refrigerant charge | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-aquasnap-fault-codes&k=Refrigerant+charge&tag=errorcodefixes-20) \| After leak repair |
-| High pressure switch | [Amazon](https://www.amazon.com/dp/B013IHQ8CU?ascsubtag=ecf-carrier-aquasnap-fault-codes&tag=errorcodefixes-20) \| Replace if repeatedly tripping |
+| High pressure switch | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-aquasnap-fault-codes&k=Carrier+High+pressure+switch&tag=errorcodefixes-20) \| Replace if repeatedly tripping |
 ## Jump to Fix
 
 - **A1 low pressure** → Check chilled water flow → Check refrigerant charge → Inspect evap

@@ -72,11 +72,11 @@ If the compressor compartment feels unusually hot, the condenser fan is the firs
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
 | [True GDM Temperature Probe 10K NTC](https://www.amazon.com/s?ascsubtag=ecf-true-gdm-49-error-codes&k=True+GDM+49+temperature+probe+10k+NTC&tag=errorcodefixes-20) | Replaces failed cabinet or evaporator probe for E1 and E2 errors | $15–$35 |
-| [True Evaporator Fan Motor 115V](https://www.amazon.com/dp/B01N0J3ZEH?ascsubtag=ecf-true-gdm-49-error-codes&tag=errorcodefixes-20) | Restores cabinet airflow and helps prevent E3 and E5 faults | $35–$90 |
-| [True Condenser Fan Motor 115V](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-true-gdm-49-error-codes&tag=errorcodefixes-20) | Required when compressor section overheats and E3 keeps returning | $40–$95 |
+| [True Evaporator Fan Motor 115V](https://www.amazon.com/s?ascsubtag=ecf-true-gdm-49-error-codes&k=True+Evaporator+Fan+Motor+115V&tag=errorcodefixes-20) | Restores cabinet airflow and helps prevent E3 and E5 faults | $35–$90 |
+| [True Condenser Fan Motor 115V](https://www.amazon.com/s?ascsubtag=ecf-true-gdm-49-error-codes&k=True+Condenser+Fan+Motor+115V&tag=errorcodefixes-20) | Required when compressor section overheats and E3 keeps returning | $40–$95 |
 | [Commercial Refrigeration Coil Brush Kit](https://www.amazon.com/s?ascsubtag=ecf-true-gdm-49-error-codes&k=commercial+refrigeration+coil+brush+kit&tag=errorcodefixes-20) | Cleans clogged condenser fins that drive cabinet temperature high | $10–$25 |
 | [Dixell or LAE Refrigeration Controller Replacement](https://www.amazon.com/s?ascsubtag=ecf-true-gdm-49-error-codes&k=True+GDM+49+refrigeration+controller&tag=errorcodefixes-20) | Fixes E6 controller memory or relay faults on many GDM-49 revisions | $60–$180 |
-| [True Door Gasket for GDM-49](https://www.amazon.com/dp/B0FPF84HQP?ascsubtag=ecf-true-gdm-49-error-codes&tag=errorcodefixes-20) | Stops warm air infiltration that triggers high temp alarms | $45–$110 |
+| [True Door Gasket for GDM-49](https://www.amazon.com/s?ascsubtag=ecf-true-gdm-49-error-codes&k=True+Door+Gasket+for+GDM-49&tag=errorcodefixes-20) | Stops warm air infiltration that triggers high temp alarms | $45–$110 |
 
 ## When to Call a Pro
 

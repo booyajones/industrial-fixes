@@ -57,7 +57,7 @@ The I120CN is a condensing unit. The condensate neutralizer requires annual repl
 | Condensate neutralizer media | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-i120cn-error-codes&k=Condensate+neutralizer+media&tag=errorcodefixes-20) \| Annual replacement required |
 | Inlet/outlet thermistors | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-i120cn-error-codes&k=Inlet%2Foutlet+thermistors&tag=errorcodefixes-20) \| Check resistance vs. temperature chart |
 | Igniter electrode | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-i120cn-error-codes&k=Igniter+electrode&tag=errorcodefixes-20) \| Check gap specification |
-| Fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-rinnai-i120cn-error-codes&tag=errorcodefixes-20) \| Commercial voltage — match model |
+| Fan motor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-i120cn-error-codes&k=Rinnai+Fan+motor&tag=errorcodefixes-20) \| Commercial voltage — match model |
 | Flow sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-i120cn-error-codes&k=Flow+sensor&tag=errorcodefixes-20) \| Turbine type — clean before replacing |
 | Heat exchanger | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-i120cn-error-codes&k=Heat+exchanger&tag=errorcodefixes-20) \| Expensive — descale first |
 > **Pro tip:** The Rinnai I120CN supports up to 24 units in a cascading system. When diagnosing a cascade, check the system controller for which unit triggered the fault — not all units display active codes simultaneously.

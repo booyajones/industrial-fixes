@@ -51,7 +51,7 @@ Follett Horizon Elite ice and water dispensers (7HCD, 15HCD, 25HCD, 50HCD, and 1
 |------|-------|
 | Auger motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-follett-horizon-elite-error-codes&k=Auger+motor&tag=errorcodefixes-20) \| Common failure on higher-volume units |
 | Ice level sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-follett-horizon-elite-error-codes&k=Ice+level+sensor&tag=errorcodefixes-20) \| Replace if bridging is chronic or sensor fails |
-| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?ascsubtag=ecf-follett-horizon-elite-error-codes&tag=errorcodefixes-20) \| Replace if screen damage or coil failure |
+| Water inlet valve | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-follett-horizon-elite-error-codes&k=Follett+Water+inlet+valve&tag=errorcodefixes-20) \| Replace if screen damage or coil failure |
 | Follett Ice Machine Cleaner | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-follett-horizon-elite-error-codes&k=Follett+Ice+Machine+Cleaner&tag=errorcodefixes-20) \| Use quarterly |
 ## When to Call a Pro
 

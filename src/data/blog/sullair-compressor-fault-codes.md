@@ -50,7 +50,7 @@ Verify incoming voltage balance on all three phases. Unbalanced voltage causes d
 |------|-------|
 | Air/oil separator element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-sullair-compressor-fault-codes&k=Air%2Foil+separator+element&tag=errorcodefixes-20) \| Replace every 2,000–4,000 hours |
 | Oil filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-sullair-compressor-fault-codes&k=Oil+filter&tag=errorcodefixes-20) \| Replace with separator service |
-| Discharge temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-sullair-compressor-fault-codes&tag=errorcodefixes-20) \| Common on high-hour units |
+| Discharge temperature sensor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-sullair-compressor-fault-codes&k=Sullair+Discharge+temperature+sensor&tag=errorcodefixes-20) \| Common on high-hour units |
 | Inlet valve kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-sullair-compressor-fault-codes&k=Inlet+valve+kit&tag=errorcodefixes-20) \| Common cause of motor overloads |
 | Minimum pressure valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-sullair-compressor-fault-codes&k=Minimum+pressure+valve&tag=errorcodefixes-20) \| Fails open causing high sump pressure |
 ## When to Call a Pro

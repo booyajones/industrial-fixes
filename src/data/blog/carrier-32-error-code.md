@@ -35,9 +35,9 @@ Carrier fault code 32 indicates a pressure switch stuck in the closed (satisfied
 
 | Part | Notes |
 |------|-------|
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-32-error-code&tag=errorcodefixes-20) \| Match exact part number — setpoint varies by model and BTU rating |
-| Pressure switch tubing (rubber) | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-32-error-code&tag=errorcodefixes-20) \| Replace if cracked, kinked, or contaminated with residue |
-| Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-carrier-32-error-code&tag=errorcodefixes-20) \| If inducer fails to create adequate draft, switch may never open |
+| Pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-32-error-code&tag=errorcodefixes-20) \| Match exact part number — setpoint varies by model and BTU rating |
+| Pressure switch tubing (rubber) | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-32-error-code&tag=errorcodefixes-20) \| Replace if cracked, kinked, or contaminated with residue |
+| Inducer motor | [View on Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-carrier-32-error-code&tag=errorcodefixes-20) \| If inducer fails to create adequate draft, switch may never open |
 ## When to Call a Pro
 
 If clearing the condensate path and replacing the pressure switch doesn't resolve the fault, the issue may be a blocked flue, failed inducer assembly, or cracked inducer housing — all of which require professional diagnosis and venting inspection.

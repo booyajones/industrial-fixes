@@ -95,7 +95,7 @@ Do not use an open flame to test for gas leaks. Never.
 | Gas Leak Detector Spray (Bubble Solution) | Testing connections after repair | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-gas-leak-hvac-system&k=gas+leak+detector+spray+bubble+solution&tag=errorcodefixes-20) |
 | Yellow PTFE Gas Thread Seal Tape | Sealing threaded gas fittings | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-gas-leak-hvac-system&k=yellow+ptfe+gas+thread+tape+teflon&tag=errorcodefixes-20) |
 | Combination CO + Gas Detector Alarm | Ongoing safety monitoring | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-gas-leak-hvac-system&k=combination+carbon+monoxide+gas+detector+alarm&tag=errorcodefixes-20) |
-| Universal Gas Valve Replacement (Honeywell VR8200) | Gas valve leak repair | [View on Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-gas-leak-hvac-system&tag=errorcodefixes-20) |
+| Universal Gas Valve Replacement (Honeywell VR8200) | Gas valve leak repair | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-gas-leak-hvac-system&k=Universal+Gas+Valve+Replacement+%28Honeywell+VR8200%29&tag=errorcodefixes-20) |
 
 ---
 

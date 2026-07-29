@@ -96,7 +96,7 @@ The most common Mr. Slim multi-zone fault:
 
 | Part | Notes |
 |---|---|
-| [Indoor pipe temperature sensor](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-mitsubishi-mr-slim-error-codes&tag=errorcodefixes-20) | Part varies by model — 10K or 5K thermistor |
+| [Indoor pipe temperature sensor](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-mr-slim-error-codes&k=Mitsubishi+Indoor+pipe+temperature+sensor&tag=errorcodefixes-20) | Part varies by model — 10K or 5K thermistor |
 | [EEV coil](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-mr-slim-error-codes&k=EEV+coil&tag=errorcodefixes-20) | Model-specific — match wiring harness |
 | [Indoor PCB](https://www.amazon.com/s?k=Indoor+PCB&tag=errorcodefixes-20) | Match part number from unit nameplate |
 | [Outdoor inverter PCB](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-mr-slim-error-codes&k=Outdoor+inverter+PCB&tag=errorcodefixes-20) | High-value part — verify fault before replacing |

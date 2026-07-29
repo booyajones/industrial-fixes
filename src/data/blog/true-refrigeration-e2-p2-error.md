@@ -63,7 +63,7 @@ After repair, watch the next refrigeration and defrost cycles. You want a clean 
 ## Parts You May Need
 
 - [True evaporator thermistor probe](https://www.amazon.com/s?ascsubtag=ecf-true-refrigeration-e2-p2-error&k=True+evaporator+thermistor+probe&tag=errorcodefixes-20)
-- [Evaporator temperature sensor clip](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-true-refrigeration-e2-p2-error&tag=errorcodefixes-20)
+- [Evaporator temperature sensor clip](https://www.amazon.com/s?ascsubtag=ecf-true-refrigeration-e2-p2-error&k=Evaporator+temperature+sensor+clip&tag=errorcodefixes-20)
 - [Probe extension harness](https://www.amazon.com/s?ascsubtag=ecf-true-refrigeration-e2-p2-error&k=probe+extension+harness&tag=errorcodefixes-20)
 - [Commercial refrigeration controller](https://www.amazon.com/s?ascsubtag=ecf-true-refrigeration-e2-p2-error&k=commercial+refrigeration+controller&tag=errorcodefixes-20)
 - [Portable steamer for coil defrost](https://www.amazon.com/s?ascsubtag=ecf-true-refrigeration-e2-p2-error&k=portable+steamer+for+coil+defrost&tag=errorcodefixes-20)

@@ -54,12 +54,12 @@ The Hoshizaki DKM-500 is a self-contained cube ice dispenser producing approxima
 
 | Part | Notes |
 |---|---|
-| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?ascsubtag=ecf-hoshizaki-dkm-500-error-codes&tag=errorcodefixes-20) \| Solenoid coil or complete valve assembly |
-| Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?ascsubtag=ecf-hoshizaki-dkm-500-error-codes&tag=errorcodefixes-20) \| Specific to DKM dispenser design |
+| Water inlet valve | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-dkm-500-error-codes&k=Hoshizaki+Water+inlet+valve&tag=errorcodefixes-20) \| Solenoid coil or complete valve assembly |
+| Float switch | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-dkm-500-error-codes&k=Hoshizaki+Float+switch&tag=errorcodefixes-20) \| Specific to DKM dispenser design |
 | Dispenser motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-dkm-500-error-codes&k=Dispenser+motor&tag=errorcodefixes-20) \| Check for ice jam before ordering |
 | Evaporator thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-dkm-500-error-codes&k=Evaporator+thermistor&tag=errorcodefixes-20) \| For E4; check resistance at room temperature |
-| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-hoshizaki-dkm-500-error-codes&tag=errorcodefixes-20) \| Manual-reset; check cutout pressure rating |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-hoshizaki-dkm-500-error-codes&tag=errorcodefixes-20) \| Match existing HP and blade size |
+| High-pressure switch | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-dkm-500-error-codes&k=Hoshizaki+High-pressure+switch&tag=errorcodefixes-20) \| Manual-reset; check cutout pressure rating |
+| Condenser fan motor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-dkm-500-error-codes&k=Hoshizaki+Condenser+fan+motor&tag=errorcodefixes-20) \| Match existing HP and blade size |
 ## When to Call a Pro
 
 Healthcare-installed DKM-500 units are subject to NSF sanitation requirements and manufacturer maintenance schedules. Any refrigerant repair requires EPA 608 certification. The DKM-500 dispenser mechanism disassembly requires familiarity with Hoshizaki's specific assembly — a certified Hoshizaki service agent should perform major dispenser repairs to maintain the warranty and NSF certification.

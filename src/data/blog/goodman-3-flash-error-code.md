@@ -51,10 +51,10 @@ The pressure switch is a safety device that verifies the inducer motor is genera
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|---------------|
-| Pressure switch | B1370112 | $30–$45 | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-goodman-3-flash-error-code&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=B1370112&utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=goodman-3-flash-error-code) |
+| Pressure switch | B1370112 | $30–$45 | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-goodman-3-flash-error-code&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=B1370112&utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=goodman-3-flash-error-code) |
 | Inducer motor capacitor | B175-1068 | $8–$15 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-goodman-3-flash-error-code&k=Goodman+B175-1068+inducer+capacitor&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=B175-1068&utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=goodman-3-flash-error-code) |
-| Inducer motor assembly | B1859005 | $120–$180 | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-goodman-3-flash-error-code&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=B1859005&utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=goodman-3-flash-error-code) |
-| Condensate drain trap | B1787419 | $12–$20 | [Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-goodman-3-flash-error-code&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=B1787419&utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=goodman-3-flash-error-code) |
+| Inducer motor assembly | B1859005 | $120–$180 | [View on Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-goodman-3-flash-error-code&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=B1859005&utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=goodman-3-flash-error-code) |
+| Condensate drain trap | B1787419 | $12–$20 | [View on Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-goodman-3-flash-error-code&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=B1787419&utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=goodman-3-flash-error-code) |
 
 ## When to Call a Professional
 

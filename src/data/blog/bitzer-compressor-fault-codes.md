@@ -435,4 +435,4 @@ Find replacement parts for Bitzer compressors on Amazon:
 
 - [Bitzer Compressor Parts & Accessories](https://www.amazon.com/s?ascsubtag=ecf-bitzer-compressor-fault-codes&k=Bitzer+compressor+parts&tag=errorcodefixes-20)
 - [Bitzer Crankcase Heater Replacement](https://www.amazon.com/s?ascsubtag=ecf-bitzer-compressor-fault-codes&k=Bitzer+crankcase+heater+replacement&tag=errorcodefixes-20)
-- [Bitzer High Pressure Switch & Sensors](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-bitzer-compressor-fault-codes&tag=errorcodefixes-20)
+- [Bitzer High Pressure Switch & Sensors](https://www.amazon.com/s?ascsubtag=ecf-bitzer-compressor-fault-codes&k=Bitzer+High+Pressure+Switch+%26+Sensors&tag=errorcodefixes-20)

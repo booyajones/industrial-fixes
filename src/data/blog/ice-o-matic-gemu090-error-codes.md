@@ -36,7 +36,7 @@ The Ice-O-Matic GEMU090 is an undercounter pearl ice machine. It uses electronic
 
 | Part | Notes |
 |------|-------|
-| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?ascsubtag=ecf-ice-o-matic-gemu090-error-codes&tag=errorcodefixes-20) \| If fill is slow or intermittent |
+| Water inlet valve | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-ice-o-matic-gemu090-error-codes&k=Water+inlet+valve&tag=errorcodefixes-20) \| If fill is slow or intermittent |
 | Auger motor capacitor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ice-o-matic-gemu090-error-codes&k=Auger+motor+capacitor&tag=errorcodefixes-20) \| If motor hums but struggles |
 | Thermistor / probe | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ice-o-matic-gemu090-error-codes&k=Thermistor+%2F+probe&tag=errorcodefixes-20) \| Model-specific GEMU090 part |
 | Water filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ice-o-matic-gemu090-error-codes&k=Water+filter&tag=errorcodefixes-20) \| Replace during service |

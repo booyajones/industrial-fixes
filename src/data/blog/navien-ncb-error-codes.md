@@ -65,9 +65,9 @@ The Navien NCB (NCB-180, NCB-210, NCB-240) is a condensing combination boiler th
 | Part | Notes |
 |------|-------|
 | 3-way valve motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-ncb-error-codes&k=3-way+valve+motor&tag=errorcodefixes-20) \| E040; replace motor before full valve assembly |
-| Condensate pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-navien-ncb-error-codes&tag=errorcodefixes-20) \| E010 after drain confirmed clear |
+| Condensate pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-navien-ncb-error-codes&tag=errorcodefixes-20) \| E010 after drain confirmed clear |
 | Expansion tank | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-ncb-error-codes&k=Expansion+tank&tag=errorcodefixes-20) \| For E022 (overpressure) — check pre-charge |
-| Fan motor assembly | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-navien-ncb-error-codes&tag=errorcodefixes-20) \| E024; includes wheel |
+| Fan motor assembly | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-navien-ncb-error-codes&tag=errorcodefixes-20) \| E024; includes wheel |
 | DHW flow sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-ncb-error-codes&k=DHW+flow+sensor&tag=errorcodefixes-20) \| E028; descale before replacing |
 | 3-way valve seal kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-ncb-error-codes&k=3-way+valve+seal+kit&tag=errorcodefixes-20) \| If valve leaks internally |
 ## When to Call a Pro

@@ -56,7 +56,7 @@ One reset after a clear correction is fine. Five resets in a row without diagnos
 | Igniter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-boiler-lockout-error-codes&k=Igniter&tag=errorcodefixes-20) \| Common on repeated ignition lockouts |
 | Expansion tank | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-boiler-lockout-error-codes&k=Expansion+tank&tag=errorcodefixes-20) \| Pressure-related complaints |
 | Circulator pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-boiler-lockout-error-codes&k=Circulator+pump&tag=errorcodefixes-20) \| Overtemp and low-flow issues |
-| Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-boiler-lockout-error-codes&tag=errorcodefixes-20) \| Common on condensing boilers |
+| Condensate trap | [View on Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-boiler-lockout-error-codes&tag=errorcodefixes-20) \| Common on condensing boilers |
 | Manometer | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-boiler-lockout-error-codes&k=Manometer&tag=errorcodefixes-20) \| Needed for proper gas pressure diagnosis |
 ## When to Call a Pro
 

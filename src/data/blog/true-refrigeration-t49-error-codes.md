@@ -38,7 +38,7 @@ The True T-49 is a two-door commercial reach-in refrigerator commonly used in re
 |------|-------|
 | Cabinet probe | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-true-refrigeration-t49-error-codes&k=Cabinet+probe&tag=errorcodefixes-20) \| Match controller type and sensor curve |
 | Evaporator probe | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-true-refrigeration-t49-error-codes&k=Evaporator+probe&tag=errorcodefixes-20) \| Often clipped to the suction line or coil |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-true-refrigeration-t49-error-codes&tag=errorcodefixes-20) \| Common T-49 service part |
-| Door gasket | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?ascsubtag=ecf-true-refrigeration-t49-error-codes&tag=errorcodefixes-20) \| Replace if torn or not sealing |
+| Condenser fan motor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-true-refrigeration-t49-error-codes&k=Condenser+fan+motor&tag=errorcodefixes-20) \| Common T-49 service part |
+| Door gasket | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-true-refrigeration-t49-error-codes&k=Door+gasket&tag=errorcodefixes-20) \| Replace if torn or not sealing |
 ## When to Call a Pro
 If the compressor is short-cycling, the evaporator is icing repeatedly, or you suspect a refrigerant problem, bring in a commercial refrigeration technician. Sensor faults are simple. Sealed-system issues are not.

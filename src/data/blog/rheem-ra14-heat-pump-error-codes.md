@@ -78,8 +78,8 @@ Similar to 2 flashes but specifically triggered during a cooling cycle. The refr
 |------|----------------|-------------|
 | Defrost thermostat (47-21517-02) | Fixes 6-flash defrost open fault | $15–$30 — [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-rheem-ra14-heat-pump-error-codes&k=Rheem+defrost+thermostat+47-21517-02&tag=errorcodefixes-20) |
 | Control board (47-102684-83) | Fixes continuous-on or board faults | $80–$150 — [Search on Amazon](https://www.amazon.com/s?k=Control+board+%2847-102684-83%29&tag=errorcodefixes-20) |
-| Capacitor (dual run, 45/5 MFD) | Common cause of fan or compressor failure | $15–$35 — [Search on Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-rheem-ra14-heat-pump-error-codes&tag=errorcodefixes-20) |
-| Contactor (40A single-pole) | Fails when the compressor won't start | $20–$40 — [Search on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-rheem-ra14-heat-pump-error-codes&tag=errorcodefixes-20) |
+| Capacitor (dual run, 45/5 MFD) | Common cause of fan or compressor failure | $15–$35 — [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-rheem-ra14-heat-pump-error-codes&tag=errorcodefixes-20) |
+| Contactor (40A single-pole) | Fails when the compressor won't start | $20–$40 — [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-rheem-ra14-heat-pump-error-codes&tag=errorcodefixes-20) |
 | TXV expansion valve (R-410A) | Required if flood-back is diagnosed | $60–$120 — [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-rheem-ra14-heat-pump-error-codes&k=TXV+expansion+valve+R410A+heat+pump&tag=errorcodefixes-20) |
 | 3A control board fuse | Fixes no-control faults from blown fuse | $5–$10 — [Search on Amazon](https://www.amazon.com/s?k=3A+control+board+fuse&tag=errorcodefixes-20) |
 

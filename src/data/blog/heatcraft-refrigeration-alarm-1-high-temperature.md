@@ -53,9 +53,9 @@ This alarm does not necessarily mean the refrigeration system has failed complet
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
-| Evaporator Fan Motor (typical) | Match by HP/frame/RPM | $45–$120 | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?ascsubtag=ecf-heatcraft-refrigeration-alarm-1-high-temperature&tag=errorcodefixes-20) \| Parts Town / Grainger |
-| NTC Temperature Sensor (10kΩ) | Model-specific | $20–$45 | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-heatcraft-refrigeration-alarm-1-high-temperature&tag=errorcodefixes-20) \| Parts Town / Heatcraft dealer |
-| Defrost Termination Thermostat | Model-specific | $15–$35 | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-heatcraft-refrigeration-alarm-1-high-temperature&tag=errorcodefixes-20) \| Parts Town |
+| Evaporator Fan Motor (typical) | Match by HP/frame/RPM | $45–$120 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-heatcraft-refrigeration-alarm-1-high-temperature&k=Heatcraft+Evaporator+Fan+Motor+%28typical%29&tag=errorcodefixes-20) \| Parts Town / Grainger |
+| NTC Temperature Sensor (10kΩ) | Model-specific | $20–$45 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-heatcraft-refrigeration-alarm-1-high-temperature&k=Heatcraft+NTC+Temperature+Sensor+%2810k%CE%A9%29&tag=errorcodefixes-20) \| Parts Town / Heatcraft dealer |
+| Defrost Termination Thermostat | Model-specific | $15–$35 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-heatcraft-refrigeration-alarm-1-high-temperature&k=Heatcraft+Defrost+Termination+Thermostat&tag=errorcodefixes-20) \| Parts Town |
 | Heatcraft EC Controller | Model-specific | $180–$350 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-heatcraft-refrigeration-alarm-1-high-temperature&k=Model-specific+Heatcraft+EC+Controller&tag=errorcodefixes-20) \| Heatcraft dealer |
 ## When to Call a Professional
 

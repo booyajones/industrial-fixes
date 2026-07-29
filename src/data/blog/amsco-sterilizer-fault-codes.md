@@ -49,8 +49,8 @@ Pre-vac sterilizers need a tight chamber and a healthy vacuum pump. If the chamb
 
 | Part | Notes |
 |------|-------|
-| Door gasket | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?ascsubtag=ecf-amsco-sterilizer-fault-codes&tag=errorcodefixes-20) \| Replace on sealing faults |
-| RTD temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-amsco-sterilizer-fault-codes&tag=errorcodefixes-20) \| Replace on temp faults |
+| Door gasket | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-amsco-sterilizer-fault-codes&k=AMSCO+Door+gasket&tag=errorcodefixes-20) \| Replace on sealing faults |
+| RTD temperature sensor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-amsco-sterilizer-fault-codes&k=AMSCO+RTD+temperature+sensor&tag=errorcodefixes-20) \| Replace on temp faults |
 | Pressure transducer | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amsco-sterilizer-fault-codes&k=Pressure+transducer&tag=errorcodefixes-20) \| Replace on chamber pressure faults |
 | Steam trap | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amsco-sterilizer-fault-codes&k=Steam+trap&tag=errorcodefixes-20) \| Replace on drain temp issues |
 | Door interlock switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amsco-sterilizer-fault-codes&k=Door+interlock+switch&tag=errorcodefixes-20) \| Replace on latch confirmation faults |

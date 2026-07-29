@@ -78,11 +78,11 @@ Temperature sensors on York YSC units have a nominal resistance of 10K ohms at 7
 
 | Part | Notes |
 |---|---|
-| [Temperature sensor](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-york-ysc-error-codes&tag=errorcodefixes-20) | 10K thermistor — York part S1-02525919700 |
-| [Hot surface igniter](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-york-ysc-error-codes&tag=errorcodefixes-20) | Model-specific — check tonnage and model suffix |
+| [Temperature sensor](https://www.amazon.com/s?ascsubtag=ecf-york-ysc-error-codes&k=York+Temperature+sensor&tag=errorcodefixes-20) | 10K thermistor — York part S1-02525919700 |
+| [Hot surface igniter](https://www.amazon.com/s?ascsubtag=ecf-york-ysc-error-codes&k=York+Hot+surface+igniter&tag=errorcodefixes-20) | Model-specific — check tonnage and model suffix |
 | [Flame sensor rod](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) | Measure µA before replacing |
-| [High-pressure switch](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-york-ysc-error-codes&tag=errorcodefixes-20) | Check trip pressure setting |
-| [Run capacitor](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-york-ysc-error-codes&tag=errorcodefixes-20) | Check µF on both compressor and fan caps |
+| [High-pressure switch](https://www.amazon.com/s?ascsubtag=ecf-york-ysc-error-codes&k=York+High-pressure+switch&tag=errorcodefixes-20) | Check trip pressure setting |
+| [Run capacitor](https://www.amazon.com/s?ascsubtag=ecf-york-ysc-error-codes&k=York+Run+capacitor&tag=errorcodefixes-20) | Check µF on both compressor and fan caps |
 | [IFC control board](https://www.amazon.com/s?k=IFC+control+board&tag=errorcodefixes-20) | York part number varies by tonnage |
 
 > **Note:** The York YSC shares many components with the Coleman and Luxaire commercial RTU lines. Parts are interchangeable.

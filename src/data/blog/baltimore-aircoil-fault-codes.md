@@ -19,7 +19,7 @@ Baltimore Aircoil (BAC) cooling towers with electronic fan control panels or var
 
 | Fault | Meaning | Quick Fix |
 |-------|---------|-----------|
-| [Fan Motor Overload](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-baltimore-aircoil-fault-codes&tag=errorcodefixes-20) | Fan motor current too high | Check motor current, bearings, and fan blades |
+| [Fan Motor Overload](https://www.amazon.com/s?ascsubtag=ecf-baltimore-aircoil-fault-codes&k=Baltimore+Aircoil+Fan+Motor+Overload&tag=errorcodefixes-20) | Fan motor current too high | Check motor current, bearings, and fan blades |
 | [High Water Temperature](https://www.amazon.com/s?ascsubtag=ecf-baltimore-aircoil-fault-codes&k=High+Water+Temperature&tag=errorcodefixes-20) | Leaving water temperature above setpoint | Check fan operation and heat load |
 | [Low Water Level](https://www.amazon.com/s?ascsubtag=ecf-baltimore-aircoil-fault-codes&k=Low+Water+Level&tag=errorcodefixes-20) | Basin water level low | Check makeup water valve and float |
 | [High Water Level](https://www.amazon.com/s?ascsubtag=ecf-baltimore-aircoil-fault-codes&k=High+Water+Level&tag=errorcodefixes-20) | Basin water level too high | Check overflow and makeup valve |

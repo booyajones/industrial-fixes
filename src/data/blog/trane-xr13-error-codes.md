@@ -51,11 +51,11 @@ The Trane XR13 is a 13 SEER single-stage central air conditioner in Trane's valu
 
 | Part | Notes |
 |---|---|
-| Dual run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-trane-xr13-error-codes&tag=errorcodefixes-20) \| Most common failure on XR13 outdoor units |
-| Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-trane-xr13-error-codes&tag=errorcodefixes-20) \| Replace if contacts are pitted or discolored |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-trane-xr13-error-codes&tag=errorcodefixes-20) \| Confirm rotation direction (counterclockwise from top) |
-| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-xr13-error-codes&tag=errorcodefixes-20) \| Replace if Code 2 persists after coil cleaning |
-| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-xr13-error-codes&tag=errorcodefixes-20) \| Replace if Code 3 persists with correct charge |
+| Dual run capacitor | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-trane-xr13-error-codes&tag=errorcodefixes-20) \| Most common failure on XR13 outdoor units |
+| Contactor | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-trane-xr13-error-codes&tag=errorcodefixes-20) \| Replace if contacts are pitted or discolored |
+| Condenser fan motor | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-trane-xr13-error-codes&tag=errorcodefixes-20) \| Confirm rotation direction (counterclockwise from top) |
+| High-pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-xr13-error-codes&tag=errorcodefixes-20) \| Replace if Code 2 persists after coil cleaning |
+| Low-pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-xr13-error-codes&tag=errorcodefixes-20) \| Replace if Code 3 persists with correct charge |
 | Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| For Code 5; check fuse before replacing board |
 ## When to Call a Pro
 

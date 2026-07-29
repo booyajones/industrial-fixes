@@ -61,7 +61,7 @@ The Windmill AC is a direct-to-consumer mini split sold online and through selec
 | Part | Notes |
 |------|-------|
 | Indoor filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-windmill-mini-split-error-codes&k=Indoor+filter&tag=errorcodefixes-20) \| Clean/replace; most common cause of E4 |
-| Temperature sensors | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-windmill-mini-split-error-codes&tag=errorcodefixes-20) \| F1/F2/F3/F4/F5 types; NTC thermistors |
+| Temperature sensors | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-windmill-mini-split-error-codes&tag=errorcodefixes-20) \| F1/F2/F3/F4/F5 types; NTC thermistors |
 | Indoor PCB | [Amazon](https://www.amazon.com/s?k=Indoor+PCB&tag=errorcodefixes-20) \| For E2 with confirmed free-spinning motor |
 | Communication cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-windmill-mini-split-error-codes&k=Communication+cable&tag=errorcodefixes-20) \| 3-conductor; replace if damaged |
 | Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| For E3 or P0 after other causes ruled out |

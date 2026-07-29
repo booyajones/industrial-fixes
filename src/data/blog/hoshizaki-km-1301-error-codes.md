@@ -37,8 +37,8 @@ The Hoshizaki KM-1301 is a large-capacity crescent cuber used in hotels, restaur
 | Part | Notes |
 |------|-------|
 | Thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-km-1301-error-codes&k=Thermistor&tag=errorcodefixes-20) \| KM-series specific probe |
-| Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?ascsubtag=ecf-hoshizaki-km-1301-error-codes&tag=errorcodefixes-20) \| Common scale-related failure point |
-| Hot gas valve coil | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-hoshizaki-km-1301-error-codes&tag=errorcodefixes-20) \| Replace if not energizing |
-| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?ascsubtag=ecf-hoshizaki-km-1301-error-codes&tag=errorcodefixes-20) \| If leaking or slow-filling |
+| Float switch | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-km-1301-error-codes&k=Hoshizaki+Float+switch&tag=errorcodefixes-20) \| Common scale-related failure point |
+| Hot gas valve coil | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-km-1301-error-codes&k=Hoshizaki+Hot+gas+valve+coil&tag=errorcodefixes-20) \| Replace if not energizing |
+| Water inlet valve | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-km-1301-error-codes&k=Hoshizaki+Water+inlet+valve&tag=errorcodefixes-20) \| If leaking or slow-filling |
 ## When to Call a Pro
 If the KM-1301 is running long cycles with a clean condenser and good water flow, the issue may be refrigerant charge, a restricted TXV, or a hot gas valve problem. Those are refrigeration service jobs.

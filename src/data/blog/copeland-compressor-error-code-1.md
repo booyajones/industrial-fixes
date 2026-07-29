@@ -54,9 +54,9 @@ High pressure trips are serious. Sustained high discharge pressure overheats the
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
-| High pressure switch (400 PSI R-404A) | Ranco 010-1766 | $25–$45 | [Amazon](https://www.amazon.com/dp/B013IHQ8CU?ascsubtag=ecf-copeland-compressor-error-code-1&tag=errorcodefixes-20) \| Grainger / Johnstone Supply |
-| Condenser fan motor (1/4 HP, 208/230V) | Fasco D7909 | $55–$90 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-copeland-compressor-error-code-1&tag=errorcodefixes-20) \| Grainger / Amazon |
-| Fan motor run capacitor | Various (per motor rating) | $8–$20 | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-copeland-compressor-error-code-1&tag=errorcodefixes-20) \| Grainger / Amazon |
+| High pressure switch (400 PSI R-404A) | Ranco 010-1766 | $25–$45 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-copeland-compressor-error-code-1&k=Copeland+High+pressure+switch+%28400+PSI+R-404A%29&tag=errorcodefixes-20) \| Grainger / Johnstone Supply |
+| Condenser fan motor (1/4 HP, 208/230V) | Fasco D7909 | $55–$90 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-copeland-compressor-error-code-1&k=Copeland+Condenser+fan+motor+%281%2F4+HP%2C+208%2F230V%29&tag=errorcodefixes-20) \| Grainger / Amazon |
+| Fan motor run capacitor | Various (per motor rating) | $8–$20 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-copeland-compressor-error-code-1&k=Copeland+Fan+motor+run+capacitor&tag=errorcodefixes-20) \| Grainger / Amazon |
 | Condenser coil cleaner (commercial) | Nu-Brite or similar | $20–$35 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-copeland-compressor-error-code-1&k=Nu-Brite+or+similar+Condenser+coil+cleaner+%28commercial%29&tag=errorcodefixes-20) \| HVAC distributors |
 ## When to Call a Professional
 

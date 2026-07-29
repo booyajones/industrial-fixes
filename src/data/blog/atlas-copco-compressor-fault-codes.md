@@ -45,7 +45,7 @@ Check line voltage, current balance, and actual compressed air demand. A compres
 |------|-------|
 | Air/oil separator | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-atlas-copco-compressor-fault-codes&k=Air%2Foil+separator&tag=errorcodefixes-20) \| Major service item |
 | Oil filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-atlas-copco-compressor-fault-codes&k=Oil+filter&tag=errorcodefixes-20) \| Replace with separator service |
-| Temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-atlas-copco-compressor-fault-codes&tag=errorcodefixes-20) \| Common after vibration and heat cycling |
-| Cooling fan / contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-atlas-copco-compressor-fault-codes&tag=errorcodefixes-20) \| Common on overheats |
+| Temperature sensor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-atlas-copco-compressor-fault-codes&k=Atlas+Copco+Temperature+sensor&tag=errorcodefixes-20) \| Common after vibration and heat cycling |
+| Cooling fan / contactor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-atlas-copco-compressor-fault-codes&k=Atlas+Copco+Cooling+fan+%2F+contactor&tag=errorcodefixes-20) \| Common on overheats |
 ## When to Call a Pro
 If the compressor repeatedly trips on temperature or motor overload after routine service, involve an Atlas Copco technician. Screw compressor control problems and internal airend wear are not guess-and-check repairs.

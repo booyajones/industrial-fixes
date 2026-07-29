@@ -68,10 +68,10 @@ Prodigy+ models have an automatic cleaning cycle. When "Clean" appears, the mach
 
 | Part | Notes |
 |------|-------|
-| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?ascsubtag=ecf-scotsman-ice-machine-complete-guide&tag=errorcodefixes-20) \| Inspect on E5 faults |
+| Water inlet valve | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-scotsman-ice-machine-complete-guide&k=Scotsman+Water+inlet+valve&tag=errorcodefixes-20) \| Inspect on E5 faults |
 | Harvest heater | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-scotsman-ice-machine-complete-guide&k=Harvest+heater&tag=errorcodefixes-20) \| Test on E3 faults |
 | Thermistor (bin or evap) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-scotsman-ice-machine-complete-guide&k=Thermistor+%28bin+or+evap%29&tag=errorcodefixes-20) \| Replace on E8 sensor faults |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-scotsman-ice-machine-complete-guide&tag=errorcodefixes-20) \| Replace on high temp faults |
+| Condenser fan motor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-scotsman-ice-machine-complete-guide&k=Scotsman+Condenser+fan+motor&tag=errorcodefixes-20) \| Replace on high temp faults |
 ## Jump to Fix
 
 - **E1 long freeze** → Clean condenser → Check refrigerant → Inspect evaporator scale

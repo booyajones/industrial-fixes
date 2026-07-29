@@ -36,7 +36,7 @@ E5 on a Mitsubishi mini-split indoor unit indicates a drain pump fault or a drai
 | Part | Notes |
 |------|-------|
 | Condensate drain pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-e5-error-code&k=Condensate+drain+pump&tag=errorcodefixes-20) \| Match Mitsubishi model and voltage; many are 115V |
-| Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?ascsubtag=ecf-mitsubishi-e5-error-code&tag=errorcodefixes-20) \| Often sold with pump kits |
+| Float switch | [View on Amazon](https://www.amazon.com/dp/B005D4RFEM?ascsubtag=ecf-mitsubishi-e5-error-code&tag=errorcodefixes-20) \| Often sold with pump kits |
 | Drain hose (flexible) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-e5-error-code&k=Drain+hose+%28flexible%29&tag=errorcodefixes-20) \| Replace if kinked or biologically fouled |
 | Drain pan tablets (algae inhibitor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-e5-error-code&k=Drain+pan+tablets+%28algae+inhibitor%29&tag=errorcodefixes-20) \| Preventive maintenance; reduces future blockages |
 ## When to Call a Pro

@@ -53,7 +53,7 @@ Code 4 is one of the most searched Manitowoc faults in commercial kitchens becau
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
 | Manitowoc Curtain Sensor | 000005444 | $60–$75 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-ice-machine-error-code-4-water-curtain&k=000005444+Manitowoc+Curtain+Sensor&tag=errorcodefixes-20) \| Repair Clinic / Parts Town |
-| Water Inlet Valve | 000004756 | $80–$95 | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?ascsubtag=ecf-manitowoc-ice-machine-error-code-4-water-curtain&tag=errorcodefixes-20) \| Repair Clinic / Parts Town |
+| Water Inlet Valve | 000004756 | $80–$95 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-ice-machine-error-code-4-water-curtain&k=Manitowoc+Water+Inlet+Valve&tag=errorcodefixes-20) \| Repair Clinic / Parts Town |
 | Water Distribution Tube | 000007533 | $25–$40 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-ice-machine-error-code-4-water-curtain&k=000007533+Water+Distribution+Tube&tag=errorcodefixes-20) \| Parts Town |
 | Manitowoc Ice Machine Cleaner | A0310001 | $18–$28 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-ice-machine-error-code-4-water-curtain&k=A0310001+Manitowoc+Ice+Machine+Cleaner&tag=errorcodefixes-20) \| Amazon / restaurant supply |
 ## When to Call a Professional

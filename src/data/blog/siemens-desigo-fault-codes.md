@@ -53,6 +53,6 @@ PXC hardware faults indicate a failed processor module, power supply, or flash m
 | Room unit (QMX3.P) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-desigo-fault-codes&k=Room+unit+%28QMX3.P%29&tag=errorcodefixes-20) \| Replace on room unit fault |
 | Actuator (SQS/SKS) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-desigo-fault-codes&k=Actuator+%28SQS%2FSKS%29&tag=errorcodefixes-20) \| Replace on valve fault |
 | MS/TP cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-desigo-fault-codes&k=MS%2FTP+cable&tag=errorcodefixes-20) \| Replace on bus faults |
-| Temperature sensor (QAP) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-siemens-desigo-fault-codes&tag=errorcodefixes-20) \| Replace on sensor fault |
+| Temperature sensor (QAP) | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-desigo-fault-codes&k=Siemens+Temperature+sensor+%28QAP%29&tag=errorcodefixes-20) \| Replace on sensor fault |
 ## When to Call a Pro
 Desigo CC database configuration, PXC programming with XWORKSplus, and network integration require Siemens-trained personnel. Incorrect configuration changes can affect entire building zones simultaneously.

@@ -50,7 +50,7 @@ Door not closed or door interlock switch fault. Verify door closes fully and lat
 |------|-------|
 | Wash pump motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hobart-dishwasher-error-codes&k=Wash+pump+motor&tag=errorcodefixes-20) \| Most urgent repair — no washing without it |
 | Booster heater element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hobart-dishwasher-error-codes&k=Booster+heater+element&tag=errorcodefixes-20) \| For E1/E2 temperature faults |
-| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?ascsubtag=ecf-hobart-dishwasher-error-codes&tag=errorcodefixes-20) \| For E3 fill faults |
+| Water inlet valve | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-hobart-dishwasher-error-codes&k=Hobart+Water+inlet+valve&tag=errorcodefixes-20) \| For E3 fill faults |
 | Drain pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hobart-dishwasher-error-codes&k=Drain+pump&tag=errorcodefixes-20) \| For E4 drain faults |
 ## When to Call a Pro
 

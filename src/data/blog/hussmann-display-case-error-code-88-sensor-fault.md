@@ -50,7 +50,7 @@ Hussmann display cases (the P series, R series, and I series merchandisers found
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
-| Hussmann NTC Temperature Sensor | 0528900 | $25–$38 | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-hussmann-display-case-error-code-88-sensor-fault&tag=errorcodefixes-20) \| Parts Town / Amazon |
+| Hussmann NTC Temperature Sensor | 0528900 | $25–$38 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-hussmann-display-case-error-code-88-sensor-fault&k=Hussmann+NTC+Temperature+Sensor&tag=errorcodefixes-20) \| Parts Town / Amazon |
 | Sensor Connector Kit (2-pin) | Generic 2-pin Molex | $5–$10 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hussmann-display-case-error-code-88-sensor-fault&k=Generic+2-pin+Molex+Sensor+Connector+Kit+%282-pin%29&tag=errorcodefixes-20) \| Amazon / electrical supply |
 | Hussmann Case Controller (if board failed) | Model-specific | $250–$450 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hussmann-display-case-error-code-88-sensor-fault&k=Model-specific+Hussmann+Case+Controller+%28if+board+failed%29&tag=errorcodefixes-20) \| Hussmann dealer / Parts Town |
 ## When to Call a Professional

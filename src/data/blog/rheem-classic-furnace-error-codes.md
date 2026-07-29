@@ -69,8 +69,8 @@ Rheem's Classic and Classic Plus furnaces (models R801T, R96V, R97V, R92P, and t
 |------|-------|
 | Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Rheem 62-22868-92 |
 | Hot-surface igniter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rheem-classic-furnace-error-codes&k=Hot-surface+igniter&tag=errorcodefixes-20) \| Rheem 62-23543-01 |
-| Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-rheem-classic-furnace-error-codes&tag=errorcodefixes-20) \| Rheem AP14230C |
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-rheem-classic-furnace-error-codes&tag=errorcodefixes-20) \| 0.60" or 0.80" WC, model-specific |
-| Blower run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-rheem-classic-furnace-error-codes&tag=errorcodefixes-20) \| 5–10 µF / 370V |
+| Condensate trap | [View on Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-rheem-classic-furnace-error-codes&tag=errorcodefixes-20) \| Rheem AP14230C |
+| Pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-rheem-classic-furnace-error-codes&tag=errorcodefixes-20) \| 0.60" or 0.80" WC, model-specific |
+| Blower run capacitor | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-rheem-classic-furnace-error-codes&tag=errorcodefixes-20) \| 5–10 µF / 370V |
 ## When to Call a Pro
 Code 5 (rollout or flame without call) and code 9 (reversed polarity) require technician attention. Rollout on a Rheem Classic can indicate a cracked primary heat exchanger — CO can enter the living space through a cracked HX.

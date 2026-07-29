@@ -56,7 +56,7 @@ This code is one of the most searched Weil-McLain faults because it appears freq
 |------|------------|-------------|-------------|
 | Flame sensor | 383-500-044 | $30–$45 | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| HVAC Parts / Weil-McLain Distributor |
 | Igniter | 383-500-043 | $50–$70 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-e01-error-code&k=383-500-043+Igniter&tag=errorcodefixes-20) \| HVAC Parts / Weil-McLain Distributor |
-| Gas valve | 383-500-376 | $200–$350 | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-weil-mclain-e01-error-code&tag=errorcodefixes-20) \| Weil-McLain Distributor |
+| Gas valve | 383-500-376 | $200–$350 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-e01-error-code&k=Gas+valve&tag=errorcodefixes-20) \| Weil-McLain Distributor |
 | Burner control module | 383-500-372 | $280–$420 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-e01-error-code&k=383-500-372+Burner+control+module&tag=errorcodefixes-20) \| Weil-McLain Distributor |
 ## When to Call a Professional
 

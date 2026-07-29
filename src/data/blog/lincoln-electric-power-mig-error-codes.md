@@ -48,7 +48,7 @@ Short circuit at the output. Inspect gun, cable, and nozzle/tip for shorts. Powe
 | Part | Notes |
 |------|-------|
 | MIG gun | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lincoln-electric-power-mig-error-codes&k=MIG+gun&tag=errorcodefixes-20) \| Replace if internal cable short found |
-| Input/output contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-lincoln-electric-power-mig-error-codes&tag=errorcodefixes-20) \| Match to Power MIG model |
+| Input/output contactor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-lincoln-electric-power-mig-error-codes&k=Lincoln+Electric+Input%2Foutput+contactor&tag=errorcodefixes-20) \| Match to Power MIG model |
 | Interconnect cable (feeder to PS) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lincoln-electric-power-mig-error-codes&k=Interconnect+cable+%28feeder+to+PS%29&tag=errorcodefixes-20) \| For E20 |
 ## When to Call a Pro
 

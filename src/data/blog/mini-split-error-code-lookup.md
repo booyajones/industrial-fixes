@@ -52,7 +52,7 @@ Mini split error codes vary wildly by brand, but the same themes repeat: communi
 | Part | Notes |
 |---|---|
 | Thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mini-split-error-code-lookup&k=Thermistor&tag=errorcodefixes-20) \| Common, relatively inexpensive failure |
-| Indoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-mini-split-error-code-lookup&tag=errorcodefixes-20) \| For fan lock errors |
+| Indoor fan motor | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-mini-split-error-code-lookup&tag=errorcodefixes-20) \| For fan lock errors |
 | Drain pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mini-split-error-code-lookup&k=Drain+pump&tag=errorcodefixes-20) \| On ceiling cassette and concealed units |
 | Communication cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mini-split-error-code-lookup&k=Communication+cable&tag=errorcodefixes-20) \| Wiring mistakes are common |
 | Outdoor board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mini-split-error-code-lookup&k=Outdoor+board&tag=errorcodefixes-20) \| Only after sensor/wiring checks |

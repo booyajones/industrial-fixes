@@ -47,9 +47,9 @@ High or low pressure cutout tripped. This is a sealed system fault requiring a c
 | Part | Notes |
 |------|-------|
 | NTC air sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hussmann-walk-in-error-codes&k=NTC+air+sensor&tag=errorcodefixes-20) \| Hussmann model-specific |
-| Evaporator fan motor | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?ascsubtag=ecf-hussmann-walk-in-error-codes&tag=errorcodefixes-20) \| Match voltage and RPM to unit |
-| Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?ascsubtag=ecf-hussmann-walk-in-error-codes&tag=errorcodefixes-20) \| Match to walk-in size and voltage |
-| Defrost termination thermostat | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-hussmann-walk-in-error-codes&tag=errorcodefixes-20) \| Calibrated for box temperature range |
+| Evaporator fan motor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-hussmann-walk-in-error-codes&k=Hussmann+Evaporator+fan+motor&tag=errorcodefixes-20) \| Match voltage and RPM to unit |
+| Defrost heater | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-hussmann-walk-in-error-codes&k=Hussmann+Defrost+heater&tag=errorcodefixes-20) \| Match to walk-in size and voltage |
+| Defrost termination thermostat | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-hussmann-walk-in-error-codes&k=Hussmann+Defrost+termination+thermostat&tag=errorcodefixes-20) \| Calibrated for box temperature range |
 ## When to Call a Pro
 
 E5 refrigerant pressure faults and any sealed system diagnosis requires EPA 608 certification.

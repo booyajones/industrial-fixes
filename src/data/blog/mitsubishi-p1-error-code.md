@@ -49,7 +49,7 @@ On Mitsubishi systems, P1 is also used in some models to indicate a refrigerant 
 | Part | Where to Buy | Typical Cost |
 |------|-------------|-------------|
 | Indoor thermistor set (Mitsubishi E22D33426 or equiv.) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-p1-error-code&k=Indoor+thermistor+set+%28Mitsubishi+E22D33426+or+equiv.%29&tag=errorcodefixes-20) \| HVAC Parts Shop, eBay OEM parts | $20–$50 |
-| Indoor fan motor (model-specific, e.g., Mitsubishi E22-M00 series) | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-mitsubishi-p1-error-code&tag=errorcodefixes-20) \| RepairClinic, HVAC Parts Shop | $80–$180 |
+| Indoor fan motor (model-specific, e.g., Mitsubishi E22-M00 series) | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-mitsubishi-p1-error-code&tag=errorcodefixes-20) \| RepairClinic, HVAC Parts Shop | $80–$180 |
 | Refrigerant R-410A (tech-supplied, requires EPA 608) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-p1-error-code&k=Refrigerant+R-410A+%28tech-supplied%2C+requires+EPA+608%29&tag=errorcodefixes-20) \| N/A — licensed tech only | $50–$200 (labor + material) |
 | Replacement filter screens | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-p1-error-code&k=Replacement+filter+screens&tag=errorcodefixes-20) \| Amazon, Mitsubishi dealer | $10–$25 |
 ## When to Call a Professional

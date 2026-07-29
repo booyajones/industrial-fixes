@@ -74,11 +74,11 @@ Verify inducer motor is running. Check pressure switch hose for blockages. Measu
 
 | Part | Notes |
 |---|---|
-| [Hot surface igniter](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-trane-rooftop-unit-error-codes&tag=errorcodefixes-20) | Silicon carbide — handle without skin contact |
+| [Hot surface igniter](https://www.amazon.com/s?ascsubtag=ecf-trane-rooftop-unit-error-codes&k=Trane+Hot+surface+igniter&tag=errorcodefixes-20) | Silicon carbide — handle without skin contact |
 | [Flame sensor rod](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) | Replace if µA reading below 1.5 µA |
-| [High-pressure switch](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-rooftop-unit-error-codes&tag=errorcodefixes-20) | 410A = 590 psi, check OEM setting |
-| [Condenser fan motor](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-trane-rooftop-unit-error-codes&tag=errorcodefixes-20) | Check run capacitor first |
+| [High-pressure switch](https://www.amazon.com/s?ascsubtag=ecf-trane-rooftop-unit-error-codes&k=Trane+High-pressure+switch&tag=errorcodefixes-20) | 410A = 590 psi, check OEM setting |
+| [Condenser fan motor](https://www.amazon.com/s?ascsubtag=ecf-trane-rooftop-unit-error-codes&k=Trane+Condenser+fan+motor&tag=errorcodefixes-20) | Check run capacitor first |
 | [IFC control board](https://www.amazon.com/s?k=IFC+control+board&tag=errorcodefixes-20) | Match model number exactly |
-| [Inducer motor](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-trane-rooftop-unit-error-codes&tag=errorcodefixes-20) | Check capacitor before replacing motor |
+| [Inducer motor](https://www.amazon.com/s?ascsubtag=ecf-trane-rooftop-unit-error-codes&k=Trane+Inducer+motor&tag=errorcodefixes-20) | Check capacitor before replacing motor |
 
 > **Pro tip:** On Trane Precedent units, the IFC stores the last fault. After a power cycle, the board replays the fault code during startup via the diagnostic LED.

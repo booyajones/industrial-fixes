@@ -65,10 +65,10 @@ Test the run capacitor (match µF rating). Check for debris binding the blower w
 | Part | Notes |
 |------|-------|
 | Flame sensor rod | [Amazon](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) \| Most codes 7 and 8 start with the sensor |
-| Blower run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-trane-xr80-error-codes&tag=errorcodefixes-20) \| Code 9; match µF and voltage on the capacitor label |
-| Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-trane-xr80-error-codes&tag=errorcodefixes-20) \| Code 8; silicon carbide, 120V |
-| Draft pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-xr80-error-codes&tag=errorcodefixes-20) \| Codes 2 and 3 |
-| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-trane-xr80-error-codes&tag=errorcodefixes-20) \| Code 4; match temperature rating |
+| Blower run capacitor | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-trane-xr80-error-codes&tag=errorcodefixes-20) \| Code 9; match µF and voltage on the capacitor label |
+| Hot surface ignitor | [View on Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-trane-xr80-error-codes&tag=errorcodefixes-20) \| Code 8; silicon carbide, 120V |
+| Draft pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-xr80-error-codes&tag=errorcodefixes-20) \| Codes 2 and 3 |
+| High-limit switch | [View on Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-trane-xr80-error-codes&tag=errorcodefixes-20) \| Code 4; match temperature rating |
 ## When to Call a Pro
 
 Code 5 (flame without call) is a gas leak/valve failure — shut off the gas and do not attempt DIY repair. Code 4 that recurs after replacing the filter and confirming airflow may indicate a cracked heat exchanger, which requires professional inspection and is a carbon monoxide hazard.

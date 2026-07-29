@@ -39,8 +39,8 @@ The Manitowoc IY-0454 is a 455 lb/day Indigo series half-dice ice machine common
 
 | Part | Notes |
 |------|-------|
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-manitowoc-iy-0454-error-codes&tag=errorcodefixes-20) \| Most common fix for E04/E05 |
-| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?ascsubtag=ecf-manitowoc-iy-0454-error-codes&tag=errorcodefixes-20) \| Code 6 fix |
+| Condenser fan motor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-iy-0454-error-codes&k=Manitowoc+Condenser+fan+motor&tag=errorcodefixes-20) \| Most common fix for E04/E05 |
+| Water inlet valve | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-iy-0454-error-codes&k=Manitowoc+Water+inlet+valve&tag=errorcodefixes-20) \| Code 6 fix |
 | Manitowoc Ice Machine Cleaner | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-iy-0454-error-codes&k=Manitowoc+Ice+Machine+Cleaner&tag=errorcodefixes-20) \| Use every 6 months |
 ## When to Call a Pro
 

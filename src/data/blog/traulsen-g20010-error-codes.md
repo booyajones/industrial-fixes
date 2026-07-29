@@ -126,12 +126,12 @@ Some Traulsen controllers show a power-failure style alarm after an outage or af
 
 | Part | Notes | Typical Cost | Where to Buy |
 |------|-------|--------------|--------------|
-| Cabinet temperature sensor | First check for E1 alarms | $20–$45 | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-traulsen-g20010-error-codes&tag=errorcodefixes-20) \| Parts Town |
+| Cabinet temperature sensor | First check for E1 alarms | $20–$45 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-traulsen-g20010-error-codes&k=Traulsen+Cabinet+temperature+sensor&tag=errorcodefixes-20) \| Parts Town |
 | Evaporator sensor | Common E2 or E3 repair | $20–$45 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-traulsen-g20010-error-codes&k=Traulsen+evaporator+sensor+G20010&tag=errorcodefixes-20) \| Parts Town |
-| Door gasket | Stops moisture entry and icing | $70–$140 | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?ascsubtag=ecf-traulsen-g20010-error-codes&tag=errorcodefixes-20) \| Parts Town |
-| Evaporator fan motor | Needed when airflow drops | $75–$160 | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?ascsubtag=ecf-traulsen-g20010-error-codes&tag=errorcodefixes-20) \| Parts Town |
-| Condenser fan motor | Helps with HI alarms and hot head pressure | $80–$170 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-traulsen-g20010-error-codes&tag=errorcodefixes-20) \| Parts Town |
-| Defrost heater | Model-specific, verify voltage | $60–$140 | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?ascsubtag=ecf-traulsen-g20010-error-codes&tag=errorcodefixes-20) \| Parts Town |
+| Door gasket | Stops moisture entry and icing | $70–$140 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-traulsen-g20010-error-codes&k=Traulsen+Door+gasket&tag=errorcodefixes-20) \| Parts Town |
+| Evaporator fan motor | Needed when airflow drops | $75–$160 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-traulsen-g20010-error-codes&k=Traulsen+Evaporator+fan+motor&tag=errorcodefixes-20) \| Parts Town |
+| Condenser fan motor | Helps with HI alarms and hot head pressure | $80–$170 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-traulsen-g20010-error-codes&k=Traulsen+Condenser+fan+motor&tag=errorcodefixes-20) \| Parts Town |
+| Defrost heater | Model-specific, verify voltage | $60–$140 | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-traulsen-g20010-error-codes&k=Traulsen+Defrost+heater&tag=errorcodefixes-20) \| Parts Town |
 | Electronic controller | Match the exact controller revision | $150–$300 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-traulsen-g20010-error-codes&k=Traulsen+controller+G20010&tag=errorcodefixes-20) \| Parts Town |
 
 ---

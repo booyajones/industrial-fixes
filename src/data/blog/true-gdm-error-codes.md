@@ -138,9 +138,9 @@ A deteriorated door gasket allows warm, humid air to infiltrate the cabinet cons
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|--------------|
 | [True 800271 NTC Thermistor Sensor](https://www.amazon.com/s?ascsubtag=ecf-true-gdm-error-codes&k=True+800271+thermistor+sensor+refrigerator&tag=errorcodefixes-20) | E1/E2 errors — cabinet or defrost sensor failure | $15–$30 |
-| [True GDM Evaporator Fan Motor](https://www.amazon.com/dp/B01N0J3ZEH?ascsubtag=ecf-true-gdm-error-codes&tag=errorcodefixes-20) | Failed evaporator fan causes high cabinet temperature | $35–$75 |
-| [True GDM Condenser Fan Motor](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-true-gdm-error-codes&tag=errorcodefixes-20) | Failed condenser fan causes E3 high-temp and compressor lockout | $30–$65 |
-| [True 800270 Defrost Heater](https://www.amazon.com/dp/B07FVP4CY6?ascsubtag=ecf-true-gdm-error-codes&tag=errorcodefixes-20) | E4 defrost fault — heater failure causes coil to ice up | $25–$55 |
+| [True GDM Evaporator Fan Motor](https://www.amazon.com/s?ascsubtag=ecf-true-gdm-error-codes&k=True+GDM+Evaporator+Fan+Motor&tag=errorcodefixes-20) | Failed evaporator fan causes high cabinet temperature | $35–$75 |
+| [True GDM Condenser Fan Motor](https://www.amazon.com/s?ascsubtag=ecf-true-gdm-error-codes&k=True+GDM+Condenser+Fan+Motor&tag=errorcodefixes-20) | Failed condenser fan causes E3 high-temp and compressor lockout | $30–$65 |
+| [True 800270 Defrost Heater](https://www.amazon.com/s?ascsubtag=ecf-true-gdm-error-codes&k=True+800270+Defrost+Heater&tag=errorcodefixes-20) | E4 defrost fault — heater failure causes coil to ice up | $25–$55 |
 | [Ranco ETC-211000 Temperature Controller](https://www.amazon.com/s?ascsubtag=ecf-true-gdm-error-codes&k=Ranco+ETC-211000+temperature+controller&tag=errorcodefixes-20) | E6 controller fault or failed temperature control | $45–$85 |
 | [Coil Cleaner Commercial No-Rinse](https://www.amazon.com/s?ascsubtag=ecf-true-gdm-error-codes&k=commercial+coil+cleaner+no+rinse+foam&tag=errorcodefixes-20) | Dirty condenser causes E3 high temp alarm and efficiency loss | $15–$25 |
 

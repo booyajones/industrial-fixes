@@ -54,10 +54,10 @@ Alto-Shaam manufactures commercial ovens including the Vector multi-cook oven an
 
 | Part | Notes |
 |------|-------|
-| RTD temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-alto-shaam-oven-error-codes&tag=errorcodefixes-20) \| Alto-Shaam OEM — PT100 type |
+| RTD temperature sensor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-alto-shaam-oven-error-codes&k=RTD+temperature+sensor&tag=errorcodefixes-20) \| Alto-Shaam OEM — PT100 type |
 | Heating element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-alto-shaam-oven-error-codes&k=Heating+element&tag=errorcodefixes-20) \| Match to model voltage/wattage |
-| Cavity fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-alto-shaam-oven-error-codes&tag=errorcodefixes-20) \| Replace if blocked or bearing failed |
-| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?ascsubtag=ecf-alto-shaam-oven-error-codes&tag=errorcodefixes-20) \| For E-30 |
+| Cavity fan motor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-alto-shaam-oven-error-codes&k=Cavity+fan+motor&tag=errorcodefixes-20) \| Replace if blocked or bearing failed |
+| Water inlet valve | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-alto-shaam-oven-error-codes&k=Water+inlet+valve&tag=errorcodefixes-20) \| For E-30 |
 ## When to Call a Pro
 
 Alto-Shaam authorized service handles control board replacement, gas system work, and calibration after major repairs.

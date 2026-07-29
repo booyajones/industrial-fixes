@@ -49,7 +49,7 @@ Getinge steam sterilizers with air detectors test for air pockets in the chamber
 
 | Part | Notes |
 |------|-------|
-| Door gasket (Getinge OEM) | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?ascsubtag=ecf-getinge-sterilizer-error-codes&tag=errorcodefixes-20) \| Replace on E004 |
+| Door gasket (Getinge OEM) | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-getinge-sterilizer-error-codes&k=Door+gasket+%28Getinge+OEM%29&tag=errorcodefixes-20) \| Replace on E004 |
 | PT100/PT1000 sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-getinge-sterilizer-error-codes&k=PT100%2FPT1000+sensor&tag=errorcodefixes-20) \| Replace on E001 |
 | Pressure transducer | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-getinge-sterilizer-error-codes&k=Pressure+transducer&tag=errorcodefixes-20) \| Replace on E002 |
 | Steam trap | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-getinge-sterilizer-error-codes&k=Steam+trap&tag=errorcodefixes-20) \| Replace on drain fault |

@@ -52,7 +52,7 @@ If the autoclave doesn't vent chamber pressure within the expected time after st
 
 | Part | Notes |
 |------|-------|
-| Door gasket (M11 silicone) | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?ascsubtag=ecf-midmark-autoclave-fault-codes&tag=errorcodefixes-20) \| Replace on E001 / poor sealing |
+| Door gasket (M11 silicone) | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-midmark-autoclave-fault-codes&k=Midmark+Door+gasket+%28M11+silicone%29&tag=errorcodefixes-20) \| Replace on E001 / poor sealing |
 | Heating element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-midmark-autoclave-fault-codes&k=Heating+element&tag=errorcodefixes-20) \| Replace on E002 / slow heat |
 | Thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-midmark-autoclave-fault-codes&k=Thermistor&tag=errorcodefixes-20) \| Replace on E004 |
 | Water level sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-midmark-autoclave-fault-codes&k=Water+level+sensor&tag=errorcodefixes-20) \| Replace on false E007 |

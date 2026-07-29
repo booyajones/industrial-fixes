@@ -49,8 +49,8 @@ R-410A high-side must stay below 590 psi. Wash condenser coil, check condenser f
 |------|-------|
 | IFC board | [Amazon](https://www.amazon.com/s?k=IFC+board&tag=errorcodefixes-20) \| Match to unit model |
 | Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Measure ┬╡A first |
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-york-affiniti-error-codes&tag=errorcodefixes-20) \| Match pressure setpoint |
-| Limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-york-affiniti-error-codes&tag=errorcodefixes-20) \| Match temperature rating |
-| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-york-affiniti-error-codes&tag=errorcodefixes-20) \| Test ┬╡F with meter |
+| Pressure switch | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-york-affiniti-error-codes&k=York+Pressure+switch&tag=errorcodefixes-20) \| Match pressure setpoint |
+| Limit switch | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-york-affiniti-error-codes&k=York+Limit+switch&tag=errorcodefixes-20) \| Match temperature rating |
+| Run capacitor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-york-affiniti-error-codes&k=York+Run+capacitor&tag=errorcodefixes-20) \| Test ┬╡F with meter |
 | Blower motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-york-affiniti-error-codes&k=Blower+motor&tag=errorcodefixes-20) \| Check for ECM vs. PSC type |
 > **Pro tip:** York Affinity units with the communicating system log fault timestamps. Always retrieve fault history via thermostat diagnostics menu before clearing — provides valuable intermittent fault pattern data.

@@ -58,10 +58,10 @@ The Trane XV80 is an 80% AFUE, variable-speed gas furnace using an ECM blower mo
 | Part | Notes |
 |------|-------|
 | Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Common; cost ~$15–25 |
-| Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-trane-xv80-error-codes&tag=errorcodefixes-20) \| Silicon nitride, 120V; confirm part for XV80 |
+| Hot surface ignitor | [View on Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-trane-xv80-error-codes&tag=errorcodefixes-20) \| Silicon nitride, 120V; confirm part for XV80 |
 | ECM blower module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-xv80-error-codes&k=ECM+blower+module&tag=errorcodefixes-20) \| Fits behind the motor; test before replacing motor |
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-xv80-error-codes&tag=errorcodefixes-20) \| Match to inducer model and tubing port |
-| Rollout switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-trane-xv80-error-codes&tag=errorcodefixes-20) \| Investigate cause before replacing |
+| Pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-xv80-error-codes&tag=errorcodefixes-20) \| Match to inducer model and tubing port |
+| Rollout switch | [View on Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-trane-xv80-error-codes&tag=errorcodefixes-20) \| Investigate cause before replacing |
 | Control board (IFC) | [Amazon](https://www.amazon.com/s?k=Control+board+%28IFC%29&tag=errorcodefixes-20) \| For repeated unexplained lockouts |
 ## When to Call a Pro
 

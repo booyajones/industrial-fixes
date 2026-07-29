@@ -47,9 +47,9 @@ Replace NTC air temperature sensor if resistance is out of spec (open or near-ze
 
 | Part | Notes |
 |------|-------|
-| Evaporator fan motor | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?ascsubtag=ecf-larkin-refrigeration-error-codes&tag=errorcodefixes-20) \| Match to Larkin unit cooler model and voltage |
-| NTC temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-larkin-refrigeration-error-codes&tag=errorcodefixes-20) \| Larkin/Heatcraft part |
-| Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?ascsubtag=ecf-larkin-refrigeration-error-codes&tag=errorcodefixes-20) \| Match wattage and voltage |
+| Evaporator fan motor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-larkin-refrigeration-error-codes&k=Larkin+Evaporator+fan+motor&tag=errorcodefixes-20) \| Match to Larkin unit cooler model and voltage |
+| NTC temperature sensor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-larkin-refrigeration-error-codes&k=Larkin+NTC+temperature+sensor&tag=errorcodefixes-20) \| Larkin/Heatcraft part |
+| Defrost heater | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-larkin-refrigeration-error-codes&k=Larkin+Defrost+heater&tag=errorcodefixes-20) \| Match wattage and voltage |
 ## When to Call a Pro
 
 Pressure alarms (3 and 4) require EPA 608 certified technician for refrigerant diagnosis and repair.

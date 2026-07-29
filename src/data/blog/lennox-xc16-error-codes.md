@@ -53,11 +53,11 @@ The Lennox XC16 is a 16–21 SEER2 two-stage central air conditioner that uses t
 
 | Part | Notes |
 |---|---|
-| Dual run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-lennox-xc16-error-codes&tag=errorcodefixes-20) \| Compressor and fan; most common single failure |
-| Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-lennox-xc16-error-codes&tag=errorcodefixes-20) \| Two-pole; check for pitting and coil resistance |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-lennox-xc16-error-codes&tag=errorcodefixes-20) \| Match HP, RPM, frame size |
-| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-lennox-xc16-error-codes&tag=errorcodefixes-20) \| 610 PSIG cutout for R-410A |
-| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-lennox-xc16-error-codes&tag=errorcodefixes-20) \| 50 PSIG cutout; replace if code persists |
+| Dual run capacitor | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-lennox-xc16-error-codes&tag=errorcodefixes-20) \| Compressor and fan; most common single failure |
+| Contactor | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-lennox-xc16-error-codes&tag=errorcodefixes-20) \| Two-pole; check for pitting and coil resistance |
+| Condenser fan motor | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-lennox-xc16-error-codes&tag=errorcodefixes-20) \| Match HP, RPM, frame size |
+| High-pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-lennox-xc16-error-codes&tag=errorcodefixes-20) \| 610 PSIG cutout for R-410A |
+| Low-pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-lennox-xc16-error-codes&tag=errorcodefixes-20) \| 50 PSIG cutout; replace if code persists |
 | Outdoor communication board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-xc16-error-codes&k=Outdoor+communication+board&tag=errorcodefixes-20) \| For Alert 231 or 411 |
 ## When to Call a Pro
 

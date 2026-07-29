@@ -51,10 +51,10 @@ Furnace fault codes are usually shown as blinking LEDs, two-digit board codes, o
 | Part | Notes |
 |---|---|
 | Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Cheap and commonly dirty |
-| Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-furnace-error-code-lookup&tag=errorcodefixes-20) \| Fragile, common wear part |
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-furnace-error-code-lookup&tag=errorcodefixes-20) \| Check tubing before replacing |
+| Hot surface igniter | [View on Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-furnace-error-code-lookup&tag=errorcodefixes-20) \| Fragile, common wear part |
+| Pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-furnace-error-code-lookup&tag=errorcodefixes-20) \| Check tubing before replacing |
 | Blower capacitor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-furnace-error-code-lookup&k=Blower+capacitor&tag=errorcodefixes-20) \| Common on PSC motor furnaces |
-| Air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-furnace-error-code-lookup&tag=errorcodefixes-20) \| Low-cost first fix |
+| Air filter | [View on Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-furnace-error-code-lookup&tag=errorcodefixes-20) \| Low-cost first fix |
 ## When to Call a Pro
 
 If the code points to rollout, heat exchanger concerns, gas valve issues, or persistent lockouts after basic cleaning and filter replacement, call a licensed HVAC technician. Some furnace faults are safety issues, not DIY maintenance items.

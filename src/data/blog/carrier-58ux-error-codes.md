@@ -58,11 +58,11 @@ The Carrier 58UX is an upflow/horizontal single-stage gas furnace in the Perform
 | Part | Notes |
 |------|-------|
 | Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Most common; clean first, replace if cracked |
-| Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-carrier-58ux-error-codes&tag=errorcodefixes-20) \| 120V silicon nitride type for 58UX |
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-58ux-error-codes&tag=errorcodefixes-20) \| Confirm correct water column rating (typically 0.85" or 1.2") |
-| Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-carrier-58ux-error-codes&tag=errorcodefixes-20) \| If inducer is weak or noisy, pressure switch faults follow |
-| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-carrier-58ux-error-codes&tag=errorcodefixes-20) \| Auto-reset type; check continuity before replacing |
-| Rollout switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-carrier-58ux-error-codes&tag=errorcodefixes-20) \| Manual reset; investigate cause before resetting |
+| Hot surface ignitor | [View on Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-carrier-58ux-error-codes&tag=errorcodefixes-20) \| 120V silicon nitride type for 58UX |
+| Pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-58ux-error-codes&tag=errorcodefixes-20) \| Confirm correct water column rating (typically 0.85" or 1.2") |
+| Inducer motor | [View on Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-carrier-58ux-error-codes&tag=errorcodefixes-20) \| If inducer is weak or noisy, pressure switch faults follow |
+| High-limit switch | [View on Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-carrier-58ux-error-codes&tag=errorcodefixes-20) \| Auto-reset type; check continuity before replacing |
+| Rollout switch | [View on Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-carrier-58ux-error-codes&tag=errorcodefixes-20) \| Manual reset; investigate cause before resetting |
 ## When to Call a Pro
 
 A cracked heat exchanger can cause rollout switch trips and carbon monoxide hazards. If you see repeated rollout trips, persistent combustion odors, or visible cracks in the heat exchanger panels, do not operate the furnace — call a licensed HVAC technician immediately. Gas valve and refrigerant-side diagnostics also require professional tools and certification.

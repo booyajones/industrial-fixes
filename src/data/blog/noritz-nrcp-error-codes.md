@@ -67,7 +67,7 @@ The Noritz NRCP series (NRCP1112-DV, NRCP1262-DV) are direct-vent condensing tan
 | Neutralizer media | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-nrcp-error-codes&k=Neutralizer+media&tag=errorcodefixes-20) \| Calcium carbonate; annual replacement in hard water |
 | Combustion fan | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-nrcp-error-codes&k=Combustion+fan&tag=errorcodefixes-20) \| For Code 57 after obstacle check |
 | Flow sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-nrcp-error-codes&k=Flow+sensor&tag=errorcodefixes-20) \| For Code 66 after descaling attempt |
-| Gas valve assembly | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-noritz-nrcp-error-codes&tag=errorcodefixes-20) \| For Code 51 after confirmed 24V signal |
+| Gas valve assembly | [View on Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-noritz-nrcp-error-codes&tag=errorcodefixes-20) \| For Code 51 after confirmed 24V signal |
 | Secondary heat exchanger | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-nrcp-error-codes&k=Secondary+heat+exchanger&tag=errorcodefixes-20) \| For Code 90 due to scale — expensive; consider unit age |
 ## When to Call a Pro
 

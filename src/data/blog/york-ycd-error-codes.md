@@ -55,10 +55,10 @@ The York YCD is a commercial single-packaged gas/electric rooftop unit available
 
 | Part | Notes |
 |---|---|
-| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-york-ycd-error-codes&tag=errorcodefixes-20) \| For condenser fan motor |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-york-ycd-error-codes&tag=errorcodefixes-20) \| Match tonnage — 3-ton and 5-ton use different motors |
-| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-york-ycd-error-codes&tag=errorcodefixes-20) \| 610 PSIG cutout for R-410A |
-| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-york-ycd-error-codes&tag=errorcodefixes-20) \| 50 PSIG cutout |
+| Run capacitor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-york-ycd-error-codes&k=York+Run+capacitor&tag=errorcodefixes-20) \| For condenser fan motor |
+| Condenser fan motor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-york-ycd-error-codes&k=York+Condenser+fan+motor&tag=errorcodefixes-20) \| Match tonnage — 3-ton and 5-ton use different motors |
+| High-pressure switch | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-york-ycd-error-codes&k=York+High-pressure+switch&tag=errorcodefixes-20) \| 610 PSIG cutout for R-410A |
+| Low-pressure switch | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-york-ycd-error-codes&k=York+Low-pressure+switch&tag=errorcodefixes-20) \| 50 PSIG cutout |
 | Discharge air sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-york-ycd-error-codes&k=Discharge+air+sensor&tag=errorcodefixes-20) \| NTC thermistor; check resistance at known temperature |
 | Unit controller board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-york-ycd-error-codes&k=Unit+controller+board&tag=errorcodefixes-20) \| For persistent communication or sensor faults |
 ## When to Call a Pro

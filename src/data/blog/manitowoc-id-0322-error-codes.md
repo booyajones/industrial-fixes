@@ -37,7 +37,7 @@ The ID-0322 is often installed in tight undercounter spaces where ventilation is
 
 | Part | Notes |
 |------|-------|
-| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?ascsubtag=ecf-manitowoc-id-0322-error-codes&tag=errorcodefixes-20) \| Code 6 — compact valve specific to this model |
+| Water inlet valve | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-id-0322-error-codes&k=Manitowoc+Water+inlet+valve&tag=errorcodefixes-20) \| Code 6 — compact valve specific to this model |
 | Manitowoc cleaner | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-id-0322-error-codes&k=Manitowoc+cleaner&tag=errorcodefixes-20) \| Quarterly |
 ## When to Call a Pro
 

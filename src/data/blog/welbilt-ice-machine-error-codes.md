@@ -59,8 +59,8 @@ Check supply shutoff is fully open, pressure is 20-80 PSI, and inlet valve scree
 
 | Part | Notes |
 |------|-------|
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-welbilt-ice-machine-error-codes&tag=errorcodefixes-20) \| Most common mechanical fix for E04/E05 |
-| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?ascsubtag=ecf-welbilt-ice-machine-error-codes&tag=errorcodefixes-20) \| For Code 6 / E03 |
+| Condenser fan motor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-welbilt-ice-machine-error-codes&k=Welbilt+Condenser+fan+motor&tag=errorcodefixes-20) \| Most common mechanical fix for E04/E05 |
+| Water inlet valve | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-welbilt-ice-machine-error-codes&k=Welbilt+Water+inlet+valve&tag=errorcodefixes-20) \| For Code 6 / E03 |
 | Manitowoc Ice Machine Cleaner | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-welbilt-ice-machine-error-codes&k=Manitowoc+Ice+Machine+Cleaner&tag=errorcodefixes-20) \| Use every 6 months minimum |
 ## When to Call a Pro
 

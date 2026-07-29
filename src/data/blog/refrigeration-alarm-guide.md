@@ -54,9 +54,9 @@ Before you reach for gauges, check box temperature, airflow, coil condition, con
 |------|-------|
 | Probe / thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-refrigeration-alarm-guide&k=Probe+%2F+thermistor&tag=errorcodefixes-20) \| Cheap part, common failure |
 | Condenser brush or coil cleaner | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-refrigeration-alarm-guide&k=Condenser+brush+or+coil+cleaner&tag=errorcodefixes-20) \| Dirty condensers are everywhere |
-| Fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-refrigeration-alarm-guide&tag=errorcodefixes-20) \| Evaporator and condenser fan failures are common |
-| Door gasket | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?ascsubtag=ecf-refrigeration-alarm-guide&tag=errorcodefixes-20) \| Warm-box issues on walk-ins and merchandisers |
-| Defrost heater / timer | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?ascsubtag=ecf-refrigeration-alarm-guide&tag=errorcodefixes-20) \| For recurring defrost alarms |
+| Fan motor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-refrigeration-alarm-guide&k=Fan+motor&tag=errorcodefixes-20) \| Evaporator and condenser fan failures are common |
+| Door gasket | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-refrigeration-alarm-guide&k=Door+gasket&tag=errorcodefixes-20) \| Warm-box issues on walk-ins and merchandisers |
+| Defrost heater / timer | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-refrigeration-alarm-guide&k=Defrost+heater+%2F+timer&tag=errorcodefixes-20) \| For recurring defrost alarms |
 | Controller manual | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-refrigeration-alarm-guide&k=Controller+manual&tag=errorcodefixes-20) \| Alarm meanings vary by platform |
 ## When to Call a Pro
 

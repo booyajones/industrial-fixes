@@ -96,7 +96,7 @@ Electronic expansion valve faults are common after refrigerant work:
 | [Outdoor main PCB](https://www.amazon.com/s?ascsubtag=ecf-carrier-vrf-error-codes&k=Outdoor+main+PCB&tag=errorcodefixes-20) | Match model and firmware version |
 | [Indoor PCB](https://www.amazon.com/s?k=Indoor+PCB&tag=errorcodefixes-20) | Indoor unit-specific |
 | [Communication wire](https://www.amazon.com/s?ascsubtag=ecf-carrier-vrf-error-codes&k=Communication+wire&tag=errorcodefixes-20) | Unshielded 2-conductor — match gauge for run length |
-| [Temperature sensor](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-carrier-vrf-error-codes&tag=errorcodefixes-20) | 10K NTC thermistor |
+| [Temperature sensor](https://www.amazon.com/s?ascsubtag=ecf-carrier-vrf-error-codes&k=Carrier+Temperature+sensor&tag=errorcodefixes-20) | 10K NTC thermistor |
 | [Inverter module (IPM)](https://www.amazon.com/s?ascsubtag=ecf-carrier-vrf-error-codes&k=Inverter+module+%28IPM%29&tag=errorcodefixes-20) | High-value outdoor part |
 
 > **Note:** Some Carrier VRF product lines are manufactured by Midea. Technical service manuals are available via Carrier's commercial partner portal. Always verify with the model number before ordering parts.

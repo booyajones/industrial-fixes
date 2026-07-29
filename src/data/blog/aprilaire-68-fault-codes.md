@@ -67,7 +67,7 @@ The Aprilaire 68 can gravity drain or use a condensate pump. If water backs up a
 
 | Part | Notes |
 |------|-------|
-| Air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-aprilaire-68-fault-codes&tag=errorcodefixes-20) \| Most common maintenance item |
+| Air filter | [View on Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-aprilaire-68-fault-codes&tag=errorcodefixes-20) \| Most common maintenance item |
 | Refrigerant charge | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-aprilaire-68-fault-codes&k=Refrigerant+charge&tag=errorcodefixes-20) \| After confirmed E1 with clean filter |
 | Start capacitor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-aprilaire-68-fault-codes&k=Start+capacitor&tag=errorcodefixes-20) \| Common on E3 compressor faults |
 | Condensate pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-aprilaire-68-fault-codes&k=Condensate+pump&tag=errorcodefixes-20) \| Replace if pump fails to discharge |

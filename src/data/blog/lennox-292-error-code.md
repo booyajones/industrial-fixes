@@ -52,9 +52,9 @@ This code does not mean the furnace is permanently broken. It means the ignition
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
-| Hot surface igniter | 44W93 | $40–$55 | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-lennox-292-error-code&tag=errorcodefixes-20) \| Repair Clinic / Amazon |
+| Hot surface igniter | 44W93 | $40–$55 | [View on Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-lennox-292-error-code&tag=errorcodefixes-20) \| Repair Clinic / Amazon |
 | Flame sensor | 51W06 | $20–$30 | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Repair Clinic / Amazon |
-| Gas valve (G60DF-1) | LB-100523P | $180–$250 | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-lennox-292-error-code&tag=errorcodefixes-20) \| HVAC Distributors / Amazon |
+| Gas valve (G60DF-1) | LB-100523P | $180–$250 | [View on Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-lennox-292-error-code&tag=errorcodefixes-20) \| HVAC Distributors / Amazon |
 | Control board | 103116-01 | $220–$350 | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| Repair Clinic |
 ## When to Call a Professional
 

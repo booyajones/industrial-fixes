@@ -35,7 +35,7 @@ Error Code E3 on Ice-O-Matic commercial ice machines indicates a water inlet fau
 
 | Part | Notes |
 |------|-------|
-| Water inlet valve assembly | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?ascsubtag=ecf-ice-o-matic-error-code-e3&tag=errorcodefixes-20) \| Replace if coil is open or screen is damaged |
+| Water inlet valve assembly | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-ice-o-matic-error-code-e3&k=Water+inlet+valve+assembly&tag=errorcodefixes-20) \| Replace if coil is open or screen is damaged |
 | Supply line / water filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ice-o-matic-error-code-e3&k=Supply+line+%2F+water+filter&tag=errorcodefixes-20) \| Replace if filter is clogged or line is kinked |
 ## When to Call a Pro
 

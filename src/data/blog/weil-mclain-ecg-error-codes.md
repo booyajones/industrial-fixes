@@ -61,7 +61,7 @@ The Weil-McLain ECG (ECG-Series) is a cast-iron gas boiler designed for hydronic
 
 | Part | Notes |
 |------|-------|
-| Thermocouple | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?ascsubtag=ecf-weil-mclain-ecg-error-codes&tag=errorcodefixes-20) \| For standing pilot models; $10–20 |
+| Thermocouple | [View on Amazon](https://www.amazon.com/dp/B00RJF4PYQ?ascsubtag=ecf-weil-mclain-ecg-error-codes&tag=errorcodefixes-20) \| For standing pilot models; $10–20 |
 | Ignition module (Beckett/Honeywell) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-ecg-error-codes&k=Ignition+module+%28Beckett%2FHoneywell%29&tag=errorcodefixes-20) \| For electronic ignition lockout |
 | Circulator pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-ecg-error-codes&k=Circulator+pump&tag=errorcodefixes-20) \| For limit trips with zone valve confirmed open |
 | Low water cutoff (LWCO) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-ecg-error-codes&k=Low+water+cutoff+%28LWCO%29&tag=errorcodefixes-20) \| For LWCO lockout with normal water level |

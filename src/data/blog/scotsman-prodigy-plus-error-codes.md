@@ -81,10 +81,10 @@ Codes 10 and above typically indicate a sensor out of range or a control board f
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
 | Scotsman Ice Machine Cleaner (8 oz) | Fixes Alert 2 scale / harvest issues | $15–$25 — [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-scotsman-prodigy-plus-error-codes&k=Scotsman+ice+machine+cleaner+8+oz&tag=errorcodefixes-20) |
-| Water inlet valve (Scotsman 12-2586-01) | Fixes Alert 2 or 4 when valve won't open | $40–$80 — [Search on Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?ascsubtag=ecf-scotsman-prodigy-plus-error-codes&tag=errorcodefixes-20) |
+| Water inlet valve (Scotsman 12-2586-01) | Fixes Alert 2 or 4 when valve won't open | $40–$80 — [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-scotsman-prodigy-plus-error-codes&k=Water+inlet+valve+%28Scotsman+12-2586-01%29&tag=errorcodefixes-20) |
 | Harvest thermostat | Fixes Alert 8 short freeze | $20–$40 — [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-scotsman-prodigy-plus-error-codes&k=Scotsman+ice+machine+harvest+thermostat&tag=errorcodefixes-20) |
 | Bin thermostat / ice sensor | Fixes Alert 7 ice level fault | $20–$45 — [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-scotsman-prodigy-plus-error-codes&k=Scotsman+ice+machine+bin+thermostat&tag=errorcodefixes-20) |
-| Condenser fan motor | Fixes Alert 5 when fan won't run | $60–$130 — [Search on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-scotsman-prodigy-plus-error-codes&tag=errorcodefixes-20) |
+| Condenser fan motor | Fixes Alert 5 when fan won't run | $60–$130 — [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-scotsman-prodigy-plus-error-codes&k=Condenser+fan+motor&tag=errorcodefixes-20) |
 | Water pump (Scotsman 12-2305-01) | Low harvest water flow causing Alert 2 | $50–$100 — [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-scotsman-prodigy-plus-error-codes&k=Scotsman+ice+machine+water+pump+12-2305-01&tag=errorcodefixes-20) |
 
 ## When to Call a Pro

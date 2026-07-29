@@ -78,11 +78,11 @@ The flame lights but the flame sensor can't prove it's there. The sensor rod is 
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| Hot surface igniter (45K BTU, 120V) | Fixes Code 4-1 ignition failure | $20–$45 — [Search on Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-lennox-merit-series-furnace-error-codes&tag=errorcodefixes-20) |
+| Hot surface igniter (45K BTU, 120V) | Fixes Code 4-1 ignition failure | $20–$45 — [View on Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-lennox-merit-series-furnace-error-codes&tag=errorcodefixes-20) |
 | Flame sensor rod (universal) | Fixes Code 4-2 proving failure | $10–$20 — [Search on Amazon](https://www.amazon.com/s?k=Flame+sensor+rod+%28universal%29&tag=errorcodefixes-20) |
-| Draft inducer motor (Lennox 10J62) | Fixes Code 2-2 when motor fails | $100–$250 — [Search on Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-lennox-merit-series-furnace-error-codes&tag=errorcodefixes-20) |
-| Pressure switch (0.48" WC) | Fixes Code 2-2 after hose checks out | $15–$30 — [Search on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-lennox-merit-series-furnace-error-codes&tag=errorcodefixes-20) |
-| High limit switch (200°F auto-reset) | Fixes Code 3-4 stuck-open limit | $15–$30 — [Search on Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-lennox-merit-series-furnace-error-codes&tag=errorcodefixes-20) |
+| Draft inducer motor (Lennox 10J62) | Fixes Code 2-2 when motor fails | $100–$250 — [View on Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-lennox-merit-series-furnace-error-codes&tag=errorcodefixes-20) |
+| Pressure switch (0.48" WC) | Fixes Code 2-2 after hose checks out | $15–$30 — [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-lennox-merit-series-furnace-error-codes&tag=errorcodefixes-20) |
+| High limit switch (200°F auto-reset) | Fixes Code 3-4 stuck-open limit | $15–$30 — [View on Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-lennox-merit-series-furnace-error-codes&tag=errorcodefixes-20) |
 | Control board (LB-100021E) | Fixes Code 4-4 gas valve relay fault | $100–$200 — [Search on Amazon](https://www.amazon.com/s?k=Control+board+%28LB-100021E%29&tag=errorcodefixes-20) |
 
 ## When to Call a Pro

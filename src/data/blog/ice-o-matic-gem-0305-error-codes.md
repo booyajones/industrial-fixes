@@ -58,10 +58,10 @@ The Ice-O-Matic GEM-0305 is a GEMU (Elevation) series cube ice machine producing
 |---|---|
 | Hot gas solenoid valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ice-o-matic-gem-0305-error-codes&k=Hot+gas+solenoid+valve&tag=errorcodefixes-20) \| Check coil resistance before ordering complete valve |
 | Harvest gate motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ice-o-matic-gem-0305-error-codes&k=Harvest+gate+motor&tag=errorcodefixes-20) \| GEM-specific gear motor; not interchangeable |
-| Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?ascsubtag=ecf-ice-o-matic-gem-0305-error-codes&tag=errorcodefixes-20) \| Float plus switch assembly |
+| Float switch | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-ice-o-matic-gem-0305-error-codes&k=Float+switch&tag=errorcodefixes-20) \| Float plus switch assembly |
 | Freeze/harvest thermistors | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ice-o-matic-gem-0305-error-codes&k=Freeze%2Fharvest+thermistors&tag=errorcodefixes-20) \| Sold individually or as a pair |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-ice-o-matic-gem-0305-error-codes&tag=errorcodefixes-20) \| Confirm CFM and HP rating |
-| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?ascsubtag=ecf-ice-o-matic-gem-0305-error-codes&tag=errorcodefixes-20) \| Include strainer in cleaning |
+| Condenser fan motor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-ice-o-matic-gem-0305-error-codes&k=Condenser+fan+motor&tag=errorcodefixes-20) \| Confirm CFM and HP rating |
+| Water inlet valve | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-ice-o-matic-gem-0305-error-codes&k=Water+inlet+valve&tag=errorcodefixes-20) \| Include strainer in cleaning |
 ## When to Call a Pro
 
 Ice-O-Matic service training is available through their authorized service network and is recommended for harvest gate mechanism repairs. Refrigerant service on GEM series machines requires EPA 608 certification. The ice machine should be on a quarterly cleaning schedule — improper or infrequent cleaning is the root cause of most GEM-0305 service calls.

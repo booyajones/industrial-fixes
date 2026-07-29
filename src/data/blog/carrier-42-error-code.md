@@ -35,9 +35,9 @@ Carrier code 42 is an **inducer motor fault** — the control board fired the in
 
 | Part | Notes |
 |------|-------|
-| Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-carrier-42-error-code&tag=errorcodefixes-20) \| Match HP and RPM to model; Carrier OEM or aftermarket (Fasco, Rotom) |
-| Draft pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-42-error-code&tag=errorcodefixes-20) \| Single or dual-port; verify cracking pressure spec on the label |
-| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-carrier-42-error-code&tag=errorcodefixes-20) \| Standard 3/16" or 1/4" silicone tubing |
+| Inducer motor assembly | [View on Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-carrier-42-error-code&tag=errorcodefixes-20) \| Match HP and RPM to model; Carrier OEM or aftermarket (Fasco, Rotom) |
+| Draft pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-42-error-code&tag=errorcodefixes-20) \| Single or dual-port; verify cracking pressure spec on the label |
+| Pressure switch hose | [View on Amazon](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-carrier-42-error-code&tag=errorcodefixes-20) \| Standard 3/16" or 1/4" silicone tubing |
 ## When to Call a Pro
 
 If the flue is clear, the switch tests good, and the motor runs but the fault persists, the control board may have a failed tach input circuit. Board replacement requires verifying compatibility and should be done by a licensed technician on systems still under warranty.

@@ -56,11 +56,11 @@ The Trane YSC is a light commercial gas/electric packaged rooftop unit available
 
 | Part | Notes |
 |---|---|
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-trane-ysc-error-codes&tag=errorcodefixes-20) \| Multiple motors on larger tonnage; match HP and RPM |
-| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-trane-ysc-error-codes&tag=errorcodefixes-20) \| Check µF against nameplate before replacing motor |
+| Condenser fan motor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-ysc-error-codes&k=Trane+Condenser+fan+motor&tag=errorcodefixes-20) \| Multiple motors on larger tonnage; match HP and RPM |
+| Run capacitor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-ysc-error-codes&k=Trane+Run+capacitor&tag=errorcodefixes-20) \| Check µF against nameplate before replacing motor |
 | ReliaTel controller | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-ysc-error-codes&k=ReliaTel+controller&tag=errorcodefixes-20) \| For persistent COM or sensor faults |
 | Supply/return air sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-ysc-error-codes&k=Supply%2Freturn+air+sensor&tag=errorcodefixes-20) \| NTC thermistor; causes FP, SAT, or RAT codes |
-| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-ysc-error-codes&tag=errorcodefixes-20) \| 610 PSIG for R-410A |
+| High-pressure switch | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-ysc-error-codes&k=Trane+High-pressure+switch&tag=errorcodefixes-20) \| 610 PSIG for R-410A |
 | Liquid line filter-drier | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-ysc-error-codes&k=Liquid+line+filter-drier&tag=errorcodefixes-20) \| Replace after any refrigerant-side repair |
 ## When to Call a Pro
 

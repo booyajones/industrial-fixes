@@ -63,10 +63,10 @@ The Navien NPE series (including NPE-180A, NPE-210A, NPE-240A, NPE-180S, NPE-210
 | Part | Notes |
 |------|-------|
 | Flow sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-npe-error-codes&k=Flow+sensor&tag=errorcodefixes-20) \| E302; descale first before replacing |
-| Air pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-navien-npe-error-codes&tag=errorcodefixes-20) \| E010 after vent confirmed clear |
-| Gas valve assembly | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-navien-npe-error-codes&tag=errorcodefixes-20) \| E001/E002 after pressure confirmed |
-| Fan motor assembly | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-navien-npe-error-codes&tag=errorcodefixes-20) \| E024; includes wheel |
-| Outlet temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-navien-npe-error-codes&tag=errorcodefixes-20) \| E007; NTC type |
+| Air pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-navien-npe-error-codes&tag=errorcodefixes-20) \| E010 after vent confirmed clear |
+| Gas valve assembly | [View on Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-navien-npe-error-codes&tag=errorcodefixes-20) \| E001/E002 after pressure confirmed |
+| Fan motor assembly | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-navien-npe-error-codes&tag=errorcodefixes-20) \| E024; includes wheel |
+| Outlet temperature sensor | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-navien-npe-error-codes&tag=errorcodefixes-20) \| E007; NTC type |
 | Igniter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-npe-error-codes&k=Igniter&tag=errorcodefixes-20) \| For E001 with confirmed gas supply |
 ## When to Call a Pro
 

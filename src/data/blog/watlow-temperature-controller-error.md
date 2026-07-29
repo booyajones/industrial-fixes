@@ -43,8 +43,8 @@ If the controller is calling for heat but feedback current is too low, the heate
 
 | Part | Notes |
 |------|-------|
-| Thermocouple / RTD sensor | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?ascsubtag=ecf-watlow-temperature-controller-error&tag=errorcodefixes-20) \| Most common fault source |
-| SSR or contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-watlow-temperature-controller-error&tag=errorcodefixes-20) \| Heater output device |
+| Thermocouple / RTD sensor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-watlow-temperature-controller-error&k=Watlow+Thermocouple+%2F+RTD+sensor&tag=errorcodefixes-20) \| Most common fault source |
+| SSR or contactor | [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-watlow-temperature-controller-error&k=Watlow+SSR+or+contactor&tag=errorcodefixes-20) \| Heater output device |
 | Watlow controller | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-watlow-temperature-controller-error&k=Watlow+controller&tag=errorcodefixes-20) \| Replace after I/O is verified |
 | Fuse or heater element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-watlow-temperature-controller-error&k=Fuse+or+heater+element&tag=errorcodefixes-20) \| Common with Htr alarms |
 ## When to Call a Pro
