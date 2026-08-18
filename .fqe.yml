@@ -28,7 +28,10 @@ runners:
     command: "node"
     args: ["scripts/check-mojibake.mjs"]
     when: ["src/data/blog/**/*.md", "src/**/*.astro", "src/**/*.md"]
-    required: true
+    # NOT `required: true`. In fqe, required means MUST FIRE ON THIS PR, not
+    # "must pass". Paired with a `when` glob it fails every pull request that
+    # does not happen to touch these paths. Omitted, this runner still BLOCKS
+    # whenever it runs and fails, which is the behaviour actually wanted here.
     always_run: false
 
   astro-check:
@@ -38,5 +41,8 @@ runners:
     command: "node"
     args: ["node_modules/astro/astro.js", "check"]
     when: ["src/**", "**/*.astro", "**/*.ts", "src/data/blog/**/*.md", "astro.config.ts"]
-    required: true
+    # NOT `required: true`. In fqe, required means MUST FIRE ON THIS PR, not
+    # "must pass". Paired with a `when` glob it fails every pull request that
+    # does not happen to touch these paths. Omitted, this runner still BLOCKS
+    # whenever it runs and fails, which is the behaviour actually wanted here.
     always_run: false
