@@ -14,6 +14,7 @@ SLACK_BOT_TOKEN = os.environ.get("SLACK_BOT_TOKEN", os.environ.get("SLACK_TOKEN"
 SLACK_CHANNEL = "C0AQZ85MCEN"  # #proj-industrial-code-errors
 
 def get_ga4_data():
+    """Return report data, or None when the summary request fails."""
     creds = service_account.Credentials.from_service_account_file(
         os.environ.get("GOOGLE_APPLICATION_CREDENTIALS", "C:/Users/Administrator/.openclaw/bigquery-key.json"),
         scopes=['https://www.googleapis.com/auth/analytics.readonly']
@@ -40,7 +41,10 @@ def get_ga4_data():
         headers=headers, json=report_body
     )
     if r.status_code != 200:
-        return None, None
+        # A tuple is truthy and breaks callers expecting a report mapping.
+        # Log only the status, never the API response or credentials.
+        print(f"GA4 summary request failed (HTTP {r.status_code})")
+        return None
     
     data = r.json()
     rows = data.get('rows', [])
@@ -175,6 +179,8 @@ def send_report():
         if w:
             lines.append(f"\n*GA4 — Last 7 Days*")
             lines.append(f"• Sessions: *{w['sessions']:,}* | Users: *{w['users']:,}* | Views: *{w['pageviews']:,}*")
+    elif ga4 is None:
+        lines.append("*GA4:* Unavailable: summary request failed")
     else:
         lines.append("*GA4:* No data yet for yesterday")
     
